@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 17 Jan 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2026 08:28:43 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:22:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理</title>
-      <link>https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？</title>
+      <link>https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验</title>
-      <link>https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>仅用一周时间，谷歌就让OpenAI认清现实</title>
+      <link>https://www.tmtpost.com/7846324.html</link>
+      <description>&lt;![CDATA[仅用一周时间，谷歌就让OpenAI认清现实]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7846324.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曾经遥遥领先的德国制造，为何骤然“跌落神坛”？</title>
-      <link>https://www.tmtpost.com/7845975.html</link>
-      <description>&lt;![CDATA[曾经遥遥领先的德国制造，为何骤然“跌落神坛”？]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 14:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7845975.html</guid>
+      <title>告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？</title>
+      <link>https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>贾国龙的“我不认”与诺基亚的“我们没做错什么”</title>
-      <link>https://www.tmtpost.com/7846164.html</link>
-      <description>&lt;![CDATA[贾国龙的“我不认”与诺基亚的“我们没做错什么”]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 08:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7846164.html</guid>
+      <title>2026，AI音乐跃迁元年？</title>
+      <link>https://www.tmtpost.com/7846436.html</link>
+      <description>&lt;![CDATA[2026，AI音乐跃迁元年？]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7846436.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>推荐 2 个 GitHub 上的 Markdown 开源工具，有意思。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530619&amp;idx=1&amp;sn=63b3f466f345c4d1043a6fa549472ac4</link>
-      <description>&lt;![CDATA[推荐 2 个 GitHub 上的 Markdown 开源工具，有意思。]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530619&amp;idx=1&amp;sn=63b3f466f345c4d1043a6fa549472ac4</guid>
+      <title>这轮对外卖行业“调查评估”，现阶段主要看什么？</title>
+      <link>https://www.tmtpost.com/7846042.html</link>
+      <description>&lt;![CDATA[这轮对外卖行业“调查评估”，现阶段主要看什么？]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7846042.html</guid>
       <category>Technology</category>
     </item>
   </channel>

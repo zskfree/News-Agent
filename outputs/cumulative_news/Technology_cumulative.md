@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 08:28
+**最后更新时间**: 2026-01-17 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-17 23:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 20:00
+
+#### [告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？](https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 19:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这轮对外卖行业“调查评估”，现阶段主要看什么？](https://www.tmtpost.com/7846042.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [2026，AI音乐跃迁元年？](https://www.tmtpost.com/7846436.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [携程遭反垄断调查，OTA行业硝烟再起](https://www.tmtpost.com/7846535.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [餐酒吧连锁，是一门怎样的生意？](https://www.tmtpost.com/7846252.html)
+**发布时间**: 2026-01-17 18:04
+
+#### [Staar Surgical、Alumis等公司股票因激进投资者的行动而出现波动](https://www.tmtpost.com/7846443.html)
+**发布时间**: 2026-01-17 17:35
+
+#### [分析师称Affirm将从循环信贷中抢占份额](https://www.tmtpost.com/7846441.html)
+**发布时间**: 2026-01-17 17:34
+
+#### [仅用一周时间，谷歌就让OpenAI认清现实](https://www.tmtpost.com/7846324.html)
+**发布时间**: 2026-01-17 16:59
+
+#### [黄金迎来史诗级牛市，上游矿企狂欢，金饰品牌陷“关店潮”](https://www.tmtpost.com/7846056.html)
+**发布时间**: 2026-01-17 16:34
 
 ---
 

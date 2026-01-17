@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8547754b518f2d219285febb938a7076c8023e180c3fbfc657973c6d5e44665": {
-        "title": "昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro",
-        "link": "https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 06:00:00 GMT",
-        "first_seen": "2025-12-18T08:37:55.941166"
-      },
-      "93cbe0ab14ec1232b7560d4daa1029bbee767ce56243c4fc837e69fa3e0d2024": {
-        "title": "数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式",
-        "link": "https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 16:25:00 GMT",
-        "first_seen": "2025-12-18T08:37:55.941172"
-      },
-      "125dacc719e004557a86683ef286a605e838e06b1287ba206dd524955a7c445c": {
-        "title": "2026产业预判：AI智能体接管互联网，认知差异将重塑贫富格局",
-        "link": "https://www.tmtpost.com/7812863.html",
-        "published_date": "Thu, 18 Dec 2025 12:11:00 GMT",
-        "first_seen": "2025-12-18T08:37:55.941175"
-      },
-      "0766a6bc32dda2a30406512fb5567a71a9286f6943f57c3e35adc17349857fca": {
-        "title": "Meta的React Compiler 1.0将自动记忆化引入到生产环境",
-        "link": "https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 15:30:00 GMT",
-        "first_seen": "2025-12-18T08:37:55.941177"
-      },
-      "9e39fc85614f6585bbb3b1c04b1b8954b3fd5dbe3b3dcc4b95f71ac0efb81e8c": {
-        "title": "人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2",
-        "link": "http://www.geekpark.net/news/358189",
-        "published_date": "Thu, 18 Dec 2025 16:29:00 GMT",
-        "first_seen": "2025-12-18T08:37:55.941178"
-      },
       "e82643de0be0387aa31bd4f19a1f5ef70cb9de6c6d4f310f0f5052100b833d55": {
         "title": "豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？",
         "link": "https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&utm_medium=article",
@@ -2701,63 +2671,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530619&idx=1&sn=63b3f466f345c4d1043a6fa549472ac4",
         "published_date": "Sat, 17 Jan 2026 16:01:00 GMT",
         "first_seen": "2026-01-17T08:28:43.156502"
+      },
+      "c91c07228b57d0d3193d6ed7ab99f82642fcc9cdd02f5f5df4de9c9eb834ba22": {
+        "title": "烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？",
+        "link": "https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 20:00:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.110436"
+      },
+      "3d8473349a369887e38cabf062b7a4cea8288a19a4489d9ad40d49fd52dfdeb9": {
+        "title": "仅用一周时间，谷歌就让OpenAI认清现实",
+        "link": "https://www.tmtpost.com/7846324.html",
+        "published_date": "Sat, 17 Jan 2026 16:59:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.110443"
+      },
+      "50eaa4e7a1caf669eff2a7fd77052bf90b2141a4b81747eb759136ba4fced477": {
+        "title": "告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？",
+        "link": "https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 19:37:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.110445"
+      },
+      "dc1bab8a806052322e84f0ae9adaae3b5eeff1a0cc04128938c7f567577c4e33": {
+        "title": "2026，AI音乐跃迁元年？",
+        "link": "https://www.tmtpost.com/7846436.html",
+        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.110447"
+      },
+      "90535b29fa504cd97f621fd437f7882f4e13832b0fe92f1266c2fc2774a6c532": {
+        "title": "这轮对外卖行业“调查评估”，现阶段主要看什么？",
+        "link": "https://www.tmtpost.com/7846042.html",
+        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
+        "first_seen": "2026-01-17T23:22:43.110449"
       }
     },
     "Finance": {
-      "efb556b063ea19566d4d237f1bb4a4cfb64eb261d33223e387c81fdc982986c7": {
-        "title": "EU leaders vow to agree funding for Ukraine",
-        "link": "https://www.ft.com/content/59ae380c-0eec-4edd-a1a0-92ae776af9f1",
-        "published_date": "Thu, 18 Dec 2025 08:23:00 GMT",
-        "first_seen": "2025-12-18T08:37:05.928393"
-      },
-      "ad0b9c5d56c3d3f3e646a82299843e473248db3b8e28edaf9c100325e2a0b24b": {
-        "title": "BP replaces CEO Murray Auchincloss after less than two years",
-        "link": "https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66",
-        "published_date": "Thu, 18 Dec 2025 08:04:00 GMT",
-        "first_seen": "2025-12-18T08:37:05.928402"
-      },
-      "66e73f6237c7e5a36034ef21428d94a0106efa5dd2a6a284e501608671076c49": {
-        "title": "US approves $11bn arms sale to Taiwan",
-        "link": "https://www.ft.com/content/feda40da-5297-43f8-80a0-a5252e6bc89e",
-        "published_date": "Thu, 18 Dec 2025 07:57:00 GMT",
-        "first_seen": "2025-12-18T08:37:05.928404"
-      },
-      "8af99188c7e848b3df9412710ce0cbb83a7b5f664538f0913546370afb459d1e": {
-        "title": "Can Venezuela’s Maduro survive Trump’s oil blockade?",
-        "link": "https://www.ft.com/content/283eb1b9-2274-41f1-8075-b1cc4cba477c",
-        "published_date": "Thu, 18 Dec 2025 06:14:00 GMT",
-        "first_seen": "2025-12-18T08:37:05.928406"
-      },
-      "e5b50e32301de98ee67ed201219629de92895505a83e41410cdff46510f38753": {
-        "title": "BoE cuts rates by quarter point to 3.75%",
-        "link": "https://www.ft.com/content/717c3ac9-c750-41bc-b74a-163ae1c5b103",
-        "published_date": "Thu, 18 Dec 2025 14:19:00 GMT",
-        "first_seen": "2025-12-18T23:22:07.655675"
-      },
-      "de056d4beb2c9f717026b44993a76da137111759e3c239cb2cb34513c364b991": {
-        "title": "Economists warn of flaws in US inflation report",
-        "link": "https://www.ft.com/content/bee83769-fa41-4d18-9dc2-4a46130c72a8",
-        "published_date": "Thu, 18 Dec 2025 21:03:00 GMT",
-        "first_seen": "2025-12-18T23:22:07.655700"
-      },
-      "b33849e48e532d36fb820f3f61ed6bbbf333703f2d374c6bbcb779a178fe081e": {
-        "title": "Marijuana stocks sell off as Trump signs executive order to reclassify cannabis",
-        "link": "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 21:20:00 GMT",
-        "first_seen": "2025-12-18T23:22:07.655703"
-      },
-      "224915262de1c77766f0fde73fa7ae5cfaf7d4e9e3474c57146f81296025fafd": {
-        "title": "Nvidia and other chip stocks rise — but that doesn’t mean the AI trade is back for good",
-        "link": "https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 21:51:00 GMT",
-        "first_seen": "2025-12-18T23:22:07.655705"
-      },
-      "60fe2bee1d557d796477d719705e0ed3b1485dba02d568d3a8ffd4bf682966c4": {
-        "title": "FedEx calls for more profit this year as this key business turns around",
-        "link": "https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 21:55:00 GMT",
-        "first_seen": "2025-12-18T23:22:07.655706"
-      },
       "1dcc6a9083eb915ff815aab295b6efc480c1596bcadd868eb65a467c48688ab2": {
         "title": "EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails",
         "link": "https://www.ft.com/content/e5691048-696b-44cd-8a0a-50b917e3d62a",
@@ -4533,39 +4479,39 @@
         "link": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
         "published_date": "Sat, 17 Jan 2026 01:46:00 GMT",
         "first_seen": "2026-01-17T05:22:06.466382"
+      },
+      "f72eb4b472dfa6576ec0de160b500033ecc7ded313ac6ef05ce7beb821bbc933": {
+        "title": "Private credit investors pull $7bn from Wall Street’s biggest funds",
+        "link": "https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468",
+        "published_date": "Sat, 17 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.053995"
+      },
+      "9f27e17d3d10d7c7fc11fed3136872c7021f3adf1cd133e050260f3231a3d9cb": {
+        "title": "14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits",
+        "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 19:35:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.054004"
+      },
+      "fe60abd392ee10d6670b0161a9acecde987a75bec67d2afc2924137f07b81dec": {
+        "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+        "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 19:15:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.054006"
+      },
+      "e582951d647dd4d72c6b392ad888c853ad0bf35a28ca1e91dc644f66d0cb710c": {
+        "title": "EU and Mercosur bloc sign trade deal after decades of talks",
+        "link": "https://www.ft.com/content/d894fa07-72a5-4081-8311-42127f20ab76",
+        "published_date": "Sat, 17 Jan 2026 16:51:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.054008"
+      },
+      "fc96879053c0dc098be3d40c35a5ad2bcd6525aaea187660ad182bb54918cf4e": {
+        "title": "‘Your whole life is on the phone.’ Should companies like Verizon be forced to refund you the next time there’s a major outage?",
+        "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
+        "published_date": "Sat, 17 Jan 2026 18:08:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.054010"
       }
     },
     "Ai": {
-      "ccf0b52f001fa4ed13f74193171b2dbfbdf9b560d97c85cac509d46677609983": {
-        "title": "腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报",
-        "link": "https://www.qbitai.com/2025/12/361841.html",
-        "published_date": "Thu, 18 Dec 2025 07:02:00 GMT",
-        "first_seen": "2025-12-18T08:37:06.047023"
-      },
-      "fd32392a1b4c139e68c35c25362d9b0dbedb7e7c1fa417c0c5e7e0297a7fc404": {
-        "title": "“特斯拉延期交付机器人是卡在灵巧手上，中国灵巧手遥遥领先”| 灵心巧手@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/361803.html",
-        "published_date": "Thu, 18 Dec 2025 06:40:00 GMT",
-        "first_seen": "2025-12-18T08:37:06.047031"
-      },
-      "e7b86409a2c6cfaf1223b240267771d270f882993aa0f541efd33ae792b59601": {
-        "title": "具身智能的数据难题，终于有了可规模化的解法",
-        "link": "https://www.qbitai.com/2025/12/361743.html",
-        "published_date": "Thu, 18 Dec 2025 06:20:00 GMT",
-        "first_seen": "2025-12-18T08:37:06.047033"
-      },
-      "5666c036eb7a8660792fa6609a507663873f46211aa37741eefae3b96155e293": {
-        "title": "医生版ChatGPT，估值120亿美元",
-        "link": "https://www.qbitai.com/2025/12/361726.html",
-        "published_date": "Thu, 18 Dec 2025 05:45:00 GMT",
-        "first_seen": "2025-12-18T08:37:06.047034"
-      },
-      "53c1b2b1e2c4b571590dea66127eadff175de3272cae66321bf3437e2aea55f3": {
-        "title": "2025-12-18日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-18/",
-        "published_date": "Thu, 18 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-18T08:37:06.047036"
-      },
       "cd1783b60cd9dd421706e65b64349086cf9e52b96c1de88900cda6bc56e36ac5": {
         "title": "北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵",
         "link": "https://www.jiqizhixin.com/articles/2025-12-18-4",
@@ -6743,13 +6689,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-17",
         "published_date": "Sat, 17 Jan 2026 13:25:00 GMT",
         "first_seen": "2026-01-17T08:28:32.552669"
+      },
+      "36bbc9b2745d0b3873a9b9240c5d7be29148d80c02f17d006f6e3477f5ce4d6e": {
+        "title": "2026-01-18日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-18/",
+        "published_date": "Sun, 18 Jan 2026 07:14:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.207369"
+      },
+      "256bfb9ab022946a69eec9a740c1e67c16bf35af9b6cb0c476c3ed2b419bd396": {
+        "title": "AI 视频生成时代，留给人类的只有演技？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-4",
+        "published_date": "Sat, 17 Jan 2026 17:57:00 GMT",
+        "first_seen": "2026-01-17T23:22:29.207377"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-17T08:28:43.156505",
-    "Finance": "2026-01-17T05:22:06.466384",
-    "Ai": "2026-01-17T08:28:32.552672"
+    "Technology": "2026-01-17T23:22:43.110452",
+    "Finance": "2026-01-17T23:22:29.054012",
+    "Ai": "2026-01-17T23:22:29.207380"
   }
 }

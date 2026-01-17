@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 08:28
+**最后更新时间**: 2026-01-17 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-17 23:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Broad mandate of Trump’s Board of Peace sets it up for rivalry with UN](https://www.ft.com/content/0ee79faa-86d3-4c01-a180-add6e164ac28)
+**发布时间**: 2026-01-17 22:35
+
+#### [Trump to hit Europe with 10% tariffs until Greenland deal is agreed](https://www.ft.com/content/60552052-78b7-4734-b398-efc87c1d4b17)
+**发布时间**: 2026-01-17 20:07
+
+#### [Ali Sha’ath: the new Gaza chief who must rebuild the shattered enclave](https://www.ft.com/content/814f1ab6-31d5-4591-9c83-eeb328c1ea4e)
+**发布时间**: 2026-01-17 17:06
+
+#### [EU and Mercosur bloc sign trade deal after decades of talks](https://www.ft.com/content/d894fa07-72a5-4081-8311-42127f20ab76)
+**发布时间**: 2026-01-17 16:51
+
+#### [Private credit investors pull $7bn from Wall Street’s biggest funds](https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468)
+**发布时间**: 2026-01-17 12:00
+
+#### [Why has more Maga mayhem equalled ever-higher stocks?](https://www.ft.com/content/7f0aa635-cfad-4d59-8a96-a926a4a01520)
+**发布时间**: 2026-01-17 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These 20 cheap S&P 500 stocks can cushion the blow in a market downturn](https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 19:54
+
+#### [14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits](https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 19:35
+
+#### [Trump plans 10% tariffs on European countries over Greenland: What it means for markets.](https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 19:15
+
+#### [‘Your whole life is on the phone.’ Should companies like Verizon be forced to refund you the next time there’s a major outage?](https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 18:08
+
+#### [6 stocks and ETFs that these unsung market heroes see outperforming in 2026](https://www.marketwatch.com/story/6-stocks-and-etfs-that-these-unsung-market-heroes-see-outperforming-in-2026-0aef8bb8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 17:04
+
+#### [My wealthy friend invited me to stay, but he doesn’t need more ‘stuff.’ What do I get the man who has everything?](https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories)
+**发布时间**: 2026-01-17 17:00
 
 ---
 

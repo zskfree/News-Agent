@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 17 Jan 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2026 08:28:32 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:22:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>贴广告的ChatGPT，一夜之间让全球网友破了防</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-17-3</link>
-      <description>&lt;![CDATA[贴广告的ChatGPT，一夜之间让全球网友破了防]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-17-3</guid>
+      <title>2026-01-18日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-18/</link>
+      <description>&lt;![CDATA[2026-01-18日刊]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-18/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-17-2</link>
-      <description>&lt;![CDATA[开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-17-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-17</link>
-      <description>&lt;![CDATA[大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题]]&gt;</description>
-      <pubDate>Sat, 17 Jan 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-17</guid>
+      <title>AI 视频生成时代，留给人类的只有演技？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-17-4</link>
+      <description>&lt;![CDATA[AI 视频生成时代，留给人类的只有演技？]]&gt;</description>
+      <pubDate>Sat, 17 Jan 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-17-4</guid>
       <category>Ai</category>
     </item>
   </channel>
