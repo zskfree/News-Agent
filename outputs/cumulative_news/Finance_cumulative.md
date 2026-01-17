@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 05:22
+**最后更新时间**: 2026-01-17 08:28
+
+---
+
+## 🆕 最新更新 (2026-01-17 08:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The right will want a United States of Europe](https://www.ft.com/content/6dc7fea9-7f2e-44cc-a486-fa10791eb267)
+**发布时间**: 2026-01-17 05:10
+
+#### [Iran’s road to revolt](https://www.ft.com/content/3aece075-9801-4959-a25d-c05d2cd72fcc)
+**发布时间**: 2026-01-17 05:00
+
+#### [Former Nato chief attacks Trump’s ‘gangster’ talk on Greenland](https://www.ft.com/content/9dd480eb-5969-495b-b1fe-b108eb602e2a)
+**发布时间**: 2026-01-17 05:00
+
+#### [Monzo to hand TS Anil expanded role after investor backlash](https://www.ft.com/content/7d4e11d3-f30e-4c33-bedc-908cf221cffc)
+**发布时间**: 2026-01-17 05:00
+
+#### [‘Sadness’ and ‘betrayal’ in Newark after Jenrick’s defection to Reform](https://www.ft.com/content/c0c64853-c006-4012-b7ec-eca1e0bd2def)
+**发布时间**: 2026-01-16 19:55
 
 ---
 

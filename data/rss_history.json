@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "886e31d24ecf163777c8d75c22be5eebc43b768ad13d6449c0771e0198d8cd6f": {
-        "title": "构建 Agentic AI 未来：Snowflake Build 大会开幕主题演讲技术发布一览",
-        "link": "https://www.infoq.cn/article/IiLfSVDNdxCd8guuT2mP?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 11:27:00 GMT",
-        "first_seen": "2025-12-18T05:31:28.572763"
-      },
-      "c9239c2d027e2d1d95a88cbccb566940a0d9fc6384cce1db9327629207d8025a": {
-        "title": "明星科技股两大创始人，锒铛入狱",
-        "link": "https://www.tmtpost.com/7812615.html",
-        "published_date": "Thu, 18 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-18T05:31:28.572772"
-      },
-      "399faf2692c0687520d6cf4f09a53d5e83e52f960e7dfe4b35d42d96e941c48e": {
-        "title": "派早报：小米发布 MiMo-V2-Flash 模型、FIFA 将推出新游戏等",
-        "link": "https://sspai.com/post/104678",
-        "published_date": "Thu, 18 Dec 2025 08:32:00 GMT",
-        "first_seen": "2025-12-18T05:31:28.572774"
-      },
-      "be179e320ce4c1740f752c3336a8c8615404665f211b88cd3ba2465f92aec2e0": {
-        "title": "低空经济2025：热潮、泡沫与真价值的博弈",
-        "link": "https://www.tmtpost.com/7812660.html",
-        "published_date": "Thu, 18 Dec 2025 12:53:00 GMT",
-        "first_seen": "2025-12-18T05:31:28.572776"
-      },
-      "e3f0b862d28d762868cb4c9e6dadd939e2b68f7350f0634cb2f6df62e76ef1f8": {
-        "title": "林清轩叩响港股大门，珀莱雅增速放缓，国货美妆品牌“分化”",
-        "link": "https://www.tmtpost.com/7813034.html",
-        "published_date": "Thu, 18 Dec 2025 12:48:00 GMT",
-        "first_seen": "2025-12-18T05:31:28.572778"
-      },
       "b8547754b518f2d219285febb938a7076c8023e180c3fbfc657973c6d5e44665": {
         "title": "昨夜，谷歌祭出迄今编程能力最强模型 Gemini 3 Flash！白菜价、但代码能力超过 Gemini 3 Pro",
         "link": "https://www.infoq.cn/article/psNsqsoX4ORhoR3v8EMx?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7846233.html",
         "published_date": "Sat, 17 Jan 2026 09:39:00 GMT",
         "first_seen": "2026-01-17T05:22:23.544079"
+      },
+      "f8896b50e7b39e4c876763a18c8c3ed9e7ebad666864b8d128f3ee12568f5324": {
+        "title": "IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理",
+        "link": "https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 13:42:00 GMT",
+        "first_seen": "2026-01-17T08:28:43.156489"
+      },
+      "5bd0b0fcca291a04007cedb93253e83e1c0cb4042fd9f3c4e8f8335f13a4d6f3": {
+        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+        "link": "https://www.infoq.cn/article/KXHUrhczo8le9KpyyNjr?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 17 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-17T08:28:43.156497"
+      },
+      "1f5c6bfbd951d705fcd6b06f083cb8de7b77b391ee607dd21924eb3934d855ec": {
+        "title": "曾经遥遥领先的德国制造，为何骤然“跌落神坛”？",
+        "link": "https://www.tmtpost.com/7845975.html",
+        "published_date": "Sat, 17 Jan 2026 14:05:00 GMT",
+        "first_seen": "2026-01-17T08:28:43.156499"
+      },
+      "884c6b0213953431641bce98f45c3dea07b512f53a3abd9bcc292a2ec24a9e90": {
+        "title": "贾国龙的“我不认”与诺基亚的“我们没做错什么”",
+        "link": "https://www.tmtpost.com/7846164.html",
+        "published_date": "Sat, 17 Jan 2026 08:05:00 GMT",
+        "first_seen": "2026-01-17T08:28:43.156501"
+      },
+      "f7ba81cccb345dab282d9f4fdfb847ff0a5c050ccfec0796ee8dbcbe9d90d977": {
+        "title": "推荐 2 个 GitHub 上的 Markdown 开源工具，有意思。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530619&idx=1&sn=63b3f466f345c4d1043a6fa549472ac4",
+        "published_date": "Sat, 17 Jan 2026 16:01:00 GMT",
+        "first_seen": "2026-01-17T08:28:43.156502"
       }
     },
     "Finance": {
-      "8c076edc17c7e6454663aad1ed72f1efd0bdf8d069c199581ec2d3cbdc391cf8": {
-        "title": "Activist investor Elliott reportedly takes $1 billion stake in Lululemon, eyes new CEO",
-        "link": "https://www.marketwatch.com/story/activist-investor-elliott-reportedly-takes-1-billion-stake-in-lululemon-eyes-new-ceo-c1abb334?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 02:03:00 GMT",
-        "first_seen": "2025-12-18T05:29:51.376505"
-      },
-      "9f9824871b46169994608ac549b9a816c3fb0e27a9ff8d2bdb8f2afa56614aaa": {
-        "title": "BP replaces CEO Murray Auchincloss after less than two years in the role",
-        "link": "https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66",
-        "published_date": "Thu, 18 Dec 2025 00:45:00 GMT",
-        "first_seen": "2025-12-18T05:29:51.376517"
-      },
-      "8dbe90c57f53510742f17cce3e6e188d0e1cf1c6c04502923f689503b7ea5b7a": {
-        "title": "Micron can’t keep up with its massive demand, and its stock is soaring",
-        "link": "https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 01:16:00 GMT",
-        "first_seen": "2025-12-18T05:29:51.376520"
-      },
-      "977575b13d6732d62045748e4801fc4cd03b0117c9c8f797ccd195b838b7af8f": {
-        "title": "Japan’s $580bn hidden asset? In the back of the cupboard",
-        "link": "https://www.ft.com/content/40a7158a-dfb9-4ebc-b0b3-816b5a173bbe",
-        "published_date": "Thu, 18 Dec 2025 02:05:00 GMT",
-        "first_seen": "2025-12-18T05:29:51.376522"
-      },
-      "92da0386fbf04d02843af1ab61bb920ff36ca18508797fdb612788b07a8cf709": {
-        "title": "Oracle’s stock falls on a fear one analyst says should be ‘almost irrelevant’",
-        "link": "https://www.marketwatch.com/story/oracles-stock-falls-on-a-fear-one-analyst-says-should-be-almost-irrelevant-c5739221?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Dec 2025 00:16:00 GMT",
-        "first_seen": "2025-12-18T05:29:51.376523"
-      },
       "efb556b063ea19566d4d237f1bb4a4cfb64eb261d33223e387c81fdc982986c7": {
         "title": "EU leaders vow to agree funding for Ukraine",
         "link": "https://www.ft.com/content/59ae380c-0eec-4edd-a1a0-92ae776af9f1",
@@ -4566,36 +4536,6 @@
       }
     },
     "Ai": {
-      "0ce09aa18f0f33ba943ce9a3f277bf08e75a98901ef34b961645dde7dfe12f06": {
-        "title": "OpenAI推出“AI工具链”，让湿实验室生物研究更快更智能",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-3",
-        "published_date": "Thu, 18 Dec 2025 12:07:00 GMT",
-        "first_seen": "2025-12-18T05:30:40.011339"
-      },
-      "4007b6cb23e54a2234a0653017fb8c4c3d3ec6ad5d6d0b291e1e227a8bb39e2e": {
-        "title": "刚刚，让谷歌翻身的Gemini 3，上线Flash版",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-2",
-        "published_date": "Thu, 18 Dec 2025 10:25:00 GMT",
-        "first_seen": "2025-12-18T05:30:40.011347"
-      },
-      "077e1a52d6f504a016f20cd1b2dc055b6c5e7c988b2eb41f9a6e32d30f7249d7": {
-        "title": "比LoRA更快更强，全新框架LoFA上线，秒级适配大模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18",
-        "published_date": "Thu, 18 Dec 2025 10:20:00 GMT",
-        "first_seen": "2025-12-18T05:30:40.011350"
-      },
-      "5bd59964ba3ae8c004124853a3de2bf3df4fa1d71596e66eb53c1da4c8b8e6a2": {
-        "title": "ISC.AI 2025创新百强颁奖典礼落幕，首发智能体专家驱动产业升级",
-        "link": "https://www.qbitai.com/2025/12/361631.html",
-        "published_date": "Thu, 18 Dec 2025 03:53:00 GMT",
-        "first_seen": "2025-12-18T05:30:40.011352"
-      },
-      "b6d6efcea920f4828d0ee251def7436c10649b4a8d962e3c71d53466121d95bd": {
-        "title": "小米大模型“杀”进第一梯队：代码能力开源第一，智商情商全在线",
-        "link": "https://www.qbitai.com/2025/12/361601.html",
-        "published_date": "Thu, 18 Dec 2025 00:57:00 GMT",
-        "first_seen": "2025-12-18T05:30:40.011353"
-      },
       "ccf0b52f001fa4ed13f74193171b2dbfbdf9b560d97c85cac509d46677609983": {
         "title": "腾讯调整大模型组织架构：姚顺雨加盟，向总裁刘炽平汇报",
         "link": "https://www.qbitai.com/2025/12/361841.html",
@@ -6785,13 +6725,31 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-16-7",
         "published_date": "Fri, 16 Jan 2026 13:18:00 GMT",
         "first_seen": "2026-01-16T23:24:42.023166"
+      },
+      "fceee1cd1b1ed9c53884de237271c826d163c4a69abbfa4d143f18cf7f11828d": {
+        "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-3",
+        "published_date": "Sat, 17 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-17T08:28:32.552658"
+      },
+      "8bf8ecff380d2900250f04bca10e4d754b44d43f17f85ec0466e88dbd05015de": {
+        "title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17-2",
+        "published_date": "Sat, 17 Jan 2026 13:29:00 GMT",
+        "first_seen": "2026-01-17T08:28:32.552667"
+      },
+      "0afe50562ba620c2f94d88dc6ee507d9cb5f1638ce822a206ccdf23fac92853e": {
+        "title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-17",
+        "published_date": "Sat, 17 Jan 2026 13:25:00 GMT",
+        "first_seen": "2026-01-17T08:28:32.552669"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-17T05:22:23.544081",
+    "Technology": "2026-01-17T08:28:43.156505",
     "Finance": "2026-01-17T05:22:06.466384",
-    "Ai": "2026-01-16T23:24:42.023169"
+    "Ai": "2026-01-17T08:28:32.552672"
   }
 }
