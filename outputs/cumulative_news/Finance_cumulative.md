@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-18 05:26
+**最后更新时间**: 2026-01-18 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-18 08:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Beijing pours cash into Belt and Road financing in global resources grab](https://www.ft.com/content/ab8ef57c-66b6-456b-9c20-e5d8896fa759)
+**发布时间**: 2026-01-18 05:04
+
+#### [European defence stocks surge as Greenland tensions mount](https://www.ft.com/content/0bea2bf7-d053-4be3-a6cb-b1ef59da871b)
+**发布时间**: 2026-01-18 05:00
+
+#### [Denmark’s investment fund has ‘huge appetite’ to invest in Greenland, says CEO](https://www.ft.com/content/07f9879b-9f06-4b81-b41f-7822ed3797c4)
+**发布时间**: 2026-01-18 05:00
+
+#### [Tehran after the protests: patrols, propaganda and despair](https://www.ft.com/content/941878e6-a33d-44b7-9f04-fb4e9b117a78)
+**发布时间**: 2026-01-18 05:00
+
+#### [Embrace the Fomo, wear sensible shoes and never take a cab: FT writers share their Davos tips](https://www.ft.com/content/047e7859-1afe-4bc0-ac81-6b3bbb29f66f)
+**发布时间**: 2026-01-18 05:00
+
+#### [Can India be luxury’s next big thing?](https://www.ft.com/content/1f3f3068-712b-4096-ab55-15af887ca527)
+**发布时间**: 2026-01-18 05:00
+
+#### [Europe already ‘at war’ with Russia, says central banker](https://www.ft.com/content/16b95175-6b23-4544-86e5-4d9c6662d6b4)
+**发布时间**: 2026-01-18 05:00
+
+#### [Demand drop leaves drinks makers with lake of unsold spirits](https://www.ft.com/content/9e6f024c-63b5-493f-bb35-6c1c05e90e55)
+**发布时间**: 2026-01-18 05:00
 
 ---
 
