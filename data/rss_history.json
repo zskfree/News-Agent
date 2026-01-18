@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e82643de0be0387aa31bd4f19a1f5ef70cb9de6c6d4f310f0f5052100b833d55": {
-        "title": "豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？",
-        "link": "https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 18:00:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816047"
-      },
-      "04cb215e3ff1946fd59187e78abe70e4d7737d214f4cdb6ca41cfc534933e78f": {
-        "title": "OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation",
-        "link": "https://www.tmtpost.com/7813253.html",
-        "published_date": "Thu, 18 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816053"
-      },
-      "eb4f1695f6bf15b8b9853746bdd200abffb969383a5c2b2915fb1f67571f8c68": {
-        "title": "AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视",
-        "link": "https://www.tmtpost.com/7813373.html",
-        "published_date": "Thu, 18 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816056"
-      },
-      "c96c5481e0642b7874aa0bdd652d61745b150defc64a3bc46985d86daac0005e": {
-        "title": "Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert",
-        "link": "https://www.tmtpost.com/7814023.html",
-        "published_date": "Fri, 19 Dec 2025 00:59:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816058"
-      },
-      "ca45991346ba901222645b9273c513070979f5db1b49658b4bd0add753632d89": {
-        "title": "AI Emerges as a Key Accelerator in the Global Race for Longevity Breakthroughs, Say Industry Experts",
-        "link": "https://www.tmtpost.com/7813608.html",
-        "published_date": "Thu, 18 Dec 2025 17:28:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816059"
-      },
-      "40274c9ad4da06c9ae931596c8dbfaa7ce1489e45ee88771965acfd03cc6fdce": {
-        "title": "Microsoft, Google, Nvidia Among 24 Companies Joining U.S. 'Genesis Mission' AI Initiative",
-        "link": "https://www.tmtpost.com/7814493.html",
-        "published_date": "Fri, 19 Dec 2025 11:47:00 GMT",
-        "first_seen": "2025-12-19T05:24:10.600262"
-      },
-      "2f7a49977a2578e3f3ce6ec3fe2f5b3a4bc0c279c39af2a4878fa01caef1a219": {
-        "title": "突发！OpenAI 放出“代码之神”GPT-5.2-Codex，网友实测后感慨：很贵很好用",
-        "link": "https://www.infoq.cn/article/fUwmTP5Lfk9ZZb9mY8sQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-19T05:24:10.600269"
-      },
-      "9878de718d7f61476bdc6213a8347a9d79d5d8667e1412d5ac716c47001c7d9b": {
-        "title": "Meta Reported to Develop New AI Image and Video Model Mango while Exploring World Models",
-        "link": "https://www.tmtpost.com/7814466.html",
-        "published_date": "Fri, 19 Dec 2025 11:23:00 GMT",
-        "first_seen": "2025-12-19T05:24:10.600271"
-      },
-      "b37e62d08902cc4a17ded2fca03193fbd1d598f2d1fc6f0a3e0b458c1040e005": {
-        "title": "首批L3自动驾驶许可落地，这回看哪个车企还敢随便吹牛",
-        "link": "http://www.huxiu.com/article/4817831.html?f=wangzhan",
-        "published_date": "Fri, 19 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-19T05:24:10.600273"
-      },
-      "db762cda8ec42d3082be096a0c8c659f2a0f2748834230385f60f8c7566b420b": {
-        "title": "人形机器人企业集体扩产背后是机遇还是“不扩产就丢单”的焦虑？",
-        "link": "https://www.tmtpost.com/7814398.html",
-        "published_date": "Fri, 19 Dec 2025 12:14:00 GMT",
-        "first_seen": "2025-12-19T05:24:10.600275"
-      },
       "40ed2ffac8b6182578c1103c8f04a43a69c90cf2cfa73d600f30d4b1aee69d02": {
         "title": "Visual Studio 2026正式发布，带来AI原生IDE和提升性能",
         "link": "https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&utm_medium=article",
@@ -2701,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7846042.html",
         "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
         "first_seen": "2026-01-17T23:22:43.110449"
+      },
+      "e009b9382c59702b99c0912a93f55a495d54068abc399bc421cfe24ea0f1ac20": {
+        "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
+        "link": "https://www.tmtpost.com/7845741.html",
+        "published_date": "Sun, 18 Jan 2026 09:59:00 GMT",
+        "first_seen": "2026-01-18T05:26:25.152819"
+      },
+      "be7536be53eec114d1fbe500ec8893ef3f362a39558173a9c14a6988b79e15d5": {
+        "title": "摩尔定律遭遇物理 “死胡同”， TGV是突破算力桎梏的技术切口？",
+        "link": "https://www.tmtpost.com/7843832.html",
+        "published_date": "Sun, 18 Jan 2026 11:46:00 GMT",
+        "first_seen": "2026-01-18T05:26:25.152826"
+      },
+      "ce997d96ec59dcfbd90db40b7a0614d1a567fe0c9644d538caefeb96b7cea876": {
+        "title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
+        "link": "https://www.tmtpost.com/7846680.html",
+        "published_date": "Sun, 18 Jan 2026 12:43:00 GMT",
+        "first_seen": "2026-01-18T05:26:25.152828"
+      },
+      "21b3f094b2832369f8831b9ddcddea93edc2237c5f180b1cf413dc305f0318de": {
+        "title": "石头科技的双线进击",
+        "link": "https://www.tmtpost.com/7846206.html",
+        "published_date": "Sun, 18 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-18T05:26:25.152830"
+      },
+      "5d9b9a115d96fff94e5e5869b7b7da4cb4ee70cbabc368f274d3c33dc308e0b1": {
+        "title": "河南能源“巨无霸”的联姻记： 煤炭老大哥的“中年转型”能成功吗？",
+        "link": "https://www.tmtpost.com/7846351.html",
+        "published_date": "Sun, 18 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-18T05:26:25.152832"
       }
     },
     "Finance": {
-      "1dcc6a9083eb915ff815aab295b6efc480c1596bcadd868eb65a467c48688ab2": {
-        "title": "EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails",
-        "link": "https://www.ft.com/content/e5691048-696b-44cd-8a0a-50b917e3d62a",
-        "published_date": "Fri, 19 Dec 2025 04:56:00 GMT",
-        "first_seen": "2025-12-19T05:23:37.154281"
-      },
-      "d2a355c2ae8775488b0855e0fdfa70b515e2e32ed456bef593e7f6166ef82940": {
-        "title": "Japan raises interest rates to highest level in 30 years",
-        "link": "https://www.ft.com/content/cbaaff02-9c62-4f5f-8e02-d38798df4196",
-        "published_date": "Fri, 19 Dec 2025 04:51:00 GMT",
-        "first_seen": "2025-12-19T05:23:37.154289"
-      },
-      "79b2207825ae5ab44a24643c99fcd3f847953e87398ca668c7ec796dcc885629": {
-        "title": "Uber’s stock is almost historically cheap. Are robotaxis an existential threat?",
-        "link": "https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 03:32:00 GMT",
-        "first_seen": "2025-12-19T05:23:37.154292"
-      },
-      "12e3909da64919a05572933445fe10d1aea54e1a1ce87620b3a76bad2666dbc7": {
-        "title": "Oracle’s stock is rising. Why TikTok’s U.S. deal could be good news for the tech company.",
-        "link": "https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 01:17:00 GMT",
-        "first_seen": "2025-12-19T05:23:37.154294"
-      },
-      "a7ad5b9653fe8a780654aa088ea9c76d92042d92affb960a92872a8c173219ba": {
-        "title": "Micron just had its Nvidia moment. What comes next for the stock?",
-        "link": "https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 00:18:00 GMT",
-        "first_seen": "2025-12-19T05:23:37.154295"
-      },
       "3bb1a70b2d0cd98f41aed2bb655b455c9099b9aafb6e81e5e51803e594726d63": {
         "title": "How Merz’s EU summit plan on Russian assets backfired",
         "link": "https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914",
@@ -4509,69 +4449,15 @@
         "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
         "published_date": "Sat, 17 Jan 2026 18:08:00 GMT",
         "first_seen": "2026-01-17T23:22:29.054010"
+      },
+      "69bd2eb5ac335cfdb1a1af6ae41156e571a194afbb27d1ad0f0afce9cbcfec4b": {
+        "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+        "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+        "published_date": "Sun, 18 Jan 2026 00:30:00 GMT",
+        "first_seen": "2026-01-18T05:26:07.668294"
       }
     },
     "Ai": {
-      "cd1783b60cd9dd421706e65b64349086cf9e52b96c1de88900cda6bc56e36ac5": {
-        "title": "北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-4",
-        "published_date": "Thu, 18 Dec 2025 17:19:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664591"
-      },
-      "1b2bf4cef3fd772fe18067a47ce4a39c7464a18d806b18f6303793e2e1c7e4ce": {
-        "title": "与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-7",
-        "published_date": "Thu, 18 Dec 2025 18:36:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664597"
-      },
-      "73ce112047e2ad26feebcf26a3fb703a06cab5d1042e319c5ac00d25bf4c7698": {
-        "title": "150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案",
-        "link": "https://www.qbitai.com/2025/12/361745.html",
-        "published_date": "Thu, 18 Dec 2025 12:51:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664599"
-      },
-      "41cefe9c8bf225a82df22e3fb24dfd98c7ff1fe79fa4618091d1d8cb6295afad": {
-        "title": "SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-6",
-        "published_date": "Thu, 18 Dec 2025 18:33:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664600"
-      },
-      "271d424e128972334dbfb51e3ddd4a79f714135a8d21ac93d9868f76c6e08131": {
-        "title": "告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-5",
-        "published_date": "Thu, 18 Dec 2025 17:30:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664602"
-      },
-      "486e1560c02f5a745b9bb969ad936de1ee49df0b41e56b45d35d928bf70a1d51": {
-        "title": "亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-2",
-        "published_date": "Fri, 19 Dec 2025 10:14:00 GMT",
-        "first_seen": "2025-12-19T05:23:56.623326"
-      },
-      "0689d3a16e5c3eb283c7149bee0e3728d7c4702bd78a55d9fadeec094a27bf9a": {
-        "title": "LeCun创业首轮估值247亿！Alexandre当CEO",
-        "link": "https://www.qbitai.com/2025/12/362050.html",
-        "published_date": "Fri, 19 Dec 2025 02:39:00 GMT",
-        "first_seen": "2025-12-19T05:23:56.623333"
-      },
-      "4dd9ad92c26c68135a07ca1b9ecaa9c20c8d8243098c6ca4a884a9ab567fa282": {
-        "title": "T5Gemma模型再更新，谷歌还在坚持编码器-解码器架构",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-6",
-        "published_date": "Fri, 19 Dec 2025 11:59:00 GMT",
-        "first_seen": "2025-12-19T05:23:56.623335"
-      },
-      "43298aef3d176f7286234c14be80f98d45d1a97a06aee165ec0483db972ab328": {
-        "title": "商汤大装置助力全国规划资源领域首个基础大模型-“云宇星空大模型（专业版）”正式发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-4",
-        "published_date": "Fri, 19 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-19T05:23:56.623337"
-      },
-      "e1716d1c74112cefe49001da7035e772e0c8455114689466aa0902557574e93a": {
-        "title": "认知偏差、落地断层、体验割裂是目前AI产品的三大痛点｜百度王颖@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/362059.html",
-        "published_date": "Fri, 19 Dec 2025 03:58:00 GMT",
-        "first_seen": "2025-12-19T05:23:56.623339"
-      },
       "687d379916de39a8d6226ecbcf6fba60cbda525040d0a5680195045f5b655da1": {
         "title": "OpenAI最强代码模型GPT-5.2-Codex上线",
         "link": "https://www.jiqizhixin.com/articles/2025-12-19-3",
@@ -6706,8 +6592,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-17T23:22:43.110452",
-    "Finance": "2026-01-17T23:22:29.054012",
+    "Technology": "2026-01-18T05:26:25.152834",
+    "Finance": "2026-01-18T05:26:07.668302",
     "Ai": "2026-01-17T23:22:29.207380"
   }
 }
