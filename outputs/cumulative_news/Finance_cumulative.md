@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-18 08:30
+**最后更新时间**: 2026-01-18 23:23
+
+---
+
+## 🆕 最新更新 (2026-01-18 23:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK parties unite to condemn Trump’s tariffs threat over Greenland](https://www.ft.com/content/cfea5caf-e9ee-4bb2-a475-077930eb4332)
+**发布时间**: 2026-01-18 22:42
+
+#### [US justice department says it is not investigating ICE agent over shooting](https://www.ft.com/content/d7b0fcf3-1fd5-4bad-9d9b-78a878590a79)
+**发布时间**: 2026-01-18 20:16
+
+#### [EU readies €93bn tariffs in retaliation for Trump’s Greenland threat](https://www.ft.com/content/b2872a49-3d43-4a55-a483-de7b19e8e436)
+**发布时间**: 2026-01-18 20:09
+
+#### [Bessent says Europe is too weak to guarantee Greenland’s security](https://www.ft.com/content/4128365f-37d9-4f69-b916-1bc0d1bae040)
+**发布时间**: 2026-01-18 17:21
+
+#### [‘It’s about trust’: Trump’s fresh tariff threats push Europe to harden its stance](https://www.ft.com/content/d13bf047-3051-4b40-9c07-8bb7b3552673)
+**发布时间**: 2026-01-18 17:12
+
+#### [France urges EU to use most potent trade weapon over Trump Greenland threat](https://www.ft.com/content/1f1c6adc-fbd4-404a-b3f5-e9eebf600af1)
+**发布时间**: 2026-01-18 15:39
+
+#### [Europe must not appease Trump on Greenland](https://www.ft.com/content/26428440-672f-4f13-a804-01dee8a330fd)
+**发布时间**: 2026-01-18 13:21
+
+#### [Inside Larry Fink’s bid to revive scandal-hit Davos](https://www.ft.com/content/f8a5c4e8-8706-4c29-96b7-fb6cd4eb8cb4)
+**发布时间**: 2026-01-18 13:00
+
+#### [China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)
+**发布时间**: 2026-01-18 12:00
+
+#### [Drinks makers left with lake of unsold spirits as demand drops](https://www.ft.com/content/9e6f024c-63b5-493f-bb35-6c1c05e90e55)
+**发布时间**: 2026-01-18 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Big Tech stocks are quickly falling out of favor. Here’s the market’s new momentum trade.](https://www.marketwatch.com/story/big-tech-stocks-are-quickly-falling-out-of-favor-heres-the-markets-new-momentum-trade-bcf261ac?mod=mw_rss_topstories)
+**发布时间**: 2026-01-18 17:00
+
+#### [Is the stock market open on MLK Day? Does the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories)
+**发布时间**: 2026-01-18 16:18
+
+#### [I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?](https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories)
+**发布时间**: 2026-01-18 15:30
 
 ---
 

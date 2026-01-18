@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "40ed2ffac8b6182578c1103c8f04a43a69c90cf2cfa73d600f30d4b1aee69d02": {
-        "title": "Visual Studio 2026正式发布，带来AI原生IDE和提升性能",
-        "link": "https://www.infoq.cn/article/E091JBigGGlBrrbTSr8g?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 16:00:00 GMT",
-        "first_seen": "2025-12-19T08:32:27.269371"
-      },
-      "c307813088d76b9d37ca32fff8be2438595b57a98dbc04fb1a7128e8cc868cef": {
-        "title": "谷歌推出用于开发AI眼镜应用的新工具和库",
-        "link": "https://www.infoq.cn/article/kSqdTgFB5D26U7moP7hq?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 10:50:00 GMT",
-        "first_seen": "2025-12-19T08:32:27.269378"
-      },
-      "3f4e86b2e7be6d012656196f6de78c3ed55cf3856892a2ca7415a9d938af47e0": {
-        "title": "Netflix迁移至Amazon Aurora：性能提升75%，成本降低28%",
-        "link": "https://www.infoq.cn/article/Dms77rDUUxxGf7ctyuwt?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 14:30:00 GMT",
-        "first_seen": "2025-12-19T08:32:27.269380"
-      },
-      "b3d477047bea645772febe3b691f7ed2444e08ada14940499781688aefc6229d": {
-        "title": "OpenAI 上线「应用商店」；小红书被曝发力中长视频；《疯狂动物城 2》打破内地进口片观影人次记录",
-        "link": "http://www.geekpark.net/news/358210",
-        "published_date": "Fri, 19 Dec 2025 08:36:00 GMT",
-        "first_seen": "2025-12-19T08:32:27.269382"
-      },
-      "4dd1a9a3f52073fe7bad24256bff0c523d3238bf97a440750e242a0e91e1a86d": {
-        "title": "L3级自动驾驶落地，双手离开方向盘也能开车？",
-        "link": "http://www.huxiu.com/article/4818896.html?f=wangzhan",
-        "published_date": "Fri, 19 Dec 2025 14:50:00 GMT",
-        "first_seen": "2025-12-19T08:32:27.269385"
-      },
       "d641ce3287ae20a9f44a12bddca6fe40402212022152dc2c0aabf5a23c90253b": {
         "title": "周受资内部信曝TikTok美国方案：字节保留算法、电商、广告，新合资公司负责安全",
         "link": "https://www.tmtpost.com/7814422.html",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7846666.html",
         "published_date": "Sun, 18 Jan 2026 11:36:00 GMT",
         "first_seen": "2026-01-18T08:30:32.818216"
+      },
+      "26aef3948461850caf680107dc6a7babd31109cee8bfd08b171dffc4bc829b99": {
+        "title": "打造医生“智能外脑”，医疗级AI在多家医院加速应用",
+        "link": "https://www.tmtpost.com/7846793.html",
+        "published_date": "Sun, 18 Jan 2026 09:46:00 GMT",
+        "first_seen": "2026-01-18T23:23:56.830352"
+      },
+      "1af895786a40f9f7a8df8501f99f1988605370476aebf2844395cefd93348796": {
+        "title": "AI应用爆发前夜，大模型等待黎明",
+        "link": "https://www.tmtpost.com/7846728.html",
+        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
+        "first_seen": "2026-01-18T23:23:56.830359"
+      },
+      "23a25b3a10db5494c3cb7a624b244ff33dc318379d31a16dba9999c879e592dd": {
+        "title": "不学抖音学INS，OpenAI想站着把钱挣了",
+        "link": "https://www.tmtpost.com/7846722.html",
+        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
+        "first_seen": "2026-01-18T23:23:56.830362"
+      },
+      "9ec700cc1caeb8c7e2d1cd8ce9b6714b7e775761bb6c873f92bdf576a7178aaa": {
+        "title": "宏大叙事的创业的时代，互联网需要更多Demumu",
+        "link": "https://www.tmtpost.com/7846725.html",
+        "published_date": "Sun, 18 Jan 2026 17:50:00 GMT",
+        "first_seen": "2026-01-18T23:23:56.830364"
+      },
+      "fdfdefb1ddf13010f569b822b6be61c0484fc69dcf89136ed1aa289044223b94": {
+        "title": "价值判断：涨停板的投资机会和风险提示（1月16日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7846657.html",
+        "published_date": "Sun, 18 Jan 2026 11:34:00 GMT",
+        "first_seen": "2026-01-18T23:23:56.830365"
       }
     },
     "Finance": {
-      "3bb1a70b2d0cd98f41aed2bb655b455c9099b9aafb6e81e5e51803e594726d63": {
-        "title": "How Merz’s EU summit plan on Russian assets backfired",
-        "link": "https://www.ft.com/content/e6d408d6-a7fc-44d8-b7ab-9751c8e53914",
-        "published_date": "Fri, 19 Dec 2025 08:19:00 GMT",
-        "first_seen": "2025-12-19T08:31:50.139166"
-      },
-      "0a5f4755f09c04b2b80148711be792399a97adcbd0d2741f65bc8d74e7a64da9": {
-        "title": "UK retail sales drop unexpectedly as economy struggles",
-        "link": "https://www.ft.com/content/8ef1086f-124e-4b68-9a98-60bd73253f00",
-        "published_date": "Fri, 19 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-19T08:31:50.139177"
-      },
       "9766b19545e736487125db5176aca4e6050666bdf04043a3503e1316ca3f049d": {
         "title": "Delaware high court reinstates Musk’s $56bn Tesla pay package",
         "link": "https://www.ft.com/content/9d7b443d-793d-47cb-940f-ff42741236c2",
@@ -4479,39 +4467,39 @@
         "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
         "published_date": "Sun, 18 Jan 2026 00:30:00 GMT",
         "first_seen": "2026-01-18T05:26:07.668294"
+      },
+      "ade4d69590234164e04f8713c8e6f8ed6b591da384d4c4c6313cbe17c239c921": {
+        "title": "EU readies €93bn tariffs in retaliation for Trump’s Greenland threat",
+        "link": "https://www.ft.com/content/b2872a49-3d43-4a55-a483-de7b19e8e436",
+        "published_date": "Sun, 18 Jan 2026 20:09:00 GMT",
+        "first_seen": "2026-01-18T23:23:26.262620"
+      },
+      "a2cf5dd83a89de8dbf8e8bf9ae2da0886670ef54ca9d2716083e4701b9a787ac": {
+        "title": "China will clinch the AI race",
+        "link": "https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571",
+        "published_date": "Sun, 18 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-18T23:23:26.262628"
+      },
+      "a29b968b1e0b0d48f088b71a32ab47f25702923cd38936d79ba80f0ac1113f4b": {
+        "title": "Big Tech stocks are quickly falling out of favor. Here’s the market’s new momentum trade.",
+        "link": "https://www.marketwatch.com/story/big-tech-stocks-are-quickly-falling-out-of-favor-heres-the-markets-new-momentum-trade-bcf261ac?mod=mw_rss_topstories",
+        "published_date": "Sun, 18 Jan 2026 17:00:00 GMT",
+        "first_seen": "2026-01-18T23:23:26.262631"
+      },
+      "da2da29d3474f4f4c93a02700821290a8a4a9d7238d70cfdd1e7e792e6e8265f": {
+        "title": "‘It’s about trust’: Trump’s fresh tariff threats push Europe to harden its stance",
+        "link": "https://www.ft.com/content/d13bf047-3051-4b40-9c07-8bb7b3552673",
+        "published_date": "Sun, 18 Jan 2026 17:12:00 GMT",
+        "first_seen": "2026-01-18T23:23:26.262633"
+      },
+      "32fb2c8a267508e9ca1a2add2138ce295055011172f95aa545f843d79297ffab": {
+        "title": "Inside Larry Fink’s bid to revive scandal-hit Davos",
+        "link": "https://www.ft.com/content/f8a5c4e8-8706-4c29-96b7-fb6cd4eb8cb4",
+        "published_date": "Sun, 18 Jan 2026 13:00:00 GMT",
+        "first_seen": "2026-01-18T23:23:26.262635"
       }
     },
     "Ai": {
-      "687d379916de39a8d6226ecbcf6fba60cbda525040d0a5680195045f5b655da1": {
-        "title": "OpenAI最强代码模型GPT-5.2-Codex上线",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-3",
-        "published_date": "Fri, 19 Dec 2025 10:17:00 GMT",
-        "first_seen": "2025-12-19T08:32:04.875088"
-      },
-      "0c4c9cc8f4cbd084cba0fcaf50dae63902aedf6a20cc6846d597ee8c077b8d76": {
-        "title": "Mamba作者团队提出SonicMoE：一个Token舍入，让MoE训练速度提升近2倍",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-9",
-        "published_date": "Fri, 19 Dec 2025 15:02:00 GMT",
-        "first_seen": "2025-12-19T08:32:04.875094"
-      },
-      "6cf00221d585a2789c0c54f7118412735ca2443c5128632e978a3e091d6114fa": {
-        "title": "谷歌、英伟达、OpenAI在列，美国能源部宣布与24家机构达成协议，共同推进「创世纪计划」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-7",
-        "published_date": "Fri, 19 Dec 2025 14:03:00 GMT",
-        "first_seen": "2025-12-19T08:32:04.875096"
-      },
-      "dc3a77badf90c399689eab1d8691c8cd53a46883c77b6c3431a31e05e19c55e3": {
-        "title": "拆解CANN：当华为决定打开算力的「黑盒」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-10",
-        "published_date": "Fri, 19 Dec 2025 15:09:00 GMT",
-        "first_seen": "2025-12-19T08:32:04.875098"
-      },
-      "e8eb109d77482a34c46a6cc0a4c089c7347fde172c962a5313c48333ab066b13": {
-        "title": "基于真实数据和物理仿真，国防科大开源具身在线装箱基准RoboBPP",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-5",
-        "published_date": "Fri, 19 Dec 2025 11:53:00 GMT",
-        "first_seen": "2025-12-19T08:32:04.875100"
-      },
       "5adaa1e4639215228dcf03f4c3ef32ec8d98769e83ad18262bb2c3493e9e0e99": {
         "title": "火线解析智谱AI招股书：年营收3亿增速130%，率先冲刺全球大模型第一股",
         "link": "https://www.qbitai.com/2025/12/362256.html",
@@ -6629,13 +6617,43 @@
         "link": "https://www.qbitai.com/2026/01/370077.html",
         "published_date": "Sun, 18 Jan 2026 05:15:00 GMT",
         "first_seen": "2026-01-18T08:30:32.741584"
+      },
+      "457797e1d31244f008ded25c4e07239c134f28d12f221c5c472aa794458cd25d": {
+        "title": "红杉合伙人：2026，AGI已经来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-2",
+        "published_date": "Sun, 18 Jan 2026 20:39:00 GMT",
+        "first_seen": "2026-01-18T23:23:38.409497"
+      },
+      "9fd6df58ed3522b365910c673e6a47d941ad4e8228498d7e2bfdb79798916c45": {
+        "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-4",
+        "published_date": "Sun, 18 Jan 2026 20:45:00 GMT",
+        "first_seen": "2026-01-18T23:23:38.409504"
+      },
+      "4efdd12a4c79d159dedfee10e96a7d2e783d4adb29d8df255b224df1f1b6ab42": {
+        "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-3",
+        "published_date": "Sun, 18 Jan 2026 20:42:00 GMT",
+        "first_seen": "2026-01-18T23:23:38.409506"
+      },
+      "7aa99856cfa304c91fb0429d1c619934dc27a31b37a421b143e323a1c3f853f7": {
+        "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18",
+        "published_date": "Sun, 18 Jan 2026 20:35:00 GMT",
+        "first_seen": "2026-01-18T23:23:38.409508"
+      },
+      "59dda472a7f444a802540bf66e2a8a029cd28c4b3f50c1e7d1db8683bb1dd9a9": {
+        "title": "咖啡机变聪明后，我连咖啡都喝不上了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
+        "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
+        "first_seen": "2026-01-18T23:23:38.409509"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-18T08:30:32.818218",
-    "Finance": "2026-01-18T05:26:07.668302",
-    "Ai": "2026-01-18T08:30:32.741586"
+    "Technology": "2026-01-18T23:23:56.830384",
+    "Finance": "2026-01-18T23:23:26.262638",
+    "Ai": "2026-01-18T23:23:38.409512"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 18 Jan 2026 08:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2026 08:30:32 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 23:23:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人终于能用明白洗碗机了｜UC伯克利新研究</title>
-      <link>https://www.qbitai.com/2026/01/370136.html</link>
-      <description>&lt;![CDATA[机器人终于能用明白洗碗机了｜UC伯克利新研究]]&gt;</description>
-      <pubDate>Sun, 18 Jan 2026 05:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370136.html</guid>
+      <title>红杉合伙人：2026，AGI已经来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-18-2</link>
+      <description>&lt;![CDATA[红杉合伙人：2026，AGI已经来了]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-18-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队</title>
-      <link>https://www.qbitai.com/2026/01/370085.html</link>
-      <description>&lt;![CDATA[猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队]]&gt;</description>
-      <pubDate>Sun, 18 Jan 2026 05:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370085.html</guid>
+      <title>AAAI 2026｜相聚新加坡，探讨AI时代最核心难题</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-18-4</link>
+      <description>&lt;![CDATA[AAAI 2026｜相聚新加坡，探讨AI时代最核心难题]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-18-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录</title>
-      <link>https://www.qbitai.com/2026/01/370077.html</link>
-      <description>&lt;![CDATA[马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录]]&gt;</description>
-      <pubDate>Sun, 18 Jan 2026 05:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370077.html</guid>
+      <title>谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-18-3</link>
+      <description>&lt;![CDATA[谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 20:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-18-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-18</link>
+      <description>&lt;![CDATA[VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-18</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>咖啡机变聪明后，我连咖啡都喝不上了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-18-5</link>
+      <description>&lt;![CDATA[咖啡机变聪明后，我连咖啡都喝不上了]]&gt;</description>
+      <pubDate>Sun, 18 Jan 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-18-5</guid>
       <category>Ai</category>
     </item>
   </channel>
