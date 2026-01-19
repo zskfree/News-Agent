@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Jan 2026 08:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2026 08:36:28 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:25:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-5</link>
-      <description>&lt;![CDATA[迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 14:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-5</guid>
+      <title>租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-8</link>
+      <description>&lt;![CDATA[租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19</link>
-      <description>&lt;![CDATA[效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19</guid>
+      <title>评审用不用AI，作者说了算？ICML 2026全新评审政策出炉</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-7</link>
+      <description>&lt;![CDATA[评审用不用AI，作者说了算？ICML 2026全新评审政策出炉]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>你的论文有novelty吗？复旦搞了个顶会论文查新系统</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-4</link>
-      <description>&lt;![CDATA[你的论文有novelty吗？复旦搞了个顶会论文查新系统]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-4</guid>
+      <title>哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了</title>
+      <link>https://www.qbitai.com/2026/01/370355.html</link>
+      <description>&lt;![CDATA[哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370355.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ChatGPT强行上马广告，因为OpenAI真的很烧钱</title>
-      <link>https://www.qbitai.com/2026/01/370285.html</link>
-      <description>&lt;![CDATA[ChatGPT强行上马广告，因为OpenAI真的很烧钱]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370285.html</guid>
+      <title>机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-6</link>
+      <description>&lt;![CDATA[机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-2</link>
-      <description>&lt;![CDATA[CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-2</guid>
+      <title>最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-9</link>
+      <description>&lt;![CDATA[最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-9</guid>
       <category>Ai</category>
     </item>
   </channel>

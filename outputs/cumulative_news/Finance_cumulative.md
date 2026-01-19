@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 08:36
+**最后更新时间**: 2026-01-19 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-19 23:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures slump as U.S.-Europe trade tensions ramp up over Trump’s Greenland demands](https://www.marketwatch.com/story/stock-futures-slump-as-u-s-europe-trade-tensions-ramp-up-over-trumps-greenland-demands-2fdf8af8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-19 23:21
+
+#### [My sister is buying our parents’ $3 million house, but wants to deduct $100K for renovations. Who’s right?](https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories)
+**发布时间**: 2026-01-19 22:02
+
+#### [Jerome Powell will attend Supreme Court hearing on Lisa Cook’s firing](https://www.marketwatch.com/story/jerome-powell-will-attend-supreme-court-hearing-on-lisa-cooks-firing-23e75828?mod=mw_rss_topstories)
+**发布时间**: 2026-01-19 19:57
+
+#### [Trump’s latest E.U. tariff threats may spur more investors away from the ‘buy America’ trade, analysts say](https://www.marketwatch.com/story/trumps-latest-e-u-tariff-threats-may-spur-more-investors-away-from-the-buy-america-trade-analysts-say-6e6cbdbc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-19 17:23
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK government considering social media ban for children](https://www.ft.com/content/15298c8c-d937-419c-8c9d-191589302704)
+**发布时间**: 2026-01-19 22:30
+
+#### [Starmer says he does not think Donald Trump would use military force to seize Greenland](https://www.ft.com/content/0c7e13f7-b0ba-4bef-a255-a3902ed55142)
+**发布时间**: 2026-01-19 22:08
+
+#### [Denmark dispatches additional troops to Greenland as tensions rise](https://www.ft.com/content/1ef936c1-43c5-4166-96f3-8876346ccaaa)
+**发布时间**: 2026-01-19 21:02
+
+#### [UK set to approve Chinese ‘mega’ embassy after inclusion of security measures](https://www.ft.com/content/74270ef7-a1f1-4f19-b3aa-3a0ff2a63986)
+**发布时间**: 2026-01-19 20:23
+
+#### [Trump links Greenland pursuit to failure to win Nobel Prize](https://www.ft.com/content/ff647840-3d00-45d1-a5b2-6f0a926a9b6c)
+**发布时间**: 2026-01-19 19:22
+
+#### [How to talk Trump down from his Greenland blackmail](https://www.ft.com/content/9491690c-1ba6-4b2a-898c-d385d3843878)
+**发布时间**: 2026-01-19 18:36
+
+#### [Far-right Israeli minister attacks Trump’s plan for postwar Gaza](https://www.ft.com/content/dccdd0b2-430b-4db6-9f21-00eeaf5ea633)
+**发布时间**: 2026-01-19 14:51
+
+#### [Trump’s Arctic ambitions torch the most important US asset](https://www.ft.com/content/9f7361f4-e88a-40f5-a0b4-05a33b237e29)
+**发布时间**: 2026-01-19 13:27
+
+#### [The US products in the EU’s €93bn retaliation plan](https://www.ft.com/content/fb6089a1-77bd-4785-b54e-d9ec9a93cffd)
+**发布时间**: 2026-01-19 11:35
+
+#### [Could Europe really leverage its $12.6tn pile of US assets?](https://www.ft.com/content/beeaf869-ca12-4178-95a1-bfb69ee27ae4)
+**发布时间**: 2026-01-19 11:25
+
+#### [Trump has invited Putin to join ‘Board of Peace’, Kremlin says](https://www.ft.com/content/4b163bdc-cfec-4971-b527-38b752ee3954)
+**发布时间**: 2026-01-19 10:37
+
+#### [Bessent questions strength of any EU response to Trump’s tariff threats](https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90)
+**发布时间**: 2026-01-19 07:23
 
 ---
 
