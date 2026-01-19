@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 05:33
+**最后更新时间**: 2026-01-19 08:36
+
+---
+
+## 🆕 最新更新 (2026-01-19 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [为什么“看起来没问题”的公司，往往更容易出事？｜济安学派](https://www.tmtpost.com/7847964.html)
+**发布时间**: 2026-01-19 16:31
+
+#### [AI手机走到分岔口：巨头们正在重注Agent逻辑](https://www.tmtpost.com/7847824.html)
+**发布时间**: 2026-01-19 16:25
+
+#### [二十而励，向新而行：深商盛典勾勒中国企业未来突围路径](https://www.tmtpost.com/7847699.html)
+**发布时间**: 2026-01-19 14:59
+
+#### [张勇能开启海底捞的“第二增长曲线”吗？](https://www.tmtpost.com/7847821.html)
+**发布时间**: 2026-01-19 14:59
+
+#### [苹果谷歌握手AI背后：国产手机为何不敢革自己的命？](https://www.tmtpost.com/7847723.html)
+**发布时间**: 2026-01-19 14:56
+
+#### [2026年，AI由“狂热”转向“务实”](https://www.tmtpost.com/7847522.html)
+**发布时间**: 2026-01-19 14:56
+
+#### [券商扶植的AI炒股，是新机遇还是“新陷阱”？](https://www.tmtpost.com/7847632.html)
+**发布时间**: 2026-01-19 14:55
+
+#### [四年血亏18亿、两大工厂停产，50亿巨头为何“一夜崩塌”？](https://www.tmtpost.com/7847753.html)
+**发布时间**: 2026-01-19 14:55
+
+#### [沪上阿姨净利狂增五成，中价下沉赛道能撑起长期增长吗？](https://www.tmtpost.com/7847708.html)
+**发布时间**: 2026-01-19 14:54
+
+#### [电力圈空降，许涛最新任职保变电气党委书记， 保变这次要玩把大的](https://www.tmtpost.com/7847717.html)
+**发布时间**: 2026-01-19 14:53
+
+#### [告别拼补贴，重估“外卖大战”受益者顺丰同城](https://www.tmtpost.com/7847107.html)
+**发布时间**: 2026-01-19 14:52
+
+#### [详解“千问们”的营销长跑：从流量之争到心智之战](https://www.tmtpost.com/7847629.html)
+**发布时间**: 2026-01-19 14:50
+
+#### [又一家中医馆冲刺IPO：靠“一勺膏方”年入近3亿，毛利比肩医美](https://www.tmtpost.com/7847642.html)
+**发布时间**: 2026-01-19 14:49
+
+#### [县城零食店，勇闯北上广](https://www.tmtpost.com/7847704.html)
+**发布时间**: 2026-01-19 14:46
+
+#### [壁仞科技崛起背后：“第一猎头”全球挖人](https://www.tmtpost.com/7847610.html)
+**发布时间**: 2026-01-19 14:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [二十年，重新出发！第 20 届 D2 技术大会「AI 新」议题全球征集正式开启](https://www.infoq.cn/article/RJ1OxNTaCwuh6Y12O8dc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 16:12
+
+#### [Cursor推出动态上下文发现功能，提升了Token的使用效率](https://www.infoq.cn/article/WJL8IKHd99G4zrEyTO99?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 16:00
+
+#### [Agoda是如何将多个数据管道统一为单一事实来源的](https://www.infoq.cn/article/FCovAhOpFvEryKZFFxy9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 15:26
+
+#### [从 Greenplum 到 Doris：集群缩减 2/3、年省数百万，度小满构建超大规模数据分析平台技术实践](https://www.infoq.cn/article/kflvtWGPeXN40M3OPzff?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 15:04
+
+#### [解决移动分析碎片化困局：Uber的平台引领之道](https://www.infoq.cn/article/AIuL3zoje0zRZX7CgB2r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 14:02
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [挖到了 GitHub 上 3 个 Claude Cowork 的开源平替。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530692&idx=1&sn=8795eb4e922db924128c21c0aeb64b48)
+**发布时间**: 2026-01-19 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Windows 视觉史 04（下）｜Vista：余烬散去，余晖依旧](https://sspai.com/post/101074)
+**发布时间**: 2026-01-19 15:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Jan 2026 05:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2026 05:33:40 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 08:36:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump’s attack on the Fed should galvanise the GOP</title>
-      <link>https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49</link>
-      <description>&lt;![CDATA[Trump’s attack on the Fed should galvanise the GOP]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49</guid>
+      <title>Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland</title>
+      <link>https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The dangerous triumph of neo-mercantilism</title>
-      <link>https://www.ft.com/content/cd68b35f-f00d-4a7d-a9be-56c639dd6b91</link>
-      <description>&lt;![CDATA[The dangerous triumph of neo-mercantilism]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cd68b35f-f00d-4a7d-a9be-56c639dd6b91</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>China’s GDP grows 5% in 2025 as exports offset weak domestic outlook</title>
-      <link>https://www.ft.com/content/5fc6effd-29a0-4dca-a409-fd11a3160fdc</link>
-      <description>&lt;![CDATA[China’s GDP grows 5% in 2025 as exports offset weak domestic outlook]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 03:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5fc6effd-29a0-4dca-a409-fd11a3160fdc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How could Trump’s Greenland tariffs hit individual EU countries?</title>
-      <link>https://www.ft.com/content/5c85d4af-4874-43cc-a1f5-f3f1f6664c70</link>
-      <description>&lt;![CDATA[How could Trump’s Greenland tariffs hit individual EU countries?]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5c85d4af-4874-43cc-a1f5-f3f1f6664c70</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK chancellor hails ‘golden age’ for City after easing tax and regulation</title>
-      <link>https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0</link>
-      <description>&lt;![CDATA[UK chancellor hails ‘golden age’ for City after easing tax and regulation]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 00:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0</guid>
+      <title>Gold hits record and stocks fall as Greenland crisis deepens</title>
+      <link>https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90</link>
+      <description>&lt;![CDATA[Gold hits record and stocks fall as Greenland crisis deepens]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90</guid>
       <category>Finance</category>
     </item>
   </channel>

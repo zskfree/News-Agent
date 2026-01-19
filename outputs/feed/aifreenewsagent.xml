@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Jan 2026 05:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2026 05:33:56 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 08:36:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文</title>
-      <link>https://www.qbitai.com/2026/01/370196.html</link>
-      <description>&lt;![CDATA[真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 03:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370196.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-3</link>
-      <description>&lt;![CDATA[让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！</title>
-      <link>https://www.qbitai.com/2026/01/370217.html</link>
-      <description>&lt;![CDATA[李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 04:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370217.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全球首个负载100斤的真实持续干活机器人，来自银河通用</title>
-      <link>https://www.qbitai.com/2026/01/370169.html</link>
-      <description>&lt;![CDATA[全球首个负载100斤的真实持续干活机器人，来自银河通用]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 02:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370169.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>复旦大学 NLP 研究团队与其此前孵化的学术搜索平台 WisPaper 展开合作，共同研发了 OpenNovelty——一个基于大语言模型、强调证据与可验证性的自动化新颖性分析系统。</title>
+      <title>迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗</title>
       <link>https://www.jiqizhixin.com/articles/2026-01-19-5</link>
-      <description>&lt;![CDATA[复旦大学 NLP 研究团队与其此前孵化的学术搜索平台 WisPaper 展开合作，共同研发了 OpenNovelty——一个基于大语言模型、强调证据与可验证性的自动化新颖性分析系统。]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 13:28:00 GMT</pubDate>
+      <description>&lt;![CDATA[迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 14:06:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19</link>
+      <description>&lt;![CDATA[效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>你的论文有novelty吗？复旦搞了个顶会论文查新系统</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-4</link>
+      <description>&lt;![CDATA[你的论文有novelty吗？复旦搞了个顶会论文查新系统]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ChatGPT强行上马广告，因为OpenAI真的很烧钱</title>
+      <link>https://www.qbitai.com/2026/01/370285.html</link>
+      <description>&lt;![CDATA[ChatGPT强行上马广告，因为OpenAI真的很烧钱]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370285.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-19-2</link>
+      <description>&lt;![CDATA[CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态]]&gt;</description>
+      <pubDate>Mon, 19 Jan 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-2</guid>
       <category>Ai</category>
     </item>
   </channel>
