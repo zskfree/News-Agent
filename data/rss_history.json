@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d641ce3287ae20a9f44a12bddca6fe40402212022152dc2c0aabf5a23c90253b": {
-        "title": "周受资内部信曝TikTok美国方案：字节保留算法、电商、广告，新合资公司负责安全",
-        "link": "https://www.tmtpost.com/7814422.html",
-        "published_date": "Fri, 19 Dec 2025 11:02:00 GMT",
-        "first_seen": "2025-12-19T23:26:38.623630"
-      },
-      "15e591db5fda72cacf8334c3812804484b23c0378d1b9f7acf8b1783bfb29a34": {
-        "title": "又一款英伟达 Blackwell GPU 全面上市，本地跑通复杂AI工作流",
-        "link": "https://www.infoq.cn/article/iVRu0PlPqXf2HRJrCCgz?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Dec 2025 20:59:00 GMT",
-        "first_seen": "2025-12-19T23:26:38.623637"
-      },
-      "26923ca53e75e77131925658f9041f6ceb2f8e16eb711d570b3bc4ec88dd4050": {
-        "title": "豆包大模型日均token用量破50万亿后，火山引擎将主战场押注Agent",
-        "link": "https://www.tmtpost.com/7814792.html",
-        "published_date": "Fri, 19 Dec 2025 17:43:00 GMT",
-        "first_seen": "2025-12-19T23:26:38.623639"
-      },
-      "8870ad30252bb195bcc16f1a0cd7a17ec80af465c070d38120f65bbefad0995a": {
-        "title": "派早报：Apple 在日本调整 App Store 与 iOS 规则等",
-        "link": "https://sspai.com/post/104721",
-        "published_date": "Fri, 19 Dec 2025 08:45:00 GMT",
-        "first_seen": "2025-12-19T23:26:38.623642"
-      },
-      "02436d24cded330cbddfc32f57348076eb4185dd409bf8c8092b212fb9d3b43e": {
-        "title": "银河通用200亿估值背后：为什么\"不那么复杂\"的场景反而能赢？",
-        "link": "https://www.tmtpost.com/7815491.html",
-        "published_date": "Fri, 19 Dec 2025 23:34:00 GMT",
-        "first_seen": "2025-12-19T23:26:38.623643"
-      },
-      "c634c98c6dc29c32f8cf08f3fa36a73835d2471e6dbfbc68c3e990747d3f89cb": {
-        "title": "意念控物成真？脑机接口新突破！",
-        "link": "https://www.tmtpost.com/7815366.html",
-        "published_date": "Sat, 20 Dec 2025 11:54:00 GMT",
-        "first_seen": "2025-12-20T05:22:17.236954"
-      },
-      "1195825dd6f26461b6b49eb4fb3bea22ef21ac3a4f666b5a3a9b84db6bc176ed": {
-        "title": "60+CEO闭门会共识：工业数据不共享，具身智能就是\"空壳\"｜2025 T-EDGE全球对话",
-        "link": "https://www.tmtpost.com/7813767.html",
-        "published_date": "Sat, 20 Dec 2025 11:29:00 GMT",
-        "first_seen": "2025-12-20T05:22:17.236960"
-      },
-      "94f1601c91cf70f0b24a7460fe31db398ca71133027c5c8ac90dbcd73cbe29a8": {
-        "title": "国产GPU迎战英伟达H200",
-        "link": "https://www.tmtpost.com/7813796.html",
-        "published_date": "Sat, 20 Dec 2025 10:13:00 GMT",
-        "first_seen": "2025-12-20T05:22:17.236962"
-      },
-      "6449ce80165d7fc712cfdb7a5a13f09884ff3a6508a961ada309e7393462fbe1": {
-        "title": "Nuqs 是什么？GitHub 近万 Star，6KB 的体量，却让 URL 成了 React 的状态容器",
-        "link": "https://www.infoq.cn/article/RjJqf3CXylLCTioyLLe8?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 20 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-20T05:22:17.236964"
-      },
-      "46442d665f4fbd90ddae6a07105a84cedd2796b2ea5b93e01f61a5bd5974638f": {
-        "title": "大疆的「印钞机」，被手机厂商盯上了",
-        "link": "https://www.tmtpost.com/7815413.html",
-        "published_date": "Sat, 20 Dec 2025 11:54:00 GMT",
-        "first_seen": "2025-12-20T05:22:17.236966"
-      },
       "0c3b2a773e3324c9fc53d9f680fae38ecac1475e80f85f4cba395de1dddd4cbe": {
         "title": "摩尔线程发布新一代GPU架构，打造MUSA生态对标英伟达CUDA",
         "link": "https://www.tmtpost.com/7815670.html",
@@ -2695,69 +2635,39 @@
         "link": "https://www.tmtpost.com/7846657.html",
         "published_date": "Sun, 18 Jan 2026 11:34:00 GMT",
         "first_seen": "2026-01-18T23:23:56.830365"
+      },
+      "5af9d6bace033e021677b7b89f9a4da075732a8749e0de80250e80459cd61d1f": {
+        "title": "国产EDA，走到哪一步了？",
+        "link": "https://www.tmtpost.com/7847409.html",
+        "published_date": "Mon, 19 Jan 2026 11:27:00 GMT",
+        "first_seen": "2026-01-19T05:34:19.686661"
+      },
+      "d01ada6b395c4efef28a4f9abf05560017720d1b4023e9900e545758a723166c": {
+        "title": "从\"实验室\"到\"生活间\"，具身智能的商业化破局与生态构建 | CES 2026",
+        "link": "https://www.tmtpost.com/7846124.html",
+        "published_date": "Mon, 19 Jan 2026 10:39:00 GMT",
+        "first_seen": "2026-01-19T05:34:19.686668"
+      },
+      "1c206bc048aedc4fb85e523527152ea279bdb2a92c6cc5532e0cb7f1e10c4f4f": {
+        "title": "阿里云 CIO 全面深度解析：企业 AI 大模型落地实践「 RIDE 方法论」",
+        "link": "https://www.infoq.cn/article/BKMR19Rj75XwLR1ysM4B?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 19 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-19T05:34:19.686670"
+      },
+      "f3375059824c7d0b694a63f15f6a81c0798684e6ab2493ea2eecb017a36ab76c": {
+        "title": "谷歌发布适用于多智能体的八种设计模式",
+        "link": "https://www.infoq.cn/article/pTGMtm4Yxej0pWXJB4BN?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 19 Jan 2026 10:14:00 GMT",
+        "first_seen": "2026-01-19T05:34:19.686671"
+      },
+      "0881f06d246167d244c95e6e78d80cb3029230d4de0e9c07cb61c67f193add7b": {
+        "title": "ChatGPT 将测试广告投放，AI 信任危机一触即发",
+        "link": "https://www.infoq.cn/article/pt1L2jiAHb7tAcB1lAmz?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 19 Jan 2026 09:25:00 GMT",
+        "first_seen": "2026-01-19T05:34:19.686673"
       }
     },
     "Finance": {
-      "9766b19545e736487125db5176aca4e6050666bdf04043a3503e1316ca3f049d": {
-        "title": "Delaware high court reinstates Musk’s $56bn Tesla pay package",
-        "link": "https://www.ft.com/content/9d7b443d-793d-47cb-940f-ff42741236c2",
-        "published_date": "Fri, 19 Dec 2025 21:44:00 GMT",
-        "first_seen": "2025-12-19T23:26:05.962210"
-      },
-      "f4c7d4592958716b2848e40e4045647564070ec30324e1332560457e30c06887": {
-        "title": "After Trump’s move to reclassify cannabis, here’s what Wall Street is thinking",
-        "link": "https://www.marketwatch.com/story/after-trumps-move-to-reclassify-cannabis-heres-what-wall-street-is-thinking-ed5777d1?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 21:08:00 GMT",
-        "first_seen": "2025-12-19T23:26:05.962223"
-      },
-      "55ee77bca04b4f980c0d24a325069a38670280535a5d8d2088ff4f7b8e5ce994": {
-        "title": "Pharma stocks advance as Trump rolls out drug-pricing deals with 9 more companies",
-        "link": "https://www.marketwatch.com/story/trump-to-announce-new-drug-pricing-deals-later-today-8261bdfe?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 20:31:00 GMT",
-        "first_seen": "2025-12-19T23:26:05.962226"
-      },
-      "3b06acaf6b6f9f2bded9d8aae5ec053511f46c5f9641762a74616ed64845b453": {
-        "title": "UK rules out using frozen Russian assets to aid Ukraine",
-        "link": "https://www.ft.com/content/d899e28f-40f4-4031-aa51-8bb0bea9c7b4",
-        "published_date": "Fri, 19 Dec 2025 18:58:00 GMT",
-        "first_seen": "2025-12-19T23:26:05.962229"
-      },
-      "2aa7f86d1de6e06d2452397a93f3868c5c62331fddf5a685426c9fa2eb4eb266": {
-        "title": "The dollar is losing the world’s respect — but you’re losing much more",
-        "link": "https://www.marketwatch.com/story/when-the-dollar-loses-the-worlds-respect-americans-either-buy-less-or-pay-more-07992f3b?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 20:32:00 GMT",
-        "first_seen": "2025-12-19T23:26:05.962231"
-      },
-      "7b5ef918d68698f3095f39f6a65d358dbc78999b1c96f9be80982dd3a4a16e7f": {
-        "title": "As stock-market rally broadens, it’s tough for the S&P 500 to keep advancing without tech",
-        "link": "https://www.marketwatch.com/story/as-stock-market-rally-broadens-its-tough-for-the-s-p-500-to-keep-advancing-without-tech-0b8185ae?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Dec 2025 23:56:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.459838"
-      },
-      "2295463b4f7a60599afeb83573a3904c0a4ad53f9a46bac088a4985ab31a69c2": {
-        "title": "Rocket Lab’s stock blasts to a new high. Here’s what’s driving the surge.",
-        "link": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
-        "published_date": "Sat, 20 Dec 2025 00:09:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.459846"
-      },
-      "9fe272dbaadb5364101d657347ba7dfe4454f61dc43b13a242d400a6ae5e3e0f": {
-        "title": "US justice department releases cache of Epstein files",
-        "link": "https://www.ft.com/content/485d7f51-4868-4c9c-b158-54a3eb2245bf",
-        "published_date": "Sat, 20 Dec 2025 01:56:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.459848"
-      },
-      "3115601b52a094df2f883a374253cf94c1f5610ceb90c8b386d587f59cfb7595": {
-        "title": "US launches strikes on Isis targets in Syria in retaliation for ambush",
-        "link": "https://www.ft.com/content/3e16c530-d54a-48b9-867a-a6ec6fa054d5",
-        "published_date": "Sat, 20 Dec 2025 01:34:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.459850"
-      },
-      "869e466ffa8d00c0f7e2b3ebcf4328d905da2b539acf571d29349c4f399dbde6": {
-        "title": "What to know about the new Epstein files release",
-        "link": "https://www.ft.com/content/9cd16b30-d2f0-4da0-acdc-6ff53ed06a68",
-        "published_date": "Sat, 20 Dec 2025 02:24:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.459852"
-      },
       "ccf349fd4d35c090436954ea5c7bb91150befcac7c5ac8dc7a626d35c75d8975": {
         "title": "When retirees go back to work is it a sign of a strong labor force — or a recession?",
         "link": "https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories",
@@ -4497,45 +4407,39 @@
         "link": "https://www.ft.com/content/f8a5c4e8-8706-4c29-96b7-fb6cd4eb8cb4",
         "published_date": "Sun, 18 Jan 2026 13:00:00 GMT",
         "first_seen": "2026-01-18T23:23:26.262635"
+      },
+      "6d64e60bbde27313d749328df037234f57b713d5390337e64be3c8e247ac4cee": {
+        "title": "Trump’s attack on the Fed should galvanise the GOP",
+        "link": "https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49",
+        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-19T05:33:40.211294"
+      },
+      "266deb291dc561df28265d0e28092ba82c62d3b05411d30e31435436325a6116": {
+        "title": "The dangerous triumph of neo-mercantilism",
+        "link": "https://www.ft.com/content/cd68b35f-f00d-4a7d-a9be-56c639dd6b91",
+        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-19T05:33:40.211302"
+      },
+      "f04201b81dc9f206b06182d8d1664abc095424950baf143ff0280dfe17a14c97": {
+        "title": "China’s GDP grows 5% in 2025 as exports offset weak domestic outlook",
+        "link": "https://www.ft.com/content/5fc6effd-29a0-4dca-a409-fd11a3160fdc",
+        "published_date": "Mon, 19 Jan 2026 03:06:00 GMT",
+        "first_seen": "2026-01-19T05:33:40.211305"
+      },
+      "ea7aad66313065840609ff9c0a8830411fe5f449b0123c774ae26566a605d960": {
+        "title": "How could Trump’s Greenland tariffs hit individual EU countries?",
+        "link": "https://www.ft.com/content/5c85d4af-4874-43cc-a1f5-f3f1f6664c70",
+        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-19T05:33:40.211307"
+      },
+      "27fb29e6b6be9f48b261175f6bd03d17bf893b4e2e449c269d2cf611b8b32709": {
+        "title": "UK chancellor hails ‘golden age’ for City after easing tax and regulation",
+        "link": "https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0",
+        "published_date": "Mon, 19 Jan 2026 00:02:00 GMT",
+        "first_seen": "2026-01-19T05:33:40.211309"
       }
     },
     "Ai": {
-      "5adaa1e4639215228dcf03f4c3ef32ec8d98769e83ad18262bb2c3493e9e0e99": {
-        "title": "火线解析智谱AI招股书：年营收3亿增速130%，率先冲刺全球大模型第一股",
-        "link": "https://www.qbitai.com/2025/12/362256.html",
-        "published_date": "Fri, 19 Dec 2025 14:36:00 GMT",
-        "first_seen": "2025-12-19T23:26:17.938463"
-      },
-      "8baf98b5cfdfb9f75bfabfafab1bcabb542fa270353fa2eeaad9cfb0cd46719c": {
-        "title": "大模型「越想越错」？人大&腾讯团队用信息论揭示：什么时候该想、什么时候别想",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-8",
-        "published_date": "Fri, 19 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-19T23:26:17.938470"
-      },
-      "0cd198f70189b30ece814c546db02afc175ad6388c4666acb4b3b6284107a846": {
-        "title": "菜鸟与九识智能“超级整合”在即，无人货运“马太效应”凸显",
-        "link": "https://www.qbitai.com/2025/12/362185.html",
-        "published_date": "Fri, 19 Dec 2025 10:45:00 GMT",
-        "first_seen": "2025-12-19T23:26:17.938471"
-      },
-      "d18773b6e82d7a6fda5d54f17b7eada0482c0e879e636954ecc87b0a84cebd40": {
-        "title": "首创ACE具身研发范式，大晓机器人构建具身智能开放新生态",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19",
-        "published_date": "Fri, 19 Dec 2025 10:06:00 GMT",
-        "first_seen": "2025-12-19T23:26:17.938473"
-      },
-      "735ace0978a3b4d05a459ac2bd83a8452806bd8791dd7d5c21e6cddb9297a9b9": {
-        "title": "破局工业自动化界哥德巴赫猜想，它石智航以全栈技术掀开高价值场景序幕",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-19-11",
-        "published_date": "Fri, 19 Dec 2025 16:53:00 GMT",
-        "first_seen": "2025-12-19T23:26:17.938475"
-      },
-      "ca31890edbb7a3d2391bd553481bc1bd63e4dc216fe2900a9a2090194a4a4d1e": {
-        "title": "2025-12-20日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-20/",
-        "published_date": "Sat, 20 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-20T05:22:04.608470"
-      },
       "c179e64f6b97462b99decba5c3716b6678c1ff7751d3269c4abb8e1b59b70bfa": {
         "title": "Anthropic公布新技术：不靠删数据，参数隔离移除AI危险",
         "link": "https://www.jiqizhixin.com/articles/2025-12-21",
@@ -6647,13 +6551,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
         "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
         "first_seen": "2026-01-18T23:23:38.409509"
+      },
+      "bdb4163315d1684fae3bc2a09a58f88eefbb94c50d690729b6bf2414665fe42c": {
+        "title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
+        "link": "https://www.qbitai.com/2026/01/370196.html",
+        "published_date": "Mon, 19 Jan 2026 03:59:00 GMT",
+        "first_seen": "2026-01-19T05:33:56.282103"
+      },
+      "891b257131708bb8a3f6c5727d6d9093662e808f191e5a88e59e951ff6d02e9c": {
+        "title": "让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-19-3",
+        "published_date": "Mon, 19 Jan 2026 12:03:00 GMT",
+        "first_seen": "2026-01-19T05:33:56.282109"
+      },
+      "057028dab54285d684409ba8a0fe5a5e2752419edae1e943700a286d170af2ce": {
+        "title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
+        "link": "https://www.qbitai.com/2026/01/370217.html",
+        "published_date": "Mon, 19 Jan 2026 04:22:00 GMT",
+        "first_seen": "2026-01-19T05:33:56.282111"
+      },
+      "bef71455a257d2d7ee43d48b8aced069853a8505232713c46fbe25bb8090e1df": {
+        "title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
+        "link": "https://www.qbitai.com/2026/01/370169.html",
+        "published_date": "Mon, 19 Jan 2026 02:04:00 GMT",
+        "first_seen": "2026-01-19T05:33:56.282113"
+      },
+      "80ad7cc47d170963209bcc355402465e04017663df8bf0d2302357d558a40bd9": {
+        "title": "复旦大学 NLP 研究团队与其此前孵化的学术搜索平台 WisPaper 展开合作，共同研发了 OpenNovelty——一个基于大语言模型、强调证据与可验证性的自动化新颖性分析系统。",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
+        "published_date": "Mon, 19 Jan 2026 13:28:00 GMT",
+        "first_seen": "2026-01-19T05:33:56.282114"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-18T23:23:56.830384",
-    "Finance": "2026-01-18T23:23:26.262638",
-    "Ai": "2026-01-18T23:23:38.409512"
+    "Technology": "2026-01-19T05:34:19.686674",
+    "Finance": "2026-01-19T05:33:40.211311",
+    "Ai": "2026-01-19T05:33:56.282117"
   }
 }

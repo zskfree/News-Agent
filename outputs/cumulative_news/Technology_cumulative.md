@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-18 23:23
+**最后更新时间**: 2026-01-19 05:33
+
+---
+
+## 🆕 最新更新 (2026-01-19 05:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？](https://www.tmtpost.com/7847558.html)
+**发布时间**: 2026-01-19 12:28
+
+#### [“擦边”哪有AI编程香？马斯克终于想通了](https://www.tmtpost.com/7847553.html)
+**发布时间**: 2026-01-19 12:28
+
+#### [从硫磷钛到锂电新材，绵竹以循环经济实现产业动能升级](https://www.tmtpost.com/7847544.html)
+**发布时间**: 2026-01-19 12:13
+
+#### [从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」](https://www.tmtpost.com/7847492.html)
+**发布时间**: 2026-01-19 11:48
+
+#### [放弃门票，才是文旅“赚大钱”的开始](https://www.tmtpost.com/7847404.html)
+**发布时间**: 2026-01-19 11:47
+
+#### [西贝的苦在“果”，贾国龙的执念在“因”](https://www.tmtpost.com/7847434.html)
+**发布时间**: 2026-01-19 11:47
+
+#### [战火升级，小核酸药物剧变中的全球战局](https://www.tmtpost.com/7847386.html)
+**发布时间**: 2026-01-19 11:27
+
+#### [国产EDA，走到哪一步了？](https://www.tmtpost.com/7847409.html)
+**发布时间**: 2026-01-19 11:27
+
+#### [2026 JPM核心信号，跨国药企BD思路大揭秘](https://www.tmtpost.com/7847389.html)
+**发布时间**: 2026-01-19 11:27
+
+#### [「碰一下」奇袭扫码支付](https://www.tmtpost.com/7847375.html)
+**发布时间**: 2026-01-19 11:23
+
+#### [2025手机大战：华为赢销量，苹果守利润，米OV被夹击](https://www.tmtpost.com/7847363.html)
+**发布时间**: 2026-01-19 11:22
+
+#### [2026存储风口有哪些？](https://www.tmtpost.com/7847402.html)
+**发布时间**: 2026-01-19 11:21
+
+#### [理奇智能：低研发高毛利难解，宁德时代订单下滑+补流募资存疑｜IPO观察](https://www.tmtpost.com/7845388.html)
+**发布时间**: 2026-01-19 11:10
+
+#### [埃泰克：大股东奇瑞贡献超五成营收，关联交易毛利率却突然倒挂6个点，研发投入质量存疑｜IPO观察](https://www.tmtpost.com/7845412.html)
+**发布时间**: 2026-01-19 11:09
+
+#### [104家门店全关，合肥美食“四件套”变三件套？](https://www.tmtpost.com/7847271.html)
+**发布时间**: 2026-01-19 10:58
+
+#### [宜家中国大规模关店，是因为免费睡觉的人太多了吗？](https://www.tmtpost.com/7847330.html)
+**发布时间**: 2026-01-19 10:44
+
+#### [从"实验室"到"生活间"，具身智能的商业化破局与生态构建 | CES 2026](https://www.tmtpost.com/7846124.html)
+**发布时间**: 2026-01-19 10:39
+
+#### [大厂入局的漫剧赛道迎重大转折，谁能笑到最后？](https://www.tmtpost.com/7847275.html)
+**发布时间**: 2026-01-19 10:35
+
+#### [解释是负面的最大陷阱](https://www.tmtpost.com/7847276.html)
+**发布时间**: 2026-01-19 10:34
+
+#### [必胜客狂开副牌，萨莉亚却赚不动了？](https://www.tmtpost.com/7847272.html)
+**发布时间**: 2026-01-19 10:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [把「搜打撤」玩成模拟经营，我在《逃离鸭科夫》实现「财务自由」](https://sspai.com/post/105227)
+**发布时间**: 2026-01-19 11:30
+
+#### [派早报：ChatGPT 将上线广告](https://sspai.com/post/105551)
+**发布时间**: 2026-01-19 08:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里云 CIO 全面深度解析：企业 AI 大模型落地实践「 RIDE 方法论」](https://www.infoq.cn/article/BKMR19Rj75XwLR1ysM4B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 11:23
+
+#### [微软介绍了TypeScript 7的更新](https://www.infoq.cn/article/ev8UP654Oux2DreuC6T0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 10:42
+
+#### [谷歌发布适用于多智能体的八种设计模式](https://www.infoq.cn/article/pTGMtm4Yxej0pWXJB4BN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 10:14
+
+#### [ChatGPT 将测试广告投放，AI 信任危机一触即发](https://www.infoq.cn/article/pt1L2jiAHb7tAcB1lAmz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 09:25
+
+#### [Java 近期资讯：Spring Shell、JReleaser、TornadoInsight和Apache Camel](https://www.infoq.cn/article/PRKRY1HB7C2ipJFoJBHy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-19 08:00
 
 ---
 
