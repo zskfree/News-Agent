@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 20 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Tue, 20 Jan 2026 08:35:41 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 23:25:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-9</link>
-      <description>&lt;![CDATA[具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-9</guid>
+      <title>马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-13</link>
+      <description>&lt;![CDATA[马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 20:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>EmbodiChain开源，用100%生成式数据自动训练具身智能模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-8</link>
-      <description>&lt;![CDATA[EmbodiChain开源，用100%生成式数据自动训练具身智能模型]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-8</guid>
+      <title>当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-11</link>
+      <description>&lt;![CDATA[当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-2</link>
-      <description>&lt;![CDATA[WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-2</guid>
+      <title>智谱新模型也用DeepSeek的MLA，苹果M5就能跑</title>
+      <link>https://www.qbitai.com/2026/01/370652.html</link>
+      <description>&lt;![CDATA[智谱新模型也用DeepSeek的MLA，苹果M5就能跑]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370652.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一周对战2500万局，这些「AI假人」让人类游戏玩家破防了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-7</link>
-      <description>&lt;![CDATA[一周对战2500万局，这些「AI假人」让人类游戏玩家破防了]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-7</guid>
+      <title>从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-10</link>
+      <description>&lt;![CDATA[从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-20-4</link>
-      <description>&lt;![CDATA[钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-4</guid>
+      <title>美团卡姐接管无人车，MIT博士离职创业具身智能</title>
+      <link>https://www.qbitai.com/2026/01/370599.html</link>
+      <description>&lt;![CDATA[美团卡姐接管无人车，MIT博士离职创业具身智能]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370599.html</guid>
       <category>Ai</category>
     </item>
   </channel>

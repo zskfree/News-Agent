@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 08:35
+**最后更新时间**: 2026-01-20 23:25
+
+---
+
+## 🆕 最新更新 (2026-01-20 23:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [无锡汽车零部件股拟购金旺达控制权，加速布局机器人产业链；电机细分龙头拟支付现金购买北京和利时电机87.07%的股权；【并购一线】](https://www.tmtpost.com/7849891.html)
+**发布时间**: 2026-01-20 23:01
+
+#### [Netflix财报或能终结公司股价颓势，华纳并购案成关注焦点](https://www.tmtpost.com/7849870.html)
+**发布时间**: 2026-01-20 22:10
+
+#### [淡马锡要走、屈臣氏要上：一宗迟到十年的上市，如何被重新定价？](https://www.tmtpost.com/7849283.html)
+**发布时间**: 2026-01-20 21:44
+
+#### [看了300期神秘园，我能挑战「鳌太线」了吗](https://www.tmtpost.com/7849175.html)
+**发布时间**: 2026-01-20 21:44
+
+#### [“中国Space X"集体冲刺IPO，商业航天的高估值/市值最终谁买单？](https://www.tmtpost.com/7849092.html)
+**发布时间**: 2026-01-20 21:43
+
+#### [袁记云饺想上市，还要啃下两块“硬骨头”](https://www.tmtpost.com/7849015.html)
+**发布时间**: 2026-01-20 21:43
+
+#### [《鹅鸭杀》手游爆火，派对游戏正赛开始了](https://www.tmtpost.com/7848890.html)
+**发布时间**: 2026-01-20 21:43
+
+#### [“印钞机”变“碎钞机”！光伏集体巨亏，谁在流血求生？丨行业风向标](https://www.tmtpost.com/7849774.html)
+**发布时间**: 2026-01-20 21:08
+
+#### [弃购芯片设计、锁定双盈利引擎，盈方微的 “背水一战” 能赢吗？｜并购一线](https://www.tmtpost.com/7849518.html)
+**发布时间**: 2026-01-20 20:36
+
+#### [风范股份跨界光伏遭反噬，“范氏家族”套现17亿陷对赌困局](https://www.tmtpost.com/7849722.html)
+**发布时间**: 2026-01-20 20:35
+
+#### [从第一台到第100万台，ES8为蔚来兜住了底](https://www.tmtpost.com/7849354.html)
+**发布时间**: 2026-01-20 20:16
+
+#### [超410万吨扩产潮下，磷酸铁锂的过剩、疯狂和“割裂”丨行业风向标](https://www.tmtpost.com/7849656.html)
+**发布时间**: 2026-01-20 19:58
+
+#### [纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关](https://www.tmtpost.com/7849618.html)
+**发布时间**: 2026-01-20 19:57
+
+#### [汉堡变小，骂声变大：麦当劳为何背刺“麦门信徒”？](https://www.tmtpost.com/7849348.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [开年的AI狂欢，是利好还是隐忧？](https://www.tmtpost.com/7849179.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [2025Q4方便速食市场回顾](https://www.tmtpost.com/7848738.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [摆脱买量，微小、抖小都在布局，下一个流量机会？](https://www.tmtpost.com/7848735.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [三七互娱买下半个AI圈：智谱、月之暗面、百川智能均在其中](https://www.tmtpost.com/7848727.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [百川智能，想做自己的阿福](https://www.tmtpost.com/7848765.html)
+**发布时间**: 2026-01-20 19:55
+
+#### [AI手机的终极猜想：超级Agent入口](https://www.tmtpost.com/7849413.html)
+**发布时间**: 2026-01-20 19:55
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [解绑宁王，天赐底气何在？](http://www.huxiu.com/article/4817712.html?f=wangzhan)
+**发布时间**: 2026-01-20 21:44
+
+#### [GDP突破140万亿，增长5%，这组数字背后代表着什么？](http://www.huxiu.com/article/4827950.html?f=wangzhan)
+**发布时间**: 2026-01-20 20:00
+
+#### [一口气拆解2025GDP成绩单：保5很难，但保生育率更难](http://www.huxiu.com/article/4827980.html?f=wangzhan)
+**发布时间**: 2026-01-20 17:00
+
+#### [中美登月竞赛，美国想要重返月球，真正的困难在哪？](http://www.huxiu.com/article/4827875.html?f=wangzhan)
+**发布时间**: 2026-01-20 16:20
+
+#### [出海 “斩杀线”：哪吒汽车陷20亿泰债困局](http://www.huxiu.com/article/4827812.html?f=wangzhan)
+**发布时间**: 2026-01-19 22:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 029 周 AI 应用榜：AI 生图文字不再“开盲盒”，GLM-Image 凭精准登顶榜首！](https://www.infoq.cn/article/1CO7VkWwPjB94w95xxfF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 20:00
+
+#### [MAKE IT SNOW ｜ 2025-2026 Data+AI 年度时刻](https://www.infoq.cn/video/uqAQNcO0Ct5oJxoC1ARK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 19:11
+
+#### [刚刚，基于Grok的X推荐算法开源！专家：ROI 过低，其它平台不一定跟](https://www.infoq.cn/article/2lb8A2IuImbvpMI1tR7D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 18:30
+
+#### [当前关于 Vibe Engineering 的所有认知都会在 1 个月内严重过时](https://www.infoq.cn/article/k05gRzGFhz4QerCz4ARl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 18:13
+
+#### [OpenAI 广告续命遭全网骂，用户要跑路Gemini！需烧400 亿，18个月破产预警](https://www.infoq.cn/article/xSxkCYr7zMyCVYQBYf1F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 18:03
+
+#### [聚焦算力市场痛点，嘉唐算力供应链平台重磅发布](https://www.infoq.cn/article/vbx7cX5Mvva7szH6Fl53?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 17:59
+
+#### [智元首席科学家罗剑岚：2026年挖出真实场景的Scaling law，全系机器人将上线“新系统”](https://www.infoq.cn/article/wJjaPXC8rLTxLTeOjLZ0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 17:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [GitHub 都没用明白，我这样用 Gemini 零起点开发应用](https://sspai.com/post/105540)
+**发布时间**: 2026-01-20 17:30
 
 ---
 

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 08:35
+**最后更新时间**: 2026-01-20 23:25
+
+---
+
+## 🆕 最新更新 (2026-01-20 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Netflix just boosted its case to win Warner Bros. Here’s why.](https://www.marketwatch.com/story/netflix-just-boosted-its-case-to-win-warner-bros-heres-why-8a6a44cd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 23:07
+
+#### [As the dollar slides, currency traders are overlooking a bigger risk around Greenland](https://www.marketwatch.com/story/as-the-dollar-slides-currency-traders-are-overlooking-a-bigger-risk-around-greenland-61cc8b49?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 22:27
+
+#### [These stocks were the biggest losers on the S&P 500’s worst day in three months](https://www.marketwatch.com/story/these-stocks-were-the-biggest-losers-on-the-s-p-500s-worst-day-in-three-months-be705c89?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 22:08
+
+#### [United’s stock rallies as airline’s perks and loyalty strategy pays off](https://www.marketwatch.com/story/uniteds-stock-rallies-as-airlines-perks-and-loyalty-strategy-pays-off-ce7ec4c3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 22:05
+
+#### [‘Sell America’ trade makes a comeback as U.S. stocks see biggest drop in months. Here’s what investors need to know.](https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 22:03
+
+#### [Uber’s CEO has this advice for investors trying to find the real AI winners](https://www.marketwatch.com/story/ubers-ceo-has-this-advice-for-investors-trying-to-find-the-real-ai-winners-ef473f16?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 21:51
+
+#### [Oracle’s stock could be a big winner for the next decade, according to this analyst. Here’s why.](https://www.marketwatch.com/story/oracles-stock-could-be-a-big-winner-for-the-next-decade-according-to-this-analyst-heres-why-e1ba8777?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 21:47
+
+#### [I got hate mail for being a Tesla stock bull — but here’s the No. 1 thing many are missing about Elon Musk’s AI ambitions](https://www.marketwatch.com/story/i-got-hate-mail-for-being-a-tesla-stock-bull-but-heres-the-no-1-thing-many-are-missing-about-elon-musks-ai-ambitions-44643c65?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 21:40
+
+#### [Here’s how much risk the U.S. faces if global investors ‘weaponize’ American stocks and bonds](https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 21:37
+
+#### [Trade war redux? Greenland dispute threatens $1 trillion in trade between U.S. and Europe.](https://www.marketwatch.com/story/trade-war-redux-greenland-dispute-threatens-1-trillion-in-trade-between-u-s-and-europe-c7e1a159?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 21:23
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump launches attack on Starmer as UK-US tensions mount](https://www.ft.com/content/159bc866-1f2a-44eb-8bff-ff7c73749def)
+**发布时间**: 2026-01-20 22:38
+
+#### [US regulator appeals Meta’s antitrust win](https://www.ft.com/content/ef7b57cf-d2e7-4cfb-be24-1b5e1bdc3452)
+**发布时间**: 2026-01-20 22:22
+
+#### [Dollar and US stocks fall as Trump says ‘no going back’ on Greenland bid](https://www.ft.com/content/6292304a-b4b3-4f04-89bb-f05861b40cb8)
+**发布时间**: 2026-01-20 22:18
+
+#### [Trump declines to rule out future military action against Iran](https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78)
+**发布时间**: 2026-01-20 18:52
+
+#### [UK in ‘strong position’ to avoid further tax rises, says Rachel Reeves](https://www.ft.com/content/221a7418-1fc2-4753-830f-33bd8c178c6b)
+**发布时间**: 2026-01-20 18:40
+
+#### [Why the Trump administration is going to Davos](https://www.ft.com/content/a675b8af-46b7-4f93-a616-41f0a002c22e)
+**发布时间**: 2026-01-20 18:06
+
+#### [BoE governor warns of market spillovers from Trump’s actions](https://www.ft.com/content/8c0ad9b5-3311-410c-9bb4-734b128ab0f2)
+**发布时间**: 2026-01-20 17:46
+
+#### [UK approves China’s ‘mega’ embassy in London](https://www.ft.com/content/52c04197-4f6c-4a71-9c0f-82fc5eaecf24)
+**发布时间**: 2026-01-20 17:23
+
+#### [The world’s economy — past, present and future](https://www.ft.com/content/0a2fadfe-db3e-40c9-8711-4c4072ce3559)
+**发布时间**: 2026-01-20 16:42
+
+#### [How Trump turned mockery into a weapon of diplomacy](https://www.ft.com/content/31763f10-62d0-480b-9d4e-76b234daa966)
+**发布时间**: 2026-01-20 14:31
 
 ---
 
