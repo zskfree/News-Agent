@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 20 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 20 Jan 2026 05:30:52 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 08:35:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Japan’s 40-year bonds surpass 4% for first time</title>
-      <link>https://www.ft.com/content/68349aa9-9b4e-44a2-abd4-f1964308cf29</link>
-      <description>&lt;![CDATA[Japan’s 40-year bonds surpass 4% for first time]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 04:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/68349aa9-9b4e-44a2-abd4-f1964308cf29</guid>
+      <title>ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago</title>
+      <link>https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 08:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Saudi banks borrow abroad at fastest ever pace</title>
-      <link>https://www.ft.com/content/c5a49529-639c-42d7-b9ba-c611d756623c</link>
-      <description>&lt;![CDATA[Saudi banks borrow abroad at fastest ever pace]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c5a49529-639c-42d7-b9ba-c611d756623c</guid>
+      <title>UK private sector wage growth cools to 3.6% as employers cut headcount</title>
+      <link>https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922</link>
+      <description>&lt;![CDATA[UK private sector wage growth cools to 3.6% as employers cut headcount]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Long-awaited audit reform bill scrapped by UK ministers</title>
-      <link>https://www.ft.com/content/d16bb7e7-9be7-4b04-b940-058747bb9de2</link>
-      <description>&lt;![CDATA[Long-awaited audit reform bill scrapped by UK ministers]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d16bb7e7-9be7-4b04-b940-058747bb9de2</guid>
+      <title>Trump criticises ‘stupidity’ of UK’s Chagos Islands deal</title>
+      <link>https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe</link>
+      <description>&lt;![CDATA[Trump criticises ‘stupidity’ of UK’s Chagos Islands deal]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>UK would be ‘foolish’ to pursue customs union with EU, business secretary says</title>
-      <link>https://www.ft.com/content/73c80adc-776a-4738-950a-9c08ef08d759</link>
-      <description>&lt;![CDATA[UK would be ‘foolish’ to pursue customs union with EU, business secretary says]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/73c80adc-776a-4738-950a-9c08ef08d759</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Bessent questions Europe’s ability to agree strong response to Greenland tariffs</title>
-      <link>https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8</link>
-      <description>&lt;![CDATA[Bessent questions Europe’s ability to agree strong response to Greenland tariffs]]&gt;</description>
-      <pubDate>Tue, 20 Jan 2026 00:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8</guid>
+      <title>Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte</title>
+      <link>https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78</link>
+      <description>&lt;![CDATA[Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 06:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78</guid>
       <category>Finance</category>
     </item>
   </channel>

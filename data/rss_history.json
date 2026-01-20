@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a3a3f7a40a950a460ee274eba2cf3a99ae8e108d47fc8172f8023c41d0c66051": {
-        "title": "大模型挣钱有多难，看看智谱亏掉的 62 亿",
-        "link": "https://www.tmtpost.com/7815849.html",
-        "published_date": "Sun, 21 Dec 2025 11:41:00 GMT",
-        "first_seen": "2025-12-21T08:33:14.020974"
-      },
-      "63c3d32b39e28ff36608d691f9e592329b87801379cebe82879414cb2882ee37": {
-        "title": "谁在捧杀豆包手机？",
-        "link": "https://www.tmtpost.com/7815675.html",
-        "published_date": "Sun, 21 Dec 2025 09:51:00 GMT",
-        "first_seen": "2025-12-21T08:33:14.020984"
-      },
-      "9afc6e7bd5d71f95752cf72605a586fb34ae29f38601e312e8006d8f0bf56198": {
-        "title": "闪迪股价本周表现强劲，机构预测其营收两年内有望增长76%",
-        "link": "https://www.tmtpost.com/7815915.html",
-        "published_date": "Sun, 21 Dec 2025 09:15:00 GMT",
-        "first_seen": "2025-12-21T08:33:14.020987"
-      },
-      "e83d7526fac7a0724235eff862be561fbd2061483beff5c32a530ca17aac7bc4": {
-        "title": "消费者信心、经济活动数据，以及因圣诞节导致的短暂交易周",
-        "link": "https://www.tmtpost.com/7815917.html",
-        "published_date": "Sun, 21 Dec 2025 09:15:00 GMT",
-        "first_seen": "2025-12-21T08:33:14.020989"
-      },
-      "26519a036388fa1fea786d5372fc8ae1c0de69df5cfcd4014bc15d9c504d8dd7": {
-        "title": "墨西哥，不便宜",
-        "link": "https://www.tmtpost.com/7815907.html",
-        "published_date": "Sun, 21 Dec 2025 11:21:00 GMT",
-        "first_seen": "2025-12-21T08:33:14.020990"
-      },
       "ac4d827ec552e051e74044d657e51b8f412e3e9d62379fd32dc1b142902b5ec1": {
         "title": "赵何娟独家对话李飞飞：“我信仰的是人类，不是AI” | 2025 T-EDGE全球对话",
         "link": "https://www.tmtpost.com/7816115.html",
@@ -2665,6 +2635,36 @@
         "link": "https://www.infoq.cn/article/dzXRw5ZoyLFbg7jjZvQL?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 20 Jan 2026 10:20:00 GMT",
         "first_seen": "2026-01-20T05:31:32.985368"
+      },
+      "b4740f3ba16e0648147b75ea0278a3b1c344fbd72fc265c77bf458cdc08b0cdd": {
+        "title": "产业级 Agent 如何破局？百度吴健民：通用模型难“通吃”，垂直场景才是出路",
+        "link": "https://www.infoq.cn/article/RFVtzWIOoQhubp6cz0yK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 20 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-20T08:36:03.565362"
+      },
+      "a5e3f6db725c849894399885bdfe36b6490c8b13497f1d642e3828732bac1217": {
+        "title": "2026 年预测：智能体将推动集中化战略，带来新的工作方式 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/cTKd3cN0LK4Fx90mPArR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 20 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-20T08:36:03.565369"
+      },
+      "3113d4d1752b271a69db7fa3cda1bb610fcdfdaa6e2e2f48b43f8684361a0a2d": {
+        "title": "2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启",
+        "link": "https://www.tmtpost.com/7844541.html",
+        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
+        "first_seen": "2026-01-20T08:36:03.565372"
+      },
+      "182232b23befdd48abcd67a86f0f14ab44dcb77daa7362336470e5603abc68bf": {
+        "title": "大模型低价趋势延续！智象未来姚霆：B端、C端界限模糊，API不够、逼出 “按结果付费”",
+        "link": "https://www.infoq.cn/article/fijwq6waNUKJhmbUGMqc?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 20 Jan 2026 15:18:00 GMT",
+        "first_seen": "2026-01-20T08:36:03.565373"
+      },
+      "700533693451f900e984842612cfbf89f871bc8184ee021285bdd6b6fd801407": {
+        "title": "3700+ Star 的 MemOS：在 Claude 之前，就把 AI 的记忆和知识库分清楚了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530693&idx=1&sn=a231230a037f2fbe8b1c4cd51db85f29",
+        "published_date": "Tue, 20 Jan 2026 15:05:00 GMT",
+        "first_seen": "2026-01-20T08:36:03.565375"
       }
     },
     "Finance": {
@@ -4449,6 +4449,30 @@
         "link": "https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8",
         "published_date": "Tue, 20 Jan 2026 00:22:00 GMT",
         "first_seen": "2026-01-20T05:30:52.660208"
+      },
+      "b8d1f295e4f742e8d001cc1c43a6d8237b1678df8944f00bee75021d55d6c462": {
+        "title": "ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago",
+        "link": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
+        "published_date": "Tue, 20 Jan 2026 08:17:00 GMT",
+        "first_seen": "2026-01-20T08:35:23.581858"
+      },
+      "e2c77c592f46f44004dd955ce9d3e28a042cdba2d0c9b21366d9c274b267bff2": {
+        "title": "UK private sector wage growth cools to 3.6% as employers cut headcount",
+        "link": "https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922",
+        "published_date": "Tue, 20 Jan 2026 07:54:00 GMT",
+        "first_seen": "2026-01-20T08:35:23.581869"
+      },
+      "8529627aac5319848f8e35c24116cb227e9f88075dc563b194ecf6ee9ad698e1": {
+        "title": "Trump criticises ‘stupidity’ of UK’s Chagos Islands deal",
+        "link": "https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe",
+        "published_date": "Tue, 20 Jan 2026 07:08:00 GMT",
+        "first_seen": "2026-01-20T08:35:23.581872"
+      },
+      "f010cac83dbb045d06b2d08dfdc9c36ae1d53d32efc1379f1131f4ba7e934ce2": {
+        "title": "Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte",
+        "link": "https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78",
+        "published_date": "Tue, 20 Jan 2026 06:38:00 GMT",
+        "first_seen": "2026-01-20T08:35:23.581874"
       }
     },
     "Ai": {
@@ -6635,13 +6659,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-20-3",
         "published_date": "Tue, 20 Jan 2026 11:49:00 GMT",
         "first_seen": "2026-01-20T05:31:09.573719"
+      },
+      "5b36992ea7acfe98fa48e58e71ae73d5eddf9fbad56f4fa56773e5cc4c4ef808": {
+        "title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-9",
+        "published_date": "Tue, 20 Jan 2026 16:06:00 GMT",
+        "first_seen": "2026-01-20T08:35:41.251779"
+      },
+      "60abf2ce6f81de0cd3679b5a8fbe537c5717fe4cd8c30b52843b9492e9609e85": {
+        "title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-8",
+        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
+        "first_seen": "2026-01-20T08:35:41.251785"
+      },
+      "6a8dd725bbd6412b39fcc635b8544b665d4cf9f2cfa579fea726e27c5c1c98d5": {
+        "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-2",
+        "published_date": "Tue, 20 Jan 2026 10:40:00 GMT",
+        "first_seen": "2026-01-20T08:35:41.251788"
+      },
+      "57649c06cbc3211715c999d73b44cabe989c7eea3651fb33d190fb584ceb888f": {
+        "title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-7",
+        "published_date": "Tue, 20 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-20T08:35:41.251790"
+      },
+      "e3ca7ba05549090a969bd787e8fa8792de93850d603147fadc802d39b7a50f45": {
+        "title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-4",
+        "published_date": "Tue, 20 Jan 2026 11:58:00 GMT",
+        "first_seen": "2026-01-20T08:35:41.251791"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-20T05:31:32.985370",
-    "Finance": "2026-01-20T05:30:52.660211",
-    "Ai": "2026-01-20T05:31:09.573722"
+    "Technology": "2026-01-20T08:36:03.565377",
+    "Finance": "2026-01-20T08:35:23.581876",
+    "Ai": "2026-01-20T08:35:41.251794"
   }
 }

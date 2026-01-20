@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 05:30
+**最后更新时间**: 2026-01-20 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-20 08:35)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago](https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories)
+**发布时间**: 2026-01-20 08:17
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK private sector wage growth cools to 3.6% as employers cut headcount](https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922)
+**发布时间**: 2026-01-20 07:54
+
+#### [Trump criticises ‘stupidity’ of UK’s Chagos Islands deal](https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe)
+**发布时间**: 2026-01-20 07:08
+
+#### [Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte](https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78)
+**发布时间**: 2026-01-20 06:38
+
+#### [Bessent mocks EU tariff response from ‘dreaded European working group’](https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8)
+**发布时间**: 2026-01-20 00:22
 
 ---
 
