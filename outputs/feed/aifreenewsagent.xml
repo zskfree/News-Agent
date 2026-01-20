@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Jan 2026 23:22:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2026 23:25:16 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 05:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 05:31:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-8</link>
-      <description>&lt;![CDATA[租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-8</guid>
+      <title>算力越高收入越多！OpenAI率先验证AI商业Scaling Law</title>
+      <link>https://www.qbitai.com/2026/01/370375.html</link>
+      <description>&lt;![CDATA[算力越高收入越多！OpenAI率先验证AI商业Scaling Law]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 01:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370375.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>评审用不用AI，作者说了算？ICML 2026全新评审政策出炉</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-7</link>
-      <description>&lt;![CDATA[评审用不用AI，作者说了算？ICML 2026全新评审政策出炉]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-7</guid>
+      <title>MIT、哈佛等让细胞「记住」自己的基因活动历史，首次在哺乳动物细胞中记录转录组状态</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-5</link>
+      <description>&lt;![CDATA[MIT、哈佛等让细胞「记住」自己的基因活动历史，首次在哺乳动物细胞中记录转录组状态]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了</title>
-      <link>https://www.qbitai.com/2026/01/370355.html</link>
-      <description>&lt;![CDATA[哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370355.html</guid>
+      <title>谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明</title>
+      <link>https://www.qbitai.com/2026/01/370460.html</link>
+      <description>&lt;![CDATA[谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370460.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-6</link>
-      <description>&lt;![CDATA[机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-6</guid>
+      <title>TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-6</link>
+      <description>&lt;![CDATA[TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-19-9</link>
-      <description>&lt;![CDATA[最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程]]&gt;</description>
-      <pubDate>Mon, 19 Jan 2026 18:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-19-9</guid>
+      <title>零样本&amp;少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-20-3</link>
+      <description>&lt;![CDATA[零样本&amp;少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026]]&gt;</description>
+      <pubDate>Tue, 20 Jan 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-20-3</guid>
       <category>Ai</category>
     </item>
   </channel>

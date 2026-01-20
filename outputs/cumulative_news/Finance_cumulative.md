@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 23:24
+**最后更新时间**: 2026-01-20 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-20 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How the Greenland deployment of a few European troops enraged Trump](https://www.ft.com/content/80d6b1e1-e17c-4ed4-aa3e-b9a50196eb72)
+**发布时间**: 2026-01-20 05:00
+
+#### [Greenland is ground zero for Arctic ‘Great Game’](https://www.ft.com/content/3bc80cb4-e08b-427e-81fd-a7ad5689f4a5)
+**发布时间**: 2026-01-20 05:00
+
+#### [How tech titans prospered in the first year of Trump’s return to power](https://www.ft.com/content/674b700e-765d-44e0-ba30-13b0c6c5abf1)
+**发布时间**: 2026-01-20 05:00
+
+#### [Why we have the calendar all wrong](https://www.ft.com/content/ade9d171-1d2e-46e3-a5e1-186ba041e96c)
+**发布时间**: 2026-01-20 05:00
+
+#### [Nigel Farage seeks meeting with UAE president to boost profile and build ties](https://www.ft.com/content/58856ec6-baeb-4b5c-be5d-df7b632d6240)
+**发布时间**: 2026-01-20 05:00
+
+#### [Saudi banks borrow abroad at fastest ever pace](https://www.ft.com/content/c5a49529-639c-42d7-b9ba-c611d756623c)
+**发布时间**: 2026-01-20 05:00
+
+#### [Britain has spent little extra on conventional armed forces, experts warn](https://www.ft.com/content/209b4023-e6c0-408b-b2c6-821fc360212c)
+**发布时间**: 2026-01-20 05:00
+
+#### [Japan’s 40-year bonds surpass 4% for first time](https://www.ft.com/content/68349aa9-9b4e-44a2-abd4-f1964308cf29)
+**发布时间**: 2026-01-20 04:53
+
+#### [Danish troops land in Greenland as tensions rise](https://www.ft.com/content/1ef936c1-43c5-4166-96f3-8876346ccaaa)
+**发布时间**: 2026-01-20 04:49
+
+#### [Bessent questions Europe’s ability to agree strong response to Greenland tariffs](https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8)
+**发布时间**: 2026-01-20 00:22
+
+#### [UK would be ‘foolish’ to pursue customs union with EU, business secretary says](https://www.ft.com/content/73c80adc-776a-4738-950a-9c08ef08d759)
+**发布时间**: 2026-01-20 00:01
+
+#### [Long-awaited audit reform bill scrapped by UK ministers](https://www.ft.com/content/d16bb7e7-9be7-4b04-b940-058747bb9de2)
+**发布时间**: 2026-01-20 00:01
 
 ---
 

@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3b049d8061f16f227c6361e08800a219e54f231cf72776db17080d95b88a08ee": {
-        "title": "18年前，我们就画好了AI的蓝图",
-        "link": "https://www.tmtpost.com/7815599.html",
-        "published_date": "Sat, 20 Dec 2025 15:42:00 GMT",
-        "first_seen": "2025-12-20T23:25:22.454500"
-      },
-      "3b8f441cf4de1ab26a9143b9598fec0419f6ab75224cfc71f6e65e62a4f80f0d": {
-        "title": "人类的领导力，AI的生命力",
-        "link": "https://www.tmtpost.com/7815533.html",
-        "published_date": "Sat, 20 Dec 2025 15:42:00 GMT",
-        "first_seen": "2025-12-20T23:25:22.454507"
-      },
-      "d576daa134104886ba42faeac861e3fb07d1eb0d424a4988a4d28eaea0290d32": {
-        "title": "推荐 6 个近期火火火的 GitHub 项目",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529794&idx=1&sn=8a834d7f2e2314faaa0519d97d396aae",
-        "published_date": "Sat, 20 Dec 2025 15:59:00 GMT",
-        "first_seen": "2025-12-20T23:25:22.454509"
-      },
-      "15180059df84fcce471195a476dba5c0ed7be865f2f04c2d33f71b33d435e86e": {
-        "title": "对2025年中国游戏行业的简短总结",
-        "link": "https://www.tmtpost.com/7815520.html",
-        "published_date": "Sat, 20 Dec 2025 22:06:00 GMT",
-        "first_seen": "2025-12-20T23:25:22.454510"
-      },
-      "0d53cff6106dcc535f10859dc2a9e5c7c01f899b5bb84eb344db8d77a5cbc056": {
-        "title": "纷纷拥抱“中国合伙人”，再本土化能否成为外资品牌2025新解法？",
-        "link": "https://www.tmtpost.com/7815685.html",
-        "published_date": "Sat, 20 Dec 2025 13:25:00 GMT",
-        "first_seen": "2025-12-20T23:25:22.454512"
-      },
-      "5ce21f0e3627e161e8714e292e6dd99e35ce1dc4d2399738ccfe12e55e98e8d3": {
-        "title": "首张L3正式号牌落地：车牌“渝AD0001Z”背后的规则升级",
-        "link": "https://www.tmtpost.com/7815882.html",
-        "published_date": "Sun, 21 Dec 2025 09:40:00 GMT",
-        "first_seen": "2025-12-21T05:23:08.591427"
-      },
-      "2c5535c22f80bc74d31d9146e55cf3c66f43fcc511589458192572bb3814404e": {
-        "title": "【数智周报】MiniMax和智谱通过港交所聆讯；OpenAI据悉计划以8300亿美元估值筹资至多1000亿美元；寒武纪：拟使用27.78亿元资本公积金弥补亏损",
-        "link": "https://www.tmtpost.com/7815833.html",
-        "published_date": "Sun, 21 Dec 2025 12:12:00 GMT",
-        "first_seen": "2025-12-21T05:23:08.591434"
-      },
-      "197e95d994b4fd2c22e4f0c079c20878af382e989a160a70a0ea93e24f878bba": {
-        "title": "开发者技术及生态发展 2030",
-        "link": "https://www.infoq.cn/minibook/KmPmX6grjkD2fPiyyba3?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 21 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-21T05:23:08.591436"
-      },
-      "2cf05f51981a832de336118a10b2d06d4573c63ec6801e0db50b6745e83d6b69": {
-        "title": "排“第二”的智谱AI，含金量多高？",
-        "link": "https://www.tmtpost.com/7815806.html",
-        "published_date": "Sun, 21 Dec 2025 09:51:00 GMT",
-        "first_seen": "2025-12-21T05:23:08.591438"
-      },
-      "1c7c3c13c88ee426a7108381c1b3d11ba3ceb24d7462e2702ccc13517016287a": {
-        "title": "一体化和电池片企业，其实已经在被动式出清",
-        "link": "https://www.tmtpost.com/7815887.html",
-        "published_date": "Sun, 21 Dec 2025 11:21:00 GMT",
-        "first_seen": "2025-12-21T05:23:08.591440"
-      },
       "a3a3f7a40a950a460ee274eba2cf3a99ae8e108d47fc8172f8023c41d0c66051": {
         "title": "大模型挣钱有多难，看看智谱亏掉的 62 亿",
         "link": "https://www.tmtpost.com/7815849.html",
@@ -2695,69 +2635,39 @@
         "link": "https://www.tmtpost.com/7848095.html",
         "published_date": "Mon, 19 Jan 2026 18:39:00 GMT",
         "first_seen": "2026-01-19T23:25:42.267741"
+      },
+      "68240185d1cef250b359079e0ec03a198ee50761b9d74a727318416e964cdfb2": {
+        "title": "豆包、千问与Kimi，站在AI Agent的岔路口",
+        "link": "https://www.tmtpost.com/7848425.html",
+        "published_date": "Tue, 20 Jan 2026 08:20:00 GMT",
+        "first_seen": "2026-01-20T05:31:32.985356"
+      },
+      "16a1bac7876f4b5af0a7d5d7306a112ed02bb5bd5e0c9b49f456853d87633218": {
+        "title": "警惕，“AI泔水”正在悄悄入侵我们的生活",
+        "link": "https://www.tmtpost.com/7848859.html",
+        "published_date": "Tue, 20 Jan 2026 11:09:00 GMT",
+        "first_seen": "2026-01-20T05:31:32.985363"
+      },
+      "8ef490c47e8aa775265f1ece22190f68dfcb9a3d286b35d8369329b3ab40cc81": {
+        "title": "宁王2026新棋局：左手钠电、右手固态",
+        "link": "https://www.tmtpost.com/7848477.html",
+        "published_date": "Tue, 20 Jan 2026 11:54:00 GMT",
+        "first_seen": "2026-01-20T05:31:32.985365"
+      },
+      "c01358d124c49bd912d7920ac52b0acf9da0e84371ae0a834a868614fef5d539": {
+        "title": "中国AI行业缺一个Twitter",
+        "link": "https://www.tmtpost.com/7848420.html",
+        "published_date": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-20T05:31:32.985367"
+      },
+      "0fb88322a1230759b5961b0d5247d6d80d95cddf623bd55a1cf8b98c6db5ac9f": {
+        "title": "ClickHouse 完成由 Dragoneer 领投的 4 亿美元 D 轮融资，加速其在分析与 AI 基础设施领域的扩张",
+        "link": "https://www.infoq.cn/article/dzXRw5ZoyLFbg7jjZvQL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 20 Jan 2026 10:20:00 GMT",
+        "first_seen": "2026-01-20T05:31:32.985368"
       }
     },
     "Finance": {
-      "ccf349fd4d35c090436954ea5c7bb91150befcac7c5ac8dc7a626d35c75d8975": {
-        "title": "When retirees go back to work is it a sign of a strong labor force — or a recession?",
-        "link": "https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories",
-        "published_date": "Sat, 20 Dec 2025 18:10:00 GMT",
-        "first_seen": "2025-12-20T23:24:56.882044"
-      },
-      "f6fe26b6834b32b4773fa5e064179a6beef96b331b82a5a09df0195b85ed3d5c": {
-        "title": "I’m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
-        "link": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
-        "published_date": "Sat, 20 Dec 2025 19:39:00 GMT",
-        "first_seen": "2025-12-20T23:24:56.882053"
-      },
-      "2a323eecbe6889ef9cad6e517e5bf4d56c50676eee328bc49d65a1ee6db9b75d": {
-        "title": "Robey Warshaw partners share £40mn profit",
-        "link": "https://www.ft.com/content/bbe87541-7230-495a-8903-b9004eed107c",
-        "published_date": "Sat, 20 Dec 2025 15:05:00 GMT",
-        "first_seen": "2025-12-20T23:24:56.882057"
-      },
-      "c97464e0f05a592057fbea15f3e4261e78f0dafb23fbc3160249a9280b9dc82d": {
-        "title": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
-        "published_date": "Sat, 20 Dec 2025 22:00:00 GMT",
-        "first_seen": "2025-12-20T23:24:56.882060"
-      },
-      "3af6fe7208f94d7f6abb7558a76184403e7eaff05fe80c53576a65049ccd7530": {
-        "title": "OK, boomer: Why you should start giving your money to your adult kids now",
-        "link": "https://www.marketwatch.com/story/ok-boomer-why-you-should-start-giving-your-money-to-your-adult-kids-now-c58703a5?mod=mw_rss_topstories",
-        "published_date": "Sat, 20 Dec 2025 17:26:00 GMT",
-        "first_seen": "2025-12-20T23:24:56.882063"
-      },
-      "4495b8abe581c11814460fc3037b7326241b0110f25c4707b767aa542d2162f0": {
-        "title": "Chinese stocks cool on weak economic data",
-        "link": "https://www.ft.com/content/8dd04935-3d05-44bc-bbef-7ff07d420287",
-        "published_date": "Sun, 21 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.260737"
-      },
-      "b219d1020a2507a2bbd4e2d3a5e0c20ded786c64897d5aefe7d29b7eb0e87f5c": {
-        "title": "Fidelity pledges crackdown on excessive corporate pay",
-        "link": "https://www.ft.com/content/64d06363-d8ac-40f1-bcf7-842b5fa333a5",
-        "published_date": "Sun, 21 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.260745"
-      },
-      "7325ca0d1a17af6d0a720e3702d3f2425732ed3ca0261914136db7114981cd8e": {
-        "title": "Inside Tencent’s deal to use Nvidia’s best AI chips in Japan",
-        "link": "https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef",
-        "published_date": "Sun, 21 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.260765"
-      },
-      "bd3fc1ce8e3c6d4c0a0b2a2ad898193a8adc3bcf2dced12ab1d2f4cf0e69986d": {
-        "title": "Year in a word: Affordability",
-        "link": "https://www.ft.com/content/d5f033e9-f9de-420d-93a1-22f2e38c6d5e",
-        "published_date": "Sun, 21 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.260767"
-      },
-      "ad692c0fddba5067a7636d1b034da975d7331c52efaa18e1357bc51a031cd25e": {
-        "title": "Role reversal: how foot-dragging France blindsided newly assertive Berlin",
-        "link": "https://www.ft.com/content/99d256e6-8501-4ab8-81d2-d937d5888f01",
-        "published_date": "Sun, 21 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.260768"
-      },
       "8ad752913ff91d312fb425456473fe47fd80730c425397e5adec758b07be0a5e": {
         "title": "Market upheavals drive biggest gains since 2008 for macro hedge funds",
         "link": "https://www.ft.com/content/051a72ca-ec03-4988-b61e-9cb784342ba7",
@@ -4509,57 +4419,39 @@
         "link": "https://www.ft.com/content/fb6089a1-77bd-4785-b54e-d9ec9a93cffd",
         "published_date": "Mon, 19 Jan 2026 11:35:00 GMT",
         "first_seen": "2026-01-19T23:25:04.385856"
+      },
+      "fbbf7de5b3f8a47a20870efc387507e9c50408edf1c80d5ebbae77fa5fd9491c": {
+        "title": "Japan’s 40-year bonds surpass 4% for first time",
+        "link": "https://www.ft.com/content/68349aa9-9b4e-44a2-abd4-f1964308cf29",
+        "published_date": "Tue, 20 Jan 2026 04:53:00 GMT",
+        "first_seen": "2026-01-20T05:30:52.660190"
+      },
+      "175ba38caa5912d9d648dfc07ff121f5b25b06caa24ba297fc53119e522834db": {
+        "title": "Saudi banks borrow abroad at fastest ever pace",
+        "link": "https://www.ft.com/content/c5a49529-639c-42d7-b9ba-c611d756623c",
+        "published_date": "Tue, 20 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-20T05:30:52.660202"
+      },
+      "6ab8c90894c7590d72ea18daabcbc2b63fe8e02a17ba29d7edef7755fc554e1c": {
+        "title": "Long-awaited audit reform bill scrapped by UK ministers",
+        "link": "https://www.ft.com/content/d16bb7e7-9be7-4b04-b940-058747bb9de2",
+        "published_date": "Tue, 20 Jan 2026 00:01:00 GMT",
+        "first_seen": "2026-01-20T05:30:52.660205"
+      },
+      "8f4bfbfd12d736e2be451fc78cafcc6e78c2b18e1da750545e8c06068b077bbe": {
+        "title": "UK would be ‘foolish’ to pursue customs union with EU, business secretary says",
+        "link": "https://www.ft.com/content/73c80adc-776a-4738-950a-9c08ef08d759",
+        "published_date": "Tue, 20 Jan 2026 00:01:00 GMT",
+        "first_seen": "2026-01-20T05:30:52.660207"
+      },
+      "27fea8786c3ecc66c7a4343d6ff77ddd37fe946932d5c8d4c79d56899083f13c": {
+        "title": "Bessent questions Europe’s ability to agree strong response to Greenland tariffs",
+        "link": "https://www.ft.com/content/9f518c00-ce6c-46d0-8ffb-d32275e945d8",
+        "published_date": "Tue, 20 Jan 2026 00:22:00 GMT",
+        "first_seen": "2026-01-20T05:30:52.660208"
       }
     },
     "Ai": {
-      "c179e64f6b97462b99decba5c3716b6678c1ff7751d3269c4abb8e1b59b70bfa": {
-        "title": "Anthropic公布新技术：不靠删数据，参数隔离移除AI危险",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-21",
-        "published_date": "Sun, 21 Dec 2025 00:48:00 GMT",
-        "first_seen": "2025-12-20T23:25:09.017272"
-      },
-      "dee0cb6921306464424e0b0333a7c3eab56ac1770ffa1fd18a539e8d3a0f60c1": {
-        "title": "LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-21-5",
-        "published_date": "Sun, 21 Dec 2025 01:11:00 GMT",
-        "first_seen": "2025-12-20T23:25:09.017279"
-      },
-      "90f661fc51840bd8f8092a9d80fef33e72814e8e5f77861200c19312a24bf959": {
-        "title": "布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-21-2",
-        "published_date": "Sun, 21 Dec 2025 00:54:00 GMT",
-        "first_seen": "2025-12-20T23:25:09.017281"
-      },
-      "d7bbd2910f47afa9ca34fb2e610987f5cefcf8231c19879d3f2a1a0350a854ed": {
-        "title": "人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-21-4",
-        "published_date": "Sun, 21 Dec 2025 01:06:00 GMT",
-        "first_seen": "2025-12-20T23:25:09.017283"
-      },
-      "be3790ce895a206a83c491c4724882390d406555879b2f066429446fd1a6b038": {
-        "title": "玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-21-3",
-        "published_date": "Sun, 21 Dec 2025 01:00:00 GMT",
-        "first_seen": "2025-12-20T23:25:09.017284"
-      },
-      "802cdc1f36977947ddf439013bf28d4098db9c5aa6ead5b800d880c295590713": {
-        "title": "库克提拔复旦校友掌舵苹果基础模型！庞若鸣走后涨薪止血，谷歌旧部占据半壁江山",
-        "link": "https://www.qbitai.com/2025/12/363139.html",
-        "published_date": "Sun, 21 Dec 2025 02:29:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.409995"
-      },
-      "c522c4c50584f0c1da598e0b6c070daf5aa086c11c12b91a3a46f9519c2d2a43": {
-        "title": "清华孙茂松：对工业界而言，大厂可以Scaling，其他玩家重在垂直应用 | MEET2026",
-        "link": "https://www.qbitai.com/2025/12/363114.html",
-        "published_date": "Sun, 21 Dec 2025 02:18:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.410002"
-      },
-      "2558064ba08415021df7a23e189660ff63d1959ee111cbd2c0c530d2d0b11c47": {
-        "title": "2025-12-21日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-21/",
-        "published_date": "Sun, 21 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-21T05:22:54.410004"
-      },
       "0493d5436ee55b5cc7aa0d79d3129cf439d76a6ba430e534458b1ea5636d633a": {
         "title": "为什么这篇谷歌论文被称为「Attention is all you need」V2",
         "link": "https://www.qbitai.com/2025/12/363176.html",
@@ -6713,13 +6605,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-9",
         "published_date": "Mon, 19 Jan 2026 18:05:00 GMT",
         "first_seen": "2026-01-19T23:25:16.341116"
+      },
+      "976962ab4a877ccd1117ff8a8b78e2b2d0aec8f4da525017bfb025af096eb068": {
+        "title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
+        "link": "https://www.qbitai.com/2026/01/370375.html",
+        "published_date": "Tue, 20 Jan 2026 01:46:00 GMT",
+        "first_seen": "2026-01-20T05:31:09.573708"
+      },
+      "8a8b6ba1eadaba883e008d1b7e6bd6b445c11248f145958700a524fb61a3789a": {
+        "title": "MIT、哈佛等让细胞「记住」自己的基因活动历史，首次在哺乳动物细胞中记录转录组状态",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-5",
+        "published_date": "Tue, 20 Jan 2026 12:02:00 GMT",
+        "first_seen": "2026-01-20T05:31:09.573714"
+      },
+      "7a5c0c4caa75ee86176770f36e9fdf00e205e8d8177409aa9a57e68f676d9c17": {
+        "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
+        "link": "https://www.qbitai.com/2026/01/370460.html",
+        "published_date": "Tue, 20 Jan 2026 05:01:00 GMT",
+        "first_seen": "2026-01-20T05:31:09.573716"
+      },
+      "76b5bf7c41f09e626845e9b63751568c8e8f73754a5520b34672a306d05ff67d": {
+        "title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-6",
+        "published_date": "Tue, 20 Jan 2026 13:26:00 GMT",
+        "first_seen": "2026-01-20T05:31:09.573718"
+      },
+      "6f618660495f610ef03fb8814654161b2d621bf6f08bd134b57d07eb04071b4f": {
+        "title": "零样本&少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-20-3",
+        "published_date": "Tue, 20 Jan 2026 11:49:00 GMT",
+        "first_seen": "2026-01-20T05:31:09.573719"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-19T23:25:42.267743",
-    "Finance": "2026-01-19T23:25:04.385859",
-    "Ai": "2026-01-19T23:25:16.341119"
+    "Technology": "2026-01-20T05:31:32.985370",
+    "Finance": "2026-01-20T05:30:52.660211",
+    "Ai": "2026-01-20T05:31:09.573722"
   }
 }

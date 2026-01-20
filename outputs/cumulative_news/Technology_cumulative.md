@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 23:24
+**最后更新时间**: 2026-01-20 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-20 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三度执掌卡中心的老将退休，招行信用卡的下半场怎么打？](https://www.tmtpost.com/7848989.html)
+**发布时间**: 2026-01-20 13:17
+
+#### [奢侈品暴跌，背后的真相与资金大迁徙](https://www.tmtpost.com/7848855.html)
+**发布时间**: 2026-01-20 13:09
+
+#### [宁王2026新棋局：左手钠电、右手固态](https://www.tmtpost.com/7848477.html)
+**发布时间**: 2026-01-20 11:54
+
+#### [“短剧出海”下半场，迎来效率和生态的较量](https://www.tmtpost.com/7848600.html)
+**发布时间**: 2026-01-20 11:25
+
+#### [警惕，“AI泔水”正在悄悄入侵我们的生活](https://www.tmtpost.com/7848859.html)
+**发布时间**: 2026-01-20 11:09
+
+#### [编中新材获北极光创投天使轮投资，推动高强度纤维三维预制体全自动成形装备国产化 | 融资动态](https://www.tmtpost.com/7848848.html)
+**发布时间**: 2026-01-20 10:54
+
+#### [从LED照明跨界PCB微钻，民爆光电AI风口上的战略急转｜并购一线](https://www.tmtpost.com/7848792.html)
+**发布时间**: 2026-01-20 10:43
+
+#### [马斯克和俞浩，看到了同一个ASI的未来？](https://www.tmtpost.com/7848525.html)
+**发布时间**: 2026-01-20 10:15
+
+#### [“大乌龙”招致千亿铜市回调，英伟达忽悠了大家？](https://www.tmtpost.com/7848247.html)
+**发布时间**: 2026-01-20 10:14
+
+#### [豪掷28亿港元收购，515亿医药大佬再展“野心”](https://www.tmtpost.com/7848497.html)
+**发布时间**: 2026-01-20 09:40
+
+#### [9个月营收14亿，萨利亚的中国对手来了](https://www.tmtpost.com/7848439.html)
+**发布时间**: 2026-01-20 09:20
+
+#### [蜂巢能源杨红新：2026，动力电池没有“容易的钱”](https://www.tmtpost.com/7846869.html)
+**发布时间**: 2026-01-20 08:57
+
+#### [豆包、千问与Kimi，站在AI Agent的岔路口](https://www.tmtpost.com/7848425.html)
+**发布时间**: 2026-01-20 08:20
+
+#### [中国AI行业缺一个Twitter](https://www.tmtpost.com/7848420.html)
+**发布时间**: 2026-01-20 08:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Django发布6.0版本，提供内置的后台任务和原生CSP支持](https://www.infoq.cn/article/C0L5QEafugEByCEWWk68?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 11:32
+
+#### [ClickHouse 完成由 Dragoneer 领投的 4 亿美元 D 轮融资，加速其在分析与 AI 基础设施领域的扩张](https://www.infoq.cn/article/dzXRw5ZoyLFbg7jjZvQL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 10:20
+
+#### [选择技术领导之路](https://www.infoq.cn/article/mUdZKSvKPr1uCW3527qR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 10:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [冬天也不用裹成球，这是你需要了解的冬季穿衣指南](https://sspai.com/post/93614)
+**发布时间**: 2026-01-20 11:06
+
+#### [派早报：荣耀发布 Magic8 Pro Air 等](https://sspai.com/post/105600)
+**发布时间**: 2026-01-20 08:25
 
 ---
 
