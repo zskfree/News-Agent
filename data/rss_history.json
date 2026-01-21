@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "80651bbf15107b76768b2aa9275e395b643c8cda308c4280129e76c629613f47": {
-        "title": "摩尔线程发布会上，郑纬民院士放出核心观点：真正决定主权AI成败的，是开发者与类CUDA生态",
-        "link": "https://www.infoq.cn/article/VYK3iBJlAfS9HM8aU96U?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 16:14:00 GMT",
-        "first_seen": "2025-12-22T08:33:50.558373"
-      },
-      "5636cc30d2769f6e5ae87cf53cac00544e429df1d47adfc1356700e8ba80fa2e": {
-        "title": "Transformer能否支撑下一代Agent？",
-        "link": "https://www.tmtpost.com/7816940.html",
-        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-22T08:33:50.558379"
-      },
-      "1346b1fecd03f58a73612861cb69cfbddda915ea9a24a183e3caebfb1358fb71": {
-        "title": "AlphaEvolve作为面向算法优化的Agentic系统正式进入谷歌云",
-        "link": "https://www.infoq.cn/article/WOltsxNikIAzZTXDDsjC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
-        "first_seen": "2025-12-22T08:33:50.558381"
-      },
-      "319624953bed5105c836b983f848e22f1004c463b3720c8d1a09307d24a3c68f": {
-        "title": "让车企甘之如饴的智驾自研，正在成为“行业毒药”",
-        "link": "https://www.tmtpost.com/7816189.html",
-        "published_date": "Mon, 22 Dec 2025 10:30:00 GMT",
-        "first_seen": "2025-12-22T08:33:50.558383"
-      },
-      "88683185691886207fb4c9bf3a1a506cb7885d32727daa99b7e0fbaab5c1bf13": {
-        "title": "果链巨头，加速向“英伟达链”转移",
-        "link": "https://www.tmtpost.com/7816933.html",
-        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-22T08:33:50.558385"
-      },
       "970a7e4b589cabf923af81b341bd7585da1f6832436b39d221907de3a47dc79a": {
         "title": "赵何娟对话张宏江：世界模型已是兵家必争之地｜2025 T-EDGE全球对话",
         "link": "https://www.tmtpost.com/7814876.html",
@@ -2665,15 +2635,39 @@
         "link": "https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 21 Jan 2026 09:44:00 GMT",
         "first_seen": "2026-01-21T05:31:20.093066"
+      },
+      "4839be815146d95eb306cd93558db0cd54d27e71dd2184e78a4b11406e86593c": {
+        "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
+        "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 16:26:00 GMT",
+        "first_seen": "2026-01-21T08:35:12.772351"
+      },
+      "b8f364bf17b702902508e9673f0bbcc0e3911b6a35264d70a1eed763e56aa779": {
+        "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
+        "link": "https://www.tmtpost.com/7850502.html",
+        "published_date": "Wed, 21 Jan 2026 15:24:00 GMT",
+        "first_seen": "2026-01-21T08:35:12.772357"
+      },
+      "95f538b6ad7ecc471d8b05251ee759bfde81b20cbf4b41aee324785bb297c839": {
+        "title": "Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构",
+        "link": "https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 10:42:00 GMT",
+        "first_seen": "2026-01-21T08:35:12.772359"
+      },
+      "262b55b18072562417215e0d19311945122f2527e6ef5630529aa63fdcad53e9": {
+        "title": "飞猪搭建系统演进：从人工运营到多Agent协同\n搭投生产",
+        "link": "https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 13:51:00 GMT",
+        "first_seen": "2026-01-21T08:35:12.772361"
+      },
+      "b47816cae4c478b208789c81dc786d0c00ee77dab3cf4037ac39bd4dd8cf4504": {
+        "title": "Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系",
+        "link": "https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 11:16:00 GMT",
+        "first_seen": "2026-01-21T08:35:12.772362"
       }
     },
     "Finance": {
-      "70e38fd508877053436d2fc18f9c050dc1e0188bcbe1e275ad966bee4948c668": {
-        "title": "Donald Trump names special envoy for Greenland",
-        "link": "https://www.ft.com/content/8c0eddd7-e88f-4c96-9c32-d50cb7bb5899",
-        "published_date": "Mon, 22 Dec 2025 07:17:00 GMT",
-        "first_seen": "2025-12-22T08:33:10.678188"
-      },
       "3cecddcabc9a6ff01647d3366cda656b4472df9264ea0f03fc4b51f48b85fad6": {
         "title": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
         "link": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
@@ -4473,39 +4467,15 @@
         "link": "https://www.ft.com/content/6fd4b037-2569-415c-a10b-1b3759c24cac",
         "published_date": "Wed, 21 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-21T05:30:49.436955"
+      },
+      "1e8102a2c144519ed0fdbcaa4a29a5620ca8bdf05e60b36a9a77235d4c213963": {
+        "title": "UK inflation rises more than expected to 3.4% in December",
+        "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
+        "published_date": "Wed, 21 Jan 2026 07:27:00 GMT",
+        "first_seen": "2026-01-21T08:34:49.599267"
       }
     },
     "Ai": {
-      "1952a81017b855e576130732bd7b93f8ee00c82adea64581eed2d5b33716fdba": {
-        "title": "智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-2",
-        "published_date": "Mon, 22 Dec 2025 13:39:00 GMT",
-        "first_seen": "2025-12-22T08:33:25.641692"
-      },
-      "d2174d42172f036b2aeb4bafb06a7e3984387ebfc0fc76962060ac88d997f61c": {
-        "title": "SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-6",
-        "published_date": "Mon, 22 Dec 2025 15:54:00 GMT",
-        "first_seen": "2025-12-22T08:33:25.641699"
-      },
-      "a9e2f89a44df3494ef3bcd90f1224736ba252d921b1eeeaeb935252098b90509": {
-        "title": "自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-5",
-        "published_date": "Mon, 22 Dec 2025 14:07:00 GMT",
-        "first_seen": "2025-12-22T08:33:25.641701"
-      },
-      "3b222817a5312bd0ca99eb30fa49f3fe4fe754812c94bc680da35041f534d94e": {
-        "title": "陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-4",
-        "published_date": "Mon, 22 Dec 2025 13:50:00 GMT",
-        "first_seen": "2025-12-22T08:33:25.641703"
-      },
-      "eab6dfae946fcc35c1db75b0e3b469584f4799d7813f4741ffdcadabd4bf0759": {
-        "title": "瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-3",
-        "published_date": "Mon, 22 Dec 2025 13:45:00 GMT",
-        "first_seen": "2025-12-22T08:33:25.641705"
-      },
       "6e8399b855d7eb17cc59a910ba11c374de8f95946b1fe7172365bb68999aa519": {
         "title": "多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动",
         "link": "https://www.jiqizhixin.com/articles/2025-12-22-9",
@@ -6689,13 +6659,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-4",
         "published_date": "Wed, 21 Jan 2026 13:21:00 GMT",
         "first_seen": "2026-01-21T05:30:58.554514"
+      },
+      "4451f1508b33d534b2cc024376618f831800459190c1ca280b27c67633407ac8": {
+        "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
+        "published_date": "Wed, 21 Jan 2026 14:19:00 GMT",
+        "first_seen": "2026-01-21T08:34:49.718137"
+      },
+      "d8ebcc148309c1ed11c06b4fecbac62d9483b6cda14b47124d02073ff96e455a": {
+        "title": "2026-01-21日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-21/",
+        "published_date": "Wed, 21 Jan 2026 07:16:00 GMT",
+        "first_seen": "2026-01-21T08:34:49.718144"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-21T05:31:20.093068",
-    "Finance": "2026-01-21T05:30:49.436957",
-    "Ai": "2026-01-21T05:30:58.554517"
+    "Technology": "2026-01-21T08:35:12.772364",
+    "Finance": "2026-01-21T08:34:49.599274",
+    "Ai": "2026-01-21T08:34:49.718147"
   }
 }

@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-21 05:30
+**最后更新时间**: 2026-01-21 08:34
+
+---
+
+## 🆕 最新更新 (2026-01-21 08:34)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力](https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 16:26
+
+#### [XAML Studio 开源：一款老牌原型工具，如何在 WinUI 时代重获生命力](https://www.infoq.cn/article/JCw7RzpyL4DUPvC0kHwE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 16:00
+
+#### [飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产](https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 13:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战](https://www.tmtpost.com/7850118.html)
+**发布时间**: 2026-01-21 15:54
+
+#### [黄仁勋亲自邀请的男人，将PCB生意做到了3000亿](https://www.tmtpost.com/7850144.html)
+**发布时间**: 2026-01-21 15:54
+
+#### [高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”](https://www.tmtpost.com/7850537.html)
+**发布时间**: 2026-01-21 15:49
+
+#### [惠康科技：实控人套现5.61亿、不差钱仍募资、低研发却有高毛利｜IPO观察](https://www.tmtpost.com/7849141.html)
+**发布时间**: 2026-01-21 15:38
+
+#### [上市即 “贬值”？弥富科技突击入股估值倒挂，应收账款逾期超三成｜IPO观察](https://www.tmtpost.com/7849197.html)
+**发布时间**: 2026-01-21 15:34
+
+#### [从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资](https://www.tmtpost.com/7850502.html)
+**发布时间**: 2026-01-21 15:24
+
+#### [呼吸机概念60日涨超20%：从ICU闯入“卧室赛道”的产业价值重估丨行业风向标](https://www.tmtpost.com/7850421.html)
+**发布时间**: 2026-01-21 14:39
+
+#### [黄金涨疯了，想租银行保险箱要排队5-6年](https://www.tmtpost.com/7850417.html)
+**发布时间**: 2026-01-21 14:05
+
+#### [两位大佬放出“坏消息”：实习生进入AI“斩杀线”](https://www.tmtpost.com/7850077.html)
+**发布时间**: 2026-01-21 13:50
+
+#### [奈飞：收购拖垮剧王？又到考验信仰的时候了](https://www.tmtpost.com/7850133.html)
+**发布时间**: 2026-01-21 13:50
+
+#### [瑞士机器人科技公司Nautica研发自主船体清洁机器人，推动航运业生物污损自动化处理](https://www.tmtpost.com/7850281.html)
+**发布时间**: 2026-01-21 13:39
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [格陵兰岛争端为啥会推高金价？](http://www.huxiu.com/article/4828208.html?f=wangzhan)
+**发布时间**: 2026-01-21 15:30
+
+#### [为什么聚酯纤维填充的棉服有的便宜有的贵呢？](http://www.huxiu.com/article/4828145.html?f=wangzhan)
+**发布时间**: 2026-01-21 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 5 个本周 火火火火 的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530695&idx=1&sn=8fec94de00dd3805e01ac3540daa6b57)
+**发布时间**: 2026-01-21 15:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [5 款替代品，找回 LaunchPad 的快捷](https://sspai.com/post/105471)
+**发布时间**: 2026-01-21 15:00
 
 ---
 

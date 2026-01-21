@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 05:31:20 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:35:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,45 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……</title>
-      <link>https://www.tmtpost.com/7849912.html</link>
-      <description>&lt;![CDATA[GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849912.html</guid>
+      <title>Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力</title>
+      <link>https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>端侧AI下半场，从跑起来到会思考</title>
-      <link>https://www.tmtpost.com/7849609.html</link>
-      <description>&lt;![CDATA[端侧AI下半场，从跑起来到会思考]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7849609.html</guid>
+      <title>从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资</title>
+      <link>https://www.tmtpost.com/7850502.html</link>
+      <description>&lt;![CDATA[从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850502.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP</title>
-      <link>https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构</title>
+      <link>https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>油气巨头热情消退，全球绿氢遭遇“寒风冷雨”</title>
-      <link>https://www.tmtpost.com/7850049.html</link>
-      <description>&lt;![CDATA[油气巨头热情消退，全球绿氢遭遇“寒风冷雨”]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850049.html</guid>
+      <title>飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产</title>
+      <link>https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pinterest的Moka：Kubernetes如何重写大数据处理规则</title>
-      <link>https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Pinterest的Moka：Kubernetes如何重写大数据处理规则]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系</title>
+      <link>https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

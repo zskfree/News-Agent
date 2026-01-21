@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 05:30:58 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:34:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-21</link>
-      <description>&lt;![CDATA[AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21</guid>
+      <title>告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-21-5</link>
+      <description>&lt;![CDATA[告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-21-3</link>
-      <description>&lt;![CDATA[AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠</title>
-      <link>https://www.qbitai.com/2026/01/370734.html</link>
-      <description>&lt;![CDATA[中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 04:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370734.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>R1一周年，DeepSeek Model 1悄然现身</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-21-2</link>
-      <description>&lt;![CDATA[R1一周年，DeepSeek Model 1悄然现身]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>推翻150年数学直觉：数学家烧坏几台笔记本，解决几何拓扑难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-21-4</link>
-      <description>&lt;![CDATA[推翻150年数学直觉：数学家烧坏几台笔记本，解决几何拓扑难题]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-4</guid>
+      <title>2026-01-21日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-21/</link>
+      <description>&lt;![CDATA[2026-01-21日刊]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-21/</guid>
       <category>Ai</category>
     </item>
   </channel>
