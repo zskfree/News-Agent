@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 23:25
+**最后更新时间**: 2026-01-21 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-21 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [VCSEL芯片及解决方案提供商瑞识科技完成数亿元C轮融资 | 融资动态](https://www.tmtpost.com/7850362.html)
+**发布时间**: 2026-01-21 13:05
+
+#### [GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……](https://www.tmtpost.com/7849912.html)
+**发布时间**: 2026-01-21 11:54
+
+#### [A股银行年度盘点：2025告别普涨，2026拥抱分化](https://www.tmtpost.com/7850186.html)
+**发布时间**: 2026-01-21 11:53
+
+#### [ECM重写3000亿医美市场规则](https://www.tmtpost.com/7849888.html)
+**发布时间**: 2026-01-21 11:53
+
+#### [油气巨头热情消退，全球绿氢遭遇“寒风冷雨”](https://www.tmtpost.com/7850049.html)
+**发布时间**: 2026-01-21 11:53
+
+#### [四百年剪刀老字号，“保不住”一辆迈巴赫？](https://www.tmtpost.com/7849858.html)
+**发布时间**: 2026-01-21 11:15
+
+#### [暴涨超200%的白银，一场史无前例的超级黄金周期](https://www.tmtpost.com/7850121.html)
+**发布时间**: 2026-01-21 10:26
+
+#### [估值超100亿，医疗界“拼多多”杀疯了！](https://www.tmtpost.com/7849875.html)
+**发布时间**: 2026-01-21 10:15
+
+#### [2026：国产手机厂商重回战国时代？](https://www.tmtpost.com/7849759.html)
+**发布时间**: 2026-01-21 09:45
+
+#### [别再给我推AI音乐了](https://www.tmtpost.com/7849590.html)
+**发布时间**: 2026-01-21 08:39
+
+#### [苹果换购计划扩员，库克要抢华为小米Ov的换机用户](https://www.tmtpost.com/7849616.html)
+**发布时间**: 2026-01-21 08:39
+
+#### [端侧AI下半场，从跑起来到会思考](https://www.tmtpost.com/7849609.html)
+**发布时间**: 2026-01-21 08:39
+
+#### [年卖4000台、每台8万块，这家机器人公司要上市](https://www.tmtpost.com/7849622.html)
+**发布时间**: 2026-01-21 08:39
+
+#### [【钛晨报】激发民间投资、促进消费，财政部详解一揽子扩内需政策；交易所紧急出手，调整金银铜铝合约风控参数；丹麦养老基金据悉将退出美国国债投资](https://www.tmtpost.com/7849833.html)
+**发布时间**: 2026-01-21 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP](https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 11:23
+
+#### [Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系](https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 11:16
+
+#### [Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构](https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 10:42
+
+#### [Pinterest的Moka：Kubernetes如何重写大数据处理规则](https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [致敬好剧新姿势：纯代码从零复刻 Pluribus 片头动画](https://sspai.com/post/105365)
+**发布时间**: 2026-01-21 11:23
+
+#### [派早报：索尼宣布与 TCL 成立合资公司、Ayaneo 发布 Konkr Fit 掌机等](https://sspai.com/post/105628)
+**发布时间**: 2026-01-21 07:00
 
 ---
 
