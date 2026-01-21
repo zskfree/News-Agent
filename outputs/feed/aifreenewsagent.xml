@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Jan 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 08:34:49 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:28:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-21-5</link>
-      <description>&lt;![CDATA[告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-5</guid>
+      <title>AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-21-6</link>
+      <description>&lt;![CDATA[AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 17:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-21日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-21/</link>
-      <description>&lt;![CDATA[2026-01-21日刊]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-21/</guid>
+      <title>非Transformer架构的新突破，液态神经网络的推理小模型只用900M内存</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-21-7</link>
+      <description>&lt;![CDATA[非Transformer架构的新突破，液态神经网络的推理小模型只用900M内存]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-7</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026年OpenAI最看好的3个方向</title>
+      <link>https://www.qbitai.com/2026/01/370936.html</link>
+      <description>&lt;![CDATA[2026年OpenAI最看好的3个方向]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370936.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>京东「再造」京东</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-21-8</link>
+      <description>&lt;![CDATA[京东「再造」京东]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-21-8</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>突发！xAI联创杨格过劳病离职，给马斯克干活压力山大</title>
+      <link>https://www.qbitai.com/2026/01/370985.html</link>
+      <description>&lt;![CDATA[突发！xAI联创杨格过劳病离职，给马斯克干活压力山大]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/370985.html</guid>
       <category>Ai</category>
     </item>
   </channel>

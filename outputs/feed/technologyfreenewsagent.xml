@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Jan 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Jan 2026 08:35:12 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:28:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,45 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力</title>
-      <link>https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全球算力产业，正在陪着OpenAI走钢丝</title>
+      <link>https://www.tmtpost.com/7850676.html</link>
+      <description>&lt;![CDATA[全球算力产业，正在陪着OpenAI走钢丝]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 20:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850676.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资</title>
-      <link>https://www.tmtpost.com/7850502.html</link>
-      <description>&lt;![CDATA[从“买算力”到“买人”：Humans&amp;获得4.8亿美元种子轮，英伟达、贝索斯联手投资]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 15:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7850502.html</guid>
+      <title>架构彻底重构！DeepSeek新模型代码曝光，要来的V4让国内外都坐不住了？</title>
+      <link>https://www.infoq.cn/article/XISEq5cHfv4FARpZMBgZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[架构彻底重构！DeepSeek新模型代码曝光，要来的V4让国内外都坐不住了？]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XISEq5cHfv4FARpZMBgZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构</title>
-      <link>https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>两位大佬放出“坏消息”：实习生进入AI“斩杀线”</title>
+      <link>https://www.tmtpost.com/7850077.html</link>
+      <description>&lt;![CDATA[两位大佬放出“坏消息”：实习生进入AI“斩杀线”]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>飞猪搭建系统演进：从人工运营到多Agent协同
-搭投生产</title>
-      <link>https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[飞猪搭建系统演进：从人工运营到多Agent协同
-搭投生产]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战</title>
+      <link>https://www.tmtpost.com/7850118.html</link>
+      <description>&lt;![CDATA[大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850118.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系</title>
-      <link>https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系]]&gt;</description>
-      <pubDate>Wed, 21 Jan 2026 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>铭镓半导体再获近4亿元融资，将主要用于6英寸氧化镓衬底量产｜融资速递</title>
+      <link>https://www.tmtpost.com/7850824.html</link>
+      <description>&lt;![CDATA[铭镓半导体再获近4亿元融资，将主要用于6英寸氧化镓衬底量产｜融资速递]]&gt;</description>
+      <pubDate>Wed, 21 Jan 2026 21:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7850824.html</guid>
       <category>Technology</category>
     </item>
   </channel>

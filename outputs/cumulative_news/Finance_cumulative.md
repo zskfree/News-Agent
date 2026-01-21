@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-21 08:34
+**最后更新时间**: 2026-01-21 23:27
+
+---
+
+## 🆕 最新更新 (2026-01-21 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Big Tech stocks haven’t been this cheap in months. These investors say it’s time to buy.](https://www.marketwatch.com/story/big-tech-stocks-havent-been-this-cheap-in-months-these-investors-say-its-time-to-buy-3024306d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 22:40
+
+#### [As gold retreats, here’s what’s needed to push prices back toward $5,000](https://www.marketwatch.com/story/as-gold-retreats-heres-whats-needed-to-push-prices-back-toward-5-000-4c7f47c6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 22:24
+
+#### [I’m a CPA with a masters. I just learned the new executive assistant at my job is making $10K more than me. How do I get a raise?](https://www.marketwatch.com/story/im-a-cpa-i-found-out-that-an-executive-assistant-makes-10k-more-than-me-can-i-use-this-to-get-a-raise-12db4340?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 22:01
+
+#### [GE’s stock has lost its bullish momentum. Can earnings provide the jolt it needs?](https://www.marketwatch.com/story/ges-stock-has-lost-its-bullish-momentum-can-earnings-provide-the-jolt-it-needs-e0df6975?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 21:54
+
+#### [Here’s the secret to spending money with no regrets](https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 21:49
+
+#### [Lululemon’s struggles mount, now with backlash against a new line of ‘see-through’ pants](https://www.marketwatch.com/story/lululemons-struggles-mount-now-with-backlash-against-a-new-line-of-see-through-pants-3ad839b4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 21:46
+
+#### [‘The house has quadrupled in value’: I bought a house with my brother, but he did not contribute. How do I fix this?](https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 21:45
+
+#### [Social Security is making a change that could disrupt service for millions of Americans](https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-21 21:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BofA’s Moynihan left off invite list for Trump reception at Davos](https://www.ft.com/content/bdfe7f46-e065-488e-b72f-1005c861271d)
+**发布时间**: 2026-01-21 21:56
+
+#### [Who wants to join Trump’s ‘Board of Peace’?](https://www.ft.com/content/a5003682-3391-4261-802f-05071c1c3c32)
+**发布时间**: 2026-01-21 21:48
+
+#### [Trump drops tariff threat against Europe and touts ‘future’ Greenland deal](https://www.ft.com/content/6e7b2125-6490-4565-931f-a6f0d52a1543)
+**发布时间**: 2026-01-21 21:37
+
+#### [US stocks rally after Trump drops threat of new front in trade war](https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31)
+**发布时间**: 2026-01-21 21:04
+
+#### [US congressional committee votes to hold Bill and Hillary Clinton in contempt](https://www.ft.com/content/90445456-6943-4dc4-82d6-2c44e98941d9)
+**发布时间**: 2026-01-21 20:55
+
+#### [Supreme Court expresses scepticism over Trump’s bid to sack Lisa Cook](https://www.ft.com/content/e1d850cb-f5bd-4dc0-90a6-a7375cf2ac87)
+**发布时间**: 2026-01-21 20:13
+
+#### [The great Greenland climbdown](https://www.ft.com/content/ec68123c-3721-4e1b-82c1-a25f86c34191)
+**发布时间**: 2026-01-21 20:05
+
+#### [Lutnick heckled at Davos dinner as Lagarde walks out](https://www.ft.com/content/e2ae0417-6146-4428-96db-0484a6b024d1)
+**发布时间**: 2026-01-21 16:15
+
+#### [The problem with the mansion tax is that it’s badly designed](https://www.ft.com/content/b0d7e1c2-6b4b-489c-85ee-c48daf72e438)
+**发布时间**: 2026-01-21 15:20
+
+#### [Always beware a declining superpower](https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974)
+**发布时间**: 2026-01-21 12:55
+
+#### [Inner London house prices fall at fastest rate since global financial crisis](https://www.ft.com/content/6b97db54-2bd0-41dd-9e02-d515a0cede97)
+**发布时间**: 2026-01-21 11:49
+
+#### [Bessent says Deutsche chief distanced bank from research note on US assets](https://www.ft.com/content/15a3f2bc-539f-442c-a593-59e73c55017f)
+**发布时间**: 2026-01-21 11:21
 
 ---
 

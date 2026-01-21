@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "970a7e4b589cabf923af81b341bd7585da1f6832436b39d221907de3a47dc79a": {
-        "title": "赵何娟对话张宏江：世界模型已是兵家必争之地｜2025 T-EDGE全球对话",
-        "link": "https://www.tmtpost.com/7814876.html",
-        "published_date": "Mon, 22 Dec 2025 22:15:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643720"
-      },
-      "ad100cd9a32f547f5d1f515df6b299963bc024baa7bc87738eeec25dae2ad8ce": {
-        "title": "382人、平均95后，MiniMax百亿估值冲刺IPO！招股书首次披露业绩：研发成本仅为OpenAI的1%、收入猛增8倍",
-        "link": "https://www.infoq.cn/article/4dfzSRWELNTPwyDfAjf7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 16:52:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643726"
-      },
-      "4d533b3e45f04277cfa141b73646d3071c8b24eff38a9f06eacc9b7960dfc38d": {
-        "title": "中国移动的5300亿采购清单，藏着通信行业未来五年的秘密",
-        "link": "https://www.tmtpost.com/7817228.html",
-        "published_date": "Mon, 22 Dec 2025 17:21:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643728"
-      },
-      "9fd788c5f482302711fbda589c7019bdb3e3718da2508d41548285c3a945cfaf": {
-        "title": "西方媒体炒作EUV光刻机，背后真的是怕我们打破垄断吗？",
-        "link": "http://www.huxiu.com/article/4819171.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 14:51:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643731"
-      },
-      "df4255c76f187971ef1f1a3ea2303c9f84aa7231e49e3858606ac5783579f8e5": {
-        "title": "当开放架构遇上“产业大集”：国产AI生态进入“群体跃迁”时刻",
-        "link": "https://www.tmtpost.com/7817218.html",
-        "published_date": "Mon, 22 Dec 2025 18:36:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643732"
-      },
       "73668160f794bbbdfbec73635c1700d71de2d86322277ad14f28ddbbf8f0e202": {
         "title": "GPT-6或三个月内亮相！奥特曼亲口承认：9亿用户难敌谷歌“致命一击”，1.4万亿美元算力豪赌AI未来",
         "link": "https://www.infoq.cn/article/9aogD7JlaptgBYFg6DuZ?utm_source=rss&utm_medium=article",
@@ -2665,39 +2635,39 @@
         "link": "https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 21 Jan 2026 11:16:00 GMT",
         "first_seen": "2026-01-21T08:35:12.772362"
+      },
+      "90c480c0c534d8af09b5964301889c5d10b214d82b73d94114ead28a3b11ba3e": {
+        "title": "全球算力产业，正在陪着OpenAI走钢丝",
+        "link": "https://www.tmtpost.com/7850676.html",
+        "published_date": "Wed, 21 Jan 2026 20:37:00 GMT",
+        "first_seen": "2026-01-21T23:28:28.958629"
+      },
+      "a673b6e0452ce8556fb060a13da08fa28b63e03a93071cb4e053bbe811dd4648": {
+        "title": "架构彻底重构！DeepSeek新模型代码曝光，要来的V4让国内外都坐不住了？",
+        "link": "https://www.infoq.cn/article/XISEq5cHfv4FARpZMBgZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 21 Jan 2026 18:18:00 GMT",
+        "first_seen": "2026-01-21T23:28:28.958635"
+      },
+      "74fe04cb7ae49221494a7d51cce1d535e559451c54ded731c1461ea89231f866": {
+        "title": "两位大佬放出“坏消息”：实习生进入AI“斩杀线”",
+        "link": "https://www.tmtpost.com/7850077.html",
+        "published_date": "Wed, 21 Jan 2026 13:50:00 GMT",
+        "first_seen": "2026-01-21T23:28:28.958637"
+      },
+      "0569696b09dcafe2d6e4f1dde593e1c5c83b10f7012bfc582ae171294b04d67f": {
+        "title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
+        "link": "https://www.tmtpost.com/7850118.html",
+        "published_date": "Wed, 21 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-21T23:28:28.958639"
+      },
+      "352733412d46990b86afc2b16ce399709549b90011269fe3abfe84d822616854": {
+        "title": "铭镓半导体再获近4亿元融资，将主要用于6英寸氧化镓衬底量产｜融资速递",
+        "link": "https://www.tmtpost.com/7850824.html",
+        "published_date": "Wed, 21 Jan 2026 21:53:00 GMT",
+        "first_seen": "2026-01-21T23:28:28.958640"
       }
     },
     "Finance": {
-      "3cecddcabc9a6ff01647d3366cda656b4472df9264ea0f03fc4b51f48b85fad6": {
-        "title": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
-        "link": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 23:17:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676413"
-      },
-      "8d7f4260662055a0290c167333fe0b1acc9ab3e48e3656afa2d847a1e3dde9bd": {
-        "title": "US halts offshore wind projects, citing national security concerns",
-        "link": "https://www.ft.com/content/fedb8762-8ae1-4b20-99d5-7167d39d9bab",
-        "published_date": "Mon, 22 Dec 2025 22:33:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676421"
-      },
-      "234b38394218916e30c3c49b19dd91946956e83cd68728607af143c87222ad99": {
-        "title": "Why young crypto bros are also some of FanDuel’s and DraftKings’ best customers",
-        "link": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 21:34:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676423"
-      },
-      "f902f45eb9172db7465ad5eb23f1a91da737f8b759dbc43091d11efbd96b00ea": {
-        "title": "These investments for the elite are opening to all — but think twice before saying yes",
-        "link": "https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 21:27:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676426"
-      },
-      "1f93fc88e2f5df09a20335adf3dba5b90bd786739bc9707eb28bf6ade7b59411": {
-        "title": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
-        "link": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 22:43:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676428"
-      },
       "ad22cfed6cadb3d8d93387d0609d4c7a3a0e491fffc39a4afd92164938df04af": {
         "title": "Year in a word: AI bubble",
         "link": "https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f",
@@ -4473,39 +4443,39 @@
         "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
         "published_date": "Wed, 21 Jan 2026 07:27:00 GMT",
         "first_seen": "2026-01-21T08:34:49.599267"
+      },
+      "55a7beb471d0538353d72e744f3bccbf687ad4f2d947553e5d91d45cb71b716f": {
+        "title": "Trump drops tariff threat against Europe and touts ‘future’ Greenland deal",
+        "link": "https://www.ft.com/content/6e7b2125-6490-4565-931f-a6f0d52a1543",
+        "published_date": "Wed, 21 Jan 2026 21:37:00 GMT",
+        "first_seen": "2026-01-21T23:27:53.167587"
+      },
+      "f25a63521df41c6fa900200989188dbba0f3e035f36e3ae668c971736e98aa1b": {
+        "title": "US stocks rally after Trump drops threat of new front in trade war",
+        "link": "https://www.ft.com/content/1369a45e-e39b-4aaa-a347-b1800da7fd31",
+        "published_date": "Wed, 21 Jan 2026 21:04:00 GMT",
+        "first_seen": "2026-01-21T23:27:53.167595"
+      },
+      "8ef2d4b03b400d76e7cce12b8dc517b8fc88fc4047a5c1a02b82b890e9982098": {
+        "title": "Social Security is making a change that could disrupt service for millions of Americans",
+        "link": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
+        "published_date": "Wed, 21 Jan 2026 21:39:00 GMT",
+        "first_seen": "2026-01-21T23:27:53.167598"
+      },
+      "0a1c4d2a942a6a14aab70e76abfdcdc7a26178ee3af86b63346a837c02c1d78f": {
+        "title": "Inner London house prices fall at fastest rate since global financial crisis",
+        "link": "https://www.ft.com/content/6b97db54-2bd0-41dd-9e02-d515a0cede97",
+        "published_date": "Wed, 21 Jan 2026 11:49:00 GMT",
+        "first_seen": "2026-01-21T23:27:53.167600"
+      },
+      "3e8c8ae1715d8182fd623742930d6f9fffa1763cbe15a27618d3e87627d7c538": {
+        "title": "Big Tech stocks haven’t been this cheap in months. These investors say it’s time to buy.",
+        "link": "https://www.marketwatch.com/story/big-tech-stocks-havent-been-this-cheap-in-months-these-investors-say-its-time-to-buy-3024306d?mod=mw_rss_topstories",
+        "published_date": "Wed, 21 Jan 2026 22:40:00 GMT",
+        "first_seen": "2026-01-21T23:27:53.167602"
       }
     },
     "Ai": {
-      "6e8399b855d7eb17cc59a910ba11c374de8f95946b1fe7172365bb68999aa519": {
-        "title": "多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-9",
-        "published_date": "Mon, 22 Dec 2025 17:37:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877478"
-      },
-      "54ff21850e4f0c7bba9c6c589cf044d12bd63f42b0017b1684f69c709fdaeb8a": {
-        "title": "最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-10",
-        "published_date": "Mon, 22 Dec 2025 18:19:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877483"
-      },
-      "5be24d9330b50d4d9717e36da0051ef7c20506117f01308969858c5b6121238b": {
-        "title": "RL加持的3D生成时代来了！首个「R1 式」文本到3D推理大模型AR3D-R1登场",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-7",
-        "published_date": "Mon, 22 Dec 2025 16:41:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877486"
-      },
-      "0685511967f342defea0b3ed432c82de685cda889b99e6751991352058cd35b1": {
-        "title": "旧金山大停电，Waymo自动驾驶汽车瘫痪，特斯拉赢麻了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-8",
-        "published_date": "Mon, 22 Dec 2025 16:47:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877488"
-      },
-      "a3527e2be85c9090b42f7d600c4892a13b6ae713336da221cc1ec42da502c81c": {
-        "title": "“昆山杯”第二十七届清华大学创业大赛决赛举行",
-        "link": "https://www.qbitai.com/2025/12/363697.html",
-        "published_date": "Mon, 22 Dec 2025 09:04:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877493"
-      },
       "87ee1946320e1bd46c44747977987a58b4cf2350783875dd0b25bffa11c427b3": {
         "title": "仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-3",
@@ -6671,13 +6641,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-21/",
         "published_date": "Wed, 21 Jan 2026 07:16:00 GMT",
         "first_seen": "2026-01-21T08:34:49.718144"
+      },
+      "ea1a3883e2e2cab8ef0748f924ece797b7957058ac5c36c7abaf9e3eeef01976": {
+        "title": "AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-21-6",
+        "published_date": "Wed, 21 Jan 2026 17:58:00 GMT",
+        "first_seen": "2026-01-21T23:28:08.919438"
+      },
+      "be1cbde745de2ca6381303050499884ff60985145f3dbda6b6a645c80c6da2a9": {
+        "title": "非Transformer架构的新突破，液态神经网络的推理小模型只用900M内存",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-21-7",
+        "published_date": "Wed, 21 Jan 2026 18:02:00 GMT",
+        "first_seen": "2026-01-21T23:28:08.919444"
+      },
+      "809e8558faee33eea3efd2ff4672d2fa7370939398c3cccbd91eecd19cbb4d27": {
+        "title": "2026年OpenAI最看好的3个方向",
+        "link": "https://www.qbitai.com/2026/01/370936.html",
+        "published_date": "Wed, 21 Jan 2026 08:52:00 GMT",
+        "first_seen": "2026-01-21T23:28:08.919446"
+      },
+      "20d6491b29fb4e38988b37984475e2c74ef3844a3e599631e94ce3b913f44d78": {
+        "title": "京东「再造」京东",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-21-8",
+        "published_date": "Wed, 21 Jan 2026 18:14:00 GMT",
+        "first_seen": "2026-01-21T23:28:08.919448"
+      },
+      "29d294ace21ef506146583eceee8e7de34363a6fb4582c6a0d01c8c0cc869857": {
+        "title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+        "link": "https://www.qbitai.com/2026/01/370985.html",
+        "published_date": "Wed, 21 Jan 2026 09:11:00 GMT",
+        "first_seen": "2026-01-21T23:28:08.919449"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-21T08:35:12.772364",
-    "Finance": "2026-01-21T08:34:49.599274",
-    "Ai": "2026-01-21T08:34:49.718147"
+    "Technology": "2026-01-21T23:28:28.958642",
+    "Finance": "2026-01-21T23:27:53.167604",
+    "Ai": "2026-01-21T23:28:08.919452"
   }
 }
