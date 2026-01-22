@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "406fface4462a50b8e16fa0836351177a99a5f80a41800a7c06d4d96140dd293": {
-        "title": "“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5",
-        "link": "https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805632"
-      },
-      "8c406c7627ffac3e720255be63e4763d40295124ce55ec1b6dcbc8f3f8a2a4e3": {
-        "title": "谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了",
-        "link": "https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 13:53:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805639"
-      },
-      "d415db87fd5dd47896a85a9443e04061438346fd08030bb4b74c48da4dc7a9c0": {
-        "title": "给AI接上专有知识库：RAG的工程化实现",
-        "link": "https://www.tmtpost.com/7817906.html",
-        "published_date": "Tue, 23 Dec 2025 15:01:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805641"
-      },
-      "c40a01cc27b30d7874db311616a0106e964299945e48f9f32802110b088ef2ca": {
-        "title": "告别“一刀切”：“需求分化”如何重构算力供给？",
-        "link": "https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 14:48:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805643"
-      },
-      "9d47e0b50a19da467c68fdd02e88197504b630c023455e0274f939d92c20eae5": {
-        "title": "巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了",
-        "link": "https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 11:51:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805645"
-      },
       "dbc4d0d8c6e011a6e899c7222d9b55a0c01f3136a1749db6c93cb199b9f568af": {
         "title": "“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写",
         "link": "https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&utm_medium=article",
@@ -2665,6 +2635,36 @@
         "link": "https://www.tmtpost.com/7851595.html",
         "published_date": "Thu, 22 Jan 2026 12:11:00 GMT",
         "first_seen": "2026-01-22T05:31:15.964524"
+      },
+      "b3262b75108e729df6367e2bada45281e4993b381251e2c716fdb896bcc6f336": {
+        "title": "OpenAI 去中东，寻求500亿美元融资",
+        "link": "https://www.tmtpost.com/7851863.html",
+        "published_date": "Thu, 22 Jan 2026 13:44:00 GMT",
+        "first_seen": "2026-01-22T08:35:39.826796"
+      },
+      "682bfd9830a40a75e0426b8a50765c59507c88125fe2cc6a5dc41550ce03c3b0": {
+        "title": "AI撞到“数据天花板”，一场革命正悄悄上演",
+        "link": "https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-22T08:35:39.826803"
+      },
+      "a13bcfa2f1569b0b4a9d90f17e3d18c076e18d0ecb8162c2885bccab1dfce32a": {
+        "title": "黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺",
+        "link": "https://www.tmtpost.com/7851503.html",
+        "published_date": "Thu, 22 Jan 2026 11:44:00 GMT",
+        "first_seen": "2026-01-22T08:35:39.826805"
+      },
+      "100882ba4ae7d906dd8d9c0e9ee1bf044e550da933e4d7c9ee2d0db916463216": {
+        "title": "智驾的“圈地运动”谁能终结？",
+        "link": "https://www.tmtpost.com/7851955.html",
+        "published_date": "Thu, 22 Jan 2026 16:26:00 GMT",
+        "first_seen": "2026-01-22T08:35:39.826807"
+      },
+      "2facdd390568469c5702257ab141bec991d49a84dec940363000a65c78d2541e": {
+        "title": "清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530710&idx=1&sn=1ef6a9abecb2077c5c34d0201b2e676c",
+        "published_date": "Thu, 22 Jan 2026 15:25:00 GMT",
+        "first_seen": "2026-01-22T08:35:39.826808"
       }
     },
     "Finance": {
@@ -4473,39 +4473,27 @@
         "link": "https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c",
         "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-22T05:30:45.041797"
+      },
+      "b6a19fe0ddb6e6d82dbaf87fa6fda7dccdefa3b8acb11761870f0fd32205c072": {
+        "title": "UK government borrowing lower than expected in December",
+        "link": "https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339",
+        "published_date": "Thu, 22 Jan 2026 08:20:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.231257"
+      },
+      "9ca0939f664618264870db4aa04c17d8fd25ccb1e0987cfa4afa6eadf0ad6404": {
+        "title": "EQT to buy UK’s Coller Capital for up to $3.7bn",
+        "link": "https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe",
+        "published_date": "Thu, 22 Jan 2026 06:41:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.231266"
+      },
+      "a31e70da05574e7ff1b31bae47402691da56b76316ad556f73507c60f3d6bc57": {
+        "title": "Davos latest: Markets rally after Trump touts Greenland deal",
+        "link": "https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d",
+        "published_date": "Thu, 22 Jan 2026 06:08:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.231269"
       }
     },
     "Ai": {
-      "1abb0f98bfb5e0873e2456c94a2a8aeb57283e9fa4c1ce86bedcb2aac36f60e4": {
-        "title": "LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-8",
-        "published_date": "Tue, 23 Dec 2025 16:06:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767718"
-      },
-      "bfd05693fc081ecd08fd58f0e9dd1759add0c70c72620ee40aa486776575b784": {
-        "title": "打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-6",
-        "published_date": "Tue, 23 Dec 2025 15:44:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767727"
-      },
-      "1b1819373b6dea3bac9eccb9673d488add7ecd6183e9193ee69d9211ce5f302a": {
-        "title": "智能体落地元年，Agent Infra是关键一环｜对话腾讯云&Dify",
-        "link": "https://www.qbitai.com/2025/12/365574.html",
-        "published_date": "Tue, 23 Dec 2025 05:55:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767730"
-      },
-      "e32c7dd8872c43a30ddd3f488a60466d1c8c0c3c89efd24bab7309aeb9b2630c": {
-        "title": "告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-7",
-        "published_date": "Tue, 23 Dec 2025 16:02:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767732"
-      },
-      "d48f386c67a436c431fb33219410a592b2d6a577054387b37f1d736872667158": {
-        "title": "AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背",
-        "link": "https://www.qbitai.com/2025/12/365594.html",
-        "published_date": "Tue, 23 Dec 2025 06:22:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767734"
-      },
       "a7037ae6a679a11edc5461d08ccd2d3c3df10aff466eaf1389e5917fcf1d67a6": {
         "title": "当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-11",
@@ -6671,13 +6659,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-22-4",
         "published_date": "Thu, 22 Jan 2026 12:57:00 GMT",
         "first_seen": "2026-01-22T05:30:56.650267"
+      },
+      "9504d8c57b6dd6055a00c2558ea43a2e504307e51f39b47fb6035e12eed81a7b": {
+        "title": "WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-6",
+        "published_date": "Thu, 22 Jan 2026 16:25:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.351077"
+      },
+      "0781ba3f827bd2f29952b457c6d56d6aa07f5cb4387d3ecd1196a51563854e4b": {
+        "title": "剑桥与北航等设计可穿戴设备+LLM，融合肌肉振动、脉搏与大模型推理的无声语音系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-5",
+        "published_date": "Thu, 22 Jan 2026 14:09:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.351085"
+      },
+      "bbf7224638a100fe2cc609536c40a3dcc857686b6d88fd4d4790cd85650fd235": {
+        "title": "Node.js之父：手写代码已死",
+        "link": "https://www.qbitai.com/2026/01/371389.html",
+        "published_date": "Thu, 22 Jan 2026 06:43:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.351087"
+      },
+      "8e3f8f2b08518160a8887492ef113cc2fca2d26fdd529406f61958b569cfdbbd": {
+        "title": "57.1%的人分不清真假！Runway新视频模型太爆炸",
+        "link": "https://www.qbitai.com/2026/01/371481.html",
+        "published_date": "Thu, 22 Jan 2026 06:40:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.351089"
+      },
+      "c45244c903b8f1666c8bd729a70c654a573ad31921e41ce21da2037644667590": {
+        "title": "2026-01-22日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-22/",
+        "published_date": "Thu, 22 Jan 2026 07:19:00 GMT",
+        "first_seen": "2026-01-22T08:35:17.351090"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-22T05:31:15.964526",
-    "Finance": "2026-01-22T05:30:45.041799",
-    "Ai": "2026-01-22T05:30:56.650270"
+    "Technology": "2026-01-22T08:35:39.826810",
+    "Finance": "2026-01-22T08:35:17.231272",
+    "Ai": "2026-01-22T08:35:17.351093"
   }
 }

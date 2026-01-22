@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 05:30:44 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 08:35:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>European governments turn to short-term debt as borrowing costs rise</title>
-      <link>https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3</link>
-      <description>&lt;![CDATA[European governments turn to short-term debt as borrowing costs rise]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3</guid>
+      <title>UK government borrowing lower than expected in December</title>
+      <link>https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339</link>
+      <description>&lt;![CDATA[UK government borrowing lower than expected in December]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors</title>
-      <link>https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 00:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories</guid>
+      <title>EQT to buy UK’s Coller Capital for up to $3.7bn</title>
+      <link>https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe</link>
+      <description>&lt;![CDATA[EQT to buy UK’s Coller Capital for up to $3.7bn]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 06:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business</title>
-      <link>https://www.ft.com/content/31b1a9a4-c3c4-4a7d-8f70-eddc5fe1b6bf</link>
-      <description>&lt;![CDATA[Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/31b1a9a4-c3c4-4a7d-8f70-eddc5fe1b6bf</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Turns out, DOGE did put Social Security data at risk. Here’s what lawmakers are doing about it.</title>
-      <link>https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Turns out, DOGE did put Social Security data at risk. Here’s what lawmakers are doing about it.]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 02:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Carney’s new global order needs a huge shift in political will</title>
-      <link>https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c</link>
-      <description>&lt;![CDATA[Carney’s new global order needs a huge shift in political will]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c</guid>
+      <title>Davos latest: Markets rally after Trump touts Greenland deal</title>
+      <link>https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d</link>
+      <description>&lt;![CDATA[Davos latest: Markets rally after Trump touts Greenland deal]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 06:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d</guid>
       <category>Finance</category>
     </item>
   </channel>

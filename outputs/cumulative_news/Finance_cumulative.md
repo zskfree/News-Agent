@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-22 05:30
+**最后更新时间**: 2026-01-22 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-22 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK government borrowing lower than expected in December](https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339)
+**发布时间**: 2026-01-22 08:20
+
+#### [EQT to buy UK’s Coller Capital for up to $3.7bn](https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe)
+**发布时间**: 2026-01-22 06:41
+
+#### [Davos latest: Markets rally after Trump touts Greenland deal](https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d)
+**发布时间**: 2026-01-22 06:08
 
 ---
 
