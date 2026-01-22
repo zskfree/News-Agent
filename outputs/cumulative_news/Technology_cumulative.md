@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-21 23:27
+**最后更新时间**: 2026-01-22 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-22 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“乳”海遗珠君乐宝，能否打破“河北乳企不上市”的魔咒？](https://www.tmtpost.com/7851559.html)
+**发布时间**: 2026-01-22 13:10
+
+#### [争夺太空，中国放大招了](https://www.tmtpost.com/7851728.html)
+**发布时间**: 2026-01-22 13:10
+
+#### [Dewu Finance Makes Debut in HK, Marking First Step to Tokenize China’s Supply Chain Assets](https://www.tmtpost.com/7850891.html)
+**发布时间**: 2026-01-22 13:10
+
+#### [聂卫平：何以为圣](https://www.tmtpost.com/7851425.html)
+**发布时间**: 2026-01-22 13:07
+
+#### [酒店“首店”大战：国际新品牌为何抢滩入华？](https://www.tmtpost.com/7850760.html)
+**发布时间**: 2026-01-22 13:04
+
+#### [GEO火了，流量革命近了？](https://www.tmtpost.com/7851551.html)
+**发布时间**: 2026-01-22 13:04
+
+#### [低温液奶新贵君乐宝港股IPO，为中国乳业制造新的增长极](https://www.tmtpost.com/7850467.html)
+**发布时间**: 2026-01-22 12:26
+
+#### [汇川技术拟赴港上市，朱兴明能否续写2800亿传奇？](https://www.tmtpost.com/7851395.html)
+**发布时间**: 2026-01-22 12:13
+
+#### [AI能革学区房的“命”，但……](https://www.tmtpost.com/7851595.html)
+**发布时间**: 2026-01-22 12:11
+
+#### [被“抖音催熟”的西子健康，99%线上营收能撑起IPO吗？](https://www.tmtpost.com/7851621.html)
+**发布时间**: 2026-01-22 12:09
+
+#### [2026刚开年，医美这一赛道迎来史上最惨烈“厮杀”](https://www.tmtpost.com/7851571.html)
+**发布时间**: 2026-01-22 12:06
+
+#### [Jensen Huang Calls AI 'Largest Infrastructure Buildout in Human History' at Davos](https://www.tmtpost.com/7851721.html)
+**发布时间**: 2026-01-22 12:06
+
+#### [超级电力帝国崛起，从一块光伏板开始](https://www.tmtpost.com/7851562.html)
+**发布时间**: 2026-01-22 12:03
+
+#### [英伟达的汽车“生意经”](https://www.tmtpost.com/7851544.html)
+**发布时间**: 2026-01-22 11:59
+
+#### [GSK还是太“滞后”了](https://www.tmtpost.com/7851511.html)
+**发布时间**: 2026-01-22 11:51
+
+#### [黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺](https://www.tmtpost.com/7851503.html)
+**发布时间**: 2026-01-22 11:44
+
+#### [全球消费，进入“中国定义”时间](https://www.tmtpost.com/7851480.html)
+**发布时间**: 2026-01-22 11:38
+
+#### [北大毕业、离职腾讯，这群人做的三国 AI 游戏凭什么爆火？](https://www.tmtpost.com/7851537.html)
+**发布时间**: 2026-01-22 11:31
+
+#### [稀土股票因业绩新突破而大涨](https://www.tmtpost.com/7851641.html)
+**发布时间**: 2026-01-22 11:28
+
+#### [Oklo股票被上调至“买入”评级，与Meta达成的核能协议是“一项重要的进展”](https://www.tmtpost.com/7851639.html)
+**发布时间**: 2026-01-22 11:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何利用 Snowflake ML 实现电商个性化 ｜ 技术实践](https://www.infoq.cn/article/QY60NJrEuZq8um5fiHO7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 11:24
+
+#### [揭秘Uber跨区域数据湖与灾难恢复机制：350PB数据、数百万事件、单一系统](https://www.infoq.cn/article/O7T47Q680HHi6rbdBEPr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 11:06
+
+#### [飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产](https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
+**发布时间**: 2026-01-22 11:00
+
+#### [派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等](https://sspai.com/post/105651)
+**发布时间**: 2026-01-22 08:29
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蜜雪卖早餐，三只松鼠开超市，消费巨头为何“不务正业”？](http://www.huxiu.com/article/4828491.html?f=wangzhan)
+**发布时间**: 2026-01-22 10:30
+
+#### [没有马杜罗的日子，才是好日子？](http://www.huxiu.com/article/4828310.html?f=wangzhan)
+**发布时间**: 2026-01-22 09:59
 
 ---
 

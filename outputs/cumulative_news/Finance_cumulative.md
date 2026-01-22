@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-21 23:27
+**最后更新时间**: 2026-01-22 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-22 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Carney’s new global order needs a huge shift in political will](https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c)
+**发布时间**: 2026-01-22 05:00
+
+#### [Trump’s Greenland pivot leaves Europe flummoxed](https://www.ft.com/content/fb90d690-f22c-49ab-8ebc-22e2e8f757f3)
+**发布时间**: 2026-01-22 05:00
+
+#### [European governments turn to short-term debt as borrowing costs rise](https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3)
+**发布时间**: 2026-01-22 05:00
+
+#### [Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business](https://www.ft.com/content/31b1a9a4-c3c4-4a7d-8f70-eddc5fe1b6bf)
+**发布时间**: 2026-01-22 05:00
+
+#### [US companies expand protection services for top executives](https://www.ft.com/content/b94d0519-7a07-4504-a88a-04c027d65c21)
+**发布时间**: 2026-01-22 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Turns out, DOGE did put Social Security data at risk. Here’s what lawmakers are doing about it.](https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 02:11
+
+#### [Boarding a plane has become ‘elitist,’ passengers say — but airlines profit off premium travelers getting priority status](https://www.marketwatch.com/story/boarding-a-plane-has-become-elitist-passengers-say-but-airlines-profit-off-premium-travelers-getting-priority-status-d5e0a32b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 01:47
+
+#### [Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors](https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories)
+**发布时间**: 2026-01-22 00:46
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "73668160f794bbbdfbec73635c1700d71de2d86322277ad14f28ddbbf8f0e202": {
-        "title": "GPT-6或三个月内亮相！奥特曼亲口承认：9亿用户难敌谷歌“致命一击”，1.4万亿美元算力豪赌AI未来",
-        "link": "https://www.infoq.cn/article/9aogD7JlaptgBYFg6DuZ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 11:58:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319584"
-      },
-      "07f5738580e21222def4acfa54df11b22b7763e1d8df999346772679bfb6ee59": {
-        "title": "H200春节前重返中国，黄仁勋有多少胜算？",
-        "link": "https://www.tmtpost.com/7817767.html",
-        "published_date": "Tue, 23 Dec 2025 10:10:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319590"
-      },
-      "0a684f2a120b40716e3148327caca22357f538031d66ace4ef81e4edbf5c4b94": {
-        "title": "用意念拿外卖，中国科学家攻克脑机接口难关",
-        "link": "http://www.huxiu.com/article/4819595.html?f=wangzhan",
-        "published_date": "Tue, 23 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319592"
-      },
-      "7b0545f5bad3d111952c166e6a04f89747dd3969cd04575c395377aaa158caac": {
-        "title": "Chinese Chipmakers Rush to IPOs as Blockbuster Debuts Fuel Funding Drive",
-        "link": "https://www.tmtpost.com/7818065.html",
-        "published_date": "Tue, 23 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319594"
-      },
-      "889385e71dab17a09979d48adff97c68da542e4999c56edf98b8ad0c33483ef3": {
-        "title": "Instacart停止AI定价测试，股价应声下跌",
-        "link": "https://www.tmtpost.com/7818075.html",
-        "published_date": "Tue, 23 Dec 2025 11:01:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319596"
-      },
       "406fface4462a50b8e16fa0836351177a99a5f80a41800a7c06d4d96140dd293": {
         "title": "“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5",
         "link": "https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7850824.html",
         "published_date": "Wed, 21 Jan 2026 21:53:00 GMT",
         "first_seen": "2026-01-21T23:28:28.958640"
+      },
+      "376065b4b1173c1f499a411574645dd348e6f8ba2e5d3507391716b1c3bcc64d": {
+        "title": "Jensen Huang Calls AI 'Largest Infrastructure Buildout in Human History' at Davos",
+        "link": "https://www.tmtpost.com/7851721.html",
+        "published_date": "Thu, 22 Jan 2026 12:06:00 GMT",
+        "first_seen": "2026-01-22T05:31:15.964512"
+      },
+      "5a847e6761995cef0c6785c78849aef509c722dfa9fcc7c55f6dbe0546727cf4": {
+        "title": "英伟达的汽车“生意经”",
+        "link": "https://www.tmtpost.com/7851544.html",
+        "published_date": "Thu, 22 Jan 2026 11:59:00 GMT",
+        "first_seen": "2026-01-22T05:31:15.964519"
+      },
+      "85949838438039dd4920a6a966ae30d2c59a49fa2a8ebdd74c80142f307397e1": {
+        "title": "Oklo股票被上调至“买入”评级，与Meta达成的核能协议是“一项重要的进展”",
+        "link": "https://www.tmtpost.com/7851639.html",
+        "published_date": "Thu, 22 Jan 2026 11:27:00 GMT",
+        "first_seen": "2026-01-22T05:31:15.964521"
+      },
+      "7cac518bae7c7eec9b9e1ea12acf582f284512ed39676f357606e103111f8b85": {
+        "title": "揭秘Uber跨区域数据湖与灾难恢复机制：350PB数据、数百万事件、单一系统",
+        "link": "https://www.infoq.cn/article/O7T47Q680HHi6rbdBEPr?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 11:06:00 GMT",
+        "first_seen": "2026-01-22T05:31:15.964522"
+      },
+      "232b80590bb119c680adb6702f06d32b7911f53e8ad99f6a723a236790dbf4d7": {
+        "title": "AI能革学区房的“命”，但……",
+        "link": "https://www.tmtpost.com/7851595.html",
+        "published_date": "Thu, 22 Jan 2026 12:11:00 GMT",
+        "first_seen": "2026-01-22T05:31:15.964524"
       }
     },
     "Finance": {
-      "ad22cfed6cadb3d8d93387d0609d4c7a3a0e491fffc39a4afd92164938df04af": {
-        "title": "Year in a word: AI bubble",
-        "link": "https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742271"
-      },
-      "de95a43f9bcb3c12ad1829f9bde16efc30cb4593701bf2bba789f1a290a5ccf9": {
-        "title": "AI debt boom pushes US corporate bond sales close to record",
-        "link": "https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742280"
-      },
-      "e2d0871038708356af428050eca68b4607142d3de9784ba0b4cfa52c42accc2f": {
-        "title": "Novo Nordisk weight-loss drug wins US approval as a daily pill",
-        "link": "https://www.ft.com/content/c8630c2a-321a-4a25-ad19-7c2b571c77f7",
-        "published_date": "Tue, 23 Dec 2025 01:22:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742283"
-      },
-      "568465b8873aadc52654e4598c4e0431fe89e48cf7488be728aa72d124dbbe9f": {
-        "title": "House prices fall in half of London boroughs",
-        "link": "https://www.ft.com/content/a33f4f58-a7c0-43ae-bc99-e8652976b969",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742285"
-      },
-      "df620a76dad845a8add30024ef90254c3b98964e3fe98cbcc42d1acf9f6b46ee": {
-        "title": "The good, the bad and the ugly of Britain’s labour market reforms",
-        "link": "https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742287"
-      },
       "be8d68bf16d97d407730901d346009b7947c671cecdf2e5075b669199ef6ce30": {
         "title": "US economy grew at 4.3% rate in third quarter",
         "link": "https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c",
@@ -4473,39 +4443,39 @@
         "link": "https://www.marketwatch.com/story/big-tech-stocks-havent-been-this-cheap-in-months-these-investors-say-its-time-to-buy-3024306d?mod=mw_rss_topstories",
         "published_date": "Wed, 21 Jan 2026 22:40:00 GMT",
         "first_seen": "2026-01-21T23:27:53.167602"
+      },
+      "d41bdeea0def0c1020c9bda8dc7ee50638ccc79544a58a5198382de0292bd629": {
+        "title": "European governments turn to short-term debt as borrowing costs rise",
+        "link": "https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:30:45.041776"
+      },
+      "d181e75f0372599b33af52c5f815a8078310fcf4a3ff605e7f702d8b805e23ee": {
+        "title": "Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors",
+        "link": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 00:46:00 GMT",
+        "first_seen": "2026-01-22T05:30:45.041789"
+      },
+      "41d4f014fef4c55d2afb10641d0a4e75d363b504d81e722861657bf1a1e6da31": {
+        "title": "Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business",
+        "link": "https://www.ft.com/content/31b1a9a4-c3c4-4a7d-8f70-eddc5fe1b6bf",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:30:45.041792"
+      },
+      "3c82ca47552dcc793139a48b60098cf8fe91541c070c760bd0402840c85b82e5": {
+        "title": "Turns out, DOGE did put Social Security data at risk. Here’s what lawmakers are doing about it.",
+        "link": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 02:11:00 GMT",
+        "first_seen": "2026-01-22T05:30:45.041794"
+      },
+      "2d05a7dd20f15470e378d248dac432dd0a273be5a16598f32f825c0feaa1bca2": {
+        "title": "Carney’s new global order needs a huge shift in political will",
+        "link": "https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:30:45.041797"
       }
     },
     "Ai": {
-      "87ee1946320e1bd46c44747977987a58b4cf2350783875dd0b25bffa11c427b3": {
-        "title": "仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-3",
-        "published_date": "Tue, 23 Dec 2025 13:04:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864829"
-      },
-      "c4afa0fc1c9b4fc1037196a31aefd3ee538f63ce1bfd613a1ba37e6ae2ca9493": {
-        "title": "VideoCoF：将「时序推理」引入视频编辑，无Mask实现高精度编辑与长视频外推！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23",
-        "published_date": "Tue, 23 Dec 2025 12:56:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864836"
-      },
-      "9b3ee43e172477cff9eceb13219d3edcc0aae6dc0dffdb4ad0893dc904ba944c": {
-        "title": "智谱IPO敲钟前，连夜把开源编程大模型SOTA了",
-        "link": "https://www.qbitai.com/2025/12/364823.html",
-        "published_date": "Tue, 23 Dec 2025 00:28:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864838"
-      },
-      "956661ef5edfc111d279eba872854657f807f09416f6c1b82055159379970944": {
-        "title": "拿走200多万奖金的AI人才，到底给出了什么样的技术方案？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-4",
-        "published_date": "Tue, 23 Dec 2025 13:13:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864840"
-      },
-      "1cdecbd356896a274f3ede41babed506e7c105991a14d7a61b133538310f3d31": {
-        "title": "我们走访全国百强三甲医院，发现40%都选了同一家AI公司",
-        "link": "https://www.qbitai.com/2025/12/365043.html",
-        "published_date": "Tue, 23 Dec 2025 03:10:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864841"
-      },
       "1abb0f98bfb5e0873e2456c94a2a8aeb57283e9fa4c1ce86bedcb2aac36f60e4": {
         "title": "LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-8",
@@ -6671,13 +6641,43 @@
         "link": "https://www.qbitai.com/2026/01/370985.html",
         "published_date": "Wed, 21 Jan 2026 09:11:00 GMT",
         "first_seen": "2026-01-21T23:28:08.919449"
+      },
+      "e507341e8ee898e8aad4fb81593d9d926fdd8af11edb588fffff66fe09442f92": {
+        "title": "第一梯队的大模型安全吗？复旦、上海创智学院等发布前沿大模型安全报告，覆盖六大领先模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-3",
+        "published_date": "Thu, 22 Jan 2026 12:48:00 GMT",
+        "first_seen": "2026-01-22T05:30:56.650255"
+      },
+      "93e8c2019f58fc58b5401e7c75c488dba992c43735f8608d07128a990e5cc68c": {
+        "title": "马斯克下场抢人！xAI组建「人才狙击队」，极客版HR年薪168万",
+        "link": "https://www.qbitai.com/2026/01/371286.html",
+        "published_date": "Thu, 22 Jan 2026 04:12:00 GMT",
+        "first_seen": "2026-01-22T05:30:56.650262"
+      },
+      "bad0dabc4318234d4e98a2a136873a780920548802ea08a46dddd8a86acbb82f": {
+        "title": "刚刚， 2025 ACM Fellow公布！陈宝权、贾佳亚、梅涛、朱军等多位华人入选",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-2",
+        "published_date": "Thu, 22 Jan 2026 11:28:00 GMT",
+        "first_seen": "2026-01-22T05:30:56.650264"
+      },
+      "015e7c8343ab0f7dc9aac5a4e8506c8d4b718e4f6e1ae0dfabec830d6dfff2cd": {
+        "title": "第二届CVPR 2026 CV4CHL Workshop征稿启动，用AI大模型守护儿童未来",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22",
+        "published_date": "Thu, 22 Jan 2026 11:21:00 GMT",
+        "first_seen": "2026-01-22T05:30:56.650266"
+      },
+      "0b8114c580ca41ead786c43a950e6dd777fbdcc51d33401af505d8566f980ea3": {
+        "title": "拒绝成为落后的开发者：用TRAE Skills构建你的10倍效能工具箱",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-4",
+        "published_date": "Thu, 22 Jan 2026 12:57:00 GMT",
+        "first_seen": "2026-01-22T05:30:56.650267"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-21T23:28:28.958642",
-    "Finance": "2026-01-21T23:27:53.167604",
-    "Ai": "2026-01-21T23:28:08.919452"
+    "Technology": "2026-01-22T05:31:15.964526",
+    "Finance": "2026-01-22T05:30:45.041799",
+    "Ai": "2026-01-22T05:30:56.650270"
   }
 }
