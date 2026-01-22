@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 08:35:39 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 23:24:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 去中东，寻求500亿美元融资</title>
-      <link>https://www.tmtpost.com/7851863.html</link>
-      <description>&lt;![CDATA[OpenAI 去中东，寻求500亿美元融资]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 13:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7851863.html</guid>
+      <title>每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头</title>
+      <link>https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI撞到“数据天花板”，一场革命正悄悄上演</title>
-      <link>https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI撞到“数据天花板”，一场革命正悄悄上演]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节AI撒“豆”成兵</title>
+      <link>https://www.tmtpost.com/7852333.html</link>
+      <description>&lt;![CDATA[字节AI撒“豆”成兵]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7852333.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺</title>
-      <link>https://www.tmtpost.com/7851503.html</link>
-      <description>&lt;![CDATA[黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7851503.html</guid>
+      <title>美光科技股票迎来新粉丝，内存芯片热潮或将持续</title>
+      <link>https://www.tmtpost.com/7852663.html</link>
+      <description>&lt;![CDATA[美光科技股票迎来新粉丝，内存芯片热潮或将持续]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 22:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7852663.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾的“圈地运动”谁能终结？</title>
-      <link>https://www.tmtpost.com/7851955.html</link>
-      <description>&lt;![CDATA[智驾的“圈地运动”谁能终结？]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7851955.html</guid>
+      <title>争夺太空，中国放大招了</title>
+      <link>https://www.tmtpost.com/7851728.html</link>
+      <description>&lt;![CDATA[争夺太空，中国放大招了]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7851728.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530710&amp;idx=1&amp;sn=1ef6a9abecb2077c5c34d0201b2e676c</link>
-      <description>&lt;![CDATA[清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530710&amp;idx=1&amp;sn=1ef6a9abecb2077c5c34d0201b2e676c</guid>
+      <title>发布增强医疗大模型M3 Plus，王小川：年成本仅1亿可让中国医疗AI跑起来</title>
+      <link>https://www.tmtpost.com/7851981.html</link>
+      <description>&lt;![CDATA[发布增强医疗大模型M3 Plus，王小川：年成本仅1亿可让中国医疗AI跑起来]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7851981.html</guid>
       <category>Technology</category>
     </item>
   </channel>

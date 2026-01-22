@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dbc4d0d8c6e011a6e899c7222d9b55a0c01f3136a1749db6c93cb199b9f568af": {
-        "title": "“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写",
-        "link": "https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 06:00:00 GMT",
-        "first_seen": "2025-12-23T23:22:02.145378"
-      },
-      "f64b630d3ac0550c4551f17e26212a29e29a08672e2c9970c06b4b4229063b0c": {
-        "title": "L4级自动驾驶赛道分化，Robobus将成为“第一战场”？",
-        "link": "https://www.tmtpost.com/7818613.html",
-        "published_date": "Tue, 23 Dec 2025 19:04:00 GMT",
-        "first_seen": "2025-12-23T23:22:02.145385"
-      },
-      "16d26f96d02da7c899bf34e99d7d43da84529fbd751111df5dc17566c776b574": {
-        "title": "Meta的优化平台Ax 1.0能够简化大语言模型和系统优化",
-        "link": "https://www.infoq.cn/article/L8SFUE4rMicgvvJtzAZO?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 11:30:00 GMT",
-        "first_seen": "2025-12-23T23:22:02.145387"
-      },
-      "ecde48c644571f68fe9f3e996f63d8b576a41db025fa72f818a1038e6fd0937a": {
-        "title": "快手遭黑产攻击瘫痪，“自动化攻击” 时代网络安全怎么做？",
-        "link": "https://www.tmtpost.com/7817891.html",
-        "published_date": "Tue, 23 Dec 2025 10:08:00 GMT",
-        "first_seen": "2025-12-23T23:22:02.145389"
-      },
-      "003d8016285a0b2bb94770eef26fa8c83f3256d64b7263172aad18e2ab2e4a0e": {
-        "title": "Transformers v5引入了更具模块化和互操作性的核心",
-        "link": "https://www.infoq.cn/article/kSWRo6Hvs2PT3LF89FxD?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-23T23:22:02.145390"
-      },
       "c064b0373ff37838ce1f54a866eff85911f506a051ca88e977ea9260bee476ad": {
         "title": "oRPC发布1.0版本，支持OpenAPI和端到端类型安全",
         "link": "https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&utm_medium=article",
@@ -2665,39 +2635,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530710&idx=1&sn=1ef6a9abecb2077c5c34d0201b2e676c",
         "published_date": "Thu, 22 Jan 2026 15:25:00 GMT",
         "first_seen": "2026-01-22T08:35:39.826808"
+      },
+      "33fb39525a6ddf33aac0a875d8835fb388c24b597e1181a3bb89b412c97115b5": {
+        "title": "每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头",
+        "link": "https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 15:41:00 GMT",
+        "first_seen": "2026-01-22T23:24:49.167461"
+      },
+      "f05641bf2d1666b755abc813d5791e3dafae7f77fee43719f65723c4b4fcc0f3": {
+        "title": "字节AI撒“豆”成兵",
+        "link": "https://www.tmtpost.com/7852333.html",
+        "published_date": "Thu, 22 Jan 2026 19:08:00 GMT",
+        "first_seen": "2026-01-22T23:24:49.167467"
+      },
+      "9bad53e9114e893ebd4ee557200d622348b5c6dc63949b1d740e77f66682378d": {
+        "title": "美光科技股票迎来新粉丝，内存芯片热潮或将持续",
+        "link": "https://www.tmtpost.com/7852663.html",
+        "published_date": "Thu, 22 Jan 2026 22:16:00 GMT",
+        "first_seen": "2026-01-22T23:24:49.167469"
+      },
+      "ff0f54581ecd5cdb6b22286e595e39a5c4d17ca0c426b588fcab8764754a639a": {
+        "title": "争夺太空，中国放大招了",
+        "link": "https://www.tmtpost.com/7851728.html",
+        "published_date": "Thu, 22 Jan 2026 13:10:00 GMT",
+        "first_seen": "2026-01-22T23:24:49.167471"
+      },
+      "7a9c794b91ddb40d0dd2f565be788ceeed7556621a4e158b844ab55d2bd5a20a": {
+        "title": "发布增强医疗大模型M3 Plus，王小川：年成本仅1亿可让中国医疗AI跑起来",
+        "link": "https://www.tmtpost.com/7851981.html",
+        "published_date": "Thu, 22 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-22T23:24:49.167473"
       }
     },
     "Finance": {
-      "be8d68bf16d97d407730901d346009b7947c671cecdf2e5075b669199ef6ce30": {
-        "title": "US economy grew at 4.3% rate in third quarter",
-        "link": "https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c",
-        "published_date": "Tue, 23 Dec 2025 22:45:00 GMT",
-        "first_seen": "2025-12-23T23:21:20.679198"
-      },
-      "e9635841302edf2fdb0c5fa7dfb60c34a6eda6f013b329af77012e12416fb840": {
-        "title": "Trump administration accuses China of unfair chip trade practices",
-        "link": "https://www.ft.com/content/a1274e4a-baf3-4f63-82f6-2758af1aa745",
-        "published_date": "Tue, 23 Dec 2025 17:01:00 GMT",
-        "first_seen": "2025-12-23T23:21:20.679209"
-      },
-      "2e954937dae006042fb13b60a6ead7df1308028bb071a872fb3a424d31d37c50": {
-        "title": "Wall Street’s ‘fear gauge’ shows investors feeling confident heading into 2026 — and overlooking some big risks",
-        "link": "https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Dec 2025 21:39:00 GMT",
-        "first_seen": "2025-12-23T23:21:20.679211"
-      },
-      "6119301bc767f995b3db9e4c6aad507d2c69f1d20a506ec41d4b4c9e554916a1": {
-        "title": "Americans are starting the new year with record debt. Here’s how they can get it under control.",
-        "link": "https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Dec 2025 21:46:00 GMT",
-        "first_seen": "2025-12-23T23:21:20.679213"
-      },
-      "e8aace2c82916f5a65f5f448dcf4f754936a14ac3b8de854051a7229335abe6a": {
-        "title": "Quantum computing is the stock market’s next big tech play — and these stocks are still cheap",
-        "link": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Dec 2025 18:59:00 GMT",
-        "first_seen": "2025-12-23T23:21:20.679215"
-      },
       "754dd4373bd695e2dbca16e996876e05027ca232ad127ee7237b8456fe6d9998": {
         "title": "Tech groups shift $120bn of AI data centre debt off balance sheets",
         "link": "https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83",
@@ -4491,39 +4461,39 @@
         "link": "https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d",
         "published_date": "Thu, 22 Jan 2026 06:08:00 GMT",
         "first_seen": "2026-01-22T08:35:17.231269"
+      },
+      "b6c45596a72871f2d700b3b63939ef6f7038914c19d39b0c0210498398195a91": {
+        "title": "Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO",
+        "link": "https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606",
+        "published_date": "Thu, 22 Jan 2026 18:24:00 GMT",
+        "first_seen": "2026-01-22T23:24:11.598898"
+      },
+      "0ab2c885beb61a8688b5a3510984882744d615015951d5346948bfabac6acb4d": {
+        "title": "Trump sues JPMorgan and CEO Dimon for $5bn over debanking",
+        "link": "https://www.ft.com/content/da3b880c-fcab-47d8-a40c-9e6755616e94",
+        "published_date": "Thu, 22 Jan 2026 23:08:00 GMT",
+        "first_seen": "2026-01-22T23:24:11.598905"
+      },
+      "3bd7d5576e6e6a2aab7d5220578bf1163e1baaef1901fc6220441ba9b798eccb": {
+        "title": "Bond investors should worry less about Treasury yields, and watch this move instead",
+        "link": "https://www.marketwatch.com/story/bond-investors-should-worry-less-about-treasury-yields-and-watch-this-move-instead-937fc339?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 23:22:00 GMT",
+        "first_seen": "2026-01-22T23:24:11.598908"
+      },
+      "e570f84b2398b128efc1f4f0ecc1bd69b91e0de96efe2f5bc13b52eb53a8cef6": {
+        "title": "Clorox to buy Purell maker for more than $2 billion, eyeing 20 million hand-sanitizer dispensers and more",
+        "link": "https://www.marketwatch.com/story/clorox-to-buy-purell-maker-for-more-than-2-billion-eyeing-20-million-hand-sanitizer-dispensers-and-more-c563a034?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 22:05:00 GMT",
+        "first_seen": "2026-01-22T23:24:11.598910"
+      },
+      "aa6853d60d2e741092e7d2d510d85574213e322a861d22100cc7324b180a0eef": {
+        "title": "Tesla’s stock pops on a robotaxi milestone. Here’s what comes next.",
+        "link": "https://www.marketwatch.com/story/teslas-stock-pops-on-a-robotaxi-milestone-heres-what-comes-next-00aae31f?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:36:00 GMT",
+        "first_seen": "2026-01-22T23:24:11.598912"
       }
     },
     "Ai": {
-      "a7037ae6a679a11edc5461d08ccd2d3c3df10aff466eaf1389e5917fcf1d67a6": {
-        "title": "当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-11",
-        "published_date": "Tue, 23 Dec 2025 17:45:00 GMT",
-        "first_seen": "2025-12-23T23:21:32.534124"
-      },
-      "f74558fb87f8d2210625f812ce26d04eedca3621e8fe758e5405661bbe30bb8e": {
-        "title": "为具身智能构建原生安全底座，永信至诚首发「数字风洞」具身智能原生安全解决方案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-5",
-        "published_date": "Tue, 23 Dec 2025 14:29:00 GMT",
-        "first_seen": "2025-12-23T23:21:32.534130"
-      },
-      "2ed06d73e95e73bd4892d658d41363e7bdfb15306e0b30b9fbe1964e941c2325": {
-        "title": "只需150k数据，多图融合效果超越Qwen-2509，至多支持10图输入！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-9",
-        "published_date": "Tue, 23 Dec 2025 17:15:00 GMT",
-        "first_seen": "2025-12-23T23:21:32.534132"
-      },
-      "1010d530f3da3b95b0bd6a466d6806f255a48460dbe532148df373beed22c4ca": {
-        "title": "智明堂大模型获国家中医执业医师测试最佳成绩，首创TCM-Eval基准促行业标准化",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-10",
-        "published_date": "Tue, 23 Dec 2025 17:19:00 GMT",
-        "first_seen": "2025-12-23T23:21:32.534133"
-      },
-      "78d950b5959f882c2afb8a7f4bec47c4f98b5ee9aae7738a5e6bc23e7ee3c24e": {
-        "title": "LMArena最新排名：文心大模型5.0 Preview文本能力位居国内第一",
-        "link": "https://www.qbitai.com/2025/12/365659.html",
-        "published_date": "Tue, 23 Dec 2025 14:09:00 GMT",
-        "first_seen": "2025-12-23T23:21:32.534135"
-      },
       "51e4c8f85d37dcc7c51b5c94189e9c8158ff6760f09d7072c73642427f7ad0be": {
         "title": "2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔",
         "link": "https://www.qbitai.com/2025/12/365688.html",
@@ -6689,13 +6659,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-22/",
         "published_date": "Thu, 22 Jan 2026 07:19:00 GMT",
         "first_seen": "2026-01-22T08:35:17.351090"
+      },
+      "325d9ad5b9a779527013fbe74fcba67b74b5b81bdf64881bad4375cd9df2f282": {
+        "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-13",
+        "published_date": "Thu, 22 Jan 2026 19:13:00 GMT",
+        "first_seen": "2026-01-22T23:24:27.687282"
+      },
+      "dbae9c31896af33b5a7629676e9cb51f044d15874fe27b382728c57ce84e0515": {
+        "title": "Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-9",
+        "published_date": "Thu, 22 Jan 2026 16:53:00 GMT",
+        "first_seen": "2026-01-22T23:24:27.687288"
+      },
+      "23a214c8fcb9140dfe98d2794d682eed697f9e11ad24a18db776a03a81cee800": {
+        "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-14",
+        "published_date": "Thu, 22 Jan 2026 19:17:00 GMT",
+        "first_seen": "2026-01-22T23:24:27.687290"
+      },
+      "313c718922ac23f55864fc54e8a426b092a276e5ce2ba3a9cb6fbf5e4ea9e71d": {
+        "title": "苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-12",
+        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-22T23:24:27.687292"
+      },
+      "7103b8eafbc85206267f52c3df81a3ca0c9d50474f5c8badf0a24c8315eb86ef": {
+        "title": "Small models, big results: Achieving superior intent extraction through decomposition",
+        "link": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
+        "published_date": "Thu, 22 Jan 2026 16:56:00 GMT",
+        "first_seen": "2026-01-22T23:24:27.687294"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-22T08:35:39.826810",
-    "Finance": "2026-01-22T08:35:17.231272",
-    "Ai": "2026-01-22T08:35:17.351093"
+    "Technology": "2026-01-22T23:24:49.167474",
+    "Finance": "2026-01-22T23:24:11.598914",
+    "Ai": "2026-01-22T23:24:27.687296"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 08:35:17 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 23:24:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-6</link>
-      <description>&lt;![CDATA[WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-6</guid>
+      <title>清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-22-13</link>
+      <description>&lt;![CDATA[清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>剑桥与北航等设计可穿戴设备+LLM，融合肌肉振动、脉搏与大模型推理的无声语音系统</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-5</link>
-      <description>&lt;![CDATA[剑桥与北航等设计可穿戴设备+LLM，融合肌肉振动、脉搏与大模型推理的无声语音系统]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-5</guid>
+      <title>Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-22-9</link>
+      <description>&lt;![CDATA[Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Node.js之父：手写代码已死</title>
-      <link>https://www.qbitai.com/2026/01/371389.html</link>
-      <description>&lt;![CDATA[Node.js之父：手写代码已死]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 06:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/371389.html</guid>
+      <title>幻觉率不到3%，王小川把医生版的DeepSeek免费了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-22-14</link>
+      <description>&lt;![CDATA[幻觉率不到3%，王小川把医生版的DeepSeek免费了]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-14</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>57.1%的人分不清真假！Runway新视频模型太爆炸</title>
-      <link>https://www.qbitai.com/2026/01/371481.html</link>
-      <description>&lt;![CDATA[57.1%的人分不清真假！Runway新视频模型太爆炸]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 06:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/371481.html</guid>
+      <title>苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-22-12</link>
+      <description>&lt;![CDATA[苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 19:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-22日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-22/</link>
-      <description>&lt;![CDATA[2026-01-22日刊]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 07:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-22/</guid>
+      <title>Small models, big results: Achieving superior intent extraction through decomposition</title>
+      <link>https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/</link>
+      <description>&lt;![CDATA[Small models, big results: Achieving superior intent extraction through decomposition]]&gt;</description>
+      <pubDate>Thu, 22 Jan 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/</guid>
       <category>Ai</category>
     </item>
   </channel>
