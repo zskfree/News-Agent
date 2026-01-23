@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d016f3ec821b1d27b34a5335f91de6255e83f811aad983b387da952db02ae2d7": {
-        "title": "YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知",
-        "link": "https://www.tmtpost.com/7819489.html",
-        "published_date": "Wed, 24 Dec 2025 16:19:00 GMT",
-        "first_seen": "2025-12-24T08:34:00.893218"
-      },
-      "f517a2fe227dc6327bc4467a209cbfc0e84e1e6edb6b63073b9a18e82b0cb5e6": {
-        "title": "Meta详细阐述基于LLM级训练、混合并行计算与知识迁移的GEM广告模型",
-        "link": "https://www.infoq.cn/article/e2dRzxx1jyRbwrKqKsfv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 16:00:00 GMT",
-        "first_seen": "2025-12-24T08:34:00.893225"
-      },
-      "b15cd07dbd9b7dd8b6c2b8c0623391b7fd9e4748ea9bba1278cc68ff1a8aba74": {
-        "title": "JEP 500：通过限制反射来强制实现Final字段的严格不可变性",
-        "link": "https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 10:19:00 GMT",
-        "first_seen": "2025-12-24T08:34:00.893227"
-      },
-      "0467ee9b06a569edec758fefe926e3979db8264a2fee070faef57ecf0e8ab239": {
-        "title": "网安专家复盘快手风控被「击穿」的两小时",
-        "link": "https://www.tmtpost.com/7819496.html",
-        "published_date": "Wed, 24 Dec 2025 15:55:00 GMT",
-        "first_seen": "2025-12-24T08:34:00.893229"
-      },
-      "826e42946e183d7cde5cb9bab9fe38b68ba536a4b3e3b979d1c0ecb1b1e78cba": {
-        "title": "2026，「超级」AI云的新赛点",
-        "link": "https://www.tmtpost.com/7819464.html",
-        "published_date": "Wed, 24 Dec 2025 15:55:00 GMT",
-        "first_seen": "2025-12-24T08:34:00.893231"
-      },
-      "0bd40b2efbd7481d1b869eee6b2d7ce86b5b872231c4edd0239532ea2b3655cd": {
-        "title": "智谱和MiniMax的招股书，揭露大模型创业的10个真相",
-        "link": "https://www.tmtpost.com/7819899.html",
-        "published_date": "Wed, 24 Dec 2025 19:45:00 GMT",
-        "first_seen": "2025-12-24T23:23:10.336354"
-      },
-      "4f19a8c15e3c4fc21046f1dbfc19c388a97519cd8ff1d2c0c47c7770d79a4f2f": {
-        "title": "长安拿下L3首牌，自动驾驶商用化开启蝴蝶效应",
-        "link": "https://www.tmtpost.com/7818942.html",
-        "published_date": "Wed, 24 Dec 2025 14:02:00 GMT",
-        "first_seen": "2025-12-24T23:23:10.336363"
-      },
-      "25e5d5533b17846a7148c3106a3214b37e8edabe301b7b389f377b857be4837c": {
-        "title": "Cursor们疯狂生码，引爆无限软件危机！Netflix大佬警告：氛围编程正把我们带向灾难，程序员得动脑子",
-        "link": "https://www.infoq.cn/article/EA06AZH0wl5qpy9qiwPY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Dec 2025 07:00:00 GMT",
-        "first_seen": "2025-12-24T23:23:10.336367"
-      },
-      "c8a266a21d20ea2fb0547e854ed8215d0b0e33085649a7d46cf7a369f65dd038": {
-        "title": "发布 Agent OS、深度渗透垂直行业，钉钉阳谋：打造Agent 矩阵，AI 重构一切",
-        "link": "https://www.infoq.cn/article/V74Mx6zssHhFBIz9Vv00?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 17:23:00 GMT",
-        "first_seen": "2025-12-24T23:23:10.336370"
-      },
-      "e425df2d6e5be670d86f3e14e945302ce5dd2386cca7e34d569a2c6ee6fcd0f3": {
-        "title": "壁仞的GPU，卡在了客户门口",
-        "link": "https://www.tmtpost.com/7817625.html",
-        "published_date": "Wed, 24 Dec 2025 10:05:00 GMT",
-        "first_seen": "2025-12-24T23:23:10.336373"
-      },
       "fb8e95a9d409c903247684f494aed8aaa53c3b8d180bb569049d5cbd91947824": {
         "title": "英特尔股价下跌，原因在于英伟达",
         "link": "https://www.tmtpost.com/7820791.html",
@@ -2695,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7852900.html",
         "published_date": "Fri, 23 Jan 2026 16:16:00 GMT",
         "first_seen": "2026-01-23T08:33:43.494416"
+      },
+      "9122f8b92ca6906656455f9afffadf4c834514ae0da7aa637a85eac7291e9b3d": {
+        "title": "Bengio 15年前论文再夺AAAI奖！AI正告别单纯炫技，走向真实世界",
+        "link": "https://www.infoq.cn/article/KXaviFJ5cNI4qylQg39x?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 24 Jan 2026 00:07:00 GMT",
+        "first_seen": "2026-01-23T23:24:35.940318"
+      },
+      "9ffd86e95c25e9d37fb54b794f2fa303d4b628e8975e2661dc7751f7026ac4aa": {
+        "title": "AI 进化论丨第八期：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？",
+        "link": "https://www.infoq.cn/video/0a2A4lh12FJJMYgS7jqx?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 14:42:00 GMT",
+        "first_seen": "2026-01-23T23:24:35.940324"
+      },
+      "b34586fd943e4a8bcf0e3dfc44e0c15a862bf808dc58c000012561548d69f45e": {
+        "title": "射频芯片开启新的卡位赛",
+        "link": "https://www.tmtpost.com/7852278.html",
+        "published_date": "Fri, 23 Jan 2026 13:22:00 GMT",
+        "first_seen": "2026-01-23T23:24:35.940326"
+      },
+      "5ef8aa4198e462eaa4915ff8311d3ba12e43f4cc706d83255eab1897c663462b": {
+        "title": "Q4英特尔AI强劲增长，但供应短缺拖累盈利，盘后跌超10%",
+        "link": "https://www.tmtpost.com/7852835.html",
+        "published_date": "Fri, 23 Jan 2026 09:52:00 GMT",
+        "first_seen": "2026-01-23T23:24:35.940328"
+      },
+      "52453dc818d6a976f02ce5d0000b7d02ea345c0cef8afd339c6936e2d07aed0e": {
+        "title": "雷鸟、Rokid、阿里集体出击：中国AI眼镜天团决战放量前夜",
+        "link": "https://www.tmtpost.com/7853415.html",
+        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
+        "first_seen": "2026-01-23T23:24:35.940329"
       }
     },
     "Finance": {
-      "36b5214705592c84a15a49037e060c345808defc77af9c59f279fe26af7c7ddd": {
-        "title": "Big US banks add $600bn in value as deregulation spurs gains",
-        "link": "https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974",
-        "published_date": "Wed, 24 Dec 2025 14:58:00 GMT",
-        "first_seen": "2025-12-24T23:22:31.263884"
-      },
-      "64d78779909bbb34b4d16259bc6e8ab02903f0e6089bb0c50c39149300529cfe": {
-        "title": "Groq execs to join Nvidia as part of AI-chip licensing deal",
-        "link": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Dec 2025 22:38:00 GMT",
-        "first_seen": "2025-12-24T23:22:31.263894"
-      },
-      "7092688d27ef442779da6840883c3116e11d02bf7a6957d00b35eede014cd7b6": {
-        "title": "We’re wired to react to bad news — and that messes with our investments. Can AI help?",
-        "link": "https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Dec 2025 19:06:00 GMT",
-        "first_seen": "2025-12-24T23:22:31.263897"
-      },
-      "d7ac677cd18dd21d0029bce80b07f84ed8500ce69148eebb1a2390a73a6f1a2e": {
-        "title": "‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived",
-        "link": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Dec 2025 19:48:00 GMT",
-        "first_seen": "2025-12-24T23:22:31.263899"
-      },
-      "1bedf3a2a2084afdd9570dd8310323696277a2a08ce978ea853201d5268da9c4": {
-        "title": "S&P 500 hits record high on Christmas Eve for first time in more than a decade",
-        "link": "https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Dec 2025 18:14:00 GMT",
-        "first_seen": "2025-12-24T23:22:31.263900"
-      },
       "c41a663a2981256f72b9df2ad5c28a5fe0dc32c4b37f366ec138e58fca03432e": {
         "title": "For investors, the real gift from Wall Street comes one day after Christmas",
         "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
@@ -4527,69 +4467,39 @@
         "link": "https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828",
         "published_date": "Fri, 23 Jan 2026 07:15:00 GMT",
         "first_seen": "2026-01-23T08:33:21.114502"
+      },
+      "b7bd97514bd057415fdb5e0ba96c4c7c3d2f49f3fc669a9c3431b5b2947a3ff1": {
+        "title": "Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?",
+        "link": "https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories",
+        "published_date": "Fri, 23 Jan 2026 20:36:00 GMT",
+        "first_seen": "2026-01-23T23:23:55.358509"
+      },
+      "36b57e398613591916abc4610dd55384a4a571ae75a947458266f96a26ff4c27": {
+        "title": "BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve",
+        "link": "https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1",
+        "published_date": "Fri, 23 Jan 2026 21:52:00 GMT",
+        "first_seen": "2026-01-23T23:23:55.358517"
+      },
+      "a0acf83fd08056200a85d4705e5730af8278ab2b2e842628338a2a8602b7124c": {
+        "title": "Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs",
+        "link": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
+        "published_date": "Fri, 23 Jan 2026 21:51:00 GMT",
+        "first_seen": "2026-01-23T23:23:55.358520"
+      },
+      "85de37180c9d81db535804abad9d0c3c43d69c9026306fe94e35024c96abbb6d": {
+        "title": "Gold heads for best week since 2008 as Greenland crisis rattles dollar",
+        "link": "https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946",
+        "published_date": "Fri, 23 Jan 2026 17:55:00 GMT",
+        "first_seen": "2026-01-23T23:23:55.358522"
+      },
+      "1d336eacaf7bee37bf4de604be75881de24f80a5fddc7caecc9b278e8ae1c1df": {
+        "title": "Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.",
+        "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
+        "published_date": "Fri, 23 Jan 2026 21:29:00 GMT",
+        "first_seen": "2026-01-23T23:23:55.358524"
       }
     },
     "Ai": {
-      "2b264b9ef210bdc297c3934f20d7ebb7d3229cefb6fe0e494d6bec1026ee23b9": {
-        "title": "实测MiniMax M2.1之后，我们终于看懂了其招股书里的技术底气",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-7",
-        "published_date": "Wed, 24 Dec 2025 16:22:00 GMT",
-        "first_seen": "2025-12-24T08:33:33.425823"
-      },
-      "a51b542a7ea588929a24848cb84804c4dd8e3d0749c65ecb47a54d7ca771e845": {
-        "title": "直面VLA的「阿喀琉斯之踵」：TeleAI用「反探索」提升具身推理稳定性",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-6",
-        "published_date": "Wed, 24 Dec 2025 16:13:00 GMT",
-        "first_seen": "2025-12-24T08:33:33.425832"
-      },
-      "539ce2ba251a045baedc609391558a74129a11d258b9f6261e1e15fff67f28da": {
-        "title": "深势科技斩获超8亿元融资：AI for Science为何成为资本与产业的共同选择",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-5",
-        "published_date": "Wed, 24 Dec 2025 14:34:00 GMT",
-        "first_seen": "2025-12-24T08:33:33.425835"
-      },
-      "c17d7d0f8d321d3935a2c2b4f3027e62d1dc921b6d9d04bc61e4de2c2cf1a373": {
-        "title": "国产AI4S创业头雁再获8亿投资！深势科技完成C轮，产品已服务300万科学家",
-        "link": "https://www.qbitai.com/2025/12/365728.html",
-        "published_date": "Wed, 24 Dec 2025 06:59:00 GMT",
-        "first_seen": "2025-12-24T08:33:33.425837"
-      },
-      "846ba11af9a362bc76d1eaca6b74d336e8abd52d457ec2ada8977f15229b6238": {
-        "title": "广电绝地反击！揭秘多彩新媒「不烧钱」的AI生存法则",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-2",
-        "published_date": "Wed, 24 Dec 2025 12:04:00 GMT",
-        "first_seen": "2025-12-24T08:33:33.425839"
-      },
-      "1fa829ad4d82685cf38c0892fa7105fec0289e9c5f242fa5c3ede2f37e0dd925": {
-        "title": "原力灵机提出GeoVLA：让机器人看懂三维世界，打破2D视觉枷锁",
-        "link": "https://www.qbitai.com/2025/12/365771.html",
-        "published_date": "Wed, 24 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-24T23:22:45.918525"
-      },
-      "189fb829491a680c6d32ca92396e51dd84f89c8e43c5e91f1f464f2cf2263ef7": {
-        "title": "北航提出代码大模型的 Scaling Laws：编程语言差异与多语言最优配比策略",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-9",
-        "published_date": "Wed, 24 Dec 2025 17:56:00 GMT",
-        "first_seen": "2025-12-24T23:22:45.918532"
-      },
-      "a740d5bedee0cedc29d17d1c59cdcc26baf4acd994dcf7dd441cd46e1ebc78d6": {
-        "title": "长城王牌产品线也要全面NOA了！供应商赛马，多阶方案并行",
-        "link": "https://www.qbitai.com/2025/12/365751.html",
-        "published_date": "Wed, 24 Dec 2025 08:59:00 GMT",
-        "first_seen": "2025-12-24T23:22:45.918534"
-      },
-      "97433de84c1d675d53507a7ba62f924b158ea9517f614232cb7d1e6868f23cfc": {
-        "title": "谁还敢说谷歌掉队？2025年，它打了一场漂亮的翻身仗",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-10",
-        "published_date": "Wed, 24 Dec 2025 18:03:00 GMT",
-        "first_seen": "2025-12-24T23:22:45.918536"
-      },
-      "58cf32f9001586efa5980b5417bc0d9f36ae182ad5aba56f141b20803e9d5b9d": {
-        "title": "DeepSeek官方点赞元宝，罕见现身互动",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-8",
-        "published_date": "Wed, 24 Dec 2025 17:36:00 GMT",
-        "first_seen": "2025-12-24T23:22:45.918537"
-      },
       "3ef0e88a23426358207cbcce5bd44ce2f5d387521ad69654a53c036972a2101c": {
         "title": "TPU惹急黄仁勋，200亿美元拿下「TPU之父」核心团队、技术授权",
         "link": "https://www.jiqizhixin.com/articles/2025-12-25-5",
@@ -6755,13 +6665,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-23/",
         "published_date": "Fri, 23 Jan 2026 07:16:00 GMT",
         "first_seen": "2026-01-23T08:33:21.235510"
+      },
+      "96a182d280c442bb67128e79ea6ed699132161e0dcc7e97e7f3246dddbb5bad0": {
+        "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-10",
+        "published_date": "Fri, 23 Jan 2026 16:46:00 GMT",
+        "first_seen": "2026-01-23T23:24:08.093563"
+      },
+      "4de32dd95a94327e715bad97cf4d222b286fc90d498334e9df8938fecd686570": {
+        "title": "把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录",
+        "link": "https://www.qbitai.com/2026/01/372099.html",
+        "published_date": "Fri, 23 Jan 2026 12:25:00 GMT",
+        "first_seen": "2026-01-23T23:24:08.093570"
+      },
+      "599859e6a163898e2aade1ae11cfc9f95c294470f9a45d2e50971d37a492a33c": {
+        "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-8",
+        "published_date": "Fri, 23 Jan 2026 16:37:00 GMT",
+        "first_seen": "2026-01-23T23:24:08.093572"
+      },
+      "95fa932c04e7ee10b1e3cea5a66b01b95a1bb1ce2396e506350d42c2dc11a897": {
+        "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-9",
+        "published_date": "Fri, 23 Jan 2026 16:42:00 GMT",
+        "first_seen": "2026-01-23T23:24:08.093574"
+      },
+      "c6e195e4ff060e191d112c247f7d822a75b9a1641861fbf8ae3bd55b0227a0e1": {
+        "title": "Introducing GIST: The next stage in smart sampling",
+        "link": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
+        "published_date": "Fri, 23 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-23T23:24:08.093575"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-23T08:33:43.494418",
-    "Finance": "2026-01-23T08:33:21.114509",
-    "Ai": "2026-01-23T08:33:21.235512"
+    "Technology": "2026-01-23T23:24:35.940331",
+    "Finance": "2026-01-23T23:23:55.358526",
+    "Ai": "2026-01-23T23:24:08.093577"
   }
 }

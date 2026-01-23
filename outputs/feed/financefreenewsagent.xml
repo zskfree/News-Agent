@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 23 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 08:33:21 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 23:23:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’</title>
-      <link>https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828</link>
-      <description>&lt;![CDATA[Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828</guid>
+      <title>Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?</title>
+      <link>https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve</title>
+      <link>https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1</link>
+      <description>&lt;![CDATA[BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 21:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs</title>
+      <link>https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold heads for best week since 2008 as Greenland crisis rattles dollar</title>
+      <link>https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946</link>
+      <description>&lt;![CDATA[Gold heads for best week since 2008 as Greenland crisis rattles dollar]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.</title>
+      <link>https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

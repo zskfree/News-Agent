@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-23 08:33
+**最后更新时间**: 2026-01-23 23:23
+
+---
+
+## 🆕 最新更新 (2026-01-23 23:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nearly 6,000 U.S. flights have been canceled ahead of winter storm — and the number is growing](https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 23:10
+
+#### [I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?](https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 23:05
+
+#### [I’m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?](https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 23:00
+
+#### [Stock investors should be wary of buying the dip if the S&P 500 falls to this level](https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 22:27
+
+#### [Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs](https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 21:51
+
+#### [Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.](https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 21:29
+
+#### [Why AMD’s stock is charging higher as Intel’s sinks](https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 21:15
+
+#### [Kevin O’Leary — aka ‘Mr. Wonderful’ from ‘Shark Tank’ — explains why he calls altcoins ‘poo-poo coins’](https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-from-shark-tank-explains-why-he-calls-altcoins-poo-poo-coins-966a217c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 20:54
+
+#### [Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?](https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 20:36
+
+#### [Silver finally hits $100 an ounce — and some experts say that’s just the beginning](https://www.marketwatch.com/story/silver-finally-hits-100-an-ounce-and-some-experts-say-thats-just-the-beginning-a21b4c1f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 20:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tory peers force UK to pause passage of Chagos Islands bill after US criticism](https://www.ft.com/content/d226cb01-3af5-41ea-9ede-1a6678ba1b48)
+**发布时间**: 2026-01-23 22:43
+
+#### [BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve](https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1)
+**发布时间**: 2026-01-23 21:52
+
+#### [Rothschilds join the ranks of the super-rich buying up British pubs](https://www.ft.com/content/ede1382e-4844-425e-b34e-97d805e717aa)
+**发布时间**: 2026-01-23 21:00
+
+#### [Goldman paid CEO David Solomon $47mn in 2025 as its stock soared](https://www.ft.com/content/dc1b4c6c-8274-405c-8e61-f089cb211907)
+**发布时间**: 2026-01-23 20:44
+
+#### [‘There’s no free lunch’: How Wall St learned to live with Trump’s barbs](https://www.ft.com/content/0b06b987-66c6-45d7-983f-9b60368042e5)
+**发布时间**: 2026-01-23 20:29
+
+#### [Decoupling from Trump’s America](https://www.ft.com/content/ed081984-836a-443c-ab0b-69462848e686)
+**发布时间**: 2026-01-23 19:17
+
+#### [Nigel Farage attended Davos as adviser to Iranian billionaire](https://www.ft.com/content/7b405c28-f5b9-4bbd-b309-57243bc19ddf)
+**发布时间**: 2026-01-23 19:01
+
+#### [The Taco trade has eaten itself](https://www.ft.com/content/5c1a2e77-6f41-4241-ad3e-66139f6dfac8)
+**发布时间**: 2026-01-23 18:00
+
+#### [Gold heads for best week since 2008 as Greenland crisis rattles dollar](https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946)
+**发布时间**: 2026-01-23 17:55
+
+#### [Starmer condemns Trump’s ‘appalling’ claim that Nato avoided Afghan frontline](https://www.ft.com/content/5e93ead5-5fa7-4cce-9c62-802c976fe4c3)
+**发布时间**: 2026-01-23 17:35
+
+#### [Mark Rutte, Europe’s Trump whisperer-in-chief](https://www.ft.com/content/fe1aad9e-3bd0-48e0-98fa-33fab2fb91dd)
+**发布时间**: 2026-01-23 12:56
 
 ---
 

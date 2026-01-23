@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 23 Jan 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 08:33:21 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 23:23:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 23:24:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>启动经费550万起！全球顶级AI人才看过来</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-23-7</link>
-      <description>&lt;![CDATA[启动经费550万起！全球顶级AI人才看过来]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-7</guid>
+      <title>OpenAI：以后大家用AI赚的钱，我可能要抽成</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-10</link>
+      <description>&lt;![CDATA[OpenAI：以后大家用AI赚的钱，我可能要抽成]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>三星爆火递归模型TRM唯一作者被迫离职，内部不认可？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-23-6</link>
-      <description>&lt;![CDATA[三星爆火递归模型TRM唯一作者被迫离职，内部不认可？]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-6</guid>
+      <title>把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录</title>
+      <link>https://www.qbitai.com/2026/01/372099.html</link>
+      <description>&lt;![CDATA[把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372099.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-23-5</link>
-      <description>&lt;![CDATA[Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-5</guid>
+      <title>思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-8</link>
+      <description>&lt;![CDATA[思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿</title>
-      <link>https://www.qbitai.com/2026/01/371924.html</link>
-      <description>&lt;![CDATA[腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 06:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/371924.html</guid>
+      <title>陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-9</link>
+      <description>&lt;![CDATA[陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-23日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-23/</link>
-      <description>&lt;![CDATA[2026-01-23日刊]]&gt;</description>
-      <pubDate>Fri, 23 Jan 2026 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-23/</guid>
+      <title>Introducing GIST: The next stage in smart sampling</title>
+      <link>https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/</link>
+      <description>&lt;![CDATA[Introducing GIST: The next stage in smart sampling]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/</guid>
       <category>Ai</category>
     </item>
   </channel>
