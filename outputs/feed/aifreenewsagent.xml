@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Jan 2026 23:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 23:24:27 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 05:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 05:30:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-13</link>
-      <description>&lt;![CDATA[清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-13</guid>
+      <title>vLLM团队官宣创业：融资1.5亿美元，清华特奖游凯超成为联创</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-2</link>
+      <description>&lt;![CDATA[vLLM团队官宣创业：融资1.5亿美元，清华特奖游凯超成为联创]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-9</link>
-      <description>&lt;![CDATA[Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-9</guid>
+      <title>百万围观、HuggingFace多模态登顶，华人团队开源语音版「DeepSeek」海外爆火</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-4</link>
+      <description>&lt;![CDATA[百万围观、HuggingFace多模态登顶，华人团队开源语音版「DeepSeek」海外爆火]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>幻觉率不到3%，王小川把医生版的DeepSeek免费了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-14</link>
-      <description>&lt;![CDATA[幻觉率不到3%，王小川把医生版的DeepSeek免费了]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 19:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-14</guid>
+      <title>一文速通「机器人3D场景表示」发展史</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23</link>
+      <description>&lt;![CDATA[一文速通「机器人3D场景表示」发展史]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-22-12</link>
-      <description>&lt;![CDATA[苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-22-12</guid>
+      <title>Mobileye势头强劲，2025财年全年营收同比增长15%</title>
+      <link>https://www.qbitai.com/2026/01/371922.html</link>
+      <description>&lt;![CDATA[Mobileye势头强劲，2025财年全年营收同比增长15%]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 03:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/371922.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Small models, big results: Achieving superior intent extraction through decomposition</title>
-      <link>https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/</link>
-      <description>&lt;![CDATA[Small models, big results: Achieving superior intent extraction through decomposition]]&gt;</description>
-      <pubDate>Thu, 22 Jan 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/</guid>
+      <title>具身启元，智创未来——上海国际具身智能产业博览会新闻发布会在京隆重召开</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-23-3</link>
+      <description>&lt;![CDATA[具身启元，智创未来——上海国际具身智能产业博览会新闻发布会在京隆重召开]]&gt;</description>
+      <pubDate>Fri, 23 Jan 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-23-3</guid>
       <category>Ai</category>
     </item>
   </channel>

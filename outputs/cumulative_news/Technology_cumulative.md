@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-22 23:23
+**最后更新时间**: 2026-01-23 05:29
+
+---
+
+## 🆕 最新更新 (2026-01-23 05:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [射频芯片开启新的卡位赛](https://www.tmtpost.com/7852278.html)
+**发布时间**: 2026-01-23 13:22
+
+#### [90后酒店投二代，开始批量回家接班](https://www.tmtpost.com/7853033.html)
+**发布时间**: 2026-01-23 12:49
+
+#### [起底特斯拉 Dojo3：马斯克「全新科技帝国」的一枚棋子](https://www.tmtpost.com/7853038.html)
+**发布时间**: 2026-01-23 12:49
+
+#### [第11届ECI国际数字创新节在粤港澳大湾区成功举办 | 全球创新力量聚首湾区 数字未来照亮世界](https://www.tmtpost.com/7852262.html)
+**发布时间**: 2026-01-23 12:38
+
+#### [马斯克在达沃斯放出2026时间表：AI超人类、机器人开售、自动驾驶普及](https://www.tmtpost.com/7853055.html)
+**发布时间**: 2026-01-23 12:06
+
+#### [关于“脑机接口”，投资者究竟在炒什么？](https://www.tmtpost.com/7853008.html)
+**发布时间**: 2026-01-23 11:46
+
+#### [等了16年，油运超级周期杀回来了？](https://www.tmtpost.com/7852997.html)
+**发布时间**: 2026-01-23 11:37
+
+#### [马斯克说“中国将最终赢得AI竞争”，有什么深意？](https://www.tmtpost.com/7852840.html)
+**发布时间**: 2026-01-23 11:05
+
+#### [战局正酣：国内互联网大厂的AI业务布局现状](https://www.tmtpost.com/7852965.html)
+**发布时间**: 2026-01-23 10:49
+
+#### [2026年越野车“去越野化”：谁在抢走家庭的下一辆车？](https://www.tmtpost.com/7848531.html)
+**发布时间**: 2026-01-23 10:32
+
+#### [全球AI巨头都在“刷”三体：一个中国IP凭什么成为技术试金石？](https://www.tmtpost.com/7852658.html)
+**发布时间**: 2026-01-23 10:15
+
+#### [不是躺平，是着陆：2025年，年轻人如何重新定义「好好生活」](https://www.tmtpost.com/7852657.html)
+**发布时间**: 2026-01-23 10:00
+
+#### [95亿消费电子大佬，拟“接盘”索尼电视业务](https://www.tmtpost.com/7852642.html)
+**发布时间**: 2026-01-23 10:00
+
+#### [Q4英特尔AI强劲增长，但供应短缺拖累盈利，盘后跌超10%](https://www.tmtpost.com/7852835.html)
+**发布时间**: 2026-01-23 09:52
+
+#### [BJ’s是Costco和沃尔玛的平替选择](https://www.tmtpost.com/7852887.html)
+**发布时间**: 2026-01-23 09:21
+
+#### [巨头游戏里，昆仑万维的AI梦有点贵](https://www.tmtpost.com/7852625.html)
+**发布时间**: 2026-01-23 09:20
+
+#### [科技行业收购潮即将来临，这6只股票有望受益](https://www.tmtpost.com/7852882.html)
+**发布时间**: 2026-01-23 09:17
+
+#### [SpaceX已召集IPO承销银行，这只电信股应声上涨](https://www.tmtpost.com/7852878.html)
+**发布时间**: 2026-01-23 09:14
+
+#### [字节、OpenAI、Meta都在赌一件事](https://www.tmtpost.com/7852572.html)
+**发布时间**: 2026-01-23 09:00
+
+#### [2025新能源汽车大战，谁赢、谁输？](https://www.tmtpost.com/7852512.html)
+**发布时间**: 2026-01-23 08:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何建设人人都能训的大模型技术氛围](https://www.infoq.cn/article/U214fDcWzZZgPlOvl5m4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 12:25
+
+#### [在美国法律管辖权受到质疑之际，亚马逊云科技推出了欧洲主权云服务](https://www.infoq.cn/article/og7i0uWphcTawtJ9ybqg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-23 11:09
+
+#### [“AI工程师”已上岗！微软 CEO 曝正尝试新学徒制模式：内部工程师的顶级实践全变](https://www.infoq.cn/article/9ZTy7eW64XZMNOkZJV1r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-22 18:38
+
+#### [飞猪搭建系统演进：从人工运营到多Agent协同
+搭投生产](https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-21 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 老 Mac 系统恢复指北](https://sspai.com/post/105578)
+**发布时间**: 2026-01-23 11:30
+
+#### [派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等](https://sspai.com/post/105695)
+**发布时间**: 2026-01-23 08:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特斯拉新使命背后的生死时速](http://www.huxiu.com/article/4828802.html?f=wangzhan)
+**发布时间**: 2026-01-23 09:25
 
 ---
 
