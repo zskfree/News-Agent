@@ -2665,6 +2665,36 @@
         "link": "https://www.infoq.cn/article/og7i0uWphcTawtJ9ybqg?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 23 Jan 2026 11:09:00 GMT",
         "first_seen": "2026-01-23T05:30:43.420089"
+      },
+      "d50c6bf4aaea1c29303a503bf89c9a4cf884e4bd4f68465a10b6e4fd0d125572": {
+        "title": "平头哥拆分IPO：阿里AI战略的“最后拼图”浮出水面",
+        "link": "https://www.tmtpost.com/7852630.html",
+        "published_date": "Fri, 23 Jan 2026 14:26:00 GMT",
+        "first_seen": "2026-01-23T08:33:43.494404"
+      },
+      "5d356b8bfa53e7125cc71637b61652ec353987046fd16e02d02312565134b803": {
+        "title": "How U.S. and Chinese CIOs See Their Role in Responsible AI and Cross-border Business?",
+        "link": "https://www.tmtpost.com/7852753.html",
+        "published_date": "Fri, 23 Jan 2026 14:43:00 GMT",
+        "first_seen": "2026-01-23T08:33:43.494411"
+      },
+      "d991bc7a516eebb22cce6b2d7dd532f0f12be971a55f1735a3419946042e97d4": {
+        "title": "IDC：人形机器人在六大场景大规模商用，智元登顶五大场景",
+        "link": "https://www.infoq.cn/article/xJZepWGP6dmoQ8AJpNbF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 15:09:00 GMT",
+        "first_seen": "2026-01-23T08:33:43.494412"
+      },
+      "ed957f8421aea04bf98efb5ef6dde1394de28684a05ae0d7f706f959fa449907": {
+        "title": "英特尔：AI CPU火热造势，“冰冷”指引浇灭了期待？",
+        "link": "https://www.tmtpost.com/7852924.html",
+        "published_date": "Fri, 23 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-23T08:33:43.494414"
+      },
+      "6223a7fa0bfb2e5302cd58eb192e83d2b19dad1f3f0cc1494753fa4d614b19bc": {
+        "title": "重回1元/W时代？2026年光伏组件价格有三重强支撑",
+        "link": "https://www.tmtpost.com/7852900.html",
+        "published_date": "Fri, 23 Jan 2026 16:16:00 GMT",
+        "first_seen": "2026-01-23T08:33:43.494416"
       }
     },
     "Finance": {
@@ -4491,6 +4521,12 @@
         "link": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
         "published_date": "Fri, 23 Jan 2026 00:44:00 GMT",
         "first_seen": "2026-01-23T05:30:10.411134"
+      },
+      "a6d4e88fd3f7e759625de22279e3aca32a1d4a2bf9470f012b664b85575c1b83": {
+        "title": "Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’",
+        "link": "https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828",
+        "published_date": "Fri, 23 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.114502"
       }
     },
     "Ai": {
@@ -6689,13 +6725,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-23-3",
         "published_date": "Fri, 23 Jan 2026 10:50:00 GMT",
         "first_seen": "2026-01-23T05:30:20.797334"
+      },
+      "390b29d38a5a2abcd2fcc0542b76de3e92e54d982cadf2ed13b797b4e11ba656": {
+        "title": "启动经费550万起！全球顶级AI人才看过来",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-7",
+        "published_date": "Fri, 23 Jan 2026 15:05:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.235495"
+      },
+      "a68d5097bd3f0de1390341afb7f2d51e2596bcccbf6f3092620670e81c3a05c7": {
+        "title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-6",
+        "published_date": "Fri, 23 Jan 2026 14:58:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.235503"
+      },
+      "3e49236be39d6ec84e700221f0f6fbc1a5ae083c19903a5cb45ba734a499335c": {
+        "title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-5",
+        "published_date": "Fri, 23 Jan 2026 14:04:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.235506"
+      },
+      "7ee5e7c54cb145927f98d44375c25ffb70f179ff23aaf5da09a170ea7f9d7b16": {
+        "title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+        "link": "https://www.qbitai.com/2026/01/371924.html",
+        "published_date": "Fri, 23 Jan 2026 06:09:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.235508"
+      },
+      "9ab88471adb54f19170a39d35f82622c47fc46b08048f5a15128685d982c0ddb": {
+        "title": "2026-01-23日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-23/",
+        "published_date": "Fri, 23 Jan 2026 07:16:00 GMT",
+        "first_seen": "2026-01-23T08:33:21.235510"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-23T05:30:43.420091",
-    "Finance": "2026-01-23T05:30:10.411136",
-    "Ai": "2026-01-23T05:30:20.797337"
+    "Technology": "2026-01-23T08:33:43.494418",
+    "Finance": "2026-01-23T08:33:21.114509",
+    "Ai": "2026-01-23T08:33:21.235512"
   }
 }

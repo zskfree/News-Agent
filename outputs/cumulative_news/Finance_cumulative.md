@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-23 05:29
+**最后更新时间**: 2026-01-23 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-23 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’](https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828)
+**发布时间**: 2026-01-23 07:15
+
+#### [Trump’s tariff ‘shock regime’ tests Wall Street’s mettle](https://www.ft.com/content/cb1a8211-ac60-4cb2-b68f-955f3d0f98f5)
+**发布时间**: 2026-01-23 05:00
+
+#### [‘Waiting for the king’: how Trump dominated Davos](https://www.ft.com/content/49286969-ab39-4cbd-bb18-f563cc2eb31b)
+**发布时间**: 2026-01-23 05:00
+
+#### [Greenland has had enough of Trump](https://www.ft.com/content/726fd41e-a9d9-43ac-afaf-cc7257b1a387)
+**发布时间**: 2026-01-23 05:00
+
+#### [Is liberal democracy in terminal decline?](https://www.ft.com/content/b4d2c7a3-587d-440f-a7a9-7e5e85b93a88)
+**发布时间**: 2026-01-23 05:00
+
+#### [Lessons for business in Trumpian uncertainty](https://www.ft.com/content/deb0b172-0e47-410c-b458-d4319877bcd6)
+**发布时间**: 2026-01-23 05:00
+
+#### [Revolut scraps US merger plans in favour of push for standalone licence](https://www.ft.com/content/908e261f-2b78-4798-8aa2-aff2e828d31a)
+**发布时间**: 2026-01-23 05:00
+
+#### [TikTok finalises Trump deal to stay online in US](https://www.ft.com/content/b905cb50-3093-4273-b097-4cedc835fadd)
+**发布时间**: 2026-01-23 01:31
+
+#### [UK consumer confidence marks 10 years without a positive reading](https://www.ft.com/content/66eb1b1b-7fdd-46d1-bd5b-dc5c1245381a)
+**发布时间**: 2026-01-23 00:01
 
 ---
 
