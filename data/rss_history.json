@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fb8e95a9d409c903247684f494aed8aaa53c3b8d180bb569049d5cbd91947824": {
-        "title": "英特尔股价下跌，原因在于英伟达",
-        "link": "https://www.tmtpost.com/7820791.html",
-        "published_date": "Thu, 25 Dec 2025 12:36:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518486"
-      },
-      "4782e1ccaa40b65781940d8ea4f3a3e342276d510b4cbf5b8c6b82efb1d30651": {
-        "title": "对话蔡恒进：当AI有了自我意识，我们如何与之共处？",
-        "link": "https://www.tmtpost.com/7820525.html",
-        "published_date": "Thu, 25 Dec 2025 11:13:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518493"
-      },
-      "d47cb5aa0ec036f8cd16b581723c66e592cea2cfebdf63ab23a5c9b2177c18ed": {
-        "title": "在资本赛道狂飙，在漆黑路口熄火：Waymo的2025扩张悖论",
-        "link": "https://www.tmtpost.com/7820700.html",
-        "published_date": "Thu, 25 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518495"
-      },
-      "4e7a37335078a6baf5e100bad9efbd32f1384623054d2f625dc239571dcabdbf": {
-        "title": "日薪300，我在后厂村“手搓”人形机器人",
-        "link": "https://www.tmtpost.com/7820717.html",
-        "published_date": "Thu, 25 Dec 2025 13:04:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518497"
-      },
-      "9f5f3aa4e3a0872f7852a2872cbc5470a4cf4b5db7d0ee10aa0d49b59bc839d3": {
-        "title": "长单潮带动4000亿大扩产，储能走在了光伏过剩的老路上",
-        "link": "https://www.tmtpost.com/7820441.html",
-        "published_date": "Thu, 25 Dec 2025 11:18:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518499"
-      },
       "41fa095c60e6ad6f9483cf31e81f83f1f8b1525538a361c56ca36cf94527fc30": {
         "title": "“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅",
         "link": "https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&utm_medium=article",
@@ -2665,21 +2635,39 @@
         "link": "https://www.tmtpost.com/7853415.html",
         "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
         "first_seen": "2026-01-23T23:24:35.940329"
+      },
+      "39e43df0a4c7d7409b30e015e859b91d98600b24180b4828c5b47275e591159f": {
+        "title": "ChatGPT也开始内测广告，AI们集体变身“首席卖货官”",
+        "link": "https://www.tmtpost.com/7853804.html",
+        "published_date": "Sat, 24 Jan 2026 09:10:00 GMT",
+        "first_seen": "2026-01-24T05:28:38.427338"
+      },
+      "b88c54841e9768b48902f7c305026885c22d0e5d53a638f3448c462af5bbe168": {
+        "title": "谈AI入口争夺为时尚早，但大厂们的心思藏不住了",
+        "link": "https://www.tmtpost.com/7853742.html",
+        "published_date": "Sat, 24 Jan 2026 09:32:00 GMT",
+        "first_seen": "2026-01-24T05:28:38.427345"
+      },
+      "a15dc8faac28353589e7643d690e6bf9289ea635bc5c052ddc1f3695bec12678": {
+        "title": "北美AI大额融资清单在押什么：两年兑现门槛与方向变化",
+        "link": "https://www.tmtpost.com/7853281.html",
+        "published_date": "Sat, 24 Jan 2026 09:50:00 GMT",
+        "first_seen": "2026-01-24T05:28:38.427347"
+      },
+      "4f52a2a2f24a949a92c7ac5453af21a640b9eea4b3f7f7ca413395a47011cb81": {
+        "title": "又一家“GPU四小龙”来了，估值200亿，燧原科技冲刺科创板",
+        "link": "https://www.tmtpost.com/7854015.html",
+        "published_date": "Sat, 24 Jan 2026 09:16:00 GMT",
+        "first_seen": "2026-01-24T05:28:38.427349"
+      },
+      "f1bd81ea95eba9b74ad0e86c3e874dbe8a89b7b8cd4dc0eb982222aec0cb9338": {
+        "title": "“反AI联盟”，要和时代唱反调?",
+        "link": "https://www.tmtpost.com/7853938.html",
+        "published_date": "Sat, 24 Jan 2026 09:42:00 GMT",
+        "first_seen": "2026-01-24T05:28:38.427350"
       }
     },
     "Finance": {
-      "c41a663a2981256f72b9df2ad5c28a5fe0dc32c4b37f366ec138e58fca03432e": {
-        "title": "For investors, the real gift from Wall Street comes one day after Christmas",
-        "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Dec 2025 00:58:00 GMT",
-        "first_seen": "2025-12-25T05:25:53.867343"
-      },
-      "fd71f1ea852fac2b61b23b3285c2d38b08b6b2278207937995844e72a05b6818": {
-        "title": "Nvidia to poach top staff from AI chip start-up Groq in licensing deal",
-        "link": "https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45",
-        "published_date": "Wed, 24 Dec 2025 23:36:00 GMT",
-        "first_seen": "2025-12-25T05:25:53.867352"
-      },
       "1d57b73489ce90f8a3dd62269dce008eab3240abbf1a5d3a8edbe74f6411ed9f": {
         "title": "For investors, the real gift from Wall Street comes a day after Christmas",
         "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
@@ -4497,39 +4485,27 @@
         "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
         "published_date": "Fri, 23 Jan 2026 21:29:00 GMT",
         "first_seen": "2026-01-23T23:23:55.358524"
+      },
+      "3ce093f939f4b83ab7cf5cf98332abfbe33183004f22d93759878ab65c08c580": {
+        "title": "US unveils national defence strategy to counter China in Indo-Pacific",
+        "link": "https://www.ft.com/content/a0153971-1e92-4ff8-b603-e393e7b6c93f",
+        "published_date": "Sat, 24 Jan 2026 03:08:00 GMT",
+        "first_seen": "2026-01-24T05:28:23.286320"
+      },
+      "802656b07185121dc8e788705757f6d6f36138d3fe7d451a5e1b0d7f235b8d50": {
+        "title": "Gold records best week since 2008 as Greenland crisis rattles dollar",
+        "link": "https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946",
+        "published_date": "Fri, 23 Jan 2026 23:32:00 GMT",
+        "first_seen": "2026-01-24T05:28:23.286328"
+      },
+      "d163577538ef738ed551c4d83400246625d65614742bc3ab5458c39c95365bac": {
+        "title": "This is what caused Friday’s sudden spike in the Japanese yen",
+        "link": "https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc?mod=mw_rss_topstories",
+        "published_date": "Fri, 23 Jan 2026 23:29:00 GMT",
+        "first_seen": "2026-01-24T05:28:23.286330"
       }
     },
     "Ai": {
-      "3ef0e88a23426358207cbcce5bd44ce2f5d387521ad69654a53c036972a2101c": {
-        "title": "TPU惹急黄仁勋，200亿美元拿下「TPU之父」核心团队、技术授权",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-5",
-        "published_date": "Thu, 25 Dec 2025 11:41:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337576"
-      },
-      "017fc8cb0c3afd318194aafd875f40beb4c199059579fcac4f3f6916f421252a": {
-        "title": "刷新NAVSIM SOTA，复旦引望提出Masked Diffusion端到端自动驾驶新框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-4",
-        "published_date": "Thu, 25 Dec 2025 11:37:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337583"
-      },
-      "fe3479fa2ec9a69b7348ef777599b2a0363ce8922b6b15057acb13adeb25a560": {
-        "title": "V-Thinker: 让模型像人一样「边画边想」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25",
-        "published_date": "Thu, 25 Dec 2025 10:22:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337585"
-      },
-      "5943574d707cca83d297788835e196f853e35871c78332d5de2d9100556a0868": {
-        "title": "光帆科技全球首款具备视觉感知能力的主动式AI耳机正式发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-3",
-        "published_date": "Thu, 25 Dec 2025 10:34:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337587"
-      },
-      "899077cf3dad83822e38bb34bfc0260d5de17902b39b6f700ba61918ae0bc0ed": {
-        "title": "用编程大模型登顶开源第一后，智谱GLM团队被拷问了3小时",
-        "link": "https://www.qbitai.com/2025/12/365787.html",
-        "published_date": "Thu, 25 Dec 2025 02:33:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337589"
-      },
       "c81075e2171f7e15574f81ed06b01ddc432ab2c6f3462ff6b75227ac0e781a09": {
         "title": "模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索",
         "link": "https://www.jiqizhixin.com/articles/2025-12-25-7",
@@ -6695,13 +6671,19 @@
         "link": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
         "published_date": "Fri, 23 Jan 2026 17:46:00 GMT",
         "first_seen": "2026-01-23T23:24:08.093575"
+      },
+      "b793f5ec2e6fba2d4159d1346e0c1860f9694c806773634af0b57ac34ceb4d5c": {
+        "title": "2026-01-24日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-24/",
+        "published_date": "Sat, 24 Jan 2026 07:16:00 GMT",
+        "first_seen": "2026-01-24T05:28:23.403074"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-23T23:24:35.940331",
-    "Finance": "2026-01-23T23:23:55.358526",
-    "Ai": "2026-01-23T23:24:08.093577"
+    "Technology": "2026-01-24T05:28:38.427352",
+    "Finance": "2026-01-24T05:28:23.286333",
+    "Ai": "2026-01-24T05:28:23.403082"
   }
 }

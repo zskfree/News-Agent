@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-23 23:23
+**最后更新时间**: 2026-01-24 05:28
+
+---
+
+## 🆕 最新更新 (2026-01-24 05:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US unveils national defence strategy to counter China in Indo-Pacific](https://www.ft.com/content/a0153971-1e92-4ff8-b603-e393e7b6c93f)
+**发布时间**: 2026-01-24 03:08
+
+#### [Gold records best week since 2008 as Greenland crisis rattles dollar](https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946)
+**发布时间**: 2026-01-23 23:32
+
+#### [Yen rallies as ‘rate check’ sparks intervention speculation](https://www.ft.com/content/0cff24f9-3c5e-4aff-966a-ff34ef448a2d)
+**发布时间**: 2026-01-23 22:55
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This is what caused Friday’s sudden spike in the Japanese yen](https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 23:29
+
+#### [Investors should be wary of buying the dip if the S&P 500 falls to this level](https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories)
+**发布时间**: 2026-01-23 22:27
 
 ---
 
