@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "41fa095c60e6ad6f9483cf31e81f83f1f8b1525538a361c56ca36cf94527fc30": {
-        "title": "“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅",
-        "link": "https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-25T08:31:32.281971"
-      },
-      "ec7a80bcd161ecdd5799440d77cf7b77da1636953eda406cfd0f7582a2f11ec2": {
-        "title": "从 RAG 到 Context：2025 年 RAG 技术年终总结",
-        "link": "https://www.infoq.cn/article/L452I9YAB4gaKJMmiY0T?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Dec 2025 15:45:00 GMT",
-        "first_seen": "2025-12-25T08:31:32.281977"
-      },
-      "329eaf12170e81ec56abb31120b9867a099d4bd5de124ba61a059dc875cb3301": {
-        "title": "摆脱智能手机，可穿戴设备是否存在另一条AI路线？",
-        "link": "https://www.tmtpost.com/7821014.html",
-        "published_date": "Thu, 25 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-25T08:31:32.281980"
-      },
-      "b27427168f5498cc83320fe137d14f3072adc4c7e2d10d63e666ccbf687fcd10": {
-        "title": "构建可扩展的流媒体基础设施：因为观众不会等到明天",
-        "link": "https://www.infoq.cn/article/yYOOhUV40sCTSHfc8kXi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Dec 2025 15:18:00 GMT",
-        "first_seen": "2025-12-25T08:31:32.281982"
-      },
-      "2f741deee9305a38e3f722c7e8573ed23c104d088d4843aed353e571f3f1f938": {
-        "title": "Target公司借助生成式AI推荐将“加入购物车”互动率提升11%",
-        "link": "https://www.infoq.cn/article/Tya5gqfshHYf17PU0G8f?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-25T08:31:32.281984"
-      },
       "97bca788d251682e3e85819d6bac90c88acb7974bb3b73a52933f126957648ff": {
         "title": "黄仁勋200亿美金“招安”高中辍学生！英伟达挖空Groq TPU核心人才，逼财务官上位CEO，英特尔18A遭弃",
         "link": "https://www.infoq.cn/article/ywtOCg5JFBJXyREtjHcU?utm_source=rss&utm_medium=article",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7853917.html",
         "published_date": "Sat, 24 Jan 2026 09:29:00 GMT",
         "first_seen": "2026-01-24T08:30:12.580208"
+      },
+      "4bd88bf98dc92c04aa9fc8f9328c66d6934b4cf73d68b67c8ed2c7833894a478": {
+        "title": "爱优腾开“卷”分账模式，长视频主动“挤泡沫”？",
+        "link": "https://www.tmtpost.com/7853880.html",
+        "published_date": "Sat, 24 Jan 2026 09:21:00 GMT",
+        "first_seen": "2026-01-24T23:22:28.056079"
+      },
+      "bd115842378eee3c43b40a49f4a68b676b4cf0a1fd8283264beaa6d9e0f4f37d": {
+        "title": "今年百大UP背后，B站的阳谋",
+        "link": "http://www.huxiu.com/article/4829114.html?f=wangzhan",
+        "published_date": "Sat, 24 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-24T23:22:28.056086"
+      },
+      "76ec7d1cac6bb31df6f409e7529272a27a4e43cb598ef2f4e959b418c61e85bb": {
+        "title": "CFO汪骏走了，妨碍爱奇艺2026“来财”吗？",
+        "link": "https://www.tmtpost.com/7853981.html",
+        "published_date": "Sat, 24 Jan 2026 09:19:00 GMT",
+        "first_seen": "2026-01-24T23:22:28.056088"
+      },
+      "b8fe0657d682ae412eafb83ed1e43a97e0e1f716ad10b7fe61b5353bff151478": {
+        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
+        "link": "https://sspai.com/post/105679",
+        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-24T23:22:28.056090"
+      },
+      "8e28d485785ede7339592e9b263c787a10bb91bb0215c814fed3de5b95d339a3": {
+        "title": "2026，谁会成为餐饮业的“超级链接者”？",
+        "link": "https://www.tmtpost.com/7854021.html",
+        "published_date": "Sat, 24 Jan 2026 09:23:00 GMT",
+        "first_seen": "2026-01-24T23:22:28.056091"
       }
     },
     "Finance": {
@@ -4533,39 +4533,39 @@
         "link": "https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc?mod=mw_rss_topstories",
         "published_date": "Fri, 23 Jan 2026 23:29:00 GMT",
         "first_seen": "2026-01-24T05:28:23.286330"
+      },
+      "36c92a91fd8006cc976b15033a23f73cdb99127f8ecc7177baa418030f06c19e": {
+        "title": "Trump threatens 100% tariffs on Canada if it seals trade deal with China",
+        "link": "https://www.ft.com/content/cfba49b6-feb6-4982-b61d-6ec6cba5c845",
+        "published_date": "Sat, 24 Jan 2026 18:07:00 GMT",
+        "first_seen": "2026-01-24T23:22:01.045631"
+      },
+      "8f4701e1ad8d31770d2a349da7b6e4d990a1a061575ace3745b29d5d0d1d52e5": {
+        "title": "67 million Americans could lose telehealth coverage in the coming days unless Congress approves funding",
+        "link": "https://www.marketwatch.com/story/67-million-americans-could-lose-telehealth-coverage-in-the-coming-days-unless-congress-approves-funding-5693cf1d?mod=mw_rss_topstories",
+        "published_date": "Sat, 24 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-24T23:22:01.045639"
+      },
+      "e8bd54eb6141bc421291ec103fd4a5e8e3713ce09cf369ec06d0e7402ed881a2": {
+        "title": "Yes, ‘DOGE’ put our Social Security data at risk. Here’s what lawmakers are doing about it.",
+        "link": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
+        "published_date": "Sat, 24 Jan 2026 20:37:00 GMT",
+        "first_seen": "2026-01-24T23:22:01.045642"
+      },
+      "9aaf2fd1beada767c8cc0254fcb042b2c4dfebf93621528e1f28ebb96c3c461a": {
+        "title": "Yes, you still need an emergency fund in retirement. Here’s how much you should have.",
+        "link": "https://www.marketwatch.com/story/yes-you-still-need-an-emergency-fund-in-retirement-heres-how-much-you-should-have-3611fd2f?mod=mw_rss_topstories",
+        "published_date": "Sat, 24 Jan 2026 20:35:00 GMT",
+        "first_seen": "2026-01-24T23:22:01.045644"
+      },
+      "659f23d2238bfd5893ae6fff5231864de89c6753833549ad0c1e7017a4672801": {
+        "title": "Marriage can be great for your finances — but avoid these 3 mistakes",
+        "link": "https://www.marketwatch.com/story/marriage-can-be-great-for-your-finances-but-watch-out-for-these-3-mistakes-57549260?mod=mw_rss_topstories",
+        "published_date": "Sat, 24 Jan 2026 20:37:00 GMT",
+        "first_seen": "2026-01-24T23:22:01.045646"
       }
     },
     "Ai": {
-      "c81075e2171f7e15574f81ed06b01ddc432ab2c6f3462ff6b75227ac0e781a09": {
-        "title": "模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-7",
-        "published_date": "Thu, 25 Dec 2025 14:21:00 GMT",
-        "first_seen": "2025-12-25T08:31:13.294629"
-      },
-      "33cfc2f30787c5fe6f981092d986a329ad5da16f6db7cde075ad67a6bd7bc1c5": {
-        "title": "字节Seed发布最强数学模型：一招“打草稿”，IMO银牌变金牌",
-        "link": "https://www.qbitai.com/2025/12/365878.html",
-        "published_date": "Thu, 25 Dec 2025 06:10:00 GMT",
-        "first_seen": "2025-12-25T08:31:13.294638"
-      },
-      "2b4d6f56d73081181f7fd72bf46518bdd6f4b0755f42d6b73a09467429d4c6d2": {
-        "title": "微软定目标：2030年，彻底删除C、C++代码，换成Rust",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-2",
-        "published_date": "Thu, 25 Dec 2025 10:25:00 GMT",
-        "first_seen": "2025-12-25T08:31:13.294641"
-      },
-      "5f020cbadc392268ca630266da0b9995a9bc339361db097568e398e8c50ba26d": {
-        "title": "越狱成功率飙升至87.6%，南京大学联合美团、上交破解主流视频生成模型安全漏洞",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-6",
-        "published_date": "Thu, 25 Dec 2025 14:20:00 GMT",
-        "first_seen": "2025-12-25T08:31:13.294642"
-      },
-      "fbd05760f2d26fef92fae403a69f2d40259b0a7560de695c80effed6f83f4bab": {
-        "title": "腾讯按下AI加速键，人才、组织、开源动作密集",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-9",
-        "published_date": "Thu, 25 Dec 2025 14:32:00 GMT",
-        "first_seen": "2025-12-25T08:31:13.294644"
-      },
       "407c5babd70f2e8bd31639260fe37149808be119f399b6a41a6a14c55796c717": {
         "title": "单卡2秒生成一个视频！清华联手生数开源TurboDiffusion，视频DeepSeek时刻来了",
         "link": "https://www.qbitai.com/2025/12/365896.html",
@@ -6707,13 +6707,43 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-24/",
         "published_date": "Sat, 24 Jan 2026 07:16:00 GMT",
         "first_seen": "2026-01-24T05:28:23.403074"
+      },
+      "d58a7d2eb24d3cd58a7fd0771bd88f8b58cc05df67435abc1e0f7da6ca29f602": {
+        "title": "LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-2",
+        "published_date": "Sat, 24 Jan 2026 20:20:00 GMT",
+        "first_seen": "2026-01-24T23:22:12.779730"
+      },
+      "b002f1db17782b801bb0ea2dccbbbe325124bccbe1d44f0ac0949e17600099cf": {
+        "title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-6",
+        "published_date": "Sat, 24 Jan 2026 20:42:00 GMT",
+        "first_seen": "2026-01-24T23:22:12.779736"
+      },
+      "9014b233386b38a4b15e15b036ed79e297eff34ef47adf832123c83fc8e9cc1d": {
+        "title": "挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-5",
+        "published_date": "Sat, 24 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-24T23:22:12.779739"
+      },
+      "856c197dbf8f2054c0d8d3d867d07e7802336204101064ac89b573af4ace2854": {
+        "title": "不止于Prompt：揭秘「神经网络可重编程性」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-4",
+        "published_date": "Sat, 24 Jan 2026 20:31:00 GMT",
+        "first_seen": "2026-01-24T23:22:12.779740"
+      },
+      "e6999cb47d0b7880b972dde263c526777ee17198e4cfdd3e050d1d9b4907df17": {
+        "title": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24",
+        "published_date": "Sat, 24 Jan 2026 20:14:00 GMT",
+        "first_seen": "2026-01-24T23:22:12.779742"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-24T08:30:12.580210",
-    "Finance": "2026-01-24T05:28:23.286333",
-    "Ai": "2026-01-24T05:28:23.403082"
+    "Technology": "2026-01-24T23:22:28.056093",
+    "Finance": "2026-01-24T23:22:01.045648",
+    "Ai": "2026-01-24T23:22:12.779745"
   }
 }
