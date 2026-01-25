@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 24 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Jan 2026 23:22:12 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 05:29:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 05:29:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-24-2</link>
-      <description>&lt;![CDATA[LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好]]&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 20:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-24-2</guid>
+      <title>斯坦福「返老还童」新研究：无需干细胞，逆转关节损伤和老化</title>
+      <link>https://www.qbitai.com/2026/01/372343.html</link>
+      <description>&lt;![CDATA[斯坦福「返老还童」新研究：无需干细胞，逆转关节损伤和老化]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 03:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372343.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-24-6</link>
-      <description>&lt;![CDATA[估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」]]&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 20:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-24-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-24-5</link>
-      <description>&lt;![CDATA[挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环]]&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 20:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-24-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不止于Prompt：揭秘「神经网络可重编程性」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-24-4</link>
-      <description>&lt;![CDATA[不止于Prompt：揭秘「神经网络可重编程性」]]&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 20:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-24-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>音频-视觉全模态的未来预测，FutureOmni给出了首份答卷</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-24</link>
-      <description>&lt;![CDATA[音频-视觉全模态的未来预测，FutureOmni给出了首份答卷]]&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 20:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-24</guid>
+      <title>2026-01-25日刊</title>
+      <link>https://ai.hubtoday.app//2026-01/2026-01-25/</link>
+      <description>&lt;![CDATA[2026-01-25日刊]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-25/</guid>
       <category>Ai</category>
     </item>
   </channel>
