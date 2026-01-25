@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-25 05:29
+**最后更新时间**: 2026-01-25 08:30
+
+---
+
+## 🆕 最新更新 (2026-01-25 08:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm](https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 07:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US to invest $1.6bn into rare earths group in bid to shore up key minerals](https://www.ft.com/content/0a337dc3-5a12-4c82-87b5-f2340378006c)
+**发布时间**: 2026-01-24 23:29
 
 ---
 

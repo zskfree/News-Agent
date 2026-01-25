@@ -2665,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7854648.html",
         "published_date": "Sun, 25 Jan 2026 10:39:00 GMT",
         "first_seen": "2026-01-25T05:30:13.415057"
+      },
+      "676ecd9336c700ba935bdaf585ee339b279d91df745446ed90399df62c2ed2b7": {
+        "title": "马斯克新宣言引爆A股，隆基绿能、东方日升等30多光伏股涨停，太空光伏进入产业化倒计时",
+        "link": "https://www.tmtpost.com/7854297.html",
+        "published_date": "Sun, 25 Jan 2026 08:42:00 GMT",
+        "first_seen": "2026-01-25T08:30:27.972617"
+      },
+      "c0f0b57dce51e3201c97942548623054b07bb38dc82781bf1dbcea40eacc2f11": {
+        "title": "AI录音笔市场井喷：大厂的硬件梦和用户放弃成本",
+        "link": "https://www.tmtpost.com/7854373.html",
+        "published_date": "Sun, 25 Jan 2026 08:46:00 GMT",
+        "first_seen": "2026-01-25T08:30:27.972623"
+      },
+      "00a53dbe3214934074059ce260f68ce6e56b9951dd6f2342bfcfc7b93222b465": {
+        "title": "TCL收编索尼电视",
+        "link": "https://www.tmtpost.com/7854289.html",
+        "published_date": "Sun, 25 Jan 2026 12:03:00 GMT",
+        "first_seen": "2026-01-25T08:30:27.972626"
+      },
+      "8a15bc427072b2fd09935edde2db1890b952ab42dbec5ea76dc96b4e77f8ba00": {
+        "title": "宇树，不认第二",
+        "link": "https://www.tmtpost.com/7854497.html",
+        "published_date": "Sun, 25 Jan 2026 08:50:00 GMT",
+        "first_seen": "2026-01-25T08:30:27.972628"
+      },
+      "e17a7d998a362e4275114ab4fc9afcef7b700913a42c403de9d1304645ea9554": {
+        "title": "4 个本周最火火火的 GitHub 开源项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530782&idx=1&sn=c8d75db5c20ca31b06e20584c6a3dba3",
+        "published_date": "Sun, 25 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-25T08:30:27.972630"
       }
     },
     "Finance": {
@@ -4497,6 +4527,12 @@
         "link": "https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f",
         "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-25T05:29:49.811278"
+      },
+      "6f5cf03cad26816b877c3acfee447947d310f94acbb076b5db68b55178c8855c": {
+        "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
+        "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
+        "published_date": "Sun, 25 Jan 2026 07:30:00 GMT",
+        "first_seen": "2026-01-25T08:30:14.478737"
       }
     },
     "Ai": {
@@ -6628,8 +6664,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-25T05:30:13.415060",
-    "Finance": "2026-01-25T05:29:49.811281",
+    "Technology": "2026-01-25T08:30:27.972632",
+    "Finance": "2026-01-25T08:30:14.478743",
     "Ai": "2026-01-25T05:29:49.928839"
   }
 }

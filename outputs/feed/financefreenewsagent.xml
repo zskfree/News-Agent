@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 05:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 05:29:49 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 08:30:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 08:30:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Middle powers may miss the global order more than they think</title>
-      <link>https://www.ft.com/content/647d375b-26f6-4bf3-ac68-175558ba6ab0</link>
-      <description>&lt;![CDATA[Middle powers may miss the global order more than they think]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/647d375b-26f6-4bf3-ac68-175558ba6ab0</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>No laughing matter as Lebanon goes after its comedians</title>
-      <link>https://www.ft.com/content/f8dd74d4-c532-4adb-b148-27b2a63e8840</link>
-      <description>&lt;![CDATA[No laughing matter as Lebanon goes after its comedians]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f8dd74d4-c532-4adb-b148-27b2a63e8840</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Link MPs’ pay to GDP, says UK business secretary</title>
-      <link>https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f</link>
-      <description>&lt;![CDATA[Link MPs’ pay to GDP, says UK business secretary]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f</guid>
+      <title>‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm</title>
+      <link>https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
