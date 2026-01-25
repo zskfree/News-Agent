@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 05:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 05:29:49 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 23:22:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>斯坦福「返老还童」新研究：无需干细胞，逆转关节损伤和老化</title>
-      <link>https://www.qbitai.com/2026/01/372343.html</link>
-      <description>&lt;![CDATA[斯坦福「返老还童」新研究：无需干细胞，逆转关节损伤和老化]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 03:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372343.html</guid>
+      <title>17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-25-4</link>
+      <description>&lt;![CDATA[17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-01-25日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-25/</link>
-      <description>&lt;![CDATA[2026-01-25日刊]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-25/</guid>
+      <title>国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-25-3</link>
+      <description>&lt;![CDATA[国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-25</link>
+      <description>&lt;![CDATA[拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 20:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-25-6</link>
+      <description>&lt;![CDATA[谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 21:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不读博士，照样进OpenAI！o1核心成员现身说法了</title>
+      <link>https://www.qbitai.com/2026/01/372364.html</link>
+      <description>&lt;![CDATA[不读博士，照样进OpenAI！o1核心成员现身说法了]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372364.html</guid>
       <category>Ai</category>
     </item>
   </channel>

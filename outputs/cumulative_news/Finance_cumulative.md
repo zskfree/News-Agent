@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-25 08:30
+**最后更新时间**: 2026-01-25 23:22
+
+---
+
+## 🆕 最新更新 (2026-01-25 23:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings](https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 23:19
+
+#### [About 20,000 U.S. flights have been canceled due to the winter storm — and counting](https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 22:18
+
+#### [‘I need protein shakes’: Couples disagree about panic-buying for this weekend’s snowstorm](https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 21:47
+
+#### [These 5 tech stocks could be big winners this earnings season](https://www.marketwatch.com/story/these-5-tech-stocks-could-be-big-winners-this-earnings-season-0556bf47?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 20:58
+
+#### [Here’s what investors want even more than a Fed interest-rate cut this week](https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 20:29
+
+#### [The Fed is expected to stand pat this week. The big question is for how long?](https://www.marketwatch.com/story/the-fed-is-expected-to-stand-pat-this-week-the-big-question-is-for-how-long-bf52d957?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 20:13
+
+#### [More Americans are choosing Obamacare plans they can’t afford in first look at ACA without enhanced tax credits](https://www.marketwatch.com/story/more-americans-are-choosing-obamacare-plans-they-cant-afford-in-first-look-at-aca-without-enhanced-tax-credits-7615353b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 17:39
+
+#### [Why having four kids is now a luxury most parents can’t afford](https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-25 17:06
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump faces growing backlash against immigration crackdown after shooting](https://www.ft.com/content/ceace997-eb6d-43ac-8a64-7a2c6a19e54b)
+**发布时间**: 2026-01-25 22:59
+
+#### [Democrats unite to threaten shutdown over immigration raids](https://www.ft.com/content/fbe5cd7c-e1dd-4e25-b09f-69a76b5b16a3)
+**发布时间**: 2026-01-25 21:16
+
+#### [Labour party tensions mount as Andy Burnham is blocked from standing as an MP](https://www.ft.com/content/6c62a6cb-b235-434e-8cf7-3dffbb91fad9)
+**发布时间**: 2026-01-25 19:10
+
+#### [A city under siege: Minneapolis reels after another killing](https://www.ft.com/content/6642d7c7-d623-49b4-9bcf-0e9f7c65b4e0)
+**发布时间**: 2026-01-25 14:15
+
+#### [China’s military says top general undermined Xi’s authority](https://www.ft.com/content/f052e439-7b61-4370-aaac-dda1d1d06483)
+**发布时间**: 2026-01-25 13:00
+
+#### [How one year of ‘America First’ left workers behind](https://www.ft.com/content/1afa8e7a-0073-4cec-9c86-751b472397e8)
+**发布时间**: 2026-01-25 12:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 08:30:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 08:30:14 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2026 23:22:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm</title>
-      <link>https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 07:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories</guid>
+      <title>U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings</title>
+      <link>https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 23:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Here’s what investors want even more than a Fed interest-rate cut this week</title>
+      <link>https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Here’s what investors want even more than a Fed interest-rate cut this week]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The Fed is expected to stand pat this week. The big question is for how long?</title>
+      <link>https://www.marketwatch.com/story/the-fed-is-expected-to-stand-pat-this-week-the-big-question-is-for-how-long-bf52d957?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Fed is expected to stand pat this week. The big question is for how long?]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 20:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-fed-is-expected-to-stand-pat-this-week-the-big-question-is-for-how-long-bf52d957?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>More Americans are choosing Obamacare plans they can’t afford in first look at ACA without enhanced tax credits</title>
+      <link>https://www.marketwatch.com/story/more-americans-are-choosing-obamacare-plans-they-cant-afford-in-first-look-at-aca-without-enhanced-tax-credits-7615353b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[More Americans are choosing Obamacare plans they can’t afford in first look at ACA without enhanced tax credits]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 17:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/more-americans-are-choosing-obamacare-plans-they-cant-afford-in-first-look-at-aca-without-enhanced-tax-credits-7615353b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How one year of ‘America First’ left workers behind</title>
+      <link>https://www.ft.com/content/1afa8e7a-0073-4cec-9c86-751b472397e8</link>
+      <description>&lt;![CDATA[How one year of ‘America First’ left workers behind]]&gt;</description>
+      <pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1afa8e7a-0073-4cec-9c86-751b472397e8</guid>
       <category>Finance</category>
     </item>
   </channel>
