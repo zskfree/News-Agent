@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 05:33
+**最后更新时间**: 2026-01-26 08:35
+
+---
+
+## 🆕 最新更新 (2026-01-26 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI全自主产出剧本，会革了短剧编剧的“命”吗？](https://www.tmtpost.com/7855165.html)
+**发布时间**: 2026-01-26 16:12
+
+#### [腾讯云的AI阳谋：绕开价格战，押注SaaS与生态“确定性”](https://www.tmtpost.com/7855249.html)
+**发布时间**: 2026-01-26 15:38
+
+#### [年入10亿、全球第二，“中国版Kindle”的故事过气了吗？](https://www.tmtpost.com/7855171.html)
+**发布时间**: 2026-01-26 15:36
+
+#### [国产AI芯企上市浪潮的核心逻辑](https://www.tmtpost.com/7855237.html)
+**发布时间**: 2026-01-26 14:56
+
+#### [王传福、魏建军、李斌、李想们，将在2026年进入“超级智力”竞赛周期](https://www.tmtpost.com/7855270.html)
+**发布时间**: 2026-01-26 14:25
+
+#### [500亿美元估值AI明星初创内讧，创始团队分裂，上演“回归OpenAI”大戏](https://www.tmtpost.com/7855435.html)
+**发布时间**: 2026-01-26 14:11
+
+#### [Sharpa幕后股东曝光，具身智能将迎来“ChatGPT时刻”](https://www.tmtpost.com/7855077.html)
+**发布时间**: 2026-01-26 13:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？](https://sspai.com/post/105685)
+**发布时间**: 2026-01-26 15:24
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [美团在 GitHub 上悄悄开源 AI 大模型？8 个大脑并行，绝了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530906&idx=1&sn=3ca8b7567391f2d01f5b4df0b2095309)
+**发布时间**: 2026-01-26 15:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [永辉巨亏21亿，胖东来外人真的学不会？](http://www.huxiu.com/article/4829516.html?f=wangzhan)
+**发布时间**: 2026-01-26 14:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [千亿级请求下，飞猪如何将广告外投系统超时率爆降至0.01%](https://www.infoq.cn/article/wbygEP7MOJfR7btgiWvo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 13:26
+
+#### [刚刚，旷视联创印奇出任阶跃星辰董事长](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 10:20
 
 ---
 

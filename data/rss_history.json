@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "881af9abb6cfba2c1b9bb7576527932e6a5daf3430ea7ad96da56ebbd9d961b5": {
-        "title": "AI时代，开放互联网还有没有机会？",
-        "link": "https://www.tmtpost.com/7822997.html",
-        "published_date": "Sat, 27 Dec 2025 14:17:00 GMT",
-        "first_seen": "2025-12-27T08:29:21.614607"
-      },
-      "ba924df1affe3b5bd3bdcd483c1162c28d183b374945c7c40058d3bc91d5302f": {
-        "title": "存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？",
-        "link": "https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 27 Dec 2025 13:37:00 GMT",
-        "first_seen": "2025-12-27T08:29:21.614614"
-      },
-      "b19c7c9e2c72f41897c849dbaabb650da9f7731607f79c03d5ccde4cfcfe3632": {
-        "title": "国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响",
-        "link": "https://www.tmtpost.com/7823004.html",
-        "published_date": "Sat, 27 Dec 2025 14:55:00 GMT",
-        "first_seen": "2025-12-27T08:29:21.614616"
-      },
-      "8b6c98a43470869a8ba77ddab4fcafb9f3da42cb1d3c7972acfb5cd3df7e123f": {
-        "title": "手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？",
-        "link": "https://www.tmtpost.com/7822967.html",
-        "published_date": "Sat, 27 Dec 2025 13:46:00 GMT",
-        "first_seen": "2025-12-27T08:29:21.614618"
-      },
-      "c377283ec96f78f2e9af6dbf5718a6c953172179838a5a0637e1a402754225bd": {
-        "title": "1000亿资金进场，风险投资国家队要干件“大”事 | 马上评",
-        "link": "https://www.tmtpost.com/7823014.html",
-        "published_date": "Sat, 27 Dec 2025 14:13:00 GMT",
-        "first_seen": "2025-12-27T08:29:21.614620"
-      },
       "4ae7bc393c9df4855b7e92125be48efd3a4861c6c51d88a7298025c0fd16accb": {
         "title": "1400亿收编Groq，英伟达的收购史，以及黄仁勋的并购逻辑",
         "link": "https://www.tmtpost.com/7822982.html",
@@ -2665,15 +2635,39 @@
         "link": "https://www.tmtpost.com/7855247.html",
         "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
         "first_seen": "2026-01-26T05:34:34.621967"
+      },
+      "d24ea59036ee9cd289834c06d5e0b34f20856f01e3c488689ee45d1d7a9a50db": {
+        "title": "Sharpa幕后股东曝光，具身智能将迎来“ChatGPT时刻”",
+        "link": "https://www.tmtpost.com/7855077.html",
+        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-26T08:36:38.723325"
+      },
+      "306c56e208d958c3f7c907519ab4d1b5e4638297696c00a4913b45dde9052515": {
+        "title": "腾讯云的AI阳谋：绕开价格战，押注SaaS与生态“确定性”",
+        "link": "https://www.tmtpost.com/7855249.html",
+        "published_date": "Mon, 26 Jan 2026 15:38:00 GMT",
+        "first_seen": "2026-01-26T08:36:38.723334"
+      },
+      "73e40d8d2753a77f9b09019607fba75bda1e9919a99077842f6286d07997758c": {
+        "title": "国产AI芯企上市浪潮的核心逻辑",
+        "link": "https://www.tmtpost.com/7855237.html",
+        "published_date": "Mon, 26 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-26T08:36:38.723336"
+      },
+      "e9a32ce46bd01bd1733829537e0cc08fc616067ed98031aefab7ed9af3ee8b0a": {
+        "title": "王传福、魏建军、李斌、李想们，将在2026年进入“超级智力”竞赛周期",
+        "link": "https://www.tmtpost.com/7855270.html",
+        "published_date": "Mon, 26 Jan 2026 14:25:00 GMT",
+        "first_seen": "2026-01-26T08:36:38.723338"
+      },
+      "d9bf6ab3baceda30b0a0b7c86c9c82aca6c7525b0de6ed96aa9561fc484ff5df": {
+        "title": "AI全自主产出剧本，会革了短剧编剧的“命”吗？",
+        "link": "https://www.tmtpost.com/7855165.html",
+        "published_date": "Mon, 26 Jan 2026 16:12:00 GMT",
+        "first_seen": "2026-01-26T08:36:38.723339"
       }
     },
     "Finance": {
-      "3716e2eb14d15275def723afdb3723d6d49f3429f5cba0dfdec9680b34f5014b": {
-        "title": "Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens",
-        "link": "https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77",
-        "published_date": "Sat, 27 Dec 2025 08:02:00 GMT",
-        "first_seen": "2025-12-27T08:28:54.992532"
-      },
       "075497d785d593bbd675324726b48b69486fa928f588d7b29cd332ba4300f223": {
         "title": "America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills.",
         "link": "https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories",
@@ -4527,6 +4521,12 @@
         "link": "https://www.ft.com/content/801c2f56-bde5-428f-b974-2569aa47cb40",
         "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-26T05:34:00.133260"
+      },
+      "295839a073d9cf41bb9c47d4100dc14658cfc7e0b1be508f3dbd2cc78a91e0f2": {
+        "title": "Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate",
+        "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Jan 2026 08:33:00 GMT",
+        "first_seen": "2026-01-26T08:36:00.795013"
       }
     },
     "Ai": {
@@ -6647,13 +6647,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-26-4",
         "published_date": "Mon, 26 Jan 2026 13:04:00 GMT",
         "first_seen": "2026-01-26T05:34:15.399747"
+      },
+      "7d26bfad6a2e8ca8c5773c757e97bcc793b986b0a9ad137e4f19c98bee156df1": {
+        "title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
+        "link": "https://www.qbitai.com/2026/01/372589.html",
+        "published_date": "Mon, 26 Jan 2026 06:29:00 GMT",
+        "first_seen": "2026-01-26T08:36:17.844939"
+      },
+      "1d928cda76759af2e9a7f9ad74b050f2a5cafd07b28849cf6e3efb250ec3b507": {
+        "title": "复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-9",
+        "published_date": "Mon, 26 Jan 2026 15:23:00 GMT",
+        "first_seen": "2026-01-26T08:36:17.844946"
+      },
+      "c47a36dac26adc2fde5272ca17e485becf29dba15a7ae535d641ffc1cc51050d": {
+        "title": "将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-8",
+        "published_date": "Mon, 26 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-26T08:36:17.844948"
+      },
+      "1cbf556af2f66d9a2f6715cea813f17b853faec6d27629e2b29bf14bbd1fbe7a": {
+        "title": "“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆",
+        "link": "https://www.qbitai.com/2026/01/372592.html",
+        "published_date": "Mon, 26 Jan 2026 06:36:00 GMT",
+        "first_seen": "2026-01-26T08:36:17.844950"
+      },
+      "35f0073a6d80279ecce5ca279ebb968b2050977a5348b9f774c645bcc1870bf5": {
+        "title": "5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-6",
+        "published_date": "Mon, 26 Jan 2026 13:15:00 GMT",
+        "first_seen": "2026-01-26T08:36:17.844951"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-26T05:34:34.621969",
-    "Finance": "2026-01-26T05:34:00.133262",
-    "Ai": "2026-01-26T05:34:15.399750"
+    "Technology": "2026-01-26T08:36:38.723341",
+    "Finance": "2026-01-26T08:36:00.795019",
+    "Ai": "2026-01-26T08:36:17.844953"
   }
 }
