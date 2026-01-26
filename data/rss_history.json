@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "845aec2eca61a1f68d1f97fe4cd4f7ccca88c0493b3b23de7369478575dfb736": {
-        "title": "能“拯救”英特尔的不是英伟达，而是台积电",
-        "link": "https://www.tmtpost.com/7822595.html",
-        "published_date": "Sat, 27 Dec 2025 09:49:00 GMT",
-        "first_seen": "2025-12-27T05:23:14.338848"
-      },
-      "3266b59fa9bc12200143461354f92fed2a47ae59cc47eede86ab974a6397641e": {
-        "title": "无遥控机器狗走进生活，消费级具身智能时代来了？",
-        "link": "https://www.tmtpost.com/7822826.html",
-        "published_date": "Sat, 27 Dec 2025 11:08:00 GMT",
-        "first_seen": "2025-12-27T05:23:14.338855"
-      },
-      "9c7ebecf50fe5406c4e09e04b1d2e19c1a0ffb22bf300758b49bdd34e9baec4a": {
-        "title": "顺丰、京东、美团打响“天空之战”，无人机重塑物流",
-        "link": "https://www.tmtpost.com/7822523.html",
-        "published_date": "Sat, 27 Dec 2025 08:54:00 GMT",
-        "first_seen": "2025-12-27T05:23:14.338857"
-      },
-      "2fa61162d6981aa47c57c5342016b166ee7c913123e6a755a88323c9a9a3447c": {
-        "title": "用完刚开源的MiniMax，我们决定给它发个工牌",
-        "link": "https://www.infoq.cn/article/6wcUOQyS72vW5bKOVMar?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 27 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-27T05:23:14.338859"
-      },
-      "31b263af03c1fe3dffd1f893d1c7cf9611bc1a68e155ed4360ec98726353221b": {
-        "title": "亚马逊云科技推出 ECS Express 模式，让容器化应用部署更简单",
-        "link": "https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 27 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-27T05:23:14.338861"
-      },
       "881af9abb6cfba2c1b9bb7576527932e6a5daf3430ea7ad96da56ebbd9d961b5": {
         "title": "AI时代，开放互联网还有没有机会？",
         "link": "https://www.tmtpost.com/7822997.html",
@@ -2665,15 +2635,39 @@
         "link": "https://www.tmtpost.com/7854294.html",
         "published_date": "Sun, 25 Jan 2026 17:24:00 GMT",
         "first_seen": "2026-01-25T23:22:53.533887"
+      },
+      "04a9d064d03a9f4d746dd2de50f92234a9c6485249050269d58f99ae3a37f272": {
+        "title": "从技术狂欢到价值兑现，AI大模型下半场怎么打？",
+        "link": "https://www.tmtpost.com/7855023.html",
+        "published_date": "Mon, 26 Jan 2026 08:30:00 GMT",
+        "first_seen": "2026-01-26T05:34:34.621955"
+      },
+      "7c7d43aa2e5c56e9a5472847d772166b59a037e3d3b69e44f859ca9f5f62402b": {
+        "title": "OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆，谷歌这波别急着吹本质还是 OpenAI 失误",
+        "link": "https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 10:51:00 GMT",
+        "first_seen": "2026-01-26T05:34:34.621962"
+      },
+      "583c38086aa174213831dea24dbeb4e309179c8b5f7ab42beb984743b0da46fe": {
+        "title": "AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了",
+        "link": "https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 11:17:00 GMT",
+        "first_seen": "2026-01-26T05:34:34.621964"
+      },
+      "a89b31e51939b142a8e259dc371ccfaabce150d918bd6dfa14fc5f1e79cb537c": {
+        "title": "AI视频三岔路：Sora变现遇阻，可灵务实养家，即梦生态筑梦",
+        "link": "https://www.tmtpost.com/7855198.html",
+        "published_date": "Mon, 26 Jan 2026 13:05:00 GMT",
+        "first_seen": "2026-01-26T05:34:34.621966"
+      },
+      "7419b1ac97eb4a8cf5691b6cb0013f3d50bead5b40eba3741a6f9f0601856c59": {
+        "title": "数据中心的下一个胜负手：跳出AI芯片",
+        "link": "https://www.tmtpost.com/7855247.html",
+        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
+        "first_seen": "2026-01-26T05:34:34.621967"
       }
     },
     "Finance": {
-      "e365cb486d999497939ddefdefa4d766019b7007a2da5901264a3b4c43cc434a": {
-        "title": "Union chief backs calls for a UK-EU customs union",
-        "link": "https://www.ft.com/content/ebd2a3f7-43d7-4cb8-ac68-8a1f6499b320",
-        "published_date": "Sat, 27 Dec 2025 00:01:00 GMT",
-        "first_seen": "2025-12-27T05:23:00.441189"
-      },
       "3716e2eb14d15275def723afdb3723d6d49f3429f5cba0dfdec9680b34f5014b": {
         "title": "Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens",
         "link": "https://www.ft.com/content/9c3051a5-7f08-4555-b437-75527ad51d77",
@@ -4503,15 +4497,39 @@
         "link": "https://www.ft.com/content/1afa8e7a-0073-4cec-9c86-751b472397e8",
         "published_date": "Sun, 25 Jan 2026 12:00:00 GMT",
         "first_seen": "2026-01-25T23:22:24.902112"
+      },
+      "d00305e745d6ca369175c16f23122b9ac76fd15063a455e04e488a7646d5792b": {
+        "title": "Gold now costs more than $5,000 an ounce. Here’s how it got to this milestone price.",
+        "link": "https://www.marketwatch.com/story/gold-now-costs-more-than-5-000-an-ounce-heres-how-it-got-to-this-milestone-price-e34fc376?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Jan 2026 03:38:00 GMT",
+        "first_seen": "2026-01-26T05:34:00.133243"
+      },
+      "a52f0f8626a23b5a7d627d1f3bab53b17609d6eec2dc49c69b78ecb64b41c014": {
+        "title": "European IPO market starts 2026 at record pace, sparking hope of revival",
+        "link": "https://www.ft.com/content/264bf83c-7c5b-4ced-aa4e-edb9327f4986",
+        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-26T05:34:00.133254"
+      },
+      "1bc59d4176b5a1c42858485e21a34b3ccfe02cb0c15475bef523b902f20e2cc3": {
+        "title": "Yen surges on intervention talk",
+        "link": "https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f",
+        "published_date": "Mon, 26 Jan 2026 02:57:00 GMT",
+        "first_seen": "2026-01-26T05:34:00.133256"
+      },
+      "78f1853486864a2020e56588d407258bbf88389fc74ddf3320efd4da7a4ad14b": {
+        "title": "Trump is the wrong answer to the right questions",
+        "link": "https://www.ft.com/content/b32d2bb5-9a07-4f53-a9d3-9535552b5a27",
+        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-26T05:34:00.133258"
+      },
+      "f26b5be684ef1bf55b46b07f24cd64631b6e34544b99285448f628bfe0ed58d3": {
+        "title": "Starmer prepares for Chinese charm offensive",
+        "link": "https://www.ft.com/content/801c2f56-bde5-428f-b974-2569aa47cb40",
+        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-26T05:34:00.133260"
       }
     },
     "Ai": {
-      "732e8e20db9b29bd45508cdd4ac1587627e48551182ac4fbdbf3fa8c27eb0dc9": {
-        "title": "2025-12-27日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-27/",
-        "published_date": "Sat, 27 Dec 2025 12:22:00 GMT",
-        "first_seen": "2025-12-27T05:23:00.556606"
-      },
       "00560f5833ab47132214d6b1c3d8aedfd1ebf7dc8cae17340b6e875bfc4e7cfa": {
         "title": "2025-12-28日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-28/",
@@ -6599,13 +6617,43 @@
         "link": "https://www.qbitai.com/2026/01/372364.html",
         "published_date": "Sun, 25 Jan 2026 12:05:00 GMT",
         "first_seen": "2026-01-25T23:22:36.985998"
+      },
+      "85646c7539c16140749cf5479eda48eef21b9d6f7bd282165f77b23e3da37b28": {
+        "title": "走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-7",
+        "published_date": "Mon, 26 Jan 2026 13:33:00 GMT",
+        "first_seen": "2026-01-26T05:34:15.399735"
+      },
+      "65a7c88335fb0aed9a94ecc0f7fa6342eb5a70314076f4e9221eb09da6af6a15": {
+        "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-5",
+        "published_date": "Mon, 26 Jan 2026 13:08:00 GMT",
+        "first_seen": "2026-01-26T05:34:15.399742"
+      },
+      "73c60d23c2283ab566eb020969af060a463ca98f0c9f59cc5c327280f99fb1fa": {
+        "title": "AAAI 2026杰出论文奖 | ReconVLA：具身智能研究首次获得AI顶级会议最佳论文奖",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-2",
+        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
+        "first_seen": "2026-01-26T05:34:15.399744"
+      },
+      "783282375c79b718c9d83a84942034a734059c1507e8250eec5adb78c9ed40e4": {
+        "title": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26",
+        "published_date": "Mon, 26 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-26T05:34:15.399746"
+      },
+      "7feb9ff77dd7a9afa53066df648d635beca7e4c6c09be8962fd9579b412624d7": {
+        "title": "关于多模态大模型Token压缩技术进展，看这一篇就够了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-4",
+        "published_date": "Mon, 26 Jan 2026 13:04:00 GMT",
+        "first_seen": "2026-01-26T05:34:15.399747"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-25T23:22:53.533889",
-    "Finance": "2026-01-25T23:22:24.902115",
-    "Ai": "2026-01-25T23:22:36.986000"
+    "Technology": "2026-01-26T05:34:34.621969",
+    "Finance": "2026-01-26T05:34:00.133262",
+    "Ai": "2026-01-26T05:34:15.399750"
   }
 }

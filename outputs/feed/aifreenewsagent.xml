@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 23:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 23:22:36 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 05:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 05:34:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-25-4</link>
-      <description>&lt;![CDATA[17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-4</guid>
+      <title>走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-7</link>
+      <description>&lt;![CDATA[走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-25-3</link>
-      <description>&lt;![CDATA[国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 21:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-3</guid>
+      <title>DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-5</link>
+      <description>&lt;![CDATA[DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-25</link>
-      <description>&lt;![CDATA[拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 20:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25</guid>
+      <title>AAAI 2026杰出论文奖 | ReconVLA：具身智能研究首次获得AI顶级会议最佳论文奖</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-2</link>
+      <description>&lt;![CDATA[AAAI 2026杰出论文奖 | ReconVLA：具身智能研究首次获得AI顶级会议最佳论文奖]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 11:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-25-6</link>
-      <description>&lt;![CDATA[谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 21:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-25-6</guid>
+      <title>流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26</link>
+      <description>&lt;![CDATA[流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不读博士，照样进OpenAI！o1核心成员现身说法了</title>
-      <link>https://www.qbitai.com/2026/01/372364.html</link>
-      <description>&lt;![CDATA[不读博士，照样进OpenAI！o1核心成员现身说法了]]&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372364.html</guid>
+      <title>关于多模态大模型Token压缩技术进展，看这一篇就够了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-4</link>
+      <description>&lt;![CDATA[关于多模态大模型Token压缩技术进展，看这一篇就够了]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-4</guid>
       <category>Ai</category>
     </item>
   </channel>

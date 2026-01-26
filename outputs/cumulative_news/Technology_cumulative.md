@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-25 23:22
+**最后更新时间**: 2026-01-26 05:33
+
+---
+
+## 🆕 最新更新 (2026-01-26 05:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI视频三岔路：Sora变现遇阻，可灵务实养家，即梦生态筑梦](https://www.tmtpost.com/7855198.html)
+**发布时间**: 2026-01-26 13:05
+
+#### [魅族三箭齐发，却未取一瓢饮](https://www.tmtpost.com/7855196.html)
+**发布时间**: 2026-01-26 12:02
+
+#### [福信富通：盈利质量堪忧，客户、供应商合作存反常｜IPO观察](https://www.tmtpost.com/7847688.html)
+**发布时间**: 2026-01-26 11:39
+
+#### [数据中心的下一个胜负手：跳出AI芯片](https://www.tmtpost.com/7855247.html)
+**发布时间**: 2026-01-26 11:29
+
+#### [2026春晚，大模型的分水岭](https://www.tmtpost.com/7855248.html)
+**发布时间**: 2026-01-26 10:36
+
+#### [China's Companies Enter 'Going Global 2.0' as Firms Rethink Overseas Expansion Strategies](https://www.tmtpost.com/7855244.html)
+**发布时间**: 2026-01-26 10:26
+
+#### [三足鼎立时代：汽水音乐如何搅动在线音乐市场格局](https://www.tmtpost.com/7855037.html)
+**发布时间**: 2026-01-26 10:00
+
+#### [大银幕，东北文学的失乐园](https://www.tmtpost.com/7854968.html)
+**发布时间**: 2026-01-26 09:00
+
+#### [从技术狂欢到价值兑现，AI大模型下半场怎么打？](https://www.tmtpost.com/7855023.html)
+**发布时间**: 2026-01-26 08:30
+
+#### [Bloom Energy、Lumentum及其他热门股票有望超预期盈利](https://www.tmtpost.com/7855112.html)
+**发布时间**: 2026-01-26 08:12
+
+#### [【钛晨报】GDP增长5%左右！北京公布2026年重点工作；总台2026春晚指定具身大模型机器人公布；报道称三星电子将一季度NAND价格上调100%](https://www.tmtpost.com/7854960.html)
+**发布时间**: 2026-01-26 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站](https://sspai.com/post/105506)
+**发布时间**: 2026-01-26 11:36
+
+#### [派早报：高铁客服和专家回应「高铁二氧化碳超标」](https://sspai.com/post/105741)
+**发布时间**: 2026-01-26 08:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了](https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 11:17
+
+#### [OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆，谷歌这波别急着吹本质还是 OpenAI 失误](https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 10:51
+
+#### [刚刚，前旷视CEO印奇出任阶跃星辰董事长](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 10:20
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [去年涨了147%，今年20多天又涨了30%，白银还能疯涨多久?](http://www.huxiu.com/article/4829374.html?f=wangzhan)
+**发布时间**: 2026-01-26 10:28
 
 ---
 
