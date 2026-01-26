@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 08:35
+**最后更新时间**: 2026-01-26 23:25
+
+---
+
+## 🆕 最新更新 (2026-01-26 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [CoreWeave’s stock soars. Why Nvidia’s fresh bet on the company is so significant.](https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 23:12
+
+#### [Don’t ask your financial adviser to make a market prediction — you won’t like what you hear](https://www.marketwatch.com/story/dont-ask-your-financial-adviser-to-make-a-market-prediction-you-wont-like-what-you-hear-792fd027?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 23:06
+
+#### [Silver is having a meme-stock moment. Just look at these 3 charts.](https://www.marketwatch.com/story/silver-is-having-a-meme-stock-moment-just-look-at-these-3-charts-06de0d97?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 22:31
+
+#### [One in five Americans can’t afford their heating bills this winter as people are blindsided by utility costs](https://www.marketwatch.com/story/one-in-five-americans-cant-afford-their-heating-bills-this-winter-as-the-seasonal-cost-nears-1-000-on-average-17cd6edc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 21:42
+
+#### [How the ICE turmoil in Minnesota is starting to spill over into Wall Street](https://www.marketwatch.com/story/how-the-ice-turmoil-in-minnesota-is-starting-to-spill-over-into-wall-street-f38babb5?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 21:37
+
+#### [Dollar slides to 4-month low on efforts to boost the yen, which could spell trouble for U.S. equities](https://www.marketwatch.com/story/dollar-slides-to-4-month-low-on-efforts-to-boost-the-yen-which-could-spell-trouble-for-u-s-equities-fd1d66f3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 21:29
+
+#### [Gold’s rise above $5,000 shows why it should be in every investor’s portfolio](https://www.marketwatch.com/story/gold-just-made-the-case-for-why-it-should-be-in-every-investors-portfolio-9d7272c1?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 21:26
+
+#### [Amazon’s ‘Melania’ documentary is opening in 2,000 theaters. Will MAGA fill those seats?](https://www.marketwatch.com/story/amazons-melania-documentary-is-opening-in-2-000-theaters-will-maga-fill-those-seats-7fca6cb9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 21:11
+
+#### [‘I have been living in mattress hell’: I bought a dud — twice. How can I get my money back?](https://www.marketwatch.com/story/i-have-been-living-in-mattress-hell-i-bought-a-dud-twice-how-can-i-get-my-money-back-62384d8f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 20:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Dollar sinks to 4-month low and gold soars past $5,000 as yen leaps](https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f)
+**发布时间**: 2026-01-26 22:57
+
+#### [‘Humanity needs to wake up’ to dangers of AI, says Anthropic chief](https://www.ft.com/content/c3098552-7204-4a93-844c-1b8569c9dcb2)
+**发布时间**: 2026-01-26 22:22
+
+#### [Trump signals shift on immigration crackdown as ICE backlash intensifies](https://www.ft.com/content/8b857eac-2b0d-4338-bd92-162d1cb4df1a)
+**发布时间**: 2026-01-26 22:05
+
+#### [Former Citi executive sues bank over handling of sexual harassment claims](https://www.ft.com/content/6b539d0f-d469-40ad-a967-5d712221038a)
+**发布时间**: 2026-01-26 21:10
+
+#### [Suella Braverman becomes latest Tory MP to defect to Reform UK](https://www.ft.com/content/0d8a0f4d-92c4-46b9-bb11-427a461f6494)
+**发布时间**: 2026-01-26 18:42
+
+#### [‘He’s the one who has to pull the trigger’: threat of Streeting still looms over Starmer](https://www.ft.com/content/c470e759-3c32-4819-8c16-ec25d5245463)
+**发布时间**: 2026-01-26 18:26
+
+#### [When Yenterventions work](https://www.ft.com/content/c1e1a981-5e2a-423a-813f-f7327847186a)
+**发布时间**: 2026-01-26 17:44
+
+#### [Former Tory heavyweights launch new centre-right movement](https://www.ft.com/content/5d7780c4-7c5f-4314-ba6a-1e0012adf634)
+**发布时间**: 2026-01-26 16:35
+
+#### [ICE and America’s flailing autocrat](https://www.ft.com/content/623d6558-2d82-4435-852f-0d155f8849d2)
+**发布时间**: 2026-01-26 15:46
+
+#### [How China pulled off a great tech reversal](https://www.ft.com/content/785103f1-1151-45c7-9867-ee65433c29c4)
+**发布时间**: 2026-01-26 15:07
 
 ---
 

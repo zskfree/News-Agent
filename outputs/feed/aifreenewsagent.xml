@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 08:36:17 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 23:25:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化</title>
-      <link>https://www.qbitai.com/2026/01/372589.html</link>
-      <description>&lt;![CDATA[具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 06:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372589.html</guid>
+      <title>复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家</title>
+      <link>https://www.qbitai.com/2026/01/372685.html</link>
+      <description>&lt;![CDATA[复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372685.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-26-9</link>
-      <description>&lt;![CDATA[复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-9</guid>
+      <title>那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线</title>
+      <link>https://www.qbitai.com/2026/01/372824.html</link>
+      <description>&lt;![CDATA[那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372824.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-26-8</link>
-      <description>&lt;![CDATA[将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-8</guid>
+      <title>讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路</title>
+      <link>https://www.qbitai.com/2026/01/372747.html</link>
+      <description>&lt;![CDATA[讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372747.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆</title>
-      <link>https://www.qbitai.com/2026/01/372592.html</link>
-      <description>&lt;![CDATA[“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372592.html</guid>
+      <title>GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-12</link>
+      <description>&lt;![CDATA[GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-26-6</link>
-      <description>&lt;![CDATA[5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-6</guid>
+      <title>腾讯元宝内测“元宝派”，探索社交AI新形态</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-26-11</link>
+      <description>&lt;![CDATA[腾讯元宝内测“元宝派”，探索社交AI新形态]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-11</guid>
       <category>Ai</category>
     </item>
   </channel>

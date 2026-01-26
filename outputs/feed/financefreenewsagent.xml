@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 08:36:00 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 23:25:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate</title>
-      <link>https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 08:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories</guid>
+      <title>How China pulled off a great tech reversal</title>
+      <link>https://www.ft.com/content/785103f1-1151-45c7-9867-ee65433c29c4</link>
+      <description>&lt;![CDATA[How China pulled off a great tech reversal]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/785103f1-1151-45c7-9867-ee65433c29c4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>CoreWeave’s stock soars. Why Nvidia’s fresh bet on the company is so significant.</title>
+      <link>https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[CoreWeave’s stock soars. Why Nvidia’s fresh bet on the company is so significant.]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 23:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dollar sinks to 4-month low and gold soars past $5,000 as yen leaps</title>
+      <link>https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f</link>
+      <description>&lt;![CDATA[Dollar sinks to 4-month low and gold soars past $5,000 as yen leaps]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 22:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>When Yenterventions work</title>
+      <link>https://www.ft.com/content/c1e1a981-5e2a-423a-813f-f7327847186a</link>
+      <description>&lt;![CDATA[When Yenterventions work]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 17:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c1e1a981-5e2a-423a-813f-f7327847186a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How the ICE turmoil in Minnesota is starting to spill over into Wall Street</title>
+      <link>https://www.marketwatch.com/story/how-the-ice-turmoil-in-minnesota-is-starting-to-spill-over-into-wall-street-f38babb5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[How the ICE turmoil in Minnesota is starting to spill over into Wall Street]]&gt;</description>
+      <pubDate>Mon, 26 Jan 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-the-ice-turmoil-in-minnesota-is-starting-to-spill-over-into-wall-street-f38babb5?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

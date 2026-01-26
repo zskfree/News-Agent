@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 08:35
+**最后更新时间**: 2026-01-26 23:25
+
+---
+
+## 🆕 最新更新 (2026-01-26 23:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [思科股价因评级上调而上涨，分析师称其为大盘股中的价值洼地](https://www.tmtpost.com/7856279.html)
+**发布时间**: 2026-01-26 23:19
+
+#### [纽蒙特、自由港等矿业股大涨，因金价飙升，后市有望继续上涨](https://www.tmtpost.com/7856277.html)
+**发布时间**: 2026-01-26 23:19
+
+#### [【养老金研究】破解失能照护困境：全国性养老服务消费补贴政策落地](https://www.tmtpost.com/7856142.html)
+**发布时间**: 2026-01-26 20:20
+
+#### [A股发展能力百强榜出炉，谁是未来的增长引擎？｜上市公司观察](https://www.tmtpost.com/7856137.html)
+**发布时间**: 2026-01-26 20:19
+
+#### [新势力的下半场，小鹏正在换一种跑法](https://www.tmtpost.com/7855537.html)
+**发布时间**: 2026-01-26 20:16
+
+#### [洋河股份的伤口远未愈合](https://www.tmtpost.com/7855805.html)
+**发布时间**: 2026-01-26 19:20
+
+#### [传奇游戏专题研究报告：2026年市场规模突破400亿，在投传奇小游戏增18%](https://www.tmtpost.com/7855538.html)
+**发布时间**: 2026-01-26 19:20
+
+#### [“构建人工智能护栏的全球共识”课题项目启动仪式成功举办 | 机构动态](https://www.tmtpost.com/7855858.html)
+**发布时间**: 2026-01-26 19:18
+
+#### [光刻技术 “跨界” 屏幕制造：维信诺 ViP 技术的底层突破 | 公司动态](https://www.tmtpost.com/7855969.html)
+**发布时间**: 2026-01-26 19:17
+
+#### [永辉真的亏的只能靠半价出售“小辉付”周转了吗？](https://www.tmtpost.com/7856050.html)
+**发布时间**: 2026-01-26 19:17
+
+#### [2026年最值得期待的十款创新疗法](https://www.tmtpost.com/7855367.html)
+**发布时间**: 2026-01-26 19:10
+
+#### [国乙破圈，卡在2.5次元](https://www.tmtpost.com/7855408.html)
+**发布时间**: 2026-01-26 19:10
+
+#### [巨头纷纷下场，翻红的糖水铺能火多久？](https://www.tmtpost.com/7855483.html)
+**发布时间**: 2026-01-26 19:10
+
+#### [黄金疯了后，河里淘金成了起号新套路](https://www.tmtpost.com/7856010.html)
+**发布时间**: 2026-01-26 19:10
+
+#### [AI硬件市场，正在爆发](https://www.tmtpost.com/7856003.html)
+**发布时间**: 2026-01-26 19:10
+
+#### [天价索赔后，欣旺达还能稳当“老六”吗？](https://www.tmtpost.com/7855452.html)
+**发布时间**: 2026-01-26 18:38
+
+#### [联想不相信AI PC泡沫](https://www.tmtpost.com/7855755.html)
+**发布时间**: 2026-01-26 18:38
+
+#### [AI来了，大厂为什么留不住高管？ | 巴伦精选](https://www.tmtpost.com/7855953.html)
+**发布时间**: 2026-01-26 18:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯发力社交AI赛道，元宝内测“元宝派”玩法](https://www.infoq.cn/article/klZi0LdorLWrHvvmMoOJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 18:55
+
+#### [我收集了12条技术社区疯传的Claude Prompt，如今这篇帖子火遍全网](https://www.infoq.cn/article/pDlNcmOaTX2BYwSjBRBY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 18:43
+
+#### [奥特曼小号泄密：OpenAI代码工作100%交给Codex！工程师才揭底Codex“大脑”运行逻辑，碾压Claude架构？](https://www.infoq.cn/article/lqDSzHGW2eYdUxZQjuYN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 17:46
+
+#### [慕了！内存芯片巨头年终奖人均64万；32岁程序员猝死背后公司被扒，曾给39万“封口费”；马斯克曝星舰成本将降99%，商业航天受捧｜AI周报](https://www.infoq.cn/article/XO4MTrrpMLfkwoZWK7hB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 17:34
+
+#### [Arkweb如何正确加载web的当前title？](https://www.infoq.cn/article/VNllfMFUJOfF4C9ulddd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 17:02
+
+#### [AI辅助开发系列专题：现实世界的模式、陷阱和生产就绪情况](https://www.infoq.cn/article/yQ3S96l0rjeBBy9XPpCS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 16:42
+
+#### [阶跃星辰完成50亿大规模融资，印奇挂帅](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 10:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/105782)
+**发布时间**: 2026-01-26 17:53
+
+#### [从「墓碑」到见机行事：iOS 后台机制现状分析](https://sspai.com/prime/story/the-state-of-ios-background-tasks)
+**发布时间**: 2026-01-26 15:46
 
 ---
 

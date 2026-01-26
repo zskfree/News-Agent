@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4ae7bc393c9df4855b7e92125be48efd3a4861c6c51d88a7298025c0fd16accb": {
-        "title": "1400亿收编Groq，英伟达的收购史，以及黄仁勋的并购逻辑",
-        "link": "https://www.tmtpost.com/7822982.html",
-        "published_date": "Sat, 27 Dec 2025 14:31:00 GMT",
-        "first_seen": "2025-12-27T23:22:15.691603"
-      },
-      "10d3defffd4333f7a2b03161982315b8b6cdccd260e19240975dec6ae5c156a8": {
-        "title": "预估3万亿，特斯拉用AI攥住美股的话语权",
-        "link": "https://www.tmtpost.com/7823144.html",
-        "published_date": "Sat, 27 Dec 2025 16:32:00 GMT",
-        "first_seen": "2025-12-27T23:22:15.691609"
-      },
-      "a88199cfb1578b84c3ef0b4fcf2dc77fd81232b13b5fbf4f456bea1e28a53b8e": {
-        "title": "五年半亏55亿，500亿机器人巨头欲A股落子",
-        "link": "https://www.tmtpost.com/7822617.html",
-        "published_date": "Sat, 27 Dec 2025 08:41:00 GMT",
-        "first_seen": "2025-12-27T23:22:15.691611"
-      },
-      "6cec2239389120f587a991dc175367d4574bb2fc93a74a59fe77504d2bf2a3e7": {
-        "title": "百度将于2026年在英国测试无人驾驶；香飘飘拟在泰国投资建设生产基地；小鹏公布中东非市场进展｜一周大公司出海动态",
-        "link": "https://www.tmtpost.com/7823124.html",
-        "published_date": "Sat, 27 Dec 2025 20:01:00 GMT",
-        "first_seen": "2025-12-27T23:22:15.691613"
-      },
-      "155a595fad144d1744fe7b6e809f01b8f95492bbe0345b14285b59cc6dbac0ac": {
-        "title": "GitHub 上 5000 人收藏的 Vibe Coding 神级指南。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529972&idx=1&sn=f5f2730e197afee0df4dbc951e3d0ce5",
-        "published_date": "Sat, 27 Dec 2025 15:03:00 GMT",
-        "first_seen": "2025-12-27T23:22:15.691615"
-      },
       "b4748a7bed8c2c33f064f00f88e0b32e1cc47fad8c8d0fa86f73fe8795410d5b": {
         "title": "什么是DEX的流动性池？",
         "link": "http://www.huxiu.com/article/4820429.html?f=wangzhan",
@@ -2665,27 +2635,39 @@
         "link": "https://www.tmtpost.com/7855165.html",
         "published_date": "Mon, 26 Jan 2026 16:12:00 GMT",
         "first_seen": "2026-01-26T08:36:38.723339"
+      },
+      "a940a398636b8d07b416f069ebb386d94d0b4cd997ed2f71b3ea98654e9c97f7": {
+        "title": "奥特曼小号泄密：OpenAI代码工作100%交给Codex！工程师才揭底Codex“大脑”运行逻辑，碾压Claude架构？",
+        "link": "https://www.infoq.cn/article/lqDSzHGW2eYdUxZQjuYN?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 26 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-26T23:26:17.766881"
+      },
+      "892c2b45514781321e838a06e92eba12881330c58c7166473a0c4bff982c3713": {
+        "title": "光刻技术 “跨界” 屏幕制造：维信诺 ViP 技术的底层突破 | 公司动态",
+        "link": "https://www.tmtpost.com/7855969.html",
+        "published_date": "Mon, 26 Jan 2026 19:17:00 GMT",
+        "first_seen": "2026-01-26T23:26:17.766886"
+      },
+      "6829a304c76ede2a9030786b0b6fb92f27f77318f1d95b4070dfea5fbc933f32": {
+        "title": "AI硬件市场，正在爆发",
+        "link": "https://www.tmtpost.com/7856003.html",
+        "published_date": "Mon, 26 Jan 2026 19:10:00 GMT",
+        "first_seen": "2026-01-26T23:26:17.766888"
+      },
+      "f4ff95fccbe49ce5d4a45a582465afe42dff07a6afbb3cfcc39f56ff872483ed": {
+        "title": "500亿美元估值AI明星初创内讧，创始团队分裂，上演“回归OpenAI”大戏",
+        "link": "https://www.tmtpost.com/7855435.html",
+        "published_date": "Mon, 26 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-26T23:26:17.766890"
+      },
+      "770268f67a7663870df4258ef90250027cb4cee2a39e7fad95c6cbae7113a7f4": {
+        "title": "新势力的下半场，小鹏正在换一种跑法",
+        "link": "https://www.tmtpost.com/7855537.html",
+        "published_date": "Mon, 26 Jan 2026 20:16:00 GMT",
+        "first_seen": "2026-01-26T23:26:17.766891"
       }
     },
     "Finance": {
-      "075497d785d593bbd675324726b48b69486fa928f588d7b29cd332ba4300f223": {
-        "title": "America’s food market is rigged. Look who’s getting rich while many of us struggle with grocery bills.",
-        "link": "https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories",
-        "published_date": "Sat, 27 Dec 2025 21:17:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.808988"
-      },
-      "a58a428cc51eb6a670e4ef9de297e3ef89ec9996a36e00ec43c3b0dcdaed485e": {
-        "title": "‘Is this really what college bowl games have become?’: Critics say goofy Pop-Tarts and Duke’s Mayo sponsorships are overshadowing the football",
-        "link": "https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories",
-        "published_date": "Sat, 27 Dec 2025 18:14:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.808997"
-      },
-      "bacdc72017f81c44a480fce2dab84d0ab04ddec625f501692e7a93f20b869eba": {
-        "title": "Russia launches air attack on Kyiv as Zelenskyy prepares for Trump meeting",
-        "link": "https://www.ft.com/content/a7339abf-741d-43d7-aae7-b6b8330af737",
-        "published_date": "Sat, 27 Dec 2025 20:06:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.808999"
-      },
       "7de422484be90987e18b093d6fbe9a9ea0560e435ba735c312d36ba9d34d1631": {
         "title": "China’s cash-strapped local governments drive record asset-backed securities sales",
         "link": "https://www.ft.com/content/2d9ed75f-b149-4c1a-917a-1215dde5718e",
@@ -4527,39 +4509,39 @@
         "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
         "published_date": "Mon, 26 Jan 2026 08:33:00 GMT",
         "first_seen": "2026-01-26T08:36:00.795013"
+      },
+      "1eca6ec5a31878e502b776af9a992e5f7d107d6ce843cc4c5dc9074b17bbd0a1": {
+        "title": "How China pulled off a great tech reversal",
+        "link": "https://www.ft.com/content/785103f1-1151-45c7-9867-ee65433c29c4",
+        "published_date": "Mon, 26 Jan 2026 15:07:00 GMT",
+        "first_seen": "2026-01-26T23:25:39.794761"
+      },
+      "dd69e325a9c0699c49630743e9985d4a79d4f2574b579f2a86d6542f5b0126bb": {
+        "title": "CoreWeave’s stock soars. Why Nvidia’s fresh bet on the company is so significant.",
+        "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Jan 2026 23:12:00 GMT",
+        "first_seen": "2026-01-26T23:25:39.794768"
+      },
+      "b21ce656b37a4fed03c73dc6ea8801de3e6ea44f96d8f40b5c693c0b3418a281": {
+        "title": "Dollar sinks to 4-month low and gold soars past $5,000 as yen leaps",
+        "link": "https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f",
+        "published_date": "Mon, 26 Jan 2026 22:57:00 GMT",
+        "first_seen": "2026-01-26T23:25:39.794771"
+      },
+      "be9ecd2f84868d53bfa577d6448de5607c73b855b3262e84aacb1bb110b09793": {
+        "title": "When Yenterventions work",
+        "link": "https://www.ft.com/content/c1e1a981-5e2a-423a-813f-f7327847186a",
+        "published_date": "Mon, 26 Jan 2026 17:44:00 GMT",
+        "first_seen": "2026-01-26T23:25:39.794772"
+      },
+      "bdaeb487d72da236cfd17f2cbc1d93ff54b2403f201954c697d6131bb70273b6": {
+        "title": "How the ICE turmoil in Minnesota is starting to spill over into Wall Street",
+        "link": "https://www.marketwatch.com/story/how-the-ice-turmoil-in-minnesota-is-starting-to-spill-over-into-wall-street-f38babb5?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Jan 2026 21:37:00 GMT",
+        "first_seen": "2026-01-26T23:25:39.794774"
       }
     },
     "Ai": {
-      "00560f5833ab47132214d6b1c3d8aedfd1ebf7dc8cae17340b6e875bfc4e7cfa": {
-        "title": "2025-12-28日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-28/",
-        "published_date": "Sun, 28 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.929521"
-      },
-      "542034699b7cf3bc254d3fc89c325e465a5ac79f1211c5c28e08272fe3031f3f": {
-        "title": "AI大佬Karpathy焦虑了：作为程序员，我从未感到如此落后",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-27-4",
-        "published_date": "Sat, 27 Dec 2025 19:34:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.929529"
-      },
-      "9fdd5e9be44fa14214bcbc821a369f570598c8d8a38734f0f68040bffbf11f70": {
-        "title": "告别「单线程」思维：通研院提出NPR框架，让智能体进化出原生的并行推理大脑",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-27-3",
-        "published_date": "Sat, 27 Dec 2025 19:25:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.929532"
-      },
-      "52028a10faf143e89376c732765ad0c79875b5bb2080f5888d530098f7e4f7ff": {
-        "title": "SIGGRAPH Asia 2025｜当视频生成真正「看清一个人」：多视角身份一致、真实光照与可控镜头的统一框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-27-2",
-        "published_date": "Sat, 27 Dec 2025 19:18:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.929534"
-      },
-      "5fbdb3e0a5eaddd1fff0d13ba0708e78ba4d930f9b15b121b6fef0722e374aa5": {
-        "title": "马斯克圣诞礼物：X上所有图片都能一键AI改图了，全球画师暴怒",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-27",
-        "published_date": "Sat, 27 Dec 2025 19:14:00 GMT",
-        "first_seen": "2025-12-27T23:21:58.929536"
-      },
       "556c93f7ccfd0e04a64e9a756f6592441638703ce69c2f5c9e92a29b4517d301": {
         "title": "鸿蒙押注新未来：用AI重写数字世界交互逻辑",
         "link": "https://www.qbitai.com/2025/12/366075.html",
@@ -6677,13 +6659,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-26-6",
         "published_date": "Mon, 26 Jan 2026 13:15:00 GMT",
         "first_seen": "2026-01-26T08:36:17.844951"
+      },
+      "42a7a3a028d8febacd58ab5703bc841d5736cf9efd56ff9b1cbae6d442ae0701": {
+        "title": "复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家",
+        "link": "https://www.qbitai.com/2026/01/372685.html",
+        "published_date": "Mon, 26 Jan 2026 09:35:00 GMT",
+        "first_seen": "2026-01-26T23:25:55.221894"
+      },
+      "b8bfe2c4477181d4574746d76b7c6745786ea8c2613b9b08d157b07678114f34": {
+        "title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+        "link": "https://www.qbitai.com/2026/01/372824.html",
+        "published_date": "Mon, 26 Jan 2026 15:40:00 GMT",
+        "first_seen": "2026-01-26T23:25:55.221900"
+      },
+      "b852cedce8488ca8f1e47c9a8a612e8851cbdbfe82dfb675f575be3f5721f1a1": {
+        "title": "讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路",
+        "link": "https://www.qbitai.com/2026/01/372747.html",
+        "published_date": "Mon, 26 Jan 2026 13:10:00 GMT",
+        "first_seen": "2026-01-26T23:25:55.221902"
+      },
+      "f4bf890321579a4059caaf7369f696ff66d1957ca32dedeba840d17ac77ccb6f": {
+        "title": "GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-12",
+        "published_date": "Mon, 26 Jan 2026 17:45:00 GMT",
+        "first_seen": "2026-01-26T23:25:55.221904"
+      },
+      "5e477555702315dd550ad7c38a8fc9d82d54c0c79a52eb15ab5671d53fd8b752": {
+        "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-26-11",
+        "published_date": "Mon, 26 Jan 2026 16:56:00 GMT",
+        "first_seen": "2026-01-26T23:25:55.221905"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-26T08:36:38.723341",
-    "Finance": "2026-01-26T08:36:00.795019",
-    "Ai": "2026-01-26T08:36:17.844953"
+    "Technology": "2026-01-26T23:26:17.766893",
+    "Finance": "2026-01-26T23:25:39.794776",
+    "Ai": "2026-01-26T23:25:55.221908"
   }
 }
