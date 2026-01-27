@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "17c31a4375eeef31dc1b693df787b922a1a188dd9e10a78d4530fc1aa2f50d08": {
-        "title": "亚马逊云科技扩展 Well-Architected Framework，新增负责任 AI，并更新机器学习与生成式 AI 视角",
-        "link": "https://www.infoq.cn/article/x2ZXdBaKmO2oR7wxO7XD?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Dec 2025 23:59:00 GMT",
-        "first_seen": "2025-12-28T23:21:30.013854"
-      },
-      "72e2dda848b24ddb02b4a6d0646891a7ff3b43a03534472f7843064bbdd47268": {
-        "title": "赵何娟对话张雷：能源成本再降50%，AI时代才会真正到来｜2025 T-EDGE 全球对话",
-        "link": "https://www.tmtpost.com/7823620.html",
-        "published_date": "Sun, 28 Dec 2025 17:02:00 GMT",
-        "first_seen": "2025-12-28T23:21:30.013861"
-      },
-      "7855fefad7c5b2d499867f0b1275f534d589508ee648a454abd6126163f38c73": {
-        "title": "AI正在闯入你的深夜",
-        "link": "https://www.tmtpost.com/7823036.html",
-        "published_date": "Sun, 28 Dec 2025 16:33:00 GMT",
-        "first_seen": "2025-12-28T23:21:30.013863"
-      },
-      "cb94e65f44e724f2ed5ce1fc5897fbd72094086c87a27293ade17244461e91df": {
-        "title": "吉利起诉欣旺达索赔23亿，最“慌”的却是理想和小米？",
-        "link": "https://www.tmtpost.com/7823701.html",
-        "published_date": "Sun, 28 Dec 2025 19:10:00 GMT",
-        "first_seen": "2025-12-28T23:21:30.013865"
-      },
-      "b5ea862c423deb1ecb72cc0bf2a66b2a5e537465acf42230768753713cf696fe": {
-        "title": "通业科技5.6亿元并购，杀入芯片赛道；晶赛科技1元收购，标的“资不抵债”【并购一线】",
-        "link": "https://www.tmtpost.com/7823827.html",
-        "published_date": "Sun, 28 Dec 2025 21:02:00 GMT",
-        "first_seen": "2025-12-28T23:21:30.013867"
-      },
       "ac8d5354a95f03898d1be65cf1e572be5e5bae9bd9a953b3d3203de79790ad99": {
         "title": "“大模型第一股”打响上市前哨战！智谱GLM-4.7 刷新开源编程SOTA，修复代码、终端操作表现超Claude 4.5",
         "link": "https://www.infoq.cn/article/ICEBaOAkFYcYIe9c6lJV?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 27 Jan 2026 15:10:00 GMT",
         "first_seen": "2026-01-27T08:36:31.059266"
+      },
+      "4b17ae582ff6727db65a4bb553e90ee481dcfa00c1a3e304b8a1cbd7cdb73e77": {
+        "title": "宇石空间首发70m级火箭 AS -1 完成交付｜公司动态",
+        "link": "https://www.tmtpost.com/7857581.html",
+        "published_date": "Tue, 27 Jan 2026 22:06:00 GMT",
+        "first_seen": "2026-01-27T23:25:31.287897"
+      },
+      "887d642ca031952d60c74495fbcb0b22414947c050914c5c9de3635e61cc3265": {
+        "title": "Mindverse：用 LoRA + 强化学习，把“通用大模型”升级为“每个人的专属模型”｜公司动态",
+        "link": "https://www.tmtpost.com/7857622.html",
+        "published_date": "Tue, 27 Jan 2026 22:04:00 GMT",
+        "first_seen": "2026-01-27T23:25:31.287904"
+      },
+      "721eb863c8014f71eab46287a6e4aa3ab7a217ecffa9c873b5a5e75da3920a63": {
+        "title": "腾讯元宝，AI版微信？",
+        "link": "https://www.tmtpost.com/7856864.html",
+        "published_date": "Tue, 27 Jan 2026 19:04:00 GMT",
+        "first_seen": "2026-01-27T23:25:31.287906"
+      },
+      "20a4dfdcbc4d200cae86e31ff90f59c93466a90c2e92350f1ae8bbb67cfe3771": {
+        "title": "2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性",
+        "link": "https://www.tmtpost.com/7857802.html",
+        "published_date": "Tue, 27 Jan 2026 19:00:00 GMT",
+        "first_seen": "2026-01-27T23:25:31.287908"
+      },
+      "b64d85edd7c2b4e8a6e7161aaf3a511fd5ce6301ffb68b058d1236fec20604ec": {
+        "title": "构建下一代 AI 系统：可信生成式 AI 的工程蓝图",
+        "link": "https://www.infoq.cn/article/atbgShUTkAqeAFuBIrVT?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 18:07:00 GMT",
+        "first_seen": "2026-01-27T23:25:31.287910"
       }
     },
     "Finance": {
-      "3680405ba0275d36c8199e398ef37ce6d930d17880519b6f4dc657d1d7187a79": {
-        "title": "AI start-ups amass record $150bn funding cushion as bubble fears mount",
-        "link": "https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f",
-        "published_date": "Sun, 28 Dec 2025 21:00:00 GMT",
-        "first_seen": "2025-12-28T23:21:14.993255"
-      },
-      "b94bfaec7125aa135362b5a81efdb393e1ec457878a53903e025ca2e6408fc5d": {
-        "title": "Stocks are on track for a third straight year of stellar returns. Why a fourth isn’t out of the question.",
-        "link": "https://www.marketwatch.com/story/stocks-are-on-track-for-a-third-straight-year-of-stellar-returns-why-a-fourth-isnt-out-of-the-question-d57a1422?mod=mw_rss_topstories",
-        "published_date": "Sun, 28 Dec 2025 17:00:00 GMT",
-        "first_seen": "2025-12-28T23:21:14.993262"
-      },
-      "839c18149b7e9c4cdccdfa774aeb83190b2eee2efbe2fa59ed0b545a0e3db5d9": {
-        "title": "Quantum computing works — now investors will see if the stocks do too",
-        "link": "https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories",
-        "published_date": "Sun, 28 Dec 2025 20:15:00 GMT",
-        "first_seen": "2025-12-28T23:21:14.993265"
-      },
-      "5774f913621bcfed7c8d0e4af248652af7a02c04f88d8ed23b1711631ad83b34": {
-        "title": "I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?",
-        "link": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-        "published_date": "Sun, 28 Dec 2025 19:10:00 GMT",
-        "first_seen": "2025-12-28T23:21:14.993267"
-      },
-      "419a90f5a5cdfb787639f96afd3733779ca66ba046d44fc968060269a342f676": {
-        "title": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
-        "link": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
-        "published_date": "Sun, 28 Dec 2025 19:18:00 GMT",
-        "first_seen": "2025-12-28T23:21:14.993269"
-      },
       "602f14982814a5813b6ea76a195c9f0fa81a4b6e468e48cfb7f62d20c601e568": {
         "title": "‘Capital of capital’: how Abu Dhabi rose as a sovereign wealth power",
         "link": "https://www.ft.com/content/711e670c-4832-49cb-8b10-5018103ec785",
@@ -4557,27 +4527,39 @@
         "link": "https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7",
         "published_date": "Tue, 27 Jan 2026 07:21:00 GMT",
         "first_seen": "2026-01-27T08:36:02.966344"
+      },
+      "6e747857654124537897236d7a6bbe4722df977716e095ac2220cacbb2633e7f": {
+        "title": "Anthropic doubles VC fundraising to $20bn on surging investor demand",
+        "link": "https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5",
+        "published_date": "Tue, 27 Jan 2026 18:47:00 GMT",
+        "first_seen": "2026-01-27T23:24:51.205536"
+      },
+      "b7647df270201e14559b8ceb2d74ddd07ee0bafbec837fb35a48cb569b7162e6": {
+        "title": "US consumer confidence plunges to 12-year low",
+        "link": "https://www.ft.com/content/79ebdce7-6fe3-4221-8d17-b36281f61953",
+        "published_date": "Tue, 27 Jan 2026 18:05:00 GMT",
+        "first_seen": "2026-01-27T23:24:51.205546"
+      },
+      "10f6ca7c343005c5f6f729b83dbcfbfda115076a2fe098ecff1493faae29e27d": {
+        "title": "Why shares of UnitedHealth, Humana and other insurers tanked — and took the Dow with them",
+        "link": "https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories",
+        "published_date": "Tue, 27 Jan 2026 22:12:00 GMT",
+        "first_seen": "2026-01-27T23:24:51.205548"
+      },
+      "2699e817195184b28114404b0915f839a01b4a9f00dc07f24cebb54aba43479a": {
+        "title": "Dollar slides as Trump says he is not concerned with its recent decline",
+        "link": "https://www.ft.com/content/04c785c0-9ca4-4a85-a279-d95c9d8f1f80",
+        "published_date": "Tue, 27 Jan 2026 23:15:00 GMT",
+        "first_seen": "2026-01-27T23:24:51.205550"
+      },
+      "5b79bdadf8ae3bab1bc594034a73feb30f98e240db5507a50407ac2e82382c67": {
+        "title": "UK energy company urges Starmer to ‘embrace’ Chinese technology",
+        "link": "https://www.ft.com/content/0741966d-f5e6-4978-9606-5caa4632ae7d",
+        "published_date": "Tue, 27 Jan 2026 22:30:00 GMT",
+        "first_seen": "2026-01-27T23:24:51.205552"
       }
     },
     "Ai": {
-      "be34f403c04159e2478425832641c355bc7f407a89c1a41f5993abd346f9db02": {
-        "title": "2025-12-29日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-29/",
-        "published_date": "Mon, 29 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-28T23:21:15.141204"
-      },
-      "06aa26c3be07f2c9a860acb6da2b616b4c630f71c33d0da79c50643e2e2ea57d": {
-        "title": "老黄200亿「钞能力」回应谷歌：联手Groq，补上推理短板",
-        "link": "https://www.qbitai.com/2025/12/366084.html",
-        "published_date": "Sun, 28 Dec 2025 14:35:00 GMT",
-        "first_seen": "2025-12-28T23:21:15.141211"
-      },
-      "dc45c5b1f0e9b73684ea38316bb3b89fb8d432b673bbcedb37e5d0c5f0934228": {
-        "title": "](https://www.qbitai.com/2025/11/348474.html)\n**发布时间**: 2025-11-03 10:27\n\n---\n\n## 🆕 最新更新 (2025-11-04 05:20)\n### 📰 来源: [量子位",
-        "link": "https://www.qbitai.com/feed",
-        "published_date": "Sun, 28 Dec 2025 23:20:00 GMT",
-        "first_seen": "2025-12-28T23:21:15.141212"
-      },
       "44f53928681b246fa815c7655eda032a5310f62436d20439db1cf99f5ba17e30": {
         "title": "Groq被收购，失去梦想的员工，人均拿到英伟达的500万美元",
         "link": "https://www.jiqizhixin.com/articles/2025-12-29-2",
@@ -6755,13 +6737,43 @@
         "link": "https://www.qbitai.com/2026/01/373020.html",
         "published_date": "Tue, 27 Jan 2026 06:13:00 GMT",
         "first_seen": "2026-01-27T08:36:13.871908"
+      },
+      "736ab9034eea5122629bc36fd1aa1a858a114f8d820ae9561b24ac2528eb6ccd": {
+        "title": "实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-12",
+        "published_date": "Tue, 27 Jan 2026 18:38:00 GMT",
+        "first_seen": "2026-01-27T23:25:07.889207"
+      },
+      "5683e57f8651d01380f3cd79e7cd5ce737de5ecdb42f140189cb3b825b7bbd60": {
+        "title": "ATLAS: Practical scaling laws for multilingual models",
+        "link": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+        "published_date": "Tue, 27 Jan 2026 18:58:00 GMT",
+        "first_seen": "2026-01-27T23:25:07.889214"
+      },
+      "a05d188abc598737b2a728f3cb4bdf372f4896fbf1b3f2ba6e9b2453d52e82a4": {
+        "title": "英伟达Earth 2开源全新天气预报模型，能生成15天全球预报",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-9",
+        "published_date": "Tue, 27 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-27T23:25:07.889217"
+      },
+      "dab6cccf4eccda9c763134814a37fe17e68bbcdcaf4e079c3b15990702524dbe": {
+        "title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+        "link": "https://www.qbitai.com/2026/01/373113.html",
+        "published_date": "Tue, 27 Jan 2026 14:41:00 GMT",
+        "first_seen": "2026-01-27T23:25:07.889218"
+      },
+      "9beaddbfc2af2a19f4d0dc6e046da192bd306de503c8786c2afe58e488b5b2e5": {
+        "title": "刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-11",
+        "published_date": "Tue, 27 Jan 2026 18:03:00 GMT",
+        "first_seen": "2026-01-27T23:25:07.889220"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-27T08:36:31.059268",
-    "Finance": "2026-01-27T08:36:02.966351",
-    "Ai": "2026-01-27T08:36:13.871910"
+    "Technology": "2026-01-27T23:25:31.287911",
+    "Finance": "2026-01-27T23:24:51.205554",
+    "Ai": "2026-01-27T23:25:07.889223"
   }
 }

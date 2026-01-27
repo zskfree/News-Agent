@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 08:36
+**最后更新时间**: 2026-01-27 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-27 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】23年来首次全面修订，《药品管理法实施条例》将于5月15日施行；中微半导、国科微部分芯片涨价；大批中成药将被淘汰](https://www.tmtpost.com/7858043.html)
+**发布时间**: 2026-01-28 07:20
+
+#### [The Frenzy of Copper Rods in China](https://www.tmtpost.com/7858064.html)
+**发布时间**: 2026-01-27 22:08
+
+#### [宇石空间首发70m级火箭 AS -1 完成交付｜公司动态](https://www.tmtpost.com/7857581.html)
+**发布时间**: 2026-01-27 22:06
+
+#### [Mindverse：用 LoRA + 强化学习，把“通用大模型”升级为“每个人的专属模型”｜公司动态](https://www.tmtpost.com/7857622.html)
+**发布时间**: 2026-01-27 22:04
+
+#### [The Rise or Fall of Multinational Automakers in China](https://www.tmtpost.com/7858056.html)
+**发布时间**: 2026-01-27 21:56
+
+#### [美元指数破位下跌，新兴市场与大宗商品“弱美元”红利还能走多远？](https://www.tmtpost.com/7857904.html)
+**发布时间**: 2026-01-27 19:17
+
+#### [腾讯元宝，AI版微信？](https://www.tmtpost.com/7856864.html)
+**发布时间**: 2026-01-27 19:04
+
+#### [狂飙1034.71%，国产半导体最大赢家现身](https://www.tmtpost.com/7857771.html)
+**发布时间**: 2026-01-27 19:02
+
+#### [憋了20年的大招，新鲜度7%开局，这部电影做错了什么？](https://www.tmtpost.com/7857794.html)
+**发布时间**: 2026-01-27 19:00
+
+#### [2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性](https://www.tmtpost.com/7857802.html)
+**发布时间**: 2026-01-27 19:00
+
+#### [海目星2025年预亏超8.5亿：毛利率陷历史低位，四季度扭亏难消分歧｜看财报](https://www.tmtpost.com/7857199.html)
+**发布时间**: 2026-01-27 18:59
+
+#### [实测腾讯元宝派：AI的尽头是“QQ群管家”？](https://www.tmtpost.com/7857769.html)
+**发布时间**: 2026-01-27 18:59
+
+#### [爱优腾芒长剧阵地战](https://www.tmtpost.com/7857637.html)
+**发布时间**: 2026-01-27 18:55
+
+#### [九鼎新材左手买地、右手诉讼，风电豪赌下的现金流困局](https://www.tmtpost.com/7857780.html)
+**发布时间**: 2026-01-27 18:43
+
+#### [腾讯、字节和百度春节撒钱搞AI，谁能率先跑出来？](https://www.tmtpost.com/7857644.html)
+**发布时间**: 2026-01-27 18:01
+
+#### [AI时代，腾讯需不需另一个微信？](https://www.tmtpost.com/7857668.html)
+**发布时间**: 2026-01-27 18:01
+
+#### [除了马化腾演讲，腾讯年会还透露了哪些信息?](https://www.tmtpost.com/7857649.html)
+**发布时间**: 2026-01-27 18:00
+
+#### [IDC明星企业商誉暴雷！光环新网预亏超7.3亿，8.9亿减值是主因 | 看财报](https://www.tmtpost.com/7857667.html)
+**发布时间**: 2026-01-27 17:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 030 AI 应用榜：字节新品硬刚 Sora，“随变”登顶榜首](https://www.infoq.cn/article/Hiv4SCiXtQMuJ8d9GDCM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 20:00
+
+#### [构建下一代 AI 系统：可信生成式 AI 的工程蓝图](https://www.infoq.cn/article/atbgShUTkAqeAFuBIrVT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 18:07
+
+#### [KOOK 携手火山引擎RTC ，重构游戏开黑新体验](https://www.infoq.cn/article/63IXzjH45sQALokMAd7N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 16:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计](https://sspai.com/post/105807)
+**发布时间**: 2026-01-27 16:48
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [开服即开庭，国产游戏出海史上最严重事故？](http://www.huxiu.com/article/4829479.html?f=wangzhan)
+**发布时间**: 2026-01-27 16:30
 
 ---
 

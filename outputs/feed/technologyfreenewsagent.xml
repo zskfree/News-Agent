@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 08:36:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 08:36:31 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 23:25:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”</title>
-      <link>https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇石空间首发70m级火箭 AS -1 完成交付｜公司动态</title>
+      <link>https://www.tmtpost.com/7857581.html</link>
+      <description>&lt;![CDATA[宇石空间首发70m级火箭 AS -1 完成交付｜公司动态]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7857581.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型</title>
-      <link>https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Mindverse：用 LoRA + 强化学习，把“通用大模型”升级为“每个人的专属模型”｜公司动态</title>
+      <link>https://www.tmtpost.com/7857622.html</link>
+      <description>&lt;![CDATA[Mindverse：用 LoRA + 强化学习，把“通用大模型”升级为“每个人的专属模型”｜公司动态]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 22:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7857622.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构</title>
-      <link>https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯元宝，AI版微信？</title>
+      <link>https://www.tmtpost.com/7856864.html</link>
+      <description>&lt;![CDATA[腾讯元宝，AI版微信？]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7856864.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>野望与远征，自动驾驶开启“大航海时代”</title>
-      <link>https://www.tmtpost.com/7857168.html</link>
-      <description>&lt;![CDATA[野望与远征，自动驾驶开启“大航海时代”]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7857168.html</guid>
+      <title>2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性</title>
+      <link>https://www.tmtpost.com/7857802.html</link>
+      <description>&lt;![CDATA[2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7857802.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker通过Cagent提供AI代理确定性测试</title>
-      <link>https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker通过Cagent提供AI代理确定性测试]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>构建下一代 AI 系统：可信生成式 AI 的工程蓝图</title>
+      <link>https://www.infoq.cn/article/atbgShUTkAqeAFuBIrVT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建下一代 AI 系统：可信生成式 AI 的工程蓝图]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 18:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/atbgShUTkAqeAFuBIrVT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

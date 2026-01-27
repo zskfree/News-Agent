@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 08:36
+**最后更新时间**: 2026-01-27 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-27 23:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Dollar slides as Trump says he is not concerned with its recent decline](https://www.ft.com/content/04c785c0-9ca4-4a85-a279-d95c9d8f1f80)
+**发布时间**: 2026-01-27 23:15
+
+#### [Italy clarifies ICE’s role during Winter Olympics as public backlash grows](https://www.ft.com/content/859536a7-5343-4820-b235-58a9e049fb56)
+**发布时间**: 2026-01-27 22:35
+
+#### [UK energy company urges Starmer to ‘embrace’ Chinese technology](https://www.ft.com/content/0741966d-f5e6-4978-9606-5caa4632ae7d)
+**发布时间**: 2026-01-27 22:30
+
+#### [Trump backs Noem as pressure mounts over deadly deportation raids](https://www.ft.com/content/1e5c105b-1373-479d-8a52-6d0a54aaa360)
+**发布时间**: 2026-01-27 22:28
+
+#### [US health insurer stocks plummet on Trump Medicare spending plan](https://www.ft.com/content/02bc222e-4a66-4440-adb8-517c3ebdc0c0)
+**发布时间**: 2026-01-27 21:13
+
+#### [Iran delegates emergency powers as threat of conflict with US looms](https://www.ft.com/content/47d478e7-c2de-4ed6-8e60-e74c0becde3f)
+**发布时间**: 2026-01-27 18:54
+
+#### [Anthropic doubles VC fundraising to $20bn on surging investor demand](https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5)
+**发布时间**: 2026-01-27 18:47
+
+#### [Intervention will not reverse yen weakness](https://www.ft.com/content/a36ed1c8-9c13-48cd-beeb-c1e9d4619dca)
+**发布时间**: 2026-01-27 18:15
+
+#### [US consumer confidence plunges to 12-year low](https://www.ft.com/content/79ebdce7-6fe3-4221-8d17-b36281f61953)
+**发布时间**: 2026-01-27 18:05
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dollar tumbles to a four-year low as Trump claims it’s ‘doing great’](https://www.marketwatch.com/story/dollar-tumbles-to-a-four-year-low-as-trump-claims-its-doing-great-2a2e9384?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:54
+
+#### [These home buyers are suing one of the biggest mortgage lenders in America. Why you should pay attention.](https://www.marketwatch.com/story/these-home-buyers-are-suing-one-of-the-biggest-mortgage-lenders-in-america-why-you-should-pay-attention-6729bb1a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:31
+
+#### [UnitedHealth’s stock falls 20% after saying it expects revenue to decline in 2026](https://www.marketwatch.com/story/unitedhealths-stock-falls-further-after-saying-it-expects-revenue-to-decline-in-2026-5046edb6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:28
+
+#### [Cloudflare’s stock pops on viral Moltbot. Here’s how a cybersecurity company became the newest AI winner.](https://www.marketwatch.com/story/cloudflares-stock-pops-on-viral-moltbot-heres-how-a-cybersecurity-company-became-the-newest-ai-winner-22e66a6a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:24
+
+#### [Micron’s stock is surging as the company looks to cash in on a ‘desperate’ market](https://www.marketwatch.com/story/microns-stock-is-surging-as-the-company-looks-to-cash-in-on-a-desperate-market-3500e34a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:20
+
+#### [Pinterest is slashing jobs and office space as it switches focus to AI roles](https://www.marketwatch.com/story/pinterest-is-slashing-jobs-and-office-space-as-it-switches-focus-to-ai-roles-a2906654?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:18
+
+#### [Here’s how Amazon is looking to take on Walmart at its own game](https://www.marketwatch.com/story/heres-how-amazon-is-looking-to-take-on-walmart-at-its-own-game-3db54d28?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:13
+
+#### [Why shares of UnitedHealth, Humana and other insurers tanked — and took the Dow with them](https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 22:12
+
+#### [GM’s stock pushes to a new record, as carmaker calls for higher profit ahead](https://www.marketwatch.com/story/general-motors-takes-7-2-billion-charge-on-ev-shift-as-it-boosts-dividend-and-sets-new-buyback-159f1e6d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 21:58
 
 ---
 

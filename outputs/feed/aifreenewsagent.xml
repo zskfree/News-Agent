@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 08:36:13 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 23:25:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-7</link>
-      <description>&lt;![CDATA[高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-7</guid>
+      <title>实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-12</link>
+      <description>&lt;![CDATA[实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-5</link>
-      <description>&lt;![CDATA[蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-5</guid>
+      <title>ATLAS: Practical scaling laws for multilingual models</title>
+      <link>https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</link>
+      <description>&lt;![CDATA[ATLAS: Practical scaling laws for multilingual models]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，DeepSeek又探索新架构了，开源OCR 2</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-8</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek又探索新架构了，开源OCR 2]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-8</guid>
+      <title>英伟达Earth 2开源全新天气预报模型，能生成15天全球预报</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-9</link>
+      <description>&lt;![CDATA[英伟达Earth 2开源全新天气预报模型，能生成15天全球预报]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-6</link>
-      <description>&lt;![CDATA[即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-6</guid>
+      <title>曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本</title>
+      <link>https://www.qbitai.com/2026/01/373113.html</link>
+      <description>&lt;![CDATA[曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373113.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用</title>
-      <link>https://www.qbitai.com/2026/01/373020.html</link>
-      <description>&lt;![CDATA[阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 06:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373020.html</guid>
+      <title>刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-11</link>
+      <description>&lt;![CDATA[刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-11</guid>
       <category>Ai</category>
     </item>
   </channel>
