@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 05:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 05:33:55 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:36:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Big Tech’s borrowing spree raises fears of AI risks in US bond market</title>
-      <link>https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78</link>
-      <description>&lt;![CDATA[Big Tech’s borrowing spree raises fears of AI risks in US bond market]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors may be led into a trap as stock market discards new tariff threats, analyst warns</title>
-      <link>https://www.marketwatch.com/story/investors-may-be-led-into-a-trap-as-stock-market-discards-new-tariff-threats-analyst-warns-44081e86?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Investors may be led into a trap as stock market discards new tariff threats, analyst warns]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-may-be-led-into-a-trap-as-stock-market-discards-new-tariff-threats-analyst-warns-44081e86?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>South Korean auto, pharma stocks rattled after Trump threatens to impose 25% tariffs</title>
-      <link>https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[South Korean auto, pharma stocks rattled after Trump threatens to impose 25% tariffs]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 02:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Next’s coming challenge is life after Simon Wolfson</title>
-      <link>https://www.ft.com/content/a8ef536c-31d0-49aa-9870-cd486bc6c102</link>
-      <description>&lt;![CDATA[Next’s coming challenge is life after Simon Wolfson]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a8ef536c-31d0-49aa-9870-cd486bc6c102</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>KPMG partners jostle for top UK job as boss seeks elevation to global role</title>
-      <link>https://www.ft.com/content/aad92ea6-da1c-42b6-88cc-5f0f5d12c5da</link>
-      <description>&lt;![CDATA[KPMG partners jostle for top UK job as boss seeks elevation to global role]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/aad92ea6-da1c-42b6-88cc-5f0f5d12c5da</guid>
+      <title>UK caps ground rents paid to freeholders</title>
+      <link>https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7</link>
+      <description>&lt;![CDATA[UK caps ground rents paid to freeholders]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 05:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 05:34:19 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:36:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Altman承认“搞砸了”！曝 GPT-5.2 牺牲文采换顶级编程，明年成本降 100 倍，实锤Agent 已能永久干活</title>
-      <link>https://www.infoq.cn/article/pJSXUr4whkkYHZlallq9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Altman承认“搞砸了”！曝 GPT-5.2 牺牲文采换顶级编程，明年成本降 100 倍，实锤Agent 已能永久干活]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pJSXUr4whkkYHZlallq9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”</title>
+      <link>https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里旗舰模型Qwen3-Max-Thinking发布，刷新全球 SOTA 性能纪录！编程能力赶超Gemini 3 Pro、Claude-Opus-4.5</title>
-      <link>https://www.infoq.cn/article/TW0LubMXqqmDGvSTS5s4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里旗舰模型Qwen3-Max-Thinking发布，刷新全球 SOTA 性能纪录！编程能力赶超Gemini 3 Pro、Claude-Opus-4.5]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TW0LubMXqqmDGvSTS5s4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型</title>
+      <link>https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>深扒Minimax与智谱：大模型，一场算力强度与融资耐力的残酷绝杀？</title>
-      <link>https://www.tmtpost.com/7856860.html</link>
-      <description>&lt;![CDATA[深扒Minimax与智谱：大模型，一场算力强度与融资耐力的残酷绝杀？]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 12:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7856860.html</guid>
+      <title>DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构</title>
+      <link>https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能2026前瞻：在资本热浪中上岸“价值闭环”</title>
-      <link>https://www.tmtpost.com/7856716.html</link>
-      <description>&lt;![CDATA[具身智能2026前瞻：在资本热浪中上岸“价值闭环”]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7856716.html</guid>
+      <title>野望与远征，自动驾驶开启“大航海时代”</title>
+      <link>https://www.tmtpost.com/7857168.html</link>
+      <description>&lt;![CDATA[野望与远征，自动驾驶开启“大航海时代”]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7857168.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>理想汽车内部会曝光：必做人形机器人！全网急聘“最好的人”、连跳槽的前员工都要揪回来？</title>
-      <link>https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[理想汽车内部会曝光：必做人形机器人！全网急聘“最好的人”、连跳槽的前员工都要揪回来？]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Docker通过Cagent提供AI代理确定性测试</title>
+      <link>https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Docker通过Cagent提供AI代理确定性测试]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

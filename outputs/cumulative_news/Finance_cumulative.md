@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 05:33
+**最后更新时间**: 2026-01-27 08:36
+
+---
+
+## 🆕 最新更新 (2026-01-27 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK caps ground rents paid to freeholders](https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7)
+**发布时间**: 2026-01-27 07:21
+
+#### [Kirkland & Ellis quits as counsel to Altice USA amid Wall Street pressure](https://www.ft.com/content/a2554f59-b546-44c7-81d4-dfcacb7b2680)
+**发布时间**: 2026-01-27 04:18
+
+#### [Pubs to get £100mn a year support package after business rates U-turn](https://www.ft.com/content/51172017-af4e-4351-b8f3-d17d8bd2cc8a)
+**发布时间**: 2026-01-26 20:29
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 05:34:04 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:36:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，微软全新一代自研AI芯片Maia 200问世</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-2</link>
-      <description>&lt;![CDATA[刚刚，微软全新一代自研AI芯片Maia 200问世]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-2</guid>
+      <title>高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-7</link>
+      <description>&lt;![CDATA[高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-4</link>
-      <description>&lt;![CDATA[性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-4</guid>
+      <title>蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-5</link>
+      <description>&lt;![CDATA[蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型哪里出问题、怎么修，这篇可解释性综述一次讲清</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27</link>
-      <description>&lt;![CDATA[大模型哪里出问题、怎么修，这篇可解释性综述一次讲清]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27</guid>
+      <title>刚刚，DeepSeek又探索新架构了，开源OCR 2</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-8</link>
+      <description>&lt;![CDATA[刚刚，DeepSeek又探索新架构了，开源OCR 2]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-3</link>
-      <description>&lt;![CDATA[跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-3</guid>
+      <title>即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-6</link>
+      <description>&lt;![CDATA[即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！</title>
-      <link>https://www.qbitai.com/2026/01/372848.html</link>
-      <description>&lt;![CDATA[11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 02:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372848.html</guid>
+      <title>阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用</title>
+      <link>https://www.qbitai.com/2026/01/373020.html</link>
+      <description>&lt;![CDATA[阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 06:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373020.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,18 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d34d2d814ed0c89b3aeb400ac5af129250046035ba275406e616e977d7fd76a6": {
-        "title": "推荐 8 个本周 yyds 的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530027&idx=1&sn=51d12ff254c52af9c0d3a6c8e0d1b937",
-        "published_date": "Sun, 28 Dec 2025 15:29:00 GMT",
-        "first_seen": "2025-12-28T08:29:28.861175"
-      },
-      "15a68576c2935f44287f3d15d085c956e64b2eb3078e0854e97a0c9dead72381": {
-        "title": "借 AntiGravity，给个人消费一次「年度盘点」",
-        "link": "https://sspai.com/post/104232",
-        "published_date": "Sun, 28 Dec 2025 15:28:00 GMT",
-        "first_seen": "2025-12-28T08:29:28.861183"
-      },
       "17c31a4375eeef31dc1b693df787b922a1a188dd9e10a78d4530fc1aa2f50d08": {
         "title": "亚马逊云科技扩展 Well-Architected Framework，新增负责任 AI，并更新机器学习与生成式 AI 视角",
         "link": "https://www.infoq.cn/article/x2ZXdBaKmO2oR7wxO7XD?utm_source=rss&utm_medium=article",
@@ -2665,15 +2653,39 @@
         "link": "https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 27 Jan 2026 11:08:00 GMT",
         "first_seen": "2026-01-27T05:34:19.221319"
+      },
+      "28e652a27cdcffb12d741c066e2f4d68171e8e9788120863fac10a378be00f60": {
+        "title": "从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”",
+        "link": "https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 11:58:00 GMT",
+        "first_seen": "2026-01-27T08:36:31.059253"
+      },
+      "b27d17f455e21771e4d108c83f71badec08679e3f873284d728b48b59e90725b": {
+        "title": "让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型",
+        "link": "https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-27T08:36:31.059261"
+      },
+      "27f471ade26f004d52b4b5976981c7d89bc265ae9365bbcf4d294fbab0e6912d": {
+        "title": "DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构",
+        "link": "https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 15:14:00 GMT",
+        "first_seen": "2026-01-27T08:36:31.059263"
+      },
+      "ccf5409449985caac9121fee39821e6de523b2c4b7c2f55f831c4a6aab81a316": {
+        "title": "野望与远征，自动驾驶开启“大航海时代”",
+        "link": "https://www.tmtpost.com/7857168.html",
+        "published_date": "Tue, 27 Jan 2026 16:20:00 GMT",
+        "first_seen": "2026-01-27T08:36:31.059265"
+      },
+      "9731c6905e2a4674752541773ef78fd926884a843ebabc460fa15815273698ce": {
+        "title": "Docker通过Cagent提供AI代理确定性测试",
+        "link": "https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-27T08:36:31.059266"
       }
     },
     "Finance": {
-      "84f1a106471ff58879a28d587fce24ce024edcfcb626acce1d5f884fff0d3ba2": {
-        "title": "Japanese births set to fall below lowest official forecasts in 2025",
-        "link": "https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4",
-        "published_date": "Sun, 28 Dec 2025 05:53:00 GMT",
-        "first_seen": "2025-12-28T08:29:28.666136"
-      },
       "3680405ba0275d36c8199e398ef37ce6d930d17880519b6f4dc657d1d7187a79": {
         "title": "AI start-ups amass record $150bn funding cushion as bubble fears mount",
         "link": "https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f",
@@ -4539,6 +4551,12 @@
         "link": "https://www.ft.com/content/aad92ea6-da1c-42b6-88cc-5f0f5d12c5da",
         "published_date": "Tue, 27 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-27T05:33:55.123955"
+      },
+      "d916487e6ff2d17bf70b3437c0282e2df4dc51d9cfaaa1b3029132bca4b49db2": {
+        "title": "UK caps ground rents paid to freeholders",
+        "link": "https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7",
+        "published_date": "Tue, 27 Jan 2026 07:21:00 GMT",
+        "first_seen": "2026-01-27T08:36:02.966344"
       }
     },
     "Ai": {
@@ -6707,13 +6725,43 @@
         "link": "https://www.qbitai.com/2026/01/372848.html",
         "published_date": "Tue, 27 Jan 2026 02:27:00 GMT",
         "first_seen": "2026-01-27T05:34:04.811809"
+      },
+      "ab35d54754af4d3b3e6ed2fea54b3afc4ebf6219b86acd7299b62ef690bc4455": {
+        "title": "高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-7",
+        "published_date": "Tue, 27 Jan 2026 14:07:00 GMT",
+        "first_seen": "2026-01-27T08:36:13.871894"
+      },
+      "4cefef01e2b0f534a4fab3db300d62d8211306f7535449f6c55f3241c09641a9": {
+        "title": "蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-5",
+        "published_date": "Tue, 27 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-27T08:36:13.871902"
+      },
+      "23176a874e7508c9453564ff909ccf980b7750113da68ceaa111dde1d0aff230": {
+        "title": "刚刚，DeepSeek又探索新架构了，开源OCR 2",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-8",
+        "published_date": "Tue, 27 Jan 2026 14:12:00 GMT",
+        "first_seen": "2026-01-27T08:36:13.871905"
+      },
+      "f28d39ea62c4175341f2214578b37c8b438f8312e62cf4cfa473d47e9b20ef19": {
+        "title": "即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-6",
+        "published_date": "Tue, 27 Jan 2026 13:34:00 GMT",
+        "first_seen": "2026-01-27T08:36:13.871907"
+      },
+      "e1bcc4effa821712b96f855008de9e15246aeb974ed21c7a0c44ac586ea624d9": {
+        "title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+        "link": "https://www.qbitai.com/2026/01/373020.html",
+        "published_date": "Tue, 27 Jan 2026 06:13:00 GMT",
+        "first_seen": "2026-01-27T08:36:13.871908"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-27T05:34:19.221321",
-    "Finance": "2026-01-27T05:33:55.123957",
-    "Ai": "2026-01-27T05:34:04.811812"
+    "Technology": "2026-01-27T08:36:31.059268",
+    "Finance": "2026-01-27T08:36:02.966351",
+    "Ai": "2026-01-27T08:36:13.871910"
   }
 }
