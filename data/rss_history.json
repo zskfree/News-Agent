@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4748a7bed8c2c33f064f00f88e0b32e1cc47fad8c8d0fa86f73fe8795410d5b": {
-        "title": "什么是DEX的流动性池？",
-        "link": "http://www.huxiu.com/article/4820429.html?f=wangzhan",
-        "published_date": "Sun, 28 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.192240"
-      },
-      "13813caee0ecd4917a163bdfa3065c08654cdd1678f7cf8da3c340c4e9113ee7": {
-        "title": "不造车的第五年：2025 年，车企已无法回避华为",
-        "link": "https://www.tmtpost.com/7816110.html",
-        "published_date": "Sun, 28 Dec 2025 09:58:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.192247"
-      },
-      "5436a104ca504f9524a43743d4bcf7d2a2b98a40ccd97a0b5871bcfc1f37bc9b": {
-        "title": "“店员偷拿顾客肉”？80亿紫燕食品又双叒叕“摊上事了”",
-        "link": "https://www.tmtpost.com/7823317.html",
-        "published_date": "Sun, 28 Dec 2025 09:21:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.192249"
-      },
-      "e3b3626f9c90b291172c7bba45fa357fb01784148ea95f34b0626ec184dacb62": {
-        "title": "韩国电解液龙头，拿下“宁王”万亿韩元大单",
-        "link": "https://www.tmtpost.com/7823335.html",
-        "published_date": "Sun, 28 Dec 2025 09:19:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.192251"
-      },
-      "15956941c74a0f287c92a2d8761e88434b04f3216fdffc43ca213538a1c5fe99": {
-        "title": "【数智周报】 中国下半年新上线AI应用共205个；2025年云厂商大模型中标金额突破21亿元；阿里开源全新图像模型Qwen-Image-Layered；2025年第三季度全球云基础设施服务支出达到1026亿美元",
-        "link": "https://www.tmtpost.com/7822224.html",
-        "published_date": "Sun, 28 Dec 2025 08:30:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.192253"
-      },
       "d34d2d814ed0c89b3aeb400ac5af129250046035ba275406e616e977d7fd76a6": {
         "title": "推荐 8 个本周 yyds 的 GitHub 开源项目。",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530027&idx=1&sn=51d12ff254c52af9c0d3a6c8e0d1b937",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7855537.html",
         "published_date": "Mon, 26 Jan 2026 20:16:00 GMT",
         "first_seen": "2026-01-26T23:26:17.766891"
+      },
+      "c34589fde9251c1ad2abee39e944417cea9a89d3e41ea4a5bf6a9f2c45cc769d": {
+        "title": "Altman承认“搞砸了”！曝 GPT-5.2 牺牲文采换顶级编程，明年成本降 100 倍，实锤Agent 已能永久干活",
+        "link": "https://www.infoq.cn/article/pJSXUr4whkkYHZlallq9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 13:00:00 GMT",
+        "first_seen": "2026-01-27T05:34:19.221307"
+      },
+      "90bf15b34ddf7bfea35b32ea3d68f85ea9aba10766f9539283ada9ec446bfe35": {
+        "title": "阿里旗舰模型Qwen3-Max-Thinking发布，刷新全球 SOTA 性能纪录！编程能力赶超Gemini 3 Pro、Claude-Opus-4.5",
+        "link": "https://www.infoq.cn/article/TW0LubMXqqmDGvSTS5s4?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-27T05:34:19.221314"
+      },
+      "6227b9a7c785067de240ff9fde04b1b1a0a2d5109b50799b3f1cd476ab8c4a8a": {
+        "title": "深扒Minimax与智谱：大模型，一场算力强度与融资耐力的残酷绝杀？",
+        "link": "https://www.tmtpost.com/7856860.html",
+        "published_date": "Tue, 27 Jan 2026 12:54:00 GMT",
+        "first_seen": "2026-01-27T05:34:19.221316"
+      },
+      "5a5b34a411b96fe6d05dd002a32b03eb12c1fd46c9819b5018ac40834c1d7916": {
+        "title": "具身智能2026前瞻：在资本热浪中上岸“价值闭环”",
+        "link": "https://www.tmtpost.com/7856716.html",
+        "published_date": "Tue, 27 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-27T05:34:19.221318"
+      },
+      "bd4334239b2a38bda2986e86fd2dd16e9fdca1e9463ed2d889ebb85cf1d6024d": {
+        "title": "理想汽车内部会曝光：必做人形机器人！全网急聘“最好的人”、连跳槽的前员工都要揪回来？",
+        "link": "https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 11:08:00 GMT",
+        "first_seen": "2026-01-27T05:34:19.221319"
       }
     },
     "Finance": {
-      "7de422484be90987e18b093d6fbe9a9ea0560e435ba735c312d36ba9d34d1631": {
-        "title": "China’s cash-strapped local governments drive record asset-backed securities sales",
-        "link": "https://www.ft.com/content/2d9ed75f-b149-4c1a-917a-1215dde5718e",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:38.989433"
-      },
-      "bb21ca5b0b3ae57e83ef1433a060d5e11cf0f3299386445462109920301192bd": {
-        "title": "Europe’s growth prospects depend on German spending spree, economists say",
-        "link": "https://www.ft.com/content/4db902c0-7586-4e24-b388-8c3c78858514",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:38.989440"
-      },
-      "5b37d4b2c38063fb57327db87ae9b1e8e329fafa4242526c51656898d35fc2b1": {
-        "title": "North Sea suffers worst year since 1970s as drillers freeze investment",
-        "link": "https://www.ft.com/content/abc3c550-c657-47ac-977c-64f818abf9f5",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:38.989443"
-      },
-      "7095a69558f7244426cbd3e0394a7fe1f40cc1671f8f06453ef85956a4813d0d": {
-        "title": "Lloyds shuts invoice financing service as small businesses feel squeeze",
-        "link": "https://www.ft.com/content/d1460278-017d-477d-ba82-f81528ce359a",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:38.989445"
-      },
-      "74ad4a51393522b644041c5562b635b68c29214faa276bb554fd51a5c412518a": {
-        "title": "Europe races to placate pharma as Trump turns up the pressure",
-        "link": "https://www.ft.com/content/2f3ebc7c-c47e-4d61-87b6-8a899c9fc737",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T05:26:38.989447"
-      },
       "84f1a106471ff58879a28d587fce24ce024edcfcb626acce1d5f884fff0d3ba2": {
         "title": "Japanese births set to fall below lowest official forecasts in 2025",
         "link": "https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4",
@@ -4539,21 +4509,39 @@
         "link": "https://www.marketwatch.com/story/how-the-ice-turmoil-in-minnesota-is-starting-to-spill-over-into-wall-street-f38babb5?mod=mw_rss_topstories",
         "published_date": "Mon, 26 Jan 2026 21:37:00 GMT",
         "first_seen": "2026-01-26T23:25:39.794774"
+      },
+      "176c2d6fba306ecc23c59a755ae491c8133f1dbd85304dd55e4f624459f79ec2": {
+        "title": "Big Tech’s borrowing spree raises fears of AI risks in US bond market",
+        "link": "https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78",
+        "published_date": "Tue, 27 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-27T05:33:55.123939"
+      },
+      "bdc382df244cfb841c2c1f64a0b795250cac026fcdf19983942c34ff5af373ae": {
+        "title": "Investors may be led into a trap as stock market discards new tariff threats, analyst warns",
+        "link": "https://www.marketwatch.com/story/investors-may-be-led-into-a-trap-as-stock-market-discards-new-tariff-threats-analyst-warns-44081e86?mod=mw_rss_topstories",
+        "published_date": "Tue, 27 Jan 2026 02:30:00 GMT",
+        "first_seen": "2026-01-27T05:33:55.123948"
+      },
+      "10362a41db2fa4a69fa00e26708c0a1984c0b27e946eb56533e9155237c3b8fe": {
+        "title": "South Korean auto, pharma stocks rattled after Trump threatens to impose 25% tariffs",
+        "link": "https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories",
+        "published_date": "Tue, 27 Jan 2026 02:25:00 GMT",
+        "first_seen": "2026-01-27T05:33:55.123951"
+      },
+      "9d1bc4177b6f56ffb14d61d1d44ce41dac4a2eeb7c315369c910a71ca2127bd4": {
+        "title": "Next’s coming challenge is life after Simon Wolfson",
+        "link": "https://www.ft.com/content/a8ef536c-31d0-49aa-9870-cd486bc6c102",
+        "published_date": "Tue, 27 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-27T05:33:55.123953"
+      },
+      "392556253d65aa1d54934a16a811cd80db7e2db19432d23a97c0e133a6b4d2fe": {
+        "title": "KPMG partners jostle for top UK job as boss seeks elevation to global role",
+        "link": "https://www.ft.com/content/aad92ea6-da1c-42b6-88cc-5f0f5d12c5da",
+        "published_date": "Tue, 27 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-27T05:33:55.123955"
       }
     },
     "Ai": {
-      "556c93f7ccfd0e04a64e9a756f6592441638703ce69c2f5c9e92a29b4517d301": {
-        "title": "鸿蒙押注新未来：用AI重写数字世界交互逻辑",
-        "link": "https://www.qbitai.com/2025/12/366075.html",
-        "published_date": "Sun, 28 Dec 2025 03:43:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.138398"
-      },
-      "2552350a5b71ed932f83831432c2c7d7112433705e6ca1f19e9c66b9bd28b382": {
-        "title": "国足缺席世界杯，但中国大模型们集体参赛",
-        "link": "https://www.qbitai.com/2025/12/366066.html",
-        "published_date": "Sun, 28 Dec 2025 03:40:00 GMT",
-        "first_seen": "2025-12-28T05:26:39.138405"
-      },
       "be34f403c04159e2478425832641c355bc7f407a89c1a41f5993abd346f9db02": {
         "title": "2025-12-29日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-29/",
@@ -6689,13 +6677,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-26-11",
         "published_date": "Mon, 26 Jan 2026 16:56:00 GMT",
         "first_seen": "2026-01-26T23:25:55.221905"
+      },
+      "1cf859b1d3933d63b4ce735307377ca7c5cbe42ff64a0a6b1720e5132568f726": {
+        "title": "刚刚，微软全新一代自研AI芯片Maia 200问世",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-2",
+        "published_date": "Tue, 27 Jan 2026 13:07:00 GMT",
+        "first_seen": "2026-01-27T05:34:04.811796"
+      },
+      "15380f21e739fbad4fdcd84efe9277930ad85e4798dad0f4aad104b4534f0b88": {
+        "title": "性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-4",
+        "published_date": "Tue, 27 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-27T05:34:04.811803"
+      },
+      "9e0c84c932aa5be4ea46564cdd73ec6dde39998c55d060db202504d2009b3f51": {
+        "title": "大模型哪里出问题、怎么修，这篇可解释性综述一次讲清",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27",
+        "published_date": "Tue, 27 Jan 2026 13:04:00 GMT",
+        "first_seen": "2026-01-27T05:34:04.811805"
+      },
+      "5a6928d089de1e71a5616ece9f35520090146b409645a28857bad85302597e6a": {
+        "title": "跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-3",
+        "published_date": "Tue, 27 Jan 2026 13:17:00 GMT",
+        "first_seen": "2026-01-27T05:34:04.811807"
+      },
+      "e3f7f509811f9a77ef37f5f4c784c37e3790fc2bb376b17b50340317536aed2e": {
+        "title": "11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！",
+        "link": "https://www.qbitai.com/2026/01/372848.html",
+        "published_date": "Tue, 27 Jan 2026 02:27:00 GMT",
+        "first_seen": "2026-01-27T05:34:04.811809"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-26T23:26:17.766893",
-    "Finance": "2026-01-26T23:25:39.794776",
-    "Ai": "2026-01-26T23:25:55.221908"
+    "Technology": "2026-01-27T05:34:19.221321",
+    "Finance": "2026-01-27T05:33:55.123957",
+    "Ai": "2026-01-27T05:34:04.811812"
   }
 }

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 23:25
+**最后更新时间**: 2026-01-27 05:33
+
+---
+
+## 🆕 最新更新 (2026-01-27 05:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Nato is preparing for war in the Arctic](https://www.ft.com/content/4130ee07-5586-47bc-8631-f0d055e63ce7)
+**发布时间**: 2026-01-27 05:00
+
+#### [Carney, Trump and the power of a good speech](https://www.ft.com/content/1b23eeb6-03a2-42c8-9d02-60c672ad6298)
+**发布时间**: 2026-01-27 05:00
+
+#### [Next’s coming challenge is life after Simon Wolfson](https://www.ft.com/content/a8ef536c-31d0-49aa-9870-cd486bc6c102)
+**发布时间**: 2026-01-27 05:00
+
+#### [Big Tech’s borrowing spree raises fears of AI risks in US bond market](https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78)
+**发布时间**: 2026-01-27 05:00
+
+#### [KPMG partners jostle for top UK job as boss seeks elevation to global role](https://www.ft.com/content/aad92ea6-da1c-42b6-88cc-5f0f5d12c5da)
+**发布时间**: 2026-01-27 05:00
+
+#### [US links security guarantees for Ukraine to peace deal ceding territory](https://www.ft.com/content/8ca0d4fd-fdfd-4aa3-a3a2-90be00d55b9d)
+**发布时间**: 2026-01-27 05:00
+
+#### [FTSE Russell aims to ease path for overseas groups to join City’s blue-chip index](https://www.ft.com/content/a90f88fc-cb0e-4f36-8990-5d6df2a364d3)
+**发布时间**: 2026-01-26 20:34
+
+#### [Europe must stop ‘dreaming’ about defence without US, Rutte warns](https://www.ft.com/content/e2f6cd48-2f89-4b75-9aae-fb9e70e773fd)
+**发布时间**: 2026-01-26 18:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors may be led into a trap as stock market discards new tariff threats, analyst warns](https://www.marketwatch.com/story/investors-may-be-led-into-a-trap-as-stock-market-discards-new-tariff-threats-analyst-warns-44081e86?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 02:30
+
+#### [South Korean auto, pharma stocks rattled after Trump threatens to impose 25% tariffs](https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 02:25
+
+#### [‘I‘m facing an ethical dilemma’: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?](https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-27 01:30
+
+#### [Why Nike is cutting hundreds of jobs, starting at its warehouses](https://www.marketwatch.com/story/why-nike-is-cutting-hundreds-of-jobs-starting-at-its-warehouses-cb090255?mod=mw_rss_topstories)
+**发布时间**: 2026-01-26 23:27
 
 ---
 

@@ -1,7 +1,118 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 23:25
+**最后更新时间**: 2026-01-27 05:33
+
+---
+
+## 🆕 最新更新 (2026-01-27 05:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [小登、中登和老登](https://www.tmtpost.com/7856837.html)
+**发布时间**: 2026-01-27 13:01
+
+#### [光伏企业，如何不被白银绑架？](https://www.tmtpost.com/7856972.html)
+**发布时间**: 2026-01-27 13:00
+
+#### [深扒Minimax与智谱：大模型，一场算力强度与融资耐力的残酷绝杀？](https://www.tmtpost.com/7856860.html)
+**发布时间**: 2026-01-27 12:54
+
+#### [年轻人当上“年货主理人”，这七种春节消费走向顶流](https://www.tmtpost.com/7856861.html)
+**发布时间**: 2026-01-27 12:52
+
+#### [上市前被剥离，星星充电为何成不了万帮数字的“门面”？](https://www.tmtpost.com/7856863.html)
+**发布时间**: 2026-01-27 12:44
+
+#### [AI玩具大狂欢，大厂生态的“爆发”叙事](https://www.tmtpost.com/7856889.html)
+**发布时间**: 2026-01-27 12:22
+
+#### [Clawdbot爆火，我看到了腾讯元宝的通天路](https://www.tmtpost.com/7856857.html)
+**发布时间**: 2026-01-27 12:22
+
+#### [速冻食品2025Q4市场回顾及2026趋势洞察](https://www.tmtpost.com/7856724.html)
+**发布时间**: 2026-01-27 12:02
+
+#### [口服GLP-1卖爆了](https://www.tmtpost.com/7856759.html)
+**发布时间**: 2026-01-27 12:01
+
+#### [日本电视大败局](https://www.tmtpost.com/7856723.html)
+**发布时间**: 2026-01-27 11:46
+
+#### [月收入同比增长147.1%，曾冲刺IPO未果的“视频剪辑第一股”小影科技，如何精准卡位AIGC浪潮？](https://www.tmtpost.com/7856609.html)
+**发布时间**: 2026-01-27 11:46
+
+#### [三星生物狂飙](https://www.tmtpost.com/7856732.html)
+**发布时间**: 2026-01-27 11:46
+
+#### [新疆菜“换装”出疆](https://www.tmtpost.com/7856713.html)
+**发布时间**: 2026-01-27 10:52
+
+#### [安缦、安麓、安岚：“安”字背后的中国奢华酒店进化史](https://www.tmtpost.com/7856704.html)
+**发布时间**: 2026-01-27 10:52
+
+#### [发212亿年终奖，SK海力士凭什么赢麻了？](https://www.tmtpost.com/7856635.html)
+**发布时间**: 2026-01-27 10:47
+
+#### [具身智能2026前瞻：在资本热浪中上岸“价值闭环”](https://www.tmtpost.com/7856716.html)
+**发布时间**: 2026-01-27 10:46
+
+#### [双女主，在短剧市场迎来春天](https://www.tmtpost.com/7856602.html)
+**发布时间**: 2026-01-27 10:42
+
+#### [抓住澳洲工签的尾巴，我在澳洲迎接我的30岁](https://www.tmtpost.com/7856572.html)
+**发布时间**: 2026-01-27 10:41
+
+#### [腾讯需要一场胜利](https://www.tmtpost.com/7856563.html)
+**发布时间**: 2026-01-27 10:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Altman承认“搞砸了”！曝 GPT-5.2 牺牲文采换顶级编程，明年成本降 100 倍，实锤Agent 已能永久干活](https://www.infoq.cn/article/pJSXUr4whkkYHZlallq9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 13:00
+
+#### [HarmonyOS开发者群像故事：每一份热爱都有回响](https://www.infoq.cn/article/dmtGPG8qRCgNWzL06yvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 12:09
+
+#### [从算力规模到系统级竞争：智算竞争核心已变，金山云战略升级曝行业“隐形拐点”](https://www.infoq.cn/article/ELmQulBO3oXOzC1F76It?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 11:58
+
+#### [让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型](https://www.infoq.cn/article/WVlzEl33IYR1SH7mBssb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 11:23
+
+#### [OpenCost回顾2025年的里程碑事件，并制定2026年发展路线图](https://www.infoq.cn/article/6JfQa58o09NmOujZLf2C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 11:12
+
+#### [理想汽车内部会曝光：必做人形机器人！全网急聘“最好的人”、连跳槽的前员工都要揪回来？](https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 11:08
+
+#### [DoorDash运用AI提升聊天与通话安全，将安全事件减少50%](https://www.infoq.cn/article/2UiF1yejWi2urcT4jhtO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 10:51
+
+#### [阿里旗舰模型Qwen3-Max-Thinking发布，刷新全球 SOTA 性能纪录！编程能力赶超Gemini 3 Pro、Claude-Opus-4.5](https://www.infoq.cn/article/TW0LubMXqqmDGvSTS5s4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 05:00
+
+#### [烧2万亿美元却难用？Gary Marcus狂喷AI赛道不靠谱：推理模型只是“模仿秀”，OpenAI一年后倒闭？](https://www.infoq.cn/article/GsFzDHz763fGsSl2Nl8j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 17:36
+
+#### [Hugging Face发布FineTranslations：一个万亿级的多语言平行文本数据集](https://www.infoq.cn/article/brGidcHa5mVbOB0iyDiu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 15:29
+
+#### [面向SRE的人本AI：多智能体事件响应](https://www.infoq.cn/article/GkhFDkbYPBaBtwEDQCI6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 14:25
+
+#### [千亿级请求下，飞猪如何将广告外投系统超时率爆降至0.01%](https://www.infoq.cn/article/k05g5qvWOzT2tgIivfFN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 11:47
+
+#### [平台即产品：以声明式基础设施提升开发者效率](https://www.infoq.cn/article/btCrH22feoz1HuDlQEGD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-26 11:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [打开血糖盲盒：跟踪 14 个普通日夜里的血液足迹](https://sspai.com/post/105500)
+**发布时间**: 2026-01-27 11:09
+
+#### [派早报：Adobe 系列应用原生支持 Windows on ARM 等](https://sspai.com/post/105792)
+**发布时间**: 2026-01-27 08:19
 
 ---
 

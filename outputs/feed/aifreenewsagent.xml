@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Jan 2026 23:25:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 23:25:55 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 05:28:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 05:34:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家</title>
-      <link>https://www.qbitai.com/2026/01/372685.html</link>
-      <description>&lt;![CDATA[复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372685.html</guid>
+      <title>刚刚，微软全新一代自研AI芯片Maia 200问世</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-2</link>
+      <description>&lt;![CDATA[刚刚，微软全新一代自研AI芯片Maia 200问世]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线</title>
-      <link>https://www.qbitai.com/2026/01/372824.html</link>
-      <description>&lt;![CDATA[那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372824.html</guid>
+      <title>性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-4</link>
+      <description>&lt;![CDATA[性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路</title>
-      <link>https://www.qbitai.com/2026/01/372747.html</link>
-      <description>&lt;![CDATA[讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372747.html</guid>
+      <title>大模型哪里出问题、怎么修，这篇可解释性综述一次讲清</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27</link>
+      <description>&lt;![CDATA[大模型哪里出问题、怎么修，这篇可解释性综述一次讲清]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-26-12</link>
-      <description>&lt;![CDATA[GPT-5大战DeepSeek？国内首个科创板AI Agent实盘竞技场来了！]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-12</guid>
+      <title>跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-27-3</link>
+      <description>&lt;![CDATA[跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯元宝内测“元宝派”，探索社交AI新形态</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-26-11</link>
-      <description>&lt;![CDATA[腾讯元宝内测“元宝派”，探索社交AI新形态]]&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-26-11</guid>
+      <title>11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！</title>
+      <link>https://www.qbitai.com/2026/01/372848.html</link>
+      <description>&lt;![CDATA[11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！]]&gt;</description>
+      <pubDate>Tue, 27 Jan 2026 02:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/372848.html</guid>
       <category>Ai</category>
     </item>
   </channel>
