@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 23:24
+**最后更新时间**: 2026-01-28 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-28 05:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investors bet on ‘hot’ US economy heading into midterm elections](https://www.ft.com/content/8cbb2664-7795-4286-a795-99181df151fc)
+**发布时间**: 2026-01-28 05:00
+
+#### [The rise of the ‘National Health State’](https://www.ft.com/content/cb763b6e-3c1f-4c9a-9fdb-5188fb102f68)
+**发布时间**: 2026-01-28 05:00
+
+#### [The reality of a world after rupture](https://www.ft.com/content/b784dc0f-abbb-4d02-b78d-89c69b8082be)
+**发布时间**: 2026-01-28 05:00
+
+#### [Swiss franc surges to decade high as traders seek last ‘reliable’ haven](https://www.ft.com/content/4eb0c9cc-3d81-4860-b59a-7696305ce48f)
+**发布时间**: 2026-01-28 05:00
+
+#### [Tether scores $5bn windfall as gold price rockets](https://www.ft.com/content/329900cb-80e5-4b75-8937-34774430da51)
+**发布时间**: 2026-01-28 05:00
+
+#### [Google scuppers service comparing YouTube viewing with TV and streaming audiences](https://www.ft.com/content/9493ee78-e18b-41ae-8719-8d1380e1e63d)
+**发布时间**: 2026-01-28 05:00
+
+#### [How Trump was forced to back off his harshest immigration tactics](https://www.ft.com/content/c1385bd6-93c9-4da0-975a-d0020bec32a9)
+**发布时间**: 2026-01-28 00:52
+
+#### [UK’s deadline for paying IHT on pensions poses ‘huge problem’, peers warn](https://www.ft.com/content/05141300-4658-4305-af6c-6123571a4353)
+**发布时间**: 2026-01-28 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock](https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 04:18
+
+#### [Apple CEO Tim Cook says he’s ‘heartbroken’ after Minneapolis shootings, calls for de-escalation](https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 03:43
+
+#### [Here’s how Microsoft can prove the doubters wrong this earnings season](https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 02:20
+
+#### [Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.](https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 02:14
 
 ---
 

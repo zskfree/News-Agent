@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 23:24
+**最后更新时间**: 2026-01-28 05:30
+
+---
+
+## 🆕 最新更新 (2026-01-28 05:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [低温或许正能让这些股票升温](https://www.tmtpost.com/7858627.html)
+**发布时间**: 2026-01-28 12:37
+
+#### [具身智能：在狂热中沉淀，在落地中破局](https://www.tmtpost.com/7858364.html)
+**发布时间**: 2026-01-28 12:27
+
+#### [2026年，巨头疯抢这个赛道](https://www.tmtpost.com/7858339.html)
+**发布时间**: 2026-01-28 12:15
+
+#### [朋友，给你的创业项目整点“AI+”？](https://www.tmtpost.com/7858106.html)
+**发布时间**: 2026-01-28 12:15
+
+#### [研判中国大消费的周期脉络，奥瑞金是一个重要参照物](https://www.tmtpost.com/7858554.html)
+**发布时间**: 2026-01-28 12:15
+
+#### [小马智行VS文远知行：既分高下也决生死](https://www.tmtpost.com/7858023.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [又一冷门万亿产业，等来爆发拐点](https://www.tmtpost.com/7858374.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [白酒寒冬里的逆行者：凭什么它能杀出重围？](https://www.tmtpost.com/7858442.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [青花25·花神令，“双倍回购”能否砸出下一个百亿大单品？](https://www.tmtpost.com/7858375.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [一场注定破碎的“AI大一统”幻想](https://www.tmtpost.com/7858003.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [金价屡创新高！黄金企业密集“扫货”，押注后市？](https://www.tmtpost.com/7858410.html)
+**发布时间**: 2026-01-28 11:08
+
+#### [玫瑰岛：营收增长利润下降，大额分红后募资合理性遭拷问｜IPO观察](https://www.tmtpost.com/7856896.html)
+**发布时间**: 2026-01-28 10:57
+
+#### [MNC涌入，抗炎大靶点的军备竞赛开始了](https://www.tmtpost.com/7858434.html)
+**发布时间**: 2026-01-28 10:33
+
+#### [从人气恋综到亿级票房，“银发内容”成了吸金香饽饽？](https://www.tmtpost.com/7858071.html)
+**发布时间**: 2026-01-28 10:26
+
+#### [机器人“扎堆”上春晚，谁将成为下一个“顶流”？](https://www.tmtpost.com/7858072.html)
+**发布时间**: 2026-01-28 10:26
+
+#### [全网疯传的Clawdbot，是下一个ChatGPT？](https://www.tmtpost.com/7858208.html)
+**发布时间**: 2026-01-28 10:19
+
+#### [AI眼镜的全新卡位赛：长期博弈拼谁耗得起，创业公司没有退路](https://www.tmtpost.com/7858264.html)
+**发布时间**: 2026-01-28 10:18
+
+#### [几只值得关注的农业类股票](https://www.tmtpost.com/7858385.html)
+**发布时间**: 2026-01-28 09:53
+
+#### [哪怕是中国最大的民营中医院，赚的也全是“辛苦钱”](https://www.tmtpost.com/7858228.html)
+**发布时间**: 2026-01-28 09:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [顶级工程师Karpathy的“AI革命”：一个月前还在焦虑“落后”，如今“20年古法编程习惯”被彻底颠覆，80%代码已交给AI！](https://www.infoq.cn/article/eUXjPQdv3XRVqWwdzJO9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 12:10
+
+#### [AI 时代，开发者体验正在被重新定义](https://www.infoq.cn/article/Tb4GkF4MbNOxxhOHvZig?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 11:53
+
+#### [前端同事看走眼了，这个“游戏网页”其实全是AI写的！](https://www.infoq.cn/article/MIsUL6Sg2SxAfFrGg4r7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 11:26
+
+#### [九章云极推出 DART-GUI-7B 模型，基于 Alaya NeW Cloud 强化学习云训练，登顶 OSWorld 7B 榜首！](https://www.infoq.cn/article/Hpcx4uk6LvFKo4FRfNHQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 11:25
+
+#### [蚂蚁灵波发布具身“通用大脑”LingBot-VLA，后训练代码全面开放，让开源真正可用](https://www.infoq.cn/article/GaVLwadOyTqICWJ7uiGV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 10:18
+
+#### [模力工场 030 周 AI 应用榜：字节新品硬刚 Sora，“随变”登顶榜首](https://www.infoq.cn/article/Hiv4SCiXtQMuJ8d9GDCM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-27 20:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派新年礼遇季：为你精选2025值得入手的热销好物](https://sspai.com/post/105818)
+**发布时间**: 2026-01-28 11:30
+
+#### [派早报：森海塞尔发布两款 USB-C 有线耳机等](https://sspai.com/post/105830)
+**发布时间**: 2026-01-28 08:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [70万亿存款到期，A股充满想象？](http://www.huxiu.com/article/4830047.html?f=wangzhan)
+**发布时间**: 2026-01-28 08:30
 
 ---
 

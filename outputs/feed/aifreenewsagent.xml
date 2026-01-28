@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Jan 2026 23:24:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2026 23:25:07 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 05:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 05:31:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-12</link>
-      <description>&lt;![CDATA[实时主动引导，研究周期缩短至分钟级，开源系统解决AI研究工具关键局限]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-12</guid>
+      <title>刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-4</link>
+      <description>&lt;![CDATA[刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ATLAS: Practical scaling laws for multilingual models</title>
-      <link>https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</link>
-      <description>&lt;![CDATA[ATLAS: Practical scaling laws for multilingual models]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/</guid>
+      <title>比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-7</link>
+      <description>&lt;![CDATA[比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达Earth 2开源全新天气预报模型，能生成15天全球预报</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-9</link>
-      <description>&lt;![CDATA[英伟达Earth 2开源全新天气预报模型，能生成15天全球预报]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-9</guid>
+      <title>蚂蚁出手VLA，就是开源超越Pi0.5的基座模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-5</link>
+      <description>&lt;![CDATA[蚂蚁出手VLA，就是开源超越Pi0.5的基座模型]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本</title>
-      <link>https://www.qbitai.com/2026/01/373113.html</link>
-      <description>&lt;![CDATA[曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373113.html</guid>
+      <title>录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了</title>
+      <link>https://www.qbitai.com/2026/01/373117.html</link>
+      <description>&lt;![CDATA[录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 00:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373117.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-27-11</link>
-      <description>&lt;![CDATA[刚刚，杨植麟亲自开源Kimi K2.5！国产大模型打架的一天]]&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-27-11</guid>
+      <title>蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-3</link>
+      <description>&lt;![CDATA[蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-3</guid>
       <category>Ai</category>
     </item>
   </channel>
