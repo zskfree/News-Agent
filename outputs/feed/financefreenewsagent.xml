@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 08:35:36 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 23:28:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?</title>
-      <link>https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories</guid>
+      <title>Federal Reserve signals no rush to cut rates as economy powers ahead</title>
+      <link>https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1</link>
+      <description>&lt;![CDATA[Federal Reserve signals no rush to cut rates as economy powers ahead]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate</title>
-      <link>https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6</link>
-      <description>&lt;![CDATA[Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6</guid>
+      <title>Bessent says Trump administration still pursuing ‘strong dollar policy’</title>
+      <link>https://www.ft.com/content/e3fd65cd-a319-4cc1-a74b-5daa7f63799c</link>
+      <description>&lt;![CDATA[Bessent says Trump administration still pursuing ‘strong dollar policy’]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e3fd65cd-a319-4cc1-a74b-5daa7f63799c</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tesla scraps 2 car models in pivot to AI as annual revenue falls for first time</title>
+      <link>https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8</link>
+      <description>&lt;![CDATA[Tesla scraps 2 car models in pivot to AI as annual revenue falls for first time]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 23:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Microsoft’s AI spending and disappointing cloud growth overshadow strong profits</title>
+      <link>https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c</link>
+      <description>&lt;![CDATA[Microsoft’s AI spending and disappointing cloud growth overshadow strong profits]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 22:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 touches 7,000 for the first time, led by a surprising group of stocks</title>
+      <link>https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[S&amp;P 500 touches 7,000 for the first time, led by a surprising group of stocks]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

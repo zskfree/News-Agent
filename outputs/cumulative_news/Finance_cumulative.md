@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 08:35
+**最后更新时间**: 2026-01-28 23:28
+
+---
+
+## 🆕 最新更新 (2026-01-28 23:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tesla scraps 2 car models in pivot to AI as annual revenue falls for first time](https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8)
+**发布时间**: 2026-01-28 23:17
+
+#### [Microsoft’s AI spending and disappointing cloud growth overshadow strong profits](https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c)
+**发布时间**: 2026-01-28 22:42
+
+#### [UK and China to share intelligence over people traffickers in the Channel](https://www.ft.com/content/77a946b2-8dbe-4a99-9d5c-1ab7a6e63c4e)
+**发布时间**: 2026-01-28 22:30
+
+#### [Meta’s record sales lift shares 10 per cent despite massive spending plans](https://www.ft.com/content/d1e5a35e-4e8b-4e5d-af4e-9e19dca51de8)
+**发布时间**: 2026-01-28 22:10
+
+#### [Federal Reserve signals no rush to cut rates as economy powers ahead](https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1)
+**发布时间**: 2026-01-28 21:08
+
+#### [Universal basic income needed to cushion blow from AI job losses says UK minister](https://www.ft.com/content/3ebc4947-c7f7-4d79-ab69-6dad430d054b)
+**发布时间**: 2026-01-28 21:00
+
+#### [Metals surge boosts value of mining groups by almost $500bn](https://www.ft.com/content/32ef3ff6-b356-49e3-8d7f-8039161c88b0)
+**发布时间**: 2026-01-28 21:00
+
+#### [The precious metal feeding frenzy](https://www.ft.com/content/004ad702-c7d1-4f02-9f5d-9194d0dc668b)
+**发布时间**: 2026-01-28 16:24
+
+#### [Bessent says Trump administration still pursuing ‘strong dollar policy’](https://www.ft.com/content/e3fd65cd-a319-4cc1-a74b-5daa7f63799c)
+**发布时间**: 2026-01-28 15:42
+
+#### [Starmer and Badenoch blast Reform UK’s by-election candidate](https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6)
+**发布时间**: 2026-01-28 12:42
+
+#### [Amazon to axe another 16,000 corporate jobs](https://www.ft.com/content/c6055c9d-5229-4cfc-9f75-c7d96e021929)
+**发布时间**: 2026-01-28 10:46
+
+#### [Rick Rieder is a massive dove](https://www.ft.com/content/0d56fe0e-ba99-476f-be91-cf5eefb9dd7a)
+**发布时间**: 2026-01-28 06:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [S&P 500 touches 7,000 for the first time, led by a surprising group of stocks](https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 22:56
+
+#### [‘I feel like this does us a disservice’: My brother wants his $1 million inheritance in advance. Should he pay interest?](https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 22:47
+
+#### [ServiceNow says AI is ‘really kicking in’ — but it’s not enough to help the stock](https://www.marketwatch.com/story/servicenow-says-ai-is-really-kicking-in-but-its-not-enough-to-help-the-stock-662839dd?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 22:46
+
+#### [Investors cheer the end of Southwest’s open-seating era, as airline forecasts a big 2026 profit](https://www.marketwatch.com/story/southwest-says-assigned-seats-will-make-it-more-profitable-this-year-as-stock-rallies-1e10db1d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 22:38
+
+#### [10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines’ bad week](https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 21:05
+
+#### [How do I open a ‘Trump account’? The IRS has one simple solution for you.](https://www.marketwatch.com/story/how-do-i-open-a-trump-account-the-irs-has-one-simple-solution-for-you-41da00e3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 21:04
+
+#### [This top stock picker spotted Nvidia and GLP-1s early — and made over 200%. Here’s what he’s buying now.](https://www.marketwatch.com/story/this-top-stock-picker-spotted-nvidia-and-glp-1s-early-and-made-over-200-heres-what-hes-buying-now-16a5c5fa?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 20:48
+
+#### [The diaper wars go deluxe as Pampers, Huggies chase shoppers ready to pay more for premium products](https://www.marketwatch.com/story/the-diaper-wars-go-deluxe-as-pampers-huggies-chase-shoppers-ready-to-pay-more-for-premium-products-b698e16a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 20:45
+
+#### [These stocks are the market’s new momentum plays as Big Tech loses steam](https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 20:39
 
 ---
 

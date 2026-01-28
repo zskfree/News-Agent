@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8b2da2d05fe2eb8dcca176075d37ff0bee322c107ba489c53cf1c599ce82525": {
-        "title": "QPU要想取代GPU，2026年太关键",
-        "link": "https://www.tmtpost.com/7824870.html",
-        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
-        "first_seen": "2025-12-29T23:21:54.424391"
-      },
-      "8429a5ba26d58ee36439a736ac8631421f2ab5305e5d104e9f4a1536ee25f833": {
-        "title": "2025，机器人“铁军”元年：资本抢滩，量产开跑",
-        "link": "https://www.tmtpost.com/7824615.html",
-        "published_date": "Mon, 29 Dec 2025 20:26:00 GMT",
-        "first_seen": "2025-12-29T23:21:54.424397"
-      },
-      "0714d91dd54d33a453999401ba7181a74f7cdb07cccf604fdba4e49e98e22781": {
-        "title": "关于 AI Infra 的一切，中国企业给出了答案",
-        "link": "https://www.infoq.cn/article/2tsspiYyfwKrT7y3DlfT?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Dec 2025 18:24:00 GMT",
-        "first_seen": "2025-12-29T23:21:54.424399"
-      },
-      "aafad29c51b6bbbab761b14d4cd4f897ab86c5fa18dfd8315579380f7b75a3d9": {
-        "title": "Akamai云计算CTO：当AI成为核心负载，云计算架构开始“向外生长”",
-        "link": "https://www.infoq.cn/article/NkZcLyFoaP62KkQa5Mr7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Dec 2025 16:36:00 GMT",
-        "first_seen": "2025-12-29T23:21:54.424401"
-      },
-      "dea220d6a34c0e96e4d1925fede1d0e5ce4c47742d182aebfb390359132df0cd": {
-        "title": "2025数字医疗年度创新白皮书：AI落地应用成主旋律，脑机接口进入临床试验高峰",
-        "link": "https://www.tmtpost.com/7824290.html",
-        "published_date": "Mon, 29 Dec 2025 20:23:00 GMT",
-        "first_seen": "2025-12-29T23:21:54.424402"
-      },
       "be4ae0154c4cd7a2b6baa74db81a44666def2057179c95480bf7e7484083816f": {
         "title": "智能黑科技加持，这家新势力拉开两轮电动车新变局",
         "link": "https://www.tmtpost.com/7824897.html",
@@ -2683,39 +2653,39 @@
         "link": "https://www.infoq.cn/article/pvHVtYNYmM7EDEpIgJQE?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 28 Jan 2026 16:06:00 GMT",
         "first_seen": "2026-01-28T08:36:15.378830"
+      },
+      "0ee36b866a9dcb23e73da0db7ec76259c46675d060ec0df8617b402b7cda8e48": {
+        "title": "GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现",
+        "link": "https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Jan 2026 18:09:00 GMT",
+        "first_seen": "2026-01-28T23:29:03.595901"
+      },
+      "8c5fc5046c7c3280c8c79bf1cd231ddf56b8481ce5d005ce1cb1a242e115ec28": {
+        "title": "喊话特朗普重视AI风险，Anthropic CEO万字长文写应对方案，这方案也是Claude辅助完成的",
+        "link": "https://www.infoq.cn/article/cRaRb2Qqo5wi63K2EUEz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Jan 2026 19:26:00 GMT",
+        "first_seen": "2026-01-28T23:29:03.595908"
+      },
+      "a82c13984096a7703de67894dcb03d0cbc41527059e7520aa13318fb1aef3544": {
+        "title": "为什么L3还没正式上路，汽车公司却要直接跳过?",
+        "link": "https://www.tmtpost.com/7859082.html",
+        "published_date": "Wed, 28 Jan 2026 19:53:00 GMT",
+        "first_seen": "2026-01-28T23:29:03.595910"
+      },
+      "09e87d4fa0bccb62fa0bab29e7ee6f47fbcbf3e386da68484ba2654f2e18f8f4": {
+        "title": "苹果的 Vision Pro ，或许还能再“抢救一下”",
+        "link": "https://www.tmtpost.com/7858789.html",
+        "published_date": "Wed, 28 Jan 2026 19:30:00 GMT",
+        "first_seen": "2026-01-28T23:29:03.595912"
+      },
+      "5a060dd4bad4355a607487224f02f70ef52ef88dcf6f18f13d9cbb2c7835066f": {
+        "title": "Kimi 玩了把大的，Agent 团战的时代要来了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530960&idx=1&sn=a0ae64f739e9f669bc9eca8cb4c4c085",
+        "published_date": "Wed, 28 Jan 2026 15:14:00 GMT",
+        "first_seen": "2026-01-28T23:29:03.595913"
       }
     },
     "Finance": {
-      "eb7b83741b8190b5659a128667110f8df4125f6336c5431098aa90f0722c2dcc": {
-        "title": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
-        "link": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Dec 2025 21:52:00 GMT",
-        "first_seen": "2025-12-29T23:21:21.456497"
-      },
-      "ef50bd06b68b14a37118865cc6ad3653b588ea148c5043370d485a84336d0811": {
-        "title": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week",
-        "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Dec 2025 21:30:00 GMT",
-        "first_seen": "2025-12-29T23:21:21.456508"
-      },
-      "1e95ba21d90d2a4da9265ba583c55e0544ca687f074cf4ca7778859c40bb855c": {
-        "title": "US stocks eclipsed by rest of world in 2025 as investors diversify",
-        "link": "https://www.ft.com/content/10a8a099-5719-42ce-a2eb-edc3045a632f",
-        "published_date": "Mon, 29 Dec 2025 21:10:00 GMT",
-        "first_seen": "2025-12-29T23:21:21.456510"
-      },
-      "09918eb3bac9b5631274499780e592b367897be4804c7113ecd0b7f33c22af27": {
-        "title": "Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin",
-        "link": "https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Dec 2025 22:09:00 GMT",
-        "first_seen": "2025-12-29T23:21:21.456512"
-      },
-      "fa7f9e873ee45d7517f97d3155e838be2269cd526558ca696fdf882f37784105": {
-        "title": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
-        "link": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Dec 2025 20:30:00 GMT",
-        "first_seen": "2025-12-29T23:21:21.456514"
-      },
       "45a2873095c56752f35700107a3d256e771a3b298e61c6b707bed4a397776b71": {
         "title": "China steps up Taiwan military drills with live-fire exercises",
         "link": "https://www.ft.com/content/db8068c0-1b90-4cab-953f-518d78ae5335",
@@ -4569,39 +4539,39 @@
         "link": "https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6",
         "published_date": "Wed, 28 Jan 2026 07:00:00 GMT",
         "first_seen": "2026-01-28T08:35:36.405775"
+      },
+      "a8d416ac67582315e17a3807d916ad23f29a6c1c47f90a36f0fd97b859e65808": {
+        "title": "Federal Reserve signals no rush to cut rates as economy powers ahead",
+        "link": "https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1",
+        "published_date": "Wed, 28 Jan 2026 21:08:00 GMT",
+        "first_seen": "2026-01-28T23:28:23.772906"
+      },
+      "a3ee1d7c4ac8d15abb338a1930d632d117d3243cb54472257ecafea9e485afb3": {
+        "title": "Bessent says Trump administration still pursuing ‘strong dollar policy’",
+        "link": "https://www.ft.com/content/e3fd65cd-a319-4cc1-a74b-5daa7f63799c",
+        "published_date": "Wed, 28 Jan 2026 15:42:00 GMT",
+        "first_seen": "2026-01-28T23:28:23.772914"
+      },
+      "af74fd9841323cbf4d9f754b262c36df486e8449ae368f8a9bf922a3a3bb62af": {
+        "title": "Tesla scraps 2 car models in pivot to AI as annual revenue falls for first time",
+        "link": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
+        "published_date": "Wed, 28 Jan 2026 23:17:00 GMT",
+        "first_seen": "2026-01-28T23:28:23.772917"
+      },
+      "4013b28133cc8bfa6120ad51a04ffa7aa78680fbdec6242fed8af4272ef6dc9d": {
+        "title": "Microsoft’s AI spending and disappointing cloud growth overshadow strong profits",
+        "link": "https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c",
+        "published_date": "Wed, 28 Jan 2026 22:42:00 GMT",
+        "first_seen": "2026-01-28T23:28:23.772919"
+      },
+      "a0744bd3f5fbbc57b9931bda03df37c644ed435ef851ac0186e94c1ddec86257": {
+        "title": "S&P 500 touches 7,000 for the first time, led by a surprising group of stocks",
+        "link": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Jan 2026 22:56:00 GMT",
+        "first_seen": "2026-01-28T23:28:23.772921"
       }
     },
     "Ai": {
-      "ca3863d1f44b48246ab7199e70df763122f4a6d98e07d442fd174e6adf17bb91": {
-        "title": "全球首个具身 VLTA 多模态数据集开源，加速具身智能真实世界落地",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-12",
-        "published_date": "Mon, 29 Dec 2025 14:20:00 GMT",
-        "first_seen": "2025-12-29T23:21:36.507994"
-      },
-      "9c50260b1b7df9d0766b5c4f0f2038f9194c4373139bce0379703ab0557f68e7": {
-        "title": "国资战略入股九章云极 加码先进AI基础设施攻坚",
-        "link": "https://www.qbitai.com/2025/12/366209.html",
-        "published_date": "Mon, 29 Dec 2025 08:52:00 GMT",
-        "first_seen": "2025-12-29T23:21:36.508000"
-      },
-      "70bcc49ab1be83699d130f0a8a0426b5fe613d2f5a1f12328b1619a789458426": {
-        "title": "AAAI 2026 Oral｜LENS：基于统一强化推理的分割大模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-3",
-        "published_date": "Mon, 29 Dec 2025 13:37:00 GMT",
-        "first_seen": "2025-12-29T23:21:36.508002"
-      },
-      "760361d5eb97e02e18d700396f443a360a5ac8a68664fabfa8e1c0f20fe75a8d": {
-        "title": "AI引爆内存荒：手机电脑不仅要涨价，还要减配",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-11",
-        "published_date": "Mon, 29 Dec 2025 16:55:00 GMT",
-        "first_seen": "2025-12-29T23:21:36.508004"
-      },
-      "7fd4a9f78d10c6ce6e795dbc8ca0b9c1d83b9f5390c52855cdf5ca4effb55f23": {
-        "title": "全景视觉的Depth Anything来了！Insta360推出DAP，200万数据打造全场景360°空间智能新高度",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-10",
-        "published_date": "Mon, 29 Dec 2025 16:49:00 GMT",
-        "first_seen": "2025-12-29T23:21:36.508006"
-      },
       "fc01fb145583265e1764931ca9b9d940768cb048f9a29943a21c2cf1ddf660d4": {
         "title": "清华朱军团队Nature Machine Intelligence：多模态扩散模型实现心血管信号实时全面监测",
         "link": "https://www.jiqizhixin.com/articles/2025-12-30-3",
@@ -6779,13 +6749,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-28-2",
         "published_date": "Wed, 28 Jan 2026 10:34:00 GMT",
         "first_seen": "2026-01-28T08:35:50.064126"
+      },
+      "33b431b9b43beebb472ba660883eca26717ed219427bbd80cee3f96b2361b8a1": {
+        "title": "中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体",
+        "link": "https://www.qbitai.com/2026/01/373666.html",
+        "published_date": "Wed, 28 Jan 2026 12:08:00 GMT",
+        "first_seen": "2026-01-28T23:28:35.074959"
+      },
+      "126297eb790e295a027b7d9faf0fb2fda3162133d10ce0613ab9e069a4827540": {
+        "title": "字节跳动李航博士新作：AI智能体的通用框架",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28-11",
+        "published_date": "Wed, 28 Jan 2026 23:28:00 GMT",
+        "first_seen": "2026-01-28T23:28:35.074965"
+      },
+      "992cd1173be48b818686822ff3549f495b5d5204535f5775b596400499d8a653": {
+        "title": "Towards a science of scaling agent systems: When and why agent systems work",
+        "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+        "published_date": "Wed, 28 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-28T23:28:35.074967"
+      },
+      "117f8cba71db4eb02ef940e3786459585359b4996dd977fd166f974e1c5b8014": {
+        "title": "蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争",
+        "link": "https://www.qbitai.com/2026/01/373649.html",
+        "published_date": "Wed, 28 Jan 2026 11:08:00 GMT",
+        "first_seen": "2026-01-28T23:28:35.074969"
+      },
+      "d6b69fdbf1ef33dc716cd44d73857d743e8a8511c1dd431fa0247239314399b8": {
+        "title": "万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28-8",
+        "published_date": "Wed, 28 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-28T23:28:35.074971"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-28T08:36:15.378832",
-    "Finance": "2026-01-28T08:35:36.405778",
-    "Ai": "2026-01-28T08:35:50.064129"
+    "Technology": "2026-01-28T23:29:03.595914",
+    "Finance": "2026-01-28T23:28:23.772923",
+    "Ai": "2026-01-28T23:28:35.074974"
   }
 }

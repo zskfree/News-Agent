@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 08:35
+**最后更新时间**: 2026-01-28 23:28
+
+---
+
+## 🆕 最新更新 (2026-01-28 23:28)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事](https://sspai.com/post/105823)
+**发布时间**: 2026-01-28 22:17
+
+#### [跨越肠胃镜心理障碍：记一次胶囊胃镜体验](https://sspai.com/post/105554)
+**发布时间**: 2026-01-28 17:30
+
+#### [少数派新年礼遇季：为你精选 2025 值得入手的热销好物](https://sspai.com/post/105818)
+**发布时间**: 2026-01-28 11:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [十年前的百度，聚拢了硅谷最杰出的天才，每个都比姚顺雨耀眼……](https://www.tmtpost.com/7858865.html)
+**发布时间**: 2026-01-28 20:25
+
+#### [财报变脸？“狂飙”的赛纬电子撞上IPO“斩杀线”](https://www.tmtpost.com/7858798.html)
+**发布时间**: 2026-01-28 20:24
+
+#### [从黄金首饰到消费电子，涨价潮如何压测全球供应链？](https://www.tmtpost.com/7858777.html)
+**发布时间**: 2026-01-28 20:23
+
+#### [2026春节，是人类史上最大的图灵测试](https://www.tmtpost.com/7859121.html)
+**发布时间**: 2026-01-28 20:18
+
+#### [为什么L3还没正式上路，汽车公司却要直接跳过?](https://www.tmtpost.com/7859082.html)
+**发布时间**: 2026-01-28 19:53
+
+#### [春节红包，大厂AI“斩杀线”](https://www.tmtpost.com/7859130.html)
+**发布时间**: 2026-01-28 19:53
+
+#### [白银狂奔，被AI“重新定价”的世界](https://www.tmtpost.com/7859177.html)
+**发布时间**: 2026-01-28 19:53
+
+#### [云从科技2025年预亏超4.9亿背后：研发断臂求生，AI四小龙光环褪色｜看财报](https://www.tmtpost.com/7859241.html)
+**发布时间**: 2026-01-28 19:52
+
+#### [“不用AI就亏了”的感觉，是从哪儿来的？](https://www.tmtpost.com/7858682.html)
+**发布时间**: 2026-01-28 19:30
+
+#### [新BAT“AI三国杀”：千问如魏，豆包似蜀，元宝像吴](https://www.tmtpost.com/7858553.html)
+**发布时间**: 2026-01-28 19:30
+
+#### [苹果的 Vision Pro ，或许还能再“抢救一下”](https://www.tmtpost.com/7858789.html)
+**发布时间**: 2026-01-28 19:30
+
+#### [日企想在消费电子赛道继续挣扎，但意义不大了](https://www.tmtpost.com/7858803.html)
+**发布时间**: 2026-01-28 19:30
+
+#### [爱芯元智：亏损20亿的芯片冠军，也要奔赴IPO](https://www.tmtpost.com/7858939.html)
+**发布时间**: 2026-01-28 19:30
+
+#### [容联云用智能体，给出一条“结果导向”的产业答案](https://www.tmtpost.com/7857069.html)
+**发布时间**: 2026-01-28 19:14
+
+#### [巨亏11亿后，LED龙头豪掷9亿加码上游芯片](https://www.tmtpost.com/7859134.html)
+**发布时间**: 2026-01-28 18:33
+
+#### [5万亿电网大投资：“源网错位”将得到强力纠偏](https://www.tmtpost.com/7858328.html)
+**发布时间**: 2026-01-28 17:43
+
+#### [为了 AI 变现，李彦宏躬身入局](https://www.tmtpost.com/7858926.html)
+**发布时间**: 2026-01-28 17:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [喊话特朗普重视AI风险，Anthropic CEO万字长文写应对方案，这方案也是Claude辅助完成的](https://www.infoq.cn/article/cRaRb2Qqo5wi63K2EUEz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 19:26
+
+#### [从复杂挑战到竞争优势：AI SQL 如何重塑非结构化数据的价值边界](https://www.infoq.cn/article/2clmwg8jRpI9plBp2tRW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 18:45
+
+#### [首个Clawdbot全流程部署方案！真“AI个人助理”来了！](https://www.infoq.cn/article/Nx03AAwazUY6NAWu9N3H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 18:39
+
+#### [GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现](https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 18:09
+
+#### [利用 ADBC 实现更快的数据传输：一次关于数据通路的系统性重构](https://www.infoq.cn/article/jUrPE4oFukpk4QlMflL3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-28 17:15
 
 ---
 
