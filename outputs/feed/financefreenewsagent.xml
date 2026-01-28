@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 05:30:37 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 08:35:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.</title>
-      <link>https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 02:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories</guid>
+      <title>‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?</title>
+      <link>https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Investors bet on ‘hot’ US economy heading into midterm elections</title>
-      <link>https://www.ft.com/content/8cbb2664-7795-4286-a795-99181df151fc</link>
-      <description>&lt;![CDATA[Investors bet on ‘hot’ US economy heading into midterm elections]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8cbb2664-7795-4286-a795-99181df151fc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Swiss franc surges to decade high as traders seek last ‘reliable’ haven</title>
-      <link>https://www.ft.com/content/4eb0c9cc-3d81-4860-b59a-7696305ce48f</link>
-      <description>&lt;![CDATA[Swiss franc surges to decade high as traders seek last ‘reliable’ haven]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4eb0c9cc-3d81-4860-b59a-7696305ce48f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK’s deadline for paying IHT on pensions poses ‘huge problem’, peers warn</title>
-      <link>https://www.ft.com/content/05141300-4658-4305-af6c-6123571a4353</link>
-      <description>&lt;![CDATA[UK’s deadline for paying IHT on pensions poses ‘huge problem’, peers warn]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/05141300-4658-4305-af6c-6123571a4353</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock</title>
-      <link>https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 04:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories</guid>
+      <title>Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate</title>
+      <link>https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6</link>
+      <description>&lt;![CDATA[Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6</guid>
       <category>Finance</category>
     </item>
   </channel>

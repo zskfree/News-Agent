@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 05:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 05:31:01 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 08:35:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-4</link>
-      <description>&lt;![CDATA[刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-4</guid>
+      <title>利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-9</link>
+      <description>&lt;![CDATA[利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-7</link>
-      <description>&lt;![CDATA[比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 13:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-7</guid>
+      <title>DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro</title>
+      <link>https://www.qbitai.com/2026/01/373447.html</link>
+      <description>&lt;![CDATA[DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 06:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373447.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁出手VLA，就是开源超越Pi0.5的基座模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-5</link>
-      <description>&lt;![CDATA[蚂蚁出手VLA，就是开源超越Pi0.5的基座模型]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-5</guid>
+      <title>「熟悉的陌生人」才是「好老师」？复旦提出简单指标，找出推理蒸馏中真正有教学价值的数据</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28</link>
+      <description>&lt;![CDATA[「熟悉的陌生人」才是「好老师」？复旦提出简单指标，找出推理蒸馏中真正有教学价值的数据]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了</title>
-      <link>https://www.qbitai.com/2026/01/373117.html</link>
-      <description>&lt;![CDATA[录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 00:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373117.html</guid>
+      <title>AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-6</link>
+      <description>&lt;![CDATA[AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 13:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-3</link>
-      <description>&lt;![CDATA[蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-3</guid>
+      <title>被Anthropic指控侵权，Clawdbot改名Moltbot</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-28-2</link>
+      <description>&lt;![CDATA[被Anthropic指控侵权，Clawdbot改名Moltbot]]&gt;</description>
+      <pubDate>Wed, 28 Jan 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-2</guid>
       <category>Ai</category>
     </item>
   </channel>

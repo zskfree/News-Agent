@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ac8d5354a95f03898d1be65cf1e572be5e5bae9bd9a953b3d3203de79790ad99": {
-        "title": "“大模型第一股”打响上市前哨战！智谱GLM-4.7 刷新开源编程SOTA，修复代码、终端操作表现超Claude 4.5",
-        "link": "https://www.infoq.cn/article/ICEBaOAkFYcYIe9c6lJV?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Dec 2025 11:53:00 GMT",
-        "first_seen": "2025-12-29T05:30:53.875474"
-      },
-      "d00b2620435dd65301057361e2bd7aac4bf88f52ed35772962f5aafe250404b7": {
-        "title": "持续烧钱的大模型，阻挡不了AI行业的热情",
-        "link": "https://www.tmtpost.com/7823744.html",
-        "published_date": "Mon, 29 Dec 2025 09:35:00 GMT",
-        "first_seen": "2025-12-29T05:30:53.875481"
-      },
-      "633cf7d7a193d0bdf32c89a8fa7956ed06abd30c533fbe963cadbf466dec0b22": {
-        "title": "商业航天2025：拐点前夜的助攻、躁动与可回收验证冲刺",
-        "link": "https://www.tmtpost.com/7823778.html",
-        "published_date": "Mon, 29 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-29T05:30:53.875483"
-      },
-      "905d9ebae86bbd635e2d5521d0eb400a3b83a9fae9ddca520bf5a507e31724c1": {
-        "title": "明年让AI可靠地抢走你的活儿？Anthropic 首席产品官曝新年目标：大模型不拼 “更聪明”，终结“公司上AI，员工更累”尴尬",
-        "link": "https://www.infoq.cn/article/MwQhX6CDqwXSeMxskdGF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Dec 2025 11:40:00 GMT",
-        "first_seen": "2025-12-29T05:30:53.875484"
-      },
-      "bbd95554e3116c9cadc49c6fbd2b1933e1e49321db26d744d5a9920b690c258a": {
-        "title": "派早报：新规拟要求 AI 聊天定时提醒退出、及时干预沉迷",
-        "link": "https://sspai.com/post/104969",
-        "published_date": "Mon, 29 Dec 2025 08:59:00 GMT",
-        "first_seen": "2025-12-29T05:30:53.875486"
-      },
-      "9b4c20b5f77820ae65fe76d74d79f5dea721a372718473f577103b51a4db1bba": {
-        "title": "H200的“放”与“限”：中国AI算力代差中何以破局？",
-        "link": "https://www.tmtpost.com/7823889.html",
-        "published_date": "Mon, 29 Dec 2025 14:52:00 GMT",
-        "first_seen": "2025-12-29T08:35:06.917450"
-      },
-      "ac4d1a5adc92d51b712a1b3efdafbfae8c28bcd15f0c1885405bbbb767e6fada": {
-        "title": "AI is Energy That Has Found Self-Awareness, Says Chairman of Envision Group",
-        "link": "https://www.tmtpost.com/7824473.html",
-        "published_date": "Mon, 29 Dec 2025 13:54:00 GMT",
-        "first_seen": "2025-12-29T08:35:06.917457"
-      },
-      "88b9eea91b1e8f3e319ac1c1c4379eefbe05555a8b354c87d38876d771ef9e04": {
-        "title": "靠 AI 智能体让网络走向自动驾驶！HPE Networking两大平台推出AIOps能力，正直奔“L5阶段”",
-        "link": "https://www.infoq.cn/article/N6S6vuVmhY54Rgtd4AWF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Dec 2025 16:12:00 GMT",
-        "first_seen": "2025-12-29T08:35:06.917460"
-      },
-      "a4f7b953f56452ed12ddc1ae69a99bf463534c8e8b89a146d43fe319e4b075b3": {
-        "title": "GitHub 上 10 个令人惊艳的 Agent 开发平台，太顶了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530086&idx=1&sn=256bf22f34ffea67b789e37cdd66abd7",
-        "published_date": "Mon, 29 Dec 2025 15:19:00 GMT",
-        "first_seen": "2025-12-29T08:35:06.917461"
-      },
-      "8f1ba4e00e5f44263b6836f9d2960807a90f3ea717ff3a8b215cfb90d679e46e": {
-        "title": "机器人租赁火了，但这真的是一门好生意吗？",
-        "link": "https://www.tmtpost.com/7823909.html",
-        "published_date": "Mon, 29 Dec 2025 14:15:00 GMT",
-        "first_seen": "2025-12-29T08:35:06.917463"
-      },
       "b8b2da2d05fe2eb8dcca176075d37ff0bee322c107ba489c53cf1c599ce82525": {
         "title": "QPU要想取代GPU，2026年太关键",
         "link": "https://www.tmtpost.com/7824870.html",
@@ -2713,39 +2653,39 @@
         "link": "https://www.infoq.cn/article/Tb4GkF4MbNOxxhOHvZig?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 28 Jan 2026 11:53:00 GMT",
         "first_seen": "2026-01-28T05:31:16.196257"
+      },
+      "f9670be7f3bc75ee945f52a1e8295ceb39704ac1229536b9631af72f01bbb4a6": {
+        "title": "大模型统一竞赛700天后，AI走向“分野之年”",
+        "link": "https://www.tmtpost.com/7857888.html",
+        "published_date": "Wed, 28 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-28T08:36:15.378817"
+      },
+      "f05ea595e33e6e8e65ece05ac95be1720111f1b0137ccaeba600c5f115e74cf8": {
+        "title": "百度、腾讯、阿里...为什么都盯上了“AI群聊”？",
+        "link": "https://www.tmtpost.com/7858126.html",
+        "published_date": "Wed, 28 Jan 2026 16:15:00 GMT",
+        "first_seen": "2026-01-28T08:36:15.378825"
+      },
+      "99348f4c1b180077fd0439296e7e4a73a832cb2e9c54e412137f49aa5d234c0e": {
+        "title": "百度芯事",
+        "link": "https://www.tmtpost.com/7858551.html",
+        "published_date": "Wed, 28 Jan 2026 15:20:00 GMT",
+        "first_seen": "2026-01-28T08:36:15.378827"
+      },
+      "9195d0ba026433c0fbe53ef9a25e918b40d1d4241eba1c21c36e322e62a04c60": {
+        "title": "小马智行VS文远知行：既分高下也决生死",
+        "link": "https://www.tmtpost.com/7858023.html",
+        "published_date": "Wed, 28 Jan 2026 11:08:00 GMT",
+        "first_seen": "2026-01-28T08:36:15.378829"
+      },
+      "0e2e6ecf1155fc4274ba0d0673b75aba8b0b344ac2a836029037a4587abe6bba": {
+        "title": "内存一年疯涨170%，云账单里的“隐性成本”该算清了",
+        "link": "https://www.infoq.cn/article/pvHVtYNYmM7EDEpIgJQE?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Jan 2026 16:06:00 GMT",
+        "first_seen": "2026-01-28T08:36:15.378830"
       }
     },
     "Finance": {
-      "602f14982814a5813b6ea76a195c9f0fa81a4b6e468e48cfb7f62d20c601e568": {
-        "title": "‘Capital of capital’: how Abu Dhabi rose as a sovereign wealth power",
-        "link": "https://www.ft.com/content/711e670c-4832-49cb-8b10-5018103ec785",
-        "published_date": "Mon, 29 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.205791"
-      },
-      "3b35c9bff60bcfb2190574c5e42cd558de399ef8f0a3ff314958db1cf9581a68": {
-        "title": "The AI boom is not a bubble",
-        "link": "https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f",
-        "published_date": "Mon, 29 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.205801"
-      },
-      "ade43d4c08646220dd9275a766982ee93c04d77dd60d8ae6c0a3e209228789f2": {
-        "title": "UK needs £800bn of new funding by 2040 to meet defence pledge, says report",
-        "link": "https://www.ft.com/content/77380765-7212-45fd-b4ef-4ea7cb4baee2",
-        "published_date": "Mon, 29 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.205803"
-      },
-      "3ed405fe029e61734fdfe2beae9fda5de588b2c9dd693a912548c4a840158354": {
-        "title": "Europe’s largest defence groups set to return $5bn to shareholders in 2025",
-        "link": "https://www.ft.com/content/79c31767-ccac-4669-a299-3d2e9b797c6d",
-        "published_date": "Mon, 29 Dec 2025 03:00:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.205805"
-      },
-      "32a22aca280003a4c24fe2e077ca9c7057053d1d4a5de9bbb33ef2008a965730": {
-        "title": "U.S. stock futures flat, silver gains again as investors hope to start 2026 on a roll",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Dec 2025 03:55:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.205807"
-      },
       "eb7b83741b8190b5659a128667110f8df4125f6336c5431098aa90f0722c2dcc": {
         "title": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
         "link": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
@@ -4617,69 +4557,21 @@
         "link": "https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories",
         "published_date": "Wed, 28 Jan 2026 04:18:00 GMT",
         "first_seen": "2026-01-28T05:30:37.788410"
+      },
+      "19c1e26afbef55d8c7d3252bd578c93fc23403941f7e3e42634678a8a1f013f2": {
+        "title": "‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?",
+        "link": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-28T08:35:36.405763"
+      },
+      "1fd4d976a9d300b3486022e3be3ac69076606ae5fab61e3a4a7fba7019d9e144": {
+        "title": "Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate",
+        "link": "https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6",
+        "published_date": "Wed, 28 Jan 2026 07:00:00 GMT",
+        "first_seen": "2026-01-28T08:35:36.405775"
       }
     },
     "Ai": {
-      "44f53928681b246fa815c7655eda032a5310f62436d20439db1cf99f5ba17e30": {
-        "title": "Groq被收购，失去梦想的员工，人均拿到英伟达的500万美元",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-2",
-        "published_date": "Mon, 29 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.359758"
-      },
-      "dc860991bcc6c78d90847064f1ca6e2eeeb89bd89ed1a28c96ebc087d169fb41": {
-        "title": "个人电脑也能进行智能体RL训练？尤佳轩团队开源OpenTinker",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29",
-        "published_date": "Mon, 29 Dec 2025 11:29:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.359766"
-      },
-      "48b2e25fba8b3810fc5bc7240d1d77af5605d274ee423b4bd0f997b16af511b0": {
-        "title": "ViT一作盛赞：这个中国开源“PS模型”强过Nano Banana",
-        "link": "https://www.qbitai.com/2025/12/366144.html",
-        "published_date": "Mon, 29 Dec 2025 05:05:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.359768"
-      },
-      "90dd48c6b413abd945790d9a7e482730d07bfbd609555b0ffa9c0dcd6adb0b5e": {
-        "title": "救命！和漫画角色聊上头了，AI陪伴的新答案有了",
-        "link": "https://www.qbitai.com/2025/12/366091.html",
-        "published_date": "Mon, 29 Dec 2025 02:50:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.359770"
-      },
-      "909dc0dc7f58c01843f90a570891b3ac9ad98c66242d630311da3353c72e77b3": {
-        "title": "](https://www.qbitai.com/2025/11/348474.html)\n**发布时间**: 2025-11-03 10:27\n\n---\n\n## 🆕 最新更新 (2025-11-03 23:18)\n### 📰 来源: [量子位",
-        "link": "https://www.qbitai.com/feed",
-        "published_date": "Mon, 29 Dec 2025 05:30:00 GMT",
-        "first_seen": "2025-12-29T05:30:36.359771"
-      },
-      "a8e723356f1e37c266e4b8afea60be3b95479f4d46b534e21990733dafb26545": {
-        "title": "AI医生终于有了硬标尺！全球首个专病循证评测框架GAPS发布，蚂蚁联合北大王俊院士团队出品",
-        "link": "https://www.qbitai.com/2025/12/366165.html",
-        "published_date": "Mon, 29 Dec 2025 06:22:00 GMT",
-        "first_seen": "2025-12-29T08:34:46.043048"
-      },
-      "18ac766797e2fe8cdaeedfb117cc16a41677df5d5c58c21a9cd37a3701763323": {
-        "title": "药物靶标不再停留在器官层级，首次在全身尺度解析药物结合的单细胞图谱",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-8",
-        "published_date": "Mon, 29 Dec 2025 14:33:00 GMT",
-        "first_seen": "2025-12-29T08:34:46.043056"
-      },
-      "2eee12e1573366890f93d226795fce9c966481c9b59b1682c524a4ebf19210df": {
-        "title": "QwenLong-L1.5发布：一套配方，三大法宝，让30B MoE模型长文本推理能力媲美GPT-5",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-4",
-        "published_date": "Mon, 29 Dec 2025 13:42:00 GMT",
-        "first_seen": "2025-12-29T08:34:46.043059"
-      },
-      "0c730c6ddaa5148b45af95f07212fed7d92e73c2fb700db347dc8540389751a0": {
-        "title": "深度拆解沐曦MXMACA软件栈功能，算力自主+生态兼容，破解国产GPU落地难题",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-29-5",
-        "published_date": "Mon, 29 Dec 2025 13:46:00 GMT",
-        "first_seen": "2025-12-29T08:34:46.043061"
-      },
-      "bbf0511a941db67640046fa510587bcff2a00dccbf93f52e981ea7039dfb839b": {
-        "title": "389万寻找翁荔继任者！OpenAI紧急开招安全防范负责人",
-        "link": "https://www.qbitai.com/2025/12/366199.html",
-        "published_date": "Mon, 29 Dec 2025 07:35:00 GMT",
-        "first_seen": "2025-12-29T08:34:46.043062"
-      },
       "ca3863d1f44b48246ab7199e70df763122f4a6d98e07d442fd174e6adf17bb91": {
         "title": "全球首个具身 VLTA 多模态数据集开源，加速具身智能真实世界落地",
         "link": "https://www.jiqizhixin.com/articles/2025-12-29-12",
@@ -6857,13 +6749,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-28-3",
         "published_date": "Wed, 28 Jan 2026 10:38:00 GMT",
         "first_seen": "2026-01-28T05:31:01.693397"
+      },
+      "1ed3f5392739987ff892a70985205a90eb774ebec3a7f3e255a94c7edd209041": {
+        "title": "利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28-9",
+        "published_date": "Wed, 28 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-28T08:35:50.064113"
+      },
+      "6ce8ea8ed013e4f53b1650fbf95bb358bc6f50165ab5119afb3495c41285d2df": {
+        "title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
+        "link": "https://www.qbitai.com/2026/01/373447.html",
+        "published_date": "Wed, 28 Jan 2026 06:16:00 GMT",
+        "first_seen": "2026-01-28T08:35:50.064120"
+      },
+      "28d89a01c2eae46ab8dc3b2802867432b88c0977bf6a80c03d0e7f40ca3993dc": {
+        "title": "「熟悉的陌生人」才是「好老师」？复旦提出简单指标，找出推理蒸馏中真正有教学价值的数据",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28",
+        "published_date": "Wed, 28 Jan 2026 10:30:00 GMT",
+        "first_seen": "2026-01-28T08:35:50.064123"
+      },
+      "8d9bec7f6acf1b81c45dd1ab29509741fa536176bfb800dc9d9037fdac189a87": {
+        "title": "AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28-6",
+        "published_date": "Wed, 28 Jan 2026 13:18:00 GMT",
+        "first_seen": "2026-01-28T08:35:50.064124"
+      },
+      "051deaf3d02e26e6a15039a26b7c9d5df28b77cd945a821625248d94257aea18": {
+        "title": "被Anthropic指控侵权，Clawdbot改名Moltbot",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-28-2",
+        "published_date": "Wed, 28 Jan 2026 10:34:00 GMT",
+        "first_seen": "2026-01-28T08:35:50.064126"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-28T05:31:16.196259",
-    "Finance": "2026-01-28T05:30:37.788412",
-    "Ai": "2026-01-28T05:31:01.693400"
+    "Technology": "2026-01-28T08:36:15.378832",
+    "Finance": "2026-01-28T08:35:36.405778",
+    "Ai": "2026-01-28T08:35:50.064129"
   }
 }
