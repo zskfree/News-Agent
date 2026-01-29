@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 05:46
+**最后更新时间**: 2026-01-29 08:47
+
+---
+
+## 🆕 最新更新 (2026-01-29 08:47)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了](https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 16:18
+
+#### [Linus 之后的 Linux？内核社区终于写下“接班预案”](https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 16:12
+
+#### [不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？](https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 14:54
+
+#### [智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线](https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 14:47
+
+#### [“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论](https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 14:00
+
+#### [半年处理 1 亿笔支付！x402 V2 升级，让支付更简单](https://www.infoq.cn/article/zfep8dP77z3KOWM6bUBi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步](https://www.tmtpost.com/7860098.html)
+**发布时间**: 2026-01-29 16:13
+
+#### [买得起车、交不起险的年轻人](https://www.tmtpost.com/7860037.html)
+**发布时间**: 2026-01-29 15:36
+
+#### [2026，AI算力新江湖](https://www.tmtpost.com/7858602.html)
+**发布时间**: 2026-01-29 15:34
+
+#### [反垄断调查后或遭集体诉讼，携程未来将走向何方？](https://www.tmtpost.com/7860153.html)
+**发布时间**: 2026-01-29 15:13
+
+#### [为什么全国多地，都在忙着上新“文旅卡”？](https://www.tmtpost.com/7859820.html)
+**发布时间**: 2026-01-29 14:56
+
+#### [九识与菜鸟战略整合，开启双品牌独立运营｜独家](https://www.tmtpost.com/7860077.html)
+**发布时间**: 2026-01-29 14:34
+
+#### [净利腰斩、市值万亿，特斯拉在涨什么？](https://www.tmtpost.com/7860011.html)
+**发布时间**: 2026-01-29 14:20
+
+#### [进入“20元时代”，中式米饭快餐没有退路](https://www.tmtpost.com/7859841.html)
+**发布时间**: 2026-01-29 14:07
+
+#### [印度尼帕病毒点燃IVD“一日狂欢”：短炒退潮后，赛道真需求在哪？丨行业风向标](https://www.tmtpost.com/7859999.html)
+**发布时间**: 2026-01-29 13:52
+
+#### [停产 Model S/X，特斯拉不再是一家汽车公司？](https://www.tmtpost.com/7859969.html)
+**发布时间**: 2026-01-29 13:41
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [清华开源！GitHub 上 4600 人 Star 的 RAG 应用神器更新了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530962&idx=1&sn=4f2c6b4fc5c60b2690f199ede60051e1)
+**发布时间**: 2026-01-29 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [左手 Tana，右手 Heptabase：为什么我两个都要？](https://sspai.com/post/105622)
+**发布时间**: 2026-01-29 14:13
 
 ---
 

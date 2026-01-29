@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6c649853da591acc9c6e972b7583ed697a060eeb872c6387a6127f9d8b25d077": {
-        "title": "大模型狂叠 buff、Agent乱杀，2025大洗牌预警：96%中国机器人公司恐活不过明年，哪个行业真正被AI改造了？",
-        "link": "https://www.infoq.cn/article/RdJt87O52zdYrmi81CEp?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Dec 2025 16:23:00 GMT",
-        "first_seen": "2025-12-30T08:32:31.665858"
-      },
-      "084713109405e74b2be2bd14ec03cb3fba5b14a5dd3bf40c3d322d86c314b9b4": {
-        "title": "Meta Acquires Manus in Multibillion-Dollar Deal, Marking New Benchmark for China's AI Startups",
-        "link": "https://www.tmtpost.com/7825564.html",
-        "published_date": "Tue, 30 Dec 2025 10:42:00 GMT",
-        "first_seen": "2025-12-30T08:32:31.665865"
-      },
-      "522d4b3544428f06d63a808ab5ffb0426725843ada881870d07417ef561b98b4": {
-        "title": "对话 CodeBuddy黄广民：一堆“冒烟”的上下文，正在决定 AI 编程的成败",
-        "link": "https://www.infoq.cn/article/j8jMvIOfmZS8M33t72uP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Dec 2025 14:30:00 GMT",
-        "first_seen": "2025-12-30T08:32:31.665867"
-      },
-      "c18858e451d845056c2388de089dcc184719c28df5e2f1e0ff27c286206525de": {
-        "title": "智谱启动招股，估值超500亿港元",
-        "link": "https://www.tmtpost.com/7826011.html",
-        "published_date": "Tue, 30 Dec 2025 15:59:00 GMT",
-        "first_seen": "2025-12-30T08:32:31.665869"
-      },
-      "e1555795a4d286def871445de12d0b2dc7e1812d442c4c20bca2ca971f120d20": {
-        "title": "优步采用Amazon OpenSearch进行语义搜索，以更好地捕捉用户意图",
-        "link": "https://www.infoq.cn/article/mkdfBHl8tbvjFbP19JP6?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Dec 2025 13:42:00 GMT",
-        "first_seen": "2025-12-30T08:32:31.665871"
-      },
       "724ffbe4ed7c371339da1761c045846e229da58a54324e8723956624087364dd": {
         "title": "台积电2nm，交卷了",
         "link": "https://www.tmtpost.com/7826451.html",
@@ -2683,6 +2653,36 @@
         "link": "https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 29 Jan 2026 09:54:00 GMT",
         "first_seen": "2026-01-29T05:47:02.852446"
+      },
+      "c221e765a498c6547879e7ee06b797f1195f207b56123fbc882c68141f7e1ec3": {
+        "title": "智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线",
+        "link": "https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-29T08:47:47.212089"
+      },
+      "004d4130575650d7a3cf6e3c5d08a9a172ef7adba978bc27ed0ecff1a006432b": {
+        "title": "LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了",
+        "link": "https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-29T08:47:47.212095"
+      },
+      "93a554f544213c2c71438b9b7b8b5ba2aeb2492c1afe6de8b77d0deee52f411f": {
+        "title": "Linus 之后的 Linux？内核社区终于写下“接班预案”",
+        "link": "https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 16:12:00 GMT",
+        "first_seen": "2026-01-29T08:47:47.212097"
+      },
+      "44e66040c19a8dc3b82cd328a4489b59d62d13eb000ea5b900276be4b1cf1df8": {
+        "title": "不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？",
+        "link": "https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 14:54:00 GMT",
+        "first_seen": "2026-01-29T08:47:47.212098"
+      },
+      "83aedc2f68c66e0193610b3bfd03eb7e1df0aadeeb89c1239d4c91dec9fc8c00": {
+        "title": "“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论",
+        "link": "https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-29T08:47:47.212100"
       }
     },
     "Finance": {
@@ -4569,33 +4569,21 @@
         "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories",
         "published_date": "Wed, 28 Jan 2026 23:38:00 GMT",
         "first_seen": "2026-01-29T05:46:21.981021"
+      },
+      "b0cb9255ff47f4b34e48e8bc078862dc1401887e0a78f210b05b61eb01c1b0c2": {
+        "title": "Tesla scraps models in pivot to AI as annual revenue falls for first time",
+        "link": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
+        "published_date": "Thu, 29 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-29T08:47:08.969370"
+      },
+      "adf0b33c86b5447d0cd306b49275ee5e6f28570af5c0cf6d8e1ac5ca4d026a15": {
+        "title": "Top chipmakers to boost capital spending amid AI-driven supply squeeze",
+        "link": "https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee",
+        "published_date": "Thu, 29 Jan 2026 07:03:00 GMT",
+        "first_seen": "2026-01-29T08:47:08.969377"
       }
     },
     "Ai": {
-      "ff23db636efa5cf07341a3b7bf4cdc4f5a72e707bcc1a2aa81f52c68cfda990f": {
-        "title": "吴恩达年终总结：2025是AI工业时代的黎明",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-7",
-        "published_date": "Tue, 30 Dec 2025 15:17:00 GMT",
-        "first_seen": "2025-12-30T08:32:05.320430"
-      },
-      "bbdb68200cee46818590127d378d84257c9b3c943000ff5f819f2f20d31b4d0c": {
-        "title": "自回归因果注意力也能并行解码？上交联合UCSD突破LLM推理瓶颈，模型代码全开源",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-6",
-        "published_date": "Tue, 30 Dec 2025 15:10:00 GMT",
-        "first_seen": "2025-12-30T08:32:05.320438"
-      },
-      "54c3a67e8e30e2f83328e2e70083758de0100aa2aea04f8af7554d866eec03ce": {
-        "title": "招生 | 港科大（广州）数据科学与分析学域2026-27博士项目申请开放！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-4",
-        "published_date": "Tue, 30 Dec 2025 12:10:00 GMT",
-        "first_seen": "2025-12-30T08:32:05.320441"
-      },
-      "8c1b174c89a4f49705271402230d42887724f70ef42da0330e1ee4f36a85b244": {
-        "title": "2025-12-30日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-30/",
-        "published_date": "Tue, 30 Dec 2025 07:17:00 GMT",
-        "first_seen": "2025-12-30T08:32:05.320443"
-      },
       "5e0e8ebab048b784f12cf75a7cd55bd5e38fe20cf158048034aa786ae2b10e86": {
         "title": "三维空间太难懂？RoboTracer让机器人理解复杂空间指令，推理3D空间轨迹，开放世界也能精确行动",
         "link": "https://www.jiqizhixin.com/articles/2025-12-30-10",
@@ -6779,13 +6767,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-4",
         "published_date": "Thu, 29 Jan 2026 11:27:00 GMT",
         "first_seen": "2026-01-29T05:46:36.622334"
+      },
+      "5aba29a3a617efc1f9ba4fc6fbd683c8bae17e088f6316f61914dfd4168f76fa": {
+        "title": "AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-5",
+        "published_date": "Thu, 29 Jan 2026 14:16:00 GMT",
+        "first_seen": "2026-01-29T08:47:21.122196"
+      },
+      "8a6762a169c388c9406c2bddc55bc3879a2935a2f288252a113ce7b3b920390d": {
+        "title": "华中科技大学最新综述倡立多模态推荐系统新范式：从“选择内容”迈向“生成内容”",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-8",
+        "published_date": "Thu, 29 Jan 2026 16:30:00 GMT",
+        "first_seen": "2026-01-29T08:47:21.122202"
+      },
+      "e94fea1b49d73526d8603ac498ed179360d7898650faee1d4e41a722a1cb5f53": {
+        "title": "阿里AI芯片露真容 “通云哥”黄金三角浮出水面",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29",
+        "published_date": "Thu, 29 Jan 2026 10:25:00 GMT",
+        "first_seen": "2026-01-29T08:47:21.122205"
+      },
+      "850786a713a730d57850994cfbd0b8b4d09d20f4133e2f411019465ef228ba2d": {
+        "title": "亚马逊裁员16000人，员工竟用AI「算」出了裁员名单？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-9",
+        "published_date": "Thu, 29 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-29T08:47:21.122207"
+      },
+      "924ad21e7330cf8192f5b7790153d44e59395848d855b4630f15d034186f146b": {
+        "title": "来这场沙龙，一览SGLang X 超长上下文扩展、RL后训练框架、扩散语言模型等前沿技术实践",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-7",
+        "published_date": "Thu, 29 Jan 2026 16:28:00 GMT",
+        "first_seen": "2026-01-29T08:47:21.122208"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-29T05:47:02.852448",
-    "Finance": "2026-01-29T05:46:21.981023",
-    "Ai": "2026-01-29T05:46:36.622338"
+    "Technology": "2026-01-29T08:47:47.212102",
+    "Finance": "2026-01-29T08:47:08.969380",
+    "Ai": "2026-01-29T08:47:21.122211"
   }
 }
