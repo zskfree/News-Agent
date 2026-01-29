@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "724ffbe4ed7c371339da1761c045846e229da58a54324e8723956624087364dd": {
-        "title": "台积电2nm，交卷了",
-        "link": "https://www.tmtpost.com/7826451.html",
-        "published_date": "Tue, 30 Dec 2025 19:12:00 GMT",
-        "first_seen": "2025-12-30T23:22:00.552926"
-      },
-      "e12461f4b0b34719f16ab7b5d597af2567151ad3c42eef2a098023fff6c78aa4": {
-        "title": "垄断全球70%存储芯片，韩国如何从贫困农业国崛起成世界第二半导体强国？",
-        "link": "http://www.huxiu.com/article/4821156.html?f=wangzhan",
-        "published_date": "Tue, 30 Dec 2025 20:00:00 GMT",
-        "first_seen": "2025-12-30T23:22:00.552933"
-      },
-      "77dbc8d374ccdb9f1b2be2aa82604c3b73d31e90076c8bbc0f5f91c0df96f630": {
-        "title": "Exclusive: “I believe in humanity, not AI,\" Fei-Fei Li Tells NextFin Founder",
-        "link": "https://www.tmtpost.com/7826776.html",
-        "published_date": "Tue, 30 Dec 2025 21:53:00 GMT",
-        "first_seen": "2025-12-30T23:22:00.552935"
-      },
-      "1c6b673b377f350baf3540916a08f504ce2a32b41634b995cba2fafd727225df": {
-        "title": "Meta数十亿美元买走中国AI团队，我们该鼓掌还是警醒？",
-        "link": "https://www.tmtpost.com/7826383.html",
-        "published_date": "Tue, 30 Dec 2025 19:17:00 GMT",
-        "first_seen": "2025-12-30T23:22:00.552937"
-      },
-      "eae5d2f70ee389e55a6958b76e70d52db8cf217f767a2972ca976b59ed33c084": {
-        "title": "L3级自动驾驶上路，我们离“放手”开车还有多远？",
-        "link": "http://www.huxiu.com/article/4822221.html?f=wangzhan",
-        "published_date": "Tue, 30 Dec 2025 22:06:00 GMT",
-        "first_seen": "2025-12-30T23:22:00.552939"
-      },
       "de74e2e7d343e1e494d870a23c86984f66ec1900b6ac5af0e7d44c1dc5fc3fc7": {
         "title": "Meta 数十亿美金收购 Manus ：AI时代的“先动者优势”与“下场论”",
         "link": "https://www.infoq.cn/article/HwpjfIajSSJDB2Yw0BiZ?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 29 Jan 2026 14:00:00 GMT",
         "first_seen": "2026-01-29T08:47:47.212100"
+      },
+      "eb5f9db874b24643cf8204c87f9e3ea0bee99118dc7a3ad8e295b0c8c3bd60bb": {
+        "title": "硅谷最新调研：2026年，AI  Agent到底会走向哪？",
+        "link": "https://www.tmtpost.com/7859884.html",
+        "published_date": "Thu, 29 Jan 2026 19:34:00 GMT",
+        "first_seen": "2026-01-29T23:29:42.467144"
+      },
+      "6934733f63d8b8bc922d64b77be92af6e22c225300da0bf38f9b198943969356": {
+        "title": "不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”",
+        "link": "https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 17:02:00 GMT",
+        "first_seen": "2026-01-29T23:29:42.467150"
+      },
+      "d80bdc960f9b02f3d576535884e41ecd585f79fd01f3db4cd399d3c073169e77": {
+        "title": "马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步",
+        "link": "https://www.tmtpost.com/7860098.html",
+        "published_date": "Thu, 29 Jan 2026 16:13:00 GMT",
+        "first_seen": "2026-01-29T23:29:42.467152"
+      },
+      "99035ae2fc14ec1dda7a45fd7ebdece49135ba2027f17798a638741a4cde3635": {
+        "title": "从春晚看，具身智能从炫技到落地的关键一年",
+        "link": "https://www.tmtpost.com/7859337.html",
+        "published_date": "Thu, 29 Jan 2026 09:40:00 GMT",
+        "first_seen": "2026-01-29T23:29:42.467154"
+      },
+      "8ff8fe68975e5099789e51c1dadae0901ed292870470e188efd6fc5e1531c863": {
+        "title": "沐曦股份估值神话背后：“中国AMD”攻坚国产替代",
+        "link": "https://www.tmtpost.com/7859312.html",
+        "published_date": "Thu, 29 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-29T23:29:42.467156"
       }
     },
     "Finance": {
-      "22a5a0ccb346a4a7ab5bad8e346744403b8be4105b94d8160a42fbc00c8ba4b2": {
-        "title": "Federal Reserve minutes highlight deep fissures at US central bank",
-        "link": "https://www.ft.com/content/c4a14fbd-a0cd-40b3-b8b0-e128d262e47a",
-        "published_date": "Tue, 30 Dec 2025 21:34:00 GMT",
-        "first_seen": "2025-12-30T23:21:26.286669"
-      },
-      "9f7cac46ad6682ae860d04677e5743ed075e2ee4ba58c6df8dc10780bb6a20cd": {
-        "title": "How the AI ‘bubble’ compares to history",
-        "link": "https://www.ft.com/content/41e9d03a-e5c1-4862-9836-b3c80b3f9be4",
-        "published_date": "Tue, 30 Dec 2025 15:45:00 GMT",
-        "first_seen": "2025-12-30T23:21:26.286679"
-      },
-      "64462cdc64f5e6f42561a6179e41a3ca39c0a028f89c7d5315258ece068dcb0f": {
-        "title": "Dollar on track for steepest annual drop for almost a decade",
-        "link": "https://www.ft.com/content/1712a946-5861-444e-9740-d488c865c5cf",
-        "published_date": "Tue, 30 Dec 2025 15:22:00 GMT",
-        "first_seen": "2025-12-30T23:21:26.286682"
-      },
-      "47262841734393f584cb5f3dd03dceb224b47b7b5f3340a71441f69624680ae0": {
-        "title": "Trump Media just launched five ‘Made in America’ ETFs, testing whether political power is an investable theme",
-        "link": "https://www.marketwatch.com/story/trump-media-just-launched-5-made-in-america-etfs-testing-whether-political-power-can-function-as-an-investable-theme-a959b3ca?mod=mw_rss_topstories",
-        "published_date": "Tue, 30 Dec 2025 21:11:00 GMT",
-        "first_seen": "2025-12-30T23:21:26.286684"
-      },
-      "a9253353318142b01ee5b22901024b77bf284abeaeeaee9e7b84069f08e281a4": {
-        "title": "Social Security had yet another terrible year — earning just 4.3% — and if Trump gets his way, 2026 will be even worse",
-        "link": "https://www.marketwatch.com/story/social-security-had-yet-another-terrible-year-earning-just-4-3-and-if-trump-gets-his-way-2026-will-be-even-worse-ce5f4b79?mod=mw_rss_topstories",
-        "published_date": "Tue, 30 Dec 2025 17:32:00 GMT",
-        "first_seen": "2025-12-30T23:21:26.286715"
-      },
       "5b3efeea0ee0583260c52514e702f7bb403be62726bd2fe36f99bc7f26f19921": {
         "title": "AI forecast to put 200,000 European banking jobs at risk by 2030",
         "link": "https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93",
@@ -4581,39 +4551,39 @@
         "link": "https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee",
         "published_date": "Thu, 29 Jan 2026 07:03:00 GMT",
         "first_seen": "2026-01-29T08:47:08.969377"
+      },
+      "96294abd2512dfdab0c17506bb93d4f497f6b4280ebdbefdc3758bb8c8769505": {
+        "title": "Stocks, gold and copper see big swings that show investors have few places to hide",
+        "link": "https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories",
+        "published_date": "Thu, 29 Jan 2026 22:41:00 GMT",
+        "first_seen": "2026-01-29T23:29:03.456480"
+      },
+      "41f08ac94dc76cb2c2ecf12fc59dc35cfe377992d48a9062a11ddcc79673e0cd": {
+        "title": "Software stocks suffer steep selloff, widening the gap with hot chip stocks",
+        "link": "https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories",
+        "published_date": "Thu, 29 Jan 2026 22:38:00 GMT",
+        "first_seen": "2026-01-29T23:29:03.456492"
+      },
+      "86763fd46e594656d45c6f04bb4b0478263f7c9ae4582de5c2f76d1126bc7009": {
+        "title": "Big tech’s $680bn buy-now-book-later problem",
+        "link": "https://www.ft.com/content/0dbfe94f-2136-432c-b075-4587092dee58",
+        "published_date": "Thu, 29 Jan 2026 11:24:00 GMT",
+        "first_seen": "2026-01-29T23:29:03.456494"
+      },
+      "9b43d640ab7b6c0bebcb8a27471589ab698367e747c92126e537e4bd56245134": {
+        "title": "Microsoft sheds $360bn in market value as AI spending spooks investors",
+        "link": "https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90",
+        "published_date": "Thu, 29 Jan 2026 21:15:00 GMT",
+        "first_seen": "2026-01-29T23:29:03.456497"
+      },
+      "f385f5093b627f546d2875c908af9f0ba039e8005207d1c73e9ea0295ce5ca90": {
+        "title": "Is the UK on the cusp of a productivity revival?",
+        "link": "https://www.ft.com/content/e4cf44c8-3c3d-4286-ab69-b603618aeac8",
+        "published_date": "Thu, 29 Jan 2026 14:09:00 GMT",
+        "first_seen": "2026-01-29T23:29:03.456498"
       }
     },
     "Ai": {
-      "5e0e8ebab048b784f12cf75a7cd55bd5e38fe20cf158048034aa786ae2b10e86": {
-        "title": "三维空间太难懂？RoboTracer让机器人理解复杂空间指令，推理3D空间轨迹，开放世界也能精确行动",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-10",
-        "published_date": "Tue, 30 Dec 2025 20:24:00 GMT",
-        "first_seen": "2025-12-30T23:21:37.375425"
-      },
-      "a8bf46caa36bb46a6477667916cebae834901212588f1126b09acaebbc1b5dc8": {
-        "title": "LSTM提出者点赞，引力波探测高效工具，国内团队开发DCL-xLSTM",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-9",
-        "published_date": "Tue, 30 Dec 2025 17:57:00 GMT",
-        "first_seen": "2025-12-30T23:21:37.375431"
-      },
-      "0fbae26f3b7a027647cedc8cc697db73d9ad5bf0cc8ba415e78e35fb2fbff83e": {
-        "title": "腾讯混元开源翻译模型1.5，端侧可部署，效果超越商用API",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-8",
-        "published_date": "Tue, 30 Dec 2025 17:54:00 GMT",
-        "first_seen": "2025-12-30T23:21:37.375433"
-      },
-      "399dc27f311d33f3a98120cf21f9210395c3bbb0e2d1b0c5ecdada632f31ef5d": {
-        "title": "摩尔线程天使投资人：对近期AI的四十个观察",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-11",
-        "published_date": "Tue, 30 Dec 2025 20:43:00 GMT",
-        "first_seen": "2025-12-30T23:21:37.375435"
-      },
-      "e6ee724dfc1d2c7e82a873fef0def191c0f8552931bec2c90d643dfb8bb84400": {
-        "title": "华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力",
-        "link": "https://www.qbitai.com/2025/12/366277.html",
-        "published_date": "Tue, 30 Dec 2025 09:26:00 GMT",
-        "first_seen": "2025-12-30T23:21:37.375437"
-      },
       "7d5c1bac40bb2470114618bdc63953ebfd4e1bd52727785dcfbda9b4d102d465": {
         "title": "NUS尤洋教授深度探讨智能增长的瓶颈：或许我们将这样实现AGI？",
         "link": "https://www.jiqizhixin.com/articles/2025-12-31-4",
@@ -6797,13 +6767,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-7",
         "published_date": "Thu, 29 Jan 2026 16:28:00 GMT",
         "first_seen": "2026-01-29T08:47:21.122208"
+      },
+      "2320ee9ac35ef434f5673cc76618cfcba7d309b4f0babc6120284190ac1c599d": {
+        "title": "刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-12",
+        "published_date": "Thu, 29 Jan 2026 18:59:00 GMT",
+        "first_seen": "2026-01-29T23:29:17.665887"
+      },
+      "244acd82adcfbee350e37a46a954fb96e6e0379ccb5a58718fd20ffbd595278c": {
+        "title": "Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-10",
+        "published_date": "Thu, 29 Jan 2026 18:41:00 GMT",
+        "first_seen": "2026-01-29T23:29:17.665893"
+      },
+      "f9fdaaf420a08a6208cd18320e3324e915babe8263d9339bc313712909fbbc6f": {
+        "title": "登顶行业SOTA的多模态视频生成标杆，昆仑天工刚给开源了",
+        "link": "https://www.qbitai.com/2026/01/374272.html",
+        "published_date": "Thu, 29 Jan 2026 09:07:00 GMT",
+        "first_seen": "2026-01-29T23:29:17.665895"
+      },
+      "07bf20863b851df409876fd06ff0a376dde38bdc90410eb176f79e476a6ad6c0": {
+        "title": "纳米漫剧流水线公测上线，开启漫剧工业化生产时代",
+        "link": "https://www.qbitai.com/2026/01/374390.html",
+        "published_date": "Thu, 29 Jan 2026 10:51:00 GMT",
+        "first_seen": "2026-01-29T23:29:17.665897"
+      },
+      "06085d7f0d37911249f7a998026c3a0d87190a59c93d10476f6a8966005477aa": {
+        "title": "Clawdbot 零基础接入钉钉，手把手教你把私人AI搬到聊天",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-6",
+        "published_date": "Thu, 29 Jan 2026 15:11:00 GMT",
+        "first_seen": "2026-01-29T23:29:17.665898"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-29T08:47:47.212102",
-    "Finance": "2026-01-29T08:47:08.969380",
-    "Ai": "2026-01-29T08:47:21.122211"
+    "Technology": "2026-01-29T23:29:42.467157",
+    "Finance": "2026-01-29T23:29:03.456501",
+    "Ai": "2026-01-29T23:29:17.665900"
   }
 }

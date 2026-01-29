@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 08:47:21 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:29:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-5</link>
-      <description>&lt;![CDATA[AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 14:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-5</guid>
+      <title>刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-12</link>
+      <description>&lt;![CDATA[刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华中科技大学最新综述倡立多模态推荐系统新范式：从“选择内容”迈向“生成内容”</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-8</link>
-      <description>&lt;![CDATA[华中科技大学最新综述倡立多模态推荐系统新范式：从“选择内容”迈向“生成内容”]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-8</guid>
+      <title>Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-10</link>
+      <description>&lt;![CDATA[Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里AI芯片露真容 “通云哥”黄金三角浮出水面</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29</link>
-      <description>&lt;![CDATA[阿里AI芯片露真容 “通云哥”黄金三角浮出水面]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29</guid>
+      <title>登顶行业SOTA的多模态视频生成标杆，昆仑天工刚给开源了</title>
+      <link>https://www.qbitai.com/2026/01/374272.html</link>
+      <description>&lt;![CDATA[登顶行业SOTA的多模态视频生成标杆，昆仑天工刚给开源了]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374272.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>亚马逊裁员16000人，员工竟用AI「算」出了裁员名单？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-9</link>
-      <description>&lt;![CDATA[亚马逊裁员16000人，员工竟用AI「算」出了裁员名单？]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-9</guid>
+      <title>纳米漫剧流水线公测上线，开启漫剧工业化生产时代</title>
+      <link>https://www.qbitai.com/2026/01/374390.html</link>
+      <description>&lt;![CDATA[纳米漫剧流水线公测上线，开启漫剧工业化生产时代]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374390.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>来这场沙龙，一览SGLang X 超长上下文扩展、RL后训练框架、扩散语言模型等前沿技术实践</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-7</link>
-      <description>&lt;![CDATA[来这场沙龙，一览SGLang X 超长上下文扩展、RL后训练框架、扩散语言模型等前沿技术实践]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-7</guid>
+      <title>Clawdbot 零基础接入钉钉，手把手教你把私人AI搬到聊天</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-6</link>
+      <description>&lt;![CDATA[Clawdbot 零基础接入钉钉，手把手教你把私人AI搬到聊天]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-6</guid>
       <category>Ai</category>
     </item>
   </channel>

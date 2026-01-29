@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 08:47
+**最后更新时间**: 2026-01-29 23:28
+
+---
+
+## 🆕 最新更新 (2026-01-29 23:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行理财市场研究（2025年四季度）](https://www.tmtpost.com/7860699.html)
+**发布时间**: 2026-01-29 22:05
+
+#### [《公开募集证券投资基金业绩比较基准指引（正式稿）》及操作细则解读](https://www.tmtpost.com/7860689.html)
+**发布时间**: 2026-01-29 22:03
+
+#### [价值判断： 涨停板的投资机会和风险提示 （1月27日）｜证券市场观察](https://www.tmtpost.com/7860686.html)
+**发布时间**: 2026-01-29 22:02
+
+#### [Exclusive: Cainiao Becomes Shareholder of Zelos](https://www.tmtpost.com/7860657.html)
+**发布时间**: 2026-01-29 21:28
+
+#### [宜家在中国坚守了28年的模式，为什么今天不大灵了？](https://www.tmtpost.com/7860127.html)
+**发布时间**: 2026-01-29 21:02
+
+#### [字节跳动全员会，CEO梁汝波罕见定调：公司的高峰，只能是它](https://www.tmtpost.com/7860600.html)
+**发布时间**: 2026-01-29 20:53
+
+#### [CPU爆火，但服务器领域还有更大机会](https://www.tmtpost.com/7860498.html)
+**发布时间**: 2026-01-29 20:48
+
+#### [“剽窃不是创新！”700位明星联名抵制AI，好莱坞又要地震了？](https://www.tmtpost.com/7860495.html)
+**发布时间**: 2026-01-29 20:48
+
+#### [手撕“烂业绩”剧本，特斯拉要逆风翻盘了？](https://www.tmtpost.com/7859910.html)
+**发布时间**: 2026-01-29 20:48
+
+#### [万亿太空竞速，商业航天进入城市“战国时代”](https://www.tmtpost.com/7859909.html)
+**发布时间**: 2026-01-29 20:48
+
+#### [大厂AI竞速，字节、阿里、腾讯“血拼”春节档](https://www.tmtpost.com/7860488.html)
+**发布时间**: 2026-01-29 20:48
+
+#### [从个人IP到商业系统，一人公司正在成为下一种公司形态](https://www.tmtpost.com/7860316.html)
+**发布时间**: 2026-01-29 20:47
+
+#### [Anthropic遭遇OpenAI贴身肉搏，上市路多了个坎](https://www.tmtpost.com/7860246.html)
+**发布时间**: 2026-01-29 20:47
+
+#### [AI Glasses Market: A Game of Endurance, With No Way Out for Startups](https://www.tmtpost.com/7860590.html)
+**发布时间**: 2026-01-29 20:10
+
+#### [纾困保壳抢滩窗口期，内忧外患下众泰汽车复产叙事难讲](https://www.tmtpost.com/7860558.html)
+**发布时间**: 2026-01-29 19:54
+
+#### [2026 自动驾驶 IPO 大年：技术筑壁垒，资本定格局](https://www.tmtpost.com/7859758.html)
+**发布时间**: 2026-01-29 19:34
+
+#### [AI漫剧“淘金热”里，卖课人先赚第一桶金](https://www.tmtpost.com/7860526.html)
+**发布时间**: 2026-01-29 19:34
+
+#### [黄金超级周期浪潮下，矿业巨无霸们的出海之路](https://www.tmtpost.com/7860519.html)
+**发布时间**: 2026-01-29 19:34
+
+#### [硅谷最新调研：2026年，AI  Agent到底会走向哪？](https://www.tmtpost.com/7859884.html)
+**发布时间**: 2026-01-29 19:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [世界模型混战，蚂蚁炸出开源牌](https://www.infoq.cn/article/hmKcZ2hdjDk3SspgikfV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 19:59
+
+#### [如何大规模构建、部署和管理智能体](https://www.infoq.cn/article/WYSZ0iMoqpfYfVDiGKdu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 18:26
+
+#### [不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”](https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 17:02
+
+#### [Aspire 13.1带来了MCP集成、CLI增强和Azure部署更新](https://www.infoq.cn/article/7yEzcHRZxLIIVR4zMV4k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 234｜少数派的编辑们最近买了啥？](https://sspai.com/post/105869)
+**发布时间**: 2026-01-29 17:07
 
 ---
 

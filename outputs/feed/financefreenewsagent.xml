@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 08:47:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 08:47:08 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:29:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tesla scraps models in pivot to AI as annual revenue falls for first time</title>
-      <link>https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8</link>
-      <description>&lt;![CDATA[Tesla scraps models in pivot to AI as annual revenue falls for first time]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8</guid>
+      <title>Stocks, gold and copper see big swings that show investors have few places to hide</title>
+      <link>https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stocks, gold and copper see big swings that show investors have few places to hide]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Top chipmakers to boost capital spending amid AI-driven supply squeeze</title>
-      <link>https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee</link>
-      <description>&lt;![CDATA[Top chipmakers to boost capital spending amid AI-driven supply squeeze]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee</guid>
+      <title>Software stocks suffer steep selloff, widening the gap with hot chip stocks</title>
+      <link>https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Software stocks suffer steep selloff, widening the gap with hot chip stocks]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Big tech’s $680bn buy-now-book-later problem</title>
+      <link>https://www.ft.com/content/0dbfe94f-2136-432c-b075-4587092dee58</link>
+      <description>&lt;![CDATA[Big tech’s $680bn buy-now-book-later problem]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0dbfe94f-2136-432c-b075-4587092dee58</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Microsoft sheds $360bn in market value as AI spending spooks investors</title>
+      <link>https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90</link>
+      <description>&lt;![CDATA[Microsoft sheds $360bn in market value as AI spending spooks investors]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 21:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Is the UK on the cusp of a productivity revival?</title>
+      <link>https://www.ft.com/content/e4cf44c8-3c3d-4286-ab69-b603618aeac8</link>
+      <description>&lt;![CDATA[Is the UK on the cusp of a productivity revival?]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e4cf44c8-3c3d-4286-ab69-b603618aeac8</guid>
       <category>Finance</category>
     </item>
   </channel>

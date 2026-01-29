@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 08:47:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 08:47:47 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:29:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线</title>
-      <link>https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷最新调研：2026年，AI  Agent到底会走向哪？</title>
+      <link>https://www.tmtpost.com/7859884.html</link>
+      <description>&lt;![CDATA[硅谷最新调研：2026年，AI  Agent到底会走向哪？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 19:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859884.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了</title>
-      <link>https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”</title>
+      <link>https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linus 之后的 Linux？内核社区终于写下“接班预案”</title>
-      <link>https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linus 之后的 Linux？内核社区终于写下“接班预案”]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步</title>
+      <link>https://www.tmtpost.com/7860098.html</link>
+      <description>&lt;![CDATA[马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860098.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？</title>
-      <link>https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 14:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从春晚看，具身智能从炫技到落地的关键一年</title>
+      <link>https://www.tmtpost.com/7859337.html</link>
+      <description>&lt;![CDATA[从春晚看，具身智能从炫技到落地的关键一年]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859337.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论</title>
-      <link>https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>沐曦股份估值神话背后：“中国AMD”攻坚国产替代</title>
+      <link>https://www.tmtpost.com/7859312.html</link>
+      <description>&lt;![CDATA[沐曦股份估值神话背后：“中国AMD”攻坚国产替代]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859312.html</guid>
       <category>Technology</category>
     </item>
   </channel>

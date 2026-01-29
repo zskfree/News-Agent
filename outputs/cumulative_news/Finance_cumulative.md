@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 08:47
+**最后更新时间**: 2026-01-29 23:28
+
+---
+
+## 🆕 最新更新 (2026-01-29 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Sandisk’s eye-popping earnings forecast helps justify 1,400% stock surge](https://www.marketwatch.com/story/sandisks-eye-popping-earnings-forecast-helps-justify-1-400-stock-surge-a25fd452?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 23:20
+
+#### [Stocks, gold and copper see big swings that show investors have few places to hide](https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 22:41
+
+#### [Software stocks suffer steep selloff, widening the gap with hot chip stocks](https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 22:38
+
+#### [4 tips to file your taxes like a pro — and get your refund faster](https://www.marketwatch.com/story/4-tips-to-file-your-taxes-like-a-pro-and-get-your-refund-faster-b20070aa?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 22:26
+
+#### [These charts are signaling the S&P 500’s next move](https://www.marketwatch.com/story/these-stock-traders-charts-are-signaling-the-s-p-500s-next-move-4bb6f47b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 22:16
+
+#### [Why Southwest Airlines’ stock soared to its highest close in years](https://www.marketwatch.com/story/why-southwest-airlines-stock-is-soaring-toward-its-best-day-in-17-years-b9c59b22?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 21:46
+
+#### [Microsoft’s stock may be ‘dead money’ even after historic $357 billion market-cap wipeout](https://www.marketwatch.com/story/microsofts-stock-may-be-dead-money-even-after-historic-357-billion-market-cap-wipeout-7b45fc48?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 21:44
+
+#### [Lululemon is looking to catch the Labubu wave. It’s two years late.](https://www.marketwatch.com/story/lululemon-is-looking-to-catch-the-labubu-wave-its-two-years-late-adea8318?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 21:38
+
+#### [Lockheed Martin’s stock is having its best month in half a century. Thanks, President Trump.](https://www.marketwatch.com/story/lockheed-martins-stock-is-having-its-best-month-in-half-a-century-thanks-president-trump-2b3c38ea?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 21:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple posts record $144bn in revenue after blockbuster iPhone sales](https://www.ft.com/content/53f1033e-a479-4365-a13c-2e4ec2631402)
+**发布时间**: 2026-01-29 22:32
+
+#### [Microsoft sheds $360bn in market value as AI spending spooks investors](https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90)
+**发布时间**: 2026-01-29 21:15
+
+#### [Starbucks set to open thousands more coffee shops globally](https://www.ft.com/content/a1190de1-570e-4472-8505-e5e65921c52d)
+**发布时间**: 2026-01-29 19:41
+
+#### [Trump says Putin has agreed to suspend attacks on Ukraine’s capital](https://www.ft.com/content/f8e8cbcb-0ba8-45f0-958e-1f00ad458737)
+**发布时间**: 2026-01-29 19:35
+
+#### [Mercedes-Benz boss says Howard Lutnick urged carmaker to move its HQ to US](https://www.ft.com/content/2f7982f7-b370-48e9-a8a6-15922d85788c)
+**发布时间**: 2026-01-29 18:09
+
+#### [Germany signals joint fighter project with France may not deliver jets](https://www.ft.com/content/6f65417d-8e4c-48ff-a2c3-4437d881ae1c)
+**发布时间**: 2026-01-29 18:08
+
+#### [Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1)
+**发布时间**: 2026-01-29 17:32
+
+#### [Companies reap $22bn from Trump’s immigration crackdown](https://www.ft.com/content/c74170d3-237d-459c-8642-bfd71530897d)
+**发布时间**: 2026-01-29 17:20
+
+#### [Is the UK on the cusp of a productivity revival?](https://www.ft.com/content/e4cf44c8-3c3d-4286-ab69-b603618aeac8)
+**发布时间**: 2026-01-29 14:09
+
+#### [It’s time we had a proper debate about funding university education](https://www.ft.com/content/6143b57d-67e5-4f40-9ed4-0a7496b1c2b6)
+**发布时间**: 2026-01-29 12:19
+
+#### [Big tech’s $680bn buy-now-book-later problem](https://www.ft.com/content/0dbfe94f-2136-432c-b075-4587092dee58)
+**发布时间**: 2026-01-29 11:24
 
 ---
 
