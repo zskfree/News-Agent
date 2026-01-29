@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "be4ae0154c4cd7a2b6baa74db81a44666def2057179c95480bf7e7484083816f": {
-        "title": "智能黑科技加持，这家新势力拉开两轮电动车新变局",
-        "link": "https://www.tmtpost.com/7824897.html",
-        "published_date": "Tue, 30 Dec 2025 12:47:00 GMT",
-        "first_seen": "2025-12-30T05:27:14.222543"
-      },
-      "094e1f082be40834d66f9afdc8816025cc493cf994f172fbc4f529d01abaa3cc": {
-        "title": "起底江波龙：高中生干出千亿芯片帝国，赚得比寒武纪还多？",
-        "link": "https://www.tmtpost.com/7825577.html",
-        "published_date": "Tue, 30 Dec 2025 11:48:00 GMT",
-        "first_seen": "2025-12-30T05:27:14.222551"
-      },
-      "b1f360ece6eccda48767f731b57696ac1fddea33cc143bc9cb28e8fa61786565": {
-        "title": "超越胜率：Spotify如何在产品实验中量化学习成果",
-        "link": "https://www.infoq.cn/article/gUcRCSFjaYHr248gQjZj?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Dec 2025 11:59:00 GMT",
-        "first_seen": "2025-12-30T05:27:14.222553"
-      },
-      "1c3771075d1ef804e2611019860361fbc80280b766f9f53737321e4bfee7bd9b": {
-        "title": "全球首个IPO大模型公司出现！智谱携500亿估值开启招股、70%募资投研发，1月8日登陆港股",
-        "link": "https://www.infoq.cn/article/AoGqcFOV2vfaoLHmIzaT?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Dec 2025 10:35:00 GMT",
-        "first_seen": "2025-12-30T05:27:14.222555"
-      },
-      "398857b73fd773de3c70931002ab7c697b47bf15af5712d493b22184c188cc4d": {
-        "title": "魏家餐饮“整新活”开音乐餐酒吧，光环之下仍有隐忧",
-        "link": "https://www.tmtpost.com/7825614.html",
-        "published_date": "Tue, 30 Dec 2025 11:52:00 GMT",
-        "first_seen": "2025-12-30T05:27:14.222557"
-      },
       "6c649853da591acc9c6e972b7583ed697a060eeb872c6387a6127f9d8b25d077": {
         "title": "大模型狂叠 buff、Agent乱杀，2025大洗牌预警：96%中国机器人公司恐活不过明年，哪个行业真正被AI改造了？",
         "link": "https://www.infoq.cn/article/RdJt87O52zdYrmi81CEp?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530960&idx=1&sn=a0ae64f739e9f669bc9eca8cb4c4c085",
         "published_date": "Wed, 28 Jan 2026 15:14:00 GMT",
         "first_seen": "2026-01-28T23:29:03.595913"
+      },
+      "7663345ed8034ae15d3cd9027697dcb60bd5022fd22abd6b05afb186fee9a511": {
+        "title": "又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成",
+        "link": "https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 10:44:00 GMT",
+        "first_seen": "2026-01-29T05:47:02.852435"
+      },
+      "f34e4b65a319875caac469618856561d366183368f803064d0a8b5ba54a55b5a": {
+        "title": "全球疯抢光刻机",
+        "link": "https://www.tmtpost.com/7859839.html",
+        "published_date": "Thu, 29 Jan 2026 13:05:00 GMT",
+        "first_seen": "2026-01-29T05:47:02.852441"
+      },
+      "7813ed8c6ba2cb3c71427b208113b16f34aeee4ea0b7801e414be4a09514c7c3": {
+        "title": "多次全球性中断后，Cloudflare推出了“Code Orange: Fail Small”韧性计划",
+        "link": "https://www.infoq.cn/article/lKcqZxO13IGomsA22W0N?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 10:53:00 GMT",
+        "first_seen": "2026-01-29T05:47:02.852443"
+      },
+      "565b61bbf5af99dae949877a35ef5cfdf6be930673feba108b75432ae74f6ca0": {
+        "title": "Rust贡献者推出新语言Rue，探索AI辅助编译器开发",
+        "link": "https://www.infoq.cn/article/amMNKG5vmN7LkiIA4ObY?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-29T05:47:02.852445"
+      },
+      "d2164c5be1fecce235948aab3154b04494bdf66e16c778a5c65cc346d2083fa5": {
+        "title": "被Anthropic强制要求改名！Clawdbot 创始人一人开发、100% AI 写代码，腾讯又跟上了热度",
+        "link": "https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Jan 2026 09:54:00 GMT",
+        "first_seen": "2026-01-29T05:47:02.852446"
       }
     },
     "Finance": {
-      "45a2873095c56752f35700107a3d256e771a3b298e61c6b707bed4a397776b71": {
-        "title": "China steps up Taiwan military drills with live-fire exercises",
-        "link": "https://www.ft.com/content/db8068c0-1b90-4cab-953f-518d78ae5335",
-        "published_date": "Tue, 30 Dec 2025 03:33:00 GMT",
-        "first_seen": "2025-12-30T05:25:45.027572"
-      },
-      "0b37591ed472246a05dabcf70017effbbced696cdb4fc8c48d18c5080d9d796f": {
-        "title": "Trump threatens strikes against Iran if it restarts nuclear programme",
-        "link": "https://www.ft.com/content/657e3d1f-59da-4b31-ab7a-ac870f43f678",
-        "published_date": "Tue, 30 Dec 2025 00:56:00 GMT",
-        "first_seen": "2025-12-30T05:25:45.027580"
-      },
-      "4a4e0fbe33d83f1fff3c4e9e920fa973e796a6e16756644f4d0612bfe0bc07d7": {
-        "title": "Private equity firms sell assets to themselves at a record rate",
-        "link": "https://www.ft.com/content/0236c2ce-a430-4772-b859-bda553784de2",
-        "published_date": "Tue, 30 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-30T05:25:45.027583"
-      },
-      "c74d4bf3479864ce06fcd71172917cc18d63b40c71cfb6817462033ea2cce9ed": {
-        "title": "Charts of the year: Trump’s attempt to reshape world trade",
-        "link": "https://www.ft.com/content/26f2ff97-621a-48cd-9a0d-dd0a19ae7452",
-        "published_date": "Tue, 30 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-30T05:25:45.027585"
-      },
-      "8ba41375feb7cc7ac793eeb322bf6205ae9e82f557de4b23ad57c451da0c773f": {
-        "title": "British business has an opportunity to defy the gloom",
-        "link": "https://www.ft.com/content/c95b0866-ab8f-4990-93bc-627d758d4999",
-        "published_date": "Tue, 30 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-30T05:25:45.027587"
-      },
       "22a5a0ccb346a4a7ab5bad8e346744403b8be4105b94d8160a42fbc00c8ba4b2": {
         "title": "Federal Reserve minutes highlight deep fissures at US central bank",
         "link": "https://www.ft.com/content/c4a14fbd-a0cd-40b3-b8b0-e128d262e47a",
@@ -4569,39 +4539,39 @@
         "link": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories",
         "published_date": "Wed, 28 Jan 2026 22:56:00 GMT",
         "first_seen": "2026-01-28T23:28:23.772921"
+      },
+      "56395b67d56e74b89938d138fafd941b1360aeb7444f4cd984db6642fd9e1752": {
+        "title": "Trump’s ‘beautiful armada’ underlines US threat to Iran",
+        "link": "https://www.ft.com/content/c1218f3a-0e56-43d3-bd8e-c5ab911394db",
+        "published_date": "Thu, 29 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-29T05:46:21.981006"
+      },
+      "36da6972700d86d84fe9377692947f66ad870b7ef577bb7c4ff2072ab2683f64": {
+        "title": "Starmer tells Xi UK wants more ‘sophisticated’ relationship with China",
+        "link": "https://www.ft.com/content/db6ce84e-c597-4fbe-baed-419b03200831",
+        "published_date": "Thu, 29 Jan 2026 04:08:00 GMT",
+        "first_seen": "2026-01-29T05:46:21.981014"
+      },
+      "466febe7cbb7559f9e44854651522a1b6d0a5379a56ffba3232ec6a017d16962": {
+        "title": "UK vehicle output hits lowest since 1950s as companies weigh defence shift",
+        "link": "https://www.ft.com/content/584c178c-8092-4bac-ac0b-49d94925d277",
+        "published_date": "Thu, 29 Jan 2026 00:01:00 GMT",
+        "first_seen": "2026-01-29T05:46:21.981017"
+      },
+      "55d0db1c14e01197b73721247d066c61ee39fd2bddde76c0c70d17f4fcfd732d": {
+        "title": "‘I wouldn’t dare take these drugs . . . I just sell them’: how China supplies untested peptides to the west",
+        "link": "https://www.ft.com/content/b15407bd-7b86-45c3-9780-0c92117ccbfb",
+        "published_date": "Thu, 29 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-29T05:46:21.981019"
+      },
+      "e71f6ef238ee92c9e74dd2e51d625c11dcb961d9b850e5c0ff471399bccd1efd": {
+        "title": "Micron and other chip stocks are seeing a big boost after these comments",
+        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Jan 2026 23:38:00 GMT",
+        "first_seen": "2026-01-29T05:46:21.981021"
       }
     },
     "Ai": {
-      "fc01fb145583265e1764931ca9b9d940768cb048f9a29943a21c2cf1ddf660d4": {
-        "title": "清华朱军团队Nature Machine Intelligence：多模态扩散模型实现心血管信号实时全面监测",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-3",
-        "published_date": "Tue, 30 Dec 2025 12:08:00 GMT",
-        "first_seen": "2025-12-30T05:26:25.610826"
-      },
-      "bfd73df8fb5457b100342f11b403d6593adfb4a64364be7c14241313e83badb4": {
-        "title": "港大联合字节跳动提出JoVA: 一种基于联合自注意力的视频-音频联合生成模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30",
-        "published_date": "Tue, 30 Dec 2025 10:11:00 GMT",
-        "first_seen": "2025-12-30T05:26:25.610832"
-      },
-      "299d5275912c0e846ad4994c202e72361728c060af84488fab4075777d03f42c": {
-        "title": "Manus被收购，智谱也定了8天后上市",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-5",
-        "published_date": "Tue, 30 Dec 2025 12:12:00 GMT",
-        "first_seen": "2025-12-30T05:26:25.610834"
-      },
-      "213790caa906bab1d8380a671737cc7b7f24a171ff11279d57971048ea39e8de": {
-        "title": "突发！Meta官宣收购智能体初创公司Manus",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-30-2",
-        "published_date": "Tue, 30 Dec 2025 10:13:00 GMT",
-        "first_seen": "2025-12-30T05:26:25.610836"
-      },
-      "391a6fa460b2ddcd70707fe6f0930f43a0c6367c733b8d0758b9a4ad5eb340e0": {
-        "title": "Manus卖给了Meta！年初火爆年底数十亿美元被收购",
-        "link": "https://www.qbitai.com/2025/12/366226.html",
-        "published_date": "Tue, 30 Dec 2025 00:15:00 GMT",
-        "first_seen": "2025-12-30T05:26:25.610837"
-      },
       "ff23db636efa5cf07341a3b7bf4cdc4f5a72e707bcc1a2aa81f52c68cfda990f": {
         "title": "吴恩达年终总结：2025是AI工业时代的黎明",
         "link": "https://www.jiqizhixin.com/articles/2025-12-30-7",
@@ -6779,13 +6749,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-28-8",
         "published_date": "Wed, 28 Jan 2026 13:31:00 GMT",
         "first_seen": "2026-01-28T23:28:35.074971"
+      },
+      "a7f929d44a3b0476fca2acf2bb110e3b6f30f2ca7ca2ef68f38aef4f4529dd44": {
+        "title": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-2",
+        "published_date": "Thu, 29 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-29T05:46:36.622292"
+      },
+      "bddc8d8f1b044d9db8701d9f01d556011b91848edc4499d5f672ba86676a9574": {
+        "title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
+        "link": "https://www.qbitai.com/2026/01/373755.html",
+        "published_date": "Thu, 29 Jan 2026 02:57:00 GMT",
+        "first_seen": "2026-01-29T05:46:36.622299"
+      },
+      "5e225e12fad964ba198a20b5e865e9f422805b1ee3870ef9161a9b9ca23ea7e6": {
+        "title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
+        "link": "https://www.qbitai.com/2026/01/373744.html",
+        "published_date": "Thu, 29 Jan 2026 02:38:00 GMT",
+        "first_seen": "2026-01-29T05:46:36.622326"
+      },
+      "c1da31cafb1433e24af26a24e6bd7d7837db689f49dcf48ccf69cfaca98021be": {
+        "title": "JustGRPO：扩散语言模型的极简主义回归",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-3",
+        "published_date": "Thu, 29 Jan 2026 11:24:00 GMT",
+        "first_seen": "2026-01-29T05:46:36.622331"
+      },
+      "fc2ad29522e73a4cc6452aa7af2c4408bba3f08ff760630d2fc55fcde9289045": {
+        "title": "一觉醒来，Clawdbot突然操纵电脑开口说话了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-29-4",
+        "published_date": "Thu, 29 Jan 2026 11:27:00 GMT",
+        "first_seen": "2026-01-29T05:46:36.622334"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-28T23:29:03.595914",
-    "Finance": "2026-01-28T23:28:23.772923",
-    "Ai": "2026-01-28T23:28:35.074974"
+    "Technology": "2026-01-29T05:47:02.852448",
+    "Finance": "2026-01-29T05:46:21.981023",
+    "Ai": "2026-01-29T05:46:36.622338"
   }
 }

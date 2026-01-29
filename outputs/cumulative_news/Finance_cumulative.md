@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 23:28
+**最后更新时间**: 2026-01-29 05:46
+
+---
+
+## 🆕 最新更新 (2026-01-29 05:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s ‘beautiful armada’ underlines US threat to Iran](https://www.ft.com/content/c1218f3a-0e56-43d3-bd8e-c5ab911394db)
+**发布时间**: 2026-01-29 05:00
+
+#### [Do markets make us moral?](https://www.ft.com/content/3c332044-69ca-490a-b710-47c312e1191c)
+**发布时间**: 2026-01-29 05:00
+
+#### [‘I wouldn’t dare take these drugs . . . I just sell them’: how China supplies untested peptides to the west](https://www.ft.com/content/b15407bd-7b86-45c3-9780-0c92117ccbfb)
+**发布时间**: 2026-01-29 05:00
+
+#### [Pay for mid-tier accounting partners soars to record level against Big Four](https://www.ft.com/content/b269cc40-1e7c-4d12-b2c8-d78f8c975f0b)
+**发布时间**: 2026-01-29 05:00
+
+#### [Starmer tells Xi UK wants more ‘sophisticated’ relationship with China](https://www.ft.com/content/db6ce84e-c597-4fbe-baed-419b03200831)
+**发布时间**: 2026-01-29 04:08
+
+#### [UK vehicle output hits lowest since 1950s as companies weigh defence shift](https://www.ft.com/content/584c178c-8092-4bac-ac0b-49d94925d277)
+**发布时间**: 2026-01-29 00:01
+
+#### [Meta’s record sales boost shares 10% despite massive spending plans](https://www.ft.com/content/d1e5a35e-4e8b-4e5d-af4e-9e19dca51de8)
+**发布时间**: 2026-01-28 23:54
+
+#### [Tesla trims car line-up in pivot to AI as annual revenue falls for first time](https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8)
+**发布时间**: 2026-01-28 23:17
+
+#### [Universal basic income needed to cushion blow from AI job losses, says UK minister](https://www.ft.com/content/3ebc4947-c7f7-4d79-ab69-6dad430d054b)
+**发布时间**: 2026-01-28 21:00
+
+#### [Talks with US over Chagos Islands deal have reopened, confirms Starmer](https://www.ft.com/content/9c6d74da-fa9d-4824-bdf5-a771819c2713)
+**发布时间**: 2026-01-28 18:49
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [York Space tests the market’s hunger for satellite stocks as it upsizes its IPO](https://www.marketwatch.com/story/york-space-tests-the-markets-hunger-for-satellite-stocks-as-it-upsizes-its-ipo-ad7e6a89?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 01:49
+
+#### [Why Microsoft’s stock is getting punished after earnings](https://www.marketwatch.com/story/why-microsofts-stock-is-getting-punished-after-earnings-a0a9ef0f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-29 01:16
+
+#### [AT&T’s earnings impress as subscriber growth booms and the stock jumps](https://www.marketwatch.com/story/at-ts-earnings-impress-as-subscriber-growth-booms-and-the-stock-soars-39285b27?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 23:50
+
+#### [Starbucks rewards investors who have been betting the turnaround is taking hold](https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 23:46
+
+#### [Micron and other chip stocks are seeing a big boost after these comments](https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 23:38
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 23:29:03 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 05:46:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:47:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现</title>
-      <link>https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成</title>
+      <link>https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>喊话特朗普重视AI风险，Anthropic CEO万字长文写应对方案，这方案也是Claude辅助完成的</title>
-      <link>https://www.infoq.cn/article/cRaRb2Qqo5wi63K2EUEz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[喊话特朗普重视AI风险，Anthropic CEO万字长文写应对方案，这方案也是Claude辅助完成的]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cRaRb2Qqo5wi63K2EUEz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全球疯抢光刻机</title>
+      <link>https://www.tmtpost.com/7859839.html</link>
+      <description>&lt;![CDATA[全球疯抢光刻机]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 13:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859839.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么L3还没正式上路，汽车公司却要直接跳过?</title>
-      <link>https://www.tmtpost.com/7859082.html</link>
-      <description>&lt;![CDATA[为什么L3还没正式上路，汽车公司却要直接跳过?]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859082.html</guid>
+      <title>多次全球性中断后，Cloudflare推出了“Code Orange: Fail Small”韧性计划</title>
+      <link>https://www.infoq.cn/article/lKcqZxO13IGomsA22W0N?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[多次全球性中断后，Cloudflare推出了“Code Orange: Fail Small”韧性计划]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lKcqZxO13IGomsA22W0N?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果的 Vision Pro ，或许还能再“抢救一下”</title>
-      <link>https://www.tmtpost.com/7858789.html</link>
-      <description>&lt;![CDATA[苹果的 Vision Pro ，或许还能再“抢救一下”]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7858789.html</guid>
+      <title>Rust贡献者推出新语言Rue，探索AI辅助编译器开发</title>
+      <link>https://www.infoq.cn/article/amMNKG5vmN7LkiIA4ObY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Rust贡献者推出新语言Rue，探索AI辅助编译器开发]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/amMNKG5vmN7LkiIA4ObY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi 玩了把大的，Agent 团战的时代要来了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530960&amp;idx=1&amp;sn=a0ae64f739e9f669bc9eca8cb4c4c085</link>
-      <description>&lt;![CDATA[Kimi 玩了把大的，Agent 团战的时代要来了。]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530960&amp;idx=1&amp;sn=a0ae64f739e9f669bc9eca8cb4c4c085</guid>
+      <title>被Anthropic强制要求改名！Clawdbot 创始人一人开发、100% AI 写代码，腾讯又跟上了热度</title>
+      <link>https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[被Anthropic强制要求改名！Clawdbot 创始人一人开发、100% AI 写代码，腾讯又跟上了热度]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

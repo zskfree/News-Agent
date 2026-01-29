@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 23:28:35 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 05:45:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:46:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体</title>
-      <link>https://www.qbitai.com/2026/01/373666.html</link>
-      <description>&lt;![CDATA[中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373666.html</guid>
+      <title>业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-2</link>
+      <description>&lt;![CDATA[业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节跳动李航博士新作：AI智能体的通用框架</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-11</link>
-      <description>&lt;![CDATA[字节跳动李航博士新作：AI智能体的通用框架]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 23:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-11</guid>
+      <title>阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20</title>
+      <link>https://www.qbitai.com/2026/01/373755.html</link>
+      <description>&lt;![CDATA[阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 02:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373755.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Towards a science of scaling agent systems: When and why agent systems work</title>
-      <link>https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/</link>
-      <description>&lt;![CDATA[Towards a science of scaling agent systems: When and why agent systems work]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/</guid>
+      <title>马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”</title>
+      <link>https://www.qbitai.com/2026/01/373744.html</link>
+      <description>&lt;![CDATA[马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 02:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373744.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争</title>
-      <link>https://www.qbitai.com/2026/01/373649.html</link>
-      <description>&lt;![CDATA[蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/373649.html</guid>
+      <title>JustGRPO：扩散语言模型的极简主义回归</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-3</link>
+      <description>&lt;![CDATA[JustGRPO：扩散语言模型的极简主义回归]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-28-8</link>
-      <description>&lt;![CDATA[万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-28-8</guid>
+      <title>一觉醒来，Clawdbot突然操纵电脑开口说话了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-29-4</link>
+      <description>&lt;![CDATA[一觉醒来，Clawdbot突然操纵电脑开口说话了]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-4</guid>
       <category>Ai</category>
     </item>
   </channel>

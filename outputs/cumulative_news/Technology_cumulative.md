@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 23:28
+**最后更新时间**: 2026-01-29 05:46
+
+---
+
+## 🆕 最新更新 (2026-01-29 05:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [刚完成“卖身”重组，TikTok就瘫了！Oracle 背锅：暴风雪吹坏了数据中心](https://www.infoq.cn/article/Z0YrtK1zR7C4OcP5CV17?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 13:21
+
+#### [Rust贡献者推出新语言Rue，探索AI辅助编译器开发](https://www.infoq.cn/article/amMNKG5vmN7LkiIA4ObY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 11:05
+
+#### [Spring近期资讯：Boot、Security、Integration、Modulith和AMQP首个里程碑版本发布](https://www.infoq.cn/article/O8POeIhNkAxY3Vm7RoV2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 11:01
+
+#### [TTC 完成千万美元级新一轮融资，厚雪资本领投、百度战略投资](https://www.infoq.cn/article/eHJs3ook7AQ5Doge7CEh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 11:00
+
+#### [Java近期资讯：Oracle关键补丁更新、Grizzly 5、Payara Platform、GraalVM、Liberica JDK](https://www.infoq.cn/article/cDEARSKm18EAokOm6icy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 10:57
+
+#### [多次全球性中断后，Cloudflare推出了“Code Orange: Fail Small”韧性计划](https://www.infoq.cn/article/lKcqZxO13IGomsA22W0N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 10:53
+
+#### [Vercel 开源 Bash 工具：基于本地文件系统的上下文检索](https://www.infoq.cn/article/UzyGmH8QWc2eHSvS6Yta?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 10:50
+
+#### [又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成](https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 10:44
+
+#### [被Anthropic强制要求改名！Clawdbot 创始人一人开发、100% AI 写代码，腾讯又跟上了热度](https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-29 09:54
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球疯抢光刻机](https://www.tmtpost.com/7859839.html)
+**发布时间**: 2026-01-29 13:05
+
+#### [7个月5个人工智能IPO 启明创投：投资AI是未来二十年中国投资最大的确定性 | 机构动态](https://www.tmtpost.com/7859962.html)
+**发布时间**: 2026-01-29 11:53
+
+#### [“奶酪女王”出局，一个时代“翻篇”？](https://www.tmtpost.com/7859838.html)
+**发布时间**: 2026-01-29 11:41
+
+#### [进军AI眼镜，Snap成立全资子公司，今年上新品](https://www.tmtpost.com/7859880.html)
+**发布时间**: 2026-01-29 11:12
+
+#### [瑞士清洁科技公司Divea研发石墨烯过滤器，从工业废气中分离捕获二氧化碳](https://www.tmtpost.com/7859557.html)
+**发布时间**: 2026-01-29 11:08
+
+#### [50万亿天量存款即将到期，大量资金要入市了吗？](https://www.tmtpost.com/7859822.html)
+**发布时间**: 2026-01-29 10:38
+
+#### [效率革命释放下沉增量，鸣鸣很忙定义中国零售新样本](https://www.tmtpost.com/7859271.html)
+**发布时间**: 2026-01-29 10:32
+
+#### [小马哥的社交3.0进击，社交法宝在AI圈灵不灵？](https://www.tmtpost.com/7859237.html)
+**发布时间**: 2026-01-29 10:20
+
+#### [如果一切按计划进行，这些股票将在2026年世界杯中胜出](https://www.tmtpost.com/7859810.html)
+**发布时间**: 2026-01-29 10:03
+
+#### [沐曦股份估值神话背后：“中国AMD”攻坚国产替代](https://www.tmtpost.com/7859312.html)
+**发布时间**: 2026-01-29 10:00
+
+#### [从春晚看，具身智能从炫技到落地的关键一年](https://www.tmtpost.com/7859337.html)
+**发布时间**: 2026-01-29 09:40
+
+#### [卸任格力电子要职，70多岁董明珠再“放权”](https://www.tmtpost.com/7859447.html)
+**发布时间**: 2026-01-29 09:20
+
+#### [全球电商巨头，开始新一轮裁员](https://www.tmtpost.com/7859416.html)
+**发布时间**: 2026-01-29 09:20
+
+#### [芯片制造商指出需求正在加速增长，这是一件大事](https://www.tmtpost.com/7859705.html)
+**发布时间**: 2026-01-29 09:12
+
+#### [10只有望延续涨势的小盘股](https://www.tmtpost.com/7859703.html)
+**发布时间**: 2026-01-29 09:11
+
+#### [德事隆的财报显示，特朗普推动扩大军队面临挑战](https://www.tmtpost.com/7859700.html)
+**发布时间**: 2026-01-29 09:10
+
+#### [扎克伯格回应收购Manus：整合技术至现有平台](https://www.tmtpost.com/7859630.html)
+**发布时间**: 2026-01-29 08:44
+
+#### [“马链”横空出世，中国光伏企业应该授人以渔，还是授人以鱼？](https://www.tmtpost.com/7859421.html)
+**发布时间**: 2026-01-29 08:40
+
+#### [大模型六小龙告别青春期](https://www.tmtpost.com/7859376.html)
+**发布时间**: 2026-01-29 08:20
+
+#### [AI视频的“1毛钱战争”与“万亿生意”](https://www.tmtpost.com/7859469.html)
+**发布时间**: 2026-01-29 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [你的隐私你做主，所有人都应该知道的 9 个 iPhone 隐私保护技巧](https://sspai.com/post/99910)
+**发布时间**: 2026-01-29 11:31
+
+#### [派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等](https://sspai.com/post/105850)
+**发布时间**: 2026-01-29 08:49
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国政府会再次停摆吗？79%的概率显示美国政府又要关门了？](http://www.huxiu.com/article/4830417.html?f=wangzhan)
+**发布时间**: 2026-01-29 10:18
+
+#### [中国卖得最好的车，居然是它们？](http://www.huxiu.com/article/4830457.html?f=wangzhan)
+**发布时间**: 2026-01-29 09:43
+
+#### [汽油滞销，养路费找谁收？电车吗？](http://www.huxiu.com/article/4830408.html?f=wangzhan)
+**发布时间**: 2026-01-29 09:00
 
 ---
 
