@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-29 23:28
+**最后更新时间**: 2026-01-30 05:54
+
+---
+
+## 🆕 最新更新 (2026-01-30 05:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [俞敏洪，走出董宇辉阴影](https://www.tmtpost.com/7861380.html)
+**发布时间**: 2026-01-30 13:11
+
+#### [山西银行，换羽重生](https://www.tmtpost.com/7861486.html)
+**发布时间**: 2026-01-30 13:11
+
+#### [税务合规收紧，跨境卖家重新洗牌](https://www.tmtpost.com/7861488.html)
+**发布时间**: 2026-01-30 13:10
+
+#### [西贝关了102家店，东北夫妇的比萨店却新增160家，还要去IPO](https://www.tmtpost.com/7861443.html)
+**发布时间**: 2026-01-30 13:05
+
+#### [跨境电商2025盘点：白牌退潮，品牌狂飙](https://www.tmtpost.com/7861447.html)
+**发布时间**: 2026-01-30 13:01
+
+#### [商汤开源Agentic VLM模型，让AI能自主“动脑动手”](https://www.tmtpost.com/7861302.html)
+**发布时间**: 2026-01-30 12:28
+
+#### [莉莉丝跑出首个爆款《Palmon: Survival》后：26年帕鲁SLG竞争再起](https://www.tmtpost.com/7861121.html)
+**发布时间**: 2026-01-30 12:13
+
+#### [中国肿瘤创新药“拯救”武田](https://www.tmtpost.com/7859843.html)
+**发布时间**: 2026-01-30 12:05
+
+#### [丁世忠马年第一战：123亿抄底彪马，再造一个FILA？](https://www.tmtpost.com/7861067.html)
+**发布时间**: 2026-01-30 12:00
+
+#### [私募魔女清仓，黄金到底走到哪了？](https://www.tmtpost.com/7861029.html)
+**发布时间**: 2026-01-30 11:53
+
+#### [业绩“滑铁卢”后，悦康药业急盼小核酸风口逆天改命](https://www.tmtpost.com/7861196.html)
+**发布时间**: 2026-01-30 11:43
+
+#### [东莞酒店沉浮录：亚洲最大希尔顿酒店何时“苏醒”？](https://www.tmtpost.com/7861194.html)
+**发布时间**: 2026-01-30 11:34
+
+#### [2026中国商业航天：要么领跑，要么出局](https://www.tmtpost.com/7861190.html)
+**发布时间**: 2026-01-30 11:26
+
+#### [TME们被重新定价：汽水音乐与AI颠覆“确定性溢价”](https://www.tmtpost.com/7861189.html)
+**发布时间**: 2026-01-30 11:19
+
+#### [2025餐饮行业观察：规模红利消退，靠什么赢得明天？](https://www.tmtpost.com/7861177.html)
+**发布时间**: 2026-01-30 11:13
+
+#### [创业13年，百度元老任旭阳带领海致科技冲刺IPO](https://www.tmtpost.com/7861148.html)
+**发布时间**: 2026-01-30 11:07
+
+#### [巨头集体“不务正业”，AI真能救未来？](https://www.tmtpost.com/7861142.html)
+**发布时间**: 2026-01-30 11:06
+
+#### [中国药企的并购大时代来了？](https://www.tmtpost.com/7861134.html)
+**发布时间**: 2026-01-30 11:06
+
+#### [阿里隐藏7年的芯片王牌，终于浮出水面](https://www.tmtpost.com/7861132.html)
+**发布时间**: 2026-01-30 11:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何破解大模型生产级部署「最后一公里难题」？](https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 12:00
+
+#### [DoorDash通过多臂老虎机增强A/B测试](https://www.infoq.cn/article/X7i8hMBrPd7hKvgkwKaC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 11:06
+
+#### [Ramp构建的内部编码代理支撑着30%的工程拉取请求](https://www.infoq.cn/article/gf8Vj1s4sAA0svzVYke3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 11:00
+
+#### [谷歌通用商务协议（UCP）赋能智能代理购物](https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 10:58
+
+#### [Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？](https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 10:00
+
+#### [一项 20 年前的 Oracle 排序算法专利到期，开源数据库集体受益](https://www.infoq.cn/article/cMYZm5ujJag5Y2SPxTG2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [你真的是记性不好吗？关于记忆和遗忘的常见误区](https://sspai.com/post/105677)
+**发布时间**: 2026-01-30 11:13
+
+#### [派早报：小米发布 REDMI Turbo 5 系列手机等](https://sspai.com/post/105895)
+**发布时间**: 2026-01-30 08:35
 
 ---
 

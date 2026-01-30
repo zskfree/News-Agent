@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "de74e2e7d343e1e494d870a23c86984f66ec1900b6ac5af0e7d44c1dc5fc3fc7": {
-        "title": "Meta 数十亿美金收购 Manus ：AI时代的“先动者优势”与“下场论”",
-        "link": "https://www.infoq.cn/article/HwpjfIajSSJDB2Yw0BiZ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 11:28:00 GMT",
-        "first_seen": "2025-12-31T05:28:42.678679"
-      },
-      "a47e81431e4df996216789b4dbf7c891a8ca1b9317ce4a280c1c00a69c62d6a3": {
-        "title": "AI 时代的产品方法论正在被改写：从精益创业到「 Demo 优先」",
-        "link": "https://www.infoq.cn/article/glOueHz5EQYcDmuAAkJl?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 09:23:00 GMT",
-        "first_seen": "2025-12-31T05:28:42.678686"
-      },
-      "caa426de0656e2fceda5d0325229d3651ab2004d783bbf0534cda33c6bff0cf9": {
-        "title": "AI创业的终局是委身大厂？",
-        "link": "https://www.tmtpost.com/7826673.html",
-        "published_date": "Wed, 31 Dec 2025 11:08:00 GMT",
-        "first_seen": "2025-12-31T05:28:42.678688"
-      },
-      "188ccf14743c780859684bcdc5d398e775f32695f7b7fc56d7ab73bcfbb3ae87": {
-        "title": "2025手机市场高开低走：苹果逆势创新高，豆包捅破AI Phone窗户纸",
-        "link": "https://www.tmtpost.com/7827002.html",
-        "published_date": "Wed, 31 Dec 2025 10:47:00 GMT",
-        "first_seen": "2025-12-31T05:28:42.678690"
-      },
-      "f440dc57aee02f8011d1fd769558bb7a3a3eeee8ef5e37d368a1d56ab1d060d4": {
-        "title": "Insilico Medicine Debuts in Hong Kong in 2025 Biggest Biotech IPO",
-        "link": "https://www.tmtpost.com/7827655.html",
-        "published_date": "Wed, 31 Dec 2025 11:08:00 GMT",
-        "first_seen": "2025-12-31T05:28:42.678692"
-      },
       "718812d1c8d6f492e801814682ddb74e84deef77130073a9ed225ba0b0cb440e": {
         "title": "字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?",
         "link": "https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://www.tmtpost.com/7859312.html",
         "published_date": "Thu, 29 Jan 2026 10:00:00 GMT",
         "first_seen": "2026-01-29T23:29:42.467156"
+      },
+      "c893927eab1baa0c47aef43b336aa96a81a55ad844319e55ed023e67fa0e8315": {
+        "title": "阿里隐藏7年的芯片王牌，终于浮出水面",
+        "link": "https://www.tmtpost.com/7861132.html",
+        "published_date": "Fri, 30 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-30T05:55:29.608724"
+      },
+      "fa02dd71653edd1530aa040112c8fffa7649551ec919d04cef238684a629f425": {
+        "title": "商汤开源Agentic VLM模型，让AI能自主“动脑动手”",
+        "link": "https://www.tmtpost.com/7861302.html",
+        "published_date": "Fri, 30 Jan 2026 12:28:00 GMT",
+        "first_seen": "2026-01-30T05:55:29.608730"
+      },
+      "ed91e02cef785039e9941a9cf9373b5182405b641fa57509fcfd96a7b152e475": {
+        "title": "如何破解大模型生产级部署「最后一公里难题」？",
+        "link": "https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-30T05:55:29.608733"
+      },
+      "69edce019e5ad88355b3d03aa7e41c35f7b705a8c558428cef564301ac5ccf21": {
+        "title": "2026中国商业航天：要么领跑，要么出局",
+        "link": "https://www.tmtpost.com/7861190.html",
+        "published_date": "Fri, 30 Jan 2026 11:26:00 GMT",
+        "first_seen": "2026-01-30T05:55:29.608735"
+      },
+      "696c580bef5b5d4144bbd1f12f45f408ccd54f5fc56fba0107571dae2f6ad061": {
+        "title": "谷歌通用商务协议（UCP）赋能智能代理购物",
+        "link": "https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 10:58:00 GMT",
+        "first_seen": "2026-01-30T05:55:29.608737"
       }
     },
     "Finance": {
-      "5b3efeea0ee0583260c52514e702f7bb403be62726bd2fe36f99bc7f26f19921": {
-        "title": "AI forecast to put 200,000 European banking jobs at risk by 2030",
-        "link": "https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93",
-        "published_date": "Wed, 31 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-31T05:28:12.957496"
-      },
-      "c77c373beeb552154dbb6b3e641c076fe14ef66afceafc3a7c44cccdb7f8ee9e": {
-        "title": "US fines for dirty money drop 61% as Trump retreats from enforcement",
-        "link": "https://www.ft.com/content/46826bb8-16be-4301-a4fc-cb73231e8987",
-        "published_date": "Wed, 31 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-31T05:28:12.957503"
-      },
-      "45372b99ffcae568d17eeefc58d24748798dea8b277447e8684dba44ede0e00f": {
-        "title": "Why 2026 could be a banner year for regional-bank stocks",
-        "link": "https://www.marketwatch.com/story/why-2026-could-be-a-banner-year-for-regional-bank-stocks-7306c7c0?mod=mw_rss_topstories",
-        "published_date": "Wed, 31 Dec 2025 01:38:00 GMT",
-        "first_seen": "2025-12-31T05:28:12.957507"
-      },
-      "a9f17bf3792024c3131c08c4c80a64e65566048272bb94113552359e8cd66b2d": {
-        "title": "‘What will happen to house prices next year?’ — it’s a tricky question",
-        "link": "https://www.ft.com/content/698de1c6-0924-43ed-813c-b3c13e84c184",
-        "published_date": "Wed, 31 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-31T05:28:12.957509"
-      },
-      "d40ae4b1e0f41e724ed5a85f4aea0d341da1e7313f8619d3322351f8221ace9c": {
-        "title": "Meta’s Manus acquisition is Big Tech’s latest big bet on AI",
-        "link": "https://www.marketwatch.com/story/meta-acquisition-is-latest-megacap-tech-bet-on-ai-to-finish-the-year-68cdfd8f?mod=mw_rss_topstories",
-        "published_date": "Wed, 31 Dec 2025 00:39:00 GMT",
-        "first_seen": "2025-12-31T05:28:12.957510"
-      },
       "c8852ec739d64781981e507652364f84a846322d5b1659fb998e854276bfa43d": {
         "title": "Here are 5 key charts that defined a wild year for global financial markets",
         "link": "https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories",
@@ -4581,39 +4551,39 @@
         "link": "https://www.ft.com/content/e4cf44c8-3c3d-4286-ab69-b603618aeac8",
         "published_date": "Thu, 29 Jan 2026 14:09:00 GMT",
         "first_seen": "2026-01-29T23:29:03.456498"
+      },
+      "0d9086567c5f567d03b5ce07c9977562d10ff46a2448533d13b53f3c4e6c1b0f": {
+        "title": "Trump says he’ll announce his Fed pick Friday morning. Here’s who’s in the lead, according to prediction markets.",
+        "link": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 02:03:00 GMT",
+        "first_seen": "2026-01-30T05:54:58.751312"
+      },
+      "b47dfe6018ca222876f17bb38f911cd1dce22971365bc395edcd8389a289bdad": {
+        "title": "US shutdown avoided despite stand-off over immigration enforcement",
+        "link": "https://www.ft.com/content/4b9a6a44-a1f4-43c8-8ef2-05acb64fb3a9",
+        "published_date": "Fri, 30 Jan 2026 00:44:00 GMT",
+        "first_seen": "2026-01-30T05:54:58.751322"
+      },
+      "9a4433544153e5c0c117afa26ff4e9be25cffac773052c4e2d901a6fa78760ef": {
+        "title": "Emerging markets make roaring start to 2026 as dollar slides",
+        "link": "https://www.ft.com/content/bba310b2-af62-4460-83ed-63cfcc110f1f",
+        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-30T05:54:58.751325"
+      },
+      "936d7bb3f91f4c16f067ff27fbb9e70fb318af59da5eddb0bf6bc90aa24ad3bc": {
+        "title": "OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic",
+        "link": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 00:30:00 GMT",
+        "first_seen": "2026-01-30T05:54:58.751327"
+      },
+      "aa0b37969a5df32f239ad7b4ae362032247c9b94c80d0908c3ccc5521b156f54": {
+        "title": "Hedge funds’ correlation with stocks sparks fears over lack of crash protection",
+        "link": "https://www.ft.com/content/8c1d9cfe-1d8f-45d5-9ab1-57fb203a170c",
+        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-30T05:54:58.751328"
       }
     },
     "Ai": {
-      "7d5c1bac40bb2470114618bdc63953ebfd4e1bd52727785dcfbda9b4d102d465": {
-        "title": "NUS尤洋教授深度探讨智能增长的瓶颈：或许我们将这样实现AGI？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-4",
-        "published_date": "Wed, 31 Dec 2025 13:16:00 GMT",
-        "first_seen": "2025-12-31T05:28:27.284113"
-      },
-      "7c452f82e45e14f45dc109180a332cf89af396f463b61260d789cc8535a66fa1": {
-        "title": "华为云CEO周跃峰：要避免AI成为泡沫，必须要提升行业生产力",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31",
-        "published_date": "Wed, 31 Dec 2025 10:19:00 GMT",
-        "first_seen": "2025-12-31T05:28:27.284119"
-      },
-      "64d2fc74cbc6912f34eb144efbaf4d6f885aa5357faf6eeba9893aac44bb22e5": {
-        "title": "重塑语音安全！上海交大联合宇生月伴，研发高性能高泛化语音鉴伪大模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-3",
-        "published_date": "Wed, 31 Dec 2025 13:10:00 GMT",
-        "first_seen": "2025-12-31T05:28:27.284122"
-      },
-      "22c1b0f2480e0641999629302e1b33291a32b27abcf8e4cbf3ebc12f68fac449": {
-        "title": "华北电力大学等开发基于AI的催化设计蓝图，跨材料的电化学通用设计框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-2",
-        "published_date": "Wed, 31 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-31T05:28:27.284124"
-      },
-      "061768d08a2b161bcca39f47766e675dbb59d09c13a936a6288e2c69f59ddccc": {
-        "title": "国产智能体MasterAgent 12月30日全面开放，赋能多场景应用",
-        "link": "https://www.qbitai.com/2025/12/366290.html",
-        "published_date": "Wed, 31 Dec 2025 03:13:00 GMT",
-        "first_seen": "2025-12-31T05:28:27.284125"
-      },
       "b846456468134890447b36cd0ffc5af21aeeee0aef8cb648e9570fc4f5810226": {
         "title": "卓驭打造科技平权，端到端辅助驾驶延伸至重卡高速、无人物流",
         "link": "https://www.jiqizhixin.com/articles/2025-12-31-6",
@@ -6797,13 +6767,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-6",
         "published_date": "Thu, 29 Jan 2026 15:11:00 GMT",
         "first_seen": "2026-01-29T23:29:17.665898"
+      },
+      "53c59785e7008fde55b28e8a62724cece23b125475c7172c0dfefc2017620553": {
+        "title": "LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-3",
+        "published_date": "Fri, 30 Jan 2026 13:00:00 GMT",
+        "first_seen": "2026-01-30T05:55:11.918438"
+      },
+      "f9897890d10b0a5974a2c8a2e97e3082ebf5067240b70326a48e04d3b632bb61": {
+        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30",
+        "published_date": "Fri, 30 Jan 2026 10:44:00 GMT",
+        "first_seen": "2026-01-30T05:55:11.918444"
+      },
+      "7814a4c394250b4081765b0c1d37330934820e9529236bb91201cff2ac614524": {
+        "title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
+        "link": "https://www.qbitai.com/2026/01/374421.html",
+        "published_date": "Fri, 30 Jan 2026 02:48:00 GMT",
+        "first_seen": "2026-01-30T05:55:11.918446"
+      },
+      "2472e42a023f51175a8cfa905518e35e23b285dde994a934a15cf8f1a914fb04": {
+        "title": "硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年",
+        "link": "https://www.qbitai.com/2026/01/374431.html",
+        "published_date": "Fri, 30 Jan 2026 05:15:00 GMT",
+        "first_seen": "2026-01-30T05:55:11.918448"
+      },
+      "addf610f806adac855ff1c318d46d1c2fa58578077361c6ead21b0c866ed90f3": {
+        "title": "SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来",
+        "link": "https://www.qbitai.com/2026/01/374426.html",
+        "published_date": "Fri, 30 Jan 2026 05:10:00 GMT",
+        "first_seen": "2026-01-30T05:55:11.918450"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-29T23:29:42.467157",
-    "Finance": "2026-01-29T23:29:03.456501",
-    "Ai": "2026-01-29T23:29:17.665900"
+    "Technology": "2026-01-30T05:55:29.608738",
+    "Finance": "2026-01-30T05:54:58.751331",
+    "Ai": "2026-01-30T05:55:11.918452"
   }
 }

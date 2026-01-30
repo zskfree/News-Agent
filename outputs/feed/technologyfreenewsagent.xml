@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 23:29:42 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 05:54:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:55:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>硅谷最新调研：2026年，AI  Agent到底会走向哪？</title>
-      <link>https://www.tmtpost.com/7859884.html</link>
-      <description>&lt;![CDATA[硅谷最新调研：2026年，AI  Agent到底会走向哪？]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859884.html</guid>
+      <title>阿里隐藏7年的芯片王牌，终于浮出水面</title>
+      <link>https://www.tmtpost.com/7861132.html</link>
+      <description>&lt;![CDATA[阿里隐藏7年的芯片王牌，终于浮出水面]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7861132.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”</title>
-      <link>https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[不要再纠结 LLM 准确率了：从“回答对不对”到“系统是否值得信任”]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TZrHpojJxuCmLCP0uRSO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>商汤开源Agentic VLM模型，让AI能自主“动脑动手”</title>
+      <link>https://www.tmtpost.com/7861302.html</link>
+      <description>&lt;![CDATA[商汤开源Agentic VLM模型，让AI能自主“动脑动手”]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 12:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7861302.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步</title>
-      <link>https://www.tmtpost.com/7860098.html</link>
-      <description>&lt;![CDATA[马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7860098.html</guid>
+      <title>如何破解大模型生产级部署「最后一公里难题」？</title>
+      <link>https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[如何破解大模型生产级部署「最后一公里难题」？]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从春晚看，具身智能从炫技到落地的关键一年</title>
-      <link>https://www.tmtpost.com/7859337.html</link>
-      <description>&lt;![CDATA[从春晚看，具身智能从炫技到落地的关键一年]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859337.html</guid>
+      <title>2026中国商业航天：要么领跑，要么出局</title>
+      <link>https://www.tmtpost.com/7861190.html</link>
+      <description>&lt;![CDATA[2026中国商业航天：要么领跑，要么出局]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7861190.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>沐曦股份估值神话背后：“中国AMD”攻坚国产替代</title>
-      <link>https://www.tmtpost.com/7859312.html</link>
-      <description>&lt;![CDATA[沐曦股份估值神话背后：“中国AMD”攻坚国产替代]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859312.html</guid>
+      <title>谷歌通用商务协议（UCP）赋能智能代理购物</title>
+      <link>https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌通用商务协议（UCP）赋能智能代理购物]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

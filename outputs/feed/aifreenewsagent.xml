@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 23:29:17 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 05:49:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:55:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-12</link>
-      <description>&lt;![CDATA[刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-12</guid>
+      <title>LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-3</link>
+      <description>&lt;![CDATA[LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-10</link>
-      <description>&lt;![CDATA[Karpathy盛赞，啥都没有的创业公司刚融了1.8亿美元，要用小数据造强智能]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-10</guid>
+      <title>商汤开源SenseNova-MARS，突破多模态搜索推理天花板</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30</link>
+      <description>&lt;![CDATA[商汤开源SenseNova-MARS，突破多模态搜索推理天花板]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>登顶行业SOTA的多模态视频生成标杆，昆仑天工刚给开源了</title>
-      <link>https://www.qbitai.com/2026/01/374272.html</link>
-      <description>&lt;![CDATA[登顶行业SOTA的多模态视频生成标杆，昆仑天工刚给开源了]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374272.html</guid>
+      <title>千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别</title>
+      <link>https://www.qbitai.com/2026/01/374421.html</link>
+      <description>&lt;![CDATA[千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 02:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374421.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>纳米漫剧流水线公测上线，开启漫剧工业化生产时代</title>
-      <link>https://www.qbitai.com/2026/01/374390.html</link>
-      <description>&lt;![CDATA[纳米漫剧流水线公测上线，开启漫剧工业化生产时代]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374390.html</guid>
+      <title>硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年</title>
+      <link>https://www.qbitai.com/2026/01/374431.html</link>
+      <description>&lt;![CDATA[硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 05:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374431.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Clawdbot 零基础接入钉钉，手把手教你把私人AI搬到聊天</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-29-6</link>
-      <description>&lt;![CDATA[Clawdbot 零基础接入钉钉，手把手教你把私人AI搬到聊天]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-29-6</guid>
+      <title>SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来</title>
+      <link>https://www.qbitai.com/2026/01/374426.html</link>
+      <description>&lt;![CDATA[SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 05:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374426.html</guid>
       <category>Ai</category>
     </item>
   </channel>
