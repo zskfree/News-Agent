@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-30 05:54
+**最后更新时间**: 2026-01-30 23:27
+
+---
+
+## 🆕 最新更新 (2026-01-30 23:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Former Prince Andrew in touch with Epstein longer than he claimed, DoJ emails show](https://www.ft.com/content/d9c81261-a7ac-40ae-956c-a8a9b6e57ab8)
+**发布时间**: 2026-01-30 23:11
+
+#### [Starmer’s China trip thaws relations with Beijing but spurs criticism at home](https://www.ft.com/content/78c96247-cebc-4cf1-af5c-5ea53ec32492)
+**发布时间**: 2026-01-30 22:30
+
+#### [Gold and silver prices plunge as rally goes into reverse](https://www.ft.com/content/d3260ce9-94b5-4200-80a2-3d90e9031d98)
+**发布时间**: 2026-01-30 22:08
+
+#### [Epstein emails claim Bill Gates hid STD from wife after sex with ‘Russian girls’](https://www.ft.com/content/cb16718c-7e03-4d0e-ba29-a3c5604dbab0)
+**发布时间**: 2026-01-30 21:59
+
+#### [Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show](https://www.ft.com/content/c950f80a-3946-4986-b7ec-e0c61e628049)
+**发布时间**: 2026-01-30 19:10
+
+#### [The frank warning from Switzerland on the dollar](https://www.ft.com/content/cadabbea-3a14-4508-b3d7-104c1c61a8ae)
+**发布时间**: 2026-01-30 18:00
+
+#### [Trump nominates Kevin Warsh as Federal Reserve chair](https://www.ft.com/content/a08f1b78-4816-4ff1-819c-e67e59c8d767)
+**发布时间**: 2026-01-30 16:40
+
+#### [Iran says it will not negotiate with US on ballistic missiles](https://www.ft.com/content/44c4094b-09a6-47ce-a28a-81c2f18f1cb9)
+**发布时间**: 2026-01-30 16:09
+
+#### [Kevin Warsh, the Fed chair nominee shaped by the 2008 financial crisis](https://www.ft.com/content/2030acc1-4026-4ad1-81bc-12754389f71d)
+**发布时间**: 2026-01-30 13:45
+
+#### [How not to short gold](https://www.ft.com/content/5bb90955-64e9-4034-ad26-f0c96cb06362)
+**发布时间**: 2026-01-30 13:06
+
+#### [Arab and Muslim powers mount last-ditch effort to avert US-Iran conflict](https://www.ft.com/content/a56fa080-b7c1-4350-afe8-c2429daf9814)
+**发布时间**: 2026-01-30 05:00
+
+#### [London’s high land prices need ‘market adjustment’, says housing minister](https://www.ft.com/content/9daeece5-0d17-40ae-82b6-e2b2d81fd189)
+**发布时间**: 2026-01-30 05:00
+
+#### [Anomaly in UK rental reforms would leave thousands paying stamp duty](https://www.ft.com/content/c260f622-05ee-4a69-9167-891944cfa518)
+**发布时间**: 2026-01-30 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold and silver’s $7 trillion wipeout delivers a painful lesson about risk](https://www.marketwatch.com/story/gold-and-silvers-7-trillion-wipeout-delivers-a-painful-lesson-about-risk-22dbf70f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 22:27
+
+#### [Oil prices unexpectedly score first monthly gain in half a year. So what’s the next move for OPEC+?](https://www.marketwatch.com/story/oil-prices-unexpectedly-score-first-monthly-gain-in-half-a-year-so-whats-the-next-move-for-opec-eac5bd6f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 22:21
+
+#### [Trump picking Kevin Warsh as Fed chair wasn’t enough to soothe shaky markets](https://www.marketwatch.com/story/trump-picking-kevin-warsh-as-fed-chair-wasnt-enough-to-soothe-shaky-markets-2f0137ad?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 21:47
+
+#### [‘These are college students … not NFL players.’ Deion Sanders’s new $5,000 fines for Colorado players blur the lines around professional sports.](https://www.marketwatch.com/story/these-are-college-students-not-nfl-players-deion-sanderss-new-5-000-fines-for-colorado-players-blur-the-lines-around-professional-sports-dc9f5364?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 21:27
+
+#### [My untrustworthy and selfish brother is executor of our family estate. How do I stop him from cheating us?](https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 21:00
+
+#### [Bond market isn’t getting everything it wants from Trump’s choice of Warsh for Fed chair](https://www.marketwatch.com/story/bond-market-isnt-getting-everything-it-wants-from-trumps-choice-of-warsh-for-fed-chair-1aad399a?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 20:47
+
+#### [Fed honeymoon for Warsh? Briefly — then push comes to shove.](https://www.marketwatch.com/story/fed-honeymoon-for-warsh-briefly-then-push-comes-to-shove-4191fb70?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 20:38
+
+#### [Kevin Warsh isn’t who investors think he is — how you can profit from their mistake](https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 20:17
+
+#### [Silver suffers biggest drop in 46 years, with ‘every man and his dog rushing for the exit’](https://www.marketwatch.com/story/silver-heads-for-biggest-drop-in-14-years-with-every-man-and-his-dog-rushing-for-the-exit-081baf5c?mod=mw_rss_topstories)
+**发布时间**: 2026-01-30 20:07
 
 ---
 

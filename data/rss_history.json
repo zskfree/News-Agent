@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5daffabbe797a635ca66a96e8dd5618a6af6df316e5ab7bb26d9881ce2db0636": {
-        "title": "杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”",
-        "link": "https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 16:47:00 GMT",
-        "first_seen": "2025-12-31T23:24:55.269787"
-      },
-      "1816f232e2fa7eca202c04aff629ff090281b54c09a46e082ac3e28ae30fd4c7": {
-        "title": "China’s Top DRAM Maker CXMT Seeks $4.2 Billion in Shanghai IPO to Fund Tech Upgrades",
-        "link": "https://www.tmtpost.com/7828006.html",
-        "published_date": "Wed, 31 Dec 2025 15:31:00 GMT",
-        "first_seen": "2025-12-31T23:24:55.269793"
-      },
-      "fa084f173940405318b3508c225fddc0f6474220d52a149fdb2f9c0be5cc0f2c": {
-        "title": "烧钱换量、版权难题，MiniMax冲击IPO背后的AB面",
-        "link": "https://www.tmtpost.com/7826560.html",
-        "published_date": "Wed, 31 Dec 2025 10:36:00 GMT",
-        "first_seen": "2025-12-31T23:24:55.269795"
-      },
-      "5f4b1d4a1d872c43a7ff0878c195776d80df90a5832e5f8f787be0bbed6d532c": {
-        "title": "写在 Manus “卖身”后：企业级 Agent 只会更像软件，而非魔法",
-        "link": "https://www.infoq.cn/article/jhKhNUoC7hikJN3EIkqJ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 16:48:00 GMT",
-        "first_seen": "2025-12-31T23:24:55.269797"
-      },
-      "3e1fdd5f000e3d096db9129b6ae235456c7f47d399b88b216805a1a803b2e37f": {
-        "title": "2026年芯片怎么走？大摩、普华永道、Omdia四点共识",
-        "link": "https://www.tmtpost.com/7828309.html",
-        "published_date": "Wed, 31 Dec 2025 19:35:00 GMT",
-        "first_seen": "2025-12-31T23:24:55.269798"
-      },
       "b801dbac94aca2e820011cfbb8ef6ede30675f057c522e7bf4e561b613df792d": {
         "title": "CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载",
         "link": "https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 30 Jan 2026 10:00:00 GMT",
         "first_seen": "2026-01-30T08:43:12.870989"
+      },
+      "278bd79f7669fffb8e575b63865ccb71c131306ed03c2e303cc634cca0cfc259": {
+        "title": "劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束",
+        "link": "https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 18:46:00 GMT",
+        "first_seen": "2026-01-30T23:28:24.414978"
+      },
+      "8be6982ea5090b3c8ea77a87b1490775d34c51da6e199b3744e13fe56c285711": {
+        "title": "马斯克的下一场革命，不用开颅的脑机接口来了？",
+        "link": "https://www.tmtpost.com/7861487.html",
+        "published_date": "Fri, 30 Jan 2026 16:27:00 GMT",
+        "first_seen": "2026-01-30T23:28:24.414985"
+      },
+      "e0dbb84880b6a8923539d5af0271a19110caf68f08b6ad5974e4ba0384c65e22": {
+        "title": "ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI",
+        "link": "https://www.tmtpost.com/7861725.html",
+        "published_date": "Fri, 30 Jan 2026 15:29:00 GMT",
+        "first_seen": "2026-01-30T23:28:24.414987"
+      },
+      "d08370d860450a1432f826d059496bc1a27ad2c5012ef314ac4d8bd04a87da4a": {
+        "title": "“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配",
+        "link": "https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 17:46:00 GMT",
+        "first_seen": "2026-01-30T23:28:24.414988"
+      },
+      "5c053cae8699af90b36e4d6ba756805320bd99bcbfc82bd4412abf0e08514c04": {
+        "title": "内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至",
+        "link": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
+        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-30T23:28:24.414990"
       }
     },
     "Finance": {
-      "c8852ec739d64781981e507652364f84a846322d5b1659fb998e854276bfa43d": {
-        "title": "Here are 5 key charts that defined a wild year for global financial markets",
-        "link": "https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories",
-        "published_date": "Wed, 31 Dec 2025 21:36:00 GMT",
-        "first_seen": "2025-12-31T23:24:18.234644"
-      },
-      "6baaa40a01a0ab0017dcfe4a8aa57e29de348e7a1f7707e5785c6bbc0b321736": {
-        "title": "The U.S. economy is facing no shortage of worries as it heads into 2026",
-        "link": "https://www.marketwatch.com/story/the-u-s-economy-is-facing-no-shortage-of-worries-as-it-heads-into-2026-c73f8e1d?mod=mw_rss_topstories",
-        "published_date": "Wed, 31 Dec 2025 20:53:00 GMT",
-        "first_seen": "2025-12-31T23:24:18.234652"
-      },
-      "a8bb6849ede0845d554ad8c6064e012be9f91737325bde7770ddd98f9164ed70": {
-        "title": "Global stocks post third straight year of double-digit gains",
-        "link": "https://www.ft.com/content/7c8ead64-23f8-43ec-812e-0e24df326b07",
-        "published_date": "Wed, 31 Dec 2025 21:03:00 GMT",
-        "first_seen": "2025-12-31T23:24:18.234655"
-      },
-      "592b74af46894c43049204de120217a0ce1af5e485870537a9da47a2ef3d541e": {
-        "title": "US sanctions four traders it says are shipping Venezuelan oil",
-        "link": "https://www.ft.com/content/ddcdb2af-48a5-457f-a306-0dae538e9c74",
-        "published_date": "Wed, 31 Dec 2025 22:16:00 GMT",
-        "first_seen": "2025-12-31T23:24:18.234657"
-      },
-      "dd7d22d141e116cc1a4a40e2b7ab9372361806c1cb3ae6e681ef8244b608c2f1": {
-        "title": "This one unavoidable tax can sink your retirement plan",
-        "link": "https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories",
-        "published_date": "Wed, 31 Dec 2025 20:24:00 GMT",
-        "first_seen": "2025-12-31T23:24:18.234659"
-      },
       "332992a5edd76975063bd26830af8e38991a4d1b8b5ff9448abd8e4b46065943": {
         "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
         "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
@@ -4581,39 +4551,39 @@
         "link": "https://www.ft.com/content/8c1d9cfe-1d8f-45d5-9ab1-57fb203a170c",
         "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
         "first_seen": "2026-01-30T05:54:58.751328"
+      },
+      "9ea38c461505df761531e8b9f13ab1e1a5fcddff8a1706ce87f3f3fe768a0d8e": {
+        "title": "Trump nominates Kevin Warsh as Federal Reserve chair",
+        "link": "https://www.ft.com/content/a08f1b78-4816-4ff1-819c-e67e59c8d767",
+        "published_date": "Fri, 30 Jan 2026 16:40:00 GMT",
+        "first_seen": "2026-01-30T23:27:47.242985"
+      },
+      "fea945a0b0ffc8aa769ac40aa6ab74c95a3ca3b2d7cb82467f9eddf0cd816a6a": {
+        "title": "Kevin Warsh, the Fed chair nominee shaped by the 2008 financial crisis",
+        "link": "https://www.ft.com/content/2030acc1-4026-4ad1-81bc-12754389f71d",
+        "published_date": "Fri, 30 Jan 2026 13:45:00 GMT",
+        "first_seen": "2026-01-30T23:27:47.242993"
+      },
+      "a5d91057e6e35d0a23391ec3dd8c60b1dd2095bfdba74c849a07083d92d2b3d3": {
+        "title": "The frank warning from Switzerland on the dollar",
+        "link": "https://www.ft.com/content/cadabbea-3a14-4508-b3d7-104c1c61a8ae",
+        "published_date": "Fri, 30 Jan 2026 18:00:00 GMT",
+        "first_seen": "2026-01-30T23:27:47.242996"
+      },
+      "8a9db5e65de1a935251f5ca32e72b03e36fab93ac1e5ac554627839abf4c809d": {
+        "title": "Fed honeymoon for Warsh? Briefly — then push comes to shove.",
+        "link": "https://www.marketwatch.com/story/fed-honeymoon-for-warsh-briefly-then-push-comes-to-shove-4191fb70?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-30T23:27:47.242998"
+      },
+      "e25cca5cc59b7a2d0acb08ceea69c538044ebecadf53187b7d8afb14b0bdfe3b": {
+        "title": "Oil prices unexpectedly score first monthly gain in half a year. So what’s the next move for OPEC+?",
+        "link": "https://www.marketwatch.com/story/oil-prices-unexpectedly-score-first-monthly-gain-in-half-a-year-so-whats-the-next-move-for-opec-eac5bd6f?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 22:21:00 GMT",
+        "first_seen": "2026-01-30T23:27:47.243000"
       }
     },
     "Ai": {
-      "b03df72d742967d33e789805227cf415779fd3e6ed421e2167583182b5fc6b67": {
-        "title": "超DeepEP两倍！无问芯穹FUSCO以「空中变阵」突破MoE通信瓶颈，专为Agent爆发设计",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-10",
-        "published_date": "Wed, 31 Dec 2025 17:56:00 GMT",
-        "first_seen": "2025-12-31T23:24:29.826902"
-      },
-      "793eeb70c861a4b46dce5ab96dca203003ba70adba04f85035b996e269c7297b": {
-        "title": "「视频世界模型」新突破：AI连续生成5分钟，画面也不崩",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-9",
-        "published_date": "Wed, 31 Dec 2025 17:48:00 GMT",
-        "first_seen": "2025-12-31T23:24:29.826909"
-      },
-      "1977ff5b9c89e6d899da689d4944f51278bc62603b99b34e0122e43502fbb41a": {
-        "title": "7B扩散语言模型单样例1000+ tokens/s！上交大联合华为推出LoPA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-7",
-        "published_date": "Wed, 31 Dec 2025 16:31:00 GMT",
-        "first_seen": "2025-12-31T23:24:29.826911"
-      },
-      "f8624a9c82d3546532ed49b1f475d8f9035484e7f7c76f0581df50d6cf8ef121": {
-        "title": "刚刚，稚晖君发布的人形机器人Q1，小到能塞进书包",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-8",
-        "published_date": "Wed, 31 Dec 2025 16:39:00 GMT",
-        "first_seen": "2025-12-31T23:24:29.826913"
-      },
-      "b2f11f6eb194b33b378856d36e07305dfc0f96ca69e2ad82441edc0089f84bee": {
-        "title": "真如摄影、细至发丝！阿里开源新一代图像生成模型Qwen-Image",
-        "link": "https://www.qbitai.com/2025/12/366357.html",
-        "published_date": "Wed, 31 Dec 2025 12:39:00 GMT",
-        "first_seen": "2025-12-31T23:24:29.826914"
-      },
       "d360c9003d31ba2ff2a0461bb0c0e8656baacf62c9604d35ff60077804472db9": {
         "title": "豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试",
         "link": "https://www.qbitai.com/2026/01/366364.html",
@@ -6797,13 +6767,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-30-2",
         "published_date": "Fri, 30 Jan 2026 11:44:00 GMT",
         "first_seen": "2026-01-30T08:42:50.056930"
+      },
+      "0d2612d0d41599c9f221af2ecd15ee318ff064a99ba2190e444ee132bdea4ef6": {
+        "title": "Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了",
+        "link": "https://www.qbitai.com/2026/01/374506.html",
+        "published_date": "Fri, 30 Jan 2026 08:52:00 GMT",
+        "first_seen": "2026-01-30T23:28:02.381232"
+      },
+      "fb385fdc9357235c7ee96ac7e64e2bfcd93282f52d595c281e07fe0d1a17319d": {
+        "title": "天下苦CUDA久矣，又一国产方案上桌了",
+        "link": "https://www.qbitai.com/2026/01/374666.html",
+        "published_date": "Fri, 30 Jan 2026 13:58:00 GMT",
+        "first_seen": "2026-01-30T23:28:02.381239"
+      },
+      "4485cc4fbb5738266a2b7374f0fe1c112b9a2a8d77bcb6990f725a4baf487952": {
+        "title": "顶尖模型离“科学家”还差得远？AI4S亟待迈向2.0时代",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-11",
+        "published_date": "Fri, 30 Jan 2026 18:57:00 GMT",
+        "first_seen": "2026-01-30T23:28:02.381241"
+      },
+      "491f8e545f654d94509f60aac03180efce6aa22cc964a8d2205510ac4e908e4b": {
+        "title": "蚂蚁灵波开源具身世界模型LingBot-VA，机器人复杂任务成功率较Pi0.5提升20%",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-6",
+        "published_date": "Fri, 30 Jan 2026 15:07:00 GMT",
+        "first_seen": "2026-01-30T23:28:02.381243"
+      },
+      "7296de98bf73ea0c4a2acea91f50f048012d70c1e4102708840ac111e633ecc7": {
+        "title": "RoboChallenge 年度报告发布，具身智能迈向标准化时代",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-12",
+        "published_date": "Fri, 30 Jan 2026 22:47:00 GMT",
+        "first_seen": "2026-01-30T23:28:02.381244"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-30T08:43:12.870991",
-    "Finance": "2026-01-30T05:54:58.751331",
-    "Ai": "2026-01-30T08:42:50.056932"
+    "Technology": "2026-01-30T23:28:24.414992",
+    "Finance": "2026-01-30T23:27:47.243001",
+    "Ai": "2026-01-30T23:28:02.381248"
   }
 }

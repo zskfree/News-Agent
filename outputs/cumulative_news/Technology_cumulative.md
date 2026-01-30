@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-30 08:42
+**最后更新时间**: 2026-01-30 23:27
+
+---
+
+## 🆕 最新更新 (2026-01-30 23:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [预亏超1亿，债务压顶+经营疲软，昔日“亚洲瓶王”珠海中富困局难破丨看财报](https://www.tmtpost.com/7862007.html)
+**发布时间**: 2026-01-30 23:08
+
+#### [安踏集团收购彪马29.06%股权；阿迪达斯成为2026苏超官方战略合作伙伴；星巴克中国Q1营收双位数增长；挪瓦咖啡完成C轮融资｜消研所周报](https://www.tmtpost.com/7861659.html)
+**发布时间**: 2026-01-30 22:41
+
+#### [宝马集团大中华区换帅：柯睿辰接任，高翔结束在华任期](https://www.tmtpost.com/7862391.html)
+**发布时间**: 2026-01-30 22:32
+
+#### [锂企业绩冰火两重天，有矿的赢麻了｜行业风向标](https://www.tmtpost.com/7862361.html)
+**发布时间**: 2026-01-30 22:04
+
+#### [独家｜包凡现身华兴年会，流程安排颇具意味 | 巴伦独家](https://www.tmtpost.com/7862366.html)
+**发布时间**: 2026-01-30 21:57
+
+#### [收购华纳、联姻MAPPA、进军线下：Netflix的“野心终局之战”](https://www.tmtpost.com/7862157.html)
+**发布时间**: 2026-01-30 19:21
+
+#### [「黑红出圈」5个月后，Macaron做了什么事情](https://www.tmtpost.com/7862196.html)
+**发布时间**: 2026-01-30 19:20
+
+#### [“狗语翻译项圈”火了，一个卖4000元，拿下5000万融资](https://www.tmtpost.com/7861191.html)
+**发布时间**: 2026-01-30 19:18
+
+#### [AI企业分化：大厂“砸钱”，小厂“融资”，中厂“等机会”？](https://www.tmtpost.com/7860593.html)
+**发布时间**: 2026-01-30 19:17
+
+#### [安踏95后“少帅”，开战lululemon](https://www.tmtpost.com/7861292.html)
+**发布时间**: 2026-01-30 19:12
+
+#### [红果+咪蒙的听花岛=短剧王朝](https://www.tmtpost.com/7862130.html)
+**发布时间**: 2026-01-30 19:05
+
+#### [金价暴跌7%，20多只黄金股跌停，但最惨的不是股民……](https://www.tmtpost.com/7862148.html)
+**发布时间**: 2026-01-30 18:51
+
+#### [影视飓风Tim雪地生存100小时，生存类综艺能否借鉴？](https://www.tmtpost.com/7862128.html)
+**发布时间**: 2026-01-30 18:50
+
+#### [开年的半导体行业，被涨价“轰炸”](https://www.tmtpost.com/7862122.html)
+**发布时间**: 2026-01-30 18:44
+
+#### [中原消金到了“合规优先”时刻](https://www.tmtpost.com/7862156.html)
+**发布时间**: 2026-01-30 18:38
+
+#### [狂飙的中国市场成苹果“救星”，但AI之后又添“缺芯”烦恼](https://www.tmtpost.com/7861932.html)
+**发布时间**: 2026-01-30 18:28
+
+#### [电投产融净利润暴增235%，是资本魔术还是改革阳谋？](https://www.tmtpost.com/7861860.html)
+**发布时间**: 2026-01-30 18:07
+
+#### [苹果iPhone又双叒卖爆了，但库克到底啥时候退休？](https://www.tmtpost.com/7861853.html)
+**发布时间**: 2026-01-30 18:07
+
+#### [Clawdbot爆红，会抢走谁的饭碗？](https://www.tmtpost.com/7861993.html)
+**发布时间**: 2026-01-30 18:06
+
+#### [从随礼到回礼，这届年轻人经历了什么？](https://www.tmtpost.com/7861882.html)
+**发布时间**: 2026-01-30 18:06
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国车企和特斯拉的下一战，战场已定](http://www.huxiu.com/article/4831066.html?f=wangzhan)
+**发布时间**: 2026-01-30 20:22
+
+#### [万科：我爸又来救我了，羡慕吗？](http://www.huxiu.com/article/4830964.html?f=wangzhan)
+**发布时间**: 2026-01-30 20:00
+
+#### [“蛇吞”华人文化背后，真正的邵氏兄弟早就死了](http://www.huxiu.com/article/4831117.html?f=wangzhan)
+**发布时间**: 2026-01-30 19:21
+
+#### [老赖惩戒机制真的有效吗？](http://www.huxiu.com/article/4831075.html?f=wangzhan)
+**发布时间**: 2026-01-30 19:00
+
+#### [实盘战绩全网第1？三位量化大师混战，谁的策略技高一筹?](http://www.huxiu.com/article/4831068.html?f=wangzhan)
+**发布时间**: 2026-01-30 18:00
+
+#### [金银价格大跳水，有色金属变成绿色金属，接下来还能买吗？](http://www.huxiu.com/article/4831081.html?f=wangzhan)
+**发布时间**: 2026-01-30 16:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从三大支柱出发：Snowflake 平台的一次系统级升级](https://www.infoq.cn/article/4BOafAxF30X1K8AQd8qM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 19:44
+
+#### [如何用 dbt MCP 服务器和 Snowflake 构建智能体工作流](https://www.infoq.cn/article/lRtX3TRRZGq0dr6tl66q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 19:21
+
+#### [劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束](https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 18:46
+
+#### [预算有限、技术空白：最刁钻的AI用户，是中小企业老板](https://www.infoq.cn/article/ZGQys2f6BuEpytzqNLUu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 17:46
+
+#### [“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配](https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 17:46
+
+#### [效率狂飙数倍后：Coding Agent已然成熟，但开放世界仍是“无人区”](https://www.infoq.cn/article/0gUgQyIFDDrgJaXlESUg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 16:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [别只练力量和心肺，人生下半场拼的是肌肉爆发力](https://sspai.com/prime/story/a-guide-to-muscle-explosive-power)
+**发布时间**: 2026-01-30 18:16
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/105907)
+**发布时间**: 2026-01-30 18:04
 
 ---
 

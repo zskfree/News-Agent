@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 08:43:12 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:28:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API</title>
-      <link>https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束</title>
+      <link>https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯</title>
-      <link>https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯]]&gt;</description>
+      <title>马斯克的下一场革命，不用开颅的脑机接口来了？</title>
+      <link>https://www.tmtpost.com/7861487.html</link>
+      <description>&lt;![CDATA[马斯克的下一场革命，不用开颅的脑机接口来了？]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7861487.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI</title>
+      <link>https://www.tmtpost.com/7861725.html</link>
+      <description>&lt;![CDATA[ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7861725.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配</title>
+      <link>https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至</title>
+      <link>http://www.huxiu.com/article/4830765.html?f=wangzhan</link>
+      <description>&lt;![CDATA[内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至]]&gt;</description>
       <pubDate>Fri, 30 Jan 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？</title>
-      <link>https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>商汤开源SenseNova-MARS，突破多模态搜索推理天花板</title>
-      <link>https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[商汤开源SenseNova-MARS，突破多模态搜索推理天花板]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？</title>
-      <link>https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4830765.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
   </channel>

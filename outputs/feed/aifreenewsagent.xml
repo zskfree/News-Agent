@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 08:42:50 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:28:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA</title>
-      <link>https://www.qbitai.com/2026/01/374459.html</link>
-      <description>&lt;![CDATA[让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374459.html</guid>
+      <title>Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了</title>
+      <link>https://www.qbitai.com/2026/01/374506.html</link>
+      <description>&lt;![CDATA[Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374506.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型</title>
-      <link>https://www.qbitai.com/2026/01/374455.html</link>
-      <description>&lt;![CDATA[性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374455.html</guid>
+      <title>天下苦CUDA久矣，又一国产方案上桌了</title>
+      <link>https://www.qbitai.com/2026/01/374666.html</link>
+      <description>&lt;![CDATA[天下苦CUDA久矣，又一国产方案上桌了]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374666.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索</title>
-      <link>https://www.qbitai.com/2026/01/374467.html</link>
-      <description>&lt;![CDATA[腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 06:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374467.html</guid>
+      <title>顶尖模型离“科学家”还差得远？AI4S亟待迈向2.0时代</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-11</link>
+      <description>&lt;![CDATA[顶尖模型离“科学家”还差得远？AI4S亟待迈向2.0时代]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 18:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-30-4</link>
-      <description>&lt;![CDATA[姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 13:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-4</guid>
+      <title>蚂蚁灵波开源具身世界模型LingBot-VA，机器人复杂任务成功率较Pi0.5提升20%</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-6</link>
+      <description>&lt;![CDATA[蚂蚁灵波开源具身世界模型LingBot-VA，机器人复杂任务成功率较Pi0.5提升20%]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-30-2</link>
-      <description>&lt;![CDATA[Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-2</guid>
+      <title>RoboChallenge 年度报告发布，具身智能迈向标准化时代</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-12</link>
+      <description>&lt;![CDATA[RoboChallenge 年度报告发布，具身智能迈向标准化时代]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-12</guid>
       <category>Ai</category>
     </item>
   </channel>
