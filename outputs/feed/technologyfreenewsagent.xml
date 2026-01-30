@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 05:55:29 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 08:43:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里隐藏7年的芯片王牌，终于浮出水面</title>
-      <link>https://www.tmtpost.com/7861132.html</link>
-      <description>&lt;![CDATA[阿里隐藏7年的芯片王牌，终于浮出水面]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7861132.html</guid>
+      <title>苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API</title>
+      <link>https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>商汤开源Agentic VLM模型，让AI能自主“动脑动手”</title>
-      <link>https://www.tmtpost.com/7861302.html</link>
-      <description>&lt;![CDATA[商汤开源Agentic VLM模型，让AI能自主“动脑动手”]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7861302.html</guid>
+      <title>就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯</title>
+      <link>https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何破解大模型生产级部署「最后一公里难题」？</title>
-      <link>https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何破解大模型生产级部署「最后一公里难题」？]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？</title>
+      <link>https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026中国商业航天：要么领跑，要么出局</title>
-      <link>https://www.tmtpost.com/7861190.html</link>
-      <description>&lt;![CDATA[2026中国商业航天：要么领跑，要么出局]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7861190.html</guid>
+      <title>商汤开源SenseNova-MARS，突破多模态搜索推理天花板</title>
+      <link>https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[商汤开源SenseNova-MARS，突破多模态搜索推理天花板]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌通用商务协议（UCP）赋能智能代理购物</title>
-      <link>https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌通用商务协议（UCP）赋能智能代理购物]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？</title>
+      <link>https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

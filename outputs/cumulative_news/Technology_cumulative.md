@@ -1,7 +1,104 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-30 05:54
+**最后更新时间**: 2026-01-30 08:42
+
+---
+
+## 🆕 最新更新 (2026-01-30 08:42)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？](https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 16:34
+
+#### [商汤开源SenseNova-MARS，突破多模态搜索推理天花板](https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 16:08
+
+#### [苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API](https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 16:00
+
+#### [凌晨三点写代码、10个 Agent 同时跑！ClawdBot 创始人自曝 AI 上瘾史：Claude Code 入坑，Codex 成主力](https://www.infoq.cn/article/XW07axk5vWGgzz4bFqol?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 15:30
+
+#### [就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯](https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-30 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马斯克的下一场革命，不用开颅的脑机接口来了？](https://www.tmtpost.com/7861487.html)
+**发布时间**: 2026-01-30 16:27
+
+#### [AI这块蛋糕，英伟达只吃奶油](https://www.tmtpost.com/7861708.html)
+**发布时间**: 2026-01-30 16:24
+
+#### [从“玩梗”到“共创”：听劝营销重塑品牌与用户沟通新路](https://www.tmtpost.com/7861740.html)
+**发布时间**: 2026-01-30 16:20
+
+#### [特斯拉的销量已经不重要了](https://www.tmtpost.com/7861761.html)
+**发布时间**: 2026-01-30 16:20
+
+#### [又一95后科学家加盟腾讯，担任混元“首席科学家”](https://www.tmtpost.com/7861703.html)
+**发布时间**: 2026-01-30 15:33
+
+#### [ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI](https://www.tmtpost.com/7861725.html)
+**发布时间**: 2026-01-30 15:29
+
+#### [营收利润双高，苹果的未来却有点悬？](https://www.tmtpost.com/7861576.html)
+**发布时间**: 2026-01-30 14:56
+
+#### [超盒算NB的野心藏不住了](https://www.tmtpost.com/7861569.html)
+**发布时间**: 2026-01-30 14:52
+
+#### [韩束2025年GMV国货第一，但上美的第二增长曲线仍在摸索](https://www.tmtpost.com/7861634.html)
+**发布时间**: 2026-01-30 14:24
+
+#### [宣伟公司股价下跌，财报显示客户消费状况堪忧](https://www.tmtpost.com/7861593.html)
+**发布时间**: 2026-01-30 13:53
+
+#### [受价格下限担忧影响，MP和稀土股票下跌，这或许是一个买入机会](https://www.tmtpost.com/7861591.html)
+**发布时间**: 2026-01-30 13:48
+
+#### [这位表现优异的基金经理看好强生、劳氏和公用事业类股票](https://www.tmtpost.com/7861589.html)
+**发布时间**: 2026-01-30 13:48
+
+#### [Innodata股价因与Palantir达成合作而大涨，建议继续看好](https://www.tmtpost.com/7861584.html)
+**发布时间**: 2026-01-30 13:45
+
+#### [金融股出现裂痕引发担忧，这三张图表说明了一切](https://www.tmtpost.com/7861580.html)
+**发布时间**: 2026-01-30 13:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘](https://sspai.com/post/104564)
+**发布时间**: 2026-01-30 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [逛逛淘到了 3 个好玩 GitHub 开源项目，推荐一下。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530963&idx=1&sn=31cb76d18feabe0c23cff62daa7fea1e)
+**发布时间**: 2026-01-30 14:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至](http://www.huxiu.com/article/4830765.html?f=wangzhan)
+**发布时间**: 2026-01-30 14:00
+
+#### [沃尔玛也学甄嬛了？](http://www.huxiu.com/article/4830904.html?f=wangzhan)
+**发布时间**: 2026-01-30 13:00
+
+#### [索尼电视遭分拆，日本彩电巨头为何全军覆没？](http://www.huxiu.com/article/4830702.html?f=wangzhan)
+**发布时间**: 2026-01-30 11:06
+
+#### [特斯拉的销量已经不重要了](http://www.huxiu.com/article/4830840.html?f=wangzhan)
+**发布时间**: 2026-01-29 19:43
+
+#### [金价破5500只是开始？](http://www.huxiu.com/article/4830821.html?f=wangzhan)
+**发布时间**: 2026-01-29 19:20
+
+#### [豆包手机命运多舛，被大厂围剿是他注定的命运吗？](http://www.huxiu.com/article/4830436.html?f=wangzhan)
+**发布时间**: 2026-01-29 17:00
+
+#### [黄金白银LOF为啥突然停售？](http://www.huxiu.com/article/4830600.html?f=wangzhan)
+**发布时间**: 2026-01-29 15:25
 
 ---
 

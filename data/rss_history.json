@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "718812d1c8d6f492e801814682ddb74e84deef77130073a9ed225ba0b0cb440e": {
-        "title": "字节跳动芯片团队传重大突破：自研处理器性能对标特供版H20且价更低，明年还砸千亿囤英伟达AI芯片?",
-        "link": "https://www.infoq.cn/article/Wtj1KOUc33M8VXdWdqFe?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 15:49:00 GMT",
-        "first_seen": "2025-12-31T08:32:26.721125"
-      },
-      "57a1c1dee40a918d9262c62f08d74ddf270fd31b5f6bde91bf58c8b0b40aa2a2": {
-        "title": "把“全身力控”塞进背包、关节比鸡蛋还小？稚晖君推出启元Q1，这次真要终结“玩具机器人”了？",
-        "link": "https://www.infoq.cn/article/Fs4TXvxqACzxI7EjFxyf?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-31T08:32:26.721131"
-      },
-      "364383ba45c7502efd4f9c50704320979d4ff2d301be0c3986a464e7c78dfa79": {
-        "title": "AI Coding 生死局：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手",
-        "link": "https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:56:00 GMT",
-        "first_seen": "2025-12-31T08:32:26.721133"
-      },
-      "5e2879496658314508c6f3db57da687de8c475ec996f8c481324ce1c00f65162": {
-        "title": "解决 AI “不会配合” 的难题！蚂蚁数科 20 + 论文入选顶会，攻克大规模智能协作关键技术",
-        "link": "https://www.infoq.cn/article/bjfd6q2ziWN18szfobCA?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 15:14:00 GMT",
-        "first_seen": "2025-12-31T08:32:26.721135"
-      },
-      "985a6e2b02b947e95bd6e971095fd5c01fb875a04d3bedb8a9f6cda6cb4b6c6e": {
-        "title": "从 4 个 9 到 6 个 9，为什么云平台的高可用才是业务生死线?",
-        "link": "https://www.infoq.cn/article/sEiFj4QVzURjFUWb4RGb?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 31 Dec 2025 14:44:00 GMT",
-        "first_seen": "2025-12-31T08:32:26.721136"
-      },
       "5daffabbe797a635ca66a96e8dd5618a6af6df316e5ab7bb26d9881ce2db0636": {
         "title": "杨植麟自曝“家底”：手握超100亿现金、刚融了5亿美元，明年Kimi员工激励翻倍，“短期不着急上市”",
         "link": "https://www.infoq.cn/article/mwQekyl5ZQXcvv8vEsr9?utm_source=rss&utm_medium=article",
@@ -2683,6 +2653,36 @@
         "link": "https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 30 Jan 2026 10:58:00 GMT",
         "first_seen": "2026-01-30T05:55:29.608737"
+      },
+      "805fb25ef9861fb9828db6813b98b6f4a92ffbe9c0755d752cef305cf136bfd7": {
+        "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
+        "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:12.870977"
+      },
+      "78890b7984fccdaa00e8476f9bea7ad1d96ea535f4cb0b47525ddfb9a38a9b1d": {
+        "title": "就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯",
+        "link": "https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:12.870984"
+      },
+      "a25776f3e62139b74228d0864225e09618b5b52bc5b57ca8f8a39ace2406ab45": {
+        "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
+        "link": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-30T08:43:12.870986"
+      },
+      "a701a87481317b51b555a2c2a315255d0d64285d4a86bc92ffb9eee7999a3cda": {
+        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
+        "link": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 16:08:00 GMT",
+        "first_seen": "2026-01-30T08:43:12.870988"
+      },
+      "f5279f33fa1be8821dc6aa824efcdff8c440f75abe306174d7efa7cb6e09d118": {
+        "title": "Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？",
+        "link": "https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-30T08:43:12.870989"
       }
     },
     "Finance": {
@@ -4584,36 +4584,6 @@
       }
     },
     "Ai": {
-      "b846456468134890447b36cd0ffc5af21aeeee0aef8cb648e9570fc4f5810226": {
-        "title": "卓驭打造科技平权，端到端辅助驾驶延伸至重卡高速、无人物流",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-6",
-        "published_date": "Wed, 31 Dec 2025 16:18:00 GMT",
-        "first_seen": "2025-12-31T08:32:03.346436"
-      },
-      "799b48cc213afa613a57652c6265a4de07a19c176d88c3b350f5dbcb50be20df": {
-        "title": "从“手工艺”到“AI工程化”：解码AI智能渗透的未来之战",
-        "link": "https://www.qbitai.com/2025/12/366280.html",
-        "published_date": "Wed, 31 Dec 2025 07:42:00 GMT",
-        "first_seen": "2025-12-31T08:32:03.346445"
-      },
-      "9d940cc42d21ab3a0a1c934b191f7b2bc26ecd0eeff849b393f5bca6fb0b080b": {
-        "title": "MiniMax作价461亿港元募资46亿，1月9日敲钟代码00100",
-        "link": "https://www.qbitai.com/2025/12/366302.html",
-        "published_date": "Wed, 31 Dec 2025 06:31:00 GMT",
-        "first_seen": "2025-12-31T08:32:03.346448"
-      },
-      "f30235dc6a417072ce2da301e4390f6e209a9b92c59efe96f824df1860c498fb": {
-        "title": "视远 · 正心明智——「AI 中国」机器之心2025年度评选正式揭晓",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-31-5",
-        "published_date": "Wed, 31 Dec 2025 13:19:00 GMT",
-        "first_seen": "2025-12-31T08:32:03.346449"
-      },
-      "e7106b2e97320cd52e098ba16f2b953fbb8ae482fce4205ac20d77245118965d": {
-        "title": "2025-12-31日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-31/",
-        "published_date": "Wed, 31 Dec 2025 07:14:00 GMT",
-        "first_seen": "2025-12-31T08:32:03.346451"
-      },
       "b03df72d742967d33e789805227cf415779fd3e6ed421e2167583182b5fc6b67": {
         "title": "超DeepEP两倍！无问芯穹FUSCO以「空中变阵」突破MoE通信瓶颈，专为Agent爆发设计",
         "link": "https://www.jiqizhixin.com/articles/2025-12-31-10",
@@ -6797,13 +6767,43 @@
         "link": "https://www.qbitai.com/2026/01/374426.html",
         "published_date": "Fri, 30 Jan 2026 05:10:00 GMT",
         "first_seen": "2026-01-30T05:55:11.918450"
+      },
+      "0c0251171b75ee56c0b24f9689f210346d5869463fe91bb9de7025139b3f5533": {
+        "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
+        "link": "https://www.qbitai.com/2026/01/374459.html",
+        "published_date": "Fri, 30 Jan 2026 06:24:00 GMT",
+        "first_seen": "2026-01-30T08:42:50.056915"
+      },
+      "ffac5fc007b2f4e646ce4631eb2795ef5bc40e95eb832ac5dcef4bfc19b03b76": {
+        "title": "性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型",
+        "link": "https://www.qbitai.com/2026/01/374455.html",
+        "published_date": "Fri, 30 Jan 2026 06:10:00 GMT",
+        "first_seen": "2026-01-30T08:42:50.056923"
+      },
+      "19661b4c30315453ae1fa4a7238d14f61b6a9b19199da6c8ca065a02485b22c7": {
+        "title": "腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索",
+        "link": "https://www.qbitai.com/2026/01/374467.html",
+        "published_date": "Fri, 30 Jan 2026 06:33:00 GMT",
+        "first_seen": "2026-01-30T08:42:50.056926"
+      },
+      "9f3ba971082095526aee6c2f7b85a60e9d3e82b25b5f96b61c8f2ef946efad86": {
+        "title": "姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-4",
+        "published_date": "Fri, 30 Jan 2026 13:05:00 GMT",
+        "first_seen": "2026-01-30T08:42:50.056928"
+      },
+      "ca26e020fd94e4977cefd304df95ed3218ec0b9dcadfb6ea4c487fb4b6007799": {
+        "title": "Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-30-2",
+        "published_date": "Fri, 30 Jan 2026 11:44:00 GMT",
+        "first_seen": "2026-01-30T08:42:50.056930"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-30T05:55:29.608738",
+    "Technology": "2026-01-30T08:43:12.870991",
     "Finance": "2026-01-30T05:54:58.751331",
-    "Ai": "2026-01-30T05:55:11.918452"
+    "Ai": "2026-01-30T08:42:50.056932"
   }
 }

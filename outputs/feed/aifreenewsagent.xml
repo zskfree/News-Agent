@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 05:49:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 05:55:11 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 08:42:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-30-3</link>
-      <description>&lt;![CDATA[LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-3</guid>
+      <title>让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA</title>
+      <link>https://www.qbitai.com/2026/01/374459.html</link>
+      <description>&lt;![CDATA[让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 06:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374459.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>商汤开源SenseNova-MARS，突破多模态搜索推理天花板</title>
-      <link>https://www.jiqizhixin.com/articles/2026-01-30</link>
-      <description>&lt;![CDATA[商汤开源SenseNova-MARS，突破多模态搜索推理天花板]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30</guid>
+      <title>性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型</title>
+      <link>https://www.qbitai.com/2026/01/374455.html</link>
+      <description>&lt;![CDATA[性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374455.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别</title>
-      <link>https://www.qbitai.com/2026/01/374421.html</link>
-      <description>&lt;![CDATA[千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 02:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374421.html</guid>
+      <title>腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索</title>
+      <link>https://www.qbitai.com/2026/01/374467.html</link>
+      <description>&lt;![CDATA[腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374467.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年</title>
-      <link>https://www.qbitai.com/2026/01/374431.html</link>
-      <description>&lt;![CDATA[硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 05:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374431.html</guid>
+      <title>姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-4</link>
+      <description>&lt;![CDATA[姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 13:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来</title>
-      <link>https://www.qbitai.com/2026/01/374426.html</link>
-      <description>&lt;![CDATA[SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 05:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/01/374426.html</guid>
+      <title>Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-30-2</link>
+      <description>&lt;![CDATA[Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！]]&gt;</description>
+      <pubDate>Fri, 30 Jan 2026 11:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-30-2</guid>
       <category>Ai</category>
     </item>
   </channel>
