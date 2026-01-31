@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-30 23:27
+**最后更新时间**: 2026-01-31 05:39
+
+---
+
+## 🆕 最新更新 (2026-01-31 05:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [买遍银河系，安踏为什么还需要一个彪马](https://www.tmtpost.com/7862294.html)
+**发布时间**: 2026-01-31 13:14
+
+#### [蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开](https://www.tmtpost.com/7862300.html)
+**发布时间**: 2026-01-31 13:14
+
+#### [一身腱子肉的通云哥，出来混江湖了](https://www.tmtpost.com/7862323.html)
+**发布时间**: 2026-01-31 13:14
+
+#### [扎进产业毛细血管，这家大模型企业，股价一度暴涨100%](https://www.tmtpost.com/7862334.html)
+**发布时间**: 2026-01-31 13:14
+
+#### [腾讯AI的两条路](https://www.tmtpost.com/7862340.html)
+**发布时间**: 2026-01-31 13:13
+
+#### [马云“腊八之约”畅谈AI，阿里狂甩“连炸”](https://www.tmtpost.com/7862342.html)
+**发布时间**: 2026-01-31 13:13
+
+#### [锂矿双雄大跌：业绩扭亏难抵败诉冲击？](https://www.tmtpost.com/7862359.html)
+**发布时间**: 2026-01-31 13:13
+
+#### [理想AI，步入深水区](https://www.tmtpost.com/7862385.html)
+**发布时间**: 2026-01-31 13:13
+
+#### [排队等上市，商业航天“六小龙”实力几何？](https://www.tmtpost.com/7862694.html)
+**发布时间**: 2026-01-31 13:07
+
+#### [价值判断：跌停板的投资机会和风险提示（1月30日）｜证券市场观察](https://www.tmtpost.com/7862687.html)
+**发布时间**: 2026-01-31 11:38
+
+#### [价值判断：涨停板的投资机会和风险提示（1月30日）｜证券市场观察](https://www.tmtpost.com/7862654.html)
+**发布时间**: 2026-01-31 11:03
+
+#### [连续两家工厂被卖掉，日本车企开启“工厂大撤离”](https://www.tmtpost.com/7859450.html)
+**发布时间**: 2026-01-31 10:58
+
+#### [蔚小理齐迎“本命年”：逆风、过河与AI稻草](https://www.tmtpost.com/7862222.html)
+**发布时间**: 2026-01-31 10:47
+
+#### [白银暴跌，但白银矿企股票或许值得买入](https://www.tmtpost.com/7862574.html)
+**发布时间**: 2026-01-31 09:20
+
+#### [21亿减值离场，分众掀开了网贷行业的底牌](https://www.tmtpost.com/7862576.html)
+**发布时间**: 2026-01-31 09:20
+
+#### [从几内亚到大众工厂，全球铝业正上演“权力的游戏”](https://www.tmtpost.com/7862229.html)
+**发布时间**: 2026-01-31 08:04
+
+#### [4.9万辆电车名额放出，加拿大消费者在热议什么?](https://www.tmtpost.com/7862242.html)
+**发布时间**: 2026-01-31 08:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致](https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-31 12:00
+
+#### [BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元](https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-31 11:00
+
+#### [为什么你的系统一出事就“查不清”？Railway 给出可观测性的标准答案](https://www.infoq.cn/article/9QaYwTAYLedFhScRPsOp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-31 10:00
+
+#### [Swift跨平台框架Skip现已完全开源](https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-31 09:00
+
+#### [摩擦解决之道：改变关键要素](https://www.infoq.cn/article/ah0Xq4eGpFGrOEJOdfNX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-31 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [限牌十年，为何最终限了个寂寞？](http://www.huxiu.com/article/4830403.html?f=wangzhan)
+**发布时间**: 2026-01-31 11:00
 
 ---
 

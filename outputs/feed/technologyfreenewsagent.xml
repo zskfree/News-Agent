@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 23:28:24 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 05:39:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:39:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束</title>
-      <link>https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开</title>
+      <link>https://www.tmtpost.com/7862300.html</link>
+      <description>&lt;![CDATA[蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862300.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克的下一场革命，不用开颅的脑机接口来了？</title>
-      <link>https://www.tmtpost.com/7861487.html</link>
-      <description>&lt;![CDATA[马斯克的下一场革命，不用开颅的脑机接口来了？]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7861487.html</guid>
+      <title>BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元</title>
+      <link>https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI</title>
-      <link>https://www.tmtpost.com/7861725.html</link>
-      <description>&lt;![CDATA[ByteDance CEO Says the Company's Primary Focus is Doubao/Dola AI]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7861725.html</guid>
+      <title>腾讯AI的两条路</title>
+      <link>https://www.tmtpost.com/7862340.html</link>
+      <description>&lt;![CDATA[腾讯AI的两条路]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 13:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862340.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配</title>
-      <link>https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致</title>
+      <link>https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至</title>
-      <link>http://www.huxiu.com/article/4830765.html?f=wangzhan</link>
-      <description>&lt;![CDATA[内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至]]&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4830765.html?f=wangzhan</guid>
+      <title>排队等上市，商业航天“六小龙”实力几何？</title>
+      <link>https://www.tmtpost.com/7862694.html</link>
+      <description>&lt;![CDATA[排队等上市，商业航天“六小龙”实力几何？]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862694.html</guid>
       <category>Technology</category>
     </item>
   </channel>

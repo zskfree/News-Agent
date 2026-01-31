@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b801dbac94aca2e820011cfbb8ef6ede30675f057c522e7bf4e561b613df792d": {
-        "title": "CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载",
-        "link": "https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:29:21.521122"
-      },
-      "7a1ce956591b30ae3515c7cc7da719fc9f1a34880dd3ba2a548674e6d881538a": {
-        "title": "MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？",
-        "link": "https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:29:21.521129"
-      },
-      "5807c5b93f09d872c59936a4abd71c415ea7ec50909a277b16e32d9305163ecf": {
-        "title": "AI创业公司的2025：一半是海水，一半是火焰",
-        "link": "https://www.tmtpost.com/7828472.html",
-        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-01T05:29:21.521131"
-      },
-      "7a7c09f84c510ff6feb2cdd1bbe8285c79dec138e612cb49c501e8f116d26ef3": {
-        "title": "90后AI创业者，拿到Meta数十亿美元“聘礼”",
-        "link": "https://www.tmtpost.com/7828576.html",
-        "published_date": "Thu, 01 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-01T05:29:21.521133"
-      },
-      "5076f98d492bbb547a5582efb944b00dde740c874f147cb1e72f3a7ec2330e60": {
-        "title": "车圈2025：价格战没赢家，但淘汰赛已有出局者",
-        "link": "https://www.tmtpost.com/7828479.html",
-        "published_date": "Thu, 01 Jan 2026 08:31:00 GMT",
-        "first_seen": "2026-01-01T05:29:21.521135"
-      },
       "5df58a41f6e2d0dbaf50e2f15bd8efa9b587e626de4a0beb63b7763e02afaeb2": {
         "title": "孟晚舟发新年致辞，华为要重新“盖房子”",
         "link": "https://www.tmtpost.com/7828586.html",
@@ -2683,21 +2653,39 @@
         "link": "http://www.huxiu.com/article/4830765.html?f=wangzhan",
         "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
         "first_seen": "2026-01-30T23:28:24.414990"
+      },
+      "904412f4884df5c9857b9ac533e1a85bab38d7fdc2ee66f5c9980e41a79eeb70": {
+        "title": "蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开",
+        "link": "https://www.tmtpost.com/7862300.html",
+        "published_date": "Sat, 31 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-31T05:39:58.668134"
+      },
+      "dec1b8f3f1550d78938cc69ff045ea7e086106053eabe8815bf9ce9cac9040a5": {
+        "title": "BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元",
+        "link": "https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-31T05:39:58.668140"
+      },
+      "1c6b0c4a26a65955a55aa35c500af0f49c22dbc1761ae325c75d990ee806a64d": {
+        "title": "腾讯AI的两条路",
+        "link": "https://www.tmtpost.com/7862340.html",
+        "published_date": "Sat, 31 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-31T05:39:58.668142"
+      },
+      "230afb719c267585585ee501f0040e78bfc42e8c440469a3a4034ef5a6d0b6bb": {
+        "title": "硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致",
+        "link": "https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 31 Jan 2026 12:00:00 GMT",
+        "first_seen": "2026-01-31T05:39:58.668144"
+      },
+      "06a28b34469b172ff36c18e6d3194cc0de003f576b84c9939492bf7e22943e8e": {
+        "title": "排队等上市，商业航天“六小龙”实力几何？",
+        "link": "https://www.tmtpost.com/7862694.html",
+        "published_date": "Sat, 31 Jan 2026 13:07:00 GMT",
+        "first_seen": "2026-01-31T05:39:58.668145"
       }
     },
     "Finance": {
-      "332992a5edd76975063bd26830af8e38991a4d1b8b5ff9448abd8e4b46065943": {
-        "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
-        "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
-        "published_date": "Thu, 01 Jan 2026 03:27:00 GMT",
-        "first_seen": "2026-01-01T05:29:06.238640"
-      },
-      "29ddcf9fc6f09b1563d7afa037140c7b24e511631abd0b46d86de8a6bd2051ff": {
-        "title": "Chip shortages threaten 20% rise in consumer electronics prices",
-        "link": "https://www.ft.com/content/1f471189-2277-4d5d-822b-78eba6060755",
-        "published_date": "Thu, 01 Jan 2026 01:54:00 GMT",
-        "first_seen": "2026-01-01T05:29:06.238649"
-      },
       "756b418070bd44377c538ed94c8aea7cc226ee5e55ce22e31e92bc3239de9b4c": {
         "title": "‘Several’ people killed in Swiss ski resort fire",
         "link": "https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b",
@@ -4581,21 +4569,27 @@
         "link": "https://www.marketwatch.com/story/oil-prices-unexpectedly-score-first-monthly-gain-in-half-a-year-so-whats-the-next-move-for-opec-eac5bd6f?mod=mw_rss_topstories",
         "published_date": "Fri, 30 Jan 2026 22:21:00 GMT",
         "first_seen": "2026-01-30T23:27:47.243000"
+      },
+      "0d50bf3bdfdb61ecdb3d831d89831eab8d791db777b0d3561370d0524366f4e2": {
+        "title": "The IRS is trying to make the best of a government shutdown. Here’s how to protect your refund.",
+        "link": "https://www.marketwatch.com/story/the-irs-is-trying-to-make-the-best-of-a-government-shutdown-heres-how-to-protect-your-refund-156c1294?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 04:35:00 GMT",
+        "first_seen": "2026-01-31T05:39:42.478397"
+      },
+      "137ad1e61c1b623248302ce0337345e780c9d02c9f74ba1843d72d3d536d1b7a": {
+        "title": "Most of us make assumptions about growth and value stocks. Here’s what we get wrong.",
+        "link": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
+        "published_date": "Fri, 30 Jan 2026 23:39:00 GMT",
+        "first_seen": "2026-01-31T05:39:42.478404"
+      },
+      "5bd461618576f8411d14346344fd24ecf5ab2f62d9a1d3ff202635fb9518a6e0": {
+        "title": "Former Prince Andrew offered to aid pay-off to member of Epstein’s staff, DoJ emails show",
+        "link": "https://www.ft.com/content/d9c81261-a7ac-40ae-956c-a8a9b6e57ab8",
+        "published_date": "Sat, 31 Jan 2026 00:37:00 GMT",
+        "first_seen": "2026-01-31T05:39:42.478407"
       }
     },
     "Ai": {
-      "d360c9003d31ba2ff2a0461bb0c0e8656baacf62c9604d35ff60077804472db9": {
-        "title": "豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试",
-        "link": "https://www.qbitai.com/2026/01/366364.html",
-        "published_date": "Thu, 01 Jan 2026 02:27:00 GMT",
-        "first_seen": "2026-01-01T05:29:06.354427"
-      },
-      "aaeb5ef39ede0456e25de54c1f89d5862ff86970b7ea41ade935fe6e8f9f58ed": {
-        "title": "2026-01-01日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-01/",
-        "published_date": "Thu, 01 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-01T05:29:06.354434"
-      },
       "2f8a44593be960939151663dcd6257dc5c46da0e86b132cc3b4da9debcd78c77": {
         "title": "能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会",
         "link": "https://www.qbitai.com/2026/01/366397.html",
@@ -6797,13 +6791,19 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-30-12",
         "published_date": "Fri, 30 Jan 2026 22:47:00 GMT",
         "first_seen": "2026-01-30T23:28:02.381244"
+      },
+      "86a786f916e956eb2ecb1d8494ebfc9d9d12a98b69fbf875be359623cdcc3811": {
+        "title": "2026-01-31日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-31/",
+        "published_date": "Sat, 31 Jan 2026 07:20:00 GMT",
+        "first_seen": "2026-01-31T05:39:42.625710"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-30T23:28:24.414992",
-    "Finance": "2026-01-30T23:27:47.243001",
-    "Ai": "2026-01-30T23:28:02.381248"
+    "Technology": "2026-01-31T05:39:58.668147",
+    "Finance": "2026-01-31T05:39:42.478409",
+    "Ai": "2026-01-31T05:39:42.625718"
   }
 }
