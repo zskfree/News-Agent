@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-31 08:33
+**最后更新时间**: 2026-01-31 23:24
+
+---
+
+## 🆕 最新更新 (2026-01-31 23:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A luxury ‘phobia’ is gripping these consumers. It’s a red flag for brands like Chanel and Gucci.](https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 23:07
+
+#### [‘I am the third trustee’: My selfish brother is executor of our family estate. Can I retitle property in my name?](https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 23:00
+
+#### [‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?](https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 22:30
+
+#### [Think you can’t afford a house? More than half of down-payment assistance programs are now open to buyers earning over $100K.](https://www.marketwatch.com/story/think-you-cant-afford-a-house-more-than-half-of-down-payment-assistance-programs-are-now-open-to-buyers-earning-over-100k-061ea673?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 22:08
+
+#### [‘They upset me every time I see them’: How long do I keep my mother’s IRS and medical records? She died 4 years ago.](https://www.marketwatch.com/story/they-upset-me-every-time-i-see-them-how-long-do-i-keep-my-mothers-irs-and-medical-records-she-died-4-years-ago-22a436fc?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 21:33
+
+#### [This single mom saved $1 million in 15 years to retire at 49. How to use her strategies to catch up on retirement savings.](https://www.marketwatch.com/story/this-single-mom-saved-1-million-in-15-years-to-retire-at-49-how-to-use-her-strategies-to-catch-up-on-retirement-savings-0953b686?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 20:20
+
+#### [Loading up on your employer’s stock is tempting in a bull market. But how much is too much?](https://www.marketwatch.com/story/loading-up-on-your-employers-stock-is-tempting-in-a-bull-market-but-how-much-is-too-much-ec90fec9?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 19:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bitcoin price slides to lowest level since 2025 tariff shock](https://www.ft.com/content/faeb72a0-62ce-4d60-968e-5b932ea9c7e4)
+**发布时间**: 2026-01-31 20:11
+
+#### [Waymo finalises $16bn funding round at $110bn valuation](https://www.ft.com/content/94663caf-6c98-4883-b3f0-cc763a3b95ff)
+**发布时间**: 2026-01-31 19:41
+
+#### [Ford held talks with China’s Xiaomi over EV partnership](https://www.ft.com/content/678a173f-0387-46a0-a1c2-b28c4f8a64d4)
+**发布时间**: 2026-01-31 18:17
+
+#### [How Peter Mandelson’s Jeffrey Epstein links were exposed](https://www.ft.com/content/608af6ec-54fd-48a9-88e7-7ee31f12ae94)
+**发布时间**: 2026-01-31 12:21
+
+#### [Kevin Warsh’s nomination as Fed chair to spark rethink of bank’s role](https://www.ft.com/content/5c1af439-a1a1-4684-b27e-21a527abe676)
+**发布时间**: 2026-01-31 11:00
+
+#### [How Kevin Warsh won the race to become Trump’s new Fed chair](https://www.ft.com/content/e29721dc-2a70-42b8-9fdc-c1e93792c359)
+**发布时间**: 2026-01-31 10:00
+
+#### [France pushes state workers away from Zoom as Europe eyes tech decoupling](https://www.ft.com/content/4914b8d9-4066-4d5d-ade0-50364b3c68e4)
+**发布时间**: 2026-01-31 09:00
+
+#### [Warsh’s desire to shrink Fed’s balance sheet sets up clash with Trump, say investors](https://www.ft.com/content/0d6c67f6-37ef-4973-ade1-2f8e7610fb39)
+**发布时间**: 2026-01-31 02:00
 
 ---
 

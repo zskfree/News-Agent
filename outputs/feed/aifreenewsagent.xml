@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Jan 2026 05:39:42 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 23:25:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-31日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-31/</link>
-      <description>&lt;![CDATA[2026-01-31日刊]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-31/</guid>
+      <title>AlphaGo之父David Silver离职创业，目标超级智能</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-31</link>
+      <description>&lt;![CDATA[AlphaGo之父David Silver离职创业，目标超级智能]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-31</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>挑战Transformer，前OpenAI研究VP宣布创业，拟融资10亿美元</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-31-3</link>
+      <description>&lt;![CDATA[挑战Transformer，前OpenAI研究VP宣布创业，拟融资10亿美元]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-31-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek论文发表16天后，国内团队已经写出了模型的「生物字典」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-31-4</link>
+      <description>&lt;![CDATA[DeepSeek论文发表16天后，国内团队已经写出了模型的「生物字典」]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-31-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>机器人具身操作评估新范式来了，从此告别单一成功率指标</title>
+      <link>https://www.jiqizhixin.com/articles/2026-01-31-2</link>
+      <description>&lt;![CDATA[机器人具身操作评估新范式来了，从此告别单一成功率指标]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-01-31-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>蚂蚁用8B小模型构建用户“话”像，跨任务跨模型通用且SOTA</title>
+      <link>https://www.qbitai.com/2026/01/375302.html</link>
+      <description>&lt;![CDATA[蚂蚁用8B小模型构建用户“话”像，跨任务跨模型通用且SOTA]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/375302.html</guid>
       <category>Ai</category>
     </item>
   </channel>
