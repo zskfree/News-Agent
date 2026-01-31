@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Jan 2026 05:39:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Jan 2026 05:39:58 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 08:33:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开</title>
-      <link>https://www.tmtpost.com/7862300.html</link>
-      <description>&lt;![CDATA[蚂蚁开源LingBot-World，谷歌开放Genie 3体验：世界模型“开放窗口”被打开]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7862300.html</guid>
+      <title>平头哥八年蝶变，最凶猛的国产芯片</title>
+      <link>https://www.tmtpost.com/7862406.html</link>
+      <description>&lt;![CDATA[平头哥八年蝶变，最凶猛的国产芯片]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862406.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元</title>
-      <link>https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/V52Rsbxl71Ampa74ottq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>早已“破圈”的庞天宇，能带领腾讯混元“破圈”吗？</title>
+      <link>https://www.tmtpost.com/7862680.html</link>
+      <description>&lt;![CDATA[早已“破圈”的庞天宇，能带领腾讯混元“破圈”吗？]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862680.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯AI的两条路</title>
-      <link>https://www.tmtpost.com/7862340.html</link>
-      <description>&lt;![CDATA[腾讯AI的两条路]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7862340.html</guid>
+      <title>阿里决定对电商业务生理性断奶</title>
+      <link>https://www.tmtpost.com/7862411.html</link>
+      <description>&lt;![CDATA[阿里决定对电商业务生理性断奶]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862411.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致</title>
-      <link>https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[硬杠 Meta NLLB！Google 发布 TranslateGemma，机器翻译的“性价比”被卷到了极致]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h2pqxbjh27gCsekUWKFT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>蔚小理齐迎“本命年”：逆风、过河与AI稻草</title>
+      <link>https://www.tmtpost.com/7862222.html</link>
+      <description>&lt;![CDATA[蔚小理齐迎“本命年”：逆风、过河与AI稻草]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7862222.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>排队等上市，商业航天“六小龙”实力几何？</title>
-      <link>https://www.tmtpost.com/7862694.html</link>
-      <description>&lt;![CDATA[排队等上市，商业航天“六小龙”实力几何？]]&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7862694.html</guid>
+      <title>Swift跨平台框架Skip现已完全开源</title>
+      <link>https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Swift跨平台框架Skip现已完全开源]]&gt;</description>
+      <pubDate>Sat, 31 Jan 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

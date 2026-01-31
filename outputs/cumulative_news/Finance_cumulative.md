@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-31 05:39
+**最后更新时间**: 2026-01-31 08:33
+
+---
+
+## 🆕 最新更新 (2026-01-31 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The Tories have forgotten what it takes to prosper](https://www.ft.com/content/ff868260-98eb-49a7-b3e6-c4aa40b87c14)
+**发布时间**: 2026-01-31 05:00
+
+#### [The Hamnet wars](https://www.ft.com/content/bcf99216-d61f-4dbd-86f3-fa9be33edaf8)
+**发布时间**: 2026-01-31 05:00
+
+#### [Singapore’s public housing model meets the limits of its success](https://www.ft.com/content/2333c0fc-32df-41d5-9696-ed2d90181c7a)
+**发布时间**: 2026-01-31 02:45
+
+#### [Epstein emails on Bill Gates released by Justice Department](https://www.ft.com/content/cb16718c-7e03-4d0e-ba29-a3c5604dbab0)
+**发布时间**: 2026-01-30 23:44
 
 ---
 
