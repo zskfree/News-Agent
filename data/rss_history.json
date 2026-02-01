@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e9d52c16d05ecb317d3886b9972683d9559796f34192f85d7baf543bb4e0e097": {
-        "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
-        "link": "https://www.tmtpost.com/7829011.html",
-        "published_date": "Fri, 02 Jan 2026 11:55:00 GMT",
-        "first_seen": "2026-01-02T08:33:00.190275"
-      },
-      "6f3be876c82e89919aa2c3ffd39759cd80e104ebd4354352ab214b08ba841056": {
-        "title": "又是量化基金，第二个DeepSeek时刻到来了？",
-        "link": "https://www.tmtpost.com/7829093.html",
-        "published_date": "Fri, 02 Jan 2026 10:42:00 GMT",
-        "first_seen": "2026-01-02T08:33:00.190282"
-      },
-      "a36793842e267201f37ad9b3a6d8625adb2f2f57ff4219e0a281bb06f15777a2": {
-        "title": "补贴新政来了，26年新能源车有救了？",
-        "link": "https://www.tmtpost.com/7829153.html",
-        "published_date": "Fri, 02 Jan 2026 14:03:00 GMT",
-        "first_seen": "2026-01-02T08:33:00.190284"
-      },
-      "dbded659470b654599ee354f371487e8f2dc523d93f98e0cd6597fc6e1ed9ce7": {
-        "title": "特朗普的“充电宝”，要赴港IPO了",
-        "link": "https://www.tmtpost.com/7828993.html",
-        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
-        "first_seen": "2026-01-02T08:33:00.190286"
-      },
-      "3cdfabdd98a506a70bdcf95b9b0b90492ae27d6b24ac0c9a1d08ff4a0baf618c": {
-        "title": "2025，这些互联网巨头赢麻了",
-        "link": "https://www.tmtpost.com/7828731.html",
-        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-02T08:33:00.190288"
-      },
       "74c70786a77adcaf77ffce98a4e33f5ae07eaea32556243b45e574008bfce362": {
         "title": "国产GPU领军企业壁仞科技成功登陆 香港交易所 | 公司动态",
         "link": "https://www.tmtpost.com/7829193.html",
@@ -2683,15 +2653,39 @@
         "link": "https://www.tmtpost.com/7863229.html",
         "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
         "first_seen": "2026-02-01T06:03:06.347398"
+      },
+      "c22a8053443eb9c460bc0fafe65858bc32e51e1ae2ceeac7e6bfc1d760d47bba": {
+        "title": "世界第一！中国机床，雪耻了",
+        "link": "https://www.tmtpost.com/7863255.html",
+        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
+        "first_seen": "2026-02-01T08:38:13.225338"
+      },
+      "b8b645d0c0825974fab90cbd2b5667d25f8ae69a31f6c8996ab14902c4b1723b": {
+        "title": "150万AI agent社交狂欢背后，是一场“产品大爆炸”",
+        "link": "https://www.tmtpost.com/7863248.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T08:38:13.225346"
+      },
+      "d01b709b1d32356505c16b94aba5d5c3923d7a6d628eed6ab4b5123bce543f87": {
+        "title": "大疆最强对手来了？“果链女王”剑指无人机",
+        "link": "https://www.tmtpost.com/7863247.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T08:38:13.225350"
+      },
+      "fa71ec1dbf0bdfc46dd682e06951eb0df92e4d19083af57929d3d665afde1a13": {
+        "title": "15 万个 ClawdBot 涌进 AI 社交网站，但人类只能围观。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531052&idx=1&sn=b8908779a1624cf90982e0a4cefec03f",
+        "published_date": "Sun, 01 Feb 2026 09:35:00 GMT",
+        "first_seen": "2026-02-01T08:38:13.225352"
+      },
+      "8b3f9cee7262c89beef5ad73bd1efbadd4d779efb6c86ba8811286f95d08641a": {
+        "title": "浙大校友带高特电子冲刺“储能BMS第一股”，超5亿应收账款压顶",
+        "link": "https://www.tmtpost.com/7863096.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T08:38:13.225353"
       }
     },
     "Finance": {
-      "4fe23f8e9555c076a34781e7f5dacf46a3341b6acbc6915f39e16baaa92297c1": {
-        "title": "Donald Trump warns Iran it will ‘rescue’ protesters",
-        "link": "https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5",
-        "published_date": "Fri, 02 Jan 2026 08:19:00 GMT",
-        "first_seen": "2026-01-02T08:32:46.880880"
-      },
       "720bec15f4d739d423e54dd529df63e1792bc8b6ded5ea5e629d2f0b438d8025": {
         "title": "FTSE 100 tops 10,000 for first time in new year rally",
         "link": "https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090",
@@ -4578,12 +4572,6 @@
       }
     },
     "Ai": {
-      "0f9319663325fe8fdaee04b4f8eaf7efbb07bdab659a6ec436d3f66e900ef57e": {
-        "title": "马斯克宣布：量产脑机接口，手术全自动化",
-        "link": "https://www.qbitai.com/2026/01/366444.html",
-        "published_date": "Fri, 02 Jan 2026 06:07:00 GMT",
-        "first_seen": "2026-01-02T08:32:46.997816"
-      },
       "5d5a29c793197c2dda3c89f3c3e996681783af678651879345b59e7ac7831495": {
         "title": "LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化",
         "link": "https://www.jiqizhixin.com/articles/2026-01-03-2",
@@ -6760,7 +6748,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-01T06:03:06.347400",
+    "Technology": "2026-02-01T08:38:13.225355",
     "Finance": "2026-02-01T06:02:52.735891",
     "Ai": "2026-02-01T06:02:52.893492"
   }
