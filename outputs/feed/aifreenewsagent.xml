@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Jan 2026 23:24:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 06:02:52 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Feb 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2026 23:27:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-01日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-01/</link>
-      <description>&lt;![CDATA[2026-02-01日刊]]&gt;</description>
-      <pubDate>Sun, 01 Feb 2026 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-01/</guid>
+      <title>2026-02-02日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-02/</link>
+      <description>&lt;![CDATA[2026-02-02日刊]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 07:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-02/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-01-4</link>
+      <description>&lt;![CDATA[moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒]]&gt;</description>
+      <pubDate>Sun, 01 Feb 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-01-3</link>
+      <description>&lt;![CDATA[马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍]]&gt;</description>
+      <pubDate>Sun, 01 Feb 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-01-2</link>
+      <description>&lt;![CDATA[o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」]]&gt;</description>
+      <pubDate>Sun, 01 Feb 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-01</link>
+      <description>&lt;![CDATA[华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠]]&gt;</description>
+      <pubDate>Sun, 01 Feb 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01</guid>
       <category>Ai</category>
     </item>
   </channel>

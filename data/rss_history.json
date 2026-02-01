@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "74c70786a77adcaf77ffce98a4e33f5ae07eaea32556243b45e574008bfce362": {
-        "title": "国产GPU领军企业壁仞科技成功登陆 香港交易所 | 公司动态",
-        "link": "https://www.tmtpost.com/7829193.html",
-        "published_date": "Fri, 02 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-02T23:21:47.858123"
-      },
-      "633a00202f77f783bcfd1a403fb69f379459156251ac29cbc59c3d185c07de2a": {
-        "title": "新造车2025年复盘：零跑登顶，小鹏逆袭，理想遇挫",
-        "link": "https://www.tmtpost.com/7829222.html",
-        "published_date": "Fri, 02 Jan 2026 17:52:00 GMT",
-        "first_seen": "2026-01-02T23:21:47.858130"
-      },
-      "0ad66e0f2fb1f814aeddf962f26296970532c952a9685b94d98258a9b4938b7a": {
-        "title": "融资与规模“双失速”，白犀牛何以冲刺“第一股”？",
-        "link": "https://www.tmtpost.com/7829236.html",
-        "published_date": "Fri, 02 Jan 2026 19:24:00 GMT",
-        "first_seen": "2026-01-02T23:21:47.858132"
-      },
-      "c0ffb82776fff1bb6e0b464fa3e12af9500c7b71fe9a90d0d0727c775336caec": {
-        "title": "2025年，AI抢了谁的“饭碗”？",
-        "link": "https://www.tmtpost.com/7829199.html",
-        "published_date": "Fri, 02 Jan 2026 19:24:00 GMT",
-        "first_seen": "2026-01-02T23:21:47.858135"
-      },
-      "618eb30173ef75dc2d4febe1ce49b00ac227d810e3f9c3dab42cf294470321e1": {
-        "title": "2026增长的本质并没有变",
-        "link": "https://www.tmtpost.com/7828987.html",
-        "published_date": "Fri, 02 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-02T23:21:47.858136"
-      },
       "eef81802c9d8fb044c680dac22172be28e123eec7c504bc14491e818714caee7": {
         "title": "亚马逊云科技扩展Well-Architected Framework，新增Data Residency with Hybrid Cloud Services Lens",
         "link": "https://www.infoq.cn/article/oe0TfABIOmAbrvjr8L0O?utm_source=rss&utm_medium=article",
@@ -2683,39 +2653,39 @@
         "link": "https://www.tmtpost.com/7863096.html",
         "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
         "first_seen": "2026-02-01T08:38:13.225353"
+      },
+      "16d7c430ad9f890300bb23018a41ba083e9f325db701e94301b24bc298647926": {
+        "title": "中国的人工智能蓬勃发展，正在幕后迎来回报",
+        "link": "https://www.tmtpost.com/7863462.html",
+        "published_date": "Sun, 01 Feb 2026 20:35:00 GMT",
+        "first_seen": "2026-02-01T23:27:46.225676"
+      },
+      "37795080cc12a2a7d8236bbea9531359fc69b1020757e515a875197e5e849fa5": {
+        "title": "全球化2.0时代中企出海的破局之道——中国企业全球化创新实践思享会",
+        "link": "https://www.tmtpost.com/7863303.html",
+        "published_date": "Sun, 01 Feb 2026 15:53:00 GMT",
+        "first_seen": "2026-02-01T23:27:46.225683"
+      },
+      "6a89d96f4c86f026e98c0afee26f6e74fbfe98ba67b17916ad186c1f36e7c2da": {
+        "title": "全网都在降本增效，为什么字节在拼命加薪？",
+        "link": "https://www.tmtpost.com/7863041.html",
+        "published_date": "Sun, 01 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-01T23:27:46.225685"
+      },
+      "2625f0d83773fc96eba15439d7b6c35b0426575dccd4719bad31a7d00e80ca1f": {
+        "title": "好未来盈利了，但还得苦战AI",
+        "link": "https://www.tmtpost.com/7863157.html",
+        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-01T23:27:46.225687"
+      },
+      "9fb66bf4c49f4cde602e0a8f40e1f9f5305503349dd3f38b5b6a6a62456b4d89": {
+        "title": "体验了元宝派一周   AI还没敲开群聊那扇沉默的门",
+        "link": "https://www.tmtpost.com/7863220.html",
+        "published_date": "Sun, 01 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-01T23:27:46.225689"
       }
     },
     "Finance": {
-      "720bec15f4d739d423e54dd529df63e1792bc8b6ded5ea5e629d2f0b438d8025": {
-        "title": "FTSE 100 tops 10,000 for first time in new year rally",
-        "link": "https://www.ft.com/content/86286e3f-f206-437a-a634-af630d616090",
-        "published_date": "Fri, 02 Jan 2026 22:35:00 GMT",
-        "first_seen": "2026-01-02T23:21:19.409596"
-      },
-      "ede4091372e0219076d297db2a2ae84af8e6e9a15a54ffafed9164dcecb63be3": {
-        "title": "Tesla loses EV crown to China’s BYD",
-        "link": "https://www.ft.com/content/c1c5f811-7b3f-4011-8e1e-cccb5aa80313",
-        "published_date": "Fri, 02 Jan 2026 22:31:00 GMT",
-        "first_seen": "2026-01-02T23:21:19.409605"
-      },
-      "27180022695261cfec58b59a86a738f46abe10cc5876474d457ac2fcd82dc7dc": {
-        "title": "China is using silver as an economic weapon. What that means for investors and prices.",
-        "link": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
-        "published_date": "Fri, 02 Jan 2026 19:02:00 GMT",
-        "first_seen": "2026-01-02T23:21:19.409608"
-      },
-      "ac122cbfa603a6deab33d0ff7806e612a5294a8cffe7027f3af3cca728ba24dd": {
-        "title": "What a Soros theory can tell us about the AI boom",
-        "link": "https://www.ft.com/content/2ae4ac28-c496-4e02-ae7e-40bedf41a8b8",
-        "published_date": "Fri, 02 Jan 2026 18:00:00 GMT",
-        "first_seen": "2026-01-02T23:21:19.409610"
-      },
-      "835f9dd4e72de0fbf7c471edc96032a48bb480e0055ba1fc6f043271f2e96345": {
-        "title": "HSBC files bankruptcy petitions against senior members of Barclay family",
-        "link": "https://www.ft.com/content/1baed2f6-dd47-488e-8baf-77c5262e1bae",
-        "published_date": "Fri, 02 Jan 2026 19:16:00 GMT",
-        "first_seen": "2026-01-02T23:21:19.409611"
-      },
       "3c0d254709a4daeb353b42feed5dfbd55aeaf34719c806f37f4caf12a5a7254a": {
         "title": "‘I’m on a fixed budget’: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
         "link": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
@@ -4569,39 +4539,39 @@
         "link": "https://www.ft.com/content/e746e47b-16d6-4f06-91c0-72355216088d",
         "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-01T06:02:52.735888"
+      },
+      "ec7c76d8a600a8a1c2d731f94f19cb45c0b2e789fb7ebfa1a39d9cf191599569": {
+        "title": "Xi calls for China’s renminbi to attain global reserve currency status",
+        "link": "https://www.ft.com/content/c948b978-c22b-44b7-ba3d-4798e641e673",
+        "published_date": "Sun, 01 Feb 2026 09:26:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.478543"
+      },
+      "c3650df6f5618ff24f87a015924fc60fd0b7f26e23fbb9a42982b5f2c45dadd7": {
+        "title": "How Russia weaponised global banking to silence dissidents",
+        "link": "https://www.ft.com/content/9f499f4d-f78b-4154-aa2e-cabe9bd22d16",
+        "published_date": "Sun, 01 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.478552"
+      },
+      "16e64d8df7c0c0e9b771fdbca13d3c0f9add1af7bc22f50600ec22e8fe7a04dd": {
+        "title": "There’s now a bigger risk for stocks than the economy or corporate earnings",
+        "link": "https://www.marketwatch.com/story/theres-now-a-bigger-risk-for-stocks-than-the-economy-or-corporate-earnings-cff2eee0?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Feb 2026 20:45:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.478555"
+      },
+      "ba929ccd9322e99742d40705d40fac8123aa9f355d0ad7b3e9904e5a6d426d4a": {
+        "title": "Apollo chief Marc Rowan consulted Epstein on firm’s tax affairs",
+        "link": "https://www.ft.com/content/092d9e44-ec17-4da7-8b58-e43bf09113ab",
+        "published_date": "Sun, 01 Feb 2026 23:01:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.478557"
+      },
+      "69b167d06e0d97b7c220bb281d84e8802dbe00e5fc23894f3619a5fea5b3b484": {
+        "title": "JPMorgan should ‘threaten’ UK over banker tax, Mandelson told Epstein",
+        "link": "https://www.ft.com/content/91e8142a-3d4c-4222-a5ad-6548fc9907d1",
+        "published_date": "Sun, 01 Feb 2026 22:48:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.478559"
       }
     },
     "Ai": {
-      "5d5a29c793197c2dda3c89f3c3e996681783af678651879345b59e7ac7831495": {
-        "title": "LSTM之父率队造出PoPE：终结RoPE泛化难题，实现Transformer的极坐标进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-2",
-        "published_date": "Sat, 03 Jan 2026 00:12:00 GMT",
-        "first_seen": "2026-01-02T23:21:31.988876"
-      },
-      "735712b6b386bf341d7c72ff7527c35da11ccc8bf7ae175f94513b3767ef0ff6": {
-        "title": "Meta重磅：让智能体摆脱人类知识的瓶颈，通往自主AI的SSR级研究",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-4",
-        "published_date": "Sat, 03 Jan 2026 00:26:00 GMT",
-        "first_seen": "2026-01-02T23:21:31.988883"
-      },
-      "353a05df61f0759112b52ebae5d1226afe3b11570b189c99224a47fc64c2a0ac": {
-        "title": "KAN作者刘子鸣：AI还没等到它的「牛顿」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-8",
-        "published_date": "Sat, 03 Jan 2026 00:45:00 GMT",
-        "first_seen": "2026-01-02T23:21:31.988886"
-      },
-      "38abe704be07bd6bdf196566a50200c74acafc51e15d6ffe6d4cd38d6f63dc98": {
-        "title": "告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-3",
-        "published_date": "Sat, 03 Jan 2026 00:19:00 GMT",
-        "first_seen": "2026-01-02T23:21:31.988888"
-      },
-      "5c2298389936dd34b2791984bf2408e8d3dc8885818c7d27caff4280c948853f": {
-        "title": "Sebastian Raschka万字年终复盘：2025，属于「推理模型」的一年",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-9",
-        "published_date": "Sat, 03 Jan 2026 00:58:00 GMT",
-        "first_seen": "2026-01-02T23:21:31.988889"
-      },
       "7eded51c4e2cf4f4badbb21f59009226d6644f5ce5fb3ba54937f3da5a838dbe": {
         "title": "2026-01-03日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-03/",
@@ -6743,13 +6713,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-01/",
         "published_date": "Sun, 01 Feb 2026 07:16:00 GMT",
         "first_seen": "2026-02-01T06:02:52.893484"
+      },
+      "a1279c4e4336d0de99371237727f064d7983a05515529513fb61fe4d9f73532b": {
+        "title": "2026-02-02日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-02/",
+        "published_date": "Mon, 02 Feb 2026 07:19:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.628750"
+      },
+      "8ab61538ed1b91991c7569b4a8ab4dbff97b6800ffdbe46340b9399e25165ad2": {
+        "title": "moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-4",
+        "published_date": "Sun, 01 Feb 2026 18:06:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.628758"
+      },
+      "e11c099bd8d57d433aaed3bb4a789dfaa69a8787072b2c69ff6a903dcdf84a87": {
+        "title": "马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-3",
+        "published_date": "Sun, 01 Feb 2026 18:02:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.628760"
+      },
+      "9447601370458dbe038deac7c6fe7c76d91e2341b9f656ee7de921e35d4016f0": {
+        "title": "o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01-2",
+        "published_date": "Sun, 01 Feb 2026 17:56:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.628761"
+      },
+      "b51c7d3553c8c50be331fde2dcdfd02734d6bb6d29a7e99b845106ffa78f7362": {
+        "title": "华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01",
+        "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
+        "first_seen": "2026-02-01T23:27:30.628763"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-01T08:38:13.225355",
-    "Finance": "2026-02-01T06:02:52.735891",
-    "Ai": "2026-02-01T06:02:52.893492"
+    "Technology": "2026-02-01T23:27:46.225691",
+    "Finance": "2026-02-01T23:27:30.478561",
+    "Ai": "2026-02-01T23:27:30.628765"
   }
 }
