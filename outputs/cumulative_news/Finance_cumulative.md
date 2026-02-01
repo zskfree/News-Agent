@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-31 23:24
+**最后更新时间**: 2026-02-01 06:02
+
+---
+
+## 🆕 最新更新 (2026-02-01 06:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia struggles to shake reliance on foreign technology imports](https://www.ft.com/content/80cd2d5a-9aa4-40a4-b0fc-a2d1080622f7)
+**发布时间**: 2026-02-01 05:00
+
+#### [Chechen warlords’ health crises threaten Putin’s plan for the region](https://www.ft.com/content/e746e47b-16d6-4f06-91c0-72355216088d)
+**发布时间**: 2026-02-01 05:00
+
+#### [Who wants to live forever?](https://www.ft.com/content/a92cd27a-8b47-4c1f-8457-205da9edf2d9)
+**发布时间**: 2026-02-01 05:00
+
+#### [How to deal with defecting MPs](https://www.ft.com/content/5d7de83a-2b5d-4ffe-878b-c1920b1ee4f1)
+**发布时间**: 2026-02-01 05:00
+
+#### [Jeffrey Epstein sent Peter Mandelson $75,000, documents show](https://www.ft.com/content/17288a86-bbcc-4428-a081-902d0cb86f65)
+**发布时间**: 2026-01-31 23:28
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence](https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories)
+**发布时间**: 2026-01-31 23:34
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bf33763fad0c144a85cbb639eb670283ad7d5d458ce44cdb98ba3799a1792f9b": {
-        "title": "SIMA 2利用Gemini和自我改进技术在未见过的3D和逼真世界中进行泛化",
-        "link": "https://www.infoq.cn/article/kX8Kzyl87l5Sij8lvMT7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 10:15:00 GMT",
-        "first_seen": "2026-01-02T05:29:21.215504"
-      },
-      "79e4a7a47a8185412ead7156aa4c3b09f457efbd9bbbb1e50c73eda9106db5c7": {
-        "title": "微软预览Foundry Agent Service长期记忆功能，简化状态管理",
-        "link": "https://www.infoq.cn/article/fJSWBV2X88YKUCvoqI6P?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:21.215511"
-      },
-      "cc964a6d0875ecaff420dad989b66c45c478df43e39e8e3309717a4c9be9f542": {
-        "title": "Meta收购Manus的背后：AI时代的危与机",
-        "link": "https://www.tmtpost.com/7828964.html",
-        "published_date": "Fri, 02 Jan 2026 08:21:00 GMT",
-        "first_seen": "2026-01-02T05:29:21.215514"
-      },
-      "98e72b49c4642c0e04a1382480d6163bfbbccf4d35be3088b089a4e8333fbae7": {
-        "title": "商汤前总裁带队，港股“GPU第一股”壁仞科技开年挂牌：市值破千亿、首日涨幅领跑市场",
-        "link": "https://www.infoq.cn/article/b7oKHuFAxNlVIGpSpGiP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 11:02:00 GMT",
-        "first_seen": "2026-01-02T05:29:21.215516"
-      },
-      "4db8b918833c79edc338e7fb175f7cbd00fd1e1f91243d2911e06aac739e0212": {
-        "title": "Docker在容器安全转型中免费提供加固镜像",
-        "link": "https://www.infoq.cn/article/0xVzZHZRClxGI6ZOwsxC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:21.215517"
-      },
       "e9d52c16d05ecb317d3886b9972683d9559796f34192f85d7baf543bb4e0e097": {
         "title": "壁仞科技港股上市首日开盘涨超118%，开启2026国产AI新浪潮",
         "link": "https://www.tmtpost.com/7829011.html",
@@ -2683,39 +2653,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530978&idx=1&sn=4ffda450408750872a52ddaeb808a2ff",
         "published_date": "Sat, 31 Jan 2026 15:05:00 GMT",
         "first_seen": "2026-01-31T23:25:25.129337"
+      },
+      "8160c739e0d174fd25347dec1db7d4d5efaaf9501c2e3f4e2f488ac1c9b82012": {
+        "title": "【数智周报】马化腾评豆包手机；OpenAI计划四季度上市，已聘请新高管筹备IPO；开源项目Clawdbot爆火，开发者爆料开发内幕；",
+        "link": "https://www.tmtpost.com/7862957.html",
+        "published_date": "Sun, 01 Feb 2026 10:08:00 GMT",
+        "first_seen": "2026-02-01T06:03:06.347386"
+      },
+      "4e758c3098d0ad8bf580c3ca0c7e3579c92bc5f7be286b929c2d086ff180e5bc": {
+        "title": "Anthropic掌门人Amodei长文预警：AI竞争愈加激烈，难以重视自主性风险",
+        "link": "https://www.tmtpost.com/7862935.html",
+        "published_date": "Sun, 01 Feb 2026 09:04:00 GMT",
+        "first_seen": "2026-02-01T06:03:06.347392"
+      },
+      "ce133bf7966fd6a503f1edd324dfa0d1fa793071629084787ca9e4b4e176f2fd": {
+        "title": "150万AI Agents在Moltbook“发疯”，人，慌不？",
+        "link": "https://www.tmtpost.com/7863132.html",
+        "published_date": "Sun, 01 Feb 2026 10:53:00 GMT",
+        "first_seen": "2026-02-01T06:03:06.347394"
+      },
+      "08f985ce4940720306f871d3e12440ac82058911a69b85b0c90fdf7aba440d3e": {
+        "title": "黄仁勋反悔，不投千亿美元给OpenAI了？",
+        "link": "https://www.tmtpost.com/7862944.html",
+        "published_date": "Sun, 01 Feb 2026 09:12:00 GMT",
+        "first_seen": "2026-02-01T06:03:06.347396"
+      },
+      "c36e38a6f26cce0ce68a60e584c3c92b2f3705b09a23ad029936d91e83cb0727": {
+        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
+        "link": "https://www.tmtpost.com/7863229.html",
+        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
+        "first_seen": "2026-02-01T06:03:06.347398"
       }
     },
     "Finance": {
-      "3dbce94c75eb537c64bd3cd13b632c527e8eee6ff19439b53220559d5f11021d": {
-        "title": "UK financial watchdog closes 100 probes to sharpen enforcement focus",
-        "link": "https://www.ft.com/content/85def7e8-a326-43f9-b78e-24a4747c6eb7",
-        "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.124868"
-      },
-      "3d5a7f055944963c617ddd5c220725f684fe624db8d71a9d7960aa2e495e91e2": {
-        "title": "China doubles down on export-led growth model",
-        "link": "https://www.ft.com/content/079f2014-ed56-4137-89ee-561d7a8226cf",
-        "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.124876"
-      },
-      "f3d8abd207169a540d44c7001f2eece05d20209ac0d8dd78f9868f170bdf1425": {
-        "title": "The companies driving hopes of a London IPO revival in 2026",
-        "link": "https://www.ft.com/content/60f8d98c-4ad9-4950-abcf-117802bf5007",
-        "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.124879"
-      },
-      "fdc4983539d0423aac72d5fafcd1bbb887a00b3a9736374667544c5689c8e8be": {
-        "title": "Christine Lagarde’s pay is 50% higher than disclosed by ECB",
-        "link": "https://www.ft.com/content/c7cd22f0-efe5-40de-a448-fa9075926a6a",
-        "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.124881"
-      },
-      "f8d54945531671f2e3ece0e1d542c59380066fc7a2b19ef890601b47cbe978b0": {
-        "title": "Iran protests put president’s reform agenda to the test",
-        "link": "https://www.ft.com/content/6f079a18-78bc-4e12-b6d5-957526761298",
-        "published_date": "Fri, 02 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.124882"
-      },
       "4fe23f8e9555c076a34781e7f5dacf46a3341b6acbc6915f39e16baaa92297c1": {
         "title": "Donald Trump warns Iran it will ‘rescue’ protesters",
         "link": "https://www.ft.com/content/1aa432f5-1d01-4fcd-b6d9-c17d67d01ea5",
@@ -4575,39 +4545,39 @@
         "link": "https://www.marketwatch.com/story/think-you-cant-afford-a-house-more-than-half-of-down-payment-assistance-programs-are-now-open-to-buyers-earning-over-100k-061ea673?mod=mw_rss_topstories",
         "published_date": "Sat, 31 Jan 2026 22:08:00 GMT",
         "first_seen": "2026-01-31T23:24:53.755393"
+      },
+      "fdae851f444f36847e0556934298d6ba546923ff17263a6d4e555b866d4494ee": {
+        "title": "Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence",
+        "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
+        "published_date": "Sat, 31 Jan 2026 23:34:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.735869"
+      },
+      "e00406318e06d2169771856f59d41678212841184af4874bf1ea3b3b19295c5f": {
+        "title": "Jeffrey Epstein sent Peter Mandelson $75,000, documents show",
+        "link": "https://www.ft.com/content/17288a86-bbcc-4428-a081-902d0cb86f65",
+        "published_date": "Sat, 31 Jan 2026 23:28:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.735881"
+      },
+      "c6e2915c001b10b74aecfc44aecfbbdcb813d75dc261f9ad9dea5baa395dc36a": {
+        "title": "Russia struggles to shake reliance on foreign technology imports",
+        "link": "https://www.ft.com/content/80cd2d5a-9aa4-40a4-b0fc-a2d1080622f7",
+        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.735884"
+      },
+      "e37c261f3b4448904f63d10145c1a459da2bb5c544de0bb149325334d99697f9": {
+        "title": "Who wants to live forever?",
+        "link": "https://www.ft.com/content/a92cd27a-8b47-4c1f-8457-205da9edf2d9",
+        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.735886"
+      },
+      "0d89997a10bad3da7af1b2bf17e78dd1e17d674b6e5e23da3a84484cbb607e01": {
+        "title": "Chechen warlords’ health crises threaten Putin’s plan for the region",
+        "link": "https://www.ft.com/content/e746e47b-16d6-4f06-91c0-72355216088d",
+        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.735888"
       }
     },
     "Ai": {
-      "fc21f616fdcaf6606cbae8f5617b5bfa70749c3135409926626dec5eaf68b46e": {
-        "title": "AI正在占领你的视频推荐流",
-        "link": "https://www.qbitai.com/2026/01/366433.html",
-        "published_date": "Fri, 02 Jan 2026 03:58:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.278663"
-      },
-      "486bc9fa100c6d3cec569ba87ca768589edcccd442c8741594d458b0cdb38f75": {
-        "title": "「北京版幻方」冷不丁开源SOTA代码大模型！一张3090就能跑，40B参数掀翻Opus-4.5和GPT-5.2",
-        "link": "https://www.qbitai.com/2026/01/366408.html",
-        "published_date": "Fri, 02 Jan 2026 03:51:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.278671"
-      },
-      "b30b48d7b1d7fe5cd877922210fd57dca1c699b31dfbfc89b333d8a8f33cfc3f": {
-        "title": "2026-01-02日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-02/",
-        "published_date": "Fri, 02 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.278673"
-      },
-      "3c5cddfaca2b31210a5260a2acea3de232c63e506f9d773a95bfbf1cf8657568": {
-        "title": "谷歌三年逆袭：草蛇灰线，伏脉千里",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-4",
-        "published_date": "Fri, 02 Jan 2026 00:54:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.278675"
-      },
-      "d151a3c90086a5fc43edcf562505aa85f88c13b862215e8bfe180ff848160fb2": {
-        "title": "系统学习Deep Research，这一篇综述就够了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-02-3",
-        "published_date": "Fri, 02 Jan 2026 00:46:00 GMT",
-        "first_seen": "2026-01-02T05:29:05.278676"
-      },
       "0f9319663325fe8fdaee04b4f8eaf7efbb07bdab659a6ec436d3f66e900ef57e": {
         "title": "马斯克宣布：量产脑机接口，手术全自动化",
         "link": "https://www.qbitai.com/2026/01/366444.html",
@@ -6779,13 +6749,19 @@
         "link": "https://www.qbitai.com/2026/01/375302.html",
         "published_date": "Sat, 31 Jan 2026 12:36:00 GMT",
         "first_seen": "2026-01-31T23:25:05.674756"
+      },
+      "a26681980d26fd9c018a88ac95ed56671a5a4ce481665eb4a072c8416f6c274f": {
+        "title": "2026-02-01日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-01/",
+        "published_date": "Sun, 01 Feb 2026 07:16:00 GMT",
+        "first_seen": "2026-02-01T06:02:52.893484"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-31T23:25:25.129338",
-    "Finance": "2026-01-31T23:24:53.755395",
-    "Ai": "2026-01-31T23:25:05.674759"
+    "Technology": "2026-02-01T06:03:06.347400",
+    "Finance": "2026-02-01T06:02:52.735891",
+    "Ai": "2026-02-01T06:02:52.893492"
   }
 }
