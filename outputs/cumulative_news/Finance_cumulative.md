@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-02 08:46
+**最后更新时间**: 2026-02-02 23:30
+
+---
+
+## 🆕 最新更新 (2026-02-02 23:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech billionaires fuel Trump’s $429mn haul ahead of midterm elections](https://www.ft.com/content/5038f2b1-6334-4d28-85e6-312d06796ca7)
+**发布时间**: 2026-02-02 23:20
+
+#### [SpaceX buys xAI to unite crucial parts of Musk’s empire](https://www.ft.com/content/8ee76f65-74d9-4679-a2b0-cd8fc3721a8d)
+**发布时间**: 2026-02-02 22:55
+
+#### [Gold and silver deepen historic slump](https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70)
+**发布时间**: 2026-02-02 22:27
+
+#### [Police to review allegations against Mandelson in Epstein scandal](https://www.ft.com/content/f9d76ba8-12ef-40ca-9e4b-244efb879fc0)
+**发布时间**: 2026-02-02 20:16
+
+#### [Trump to slash India tariffs after Modi ‘agrees’ to stop buying Russian oil](https://www.ft.com/content/72f1947e-20aa-4a46-bd29-c2f563f24054)
+**发布时间**: 2026-02-02 18:59
+
+#### [This is what a proper Brexit looks like](https://www.ft.com/content/3be7216b-b96b-43a4-85bd-2d9dbf781435)
+**发布时间**: 2026-02-02 18:00
+
+#### [American brands have lost their cool](https://www.ft.com/content/32762810-35b2-43ca-bd8c-502b95b73b83)
+**发布时间**: 2026-02-02 17:55
+
+#### [Epstein asked for Snow White costume weeks before Jes Staley email](https://www.ft.com/content/6a760873-606b-46b9-8cdc-af23b8b8ce2e)
+**发布时间**: 2026-02-02 14:04
+
+#### [One Hyde Park residents win legal battle over £35mn in building defects](https://www.ft.com/content/2757b67e-7991-465f-8b5c-0aadc03ee1f0)
+**发布时间**: 2026-02-02 13:43
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Palantir’s stock surges as AI demand drives another record quarter](https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 23:08
+
+#### [AMD’s stock rises ahead of earnings. Why investors are feeling upbeat.](https://www.marketwatch.com/story/amds-stock-rises-ahead-of-earnings-why-investors-are-feeling-upbeat-e027e473?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 23:01
+
+#### [SpaceX officially acquires xAI. Here’s how Elon Musk justifies the move.](https://www.marketwatch.com/story/spacex-officially-acquires-xai-heres-how-elon-musk-justifies-the-move-f38d999f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 22:49
+
+#### [Where home buyers have landed the best deals we’ve seen on houses in over a decade](https://www.marketwatch.com/story/where-home-buyers-have-landed-the-best-deals-weve-seen-on-houses-in-over-a-decade-6077d81e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 22:25
+
+#### [How the stock market’s big turnaround on Monday put the S&P 500 back in record territory](https://www.marketwatch.com/story/how-the-stock-markets-big-turnaround-on-monday-put-the-s-p-500-back-in-record-territory-612a568a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 21:56
+
+#### [Silver plunges into a bear market for the first time since 2022. Here’s how long it may last.](https://www.marketwatch.com/story/silver-plunges-into-a-bear-market-for-the-first-time-since-2022-heres-how-long-it-may-last-c7efdd55?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 21:38
+
+#### [What would end this government shutdown — and how tax refunds and air travel are affected in the meantime](https://www.marketwatch.com/story/the-government-shutdown-has-delayed-fridays-jobs-report-heres-how-the-latest-closure-could-end-5694e2e5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 21:25
+
+#### [Here’s the one thing the bond market is hoping to avoid on Wednesday](https://www.marketwatch.com/story/heres-the-one-thing-the-bond-market-is-hoping-to-avoid-on-wednesday-62a19b06?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 21:10
+
+#### [‘Hell of a story, isn’t it?’: My brother stole $500K from my ailing father. Can we get justice?](https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 21:00
+
+#### [These software stocks could rise as much as 75%. But is now the time to buy?](https://www.marketwatch.com/story/these-software-stocks-could-rise-as-much-as-75-but-is-now-the-time-to-buy-8ca0e3c8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 20:58
 
 ---
 

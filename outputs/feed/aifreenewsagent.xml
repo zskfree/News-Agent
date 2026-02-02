@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 08:46:45 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 23:31:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature | 清北合作研发全球首个全柔性存算一体AI芯片</title>
-      <link>https://www.qbitai.com/2026/02/375362.html</link>
-      <description>&lt;![CDATA[Nature | 清北合作研发全球首个全柔性存算一体AI芯片]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 07:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375362.html</guid>
+      <title>2026-02-03日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-03/</link>
+      <description>&lt;![CDATA[2026-02-03日刊]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-03/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出</title>
-      <link>https://www.qbitai.com/2026/02/375507.html</link>
-      <description>&lt;![CDATA[何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375507.html</guid>
+      <title>史上最狠春节！阿里千问豪掷30亿，加入AI大战</title>
+      <link>https://www.qbitai.com/2026/02/375588.html</link>
+      <description>&lt;![CDATA[史上最狠春节！阿里千问豪掷30亿，加入AI大战]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375588.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02-2</link>
-      <description>&lt;![CDATA[像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-2</guid>
+      <title>大模型应用进入深水区，模型 API 服务的新范式是什么？</title>
+      <link>https://www.qbitai.com/2026/02/375584.html</link>
+      <description>&lt;![CDATA[大模型应用进入深水区，模型 API 服务的新范式是什么？]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 09:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375584.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02-6</link>
-      <description>&lt;![CDATA[Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-6</guid>
+      <title>真正释放生成式AI潜力：亚马逊云科技提出黄金三角方法论</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02-8</link>
+      <description>&lt;![CDATA[真正释放生成式AI潜力：亚马逊云科技提出黄金三角方法论]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02-4</link>
-      <description>&lt;![CDATA[18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-4</guid>
+      <title>大模型应用进入深水区，模型 API 服务的新范式是什么？清程AI Ping 给出了答案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02-7</link>
+      <description>&lt;![CDATA[大模型应用进入深水区，模型 API 服务的新范式是什么？清程AI Ping 给出了答案]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-7</guid>
       <category>Ai</category>
     </item>
   </channel>

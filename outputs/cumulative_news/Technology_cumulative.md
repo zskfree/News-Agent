@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-02 08:46
+**最后更新时间**: 2026-02-02 23:30
+
+---
+
+## 🆕 最新更新 (2026-02-02 23:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [张江半导体企业拟不超4.03亿元收购两半导体公司；新材料“小巨人”拟收购越南塑料公司；【并购一线】](https://www.tmtpost.com/7864606.html)
+**发布时间**: 2026-02-02 23:55
+
+#### [2026车市开局即洗牌：车企“画大饼”，市场“泼冷水”](https://www.tmtpost.com/7864155.html)
+**发布时间**: 2026-02-02 23:26
+
+#### [预亏超百亿、恐披星戴帽：华润入主半年，深康佳A开启“财务大洗澡”丨看财报](https://www.tmtpost.com/7864497.html)
+**发布时间**: 2026-02-02 20:43
+
+#### [深圳水贝挤满了人，金银有色全线跳水史诗级暴跌，泡沫已破？](https://www.tmtpost.com/7864448.html)
+**发布时间**: 2026-02-02 19:56
+
+#### [10亿红包开路，腾讯元宝能跑出AI社交生态吗?](https://www.tmtpost.com/7864396.html)
+**发布时间**: 2026-02-02 19:46
+
+#### [“旧王”默沙东，不愿老去](https://www.tmtpost.com/7863867.html)
+**发布时间**: 2026-02-02 19:45
+
+#### [史上最强编程模型Claude 5泄露，最慌的是黄仁勋？](https://www.tmtpost.com/7864366.html)
+**发布时间**: 2026-02-02 19:44
+
+#### [杀到全球第二、中国第一，Vidu Q3凭什么硬刚Grok、吊打Sora2？](https://www.tmtpost.com/7864398.html)
+**发布时间**: 2026-02-02 19:44
+
+#### [黄金大跳水，为什么“钨金”还在涨？](https://www.tmtpost.com/7864401.html)
+**发布时间**: 2026-02-02 19:44
+
+#### [新氧寻找盈利拐点](https://www.tmtpost.com/7864328.html)
+**发布时间**: 2026-02-02 18:24
+
+#### [【Fintech 周报】工行、农行紧急提示贵金属投资风险；消金机构开年罚单超700万](https://www.tmtpost.com/7864305.html)
+**发布时间**: 2026-02-02 18:24
+
+#### [红包大战，不适合AI的“竞技场”](https://www.tmtpost.com/7864250.html)
+**发布时间**: 2026-02-02 18:20
+
+#### [雷鸟创新背着10亿闯三关](https://www.tmtpost.com/7864279.html)
+**发布时间**: 2026-02-02 18:20
+
+#### [Once Security is No Longer a Concern, Clawdbot is Set to Lift Off AI PCs](https://www.tmtpost.com/7864273.html)
+**发布时间**: 2026-02-02 17:31
+
+#### [10万全款买下沈阳小家，南方年轻人 “闯关东” 买房](https://www.tmtpost.com/7863880.html)
+**发布时间**: 2026-02-02 17:25
+
+#### [美国家长开始用Robotaxi接送孩子，Robotaxi宿命难逃，特斯拉断腕突围](https://www.tmtpost.com/7863960.html)
+**发布时间**: 2026-02-02 17:25
+
+#### [阿里千问投入30亿升维春节AI大战](https://www.tmtpost.com/7863961.html)
+**发布时间**: 2026-02-02 17:25
+
+#### [拆开“超节点”的伪装：没有内存统一编址，仍是服务器堆叠](https://www.tmtpost.com/7864116.html)
+**发布时间**: 2026-02-02 17:25
+
+#### [扣非净利预亏高达12.9亿！南都电源在储能热潮中“逆势”巨亏](https://www.tmtpost.com/7864121.html)
+**发布时间**: 2026-02-02 17:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Moltbook 底裤被扒了！150万用户99%是水军，创始团队自导自演](https://www.infoq.cn/article/lXF76ffJ3fjrk3QLa2T9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 20:00
+
+#### [Moltbook“造假”刷屏，Clawdbot创始人犀利批判Agent：缺了人纯烧token、只出烂代码，没“审美”](https://www.infoq.cn/article/64NWESmMaweR3zAKhd60?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 18:35
+
+#### [给大模型集体“把脉”，清程极智发布 AI Ping 平台](https://www.infoq.cn/article/SDsUhSvWcp0PVTXNXArm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 17:45
+
+#### [百万账户造假，真实用户数据”裸奔“！从 Moltbook 塌房，看AI时代的隐私暗战](https://www.infoq.cn/article/tMzf85eTIRvsVABskVfd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 17:36
+
+#### [停招初级工程师！大厂样板无实战价值、软件黑灯工厂死路一条，三位AI 编程老炮：AI越骂越灵！](https://www.infoq.cn/article/y8L3Ml8juDeZ56MuUvmc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 17:11
+
+#### [机器人抢上春晚，出场费1亿；DeepSeek招兵买马，布局AI搜索与智能体；英伟达CEO黄仁勋否认对OpenAI不满 | AI周报](https://www.infoq.cn/article/LvmcQyQOWMHTep7SgASf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 17:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/105972)
+**发布时间**: 2026-02-02 17:59
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [疯狂的赌局被更疯狂的金价拉爆：水贝黄金爆雷事件](http://www.huxiu.com/article/4831658.html?f=wangzhan)
+**发布时间**: 2026-02-02 16:30
+
+#### [为什么医生大多推荐飞利浦电动牙刷？](http://www.huxiu.com/article/4831707.html?f=wangzhan)
+**发布时间**: 2026-02-02 16:09
 
 ---
 
