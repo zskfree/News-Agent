@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-01 23:27
+**最后更新时间**: 2026-02-02 06:04
+
+---
+
+## 🆕 最新更新 (2026-02-02 06:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold and silver slide deepens as rally loses steam](https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70)
+**发布时间**: 2026-02-02 05:54
+
+#### [End of an era: half-century of nuclear arms control comes to a close](https://www.ft.com/content/fd1d2e57-dce7-489d-956a-22b839cfadd8)
+**发布时间**: 2026-02-02 05:00
+
+#### [The dilemmas for the UK created by a rupturing world](https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3)
+**发布时间**: 2026-02-02 05:00
+
+#### [Wanted: CEOs with backbone](https://www.ft.com/content/89d0f1b2-3524-429b-b328-b2cb9ba11d15)
+**发布时间**: 2026-02-02 05:00
+
+#### [UK Treasury offers up to £100,000 exit packages to cut hundreds of jobs](https://www.ft.com/content/2f7107b4-8005-4af2-b433-9cde3f0bb88d)
+**发布时间**: 2026-02-02 05:00
+
+#### [BoE expected to hold rates amid conflicting signals on UK economy](https://www.ft.com/content/0309a81a-8306-413a-8b18-b2df2f0d0921)
+**发布时间**: 2026-02-02 05:00
+
+#### [Trump to shut Kennedy Center for 2 years of renovations](https://www.ft.com/content/8cdc0be2-a957-40f9-8731-7b1718ced693)
+**发布时间**: 2026-02-02 01:44
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 03:59
+
+#### [Nvidia’s OpenAI investment may not be as big as once hoped, adding to a jittery tech trade](https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 03:24
+
+#### [Oracle amps up its AI bet with a plan to raise as much as $50 billion this year](https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 02:29
+
+#### [Disney may soon have a new CEO. Here’s who it might be.](https://www.marketwatch.com/story/disney-may-soon-have-a-new-ceo-heres-who-it-might-be-3f7eeb10?mod=mw_rss_topstories)
+**发布时间**: 2026-02-02 01:44
 
 ---
 

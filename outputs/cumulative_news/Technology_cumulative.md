@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-01 23:27
+**最后更新时间**: 2026-02-02 06:04
+
+---
+
+## 🆕 最新更新 (2026-02-02 06:04)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里的AI战略，“通云哥”既是谜面，也是谜底](https://www.tmtpost.com/7863208.html)
+**发布时间**: 2026-02-02 13:38
+
+#### [RISC-V架构能否改变全球算力格局？丨ToB产业观察](https://www.tmtpost.com/7863689.html)
+**发布时间**: 2026-02-02 13:09
+
+#### [开源模型再突破，全球AI行业的拐点要来了？](https://www.tmtpost.com/7863495.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [第一批笃信AI的人，也被解雇了](https://www.tmtpost.com/7863513.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [谁动了格莱美的蛋糕？MiniMax掀起AI音乐商业化浪潮](https://www.tmtpost.com/7863538.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [独家丨山姆中国前总裁文安德任麦德龙顾问](https://www.tmtpost.com/7863834.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [31家医疗明星企业冲刺港股，打响IPO生死战](https://www.tmtpost.com/7863593.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [市值暴涨超1000亿！存储巨头江波龙，业绩暴增210%](https://www.tmtpost.com/7863647.html)
+**发布时间**: 2026-02-02 12:30
+
+#### [红包开到手软！千问30亿“请客”，元宝登顶App Store，春节档AI开卷](https://www.tmtpost.com/7863625.html)
+**发布时间**: 2026-02-02 11:25
+
+#### [新富科技：客户集中度极高，关联交易异常，核心产品曾亏损卖却仍大举扩产｜IPO观察](https://www.tmtpost.com/7863283.html)
+**发布时间**: 2026-02-02 10:37
+
+#### [百芯大战](https://www.tmtpost.com/7863630.html)
+**发布时间**: 2026-02-02 10:27
+
+#### [9块9的咖啡自由结束了？](https://www.tmtpost.com/7863648.html)
+**发布时间**: 2026-02-02 10:27
+
+#### [撒金10亿，元宝就能弯道超车？](https://www.tmtpost.com/7863441.html)
+**发布时间**: 2026-02-02 10:27
+
+#### [BD炒作彻底翻篇了](https://www.tmtpost.com/7863478.html)
+**发布时间**: 2026-02-02 10:27
+
+#### [创新药并购的风往哪里吹](https://www.tmtpost.com/7863484.html)
+**发布时间**: 2026-02-02 10:27
+
+#### [元宝派，难承腾讯AI大任 | 马上评](https://www.tmtpost.com/7863515.html)
+**发布时间**: 2026-02-02 09:51
+
+#### [金银涨跌，也是AI惹的“祸”？](https://www.tmtpost.com/7863437.html)
+**发布时间**: 2026-02-02 09:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [NVIDIA Dynamo Planner为多节点LLM推理带来SLO驱动的自动化](https://www.infoq.cn/article/QJAPI0RrIrKCY2fN3KTL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 13:00
+
+#### [Pulumi宣布原生支持Terraform和HCL](https://www.infoq.cn/article/gGew57Wf55pCfHFEE1mX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 12:00
+
+#### [飞猪AI测试新范式：维护降70%、漏测减半、死循环归零](https://www.infoq.cn/article/hZfuVu2FzZBv641HulGS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 10:10
+
+#### [亚马逊云科技统一上调面向 ML 的 EC2 Capacity Block 定价，涨幅约 15%](https://www.infoq.cn/article/I3cMRWTHlu6kfhjPTySC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-02 08:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [银价谁说了算？金银比跌破50的真相](http://www.huxiu.com/article/4831101.html?f=wangzhan)
+**发布时间**: 2026-02-02 13:00
+
+#### [让最火的AI产品，来治愈你的AI焦虑](http://www.huxiu.com/article/4831501.html?f=wangzhan)
+**发布时间**: 2026-02-02 10:25
+
+#### [一公布消息，就让金银应声下跌？美联储的新主席是何人？](http://www.huxiu.com/article/4831386.html?f=wangzhan)
+**发布时间**: 2026-02-02 10:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻](https://sspai.com/post/105660)
+**发布时间**: 2026-02-02 11:53
+
+#### [派早报：Moltbook 引发 AI 智能体新热度与安全担忧](https://sspai.com/post/105959)
+**发布时间**: 2026-02-02 08:59
 
 ---
 

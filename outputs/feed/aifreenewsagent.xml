@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Feb 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 23:27:30 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 06:04:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 06:05:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-02日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-02/</link>
-      <description>&lt;![CDATA[2026-02-02日刊]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 07:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-02/</guid>
+      <title>让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02</link>
+      <description>&lt;![CDATA[让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-01-4</link>
-      <description>&lt;![CDATA[moltbook爆火背后：人类操控？伪造截图？Karpathy发风险提醒]]&gt;</description>
-      <pubDate>Sun, 01 Feb 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-4</guid>
+      <title>大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备</title>
+      <link>https://www.qbitai.com/2026/02/375355.html</link>
+      <description>&lt;![CDATA[大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375355.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-01-3</link>
-      <description>&lt;![CDATA[马斯克脑机接口，靠意念玩游戏只是基操，下一代设备性能翻三倍]]&gt;</description>
-      <pubDate>Sun, 01 Feb 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-3</guid>
+      <title>阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配</title>
+      <link>https://www.qbitai.com/2026/02/375351.html</link>
+      <description>&lt;![CDATA[阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375351.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-01-2</link>
-      <description>&lt;![CDATA[o1之后下一个范式？隐式CoT大突破，让推理不再「碎碎念」]]&gt;</description>
-      <pubDate>Sun, 01 Feb 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01-2</guid>
+      <title>开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！</title>
+      <link>https://www.qbitai.com/2026/02/375344.html</link>
+      <description>&lt;![CDATA[开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 02:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375344.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-01</link>
-      <description>&lt;![CDATA[华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠]]&gt;</description>
-      <pubDate>Sun, 01 Feb 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-01</guid>
+      <title>卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资</title>
+      <link>https://www.qbitai.com/2026/02/375340.html</link>
+      <description>&lt;![CDATA[卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 02:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375340.html</guid>
       <category>Ai</category>
     </item>
   </channel>

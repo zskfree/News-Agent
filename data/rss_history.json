@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "eef81802c9d8fb044c680dac22172be28e123eec7c504bc14491e818714caee7": {
-        "title": "亚马逊云科技扩展Well-Architected Framework，新增Data Residency with Hybrid Cloud Services Lens",
-        "link": "https://www.infoq.cn/article/oe0TfABIOmAbrvjr8L0O?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 03 Jan 2026 11:02:00 GMT",
-        "first_seen": "2026-01-03T05:25:09.528255"
-      },
-      "aaf45b82f06441939a70f8536e4fd873041bb5b547469735736e0af1fdf178fb": {
-        "title": "Java近期资讯：Spring Vault、LangChain4j、Seed4J、Infinispan、Gradle",
-        "link": "https://www.infoq.cn/article/LyXHACSluGvTUaB4HeTg?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 03 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-03T05:25:09.528261"
-      },
-      "624470fc34264305c16711a95d180db50efc585118dba1e99ca7c5f6faeacd33": {
-        "title": "罗振宇2026“时间的朋友”跨年演讲全文稿",
-        "link": "https://www.tmtpost.com/7829139.html",
-        "published_date": "Sat, 03 Jan 2026 10:42:00 GMT",
-        "first_seen": "2026-01-03T05:25:09.528263"
-      },
-      "ef4283f7426411280fb432f63b86e3fd52b1a966eb238e8c448802be604bead4": {
-        "title": "2025，我们失去了看长内容的能力",
-        "link": "https://www.tmtpost.com/7829350.html",
-        "published_date": "Sat, 03 Jan 2026 13:01:00 GMT",
-        "first_seen": "2026-01-03T05:25:09.528265"
-      },
-      "4eab2f151714dc805b8321af3bde08466a13b9ccf28ce22b75d5f3b729705156": {
-        "title": "2026跨年晚会复盘：流量、情怀、圈层，谁才是真顶流？",
-        "link": "https://www.tmtpost.com/7829459.html",
-        "published_date": "Sat, 03 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-03T05:25:09.528267"
-      },
       "c3f81261be0b77835c626ab46064916688a2d584730e618d1c482c064b710e12": {
         "title": "\"最快女护士\"张水华辞职了，那些嘲讽她的人终究没看懂这场突围",
         "link": "https://www.tmtpost.com/7829469.html",
@@ -2683,21 +2653,39 @@
         "link": "https://www.tmtpost.com/7863220.html",
         "published_date": "Sun, 01 Feb 2026 15:07:00 GMT",
         "first_seen": "2026-02-01T23:27:46.225689"
+      },
+      "de0a0109eef122c3277fc6038cc8979558ce6e01518462c51c50e3750228d2d4": {
+        "title": "RISC-V架构能否改变全球算力格局？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7863689.html",
+        "published_date": "Mon, 02 Feb 2026 13:09:00 GMT",
+        "first_seen": "2026-02-02T06:05:21.668893"
+      },
+      "e9ab7b0688d996323e9c50b29f79f4da3cb4adcef21b8d5f594c9f132f9de14b": {
+        "title": "开源模型再突破，全球AI行业的拐点要来了？",
+        "link": "https://www.tmtpost.com/7863495.html",
+        "published_date": "Mon, 02 Feb 2026 12:30:00 GMT",
+        "first_seen": "2026-02-02T06:05:21.668900"
+      },
+      "f7626bdf67623fb0a47bfd8bcc3e28a6b51da207316bae8169820368e9c4c518": {
+        "title": "NVIDIA Dynamo Planner为多节点LLM推理带来SLO驱动的自动化",
+        "link": "https://www.infoq.cn/article/QJAPI0RrIrKCY2fN3KTL?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-02T06:05:21.668902"
+      },
+      "6b1ff95813292727b10a689e92934372133f3c8947b7fa0ff62c6fc55b6a74af": {
+        "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
+        "link": "https://sspai.com/post/105959",
+        "published_date": "Mon, 02 Feb 2026 08:59:00 GMT",
+        "first_seen": "2026-02-02T06:05:21.668903"
+      },
+      "f8372a8d6277a2c5310d6b82d09e0c4dca77b55e937e7477007056daa32785ff": {
+        "title": "阿里的AI战略，“通云哥”既是谜面，也是谜底",
+        "link": "https://www.tmtpost.com/7863208.html",
+        "published_date": "Mon, 02 Feb 2026 13:38:00 GMT",
+        "first_seen": "2026-02-02T06:05:21.668905"
       }
     },
     "Finance": {
-      "3c0d254709a4daeb353b42feed5dfbd55aeaf34719c806f37f4caf12a5a7254a": {
-        "title": "‘I’m on a fixed budget’: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
-        "link": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Jan 2026 02:00:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.447483"
-      },
-      "f55debf3830c6db4a738c8c783333f8f214e6aba66b569ac0167fbf2a69de3ed": {
-        "title": "Here are the most popular Moneyist columns of 2025",
-        "link": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Jan 2026 01:25:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.447491"
-      },
       "19eecbc7dd130d8f010bc9cbd3191597dd81786936e14bac736624e9c73d2c83": {
         "title": "Explosions hit Venezuelan capital Caracas",
         "link": "https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346",
@@ -4569,39 +4557,39 @@
         "link": "https://www.ft.com/content/91e8142a-3d4c-4222-a5ad-6548fc9907d1",
         "published_date": "Sun, 01 Feb 2026 22:48:00 GMT",
         "first_seen": "2026-02-01T23:27:30.478559"
+      },
+      "0df98e0e27323e596be6b3abbf91c8a8b30072845dc91dce4b32d60458a46103": {
+        "title": "BoE expected to hold rates amid conflicting signals on UK economy",
+        "link": "https://www.ft.com/content/0309a81a-8306-413a-8b18-b2df2f0d0921",
+        "published_date": "Mon, 02 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.461483"
+      },
+      "ebc11f492bbe08548a346de2440a4d5c368eeca2167b02f736fb19957d40b32d": {
+        "title": "U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
+        "published_date": "Mon, 02 Feb 2026 03:59:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.461495"
+      },
+      "da404df45088e499e3add4a22adda9bf78cc5d93f12f9edc5f0cf7fe97cbba55": {
+        "title": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
+        "link": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
+        "published_date": "Mon, 02 Feb 2026 02:29:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.461499"
+      },
+      "6539223fc442fbaf937ca07f9f5ff0493c095588d3b951e421d380f24112b8ea": {
+        "title": "Nvidia’s OpenAI investment may not be as big as once hoped, adding to a jittery tech trade",
+        "link": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
+        "published_date": "Mon, 02 Feb 2026 03:24:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.461502"
+      },
+      "a1a855f0a223d0c32764f743d2cf70dcbf587b18e14f8510065813a0eafc1e29": {
+        "title": "The dilemmas for the UK created by a rupturing world",
+        "link": "https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3",
+        "published_date": "Mon, 02 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.461503"
       }
     },
     "Ai": {
-      "7eded51c4e2cf4f4badbb21f59009226d6644f5ce5fb3ba54937f3da5a838dbe": {
-        "title": "2026-01-03日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-03/",
-        "published_date": "Sat, 03 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.566090"
-      },
-      "aa27ee63b7ddbf7ae811d0ef49d9669c198a4c1a47726349bb4515f4a5cbee4b": {
-        "title": "自回归也能做强视觉模型？NEPA开启「下一嵌入预测」时代，谢赛宁参与",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-7",
-        "published_date": "Sat, 03 Jan 2026 00:41:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.566098"
-      },
-      "f50d8eb162d722879d99d00f82310c4643c450dbe9ab3625ad47566f11f9894d": {
-        "title": "「辍学创业」的风再次席卷硅谷，但真正的变量从来不是学位",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-6",
-        "published_date": "Sat, 03 Jan 2026 00:37:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.566100"
-      },
-      "fcbb39e947396dd79e7b0c603f7d070de428543ec814e61ad0c4a0e9df69bd29": {
-        "title": "让模型自己找关键帧、视觉线索，小红书Video-Thinker破解视频推理困局",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03-5",
-        "published_date": "Sat, 03 Jan 2026 00:33:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.566102"
-      },
-      "906573092c2fb4118bb748d1467612ecacb5bb0fc19c29453c256a39e2e9c2c7": {
-        "title": "重新定义视频大模型时序定位！南大腾讯联合提出TimeLens，数据+算法全方位升级",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-03",
-        "published_date": "Sat, 03 Jan 2026 00:06:00 GMT",
-        "first_seen": "2026-01-03T05:24:52.566120"
-      },
       "601496657a4111d6cf695088e5c8719ae2c6dc6986df852e723057a4d80395cb": {
         "title": "中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊",
         "link": "https://www.qbitai.com/2026/01/366477.html",
@@ -6743,13 +6731,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-01",
         "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
         "first_seen": "2026-02-01T23:27:30.628763"
+      },
+      "78e6642fee906427f38d301877b7f4fbd6794fc60c7311fa4575d25129468dd0": {
+        "title": "让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02",
+        "published_date": "Mon, 02 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.618611"
+      },
+      "bed44dc552ee3c36045f6a3c5a8ca1347ae24e2686554922cd596a8057e4b20a": {
+        "title": "大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备",
+        "link": "https://www.qbitai.com/2026/02/375355.html",
+        "published_date": "Mon, 02 Feb 2026 03:50:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.618619"
+      },
+      "0e88347e3cf604cb0e544c5a2f227feacedfcc663930b0449e283449cc28324f": {
+        "title": "阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配",
+        "link": "https://www.qbitai.com/2026/02/375351.html",
+        "published_date": "Mon, 02 Feb 2026 03:14:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.618621"
+      },
+      "ed26cbcef9e9a0a37d48d0884527bf96971af7795c157c4fe0e716e332ee190b": {
+        "title": "开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！",
+        "link": "https://www.qbitai.com/2026/02/375344.html",
+        "published_date": "Mon, 02 Feb 2026 02:25:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.618623"
+      },
+      "c05a7f271bb2a2cf4f5df1baabf1293f8fc2b222ee1ea7d4894b257d74b16713": {
+        "title": "卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资",
+        "link": "https://www.qbitai.com/2026/02/375340.html",
+        "published_date": "Mon, 02 Feb 2026 02:12:00 GMT",
+        "first_seen": "2026-02-02T06:05:02.618624"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-01T23:27:46.225691",
-    "Finance": "2026-02-01T23:27:30.478561",
-    "Ai": "2026-02-01T23:27:30.628765"
+    "Technology": "2026-02-02T06:05:21.668907",
+    "Finance": "2026-02-02T06:05:02.461506",
+    "Ai": "2026-02-02T06:05:02.618627"
   }
 }
