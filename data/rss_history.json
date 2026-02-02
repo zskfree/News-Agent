@@ -2,24 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c3f81261be0b77835c626ab46064916688a2d584730e618d1c482c064b710e12": {
-        "title": "\"最快女护士\"张水华辞职了，那些嘲讽她的人终究没看懂这场突围",
-        "link": "https://www.tmtpost.com/7829469.html",
-        "published_date": "Sat, 03 Jan 2026 15:39:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.814611"
-      },
-      "d17626b1dffd2f0d57ba227f7032455bad06f5f60ef7ed3c4ee0ccdf3c870906": {
-        "title": "车企2026谁家强？我们列出了13家看好与“欠佳”",
-        "link": "http://www.huxiu.com/article/4821950.html?f=wangzhan",
-        "published_date": "Sat, 03 Jan 2026 07:39:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.814618"
-      },
-      "3d43161bb71d648943768bd2f943a9fe67b71cc30c9e8314800fd6387d403a78": {
-        "title": "2025爆综盘点：“市场嗅觉”大比拼",
-        "link": "https://www.tmtpost.com/7829328.html",
-        "published_date": "Sat, 03 Jan 2026 10:48:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.814620"
-      },
       "6652dda7d150693517064fe0094274f239cac2eaab9be6fd611f2645a1e97173": {
         "title": "新年第一问：“舞动”2025之后，机器人行业如何挺进2026？",
         "link": "https://www.tmtpost.com/7829542.html",
@@ -2683,15 +2665,39 @@
         "link": "https://www.tmtpost.com/7863208.html",
         "published_date": "Mon, 02 Feb 2026 13:38:00 GMT",
         "first_seen": "2026-02-02T06:05:21.668905"
+      },
+      "3c2214e21738095e7b8b0e5edd17e6a241ef8cd977a6f002a058c3825c638035": {
+        "title": "2026年中国企业AI人才与组织发展报告",
+        "link": "https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 16:33:00 GMT",
+        "first_seen": "2026-02-02T08:47:02.739753"
+      },
+      "eef99426b510c8baad22ff2640a7c43ab7a3c449dd213ce502786d61a30321e1": {
+        "title": "2026 年 AI 与数据发展预测",
+        "link": "https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Feb 2026 15:09:00 GMT",
+        "first_seen": "2026-02-02T08:47:02.739759"
+      },
+      "e38ff131ea3810b8239b5ff4edea8731ae6d55bc61cc65190b957bb2c555f79a": {
+        "title": "8英寸晶圆，正上演一场“关厂式涨价”",
+        "link": "https://www.tmtpost.com/7863813.html",
+        "published_date": "Mon, 02 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-02T08:47:02.739761"
+      },
+      "40f0c1cb31266d39999ca73334ab04ecb1143f7b85aca2c8f312e6d08c877eb9": {
+        "title": "百芯大战",
+        "link": "https://www.tmtpost.com/7863630.html",
+        "published_date": "Mon, 02 Feb 2026 10:27:00 GMT",
+        "first_seen": "2026-02-02T08:47:02.739763"
+      },
+      "2a4491b75fe402b152d277661315dc21e7b41f3c5ae65fc9e966bd19438fc4d0": {
+        "title": "第一批笃信AI的人，也被解雇了",
+        "link": "https://www.tmtpost.com/7863513.html",
+        "published_date": "Mon, 02 Feb 2026 12:30:00 GMT",
+        "first_seen": "2026-02-02T08:47:02.739765"
       }
     },
     "Finance": {
-      "19eecbc7dd130d8f010bc9cbd3191597dd81786936e14bac736624e9c73d2c83": {
-        "title": "Explosions hit Venezuelan capital Caracas",
-        "link": "https://www.ft.com/content/46ee8a0f-d421-4f7d-9514-297a576ec346",
-        "published_date": "Sat, 03 Jan 2026 08:10:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.614572"
-      },
       "4ffb216b4e1dcf37f64d1725eeb1d84a6026c458550e67ffc328ab53abca2871": {
         "title": "‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?",
         "link": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
@@ -4587,27 +4593,21 @@
         "link": "https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3",
         "published_date": "Mon, 02 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-02T06:05:02.461503"
+      },
+      "af9f2656dd8bfb46660adc2e406e5cd113ffec38db638e6e8f118d69eca2cee1": {
+        "title": "Gold and silver slump deepens and rattles equities",
+        "link": "https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70",
+        "published_date": "Mon, 02 Feb 2026 07:17:00 GMT",
+        "first_seen": "2026-02-02T08:46:29.652279"
+      },
+      "a1fa7c2fb4d66319c00d1dfa68317ea8250dd856a58af583910f7c39a9ee090b": {
+        "title": "Kevin Warsh: you have to make a bet",
+        "link": "https://www.ft.com/content/057a215b-763c-450d-931c-4a92f9cc4ec1",
+        "published_date": "Mon, 02 Feb 2026 06:30:00 GMT",
+        "first_seen": "2026-02-02T08:46:29.652292"
       }
     },
     "Ai": {
-      "601496657a4111d6cf695088e5c8719ae2c6dc6986df852e723057a4d80395cb": {
-        "title": "中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊",
-        "link": "https://www.qbitai.com/2026/01/366477.html",
-        "published_date": "Sat, 03 Jan 2026 07:02:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.732526"
-      },
-      "a02b27025d2ac49915e99600b0b7b701873d5565d8d78b6efcaca75553c13d95": {
-        "title": "机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满",
-        "link": "https://www.qbitai.com/2026/01/366466.html",
-        "published_date": "Sat, 03 Jan 2026 06:30:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.732534"
-      },
-      "58d7d6ff84c4ceb644ba301803bbb370b067d50779590b32bf0a0e1dc297744b": {
-        "title": "百度AI芯片公司冲刺IPO：出货量国产第二",
-        "link": "https://www.qbitai.com/2026/01/366454.html",
-        "published_date": "Sat, 03 Jan 2026 06:26:00 GMT",
-        "first_seen": "2026-01-03T08:29:54.732537"
-      },
       "d4124dd79e3e1ad1b6926716ff99644b5033320aa3cb608f208524e1e9f442c2": {
         "title": "LeCun在Meta还有论文：JEPA物理规划的「终极指南」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-04-3",
@@ -6761,13 +6761,43 @@
         "link": "https://www.qbitai.com/2026/02/375340.html",
         "published_date": "Mon, 02 Feb 2026 02:12:00 GMT",
         "first_seen": "2026-02-02T06:05:02.618624"
+      },
+      "bb78b5e8dd1577e7851069352e6f8aed2f444057c6a435d2ebb4791a4723a387": {
+        "title": "Nature | 清北合作研发全球首个全柔性存算一体AI芯片",
+        "link": "https://www.qbitai.com/2026/02/375362.html",
+        "published_date": "Mon, 02 Feb 2026 07:43:00 GMT",
+        "first_seen": "2026-02-02T08:46:45.603126"
+      },
+      "89a5c53c50b6091a9026174126b2fb89ba37ca9d56ab79d218eb634853ee145b": {
+        "title": "何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出",
+        "link": "https://www.qbitai.com/2026/02/375507.html",
+        "published_date": "Mon, 02 Feb 2026 07:54:00 GMT",
+        "first_seen": "2026-02-02T08:46:45.603134"
+      },
+      "983a7f06ebc823445be74ad140faf5befd6d759a19e9da45a425ccede7a2a32c": {
+        "title": "像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-2",
+        "published_date": "Mon, 02 Feb 2026 14:25:00 GMT",
+        "first_seen": "2026-02-02T08:46:45.603136"
+      },
+      "24d74742b11337a0d4efbc9b2160952766a50eece98b3a01f64661b1a2aa2103": {
+        "title": "Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-6",
+        "published_date": "Mon, 02 Feb 2026 16:22:00 GMT",
+        "first_seen": "2026-02-02T08:46:45.603138"
+      },
+      "4dcbceb94fbf4135bf0fe2f5bcf976c35e54fcc026789c62201a597d01c7a995": {
+        "title": "18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-02-4",
+        "published_date": "Mon, 02 Feb 2026 14:36:00 GMT",
+        "first_seen": "2026-02-02T08:46:45.603140"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-02T06:05:21.668907",
-    "Finance": "2026-02-02T06:05:02.461506",
-    "Ai": "2026-02-02T06:05:02.618627"
+    "Technology": "2026-02-02T08:47:02.739767",
+    "Finance": "2026-02-02T08:46:29.652295",
+    "Ai": "2026-02-02T08:46:45.603143"
   }
 }

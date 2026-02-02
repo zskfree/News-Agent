@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 06:04:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 06:05:02 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 08:46:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02</link>
-      <description>&lt;![CDATA[让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02</guid>
+      <title>Nature | 清北合作研发全球首个全柔性存算一体AI芯片</title>
+      <link>https://www.qbitai.com/2026/02/375362.html</link>
+      <description>&lt;![CDATA[Nature | 清北合作研发全球首个全柔性存算一体AI芯片]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 07:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375362.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备</title>
-      <link>https://www.qbitai.com/2026/02/375355.html</link>
-      <description>&lt;![CDATA[大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375355.html</guid>
+      <title>何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出</title>
+      <link>https://www.qbitai.com/2026/02/375507.html</link>
+      <description>&lt;![CDATA[何恺明带大二本科生颠覆扩散图像生成：扔掉多步采样和潜空间，一步像素直出]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375507.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配</title>
-      <link>https://www.qbitai.com/2026/02/375351.html</link>
-      <description>&lt;![CDATA[阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 03:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375351.html</guid>
+      <title>像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02-2</link>
+      <description>&lt;![CDATA[像开发软件一样造世界，Agent2World来了，把世界模型做成可运行的符号环境]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！</title>
-      <link>https://www.qbitai.com/2026/02/375344.html</link>
-      <description>&lt;![CDATA[开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 02:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375344.html</guid>
+      <title>Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02-6</link>
+      <description>&lt;![CDATA[Moltbook漏洞大到可以冒充Karpathy发帖，黑客都急了]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资</title>
-      <link>https://www.qbitai.com/2026/02/375340.html</link>
-      <description>&lt;![CDATA[卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 02:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375340.html</guid>
+      <title>18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-02-4</link>
+      <description>&lt;![CDATA[18个月，中国Token消化狂飙300倍！别乱烧钱了，清华系AI Infra帮你腰斩API成本]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-4</guid>
       <category>Ai</category>
     </item>
   </channel>

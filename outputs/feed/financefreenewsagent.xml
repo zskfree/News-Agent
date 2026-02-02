@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 06:04:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 06:05:02 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 08:46:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BoE expected to hold rates amid conflicting signals on UK economy</title>
-      <link>https://www.ft.com/content/0309a81a-8306-413a-8b18-b2df2f0d0921</link>
-      <description>&lt;![CDATA[BoE expected to hold rates amid conflicting signals on UK economy]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0309a81a-8306-413a-8b18-b2df2f0d0921</guid>
+      <title>Gold and silver slump deepens and rattles equities</title>
+      <link>https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70</link>
+      <description>&lt;![CDATA[Gold and silver slump deepens and rattles equities]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 03:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oracle amps up its AI bet with a plan to raise as much as $50 billion this year</title>
-      <link>https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oracle amps up its AI bet with a plan to raise as much as $50 billion this year]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 02:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia’s OpenAI investment may not be as big as once hoped, adding to a jittery tech trade</title>
-      <link>https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s OpenAI investment may not be as big as once hoped, adding to a jittery tech trade]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 03:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The dilemmas for the UK created by a rupturing world</title>
-      <link>https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3</link>
-      <description>&lt;![CDATA[The dilemmas for the UK created by a rupturing world]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3</guid>
+      <title>Kevin Warsh: you have to make a bet</title>
+      <link>https://www.ft.com/content/057a215b-763c-450d-931c-4a92f9cc4ec1</link>
+      <description>&lt;![CDATA[Kevin Warsh: you have to make a bet]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/057a215b-763c-450d-931c-4a92f9cc4ec1</guid>
       <category>Finance</category>
     </item>
   </channel>

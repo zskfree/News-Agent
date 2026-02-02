@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 06:04:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 06:05:21 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 08:47:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>RISC-V架构能否改变全球算力格局？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7863689.html</link>
-      <description>&lt;![CDATA[RISC-V架构能否改变全球算力格局？丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7863689.html</guid>
+      <title>2026年中国企业AI人才与组织发展报告</title>
+      <link>https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026年中国企业AI人才与组织发展报告]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开源模型再突破，全球AI行业的拐点要来了？</title>
-      <link>https://www.tmtpost.com/7863495.html</link>
-      <description>&lt;![CDATA[开源模型再突破，全球AI行业的拐点要来了？]]&gt;</description>
+      <title>2026 年 AI 与数据发展预测</title>
+      <link>https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026 年 AI 与数据发展预测]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>8英寸晶圆，正上演一场“关厂式涨价”</title>
+      <link>https://www.tmtpost.com/7863813.html</link>
+      <description>&lt;![CDATA[8英寸晶圆，正上演一场“关厂式涨价”]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7863813.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>百芯大战</title>
+      <link>https://www.tmtpost.com/7863630.html</link>
+      <description>&lt;![CDATA[百芯大战]]&gt;</description>
+      <pubDate>Mon, 02 Feb 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7863630.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>第一批笃信AI的人，也被解雇了</title>
+      <link>https://www.tmtpost.com/7863513.html</link>
+      <description>&lt;![CDATA[第一批笃信AI的人，也被解雇了]]&gt;</description>
       <pubDate>Mon, 02 Feb 2026 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7863495.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>NVIDIA Dynamo Planner为多节点LLM推理带来SLO驱动的自动化</title>
-      <link>https://www.infoq.cn/article/QJAPI0RrIrKCY2fN3KTL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[NVIDIA Dynamo Planner为多节点LLM推理带来SLO驱动的自动化]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QJAPI0RrIrKCY2fN3KTL?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：Moltbook 引发 AI 智能体新热度与安全担忧</title>
-      <link>https://sspai.com/post/105959</link>
-      <description>&lt;![CDATA[派早报：Moltbook 引发 AI 智能体新热度与安全担忧]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105959</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>阿里的AI战略，“通云哥”既是谜面，也是谜底</title>
-      <link>https://www.tmtpost.com/7863208.html</link>
-      <description>&lt;![CDATA[阿里的AI战略，“通云哥”既是谜面，也是谜底]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 13:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7863208.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7863513.html</guid>
       <category>Technology</category>
     </item>
   </channel>
