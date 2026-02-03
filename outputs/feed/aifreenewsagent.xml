@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Feb 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 05:52:50 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 08:39:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 08:39:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克宣布SpaceX合并xAI！1.25万亿美元火箭AI巨兽诞生</title>
-      <link>https://www.qbitai.com/2026/02/375614.html</link>
-      <description>&lt;![CDATA[马斯克宣布SpaceX合并xAI！1.25万亿美元火箭AI巨兽诞生]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 00:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375614.html</guid>
+      <title>将高质量内容融入AI生态，威立以科研智能塑造出版行业未来</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-03-5</link>
+      <description>&lt;![CDATA[将高质量内容融入AI生态，威立以科研智能塑造出版行业未来]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-03</link>
-      <description>&lt;![CDATA[全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03</guid>
+      <title>千问APP春节攻势继续，独家冠名“四大卫视”春晚</title>
+      <link>https://www.qbitai.com/2026/02/375820.html</link>
+      <description>&lt;![CDATA[千问APP春节攻势继续，独家冠名“四大卫视”春晚]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375820.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Clawdbot国产芯片适配完成！清华特奖出手，开源框架直接一键部署</title>
-      <link>https://www.qbitai.com/2026/02/375626.html</link>
-      <description>&lt;![CDATA[Clawdbot国产芯片适配完成！清华特奖出手，开源框架直接一键部署]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 04:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375626.html</guid>
+      <title>Moltbook反转：热帖被曝自导自演，数据库裸奔，所有Agent API也都无保护</title>
+      <link>https://www.qbitai.com/2026/02/375649.html</link>
+      <description>&lt;![CDATA[Moltbook反转：热帖被曝自导自演，数据库裸奔，所有Agent API也都无保护]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375649.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>重新定义“实时在线交互”，Soul App开源实时数字人生成模型SoulX-FlashTalk</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-03-2</link>
-      <description>&lt;![CDATA[重新定义“实时在线交互”，Soul App开源实时数字人生成模型SoulX-FlashTalk]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-2</guid>
+      <title>百度智能云推出OpenClaw限时免费一键部署服务，开发者零成本体验AI数字员工</title>
+      <link>https://www.qbitai.com/2026/02/375646.html</link>
+      <description>&lt;![CDATA[百度智能云推出OpenClaw限时免费一键部署服务，开发者零成本体验AI数字员工]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 06:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375646.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产版Ollama来了，Clawdbot终于不只属于Mac和英伟达</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-03-4</link>
-      <description>&lt;![CDATA[国产版Ollama来了，Clawdbot终于不只属于Mac和英伟达]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-4</guid>
+      <title>刚刚，马斯克收购了马斯克</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-03-3</link>
+      <description>&lt;![CDATA[刚刚，马斯克收购了马斯克]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-3</guid>
       <category>Ai</category>
     </item>
   </channel>
