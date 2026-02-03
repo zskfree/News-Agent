@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 08:39
+**最后更新时间**: 2026-02-03 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-03 23:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】2026年中央一号文件发布，部署扎实推进乡村全面振兴；游戏等行业增值税税率要提高？专家表示没有可信度；OpenAI多名资深研究人员离职](https://www.tmtpost.com/7865840.html)
+**发布时间**: 2026-02-04 07:20
+
+#### [2亿美元结盟，Snowflake×OpenAI深度合作：AI没有独霸者，只有生态赢家](https://www.tmtpost.com/7865117.html)
+**发布时间**: 2026-02-03 20:01
+
+#### [连续3年业绩不达标后，芯导科技4亿并购设宽松盈利对赌｜并购一线](https://www.tmtpost.com/7865691.html)
+**发布时间**: 2026-02-03 19:36
+
+#### [印奇「中年」突围](https://www.tmtpost.com/7865520.html)
+**发布时间**: 2026-02-03 19:32
+
+#### [人类最后的2000天，文科生绝地反击？](https://www.tmtpost.com/7865684.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [德勤取消头衔，AI时代的新激励？](https://www.tmtpost.com/7865033.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [叶国富应该打造一个全新永辉](https://www.tmtpost.com/7865596.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [SpaceX鲸吞xAI，未来要发射百万颗卫星](https://www.tmtpost.com/7865184.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [当AI席卷一切，这些10+年创始人如何打出自己的王牌？](https://www.tmtpost.com/7865237.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [瑞士生物科技公司InCephalo研发能局部作用于胶质母细胞瘤的生物制剂，提升药物局部停留时间与浓度](https://www.tmtpost.com/7865409.html)
+**发布时间**: 2026-02-03 19:17
+
+#### [昨夜，马斯克确认旗下SpaceX与xAI合并](https://www.tmtpost.com/7865432.html)
+**发布时间**: 2026-02-03 18:46
+
+#### [稀土的钱，可赚可不赚](https://www.tmtpost.com/7865489.html)
+**发布时间**: 2026-02-03 18:45
+
+#### [大厂入局，AI玩具进入DAU验证期](https://www.tmtpost.com/7865467.html)
+**发布时间**: 2026-02-03 18:37
+
+#### [李佳琦夺达人商业价值百强TOP1，“董宇辉们”的“带货一哥”梦想难实现](https://www.tmtpost.com/7865526.html)
+**发布时间**: 2026-02-03 18:20
+
+#### [瑞士生物科技公司InCephalo研发能局部作用于胶质母细胞瘤的生物制剂，提升药物局部停留时间与浓度](https://www.tmtpost.com/7865376.html)
+**发布时间**: 2026-02-03 17:54
+
+#### [河北农村老人取暖，难在何处？](https://www.tmtpost.com/7865167.html)
+**发布时间**: 2026-02-03 17:54
+
+#### [Even a 1 Billion Yuan in Red‑packet Giveaway Can’t Buy an AI Moat for Tencent](https://www.tmtpost.com/7865504.html)
+**发布时间**: 2026-02-03 17:41
+
+#### [血洗游戏股，谷歌打出“灭霸”响指？](https://www.tmtpost.com/7864821.html)
+**发布时间**: 2026-02-03 17:35
+
+#### [COSMOPlat to Go Public in Hong Kong](https://www.tmtpost.com/7865496.html)
+**发布时间**: 2026-02-03 17:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cookie 真的要被淘汰了？IEEE 推出 MyTerms，新隐私规则开始反杀互联网](https://www.infoq.cn/article/exIBcW5kAD0ETHxLWI92?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 21:43
+
+#### [模力工场 031 周 AI 应用榜：“数字同事”崛起，AI 从对话走向实干](https://www.infoq.cn/article/7m0iybMGsOVbJ4UZy7a9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 20:00
+
+#### [HTML Invoker Commands 在所有主流浏览器中实现基础支持](https://www.infoq.cn/article/wjsMDXuDlX0k9ZTN1KcG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 19:24
+
+#### [OpenAI 与 Anthropic 推出专注医疗场景的 AI 平台](https://www.infoq.cn/article/7Jd4cZ29AWWZLIgXd81U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 19:20
+
+#### [百度端侧大模型安全建设实践：在算力与保障之间找到平衡](https://www.infoq.cn/article/j48DBWvVehkxkeE8AhXH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 18:54
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [价格只有1/50，印度仿制药真的靠谱吗？](http://www.huxiu.com/article/4831096.html?f=wangzhan)
+**发布时间**: 2026-02-03 18:00
+
+#### [AI时代，我们的PC到底“芯”在哪里？](http://www.huxiu.com/article/4832087.html?f=wangzhan)
+**发布时间**: 2026-02-03 17:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒](https://sspai.com/post/106004)
+**发布时间**: 2026-02-03 16:46
 
 ---
 

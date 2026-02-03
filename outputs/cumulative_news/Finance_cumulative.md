@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 08:39
+**最后更新时间**: 2026-02-03 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-03 23:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Police launch criminal investigation into Mandelson over Epstein scandal](https://www.ft.com/content/d6438f3b-e37f-442e-bb3d-03c5272aa616)
+**发布时间**: 2026-02-03 23:14
+
+#### [Former prince discussed with Epstein ways to get round investment rules](https://www.ft.com/content/6b2fcd1b-45c5-4611-affd-186483602a26)
+**发布时间**: 2026-02-03 23:10
+
+#### [US stocks drop on fears AI will hit software and analytics groups](https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7)
+**发布时间**: 2026-02-03 22:20
+
+#### [US shoots down Iranian drone as Middle East tensions escalate](https://www.ft.com/content/81c72320-dab7-4429-8859-c2bd551ec5a1)
+**发布时间**: 2026-02-03 22:19
+
+#### [Warsh faces Senate battle as lawmakers object to Trump’s attacks on Fed](https://www.ft.com/content/c93d25f5-2f35-4320-9fab-05e963086733)
+**发布时间**: 2026-02-03 21:51
+
+#### [Paul Weiss poaches top energy dealmakers in raid on Kirkland & Ellis](https://www.ft.com/content/7a100889-7e50-41d4-8e43-bf85812bb09b)
+**发布时间**: 2026-02-03 20:23
+
+#### [The new rules of finance, courtesy of Elon Musk](https://www.ft.com/content/8a012108-3560-4cf4-8716-740cfb992ba6)
+**发布时间**: 2026-02-03 18:45
+
+#### [Odey firm’s internal probe unearthed 46 allegations against founder](https://www.ft.com/content/73b1c8b7-792e-4d36-8d1a-371d71710443)
+**发布时间**: 2026-02-03 18:09
+
+#### [Peter Mandelson’s lobbying firm tells clients his stake is nearly divested](https://www.ft.com/content/888924ac-a73d-4163-9f4d-b193c1dd6247)
+**发布时间**: 2026-02-03 14:09
+
+#### [The Epstein rot goes deep](https://www.ft.com/content/3f8277cd-2b47-49ff-b264-fd7ce89c924f)
+**发布时间**: 2026-02-03 12:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Chipotle’s outlook for the year casts doubt on a restaurant-industry rebound](https://www.marketwatch.com/story/chipotles-outlook-for-the-year-casts-doubt-on-a-restaurant-industry-rebound-9263145b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:06
+
+#### [Oracle’s monster $25 billion debt financing points to anxieties around AI funding](https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:00
+
+#### [Super Micro logs record revenue from AI demand, and the stock surges](https://www.marketwatch.com/story/super-micro-logs-record-revenue-from-ai-demand-and-the-stock-surges-f048debe?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:57
+
+#### [Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?](https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:55
+
+#### [‘I’m spooked’: Do gold and silver belong in my retirement portfolio after their dramatic fall in value?](https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:44
+
+#### [Elon Musk’s plans for SpaceX data centers in orbit could cost $5 trillion a year, analysts say](https://www.marketwatch.com/story/elon-musks-plans-for-spacex-data-centers-in-orbit-could-cost-5-trillion-a-year-analysts-say-d9257b32?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:28
+
+#### [Why Gartner and other IT stocks got slammed on Tuesday](https://www.marketwatch.com/story/why-gartner-and-other-it-stocks-got-slammed-on-tuesday-d0c74924?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:17
+
+#### [Walmart just became a $1 trillion company. Here’s what it needs to do to remain one.](https://www.marketwatch.com/story/walmart-just-became-a-1-trillion-company-heres-what-it-needs-to-do-to-remain-one-36b6f5d7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:12
+
+#### [PayPal’s stock suffers near-historic decline upon ‘dramatic’ CEO change](https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 22:06
 
 ---
 

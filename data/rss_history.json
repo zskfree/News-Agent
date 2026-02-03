@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "13eab30435553d61d03053156c6d6e5e082a82a2aa7bc8920f4044b06d4f696a": {
-        "title": "LeCun手撕Meta：Llama 4造假，小扎直接废掉整个AI团队，锐评28岁新上司：不懂研究还瞎指挥",
-        "link": "https://www.infoq.cn/article/SCwBiIPjcEvZsljIwzye?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Jan 2026 18:09:00 GMT",
-        "first_seen": "2026-01-04T23:22:31.064993"
-      },
-      "1437556af29fd9ab51abaa4a7099ca0a61c22e0307e65ad30dd29f9fe5d5f060": {
-        "title": "芯片设备解禁？美国忽然松开管制，事出反常必有妖",
-        "link": "http://www.huxiu.com/article/4822545.html?f=wangzhan",
-        "published_date": "Sun, 04 Jan 2026 20:00:00 GMT",
-        "first_seen": "2026-01-04T23:22:31.065000"
-      },
-      "f3c8eabb6c19a1c17df25768c862dbcecfbeda2417829712c5c4014473a7221f": {
-        "title": "百度股价飙升！旗下AI芯片公司昆仑芯启动香港IPO，估值至少210亿？",
-        "link": "https://www.infoq.cn/article/d22M0z1jvDRRrABZvTqI?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Jan 2026 17:45:00 GMT",
-        "first_seen": "2026-01-04T23:22:31.065002"
-      },
-      "6708a0bf011773229806ea7e063bc4ea86db6d89b1aaf242645ed717c424aa0e": {
-        "title": "2025，被AI带飞的三大赛道",
-        "link": "https://www.tmtpost.com/7830306.html",
-        "published_date": "Sun, 04 Jan 2026 19:11:00 GMT",
-        "first_seen": "2026-01-04T23:22:31.065004"
-      },
-      "2d4fc8be5e5995dd0dd7db8f7d75547afb3aed89f882755014c2031333bd9a4c": {
-        "title": "CES 2026前瞻：中国车企领衔，AI与新能源技术重构出行",
-        "link": "https://www.tmtpost.com/7830211.html",
-        "published_date": "Sun, 04 Jan 2026 16:59:00 GMT",
-        "first_seen": "2026-01-04T23:22:31.065005"
-      },
       "b944a98e68aaecec6887149e7e1dac0b5c9f85df4c4b8c7cf136097ea3c228bf": {
         "title": "成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代",
         "link": "https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/aCC7cKjuOwywkM4yN96E?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 03 Feb 2026 14:49:00 GMT",
         "first_seen": "2026-02-03T08:40:02.778349"
+      },
+      "804e2b55e0972df0496125873fc0aa36095a27db027177d8d571a8197b580f24": {
+        "title": "瑞士生物科技公司InCephalo研发能局部作用于胶质母细胞瘤的生物制剂，提升药物局部停留时间与浓度",
+        "link": "https://www.tmtpost.com/7865409.html",
+        "published_date": "Tue, 03 Feb 2026 19:17:00 GMT",
+        "first_seen": "2026-02-03T23:31:50.006450"
+      },
+      "7c4029798dde2ce5bac06f7d3a2e29ba76e6ed2c532ec799b1f0b9ad69a2f5a8": {
+        "title": "【钛晨报】2026年中央一号文件发布，部署扎实推进乡村全面振兴；游戏等行业增值税税率要提高？专家表示没有可信度；OpenAI多名资深研究人员离职",
+        "link": "https://www.tmtpost.com/7865840.html",
+        "published_date": "Wed, 04 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-03T23:31:50.006458"
+      },
+      "b192a1ec6cab16fd0a41c82c2c819592b1dd52cb6febd0c3940548a9dabb607f": {
+        "title": "连续3年业绩不达标后，芯导科技4亿并购设宽松盈利对赌｜并购一线",
+        "link": "https://www.tmtpost.com/7865691.html",
+        "published_date": "Tue, 03 Feb 2026 19:36:00 GMT",
+        "first_seen": "2026-02-03T23:31:50.006460"
+      },
+      "8974159dfd22876108a03d739ba1f07d9943a8c708925ed186388c5ca64d8f47": {
+        "title": "OpenAI 与 Anthropic 推出专注医疗场景的 AI 平台",
+        "link": "https://www.infoq.cn/article/7Jd4cZ29AWWZLIgXd81U?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 19:20:00 GMT",
+        "first_seen": "2026-02-03T23:31:50.006462"
+      },
+      "5223c5c8f5cd9dc0c89a2e884f64efca5a0a2b050eedd5fabe3c73d68eca5b87": {
+        "title": "“我让AI在我的电脑上为所欲为！”OpenClaw创始人：爆火的MoltBook社交网络，技术其实简单到离谱",
+        "link": "https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Feb 2026 16:12:00 GMT",
+        "first_seen": "2026-02-03T23:31:50.006464"
       }
     },
     "Finance": {
-      "2194a2f26a568ce00326c5e646817f75a421cae242ca7fbcd810048f532c19f7": {
-        "title": "Stock market braces for a crucial jobs report after a lackluster start to 2026",
-        "link": "https://www.marketwatch.com/story/stock-market-braces-for-a-crucial-jobs-report-after-a-lackluster-start-to-2026-8925de58?mod=mw_rss_topstories",
-        "published_date": "Sun, 04 Jan 2026 20:44:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.554934"
-      },
-      "46a3e82c5d625b6b4749bba30a3d54e0ecc68eb5a24ea5f14553079a7ee3a46a": {
-        "title": "Investors pin hopes on the ‘January barometer,’ with stocks set to skip ‘Santa Claus rally’ for a third straight year",
-        "link": "https://www.marketwatch.com/story/investors-pin-hopes-on-the-january-barometer-with-stocks-set-to-skip-santa-claus-rally-for-a-3rd-year-343e0e77?mod=mw_rss_topstories",
-        "published_date": "Sun, 04 Jan 2026 14:34:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.554944"
-      },
-      "b3190a870060d1e6d7126b190da09bc566780a8791114fb83daffd5366c6826b": {
-        "title": "PwC ‘leans in’ to crypto as Trump and lawmakers embrace sector",
-        "link": "https://www.ft.com/content/5e1448bc-11a2-4229-bb5c-1a322a7ad217",
-        "published_date": "Sun, 04 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.554948"
-      },
-      "d2b03ac56ee5e6fee391885ac69f94878b66c05183f320094b5cd314f052d940": {
-        "title": "UK should seek ‘closer alignment’ with EU single market, Starmer says",
-        "link": "https://www.ft.com/content/5096f5e4-a28e-4613-a51b-74277539f205",
-        "published_date": "Sun, 04 Jan 2026 11:46:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.554950"
-      },
-      "d79bee909c0d97d114b9906a90456ef349dcc2ee39cfb513d74995fadd3e2b24": {
-        "title": "Trump takedown of Venezuela’s dictator could inject price premium into oil market, strategist projects",
-        "link": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories",
-        "published_date": "Sun, 04 Jan 2026 18:26:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.554952"
-      },
       "3b1b24ab36f82355b21234e6453d0389c2de4a27bae9a6bf2813f9295242f47c": {
         "title": "Taxes will need to rise before next UK election, economists predict",
         "link": "https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded",
@@ -4611,27 +4581,39 @@
         "link": "https://www.ft.com/content/e581b7a4-455c-48e6-a87c-c39bb9c62a12",
         "published_date": "Tue, 03 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-03T05:52:38.813222"
+      },
+      "36181b091a3a7697849d2143ed5ca1261efe60bfa3902c0114b96acc8df46987": {
+        "title": "US stocks drop on fears AI will hit software and analytics groups",
+        "link": "https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7",
+        "published_date": "Tue, 03 Feb 2026 22:20:00 GMT",
+        "first_seen": "2026-02-03T23:30:21.216294"
+      },
+      "23829ade3166c9b0837353a4215b91d4dae6388e7bdfb251f80fe9bc26a53e9d": {
+        "title": "Warsh faces Senate battle as lawmakers object to Trump’s attacks on Fed",
+        "link": "https://www.ft.com/content/c93d25f5-2f35-4320-9fab-05e963086733",
+        "published_date": "Tue, 03 Feb 2026 21:51:00 GMT",
+        "first_seen": "2026-02-03T23:30:21.216305"
+      },
+      "c0d801f9be088b61dbd4164b9338c8853c3c1dbd64f2c193135838cdc9223ef9": {
+        "title": "Oracle’s monster $25 billion debt financing points to anxieties around AI funding",
+        "link": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Feb 2026 23:00:00 GMT",
+        "first_seen": "2026-02-03T23:30:21.216307"
+      },
+      "bba0618043f93c20f92611707992a8fa5151dd88c98a3eae322ccbaa37af937b": {
+        "title": "The new rules of finance, courtesy of Elon Musk",
+        "link": "https://www.ft.com/content/8a012108-3560-4cf4-8716-740cfb992ba6",
+        "published_date": "Tue, 03 Feb 2026 18:45:00 GMT",
+        "first_seen": "2026-02-03T23:30:21.216309"
+      },
+      "a473649f73ff0131e15801859751f89f16de7b02ed5f78205ca17e94d0ee0518": {
+        "title": "Former prince discussed with Epstein ways to get round investment rules",
+        "link": "https://www.ft.com/content/6b2fcd1b-45c5-4611-affd-186483602a26",
+        "published_date": "Tue, 03 Feb 2026 23:10:00 GMT",
+        "first_seen": "2026-02-03T23:30:21.216311"
       }
     },
     "Ai": {
-      "8f22fd8978a7b8b4d7d7196c21accfc959fb1bbe031766571d04aa2cca06b8b3": {
-        "title": "2026-01-05日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-05/",
-        "published_date": "Mon, 05 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.706618"
-      },
-      "63306688522c2eecbfff762001b947dd4d42c8413a8e9a674af633497a9f0340": {
-        "title": "田渊栋2025年终总结：救火Llama4但被裁，现任神秘初创公司联创",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-12",
-        "published_date": "Sun, 04 Jan 2026 16:34:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.706625"
-      },
-      "d63af544f5c140ec26478a1e571ba3eb520cb09a14a9cfd6d8076bc830d4adde": {
-        "title": "从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-04-10",
-        "published_date": "Sun, 04 Jan 2026 14:44:00 GMT",
-        "first_seen": "2026-01-04T23:22:12.706627"
-      },
       "3a13429a9795a63f9b59db11248ae94a66c18ff8882c570e9a5ca078e6a60921": {
         "title": "宇树IPO搁浅传闻满天飞，王兴兴：别当真，也不用和外人解释",
         "link": "https://www.qbitai.com/2026/01/366541.html",
@@ -6815,13 +6797,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-03-3",
         "published_date": "Tue, 03 Feb 2026 11:38:00 GMT",
         "first_seen": "2026-02-03T08:39:36.069613"
+      },
+      "eec850048373350d1d6207fbf5200ce20b1839454f7ef49105e2ca5d2adff994": {
+        "title": "大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-03-10",
+        "published_date": "Tue, 03 Feb 2026 23:29:00 GMT",
+        "first_seen": "2026-02-03T23:31:01.381932"
+      },
+      "86f1cc1912471cd8e978f533c6feabd732cedf87d4d1ddbc0469488f51618a1b": {
+        "title": "刚刚，腾讯姚顺雨署名首篇论文发布，「下半场」先搞上下文学习",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-03-7",
+        "published_date": "Tue, 03 Feb 2026 19:01:00 GMT",
+        "first_seen": "2026-02-03T23:31:01.381939"
+      },
+      "ba862afc88ffa07e5ebec9580ada021f94d4293a48dee1ba4c69550d28d94902": {
+        "title": "谷歌给「AI解数学题」神话降温：能摘低垂果实，但过程依然痛苦",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-03-9",
+        "published_date": "Tue, 03 Feb 2026 23:25:00 GMT",
+        "first_seen": "2026-02-03T23:31:01.381942"
+      },
+      "2a0d31441ad2fac75b611fdc6628e761bd0815647ea88a884ff7a36b52ca60bb": {
+        "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+        "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
+        "published_date": "Tue, 03 Feb 2026 18:15:00 GMT",
+        "first_seen": "2026-02-03T23:31:01.381943"
+      },
+      "26545d0350c1d138b1424ba4a06716a333d6d935cb460c2a582d3e52c70e1e6e": {
+        "title": "ICLR 2026 | Rebuttal 是一场「带着镣铐的舞蹈」？港科 RebuttalAgent 用心智理论「读懂」审稿人",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-03-8",
+        "published_date": "Tue, 03 Feb 2026 23:21:00 GMT",
+        "first_seen": "2026-02-03T23:31:01.381945"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-03T08:40:02.778352",
-    "Finance": "2026-02-03T05:52:38.813224",
-    "Ai": "2026-02-03T08:39:36.069615"
+    "Technology": "2026-02-03T23:31:50.006466",
+    "Finance": "2026-02-03T23:30:21.216313",
+    "Ai": "2026-02-03T23:31:01.381947"
   }
 }
