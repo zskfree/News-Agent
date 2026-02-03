@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-02 23:30
+**最后更新时间**: 2026-02-03 05:52
+
+---
+
+## 🆕 最新更新 (2026-02-03 05:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI’s ChatGPT push triggers senior staff exits](https://www.ft.com/content/e581b7a4-455c-48e6-a87c-c39bb9c62a12)
+**发布时间**: 2026-02-03 05:00
+
+#### [Silver’s runaway rally becomes ‘death trap’ for Reddit’s retail crowd](https://www.ft.com/content/8c6966f0-689c-454b-96bb-d406e6857ad6)
+**发布时间**: 2026-02-03 05:00
+
+#### [No, the public is not irredeemably ignorant](https://www.ft.com/content/320cca7a-f93c-4776-b35b-1b5092d92a46)
+**发布时间**: 2026-02-03 05:00
+
+#### [Virgin Media O2 owners to seal £2bn acquisition of UK broadband rival](https://www.ft.com/content/cb3ffce2-f60e-45a9-8875-4521f461700b)
+**发布时间**: 2026-02-03 05:00
+
+#### [Starmer seeks to push forward with delayed defence investment plan](https://www.ft.com/content/445857cd-1798-497a-ac58-6f1f7eff8af7)
+**发布时间**: 2026-02-03 05:00
+
+#### [Ukraine agrees multi-tier plan for enforcing any ceasefire with Russia](https://www.ft.com/content/0f26d56d-98cd-4999-8908-4a851a2de773)
+**发布时间**: 2026-02-03 05:00
+
+#### [Epstein emails reveal extensive ties with top Goldman Sachs lawyer](https://www.ft.com/content/1fdb1850-7ff8-4ca5-bc91-f4b683aad063)
+**发布时间**: 2026-02-03 01:31
+
+#### [SpaceX buys xAI in $1.25tn deal to unite crucial parts of Musk’s empire](https://www.ft.com/content/8ee76f65-74d9-4679-a2b0-cd8fc3721a8d)
+**发布时间**: 2026-02-02 22:55
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Teradyne’s stock soars after this ‘absolute blowout’ forecast that was fueled by AI](https://www.marketwatch.com/story/teradynes-stock-soars-after-this-absolute-blowout-forecast-that-was-fueled-by-ai-2dfc3d8a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 03:15
+
+#### [‘This is our second marriage’: We’re in our 60s. How do we split expenses if we move in together and rent one house?](https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 01:26
+
+#### [Walt Disney firing on all cylinders but higher costs zap the bottom line](https://www.marketwatch.com/story/walt-disney-misses-on-net-profit-despite-record-theme-park-revenue-eae1edb2?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 00:38
+
+#### [Tesla’s stock falls as bleak new sales figures signal more pain for beleaguered EV business](https://www.marketwatch.com/story/teslas-stock-falls-as-bleak-new-sales-figures-signal-more-pain-for-beleaguered-ev-business-ca1a7c50?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 00:34
 
 ---
 

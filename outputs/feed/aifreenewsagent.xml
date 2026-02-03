@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 23:31:48 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 05:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 05:52:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-03日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-03/</link>
-      <description>&lt;![CDATA[2026-02-03日刊]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 07:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-03/</guid>
+      <title>马斯克宣布SpaceX合并xAI！1.25万亿美元火箭AI巨兽诞生</title>
+      <link>https://www.qbitai.com/2026/02/375614.html</link>
+      <description>&lt;![CDATA[马斯克宣布SpaceX合并xAI！1.25万亿美元火箭AI巨兽诞生]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 00:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375614.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>史上最狠春节！阿里千问豪掷30亿，加入AI大战</title>
-      <link>https://www.qbitai.com/2026/02/375588.html</link>
-      <description>&lt;![CDATA[史上最狠春节！阿里千问豪掷30亿，加入AI大战]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375588.html</guid>
+      <title>全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-03</link>
+      <description>&lt;![CDATA[全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型应用进入深水区，模型 API 服务的新范式是什么？</title>
-      <link>https://www.qbitai.com/2026/02/375584.html</link>
-      <description>&lt;![CDATA[大模型应用进入深水区，模型 API 服务的新范式是什么？]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375584.html</guid>
+      <title>Clawdbot国产芯片适配完成！清华特奖出手，开源框架直接一键部署</title>
+      <link>https://www.qbitai.com/2026/02/375626.html</link>
+      <description>&lt;![CDATA[Clawdbot国产芯片适配完成！清华特奖出手，开源框架直接一键部署]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 04:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/375626.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>真正释放生成式AI潜力：亚马逊云科技提出黄金三角方法论</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02-8</link>
-      <description>&lt;![CDATA[真正释放生成式AI潜力：亚马逊云科技提出黄金三角方法论]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-8</guid>
+      <title>重新定义“实时在线交互”，Soul App开源实时数字人生成模型SoulX-FlashTalk</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-03-2</link>
+      <description>&lt;![CDATA[重新定义“实时在线交互”，Soul App开源实时数字人生成模型SoulX-FlashTalk]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型应用进入深水区，模型 API 服务的新范式是什么？清程AI Ping 给出了答案</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-02-7</link>
-      <description>&lt;![CDATA[大模型应用进入深水区，模型 API 服务的新范式是什么？清程AI Ping 给出了答案]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-02-7</guid>
+      <title>国产版Ollama来了，Clawdbot终于不只属于Mac和英伟达</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-03-4</link>
+      <description>&lt;![CDATA[国产版Ollama来了，Clawdbot终于不只属于Mac和英伟达]]&gt;</description>
+      <pubDate>Tue, 03 Feb 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-03-4</guid>
       <category>Ai</category>
     </item>
   </channel>
