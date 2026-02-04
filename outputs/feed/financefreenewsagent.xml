@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 08:44:41 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:30:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Novo Nordisk shares tumble 18% after sales warning</title>
-      <link>https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55</link>
-      <description>&lt;![CDATA[Novo Nordisk shares tumble 18% after sales warning]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55</guid>
+      <title>The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.</title>
+      <link>https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Software ate the world. Now, Wall Street is worried AI will eat software.</title>
+      <link>https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Software ate the world. Now, Wall Street is worried AI will eat software.]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 22:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Google set to double AI spending to $185bn after strong earnings</title>
+      <link>https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a</link>
+      <description>&lt;![CDATA[Google set to double AI spending to $185bn after strong earnings]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These hot S&amp;P 500 stocks show where investors are heading as they run away from tech</title>
+      <link>https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These hot S&amp;P 500 stocks show where investors are heading as they run away from tech]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 22:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>White House seeks critical minerals trade zone to curb China’s dominance</title>
+      <link>https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85</link>
+      <description>&lt;![CDATA[White House seeks critical minerals trade zone to curb China’s dominance]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 19:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85</guid>
       <category>Finance</category>
     </item>
   </channel>

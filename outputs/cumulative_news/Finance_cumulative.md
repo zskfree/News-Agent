@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 08:44
+**最后更新时间**: 2026-02-04 23:30
+
+---
+
+## 🆕 最新更新 (2026-02-04 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This AI stock is the newest member of the S&P 500](https://www.marketwatch.com/story/this-ai-stock-just-got-called-up-to-the-s-p-500-8b5407a9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 23:23
+
+#### [E.l.f. Beauty’s upbeat forecast shows cosmetics demand and Hailey Bieber’s ‘clean’ look are still going strong](https://www.marketwatch.com/story/e-l-f-beautys-more-upbeat-outlook-shows-demand-for-cosmetics-is-still-growing-0459cd41?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 23:18
+
+#### [The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.](https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 22:37
+
+#### [These hot S&P 500 stocks show where investors are heading as they run away from tech](https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 22:26
+
+#### [Qualcomm’s stock falls as memory constraints hit outlook](https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-constraints-hit-outlook-844badba?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 22:17
+
+#### [This trucker is finally seeing signs of a bottom, and providing a boost to transport stocks](https://www.marketwatch.com/story/this-trucker-is-finally-seeing-signs-of-a-bottom-and-providing-a-boost-to-transport-stocks-44a45d38?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 22:05
+
+#### [Software ate the world. Now, Wall Street is worried AI will eat software.](https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 22:01
+
+#### [Soybean prices surge to highest level this year, as Trump surprises market with plan for more sales to China](https://www.marketwatch.com/story/soybean-prices-surge-to-highest-level-this-year-as-trump-surprises-market-with-plan-for-more-sales-to-china-21af16b0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 21:54
+
+#### [SpaceX rivals AST SpaceMobile and Rocket Lab join space-stock selloff](https://www.marketwatch.com/story/spacex-rivals-ast-spacemobile-and-rocket-lab-join-space-stock-selloff-ace22a17?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 21:42
+
+#### [Lilly says Mounjaro and Zepbound sales more than doubled, as stock rallies](https://www.marketwatch.com/story/lilly-says-mounjaro-and-zepbound-sales-grew-by-at-least-110-as-stock-rallies-d281f77d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 21:24
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hedge fund run by Chris Rokos ends talks with Mandelson on advisory role](https://www.ft.com/content/f638307f-8fc2-4193-a6b7-8551a3bfde27)
+**发布时间**: 2026-02-04 23:02
+
+#### [US tech stocks hit by fresh wave of selling as Qualcomm and AMD tumble](https://www.ft.com/content/4254946f-2425-40a2-a8b3-abb3e7d7d016)
+**发布时间**: 2026-02-04 23:00
+
+#### [Google set to double AI spending to $185bn after strong earnings](https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a)
+**发布时间**: 2026-02-04 22:38
+
+#### [Starmer engulfed in leadership speculation as he backtracks over Mandelson papers](https://www.ft.com/content/e4f5f18d-6f6c-45f7-ab99-1cbaaeb98bd7)
+**发布时间**: 2026-02-04 19:55
+
+#### [White House seeks critical minerals trade zone to curb China’s dominance](https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85)
+**发布时间**: 2026-02-04 19:53
+
+#### [Epstein advised former prince’s team on proposed deal with Cantor Fitzgerald](https://www.ft.com/content/08a49618-e4e5-41fc-a957-e780b400a91a)
+**发布时间**: 2026-02-04 19:41
+
+#### [Top Senate Republican says Fed’s Powell has not ‘committed a crime’](https://www.ft.com/content/d914f947-2109-445d-8f49-0eb25e7af3c0)
+**发布时间**: 2026-02-04 19:30
+
+#### [UK delays worker protections against ‘fire and rehire’ practices](https://www.ft.com/content/db65c46c-e362-4038-8248-5081ed16fc89)
+**发布时间**: 2026-02-04 18:06
+
+#### [Ron DeSantis lashes out at ‘harmful’ AI in break with Trump’s White House](https://www.ft.com/content/3a9d14fc-004a-4713-a834-b16d0779a2ac)
+**发布时间**: 2026-02-04 17:10
+
+#### [How Anthropic achieved AI coding breakthroughs — and rattled business](https://www.ft.com/content/fd134065-c2c6-4a99-99df-404d658127e6)
+**发布时间**: 2026-02-04 16:49
+
+#### [‘We made a lot of money working together’: Epstein’s in-house trader revealed](https://www.ft.com/content/649886ce-877e-4aac-80d5-57e1d6422028)
+**发布时间**: 2026-02-04 15:05
+
+#### [Britain can’t ignore Europe and China at the same time](https://www.ft.com/content/0429a44a-56c4-425c-9155-dbcac190e469)
+**发布时间**: 2026-02-04 13:00
 
 ---
 

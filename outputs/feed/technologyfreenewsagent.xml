@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 08:45:13 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:30:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布</title>
-      <link>https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 14:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SpaceX收购xAI：马斯克的商业棋局与太空梦想</title>
+      <link>https://www.tmtpost.com/7865789.html</link>
+      <description>&lt;![CDATA[SpaceX收购xAI：马斯克的商业棋局与太空梦想]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7865789.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的</title>
-      <link>https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当AI吞噬软件，数据正在成为企业唯一的护城河</title>
+      <link>https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当AI吞噬软件，数据正在成为企业唯一的护城河]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么大多数机器学习项目无法投入生产</title>
-      <link>https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为什么大多数机器学习项目无法投入生产]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>姚顺雨腾讯第一篇论文，道破为什么AI死活听不懂人话</title>
+      <link>https://www.tmtpost.com/7866445.html</link>
+      <description>&lt;![CDATA[姚顺雨腾讯第一篇论文，道破为什么AI死活听不懂人话]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7866445.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025风险投资们的AI圈地运动</title>
-      <link>https://www.tmtpost.com/7866546.html</link>
-      <description>&lt;![CDATA[2025风险投资们的AI圈地运动]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7866546.html</guid>
+      <title>Claude Sonnet 5 泄漏，因 API 故障延迟发布？</title>
+      <link>https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Sonnet 5 泄漏，因 API 故障延迟发布？]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中</title>
-      <link>https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】马斯克团队光伏调研消息引爆A股，多家巨头回应最新进展；精神疾病类医保定点医疗机构被集体约谈；黄仁勋驳斥AI取代软件论，称其“不合逻辑”</title>
+      <link>https://www.tmtpost.com/7867026.html</link>
+      <description>&lt;![CDATA[【钛晨报】马斯克团队光伏调研消息引爆A股，多家巨头回应最新进展；精神疾病类医保定点医疗机构被集体约谈；黄仁勋驳斥AI取代软件论，称其“不合逻辑”]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7867026.html</guid>
       <category>Technology</category>
     </item>
   </channel>

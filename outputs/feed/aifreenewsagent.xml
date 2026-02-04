@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 08:44:55 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:30:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-9</link>
-      <description>&lt;![CDATA[突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-9</guid>
+      <title>第二代AI预训练范式：预测下个物理状态</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04-13</link>
+      <description>&lt;![CDATA[第二代AI预训练范式：预测下个物理状态]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-13</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应</title>
-      <link>https://www.qbitai.com/2026/02/376356.html</link>
-      <description>&lt;![CDATA[光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376356.html</guid>
+      <title>美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04-12</link>
+      <description>&lt;![CDATA[美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-10</link>
-      <description>&lt;![CDATA[ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-10</guid>
+      <title>​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy</title>
+      <link>https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</link>
+      <description>&lt;![CDATA[​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04</link>
-      <description>&lt;![CDATA[Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04</guid>
+      <title>百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench</title>
+      <link>https://www.qbitai.com/2026/02/376417.html</link>
+      <description>&lt;![CDATA[百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376417.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NeurIPS论文假开源，较真AI研究员开锤了</title>
-      <link>https://www.qbitai.com/2026/02/376355.html</link>
-      <description>&lt;![CDATA[NeurIPS论文假开源，较真AI研究员开锤了]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 07:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376355.html</guid>
+      <title>刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04-14</link>
+      <description>&lt;![CDATA[刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-14</guid>
       <category>Ai</category>
     </item>
   </channel>

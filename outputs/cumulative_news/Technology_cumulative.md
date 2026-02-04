@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 08:44
+**最后更新时间**: 2026-02-04 23:30
+
+---
+
+## 🆕 最新更新 (2026-02-04 23:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】马斯克团队光伏调研消息引爆A股，多家巨头回应最新进展；精神疾病类医保定点医疗机构被集体约谈；黄仁勋驳斥AI取代软件论，称其“不合逻辑”](https://www.tmtpost.com/7867026.html)
+**发布时间**: 2026-02-05 07:20
+
+#### [锂业巨头拟12.6亿元全资控股惠绒矿业，加码川西锂矿；天津汽车零部件股拟收购芜湖德恒；【并购一线】](https://www.tmtpost.com/7867136.html)
+**发布时间**: 2026-02-04 23:44
+
+#### [良品铺子易主告吹余波：大股东2.8亿债务逾期与国资攻防下半场](https://www.tmtpost.com/7866955.html)
+**发布时间**: 2026-02-04 22:09
+
+#### [万宁对话梁定邦：一位亲历者眼中的中国资本市场四十年](https://www.tmtpost.com/7867018.html)
+**发布时间**: 2026-02-04 21:18
+
+#### [黄金反弹重回5000美元上方，贵金属涨势为何再度卷土重来](https://www.tmtpost.com/7866916.html)
+**发布时间**: 2026-02-04 19:22
+
+#### [为什么董事会“合规”的公司，还总会爆雷？｜济安学派](https://www.tmtpost.com/7866914.html)
+**发布时间**: 2026-02-04 19:21
+
+#### [价值判断：跌停板的投资机会和风险提示（2月3日）｜证券市场观察](https://www.tmtpost.com/7866910.html)
+**发布时间**: 2026-02-04 19:19
+
+#### [Alphabet在财报发布前势头向好，市场焦点聚焦云业务](https://www.tmtpost.com/7866899.html)
+**发布时间**: 2026-02-04 19:18
+
+#### [价值判断：涨停板的投资机会和风险提示（2月3日）｜证券市场观察](https://www.tmtpost.com/7866904.html)
+**发布时间**: 2026-02-04 19:18
+
+#### [AI“skill风暴”来袭，律师、程序员又该慌了？](https://www.tmtpost.com/7866737.html)
+**发布时间**: 2026-02-04 19:02
+
+#### [黄金大跌前，为了保护你，银行做了哪些努力？](https://www.tmtpost.com/7866874.html)
+**发布时间**: 2026-02-04 18:46
+
+#### [合并不只给AI输血，也是“马斯克经济体”的集体自救](https://www.tmtpost.com/7866822.html)
+**发布时间**: 2026-02-04 18:34
+
+#### [业绩大涨的模拟芯片，面临新问题](https://www.tmtpost.com/7866779.html)
+**发布时间**: 2026-02-04 18:19
+
+#### [互联网首诊终于来了，谁会是行业最大赢家？](https://www.tmtpost.com/7866426.html)
+**发布时间**: 2026-02-04 17:50
+
+#### [姚顺雨腾讯第一篇论文，道破为什么AI死活听不懂人话](https://www.tmtpost.com/7866445.html)
+**发布时间**: 2026-02-04 17:50
+
+#### [姓马的艺人不够用了，春节营销终究同质化？](https://www.tmtpost.com/7866451.html)
+**发布时间**: 2026-02-04 17:50
+
+#### [45亿砸下：BAT的红包雨，我却抢了个寂寞](https://www.tmtpost.com/7866507.html)
+**发布时间**: 2026-02-04 17:50
+
+#### [别急着说2026是固态电池元年，这几个问题大有玄机](https://www.tmtpost.com/7866618.html)
+**发布时间**: 2026-02-04 17:50
+
+#### [硬折扣超市在南京“杀”疯了](https://www.tmtpost.com/7866684.html)
+**发布时间**: 2026-02-04 17:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [北京朝阳区首个 OPC 创业社区“极客部落 · AI 应用生态园”正式亮相 ITEC](https://www.infoq.cn/article/jWGGDOdeN4HOszmFholC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 20:50
+
+#### [拼模型、拼向量库的时代结束了？MongoDB 正在重写 AI 检索的基础设施](https://www.infoq.cn/article/Kb8YQvKgQkYazceGUQFK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 20:03
+
+#### [当AI吞噬软件，数据正在成为企业唯一的护城河](https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 17:53
+
+#### [昆仑天工发布“Skywork桌面版”，Windows电脑能雇AI员工了？](https://www.infoq.cn/article/AI8XjhV01eKAEbGGGTzT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 16:57
+
+#### [百度千帆深度研究Agent 两大设计确保准确性，最新登榜](https://www.infoq.cn/article/jug4DXKtUcObjloYI90O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 16:41
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从西贝老板贾国龙身上，我看到了一种“中国式老板”的样子](http://www.huxiu.com/article/4832439.html?f=wangzhan)
+**发布时间**: 2026-02-04 18:55
+
+#### [上帝视角体验地球Online，鸟瞰世界第一集](http://www.huxiu.com/article/4832074.html?f=wangzhan)
+**发布时间**: 2026-02-04 15:00
+
+#### [六元板面店，悄悄占领北京](http://www.huxiu.com/article/4832047.html?f=wangzhan)
+**发布时间**: 2026-02-04 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派 2025 年度征文：听说你对写作是真 AI？](https://sspai.com/post/105805)
+**发布时间**: 2026-02-04 17:30
 
 ---
 

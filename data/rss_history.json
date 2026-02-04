@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a49149d995fe4a8dc6abde943a0811672b29e6e27c9edab722d40be233c98d10": {
-        "title": "2026“企业Agent上岗元年”？零一万物六大判断定义企业多智能体，不再沿用大厂标准化产品模式”",
-        "link": "https://www.infoq.cn/article/8lkAlTOp8etL1u8LGmxq?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 18:33:00 GMT",
-        "first_seen": "2026-01-05T23:23:56.001228"
-      },
-      "53191a49f2aba557a1aab81b60dd7dda99f6efd53ffe53135c76af8ab9ed97f5": {
-        "title": "苹果税全球博弈升级，谁能真正逼苹果低头？",
-        "link": "https://www.tmtpost.com/7830735.html",
-        "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
-        "first_seen": "2026-01-05T23:23:56.001235"
-      },
-      "b24363d52d18ab40c96e4209027316572e401b668238465304a00a7f70f2ffa3": {
-        "title": "Swiggy 内部 AI 助手升级：Text-to-SQL 不够用了，Agent 开始接管数据分析",
-        "link": "https://www.infoq.cn/article/oPzBsQpC548jOpyJk9oI?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 09:29:00 GMT",
-        "first_seen": "2026-01-05T23:23:56.001237"
-      },
-      "6ca27e3643b22b2ba4f6876eee0b29781c49c673a687c296d48ef366f41d1afc": {
-        "title": "【钛晨报】证监会新年首会，重拳出击财务造假；2026存储涨价第一枪：三星、海力士DRAM报价上调70%；高盛：建议高配中国股票",
-        "link": "https://www.tmtpost.com/7831736.html",
-        "published_date": "Tue, 06 Jan 2026 07:20:00 GMT",
-        "first_seen": "2026-01-05T23:23:56.001239"
-      },
-      "74d3d065cfe64ab65ba23551293d46b6415fe84b7e15ca8c1d8d7e7fc2da3cfc": {
-        "title": "HBF、HMC等四大存储，谁能力敌HBM",
-        "link": "https://www.tmtpost.com/7831517.html",
-        "published_date": "Mon, 05 Jan 2026 18:59:00 GMT",
-        "first_seen": "2026-01-05T23:23:56.001241"
-      },
       "d924a3dd76b5992877e0e32b3fe1bc3f0c41c470d32d30cf1489e292889ab54f": {
         "title": "直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月",
         "link": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 04 Feb 2026 15:36:00 GMT",
         "first_seen": "2026-02-04T08:45:13.516310"
+      },
+      "11a2f0f18c0c70b0c7ac6de6c1cf0fe0f70875d1c578d48cae16a9ce059dcaf8": {
+        "title": "SpaceX收购xAI：马斯克的商业棋局与太空梦想",
+        "link": "https://www.tmtpost.com/7865789.html",
+        "published_date": "Wed, 04 Feb 2026 10:26:00 GMT",
+        "first_seen": "2026-02-04T23:30:55.373833"
+      },
+      "5df0b572242a63c7fb2080303c97cf9f6de16f12ffc1ff80b207d7f3177ef7ca": {
+        "title": "当AI吞噬软件，数据正在成为企业唯一的护城河",
+        "link": "https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 17:53:00 GMT",
+        "first_seen": "2026-02-04T23:30:55.373839"
+      },
+      "aef386a0da49a241728ab6325fbfc92a96d3425a8c0ca62e952740044c8d1cd2": {
+        "title": "姚顺雨腾讯第一篇论文，道破为什么AI死活听不懂人话",
+        "link": "https://www.tmtpost.com/7866445.html",
+        "published_date": "Wed, 04 Feb 2026 17:50:00 GMT",
+        "first_seen": "2026-02-04T23:30:55.373841"
+      },
+      "e676d2c22fede09d7e1a3a23a9fa1f6b1f5a3761746bbfa73989bcd16f4fd72c": {
+        "title": "Claude Sonnet 5 泄漏，因 API 故障延迟发布？",
+        "link": "https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 15:03:00 GMT",
+        "first_seen": "2026-02-04T23:30:55.373843"
+      },
+      "5952b7d75e2c88b9ca0d206ba8eb847ed20d95b3f4961b6dce014ff222253c82": {
+        "title": "【钛晨报】马斯克团队光伏调研消息引爆A股，多家巨头回应最新进展；精神疾病类医保定点医疗机构被集体约谈；黄仁勋驳斥AI取代软件论，称其“不合逻辑”",
+        "link": "https://www.tmtpost.com/7867026.html",
+        "published_date": "Thu, 05 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-04T23:30:55.373844"
       }
     },
     "Finance": {
-      "07bd84157f2ec9fbeb92253cd5ca1409c738ce36599d8e0a2c35de647e121a60": {
-        "title": "The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar",
-        "link": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
-        "published_date": "Mon, 05 Jan 2026 22:38:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.303909"
-      },
-      "c8c66a920e711a19009b71242c1116685adfa595e4633791f6b1455da0e87ff5": {
-        "title": "Trump is forcing the world to share riches with the U.S. — Venezuelan oil is the latest bargaining chip",
-        "link": "https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories",
-        "published_date": "Mon, 05 Jan 2026 23:14:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.303917"
-      },
-      "6d760d9f2d2d2fc8216756803c187fb532528c488d905a5fdbe43a737cdca862": {
-        "title": "Spending over $100 billion to rebuild Venezuela’s oil industry won’t be the biggest obstacle facing U.S. oil companies",
-        "link": "https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories",
-        "published_date": "Mon, 05 Jan 2026 21:32:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.303920"
-      },
-      "33790f3d1e0fae1c58ee2c91df3a607b43cf9c5551ed813908e09a01bfe286a0": {
-        "title": "Nvidia CEO Jensen Huang delivers some good news for investors at CES",
-        "link": "https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories",
-        "published_date": "Mon, 05 Jan 2026 23:08:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.303922"
-      },
-      "f0f9fc2b3cfbbc2065c1a04180c44bd182e44805d17648ab1f38b97cc3e62ae5": {
-        "title": "Mobileye’s latest win is another rejection of Tesla’s self-driving approach",
-        "link": "https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories",
-        "published_date": "Mon, 05 Jan 2026 21:43:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.303923"
-      },
       "7c4cf48e50fee5b933c046679b3f9b2eab1bb5bbd7fe70207b24a03916c2db42": {
         "title": "As AMD chases Nvidia, here’s how it’s positioning itself for the future of AI",
         "link": "https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories",
@@ -4605,39 +4575,39 @@
         "link": "https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55",
         "published_date": "Wed, 04 Feb 2026 08:20:00 GMT",
         "first_seen": "2026-02-04T08:44:41.597044"
+      },
+      "808112dba112305d36f5bc964917bbc4f5e8b7794f065cd186ec66e0bfa5debf": {
+        "title": "The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.",
+        "link": "https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Feb 2026 22:37:00 GMT",
+        "first_seen": "2026-02-04T23:30:23.509113"
+      },
+      "26d6c4d78078ead973f86e082ce54bbe564eaafbdb793283192a1d8a61a9c9a4": {
+        "title": "Software ate the world. Now, Wall Street is worried AI will eat software.",
+        "link": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Feb 2026 22:01:00 GMT",
+        "first_seen": "2026-02-04T23:30:23.509121"
+      },
+      "97e781e945d74e6cec211611de70ef034cb96a953c5a36906d2f530f9fbd93b4": {
+        "title": "Google set to double AI spending to $185bn after strong earnings",
+        "link": "https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a",
+        "published_date": "Wed, 04 Feb 2026 22:38:00 GMT",
+        "first_seen": "2026-02-04T23:30:23.509124"
+      },
+      "dedd336a9003bd69fb81b7ddc3554899e3c1eb897720ddc98fea3b2f796f8f86": {
+        "title": "These hot S&P 500 stocks show where investors are heading as they run away from tech",
+        "link": "https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Feb 2026 22:26:00 GMT",
+        "first_seen": "2026-02-04T23:30:23.509125"
+      },
+      "b67982804643bd9f438e15e9bdcd569a5cca743592bc4263541049aee73eb59b": {
+        "title": "White House seeks critical minerals trade zone to curb China’s dominance",
+        "link": "https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85",
+        "published_date": "Wed, 04 Feb 2026 19:53:00 GMT",
+        "first_seen": "2026-02-04T23:30:23.509127"
       }
     },
     "Ai": {
-      "9b00df9be8c8f2c48971cfdad1eb2af564caaeb7f31daaabfbd665ff885848c2": {
-        "title": "2026-01-06日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-06/",
-        "published_date": "Tue, 06 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.450628"
-      },
-      "0dfb81bf1014ca168d12a36f5499632b2b3f37bbeaec036d74f4da84402d648e": {
-        "title": "AI Shortlist上线｜研究值得关注的AI企业",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-8",
-        "published_date": "Mon, 05 Jan 2026 18:06:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.450635"
-      },
-      "bffa7197c0774b1627189e448f878f1a0fe369c562914e65775913960816075a": {
-        "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-7",
-        "published_date": "Mon, 05 Jan 2026 17:09:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.450637"
-      },
-      "e390d6b81c0d848a94377e68c1a299931e9ccdd4a89c1e23b82464d935bb8b30": {
-        "title": "空间智能终极挑战MMSI-Video-Bench来了，顶级大模型全军覆没",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-6",
-        "published_date": "Mon, 05 Jan 2026 17:04:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.450639"
-      },
-      "e17a5a4768f3941bc64418180b1491822cdd2330aac2eddaa6d26043d05ed9ae": {
-        "title": "悲报！Stack Overflow彻底凉了，比18年前上线首月问题数量还少",
-        "link": "https://www.qbitai.com/2026/01/366593.html",
-        "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
-        "first_seen": "2026-01-05T23:23:23.450640"
-      },
       "960473a0bdf97a130c365355ccfe310cf203cb9dddf13e7242b8f0d282be39b6": {
         "title": "当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案",
         "link": "https://www.jiqizhixin.com/articles/2026-01-06-3",
@@ -6845,13 +6815,43 @@
         "link": "https://www.qbitai.com/2026/02/376355.html",
         "published_date": "Wed, 04 Feb 2026 07:18:00 GMT",
         "first_seen": "2026-02-04T08:44:55.304322"
+      },
+      "0e1387366893b00d8ea7d326b74b2904868ddb1adf568e74f74820cf511d05d1": {
+        "title": "第二代AI预训练范式：预测下个物理状态",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-13",
+        "published_date": "Wed, 04 Feb 2026 19:30:00 GMT",
+        "first_seen": "2026-02-04T23:30:34.250235"
+      },
+      "d101f5bcac6b90d5649cb0578dd2386ddbe62be2b5dc717b88c0f6d105295515": {
+        "title": "美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-12",
+        "published_date": "Wed, 04 Feb 2026 19:26:00 GMT",
+        "first_seen": "2026-02-04T23:30:34.250244"
+      },
+      "0e576b220e4d37fed54d73c44c047f87538fe32335f5a62ae6222639494ed7bc": {
+        "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+        "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+        "published_date": "Wed, 04 Feb 2026 15:14:00 GMT",
+        "first_seen": "2026-02-04T23:30:34.250247"
+      },
+      "906f70f1d91c337b17377155d12a47f82d912c8b7f7ba1b617aba3464313d520": {
+        "title": "百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench",
+        "link": "https://www.qbitai.com/2026/02/376417.html",
+        "published_date": "Wed, 04 Feb 2026 09:08:00 GMT",
+        "first_seen": "2026-02-04T23:30:34.250251"
+      },
+      "9449af4320b94576bc86e623d9c190e0e3a83e3325eca6210aaa0c104f20e9e0": {
+        "title": "刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-14",
+        "published_date": "Wed, 04 Feb 2026 19:35:00 GMT",
+        "first_seen": "2026-02-04T23:30:34.250253"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-04T08:45:13.516312",
-    "Finance": "2026-02-04T08:44:41.597051",
-    "Ai": "2026-02-04T08:44:55.304324"
+    "Technology": "2026-02-04T23:30:55.373846",
+    "Finance": "2026-02-04T23:30:23.509129",
+    "Ai": "2026-02-04T23:30:34.250256"
   }
 }
