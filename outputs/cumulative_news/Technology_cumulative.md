@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 23:29
+**最后更新时间**: 2026-02-04 05:53
+
+---
+
+## 🆕 最新更新 (2026-02-04 05:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一场活动，80名高管，14万亿市值，寻找一个关于超级公司的答案](https://www.tmtpost.com/7865514.html)
+**发布时间**: 2026-02-04 12:59
+
+#### [国运的杠杆](https://www.tmtpost.com/7866049.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [为什么我们会忍不住偷看DeepSeek的“思考过程”？](https://www.tmtpost.com/7866064.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [1.25万亿美元超级独角兽！马斯克的未来在外太空](https://www.tmtpost.com/7866103.html)
+**发布时间**: 2026-02-04 12:08
+
+#### [人们还需要宜家，只是不需要宜家门店了](https://www.tmtpost.com/7865844.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [石药185亿美元BD刷屏，但为何资本选择了“冷静观察”？](https://www.tmtpost.com/7865803.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [马斯克的杠杆游戏](https://www.tmtpost.com/7865886.html)
+**发布时间**: 2026-02-04 11:19
+
+#### [分化加速、AI冲击，潮水回落后2026跨境电商何去何从？｜ 出海参考年度展望](https://www.tmtpost.com/7865627.html)
+**发布时间**: 2026-02-04 10:39
+
+#### [千问“请客”，是要打一场不对称的AI大战](https://www.tmtpost.com/7865419.html)
+**发布时间**: 2026-02-04 10:26
+
+#### [SpaceX收购xAI：马斯克的商业棋局与太空梦想](https://www.tmtpost.com/7865789.html)
+**发布时间**: 2026-02-04 10:26
+
+#### [AMD重返中国，Q4进账3.9亿美元](https://www.tmtpost.com/7866063.html)
+**发布时间**: 2026-02-04 10:06
+
+#### [腾讯想要AI社交，缺的不是元宝和10亿红包](https://www.tmtpost.com/7865754.html)
+**发布时间**: 2026-02-04 09:57
+
+#### [Siri爆改闪击GPT：国产手机助手如何接招](https://www.tmtpost.com/7865195.html)
+**发布时间**: 2026-02-04 09:33
+
+#### [110亿山东富豪，又双叒叕拿下亿元美金大单](https://www.tmtpost.com/7865733.html)
+**发布时间**: 2026-02-04 09:33
+
+#### [炒货“镀金”，百元一斤谁买？](https://www.tmtpost.com/7866062.html)
+**发布时间**: 2026-02-04 09:19
+
+#### [首亏撞上三连阳，润都股份减持暗流与资金出逃背后的预期博弈](https://www.tmtpost.com/7865968.html)
+**发布时间**: 2026-02-04 09:09
+
+#### [马斯克亲手杀死「汽车公司」特斯拉](https://www.tmtpost.com/7865941.html)
+**发布时间**: 2026-02-04 09:03
+
+#### [春节AI牌局，阿里跟注30亿](https://www.tmtpost.com/7865805.html)
+**发布时间**: 2026-02-04 09:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [见不惯 B 站 up 主的带货广告？教你利用 AI 快速跳过](https://sspai.com/post/105951)
+**发布时间**: 2026-02-04 11:05
+
+#### [派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等](https://sspai.com/post/106033)
+**发布时间**: 2026-02-04 07:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [“吃人吞粪”？一条视频看懂爱泼斯坦案背后的肮脏](http://www.huxiu.com/article/4832114.html?f=wangzhan)
+**发布时间**: 2026-02-04 11:00
+
+#### [从抛弃电视到抛弃投影仪，年轻人不再待见大屏幕了？](http://www.huxiu.com/article/4832062.html?f=wangzhan)
+**发布时间**: 2026-02-04 10:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的](https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 10:53
+
+#### [14 个月打通 220 个市场：Airbnb 为了“像本地人一样付款”，重构了一整套支付架构](https://www.infoq.cn/article/0ZAc73wQJJwS4WOT3vBx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 08:00
+
+#### [C位面对面丨AI时代的分野与合流：算力选型的“版本答案”是什么？](https://www.infoq.cn/video/503rHwTuG0Esmegc8Fhk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-03 21:03
 
 ---
 

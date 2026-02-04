@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b944a98e68aaecec6887149e7e1dac0b5c9f85df4c4b8c7cf136097ea3c228bf": {
-        "title": "成本暴降 90%！亚马逊云科技正式发布 S3 Vectors：20 亿规模、百毫秒响应，向量数据库彻底进入“存储优先”时代",
-        "link": "https://www.infoq.cn/article/xb5VDXD96B8sdi8dcqp0?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-05T05:36:45.892769"
-      },
-      "7040491e600d33c3428d0dd15abf232a2bd3c83cbed0ee48687ac7c39f64140b": {
-        "title": "2026年Agentic AI十大关键趋势：技术、应用与治理三位一体",
-        "link": "https://www.tmtpost.com/7830730.html",
-        "published_date": "Mon, 05 Jan 2026 11:24:00 GMT",
-        "first_seen": "2026-01-05T05:36:45.892775"
-      },
-      "c39e3cb049c0b75e6b3e2eb61f21b72c52df2d07186e0f3c87dcccf24cfbe3c8": {
-        "title": "铭芯启睿完成超亿元Pre-A轮融资，持续发力高密度RRAM与存算一体技术 | 融资速递",
-        "link": "https://www.tmtpost.com/7830791.html",
-        "published_date": "Mon, 05 Jan 2026 11:32:00 GMT",
-        "first_seen": "2026-01-05T05:36:45.892778"
-      },
-      "e903415a8d8ac70412bdef4569b2086195cd8ff6f64a1969e005ab4b6914e1df": {
-        "title": "三年超600亿投资，《原子能法》1月15日开始实施，2026，谁在接单可控核聚变？",
-        "link": "https://www.tmtpost.com/7830854.html",
-        "published_date": "Mon, 05 Jan 2026 13:31:00 GMT",
-        "first_seen": "2026-01-05T05:36:45.892780"
-      },
-      "b6a89917dcf8c98a64b58399bea7673f0218586afcd97d73b574bc5daac6a860": {
-        "title": "AI赋能低空经济：三大高潜力赛道即将引爆万亿市场",
-        "link": "https://www.tmtpost.com/7830766.html",
-        "published_date": "Mon, 05 Jan 2026 11:39:00 GMT",
-        "first_seen": "2026-01-05T05:36:45.892781"
-      },
       "53c0833a93b3446be9b1f6f2e0228b921f8cdea46caa51f6239e2e758a812bd6": {
         "title": "Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能",
         "link": "https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 03 Feb 2026 16:12:00 GMT",
         "first_seen": "2026-02-03T23:31:50.006464"
+      },
+      "c65767c35274b5a2871fde850580eaa85e9cef53917b05a10a71c295f370125b": {
+        "title": "一场活动，80名高管，14万亿市值，寻找一个关于超级公司的答案",
+        "link": "https://www.tmtpost.com/7865514.html",
+        "published_date": "Wed, 04 Feb 2026 12:59:00 GMT",
+        "first_seen": "2026-02-04T05:54:57.900505"
+      },
+      "946dfc37af340bddfd6796a4d6eb7f5bcd2333a1c3762e56670ed4bb2036bf74": {
+        "title": "为什么我们会忍不住偷看DeepSeek的“思考过程”？",
+        "link": "https://www.tmtpost.com/7866064.html",
+        "published_date": "Wed, 04 Feb 2026 12:08:00 GMT",
+        "first_seen": "2026-02-04T05:54:57.900514"
+      },
+      "7b013f4a5115cb87d554024acc1d8a7657a9c38286ee412abc25267fa9c338d1": {
+        "title": "1.25万亿美元超级独角兽！马斯克的未来在外太空",
+        "link": "https://www.tmtpost.com/7866103.html",
+        "published_date": "Wed, 04 Feb 2026 12:08:00 GMT",
+        "first_seen": "2026-02-04T05:54:57.900516"
+      },
+      "81e6f290cfdf5d81576da320e374797f22bcc1e7cd120e35107999763374b307": {
+        "title": "人们还需要宜家，只是不需要宜家门店了",
+        "link": "https://www.tmtpost.com/7865844.html",
+        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
+        "first_seen": "2026-02-04T05:54:57.900517"
+      },
+      "938e63f31dc406952eb27b5db99c420337db5d7b46ff8c32195a678befcb8e86": {
+        "title": "石药185亿美元BD刷屏，但为何资本选择了“冷静观察”？",
+        "link": "https://www.tmtpost.com/7865803.html",
+        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
+        "first_seen": "2026-02-04T05:54:57.900519"
       }
     },
     "Finance": {
-      "3b1b24ab36f82355b21234e6453d0389c2de4a27bae9a6bf2813f9295242f47c": {
-        "title": "Taxes will need to rise before next UK election, economists predict",
-        "link": "https://www.ft.com/content/bdf5e89c-e284-46a1-b1c9-60544eed4ded",
-        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.633752"
-      },
-      "8cbdb41958909512c434e57fd3e0502f1a54d7c7b1b2a35e5c6b4204952a9f03": {
-        "title": "Oil prices steady after Trump’s Venezuela strikes",
-        "link": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
-        "published_date": "Mon, 05 Jan 2026 01:18:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.633763"
-      },
-      "9561324bdabd1bb6139563ef11f642a36b372caf5dd2e3cbe6cb90b003835e24": {
-        "title": "Asda and Morrisons’ private equity owners raise £6.5bn in property deals",
-        "link": "https://www.ft.com/content/52dcd047-6f3b-4180-953f-751f3708e227",
-        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.633765"
-      },
-      "e05467fb006be0b8dab46a7e2bbda4f7d29e1ebe71b648f8f21f9a807e317950": {
-        "title": "Ex-Chevron executive seeks $2bn for Venezuelan oil projects",
-        "link": "https://www.ft.com/content/67c43f17-dbe4-42b3-be8d-6351ab842b06",
-        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.633767"
-      },
-      "033d183b818e767842ae98c55c45f9a01b57a40b0c90cd1704050fe9349fd793": {
-        "title": "How would Donald Trump tap ‘tremendous’ wealth from Venezuelan oil?",
-        "link": "https://www.ft.com/content/c077e768-05d3-4305-907c-7ca21a6e50e1",
-        "published_date": "Mon, 05 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.633770"
-      },
       "481334f269a342a3656586da1b6ef8a1a3218dd0d3f0989f365413a1deff75f3": {
         "title": "Oil prices fall after Trump’s Venezuela strikes",
         "link": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
@@ -4611,15 +4581,39 @@
         "link": "https://www.ft.com/content/6b2fcd1b-45c5-4611-affd-186483602a26",
         "published_date": "Tue, 03 Feb 2026 23:10:00 GMT",
         "first_seen": "2026-02-03T23:30:21.216311"
+      },
+      "70b4dd3f033c8128d6b61affffa001ff708a605db0079a5bc98d9afa086874f4": {
+        "title": "Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.",
+        "link": "https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Feb 2026 02:40:00 GMT",
+        "first_seen": "2026-02-04T05:53:20.904661"
+      },
+      "6d10064749691a8b140a7118a2d249e9edba60c03bc5df32f76b96c316393936": {
+        "title": "Stocks fall as S&P 500 dragged down by tech. Is the selling over?",
+        "link": "https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Feb 2026 23:43:00 GMT",
+        "first_seen": "2026-02-04T05:53:20.904670"
+      },
+      "c2909204ef195ba0bd5d5d90d5c9396b1a42b376994835db8f672ebc7a717597": {
+        "title": "Tether retreats from $20bn funding ambitions after investor pushback",
+        "link": "https://www.ft.com/content/3f7f0306-4bc2-43e1-8370-ea251229e5b6",
+        "published_date": "Wed, 04 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-04T05:53:20.904673"
+      },
+      "539be61bdac7e5fc6ff5a009806da54c5fd5a3798d554636bddec27850dc79ad": {
+        "title": "Everyone and their mother is peddling an AI application",
+        "link": "https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0",
+        "published_date": "Wed, 04 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-04T05:53:20.904675"
+      },
+      "b554a142f3327d4e5f5c7c113eb21e5ac22f2a83abc44024c8ed514b71717e52": {
+        "title": "‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
+        "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Feb 2026 05:38:00 GMT",
+        "first_seen": "2026-02-04T05:53:20.904677"
       }
     },
     "Ai": {
-      "3a13429a9795a63f9b59db11248ae94a66c18ff8882c570e9a5ca078e6a60921": {
-        "title": "宇树IPO搁浅传闻满天飞，王兴兴：别当真，也不用和外人解释",
-        "link": "https://www.qbitai.com/2026/01/366541.html",
-        "published_date": "Mon, 05 Jan 2026 04:40:00 GMT",
-        "first_seen": "2026-01-05T05:36:26.779732"
-      },
       "ccdc0b29d9123de49037e1e420c0e761cdac0b4c8956ee15c29c7ba9893fa2a4": {
         "title": "超越AlphaFold3，实现模型容量的规模化扩展，字节提出分子结构预测模型SeedFold",
         "link": "https://www.jiqizhixin.com/articles/2026-01-05-3",
@@ -6827,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-03-8",
         "published_date": "Tue, 03 Feb 2026 23:21:00 GMT",
         "first_seen": "2026-02-03T23:31:01.381945"
+      },
+      "f98d999a52b57606241c65742c66540bd8b154a7b9673757534d588af9c1928a": {
+        "title": "倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-8",
+        "published_date": "Wed, 04 Feb 2026 12:50:00 GMT",
+        "first_seen": "2026-02-04T05:54:09.444448"
+      },
+      "7ec8cea733870db8a83ecd0f2d5995315a3a61e170c6cf62294f54d2e425a028": {
+        "title": "从斑马鱼到机器鱼：机器人实验重塑神经行为研究",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-7",
+        "published_date": "Wed, 04 Feb 2026 12:47:00 GMT",
+        "first_seen": "2026-02-04T05:54:09.444456"
+      },
+      "61fa1078f68e89c3efb445814cf04b08422639d2d6678bc38b6cf3d2da4d7ab3": {
+        "title": "CVPR 2026 Workshop 征稿｜AdvML@CV 2026：Safety of Vision-Language Agents",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-6",
+        "published_date": "Wed, 04 Feb 2026 12:06:00 GMT",
+        "first_seen": "2026-02-04T05:54:09.444458"
+      },
+      "e5c21d4d12cf17fc2493df35ddcfe841e2972abd36ba5a5f331eea603c82704b": {
+        "title": "当运维遇上“春运时刻”，Chaterm破解移动远程运维操作难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-5",
+        "published_date": "Wed, 04 Feb 2026 11:47:00 GMT",
+        "first_seen": "2026-02-04T05:54:09.444460"
+      },
+      "b072cf45944ad72d77f9cb14d4b47f7bd310bd6f74d4cc3c2ed1cf9ae46ff2be": {
+        "title": "ICLR 2026 | 腾讯混元团队联合 KCL 提出 WildToolBench，评估 Wild 场景下 LLM 的 Agentic 能力",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-4",
+        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
+        "first_seen": "2026-02-04T05:54:09.444461"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-03T23:31:50.006466",
-    "Finance": "2026-02-03T23:30:21.216313",
-    "Ai": "2026-02-03T23:31:01.381947"
+    "Technology": "2026-02-04T05:54:57.900521",
+    "Finance": "2026-02-04T05:53:20.904679",
+    "Ai": "2026-02-04T05:54:09.444464"
   }
 }

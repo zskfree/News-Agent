@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 23:29
+**最后更新时间**: 2026-02-04 05:53
+
+---
+
+## 🆕 最新更新 (2026-02-04 05:53)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?](https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 05:38
+
+#### [Many U.S. households feel like they can’t get ahead financially — and they’re right](https://www.marketwatch.com/story/people-who-work-for-a-paycheck-have-less-money-than-you-think-ec0e7f84?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 02:56
+
+#### [Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.](https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 02:40
+
+#### [Nvidia’s stock needs a spark. Here’s how it can generate one.](https://www.marketwatch.com/story/nvidias-stock-needs-a-spark-heres-how-it-can-get-one-c7f5a508?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:50
+
+#### [Stocks fall as S&P 500 dragged down by tech. Is the selling over?](https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russian spy spacecraft have intercepted Europe’s key satellites, officials believe](https://www.ft.com/content/cd08c49c-658e-49c9-9a15-234f2bfc2074)
+**发布时间**: 2026-02-04 05:00
+
+#### [From arms to orbit: Rheinmetall’s expansion unsettles rivals](https://www.ft.com/content/a326b178-4389-40f7-9979-a1b878e94c3d)
+**发布时间**: 2026-02-04 05:00
+
+#### [Reading the runes on a Warsh Fed](https://www.ft.com/content/93b4c72a-0ceb-4839-bf72-06de3870d407)
+**发布时间**: 2026-02-04 05:00
+
+#### [Everyone and their mother is peddling an AI application](https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0)
+**发布时间**: 2026-02-04 05:00
+
+#### [Lloyds plans corporate banking push in strategy overhaul](https://www.ft.com/content/c20a8f09-4495-42e0-91c2-cb707862a663)
+**发布时间**: 2026-02-04 05:00
+
+#### [Tether retreats from $20bn funding ambitions after investor pushback](https://www.ft.com/content/3f7f0306-4bc2-43e1-8370-ea251229e5b6)
+**发布时间**: 2026-02-04 05:00
+
+#### [Citadel’s Ken Griffin says Trump White House has ‘enriched’ family members](https://www.ft.com/content/129b8bd0-53b2-472d-bd65-1377517f9c52)
+**发布时间**: 2026-02-03 23:27
 
 ---
 
