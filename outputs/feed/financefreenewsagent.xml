@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 05:53:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 05:53:20 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:44:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.</title>
-      <link>https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 02:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Stocks fall as S&amp;P 500 dragged down by tech. Is the selling over?</title>
-      <link>https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Stocks fall as S&amp;P 500 dragged down by tech. Is the selling over?]]&gt;</description>
-      <pubDate>Tue, 03 Feb 2026 23:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Tether retreats from $20bn funding ambitions after investor pushback</title>
-      <link>https://www.ft.com/content/3f7f0306-4bc2-43e1-8370-ea251229e5b6</link>
-      <description>&lt;![CDATA[Tether retreats from $20bn funding ambitions after investor pushback]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3f7f0306-4bc2-43e1-8370-ea251229e5b6</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Everyone and their mother is peddling an AI application</title>
-      <link>https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0</link>
-      <description>&lt;![CDATA[Everyone and their mother is peddling an AI application]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?</title>
-      <link>https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 05:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories</guid>
+      <title>Novo Nordisk shares tumble 18% after sales warning</title>
+      <link>https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55</link>
+      <description>&lt;![CDATA[Novo Nordisk shares tumble 18% after sales warning]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55</guid>
       <category>Finance</category>
     </item>
   </channel>

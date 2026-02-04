@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 05:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 05:54:09 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:44:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-8</link>
-      <description>&lt;![CDATA[倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-8</guid>
+      <title>突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04-9</link>
+      <description>&lt;![CDATA[突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从斑马鱼到机器鱼：机器人实验重塑神经行为研究</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-7</link>
-      <description>&lt;![CDATA[从斑马鱼到机器鱼：机器人实验重塑神经行为研究]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-7</guid>
+      <title>光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应</title>
+      <link>https://www.qbitai.com/2026/02/376356.html</link>
+      <description>&lt;![CDATA[光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376356.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CVPR 2026 Workshop 征稿｜AdvML@CV 2026：Safety of Vision-Language Agents</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-6</link>
-      <description>&lt;![CDATA[CVPR 2026 Workshop 征稿｜AdvML@CV 2026：Safety of Vision-Language Agents]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-6</guid>
+      <title>ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04-10</link>
+      <description>&lt;![CDATA[ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当运维遇上“春运时刻”，Chaterm破解移动远程运维操作难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-5</link>
-      <description>&lt;![CDATA[当运维遇上“春运时刻”，Chaterm破解移动远程运维操作难题]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-5</guid>
+      <title>Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-04</link>
+      <description>&lt;![CDATA[Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | 腾讯混元团队联合 KCL 提出 WildToolBench，评估 Wild 场景下 LLM 的 Agentic 能力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-4</link>
-      <description>&lt;![CDATA[ICLR 2026 | 腾讯混元团队联合 KCL 提出 WildToolBench，评估 Wild 场景下 LLM 的 Agentic 能力]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-4</guid>
+      <title>NeurIPS论文假开源，较真AI研究员开锤了</title>
+      <link>https://www.qbitai.com/2026/02/376355.html</link>
+      <description>&lt;![CDATA[NeurIPS论文假开源，较真AI研究员开锤了]]&gt;</description>
+      <pubDate>Wed, 04 Feb 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376355.html</guid>
       <category>Ai</category>
     </item>
   </channel>

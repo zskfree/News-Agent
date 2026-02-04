@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "53c0833a93b3446be9b1f6f2e0228b921f8cdea46caa51f6239e2e758a812bd6": {
-        "title": "Kubernetes 1.35发布，提供了Pod原地扩缩容和AI优化调度功能",
-        "link": "https://www.infoq.cn/article/dqIF73wTjQsXAPgpN8Yc?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 14:39:00 GMT",
-        "first_seen": "2026-01-05T08:37:02.596100"
-      },
-      "484ce33e6b5edb7111468d9f96b8f20fbbfcff78533e8f9eac9b218014f7278a": {
-        "title": "AI生死局，一号位认知拉开企业差距！无问芯穹夏立雪：推理和智能体带来转型压力，中国开源模型在主导全球应用",
-        "link": "https://www.infoq.cn/article/UzcQymWWo3hWpOUXeh6S?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 16:16:00 GMT",
-        "first_seen": "2026-01-05T08:37:02.596106"
-      },
-      "8e40f6a3b69d948820908f6bbdb29155c94265d98813b76b3841c393b2700e23": {
-        "title": "开源Agent Sandbox实现Kubernetes平台上AI代理的安全部署",
-        "link": "https://www.infoq.cn/article/vEotjaclFg1UtW0VXCTq?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 10:10:00 GMT",
-        "first_seen": "2026-01-05T08:37:02.596108"
-      },
-      "b8ee139a96c67866c0d3252860798b2b58ea87025d3e6cf05ccf744b1a876820": {
-        "title": "亚马逊大意失AI：昔日位面之子，沦为版本弃子？",
-        "link": "https://www.tmtpost.com/7831016.html",
-        "published_date": "Mon, 05 Jan 2026 15:07:00 GMT",
-        "first_seen": "2026-01-05T08:37:02.596110"
-      },
-      "8a2f5639cd2a1ec35181cef510cbb48deb844b7be971944eb78ed41f3c6ab1b8": {
-        "title": "Claude Code、Cursor 都过时了？！硅谷顶流大牛炸场暴论：AI 编程要练满 2000 小时才算“会用”，一年不用世界级大神也会沦为实习生水平",
-        "link": "https://www.infoq.cn/article/Qyqio9tXIB7zoeE3xVZQ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 05 Jan 2026 16:12:00 GMT",
-        "first_seen": "2026-01-05T08:37:02.596111"
-      },
       "a49149d995fe4a8dc6abde943a0811672b29e6e27c9edab722d40be233c98d10": {
         "title": "2026“企业Agent上岗元年”？零一万物六大判断定义企业多智能体，不再沿用大厂标准化产品模式”",
         "link": "https://www.infoq.cn/article/8lkAlTOp8etL1u8LGmxq?utm_source=rss&utm_medium=article",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7865803.html",
         "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
         "first_seen": "2026-02-04T05:54:57.900519"
+      },
+      "175e11d3a9b96780748f8e1670467d12e8b9fa014a06547af2ae9fae2aa78584": {
+        "title": "Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布",
+        "link": "https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 14:13:00 GMT",
+        "first_seen": "2026-02-04T08:45:13.516297"
+      },
+      "e9f3048fc95d33def8a6a692119612c6f221eb59d964dbcdcf5a617ed2b63c8a": {
+        "title": "喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的",
+        "link": "https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 10:53:00 GMT",
+        "first_seen": "2026-02-04T08:45:13.516304"
+      },
+      "e6665ef6d931203dfeb164012acdca6ab8ea746d610caf8e9a818bb7b64ca4a8": {
+        "title": "为什么大多数机器学习项目无法投入生产",
+        "link": "https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 15:42:00 GMT",
+        "first_seen": "2026-02-04T08:45:13.516307"
+      },
+      "720468d664d8326bdc0e070c592de1bfe4c7254b78c5317c8e316b12d858a53e": {
+        "title": "2025风险投资们的AI圈地运动",
+        "link": "https://www.tmtpost.com/7866546.html",
+        "published_date": "Wed, 04 Feb 2026 15:47:00 GMT",
+        "first_seen": "2026-02-04T08:45:13.516308"
+      },
+      "341eb177de6922fb8a83c08c12a9fa9d910f8cd41d1705e5fc2fdb8243ca18e3": {
+        "title": "Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中",
+        "link": "https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-04T08:45:13.516310"
       }
     },
     "Finance": {
-      "481334f269a342a3656586da1b6ef8a1a3218dd0d3f0989f365413a1deff75f3": {
-        "title": "Oil prices fall after Trump’s Venezuela strikes",
-        "link": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
-        "published_date": "Mon, 05 Jan 2026 08:25:00 GMT",
-        "first_seen": "2026-01-05T08:36:25.488591"
-      },
-      "51e3c3ec8c945c7742ddad84fe2677e1b32534581cd8795e3921bc6c614243da": {
-        "title": "Maduro set to face drug trafficking charges in New York",
-        "link": "https://www.ft.com/content/e4d84f5f-0e7c-423d-8026-33f78331f06e",
-        "published_date": "Mon, 05 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-05T08:36:25.488603"
-      },
       "07bd84157f2ec9fbeb92253cd5ca1409c738ce36599d8e0a2c35de647e121a60": {
         "title": "The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar",
         "link": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
@@ -4611,39 +4599,15 @@
         "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
         "published_date": "Wed, 04 Feb 2026 05:38:00 GMT",
         "first_seen": "2026-02-04T05:53:20.904677"
+      },
+      "745630ed678eadfbd3a8dc7accfd798f123aca50962a823b8af34141a9fe603c": {
+        "title": "Novo Nordisk shares tumble 18% after sales warning",
+        "link": "https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55",
+        "published_date": "Wed, 04 Feb 2026 08:20:00 GMT",
+        "first_seen": "2026-02-04T08:44:41.597044"
       }
     },
     "Ai": {
-      "ccdc0b29d9123de49037e1e420c0e761cdac0b4c8956ee15c29c7ba9893fa2a4": {
-        "title": "超越AlphaFold3，实现模型容量的规模化扩展，字节提出分子结构预测模型SeedFold",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-3",
-        "published_date": "Mon, 05 Jan 2026 14:41:00 GMT",
-        "first_seen": "2026-01-05T08:36:37.215186"
-      },
-      "0c48094245a1085318b74eb9f90e55b235e022bef5a3166b8b19d86b5395f8e7": {
-        "title": "蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-5",
-        "published_date": "Mon, 05 Jan 2026 15:53:00 GMT",
-        "first_seen": "2026-01-05T08:36:37.215193"
-      },
-      "bbf97d496f782347a55a0d9779a4cba398d4c4a8fa55c777f539bbead84a0005": {
-        "title": "AAAI 2026 Oral｜InfiGUI-G1模型来了，刷新GUI Grounding SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05",
-        "published_date": "Mon, 05 Jan 2026 14:33:00 GMT",
-        "first_seen": "2026-01-05T08:36:37.215195"
-      },
-      "086b7f8096642377881a311908d2b8bd948068eeb7b68c385004718b0f40e3aa": {
-        "title": "刚刚，蝉联Future X全球榜首的MiroMind发布全球最强搜索智能体模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-4",
-        "published_date": "Mon, 05 Jan 2026 14:47:00 GMT",
-        "first_seen": "2026-01-05T08:36:37.215197"
-      },
-      "1300af2f1ccf2b39fdf085511d6b1f96f706b1849533bea9c3ebf90c0a0e1c7d": {
-        "title": "CES 2026超前瞻：空间智能来势汹汹！从实验室奢侈品到消费级刚需，如何重塑 AI 具身时代？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-05-2",
-        "published_date": "Mon, 05 Jan 2026 14:38:00 GMT",
-        "first_seen": "2026-01-05T08:36:37.215198"
-      },
       "9b00df9be8c8f2c48971cfdad1eb2af564caaeb7f31daaabfbd665ff885848c2": {
         "title": "2026-01-06日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-06/",
@@ -6851,13 +6815,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-04-4",
         "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
         "first_seen": "2026-02-04T05:54:09.444461"
+      },
+      "2f6b5f766448665f7d5f970ce7cb025ea9e7e6ba3c00ccd3b312c711dadf7549": {
+        "title": "突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-9",
+        "published_date": "Wed, 04 Feb 2026 14:25:00 GMT",
+        "first_seen": "2026-02-04T08:44:55.304311"
+      },
+      "df98f7f139c359bbd2055d8b75ad7f7890c184a9f09ffcfe1d4cee34201aec79": {
+        "title": "光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应",
+        "link": "https://www.qbitai.com/2026/02/376356.html",
+        "published_date": "Wed, 04 Feb 2026 07:13:00 GMT",
+        "first_seen": "2026-02-04T08:44:55.304317"
+      },
+      "6168bf4fda3475337b22beb4a9b8589474d96a53c17f052d60704d0f3fdbb7ce": {
+        "title": "ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04-10",
+        "published_date": "Wed, 04 Feb 2026 14:32:00 GMT",
+        "first_seen": "2026-02-04T08:44:55.304319"
+      },
+      "fd6932161def7d47e6894318d72901d8efc7b909f25198e9dc8c69b3d458a991": {
+        "title": "Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-04",
+        "published_date": "Wed, 04 Feb 2026 10:22:00 GMT",
+        "first_seen": "2026-02-04T08:44:55.304320"
+      },
+      "8f86e0885539b57a349c922703a2cbf727c97678518ef39820f8ae3e82401c69": {
+        "title": "NeurIPS论文假开源，较真AI研究员开锤了",
+        "link": "https://www.qbitai.com/2026/02/376355.html",
+        "published_date": "Wed, 04 Feb 2026 07:18:00 GMT",
+        "first_seen": "2026-02-04T08:44:55.304322"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-04T05:54:57.900521",
-    "Finance": "2026-02-04T05:53:20.904679",
-    "Ai": "2026-02-04T05:54:09.444464"
+    "Technology": "2026-02-04T08:45:13.516312",
+    "Finance": "2026-02-04T08:44:41.597051",
+    "Ai": "2026-02-04T08:44:55.304324"
   }
 }
