@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 23:30
+**最后更新时间**: 2026-02-05 06:23
+
+---
+
+## 🆕 最新更新 (2026-02-05 06:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Inside the Russian Monopoly money network moving billions over borders](https://www.ft.com/content/8ea9eb6d-736a-4ccf-aa6b-3f9a9fb81294)
+**发布时间**: 2026-02-05 05:00
+
+#### [Where is AI showing up in the productivity data?](https://www.ft.com/content/d6fdc04f-85cf-4358-a686-298c3de0e25b)
+**发布时间**: 2026-02-05 05:00
+
+#### [The truth about the ‘blue-collar boom’](https://www.ft.com/content/ac09f174-a8dc-4eda-a0ef-aa895625288d)
+**发布时间**: 2026-02-05 05:00
+
+#### [Canadian pension funds to exit UK’s biggest port operator in £10bn deal](https://www.ft.com/content/c52ca341-178d-4241-98f0-5d6442a3bcc9)
+**发布时间**: 2026-02-05 05:00
+
+#### [Software sell-off threatens to delay London’s €19bn Visma float](https://www.ft.com/content/17154e7d-234a-45e5-b272-e6d4d5cbbd97)
+**发布时间**: 2026-02-05 05:00
+
+#### [Top Goldman lawyer referenced Jeffrey Epstein’s ‘Russians’ in email](https://www.ft.com/content/a07bb45d-512f-4694-9ce1-355b78131937)
+**发布时间**: 2026-02-05 04:10
+
+#### [Brad Karp to step down as Paul Weiss chair after Epstein revelations](https://www.ft.com/content/70014a3d-629e-4413-a5db-50528108e815)
+**发布时间**: 2026-02-05 02:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These hidden costs of car ownership are giving buyers sticker shock long after they leave the dealership](https://www.marketwatch.com/story/these-hidden-costs-of-car-ownership-are-giving-buyers-sticker-shock-long-after-they-leave-the-dealership-ec7edda9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 03:47
+
+#### [Here are the new release dates for January’s jobs and CPI inflation reports](https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 02:56
+
+#### [Arm’s stock falls after earnings, showing how high the bar is for AI companies now](https://www.marketwatch.com/story/arms-stock-falls-after-earnings-showing-how-high-the-bar-is-for-ai-companies-now-960a93d0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 01:51
+
+#### [Where should I retire? How to use all those ‘best places’ lists to find your perfect spot.](https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 01:48
+
+#### [Nvidia’s stock gets swept up in software selloff, but this analyst says that makes no sense](https://www.marketwatch.com/story/nvidias-stock-gets-swept-up-in-software-selloff-but-this-analyst-says-that-makes-no-sense-24a25ca3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 01:47
+
+#### [Why AMD’s stock dove to its worst day in years after earnings](https://www.marketwatch.com/story/why-amds-stock-is-diving-toward-its-worst-day-in-years-after-earnings-1cf8cab9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 01:43
+
+#### [Qualcomm’s stock falls as memory pressures hit outlook](https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-constraints-hit-outlook-844badba?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 01:25
 
 ---
 

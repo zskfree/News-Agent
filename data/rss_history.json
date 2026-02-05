@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d924a3dd76b5992877e0e32b3fe1bc3f0c41c470d32d30cf1489e292889ab54f": {
-        "title": "直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月",
-        "link": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 09:17:00 GMT",
-        "first_seen": "2026-01-06T05:28:36.865621"
-      },
-      "43f6098a5c47b140ccca4ec9b72600be45d8023849c5ff970b0279018de653ac": {
-        "title": "独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向",
-        "link": "https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 10:58:00 GMT",
-        "first_seen": "2026-01-06T05:28:36.865628"
-      },
-      "6e58d28cd3305c8aace19c2f327694a301efe6773f6da5fecafb265c278a0463": {
-        "title": "“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！",
-        "link": "https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 10:37:00 GMT",
-        "first_seen": "2026-01-06T05:28:36.865631"
-      },
-      "d1b872caeeedb245af83f24b587751babf415f06a3365bbb6a79178fe605651b": {
-        "title": "「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路",
-        "link": "https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 10:33:00 GMT",
-        "first_seen": "2026-01-06T05:28:36.865633"
-      },
-      "187fbaaaddf35f4f6d92cceb0a8b7d6dd0cdbcc70f1f312cd51bbdb15eabbee6": {
-        "title": "脑机接口“炒作”，有点太超前了",
-        "link": "https://www.tmtpost.com/7832208.html",
-        "published_date": "Tue, 06 Jan 2026 11:10:00 GMT",
-        "first_seen": "2026-01-06T05:28:36.865635"
-      },
       "f0efa460e071eb07e2d1f7339e763b791235f0401b945f9fba6d8fbfa2f310ae": {
         "title": "黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至",
         "link": "https://www.tmtpost.com/7832067.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7867026.html",
         "published_date": "Thu, 05 Feb 2026 07:20:00 GMT",
         "first_seen": "2026-02-04T23:30:55.373844"
+      },
+      "e262ee6e171ef929d97dae9f102fc606c5588191ff6495f65842325da1d69909": {
+        "title": "谷歌 DeepMind 推出 ATLAS 多语言语言模型缩放定律",
+        "link": "https://www.infoq.cn/article/uBpTeu8eUhg4H7hDSkT2?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-05T06:24:18.651934"
+      },
+      "be854128815f129445066cc6d96527083038c199b2b1f839fb0c957c7311675e": {
+        "title": "请停止为人类开发软件！2026年最大的机会，是给Agent“造基建”",
+        "link": "https://www.infoq.cn/article/ujMux2sHwXIXYC4z0Rd0?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 11:51:00 GMT",
+        "first_seen": "2026-02-05T06:24:18.651941"
+      },
+      "e077c488025a4fe594d8470ce5e5583c9c53586a82011f28f5cbc816584e1699": {
+        "title": "国产芯片的下半场，从撕掉「中国英伟达」的标签开始",
+        "link": "https://www.tmtpost.com/7867093.html",
+        "published_date": "Thu, 05 Feb 2026 08:30:00 GMT",
+        "first_seen": "2026-02-05T06:24:18.651944"
+      },
+      "d1075d7abbc1bdb9e0d5468b08cac1d41f49e3d88a3c174f75fdad963931e4bb": {
+        "title": "AI落地2.0：大模型平权，行业Know-how重回王座",
+        "link": "https://www.tmtpost.com/7867274.html",
+        "published_date": "Thu, 05 Feb 2026 09:39:00 GMT",
+        "first_seen": "2026-02-05T06:24:18.651945"
+      },
+      "e0bd85b7ef3f1bd1010f881271bc6f6b3a3999c845d519a0ac52eb75c0082ce1": {
+        "title": "3年裁员6万，亚马逊重建AI帝国",
+        "link": "https://www.tmtpost.com/7867351.html",
+        "published_date": "Thu, 05 Feb 2026 11:42:00 GMT",
+        "first_seen": "2026-02-05T06:24:18.651947"
       }
     },
     "Finance": {
-      "7c4cf48e50fee5b933c046679b3f9b2eab1bb5bbd7fe70207b24a03916c2db42": {
-        "title": "As AMD chases Nvidia, here’s how it’s positioning itself for the future of AI",
-        "link": "https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 04:13:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.422333"
-      },
-      "c43a3bb119163f33b030d5607efd1ab2736048910e2ebd3b37fedf9a9210026a": {
-        "title": "New weight-loss pill version of Novo Nordisk’s Wegovy is now available. Here’s how rival stocks Lilly and Viking are reacting.",
-        "link": "https://www.marketwatch.com/story/novo-nordisks-weight-loss-pill-is-available-heres-why-lillys-and-vikings-stocks-are-down-0efa19ce?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 01:16:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.422347"
-      },
-      "e1e0dc5eeb8be698d1842b9f4075db2488ba921830259255c48b3fe8eba366f9": {
-        "title": "Eni, Repsol fight to recoup $6bn in gas payments from Venezuela",
-        "link": "https://www.ft.com/content/6cf5711c-021a-415f-b32c-8b8bf34a4c82",
-        "published_date": "Tue, 06 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.422350"
-      },
-      "c417375d4235359ba3e7e6da15422655e7cb1b1208f9097a542850799bc8e9a0": {
-        "title": "‘Trump doctrine’ demands the world share riches with the U.S. — Venezuelan oil is the latest bargaining chip",
-        "link": "https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 01:01:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.422353"
-      },
-      "eb32ee7a5177388b1c8357cdfd1adeed7bbf5878dabc66c6be4531137213a88e": {
-        "title": "Under Armour has a new fan — in the firm founded by the ‘Warren Buffett of Canada’",
-        "link": "https://www.marketwatch.com/story/under-armour-has-a-new-fan-in-the-firm-founded-by-the-warren-buffett-of-canada-7ca2b846?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 01:20:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.422355"
-      },
       "cea025b8bb96630038dececd56ad4fa5d9669bc466dadd34a824dbe59a66c88b": {
         "title": "Musk’s xAI raises $20bn in funding round that doubles valuation",
         "link": "https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9",
@@ -4605,33 +4575,39 @@
         "link": "https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85",
         "published_date": "Wed, 04 Feb 2026 19:53:00 GMT",
         "first_seen": "2026-02-04T23:30:23.509127"
+      },
+      "37affdb18c7bd077ff9cd82897890e79c3a0602fc0b97df5336edae517974523": {
+        "title": "Here are the new release dates for January’s jobs and CPI inflation reports",
+        "link": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Feb 2026 02:56:00 GMT",
+        "first_seen": "2026-02-05T06:23:47.979772"
+      },
+      "b58b7475e5fe3ce1d29fe836b56f918fae671ad883a200b292a6bb91d2491759": {
+        "title": "Inside the Russian Monopoly money network moving billions over borders",
+        "link": "https://www.ft.com/content/8ea9eb6d-736a-4ccf-aa6b-3f9a9fb81294",
+        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-05T06:23:47.979781"
+      },
+      "2d388510e638dc3eb496fb2fa88707f780b2e9c93fff063046efc4f7d0bd42d6": {
+        "title": "Where is AI showing up in the productivity data?",
+        "link": "https://www.ft.com/content/d6fdc04f-85cf-4358-a686-298c3de0e25b",
+        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-05T06:23:47.979783"
+      },
+      "eb7461eb54d0f5d81b1fb847cd2efddfda06ab609c2bee0c6ac8e5c3525089eb": {
+        "title": "Canadian pension funds to exit UK’s biggest port operator in £10bn deal",
+        "link": "https://www.ft.com/content/c52ca341-178d-4241-98f0-5d6442a3bcc9",
+        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-05T06:23:47.979785"
+      },
+      "e9fc3fed90ada6d6219a23dcc2089764d2c555dbc4acd73f683de59c648c4a91": {
+        "title": "Software sell-off threatens to delay London’s €19bn Visma float",
+        "link": "https://www.ft.com/content/17154e7d-234a-45e5-b272-e6d4d5cbbd97",
+        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-05T06:23:47.979787"
       }
     },
     "Ai": {
-      "960473a0bdf97a130c365355ccfe310cf203cb9dddf13e7242b8f0d282be39b6": {
-        "title": "当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-3",
-        "published_date": "Tue, 06 Jan 2026 11:57:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.603335"
-      },
-      "97ad0f61a6e547e1e45528f4c16ab0605ad25ad62e7bc42f2123ee7644d206b8": {
-        "title": "黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-2",
-        "published_date": "Tue, 06 Jan 2026 10:29:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.603344"
-      },
-      "d2ec3112f2af19a08ded7ce133101590f573f741629511d9fefe3c1212dd2dfc": {
-        "title": "检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06",
-        "published_date": "Tue, 06 Jan 2026 10:21:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.603346"
-      },
-      "45b3cb1ae245d3fe66c3ed9360253e1ecc78a7a6a87343fc68cdc1ecda6b93be": {
-        "title": "老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛",
-        "link": "https://www.qbitai.com/2026/01/366596.html",
-        "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
-        "first_seen": "2026-01-06T05:28:21.603348"
-      },
       "7115f517f8bfc86afa30a558ebdb7e3db55fe3ab4e3d49d8dacb00790d5222ca": {
         "title": "1956-2026：人类与机器智能的七十年对话",
         "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
@@ -6845,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-04-14",
         "published_date": "Wed, 04 Feb 2026 19:35:00 GMT",
         "first_seen": "2026-02-04T23:30:34.250253"
+      },
+      "05ab00ad3599532bd5e0b3c360dbacc6077e519289cc035595a37b91419a958c": {
+        "title": "智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-7",
+        "published_date": "Thu, 05 Feb 2026 13:10:00 GMT",
+        "first_seen": "2026-02-05T06:24:00.629655"
+      },
+      "720c589ee67e279794071f5f04eb88e6a38de6a63e167487b0944b7ac3912f3e": {
+        "title": "ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-5",
+        "published_date": "Thu, 05 Feb 2026 13:03:00 GMT",
+        "first_seen": "2026-02-05T06:24:00.629662"
+      },
+      "23f0fa41c8ff91694b7fa55bdacf7234cd6427603b88fa05b361cdce0c97342e": {
+        "title": "中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-4",
+        "published_date": "Thu, 05 Feb 2026 11:57:00 GMT",
+        "first_seen": "2026-02-05T06:24:00.629664"
+      },
+      "4f060c4fc3dd47fae6c1b6ec27d0b914de7cf65b17b6b921cfd3c6de6d0c9671": {
+        "title": "史上首次！米兰冬奥基于阿里千问打造奥运官方大模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05",
+        "published_date": "Thu, 05 Feb 2026 11:19:00 GMT",
+        "first_seen": "2026-02-05T06:24:00.629666"
+      },
+      "fe7ce4717ab7537ce9a5238ab9a3552c05e912401a4a436eeaba4bf00feb1b43": {
+        "title": "3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-2",
+        "published_date": "Thu, 05 Feb 2026 11:25:00 GMT",
+        "first_seen": "2026-02-05T06:24:00.629667"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-04T23:30:55.373846",
-    "Finance": "2026-02-04T23:30:23.509129",
-    "Ai": "2026-02-04T23:30:34.250256"
+    "Technology": "2026-02-05T06:24:18.651948",
+    "Finance": "2026-02-05T06:23:47.979789",
+    "Ai": "2026-02-05T06:24:00.629669"
   }
 }

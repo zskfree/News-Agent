@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Feb 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2026 23:30:34 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 06:24:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>第二代AI预训练范式：预测下个物理状态</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-13</link>
-      <description>&lt;![CDATA[第二代AI预训练范式：预测下个物理状态]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-13</guid>
+      <title>智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-7</link>
+      <description>&lt;![CDATA[智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-12</link>
-      <description>&lt;![CDATA[美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-12</guid>
+      <title>ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-5</link>
+      <description>&lt;![CDATA[ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy</title>
-      <link>https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</link>
-      <description>&lt;![CDATA[​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/</guid>
+      <title>中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-4</link>
+      <description>&lt;![CDATA[中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench</title>
-      <link>https://www.qbitai.com/2026/02/376417.html</link>
-      <description>&lt;![CDATA[百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376417.html</guid>
+      <title>史上首次！米兰冬奥基于阿里千问打造奥运官方大模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05</link>
+      <description>&lt;![CDATA[史上首次！米兰冬奥基于阿里千问打造奥运官方大模型]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-04-14</link>
-      <description>&lt;![CDATA[刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」]]&gt;</description>
-      <pubDate>Wed, 04 Feb 2026 19:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-04-14</guid>
+      <title>3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-2</link>
+      <description>&lt;![CDATA[3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-2</guid>
       <category>Ai</category>
     </item>
   </channel>

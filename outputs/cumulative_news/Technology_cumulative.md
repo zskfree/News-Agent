@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 23:30
+**最后更新时间**: 2026-02-05 06:23
+
+---
+
+## 🆕 最新更新 (2026-02-05 06:23)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [配置一改就要重启的时代结束了：Dev Proxy 2.1 正式上线](https://www.infoq.cn/article/DhyfQVuh5lMeULuXNPIY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 14:13
+
+#### [请停止为人类开发软件！2026年最大的机会，是给Agent“造基建”](https://www.infoq.cn/article/ujMux2sHwXIXYC4z0Rd0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 11:51
+
+#### [谷歌 DeepMind 推出 ATLAS 多语言语言模型缩放定律](https://www.infoq.cn/article/uBpTeu8eUhg4H7hDSkT2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿福的商业化猜想与未来拷问](https://www.tmtpost.com/7867348.html)
+**发布时间**: 2026-02-05 13:58
+
+#### [悬崖上的永辉](https://www.tmtpost.com/7867434.html)
+**发布时间**: 2026-02-05 13:40
+
+#### [“皮卡+无人机”真是好生意吗？](https://www.tmtpost.com/7867537.html)
+**发布时间**: 2026-02-05 13:37
+
+#### [谷子上市潮，重点看什么？](https://www.tmtpost.com/7867306.html)
+**发布时间**: 2026-02-05 12:57
+
+#### [中国本土创新医疗器械领军企业北芯生命成功登陆科创板 | 融资动态](https://www.tmtpost.com/7867520.html)
+**发布时间**: 2026-02-05 12:05
+
+#### [3年裁员6万，亚马逊重建AI帝国](https://www.tmtpost.com/7867351.html)
+**发布时间**: 2026-02-05 11:42
+
+#### [察尔汗的烈火：盐湖股份十年涅槃纪](https://www.tmtpost.com/7867421.html)
+**发布时间**: 2026-02-05 11:19
+
+#### [物理AI系统领军企业松应科技连续完成 Pre-A、Pre-A+ 轮融资 | 融资动态](https://www.tmtpost.com/7865468.html)
+**发布时间**: 2026-02-05 10:47
+
+#### [一场商业航天的“魔法”解码 ——中博聚力视角下的中科宇航价值洞察 | 机构动态](https://www.tmtpost.com/7867347.html)
+**发布时间**: 2026-02-05 10:45
+
+#### [谷歌：大哥也疯狂，翻倍豪赌AI](https://www.tmtpost.com/7867404.html)
+**发布时间**: 2026-02-05 10:37
+
+#### [春节大厂AI大战，不过是道「开胃菜」](https://www.tmtpost.com/7867099.html)
+**发布时间**: 2026-02-05 10:03
+
+#### [AI落地2.0：大模型平权，行业Know-how重回王座](https://www.tmtpost.com/7867274.html)
+**发布时间**: 2026-02-05 09:39
+
+#### [台铃冲刺百亿IPO，汕尾三兄弟的“小电驴”往事](https://www.tmtpost.com/7866969.html)
+**发布时间**: 2026-02-05 09:30
+
+#### [国产芯片的下半场，从撕掉「中国英伟达」的标签开始](https://www.tmtpost.com/7867093.html)
+**发布时间**: 2026-02-05 08:30
+
+#### [微信封杀元宝：腾讯的AI焦虑，败给张小龙的产品洁癖](https://www.tmtpost.com/7867061.html)
+**发布时间**: 2026-02-05 08:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从川渝之旅聊自驾：解锁更自在的旅行体验](https://sspai.com/post/105661)
+**发布时间**: 2026-02-05 11:36
+
+#### [派早报：iQOO 15 Ultra 发布、Grok Imagine 1.0 推出等](https://sspai.com/post/106063)
+**发布时间**: 2026-02-05 08:46
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [AI进县城，靠红包能行么？](http://www.huxiu.com/article/4832467.html?f=wangzhan)
+**发布时间**: 2026-02-05 09:54
 
 ---
 
