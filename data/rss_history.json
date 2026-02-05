@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f0efa460e071eb07e2d1f7339e763b791235f0401b945f9fba6d8fbfa2f310ae": {
-        "title": "黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至",
-        "link": "https://www.tmtpost.com/7832067.html",
-        "published_date": "Tue, 06 Jan 2026 09:45:00 GMT",
-        "first_seen": "2026-01-06T08:34:32.847333"
-      },
-      "db43a680d3779ab6e10216d4a61704c6153860840f6365f5daab8e365eb2c242": {
-        "title": "OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋",
-        "link": "https://www.tmtpost.com/7832526.html",
-        "published_date": "Tue, 06 Jan 2026 15:47:00 GMT",
-        "first_seen": "2026-01-06T08:34:32.847340"
-      },
-      "4a8025ff4fd27465cec8b97ec60e48f8c08b6c1b8d9c7974d9fcfd6b85614f58": {
-        "title": "谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！",
-        "link": "https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 13:23:00 GMT",
-        "first_seen": "2026-01-06T08:34:32.847342"
-      },
-      "97c01379bfcadafc5a803d0a55300ea22725093e8f865034bc897af35ee216a3": {
-        "title": "微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了",
-        "link": "https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-06T08:34:32.847344"
-      },
-      "ed7aaad295b1acbf31b5de5e4e1558d6a2a00bafac970c265a988b0921b0e331": {
-        "title": "Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍",
-        "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-06T08:34:32.847345"
-      },
       "50a8f71f1c9752375b24df16a8b11237e5aba794f42d16436ea91d1666489888": {
         "title": "Broadcom Secures $21 Billion AI Chip Deal with Anthropic",
         "link": "https://www.tmtpost.com/7833003.html",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7867351.html",
         "published_date": "Thu, 05 Feb 2026 11:42:00 GMT",
         "first_seen": "2026-02-05T06:24:18.651947"
+      },
+      "ce0fb5a4d707784f8160076c4933759ebb3eadf1539493ecdf6abec0a1f175c6": {
+        "title": "9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆",
+        "link": "https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 16:31:00 GMT",
+        "first_seen": "2026-02-05T08:45:53.625249"
+      },
+      "bb010c0c31c0050c71917b2a24646c5b48d26ee8fc9c59694ecf7ee80a315d39": {
+        "title": "谷歌：大哥也疯狂，翻倍豪赌AI",
+        "link": "https://www.tmtpost.com/7867404.html",
+        "published_date": "Thu, 05 Feb 2026 10:37:00 GMT",
+        "first_seen": "2026-02-05T08:45:53.625255"
+      },
+      "4213dca9a9b8b8672c0229798bc8763f9efc9ac44f7ca3b00e35466e974506be": {
+        "title": "奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化",
+        "link": "https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 16:22:00 GMT",
+        "first_seen": "2026-02-05T08:45:53.625257"
+      },
+      "59e865db6c29f3c6cd1b165edd06804054a327d2020754355fc9eab3df1e55d5": {
+        "title": "OpenViking：面向 Agent 的上下文数据库",
+        "link": "https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 15:45:00 GMT",
+        "first_seen": "2026-02-05T08:45:53.625260"
+      },
+      "aef59e130cc8dbc46944657933bfd380996a5c5332948dbd45933171ff54ca9e": {
+        "title": "马斯克带飞“太空光伏”，中国企业杀入星辰大海",
+        "link": "https://www.tmtpost.com/7867187.html",
+        "published_date": "Thu, 05 Feb 2026 15:47:00 GMT",
+        "first_seen": "2026-02-05T08:45:53.625261"
       }
     },
     "Finance": {
@@ -4608,36 +4608,6 @@
       }
     },
     "Ai": {
-      "7115f517f8bfc86afa30a558ebdb7e3db55fe3ab4e3d49d8dacb00790d5222ca": {
-        "title": "1956-2026：人类与机器智能的七十年对话",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
-        "published_date": "Tue, 06 Jan 2026 14:27:00 GMT",
-        "first_seen": "2026-01-06T08:34:02.523389"
-      },
-      "182feed3c806481c25b66beb94dcfa6a84ac417f88802f54e0745a0a02d561f3": {
-        "title": "港科大教授实测AI眼镜“作弊”：30分钟碾压95%的学生，把传统教学评估体系整破防了",
-        "link": "https://www.qbitai.com/2026/01/366939.html",
-        "published_date": "Tue, 06 Jan 2026 07:24:00 GMT",
-        "first_seen": "2026-01-06T08:34:02.523399"
-      },
-      "69facb5f9d86f0f728aa6a451f537dac227e665308f633391a3330f7b0b0dc13": {
-        "title": "陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能",
-        "link": "https://www.qbitai.com/2026/01/366652.html",
-        "published_date": "Tue, 06 Jan 2026 06:28:00 GMT",
-        "first_seen": "2026-01-06T08:34:02.523401"
-      },
-      "614eb77e5fa33e13eea532fb11ac914348199d11f3ee2599b927c4188e654490": {
-        "title": "英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货",
-        "link": "https://www.qbitai.com/2026/01/366636.html",
-        "published_date": "Tue, 06 Jan 2026 05:54:00 GMT",
-        "first_seen": "2026-01-06T08:34:02.523403"
-      },
-      "960d9f97925f2efdb588b3d89970f3050d876284af1b72ed7773f023b6f964a8": {
-        "title": "海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光",
-        "link": "https://www.qbitai.com/2026/01/366621.html",
-        "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
-        "first_seen": "2026-01-06T08:34:02.523405"
-      },
       "80398a89d029778d062fb3b02d1373a39bc8bca1faeaa0043bb184392bba2631": {
         "title": "英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型",
         "link": "https://www.jiqizhixin.com/articles/2026-01-06-10",
@@ -6851,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-2",
         "published_date": "Thu, 05 Feb 2026 11:25:00 GMT",
         "first_seen": "2026-02-05T06:24:00.629667"
+      },
+      "e2db2836faf2ef087e3dacb5634a4c0e054e32bd5e92525aab255e2f21abbda9": {
+        "title": "强化学习远不是最优，CMU刚刚提出最大似然强化学习",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-11",
+        "published_date": "Thu, 05 Feb 2026 16:05:00 GMT",
+        "first_seen": "2026-02-05T08:45:28.303743"
+      },
+      "c9593d9039e737e910a7c8dbdd93391b6c71fab891689dfd93d9d7e4684a5683": {
+        "title": "首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代",
+        "link": "https://www.qbitai.com/2026/02/376502.html",
+        "published_date": "Thu, 05 Feb 2026 07:28:00 GMT",
+        "first_seen": "2026-02-05T08:45:28.303755"
+      },
+      "9cadd5e12346e87c17fe8cc32e4863f0185916f52c4f9610ed1836c5c6a4c96b": {
+        "title": "中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-8",
+        "published_date": "Thu, 05 Feb 2026 14:09:00 GMT",
+        "first_seen": "2026-02-05T08:45:28.303758"
+      },
+      "541e12ec8febd018e5bebec9136fb794aa3bd796fa01fb9f74d1814315987239": {
+        "title": "谷歌做了个论文专用版nano banana！顶会级Figure直出",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-6",
+        "published_date": "Thu, 05 Feb 2026 13:07:00 GMT",
+        "first_seen": "2026-02-05T08:45:28.303760"
+      },
+      "a1e375504feac11ce68eceec0e68c31dd1e705152baa92c5e5bfab604aba48c4": {
+        "title": "ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-10",
+        "published_date": "Thu, 05 Feb 2026 15:59:00 GMT",
+        "first_seen": "2026-02-05T08:45:28.303762"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-05T06:24:18.651948",
+    "Technology": "2026-02-05T08:45:53.625264",
     "Finance": "2026-02-05T06:23:47.979789",
-    "Ai": "2026-02-05T06:24:00.629669"
+    "Ai": "2026-02-05T08:45:28.303765"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Feb 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 06:24:00 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 08:45:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 08:45:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-7</link>
-      <description>&lt;![CDATA[智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 13:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-7</guid>
+      <title>强化学习远不是最优，CMU刚刚提出最大似然强化学习</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-11</link>
+      <description>&lt;![CDATA[强化学习远不是最优，CMU刚刚提出最大似然强化学习]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-5</link>
-      <description>&lt;![CDATA[ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 13:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-5</guid>
+      <title>首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代</title>
+      <link>https://www.qbitai.com/2026/02/376502.html</link>
+      <description>&lt;![CDATA[首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 07:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376502.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-4</link>
-      <description>&lt;![CDATA[中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-4</guid>
+      <title>中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-8</link>
+      <description>&lt;![CDATA[中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>史上首次！米兰冬奥基于阿里千问打造奥运官方大模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05</link>
-      <description>&lt;![CDATA[史上首次！米兰冬奥基于阿里千问打造奥运官方大模型]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05</guid>
+      <title>谷歌做了个论文专用版nano banana！顶会级Figure直出</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-6</link>
+      <description>&lt;![CDATA[谷歌做了个论文专用版nano banana！顶会级Figure直出]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-2</link>
-      <description>&lt;![CDATA[3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-2</guid>
+      <title>ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-10</link>
+      <description>&lt;![CDATA[ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-10</guid>
       <category>Ai</category>
     </item>
   </channel>
