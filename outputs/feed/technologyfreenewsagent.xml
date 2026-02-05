@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Feb 2026 08:45:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 08:45:53 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 23:26:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆</title>
-      <link>https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜</title>
+      <link>https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌：大哥也疯狂，翻倍豪赌AI</title>
-      <link>https://www.tmtpost.com/7867404.html</link>
-      <description>&lt;![CDATA[谷歌：大哥也疯狂，翻倍豪赌AI]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867404.html</guid>
+      <title>Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares</title>
+      <link>https://www.tmtpost.com/7867924.html</link>
+      <description>&lt;![CDATA[Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7867924.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化</title>
-      <link>https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态</title>
+      <link>https://www.tmtpost.com/7868080.html</link>
+      <description>&lt;![CDATA[峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7868080.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenViking：面向 Agent 的上下文数据库</title>
-      <link>https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenViking：面向 Agent 的上下文数据库]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划</title>
+      <link>http://www.huxiu.com/article/4832706.html?f=wangzhan</link>
+      <description>&lt;![CDATA[100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4832706.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克带飞“太空光伏”，中国企业杀入星辰大海</title>
-      <link>https://www.tmtpost.com/7867187.html</link>
-      <description>&lt;![CDATA[马斯克带飞“太空光伏”，中国企业杀入星辰大海]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867187.html</guid>
+      <title>硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈</title>
+      <link>https://www.tmtpost.com/7867966.html</link>
+      <description>&lt;![CDATA[硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7867966.html</guid>
       <category>Technology</category>
     </item>
   </channel>

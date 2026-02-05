@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 06:23
+**最后更新时间**: 2026-02-05 23:25
+
+---
+
+## 🆕 最新更新 (2026-02-05 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Where’s the real ‘best place’ to retire? Tips to making those lists work for you.](https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 23:15
+
+#### [Why smart investors are ignoring the 2026 Super Bowl Indicator](https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:51
+
+#### [Bulls facing a ‘make-or-break’ moment as the S&P 500 nears a line in the sand](https://www.marketwatch.com/story/bulls-facing-a-make-or-break-moment-as-the-s-p-500-nears-a-line-in-the-sand-4f63d63e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:51
+
+#### [Strategy’s sinking stock and $12 billion quarterly loss puts the policy of ‘don’t ever sell your bitcoin’ to the test](https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:36
+
+#### [S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street](https://www.marketwatch.com/story/s-p-500-turns-negative-for-2026-as-investors-add-job-market-to-a-growing-list-of-worries-facing-wall-street-23e4d185?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:27
+
+#### [Bitcoin ETF suffers worst decline in over a year — and new investors are now sitting on ugly losses](https://www.marketwatch.com/story/bitcoin-etf-suffers-worst-decline-in-over-year-and-new-investors-are-now-sitting-on-ugly-losses-c093dca6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:21
+
+#### [Bitcoin’s latest selloff is shattering many of its most enduring myths](https://www.marketwatch.com/story/bitcoins-latest-selloff-is-shattering-many-of-its-most-enduring-myths-385ee6b0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 22:05
+
+#### [Why Uber’s cheap stock is worth a fresh look despite the company’s spending spree](https://www.marketwatch.com/story/why-ubers-cheap-stock-is-worth-a-fresh-look-despite-the-companys-spending-spree-dd7dcddb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 21:56
+
+#### [Why Alphabet’s stock is falling despite booming cloud growth](https://www.marketwatch.com/story/why-alphabets-stock-is-falling-despite-booming-cloud-growth-2ec59941?mod=mw_rss_topstories)
+**发布时间**: 2026-02-05 21:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer on borrowed time as MPs weigh up how to mount leadership challenge](https://www.ft.com/content/cf875ef8-6445-4241-b919-ab5e75fe2b1b)
+**发布时间**: 2026-02-05 23:14
+
+#### [Amazon shares fall as it prepares $200bn AI spending blitz](https://www.ft.com/content/a1bd22ec-42cf-46dc-9ff7-ec8a2a89a534)
+**发布时间**: 2026-02-05 22:03
+
+#### [Big Tech shares slide for third day with AI stocks under pressure](https://www.ft.com/content/0d6f19fe-9bf7-464a-8e4f-b3bdd62634e8)
+**发布时间**: 2026-02-05 21:25
+
+#### [US job cuts surge to highest January total since 2009](https://www.ft.com/content/378fb2e9-6575-4da2-9769-13cf6bc499ad)
+**发布时间**: 2026-02-05 20:40
+
+#### [Bitcoin falls below $65,000 to wipe out ‘Trump rally’](https://www.ft.com/content/f0184274-1ece-4827-add1-e96a870efa53)
+**发布时间**: 2026-02-05 20:29
+
+#### [Starmer apologises to victims of Epstein](https://www.ft.com/content/584aec03-6eaa-4aee-8751-88592253d3bc)
+**发布时间**: 2026-02-05 19:16
+
+#### [Former prince advocated for Epstein during Queen Elizabeth’s visit to UAE](https://www.ft.com/content/693f4bee-3bea-4d7d-99f6-142645562a72)
+**发布时间**: 2026-02-05 18:12
+
+#### [Millions more UK workers to be hit by Reeves’ salary sacrifice changes](https://www.ft.com/content/7624c501-2b0b-4f48-b65b-84b7d1ef6f61)
+**发布时间**: 2026-02-05 18:12
+
+#### [Anthropic launches new Claude model as AI fears rattle markets](https://www.ft.com/content/a0cd0281-8367-4ed3-9f18-038e4a9f79e0)
+**发布时间**: 2026-02-05 17:45
+
+#### [AI agents are prompting human boom scrolling](https://www.ft.com/content/b5022f40-f538-41bd-82c5-199b39924d37)
+**发布时间**: 2026-02-05 16:31
+
+#### [Mandelson and the money that never sleeps](https://www.ft.com/content/1a296ae4-a19d-4650-bdf9-4a3a1d1b25f7)
+**发布时间**: 2026-02-05 11:31
 
 ---
 

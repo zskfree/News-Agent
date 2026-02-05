@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Feb 2026 08:45:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 08:45:28 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 23:26:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>强化学习远不是最优，CMU刚刚提出最大似然强化学习</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-11</link>
-      <description>&lt;![CDATA[强化学习远不是最优，CMU刚刚提出最大似然强化学习]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-11</guid>
+      <title>英伟达Jim Fan：「世界建模」是新一代预训练范式</title>
+      <link>https://www.qbitai.com/2026/02/376731.html</link>
+      <description>&lt;![CDATA[英伟达Jim Fan：「世界建模」是新一代预训练范式]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376731.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代</title>
-      <link>https://www.qbitai.com/2026/02/376502.html</link>
-      <description>&lt;![CDATA[首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 07:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376502.html</guid>
+      <title>邓明扬一作论文改写生成范式！何恺明也署名了</title>
+      <link>https://www.qbitai.com/2026/02/376752.html</link>
+      <description>&lt;![CDATA[邓明扬一作论文改写生成范式！何恺明也署名了]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376752.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-8</link>
-      <description>&lt;![CDATA[中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-8</guid>
+      <title>陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛</title>
+      <link>https://www.qbitai.com/2026/02/376636.html</link>
+      <description>&lt;![CDATA[陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376636.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌做了个论文专用版nano banana！顶会级Figure直出</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-6</link>
-      <description>&lt;![CDATA[谷歌做了个论文专用版nano banana！顶会级Figure直出]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-6</guid>
+      <title>面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答</title>
+      <link>https://www.qbitai.com/2026/02/376714.html</link>
+      <description>&lt;![CDATA[面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/376714.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-10</link>
-      <description>&lt;![CDATA[ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 15:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-10</guid>
+      <title>众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-12</link>
+      <description>&lt;![CDATA[众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生]]&gt;</description>
+      <pubDate>Thu, 05 Feb 2026 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-12</guid>
       <category>Ai</category>
     </item>
   </channel>

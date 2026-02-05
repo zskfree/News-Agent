@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "50a8f71f1c9752375b24df16a8b11237e5aba794f42d16436ea91d1666489888": {
-        "title": "Broadcom Secures $21 Billion AI Chip Deal with Anthropic",
-        "link": "https://www.tmtpost.com/7833003.html",
-        "published_date": "Tue, 06 Jan 2026 21:03:00 GMT",
-        "first_seen": "2026-01-06T23:23:29.196464"
-      },
-      "60c432d9dc7ab7dc04f88176b1570c8688a06f7f297084152e448d475837ded7": {
-        "title": "黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”",
-        "link": "https://www.tmtpost.com/7831996.html",
-        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
-        "first_seen": "2026-01-06T23:23:29.196471"
-      },
-      "20cbc4619f86f48001180d9bf2a3dd534f5ee22dd8e644440c1af0e3ac914b3f": {
-        "title": "AMD Unveils Faster AI Chip at CES Alongside Fei-Fei Li and OpenAI Executives",
-        "link": "https://www.tmtpost.com/7832999.html",
-        "published_date": "Tue, 06 Jan 2026 20:57:00 GMT",
-        "first_seen": "2026-01-06T23:23:29.196473"
-      },
-      "590d4cfa4836423330454ed55b6099961fb503152207b0740080dff336dad772": {
-        "title": "从算法天才到机器人造梦者，原力灵机范浩强详解具身智能进化论：模型解锁场景，场景定义硬件",
-        "link": "https://www.infoq.cn/article/p6CDCh6m2upT69ZUdjXY?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 20:11:00 GMT",
-        "first_seen": "2026-01-06T23:23:29.196475"
-      },
-      "e0ca0622095e109921fcee67bbe146356c71128404dd488f2a3355b033b1d887": {
-        "title": "被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实",
-        "link": "https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 06 Jan 2026 11:20:00 GMT",
-        "first_seen": "2026-01-06T23:23:29.196477"
-      },
       "146bf63832b797bd9f063b6d901bdd95eb71c9df87aa10b0c1f8e3159edaf8bc": {
         "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
         "link": "https://www.tmtpost.com/7833373.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7867187.html",
         "published_date": "Thu, 05 Feb 2026 15:47:00 GMT",
         "first_seen": "2026-02-05T08:45:53.625261"
+      },
+      "842a4e91cfbc360b71575ed4228c7090451b961cdeec72d6fe0a033b507300d2": {
+        "title": "Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜",
+        "link": "https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Feb 2026 18:33:00 GMT",
+        "first_seen": "2026-02-05T23:26:29.277427"
+      },
+      "61ad43de2d7099f73d9c31d182735eb90ef55a42243eb1ee831b87256d2f724f": {
+        "title": "Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares",
+        "link": "https://www.tmtpost.com/7867924.html",
+        "published_date": "Thu, 05 Feb 2026 17:34:00 GMT",
+        "first_seen": "2026-02-05T23:26:29.277433"
+      },
+      "9f7ed9807e3f3a3790dfbea9b91726f44f9b494467052cbc52101c43c92655cd": {
+        "title": "峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态",
+        "link": "https://www.tmtpost.com/7868080.html",
+        "published_date": "Thu, 05 Feb 2026 18:50:00 GMT",
+        "first_seen": "2026-02-05T23:26:29.277436"
+      },
+      "6341a85e2ed0f3f0cf28f59848db5150bb2f40c00118c03cf71be743dd817158": {
+        "title": "100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划",
+        "link": "http://www.huxiu.com/article/4832706.html?f=wangzhan",
+        "published_date": "Thu, 05 Feb 2026 20:00:00 GMT",
+        "first_seen": "2026-02-05T23:26:29.277437"
+      },
+      "995200dd9d47d71bf62c88abe69e3a293ada37a7c306e36db9bfd6a4babf7d62": {
+        "title": "硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈",
+        "link": "https://www.tmtpost.com/7867966.html",
+        "published_date": "Thu, 05 Feb 2026 18:25:00 GMT",
+        "first_seen": "2026-02-05T23:26:29.277439"
       }
     },
     "Finance": {
-      "cea025b8bb96630038dececd56ad4fa5d9669bc466dadd34a824dbe59a66c88b": {
-        "title": "Musk’s xAI raises $20bn in funding round that doubles valuation",
-        "link": "https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9",
-        "published_date": "Tue, 06 Jan 2026 21:47:00 GMT",
-        "first_seen": "2026-01-06T23:22:54.477239"
-      },
-      "07184419f2cf22f669efc281823822c75f7690afa65d868b36172e8e880027b0": {
-        "title": "Fund managers prepare for ‘reckoning’ in US tech sector",
-        "link": "https://www.ft.com/content/48d9c100-0ec6-4edf-9395-eb44879ea5c6",
-        "published_date": "Tue, 06 Jan 2026 16:10:00 GMT",
-        "first_seen": "2026-01-06T23:22:54.477246"
-      },
-      "69a81c1c7dae30bea95be9be84c69e9820bfa931e8fef1eac33e5a5caa673620": {
-        "title": "Nvidia stepping up H200 production ahead of sales to China, Huang says",
-        "link": "https://www.ft.com/content/ae4f28a0-39f9-48e6-bdf4-09321b03c236",
-        "published_date": "Tue, 06 Jan 2026 21:30:00 GMT",
-        "first_seen": "2026-01-06T23:22:54.477249"
-      },
-      "baf5c58d896da5fed436e18e838706b3f8d7bcd58beb508fb488601fcc432385": {
-        "title": "Why U.S. oil refiners could be the big winners in Venezuela — even if its actual reserves disappoint",
-        "link": "https://www.marketwatch.com/story/why-u-s-oil-refiners-could-be-the-big-winners-in-venezuela-even-if-its-actual-reserves-disappoint-6a9a6b1a?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 23:10:00 GMT",
-        "first_seen": "2026-01-06T23:22:54.477251"
-      },
-      "8492ed69463702013fc11c276d575436ce7baeaa4b137932af42ef18cafefc35": {
-        "title": "What you need to know about changes to Social Security, Medicare and Medicaid in 2026",
-        "link": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
-        "published_date": "Tue, 06 Jan 2026 22:04:00 GMT",
-        "first_seen": "2026-01-06T23:22:54.477252"
-      },
       "17dea2b432956a664e9a85b38e2032d523dcab136dd1d9fd1b388952345205e2": {
         "title": "Don’t be fooled — everything has changed for the global economy",
         "link": "https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d",
@@ -4605,39 +4575,39 @@
         "link": "https://www.ft.com/content/17154e7d-234a-45e5-b272-e6d4d5cbbd97",
         "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-05T06:23:47.979787"
+      },
+      "b2038ff417efcd20e5c9d02253a6b6c5833d3bf0350e8c56f7183ae5fd3ee305": {
+        "title": "US job cuts surge to highest January total since 2009",
+        "link": "https://www.ft.com/content/378fb2e9-6575-4da2-9769-13cf6bc499ad",
+        "published_date": "Thu, 05 Feb 2026 20:40:00 GMT",
+        "first_seen": "2026-02-05T23:25:52.830044"
+      },
+      "11c2a00d50171b4adc4d2b84d18eebd89aed9c42edc2b241e5f300e7ae73d72d": {
+        "title": "S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street",
+        "link": "https://www.marketwatch.com/story/s-p-500-turns-negative-for-2026-as-investors-add-job-market-to-a-growing-list-of-worries-facing-wall-street-23e4d185?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Feb 2026 22:27:00 GMT",
+        "first_seen": "2026-02-05T23:25:52.830052"
+      },
+      "792526019efeb1ac390464b8038e7c266240790d31205e9ddbf2d68c7250fc0e": {
+        "title": "Strategy’s sinking stock and $12 billion quarterly loss puts the policy of ‘don’t ever sell your bitcoin’ to the test",
+        "link": "https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Feb 2026 22:36:00 GMT",
+        "first_seen": "2026-02-05T23:25:52.830055"
+      },
+      "9b2acee04c5b63802a4d8032da296ae31b75e2457231167fa8a9710eb6ab5f22": {
+        "title": "Bitcoin’s latest selloff is shattering many of its most enduring myths",
+        "link": "https://www.marketwatch.com/story/bitcoins-latest-selloff-is-shattering-many-of-its-most-enduring-myths-385ee6b0?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Feb 2026 22:05:00 GMT",
+        "first_seen": "2026-02-05T23:25:52.830057"
+      },
+      "007291b3c0dced4869b7164858fc8363f2ff9306a4d8844b284a47e706fd436c": {
+        "title": "Big Tech shares slide for third day with AI stocks under pressure",
+        "link": "https://www.ft.com/content/0d6f19fe-9bf7-464a-8e4f-b3bdd62634e8",
+        "published_date": "Thu, 05 Feb 2026 21:25:00 GMT",
+        "first_seen": "2026-02-05T23:25:52.830059"
       }
     },
     "Ai": {
-      "80398a89d029778d062fb3b02d1373a39bc8bca1faeaa0043bb184392bba2631": {
-        "title": "英伟达展示台式AI超算DGX Spark新能力：能跑千亿参数模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-10",
-        "published_date": "Tue, 06 Jan 2026 20:55:00 GMT",
-        "first_seen": "2026-01-06T23:23:07.654519"
-      },
-      "4033a838df6ca174a43de0955cb89a5d5e3c997c081b3e3c6811b74a5d53d533": {
-        "title": "刚刚，智元提出SOP，让VLA模型在真实世界实现可扩展的在线进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-8",
-        "published_date": "Tue, 06 Jan 2026 18:11:00 GMT",
-        "first_seen": "2026-01-06T23:23:07.654525"
-      },
-      "b2f76875920799d6d4fa52fa879824f609651901f8c64b14df42b50ac8f3293a": {
-        "title": "独家解读｜2025年AI五大趋势与底层数据革命",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-7",
-        "published_date": "Tue, 06 Jan 2026 18:02:00 GMT",
-        "first_seen": "2026-01-06T23:23:07.654528"
-      },
-      "09609deae5d5c060f54e5e26f870d544aacca555de651ac669f2d83181d5c42b": {
-        "title": "开源1万小时具身智能数据，这家公司是为了什么？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-6",
-        "published_date": "Tue, 06 Jan 2026 17:56:00 GMT",
-        "first_seen": "2026-01-06T23:23:07.654529"
-      },
-      "09e4cfd1c82317f557cb6c065dd8c197c115fe0bd85bdfa166e7c475994178de": {
-        "title": "别被室内基准高分骗了：大模型是在推理空间，还是在「背答案」？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-06-5",
-        "published_date": "Tue, 06 Jan 2026 17:50:00 GMT",
-        "first_seen": "2026-01-06T23:23:07.654531"
-      },
       "c39f36070b5729fccf5688f139b6400c93a29537c5fc2b524f8e182521047a42": {
         "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
         "link": "https://www.jiqizhixin.com/articles/2026-01-07-3",
@@ -6851,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-10",
         "published_date": "Thu, 05 Feb 2026 15:59:00 GMT",
         "first_seen": "2026-02-05T08:45:28.303762"
+      },
+      "c3bd728988e6f29a49a2500910e49c12c16634cd452b5466d45b384b08f458b4": {
+        "title": "英伟达Jim Fan：「世界建模」是新一代预训练范式",
+        "link": "https://www.qbitai.com/2026/02/376731.html",
+        "published_date": "Thu, 05 Feb 2026 15:23:00 GMT",
+        "first_seen": "2026-02-05T23:26:07.428673"
+      },
+      "186d9787f7fb391504a34660ce5d19c1a478aac190e22488f5dbc22a27363170": {
+        "title": "邓明扬一作论文改写生成范式！何恺明也署名了",
+        "link": "https://www.qbitai.com/2026/02/376752.html",
+        "published_date": "Thu, 05 Feb 2026 15:26:00 GMT",
+        "first_seen": "2026-02-05T23:26:07.428679"
+      },
+      "cd7fb2b0068405234f955f2f2ade1f339fb8fb59852fdee1b639ccf976c55fa5": {
+        "title": "陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛",
+        "link": "https://www.qbitai.com/2026/02/376636.html",
+        "published_date": "Thu, 05 Feb 2026 14:48:00 GMT",
+        "first_seen": "2026-02-05T23:26:07.428681"
+      },
+      "27bc93a356a0574dc8a2980508a51dc0e60709a2c035bb8bf744227a08ed26e1": {
+        "title": "面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答",
+        "link": "https://www.qbitai.com/2026/02/376714.html",
+        "published_date": "Thu, 05 Feb 2026 15:19:00 GMT",
+        "first_seen": "2026-02-05T23:26:07.428683"
+      },
+      "aa4e2f193b059b653dc5da4a0065c4fedb0ef4c37925cbff07784c6c62c12ee7": {
+        "title": "众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-12",
+        "published_date": "Thu, 05 Feb 2026 21:26:00 GMT",
+        "first_seen": "2026-02-05T23:26:07.428684"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-05T08:45:53.625264",
-    "Finance": "2026-02-05T06:23:47.979789",
-    "Ai": "2026-02-05T08:45:28.303765"
+    "Technology": "2026-02-05T23:26:29.277441",
+    "Finance": "2026-02-05T23:25:52.830061",
+    "Ai": "2026-02-05T23:26:07.428687"
   }
 }

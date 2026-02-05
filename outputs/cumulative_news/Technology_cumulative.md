@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 08:45
+**最后更新时间**: 2026-02-05 23:25
+
+---
+
+## 🆕 最新更新 (2026-02-05 23:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一边亏损一边溢价囤矿，盛新锂能终全资拿下木绒锂矿｜并购一线](https://www.tmtpost.com/7868275.html)
+**发布时间**: 2026-02-05 21:03
+
+#### [与起点官方吵架、在番茄同AI竞争，网文作者的新流量困局](https://www.tmtpost.com/7867991.html)
+**发布时间**: 2026-02-05 19:32
+
+#### [白酒再起](https://www.tmtpost.com/7867341.html)
+**发布时间**: 2026-02-05 19:32
+
+#### [白酒一根阳线底部拉起，茅台回归C位，“老登股”的春天要来了吗？](https://www.tmtpost.com/7868074.html)
+**发布时间**: 2026-02-05 19:31
+
+#### [从马斯克到李想，车圈开始流行“不务正业”](https://www.tmtpost.com/7868048.html)
+**发布时间**: 2026-02-05 19:30
+
+#### [智能与性能并重，过去一年中国车的底盘逆袭了吗？](https://www.tmtpost.com/7867406.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [短剧风暴中，被「催熟」的孩子们](https://www.tmtpost.com/7868060.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [对腾讯AI的几个设想](https://www.tmtpost.com/7867424.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [Moltbook和元宝派，两场乱中求变的AI社交实验](https://www.tmtpost.com/7867864.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [互联网大厂布局漫剧野心：3倍速出片，3个人干50人的活](https://www.tmtpost.com/7868049.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [美团拟吞并叮咚:抄底良机,还是资本豪赌?](https://www.tmtpost.com/7868099.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [内容不敌手搓？产量全靠人肝？AI漫剧终成“劳动密集型”](https://www.tmtpost.com/7868090.html)
+**发布时间**: 2026-02-05 19:29
+
+#### [锐新科技易主半年谋并购：停牌前股价大涨，标的现突击入股｜并购一线](https://www.tmtpost.com/7868087.html)
+**发布时间**: 2026-02-05 19:14
+
+#### [智洋创新收购激光雷达明星标的：博士天团掌舵、明星资本扎堆，却陷知识产权互诉｜并购一线](https://www.tmtpost.com/7867972.html)
+**发布时间**: 2026-02-05 19:05
+
+#### [峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态](https://www.tmtpost.com/7868080.html)
+**发布时间**: 2026-02-05 18:50
+
+#### [硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈](https://www.tmtpost.com/7867966.html)
+**发布时间**: 2026-02-05 18:25
+
+#### [单价上千的新型数据外包，正在围猎985毕业生](https://www.tmtpost.com/7867658.html)
+**发布时间**: 2026-02-05 18:03
+
+#### [Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares](https://www.tmtpost.com/7867924.html)
+**发布时间**: 2026-02-05 17:34
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划](http://www.huxiu.com/article/4832706.html?f=wangzhan)
+**发布时间**: 2026-02-05 20:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜](https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 18:33
+
+#### [贾跃亭发布人形机器人，最贵的24.3万元起](https://www.infoq.cn/article/UxDUwslAmY7V2IB4u0rT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 18:24
+
+#### [谁写的代码谁负责！Cursor 发布 Agent Trace：从此 Bug 别想再推给 AI](https://www.infoq.cn/article/AGkTiCi5OlEABJQpfhI2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 16:59
+
+#### [Cloudflare的Matrix家庭服务器演示引发了关于AI生成代码的争论](https://www.infoq.cn/article/qspJxiaVYpj6HOQVGWpO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-05 16:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 235｜少数派的编辑们最近买了啥？](https://sspai.com/post/106090)
+**发布时间**: 2026-02-05 17:15
 
 ---
 
