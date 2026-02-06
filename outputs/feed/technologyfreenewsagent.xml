@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Feb 2026 23:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 23:26:29 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 05:54:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 05:55:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜</title>
-      <link>https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI开始发布关于Codex CLI内部机制的系列文章</title>
+      <link>https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI开始发布关于Codex CLI内部机制的系列文章]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares</title>
-      <link>https://www.tmtpost.com/7867924.html</link>
-      <description>&lt;![CDATA[Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867924.html</guid>
+      <title>当 AI 开始写 80% 的代码，架构才是真正的护城河</title>
+      <link>https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 AI 开始写 80% 的代码，架构才是真正的护城河]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态</title>
-      <link>https://www.tmtpost.com/7868080.html</link>
-      <description>&lt;![CDATA[峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7868080.html</guid>
+      <title>商业航天的终极竞争，是成本控制还是商业生态构建？</title>
+      <link>https://www.tmtpost.com/7867779.html</link>
+      <description>&lt;![CDATA[商业航天的终极竞争，是成本控制还是商业生态构建？]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7867779.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划</title>
-      <link>http://www.huxiu.com/article/4832706.html?f=wangzhan</link>
-      <description>&lt;![CDATA[100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4832706.html?f=wangzhan</guid>
+      <title>从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？</title>
+      <link>https://www.tmtpost.com/7867888.html</link>
+      <description>&lt;![CDATA[从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7867888.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈</title>
-      <link>https://www.tmtpost.com/7867966.html</link>
-      <description>&lt;![CDATA[硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867966.html</guid>
+      <title>Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！</title>
+      <link>https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

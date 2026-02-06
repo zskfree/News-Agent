@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 23:25
+**最后更新时间**: 2026-02-06 05:54
+
+---
+
+## 🆕 最新更新 (2026-02-06 05:54)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [别再手动拼凑 Data Pipeline 了！这个新平台想让你彻底告别 Iceberg 运维噩梦](https://www.infoq.cn/article/io7H7PDc3ka8dTKOEfQk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 13:02
+
+#### [Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！](https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 10:19
+
+#### [“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了](https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 10:11
+
+#### [当 AI 开始写 80% 的代码，架构才是真正的护城河](https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 09:44
+
+#### [OpenAI开始发布关于Codex CLI内部机制的系列文章](https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 09:06
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科技世界中，被遗忘的班加罗尔](https://www.tmtpost.com/7868302.html)
+**发布时间**: 2026-02-06 12:58
+
+#### [光伏得道，ST升天](https://www.tmtpost.com/7867926.html)
+**发布时间**: 2026-02-06 12:58
+
+#### [10亿美元暗度陈仓，王兴真着急了](https://www.tmtpost.com/7868433.html)
+**发布时间**: 2026-02-06 12:58
+
+#### [正面对决lululemon，安踏“少帅”丁少翔的最难一役](https://www.tmtpost.com/7868256.html)
+**发布时间**: 2026-02-06 12:23
+
+#### [CEO上任两月失联，百亿商超被“打脸”？](https://www.tmtpost.com/7868308.html)
+**发布时间**: 2026-02-06 12:23
+
+#### [库迪终止9.9元价格战，咖啡低价策略不香了？](https://www.tmtpost.com/7868958.html)
+**发布时间**: 2026-02-06 11:54
+
+#### [百胜中国门店数已达1.8万家，外卖占餐厅收入 48%](https://www.tmtpost.com/7868951.html)
+**发布时间**: 2026-02-06 11:53
+
+#### [今年第一个民营诊所IPO诞生：系北大校友联手创业，获腾讯重押](https://www.tmtpost.com/7868666.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [商业航天的终极竞争，是成本控制还是商业生态构建？](https://www.tmtpost.com/7867779.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [2025年AI期末考试，谷歌又考了全年级第一](https://www.tmtpost.com/7868828.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [“药王”大变局](https://www.tmtpost.com/7868760.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？](https://www.tmtpost.com/7867888.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [腾讯“内讧”？微信封杀元宝红包](https://www.tmtpost.com/7868218.html)
+**发布时间**: 2026-02-06 11:49
+
+#### [“港人北上”，住爆深圳酒店](https://www.tmtpost.com/7868653.html)
+**发布时间**: 2026-02-06 10:27
+
+#### [叮咚上岸，美团清场](https://www.tmtpost.com/7868697.html)
+**发布时间**: 2026-02-06 10:27
+
+#### [千问30亿免单止于微信封禁](https://www.tmtpost.com/7868694.html)
+**发布时间**: 2026-02-06 10:05
+
+#### [叮咚买菜终于摆脱“被收购中”](https://www.tmtpost.com/7868103.html)
+**发布时间**: 2026-02-06 09:59
+
+#### [有色金属整体回调 但铜、铝可能迎来了“上车”良机](https://www.tmtpost.com/7868562.html)
+**发布时间**: 2026-02-06 09:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线](https://sspai.com/post/106081)
+**发布时间**: 2026-02-06 11:30
+
+#### [派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等](https://sspai.com/post/106113)
+**发布时间**: 2026-02-06 08:50
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特朗普急喊爱泼斯坦案“翻篇”？350万页文件藏着什么秘密？](http://www.huxiu.com/article/4832806.html?f=wangzhan)
+**发布时间**: 2026-02-06 10:05
 
 ---
 

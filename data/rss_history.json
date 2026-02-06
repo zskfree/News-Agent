@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "146bf63832b797bd9f063b6d901bdd95eb71c9df87aa10b0c1f8e3159edaf8bc": {
-        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
-        "link": "https://www.tmtpost.com/7833373.html",
-        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006932"
-      },
-      "6a8c1c0c3bab4ea6a62d913a2107f2b1243b37301d1fed03a166616848b83531": {
-        "title": "曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”",
-        "link": "https://www.tmtpost.com/7832911.html",
-        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006938"
-      },
-      "5def0d5012c5024c96fdea4f41531e4d00aa6f1871205221fd6e62849015f6f5": {
-        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
-        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006940"
-      },
-      "54370e1904c4585eee8afab6509773fda554212565229ded3ce7d6eec4ed245f": {
-        "title": "算力稀缺时代，如何把 GPU 用“满”",
-        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006942"
-      },
-      "78a78df1f1b74e3d7fc8875177d617e969d14174bb5ee1ba5f70eeba96957d6f": {
-        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
-        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006943"
-      },
       "98b524cc343cb4c5e9d03d2bb6487ac9baed280b1dea875ce595dddc25ff0d33": {
         "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
         "link": "https://www.tmtpost.com/7833395.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7867966.html",
         "published_date": "Thu, 05 Feb 2026 18:25:00 GMT",
         "first_seen": "2026-02-05T23:26:29.277439"
+      },
+      "7bec474911149b211cfb375e41edb3029971d1fa0b7d533c9756149dd01f621b": {
+        "title": "OpenAI开始发布关于Codex CLI内部机制的系列文章",
+        "link": "https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 09:06:00 GMT",
+        "first_seen": "2026-02-06T05:55:41.911757"
+      },
+      "9fa01d46e9495d42359d9ba246d6c85c9b1e8c27d5f28ade56404e8cb850500b": {
+        "title": "当 AI 开始写 80% 的代码，架构才是真正的护城河",
+        "link": "https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 09:44:00 GMT",
+        "first_seen": "2026-02-06T05:55:41.911764"
+      },
+      "04a053de229be1bb2a537999135204c33212f797288b3df2056d6dd42f4c1ab3": {
+        "title": "商业航天的终极竞争，是成本控制还是商业生态构建？",
+        "link": "https://www.tmtpost.com/7867779.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:55:41.911766"
+      },
+      "d45a83d77830703471bab07c585cf99212349b66660460a86f973b3ef0478314": {
+        "title": "从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？",
+        "link": "https://www.tmtpost.com/7867888.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:55:41.911767"
+      },
+      "19d7c5618f952a88fc73b02bdc6a09610b5fc585c6313d5ce136ec73c1aff9bc": {
+        "title": "Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！",
+        "link": "https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 10:19:00 GMT",
+        "first_seen": "2026-02-06T05:55:41.911769"
       }
     },
     "Finance": {
-      "17dea2b432956a664e9a85b38e2032d523dcab136dd1d9fd1b388952345205e2": {
-        "title": "Don’t be fooled — everything has changed for the global economy",
-        "link": "https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057826"
-      },
-      "307adcc7a1919e7ecd29e5b32c81953d2f856d37edac4683288afef572a1bed4": {
-        "title": "Hedge funds hunt for Venezuela’s unpaid financial claims",
-        "link": "https://www.ft.com/content/2c04228d-2f2b-49d7-bbed-974053e285b9",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057834"
-      },
-      "5541609d408c4e4d9a0ba79f065d0bc6b84d92c8d549aab7a4bd1304319b527c": {
-        "title": "Businesses say Britain’s ‘jam tomorrow’ energy plans threaten their survival",
-        "link": "https://www.ft.com/content/26cdb6b8-b305-402d-a9b3-4dc133621b80",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057837"
-      },
-      "0090b6c7f137323554f059c4baf265919ba18b8785bb7a24e1d3790d91e39ee3": {
-        "title": "Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds",
-        "link": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
-        "published_date": "Wed, 07 Jan 2026 01:33:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057839"
-      },
-      "a1cf38bf3631625eaa6bbaece8f147639750159a72d9ee0ee86c7927ab351b44": {
-        "title": "Watch out for America’s activist attorneys-general",
-        "link": "https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057841"
-      },
       "eb6fccd45d649f63db9c8254d9c53e7435e4a250efb74f2dccb269bc59a9d080": {
         "title": "Trump says Venezuela will turn over oil to US",
         "link": "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c",
@@ -4605,39 +4575,39 @@
         "link": "https://www.ft.com/content/0d6f19fe-9bf7-464a-8e4f-b3bdd62634e8",
         "published_date": "Thu, 05 Feb 2026 21:25:00 GMT",
         "first_seen": "2026-02-05T23:25:52.830059"
+      },
+      "9b8edd00fc97a954251d5982b9bc832b3f44f384f4061102fc3c0dde7edbd29a": {
+        "title": "Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears",
+        "link": "https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd",
+        "published_date": "Fri, 06 Feb 2026 02:56:00 GMT",
+        "first_seen": "2026-02-06T05:55:05.472627"
+      },
+      "95dbfb58969f36245fa0cebd371eef26d0df8e2fdc1fa59db2cea1a58c68b9fa": {
+        "title": "Bitcoin swings wildly after worst day for the pioneering crypto since FTX collapse",
+        "link": "https://www.marketwatch.com/story/the-bitcoin-selloff-is-deepening-after-worst-day-for-the-pioneering-crypto-since-ftx-collapse-dae49846?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Feb 2026 02:06:00 GMT",
+        "first_seen": "2026-02-06T05:55:05.472639"
+      },
+      "2548a8d6e7647868e92a0d09dc38174c6d66ad5073d273921dc7895163d85b12": {
+        "title": "KPMG pressed its auditor to pass on AI cost savings",
+        "link": "https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:55:05.472642"
+      },
+      "624e82c5068a551363dd5edce41d7d09ec76cc842757d0fc052e43cbfb8895e4": {
+        "title": "Inside Jeffrey Epstein’s social Ponzi scheme",
+        "link": "https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:55:05.472643"
+      },
+      "161eff87d51d847eb582c7660d9dac6763752375efa045a9f9d920a038dc6029": {
+        "title": "Toyota replaces chief executive",
+        "link": "https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed",
+        "published_date": "Fri, 06 Feb 2026 05:28:00 GMT",
+        "first_seen": "2026-02-06T05:55:05.472645"
       }
     },
     "Ai": {
-      "c39f36070b5729fccf5688f139b6400c93a29537c5fc2b524f8e182521047a42": {
-        "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-3",
-        "published_date": "Wed, 07 Jan 2026 13:23:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621356"
-      },
-      "1987a647d4f6fcf16e40788c3aa1fc68d9bb0f9c4e03484c911e7faa72728147": {
-        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
-        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621362"
-      },
-      "261b27f519c9acf10e2e2e6e8893280acdc029229a0a749da2ac7abf804f4bb0": {
-        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
-        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621364"
-      },
-      "65294c233b7818207c72038f18c52a7f1320613dc603a2dd7620581107f58b83": {
-        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
-        "link": "https://www.qbitai.com/2026/01/367175.html",
-        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621366"
-      },
-      "46788e6835d8beb28f55684eb6b5000da030dd0895b5538dbb0e8a6a45911a93": {
-        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
-        "link": "https://www.qbitai.com/2026/01/367171.html",
-        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621367"
-      },
       "f4c85b9600d647bb4bda095c233ab0498a2db0b676aab7cf33ff52c7ccf605ef": {
         "title": "重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0",
         "link": "https://www.jiqizhixin.com/articles/2026-01-07-8",
@@ -6851,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-12",
         "published_date": "Thu, 05 Feb 2026 21:26:00 GMT",
         "first_seen": "2026-02-05T23:26:07.428684"
+      },
+      "c011a9ef29f0a7df7314d42a834ea8a4f9c66269b1a6f838448a7704187a39a1": {
+        "title": "硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06",
+        "published_date": "Fri, 06 Feb 2026 09:39:00 GMT",
+        "first_seen": "2026-02-06T05:55:22.088737"
+      },
+      "359c4fba8ced3ce190aaa1fbe19e3f851295e39814f48ebf79b64fc722a04ad6": {
+        "title": "Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-2",
+        "published_date": "Fri, 06 Feb 2026 10:16:00 GMT",
+        "first_seen": "2026-02-06T05:55:22.088745"
+      },
+      "49f062d09d5fd0e836eb2824d5dda23879da9438b5d402255bab4c9b19d5a19f": {
+        "title": "Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-3",
+        "published_date": "Fri, 06 Feb 2026 10:29:00 GMT",
+        "first_seen": "2026-02-06T05:55:22.088749"
+      },
+      "e785e0894b601bc2ca2028a9be16b96a2a85fb105ce3e3c379e9a13f6d6fe971": {
+        "title": "AgentDoG：为AI智能体戴上「诊断项圈」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-5",
+        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
+        "first_seen": "2026-02-06T05:55:22.088753"
+      },
+      "6c24f9d33fbacb6bfcb2ad0bdf11e0047dd961a2a51320e4824fc93f94f68fb3": {
+        "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-7",
+        "published_date": "Fri, 06 Feb 2026 13:09:00 GMT",
+        "first_seen": "2026-02-06T05:55:22.088756"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-05T23:26:29.277441",
-    "Finance": "2026-02-05T23:25:52.830061",
-    "Ai": "2026-02-05T23:26:07.428687"
+    "Technology": "2026-02-06T05:55:41.911771",
+    "Finance": "2026-02-06T05:55:05.472647",
+    "Ai": "2026-02-06T05:55:22.088760"
   }
 }

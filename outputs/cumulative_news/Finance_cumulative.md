@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 23:25
+**最后更新时间**: 2026-02-06 05:54
+
+---
+
+## 🆕 最新更新 (2026-02-06 05:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Toyota replaces chief executive](https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed)
+**发布时间**: 2026-02-06 05:28
+
+#### [Inside Jeffrey Epstein’s social Ponzi scheme](https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82)
+**发布时间**: 2026-02-06 05:00
+
+#### [Trump and the normalisation of deviance](https://www.ft.com/content/35adacb7-7881-4d99-a6b4-d6f2e81c901a)
+**发布时间**: 2026-02-06 05:00
+
+#### [KPMG pressed its auditor to pass on AI cost savings](https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d)
+**发布时间**: 2026-02-06 05:00
+
+#### [Trump’s policies dent international travel to US in blow to tourism sector](https://www.ft.com/content/8f6d4196-6f61-4be9-8cb7-1d93253e4e8b)
+**发布时间**: 2026-02-06 05:00
+
+#### [Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears](https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd)
+**发布时间**: 2026-02-06 02:56
+
+#### [US government to fund Maga-aligned think-tanks and charities in Europe](https://www.ft.com/content/f8696da1-5fe6-4218-be9c-5309bd9a6ae5)
+**发布时间**: 2026-02-05 23:37
+
+#### [Amazon shares sink as it prepares $200bn AI spending blitz](https://www.ft.com/content/a1bd22ec-42cf-46dc-9ff7-ec8a2a89a534)
+**发布时间**: 2026-02-05 22:03
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Explain this financial paradox to me like I’m 16. Why would I, or anyone, lease a car?](https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 03:10
+
+#### [‘I love being debt-free’: I’m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?](https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 02:44
+
+#### [My brother refuses to sell our family’s $150K lake house, yet I pay all the bills. Do I push it and risk ruining our relationship?](https://www.marketwatch.com/story/my-brother-a-corporate-lawyer-refuses-to-sell-our-familys-175k-lake-house-do-i-push-the-issue-and-risk-ruining-our-relationship-e8aaa64a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 02:40
+
+#### [Bitcoin swings wildly after worst day for the pioneering crypto since FTX collapse](https://www.marketwatch.com/story/the-bitcoin-selloff-is-deepening-after-worst-day-for-the-pioneering-crypto-since-ftx-collapse-dae49846?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 02:06
+
+#### [I’m 59, earning six figures, but my daughter wants me to retire to watch my future grandkid for a year. Can I afford it?](https://www.marketwatch.com/story/im-59-earning-six-figures-but-my-daughter-wants-me-to-retire-to-watch-my-future-grandkid-for-a-year-can-i-afford-it-a9dc31e8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 00:58
+
+#### [This investing strategy offers higher odds of success with fewer sleepless nights](https://www.marketwatch.com/story/this-investing-strategy-offers-higher-odds-of-success-with-fewer-sleepless-nights-b25737bf?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 00:45
+
+#### [TrumpRx is here. This is why it won’t lower drug prices for most Americans.](https://www.marketwatch.com/story/trumprxs-launch-is-hours-away-heres-why-it-may-not-lower-drug-prices-for-most-americans-9d398952?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 00:22
 
 ---
 
