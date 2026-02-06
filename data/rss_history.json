@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d78cc2c41ce22f1166c7675334989ad6e3f503fadc12bbd32bf4361e2ef7c12b": {
-        "title": "黄仁勋定调，“物理AI”吹响号角",
-        "link": "https://www.tmtpost.com/7834282.html",
-        "published_date": "Wed, 07 Jan 2026 19:35:00 GMT",
-        "first_seen": "2026-01-07T23:23:22.982994"
-      },
-      "8b58566b3df48af72b828a2c8dfffff6e2d3d8b4fee80e11537d3ff61e9ae986": {
-        "title": "英伟达加速生产H200，黄仁勋CES放话：“要回中国了”",
-        "link": "https://www.tmtpost.com/7833221.html",
-        "published_date": "Wed, 07 Jan 2026 09:21:00 GMT",
-        "first_seen": "2026-01-07T23:23:22.983001"
-      },
-      "4c818ad470d189f76a4bd1e39b2ce950f20b1d615aff5b3a42aecf4fbd497182": {
-        "title": "20亿美元豪掷中国AI团队！Meta的“闪电收购”，暴露了硅谷AI的集体焦虑",
-        "link": "https://www.tmtpost.com/7834258.html",
-        "published_date": "Wed, 07 Jan 2026 19:28:00 GMT",
-        "first_seen": "2026-01-07T23:23:22.983003"
-      },
-      "ddd3c198c58b2684cbff47c9cfcca6a73a839cc5249259f047c51c7a86361c37": {
-        "title": "玻璃基板：AI存储未来几年最大的预期差之一",
-        "link": "https://www.tmtpost.com/7833453.html",
-        "published_date": "Wed, 07 Jan 2026 19:35:00 GMT",
-        "first_seen": "2026-01-07T23:23:22.983005"
-      },
-      "d484562ff0dd79949140d63609cc73fc61d794a2bd0bf51a53250d996bc960bd": {
-        "title": "国家队重注，押出普惠算力“中国答案”",
-        "link": "https://www.tmtpost.com/7832967.html",
-        "published_date": "Wed, 07 Jan 2026 19:42:00 GMT",
-        "first_seen": "2026-01-07T23:23:22.983006"
-      },
       "1dd7a9448ed5f1d037784b8e59894f6f16e1ff92dfa35fb089fe35a71a51b23d": {
         "title": "陈天桥携MiroThinker 1.5开年登场：跑赢万亿模型，实现小模型大智能",
         "link": "https://www.tmtpost.com/7833615.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7868781.html",
         "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
         "first_seen": "2026-02-06T08:45:02.065191"
+      },
+      "71391e6006cac1e23f2788b572ab38d960dd7e31bf12d532066b6e792e3c8344": {
+        "title": "李飞飞的反共识判断：大语言模型无法通往AGI，空间智能才是最优路径",
+        "link": "https://www.tmtpost.com/7868432.html",
+        "published_date": "Fri, 06 Feb 2026 18:02:00 GMT",
+        "first_seen": "2026-02-06T23:29:07.604663"
+      },
+      "1bef17f34c9ce63cb2fa5e34bf4d7c1e5e16fda97ed45b76ff82df29b4b302e1": {
+        "title": "键盘长草，编程已死，agentic engineering时代已至",
+        "link": "https://www.tmtpost.com/7869075.html",
+        "published_date": "Fri, 06 Feb 2026 23:16:00 GMT",
+        "first_seen": "2026-02-06T23:29:07.604669"
+      },
+      "0c1feeed5dbb1484df62f16a9e0f71c27731121553d48bf8449064b228ca0d20": {
+        "title": "“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了",
+        "link": "https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 10:11:00 GMT",
+        "first_seen": "2026-02-06T23:29:07.604671"
+      },
+      "91c9a36c9aa39ff5e455dac8913cdf5887bf2eab1e79d3ecc81784ca9b9ed8ea": {
+        "title": "从质疑到追捧，AI制药成果落地加速",
+        "link": "https://www.tmtpost.com/7866861.html",
+        "published_date": "Fri, 06 Feb 2026 18:03:00 GMT",
+        "first_seen": "2026-02-06T23:29:07.604673"
+      },
+      "1fddb0299318db079c78e9d74108ac851ae387b391aa1a1f85af7c0591ad46e0": {
+        "title": "美团 7.17 亿美元全资收购叮咚买菜 为2026即时零售大战先行布局",
+        "link": "https://www.tmtpost.com/7869712.html",
+        "published_date": "Fri, 06 Feb 2026 19:12:00 GMT",
+        "first_seen": "2026-02-06T23:29:07.604675"
       }
     },
     "Finance": {
-      "70e0ca921c3c692ddd27a36524fb6fbe6ab9745f11106a881a0c242445da3d33": {
-        "title": "JPMorgan to take over Apple’s $20bn credit card portfolio from Goldman Sachs",
-        "link": "https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7",
-        "published_date": "Wed, 07 Jan 2026 22:18:00 GMT",
-        "first_seen": "2026-01-07T23:22:44.727370"
-      },
-      "ab810387f7052cb96246400d0951048524604dc00659e25e0f2b2eec3cb7f6bd": {
-        "title": "AI investment won’t pay off unless employees can do the work it demands",
-        "link": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
-        "published_date": "Wed, 07 Jan 2026 22:04:00 GMT",
-        "first_seen": "2026-01-07T23:22:44.727379"
-      },
-      "f33cab9950bdbcc8a321d6c72a0c116d96c7d6f90c9ebb98f668724e2865baf4": {
-        "title": "Why Trump banning institutional investors like Blackstone from buying homes won’t bring down housing costs, according to experts",
-        "link": "https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories",
-        "published_date": "Wed, 07 Jan 2026 22:53:00 GMT",
-        "first_seen": "2026-01-07T23:22:44.727382"
-      },
-      "e9bb4f2839141a9713354e5dbbcf0db9c213fc6d284fe1b94e48725d59576156": {
-        "title": "Investors are waiting on Friday’s jobs numbers. They should be more worried about this other labor report.",
-        "link": "https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories",
-        "published_date": "Wed, 07 Jan 2026 22:00:00 GMT",
-        "first_seen": "2026-01-07T23:22:44.727384"
-      },
-      "6696568611c725f09ad5326f420c49dbd4572416801fe3d6fa07f8fd32d63e28": {
-        "title": "Washington seeks to control sales of Venezuelan oil ‘indefinitely’",
-        "link": "https://www.ft.com/content/5b8af100-ca3c-41fb-a2ca-5eb04d504438",
-        "published_date": "Wed, 07 Jan 2026 22:41:00 GMT",
-        "first_seen": "2026-01-07T23:22:44.727386"
-      },
       "bff9aa3ad3fbc28eff6a91cfea7aef8a07b7907316a4cc987b55d2f13fbc00d3": {
         "title": "Lockheed and Northrop shares dive as Trump says he’ll ‘not permit’ dividends and buybacks in defense sector",
         "link": "https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories",
@@ -4605,39 +4575,39 @@
         "link": "https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4",
         "published_date": "Fri, 06 Feb 2026 08:30:00 GMT",
         "first_seen": "2026-02-06T08:44:05.163803"
+      },
+      "73fb456c1dce406f414c95b81aabef30e153798025882906270ed09f782118e9": {
+        "title": "This little-noticed bond-market development could put many borrowers on edge",
+        "link": "https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Feb 2026 21:01:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.112709"
+      },
+      "c5f35e22076104278c6e4323dfd272b1f202aa775d0451d5b3a562100f0b7ca5": {
+        "title": "US launches antitrust review of $83bn Netflix deal for Warner Bros",
+        "link": "https://www.ft.com/content/fc91a7db-f99f-4f26-81ca-3be78bfa4ce4",
+        "published_date": "Fri, 06 Feb 2026 23:06:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.112721"
+      },
+      "1d3ff60508ae45bca7451879f6c8d6a4634accc3da082c11637278e754b327f7": {
+        "title": "After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
+        "link": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Feb 2026 21:00:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.112725"
+      },
+      "d69dce58e15b6a51f6e0366833bc2655d951339d9d79ad97b7f4c2072cb640f4": {
+        "title": "Anthropic’s breakout moment: how Claude cracked AI for business",
+        "link": "https://www.ft.com/content/a75555a6-24c3-4468-aba9-7fe12b5def31",
+        "published_date": "Fri, 06 Feb 2026 21:00:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.112727"
+      },
+      "88fe2a8f89a67ce04cdd8c2b614f058d748c752ebd5a61c153f586a2b35ee507": {
+        "title": "Oil markets are on edge over elevated risks of a U.S. military strike against Iran this weekend",
+        "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Feb 2026 20:57:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.112729"
       }
     },
     "Ai": {
-      "318681eea635e4b1079858a99301e5635b1065d5f6e8c84ccbd816962d73c7ea": {
-        "title": "分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-9",
-        "published_date": "Wed, 07 Jan 2026 16:34:00 GMT",
-        "first_seen": "2026-01-07T23:22:55.906002"
-      },
-      "6b0adcc32a04a5acce9c76c89c11b6e6580db036516f3a6571fdfc57e474429f": {
-        "title": "NVIDIA 发布全新物理 AI 模型，全球合作伙伴展示新一代机器人",
-        "link": "https://www.qbitai.com/2026/01/367308.html",
-        "published_date": "Wed, 07 Jan 2026 09:25:00 GMT",
-        "first_seen": "2026-01-07T23:22:55.906008"
-      },
-      "33249db453aa4c01487797509914a7a73d9f8ca2f01578969c571fb5eff895f8": {
-        "title": "Mobileye砸63亿杀入具身智能！百辆Robotaxi今年Q3进美国",
-        "link": "https://www.qbitai.com/2026/01/367284.html",
-        "published_date": "Wed, 07 Jan 2026 09:15:00 GMT",
-        "first_seen": "2026-01-07T23:22:55.906011"
-      },
-      "adb7279da9b96e0235754402788787ec995581c858221ed586d59e9a73f2ab79": {
-        "title": "从过拟合到通用！ViMoGen开启3D人体动作生成新纪元",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-11",
-        "published_date": "Wed, 07 Jan 2026 17:43:00 GMT",
-        "first_seen": "2026-01-07T23:22:55.906013"
-      },
-      "bf9a628e3537f98c8aec3bbdec8c8219fd2f178f006d949a43a61e0575d19206": {
-        "title": "OpenAI前CTO首个创业产品Tinker，这里全量升级开放了，还有羊毛可薅",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-5",
-        "published_date": "Wed, 07 Jan 2026 13:40:00 GMT",
-        "first_seen": "2026-01-07T23:22:55.906014"
-      },
       "99100911a140481541252b97203635d321c5ee0826cf7c760c73858247fcc120": {
         "title": "OpenAI发布ChatGPT新功能，专为健康打造的个人服务体验",
         "link": "https://www.jiqizhixin.com/articles/2026-01-08-4",
@@ -6851,13 +6821,37 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-06-4",
         "published_date": "Fri, 06 Feb 2026 10:39:00 GMT",
         "first_seen": "2026-02-06T08:44:22.646319"
+      },
+      "e0c1dc995b0bcdc8a1bca5db4fa4aed476d13c6ba86767cb929a79d9117a462f": {
+        "title": "全国最大国产AI算力池来了：部署超3万卡，上千款应用接入",
+        "link": "https://www.qbitai.com/2026/02/377523.html",
+        "published_date": "Fri, 06 Feb 2026 10:14:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.266706"
+      },
+      "c7f7ddfa1aea5c1e59a9dc18b4db48837cef618bdae01b2ee009cbaa76a98e55": {
+        "title": "中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资",
+        "link": "https://www.qbitai.com/2026/02/377518.html",
+        "published_date": "Fri, 06 Feb 2026 08:49:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.266714"
+      },
+      "7b8692d0e56ff450ff66911ade87b699ca68754810608f0f28afc1c2962e36c6": {
+        "title": "春节30亿免单火爆登场，千问APP冲到App Store第一名",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-9",
+        "published_date": "Fri, 06 Feb 2026 14:29:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.266716"
+      },
+      "accfdd140d87d968c5bf01e228072e55bff0ce09c23e18dbe7a57e2f91dc3ede": {
+        "title": "AI卖广告，吵到了超级碗：全球网友围观奥特曼破防",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-6",
+        "published_date": "Fri, 06 Feb 2026 13:04:00 GMT",
+        "first_seen": "2026-02-06T23:28:48.266717"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-06T08:45:02.065193",
-    "Finance": "2026-02-06T08:44:05.163809",
-    "Ai": "2026-02-06T08:44:22.646321"
+    "Technology": "2026-02-06T23:29:07.604677",
+    "Finance": "2026-02-06T23:28:48.112731",
+    "Ai": "2026-02-06T23:28:48.266720"
   }
 }

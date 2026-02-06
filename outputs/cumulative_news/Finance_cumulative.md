@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 08:44
+**最后更新时间**: 2026-02-06 23:28
+
+---
+
+## 🆕 最新更新 (2026-02-06 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hims & Hers stock closes at one-year low amid battle over compounded Wegovy pill](https://www.marketwatch.com/story/hims-hers-stock-nears-one-year-low-amid-battle-over-compounded-wegovy-pill-66ddcdb7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 23:16
+
+#### [Dow closes above 50,000 for first time to wrap rough week for U.S. stock market](https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 22:08
+
+#### [Tesla’s stock rallies to recover some of its losses this week](https://www.marketwatch.com/story/teslas-stock-rallies-to-end-a-rough-week-c1f1d5e5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 21:18
+
+#### [This little-noticed bond-market development could put many borrowers on edge](https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 21:01
+
+#### [After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto](https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 21:00
+
+#### [Oil markets are on edge over elevated risks of a U.S. military strike against Iran this weekend](https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 20:57
+
+#### [‘Guests tell me I have dust bunnies’: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?](https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 20:15
+
+#### [NFL heads into Super Bowl after season of record ratings, paving way for TV-rights bonanza](https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-06 19:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches antitrust review of $83bn Netflix deal for Warner Bros](https://www.ft.com/content/fc91a7db-f99f-4f26-81ca-3be78bfa4ce4)
+**发布时间**: 2026-02-06 23:06
+
+#### [China warns US arms sales to Taiwan could threaten Trump visit](https://www.ft.com/content/06e27fb5-bc9e-4b3d-ac20-7b54757e044e)
+**发布时间**: 2026-02-06 22:44
+
+#### [Anthropic’s breakout moment: how Claude cracked AI for business](https://www.ft.com/content/a75555a6-24c3-4468-aba9-7fe12b5def31)
+**发布时间**: 2026-02-06 21:00
+
+#### [DP World boss emailed Epstein about sexual experiences](https://www.ft.com/content/d8f95644-b2d2-48d4-8027-7b1e2ac0e59d)
+**发布时间**: 2026-02-06 19:49
+
+#### [Starmer camp warns leadership challenge risks economic chaos](https://www.ft.com/content/c855761d-99fb-4fbf-9bec-3270d6439e76)
+**发布时间**: 2026-02-06 19:30
+
+#### [Police search Peter Mandelson’s homes as part of misconduct probe](https://www.ft.com/content/844d2276-c565-4171-b7b1-32be743428e3)
+**发布时间**: 2026-02-06 19:08
+
+#### [Trump removes racist post about Obamas after fierce backlash](https://www.ft.com/content/4c5e7b46-7d6d-4edc-af45-981ee74ccf33)
+**发布时间**: 2026-02-06 18:49
+
+#### [Hesitation from leadership rivals keeps Starmer in Downing Street for now](https://www.ft.com/content/0652f177-53b6-403b-8523-84549e21ea66)
+**发布时间**: 2026-02-06 18:42
+
+#### [Funding the Muskverse will require ever more audacious moves](https://www.ft.com/content/282c3faa-f0ab-4a9f-b6f7-698c6baab6ae)
+**发布时间**: 2026-02-06 15:50
+
+#### [Epstein propelled investment career of UK power broker Ian Osborne](https://www.ft.com/content/8b040e4d-c22d-4881-997c-a2d065d610a8)
+**发布时间**: 2026-02-06 15:49
 
 ---
 

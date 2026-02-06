@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 08:44:22 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 23:28:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-8</link>
-      <description>&lt;![CDATA[如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-8</guid>
+      <title>全国最大国产AI算力池来了：部署超3万卡，上千款应用接入</title>
+      <link>https://www.qbitai.com/2026/02/377523.html</link>
+      <description>&lt;![CDATA[全国最大国产AI算力池来了：部署超3万卡，上千款应用接入]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377523.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-10</link>
-      <description>&lt;![CDATA[寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-10</guid>
+      <title>中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资</title>
+      <link>https://www.qbitai.com/2026/02/377518.html</link>
+      <description>&lt;![CDATA[中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377518.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题</title>
-      <link>https://www.qbitai.com/2026/02/377464.html</link>
-      <description>&lt;![CDATA[“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 06:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377464.html</guid>
+      <title>春节30亿免单火爆登场，千问APP冲到App Store第一名</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-06-9</link>
+      <description>&lt;![CDATA[春节30亿免单火爆登场，千问APP冲到App Store第一名]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶</title>
-      <link>https://www.qbitai.com/2026/02/377494.html</link>
-      <description>&lt;![CDATA[商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377494.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-4</link>
-      <description>&lt;![CDATA[千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-4</guid>
+      <title>AI卖广告，吵到了超级碗：全球网友围观奥特曼破防</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-06-6</link>
+      <description>&lt;![CDATA[AI卖广告，吵到了超级碗：全球网友围观奥特曼破防]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-6</guid>
       <category>Ai</category>
     </item>
   </channel>

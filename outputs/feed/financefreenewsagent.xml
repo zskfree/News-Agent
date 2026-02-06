@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 08:44:05 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 23:28:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US and Iran to start nuclear talks in Oman</title>
-      <link>https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4</link>
-      <description>&lt;![CDATA[US and Iran to start nuclear talks in Oman]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4</guid>
+      <title>This little-noticed bond-market development could put many borrowers on edge</title>
+      <link>https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This little-noticed bond-market development could put many borrowers on edge]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US launches antitrust review of $83bn Netflix deal for Warner Bros</title>
+      <link>https://www.ft.com/content/fc91a7db-f99f-4f26-81ca-3be78bfa4ce4</link>
+      <description>&lt;![CDATA[US launches antitrust review of $83bn Netflix deal for Warner Bros]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 23:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fc91a7db-f99f-4f26-81ca-3be78bfa4ce4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto</title>
+      <link>https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Anthropic’s breakout moment: how Claude cracked AI for business</title>
+      <link>https://www.ft.com/content/a75555a6-24c3-4468-aba9-7fe12b5def31</link>
+      <description>&lt;![CDATA[Anthropic’s breakout moment: how Claude cracked AI for business]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a75555a6-24c3-4468-aba9-7fe12b5def31</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil markets are on edge over elevated risks of a U.S. military strike against Iran this weekend</title>
+      <link>https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil markets are on edge over elevated risks of a U.S. military strike against Iran this weekend]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

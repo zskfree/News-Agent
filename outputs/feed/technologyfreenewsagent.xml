@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 08:45:02 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 23:29:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单</title>
-      <link>https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>李飞飞的反共识判断：大语言模型无法通往AGI，空间智能才是最优路径</title>
+      <link>https://www.tmtpost.com/7868432.html</link>
+      <description>&lt;![CDATA[李飞飞的反共识判断：大语言模型无法通往AGI，空间智能才是最优路径]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7868432.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom</title>
-      <link>https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&amp;utm_medium=article</guid>
+      <title>键盘长草，编程已死，agentic engineering时代已至</title>
+      <link>https://www.tmtpost.com/7869075.html</link>
+      <description>&lt;![CDATA[键盘长草，编程已死，agentic engineering时代已至]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 23:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7869075.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent</title>
-      <link>https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了</title>
+      <link>https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等</title>
-      <link>https://sspai.com/post/106113</link>
-      <description>&lt;![CDATA[派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/106113</guid>
+      <title>从质疑到追捧，AI制药成果落地加速</title>
+      <link>https://www.tmtpost.com/7866861.html</link>
+      <description>&lt;![CDATA[从质疑到追捧，AI制药成果落地加速]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7866861.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2000 亿军备赛！亚马逊为 AI 颠出新高度</title>
-      <link>https://www.tmtpost.com/7868781.html</link>
-      <description>&lt;![CDATA[2000 亿军备赛！亚马逊为 AI 颠出新高度]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7868781.html</guid>
+      <title>美团 7.17 亿美元全资收购叮咚买菜 为2026即时零售大战先行布局</title>
+      <link>https://www.tmtpost.com/7869712.html</link>
+      <description>&lt;![CDATA[美团 7.17 亿美元全资收购叮咚买菜 为2026即时零售大战先行布局]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7869712.html</guid>
       <category>Technology</category>
     </item>
   </channel>
