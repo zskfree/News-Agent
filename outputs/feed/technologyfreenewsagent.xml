@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 05:55:41 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 08:45:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI开始发布关于Codex CLI内部机制的系列文章</title>
-      <link>https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI开始发布关于Codex CLI内部机制的系列文章]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&amp;utm_medium=article</guid>
+      <title>奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单</title>
+      <link>https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI 开始写 80% 的代码，架构才是真正的护城河</title>
-      <link>https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI 开始写 80% 的代码，架构才是真正的护城河]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom</title>
+      <link>https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>商业航天的终极竞争，是成本控制还是商业生态构建？</title>
-      <link>https://www.tmtpost.com/7867779.html</link>
-      <description>&lt;![CDATA[商业航天的终极竞争，是成本控制还是商业生态构建？]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867779.html</guid>
+      <title>TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent</title>
+      <link>https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？</title>
-      <link>https://www.tmtpost.com/7867888.html</link>
-      <description>&lt;![CDATA[从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7867888.html</guid>
+      <title>派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等</title>
+      <link>https://sspai.com/post/106113</link>
+      <description>&lt;![CDATA[派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 08:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/106113</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！</title>
-      <link>https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2000 亿军备赛！亚马逊为 AI 颠出新高度</title>
+      <link>https://www.tmtpost.com/7868781.html</link>
+      <description>&lt;![CDATA[2000 亿军备赛！亚马逊为 AI 颠出新高度]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7868781.html</guid>
       <category>Technology</category>
     </item>
   </channel>

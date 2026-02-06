@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 05:55:05 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 08:44:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears</title>
-      <link>https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd</link>
-      <description>&lt;![CDATA[Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 02:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Bitcoin swings wildly after worst day for the pioneering crypto since FTX collapse</title>
-      <link>https://www.marketwatch.com/story/the-bitcoin-selloff-is-deepening-after-worst-day-for-the-pioneering-crypto-since-ftx-collapse-dae49846?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Bitcoin swings wildly after worst day for the pioneering crypto since FTX collapse]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 02:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-bitcoin-selloff-is-deepening-after-worst-day-for-the-pioneering-crypto-since-ftx-collapse-dae49846?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>KPMG pressed its auditor to pass on AI cost savings</title>
-      <link>https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d</link>
-      <description>&lt;![CDATA[KPMG pressed its auditor to pass on AI cost savings]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Inside Jeffrey Epstein’s social Ponzi scheme</title>
-      <link>https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82</link>
-      <description>&lt;![CDATA[Inside Jeffrey Epstein’s social Ponzi scheme]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Toyota replaces chief executive</title>
-      <link>https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed</link>
-      <description>&lt;![CDATA[Toyota replaces chief executive]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 05:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed</guid>
+      <title>US and Iran to start nuclear talks in Oman</title>
+      <link>https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4</link>
+      <description>&lt;![CDATA[US and Iran to start nuclear talks in Oman]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4</guid>
       <category>Finance</category>
     </item>
   </channel>

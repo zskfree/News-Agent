@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Feb 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 05:55:22 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 08:44:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06</link>
-      <description>&lt;![CDATA[硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06</guid>
+      <title>如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-06-8</link>
+      <description>&lt;![CDATA[如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-2</link>
-      <description>&lt;![CDATA[Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-2</guid>
+      <title>寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-06-10</link>
+      <description>&lt;![CDATA[寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-3</link>
-      <description>&lt;![CDATA[Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-3</guid>
+      <title>“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题</title>
+      <link>https://www.qbitai.com/2026/02/377464.html</link>
+      <description>&lt;![CDATA[“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 06:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377464.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AgentDoG：为AI智能体戴上「诊断项圈」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-5</link>
-      <description>&lt;![CDATA[AgentDoG：为AI智能体戴上「诊断项圈」]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-5</guid>
+      <title>商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶</title>
+      <link>https://www.qbitai.com/2026/02/377494.html</link>
+      <description>&lt;![CDATA[商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377494.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-06-7</link>
-      <description>&lt;![CDATA[OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-7</guid>
+      <title>千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-06-4</link>
+      <description>&lt;![CDATA[千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代]]&gt;</description>
+      <pubDate>Fri, 06 Feb 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-06-4</guid>
       <category>Ai</category>
     </item>
   </channel>

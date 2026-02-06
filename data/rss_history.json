@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "98b524cc343cb4c5e9d03d2bb6487ac9baed280b1dea875ce595dddc25ff0d33": {
-        "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
-        "link": "https://www.tmtpost.com/7833395.html",
-        "published_date": "Wed, 07 Jan 2026 10:22:00 GMT",
-        "first_seen": "2026-01-07T08:39:09.458534"
-      },
-      "83be5b2623a062a3ec5db0a5136546c8c5143017477e1025209656e53bb6230c": {
-        "title": "AI泡沫退潮、落地为王，芯片巨头“拉帮结派”激战CES 2026",
-        "link": "https://www.tmtpost.com/7833488.html",
-        "published_date": "Wed, 07 Jan 2026 15:53:00 GMT",
-        "first_seen": "2026-01-07T08:39:09.458542"
-      },
-      "4a0de90ec1b1b0a55fac0e71b910712b436f8c9de4153abae7b7f4b8f750fbe8": {
-        "title": "左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术",
-        "link": "https://www.tmtpost.com/7833151.html",
-        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-07T08:39:09.458544"
-      },
-      "3ac43a9c3b109dea35522c4ecca62d54d909431b2fad6c0e512e779b535efc74": {
-        "title": "30B-Parameter MiroThinker 1.5 Unveiled, Challenging the 'Bigger is Better' Mantra",
-        "link": "https://www.tmtpost.com/7833829.html",
-        "published_date": "Wed, 07 Jan 2026 15:07:00 GMT",
-        "first_seen": "2026-01-07T08:39:09.458546"
-      },
-      "46b0a75d697175da380f95d075d7134a29cc478b6163485f4e428904c06a07d7": {
-        "title": "Meta 收购 Manus：巨头“自救系统”的冰山之下",
-        "link": "https://www.tmtpost.com/7832946.html",
-        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-07T08:39:09.458547"
-      },
       "d78cc2c41ce22f1166c7675334989ad6e3f503fadc12bbd32bf4361e2ef7c12b": {
         "title": "黄仁勋定调，“物理AI”吹响号角",
         "link": "https://www.tmtpost.com/7834282.html",
@@ -2695,15 +2665,39 @@
         "link": "https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 06 Feb 2026 10:19:00 GMT",
         "first_seen": "2026-02-06T05:55:41.911769"
+      },
+      "303c7e55aec142d838896d4fdd91add0b6212d09196904723ceb4fd7058126ec": {
+        "title": "奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单",
+        "link": "https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 15:45:00 GMT",
+        "first_seen": "2026-02-06T08:45:02.065180"
+      },
+      "2024ca285a2f627bcc4ef3f8a164c01cb500321601b7155836a6fc8be240b0e6": {
+        "title": "“16个Agent组队，两周干翻37年GCC”？！最强编码模型Claude Opus 4.6首秀，10万行Rust版C编译器跑通Linux内核还能跑Doom",
+        "link": "https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1S?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 16:33:00 GMT",
+        "first_seen": "2026-02-06T08:45:02.065186"
+      },
+      "ca329577e8d3e6646bd2711ad2d8c036413673ba07bef91db1feb8139e13bbc9": {
+        "title": "TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了，真正变天是 IDE 让位给 Agent",
+        "link": "https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-06T08:45:02.065188"
+      },
+      "d8d73484eafa319e196e858e2bb4869342f5ab906c7cce4cf43354c0a9d8ce68": {
+        "title": "派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等",
+        "link": "https://sspai.com/post/106113",
+        "published_date": "Fri, 06 Feb 2026 08:50:00 GMT",
+        "first_seen": "2026-02-06T08:45:02.065190"
+      },
+      "b9931eee698447a3fac120a2eb94d64d5bd81ab9e55fa10021a58d85f0c60f0f": {
+        "title": "2000 亿军备赛！亚马逊为 AI 颠出新高度",
+        "link": "https://www.tmtpost.com/7868781.html",
+        "published_date": "Fri, 06 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-06T08:45:02.065191"
       }
     },
     "Finance": {
-      "eb6fccd45d649f63db9c8254d9c53e7435e4a250efb74f2dccb269bc59a9d080": {
-        "title": "Trump says Venezuela will turn over oil to US",
-        "link": "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c",
-        "published_date": "Wed, 07 Jan 2026 08:20:00 GMT",
-        "first_seen": "2026-01-07T08:38:24.193111"
-      },
       "70e0ca921c3c692ddd27a36524fb6fbe6ab9745f11106a881a0c242445da3d33": {
         "title": "JPMorgan to take over Apple’s $20bn credit card portfolio from Goldman Sachs",
         "link": "https://www.ft.com/content/07b1da7c-bac1-4d79-b281-1d2eaaabdea7",
@@ -4605,39 +4599,15 @@
         "link": "https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed",
         "published_date": "Fri, 06 Feb 2026 05:28:00 GMT",
         "first_seen": "2026-02-06T05:55:05.472645"
+      },
+      "94343ceebfff7b50b52b6e91425acdefb16eb5ddb2fd38c23e135c3d956fbd3d": {
+        "title": "US and Iran to start nuclear talks in Oman",
+        "link": "https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4",
+        "published_date": "Fri, 06 Feb 2026 08:30:00 GMT",
+        "first_seen": "2026-02-06T08:44:05.163803"
       }
     },
     "Ai": {
-      "f4c85b9600d647bb4bda095c233ab0498a2db0b676aab7cf33ff52c7ccf605ef": {
-        "title": "重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-8",
-        "published_date": "Wed, 07 Jan 2026 16:02:00 GMT",
-        "first_seen": "2026-01-07T08:38:41.093197"
-      },
-      "8432f04d5e6cb97746647513e88a360b554f68722864ce84d91cb5c126738780": {
-        "title": "多模态推理新范式！DiffThinker：用扩散模型「画」出推理和答案",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-6",
-        "published_date": "Wed, 07 Jan 2026 15:40:00 GMT",
-        "first_seen": "2026-01-07T08:38:41.093208"
-      },
-      "b4b6fabd6c0d55af6424157f9fe6b54351e234bcf62d7e07a3c2e67c441e0763": {
-        "title": "大模型最难的AI Infra，用Vibe Coding搞定",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-4",
-        "published_date": "Wed, 07 Jan 2026 13:32:00 GMT",
-        "first_seen": "2026-01-07T08:38:41.093210"
-      },
-      "29262031659c79cd1c06938b790c847e09af4a8dce03166b340d4735bbc0845b": {
-        "title": "8块钱跑通一次强化学习全流程，潞晨云重塑微调赛道：1名算法工程师=1支Infra团队",
-        "link": "https://www.qbitai.com/2026/01/367229.html",
-        "published_date": "Wed, 07 Jan 2026 07:16:00 GMT",
-        "first_seen": "2026-01-07T08:38:41.093212"
-      },
-      "18c24127777f6dbeeea1e917caad94f95c54a3c86408e41853e84f035143fdfe": {
-        "title": "首家央企AI独角兽浮出水面！背靠自研大模型，4家国家队资本背书",
-        "link": "https://www.qbitai.com/2026/01/367242.html",
-        "published_date": "Wed, 07 Jan 2026 07:24:00 GMT",
-        "first_seen": "2026-01-07T08:38:41.093214"
-      },
       "318681eea635e4b1079858a99301e5635b1065d5f6e8c84ccbd816962d73c7ea": {
         "title": "分析近六十种科学模型，MIT：基础模型或学得物理现实的共同底层表征，附实验证据",
         "link": "https://www.jiqizhixin.com/articles/2026-01-07-9",
@@ -6851,13 +6821,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-06-7",
         "published_date": "Fri, 06 Feb 2026 13:09:00 GMT",
         "first_seen": "2026-02-06T05:55:22.088756"
+      },
+      "9303baaf63cd645ed5dc0358b0b69c15bbba78b3169586737e52d8280ff2d8b6": {
+        "title": "如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-8",
+        "published_date": "Fri, 06 Feb 2026 14:09:00 GMT",
+        "first_seen": "2026-02-06T08:44:22.646306"
+      },
+      "434c1457d25b030193d3b345dd5c25abca93a552a2148084314155688182eec5": {
+        "title": "寻找金融领域的ImageNet——首个信贷多模态评测基准背后的产业与学术对话",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-10",
+        "published_date": "Fri, 06 Feb 2026 14:01:00 GMT",
+        "first_seen": "2026-02-06T08:44:22.646313"
+      },
+      "f0e085e3f7d15716c1eb7d7341b0ab85e0413301797f4647ff926803a997794e": {
+        "title": "“一次开发，跨芯运行”：众智FlagOS与面壁智能联手，破解 AI大模型跨芯适配难题",
+        "link": "https://www.qbitai.com/2026/02/377464.html",
+        "published_date": "Fri, 06 Feb 2026 06:01:00 GMT",
+        "first_seen": "2026-02-06T08:44:22.646315"
+      },
+      "fc2bddc61a2dc809e7d6883c306f4b6c42bae45ce690d9bf1cc98edba822cbde": {
+        "title": "商汤开源SenseNova-SI-1.3，八大空间智能榜单综合评分登顶",
+        "link": "https://www.qbitai.com/2026/02/377494.html",
+        "published_date": "Fri, 06 Feb 2026 07:41:00 GMT",
+        "first_seen": "2026-02-06T08:44:22.646317"
+      },
+      "e536c3fc9d0afa8f6c7023c1e5a81305c94dc029feaca5667b02212e0b00f458": {
+        "title": "千问30亿免单引爆春节AI大战，奶茶免单开启AI购物时代",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-4",
+        "published_date": "Fri, 06 Feb 2026 10:39:00 GMT",
+        "first_seen": "2026-02-06T08:44:22.646319"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-06T05:55:41.911771",
-    "Finance": "2026-02-06T05:55:05.472647",
-    "Ai": "2026-02-06T05:55:22.088760"
+    "Technology": "2026-02-06T08:45:02.065193",
+    "Finance": "2026-02-06T08:44:05.163809",
+    "Ai": "2026-02-06T08:44:22.646321"
   }
 }
