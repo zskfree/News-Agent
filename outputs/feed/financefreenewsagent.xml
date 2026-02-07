@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 05:43:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 05:43:42 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 08:34:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Dow 50,000 came as the market looked set to crack. What the milestone says about what’s ahead for risk and volatility.</title>
-      <link>https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Dow 50,000 came as the market looked set to crack. What the milestone says about what’s ahead for risk and volatility.]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 02:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>I settled my father’s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?</title>
-      <link>https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[I settled my father’s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This year’s Super Bowl ads tell you the AI bubble is about to burst</title>
-      <link>https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This year’s Super Bowl ads tell you the AI bubble is about to burst]]&gt;</description>
-      <pubDate>Fri, 06 Feb 2026 23:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories</guid>
+      <title>‘Hermès orange’ iPhone sparks Apple comeback in China</title>
+      <link>https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46</link>
+      <description>&lt;![CDATA[‘Hermès orange’ iPhone sparks Apple comeback in China]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46</guid>
       <category>Finance</category>
     </item>
   </channel>

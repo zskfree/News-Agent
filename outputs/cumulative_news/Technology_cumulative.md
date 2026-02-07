@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-07 05:43
+**最后更新时间**: 2026-02-07 08:34
+
+---
+
+## 🆕 最新更新 (2026-02-07 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [在国外抢下三个第一， 光储一体机火爆海外后，思格新能源在国内遇冷了吗？](https://www.tmtpost.com/7870762.html)
+**发布时间**: 2026-02-07 16:06
+
+#### [深扒Rentahuman，AI雇佣人类是假，币圈“割韭菜”才是真？](https://www.tmtpost.com/7870599.html)
+**发布时间**: 2026-02-07 16:05
+
+#### [中国能建江苏电建一公司、宝钢工程等因安全违规被处罚，电力安全“救命钱”去哪了？](https://www.tmtpost.com/7870759.html)
+**发布时间**: 2026-02-07 16:02
+
+#### [冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速](https://www.tmtpost.com/7870765.html)
+**发布时间**: 2026-02-07 15:58
+
+#### [Bloom Energy 已经是燃料电池领域的王者，如今它把目标定得更高](https://www.tmtpost.com/7870582.html)
+**发布时间**: 2026-02-07 11:01
+
+#### [Affirm 公布财报后股价下挫，分析师表示，这种下跌毫无根据](https://www.tmtpost.com/7870579.html)
+**发布时间**: 2026-02-07 10:59
+
+#### [运输类股票一路高歌猛进，这对更广泛的市场来说是个好消息](https://www.tmtpost.com/7870577.html)
+**发布时间**: 2026-02-07 10:59
+
+#### [美光正迎来一波史诗级涨势，别再害怕存储芯片的周期波动](https://www.tmtpost.com/7870573.html)
+**发布时间**: 2026-02-07 10:58
+
+#### [动荡市场中，保险股走强，“无聊”或许才是更好的选择](https://www.tmtpost.com/7870571.html)
+**发布时间**: 2026-02-07 10:56
+
+#### [Take-Two、Mondelez 引起分析师关注](https://www.tmtpost.com/7870569.html)
+**发布时间**: 2026-02-07 10:55
+
+#### [AI担忧重挫Booking和Expedia股价，为什么它们仍有望反弹](https://www.tmtpost.com/7870567.html)
+**发布时间**: 2026-02-07 10:55
+
+#### [这家人工智能公司押注投资者依然青睐它](https://www.tmtpost.com/7870565.html)
+**发布时间**: 2026-02-07 10:53
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 12 Star！把 Claude Code、Gemini CLI 等聚到了一起。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531081&idx=1&sn=d8eea566ee6444926dba4d85665cc350)
+**发布时间**: 2026-02-07 15:08
+
+#### [最近看到的 3 个 GitHub 开源项目，分享一下。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531080&idx=1&sn=4004c64c145d91fd681a9b96097bdc67)
+**发布时间**: 2026-02-06 16:25
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [最顶以太坊杀手？拆解Solana崛起的底层逻辑](http://www.huxiu.com/article/4833122.html?f=wangzhan)
+**发布时间**: 2026-02-07 15:00
 
 ---
 

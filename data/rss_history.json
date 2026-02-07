@@ -2695,6 +2695,36 @@
         "link": "https://www.tmtpost.com/7869908.html",
         "published_date": "Sat, 07 Feb 2026 10:13:00 GMT",
         "first_seen": "2026-02-07T05:43:59.463633"
+      },
+      "eeec0efa189dacea11d34740b7f37ea6b1e86e449214e0f37b5847aa91d023e1": {
+        "title": "音乐圈的第一批AI受害者出现了",
+        "link": "https://www.tmtpost.com/7870010.html",
+        "published_date": "Sat, 07 Feb 2026 10:04:00 GMT",
+        "first_seen": "2026-02-07T08:34:50.246168"
+      },
+      "36b263ffeda0a621f39d6012e8439a7efb20aaf3afe83934df4f1b5113e65fe1": {
+        "title": "冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速",
+        "link": "https://www.tmtpost.com/7870765.html",
+        "published_date": "Sat, 07 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-07T08:34:50.246175"
+      },
+      "fe5c85b71324f1fe1e8dacbc69bf93c741da166e794886cffa9d2c7a7160be1c": {
+        "title": "隆基与蔚来携手布局光储充，失意龙头联盟能否并肩翻身？",
+        "link": "https://www.tmtpost.com/7869823.html",
+        "published_date": "Sat, 07 Feb 2026 09:01:00 GMT",
+        "first_seen": "2026-02-07T08:34:50.246177"
+      },
+      "a334321f097886d4ececde2a8373a0c56e3a8a62013b7498a4ac0573747b0890": {
+        "title": "美光正迎来一波史诗级涨势，别再害怕存储芯片的周期波动",
+        "link": "https://www.tmtpost.com/7870573.html",
+        "published_date": "Sat, 07 Feb 2026 10:58:00 GMT",
+        "first_seen": "2026-02-07T08:34:50.246179"
+      },
+      "9fcd1332579e59cfd06608864446b5219791dc59f6897b5e8ef3f11a4fc9cefc": {
+        "title": "“充电宝之父”死磕 AI 入口：我看好的技术路线，我愿意陪你一起赔钱｜深度实践",
+        "link": "https://www.tmtpost.com/7869809.html",
+        "published_date": "Sat, 07 Feb 2026 13:18:00 GMT",
+        "first_seen": "2026-02-07T08:34:50.246180"
       }
     },
     "Finance": {
@@ -4593,6 +4623,12 @@
         "link": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
         "published_date": "Fri, 06 Feb 2026 23:40:00 GMT",
         "first_seen": "2026-02-07T05:43:42.705617"
+      },
+      "45fb93df862a79c023ca757868447f284abec4866d399cf98e18d2a45f24d531": {
+        "title": "‘Hermès orange’ iPhone sparks Apple comeback in China",
+        "link": "https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46",
+        "published_date": "Sat, 07 Feb 2026 07:00:00 GMT",
+        "first_seen": "2026-02-07T08:34:24.951527"
       }
     },
     "Ai": {
@@ -6803,13 +6839,31 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-06-6",
         "published_date": "Fri, 06 Feb 2026 13:04:00 GMT",
         "first_seen": "2026-02-06T23:28:48.266717"
+      },
+      "a368da793df6871f00f02e6088053501b0a56d9a9ed4946b601c60cf1b866328": {
+        "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
+        "link": "https://www.qbitai.com/2026/02/377564.html",
+        "published_date": "Sat, 07 Feb 2026 07:35:00 GMT",
+        "first_seen": "2026-02-07T08:34:25.103211"
+      },
+      "4d1e96372c18dd77250733cee2205725a6fbe100616a27f0341c168d78500328": {
+        "title": "Nature认定的论文综述神器来了",
+        "link": "https://www.qbitai.com/2026/02/377543.html",
+        "published_date": "Sat, 07 Feb 2026 05:12:00 GMT",
+        "first_seen": "2026-02-07T08:34:25.103219"
+      },
+      "2a4543c6ef34d1fd59fa1e5b54c4dce06cac68248fd8e0127673c23b6f62804a": {
+        "title": "有的AI在算命，有的AI在救命",
+        "link": "https://www.qbitai.com/2026/02/377529.html",
+        "published_date": "Sat, 07 Feb 2026 05:06:00 GMT",
+        "first_seen": "2026-02-07T08:34:25.103222"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-07T05:43:59.463636",
-    "Finance": "2026-02-07T05:43:42.705619",
-    "Ai": "2026-02-06T23:28:48.266720"
+    "Technology": "2026-02-07T08:34:50.246182",
+    "Finance": "2026-02-07T08:34:24.951534",
+    "Ai": "2026-02-07T08:34:25.103238"
   }
 }
