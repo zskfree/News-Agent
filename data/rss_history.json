@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1dd7a9448ed5f1d037784b8e59894f6f16e1ff92dfa35fb089fe35a71a51b23d": {
-        "title": "陈天桥携MiroThinker 1.5开年登场：跑赢万亿模型，实现小模型大智能",
-        "link": "https://www.tmtpost.com/7833615.html",
-        "published_date": "Thu, 08 Jan 2026 12:34:00 GMT",
-        "first_seen": "2026-01-08T05:28:18.607403"
-      },
-      "6ff773f73e080fe0ed99a1548d4a9fa2dc62f7899e71fb144e7dc8fe2e1b569c": {
-        "title": "又一家科技巨头携手英伟达，打造工业 AI 操作系统",
-        "link": "https://www.infoq.cn/article/jbT1HHa78cRseVfSAdKk?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 10:47:00 GMT",
-        "first_seen": "2026-01-08T05:28:18.607410"
-      },
-      "d24d8852ae5f4385cbb3e5f583380420a49a7d36c3c2a1d2ce9ebf8a14152ce4": {
-        "title": "历史已站在中国GPU这边",
-        "link": "https://www.tmtpost.com/7835167.html",
-        "published_date": "Thu, 08 Jan 2026 12:55:00 GMT",
-        "first_seen": "2026-01-08T05:28:18.607413"
-      },
-      "41afba4a228a3e6172e9d330a738ca5c041610e01f0f45a6e8e215b6df73018c": {
-        "title": "对话西门子中国董事长肖松：重塑产业新范式，AI的真正价值将在工业端充分释放｜CES 2026",
-        "link": "https://www.tmtpost.com/7834649.html",
-        "published_date": "Thu, 08 Jan 2026 13:02:00 GMT",
-        "first_seen": "2026-01-08T05:28:18.607414"
-      },
-      "2450a5b44d42f0e68548a8bc24144fcf8f8e3619b0908d724f72885218bc45ac": {
-        "title": "当咖啡机器人席卷CES：一场商用具身智能的消费革命",
-        "link": "https://www.tmtpost.com/7834136.html",
-        "published_date": "Thu, 08 Jan 2026 13:09:00 GMT",
-        "first_seen": "2026-01-08T05:28:18.607416"
-      },
       "f67b72b6e9c8e0cf17ca8b339861e623262ee052c91c04e0f2640eb2930ebdb6": {
         "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
         "link": "https://www.tmtpost.com/7835366.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7869712.html",
         "published_date": "Fri, 06 Feb 2026 19:12:00 GMT",
         "first_seen": "2026-02-06T23:29:07.604675"
+      },
+      "d814e7b1c976b114176d54be17cef829301c947b0edb688485be9c421ed0d684": {
+        "title": "美国科技巨头资本支出狂飙：AI 基建的短视与远见之争",
+        "link": "https://www.tmtpost.com/7870407.html",
+        "published_date": "Sat, 07 Feb 2026 10:33:00 GMT",
+        "first_seen": "2026-02-07T05:43:59.463622"
+      },
+      "deaaa1cde05c78ade74cd7ee3b2b5d6d8e8079817454948c51d1afd80ace8a0c": {
+        "title": "AI 智能体界的 npm 来了！Vercel 推出 Skills.sh，欲统一智能体指令集",
+        "link": "https://www.infoq.cn/article/SaRHSmwKTghurtuafWHy?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-07T05:43:59.463628"
+      },
+      "dde87dcbd48c8bf52c650caebe58d59bac5d2d1efe81a515de947f3cdf3fce6d": {
+        "title": "阿里腾讯字节百度，打响大模型生态战",
+        "link": "https://www.tmtpost.com/7869784.html",
+        "published_date": "Sat, 07 Feb 2026 10:06:00 GMT",
+        "first_seen": "2026-02-07T05:43:59.463630"
+      },
+      "715a59fdc3fafeb0a534f77f2b1af11618a05ca26cdf7a21db393fc74cdc7b44": {
+        "title": "中国监管为跨境RWA留出一道窄门",
+        "link": "https://www.tmtpost.com/7870563.html",
+        "published_date": "Sat, 07 Feb 2026 10:51:00 GMT",
+        "first_seen": "2026-02-07T05:43:59.463632"
+      },
+      "5c8daaabeed54006cf669134136befd1e2d7574974aab638693c03e98cb87755": {
+        "title": "AI算力的下一个战场，已经延伸到了太空",
+        "link": "https://www.tmtpost.com/7869908.html",
+        "published_date": "Sat, 07 Feb 2026 10:13:00 GMT",
+        "first_seen": "2026-02-07T05:43:59.463633"
       }
     },
     "Finance": {
-      "bff9aa3ad3fbc28eff6a91cfea7aef8a07b7907316a4cc987b55d2f13fbc00d3": {
-        "title": "Lockheed and Northrop shares dive as Trump says he’ll ‘not permit’ dividends and buybacks in defense sector",
-        "link": "https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories",
-        "published_date": "Thu, 08 Jan 2026 01:27:00 GMT",
-        "first_seen": "2026-01-08T05:27:30.365485"
-      },
-      "139a9f6b53842a955f42f87c9d70475b81dda46bcc99615bb5ebd8dcfb4aeef9": {
-        "title": "British business faces a rude activist awakening",
-        "link": "https://www.ft.com/content/51a0d88b-8e5a-4618-991e-28ba4c0f3b86",
-        "published_date": "Thu, 08 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-08T05:27:30.365494"
-      },
-      "4ed89bd9b3471a7d4edd7c2070d5768ac57a184166a2451fd3aa831eddcd5eff": {
-        "title": "US oil companies warn they will need guarantees to invest in Venezuela",
-        "link": "https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3",
-        "published_date": "Thu, 08 Jan 2026 01:07:00 GMT",
-        "first_seen": "2026-01-08T05:27:30.365497"
-      },
-      "60c405da25dd1b6589c6b2e2b95ba0413ef6ca278993845c95a00f66b1c5f1b8": {
-        "title": "Why is Intel’s stock surging? Here’s what Wall Street has to say.",
-        "link": "https://www.marketwatch.com/story/why-is-intels-stock-surging-heres-what-wall-street-has-to-say-248d4233?mod=mw_rss_topstories",
-        "published_date": "Thu, 08 Jan 2026 02:14:00 GMT",
-        "first_seen": "2026-01-08T05:27:30.365499"
-      },
-      "64a853c299e88db56dffaf16771b0cd0b451037c548bdd234935a5d55a919863": {
-        "title": "Why a weaker construction market has become a problem for Constellation Brands’ beer business",
-        "link": "https://www.marketwatch.com/story/why-a-weaker-construction-market-has-become-a-problem-for-constellation-brands-beer-business-9294b9fc?mod=mw_rss_topstories",
-        "published_date": "Thu, 08 Jan 2026 01:28:00 GMT",
-        "first_seen": "2026-01-08T05:27:30.365501"
-      },
       "14ea0ee5c501eb71db19790abc120f1668272b0a508756723e7fe2f801317a53": {
         "title": "Primark owner ABF shares slide after profit warning",
         "link": "https://www.ft.com/content/c3754da0-b04a-48b8-ba59-e2b2735917f9",
@@ -4605,39 +4575,27 @@
         "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories",
         "published_date": "Fri, 06 Feb 2026 20:57:00 GMT",
         "first_seen": "2026-02-06T23:28:48.112729"
+      },
+      "31d397d505c6a1a14383764de80e8465eb83550d647bc133dfa79b75920ac9d6": {
+        "title": "Dow 50,000 came as the market looked set to crack. What the milestone says about what’s ahead for risk and volatility.",
+        "link": "https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 02:05:00 GMT",
+        "first_seen": "2026-02-07T05:43:42.705607"
+      },
+      "ac9f3be0d044f5ad68648525cf721cb4d628cfcb6f91b76d32960326b6cb7538": {
+        "title": "I settled my father’s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
+        "link": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 00:50:00 GMT",
+        "first_seen": "2026-02-07T05:43:42.705614"
+      },
+      "883622e83de0671a9b0f1550ba7401c429a73526b66461b0683bd0f34d62c25a": {
+        "title": "This year’s Super Bowl ads tell you the AI bubble is about to burst",
+        "link": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Feb 2026 23:40:00 GMT",
+        "first_seen": "2026-02-07T05:43:42.705617"
       }
     },
     "Ai": {
-      "99100911a140481541252b97203635d321c5ee0826cf7c760c73858247fcc120": {
-        "title": "OpenAI发布ChatGPT新功能，专为健康打造的个人服务体验",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-08-4",
-        "published_date": "Thu, 08 Jan 2026 11:57:00 GMT",
-        "first_seen": "2026-01-08T05:27:51.510674"
-      },
-      "3006b8964f4af6fcc1203867d10ceea00213ce929c2d22e1be263df1f8c9153f": {
-        "title": "刚刚，DeepSeek R1论文更新，增加了64页",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-08-3",
-        "published_date": "Thu, 08 Jan 2026 11:37:00 GMT",
-        "first_seen": "2026-01-08T05:27:51.510681"
-      },
-      "e3bb41cd2d933c839933cc503437fcb2b6d1a6983ef6f416f65dc32cb52817ef": {
-        "title": "刚刚，智谱敲钟上市了，市值达528亿港元",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-08-2",
-        "published_date": "Thu, 08 Jan 2026 10:21:00 GMT",
-        "first_seen": "2026-01-08T05:27:51.510683"
-      },
-      "7d67854c50c41ab5df749a1798a758ef5cd23aba0902e0902969db23c3ea8290": {
-        "title": "深入感知级别图像理解：UniPercept 统一图像美学、质量与结构纹理感知",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-08",
-        "published_date": "Thu, 08 Jan 2026 10:16:00 GMT",
-        "first_seen": "2026-01-08T05:27:51.510684"
-      },
-      "aa820e5e7b96285d204bc717b734d2c4639985cd159098447a2add51ddf283c2": {
-        "title": "刚刚，智谱港交所敲钟！市值528亿港元",
-        "link": "https://www.qbitai.com/2026/01/367379.html",
-        "published_date": "Thu, 08 Jan 2026 02:08:00 GMT",
-        "first_seen": "2026-01-08T05:27:51.510686"
-      },
       "533fae7cb14def33a30ff28be722de83dc301aa892536a69acc1caae438150c1": {
         "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
         "link": "https://www.qbitai.com/2026/01/367397.html",
@@ -6850,8 +6808,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-06T23:29:07.604677",
-    "Finance": "2026-02-06T23:28:48.112731",
+    "Technology": "2026-02-07T05:43:59.463636",
+    "Finance": "2026-02-07T05:43:42.705619",
     "Ai": "2026-02-06T23:28:48.266720"
   }
 }
