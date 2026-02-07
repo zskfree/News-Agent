@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 08:34:25 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 23:31:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」</title>
-      <link>https://www.qbitai.com/2026/02/377564.html</link>
-      <description>&lt;![CDATA[王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 07:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377564.html</guid>
+      <title>清华研究生开源大一统世界模型：性能超越硅谷标杆40%！</title>
+      <link>https://www.qbitai.com/2026/02/377835.html</link>
+      <description>&lt;![CDATA[清华研究生开源大一统世界模型：性能超越硅谷标杆40%！]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377835.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nature认定的论文综述神器来了</title>
-      <link>https://www.qbitai.com/2026/02/377543.html</link>
-      <description>&lt;![CDATA[Nature认定的论文综述神器来了]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 05:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377543.html</guid>
+      <title>Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-07-5</link>
+      <description>&lt;![CDATA[Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>有的AI在算命，有的AI在救命</title>
-      <link>https://www.qbitai.com/2026/02/377529.html</link>
-      <description>&lt;![CDATA[有的AI在算命，有的AI在救命]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 05:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377529.html</guid>
+      <title>像挖币一样挖激活函数？DeepMind搭建「算力矿场」，暴力搜出下一代ReLU</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-07-2</link>
+      <description>&lt;![CDATA[像挖币一样挖激活函数？DeepMind搭建「算力矿场」，暴力搜出下一代ReLU]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构</title>
+      <link>https://www.qbitai.com/2026/02/377824.html</link>
+      <description>&lt;![CDATA[小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377824.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>人形机器人的真机强化学习! ICLR 2026 通研院提出人形机器人预训练与真机微调新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-07-4</link>
+      <description>&lt;![CDATA[人形机器人的真机强化学习! ICLR 2026 通研院提出人形机器人预训练与真机微调新范式]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-4</guid>
       <category>Ai</category>
     </item>
   </channel>

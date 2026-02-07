@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 08:34:24 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 23:31:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘Hermès orange’ iPhone sparks Apple comeback in China</title>
-      <link>https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46</link>
-      <description>&lt;![CDATA[‘Hermès orange’ iPhone sparks Apple comeback in China]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46</guid>
+      <title>Investors are asking if they need to own gold and silver at all</title>
+      <link>https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors are asking if they need to own gold and silver at all]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 19:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This year’s Super Bowl ads are telling you the AI bubble is about to burst</title>
+      <link>https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This year’s Super Bowl ads are telling you the AI bubble is about to burst]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Japan goes to the polls after shortest campaign in postwar era</title>
+      <link>https://www.ft.com/content/1d6762c2-7bbf-4457-8799-2bcb694478e1</link>
+      <description>&lt;![CDATA[Japan goes to the polls after shortest campaign in postwar era]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1d6762c2-7bbf-4457-8799-2bcb694478e1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How the house of Rothschild became entangled with Epstein</title>
+      <link>https://www.ft.com/content/0d70b7d3-063d-43a0-812b-8b8b3e7c4c47</link>
+      <description>&lt;![CDATA[How the house of Rothschild became entangled with Epstein]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0d70b7d3-063d-43a0-812b-8b8b3e7c4c47</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Getting a doctor’s appointment will become even harder as a perfect storm hits the U.S. healthcare system</title>
+      <link>https://www.marketwatch.com/story/getting-a-doctors-appointment-will-become-even-harder-as-a-perfect-storm-hits-the-u-s-healthcare-system-58385587?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Getting a doctor’s appointment will become even harder as a perfect storm hits the U.S. healthcare system]]&gt;</description>
+      <pubDate>Sat, 07 Feb 2026 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/getting-a-doctors-appointment-will-become-even-harder-as-a-perfect-storm-hits-the-u-s-healthcare-system-58385587?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-07 08:34
+**最后更新时间**: 2026-02-07 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-07 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?](https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 22:52
+
+#### [There is a severe doctor shortage. How to find a good one.](https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 20:06
+
+#### [Getting a doctor’s appointment will become even harder as a perfect storm hits the U.S. healthcare system](https://www.marketwatch.com/story/getting-a-doctors-appointment-will-become-even-harder-as-a-perfect-storm-hits-the-u-s-healthcare-system-58385587?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 20:04
+
+#### [The NFL heads into the Super Bowl after a season of record ratings. That could make games cost more to watch in the future.](https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 19:47
+
+#### [Investors are asking if they need to own gold and silver at all](https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 19:38
+
+#### [This year’s Super Bowl ads are telling you the AI bubble is about to burst](https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories)
+**发布时间**: 2026-02-07 19:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Will Lewis steps down as Washington Post publisher and CEO after job cuts](https://www.ft.com/content/5fa62c89-ebf2-4e2e-beb0-d09cfce22d81)
+**发布时间**: 2026-02-07 22:51
+
+#### [Japan goes to the polls after shortest campaign in postwar era](https://www.ft.com/content/1d6762c2-7bbf-4457-8799-2bcb694478e1)
+**发布时间**: 2026-02-07 22:00
+
+#### [How the house of Rothschild became entangled with Epstein](https://www.ft.com/content/0d70b7d3-063d-43a0-812b-8b8b3e7c4c47)
+**发布时间**: 2026-02-07 12:00
 
 ---
 
