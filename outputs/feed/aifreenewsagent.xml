@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Feb 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 08:36:10 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 23:33:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI看图一本正经胡说八道？「一拉一推」让模型看得全又准｜微软x清华</title>
-      <link>https://www.qbitai.com/2026/02/377959.html</link>
-      <description>&lt;![CDATA[AI看图一本正经胡说八道？「一拉一推」让模型看得全又准｜微软x清华]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 06:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377959.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-02-08日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-08/</link>
-      <description>&lt;![CDATA[2026-02-08日刊]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 07:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-08/</guid>
+      <title>2026-02-09日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-09/</link>
+      <description>&lt;![CDATA[2026-02-09日刊]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-09/</guid>
       <category>Ai</category>
     </item>
   </channel>

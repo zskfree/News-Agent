@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-08 08:36
+**最后更新时间**: 2026-02-08 23:33
+
+---
+
+## 🆕 最新更新 (2026-02-08 23:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports](https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 23:32
+
+#### [Super Bowl LX: Seahawks QB Sam Darnold makes 1,500% more than Patriots QB Drake Maye](https://www.marketwatch.com/story/super-bowl-lx-seahawks-qb-sam-darnold-makes-1-500-more-than-patriots-qb-drake-maye-9f3525bb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 23:24
+
+#### [This Super Bowl, the game to watch is prediction markets versus sportsbooks](https://www.marketwatch.com/story/this-super-bowl-the-game-to-watch-is-prediction-markets-versus-sportsbooks-0c674968?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 23:21
+
+#### [The labor market was bad last year. Will investors get stung by a poor January jobs report, too?](https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 20:25
+
+#### [My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He’s pushing me to sell. Is now a good time?](https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 18:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran arrests leading reformist politicians](https://www.ft.com/content/fd260e89-90b6-4208-b53f-192f8d249fff)
+**发布时间**: 2026-02-08 23:22
+
+#### [Keir Starmer faces crunch week in battle to hold on to power](https://www.ft.com/content/ae193a7b-9925-4c8e-ac41-87351946d3c8)
+**发布时间**: 2026-02-08 22:11
+
+#### [Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)
+**发布时间**: 2026-02-08 20:00
+
+#### [Morgan McSweeney resigns as Downing Street chief of staff](https://www.ft.com/content/af753c0f-cb24-4ff2-9630-c5095c58b038)
+**发布时间**: 2026-02-08 18:29
+
+#### [Takaichi’s LDP wins supermajority in Japan election](https://www.ft.com/content/0456cd13-8eda-40fd-90f3-b16d986e50ad)
+**发布时间**: 2026-02-08 17:54
+
+#### [No easy end to easy money](https://www.ft.com/content/94c3cdf3-a3d2-4771-a04d-7b5c58a91347)
+**发布时间**: 2026-02-08 13:00
+
+#### [Economists reject Kevin Warsh’s claim that AI boom will enable rate cuts](https://www.ft.com/content/92717c0e-0e59-4d0c-a364-6ac003de4f8e)
+**发布时间**: 2026-02-08 11:00
+
+#### [Mandelson’s payout after being sacked as ambassador to be reviewed](https://www.ft.com/content/da369960-1719-47da-aa60-4a2f1dbdd6c0)
+**发布时间**: 2026-02-08 09:45
+
+#### [Bitcoin is still about $70,000 too high](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+**发布时间**: 2026-02-08 05:00
 
 ---
 

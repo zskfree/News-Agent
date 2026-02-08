@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "af41b1decebe8990da72f5381c854d43053dcfe42faa808f83f9a623fd101fb4": {
-        "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
-        "link": "https://www.tmtpost.com/6424013.html",
-        "published_date": "Fri, 09 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-09T08:38:28.931189"
-      },
-      "34a9e2ab13c739e56b520e9b4142fdbf61eef2fd2f5e9f57c94181d4572f426a": {
-        "title": "China’s BAAI Sees AI Shifting From Language Models to Physical World Understanding",
-        "link": "https://www.tmtpost.com/7836846.html",
-        "published_date": "Fri, 09 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-09T08:38:28.931195"
-      },
-      "a0f3d08cb8ee8defb86229f243382e9c519190e86cef71ef337e649a64fb8996": {
-        "title": "【钛晨报】广州迎利好！加速培育AI、半导体、航空航天等5个战略先导产业；雀巢因原料问题召回奶粉，蒙牛、君乐宝等紧急回应；中国石化与中国航油官宣重组",
-        "link": "https://www.tmtpost.com/7836246.html",
-        "published_date": "Fri, 09 Jan 2026 07:20:00 GMT",
-        "first_seen": "2026-01-09T08:38:28.931197"
-      },
-      "63cdc47ef2726c70fa0ce55f01f962547ae5c86f36c3655b43e7efce1fb5c1b5": {
-        "title": "MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场",
-        "link": "https://www.tmtpost.com/7836947.html",
-        "published_date": "Fri, 09 Jan 2026 13:38:00 GMT",
-        "first_seen": "2026-01-09T08:38:28.931199"
-      },
-      "638f2e67612ea6046e5d79a8eb010f64e9e710742a033758684a7242067100e6": {
-        "title": "CES 2026观察：AI眼镜并没有迎来iPhone时刻",
-        "link": "https://www.tmtpost.com/7836799.html",
-        "published_date": "Fri, 09 Jan 2026 14:17:00 GMT",
-        "first_seen": "2026-01-09T08:38:28.931200"
-      },
-      "22a67809e2b1d4d10af7d41ab12a22165639a74c1f7375a721eb333e4da58acc": {
-        "title": "欧洲突然倒戈，抢中国卫星技术，终结欧美卫星霸权？",
-        "link": "http://www.huxiu.com/article/4824656.html?f=wangzhan",
-        "published_date": "Fri, 09 Jan 2026 16:08:00 GMT",
-        "first_seen": "2026-01-09T23:22:53.850828"
-      },
-      "8257ee42c4dc8fc8f92c280e6424451a74889fde457dd1da8a19297c5e5ffa39": {
-        "title": "ARM公版架构遇冷",
-        "link": "https://www.tmtpost.com/7837364.html",
-        "published_date": "Fri, 09 Jan 2026 19:31:00 GMT",
-        "first_seen": "2026-01-09T23:22:53.850834"
-      },
-      "20e53eb7fb68c5093d52d0e564affe52c57fafcc19cef6edb19a50bb8c54c1bf": {
-        "title": "Neuralink点燃概念股：脑机接口离产业化还差哪三道门？",
-        "link": "https://www.tmtpost.com/7836350.html",
-        "published_date": "Fri, 09 Jan 2026 18:35:00 GMT",
-        "first_seen": "2026-01-09T23:22:53.850837"
-      },
-      "bfd085d6cf8d520046693191a246a9ede24b6a426f2591c1eb8efadb72bbd4ce": {
-        "title": "从CES 2026看AI落地：消费级硬件成巨头必争“敲门砖”",
-        "link": "https://www.tmtpost.com/7837252.html",
-        "published_date": "Fri, 09 Jan 2026 19:31:00 GMT",
-        "first_seen": "2026-01-09T23:22:53.850838"
-      },
-      "a24e8daa3ae1d8b7efdfb002ec2a6c4a89d4b536331c8679522f60ee6496a09c": {
-        "title": "Manus高溢价收购背后，是Agent开发落地困境",
-        "link": "https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 14:47:00 GMT",
-        "first_seen": "2026-01-09T23:22:53.850840"
-      },
       "72257391505cb2aeb675795e4f43332179c1cc048a4625ad0ee7ad73a8e31c3b": {
         "title": "字节“上新”AI视频应用，正面迎战OpenAI、阿里",
         "link": "https://www.tmtpost.com/7837482.html",
@@ -2725,51 +2665,39 @@
         "link": "https://www.tmtpost.com/7871099.html",
         "published_date": "Sun, 08 Feb 2026 08:42:00 GMT",
         "first_seen": "2026-02-08T08:36:22.277517"
+      },
+      "4c103144677fd6b62018edc9e26701f0510c27d2dcecb377346cdaeb8a4d4568": {
+        "title": "硅谷狂投万亿美元，黄仁勋火上浇油：现在不烧，更待何时",
+        "link": "https://www.tmtpost.com/7871392.html",
+        "published_date": "Sun, 08 Feb 2026 18:27:00 GMT",
+        "first_seen": "2026-02-08T23:34:11.370676"
+      },
+      "60b183902561fa2a5eda8dfe8b83cc962784a1ffdbf9957f6388110d77b8a91b": {
+        "title": "【钛晨报】预制菜不得使用防腐剂、保质期不应超一年，预制菜国标征求意见；央行等八部门：持续整治虚拟货币“挖矿”活动；半导体行业有望首次迈入万亿美元时代",
+        "link": "https://www.tmtpost.com/7871541.html",
+        "published_date": "Mon, 09 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-08T23:34:11.370682"
+      },
+      "1122be9bdc4a3c1f9b8eaf81f46004ecbee38842d4cbe1eec1d0509ac8589bb0": {
+        "title": "2026，AI真正元年：从一人公司到AI自治社交",
+        "link": "https://www.tmtpost.com/7871399.html",
+        "published_date": "Sun, 08 Feb 2026 18:21:00 GMT",
+        "first_seen": "2026-02-08T23:34:11.370685"
+      },
+      "22cfa44153a3413d3eb3f55e8a525d69846ed02ddb2367def60fc80865139c13": {
+        "title": "Robotaxi是下一个共享汽车？",
+        "link": "https://www.tmtpost.com/7871326.html",
+        "published_date": "Sun, 08 Feb 2026 18:14:00 GMT",
+        "first_seen": "2026-02-08T23:34:11.370687"
+      },
+      "5f3bfb20a88bd64980884763ebb9d4a33f0f0cee0bb103adc7cf3b911e1cc11c": {
+        "title": "大批企业开始逃离光伏，麦迪科技、华东重机等企业撤出，谁在抄底谁在割肉？",
+        "link": "https://www.tmtpost.com/7871411.html",
+        "published_date": "Sun, 08 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-08T23:34:11.370688"
       }
     },
     "Finance": {
-      "62593412f282ee2921af855b2c982870359e9252671777d46e01244c191d906f": {
-        "title": "The world’s biggest miner may be created with copper prices near highs",
-        "link": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 08:34:00 GMT",
-        "first_seen": "2026-01-09T08:37:51.318976"
-      },
-      "0e66df35ccaf259b5af244f60b80b84de62e46194d021f43fffdc51ac40a8091": {
-        "title": "Iran hit by ‘internet blackout’ as regime struggles to contain protests",
-        "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
-        "published_date": "Fri, 09 Jan 2026 07:07:00 GMT",
-        "first_seen": "2026-01-09T08:37:51.318985"
-      },
-      "7e70ddffd6da6743dee87c298f7c9ea87748362334cf82bdc6e05b7033bc492f": {
-        "title": "Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting",
-        "link": "https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 21:16:00 GMT",
-        "first_seen": "2026-01-09T23:22:18.568070"
-      },
-      "29943aa0850691bdfcbfffa0407f40c0fdbf6c9dee302954f43eeda37fafd70a": {
-        "title": "US economy undershoots expectations to add just 50,000 jobs in December",
-        "link": "https://www.ft.com/content/026e599f-7b29-40fc-b0ce-dea43a792e6e",
-        "published_date": "Fri, 09 Jan 2026 13:55:00 GMT",
-        "first_seen": "2026-01-09T23:22:18.568078"
-      },
-      "1b699f032b11e29ffc6008f2f08fb92db57e2ab3bdc30c7bcb1ad4277bb12092": {
-        "title": "Trump posted jobs data early on Truth Social",
-        "link": "https://www.ft.com/content/2dc5bbba-921a-4660-84c4-f3998300c889",
-        "published_date": "Fri, 09 Jan 2026 21:27:00 GMT",
-        "first_seen": "2026-01-09T23:22:18.568080"
-      },
-      "e88eb602fc071b7c1ea2ea9b007723ada416abc66521804eb9bdb7ccdaecb622": {
-        "title": "Trump’s new prediction for ‘massive wealth’ from Venezuelan oil may take a while to play out",
-        "link": "https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 22:06:00 GMT",
-        "first_seen": "2026-01-09T23:22:18.568082"
-      },
-      "83d7ccf2147325a31dc8847959bf95cc78fe72fad9bdbc2286cee87716a3499f": {
-        "title": "Oil rises 3% this week — and not just because of Venezuela",
-        "link": "https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 20:03:00 GMT",
-        "first_seen": "2026-01-09T23:22:18.568084"
-      },
       "42d960cb490269eb86b94b33aa5459324b913af7d8858a433f584073a65c57f1": {
         "title": "Trump says he’ll cap credit-card interest rates at 10% as Americans battle soaring debt",
         "link": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
@@ -4617,69 +4545,39 @@
         "link": "https://www.ft.com/content/8dac7142-e170-4228-8159-2ba1842a2ec8",
         "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-08T06:00:16.964675"
+      },
+      "935b2bcbaed9634bedcdf790ababa51e71759aef6ccf5278e59dbcee3d26c819": {
+        "title": "No easy end to easy money",
+        "link": "https://www.ft.com/content/94c3cdf3-a3d2-4771-a04d-7b5c58a91347",
+        "published_date": "Sun, 08 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.705351"
+      },
+      "980faf748e420c186ad17be61029ee5c0986c29e21df0f6bb900abd6d845d444": {
+        "title": "Economists reject Kevin Warsh’s claim that AI boom will enable rate cuts",
+        "link": "https://www.ft.com/content/92717c0e-0e59-4d0c-a364-6ac003de4f8e",
+        "published_date": "Sun, 08 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.705359"
+      },
+      "21ca2ca9f03e885f42593f2e9e372fce84f6c53e523662967ca5d77e7bf3754e": {
+        "title": "Big Tech groups race to fund unprecedented $660bn AI spending spree",
+        "link": "https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2",
+        "published_date": "Sun, 08 Feb 2026 20:00:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.705362"
+      },
+      "81896b22a6c08ebf1ecf5accd03a2f919f7f754f1b9f300b8a05684da1ddae0d": {
+        "title": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
+        "published_date": "Sun, 08 Feb 2026 23:32:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.705364"
+      },
+      "509036371351c968acb2ba1f2517745893225ff09409286bc6c8ff1e8eccb476": {
+        "title": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
+        "link": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
+        "published_date": "Sun, 08 Feb 2026 20:25:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.705366"
       }
     },
     "Ai": {
-      "800e9eed3f03c720564623a9618231992a2053136656eaad8dd4039140af2d74": {
-        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
-        "link": "https://www.qbitai.com/2026/01/368407.html",
-        "published_date": "Fri, 09 Jan 2026 08:04:00 GMT",
-        "first_seen": "2026-01-09T08:38:08.521261"
-      },
-      "d785391c614190dbf13ccf91b749ba281f1237e1e65466d04864879afb5b7f2e": {
-        "title": "深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-7",
-        "published_date": "Fri, 09 Jan 2026 14:27:00 GMT",
-        "first_seen": "2026-01-09T08:38:08.521267"
-      },
-      "95a1c97d2ceb1200445d58fb2a81bc227a2a9be6b483afd78cbf9f3148bd09a3": {
-        "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-5",
-        "published_date": "Fri, 09 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-09T08:38:08.521270"
-      },
-      "59664ca0b6dd1eee0e59441bdf149fc57e232238629a1489bdb4bd87e03e8ba3": {
-        "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-6",
-        "published_date": "Fri, 09 Jan 2026 14:24:00 GMT",
-        "first_seen": "2026-01-09T08:38:08.521271"
-      },
-      "2ed334853b28b64f4c696b5e8c6306fe15eebb5c90b0f30751e8f789a8d6c430": {
-        "title": "OpenAI for Healthcare——面向医疗保健的AI产品",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-8",
-        "published_date": "Fri, 09 Jan 2026 14:28:00 GMT",
-        "first_seen": "2026-01-09T08:38:08.521273"
-      },
-      "b252ec1a76c51cc8b171c7b6815076cc5a513246d43b38bdb80e8f38b29ad31a": {
-        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
-        "link": "https://www.qbitai.com/2026/01/368598.html",
-        "published_date": "Fri, 09 Jan 2026 08:57:00 GMT",
-        "first_seen": "2026-01-09T23:22:29.129571"
-      },
-      "23035235c349e72b81c0c6a71fd389fdd1e41e9150003d4363f8cae5a7b295b2": {
-        "title": "蚂蚁再把医疗AI卷出新高度！蚂蚁·安诊儿医疗大模型开源即SOTA",
-        "link": "https://www.qbitai.com/2026/01/368649.html",
-        "published_date": "Fri, 09 Jan 2026 12:10:00 GMT",
-        "first_seen": "2026-01-09T23:22:29.129577"
-      },
-      "cfc195caddb4c7f1d7718f0b1e63b081a4f234944c86b9270c5edee197adaaf6": {
-        "title": "太初元碁发布国产高兼容性虚拟指令集PCX及高性能工业级编译器PCXAC",
-        "link": "https://www.qbitai.com/2026/01/368641.html",
-        "published_date": "Fri, 09 Jan 2026 11:12:00 GMT",
-        "first_seen": "2026-01-09T23:22:29.129579"
-      },
-      "7119a5bca841158e72bf3c947392d57b6fbad7c7a587b329e42b6728e069f5a0": {
-        "title": "让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-9",
-        "published_date": "Fri, 09 Jan 2026 14:29:00 GMT",
-        "first_seen": "2026-01-09T23:22:29.129581"
-      },
-      "a8249f1fc6a74c2815b804279afc7d1902244e7e3dc2471b78cf20818f8de536": {
-        "title": "谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-4",
-        "published_date": "Fri, 09 Jan 2026 13:30:00 GMT",
-        "first_seen": "2026-01-09T23:22:29.129583"
-      },
       "d2a595603131512f99c4ec89e4cd839b456973881e4d289cbbebd37ba46b30a8": {
         "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
         "link": "https://www.qbitai.com/2026/01/368820.html",
@@ -6845,13 +6743,19 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-08/",
         "published_date": "Sun, 08 Feb 2026 07:24:00 GMT",
         "first_seen": "2026-02-08T08:36:10.607433"
+      },
+      "0644d6932287f4321d5d69fc9ae4f3ecb047ee9ad575c5fa9a2184d55be77f9f": {
+        "title": "2026-02-09日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-09/",
+        "published_date": "Mon, 09 Feb 2026 07:24:00 GMT",
+        "first_seen": "2026-02-08T23:33:56.855466"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-08T08:36:22.277520",
-    "Finance": "2026-02-08T06:00:16.964678",
-    "Ai": "2026-02-08T08:36:10.607436"
+    "Technology": "2026-02-08T23:34:11.370690",
+    "Finance": "2026-02-08T23:33:56.705368",
+    "Ai": "2026-02-08T23:33:56.855474"
   }
 }
