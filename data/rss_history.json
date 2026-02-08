@@ -2695,6 +2695,36 @@
         "link": "https://www.tmtpost.com/7871264.html",
         "published_date": "Sun, 08 Feb 2026 10:03:00 GMT",
         "first_seen": "2026-02-08T06:00:39.315564"
+      },
+      "33ee615720de7d84e8d3d5c25233222cf1a546f63ffb9802cc2ece5cd7b92030": {
+        "title": "千问一夜爆火，上演AI时代第一场“现象级”事件",
+        "link": "https://www.tmtpost.com/7870990.html",
+        "published_date": "Sun, 08 Feb 2026 12:37:00 GMT",
+        "first_seen": "2026-02-08T08:36:22.277506"
+      },
+      "1f93857ba999987722a1ec789f875ba0148bb1977532cc6e13c87d267bc2d975": {
+        "title": "从测试驱动开发和生产环境测试中获得反馈",
+        "link": "https://www.infoq.cn/article/bibe64DvY3it15efBbta?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 08 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-08T08:36:22.277512"
+      },
+      "73dbd6578627940ac138359e8af6213450996415d990d44207c3c78d437d005f": {
+        "title": "中国谷歌是个伪命题",
+        "link": "https://www.tmtpost.com/7871092.html",
+        "published_date": "Sun, 08 Feb 2026 08:42:00 GMT",
+        "first_seen": "2026-02-08T08:36:22.277514"
+      },
+      "0fd8db6a0ced0341c1de65c0913f3fd5fd2a332298b8a6a05eb2082d78566469": {
+        "title": "盘点 8 个本周 yyds 的 GitHub 开源项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531116&idx=1&sn=b21c42411c9c3b0990bedc31142d84bd",
+        "published_date": "Sun, 08 Feb 2026 15:05:00 GMT",
+        "first_seen": "2026-02-08T08:36:22.277516"
+      },
+      "4047622f0a13ac9006d2acd875eaf0a3d9483f8b0dc6c2ea6c773265d791d414": {
+        "title": "歪马送酒才是美团2025即时零售的大亮点",
+        "link": "https://www.tmtpost.com/7871099.html",
+        "published_date": "Sun, 08 Feb 2026 08:42:00 GMT",
+        "first_seen": "2026-02-08T08:36:22.277517"
       }
     },
     "Finance": {
@@ -6803,13 +6833,25 @@
         "link": "https://www.qbitai.com/2026/02/377863.html",
         "published_date": "Sun, 08 Feb 2026 04:54:00 GMT",
         "first_seen": "2026-02-08T06:00:25.849122"
+      },
+      "3877aaea05bfad46b78fbf7f6b02f655cc351dd6e2af5aacb3f213d8c0cba120": {
+        "title": "AI看图一本正经胡说八道？「一拉一推」让模型看得全又准｜微软x清华",
+        "link": "https://www.qbitai.com/2026/02/377959.html",
+        "published_date": "Sun, 08 Feb 2026 06:08:00 GMT",
+        "first_seen": "2026-02-08T08:36:10.607424"
+      },
+      "3b990aa4845026b86724902747a80a202536682eb01cf92e840a2ceb4a2e3363": {
+        "title": "2026-02-08日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-08/",
+        "published_date": "Sun, 08 Feb 2026 07:24:00 GMT",
+        "first_seen": "2026-02-08T08:36:10.607433"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-08T06:00:39.315566",
+    "Technology": "2026-02-08T08:36:22.277520",
     "Finance": "2026-02-08T06:00:16.964678",
-    "Ai": "2026-02-08T06:00:25.849125"
+    "Ai": "2026-02-08T08:36:10.607436"
   }
 }

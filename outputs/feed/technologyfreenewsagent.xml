@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Feb 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 06:00:39 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 08:36:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】 Anthropic法律插件、金融模型致美股软件股“地震”；OpenAI推出GPT-5.3-Codex；甲骨文被曝或裁员3万人；OpenAI推出Codex应用；中国生成式人工智能用户规模达6.02亿人</title>
-      <link>https://www.tmtpost.com/7870592.html</link>
-      <description>&lt;![CDATA[【数智周报】 Anthropic法律插件、金融模型致美股软件股“地震”；OpenAI推出GPT-5.3-Codex；甲骨文被曝或裁员3万人；OpenAI推出Codex应用；中国生成式人工智能用户规模达6.02亿人]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7870592.html</guid>
+      <title>千问一夜爆火，上演AI时代第一场“现象级”事件</title>
+      <link>https://www.tmtpost.com/7870990.html</link>
+      <description>&lt;![CDATA[千问一夜爆火，上演AI时代第一场“现象级”事件]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7870990.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7000亿美元一把梭哈？AI尚未变现，Top科技巨头已面临资金困局</title>
-      <link>https://www.tmtpost.com/7870817.html</link>
-      <description>&lt;![CDATA[7000亿美元一把梭哈？AI尚未变现，Top科技巨头已面临资金困局]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7870817.html</guid>
+      <title>从测试驱动开发和生产环境测试中获得反馈</title>
+      <link>https://www.infoq.cn/article/bibe64DvY3it15efBbta?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从测试驱动开发和生产环境测试中获得反馈]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bibe64DvY3it15efBbta?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI气象大模型的下半场：当天气开始进入现金流</title>
-      <link>https://www.tmtpost.com/7871105.html</link>
-      <description>&lt;![CDATA[AI气象大模型的下半场：当天气开始进入现金流]]&gt;</description>
+      <title>中国谷歌是个伪命题</title>
+      <link>https://www.tmtpost.com/7871092.html</link>
+      <description>&lt;![CDATA[中国谷歌是个伪命题]]&gt;</description>
       <pubDate>Sun, 08 Feb 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7871105.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7871092.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cedar作为沙箱项目加入CNCF</title>
-      <link>https://www.infoq.cn/article/lM2YobxDHGC1HZNkRNs4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cedar作为沙箱项目加入CNCF]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lM2YobxDHGC1HZNkRNs4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>盘点 8 个本周 yyds 的 GitHub 开源项目。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd</link>
+      <description>&lt;![CDATA[盘点 8 个本周 yyds 的 GitHub 开源项目。]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>存储芯片迎“超级周期”，江波龙业绩爆发背后的财务隐忧｜上市公司观察</title>
-      <link>https://www.tmtpost.com/7871264.html</link>
-      <description>&lt;![CDATA[存储芯片迎“超级周期”，江波龙业绩爆发背后的财务隐忧｜上市公司观察]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7871264.html</guid>
+      <title>歪马送酒才是美团2025即时零售的大亮点</title>
+      <link>https://www.tmtpost.com/7871099.html</link>
+      <description>&lt;![CDATA[歪马送酒才是美团2025即时零售的大亮点]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7871099.html</guid>
       <category>Technology</category>
     </item>
   </channel>
