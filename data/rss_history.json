@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "82a18045725b85f62200ade388478cde44ebe75d006bdae4db78eb46d7635a7c": {
-        "title": "智源研究院2026十大AI技术趋势：具身智能迎来行业“出清”，世界模型成为AGI共识方向 | CES 2026",
-        "link": "https://www.tmtpost.com/7836677.html",
-        "published_date": "Fri, 09 Jan 2026 10:10:00 GMT",
-        "first_seen": "2026-01-09T05:28:11.289095"
-      },
-      "56d29fb43c2d53b056cfc5d7268fc4843fa1736e1089fa88e5e85c81ca59498b": {
-        "title": "DeepSeek-V3.2在推理任务中的表现优于GPT-5",
-        "link": "https://www.infoq.cn/article/fJRLWvOdwbcSiQXlNPek?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 09:35:00 GMT",
-        "first_seen": "2026-01-09T05:28:11.289102"
-      },
-      "24fe108aee85567f7d7634f0b11ac5d754cfd986f87e8738ca6f6c60d28d6601": {
-        "title": "刚刚，AI企业IPO最速纪录刷新！MiniMax的技术野心，价值超800亿",
-        "link": "https://www.infoq.cn/article/U7llrTLhdJxypjxLbTkz?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 11:53:00 GMT",
-        "first_seen": "2026-01-09T05:28:11.289104"
-      },
-      "d6e4511a7d18feb12d0805a5da9444323fa33094db02b45b60c76b977a0dda45": {
-        "title": "“AI火了，我们却快完了！”顶级开源框架Tailwind之父含泪裁掉75%兄弟：半年后，这个项目可能就没了",
-        "link": "https://www.infoq.cn/article/avx0cJiB7tR3uorMOxDd?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 09 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-09T05:28:11.289106"
-      },
-      "038b14f9285f0054b37336b10714cbfbee1ff684a55cc0ff49cf830073273b3a": {
-        "title": "“冰火交织”消费电子：2026在博弈中重塑，AI端侧开启新纪元",
-        "link": "https://www.tmtpost.com/7836429.html",
-        "published_date": "Fri, 09 Jan 2026 10:26:00 GMT",
-        "first_seen": "2026-01-09T05:28:11.289107"
-      },
       "af41b1decebe8990da72f5381c854d43053dcfe42faa808f83f9a623fd101fb4": {
         "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
         "link": "https://www.tmtpost.com/6424013.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7870762.html",
         "published_date": "Sat, 07 Feb 2026 16:06:00 GMT",
         "first_seen": "2026-02-07T23:32:17.127909"
+      },
+      "d67a7faa5839269626cb04202e17f74ae66b83162689dc646055b0eb80d98fc6": {
+        "title": "【数智周报】 Anthropic法律插件、金融模型致美股软件股“地震”；OpenAI推出GPT-5.3-Codex；甲骨文被曝或裁员3万人；OpenAI推出Codex应用；中国生成式人工智能用户规模达6.02亿人",
+        "link": "https://www.tmtpost.com/7870592.html",
+        "published_date": "Sun, 08 Feb 2026 10:06:00 GMT",
+        "first_seen": "2026-02-08T06:00:39.315552"
+      },
+      "b600527afc638e4b350e5af990771df390811b15afae523d91842973f8c0335c": {
+        "title": "7000亿美元一把梭哈？AI尚未变现，Top科技巨头已面临资金困局",
+        "link": "https://www.tmtpost.com/7870817.html",
+        "published_date": "Sun, 08 Feb 2026 11:18:00 GMT",
+        "first_seen": "2026-02-08T06:00:39.315559"
+      },
+      "922131d60c1583448560f43ba2bed38a8d840f5482aa785c7082c314de8420ce": {
+        "title": "AI气象大模型的下半场：当天气开始进入现金流",
+        "link": "https://www.tmtpost.com/7871105.html",
+        "published_date": "Sun, 08 Feb 2026 08:42:00 GMT",
+        "first_seen": "2026-02-08T06:00:39.315561"
+      },
+      "742eaaba3ee66a940a053aab3d2194d2c7323c03c7f797cd3a6a6b451c7b2e8e": {
+        "title": "Cedar作为沙箱项目加入CNCF",
+        "link": "https://www.infoq.cn/article/lM2YobxDHGC1HZNkRNs4?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 08 Feb 2026 09:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:39.315563"
+      },
+      "1f625e4132e6c681673049e1fe90ee51ff3f9d2dca0a8d02383b55b3b1a10b94": {
+        "title": "存储芯片迎“超级周期”，江波龙业绩爆发背后的财务隐忧｜上市公司观察",
+        "link": "https://www.tmtpost.com/7871264.html",
+        "published_date": "Sun, 08 Feb 2026 10:03:00 GMT",
+        "first_seen": "2026-02-08T06:00:39.315564"
       }
     },
     "Finance": {
-      "a5e4afccc1809f64315c12fab5e73b242a7db157a177f4e7d6975ba88a376209": {
-        "title": "Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.",
-        "link": "https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 01:33:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.432742"
-      },
-      "fe61cf9a26d09563e96c21e68b829cbb81f37c7e828dd1c77256147c49444751": {
-        "title": "Aerospace, defense stocks surge after Trump’s proposed $1.5 trillion military-spending budget — but are investors too optimistic?",
-        "link": "https://www.marketwatch.com/story/aerospace-defense-stocks-surge-after-trumps-proposed-1-5-trillion-military-spending-budget-but-are-investors-too-optimistic-331f41a6?mod=mw_rss_topstories",
-        "published_date": "Thu, 08 Jan 2026 23:25:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.432750"
-      },
-      "dd939d80062691e59366da1e14c05ca3a93260a68902c4d12fe13d52a6d4863a": {
-        "title": "U.S. stocks are up this year even as tech slides, with some already rallying more than 10%",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-are-up-this-year-even-as-tech-slides-with-some-already-rallying-more-than-10-546dbf6d?mod=mw_rss_topstories",
-        "published_date": "Thu, 08 Jan 2026 23:24:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.432753"
-      },
-      "28baf86aea6c108f3a7108fa0ea02067c9519efa2c5ef5d6334a728031c9904b": {
-        "title": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
-        "link": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
-        "published_date": "Fri, 09 Jan 2026 00:30:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.432754"
-      },
-      "6a1dcb55a4e98f97d8a1615927e1d13e0dce1bc67015b4e2bf0e6b7518bcdc3f": {
-        "title": "JD Vance defends killing of anti-ICE protester in Minneapolis",
-        "link": "https://www.ft.com/content/a31656fc-eab2-4620-8a57-b5158bced0ae",
-        "published_date": "Fri, 09 Jan 2026 03:22:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.432756"
-      },
       "62593412f282ee2921af855b2c982870359e9252671777d46e01244c191d906f": {
         "title": "The world’s biggest miner may be created with copper prices near highs",
         "link": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
@@ -4587,39 +4557,39 @@
         "link": "https://www.marketwatch.com/story/getting-a-doctors-appointment-will-become-even-harder-as-a-perfect-storm-hits-the-u-s-healthcare-system-58385587?mod=mw_rss_topstories",
         "published_date": "Sat, 07 Feb 2026 20:04:00 GMT",
         "first_seen": "2026-02-07T23:31:45.691706"
+      },
+      "c123d8d0f68dd99dc8529289cbe1d6817027dd6935b190eb3041bb7460a7f2f6": {
+        "title": "Ease borrowing curbs for development schemes, gilt investors urge Reeves",
+        "link": "https://www.ft.com/content/7db507a6-b290-40d0-ac08-fa7aac2514a4",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:16.964659"
+      },
+      "f6316dc0e91ab033085a19c83d031e0f16958c2fc088a5cf1523327362980f8e": {
+        "title": "Banks push for speedy European IPOs to cut market risk",
+        "link": "https://www.ft.com/content/1e13ad7d-b551-4575-a229-e6b0452f946c",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:16.964668"
+      },
+      "ba4ef60e1440cf66be352fa9b142dd8eb5ecc37abd4446525b8d7bc0aa2d8706": {
+        "title": "Bitcoin is still about $69,000 too high",
+        "link": "https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:16.964671"
+      },
+      "277a33d516816336b4da4179bb007dbe0b3df442b8bab3e28bccc8a51b8b50fa": {
+        "title": "Almost a fifth of FTSE 100 CEOs live outside the UK",
+        "link": "https://www.ft.com/content/7520d403-3567-4e9a-97f5-b2611850f68f",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:16.964673"
+      },
+      "74df4064ef4e1440f2ca30e7ba843bc421ef18a4e101bd342cb373316b315417": {
+        "title": "After Maduro: Venezuela learns to live without its strongman",
+        "link": "https://www.ft.com/content/8dac7142-e170-4228-8159-2ba1842a2ec8",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:16.964675"
       }
     },
     "Ai": {
-      "f7d4f09a2aed58213cae3dcdd65d4daebdc9c2ca371adb436f47a89c0cc74f75": {
-        "title": "大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-3",
-        "published_date": "Fri, 09 Jan 2026 13:26:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.581347"
-      },
-      "893d1af869f5095869c11dd139b78adda811d5a3493a8ab5b7501a621177f21e": {
-        "title": "医疗领域DeepSeek时刻：蚂蚁 · 安诊儿医疗大模型正式开源，登顶权威榜单",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09-2",
-        "published_date": "Fri, 09 Jan 2026 11:10:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.581354"
-      },
-      "3fac24b70fd5e0e2a61a52616fbcbbb72d80f52c40de17336319d906d94146ea": {
-        "title": "AAAI 2026 Oral | 大模型「爱你在心口难开」？深度隐藏认知让推理更可靠",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-09",
-        "published_date": "Fri, 09 Jan 2026 11:04:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.581356"
-      },
-      "8fd152f1a314365b6d956e491ea56ed34301a535af33fe63d8c2244e24503246": {
-        "title": "763亿港元，大模型公司最大规模IPO！MiniMax登陆港交所，开盘前大涨50%",
-        "link": "https://www.qbitai.com/2026/01/367789.html",
-        "published_date": "Fri, 09 Jan 2026 02:49:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.581357"
-      },
-      "83a184639d8b00a63f9bd15e8cfc7126b1a8a21418dbf79fa2fda62905cca1f8": {
-        "title": "2026-01-09日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-09/",
-        "published_date": "Fri, 09 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-09T05:27:45.581359"
-      },
       "800e9eed3f03c720564623a9618231992a2053136656eaad8dd4039140af2d74": {
         "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
         "link": "https://www.qbitai.com/2026/01/368407.html",
@@ -6803,13 +6773,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-07-4",
         "published_date": "Sat, 07 Feb 2026 19:29:00 GMT",
         "first_seen": "2026-02-07T23:31:58.597860"
+      },
+      "842836c3074086c3a2efba104f24f00ab21dbb6f665453301b77b5f8a9388700": {
+        "title": "AI编程节省95% token，工具调用上限狂飙20倍，开源记忆系统登顶GitHub热榜",
+        "link": "https://www.qbitai.com/2026/02/377893.html",
+        "published_date": "Sun, 08 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-08T06:00:25.849110"
+      },
+      "9a7084fa2d5ac4ea35fb5e92a198db0c4201c4e6b308a12189a20bdb8c730ef9": {
+        "title": "神秘模型「Pony Alpha」引外网热议，它会是国产大模型中的谁？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-08-2",
+        "published_date": "Sun, 08 Feb 2026 11:31:00 GMT",
+        "first_seen": "2026-02-08T06:00:25.849117"
+      },
+      "8d22a8cd7f49889e2a842e431ca22474aaa32a89e25b4bb83e6548767283086d": {
+        "title": "ICLR 2026｜UIUC：一行代码彻底解决LLM推理的过度思考！",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-08",
+        "published_date": "Sun, 08 Feb 2026 11:28:00 GMT",
+        "first_seen": "2026-02-08T06:00:25.849119"
+      },
+      "ab6908d4696973da6af834c6967e08b0ab9cb0efc75b0afa850bc45fb034d8a9": {
+        "title": "中国第一批没有论文的工科博士毕业了",
+        "link": "https://www.qbitai.com/2026/02/377908.html",
+        "published_date": "Sun, 08 Feb 2026 05:11:00 GMT",
+        "first_seen": "2026-02-08T06:00:25.849121"
+      },
+      "884f232a53cf8594850f2fb16e325dd7869c4e02a4cc293d80a293ae6dc465d3": {
+        "title": "11位顶尖数学家发了篇没结果的论文，陶哲轩推荐都关注一下",
+        "link": "https://www.qbitai.com/2026/02/377863.html",
+        "published_date": "Sun, 08 Feb 2026 04:54:00 GMT",
+        "first_seen": "2026-02-08T06:00:25.849122"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-07T23:32:17.127911",
-    "Finance": "2026-02-07T23:31:45.691708",
-    "Ai": "2026-02-07T23:31:58.597863"
+    "Technology": "2026-02-08T06:00:39.315566",
+    "Finance": "2026-02-08T06:00:16.964678",
+    "Ai": "2026-02-08T06:00:25.849125"
   }
 }

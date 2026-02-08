@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-07 23:31
+**最后更新时间**: 2026-02-08 06:00
+
+---
+
+## 🆕 最新更新 (2026-02-08 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ease borrowing curbs for development schemes, gilt investors urge Reeves](https://www.ft.com/content/7db507a6-b290-40d0-ac08-fa7aac2514a4)
+**发布时间**: 2026-02-08 05:00
+
+#### [After Maduro: Venezuela learns to live without its strongman](https://www.ft.com/content/8dac7142-e170-4228-8159-2ba1842a2ec8)
+**发布时间**: 2026-02-08 05:00
+
+#### [Bitcoin is still about $69,000 too high](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+**发布时间**: 2026-02-08 05:00
+
+#### [How to shut down a business](https://www.ft.com/content/7ed077e4-3ec6-4eb9-aa7c-2baaddf5ff5d)
+**发布时间**: 2026-02-08 05:00
+
+#### [Almost a fifth of FTSE 100 CEOs live outside the UK](https://www.ft.com/content/7520d403-3567-4e9a-97f5-b2611850f68f)
+**发布时间**: 2026-02-08 05:00
+
+#### [Banks push for speedy European IPOs to cut market risk](https://www.ft.com/content/1e13ad7d-b551-4575-a229-e6b0452f946c)
+**发布时间**: 2026-02-08 05:00
 
 ---
 

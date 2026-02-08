@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 23:31:58 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 05:59:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:00:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>清华研究生开源大一统世界模型：性能超越硅谷标杆40%！</title>
-      <link>https://www.qbitai.com/2026/02/377835.html</link>
-      <description>&lt;![CDATA[清华研究生开源大一统世界模型：性能超越硅谷标杆40%！]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377835.html</guid>
+      <title>AI编程节省95% token，工具调用上限狂飙20倍，开源记忆系统登顶GitHub热榜</title>
+      <link>https://www.qbitai.com/2026/02/377893.html</link>
+      <description>&lt;![CDATA[AI编程节省95% token，工具调用上限狂飙20倍，开源记忆系统登顶GitHub热榜]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377893.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-07-5</link>
-      <description>&lt;![CDATA[Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 19:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-5</guid>
+      <title>神秘模型「Pony Alpha」引外网热议，它会是国产大模型中的谁？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-08-2</link>
+      <description>&lt;![CDATA[神秘模型「Pony Alpha」引外网热议，它会是国产大模型中的谁？]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-08-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>像挖币一样挖激活函数？DeepMind搭建「算力矿场」，暴力搜出下一代ReLU</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-07-2</link>
-      <description>&lt;![CDATA[像挖币一样挖激活函数？DeepMind搭建「算力矿场」，暴力搜出下一代ReLU]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 19:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-2</guid>
+      <title>ICLR 2026｜UIUC：一行代码彻底解决LLM推理的过度思考！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-08</link>
+      <description>&lt;![CDATA[ICLR 2026｜UIUC：一行代码彻底解决LLM推理的过度思考！]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-08</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构</title>
-      <link>https://www.qbitai.com/2026/02/377824.html</link>
-      <description>&lt;![CDATA[小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377824.html</guid>
+      <title>中国第一批没有论文的工科博士毕业了</title>
+      <link>https://www.qbitai.com/2026/02/377908.html</link>
+      <description>&lt;![CDATA[中国第一批没有论文的工科博士毕业了]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 05:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377908.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人形机器人的真机强化学习! ICLR 2026 通研院提出人形机器人预训练与真机微调新范式</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-07-4</link>
-      <description>&lt;![CDATA[人形机器人的真机强化学习! ICLR 2026 通研院提出人形机器人预训练与真机微调新范式]]&gt;</description>
-      <pubDate>Sat, 07 Feb 2026 19:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-07-4</guid>
+      <title>11位顶尖数学家发了篇没结果的论文，陶哲轩推荐都关注一下</title>
+      <link>https://www.qbitai.com/2026/02/377863.html</link>
+      <description>&lt;![CDATA[11位顶尖数学家发了篇没结果的论文，陶哲轩推荐都关注一下]]&gt;</description>
+      <pubDate>Sun, 08 Feb 2026 04:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/377863.html</guid>
       <category>Ai</category>
     </item>
   </channel>
