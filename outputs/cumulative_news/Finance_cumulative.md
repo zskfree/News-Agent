@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-08 23:33
+**最后更新时间**: 2026-02-09 06:08
+
+---
+
+## 🆕 最新更新 (2026-02-09 06:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘It feels like a betrayal.’ Germany’s painful estrangement from the US](https://www.ft.com/content/ef3c7456-93e9-4245-b435-91bf216c423a)
+**发布时间**: 2026-02-09 05:00
+
+#### [Bash All Day, Buy All Night](https://www.ft.com/content/b081357c-abc9-4c7a-87e1-8353504f6939)
+**发布时间**: 2026-02-09 05:00
+
+#### [Three ways European banks are finding their mojo](https://www.ft.com/content/4578dec3-8385-466e-90d3-368454914516)
+**发布时间**: 2026-02-09 05:00
+
+#### [US embassy in London denies visas to executives over minor offences](https://www.ft.com/content/a38dd4ce-08ce-48d8-b112-47167e4a703c)
+**发布时间**: 2026-02-09 05:00
+
+#### [UK’s FCA plans to publish all trading data for London-listed shares](https://www.ft.com/content/5ba78af4-d722-442d-8a21-7220821327b6)
+**发布时间**: 2026-02-09 05:00
+
+#### [Japanese stocks soar to record after Takaichi landslide election win](https://www.ft.com/content/13556ff7-89be-463f-8dbd-a16540a47dab)
+**发布时间**: 2026-02-09 04:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [3 things to know about ‘Trump accounts’ — the new investment vehicle for kids advertised during the Super Bowl](https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories)
+**发布时间**: 2026-02-08 23:34
 
 ---
 

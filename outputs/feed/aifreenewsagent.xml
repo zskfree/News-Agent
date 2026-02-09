@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Feb 2026 23:33:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 23:33:56 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 06:07:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 06:08:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-09日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-09/</link>
-      <description>&lt;![CDATA[2026-02-09日刊]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 07:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-09/</guid>
+      <title>ICLR 2026 | 中国科大、科大讯飞团队开发ChemEval：化学大模型多层次多维度能力评估的新基准</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-09</link>
+      <description>&lt;![CDATA[ICLR 2026 | 中国科大、科大讯飞团队开发ChemEval：化学大模型多层次多维度能力评估的新基准]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09</guid>
       <category>Ai</category>
     </item>
   </channel>

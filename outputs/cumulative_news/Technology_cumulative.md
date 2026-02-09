@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-08 23:33
+**最后更新时间**: 2026-02-09 06:08
+
+---
+
+## 🆕 最新更新 (2026-02-09 06:08)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Rspack 1.7发布：2.0之前的最后一个1.x版本](https://www.infoq.cn/article/r3oIM8cNYt3VkqkMK3ez?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 13:51
+
+#### [微软推出面向.NET的Copilot自定义代理：C#专家与WinForms专家](https://www.infoq.cn/article/pmf3ENWCc2ZgsMvpPX38?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 13:45
+
+#### [优步将分布式存储从静态限制转向基于优先级感知的负载控制](https://www.infoq.cn/article/HCcbfQRWSxXzx59zMIhG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 13:43
+
+#### [“千问奶茶”二手平台6元转售；追觅俞浩：年终奖最高20个月奖金，总量会达到10亿级；京东001 号快递员：退休金 4000 多，存款百万 | AI周报](https://www.infoq.cn/article/pyihcXSNdvwyl0t86j5f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 10:34
+
+#### [“公司终局是纯 AI、纯机器人！”马斯克酒后激进预言：一小时一发 Starship，让Optimus 造Optimus 巨便宜](https://www.infoq.cn/article/sENVOV0ITGMHaOVDF5MT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 10:30
+
+#### [挑战 Claude Code，9.5 万星！又一款开源 AI 编程神器火了](https://www.infoq.cn/article/m3ty3OAyVmyJMhaiFL8M?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 09:00
+
+#### [Java近期资讯：Jakarta EE 12、Spring Shell、Open Liberty、Quarkus、Tomcat、JHipster、Gradle](https://www.infoq.cn/article/W0tgkUBN713PCJNDMFcO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海外短剧竞争上演“黑公关、高薪挖人、拖欠尾款”戏码？](https://www.tmtpost.com/7864896.html)
+**发布时间**: 2026-02-09 13:42
+
+#### [这代大学毕业生，竞争对手已经不再是人类](https://www.tmtpost.com/7872123.html)
+**发布时间**: 2026-02-09 13:41
+
+#### [国货美妆，窄门里寻找“宽生意”](https://www.tmtpost.com/7872190.html)
+**发布时间**: 2026-02-09 13:37
+
+#### [中小设备商的生死局：要么并购，要么淘汰？](https://www.tmtpost.com/7872178.html)
+**发布时间**: 2026-02-09 13:36
+
+#### [专利围城下的中国CGM](https://www.tmtpost.com/7872108.html)
+**发布时间**: 2026-02-09 13:36
+
+#### [回归千亿市值？透过《超自然行动组》看巨人网络](https://www.tmtpost.com/7871968.html)
+**发布时间**: 2026-02-09 13:36
+
+#### [增长607% ，光通信企业赚翻了](https://www.tmtpost.com/7872170.html)
+**发布时间**: 2026-02-09 13:30
+
+#### [《太平年》效应，冷门史凭什么成文旅爆款？](https://www.tmtpost.com/7871990.html)
+**发布时间**: 2026-02-09 10:51
+
+#### [从DeepSeek恐慌到Cowork恐慌](https://www.tmtpost.com/7872053.html)
+**发布时间**: 2026-02-09 10:35
+
+#### [知名餐企一夜关停7家门店、欠薪数百万，怎么了？](https://www.tmtpost.com/7871972.html)
+**发布时间**: 2026-02-09 10:28
+
+#### [AI狂潮退去？六巨头财报揭示理性时代的来临](https://www.tmtpost.com/7872000.html)
+**发布时间**: 2026-02-09 10:27
+
+#### [吞下最后一张独立牌，美团图的不只是生鲜](https://www.tmtpost.com/7871911.html)
+**发布时间**: 2026-02-09 10:23
+
+#### [AI群聊，最终还是微信的菜？](https://www.tmtpost.com/7871897.html)
+**发布时间**: 2026-02-09 10:20
+
+#### [叮咚卖身，前置仓模式终结](https://www.tmtpost.com/7871868.html)
+**发布时间**: 2026-02-09 10:18
+
+#### [2026短剧春节档：红果大战快手，谁能拿下头彩？](https://www.tmtpost.com/7871884.html)
+**发布时间**: 2026-02-09 10:15
+
+#### [从布道者的高坛“跌落”，usmile开始“讨好”00后了？](https://www.tmtpost.com/7871841.html)
+**发布时间**: 2026-02-09 10:15
+
+#### [左手茅台、右手特斯拉，段永平6天狂赚1700万](https://www.tmtpost.com/7871943.html)
+**发布时间**: 2026-02-09 10:14
+
+#### [亏损超百亿，一代彩电大王没落](https://www.tmtpost.com/7871546.html)
+**发布时间**: 2026-02-09 09:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我的 AI 工具日常使用与工作流是怎样的？](https://sspai.com/post/105481)
+**发布时间**: 2026-02-09 11:32
+
+#### [派早报：千问「奶茶补贴」导致线上宕机、线下爆单](https://sspai.com/post/106221)
+**发布时间**: 2026-02-09 08:35
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [人类“裂变”入侵AI](http://www.huxiu.com/article/4833202.html?f=wangzhan)
+**发布时间**: 2026-02-09 10:07
+
+#### [量子通信的两项世界级难题被攻克？距离商用可能不远了](http://www.huxiu.com/article/4833269.html?f=wangzhan)
+**发布时间**: 2026-02-09 09:30
 
 ---
 

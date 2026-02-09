@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "72257391505cb2aeb675795e4f43332179c1cc048a4625ad0ee7ad73a8e31c3b": {
-        "title": "字节“上新”AI视频应用，正面迎战OpenAI、阿里",
-        "link": "https://www.tmtpost.com/7837482.html",
-        "published_date": "Sat, 10 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-10T05:23:10.210847"
-      },
-      "6e275108e8801322670fbe3766ba068decf91c0c817d50e724ca8e8e15bbd3fb": {
-        "title": "大模型IPO走向分野",
-        "link": "https://www.tmtpost.com/7837632.html",
-        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
-        "first_seen": "2026-01-10T05:23:10.210854"
-      },
-      "8a0ba27351dea2f39dca56badfb3086d854bb9bdbdfe2c0e0d974c9658077e66": {
-        "title": "假如智谱上了科创板",
-        "link": "https://www.tmtpost.com/7837500.html",
-        "published_date": "Sat, 10 Jan 2026 11:05:00 GMT",
-        "first_seen": "2026-01-10T05:23:10.210855"
-      },
-      "92a1bc894bf9670fd51a3413fafe80aa1b867ff446b34cae854877d35cb4b0b2": {
-        "title": "对抗AI的人",
-        "link": "https://www.tmtpost.com/7837443.html",
-        "published_date": "Sat, 10 Jan 2026 09:07:00 GMT",
-        "first_seen": "2026-01-10T05:23:10.210857"
-      },
-      "4a5684882de7fffb5a2b651fcc387ade68fbf521e70862d155548e635e56f4a6": {
-        "title": "机场里的AI云",
-        "link": "https://www.tmtpost.com/7837630.html",
-        "published_date": "Sat, 10 Jan 2026 09:08:00 GMT",
-        "first_seen": "2026-01-10T05:23:10.210859"
-      },
       "62162df301c82a24134845cfcba0e98d128e4e1e38ab222a45e3e4804bd84ea3": {
         "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
         "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7871411.html",
         "published_date": "Sun, 08 Feb 2026 18:28:00 GMT",
         "first_seen": "2026-02-08T23:34:11.370688"
+      },
+      "708ebbed3af5ab569204a0060bc5379144c190d20c95b77f25294fd558989d57": {
+        "title": "量子通信的两项世界级难题被攻克？距离商用可能不远了",
+        "link": "http://www.huxiu.com/article/4833269.html?f=wangzhan",
+        "published_date": "Mon, 09 Feb 2026 09:30:00 GMT",
+        "first_seen": "2026-02-09T06:08:37.747156"
+      },
+      "48840b6e40e769fcb07e161e5aa248d6e1528ffe5479cbf36b90ab9c5b415a20": {
+        "title": "优步将分布式存储从静态限制转向基于优先级感知的负载控制",
+        "link": "https://www.infoq.cn/article/HCcbfQRWSxXzx59zMIhG?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 13:43:00 GMT",
+        "first_seen": "2026-02-09T06:08:37.747162"
+      },
+      "c3d904b27150f22cb335fc6e60f44fe990a380378f0169f1f558d3e37d33adbf": {
+        "title": "微软推出面向.NET的Copilot自定义代理：C#专家与WinForms专家",
+        "link": "https://www.infoq.cn/article/pmf3ENWCc2ZgsMvpPX38?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 13:45:00 GMT",
+        "first_seen": "2026-02-09T06:08:37.747164"
+      },
+      "1348f6f56166e4a74bda5e50cc089df3f41f652dc3a2723093f53531c6112eee": {
+        "title": "AI狂潮退去？六巨头财报揭示理性时代的来临",
+        "link": "https://www.tmtpost.com/7872000.html",
+        "published_date": "Mon, 09 Feb 2026 10:27:00 GMT",
+        "first_seen": "2026-02-09T06:08:37.747166"
+      },
+      "810b98301f9a4e2b2c6f2c6dbc9a22a2e6f6d03273e1451893c841ebabe94328": {
+        "title": "这代大学毕业生，竞争对手已经不再是人类",
+        "link": "https://www.tmtpost.com/7872123.html",
+        "published_date": "Mon, 09 Feb 2026 13:41:00 GMT",
+        "first_seen": "2026-02-09T06:08:37.747167"
       }
     },
     "Finance": {
-      "42d960cb490269eb86b94b33aa5459324b913af7d8858a433f584073a65c57f1": {
-        "title": "Trump says he’ll cap credit-card interest rates at 10% as Americans battle soaring debt",
-        "link": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
-        "published_date": "Sat, 10 Jan 2026 04:40:00 GMT",
-        "first_seen": "2026-01-10T05:22:53.769084"
-      },
-      "7bdc2d37f680476572947de4d4be9754bdf866be243f561a688b5f040a0b25ad": {
-        "title": "US oil giant ExxonMobil tells Trump Venezuela is ‘uninvestable’",
-        "link": "https://www.ft.com/content/4c21c031-443e-4834-a7a6-3dd59672b54e",
-        "published_date": "Fri, 09 Jan 2026 23:46:00 GMT",
-        "first_seen": "2026-01-10T05:22:53.769093"
-      },
       "4b21c9dd909a8be01a8431cd4ee9a7cac94b8182135d4a6b0bbe7ab7a29e9818": {
         "title": "The eldercare crisis is about to get much worse as millions more Americans turn 85",
         "link": "https://www.marketwatch.com/story/the-elder-care-crisis-is-about-to-get-much-worse-as-millions-more-americans-turn-85-3673e0bf?mod=mw_rss_topstories",
@@ -4575,21 +4563,39 @@
         "link": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
         "published_date": "Sun, 08 Feb 2026 20:25:00 GMT",
         "first_seen": "2026-02-08T23:33:56.705366"
+      },
+      "d443c7264be088dbb2f080c60eb5128b2bd4d92182f442cce6037dad41035390": {
+        "title": "UK’s FCA plans to publish all trading data for London-listed shares",
+        "link": "https://www.ft.com/content/5ba78af4-d722-442d-8a21-7220821327b6",
+        "published_date": "Mon, 09 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.247355"
+      },
+      "2f879717d6c4f34769bf66ddae1d3d02cf0cdd23e23ea323de92ec3ff3c480c8": {
+        "title": "Three ways European banks are finding their mojo",
+        "link": "https://www.ft.com/content/4578dec3-8385-466e-90d3-368454914516",
+        "published_date": "Mon, 09 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.247363"
+      },
+      "d39d76edba63e3814b9b4157267a033d8282e85cb67719afa2f021ca8f14acfd": {
+        "title": "Japanese stocks soar to record after Takaichi landslide election win",
+        "link": "https://www.ft.com/content/13556ff7-89be-463f-8dbd-a16540a47dab",
+        "published_date": "Mon, 09 Feb 2026 04:56:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.247366"
+      },
+      "b103ad7f98781b80734591504e3ec9e688086ecd734636322eef16c12c4134fa": {
+        "title": "3 things to know about ‘Trump accounts’ — the new investment vehicle for kids advertised during the Super Bowl",
+        "link": "https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories",
+        "published_date": "Sun, 08 Feb 2026 23:34:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.247368"
+      },
+      "335adb56737c9943f59134cba8a0b9eb845371ca486bb9d5c201ef5745a21149": {
+        "title": "‘It feels like a betrayal.’ Germany’s painful estrangement from the US",
+        "link": "https://www.ft.com/content/ef3c7456-93e9-4245-b435-91bf216c423a",
+        "published_date": "Mon, 09 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.247370"
       }
     },
     "Ai": {
-      "d2a595603131512f99c4ec89e4cd839b456973881e4d289cbbebd37ba46b30a8": {
-        "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
-        "link": "https://www.qbitai.com/2026/01/368820.html",
-        "published_date": "Sat, 10 Jan 2026 01:27:00 GMT",
-        "first_seen": "2026-01-10T05:22:53.883185"
-      },
-      "8664bed0e3115b578d58bd7a4f1b4856843cb63dcbc5e1e859600edd848821c0": {
-        "title": "2026-01-10日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-10/",
-        "published_date": "Sat, 10 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-10T05:22:53.883209"
-      },
       "b3dec70e1273b2d7d44d621f7aa6c722ee7fe31f2b529347658f33f31b798f60": {
         "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
         "link": "https://www.qbitai.com/2026/01/368834.html",
@@ -6749,13 +6755,19 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-09/",
         "published_date": "Mon, 09 Feb 2026 07:24:00 GMT",
         "first_seen": "2026-02-08T23:33:56.855466"
+      },
+      "f90c76a303e7596e79383d41be195632cf980da6d95fef15d34b86c67e81a4de": {
+        "title": "ICLR 2026 | 中国科大、科大讯飞团队开发ChemEval：化学大模型多层次多维度能力评估的新基准",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09",
+        "published_date": "Mon, 09 Feb 2026 13:28:00 GMT",
+        "first_seen": "2026-02-09T06:08:16.396969"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-08T23:34:11.370690",
-    "Finance": "2026-02-08T23:33:56.705368",
-    "Ai": "2026-02-08T23:33:56.855474"
+    "Technology": "2026-02-09T06:08:37.747169",
+    "Finance": "2026-02-09T06:08:16.247372",
+    "Ai": "2026-02-09T06:08:16.396976"
   }
 }
