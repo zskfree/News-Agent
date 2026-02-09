@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 08:57:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 08:57:51 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:39:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即</title>
-      <link>https://www.tmtpost.com/7872559.html</link>
-      <description>&lt;![CDATA[AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872559.html</guid>
+      <title>视频模型的两条河流：字节跳动Seedance与OpenAI的分岔</title>
+      <link>https://www.tmtpost.com/7873175.html</link>
+      <description>&lt;![CDATA[视频模型的两条河流：字节跳动Seedance与OpenAI的分岔]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7873175.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从VLA到世界模型，具身智能加速“范式转移”</title>
-      <link>https://www.tmtpost.com/7872347.html</link>
-      <description>&lt;![CDATA[从VLA到世界模型，具身智能加速“范式转移”]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872347.html</guid>
+      <title>前 Codex 大神倒戈实锤！吹爆 Claude Code：编程提速 5 倍，点破 OpenAl 死穴在上下文</title>
+      <link>https://www.infoq.cn/article/hV8d7Me3DbpxTexVuOKd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[前 Codex 大神倒戈实锤！吹爆 Claude Code：编程提速 5 倍，点破 OpenAl 死穴在上下文]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hV8d7Me3DbpxTexVuOKd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起</title>
-      <link>https://www.tmtpost.com/7872469.html</link>
-      <description>&lt;![CDATA[巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872469.html</guid>
+      <title>这次真的不是“狼来了”：AI主导下，码农职场彻底洗牌了</title>
+      <link>https://www.tmtpost.com/7872532.html</link>
+      <description>&lt;![CDATA[这次真的不是“狼来了”：AI主导下，码农职场彻底洗牌了]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872532.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic发布新版Claude宪法</title>
-      <link>https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic发布新版Claude宪法]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026手机熄火，联发科、高通的“新饭碗”</title>
+      <link>https://www.tmtpost.com/7873031.html</link>
+      <description>&lt;![CDATA[2026手机熄火，联发科、高通的“新饭碗”]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7873031.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>增长607% ，光通信企业赚翻了</title>
-      <link>https://www.tmtpost.com/7872170.html</link>
-      <description>&lt;![CDATA[增长607% ，光通信企业赚翻了]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872170.html</guid>
+      <title>三元锂成本失控，高端电动车不再青睐？</title>
+      <link>https://www.tmtpost.com/7872852.html</link>
+      <description>&lt;![CDATA[三元锂成本失控，高端电动车不再青睐？]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872852.html</guid>
       <category>Technology</category>
     </item>
   </channel>

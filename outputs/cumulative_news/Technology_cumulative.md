@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 08:57
+**最后更新时间**: 2026-02-09 23:39
+
+---
+
+## 🆕 最新更新 (2026-02-09 23:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】沪深北交易所优化再融资，释放3个信号；Alphabet寻求通过发行美元债券筹集约150亿美元；小红书正研发视频剪辑类AI产品OpenStoryline](https://www.tmtpost.com/7873234.html)
+**发布时间**: 2026-02-10 07:20
+
+#### [康泰生物27.6亿合资项目泡汤，实控人前妻“单飞”或加速减持风暴](https://www.tmtpost.com/7873039.html)
+**发布时间**: 2026-02-09 21:44
+
+#### [视频模型的两条河流：字节跳动Seedance与OpenAI的分岔](https://www.tmtpost.com/7873175.html)
+**发布时间**: 2026-02-09 21:00
+
+#### [锂电复苏期下的双向奔赴，“宁王”借永太科技继续加码上游锂电材料](https://www.tmtpost.com/7873153.html)
+**发布时间**: 2026-02-09 20:36
+
+#### [沙河股份2.74亿并购：IPO折戟标的“折价易主”，地产老兵借国资整合跨界破局丨并购一线](https://www.tmtpost.com/7872928.html)
+**发布时间**: 2026-02-09 19:15
+
+#### [2026手机熄火，联发科、高通的“新饭碗”](https://www.tmtpost.com/7873031.html)
+**发布时间**: 2026-02-09 19:13
+
+#### [三元锂成本失控，高端电动车不再青睐？](https://www.tmtpost.com/7872852.html)
+**发布时间**: 2026-02-09 19:13
+
+#### [World’s Fourth-Largest Automaker Pays a Price for Its Aggressive Moves](https://www.tmtpost.com/7873010.html)
+**发布时间**: 2026-02-09 18:16
+
+#### [Meituan](https://www.tmtpost.com/7872953.html)
+**发布时间**: 2026-02-09 18:03
+
+#### [派镀科技完成Pre-A轮融资，创新工场和同创伟业联合领投｜融资速递](https://www.tmtpost.com/7872142.html)
+**发布时间**: 2026-02-09 17:21
+
+#### [【Fintech 周报】中国人寿被罚140万；万达小贷7.35亿股股权拍卖流拍；国投白银LOF遭万人投诉](https://www.tmtpost.com/7872583.html)
+**发布时间**: 2026-02-09 17:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [前 Codex 大神倒戈实锤！吹爆 Claude Code：编程提速 5 倍，点破 OpenAl 死穴在上下文](https://www.infoq.cn/article/hV8d7Me3DbpxTexVuOKd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 18:54
+
+#### [LinkedIn重构服务发现：在大规模环境中用Kafka和xDS取代Zookeeper](https://www.infoq.cn/article/KP7sCJzGDr14uo3dL2VQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 18:00
+
+#### [Open Responses规范实现智能体式LLM工作流的统一](https://www.infoq.cn/article/dyVRzxpkuoWbdHrEKoC4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 17:00
+
+#### [AI时代的分野与合流：什么才是算力选型的“版本答案”？](https://www.infoq.cn/article/fdGoAsQ91o7rDIGiOsrd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/106250)
+**发布时间**: 2026-02-09 18:07
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [30亿补贴大战请你喝奶茶，阿里图什么？](http://www.huxiu.com/article/4833518.html?f=wangzhan)
+**发布时间**: 2026-02-09 16:00
 
 ---
 

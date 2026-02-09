@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 08:56:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 08:57:26 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:39:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-7</link>
-      <description>&lt;![CDATA[英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-7</guid>
+      <title>CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-09-9</link>
+      <description>&lt;![CDATA[CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>模型「漂移」新范式，何恺明新作让生成模型无须迭代推理</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-4</link>
-      <description>&lt;![CDATA[模型「漂移」新范式，何恺明新作让生成模型无须迭代推理]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-4</guid>
+      <title>登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-09-3</link>
+      <description>&lt;![CDATA[登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-5</link>
-      <description>&lt;![CDATA[生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-5</guid>
+      <title>怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾</title>
+      <link>https://www.qbitai.com/2026/02/378172.html</link>
+      <description>&lt;![CDATA[怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378172.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-8</link>
-      <description>&lt;![CDATA[童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-8</guid>
+      <title>How AI trained on birds is surfacing underwater mysteries</title>
+      <link>https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/</link>
+      <description>&lt;![CDATA[How AI trained on birds is surfacing underwater mysteries]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-6</link>
-      <description>&lt;![CDATA[先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-6</guid>
+      <title>扩散语言模型深度思考</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-09-2</link>
+      <description>&lt;![CDATA[扩散语言模型深度思考]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-2</guid>
       <category>Ai</category>
     </item>
   </channel>

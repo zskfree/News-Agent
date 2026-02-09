@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 08:57
+**最后更新时间**: 2026-02-09 23:39
+
+---
+
+## 🆕 最新更新 (2026-02-09 23:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US plans Big Tech carve-out from next wave of chip tariffs](https://www.ft.com/content/e6f7f69a-2552-45f5-ae4c-6f1135e5cde1)
+**发布时间**: 2026-02-09 23:27
+
+#### [Starmer defies call to quit as UK prime minister](https://www.ft.com/content/4f7091c2-4f27-49b3-a25e-9735b2f6e5da)
+**发布时间**: 2026-02-09 22:05
+
+#### [US lawmakers call on Howard Lutnick to step down over ties to Epstein](https://www.ft.com/content/2264d32b-1cbf-4e4e-b21a-6b8c92088df2)
+**发布时间**: 2026-02-09 22:00
+
+#### [Starmer stumbles on as rivals balk at killer blow](https://www.ft.com/content/26151c0e-5eec-4a1c-b651-a19d427588ac)
+**发布时间**: 2026-02-09 19:39
+
+#### [Misconduct in public office: the offence that rarely ensnares politicians](https://www.ft.com/content/a9cf0359-2bb5-45e0-a6ae-53b2ce521b9a)
+**发布时间**: 2026-02-09 18:57
+
+#### [King Charles says he will help police investigate brother’s links to Epstein](https://www.ft.com/content/647dc3f4-a45b-43e3-9b7a-1f58d3b12c9f)
+**发布时间**: 2026-02-09 18:53
+
+#### [Alphabet lines up 100-year sterling bond sale](https://www.ft.com/content/3260bc45-e09e-45a7-ae30-e55effbaf29b)
+**发布时间**: 2026-02-09 18:45
+
+#### [The changing physics of the Arctic are the real defence threat](https://www.ft.com/content/b44f12c2-7468-45e9-ab6a-7ddd18658405)
+**发布时间**: 2026-02-09 17:03
+
+#### [Keir Starmer’s inconvenient truth](https://www.ft.com/content/2e804ab3-6548-4658-8cbb-6a80f607f31a)
+**发布时间**: 2026-02-09 15:31
+
+#### [Ex-General Atlantic executive in $1bn fundraising drive for ‘hypergrowth’ companies](https://www.ft.com/content/0b961a9d-d4a7-43e9-b8a0-65ab97d4dc3d)
+**发布时间**: 2026-02-09 14:00
+
+#### [A post-Trump restoration is still possible](https://www.ft.com/content/b491c7a9-dd82-4752-a2f0-36454c729c61)
+**发布时间**: 2026-02-09 12:41
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Super Bowl winner Sam Darnold just made another $2.5 million on Sunday](https://www.marketwatch.com/story/super-bowl-lx-seahawks-qb-sam-darnold-makes-1-500-more-than-patriots-qb-drake-maye-9f3525bb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 23:24
+
+#### [Alphabet’s $20 billion bond deal may be followed by something highly unusual](https://www.marketwatch.com/story/alphabets-15-billion-bond-deal-may-have-a-highly-unusual-component-2aa15bee?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 23:10
+
+#### [3 reasons why SoFi’s stock now looks like a buy](https://www.marketwatch.com/story/3-reasons-why-sofis-stock-now-looks-like-a-buy-6252d18b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:58
+
+#### [Target’s new CEO wants to make stores more welcoming. His latest move is to cut jobs.](https://www.marketwatch.com/story/targets-new-ceo-wants-to-make-stores-more-welcoming-his-latest-move-is-to-cut-jobs-ff1774fd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:49
+
+#### [My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?](https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:29
+
+#### [Why Kevin Warsh  wouldn’t be the maverick Fed chair investors expect](https://www.marketwatch.com/story/how-markets-and-the-feds-inner-circle-will-derail-kevin-warshs-interest-rate-agenda-fc767830?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:23
+
+#### [Microsoft’s stock is cheaper than IBM’s for the first time in a decade. What that says about the AI trade.](https://www.marketwatch.com/story/microsofts-stock-is-cheaper-than-ibms-for-the-first-time-in-a-decade-what-that-says-about-the-ai-trade-c67b1954?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:20
+
+#### [The stock market looks expensive — but this chart shows why AI bubble fears in tech may be overblown](https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 22:07
 
 ---
 
