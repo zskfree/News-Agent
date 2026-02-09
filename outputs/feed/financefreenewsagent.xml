@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 06:08:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 06:08:16 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 08:57:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 08:57:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK’s FCA plans to publish all trading data for London-listed shares</title>
-      <link>https://www.ft.com/content/5ba78af4-d722-442d-8a21-7220821327b6</link>
-      <description>&lt;![CDATA[UK’s FCA plans to publish all trading data for London-listed shares]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5ba78af4-d722-442d-8a21-7220821327b6</guid>
+      <title>Hims &amp; Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor</title>
+      <link>https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Hims &amp; Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Three ways European banks are finding their mojo</title>
-      <link>https://www.ft.com/content/4578dec3-8385-466e-90d3-368454914516</link>
-      <description>&lt;![CDATA[Three ways European banks are finding their mojo]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4578dec3-8385-466e-90d3-368454914516</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Japanese stocks soar to record after Takaichi landslide election win</title>
-      <link>https://www.ft.com/content/13556ff7-89be-463f-8dbd-a16540a47dab</link>
-      <description>&lt;![CDATA[Japanese stocks soar to record after Takaichi landslide election win]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 04:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/13556ff7-89be-463f-8dbd-a16540a47dab</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>3 things to know about ‘Trump accounts’ — the new investment vehicle for kids advertised during the Super Bowl</title>
-      <link>https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[3 things to know about ‘Trump accounts’ — the new investment vehicle for kids advertised during the Super Bowl]]&gt;</description>
-      <pubDate>Sun, 08 Feb 2026 23:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘It feels like a betrayal.’ Germany’s painful estrangement from the US</title>
-      <link>https://www.ft.com/content/ef3c7456-93e9-4245-b435-91bf216c423a</link>
-      <description>&lt;![CDATA[‘It feels like a betrayal.’ Germany’s painful estrangement from the US]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ef3c7456-93e9-4245-b435-91bf216c423a</guid>
+      <title>Hong Kong’s Jimmy Lai sentenced to 20 years in prison</title>
+      <link>https://www.ft.com/content/8baa0537-6a70-4e4d-b67d-38aff7832330</link>
+      <description>&lt;![CDATA[Hong Kong’s Jimmy Lai sentenced to 20 years in prison]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8baa0537-6a70-4e4d-b67d-38aff7832330</guid>
       <category>Finance</category>
     </item>
   </channel>

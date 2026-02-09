@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 06:08
+**最后更新时间**: 2026-02-09 08:57
+
+---
+
+## 🆕 最新更新 (2026-02-09 08:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI巨头的超级碗豪赌能否敲开AI普惠大门？](https://www.tmtpost.com/7872555.html)
+**发布时间**: 2026-02-09 16:54
+
+#### [国网山西一子公司、广东建工等多家企业因“违法分包”被罚， 为何红线屡成虚线？](https://www.tmtpost.com/7872698.html)
+**发布时间**: 2026-02-09 16:49
+
+#### [开年两度被罚，外卖业务干黄，快手王剑伟“巧妇难为”](https://www.tmtpost.com/7872307.html)
+**发布时间**: 2026-02-09 16:48
+
+#### [德业冲刺港股：户储冠军的焦虑是什么？](https://www.tmtpost.com/7872740.html)
+**发布时间**: 2026-02-09 16:48
+
+#### [邦顺制药：估值四年翻倍至23.87亿，累亏超6亿仍密集募资｜IPO观察](https://www.tmtpost.com/7866364.html)
+**发布时间**: 2026-02-09 16:38
+
+#### [AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即](https://www.tmtpost.com/7872559.html)
+**发布时间**: 2026-02-09 16:36
+
+#### [中高端轻奢酒店，占领小县城](https://www.tmtpost.com/7872217.html)
+**发布时间**: 2026-02-09 16:35
+
+#### [这次真的不是“狼来了”：AI主导下，码农职场彻底洗牌了](https://www.tmtpost.com/7872532.html)
+**发布时间**: 2026-02-09 16:34
+
+#### [短剧春节档开打，漫剧成平台必争之地](https://www.tmtpost.com/7872610.html)
+**发布时间**: 2026-02-09 16:34
+
+#### [巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起](https://www.tmtpost.com/7872469.html)
+**发布时间**: 2026-02-09 16:29
+
+#### [2026年，车海战术能成为大众突围的解药吗？](https://www.tmtpost.com/7872609.html)
+**发布时间**: 2026-02-09 16:28
+
+#### [春节档的赌注：电影行业等待的不止票房](https://www.tmtpost.com/7872463.html)
+**发布时间**: 2026-02-09 16:28
+
+#### [90亿+美金押注MCE赛道：巨头抢滩，为何Biotech寥寥？](https://www.tmtpost.com/7872459.html)
+**发布时间**: 2026-02-09 16:19
+
+#### [盲盒退潮之后，泡泡玛特还值不值得相信？](https://www.tmtpost.com/7872546.html)
+**发布时间**: 2026-02-09 16:19
+
+#### [单日暴跌23%，市值蒸发百亿欧元，全球第四大车企为“激进转型”买单｜钛度车库](https://www.tmtpost.com/7872576.html)
+**发布时间**: 2026-02-09 15:59
+
+#### [从VLA到世界模型，具身智能加速“范式转移”](https://www.tmtpost.com/7872347.html)
+**发布时间**: 2026-02-09 14:29
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 AI 操纵手机的 GitHub 项目，支持 OpenClaw 干不了的活。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531216&idx=1&sn=6e6433f6845e8ab424f7631c234c4729)
+**发布时间**: 2026-02-09 15:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic发布新版Claude宪法](https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 15:00
+
+#### [3年、1万人，快手技术团队首次系统披露AI研发范式升级历程](https://www.infoq.cn/article/9rX1Ov951gKtaTmQb8Jq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:55
+
+#### [Base UI 1.0 发布，包含 35 个可访问性组件](https://www.infoq.cn/article/NgNgXNFVZNgePmNs0t4a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
+**发布时间**: 2026-02-09 15:00
 
 ---
 

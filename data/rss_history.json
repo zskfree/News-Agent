@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "62162df301c82a24134845cfcba0e98d128e4e1e38ab222a45e3e4804bd84ea3": {
-        "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！",
-        "link": "https://www.infoq.cn/article/EDUxU7QhZgG65WQDtoP1?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 10 Jan 2026 13:30:00 GMT",
-        "first_seen": "2026-01-10T08:29:00.053608"
-      },
-      "77357d41c5f1266ce2858d79bd83d3ad7abb67993b25b6515784437d6b90dead": {
-        "title": "RGB-Mini LED跨代领先，中国厂商站稳全球显示行业高地",
-        "link": "https://www.tmtpost.com/7837893.html",
-        "published_date": "Sat, 10 Jan 2026 13:24:00 GMT",
-        "first_seen": "2026-01-10T08:29:00.053615"
-      },
-      "536971aa52051a81d77a3ac623febf72350da9cf903bc6b1dcb3eb86accf4c59": {
-        "title": "大疆忙着抢别人地盘，影石却来偷家了",
-        "link": "https://www.tmtpost.com/7837782.html",
-        "published_date": "Sat, 10 Jan 2026 15:49:00 GMT",
-        "first_seen": "2026-01-10T08:29:00.053617"
-      },
-      "94ce83ad2ea5c7cf8c9f93d45be48b070d3df60e34dac726761f4fe81a8d0ae6": {
-        "title": "GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530482&idx=1&sn=80e975e2997f28dcbee2ab4a86d25189",
-        "published_date": "Sat, 10 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-10T08:29:00.053618"
-      },
-      "fdec2496098ba3ef212300f9f239f19d3a150a009ad6e6716bd2235c997e9e55": {
-        "title": "realme 回归后，OPPO 能迎来新一轮增长吗？",
-        "link": "https://www.tmtpost.com/7837729.html",
-        "published_date": "Sat, 10 Jan 2026 11:46:00 GMT",
-        "first_seen": "2026-01-10T08:29:00.053620"
-      },
       "f5f5f8af418a5bcb417e80bb5fc5c16ecb751528cf823c5c06f95797bcbd61d9": {
         "title": "加州大学伯克利Dr. Allen Yang：物理AI的分水岭时刻尚未到来｜CES 2026",
         "link": "https://www.tmtpost.com/7838021.html",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7872123.html",
         "published_date": "Mon, 09 Feb 2026 13:41:00 GMT",
         "first_seen": "2026-02-09T06:08:37.747167"
+      },
+      "f3cbcec39c5fcdd2efc2e68378cbd831c2ac4a1617ce144b5ed4d0ea394e427e": {
+        "title": "AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即",
+        "link": "https://www.tmtpost.com/7872559.html",
+        "published_date": "Mon, 09 Feb 2026 16:36:00 GMT",
+        "first_seen": "2026-02-09T08:57:51.318535"
+      },
+      "a9cfbdafaae1ade23017f6ae387c478fbf6469a76e9399e22ba75c1bccd6228e": {
+        "title": "从VLA到世界模型，具身智能加速“范式转移”",
+        "link": "https://www.tmtpost.com/7872347.html",
+        "published_date": "Mon, 09 Feb 2026 14:29:00 GMT",
+        "first_seen": "2026-02-09T08:57:51.318543"
+      },
+      "113c609a0812697c675347cf8cc08eff6945f0e1d19cf7aa1f4029ebe547bf36": {
+        "title": "巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起",
+        "link": "https://www.tmtpost.com/7872469.html",
+        "published_date": "Mon, 09 Feb 2026 16:29:00 GMT",
+        "first_seen": "2026-02-09T08:57:51.318545"
+      },
+      "52ccbce165f662ede28d465ca34fcae694d87760a7bd997515f8dc7015db2c23": {
+        "title": "Anthropic发布新版Claude宪法",
+        "link": "https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-09T08:57:51.318547"
+      },
+      "0d26e3c9651a68823d90b277001f31c258f8c930172e6c0248b074ce9b6fc1d5": {
+        "title": "增长607% ，光通信企业赚翻了",
+        "link": "https://www.tmtpost.com/7872170.html",
+        "published_date": "Mon, 09 Feb 2026 13:30:00 GMT",
+        "first_seen": "2026-02-09T08:57:51.318548"
       }
     },
     "Finance": {
@@ -4593,15 +4593,21 @@
         "link": "https://www.ft.com/content/ef3c7456-93e9-4245-b435-91bf216c423a",
         "published_date": "Mon, 09 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-09T06:08:16.247370"
+      },
+      "8873616379d229d970d2a86900733eb43aa333a7eee959271b074f18bafb51aa": {
+        "title": "Hims & Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor",
+        "link": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
+        "published_date": "Mon, 09 Feb 2026 08:30:00 GMT",
+        "first_seen": "2026-02-09T08:57:13.264882"
+      },
+      "1309aa12ff30c6cf318d5cf5e10ac5f8862b7f65383d58d737eb7766b0c1877e": {
+        "title": "Hong Kong’s Jimmy Lai sentenced to 20 years in prison",
+        "link": "https://www.ft.com/content/8baa0537-6a70-4e4d-b67d-38aff7832330",
+        "published_date": "Mon, 09 Feb 2026 07:14:00 GMT",
+        "first_seen": "2026-02-09T08:57:13.264896"
       }
     },
     "Ai": {
-      "b3dec70e1273b2d7d44d621f7aa6c722ee7fe31f2b529347658f33f31b798f60": {
-        "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
-        "link": "https://www.qbitai.com/2026/01/368834.html",
-        "published_date": "Sat, 10 Jan 2026 06:39:00 GMT",
-        "first_seen": "2026-01-10T08:28:50.068065"
-      },
       "b63c782f1db703c5fee6882182dfa0e86b9c3162be165b5ef500420bd0c9bb85": {
         "title": "打破学科壁垒！400篇参考文献重磅综述，统一调查「人脑×Agent」记忆系统",
         "link": "https://www.jiqizhixin.com/articles/2026-01-10-2",
@@ -6761,13 +6767,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-09",
         "published_date": "Mon, 09 Feb 2026 13:28:00 GMT",
         "first_seen": "2026-02-09T06:08:16.396969"
+      },
+      "663f20b88cb15ab3ef74eaa6516677b7e955372c6726bda5d42896939dd5ba7f": {
+        "title": "英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-7",
+        "published_date": "Mon, 09 Feb 2026 14:44:00 GMT",
+        "first_seen": "2026-02-09T08:57:26.612889"
+      },
+      "3ff22da700a67040e207a33da8f3f84d24a0249b461984158de4829bb5865b82": {
+        "title": "模型「漂移」新范式，何恺明新作让生成模型无须迭代推理",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-4",
+        "published_date": "Mon, 09 Feb 2026 14:28:00 GMT",
+        "first_seen": "2026-02-09T08:57:26.612895"
+      },
+      "f05350896594125287fd38f8fd733acbe73fc8f5416e73e3841cd5052962d5f3": {
+        "title": "生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-5",
+        "published_date": "Mon, 09 Feb 2026 14:32:00 GMT",
+        "first_seen": "2026-02-09T08:57:26.612898"
+      },
+      "ca1c17cbdb88cffe49520dba6cffa5ecbf9515c4c6b544ce6a5742b9f61a974a": {
+        "title": "童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-8",
+        "published_date": "Mon, 09 Feb 2026 14:50:00 GMT",
+        "first_seen": "2026-02-09T08:57:26.612900"
+      },
+      "c02951230da3cf0050f3d448dab35284144c0627892d154ac708a7bc77844778": {
+        "title": "先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-09-6",
+        "published_date": "Mon, 09 Feb 2026 14:39:00 GMT",
+        "first_seen": "2026-02-09T08:57:26.612902"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-09T06:08:37.747169",
-    "Finance": "2026-02-09T06:08:16.247372",
-    "Ai": "2026-02-09T06:08:16.396976"
+    "Technology": "2026-02-09T08:57:51.318550",
+    "Finance": "2026-02-09T08:57:13.264900",
+    "Ai": "2026-02-09T08:57:26.612904"
   }
 }

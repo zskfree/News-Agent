@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 06:08:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 06:08:37 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 08:57:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 08:57:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>量子通信的两项世界级难题被攻克？距离商用可能不远了</title>
-      <link>http://www.huxiu.com/article/4833269.html?f=wangzhan</link>
-      <description>&lt;![CDATA[量子通信的两项世界级难题被攻克？距离商用可能不远了]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4833269.html?f=wangzhan</guid>
+      <title>AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即</title>
+      <link>https://www.tmtpost.com/7872559.html</link>
+      <description>&lt;![CDATA[AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 16:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872559.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>优步将分布式存储从静态限制转向基于优先级感知的负载控制</title>
-      <link>https://www.infoq.cn/article/HCcbfQRWSxXzx59zMIhG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[优步将分布式存储从静态限制转向基于优先级感知的负载控制]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HCcbfQRWSxXzx59zMIhG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从VLA到世界模型，具身智能加速“范式转移”</title>
+      <link>https://www.tmtpost.com/7872347.html</link>
+      <description>&lt;![CDATA[从VLA到世界模型，具身智能加速“范式转移”]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872347.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软推出面向.NET的Copilot自定义代理：C#专家与WinForms专家</title>
-      <link>https://www.infoq.cn/article/pmf3ENWCc2ZgsMvpPX38?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软推出面向.NET的Copilot自定义代理：C#专家与WinForms专家]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pmf3ENWCc2ZgsMvpPX38?utm_source=rss&amp;utm_medium=article</guid>
+      <title>巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起</title>
+      <link>https://www.tmtpost.com/7872469.html</link>
+      <description>&lt;![CDATA[巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872469.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI狂潮退去？六巨头财报揭示理性时代的来临</title>
-      <link>https://www.tmtpost.com/7872000.html</link>
-      <description>&lt;![CDATA[AI狂潮退去？六巨头财报揭示理性时代的来临]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872000.html</guid>
+      <title>Anthropic发布新版Claude宪法</title>
+      <link>https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic发布新版Claude宪法]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这代大学毕业生，竞争对手已经不再是人类</title>
-      <link>https://www.tmtpost.com/7872123.html</link>
-      <description>&lt;![CDATA[这代大学毕业生，竞争对手已经不再是人类]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7872123.html</guid>
+      <title>增长607% ，光通信企业赚翻了</title>
+      <link>https://www.tmtpost.com/7872170.html</link>
+      <description>&lt;![CDATA[增长607% ，光通信企业赚翻了]]&gt;</description>
+      <pubDate>Mon, 09 Feb 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7872170.html</guid>
       <category>Technology</category>
     </item>
   </channel>

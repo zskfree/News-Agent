@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 06:08
+**最后更新时间**: 2026-02-09 08:57
+
+---
+
+## 🆕 最新更新 (2026-02-09 08:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hims & Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor](https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 08:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hong Kong’s Jimmy Lai sentenced to 20 years in prison](https://www.ft.com/content/8baa0537-6a70-4e4d-b67d-38aff7832330)
+**发布时间**: 2026-02-09 07:14
 
 ---
 
