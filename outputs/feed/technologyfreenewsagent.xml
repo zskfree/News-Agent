@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 06:12:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 06:13:13 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 08:58:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:58:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cerebras凭借创新晶圆级引擎与OpenAI巨额合作，挑战Nvidia霸主地位</title>
-      <link>https://www.tmtpost.com/7873755.html</link>
-      <description>&lt;![CDATA[Cerebras凭借创新晶圆级引擎与OpenAI巨额合作，挑战Nvidia霸主地位]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873755.html</guid>
+      <title>OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2</title>
+      <link>https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达、谷歌、阿里集体押注核聚变，AI终极能源究竟是什么？</title>
-      <link>https://www.tmtpost.com/7873067.html</link>
-      <description>&lt;![CDATA[英伟达、谷歌、阿里集体押注核聚变，AI终极能源究竟是什么？]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873067.html</guid>
+      <title>神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0</title>
+      <link>https://www.tmtpost.com/7874094.html</link>
+      <description>&lt;![CDATA[神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7874094.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 竞赛终局：电力说了算？</title>
-      <link>https://www.tmtpost.com/7873800.html</link>
-      <description>&lt;![CDATA[AI 竞赛终局：电力说了算？]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873800.html</guid>
+      <title>Databricks年度化收入达到54亿美元，其CEO 称AI没有削弱SaaS</title>
+      <link>https://www.tmtpost.com/7873720.html</link>
+      <description>&lt;![CDATA[Databricks年度化收入达到54亿美元，其CEO 称AI没有削弱SaaS]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7873720.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Skills出世，Prompt已死？2026年，如何为Agent构建可控思维</title>
-      <link>https://www.infoq.cn/article/PulhCjGvh2i1xY0rjgSb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Skills出世，Prompt已死？2026年，如何为Agent构建可控思维]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PulhCjGvh2i1xY0rjgSb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>投出爱芯、壁仞的耀途资本：中国AI芯片的胜算</title>
+      <link>https://www.tmtpost.com/7873989.html</link>
+      <description>&lt;![CDATA[投出爱芯、壁仞的耀途资本：中国AI芯片的胜算]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7873989.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub开源项目shannon星标飙升，漏洞发现成功率96.15%</title>
-      <link>https://www.tmtpost.com/7873847.html</link>
-      <description>&lt;![CDATA[GitHub开源项目shannon星标飙升，漏洞发现成功率96.15%]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873847.html</guid>
+      <title>从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践</title>
+      <link>https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

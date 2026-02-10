@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 06:12:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 06:12:37 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 08:58:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:58:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What fast food’s downturn says about the US economy</title>
-      <link>https://www.ft.com/content/9643e9b8-a4d8-49e2-8c16-20c1a1c5ca4b</link>
-      <description>&lt;![CDATA[What fast food’s downturn says about the US economy]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9643e9b8-a4d8-49e2-8c16-20c1a1c5ca4b</guid>
+      <title>BP suspends share buyback plan</title>
+      <link>https://www.ft.com/content/b16c72a5-a7df-45ac-a30e-f6f26bd4c469</link>
+      <description>&lt;![CDATA[BP suspends share buyback plan]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b16c72a5-a7df-45ac-a30e-f6f26bd4c469</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Rising share of UK public in favour of tax and spending cuts</title>
-      <link>https://www.ft.com/content/28c4a1c7-dcd2-4581-96b6-5992b581967d</link>
-      <description>&lt;![CDATA[Rising share of UK public in favour of tax and spending cuts]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/28c4a1c7-dcd2-4581-96b6-5992b581967d</guid>
+      <title>BP to halt stock buybacks as profit slumps</title>
+      <link>https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[BP to halt stock buybacks as profit slumps]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 08:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Standard Chartered finance chief leaves for Apollo</title>
-      <link>https://www.ft.com/content/af2641e2-77e4-4d0a-8817-bee1fe1d968b</link>
-      <description>&lt;![CDATA[Standard Chartered finance chief leaves for Apollo]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 05:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/af2641e2-77e4-4d0a-8817-bee1fe1d968b</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Top bosses depart Canadian pension fund after Thames Water fiasco</title>
-      <link>https://www.ft.com/content/bf423077-2904-4498-bcee-626441cbbd2a</link>
-      <description>&lt;![CDATA[Top bosses depart Canadian pension fund after Thames Water fiasco]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/bf423077-2904-4498-bcee-626441cbbd2a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>In a coming-out party for prediction markets and sports, people just traded nearly $1.5 billion on the Super Bowl winner</title>
-      <link>https://www.marketwatch.com/story/in-a-coming-out-party-for-prediction-markets-and-sports-people-just-traded-nearly-1-5-billion-on-the-super-bowl-winner-86613100?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[In a coming-out party for prediction markets and sports, people just traded nearly $1.5 billion on the Super Bowl winner]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 23:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/in-a-coming-out-party-for-prediction-markets-and-sports-people-just-traded-nearly-1-5-billion-on-the-super-bowl-winner-86613100?mod=mw_rss_topstories</guid>
+      <title>AstraZeneca profit climbs on cancer and heart drug demand</title>
+      <link>https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AstraZeneca profit climbs on cancer and heart drug demand]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

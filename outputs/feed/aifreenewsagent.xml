@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 06:12:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 06:12:50 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 08:58:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:58:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了</title>
-      <link>https://www.qbitai.com/2026/02/378236.html</link>
-      <description>&lt;![CDATA[阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 03:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378236.html</guid>
+      <title>华为发布业界首个扩散语言模型Agent，部分场景提速8倍！</title>
+      <link>https://www.qbitai.com/2026/02/378286.html</link>
+      <description>&lt;![CDATA[华为发布业界首个扩散语言模型Agent，部分场景提速8倍！]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378286.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-2</link>
-      <description>&lt;![CDATA[破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 11:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-2</guid>
+      <title>GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力</title>
+      <link>https://www.qbitai.com/2026/02/378315.html</link>
+      <description>&lt;![CDATA[GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378315.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026开年关键词：Self-Distillation，大模型真正走向「持续学习」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-3</link>
-      <description>&lt;![CDATA[2026开年关键词：Self-Distillation，大模型真正走向「持续学习」]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-3</guid>
+      <title>用千万级 MPRA 数据训练深度模型，首次系统性解码人类启动子的调控语法</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-10-6</link>
+      <description>&lt;![CDATA[用千万级 MPRA 数据训练深度模型，首次系统性解码人类启动子的调控语法]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-05-9</link>
-      <description>&lt;![CDATA[ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-9</guid>
+      <title>Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-10-7</link>
+      <description>&lt;![CDATA[Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-5</link>
-      <description>&lt;![CDATA[穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-5</guid>
+      <title>蚂蚁投了一家上海具身智能公司</title>
+      <link>https://www.qbitai.com/2026/02/378305.html</link>
+      <description>&lt;![CDATA[蚂蚁投了一家上海具身智能公司]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378305.html</guid>
       <category>Ai</category>
     </item>
   </channel>
