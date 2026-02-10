@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 23:39:36 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 06:12:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 06:12:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-9</link>
-      <description>&lt;![CDATA[CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-9</guid>
+      <title>阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了</title>
+      <link>https://www.qbitai.com/2026/02/378236.html</link>
+      <description>&lt;![CDATA[阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 03:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378236.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-3</link>
-      <description>&lt;![CDATA[登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-3</guid>
+      <title>破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-10-2</link>
+      <description>&lt;![CDATA[破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾</title>
-      <link>https://www.qbitai.com/2026/02/378172.html</link>
-      <description>&lt;![CDATA[怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378172.html</guid>
+      <title>2026开年关键词：Self-Distillation，大模型真正走向「持续学习」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-10-3</link>
+      <description>&lt;![CDATA[2026开年关键词：Self-Distillation，大模型真正走向「持续学习」]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How AI trained on birds is surfacing underwater mysteries</title>
-      <link>https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/</link>
-      <description>&lt;![CDATA[How AI trained on birds is surfacing underwater mysteries]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/</guid>
+      <title>ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-05-9</link>
+      <description>&lt;![CDATA[ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-05-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>扩散语言模型深度思考</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-09-2</link>
-      <description>&lt;![CDATA[扩散语言模型深度思考]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 14:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-09-2</guid>
+      <title>穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-10-5</link>
+      <description>&lt;![CDATA[穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-5</guid>
       <category>Ai</category>
     </item>
   </channel>

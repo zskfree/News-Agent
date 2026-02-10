@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b0422a90d35f147d5570a5c886f47095b32db16951fed2e11d5938e46541c451": {
-        "title": "【数智周报】商务部回应审查Meta收购Manus；AI驱动的通胀是2026年最被忽视的风险；英伟达发布Vera Rubin AI计算平台",
-        "link": "https://www.tmtpost.com/7838188.html",
-        "published_date": "Sun, 11 Jan 2026 10:50:00 GMT",
-        "first_seen": "2026-01-11T05:27:27.991851"
-      },
-      "009696e78689d632d98ef26389a2ca0b9d056715b9558d55750434de32b43d63": {
-        "title": "人形机器人手眼协同的难题，速腾聚创给出了新解法｜CES 2026",
-        "link": "https://www.tmtpost.com/7837707.html",
-        "published_date": "Sun, 11 Jan 2026 11:26:00 GMT",
-        "first_seen": "2026-01-11T05:27:27.991858"
-      },
-      "0b73c20c9c428b6d7df1f3b014bf34c4a2e398c374531eb8d8595bd5d990b6de": {
-        "title": "对话鹿明机器人：在具身智能的“数据荒”里，做一个送水人｜AI Founder 请回答",
-        "link": "https://www.tmtpost.com/7838369.html",
-        "published_date": "Sun, 11 Jan 2026 12:43:00 GMT",
-        "first_seen": "2026-01-11T05:27:27.991860"
-      },
-      "05ddfb548ccb932dbbd1b99c22dee793049a7447b9a1f49e6d4026223b823557": {
-        "title": "数字音乐先驱再次豪赌，Napster全面转型AI能改命吗？",
-        "link": "https://www.tmtpost.com/7838201.html",
-        "published_date": "Sun, 11 Jan 2026 11:43:00 GMT",
-        "first_seen": "2026-01-11T05:27:27.991862"
-      },
-      "172887407a66c2d0c1fdf3eff4db3b3dc3011558c17cbc2aee32ace712ae2743": {
-        "title": "缔零科技完成数千万元融资，用AI替代人工内容审核，成本降60%",
-        "link": "https://www.tmtpost.com/7838326.html",
-        "published_date": "Sun, 11 Jan 2026 11:51:00 GMT",
-        "first_seen": "2026-01-11T05:27:27.991864"
-      },
       "42db0fb15c869a67adabb8fd39442acb4d87190610f95f292a397bee4401ddaf": {
         "title": "AI+硬件的\"最后一公里\"：从技术到场景，如何破局？| CES 2026",
         "link": "https://www.tmtpost.com/7837988.html",
@@ -2695,15 +2665,39 @@
         "link": "https://www.tmtpost.com/7872852.html",
         "published_date": "Mon, 09 Feb 2026 19:13:00 GMT",
         "first_seen": "2026-02-09T23:39:55.333388"
+      },
+      "c94d5b65c66c9cca9aa3081377f23777ac83a2ab4067116443b7b1b99350fb17": {
+        "title": "Cerebras凭借创新晶圆级引擎与OpenAI巨额合作，挑战Nvidia霸主地位",
+        "link": "https://www.tmtpost.com/7873755.html",
+        "published_date": "Tue, 10 Feb 2026 10:12:00 GMT",
+        "first_seen": "2026-02-10T06:13:13.474961"
+      },
+      "09bc2d41ec114ae6fbcfc4d362f8fe1181be410347a2710ac3505114a7c98590": {
+        "title": "英伟达、谷歌、阿里集体押注核聚变，AI终极能源究竟是什么？",
+        "link": "https://www.tmtpost.com/7873067.html",
+        "published_date": "Tue, 10 Feb 2026 09:00:00 GMT",
+        "first_seen": "2026-02-10T06:13:13.474968"
+      },
+      "a3a3a6837b43715ed47cfaa297779ba2106b6a7d80aa536b9badfc57694d127d": {
+        "title": "AI 竞赛终局：电力说了算？",
+        "link": "https://www.tmtpost.com/7873800.html",
+        "published_date": "Tue, 10 Feb 2026 13:13:00 GMT",
+        "first_seen": "2026-02-10T06:13:13.474970"
+      },
+      "693f6fc20a7fc017e4f8e8a20581f25758849aecc0159bf6bc9cd238c58ee99a": {
+        "title": "Skills出世，Prompt已死？2026年，如何为Agent构建可控思维",
+        "link": "https://www.infoq.cn/article/PulhCjGvh2i1xY0rjgSb?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 10 Feb 2026 09:44:00 GMT",
+        "first_seen": "2026-02-10T06:13:13.474972"
+      },
+      "b8fe5e7913eb9c666218cbe695b578ce7f3a0f6a342e6688fe7f7e3e58611610": {
+        "title": "GitHub开源项目shannon星标飙升，漏洞发现成功率96.15%",
+        "link": "https://www.tmtpost.com/7873847.html",
+        "published_date": "Tue, 10 Feb 2026 11:12:00 GMT",
+        "first_seen": "2026-02-10T06:13:13.474973"
       }
     },
     "Finance": {
-      "011baa17e0fe2774e4a94577d4ab83409dbd9c12d9323e24b0af298afb40659b": {
-        "title": "US could ease sanctions on Venezuela next week, says Bessent",
-        "link": "https://www.ft.com/content/c4fa621f-7605-4f07-8a7c-090c77a32f9c",
-        "published_date": "Sun, 11 Jan 2026 00:13:00 GMT",
-        "first_seen": "2026-01-11T05:27:07.823689"
-      },
       "46d3bbc9865f30a828d2fa80ff6c92efbea55763846a427c0fb6b1cf79d1c24c": {
         "title": "Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026",
         "link": "https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories",
@@ -4605,21 +4599,39 @@
         "link": "https://www.ft.com/content/e6f7f69a-2552-45f5-ae4c-6f1135e5cde1",
         "published_date": "Mon, 09 Feb 2026 23:27:00 GMT",
         "first_seen": "2026-02-09T23:39:25.263619"
+      },
+      "ef21560551bde5c23ed3eb09b3a1df2d3143b7c2ca5066604c279ee8d68e7cd4": {
+        "title": "What fast food’s downturn says about the US economy",
+        "link": "https://www.ft.com/content/9643e9b8-a4d8-49e2-8c16-20c1a1c5ca4b",
+        "published_date": "Tue, 10 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-10T06:12:37.971428"
+      },
+      "0d07b6b310cb7bb74c96823d3dbfaef25f19be363377955c7d8947c3820bcf84": {
+        "title": "Rising share of UK public in favour of tax and spending cuts",
+        "link": "https://www.ft.com/content/28c4a1c7-dcd2-4581-96b6-5992b581967d",
+        "published_date": "Tue, 10 Feb 2026 00:01:00 GMT",
+        "first_seen": "2026-02-10T06:12:37.971437"
+      },
+      "ea41175a03111b6165345ab6089ea5176341d508e8611d1268b110b22c140024": {
+        "title": "Standard Chartered finance chief leaves for Apollo",
+        "link": "https://www.ft.com/content/af2641e2-77e4-4d0a-8817-bee1fe1d968b",
+        "published_date": "Tue, 10 Feb 2026 05:24:00 GMT",
+        "first_seen": "2026-02-10T06:12:37.971440"
+      },
+      "ee7538db74831015159ca5d40261889c942da0175af39816f85e6c4706c420d8": {
+        "title": "Top bosses depart Canadian pension fund after Thames Water fiasco",
+        "link": "https://www.ft.com/content/bf423077-2904-4498-bcee-626441cbbd2a",
+        "published_date": "Tue, 10 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-10T06:12:37.971442"
+      },
+      "b4b11333c0ebcbd862769818aff2e456fd436d0b4a7d5c64e9101fd9c7bdf8d0": {
+        "title": "In a coming-out party for prediction markets and sports, people just traded nearly $1.5 billion on the Super Bowl winner",
+        "link": "https://www.marketwatch.com/story/in-a-coming-out-party-for-prediction-markets-and-sports-people-just-traded-nearly-1-5-billion-on-the-super-bowl-winner-86613100?mod=mw_rss_topstories",
+        "published_date": "Mon, 09 Feb 2026 23:56:00 GMT",
+        "first_seen": "2026-02-10T06:12:37.971444"
       }
     },
     "Ai": {
-      "1c68ee0772f0f8b1183cc41e5429e2e55973f2d330fd1164d5fcc6bd5b48988f": {
-        "title": "姚顺雨对着唐杰杨植麟林俊旸贴大脸开讲！基模四杰中关村论英雄",
-        "link": "https://www.qbitai.com/2026/01/368917.html",
-        "published_date": "Sun, 11 Jan 2026 03:00:00 GMT",
-        "first_seen": "2026-01-11T05:27:07.941736"
-      },
-      "243afb84366d096f06562180d0a80c42702ed5c8a7ce5cbcce13d8de35b98369": {
-        "title": "2026-01-11日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-11/",
-        "published_date": "Sun, 11 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-11T05:27:07.941744"
-      },
       "a1da560cd32f063729780ed102a1be31c13d9deda0540563a9e084fc907a3631": {
         "title": "无需人工标注，轻量级模型运动理解媲美72B模型，英伟达、MIT等联合推出FoundationMotion",
         "link": "https://www.jiqizhixin.com/articles/2026-01-11",
@@ -6797,13 +6809,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-09-2",
         "published_date": "Mon, 09 Feb 2026 14:16:00 GMT",
         "first_seen": "2026-02-09T23:39:36.410300"
+      },
+      "7785b468616cecfbd8eb1f013b54fafdd69eef9a8edee31a9dd3b596bc5c1ee8": {
+        "title": "阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了",
+        "link": "https://www.qbitai.com/2026/02/378236.html",
+        "published_date": "Tue, 10 Feb 2026 03:19:00 GMT",
+        "first_seen": "2026-02-10T06:12:50.956014"
+      },
+      "84b416327a0e79bedb9e158a17c03ce5e17f25cc93a8eab71b8a6faf945eb968": {
+        "title": "破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-2",
+        "published_date": "Tue, 10 Feb 2026 11:55:00 GMT",
+        "first_seen": "2026-02-10T06:12:50.956020"
+      },
+      "14dda637b27494ca818a35f562a4950c1bd03300974f5622bfee53c665019596": {
+        "title": "2026开年关键词：Self-Distillation，大模型真正走向「持续学习」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-3",
+        "published_date": "Tue, 10 Feb 2026 11:59:00 GMT",
+        "first_seen": "2026-02-10T06:12:50.956022"
+      },
+      "3dda58bd6a1af87507039c9b846418129bc78419f4902dffed07a508d3a28c4d": {
+        "title": "ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-05-9",
+        "published_date": "Tue, 10 Feb 2026 10:08:00 GMT",
+        "first_seen": "2026-02-10T06:12:50.956024"
+      },
+      "b21142829e16a6a293c8de056c65999b9bab6c478220a0c670e71fe3d692d9b9": {
+        "title": "穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-5",
+        "published_date": "Tue, 10 Feb 2026 12:08:00 GMT",
+        "first_seen": "2026-02-10T06:12:50.956025"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-09T23:39:55.333390",
-    "Finance": "2026-02-09T23:39:25.263621",
-    "Ai": "2026-02-09T23:39:36.410303"
+    "Technology": "2026-02-10T06:13:13.474975",
+    "Finance": "2026-02-10T06:12:37.971446",
+    "Ai": "2026-02-10T06:12:50.956028"
   }
 }
