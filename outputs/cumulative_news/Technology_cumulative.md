@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-10 08:58
+**最后更新时间**: 2026-02-10 23:39
+
+---
+
+## 🆕 最新更新 (2026-02-10 23:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行最新报告：发挥增量和存量政策集成效应；Seedance 2.0有点恐怖？官方暂停真人素材相关功能；比亚迪起诉美国政府](https://www.tmtpost.com/7874806.html)
+**发布时间**: 2026-02-11 07:20
+
+#### [估值75亿到破产审查：自嗨锅的“速热神话”为何戛然而止](https://www.tmtpost.com/7874889.html)
+**发布时间**: 2026-02-10 22:49
+
+#### [全球顶尖生物医药风投齐聚首届S2S中国研讨会 创业提案征集倒计时｜机构动态](https://www.tmtpost.com/7874686.html)
+**发布时间**: 2026-02-10 20:38
+
+#### [奥哲徐平俊：企业级AI落地，难的不只是技术｜创·问](https://www.tmtpost.com/7874671.html)
+**发布时间**: 2026-02-10 20:38
+
+#### [1月销量快报出炉，长安要“加油”养娃](https://www.tmtpost.com/7874416.html)
+**发布时间**: 2026-02-10 19:52
+
+#### [月入9万，已经有大学生用 Vibe Coding捞到第一桶金了](https://www.tmtpost.com/7874185.html)
+**发布时间**: 2026-02-10 19:37
+
+#### [Seedance 2.0火出圈，意味着AGI又近了一步](https://www.tmtpost.com/7874061.html)
+**发布时间**: 2026-02-10 19:37
+
+#### [金风科技的投资帝国，藏着哪些秘密？](https://www.tmtpost.com/7873958.html)
+**发布时间**: 2026-02-10 19:37
+
+#### [马斯克：搞不定AI5，特斯拉就完了](https://www.tmtpost.com/7874254.html)
+**发布时间**: 2026-02-10 19:37
+
+#### [叮咚买菜：从“幸存者”到归队者](https://www.tmtpost.com/7874312.html)
+**发布时间**: 2026-02-10 19:36
+
+#### [老乡鸡、海底捞、库迪……餐饮巨头们都在互相抢生意？](https://www.tmtpost.com/7873746.html)
+**发布时间**: 2026-02-10 19:17
+
+#### [数读「糖果、巧克力」：低糖健康、功能功效、IP食玩，是出路吗？](https://www.tmtpost.com/7873685.html)
+**发布时间**: 2026-02-10 19:17
+
+#### [印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件](https://www.tmtpost.com/7874361.html)
+**发布时间**: 2026-02-10 18:56
+
+#### [瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产](https://www.tmtpost.com/7874287.html)
+**发布时间**: 2026-02-10 18:56
+
+#### [中剧时代，影视行业寻路“细糠”与“榨菜”之间的空白地带](https://www.tmtpost.com/7874473.html)
+**发布时间**: 2026-02-10 18:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 032 周 AI 应用榜：桌面 Agent 强势来袭，阶跃登顶本周榜首](https://www.infoq.cn/article/5MpkYtE3SNEXSvkAYM03?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 20:00
+
+#### [为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么](https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 19:43
+
+#### [Java探索载体类以扩展面向数据编程](https://www.infoq.cn/article/PoMHdgGXx5dywm8pYDme?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 19:26
+
+#### [谷歌推出托管AlloyDB连接池](https://www.infoq.cn/article/zjNtBfmQQa580Aoc9Rud?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 19:21
+
+#### [突发！继杨格过劳病离职后，xAI又一位联创出走，疑单独创业](https://www.infoq.cn/article/VLJ1Pkm0fYtW0iYTN9vg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 18:54
+
+#### [星海图首席科学家许华哲创业，刚获内部投资！目标：“让机器人做一道松鼠鳜鱼”？](https://www.infoq.cn/article/EO57dfMthXCaFfjgajlL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 18:34
+
+#### [为什么开发者放弃框架而选择原生 JavaScript](https://www.infoq.cn/article/UJtGxoHgrizoaUI1HsdG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 18:29
+
+#### [字节发布最新模型 Seedream 5.0，但没打过Nano Banana Pro？](https://www.infoq.cn/article/xmRTBdskIJ0SNlwgGMYh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 18:24
+
+#### [未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业](https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 18:08
+
+#### [达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型](https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 17:53
+
+#### [WASI 1.0：WebAssembly可能在2026年悄然普及](https://www.infoq.cn/article/HA0BPPlTU2jOYuSDC7Ul?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 17:50
+
+#### [Andy Pavlo：数据库年度回顾](https://www.infoq.cn/article/Zbb25ejwoK2xQSHHcTB3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 17:40
+
+#### [在参与OpenAI、Google、Amazon的50个AI项目后，他们总结出了大多数AI产品失败的原因](https://www.infoq.cn/article/Ox3JQRBv6RX0pAggifej?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 17:29
+
+#### [不写、不看、不审查：这家安全公司决定不再让人类碰代码，还把这套模式开源了](https://www.infoq.cn/article/iwKHqENNONoXQDEsvobG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-10 17:22
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [中国车企，要接受新车销量“仅微涨”的新常态](http://www.huxiu.com/article/4833852.html?f=wangzhan)
+**发布时间**: 2026-02-10 19:07
+
+#### [索尼电视成“国货”了，日本电视是如何作死自己的？](http://www.huxiu.com/article/4833167.html?f=wangzhan)
+**发布时间**: 2026-02-10 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 129 | 租车自驾的「避坑」经验、与杂乱的桌面和解](https://sspai.com/post/106271)
+**发布时间**: 2026-02-10 16:56
+
+#### [巴掌大的小主机 Khadas Mind 2，究竟能用来干什么？](https://sspai.com/post/105559)
+**发布时间**: 2026-02-10 16:01
 
 ---
 

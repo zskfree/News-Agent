@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "44819a39865377dbc5f7af25eafe875a9caf5ca7da87c15607bcdef8afd915c4": {
-        "title": "Llama 4被图灵奖得主曝作弊刷榜，Meta开源AI帝国一夜倾覆",
-        "link": "https://www.tmtpost.com/7838500.html",
-        "published_date": "Sun, 11 Jan 2026 19:39:00 GMT",
-        "first_seen": "2026-01-11T23:22:27.166001"
-      },
-      "0ca4ae57ed82f603bd55b278bec78bf7b7b680a233bcbd73d916b8e84e3e6569": {
-        "title": "姚顺雨“露脸”，和唐杰杨植麟探讨AGI之路",
-        "link": "https://www.tmtpost.com/7838344.html",
-        "published_date": "Sun, 11 Jan 2026 16:29:00 GMT",
-        "first_seen": "2026-01-11T23:22:27.166008"
-      },
-      "f2be56648168bd135d8bb8e88e92cf9620cd2c38468c53f0bb9ed6c2d988ff3f": {
-        "title": "分布式光伏就此没落？“十五五”时期有望呈现这三大趋势！",
-        "link": "https://www.tmtpost.com/7838357.html",
-        "published_date": "Sun, 11 Jan 2026 16:29:00 GMT",
-        "first_seen": "2026-01-11T23:22:27.166010"
-      },
-      "cdb0e498ba46a37ffb225e69c68c97a0c4ac49fcfe8ea5fe27bd7f1283c3ab57": {
-        "title": "国家电投吉电绿氨首出国门！中韩能源合作升级",
-        "link": "https://www.tmtpost.com/7838377.html",
-        "published_date": "Sun, 11 Jan 2026 19:41:00 GMT",
-        "first_seen": "2026-01-11T23:22:27.166012"
-      },
-      "ebfec7e38a9ba65243655285a2cafe41025d1ea7928b2905077feb0eff6751ad": {
-        "title": "比23亿更严重：欣旺达或让数万海外车主陷入安全隐患",
-        "link": "https://www.tmtpost.com/7838487.html",
-        "published_date": "Sun, 11 Jan 2026 19:41:00 GMT",
-        "first_seen": "2026-01-11T23:22:27.166014"
-      },
       "074c6f572a97aee97bac332cec082f5380ffa0cd84a91392d0fb4b4529e83e97": {
         "title": "上海国资领投，星环聚能完成10亿元A轮融资，加速可控核聚变技术商业化 | 融资动态",
         "link": "https://www.tmtpost.com/7839027.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 10 Feb 2026 09:52:00 GMT",
         "first_seen": "2026-02-10T08:58:49.044334"
+      },
+      "fad576b56b3a821029ebf1f562f59d2751c3e1ac96ddfc08615e267647d4caf9": {
+        "title": "达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型",
+        "link": "https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 10 Feb 2026 17:53:00 GMT",
+        "first_seen": "2026-02-10T23:40:44.940911"
+      },
+      "e69d76fd5a4ceda16f35d996f07ed5007cb067578de655253d52e7998d0e9f7c": {
+        "title": "瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产",
+        "link": "https://www.tmtpost.com/7874287.html",
+        "published_date": "Tue, 10 Feb 2026 18:56:00 GMT",
+        "first_seen": "2026-02-10T23:40:44.940918"
+      },
+      "a8d463e91bfeeaf64de06b50a3bf6e3e82a77784b13f3b238c5944117afb5fe7": {
+        "title": "印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件",
+        "link": "https://www.tmtpost.com/7874361.html",
+        "published_date": "Tue, 10 Feb 2026 18:56:00 GMT",
+        "first_seen": "2026-02-10T23:40:44.940920"
+      },
+      "93bc75b1e06abc7f46d274080580cf0701447907fc0b905fbad84fee07264dcf": {
+        "title": "为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么",
+        "link": "https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 10 Feb 2026 19:43:00 GMT",
+        "first_seen": "2026-02-10T23:40:44.940921"
+      },
+      "8368bc9516e20b32b2885d5ddd579fdd8937f279d81b3dae9445600df9cb8314": {
+        "title": "未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业",
+        "link": "https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 10 Feb 2026 18:08:00 GMT",
+        "first_seen": "2026-02-10T23:40:44.940923"
       }
     },
     "Finance": {
-      "46d3bbc9865f30a828d2fa80ff6c92efbea55763846a427c0fb6b1cf79d1c24c": {
-        "title": "Stocks are signaling that another commodities ‘supercycle’ is afoot in 2026",
-        "link": "https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories",
-        "published_date": "Sun, 11 Jan 2026 21:01:00 GMT",
-        "first_seen": "2026-01-11T23:21:55.264548"
-      },
-      "8a3109db35e1945cdc68cb1669351183c9c977b088efd4b9359d06c782d8b5e1": {
-        "title": "UK private equity firms sharply increase use of offshore funds",
-        "link": "https://www.ft.com/content/dbf8be42-e133-415b-8de4-ded493ecbfd6",
-        "published_date": "Sun, 11 Jan 2026 18:00:00 GMT",
-        "first_seen": "2026-01-11T23:21:55.264560"
-      },
-      "ac0bc4a5d158d3a00d8f6fe7926c7c5b00404b1f022d4530e916102d18a1215e": {
-        "title": "The UK needs a detox from fiscal turmoil",
-        "link": "https://www.ft.com/content/78bc27d1-9720-4712-a236-ccf7167760e4",
-        "published_date": "Sun, 11 Jan 2026 12:00:00 GMT",
-        "first_seen": "2026-01-11T23:21:55.264562"
-      },
-      "4e766a4d54ccf47e635c605dbe65a899730668447ffb8fd7f0e8f3b64fe6ae0b": {
-        "title": "Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal",
-        "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
-        "published_date": "Sun, 11 Jan 2026 20:05:00 GMT",
-        "first_seen": "2026-01-11T23:21:55.264565"
-      },
-      "bc6e8f688bb7fe346101f8185621265701080cb23c39338f60c9ed0b7f20965b": {
-        "title": "Trump says Cuba will receive no more Venezuelan oil as he pushes for deal",
-        "link": "https://www.ft.com/content/f844ce4a-82b3-4ca0-969c-679f9ce3018b",
-        "published_date": "Sun, 11 Jan 2026 17:44:00 GMT",
-        "first_seen": "2026-01-11T23:21:55.264567"
-      },
       "29c85e121f0799a7a9eb46dc8104f7852f46c3dc867a57826851e7b4c67c19f3": {
         "title": "Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence",
         "link": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
@@ -4647,39 +4617,39 @@
         "link": "https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories",
         "published_date": "Tue, 10 Feb 2026 07:24:00 GMT",
         "first_seen": "2026-02-10T08:58:12.357707"
+      },
+      "d29d3d406836849e4e857495711039efc14e21f734535875470a309a2f41abc6": {
+        "title": "The U.S. bond market is suddenly flashing a warning sign about the economy",
+        "link": "https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Feb 2026 21:13:00 GMT",
+        "first_seen": "2026-02-10T23:40:04.813458"
+      },
+      "aaf3d1e4a1c120469e3c3ddaf8b2cebb36c19007e27858a55c928b4acbe2aa86": {
+        "title": "Trump says he’ll ‘figure something out’ if tariffs are struck down, as Supreme Court ruling may come next week",
+        "link": "https://www.marketwatch.com/story/trump-says-hell-figure-something-out-if-tariffs-are-struck-down-as-supreme-court-ruling-may-come-next-week-5b270ba6?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Feb 2026 22:36:00 GMT",
+        "first_seen": "2026-02-10T23:40:04.813469"
+      },
+      "f53c06a83289acce8c33a4b037e1def4f16d1f40bb7c02c1d055755029802b3c": {
+        "title": "Wall Street’s anything-but-tech trade shakes up US stock market",
+        "link": "https://www.ft.com/content/577b97f6-2416-48b9-9bd3-717bb202ca71",
+        "published_date": "Tue, 10 Feb 2026 14:41:00 GMT",
+        "first_seen": "2026-02-10T23:40:04.813472"
+      },
+      "d619352fc8bd8418af81d1215b10b8a737cba322cd848097c264affacc818bb7": {
+        "title": "US brokerage shares slide in latest sell-off driven by new AI tool",
+        "link": "https://www.ft.com/content/1c63983f-5ff0-4b70-ad55-7e4334f59422",
+        "published_date": "Tue, 10 Feb 2026 21:47:00 GMT",
+        "first_seen": "2026-02-10T23:40:04.813474"
+      },
+      "1656bcf323cbaead532f4bac05b02469c71ae1307895d1bc6081f1ac92bab1db": {
+        "title": "The S&P 500 just accomplished a first-time feat — and it suggests more wild swings ahead",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Feb 2026 21:51:00 GMT",
+        "first_seen": "2026-02-10T23:40:04.813476"
       }
     },
     "Ai": {
-      "a1da560cd32f063729780ed102a1be31c13d9deda0540563a9e084fc907a3631": {
-        "title": "无需人工标注，轻量级模型运动理解媲美72B模型，英伟达、MIT等联合推出FoundationMotion",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-11",
-        "published_date": "Sun, 11 Jan 2026 21:31:00 GMT",
-        "first_seen": "2026-01-11T23:22:08.398746"
-      },
-      "b208c20698c45406e4bff644f13152654b1c9afa7b4f3603bea3c8ee8f443893": {
-        "title": "挑战GRPO，英伟达提出GDPO，专攻多奖励优化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-11-4",
-        "published_date": "Sun, 11 Jan 2026 21:46:00 GMT",
-        "first_seen": "2026-01-11T23:22:08.398752"
-      },
-      "367476cfe0f285a460bc93327a62638fa86775e0875f0f5d202f3a84e66fb758": {
-        "title": "联邦学习不再安全？港大TPAMI新作：深挖梯度反转攻击的内幕",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-11-3",
-        "published_date": "Sun, 11 Jan 2026 21:42:00 GMT",
-        "first_seen": "2026-01-11T23:22:08.398754"
-      },
-      "e8723574f7d1ebb34aa5314545e1aeddb0393ce10fdb031d8172f9e1c2fe80a6": {
-        "title": "Sakana让AI互相「猎杀」，而它们开始了趋同进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-11-6",
-        "published_date": "Sun, 11 Jan 2026 21:59:00 GMT",
-        "first_seen": "2026-01-11T23:22:08.398756"
-      },
-      "19bcbfc86dac8a7f319b8b07b8c585c07dd59ec702c24e5a862ac975ee4bf166": {
-        "title": "不做人形、不跳舞：他家的具身智能凭什么在100+城市卖出400万杯咖啡？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-11-5",
-        "published_date": "Sun, 11 Jan 2026 21:53:00 GMT",
-        "first_seen": "2026-01-11T23:22:08.398757"
-      },
       "a3b69d2e7c605d40f6eb7e9091b4f261adf4bdbf0d7e8b26b462ed039068541f": {
         "title": "2026年，大模型训练的下半场属于「强化学习云」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-12-4",
@@ -6887,13 +6857,43 @@
         "link": "https://www.qbitai.com/2026/02/378305.html",
         "published_date": "Tue, 10 Feb 2026 07:27:00 GMT",
         "first_seen": "2026-02-10T08:58:27.769432"
+      },
+      "71caf09fae9399f586645541c647f0ca25f556ce9fb2a0903ff327a2e0b14a2a": {
+        "title": "清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-10",
+        "published_date": "Tue, 10 Feb 2026 18:54:00 GMT",
+        "first_seen": "2026-02-10T23:40:21.204555"
+      },
+      "f41d5e12e2d93fdad7101b11abfc8ef6469000427f5a3324d27463dce4cb0629": {
+        "title": "首个测试时共进化合成框架TTCS：在「左右互搏」中突破推理瓶颈",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-8",
+        "published_date": "Tue, 10 Feb 2026 17:04:00 GMT",
+        "first_seen": "2026-02-10T23:40:21.204562"
+      },
+      "fd708eadaedc8f3d403678901074dbb9da62bd5dda67045453d62f4cef5b1c14": {
+        "title": "人类画了100年的脑图，AI仅用几小时！还绘制出新脑区",
+        "link": "https://www.qbitai.com/2026/02/378423.html",
+        "published_date": "Tue, 10 Feb 2026 12:42:00 GMT",
+        "first_seen": "2026-02-10T23:40:21.204564"
+      },
+      "2ce16ed261d1632284b1fa24b35bf45285ef659479e588122a367027e9bf75f9": {
+        "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+        "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+        "published_date": "Tue, 10 Feb 2026 18:30:00 GMT",
+        "first_seen": "2026-02-10T23:40:21.204566"
+      },
+      "7b394289713c2840688bc209a3d36adbcf524132a602b4cee8e55a2088b2d863": {
+        "title": "比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-10-11",
+        "published_date": "Tue, 10 Feb 2026 18:59:00 GMT",
+        "first_seen": "2026-02-10T23:40:21.204568"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-10T08:58:49.044336",
-    "Finance": "2026-02-10T08:58:12.357710",
-    "Ai": "2026-02-10T08:58:27.769434"
+    "Technology": "2026-02-10T23:40:44.940924",
+    "Finance": "2026-02-10T23:40:04.813479",
+    "Ai": "2026-02-10T23:40:21.204570"
   }
 }

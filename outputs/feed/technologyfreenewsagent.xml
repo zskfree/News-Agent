@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 08:58:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 08:58:49 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 23:40:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2</title>
-      <link>https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&amp;utm_medium=article</guid>
+      <title>达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型</title>
+      <link>https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0</title>
-      <link>https://www.tmtpost.com/7874094.html</link>
-      <description>&lt;![CDATA[神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7874094.html</guid>
+      <title>瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产</title>
+      <link>https://www.tmtpost.com/7874287.html</link>
+      <description>&lt;![CDATA[瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 18:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7874287.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Databricks年度化收入达到54亿美元，其CEO 称AI没有削弱SaaS</title>
-      <link>https://www.tmtpost.com/7873720.html</link>
-      <description>&lt;![CDATA[Databricks年度化收入达到54亿美元，其CEO 称AI没有削弱SaaS]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873720.html</guid>
+      <title>印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件</title>
+      <link>https://www.tmtpost.com/7874361.html</link>
+      <description>&lt;![CDATA[印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 18:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7874361.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>投出爱芯、壁仞的耀途资本：中国AI芯片的胜算</title>
-      <link>https://www.tmtpost.com/7873989.html</link>
-      <description>&lt;![CDATA[投出爱芯、壁仞的耀途资本：中国AI芯片的胜算]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7873989.html</guid>
+      <title>为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么</title>
+      <link>https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 19:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践</title>
-      <link>https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业</title>
+      <link>https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业]]&gt;</description>
+      <pubDate>Tue, 10 Feb 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
