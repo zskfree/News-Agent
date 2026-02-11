@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 23:40:21 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 06:09:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:09:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-10</link>
-      <description>&lt;![CDATA[清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-10</guid>
+      <title>对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-4</link>
+      <description>&lt;![CDATA[对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>首个测试时共进化合成框架TTCS：在「左右互搏」中突破推理瓶颈</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-8</link>
-      <description>&lt;![CDATA[首个测试时共进化合成框架TTCS：在「左右互搏」中突破推理瓶颈]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-8</guid>
+      <title>ICLR 2026 Oral | DPO「只看总分不看细节」？TI-DPO用Token重要性重塑大模型对齐</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-3</link>
+      <description>&lt;![CDATA[ICLR 2026 Oral | DPO「只看总分不看细节」？TI-DPO用Token重要性重塑大模型对齐]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人类画了100年的脑图，AI仅用几小时！还绘制出新脑区</title>
-      <link>https://www.qbitai.com/2026/02/378423.html</link>
-      <description>&lt;![CDATA[人类画了100年的脑图，AI仅用几小时！还绘制出新脑区]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378423.html</guid>
+      <title>ICLR 2026 | 在Moltbook之外，上交大联合上海AI Lab模拟了AI原⽣社交的「真实暗⾯」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11</link>
+      <description>&lt;![CDATA[ICLR 2026 | 在Moltbook之外，上交大联合上海AI Lab模拟了AI原⽣社交的「真实暗⾯」]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations</title>
-      <link>https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/</link>
-      <description>&lt;![CDATA[Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/</guid>
+      <title>小众架构赢麻了！通过编辑功能让100B扩散模型飙出892 tokens/秒的速度！</title>
+      <link>https://www.qbitai.com/2026/02/378442.html</link>
+      <description>&lt;![CDATA[小众架构赢麻了！通过编辑功能让100B扩散模型飙出892 tokens/秒的速度！]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 02:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378442.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-10-11</link>
-      <description>&lt;![CDATA[比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-10-11</guid>
+      <title>RLinf-USER重磅发布！别再用仿真了，真实世界训练也能「极致效率与系统化」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-5</link>
+      <description>&lt;![CDATA[RLinf-USER重磅发布！别再用仿真了，真实世界训练也能「极致效率与系统化」]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-5</guid>
       <category>Ai</category>
     </item>
   </channel>

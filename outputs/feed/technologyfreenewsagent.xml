@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Feb 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 23:40:44 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 06:09:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:10:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型</title>
-      <link>https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中芯国际：逆势加码，国产 AI 芯的 “全村希望”？</title>
+      <link>https://www.tmtpost.com/7875526.html</link>
+      <description>&lt;![CDATA[中芯国际：逆势加码，国产 AI 芯的 “全村希望”？]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 13:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7875526.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产</title>
-      <link>https://www.tmtpost.com/7874287.html</link>
-      <description>&lt;![CDATA[瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7874287.html</guid>
+      <title>千问发布最新图像模型Qwen-Image-2.0，支持1K token超长文字输入和2K高分辨率</title>
+      <link>https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[千问发布最新图像模型Qwen-Image-2.0，支持1K token超长文字输入和2K高分辨率]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件</title>
-      <link>https://www.tmtpost.com/7874361.html</link>
-      <description>&lt;![CDATA[印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7874361.html</guid>
+      <title>Seedance 2.0真正的考验，将来自“地表最强法务部”</title>
+      <link>https://www.tmtpost.com/7875819.html</link>
+      <description>&lt;![CDATA[Seedance 2.0真正的考验，将来自“地表最强法务部”]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 13:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7875819.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么</title>
-      <link>https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 19:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化</title>
+      <link>https://www.tmtpost.com/7875885.html</link>
+      <description>&lt;![CDATA[承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7875885.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业</title>
-      <link>https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业]]&gt;</description>
-      <pubDate>Tue, 10 Feb 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>理解了巴菲特“补票”谷歌，就理解了字节、阿里与腾讯的AI入口大战</title>
+      <link>https://www.tmtpost.com/7875522.html</link>
+      <description>&lt;![CDATA[理解了巴菲特“补票”谷歌，就理解了字节、阿里与腾讯的AI入口大战]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7875522.html</guid>
       <category>Technology</category>
     </item>
   </channel>

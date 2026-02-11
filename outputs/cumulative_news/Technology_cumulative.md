@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-10 23:39
+**最后更新时间**: 2026-02-11 06:09
+
+---
+
+## 🆕 最新更新 (2026-02-11 06:09)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对话酷哇科技CTO 廖文龙：利润指标转正，AI服务机器人市场将在未来3-5年爆发](https://www.tmtpost.com/7875789.html)
+**发布时间**: 2026-02-11 14:03
+
+#### [承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化](https://www.tmtpost.com/7875885.html)
+**发布时间**: 2026-02-11 14:02
+
+#### [营收暴涨555%，毛利逼近80%，中国首家“内镜减肥”企业冲刺IPO](https://www.tmtpost.com/7875747.html)
+**发布时间**: 2026-02-11 14:00
+
+#### [减肥药战局生变：“双寡头”分出高下，全球价格血战中的国产谋突围丨行业风向标](https://www.tmtpost.com/7875744.html)
+**发布时间**: 2026-02-11 14:00
+
+#### [马斯克身边华人离职，受OpenClaw刺激了？](https://www.tmtpost.com/7875821.html)
+**发布时间**: 2026-02-11 13:49
+
+#### [互联网巨头逐鹿硬折扣](https://www.tmtpost.com/7874980.html)
+**发布时间**: 2026-02-11 13:49
+
+#### [Seedance 2.0真正的考验，将来自“地表最强法务部”](https://www.tmtpost.com/7875819.html)
+**发布时间**: 2026-02-11 13:38
+
+#### [中芯国际：逆势加码，国产 AI 芯的 “全村希望”？](https://www.tmtpost.com/7875526.html)
+**发布时间**: 2026-02-11 13:38
+
+#### [微软小冰往事：一个AI明星产品是如何坠落的](https://www.tmtpost.com/7875764.html)
+**发布时间**: 2026-02-11 13:30
+
+#### [做品牌，理解组织才是关键](https://www.tmtpost.com/7875601.html)
+**发布时间**: 2026-02-11 13:29
+
+#### [当“一个人拍电影”成为可能：谈谈Seedance2.0的高光与阴影](https://www.tmtpost.com/7875712.html)
+**发布时间**: 2026-02-11 13:25
+
+#### [智冉医疗完成3亿元A+轮融资，中科创星领投，老股东集体加注｜融资速递](https://www.tmtpost.com/7875728.html)
+**发布时间**: 2026-02-11 12:39
+
+#### [补体药物：攻克罕见病的另一扇门](https://www.tmtpost.com/7875647.html)
+**发布时间**: 2026-02-11 11:25
+
+#### [咖啡行业一年之变：瑞幸库迪多了2个万店对手，星巴克卖身求生](https://www.tmtpost.com/7874987.html)
+**发布时间**: 2026-02-11 11:15
+
+#### [锂从春天走来](https://www.tmtpost.com/7875414.html)
+**发布时间**: 2026-02-11 11:15
+
+#### [嘉晨智能：增速温吞募投“瘦身”，供应链“卡脖子软肋”待解 ｜IPO观察](https://www.tmtpost.com/7875530.html)
+**发布时间**: 2026-02-11 11:11
+
+#### [当高端梦撞上椰子水9.9元价格战，佳果源经销商被“打懵了”](https://www.tmtpost.com/7874815.html)
+**发布时间**: 2026-02-11 11:06
+
+#### [理解了巴菲特“补票”谷歌，就理解了字节、阿里与腾讯的AI入口大战](https://www.tmtpost.com/7875522.html)
+**发布时间**: 2026-02-11 11:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从一台修不好的 Walkman 开始：飞傲的复古产品「补票」之路](https://sspai.com/post/106146)
+**发布时间**: 2026-02-11 11:32
+
+#### [派早报：索尼将停止蓝光录像机出货等](https://sspai.com/post/106287)
+**发布时间**: 2026-02-11 07:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软发布OData .NET（ODL）9.0.0预览版3：安全性、现代化API及规范遵从性](https://www.infoq.cn/article/f0ev3d8fZtw2DaIdp85S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 10:36
+
+#### [OpenEverest：开源数据库自动化平台](https://www.infoq.cn/article/QIisU8EsIh2itQlUSFj9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 10:34
+
+#### [预防数据泄露：在GCP上实施VPC服务控制的实践](https://www.infoq.cn/article/QaR8toToJhEANT6gdQ6s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 10:31
+
+#### [千问发布最新图像模型Qwen-Image-2.0，支持1K token超长文字输入和2K高分辨率](https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 10:09
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "074c6f572a97aee97bac332cec082f5380ffa0cd84a91392d0fb4b4529e83e97": {
-        "title": "上海国资领投，星环聚能完成10亿元A轮融资，加速可控核聚变技术商业化 | 融资动态",
-        "link": "https://www.tmtpost.com/7839027.html",
-        "published_date": "Mon, 12 Jan 2026 11:26:00 GMT",
-        "first_seen": "2026-01-12T05:32:16.881379"
-      },
-      "459a7d5b5445ffa4054d3f98370b5ea57983f85c4e91c4ff370a4f121b80724b": {
-        "title": "Next AI Breakthrough Likely to Come from Physical Systems, Not the Cloud, Says Berkeley Researcher",
-        "link": "https://www.tmtpost.com/7838942.html",
-        "published_date": "Mon, 12 Jan 2026 10:27:00 GMT",
-        "first_seen": "2026-01-12T05:32:16.881387"
-      },
-      "57af478f0e2442a754db00a43500419b8430efea7fb224da6686fc1d4a5e81ee": {
-        "title": "“机器人一次性卖完太亏！”真机智能刘智勇：今年中国本体厂商将大淘汰，拼的是世界模型",
-        "link": "https://www.infoq.cn/article/EbQ24746fmKpCj7qJmIZ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 09:55:00 GMT",
-        "first_seen": "2026-01-12T05:32:16.881389"
-      },
-      "8e007e932796563a2f76556e8d2cf8224db0c57fe61a5bb50746a758a8d6f0ad": {
-        "title": "Physical AI Boom Spurs Caution Over Hype-Driven Innovations",
-        "link": "https://www.tmtpost.com/7839098.html",
-        "published_date": "Mon, 12 Jan 2026 12:52:00 GMT",
-        "first_seen": "2026-01-12T05:32:16.881390"
-      },
-      "4bea1afc6509d0f17749da6434bd6d73b1e801ca38a8bc1493b9ac76bf8c9a0d": {
-        "title": "Chinese Robotics Firms Dominate CES 2026 As Embodied AI Moves Toward Real-World Deployment",
-        "link": "https://www.tmtpost.com/7838972.html",
-        "published_date": "Mon, 12 Jan 2026 10:45:00 GMT",
-        "first_seen": "2026-01-12T05:32:16.881392"
-      },
       "9d309c2704c63be741b759e7255ae9c8af4258dfe02756176cd040e2ff1e5034": {
         "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
         "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 10 Feb 2026 18:08:00 GMT",
         "first_seen": "2026-02-10T23:40:44.940923"
+      },
+      "0d591c7a5e314414e5f553c8090c6197b658f628026d843ad3ae74cd5699a616": {
+        "title": "中芯国际：逆势加码，国产 AI 芯的 “全村希望”？",
+        "link": "https://www.tmtpost.com/7875526.html",
+        "published_date": "Wed, 11 Feb 2026 13:38:00 GMT",
+        "first_seen": "2026-02-11T06:10:17.888915"
+      },
+      "e260e820668f8b94f5c3a0c82fa6a48a32c9ee548384162a2f3fe965f9a48c44": {
+        "title": "千问发布最新图像模型Qwen-Image-2.0，支持1K token超长文字输入和2K高分辨率",
+        "link": "https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 10:09:00 GMT",
+        "first_seen": "2026-02-11T06:10:17.888922"
+      },
+      "b0507e1afdd588e0cc0ab2bb8e8496966f11e026d5b929b89c7270f46ba393a0": {
+        "title": "Seedance 2.0真正的考验，将来自“地表最强法务部”",
+        "link": "https://www.tmtpost.com/7875819.html",
+        "published_date": "Wed, 11 Feb 2026 13:38:00 GMT",
+        "first_seen": "2026-02-11T06:10:17.888924"
+      },
+      "07aa8c54fd75c62078486b870f1b79ed4597df09d722403fba41460444849b4e": {
+        "title": "承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化",
+        "link": "https://www.tmtpost.com/7875885.html",
+        "published_date": "Wed, 11 Feb 2026 14:02:00 GMT",
+        "first_seen": "2026-02-11T06:10:17.888926"
+      },
+      "b670351e071c4588984e0c9e4f74d3282a3372d6b2d986cfee78c6aa834585d8": {
+        "title": "理解了巴菲特“补票”谷歌，就理解了字节、阿里与腾讯的AI入口大战",
+        "link": "https://www.tmtpost.com/7875522.html",
+        "published_date": "Wed, 11 Feb 2026 11:03:00 GMT",
+        "first_seen": "2026-02-11T06:10:17.888927"
       }
     },
     "Finance": {
-      "29c85e121f0799a7a9eb46dc8104f7852f46c3dc867a57826851e7b4c67c19f3": {
-        "title": "Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence",
-        "link": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
-        "published_date": "Mon, 12 Jan 2026 02:30:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.149638"
-      },
-      "59de4c6ec57e57b2e55e9d44c65c3959af1fc2ada32a6570095de384aeae70d2": {
-        "title": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
-        "published_date": "Mon, 12 Jan 2026 04:02:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.149649"
-      },
-      "84d88ba8bc3a47b731a9945fe9f902e1b38b56d4ecbcb3beee685ea54d51b499": {
-        "title": "Wall Street headed for best investment banking year since pandemic",
-        "link": "https://www.ft.com/content/f3d79af1-b55a-4c86-b39a-41bf3cec77d1",
-        "published_date": "Mon, 12 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.149651"
-      },
-      "b69b5db55d22d907861c894ccf0bb2de49f97d1c45241ebae351b9b64a323d90": {
-        "title": "India needs to import more capital and export fewer workers",
-        "link": "https://www.ft.com/content/999a8dd3-a494-4bf9-892f-22446b9de73b",
-        "published_date": "Mon, 12 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.149653"
-      },
-      "e3ecbb611a25735b1efff89bd5a61f3e44b3d30faf63aa72fd7c711724b7ad81": {
-        "title": "Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates",
-        "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
-        "published_date": "Mon, 12 Jan 2026 02:04:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.149656"
-      },
       "9621b81a387f1dbe1bca2414f07b196dd949af1e3fc13a6d51ac7f2f39889f7c": {
         "title": "Gold hits record high on worries over Fed independence",
         "link": "https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186",
@@ -4647,39 +4617,39 @@
         "link": "https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories",
         "published_date": "Tue, 10 Feb 2026 21:51:00 GMT",
         "first_seen": "2026-02-10T23:40:04.813476"
+      },
+      "efb914ecdf452fff58fe0e9f4217a94b1daf12570583f3b06e78efb8d9c19808": {
+        "title": "Disclosure rules for ‘buy now, pay later’ lenders diluted by UK regulator",
+        "link": "https://www.ft.com/content/877c52d9-e2f6-40cc-bf7a-e01818fafb62",
+        "published_date": "Wed, 11 Feb 2026 00:01:00 GMT",
+        "first_seen": "2026-02-11T06:09:41.074594"
+      },
+      "3e73b9397d8dc6c73b57ca52c49aa2d5d9a7db182c2d4d1c63cd25c2a6b70145": {
+        "title": "25-year-old founder raises $220mn for secretive UK AI chip start-up",
+        "link": "https://www.ft.com/content/cba54e86-2b2a-422c-861b-dc9280d6aa65",
+        "published_date": "Wed, 11 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-11T06:09:41.074605"
+      },
+      "5b8cf6c07ca721ee5d8f5ead5b2b3274c2aca3baf0be73e20283f198b7ca15bb": {
+        "title": "Crypto winter hits Robinhood’s sales and stock, but CEO sees prediction-market ‘super cycle’",
+        "link": "https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Feb 2026 01:34:00 GMT",
+        "first_seen": "2026-02-11T06:09:41.074608"
+      },
+      "26b39f21e8744bb0bc05c5bc77292efebb2624eaa52e3ceef7ea0f1b0253fcc2": {
+        "title": "New CBI boss criticises UK government policy of taking stakes in businesses",
+        "link": "https://www.ft.com/content/2e5e776b-0d15-41e3-9bfa-4752e4fae40c",
+        "published_date": "Wed, 11 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-11T06:09:41.074610"
+      },
+      "8e1bc986e67f9d79fbb3044e0afc293e0f4126d0f3048af8aaa4208c8bb7a5af": {
+        "title": "Turkey’s soap opera boom threatened by dramatic inflation",
+        "link": "https://www.ft.com/content/d5aa6fc5-cecd-45cf-81fb-9b06e7994e25",
+        "published_date": "Wed, 11 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-11T06:09:41.074612"
       }
     },
     "Ai": {
-      "a3b69d2e7c605d40f6eb7e9091b4f261adf4bdbf0d7e8b26b462ed039068541f": {
-        "title": "2026年，大模型训练的下半场属于「强化学习云」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-4",
-        "published_date": "Mon, 12 Jan 2026 13:24:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.289601"
-      },
-      "3458bd2150debbd4a1ff6aca2675adcba8c17a5be638e6f663204943a8058972": {
-        "title": "顶尖AI竟输给三岁宝宝，BabyVision测试暴露多模态模型硬伤",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-3",
-        "published_date": "Mon, 12 Jan 2026 13:15:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.289609"
-      },
-      "a9c45bb2ae0b239455c9f967bbbe43e4f14b2ab8845cfb659b5c7e9bfa3ad132": {
-        "title": "AAAI 2026 Oral｜快手提出全新「检索数据引擎」CroPS，打破搜索信息茧房",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-2",
-        "published_date": "Mon, 12 Jan 2026 13:07:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.289611"
-      },
-      "75c6dfecab1841a3af96700f0858bfa0984a0265a4903026c6853456ae6462da": {
-        "title": "被Jim Fan点赞！全球第一的千寻智能Spirit v1.5正式开源！",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12",
-        "published_date": "Mon, 12 Jan 2026 10:25:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.289612"
-      },
-      "b20952b31980f88e4aa338ff7f8509d45c5eb658e06e23712d7142d14cd69fad": {
-        "title": "2026-01-12日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-12/",
-        "published_date": "Mon, 12 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-12T05:31:56.289614"
-      },
       "1401a8d331131b2b52d41bc54246e9d2a3e4ac484dfafd8350548bcdf2cf4ff1": {
         "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
         "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
@@ -6887,13 +6857,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-10-11",
         "published_date": "Tue, 10 Feb 2026 18:59:00 GMT",
         "first_seen": "2026-02-10T23:40:21.204568"
+      },
+      "0c34e72d7ea6692d8c3a4a268f63bb0f115239eaa5dd25291c5dd5be147b8031": {
+        "title": "对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-4",
+        "published_date": "Wed, 11 Feb 2026 11:10:00 GMT",
+        "first_seen": "2026-02-11T06:09:57.135763"
+      },
+      "c17d5c94a14c8d1875b174966aa6a540a81dd6344d8aa8299cd6984e95c52684": {
+        "title": "ICLR 2026 Oral | DPO「只看总分不看细节」？TI-DPO用Token重要性重塑大模型对齐",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-3",
+        "published_date": "Wed, 11 Feb 2026 11:07:00 GMT",
+        "first_seen": "2026-02-11T06:09:57.135770"
+      },
+      "3a1cab4e097491a4ec3596b069cb8418b638db3b5f19a99c764b7f5d269d046b": {
+        "title": "ICLR 2026 | 在Moltbook之外，上交大联合上海AI Lab模拟了AI原⽣社交的「真实暗⾯」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11",
+        "published_date": "Wed, 11 Feb 2026 10:40:00 GMT",
+        "first_seen": "2026-02-11T06:09:57.135772"
+      },
+      "6da4c5f0cbdb334a6fb8a548ee37ad902bacd6146a9a1d395d27e7bb7406796d": {
+        "title": "小众架构赢麻了！通过编辑功能让100B扩散模型飙出892 tokens/秒的速度！",
+        "link": "https://www.qbitai.com/2026/02/378442.html",
+        "published_date": "Wed, 11 Feb 2026 02:06:00 GMT",
+        "first_seen": "2026-02-11T06:09:57.135773"
+      },
+      "4114509aa98a9b54476ef0684e68deb4dee7a6276ed1515e589eb4d6a2dad368": {
+        "title": "RLinf-USER重磅发布！别再用仿真了，真实世界训练也能「极致效率与系统化」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-5",
+        "published_date": "Wed, 11 Feb 2026 11:19:00 GMT",
+        "first_seen": "2026-02-11T06:09:57.135775"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-10T23:40:44.940924",
-    "Finance": "2026-02-10T23:40:04.813479",
-    "Ai": "2026-02-10T23:40:21.204570"
+    "Technology": "2026-02-11T06:10:17.888929",
+    "Finance": "2026-02-11T06:09:41.074615",
+    "Ai": "2026-02-11T06:09:57.135777"
   }
 }
