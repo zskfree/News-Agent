@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 08:52
+**最后更新时间**: 2026-02-11 23:34
+
+---
+
+## 🆕 最新更新 (2026-02-11 23:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】完善全国统一电力市场体系，国办最新部署；微信1月更新9项功能，删好友可保留聊天记录；谷歌天价收购加码云计算，欧盟批准其320亿美元收购Wiz](https://www.tmtpost.com/7876719.html)
+**发布时间**: 2026-02-12 07:20
+
+#### [重磅数据！美国1月非农就业人数增加13万，失业率降至4.3%](https://www.tmtpost.com/7876934.html)
+**发布时间**: 2026-02-11 23:14
+
+#### [“自行车大佬”二度出手：6亿要约锁定多瑞医药过半控股权，接盘亏损困局丨并购一线](https://www.tmtpost.com/7876705.html)
+**发布时间**: 2026-02-11 21:51
+
+#### [谷歌AI拒生迪士尼角色：版权博弈引发行业连锁反应](https://www.tmtpost.com/7876610.html)
+**发布时间**: 2026-02-11 19:50
+
+#### [瑞幸咖啡门店突破3万家；中国体育代表团身着李宁亮相冬奥开幕式；Outopia完成B轮融资；薇诺娜官宣王楚钦｜消研所周报](https://www.tmtpost.com/7876455.html)
+**发布时间**: 2026-02-11 19:41
+
+#### [Google AI负责人Hassabis披露AGI四步计划：模型大一统与世界模拟成核心](https://www.tmtpost.com/7876480.html)
+**发布时间**: 2026-02-11 19:27
+
+#### [牵手索尼，TCL距离高枕无忧还有多远](https://www.tmtpost.com/7876254.html)
+**发布时间**: 2026-02-11 19:11
+
+#### [两大“超级牛散”会师，葛卫东和章建平看上江淮啥了？](https://www.tmtpost.com/7876297.html)
+**发布时间**: 2026-02-11 19:09
+
+#### [连接13万医师、打通中医药全产业链，甘之草科技为何仍难赚钱？](https://www.tmtpost.com/7874823.html)
+**发布时间**: 2026-02-11 19:09
+
+#### [那些藏在电价背后的隐形及惩罚性账单](https://www.tmtpost.com/7876342.html)
+**发布时间**: 2026-02-11 19:09
+
+#### [国资控股后，民营银行的日子好过了吗？](https://www.tmtpost.com/7876496.html)
+**发布时间**: 2026-02-11 19:06
+
+#### [为什么大家都吵着去吉林过年？](https://www.tmtpost.com/7876422.html)
+**发布时间**: 2026-02-11 19:05
+
+#### [这个春节，中美AI“隔空开打”](https://www.tmtpost.com/7876304.html)
+**发布时间**: 2026-02-11 19:00
+
+#### [蓝思科技卷土重来](https://www.tmtpost.com/7876298.html)
+**发布时间**: 2026-02-11 17:47
+
+#### [上新、发红包、上春晚……这个春节，AI太忙](https://www.tmtpost.com/7876279.html)
+**发布时间**: 2026-02-11 17:47
+
+#### [巨头竞相豪赌，砸不出下一个DeepSeek](https://www.tmtpost.com/7876031.html)
+**发布时间**: 2026-02-11 17:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ChatGPT的第一块广告位，被谁买走了？OpenAI：别骂，我们这次所有底线都招了](https://www.infoq.cn/article/Y6SK6Mu5t4gmCk5mhxvk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 18:01
+
+#### [传字节今年要造10万颗推理芯片，1600 亿预算砸向AI！](https://www.infoq.cn/article/AradpbWZZoiWVmehvBLB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 17:40
+
+#### [从多模态走向全模态！蚂蚁开源 Ming-Flash-Omni 2.0，对标Gemini 2.5 Pro](https://www.infoq.cn/article/d9TEFiU7kq8EKCIodTmI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 17:31
+
+#### [Snowflake 语义视图自动驾驶：分钟级 AI 驱动的语义建模 ｜ 技术趋势](https://www.infoq.cn/article/4gjxPMiGtEfB946j2U27?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 17:25
+
+#### [OpenAI 与 Anthropic双雄打擂台！专家：2026 年 Agent 将在产业里遍地开花](https://www.infoq.cn/article/iHkvlLuTCWNJv27eJ1XY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-11 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流](https://sspai.com/post/106232)
+**发布时间**: 2026-02-11 17:47
+
+#### [寻源南疆：我们在冰山上拍了一部「公路电影」](https://sspai.com/post/106299)
+**发布时间**: 2026-02-11 16:27
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [字节AI一夜爆红又“秒怂”，Seedance 2为何自己踩下刹车？](http://www.huxiu.com/article/4834171.html?f=wangzhan)
+**发布时间**: 2026-02-11 17:30
 
 ---
 

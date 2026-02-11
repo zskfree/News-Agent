@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 08:52
+**最后更新时间**: 2026-02-11 23:34
+
+---
+
+## 🆕 最新更新 (2026-02-11 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ineos seeks redress from Belgium over suspension of plant permit](https://www.ft.com/content/cfc8dda3-55ad-4e2c-9a2d-40557223727f)
+**发布时间**: 2026-02-11 23:25
+
+#### [Starmer calls on Ratcliffe to apologise after claiming UK ‘colonised by immigrants’](https://www.ft.com/content/8e28b679-f585-49f6-b010-97dc52b61311)
+**发布时间**: 2026-02-11 23:21
+
+#### [Trump-Netanyahu meeting ends with no agreement on Iran strategy](https://www.ft.com/content/f2ec6c84-6ff1-4b82-8c3e-e8b58254813d)
+**发布时间**: 2026-02-11 22:57
+
+#### [Bondi under fire over handling of Epstein files in congressional hearing](https://www.ft.com/content/d1a1b021-c6be-4906-bbdb-4c17ee18e9f8)
+**发布时间**: 2026-02-11 21:49
+
+#### [Shares in UK wealth managers hit as AI contagion spreads](https://www.ft.com/content/5904b66f-2144-44d7-af24-66c075677d92)
+**发布时间**: 2026-02-11 21:28
+
+#### [US economy far outstrips expectations to add 130,000 jobs in January](https://www.ft.com/content/a369333a-41b5-4e55-8e6e-cb04bb0f2e9f)
+**发布时间**: 2026-02-11 19:56
+
+#### [Why Elliott bet that LSEG could weather AI storm](https://www.ft.com/content/a64f45cb-31f1-4aa0-8471-d7f083358b51)
+**发布时间**: 2026-02-11 19:46
+
+#### [Reeves to limit deregulatory drive as she seeks closer UK ties with EU](https://www.ft.com/content/98e57c0e-3050-40d0-92c4-f245d0f29496)
+**发布时间**: 2026-02-11 19:24
+
+#### [How AstraZeneca shot for the moon — and hit](https://www.ft.com/content/d87c364d-70bb-4989-98fd-73f42463bb67)
+**发布时间**: 2026-02-11 17:41
+
+#### [Rivals benefit from Hargreaves client exits after fee shake-up](https://www.ft.com/content/cbb999fd-a23a-4a5e-98b9-c552906ca8e5)
+**发布时间**: 2026-02-11 13:28
+
+#### [Britain should pray that Starmer survives](https://www.ft.com/content/c9a27925-47f8-4542-a165-102bca95bce3)
+**发布时间**: 2026-02-11 11:58
+
+#### [Lib Dems set out plan to replace Treasury with ‘Department for Growth’](https://www.ft.com/content/2f78b635-5aa2-4a41-9956-e35040e96523)
+**发布时间**: 2026-02-11 11:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Amazon’s $6.5 billion chip deal with Astera Labs is a ‘double-edged sword’](https://www.marketwatch.com/story/why-amazons-6-5-billion-chip-deal-with-astera-labs-is-a-double-edged-sword-209424ea?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:55
+
+#### [Micron’s stock pops. Here’s what an executive just said to calm nervous investors.](https://www.marketwatch.com/story/microns-stock-pops-heres-what-an-executive-just-said-to-calm-nervous-investors-d5740cce?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:53
+
+#### [McDonald’s says value meals are bringing back customers, but it still expects a tough year ahead](https://www.marketwatch.com/story/mcdonalds-says-value-meals-are-bringing-back-customers-as-results-lift-stock-6ba005ed?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:33
+
+#### [This iconic American brand’s debt may be on the verge of junk status](https://www.marketwatch.com/story/this-iconic-american-brands-debt-may-be-on-the-verge-of-junk-status-39d47274?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:24
+
+#### [Cisco’s stock falls as investors pan a seemingly upbeat earnings report](https://www.marketwatch.com/story/ciscos-stock-falls-as-investors-pan-a-seemingly-upbeat-earnings-report-17f46ba4?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:24
+
+#### [Coal stocks gain as Trump unveils executive order calling for industry deals with military](https://www.marketwatch.com/story/coal-stocks-gain-as-trump-looks-set-to-issue-executive-order-calling-for-industry-deals-with-military-4acd8005?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 22:14
+
+#### [9 years in college football? This Montana linebacker is the latest Division I student-athlete who’s sticking around.](https://www.marketwatch.com/story/9-years-in-college-football-this-montana-linebacker-is-the-latest-division-i-student-athlete-sticking-around-4406628a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 21:44
+
+#### [Stocks have turned volatile despite strong January jobs report. Here’s why investors aren’t happy.](https://www.marketwatch.com/story/why-investors-arent-loving-this-january-jobs-report-dcc240e5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 21:33
+
+#### [Why Amazon’s AI spending triggered the stock’s worst slide in over a year](https://www.marketwatch.com/story/why-amazons-ai-spending-triggered-the-stocks-worst-slide-in-over-a-year-6da31e8c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 21:23
 
 ---
 
