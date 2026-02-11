@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9d309c2704c63be741b759e7255ae9c8af4258dfe02756176cd040e2ff1e5034": {
-        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
-        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318978"
-      },
-      "6a4ef330c33e02039f43b70b1f2c144c0413a515f80620ea9a26e9102fa2c2aa": {
-        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
-        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318985"
-      },
-      "3aa073111a52d4d26df204ef9e29a21eeda66b5d1ecb058b04709260351fd9ed": {
-        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
-        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318987"
-      },
-      "1ca0cf81529a874b6b6e0ef880256087103d2d498eafb6f7a5984a70a2ab44bb": {
-        "title": "Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale",
-        "link": "https://www.tmtpost.com/7838958.html",
-        "published_date": "Mon, 12 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318988"
-      },
-      "0c3b80d9218d99bdb8a01bfafca586fb31943567be70d2078478d5ec7d02ffa0": {
-        "title": "智谱 VS MiniMax：国产大模型双雄上市记",
-        "link": "https://www.tmtpost.com/7838822.html",
-        "published_date": "Mon, 12 Jan 2026 10:54:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318990"
-      },
       "000bcc0487fdbf400f4c7d906b86416ba5003879372873188255df140f60d564": {
         "title": "英伟达发布了跨AI、机器人和自动驾驶的开放模型、数据集和工具",
         "link": "https://www.infoq.cn/article/HHxGUQV0RjXGOfTisX9U?utm_source=rss&utm_medium=article",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7875522.html",
         "published_date": "Wed, 11 Feb 2026 11:03:00 GMT",
         "first_seen": "2026-02-11T06:10:17.888927"
+      },
+      "ff053fde7e227845cf119b6e4f639fdd0761a8fe4f295d8c3c646715cbb7302f": {
+        "title": "内存涨价吞噬订单，“黑天鹅”突袭手机、PC芯片产业",
+        "link": "https://www.tmtpost.com/7876066.html",
+        "published_date": "Wed, 11 Feb 2026 16:36:00 GMT",
+        "first_seen": "2026-02-11T08:52:50.214031"
+      },
+      "367b396f9ea706b239f06e5c394ee0d2dff065ed82abc4a63a030d1ccdd7598b": {
+        "title": "Alibaba, ByteDance Unveil New AI Products on the Same Day in Race for Supremacy",
+        "link": "https://www.tmtpost.com/7876060.html",
+        "published_date": "Wed, 11 Feb 2026 15:43:00 GMT",
+        "first_seen": "2026-02-11T08:52:50.214037"
+      },
+      "26367a5b680acbceeb96c3a3959d20265f042439cd868261cc04de4aa4b4054f": {
+        "title": "离开半年，48 岁前 GitHub CEO 携开源 AI 开发者平台和老东家打擂",
+        "link": "https://www.infoq.cn/article/fcjA0034GUQVp20cjHZU?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:16:00 GMT",
+        "first_seen": "2026-02-11T08:52:50.214039"
+      },
+      "68653ec9fbfc8c090ebd7c71fe64edd1531d41216c867ecf72f92092d6109ef5": {
+        "title": "当“一个人拍电影”成为可能：谈谈Seedance2.0的高光与阴影",
+        "link": "https://www.tmtpost.com/7875712.html",
+        "published_date": "Wed, 11 Feb 2026 13:25:00 GMT",
+        "first_seen": "2026-02-11T08:52:50.214041"
+      },
+      "1770883a79aa189c7e06275d02fa931d087db6d44220ca1bf0ecc915e0c36f6d": {
+        "title": "微软小冰往事：一个AI明星产品是如何坠落的",
+        "link": "https://www.tmtpost.com/7875764.html",
+        "published_date": "Wed, 11 Feb 2026 13:30:00 GMT",
+        "first_seen": "2026-02-11T08:52:50.214042"
       }
     },
     "Finance": {
-      "9621b81a387f1dbe1bca2414f07b196dd949af1e3fc13a6d51ac7f2f39889f7c": {
-        "title": "Gold hits record high on worries over Fed independence",
-        "link": "https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186",
-        "published_date": "Mon, 12 Jan 2026 07:51:00 GMT",
-        "first_seen": "2026-01-12T08:35:20.131814"
-      },
-      "d6338d15cc0d8777ad74dea06e7d89da32da27e427a8094122ed189322ea89ca": {
-        "title": "Criminalising the Fed",
-        "link": "https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32",
-        "published_date": "Mon, 12 Jan 2026 06:30:00 GMT",
-        "first_seen": "2026-01-12T08:35:20.131826"
-      },
       "35ddd5dbba7e5e23fb9c6e4db48a3d7806e934ab7d3334a1b6e7877789dd40cb": {
         "title": "BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%",
         "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
@@ -4647,39 +4635,21 @@
         "link": "https://www.ft.com/content/d5aa6fc5-cecd-45cf-81fb-9b06e7994e25",
         "published_date": "Wed, 11 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-11T06:09:41.074612"
+      },
+      "6085ab23b52958c1326a40a480dc6cfdf71eb2e2c22bed65bfbcd274a7692da1": {
+        "title": "Elliott Management builds stake in London Stock Exchange Group",
+        "link": "https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364",
+        "published_date": "Wed, 11 Feb 2026 08:33:00 GMT",
+        "first_seen": "2026-02-11T08:52:22.668424"
+      },
+      "1a9435fc52d250f8f816d57b3f050c427239118f5ccabc19531d607d0230f782": {
+        "title": "Heineken to cut 6,000 jobs as beer demand declines",
+        "link": "https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e",
+        "published_date": "Wed, 11 Feb 2026 08:02:00 GMT",
+        "first_seen": "2026-02-11T08:52:22.668436"
       }
     },
     "Ai": {
-      "1401a8d331131b2b52d41bc54246e9d2a3e4ac484dfafd8350548bcdf2cf4ff1": {
-        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
-        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583975"
-      },
-      "20fe234369ceecdd8399b60d55c534f7eb5db6b0105026e9ab331e943fdcca56": {
-        "title": "具身智能开年最大融资，字节红杉领投10亿",
-        "link": "https://www.qbitai.com/2026/01/369147.html",
-        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583981"
-      },
-      "21345019d20c30e2290c2bcc5cbbe967686dbdc6c650650c7860edc8622bdab1": {
-        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
-        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583984"
-      },
-      "9136e32ecba3949e46147f93b95475753ddc991eeab6ebbcc185873fc618eee5": {
-        "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
-        "link": "https://www.qbitai.com/2026/01/369107.html",
-        "published_date": "Mon, 12 Jan 2026 08:06:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583986"
-      },
-      "39bca3da45d37bac837754f9d52c13e19e5eb38e7c71d59a6a368ae8bd2ec0b9": {
-        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
-        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583987"
-      },
       "8dd0508d4badf704680719919ffb81ce2558186707a7300664453fe97db12c30": {
         "title": "2026-01-13日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-13/",
@@ -6887,13 +6857,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-11-5",
         "published_date": "Wed, 11 Feb 2026 11:19:00 GMT",
         "first_seen": "2026-02-11T06:09:57.135775"
+      },
+      "d7b752f25efdd665e3684d2337a7e44ae03052d5ba5133cd6305a26b8a2c1bcb": {
+        "title": "Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-6",
+        "published_date": "Wed, 11 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-11T08:52:31.717233"
+      },
+      "49e01d0b53f6babde8ca114edd5fb997e4c9ad80d408f364f241969fa692e9e0": {
+        "title": "里程碑时刻！100B扩散语言模型跑出892 Tokens /秒，AI的另一条路走通了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-2",
+        "published_date": "Wed, 11 Feb 2026 10:46:00 GMT",
+        "first_seen": "2026-02-11T08:52:31.717241"
+      },
+      "046936dabe79927205888b1d40fd9a8ff5f5009ae7804bb9f2e7b25ff84fe3de": {
+        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-7",
+        "published_date": "Wed, 11 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-11T08:52:31.717245"
+      },
+      "5d80fbd493b02bfc1e6db590003f648b30bc157826db5e74651093f2a9226b86": {
+        "title": "特斯拉腾讯首次合作，新老Model 3/Y车主爽到了",
+        "link": "https://www.qbitai.com/2026/02/378503.html",
+        "published_date": "Wed, 11 Feb 2026 06:34:00 GMT",
+        "first_seen": "2026-02-11T08:52:31.717247"
+      },
+      "1699375699d4f78f5fa8f20e961834ec80bf6a3d1adeeae1c7043b4f68e7866a": {
+        "title": "华为云大动作！马年春节前夕，码道开启万人公测",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-8",
+        "published_date": "Wed, 11 Feb 2026 15:37:00 GMT",
+        "first_seen": "2026-02-11T08:52:31.717250"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-11T06:10:17.888929",
-    "Finance": "2026-02-11T06:09:41.074615",
-    "Ai": "2026-02-11T06:09:57.135777"
+    "Technology": "2026-02-11T08:52:50.214060",
+    "Finance": "2026-02-11T08:52:22.668439",
+    "Ai": "2026-02-11T08:52:31.717254"
   }
 }

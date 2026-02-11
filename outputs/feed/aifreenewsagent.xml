@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Feb 2026 06:09:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 06:09:57 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 08:52:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11-4</link>
-      <description>&lt;![CDATA[对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-4</guid>
+      <title>Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-6</link>
+      <description>&lt;![CDATA[Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 Oral | DPO「只看总分不看细节」？TI-DPO用Token重要性重塑大模型对齐</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11-3</link>
-      <description>&lt;![CDATA[ICLR 2026 Oral | DPO「只看总分不看细节」？TI-DPO用Token重要性重塑大模型对齐]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-3</guid>
+      <title>里程碑时刻！100B扩散语言模型跑出892 Tokens /秒，AI的另一条路走通了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-2</link>
+      <description>&lt;![CDATA[里程碑时刻！100B扩散语言模型跑出892 Tokens /秒，AI的另一条路走通了]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | 在Moltbook之外，上交大联合上海AI Lab模拟了AI原⽣社交的「真实暗⾯」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11</link>
-      <description>&lt;![CDATA[ICLR 2026 | 在Moltbook之外，上交大联合上海AI Lab模拟了AI原⽣社交的「真实暗⾯」]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11</guid>
+      <title>网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-7</link>
+      <description>&lt;![CDATA[网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小众架构赢麻了！通过编辑功能让100B扩散模型飙出892 tokens/秒的速度！</title>
-      <link>https://www.qbitai.com/2026/02/378442.html</link>
-      <description>&lt;![CDATA[小众架构赢麻了！通过编辑功能让100B扩散模型飙出892 tokens/秒的速度！]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 02:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378442.html</guid>
+      <title>特斯拉腾讯首次合作，新老Model 3/Y车主爽到了</title>
+      <link>https://www.qbitai.com/2026/02/378503.html</link>
+      <description>&lt;![CDATA[特斯拉腾讯首次合作，新老Model 3/Y车主爽到了]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 06:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378503.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RLinf-USER重磅发布！别再用仿真了，真实世界训练也能「极致效率与系统化」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11-5</link>
-      <description>&lt;![CDATA[RLinf-USER重磅发布！别再用仿真了，真实世界训练也能「极致效率与系统化」]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-5</guid>
+      <title>华为云大动作！马年春节前夕，码道开启万人公测</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-11-8</link>
+      <description>&lt;![CDATA[华为云大动作！马年春节前夕，码道开启万人公测]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-8</guid>
       <category>Ai</category>
     </item>
   </channel>

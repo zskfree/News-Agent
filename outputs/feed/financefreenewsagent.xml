@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Feb 2026 06:09:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 06:09:41 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 08:52:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Disclosure rules for ‘buy now, pay later’ lenders diluted by UK regulator</title>
-      <link>https://www.ft.com/content/877c52d9-e2f6-40cc-bf7a-e01818fafb62</link>
-      <description>&lt;![CDATA[Disclosure rules for ‘buy now, pay later’ lenders diluted by UK regulator]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/877c52d9-e2f6-40cc-bf7a-e01818fafb62</guid>
+      <title>Elliott Management builds stake in London Stock Exchange Group</title>
+      <link>https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364</link>
+      <description>&lt;![CDATA[Elliott Management builds stake in London Stock Exchange Group]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>25-year-old founder raises $220mn for secretive UK AI chip start-up</title>
-      <link>https://www.ft.com/content/cba54e86-2b2a-422c-861b-dc9280d6aa65</link>
-      <description>&lt;![CDATA[25-year-old founder raises $220mn for secretive UK AI chip start-up]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cba54e86-2b2a-422c-861b-dc9280d6aa65</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Crypto winter hits Robinhood’s sales and stock, but CEO sees prediction-market ‘super cycle’</title>
-      <link>https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Crypto winter hits Robinhood’s sales and stock, but CEO sees prediction-market ‘super cycle’]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 01:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>New CBI boss criticises UK government policy of taking stakes in businesses</title>
-      <link>https://www.ft.com/content/2e5e776b-0d15-41e3-9bfa-4752e4fae40c</link>
-      <description>&lt;![CDATA[New CBI boss criticises UK government policy of taking stakes in businesses]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2e5e776b-0d15-41e3-9bfa-4752e4fae40c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Turkey’s soap opera boom threatened by dramatic inflation</title>
-      <link>https://www.ft.com/content/d5aa6fc5-cecd-45cf-81fb-9b06e7994e25</link>
-      <description>&lt;![CDATA[Turkey’s soap opera boom threatened by dramatic inflation]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d5aa6fc5-cecd-45cf-81fb-9b06e7994e25</guid>
+      <title>Heineken to cut 6,000 jobs as beer demand declines</title>
+      <link>https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e</link>
+      <description>&lt;![CDATA[Heineken to cut 6,000 jobs as beer demand declines]]&gt;</description>
+      <pubDate>Wed, 11 Feb 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e</guid>
       <category>Finance</category>
     </item>
   </channel>

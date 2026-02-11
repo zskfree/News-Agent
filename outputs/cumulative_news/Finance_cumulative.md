@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 06:09
+**最后更新时间**: 2026-02-11 08:52
+
+---
+
+## 🆕 最新更新 (2026-02-11 08:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Elliott Management builds stake in London Stock Exchange Group](https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364)
+**发布时间**: 2026-02-11 08:33
+
+#### [Heineken to cut 6,000 jobs as beer demand declines](https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e)
+**发布时间**: 2026-02-11 08:02
+
+#### [Zelenskyy planning elections in Ukraine and vote on peace deal](https://www.ft.com/content/50d3d86b-2d2a-4d06-845e-a4e089382cad)
+**发布时间**: 2026-02-11 05:00
 
 ---
 
