@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Feb 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 23:35:34 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 06:05:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 06:06:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google AI负责人Hassabis披露AGI四步计划：模型大一统与世界模拟成核心</title>
-      <link>https://www.tmtpost.com/7876480.html</link>
-      <description>&lt;![CDATA[Google AI负责人Hassabis披露AGI四步计划：模型大一统与世界模拟成核心]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 19:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7876480.html</guid>
+      <title>3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点</title>
+      <link>https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>传字节今年要造10万颗推理芯片，1600 亿预算砸向AI！</title>
-      <link>https://www.infoq.cn/article/AradpbWZZoiWVmehvBLB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[传字节今年要造10万颗推理芯片，1600 亿预算砸向AI！]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AradpbWZZoiWVmehvBLB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略</title>
+      <link>https://www.tmtpost.com/7877259.html</link>
+      <description>&lt;![CDATA[马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7877259.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从多模态走向全模态！蚂蚁开源 Ming-Flash-Omni 2.0，对标Gemini 2.5 Pro</title>
-      <link>https://www.infoq.cn/article/d9TEFiU7kq8EKCIodTmI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从多模态走向全模态！蚂蚁开源 Ming-Flash-Omni 2.0，对标Gemini 2.5 Pro]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d9TEFiU7kq8EKCIodTmI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代</title>
+      <link>https://www.tmtpost.com/7877358.html</link>
+      <description>&lt;![CDATA[谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7877358.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌AI拒生迪士尼角色：版权博弈引发行业连锁反应</title>
-      <link>https://www.tmtpost.com/7876610.html</link>
-      <description>&lt;![CDATA[谷歌AI拒生迪士尼角色：版权博弈引发行业连锁反应]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7876610.html</guid>
+      <title>国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨</title>
+      <link>https://www.tmtpost.com/7877191.html</link>
+      <description>&lt;![CDATA[国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 07:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7877191.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】完善全国统一电力市场体系，国办最新部署；微信1月更新9项功能，删好友可保留聊天记录；谷歌天价收购加码云计算，欧盟批准其320亿美元收购Wiz</title>
-      <link>https://www.tmtpost.com/7876719.html</link>
-      <description>&lt;![CDATA[【钛晨报】完善全国统一电力市场体系，国办最新部署；微信1月更新9项功能，删好友可保留聊天记录；谷歌天价收购加码云计算，欧盟批准其320亿美元收购Wiz]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7876719.html</guid>
+      <title>宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

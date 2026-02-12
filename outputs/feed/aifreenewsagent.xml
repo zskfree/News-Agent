@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Feb 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 23:35:11 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 06:05:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 06:06:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告</title>
-      <link>https://www.qbitai.com/2026/02/378674.html</link>
-      <description>&lt;![CDATA[2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378674.html</guid>
+      <title>字节发布Seedance 2.0，豆包、即梦官宣接入</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12</link>
+      <description>&lt;![CDATA[字节发布Seedance 2.0，豆包、即梦官宣接入]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>9B端侧开源模型跑通百万上下文，面壁全新稀疏-线性混合注意力架构SALA立功了！</title>
-      <link>https://www.qbitai.com/2026/02/378512.html</link>
-      <description>&lt;![CDATA[9B端侧开源模型跑通百万上下文，面壁全新稀疏-线性混合注意力架构SALA立功了！]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 13:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378512.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克xAI再失联合创始人，12人创始团队已有6人离场</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11-10</link>
-      <description>&lt;![CDATA[马斯克xAI再失联合创始人，12人创始团队已有6人离场]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-10</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级</title>
-      <link>https://www.qbitai.com/2026/02/378796.html</link>
-      <description>&lt;![CDATA[神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378796.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>复刻、长语音、对话、指令、音效全覆盖！模思智能推出MOSS-TTS Family！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-11-9</link>
-      <description>&lt;![CDATA[复刻、长语音、对话、指令、音效全覆盖！模思智能推出MOSS-TTS Family！]]&gt;</description>
-      <pubDate>Wed, 11 Feb 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-11-9</guid>
+      <title>2026-02-12日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-12/</link>
+      <description>&lt;![CDATA[2026-02-12日刊]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-12/</guid>
       <category>Ai</category>
     </item>
   </channel>

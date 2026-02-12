@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2453081d46121a24fbc7e7863eaed39e13b735b8c3e9740fba1de5b4a220f820": {
-        "title": "刚刚，DeepSeek 突发梁文峰署名新论文：V4 新架构提前曝光？",
-        "link": "https://www.infoq.cn/article/Iz1JUWqd0FvejBXDKWk3?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-13T05:28:08.492424"
-      },
-      "f80ba2c8e27704540511a59618b9c327dc6505a30bf1bfc79cb352a8cbc44e94": {
-        "title": "马斯克按下倒计时：电力是AI时代唯一的“军备”",
-        "link": "https://www.tmtpost.com/7840498.html",
-        "published_date": "Tue, 13 Jan 2026 12:57:00 GMT",
-        "first_seen": "2026-01-13T05:28:08.492431"
-      },
-      "6991f8ac9506b4c52e3aed6b20bccc27c7cf7e2d08cf23e9954149b714509972": {
-        "title": "“套壳”谷歌Gemini ，但苹果还没死心自研模型",
-        "link": "https://www.tmtpost.com/7840495.html",
-        "published_date": "Tue, 13 Jan 2026 12:53:00 GMT",
-        "first_seen": "2026-01-13T05:28:08.492433"
-      },
-      "0b5399291dee5d4364a21e4044ca76a4890bce66c2d7595c0854c98d4d39184a": {
-        "title": "文库“换脸”，搜索“换命”，百度的AI重构",
-        "link": "https://www.tmtpost.com/7840422.html",
-        "published_date": "Tue, 13 Jan 2026 13:19:00 GMT",
-        "first_seen": "2026-01-13T05:28:08.492435"
-      },
-      "c83224fe13745ea266965871aa577571a0138ba31e7b8c326f54a9be9c6fd56e": {
-        "title": "Anthropic深夜放出王炸！白领饭碗要被AI砸了？网友：不支持Linux，差评",
-        "link": "https://www.infoq.cn/article/UN16P0pugHNutuMbgrNl?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Jan 2026 09:30:00 GMT",
-        "first_seen": "2026-01-13T05:28:08.492436"
-      },
       "0a37495d2a3c02c4c4d5dac235e7cdfecf830f9b873946aac348f956bfeb310c": {
         "title": "黄仁勋的Agentic AI，闯入全球市值最高药厂",
         "link": "https://www.tmtpost.com/7840454.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7876719.html",
         "published_date": "Thu, 12 Feb 2026 07:20:00 GMT",
         "first_seen": "2026-02-11T23:35:34.576472"
+      },
+      "f084ede2746eb389b29552b25c3f1a2964915f74aed0b4f215f231f5db014b77": {
+        "title": "3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点",
+        "link": "https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-12T06:06:17.075291"
+      },
+      "67200cb87ca01ad7ceca94f272a87a8cff06e167a00e0c8e46d587b591b3c2a4": {
+        "title": "马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略",
+        "link": "https://www.tmtpost.com/7877259.html",
+        "published_date": "Thu, 12 Feb 2026 08:40:00 GMT",
+        "first_seen": "2026-02-12T06:06:17.075297"
+      },
+      "e244e0c6a6aadc3b785117f87d223f504e146892bf40a7d9ac1d1ac102870239": {
+        "title": "谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代",
+        "link": "https://www.tmtpost.com/7877358.html",
+        "published_date": "Thu, 12 Feb 2026 09:58:00 GMT",
+        "first_seen": "2026-02-12T06:06:17.075299"
+      },
+      "2b547bd1bad2f0c32415e2d02bb0250a881061b863482f7d3aab38851d5b9ab7": {
+        "title": "国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨",
+        "link": "https://www.tmtpost.com/7877191.html",
+        "published_date": "Thu, 12 Feb 2026 07:48:00 GMT",
+        "first_seen": "2026-02-12T06:06:17.075301"
+      },
+      "c74c9f4a2caaea0091851c9d105ef535418e8d332d8eb57217f52c012b3f0413": {
+        "title": "宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 11:46:00 GMT",
+        "first_seen": "2026-02-12T06:06:17.075303"
       }
     },
     "Finance": {
-      "089167d5672ba25380a0d604d86fd6fc0655d3e282b2e029ce7303122cddb807": {
-        "title": "Top Republicans denounce justice department’s criminal probe into Fed chair",
-        "link": "https://www.ft.com/content/0af6d453-84dc-46bc-90b6-711242adde73",
-        "published_date": "Mon, 12 Jan 2026 23:33:00 GMT",
-        "first_seen": "2026-01-13T05:27:33.813561"
-      },
-      "77f3b276166fddbd3a498461b03ed0772db10cb8bfa77ac356815dac3148c97f": {
-        "title": "UBS boss Sergio Ermotti plans to step down in April 2027",
-        "link": "https://www.ft.com/content/0b6e4687-0804-448c-a7c4-155bc6005136",
-        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-13T05:27:33.813574"
-      },
-      "af6ef58a19defd00d420708b22a1e040e1724915af7c6c5f4e333f69b87b530a": {
-        "title": "Microsoft warns that China is winning AI race outside the west",
-        "link": "https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f",
-        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-13T05:27:33.813577"
-      },
-      "e15430b0c7a174b57748c7f92173601ed9377d5990f01e2ef2f211df23e4a998": {
-        "title": "UK retail spending rose at lowest pace for 7 months in December",
-        "link": "https://www.ft.com/content/345ed80b-5960-4d4e-83a8-4a5c7a4ecde4",
-        "published_date": "Tue, 13 Jan 2026 00:01:00 GMT",
-        "first_seen": "2026-01-13T05:27:33.813579"
-      },
-      "6c95021b30d6eb66008f5c596c7337df16c95e32b6b9ffe513d570c6f97084f2": {
-        "title": "California’s billionaire tax plan will backfire",
-        "link": "https://www.ft.com/content/122f71b9-bf0f-47c3-a46d-827740d4ce73",
-        "published_date": "Tue, 13 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-13T05:27:33.813581"
-      },
       "1ada9c8e353128a45acae2fd9f83065323d2e7a22fa320b848a12d961a4f7dc2": {
         "title": "Where one of Trump’s candidates to be Fed chair wants to take interest rates",
         "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
@@ -4647,39 +4617,39 @@
         "link": "https://www.ft.com/content/98e57c0e-3050-40d0-92c4-f245d0f29496",
         "published_date": "Wed, 11 Feb 2026 19:24:00 GMT",
         "first_seen": "2026-02-11T23:35:01.654398"
+      },
+      "d252b0dcb1b4eaf9c3907d3e9f5b7940663c5967a5e64a9fca3b0dac6dddcec2": {
+        "title": "How private equity’s big bet on software got derailed by AI",
+        "link": "https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95",
+        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.717963"
+      },
+      "1f9f7aef3f614626db0e9aaa25ebc8cc39035039600095bd867b1122b1ae8397": {
+        "title": "Four partners leave EY after independence rule breach on Shell audit",
+        "link": "https://www.ft.com/content/7a9d9465-81b2-4443-9311-38e52c021595",
+        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.717974"
+      },
+      "aa142807b2111aaf0e46029ac870593ae27aeaab46c1742695138e57cd2bcd83": {
+        "title": "Epstein trustee document contradicts Jes Staley testimony",
+        "link": "https://www.ft.com/content/f4597d4f-b297-4e6c-8b6c-dfba8b9ec06c",
+        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.717977"
+      },
+      "ff6f23c08ec3c25f3e667b2a8585d8faebee54f601e81f059fc88e7cf1521262": {
+        "title": "Trump prompts global surge in people viewing US as a threat",
+        "link": "https://www.ft.com/content/268b16d9-c920-4bd5-b2b8-9283dab0df8d",
+        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.717980"
+      },
+      "fbf43f5e25f27a347e284c7e00990bd9957d1abd31be402912c7101ff8d760b7": {
+        "title": "How China wants to create a ‘Polar Silk Road’ through the Arctic",
+        "link": "https://www.ft.com/content/9d726e1a-8b64-41e8-9e29-5bda58f05b3e",
+        "published_date": "Thu, 12 Feb 2026 03:13:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.717982"
       }
     },
     "Ai": {
-      "d878a23b5ec1070641b1d90f748dd797c760edc14405727894ddb427b0ee33bf": {
-        "title": "华为推出软工代码智能体SWE-Lego，解锁SFT训练极致性能",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-4",
-        "published_date": "Tue, 13 Jan 2026 12:30:00 GMT",
-        "first_seen": "2026-01-13T05:27:44.163108"
-      },
-      "e38e4642b035c5d23dce6fe03eef0ea0226313d9041cb7c1f34d3699ff2c93fc": {
-        "title": "美团龙猫LongCat技术升级！新注意力机制解码速度快10倍，还能处理1M超长文本",
-        "link": "https://www.qbitai.com/2026/01/369244.html",
-        "published_date": "Tue, 13 Jan 2026 04:30:00 GMT",
-        "first_seen": "2026-01-13T05:27:44.163115"
-      },
-      "f2a191691ef946b55cb4aa3bac536f3b9ab6dc1cf14238e79526a5a27d3e7b43": {
-        "title": "刚刚，梁文锋署名开源「记忆」模块，DeepSeek V4更细节了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-2",
-        "published_date": "Tue, 13 Jan 2026 10:18:00 GMT",
-        "first_seen": "2026-01-13T05:27:44.163118"
-      },
-      "849087779ee675ad0de3e215e1cb184eb5a08f9525489cbf8868bf4e72914a02": {
-        "title": "一个模型统一4D世界生成与重建，港科大One4D框架来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13",
-        "published_date": "Tue, 13 Jan 2026 10:10:00 GMT",
-        "first_seen": "2026-01-13T05:27:44.163120"
-      },
-      "c583b0509301c87bfce3b3c0f993f1590acfbfdb1f4fdcfdc62faf11033a64b8": {
-        "title": "不上云、不租卡，如何优雅地在本地微调Qwen-VL-30B？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-6",
-        "published_date": "Tue, 13 Jan 2026 12:39:00 GMT",
-        "first_seen": "2026-01-13T05:27:44.163121"
-      },
       "98b4bc8200250838bb57e6f510ad9651aa7920c9dfbc6a8f4e815ffa66252c99": {
         "title": "无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱",
         "link": "https://www.jiqizhixin.com/articles/2026-01-13-7",
@@ -6893,13 +6863,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-11-9",
         "published_date": "Wed, 11 Feb 2026 17:13:00 GMT",
         "first_seen": "2026-02-11T23:35:11.409028"
+      },
+      "8702ccd7754ea5e369468d03ee4ded59d00a667e584c502c60c1c7e6e1c8d044": {
+        "title": "字节发布Seedance 2.0，豆包、即梦官宣接入",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12",
+        "published_date": "Thu, 12 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.855685"
+      },
+      "022c65ad24e583bda94c8994f041029c3e31d45117c505936e38041828a86a24": {
+        "title": "2026-02-12日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-12/",
+        "published_date": "Thu, 12 Feb 2026 07:26:00 GMT",
+        "first_seen": "2026-02-12T06:06:01.855692"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-11T23:35:34.576474",
-    "Finance": "2026-02-11T23:35:01.654400",
-    "Ai": "2026-02-11T23:35:11.409030"
+    "Technology": "2026-02-12T06:06:17.075305",
+    "Finance": "2026-02-12T06:06:01.717984",
+    "Ai": "2026-02-12T06:06:01.855695"
   }
 }

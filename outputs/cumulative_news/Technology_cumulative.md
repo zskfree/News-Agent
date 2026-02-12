@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 23:34
+**最后更新时间**: 2026-02-12 06:05
+
+---
+
+## 🆕 最新更新 (2026-02-12 06:05)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄牛代抢生意，“推高”茅台价格？](https://www.tmtpost.com/7877464.html)
+**发布时间**: 2026-02-12 13:38
+
+#### [从“就业”走向“乐业”系列报告之二：“乐业社会”生活场景解构与产业机会](https://www.tmtpost.com/7877419.html)
+**发布时间**: 2026-02-12 13:38
+
+#### [“国内封测老三”拟溢价166%收购关联资产：标的曾IPO折戟，能破经营性盈利困局？｜并购一线](https://www.tmtpost.com/7877601.html)
+**发布时间**: 2026-02-12 12:25
+
+#### [鸡蛋刺客？富硒、无抗……多几个字就贵几倍](https://www.tmtpost.com/7877379.html)
+**发布时间**: 2026-02-12 11:35
+
+#### [大疆的敌人，为什么忽然变多了？](https://www.tmtpost.com/7876991.html)
+**发布时间**: 2026-02-12 11:09
+
+#### [一个老人眼中的AI幻象](https://www.tmtpost.com/7876943.html)
+**发布时间**: 2026-02-12 10:40
+
+#### [MSCI Adds 37 Stocks to MSCI China Index in Quarterly Index Rebalancing](https://www.tmtpost.com/7877466.html)
+**发布时间**: 2026-02-12 10:38
+
+#### [库迪取消9.9元，本土咖啡告别内卷时代](https://www.tmtpost.com/7876939.html)
+**发布时间**: 2026-02-12 10:17
+
+#### [好莱坞的诅咒与Netflix的十年征服史，深扒华纳兄弟收购案始末](https://www.tmtpost.com/7876577.html)
+**发布时间**: 2026-02-12 10:00
+
+#### [谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代](https://www.tmtpost.com/7877358.html)
+**发布时间**: 2026-02-12 09:58
+
+#### [天价中药退潮，抗衰滋补接棒](https://www.tmtpost.com/7877287.html)
+**发布时间**: 2026-02-12 09:40
+
+#### [大麦“翻红”的一年，想把自己打造成「线下版抖音」](https://www.tmtpost.com/7876585.html)
+**发布时间**: 2026-02-12 09:20
+
+#### [当春节档遇上AI，2026年影视行业能否再创爆款？](https://www.tmtpost.com/7876683.html)
+**发布时间**: 2026-02-12 09:00
+
+#### [马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略](https://www.tmtpost.com/7877259.html)
+**发布时间**: 2026-02-12 08:40
+
+#### [瑞幸的“假”字乌龙，让大伙发现自己比AI还文盲](https://www.tmtpost.com/7876714.html)
+**发布时间**: 2026-02-12 08:30
+
+#### [国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨](https://www.tmtpost.com/7877191.html)
+**发布时间**: 2026-02-12 07:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“每给 Claude Code 提一个请求，我就点上一根烟，放松下”](https://www.infoq.cn/article/PpYEQfkrB25gN5rpPuKr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 12:00
+
+#### [宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践](https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 11:46
+
+#### [谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能](https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 10:17
+
+#### [LinkedIn利用GitHub Actions、CodeQL和Semgrep进行代码扫描](https://www.infoq.cn/article/8YqVuKOhz6RzKmmxEFje?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 10:15
+
+#### [在遗留规则误拦合法流量后，GitHub重构了分层防御体系](https://www.infoq.cn/article/fpVPsSlLV5XCmB9Hl7ag?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 10:12
+
+#### [从告警疲劳到代理辅助的智能可观测性](https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 10:09
+
+#### [如何使用Durable Objects处理响应和进行中的请求](https://www.infoq.cn/article/espgcPmH8wYJiLBkvI41?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 10:07
+
+#### [3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点](https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [普通人更要多动手：聊聊我把 Claude Code 变成个人助手后的那些事](https://sspai.com/post/105331)
+**发布时间**: 2026-02-12 11:31
+
+#### [派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等](https://sspai.com/post/106310)
+**发布时间**: 2026-02-12 08:32
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [盘点十个最可能被Seedance 2.0颠覆的行业](http://www.huxiu.com/article/4834237.html?f=wangzhan)
+**发布时间**: 2026-02-12 07:00
 
 ---
 
