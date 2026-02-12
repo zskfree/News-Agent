@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8460278c1726854d9efce648ea73fa2c0fe10f9c3026d9b3430f06899e25a63c": {
-        "title": "对话王小川：“语言才是中轴，多模态不是主战场”",
-        "link": "https://www.tmtpost.com/7841537.html",
-        "published_date": "Tue, 13 Jan 2026 22:32:00 GMT",
-        "first_seen": "2026-01-13T23:23:18.964925"
-      },
-      "9ac76385272ffd8599b309c547d49f632737ad08977db744cdf69e3098105c27": {
-        "title": "豪赌AI医疗，全球第一药企与全球第一科技巨头达成合作",
-        "link": "https://www.tmtpost.com/7841324.html",
-        "published_date": "Tue, 13 Jan 2026 19:09:00 GMT",
-        "first_seen": "2026-01-13T23:23:18.964931"
-      },
-      "b7de9ac48ba9c53f928ae7d9979d20ab32897d1f766171f7bd50af3eca9bdb85": {
-        "title": "封测厂商，报价大涨30%",
-        "link": "https://www.tmtpost.com/7841335.html",
-        "published_date": "Tue, 13 Jan 2026 19:08:00 GMT",
-        "first_seen": "2026-01-13T23:23:18.964934"
-      },
-      "f9d9250ca7626308df757623ebbfa2087929d1b32d86860a51346f7b91b7cde1": {
-        "title": "2026年，安全正在成为AI选型的“新标配”",
-        "link": "https://www.tmtpost.com/7841200.html",
-        "published_date": "Tue, 13 Jan 2026 18:25:00 GMT",
-        "first_seen": "2026-01-13T23:23:18.964935"
-      },
-      "26744b3126951ed3ce0ed4701a7bfea5b46d82267dd0e2e23b78b2e88e3028c2": {
-        "title": "蛰伏四年首笔投资，字节终于落子机器人这盘棋",
-        "link": "https://www.tmtpost.com/7840963.html",
-        "published_date": "Tue, 13 Jan 2026 17:04:00 GMT",
-        "first_seen": "2026-01-13T23:23:18.964937"
-      },
       "ec9657a9ede5817101292c5134be84bb79376c1b067383173eed932439a6b595": {
         "title": "暴涨只是序章：智谱、MiniMax点燃的，是国产AI的DeepSeek时刻",
         "link": "https://www.tmtpost.com/7842131.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 12 Feb 2026 10:09:00 GMT",
         "first_seen": "2026-02-12T08:52:15.359807"
+      },
+      "6cdefc2a658decd31c0c64f438a0edf183af1637a3418a7570113ae7e7639567": {
+        "title": "“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制",
+        "link": "https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 17:51:00 GMT",
+        "first_seen": "2026-02-12T23:31:42.797004"
+      },
+      "e496a5ce23f4ba334b9586c460e48f9f9e800cfedef5b9e8df736b200f11e82b": {
+        "title": "【钛晨报】推动低空保险高质量发展，国家发改委等三部门发声；国家电影局、商务部组织开展“电影+”消费综合试点；智谱GLM-5深度适配华为昇腾、摩尔线程、寒武纪等七大国产芯片",
+        "link": "https://www.tmtpost.com/7878401.html",
+        "published_date": "Fri, 13 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-12T23:31:42.797016"
+      },
+      "01727d6983c8c5c09fc2bcb191e606217be611c5f0275e09ea06147943a1b1a7": {
+        "title": "出货量超寒武纪，阿里系芯片公司揭开神秘面纱",
+        "link": "https://www.tmtpost.com/7878108.html",
+        "published_date": "Thu, 12 Feb 2026 18:49:00 GMT",
+        "first_seen": "2026-02-12T23:31:42.797019"
+      },
+      "db9e61cbe5d5f035b08685d3a1ed60a8d1eaa30e34430dacea0059e56cd57d55": {
+        "title": "RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的",
+        "link": "https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-12T23:31:42.797021"
+      },
+      "6d858454071b62dbaaa272645685cdcbc4d850eeb5718db74aefbea7d71bb3ae": {
+        "title": "“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞",
+        "link": "https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 18:15:00 GMT",
+        "first_seen": "2026-02-12T23:31:42.797023"
       }
     },
     "Finance": {
-      "09a28d755a35ec9b7ca2ef0dea2412aca88be0b030f5682b975f09767de3441a": {
-        "title": "The Fed’s failures set the stage for the Trump-Powell turmoil. Here’s one solution.",
-        "link": "https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 21:58:00 GMT",
-        "first_seen": "2026-01-13T23:22:44.375744"
-      },
-      "5ab3d6ace7f8634fe9a99b79a40aad6595e2755cc7e9be657f2d3c17ea9d395c": {
-        "title": "Dimon warns Trump administration’s attacks on Fed could boost inflation",
-        "link": "https://www.ft.com/content/ad823724-822f-4e8c-91fd-01c4e6ca7581",
-        "published_date": "Tue, 13 Jan 2026 22:41:00 GMT",
-        "first_seen": "2026-01-13T23:22:44.375752"
-      },
-      "ea05073ef1a8b130a9b030a6bb73c7c96cff1aed4d8dca31c704a1468f592d04": {
-        "title": "From coffee to electricity, latest CPI report shows where inflation is hitting the middle class the most",
-        "link": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 23:18:00 GMT",
-        "first_seen": "2026-01-13T23:22:44.375756"
-      },
-      "bb802ddf1a08f89231023afe5f160557d07b1bc4b4083dd4649b02981b5388b7": {
-        "title": "The stock market’s ‘sugar high’ is starting to fade. Why investors could see a slow grind higher from here.",
-        "link": "https://www.marketwatch.com/story/the-stock-markets-sugar-high-is-starting-to-fade-why-investors-could-see-a-slow-grind-higher-from-here-babfc923?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 22:00:00 GMT",
-        "first_seen": "2026-01-13T23:22:44.375757"
-      },
-      "bcfe2f817afe2f813fde976596ef93c28286956e8d517938344a395b1bf1943e": {
-        "title": "Why Visa and Mastercard are seeing their sharpest stock drops in half a year",
-        "link": "https://www.marketwatch.com/story/why-visa-and-mastercard-are-seeing-their-sharpest-stock-drops-in-half-a-year-69fc0c5b?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 22:10:00 GMT",
-        "first_seen": "2026-01-13T23:22:44.375759"
-      },
       "ceeb43efe7c4a09761c4598a340626aa427380827671f3383b54b02da12dc9c8": {
         "title": "Looking for a house under $300,000? Here’s why newly built homes may offer the best deals.",
         "link": "https://www.marketwatch.com/story/looking-for-a-house-under-300-000-heres-why-newly-built-homes-may-offer-the-best-deals-d622b6c5?mod=mw_rss_topstories",
@@ -4653,39 +4623,39 @@
         "link": "https://www.ft.com/content/8d77df48-ae4f-4c14-be04-13406221db48",
         "published_date": "Thu, 12 Feb 2026 07:25:00 GMT",
         "first_seen": "2026-02-12T08:51:33.555022"
+      },
+      "54ae2bcfddc0e02d377bffa8813016cd84003fbfa4ed88e6b8915cdc9ff76f22": {
+        "title": "Why the AI attack on software has unnerved so many industries",
+        "link": "https://www.ft.com/content/39c5a2d4-01d0-46ce-8943-0591ff9ee77e",
+        "published_date": "Thu, 12 Feb 2026 18:15:00 GMT",
+        "first_seen": "2026-02-12T23:32:00.591366"
+      },
+      "fc4d2518aa3ab3db11fa2d47f0c16cdd3c745787656dc961872bf5ec57d311f0": {
+        "title": "Anthropic raises $30bn at a $350bn valuation in latest funding round",
+        "link": "https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283",
+        "published_date": "Thu, 12 Feb 2026 19:00:00 GMT",
+        "first_seen": "2026-02-12T23:32:00.591373"
+      },
+      "07887ff83413004361c6543b52f28c8e05ae170c2e1c529fce813b47bc63de64": {
+        "title": "Long-term Treasury bonds rally as investors dump stocks in broad-based selloff",
+        "link": "https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Feb 2026 22:42:00 GMT",
+        "first_seen": "2026-02-12T23:32:00.591375"
+      },
+      "1a92e908a26927b1ef353456bb17b80d2c2fb51691319c2b8fd0ce73ed652141": {
+        "title": "Coinbase swings to surprise loss amid flight from crypto, but talks up prediction markets",
+        "link": "https://www.marketwatch.com/story/coinbase-swings-to-a-surprise-loss-amid-flight-from-crypto-b5706ddb?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Feb 2026 22:16:00 GMT",
+        "first_seen": "2026-02-12T23:32:00.591377"
+      },
+      "65b06b4699de0a98b41b6ce3269bf878a8123dae133ad0f296f8a524299bcbc9": {
+        "title": "Apple sees $200 billion market-cap wipeout as stock slides on AI fears",
+        "link": "https://www.marketwatch.com/story/apple-sees-200-billion-market-cap-wipeout-as-stock-slides-on-ai-fears-88917cc0?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Feb 2026 22:16:00 GMT",
+        "first_seen": "2026-02-12T23:32:00.591378"
       }
     },
     "Ai": {
-      "564b0d27366b22268b424057db55f0ca1159a2ec1e95e2fa5d79e35f6dda1c5d": {
-        "title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
-        "link": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
-        "published_date": "Tue, 13 Jan 2026 20:57:00 GMT",
-        "first_seen": "2026-01-13T23:22:53.445674"
-      },
-      "43c91b19b8712ab7be433a058568c5dba077bb9c8353f0d35af1e790eea187b7": {
-        "title": "视觉模型既懂语义，又能还原细节，南洋理工&商汤提出棱镜假说",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-8",
-        "published_date": "Tue, 13 Jan 2026 18:12:00 GMT",
-        "first_seen": "2026-01-13T23:22:53.445681"
-      },
-      "808cea9c1399e22b5f79b2a5018abe26021843f21e57a355da4468bd5194f728": {
-        "title": "Dynamic surface codes open new avenues for quantum error correction",
-        "link": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/",
-        "published_date": "Tue, 13 Jan 2026 17:32:00 GMT",
-        "first_seen": "2026-01-13T23:22:53.445683"
-      },
-      "c0d4b91022ada96b0724d84f86bf036a5257fa90d8153f0123740523ccb28f18": {
-        "title": "王小川：30亿现金在手，明年IPO，toC产品马上就发",
-        "link": "https://www.qbitai.com/2026/01/369332.html",
-        "published_date": "Tue, 13 Jan 2026 11:49:00 GMT",
-        "first_seen": "2026-01-13T23:22:53.445685"
-      },
-      "261176489752841fc066f0f219ba411aea7d2507d27910e02cb7ca60565db962": {
-        "title": "Hard-braking events as indicators of road segment crash risk",
-        "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-        "published_date": "Tue, 13 Jan 2026 22:44:00 GMT",
-        "first_seen": "2026-01-13T23:22:53.445686"
-      },
       "874067dfdfce570a56dc8a13e2c7753cdcc797ce6c1cd5ef89e77bd695238a34": {
         "title": "跳出「黑盒」，人大刘勇团队最新大语言模型理论与机理综述",
         "link": "https://www.jiqizhixin.com/articles/2026-01-14-2",
@@ -6887,13 +6857,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-12-3",
         "published_date": "Thu, 12 Feb 2026 14:12:00 GMT",
         "first_seen": "2026-02-12T08:51:50.659211"
+      },
+      "0c0e80702372ddb4be7306cc861e9e5217aec33512447a8b52801d4601a2795b": {
+        "title": "走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-4",
+        "published_date": "Thu, 12 Feb 2026 14:46:00 GMT",
+        "first_seen": "2026-02-12T23:32:21.144437"
+      },
+      "370263c50260f8fe066e8da7a87e3f496ddb51188d979a7b9118dcf4515db2f5": {
+        "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-11",
+        "published_date": "Thu, 12 Feb 2026 20:28:00 GMT",
+        "first_seen": "2026-02-12T23:32:21.144444"
+      },
+      "bbd80c493105e2e72555a00a59e98527e938f4c1bc7da1f5aafd89a234af03b5": {
+        "title": "小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源",
+        "link": "https://www.qbitai.com/2026/02/379326.html",
+        "published_date": "Thu, 12 Feb 2026 12:51:00 GMT",
+        "first_seen": "2026-02-12T23:32:21.144446"
+      },
+      "d9e564a1b42621273eb7f0f9232390e8ba979f3d9fa764e4b55ffdfb26003262": {
+        "title": "华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token",
+        "link": "https://www.qbitai.com/2026/02/379256.html",
+        "published_date": "Thu, 12 Feb 2026 11:24:00 GMT",
+        "first_seen": "2026-02-12T23:32:21.144447"
+      },
+      "5f9dc30b1e3c5a8ec1f42ebc9ae7be4b96e243425d9ec5eb264489ab6359eca2": {
+        "title": "Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-10",
+        "published_date": "Thu, 12 Feb 2026 20:15:00 GMT",
+        "first_seen": "2026-02-12T23:32:21.144449"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-12T08:52:15.359808",
-    "Finance": "2026-02-12T08:51:33.555024",
-    "Ai": "2026-02-12T08:51:50.659214"
+    "Technology": "2026-02-12T23:31:42.797025",
+    "Finance": "2026-02-12T23:32:00.591381",
+    "Ai": "2026-02-12T23:32:21.144450"
   }
 }

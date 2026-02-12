@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-12 08:51
+**最后更新时间**: 2026-02-12 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-12 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s stock just entered a bear market. This ‘Magnificent Seven’ name could be next.](https://www.marketwatch.com/story/amazons-stock-just-entered-a-bear-market-this-magnificent-seven-name-could-be-next-ec2d789d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:50
+
+#### [Dow ends below 50,000 threshold for first time since Friday as AI fears spark wider stock selloff](https://www.marketwatch.com/story/dow-ends-below-50-000-threshold-for-first-time-since-friday-as-ai-fears-spark-wider-stock-selloff-f6ee91e1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:48
+
+#### [Long-term Treasury bonds rally as investors dump stocks in broad-based selloff](https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:42
+
+#### [‘We have no prenup’: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?](https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:39
+
+#### [These are high-probability options trades for next week’s busy earnings crush](https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:38
+
+#### [Big Warner Bros. shareholders are losing patience with the Paramount-Netflix bidding war](https://www.marketwatch.com/story/big-warner-bros-shareholders-are-getting-restless-in-this-paramount-netflix-bidding-war-3491dab8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:28
+
+#### [Rivian’s stock jumps as investors cheer big growth potential this year](https://www.marketwatch.com/story/rivians-stock-jumps-as-investors-cheer-big-growth-potential-this-year-87cac253?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:24
+
+#### [Apple sees $200 billion market-cap wipeout as stock slides on AI fears](https://www.marketwatch.com/story/apple-sees-200-billion-market-cap-wipeout-as-stock-slides-on-ai-fears-88917cc0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:16
+
+#### [Coinbase swings to surprise loss amid flight from crypto, but talks up prediction markets](https://www.marketwatch.com/story/coinbase-swings-to-a-surprise-loss-amid-flight-from-crypto-b5706ddb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:16
+
+#### [This trucking company is AI’s latest casualty, as its stock suffers worst day in more than 6 years](https://www.marketwatch.com/story/this-trucking-company-is-ais-latest-casualty-as-the-stock-heads-for-a-record-selloff-88f51005?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 22:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US stocks fall sharply as tech sell-off resumes](https://www.ft.com/content/513ddbc1-0b68-4200-bb2e-ce920fa601aa)
+**发布时间**: 2026-02-12 21:08
+
+#### [CIA releases new video in attempt to lure Chinese military officers to spy for US](https://www.ft.com/content/d30d656e-2975-4940-8708-da4dc43cd896)
+**发布时间**: 2026-02-12 20:37
+
+#### [Anthropic raises $30bn at a $350bn valuation in latest funding round](https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283)
+**发布时间**: 2026-02-12 19:00
+
+#### [Starmer urged to go slow on replacing ousted head of civil service](https://www.ft.com/content/43e9c706-51e9-42d4-ad84-f7a6054d126a)
+**发布时间**: 2026-02-12 18:24
+
+#### [Why the AI attack on software has unnerved so many industries](https://www.ft.com/content/39c5a2d4-01d0-46ce-8943-0591ff9ee77e)
+**发布时间**: 2026-02-12 18:15
+
+#### [Trump’s top antitrust enforcer Gail Slater pushed out as turf war deepens](https://www.ft.com/content/19f800f5-8b21-489c-8ba2-9ebb628fc38b)
+**发布时间**: 2026-02-12 17:42
+
+#### [The Little England mindset of the prime minister’s critics](https://www.ft.com/content/e6f7840e-17a7-4fbe-bef0-83e9ef7ea142)
+**发布时间**: 2026-02-12 16:54
+
+#### [‘Seismic’ battle for Manchester seat looks set to determine Starmer’s fate](https://www.ft.com/content/8e345def-8a06-4932-97fd-a91a75a533cb)
+**发布时间**: 2026-02-12 15:23
+
+#### [The Labour Party has become devoid of purpose](https://www.ft.com/content/1f5ce448-e46a-48f9-91d5-e63d87e63a09)
+**发布时间**: 2026-02-12 10:00
+
+#### [The real Greenspan lesson for Warsh on inflation](https://www.ft.com/content/70dc5068-1718-474d-a225-e1ab6df3b40b)
+**发布时间**: 2026-02-12 05:00
 
 ---
 

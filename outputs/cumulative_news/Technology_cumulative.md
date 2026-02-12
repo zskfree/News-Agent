@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-12 08:51
+**最后更新时间**: 2026-02-12 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-12 23:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】推动低空保险高质量发展，国家发改委等三部门发声；国家电影局、商务部组织开展“电影+”消费综合试点；智谱GLM-5深度适配华为昇腾、摩尔线程、寒武纪等七大国产芯片](https://www.tmtpost.com/7878401.html)
+**发布时间**: 2026-02-13 07:20
+
+#### [AI“血洗”财富管理，恐慌大可不必](https://www.tmtpost.com/7878494.html)
+**发布时间**: 2026-02-12 23:33
+
+#### [于东来的两次告别背后，企业创始人为何总是“退而不休”](https://www.tmtpost.com/7878013.html)
+**发布时间**: 2026-02-12 19:42
+
+#### [跟Claude掰腕子，智谱MiniMax双模齐发](https://www.tmtpost.com/7878216.html)
+**发布时间**: 2026-02-12 19:29
+
+#### [千问日活逼近，豆包为什么还敢把红包留到春晚？](https://www.tmtpost.com/7878211.html)
+**发布时间**: 2026-02-12 19:29
+
+#### [AI、算法与人性：短剧下半场的博弈与突围](https://www.tmtpost.com/7878239.html)
+**发布时间**: 2026-02-12 19:29
+
+#### [恒生科技投资者，错失AI大时代浪潮](https://www.tmtpost.com/7878096.html)
+**发布时间**: 2026-02-12 19:29
+
+#### [爆款之外，短剧春节档比什么？](https://www.tmtpost.com/7877970.html)
+**发布时间**: 2026-02-12 19:29
+
+#### [李佳琦跟79元眉笔和解，但花西子们快被挤下桌了](https://www.tmtpost.com/7878075.html)
+**发布时间**: 2026-02-12 18:50
+
+#### [汽车深陷“黑公关”泥潭：谁在制造有利可图的温床](https://www.tmtpost.com/7878208.html)
+**发布时间**: 2026-02-12 18:50
+
+#### [红包大战的局外人，网易在AI时代掉队了吗？](https://www.tmtpost.com/7877994.html)
+**发布时间**: 2026-02-12 18:50
+
+#### [出货量超寒武纪，阿里系芯片公司揭开神秘面纱](https://www.tmtpost.com/7878108.html)
+**发布时间**: 2026-02-12 18:49
+
+#### [溢价269%收购实控人旗下资产，东望时代的转型赌注与隐忧 | 并购一线](https://www.tmtpost.com/7878195.html)
+**发布时间**: 2026-02-12 18:33
+
+#### [低空经济的悖论：算力越强，普通人越难起飞](https://www.tmtpost.com/7877966.html)
+**发布时间**: 2026-02-12 18:24
+
+#### [迈进2026，短剧制作公司应该如何完成产业转型与升级？](https://www.tmtpost.com/7877793.html)
+**发布时间**: 2026-02-12 17:47
+
+#### [农药板块，要翻身了？](https://www.tmtpost.com/7877366.html)
+**发布时间**: 2026-02-12 17:15
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [印奇捞到了“搞钱人”](http://www.huxiu.com/article/4834817.html?f=wangzhan)
+**发布时间**: 2026-02-12 22:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2025年的Web开发：AI的React偏见 vs 原生Web](https://www.infoq.cn/article/SIQ9aJiSeqplKcOeAAmM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 18:21
+
+#### [“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞](https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 18:15
+
+#### [RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的](https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 18:00
+
+#### [“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制](https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-12 17:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [春节长途旅行，这 6 款耐玩小游戏先备好](https://sspai.com/post/106284)
+**发布时间**: 2026-02-12 17:30
 
 ---
 

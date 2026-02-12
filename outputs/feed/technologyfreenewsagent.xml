@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 08:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 08:52:15 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:31:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等</title>
-      <link>https://www.tmtpost.com/7877920.html</link>
-      <description>&lt;![CDATA[OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7877920.html</guid>
+      <title>“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制</title>
+      <link>https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能</title>
-      <link>https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】推动低空保险高质量发展，国家发改委等三部门发声；国家电影局、商务部组织开展“电影+”消费综合试点；智谱GLM-5深度适配华为昇腾、摩尔线程、寒武纪等七大国产芯片</title>
+      <link>https://www.tmtpost.com/7878401.html</link>
+      <description>&lt;![CDATA[【钛晨报】推动低空保险高质量发展，国家发改委等三部门发声；国家电影局、商务部组织开展“电影+”消费综合试点；智谱GLM-5深度适配华为昇腾、摩尔线程、寒武纪等七大国产芯片]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7878401.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc</link>
-      <description>&lt;![CDATA[GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc</guid>
+      <title>出货量超寒武纪，阿里系芯片公司揭开神秘面纱</title>
+      <link>https://www.tmtpost.com/7878108.html</link>
+      <description>&lt;![CDATA[出货量超寒武纪，阿里系芯片公司揭开神秘面纱]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7878108.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？</title>
-      <link>https://www.tmtpost.com/7877364.html</link>
-      <description>&lt;![CDATA[Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7877364.html</guid>
+      <title>RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的</title>
+      <link>https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从告警疲劳到代理辅助的智能可观测性</title>
-      <link>https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从告警疲劳到代理辅助的智能可观测性]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞</title>
+      <link>https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

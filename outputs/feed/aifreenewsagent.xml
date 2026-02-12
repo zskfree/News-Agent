@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 08:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 08:51:50 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:32:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-7</link>
-      <description>&lt;![CDATA[ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-7</guid>
+      <title>走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-4</link>
+      <description>&lt;![CDATA[走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，MOSS孙天祥创业，直播AI4AI大规模科研</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-6</link>
-      <description>&lt;![CDATA[刚刚，MOSS孙天祥创业，直播AI4AI大规模科研]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-6</guid>
+      <title>具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-11</link>
+      <description>&lt;![CDATA[具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”</title>
-      <link>https://www.qbitai.com/2026/02/378843.html</link>
-      <description>&lt;![CDATA[高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378843.html</guid>
+      <title>小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源</title>
+      <link>https://www.qbitai.com/2026/02/379326.html</link>
+      <description>&lt;![CDATA[小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379326.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>速度提升，能力却暴跌？扩散模型做智能体的残酷真相</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-5</link>
-      <description>&lt;![CDATA[速度提升，能力却暴跌？扩散模型做智能体的残酷真相]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-5</guid>
+      <title>华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token</title>
+      <link>https://www.qbitai.com/2026/02/379256.html</link>
+      <description>&lt;![CDATA[华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379256.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-3</link>
-      <description>&lt;![CDATA[当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-3</guid>
+      <title>Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-10</link>
+      <description>&lt;![CDATA[Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-10</guid>
       <category>Ai</category>
     </item>
   </channel>
