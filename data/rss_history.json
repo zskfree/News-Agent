@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0a37495d2a3c02c4c4d5dac235e7cdfecf830f9b873946aac348f956bfeb310c": {
-        "title": "黄仁勋的Agentic AI，闯入全球市值最高药厂",
-        "link": "https://www.tmtpost.com/7840454.html",
-        "published_date": "Tue, 13 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-13T08:34:29.878258"
-      },
-      "91a9fcbfcf3174cf724a3b6fd59108c5c215139e2f1782d8ea4daff899c58041": {
-        "title": "Matrix Robotics Unveils MATRIX-3, Next-Generation Humanoid Robot with Advanced Physical AI",
-        "link": "https://www.tmtpost.com/7840778.html",
-        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
-        "first_seen": "2026-01-13T08:34:29.878265"
-      },
-      "e50febbe46e8dd748336c0d243d10d903b8e2a1d210f98f12cc929250c6a957f": {
-        "title": "吴恩达最新研判：算力封锁？中国模型抢占17%份额，开源AI完成“反向突围”？",
-        "link": "https://www.tmtpost.com/7840637.html",
-        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
-        "first_seen": "2026-01-13T08:34:29.878267"
-      },
-      "4d64872e5da247a7f188e90edca0a1a481d8b89ff68a94a2718f8abfe0d3fbfa": {
-        "title": "苹果与谷歌驶入AI深水区",
-        "link": "https://www.tmtpost.com/7840674.html",
-        "published_date": "Tue, 13 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-13T08:34:29.878269"
-      },
-      "34dfbc62facc6e2657d49b5f36a1eb26709aa7ba58ce1b377a1487d0316b88cb": {
-        "title": "活久见！连Linux之父等“顽固派”大佬，都在用AI编程了",
-        "link": "https://www.infoq.cn/article/HXqI9KgBQDfh6QjG3E4j?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Jan 2026 09:16:00 GMT",
-        "first_seen": "2026-01-13T08:34:29.878271"
-      },
       "8460278c1726854d9efce648ea73fa2c0fe10f9c3026d9b3430f06899e25a63c": {
         "title": "对话王小川：“语言才是中轴，多模态不是主战场”",
         "link": "https://www.tmtpost.com/7841537.html",
@@ -2695,33 +2665,39 @@
         "link": "https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 12 Feb 2026 11:46:00 GMT",
         "first_seen": "2026-02-12T06:06:17.075303"
+      },
+      "57766618922d7cf95e7b562d54acbbd0962bcf63243d805c84138f6047878bf2": {
+        "title": "OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等",
+        "link": "https://www.tmtpost.com/7877920.html",
+        "published_date": "Thu, 12 Feb 2026 15:56:00 GMT",
+        "first_seen": "2026-02-12T08:52:15.359794"
+      },
+      "380d37ef03da842f7ea41631c1b38235a2997fdaf89cd4994f0c22dd6bf4ac83": {
+        "title": "谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能",
+        "link": "https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 10:17:00 GMT",
+        "first_seen": "2026-02-12T08:52:15.359801"
+      },
+      "70960045f08eed1117249213929e7dc3df3be8afbdb78e480be3b4bdec4c961b": {
+        "title": "GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531253&idx=1&sn=80ea73ef5bf292b8a671c73f75cc33fc",
+        "published_date": "Thu, 12 Feb 2026 15:03:00 GMT",
+        "first_seen": "2026-02-12T08:52:15.359803"
+      },
+      "fc5159484c7d533df950c919c7f157b477958748d81655f20e38a8e6a93aeeb0": {
+        "title": "Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？",
+        "link": "https://www.tmtpost.com/7877364.html",
+        "published_date": "Thu, 12 Feb 2026 14:14:00 GMT",
+        "first_seen": "2026-02-12T08:52:15.359805"
+      },
+      "bf7dc27892af57d63227c885022543c100b74b6ec44dcea76d8edca9eaa785e5": {
+        "title": "从告警疲劳到代理辅助的智能可观测性",
+        "link": "https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Feb 2026 10:09:00 GMT",
+        "first_seen": "2026-02-12T08:52:15.359807"
       }
     },
     "Finance": {
-      "1ada9c8e353128a45acae2fd9f83065323d2e7a22fa320b848a12d961a4f7dc2": {
-        "title": "Where one of Trump’s candidates to be Fed chair wants to take interest rates",
-        "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 08:19:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.539963"
-      },
-      "b30195d709c6a2a2e9d5a2aebe07e1ef781319e2d32bacf509d7ddda2533dd41": {
-        "title": "This contrarian strategist says Trump is predictable and the Fed was never independent as he makes these bold calls",
-        "link": "https://www.marketwatch.com/story/this-contrarian-strategist-says-trump-is-predictable-and-the-fed-was-never-independent-as-he-makes-these-bold-calls-858b54f9?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Jan 2026 08:07:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.539974"
-      },
-      "53aa642f90e741607f8453c113db531981b202b1348d2c1b11068862af4776d1": {
-        "title": "Yen tumbles and Japan stocks soar as election talk reignites ‘Takaichi trade’",
-        "link": "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2",
-        "published_date": "Tue, 13 Jan 2026 07:34:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.539977"
-      },
-      "385952c76465d0bf702d42c966836793f0b25205e8e37c06713207c3bdc1dbf3": {
-        "title": "Wellcome Trust builds cash pile as it warns on record high equity markets",
-        "link": "https://www.ft.com/content/1bc7d391-56c1-40f1-8db2-c2895ef67fe1",
-        "published_date": "Tue, 13 Jan 2026 07:00:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.539979"
-      },
       "09a28d755a35ec9b7ca2ef0dea2412aca88be0b030f5682b975f09767de3441a": {
         "title": "The Fed’s failures set the stage for the Trump-Powell turmoil. Here’s one solution.",
         "link": "https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories",
@@ -4647,33 +4623,39 @@
         "link": "https://www.ft.com/content/9d726e1a-8b64-41e8-9e29-5bda58f05b3e",
         "published_date": "Thu, 12 Feb 2026 03:13:00 GMT",
         "first_seen": "2026-02-12T06:06:01.717982"
+      },
+      "b4b6b080562a66dd39520cf817d84ed43d276668de5f7146b641f63917018a84": {
+        "title": "One of Europe’s few growth stocks falters on disappointing outlook",
+        "link": "https://www.marketwatch.com/story/one-of-europes-few-growth-stocks-falters-on-disappointing-outlook-68d911f3?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Feb 2026 08:50:00 GMT",
+        "first_seen": "2026-02-12T08:51:33.555008"
+      },
+      "59e6ba37abb4d38ec17c2f9f2ac1c63d4aabc307718af1a1de0c7636554be56c": {
+        "title": "A 222-year-old U.K. firm to fall into American hands as Nuveen to buy Schroders for $14 billion",
+        "link": "https://www.marketwatch.com/story/a-222-year-old-u-k-firm-to-fall-into-american-hands-as-nuveen-to-buy-schroders-for-14-billion-f49f56cc?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Feb 2026 08:26:00 GMT",
+        "first_seen": "2026-02-12T08:51:33.555016"
+      },
+      "d068a13b982edd8831b4767ffc6d8668498d8368d180364d78770ddb59e95ff3": {
+        "title": "Schroders agrees £9.9bn takeover by US investment manager Nuveen",
+        "link": "https://www.ft.com/content/17b8a2e7-e5bd-4dca-8e3a-45435d3162ad",
+        "published_date": "Thu, 12 Feb 2026 08:37:00 GMT",
+        "first_seen": "2026-02-12T08:51:33.555018"
+      },
+      "7f98a7bf8f40244d6d646eca8f7787843c908f085e92c7ad225eeb4dd059e8e9": {
+        "title": "UK trade deficit for goods hits record high in 2025",
+        "link": "https://www.ft.com/content/870d3538-a4e1-4398-9e28-a8c3f061a200",
+        "published_date": "Thu, 12 Feb 2026 07:52:00 GMT",
+        "first_seen": "2026-02-12T08:51:33.555020"
+      },
+      "0174f589b4891248c300c7e46944659da0b94b52dc7092c3eccc37e886d11c0c": {
+        "title": "UK economy undershot expectations to grow by 0.1% in final quarter of 2025",
+        "link": "https://www.ft.com/content/8d77df48-ae4f-4c14-be04-13406221db48",
+        "published_date": "Thu, 12 Feb 2026 07:25:00 GMT",
+        "first_seen": "2026-02-12T08:51:33.555022"
       }
     },
     "Ai": {
-      "98b4bc8200250838bb57e6f510ad9651aa7920c9dfbc6a8f4e815ffa66252c99": {
-        "title": "无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-7",
-        "published_date": "Tue, 13 Jan 2026 16:25:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.647369"
-      },
-      "ef165e0cb27b3c9028c18c1591bf3be310ee469dd0f91681c75d836dd2dfdfd6": {
-        "title": "AI太记仇！做完心理治疗后仍记得「被工程师虐待」",
-        "link": "https://www.qbitai.com/2026/01/369273.html",
-        "published_date": "Tue, 13 Jan 2026 07:35:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.647377"
-      },
-      "03840d40c0f90c1aff2d3debf0e5e94d944cc4d3b521af4e80829bc4dd80359c": {
-        "title": "OpenAI的首款硬件：是AI耳机，今年销量要冲5000万",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-5",
-        "published_date": "Tue, 13 Jan 2026 12:33:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.647378"
-      },
-      "20a53e6397a3f156e3285ecc33d9ce397ad68f8d03e385ca5e5a6e70cd9abfbf": {
-        "title": "大模型中标TOP10里的黑马：中关村科金的应用攻坚之道",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-13-3",
-        "published_date": "Tue, 13 Jan 2026 10:46:00 GMT",
-        "first_seen": "2026-01-13T08:34:11.647380"
-      },
       "564b0d27366b22268b424057db55f0ca1159a2ec1e95e2fa5d79e35f6dda1c5d": {
         "title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
         "link": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
@@ -6875,13 +6857,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-12/",
         "published_date": "Thu, 12 Feb 2026 07:26:00 GMT",
         "first_seen": "2026-02-12T06:06:01.855692"
+      },
+      "ed42bc2e92fbf08dd6d0f2b84bf9ce8f892ba856651408938de45a5cafd65a48": {
+        "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-7",
+        "published_date": "Thu, 12 Feb 2026 15:08:00 GMT",
+        "first_seen": "2026-02-12T08:51:50.659200"
+      },
+      "399fbf2d85d40b4f39a711c6ebd1aad9e6241515cb58082fafd2982b4fbabf09": {
+        "title": "刚刚，MOSS孙天祥创业，直播AI4AI大规模科研",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-6",
+        "published_date": "Thu, 12 Feb 2026 15:02:00 GMT",
+        "first_seen": "2026-02-12T08:51:50.659206"
+      },
+      "ada6bdd9ff80ab6f096223590271f5f9422c6bf62d9a80de7a40292e06b3bb30": {
+        "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”",
+        "link": "https://www.qbitai.com/2026/02/378843.html",
+        "published_date": "Thu, 12 Feb 2026 07:23:00 GMT",
+        "first_seen": "2026-02-12T08:51:50.659208"
+      },
+      "d8b05fb1328038ac6b7b6b6c6840afa0b571093e7efc92510bfe7fefe8bb6217": {
+        "title": "速度提升，能力却暴跌？扩散模型做智能体的残酷真相",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-5",
+        "published_date": "Thu, 12 Feb 2026 14:52:00 GMT",
+        "first_seen": "2026-02-12T08:51:50.659210"
+      },
+      "0759f2c8efcedafd440af221690918b4591216aaf59bd0ff8b4f1cc458562580": {
+        "title": "当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-12-3",
+        "published_date": "Thu, 12 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-12T08:51:50.659211"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-12T06:06:17.075305",
-    "Finance": "2026-02-12T06:06:01.717984",
-    "Ai": "2026-02-12T06:06:01.855695"
+    "Technology": "2026-02-12T08:52:15.359808",
+    "Finance": "2026-02-12T08:51:33.555024",
+    "Ai": "2026-02-12T08:51:50.659214"
   }
 }

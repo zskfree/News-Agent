@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 06:05:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 06:06:01 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 08:51:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 08:51:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节发布Seedance 2.0，豆包、即梦官宣接入</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12</link>
-      <description>&lt;![CDATA[字节发布Seedance 2.0，豆包、即梦官宣接入]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12</guid>
+      <title>ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-7</link>
+      <description>&lt;![CDATA[ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-02-12日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-12/</link>
-      <description>&lt;![CDATA[2026-02-12日刊]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 07:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-12/</guid>
+      <title>刚刚，MOSS孙天祥创业，直播AI4AI大规模科研</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-6</link>
+      <description>&lt;![CDATA[刚刚，MOSS孙天祥创业，直播AI4AI大规模科研]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”</title>
+      <link>https://www.qbitai.com/2026/02/378843.html</link>
+      <description>&lt;![CDATA[高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/378843.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>速度提升，能力却暴跌？扩散模型做智能体的残酷真相</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-5</link>
+      <description>&lt;![CDATA[速度提升，能力却暴跌？扩散模型做智能体的残酷真相]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-3</link>
+      <description>&lt;![CDATA[当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-3</guid>
       <category>Ai</category>
     </item>
   </channel>

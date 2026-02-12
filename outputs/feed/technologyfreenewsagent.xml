@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 06:05:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 06:06:17 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 08:51:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 08:52:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点</title>
-      <link>https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等</title>
+      <link>https://www.tmtpost.com/7877920.html</link>
+      <description>&lt;![CDATA[OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7877920.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略</title>
-      <link>https://www.tmtpost.com/7877259.html</link>
-      <description>&lt;![CDATA[马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7877259.html</guid>
+      <title>谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能</title>
+      <link>https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代</title>
-      <link>https://www.tmtpost.com/7877358.html</link>
-      <description>&lt;![CDATA[谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7877358.html</guid>
+      <title>GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc</link>
+      <description>&lt;![CDATA[GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨</title>
-      <link>https://www.tmtpost.com/7877191.html</link>
-      <description>&lt;![CDATA[国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 07:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7877191.html</guid>
+      <title>Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？</title>
+      <link>https://www.tmtpost.com/7877364.html</link>
+      <description>&lt;![CDATA[Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7877364.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从告警疲劳到代理辅助的智能可观测性</title>
+      <link>https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从告警疲劳到代理辅助的智能可观测性]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
