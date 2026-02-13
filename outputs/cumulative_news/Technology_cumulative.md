@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-13 06:00
+**最后更新时间**: 2026-02-13 08:47
+
+---
+
+## 🆕 最新更新 (2026-02-13 08:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenClaw，AI抽象创业与真实搞钱游乐场｜AGI深度](https://www.tmtpost.com/7879241.html)
+**发布时间**: 2026-02-13 16:22
+
+#### [OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露](https://www.tmtpost.com/7879369.html)
+**发布时间**: 2026-02-13 15:12
+
+#### [汽车之家，正在把自己推向交易中央｜独家](https://www.tmtpost.com/7878334.html)
+**发布时间**: 2026-02-13 15:06
+
+#### [这只稳健的分红ETF在2026年已上涨10%](https://www.tmtpost.com/7879413.html)
+**发布时间**: 2026-02-13 14:32
+
+#### [联邦快递目标宏大，若投资者认可其前景，应获更高估值](https://www.tmtpost.com/7879402.html)
+**发布时间**: 2026-02-13 14:27
+
+#### [孩之宝股价仍有上涨空间](https://www.tmtpost.com/7879400.html)
+**发布时间**: 2026-02-13 14:27
+
+#### [“车灯女王”冲刺港股，行业龙头如何续写新故事](https://www.tmtpost.com/7877473.html)
+**发布时间**: 2026-02-13 14:27
+
+#### [为什么湘菜出海更容易成功？](https://www.tmtpost.com/7877873.html)
+**发布时间**: 2026-02-13 14:27
+
+#### [Dutch Bros 因盈利超预期而大涨，为何这只股票今年以来仍在下跌](https://www.tmtpost.com/7879386.html)
+**发布时间**: 2026-02-13 14:25
+
+#### [人和机器可以社交吗？](https://www.tmtpost.com/7879332.html)
+**发布时间**: 2026-02-13 14:25
+
+#### [红包厂的春节突围战](https://www.tmtpost.com/7879077.html)
+**发布时间**: 2026-02-13 14:25
+
+#### [中国科技股的魅力！一位专业人士精选了7只股票](https://www.tmtpost.com/7879384.html)
+**发布时间**: 2026-02-13 14:25
+
+#### [盯上这届年轻父母，有商家年入15亿，即将冲出行业“第一股”](https://www.tmtpost.com/7879307.html)
+**发布时间**: 2026-02-13 14:18
+
+#### [大模型来了，为什么端到端的智能工厂还没有？](https://www.tmtpost.com/7879106.html)
+**发布时间**: 2026-02-13 14:07
+
+#### [一个冷知识：恒瑞医药创新管线，全球第二](https://www.tmtpost.com/7879017.html)
+**发布时间**: 2026-02-13 14:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与](https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 16:01
+
+#### [Next Moca 开源智能体定义语言 ADL](https://www.infoq.cn/article/4KDHTtLauzMq0apWmDLr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 16:00
+
+#### [面向 AI Agents 的高性能数据基座：架构和工程实践](https://www.infoq.cn/article/2B1adWKlxpisOtxhOSfj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 14:28
+
+#### [Vibe Coding 在代码生成与协作中的实践与思考](https://www.infoq.cn/article/QtQVbAc62O1ib1V2WftO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 14:22
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [MiniCPM-o 4.5 开源了，登上了开源热榜。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531273&idx=1&sn=7d035417d984a98d2d4d5e022dd04c2f)
+**发布时间**: 2026-02-13 15:05
 
 ---
 

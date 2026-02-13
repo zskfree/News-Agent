@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-13 06:00
+**最后更新时间**: 2026-02-13 08:47
+
+---
+
+## 🆕 最新更新 (2026-02-13 08:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss](https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53)
+**发布时间**: 2026-02-13 07:00
+
+#### [Schroders boss told Treasury £9.9bn sale was ‘good deal’ for UK](https://www.ft.com/content/02335d3c-82ef-4e0a-a332-aba285e6573b)
+**发布时间**: 2026-02-13 05:00
+
+#### [Wall Street hunts next casualty from AI threat to white-collar work](https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1)
+**发布时间**: 2026-02-13 05:00
+
+#### [Top Goldman lawyer Kathy Ruemmler to resign over Epstein links](https://www.ft.com/content/c9c4ea8a-f806-4a04-b409-a8ec03c00b15)
+**发布时间**: 2026-02-13 01:15
+
+#### [Who is Nuveen and why is it buying Schroders?](https://www.ft.com/content/5051bdef-a841-4c41-86bc-6eb0a0fdb267)
+**发布时间**: 2026-02-12 20:02
 
 ---
 

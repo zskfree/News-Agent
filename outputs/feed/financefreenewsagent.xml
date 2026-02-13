@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 06:01:30 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 08:47:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 08:47:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Wall Street hunts next casualty from AI threat to white collar work</title>
-      <link>https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1</link>
-      <description>&lt;![CDATA[Wall Street hunts next casualty from AI threat to white collar work]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Bankers push to avoid US regulator taking charge of British supervisor</title>
-      <link>https://www.ft.com/content/228fa18d-8b67-4152-9604-39f89375250f</link>
-      <description>&lt;![CDATA[Bankers push to avoid US regulator taking charge of British supervisor]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/228fa18d-8b67-4152-9604-39f89375250f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Schroders boss reassured UK Treasury ahead of £9.9bn US takeover</title>
-      <link>https://www.ft.com/content/02335d3c-82ef-4e0a-a332-aba285e6573b</link>
-      <description>&lt;![CDATA[Schroders boss reassured UK Treasury ahead of £9.9bn US takeover]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/02335d3c-82ef-4e0a-a332-aba285e6573b</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump plans to roll back tariffs on metal and aluminium goods</title>
-      <link>https://www.ft.com/content/f2eff736-12de-4c33-9826-847d2fdf8be3</link>
-      <description>&lt;![CDATA[Trump plans to roll back tariffs on metal and aluminium goods]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f2eff736-12de-4c33-9826-847d2fdf8be3</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Energy is the best-performing sector in the S&amp;P 500 so far this year — and it’s not just because of the rise in oil prices</title>
-      <link>https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Energy is the best-performing sector in the S&amp;P 500 so far this year — and it’s not just because of the rise in oil prices]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 02:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories</guid>
+      <title>Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss</title>
+      <link>https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53</link>
+      <description>&lt;![CDATA[Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53</guid>
       <category>Finance</category>
     </item>
   </channel>

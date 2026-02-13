@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dd42326864de968f787b3193a21b0feded0b0eb9d0207ff85493c0b6ddccdcc1": {
-        "title": "关于2026年科技行业的12个关键问答：AI、自动驾驶、机器人、世界模型、美股......",
-        "link": "https://www.tmtpost.com/7842437.html",
-        "published_date": "Wed, 14 Jan 2026 15:43:00 GMT",
-        "first_seen": "2026-01-14T08:34:27.424649"
-      },
-      "63d476b99357b1e1a635ccd73082fa143745cb1ef8956169bdeca55240d6dc2c": {
-        "title": "速度与成本的双重考验，AI算力“大考”已至丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7842451.html",
-        "published_date": "Wed, 14 Jan 2026 13:58:00 GMT",
-        "first_seen": "2026-01-14T08:34:27.424656"
-      },
-      "62cbd2b429aa5b1f3ce61a2b8e93e3f7dfef396b53585c8999c1e0329ba89325": {
-        "title": "PixVerse Releases World's First Real-Time World Model for Interactive Video",
-        "link": "https://www.tmtpost.com/7842608.html",
-        "published_date": "Wed, 14 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-14T08:34:27.424658"
-      },
-      "dda940a01f0d06a2f8fdf020407115ab16cb1186bd1c5ad8196888da200e9cc3": {
-        "title": "张文宏医生拒绝把AI接入病历系统：他真正担心的是什么？",
-        "link": "https://www.tmtpost.com/7842474.html",
-        "published_date": "Wed, 14 Jan 2026 15:47:00 GMT",
-        "first_seen": "2026-01-14T08:34:27.424660"
-      },
-      "c9cf389f270ff0f919779d686c54f07621b09ff7238a644c2ced344261c154e5": {
-        "title": "智谱和MiniMax，大模型的两种“活法”",
-        "link": "https://www.tmtpost.com/7842002.html",
-        "published_date": "Wed, 14 Jan 2026 14:49:00 GMT",
-        "first_seen": "2026-01-14T08:34:27.424662"
-      },
       "bcd1b64529556e0deef9a3c24ffd77241968ea4144c84322a454eb69dc3915a3": {
         "title": "“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级",
         "link": "https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://sspai.com/post/106337",
         "published_date": "Fri, 13 Feb 2026 08:30:00 GMT",
         "first_seen": "2026-02-13T06:01:12.746233"
+      },
+      "abdd7f501f59d3a487acdb7ebf86087ded16ddf3054580671c5d5518e11e867d": {
+        "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
+        "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Feb 2026 16:01:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.475515"
+      },
+      "e48c8b89a87eacab39d2e0e10166d2459bee7dd3806ea8b56fe6b0d883e0e91d": {
+        "title": "Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等",
+        "link": "https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.475527"
+      },
+      "8b94102bd557110dc6375ddb3fb14c4d7a03f315d7d38022a1f15a6755dedeb5": {
+        "title": "OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露",
+        "link": "https://www.tmtpost.com/7879369.html",
+        "published_date": "Fri, 13 Feb 2026 15:12:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.475530"
+      },
+      "15a31a60408ce0b46e42e78319c3ae2ccde77fad5510153d54d69fc04f5be9a6": {
+        "title": "Conductor Quantum 推出量子计算自然语言交互接口 Coda",
+        "link": "https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.475532"
+      },
+      "6d7b91bd679b7a523de6b0e8f1abc2dc8e7e02732451d61471de5ab2c0d10697": {
+        "title": "大模型来了，为什么端到端的智能工厂还没有？",
+        "link": "https://www.tmtpost.com/7879106.html",
+        "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.475534"
       }
     },
     "Finance": {
-      "560f491690d74fb82aa085c5e91653f530020aca59ae81c435563b0cb17bc3d3": {
-        "title": "IMF presses governments to step up support for workers displaced by AI",
-        "link": "https://www.ft.com/content/7e2ae3ad-4cfb-4e3f-a370-702781899e05",
-        "published_date": "Wed, 14 Jan 2026 07:00:00 GMT",
-        "first_seen": "2026-01-14T08:33:45.814188"
-      },
-      "951c13d87652da58a986a0ee9cc8d5c82223c0f77a763d2b0dd3b3d0623a33c4": {
-        "title": "BP warns of $4bn-$5bn impairment charge in green energy business",
-        "link": "https://www.ft.com/content/46293ef9-d90a-40bf-a0cd-c58d3a83cdbe",
-        "published_date": "Wed, 14 Jan 2026 07:30:00 GMT",
-        "first_seen": "2026-01-14T08:33:45.814200"
-      },
-      "0dda67a58154d1a9c757b7858be743d8c4d134ac9cdcdbe1807314d540d76bba": {
-        "title": "Strong UK offshore wind auction boosts plan to decarbonise by 2030",
-        "link": "https://www.ft.com/content/0dd16df2-64b0-407a-bbfd-c939dfabc3f8",
-        "published_date": "Wed, 14 Jan 2026 07:33:00 GMT",
-        "first_seen": "2026-01-14T08:33:45.814203"
-      },
-      "e052040484924e8cc9b6dcd78d20c1ff0906d0acd0c0cc198d43f28d6361c1f1": {
-        "title": "Saks Global files for bankruptcy. Here’s how luxury retail went out of style",
-        "link": "https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Jan 2026 07:58:00 GMT",
-        "first_seen": "2026-01-14T08:33:45.814205"
-      },
-      "9cb4efa33cd1de81f37a66336c9a0a41a6a30739341f34844af68b2cc18973fa": {
-        "title": "Advertising group Dentsu’s push to sell global unit close to collapse",
-        "link": "https://www.ft.com/content/cd37655c-2f7e-4ca2-beeb-53a258f696be",
-        "published_date": "Wed, 14 Jan 2026 06:08:00 GMT",
-        "first_seen": "2026-01-14T08:33:45.814207"
-      },
       "df1e7e8fd4dc5fd9bb20cd3c5af6d91c6501fbf680768b51d9a899ea3c280006": {
         "title": "Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed’s ‘beige book’ finds",
         "link": "https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories",
@@ -4659,39 +4629,15 @@
         "link": "https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories",
         "published_date": "Fri, 13 Feb 2026 02:13:00 GMT",
         "first_seen": "2026-02-13T06:01:30.877579"
+      },
+      "f405514814da90aab17e28d773d17d834b665fc674c5f0ddf3cb0d6ae2a0003e": {
+        "title": "Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss",
+        "link": "https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53",
+        "published_date": "Fri, 13 Feb 2026 07:00:00 GMT",
+        "first_seen": "2026-02-13T08:47:57.506873"
       }
     },
     "Ai": {
-      "ddb4c48e08b0e9044abf33a16a496d29f5b737b019b27ff009e997a007c24232": {
-        "title": "不用额外缓存！英伟达开源大模型记忆压缩方案，128K上下文提速2.7倍",
-        "link": "https://www.qbitai.com/2026/01/369340.html",
-        "published_date": "Wed, 14 Jan 2026 06:09:00 GMT",
-        "first_seen": "2026-01-14T08:34:02.000690"
-      },
-      "0a32a3c17f0c60a3dda0e3b3e947077af19072d8ad76c78174900b532abf6caf": {
-        "title": "继宇树后，唯一获得三家大厂押注的自变量：具身模型不是把DeepSeek塞进机器人",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-11",
-        "published_date": "Wed, 14 Jan 2026 14:45:00 GMT",
-        "first_seen": "2026-01-14T08:34:02.000696"
-      },
-      "f24985fc5920788186800c1d1a28232abbec4960862a47d1a4e9235364417f7c": {
-        "title": "端到端智驾新SOTA | KnowVal：懂法律道德、有价值观的智能驾驶系统",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-9",
-        "published_date": "Wed, 14 Jan 2026 14:34:00 GMT",
-        "first_seen": "2026-01-14T08:34:02.000699"
-      },
-      "648131fc618de8a9b1a69fb340b8824f24a28b63192c859451e8b6943476d2f8": {
-        "title": "刚刚，智谱和华为搞波大的：中国首个国产芯片训练出的SOTA多模态模型！",
-        "link": "https://www.qbitai.com/2026/01/369357.html",
-        "published_date": "Wed, 14 Jan 2026 06:49:00 GMT",
-        "first_seen": "2026-01-14T08:34:02.000700"
-      },
-      "15e2062b12d832b2ae98baa66659b5901b8d6c913b8007b748720ffee5026e7d": {
-        "title": "AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-7",
-        "published_date": "Wed, 14 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-14T08:34:02.000702"
-      },
       "dc1dce87dcbdfc864d21830d6c3972f14fd9e938c2e2a28b7bde8db0cd81e374": {
         "title": "用AI从常规病理切片重建空间蛋白图谱：基于H&E图像的高维蛋白质表达预测",
         "link": "https://www.jiqizhixin.com/articles/2026-01-14-6",
@@ -6887,13 +6833,43 @@
         "link": "https://www.qbitai.com/2026/02/379344.html",
         "published_date": "Fri, 13 Feb 2026 03:16:00 GMT",
         "first_seen": "2026-02-13T06:01:31.029725"
+      },
+      "7b75aba184513c149c8fb5952517c1d5ad1dd17af5e7ec36f9715cbda15c3170": {
+        "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-7",
+        "published_date": "Fri, 13 Feb 2026 16:36:00 GMT",
+        "first_seen": "2026-02-13T08:48:10.873464"
+      },
+      "13cf51ac2a30676d74916c4e31abd812be06271edc421e9cb62e51e9858104f0": {
+        "title": "刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-2",
+        "published_date": "Fri, 13 Feb 2026 15:56:00 GMT",
+        "first_seen": "2026-02-13T08:48:10.873471"
+      },
+      "284edc6e2d86e6ae9b5395ae027680173867f05b74a55f3fa1eb718924044487": {
+        "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-6",
+        "published_date": "Fri, 13 Feb 2026 16:20:00 GMT",
+        "first_seen": "2026-02-13T08:48:10.873473"
+      },
+      "fe7c7bd4968f0b1fb689666eefd0af0daac07a4088112af8390ed4ef7a7910d1": {
+        "title": "我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13",
+        "published_date": "Fri, 13 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-13T08:48:10.873475"
+      },
+      "3bb1f45e729220c489f2da003147a4dc6cfe38d783b313c34d3199bada5fa586": {
+        "title": "上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
+        "published_date": "Fri, 13 Feb 2026 14:16:00 GMT",
+        "first_seen": "2026-02-13T08:48:10.873476"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-13T06:01:12.746235",
-    "Finance": "2026-02-13T06:01:30.877582",
-    "Ai": "2026-02-13T06:01:31.029727"
+    "Technology": "2026-02-13T08:47:57.475536",
+    "Finance": "2026-02-13T08:47:57.506881",
+    "Ai": "2026-02-13T08:48:10.873479"
   }
 }

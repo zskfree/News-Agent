@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 06:01:31 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 08:45:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 08:48:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-13日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-13/</link>
-      <description>&lt;![CDATA[2026-02-13日刊]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-13/</guid>
+      <title>视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-7</link>
+      <description>&lt;![CDATA[视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆</title>
-      <link>https://www.qbitai.com/2026/02/379431.html</link>
-      <description>&lt;![CDATA[蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 05:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379431.html</guid>
+      <title>刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-2</link>
+      <description>&lt;![CDATA[刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负</title>
-      <link>https://www.qbitai.com/2026/02/379411.html</link>
-      <description>&lt;![CDATA[一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379411.html</guid>
+      <title>开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-6</link>
+      <description>&lt;![CDATA[开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉</title>
-      <link>https://www.qbitai.com/2026/02/379344.html</link>
-      <description>&lt;![CDATA[1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 03:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379344.html</guid>
+      <title>我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13</link>
+      <description>&lt;![CDATA[我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-4</link>
+      <description>&lt;![CDATA[上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-4</guid>
       <category>Ai</category>
     </item>
   </channel>
