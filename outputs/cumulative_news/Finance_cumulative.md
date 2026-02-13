@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-13 08:47
+**最后更新时间**: 2026-02-13 23:32
+
+---
+
+## 🆕 最新更新 (2026-02-13 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.](https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 22:14
+
+#### [‘You’re a line item on a spreadsheet.’ The case for why you don’t need to love your job.](https://www.marketwatch.com/story/hate-your-job-good-loving-your-job-costs-people-real-money-d2f1e5d5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 22:04
+
+#### [These 32 favorite stocks signal the bull market is running on fumes](https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 22:03
+
+#### [The Dow transports’ steep takeoff isn’t the green light you’re told it is](https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:58
+
+#### [Investors see hope in the economy despite AI fears igniting a turbulent week for markets](https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:35
+
+#### [Trump’s affordability agenda has a car problem it needs to fix](https://www.marketwatch.com/story/trumps-affordability-agenda-has-a-car-problem-it-needs-to-fix-692935fa?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:30
+
+#### [S&P 500’s failed breakouts signal a darkening technical cloud](https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:28
+
+#### [Tempted to use buy-now-pay-later to split your rent payments? Watch out for these fees.](https://www.marketwatch.com/story/tempted-to-use-buy-now-pay-later-to-split-your-rent-payments-watch-out-for-these-fees-8849433a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:18
+
+#### [Steel stocks fall as they get a taste of the ‘TACO trade’](https://www.marketwatch.com/story/steel-stocks-are-falling-as-they-get-a-taste-of-the-taco-trade-d0afcf92?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 21:06
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump considers Treasury official John Hurley for ambassador to Germany](https://www.ft.com/content/3c1c8d51-be46-497c-b0b1-3c02fabf623f)
+**发布时间**: 2026-02-13 21:52
+
+#### [Gates Foundation ‘sullied’ by Epstein link, chief says](https://www.ft.com/content/2ecd2da1-5479-4c0d-85fa-c7d514901ef8)
+**发布时间**: 2026-02-13 21:00
+
+#### [Merz holds talks with Macron over Europe’s nuclear deterrence](https://www.ft.com/content/6ea334ce-9c6e-4415-8710-acc6ac939799)
+**发布时间**: 2026-02-13 20:58
+
+#### [Why ads are coming to your AI chatbot](https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906)
+**发布时间**: 2026-02-13 19:02
+
+#### [Rubio skips Ukraine meeting with European leaders in Munich](https://www.ft.com/content/fdd602f0-317a-429f-b122-7898257dd804)
+**发布时间**: 2026-02-13 18:50
+
+#### [Marco Rubio, Trump’s diplomat](https://www.ft.com/content/c33b4f0c-1d5e-4610-8f80-251e03d6c669)
+**发布时间**: 2026-02-13 18:00
+
+#### [Both Britain’s main parties are sinking in the electoral quicksand](https://www.ft.com/content/a590f707-e076-4267-a637-75a22404c68e)
+**发布时间**: 2026-02-13 17:52
+
+#### [Plans to tax cash in stocks-and-shares Isas to be watered down, investment sites expect](https://www.ft.com/content/3d567e1a-ff57-4862-8741-4787b34a0c7c)
+**发布时间**: 2026-02-13 15:42
+
+#### [Europe needs ‘emergency mindset’ to survive, warns Danish PM](https://www.ft.com/content/8882d1a4-2f23-4ee3-98ad-06328ba8db21)
+**发布时间**: 2026-02-13 12:02
+
+#### [Heathrow feels crowded because Britons and EU travellers ‘keep crashing into each other’, says CEO](https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53)
+**发布时间**: 2026-02-13 07:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 08:47:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 08:47:57 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 23:33:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss</title>
-      <link>https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53</link>
-      <description>&lt;![CDATA[Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53</guid>
+      <title>Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.</title>
+      <link>https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 22:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors see hope in the economy despite AI fears igniting a turbulent week for markets</title>
+      <link>https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors see hope in the economy despite AI fears igniting a turbulent week for markets]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These 32 favorite stocks signal the bull market is running on fumes</title>
+      <link>https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These 32 favorite stocks signal the bull market is running on fumes]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>S&amp;P 500’s failed breakouts signal a darkening technical cloud</title>
+      <link>https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[S&amp;P 500’s failed breakouts signal a darkening technical cloud]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 21:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The Dow transports’ steep takeoff isn’t the green light you’re told it is</title>
+      <link>https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Dow transports’ steep takeoff isn’t the green light you’re told it is]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 21:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

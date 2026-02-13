@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 08:47:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 08:47:57 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 23:33:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与</title>
-      <link>https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>广东33兆瓦虚拟电厂闯入现货市场，全国电力交易规则正在重写</title>
+      <link>https://www.tmtpost.com/7879796.html</link>
+      <description>&lt;![CDATA[广东33兆瓦虚拟电厂闯入现货市场，全国电力交易规则正在重写]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7879796.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等</title>
-      <link>https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&amp;utm_medium=article</guid>
+      <title>春节档：AI时代软件生产关系定义权之战</title>
+      <link>https://www.tmtpost.com/7878335.html</link>
+      <description>&lt;![CDATA[春节档：AI时代软件生产关系定义权之战]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7878335.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露</title>
-      <link>https://www.tmtpost.com/7879369.html</link>
-      <description>&lt;![CDATA[OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7879369.html</guid>
+      <title>Cloudflare推出Moltworker，将自托管AI智能体带到边缘环境中</title>
+      <link>https://www.infoq.cn/article/PRrDv1gQQ2JhuOp1xI9b?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare推出Moltworker，将自托管AI智能体带到边缘环境中]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PRrDv1gQQ2JhuOp1xI9b?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Conductor Quantum 推出量子计算自然语言交互接口 Coda</title>
-      <link>https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Conductor Quantum 推出量子计算自然语言交互接口 Coda]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国产功率半导体厂商，上桌</title>
+      <link>https://www.tmtpost.com/7879895.html</link>
+      <description>&lt;![CDATA[国产功率半导体厂商，上桌]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7879895.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型来了，为什么端到端的智能工厂还没有？</title>
-      <link>https://www.tmtpost.com/7879106.html</link>
-      <description>&lt;![CDATA[大模型来了，为什么端到端的智能工厂还没有？]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7879106.html</guid>
+      <title>南瑞叫停12亿芯片制造：一家电网巨头的战略回流</title>
+      <link>https://www.tmtpost.com/7879788.html</link>
+      <description>&lt;![CDATA[南瑞叫停12亿芯片制造：一家电网巨头的战略回流]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7879788.html</guid>
       <category>Technology</category>
     </item>
   </channel>

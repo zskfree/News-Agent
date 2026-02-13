@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bcd1b64529556e0deef9a3c24ffd77241968ea4144c84322a454eb69dc3915a3": {
-        "title": "“Gemini 3 不错，但我们也快发了”：Mark Chen 评价谷歌大模型，讲清 OpenAI 如何给 300 个项目排 GPU 优先级",
-        "link": "https://www.infoq.cn/article/27qcglz0p9bX17etWNQg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 14 Jan 2026 16:47:00 GMT",
-        "first_seen": "2026-01-14T23:20:49.780318"
-      },
-      "75a3a37d7795d312bcb220d2f48716288bff12ce794c32c32c0e3f4facdc99bd": {
-        "title": "H200批准对华出口，2026年GPU还扛得住吗？",
-        "link": "https://www.tmtpost.com/7843199.html",
-        "published_date": "Wed, 14 Jan 2026 18:58:00 GMT",
-        "first_seen": "2026-01-14T23:20:49.780325"
-      },
-      "98a13f4c699374a25193e8c44eec93e9f99971b493ee50216ae5d80a1d82175e": {
-        "title": "Zed 为什么不用自己造 Agent？OpenAI 架构师给出答案：Codex 重划 IDE × Coding Agent 的分工边界",
-        "link": "https://www.infoq.cn/article/HFewc09HcZ1IaDyFj8D0?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 14 Jan 2026 16:56:00 GMT",
-        "first_seen": "2026-01-14T23:20:49.780327"
-      },
-      "fb98b74bf7b07f536f6257debb25587adc8323276eddce80c452a9c6d9a62fd1": {
-        "title": "AI来了，搜索怎么办？",
-        "link": "https://www.tmtpost.com/7843231.html",
-        "published_date": "Wed, 14 Jan 2026 19:09:00 GMT",
-        "first_seen": "2026-01-14T23:20:49.780329"
-      },
-      "86854fee980174134ddb87dcf6baf7dd7c3f3590fd1591266853da961ceac96c": {
-        "title": "一块布，卡了英伟达的脖子？",
-        "link": "https://www.tmtpost.com/7842377.html",
-        "published_date": "Wed, 14 Jan 2026 15:32:00 GMT",
-        "first_seen": "2026-01-14T23:20:49.780331"
-      },
       "a97dd98d386ea2226189c8218a54e074725191278014c28d2ca74bbc88360057": {
         "title": "序轮科技获超亿元产业资本加持，加速半导体材料国产化 | 融资动态",
         "link": "https://www.tmtpost.com/7843948.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7879106.html",
         "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
         "first_seen": "2026-02-13T08:47:57.475534"
+      },
+      "41fbb9a7983cc07551db681dde97fe08b9ff6a4c2599cdb89b960a7c882f4b29": {
+        "title": "广东33兆瓦虚拟电厂闯入现货市场，全国电力交易规则正在重写",
+        "link": "https://www.tmtpost.com/7879796.html",
+        "published_date": "Fri, 13 Feb 2026 19:33:00 GMT",
+        "first_seen": "2026-02-13T23:33:04.733357"
+      },
+      "3c7a68e151a69f4baded0a6ffae9212a5a9e755cb8c80a97175d5a1027c18268": {
+        "title": "春节档：AI时代软件生产关系定义权之战",
+        "link": "https://www.tmtpost.com/7878335.html",
+        "published_date": "Fri, 13 Feb 2026 20:22:00 GMT",
+        "first_seen": "2026-02-13T23:33:04.733366"
+      },
+      "2ff5d80402b27965bf3823f3b9a8cd39d1358be8e7145a99a9a4ed7dae956bb9": {
+        "title": "Cloudflare推出Moltworker，将自托管AI智能体带到边缘环境中",
+        "link": "https://www.infoq.cn/article/PRrDv1gQQ2JhuOp1xI9b?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-13T23:33:04.733369"
+      },
+      "c109fd8be57a69409fa498155e06416be1fcdfaeb5e7acf7f2e69b18417e30ab": {
+        "title": "国产功率半导体厂商，上桌",
+        "link": "https://www.tmtpost.com/7879895.html",
+        "published_date": "Fri, 13 Feb 2026 19:33:00 GMT",
+        "first_seen": "2026-02-13T23:33:04.733371"
+      },
+      "36a7004051278aec556b09e8aeb7b42adf56a86a03e0ccbe82a290338a0f27c1": {
+        "title": "南瑞叫停12亿芯片制造：一家电网巨头的战略回流",
+        "link": "https://www.tmtpost.com/7879788.html",
+        "published_date": "Fri, 13 Feb 2026 18:37:00 GMT",
+        "first_seen": "2026-02-13T23:33:04.733373"
       }
     },
     "Finance": {
-      "df1e7e8fd4dc5fd9bb20cd3c5af6d91c6501fbf680768b51d9a899ea3c280006": {
-        "title": "Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed’s ‘beige book’ finds",
-        "link": "https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Jan 2026 19:56:00 GMT",
-        "first_seen": "2026-01-14T23:20:04.470475"
-      },
-      "99e84e005c1353d7e07f53836f805f457843255e0a94f9546c900d61bd2bccf6": {
-        "title": "Your wealth and investments are on the line if Trump torpedoes the Fed’s independence",
-        "link": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Jan 2026 21:27:00 GMT",
-        "first_seen": "2026-01-14T23:20:04.470485"
-      },
-      "12eb4d7473d952bf35c5e267c26db1c3e748f9d6e5a7a949808f528b76a41bf7": {
-        "title": "Sadiq Khan to warn AI could cause ‘mass unemployment’ in London",
-        "link": "https://www.ft.com/content/6f92844e-6eb6-48dc-a36a-fd63115e45b5",
-        "published_date": "Wed, 14 Jan 2026 22:30:00 GMT",
-        "first_seen": "2026-01-14T23:20:04.470488"
-      },
-      "2fb670fac669f4460459576114eb2852de6038f9fe07f65b0975c830939f5c6b": {
-        "title": "3 ways to invest in what could become a $200 billion market for humanoid robots",
-        "link": "https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Jan 2026 20:46:00 GMT",
-        "first_seen": "2026-01-14T23:20:04.470490"
-      },
-      "843fdf28c25ec82ab22b3f8a065b72b5e9ef8fd88a8b00e0998abf7a613b89c8": {
-        "title": "Rachel Reeves signals expansion of pubs tax U-turn to other businesses",
-        "link": "https://www.ft.com/content/d1d1974c-c1cf-4864-8ecb-55bc885d7537",
-        "published_date": "Wed, 14 Jan 2026 19:12:00 GMT",
-        "first_seen": "2026-01-14T23:20:04.470491"
-      },
       "666dc534a81e99232fa031ac9a8d1f4b1b23e356c703d1da841cdd5dc7b14833": {
         "title": "Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says",
         "link": "https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb",
@@ -4635,39 +4605,39 @@
         "link": "https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53",
         "published_date": "Fri, 13 Feb 2026 07:00:00 GMT",
         "first_seen": "2026-02-13T08:47:57.506873"
+      },
+      "79320df1f72ff711acf9ee9cfd5d60f433452240f96948b471a556d453fed1a0": {
+        "title": "Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.",
+        "link": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Feb 2026 22:14:00 GMT",
+        "first_seen": "2026-02-13T23:33:19.545982"
+      },
+      "b357cdea8086a0881b7463523020e57d6a052a240e09de02ee29bfde43fe65db": {
+        "title": "Investors see hope in the economy despite AI fears igniting a turbulent week for markets",
+        "link": "https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Feb 2026 21:35:00 GMT",
+        "first_seen": "2026-02-13T23:33:19.545989"
+      },
+      "7506236cb00c940acb4589a6aec00eacd49731f72242c8598000789d20c23db8": {
+        "title": "These 32 favorite stocks signal the bull market is running on fumes",
+        "link": "https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Feb 2026 22:03:00 GMT",
+        "first_seen": "2026-02-13T23:33:19.545991"
+      },
+      "5cb33396d27700e80b873299a1a7a51f036ab44d3f8c37ec5b35e6b741b19505": {
+        "title": "S&P 500’s failed breakouts signal a darkening technical cloud",
+        "link": "https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Feb 2026 21:28:00 GMT",
+        "first_seen": "2026-02-13T23:33:19.545992"
+      },
+      "e81b78622dfe0238a56106365c1307dd0681a702f304629f7fea8fadf8c8673d": {
+        "title": "The Dow transports’ steep takeoff isn’t the green light you’re told it is",
+        "link": "https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Feb 2026 21:58:00 GMT",
+        "first_seen": "2026-02-13T23:33:19.545994"
       }
     },
     "Ai": {
-      "dc1dce87dcbdfc864d21830d6c3972f14fd9e938c2e2a28b7bde8db0cd81e374": {
-        "title": "用AI从常规病理切片重建空间蛋白图谱：基于H&E图像的高维蛋白质表达预测",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-6",
-        "published_date": "Wed, 14 Jan 2026 14:03:00 GMT",
-        "first_seen": "2026-01-14T23:20:18.351769"
-      },
-      "10c8f37427c0aa9f39c0d4480736905fcae97b348ac0b83f0f2d5b63a3239f1e": {
-        "title": "Sebastian Raschka 2026预测：Transformer统治依旧，但扩散模型正悄然崛起",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-10",
-        "published_date": "Wed, 14 Jan 2026 14:41:00 GMT",
-        "first_seen": "2026-01-14T23:20:18.351775"
-      },
-      "19d702f57dbe434fb00c2baed053472306bebcd32b9d6d0ab4dbe0fad35bf949": {
-        "title": "仅用10天？Anthropic最新智能体Cowork的代码竟然都是Claude写的",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-8",
-        "published_date": "Wed, 14 Jan 2026 14:15:00 GMT",
-        "first_seen": "2026-01-14T23:20:18.351778"
-      },
-      "34db8accdc4cbbb059e5a7031b861276ec1f0b3f9a06d79b1b0ff7195cb045f6": {
-        "title": "性能提升60%，英特尔Ultra3这次带来了巨大提升",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-14-12",
-        "published_date": "Wed, 14 Jan 2026 16:33:00 GMT",
-        "first_seen": "2026-01-14T23:20:18.351780"
-      },
-      "8e01a048b8e1c948f24d69fa599a05db20d49ecb6a9580f94177795c582df034": {
-        "title": "“每卖一辆问界，13.6万流向华为”，赛力斯最新披露来了",
-        "link": "https://www.qbitai.com/2026/01/369479.html",
-        "published_date": "Wed, 14 Jan 2026 09:14:00 GMT",
-        "first_seen": "2026-01-14T23:20:18.351781"
-      },
       "2f97d3474c3154f82b6fe154803d965d9d74c939753f0742cf9e7c976fff7ff2": {
         "title": "人脸机器人登上Science Robotics封面：用AI教会仿生人脸机器人「开口说话」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-7",
@@ -6863,13 +6833,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
         "published_date": "Fri, 13 Feb 2026 14:16:00 GMT",
         "first_seen": "2026-02-13T08:48:10.873476"
+      },
+      "1d3a567bffeda318d812312e964006e5041ffdce08b1616432119b54ddc64fb3": {
+        "title": "SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-9",
+        "published_date": "Fri, 13 Feb 2026 17:02:00 GMT",
+        "first_seen": "2026-02-13T23:33:32.285285"
+      },
+      "b53d4305ac6f0b02e3844c97078bf0e0f955bea950601b16100837d06d031320": {
+        "title": "ICLR 2026 | 异常需要定义！中传团队提出开放世界视频异常检测新范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-10",
+        "published_date": "Fri, 13 Feb 2026 17:10:00 GMT",
+        "first_seen": "2026-02-13T23:33:32.285292"
+      },
+      "586f89bca4d37a5a9093e22e2d5197df2e598a8cf0ac5ef544e606edf038ba93": {
+        "title": "CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-3",
+        "published_date": "Fri, 13 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-13T23:33:32.285294"
+      },
+      "5d6d4fad40aee3076f2d5dbc2d4705c425f5b49ff3acd97614cdfaeabdd4aef9": {
+        "title": "全球首个AI原生社交平台「Teamily AI」硅谷亮相，开启「人机共生」社交新元年",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-11",
+        "published_date": "Fri, 13 Feb 2026 17:23:00 GMT",
+        "first_seen": "2026-02-13T23:33:32.285296"
+      },
+      "75360b54df2f882b055d112d41efc8d349f07c496f03d4754b823b90314c0a3f": {
+        "title": "GLM-5封神，智谱市值五天翻倍，中国AI火力全开了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-13-8",
+        "published_date": "Fri, 13 Feb 2026 16:51:00 GMT",
+        "first_seen": "2026-02-13T23:33:32.285297"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-13T08:47:57.475536",
-    "Finance": "2026-02-13T08:47:57.506881",
-    "Ai": "2026-02-13T08:48:10.873479"
+    "Technology": "2026-02-13T23:33:04.733375",
+    "Finance": "2026-02-13T23:33:19.545997",
+    "Ai": "2026-02-13T23:33:32.285299"
   }
 }

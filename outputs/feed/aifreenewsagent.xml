@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 08:45:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 08:48:10 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 23:33:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-13-7</link>
-      <description>&lt;![CDATA[视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-7</guid>
+      <title>SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-9</link>
+      <description>&lt;![CDATA[SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-13-2</link>
-      <description>&lt;![CDATA[刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-2</guid>
+      <title>ICLR 2026 | 异常需要定义！中传团队提出开放世界视频异常检测新范式</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-10</link>
+      <description>&lt;![CDATA[ICLR 2026 | 异常需要定义！中传团队提出开放世界视频异常检测新范式]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-10</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-13-6</link>
-      <description>&lt;![CDATA[开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-6</guid>
+      <title>CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-3</link>
+      <description>&lt;![CDATA[CVPR 2026 Workshop征稿｜从感知到推理，ViSCALE 2.0 邀你重塑计算机视觉的 System 2]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-13</link>
-      <description>&lt;![CDATA[我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13</guid>
+      <title>全球首个AI原生社交平台「Teamily AI」硅谷亮相，开启「人机共生」社交新元年</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-11</link>
+      <description>&lt;![CDATA[全球首个AI原生社交平台「Teamily AI」硅谷亮相，开启「人机共生」社交新元年]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-11</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-13-4</link>
-      <description>&lt;![CDATA[上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%]]&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 14:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-4</guid>
+      <title>GLM-5封神，智谱市值五天翻倍，中国AI火力全开了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-13-8</link>
+      <description>&lt;![CDATA[GLM-5封神，智谱市值五天翻倍，中国AI火力全开了]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-13-8</guid>
       <category>Ai</category>
     </item>
   </channel>
