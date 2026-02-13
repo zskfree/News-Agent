@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 23:32:21 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 06:01:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-4</link>
-      <description>&lt;![CDATA[走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-4</guid>
+      <title>2026-02-13日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-13/</link>
+      <description>&lt;![CDATA[2026-02-13日刊]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-13/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-11</link>
-      <description>&lt;![CDATA[具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-11</guid>
+      <title>蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆</title>
+      <link>https://www.qbitai.com/2026/02/379431.html</link>
+      <description>&lt;![CDATA[蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 05:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379431.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源</title>
-      <link>https://www.qbitai.com/2026/02/379326.html</link>
-      <description>&lt;![CDATA[小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379326.html</guid>
+      <title>一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负</title>
+      <link>https://www.qbitai.com/2026/02/379411.html</link>
+      <description>&lt;![CDATA[一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379411.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token</title>
-      <link>https://www.qbitai.com/2026/02/379256.html</link>
-      <description>&lt;![CDATA[华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379256.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-12-10</link>
-      <description>&lt;![CDATA[Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 20:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-10</guid>
+      <title>1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉</title>
+      <link>https://www.qbitai.com/2026/02/379344.html</link>
+      <description>&lt;![CDATA[1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉]]&gt;</description>
+      <pubDate>Fri, 13 Feb 2026 03:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/379344.html</guid>
       <category>Ai</category>
     </item>
   </channel>

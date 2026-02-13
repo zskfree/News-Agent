@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-12 23:31
+**最后更新时间**: 2026-02-13 06:00
+
+---
+
+## 🆕 最新更新 (2026-02-13 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Schroders boss reassured UK Treasury ahead of £9.9bn US takeover](https://www.ft.com/content/02335d3c-82ef-4e0a-a332-aba285e6573b)
+**发布时间**: 2026-02-13 05:00
+
+#### [Schroders is the defining deal of a glass half-empty UK](https://www.ft.com/content/a9b425f6-6efb-4ca8-b765-5a190d9d9774)
+**发布时间**: 2026-02-13 05:00
+
+#### [How London unwittingly killed housebuilding](https://www.ft.com/content/05faba7d-cb8e-470b-b35f-271517b99d92)
+**发布时间**: 2026-02-13 05:00
+
+#### [Wall Street hunts next casualty from AI threat to white collar work](https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1)
+**发布时间**: 2026-02-13 05:00
+
+#### [PwC UK applications jump 35% in graduate jobs drought](https://www.ft.com/content/915a32cf-d62d-4caf-b539-8525e52257ad)
+**发布时间**: 2026-02-13 05:00
+
+#### [Bankers push to avoid US regulator taking charge of British supervisor](https://www.ft.com/content/228fa18d-8b67-4152-9604-39f89375250f)
+**发布时间**: 2026-02-13 05:00
+
+#### [Trump plans to roll back tariffs on metal and aluminium goods](https://www.ft.com/content/f2eff736-12de-4c33-9826-847d2fdf8be3)
+**发布时间**: 2026-02-13 05:00
+
+#### [Quintessentially co-founder Aaron Simpson battles rape accusations](https://www.ft.com/content/6077e813-14a1-4136-9b6a-726a031b299a)
+**发布时间**: 2026-02-13 05:00
+
+#### [Top Goldman Sachs lawyer Kathy Ruemmler to resign over Epstein links](https://www.ft.com/content/c9c4ea8a-f806-4a04-b409-a8ec03c00b15)
+**发布时间**: 2026-02-13 01:15
+
+#### [Chicago crashes the Square Mile’s club with deal to buy Schroders](https://www.ft.com/content/5051bdef-a841-4c41-86bc-6eb0a0fdb267)
+**发布时间**: 2026-02-12 20:02
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Applied Materials’ stock jumps after earnings. The CEO just made a bold prediction for the chip sector.](https://www.marketwatch.com/story/applied-materials-stock-jumps-after-earnings-the-ceo-just-made-a-bold-prediction-for-the-chip-sector-db705c47?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 03:31
+
+#### [Arista succeeds where Cisco came up short — to the benefit of its stock](https://www.marketwatch.com/story/arista-succeeds-where-cisco-came-up-short-to-the-benefit-of-its-stock-ee2bfadc?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 02:53
+
+#### [Energy is the best-performing sector in the S&P 500 so far this year — and it’s not just because of the rise in oil prices](https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 02:13
+
+#### [Coinbase swings to surprise loss amid crypto exodus, but says traders are buying the dip](https://www.marketwatch.com/story/coinbase-swings-to-a-surprise-loss-amid-flight-from-crypto-b5706ddb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 01:21
+
+#### [Airbnb expects a continued travel rebound this year, as it banks on new services](https://www.marketwatch.com/story/airbnb-expects-a-continued-travel-rebound-this-year-as-it-banks-on-new-services-1fe641f3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 01:20
+
+#### [DraftKings’ stock sinks as investors balk at the high cost of a push into prediction markets](https://www.marketwatch.com/story/draftkings-stock-sinks-as-investors-balk-at-the-high-cost-of-a-push-into-prediction-markets-79bb7fc2?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 01:18
+
+#### [My elderly mother has dementia. My sister sold her house and has hidden the proceeds. What can we do?](https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 00:25
+
+#### [‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?](https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories)
+**发布时间**: 2026-02-13 00:23
 
 ---
 

@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-12 23:31
+**最后更新时间**: 2026-02-13 06:00
+
+---
+
+## 🆕 最新更新 (2026-02-13 06:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [振芯科技董事席位争夺战落幕：现场剑拔弩张，国腾集团5:2拿下掌控权｜直击股东会](https://www.tmtpost.com/7879253.html)
+**发布时间**: 2026-02-13 13:26
+
+#### [机器人租赁想要催生“超级巨头”？问题是产能不允许](https://www.tmtpost.com/7879155.html)
+**发布时间**: 2026-02-13 12:05
+
+#### [科技新贵们，年会不能停](https://www.tmtpost.com/7879076.html)
+**发布时间**: 2026-02-13 12:04
+
+#### [应用材料 AMAT：Capex 大周期驾到，设备股春天来了](https://www.tmtpost.com/7879100.html)
+**发布时间**: 2026-02-13 12:04
+
+#### [方源资本拟出售棒约翰、DQ中国业务，外资餐饮品牌遇本土竞争围城](https://www.tmtpost.com/7879159.html)
+**发布时间**: 2026-02-13 11:42
+
+#### [每秒千词实时编程！OpenAI与Cerebras推出GPT-5.3-Codex-Spark模型](https://www.tmtpost.com/7879069.html)
+**发布时间**: 2026-02-13 11:34
+
+#### [英伟达GeForce NOW登陆亚马逊Fire TV，云游戏跨平台布局再下一城](https://www.tmtpost.com/7879118.html)
+**发布时间**: 2026-02-13 11:26
+
+#### [5大AI医生31轮盲测 VS 人类致命误诊，谁更靠谱？｜「钛AI了」实测 ①](https://www.tmtpost.com/7877859.html)
+**发布时间**: 2026-02-13 11:21
+
+#### [《声生不息华流季》平淡收官，芒果王牌音综陷入窘境](https://www.tmtpost.com/7878925.html)
+**发布时间**: 2026-02-13 10:36
+
+#### [鑫谊麟禾：营收高增难掩12年累亏36亿，业务结构突变却仍未改善经营性现金流｜IPO观察](https://www.tmtpost.com/7868391.html)
+**发布时间**: 2026-02-13 10:27
+
+#### [龙辰科技：四次触碰监管红线，毛利率三年降｜IPO观察](https://www.tmtpost.com/7868397.html)
+**发布时间**: 2026-02-13 10:26
+
+#### [谷歌Gemini 3 Deep Think重大升级，聚焦复杂科学与工程推理，成本降低幅度高达280至420倍](https://www.tmtpost.com/7878966.html)
+**发布时间**: 2026-02-13 10:10
+
+#### [互联网春晚营销十一年：撒钱180亿，为何再无微信红包时刻？](https://www.tmtpost.com/7878811.html)
+**发布时间**: 2026-02-13 09:50
+
+#### [阿童木的锥齿轮“蜘蛛手”越快，流血越凶？](https://www.tmtpost.com/7878498.html)
+**发布时间**: 2026-02-13 09:34
+
+#### [AI这把火，也该烧到网易了](https://www.tmtpost.com/7878809.html)
+**发布时间**: 2026-02-13 09:30
+
+#### [华封集芯完成3亿元融资，构建北京集成电路产业链关键环节｜融资速递](https://www.tmtpost.com/7877614.html)
+**发布时间**: 2026-02-13 09:26
+
+#### [从马年新年营销，看品牌叙事走向新阶段](https://www.tmtpost.com/7878725.html)
+**发布时间**: 2026-02-13 09:25
+
+#### [身体护理“国货一哥”半亩花田：2025年收入或超林清轩，规模大涨赚钱难？](https://www.tmtpost.com/7878519.html)
+**发布时间**: 2026-02-13 09:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等](https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 12:00
+
+#### [一线实践视角：在资源受限的环境中构建大语言模型](https://www.infoq.cn/article/zjLVIHKAhr7B9qTo39Dp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 10:00
+
+#### [Conductor Quantum 推出量子计算自然语言交互接口 Coda](https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-13 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Kali LP-UNF：我心中的入门级桌面音箱最优解](https://sspai.com/post/106144)
+**发布时间**: 2026-02-13 11:04
+
+#### [派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动](https://sspai.com/post/106337)
+**发布时间**: 2026-02-13 08:30
 
 ---
 
