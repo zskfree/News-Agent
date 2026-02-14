@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a97dd98d386ea2226189c8218a54e074725191278014c28d2ca74bbc88360057": {
-        "title": "序轮科技获超亿元产业资本加持，加速半导体材料国产化 | 融资动态",
-        "link": "https://www.tmtpost.com/7843948.html",
-        "published_date": "Thu, 15 Jan 2026 09:55:00 GMT",
-        "first_seen": "2026-01-15T05:33:25.303759"
-      },
-      "6e2308c46d21fca3d84b0ad2a3a21061d21d9800a20666e84d4b1787bc8229a8": {
-        "title": "华旋传感获产业资本加持，加速人形机器人等高精度传感器研发落地 | 融资动态",
-        "link": "https://www.tmtpost.com/7844039.html",
-        "published_date": "Thu, 15 Jan 2026 10:48:00 GMT",
-        "first_seen": "2026-01-15T05:33:25.303765"
-      },
-      "97deed7474965d8ad07d910c29a5c93aeb5e4e1612a1f8c218bd1b3033cd9555": {
-        "title": "Exclusive: Chinese AI Glasses Maker INMO Valued at About $280 Million yuan After New Financing Round",
-        "link": "https://www.tmtpost.com/7844113.html",
-        "published_date": "Thu, 15 Jan 2026 11:11:00 GMT",
-        "first_seen": "2026-01-15T05:33:25.303767"
-      },
-      "90e4f4e11bf945c03969be84a6c167008e5bc5df01b1ff44b39306530a6f6654": {
-        "title": "QCon 北京 2026 启动｜Agentic AI 时代的软件工程重塑",
-        "link": "https://www.infoq.cn/article/xDvcxhcebTPsfrciN2MA?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 15 Jan 2026 11:17:00 GMT",
-        "first_seen": "2026-01-15T05:33:25.303769"
-      },
-      "ebfec4da30a5cff803d88bae714de16549c2ea92fe46f102382c54ff5133acd0": {
-        "title": "实测谷歌Veo 3.1：新增原生竖屏模式和4K画质，换个语言翻车到离谱？",
-        "link": "https://www.infoq.cn/article/cZX1jtxGLwkZmsU4CbsL?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 15 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-15T05:33:25.303770"
-      },
       "467c9637ee995a9746799af20f794e287acc389c9c1b9151284c1669a9f57709": {
         "title": "千问接入淘宝、支付宝等App，阿里巴巴Agent行动开始了",
         "link": "https://www.tmtpost.com/7844188.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7879788.html",
         "published_date": "Fri, 13 Feb 2026 18:37:00 GMT",
         "first_seen": "2026-02-13T23:33:04.733373"
+      },
+      "29daa78f1e8c8e9c5dc32c6e30c816720d2721e8b0b03cf386b8fc0131e62a01": {
+        "title": "字节跳动Seedance 2.0引发好莱坞集体抵制，AI视频背后的版权风暴还是来了",
+        "link": "https://www.tmtpost.com/7880532.html",
+        "published_date": "Sat, 14 Feb 2026 08:43:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.544800"
+      },
+      "0f0899c86e456e126c307cc29c25ab311079ffa617dd69b258cfa9341852a1ef": {
+        "title": "GPT-4o正式退役，OpenAI倒逼用户转向定价更高的专用推理模型GPT-5",
+        "link": "https://www.tmtpost.com/7880486.html",
+        "published_date": "Sat, 14 Feb 2026 08:34:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.544809"
+      },
+      "2eaf25fb744f9f36df25972f750908091a8bbd39f367e3d51d674ed6c8198473": {
+        "title": "英伟达 Blackwell 架构与开源协同，推动 AI 推理成本降低 10 倍",
+        "link": "https://www.tmtpost.com/7880448.html",
+        "published_date": "Sat, 14 Feb 2026 09:27:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.544812"
+      },
+      "d3cbff36b734a5d3227be787123e7812166d2fe67916110b99347875f9682d2e": {
+        "title": "当Anthropic数钱时，谷歌突然发起奇袭",
+        "link": "https://www.tmtpost.com/7880019.html",
+        "published_date": "Sat, 14 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.544814"
+      },
+      "19ce75f98b6f4368e11defd0eb6b038e2971c083f42d39cb16d39a022701fe65": {
+        "title": "亚马逊股价九连跌：市值蒸发4630亿美元，AI巨额投资引发市场担忧",
+        "link": "https://www.tmtpost.com/7880723.html",
+        "published_date": "Sat, 14 Feb 2026 13:39:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.544816"
       }
     },
     "Finance": {
-      "666dc534a81e99232fa031ac9a8d1f4b1b23e356c703d1da841cdd5dc7b14833": {
-        "title": "Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says",
-        "link": "https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb",
-        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-15T05:32:51.692879"
-      },
-      "8f1ab24177f638c923a35b909acaf16827e5e999aeb0abd801cda7064d67d3b7": {
-        "title": "Why oil experts say U.S.-Iran tensions feel different this time compared with previous crises",
-        "link": "https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Jan 2026 23:25:00 GMT",
-        "first_seen": "2026-01-15T05:32:51.692887"
-      },
-      "d52748394bcda28d33e59090292187c7c6917481b1f8b900d8ffec5b75cacaa7": {
-        "title": "Can Europe still afford its generous state pensions?",
-        "link": "https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6",
-        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-15T05:32:51.692890"
-      },
-      "a166633b01b2a133254016f4e3f11403dd17b7b654b0042bfa0ed05e09b85d32": {
-        "title": "Asda hit by debt sell-off after Christmas sales slump",
-        "link": "https://www.ft.com/content/6ff6290e-0d04-44c7-87e1-93b17d063c29",
-        "published_date": "Thu, 15 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-15T05:32:51.692892"
-      },
-      "a4b6e6d5c949a0a7c134a0faf036b10fe3c6769122d21ef0bec1cdf834bf3ba9": {
-        "title": "‘I’m considering driving Lyft part time’: I’m 58 with a $1 million home. Do I finally give up work and enjoy life?",
-        "link": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
-        "published_date": "Thu, 15 Jan 2026 00:00:00 GMT",
-        "first_seen": "2026-01-15T05:32:51.692893"
-      },
       "a9c3481d240f5069a82e75a3dfee982725fdf63454fd0029317d1d9cf6d1a667": {
         "title": "UK economy beat expectations to grow 0.3% in November",
         "link": "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802",
@@ -4635,39 +4605,33 @@
         "link": "https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories",
         "published_date": "Fri, 13 Feb 2026 21:58:00 GMT",
         "first_seen": "2026-02-13T23:33:19.545994"
+      },
+      "16bd957e8b4e963d0c2d363893d1c0fb85781d09973961a5b38e6f42a92b58a9": {
+        "title": "Three things to consider to make your money last the rest of your life",
+        "link": "https://www.marketwatch.com/story/good-news-were-living-longer-too-bad-most-of-us-cant-afford-it-66a86498?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 04:27:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.580529"
+      },
+      "a79180ccada479ed64a1b8de077b2640f106ed9a564edd0d02ea9a6ede9877b5": {
+        "title": "‘I’m part of a blended family that didn’t blend well’: My stepsister added her mailing address to our mother’s bank account. Can she be trusted?",
+        "link": "https://www.marketwatch.com/story/my-mom-was-very-upset-my-stepsister-changed-the-address-on-our-mothers-bank-account-can-she-be-trusted-as-executor-dab23670?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 02:50:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.580537"
+      },
+      "0a91d4890eb0509b4b50f654ee6b0c4146d70e92b1167ce49efaf59b8416a31f": {
+        "title": "‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?",
+        "link": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 02:41:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.580539"
+      },
+      "aba4e41172280fe80731b92ea5708d2c0b5020759bba49e7d8ded24461af3ed7": {
+        "title": "Tax refunds are up this year to an average of $2,290, early IRS numbers show. How does yours compare?",
+        "link": "https://www.marketwatch.com/story/tax-refunds-are-up-this-year-to-an-average-of-2-290-early-irs-numbers-show-how-does-yours-compare-3c4e2267?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 01:35:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.580541"
       }
     },
     "Ai": {
-      "2f97d3474c3154f82b6fe154803d965d9d74c939753f0742cf9e7c976fff7ff2": {
-        "title": "人脸机器人登上Science Robotics封面：用AI教会仿生人脸机器人「开口说话」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-7",
-        "published_date": "Thu, 15 Jan 2026 13:13:00 GMT",
-        "first_seen": "2026-01-15T05:33:04.950400"
-      },
-      "74b3104099ae6504b237075c6d184ce36ccff09ffb90b6e686c2012132059ed8": {
-        "title": "已证实！清华姚班陈立杰全职加入OpenAI，保留伯克利教职",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-5",
-        "published_date": "Thu, 15 Jan 2026 12:01:00 GMT",
-        "first_seen": "2026-01-15T05:33:04.950406"
-      },
-      "b2e590268d1497ad377013674e9428b03de3fd94033c1376f25ec5ad0e282f79": {
-        "title": "大模型长脑子了？研究发现LLM中层会自发模拟人脑进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15",
-        "published_date": "Thu, 15 Jan 2026 09:50:00 GMT",
-        "first_seen": "2026-01-15T05:33:04.950408"
-      },
-      "6c2f12df030554a355123d3d1569190b2d3ba7d308a963b910c5dc5b1803ed70": {
-        "title": "解锁任意步数文生图，港大&Adobe全新Self-E框架学会自我评估",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-4",
-        "published_date": "Thu, 15 Jan 2026 11:58:00 GMT",
-        "first_seen": "2026-01-15T05:33:04.950410"
-      },
-      "eba501f3b1bd90da325652189834a761262e138a3854282e7cc8e9c6a1f9986d": {
-        "title": "Agent时代，为什么多模态数据湖是必选项？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-2",
-        "published_date": "Thu, 15 Jan 2026 09:55:00 GMT",
-        "first_seen": "2026-01-15T05:33:04.950412"
-      },
       "c2787183ff5ca7a7e009a78e0770affa890eb0af094203a6f8b70a84757e7875": {
         "title": "Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界",
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-9",
@@ -6863,13 +6827,37 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-8",
         "published_date": "Fri, 13 Feb 2026 16:51:00 GMT",
         "first_seen": "2026-02-13T23:33:32.285297"
+      },
+      "f8026a09d3e2e4a394b4c2d39beb5f354c55939dae332d49f6779ff6c3491f97": {
+        "title": "AI在多维度刷新亲吻数纪录！中国团队回答牛顿300年数学之问",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14",
+        "published_date": "Sat, 14 Feb 2026 12:13:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.734888"
+      },
+      "f7d25923d9910b713d7954310a7ffca3f95d2e1d7077a6da70cc088770da8fc3": {
+        "title": "GPT-5.2改写粒子物理教科书！人类手算32项算不出，AI一行公式搞定",
+        "link": "https://www.qbitai.com/2026/02/380154.html",
+        "published_date": "Sat, 14 Feb 2026 04:23:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.734896"
+      },
+      "1e669279c4213b10a40dc6af68a3d99ca746c0e8ead0f7da2ef46efa84e242a1": {
+        "title": "万亿思考模型新速度！蚂蚁开源Ring-2.5-1T：IMO金牌水平，强；混合线性架构，快！",
+        "link": "https://www.qbitai.com/2026/02/380131.html",
+        "published_date": "Sat, 14 Feb 2026 03:20:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.734898"
+      },
+      "381e503cc19e464e8fe70615856266dc0234d847f7bfe0b9cdecaa9135d06af6": {
+        "title": "2026-02-14日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-14/",
+        "published_date": "Sat, 14 Feb 2026 07:25:00 GMT",
+        "first_seen": "2026-02-14T05:47:15.734900"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-13T23:33:04.733375",
-    "Finance": "2026-02-13T23:33:19.545997",
-    "Ai": "2026-02-13T23:33:32.285299"
+    "Technology": "2026-02-14T05:47:15.544818",
+    "Finance": "2026-02-14T05:47:15.580543",
+    "Ai": "2026-02-14T05:47:15.734902"
   }
 }

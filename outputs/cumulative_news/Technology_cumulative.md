@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-13 23:32
+**最后更新时间**: 2026-02-14 05:46
+
+---
+
+## 🆕 最新更新 (2026-02-14 05:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [亚马逊股价九连跌：市值蒸发4630亿美元，AI巨额投资引发市场担忧](https://www.tmtpost.com/7880723.html)
+**发布时间**: 2026-02-14 13:39
+
+#### [当Anthropic数钱时，谷歌突然发起奇袭](https://www.tmtpost.com/7880019.html)
+**发布时间**: 2026-02-14 13:00
+
+#### [联邦式管理，还适配腾讯的 AI 野心吗？](https://www.tmtpost.com/7880208.html)
+**发布时间**: 2026-02-14 12:00
+
+#### [为什么饮料越卖越好，饮企在资本眼里却是“新瓶旧酒”？](https://www.tmtpost.com/7880162.html)
+**发布时间**: 2026-02-14 11:30
+
+#### [奔驰的利润，怎么就蒸发了？](https://www.tmtpost.com/7880607.html)
+**发布时间**: 2026-02-14 11:18
+
+#### [是时候该重估零食量贩店的投资价值](https://www.tmtpost.com/7880034.html)
+**发布时间**: 2026-02-14 11:00
+
+#### [无界动力完成超2亿元天使+轮融资，红杉、线性、高瓴持续追投｜独家](https://www.tmtpost.com/7880677.html)
+**发布时间**: 2026-02-14 10:48
+
+#### [汽水音乐狂飙背后，在线音乐走到十字路口](https://www.tmtpost.com/7880141.html)
+**发布时间**: 2026-02-14 10:30
+
+#### [预制菜，只有「过年」才有春天](https://www.tmtpost.com/7880244.html)
+**发布时间**: 2026-02-14 10:00
+
+#### [马斯克离不开华人骨干](https://www.tmtpost.com/7880023.html)
+**发布时间**: 2026-02-14 10:00
+
+#### [英伟达 Blackwell 架构与开源协同，推动 AI 推理成本降低 10 倍](https://www.tmtpost.com/7880448.html)
+**发布时间**: 2026-02-14 09:27
+
+#### [AI潮玩，潮玩行业的下一个十年？](https://www.tmtpost.com/7880561.html)
+**发布时间**: 2026-02-14 09:22
+
+#### [是“Seedance 时刻”，但字节的野心可以更大些](https://www.tmtpost.com/7880029.html)
+**发布时间**: 2026-02-14 09:00
+
+#### [字节跳动Seedance 2.0引发好莱坞集体抵制，AI视频背后的版权风暴还是来了](https://www.tmtpost.com/7880532.html)
+**发布时间**: 2026-02-14 08:43
+
+#### [GPT-4o正式退役，OpenAI倒逼用户转向定价更高的专用推理模型GPT-5](https://www.tmtpost.com/7880486.html)
+**发布时间**: 2026-02-14 08:34
+
+#### [狂飙的Seedance2.0，被“炼丹”的AI漫剧民工](https://www.tmtpost.com/7880254.html)
+**发布时间**: 2026-02-14 08:30
+
+#### [春节扫货的中老登，挤爆奥特莱斯](https://www.tmtpost.com/7880184.html)
+**发布时间**: 2026-02-14 08:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Waku：最小的React框架发布了Alpha版本](https://www.infoq.cn/article/wyY96yPluPj9iE97UUod?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-14 11:00
+
+#### [PostgreSQL 狂飙之后，MySQL 阵营终于有人出手了](https://www.infoq.cn/article/wkIS7RzkRLyHXL8aKTg6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-14 09:00
+
+#### [Jakarta EE 12里程碑版本2：伴随着一致性和配置的数据时代的到来](https://www.infoq.cn/article/NOrgpX1acb1GiGScpGEI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-14 09:00
+
+#### [优步将内部搜索索引迁移至OpenSearch的拉取式摄入架构](https://www.infoq.cn/article/ettgwgXcs5b5QTuIG7gi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-14 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新年拒酒指南：除了头孢还有什么拒酒的好借口](https://sspai.com/post/106300)
+**发布时间**: 2026-02-14 11:00
 
 ---
 
