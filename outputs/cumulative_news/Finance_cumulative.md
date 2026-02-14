@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-14 08:35
+**最后更新时间**: 2026-02-14 23:27
+
+---
+
+## 🆕 最新更新 (2026-02-14 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We’ve been dating for 5 years’: My boyfriend’s parents say he doesn’t earn enough to marry. Should I speak to his father?](https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 23:22
+
+#### [Social Security could run out of money in just 6 years — even sooner than originally feared](https://www.marketwatch.com/story/social-security-could-run-out-of-money-in-just-6-years-even-sooner-than-originally-feared-c28eb5a5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 19:55
+
+#### [My employer is forcing me into a Roth 401(k). Is there anything I can do?](https://www.marketwatch.com/story/im-being-forced-into-a-roth-401-k-is-there-anything-i-can-do-81a6848d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 19:42
+
+#### [Build your own wealth transfer for retirement if you’re not getting a big inheritance](https://www.marketwatch.com/story/build-your-own-wealth-transfer-for-retirement-if-youre-not-getting-a-big-inheritance-e0d642bd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 18:59
+
+#### [I’m almost 65 and live abroad. Should I skip signing up for Medicare?](https://www.marketwatch.com/story/im-almost-65-and-live-abroad-should-i-skip-signing-up-for-medicare-2eaf7f79?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 18:37
+
+#### [Thank ‘Too Late’ Jerome Powell for the jobs and inflation beats](https://www.marketwatch.com/story/thank-too-late-jerome-powell-for-the-jobs-and-inflation-beats-2bc659af?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 18:05
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Rubio tells Europe that US will not abandon transatlantic alliance](https://www.ft.com/content/ad264479-52bb-4a63-bc87-e40d6f0a01c0)
+**发布时间**: 2026-02-14 16:06
+
+#### [Zelenskyy insists elections can only take place two months after a ceasefire](https://www.ft.com/content/c4a0a5e7-1678-4303-b621-a447bca69d64)
+**发布时间**: 2026-02-14 15:07
+
+#### [Von der Leyen says Europe must bring its mutual defence clause ‘to life’](https://www.ft.com/content/30ee3ac3-f1b1-42e6-a802-f19bf2f34a39)
+**发布时间**: 2026-02-14 12:51
+
+#### [Six Wall Street bank chiefs bring in combined pay of $250mn in 2025](https://www.ft.com/content/62b8713f-cd72-4838-b8ac-708b91b2830f)
+**发布时间**: 2026-02-14 11:00
+
+#### [Amazon’s Andy Jassy bets on $200bn AI spending drive to revive AWS](https://www.ft.com/content/905df663-8c47-4e88-b6ff-24dd4bd46290)
+**发布时间**: 2026-02-14 07:29
 
 ---
 

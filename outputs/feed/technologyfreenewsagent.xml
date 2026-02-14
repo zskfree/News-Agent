@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Feb 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Feb 2026 08:35:56 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 23:27:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz</title>
-      <link>https://www.tmtpost.com/7880242.html</link>
-      <description>&lt;![CDATA[【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880242.html</guid>
+      <title>杨元庆：AI绝对没有泡沫，市场需求不仅没有饱和，还会继续高速增长</title>
+      <link>https://www.tmtpost.com/7881001.html</link>
+      <description>&lt;![CDATA[杨元庆：AI绝对没有泡沫，市场需求不仅没有饱和，还会继续高速增长]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881001.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马云督战、马化腾喊话，AI红包大战谁能胜出？</title>
-      <link>https://www.tmtpost.com/7879610.html</link>
-      <description>&lt;![CDATA[马云督战、马化腾喊话，AI红包大战谁能胜出？]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7879610.html</guid>
+      <title>Waku：最小的React框架发布了Alpha版本</title>
+      <link>https://www.infoq.cn/article/wyY96yPluPj9iE97UUod?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Waku：最小的React框架发布了Alpha版本]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wyY96yPluPj9iE97UUod?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>联邦式管理，还适配腾讯的 AI 野心吗？</title>
-      <link>https://www.tmtpost.com/7880208.html</link>
-      <description>&lt;![CDATA[联邦式管理，还适配腾讯的 AI 野心吗？]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880208.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>PostgreSQL 狂飙之后，MySQL 阵营终于有人出手了</title>
-      <link>https://www.infoq.cn/article/wkIS7RzkRLyHXL8aKTg6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[PostgreSQL 狂飙之后，MySQL 阵营终于有人出手了]]&gt;</description>
+      <title>Jakarta EE 12里程碑版本2：伴随着一致性和配置的数据时代的到来</title>
+      <link>https://www.infoq.cn/article/NOrgpX1acb1GiGScpGEI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Jakarta EE 12里程碑版本2：伴随着一致性和配置的数据时代的到来]]&gt;</description>
       <pubDate>Sat, 14 Feb 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wkIS7RzkRLyHXL8aKTg6?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NOrgpX1acb1GiGScpGEI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>优步将内部搜索索引迁移至OpenSearch的拉取式摄入架构</title>
-      <link>https://www.infoq.cn/article/ettgwgXcs5b5QTuIG7gi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[优步将内部搜索索引迁移至OpenSearch的拉取式摄入架构]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ettgwgXcs5b5QTuIG7gi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>无界动力完成超2亿元天使+轮融资，红杉、线性、高瓴持续追投｜独家</title>
+      <link>https://www.tmtpost.com/7880677.html</link>
+      <description>&lt;![CDATA[无界动力完成超2亿元天使+轮融资，红杉、线性、高瓴持续追投｜独家]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7880677.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>BellSoft调查发现容器安全实践正在破坏开发者自己的目标</title>
+      <link>https://www.infoq.cn/article/0k9GJAt24pKSAF635qVi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[BellSoft调查发现容器安全实践正在破坏开发者自己的目标]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0k9GJAt24pKSAF635qVi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
