@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-14 05:46
+**最后更新时间**: 2026-02-14 08:35
+
+---
+
+## 🆕 最新更新 (2026-02-14 08:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马云督战、马化腾喊话，AI红包大战谁能胜出？](https://www.tmtpost.com/7879610.html)
+**发布时间**: 2026-02-14 15:54
+
+#### [【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz](https://www.tmtpost.com/7880242.html)
+**发布时间**: 2026-02-14 15:41
+
+#### [酣战春节档，“腾网米”卷出新花样](https://www.tmtpost.com/7880688.html)
+**发布时间**: 2026-02-14 15:09
+
+#### [春节抢黄金，谁赚到钱了？](https://www.tmtpost.com/7880573.html)
+**发布时间**: 2026-02-14 14:27
+
+#### [联合光电回复2.6亿并购问询：业绩承诺“争议”引关注，标的盈利“过山车”隐忧仍存](https://www.tmtpost.com/7880776.html)
+**发布时间**: 2026-02-14 14:23
+
+#### [153家药企医保失信被点名：上市公司关联主体承压，新规重塑行业合规逻辑](https://www.tmtpost.com/7880777.html)
+**发布时间**: 2026-02-14 14:19
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一周 6000+ Star！这个 Clawdbot 的轻量开源平替火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531315&idx=1&sn=dcc41e589c929c0a0989795a1d8a0e29)
+**发布时间**: 2026-02-14 15:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Windsurf 推出 Arena Mode，可在开发过程中对比 AI 模型](https://www.infoq.cn/article/U93SfJ0k03fptmVZeWqQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-14 15:00
 
 ---
 

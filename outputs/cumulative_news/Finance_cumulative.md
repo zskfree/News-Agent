@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-14 05:46
+**最后更新时间**: 2026-02-14 08:35
+
+---
+
+## 🆕 最新更新 (2026-02-14 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer calls for western alliance to be ‘remade’](https://www.ft.com/content/beee83f7-6e88-4e49-87c4-802d9dff9053)
+**发布时间**: 2026-02-14 06:28
+
+#### [What America forgets about the UN](https://www.ft.com/content/18288744-b9d4-4021-8598-beb7eb259ae1)
+**发布时间**: 2026-02-14 05:00
+
+#### [Liberals should mourn the passing world](https://www.ft.com/content/3dd3f37b-a783-4f12-a837-764e9f429b01)
+**发布时间**: 2026-02-14 05:00
+
+#### [Schroders is part of the City’s émigré alchemy](https://www.ft.com/content/4b1e7ab6-2b76-4e66-836b-d54d76147a15)
+**发布时间**: 2026-02-14 05:00
+
+#### [Prediction markets take a bigger bite of US sports gambling pie](https://www.ft.com/content/1aa7d6a6-9bb8-44cd-83c6-9190d4b562f4)
+**发布时间**: 2026-02-14 05:00
+
+#### [TSMC’s US investment plans at heart of $250bn puzzle for chip sector](https://www.ft.com/content/b715b003-1d10-46d4-a02d-1c5969d0dbf8)
+**发布时间**: 2026-02-14 03:53
+
+#### [US concludes Alibaba and BYD have links to Chinese military](https://www.ft.com/content/c80ce7a7-983b-447c-88c2-de5db4cb2e0a)
+**发布时间**: 2026-02-13 17:15
 
 ---
 

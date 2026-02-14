@@ -2695,15 +2695,39 @@
         "link": "https://www.tmtpost.com/7880723.html",
         "published_date": "Sat, 14 Feb 2026 13:39:00 GMT",
         "first_seen": "2026-02-14T05:47:15.544816"
+      },
+      "889315c534a57c96efea19d7904685bc6ad459add004031e536da2a6e83435b0": {
+        "title": "【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz",
+        "link": "https://www.tmtpost.com/7880242.html",
+        "published_date": "Sat, 14 Feb 2026 15:41:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.112795"
+      },
+      "36212fb2b5c00279a930983c5b4e247540a16578157f8426502664d208d8f8a7": {
+        "title": "马云督战、马化腾喊话，AI红包大战谁能胜出？",
+        "link": "https://www.tmtpost.com/7879610.html",
+        "published_date": "Sat, 14 Feb 2026 15:54:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.112804"
+      },
+      "2d46ff288299866212dfeefa34212b4ed43e874aa1f6083cc204b9a8462d045c": {
+        "title": "联邦式管理，还适配腾讯的 AI 野心吗？",
+        "link": "https://www.tmtpost.com/7880208.html",
+        "published_date": "Sat, 14 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.112807"
+      },
+      "ed088aaf0f4d9863abcd28c20b192602f28b91745f8705bc4498936af34aaa59": {
+        "title": "PostgreSQL 狂飙之后，MySQL 阵营终于有人出手了",
+        "link": "https://www.infoq.cn/article/wkIS7RzkRLyHXL8aKTg6?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Feb 2026 09:00:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.112809"
+      },
+      "82af694f8e6e741bce34db580b06b4c9ab51b5d42b88db017d0d5473e7f31e37": {
+        "title": "优步将内部搜索索引迁移至OpenSearch的拉取式摄入架构",
+        "link": "https://www.infoq.cn/article/ettgwgXcs5b5QTuIG7gi?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.112811"
       }
     },
     "Finance": {
-      "a9c3481d240f5069a82e75a3dfee982725fdf63454fd0029317d1d9cf6d1a667": {
-        "title": "UK economy beat expectations to grow 0.3% in November",
-        "link": "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802",
-        "published_date": "Thu, 15 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-15T08:35:16.390602"
-      },
       "ca774b6f93c2b7ecf1b968217b916698cf5ad7ad2d70230c38fe374db40d3ec0": {
         "title": "BoE accused of making ‘mistake’ in loosening capital rules",
         "link": "https://www.ft.com/content/4f158502-9cc0-4813-bc2d-a2017fd752bc",
@@ -4629,39 +4653,15 @@
         "link": "https://www.marketwatch.com/story/tax-refunds-are-up-this-year-to-an-average-of-2-290-early-irs-numbers-show-how-does-yours-compare-3c4e2267?mod=mw_rss_topstories",
         "published_date": "Sat, 14 Feb 2026 01:35:00 GMT",
         "first_seen": "2026-02-14T05:47:15.580541"
+      },
+      "536b2840f718d2c7bb76710ce8514858463b3541dc76cfd1a76cf52af73b31d7": {
+        "title": "Starmer calls for western alliance to be ‘remade’",
+        "link": "https://www.ft.com/content/beee83f7-6e88-4e49-87c4-802d9dff9053",
+        "published_date": "Sat, 14 Feb 2026 06:28:00 GMT",
+        "first_seen": "2026-02-14T08:35:56.147036"
       }
     },
     "Ai": {
-      "c2787183ff5ca7a7e009a78e0770affa890eb0af094203a6f8b70a84757e7875": {
-        "title": "Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-9",
-        "published_date": "Thu, 15 Jan 2026 14:02:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123026"
-      },
-      "25d5639a5bd3c3e0aab9d523dccc5e490b9c8a16280337f66144ec5bb1741a82": {
-        "title": "5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-3",
-        "published_date": "Thu, 15 Jan 2026 11:35:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123032"
-      },
-      "4ccd01eeddc30767816d65a8ea2003ac184adb36bc641ae3419a71f70dd20da4": {
-        "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
-        "link": "https://www.qbitai.com/2026/01/369684.html",
-        "published_date": "Thu, 15 Jan 2026 06:42:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123035"
-      },
-      "3ec3008cbdcef1036277517d53fe59da0fd5319dc319cba9a06b4af8a2ed7f8d": {
-        "title": "不得了，这个新技术把视频压缩到了0.02%！",
-        "link": "https://www.qbitai.com/2026/01/369609.html",
-        "published_date": "Thu, 15 Jan 2026 06:21:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123036"
-      },
-      "5303e72da9c6cff12574b9594c1056f2157ce77d6eb5ed633ea94c81522d8559": {
-        "title": "实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-6",
-        "published_date": "Thu, 15 Jan 2026 12:11:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123038"
-      },
       "ad5607d0e072175c7424e1446e94643253907571341db3f5ea91086114441baa": {
         "title": "国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案",
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-13",
@@ -6851,13 +6851,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-14/",
         "published_date": "Sat, 14 Feb 2026 07:25:00 GMT",
         "first_seen": "2026-02-14T05:47:15.734900"
+      },
+      "2948468c116ad9fc290afe0a981acd0a7cad5cce4a0d721e066b80bba692cade": {
+        "title": "「上下文学习」之后，腾讯混元第二篇公开研究：精准定位RLVR训练崩溃的“罪魁祸首”Token",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-4",
+        "published_date": "Sat, 14 Feb 2026 16:29:00 GMT",
+        "first_seen": "2026-02-14T08:36:06.237876"
+      },
+      "f4811792a41e893196d710e22fc83192797f8f5cbe3e63cb9997ea05839099c6": {
+        "title": "《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-3",
+        "published_date": "Sat, 14 Feb 2026 16:01:00 GMT",
+        "first_seen": "2026-02-14T08:36:06.237883"
+      },
+      "106963e65d4432933c544ec4e2c159dd878d6a38f55bef5471e59143535aadc1": {
+        "title": "世界模型原生新一代范式！极佳视界斩获全球第一后，GigaBrain-0.5M*再进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-5",
+        "published_date": "Sat, 14 Feb 2026 16:34:00 GMT",
+        "first_seen": "2026-02-14T08:36:06.237885"
+      },
+      "9b0f37276c861976b134f3f27f0accb45dc12635cdf363fc47e856281be70011": {
+        "title": "外卖员“活久见”：跑腿1km，帮Waymo关了个门",
+        "link": "https://www.qbitai.com/2026/02/380166.html",
+        "published_date": "Sat, 14 Feb 2026 07:14:00 GMT",
+        "first_seen": "2026-02-14T08:36:06.237887"
+      },
+      "a356b3bbf0a14081531a7b123fe8e798852edbe04be53650fd005823b64ec84c": {
+        "title": "情人节暴击！下跪求婚的可以是机器人了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-2",
+        "published_date": "Sat, 14 Feb 2026 15:56:00 GMT",
+        "first_seen": "2026-02-14T08:36:06.237889"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-14T05:47:15.544818",
-    "Finance": "2026-02-14T05:47:15.580543",
-    "Ai": "2026-02-14T05:47:15.734902"
+    "Technology": "2026-02-14T08:35:56.112813",
+    "Finance": "2026-02-14T08:35:56.147044",
+    "Ai": "2026-02-14T08:36:06.237890"
   }
 }

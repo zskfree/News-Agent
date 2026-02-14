@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Feb 2026 05:46:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Feb 2026 05:47:15 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 08:36:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI在多维度刷新亲吻数纪录！中国团队回答牛顿300年数学之问</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14</link>
-      <description>&lt;![CDATA[AI在多维度刷新亲吻数纪录！中国团队回答牛顿300年数学之问]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14</guid>
+      <title>「上下文学习」之后，腾讯混元第二篇公开研究：精准定位RLVR训练崩溃的“罪魁祸首”Token</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-14-4</link>
+      <description>&lt;![CDATA[「上下文学习」之后，腾讯混元第二篇公开研究：精准定位RLVR训练崩溃的“罪魁祸首”Token]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5.2改写粒子物理教科书！人类手算32项算不出，AI一行公式搞定</title>
-      <link>https://www.qbitai.com/2026/02/380154.html</link>
-      <description>&lt;![CDATA[GPT-5.2改写粒子物理教科书！人类手算32项算不出，AI一行公式搞定]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 04:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380154.html</guid>
+      <title>《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-14-3</link>
+      <description>&lt;![CDATA[《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>万亿思考模型新速度！蚂蚁开源Ring-2.5-1T：IMO金牌水平，强；混合线性架构，快！</title>
-      <link>https://www.qbitai.com/2026/02/380131.html</link>
-      <description>&lt;![CDATA[万亿思考模型新速度！蚂蚁开源Ring-2.5-1T：IMO金牌水平，强；混合线性架构，快！]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 03:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380131.html</guid>
+      <title>世界模型原生新一代范式！极佳视界斩获全球第一后，GigaBrain-0.5M*再进化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-14-5</link>
+      <description>&lt;![CDATA[世界模型原生新一代范式！极佳视界斩获全球第一后，GigaBrain-0.5M*再进化]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-02-14日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-14/</link>
-      <description>&lt;![CDATA[2026-02-14日刊]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-14/</guid>
+      <title>外卖员“活久见”：跑腿1km，帮Waymo关了个门</title>
+      <link>https://www.qbitai.com/2026/02/380166.html</link>
+      <description>&lt;![CDATA[外卖员“活久见”：跑腿1km，帮Waymo关了个门]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380166.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>情人节暴击！下跪求婚的可以是机器人了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-14-2</link>
+      <description>&lt;![CDATA[情人节暴击！下跪求婚的可以是机器人了]]&gt;</description>
+      <pubDate>Sat, 14 Feb 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-2</guid>
       <category>Ai</category>
     </item>
   </channel>
