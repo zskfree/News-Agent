@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-14 23:27
+**最后更新时间**: 2026-02-15 05:57
+
+---
+
+## 🆕 最新更新 (2026-02-15 05:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？](https://www.tmtpost.com/7880876.html)
+**发布时间**: 2026-02-15 13:00
+
+#### [美团被AI扔了一个二向箔](https://www.tmtpost.com/7880258.html)
+**发布时间**: 2026-02-15 12:00
+
+#### [千问DAU逼近豆包，阿里等来顺风局？](https://www.tmtpost.com/7880850.html)
+**发布时间**: 2026-02-15 11:30
+
+#### [Seedance2.0，惹怒迪士尼](https://www.tmtpost.com/7880797.html)
+**发布时间**: 2026-02-15 10:30
+
+#### [姚顺宇率领谷歌复仇Anthropic，“没有你才更好”](https://www.tmtpost.com/7880733.html)
+**发布时间**: 2026-02-15 10:00
+
+#### [黄仁勋缺席新德里：英伟达的“印度棋局”，卡在了基建还是时机？](https://www.tmtpost.com/7881196.html)
+**发布时间**: 2026-02-15 09:48
+
+#### [黑石的“酒店时代”](https://www.tmtpost.com/7879845.html)
+**发布时间**: 2026-02-15 09:30
+
+#### [“罗贾之争”告一段落，预制菜标准出台后会迎来风口吗？](https://www.tmtpost.com/7880037.html)
+**发布时间**: 2026-02-15 09:00
+
+#### [机器人都想上，春晚不够用了](https://www.tmtpost.com/7880735.html)
+**发布时间**: 2026-02-15 08:30
+
+#### [具身智能守年关](https://www.tmtpost.com/7880908.html)
+**发布时间**: 2026-02-15 08:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CloudFront添加源站mTLS认证，实现端到端零信任](https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-15 12:00
+
+#### [Kubernetes驱动AI扩展，文化转型成为关键因素](https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-15 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏](https://sspai.com/post/106374)
+**发布时间**: 2026-02-15 10:00
 
 ---
 

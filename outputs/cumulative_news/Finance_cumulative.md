@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-14 23:27
+**最后更新时间**: 2026-02-15 05:57
+
+---
+
+## 🆕 最新更新 (2026-02-15 05:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine’s survival still an ‘open question’, Kyiv mayor warns](https://www.ft.com/content/a140cba5-d36c-47b7-95cb-57218fa5874c)
+**发布时间**: 2026-02-15 05:00
+
+#### [‘The best we can hope for’: Rubio’s Munich unity appeal fails to woo Europe](https://www.ft.com/content/94633f65-04c0-4cea-b682-98c17720eebc)
+**发布时间**: 2026-02-15 05:00
+
+#### [Will Keir Starmer shift to the left?](https://www.ft.com/content/7683e519-49f5-4a6c-b2fe-42674548bfcc)
+**发布时间**: 2026-02-15 05:00
+
+#### [The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)
+**发布时间**: 2026-02-15 05:00
+
+#### [The age of the disposable leader](https://www.ft.com/content/89985a10-1283-40fa-8dc1-9daa6c360b45)
+**发布时间**: 2026-02-15 05:00
+
+#### [End of EV euphoria triggers $65bn hit for carmakers](https://www.ft.com/content/2daa41c3-3721-46d1-8954-7c43d5149995)
+**发布时间**: 2026-02-15 05:00
+
+#### [Investors reluctant to ‘buy the dip’ after AI scares](https://www.ft.com/content/2432a3ac-7dbc-4c5c-8921-3a34c2c68ccd)
+**发布时间**: 2026-02-15 05:00
+
+#### [Trade or trap? Japan investors bet on Takaichi after landslide](https://www.ft.com/content/29c46363-9d8f-42f7-8805-f9995e0eadad)
+**发布时间**: 2026-02-15 05:00
+
+#### [Franc’s relentless rise alarms Swiss companies](https://www.ft.com/content/3fc82496-1132-4cb3-a967-25c4c274fbea)
+**发布时间**: 2026-02-15 05:00
 
 ---
 

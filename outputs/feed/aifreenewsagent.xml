@@ -6,7 +6,7 @@
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Sat, 14 Feb 2026 23:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Feb 2026 23:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 05:58:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>多模态Deep Research，终于有了「可核验」的评测标准</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-6</link>
-      <description>&lt;![CDATA[多模态Deep Research，终于有了「可核验」的评测标准]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-9</link>
-      <description>&lt;![CDATA[字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-9</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了</title>
-      <link>https://www.qbitai.com/2026/02/380347.html</link>
-      <description>&lt;![CDATA[「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380347.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-7</link>
-      <description>&lt;![CDATA[这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-7</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-14-8</link>
-      <description>&lt;![CDATA[Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了]]&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-14-8</guid>
+      <title>2026-02-15日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-15/</link>
+      <description>&lt;![CDATA[2026-02-15日刊]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-15/</guid>
       <category>Ai</category>
     </item>
   </channel>
