@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 08:36:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 08:36:34 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 23:29:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kubernetes驱动AI扩展，文化转型成为关键因素</title>
-      <link>https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes驱动AI扩展，文化转型成为关键因素]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图</title>
+      <link>https://www.tmtpost.com/7881567.html</link>
+      <description>&lt;![CDATA[芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881567.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CloudFront添加源站mTLS认证，实现端到端零信任</title>
-      <link>https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CloudFront添加源站mTLS认证，实现端到端零信任]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SaaS业数千亿市值蒸发：AI如何变革组织架构？</title>
+      <link>https://www.tmtpost.com/7880673.html</link>
+      <description>&lt;![CDATA[SaaS业数千亿市值蒸发：AI如何变革组织架构？]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 18:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7880673.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千问爆火，总裁吴嘉首次公开回应</title>
-      <link>https://www.tmtpost.com/7881554.html</link>
-      <description>&lt;![CDATA[千问爆火，总裁吴嘉首次公开回应]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7881554.html</guid>
+      <title>晶圆厂疯建，光刻机却卖不动了</title>
+      <link>https://www.tmtpost.com/7881445.html</link>
+      <description>&lt;![CDATA[晶圆厂疯建，光刻机却卖不动了]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 18:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881445.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团被AI扔了一个二向箔</title>
-      <link>https://www.tmtpost.com/7880258.html</link>
-      <description>&lt;![CDATA[美团被AI扔了一个二向箔]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880258.html</guid>
+      <title>CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势</title>
+      <link>https://www.tmtpost.com/7881723.html</link>
+      <description>&lt;![CDATA[CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881723.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>保险界的“南北对决”：蚂蚁保拼技术，微保拼人情</title>
-      <link>https://www.tmtpost.com/7880570.html</link>
-      <description>&lt;![CDATA[保险界的“南北对决”：蚂蚁保拼技术，微保拼人情]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880570.html</guid>
+      <title>37万人把自己租给AI、迪士尼向字节“开战”</title>
+      <link>https://www.tmtpost.com/7881503.html</link>
+      <description>&lt;![CDATA[37万人把自己租给AI、迪士尼向字节“开战”]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881503.html</guid>
       <category>Technology</category>
     </item>
   </channel>

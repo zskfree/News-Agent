@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1ad4b9ee5b1881db4fa82d93dad2759c615601b40708d009b8ecfb895a476421": {
-        "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
-        "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 20:02:00 GMT",
-        "first_seen": "2026-01-16T23:25:06.640969"
-      },
-      "57bc3c9e21cd7541625c2ed3f52471441850d748c0a4b19de1c6474693acd5ee": {
-        "title": "TSMC Rallies After Beating Earnings Forecasts, Lifts 2026 Outlook",
-        "link": "https://www.tmtpost.com/7845243.html",
-        "published_date": "Fri, 16 Jan 2026 11:18:00 GMT",
-        "first_seen": "2026-01-16T23:25:06.640977"
-      },
-      "ec50d440d4ca4a171d095b52052edec34f6dcd4ef1d511fbf7244e41176a0ed7": {
-        "title": "豆包和OpenAI，都在押注同一个未来 | 「钛度号」作品月榜第134期",
-        "link": "https://www.tmtpost.com/7844641.html",
-        "published_date": "Fri, 16 Jan 2026 17:13:00 GMT",
-        "first_seen": "2026-01-16T23:25:06.640980"
-      },
-      "532e2befd11a8baec08fc58b06069bd3ef7e8009a0f6dd3cc73490c350ff26cd": {
-        "title": "受够了Copilot的“霸王条款”？GitHub全球宕机遭怒骂，引爆开发者“大逃离”！",
-        "link": "https://www.infoq.cn/article/H16Z6V1Cz3Sf1qeb4fwr?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 18:00:00 GMT",
-        "first_seen": "2026-01-16T23:25:06.640982"
-      },
-      "b155e7dfb90d62c01c6a577e69782bd99c06b8d41aef0db59fc3124653ac831f": {
-        "title": "强脑科技IPO：马斯克最大对手，秘密赴港上市了？",
-        "link": "https://www.tmtpost.com/7845112.html",
-        "published_date": "Fri, 16 Jan 2026 15:29:00 GMT",
-        "first_seen": "2026-01-16T23:25:06.640983"
-      },
       "a3dff4705866b6b31f2688bdba9c6fdbf7d83a179ef507c96ca688519d8a243f": {
         "title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
         "link": "https://www.tmtpost.com/7846009.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7880570.html",
         "published_date": "Sun, 15 Feb 2026 14:00:00 GMT",
         "first_seen": "2026-02-15T08:36:34.186175"
+      },
+      "a159c1149313dfd2e06ba6998b8b2f246ffa4b6648ec86eeafefdc4260f2ba16": {
+        "title": "芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图",
+        "link": "https://www.tmtpost.com/7881567.html",
+        "published_date": "Sun, 15 Feb 2026 17:49:00 GMT",
+        "first_seen": "2026-02-15T23:29:29.289351"
+      },
+      "bab0b7ee4f9e09e894f9e3928559888c6b4b003a6ded1755a03b68064f87e482": {
+        "title": "SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+        "link": "https://www.tmtpost.com/7880673.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:29:29.289360"
+      },
+      "97e0ea35c312923aaa1dc6ced30886c5913a30bb53e1fc9bd52a9e97a7307661": {
+        "title": "晶圆厂疯建，光刻机却卖不动了",
+        "link": "https://www.tmtpost.com/7881445.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:29:29.289363"
+      },
+      "ce1861e88fe358f2157c917b184074ce6c97f0ce1659b8a0de22db346fb2ee86": {
+        "title": "CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势",
+        "link": "https://www.tmtpost.com/7881723.html",
+        "published_date": "Sun, 15 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-15T23:29:29.289365"
+      },
+      "5098580f9c5c067555b22b27d0f16d43a19ace0c19d2cf9cf6b9fd2c14fa1c88": {
+        "title": "37万人把自己租给AI、迪士尼向字节“开战”",
+        "link": "https://www.tmtpost.com/7881503.html",
+        "published_date": "Sun, 15 Feb 2026 16:31:00 GMT",
+        "first_seen": "2026-02-15T23:29:29.289366"
       }
     },
     "Finance": {
-      "138e89fc07f1dddeccf6c982e9374abfe1c759acad24645eeaf6ac197b7bac1e": {
-        "title": "The threat to the global economy from Trump’s war on the Fed",
-        "link": "https://www.ft.com/content/77f43154-8ce1-45ab-bcfd-23b77ee06f21",
-        "published_date": "Fri, 16 Jan 2026 21:47:00 GMT",
-        "first_seen": "2026-01-16T23:24:41.871450"
-      },
-      "da2e068f7a181f8bfd1a602a29224f31ee5f0c6eb8fbe15e46ee857b23d3acfd": {
-        "title": "Populism makes managing global economy harder, Andrew Bailey warns",
-        "link": "https://www.ft.com/content/4da5be40-9807-40d2-8c11-56af67f055a2",
-        "published_date": "Fri, 16 Jan 2026 15:33:00 GMT",
-        "first_seen": "2026-01-16T23:24:41.871459"
-      },
-      "69686b83fe1991fb7d51f903366440abf3faa8518d28b0f84c7fe30d9e20f8da": {
-        "title": "Trump tried to give Powell one last shove out the door. Now he’s likely to stay at the Fed.",
-        "link": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
-        "published_date": "Fri, 16 Jan 2026 19:58:00 GMT",
-        "first_seen": "2026-01-16T23:24:41.871462"
-      },
-      "d85fb871a45d78a19cf9019c422c45733c1c0847e557fee2981a79fca1967959": {
-        "title": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
-        "link": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
-        "published_date": "Fri, 16 Jan 2026 22:42:00 GMT",
-        "first_seen": "2026-01-16T23:24:41.871464"
-      },
-      "40eec329777d61955485ec5b5734c21f4a10e83a7fa8a26767db94dee827f214": {
-        "title": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
-        "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
-        "published_date": "Fri, 16 Jan 2026 20:40:00 GMT",
-        "first_seen": "2026-01-16T23:24:41.871466"
-      },
       "3503e30cb61693eac9e25d7850d99cc6dcc8784e00d447c3f388f7cb0ff8693a": {
         "title": "Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’",
         "link": "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945",
@@ -4629,33 +4599,39 @@
         "link": "https://www.ft.com/content/a140cba5-d36c-47b7-95cb-57218fa5874c",
         "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-15T05:58:14.155419"
+      },
+      "02f5b31eed69b229a2bfa4c22e2245a4900466aa9b0a19a0956bc55a42a6075d": {
+        "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
+        "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 22:09:00 GMT",
+        "first_seen": "2026-02-15T23:29:40.104449"
+      },
+      "244760967079eb93170539a8e5f2bf51903b1a8e2d84dd467fd47de16cbfb951": {
+        "title": "Rents are finally falling in some parts of the country. Here’s who is actually feeling the relief.",
+        "link": "https://www.marketwatch.com/story/rents-are-finally-falling-in-some-parts-of-the-country-heres-who-is-actually-feeling-the-relief-08d1a6dd?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 20:22:00 GMT",
+        "first_seen": "2026-02-15T23:29:40.104455"
+      },
+      "a86a5b420228a8adaea0312eec1964eb7392a913ff3de5e58c36ac2e1b0a6eba": {
+        "title": "UK to tighten online safety laws to include AI chatbots",
+        "link": "https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1",
+        "published_date": "Sun, 15 Feb 2026 22:30:00 GMT",
+        "first_seen": "2026-02-15T23:29:40.104458"
+      },
+      "72bb50341388d9a01f27e0009c56dfb3ed54a5c99c1eaa1ed495d3a2f15aa5ec": {
+        "title": "Ottawa’s shift away from US defence   manufacturers aims to create 125,000 jobs",
+        "link": "https://www.ft.com/content/cde7c236-e62f-4ced-9667-7115f16a40e6",
+        "published_date": "Sun, 15 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-15T23:29:40.104460"
+      },
+      "859e111aea62cffab106df15b6a230277d1a984808b96b18c75ffa60a3b1c439": {
+        "title": "Russia’s Wagner Group pivots to European sabotage, say western officials",
+        "link": "https://www.ft.com/content/dbd1d803-ab37-43f1-920f-fce74952313a",
+        "published_date": "Sun, 15 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-15T23:29:40.104461"
       }
     },
     "Ai": {
-      "1a39b9de661f08e129f4d66c6b910e03ca45f58b955810f8cce5d271bb2fbe6f": {
-        "title": "2026-01-17日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-17/",
-        "published_date": "Sat, 17 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-16T23:24:42.023155"
-      },
-      "13075080b6fce552e97d158723e6eedb07fbf491b572d8dd02b06d6d15608be1": {
-        "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
-        "link": "https://www.qbitai.com/2026/01/370069.html",
-        "published_date": "Fri, 16 Jan 2026 10:06:00 GMT",
-        "first_seen": "2026-01-16T23:24:42.023163"
-      },
-      "1719d2b684639c74a8d81550b55ad7dcd8db28e1cedade2ae043369449689e6d": {
-        "title": "福特战略掉头！拥抱中国比亚迪，弃用韩国LG",
-        "link": "https://www.qbitai.com/2026/01/370034.html",
-        "published_date": "Fri, 16 Jan 2026 09:12:00 GMT",
-        "first_seen": "2026-01-16T23:24:42.023165"
-      },
-      "2d2a33c3178419282b1b23b1865a7d15100cb848a05c0706d0a31eaa3c119e5d": {
-        "title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-7",
-        "published_date": "Fri, 16 Jan 2026 13:18:00 GMT",
-        "first_seen": "2026-01-16T23:24:42.023166"
-      },
       "fceee1cd1b1ed9c53884de237271c826d163c4a69abbfa4d143f18cf7f11828d": {
         "title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
         "link": "https://www.jiqizhixin.com/articles/2026-01-17-3",
@@ -6797,13 +6773,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-15/",
         "published_date": "Sun, 15 Feb 2026 07:18:00 GMT",
         "first_seen": "2026-02-15T05:58:14.304862"
+      },
+      "9caf1a34f0e0110633bcc8bc7670459d2bc8cfc2d0087daf201151a4df12883d": {
+        "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-4",
+        "published_date": "Sun, 15 Feb 2026 19:06:00 GMT",
+        "first_seen": "2026-02-15T23:29:54.352760"
+      },
+      "bd1bb6592c31294db51235bda6e718835e7b9e532ecc9213615999f97ec76e80": {
+        "title": "ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15",
+        "published_date": "Sun, 15 Feb 2026 18:32:00 GMT",
+        "first_seen": "2026-02-15T23:29:54.352766"
+      },
+      "d11a5f36a3f86b0033ad934e86f1d23246d8240dd096193af56d4b905eff4468": {
+        "title": "还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-6",
+        "published_date": "Sun, 15 Feb 2026 19:15:00 GMT",
+        "first_seen": "2026-02-15T23:29:54.352768"
+      },
+      "2893ed287e21106343850467c2947170508730cbab53498c7c6c0beb7b58ef5c": {
+        "title": "AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-5",
+        "published_date": "Sun, 15 Feb 2026 19:10:00 GMT",
+        "first_seen": "2026-02-15T23:29:54.352770"
+      },
+      "af6ee64b6d568865b2ca305c9886c146ebb14c56c133474a6789fe6cd30177ee": {
+        "title": "从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——",
+        "link": "https://www.qbitai.com/2026/02/380405.html",
+        "published_date": "Sun, 15 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-15T23:29:54.352772"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-15T08:36:34.186177",
-    "Finance": "2026-02-15T05:58:14.155422",
-    "Ai": "2026-02-15T05:58:14.304870"
+    "Technology": "2026-02-15T23:29:29.289369",
+    "Finance": "2026-02-15T23:29:40.104464",
+    "Ai": "2026-02-15T23:29:54.352773"
   }
 }

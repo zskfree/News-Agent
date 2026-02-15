@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-15 08:36
+**最后更新时间**: 2026-02-15 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-15 23:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK to tighten online safety laws to include AI chatbots](https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1)
+**发布时间**: 2026-02-15 22:30
+
+#### [Russia’s Wagner Group pivots to European sabotage, say western officials](https://www.ft.com/content/dbd1d803-ab37-43f1-920f-fce74952313a)
+**发布时间**: 2026-02-15 18:00
+
+#### [Yes, we should preserve western culture but not like this . . .](https://www.ft.com/content/9fbc4ae4-c279-44fa-9d59-d49bc970c4ac)
+**发布时间**: 2026-02-15 16:00
+
+#### [Ottawa’s shift away from US defence   manufacturers aims to create 125,000 jobs](https://www.ft.com/content/cde7c236-e62f-4ced-9667-7115f16a40e6)
+**发布时间**: 2026-02-15 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes](https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories)
+**发布时间**: 2026-02-15 22:09
+
+#### [Rents are finally falling in some parts of the country. Here’s who is actually feeling the relief.](https://www.marketwatch.com/story/rents-are-finally-falling-in-some-parts-of-the-country-heres-who-is-actually-feeling-the-relief-08d1a6dd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-15 20:22
+
+#### [‘Am I crazy?’ My boyfriend’s parents say he doesn’t earn enough to marry me. Who is to blame here?](https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories)
+**发布时间**: 2026-02-15 19:31
+
+#### [Is the stock market open tomorrow for Presidents Day? Will USPS, FedEx and UPS make deliveries?](https://www.marketwatch.com/story/is-the-stock-market-open-on-presidents-day-will-usps-fedex-and-ups-make-deliveries-31d15912?mod=mw_rss_topstories)
+**发布时间**: 2026-02-15 17:25
+
+#### [Here are 7 charts guaranteed to stress you out about the stock market](https://www.marketwatch.com/story/here-are-7-charts-guaranteed-to-stress-you-out-about-the-stock-market-085b23c1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-15 17:00
 
 ---
 
