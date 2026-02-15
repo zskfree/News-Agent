@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 05:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 05:58:01 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 08:36:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？</title>
-      <link>https://www.tmtpost.com/7880876.html</link>
-      <description>&lt;![CDATA[一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880876.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>具身智能守年关</title>
-      <link>https://www.tmtpost.com/7880908.html</link>
-      <description>&lt;![CDATA[具身智能守年关]]&gt;</description>
+      <title>Kubernetes驱动AI扩展，文化转型成为关键因素</title>
+      <link>https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes驱动AI扩展，文化转型成为关键因素]]&gt;</description>
       <pubDate>Sun, 15 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880908.html</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>姚顺宇率领谷歌复仇Anthropic，“没有你才更好”</title>
-      <link>https://www.tmtpost.com/7880733.html</link>
-      <description>&lt;![CDATA[姚顺宇率领谷歌复仇Anthropic，“没有你才更好”]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880733.html</guid>
+      <title>CloudFront添加源站mTLS认证，实现端到端零信任</title>
+      <link>https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[CloudFront添加源站mTLS认证，实现端到端零信任]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千问DAU逼近豆包，阿里等来顺风局？</title>
-      <link>https://www.tmtpost.com/7880850.html</link>
-      <description>&lt;![CDATA[千问DAU逼近豆包，阿里等来顺风局？]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880850.html</guid>
+      <title>千问爆火，总裁吴嘉首次公开回应</title>
+      <link>https://www.tmtpost.com/7881554.html</link>
+      <description>&lt;![CDATA[千问爆火，总裁吴嘉首次公开回应]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881554.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋缺席新德里：英伟达的“印度棋局”，卡在了基建还是时机？</title>
-      <link>https://www.tmtpost.com/7881196.html</link>
-      <description>&lt;![CDATA[黄仁勋缺席新德里：英伟达的“印度棋局”，卡在了基建还是时机？]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7881196.html</guid>
+      <title>美团被AI扔了一个二向箔</title>
+      <link>https://www.tmtpost.com/7880258.html</link>
+      <description>&lt;![CDATA[美团被AI扔了一个二向箔]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7880258.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>保险界的“南北对决”：蚂蚁保拼技术，微保拼人情</title>
+      <link>https://www.tmtpost.com/7880570.html</link>
+      <description>&lt;![CDATA[保险界的“南北对决”：蚂蚁保拼技术，微保拼人情]]&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7880570.html</guid>
       <category>Technology</category>
     </item>
   </channel>

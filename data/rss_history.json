@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1ef2e2e473df743c3e0bd89685945815a11994356431db7821006912c2240d6e": {
-        "title": "从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？",
-        "link": "https://sspai.com/post/105008",
-        "published_date": "Fri, 16 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505498"
-      },
-      "0356d8a44acef23b47c49672c33f66bb0a0dfb3a1e1a75ed6b5d98c41a62e663": {
-        "title": "亚马逊云科技发布第五代 Graviton 处理器，M9g 实例同步登场",
-        "link": "https://www.infoq.cn/article/xtXzsEPA5rVb6ZGfpUyh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505504"
-      },
-      "b49993eeab4306db33fe930186a6a705112b473dc414d6369fcc2c316e0f4504": {
-        "title": "台积电最新业绩详解，豪掷超520亿押注未来",
-        "link": "https://www.tmtpost.com/7845160.html",
-        "published_date": "Fri, 16 Jan 2026 14:34:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505506"
-      },
-      "2869c4604479efa65a9681959531b0ed43f117aec36b2e2009bee2337c7b72ce": {
-        "title": "谷歌发布 Gemma Scope 2，深化对 LLM 行为的理解",
-        "link": "https://www.infoq.cn/article/QAVo2JuWaAElyqUA6joF?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 10:36:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505508"
-      },
-      "2cd7066431dacb1fba624a60f518b656fef66bc812f809b67dafc0ac376e4fbe": {
-        "title": "马斯克领衔，脑机接口商业化元年来了？",
-        "link": "https://www.tmtpost.com/7845419.html",
-        "published_date": "Fri, 16 Jan 2026 16:02:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505510"
-      },
       "1ad4b9ee5b1881db4fa82d93dad2759c615601b40708d009b8ecfb895a476421": {
         "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
         "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7881196.html",
         "published_date": "Sun, 15 Feb 2026 09:48:00 GMT",
         "first_seen": "2026-02-15T05:58:01.478618"
+      },
+      "fbd9e6fa76ecf8da7816d47c1e6441f6ea5ad272c0f3dab10f7136015e259b24": {
+        "title": "Kubernetes驱动AI扩展，文化转型成为关键因素",
+        "link": "https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-15T08:36:34.186160"
+      },
+      "8ececc60a56cd016a19c736d8929053c4601246d5aac687216fb91ca286cc499": {
+        "title": "CloudFront添加源站mTLS认证，实现端到端零信任",
+        "link": "https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-15T08:36:34.186169"
+      },
+      "82180e2d30bc77bbd3f408d9dafed92b9d5d7736b0ead5f926118d68788a6916": {
+        "title": "千问爆火，总裁吴嘉首次公开回应",
+        "link": "https://www.tmtpost.com/7881554.html",
+        "published_date": "Sun, 15 Feb 2026 16:17:00 GMT",
+        "first_seen": "2026-02-15T08:36:34.186171"
+      },
+      "ce00c84af0605030d75f787063e9d50c5b062932d3910cdda50a804f1660cc36": {
+        "title": "美团被AI扔了一个二向箔",
+        "link": "https://www.tmtpost.com/7880258.html",
+        "published_date": "Sun, 15 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-15T08:36:34.186173"
+      },
+      "ac2dab93049d5c57da3a8c5f16257d37be2757da2ca24aad1d16d1ecd648ff3d": {
+        "title": "保险界的“南北对决”：蚂蚁保拼技术，微保拼人情",
+        "link": "https://www.tmtpost.com/7880570.html",
+        "published_date": "Sun, 15 Feb 2026 14:00:00 GMT",
+        "first_seen": "2026-02-15T08:36:34.186175"
       }
     },
     "Finance": {
@@ -4632,36 +4632,6 @@
       }
     },
     "Ai": {
-      "66789673c202093ced94226268eeba9ba83d0ea85da2dc47ffcb12eea45b4cc7": {
-        "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-        "published_date": "Fri, 16 Jan 2026 14:04:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988009"
-      },
-      "3ee7a2224e92f8844845e6b19c087ee2d7739d2cc892ac2c0535f0cb921a34de": {
-        "title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-2",
-        "published_date": "Fri, 16 Jan 2026 10:19:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988017"
-      },
-      "8c6ca733a3339df9b40c99be521300029bc0b3fd5ac66f409ecdb83034798e2e": {
-        "title": "刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-4",
-        "published_date": "Fri, 16 Jan 2026 10:32:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988019"
-      },
-      "65c064cc2dde081d0aaaaa94b1f024d7b1fb5ef74cd92b76b0d1f660dc75101a": {
-        "title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-        "published_date": "Fri, 16 Jan 2026 14:03:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988021"
-      },
-      "c94c1c065bb8cf037fa07f35977e85bf896e845d1c0636b7227a0c16e575a019": {
-        "title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-        "published_date": "Fri, 16 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988023"
-      },
       "1a39b9de661f08e129f4d66c6b910e03ca45f58b955810f8cce5d271bb2fbe6f": {
         "title": "2026-01-17日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-17/",
@@ -6832,7 +6802,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-15T05:58:01.478620",
+    "Technology": "2026-02-15T08:36:34.186177",
     "Finance": "2026-02-15T05:58:14.155422",
     "Ai": "2026-02-15T05:58:14.304870"
   }
