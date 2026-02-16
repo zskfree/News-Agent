@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c91c07228b57d0d3193d6ed7ab99f82642fcc9cdd02f5f5df4de9c9eb834ba22": {
-        "title": "烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？",
-        "link": "https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 20:00:00 GMT",
-        "first_seen": "2026-01-17T23:22:43.110436"
-      },
-      "3d8473349a369887e38cabf062b7a4cea8288a19a4489d9ad40d49fd52dfdeb9": {
-        "title": "仅用一周时间，谷歌就让OpenAI认清现实",
-        "link": "https://www.tmtpost.com/7846324.html",
-        "published_date": "Sat, 17 Jan 2026 16:59:00 GMT",
-        "first_seen": "2026-01-17T23:22:43.110443"
-      },
-      "50eaa4e7a1caf669eff2a7fd77052bf90b2141a4b81747eb759136ba4fced477": {
-        "title": "告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？",
-        "link": "https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 17 Jan 2026 19:37:00 GMT",
-        "first_seen": "2026-01-17T23:22:43.110445"
-      },
-      "dc1bab8a806052322e84f0ae9adaae3b5eeff1a0cc04128938c7f567577c4e33": {
-        "title": "2026，AI音乐跃迁元年？",
-        "link": "https://www.tmtpost.com/7846436.html",
-        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
-        "first_seen": "2026-01-17T23:22:43.110447"
-      },
-      "90535b29fa504cd97f621fd437f7882f4e13832b0fe92f1266c2fc2774a6c532": {
-        "title": "这轮对外卖行业“调查评估”，现阶段主要看什么？",
-        "link": "https://www.tmtpost.com/7846042.html",
-        "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
-        "first_seen": "2026-01-17T23:22:43.110449"
-      },
       "e009b9382c59702b99c0912a93f55a495d54068abc399bc421cfe24ea0f1ac20": {
         "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
         "link": "https://www.tmtpost.com/7845741.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7881777.html",
         "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
         "first_seen": "2026-02-16T08:52:35.414730"
+      },
+      "0bea05d1104633633ed55857a40edd3cf7ec82ab46d03aa9e01168b8477a4a21": {
+        "title": "小鹏为什么这么“烦”L3",
+        "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
+        "published_date": "Mon, 16 Feb 2026 15:57:00 GMT",
+        "first_seen": "2026-02-16T23:31:46.690588"
+      },
+      "a1ebed531fea793755fe8982a13c772a754784ac02285e712466f2452f5fbb20": {
+        "title": "OpenClaw背后的男人，被奥特曼“招安了”",
+        "link": "https://www.tmtpost.com/7882178.html",
+        "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
+        "first_seen": "2026-02-16T23:31:46.690599"
+      },
+      "b7ab0c74fcc1ade0dec45e4430b822861242bc80d563e6d39a68cfb36055673a": {
+        "title": "火山引擎的野心，藏在Seed2.0里",
+        "link": "https://www.tmtpost.com/7882249.html",
+        "published_date": "Mon, 16 Feb 2026 20:00:00 GMT",
+        "first_seen": "2026-02-16T23:31:46.690602"
+      },
+      "297a18d0d256fddeafe995b6fa833dca81ace68847e1b382a00b78eedef84462": {
+        "title": "群核，十年家装换取AI船票",
+        "link": "https://www.tmtpost.com/7882275.html",
+        "published_date": "Mon, 16 Feb 2026 19:55:00 GMT",
+        "first_seen": "2026-02-16T23:31:46.690604"
+      },
+      "578829fff113f9cd72f8d88b4a830fd984167e10409ea6c4ad91e4ae3bcca5cd": {
+        "title": "Seedance2.0震撼破圈，影剧综行业如何“应用”？",
+        "link": "https://www.tmtpost.com/7881782.html",
+        "published_date": "Mon, 16 Feb 2026 09:27:00 GMT",
+        "first_seen": "2026-02-16T23:31:46.690606"
       }
     },
     "Finance": {
-      "f72eb4b472dfa6576ec0de160b500033ecc7ded313ac6ef05ce7beb821bbc933": {
-        "title": "Private credit investors pull $7bn from Wall Street’s biggest funds",
-        "link": "https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468",
-        "published_date": "Sat, 17 Jan 2026 12:00:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.053995"
-      },
-      "9f27e17d3d10d7c7fc11fed3136872c7021f3adf1cd133e050260f3231a3d9cb": {
-        "title": "14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits",
-        "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
-        "published_date": "Sat, 17 Jan 2026 19:35:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.054004"
-      },
-      "fe60abd392ee10d6670b0161a9acecde987a75bec67d2afc2924137f07b81dec": {
-        "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
-        "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
-        "published_date": "Sat, 17 Jan 2026 19:15:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.054006"
-      },
-      "e582951d647dd4d72c6b392ad888c853ad0bf35a28ca1e91dc644f66d0cb710c": {
-        "title": "EU and Mercosur bloc sign trade deal after decades of talks",
-        "link": "https://www.ft.com/content/d894fa07-72a5-4081-8311-42127f20ab76",
-        "published_date": "Sat, 17 Jan 2026 16:51:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.054008"
-      },
-      "fc96879053c0dc098be3d40c35a5ad2bcd6525aaea187660ad182bb54918cf4e": {
-        "title": "‘Your whole life is on the phone.’ Should companies like Verizon be forced to refund you the next time there’s a major outage?",
-        "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
-        "published_date": "Sat, 17 Jan 2026 18:08:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.054010"
-      },
       "69bd2eb5ac335cfdb1a1af6ae41156e571a194afbb27d1ad0f0afce9cbcfec4b": {
         "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
         "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
@@ -4647,21 +4617,39 @@
         "link": "https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories",
         "published_date": "Mon, 16 Feb 2026 08:50:00 GMT",
         "first_seen": "2026-02-16T08:52:35.448551"
+      },
+      "fde63bb040d3ede143cb661357791c9121a59310ea1f85cc55c8f6b2ca3bc098": {
+        "title": "Fund managers take most bearish stance on dollar for a decade",
+        "link": "https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2",
+        "published_date": "Mon, 16 Feb 2026 12:49:00 GMT",
+        "first_seen": "2026-02-16T23:32:00.460283"
+      },
+      "5e1d429e59712700edae0c1cd7dd80b7b11817f561fcccc808d6aec284562c52": {
+        "title": "EVs must be 70% made in the EU to qualify for state support, Brussels says",
+        "link": "https://www.ft.com/content/02beec7f-9c29-4743-8041-ea5685fa0ae0",
+        "published_date": "Mon, 16 Feb 2026 20:36:00 GMT",
+        "first_seen": "2026-02-16T23:32:00.460289"
+      },
+      "898c93aba803f3a65b1569ad177a6506063309160531c2839eb9bc5af1cada8b": {
+        "title": "Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium",
+        "link": "https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories",
+        "published_date": "Mon, 16 Feb 2026 15:02:00 GMT",
+        "first_seen": "2026-02-16T23:32:00.460291"
+      },
+      "483bb7255fab971db2b44426df27d9f90e3ce14f22643897801e0500d5ee7ad5": {
+        "title": "These might be the winners from the latest round of Chinese new year AI launches",
+        "link": "https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories",
+        "published_date": "Mon, 16 Feb 2026 14:27:00 GMT",
+        "first_seen": "2026-02-16T23:32:00.460293"
+      },
+      "8b905825ceb643f085db1863ea7d2777462a6f3cabb8b19dd40061c56ba5e2a9": {
+        "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
+        "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
+        "published_date": "Mon, 16 Feb 2026 22:57:00 GMT",
+        "first_seen": "2026-02-16T23:32:00.460294"
       }
     },
     "Ai": {
-      "36bbc9b2745d0b3873a9b9240c5d7be29148d80c02f17d006f6e3477f5ce4d6e": {
-        "title": "2026-01-18日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-18/",
-        "published_date": "Sun, 18 Jan 2026 07:14:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.207369"
-      },
-      "256bfb9ab022946a69eec9a740c1e67c16bf35af9b6cb0c476c3ed2b419bd396": {
-        "title": "AI 视频生成时代，留给人类的只有演技？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-        "published_date": "Sat, 17 Jan 2026 17:57:00 GMT",
-        "first_seen": "2026-01-17T23:22:29.207377"
-      },
       "0c3f0f42bf96f5cc274de7235172fa0a99cfcf04cfdcadd96333075d1faa7803": {
         "title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
         "link": "https://www.qbitai.com/2026/01/370136.html",
@@ -6821,13 +6809,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-16/",
         "published_date": "Mon, 16 Feb 2026 07:20:00 GMT",
         "first_seen": "2026-02-16T06:07:19.366766"
+      },
+      "71472a8d9e0e7b230db84877e099c41f675588810b64b331bc8f93372554e274": {
+        "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
+        "link": "https://www.qbitai.com/2026/02/380433.html",
+        "published_date": "Mon, 16 Feb 2026 11:15:00 GMT",
+        "first_seen": "2026-02-16T23:32:13.671080"
+      },
+      "62004aae463296fe1e7410165c9c44f41f214659242639ad7c0e54048ac865d1": {
+        "title": "除夕迎「源神」？Qwen3.5以小胜大，捅破性价比天花板，大模型竞赛下半场开始了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-4",
+        "published_date": "Mon, 16 Feb 2026 18:19:00 GMT",
+        "first_seen": "2026-02-16T23:32:13.671088"
+      },
+      "3fc6a132d2fb5a8663e2d224c85295f8298ede4ec5c860fbb34876dfedf37288": {
+        "title": "Seed 2.0刷新Arena榜单，国产模型排名最高",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-3",
+        "published_date": "Mon, 16 Feb 2026 18:13:00 GMT",
+        "first_seen": "2026-02-16T23:32:13.671090"
+      },
+      "7cb91496af33cf3d26794b997678ac039e879f975441c7ac09d7bff50ada78b1": {
+        "title": "鲁棒RL赋能AI编程！破局企业数据噪声难题，同等算力训出更好模型",
+        "link": "https://www.qbitai.com/2026/02/380742.html",
+        "published_date": "Mon, 16 Feb 2026 11:30:00 GMT",
+        "first_seen": "2026-02-16T23:32:13.671092"
+      },
+      "bdb559767c261f1590dce00cd54ab9a8b7f24f8bbda2e10e72cffc1e3454683d": {
+        "title": "春晚极限验证，魔法原子秀出中国智造新高度",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-6",
+        "published_date": "Mon, 16 Feb 2026 22:27:00 GMT",
+        "first_seen": "2026-02-16T23:32:13.671094"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-16T08:52:35.414732",
-    "Finance": "2026-02-16T08:52:35.448560",
-    "Ai": "2026-02-16T06:07:19.366768"
+    "Technology": "2026-02-16T23:31:46.690608",
+    "Finance": "2026-02-16T23:32:00.460296",
+    "Ai": "2026-02-16T23:32:13.671095"
   }
 }

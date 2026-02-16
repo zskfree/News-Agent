@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-16 08:52
+**最后更新时间**: 2026-02-16 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-16 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as investors digest ongoing tech selloff](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 23:20
+
+#### [Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule](https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 22:57
+
+#### [‘It’s a life-changing sum’: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?](https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 22:28
+
+#### [Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium](https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 15:02
+
+#### [These might be the winners from the latest round of Chinese new year AI launches](https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 14:27
+
+#### [Hegseth reportedly considering severe penalty on Anthropic as negotiations stall](https://www.marketwatch.com/story/hegseth-reportedly-considering-severe-penalty-on-anthropic-as-negotiations-stall-16dae92f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 13:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer cancels plans to delay 30 local council elections in England](https://www.ft.com/content/fb82b59a-7ebb-40f2-ac88-da9dfd31dbbe)
+**发布时间**: 2026-02-16 20:49
+
+#### [EVs must be 70% made in the EU to qualify for state support, Brussels says](https://www.ft.com/content/02beec7f-9c29-4743-8041-ea5685fa0ae0)
+**发布时间**: 2026-02-16 20:36
+
+#### [Keir Starmer says Britain needs to ‘go faster’ on defence spending](https://www.ft.com/content/67f849a6-6cba-490b-bd41-a78225c462bc)
+**发布时间**: 2026-02-16 18:41
+
+#### [Europe’s path to security without the US](https://www.ft.com/content/3a33572c-3ec2-4024-942b-f73399add9d6)
+**发布时间**: 2026-02-16 18:31
+
+#### [Fund managers take most bearish stance on dollar for a decade](https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2)
+**发布时间**: 2026-02-16 12:49
+
+#### [Rubio says Orbán’s leadership is ‘essential’ to US interests](https://www.ft.com/content/929c5c6f-b98a-42ce-84d0-844f2e10df29)
+**发布时间**: 2026-02-16 12:16
+
+#### [Why Rubio failed to repair the transatlantic rift](https://www.ft.com/content/5c6df36a-50c6-4832-8def-0aa351b17647)
+**发布时间**: 2026-02-16 12:14
+
+#### [EU tones down criticism of Orbán ahead of election](https://www.ft.com/content/8625e8fb-1fa7-4f0e-a4fb-01fefdcd2e78)
+**发布时间**: 2026-02-16 05:00
+
+#### [Are Anthropic’s new AI work tools game-changing for professionals?](https://www.ft.com/content/92dfd571-8d34-42f1-8be8-dce126998e37)
+**发布时间**: 2026-02-16 04:00
 
 ---
 

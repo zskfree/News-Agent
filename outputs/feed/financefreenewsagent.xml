@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Feb 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2026 08:52:35 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 23:32:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The great rotation: Why this fund manager is pivoting from the U.S. toward Europe</title>
-      <link>https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The great rotation: Why this fund manager is pivoting from the U.S. toward Europe]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories</guid>
+      <title>Fund managers take most bearish stance on dollar for a decade</title>
+      <link>https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2</link>
+      <description>&lt;![CDATA[Fund managers take most bearish stance on dollar for a decade]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>EVs must be 70% made in the EU to qualify for state support, Brussels says</title>
+      <link>https://www.ft.com/content/02beec7f-9c29-4743-8041-ea5685fa0ae0</link>
+      <description>&lt;![CDATA[EVs must be 70% made in the EU to qualify for state support, Brussels says]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/02beec7f-9c29-4743-8041-ea5685fa0ae0</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium</title>
+      <link>https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These might be the winners from the latest round of Chinese new year AI launches</title>
+      <link>https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These might be the winners from the latest round of Chinese new year AI launches]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule</title>
+      <link>https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 22:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
