@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 23:29:54 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 06:06:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 06:07:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-15-4</link>
-      <description>&lt;![CDATA[ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-15-4</guid>
+      <title>刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-16-2</link>
+      <description>&lt;![CDATA[刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-16-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-15</link>
-      <description>&lt;![CDATA[ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-15</guid>
+      <title>单个LLM已不够？华盛顿大学开源多模型协同框架MoCo</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-16</link>
+      <description>&lt;![CDATA[单个LLM已不够？华盛顿大学开源多模型协同框架MoCo]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-16</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-15-6</link>
-      <description>&lt;![CDATA[还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 19:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-15-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-15-5</link>
-      <description>&lt;![CDATA[AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 19:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-15-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——</title>
-      <link>https://www.qbitai.com/2026/02/380405.html</link>
-      <description>&lt;![CDATA[从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——]]&gt;</description>
-      <pubDate>Sun, 15 Feb 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380405.html</guid>
+      <title>2026-02-16日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-16/</link>
+      <description>&lt;![CDATA[2026-02-16日刊]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-16/</guid>
       <category>Ai</category>
     </item>
   </channel>

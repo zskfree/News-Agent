@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a3dff4705866b6b31f2688bdba9c6fdbf7d83a179ef507c96ca688519d8a243f": {
-        "title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
-        "link": "https://www.tmtpost.com/7846009.html",
-        "published_date": "Sat, 17 Jan 2026 13:05:00 GMT",
-        "first_seen": "2026-01-17T05:22:23.544067"
-      },
-      "89a51fac8205b026dbc7210d65ce67dbaee3a12a8f623c6972c7286843be8233": {
-        "title": "消灭产品经理后，Lovart活成了Manus的“影子”",
-        "link": "https://www.tmtpost.com/7845947.html",
-        "published_date": "Sat, 17 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-17T05:22:23.544074"
-      },
-      "eb5bb585b3d999de0bb4ac7c9453fe50f256a905feecc7ff871439880698fd84": {
-        "title": "德邦跟了京东，极兔搂住顺丰",
-        "link": "https://www.tmtpost.com/7846099.html",
-        "published_date": "Sat, 17 Jan 2026 11:05:00 GMT",
-        "first_seen": "2026-01-17T05:22:23.544076"
-      },
-      "3a638c2584cfdd3b0d327f073e31703270b738fbdcef7c9653b852d4a8d013ac": {
-        "title": "出海30年，中国家电为何大而不强？",
-        "link": "https://www.tmtpost.com/7846024.html",
-        "published_date": "Sat, 17 Jan 2026 12:05:00 GMT",
-        "first_seen": "2026-01-17T05:22:23.544077"
-      },
-      "a3cade8929fed83ece5c7b61a7368a73ff976f7c8e32ad911e0e9fd2a84262dc": {
-        "title": "贾国龙的苦恼：看得见的对手和看不见的网络情绪",
-        "link": "https://www.tmtpost.com/7846233.html",
-        "published_date": "Sat, 17 Jan 2026 09:39:00 GMT",
-        "first_seen": "2026-01-17T05:22:23.544079"
-      },
       "f8896b50e7b39e4c876763a18c8c3ed9e7ebad666864b8d128f3ee12568f5324": {
         "title": "IDE消亡之年？Steve Yegge 两句狠话：2026 年还用 IDE 就不行，每天烧 500–1000 美元 Token 才合理",
         "link": "https://www.infoq.cn/article/SJNt2c2Sh5AgO4LbiSC8?utm_source=rss&utm_medium=article",
@@ -2695,27 +2665,39 @@
         "link": "https://www.tmtpost.com/7881503.html",
         "published_date": "Sun, 15 Feb 2026 16:31:00 GMT",
         "first_seen": "2026-02-15T23:29:29.289366"
+      },
+      "8ad8abaa11e39ed56608fbe5b2158da60d7509295b2084c146ea700a5c73dc48": {
+        "title": "刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会",
+        "link": "https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Feb 2026 10:26:00 GMT",
+        "first_seen": "2026-02-16T06:07:09.543138"
+      },
+      "990d2342d851b28f85eb8dacebe2b8c4a566b3471508029b7b78b97b89ab96cc": {
+        "title": "使用 AI 生成了 MVP，这对软件架构来说意味着什么",
+        "link": "https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:09.543148"
+      },
+      "516247f6986bd91df658ec358016389f62e18ea73fa4def379767731c7f2877d": {
+        "title": "开发者福音！GitHub AI代理终结3小时杂务，效率狂升10倍",
+        "link": "https://www.tmtpost.com/7881907.html",
+        "published_date": "Mon, 16 Feb 2026 13:45:00 GMT",
+        "first_seen": "2026-02-16T06:07:09.543152"
+      },
+      "0b3b6db887e35fb0e8e54063d6888a128bd81e4d2a9a81e394d543479d411db2": {
+        "title": "涨幅超黄金、马斯克疯抢，小金属铷铯成为太空能源新引擎？",
+        "link": "https://www.tmtpost.com/7880992.html",
+        "published_date": "Mon, 16 Feb 2026 10:25:00 GMT",
+        "first_seen": "2026-02-16T06:07:09.543154"
+      },
+      "89ec593c67aa7af27bc613a7c3a8c54e98067558ed9123a748620d35590cee2e": {
+        "title": "Pandas 3.0推出默认的字符串数据类型和Copy-on-Write语义",
+        "link": "https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:09.543155"
       }
     },
     "Finance": {
-      "3503e30cb61693eac9e25d7850d99cc6dcc8784e00d447c3f388f7cb0ff8693a": {
-        "title": "Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’",
-        "link": "https://www.ft.com/content/e98e3cbd-9653-44a8-b9e7-daa467ddc945",
-        "published_date": "Sat, 17 Jan 2026 02:05:00 GMT",
-        "first_seen": "2026-01-17T05:22:06.466370"
-      },
-      "02dafeba4dfb484c1e524a128fd5515fbb32be123855a5bf189b5a5b7379fd25": {
-        "title": "Lancet study finds no higher risk of autism when pregnant women take paracetamol",
-        "link": "https://www.ft.com/content/18ac00eb-0ab4-478c-9a5b-e4c4c5b47d1c",
-        "published_date": "Fri, 16 Jan 2026 23:30:00 GMT",
-        "first_seen": "2026-01-17T05:22:06.466379"
-      },
-      "096ed96a211e5bc4a40ea2175040cdea02b855a8e1d83c15eba1919b888000af": {
-        "title": "From Iran to Venezuela, why the oil market is on edge this weekend",
-        "link": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
-        "published_date": "Sat, 17 Jan 2026 01:46:00 GMT",
-        "first_seen": "2026-01-17T05:22:06.466382"
-      },
       "f72eb4b472dfa6576ec0de160b500033ecc7ded313ac6ef05ce7beb821bbc933": {
         "title": "Private credit investors pull $7bn from Wall Street’s biggest funds",
         "link": "https://www.ft.com/content/8d7a9c3d-8e1c-40be-915c-7118c4946468",
@@ -4629,6 +4611,36 @@
         "link": "https://www.ft.com/content/dbd1d803-ab37-43f1-920f-fce74952313a",
         "published_date": "Sun, 15 Feb 2026 18:00:00 GMT",
         "first_seen": "2026-02-15T23:29:40.104461"
+      },
+      "a163f01c4e7254d3194afb622463ae66a0c1de555f6ba5a2d70df1321dd428ff": {
+        "title": "EU cross-border banking deals jump to highest since 2008 crisis",
+        "link": "https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a",
+        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.219104"
+      },
+      "33bb84c49d82893bb805e673a394ad8ae89e6fa72f266a9b810bf06375c63996": {
+        "title": "A fallen Indian tech star and the hunt for its missing millions",
+        "link": "https://www.ft.com/content/cd202eb4-c06a-4932-8328-2ddd3cc0c175",
+        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.219110"
+      },
+      "7c53e1fbd05f21576f469981e1e68bb471c5d5ee557a093c7431cf3127a35b46": {
+        "title": "Getir founders sue Mubadala for $700mn over break-up of assets",
+        "link": "https://www.ft.com/content/64729378-9a91-4c4f-bd4c-f51fd9b78b1f",
+        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.219113"
+      },
+      "047a3f94b75e3297c5d139b8e82a2956bf219920a15db692481e36235de38969": {
+        "title": "Student loans show that hard policy choices will only get harder",
+        "link": "https://www.ft.com/content/131f0e09-88ed-4597-8408-e76a50e36618",
+        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.219114"
+      },
+      "866775c7bc3607920c94af69c3fac2c198c90ce6973e9ce1dcf98c8daf85a4a8": {
+        "title": "UK overseas aid cuts to outstrip those of Trump administration",
+        "link": "https://www.ft.com/content/ad52bf6c-e63e-4913-a7be-26d0a5045da0",
+        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.219116"
       }
     },
     "Ai": {
@@ -6803,13 +6815,31 @@
         "link": "https://www.qbitai.com/2026/02/380405.html",
         "published_date": "Sun, 15 Feb 2026 11:58:00 GMT",
         "first_seen": "2026-02-15T23:29:54.352772"
+      },
+      "0b457e672f2fd4aee02dd523fdd0452d3dd82d73f7c03417749b729396c5a445": {
+        "title": "刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16-2",
+        "published_date": "Mon, 16 Feb 2026 10:13:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.366756"
+      },
+      "5f0f42efadb1235d4bc7dcd61b9f2f2d177006a6b790d3c8ce65d46f443ccb3d": {
+        "title": "单个LLM已不够？华盛顿大学开源多模型协同框架MoCo",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-16",
+        "published_date": "Mon, 16 Feb 2026 10:10:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.366764"
+      },
+      "19d80647c7628a61c17fcff3d09f995c27678410134ed0d07a6289d6fc983f53": {
+        "title": "2026-02-16日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-16/",
+        "published_date": "Mon, 16 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-16T06:07:19.366766"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-15T23:29:29.289369",
-    "Finance": "2026-02-15T23:29:40.104464",
-    "Ai": "2026-02-15T23:29:54.352773"
+    "Technology": "2026-02-16T06:07:09.543157",
+    "Finance": "2026-02-16T06:07:19.219119",
+    "Ai": "2026-02-16T06:07:19.366768"
   }
 }
