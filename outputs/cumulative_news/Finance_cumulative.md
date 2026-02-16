@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-16 06:06
+**最后更新时间**: 2026-02-16 08:52
+
+---
+
+## 🆕 最新更新 (2026-02-16 08:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The great rotation: Why this fund manager is pivoting from the U.S. toward Europe](https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 08:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Germany vows more defence tech funding after backlash over tanks](https://www.ft.com/content/62f4a0f7-ffc9-49c8-b1e5-649703018dd1)
+**发布时间**: 2026-02-16 05:00
+
+#### [KPMG partner fined over using AI to pass AI test](https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818)
+**发布时间**: 2026-02-16 03:21
 
 ---
 

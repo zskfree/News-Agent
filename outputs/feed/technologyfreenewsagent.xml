@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Feb 2026 06:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2026 06:07:09 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 08:52:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会</title>
-      <link>https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&amp;utm_medium=article</guid>
+      <title>挖走OpenClaw创始人，OpenAI赌上AI代理时代的先手棋</title>
+      <link>https://www.tmtpost.com/7882015.html</link>
+      <description>&lt;![CDATA[挖走OpenClaw创始人，OpenAI赌上AI代理时代的先手棋]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7882015.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>使用 AI 生成了 MVP，这对软件架构来说意味着什么</title>
-      <link>https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[使用 AI 生成了 MVP，这对软件架构来说意味着什么]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>前荣耀CEO赵明「复出」，搭档印奇再造一个自动驾驶巨头？</title>
+      <link>https://www.tmtpost.com/7882141.html</link>
+      <description>&lt;![CDATA[前荣耀CEO赵明「复出」，搭档印奇再造一个自动驾驶巨头？]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7882141.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开发者福音！GitHub AI代理终结3小时杂务，效率狂升10倍</title>
-      <link>https://www.tmtpost.com/7881907.html</link>
-      <description>&lt;![CDATA[开发者福音！GitHub AI代理终结3小时杂务，效率狂升10倍]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7881907.html</guid>
+      <title>Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531449&amp;idx=1&amp;sn=894beeca3897c7ba9b269b59e12cb649</link>
+      <description>&lt;![CDATA[Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531449&amp;idx=1&amp;sn=894beeca3897c7ba9b269b59e12cb649</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>涨幅超黄金、马斯克疯抢，小金属铷铯成为太空能源新引擎？</title>
-      <link>https://www.tmtpost.com/7880992.html</link>
-      <description>&lt;![CDATA[涨幅超黄金、马斯克疯抢，小金属铷铯成为太空能源新引擎？]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7880992.html</guid>
+      <title>漫剧“暴力”进化，AI与大厂联手开启洗牌元年</title>
+      <link>https://www.tmtpost.com/7881785.html</link>
+      <description>&lt;![CDATA[漫剧“暴力”进化，AI与大厂联手开启洗牌元年]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 09:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881785.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pandas 3.0推出默认的字符串数据类型和Copy-on-Write语义</title>
-      <link>https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Pandas 3.0推出默认的字符串数据类型和Copy-on-Write语义]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一周就告吹，宁德时代最后宣布不入股永太科技</title>
+      <link>https://www.tmtpost.com/7881777.html</link>
+      <description>&lt;![CDATA[一周就告吹，宁德时代最后宣布不入股永太科技]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881777.html</guid>
       <category>Technology</category>
     </item>
   </channel>

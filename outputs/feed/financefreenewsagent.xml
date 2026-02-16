@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Feb 2026 06:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2026 06:07:19 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 08:52:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>EU cross-border banking deals jump to highest since 2008 crisis</title>
-      <link>https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a</link>
-      <description>&lt;![CDATA[EU cross-border banking deals jump to highest since 2008 crisis]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A fallen Indian tech star and the hunt for its missing millions</title>
-      <link>https://www.ft.com/content/cd202eb4-c06a-4932-8328-2ddd3cc0c175</link>
-      <description>&lt;![CDATA[A fallen Indian tech star and the hunt for its missing millions]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cd202eb4-c06a-4932-8328-2ddd3cc0c175</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Getir founders sue Mubadala for $700mn over break-up of assets</title>
-      <link>https://www.ft.com/content/64729378-9a91-4c4f-bd4c-f51fd9b78b1f</link>
-      <description>&lt;![CDATA[Getir founders sue Mubadala for $700mn over break-up of assets]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/64729378-9a91-4c4f-bd4c-f51fd9b78b1f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Student loans show that hard policy choices will only get harder</title>
-      <link>https://www.ft.com/content/131f0e09-88ed-4597-8408-e76a50e36618</link>
-      <description>&lt;![CDATA[Student loans show that hard policy choices will only get harder]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/131f0e09-88ed-4597-8408-e76a50e36618</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK overseas aid cuts to outstrip those of Trump administration</title>
-      <link>https://www.ft.com/content/ad52bf6c-e63e-4913-a7be-26d0a5045da0</link>
-      <description>&lt;![CDATA[UK overseas aid cuts to outstrip those of Trump administration]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ad52bf6c-e63e-4913-a7be-26d0a5045da0</guid>
+      <title>The great rotation: Why this fund manager is pivoting from the U.S. toward Europe</title>
+      <link>https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The great rotation: Why this fund manager is pivoting from the U.S. toward Europe]]&gt;</description>
+      <pubDate>Mon, 16 Feb 2026 08:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
