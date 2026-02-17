@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Feb 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 05:59:42 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 08:50:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures slump as investors digest ongoing tech selloff</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures slump as investors digest ongoing tech selloff]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories</guid>
+      <title>Gold prices tumble below $5,000  as China holidays dent support</title>
+      <link>https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Gold prices tumble below $5,000  as China holidays dent support]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 07:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Big Oil executives under pressure to spell out growth plans</title>
-      <link>https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e</link>
-      <description>&lt;![CDATA[Big Oil executives under pressure to spell out growth plans]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e</guid>
+      <title>Bank probe reveals Adani associates’ secret investments</title>
+      <link>https://www.ft.com/content/79c73a9c-65ac-425b-bc16-1ef2d3f55ca5</link>
+      <description>&lt;![CDATA[Bank probe reveals Adani associates’ secret investments]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 07:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/79c73a9c-65ac-425b-bc16-1ef2d3f55ca5</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>UK quietly shelves £110mn frictionless post-Brexit trade border project</title>
-      <link>https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d</link>
-      <description>&lt;![CDATA[UK quietly shelves £110mn frictionless post-Brexit trade border project]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Thomas Pritzker steps down as Hyatt executive chair over Epstein ties</title>
-      <link>https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec</link>
-      <description>&lt;![CDATA[Thomas Pritzker steps down as Hyatt executive chair over Epstein ties]]&gt;</description>
-      <pubDate>Mon, 16 Feb 2026 23:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Macron arrives in India as blockbuster fighter jet deal nears</title>
-      <link>https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b</link>
-      <description>&lt;![CDATA[Macron arrives in India as blockbuster fighter jet deal nears]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 04:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b</guid>
+      <title>UK wage growth cools further as unemployment hits highest level since pandemic</title>
+      <link>https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc</link>
+      <description>&lt;![CDATA[UK wage growth cools further as unemployment hits highest level since pandemic]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc</guid>
       <category>Finance</category>
     </item>
   </channel>
