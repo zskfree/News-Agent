@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e009b9382c59702b99c0912a93f55a495d54068abc399bc421cfe24ea0f1ac20": {
-        "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
-        "link": "https://www.tmtpost.com/7845741.html",
-        "published_date": "Sun, 18 Jan 2026 09:59:00 GMT",
-        "first_seen": "2026-01-18T05:26:25.152819"
-      },
-      "be7536be53eec114d1fbe500ec8893ef3f362a39558173a9c14a6988b79e15d5": {
-        "title": "摩尔定律遭遇物理 “死胡同”， TGV是突破算力桎梏的技术切口？",
-        "link": "https://www.tmtpost.com/7843832.html",
-        "published_date": "Sun, 18 Jan 2026 11:46:00 GMT",
-        "first_seen": "2026-01-18T05:26:25.152826"
-      },
-      "ce997d96ec59dcfbd90db40b7a0614d1a567fe0c9644d538caefeb96b7cea876": {
-        "title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
-        "link": "https://www.tmtpost.com/7846680.html",
-        "published_date": "Sun, 18 Jan 2026 12:43:00 GMT",
-        "first_seen": "2026-01-18T05:26:25.152828"
-      },
-      "21b3f094b2832369f8831b9ddcddea93edc2237c5f180b1cf413dc305f0318de": {
-        "title": "石头科技的双线进击",
-        "link": "https://www.tmtpost.com/7846206.html",
-        "published_date": "Sun, 18 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-18T05:26:25.152830"
-      },
-      "5d9b9a115d96fff94e5e5869b7b7da4cb4ee70cbabc368f274d3c33dc308e0b1": {
-        "title": "河南能源“巨无霸”的联姻记： 煤炭老大哥的“中年转型”能成功吗？",
-        "link": "https://www.tmtpost.com/7846351.html",
-        "published_date": "Sun, 18 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-18T05:26:25.152832"
-      },
       "403f7b88de9f30c8ed0c10c2e5972aab5e7d1cc73c32d73ca9c7ce6a74f989b0": {
         "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
         "link": "https://sspai.com/post/104972",
@@ -2695,15 +2665,39 @@
         "link": "https://www.tmtpost.com/7881782.html",
         "published_date": "Mon, 16 Feb 2026 09:27:00 GMT",
         "first_seen": "2026-02-16T23:31:46.690606"
+      },
+      "b8106a192e6b6a997def6a686017a500ee904f25d504d1dfc908beacd77f00b5": {
+        "title": "微软AI掌门放狠话：12-18个月，多数白领工作将被AI彻底替代？",
+        "link": "https://www.tmtpost.com/7882684.html",
+        "published_date": "Tue, 17 Feb 2026 11:47:00 GMT",
+        "first_seen": "2026-02-17T05:59:33.527260"
+      },
+      "d03ad4526b1bff93368572dffa49825e62eb35d6372af5bbe76b489d8a1c2510": {
+        "title": "Shadcn 发布可视化项目构建工具",
+        "link": "https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-17T05:59:33.527268"
+      },
+      "b2b563a733f3476a49af67b76da5637c531ddb4bea51f039cb986329262701f7": {
+        "title": "资本押注未来：睿舒科技天使轮融资，锚定环境智能3.0时代",
+        "link": "https://www.tmtpost.com/7881005.html",
+        "published_date": "Tue, 17 Feb 2026 09:19:00 GMT",
+        "first_seen": "2026-02-17T05:59:33.527270"
+      },
+      "116906affffefa153754267ef53efa500e9d47d8f6acf6a7c6314f8684d33350": {
+        "title": "从蔡明扮机器人，到机器人陪蔡明，春晚走了30年",
+        "link": "https://www.tmtpost.com/7882691.html",
+        "published_date": "Tue, 17 Feb 2026 10:40:00 GMT",
+        "first_seen": "2026-02-17T05:59:33.527272"
+      },
+      "d45c0c535e489c23a73b7b1a9a76e83e24fae4db892675c8460a15fbc3b2d4d0": {
+        "title": "春晚被机器人全面入侵的那一夜",
+        "link": "https://www.tmtpost.com/7882580.html",
+        "published_date": "Tue, 17 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-17T05:59:33.527274"
       }
     },
     "Finance": {
-      "69bd2eb5ac335cfdb1a1af6ae41156e571a194afbb27d1ad0f0afce9cbcfec4b": {
-        "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
-        "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
-        "published_date": "Sun, 18 Jan 2026 00:30:00 GMT",
-        "first_seen": "2026-01-18T05:26:07.668294"
-      },
       "ade4d69590234164e04f8713c8e6f8ed6b591da384d4c4c6313cbe17c239c921": {
         "title": "EU readies €93bn tariffs in retaliation for Trump’s Greenland threat",
         "link": "https://www.ft.com/content/b2872a49-3d43-4a55-a483-de7b19e8e436",
@@ -4647,6 +4641,36 @@
         "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
         "published_date": "Mon, 16 Feb 2026 22:57:00 GMT",
         "first_seen": "2026-02-16T23:32:00.460294"
+      },
+      "63a53f1ab3f13823aac1d55f902251dce82ce1b8050bae5c7be1b14e19263533": {
+        "title": "U.S. stock futures slump as investors digest ongoing tech selloff",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Feb 2026 04:01:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.571357"
+      },
+      "f8f42674ac11a14e1a831e8d546fffea84b4cef3a914b5bd554f4369b87e942f": {
+        "title": "Big Oil executives under pressure to spell out growth plans",
+        "link": "https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e",
+        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.571363"
+      },
+      "d05b6638d6290c02377e115fc78330d597ecbc638bdf336b60ac77c6c0915151": {
+        "title": "UK quietly shelves £110mn frictionless post-Brexit trade border project",
+        "link": "https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d",
+        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.571365"
+      },
+      "e587a028bc44a4968b9e1ab26e429a7695567042d6759dddb84b4ead4148d02b": {
+        "title": "Thomas Pritzker steps down as Hyatt executive chair over Epstein ties",
+        "link": "https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec",
+        "published_date": "Mon, 16 Feb 2026 23:56:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.571367"
+      },
+      "c0bb79fdf0805fba842fcbce041549d8205e0ec4b630a02a8dc68eabaa2d8182": {
+        "title": "Macron arrives in India as blockbuster fighter jet deal nears",
+        "link": "https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b",
+        "published_date": "Tue, 17 Feb 2026 04:18:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.571369"
       }
     },
     "Ai": {
@@ -6839,13 +6863,25 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-16-6",
         "published_date": "Mon, 16 Feb 2026 22:27:00 GMT",
         "first_seen": "2026-02-16T23:32:13.671094"
+      },
+      "2cb3dbb085b16a3e61ffccf5ad4222e7e938c7f12a9182447db3f038389fb82d": {
+        "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
+        "link": "https://www.qbitai.com/2026/02/380771.html",
+        "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.716431"
+      },
+      "f337681d4afc28f88e59ee87c050a495d4cf6efe0212a428747e7cb4286d0d95": {
+        "title": "2026-02-17日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-17/",
+        "published_date": "Tue, 17 Feb 2026 07:23:00 GMT",
+        "first_seen": "2026-02-17T05:59:42.716440"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-16T23:31:46.690608",
-    "Finance": "2026-02-16T23:32:00.460296",
-    "Ai": "2026-02-16T23:32:13.671095"
+    "Technology": "2026-02-17T05:59:33.527276",
+    "Finance": "2026-02-17T05:59:42.571372",
+    "Ai": "2026-02-17T05:59:42.716442"
   }
 }
