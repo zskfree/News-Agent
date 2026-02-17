@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Feb 2026 05:58:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 05:59:42 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:31:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！</title>
-      <link>https://www.qbitai.com/2026/02/380771.html</link>
-      <description>&lt;![CDATA[春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 04:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380771.html</guid>
+      <title>ICLR 2026 | SEINT：高效的跨空间刚体不变度量</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-17-3</link>
+      <description>&lt;![CDATA[ICLR 2026 | SEINT：高效的跨空间刚体不变度量]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-17-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-02-17日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-17/</link>
-      <description>&lt;![CDATA[2026-02-17日刊]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-17/</guid>
+      <title>ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-17-2</link>
+      <description>&lt;![CDATA[ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-17-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Teaching AI to read a map</title>
+      <link>https://research.google/blog/teaching-ai-to-read-a-map/</link>
+      <description>&lt;![CDATA[Teaching AI to read a map]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/teaching-ai-to-read-a-map/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-17</link>
+      <description>&lt;![CDATA[豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-17</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>沈腾：春晚谁家机器人？除夕夜就扒拉活来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-17-4</link>
+      <description>&lt;![CDATA[沈腾：春晚谁家机器人？除夕夜就扒拉活来了]]&gt;</description>
+      <pubDate>Tue, 17 Feb 2026 20:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-17-4</guid>
       <category>Ai</category>
     </item>
   </channel>

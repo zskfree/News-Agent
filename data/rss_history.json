@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "26aef3948461850caf680107dc6a7babd31109cee8bfd08b171dffc4bc829b99": {
-        "title": "打造医生“智能外脑”，医疗级AI在多家医院加速应用",
-        "link": "https://www.tmtpost.com/7846793.html",
-        "published_date": "Sun, 18 Jan 2026 09:46:00 GMT",
-        "first_seen": "2026-01-18T23:23:56.830352"
-      },
-      "1af895786a40f9f7a8df8501f99f1988605370476aebf2844395cefd93348796": {
-        "title": "AI应用爆发前夜，大模型等待黎明",
-        "link": "https://www.tmtpost.com/7846728.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:23:56.830359"
-      },
-      "23a25b3a10db5494c3cb7a624b244ff33dc318379d31a16dba9999c879e592dd": {
-        "title": "不学抖音学INS，OpenAI想站着把钱挣了",
-        "link": "https://www.tmtpost.com/7846722.html",
-        "published_date": "Sun, 18 Jan 2026 19:36:00 GMT",
-        "first_seen": "2026-01-18T23:23:56.830362"
-      },
-      "9ec700cc1caeb8c7e2d1cd8ce9b6714b7e775761bb6c873f92bdf576a7178aaa": {
-        "title": "宏大叙事的创业的时代，互联网需要更多Demumu",
-        "link": "https://www.tmtpost.com/7846725.html",
-        "published_date": "Sun, 18 Jan 2026 17:50:00 GMT",
-        "first_seen": "2026-01-18T23:23:56.830364"
-      },
-      "fdfdefb1ddf13010f569b822b6be61c0484fc69dcf89136ed1aa289044223b94": {
-        "title": "价值判断：涨停板的投资机会和风险提示（1月16日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7846657.html",
-        "published_date": "Sun, 18 Jan 2026 11:34:00 GMT",
-        "first_seen": "2026-01-18T23:23:56.830365"
-      },
       "5af9d6bace033e021677b7b89f9a4da075732a8749e0de80250e80459cd61d1f": {
         "title": "国产EDA，走到哪一步了？",
         "link": "https://www.tmtpost.com/7847409.html",
@@ -2701,39 +2671,33 @@
         "link": "https://www.tmtpost.com/7882784.html",
         "published_date": "Tue, 17 Feb 2026 10:20:00 GMT",
         "first_seen": "2026-02-17T08:50:48.168581"
+      },
+      "fbf6df7e2fd19b8e28944ca247de7b1553a41c64c87e29c546ab7003adb4c4d5": {
+        "title": "“老外”集体来华过春节，对中国“真香”了？",
+        "link": "https://www.tmtpost.com/7882815.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:31:02.338092"
+      },
+      "8ad523718197ae969e3658ea6f95d3ce0ea7bc3a80ea81e24891b33557ee27f9": {
+        "title": "春晚机器人，谁赢麻了？",
+        "link": "https://www.tmtpost.com/7882863.html",
+        "published_date": "Tue, 17 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-17T23:31:02.338104"
+      },
+      "f34f9cdcde4c697c1988d04dddfccf8f31a133bb0c34a633d61a97f40ef6b824": {
+        "title": "千问3.5以小胜大，阿里巴巴的阳谋藏不住了",
+        "link": "https://www.tmtpost.com/7882917.html",
+        "published_date": "Tue, 17 Feb 2026 17:12:00 GMT",
+        "first_seen": "2026-02-17T23:31:02.338107"
+      },
+      "fb53d4af2f419880584d53f06e3a15693523a6ee1a2e4b884a001924f0ec8089": {
+        "title": "连农村的堂弟都不看春晚了｜马上评",
+        "link": "https://www.tmtpost.com/7882851.html",
+        "published_date": "Tue, 17 Feb 2026 12:08:00 GMT",
+        "first_seen": "2026-02-17T23:31:02.338108"
       }
     },
     "Finance": {
-      "ade4d69590234164e04f8713c8e6f8ed6b591da384d4c4c6313cbe17c239c921": {
-        "title": "EU readies €93bn tariffs in retaliation for Trump’s Greenland threat",
-        "link": "https://www.ft.com/content/b2872a49-3d43-4a55-a483-de7b19e8e436",
-        "published_date": "Sun, 18 Jan 2026 20:09:00 GMT",
-        "first_seen": "2026-01-18T23:23:26.262620"
-      },
-      "a2cf5dd83a89de8dbf8e8bf9ae2da0886670ef54ca9d2716083e4701b9a787ac": {
-        "title": "China will clinch the AI race",
-        "link": "https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571",
-        "published_date": "Sun, 18 Jan 2026 12:00:00 GMT",
-        "first_seen": "2026-01-18T23:23:26.262628"
-      },
-      "a29b968b1e0b0d48f088b71a32ab47f25702923cd38936d79ba80f0ac1113f4b": {
-        "title": "Big Tech stocks are quickly falling out of favor. Here’s the market’s new momentum trade.",
-        "link": "https://www.marketwatch.com/story/big-tech-stocks-are-quickly-falling-out-of-favor-heres-the-markets-new-momentum-trade-bcf261ac?mod=mw_rss_topstories",
-        "published_date": "Sun, 18 Jan 2026 17:00:00 GMT",
-        "first_seen": "2026-01-18T23:23:26.262631"
-      },
-      "da2da29d3474f4f4c93a02700821290a8a4a9d7238d70cfdd1e7e792e6e8265f": {
-        "title": "‘It’s about trust’: Trump’s fresh tariff threats push Europe to harden its stance",
-        "link": "https://www.ft.com/content/d13bf047-3051-4b40-9c07-8bb7b3552673",
-        "published_date": "Sun, 18 Jan 2026 17:12:00 GMT",
-        "first_seen": "2026-01-18T23:23:26.262633"
-      },
-      "32fb2c8a267508e9ca1a2add2138ce295055011172f95aa545f843d79297ffab": {
-        "title": "Inside Larry Fink’s bid to revive scandal-hit Davos",
-        "link": "https://www.ft.com/content/f8a5c4e8-8706-4c29-96b7-fb6cd4eb8cb4",
-        "published_date": "Sun, 18 Jan 2026 13:00:00 GMT",
-        "first_seen": "2026-01-18T23:23:26.262635"
-      },
       "6d64e60bbde27313d749328df037234f57b713d5390337e64be3c8e247ac4cee": {
         "title": "Trump’s attack on the Fed should galvanise the GOP",
         "link": "https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49",
@@ -4695,39 +4659,39 @@
         "link": "https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc",
         "published_date": "Tue, 17 Feb 2026 07:50:00 GMT",
         "first_seen": "2026-02-17T08:50:48.198146"
+      },
+      "6f347d7f37d12b6b79f96e082cd4b9d79fb73065a0f612498818d4e48440d888": {
+        "title": "What the 10-year Treasury’s move toward 4% says about AI anxiety in markets",
+        "link": "https://www.marketwatch.com/story/what-the-10-year-treasurys-move-toward-4-says-about-ai-anxiety-in-markets-6aff8a1c?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Feb 2026 22:45:00 GMT",
+        "first_seen": "2026-02-17T23:31:32.704961"
+      },
+      "ec845731cd55f5e1dd4a0a9ed8a101967d7701f1eec749b755da441be353c873": {
+        "title": "Data leak at Abu Dhabi finance summit exposes politicians and business leaders",
+        "link": "https://www.ft.com/content/b86cefd5-90e7-410b-bf58-09b9fde307cb",
+        "published_date": "Tue, 17 Feb 2026 18:09:00 GMT",
+        "first_seen": "2026-02-17T23:31:32.704969"
+      },
+      "dcd81fe5e95c67ea9823d3470c1044847e93e8cbd711414751fcb656e8ec9472": {
+        "title": "SEC urged to investigate Apollo over Epstein ties",
+        "link": "https://www.ft.com/content/9f96ca88-2cee-4ca1-a076-58cf3440ac55",
+        "published_date": "Tue, 17 Feb 2026 21:24:00 GMT",
+        "first_seen": "2026-02-17T23:31:32.704972"
+      },
+      "61256ee853c9914f4f831399fbdd7a50f8833c51728976b5a1d5fd5c56111e41": {
+        "title": "Warner Bros throws ownership battle open by giving Paramount a week to up its offer",
+        "link": "https://www.ft.com/content/251fec8a-b4ea-44e7-abd2-e471f268e3a8",
+        "published_date": "Tue, 17 Feb 2026 19:54:00 GMT",
+        "first_seen": "2026-02-17T23:31:32.704975"
+      },
+      "4f6216eb3a15c5dfaf32624b3f77884c9d7aa36468276a392c50633109219e0c": {
+        "title": "Appaloosa upped its bet on this airline during the fourth quarter, while adding to tech and selling off financials",
+        "link": "https://www.marketwatch.com/story/appaloosa-upped-its-bet-on-this-airline-during-the-fourth-quarter-while-adding-to-tech-and-selling-off-financials-c2cee856?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Feb 2026 22:26:00 GMT",
+        "first_seen": "2026-02-17T23:31:32.704976"
       }
     },
     "Ai": {
-      "457797e1d31244f008ded25c4e07239c134f28d12f221c5c472aa794458cd25d": {
-        "title": "红杉合伙人：2026，AGI已经来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-2",
-        "published_date": "Sun, 18 Jan 2026 20:39:00 GMT",
-        "first_seen": "2026-01-18T23:23:38.409497"
-      },
-      "9fd6df58ed3522b365910c673e6a47d941ad4e8228498d7e2bfdb79798916c45": {
-        "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-4",
-        "published_date": "Sun, 18 Jan 2026 20:45:00 GMT",
-        "first_seen": "2026-01-18T23:23:38.409504"
-      },
-      "4efdd12a4c79d159dedfee10e96a7d2e783d4adb29d8df255b224df1f1b6ab42": {
-        "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-3",
-        "published_date": "Sun, 18 Jan 2026 20:42:00 GMT",
-        "first_seen": "2026-01-18T23:23:38.409506"
-      },
-      "7aa99856cfa304c91fb0429d1c619934dc27a31b37a421b143e323a1c3f853f7": {
-        "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18",
-        "published_date": "Sun, 18 Jan 2026 20:35:00 GMT",
-        "first_seen": "2026-01-18T23:23:38.409508"
-      },
-      "59dda472a7f444a802540bf66e2a8a029cd28c4b3f50c1e7d1db8683bb1dd9a9": {
-        "title": "咖啡机变聪明后，我连咖啡都喝不上了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-18-5",
-        "published_date": "Sun, 18 Jan 2026 20:50:00 GMT",
-        "first_seen": "2026-01-18T23:23:38.409509"
-      },
       "bdb4163315d1684fae3bc2a09a58f88eefbb94c50d690729b6bf2414665fe42c": {
         "title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
         "link": "https://www.qbitai.com/2026/01/370196.html",
@@ -6881,13 +6845,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-17/",
         "published_date": "Tue, 17 Feb 2026 07:23:00 GMT",
         "first_seen": "2026-02-17T05:59:42.716440"
+      },
+      "2b680247306aff3fcafd6fab4cb7899870ab792acab4c4ec9c8a373b86edd648": {
+        "title": "ICLR 2026 | SEINT：高效的跨空间刚体不变度量",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-3",
+        "published_date": "Tue, 17 Feb 2026 20:45:00 GMT",
+        "first_seen": "2026-02-17T23:31:44.726836"
+      },
+      "3c885b07d3eb7c7c5c1bcc21d837cf3d4d1aa06e3409e1975104f4e2712b02ac": {
+        "title": "ICLR 2026 | PIL：基于线性代理的不可学习样本生成方法",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-2",
+        "published_date": "Tue, 17 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-17T23:31:44.726844"
+      },
+      "25e6360e269174f1eb77381339591f8b20b5fe88e4bb49b2b127b9288eda0758": {
+        "title": "Teaching AI to read a map",
+        "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
+        "published_date": "Tue, 17 Feb 2026 21:37:00 GMT",
+        "first_seen": "2026-02-17T23:31:44.726846"
+      },
+      "dc73f3c823b5aea6e2c0fc486b7cb9653ed34df6e584a2a0624e5f9169ff96fe": {
+        "title": "豆包除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17",
+        "published_date": "Tue, 17 Feb 2026 18:52:00 GMT",
+        "first_seen": "2026-02-17T23:31:44.726847"
+      },
+      "61472f30aa8a5cb7ad007a7a84e2eefd11267f36709ff5c109efbf91b18e06d7": {
+        "title": "沈腾：春晚谁家机器人？除夕夜就扒拉活来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-17-4",
+        "published_date": "Tue, 17 Feb 2026 20:52:00 GMT",
+        "first_seen": "2026-02-17T23:31:44.726849"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-17T08:50:48.168584",
-    "Finance": "2026-02-17T08:50:48.198148",
-    "Ai": "2026-02-17T05:59:42.716442"
+    "Technology": "2026-02-17T23:31:02.338110",
+    "Finance": "2026-02-17T23:31:32.704980",
+    "Ai": "2026-02-17T23:31:44.726851"
   }
 }

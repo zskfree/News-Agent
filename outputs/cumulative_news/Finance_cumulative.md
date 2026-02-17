@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-17 08:50
+**最后更新时间**: 2026-02-17 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-17 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Sandisk’s stock falls as Western Digital plans to sell shares. What investors need to know.](https://www.marketwatch.com/story/sandisks-stock-falls-as-western-digital-plans-to-sell-shares-what-investors-need-to-know-5f4c8d48?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 23:27
+
+#### [How Paramount brought its failing bid for Warner Bros. back from the brink](https://www.marketwatch.com/story/how-paramount-pulled-its-failing-bid-for-warner-bros-back-from-the-brink-ec3a1847?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 23:19
+
+#### [‘Am I crazy?’ My boyfriend’s parents say he shouldn’t marry me until he earns $50K a year. Who is to blame here?](https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 23:03
+
+#### [What the 10-year Treasury’s move toward 4% says about AI anxiety in markets](https://www.marketwatch.com/story/what-the-10-year-treasurys-move-toward-4-says-about-ai-anxiety-in-markets-6aff8a1c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 22:45
+
+#### [Appaloosa upped its bet on this airline during the fourth quarter, while adding to tech and selling off financials](https://www.marketwatch.com/story/appaloosa-upped-its-bet-on-this-airline-during-the-fourth-quarter-while-adding-to-tech-and-selling-off-financials-c2cee856?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 22:26
+
+#### [Berkshire returns to the newspaper business, takes bigger bite of Domino’s Pizza](https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 22:20
+
+#### [Infosys joins forces with the AI company that triggered a sharp selloff in its stock](https://www.marketwatch.com/story/infosys-joins-forces-with-the-ai-company-that-triggered-a-sharp-selloff-in-its-stock-6d8e7e4e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 21:42
+
+#### [Rivian’s stock just had its best day ever — and now this analyst says to sell](https://www.marketwatch.com/story/rivians-stock-just-had-its-best-day-ever-and-now-this-analyst-says-to-sell-33051b6f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 21:39
+
+#### [Palantir joins the wave of businesses and billionaires moving to Florida](https://www.marketwatch.com/story/palantir-joins-the-wave-of-businesses-and-billionaires-moving-to-florida-79f0134b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 21:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SEC urged to investigate Apollo over Epstein ties](https://www.ft.com/content/9f96ca88-2cee-4ca1-a076-58cf3440ac55)
+**发布时间**: 2026-02-17 21:24
+
+#### [Warner Bros throws ownership battle open by giving Paramount a week to up its offer](https://www.ft.com/content/251fec8a-b4ea-44e7-abd2-e471f268e3a8)
+**发布时间**: 2026-02-17 19:54
+
+#### [US charges two ex-executives at private equity-owned group with fraud](https://www.ft.com/content/95af2355-b564-44f8-a0a2-74abf1eb7f3f)
+**发布时间**: 2026-02-17 19:33
+
+#### [Data leak at Abu Dhabi finance summit exposes politicians and business leaders](https://www.ft.com/content/b86cefd5-90e7-410b-bf58-09b9fde307cb)
+**发布时间**: 2026-02-17 18:09
+
+#### [Reform UK names Jenrick as ‘shadow chancellor’](https://www.ft.com/content/4d83db00-ae59-41b4-a351-7c9321261b85)
+**发布时间**: 2026-02-17 15:36
+
+#### [Former prince Andrew agreed to help strike $8bn cash-for-oil deal between UAE and China](https://www.ft.com/content/cb9f7c14-17d9-4c1b-bbcd-4ff1d915f28a)
+**发布时间**: 2026-02-17 12:57
+
+#### [Who’s who in Reform UK’s top team](https://www.ft.com/content/c7b22e21-9515-412e-91c3-cb7a82084240)
+**发布时间**: 2026-02-17 11:44
+
+#### [It’s Gavin Newsom’s show for now](https://www.ft.com/content/97cc9890-256b-4559-9626-779d9999cbb3)
+**发布时间**: 2026-02-17 11:00
+
+#### [Jesse Jackson, US civil rights leader, 1941-2026](https://www.ft.com/content/f81e9528-53eb-42a0-8724-49d67caaa02b)
+**发布时间**: 2026-02-17 09:54
 
 ---
 
