@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5af9d6bace033e021677b7b89f9a4da075732a8749e0de80250e80459cd61d1f": {
-        "title": "国产EDA，走到哪一步了？",
-        "link": "https://www.tmtpost.com/7847409.html",
-        "published_date": "Mon, 19 Jan 2026 11:27:00 GMT",
-        "first_seen": "2026-01-19T05:34:19.686661"
-      },
-      "d01ada6b395c4efef28a4f9abf05560017720d1b4023e9900e545758a723166c": {
-        "title": "从\"实验室\"到\"生活间\"，具身智能的商业化破局与生态构建 | CES 2026",
-        "link": "https://www.tmtpost.com/7846124.html",
-        "published_date": "Mon, 19 Jan 2026 10:39:00 GMT",
-        "first_seen": "2026-01-19T05:34:19.686668"
-      },
-      "1c206bc048aedc4fb85e523527152ea279bdb2a92c6cc5532e0cb7f1e10c4f4f": {
-        "title": "阿里云 CIO 全面深度解析：企业 AI 大模型落地实践「 RIDE 方法论」",
-        "link": "https://www.infoq.cn/article/BKMR19Rj75XwLR1ysM4B?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-19T05:34:19.686670"
-      },
-      "f3375059824c7d0b694a63f15f6a81c0798684e6ab2493ea2eecb017a36ab76c": {
-        "title": "谷歌发布适用于多智能体的八种设计模式",
-        "link": "https://www.infoq.cn/article/pTGMtm4Yxej0pWXJB4BN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 10:14:00 GMT",
-        "first_seen": "2026-01-19T05:34:19.686671"
-      },
-      "0881f06d246167d244c95e6e78d80cb3029230d4de0e9c07cb61c67f193add7b": {
-        "title": "ChatGPT 将测试广告投放，AI 信任危机一触即发",
-        "link": "https://www.infoq.cn/article/pt1L2jiAHb7tAcB1lAmz?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 09:25:00 GMT",
-        "first_seen": "2026-01-19T05:34:19.686673"
-      },
       "a31adf8c09c9c58809b027a36e212485cf8ce96b0943b30dac68dd006acd4c50": {
         "title": "AI手机走到分岔口：巨头们正在重注Agent逻辑",
         "link": "https://www.tmtpost.com/7847824.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7882851.html",
         "published_date": "Tue, 17 Feb 2026 12:08:00 GMT",
         "first_seen": "2026-02-17T23:31:02.338108"
+      },
+      "947284e9748b43bf31284e500ce417de0afd23a2311fded13c43478f0851df02": {
+        "title": "17家、540亿、2个月：AI融资进入寡头时代，赢家通吃开始",
+        "link": "https://www.tmtpost.com/7883312.html",
+        "published_date": "Wed, 18 Feb 2026 10:34:00 GMT",
+        "first_seen": "2026-02-18T06:02:56.101027"
+      },
+      "107404dd3d4c407d1b3b4d22232958363d398ae064683645e84322c0b6c0f299": {
+        "title": "Teleport 推出智能体身份框架，为企业基础设施中的 AI 智能体提供安全保障",
+        "link": "https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-18T06:02:56.101040"
+      },
+      "933eae808821b042646a3a7598f80dc4aec6b75071c5013406724d7d469991c8": {
+        "title": "业绩暴涨54%仍要赴港拿钱？思源电气绑上宁德时代，急补储能弹药",
+        "link": "https://www.tmtpost.com/7883123.html",
+        "published_date": "Wed, 18 Feb 2026 08:19:00 GMT",
+        "first_seen": "2026-02-18T06:02:56.101043"
+      },
+      "c0be3a14a48c4210533efb00a7d2be8af7f3d43e5da25c8bd38a8461cafd7e5e": {
+        "title": "漫剧公司集体转向，AI仿真人或将颠覆行业",
+        "link": "https://www.tmtpost.com/7883243.html",
+        "published_date": "Wed, 18 Feb 2026 09:01:00 GMT",
+        "first_seen": "2026-02-18T06:02:56.101045"
+      },
+      "c8af4d95fe11a56569b72ded3af91bd809d95de7b7d4398bb95b5d7ff349aba6": {
+        "title": "春晚机器人爆红背后：一场关于「非共识」的产业思辨",
+        "link": "https://www.tmtpost.com/7883501.html",
+        "published_date": "Wed, 18 Feb 2026 09:34:00 GMT",
+        "first_seen": "2026-02-18T06:02:56.101046"
       }
     },
     "Finance": {
-      "6d64e60bbde27313d749328df037234f57b713d5390337e64be3c8e247ac4cee": {
-        "title": "Trump’s attack on the Fed should galvanise the GOP",
-        "link": "https://www.ft.com/content/daa32259-983c-4dad-a56b-cf844adf1f49",
-        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-19T05:33:40.211294"
-      },
-      "266deb291dc561df28265d0e28092ba82c62d3b05411d30e31435436325a6116": {
-        "title": "The dangerous triumph of neo-mercantilism",
-        "link": "https://www.ft.com/content/cd68b35f-f00d-4a7d-a9be-56c639dd6b91",
-        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-19T05:33:40.211302"
-      },
-      "f04201b81dc9f206b06182d8d1664abc095424950baf143ff0280dfe17a14c97": {
-        "title": "China’s GDP grows 5% in 2025 as exports offset weak domestic outlook",
-        "link": "https://www.ft.com/content/5fc6effd-29a0-4dca-a409-fd11a3160fdc",
-        "published_date": "Mon, 19 Jan 2026 03:06:00 GMT",
-        "first_seen": "2026-01-19T05:33:40.211305"
-      },
-      "ea7aad66313065840609ff9c0a8830411fe5f449b0123c774ae26566a605d960": {
-        "title": "How could Trump’s Greenland tariffs hit individual EU countries?",
-        "link": "https://www.ft.com/content/5c85d4af-4874-43cc-a1f5-f3f1f6664c70",
-        "published_date": "Mon, 19 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-19T05:33:40.211307"
-      },
-      "27fb29e6b6be9f48b261175f6bd03d17bf893b4e2e449c269d2cf611b8b32709": {
-        "title": "UK chancellor hails ‘golden age’ for City after easing tax and regulation",
-        "link": "https://www.ft.com/content/e3c9ac38-58c1-4762-91e2-3396946dc0e0",
-        "published_date": "Mon, 19 Jan 2026 00:02:00 GMT",
-        "first_seen": "2026-01-19T05:33:40.211309"
-      },
       "ce15d63580be3b88fc7067d509d0cb4a9a7e30105f2ea8a7b6d5fbf4a4c8b39c": {
         "title": "Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland",
         "link": "https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories",
@@ -4689,39 +4659,39 @@
         "link": "https://www.marketwatch.com/story/appaloosa-upped-its-bet-on-this-airline-during-the-fourth-quarter-while-adding-to-tech-and-selling-off-financials-c2cee856?mod=mw_rss_topstories",
         "published_date": "Tue, 17 Feb 2026 22:26:00 GMT",
         "first_seen": "2026-02-17T23:31:32.704976"
+      },
+      "36aba9a799e8b864c3739bedc654ffef0bec1c4cc0e809cffc9fe228a24f3fe0": {
+        "title": "Christine Lagarde to leave ECB before the end of her 8-year term",
+        "link": "https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c",
+        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.089943"
+      },
+      "e846f040df00117232ac3e0ff912b64783248e3d0075379ef2909ed6e72a8e84": {
+        "title": "Gilt investors warn about ‘ruse’ to fund higher UK defence spending",
+        "link": "https://www.ft.com/content/7b75d557-feb4-4a1f-881a-7d52df7da7aa",
+        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.089950"
+      },
+      "f7c92ed62856d241aad4dbd677ee140245a8061699a238062b1ec80bb748f8e4": {
+        "title": "Carmakers to win reprieve in £11bn UK motor finance redress scheme",
+        "link": "https://www.ft.com/content/bc45946e-3751-402c-94b8-947d2fc41717",
+        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.089953"
+      },
+      "5c0df1ac96686241abd0c571a195696ebafe28df5fd3eac88932f0a7576fdab9": {
+        "title": "The truth about population decline",
+        "link": "https://www.ft.com/content/0ae26c7b-09ea-4c5c-b337-6db0c357c916",
+        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.089955"
+      },
+      "5aaf2525390fe666ae420b98eaad301d4f9d32c9108e96983dff9dcda3a520c8": {
+        "title": "Nvidia’s new Meta deal may not be great news for these other tech stocks",
+        "link": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
+        "published_date": "Wed, 18 Feb 2026 01:01:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.089956"
       }
     },
     "Ai": {
-      "bdb4163315d1684fae3bc2a09a58f88eefbb94c50d690729b6bf2414665fe42c": {
-        "title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
-        "link": "https://www.qbitai.com/2026/01/370196.html",
-        "published_date": "Mon, 19 Jan 2026 03:59:00 GMT",
-        "first_seen": "2026-01-19T05:33:56.282103"
-      },
-      "891b257131708bb8a3f6c5727d6d9093662e808f191e5a88e59e951ff6d02e9c": {
-        "title": "让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-3",
-        "published_date": "Mon, 19 Jan 2026 12:03:00 GMT",
-        "first_seen": "2026-01-19T05:33:56.282109"
-      },
-      "057028dab54285d684409ba8a0fe5a5e2752419edae1e943700a286d170af2ce": {
-        "title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
-        "link": "https://www.qbitai.com/2026/01/370217.html",
-        "published_date": "Mon, 19 Jan 2026 04:22:00 GMT",
-        "first_seen": "2026-01-19T05:33:56.282111"
-      },
-      "bef71455a257d2d7ee43d48b8aced069853a8505232713c46fbe25bb8090e1df": {
-        "title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
-        "link": "https://www.qbitai.com/2026/01/370169.html",
-        "published_date": "Mon, 19 Jan 2026 02:04:00 GMT",
-        "first_seen": "2026-01-19T05:33:56.282113"
-      },
-      "80ad7cc47d170963209bcc355402465e04017663df8bf0d2302357d558a40bd9": {
-        "title": "复旦大学 NLP 研究团队与其此前孵化的学术搜索平台 WisPaper 展开合作，共同研发了 OpenNovelty——一个基于大语言模型、强调证据与可验证性的自动化新颖性分析系统。",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
-        "published_date": "Mon, 19 Jan 2026 13:28:00 GMT",
-        "first_seen": "2026-01-19T05:33:56.282114"
-      },
       "fdac3e460dd92c277d09ccc4c08cfefe113f4171c8aae68cc12e879029f2ac71": {
         "title": "迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗",
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
@@ -6875,13 +6845,31 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-17-4",
         "published_date": "Tue, 17 Feb 2026 20:52:00 GMT",
         "first_seen": "2026-02-17T23:31:44.726849"
+      },
+      "9aa7ddc55ce5415ea99a74c358b5f7987d4dbf2895b812475eedd22f989d5d9a": {
+        "title": "春晚揭秘！蔡明的「大孙子们」，背地里竟在干这些",
+        "link": "https://www.qbitai.com/2026/02/380804.html",
+        "published_date": "Wed, 18 Feb 2026 04:20:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.245562"
+      },
+      "19719178d56c457b56cf3eb7c5375bf10d765fa9ead52de99f74bf37b8af230a": {
+        "title": "银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强",
+        "link": "https://www.qbitai.com/2026/02/380787.html",
+        "published_date": "Wed, 18 Feb 2026 02:54:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.245571"
+      },
+      "d2c64bc86280b9e5c3f465882c59444152d74b21865611cd6b9ce572436a0ff8": {
+        "title": "2026-02-18日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-18/",
+        "published_date": "Wed, 18 Feb 2026 07:23:00 GMT",
+        "first_seen": "2026-02-18T06:03:08.245573"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-17T23:31:02.338110",
-    "Finance": "2026-02-17T23:31:32.704980",
-    "Ai": "2026-02-17T23:31:44.726851"
+    "Technology": "2026-02-18T06:02:56.101050",
+    "Finance": "2026-02-18T06:03:08.089959",
+    "Ai": "2026-02-18T06:03:08.245575"
   }
 }

@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-17 23:31
+**最后更新时间**: 2026-02-18 06:02
+
+---
+
+## 🆕 最新更新 (2026-02-18 06:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Christine Lagarde to leave ECB before the end of her 8-year term](https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c)
+**发布时间**: 2026-02-18 05:00
+
+#### [Maternity care is broken. Who can fix it?](https://www.ft.com/content/24e09145-cd66-4e73-8800-2f13ea18ff2a)
+**发布时间**: 2026-02-18 05:00
+
+#### [The truth about population decline](https://www.ft.com/content/0ae26c7b-09ea-4c5c-b337-6db0c357c916)
+**发布时间**: 2026-02-18 05:00
+
+#### [Brain drain is undermining America’s scientific edge](https://www.ft.com/content/853db09a-312b-466e-940e-9680ca31daa6)
+**发布时间**: 2026-02-18 05:00
+
+#### [Carmakers to win reprieve in £11bn UK motor finance redress scheme](https://www.ft.com/content/bc45946e-3751-402c-94b8-947d2fc41717)
+**发布时间**: 2026-02-18 05:00
+
+#### [Gilt investors warn about ‘ruse’ to fund higher UK defence spending](https://www.ft.com/content/7b75d557-feb4-4a1f-881a-7d52df7da7aa)
+**发布时间**: 2026-02-18 05:00
+
+#### [John Lewis hands shop floor staff 6.9% pay rise](https://www.ft.com/content/d9237b2d-c889-4fe0-bfd2-27d7029493dc)
+**发布时间**: 2026-02-18 00:01
+
+#### [Reform UK pledges to keep fiscal watchdog if it wins power](https://www.ft.com/content/2caa8741-e8eb-4d34-a5d6-2779c68931db)
+**发布时间**: 2026-02-18 00:01
+
+#### [UK unemployment hits post-pandemic peak as wage growth cools](https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc)
+**发布时间**: 2026-02-17 12:46
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Palo Alto Networks’ stock slides as underwhelming outlook overshadows AI messaging](https://www.marketwatch.com/story/palo-alto-networks-stock-slides-as-underwhelming-outlook-overshadows-ai-messaging-7bb6ad12?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 02:14
+
+#### [‘I have a moral and ethical conundrum’: My husband was killed by a careless driver. I received $2 million. What do I owe my stepdaughter?](https://www.marketwatch.com/story/i-have-a-moral-and-ethical-conundrum-my-husband-was-killed-by-a-careless-driver-i-received-2-million-what-do-i-owe-my-stepdaughter-2c3250e8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 01:59
+
+#### [‘The world feels unpredictable’: I’m 56. My husband is 64. Our mortgage costs $17K a month. Do we pay it off?](https://www.marketwatch.com/story/the-world-feels-unpredictable-im-56-my-husband-is-64-our-mortgage-costs-17-000-a-month-do-we-pay-it-off-c8a454d8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 01:58
+
+#### [Nvidia’s new Meta deal may not be great news for these other tech stocks](https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 01:01
 
 ---
 

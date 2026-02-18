@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Feb 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 23:31:02 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 06:02:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 06:02:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“老外”集体来华过春节，对中国“真香”了？</title>
-      <link>https://www.tmtpost.com/7882815.html</link>
-      <description>&lt;![CDATA[“老外”集体来华过春节，对中国“真香”了？]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7882815.html</guid>
+      <title>17家、540亿、2个月：AI融资进入寡头时代，赢家通吃开始</title>
+      <link>https://www.tmtpost.com/7883312.html</link>
+      <description>&lt;![CDATA[17家、540亿、2个月：AI融资进入寡头时代，赢家通吃开始]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7883312.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>春晚机器人，谁赢麻了？</title>
-      <link>https://www.tmtpost.com/7882863.html</link>
-      <description>&lt;![CDATA[春晚机器人，谁赢麻了？]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7882863.html</guid>
+      <title>Teleport 推出智能体身份框架，为企业基础设施中的 AI 智能体提供安全保障</title>
+      <link>https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Teleport 推出智能体身份框架，为企业基础设施中的 AI 智能体提供安全保障]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千问3.5以小胜大，阿里巴巴的阳谋藏不住了</title>
-      <link>https://www.tmtpost.com/7882917.html</link>
-      <description>&lt;![CDATA[千问3.5以小胜大，阿里巴巴的阳谋藏不住了]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7882917.html</guid>
+      <title>业绩暴涨54%仍要赴港拿钱？思源电气绑上宁德时代，急补储能弹药</title>
+      <link>https://www.tmtpost.com/7883123.html</link>
+      <description>&lt;![CDATA[业绩暴涨54%仍要赴港拿钱？思源电气绑上宁德时代，急补储能弹药]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7883123.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>连农村的堂弟都不看春晚了｜马上评</title>
-      <link>https://www.tmtpost.com/7882851.html</link>
-      <description>&lt;![CDATA[连农村的堂弟都不看春晚了｜马上评]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7882851.html</guid>
+      <title>漫剧公司集体转向，AI仿真人或将颠覆行业</title>
+      <link>https://www.tmtpost.com/7883243.html</link>
+      <description>&lt;![CDATA[漫剧公司集体转向，AI仿真人或将颠覆行业]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7883243.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>春晚机器人爆红背后：一场关于「非共识」的产业思辨</title>
+      <link>https://www.tmtpost.com/7883501.html</link>
+      <description>&lt;![CDATA[春晚机器人爆红背后：一场关于「非共识」的产业思辨]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7883501.html</guid>
       <category>Technology</category>
     </item>
   </channel>
