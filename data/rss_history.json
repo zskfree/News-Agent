@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a31adf8c09c9c58809b027a36e212485cf8ce96b0943b30dac68dd006acd4c50": {
-        "title": "AI手机走到分岔口：巨头们正在重注Agent逻辑",
-        "link": "https://www.tmtpost.com/7847824.html",
-        "published_date": "Mon, 19 Jan 2026 16:25:00 GMT",
-        "first_seen": "2026-01-19T08:36:51.360721"
-      },
-      "a4e3c0e761dbd1daa0f2f6c7ff0861faf33e88637894b94be8f5f63fc101a406": {
-        "title": "派早报：ChatGPT 将上线广告",
-        "link": "https://sspai.com/post/105551",
-        "published_date": "Mon, 19 Jan 2026 08:39:00 GMT",
-        "first_seen": "2026-01-19T08:36:51.360728"
-      },
-      "df06b06e05456f615c9948f2b92ea913bf7a67c33e07ed7313756af19ec119c1": {
-        "title": "苹果谷歌握手AI背后：国产手机为何不敢革自己的命？",
-        "link": "https://www.tmtpost.com/7847723.html",
-        "published_date": "Mon, 19 Jan 2026 14:56:00 GMT",
-        "first_seen": "2026-01-19T08:36:51.360731"
-      },
-      "6dba518258469705db3c5d2f3ec599c67e7518b6c66079f7424c53f629ca86ed": {
-        "title": "从 Greenplum 到 Doris：集群缩减 2/3、年省数百万，度小满构建超大规模数据分析平台技术实践",
-        "link": "https://www.infoq.cn/article/kflvtWGPeXN40M3OPzff?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 19 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-19T08:36:51.360732"
-      },
-      "131cb69b22ea14856200cb5f0b8460049e6c8cceaa5c8b1e4d318791af75453f": {
-        "title": "从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」",
-        "link": "https://www.tmtpost.com/7847492.html",
-        "published_date": "Mon, 19 Jan 2026 11:48:00 GMT",
-        "first_seen": "2026-01-19T08:36:51.360734"
-      },
       "1be8bbe5fe4ba2b4fca2d6c633e16f47845e8bb47aada72ff733c555944dc399": {
         "title": "IPO扎堆，设备商牵头，国产半导体设备零部件加速破局",
         "link": "https://www.tmtpost.com/7847977.html",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7883501.html",
         "published_date": "Wed, 18 Feb 2026 09:34:00 GMT",
         "first_seen": "2026-02-18T06:02:56.101046"
+      },
+      "925f5f7cf9c59fea097639f038c6a068312142d3efd759497e401420d12bb401": {
+        "title": "推荐 4 个神级 SKills 开源 GitHub 项目，非常实用。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531515&idx=1&sn=f248513e73e1bbfa3f125256176f7450",
+        "published_date": "Wed, 18 Feb 2026 14:46:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.397848"
+      },
+      "375083a4e349c5d1a625c657ba6b211395fd21fec9a27b504ddcf425530cc891": {
+        "title": "春晚7分钟，看见“立上游”的AI新城宜宾",
+        "link": "https://www.tmtpost.com/7883744.html",
+        "published_date": "Wed, 18 Feb 2026 13:49:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.397856"
+      },
+      "a8ba61d56e277aaf6ee877db125e9780089cabbdf089c2a63ea3ce2475f3c753": {
+        "title": "春节走亲戚，年轻人“反向教育”长辈",
+        "link": "https://www.tmtpost.com/7883499.html",
+        "published_date": "Wed, 18 Feb 2026 09:34:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.397859"
+      },
+      "10814dcac8acbe50b1bf7b4068f183d823f33afa77fcdb1a86148f3468579084": {
+        "title": "从暴跌31%到千元以下全赔，国投白银被迫“按闹分配”",
+        "link": "https://www.tmtpost.com/7883155.html",
+        "published_date": "Wed, 18 Feb 2026 08:35:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.397861"
+      },
+      "35a4911c7e26d7b515060a953a21ef836b16df90533b5c8495ebe7928e22e750": {
+        "title": "你抢不到的RTX5090，还在厨子、电工和铁匠手里？",
+        "link": "https://www.tmtpost.com/7883151.html",
+        "published_date": "Wed, 18 Feb 2026 08:25:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.397862"
       }
     },
     "Finance": {
-      "ce15d63580be3b88fc7067d509d0cb4a9a7e30105f2ea8a7b6d5fbf4a4c8b39c": {
-        "title": "Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland",
-        "link": "https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories",
-        "published_date": "Mon, 19 Jan 2026 08:33:00 GMT",
-        "first_seen": "2026-01-19T08:36:15.403844"
-      },
-      "66096c503434584488badc27a12e62e89bc146755dfb39634d94ea4442e2b278": {
-        "title": "Gold hits record and stocks fall as Greenland crisis deepens",
-        "link": "https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90",
-        "published_date": "Mon, 19 Jan 2026 07:23:00 GMT",
-        "first_seen": "2026-01-19T08:36:15.403857"
-      },
       "35c19dab0c9a30c30894286082aac955708d6afb6b2be4717ef1bf25fb103e53": {
         "title": "Jerome Powell will attend Supreme Court hearing on Lisa Cook’s firing",
         "link": "https://www.marketwatch.com/story/jerome-powell-will-attend-supreme-court-hearing-on-lisa-cooks-firing-23e75828?mod=mw_rss_topstories",
@@ -4689,39 +4677,21 @@
         "link": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
         "published_date": "Wed, 18 Feb 2026 01:01:00 GMT",
         "first_seen": "2026-02-18T06:03:08.089956"
+      },
+      "9f74ffdad5a73abee755b967145853f1a3038cea16530af09cd066ab78c2369f": {
+        "title": "UK inflation falls sharply to 3% in January",
+        "link": "https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9",
+        "published_date": "Wed, 18 Feb 2026 08:06:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.428651"
+      },
+      "0055c878afaa1622518d92fb39feb46bc62589d557d9b1b963096aa6f1b719b8": {
+        "title": "Lagarde to leave ECB before the end of 8-year term",
+        "link": "https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c",
+        "published_date": "Wed, 18 Feb 2026 07:54:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.428657"
       }
     },
     "Ai": {
-      "fdac3e460dd92c277d09ccc4c08cfefe113f4171c8aae68cc12e879029f2ac71": {
-        "title": "迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-5",
-        "published_date": "Mon, 19 Jan 2026 14:06:00 GMT",
-        "first_seen": "2026-01-19T08:36:28.020513"
-      },
-      "575c6d286117edf027ad2e80c2bcc895bb26eea701d0c46b2e5f6353a0489337": {
-        "title": "效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19",
-        "published_date": "Mon, 19 Jan 2026 10:25:00 GMT",
-        "first_seen": "2026-01-19T08:36:28.020520"
-      },
-      "b081c82fea7fb635f8f0a8fa3a05adf753692bda38cac1a2c1196e37062dd6b5": {
-        "title": "你的论文有novelty吗？复旦搞了个顶会论文查新系统",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-4",
-        "published_date": "Mon, 19 Jan 2026 12:07:00 GMT",
-        "first_seen": "2026-01-19T08:36:28.020523"
-      },
-      "88d7ac50aac36fcf8ee932682174bfbda3ea104751acfa3f68d940c6f5acf3d2": {
-        "title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
-        "link": "https://www.qbitai.com/2026/01/370285.html",
-        "published_date": "Mon, 19 Jan 2026 07:30:00 GMT",
-        "first_seen": "2026-01-19T08:36:28.020524"
-      },
-      "e8cb8e792eabf479ff499184e65cf1b061101ee6cec42cf3793e248b33d19858": {
-        "title": "CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-19-2",
-        "published_date": "Mon, 19 Jan 2026 10:32:00 GMT",
-        "first_seen": "2026-01-19T08:36:28.020527"
-      },
       "28a70f4d5aa7c4a524e5381306e887114e39633c6eea0f19c9ef075f9a0cc3e9": {
         "title": "租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂",
         "link": "https://www.jiqizhixin.com/articles/2026-01-19-8",
@@ -6863,13 +6833,25 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-18/",
         "published_date": "Wed, 18 Feb 2026 07:23:00 GMT",
         "first_seen": "2026-02-18T06:03:08.245573"
+      },
+      "cedf6a75312eb7fa5b8750337eef3f622894c818e338a000014c22cea5da5337": {
+        "title": "Claude最新Sonnet：Opus级智能，性价比王炸，OpenClaw天选API",
+        "link": "https://www.qbitai.com/2026/02/381081.html",
+        "published_date": "Wed, 18 Feb 2026 08:16:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.571851"
+      },
+      "9142fae5e600bf37580b5e98c7534ba04f27998f927f77304cf51e7ec5b37811": {
+        "title": "马斯克xAI新模型上线，通过“50米外洗车店”测试，回答偏好高度贴合老马本人",
+        "link": "https://www.qbitai.com/2026/02/381037.html",
+        "published_date": "Wed, 18 Feb 2026 08:10:00 GMT",
+        "first_seen": "2026-02-18T08:50:01.571859"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-18T06:02:56.101050",
-    "Finance": "2026-02-18T06:03:08.089959",
-    "Ai": "2026-02-18T06:03:08.245575"
+    "Technology": "2026-02-18T08:50:01.397864",
+    "Finance": "2026-02-18T08:50:01.428659",
+    "Ai": "2026-02-18T08:50:01.571861"
   }
 }

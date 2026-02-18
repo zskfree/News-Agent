@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Feb 2026 06:02:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 06:03:08 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 08:50:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Christine Lagarde to leave ECB before the end of her 8-year term</title>
+      <title>UK inflation falls sharply to 3% in January</title>
+      <link>https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</link>
+      <description>&lt;![CDATA[UK inflation falls sharply to 3% in January]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 08:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Lagarde to leave ECB before the end of 8-year term</title>
       <link>https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</link>
-      <description>&lt;![CDATA[Christine Lagarde to leave ECB before the end of her 8-year term]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 GMT</pubDate>
+      <description>&lt;![CDATA[Lagarde to leave ECB before the end of 8-year term]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 07:54:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gilt investors warn about ‘ruse’ to fund higher UK defence spending</title>
-      <link>https://www.ft.com/content/7b75d557-feb4-4a1f-881a-7d52df7da7aa</link>
-      <description>&lt;![CDATA[Gilt investors warn about ‘ruse’ to fund higher UK defence spending]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7b75d557-feb4-4a1f-881a-7d52df7da7aa</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Carmakers to win reprieve in £11bn UK motor finance redress scheme</title>
-      <link>https://www.ft.com/content/bc45946e-3751-402c-94b8-947d2fc41717</link>
-      <description>&lt;![CDATA[Carmakers to win reprieve in £11bn UK motor finance redress scheme]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/bc45946e-3751-402c-94b8-947d2fc41717</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The truth about population decline</title>
-      <link>https://www.ft.com/content/0ae26c7b-09ea-4c5c-b337-6db0c357c916</link>
-      <description>&lt;![CDATA[The truth about population decline]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0ae26c7b-09ea-4c5c-b337-6db0c357c916</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia’s new Meta deal may not be great news for these other tech stocks</title>
-      <link>https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s new Meta deal may not be great news for these other tech stocks]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

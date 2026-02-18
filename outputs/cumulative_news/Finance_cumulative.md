@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 06:02
+**最后更新时间**: 2026-02-18 08:50
+
+---
+
+## 🆕 最新更新 (2026-02-18 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation falls sharply to 3% in January](https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9)
+**发布时间**: 2026-02-18 08:06
+
+#### [Lagarde to leave ECB before the end of 8-year term](https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c)
+**发布时间**: 2026-02-18 07:54
+
+#### [Maternity care is broken in the UK. Who can fix it?](https://www.ft.com/content/24e09145-cd66-4e73-8800-2f13ea18ff2a)
+**发布时间**: 2026-02-18 05:00
+
+#### [Blackstone, EQT and CVC make offers for Volkswagen unit](https://www.ft.com/content/ef4337b5-4bf7-495a-941f-5001ae60e5e0)
+**发布时间**: 2026-02-18 05:00
+
+#### [British scientist raising $1bn for new AI lab in Europe’s biggest seed round](https://www.ft.com/content/dffe72d0-4064-4412-8ebc-50198a30d40e)
+**发布时间**: 2026-02-18 05:00
 
 ---
 

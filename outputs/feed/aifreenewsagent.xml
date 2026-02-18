@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Feb 2026 06:02:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 06:03:08 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 08:49:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 08:50:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>春晚揭秘！蔡明的「大孙子们」，背地里竟在干这些</title>
-      <link>https://www.qbitai.com/2026/02/380804.html</link>
-      <description>&lt;![CDATA[春晚揭秘！蔡明的「大孙子们」，背地里竟在干这些]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380804.html</guid>
+      <title>Claude最新Sonnet：Opus级智能，性价比王炸，OpenClaw天选API</title>
+      <link>https://www.qbitai.com/2026/02/381081.html</link>
+      <description>&lt;![CDATA[Claude最新Sonnet：Opus级智能，性价比王炸，OpenClaw天选API]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 08:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381081.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强</title>
-      <link>https://www.qbitai.com/2026/02/380787.html</link>
-      <description>&lt;![CDATA[银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 02:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/380787.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-02-18日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-18/</link>
-      <description>&lt;![CDATA[2026-02-18日刊]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-18/</guid>
+      <title>马斯克xAI新模型上线，通过“50米外洗车店”测试，回答偏好高度贴合老马本人</title>
+      <link>https://www.qbitai.com/2026/02/381037.html</link>
+      <description>&lt;![CDATA[马斯克xAI新模型上线，通过“50米外洗车店”测试，回答偏好高度贴合老马本人]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 08:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381037.html</guid>
       <category>Ai</category>
     </item>
   </channel>
