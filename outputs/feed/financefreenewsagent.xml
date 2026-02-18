@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Feb 2026 08:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 08:50:01 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 23:32:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK inflation falls sharply to 3% in January</title>
-      <link>https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</link>
-      <description>&lt;![CDATA[UK inflation falls sharply to 3% in January]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9</guid>
+      <title>Fed officials warn progress towards inflation goal will be ‘uneven’</title>
+      <link>https://www.ft.com/content/5231da49-e62a-4dfa-bc5a-77fcf0596aa1</link>
+      <description>&lt;![CDATA[Fed officials warn progress towards inflation goal will be ‘uneven’]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 19:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5231da49-e62a-4dfa-bc5a-77fcf0596aa1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Lagarde to leave ECB before the end of 8-year term</title>
-      <link>https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</link>
-      <description>&lt;![CDATA[Lagarde to leave ECB before the end of 8-year term]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c</guid>
+      <title>U.S. stocks are falling behind. It could be the beginning of an epic shift toward global markets.</title>
+      <link>https://www.marketwatch.com/story/u-s-stocks-are-falling-behind-it-could-be-the-beginning-of-an-epic-shift-toward-global-markets-832e2785?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[U.S. stocks are falling behind. It could be the beginning of an epic shift toward global markets.]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stocks-are-falling-behind-it-could-be-the-beginning-of-an-epic-shift-toward-global-markets-832e2785?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The bullish breakout in these stocks suggests the housing market has turned a corner</title>
+      <link>https://www.marketwatch.com/story/the-bullish-breakout-in-these-stocks-suggests-the-housing-market-has-turned-a-corner-af670c8d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The bullish breakout in these stocks suggests the housing market has turned a corner]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-bullish-breakout-in-these-stocks-suggests-the-housing-market-has-turned-a-corner-af670c8d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Etsy is selling Depop to eBay at a markdown, in latest move to focus on basics. Both stocks are rallying.</title>
+      <link>https://www.marketwatch.com/story/etsy-is-selling-depop-to-ebay-at-a-markdown-in-latest-move-to-focus-on-basics-both-stocks-are-rallying-d866740d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Etsy is selling Depop to eBay at a markdown, in latest move to focus on basics. Both stocks are rallying.]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 23:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/etsy-is-selling-depop-to-ebay-at-a-markdown-in-latest-move-to-focus-on-basics-both-stocks-are-rallying-d866740d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Figma’s stock soars as AI earnings momentum helps ease investors’ doubts</title>
+      <link>https://www.marketwatch.com/story/figmas-stock-soars-as-ai-earnings-momentum-helps-ease-investors-doubts-9f31e005?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Figma’s stock soars as AI earnings momentum helps ease investors’ doubts]]&gt;</description>
+      <pubDate>Wed, 18 Feb 2026 21:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/figmas-stock-soars-as-ai-earnings-momentum-helps-ease-investors-doubts-9f31e005?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

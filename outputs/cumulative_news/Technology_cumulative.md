@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 08:49
+**最后更新时间**: 2026-02-18 23:32
+
+---
+
+## 🆕 最新更新 (2026-02-18 23:32)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当AI开始拥有灵魂：逐句解读OpenClaw的SOUL.md](https://www.infoq.cn/article/7QieJxH5gpNRvL5hKcrG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-18 20:50
+
+#### [从维也纳的PDF到旧⾦⼭的⽖⼦：Peter Steinberger 的来时路](https://www.infoq.cn/article/e0gyUzRvzU263FTBePdw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-18 20:44
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国产大模型“春节档”混战，一文看懂豆包是怎么打这仗的](https://www.tmtpost.com/7883814.html)
+**发布时间**: 2026-02-18 20:33
+
+#### [电影、长剧、短剧，决战2026春节档](https://www.tmtpost.com/7884009.html)
+**发布时间**: 2026-02-18 20:33
+
+#### [五度登上春晚舞台，雅迪化身“赛博骑骥”，重构好运图腾](https://www.tmtpost.com/7876159.html)
+**发布时间**: 2026-02-18 20:33
+
+#### [王兴兴彻底杀疯了](https://www.tmtpost.com/7883782.html)
+**发布时间**: 2026-02-18 20:33
+
+#### [性能持平价格大降80%，Anthropic新模型杀疯了](https://www.tmtpost.com/7883736.html)
+**发布时间**: 2026-02-18 17:53
+
+#### [智能手机普及用了5年，移动支付用了3年，AI只用了一个春节](https://www.tmtpost.com/7883562.html)
+**发布时间**: 2026-02-18 17:53
+
+#### [5000万撬动27亿，为恒智能IPO背后的“壳王”算盘](https://www.tmtpost.com/7883127.html)
+**发布时间**: 2026-02-18 17:53
+
+#### [3小时售罄、爆卖上万单，马年第一波爆款，带火一座城](https://www.tmtpost.com/7883779.html)
+**发布时间**: 2026-02-18 17:52
+
+#### [技术门槛降为零，Manus反击OpenClaw，推出傻瓜版Agents](https://www.tmtpost.com/7883733.html)
+**发布时间**: 2026-02-18 17:52
 
 ---
 
