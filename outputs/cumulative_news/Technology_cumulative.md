@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 23:32
+**最后更新时间**: 2026-02-19 06:00
+
+---
+
+## 🆕 最新更新 (2026-02-19 06:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [募资50亿扩充产能，600亿国轩高科不下“牌桌”](https://www.tmtpost.com/7884565.html)
+**发布时间**: 2026-02-19 11:16
+
+#### [Seedance2.0，AI视频的DeepSeek时刻](https://www.tmtpost.com/7884170.html)
+**发布时间**: 2026-02-19 10:56
+
+#### [春晚杀疯后，谁能再造大模型时代的超级国民应用？](https://www.tmtpost.com/7884183.html)
+**发布时间**: 2026-02-19 10:52
+
+#### [寒武纪的“榜一大哥”，字节跳动不想当了](https://www.tmtpost.com/7884056.html)
+**发布时间**: 2026-02-19 10:32
+
+#### [AI视频春节大进阶：豆包to C，可灵 to B](https://www.tmtpost.com/7884239.html)
+**发布时间**: 2026-02-19 10:32
+
+#### [春节祈福，AI算命火了](https://www.tmtpost.com/7884469.html)
+**发布时间**: 2026-02-19 10:32
+
+#### [1850亿豪赌硬件生态！Google I/O 2026定档，Gemini 可穿戴将有新突破？](https://www.tmtpost.com/7884066.html)
+**发布时间**: 2026-02-19 10:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Nuxt Studio发布：用于生产环境中内容编辑的开源CMS](https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-19 08:00
 
 ---
 

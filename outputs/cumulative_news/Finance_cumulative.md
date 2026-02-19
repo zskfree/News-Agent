@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 23:32
+**最后更新时间**: 2026-02-19 06:00
+
+---
+
+## 🆕 最新更新 (2026-02-19 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The crypto-loving billionaire and the $400mn ‘perfect fraud’](https://www.ft.com/content/56c21cb3-5985-4921-b64d-2344187ae94b)
+**发布时间**: 2026-02-19 05:00
+
+#### [A court will decide if bankers can be fired for demanding sleep](https://www.ft.com/content/60b3dd1c-112a-470c-aa77-1bc697d13cf7)
+**发布时间**: 2026-02-19 05:00
+
+#### [Who’s afraid of the big bad trade deficit?](https://www.ft.com/content/af9b839a-ee4b-480c-9a03-d5dc7694c1e7)
+**发布时间**: 2026-02-19 05:00
+
+#### [Accenture combats AI refuseniks by linking promotions to log-ins](https://www.ft.com/content/ac672f97-a603-4c56-afa3-4a5273d45674)
+**发布时间**: 2026-02-19 05:00
+
+#### [Christine Lagarde’s move to run World Economic Forum not a ‘foregone conclusion’](https://www.ft.com/content/742f048e-c633-4d2d-80c9-84cf0cca26de)
+**发布时间**: 2026-02-19 05:00
+
+#### [Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Instagram](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
+**发布时间**: 2026-02-19 02:53
+
+#### [Blue Owl permanently halts redemptions at fund aimed at retail investors](https://www.ft.com/content/b2f299f6-2a82-4a43-bcbf-86cac3937550)
+**发布时间**: 2026-02-19 01:29
+
+#### [UK to require tech firms to remove abusive images within 48 hours](https://www.ft.com/content/98f5bfd9-8a99-4b2e-89d9-e094b657925c)
+**发布时间**: 2026-02-19 00:15
+
+#### [Spain first to enter race for Lagarde succession at ECB](https://www.ft.com/content/40edff13-2ee6-4452-81c7-d2dd2201d4fc)
+**发布时间**: 2026-02-18 14:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What oil hitting $70 a barrel would signal about rising U.S.-Iran tensions](https://www.marketwatch.com/story/what-oil-hitting-70-a-barrel-would-signal-about-iran-and-u-s-tensions-cc026155?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 03:48
+
+#### [Will Microsoft’s stock finally rebound? A board member just bet $2 million on a turnaround.](https://www.marketwatch.com/story/will-microsofts-stock-finally-rebound-a-board-member-just-bet-2-million-on-a-turnaround-5aa41ff8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 02:17
+
+#### [Palo Alto Networks’ stock falls after earnings. These analysts see a good chance to buy.](https://www.marketwatch.com/story/palo-alto-networks-stock-falls-after-earnings-these-analysts-see-a-good-chance-to-buy-8094364d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 23:52
 
 ---
 

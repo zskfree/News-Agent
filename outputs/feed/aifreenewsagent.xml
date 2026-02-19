@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Feb 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 23:32:58 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 06:01:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude最强Sonnet模型4.6来了，百万token上下文</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-18-4</link>
-      <description>&lt;![CDATA[Claude最强Sonnet模型4.6来了，百万token上下文]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 21:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-18-4</guid>
+      <title>春晚之后，AI和机器人为啥都去了一个地方？</title>
+      <link>https://www.qbitai.com/2026/02/381301.html</link>
+      <description>&lt;![CDATA[春晚之后，AI和机器人为啥都去了一个地方？]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381301.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>霸榜SOTA，蚂蚁开源UI-Venus-1.5，GUI智能体办事时代加速到来</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-18-3</link>
-      <description>&lt;![CDATA[霸榜SOTA，蚂蚁开源UI-Venus-1.5，GUI智能体办事时代加速到来]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 21:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-18-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>北大、高德联合出品 | 仅凭几张卫星图，即可重建出逼真3D城市</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-18</link>
-      <description>&lt;![CDATA[北大、高德联合出品 | 仅凭几张卫星图，即可重建出逼真3D城市]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 20:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-18</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICLR 2026 | 阿里高德发布SpatialGenEval，揭秘谁才是真正的文生图大师</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-18-2</link>
-      <description>&lt;![CDATA[ICLR 2026 | 阿里高德发布SpatialGenEval，揭秘谁才是真正的文生图大师]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 21:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-18-2</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>极限30天机器狗爆改大熊猫！揭秘春晚百台级机器人群控演出</title>
-      <link>https://www.qbitai.com/2026/02/381146.html</link>
-      <description>&lt;![CDATA[极限30天机器狗爆改大熊猫！揭秘春晚百台级机器人群控演出]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381146.html</guid>
+      <title>2026-02-19日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-19/</link>
+      <description>&lt;![CDATA[2026-02-19日刊]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-19/</guid>
       <category>Ai</category>
     </item>
   </channel>
