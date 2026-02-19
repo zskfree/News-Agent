@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Feb 2026 08:49:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 08:49:20 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 23:32:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>South Korea’s ex-president escapes death sentence in martial law trial</title>
-      <link>https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987</link>
-      <description>&lt;![CDATA[South Korea’s ex-president escapes death sentence in martial law trial]]&gt;</description>
-      <pubDate>Thu, 19 Feb 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987</guid>
+      <title>Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash</title>
+      <link>https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Bank of America commits $25bn to private credit lending</title>
+      <link>https://www.ft.com/content/faedf9f9-6e73-457c-b073-bcd46ed780c7</link>
+      <description>&lt;![CDATA[Bank of America commits $25bn to private credit lending]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/faedf9f9-6e73-457c-b073-bcd46ed780c7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Private credit stocks slide after Blue Owl halts redemptions at fund</title>
+      <link>https://www.ft.com/content/cdca18df-473c-4c66-a6db-d9be32bf9d88</link>
+      <description>&lt;![CDATA[Private credit stocks slide after Blue Owl halts redemptions at fund]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cdca18df-473c-4c66-a6db-d9be32bf9d88</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why your portfolio may face one last rate-hike surprise before May</title>
+      <link>https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why your portfolio may face one last rate-hike surprise before May]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 22:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s tariffs may be struck down — but the hit to small business is just beginning</title>
+      <link>https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s tariffs may be struck down — but the hit to small business is just beginning]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 21:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

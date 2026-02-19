@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Feb 2026 08:48:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 08:49:20 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 23:32:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地</title>
-      <link>https://www.qbitai.com/2026/02/381415.html</link>
-      <description>&lt;![CDATA[太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地]]&gt;</description>
-      <pubDate>Thu, 19 Feb 2026 06:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381415.html</guid>
+      <title>OpenAI偷偷改使命：不再「造福人类」，安全都删了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-19-2</link>
+      <description>&lt;![CDATA[OpenAI偷偷改使命：不再「造福人类」，安全都删了]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 20:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-19-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Nature 重磅：上海交大人工智能学院×新华医院「梦之队」，如何用 AI 智能体终结罕见病确诊的「百年孤独」？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-19</link>
+      <description>&lt;![CDATA[Nature 重磅：上海交大人工智能学院×新华医院「梦之队」，如何用 AI 智能体终结罕见病确诊的「百年孤独」？]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 20:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-19</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-19-4</link>
+      <description>&lt;![CDATA[让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-19-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICLR 2026 | 数据缺少标注，RL还能稳定诱导模型推理吗？Co-rewarding提供自监督RL学习方案！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-19-3</link>
+      <description>&lt;![CDATA[ICLR 2026 | 数据缺少标注，RL还能稳定诱导模型推理吗？Co-rewarding提供自监督RL学习方案！]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-19-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从舞台秀到真干活，北京卫视春晚演绎机器人走向日常好用</title>
+      <link>https://www.qbitai.com/2026/02/381417.html</link>
+      <description>&lt;![CDATA[从舞台秀到真干活，北京卫视春晚演绎机器人走向日常好用]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381417.html</guid>
       <category>Ai</category>
     </item>
   </channel>
