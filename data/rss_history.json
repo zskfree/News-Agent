@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4740f3ba16e0648147b75ea0278a3b1c344fbd72fc265c77bf458cdc08b0cdd": {
-        "title": "产业级 Agent 如何破局？百度吴健民：通用模型难“通吃”，垂直场景才是出路",
-        "link": "https://www.infoq.cn/article/RFVtzWIOoQhubp6cz0yK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 15:10:00 GMT",
-        "first_seen": "2026-01-20T08:36:03.565362"
-      },
-      "a5e3f6db725c849894399885bdfe36b6490c8b13497f1d642e3828732bac1217": {
-        "title": "2026 年预测：智能体将推动集中化战略，带来新的工作方式 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/cTKd3cN0LK4Fx90mPArR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 14:48:00 GMT",
-        "first_seen": "2026-01-20T08:36:03.565369"
-      },
-      "3113d4d1752b271a69db7fa3cda1bb610fcdfdaa6e2e2f48b43f8684361a0a2d": {
-        "title": "2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启",
-        "link": "https://www.tmtpost.com/7844541.html",
-        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
-        "first_seen": "2026-01-20T08:36:03.565372"
-      },
-      "182232b23befdd48abcd67a86f0f14ab44dcb77daa7362336470e5603abc68bf": {
-        "title": "大模型低价趋势延续！智象未来姚霆：B端、C端界限模糊，API不够、逼出 “按结果付费”",
-        "link": "https://www.infoq.cn/article/fijwq6waNUKJhmbUGMqc?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 15:18:00 GMT",
-        "first_seen": "2026-01-20T08:36:03.565373"
-      },
-      "700533693451f900e984842612cfbf89f871bc8184ee021285bdd6b6fd801407": {
-        "title": "3700+ Star 的 MemOS：在 Claude 之前，就把 AI 的记忆和知识库分清楚了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530693&idx=1&sn=a231230a037f2fbe8b1c4cd51db85f29",
-        "published_date": "Tue, 20 Jan 2026 15:05:00 GMT",
-        "first_seen": "2026-01-20T08:36:03.565375"
-      },
       "09afe0d0bf8dfa2f05ab4b42225f646ef92f820b1eee8963c9e69f02d368526b": {
         "title": "纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关",
         "link": "https://www.tmtpost.com/7849618.html",
@@ -2695,33 +2665,39 @@
         "link": "https://www.tmtpost.com/7884056.html",
         "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
         "first_seen": "2026-02-19T06:01:02.276597"
+      },
+      "79ced87d2db518bf9daf40cc834783665a91508611560866ebddbe9cd3b34696": {
+        "title": "新能源汽车出海2.0：从“卖车”到“建生态”",
+        "link": "https://www.tmtpost.com/7884620.html",
+        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.629081"
+      },
+      "5fe924c40c702692b74d46adcd0de1fd2069868b3a11cb2134b187d1fbb2132c": {
+        "title": "募资50亿扩充产能，600亿国轩高科不下“牌桌”",
+        "link": "https://www.tmtpost.com/7884565.html",
+        "published_date": "Thu, 19 Feb 2026 11:16:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.629090"
+      },
+      "b8364673d9281c5e2d973ea6f28e83031a6606cc5ac8e276ba0540933d9198ad": {
+        "title": "Nuxt Studio发布：用于生产环境中内容编辑的开源CMS",
+        "link": "https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.629092"
+      },
+      "5ed827ebbb5ed0a24aee199b61e31bcce2a7bd3eab512f4a4ca9b5acf6ebfabf": {
+        "title": "机器人集体“卷”上春晚，IPO前的“亿级”路演",
+        "link": "https://www.tmtpost.com/7884737.html",
+        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.629095"
+      },
+      "1713c1bddabc8f573417da89834cf3e5508305b5cb552cb3683f0b2bd857a8a8": {
+        "title": "盘点 6 个本周 yyds 的 GitHub 开源项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531516&idx=1&sn=b2f05e6fbbbcc8525df191034a176c4d",
+        "published_date": "Thu, 19 Feb 2026 12:12:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.629096"
       }
     },
     "Finance": {
-      "b8d1f295e4f742e8d001cc1c43a6d8237b1678df8944f00bee75021d55d6c462": {
-        "title": "ChatGPT is now doing what Sam Altman called a ‘last resort’ only two years ago",
-        "link": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 08:17:00 GMT",
-        "first_seen": "2026-01-20T08:35:23.581858"
-      },
-      "e2c77c592f46f44004dd955ce9d3e28a042cdba2d0c9b21366d9c274b267bff2": {
-        "title": "UK private sector wage growth cools to 3.6% as employers cut headcount",
-        "link": "https://www.ft.com/content/9bb2c50c-3c96-4275-b6c0-8c954edc3922",
-        "published_date": "Tue, 20 Jan 2026 07:54:00 GMT",
-        "first_seen": "2026-01-20T08:35:23.581869"
-      },
-      "8529627aac5319848f8e35c24116cb227e9f88075dc563b194ecf6ee9ad698e1": {
-        "title": "Trump criticises ‘stupidity’ of UK’s Chagos Islands deal",
-        "link": "https://www.ft.com/content/fc4eda20-0129-4a02-878f-0fcc49a5defe",
-        "published_date": "Tue, 20 Jan 2026 07:08:00 GMT",
-        "first_seen": "2026-01-20T08:35:23.581872"
-      },
-      "f010cac83dbb045d06b2d08dfdc9c36ae1d53d32efc1379f1131f4ba7e934ce2": {
-        "title": "Trump to hold Greenland meeting at Davos after ‘very good’ call with Rutte",
-        "link": "https://www.ft.com/content/500d9508-72a2-4b04-a225-33adbbf8af78",
-        "published_date": "Tue, 20 Jan 2026 06:38:00 GMT",
-        "first_seen": "2026-01-20T08:35:23.581874"
-      },
       "00ab1f1b84120295e480714d201138eccfaca885e03292e2a2104c0c9ab6a546": {
         "title": "Here’s how much risk the U.S. faces if global investors ‘weaponize’ American stocks and bonds",
         "link": "https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=mw_rss_topstories",
@@ -4689,39 +4665,15 @@
         "link": "https://www.ft.com/content/af9b839a-ee4b-480c-9a03-d5dc7694c1e7",
         "published_date": "Thu, 19 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-19T06:01:16.321430"
+      },
+      "577d5a2a3f84d3b68ae98bdcaa797eb2fa3d0ad9611890155e03e1519248467e": {
+        "title": "South Korea’s ex-president escapes death sentence in martial law trial",
+        "link": "https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987",
+        "published_date": "Thu, 19 Feb 2026 08:38:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.661645"
       }
     },
     "Ai": {
-      "5b36992ea7acfe98fa48e58e71ae73d5eddf9fbad56f4fa56773e5cc4c4ef808": {
-        "title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-9",
-        "published_date": "Tue, 20 Jan 2026 16:06:00 GMT",
-        "first_seen": "2026-01-20T08:35:41.251779"
-      },
-      "60abf2ce6f81de0cd3679b5a8fbe537c5717fe4cd8c30b52843b9492e9609e85": {
-        "title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-8",
-        "published_date": "Tue, 20 Jan 2026 15:27:00 GMT",
-        "first_seen": "2026-01-20T08:35:41.251785"
-      },
-      "6a8dd725bbd6412b39fcc635b8544b665d4cf9f2cfa579fea726e27c5c1c98d5": {
-        "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-2",
-        "published_date": "Tue, 20 Jan 2026 10:40:00 GMT",
-        "first_seen": "2026-01-20T08:35:41.251788"
-      },
-      "57649c06cbc3211715c999d73b44cabe989c7eea3651fb33d190fb584ceb888f": {
-        "title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-7",
-        "published_date": "Tue, 20 Jan 2026 13:32:00 GMT",
-        "first_seen": "2026-01-20T08:35:41.251790"
-      },
-      "e3ca7ba05549090a969bd787e8fa8792de93850d603147fadc802d39b7a50f45": {
-        "title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-4",
-        "published_date": "Tue, 20 Jan 2026 11:58:00 GMT",
-        "first_seen": "2026-01-20T08:35:41.251791"
-      },
       "80d1eb905b6207a6321db1347c42adaf1c099ea04405df15ccdcce85229a47f5": {
         "title": "马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer",
         "link": "https://www.jiqizhixin.com/articles/2026-01-20-13",
@@ -6827,13 +6779,19 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-19/",
         "published_date": "Thu, 19 Feb 2026 07:23:00 GMT",
         "first_seen": "2026-02-19T06:01:16.443347"
+      },
+      "6a687e52220ec5546bf45d5fc5e915dc85080c374782ab4c648b07a0cfad8139": {
+        "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
+        "link": "https://www.qbitai.com/2026/02/381415.html",
+        "published_date": "Thu, 19 Feb 2026 06:11:00 GMT",
+        "first_seen": "2026-02-19T08:49:20.778840"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-19T06:01:02.276599",
-    "Finance": "2026-02-19T06:01:16.321434",
-    "Ai": "2026-02-19T06:01:16.443349"
+    "Technology": "2026-02-19T08:49:20.629098",
+    "Finance": "2026-02-19T08:49:20.661652",
+    "Ai": "2026-02-19T08:49:20.778848"
   }
 }

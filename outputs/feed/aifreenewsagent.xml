@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Feb 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 06:01:16 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 08:48:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 08:49:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>春晚之后，AI和机器人为啥都去了一个地方？</title>
-      <link>https://www.qbitai.com/2026/02/381301.html</link>
-      <description>&lt;![CDATA[春晚之后，AI和机器人为啥都去了一个地方？]]&gt;</description>
-      <pubDate>Thu, 19 Feb 2026 04:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381301.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-02-19日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-19/</link>
-      <description>&lt;![CDATA[2026-02-19日刊]]&gt;</description>
-      <pubDate>Thu, 19 Feb 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-19/</guid>
+      <title>太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地</title>
+      <link>https://www.qbitai.com/2026/02/381415.html</link>
+      <description>&lt;![CDATA[太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地]]&gt;</description>
+      <pubDate>Thu, 19 Feb 2026 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381415.html</guid>
       <category>Ai</category>
     </item>
   </channel>

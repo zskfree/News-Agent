@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-19 06:00
+**最后更新时间**: 2026-02-19 08:49
+
+---
+
+## 🆕 最新更新 (2026-02-19 08:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [South Korea’s ex-president escapes death sentence in martial law trial](https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987)
+**发布时间**: 2026-02-19 08:38
 
 ---
 
