@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 08:43:26 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:31:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Firestore添加了管道操作，提供了超过100个新的查询功能</title>
-      <link>https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Firestore添加了管道操作，提供了超过100个新的查询功能]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？</title>
+      <link>https://www.tmtpost.com/7881485.html</link>
+      <description>&lt;![CDATA[黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881485.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle</title>
-      <link>https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌Gemini最“小”的一次迭代，姚顺宇为何高呼“不可阻挡”？</title>
+      <link>https://www.tmtpost.com/7885664.html</link>
+      <description>&lt;![CDATA[谷歌Gemini最“小”的一次迭代，姚顺宇为何高呼“不可阻挡”？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885664.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从技术秀场到利润战场：哪家机器人企业更有看头？</title>
-      <link>https://www.tmtpost.com/7885008.html</link>
-      <description>&lt;![CDATA[从技术秀场到利润战场：哪家机器人企业更有看头？]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7885008.html</guid>
+      <title>2026红包大战：中国AI应用迈向春秋五霸时代</title>
+      <link>https://www.tmtpost.com/7885401.html</link>
+      <description>&lt;![CDATA[2026红包大战：中国AI应用迈向春秋五霸时代]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885401.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>推荐 5 个 yyds 的语音 AI 神器，强推第一个。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531518&amp;idx=1&amp;sn=8cd2f2b60570b53f31e3dc5c4af64c7c</link>
-      <description>&lt;![CDATA[推荐 5 个 yyds 的语音 AI 神器，强推第一个。]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531518&amp;idx=1&amp;sn=8cd2f2b60570b53f31e3dc5c4af64c7c</guid>
+      <title>AI 是否已经杀死了敏捷宣言</title>
+      <link>https://www.infoq.cn/article/7ckNsVMQKBSZRjGOdEti?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 是否已经杀死了敏捷宣言]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 16:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7ckNsVMQKBSZRjGOdEti?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间</title>
-      <link>https://www.tmtpost.com/7885450.html</link>
-      <description>&lt;![CDATA[这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7885450.html</guid>
+      <title>春晚机器人出圈背后，“零失误”到底是制作还是现实</title>
+      <link>https://www.tmtpost.com/7885507.html</link>
+      <description>&lt;![CDATA[春晚机器人出圈背后，“零失误”到底是制作还是现实]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885507.html</guid>
       <category>Technology</category>
     </item>
   </channel>

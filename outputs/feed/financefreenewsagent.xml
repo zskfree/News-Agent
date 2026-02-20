@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 08:43:01 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:31:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK swings to record £30.4bn budget surplus in January</title>
+      <title>Trump vows to impose 10% global tariff after Supreme Court rules sweeping duties are illegal</title>
+      <link>https://www.ft.com/content/d00d0663-8716-4323-bda3-2cbfb5b30285</link>
+      <description>&lt;![CDATA[Trump vows to impose 10% global tariff after Supreme Court rules sweeping duties are illegal]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d00d0663-8716-4323-bda3-2cbfb5b30285</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What comes next after the top US court struck down Trump’s tariffs?</title>
+      <link>https://www.ft.com/content/4d97c617-50ec-4152-9d5f-15688279ef90</link>
+      <description>&lt;![CDATA[What comes next after the top US court struck down Trump’s tariffs?]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4d97c617-50ec-4152-9d5f-15688279ef90</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK swings to record £30bn budget surplus in January as retail sales surge</title>
       <link>https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291</link>
-      <description>&lt;![CDATA[UK swings to record £30.4bn budget surplus in January]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 07:56:00 GMT</pubDate>
+      <description>&lt;![CDATA[UK swings to record £30bn budget surplus in January as retail sales surge]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 17:16:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Hedge fund Saba offers to buy stakes in Blue Owl funds at steep discount</title>
+      <link>https://www.ft.com/content/b43ab192-01ee-40ca-9580-c701f6f4ee77</link>
+      <description>&lt;![CDATA[Hedge fund Saba offers to buy stakes in Blue Owl funds at steep discount]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 22:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b43ab192-01ee-40ca-9580-c701f6f4ee77</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Corporate America demands refunds after Trump’s tariffs struck down</title>
+      <link>https://www.ft.com/content/07a295a3-e323-4a96-af48-ba8d01ab059a</link>
+      <description>&lt;![CDATA[Corporate America demands refunds after Trump’s tariffs struck down]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/07a295a3-e323-4a96-af48-ba8d01ab059a</guid>
       <category>Finance</category>
     </item>
   </channel>
