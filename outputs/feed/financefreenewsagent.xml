@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 05:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 05:55:15 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 08:43:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment</title>
-      <link>https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323</link>
-      <description>&lt;![CDATA[Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 00:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Reasons to worry about America’s investment position with the rest of the world</title>
-      <link>https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef</link>
-      <description>&lt;![CDATA[Reasons to worry about America’s investment position with the rest of the world]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors pour record sums into European stocks</title>
-      <link>https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623</link>
-      <description>&lt;![CDATA[Investors pour record sums into European stocks]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dear ChatGPT, please construct me an optimal portfolio</title>
-      <link>https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250</link>
-      <description>&lt;![CDATA[Dear ChatGPT, please construct me an optimal portfolio]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo</title>
-      <link>https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85</link>
-      <description>&lt;![CDATA[Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85</guid>
+      <title>UK swings to record £30.4bn budget surplus in January</title>
+      <link>https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291</link>
+      <description>&lt;![CDATA[UK swings to record £30.4bn budget surplus in January]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 07:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291</guid>
       <category>Finance</category>
     </item>
   </channel>

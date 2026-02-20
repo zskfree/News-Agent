@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-20 05:55
+**最后更新时间**: 2026-02-20 08:42
+
+---
+
+## 🆕 最新更新 (2026-02-20 08:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK swings to record £30.4bn budget surplus in January](https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291)
+**发布时间**: 2026-02-20 07:56
+
+#### [Amazon service was taken down by AI coding bot](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d)
+**发布时间**: 2026-02-20 05:00
 
 ---
 

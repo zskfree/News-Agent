@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4839be815146d95eb306cd93558db0cd54d27e71dd2184e78a4b11406e86593c": {
-        "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
-        "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 16:26:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772351"
-      },
-      "b8f364bf17b702902508e9673f0bbcc0e3911b6a35264d70a1eed763e56aa779": {
-        "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
-        "link": "https://www.tmtpost.com/7850502.html",
-        "published_date": "Wed, 21 Jan 2026 15:24:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772357"
-      },
-      "95f538b6ad7ecc471d8b05251ee759bfde81b20cbf4b41aee324785bb297c839": {
-        "title": "Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构",
-        "link": "https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 10:42:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772359"
-      },
-      "262b55b18072562417215e0d19311945122f2527e6ef5630529aa63fdcad53e9": {
-        "title": "飞猪搭建系统演进：从人工运营到多Agent协同\n搭投生产",
-        "link": "https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 13:51:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772361"
-      },
-      "b47816cae4c478b208789c81dc786d0c00ee77dab3cf4037ac39bd4dd8cf4504": {
-        "title": "Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系",
-        "link": "https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 11:16:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772362"
-      },
       "90c480c0c534d8af09b5964301889c5d10b214d82b73d94114ead28a3b11ba3e": {
         "title": "全球算力产业，正在陪着OpenAI走钢丝",
         "link": "https://www.tmtpost.com/7850676.html",
@@ -2695,15 +2665,39 @@
         "link": "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 20 Feb 2026 12:01:00 GMT",
         "first_seen": "2026-02-20T05:55:28.105857"
+      },
+      "bc41dce8d10cb1c597cc266025479b80697b41dc8af9b59ab0945fe3329dc818": {
+        "title": "Firestore添加了管道操作，提供了超过100个新的查询功能",
+        "link": "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-20T08:43:26.757925"
+      },
+      "def1cf41a21d6e29583473f98392b9251a0a3884a8e8eb1cb66168007626e3b9": {
+        "title": "Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle",
+        "link": "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:38:00 GMT",
+        "first_seen": "2026-02-20T08:43:26.757932"
+      },
+      "8f9b1d6203f2f60532e4252628470a2ba02322a6461b74059252e4dd87eb26db": {
+        "title": "从技术秀场到利润战场：哪家机器人企业更有看头？",
+        "link": "https://www.tmtpost.com/7885008.html",
+        "published_date": "Fri, 20 Feb 2026 13:30:00 GMT",
+        "first_seen": "2026-02-20T08:43:26.757934"
+      },
+      "26c27da885f17318ad6f586ef76834d3bb22eed9ae8ad22c28657f16c51afff5": {
+        "title": "推荐 5 个 yyds 的语音 AI 神器，强推第一个。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531518&idx=1&sn=8cd2f2b60570b53f31e3dc5c4af64c7c",
+        "published_date": "Fri, 20 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-20T08:43:26.757936"
+      },
+      "a7a89fc51994d268f2084d03753ea578c08bc96b3b34745619e0e05d50923d7d": {
+        "title": "这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间",
+        "link": "https://www.tmtpost.com/7885450.html",
+        "published_date": "Fri, 20 Feb 2026 11:29:00 GMT",
+        "first_seen": "2026-02-20T08:43:26.757937"
       }
     },
     "Finance": {
-      "1e8102a2c144519ed0fdbcaa4a29a5620ca8bdf05e60b36a9a77235d4c213963": {
-        "title": "UK inflation rises more than expected to 3.4% in December",
-        "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
-        "published_date": "Wed, 21 Jan 2026 07:27:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.599267"
-      },
       "55a7beb471d0538353d72e744f3bccbf687ad4f2d947553e5d91d45cb71b716f": {
         "title": "Trump drops tariff threat against Europe and touts ‘future’ Greenland deal",
         "link": "https://www.ft.com/content/6e7b2125-6490-4565-931f-a6f0d52a1543",
@@ -4671,21 +4665,15 @@
         "link": "https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85",
         "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-20T05:55:15.173591"
+      },
+      "b1c388bf3171ad1bf0ec7fd362534ecc91ddafeba896eaffde1bf9a3680684ff": {
+        "title": "UK swings to record £30.4bn budget surplus in January",
+        "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
+        "published_date": "Fri, 20 Feb 2026 07:56:00 GMT",
+        "first_seen": "2026-02-20T08:43:01.367992"
       }
     },
     "Ai": {
-      "4451f1508b33d534b2cc024376618f831800459190c1ca280b27c67633407ac8": {
-        "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
-        "published_date": "Wed, 21 Jan 2026 14:19:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.718137"
-      },
-      "d8ebcc148309c1ed11c06b4fecbac62d9483b6cda14b47124d02073ff96e455a": {
-        "title": "2026-01-21日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-21/",
-        "published_date": "Wed, 21 Jan 2026 07:16:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.718144"
-      },
       "ea1a3883e2e2cab8ef0748f924ece797b7957058ac5c36c7abaf9e3eeef01976": {
         "title": "AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-6",
@@ -6772,8 +6760,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-20T05:55:28.105859",
-    "Finance": "2026-02-20T05:55:15.173593",
+    "Technology": "2026-02-20T08:43:26.757940",
+    "Finance": "2026-02-20T08:43:01.368000",
     "Ai": "2026-02-20T05:55:15.335633"
   }
 }

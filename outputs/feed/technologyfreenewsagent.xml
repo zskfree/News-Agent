@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 05:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 05:55:28 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 08:43:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>禁⽤Claude、强推自研：亚马逊打响AI生态主权战</title>
-      <link>https://www.tmtpost.com/7885379.html</link>
-      <description>&lt;![CDATA[禁⽤Claude、强推自研：亚马逊打响AI生态主权战]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7885379.html</guid>
+      <title>Firestore添加了管道操作，提供了超过100个新的查询功能</title>
+      <link>https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Firestore添加了管道操作，提供了超过100个新的查询功能]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键</title>
-      <link>https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle</title>
+      <link>https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！</title>
-      <link>https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从技术秀场到利润战场：哪家机器人企业更有看头？</title>
+      <link>https://www.tmtpost.com/7885008.html</link>
+      <description>&lt;![CDATA[从技术秀场到利润战场：哪家机器人企业更有看头？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885008.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别被「百模大战」骗了</title>
-      <link>https://www.tmtpost.com/7885106.html</link>
-      <description>&lt;![CDATA[别被「百模大战」骗了]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7885106.html</guid>
+      <title>推荐 5 个 yyds 的语音 AI 神器，强推第一个。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531518&amp;idx=1&amp;sn=8cd2f2b60570b53f31e3dc5c4af64c7c</link>
+      <description>&lt;![CDATA[推荐 5 个 yyds 的语音 AI 神器，强推第一个。]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531518&amp;idx=1&amp;sn=8cd2f2b60570b53f31e3dc5c4af64c7c</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐</title>
-      <link>https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&amp;utm_medium=article</guid>
+      <title>这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间</title>
+      <link>https://www.tmtpost.com/7885450.html</link>
+      <description>&lt;![CDATA[这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 11:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885450.html</guid>
       <category>Technology</category>
     </item>
   </channel>
