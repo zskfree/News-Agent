@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "73d969e80efa862e9bffe593c118eab2db48779cbf83798b6af6a49284d555bb": {
-        "title": "GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……",
-        "link": "https://www.tmtpost.com/7849912.html",
-        "published_date": "Wed, 21 Jan 2026 11:54:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093054"
-      },
-      "767244719c1f1d4e193b98ae5c34e55ba02d1631d3ec6749fca267c8ef47ec3f": {
-        "title": "端侧AI下半场，从跑起来到会思考",
-        "link": "https://www.tmtpost.com/7849609.html",
-        "published_date": "Wed, 21 Jan 2026 08:39:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093061"
-      },
-      "e7cd863c982c7ed3111467b350086ef146265653254343841f418acf8a66f667": {
-        "title": "零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP",
-        "link": "https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093063"
-      },
-      "618cf27aa06d7957f0829d9153632af03ebfa0cf4b6e85943d237d64568590b5": {
-        "title": "油气巨头热情消退，全球绿氢遭遇“寒风冷雨”",
-        "link": "https://www.tmtpost.com/7850049.html",
-        "published_date": "Wed, 21 Jan 2026 11:53:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093065"
-      },
-      "c46842562abb05a63885c99ea7f581f95e6338f12558db5db2979b70b4915366": {
-        "title": "Pinterest的Moka：Kubernetes如何重写大数据处理规则",
-        "link": "https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 09:44:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093066"
-      },
       "4839be815146d95eb306cd93558db0cd54d27e71dd2184e78a4b11406e86593c": {
         "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
         "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7884469.html",
         "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
         "first_seen": "2026-02-19T23:32:36.139138"
+      },
+      "96b1ac393c42e05518427585cf793c1e3495f9a8f63dc8ed362426b3e2ff799d": {
+        "title": "禁⽤Claude、强推自研：亚马逊打响AI生态主权战",
+        "link": "https://www.tmtpost.com/7885379.html",
+        "published_date": "Fri, 20 Feb 2026 09:45:00 GMT",
+        "first_seen": "2026-02-20T05:55:28.105844"
+      },
+      "c2667df02aec227abd37368e5bab72ca3f60c5defc6f6af2a0f6a74b52b730a0": {
+        "title": "字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键",
+        "link": "https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-20T05:55:28.105851"
+      },
+      "7b8335bdc661bdbe7648cb1bccca9cc9b78fa905d8f0f9bb4e9a8fa0aa1f9041": {
+        "title": "代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！",
+        "link": "https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 09:19:00 GMT",
+        "first_seen": "2026-02-20T05:55:28.105853"
+      },
+      "10cf9b24ebadb975d60993282aff5f9b94942c17d19235a6347fa3a24a544fcf": {
+        "title": "别被「百模大战」骗了",
+        "link": "https://www.tmtpost.com/7885106.html",
+        "published_date": "Fri, 20 Feb 2026 10:30:00 GMT",
+        "first_seen": "2026-02-20T05:55:28.105855"
+      },
+      "c23acc2288fb1f1d366aee5b3195f0ed1e90f66055d317ac5dd3e436dec3e9cd": {
+        "title": "“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐",
+        "link": "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 12:01:00 GMT",
+        "first_seen": "2026-02-20T05:55:28.105857"
       }
     },
     "Finance": {
-      "f96a736613623dcdb6c804914fe5a517d8715ae7e442cc98d5a188e8acd58a38": {
-        "title": "Kraft Heinz stock falls as Berkshire Hathaway may sell off nearly its entire stake",
-        "link": "https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Jan 2026 02:41:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436938"
-      },
-      "6ebdc64e005666fe67c78581042419a8c893fa38fe471db1466d46499e59c2d6": {
-        "title": "Carney warns of ‘rupture’ to global order as Trump rattles allies",
-        "link": "https://www.ft.com/content/7d9609d4-14cd-4b0c-b48c-0b3f2e4f6611",
-        "published_date": "Tue, 20 Jan 2026 23:46:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436948"
-      },
-      "39bc16366a6a34a919edda4fd3e8e4a9d066e3be578ea2a882d189eb5465dd92": {
-        "title": "Trump’s Greenland tariff threats rattle investors: The stakes are higher this time around",
-        "link": "https://www.marketwatch.com/story/trump-threatens-more-tariffs-investors-gasp-dont-freak-out-over-your-401-k-d94aec34?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Jan 2026 03:49:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436951"
-      },
-      "9ed1b2c5517014a48b9f7daaf2dacbb98b1f86528292a1c4d6de4e0846faea91": {
-        "title": "Can the EU keep up with Trump in a trade war?",
-        "link": "https://www.ft.com/content/c3d1e6f6-4f37-4e1e-9b42-d46495107907",
-        "published_date": "Wed, 21 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436953"
-      },
-      "42de30ccac577c02006f644f7f9f52d999ce17da0ad398085ccda39fe23256f7": {
-        "title": "KPMG’s UK boss in two-man race for global leadership",
-        "link": "https://www.ft.com/content/6fd4b037-2569-415c-a10b-1b3759c24cac",
-        "published_date": "Wed, 21 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436955"
-      },
       "1e8102a2c144519ed0fdbcaa4a29a5620ca8bdf05e60b36a9a77235d4c213963": {
         "title": "UK inflation rises more than expected to 3.4% in December",
         "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
@@ -4671,39 +4641,39 @@
         "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
         "published_date": "Thu, 19 Feb 2026 21:50:00 GMT",
         "first_seen": "2026-02-19T23:32:23.504933"
+      },
+      "093424bd343cdd10fe8609e66a1d4eda7218cb570a4fa6ad1396878207941de0": {
+        "title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
+        "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+        "published_date": "Fri, 20 Feb 2026 00:14:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.173575"
+      },
+      "cb20e37652a767a32611823cdf94a124f65b69e657a72fc62d1c5bb7e6693445": {
+        "title": "Reasons to worry about America’s investment position with the rest of the world",
+        "link": "https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.173584"
+      },
+      "bd11cad033bbba2d165371fa9b1d6f097e04df8f18ed7f8b5b99477c99588792": {
+        "title": "Investors pour record sums into European stocks",
+        "link": "https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.173587"
+      },
+      "4fa5f0bac0d74f2f86b26f7a5639288075efb8f7ff0b0f20f24a646b8aeae38a": {
+        "title": "Dear ChatGPT, please construct me an optimal portfolio",
+        "link": "https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.173589"
+      },
+      "adea0de813ae88801f20c119242868e8051951ae5bc0f17112ed0d53987d390a": {
+        "title": "Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo",
+        "link": "https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.173591"
       }
     },
     "Ai": {
-      "4f9d20d5449f4f39faa8c1422660747480be0536202e00f532bb0937577da152": {
-        "title": "AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21",
-        "published_date": "Wed, 21 Jan 2026 10:17:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554502"
-      },
-      "e3218d43511b64b0c7be02c83dbe064bb0ebf5d22016edbc66914e96ec074777": {
-        "title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-3",
-        "published_date": "Wed, 21 Jan 2026 13:15:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554509"
-      },
-      "99404e9a0d6d36ee8c16fab98d4298394f68b551a8e47939b3d1b3e9bdf8746d": {
-        "title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
-        "link": "https://www.qbitai.com/2026/01/370734.html",
-        "published_date": "Wed, 21 Jan 2026 04:13:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554511"
-      },
-      "881dbe041ddda959c07d35ceb445c190accf7ee002d2c4e23c3b9efec1ba2089": {
-        "title": "R1一周年，DeepSeek Model 1悄然现身",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-2",
-        "published_date": "Wed, 21 Jan 2026 10:22:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554513"
-      },
-      "e5ba3b83d95cea86a414e9b4824428611ab99251163dcf2af43b44fa14f980d0": {
-        "title": "推翻150年数学直觉：数学家烧坏几台笔记本，解决几何拓扑难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-4",
-        "published_date": "Wed, 21 Jan 2026 13:21:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554514"
-      },
       "4451f1508b33d534b2cc024376618f831800459190c1ca280b27c67633407ac8": {
         "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
@@ -6785,13 +6755,25 @@
         "link": "https://www.qbitai.com/2026/02/381417.html",
         "published_date": "Thu, 19 Feb 2026 09:58:00 GMT",
         "first_seen": "2026-02-19T23:32:36.085468"
+      },
+      "01d88574339add0915cf6bd0b55b0ec6b406d7488269308e8d9a2c6c22333297": {
+        "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20",
+        "published_date": "Fri, 20 Feb 2026 08:53:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.335622"
+      },
+      "0fe93b82b8b3c027d0f90762e4d59fee29490b6ce8f1dce3a0efffca4eef3278": {
+        "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
+        "link": "https://www.qbitai.com/2026/02/381460.html",
+        "published_date": "Fri, 20 Feb 2026 01:25:00 GMT",
+        "first_seen": "2026-02-20T05:55:15.335629"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-19T23:32:36.139140",
-    "Finance": "2026-02-19T23:32:23.504935",
-    "Ai": "2026-02-19T23:32:36.085471"
+    "Technology": "2026-02-20T05:55:28.105859",
+    "Finance": "2026-02-20T05:55:15.173593",
+    "Ai": "2026-02-20T05:55:15.335633"
   }
 }

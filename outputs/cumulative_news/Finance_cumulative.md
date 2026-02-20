@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-19 23:32
+**最后更新时间**: 2026-02-20 05:55
+
+---
+
+## 🆕 最新更新 (2026-02-20 05:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investors pour record sums into European stocks](https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623)
+**发布时间**: 2026-02-20 05:00
+
+#### [Reasons to worry about America’s investment position with the rest of the world](https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef)
+**发布时间**: 2026-02-20 05:00
+
+#### [The ‘incredibly significant’ US military forces surrounding Iran](https://www.ft.com/content/a7da6a98-3368-4853-922a-b9f8451682a3)
+**发布时间**: 2026-02-20 05:00
+
+#### [‘Is university still worth it?’ is the wrong question](https://www.ft.com/content/649d3c64-b8e5-4979-9f0c-9aebd43642e2)
+**发布时间**: 2026-02-20 05:00
+
+#### [Dear ChatGPT, please construct me an optimal portfolio](https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250)
+**发布时间**: 2026-02-20 05:00
+
+#### [Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo](https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85)
+**发布时间**: 2026-02-20 05:00
+
+#### [Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment](https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323)
+**发布时间**: 2026-02-20 00:14
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I won’t take out a loan’: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?](https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-20 00:22
+
+#### [My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?](https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories)
+**发布时间**: 2026-02-20 00:21
 
 ---
 
