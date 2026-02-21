@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Feb 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Feb 2026 08:34:06 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2026 23:26:00 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2026 23:27:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token</title>
-      <link>https://www.qbitai.com/2026/02/381552.html</link>
-      <description>&lt;![CDATA[24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token]]&gt;</description>
-      <pubDate>Sat, 21 Feb 2026 06:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381552.html</guid>
+      <title>刚刚，CVPR 2026放榜！朋友圈刷屏</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-21-5</link>
+      <description>&lt;![CDATA[刚刚，CVPR 2026放榜！朋友圈刷屏]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-21-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不卷视频卷「造人」？Pika推出AI Selves，让你亲手「养大」数字分身</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-21-4</link>
+      <description>&lt;![CDATA[不卷视频卷「造人」？Pika推出AI Selves，让你亲手「养大」数字分身]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 22:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-21-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICLR 2026 | 北航开源Code2Bench：双扩展动态评测，代码大模型告别躺平刷分</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-21-3</link>
+      <description>&lt;![CDATA[ICLR 2026 | 北航开源Code2Bench：双扩展动态评测，代码大模型告别躺平刷分]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 21:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-21-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>App Store模式过时了，未来属于即兴创作！Karpathy激进言论被「怼惨」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-21-2</link>
+      <description>&lt;![CDATA[App Store模式过时了，未来属于即兴创作！Karpathy激进言论被「怼惨」]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 21:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-21-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>仅凭&quot;动作剪影&quot;，打通视频生成与机器人世界模型！BridgeV2W让机器人学会&quot;预演未来&quot;</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-21</link>
+      <description>&lt;![CDATA[仅凭&quot;动作剪影&quot;，打通视频生成与机器人世界模型！BridgeV2W让机器人学会&quot;预演未来&quot;]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-21</guid>
       <category>Ai</category>
     </item>
   </channel>
