@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-20 23:30
+**最后更新时间**: 2026-02-21 05:43
+
+---
+
+## 🆕 最新更新 (2026-02-21 05:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Supreme Court torpedoes Trump’s tariff regime in check on executive power](https://www.ft.com/content/d05f755c-57b4-472c-a4e7-12ed062c8944)
+**发布时间**: 2026-02-21 01:12
+
+#### [Trump tariffs as it happened - President warns of 10% global levy after court ruling](https://www.ft.com/content/d00d0663-8716-4323-bda3-2cbfb5b30285)
+**发布时间**: 2026-02-20 23:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Don’t expect lower prices now that the Supreme Court has ruled against Trump’s tariffs](https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 01:05
+
+#### [My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?](https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-20 23:41
 
 ---
 
