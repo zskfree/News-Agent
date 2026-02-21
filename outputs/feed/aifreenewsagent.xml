@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 23:31:30 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2026 08:34:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从AlphaGo到DeepSeek R1，推理的未来将走向何方？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-20-5</link>
-      <description>&lt;![CDATA[从AlphaGo到DeepSeek R1，推理的未来将走向何方？]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 22:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-20-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICLR 2026｜新版「图灵测试」：当VLA走进生物实验室</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-20-4</link>
-      <description>&lt;![CDATA[ICLR 2026｜新版「图灵测试」：当VLA走进生物实验室]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 22:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-20-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>训练奖励太稀疏？港中文联合美团给Agent加上「过程分」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-20-3</link>
-      <description>&lt;![CDATA[训练奖励太稀疏？港中文联合美团给Agent加上「过程分」]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 22:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-20-3</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>8500亿美元！OpenAI刷新AI公司估值纪录，领先第二名2.2倍</title>
-      <link>https://www.qbitai.com/2026/02/381542.html</link>
-      <description>&lt;![CDATA[8500亿美元！OpenAI刷新AI公司估值纪录，领先第二名2.2倍]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381542.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ClawHub迷之封杀操作，逼出首个Agent全球进化网络</title>
-      <link>https://www.qbitai.com/2026/02/381495.html</link>
-      <description>&lt;![CDATA[ClawHub迷之封杀操作，逼出首个Agent全球进化网络]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 07:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381495.html</guid>
+      <title>24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token</title>
+      <link>https://www.qbitai.com/2026/02/381552.html</link>
+      <description>&lt;![CDATA[24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token]]&gt;</description>
+      <pubDate>Sat, 21 Feb 2026 06:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381552.html</guid>
       <category>Ai</category>
     </item>
   </channel>
