@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-22 08:36
+**最后更新时间**: 2026-02-22 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-22 23:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代](https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-22 20:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [骂预制菜的人，自己吃了顿预制菜年夜饭](https://www.tmtpost.com/7886855.html)
+**发布时间**: 2026-02-22 20:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [日本：红枫季的关东与关西（关东篇）](https://sspai.com/post/104473)
+**发布时间**: 2026-02-22 15:42
 
 ---
 

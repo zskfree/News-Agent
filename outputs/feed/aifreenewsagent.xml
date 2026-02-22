@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Feb 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2026 05:53:07 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Feb 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Feb 2026 23:29:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里云Coding Plan上新，支持千问3.5、GLM-4.7等模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-22</link>
-      <description>&lt;![CDATA[阿里云Coding Plan上新，支持千问3.5、GLM-4.7等模型]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22</guid>
+      <title>TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-22-2</link>
+      <description>&lt;![CDATA[TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 20:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里云Coding Plan推优惠活动，18000次请求最低仅需7.9元</title>
-      <link>https://www.qbitai.com/2026/02/381583.html</link>
-      <description>&lt;![CDATA[阿里云Coding Plan推优惠活动，18000次请求最低仅需7.9元]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 02:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381583.html</guid>
+      <title>ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-22-4</link>
+      <description>&lt;![CDATA[ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>谷歌高管放话：这两类AI初创公司，别轻易涉足了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-22-3</link>
+      <description>&lt;![CDATA[谷歌高管放话：这两类AI初创公司，别轻易涉足了]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 20:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>后训练大牛Lambert：AI招聘市场正经历「乱纪元」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-22-5</link>
+      <description>&lt;![CDATA[后训练大牛Lambert：AI招聘市场正经历「乱纪元」]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？</title>
+      <link>https://www.qbitai.com/2026/02/381644.html</link>
+      <description>&lt;![CDATA[不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381644.html</guid>
       <category>Ai</category>
     </item>
   </channel>

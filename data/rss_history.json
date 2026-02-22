@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9122f8b92ca6906656455f9afffadf4c834514ae0da7aa637a85eac7291e9b3d": {
-        "title": "Bengio 15年前论文再夺AAAI奖！AI正告别单纯炫技，走向真实世界",
-        "link": "https://www.infoq.cn/article/KXaviFJ5cNI4qylQg39x?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 24 Jan 2026 00:07:00 GMT",
-        "first_seen": "2026-01-23T23:24:35.940318"
-      },
-      "9ffd86e95c25e9d37fb54b794f2fa303d4b628e8975e2661dc7751f7026ac4aa": {
-        "title": "AI 进化论丨第八期：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？",
-        "link": "https://www.infoq.cn/video/0a2A4lh12FJJMYgS7jqx?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 23 Jan 2026 14:42:00 GMT",
-        "first_seen": "2026-01-23T23:24:35.940324"
-      },
-      "b34586fd943e4a8bcf0e3dfc44e0c15a862bf808dc58c000012561548d69f45e": {
-        "title": "射频芯片开启新的卡位赛",
-        "link": "https://www.tmtpost.com/7852278.html",
-        "published_date": "Fri, 23 Jan 2026 13:22:00 GMT",
-        "first_seen": "2026-01-23T23:24:35.940326"
-      },
-      "5ef8aa4198e462eaa4915ff8311d3ba12e43f4cc706d83255eab1897c663462b": {
-        "title": "Q4英特尔AI强劲增长，但供应短缺拖累盈利，盘后跌超10%",
-        "link": "https://www.tmtpost.com/7852835.html",
-        "published_date": "Fri, 23 Jan 2026 09:52:00 GMT",
-        "first_seen": "2026-01-23T23:24:35.940328"
-      },
-      "52453dc818d6a976f02ce5d0000b7d02ea345c0cef8afd339c6936e2d07aed0e": {
-        "title": "雷鸟、Rokid、阿里集体出击：中国AI眼镜天团决战放量前夜",
-        "link": "https://www.tmtpost.com/7853415.html",
-        "published_date": "Fri, 23 Jan 2026 18:31:00 GMT",
-        "first_seen": "2026-01-23T23:24:35.940329"
-      },
       "39e43df0a4c7d7409b30e015e859b91d98600b24180b4828c5b47275e591159f": {
         "title": "ChatGPT也开始内测广告，AI们集体变身“首席卖货官”",
         "link": "https://www.tmtpost.com/7853804.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7886362.html",
         "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
         "first_seen": "2026-02-22T08:36:26.788895"
+      },
+      "f7f48dcbc7ef12080cd73af4c5c2ccc32df4e3dcd25deee52b87cf1cce5863e1": {
+        "title": "别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代",
+        "link": "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 22 Feb 2026 20:37:00 GMT",
+        "first_seen": "2026-02-22T23:29:56.241969"
+      },
+      "0c8744ed1f3dd309e1d7351d15612c89cfd0b26729fc759689ae1e74736981da": {
+        "title": "为什么是 2026？所有创始人必须看清的时代分水岭",
+        "link": "https://www.tmtpost.com/7886626.html",
+        "published_date": "Sun, 22 Feb 2026 11:12:00 GMT",
+        "first_seen": "2026-02-22T23:29:56.241975"
+      },
+      "2880f81aeb340144ac558ce97083b3962f22131192ea35fa7982acfaf77cae97": {
+        "title": "GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531567&idx=1&sn=45f174b7c7949d1dc95797729e340584",
+        "published_date": "Sun, 22 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-22T23:29:56.241977"
+      },
+      "24900e8831dbe6829c3665e1a8e22502057ef4201667cbc315c573c431da6be8": {
+        "title": "美国养老社区 18 季连涨启示：读懂 “80 岁分水岭”，就读懂了银发经济的未来",
+        "link": "https://www.tmtpost.com/7886667.html",
+        "published_date": "Sun, 22 Feb 2026 15:02:00 GMT",
+        "first_seen": "2026-02-22T23:29:56.241979"
+      },
+      "731809b86b87343d5b8aee8bee8661429bcff649a1be1c170c76b13ad9f7a004": {
+        "title": "可执行性是计划的唯一试金石——工厂不按照计划执行是最大的谎言",
+        "link": "https://www.tmtpost.com/7886363.html",
+        "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
+        "first_seen": "2026-02-22T23:29:56.241981"
       }
     },
     "Finance": {
-      "b7bd97514bd057415fdb5e0ba96c4c7c3d2f49f3fc669a9c3431b5b2947a3ff1": {
-        "title": "Inflation is an ‘economic thief.’ Can the Fed finally arrest the frustrating rise in prices?",
-        "link": "https://www.marketwatch.com/story/inflation-is-an-economic-thief-can-the-fed-finally-arrest-the-frustrating-rise-in-prices-edae4b5c?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 20:36:00 GMT",
-        "first_seen": "2026-01-23T23:23:55.358509"
-      },
-      "36b57e398613591916abc4610dd55384a4a571ae75a947458266f96a26ff4c27": {
-        "title": "BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve",
-        "link": "https://www.ft.com/content/a9bad7cb-ff5f-41ca-abcd-be93e7e20cd1",
-        "published_date": "Fri, 23 Jan 2026 21:52:00 GMT",
-        "first_seen": "2026-01-23T23:23:55.358517"
-      },
-      "a0acf83fd08056200a85d4705e5730af8278ab2b2e842628338a2a8602b7124c": {
-        "title": "Why the dollar just had its worst week in 8 months despite Trump’s pivot on tariffs",
-        "link": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 21:51:00 GMT",
-        "first_seen": "2026-01-23T23:23:55.358520"
-      },
-      "85de37180c9d81db535804abad9d0c3c43d69c9026306fe94e35024c96abbb6d": {
-        "title": "Gold heads for best week since 2008 as Greenland crisis rattles dollar",
-        "link": "https://www.ft.com/content/6d7ab91c-fc2a-4766-8ebd-3108c5446946",
-        "published_date": "Fri, 23 Jan 2026 17:55:00 GMT",
-        "first_seen": "2026-01-23T23:23:55.358522"
-      },
-      "1d336eacaf7bee37bf4de604be75881de24f80a5fddc7caecc9b278e8ae1c1df": {
-        "title": "Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.",
-        "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
-        "published_date": "Fri, 23 Jan 2026 21:29:00 GMT",
-        "first_seen": "2026-01-23T23:23:55.358524"
-      },
       "3ce093f939f4b83ab7cf5cf98332abfbe33183004f22d93759878ab65c08c580": {
         "title": "US unveils national defence strategy to counter China in Indo-Pacific",
         "link": "https://www.ft.com/content/a0153971-1e92-4ff8-b603-e393e7b6c93f",
@@ -4635,39 +4605,39 @@
         "link": "https://www.marketwatch.com/story/adding-these-stocks-to-your-401-k-could-protect-against-crises-like-war-with-iran-b802dd88?mod=mw_rss_topstories",
         "published_date": "Sat, 21 Feb 2026 23:51:00 GMT",
         "first_seen": "2026-02-22T05:53:07.800593"
+      },
+      "113deaa5ed78c43eecee9da74317f6418c3231599612ec0c49b5d085bd746c21": {
+        "title": "Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
+        "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 20:33:00 GMT",
+        "first_seen": "2026-02-22T23:29:32.232863"
+      },
+      "3124ea94024e06022ef246bcc1b6957fc5027c21983c399818f3a892175fee00": {
+        "title": "Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
+        "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 20:38:00 GMT",
+        "first_seen": "2026-02-22T23:29:32.232873"
+      },
+      "81fbde152d75b2bc8656de37c32d4bd20a58b70990d10926080f648bb03fcb38": {
+        "title": "U.S. stock futures flat as investors await clarity on Trump’s latest tariff plans",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 23:21:00 GMT",
+        "first_seen": "2026-02-22T23:29:32.232875"
+      },
+      "61faf2a2557d2c17909e79f814681d09f628f1ce23912648809be20d79862a12": {
+        "title": "Gold sheds its safe-haven status. Is it just another momentum play now?",
+        "link": "https://www.marketwatch.com/story/gold-sheds-its-safe-haven-status-is-it-just-another-momentum-play-now-c60af908?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-22T23:29:32.232878"
+      },
+      "149fb3c9f7a51995dd09fa8a2efb790dad0eda67ef25c04fa0b57ffd3b7ddb5f": {
+        "title": "Trump’s new flat-rate tariff is a boost for China and Brazil",
+        "link": "https://www.ft.com/content/a12657e5-e160-444d-9b4e-87e89480e625",
+        "published_date": "Sun, 22 Feb 2026 15:59:00 GMT",
+        "first_seen": "2026-02-22T23:29:32.232879"
       }
     },
     "Ai": {
-      "96a182d280c442bb67128e79ea6ed699132161e0dcc7e97e7f3246dddbb5bad0": {
-        "title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-10",
-        "published_date": "Fri, 23 Jan 2026 16:46:00 GMT",
-        "first_seen": "2026-01-23T23:24:08.093563"
-      },
-      "4de32dd95a94327e715bad97cf4d222b286fc90d498334e9df8938fecd686570": {
-        "title": "把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录",
-        "link": "https://www.qbitai.com/2026/01/372099.html",
-        "published_date": "Fri, 23 Jan 2026 12:25:00 GMT",
-        "first_seen": "2026-01-23T23:24:08.093570"
-      },
-      "599859e6a163898e2aade1ae11cfc9f95c294470f9a45d2e50971d37a492a33c": {
-        "title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-8",
-        "published_date": "Fri, 23 Jan 2026 16:37:00 GMT",
-        "first_seen": "2026-01-23T23:24:08.093572"
-      },
-      "95fa932c04e7ee10b1e3cea5a66b01b95a1bb1ce2396e506350d42c2dc11a897": {
-        "title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-23-9",
-        "published_date": "Fri, 23 Jan 2026 16:42:00 GMT",
-        "first_seen": "2026-01-23T23:24:08.093574"
-      },
-      "c6e195e4ff060e191d112c247f7d822a75b9a1641861fbf8ae3bd55b0227a0e1": {
-        "title": "Introducing GIST: The next stage in smart sampling",
-        "link": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
-        "published_date": "Fri, 23 Jan 2026 17:46:00 GMT",
-        "first_seen": "2026-01-23T23:24:08.093575"
-      },
       "b793f5ec2e6fba2d4159d1346e0c1860f9694c806773634af0b57ac34ceb4d5c": {
         "title": "2026-01-24日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-24/",
@@ -6617,13 +6587,43 @@
         "link": "https://www.qbitai.com/2026/02/381583.html",
         "published_date": "Sun, 22 Feb 2026 02:43:00 GMT",
         "first_seen": "2026-02-22T05:53:07.955655"
+      },
+      "78d45795e0be76e925d502272fcf6608bb128c3d3e2707d8740af13a22cbc395": {
+        "title": "TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-2",
+        "published_date": "Sun, 22 Feb 2026 20:56:00 GMT",
+        "first_seen": "2026-02-22T23:29:42.235137"
+      },
+      "d74c356a9d4f8dba9bae42adae8100e338e35d207b9214bf64b9173114100659": {
+        "title": "ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-4",
+        "published_date": "Sun, 22 Feb 2026 21:04:00 GMT",
+        "first_seen": "2026-02-22T23:29:42.235143"
+      },
+      "1cb20e952e37d445f1797ab1abe42aa8437df7bd86b8d399a9092282573f8f59": {
+        "title": "谷歌高管放话：这两类AI初创公司，别轻易涉足了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-3",
+        "published_date": "Sun, 22 Feb 2026 20:58:00 GMT",
+        "first_seen": "2026-02-22T23:29:42.235146"
+      },
+      "a77fcab631479857bbcdf15602df41057e21e4d3ff84b0603a0379ea2ef13415": {
+        "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-22-5",
+        "published_date": "Sun, 22 Feb 2026 21:07:00 GMT",
+        "first_seen": "2026-02-22T23:29:42.235147"
+      },
+      "2cd74e607eb54890648cdd94d9fe652c852c2294e95b7ab8b176cc7caf585835": {
+        "title": "不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？",
+        "link": "https://www.qbitai.com/2026/02/381644.html",
+        "published_date": "Sun, 22 Feb 2026 10:33:00 GMT",
+        "first_seen": "2026-02-22T23:29:42.235149"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-22T08:36:26.788897",
-    "Finance": "2026-02-22T05:53:07.800596",
-    "Ai": "2026-02-22T05:53:07.955658"
+    "Technology": "2026-02-22T23:29:56.241982",
+    "Finance": "2026-02-22T23:29:32.232882",
+    "Ai": "2026-02-22T23:29:42.235152"
   }
 }
