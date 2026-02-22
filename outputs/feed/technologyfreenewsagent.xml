@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Feb 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2026 05:53:26 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Feb 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Feb 2026 08:36:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国制造的供应链“暗战”：被西方架构锁死的神经中枢，与 N² 级复杂度的降维突围</title>
-      <link>https://www.tmtpost.com/7886579.html</link>
-      <description>&lt;![CDATA[中国制造的供应链“暗战”：被西方架构锁死的神经中枢，与 N² 级复杂度的降维突围]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886579.html</guid>
+      <title>谁，在阻挡CPO的黄金时代？</title>
+      <link>https://www.tmtpost.com/7886663.html</link>
+      <description>&lt;![CDATA[谁，在阻挡CPO的黄金时代？]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886663.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>再投12400亿！谷歌，冲击全球AI“王座”</title>
-      <link>https://www.tmtpost.com/7886627.html</link>
-      <description>&lt;![CDATA[再投12400亿！谷歌，冲击全球AI“王座”]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886627.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>不侵权、可商用？谷歌出手AI音乐，Lyria 3落地Gemini生态</title>
-      <link>https://www.tmtpost.com/7886551.html</link>
-      <description>&lt;![CDATA[不侵权、可商用？谷歌出手AI音乐，Lyria 3落地Gemini生态]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886551.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2.5D封装，成为香饽饽</title>
-      <link>https://www.tmtpost.com/7886664.html</link>
-      <description>&lt;![CDATA[2.5D封装，成为香饽饽]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886664.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>中国开启AI全民化元年，BAT同入“亿级俱乐部”</title>
-      <link>https://www.tmtpost.com/7886447.html</link>
-      <description>&lt;![CDATA[中国开启AI全民化元年，BAT同入“亿级俱乐部”]]&gt;</description>
+      <title>中国 AI 破亿潮来了，最难的题留给了社交</title>
+      <link>https://www.tmtpost.com/7886501.html</link>
+      <description>&lt;![CDATA[中国 AI 破亿潮来了，最难的题留给了社交]]&gt;</description>
       <pubDate>Sun, 22 Feb 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886447.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886501.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>春晚四款人形机器人，用的谁家零部件？</title>
+      <link>https://www.tmtpost.com/7886661.html</link>
+      <description>&lt;![CDATA[春晚四款人形机器人，用的谁家零部件？]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886661.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>LocalStack for AWS放弃社区版引发开发者担忧</title>
+      <link>https://www.infoq.cn/article/Ek2SwBQSUmCAbg9V7WWD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[LocalStack for AWS放弃社区版引发开发者担忧]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ek2SwBQSUmCAbg9V7WWD?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>我们建造了顶级供应链体系，却可能输掉了最重要的战争：一位亲历者对数字化转型的终极反思</title>
+      <link>https://www.tmtpost.com/7886362.html</link>
+      <description>&lt;![CDATA[我们建造了顶级供应链体系，却可能输掉了最重要的战争：一位亲历者对数字化转型的终极反思]]&gt;</description>
+      <pubDate>Sun, 22 Feb 2026 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886362.html</guid>
       <category>Technology</category>
     </item>
   </channel>
