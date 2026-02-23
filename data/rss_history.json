@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ad04c9afc22991a8983766d7608c720b5e9d8fc2c959fa45992130ff246a3c4e": {
-        "title": "AI 广告成了 CES 2026 的热门话题",
-        "link": "https://www.tmtpost.com/7853957.html",
-        "published_date": "Sat, 24 Jan 2026 09:42:00 GMT",
-        "first_seen": "2026-01-24T08:30:12.580192"
-      },
-      "2e9346d188bc02a8a97440e7958a8ba755ef1c837caead3eb9e29d9be105b920": {
-        "title": "索尼“断臂求生”简史",
-        "link": "https://www.tmtpost.com/7853874.html",
-        "published_date": "Sat, 24 Jan 2026 09:18:00 GMT",
-        "first_seen": "2026-01-24T08:30:12.580201"
-      },
-      "ea925406ad2bb84de77dd69129f2f53bcbd47e99fde302e2b7da6b4417e02664": {
-        "title": "发现了 GitHub 上 4 个文档工具开源项目，来瞧瞧。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530746&idx=1&sn=80e4e5e273d5554c1a2beeae860df1bc",
-        "published_date": "Sat, 24 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-24T08:30:12.580204"
-      },
-      "9b65c1129e56b49a0cc2351dcfb0b23405d6a6e1529cfce7de5c8b09fe2d87b9": {
-        "title": "纳德拉懂张一鸣",
-        "link": "https://www.tmtpost.com/7853933.html",
-        "published_date": "Sat, 24 Jan 2026 09:38:00 GMT",
-        "first_seen": "2026-01-24T08:30:12.580206"
-      },
-      "aae63273f4de195cdc0a9d4b51fecea14a89238b55a4028e2c17af7d2bac5159": {
-        "title": "千亿市场的赛博宠物，也逃不过“吃灰”现实？",
-        "link": "https://www.tmtpost.com/7853917.html",
-        "published_date": "Sat, 24 Jan 2026 09:29:00 GMT",
-        "first_seen": "2026-01-24T08:30:12.580208"
-      },
       "4bd88bf98dc92c04aa9fc8f9328c66d6934b4cf73d68b67c8ed2c7833894a478": {
         "title": "爱优腾开“卷”分账模式，长视频主动“挤泡沫”？",
         "link": "https://www.tmtpost.com/7853880.html",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7886936.html",
         "published_date": "Mon, 23 Feb 2026 09:00:00 GMT",
         "first_seen": "2026-02-23T06:08:01.926955"
+      },
+      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.208791"
+      },
+      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.208799"
+      },
+      "2cef4fb083d1b6035f4abba2c2d8c92014c7a3bc014e05840179de0372e19eea": {
+        "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
+        "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
+        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.208801"
+      },
+      "8a0d2dca6c11b4d6a576dc6b9bebab5c79ab7783e4c80151f861ae981db024d4": {
+        "title": "一代人有一代人的《我爱我家》",
+        "link": "https://www.tmtpost.com/7887008.html",
+        "published_date": "Mon, 23 Feb 2026 11:04:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.208802"
+      },
+      "885447399dc36a4b6fbf7456526365c22388d1b0e7288c84a461590ad7e78c6a": {
+        "title": "没有“哪吒”的春节档，退回八年前",
+        "link": "https://www.tmtpost.com/7886942.html",
+        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.208804"
       }
     },
     "Finance": {
@@ -4647,6 +4647,12 @@
         "link": "https://www.ft.com/content/f9e21b0d-fbe5-41c3-96d8-b3e10658bb9c",
         "published_date": "Mon, 23 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-23T06:07:47.430240"
+      },
+      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
+        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
+        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
+        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
+        "first_seen": "2026-02-23T08:53:32.016640"
       }
     },
     "Ai": {
@@ -6652,8 +6658,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-23T06:08:01.926957",
-    "Finance": "2026-02-23T06:07:47.430243",
+    "Technology": "2026-02-23T08:53:32.208806",
+    "Finance": "2026-02-23T08:53:32.016651",
     "Ai": "2026-02-23T06:07:47.606759"
   }
 }

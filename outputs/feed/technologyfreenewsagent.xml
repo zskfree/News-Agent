@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Feb 2026 06:07:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 06:08:01 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 08:53:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 08:53:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活</title>
-      <link>https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活]]&gt;</description>
+      <title>DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”</title>
+      <link>https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？</title>
+      <link>https://www.tmtpost.com/7887138.html</link>
+      <description>&lt;![CDATA[为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887138.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>炒股2025总结：低频次出手，如何一年翻三倍？</title>
+      <link>http://www.huxiu.com/article/4834710.html?f=wangzhan</link>
+      <description>&lt;![CDATA[炒股2025总结：低频次出手，如何一年翻三倍？]]&gt;</description>
       <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4834710.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>1.69亿融资押注专用芯片：Taalas要靠“去GPU化”改写AI算力格局</title>
-      <link>https://www.tmtpost.com/7886987.html</link>
-      <description>&lt;![CDATA[1.69亿融资押注专用芯片：Taalas要靠“去GPU化”改写AI算力格局]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886987.html</guid>
+      <title>一代人有一代人的《我爱我家》</title>
+      <link>https://www.tmtpost.com/7887008.html</link>
+      <description>&lt;![CDATA[一代人有一代人的《我爱我家》]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887008.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯字节，“火拼”漫剧</title>
-      <link>https://www.tmtpost.com/7887156.html</link>
-      <description>&lt;![CDATA[腾讯字节，“火拼”漫剧]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7887156.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>插混换到纯电的两万公里后，我不再有里程焦虑了</title>
-      <link>https://sspai.com/post/105647</link>
-      <description>&lt;![CDATA[插混换到纯电的两万公里后，我不再有里程焦虑了]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105647</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>贾跃亭的第八年：永远的下周回国，还在讲故事的他，翘首以待的债主</title>
-      <link>https://www.tmtpost.com/7886936.html</link>
-      <description>&lt;![CDATA[贾跃亭的第八年：永远的下周回国，还在讲故事的他，翘首以待的债主]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886936.html</guid>
+      <title>没有“哪吒”的春节档，退回八年前</title>
+      <link>https://www.tmtpost.com/7886942.html</link>
+      <description>&lt;![CDATA[没有“哪吒”的春节档，退回八年前]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886942.html</guid>
       <category>Technology</category>
     </item>
   </channel>

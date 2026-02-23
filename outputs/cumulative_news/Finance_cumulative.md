@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-23 06:07
+**最后更新时间**: 2026-02-23 08:53
+
+---
+
+## 🆕 最新更新 (2026-02-23 08:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold jumps and dollar slides as global trade faces new Trump tariff threat](https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769)
+**发布时间**: 2026-02-23 08:07
+
+#### [William Hague: Britons in their 60s are the ‘luckiest generation’ in history](https://www.ft.com/content/7202f1c9-7640-4ff3-b9f5-a23099fc893a)
+**发布时间**: 2026-02-23 05:00
+
+#### [Dimon seeks to sell JPMorgan investors on $2bn-a-week costs bill](https://www.ft.com/content/05527e62-1ba3-486d-a4c7-66dd0ccdccad)
+**发布时间**: 2026-02-23 05:00
+
+#### [US banks enjoyed record profits of $300bn in 2025](https://www.ft.com/content/8fc14314-7300-41f1-acb6-bc525bf2157a)
+**发布时间**: 2026-02-23 05:00
 
 ---
 
