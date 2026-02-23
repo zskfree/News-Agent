@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Feb 2026 06:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 06:07:47 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 23:35:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:36:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-23日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-23/</link>
-      <description>&lt;![CDATA[2026-02-23日刊]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-23/</guid>
+      <title>AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-7</link>
+      <description>&lt;![CDATA[AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了</title>
-      <link>https://www.qbitai.com/2026/02/381712.html</link>
-      <description>&lt;![CDATA[智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 05:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381712.html</guid>
+      <title>ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-2</link>
+      <description>&lt;![CDATA[ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026</title>
-      <link>https://www.qbitai.com/2026/02/381689.html</link>
-      <description>&lt;![CDATA[32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381689.html</guid>
+      <title>项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-6</link>
+      <description>&lt;![CDATA[项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工</title>
-      <link>https://www.qbitai.com/2026/02/381672.html</link>
-      <description>&lt;![CDATA[三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 04:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381672.html</guid>
+      <title>Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-4</link>
+      <description>&lt;![CDATA[Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-23-3</link>
+      <description>&lt;![CDATA[揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-3</guid>
       <category>Ai</category>
     </item>
   </channel>
