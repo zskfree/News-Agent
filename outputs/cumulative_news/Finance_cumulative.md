@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-22 23:29
+**最后更新时间**: 2026-02-23 06:07
+
+---
+
+## 🆕 最新更新 (2026-02-23 06:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Inside Ukraine’s ‘kill zone’](https://ig.ft.com/ukraine-kill-zone/)
+**发布时间**: 2026-02-23 05:00
+
+#### [Gold enters the storybook stage](https://www.ft.com/content/fadd45c6-e13e-4cbd-9fd8-e967cf113366)
+**发布时间**: 2026-02-23 05:00
+
+#### [Is the sale of Schroders really so bad for the City?](https://www.ft.com/content/f9e21b0d-fbe5-41c3-96d8-b3e10658bb9c)
+**发布时间**: 2026-02-23 05:00
+
+#### [Schroders chief vows to keep wealth manager Cazenove after £9.9bn takeover](https://www.ft.com/content/787bc6b2-cc37-40d6-8ca3-f26709eae60a)
+**发布时间**: 2026-02-23 05:00
+
+#### [Rolls-Royce urges UK to commit to subsidies for £3bn engine project](https://www.ft.com/content/b95f934d-07b1-4846-9444-7f253366b877)
+**发布时间**: 2026-02-23 05:00
+
+#### [Mexico hit by wave of violence after security forces kill cartel leader](https://www.ft.com/content/55fa278a-6902-43e8-9021-dfd3cb7d26a7)
+**发布时间**: 2026-02-22 23:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 04:02
+
+#### [Tariff costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week](https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 01:57
 
 ---
 

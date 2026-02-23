@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Feb 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2026 23:29:42 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 06:06:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 06:07:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-22-2</link>
-      <description>&lt;![CDATA[TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-2</guid>
+      <title>2026-02-23日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-23/</link>
+      <description>&lt;![CDATA[2026-02-23日刊]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-23/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-22-4</link>
-      <description>&lt;![CDATA[ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-4</guid>
+      <title>智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了</title>
+      <link>https://www.qbitai.com/2026/02/381712.html</link>
+      <description>&lt;![CDATA[智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 05:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381712.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌高管放话：这两类AI初创公司，别轻易涉足了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-22-3</link>
-      <description>&lt;![CDATA[谷歌高管放话：这两类AI初创公司，别轻易涉足了]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-3</guid>
+      <title>32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026</title>
+      <link>https://www.qbitai.com/2026/02/381689.html</link>
+      <description>&lt;![CDATA[32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 04:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381689.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>后训练大牛Lambert：AI招聘市场正经历「乱纪元」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-22-5</link>
-      <description>&lt;![CDATA[后训练大牛Lambert：AI招聘市场正经历「乱纪元」]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 21:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-22-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？</title>
-      <link>https://www.qbitai.com/2026/02/381644.html</link>
-      <description>&lt;![CDATA[不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381644.html</guid>
+      <title>三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工</title>
+      <link>https://www.qbitai.com/2026/02/381672.html</link>
+      <description>&lt;![CDATA[三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 04:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381672.html</guid>
       <category>Ai</category>
     </item>
   </channel>

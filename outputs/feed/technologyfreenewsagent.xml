@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Feb 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2026 23:29:56 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 06:07:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 06:08:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代</title>
-      <link>https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 20:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活</title>
+      <link>https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么是 2026？所有创始人必须看清的时代分水岭</title>
-      <link>https://www.tmtpost.com/7886626.html</link>
-      <description>&lt;![CDATA[为什么是 2026？所有创始人必须看清的时代分水岭]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886626.html</guid>
+      <title>1.69亿融资押注专用芯片：Taalas要靠“去GPU化”改写AI算力格局</title>
+      <link>https://www.tmtpost.com/7886987.html</link>
+      <description>&lt;![CDATA[1.69亿融资押注专用芯片：Taalas要靠“去GPU化”改写AI算力格局]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886987.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531567&amp;idx=1&amp;sn=45f174b7c7949d1dc95797729e340584</link>
-      <description>&lt;![CDATA[GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531567&amp;idx=1&amp;sn=45f174b7c7949d1dc95797729e340584</guid>
+      <title>腾讯字节，“火拼”漫剧</title>
+      <link>https://www.tmtpost.com/7887156.html</link>
+      <description>&lt;![CDATA[腾讯字节，“火拼”漫剧]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887156.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美国养老社区 18 季连涨启示：读懂 “80 岁分水岭”，就读懂了银发经济的未来</title>
-      <link>https://www.tmtpost.com/7886667.html</link>
-      <description>&lt;![CDATA[美国养老社区 18 季连涨启示：读懂 “80 岁分水岭”，就读懂了银发经济的未来]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886667.html</guid>
+      <title>插混换到纯电的两万公里后，我不再有里程焦虑了</title>
+      <link>https://sspai.com/post/105647</link>
+      <description>&lt;![CDATA[插混换到纯电的两万公里后，我不再有里程焦虑了]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/105647</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可执行性是计划的唯一试金石——工厂不按照计划执行是最大的谎言</title>
-      <link>https://www.tmtpost.com/7886363.html</link>
-      <description>&lt;![CDATA[可执行性是计划的唯一试金石——工厂不按照计划执行是最大的谎言]]&gt;</description>
-      <pubDate>Sun, 22 Feb 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7886363.html</guid>
+      <title>贾跃亭的第八年：永远的下周回国，还在讲故事的他，翘首以待的债主</title>
+      <link>https://www.tmtpost.com/7886936.html</link>
+      <description>&lt;![CDATA[贾跃亭的第八年：永远的下周回国，还在讲故事的他，翘首以待的债主]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7886936.html</guid>
       <category>Technology</category>
     </item>
   </channel>
