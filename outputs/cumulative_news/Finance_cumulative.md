@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 08:52
+**最后更新时间**: 2026-02-24 23:34
+
+---
+
+## 🆕 最新更新 (2026-02-24 23:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Workday’s stock dives as earnings reveal the cost of competing in AI](https://www.marketwatch.com/story/workdays-stock-dives-as-earnings-reveal-the-cost-of-competing-in-ai-3578985b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 23:29
+
+#### [Paramount pushes ahead in Warner Bros. takeover fight with increased bid of $31 per share](https://www.marketwatch.com/story/paramount-pushes-ahead-in-warner-bros-takeover-with-increased-bid-of-31-per-share-87989593?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 23:26
+
+#### [Nvidia’s earnings report is just a prelude to what should really matter for investors](https://www.marketwatch.com/story/nvidias-earnings-report-is-just-a-prelude-to-what-should-really-matter-for-investors-d185e94c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 23:16
+
+#### [Why did AI ‘science fiction’ spur market panic? We asked a behavioral-finance expert to find out.](https://www.marketwatch.com/story/why-did-ai-science-fiction-spur-market-panic-we-asked-a-behavioral-finance-expert-to-find-out-beb32363?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:58
+
+#### [‘I am fearful’: My ailing relative is being forced into assisted living. What can I do?](https://www.marketwatch.com/story/i-am-fearful-my-ailing-relative-is-being-forced-into-assisted-living-what-can-i-do-7ce8b42a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:36
+
+#### [My grandpa retired happily at 70 with $750K after working as a missionary. I know where most Americans go wrong.](https://www.marketwatch.com/story/my-grandpa-retired-happy-at-70-with-750k-and-hes-doing-just-fine-i-know-where-most-americans-go-wrong-c5774943?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:30
+
+#### [Constellation Energy’s stock zooms toward highest level in weeks, even after outlook is postponed](https://www.marketwatch.com/story/constellation-energys-stock-zooms-toward-highest-level-in-weeks-even-after-outlook-is-postponed-af3495f1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:30
+
+#### [As the WNBA moves to stop paying for players’ housing, here’s where the labor negotiations stand](https://www.marketwatch.com/story/as-the-wnba-moves-to-stop-paying-for-players-housing-heres-where-the-labor-negotiations-stand-d46a9cbd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:30
+
+#### [Cava says diners are doing better this year — and may be getting tired of chasing meal deals](https://www.marketwatch.com/story/cava-says-diners-are-doing-better-this-year-and-could-be-getting-tired-of-chasing-meal-deals-25d062fe?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:27
+
+#### [Home Depot’s stock rises, as surprise sales growth provides signs of a turnaround](https://www.marketwatch.com/story/home-depots-stock-set-to-surge-as-sales-growth-provides-signs-of-a-turnaround-dd4fe20e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 22:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wall Street rallies as software selloff slows](https://www.ft.com/content/86b5591a-9e62-4c3f-9e03-7d90d36ed068)
+**发布时间**: 2026-02-24 22:26
+
+#### [MPs back release of files about hiring of former prince as UK trade envoy](https://www.ft.com/content/25cc222f-8d94-47c1-bba9-3d68c6d64207)
+**发布时间**: 2026-02-24 22:25
+
+#### [Warner Bros says sweetened Paramount bid may top Netflix deal](https://www.ft.com/content/aaa4b817-6574-4606-80f7-b12187774e23)
+**发布时间**: 2026-02-24 22:16
+
+#### [Hegseth threatens to cut Anthropic from Pentagon supply chain in showdown with CEO](https://www.ft.com/content/0c6b63b6-2524-4ba7-9f7a-e7183b29386f)
+**发布时间**: 2026-02-24 22:12
+
+#### [Efune consortium willing to improve offer for Telegraph Media Group](https://www.ft.com/content/d3701cf4-2b47-42fa-a568-8d97c7f8c569)
+**发布时间**: 2026-02-24 22:07
+
+#### [Reeves aims to reassure business with ‘boring’ Spring Statement](https://www.ft.com/content/f9618f2b-89c9-4f34-a007-82072f344ddc)
+**发布时间**: 2026-02-24 19:00
+
+#### [Government policies have fuelled youth unemployment, Bank of England says](https://www.ft.com/content/92c76220-976c-48ee-93d3-8d203da87696)
+**发布时间**: 2026-02-24 18:53
+
+#### [Mandelson's lawyers deny he was planning to flee abroad](https://www.ft.com/content/5910671d-26fc-452b-8011-8f51e7f19e10)
+**发布时间**: 2026-02-24 18:36
+
+#### [Why are there still so few women CEOs?](https://www.ft.com/content/57ceb556-681f-471b-9f13-28fcdfd65193)
+**发布时间**: 2026-02-24 12:28
+
+#### [Donald Trump’s state of mind is a global risk](https://www.ft.com/content/8802f7de-8458-4c86-90d3-8080df928ec1)
+**发布时间**: 2026-02-24 12:21
+
+#### [AI upheaval forces software industry to ask if this is an ‘adapt or die’ moment](https://www.ft.com/content/8867bff7-8632-40b7-8fde-7c95b3e624f9)
+**发布时间**: 2026-02-24 05:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Feb 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 08:52:56 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 23:35:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达</title>
-      <link>https://www.tmtpost.com/7888205.html</link>
-      <description>&lt;![CDATA[1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 15:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7888205.html</guid>
+      <title>【钛晨报】进一步释放银发消费需求，国常会最新部署；刘强东投入50亿元进军游艇产业，创立独立游艇品牌Sea Expandary；AMD同意向Meta公司出售价值高达600亿美元的AI芯片</title>
+      <link>https://www.tmtpost.com/7888819.html</link>
+      <description>&lt;![CDATA[【钛晨报】进一步释放银发消费需求，国常会最新部署；刘强东投入50亿元进军游艇产业，创立独立游艇品牌Sea Expandary；AMD同意向Meta公司出售价值高达600亿美元的AI芯片]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7888819.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优</title>
-      <link>https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外</title>
+      <link>https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业智能体“三宗罪”</title>
-      <link>https://www.tmtpost.com/7888087.html</link>
-      <description>&lt;![CDATA[企业智能体“三宗罪”]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7888087.html</guid>
+      <title>微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系</title>
+      <link>https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 20:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】关税突发！今起，停止征收；智谱、MiniMax，合计蒸发近千亿市值；荣耀将推出首款人形机器人</title>
-      <link>https://www.tmtpost.com/7887372.html</link>
-      <description>&lt;![CDATA[【钛晨报】关税突发！今起，停止征收；智谱、MiniMax，合计蒸发近千亿市值；荣耀将推出首款人形机器人]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7887372.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Altman放话：2028年，超级智能将超越人类</title>
-      <link>https://www.tmtpost.com/7887314.html</link>
-      <description>&lt;![CDATA[Altman放话：2028年，超级智能将超越人类]]&gt;</description>
+      <title>国轩高科“兵败”密歇根，撕开中企赴美建厂的无奈现实</title>
+      <link>https://www.tmtpost.com/7887928.html</link>
+      <description>&lt;![CDATA[国轩高科“兵败”密歇根，撕开中企赴美建厂的无奈现实]]&gt;</description>
       <pubDate>Tue, 24 Feb 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7887314.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887928.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>具身智能集体“西进”，硅基独角兽重仓8D魔幻场</title>
+      <link>https://www.tmtpost.com/7888467.html</link>
+      <description>&lt;![CDATA[具身智能集体“西进”，硅基独角兽重仓8D魔幻场]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7888467.html</guid>
       <category>Technology</category>
     </item>
   </channel>

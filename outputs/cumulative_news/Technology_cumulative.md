@@ -1,7 +1,104 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 08:52
+**最后更新时间**: 2026-02-24 23:34
+
+---
+
+## 🆕 最新更新 (2026-02-24 23:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】进一步释放银发消费需求，国常会最新部署；刘强东投入50亿元进军游艇产业，创立独立游艇品牌Sea Expandary；AMD同意向Meta公司出售价值高达600亿美元的AI芯片](https://www.tmtpost.com/7888819.html)
+**发布时间**: 2026-02-25 07:20
+
+#### [AI代理正掏空白领市场！Citrini Research 发出失控预警：或在2028年引发经济崩溃](https://www.tmtpost.com/7887701.html)
+**发布时间**: 2026-02-24 22:04
+
+#### [顶级的算力，失效的模型：西方“最佳实践”如何落地中国](https://www.tmtpost.com/7888144.html)
+**发布时间**: 2026-02-24 18:56
+
+#### [全球美妆品牌大洗牌](https://www.tmtpost.com/7888359.html)
+**发布时间**: 2026-02-24 18:56
+
+#### [百亿机器人龙头进军光伏，“跨界高手”许礼进这次胜算几何？](https://www.tmtpost.com/7888636.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [总理座谈会上的年轻人，春节暴涨超千亿](https://www.tmtpost.com/7888059.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [外资四巨头齐聚，星德胜“凤凰涅槃”的时与势](https://www.tmtpost.com/7888490.html)
+**发布时间**: 2026-02-24 18:48
+
+#### [前作流水破亿后，这家深圳厂商又出霸榜爆款](https://www.tmtpost.com/7887817.html)
+**发布时间**: 2026-02-24 18:43
+
+#### [知名台商拟定增入主，*ST高斯保壳要过审计关](https://www.tmtpost.com/7887867.html)
+**发布时间**: 2026-02-24 18:43
+
+#### [具身智能集体“西进”，硅基独角兽重仓8D魔幻场](https://www.tmtpost.com/7888467.html)
+**发布时间**: 2026-02-24 18:31
+
+#### [热锅里的炒货品牌，在“煎熬”中等待变化](https://www.tmtpost.com/7888478.html)
+**发布时间**: 2026-02-24 18:29
+
+#### [中国版Kindle想上市，靠的是什么故事？](https://www.tmtpost.com/7888513.html)
+**发布时间**: 2026-02-24 18:29
+
+#### [春晚机器人很能打，也要让车间主任买账](https://www.tmtpost.com/7888499.html)
+**发布时间**: 2026-02-24 18:28
+
+#### [抢客户、战表格、押AI：钉钉和飞书继续贴身肉搏](https://www.tmtpost.com/7888431.html)
+**发布时间**: 2026-02-24 18:21
+
+#### [特朗普提出了新的AI能源计划，GE Vernova等公司有望受](https://www.tmtpost.com/7888525.html)
+**发布时间**: 2026-02-24 17:46
+
+#### [人工智能正在重塑经济格局，这6只股票有望胜出](https://www.tmtpost.com/7888517.html)
+**发布时间**: 2026-02-24 17:41
+
+#### [华尔街看好这只新的太空股票](https://www.tmtpost.com/7888515.html)
+**发布时间**: 2026-02-24 17:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TSSLint 3.0 发布，可能是最后一次大更新](https://www.infoq.cn/article/d7aCEhQudlIvP1pPJQPJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 21:05
+
+#### [微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系](https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 20:09
+
+#### [最卷春节档，改写模型“地板”的只有 TA](https://www.infoq.cn/article/PKx7bKmggh78MLpPqChK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 18:59
+
+#### [SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外](https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 18:00
+
+#### [现代化 ML 技术栈：智能体、多模态与实时工作流正式发布 ｜ 技术趋势](https://www.infoq.cn/article/EmfUeqkx12vtQk1G46gm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 17:58
+
+#### [虾宝给⾃⼰找了份⼯作——当AI真的按照“出⼚设置”活了起来](https://www.infoq.cn/article/SqMSDfC0qApVKQZPNtVa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 16:59
+
+#### [当AI开始学做⼈：逐句解读OpenClaw的AgentS.md ——SOUL.md定义了灵魂，AgentS.md教会它怎么活](https://www.infoq.cn/article/6DDhlbmtGRomwDCHh4Ts?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 16:55
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [老家县城，已经折叠成了两个平行宇宙](http://www.huxiu.com/article/4835926.html?f=wangzhan)
+**发布时间**: 2026-02-24 20:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 130 | 演唱会摄影利器体验、几十块钱的旅行「安全感」](https://sspai.com/post/106547)
+**发布时间**: 2026-02-24 17:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [逛逛的粉丝推荐的 GitHub 项目，收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531608&idx=1&sn=fdd0808ec3ab2453028847f73c08a47e)
+**发布时间**: 2026-02-24 16:41
+
+#### [盘点 3 个 AI Agent 相关神级 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531596&idx=1&sn=e07802761573db606f43f74fd8e75999)
+**发布时间**: 2026-02-23 15:05
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Feb 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 08:52:31 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 23:34:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构</title>
-      <link>https://www.qbitai.com/2026/02/381872.html</link>
-      <description>&lt;![CDATA[字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381872.html</guid>
+      <title>微软研究登上Nature：把人类文明刻在玻璃里保存一万年</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-9</link>
+      <description>&lt;![CDATA[微软研究登上Nature：把人类文明刻在玻璃里保存一万年]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-9</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>八年积淀，中国人工智能迎来自主的世界级学术主场WAICA</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-24-5</link>
-      <description>&lt;![CDATA[八年积淀，中国人工智能迎来自主的世界级学术主场WAICA]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-5</guid>
+      <title>又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-8</link>
+      <description>&lt;![CDATA[又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-8</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-24-3</link>
-      <description>&lt;![CDATA[千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 12:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-3</guid>
+      <title>全网围观：Meta超级智能安全总监，被OpenClaw删光了邮件</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-7</link>
+      <description>&lt;![CDATA[全网围观：Meta超级智能安全总监，被OpenClaw删光了邮件]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>锚定“连接+算力”，中兴通讯助力具身智能行业创新发展</title>
-      <link>https://www.qbitai.com/2026/02/381820.html</link>
-      <description>&lt;![CDATA[锚定“连接+算力”，中兴通讯助力具身智能行业创新发展]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381820.html</guid>
+      <title>多模态DeepResearch，成了！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-6</link>
+      <description>&lt;![CDATA[多模态DeepResearch，成了！]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Kimi春节档挣超一年钱！这口“龙虾肉”大厂开始抢吃了</title>
-      <link>https://www.qbitai.com/2026/02/381896.html</link>
-      <description>&lt;![CDATA[Kimi春节档挣超一年钱！这口“龙虾肉”大厂开始抢吃了]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381896.html</guid>
+      <title>2026-02-24日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-24/</link>
+      <description>&lt;![CDATA[2026-02-24日刊]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 09:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-24/</guid>
       <category>Ai</category>
     </item>
   </channel>
