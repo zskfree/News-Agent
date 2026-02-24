@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Feb 2026 23:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 23:36:05 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:02:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-23-7</link>
-      <description>&lt;![CDATA[AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 20:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-7</guid>
+      <title>DeepMind：智能体越多越乱，Agent天花板出现了？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-2</link>
+      <description>&lt;![CDATA[DeepMind：智能体越多越乱，Agent天花板出现了？]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-23-2</link>
-      <description>&lt;![CDATA[ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 20:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-2</guid>
+      <title>从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24</link>
+      <description>&lt;![CDATA[从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-23-6</link>
-      <description>&lt;![CDATA[项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-6</guid>
+      <title>228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-4</link>
+      <description>&lt;![CDATA[228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-4</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-23-4</link>
-      <description>&lt;![CDATA[Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-4</guid>
+      <title>DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了</title>
+      <link>https://www.qbitai.com/2026/02/381786.html</link>
+      <description>&lt;![CDATA[DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381786.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-23-3</link>
-      <description>&lt;![CDATA[揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 20:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-23-3</guid>
+      <title>20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道</title>
+      <link>https://www.qbitai.com/2026/02/381766.html</link>
+      <description>&lt;![CDATA[20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 02:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381766.html</guid>
       <category>Ai</category>
     </item>
   </channel>

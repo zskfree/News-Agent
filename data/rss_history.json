@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9a76de65896c359006e2640547e6d97c91262060415744e08647a495f9653c73": {
-        "title": "【数智周报】中芯国际等巨头集体提价；风投资金涌入Anthropic，新一轮融资250亿美元；DeepMind CEO：中国头部AI企业只比前沿水平落后六个月，但中国AI基础创新仍存短板",
-        "link": "https://www.tmtpost.com/7854330.html",
-        "published_date": "Sun, 25 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-25T05:30:13.415046"
-      },
-      "702253550c711e07a8293cf4d49115b6fdaddb484b033cafba2975c9ed2e17a3": {
-        "title": "AI竞赛正在金融化：七巨头把算力之争打成资本战",
-        "link": "https://www.tmtpost.com/7854486.html",
-        "published_date": "Sun, 25 Jan 2026 08:07:00 GMT",
-        "first_seen": "2026-01-25T05:30:13.415052"
-      },
-      "8bb61c0498c0adac9d4e90c3b9586b60fc01183edb112d5810317e84d3e3a655": {
-        "title": "卫星互联网的泡沫警示：“星链”光环难掩商业航天盈利困局",
-        "link": "https://www.tmtpost.com/7854654.html",
-        "published_date": "Sun, 25 Jan 2026 10:40:00 GMT",
-        "first_seen": "2026-01-25T05:30:13.415054"
-      },
-      "671e20b936a1cde8b738eec5da40b0b517f89958042e101fcc52a8307f473b45": {
-        "title": "燧原科技科创板IPO：国产AI芯片“另类”破局者的进击与隐忧",
-        "link": "https://www.tmtpost.com/7853837.html",
-        "published_date": "Sun, 25 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-25T05:30:13.415056"
-      },
-      "27d0faf3d8455a40424e052fc219792d1d8d998f81585244087e6b7417b71905": {
-        "title": "黄仁勋偷偷高调背后，是2026年的一场硬仗",
-        "link": "https://www.tmtpost.com/7854648.html",
-        "published_date": "Sun, 25 Jan 2026 10:39:00 GMT",
-        "first_seen": "2026-01-25T05:30:13.415057"
-      },
       "676ecd9336c700ba935bdaf585ee339b279d91df745446ed90399df62c2ed2b7": {
         "title": "马斯克新宣言引爆A股，隆基绿能、东方日升等30多光伏股涨停，太空光伏进入产业化倒计时",
         "link": "https://www.tmtpost.com/7854297.html",
@@ -2695,27 +2665,39 @@
         "link": "https://www.tmtpost.com/7887199.html",
         "published_date": "Mon, 23 Feb 2026 17:44:00 GMT",
         "first_seen": "2026-02-23T23:36:20.719460"
+      },
+      "3d5d477423d2eccebc2cceaeb8c4045f0d55ee139ae88e765e03d4dc260a3eb6": {
+        "title": "月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力",
+        "link": "https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 09:54:00 GMT",
+        "first_seen": "2026-02-24T06:02:25.474464"
+      },
+      "a50e35f6c793bddd7a27275a31ccecd68191c53727803aae94f2d04c2a75470f": {
+        "title": "⼤神Karpathy最新推⽂：AI技术栈⻓出了新的⼀层 ，叫Claw",
+        "link": "https://www.infoq.cn/article/V6yNz0S1DKeUtmoSfrsw?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 12:07:00 GMT",
+        "first_seen": "2026-02-24T06:02:25.474470"
+      },
+      "d45790563bde81959b3f38a4eb6e6d0320d249510ff6ae8f27a3fc49ff6753eb": {
+        "title": "OpenAI发布了Codex应用服务器架构，用于统一AI智能体表面",
+        "link": "https://www.infoq.cn/article/Ac7pCglOgaK4tEoWg5b7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-24T06:02:25.474472"
+      },
+      "66734e37e2a5e4fdc02c86362b8f56a3ca8fc402ea121c000bffdf7780aae426": {
+        "title": "WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件",
+        "link": "https://www.infoq.cn/article/eziroAJBVUcQXEgjrUmU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 09:38:00 GMT",
+        "first_seen": "2026-02-24T06:02:25.474474"
+      },
+      "8eb657fee83b9807927090a8ec5c2f420484cd726bf893aa79396eb5e064f5ca": {
+        "title": "构建代理式MLOps：一种基于A2A和MCP的分层协议策略",
+        "link": "https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-24T06:02:25.474476"
       }
     },
     "Finance": {
-      "f5aefdff70858f5b94fc924a82ae1ba0ddb4b531f9deb054cef7f51bce31d267": {
-        "title": "Middle powers may miss the global order more than they think",
-        "link": "https://www.ft.com/content/647d375b-26f6-4bf3-ac68-175558ba6ab0",
-        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-25T05:29:49.811263"
-      },
-      "7150a6c18b5902c9c45482ff4c4ce37f2a98c770e1bffe6e0502ca0975bd1279": {
-        "title": "No laughing matter as Lebanon goes after its comedians",
-        "link": "https://www.ft.com/content/f8dd74d4-c532-4adb-b148-27b2a63e8840",
-        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-25T05:29:49.811275"
-      },
-      "b16c316e462d5dd55d1f10758646cd24012c185bc6526962a033ebf31100a113": {
-        "title": "Link MPs’ pay to GDP, says UK business secretary",
-        "link": "https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f",
-        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-25T05:29:49.811278"
-      },
       "6f5cf03cad26816b877c3acfee447947d310f94acbb076b5db68b55178c8855c": {
         "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
         "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
@@ -4653,21 +4635,39 @@
         "link": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories",
         "published_date": "Mon, 23 Feb 2026 22:47:00 GMT",
         "first_seen": "2026-02-23T23:35:54.600741"
+      },
+      "744751eff38875161b7013bfe85d27faeda5dfef6cbf4d20ae94bd3d09d31430": {
+        "title": "Trump’s global tariff takes effect at 10%",
+        "link": "https://www.ft.com/content/61c2e6d6-5e82-471d-b189-3d57d53407ae",
+        "published_date": "Tue, 24 Feb 2026 03:53:00 GMT",
+        "first_seen": "2026-02-24T06:01:53.099783"
+      },
+      "740923e42c829148081ba9358bc8b5152ad9b157ccf8988f5cec91c8b38b0f8b": {
+        "title": "‘Crisis of his own making’: Trump weighs another war with Iran",
+        "link": "https://www.ft.com/content/0408deca-ecca-49ab-bff6-985ef83897ce",
+        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-24T06:01:53.099794"
+      },
+      "556f096b05489723db01559ecbc227e56c948d162ded40567e4387e1486d474b": {
+        "title": "Europe’s ‘tech sovereignty’ ambitions carry security risks, military warns",
+        "link": "https://www.ft.com/content/0f7f7aa7-af4e-4ea6-82da-5f8c719982fe",
+        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-24T06:01:53.099797"
+      },
+      "b0ea27bb8935ada23ce2a085369ecebeb4d761be98ab57b170084243b4bdd4d1": {
+        "title": "Rapid UK coastal erosion throws spotlight on £40bn nuclear plant",
+        "link": "https://www.ft.com/content/7f093296-41cd-498c-ba81-f3707204eca9",
+        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-24T06:01:53.099799"
+      },
+      "5ed897f21ba674da35fdd8f22de316a125ce258e77d0c9beb6d22f50cc6d1d34": {
+        "title": "Tariff ruling sparks ‘refund chaos’ that small businesses and families can’t afford",
+        "link": "https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories",
+        "published_date": "Mon, 23 Feb 2026 23:42:00 GMT",
+        "first_seen": "2026-02-24T06:01:53.099801"
       }
     },
     "Ai": {
-      "e8a347a17cddac753497cc17e2cd79416e49d9271686a0db5382324cbeb1dca0": {
-        "title": "斯坦福「返老还童」新研究：无需干细胞，逆转关节损伤和老化",
-        "link": "https://www.qbitai.com/2026/01/372343.html",
-        "published_date": "Sun, 25 Jan 2026 03:41:00 GMT",
-        "first_seen": "2026-01-25T05:29:49.928828"
-      },
-      "4397343e065202549965bbcc4367c00f27b0f74e60dec43d42edb5165d107a45": {
-        "title": "2026-01-25日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-25/",
-        "published_date": "Sun, 25 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-25T05:29:49.928836"
-      },
       "c9b6bc6882f05d5d05b656623917095efe201dfe7eccaec28a1dffd50c229a95": {
         "title": "17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞",
         "link": "https://www.jiqizhixin.com/articles/2026-01-25-4",
@@ -6653,13 +6653,43 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-23-3",
         "published_date": "Mon, 23 Feb 2026 20:18:00 GMT",
         "first_seen": "2026-02-23T23:36:05.138767"
+      },
+      "84574ca4c4f0478e151c65fadfa5057f531564345382edfb3b077c4e25674902": {
+        "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-24-2",
+        "published_date": "Tue, 24 Feb 2026 12:34:00 GMT",
+        "first_seen": "2026-02-24T06:02:08.006951"
+      },
+      "13b5d928cbe5b10d64a106e2332147419d5a568d68282f8f4cc2f2dd6ff9547e": {
+        "title": "从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-24",
+        "published_date": "Tue, 24 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-24T06:02:08.006958"
+      },
+      "9d236e150737d7e280ea7121895bc0775e0caff33d85f2ac03c5aad1d7d5472a": {
+        "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-24-4",
+        "published_date": "Tue, 24 Feb 2026 12:49:00 GMT",
+        "first_seen": "2026-02-24T06:02:08.006961"
+      },
+      "93d31b692f7cf16e4c7b12b74d2697ce82a9bde3bf2c78e46618a2e288e93537": {
+        "title": "DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了",
+        "link": "https://www.qbitai.com/2026/02/381786.html",
+        "published_date": "Tue, 24 Feb 2026 04:00:00 GMT",
+        "first_seen": "2026-02-24T06:02:08.006962"
+      },
+      "ec951605261c1a4aca49393818c6fb155962068cb6439f2b38c59273c393417a": {
+        "title": "20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道",
+        "link": "https://www.qbitai.com/2026/02/381766.html",
+        "published_date": "Tue, 24 Feb 2026 02:51:00 GMT",
+        "first_seen": "2026-02-24T06:02:08.006964"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-23T23:36:20.719462",
-    "Finance": "2026-02-23T23:35:54.600744",
-    "Ai": "2026-02-23T23:36:05.138770"
+    "Technology": "2026-02-24T06:02:25.474478",
+    "Finance": "2026-02-24T06:01:53.099803",
+    "Ai": "2026-02-24T06:02:08.006966"
   }
 }

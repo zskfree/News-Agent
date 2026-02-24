@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-23 23:35
+**最后更新时间**: 2026-02-24 06:01
+
+---
+
+## 🆕 最新更新 (2026-02-24 06:01)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [⼤神Karpathy最新推⽂：AI技术栈⻓出了新的⼀层 ，叫Claw](https://www.infoq.cn/article/V6yNz0S1DKeUtmoSfrsw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 12:07
+
+#### [OpenAI发布了Codex应用服务器架构，用于统一AI智能体表面](https://www.infoq.cn/article/Ac7pCglOgaK4tEoWg5b7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 12:00
+
+#### [构建代理式MLOps：一种基于A2A和MCP的分层协议策略](https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 11:00
+
+#### [月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力](https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 09:54
+
+#### [WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件](https://www.infoq.cn/article/eziroAJBVUcQXEgjrUmU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 09:38
+
+#### [自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优](https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-24 09:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [剧变之年，中国电影这500亿的生意怎么做？2026年这些趋势马上来](https://www.tmtpost.com/7888031.html)
+**发布时间**: 2026-02-24 11:03
+
+#### [一年狂揽超12亿，三年暴涨15倍，河南出了个“中国迪士尼”](https://www.tmtpost.com/7887975.html)
+**发布时间**: 2026-02-24 10:55
+
+#### [今年春节，“怕是有一亿中国游客在马来西亚”](https://www.tmtpost.com/7887903.html)
+**发布时间**: 2026-02-24 10:50
+
+#### [狂掷80亿，春节AI大战谁赢了？](https://www.tmtpost.com/7887924.html)
+**发布时间**: 2026-02-24 10:47
+
+#### [德兰明海转道港股：高毛利与隐忧并存的DTC储能之路](https://www.tmtpost.com/7887974.html)
+**发布时间**: 2026-02-24 10:42
+
+#### [Altman放话：2028年，超级智能将超越人类](https://www.tmtpost.com/7887314.html)
+**发布时间**: 2026-02-24 10:40
+
+#### [国轩高科“兵败”密歇根，撕开中企赴美建厂的无奈现实](https://www.tmtpost.com/7887928.html)
+**发布时间**: 2026-02-24 10:40
+
+#### [2026年全球AI决战时刻](https://www.tmtpost.com/7887950.html)
+**发布时间**: 2026-02-24 10:32
+
+#### [春节档的“镖旗”，该往哪儿插？](https://www.tmtpost.com/7887958.html)
+**发布时间**: 2026-02-24 10:32
+
+#### [县城消费「限时繁荣」了十天](https://www.tmtpost.com/7887929.html)
+**发布时间**: 2026-02-24 10:06
+
+#### [春节酒店“渡劫”：有的一晚涨两千，有的亏得快破产](https://www.tmtpost.com/7887676.html)
+**发布时间**: 2026-02-24 10:02
+
+#### [即时零售将成为AI购物的主战场](https://www.tmtpost.com/7887689.html)
+**发布时间**: 2026-02-24 09:26
+
+#### [春节手机大战：有人直降4000，有人按兵不动](https://www.tmtpost.com/7887767.html)
+**发布时间**: 2026-02-24 09:24
+
+#### [智能轮椅四十年：从移动工具到智能伙伴，一场为了自由的漫长奔赴（1986-2026）](https://www.tmtpost.com/7887781.html)
+**发布时间**: 2026-02-24 09:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 时代的工具本地化：构建稳定、可迁移的数字堡垒](https://sspai.com/post/105218)
+**发布时间**: 2026-02-24 10:56
+
+#### [派早报：三星将 Perplexity AI 引入 Galaxy 手机等](https://sspai.com/post/106538)
+**发布时间**: 2026-02-24 07:53
 
 ---
 
