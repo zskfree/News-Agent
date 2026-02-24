@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Feb 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 06:02:08 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:52:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepMind：智能体越多越乱，Agent天花板出现了？</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-24-2</link>
-      <description>&lt;![CDATA[DeepMind：智能体越多越乱，Agent天花板出现了？]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 12:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-2</guid>
+      <title>字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构</title>
+      <link>https://www.qbitai.com/2026/02/381872.html</link>
+      <description>&lt;![CDATA[字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381872.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-24</link>
-      <description>&lt;![CDATA[从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24</guid>
+      <title>八年积淀，中国人工智能迎来自主的世界级学术主场WAICA</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-5</link>
+      <description>&lt;![CDATA[八年积淀，中国人工智能迎来自主的世界级学术主场WAICA]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 14:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-24-4</link>
-      <description>&lt;![CDATA[228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 12:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-4</guid>
+      <title>千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-24-3</link>
+      <description>&lt;![CDATA[千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 12:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-24-3</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了</title>
-      <link>https://www.qbitai.com/2026/02/381786.html</link>
-      <description>&lt;![CDATA[DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381786.html</guid>
+      <title>锚定“连接+算力”，中兴通讯助力具身智能行业创新发展</title>
+      <link>https://www.qbitai.com/2026/02/381820.html</link>
+      <description>&lt;![CDATA[锚定“连接+算力”，中兴通讯助力具身智能行业创新发展]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381820.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道</title>
-      <link>https://www.qbitai.com/2026/02/381766.html</link>
-      <description>&lt;![CDATA[20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 02:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381766.html</guid>
+      <title>Kimi春节档挣超一年钱！这口“龙虾肉”大厂开始抢吃了</title>
+      <link>https://www.qbitai.com/2026/02/381896.html</link>
+      <description>&lt;![CDATA[Kimi春节档挣超一年钱！这口“龙虾肉”大厂开始抢吃了]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/381896.html</guid>
       <category>Ai</category>
     </item>
   </channel>

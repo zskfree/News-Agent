@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "676ecd9336c700ba935bdaf585ee339b279d91df745446ed90399df62c2ed2b7": {
-        "title": "马斯克新宣言引爆A股，隆基绿能、东方日升等30多光伏股涨停，太空光伏进入产业化倒计时",
-        "link": "https://www.tmtpost.com/7854297.html",
-        "published_date": "Sun, 25 Jan 2026 08:42:00 GMT",
-        "first_seen": "2026-01-25T08:30:27.972617"
-      },
-      "c0f0b57dce51e3201c97942548623054b07bb38dc82781bf1dbcea40eacc2f11": {
-        "title": "AI录音笔市场井喷：大厂的硬件梦和用户放弃成本",
-        "link": "https://www.tmtpost.com/7854373.html",
-        "published_date": "Sun, 25 Jan 2026 08:46:00 GMT",
-        "first_seen": "2026-01-25T08:30:27.972623"
-      },
-      "00a53dbe3214934074059ce260f68ce6e56b9951dd6f2342bfcfc7b93222b465": {
-        "title": "TCL收编索尼电视",
-        "link": "https://www.tmtpost.com/7854289.html",
-        "published_date": "Sun, 25 Jan 2026 12:03:00 GMT",
-        "first_seen": "2026-01-25T08:30:27.972626"
-      },
-      "8a15bc427072b2fd09935edde2db1890b952ab42dbec5ea76dc96b4e77f8ba00": {
-        "title": "宇树，不认第二",
-        "link": "https://www.tmtpost.com/7854497.html",
-        "published_date": "Sun, 25 Jan 2026 08:50:00 GMT",
-        "first_seen": "2026-01-25T08:30:27.972628"
-      },
-      "e17a7d998a362e4275114ab4fc9afcef7b700913a42c403de9d1304645ea9554": {
-        "title": "4 个本周最火火火的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530782&idx=1&sn=c8d75db5c20ca31b06e20584c6a3dba3",
-        "published_date": "Sun, 25 Jan 2026 15:04:00 GMT",
-        "first_seen": "2026-01-25T08:30:27.972630"
-      },
       "1766eee4d1ae8cba00fbd6295d392fab5c7ce74411512b81dd7cc2dc5d6c704f": {
         "title": "汇川技术港股IPO的豪赌，2000亿投入欲为“绝对第一”储能野心输血",
         "link": "https://www.tmtpost.com/7854770.html",
@@ -2695,15 +2665,39 @@
         "link": "https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 24 Feb 2026 11:00:00 GMT",
         "first_seen": "2026-02-24T06:02:25.474476"
+      },
+      "b8017ffed486cde85d911c26496a8234dbba50ab48276cc1e43b1d98d0cd3e1b": {
+        "title": "1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达",
+        "link": "https://www.tmtpost.com/7888205.html",
+        "published_date": "Tue, 24 Feb 2026 15:28:00 GMT",
+        "first_seen": "2026-02-24T08:52:56.363184"
+      },
+      "af5a262a30a4a7ff67c83425a51b23c443f852bff0b777b979622baac337a383": {
+        "title": "自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优",
+        "link": "https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Feb 2026 09:36:00 GMT",
+        "first_seen": "2026-02-24T08:52:56.363190"
+      },
+      "bece7e4bb7919a85aa530e6903d4af50f624de17edec4ced6a02c9bd42f36d17": {
+        "title": "企业智能体“三宗罪”",
+        "link": "https://www.tmtpost.com/7888087.html",
+        "published_date": "Tue, 24 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-24T08:52:56.363192"
+      },
+      "7bc13b4cb2b3ffb239c67347a48364600c5e0455b2bd695365e5a3cec79c9b63": {
+        "title": "【钛晨报】关税突发！今起，停止征收；智谱、MiniMax，合计蒸发近千亿市值；荣耀将推出首款人形机器人",
+        "link": "https://www.tmtpost.com/7887372.html",
+        "published_date": "Tue, 24 Feb 2026 07:20:00 GMT",
+        "first_seen": "2026-02-24T08:52:56.363195"
+      },
+      "7d151e24969d4f42f05ca03a25eecd35f49539d0c43920a7bb1c73422990ec6a": {
+        "title": "Altman放话：2028年，超级智能将超越人类",
+        "link": "https://www.tmtpost.com/7887314.html",
+        "published_date": "Tue, 24 Feb 2026 10:40:00 GMT",
+        "first_seen": "2026-02-24T08:52:56.363197"
       }
     },
     "Finance": {
-      "6f5cf03cad26816b877c3acfee447947d310f94acbb076b5db68b55178c8855c": {
-        "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
-        "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
-        "published_date": "Sun, 25 Jan 2026 07:30:00 GMT",
-        "first_seen": "2026-01-25T08:30:14.478737"
-      },
       "a58a3d25b7cc1a4b6270abf9d98fd6df73635d18e1e20e20a094f17bbe5f3d6d": {
         "title": "U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories",
@@ -4665,6 +4659,12 @@
         "link": "https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories",
         "published_date": "Mon, 23 Feb 2026 23:42:00 GMT",
         "first_seen": "2026-02-24T06:01:53.099801"
+      },
+      "753c62d35ff430791d79f91e6e463a3e66ab56fe5e139b02c100ff385b3d64f2": {
+        "title": "This award-winning hedge fund manager is betting the era of capital abundance becomes one of capital scarcity",
+        "link": "https://www.marketwatch.com/story/this-award-winning-hedge-fund-manager-is-betting-the-era-of-capital-abundance-becomes-one-of-capital-scarcity-fe6ae3c7?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Feb 2026 08:29:00 GMT",
+        "first_seen": "2026-02-24T08:52:18.012078"
       }
     },
     "Ai": {
@@ -6683,13 +6683,43 @@
         "link": "https://www.qbitai.com/2026/02/381766.html",
         "published_date": "Tue, 24 Feb 2026 02:51:00 GMT",
         "first_seen": "2026-02-24T06:02:08.006964"
+      },
+      "b1a7a998d6293fcbb13a28952351178f933a3871a543a0d1152544501511e9c4": {
+        "title": "字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构",
+        "link": "https://www.qbitai.com/2026/02/381872.html",
+        "published_date": "Tue, 24 Feb 2026 07:23:00 GMT",
+        "first_seen": "2026-02-24T08:52:31.768774"
+      },
+      "60b31180dcdc03c854b77aa26aa9c09cff124418f3984ded57072cf892185aab": {
+        "title": "八年积淀，中国人工智能迎来自主的世界级学术主场WAICA",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-24-5",
+        "published_date": "Tue, 24 Feb 2026 14:04:00 GMT",
+        "first_seen": "2026-02-24T08:52:31.768781"
+      },
+      "6b01da077dbd7daff44f535c10207481a552fef50a7b4e0a3b8b259028e85bb6": {
+        "title": "千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-24-3",
+        "published_date": "Tue, 24 Feb 2026 12:39:00 GMT",
+        "first_seen": "2026-02-24T08:52:31.768784"
+      },
+      "82593665490eae28f362e284c7a8bc31f42f4eb102831f1193e7b02f63a9ae58": {
+        "title": "锚定“连接+算力”，中兴通讯助力具身智能行业创新发展",
+        "link": "https://www.qbitai.com/2026/02/381820.html",
+        "published_date": "Tue, 24 Feb 2026 07:03:00 GMT",
+        "first_seen": "2026-02-24T08:52:31.768786"
+      },
+      "0a38b62e771664b394d45292bbac41c87b93e35796d52cef233bdefb257b0b7b": {
+        "title": "Kimi春节档挣超一年钱！这口“龙虾肉”大厂开始抢吃了",
+        "link": "https://www.qbitai.com/2026/02/381896.html",
+        "published_date": "Tue, 24 Feb 2026 07:49:00 GMT",
+        "first_seen": "2026-02-24T08:52:31.768788"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-24T06:02:25.474478",
-    "Finance": "2026-02-24T06:01:53.099803",
-    "Ai": "2026-02-24T06:02:08.006966"
+    "Technology": "2026-02-24T08:52:56.363198",
+    "Finance": "2026-02-24T08:52:18.012088",
+    "Ai": "2026-02-24T08:52:31.768790"
   }
 }

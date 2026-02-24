@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Feb 2026 06:01:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 06:02:25 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:52:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力</title>
-      <link>https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达</title>
+      <link>https://www.tmtpost.com/7888205.html</link>
+      <description>&lt;![CDATA[1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7888205.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>⼤神Karpathy最新推⽂：AI技术栈⻓出了新的⼀层 ，叫Claw</title>
-      <link>https://www.infoq.cn/article/V6yNz0S1DKeUtmoSfrsw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[⼤神Karpathy最新推⽂：AI技术栈⻓出了新的⼀层 ，叫Claw]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/V6yNz0S1DKeUtmoSfrsw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优</title>
+      <link>https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[自主式大数据优化：通过多智能体强化学习实现 Apache Spark 的自调优]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t0uYPeckqF18hc4gUQU0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI发布了Codex应用服务器架构，用于统一AI智能体表面</title>
-      <link>https://www.infoq.cn/article/Ac7pCglOgaK4tEoWg5b7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI发布了Codex应用服务器架构，用于统一AI智能体表面]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ac7pCglOgaK4tEoWg5b7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>企业智能体“三宗罪”</title>
+      <link>https://www.tmtpost.com/7888087.html</link>
+      <description>&lt;![CDATA[企业智能体“三宗罪”]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7888087.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件</title>
-      <link>https://www.infoq.cn/article/eziroAJBVUcQXEgjrUmU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eziroAJBVUcQXEgjrUmU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】关税突发！今起，停止征收；智谱、MiniMax，合计蒸发近千亿市值；荣耀将推出首款人形机器人</title>
+      <link>https://www.tmtpost.com/7887372.html</link>
+      <description>&lt;![CDATA[【钛晨报】关税突发！今起，停止征收；智谱、MiniMax，合计蒸发近千亿市值；荣耀将推出首款人形机器人]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887372.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>构建代理式MLOps：一种基于A2A和MCP的分层协议策略</title>
-      <link>https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[构建代理式MLOps：一种基于A2A和MCP的分层协议策略]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Altman放话：2028年，超级智能将超越人类</title>
+      <link>https://www.tmtpost.com/7887314.html</link>
+      <description>&lt;![CDATA[Altman放话：2028年，超级智能将超越人类]]&gt;</description>
+      <pubDate>Tue, 24 Feb 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7887314.html</guid>
       <category>Technology</category>
     </item>
   </channel>
