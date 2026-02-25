@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Feb 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2026 06:04:17 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:53:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepMind药物衍生公司的独家新AI，堪称AlphaFold 4的专有药物设计引擎</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-4</link>
-      <description>&lt;![CDATA[DeepMind药物衍生公司的独家新AI，堪称AlphaFold 4的专有药物设计引擎]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-4</guid>
+      <title>大语言模型真的会「推理」吗？一项系统性研究梳理 LLM 的结构性推理失败</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-25-6</link>
+      <description>&lt;![CDATA[大语言模型真的会「推理」吗？一项系统性研究梳理 LLM 的结构性推理失败]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-6</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25</link>
-      <description>&lt;![CDATA[ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25</guid>
+      <title>融资34亿！谷歌前TPU员工创业新型芯片，卡帕西也投了</title>
+      <link>https://www.qbitai.com/2026/02/382058.html</link>
+      <description>&lt;![CDATA[融资34亿！谷歌前TPU员工创业新型芯片，卡帕西也投了]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382058.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-5</link>
-      <description>&lt;![CDATA[最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-5</guid>
+      <title>消费级显卡可跑！刚刚，阿里Qwen3.5又开源3款新模型</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-25-7</link>
+      <description>&lt;![CDATA[消费级显卡可跑！刚刚，阿里Qwen3.5又开源3款新模型]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-7</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-3</link>
-      <description>&lt;![CDATA[AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-3</guid>
+      <title>阿里发布三款中型千问3.5新模型，每百万Token低至0.2元</title>
+      <link>https://www.qbitai.com/2026/02/382054.html</link>
+      <description>&lt;![CDATA[阿里发布三款中型千问3.5新模型，每百万Token低至0.2元]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 06:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382054.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚上完春晚，宇树新品机器狗就亮相了</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-2</link>
-      <description>&lt;![CDATA[刚上完春晚，宇树新品机器狗就亮相了]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-2</guid>
+      <title>只要1100美元tokens，一周重写 Next.js！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-25-8</link>
+      <description>&lt;![CDATA[只要1100美元tokens，一周重写 Next.js！]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-8</guid>
       <category>Ai</category>
     </item>
   </channel>

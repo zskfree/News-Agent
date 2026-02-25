@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Feb 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2026 06:04:07 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:52:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump announces 401(k) plans with $1,000 match for workers whose employers don’t offer them</title>
-      <link>https://www.marketwatch.com/story/trump-401-k-the-president-could-announce-retirement-plans-for-people-whose-employers-dont-offer-them-0ad666ed?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump announces 401(k) plans with $1,000 match for workers whose employers don’t offer them]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-401-k-the-president-could-announce-retirement-plans-for-people-whose-employers-dont-offer-them-0ad666ed?mod=mw_rss_topstories</guid>
+      <title>American tequila sales are collapsing. Diageo is cutting its dividend in half.</title>
+      <link>https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[American tequila sales are collapsing. Diageo is cutting its dividend in half.]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.</title>
-      <link>https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>HSBC says capital ratios need to improve before it resumes buybacks</title>
-      <link>https://www.ft.com/content/828398ac-0289-4550-acd4-e9bbbbeb9efc</link>
-      <description>&lt;![CDATA[HSBC says capital ratios need to improve before it resumes buybacks]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 05:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/828398ac-0289-4550-acd4-e9bbbbeb9efc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How Deutsche Bank rolled out the red carpet for Jeffrey Epstein</title>
-      <link>https://www.ft.com/content/b1d9e8c4-1874-4c82-941d-9a2e1512bc4c</link>
-      <description>&lt;![CDATA[How Deutsche Bank rolled out the red carpet for Jeffrey Epstein]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b1d9e8c4-1874-4c82-941d-9a2e1512bc4c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The death of the Trump trade</title>
-      <link>https://www.ft.com/content/cfdc8ea7-57ed-4843-82b6-7cc427b3e32f</link>
-      <description>&lt;![CDATA[The death of the Trump trade]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cfdc8ea7-57ed-4843-82b6-7cc427b3e32f</guid>
+      <title>New Diageo boss cuts dividend as Guinness maker’s sales slide</title>
+      <link>https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5</link>
+      <description>&lt;![CDATA[New Diageo boss cuts dividend as Guinness maker’s sales slide]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5</guid>
       <category>Finance</category>
     </item>
   </channel>

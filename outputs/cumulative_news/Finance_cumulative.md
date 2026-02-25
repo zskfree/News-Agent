@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 06:03
+**最后更新时间**: 2026-02-25 08:52
+
+---
+
+## 🆕 最新更新 (2026-02-25 08:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [American tequila sales are collapsing. Diageo is cutting its dividend in half.](https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 08:47
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [New Diageo boss cuts dividend as Guinness maker’s sales slide](https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5)
+**发布时间**: 2026-02-25 07:20
+
+#### [Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union](https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78)
+**发布时间**: 2026-02-25 05:30
 
 ---
 

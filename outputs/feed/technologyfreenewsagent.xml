@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Feb 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2026 06:04:35 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 08:53:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法</title>
-      <link>https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta、OpenAI 争抢收购 OpenClaw前夜，创始人曝艰难抉择：月入不到2万刀赔钱养项目，Offer拿到手软，对几十亿融资没兴趣</title>
+      <link>https://www.infoq.cn/article/lzj8OxKCV6be53mt8SJB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta、OpenAI 争抢收购 OpenClaw前夜，创始人曝艰难抉择：月入不到2万刀赔钱养项目，Offer拿到手软，对几十亿融资没兴趣]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lzj8OxKCV6be53mt8SJB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？</title>
-      <link>https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>遭谷歌封禁，OpenClaw 创始人首次在 OpenAI 受访吐槽：Gemini 自信“100%能跑”，结果一试就崩</title>
+      <link>https://www.infoq.cn/article/YTywvAOvAxu7kXeKP2y1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[遭谷歌封禁，OpenClaw 创始人首次在 OpenAI 受访吐槽：Gemini 自信“100%能跑”，结果一试就崩]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YTywvAOvAxu7kXeKP2y1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失</title>
-      <link>https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AGI凉了？吴恩达、斯坦福、谷歌云罕见同频：AI测评逻辑正被Agent颠覆</title>
+      <link>https://www.infoq.cn/article/IvPvQ40zBcdWhxiI81WZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AGI凉了？吴恩达、斯坦福、谷歌云罕见同频：AI测评逻辑正被Agent颠覆]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IvPvQ40zBcdWhxiI81WZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔</title>
-      <link>https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 一线开发观察：能同时盯住 10～20 个 Agent、跑小时级任务的人，正在把其他工程师远远甩开</title>
+      <link>https://www.infoq.cn/article/yEMrZMp6NTV8Rdj7lEQA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 一线开发观察：能同时盯住 10～20 个 Agent、跑小时级任务的人，正在把其他工程师远远甩开]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yEMrZMp6NTV8Rdj7lEQA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026，国产AI芯片，跨越天堑：从“推理”走向“训练”</title>
-      <link>https://www.tmtpost.com/7889270.html</link>
-      <description>&lt;![CDATA[2026，国产AI芯片，跨越天堑：从“推理”走向“训练”]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 12:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7889270.html</guid>
+      <title>亚马逊云科技终止视频编解码专利保护，开发者需“自担风险”</title>
+      <link>https://www.infoq.cn/article/9PhfRAXmHLAd5CrarY8q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技终止视频编解码专利保护，开发者需“自担风险”]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9PhfRAXmHLAd5CrarY8q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

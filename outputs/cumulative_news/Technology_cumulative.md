@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 06:03
+**最后更新时间**: 2026-02-25 08:52
+
+---
+
+## 🆕 最新更新 (2026-02-25 08:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta、OpenAI 争抢收购 OpenClaw前夜，创始人曝艰难抉择：月入不到2万刀赔钱养项目，Offer拿到手软，对几十亿融资没兴趣](https://www.infoq.cn/article/lzj8OxKCV6be53mt8SJB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 16:42
+
+#### [印度一大学买宇树机器狗冒充自研，被扒后坦白；智谱致歉并宣布补偿，《镖人》用 Seedance 2.0 做片尾彩蛋；OpenAI 算力狂想退烧｜AI周报](https://www.infoq.cn/article/cLoHrUKOT9cl0Kpb5v9e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 16:33
+
+#### [亚马逊云科技终止视频编解码专利保护，开发者需“自担风险”](https://www.infoq.cn/article/9PhfRAXmHLAd5CrarY8q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 16:20
+
+#### [AGI凉了？吴恩达、斯坦福、谷歌云罕见同频：AI测评逻辑正被Agent颠覆](https://www.infoq.cn/article/IvPvQ40zBcdWhxiI81WZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 16:13
+
+#### [遭谷歌封禁，OpenClaw 创始人首次在 OpenAI 受访吐槽：Gemini 自信“100%能跑”，结果一试就崩](https://www.infoq.cn/article/YTywvAOvAxu7kXeKP2y1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 15:44
+
+#### [规范驱动开发——企业规模化落地实践](https://www.infoq.cn/article/OOwOxKFZQbShKx1timMP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 15:05
+
+#### [Dropbox 如何构建可扩展的企业知识搜索上下文引擎](https://www.infoq.cn/article/5xt9zMRkVhLVXMuVvPVL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 14:58
+
+#### [GitHub Copilot SDK使开发人员可以将Copilot CLI的引擎集成到应用中](https://www.infoq.cn/article/p1NpJVZoOElHwXRIKvaE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 14:53
+
+#### [Java近期资讯：GlassFish 8.0、OmniHai 1.0、LangChain4j、Infinispan、Hibernate、JobRunr](https://www.infoq.cn/article/8MpFC4hH8ycB8LjbyCQT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 14:51
+
+#### [Cloudflare推出基于路径的边缘路由垂直微前端模板](https://www.infoq.cn/article/yWGFSIQs1Uh3LEmLIpgi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 14:41
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [春节AI风暴：AI走出幼年期](https://www.tmtpost.com/7889427.html)
+**发布时间**: 2026-02-25 16:21
+
+#### [云鲸JX的越级答案，十年长虹的爆款哲学](https://www.tmtpost.com/7876155.html)
+**发布时间**: 2026-02-25 16:05
+
+#### [China's E-commerce Tycoon Richard Liu Cruises into Yacht Industry](https://www.tmtpost.com/7889592.html)
+**发布时间**: 2026-02-25 15:57
+
+#### [AI 助手狂飙骤停，越权、失控与巨头的达摩克利斯之剑](https://www.tmtpost.com/7888586.html)
+**发布时间**: 2026-02-25 15:09
+
+#### [人工智能大模型资本泡沫汹涌](https://www.tmtpost.com/7889465.html)
+**发布时间**: 2026-02-25 14:56
+
+#### [谷歌连夜封禁，全行业集体堵截，OpenClaw 到底动了谁的蛋糕？](https://www.tmtpost.com/7889312.html)
+**发布时间**: 2026-02-25 14:55
+
+#### [刘强东“下海”   中国游艇的黄金时代来了么](https://www.tmtpost.com/7889323.html)
+**发布时间**: 2026-02-25 14:55
+
+#### [刘强东另起炉灶？个人投资50亿，要造10万级“平民游艇”](https://www.tmtpost.com/7889337.html)
+**发布时间**: 2026-02-25 14:55
+
+#### [春节，正在被年轻人「私有化」](https://www.tmtpost.com/7889329.html)
+**发布时间**: 2026-02-25 14:55
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 4 个 GitHub 上小众但实用的开源项目，收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531632&idx=1&sn=edfe01eb6144d3f1b935cf66504db95b)
+**发布时间**: 2026-02-25 15:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在 AI 的帮助下，给自己建了个数字人生档案馆](https://sspai.com/post/106401)
+**发布时间**: 2026-02-25 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [荣耀（华为）系CEO，能补齐智界心智短板吗？](http://www.huxiu.com/article/4836774.html?f=wangzhan)
+**发布时间**: 2026-02-25 14:56
 
 ---
 
