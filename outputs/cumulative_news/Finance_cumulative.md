@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 08:52
+**最后更新时间**: 2026-02-25 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-25 23:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom](https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 23:26
+
+#### [Paramount says Warner Bros. acquisition would be an ‘accelerant’ for its turnaround strategy](https://www.marketwatch.com/story/paramount-says-warner-bros-acquisition-would-be-an-accelerant-of-its-turnaround-strategy-d5520fad?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 23:22
+
+#### [TJ Maxx parent’s earnings show discount clothes and home goods are still in high demand](https://www.marketwatch.com/story/tj-maxx-parents-earnings-show-discount-clothes-and-home-goods-are-still-in-high-demand-90fb804d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 22:46
+
+#### [Steve Madden won’t give profit guidance as planned due to Supreme Court tariff ruling](https://www.marketwatch.com/story/steve-madden-wont-give-profit-guidance-as-planned-due-to-supreme-court-tariff-ruling-8810fb96?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 22:45
+
+#### [Oracle’s selloff offers a chance to buy an ‘upper-echelon’ growth stock for cheap, analyst says](https://www.marketwatch.com/story/oracles-stock-selloff-offers-a-chance-to-buy-an-upper-echelon-growth-play-for-cheap-analyst-73e8e1ab?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 22:42
+
+#### [Why Circle’s stock is breaking out and bucking the crypto weakness](https://www.marketwatch.com/story/circle-gives-crypto-investors-a-reason-to-cheer-by-reporting-a-big-jump-in-profits-f964ac5a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 22:40
+
+#### [Small cap’s ‘recovery’ is a myth built on unprofitable stocks. Here’s what history says happens next.](https://www.marketwatch.com/story/small-caps-recovery-is-a-myth-built-on-unprofitable-stocks-heres-what-history-says-happens-next-46d163e3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 22:26
+
+#### [How learning to ‘speak AI’ can help you beat the market](https://www.marketwatch.com/story/why-learning-to-speak-ai-can-help-your-money-manager-beat-the-market-0c6c445a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 21:58
+
+#### [Urban Outfitters’ once-struggling namesake stores are now driving its sales gains](https://www.marketwatch.com/story/urban-outfitters-once-struggling-namesake-stores-are-now-driving-its-sales-gains-a841972d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 21:48
+
+#### [Trump digs in his heels on tariffs — with major implications for the U.S. dollar](https://www.marketwatch.com/story/trump-digs-in-his-heels-on-tariffs-with-major-implications-for-the-u-s-dollar-6b31badd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 21:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Salesforce issues soft outlook amid concerns about AI’s threat to software](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd)
+**发布时间**: 2026-02-25 22:00
+
+#### [Nvidia posts first $200bn year on back of AI investment boom](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6)
+**发布时间**: 2026-02-25 21:59
+
+#### [Police apologise to Commons Speaker for sharing source of Mandelson tip](https://www.ft.com/content/65eeae52-39b2-42ae-810c-407f0d94928e)
+**发布时间**: 2026-02-25 19:50
+
+#### [Democrats probe missing files alleging Trump link to Epstein](https://www.ft.com/content/cd792149-aa0a-420e-8723-ed12f4e0daa5)
+**发布时间**: 2026-02-25 18:26
+
+#### [Lawrence Summers to step down from Harvard teaching role](https://www.ft.com/content/c3b1ff0a-9b31-4257-954b-ba6ef5d6669e)
+**发布时间**: 2026-02-25 17:53
+
+#### [UK investors unable to put crypto products in Isas from April](https://www.ft.com/content/1445c7b3-dfcc-4c12-b23c-550c4a4845d8)
+**发布时间**: 2026-02-25 17:37
+
+#### [Starmer promises to look at making student loans system ‘fairer’](https://www.ft.com/content/1813dcc0-e441-4277-8644-e8cfac7bd304)
+**发布时间**: 2026-02-25 16:59
+
+#### [Iran threatens escalation if US attacks](https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661)
+**发布时间**: 2026-02-25 15:59
+
+#### [The Bank of England does not need to ‘follow the Fed’](https://www.ft.com/content/fa994b39-1f06-4464-8373-c96699921764)
+**发布时间**: 2026-02-25 12:37
+
+#### [How war stopped working](https://www.ft.com/content/8c91a61a-ba02-4394-b441-a9f60a29f4e8)
+**发布时间**: 2026-02-25 12:29
 
 ---
 

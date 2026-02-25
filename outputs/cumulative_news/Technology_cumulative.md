@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 08:52
+**最后更新时间**: 2026-02-25 23:29
+
+---
+
+## 🆕 最新更新 (2026-02-25 23:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Snowflake 股价需要反弹，财报可能会成为触发因素](https://www.tmtpost.com/7890003.html)
+**发布时间**: 2026-02-25 22:19
+
+#### [AMD罕见“卖身”，1美分锁定两大AI巨头](https://www.tmtpost.com/7889854.html)
+**发布时间**: 2026-02-25 19:12
+
+#### [Unity中国，十亿美元“卖身救父”？](https://www.tmtpost.com/7889853.html)
+**发布时间**: 2026-02-25 19:06
+
+#### [散了80亿后，AI还是没能留住县城年轻人](https://www.tmtpost.com/7889695.html)
+**发布时间**: 2026-02-25 19:04
+
+#### [云计算，2026迈入涨价时代？](https://www.tmtpost.com/7889701.html)
+**发布时间**: 2026-02-25 19:04
+
+#### [在这个市场上，美国铝业公司Alcoa拥有最有价值的资产](https://www.tmtpost.com/7889838.html)
+**发布时间**: 2026-02-25 18:30
+
+#### [有报道称存在收购意向，PayPal股价上涨，华尔街怎么看](https://www.tmtpost.com/7889836.html)
+**发布时间**: 2026-02-25 18:30
+
+#### [广告主正在加快收回数据主权？](https://www.tmtpost.com/7889470.html)
+**发布时间**: 2026-02-25 17:07
+
+#### [Anthropic指控中国AI公司，马斯克为什么第一个跳出来骂？](https://www.tmtpost.com/7889357.html)
+**发布时间**: 2026-02-25 16:58
+
+#### [给“毛孩子”吃好点，为什么难成好生意？](https://www.tmtpost.com/7889009.html)
+**发布时间**: 2026-02-25 16:56
+
+#### [瑞士工程科技公司Emissium研发电力二氧化碳排放因子数据软件，提升企业能源交易管理能力](https://www.tmtpost.com/7889628.html)
+**发布时间**: 2026-02-25 16:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake Cortex Code：它是什么，为什么重要，以及何时使用它 ｜技术实践](https://www.infoq.cn/article/wrX55vc9FQ6w5PlbIkiS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 19:13
+
+#### [阿里云 Coding Plan 集齐四大国产模型最强版本，开发者迎来“Token 自由”](https://www.infoq.cn/article/MPKUKOkgUhTSEXfTDScc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 17:52
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [深挖“鬼宴”恐怖细节，黑神话凭什么选钟馗？](http://www.huxiu.com/article/4835288.html?f=wangzhan)
+**发布时间**: 2026-02-25 16:34
 
 ---
 

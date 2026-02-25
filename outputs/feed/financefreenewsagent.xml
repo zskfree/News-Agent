@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Feb 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2026 08:52:55 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 23:30:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>American tequila sales are collapsing. Diageo is cutting its dividend in half.</title>
-      <link>https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[American tequila sales are collapsing. Diageo is cutting its dividend in half.]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 08:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/american-tequila-sales-are-collapsing-diageo-is-cutting-its-dividend-in-half-3fc34adb?mod=mw_rss_topstories</guid>
+      <title>Small cap’s ‘recovery’ is a myth built on unprofitable stocks. Here’s what history says happens next.</title>
+      <link>https://www.marketwatch.com/story/small-caps-recovery-is-a-myth-built-on-unprofitable-stocks-heres-what-history-says-happens-next-46d163e3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Small cap’s ‘recovery’ is a myth built on unprofitable stocks. Here’s what history says happens next.]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 22:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/small-caps-recovery-is-a-myth-built-on-unprofitable-stocks-heres-what-history-says-happens-next-46d163e3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>New Diageo boss cuts dividend as Guinness maker’s sales slide</title>
-      <link>https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5</link>
-      <description>&lt;![CDATA[New Diageo boss cuts dividend as Guinness maker’s sales slide]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5</guid>
+      <title>The Bank of England does not need to ‘follow the Fed’</title>
+      <link>https://www.ft.com/content/fa994b39-1f06-4464-8373-c96699921764</link>
+      <description>&lt;![CDATA[The Bank of England does not need to ‘follow the Fed’]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fa994b39-1f06-4464-8373-c96699921764</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump digs in his heels on tariffs — with major implications for the U.S. dollar</title>
+      <link>https://www.marketwatch.com/story/trump-digs-in-his-heels-on-tariffs-with-major-implications-for-the-u-s-dollar-6b31badd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump digs in his heels on tariffs — with major implications for the U.S. dollar]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-digs-in-his-heels-on-tariffs-with-major-implications-for-the-u-s-dollar-6b31badd?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nvidia posts first $200bn year on back of AI investment boom</title>
+      <link>https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6</link>
+      <description>&lt;![CDATA[Nvidia posts first $200bn year on back of AI investment boom]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom</title>
+      <link>https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 23:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
