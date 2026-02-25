@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Feb 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 23:35:06 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 06:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 06:04:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】进一步释放银发消费需求，国常会最新部署；刘强东投入50亿元进军游艇产业，创立独立游艇品牌Sea Expandary；AMD同意向Meta公司出售价值高达600亿美元的AI芯片</title>
-      <link>https://www.tmtpost.com/7888819.html</link>
-      <description>&lt;![CDATA[【钛晨报】进一步释放银发消费需求，国常会最新部署；刘强东投入50亿元进军游艇产业，创立独立游艇品牌Sea Expandary；AMD同意向Meta公司出售价值高达600亿美元的AI芯片]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7888819.html</guid>
+      <title>LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法</title>
+      <link>https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外</title>
-      <link>https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[SaaS的丧钟？OpenAI高管意外“唱衰”同行：模型公司终将“吞噬”一切，但这两类公司除外]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zjLoW9JqWskdcgESGNuo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？</title>
+      <link>https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系</title>
-      <link>https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微服务之后，大厂正在回到“中心化”，Amazon 重做服务接入体系]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 20:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wQttHVte5HMIzEJG2UAo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失</title>
+      <link>https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国轩高科“兵败”密歇根，撕开中企赴美建厂的无奈现实</title>
-      <link>https://www.tmtpost.com/7887928.html</link>
-      <description>&lt;![CDATA[国轩高科“兵败”密歇根，撕开中企赴美建厂的无奈现实]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7887928.html</guid>
+      <title>他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔</title>
+      <link>https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能集体“西进”，硅基独角兽重仓8D魔幻场</title>
-      <link>https://www.tmtpost.com/7888467.html</link>
-      <description>&lt;![CDATA[具身智能集体“西进”，硅基独角兽重仓8D魔幻场]]&gt;</description>
-      <pubDate>Tue, 24 Feb 2026 18:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7888467.html</guid>
+      <title>2026，国产AI芯片，跨越天堑：从“推理”走向“训练”</title>
+      <link>https://www.tmtpost.com/7889270.html</link>
+      <description>&lt;![CDATA[2026，国产AI芯片，跨越天堑：从“推理”走向“训练”]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7889270.html</guid>
       <category>Technology</category>
     </item>
   </channel>

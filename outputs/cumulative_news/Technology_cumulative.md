@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 23:34
+**最后更新时间**: 2026-02-25 06:03
+
+---
+
+## 🆕 最新更新 (2026-02-25 06:03)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔](https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 13:12
+
+#### [第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失](https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 13:02
+
+#### [全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？](https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 12:33
+
+#### [1500 个 PR、0 人写代码：Codex 驱动的百万行级内部产品实践](https://www.infoq.cn/article/CEaf1AP69tbwBDFxkmeh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 12:19
+
+#### [LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法](https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 11:31
+
+#### [OpenAI 一线开发观察：能同时盯住 10～20 个 Agent、跑小时级任务的人，正在把其他工程师远远甩开](https://www.infoq.cn/article/yEMrZMp6NTV8Rdj7lEQA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-25 11:04
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2026肿瘤并购第一案：一场豪赌](https://www.tmtpost.com/7889159.html)
+**发布时间**: 2026-02-25 12:43
+
+#### [2026，国产AI芯片，跨越天堑：从“推理”走向“训练”](https://www.tmtpost.com/7889270.html)
+**发布时间**: 2026-02-25 12:43
+
+#### [全球半导体TOP10，谁主沉浮](https://www.tmtpost.com/7889259.html)
+**发布时间**: 2026-02-25 12:43
+
+#### [拉美 “阿里” Mercado的撕裂人格：收入 “巨人”、利润 “矮子”](https://www.tmtpost.com/7889249.html)
+**发布时间**: 2026-02-25 12:43
+
+#### [补体新贵 MASP-2：一场困于IgA肾病的成药远征](https://www.tmtpost.com/7889284.html)
+**发布时间**: 2026-02-25 12:43
+
+#### [年营收破亿就敢搞股权激励？这6个坑能让你上市梦碎（IPO导向终极指南）](https://www.tmtpost.com/7889056.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [涨停潮！又一AI关键材料被全球巨头疯抢](https://www.tmtpost.com/7889117.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [一场由Seedance2.0改写的AI视频战争](https://www.tmtpost.com/7889134.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [让黄仁勋“低头”的存储，到底有多金贵？](https://www.tmtpost.com/7889093.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [马斯克再甩 “王炸”：SpaceX 真能重塑 “太空经济学”？](https://www.tmtpost.com/7889154.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [不要小看“反向过年”](https://www.tmtpost.com/7889262.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [老外扎堆来华过年，入境游进入2.0时代](https://www.tmtpost.com/7888373.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [年会上“惊喜式激励”，也许是错误的](https://www.tmtpost.com/7889182.html)
+**发布时间**: 2026-02-25 12:01
+
+#### [从删库到删邮件：AI助手的“致命漏洞”，暴露人机协同底层危机](https://www.tmtpost.com/7889165.html)
+**发布时间**: 2026-02-25 11:07
+
+#### [长江电力“逆向”下行，是布局机遇，还是价值陷阱？](https://www.tmtpost.com/7888993.html)
+**发布时间**: 2026-02-25 10:02
+
+#### [医美连锁为什么会有40家魔咒？](https://www.tmtpost.com/7870557.html)
+**发布时间**: 2026-02-25 08:54
+
+#### [从内容神话到客厅生意，Netflix狂补广告课](https://www.tmtpost.com/7888758.html)
+**发布时间**: 2026-02-25 08:46
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享](https://sspai.com/post/105621)
+**发布时间**: 2026-02-25 11:30
+
+#### [派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务](https://sspai.com/post/106568)
+**发布时间**: 2026-02-25 08:42
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [彩电大王业绩暴雷，昔日家电巨头濒临退市](http://www.huxiu.com/article/4834736.html?f=wangzhan)
+**发布时间**: 2026-02-25 08:30
 
 ---
 

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 23:34
+**最后更新时间**: 2026-02-25 06:03
+
+---
+
+## 🆕 最新更新 (2026-02-25 06:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union speech](https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78)
+**发布时间**: 2026-02-25 05:30
+
+#### [HSBC says capital ratios need to improve before it resumes buybacks](https://www.ft.com/content/828398ac-0289-4550-acd4-e9bbbbeb9efc)
+**发布时间**: 2026-02-25 05:21
+
+#### [How Deutsche Bank rolled out the red carpet for Jeffrey Epstein](https://www.ft.com/content/b1d9e8c4-1874-4c82-941d-9a2e1512bc4c)
+**发布时间**: 2026-02-25 05:00
+
+#### [To raise low birth rates, we must help mothers](https://www.ft.com/content/7391479c-a60e-42d1-b293-8ce848cf4f56)
+**发布时间**: 2026-02-25 05:00
+
+#### [The death of the Trump trade](https://www.ft.com/content/cfdc8ea7-57ed-4843-82b6-7cc427b3e32f)
+**发布时间**: 2026-02-25 05:00
+
+#### [Jim Ratcliffe’s Ineos explores asset sales as chemical sector struggles](https://www.ft.com/content/d1e7b279-2558-41cc-b69b-9ffff9ed1747)
+**发布时间**: 2026-02-25 05:00
+
+#### [NHS in England to be set targets on getting people back to work](https://www.ft.com/content/69430d69-78e2-4b3b-a0dd-f71678129eed)
+**发布时间**: 2026-02-25 05:00
+
+#### [Microsoft hunts for new London HQ on Elizabeth Line](https://www.ft.com/content/9c493391-9ce0-4d6d-927b-9c2fc45a2c1f)
+**发布时间**: 2026-02-25 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These are the ‘secret words’ Trump wants to hear as U.S., Iran prepare to meet this week](https://www.marketwatch.com/story/these-are-the-secret-words-trump-wants-to-hear-as-u-s-iran-prepare-to-meet-this-week-3457d46c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 04:30
+
+#### [Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.](https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 04:00
+
+#### [Trump announces 401(k) plans with $1,000 match for workers whose employers don’t offer them](https://www.marketwatch.com/story/trump-401-k-the-president-could-announce-retirement-plans-for-people-whose-employers-dont-offer-them-0ad666ed?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 03:56
+
+#### [Could Stripe ‘salvage’ PayPal? What Wall Street has to say about the latest takeover talk.](https://www.marketwatch.com/story/could-stripe-salvage-paypal-what-wall-street-has-to-say-about-the-latest-takeover-talk-815c4e9a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-25 00:13
 
 ---
 

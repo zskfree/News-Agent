@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "04a9d064d03a9f4d746dd2de50f92234a9c6485249050269d58f99ae3a37f272": {
-        "title": "从技术狂欢到价值兑现，AI大模型下半场怎么打？",
-        "link": "https://www.tmtpost.com/7855023.html",
-        "published_date": "Mon, 26 Jan 2026 08:30:00 GMT",
-        "first_seen": "2026-01-26T05:34:34.621955"
-      },
-      "7c7d43aa2e5c56e9a5472847d772166b59a037e3d3b69e44f859ca9f5f62402b": {
-        "title": "OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆，谷歌这波别急着吹本质还是 OpenAI 失误",
-        "link": "https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 26 Jan 2026 10:51:00 GMT",
-        "first_seen": "2026-01-26T05:34:34.621962"
-      },
-      "583c38086aa174213831dea24dbeb4e309179c8b5f7ab42beb984743b0da46fe": {
-        "title": "AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了",
-        "link": "https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 26 Jan 2026 11:17:00 GMT",
-        "first_seen": "2026-01-26T05:34:34.621964"
-      },
-      "a89b31e51939b142a8e259dc371ccfaabce150d918bd6dfa14fc5f1e79cb537c": {
-        "title": "AI视频三岔路：Sora变现遇阻，可灵务实养家，即梦生态筑梦",
-        "link": "https://www.tmtpost.com/7855198.html",
-        "published_date": "Mon, 26 Jan 2026 13:05:00 GMT",
-        "first_seen": "2026-01-26T05:34:34.621966"
-      },
-      "7419b1ac97eb4a8cf5691b6cb0013f3d50bead5b40eba3741a6f9f0601856c59": {
-        "title": "数据中心的下一个胜负手：跳出AI芯片",
-        "link": "https://www.tmtpost.com/7855247.html",
-        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
-        "first_seen": "2026-01-26T05:34:34.621967"
-      },
       "d24ea59036ee9cd289834c06d5e0b34f20856f01e3c488689ee45d1d7a9a50db": {
         "title": "Sharpa幕后股东曝光，具身智能将迎来“ChatGPT时刻”",
         "link": "https://www.tmtpost.com/7855077.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7888467.html",
         "published_date": "Tue, 24 Feb 2026 18:31:00 GMT",
         "first_seen": "2026-02-24T23:35:06.731681"
+      },
+      "dbb44ce8cba57ffb35b282806033550495ff20b430912e4a56e21c9516221246": {
+        "title": "LLVM之父拆解Claude构建的C编译器：当 AI 把几十年工程实践变成默认能力，软件工程开始换玩法",
+        "link": "https://www.infoq.cn/article/g8AubDJM3kQpFdf9mKB1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 11:31:00 GMT",
+        "first_seen": "2026-02-25T06:04:35.596750"
+      },
+      "bb46818b595fbd664ce0b7b356d87f16ac51dd128d6eaa4c6a05c3672049ec99": {
+        "title": "全行业盯了两年的编程能力榜，今天退役！OpenAI 停用 SWE-bench Verified：未来标准将看 AI 能顶替多少程序员？",
+        "link": "https://www.infoq.cn/article/FY23oig4JWbb6zC0iTEe?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 12:33:00 GMT",
+        "first_seen": "2026-02-25T06:04:35.596757"
+      },
+      "8ab33b95b4b55cac060efcf14b0cb64ac08171f84b4e935919283c370ac5581e": {
+        "title": "第三个软件黄金时代来了！UML 之父 Grady Booch 发声：AI 是新抽象层，工程问题并没有消失",
+        "link": "https://www.infoq.cn/article/TJoMz3msOfcqWS4F8bIW?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 13:02:00 GMT",
+        "first_seen": "2026-02-25T06:04:35.596759"
+      },
+      "549afae7ceabe524552f0bd04f30d2207ec7d1fc304c1d2827483df7bbb28237": {
+        "title": "他偷你的答案？你在偷看他？——从模型蒸馏事件看AI⾏业最⼤的罗⽣⻔",
+        "link": "https://www.infoq.cn/article/sHLC9hQ98oymbQaMWFdA?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Feb 2026 13:12:00 GMT",
+        "first_seen": "2026-02-25T06:04:35.596761"
+      },
+      "a362e3200ce437df3ec9898c0debac5a9394932e55a4221a62a3d76e8580a2aa": {
+        "title": "2026，国产AI芯片，跨越天堑：从“推理”走向“训练”",
+        "link": "https://www.tmtpost.com/7889270.html",
+        "published_date": "Wed, 25 Feb 2026 12:43:00 GMT",
+        "first_seen": "2026-02-25T06:04:35.596762"
       }
     },
     "Finance": {
-      "d00305e745d6ca369175c16f23122b9ac76fd15063a455e04e488a7646d5792b": {
-        "title": "Gold now costs more than $5,000 an ounce. Here’s how it got to this milestone price.",
-        "link": "https://www.marketwatch.com/story/gold-now-costs-more-than-5-000-an-ounce-heres-how-it-got-to-this-milestone-price-e34fc376?mod=mw_rss_topstories",
-        "published_date": "Mon, 26 Jan 2026 03:38:00 GMT",
-        "first_seen": "2026-01-26T05:34:00.133243"
-      },
-      "a52f0f8626a23b5a7d627d1f3bab53b17609d6eec2dc49c69b78ecb64b41c014": {
-        "title": "European IPO market starts 2026 at record pace, sparking hope of revival",
-        "link": "https://www.ft.com/content/264bf83c-7c5b-4ced-aa4e-edb9327f4986",
-        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-26T05:34:00.133254"
-      },
-      "1bc59d4176b5a1c42858485e21a34b3ccfe02cb0c15475bef523b902f20e2cc3": {
-        "title": "Yen surges on intervention talk",
-        "link": "https://www.ft.com/content/76fd82ae-8546-49ef-9774-cef6397f131f",
-        "published_date": "Mon, 26 Jan 2026 02:57:00 GMT",
-        "first_seen": "2026-01-26T05:34:00.133256"
-      },
-      "78f1853486864a2020e56588d407258bbf88389fc74ddf3320efd4da7a4ad14b": {
-        "title": "Trump is the wrong answer to the right questions",
-        "link": "https://www.ft.com/content/b32d2bb5-9a07-4f53-a9d3-9535552b5a27",
-        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-26T05:34:00.133258"
-      },
-      "f26b5be684ef1bf55b46b07f24cd64631b6e34544b99285448f628bfe0ed58d3": {
-        "title": "Starmer prepares for Chinese charm offensive",
-        "link": "https://www.ft.com/content/801c2f56-bde5-428f-b974-2569aa47cb40",
-        "published_date": "Mon, 26 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-26T05:34:00.133260"
-      },
       "295839a073d9cf41bb9c47d4100dc14658cfc7e0b1be508f3dbd2cc78a91e0f2": {
         "title": "Michael Burry flags risks from Japan yen to U.S. stocks as ‘rate check’ stirs debate",
         "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
@@ -4665,39 +4635,39 @@
         "link": "https://www.marketwatch.com/story/paramount-pushes-ahead-in-warner-bros-takeover-with-increased-bid-of-31-per-share-87989593?mod=mw_rss_topstories",
         "published_date": "Tue, 24 Feb 2026 23:26:00 GMT",
         "first_seen": "2026-02-24T23:34:36.524550"
+      },
+      "7a2d26458e39141405a7bd74a53d6320ff1b6ecf85e1b403795ad9e8ebfceb53": {
+        "title": "Trump announces 401(k) plans with $1,000 match for workers whose employers don’t offer them",
+        "link": "https://www.marketwatch.com/story/trump-401-k-the-president-could-announce-retirement-plans-for-people-whose-employers-dont-offer-them-0ad666ed?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Feb 2026 03:56:00 GMT",
+        "first_seen": "2026-02-25T06:04:07.321266"
+      },
+      "7c1dbece28c927e94886235e73be784709ec8d7f5b9303210dedab6944794f46": {
+        "title": "Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.",
+        "link": "https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Feb 2026 04:00:00 GMT",
+        "first_seen": "2026-02-25T06:04:07.321275"
+      },
+      "a3bf1dfb04bb74b9e128234ec866e01774f31d087bc5278d7a8b9846fafe5f1c": {
+        "title": "HSBC says capital ratios need to improve before it resumes buybacks",
+        "link": "https://www.ft.com/content/828398ac-0289-4550-acd4-e9bbbbeb9efc",
+        "published_date": "Wed, 25 Feb 2026 05:21:00 GMT",
+        "first_seen": "2026-02-25T06:04:07.321277"
+      },
+      "03a6ecbbeffd29cd0438f7dbcfa91d4cadf7061607561a5d24e313c328f4b298": {
+        "title": "How Deutsche Bank rolled out the red carpet for Jeffrey Epstein",
+        "link": "https://www.ft.com/content/b1d9e8c4-1874-4c82-941d-9a2e1512bc4c",
+        "published_date": "Wed, 25 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-25T06:04:07.321279"
+      },
+      "d603cd922b912819959792507ac018e6c5ae1a4360c7fcd6365202b22b953a11": {
+        "title": "The death of the Trump trade",
+        "link": "https://www.ft.com/content/cfdc8ea7-57ed-4843-82b6-7cc427b3e32f",
+        "published_date": "Wed, 25 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-25T06:04:07.321281"
       }
     },
     "Ai": {
-      "85646c7539c16140749cf5479eda48eef21b9d6f7bd282165f77b23e3da37b28": {
-        "title": "走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-7",
-        "published_date": "Mon, 26 Jan 2026 13:33:00 GMT",
-        "first_seen": "2026-01-26T05:34:15.399735"
-      },
-      "65a7c88335fb0aed9a94ecc0f7fa6342eb5a70314076f4e9221eb09da6af6a15": {
-        "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-5",
-        "published_date": "Mon, 26 Jan 2026 13:08:00 GMT",
-        "first_seen": "2026-01-26T05:34:15.399742"
-      },
-      "73c60d23c2283ab566eb020969af060a463ca98f0c9f59cc5c327280f99fb1fa": {
-        "title": "AAAI 2026杰出论文奖 | ReconVLA：具身智能研究首次获得AI顶级会议最佳论文奖",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-2",
-        "published_date": "Mon, 26 Jan 2026 11:29:00 GMT",
-        "first_seen": "2026-01-26T05:34:15.399744"
-      },
-      "783282375c79b718c9d83a84942034a734059c1507e8250eec5adb78c9ed40e4": {
-        "title": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26",
-        "published_date": "Mon, 26 Jan 2026 10:22:00 GMT",
-        "first_seen": "2026-01-26T05:34:15.399746"
-      },
-      "7feb9ff77dd7a9afa53066df648d635beca7e4c6c09be8962fd9579b412624d7": {
-        "title": "关于多模态大模型Token压缩技术进展，看这一篇就够了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-26-4",
-        "published_date": "Mon, 26 Jan 2026 13:04:00 GMT",
-        "first_seen": "2026-01-26T05:34:15.399747"
-      },
       "7d26bfad6a2e8ca8c5773c757e97bcc793b986b0a9ad137e4f19c98bee156df1": {
         "title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
         "link": "https://www.qbitai.com/2026/01/372589.html",
@@ -6713,13 +6683,43 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-24/",
         "published_date": "Tue, 24 Feb 2026 09:43:00 GMT",
         "first_seen": "2026-02-24T23:34:36.677144"
+      },
+      "8ae7c6d5dc7d853530374620588404143723d9427489ca19e3c1ec91933d34b6": {
+        "title": "DeepMind药物衍生公司的独家新AI，堪称AlphaFold 4的专有药物设计引擎",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-4",
+        "published_date": "Wed, 25 Feb 2026 13:09:00 GMT",
+        "first_seen": "2026-02-25T06:04:17.659289"
+      },
+      "696fc71154030b812a1646c1e8c533e320e6f6c49ab630fb1030b24fceeea223": {
+        "title": "ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25",
+        "published_date": "Wed, 25 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-25T06:04:17.659300"
+      },
+      "b149b5ed5e18aa3b84309143e5a0050026f92a2755738c1bf154d89604e9052b": {
+        "title": "最强Coding Plan上线！阿里云上线Qwen3.5、GLM-5、MiniMax M2.5、Kimi K2.5四大顶尖开源模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-5",
+        "published_date": "Wed, 25 Feb 2026 13:17:00 GMT",
+        "first_seen": "2026-02-25T06:04:17.659302"
+      },
+      "ee486dadc848c7eb57af4531a635ecd666f44a786c21c4269da513e7fc32526a": {
+        "title": "AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-3",
+        "published_date": "Wed, 25 Feb 2026 12:09:00 GMT",
+        "first_seen": "2026-02-25T06:04:17.659304"
+      },
+      "7f3479fae6f06e1aa84c63be0c84cb9c620ba3f2d945e04959ffcfe018827f8f": {
+        "title": "刚上完春晚，宇树新品机器狗就亮相了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-25-2",
+        "published_date": "Wed, 25 Feb 2026 12:06:00 GMT",
+        "first_seen": "2026-02-25T06:04:17.659305"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-24T23:35:06.731684",
-    "Finance": "2026-02-24T23:34:36.524552",
-    "Ai": "2026-02-24T23:34:36.677146"
+    "Technology": "2026-02-25T06:04:35.596764",
+    "Finance": "2026-02-25T06:04:07.321283",
+    "Ai": "2026-02-25T06:04:17.659308"
   }
 }
