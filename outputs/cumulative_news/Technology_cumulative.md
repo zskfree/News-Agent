@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 05:59
+**最后更新时间**: 2026-02-26 08:54
+
+---
+
+## 🆕 最新更新 (2026-02-26 08:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [创新药“卖青苗”的果实，开始收获了](https://www.tmtpost.com/7890302.html)
+**发布时间**: 2026-02-26 16:41
+
+#### [“挤”进商场的街头小吃，能赚到钱吗？](https://www.tmtpost.com/7890625.html)
+**发布时间**: 2026-02-26 16:19
+
+#### [大厂血拼"龙虾肉"：7.9元掀桌与硅谷暗战，AI Agent的全球生态卡位战](https://www.tmtpost.com/7890299.html)
+**发布时间**: 2026-02-26 16:03
+
+#### [“蒸馏事件”之后，Anthropic的屠刀伸向金融行业](https://www.tmtpost.com/7890451.html)
+**发布时间**: 2026-02-26 15:52
+
+#### [业绩极强，股价破位：Palantir 撕开了“AI应用层”的最残酷真相](https://www.tmtpost.com/7890681.html)
+**发布时间**: 2026-02-26 15:18
+
+#### [华莱士母公司新三板退市，万店巨头陷低价与品控困局](https://www.tmtpost.com/7890669.html)
+**发布时间**: 2026-02-26 14:55
+
+#### [无边界的连接与去中心化网络：星链重塑全球通信规则的野心与挑战](https://www.tmtpost.com/7890203.html)
+**发布时间**: 2026-02-26 14:48
+
+#### [2026年，第一家倒闭的AI医疗企业出现了](https://www.tmtpost.com/7890188.html)
+**发布时间**: 2026-02-26 14:30
+
+#### [光伏大转向：收储受限，整合主导，2026是收购大年 | 行业风向标](https://www.tmtpost.com/7890569.html)
+**发布时间**: 2026-02-26 14:25
+
+#### [Deleting Database and Emails: a Fatal Flaw of AI Agents Leads to Risks in Human–AI Collaboration](https://www.tmtpost.com/7889723.html)
+**发布时间**: 2026-02-26 14:23
+
+#### [步长制药：以“真金白银”回应市场，在中药产业“黄金五年”重塑价值坐标](https://www.tmtpost.com/7890452.html)
+**发布时间**: 2026-02-26 14:23
+
+#### [日本综合商社的银发经济布局：不直接下场做养老，却赚走产业链顶端的钱（给中国企业的5条启示）](https://www.tmtpost.com/7890235.html)
+**发布时间**: 2026-02-26 14:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DeepSeek V4 压顶，Anthropic CEO 先动手了：一场漏洞百出的舆论战，从构陷到翻车](https://www.infoq.cn/article/kN0HD0jPivJBm8JZt8lw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 15:35
+
+#### [黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍](https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 15:14
+
+#### [jQuery 4.0 发布，近 10 年来首个重大版本](https://www.infoq.cn/article/4im5YCyfmYg7NAi1SRSl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 15:00
+
+#### [AI 开发时代的“能力暴露与禁止空间”方法论：TPDD 与高层测试闭环](https://www.infoq.cn/article/dOWkTbkLXRmMJvsCddcy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [4 天狂揽 2 万 Star！带你从 0 到 1 手搓迷你 Claude Code。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531659&idx=1&sn=2b7e497d7d58f668e92d04a39935f19b)
+**发布时间**: 2026-02-26 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？](https://sspai.com/post/105484)
+**发布时间**: 2026-02-26 14:33
 
 ---
 

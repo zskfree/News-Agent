@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 05:58:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 06:00:00 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 08:54:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Karpathy：AI编程已质变，就从去年12月开始</title>
-      <link>https://www.qbitai.com/2026/02/382626.html</link>
-      <description>&lt;![CDATA[Karpathy：AI编程已质变，就从去年12月开始]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 03:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382626.html</guid>
+      <title>马斯克：Grok今日归来！</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-26-2</link>
+      <description>&lt;![CDATA[马斯克：Grok今日归来！]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 12:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-2</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了</title>
-      <link>https://www.qbitai.com/2026/02/382584.html</link>
-      <description>&lt;![CDATA[扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 02:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382584.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26</link>
-      <description>&lt;![CDATA[ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型</title>
-      <link>https://www.qbitai.com/2026/02/382647.html</link>
-      <description>&lt;![CDATA[21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 03:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382647.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元</title>
-      <link>https://www.qbitai.com/2026/02/382610.html</link>
-      <description>&lt;![CDATA[日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 02:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382610.html</guid>
+      <title>2026-02-26日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-26/</link>
+      <description>&lt;![CDATA[2026-02-26日刊]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-26/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 05:59:32 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 08:54:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 08:54:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界</title>
-      <link>https://www.tmtpost.com/7890251.html</link>
-      <description>&lt;![CDATA[碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890251.html</guid>
+      <title>黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍</title>
+      <link>https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节攻城，阿里筑墙：2026年AI云战役的终局推演</title>
-      <link>https://www.tmtpost.com/7890007.html</link>
-      <description>&lt;![CDATA[字节攻城，阿里筑墙：2026年AI云战役的终局推演]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890007.html</guid>
+      <title>Deleting Database and Emails: a Fatal Flaw of AI Agents Leads to Risks in Human–AI Collaboration</title>
+      <link>https://www.tmtpost.com/7889723.html</link>
+      <description>&lt;![CDATA[Deleting Database and Emails: a Fatal Flaw of AI Agents Leads to Risks in Human–AI Collaboration]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7889723.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技巨头正为驱动人工智能投入巨资，这些公用事业公司将成为大赢家</title>
-      <link>https://www.tmtpost.com/7890430.html</link>
-      <description>&lt;![CDATA[科技巨头正为驱动人工智能投入巨资，这些公用事业公司将成为大赢家]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890430.html</guid>
+      <title>大厂血拼&quot;龙虾肉&quot;：7.9元掀桌与硅谷暗战，AI Agent的全球生态卡位战</title>
+      <link>https://www.tmtpost.com/7890299.html</link>
+      <description>&lt;![CDATA[大厂血拼&quot;龙虾肉&quot;：7.9元掀桌与硅谷暗战，AI Agent的全球生态卡位战]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7890299.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力</title>
-      <link>https://www.infoq.cn/article/WXJ1S1rsALiDNxoswz6f?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WXJ1S1rsALiDNxoswz6f?utm_source=rss&amp;utm_medium=article</guid>
+      <title>无边界的连接与去中心化网络：星链重塑全球通信规则的野心与挑战</title>
+      <link>https://www.tmtpost.com/7890203.html</link>
+      <description>&lt;![CDATA[无边界的连接与去中心化网络：星链重塑全球通信规则的野心与挑战]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7890203.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人从“春晚”到“我家”需要几步？</title>
-      <link>https://www.tmtpost.com/7890503.html</link>
-      <description>&lt;![CDATA[机器人从“春晚”到“我家”需要几步？]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890503.html</guid>
+      <title>业绩极强，股价破位：Palantir 撕开了“AI应用层”的最残酷真相</title>
+      <link>https://www.tmtpost.com/7890681.html</link>
+      <description>&lt;![CDATA[业绩极强，股价破位：Palantir 撕开了“AI应用层”的最残酷真相]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7890681.html</guid>
       <category>Technology</category>
     </item>
   </channel>
