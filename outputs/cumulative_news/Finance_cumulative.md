@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 08:54
+**最后更新时间**: 2026-02-26 23:32
+
+---
+
+## 🆕 最新更新 (2026-02-26 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [CoreWeave’s stock drops as losses swell and interest expenses climb](https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 23:26
+
+#### [Is it OK to wear pajamas on your next flight? A viral post sparks debate.](https://www.marketwatch.com/story/is-it-ok-to-wear-pajamas-on-your-next-flight-a-viral-post-sparks-debate-29bad4de?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 23:21
+
+#### [Dell’s stock soars, as record earnings signal the company is managing memory shortages well](https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 23:15
+
+#### [Netflix drops out of bidding for Warner Bros. in the wake of Paramount’s improved offer](https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 23:03
+
+#### [Tech earnings, silver’s rebound and a Cathie Wood ETF offer a high-stakes pivot for investors](https://www.marketwatch.com/story/tech-earnings-silvers-rebound-and-a-cathie-wood-etf-offer-a-high-stakes-pivot-for-investors-e15b3e40?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:55
+
+#### [Finally you can invest like the 1% — use this stress test before getting locked into private markets](https://www.marketwatch.com/story/wall-street-is-courting-main-street-with-shiny-private-market-products-the-risks-are-hiding-in-plain-sight-d2242f8e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:53
+
+#### [Rocket Lab’s stock slides as yet another rocket delay overshadows ‘record year’](https://www.marketwatch.com/story/rocket-labs-stock-slides-as-yet-another-rocket-delay-overshadows-record-year-5b9987ea?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:53
+
+#### [If you can’t beat the market, you’d better hope it tanks](https://www.marketwatch.com/story/if-you-cant-beat-the-market-youd-better-hope-it-falls-87c53697?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:47
+
+#### [No Fed, no safety net: Why private credit’s first real recession will be its moment of truth](https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:46
+
+#### [Why the S&P 500 was doomed to fall when Nvidia plunged after its earnings](https://www.marketwatch.com/story/why-the-s-p-500-was-doomed-to-fall-when-nvidia-plunged-after-its-earnings-0ef3599e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 22:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic rejects Pentagon’s ‘final offer’ for military use of AI](https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f)
+**发布时间**: 2026-02-26 23:10
+
+#### [Private credit fund managed by KKR reports jump in troubled loans](https://www.ft.com/content/06213ba6-5634-4c1c-b949-07013824c79f)
+**发布时间**: 2026-02-26 22:56
+
+#### [Paramount poised to clinch Warner Bros deal after Netflix walks away](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294)
+**发布时间**: 2026-02-26 21:39
+
+#### [US and Iran make ‘progress’ in nuclear talks, mediator says](https://www.ft.com/content/fb27e869-54de-4dea-8d4a-da6d73a5421b)
+**发布时间**: 2026-02-26 20:44
+
+#### [What went wrong at PayPal](https://www.ft.com/content/fde9504e-39ad-421e-a715-9db34d7e7067)
+**发布时间**: 2026-02-26 18:14
+
+#### [Fall in UK net migration threatens to carve deep hole in public finances](https://www.ft.com/content/7408ad00-e4eb-41c7-8849-36061bc0eac1)
+**发布时间**: 2026-02-26 17:52
+
+#### [Iran and the chimera of capitulation](https://www.ft.com/content/99a5f753-7c50-4b88-a42a-e438b31ab7fb)
+**发布时间**: 2026-02-26 17:35
+
+#### [English Premier League to launch streaming service in international shake-up](https://www.ft.com/content/100bcff3-b3ee-4bf9-8ff1-d17fa138c7a4)
+**发布时间**: 2026-02-26 16:57
+
+#### [UK citizenship applications surge as Reform vows settlement crackdown](https://www.ft.com/content/b2a817a8-9924-44dd-9be7-1490df9929f6)
+**发布时间**: 2026-02-26 13:41
+
+#### [British politics gets religion](https://www.ft.com/content/51d185c5-ca29-43bb-b062-7817b197ec9b)
+**发布时间**: 2026-02-26 12:19
+
+#### [How Blue Owl’s battles sparked a chill for private credit](https://www.ft.com/content/f2deb825-86d3-4b5d-805b-aee77e0b8384)
+**发布时间**: 2026-02-26 05:00
 
 ---
 

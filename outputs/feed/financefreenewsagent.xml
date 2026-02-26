@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 08:54:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 08:54:25 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 23:32:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nvidia’s blockbuster results fail to dazzle investors</title>
-      <link>https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6</link>
-      <description>&lt;![CDATA[Nvidia’s blockbuster results fail to dazzle investors]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6</guid>
+      <title>No Fed, no safety net: Why private credit’s first real recession will be its moment of truth</title>
+      <link>https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[No Fed, no safety net: Why private credit’s first real recession will be its moment of truth]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 22:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Private credit fund managed by KKR reports jump in troubled loans</title>
+      <link>https://www.ft.com/content/06213ba6-5634-4c1c-b949-07013824c79f</link>
+      <description>&lt;![CDATA[Private credit fund managed by KKR reports jump in troubled loans]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/06213ba6-5634-4c1c-b949-07013824c79f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tech earnings, silver’s rebound and a Cathie Wood ETF offer a high-stakes pivot for investors</title>
+      <link>https://www.marketwatch.com/story/tech-earnings-silvers-rebound-and-a-cathie-wood-etf-offer-a-high-stakes-pivot-for-investors-e15b3e40?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tech earnings, silver’s rebound and a Cathie Wood ETF offer a high-stakes pivot for investors]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 22:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/tech-earnings-silvers-rebound-and-a-cathie-wood-etf-offer-a-high-stakes-pivot-for-investors-e15b3e40?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Fall in UK net migration threatens to carve deep hole in public finances</title>
+      <link>https://www.ft.com/content/7408ad00-e4eb-41c7-8849-36061bc0eac1</link>
+      <description>&lt;![CDATA[Fall in UK net migration threatens to carve deep hole in public finances]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7408ad00-e4eb-41c7-8849-36061bc0eac1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dell’s stock soars, as record earnings signal the company is managing memory shortages well</title>
+      <link>https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Dell’s stock soars, as record earnings signal the company is managing memory shortages well]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 23:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 08:54:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 08:54:25 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 23:32:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍</title>
-      <link>https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋能否玩转“Agent经济学”？｜AGI焦点</title>
+      <link>https://www.tmtpost.com/7891233.html</link>
+      <description>&lt;![CDATA[黄仁勋能否玩转“Agent经济学”？｜AGI焦点]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 22:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7891233.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Deleting Database and Emails: a Fatal Flaw of AI Agents Leads to Risks in Human–AI Collaboration</title>
-      <link>https://www.tmtpost.com/7889723.html</link>
-      <description>&lt;![CDATA[Deleting Database and Emails: a Fatal Flaw of AI Agents Leads to Risks in Human–AI Collaboration]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7889723.html</guid>
+      <title>OpenAI 推出 Frontier：面向企业构建、部署和管理 AI 智能体的统一平台</title>
+      <link>https://www.infoq.cn/article/G6z7F8tTV0AALxfiCsZG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 推出 Frontier：面向企业构建、部署和管理 AI 智能体的统一平台]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/G6z7F8tTV0AALxfiCsZG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂血拼&quot;龙虾肉&quot;：7.9元掀桌与硅谷暗战，AI Agent的全球生态卡位战</title>
-      <link>https://www.tmtpost.com/7890299.html</link>
-      <description>&lt;![CDATA[大厂血拼&quot;龙虾肉&quot;：7.9元掀桌与硅谷暗战，AI Agent的全球生态卡位战]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890299.html</guid>
+      <title>【钛晨报】事关外卖平台、网售食品，两项新规出台；中国AI调用量首超美国，四款大模型霸榜全球前五；广汽集团成立具身智能机器人公司</title>
+      <link>https://www.tmtpost.com/7891355.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关外卖平台、网售食品，两项新规出台；中国AI调用量首超美国，四款大模型霸榜全球前五；广汽集团成立具身智能机器人公司]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7891355.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无边界的连接与去中心化网络：星链重塑全球通信规则的野心与挑战</title>
-      <link>https://www.tmtpost.com/7890203.html</link>
-      <description>&lt;![CDATA[无边界的连接与去中心化网络：星链重塑全球通信规则的野心与挑战]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890203.html</guid>
+      <title>2026，中国商业航天的起飞前夜</title>
+      <link>https://www.tmtpost.com/7890547.html</link>
+      <description>&lt;![CDATA[2026，中国商业航天的起飞前夜]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7890547.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>业绩极强，股价破位：Palantir 撕开了“AI应用层”的最残酷真相</title>
-      <link>https://www.tmtpost.com/7890681.html</link>
-      <description>&lt;![CDATA[业绩极强，股价破位：Palantir 撕开了“AI应用层”的最残酷真相]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7890681.html</guid>
+      <title>棒棒糖与螺旋：AI 安全分层架构探索</title>
+      <link>https://www.infoq.cn/article/ILdFgDra9A5eXYgSQAf0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[棒棒糖与螺旋：AI 安全分层架构探索]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ILdFgDra9A5eXYgSQAf0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
