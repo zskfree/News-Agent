@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 23:29
+**最后更新时间**: 2026-02-26 05:59
+
+---
+
+## 🆕 最新更新 (2026-02-26 05:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [英伟达：业绩狂热 vs 股价冰冷，宇宙第一股就此失宠？](https://www.tmtpost.com/7890259.html)
+**发布时间**: 2026-02-26 13:49
+
+#### [受人工智能担忧情绪冲击，IBM股价遭遇重挫，分析师认为仍有理由保持乐观](https://www.tmtpost.com/7890536.html)
+**发布时间**: 2026-02-26 12:50
+
+#### [机器人从“春晚”到“我家”需要几步？](https://www.tmtpost.com/7890503.html)
+**发布时间**: 2026-02-26 12:00
+
+#### [长芯博创3.75亿收购背后：标的5年估值涨3倍，昔日“问题资产”成香饽饽](https://www.tmtpost.com/7890465.html)
+**发布时间**: 2026-02-26 11:50
+
+#### [China, Germany Agree to Deepen Partnership, Win-win Cooperation in Xi-Merz Meeting](https://www.tmtpost.com/7890475.html)
+**发布时间**: 2026-02-26 11:39
+
+#### [向上管理：新时期大厂游戏人的职场必修课？](https://www.tmtpost.com/7890330.html)
+**发布时间**: 2026-02-26 11:21
+
+#### [科技巨头正为驱动人工智能投入巨资，这些公用事业公司将成为大赢家](https://www.tmtpost.com/7890430.html)
+**发布时间**: 2026-02-26 11:19
+
+#### [台区储能，一个无法入市的“黑户”，撑起500亿储能风口？](https://www.tmtpost.com/7890034.html)
+**发布时间**: 2026-02-26 11:00
+
+#### [魅族手机往事：启迪小米的品牌，是如何陨落的？](https://www.tmtpost.com/7890275.html)
+**发布时间**: 2026-02-26 10:52
+
+#### [下一笔人工智能股票交易将从化学品和冷却系统制造商开始](https://www.tmtpost.com/7890383.html)
+**发布时间**: 2026-02-26 10:47
+
+#### [重温三只股票：标普全球、波音和MSG体育，它们目前处境如何](https://www.tmtpost.com/7890380.html)
+**发布时间**: 2026-02-26 10:45
+
+#### [字节攻城，阿里筑墙：2026年AI云战役的终局推演](https://www.tmtpost.com/7890007.html)
+**发布时间**: 2026-02-26 10:30
+
+#### [碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界](https://www.tmtpost.com/7890251.html)
+**发布时间**: 2026-02-26 10:13
+
+#### [OpenClaw 背后：那些尚没被说透的关键](https://www.tmtpost.com/7889987.html)
+**发布时间**: 2026-02-26 10:00
+
+#### [包装行业龙头出海，拟654.37万欧元收购Gelbert公司60%股权；软件牛股重大资产重组火速终止，改为拟3亿元投资灵明光子；【并购一线】](https://www.tmtpost.com/7890122.html)
+**发布时间**: 2026-02-26 09:52
+
+#### [科沃斯的半步试探](https://www.tmtpost.com/7889952.html)
+**发布时间**: 2026-02-26 09:30
+
+#### [《2028全球智能危机》引发震荡，MiroThinker回应：我不带来危机，只放大你们人类选择](https://www.tmtpost.com/7890213.html)
+**发布时间**: 2026-02-26 09:27
+
+#### [2026年春节出游市场的几个反常，你注意到了吗？](https://www.tmtpost.com/7889904.html)
+**发布时间**: 2026-02-26 09:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [JDK 26和JDK 27：最新进展](https://www.infoq.cn/article/NJdeeHJDQ1GvdqeeEr4y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 12:00
+
+#### [棒棒糖与螺旋：AI 安全分层架构探索](https://www.infoq.cn/article/ILdFgDra9A5eXYgSQAf0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 11:59
+
+#### [一个小型赋能团队如何支持采用单一环境进行分布式测试的实施](https://www.infoq.cn/article/F7D85VUK5mjbuWah5fie?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 10:00
+
+#### [GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力](https://www.infoq.cn/article/WXJ1S1rsALiDNxoswz6f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-26 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：三星发布 S26 系列手机、Anthropic 的新动态等](https://sspai.com/post/106602)
+**发布时间**: 2026-02-26 09:01
 
 ---
 

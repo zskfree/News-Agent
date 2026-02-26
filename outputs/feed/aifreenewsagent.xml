@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Feb 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2026 23:30:28 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 05:58:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:00:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>遭谷歌制裁，OpenClaw创始人怒怼：Anthropic会先打电话，你们直接封号</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-10</link>
-      <description>&lt;![CDATA[遭谷歌制裁，OpenClaw创始人怒怼：Anthropic会先打电话，你们直接封号]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-10</guid>
+      <title>Karpathy：AI编程已质变，就从去年12月开始</title>
+      <link>https://www.qbitai.com/2026/02/382626.html</link>
+      <description>&lt;![CDATA[Karpathy：AI编程已质变，就从去年12月开始]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 03:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382626.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICLR 2026 | 把视频扩散模型压到4bit，还能接近满血效果？ QVGen让「超低比特视频生成量化」真正可用</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-25-9</link>
-      <description>&lt;![CDATA[ICLR 2026 | 把视频扩散模型压到4bit，还能接近满血效果？ QVGen让「超低比特视频生成量化」真正可用]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-25-9</guid>
+      <title>扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了</title>
+      <link>https://www.qbitai.com/2026/02/382584.html</link>
+      <description>&lt;![CDATA[扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 02:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382584.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>MiniMax又又来吃龙虾肉了！OpenClaw真·一键部署，还有上万专家智能体等你差遣</title>
-      <link>https://www.qbitai.com/2026/02/382127.html</link>
-      <description>&lt;![CDATA[MiniMax又又来吃龙虾肉了！OpenClaw真·一键部署，还有上万专家智能体等你差遣]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382127.html</guid>
+      <title>ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-26</link>
+      <description>&lt;![CDATA[ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马年4大顶流模型会师阿里云Coding Plan开工！Token量大管饱，自由切换真香</title>
-      <link>https://www.qbitai.com/2026/02/382083.html</link>
-      <description>&lt;![CDATA[马年4大顶流模型会师阿里云Coding Plan开工！Token量大管饱，自由切换真香]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382083.html</guid>
+      <title>21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型</title>
+      <link>https://www.qbitai.com/2026/02/382647.html</link>
+      <description>&lt;![CDATA[21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 03:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382647.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-02-25日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-25/</link>
-      <description>&lt;![CDATA[2026-02-25日刊]]&gt;</description>
-      <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-25/</guid>
+      <title>日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元</title>
+      <link>https://www.qbitai.com/2026/02/382610.html</link>
+      <description>&lt;![CDATA[日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 02:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382610.html</guid>
       <category>Ai</category>
     </item>
   </channel>

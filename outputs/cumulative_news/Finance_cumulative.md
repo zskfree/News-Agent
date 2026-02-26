@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 23:29
+**最后更新时间**: 2026-02-26 05:59
+
+---
+
+## 🆕 最新更新 (2026-02-26 05:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Do America’s carmakers have a plan for survival?](https://www.ft.com/content/b081a885-8187-4e5e-a8cc-9f8db716a694)
+**发布时间**: 2026-02-26 05:00
+
+#### [How working from home changed how we shop](https://www.ft.com/content/0147d1c6-43c8-4694-9b93-971b44fb67f5)
+**发布时间**: 2026-02-26 05:00
+
+#### [Inside the $265mn war over who writes America’s AI rules](https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6)
+**发布时间**: 2026-02-26 05:00
+
+#### [UK government debt sales set to fall for first time in four years](https://www.ft.com/content/d082b3ab-99d2-4726-8da8-ec9b843a7373)
+**发布时间**: 2026-02-26 05:00
+
+#### [HSBC board earns almost £1mn more despite botched chair search](https://www.ft.com/content/9c02b970-b704-42bd-abb9-f096bfd7fe96)
+**发布时间**: 2026-02-26 05:00
+
+#### [Rubio warns on Iran’s ballistic missiles ahead of talks](https://www.ft.com/content/c70a2349-124f-405a-89cf-255754cbe52d)
+**发布时间**: 2026-02-26 02:28
+
+#### [Nvidia stock downbeat despite blockbuster quarter](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6)
+**发布时间**: 2026-02-26 02:09
+
+#### [Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd)
+**发布时间**: 2026-02-26 00:08
+
+#### [Iran to offer ‘commercial bonanza’ to US companies](https://www.ft.com/content/27f02d44-a223-4934-8f2b-7cfd8772b181)
+**发布时间**: 2026-02-26 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nutanix’s stock soars as AMD investment creates a ‘halo effect’](https://www.marketwatch.com/story/this-stock-is-soaring-on-news-of-a-forthcoming-investment-by-amd-216f3ee1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 03:39
+
+#### [Trade Desk’s stock slides after earnings, as growth slowdown unnerves Wall Street even further](https://www.marketwatch.com/story/trade-desks-stock-slides-as-growth-slowdown-unnerves-wall-street-even-further-9d99e55e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 02:01
+
+#### [Nvidia’s Jensen Huang is the latest tech CEO to cheer the potential of data centers in outer space](https://www.marketwatch.com/story/nvidias-jensen-huang-is-the-latest-tech-ceo-to-cheer-the-potential-of-data-centers-in-outer-space-32d022b2?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 02:01
+
+#### [Snowflake’s stock dips as the software company gives a mixed outlook](https://www.marketwatch.com/story/snowflakes-stock-dips-as-the-software-company-gives-a-mixed-outlook-aa072974?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 01:33
 
 ---
 
