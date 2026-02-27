@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 08:54:25 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 05:53:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:54:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克：Grok今日归来！</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-2</link>
-      <description>&lt;![CDATA[马斯克：Grok今日归来！]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-2</guid>
+      <title>2026-02-27日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-27/</link>
+      <description>&lt;![CDATA[2026-02-27日刊]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-27/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-02-26日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-26/</link>
-      <description>&lt;![CDATA[2026-02-26日刊]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-26/</guid>
+      <title>千问AI春节DAU创历史新高，单日增幅惊人</title>
+      <link>https://www.qbitai.com/2026/02/382739.html</link>
+      <description>&lt;![CDATA[千问AI春节DAU创历史新高，单日增幅惊人]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382739.html</guid>
       <category>Ai</category>
     </item>
   </channel>

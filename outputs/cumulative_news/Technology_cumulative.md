@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 23:32
+**最后更新时间**: 2026-02-27 05:53
+
+---
+
+## 🆕 最新更新 (2026-02-27 05:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 提出 Harness Engineering：Codex 智能体驱动大规模软件开发](https://www.infoq.cn/article/MCUXGhyIRqPLkFhljY9v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 13:00
+
+#### [Gemini灵魂人物、传奇工程师Jeff Dean最新访谈：未来人均50个虚拟实习生，用不上专家了！](https://www.infoq.cn/article/eqZKl8a3pt5Wd1LDKoZd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 12:00
+
+#### [曝DeepSeek新模型提前给华为等国内厂商“开绿灯”，V4 Lite 绝密参数外泄](https://www.infoq.cn/article/2w3JgQftwv3PaM9hHS95?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 10:40
+
+#### [代码暴减99.9%！独立开发者仅用500行代码做出安全版OpenClaw，GitHub星数狂飙](https://www.infoq.cn/article/HHm10aPdwzZxiF9k05fN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 10:31
+
+#### [编程超越 Gemini 3 Pro？GLM-5 性能实测对齐 Opus 4.6，智谱市值突破1700亿港元](https://www.infoq.cn/article/2WHkkAArr4KhLj1LXUWt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 10:26
+
+#### [.NET 11预览版1提供运行时异步、Zstandard支持和C#15功能](https://www.infoq.cn/article/dAMcqZCd9bgDHx1iX13F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 10:00
+
+#### [OpenTelemetry”指南，以扩大可观测性的采用](https://www.infoq.cn/article/HyzuYo2q2p1ZXH2rXTr1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [重新估值？20人游戏团队被10亿美元收购，产品不足一年日收入破百万](https://www.tmtpost.com/7892018.html)
+**发布时间**: 2026-02-27 12:04
+
+#### [驶向 2030：自动驾驶的商业化浪潮与规则重构](https://www.tmtpost.com/7892007.html)
+**发布时间**: 2026-02-27 11:51
+
+#### [多邻国：指引再暴雷，绿鸟真成 “Dead Duo” 了？](https://www.tmtpost.com/7891992.html)
+**发布时间**: 2026-02-27 11:41
+
+#### [疯狂的“电子茅台”：价格暴涨10倍，有商家称“年入百万”](https://www.tmtpost.com/7891981.html)
+**发布时间**: 2026-02-27 11:32
+
+#### [被收购是宿命吗？CloudBot引爆的AI Agent创业终局探讨](https://www.tmtpost.com/7891948.html)
+**发布时间**: 2026-02-27 11:24
+
+#### [亚洲终于有了“千亿美元”药企](https://www.tmtpost.com/7891931.html)
+**发布时间**: 2026-02-27 11:17
+
+#### [业绩暴雷却股价大涨，长春高新化身“阴伟达”逆袭](https://www.tmtpost.com/7891469.html)
+**发布时间**: 2026-02-27 11:11
+
+#### [不再将广告收入当核心的百度，能靠AI挺直腰板吗？](https://www.tmtpost.com/7891406.html)
+**发布时间**: 2026-02-27 11:06
+
+#### [成都体量最大的五星级酒店，还在苦寻“新东家”](https://www.tmtpost.com/7891955.html)
+**发布时间**: 2026-02-27 11:03
+
+#### [从2014年到2026年，魅族是如何一步步掉队的？](https://www.tmtpost.com/7891971.html)
+**发布时间**: 2026-02-27 11:03
+
+#### [翻台15轮、月入上百万，商场负一层的“漂亮饭”杀疯了](https://www.tmtpost.com/7891977.html)
+**发布时间**: 2026-02-27 11:03
+
+#### [2026年最值得期待的十大医药IPO](https://www.tmtpost.com/7891986.html)
+**发布时间**: 2026-02-27 10:52
+
+#### [十年上市路，富友支付四战IPO](https://www.tmtpost.com/7891432.html)
+**发布时间**: 2026-02-27 10:47
+
+#### [2026，智能手机开启淘汰赛？](https://www.tmtpost.com/7891844.html)
+**发布时间**: 2026-02-27 10:43
+
+#### [“神秘矿业大佬”再出手，四次蚕食拿下亚洲最大单体锂矿](https://www.tmtpost.com/7891735.html)
+**发布时间**: 2026-02-27 10:38
+
+#### [1000多家中国酒企，都该看看香港生力啤](https://www.tmtpost.com/7891702.html)
+**发布时间**: 2026-02-27 10:31
+
+#### [刘强东豪掷50亿搅局：要把富豪上亿的游艇，打到10万块？](https://www.tmtpost.com/7891698.html)
+**发布时间**: 2026-02-27 10:24
+
+#### [告别“盲盒”生成：谷歌 Nano Banana 2 落地，AI图像卷向“事实时代”](https://www.tmtpost.com/7891556.html)
+**发布时间**: 2026-02-27 10:16
+
+#### [百亿营销换来满屏阴阳怪气，白酒年轻化错在哪里？](https://www.tmtpost.com/7891470.html)
+**发布时间**: 2026-02-27 10:16
+
+#### [我玩上了第一款第一人称二游](https://www.tmtpost.com/7891431.html)
+**发布时间**: 2026-02-27 10:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛](https://sspai.com/post/105630)
+**发布时间**: 2026-02-27 10:03
+
+#### [派早报：Apple 确认将于三月发布多款新品等](https://sspai.com/post/106637)
+**发布时间**: 2026-02-27 08:38
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4ad0b1145f2081100d847ca615a88e9b5c40a081a102544b789bd58b4c618a51": {
-        "title": "顶级工程师Karpathy的“AI革命”：一个月前还在焦虑“落后”，如今“20年古法编程习惯”被彻底颠覆，80%代码已交给AI！",
-        "link": "https://www.infoq.cn/article/eUXjPQdv3XRVqWwdzJO9?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 12:10:00 GMT",
-        "first_seen": "2026-01-28T05:31:16.196246"
-      },
-      "48e499b6191322767370aae5fb3a662e888a9d81d8ae39572a7afa07e430cead": {
-        "title": "蚂蚁灵波发布具身“通用大脑”LingBot-VLA，后训练代码全面开放，让开源真正可用",
-        "link": "https://www.infoq.cn/article/GaVLwadOyTqICWJ7uiGV?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 10:18:00 GMT",
-        "first_seen": "2026-01-28T05:31:16.196252"
-      },
-      "b9718bee7478788eb40bcc97d03162329354fd9d442a29076b1cdf5cdf459461": {
-        "title": "具身智能：在狂热中沉淀，在落地中破局",
-        "link": "https://www.tmtpost.com/7858364.html",
-        "published_date": "Wed, 28 Jan 2026 12:27:00 GMT",
-        "first_seen": "2026-01-28T05:31:16.196254"
-      },
-      "0aa9b7286c4fdb871dd8aab0a2025eb46e090419bcea8628b4f96d6cf8d35300": {
-        "title": "一场注定破碎的“AI大一统”幻想",
-        "link": "https://www.tmtpost.com/7858003.html",
-        "published_date": "Wed, 28 Jan 2026 11:08:00 GMT",
-        "first_seen": "2026-01-28T05:31:16.196256"
-      },
-      "de88407989d61de8204bf1e90f93316a22d4c2075f377817949310055e60c019": {
-        "title": "AI 时代，开发者体验正在被重新定义",
-        "link": "https://www.infoq.cn/article/Tb4GkF4MbNOxxhOHvZig?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 11:53:00 GMT",
-        "first_seen": "2026-01-28T05:31:16.196257"
-      },
       "f9670be7f3bc75ee945f52a1e8295ceb39704ac1229536b9631af72f01bbb4a6": {
         "title": "大模型统一竞赛700天后，AI走向“分野之年”",
         "link": "https://www.tmtpost.com/7857888.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/ILdFgDra9A5eXYgSQAf0?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 26 Feb 2026 11:59:00 GMT",
         "first_seen": "2026-02-26T23:32:35.259543"
+      },
+      "1c745e3b2de6286d29576d3f387cf0b1cb17486ac130956c52589a5d5aa7bf3d": {
+        "title": "OpenAI 提出 Harness Engineering：Codex 智能体驱动大规模软件开发",
+        "link": "https://www.infoq.cn/article/MCUXGhyIRqPLkFhljY9v?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 13:00:00 GMT",
+        "first_seen": "2026-02-27T05:54:01.318027"
+      },
+      "4366b119e5f122559be2b16dda788f4fc72459959fd3e4299579e0ff79e83284": {
+        "title": "告别“盲盒”生成：谷歌 Nano Banana 2 落地，AI图像卷向“事实时代”",
+        "link": "https://www.tmtpost.com/7891556.html",
+        "published_date": "Fri, 27 Feb 2026 10:16:00 GMT",
+        "first_seen": "2026-02-27T05:54:01.318042"
+      },
+      "b4fc66f63d2f4ee2473284bffb304fa74b2a28f30d36753ff5711af4cc745569": {
+        "title": "编程超越 Gemini 3 Pro？GLM-5 性能实测对齐 Opus 4.6，智谱市值突破1700亿港元",
+        "link": "https://www.infoq.cn/article/2WHkkAArr4KhLj1LXUWt?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 10:26:00 GMT",
+        "first_seen": "2026-02-27T05:54:01.318045"
+      },
+      "4386228215d2fb7524447dbbd94da4568e2221b60751c8087b9907055b6268e6": {
+        "title": "驶向 2030：自动驾驶的商业化浪潮与规则重构",
+        "link": "https://www.tmtpost.com/7892007.html",
+        "published_date": "Fri, 27 Feb 2026 11:51:00 GMT",
+        "first_seen": "2026-02-27T05:54:01.318047"
+      },
+      "5efc1097358b6ee20a9b41477f15698deee776e3f29189f76caa4c44aff437e4": {
+        "title": "Gemini灵魂人物、传奇工程师Jeff Dean最新访谈：未来人均50个虚拟实习生，用不上专家了！",
+        "link": "https://www.infoq.cn/article/eqZKl8a3pt5Wd1LDKoZd?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-27T05:54:01.318049"
       }
     },
     "Finance": {
-      "a08edede623128d157b9d179e95cabed10c2a407c6625fa5329aecb31670e2a7": {
-        "title": "Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.",
-        "link": "https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Jan 2026 02:14:00 GMT",
-        "first_seen": "2026-01-28T05:30:37.788393"
-      },
-      "bf57d12139427daaed917f5138b83c109ad1c9099297f498388fbe421ddd1319": {
-        "title": "Investors bet on ‘hot’ US economy heading into midterm elections",
-        "link": "https://www.ft.com/content/8cbb2664-7795-4286-a795-99181df151fc",
-        "published_date": "Wed, 28 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-28T05:30:37.788402"
-      },
-      "1a4116a5098d84026f99401a0b49aa8fc867661cd05353773d1c24adae6895e7": {
-        "title": "Swiss franc surges to decade high as traders seek last ‘reliable’ haven",
-        "link": "https://www.ft.com/content/4eb0c9cc-3d81-4860-b59a-7696305ce48f",
-        "published_date": "Wed, 28 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-28T05:30:37.788405"
-      },
-      "38d016d6403abcc1bb59490cc8fe9ceb5851400ab199d91c1e336098699455ff": {
-        "title": "UK’s deadline for paying IHT on pensions poses ‘huge problem’, peers warn",
-        "link": "https://www.ft.com/content/05141300-4658-4305-af6c-6123571a4353",
-        "published_date": "Wed, 28 Jan 2026 00:01:00 GMT",
-        "first_seen": "2026-01-28T05:30:37.788408"
-      },
-      "5e46c9f9479979256949fd05db41a354c9bd854c17bb8f941a33046e358abe3c": {
-        "title": "Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock",
-        "link": "https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Jan 2026 04:18:00 GMT",
-        "first_seen": "2026-01-28T05:30:37.788410"
-      },
       "19c1e26afbef55d8c7d3252bd578c93fc23403941f7e3e42634678a8a1f013f2": {
         "title": "‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?",
         "link": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
@@ -4671,39 +4641,39 @@
         "link": "https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00?mod=mw_rss_topstories",
         "published_date": "Thu, 26 Feb 2026 23:15:00 GMT",
         "first_seen": "2026-02-26T23:32:56.734762"
+      },
+      "d9dadf5498dffb25b364f814c545b8fe04b945eaf654e45f2df31c9e3d37dc72": {
+        "title": "Economic nationalism is just getting started",
+        "link": "https://www.ft.com/content/19863a82-7979-49db-a644-78a5d1830044",
+        "published_date": "Fri, 27 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.683648"
+      },
+      "a993da37fa8e2ef7513260f1e41818b0dd456848fccad86fe600de9ed39b0ed5": {
+        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
+        "link": "https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 04:08:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.683656"
+      },
+      "df1a52125e122a0733dbd6594de6b971d91a2c9962014f6b158dfb3039a6a73a": {
+        "title": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
+        "link": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 04:07:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.683658"
+      },
+      "b6fe4cbdaa767bea39af4277e1712297020f7170f4dca306e9e55b0f1798ae67": {
+        "title": "US warns it will axe all Anthropic agreements without Pentagon deal",
+        "link": "https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f",
+        "published_date": "Fri, 27 Feb 2026 01:26:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.683660"
+      },
+      "779aaeaeb6a5b65a7360c3438c185dbd3cfd1151f40b7f4bd8261e76c0bd4968": {
+        "title": "Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.",
+        "link": "https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 02:00:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.683662"
       }
     },
     "Ai": {
-      "00199e1cea2b7f62cadc6310c9461c889ae90a581b74d38cd34580ad86404f66": {
-        "title": "刚刚，OpenAI发布「科研写作神器」Prism，Overleaf危",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-4",
-        "published_date": "Wed, 28 Jan 2026 11:43:00 GMT",
-        "first_seen": "2026-01-28T05:31:01.693385"
-      },
-      "2197dbf10de99fd5c06c8296c3b467ef92b37b687c9b5ed1143acdadafab9699": {
-        "title": "比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-7",
-        "published_date": "Wed, 28 Jan 2026 13:22:00 GMT",
-        "first_seen": "2026-01-28T05:31:01.693391"
-      },
-      "c539afd727f3575443e2971b7c1ca03f5546e197675d2b8603f5474e770a2d4c": {
-        "title": "蚂蚁出手VLA，就是开源超越Pi0.5的基座模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-5",
-        "published_date": "Wed, 28 Jan 2026 11:54:00 GMT",
-        "first_seen": "2026-01-28T05:31:01.693393"
-      },
-      "653f8d4924bc381a17cb49fb2cef6d58c60e7a9d70a6c7eb8dd78a3a05ba89e1": {
-        "title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
-        "link": "https://www.qbitai.com/2026/01/373117.html",
-        "published_date": "Wed, 28 Jan 2026 00:37:00 GMT",
-        "first_seen": "2026-01-28T05:31:01.693395"
-      },
-      "077a5b58b565849657c890a85de843d02e86d8bd9397e63c335a0da1c3eb781c": {
-        "title": "蚂蚁灵波开源具身大模型LingBot-VLA，跨本体跨任务泛化能力创新高",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-3",
-        "published_date": "Wed, 28 Jan 2026 10:38:00 GMT",
-        "first_seen": "2026-01-28T05:31:01.693397"
-      },
       "1ed3f5392739987ff892a70985205a90eb774ebec3a7f3e255a94c7edd209041": {
         "title": "利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术",
         "link": "https://www.jiqizhixin.com/articles/2026-01-28-9",
@@ -6671,13 +6641,25 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-26/",
         "published_date": "Thu, 26 Feb 2026 10:13:00 GMT",
         "first_seen": "2026-02-26T08:54:25.347638"
+      },
+      "8e2faa9d3a66d955b8dddb83d31a5d7fdf59714543a997d94294553e99b86a3c": {
+        "title": "2026-02-27日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-27/",
+        "published_date": "Fri, 27 Feb 2026 09:46:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.840034"
+      },
+      "3d3fb378418f9b9d64723319446dd6cfc41d1f1619a1a74347d37872bb2d7b94": {
+        "title": "千问AI春节DAU创历史新高，单日增幅惊人",
+        "link": "https://www.qbitai.com/2026/02/382739.html",
+        "published_date": "Fri, 27 Feb 2026 03:48:00 GMT",
+        "first_seen": "2026-02-27T05:54:14.840043"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-26T23:32:35.259545",
-    "Finance": "2026-02-26T23:32:56.734765",
-    "Ai": "2026-02-26T08:54:25.347641"
+    "Technology": "2026-02-27T05:54:01.318051",
+    "Finance": "2026-02-27T05:54:14.683664",
+    "Ai": "2026-02-27T05:54:14.840046"
   }
 }
