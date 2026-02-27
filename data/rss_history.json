@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f9670be7f3bc75ee945f52a1e8295ceb39704ac1229536b9631af72f01bbb4a6": {
-        "title": "大模型统一竞赛700天后，AI走向“分野之年”",
-        "link": "https://www.tmtpost.com/7857888.html",
-        "published_date": "Wed, 28 Jan 2026 13:53:00 GMT",
-        "first_seen": "2026-01-28T08:36:15.378817"
-      },
-      "f05ea595e33e6e8e65ece05ac95be1720111f1b0137ccaeba600c5f115e74cf8": {
-        "title": "百度、腾讯、阿里...为什么都盯上了“AI群聊”？",
-        "link": "https://www.tmtpost.com/7858126.html",
-        "published_date": "Wed, 28 Jan 2026 16:15:00 GMT",
-        "first_seen": "2026-01-28T08:36:15.378825"
-      },
-      "99348f4c1b180077fd0439296e7e4a73a832cb2e9c54e412137f49aa5d234c0e": {
-        "title": "百度芯事",
-        "link": "https://www.tmtpost.com/7858551.html",
-        "published_date": "Wed, 28 Jan 2026 15:20:00 GMT",
-        "first_seen": "2026-01-28T08:36:15.378827"
-      },
-      "9195d0ba026433c0fbe53ef9a25e918b40d1d4241eba1c21c36e322e62a04c60": {
-        "title": "小马智行VS文远知行：既分高下也决生死",
-        "link": "https://www.tmtpost.com/7858023.html",
-        "published_date": "Wed, 28 Jan 2026 11:08:00 GMT",
-        "first_seen": "2026-01-28T08:36:15.378829"
-      },
-      "0e2e6ecf1155fc4274ba0d0673b75aba8b0b344ac2a836029037a4587abe6bba": {
-        "title": "内存一年疯涨170%，云账单里的“隐性成本”该算清了",
-        "link": "https://www.infoq.cn/article/pvHVtYNYmM7EDEpIgJQE?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 16:06:00 GMT",
-        "first_seen": "2026-01-28T08:36:15.378830"
-      },
       "0ee36b866a9dcb23e73da0db7ec76259c46675d060ec0df8617b402b7cda8e48": {
         "title": "GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现",
         "link": "https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&utm_medium=article",
@@ -2695,21 +2665,39 @@
         "link": "https://www.infoq.cn/article/eqZKl8a3pt5Wd1LDKoZd?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 27 Feb 2026 12:00:00 GMT",
         "first_seen": "2026-02-27T05:54:01.318049"
+      },
+      "b3ecbf15aaa4a451b443317b8b9807845d13f98843cf32f39f97541491b95942": {
+        "title": "收购不成便带头封杀？！Meta 痛下狠手，OpenClaw 彻底失控：被拒后竟“人肉”网暴人类，实锤无人操控",
+        "link": "https://www.infoq.cn/article/yaqmOAg3bp294sPdyAoj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 14:00:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.598556"
+      },
+      "df09576d7eccce0bdc7f23017e78d0a4308c969e842a633aafb5c088e8d2f58a": {
+        "title": "曝DeepSeek新模型提前给华为等国内厂商“开绿灯”，V4 Lite 绝密参数外泄",
+        "link": "https://www.infoq.cn/article/2w3JgQftwv3PaM9hHS95?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 10:40:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.598564"
+      },
+      "0b54dcf28c6332a654330715632badff07fa7b7a284fb98a8477bdffd1ba4d2b": {
+        "title": "华为首次发布智能体编程平台“码道”：不是拼生成量，而是在百万行 Java、长周期维护与高可靠中运行",
+        "link": "https://www.infoq.cn/article/H9C1UYwZUOhemxTDphqY?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 15:43:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.598567"
+      },
+      "693f6ab43df3ff7da3472c6d4c375c05e9bd32e76a7f720f245e2e22345643a4": {
+        "title": "“我们再也回不去了”：AI 围城下的技术生态现实",
+        "link": "https://www.infoq.cn/article/Q3FWRJID1LzNdEFWXNGh?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 14:55:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.598569"
+      },
+      "f28fc87b4596f84c4fd555c472d141506a99792463a31478c471e635dfbb2390": {
+        "title": "Anthropic的人才实验：为什么AI企业要高薪挖哲学家",
+        "link": "https://www.tmtpost.com/7892175.html",
+        "published_date": "Fri, 27 Feb 2026 14:40:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.598570"
       }
     },
     "Finance": {
-      "19c1e26afbef55d8c7d3252bd578c93fc23403941f7e3e42634678a8a1f013f2": {
-        "title": "‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?",
-        "link": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-28T08:35:36.405763"
-      },
-      "1fd4d976a9d300b3486022e3be3ac69076606ae5fab61e3a4a7fba7019d9e144": {
-        "title": "Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate",
-        "link": "https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6",
-        "published_date": "Wed, 28 Jan 2026 07:00:00 GMT",
-        "first_seen": "2026-01-28T08:35:36.405775"
-      },
       "a8d416ac67582315e17a3807d916ad23f29a6c1c47f90a36f0fd97b859e65808": {
         "title": "Federal Reserve signals no rush to cut rates as economy powers ahead",
         "link": "https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1",
@@ -4671,39 +4659,21 @@
         "link": "https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories",
         "published_date": "Fri, 27 Feb 2026 02:00:00 GMT",
         "first_seen": "2026-02-27T05:54:14.683662"
+      },
+      "0e04f6b77ce4f654340e192519aca3cf143a17355a2c875a0874ef15ab3d45ab": {
+        "title": "What you said about my new ChatGPT investment adviser",
+        "link": "https://www.ft.com/content/f76fac89-89e9-4399-ace1-bf7349a8d495",
+        "published_date": "Fri, 27 Feb 2026 08:32:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.630893"
+      },
+      "5ea05194f476ca7b78ada57a754c96c8e22e245ac6dfbd9219299f8b8ca0746c": {
+        "title": "‘The worst outcome’: Green triumph creates new peril for Labour",
+        "link": "https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9",
+        "published_date": "Fri, 27 Feb 2026 07:49:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.630898"
       }
     },
     "Ai": {
-      "1ed3f5392739987ff892a70985205a90eb774ebec3a7f3e255a94c7edd209041": {
-        "title": "利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-9",
-        "published_date": "Wed, 28 Jan 2026 14:17:00 GMT",
-        "first_seen": "2026-01-28T08:35:50.064113"
-      },
-      "6ce8ea8ed013e4f53b1650fbf95bb358bc6f50165ab5119afb3495c41285d2df": {
-        "title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
-        "link": "https://www.qbitai.com/2026/01/373447.html",
-        "published_date": "Wed, 28 Jan 2026 06:16:00 GMT",
-        "first_seen": "2026-01-28T08:35:50.064120"
-      },
-      "28d89a01c2eae46ab8dc3b2802867432b88c0977bf6a80c03d0e7f40ca3993dc": {
-        "title": "「熟悉的陌生人」才是「好老师」？复旦提出简单指标，找出推理蒸馏中真正有教学价值的数据",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28",
-        "published_date": "Wed, 28 Jan 2026 10:30:00 GMT",
-        "first_seen": "2026-01-28T08:35:50.064123"
-      },
-      "8d9bec7f6acf1b81c45dd1ab29509741fa536176bfb800dc9d9037fdac189a87": {
-        "title": "AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-6",
-        "published_date": "Wed, 28 Jan 2026 13:18:00 GMT",
-        "first_seen": "2026-01-28T08:35:50.064124"
-      },
-      "051deaf3d02e26e6a15039a26b7c9d5df28b77cd945a821625248d94257aea18": {
-        "title": "被Anthropic指控侵权，Clawdbot改名Moltbot",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-2",
-        "published_date": "Wed, 28 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-28T08:35:50.064126"
-      },
       "33b431b9b43beebb472ba660883eca26717ed219427bbd80cee3f96b2361b8a1": {
         "title": "中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体",
         "link": "https://www.qbitai.com/2026/01/373666.html",
@@ -6653,13 +6623,25 @@
         "link": "https://www.qbitai.com/2026/02/382739.html",
         "published_date": "Fri, 27 Feb 2026 03:48:00 GMT",
         "first_seen": "2026-02-27T05:54:14.840043"
+      },
+      "7e4bf7e60fb83a8b40f7d791e1c877def7695780252a860756b9747b84963e1b": {
+        "title": "反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了",
+        "link": "https://www.qbitai.com/2026/02/382776.html",
+        "published_date": "Fri, 27 Feb 2026 07:09:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.776642"
+      },
+      "c8f14915788ad34a9ce206a86a25e40a133b75dadcaf98a1fb936abdccacac80": {
+        "title": "阶跃星辰杀入季后赛，强势跻身AI“新六小虎”第一梯队",
+        "link": "https://www.qbitai.com/2026/02/382747.html",
+        "published_date": "Fri, 27 Feb 2026 07:01:00 GMT",
+        "first_seen": "2026-02-27T08:43:37.776650"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-27T05:54:01.318051",
-    "Finance": "2026-02-27T05:54:14.683664",
-    "Ai": "2026-02-27T05:54:14.840046"
+    "Technology": "2026-02-27T08:43:37.598572",
+    "Finance": "2026-02-27T08:43:37.630901",
+    "Ai": "2026-02-27T08:43:37.776652"
   }
 }

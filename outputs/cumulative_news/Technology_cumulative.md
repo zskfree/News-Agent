@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 05:53
+**最后更新时间**: 2026-02-27 08:43
+
+---
+
+## 🆕 最新更新 (2026-02-27 08:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [史上最“疯狂”高中：没有老师、全靠AI？全员入学定创业项目，目标是成为领域顶尖专家](https://www.infoq.cn/article/6GH34NaPexIyCGdeIoGC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 16:00
+
+#### [金融数据库国产化实践：从能用到好用，腾讯云 TDSQL 成功案例精选](https://www.infoq.cn/minibook/di5R0iB6ZPPidKTdBRmS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 15:51
+
+#### [华为首次发布智能体编程平台“码道”：不是拼生成量，而是在百万行 Java、长周期维护与高可靠中运行](https://www.infoq.cn/article/H9C1UYwZUOhemxTDphqY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 15:43
+
+#### [“我们再也回不去了”：AI 围城下的技术生态现实](https://www.infoq.cn/article/Q3FWRJID1LzNdEFWXNGh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 14:55
+
+#### [收购不成便带头封杀？！Meta 痛下狠手，OpenClaw 彻底失控：被拒后竟“人肉”网暴人类，实锤无人操控](https://www.infoq.cn/article/yaqmOAg3bp294sPdyAoj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里之后再获创维、博裕等加注，致敬未知获亿元PreA轮融资｜独家](https://www.tmtpost.com/7892206.html)
+**发布时间**: 2026-02-27 15:20
+
+#### [穿上皮夹克，手握720亿订单：Salesforce 掌门人手撕“SaaS末日论”](https://www.tmtpost.com/7892477.html)
+**发布时间**: 2026-02-27 15:06
+
+#### [英伟达的历史最佳成绩，能消灭「AI 泡沫论」吗？](https://www.tmtpost.com/7892195.html)
+**发布时间**: 2026-02-27 14:42
+
+#### [新品第一年就4000万美元，细分品类突然行了，为什么？](https://www.tmtpost.com/7892033.html)
+**发布时间**: 2026-02-27 14:41
+
+#### [启明、弘晖押注，89岁医药泰斗创业5年冲刺IPO](https://www.tmtpost.com/7892165.html)
+**发布时间**: 2026-02-27 14:40
+
+#### [Anthropic的人才实验：为什么AI企业要高薪挖哲学家](https://www.tmtpost.com/7892175.html)
+**发布时间**: 2026-02-27 14:40
+
+#### [戒烟药龙头的资本双面镜：元老减持抽身，公司抄底式加仓子公司](https://www.tmtpost.com/7891221.html)
+**发布时间**: 2026-02-27 14:37
+
+#### [非洲手机之王困兽犹斗](https://www.tmtpost.com/7892198.html)
+**发布时间**: 2026-02-27 14:34
+
+#### [吃透产业链之太空叠瓦](https://www.tmtpost.com/7892207.html)
+**发布时间**: 2026-02-27 14:34
+
+#### [Nano Banana 2发布，图像生成下半场比的是“世界知识”](https://www.tmtpost.com/7892181.html)
+**发布时间**: 2026-02-27 14:32
+
+#### [英伟达四季度财报，比超预期更可怕的是还没见顶](https://www.tmtpost.com/7892277.html)
+**发布时间**: 2026-02-27 14:24
+
+#### [在抖音密集发力，剑南春能把声量转成销量吗？](https://www.tmtpost.com/7892263.html)
+**发布时间**: 2026-02-27 14:24
+
+#### [公关和媒体，将是AI时代最后失业的人](https://www.tmtpost.com/7892233.html)
+**发布时间**: 2026-02-27 14:21
+
+#### [9块9翻篇，瑞幸的敌人更多了](https://www.tmtpost.com/7892268.html)
+**发布时间**: 2026-02-27 14:19
+
+#### [下沉市场的商超战：沃尔玛干不过地头蛇？](https://www.tmtpost.com/7892168.html)
+**发布时间**: 2026-02-27 14:19
+
+#### [这届年轻人：不回家过年，是对自己的“犒赏”](https://www.tmtpost.com/7891957.html)
+**发布时间**: 2026-02-27 14:18
+
+#### [2026年，去昆山“抢”IPO](https://www.tmtpost.com/7892276.html)
+**发布时间**: 2026-02-27 14:15
+
+#### [一个小镇青年的春节账单：我在老家过春节，花钱像在一线](https://www.tmtpost.com/7892122.html)
+**发布时间**: 2026-02-27 14:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」](https://sspai.com/post/106050)
+**发布时间**: 2026-02-27 15:02
+
+#### [当恐惧有了两种模样：《生化危机 9：安魂曲》评测](https://sspai.com/post/106645)
+**发布时间**: 2026-02-27 14:35
 
 ---
 
