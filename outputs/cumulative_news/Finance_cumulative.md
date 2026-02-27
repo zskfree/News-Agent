@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 08:43
+**最后更新时间**: 2026-02-27 23:27
+
+---
+
+## 🆕 最新更新 (2026-02-27 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump blacklists Anthropic, opening the door to Elon Musk and xAI](https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 23:02
+
+#### [After 46 years working, I’m not retiring — instead, I take a vacation every month. Is that a good life in your 70s?](https://www.marketwatch.com/story/after-46-years-working-im-not-retiring-instead-i-take-a-vacation-every-month-is-that-a-good-life-in-your-70s-447f7c75?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 23:00
+
+#### [Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 22:51
+
+#### [Will the bank get suspicious if I deposit $150,000 in cash into my checking account?](https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 22:49
+
+#### [Trump warned ‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.](https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 22:38
+
+#### [United’s stock had its worst day in months on rising oil prices, market jitters](https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 22:35
+
+#### [Medicare will run out of money 12 years earlier than expected](https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 22:22
+
+#### [Software stocks fall as Block’s big job cuts stoke further AI fears](https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 21:45
+
+#### [February’s ‘panic’ rotation in stocks sets the stage for more tumult in March](https://www.marketwatch.com/story/februarys-panic-rotation-in-stocks-sets-the-stage-for-more-tumult-in-march-557576ac?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 21:41
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Blackstone chief Schwarzman received $1.2bn in 2025 income](https://www.ft.com/content/9e41919c-2bdc-492d-ba51-42c9b1f9bae2)
+**发布时间**: 2026-02-27 22:52
+
+#### [US bank stocks record biggest slide since April’s market ructions](https://www.ft.com/content/259d2b95-ca0e-4029-b432-37bc6e2cec57)
+**发布时间**: 2026-02-27 21:54
+
+#### [US and UK pull diplomats from Middle East as Iran war fears rise](https://www.ft.com/content/001b06e5-16f8-4e1a-9771-98aee680752b)
+**发布时间**: 2026-02-27 21:54
+
+#### [Project Warrior: How Paramount beat Netflix in $110bn battle for Warner](https://www.ft.com/content/e352b4b3-ecba-4bc2-984f-9e4f3ce8a366)
+**发布时间**: 2026-02-27 21:30
+
+#### [Collapse of UK property lender sends shockwaves through Wall Street](https://www.ft.com/content/6731dc3d-d43b-487a-a6f2-e6c8b2a7ac92)
+**发布时间**: 2026-02-27 19:02
+
+#### [Starmer hits out at ‘extremes’ of left and right after historic Green by-election victory](https://www.ft.com/content/cd46da93-a0b7-4f73-bde9-3e8cb0bfb2b8)
+**发布时间**: 2026-02-27 18:12
+
+#### [Pete Hegseth, Maga’s man at the Pentagon](https://www.ft.com/content/7c01cb03-1638-44b0-ae60-2adb8572ed6c)
+**发布时间**: 2026-02-27 18:00
+
+#### [Reform defends choice of Matthew Goodwin as its by-election candidate](https://www.ft.com/content/07ea37ba-94f4-446c-96bb-f22898dcd97e)
+**发布时间**: 2026-02-27 17:43
+
+#### [Britain’s old political duopoly has been shattered](https://www.ft.com/content/f719993c-6092-4f21-aec5-30aa6603df66)
+**发布时间**: 2026-02-27 16:08
+
+#### [‘There is an alternative’: Zack Polanski’s transformation of the Greens](https://www.ft.com/content/de7ebc9f-b7b5-4872-8713-c67190d5e8f4)
+**发布时间**: 2026-02-27 15:27
+
+#### [OpenAI secures up to $110bn in record funding deal](https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f)
+**发布时间**: 2026-02-27 14:05
 
 ---
 

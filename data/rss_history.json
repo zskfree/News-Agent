@@ -2695,6 +2695,36 @@
         "link": "https://www.tmtpost.com/7892175.html",
         "published_date": "Fri, 27 Feb 2026 14:40:00 GMT",
         "first_seen": "2026-02-27T08:43:37.598570"
+      },
+      "87bc8b91fad0f0cbfb94619eee10ff730517a08e5a082a53e92265ee6ee11cfc": {
+        "title": "DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%",
+        "link": "https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-27T23:27:59.324677"
+      },
+      "4167306ef6f69aa2382184c1fd1b815c658f3927bff5f0d5b5e000e0afa366d8": {
+        "title": "英伟达四季度财报，比超预期更可怕的是还没见顶",
+        "link": "https://www.tmtpost.com/7892277.html",
+        "published_date": "Fri, 27 Feb 2026 14:24:00 GMT",
+        "first_seen": "2026-02-27T23:27:59.324685"
+      },
+      "6e95150a2237d20797203a263582df49335217447aa932d7cb05ec19967dd3f5": {
+        "title": "AI繁荣的背面，是智能手机正在失去主导权",
+        "link": "https://www.tmtpost.com/7892843.html",
+        "published_date": "Fri, 27 Feb 2026 18:53:00 GMT",
+        "first_seen": "2026-02-27T23:27:59.324688"
+      },
+      "746dfff54df758b82a478c6f43d759d3026da017db6644320819bf7fab1c61ba": {
+        "title": "白宫“电费承诺”引爆全球AI能源博弈",
+        "link": "https://www.tmtpost.com/7892638.html",
+        "published_date": "Fri, 27 Feb 2026 17:29:00 GMT",
+        "first_seen": "2026-02-27T23:27:59.324690"
+      },
+      "37ddb850c00c444b48b11af9d0f4734c127678f2cd04091068597613a250c0fe": {
+        "title": "五大变化，存储芯片，竞争核心变了",
+        "link": "https://www.tmtpost.com/7892844.html",
+        "published_date": "Fri, 27 Feb 2026 18:49:00 GMT",
+        "first_seen": "2026-02-27T23:27:59.324692"
       }
     },
     "Finance": {
@@ -4671,6 +4701,36 @@
         "link": "https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9",
         "published_date": "Fri, 27 Feb 2026 07:49:00 GMT",
         "first_seen": "2026-02-27T08:43:37.630898"
+      },
+      "ce0a931afe8dda352f8d68a041f36aceaf2da69d2c8d91196e7e609a685c5654": {
+        "title": "OpenAI secures up to $110bn in record funding deal",
+        "link": "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f",
+        "published_date": "Fri, 27 Feb 2026 14:05:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.304924"
+      },
+      "4dc63d89e7276ae25c09c0b0ff39a6899b1261583efd38918a53dd2305c99816": {
+        "title": "Trump blacklists Anthropic, opening the door to Elon Musk and xAI",
+        "link": "https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 23:02:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.304931"
+      },
+      "a32cb17fe4db0594d4ebcb054e28811d1dca51982ca2994855ae03772a029ab9": {
+        "title": "Trump warned ‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
+        "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 22:38:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.304933"
+      },
+      "d446812c4c2f5ddea878a9ccf8ae6c595f1caa290ec2646a9bb6cc2f1a3a6bae": {
+        "title": "Medicare will run out of money 12 years earlier than expected",
+        "link": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 22:22:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.304935"
+      },
+      "cfdeb7c08b9f18212a854046cd3df210872a5bc190666fea7c46f04f1c997f0e": {
+        "title": "February’s ‘panic’ rotation in stocks sets the stage for more tumult in March",
+        "link": "https://www.marketwatch.com/story/februarys-panic-rotation-in-stocks-sets-the-stage-for-more-tumult-in-march-557576ac?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 21:41:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.304937"
       }
     },
     "Ai": {
@@ -6635,13 +6695,19 @@
         "link": "https://www.qbitai.com/2026/02/382747.html",
         "published_date": "Fri, 27 Feb 2026 07:01:00 GMT",
         "first_seen": "2026-02-27T08:43:37.776650"
+      },
+      "4b4e7a0b2ad4cd70f58ca54a50174926b1d7e33a9fd2c381c742f5fca1f865ad": {
+        "title": "分拆百度Robotaxi萝卜快跑？李彦宏回应了",
+        "link": "https://www.qbitai.com/2026/02/382914.html",
+        "published_date": "Fri, 27 Feb 2026 09:17:00 GMT",
+        "first_seen": "2026-02-27T23:28:17.461057"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-27T08:43:37.598572",
-    "Finance": "2026-02-27T08:43:37.630901",
-    "Ai": "2026-02-27T08:43:37.776652"
+    "Technology": "2026-02-27T23:27:59.324693",
+    "Finance": "2026-02-27T23:28:17.304940",
+    "Ai": "2026-02-27T23:28:17.461065"
   }
 }

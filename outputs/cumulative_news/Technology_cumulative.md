@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 08:43
+**最后更新时间**: 2026-02-27 23:27
+
+---
+
+## 🆕 最新更新 (2026-02-27 23:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [约谈之后，OTA模式站上十字路口](https://www.tmtpost.com/7873352.html)
+**发布时间**: 2026-02-27 19:41
+
+#### [智能眼镜VITURE获得1亿美元的融资，君联资本领投](https://www.tmtpost.com/7892865.html)
+**发布时间**: 2026-02-27 18:59
+
+#### [Lemon AI获数千万Pre-A轮融资，天际资本独家投资](https://www.tmtpost.com/7892758.html)
+**发布时间**: 2026-02-27 18:57
+
+#### [今年春节，我被80岁的外婆反向教学AI](https://www.tmtpost.com/7892645.html)
+**发布时间**: 2026-02-27 18:55
+
+#### [“招商伊敦”号被卖：中国为什么留不住豪华邮轮？](https://www.tmtpost.com/7892851.html)
+**发布时间**: 2026-02-27 18:55
+
+#### [不吹不黑，海外创作者实测Seedance2.0：这些功能秒杀Sora，那些短板却让人头疼](https://www.tmtpost.com/7892839.html)
+**发布时间**: 2026-02-27 18:55
+
+#### [开年收锂矿、买金矿，盛屯系姚老板的隐秘矿业帝国](https://www.tmtpost.com/7892852.html)
+**发布时间**: 2026-02-27 18:55
+
+#### [年轻人的化妆包，找不出一支完美日记](https://www.tmtpost.com/7892853.html)
+**发布时间**: 2026-02-27 18:54
+
+#### [AI繁荣的背面，是智能手机正在失去主导权](https://www.tmtpost.com/7892843.html)
+**发布时间**: 2026-02-27 18:53
+
+#### [五大变化，存储芯片，竞争核心变了](https://www.tmtpost.com/7892844.html)
+**发布时间**: 2026-02-27 18:49
+
+#### [手机行业涨价大潮扑来：内存猛涨80%还未到顶，千元机或将消失](https://www.tmtpost.com/7892741.html)
+**发布时间**: 2026-02-27 18:49
+
+#### [下一个“泡泡玛特”，藏在AI玩具里？](https://www.tmtpost.com/7892726.html)
+**发布时间**: 2026-02-27 18:49
+
+#### [千问入局，OPEN AI搬出全家桶：2026，AI硬件是离钱最近的地方](https://www.tmtpost.com/7892742.html)
+**发布时间**: 2026-02-27 18:47
+
+#### [刘建军功成身退，芦苇接棒的邮储银行如何再进一步？](https://www.tmtpost.com/7892842.html)
+**发布时间**: 2026-02-27 18:44
+
+#### [民德电子10亿定增：产能爬坡未竟再扩产，前次募投项目“失速”阴影仍存](https://www.tmtpost.com/7892818.html)
+**发布时间**: 2026-02-27 18:40
+
+#### [全美最成功养老社区Sun City，花65年时间搭建医护体系，破解3万老人医疗难题](https://www.tmtpost.com/7892520.html)
+**发布时间**: 2026-02-27 17:29
+
+#### [白宫“电费承诺”引爆全球AI能源博弈](https://www.tmtpost.com/7892638.html)
+**发布时间**: 2026-02-27 17:29
+
+#### [从焦虑到真香，小镇青年爱上开电车回乡过年](https://www.tmtpost.com/7892567.html)
+**发布时间**: 2026-02-27 17:29
+
+#### [庞若鸣舍弃两亿美元投奔OpenAI，Meta究竟烂到什么地步了？](https://www.tmtpost.com/7892539.html)
+**发布时间**: 2026-02-27 17:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [关于采用 Snowflake Internal Marketplace 的最佳实践 ｜技术实践](https://www.infoq.cn/article/k3dDblNcrtKHEsNTVCOp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 19:27
+
+#### [Claude Code 上线自动记忆功能，不再反复解释项目背景](https://www.infoq.cn/article/QTPQmPZ1DsSBjTTymgK3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 19:00
+
+#### [DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%](https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 18:00
+
+#### [从表格到网络：图分析智能体如何重构工业决策体系 ｜ 技术实践](https://www.infoq.cn/article/qr0XQAgvL68v0tCQsWIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 17:09
+
+#### [赌上 AI 未来，万人团队裁掉近半！前推特 CEO放话：一年后大多数公司都得这么干](https://www.infoq.cn/article/qfMmsgNWxKT46dfkzlF4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-27 16:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/106661)
+**发布时间**: 2026-02-27 17:40
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蔚来“分芯”：李斌暂缓一下焦虑](http://www.huxiu.com/article/4837479.html?f=wangzhan)
+**发布时间**: 2026-02-27 17:10
 
 ---
 

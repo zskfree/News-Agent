@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Feb 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 08:43:37 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 23:28:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了</title>
-      <link>https://www.qbitai.com/2026/02/382776.html</link>
-      <description>&lt;![CDATA[反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 07:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382776.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阶跃星辰杀入季后赛，强势跻身AI“新六小虎”第一梯队</title>
-      <link>https://www.qbitai.com/2026/02/382747.html</link>
-      <description>&lt;![CDATA[阶跃星辰杀入季后赛，强势跻身AI“新六小虎”第一梯队]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 07:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382747.html</guid>
+      <title>分拆百度Robotaxi萝卜快跑？李彦宏回应了</title>
+      <link>https://www.qbitai.com/2026/02/382914.html</link>
+      <description>&lt;![CDATA[分拆百度Robotaxi萝卜快跑？李彦宏回应了]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382914.html</guid>
       <category>Ai</category>
     </item>
   </channel>
