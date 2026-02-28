@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-28 08:32
+**最后更新时间**: 2026-02-28 23:26
+
+---
+
+## 🆕 最新更新 (2026-02-28 23:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors should brace for more than a brief military campaign as Trump says Iran’s Supreme Leader Khamenei is dead](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 22:40
+
+#### [Drone warfare could mean investors need a new guidebook for this Iran conflict](https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 22:31
+
+#### [‘She spent $1,000 a month on weight-loss drugs’: My son wrecked his finances after meeting his girlfriend. Who’s to blame?](https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 20:45
+
+#### [‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15,000 on a new one?](https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 20:27
+
+#### [The U.S.-Israel attack on Iran will wreak havoc on international air travel](https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 19:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Panic in the Gulf as Iran lashes out at US allies](https://www.ft.com/content/136d9ad6-f427-4bea-bbb2-5df8fb5decec)
+**发布时间**: 2026-02-28 22:34
+
+#### [Military briefing: The US-Israeli strikes and Iran’s retaliation](https://www.ft.com/content/be65f1b1-ed37-4821-b024-10ec7a198f25)
+**发布时间**: 2026-02-28 22:26
+
+#### [Netanyahu’s ‘biggest decision’: Israeli leader pursues regime change in Iran](https://www.ft.com/content/6a2d48ce-1505-4710-900a-25f40799b679)
+**发布时间**: 2026-02-28 21:53
+
+#### [Iran’s supreme leader Khamenei is dead, Trump says](https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138)
+**发布时间**: 2026-02-28 21:45
+
+#### [Strike on Iranian primary school kills 108, authorities say](https://www.ft.com/content/055d7ee1-0002-4d86-931f-18f4687d4f8b)
+**发布时间**: 2026-02-28 19:49
+
+#### [Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking](https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e)
+**发布时间**: 2026-02-28 18:14
+
+#### [Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz](https://www.ft.com/content/2dc114d0-5bb3-4fae-b538-9a050954549a)
+**发布时间**: 2026-02-28 16:07
+
+#### [Why now? Trump’s shifting arguments for striking Iran](https://www.ft.com/content/5fd1ae94-a850-4151-9be3-0258ff222ccb)
+**发布时间**: 2026-02-28 15:40
+
+#### [Tehran started its working week. Then came the explosions](https://www.ft.com/content/97db4b54-ebd6-4210-8f66-6917f157823a)
+**发布时间**: 2026-02-28 14:53
+
+#### [How will strikes on Iran affect global energy flows?](https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d)
+**发布时间**: 2026-02-28 12:38
 
 ---
 

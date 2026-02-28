@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c221e765a498c6547879e7ee06b797f1195f207b56123fbc882c68141f7e1ec3": {
-        "title": "智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线",
-        "link": "https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 14:47:00 GMT",
-        "first_seen": "2026-01-29T08:47:47.212089"
-      },
-      "004d4130575650d7a3cf6e3c5d08a9a172ef7adba978bc27ed0ecff1a006432b": {
-        "title": "LangChain 创始人警告：2026 成为“Agent 工程”分水岭，传统软件公司的生存考验开始了",
-        "link": "https://www.infoq.cn/article/2XfMOshHpdVVKjB2hxms?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 16:18:00 GMT",
-        "first_seen": "2026-01-29T08:47:47.212095"
-      },
-      "93a554f544213c2c71438b9b7b8b5ba2aeb2492c1afe6de8b77d0deee52f411f": {
-        "title": "Linus 之后的 Linux？内核社区终于写下“接班预案”",
-        "link": "https://www.infoq.cn/article/rxKQhGxLH5lYkeo51kCZ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 16:12:00 GMT",
-        "first_seen": "2026-01-29T08:47:47.212097"
-      },
-      "44e66040c19a8dc3b82cd328a4489b59d62d13eb000ea5b900276be4b1cf1df8": {
-        "title": "不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？",
-        "link": "https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-29T08:47:47.212098"
-      },
-      "83aedc2f68c66e0193610b3bfd03eb7e1df0aadeeb89c1239d4c91dec9fc8c00": {
-        "title": "“AI在一线：开发人员如何重塑软件开发流程” ｜圆桌讨论",
-        "link": "https://www.infoq.cn/article/btdQGESEtDXJQPTxVCYF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-29T08:47:47.212100"
-      },
       "eb5f9db874b24643cf8204c87f9e3ea0bee99118dc7a3ad8e295b0c8c3bd60bb": {
         "title": "硅谷最新调研：2026年，AI  Agent到底会走向哪？",
         "link": "https://www.tmtpost.com/7859884.html",
@@ -2725,21 +2695,39 @@
         "link": "https://www.tmtpost.com/7893789.html",
         "published_date": "Sat, 28 Feb 2026 14:45:00 GMT",
         "first_seen": "2026-02-28T08:32:48.707553"
+      },
+      "b4dcc323801f78c3508d9bf076ba3d5fd57d3c5834fdd2ab845f0fa2b526c843": {
+        "title": "中国AI的“成本奇迹”能持续多久——一个三角结构的脆弱与韧性",
+        "link": "https://www.tmtpost.com/7894340.html",
+        "published_date": "Sat, 28 Feb 2026 19:16:00 GMT",
+        "first_seen": "2026-02-28T23:26:44.377484"
+      },
+      "c0d80a252c5a120e4ff5f76abc7ee0c9aa436df31db8a1b5d81f70c35500ef27": {
+        "title": "谷歌 Nano Banana 2 一夜补齐短板，各种图解都能画，价格才是 OpenAI 一半",
+        "link": "https://www.infoq.cn/article/GcPU9NHkexyuriC2cBM2?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 15:18:00 GMT",
+        "first_seen": "2026-02-28T23:26:44.377492"
+      },
+      "e7e701dc094466655ebf9de4398dc0a326591e6fb6f16e9a6c3312fdc05ea1cb": {
+        "title": "对话DeepMirror胡闻：OpenClaw正在重塑具身智能｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/7893172.html",
+        "published_date": "Sat, 28 Feb 2026 17:55:00 GMT",
+        "first_seen": "2026-02-28T23:26:44.377494"
+      },
+      "bde0f9e12d30450de0e3fb020aa444de5d131e76d1c5bcd6699cdd606b631028": {
+        "title": "AI 在生命科学领域 2026 年发展展望 ｜技术趋势",
+        "link": "https://www.infoq.cn/article/5Qb1JoQVqadUe9bviKm0?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:02:00 GMT",
+        "first_seen": "2026-02-28T23:26:44.377496"
+      },
+      "eba8eddd8953bac73314a6058cbd4e3cca218a55078b6711e7cdf2258a76c213": {
+        "title": "“翻版”豆包AI手机，谷歌和三星还是太保守了",
+        "link": "https://www.tmtpost.com/7894491.html",
+        "published_date": "Sat, 28 Feb 2026 21:08:00 GMT",
+        "first_seen": "2026-02-28T23:26:44.377499"
       }
     },
     "Finance": {
-      "b0cb9255ff47f4b34e48e8bc078862dc1401887e0a78f210b05b61eb01c1b0c2": {
-        "title": "Tesla scraps models in pivot to AI as annual revenue falls for first time",
-        "link": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
-        "published_date": "Thu, 29 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-29T08:47:08.969370"
-      },
-      "adf0b33c86b5447d0cd306b49275ee5e6f28570af5c0cf6d8e1ac5ca4d026a15": {
-        "title": "Top chipmakers to boost capital spending amid AI-driven supply squeeze",
-        "link": "https://www.ft.com/content/e56dd467-7a4d-437d-b7f8-f0ef2320b1ee",
-        "published_date": "Thu, 29 Jan 2026 07:03:00 GMT",
-        "first_seen": "2026-01-29T08:47:08.969377"
-      },
       "96294abd2512dfdab0c17506bb93d4f497f6b4280ebdbefdc3758bb8c8769505": {
         "title": "Stocks, gold and copper see big swings that show investors have few places to hide",
         "link": "https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories",
@@ -4701,39 +4689,39 @@
         "link": "https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138",
         "published_date": "Sat, 28 Feb 2026 08:11:00 GMT",
         "first_seen": "2026-02-28T08:32:48.741180"
+      },
+      "8ee01f561f2ddf71fefd3dec0e59137bf1b854a83e8e92a68f4dd742bdf07e34": {
+        "title": "Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking",
+        "link": "https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e",
+        "published_date": "Sat, 28 Feb 2026 18:14:00 GMT",
+        "first_seen": "2026-02-28T23:26:56.882103"
+      },
+      "91a342b2713123962079c8cd854b47d2ebb6768a721cd5dc0d94ea96d65dcc73": {
+        "title": "How will strikes on Iran affect global energy flows?",
+        "link": "https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d",
+        "published_date": "Sat, 28 Feb 2026 12:38:00 GMT",
+        "first_seen": "2026-02-28T23:26:56.882109"
+      },
+      "52d043c0dfda1dbb6899580091303d980b55de261d3f5b7a264a6d54eaff00be": {
+        "title": "Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz",
+        "link": "https://www.ft.com/content/2dc114d0-5bb3-4fae-b538-9a050954549a",
+        "published_date": "Sat, 28 Feb 2026 16:07:00 GMT",
+        "first_seen": "2026-02-28T23:26:56.882111"
+      },
+      "bc2283165ae6981d216acbae986d776be215a6be1625b0b1d18bbff38087ea1c": {
+        "title": "Investors should brace for more than a brief military campaign as Trump says Iran’s Supreme Leader Khamenei is dead",
+        "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
+        "published_date": "Sat, 28 Feb 2026 22:40:00 GMT",
+        "first_seen": "2026-02-28T23:26:56.882113"
+      },
+      "34a65d5f20de2fd32b361d63ab157e295d400c87cb1a429da05e44e98ea07845": {
+        "title": "The U.S.-Israel attack on Iran will wreak havoc on international air travel",
+        "link": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories",
+        "published_date": "Sat, 28 Feb 2026 19:50:00 GMT",
+        "first_seen": "2026-02-28T23:26:56.882114"
       }
     },
     "Ai": {
-      "5aba29a3a617efc1f9ba4fc6fbd683c8bae17e088f6316f61914dfd4168f76fa": {
-        "title": "AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-5",
-        "published_date": "Thu, 29 Jan 2026 14:16:00 GMT",
-        "first_seen": "2026-01-29T08:47:21.122196"
-      },
-      "8a6762a169c388c9406c2bddc55bc3879a2935a2f288252a113ce7b3b920390d": {
-        "title": "华中科技大学最新综述倡立多模态推荐系统新范式：从“选择内容”迈向“生成内容”",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-8",
-        "published_date": "Thu, 29 Jan 2026 16:30:00 GMT",
-        "first_seen": "2026-01-29T08:47:21.122202"
-      },
-      "e94fea1b49d73526d8603ac498ed179360d7898650faee1d4e41a722a1cb5f53": {
-        "title": "阿里AI芯片露真容 “通云哥”黄金三角浮出水面",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29",
-        "published_date": "Thu, 29 Jan 2026 10:25:00 GMT",
-        "first_seen": "2026-01-29T08:47:21.122205"
-      },
-      "850786a713a730d57850994cfbd0b8b4d09d20f4133e2f411019465ef228ba2d": {
-        "title": "亚马逊裁员16000人，员工竟用AI「算」出了裁员名单？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-9",
-        "published_date": "Thu, 29 Jan 2026 16:31:00 GMT",
-        "first_seen": "2026-01-29T08:47:21.122207"
-      },
-      "924ad21e7330cf8192f5b7790153d44e59395848d855b4630f15d034186f146b": {
-        "title": "来这场沙龙，一览SGLang X 超长上下文扩展、RL后训练框架、扩散语言模型等前沿技术实践",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-7",
-        "published_date": "Thu, 29 Jan 2026 16:28:00 GMT",
-        "first_seen": "2026-01-29T08:47:21.122208"
-      },
       "2320ee9ac35ef434f5673cc76618cfcba7d309b4f0babc6120284190ac1c599d": {
         "title": "刚刚，创智+模思发布开源版Sora2，电影级音视频同步生成，打破闭源技术垄断",
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-12",
@@ -6617,13 +6605,19 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-28/",
         "published_date": "Sat, 28 Feb 2026 10:41:00 GMT",
         "first_seen": "2026-02-28T05:35:41.072955"
+      },
+      "401b18f2cb77b4783c43ef102e4794e38285b1af68ceb19005d2415dbe9af0bb": {
+        "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
+        "link": "https://www.qbitai.com/2026/02/382952.html",
+        "published_date": "Sat, 28 Feb 2026 12:59:00 GMT",
+        "first_seen": "2026-02-28T23:26:57.026362"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-28T08:32:48.707555",
-    "Finance": "2026-02-28T08:32:48.741190",
-    "Ai": "2026-02-28T05:35:41.072963"
+    "Technology": "2026-02-28T23:26:44.377501",
+    "Finance": "2026-02-28T23:26:56.882117",
+    "Ai": "2026-02-28T23:26:57.026369"
   }
 }

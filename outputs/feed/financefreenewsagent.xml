@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Feb 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 08:32:48 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 23:26:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 23:26:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change</title>
-      <link>https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138</link>
-      <description>&lt;![CDATA[US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 08:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138</guid>
+      <title>Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking</title>
+      <link>https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e</link>
+      <description>&lt;![CDATA[Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How will strikes on Iran affect global energy flows?</title>
+      <link>https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d</link>
+      <description>&lt;![CDATA[How will strikes on Iran affect global energy flows?]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 12:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz</title>
+      <link>https://www.ft.com/content/2dc114d0-5bb3-4fae-b538-9a050954549a</link>
+      <description>&lt;![CDATA[Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2dc114d0-5bb3-4fae-b538-9a050954549a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors should brace for more than a brief military campaign as Trump says Iran’s Supreme Leader Khamenei is dead</title>
+      <link>https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors should brace for more than a brief military campaign as Trump says Iran’s Supreme Leader Khamenei is dead]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 22:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The U.S.-Israel attack on Iran will wreak havoc on international air travel</title>
+      <link>https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The U.S.-Israel attack on Iran will wreak havoc on international air travel]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
