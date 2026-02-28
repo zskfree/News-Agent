@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-28 05:35
+**最后更新时间**: 2026-02-28 08:32
+
+---
+
+## 🆕 最新更新 (2026-02-28 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [丰田2026开年成绩单：销量创纪录，产量却连跌3个月](https://www.tmtpost.com/7893375.html)
+**发布时间**: 2026-02-28 16:14
+
+#### [萨洛蒙大增始祖鸟放缓，亚玛芬靠品牌矩阵实现双位数增长](https://www.tmtpost.com/7893967.html)
+**发布时间**: 2026-02-28 15:33
+
+#### [营收近500亿，利润却缩水：3万店的瑞幸，钱去哪了？](https://www.tmtpost.com/7893823.html)
+**发布时间**: 2026-02-28 15:03
+
+#### [跨境电商再蒙阴霾，Goimagine宣布关停](https://www.tmtpost.com/7893810.html)
+**发布时间**: 2026-02-28 14:59
+
+#### [刘强东出手游艇产业](https://www.tmtpost.com/7893689.html)
+**发布时间**: 2026-02-28 14:51
+
+#### [三年投入超千亿，百度AI业务“必须”扛起大旗](https://www.tmtpost.com/7893789.html)
+**发布时间**: 2026-02-28 14:45
+
+#### [绝不存在“智能危机”](https://www.tmtpost.com/7893778.html)
+**发布时间**: 2026-02-28 14:45
+
+#### [硅谷最顶级的钱，正在押注AI这五件事](https://www.tmtpost.com/7893773.html)
+**发布时间**: 2026-02-28 14:44
+
+#### [1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO](https://www.tmtpost.com/7893706.html)
+**发布时间**: 2026-02-28 14:42
+
+#### [从留守宠物到万亿市场：春节如何点燃“它经济”？](https://www.tmtpost.com/7893729.html)
+**发布时间**: 2026-02-28 14:28
+
+#### [九号公司年营收增长超50%，实控人、红杉、小米却在悄悄减持](https://www.tmtpost.com/7893833.html)
+**发布时间**: 2026-02-28 14:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌 Nano Banana 2 一夜补齐短板，各种图解都能画，价格才是 OpenAI 一半](https://www.infoq.cn/article/GcPU9NHkexyuriC2cBM2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 15:18
+
+#### [Claude突遭特朗普高调 “封杀”！Altman公开声援“死对头”后，却用同款协议顺利过关了](https://www.infoq.cn/article/h8WsVXZzHtP9W6l2mQqO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 15:01
+
+#### [Cilium 十周年：为大规模集群带来更强的加密、更安全的策略与更清晰的可观测性](https://www.infoq.cn/article/hsajzR0xvFoaUYpTqVpO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [下一个泡泡玛特，藏在AI玩具里？](http://www.huxiu.com/article/4837730.html?f=wangzhan)
+**发布时间**: 2026-02-28 14:33
+
+#### [去年还说去火星，今年要在月球建城市，马斯克是变脸还是有新计划？](http://www.huxiu.com/article/4837349.html?f=wangzhan)
+**发布时间**: 2026-02-28 11:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码](https://sspai.com/post/106469)
+**发布时间**: 2026-02-28 13:47
+
+#### [年度征文｜2025 年育儿手记：从家到幼儿园](https://sspai.com/post/106488)
+**发布时间**: 2026-02-26 16:39
 
 ---
 

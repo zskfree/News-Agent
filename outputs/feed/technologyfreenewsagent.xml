@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Feb 2026 05:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 05:35:40 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:32:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”</title>
-      <link>https://www.tmtpost.com/7893183.html</link>
-      <description>&lt;![CDATA[史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7893183.html</guid>
+      <title>1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO</title>
+      <link>https://www.tmtpost.com/7893706.html</link>
+      <description>&lt;![CDATA[1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893706.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元</title>
-      <link>https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷最顶级的钱，正在押注AI这五件事</title>
+      <link>https://www.tmtpost.com/7893773.html</link>
+      <description>&lt;![CDATA[硅谷最顶级的钱，正在押注AI这五件事]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893773.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了</title>
-      <link>https://www.tmtpost.com/7892820.html</link>
-      <description>&lt;![CDATA[砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7892820.html</guid>
+      <title>英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？</title>
+      <link>https://www.tmtpost.com/7893527.html</link>
+      <description>&lt;![CDATA[英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893527.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI的下一步：智能体</title>
-      <link>https://www.tmtpost.com/7893450.html</link>
-      <description>&lt;![CDATA[AI的下一步：智能体]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7893450.html</guid>
+      <title>特斯拉干掉方向盘，中美自动驾驶终极对决</title>
+      <link>https://www.tmtpost.com/7893385.html</link>
+      <description>&lt;![CDATA[特斯拉干掉方向盘，中美自动驾驶终极对决]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893385.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型</title>
-      <link>https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>三年投入超千亿，百度AI业务“必须”扛起大旗</title>
+      <link>https://www.tmtpost.com/7893789.html</link>
+      <description>&lt;![CDATA[三年投入超千亿，百度AI业务“必须”扛起大旗]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893789.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Feb 2026 05:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 05:35:40 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:32:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic to sue Trump administration after AI lab is labelled security risk</title>
-      <link>https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585</link>
-      <description>&lt;![CDATA[Anthropic to sue Trump administration after AI lab is labelled security risk]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 03:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US court blocks landmark law limiting social media use for children</title>
-      <link>https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd</link>
-      <description>&lt;![CDATA[US court blocks landmark law limiting social media use for children]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 00:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>My brother is paranoid, alone and has forgotten that he sold his house. How can we help?</title>
-      <link>https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[My brother is paranoid, alone and has forgotten that he sold his house. How can we help?]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.</title>
-      <link>https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 23:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories</guid>
+      <title>US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change</title>
+      <link>https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138</link>
+      <description>&lt;![CDATA[US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 08:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138</guid>
       <category>Finance</category>
     </item>
   </channel>

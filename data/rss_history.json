@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7663345ed8034ae15d3cd9027697dcb60bd5022fd22abd6b05afb186fee9a511": {
-        "title": "又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成",
-        "link": "https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 10:44:00 GMT",
-        "first_seen": "2026-01-29T05:47:02.852435"
-      },
-      "f34e4b65a319875caac469618856561d366183368f803064d0a8b5ba54a55b5a": {
-        "title": "全球疯抢光刻机",
-        "link": "https://www.tmtpost.com/7859839.html",
-        "published_date": "Thu, 29 Jan 2026 13:05:00 GMT",
-        "first_seen": "2026-01-29T05:47:02.852441"
-      },
-      "7813ed8c6ba2cb3c71427b208113b16f34aeee4ea0b7801e414be4a09514c7c3": {
-        "title": "多次全球性中断后，Cloudflare推出了“Code Orange: Fail Small”韧性计划",
-        "link": "https://www.infoq.cn/article/lKcqZxO13IGomsA22W0N?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 10:53:00 GMT",
-        "first_seen": "2026-01-29T05:47:02.852443"
-      },
-      "565b61bbf5af99dae949877a35ef5cfdf6be930673feba108b75432ae74f6ca0": {
-        "title": "Rust贡献者推出新语言Rue，探索AI辅助编译器开发",
-        "link": "https://www.infoq.cn/article/amMNKG5vmN7LkiIA4ObY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 11:05:00 GMT",
-        "first_seen": "2026-01-29T05:47:02.852445"
-      },
-      "d2164c5be1fecce235948aab3154b04494bdf66e16c778a5c65cc346d2083fa5": {
-        "title": "被Anthropic强制要求改名！Clawdbot 创始人一人开发、100% AI 写代码，腾讯又跟上了热度",
-        "link": "https://www.infoq.cn/article/Nb7WV3WYhhCoGdlq6MZy?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Jan 2026 09:54:00 GMT",
-        "first_seen": "2026-01-29T05:47:02.852446"
-      },
       "c221e765a498c6547879e7ee06b797f1195f207b56123fbc882c68141f7e1ec3": {
         "title": "智源多模态大模型登Nature，确立自回归成为生成式人工智能统一路线",
         "link": "https://www.infoq.cn/article/Xr6XspENqsQuZuVvwQqQ?utm_source=rss&utm_medium=article",
@@ -2725,39 +2695,39 @@
         "link": "https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 28 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-28T05:35:40.909621"
+      },
+      "abf77f11a2ff732ba858848c03a9d10408af4dee3dae32da70a6a955bd0ced9f": {
+        "title": "1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO",
+        "link": "https://www.tmtpost.com/7893706.html",
+        "published_date": "Sat, 28 Feb 2026 14:42:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.707538"
+      },
+      "cec50fde1385128d5e5ecfef0cadfb651d176be6e34dfc05a4379117182462a2": {
+        "title": "硅谷最顶级的钱，正在押注AI这五件事",
+        "link": "https://www.tmtpost.com/7893773.html",
+        "published_date": "Sat, 28 Feb 2026 14:44:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.707546"
+      },
+      "39d6c0c6a941ba5d7d5dd4e3afd6b4f58e601b5e6ccc783db6d1572a8c2f5508": {
+        "title": "英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？",
+        "link": "https://www.tmtpost.com/7893527.html",
+        "published_date": "Sat, 28 Feb 2026 11:33:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.707549"
+      },
+      "c0094b13bade6bf9b47e8185c7da77dc118eca6cf77abe7d9d5cda3bfa99ec38": {
+        "title": "特斯拉干掉方向盘，中美自动驾驶终极对决",
+        "link": "https://www.tmtpost.com/7893385.html",
+        "published_date": "Sat, 28 Feb 2026 10:52:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.707551"
+      },
+      "1018c76e09d7e44de9fcb77b2176e3038c81cca5a42159637a6597d3777bcb8d": {
+        "title": "三年投入超千亿，百度AI业务“必须”扛起大旗",
+        "link": "https://www.tmtpost.com/7893789.html",
+        "published_date": "Sat, 28 Feb 2026 14:45:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.707553"
       }
     },
     "Finance": {
-      "56395b67d56e74b89938d138fafd941b1360aeb7444f4cd984db6642fd9e1752": {
-        "title": "Trump’s ‘beautiful armada’ underlines US threat to Iran",
-        "link": "https://www.ft.com/content/c1218f3a-0e56-43d3-bd8e-c5ab911394db",
-        "published_date": "Thu, 29 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-29T05:46:21.981006"
-      },
-      "36da6972700d86d84fe9377692947f66ad870b7ef577bb7c4ff2072ab2683f64": {
-        "title": "Starmer tells Xi UK wants more ‘sophisticated’ relationship with China",
-        "link": "https://www.ft.com/content/db6ce84e-c597-4fbe-baed-419b03200831",
-        "published_date": "Thu, 29 Jan 2026 04:08:00 GMT",
-        "first_seen": "2026-01-29T05:46:21.981014"
-      },
-      "466febe7cbb7559f9e44854651522a1b6d0a5379a56ffba3232ec6a017d16962": {
-        "title": "UK vehicle output hits lowest since 1950s as companies weigh defence shift",
-        "link": "https://www.ft.com/content/584c178c-8092-4bac-ac0b-49d94925d277",
-        "published_date": "Thu, 29 Jan 2026 00:01:00 GMT",
-        "first_seen": "2026-01-29T05:46:21.981017"
-      },
-      "55d0db1c14e01197b73721247d066c61ee39fd2bddde76c0c70d17f4fcfd732d": {
-        "title": "‘I wouldn’t dare take these drugs . . . I just sell them’: how China supplies untested peptides to the west",
-        "link": "https://www.ft.com/content/b15407bd-7b86-45c3-9780-0c92117ccbfb",
-        "published_date": "Thu, 29 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-29T05:46:21.981019"
-      },
-      "e71f6ef238ee92c9e74dd2e51d625c11dcb961d9b850e5c0ff471399bccd1efd": {
-        "title": "Micron and other chip stocks are seeing a big boost after these comments",
-        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Jan 2026 23:38:00 GMT",
-        "first_seen": "2026-01-29T05:46:21.981021"
-      },
       "b0cb9255ff47f4b34e48e8bc078862dc1401887e0a78f210b05b61eb01c1b0c2": {
         "title": "Tesla scraps models in pivot to AI as annual revenue falls for first time",
         "link": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
@@ -4725,39 +4695,15 @@
         "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
         "published_date": "Fri, 27 Feb 2026 23:30:00 GMT",
         "first_seen": "2026-02-28T05:35:40.940977"
+      },
+      "2f178d7022191e911336cbead68157791e623392ae5b19cabec2434cea437e1d": {
+        "title": "US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change",
+        "link": "https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138",
+        "published_date": "Sat, 28 Feb 2026 08:11:00 GMT",
+        "first_seen": "2026-02-28T08:32:48.741180"
       }
     },
     "Ai": {
-      "a7f929d44a3b0476fca2acf2bb110e3b6f30f2ca7ca2ef68f38aef4f4529dd44": {
-        "title": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-2",
-        "published_date": "Thu, 29 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-29T05:46:36.622292"
-      },
-      "bddc8d8f1b044d9db8701d9f01d556011b91848edc4499d5f672ba86676a9574": {
-        "title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
-        "link": "https://www.qbitai.com/2026/01/373755.html",
-        "published_date": "Thu, 29 Jan 2026 02:57:00 GMT",
-        "first_seen": "2026-01-29T05:46:36.622299"
-      },
-      "5e225e12fad964ba198a20b5e865e9f422805b1ee3870ef9161a9b9ca23ea7e6": {
-        "title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
-        "link": "https://www.qbitai.com/2026/01/373744.html",
-        "published_date": "Thu, 29 Jan 2026 02:38:00 GMT",
-        "first_seen": "2026-01-29T05:46:36.622326"
-      },
-      "c1da31cafb1433e24af26a24e6bd7d7837db689f49dcf48ccf69cfaca98021be": {
-        "title": "JustGRPO：扩散语言模型的极简主义回归",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-3",
-        "published_date": "Thu, 29 Jan 2026 11:24:00 GMT",
-        "first_seen": "2026-01-29T05:46:36.622331"
-      },
-      "fc2ad29522e73a4cc6452aa7af2c4408bba3f08ff760630d2fc55fcde9289045": {
-        "title": "一觉醒来，Clawdbot突然操纵电脑开口说话了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-29-4",
-        "published_date": "Thu, 29 Jan 2026 11:27:00 GMT",
-        "first_seen": "2026-01-29T05:46:36.622334"
-      },
       "5aba29a3a617efc1f9ba4fc6fbd683c8bae17e088f6316f61914dfd4168f76fa": {
         "title": "AI破解基因组天书，可分析1兆碱基，谷歌DeepMind模型AlphaGenome登《Nature》封面",
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-5",
@@ -6676,8 +6622,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-28T05:35:40.909623",
-    "Finance": "2026-02-28T05:35:40.940980",
+    "Technology": "2026-02-28T08:32:48.707555",
+    "Finance": "2026-02-28T08:32:48.741190",
     "Ai": "2026-02-28T05:35:41.072963"
   }
 }
