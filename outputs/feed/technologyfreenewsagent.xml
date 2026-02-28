@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Feb 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 23:27:59 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 05:35:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 05:35:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%</title>
-      <link>https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”</title>
+      <link>https://www.tmtpost.com/7893183.html</link>
+      <description>&lt;![CDATA[史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893183.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达四季度财报，比超预期更可怕的是还没见顶</title>
-      <link>https://www.tmtpost.com/7892277.html</link>
-      <description>&lt;![CDATA[英伟达四季度财报，比超预期更可怕的是还没见顶]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 14:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7892277.html</guid>
+      <title>史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元</title>
+      <link>https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI繁荣的背面，是智能手机正在失去主导权</title>
-      <link>https://www.tmtpost.com/7892843.html</link>
-      <description>&lt;![CDATA[AI繁荣的背面，是智能手机正在失去主导权]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7892843.html</guid>
+      <title>砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了</title>
+      <link>https://www.tmtpost.com/7892820.html</link>
+      <description>&lt;![CDATA[砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7892820.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>白宫“电费承诺”引爆全球AI能源博弈</title>
-      <link>https://www.tmtpost.com/7892638.html</link>
-      <description>&lt;![CDATA[白宫“电费承诺”引爆全球AI能源博弈]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7892638.html</guid>
+      <title>AI的下一步：智能体</title>
+      <link>https://www.tmtpost.com/7893450.html</link>
+      <description>&lt;![CDATA[AI的下一步：智能体]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7893450.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>五大变化，存储芯片，竞争核心变了</title>
-      <link>https://www.tmtpost.com/7892844.html</link>
-      <description>&lt;![CDATA[五大变化，存储芯片，竞争核心变了]]&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7892844.html</guid>
+      <title>苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型</title>
+      <link>https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型]]&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

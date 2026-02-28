@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 23:27
+**最后更新时间**: 2026-02-28 05:35
+
+---
+
+## 🆕 最新更新 (2026-02-28 05:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Spring近期资讯：Boot、Security、Integration、Modulith、AMQP的第二个里程碑版本发布](https://www.infoq.cn/article/lprDgM0RJYaPUuvvGrq2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 13:00
+
+#### [从告警到事后分析：谷歌云SRE团队如何运用Gemini CLI应对服务中断](https://www.infoq.cn/article/Pw8vha4aUtY9C4xY28zf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 12:00
+
+#### [凭借全新数据原生开发工具，在 Snowflake 中更快地将创意投入生产 ｜ 技术趋势](https://www.infoq.cn/article/wyhHHtfbuk5U7JtVukBT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 11:59
+
+#### [史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元](https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 11:26
+
+#### [Snowflake 将 AI 就绪的企业数据置于您的指尖 ｜技术趋势](https://www.infoq.cn/article/MNGAbcgdBwPF6JoXbA9j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 11:23
+
+#### [AI 在生命科学领域 2026 年发展展望 ｜技术趋势](https://www.infoq.cn/article/5Qb1JoQVqadUe9bviKm0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 11:02
+
+#### [通过“Session 0”利用多样性打造高影响力团队](https://www.infoq.cn/article/M3ZMFMwR9kvA31kz5tXr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 10:00
+
+#### [苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型](https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-28 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [20年一遇的创富窗口？擎天租机器人租赁，是风口，还是精准的收割？](https://www.tmtpost.com/7893582.html)
+**发布时间**: 2026-02-28 12:09
+
+#### [合众合姚哲：未来五年要做“百店小王子”，不盲目追求千店万店](https://www.tmtpost.com/7893562.html)
+**发布时间**: 2026-02-28 12:03
+
+#### [一剂猛药，姜云涛能否盘活长春高新？](https://www.tmtpost.com/7893550.html)
+**发布时间**: 2026-02-28 12:00
+
+#### [围攻侏儒症“药王”](https://www.tmtpost.com/7893534.html)
+**发布时间**: 2026-02-28 11:52
+
+#### [Workday创始人回归能否挽救AI转型困境？股价暴跌10%引市场质疑](https://www.tmtpost.com/7891376.html)
+**发布时间**: 2026-02-28 11:50
+
+#### [砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了](https://www.tmtpost.com/7892820.html)
+**发布时间**: 2026-02-28 11:49
+
+#### [中年人的精神救赎，抵押房产，赌上全部积蓄做游戏](https://www.tmtpost.com/7893530.html)
+**发布时间**: 2026-02-28 11:43
+
+#### [英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？](https://www.tmtpost.com/7893527.html)
+**发布时间**: 2026-02-28 11:33
+
+#### [一年关店2000家，民营酒店集团不再“走量”](https://www.tmtpost.com/7893516.html)
+**发布时间**: 2026-02-28 11:25
+
+#### [瑞幸2025年配送费超68亿，外卖大战之下的盈利博弈](https://www.tmtpost.com/7893725.html)
+**发布时间**: 2026-02-28 11:22
+
+#### [AI的下一步：智能体](https://www.tmtpost.com/7893450.html)
+**发布时间**: 2026-02-28 11:18
+
+#### [保险业开始把AI风险写进条款](https://www.tmtpost.com/7886482.html)
+**发布时间**: 2026-02-28 11:12
+
+#### [松下委身创维，日本彩电再无“独立路线 ”](https://www.tmtpost.com/7893151.html)
+**发布时间**: 2026-02-28 11:07
+
+#### [2026年将新开1000家门店，麦当劳中国市场加速冲刺万店](https://www.tmtpost.com/7893693.html)
+**发布时间**: 2026-02-28 11:06
+
+#### [20天赚一年的钱，月之暗面开窍了？](https://www.tmtpost.com/7893394.html)
+**发布时间**: 2026-02-28 11:01
+
+#### [史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”](https://www.tmtpost.com/7893183.html)
+**发布时间**: 2026-02-28 11:00
+
+#### [“世界铜王”百亿债务压顶，王文银能否靠锂电底牌翻盘？](https://www.tmtpost.com/7893376.html)
+**发布时间**: 2026-02-28 10:59
+
+#### [大佬的2025：王兴兴拒绝捧杀](https://www.tmtpost.com/7893416.html)
+**发布时间**: 2026-02-28 10:56
+
+#### [亏损超10亿，千亿创新药龙头百利天恒，“闯关”之路还在继续](https://www.tmtpost.com/7893415.html)
+**发布时间**: 2026-02-28 10:56
+
+#### [特斯拉干掉方向盘，中美自动驾驶终极对决](https://www.tmtpost.com/7893385.html)
+**发布时间**: 2026-02-28 10:52
 
 ---
 

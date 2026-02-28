@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0ee36b866a9dcb23e73da0db7ec76259c46675d060ec0df8617b402b7cda8e48": {
-        "title": "GPT-5.2破解数论猜想获陶哲轩认证！OpenAI副总裁曝大动作：正改模型核心设计，吊打90%研究生但难出颠覆性发现",
-        "link": "https://www.infoq.cn/article/i28k7YAzhOCUETypChCa?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 18:09:00 GMT",
-        "first_seen": "2026-01-28T23:29:03.595901"
-      },
-      "8c5fc5046c7c3280c8c79bf1cd231ddf56b8481ce5d005ce1cb1a242e115ec28": {
-        "title": "喊话特朗普重视AI风险，Anthropic CEO万字长文写应对方案，这方案也是Claude辅助完成的",
-        "link": "https://www.infoq.cn/article/cRaRb2Qqo5wi63K2EUEz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Jan 2026 19:26:00 GMT",
-        "first_seen": "2026-01-28T23:29:03.595908"
-      },
-      "a82c13984096a7703de67894dcb03d0cbc41527059e7520aa13318fb1aef3544": {
-        "title": "为什么L3还没正式上路，汽车公司却要直接跳过?",
-        "link": "https://www.tmtpost.com/7859082.html",
-        "published_date": "Wed, 28 Jan 2026 19:53:00 GMT",
-        "first_seen": "2026-01-28T23:29:03.595910"
-      },
-      "09e87d4fa0bccb62fa0bab29e7ee6f47fbcbf3e386da68484ba2654f2e18f8f4": {
-        "title": "苹果的 Vision Pro ，或许还能再“抢救一下”",
-        "link": "https://www.tmtpost.com/7858789.html",
-        "published_date": "Wed, 28 Jan 2026 19:30:00 GMT",
-        "first_seen": "2026-01-28T23:29:03.595912"
-      },
-      "5a060dd4bad4355a607487224f02f70ef52ef88dcf6f18f13d9cbb2c7835066f": {
-        "title": "Kimi 玩了把大的，Agent 团战的时代要来了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530960&idx=1&sn=a0ae64f739e9f669bc9eca8cb4c4c085",
-        "published_date": "Wed, 28 Jan 2026 15:14:00 GMT",
-        "first_seen": "2026-01-28T23:29:03.595913"
-      },
       "7663345ed8034ae15d3cd9027697dcb60bd5022fd22abd6b05afb186fee9a511": {
         "title": "又一款世界模型宣布开源！对标 Genie 3、10分钟长视频无损生成",
         "link": "https://www.infoq.cn/article/wPVrPmGCbw49Nxtct4RW?utm_source=rss&utm_medium=article",
@@ -2725,39 +2695,39 @@
         "link": "https://www.tmtpost.com/7892844.html",
         "published_date": "Fri, 27 Feb 2026 18:49:00 GMT",
         "first_seen": "2026-02-27T23:27:59.324692"
+      },
+      "a696c08e6855d9081cc67dc83bc49338917bdfbb419c9e5f676dbf0f78198b90": {
+        "title": "史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”",
+        "link": "https://www.tmtpost.com/7893183.html",
+        "published_date": "Sat, 28 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.909604"
+      },
+      "82f5642ec263540e96de2f818b997ea9c376cc3b1e9044a4b4fff509b04f1081": {
+        "title": "史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元",
+        "link": "https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 11:26:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.909615"
+      },
+      "a4b873f35283f68f3c853ca358cebb70e98a07001201e4b10721f0f938892f02": {
+        "title": "砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了",
+        "link": "https://www.tmtpost.com/7892820.html",
+        "published_date": "Sat, 28 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.909617"
+      },
+      "1c2198170c4b589c1943e489209795487419299ed5f9134887da2a1e878b37d1": {
+        "title": "AI的下一步：智能体",
+        "link": "https://www.tmtpost.com/7893450.html",
+        "published_date": "Sat, 28 Feb 2026 11:18:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.909619"
+      },
+      "0836d6948123fadd3309b600e5fc5e5bc3237eebd7bfd2c484ad25d15324b60b": {
+        "title": "苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型",
+        "link": "https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.909621"
       }
     },
     "Finance": {
-      "a8d416ac67582315e17a3807d916ad23f29a6c1c47f90a36f0fd97b859e65808": {
-        "title": "Federal Reserve signals no rush to cut rates as economy powers ahead",
-        "link": "https://www.ft.com/content/561faeca-845a-4508-bbc2-a20489ac40f1",
-        "published_date": "Wed, 28 Jan 2026 21:08:00 GMT",
-        "first_seen": "2026-01-28T23:28:23.772906"
-      },
-      "a3ee1d7c4ac8d15abb338a1930d632d117d3243cb54472257ecafea9e485afb3": {
-        "title": "Bessent says Trump administration still pursuing ‘strong dollar policy’",
-        "link": "https://www.ft.com/content/e3fd65cd-a319-4cc1-a74b-5daa7f63799c",
-        "published_date": "Wed, 28 Jan 2026 15:42:00 GMT",
-        "first_seen": "2026-01-28T23:28:23.772914"
-      },
-      "af74fd9841323cbf4d9f754b262c36df486e8449ae368f8a9bf922a3a3bb62af": {
-        "title": "Tesla scraps 2 car models in pivot to AI as annual revenue falls for first time",
-        "link": "https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8",
-        "published_date": "Wed, 28 Jan 2026 23:17:00 GMT",
-        "first_seen": "2026-01-28T23:28:23.772917"
-      },
-      "4013b28133cc8bfa6120ad51a04ffa7aa78680fbdec6242fed8af4272ef6dc9d": {
-        "title": "Microsoft’s AI spending and disappointing cloud growth overshadow strong profits",
-        "link": "https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c",
-        "published_date": "Wed, 28 Jan 2026 22:42:00 GMT",
-        "first_seen": "2026-01-28T23:28:23.772919"
-      },
-      "a0744bd3f5fbbc57b9931bda03df37c644ed435ef851ac0186e94c1ddec86257": {
-        "title": "S&P 500 touches 7,000 for the first time, led by a surprising group of stocks",
-        "link": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Jan 2026 22:56:00 GMT",
-        "first_seen": "2026-01-28T23:28:23.772921"
-      },
       "56395b67d56e74b89938d138fafd941b1360aeb7444f4cd984db6642fd9e1752": {
         "title": "Trump’s ‘beautiful armada’ underlines US threat to Iran",
         "link": "https://www.ft.com/content/c1218f3a-0e56-43d3-bd8e-c5ab911394db",
@@ -4731,39 +4701,33 @@
         "link": "https://www.marketwatch.com/story/februarys-panic-rotation-in-stocks-sets-the-stage-for-more-tumult-in-march-557576ac?mod=mw_rss_topstories",
         "published_date": "Fri, 27 Feb 2026 21:41:00 GMT",
         "first_seen": "2026-02-27T23:28:17.304937"
+      },
+      "092b97f7a842b3b1e7957dfb1d1ef4ead9b4febd8023bbbb109605ee4048d32a": {
+        "title": "Anthropic to sue Trump administration after AI lab is labelled security risk",
+        "link": "https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585",
+        "published_date": "Sat, 28 Feb 2026 03:12:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.940966"
+      },
+      "c5b711b103fd180313dd1069447b84938982fe9532f29cbc4866618cacd85bf4": {
+        "title": "US court blocks landmark law limiting social media use for children",
+        "link": "https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd",
+        "published_date": "Sat, 28 Feb 2026 00:15:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.940974"
+      },
+      "a48684d1dd50a70b262abf9ac668ac3f409ad62cc9f13085adbd90bb3d9a03b5": {
+        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+        "published_date": "Sat, 28 Feb 2026 00:00:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.940976"
+      },
+      "f8cb7f318ec6185c7cd5d7d9b0b408b939d09bd11d398284e3cfcf56cf35449e": {
+        "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
+        "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Feb 2026 23:30:00 GMT",
+        "first_seen": "2026-02-28T05:35:40.940977"
       }
     },
     "Ai": {
-      "33b431b9b43beebb472ba660883eca26717ed219427bbd80cee3f96b2361b8a1": {
-        "title": "中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体",
-        "link": "https://www.qbitai.com/2026/01/373666.html",
-        "published_date": "Wed, 28 Jan 2026 12:08:00 GMT",
-        "first_seen": "2026-01-28T23:28:35.074959"
-      },
-      "126297eb790e295a027b7d9faf0fb2fda3162133d10ce0613ab9e069a4827540": {
-        "title": "字节跳动李航博士新作：AI智能体的通用框架",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-11",
-        "published_date": "Wed, 28 Jan 2026 23:28:00 GMT",
-        "first_seen": "2026-01-28T23:28:35.074965"
-      },
-      "992cd1173be48b818686822ff3549f495b5d5204535f5775b596400499d8a653": {
-        "title": "Towards a science of scaling agent systems: When and why agent systems work",
-        "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-        "published_date": "Wed, 28 Jan 2026 11:00:00 GMT",
-        "first_seen": "2026-01-28T23:28:35.074967"
-      },
-      "117f8cba71db4eb02ef940e3786459585359b4996dd977fd166f974e1c5b8014": {
-        "title": "蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争",
-        "link": "https://www.qbitai.com/2026/01/373649.html",
-        "published_date": "Wed, 28 Jan 2026 11:08:00 GMT",
-        "first_seen": "2026-01-28T23:28:35.074969"
-      },
-      "d6b69fdbf1ef33dc716cd44d73857d743e8a8511c1dd431fa0247239314399b8": {
-        "title": "万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-28-8",
-        "published_date": "Wed, 28 Jan 2026 13:31:00 GMT",
-        "first_seen": "2026-01-28T23:28:35.074971"
-      },
       "a7f929d44a3b0476fca2acf2bb110e3b6f30f2ca7ca2ef68f38aef4f4529dd44": {
         "title": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互",
         "link": "https://www.jiqizhixin.com/articles/2026-01-29-2",
@@ -6701,13 +6665,19 @@
         "link": "https://www.qbitai.com/2026/02/382914.html",
         "published_date": "Fri, 27 Feb 2026 09:17:00 GMT",
         "first_seen": "2026-02-27T23:28:17.461057"
+      },
+      "b6f3db0f58a6a61922f00b945f34aaa552c9945b950d13f5ce1fa7d8f0bd2b8b": {
+        "title": "2026-02-28日刊",
+        "link": "https://ai.hubtoday.app//2026-02/2026-02-28/",
+        "published_date": "Sat, 28 Feb 2026 10:41:00 GMT",
+        "first_seen": "2026-02-28T05:35:41.072955"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-27T23:27:59.324693",
-    "Finance": "2026-02-27T23:28:17.304940",
-    "Ai": "2026-02-27T23:28:17.461065"
+    "Technology": "2026-02-28T05:35:40.909623",
+    "Finance": "2026-02-28T05:35:40.940980",
+    "Ai": "2026-02-28T05:35:41.072963"
   }
 }
