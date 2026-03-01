@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Feb 2026 23:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 23:26:57 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 11:58:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 11:59:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号</title>
-      <link>https://www.qbitai.com/2026/02/382952.html</link>
-      <description>&lt;![CDATA[海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号]]&gt;</description>
-      <pubDate>Sat, 28 Feb 2026 12:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382952.html</guid>
+      <title>2026-03-01日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-01/</link>
+      <description>&lt;![CDATA[2026-03-01日刊]]&gt;</description>
+      <pubDate>Sun, 01 Mar 2026 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-01/</guid>
       <category>Ai</category>
     </item>
   </channel>

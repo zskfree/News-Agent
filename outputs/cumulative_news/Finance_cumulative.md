@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-28 23:26
+**最后更新时间**: 2026-03-01 11:59
+
+---
+
+## 🆕 最新更新 (2026-03-01 11:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Opec+ to raise oil output in bid to calm markets after US-Israel strikes kill Khamenei](https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491)
+**发布时间**: 2026-03-01 11:49
+
+#### [Strike on Iranian primary school kills 148, authorities say](https://www.ft.com/content/055d7ee1-0002-4d86-931f-18f4687d4f8b)
+**发布时间**: 2026-03-01 10:33
+
+#### [Trump tries to defy troubled history of US interventions in Middle East](https://www.ft.com/content/da633899-964a-42d7-a7a9-07c034fac388)
+**发布时间**: 2026-03-01 02:34
+
+#### [Ayatollah Ali Khamenei, Iran’s supreme leader, 1939-2026](https://www.ft.com/content/7ce98cd0-269f-4522-b1e4-bfb72aa43c3e)
+**发布时间**: 2026-03-01 01:59
+
+#### [US not planning to tap strategic reserve as Iran war risks oil surge](https://www.ft.com/content/e85a07da-9a74-4942-ae22-3945773aeb82)
+**发布时间**: 2026-02-28 23:50
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran](https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 09:04
+
+#### [Investors should brace for more than a brief military campaign in Iran](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 22:40
 
 ---
 
