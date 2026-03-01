@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-01 11:59
+**最后更新时间**: 2026-03-01 23:26
+
+---
+
+## 🆕 最新更新 (2026-03-01 23:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil jumps as Donald Trump vows to continue striking Iran](https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882)
+**发布时间**: 2026-03-01 23:05
+
+#### [Starmer will let US use UK bases for attacks on Iranian missile sites](https://www.ft.com/content/b988499b-1a89-4e56-b0cf-19d5a8ac7111)
+**发布时间**: 2026-03-01 22:57
+
+#### [Inside Tehran: an eerie quiet is punctuated by explosions and people fleeing](https://www.ft.com/content/c093bdf4-10e0-4e67-9cce-2409b9f9ff15)
+**发布时间**: 2026-03-01 18:10
+
+#### [Air travel heavily disrupted following Iranian strikes](https://www.ft.com/content/5fcfaf76-54e6-41f1-860b-0ca6c6380395)
+**发布时间**: 2026-03-01 17:02
+
+#### [Military briefing: Iran’s new retaliation strategy](https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2)
+**发布时间**: 2026-03-01 16:41
+
+#### [After Khamenei, who rules Iran?](https://www.ft.com/content/6fe57836-7392-471f-875d-293c7f2db7d4)
+**发布时间**: 2026-03-01 16:30
+
+#### [What will war in Iran do to the global economy?](https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456)
+**发布时间**: 2026-03-01 12:50
+
+#### [Trump has no realistic plan for Iran’s future](https://www.ft.com/content/437130e7-ed4e-4919-8bf3-ac38c2eed6af)
+**发布时间**: 2026-03-01 12:45
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Allegations of insider trading emerge over prediction-market bets tied to Iran conflict](https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 20:51
+
+#### [Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran](https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 19:17
+
+#### [U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.](https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 18:40
+
+#### [The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase](https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 18:18
+
+#### [Stocks face Iran jitters and a crucial jobs report in the week ahead](https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories)
+**发布时间**: 2026-03-01 17:00
 
 ---
 

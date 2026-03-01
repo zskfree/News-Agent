@@ -2665,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7894454.html",
         "published_date": "Sun, 01 Mar 2026 09:21:00 GMT",
         "first_seen": "2026-03-01T11:59:19.783832"
+      },
+      "4a6f31e7804761dc4974e7f2cf99a63458760e7678c1c5d5a8ec9a420a4e3a38": {
+        "title": "【钛晨报】中国首个国家级人形机器人与具身智能标准体系发布；英伟达计划推出新芯片以加速人工智能处理；主要产油国宣布4月增产",
+        "link": "https://www.tmtpost.com/7895142.html",
+        "published_date": "Mon, 02 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-01T23:26:35.961764"
+      },
+      "0eef4ae08dedc5d5bf2e6b37d0db4153cb712642712295b0d3b15ca1cb50558f": {
+        "title": "为了1100亿，OpenAI把理想做成了生意",
+        "link": "https://www.tmtpost.com/7895012.html",
+        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
+        "first_seen": "2026-03-01T23:26:35.961776"
+      },
+      "9876810c1569e1254ff1cb42dce7ee777fd68ef7ab3330c852689c9411e93560": {
+        "title": "盘点 4 个让 AI Agent 变强的 Skills。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531723&idx=1&sn=b6e3ea8752e949cebac7de93692bbb4f",
+        "published_date": "Sun, 01 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-01T23:26:35.961779"
+      },
+      "b69370bb6cd6bf7167818e7d7018d353ad270cb23a149630c27d7ef6cde9f3f8": {
+        "title": "业绩两连降，爱奇艺能否靠AI闯出一条新路？",
+        "link": "https://www.tmtpost.com/7895061.html",
+        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
+        "first_seen": "2026-03-01T23:26:35.961781"
+      },
+      "3594cf5fd1fd172b5c4f2fea57ccdd63557e5d94ae3f7ab29b2d6c7e941fa759": {
+        "title": "如果阿里千问买下“休克”的魅族手机",
+        "link": "https://www.tmtpost.com/7894867.html",
+        "published_date": "Sun, 01 Mar 2026 12:57:00 GMT",
+        "first_seen": "2026-03-01T23:26:35.961783"
       }
     },
     "Finance": {
@@ -4629,6 +4659,36 @@
         "link": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories",
         "published_date": "Sun, 01 Mar 2026 09:04:00 GMT",
         "first_seen": "2026-03-01T11:59:30.381898"
+      },
+      "372c5e5f87eabaa9b8f0ca9a67a5d400d7be5942bf592566db927b1eb9b89a33": {
+        "title": "What will war in Iran do to the global economy?",
+        "link": "https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456",
+        "published_date": "Sun, 01 Mar 2026 12:50:00 GMT",
+        "first_seen": "2026-03-01T23:26:49.975791"
+      },
+      "e8c9ab0212e2a0278f7f30f73b6dc452ed10b8c1b6bcf24573343e27244d2eea": {
+        "title": "Allegations of insider trading emerge over prediction-market bets tied to Iran conflict",
+        "link": "https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 20:51:00 GMT",
+        "first_seen": "2026-03-01T23:26:49.975798"
+      },
+      "d32f8ba03fca261cf56f9f771fd41c89c96f7f288f5993e60bfbccd33414696e": {
+        "title": "Military briefing: Iran’s new retaliation strategy",
+        "link": "https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2",
+        "published_date": "Sun, 01 Mar 2026 16:41:00 GMT",
+        "first_seen": "2026-03-01T23:26:49.975800"
+      },
+      "3bce0a1cadd0ffaa55ebc3623dae598532d3ed5c0ad3cb76b13c1311d57794b7": {
+        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
+        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 18:40:00 GMT",
+        "first_seen": "2026-03-01T23:26:49.975802"
+      },
+      "cff6dd6cc3f05251df7883744f01e0d1a9f46bb3993bc49f8ff9ce399c0a5d41": {
+        "title": "The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase",
+        "link": "https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 18:18:00 GMT",
+        "first_seen": "2026-03-01T23:26:49.975804"
       }
     },
     "Ai": {
@@ -6442,8 +6502,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-01T11:59:19.783834",
-    "Finance": "2026-03-01T11:59:30.381901",
+    "Technology": "2026-03-01T23:26:35.961785",
+    "Finance": "2026-03-01T23:26:49.975807",
     "Ai": "2026-03-01T11:59:30.530234"
   }
 }
