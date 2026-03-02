@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 05:54
+**最后更新时间**: 2026-03-02 08:50
+
+---
+
+## 🆕 最新更新 (2026-03-02 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices soar and stocks slide as Middle East conflict escalates](https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347)
+**发布时间**: 2026-03-02 08:46
+
+#### [Barclays blocked transactions linked to property lender MFS months before collapse](https://www.ft.com/content/4f1e97ac-57a5-4e06-91bb-537e270217d7)
+**发布时间**: 2026-03-02 05:00
+
+#### [Retail investors shun private credit funds after Blue Owl gating](https://www.ft.com/content/ea11d307-73af-4403-840d-b47dffce9cd0)
+**发布时间**: 2026-03-02 05:00
+
+#### [Israel targets Hizbollah as conflict widens across Middle East](https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882)
+**发布时间**: 2026-03-01 23:05
 
 ---
 

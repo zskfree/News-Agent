@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 05:54:58 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 08:51:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC</title>
-      <link>https://www.infoq.cn/article/HgmbXbAFT1E0T6qcuia0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HgmbXbAFT1E0T6qcuia0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%</title>
+      <link>https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：OpenAI 接替 Anthropic 与五角大楼达成合作</title>
-      <link>https://sspai.com/post/106730</link>
-      <description>&lt;![CDATA[派早报：OpenAI 接替 Anthropic 与五角大楼达成合作]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 07:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/106730</guid>
+      <title>把320个Claude Code实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏</title>
+      <link>https://www.infoq.cn/article/fljep6VyWggpxhCA89Xy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把320个Claude Code实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fljep6VyWggpxhCA89Xy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>热钱追逐，具身智能要先过异构计算这一关丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7895618.html</link>
-      <description>&lt;![CDATA[热钱追逐，具身智能要先过异构计算这一关丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7895618.html</guid>
+      <title>AI大模型Claude入列美军始末</title>
+      <link>https://www.tmtpost.com/7895454.html</link>
+      <description>&lt;![CDATA[AI大模型Claude入列美军始末]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7895454.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI扩展单主节点PostgreSQL，以处理ChatGPT每秒数百万次的查询</title>
-      <link>https://www.infoq.cn/article/LxfKX2WTqbG6flW9KcZ1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI扩展单主节点PostgreSQL，以处理ChatGPT每秒数百万次的查询]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LxfKX2WTqbG6flW9KcZ1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Hugging Face推出Community Evals功能，促进模型测试透明化</title>
+      <link>https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Hugging Face推出Community Evals功能，促进模型测试透明化]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>领跑干线无人货运，卡尔动力KargoBot完成超1亿美元B轮融资｜融资速递</title>
-      <link>https://www.tmtpost.com/7895707.html</link>
-      <description>&lt;![CDATA[领跑干线无人货运，卡尔动力KargoBot完成超1亿美元B轮融资｜融资速递]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7895707.html</guid>
+      <title>AI、黄金与能源：中东乱局背后的资产定价逻辑之变</title>
+      <link>https://www.tmtpost.com/7895767.html</link>
+      <description>&lt;![CDATA[AI、黄金与能源：中东乱局背后的资产定价逻辑之变]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7895767.html</guid>
       <category>Technology</category>
     </item>
   </channel>

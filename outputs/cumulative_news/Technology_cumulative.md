@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 05:54
+**最后更新时间**: 2026-03-02 08:50
+
+---
+
+## 🆕 最新更新 (2026-03-02 08:50)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小米舞超跑，意在“欧公子”？](http://www.huxiu.com/article/4838234.html?f=wangzhan)
+**发布时间**: 2026-03-02 15:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）](https://sspai.com/post/106467)
+**发布时间**: 2026-03-02 15:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon北京](https://www.infoq.cn/article/UbyRYdBINl5BJxElkJGj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 15:12
+
+#### [使用MCP、OPA和临时运行时为基础设施自动化构建一个最小权限AI智能体网关](https://www.infoq.cn/article/Lh3AppcUclgbul3phl2U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 15:00
+
+#### [Hugging Face推出Community Evals功能，促进模型测试透明化](https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 14:00
+
+#### [Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%](https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [1 天斩获 2000 的 Star！用 WiFi 检测人体姿态、监测生命特征？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531801&idx=1&sn=7cf0dd74a3fdfc94c7a27d1905156341)
+**发布时间**: 2026-03-02 15:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这个春天，机器人投资人都挤在东北养老院](https://www.tmtpost.com/7895663.html)
+**发布时间**: 2026-03-02 15:04
+
+#### [AI、黄金与能源：中东乱局背后的资产定价逻辑之变](https://www.tmtpost.com/7895767.html)
+**发布时间**: 2026-03-02 15:04
+
+#### [前星纪魅族CMO、CTO加入玄景AI眼镜，或接手魅族AI眼镜｜独家](https://www.tmtpost.com/7892744.html)
+**发布时间**: 2026-03-02 14:47
 
 ---
 

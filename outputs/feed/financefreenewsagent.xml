@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 05:54:58 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 08:51:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>In charts: how Donald Trump became a military interventionist</title>
-      <link>https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49</link>
-      <description>&lt;![CDATA[In charts: how Donald Trump became a military interventionist]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT</title>
-      <link>https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 01:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories</guid>
+      <title>Oil prices soar and stocks slide as Middle East conflict escalates</title>
+      <link>https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347</link>
+      <description>&lt;![CDATA[Oil prices soar and stocks slide as Middle East conflict escalates]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347</guid>
       <category>Finance</category>
     </item>
   </channel>

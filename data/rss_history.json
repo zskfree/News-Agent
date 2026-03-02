@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "46ada36b81456ff1e20061a22a0adeef0790488f525573af3352f6a4e9cc5727": {
-        "title": "平头哥八年蝶变，最凶猛的国产芯片",
-        "link": "https://www.tmtpost.com/7862406.html",
-        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
-        "first_seen": "2026-01-31T08:33:40.485316"
-      },
-      "b67f8ee5a496fa6e1e112ffca17b4ede4d77fa83fbdaee5378fd5d9824fd914e": {
-        "title": "早已“破圈”的庞天宇，能带领腾讯混元“破圈”吗？",
-        "link": "https://www.tmtpost.com/7862680.html",
-        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
-        "first_seen": "2026-01-31T08:33:40.485327"
-      },
-      "2967242fe487e9e17b314f8392bf38715a34cf7268eaaf52ac6fee33a11304aa": {
-        "title": "阿里决定对电商业务生理性断奶",
-        "link": "https://www.tmtpost.com/7862411.html",
-        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
-        "first_seen": "2026-01-31T08:33:40.485330"
-      },
-      "905456f2c89535f952b363989965c250d631884704b8876d2141de850a73c492": {
-        "title": "蔚小理齐迎“本命年”：逆风、过河与AI稻草",
-        "link": "https://www.tmtpost.com/7862222.html",
-        "published_date": "Sat, 31 Jan 2026 10:47:00 GMT",
-        "first_seen": "2026-01-31T08:33:40.485332"
-      },
-      "e05e845f1cb9eee451de487a880cd7e93e5d18ea9c4f45808d81794af75a68a2": {
-        "title": "Swift跨平台框架Skip现已完全开源",
-        "link": "https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 31 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-31T08:33:40.485334"
-      },
       "32865e06b5655f0ee91de57e1051c7987d31fd89a18f963339ee22d11879568c": {
         "title": "马云“腊八之约”畅谈AI，阿里狂甩“连炸”",
         "link": "https://www.tmtpost.com/7862342.html",
@@ -2665,6 +2635,36 @@
         "link": "https://www.tmtpost.com/7895707.html",
         "published_date": "Mon, 02 Mar 2026 12:14:00 GMT",
         "first_seen": "2026-03-02T05:54:58.218263"
+      },
+      "ea614b71a2d053003ff1c6d1bdff2d8b70e6c6c023a4292bb5afc7bad6f2d519": {
+        "title": "Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%",
+        "link": "https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.195701"
+      },
+      "6700da9a15452920224365e166c29bc5980dc4097855f46db8c246babb1d7c63": {
+        "title": "把320个Claude Code实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏",
+        "link": "https://www.infoq.cn/article/fljep6VyWggpxhCA89Xy?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Mar 2026 10:54:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.195712"
+      },
+      "3b7014a5b8fd25e801ecf15d0636ea90350c44b9f783456dae2f6c12cf3d9977": {
+        "title": "AI大模型Claude入列美军始末",
+        "link": "https://www.tmtpost.com/7895454.html",
+        "published_date": "Mon, 02 Mar 2026 09:25:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.195715"
+      },
+      "da51ec22a5bff7e85b7de998cd8f920aadb894310a4c81ce5d1a21ab20e5f5fd": {
+        "title": "Hugging Face推出Community Evals功能，促进模型测试透明化",
+        "link": "https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.195717"
+      },
+      "b6d612c6a475f0858344f6419a157ecf6e40feea84fc33965bfc686abc00574b": {
+        "title": "AI、黄金与能源：中东乱局背后的资产定价逻辑之变",
+        "link": "https://www.tmtpost.com/7895767.html",
+        "published_date": "Mon, 02 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.195719"
       }
     },
     "Finance": {
@@ -4623,6 +4623,12 @@
         "link": "https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories",
         "published_date": "Mon, 02 Mar 2026 01:32:00 GMT",
         "first_seen": "2026-03-02T05:54:58.251262"
+      },
+      "d02aef351d22f72ea30c3f08d2af980ea0c49c83b84b91ba9718d2a04e741e88": {
+        "title": "Oil prices soar and stocks slide as Middle East conflict escalates",
+        "link": "https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347",
+        "published_date": "Mon, 02 Mar 2026 08:46:00 GMT",
+        "first_seen": "2026-03-02T08:51:01.225270"
       }
     },
     "Ai": {
@@ -6418,8 +6424,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-02T05:54:58.218265",
-    "Finance": "2026-03-02T05:54:58.251265",
+    "Technology": "2026-03-02T08:51:01.195721",
+    "Finance": "2026-03-02T08:51:01.225278",
     "Ai": "2026-03-02T05:54:58.409698"
   }
 }
