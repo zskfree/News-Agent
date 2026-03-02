@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Mar 2026 23:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 23:26:49 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 05:54:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 05:54:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What will war in Iran do to the global economy?</title>
-      <link>https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456</link>
-      <description>&lt;![CDATA[What will war in Iran do to the global economy?]]&gt;</description>
-      <pubDate>Sun, 01 Mar 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456</guid>
+      <title>In charts: how Donald Trump became a military interventionist</title>
+      <link>https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49</link>
+      <description>&lt;![CDATA[In charts: how Donald Trump became a military interventionist]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Allegations of insider trading emerge over prediction-market bets tied to Iran conflict</title>
-      <link>https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Allegations of insider trading emerge over prediction-market bets tied to Iran conflict]]&gt;</description>
-      <pubDate>Sun, 01 Mar 2026 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Military briefing: Iran’s new retaliation strategy</title>
-      <link>https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2</link>
-      <description>&lt;![CDATA[Military briefing: Iran’s new retaliation strategy]]&gt;</description>
-      <pubDate>Sun, 01 Mar 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.</title>
-      <link>https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.]]&gt;</description>
-      <pubDate>Sun, 01 Mar 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase</title>
-      <link>https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase]]&gt;</description>
-      <pubDate>Sun, 01 Mar 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories</guid>
+      <title>Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT</title>
+      <link>https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 01:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

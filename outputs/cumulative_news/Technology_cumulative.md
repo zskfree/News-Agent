@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-01 23:26
+**最后更新时间**: 2026-03-02 05:54
+
+---
+
+## 🆕 最新更新 (2026-03-02 05:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [热钱追逐，具身智能要先过异构计算这一关丨ToB产业观察](https://www.tmtpost.com/7895618.html)
+**发布时间**: 2026-03-02 13:15
+
+#### [申请成为您的元宵限定贺卡！](https://www.tmtpost.com/7895748.html)
+**发布时间**: 2026-03-02 13:13
+
+#### [领跑干线无人货运，卡尔动力KargoBot完成超1亿美元B轮融资｜融资速递](https://www.tmtpost.com/7895707.html)
+**发布时间**: 2026-03-02 12:14
+
+#### [马斯克的终极赌局：不留接班人、只信自己，用速度换文明宽度](https://www.tmtpost.com/7895050.html)
+**发布时间**: 2026-03-02 11:44
+
+#### [体育大年来了：流量很猛，坑也很多](https://www.tmtpost.com/7895630.html)
+**发布时间**: 2026-03-02 11:43
+
+#### [AI短片进影院，被影迷大骂垃圾，AI真的不配吗？| 深度观察](https://www.tmtpost.com/7895558.html)
+**发布时间**: 2026-03-02 11:43
+
+#### [百亿拓竹逼大疆下场：3D打印赛道打响“代理人战争”](https://www.tmtpost.com/7887893.html)
+**发布时间**: 2026-03-02 11:43
+
+#### [劝君要做“优时比”](https://www.tmtpost.com/7895547.html)
+**发布时间**: 2026-03-02 11:43
+
+#### [MWC 2026开幕在即，看点来了](https://www.tmtpost.com/7895522.html)
+**发布时间**: 2026-03-02 11:43
+
+#### [一夜跌去1.77万亿元市值，黄仁勋与英伟达迎来中年危机？](https://www.tmtpost.com/7895499.html)
+**发布时间**: 2026-03-02 11:29
+
+#### [被DeepSeek逼入墙角后，Kimi反击战终于来了](https://www.tmtpost.com/7889888.html)
+**发布时间**: 2026-03-02 11:29
+
+#### [不用摄像头也能“穿墙识人”？获1.7万星的 WiFi DensePose，撕开了智能感知的底牌](https://www.tmtpost.com/7895566.html)
+**发布时间**: 2026-03-02 11:13
+
+#### [AI大模型Claude入列美军始末](https://www.tmtpost.com/7895454.html)
+**发布时间**: 2026-03-02 09:25
+
+#### [现代战争正在因为AI进入新形态](https://www.tmtpost.com/7895407.html)
+**发布时间**: 2026-03-02 09:24
+
+#### [瑞幸应该尽快摆脱外卖依赖症](https://www.tmtpost.com/7895219.html)
+**发布时间**: 2026-03-02 09:08
+
+#### [以色列突袭伊朗！炸弹落在德黑兰，亚洲能源安全要裸泳？](https://www.tmtpost.com/7895237.html)
+**发布时间**: 2026-03-02 09:03
+
+#### [暴涨186%！章源钨业，被钨价“带飞”](https://www.tmtpost.com/7895409.html)
+**发布时间**: 2026-03-02 08:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC](https://www.infoq.cn/article/HgmbXbAFT1E0T6qcuia0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 12:08
+
+#### [Cloudflare为R2引入本地上传功能，跨区域写入延迟降低75%](https://www.infoq.cn/article/klTAPJsfYeppQVQabE4z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 12:00
+
+#### [OpenAI扩展单主节点PostgreSQL，以处理ChatGPT每秒数百万次的查询](https://www.infoq.cn/article/LxfKX2WTqbG6flW9KcZ1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 11:00
+
+#### [把320个Claude Code实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏](https://www.infoq.cn/article/fljep6VyWggpxhCA89Xy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 10:54
+
+#### [昆仑万维：AI编程能力纳入绩效考核，实行末位淘汰；云厂大规模宕机，员工曝是自家AI干的；Claude被特朗普封杀后登顶App Store | AI周报](https://www.infoq.cn/article/uPXx6b3pmlGG9MXE4vHH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 10:22
+
+#### [亚马逊云科技支持通过RDS for SQL Server数据库事件触发Lambda函数](https://www.infoq.cn/article/Y4ZTGxlJZEeW2XeTQpLh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 10:21
+
+#### [春晚最强 “打工人”！银河通用又拿下 25 亿融资，国家大基金系首次出手](https://www.infoq.cn/article/a8982giOCbIt0JS4ecYd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 10:20
+
+#### [黄仁勋每天都用的AI工具，要抢金融行业饭碗了？](https://www.infoq.cn/article/Hp1qGVCd0kyEUhV9YQks?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 10:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志](https://sspai.com/post/106438)
+**发布时间**: 2026-03-02 11:42
+
+#### [派早报：OpenAI 接替 Anthropic 与五角大楼达成合作](https://sspai.com/post/106730)
+**发布时间**: 2026-03-02 07:04
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [业务占比43%，百度AI是虚胖吗？](http://www.huxiu.com/article/4837915.html?f=wangzhan)
+**发布时间**: 2026-03-02 10:45
+
+#### [新势力2月销量：零跑理想前两名，小米问界跌惨了](http://www.huxiu.com/article/4838125.html?f=wangzhan)
+**发布时间**: 2026-03-02 10:10
 
 ---
 

@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-01 23:26
+**最后更新时间**: 2026-03-02 05:54
+
+---
+
+## 🆕 最新更新 (2026-03-02 05:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [In charts: how Donald Trump became a military interventionist](https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49)
+**发布时间**: 2026-03-02 05:00
+
+#### [Iran conflict: Israel targets Hizbollah in Lebanon](https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882)
+**发布时间**: 2026-03-01 23:05
+
+#### [Trump’s epic gamble in the Middle East](https://www.ft.com/content/e71429a4-c69e-4487-94ff-af5394c831c0)
+**发布时间**: 2026-03-01 15:34
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT](https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 01:32
 
 ---
 
