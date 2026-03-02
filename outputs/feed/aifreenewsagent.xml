@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 05:54:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 05:54:58 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 23:29:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-02日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-02/</link>
-      <description>&lt;![CDATA[2026-03-02日刊]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-02/</guid>
+      <title>上海一群青年，造了个学术版OpenClaw</title>
+      <link>https://www.qbitai.com/2026/03/383249.html</link>
+      <description>&lt;![CDATA[上海一群青年，造了个学术版OpenClaw]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383249.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>13 vs 3，国产安全AI悄悄完成了对Claude的超越</title>
-      <link>https://www.qbitai.com/2026/03/383016.html</link>
-      <description>&lt;![CDATA[13 vs 3，国产安全AI悄悄完成了对Claude的超越]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 04:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383016.html</guid>
+      <title>官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由</title>
+      <link>https://www.qbitai.com/2026/03/383235.html</link>
+      <description>&lt;![CDATA[官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383235.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT</title>
-      <link>https://www.qbitai.com/2026/03/382971.html</link>
-      <description>&lt;![CDATA[“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 04:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/382971.html</guid>
+      <title>OpenClaw最佳工具榜来了！这6款龙虾最受欢迎</title>
+      <link>https://www.qbitai.com/2026/03/383023.html</link>
+      <description>&lt;![CDATA[OpenClaw最佳工具榜来了！这6款龙虾最受欢迎]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383023.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型</title>
+      <link>https://www.qbitai.com/2026/03/383020.html</link>
+      <description>&lt;![CDATA[Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 08:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383020.html</guid>
       <category>Ai</category>
     </item>
   </channel>

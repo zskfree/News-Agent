@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 08:50
+**最后更新时间**: 2026-03-02 23:28
+
+---
+
+## 🆕 最新更新 (2026-03-02 23:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】科技保险迎重磅新政，四部门出台20条举措；中东局势持续升级，多家期货交易所及大行提示风险；雷军公布小米机器人最新进展](https://www.tmtpost.com/7896483.html)
+**发布时间**: 2026-03-03 07:20
+
+#### [1美元跑1小时，海外赚走7成收入：MiniMAX的财报，藏着中国AI的下一个答案](https://www.tmtpost.com/7896348.html)
+**发布时间**: 2026-03-02 21:11
+
+#### [硅谷AI公司的组织革命：从Anthropic到Cursor，效率从哪来？](https://www.tmtpost.com/7896034.html)
+**发布时间**: 2026-03-02 19:00
+
+#### [印度光伏巨头携千亿美金入局：算力“地理大迁徙”时代开启](https://www.tmtpost.com/7896120.html)
+**发布时间**: 2026-03-02 19:00
+
+#### [60万本金被骗，马上金融揭秘“高收益理财”陷阱](https://www.tmtpost.com/7896224.html)
+**发布时间**: 2026-03-02 18:52
+
+#### [“五福”集齐了吗？马上金融提醒：当心这三种集福骗局！](https://www.tmtpost.com/7896210.html)
+**发布时间**: 2026-03-02 18:39
+
+#### [当导弹飞越波斯湾：伊朗为何将复仇之火引向邻居？](https://www.tmtpost.com/7896082.html)
+**发布时间**: 2026-03-02 17:55
+
+#### [AI杀死媒体，专业主义永生](https://www.tmtpost.com/7895912.html)
+**发布时间**: 2026-03-02 17:55
+
+#### [大记忆恢复术！Anthropic一句话“偷家”ChatGPT](https://www.tmtpost.com/7896049.html)
+**发布时间**: 2026-03-02 17:55
+
+#### [珀莱雅入局！这个“双雄争霸”的小品类要变天](https://www.tmtpost.com/7896063.html)
+**发布时间**: 2026-03-02 17:54
+
+#### [从扭秧歌到武术大师，机器人“ChatGPT时刻”到了吗？](https://www.tmtpost.com/7895841.html)
+**发布时间**: 2026-03-02 17:22
+
+#### [被德国总理选中，宇树科技扬眉吐气](https://www.tmtpost.com/7895839.html)
+**发布时间**: 2026-03-02 17:22
+
+#### [346亿！创新药BD单月超去年整季](https://www.tmtpost.com/7895791.html)
+**发布时间**: 2026-03-02 17:22
+
+#### [AI手替OpenClaw，谁在狂欢谁在愁？](https://www.tmtpost.com/7895788.html)
+**发布时间**: 2026-03-02 17:22
+
+#### [爱奇艺的中登时代](https://www.tmtpost.com/7895797.html)
+**发布时间**: 2026-03-02 17:22
+
+#### [撕开 6G 演进的底牌，MWC 2026 ：算力夺权、频谱极限与开源暗战](https://www.tmtpost.com/7895973.html)
+**发布时间**: 2026-03-02 16:47
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [遗忘，就是对暴力的重复](http://www.huxiu.com/article/4837962.html?f=wangzhan)
+**发布时间**: 2026-03-02 20:00
+
+#### [除夕夜与王兴兴的访谈：揭秘春晚幕后，与宇树这一年](http://www.huxiu.com/article/4837789.html?f=wangzhan)
+**发布时间**: 2026-03-02 19:00
+
+#### [投资也有性价比？认识夏普比](http://www.huxiu.com/article/4837958.html?f=wangzhan)
+**发布时间**: 2026-03-02 17:06
+
+#### [伊朗战争：美国的终极野心将如何影响资本市场？](http://www.huxiu.com/article/4838211.html?f=wangzhan)
+**发布时间**: 2026-03-02 16:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“传统设计流程已死”！IDE成Claude设计负责人新宠：Anthropic人人写代码，最不怕Bug](https://www.infoq.cn/article/67Pq2VBLhpbKiRWIJWui?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 18:39
+
+#### [智械盛宴下的孤岛：AI、资本与知识生态的隐秘危机](https://www.infoq.cn/article/CipE6FbwVFaLUtXj3G5U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-02 17:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/106749)
+**发布时间**: 2026-03-02 17:41
 
 ---
 

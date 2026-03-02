@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 08:50
+**最后更新时间**: 2026-03-02 23:28
+
+---
+
+## 🆕 最新更新 (2026-03-02 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How this under-the-radar U.S. natural-gas exporter could capitalize on a potential shortage in Europe](https://www.marketwatch.com/story/how-this-under-the-radar-u-s-natural-gas-exporter-could-capitalize-on-a-potential-shortage-in-europe-c6938bab?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 23:01
+
+#### [Chevron’s stock surges to a record as U.S.-Israeli attacks on Iran spark an oil rally](https://www.marketwatch.com/story/chevrons-stock-surges-toward-a-record-as-u-s-israeli-attacks-on-iran-spark-an-oil-rally-c6283fd5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:58
+
+#### [The smartest money moves to make as the Iran conflict rattles markets](https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:35
+
+#### [Apple launches new iPhone and iPad Air as it gears up for a major AI push](https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:20
+
+#### [Nvidia’s stock is Morgan Stanley’s new top chip pick — replacing Micron](https://www.marketwatch.com/story/nvidias-stock-is-morgan-stanleys-new-top-chip-pick-replacing-micron-2dfffd2b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:18
+
+#### [Boeing’s stock stands out in this screen of aerospace and defense investments](https://www.marketwatch.com/story/boeings-stock-stands-out-in-this-screen-of-aerospace-and-defense-investments-aba58bd3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:16
+
+#### [Cruise stocks drop, as there’s more than just the Iran conflict to worry about](https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:11
+
+#### [American, Delta stocks fall as Iran conflict sparks worries about fuel costs, travel demand](https://www.marketwatch.com/story/american-delta-stocks-fall-as-iran-conflict-sparks-worries-about-fuel-costs-travel-demand-c691eb25?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:07
+
+#### [Palantir, Lockheed and these other defense stocks rise on heels of Iran conflict](https://www.marketwatch.com/story/palantir-lockheed-and-these-other-defense-stocks-are-rising-on-heels-of-iran-conflict-3832f763?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 22:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Inside the plan to kill Ali Khamenei](https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836)
+**发布时间**: 2026-03-02 23:01
+
+#### [Blackstone flagship private credit fund hit with wave of redemptions](https://www.ft.com/content/7dadc5b5-d5d2-40d6-9ee0-abcb03e0a598)
+**发布时间**: 2026-03-02 22:47
+
+#### [The escalating Mideast conflict — in charts](https://www.ft.com/content/1247fe38-2dc9-4219-b74f-bd755661a525)
+**发布时间**: 2026-03-02 22:03
+
+#### [Starmer has his ‘Love Actually’ moment and stands up to Trump](https://www.ft.com/content/5d74b563-694c-4c90-bba6-9c9f2dc71ee5)
+**发布时间**: 2026-03-02 21:31
+
+#### [Gas prices soar as Iranian attacks force shutdown of Qatari production](https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347)
+**发布时间**: 2026-03-02 18:57
+
+#### [Hedge funds rethink emerging market bets after US-Israel strikes on Iran](https://www.ft.com/content/25d61973-30a0-4290-940d-8a51fd79b0be)
+**发布时间**: 2026-03-02 18:54
+
+#### [Starmer rebukes Trump, saying UK does not back ‘regime change from the skies’](https://www.ft.com/content/bcc8b46a-c09f-4481-bd13-4d5290b080b3)
+**发布时间**: 2026-03-02 17:15
+
+#### [‘Half of Dubai is booking’: expats drive to Oman and Saudi Arabia to find flights out](https://www.ft.com/content/7ecea3fe-295d-4592-abf2-206da6f6b8ca)
+**发布时间**: 2026-03-02 16:54
+
+#### [Iran attacks show US haven status is in peril](https://www.ft.com/content/a8c8cfbd-b5fa-4c61-b72a-38531b029623)
+**发布时间**: 2026-03-02 15:27
 
 ---
 
