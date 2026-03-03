@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 23:28
+**最后更新时间**: 2026-03-03 06:10
+
+---
+
+## 🆕 最新更新 (2026-03-03 06:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Polymarket users won big with unusual bets on US attack on Iran](https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55)
+**发布时间**: 2026-03-03 05:00
+
+#### [Laura Loomer and the far-right ultra-hawks cheering on Trump in Iran](https://www.ft.com/content/31ed94d6-2455-4606-a85d-a715a071ea86)
+**发布时间**: 2026-03-03 05:00
+
+#### [Lengthy Iran war could cause inflation ‘spike’, warns ECB’s top economist](https://www.ft.com/content/529b22dc-2707-48f8-b19c-510dee176e30)
+**发布时间**: 2026-03-03 05:00
+
+#### [In charts: How serious is the Middle East gas price shock?](https://www.ft.com/content/78fb84bb-0884-412b-b317-1ac3dbcb060a)
+**发布时间**: 2026-03-03 05:00
+
+#### [UBS told to tone down lobbying in row with Swiss government](https://www.ft.com/content/33c66cc4-6301-4643-92a7-8426e5575120)
+**发布时间**: 2026-03-03 05:00
+
+#### [OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal](https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29)
+**发布时间**: 2026-03-03 03:46
+
+#### [Trump struggles to explain why he launched another Middle Eastern war](https://www.ft.com/content/fd31c6ad-39f0-4fae-851c-fadf44f006eb)
+**发布时间**: 2026-03-03 02:14
+
+#### [Israel and Hizbollah exchange fire as Middle East war expands](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 02:12
+
+#### [Trump drops battle against law firms over punitive executive orders](https://www.ft.com/content/5f711e77-a5eb-4b2c-90a3-6b6a565aa375)
+**发布时间**: 2026-03-03 01:48
+
+#### [Blackstone flagship private credit fund hit with redemptions](https://www.ft.com/content/7dadc5b5-d5d2-40d6-9ee0-abcb03e0a598)
+**发布时间**: 2026-03-02 23:49
+
+#### [Elliott amassed £200mn exposure to collapsed mortgage provider MFS](https://www.ft.com/content/266c8a95-be19-4e0b-9443-6237e0068569)
+**发布时间**: 2026-03-02 16:44
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal](https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 04:28
+
+#### [MongoDB’s stock sinks after earnings, signaling more tough times for the software sector](https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 02:23
+
+#### [SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase](https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 01:28
+
+#### [‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?](https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 00:00
+
+#### [EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake](https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 23:28
 
 ---
 

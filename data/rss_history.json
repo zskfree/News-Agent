@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8160c739e0d174fd25347dec1db7d4d5efaaf9501c2e3f4e2f488ac1c9b82012": {
-        "title": "【数智周报】马化腾评豆包手机；OpenAI计划四季度上市，已聘请新高管筹备IPO；开源项目Clawdbot爆火，开发者爆料开发内幕；",
-        "link": "https://www.tmtpost.com/7862957.html",
-        "published_date": "Sun, 01 Feb 2026 10:08:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347386"
-      },
-      "4e758c3098d0ad8bf580c3ca0c7e3579c92bc5f7be286b929c2d086ff180e5bc": {
-        "title": "Anthropic掌门人Amodei长文预警：AI竞争愈加激烈，难以重视自主性风险",
-        "link": "https://www.tmtpost.com/7862935.html",
-        "published_date": "Sun, 01 Feb 2026 09:04:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347392"
-      },
-      "ce133bf7966fd6a503f1edd324dfa0d1fa793071629084787ca9e4b4e176f2fd": {
-        "title": "150万AI Agents在Moltbook“发疯”，人，慌不？",
-        "link": "https://www.tmtpost.com/7863132.html",
-        "published_date": "Sun, 01 Feb 2026 10:53:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347394"
-      },
-      "08f985ce4940720306f871d3e12440ac82058911a69b85b0c90fdf7aba440d3e": {
-        "title": "黄仁勋反悔，不投千亿美元给OpenAI了？",
-        "link": "https://www.tmtpost.com/7862944.html",
-        "published_date": "Sun, 01 Feb 2026 09:12:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347396"
-      },
-      "c36e38a6f26cce0ce68a60e584c3c92b2f3705b09a23ad029936d91e83cb0727": {
-        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
-        "link": "https://www.tmtpost.com/7863229.html",
-        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347398"
-      },
       "c22a8053443eb9c460bc0fafe65858bc32e51e1ae2ceeac7e6bfc1d760d47bba": {
         "title": "世界第一！中国机床，雪耻了",
         "link": "https://www.tmtpost.com/7863255.html",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7896049.html",
         "published_date": "Mon, 02 Mar 2026 17:55:00 GMT",
         "first_seen": "2026-03-02T23:29:26.962040"
+      },
+      "2b30e5d1d9e2c315efd94e421fadf1d650fbe1e214aab978e8bdae6a98f944c9": {
+        "title": "MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？",
+        "link": "https://www.tmtpost.com/7896835.html",
+        "published_date": "Tue, 03 Mar 2026 10:36:00 GMT",
+        "first_seen": "2026-03-03T06:11:00.704570"
+      },
+      "863436e18fa8d18349b59609bbf28715aa5ce51450168b6aab1abe053d6657bd": {
+        "title": "站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步",
+        "link": "https://www.tmtpost.com/7897226.html",
+        "published_date": "Tue, 03 Mar 2026 13:54:00 GMT",
+        "first_seen": "2026-03-03T06:11:00.704582"
+      },
+      "ce064f074be142d543f068adf541af244d82a70c9a5564598e5ad42f7d5c923d": {
+        "title": "TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划",
+        "link": "https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-03T06:11:00.704585"
+      },
+      "f7921dd2589a11a0b0fe10744d550731cd99df6b28f14e9ed9d1416528f184b0": {
+        "title": "千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻",
+        "link": "https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Mar 2026 11:16:00 GMT",
+        "first_seen": "2026-03-03T06:11:00.704587"
+      },
+      "e52cdf2527fb80650b5295fcd5d47cc1f5f0a2030f7f08380c37d3cf2d7996fb": {
+        "title": "魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局",
+        "link": "https://www.tmtpost.com/7897221.html",
+        "published_date": "Tue, 03 Mar 2026 11:22:00 GMT",
+        "first_seen": "2026-03-03T06:11:00.704589"
       }
     },
     "Finance": {
-      "fdae851f444f36847e0556934298d6ba546923ff17263a6d4e555b866d4494ee": {
-        "title": "Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence",
-        "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
-        "published_date": "Sat, 31 Jan 2026 23:34:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735869"
-      },
-      "e00406318e06d2169771856f59d41678212841184af4874bf1ea3b3b19295c5f": {
-        "title": "Jeffrey Epstein sent Peter Mandelson $75,000, documents show",
-        "link": "https://www.ft.com/content/17288a86-bbcc-4428-a081-902d0cb86f65",
-        "published_date": "Sat, 31 Jan 2026 23:28:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735881"
-      },
-      "c6e2915c001b10b74aecfc44aecfbbdcb813d75dc261f9ad9dea5baa395dc36a": {
-        "title": "Russia struggles to shake reliance on foreign technology imports",
-        "link": "https://www.ft.com/content/80cd2d5a-9aa4-40a4-b0fc-a2d1080622f7",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735884"
-      },
-      "e37c261f3b4448904f63d10145c1a459da2bb5c544de0bb149325334d99697f9": {
-        "title": "Who wants to live forever?",
-        "link": "https://www.ft.com/content/a92cd27a-8b47-4c1f-8457-205da9edf2d9",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735886"
-      },
-      "0d89997a10bad3da7af1b2bf17e78dd1e17d674b6e5e23da3a84484cbb607e01": {
-        "title": "Chechen warlords’ health crises threaten Putin’s plan for the region",
-        "link": "https://www.ft.com/content/e746e47b-16d6-4f06-91c0-72355216088d",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735888"
-      },
       "ec7c76d8a600a8a1c2d731f94f19cb45c0b2e789fb7ebfa1a39d9cf191599569": {
         "title": "Xi calls for China’s renminbi to attain global reserve currency status",
         "link": "https://www.ft.com/content/c948b978-c22b-44b7-ba3d-4798e641e673",
@@ -4629,15 +4599,39 @@
         "link": "https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347",
         "published_date": "Mon, 02 Mar 2026 18:57:00 GMT",
         "first_seen": "2026-03-02T23:29:42.588826"
+      },
+      "768e9f334e3db4e4c895514cb20aebe602a5f1241c1a1d4936069a6d48ee7798": {
+        "title": "Lengthy Iran war could cause inflation ‘spike’, warns ECB’s top economist",
+        "link": "https://www.ft.com/content/529b22dc-2707-48f8-b19c-510dee176e30",
+        "published_date": "Tue, 03 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.218410"
+      },
+      "20ec262b064442050e2ba597074c606fd010214ecfed2bdef1b95423da22cd44": {
+        "title": "Blackstone flagship private credit fund hit with redemptions",
+        "link": "https://www.ft.com/content/7dadc5b5-d5d2-40d6-9ee0-abcb03e0a598",
+        "published_date": "Mon, 02 Mar 2026 23:49:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.218416"
+      },
+      "31c211d9ce8935a0d124ed6fbeca0c71e7217554a79285eb6da3bcf901ee3a20": {
+        "title": "In charts: How serious is the Middle East gas price shock?",
+        "link": "https://www.ft.com/content/78fb84bb-0884-412b-b317-1ac3dbcb060a",
+        "published_date": "Tue, 03 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.218419"
+      },
+      "b548afa1bfe20d2b11e1178188c9732d5748a87d5080021c21dcada2a49d4dbd": {
+        "title": "UBS told to tone down lobbying in row with Swiss government",
+        "link": "https://www.ft.com/content/33c66cc4-6301-4643-92a7-8426e5575120",
+        "published_date": "Tue, 03 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.218421"
+      },
+      "997097dd263d82f20b207edc9d493d3a64a63731353aae4642c07439a4e9e7f8": {
+        "title": "Polymarket users won big with unusual bets on US attack on Iran",
+        "link": "https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55",
+        "published_date": "Tue, 03 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.218422"
       }
     },
     "Ai": {
-      "a26681980d26fd9c018a88ac95ed56671a5a4ce481665eb4a072c8416f6c274f": {
-        "title": "2026-02-01日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-01/",
-        "published_date": "Sun, 01 Feb 2026 07:16:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.893484"
-      },
       "a1279c4e4336d0de99371237727f064d7983a05515529513fb61fe4d9f73532b": {
         "title": "2026-02-02日刊",
         "link": "https://ai.hubtoday.app//2026-02/2026-02-02/",
@@ -6413,13 +6407,19 @@
         "link": "https://www.qbitai.com/2026/03/383020.html",
         "published_date": "Mon, 02 Mar 2026 08:56:00 GMT",
         "first_seen": "2026-03-02T23:29:42.740973"
+      },
+      "15377281db7b4a25b4b0bb4d24e0adc161fe6822d04f12082db2740ad9eecf87": {
+        "title": "2026-03-03日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-03/",
+        "published_date": "Tue, 03 Mar 2026 09:55:00 GMT",
+        "first_seen": "2026-03-03T06:11:13.362183"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-02T23:29:26.962042",
-    "Finance": "2026-03-02T23:29:42.588829",
-    "Ai": "2026-03-02T23:29:42.740974"
+    "Technology": "2026-03-03T06:11:00.704591",
+    "Finance": "2026-03-03T06:11:13.218424",
+    "Ai": "2026-03-03T06:11:13.362195"
   }
 }

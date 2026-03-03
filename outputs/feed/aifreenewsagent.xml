@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 23:29:42 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 06:07:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:11:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>上海一群青年，造了个学术版OpenClaw</title>
-      <link>https://www.qbitai.com/2026/03/383249.html</link>
-      <description>&lt;![CDATA[上海一群青年，造了个学术版OpenClaw]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383249.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由</title>
-      <link>https://www.qbitai.com/2026/03/383235.html</link>
-      <description>&lt;![CDATA[官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383235.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenClaw最佳工具榜来了！这6款龙虾最受欢迎</title>
-      <link>https://www.qbitai.com/2026/03/383023.html</link>
-      <description>&lt;![CDATA[OpenClaw最佳工具榜来了！这6款龙虾最受欢迎]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383023.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型</title>
-      <link>https://www.qbitai.com/2026/03/383020.html</link>
-      <description>&lt;![CDATA[Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 08:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383020.html</guid>
+      <title>2026-03-03日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-03/</link>
+      <description>&lt;![CDATA[2026-03-03日刊]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-03/</guid>
       <category>Ai</category>
     </item>
   </channel>

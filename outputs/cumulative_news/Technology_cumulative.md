@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 23:28
+**最后更新时间**: 2026-03-03 06:10
+
+---
+
+## 🆕 最新更新 (2026-03-03 06:10)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步](https://www.tmtpost.com/7897226.html)
+**发布时间**: 2026-03-03 13:54
+
+#### [美伊冲突引爆化工行情：谁在涨价，谁还会被推上风口？｜行业风向标](https://www.tmtpost.com/7897473.html)
+**发布时间**: 2026-03-03 12:58
+
+#### [春节AI红包，本质是一场大规模微数据收割行动](https://www.tmtpost.com/7897233.html)
+**发布时间**: 2026-03-03 11:30
+
+#### [魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局](https://www.tmtpost.com/7897221.html)
+**发布时间**: 2026-03-03 11:22
+
+#### [拥抱美国军方后，ChatGPT 为什么会被卸载？](https://www.tmtpost.com/7897007.html)
+**发布时间**: 2026-03-03 11:15
+
+#### [国际酒店集团财报披露，“中东梦”先碎了](https://www.tmtpost.com/7897162.html)
+**发布时间**: 2026-03-03 11:15
+
+#### [为什么年轻人都在solo trip？](https://www.tmtpost.com/7897119.html)
+**发布时间**: 2026-03-03 11:09
+
+#### [在华狂奔的万豪，正在丢掉“奢华感”？](https://www.tmtpost.com/7897136.html)
+**发布时间**: 2026-03-03 11:06
+
+#### [锐翔智能：客户集中度高，低研发高毛利，现金充裕仍募5000万补流｜IPO观察](https://www.tmtpost.com/7895872.html)
+**发布时间**: 2026-03-03 11:00
+
+#### [地缘局势下的全球资产重估：风险还是机遇？](https://www.tmtpost.com/7897116.html)
+**发布时间**: 2026-03-03 10:55
+
+#### [当自免CAR-T来到兑现前夜](https://www.tmtpost.com/7897113.html)
+**发布时间**: 2026-03-03 10:47
+
+#### [Ubras狂飙：当女性内衣被标品化，是解放还是将就？](https://www.tmtpost.com/7896979.html)
+**发布时间**: 2026-03-03 10:41
+
+#### [大模型血亏 360%，MiniMax 照样 “香饽饽”？](https://www.tmtpost.com/7897122.html)
+**发布时间**: 2026-03-03 10:38
+
+#### [中国钢铁，也有大黑马](https://www.tmtpost.com/7896978.html)
+**发布时间**: 2026-03-03 10:36
+
+#### [MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？](https://www.tmtpost.com/7896835.html)
+**发布时间**: 2026-03-03 10:36
+
+#### [iPhone 17e发布：内在大升级，加量不加价，全球中低端市场收割利器来了](https://www.tmtpost.com/7896770.html)
+**发布时间**: 2026-03-03 10:31
+
+#### [AI美女，正在“击穿”擦边博主的世界](https://www.tmtpost.com/7896288.html)
+**发布时间**: 2026-03-03 10:30
+
+#### [周杰伦和田馥甄的“过期糖”，为什么越嗑越上头？](https://www.tmtpost.com/7896635.html)
+**发布时间**: 2026-03-03 10:28
+
+#### [涪陵榨菜，顶到天花板了](https://www.tmtpost.com/7896837.html)
+**发布时间**: 2026-03-03 10:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Rivet 发布 Sandbox Agent SDK，解决 Agent API 碎片化问题](https://www.infoq.cn/article/9wBHVhzl3hoUORHLyULU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 12:00
+
+#### [当数据库遇上多模态：腾讯云 TDSQL Boundless 如何释放数据深层价值？](https://www.infoq.cn/article/YHvr48IeZBO9K4ZqUOfk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 11:26
+
+#### [千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻](https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 11:16
+
+#### [TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划](https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 11:00
+
+#### [杀死“流水线”： ListenHub 如何构建 AI 时代的液态超级团队｜QCon北京](https://www.infoq.cn/article/a6WQAG7bXj0VPjjVtMKE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 10:36
+
+#### [开发者欢呼，普通人迷茫：OpenClaw之后，“可用AI”的路该怎么走？](https://www.infoq.cn/article/Br5brKyveOf15uEgOzvX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 10:17
+
+#### [吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强](https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 10:00
+
+#### [Databricks推出面向AI工作负载的PostgreSQL数据库Lakebase](https://www.infoq.cn/article/GdARgp4bG83LP5oXMZar?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 09:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [破译还是致盲？我是如何用 AI 啃下全英文编程课程的](https://sspai.com/post/106570)
+**发布时间**: 2026-03-03 10:13
+
+#### [派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品](https://sspai.com/post/106766)
+**发布时间**: 2026-03-03 08:00
 
 ---
 

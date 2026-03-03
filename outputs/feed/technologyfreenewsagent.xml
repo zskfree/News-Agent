@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 23:29:26 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 06:10:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:11:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>印度光伏巨头携千亿美金入局：算力“地理大迁徙”时代开启</title>
-      <link>https://www.tmtpost.com/7896120.html</link>
-      <description>&lt;![CDATA[印度光伏巨头携千亿美金入局：算力“地理大迁徙”时代开启]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7896120.html</guid>
+      <title>MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？</title>
+      <link>https://www.tmtpost.com/7896835.html</link>
+      <description>&lt;![CDATA[MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7896835.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷AI公司的组织革命：从Anthropic到Cursor，效率从哪来？</title>
-      <link>https://www.tmtpost.com/7896034.html</link>
-      <description>&lt;![CDATA[硅谷AI公司的组织革命：从Anthropic到Cursor，效率从哪来？]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7896034.html</guid>
+      <title>站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步</title>
+      <link>https://www.tmtpost.com/7897226.html</link>
+      <description>&lt;![CDATA[站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7897226.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>撕开 6G 演进的底牌，MWC 2026 ：算力夺权、频谱极限与开源暗战</title>
-      <link>https://www.tmtpost.com/7895973.html</link>
-      <description>&lt;![CDATA[撕开 6G 演进的底牌，MWC 2026 ：算力夺权、频谱极限与开源暗战]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 16:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7895973.html</guid>
+      <title>TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划</title>
+      <link>https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>现代战争正在因为AI进入新形态</title>
-      <link>https://www.tmtpost.com/7895407.html</link>
-      <description>&lt;![CDATA[现代战争正在因为AI进入新形态]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7895407.html</guid>
+      <title>千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻</title>
+      <link>https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大记忆恢复术！Anthropic一句话“偷家”ChatGPT</title>
-      <link>https://www.tmtpost.com/7896049.html</link>
-      <description>&lt;![CDATA[大记忆恢复术！Anthropic一句话“偷家”ChatGPT]]&gt;</description>
-      <pubDate>Mon, 02 Mar 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7896049.html</guid>
+      <title>魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局</title>
+      <link>https://www.tmtpost.com/7897221.html</link>
+      <description>&lt;![CDATA[魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7897221.html</guid>
       <category>Technology</category>
     </item>
   </channel>
