@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c22a8053443eb9c460bc0fafe65858bc32e51e1ae2ceeac7e6bfc1d760d47bba": {
-        "title": "世界第一！中国机床，雪耻了",
-        "link": "https://www.tmtpost.com/7863255.html",
-        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
-        "first_seen": "2026-02-01T08:38:13.225338"
-      },
-      "b8b645d0c0825974fab90cbd2b5667d25f8ae69a31f6c8996ab14902c4b1723b": {
-        "title": "150万AI agent社交狂欢背后，是一场“产品大爆炸”",
-        "link": "https://www.tmtpost.com/7863248.html",
-        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
-        "first_seen": "2026-02-01T08:38:13.225346"
-      },
-      "d01b709b1d32356505c16b94aba5d5c3923d7a6d628eed6ab4b5123bce543f87": {
-        "title": "大疆最强对手来了？“果链女王”剑指无人机",
-        "link": "https://www.tmtpost.com/7863247.html",
-        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
-        "first_seen": "2026-02-01T08:38:13.225350"
-      },
-      "fa71ec1dbf0bdfc46dd682e06951eb0df92e4d19083af57929d3d665afde1a13": {
-        "title": "15 万个 ClawdBot 涌进 AI 社交网站，但人类只能围观。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531052&idx=1&sn=b8908779a1624cf90982e0a4cefec03f",
-        "published_date": "Sun, 01 Feb 2026 09:35:00 GMT",
-        "first_seen": "2026-02-01T08:38:13.225352"
-      },
-      "8b3f9cee7262c89beef5ad73bd1efbadd4d779efb6c86ba8811286f95d08641a": {
-        "title": "浙大校友带高特电子冲刺“储能BMS第一股”，超5亿应收账款压顶",
-        "link": "https://www.tmtpost.com/7863096.html",
-        "published_date": "Sun, 01 Feb 2026 11:26:00 GMT",
-        "first_seen": "2026-02-01T08:38:13.225353"
-      },
       "16d7c430ad9f890300bb23018a41ba083e9f325db701e94301b24bc298647926": {
         "title": "中国的人工智能蓬勃发展，正在幕后迎来回报",
         "link": "https://www.tmtpost.com/7863462.html",
@@ -2665,6 +2635,36 @@
         "link": "https://www.tmtpost.com/7897221.html",
         "published_date": "Tue, 03 Mar 2026 11:22:00 GMT",
         "first_seen": "2026-03-03T06:11:00.704589"
+      },
+      "bb7be0d7065106607a7e1f086f6a1240386e8768f46495db7829aa603bb8744b": {
+        "title": "吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强",
+        "link": "https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.099944"
+      },
+      "f9902223bb09c751a730fb4358cbc37e6b90a7663e11e5c77a8c4382e31b907d": {
+        "title": "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
+        "link": "https://www.tmtpost.com/7897592.html",
+        "published_date": "Tue, 03 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.099955"
+      },
+      "dfd23f095ae9c16d8ea4f1143a77c9d925c8bd510c40303ddaff06b83320991f": {
+        "title": "OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531831&idx=1&sn=a6e1e5211f8455fe1d91e1361abf4c9c",
+        "published_date": "Tue, 03 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.099958"
+      },
+      "15353cff073f5aed2738f633cce1241001979cb7fce1f7e4ac6bee9211a3ad0c": {
+        "title": "拥抱美国军方后，ChatGPT 为什么会被卸载？",
+        "link": "https://www.tmtpost.com/7897007.html",
+        "published_date": "Tue, 03 Mar 2026 11:15:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.099960"
+      },
+      "01f7be736819db687e8c62a6db1d29a29fd0d2801823491de6fa59b52ce48682": {
+        "title": "人形机器人卖不动，只能靠租？",
+        "link": "https://www.tmtpost.com/7896333.html",
+        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.099962"
       }
     },
     "Finance": {
@@ -6413,13 +6413,25 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-03/",
         "published_date": "Tue, 03 Mar 2026 09:55:00 GMT",
         "first_seen": "2026-03-03T06:11:13.362183"
+      },
+      "a39878728fc8922d8a68c33641d9220390bb28604ad5d1b307e97baabf82b626": {
+        "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
+        "link": "https://www.qbitai.com/2026/03/383349.html",
+        "published_date": "Tue, 03 Mar 2026 06:42:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.284882"
+      },
+      "eed41176c0d916a22425e8eae268f0b3b6fae21bfd43da1fa7419c3404050c57": {
+        "title": "英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹",
+        "link": "https://www.qbitai.com/2026/03/383329.html",
+        "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
+        "first_seen": "2026-03-03T08:43:48.284890"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-03T06:11:00.704591",
+    "Technology": "2026-03-03T08:43:48.099964",
     "Finance": "2026-03-03T06:11:13.218424",
-    "Ai": "2026-03-03T06:11:13.362195"
+    "Ai": "2026-03-03T08:43:48.284893"
   }
 }

@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 06:10
+**最后更新时间**: 2026-03-03 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-03 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel launches new attacks on Tehran and Beirut](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 02:12
+
+#### [Stronger UK public finances can withstand Iran war shock, Reeves to say](https://www.ft.com/content/0f8b7d9f-eb13-41d3-890d-49a6bbcf3594)
+**发布时间**: 2026-03-03 00:01
+
+#### [Iran executes Khamenei’s plan to spread regional war](https://www.ft.com/content/02eb660a-3c80-4d6b-9e58-e7411278b0f1)
+**发布时间**: 2026-03-03 00:00
 
 ---
 

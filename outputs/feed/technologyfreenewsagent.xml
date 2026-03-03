@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Mar 2026 06:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 06:11:00 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 08:43:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？</title>
-      <link>https://www.tmtpost.com/7896835.html</link>
-      <description>&lt;![CDATA[MWC 2026洞察：黄仁勋剑指通信业，英伟达将重构6G价值链？]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7896835.html</guid>
+      <title>吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强</title>
+      <link>https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步</title>
-      <link>https://www.tmtpost.com/7897226.html</link>
-      <description>&lt;![CDATA[站在MWC看AI新风向：大模型参数游戏无终局，但AI“肉身化”已经起步]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7897226.html</guid>
+      <title>拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头</title>
+      <link>https://www.tmtpost.com/7897592.html</link>
+      <description>&lt;![CDATA[拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7897592.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划</title>
-      <link>https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531831&amp;idx=1&amp;sn=a6e1e5211f8455fe1d91e1361abf4c9c</link>
+      <description>&lt;![CDATA[OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531831&amp;idx=1&amp;sn=a6e1e5211f8455fe1d91e1361abf4c9c</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻</title>
-      <link>https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拥抱美国军方后，ChatGPT 为什么会被卸载？</title>
+      <link>https://www.tmtpost.com/7897007.html</link>
+      <description>&lt;![CDATA[拥抱美国军方后，ChatGPT 为什么会被卸载？]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7897007.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局</title>
-      <link>https://www.tmtpost.com/7897221.html</link>
-      <description>&lt;![CDATA[魅族暂停国内新手机自研项目，试图以AI重构Flyme生态新棋局]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7897221.html</guid>
+      <title>人形机器人卖不动，只能靠租？</title>
+      <link>https://www.tmtpost.com/7896333.html</link>
+      <description>&lt;![CDATA[人形机器人卖不动，只能靠租？]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7896333.html</guid>
       <category>Technology</category>
     </item>
   </channel>
