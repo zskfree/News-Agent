@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 08:43
+**最后更新时间**: 2026-03-03 23:47
+
+---
+
+## 🆕 最新更新 (2026-03-03 23:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%](https://www.tmtpost.com/7898664.html)
+**发布时间**: 2026-03-04 07:20
+
+#### [五连亏、补税2000万、高负债夹击：艾迪药业12.77亿的破局豪赌](https://www.tmtpost.com/7891224.html)
+**发布时间**: 2026-03-03 22:08
+
+#### [平价易主+宽松对赌+借壳幻灭，法兰泰克复牌跌5.6% ｜并购一线](https://www.tmtpost.com/7898483.html)
+**发布时间**: 2026-03-03 19:23
+
+#### [中东光伏项目短期内交付受阻；欧盟将废除小额包裹免税政策；Lazada子公司在新加坡推出前置仓即时零售 ｜一周出海参考](https://www.tmtpost.com/7897523.html)
+**发布时间**: 2026-03-03 19:17
+
+#### [五和博澳冲刺港股：40亿估值，买的是管线还是确定性？](https://www.tmtpost.com/7898487.html)
+**发布时间**: 2026-03-03 19:14
+
+#### [字节领航、Kimi 爆发：红包大战落幕，AI行业变天](https://www.tmtpost.com/7898418.html)
+**发布时间**: 2026-03-03 19:14
+
+#### [从夸克到千问：阿里AI“重修族谱”](https://www.tmtpost.com/7898028.html)
+**发布时间**: 2026-03-03 19:14
+
+#### [Bigger than bigger，汽车公司开启SUV之战](https://www.tmtpost.com/7898344.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱](https://www.tmtpost.com/7898398.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [AI手机路上，荣耀“背叛”豆包](https://www.tmtpost.com/7898350.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [OpenClaw爆火60天：中国产业AI落地的“又一次集体进化”](https://www.tmtpost.com/7898346.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [OpenClaw 越红火，MiniMax 们越开心](https://www.tmtpost.com/7898277.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [春晚之后，机器人忙着“走穴”接活](https://www.tmtpost.com/7898263.html)
+**发布时间**: 2026-03-03 18:45
+
+#### [大模型开始偏爱引用YouTube了？](https://www.tmtpost.com/7896355.html)
+**发布时间**: 2026-03-03 18:42
+
+#### [China's Dumpling Chain Restaurant Goes for IPO in Hong Kong, the First Dumpling Stock](https://www.tmtpost.com/7898278.html)
+**发布时间**: 2026-03-03 17:56
+
+#### [成为主角的百度 AI，能支棱起来吗？](https://www.tmtpost.com/7898191.html)
+**发布时间**: 2026-03-03 17:35
+
+#### [暴增3500倍，这些美妆品类，正闷声收割年轻人](https://www.tmtpost.com/7898151.html)
+**发布时间**: 2026-03-03 17:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 033 周 AI 应用榜：从评论区互动到游戏陪玩，AI 已悄悄加载完成](https://www.infoq.cn/article/3AV33wXig2vBy4s5hkIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-03 20:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [史上最忙AI春节档：海量新品，如何才能不焦虑？](http://www.huxiu.com/article/4837484.html?f=wangzhan)
+**发布时间**: 2026-03-03 18:30
+
+#### [全网狂吹，永久投资组合，能持续赚吗?](http://www.huxiu.com/article/4837439.html?f=wangzhan)
+**发布时间**: 2026-03-03 18:00
+
+#### [让财务官当CEO，利润全球第一的丰田也缺钱了？](http://www.huxiu.com/article/4838597.html?f=wangzhan)
+**发布时间**: 2026-03-03 17:15
+
+#### [一年千亿，短剧生意比电影都大了？](http://www.huxiu.com/article/4838156.html?f=wangzhan)
+**发布时间**: 2026-03-03 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 131 | 派友们的一月好物大赏、给桌面风扇装上「机械臂」](https://sspai.com/post/106782)
+**发布时间**: 2026-03-03 16:51
 
 ---
 

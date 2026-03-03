@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 08:43
+**最后更新时间**: 2026-03-03 23:47
+
+---
+
+## 🆕 最新更新 (2026-03-03 23:47)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Software stocks just quietly trounced chip stocks to a historic extent — but don’t get too excited](https://www.marketwatch.com/story/software-stocks-just-quietly-trounced-chip-stocks-to-a-historic-extent-but-dont-get-too-excited-5babf59c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:35
+
+#### [Here are the U.S. airlines most vulnerable to rising fuel prices](https://www.marketwatch.com/story/here-are-the-u-s-airlines-most-vulnerable-to-rising-fuel-prices-b3ed82b3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:17
+
+#### [How Nvidia turned a steal of a deal into its secret weapon](https://www.marketwatch.com/story/how-nvidia-turned-a-steal-of-a-deal-into-its-secret-weapon-17c2027a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:07
+
+#### [The stock market’s wild swings are sending a message about the escalating Iran conflict](https://www.marketwatch.com/story/the-stock-markets-wild-swings-are-sending-a-message-about-the-escalating-iran-conflict-9dc81cac?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:02
+
+#### [Should you buy or sell a home now? What the Iran conflict means for the spring home-buying season.](https://www.marketwatch.com/story/should-you-buy-or-sell-a-home-now-what-the-iran-conflict-means-for-the-spring-home-buying-season-a933f4d3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:56
+
+#### [‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?](https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:45
+
+#### [Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment](https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:34
+
+#### [Moderna’s stock rallies more than 10% as deal over a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:30
+
+#### [Trump started the Iran conflict, but still has options to keep oil and gas prices in check](https://www.marketwatch.com/story/trump-started-the-iran-conflict-but-still-has-options-to-keep-oil-and-gas-prices-in-check-c8166f44?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:28
+
+#### [Trump’s upbeat oil comments fail to erase inflation fears and losses in the U.S. stock market](https://www.marketwatch.com/story/trumps-upbeat-oil-comments-fail-to-erase-inflation-fears-and-losses-in-the-u-s-stock-market-57dbe5f7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 22:25
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks and bonds stabilise as Middle East war widens](https://www.ft.com/content/48a11039-eca6-4af4-89bd-c79b4203aee8)
+**发布时间**: 2026-03-03 21:45
+
+#### [Pakistan urges Iran not to attack Saudi Arabia](https://www.ft.com/content/3f67fdd9-8d85-485a-980a-addab8f1a540)
+**发布时间**: 2026-03-03 20:55
+
+#### [UK to deploy a warship and counter-drone helicopters to Cyprus](https://www.ft.com/content/62d6373c-6870-4b9b-a6de-7ce704394e8b)
+**发布时间**: 2026-03-03 20:16
+
+#### [UAE projects normal life as missiles shake haven reputation](https://www.ft.com/content/5615f5bf-a60a-4532-ae2c-5a86e131930c)
+**发布时间**: 2026-03-03 19:16
+
+#### [Trump threatens to cut trade with Spain and calls Starmer ‘no Churchill’](https://www.ft.com/content/50c54c51-7ea2-44af-a242-475c66057f07)
+**发布时间**: 2026-03-03 18:28
+
+#### [A dull UK fiscal statement comes with a fragile outlook](https://www.ft.com/content/68ebef34-5c2d-4716-9a7c-c6300ac289e8)
+**发布时间**: 2026-03-03 18:25
+
+#### [How AI fakes are turning satellite images into war misinformation](https://www.ft.com/content/0badb6c5-bce2-4948-9d3b-164bdb55ecf4)
+**发布时间**: 2026-03-03 17:34
+
+#### [Sweeping assault on Iranian state leaves residents reeling](https://www.ft.com/content/fa0c23e4-adae-4080-84c4-594f63019d21)
+**发布时间**: 2026-03-03 17:33
+
+#### [US petrol prices surge as Trump’s Iran war triggers inflation worries](https://www.ft.com/content/43fe2f44-d3ea-45c9-a641-e6f0e68949af)
+**发布时间**: 2026-03-03 17:17
+
+#### [OBR warns UK economy could face ‘very significant’ hit from Iran war](https://www.ft.com/content/70d2be4d-8e0f-4784-b072-1d19d700bf19)
+**发布时间**: 2026-03-03 17:11
+
+#### [Trump says US Navy prepared to escort oil tankers in Gulf](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 17:10
+
+#### [Why has oil not hit $100 a barrel?](https://www.ft.com/content/1ca535f4-d4a6-480b-b2da-f5b05ad8dd5d)
+**发布时间**: 2026-03-03 15:33
+
+#### [Donald Trump’s dangerous ‘war of whim’](https://www.ft.com/content/611e8f6f-18c7-4886-a733-9e8aac2fceda)
+**发布时间**: 2026-03-03 11:59
 
 ---
 
