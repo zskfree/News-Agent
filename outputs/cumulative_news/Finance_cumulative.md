@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 08:41
+**最后更新时间**: 2026-03-04 23:32
+
+---
+
+## 🆕 最新更新 (2026-03-04 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?](https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:30
+
+#### [Broadcom’s stock climbs after it says AI is not disrupting its software business](https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:11
+
+#### [The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality](https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:07
+
+#### [Okta’s stock rallies as momentum in AI agents fuels an earnings beat](https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:22
+
+#### [Moderna’s stock rallies as settlement of a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:17
+
+#### [BlackRock’s target-date funds are about to get riskier. Here’s what you need to know.](https://www.marketwatch.com/story/blackrocks-target-date-funds-are-about-to-get-riskier-heres-what-you-need-to-know-4d795704?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:12
+
+#### [Here are 6 reasons why stocks may shake off Iran fears and move higher in March](https://www.marketwatch.com/story/here-are-6-reasons-why-stocks-may-shake-off-iran-fears-and-move-higher-in-march-5516c160?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:10
+
+#### [This fund signals investor demand for South Korean stocks may be returning after ugly rout](https://www.marketwatch.com/story/selloff-descends-into-a-rout-in-south-korea-with-biggest-one-day-drop-since-2008-911de87c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US congressional panel votes to subpoena Pam Bondi over Epstein files](https://www.ft.com/content/efe176cc-9d36-4fe6-bfa6-ae30dd502ee2)
+**发布时间**: 2026-03-04 22:28
+
+#### [Rate of Iranian ballistic missile launches is declining, western officials say](https://www.ft.com/content/bc7b386f-23e9-4b97-8613-9f7abe985be1)
+**发布时间**: 2026-03-04 21:46
+
+#### [US in talks with Iranian Kurdish militants over anti-regime operations](https://www.ft.com/content/fe0d828d-ef51-4568-b2d7-1c286d464723)
+**发布时间**: 2026-03-04 20:08
+
+#### [China spying arrests raise awkward questions about Labour Party links](https://www.ft.com/content/2918c0e3-226d-4773-8ddf-eb7cd0a15ea3)
+**发布时间**: 2026-03-04 19:53
+
+#### [Israel expects weeks-long war against Iran](https://www.ft.com/content/dd070ee7-7021-4f90-86ec-690fe6aa34e6)
+**发布时间**: 2026-03-04 18:04
+
+#### [Trump had ‘feeling’ Iran was going to attack US interests, White House says](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 18:04
+
+#### [The Gulf’s safe-haven status is under fire](https://www.ft.com/content/87c783dd-b32d-499b-8482-70f257992e9e)
+**发布时间**: 2026-03-04 17:17
+
+#### [US submarine sinks Iranian warship in Indian Ocean](https://www.ft.com/content/d9d578d8-7daa-412b-bf2f-bcfe1fd4c6e2)
+**发布时间**: 2026-03-04 17:09
+
+#### [Labour MP’s partner among 3 arrested in UK on suspicion of spying for China](https://www.ft.com/content/2efb4703-a5bd-42a7-9b04-7b89e41decb3)
+**发布时间**: 2026-03-04 15:04
+
+#### [Iran war upends popular trades](https://www.ft.com/content/2c6529e0-41cb-4c2e-957d-04fb9641d807)
+**发布时间**: 2026-03-04 14:47
+
+#### [Be glad of Starmer’s caution over Iran](https://www.ft.com/content/eaeea2e4-7ddf-487d-9dc5-b17747ed6262)
+**发布时间**: 2026-03-04 11:40
+
+#### [The influencers leaping to Dubai’s defence](https://www.ft.com/content/a7bffadc-0787-48a6-a3d6-0a87ce1f3fdf)
+**发布时间**: 2026-03-04 11:30
+
+#### [Ali Khamenei’s son Mojtaba emerges as a leading candidate for supreme leader of Iran](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f)
+**发布时间**: 2026-03-04 10:51
 
 ---
 

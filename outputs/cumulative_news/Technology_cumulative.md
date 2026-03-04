@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 08:41
+**最后更新时间**: 2026-03-04 23:32
+
+---
+
+## 🆕 最新更新 (2026-03-04 23:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】两会日程预告丨3月5日：十四届全国人大四次会议上午9时开幕；Seedance2.0生成视频价格公布：一秒1块钱；中国石油A股市值重回第一](https://www.tmtpost.com/7899884.html)
+**发布时间**: 2026-03-05 07:20
+
+#### [耐克ACG全球首店落地北京：重押户外赛道，迟到还是破局？](https://www.tmtpost.com/7899843.html)
+**发布时间**: 2026-03-04 20:44
+
+#### [后Seedance 2.0时代：电影圈哪些岗位会消失，哪些人会留下？| 深度观察](https://www.tmtpost.com/7899659.html)
+**发布时间**: 2026-03-04 19:19
+
+#### [通义巨震：周靖人收权，林俊旸放手？](https://www.tmtpost.com/7899657.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [黄仁勋说，要有光](https://www.tmtpost.com/7899668.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [千问的开源信仰，败给商业 KPI ？](https://www.tmtpost.com/7899671.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [AI攻占MWC](https://www.tmtpost.com/7899768.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [战事持续，芯片公司逃离以色列](https://www.tmtpost.com/7899738.html)
+**发布时间**: 2026-03-04 19:17
+
+#### [叫板雅培、硬刚强生！这家人工心脏企业市占率狂飙至全国第一](https://www.tmtpost.com/7899265.html)
+**发布时间**: 2026-03-04 17:06
+
+#### [马云的Callback](https://www.tmtpost.com/7899434.html)
+**发布时间**: 2026-03-04 17:06
+
+#### [德硕科技：资产负债率超同行均值28个点，关联交易遭监管问询｜IPO观察](https://www.tmtpost.com/7897911.html)
+**发布时间**: 2026-03-04 16:47
+
+#### [乔路铭：业绩靠吉利、比亚迪撑起，低研发却存高毛利，募资补流合理性遭疑｜IPO观察](https://www.tmtpost.com/7897928.html)
+**发布时间**: 2026-03-04 16:45
+
+#### [浙江医药6亿输血“吞金兽”：子公司6年亏10多亿，靠ADC管线赌港股IPO](https://www.tmtpost.com/7891225.html)
+**发布时间**: 2026-03-04 16:43
+
+#### [金蝶的翻身仗被看空](https://www.tmtpost.com/7899288.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [激进的4A广告巨头：用AI杀死自己](https://www.tmtpost.com/7899276.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [美国万人大厂裁员40%，其实是一场表演](https://www.tmtpost.com/7899269.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [林俊旸深夜宣布离开千问，上一条还是感谢马斯克表扬](https://www.tmtpost.com/7899268.html)
+**发布时间**: 2026-03-04 16:37
+
+#### [石油运不出来，中国新能源出口迎来新转机？](https://www.tmtpost.com/7899431.html)
+**发布时间**: 2026-03-04 16:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在季节交替的时候，一次聊清烦人的花粉症](https://sspai.com/prime/story/pollen-allergy-a-guide)
+**发布时间**: 2026-03-04 20:09
+
+#### [年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略](https://sspai.com/post/106497)
+**发布时间**: 2026-03-04 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？](https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 19:05
+
+#### [谷歌将其开发者文档带入AI智能体时代](https://www.infoq.cn/article/ydyggRjpZUGwEZAAdtTF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 17:00
+
+#### [美团 AI 浏览器遭开发者公开维权！目前双方已和解，相关代码已完成开源处理](https://www.infoq.cn/article/QpgxweT242UrUwxgNu0y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:55
 
 ---
 

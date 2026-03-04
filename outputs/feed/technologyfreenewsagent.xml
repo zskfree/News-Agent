@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Mar 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 08:41:59 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 23:32:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2</title>
-      <link>https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？</title>
+      <link>https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失</title>
-      <link>https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>第一次，战争的底牌攥在AI手里</title>
+      <link>https://www.tmtpost.com/7898584.html</link>
+      <description>&lt;![CDATA[第一次，战争的底牌攥在AI手里]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7898584.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI“氛围编程”威胁开源，维护者面临危机</title>
-      <link>https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI“氛围编程”威胁开源，维护者面临危机]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋说，要有光</title>
+      <link>https://www.tmtpost.com/7899668.html</link>
+      <description>&lt;![CDATA[黄仁勋说，要有光]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7899668.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”</title>
-      <link>https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>林俊旸离职背后，是阿里千问最近一年对技术路径的战略误判</title>
+      <link>https://www.tmtpost.com/7899273.html</link>
+      <description>&lt;![CDATA[林俊旸离职背后，是阿里千问最近一年对技术路径的战略误判]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7899273.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深</title>
-      <link>https://www.tmtpost.com/7898990.html</link>
-      <description>&lt;![CDATA[两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898990.html</guid>
+      <title>战事持续，芯片公司逃离以色列</title>
+      <link>https://www.tmtpost.com/7899738.html</link>
+      <description>&lt;![CDATA[战事持续，芯片公司逃离以色列]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7899738.html</guid>
       <category>Technology</category>
     </item>
   </channel>
