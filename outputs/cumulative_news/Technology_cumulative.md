@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 05:45
+**最后更新时间**: 2026-03-04 08:41
+
+---
+
+## 🆕 最新更新 (2026-03-04 08:41)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Warper：由 Rust 驱动的 React 虚拟化库](https://www.infoq.cn/article/1O55AEl0sWVY34y70FpJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:15
+
+#### [超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”](https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:14
+
+#### [Quesma 发布 OTelBench，用于评估 OpenTelemetry 基础设施与 AI 性能](https://www.infoq.cn/article/GMXyKiUa5vTrYyFyQIx4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 16:00
+
+#### [阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2](https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 15:20
+
+#### [文化、代码与平台：打造高绩效团队](https://www.infoq.cn/article/TgdAMDxAiG0A4NWMZjyI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 15:00
+
+#### [10小时连崩4次、Claude疯狂宕机！刚把ChatGPT干到295%卸载量，就没顶住二次“爆红”？](https://www.infoq.cn/article/ahajHtW6IWVZ2gp7bBHA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 14:52
+
+#### [马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失](https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-04 14:46
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里32 岁技术大牛出走   AI时代“顶层设计”与“底层代码”的冲突](https://www.tmtpost.com/7899324.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [林俊旸离职背后，是阿里千问最近一年对技术路径的战略误判](https://www.tmtpost.com/7899273.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [手机大厂造机器人：组织基因已定胜负，为何留不住彭志辉们？](https://www.tmtpost.com/7899002.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [BTK抑制剂又要改朝换代了？](https://www.tmtpost.com/7899123.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [中概股转板港交所，意义何在？](https://www.tmtpost.com/7899124.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [宅家不无聊：中东土豪，爱上团播](https://www.tmtpost.com/7899165.html)
+**发布时间**: 2026-03-04 16:07
+
+#### [全国人大代表、通威集团董事局主席刘汉元：将光伏制造环节纳入能源行业管理，建立价格预警机制](https://www.tmtpost.com/7899519.html)
+**发布时间**: 2026-03-04 15:58
+
+#### [新能源弃电限电常态化，暴露了储能“难堪大用”的尴尬](https://www.tmtpost.com/7899017.html)
+**发布时间**: 2026-03-04 13:49
+
+#### [当油价飙升、市场下跌时，如何做好防守](https://www.tmtpost.com/7899264.html)
+**发布时间**: 2026-03-04 11:33
+
+#### [这只嘉信红利ETF堪称超级明星，防御板块和能源板块是关键](https://www.tmtpost.com/7899256.html)
+**发布时间**: 2026-03-04 11:31
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [给我的 OpenClaw 小龙虾装上声音，感觉它活了过来。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531898&idx=1&sn=a1cccde9b88ffe677c510a67e37e001c)
+**发布时间**: 2026-03-04 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从采集到回顾，我用 AI 搭建了一套个人信息处理系统](https://sspai.com/post/106477)
+**发布时间**: 2026-03-04 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [小鹏的2026，没有Plan B](http://www.huxiu.com/article/4838881.html?f=wangzhan)
+**发布时间**: 2026-03-04 14:17
 
 ---
 

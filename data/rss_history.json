@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "de0a0109eef122c3277fc6038cc8979558ce6e01518462c51c50e3750228d2d4": {
-        "title": "RISC-V架构能否改变全球算力格局？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7863689.html",
-        "published_date": "Mon, 02 Feb 2026 13:09:00 GMT",
-        "first_seen": "2026-02-02T06:05:21.668893"
-      },
-      "e9ab7b0688d996323e9c50b29f79f4da3cb4adcef21b8d5f594c9f132f9de14b": {
-        "title": "开源模型再突破，全球AI行业的拐点要来了？",
-        "link": "https://www.tmtpost.com/7863495.html",
-        "published_date": "Mon, 02 Feb 2026 12:30:00 GMT",
-        "first_seen": "2026-02-02T06:05:21.668900"
-      },
-      "f7626bdf67623fb0a47bfd8bcc3e28a6b51da207316bae8169820368e9c4c518": {
-        "title": "NVIDIA Dynamo Planner为多节点LLM推理带来SLO驱动的自动化",
-        "link": "https://www.infoq.cn/article/QJAPI0RrIrKCY2fN3KTL?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Feb 2026 13:00:00 GMT",
-        "first_seen": "2026-02-02T06:05:21.668902"
-      },
-      "6b1ff95813292727b10a689e92934372133f3c8947b7fa0ff62c6fc55b6a74af": {
-        "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
-        "link": "https://sspai.com/post/105959",
-        "published_date": "Mon, 02 Feb 2026 08:59:00 GMT",
-        "first_seen": "2026-02-02T06:05:21.668903"
-      },
-      "f8372a8d6277a2c5310d6b82d09e0c4dca77b55e937e7477007056daa32785ff": {
-        "title": "阿里的AI战略，“通云哥”既是谜面，也是谜底",
-        "link": "https://www.tmtpost.com/7863208.html",
-        "published_date": "Mon, 02 Feb 2026 13:38:00 GMT",
-        "first_seen": "2026-02-02T06:05:21.668905"
-      },
       "3c2214e21738095e7b8b0e5edd17e6a241ef8cd977a6f002a058c3825c638035": {
         "title": "2026年中国企业AI人才与组织发展报告",
         "link": "https://www.infoq.cn/minibook/UZTN39WZ81MhFteW9uDW?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7898633.html",
         "published_date": "Wed, 04 Mar 2026 11:35:00 GMT",
         "first_seen": "2026-03-04T05:46:14.210056"
+      },
+      "2521b25c4613322aac9ecc61ccf6c3d2c3705f1f8789948b47e3e7d10730a23f": {
+        "title": "阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2",
+        "link": "https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Mar 2026 15:20:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.231546"
+      },
+      "2fa665bb5c19d1391ded0b4daeb8f2cc383ab1041fc19aeea0538a3cd9e46481": {
+        "title": "马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失",
+        "link": "https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Mar 2026 14:46:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.231554"
+      },
+      "b2c389f1a62d08f04e52a34dc64f0692eb6ddb014914c6a2ce50d82ca0ad7332": {
+        "title": "AI“氛围编程”威胁开源，维护者面临危机",
+        "link": "https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Mar 2026 10:10:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.231557"
+      },
+      "9c8ee5a2d78a69b683510f70518f966e50d82c07e0fa1f102ff334712ba05944": {
+        "title": "超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”",
+        "link": "https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 04 Mar 2026 16:14:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.231559"
+      },
+      "abbbec38918773300ade166d8e5c254dd2be867963ef1fe653868ed4b20c1226": {
+        "title": "两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深",
+        "link": "https://www.tmtpost.com/7898990.html",
+        "published_date": "Wed, 04 Mar 2026 10:35:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.231561"
       }
     },
     "Finance": {
-      "0df98e0e27323e596be6b3abbf91c8a8b30072845dc91dce4b32d60458a46103": {
-        "title": "BoE expected to hold rates amid conflicting signals on UK economy",
-        "link": "https://www.ft.com/content/0309a81a-8306-413a-8b18-b2df2f0d0921",
-        "published_date": "Mon, 02 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.461483"
-      },
-      "ebc11f492bbe08548a346de2440a4d5c368eeca2167b02f736fb19957d40b32d": {
-        "title": "U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
-        "published_date": "Mon, 02 Feb 2026 03:59:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.461495"
-      },
-      "da404df45088e499e3add4a22adda9bf78cc5d93f12f9edc5f0cf7fe97cbba55": {
-        "title": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
-        "link": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
-        "published_date": "Mon, 02 Feb 2026 02:29:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.461499"
-      },
-      "6539223fc442fbaf937ca07f9f5ff0493c095588d3b951e421d380f24112b8ea": {
-        "title": "Nvidia’s OpenAI investment may not be as big as once hoped, adding to a jittery tech trade",
-        "link": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
-        "published_date": "Mon, 02 Feb 2026 03:24:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.461502"
-      },
-      "a1a855f0a223d0c32764f743d2cf70dcbf587b18e14f8510065813a0eafc1e29": {
-        "title": "The dilemmas for the UK created by a rupturing world",
-        "link": "https://www.ft.com/content/a8705e20-1c99-47a3-b86c-4346db79a8a3",
-        "published_date": "Mon, 02 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.461503"
-      },
       "af9f2656dd8bfb46660adc2e406e5cd113ffec38db638e6e8f118d69eca2cee1": {
         "title": "Gold and silver slump deepens and rattles equities",
         "link": "https://www.ft.com/content/e830a2cd-604f-4207-8ab8-fefafc6b5d70",
@@ -4692,36 +4662,6 @@
       }
     },
     "Ai": {
-      "78e6642fee906427f38d301877b7f4fbd6794fc60c7311fa4575d25129468dd0": {
-        "title": "让AI自己发现Scaling Law！北大斯坦福联手打造「AI科学家」，预测精度超越人类专家",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-02",
-        "published_date": "Mon, 02 Feb 2026 14:03:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.618611"
-      },
-      "bed44dc552ee3c36045f6a3c5a8ca1347ae24e2686554922cd596a8057e4b20a": {
-        "title": "大模型API的大众点评来了：7×24小时实测，毫秒级延迟智能路由，选API必备",
-        "link": "https://www.qbitai.com/2026/02/375355.html",
-        "published_date": "Mon, 02 Feb 2026 03:50:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.618619"
-      },
-      "0e88347e3cf604cb0e544c5a2f227feacedfcc663930b0449e283449cc28324f": {
-        "title": "阶跃星辰发布最强开源基座模型 Step 3.5 Flash，多家头部芯片厂商已完成适配",
-        "link": "https://www.qbitai.com/2026/02/375351.html",
-        "published_date": "Mon, 02 Feb 2026 03:14:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.618621"
-      },
-      "ed26cbcef9e9a0a37d48d0884527bf96971af7795c157c4fe0e716e332ee190b": {
-        "title": "开源炸场！优必选具身智能大模型Thinker再次狂揽9项全球第一！",
-        "link": "https://www.qbitai.com/2026/02/375344.html",
-        "published_date": "Mon, 02 Feb 2026 02:25:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.618623"
-      },
-      "c05a7f271bb2a2cf4f5df1baabf1293f8fc2b222ee1ea7d4894b257d74b16713": {
-        "title": "卓世科技完成数亿元Pre-IPO轮融资，国泰君安创新投、优必选等共同投资",
-        "link": "https://www.qbitai.com/2026/02/375340.html",
-        "published_date": "Mon, 02 Feb 2026 02:12:00 GMT",
-        "first_seen": "2026-02-02T06:05:02.618624"
-      },
       "bb78b5e8dd1577e7851069352e6f8aed2f444057c6a435d2ebb4791a4723a387": {
         "title": "Nature | 清北合作研发全球首个全柔性存算一体AI芯片",
         "link": "https://www.qbitai.com/2026/02/375362.html",
@@ -6485,13 +6425,25 @@
         "link": "https://www.qbitai.com/2026/03/383629.html",
         "published_date": "Tue, 03 Mar 2026 11:13:00 GMT",
         "first_seen": "2026-03-04T05:46:38.009763"
+      },
+      "d0c55f0a6d73720a866a18a7c9de88957ec54d9c8ebf38f762b94e31cd43ba34": {
+        "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
+        "link": "https://www.qbitai.com/2026/03/383902.html",
+        "published_date": "Wed, 04 Mar 2026 07:50:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.403676"
+      },
+      "748dcbc5009a488d4dcfef58659f30c3a6713e0ba4a2ca08e8f996b3d5d912ec": {
+        "title": "2026-03-04日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-04/",
+        "published_date": "Wed, 04 Mar 2026 09:26:00 GMT",
+        "first_seen": "2026-03-04T08:41:59.403683"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-04T05:46:14.210059",
+    "Technology": "2026-03-04T08:41:59.231563",
     "Finance": "2026-03-04T05:46:28.757221",
-    "Ai": "2026-03-04T05:46:38.009765"
+    "Ai": "2026-03-04T08:41:59.403686"
   }
 }

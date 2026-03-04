@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 05:45
+**最后更新时间**: 2026-03-04 08:41
+
+---
+
+## 🆕 最新更新 (2026-03-04 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Strait of Hormuz disruption threatens Middle East food imports](https://www.ft.com/content/1ede5591-54f3-4589-8aec-109772635262)
+**发布时间**: 2026-03-04 05:00
+
+#### [Israel vows to kill next Iranian leader](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 00:38
+
+#### [UK to invoke ‘emergency brake’ to ban student visa applications from four countries](https://www.ft.com/content/8fd879ac-4817-4a52-bdf7-1519b1c70cc4)
+**发布时间**: 2026-03-04 00:13
 
 ---
 
