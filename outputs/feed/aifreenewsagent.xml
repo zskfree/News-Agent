@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Mar 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 08:43:48 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 05:45:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 05:46:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群</title>
-      <link>https://www.qbitai.com/2026/03/383349.html</link>
-      <description>&lt;![CDATA[钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383349.html</guid>
+      <title>GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围</title>
+      <link>https://www.qbitai.com/2026/03/383592.html</link>
+      <description>&lt;![CDATA[GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383592.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹</title>
-      <link>https://www.qbitai.com/2026/03/383329.html</link>
-      <description>&lt;![CDATA[英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 06:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383329.html</guid>
+      <title>AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开</title>
+      <link>https://www.qbitai.com/2026/03/383368.html</link>
+      <description>&lt;![CDATA[AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383368.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图</title>
+      <link>https://www.qbitai.com/2026/03/383878.html</link>
+      <description>&lt;![CDATA[把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383878.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里千问大模型换将，32岁林俊旸官宣告别</title>
+      <link>https://www.qbitai.com/2026/03/383842.html</link>
+      <description>&lt;![CDATA[阿里千问大模型换将，32岁林俊旸官宣告别]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 01:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383842.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化</title>
+      <link>https://www.qbitai.com/2026/03/383629.html</link>
+      <description>&lt;![CDATA[大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化]]&gt;</description>
+      <pubDate>Tue, 03 Mar 2026 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383629.html</guid>
       <category>Ai</category>
     </item>
   </channel>

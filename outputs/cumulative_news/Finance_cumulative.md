@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 23:47
+**最后更新时间**: 2026-03-04 05:45
+
+---
+
+## 🆕 最新更新 (2026-03-04 05:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Is this Hizbollah’s last stand?](https://www.ft.com/content/a65dbdf6-98c1-4cbf-8e87-8e98d918a707)
+**发布时间**: 2026-03-04 05:00
+
+#### [Military briefing: how Iran could wage a new ‘tanker war’](https://www.ft.com/content/e0066ca6-81ac-443f-93c0-f3bc3a2cf4f1)
+**发布时间**: 2026-03-04 05:00
+
+#### [The cynical opportunities of ‘Epic Fury’](https://www.ft.com/content/ff712094-c211-428e-aaca-c8a60d7c7de2)
+**发布时间**: 2026-03-04 05:00
+
+#### [Gold and silver flows disrupted as Iran war grounds flights](https://www.ft.com/content/96b41e64-5a34-477f-ab03-d2da7a3a443e)
+**发布时间**: 2026-03-04 05:00
+
+#### [Investors ditch private credit funds on rising worries over bad loans](https://www.ft.com/content/346815bb-7dff-4c97-9568-7ab2432c661d)
+**发布时间**: 2026-03-04 05:00
+
+#### [Iceland freezes decade-long legal battle with Iceland](https://www.ft.com/content/329fe5cd-1e25-43ee-8b4c-2f2aa31da5f3)
+**发布时间**: 2026-03-04 05:00
+
+#### [China to lean on Russian oil as Iran crisis chokes supply](https://www.ft.com/content/114997aa-7d7c-4d85-b696-bc5123ade6cb)
+**发布时间**: 2026-03-04 04:00
+
+#### [Vance takes low profile on Iran after resisting foreign wars](https://www.ft.com/content/d0b9dadc-8532-48b5-9f9c-024c7e511c85)
+**发布时间**: 2026-03-04 02:22
+
+#### [US shale bosses warn they cannot replace war-hit Middle East oil](https://www.ft.com/content/7af02521-2861-4299-962d-5f731ed0a0ad)
+**发布时间**: 2026-03-04 01:22
+
+#### [Israel launches ‘extensive strikes’ on Iran](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 00:38
+
+#### [Blue Owl slides below listing price as private credit worries mount](https://www.ft.com/content/5e1404da-af6c-4f8a-a095-3e16827cadc9)
+**发布时间**: 2026-03-03 18:14
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Moderna’s stock rallies as deal over a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 03:43
+
+#### [My rude, ungrateful relative gave her lawyer power of attorney — and has lived to regret it. Should I get involved?](https://www.marketwatch.com/story/my-rude-ungrateful-relative-gave-her-lawyer-power-of-attorney-and-has-lived-to-regret-it-should-i-get-involved-5db8088d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:30
+
+#### [CrowdStrike gives upbeat earnings outlook as AI raises the stakes around cyberthreats](https://www.marketwatch.com/story/crowdstrike-gives-upbeat-earnings-outlook-as-ai-raises-the-stakes-around-cyberthreats-087a4b2e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:22
+
+#### [Ross Stores touts ‘very strong start’ for spring shopping, boosting case for a retail rebound](https://www.marketwatch.com/story/ross-stores-touts-very-strong-start-for-spring-shopping-boosting-case-for-a-retail-rebound-4d8f168b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:18
+
+#### [My mother will live in her second husband’s house if he dies before her. Will his kids be hopping mad?](https://www.marketwatch.com/story/his-children-might-resent-her-my-widowed-mother-has-a-life-estate-does-that-override-a-prenup-and-will-0e217484?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:00
+
+#### [Wall Street’s ‘fear gauge’ is rising as Iran conflict escalates. Here’s what investors should watch.](https://www.marketwatch.com/story/wall-streets-fear-gauge-is-rising-as-iran-conflict-escalates-heres-what-investors-should-watch-543b5d5c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:50
 
 ---
 

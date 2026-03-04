@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Mar 2026 23:47:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 23:47:54 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 05:45:00 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 05:46:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%</title>
-      <link>https://www.tmtpost.com/7898664.html</link>
-      <description>&lt;![CDATA[【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898664.html</guid>
+      <title>股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软</title>
+      <link>https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 09:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节领航、Kimi 爆发：红包大战落幕，AI行业变天</title>
-      <link>https://www.tmtpost.com/7898418.html</link>
-      <description>&lt;![CDATA[字节领航、Kimi 爆发：红包大战落幕，AI行业变天]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898418.html</guid>
+      <title>大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京</title>
+      <link>https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从夸克到千问：阿里AI“重修族谱”</title>
-      <link>https://www.tmtpost.com/7898028.html</link>
-      <description>&lt;![CDATA[从夸克到千问：阿里AI“重修族谱”]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898028.html</guid>
+      <title>阿里千问“换帅”风暴：林俊旸转身，大模型赛道告别英雄时代</title>
+      <link>https://www.tmtpost.com/7899168.html</link>
+      <description>&lt;![CDATA[阿里千问“换帅”风暴：林俊旸转身，大模型赛道告别英雄时代]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7899168.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱</title>
-      <link>https://www.tmtpost.com/7898398.html</link>
-      <description>&lt;![CDATA[姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898398.html</guid>
+      <title>我们与千问AI硬件负责人宋刚聊了聊，“一句话办事”何以重构硬件战场？｜AGI对话</title>
+      <link>https://www.tmtpost.com/7899308.html</link>
+      <description>&lt;![CDATA[我们与千问AI硬件负责人宋刚聊了聊，“一句话办事”何以重构硬件战场？｜AGI对话]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7899308.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开发者欢呼，普通人迷茫：OpenClaw之后，“可用AI”的路该怎么走？</title>
-      <link>https://www.infoq.cn/article/Br5brKyveOf15uEgOzvX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[开发者欢呼，普通人迷茫：OpenClaw之后，“可用AI”的路该怎么走？]]&gt;</description>
-      <pubDate>Tue, 03 Mar 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Br5brKyveOf15uEgOzvX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MiniMax交卷！从烧钱到赚钱还有多久？</title>
+      <link>https://www.tmtpost.com/7898633.html</link>
+      <description>&lt;![CDATA[MiniMax交卷！从烧钱到赚钱还有多久？]]&gt;</description>
+      <pubDate>Wed, 04 Mar 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7898633.html</guid>
       <category>Technology</category>
     </item>
   </channel>
