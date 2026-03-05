@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 23:32
+**最后更新时间**: 2026-03-05 05:50
+
+---
+
+## 🆕 最新更新 (2026-03-05 05:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Pentagon eyes Ukrainian interceptor drones to counter Iran](https://www.ft.com/content/d077e9c6-1573-46dc-8658-3db3aaf7cdfb)
+**发布时间**: 2026-03-05 05:00
+
+#### [How Sánchez became Trump’s nemesis in Europe](https://www.ft.com/content/987bb3a4-76b2-41f0-9a9a-6c13159b4ba9)
+**发布时间**: 2026-03-05 05:00
+
+#### [Iran attacks show the perils of following America’s economic lead](https://www.ft.com/content/8dc24319-631e-4477-a002-668a410c40e9)
+**发布时间**: 2026-03-05 05:00
+
+#### [NHS official pushed to add patient data to Palantir platform while also advising company](https://www.ft.com/content/6c548670-0f3e-45f1-ba08-8bb6dd152af5)
+**发布时间**: 2026-03-05 05:00
+
+#### [Web of tiny accounting firms audited collapsed MFS property lending empire](https://www.ft.com/content/0d53fc5c-cd3c-41a7-8d22-71f265877318)
+**发布时间**: 2026-03-05 05:00
+
+#### [Anthropic chief back in talks with Pentagon about AI deal](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)
+**发布时间**: 2026-03-05 01:40
+
+#### [OpenAI pushes to add surveillance safeguards following Pentagon deal](https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6)
+**发布时间**: 2026-03-05 00:39
+
+#### [Iran fires more missiles towards Israel](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 00:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The most expensive state for in-home caregiving may surprise you — and it costs almost $9,000 a month there](https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 03:45
+
+#### [How to step back from your job without killing your career](https://www.marketwatch.com/story/im-overworked-heres-how-to-step-back-from-your-job-without-killing-your-career-e1b478ce?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 03:27
+
+#### [Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt](https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 02:04
+
+#### [Broadcom says AI is not disrupting its software business, and its stock climbs](https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 01:19
+
+#### [Okta’s stock rises as momentum in AI agents fuels an earnings beat](https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 01:17
+
+#### [Tesla’s self-driving effort could be worth more than double its EV division](https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:50
+
+#### [Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share](https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:49
+
+#### [Why the rise in 401(k) hardship withdrawals may not be such a problem](https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:31
 
 ---
 

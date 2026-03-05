@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Mar 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 23:32:55 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 05:50:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 05:50:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Teaching LLMs to reason like Bayesians</title>
-      <link>https://research.google/blog/teaching-llms-to-reason-like-bayesians/</link>
-      <description>&lt;![CDATA[Teaching LLMs to reason like Bayesians]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 20:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/teaching-llms-to-reason-like-bayesians/</guid>
+      <title>2026-03-05日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-05/</link>
+      <description>&lt;![CDATA[2026-03-05日刊]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 09:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-05/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟</title>
+      <link>https://www.qbitai.com/2026/03/383927.html</link>
+      <description>&lt;![CDATA[阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 04:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383927.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d0629ac270acde108ed5ccd0863bd97682b7d22e6bb153bc35bf31703a0c4a24": {
-        "title": "给大模型集体“把脉”，清程极智发布 AI Ping 平台",
-        "link": "https://www.infoq.cn/article/SDsUhSvWcp0PVTXNXArm?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Feb 2026 17:45:00 GMT",
-        "first_seen": "2026-02-02T23:32:37.298849"
-      },
-      "62d0ccd6988ee5141df38e309b3d544b3e5d52b75a6db1d1a69e7866213b0704": {
-        "title": "新富科技：客户集中度极高，关联交易异常，核心产品曾亏损卖却仍大举扩产｜IPO观察",
-        "link": "https://www.tmtpost.com/7863283.html",
-        "published_date": "Mon, 02 Feb 2026 10:37:00 GMT",
-        "first_seen": "2026-02-02T23:32:37.298857"
-      },
-      "0ad6ea2b5e56cb5a211b5ce441faf3b20f19f2ae04f83e8d202aa8cc90106699": {
-        "title": "雷鸟创新背着10亿闯三关",
-        "link": "https://www.tmtpost.com/7864279.html",
-        "published_date": "Mon, 02 Feb 2026 18:20:00 GMT",
-        "first_seen": "2026-02-02T23:32:37.298859"
-      },
-      "aabd8b98c37d6986616b4f3f9ffa12ed9f616ff0f2ebfb7a3373dc47fad4baa5": {
-        "title": "彩讯股份发布《企业级 AI 应用白皮书》用AI重新定义企业级软件",
-        "link": "https://www.infoq.cn/article/GpiFToEo9bh05SGXwwyL?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Feb 2026 14:57:00 GMT",
-        "first_seen": "2026-02-02T23:32:37.298860"
-      },
-      "c741e0ebbfe7e568532b46a3461489542852894b16bfdbb9e94f38c8304db58a": {
-        "title": "创新药并购的风往哪里吹",
-        "link": "https://www.tmtpost.com/7863484.html",
-        "published_date": "Mon, 02 Feb 2026 10:27:00 GMT",
-        "first_seen": "2026-02-02T23:32:37.298862"
-      },
       "dc546df8655f848658f5aeb7b8ee797522975d8996069b198f8138a1ce15c045": {
         "title": "当勒索解密成功率跌破30%，stefen和他数字镖局的效率竞赛",
         "link": "https://www.tmtpost.com/7864971.html",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7899738.html",
         "published_date": "Wed, 04 Mar 2026 19:17:00 GMT",
         "first_seen": "2026-03-04T23:32:37.574654"
+      },
+      "f19fa7c9ae876c64d390395518cabd2dca63146ffcc878a978b9a6a0e73eba0d": {
+        "title": "阿里千问负责人林俊旸离职，高层回应“无关政治斗争”，AI圈刷屏：Qwen 开源时代要变了吗？",
+        "link": "https://www.infoq.cn/article/qlqdGvfWkwSrKGFSJQFT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 10:21:00 GMT",
+        "first_seen": "2026-03-05T05:50:40.601351"
+      },
+      "2af085dfb4233be67ac22d4f147666d1949e941028938e4037004c747a8d316e": {
+        "title": "Sora 浪潮下的视频内容安全：深度伪造检测与水印对抗技术解析",
+        "link": "https://www.infoq.cn/article/gryFJTax0f58Ghw4GisF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 11:29:00 GMT",
+        "first_seen": "2026-03-05T05:50:40.601359"
+      },
+      "45deb0fcd84c8a841f75a35af52b57d758879013a42e174f256c6a5e4594ffa3": {
+        "title": "博通 AVGO：AI 火力全开，英伟达对头更飒？",
+        "link": "https://www.tmtpost.com/7900483.html",
+        "published_date": "Thu, 05 Mar 2026 11:35:00 GMT",
+        "first_seen": "2026-03-05T05:50:40.601362"
+      },
+      "b6efd0c208d8e8a6e489f82fe6f0ab514657e2af8425232cae97664becea6925": {
+        "title": "全国人大代表李东生：加强资本市场对先进制造企业融资支持、发挥市场力量推动光伏“反内卷”",
+        "link": "https://www.tmtpost.com/7900892.html",
+        "published_date": "Thu, 05 Mar 2026 13:05:00 GMT",
+        "first_seen": "2026-03-05T05:50:40.601364"
+      },
+      "bc263e5de8481f633506ab16654b438150aa6e685514e676453f9d946744f661": {
+        "title": "吉利智能辅助驾驶整合后，首访掌舵人陈奇",
+        "link": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
+        "published_date": "Thu, 05 Mar 2026 10:53:00 GMT",
+        "first_seen": "2026-03-05T05:50:40.601366"
       }
     },
     "Finance": {
@@ -4647,6 +4647,36 @@
         "link": "https://www.marketwatch.com/story/here-are-6-reasons-why-stocks-may-shake-off-iran-fears-and-move-higher-in-march-5516c160?mod=mw_rss_topstories",
         "published_date": "Wed, 04 Mar 2026 22:10:00 GMT",
         "first_seen": "2026-03-04T23:32:55.614663"
+      },
+      "9e95fc1e6d0d62ae2f0409f74db28b1860e0164ddb8918ae43609533d408005f": {
+        "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
+        "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Mar 2026 02:04:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.034681"
+      },
+      "0e79641ce5905c273e06af595b3889b37cc71bac4672c40dd883c251ef914f5a": {
+        "title": "Iran attacks show the perils of following America’s economic lead",
+        "link": "https://www.ft.com/content/8dc24319-631e-4477-a002-668a410c40e9",
+        "published_date": "Thu, 05 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.034687"
+      },
+      "46de78d7414f436e5b6ea28333916bb961b04c7bb291a11cc7b80e73b89f8c94": {
+        "title": "Web of tiny accounting firms audited collapsed MFS property lending empire",
+        "link": "https://www.ft.com/content/0d53fc5c-cd3c-41a7-8d22-71f265877318",
+        "published_date": "Thu, 05 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.034690"
+      },
+      "dbce475c79e8ba2f7c4a0debbbbda550f931fcab284cc88cdd31544b90d8459d": {
+        "title": "Tesla’s self-driving effort could be worth more than double its EV division",
+        "link": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories",
+        "published_date": "Wed, 04 Mar 2026 23:50:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.034692"
+      },
+      "0a75b05c8ddbfba0723a12b164ef6c4ba399ffc3f3a7af4ab5e566959e81ddde": {
+        "title": "OpenAI pushes to add surveillance safeguards following Pentagon deal",
+        "link": "https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6",
+        "published_date": "Thu, 05 Mar 2026 00:39:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.034693"
       }
     },
     "Ai": {
@@ -6371,13 +6401,25 @@
         "link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
         "published_date": "Wed, 04 Mar 2026 20:29:00 GMT",
         "first_seen": "2026-03-04T23:32:55.767930"
+      },
+      "9b86b9cc5b4c5c2d96367218d942d68bfe8f959124a49777dad1aad0871feed0": {
+        "title": "2026-03-05日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-05/",
+        "published_date": "Thu, 05 Mar 2026 09:18:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.180372"
+      },
+      "ccbf36bbc33823ea3e7a3434510fd5835585eccc58020e0c1cdba120135031fa": {
+        "title": "阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟",
+        "link": "https://www.qbitai.com/2026/03/383927.html",
+        "published_date": "Thu, 05 Mar 2026 04:24:00 GMT",
+        "first_seen": "2026-03-05T05:50:54.180380"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-04T23:32:37.574657",
-    "Finance": "2026-03-04T23:32:55.614665",
-    "Ai": "2026-03-04T23:32:55.767937"
+    "Technology": "2026-03-05T05:50:40.601368",
+    "Finance": "2026-03-05T05:50:54.034696",
+    "Ai": "2026-03-05T05:50:54.180382"
   }
 }
