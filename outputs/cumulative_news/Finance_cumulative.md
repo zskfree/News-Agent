@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 05:50
+**最后更新时间**: 2026-03-05 08:45
+
+---
+
+## 🆕 最新更新 (2026-03-05 08:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK received second big donation from Thailand-based crypto investor](https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114)
+**发布时间**: 2026-03-05 07:44
+
+#### [Gulf oil producers face race to resume exports before storage fills up](https://www.ft.com/content/aaaad78b-2980-4bb3-90f8-e8d7ab617796)
+**发布时间**: 2026-03-05 05:00
+
+#### [Israel hits Iran and Lebanon on sixth day of conflict](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 00:06
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Mar 2026 05:50:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2026 05:50:54 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 08:45:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-05日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-05/</link>
-      <description>&lt;![CDATA[2026-03-05日刊]]&gt;</description>
-      <pubDate>Thu, 05 Mar 2026 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-05/</guid>
+      <title>GPT-5.3 Instant上线：ChatGPT终于不说教了</title>
+      <link>https://www.qbitai.com/2026/03/383974.html</link>
+      <description>&lt;![CDATA[GPT-5.3 Instant上线：ChatGPT终于不说教了]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 07:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383974.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟</title>
-      <link>https://www.qbitai.com/2026/03/383927.html</link>
-      <description>&lt;![CDATA[阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟]]&gt;</description>
-      <pubDate>Thu, 05 Mar 2026 04:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383927.html</guid>
+      <title>捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进</title>
+      <link>https://www.qbitai.com/2026/03/383998.html</link>
+      <description>&lt;![CDATA[捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383998.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战</title>
+      <link>https://www.qbitai.com/2026/03/383947.html</link>
+      <description>&lt;![CDATA[悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 06:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383947.html</guid>
       <category>Ai</category>
     </item>
   </channel>

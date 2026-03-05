@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 05:50
+**最后更新时间**: 2026-03-05 08:45
+
+---
+
+## 🆕 最新更新 (2026-03-05 08:45)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [林俊旸告别千问，阿里AI的转身与代价](https://www.tmtpost.com/7901214.html)
+**发布时间**: 2026-03-05 16:35
+
+#### [堂食客单价跌回十年前，越来越便宜，餐饮企业该如何突围？](https://www.tmtpost.com/7901090.html)
+**发布时间**: 2026-03-05 15:21
+
+#### [别了，理想主义者：阿里“结果导向”下的AI天才出走](https://www.tmtpost.com/7901078.html)
+**发布时间**: 2026-03-05 15:15
+
+#### [610亿“史上最牛散户”，加仓英伟达](https://www.tmtpost.com/7901062.html)
+**发布时间**: 2026-03-05 15:04
+
+#### [540亿糖尿病新霸主即将诞生？](https://www.tmtpost.com/7901016.html)
+**发布时间**: 2026-03-05 15:00
+
+#### [瑞幸大股东的新野心藏不住了](https://www.tmtpost.com/7901030.html)
+**发布时间**: 2026-03-05 14:57
+
+#### [首富二代，重回LP牌桌](https://www.tmtpost.com/7901067.html)
+**发布时间**: 2026-03-05 14:53
+
+#### [量贩零食卷向县城](https://www.tmtpost.com/7899904.html)
+**发布时间**: 2026-03-05 14:49
+
+#### [下一个美团？抖省省背后的万亿野心](https://www.tmtpost.com/7900992.html)
+**发布时间**: 2026-03-05 14:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放](https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 16:12
+
+#### [借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用](https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 16:00
+
+#### [微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发](https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 15:00
+
+#### [在壮大软件领导团队过程中总结的经验教训](https://www.infoq.cn/article/KKE2jJwbx7xQXpuAl4LK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [OpenClaw 控制你的 Mac 和 Windows 电脑，支持 SKill 的 GitHub 神器。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531901&idx=1&sn=2bdc913f95cfa0523f715a29f8cdd687)
+**发布时间**: 2026-03-05 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [开赛在即，疾速入坑：F1 2026 观赛指南](https://sspai.com/post/103846)
+**发布时间**: 2026-03-05 14:32
 
 ---
 
