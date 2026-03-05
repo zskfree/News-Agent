@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Mar 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2026 08:45:58 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 23:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:53:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5.3 Instant上线：ChatGPT终于不说教了</title>
-      <link>https://www.qbitai.com/2026/03/383974.html</link>
-      <description>&lt;![CDATA[GPT-5.3 Instant上线：ChatGPT终于不说教了]]&gt;</description>
-      <pubDate>Thu, 05 Mar 2026 07:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383974.html</guid>
+      <title>企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布</title>
+      <link>https://www.qbitai.com/2026/03/384330.html</link>
+      <description>&lt;![CDATA[企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384330.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进</title>
-      <link>https://www.qbitai.com/2026/03/383998.html</link>
-      <description>&lt;![CDATA[捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进]]&gt;</description>
-      <pubDate>Thu, 05 Mar 2026 07:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383998.html</guid>
+      <title>华为重金押注的世界模型公司，新融了10个亿！</title>
+      <link>https://www.qbitai.com/2026/03/384312.html</link>
+      <description>&lt;![CDATA[华为重金押注的世界模型公司，新融了10个亿！]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 12:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384312.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战</title>
-      <link>https://www.qbitai.com/2026/03/383947.html</link>
-      <description>&lt;![CDATA[悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战]]&gt;</description>
-      <pubDate>Thu, 05 Mar 2026 06:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383947.html</guid>
+      <title>一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管</title>
+      <link>https://www.qbitai.com/2026/03/384307.html</link>
+      <description>&lt;![CDATA[一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管]]&gt;</description>
+      <pubDate>Thu, 05 Mar 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384307.html</guid>
       <category>Ai</category>
     </item>
   </channel>

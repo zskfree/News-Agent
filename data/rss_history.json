@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "804e2b55e0972df0496125873fc0aa36095a27db027177d8d571a8197b580f24": {
-        "title": "瑞士生物科技公司InCephalo研发能局部作用于胶质母细胞瘤的生物制剂，提升药物局部停留时间与浓度",
-        "link": "https://www.tmtpost.com/7865409.html",
-        "published_date": "Tue, 03 Feb 2026 19:17:00 GMT",
-        "first_seen": "2026-02-03T23:31:50.006450"
-      },
-      "7c4029798dde2ce5bac06f7d3a2e29ba76e6ed2c532ec799b1f0b9ad69a2f5a8": {
-        "title": "【钛晨报】2026年中央一号文件发布，部署扎实推进乡村全面振兴；游戏等行业增值税税率要提高？专家表示没有可信度；OpenAI多名资深研究人员离职",
-        "link": "https://www.tmtpost.com/7865840.html",
-        "published_date": "Wed, 04 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-03T23:31:50.006458"
-      },
-      "b192a1ec6cab16fd0a41c82c2c819592b1dd52cb6febd0c3940548a9dabb607f": {
-        "title": "连续3年业绩不达标后，芯导科技4亿并购设宽松盈利对赌｜并购一线",
-        "link": "https://www.tmtpost.com/7865691.html",
-        "published_date": "Tue, 03 Feb 2026 19:36:00 GMT",
-        "first_seen": "2026-02-03T23:31:50.006460"
-      },
-      "8974159dfd22876108a03d739ba1f07d9943a8c708925ed186388c5ca64d8f47": {
-        "title": "OpenAI 与 Anthropic 推出专注医疗场景的 AI 平台",
-        "link": "https://www.infoq.cn/article/7Jd4cZ29AWWZLIgXd81U?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 19:20:00 GMT",
-        "first_seen": "2026-02-03T23:31:50.006462"
-      },
-      "5223c5c8f5cd9dc0c89a2e884f64efca5a0a2b050eedd5fabe3c73d68eca5b87": {
-        "title": "“我让AI在我的电脑上为所欲为！”OpenClaw创始人：爆火的MoltBook社交网络，技术其实简单到离谱",
-        "link": "https://www.infoq.cn/article/GcgASrAjRRRDDqlHsPSY?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Feb 2026 16:12:00 GMT",
-        "first_seen": "2026-02-03T23:31:50.006464"
-      },
       "c65767c35274b5a2871fde850580eaa85e9cef53917b05a10a71c295f370125b": {
         "title": "一场活动，80名高管，14万亿市值，寻找一个关于超级公司的答案",
         "link": "https://www.tmtpost.com/7865514.html",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7900620.html",
         "published_date": "Thu, 05 Mar 2026 11:43:00 GMT",
         "first_seen": "2026-03-05T08:45:58.047145"
+      },
+      "f186070a2eb9fc0845b59f4ab72adc5aa735f269b8c8404da4a234d8aa04ff48": {
+        "title": "OpenClaw登顶后，Agent悄悄杀死了“应用”",
+        "link": "https://www.tmtpost.com/7901599.html",
+        "published_date": "Thu, 05 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-05T23:52:48.368702"
+      },
+      "fc1b97664a63e0e99f9858209c455e0a5d39342403f6fe61850ba0c76c3ad0e2": {
+        "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
+        "link": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 17:11:00 GMT",
+        "first_seen": "2026-03-05T23:52:48.368710"
+      },
+      "f0dd410414c693deabde2b92980f98a5aa22dd12a1520ce305c02260f36ebead": {
+        "title": "AI 真能做研究吗？UniPat AI 开源 UniScientist，用30B小模型给出肯定答案｜公司动态",
+        "link": "https://www.tmtpost.com/7901861.html",
+        "published_date": "Thu, 05 Mar 2026 21:14:00 GMT",
+        "first_seen": "2026-03-05T23:52:48.368737"
+      },
+      "2690120e03e3f19c52be94442a046a5d788d78e322cf1e506111facd3c9a2efb": {
+        "title": "200亿半导体独角兽冲刺科创板：盛合晶微的底牌与暗礁",
+        "link": "https://www.tmtpost.com/7898653.html",
+        "published_date": "Thu, 05 Mar 2026 19:21:00 GMT",
+        "first_seen": "2026-03-05T23:52:48.368742"
+      },
+      "35e838a4808d4904e34934fdff3bedb1782951f70d0234587e0e39519e6dcd72": {
+        "title": "全国政协委员、天娱数科董事长贺晗：场景牵引、央国企带头，拉动人形机器人规模化上岗",
+        "link": "https://www.tmtpost.com/7901641.html",
+        "published_date": "Thu, 05 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-05T23:52:48.368745"
       }
     },
     "Finance": {
-      "36181b091a3a7697849d2143ed5ca1261efe60bfa3902c0114b96acc8df46987": {
-        "title": "US stocks drop on fears AI will hit software and analytics groups",
-        "link": "https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7",
-        "published_date": "Tue, 03 Feb 2026 22:20:00 GMT",
-        "first_seen": "2026-02-03T23:30:21.216294"
-      },
-      "23829ade3166c9b0837353a4215b91d4dae6388e7bdfb251f80fe9bc26a53e9d": {
-        "title": "Warsh faces Senate battle as lawmakers object to Trump’s attacks on Fed",
-        "link": "https://www.ft.com/content/c93d25f5-2f35-4320-9fab-05e963086733",
-        "published_date": "Tue, 03 Feb 2026 21:51:00 GMT",
-        "first_seen": "2026-02-03T23:30:21.216305"
-      },
-      "c0d801f9be088b61dbd4164b9338c8853c3c1dbd64f2c193135838cdc9223ef9": {
-        "title": "Oracle’s monster $25 billion debt financing points to anxieties around AI funding",
-        "link": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Feb 2026 23:00:00 GMT",
-        "first_seen": "2026-02-03T23:30:21.216307"
-      },
-      "bba0618043f93c20f92611707992a8fa5151dd88c98a3eae322ccbaa37af937b": {
-        "title": "The new rules of finance, courtesy of Elon Musk",
-        "link": "https://www.ft.com/content/8a012108-3560-4cf4-8716-740cfb992ba6",
-        "published_date": "Tue, 03 Feb 2026 18:45:00 GMT",
-        "first_seen": "2026-02-03T23:30:21.216309"
-      },
-      "a473649f73ff0131e15801859751f89f16de7b02ed5f78205ca17e94d0ee0518": {
-        "title": "Former prince discussed with Epstein ways to get round investment rules",
-        "link": "https://www.ft.com/content/6b2fcd1b-45c5-4611-affd-186483602a26",
-        "published_date": "Tue, 03 Feb 2026 23:10:00 GMT",
-        "first_seen": "2026-02-03T23:30:21.216311"
-      },
       "70b4dd3f033c8128d6b61affffa001ff708a605db0079a5bc98d9afa086874f4": {
         "title": "Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.",
         "link": "https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories",
@@ -4623,39 +4593,39 @@
         "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
         "published_date": "Thu, 05 Mar 2026 07:44:00 GMT",
         "first_seen": "2026-03-05T08:45:58.080374"
+      },
+      "792bfe0768c1b709a743cabeb30d59cf7ec651f4187b9cd195ed57e809b3ecc0": {
+        "title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges",
+        "link": "https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc",
+        "published_date": "Thu, 05 Mar 2026 22:48:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.230703"
+      },
+      "a77a5650439a3257c1a68959cd800bdf6b526b66586b5f9756b33cbad2c91e38": {
+        "title": "Nvidia stops production of chips intended for China",
+        "link": "https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb",
+        "published_date": "Thu, 05 Mar 2026 09:24:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.230710"
+      },
+      "dbb081540d517ecdf33001ebc8c63778d13658c7a5e2b601d53b706a525b9a19": {
+        "title": "Depleted oil reserve leaves US exposed as Iran war pushes up prices",
+        "link": "https://www.ft.com/content/d546fd5b-4a0c-4b90-8bee-9e85b75458ed",
+        "published_date": "Thu, 05 Mar 2026 23:03:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.230729"
+      },
+      "d131f8ae8109b9ebe495538b0bbd21ce0a97f022bb2da236526c08a0a47c42ea": {
+        "title": "Gulf states could review overseas investments to ease strains caused by Iran war",
+        "link": "https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f",
+        "published_date": "Thu, 05 Mar 2026 22:02:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.230731"
+      },
+      "abee4e5fd117f73055c288097e44b833b848b059a9d013228b77161c8078ea6f": {
+        "title": "Trade Desk’s stock soars, as a potential OpenAI partnership gives investors reason to cheer",
+        "link": "https://www.marketwatch.com/story/trade-desks-stock-soars-as-a-potential-openai-partnership-gave-investors-reason-to-cheer-542f2331?mod=mw_rss_topstories",
+        "published_date": "Thu, 05 Mar 2026 23:10:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.230733"
       }
     },
     "Ai": {
-      "eec850048373350d1d6207fbf5200ce20b1839454f7ef49105e2ca5d2adff994": {
-        "title": "大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-10",
-        "published_date": "Tue, 03 Feb 2026 23:29:00 GMT",
-        "first_seen": "2026-02-03T23:31:01.381932"
-      },
-      "86f1cc1912471cd8e978f533c6feabd732cedf87d4d1ddbc0469488f51618a1b": {
-        "title": "刚刚，腾讯姚顺雨署名首篇论文发布，「下半场」先搞上下文学习",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-7",
-        "published_date": "Tue, 03 Feb 2026 19:01:00 GMT",
-        "first_seen": "2026-02-03T23:31:01.381939"
-      },
-      "ba862afc88ffa07e5ebec9580ada021f94d4293a48dee1ba4c69550d28d94902": {
-        "title": "谷歌给「AI解数学题」神话降温：能摘低垂果实，但过程依然痛苦",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-9",
-        "published_date": "Tue, 03 Feb 2026 23:25:00 GMT",
-        "first_seen": "2026-02-03T23:31:01.381942"
-      },
-      "2a0d31441ad2fac75b611fdc6628e761bd0815647ea88a884ff7a36b52ca60bb": {
-        "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
-        "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
-        "published_date": "Tue, 03 Feb 2026 18:15:00 GMT",
-        "first_seen": "2026-02-03T23:31:01.381943"
-      },
-      "26545d0350c1d138b1424ba4a06716a333d6d935cb460c2a582d3e52c70e1e6e": {
-        "title": "ICLR 2026 | Rebuttal 是一场「带着镣铐的舞蹈」？港科 RebuttalAgent 用心智理论「读懂」审稿人",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-8",
-        "published_date": "Tue, 03 Feb 2026 23:21:00 GMT",
-        "first_seen": "2026-02-03T23:31:01.381945"
-      },
       "f98d999a52b57606241c65742c66540bd8b154a7b9673757534d588af9c1928a": {
         "title": "倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了",
         "link": "https://www.jiqizhixin.com/articles/2026-02-04-8",
@@ -6317,13 +6287,31 @@
         "link": "https://www.qbitai.com/2026/03/383947.html",
         "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
         "first_seen": "2026-03-05T08:45:58.230641"
+      },
+      "b2cf1333bd60550803458b8e3dc0491acd7dd9d139aa67fa298d248f3b6f0575": {
+        "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
+        "link": "https://www.qbitai.com/2026/03/384330.html",
+        "published_date": "Thu, 05 Mar 2026 13:04:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.381904"
+      },
+      "b0e027e62199b848638d0c6c3ecbd9bfe90ad96643eb312dc6a3183d7c0c480c": {
+        "title": "华为重金押注的世界模型公司，新融了10个亿！",
+        "link": "https://www.qbitai.com/2026/03/384312.html",
+        "published_date": "Thu, 05 Mar 2026 12:27:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.381912"
+      },
+      "3df9eba7d41b63e14cfb83f71496e06ffbc6a85b58f490d4dd280500fb37ce41": {
+        "title": "一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管",
+        "link": "https://www.qbitai.com/2026/03/384307.html",
+        "published_date": "Thu, 05 Mar 2026 11:33:00 GMT",
+        "first_seen": "2026-03-05T23:53:08.381914"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-05T08:45:58.047147",
-    "Finance": "2026-03-05T08:45:58.080380",
-    "Ai": "2026-03-05T08:45:58.230643"
+    "Technology": "2026-03-05T23:52:48.368748",
+    "Finance": "2026-03-05T23:53:08.230736",
+    "Ai": "2026-03-05T23:53:08.381916"
   }
 }

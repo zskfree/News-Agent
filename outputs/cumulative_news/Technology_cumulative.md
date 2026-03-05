@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 08:45
+**最后更新时间**: 2026-03-05 23:52
+
+---
+
+## 🆕 最新更新 (2026-03-05 23:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验；阿里辟谣大模型团队集体离职；美国七大科技巨头签署自主供电承诺](https://www.tmtpost.com/7901884.html)
+**发布时间**: 2026-03-06 07:20
+
+#### [AI 真能做研究吗？UniPat AI 开源 UniScientist，用30B小模型给出肯定答案｜公司动态](https://www.tmtpost.com/7901861.html)
+**发布时间**: 2026-03-05 21:14
+
+#### [200亿半导体独角兽冲刺科创板：盛合晶微的底牌与暗礁](https://www.tmtpost.com/7898653.html)
+**发布时间**: 2026-03-05 19:21
+
+#### [供应链管理数智化的残酷真相：99%的失败，与那1%的“唯一解”](https://www.tmtpost.com/7901380.html)
+**发布时间**: 2026-03-05 19:21
+
+#### [300亿营收背后的真相：统一正在经历一场“静悄悄的衰退”](https://www.tmtpost.com/7901426.html)
+**发布时间**: 2026-03-05 19:19
+
+#### [木鸟途家抢山头，中国民宿“卷”向AI](https://www.tmtpost.com/7901597.html)
+**发布时间**: 2026-03-05 19:19
+
+#### [OpenClaw登顶后，Agent悄悄杀死了“应用”](https://www.tmtpost.com/7901599.html)
+**发布时间**: 2026-03-05 19:19
+
+#### [线下零售转型的真方案：“重做一家公司”](https://www.tmtpost.com/7901617.html)
+**发布时间**: 2026-03-05 19:19
+
+#### [你有没有偷偷删除与AI的聊天记录？](https://www.tmtpost.com/7901631.html)
+**发布时间**: 2026-03-05 19:19
+
+#### [润贝航科6.25亿可转债加码主业，低负债托底扩张却遇大股东减持](https://www.tmtpost.com/7899733.html)
+**发布时间**: 2026-03-05 19:04
+
+#### [全国政协委员、天娱数科董事长贺晗：场景牵引、央国企带头，拉动人形机器人规模化上岗](https://www.tmtpost.com/7901641.html)
+**发布时间**: 2026-03-05 19:02
+
+#### [三只娃娃，与泡泡玛特的三种命运](https://www.tmtpost.com/7901449.html)
+**发布时间**: 2026-03-05 18:10
+
+#### [头部亏7亿、内查AI剧本、腰部项目全停？红果短剧波动引发行业大地震](https://www.tmtpost.com/7901454.html)
+**发布时间**: 2026-03-05 18:10
+
+#### [“锦欣系”第二个IPO来了，开讲康养板块资本故事｜IPO观察](https://www.tmtpost.com/7901393.html)
+**发布时间**: 2026-03-05 17:54
+
+#### [Tencent-backed “Insta360 of the Laser Industry” Heading for an IPO](https://www.tmtpost.com/7901451.html)
+**发布时间**: 2026-03-05 17:39
+
+#### [放弃科创板转战港股，已入集采的天星医疗在急什么？](https://www.tmtpost.com/7901234.html)
+**发布时间**: 2026-03-05 16:45
+
+#### [瑞士生物科技公司NXI Therapeutics研发靶向 Coronin 1 通路的选择性免疫调节剂](https://www.tmtpost.com/7901318.html)
+**发布时间**: 2026-03-05 16:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenClaw 热潮下，团队级 AI Coding 怎么落地？](https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 18:09
+
+#### [Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘](https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 18:00
+
+#### [万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地](https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 17:11
+
+#### [.NET 11 ASP.NET Core预览版1带来全新的Blazor组件、改进的导航功能以及WebAssembly支持](https://www.infoq.cn/article/GTCTH14eAiKrxaAoA7uc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-05 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 237｜少数派的编辑们最近买了啥？](https://sspai.com/post/106868)
+**发布时间**: 2026-03-05 17:11
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [大众用增程“炮轰”自己](http://www.huxiu.com/article/4839284.html?f=wangzhan)
+**发布时间**: 2026-03-05 14:35
 
 ---
 

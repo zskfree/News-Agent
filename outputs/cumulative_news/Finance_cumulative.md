@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 08:45
+**最后更新时间**: 2026-03-05 23:52
+
+---
+
+## 🆕 最新更新 (2026-03-05 23:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trade Desk’s stock soars, as a potential OpenAI partnership gives investors reason to cheer](https://www.marketwatch.com/story/trade-desks-stock-soars-as-a-potential-openai-partnership-gave-investors-reason-to-cheer-542f2331?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 23:10
+
+#### [Kroger extended its streak of sales misses — but that’s not hurting its profits](https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 23:04
+
+#### [FIFA World Cup games in Massachusetts may be in danger amid funding fight. Here’s what fans can do.](https://www.marketwatch.com/story/fifa-world-cup-games-in-massachusetts-may-in-danger-amid-funding-fight-heres-what-fans-can-do-be9b47db?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:38
+
+#### [The scary numbers on retirement healthcare: You’ll need up to $469,000 saved](https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:38
+
+#### [This Gap brand continues to be an underperformer, and it is dragging the retailer’s stock](https://www.marketwatch.com/story/this-gap-brand-continues-to-be-an-underperformer-and-it-is-dragging-the-retailers-stock-579397c9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:28
+
+#### [‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?](https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:20
+
+#### [Costco’s stock chart sees first bullish ‘golden cross’ in 3 years as earnings are released](https://www.marketwatch.com/story/costcos-stock-chart-sees-a-bullish-golden-cross-just-before-earnings-are-released-1784c6f1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Iran wants to ‘make a deal’ to end the war](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 23:10
+
+#### [Depleted oil reserve leaves US exposed as Iran war pushes up prices](https://www.ft.com/content/d546fd5b-4a0c-4b90-8bee-9e85b75458ed)
+**发布时间**: 2026-03-05 23:03
+
+#### [US considers tying Nvidia and AMD AI chip exports to foreign investment pledges](https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc)
+**发布时间**: 2026-03-05 22:48
+
+#### [UK police search journalist’s home in China spy probe](https://www.ft.com/content/b1cdf0a0-fd91-4949-8ffc-a6e43d7c8e7b)
+**发布时间**: 2026-03-05 22:06
+
+#### [Gulf states could review overseas investments to ease strains caused by Iran war](https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f)
+**发布时间**: 2026-03-05 22:02
+
+#### [Industry doubts Trump plan to insure Gulf oil tankers as Iran war halts transit](https://www.ft.com/content/6ddeb488-0d6f-4b6a-b419-2a2ba7437a25)
+**发布时间**: 2026-03-05 21:26
+
+#### [Iran crisis shines spotlight on ‘threadbare’ Royal Navy](https://www.ft.com/content/b0f5b67d-fb0f-44ee-bd33-b446a47c8008)
+**发布时间**: 2026-03-05 20:24
+
+#### [Trump fires controversial homeland security secretary Noem](https://www.ft.com/content/e22300d8-172f-4737-95b3-94841f833959)
+**发布时间**: 2026-03-05 20:22
+
+#### [Iran turns to cheap drones as US and Israel target missile launchers](https://www.ft.com/content/218bc7d1-708f-4364-bf7d-5f9ecaca3371)
+**发布时间**: 2026-03-05 18:53
+
+#### [Starmer calls for de-escalation and defends his leadership over Iran attacks](https://www.ft.com/content/f2f07fb2-9ce5-4a5b-acc3-17f332355269)
+**发布时间**: 2026-03-05 16:34
+
+#### [In defence of hand-wringers and pearl-clutchers](https://www.ft.com/content/8117e57f-c560-4a52-ab99-252e6db466d8)
+**发布时间**: 2026-03-05 12:25
+
+#### [Nvidia stops production of chips intended for China](https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb)
+**发布时间**: 2026-03-05 09:24
 
 ---
 
