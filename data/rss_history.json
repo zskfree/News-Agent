@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c65767c35274b5a2871fde850580eaa85e9cef53917b05a10a71c295f370125b": {
-        "title": "一场活动，80名高管，14万亿市值，寻找一个关于超级公司的答案",
-        "link": "https://www.tmtpost.com/7865514.html",
-        "published_date": "Wed, 04 Feb 2026 12:59:00 GMT",
-        "first_seen": "2026-02-04T05:54:57.900505"
-      },
-      "946dfc37af340bddfd6796a4d6eb7f5bcd2333a1c3762e56670ed4bb2036bf74": {
-        "title": "为什么我们会忍不住偷看DeepSeek的“思考过程”？",
-        "link": "https://www.tmtpost.com/7866064.html",
-        "published_date": "Wed, 04 Feb 2026 12:08:00 GMT",
-        "first_seen": "2026-02-04T05:54:57.900514"
-      },
-      "7b013f4a5115cb87d554024acc1d8a7657a9c38286ee412abc25267fa9c338d1": {
-        "title": "1.25万亿美元超级独角兽！马斯克的未来在外太空",
-        "link": "https://www.tmtpost.com/7866103.html",
-        "published_date": "Wed, 04 Feb 2026 12:08:00 GMT",
-        "first_seen": "2026-02-04T05:54:57.900516"
-      },
-      "81e6f290cfdf5d81576da320e374797f22bcc1e7cd120e35107999763374b307": {
-        "title": "人们还需要宜家，只是不需要宜家门店了",
-        "link": "https://www.tmtpost.com/7865844.html",
-        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-04T05:54:57.900517"
-      },
-      "938e63f31dc406952eb27b5db99c420337db5d7b46ff8c32195a678befcb8e86": {
-        "title": "石药185亿美元BD刷屏，但为何资本选择了“冷静观察”？",
-        "link": "https://www.tmtpost.com/7865803.html",
-        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-04T05:54:57.900519"
-      },
       "175e11d3a9b96780748f8e1670467d12e8b9fa014a06547af2ae9fae2aa78584": {
         "title": "Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布",
         "link": "https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7902226.html",
         "published_date": "Fri, 06 Mar 2026 11:27:00 GMT",
         "first_seen": "2026-03-06T05:48:07.094809"
+      },
+      "1f1a4c25217dbeda767a57c2f190a386fa87871c0f5d084e466ade61c960698b": {
+        "title": "十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？",
+        "link": "https://www.tmtpost.com/7901653.html",
+        "published_date": "Fri, 06 Mar 2026 10:14:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.118892"
+      },
+      "aa801c4b1a3f449906d28135828f1f1e2056ac97ff4d5af4781530942e68705b": {
+        "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
+        "link": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.118901"
+      },
+      "49a7a920c4b934751aa39f8d485ef2f0935ae3f7d0decea50b89428c2659c04c": {
+        "title": "华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持",
+        "link": "https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Mar 2026 10:04:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.118904"
+      },
+      "fe88187424efbb62c970c55b4f96402d8e554525e21ae9d9a093c4089f855845": {
+        "title": "迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！",
+        "link": "https://www.tmtpost.com/7902324.html",
+        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.118906"
+      },
+      "bf33ef8eb3b124437c5450b7cdd3801b665eaf0062813befe45e8b7724118176": {
+        "title": "Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化",
+        "link": "https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.118907"
       }
     },
     "Finance": {
-      "70b4dd3f033c8128d6b61affffa001ff708a605db0079a5bc98d9afa086874f4": {
-        "title": "Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.",
-        "link": "https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Feb 2026 02:40:00 GMT",
-        "first_seen": "2026-02-04T05:53:20.904661"
-      },
-      "6d10064749691a8b140a7118a2d249e9edba60c03bc5df32f76b96c316393936": {
-        "title": "Stocks fall as S&P 500 dragged down by tech. Is the selling over?",
-        "link": "https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Feb 2026 23:43:00 GMT",
-        "first_seen": "2026-02-04T05:53:20.904670"
-      },
-      "c2909204ef195ba0bd5d5d90d5c9396b1a42b376994835db8f672ebc7a717597": {
-        "title": "Tether retreats from $20bn funding ambitions after investor pushback",
-        "link": "https://www.ft.com/content/3f7f0306-4bc2-43e1-8370-ea251229e5b6",
-        "published_date": "Wed, 04 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-04T05:53:20.904673"
-      },
-      "539be61bdac7e5fc6ff5a009806da54c5fd5a3798d554636bddec27850dc79ad": {
-        "title": "Everyone and their mother is peddling an AI application",
-        "link": "https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0",
-        "published_date": "Wed, 04 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-04T05:53:20.904675"
-      },
-      "b554a142f3327d4e5f5c7c113eb21e5ac22f2a83abc44024c8ed514b71717e52": {
-        "title": "‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
-        "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Feb 2026 05:38:00 GMT",
-        "first_seen": "2026-02-04T05:53:20.904677"
-      },
       "745630ed678eadfbd3a8dc7accfd798f123aca50962a823b8af34141a9fe603c": {
         "title": "Novo Nordisk shares tumble 18% after sales warning",
         "link": "https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55",
@@ -4686,36 +4656,6 @@
       }
     },
     "Ai": {
-      "f98d999a52b57606241c65742c66540bd8b154a7b9673757534d588af9c1928a": {
-        "title": "倒反天罡：「租个人」网站爆火，AI开始雇人「跑腿」了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-8",
-        "published_date": "Wed, 04 Feb 2026 12:50:00 GMT",
-        "first_seen": "2026-02-04T05:54:09.444448"
-      },
-      "7ec8cea733870db8a83ecd0f2d5995315a3a61e170c6cf62294f54d2e425a028": {
-        "title": "从斑马鱼到机器鱼：机器人实验重塑神经行为研究",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-7",
-        "published_date": "Wed, 04 Feb 2026 12:47:00 GMT",
-        "first_seen": "2026-02-04T05:54:09.444456"
-      },
-      "61fa1078f68e89c3efb445814cf04b08422639d2d6678bc38b6cf3d2da4d7ab3": {
-        "title": "CVPR 2026 Workshop 征稿｜AdvML@CV 2026：Safety of Vision-Language Agents",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-6",
-        "published_date": "Wed, 04 Feb 2026 12:06:00 GMT",
-        "first_seen": "2026-02-04T05:54:09.444458"
-      },
-      "e5c21d4d12cf17fc2493df35ddcfe841e2972abd36ba5a5f331eea603c82704b": {
-        "title": "当运维遇上“春运时刻”，Chaterm破解移动远程运维操作难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-5",
-        "published_date": "Wed, 04 Feb 2026 11:47:00 GMT",
-        "first_seen": "2026-02-04T05:54:09.444460"
-      },
-      "b072cf45944ad72d77f9cb14d4b47f7bd310bd6f74d4cc3c2ed1cf9ae46ff2be": {
-        "title": "ICLR 2026 | 腾讯混元团队联合 KCL 提出 WildToolBench，评估 Wild 场景下 LLM 的 Agentic 能力",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-4",
-        "published_date": "Wed, 04 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-04T05:54:09.444461"
-      },
       "2f6b5f766448665f7d5f970ce7cb025ea9e7e6ba3c00ccd3b312c711dadf7549": {
         "title": "突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD",
         "link": "https://www.jiqizhixin.com/articles/2026-02-04-9",
@@ -6383,13 +6323,19 @@
         "link": "https://www.qbitai.com/2026/03/384345.html",
         "published_date": "Fri, 06 Mar 2026 00:50:00 GMT",
         "first_seen": "2026-03-06T05:48:21.254629"
+      },
+      "058e514fd633a619a68e86f8b0d8e5860069ce113b419f432e332ad6a6ba8b70": {
+        "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
+        "link": "https://www.qbitai.com/2026/03/384449.html",
+        "published_date": "Fri, 06 Mar 2026 06:58:00 GMT",
+        "first_seen": "2026-03-06T08:41:41.290043"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-06T05:48:07.094811",
+    "Technology": "2026-03-06T08:41:41.118909",
     "Finance": "2026-03-06T05:48:21.109521",
-    "Ai": "2026-03-06T05:48:21.254631"
+    "Ai": "2026-03-06T08:41:41.290052"
   }
 }

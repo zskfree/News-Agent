@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Mar 2026 05:47:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 05:48:07 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 08:41:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 08:41:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>政府工作报告首次提及，脑机接口产业迎来大爆发！</title>
-      <link>https://www.tmtpost.com/7901791.html</link>
-      <description>&lt;![CDATA[政府工作报告首次提及，脑机接口产业迎来大爆发！]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7901791.html</guid>
+      <title>十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？</title>
+      <link>https://www.tmtpost.com/7901653.html</link>
+      <description>&lt;![CDATA[十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7901653.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>100万 Token + 接管鼠标：GPT-5.4 正把 AI 推向“数字员工”</title>
-      <link>https://www.tmtpost.com/7902027.html</link>
-      <description>&lt;![CDATA[100万 Token + 接管鼠标：GPT-5.4 正把 AI 推向“数字员工”]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7902027.html</guid>
+      <title>微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop</title>
+      <link>https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌</title>
-      <link>https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持</title>
+      <link>https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MWC 2026：物理AI的全球博弈，中国厂商打破硅谷叙事</title>
-      <link>https://www.tmtpost.com/7899741.html</link>
-      <description>&lt;![CDATA[MWC 2026：物理AI的全球博弈，中国厂商打破硅谷叙事]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7899741.html</guid>
+      <title>迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！</title>
+      <link>https://www.tmtpost.com/7902324.html</link>
+      <description>&lt;![CDATA[迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7902324.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MWC 2026洞察：英伟达与高通的6G路线博弈与产业权力较量</title>
-      <link>https://www.tmtpost.com/7902226.html</link>
-      <description>&lt;![CDATA[MWC 2026洞察：英伟达与高通的6G路线博弈与产业权力较量]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7902226.html</guid>
+      <title>Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化</title>
+      <link>https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

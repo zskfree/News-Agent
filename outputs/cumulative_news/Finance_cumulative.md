@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 05:47
+**最后更新时间**: 2026-03-06 08:41
+
+---
+
+## 🆕 最新更新 (2026-03-06 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can the Gulf still act as an airline hub for the world?](https://www.ft.com/content/5902d4db-f8ca-4ad8-aec6-cc8d17e964b1)
+**发布时间**: 2026-03-06 05:00
+
+#### [Why Trump won’t clean up his own mess](https://www.ft.com/content/0a318f39-b85b-4da7-b22f-243dc97fca80)
+**发布时间**: 2026-03-06 05:00
+
+#### [Iran hits Amazon data centres in jolt to Gulf AI drive](https://www.ft.com/content/09fa5c20-2c8f-4f41-9d91-c78476eaac20)
+**发布时间**: 2026-03-06 05:00
+
+#### [F1 races at risk as Middle East war disrupts sport](https://www.ft.com/content/f7dfdb82-76a4-48ec-988f-e5f78b19a088)
+**发布时间**: 2026-03-06 05:00
+
+#### [Power prices in Europe swing wildly as Iran war stokes volatility](https://www.ft.com/content/ac77915d-7542-4129-aabe-d3a9daff2573)
+**发布时间**: 2026-03-06 05:00
+
+#### [Israel targets Beirut and Tehran in broad wave of strikes](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
 
 ---
 

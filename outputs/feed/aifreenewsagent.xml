@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Mar 2026 05:47:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 05:48:21 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 08:41:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 08:41:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-06日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-06/</link>
-      <description>&lt;![CDATA[2026-03-06日刊]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-06/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>无需排队工业级漫剧制作：360纳米漫剧流水线抢跑AI影视工业化</title>
-      <link>https://www.qbitai.com/2026/03/384435.html</link>
-      <description>&lt;![CDATA[无需排队工业级漫剧制作：360纳米漫剧流水线抢跑AI影视工业化]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 02:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384435.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-5.4发布：OpenAI首个大一统模型，简直是龙虾原生</title>
-      <link>https://www.qbitai.com/2026/03/384345.html</link>
-      <description>&lt;![CDATA[GPT-5.4发布：OpenAI首个大一统模型，简直是龙虾原生]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384345.html</guid>
+      <title>无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台</title>
+      <link>https://www.qbitai.com/2026/03/384449.html</link>
+      <description>&lt;![CDATA[无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 06:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384449.html</guid>
       <category>Ai</category>
     </item>
   </channel>
