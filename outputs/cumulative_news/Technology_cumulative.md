@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 23:52
+**最后更新时间**: 2026-03-06 05:47
+
+---
+
+## 🆕 最新更新 (2026-03-06 05:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中东25年，一个中国女人在战火中做旅游](https://www.tmtpost.com/7901805.html)
+**发布时间**: 2026-03-06 11:50
+
+#### [MWC 2026洞察：英伟达与高通的6G路线博弈与产业权力较量](https://www.tmtpost.com/7902226.html)
+**发布时间**: 2026-03-06 11:27
+
+#### [林俊旸离开，那些流传的说法大部分是错的](https://www.tmtpost.com/7901740.html)
+**发布时间**: 2026-03-06 11:27
+
+#### [两个月了，是时候给OpenClaw下个定义了](https://www.tmtpost.com/7902335.html)
+**发布时间**: 2026-03-06 11:27
+
+#### [“打江山的人，坐不了守成的位”：吴长征与林俊旸的同一道选择题](https://www.tmtpost.com/7901674.html)
+**发布时间**: 2026-03-06 11:26
+
+#### [家用具身企业诺因智能KNOWIN获天使+轮融资，投后估值超20亿元｜融资速递](https://www.tmtpost.com/7902353.html)
+**发布时间**: 2026-03-06 11:08
+
+#### [对话 Botlearn.ai 李可佳：别人家的4000只龙虾已经去上大学了｜AI Founder 请回答](https://www.tmtpost.com/7902224.html)
+**发布时间**: 2026-03-06 10:57
+
+#### [MWC 2026：物理AI的全球博弈，中国厂商打破硅谷叙事](https://www.tmtpost.com/7899741.html)
+**发布时间**: 2026-03-06 10:27
+
+#### [政府工作报告首次提及，脑机接口产业迎来大爆发！](https://www.tmtpost.com/7901791.html)
+**发布时间**: 2026-03-06 10:15
+
+#### [两会解读（一）| 人均 80岁时代来了！（附30万亿银发经济六大黄金赛道解析）](https://www.tmtpost.com/7902094.html)
+**发布时间**: 2026-03-06 10:14
+
+#### [十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？](https://www.tmtpost.com/7901653.html)
+**发布时间**: 2026-03-06 10:14
+
+#### [商场B1，加速分化](https://www.tmtpost.com/7901684.html)
+**发布时间**: 2026-03-06 09:35
+
+#### [跌入4000，苹果终于低头了](https://www.tmtpost.com/7901667.html)
+**发布时间**: 2026-03-06 09:18
+
+#### [比亚迪连甩两张牌，燃油车最后的防线要被击穿？](https://www.tmtpost.com/7902051.html)
+**发布时间**: 2026-03-06 08:59
+
+#### [100万 Token + 接管鼠标：GPT-5.4 正把 AI 推向“数字员工”](https://www.tmtpost.com/7902027.html)
+**发布时间**: 2026-03-06 08:54
+
+#### [接力HPV疫苗，又一个超级单品出现了](https://www.tmtpost.com/7901669.html)
+**发布时间**: 2026-03-06 08:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器](https://sspai.com/post/106796)
+**发布时间**: 2026-03-06 11:29
+
+#### [派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等](https://sspai.com/post/106880)
+**发布时间**: 2026-03-06 08:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化](https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 11:00
+
+#### [去哪儿旅行研发工程师刘洋确认出席QCon北京，分享智能体平台如何助力运营提效 1 万 PD](https://www.infoq.cn/article/vhvC3K6BIR9dhJ1FVqK2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 10:10
+
+#### [华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持](https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 10:04
+
+#### [中国金融机构人才发展与培训白皮书（2026年）](https://www.infoq.cn/minibook/Ea8hFxwccb3Q190l6pI2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 10:03
+
+#### [Pinterest基于CDC的摄取系统将数据库延迟从24小时缩短至15分钟](https://www.infoq.cn/article/4QxbOWVR1c1CipCUI2Lk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 10:00
+
+#### [软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌](https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 09:35
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [战火烧至霍尔木兹海峡，全球油价要涨上天？](http://www.huxiu.com/article/4839330.html?f=wangzhan)
+**发布时间**: 2026-03-06 09:42
 
 ---
 

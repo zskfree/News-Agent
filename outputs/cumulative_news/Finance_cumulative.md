@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-05 23:52
+**最后更新时间**: 2026-03-06 05:47
+
+---
+
+## 🆕 最新更新 (2026-03-06 05:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The vulnerable Gulf energy assets putting the world on edge](https://www.ft.com/content/e05d6bd9-6c6c-4f9c-8ced-430464da8fb5)
+**发布时间**: 2026-03-06 05:00
+
+#### [The billionaire ‘buccaneer’ braving the Strait of Hormuz](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9)
+**发布时间**: 2026-03-06 05:00
+
+#### [‘Cavalier and demeaning’: the Trump team’s hyper-aggressive war rhetoric](https://www.ft.com/content/d8462d39-40c9-4b2a-b9c3-b7af79955bbe)
+**发布时间**: 2026-03-06 05:00
+
+#### [Lloyds strives to be ‘UK’s biggest fintech’ by selling more customer data](https://www.ft.com/content/f32cd6ce-0c99-4180-a977-c2cb420159a3)
+**发布时间**: 2026-03-06 05:00
+
+#### [UBS fee-sharing deals with Carlyle and CVC spark conflict of interest fears](https://www.ft.com/content/2a1805a1-45ce-4811-9575-1dced18a2305)
+**发布时间**: 2026-03-06 05:00
+
+#### [Reprieve for India as US eases sanctions on buying Russian oil](https://www.ft.com/content/f513bca3-507f-41ae-a95d-2bb906d3d9e9)
+**发布时间**: 2026-03-06 04:13
+
+#### [Trump says Iran wants to ‘make a deal’ to end the war](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
+
+#### [Trump says he must be ‘involved’ in choosing Iran’s next leader](https://www.ft.com/content/5847cc41-f655-49d4-a6f3-1674cc81dc80)
+**发布时间**: 2026-03-05 22:21
+
+#### [Gulf states could review overseas investments to ease Iran war strains](https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f)
+**发布时间**: 2026-03-05 22:02
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says](https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 04:33
+
+#### [Marvell’s stock soars as robust AI-driven demand drives an earnings beat](https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 01:19
+
+#### [Seven REIT stocks pass a strict financial screen, with dividends as high as 6.27%](https://www.marketwatch.com/story/seven-reit-stocks-pass-a-strict-financial-screen-with-dividends-as-high-as-6-27-fdd57ab8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 00:41
+
+#### [Why Broadcom’s earnings report has Wall Street so upbeat on a bad day for chip stocks](https://www.marketwatch.com/story/why-broadcoms-earnings-report-has-wall-street-so-upbeat-on-a-bad-day-for-chip-stocks-8ff9306e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 00:19
 
 ---
 
