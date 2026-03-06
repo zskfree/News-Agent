@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 08:41
+**最后更新时间**: 2026-03-06 23:29
+
+---
+
+## 🆕 最新更新 (2026-03-06 23:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Four companies, including AI and data-center plays, are joining the S&P 500 index](https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 23:01
+
+#### [These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran](https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:16
+
+#### [That viral Big Arch burger video could be worth at least $18 million to McDonald’s in free publicity](https://www.marketwatch.com/story/that-viral-big-arch-burger-video-could-be-worth-at-least-18-million-to-mcdonalds-in-free-publicity-87a3d882?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:09
+
+#### [Defense-tech stocks are the hot trade as Iran conflict widens](https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:04
+
+#### [Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos](https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:53
+
+#### [Defense companies agree to ramp up output after meeting with Trump](https://www.marketwatch.com/story/defense-companies-are-meeting-trump-today-heres-what-hell-ask-for-after-demanding-irans-surrender-c84d34d3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:47
+
+#### [‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?](https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:21
+
+#### [Oil prices are surging. Will that help Tesla and others sell more EVs?](https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:09
+
+#### [Crude-oil futures haven’t been this overbought since 1990. That doesn’t mean the rally is over.](https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 20:45
+
+#### [U.S. oil prices notch record weekly gain of nearly 36%, as Middle East conflict spurs worries over production cuts](https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 20:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oracle and OpenAI scrap deal to expand flagship Texas data centre](https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9)
+**发布时间**: 2026-03-06 22:40
+
+#### [Oil hits highest level since 2023 as Iran war triggers historic surge](https://www.ft.com/content/d3e2c2a1-73aa-4952-b1f1-08c87042b507)
+**发布时间**: 2026-03-06 21:52
+
+#### [US agency to create $20bn reinsurance facility for Gulf shipping](https://www.ft.com/content/d1d68d91-0d2c-4682-9204-01320a9320d4)
+**发布时间**: 2026-03-06 20:35
+
+#### [Russia is helping Iran to target US military assets in Middle East](https://www.ft.com/content/19be57d7-6299-4a1d-b761-3d699d07de94)
+**发布时间**: 2026-03-06 20:06
+
+#### [In the centre of the storm: what does the Iran war mean for Dubai?](https://www.ft.com/content/f7efce04-b122-4243-bcd2-2c524951c10d)
+**发布时间**: 2026-03-06 19:00
+
+#### [Ships in Gulf declare themselves Chinese to dodge attack](https://www.ft.com/content/eaecc3ce-ba4e-4e19-9d0a-6cf1536a5aed)
+**发布时间**: 2026-03-06 18:20
+
+#### [Investors are not ready for a true shock](https://www.ft.com/content/d1f70afe-61f9-4993-9413-00463a60fe61)
+**发布时间**: 2026-03-06 18:00
+
+#### [Israeli strikes displace hundreds of thousands across Lebanon](https://www.ft.com/content/56637c81-19ab-40cd-ac8b-1b1760067957)
+**发布时间**: 2026-03-06 17:11
+
+#### [US and Gulf states hold talks with Ukraine over drone detection](https://www.ft.com/content/947fc231-7100-4236-8d04-7acca12039fe)
+**发布时间**: 2026-03-06 16:23
+
+#### [Hargreaves Lansdown postpones fee rises, but only for ‘valued’ clients](https://www.ft.com/content/8b3d5c38-5609-4b8f-8258-8c3f21dc59e4)
+**发布时间**: 2026-03-06 14:41
+
+#### [Qatar warns war will force Gulf to stop energy exports ‘within days’](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea)
+**发布时间**: 2026-03-06 14:11
+
+#### [Trump says no deal with Iran except ‘unconditional surrender’](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
 
 ---
 

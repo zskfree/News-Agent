@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "175e11d3a9b96780748f8e1670467d12e8b9fa014a06547af2ae9fae2aa78584": {
-        "title": "Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布",
-        "link": "https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 14:13:00 GMT",
-        "first_seen": "2026-02-04T08:45:13.516297"
-      },
-      "e9f3048fc95d33def8a6a692119612c6f221eb59d964dbcdcf5a617ed2b63c8a": {
-        "title": "喊话特朗普重视AI风险，Anthropic CEO写万字长文对策，这方案也是Claude辅助完成的",
-        "link": "https://www.infoq.cn/article/3J9vSaAiaQUC5J1RhXew?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 10:53:00 GMT",
-        "first_seen": "2026-02-04T08:45:13.516304"
-      },
-      "e6665ef6d931203dfeb164012acdca6ab8ea746d610caf8e9a818bb7b64ca4a8": {
-        "title": "为什么大多数机器学习项目无法投入生产",
-        "link": "https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 15:42:00 GMT",
-        "first_seen": "2026-02-04T08:45:13.516307"
-      },
-      "720468d664d8326bdc0e070c592de1bfe4c7254b78c5317c8e316b12d858a53e": {
-        "title": "2025风险投资们的AI圈地运动",
-        "link": "https://www.tmtpost.com/7866546.html",
-        "published_date": "Wed, 04 Feb 2026 15:47:00 GMT",
-        "first_seen": "2026-02-04T08:45:13.516308"
-      },
-      "341eb177de6922fb8a83c08c12a9fa9d910f8cd41d1705e5fc2fdb8243ca18e3": {
-        "title": "Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中",
-        "link": "https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 15:36:00 GMT",
-        "first_seen": "2026-02-04T08:45:13.516310"
-      },
       "11a2f0f18c0c70b0c7ac6de6c1cf0fe0f70875d1c578d48cae16a9ce059dcaf8": {
         "title": "SpaceX收购xAI：马斯克的商业棋局与太空梦想",
         "link": "https://www.tmtpost.com/7865789.html",
@@ -2695,15 +2665,39 @@
         "link": "https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 06 Mar 2026 11:00:00 GMT",
         "first_seen": "2026-03-06T08:41:41.118907"
+      },
+      "e2a93861e37b6a53d4111d589f5f767906dcfd08fce3bda6bf82c4f84346c54f": {
+        "title": "GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高",
+        "link": "https://www.tmtpost.com/7902767.html",
+        "published_date": "Fri, 06 Mar 2026 17:45:00 GMT",
+        "first_seen": "2026-03-06T23:29:43.115556"
+      },
+      "cbadb9b20b40b3eaf2047818e14e181b8f08955a37f9def56b6179e11c8a8a95": {
+        "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
+        "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Mar 2026 18:40:00 GMT",
+        "first_seen": "2026-03-06T23:29:43.115563"
+      },
+      "a245b3f7079c05577c1c87f1d01a1a866015d01c545a46937efc1b04e73d9f65": {
+        "title": "第一批部署AI Agent的公司，撞上了「三堵墙」",
+        "link": "https://www.tmtpost.com/7902464.html",
+        "published_date": "Fri, 06 Mar 2026 19:49:00 GMT",
+        "first_seen": "2026-03-06T23:29:43.115566"
+      },
+      "044cd3b63101580c78e5fc6b824828c42d6b9cd58ee85f7a6de3a93957be18aa": {
+        "title": "MWC 2026：当AI拥有“身体”，中国掌握\"造物权\"",
+        "link": "https://www.tmtpost.com/7902280.html",
+        "published_date": "Fri, 06 Mar 2026 13:50:00 GMT",
+        "first_seen": "2026-03-06T23:29:43.115568"
+      },
+      "c3d6a6b6c1371f63e25279022925704cd4a07cc3bad399f1d4d6ab0501987283": {
+        "title": "硅谷在封，中国在抢：OpenClaw到底改变了什么？",
+        "link": "https://www.tmtpost.com/7902755.html",
+        "published_date": "Fri, 06 Mar 2026 19:45:00 GMT",
+        "first_seen": "2026-03-06T23:29:43.115569"
       }
     },
     "Finance": {
-      "745630ed678eadfbd3a8dc7accfd798f123aca50962a823b8af34141a9fe603c": {
-        "title": "Novo Nordisk shares tumble 18% after sales warning",
-        "link": "https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55",
-        "published_date": "Wed, 04 Feb 2026 08:20:00 GMT",
-        "first_seen": "2026-02-04T08:44:41.597044"
-      },
       "808112dba112305d36f5bc964917bbc4f5e8b7794f065cd186ec66e0bfa5debf": {
         "title": "The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.",
         "link": "https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories",
@@ -4653,39 +4647,39 @@
         "link": "https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories",
         "published_date": "Fri, 06 Mar 2026 04:33:00 GMT",
         "first_seen": "2026-03-06T05:48:21.109519"
+      },
+      "5ad0f5b0335f095a0582a17264e02384fdb3f87bae1de238f176e308607955c4": {
+        "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
+        "link": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea",
+        "published_date": "Fri, 06 Mar 2026 14:11:00 GMT",
+        "first_seen": "2026-03-06T23:29:59.750093"
+      },
+      "8ed5871537ea711c64c11d2a249efd8346285039ef00a9891831932139548997": {
+        "title": "Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos",
+        "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Mar 2026 21:53:00 GMT",
+        "first_seen": "2026-03-06T23:29:59.750100"
+      },
+      "0a62bc699e24f3d81ee925847dd653895c1f504a3ee47531bfddda42e80301fd": {
+        "title": "Four companies, including AI and data-center plays, are joining the S&P 500 index",
+        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
+        "published_date": "Fri, 06 Mar 2026 23:01:00 GMT",
+        "first_seen": "2026-03-06T23:29:59.750103"
+      },
+      "39b203501077ebba0f70b78b58a5a3865c70bda51779483c9e1b7eefe5f33e14": {
+        "title": "US agency to create $20bn reinsurance facility for Gulf shipping",
+        "link": "https://www.ft.com/content/d1d68d91-0d2c-4682-9204-01320a9320d4",
+        "published_date": "Fri, 06 Mar 2026 20:35:00 GMT",
+        "first_seen": "2026-03-06T23:29:59.750104"
+      },
+      "43ea5d384ce3531eec9b78bfadc32fbf0bc6b5a8ae6471629106e45b45d1b7ca": {
+        "title": "Oracle and OpenAI scrap deal to expand flagship Texas data centre",
+        "link": "https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9",
+        "published_date": "Fri, 06 Mar 2026 22:40:00 GMT",
+        "first_seen": "2026-03-06T23:29:59.750106"
       }
     },
     "Ai": {
-      "2f6b5f766448665f7d5f970ce7cb025ea9e7e6ba3c00ccd3b312c711dadf7549": {
-        "title": "突破RNA设计瓶颈，上智院联合复旦、上交提出全球首个强化学习与潜扩散融合框架SOLD",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-9",
-        "published_date": "Wed, 04 Feb 2026 14:25:00 GMT",
-        "first_seen": "2026-02-04T08:44:55.304311"
-      },
-      "df98f7f139c359bbd2055d8b75ad7f7890c184a9f09ffcfe1d4cee34201aec79": {
-        "title": "光顾赚钱不搞研究，OpenAI元老级高管现离职潮，Mark Chen紧急回应",
-        "link": "https://www.qbitai.com/2026/02/376356.html",
-        "published_date": "Wed, 04 Feb 2026 07:13:00 GMT",
-        "first_seen": "2026-02-04T08:44:55.304317"
-      },
-      "6168bf4fda3475337b22beb4a9b8589474d96a53c17f052d60704d0f3fdbb7ce": {
-        "title": "ICLR 2026 | U2-BENCH：首个超大规模全场景超声多模态理解基准，开启医疗大模型新赛道",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-10",
-        "published_date": "Wed, 04 Feb 2026 14:32:00 GMT",
-        "first_seen": "2026-02-04T08:44:55.304319"
-      },
-      "fd6932161def7d47e6894318d72901d8efc7b909f25198e9dc8c69b3d458a991": {
-        "title": "Attention真的可靠吗？上海大学联合南开大学揭示多模态模型中一个被忽视的重要偏置问题",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04",
-        "published_date": "Wed, 04 Feb 2026 10:22:00 GMT",
-        "first_seen": "2026-02-04T08:44:55.304320"
-      },
-      "8f86e0885539b57a349c922703a2cbf727c97678518ef39820f8ae3e82401c69": {
-        "title": "NeurIPS论文假开源，较真AI研究员开锤了",
-        "link": "https://www.qbitai.com/2026/02/376355.html",
-        "published_date": "Wed, 04 Feb 2026 07:18:00 GMT",
-        "first_seen": "2026-02-04T08:44:55.304322"
-      },
       "0e1387366893b00d8ea7d326b74b2904868ddb1adf568e74f74820cf511d05d1": {
         "title": "第二代AI预训练范式：预测下个物理状态",
         "link": "https://www.jiqizhixin.com/articles/2026-02-04-13",
@@ -6329,13 +6323,43 @@
         "link": "https://www.qbitai.com/2026/03/384449.html",
         "published_date": "Fri, 06 Mar 2026 06:58:00 GMT",
         "first_seen": "2026-03-06T08:41:41.290043"
+      },
+      "b2ac24d4368ce865c4eb887dc6d6ec27a4dbe91d0e35a7c762cfb54aff50b125": {
+        "title": "Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔",
+        "link": "https://www.qbitai.com/2026/03/384519.html",
+        "published_date": "Fri, 06 Mar 2026 09:56:00 GMT",
+        "first_seen": "2026-03-06T23:30:11.188905"
+      },
+      "7357eb930337de3f44239feb4aa0810a6d1883d4ad0379ae767559a7449faf4d": {
+        "title": "技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式",
+        "link": "https://www.qbitai.com/2026/03/384573.html",
+        "published_date": "Fri, 06 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-06T23:30:11.188912"
+      },
+      "03fb10c804abbe63aa9c459b2c9ddf218ed5b35251d2d6198bccc6663dc2cb2d": {
+        "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
+        "link": "https://www.qbitai.com/2026/03/384557.html",
+        "published_date": "Fri, 06 Mar 2026 11:10:00 GMT",
+        "first_seen": "2026-03-06T23:30:11.188914"
+      },
+      "2c63227b24ac3292fb21a6b6099cfdb1b2532966413831ee4c9d6c37c93df4b6": {
+        "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
+        "link": "https://www.qbitai.com/2026/03/384578.html",
+        "published_date": "Fri, 06 Mar 2026 14:39:00 GMT",
+        "first_seen": "2026-03-06T23:30:11.188916"
+      },
+      "7696d6babc24da784e43debc4400194d657057bb5245e1a32f9acd43e0af0e3c": {
+        "title": "WAXAL: A large-scale open resource for African language speech technology",
+        "link": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+        "published_date": "Fri, 06 Mar 2026 20:06:00 GMT",
+        "first_seen": "2026-03-06T23:30:11.188918"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-06T08:41:41.118909",
-    "Finance": "2026-03-06T05:48:21.109521",
-    "Ai": "2026-03-06T08:41:41.290052"
+    "Technology": "2026-03-06T23:29:43.115572",
+    "Finance": "2026-03-06T23:29:59.750109",
+    "Ai": "2026-03-06T23:30:11.188920"
   }
 }

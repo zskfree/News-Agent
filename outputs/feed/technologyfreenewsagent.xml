@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Mar 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 08:41:41 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:29:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？</title>
-      <link>https://www.tmtpost.com/7901653.html</link>
-      <description>&lt;![CDATA[十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7901653.html</guid>
+      <title>GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高</title>
+      <link>https://www.tmtpost.com/7902767.html</link>
+      <description>&lt;![CDATA[GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7902767.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop</title>
-      <link>https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？</title>
+      <link>https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持</title>
-      <link>https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>第一批部署AI Agent的公司，撞上了「三堵墙」</title>
+      <link>https://www.tmtpost.com/7902464.html</link>
+      <description>&lt;![CDATA[第一批部署AI Agent的公司，撞上了「三堵墙」]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7902464.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！</title>
-      <link>https://www.tmtpost.com/7902324.html</link>
-      <description>&lt;![CDATA[迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 15:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7902324.html</guid>
+      <title>MWC 2026：当AI拥有“身体”，中国掌握&quot;造物权&quot;</title>
+      <link>https://www.tmtpost.com/7902280.html</link>
+      <description>&lt;![CDATA[MWC 2026：当AI拥有“身体”，中国掌握&quot;造物权&quot;]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7902280.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化</title>
-      <link>https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷在封，中国在抢：OpenClaw到底改变了什么？</title>
+      <link>https://www.tmtpost.com/7902755.html</link>
+      <description>&lt;![CDATA[硅谷在封，中国在抢：OpenClaw到底改变了什么？]]&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7902755.html</guid>
       <category>Technology</category>
     </item>
   </channel>

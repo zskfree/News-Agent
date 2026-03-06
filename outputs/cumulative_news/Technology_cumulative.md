@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 08:41
+**最后更新时间**: 2026-03-06 23:29
+
+---
+
+## 🆕 最新更新 (2026-03-06 23:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [瑞幸控股股东大钲资本拿下蓝瓶咖啡：中国咖啡大战迈入矩阵博弈时代](https://www.tmtpost.com/7903159.html)
+**发布时间**: 2026-03-06 21:46
+
+#### [On昂跑中国最大旗舰店于深圳启幕；江南布衣2026上半财年营收净利双增长；锐步中国业务运营方易主；优衣库发布2026春夏新品｜消研所周报](https://www.tmtpost.com/7902905.html)
+**发布时间**: 2026-03-06 21:44
+
+#### [德赛西威业绩双增长难掩见顶隐忧，大客户“绑架”与股东“撤退”拉响双重警报｜看财报](https://www.tmtpost.com/7902979.html)
+**发布时间**: 2026-03-06 20:08
+
+#### [硅谷程序员，疯狂“投喂”中国大模型](https://www.tmtpost.com/7902914.html)
+**发布时间**: 2026-03-06 19:49
+
+#### [第一批部署AI Agent的公司，撞上了「三堵墙」](https://www.tmtpost.com/7902464.html)
+**发布时间**: 2026-03-06 19:49
+
+#### [两会科技大佬集体发声：自动驾驶商业化落地破局，雷军划红线付强指方向](https://www.tmtpost.com/7902458.html)
+**发布时间**: 2026-03-06 19:48
+
+#### [3D 打印第一案：泡泡玛特狙击拓竹，谁在定义“造物”的边界？](https://www.tmtpost.com/7902446.html)
+**发布时间**: 2026-03-06 19:47
+
+#### [日产千部的AI漫剧，正在“偷空”知乎](https://www.tmtpost.com/7902316.html)
+**发布时间**: 2026-03-06 19:47
+
+#### [硅谷在封，中国在抢：OpenClaw到底改变了什么？](https://www.tmtpost.com/7902755.html)
+**发布时间**: 2026-03-06 19:45
+
+#### [AI情色工厂](https://www.tmtpost.com/7902726.html)
+**发布时间**: 2026-03-06 19:41
+
+#### [炮火，AI，全球飘零：逆潮中的伊朗开发者](https://www.tmtpost.com/7902473.html)
+**发布时间**: 2026-03-06 19:10
+
+#### [“全民养虾”，大厂觉醒](https://www.tmtpost.com/7902472.html)
+**发布时间**: 2026-03-06 19:10
+
+#### [亚马逊1.3万亿元豪赌AI 能否挽回掉队之势？](https://www.tmtpost.com/7902556.html)
+**发布时间**: 2026-03-06 19:10
+
+#### [周浩能给千问带来什么？答案就在他为Gemini所做的工作之中](https://www.tmtpost.com/7902477.html)
+**发布时间**: 2026-03-06 19:10
+
+#### [Chinese Robot Startup KNOWIN Secures Angel+ Funding](https://www.tmtpost.com/7902883.html)
+**发布时间**: 2026-03-06 18:09
+
+#### [GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高](https://www.tmtpost.com/7902767.html)
+**发布时间**: 2026-03-06 17:45
+
+#### [VC/PE今年第一个好消息来了](https://www.tmtpost.com/7902435.html)
+**发布时间**: 2026-03-06 17:37
+
+#### [MiniMax 的“养虾”经济学](https://www.tmtpost.com/7902445.html)
+**发布时间**: 2026-03-06 17:37
+
+#### [腾讯AI变形记](https://www.tmtpost.com/7902409.html)
+**发布时间**: 2026-03-06 17:37
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [激光雷达，能拉爆鸿蒙五界的销量吗？](http://www.huxiu.com/article/4839768.html?f=wangzhan)
+**发布时间**: 2026-03-06 19:00
+
+#### [别认为小鹏还只是个造车的](http://www.huxiu.com/article/4839667.html?f=wangzhan)
+**发布时间**: 2026-03-06 18:13
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？](https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 18:40
+
+#### [网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态](https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-06 17:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106906)
+**发布时间**: 2026-03-06 18:07
+
+#### [常用 Excel「奇技淫巧」，助你在新的一年处理数据事半功倍，「马到成功」](https://sspai.com/prime/story/excel-tips)
+**发布时间**: 2026-03-06 16:29
 
 ---
 
