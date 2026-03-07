@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e262ee6e171ef929d97dae9f102fc606c5588191ff6495f65842325da1d69909": {
-        "title": "谷歌 DeepMind 推出 ATLAS 多语言语言模型缩放定律",
-        "link": "https://www.infoq.cn/article/uBpTeu8eUhg4H7hDSkT2?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-05T06:24:18.651934"
-      },
-      "be854128815f129445066cc6d96527083038c199b2b1f839fb0c957c7311675e": {
-        "title": "请停止为人类开发软件！2026年最大的机会，是给Agent“造基建”",
-        "link": "https://www.infoq.cn/article/ujMux2sHwXIXYC4z0Rd0?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 11:51:00 GMT",
-        "first_seen": "2026-02-05T06:24:18.651941"
-      },
-      "e077c488025a4fe594d8470ce5e5583c9c53586a82011f28f5cbc816584e1699": {
-        "title": "国产芯片的下半场，从撕掉「中国英伟达」的标签开始",
-        "link": "https://www.tmtpost.com/7867093.html",
-        "published_date": "Thu, 05 Feb 2026 08:30:00 GMT",
-        "first_seen": "2026-02-05T06:24:18.651944"
-      },
-      "d1075d7abbc1bdb9e0d5468b08cac1d41f49e3d88a3c174f75fdad963931e4bb": {
-        "title": "AI落地2.0：大模型平权，行业Know-how重回王座",
-        "link": "https://www.tmtpost.com/7867274.html",
-        "published_date": "Thu, 05 Feb 2026 09:39:00 GMT",
-        "first_seen": "2026-02-05T06:24:18.651945"
-      },
-      "e0bd85b7ef3f1bd1010f881271bc6f6b3a3999c845d519a0ac52eb75c0082ce1": {
-        "title": "3年裁员6万，亚马逊重建AI帝国",
-        "link": "https://www.tmtpost.com/7867351.html",
-        "published_date": "Thu, 05 Feb 2026 11:42:00 GMT",
-        "first_seen": "2026-02-05T06:24:18.651947"
-      },
       "ce0fb5a4d707784f8160076c4933759ebb3eadf1539493ecdf6abec0a1f175c6": {
         "title": "9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆",
         "link": "https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7903510.html",
         "published_date": "Sat, 07 Mar 2026 10:03:00 GMT",
         "first_seen": "2026-03-07T05:38:36.506390"
+      },
+      "9f908ce6c934c55b2638136d9261fc802de8901c5c63a3ba493fd8f47a934b52": {
+        "title": "OpenAI和英伟达，终究还是到了这一步｜AGI焦点",
+        "link": "https://www.tmtpost.com/7903146.html",
+        "published_date": "Sat, 07 Mar 2026 14:46:00 GMT",
+        "first_seen": "2026-03-07T08:35:54.961408"
+      },
+      "7600c38c4ca36ad1bd99154771efeaedea2c9f34e6c36be5d42c9e59b9e3d2a5": {
+        "title": "2分钟涨停背后：4万亿重塑电网逻辑，AI反客为主成推手",
+        "link": "https://www.tmtpost.com/7903781.html",
+        "published_date": "Sat, 07 Mar 2026 14:10:00 GMT",
+        "first_seen": "2026-03-07T08:35:54.961421"
+      },
+      "4e3433bdf9fe4d7ae011123b432447c800bb420a99701c12c82414b55a423061": {
+        "title": "欢迎来到“军科复合体”时代",
+        "link": "https://www.tmtpost.com/7903131.html",
+        "published_date": "Sat, 07 Mar 2026 09:16:00 GMT",
+        "first_seen": "2026-03-07T08:35:54.961424"
+      },
+      "622697370a526f83553b8414c3b0c312771a4fec18d4ad787e497181000fbc1d": {
+        "title": "阿里千问变局：天才与巨头的分叉口",
+        "link": "https://www.tmtpost.com/7903121.html",
+        "published_date": "Sat, 07 Mar 2026 09:16:00 GMT",
+        "first_seen": "2026-03-07T08:35:54.961426"
+      },
+      "64845e132886955b104a452afbee927f17a6bcc6ec1c0bf015e01ab05d959940": {
+        "title": "亏损收窄股价却缩水四成，2100亿沐曦股份怎么了？",
+        "link": "https://www.tmtpost.com/7903227.html",
+        "published_date": "Sat, 07 Mar 2026 14:11:00 GMT",
+        "first_seen": "2026-03-07T08:35:54.961428"
       }
     },
     "Finance": {
-      "37affdb18c7bd077ff9cd82897890e79c3a0602fc0b97df5336edae517974523": {
-        "title": "Here are the new release dates for January’s jobs and CPI inflation reports",
-        "link": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Feb 2026 02:56:00 GMT",
-        "first_seen": "2026-02-05T06:23:47.979772"
-      },
-      "b58b7475e5fe3ce1d29fe836b56f918fae671ad883a200b292a6bb91d2491759": {
-        "title": "Inside the Russian Monopoly money network moving billions over borders",
-        "link": "https://www.ft.com/content/8ea9eb6d-736a-4ccf-aa6b-3f9a9fb81294",
-        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-05T06:23:47.979781"
-      },
-      "2d388510e638dc3eb496fb2fa88707f780b2e9c93fff063046efc4f7d0bd42d6": {
-        "title": "Where is AI showing up in the productivity data?",
-        "link": "https://www.ft.com/content/d6fdc04f-85cf-4358-a686-298c3de0e25b",
-        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-05T06:23:47.979783"
-      },
-      "eb7461eb54d0f5d81b1fb847cd2efddfda06ab609c2bee0c6ac8e5c3525089eb": {
-        "title": "Canadian pension funds to exit UK’s biggest port operator in £10bn deal",
-        "link": "https://www.ft.com/content/c52ca341-178d-4241-98f0-5d6442a3bcc9",
-        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-05T06:23:47.979785"
-      },
-      "e9fc3fed90ada6d6219a23dcc2089764d2c555dbc4acd73f683de59c648c4a91": {
-        "title": "Software sell-off threatens to delay London’s €19bn Visma float",
-        "link": "https://www.ft.com/content/17154e7d-234a-45e5-b272-e6d4d5cbbd97",
-        "published_date": "Thu, 05 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-05T06:23:47.979787"
-      },
       "b2038ff417efcd20e5c9d02253a6b6c5833d3bf0350e8c56f7183ae5fd3ee305": {
         "title": "US job cuts surge to highest January total since 2009",
         "link": "https://www.ft.com/content/378fb2e9-6575-4da2-9769-13cf6bc499ad",
@@ -4680,36 +4650,6 @@
       }
     },
     "Ai": {
-      "05ab00ad3599532bd5e0b3c360dbacc6077e519289cc035595a37b91419a958c": {
-        "title": "智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-7",
-        "published_date": "Thu, 05 Feb 2026 13:10:00 GMT",
-        "first_seen": "2026-02-05T06:24:00.629655"
-      },
-      "720c589ee67e279794071f5f04eb88e6a38de6a63e167487b0944b7ac3912f3e": {
-        "title": "ICLR 2026 | 这道题是否需要用图思考？模型来告诉你！自适应思考模式切换助力通用视觉推理提升",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-5",
-        "published_date": "Thu, 05 Feb 2026 13:03:00 GMT",
-        "first_seen": "2026-02-05T06:24:00.629662"
-      },
-      "23f0fa41c8ff91694b7fa55bdacf7234cd6427603b88fa05b361cdce0c97342e": {
-        "title": "中国科学院研发驱动材料开发的多智能体，通过自主协作与机器人执行实现闭环科研",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-4",
-        "published_date": "Thu, 05 Feb 2026 11:57:00 GMT",
-        "first_seen": "2026-02-05T06:24:00.629664"
-      },
-      "4f060c4fc3dd47fae6c1b6ec27d0b914de7cf65b17b6b921cfd3c6de6d0c9671": {
-        "title": "史上首次！米兰冬奥基于阿里千问打造奥运官方大模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05",
-        "published_date": "Thu, 05 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-05T06:24:00.629666"
-      },
-      "fe7ce4717ab7537ce9a5238ab9a3552c05e912401a4a436eeaba4bf00feb1b43": {
-        "title": "3天5k+星标，港大开源极致轻量OpenClaw, 1%代码量打造个人专属贾维斯",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-2",
-        "published_date": "Thu, 05 Feb 2026 11:25:00 GMT",
-        "first_seen": "2026-02-05T06:24:00.629667"
-      },
       "e2db2836faf2ef087e3dacb5634a4c0e054e32bd5e92525aab255e2f21abbda9": {
         "title": "强化学习远不是最优，CMU刚刚提出最大似然强化学习",
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-11",
@@ -6346,7 +6286,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-07T05:38:36.506392",
+    "Technology": "2026-03-07T08:35:54.961431",
     "Finance": "2026-03-07T05:38:49.933497",
     "Ai": "2026-03-07T05:38:50.081299"
   }

@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-07 05:38
+**最后更新时间**: 2026-03-07 08:35
+
+---
+
+## 🆕 最新更新 (2026-03-07 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ministers could ban relatives of overseas students on some courses, adviser warns](https://www.ft.com/content/3ef0e3d2-fc2a-4f80-b97e-72ebb8bcd7f8)
+**发布时间**: 2026-03-07 05:00
+
+#### [Iran calls halt to attacks on neighbours as Israel strikes more targets](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 00:37
 
 ---
 
