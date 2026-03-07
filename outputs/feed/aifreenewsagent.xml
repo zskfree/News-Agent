@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 06 Mar 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2026 23:30:11 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2026 05:38:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2026 05:38:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔</title>
-      <link>https://www.qbitai.com/2026/03/384519.html</link>
-      <description>&lt;![CDATA[Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384519.html</guid>
+      <title>2026-03-07日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-07/</link>
+      <description>&lt;![CDATA[2026-03-07日刊]]&gt;</description>
+      <pubDate>Sat, 07 Mar 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-07/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式</title>
-      <link>https://www.qbitai.com/2026/03/384573.html</link>
-      <description>&lt;![CDATA[技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384573.html</guid>
+      <title>彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器</title>
+      <link>https://www.qbitai.com/2026/03/384623.html</link>
+      <description>&lt;![CDATA[彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器]]&gt;</description>
+      <pubDate>Sat, 07 Mar 2026 04:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384623.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高德发布全球首个由大模型驱动的视觉认知步行导引系统</title>
-      <link>https://www.qbitai.com/2026/03/384557.html</link>
-      <description>&lt;![CDATA[高德发布全球首个由大模型驱动的视觉认知步行导引系统]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384557.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&amp;CVPR最佳论文作者带队</title>
-      <link>https://www.qbitai.com/2026/03/384578.html</link>
-      <description>&lt;![CDATA[黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&amp;CVPR最佳论文作者带队]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384578.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>WAXAL: A large-scale open resource for African language speech technology</title>
-      <link>https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/</link>
-      <description>&lt;![CDATA[WAXAL: A large-scale open resource for African language speech technology]]&gt;</description>
-      <pubDate>Fri, 06 Mar 2026 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/</guid>
+      <title>鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领</title>
+      <link>https://www.qbitai.com/2026/03/384595.html</link>
+      <description>&lt;![CDATA[鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领]]&gt;</description>
+      <pubDate>Sat, 07 Mar 2026 02:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384595.html</guid>
       <category>Ai</category>
     </item>
   </channel>

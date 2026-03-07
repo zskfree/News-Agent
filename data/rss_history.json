@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "11a2f0f18c0c70b0c7ac6de6c1cf0fe0f70875d1c578d48cae16a9ce059dcaf8": {
-        "title": "SpaceX收购xAI：马斯克的商业棋局与太空梦想",
-        "link": "https://www.tmtpost.com/7865789.html",
-        "published_date": "Wed, 04 Feb 2026 10:26:00 GMT",
-        "first_seen": "2026-02-04T23:30:55.373833"
-      },
-      "5df0b572242a63c7fb2080303c97cf9f6de16f12ffc1ff80b207d7f3177ef7ca": {
-        "title": "当AI吞噬软件，数据正在成为企业唯一的护城河",
-        "link": "https://www.infoq.cn/article/6HtKg4ajhkamjGkK3ODG?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 17:53:00 GMT",
-        "first_seen": "2026-02-04T23:30:55.373839"
-      },
-      "aef386a0da49a241728ab6325fbfc92a96d3425a8c0ca62e952740044c8d1cd2": {
-        "title": "姚顺雨腾讯第一篇论文，道破为什么AI死活听不懂人话",
-        "link": "https://www.tmtpost.com/7866445.html",
-        "published_date": "Wed, 04 Feb 2026 17:50:00 GMT",
-        "first_seen": "2026-02-04T23:30:55.373841"
-      },
-      "e676d2c22fede09d7e1a3a23a9fa1f6b1f5a3761746bbfa73989bcd16f4fd72c": {
-        "title": "Claude Sonnet 5 泄漏，因 API 故障延迟发布？",
-        "link": "https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Feb 2026 15:03:00 GMT",
-        "first_seen": "2026-02-04T23:30:55.373843"
-      },
-      "5952b7d75e2c88b9ca0d206ba8eb847ed20d95b3f4961b6dce014ff222253c82": {
-        "title": "【钛晨报】马斯克团队光伏调研消息引爆A股，多家巨头回应最新进展；精神疾病类医保定点医疗机构被集体约谈；黄仁勋驳斥AI取代软件论，称其“不合逻辑”",
-        "link": "https://www.tmtpost.com/7867026.html",
-        "published_date": "Thu, 05 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-04T23:30:55.373844"
-      },
       "e262ee6e171ef929d97dae9f102fc606c5588191ff6495f65842325da1d69909": {
         "title": "谷歌 DeepMind 推出 ATLAS 多语言语言模型缩放定律",
         "link": "https://www.infoq.cn/article/uBpTeu8eUhg4H7hDSkT2?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7902755.html",
         "published_date": "Fri, 06 Mar 2026 19:45:00 GMT",
         "first_seen": "2026-03-06T23:29:43.115569"
+      },
+      "93ae4f5326ec17859396cca271312e9ad9f4a31305b8fd417589f09f533404a2": {
+        "title": "进入2026年，每天至少有5亿元砸向具身智能",
+        "link": "https://www.tmtpost.com/7903008.html",
+        "published_date": "Sat, 07 Mar 2026 08:50:00 GMT",
+        "first_seen": "2026-03-07T05:38:36.506375"
+      },
+      "9aba97909e409f1a49b2f0ca7873f744bc5fe0f5e276404a842781fca751451a": {
+        "title": "AI风向标：腾讯向左，微信向右",
+        "link": "https://www.tmtpost.com/7903129.html",
+        "published_date": "Sat, 07 Mar 2026 09:24:00 GMT",
+        "first_seen": "2026-03-07T05:38:36.506384"
+      },
+      "4a5816a3dfa82c7db2eae66363d7f04713d7f401d91186b8366149817202831a": {
+        "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
+        "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-07T05:38:36.506387"
+      },
+      "e9bb4cc70fa77837e04e6454c443d2dfcf02654915ff21f4e8b267852a5108ae": {
+        "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
+        "link": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Mar 2026 10:17:00 GMT",
+        "first_seen": "2026-03-07T05:38:36.506388"
+      },
+      "3e64a125226a8d2015956ee80bcd5057e9eaf5427c24afd77c4d892d65677fa5": {
+        "title": "AI漫剧的终局是游戏？",
+        "link": "https://www.tmtpost.com/7903510.html",
+        "published_date": "Sat, 07 Mar 2026 10:03:00 GMT",
+        "first_seen": "2026-03-07T05:38:36.506390"
       }
     },
     "Finance": {
-      "808112dba112305d36f5bc964917bbc4f5e8b7794f065cd186ec66e0bfa5debf": {
-        "title": "The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.",
-        "link": "https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Feb 2026 22:37:00 GMT",
-        "first_seen": "2026-02-04T23:30:23.509113"
-      },
-      "26d6c4d78078ead973f86e082ce54bbe564eaafbdb793283192a1d8a61a9c9a4": {
-        "title": "Software ate the world. Now, Wall Street is worried AI will eat software.",
-        "link": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Feb 2026 22:01:00 GMT",
-        "first_seen": "2026-02-04T23:30:23.509121"
-      },
-      "97e781e945d74e6cec211611de70ef034cb96a953c5a36906d2f530f9fbd93b4": {
-        "title": "Google set to double AI spending to $185bn after strong earnings",
-        "link": "https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a",
-        "published_date": "Wed, 04 Feb 2026 22:38:00 GMT",
-        "first_seen": "2026-02-04T23:30:23.509124"
-      },
-      "dedd336a9003bd69fb81b7ddc3554899e3c1eb897720ddc98fea3b2f796f8f86": {
-        "title": "These hot S&P 500 stocks show where investors are heading as they run away from tech",
-        "link": "https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Feb 2026 22:26:00 GMT",
-        "first_seen": "2026-02-04T23:30:23.509125"
-      },
-      "b67982804643bd9f438e15e9bdcd569a5cca743592bc4263541049aee73eb59b": {
-        "title": "White House seeks critical minerals trade zone to curb China’s dominance",
-        "link": "https://www.ft.com/content/27fc8a66-3bbb-409f-8f54-93bce8d67b85",
-        "published_date": "Wed, 04 Feb 2026 19:53:00 GMT",
-        "first_seen": "2026-02-04T23:30:23.509127"
-      },
       "37affdb18c7bd077ff9cd82897890e79c3a0602fc0b97df5336edae517974523": {
         "title": "Here are the new release dates for January’s jobs and CPI inflation reports",
         "link": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories",
@@ -4677,39 +4647,39 @@
         "link": "https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9",
         "published_date": "Fri, 06 Mar 2026 22:40:00 GMT",
         "first_seen": "2026-03-06T23:29:59.750106"
+      },
+      "19cdf541e14742ea5233a3893e9332257167bff8fcf37cd363a9ad2c025047a3": {
+        "title": "UK lenders raise mortgage rates amid warnings over inflation and energy prices",
+        "link": "https://www.ft.com/content/e178273a-991b-461b-82c6-ccf24c966e31",
+        "published_date": "Sat, 07 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-07T05:38:49.933481"
+      },
+      "610d5fb67ce33d1a30bfac3cbda0a5cc4556bdf0a776bf5ff0e7cb19a86628ee": {
+        "title": "US draws up strict new AI guidelines amid Anthropic clash",
+        "link": "https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb",
+        "published_date": "Sat, 07 Mar 2026 00:02:00 GMT",
+        "first_seen": "2026-03-07T05:38:49.933488"
+      },
+      "2d6e302afc8d7df4375fe7804eb7b890c45d9e5defb349e18d71adac0765dbaf": {
+        "title": "Trump’s war on Iran is spreading. Where does it stop?",
+        "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
+        "published_date": "Sat, 07 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-07T05:38:49.933490"
+      },
+      "fedb3907f55793f658a463208a85b3bc8f8393086c3b442f9a1f22529ba459b0": {
+        "title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
+        "link": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
+        "published_date": "Sat, 07 Mar 2026 01:10:00 GMT",
+        "first_seen": "2026-03-07T05:38:49.933492"
+      },
+      "edcfb5ebeae9b2ef9afb4de71f8a90318a6d9a79e2ad9a014fc7d8f9642b3c2c": {
+        "title": "Explosions rock Tehran’s Mehrabad Airport after apparent strike",
+        "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
+        "published_date": "Sat, 07 Mar 2026 00:37:00 GMT",
+        "first_seen": "2026-03-07T05:38:49.933494"
       }
     },
     "Ai": {
-      "0e1387366893b00d8ea7d326b74b2904868ddb1adf568e74f74820cf511d05d1": {
-        "title": "第二代AI预训练范式：预测下个物理状态",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-13",
-        "published_date": "Wed, 04 Feb 2026 19:30:00 GMT",
-        "first_seen": "2026-02-04T23:30:34.250235"
-      },
-      "d101f5bcac6b90d5649cb0578dd2386ddbe62be2b5dc717b88c0f6d105295515": {
-        "title": "美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-12",
-        "published_date": "Wed, 04 Feb 2026 19:26:00 GMT",
-        "first_seen": "2026-02-04T23:30:34.250244"
-      },
-      "0e576b220e4d37fed54d73c44c047f87538fe32335f5a62ae6222639494ed7bc": {
-        "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
-        "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
-        "published_date": "Wed, 04 Feb 2026 15:14:00 GMT",
-        "first_seen": "2026-02-04T23:30:34.250247"
-      },
-      "906f70f1d91c337b17377155d12a47f82d912c8b7f7ba1b617aba3464313d520": {
-        "title": "百度千帆深度研究Agent登顶权威评测榜单DeepResearch Bench",
-        "link": "https://www.qbitai.com/2026/02/376417.html",
-        "published_date": "Wed, 04 Feb 2026 09:08:00 GMT",
-        "first_seen": "2026-02-04T23:30:34.250251"
-      },
-      "9449af4320b94576bc86e623d9c190e0e3a83e3325eca6210aaa0c104f20e9e0": {
-        "title": "刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-04-14",
-        "published_date": "Wed, 04 Feb 2026 19:35:00 GMT",
-        "first_seen": "2026-02-04T23:30:34.250253"
-      },
       "05ab00ad3599532bd5e0b3c360dbacc6077e519289cc035595a37b91419a958c": {
         "title": "智能必须基于世界模型？我们和蚂蚁灵波团队聊了聊",
         "link": "https://www.jiqizhixin.com/articles/2026-02-05-7",
@@ -6353,13 +6323,31 @@
         "link": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
         "published_date": "Fri, 06 Mar 2026 20:06:00 GMT",
         "first_seen": "2026-03-06T23:30:11.188918"
+      },
+      "58f69ed272da3762936776e2e7e1d51d9de0aab18f79b5ae1474e44694ea0a0f": {
+        "title": "2026-03-07日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-07/",
+        "published_date": "Sat, 07 Mar 2026 09:35:00 GMT",
+        "first_seen": "2026-03-07T05:38:50.081287"
+      },
+      "3b518d264121ecf3057d2056b2633d18df79ed65ae86deed730e67366368fd6e": {
+        "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+        "link": "https://www.qbitai.com/2026/03/384623.html",
+        "published_date": "Sat, 07 Mar 2026 04:39:00 GMT",
+        "first_seen": "2026-03-07T05:38:50.081295"
+      },
+      "4d5a7a53a99a9ab9b3df87d4eb6fe2a38e05e8ef1834debbde45081daf2962fb": {
+        "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+        "link": "https://www.qbitai.com/2026/03/384595.html",
+        "published_date": "Sat, 07 Mar 2026 02:32:00 GMT",
+        "first_seen": "2026-03-07T05:38:50.081297"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-06T23:29:43.115572",
-    "Finance": "2026-03-06T23:29:59.750109",
-    "Ai": "2026-03-06T23:30:11.188920"
+    "Technology": "2026-03-07T05:38:36.506392",
+    "Finance": "2026-03-07T05:38:49.933497",
+    "Ai": "2026-03-07T05:38:50.081299"
   }
 }

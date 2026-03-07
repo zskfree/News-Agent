@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 23:29
+**最后更新时间**: 2026-03-07 05:38
+
+---
+
+## 🆕 最新更新 (2026-03-07 05:38)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子](https://sspai.com/post/106743)
+**发布时间**: 2026-03-07 11:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Argo CD 3.3 带来更安全的 GitOps 删除操作与更顺畅的日常运维体验](https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-07 11:00
+
+#### [汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京](https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-07 10:17
+
+#### [Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则](https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-07 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [刀片再出鞘，王传福能否杀出“逆风局”？](http://www.huxiu.com/article/4839882.html?f=wangzhan)
+**发布时间**: 2026-03-07 10:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI漫剧的终局是游戏？](https://www.tmtpost.com/7903510.html)
+**发布时间**: 2026-03-07 10:03
+
+#### [多款“大饼”已就位，长剧能借春季档回温吗？](https://www.tmtpost.com/7903516.html)
+**发布时间**: 2026-03-07 10:03
+
+#### [AI风向标：腾讯向左，微信向右](https://www.tmtpost.com/7903129.html)
+**发布时间**: 2026-03-07 09:24
+
+#### [欢迎来到“军科复合体”时代](https://www.tmtpost.com/7903131.html)
+**发布时间**: 2026-03-07 09:16
+
+#### [阿里千问变局：天才与巨头的分叉口](https://www.tmtpost.com/7903121.html)
+**发布时间**: 2026-03-07 09:16
+
+#### [存储涨价后遗症来了](https://www.tmtpost.com/7903062.html)
+**发布时间**: 2026-03-07 09:10
+
+#### [太保寿险在香港开“卷”，新品搅局跨境储蓄险](https://www.tmtpost.com/7903271.html)
+**发布时间**: 2026-03-07 09:10
+
+#### [ChatGPT-5.4属实“动手王者”，一句话征服微信，但是我却被气笑了](https://www.tmtpost.com/7903004.html)
+**发布时间**: 2026-03-07 09:09
+
+#### [春节客流飙升600%，古城翻红有了新思路](https://www.tmtpost.com/7903229.html)
+**发布时间**: 2026-03-07 09:09
+
+#### [「短剧变天」持续发酵，真人剧公司加速AI布局](https://www.tmtpost.com/7903220.html)
+**发布时间**: 2026-03-07 08:56
+
+#### [Bungie这个看起来很酷的搜打撤游戏，能成功吗?](https://www.tmtpost.com/7903219.html)
+**发布时间**: 2026-03-07 08:51
+
+#### [进入2026年，每天至少有5亿元砸向具身智能](https://www.tmtpost.com/7903008.html)
+**发布时间**: 2026-03-07 08:50
 
 ---
 

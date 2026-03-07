@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-06 23:29
+**最后更新时间**: 2026-03-07 05:38
+
+---
+
+## 🆕 最新更新 (2026-03-07 05:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s war on Iran is spreading. Where does it stop?](https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a)
+**发布时间**: 2026-03-07 05:00
+
+#### [The war of unintended consequences](https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb)
+**发布时间**: 2026-03-07 05:00
+
+#### [We’ll always have Dubai](https://www.ft.com/content/fa5caf43-0ad4-4da2-a6fc-d2575bea4f41)
+**发布时间**: 2026-03-07 05:00
+
+#### [UK lenders raise mortgage rates amid warnings over inflation and energy prices](https://www.ft.com/content/e178273a-991b-461b-82c6-ccf24c966e31)
+**发布时间**: 2026-03-07 05:00
+
+#### [Google gives CEO Sundar Pichai new pay deal worth up to $692mn](https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce)
+**发布时间**: 2026-03-07 01:10
+
+#### [Explosions rock Tehran’s Mehrabad Airport after apparent strike](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 00:37
+
+#### [US draws up strict new AI guidelines amid Anthropic clash](https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb)
+**发布时间**: 2026-03-07 00:02
+
+#### [Starmer’s pledge to cut living costs rocked by Middle East war](https://www.ft.com/content/70d14e21-0355-401b-ad58-eefe5cce154f)
+**发布时间**: 2026-03-06 19:01
 
 ---
 
