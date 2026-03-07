@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ce0fb5a4d707784f8160076c4933759ebb3eadf1539493ecdf6abec0a1f175c6": {
-        "title": "9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆",
-        "link": "https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:31:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625249"
-      },
-      "bb010c0c31c0050c71917b2a24646c5b48d26ee8fc9c59694ecf7ee80a315d39": {
-        "title": "谷歌：大哥也疯狂，翻倍豪赌AI",
-        "link": "https://www.tmtpost.com/7867404.html",
-        "published_date": "Thu, 05 Feb 2026 10:37:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625255"
-      },
-      "4213dca9a9b8b8672c0229798bc8763f9efc9ac44f7ca3b00e35466e974506be": {
-        "title": "奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化",
-        "link": "https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:22:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625257"
-      },
-      "59e865db6c29f3c6cd1b165edd06804054a327d2020754355fc9eab3df1e55d5": {
-        "title": "OpenViking：面向 Agent 的上下文数据库",
-        "link": "https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 15:45:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625260"
-      },
-      "aef59e130cc8dbc46944657933bfd380996a5c5332948dbd45933171ff54ca9e": {
-        "title": "马斯克带飞“太空光伏”，中国企业杀入星辰大海",
-        "link": "https://www.tmtpost.com/7867187.html",
-        "published_date": "Thu, 05 Feb 2026 15:47:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625261"
-      },
       "842a4e91cfbc360b71575ed4228c7090451b961cdeec72d6fe0a033b507300d2": {
         "title": "Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜",
         "link": "https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&utm_medium=article",
@@ -2695,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7903227.html",
         "published_date": "Sat, 07 Mar 2026 14:11:00 GMT",
         "first_seen": "2026-03-07T08:35:54.961428"
+      },
+      "3eb48c804885deb584759f23233f649de5f0cf9354d6dc8ca174c759a00d4da0": {
+        "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+        "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Mar 2026 17:48:00 GMT",
+        "first_seen": "2026-03-07T23:25:32.353441"
+      },
+      "5d3a6647bf757182ee27bacac1f75bd3f7f8f1f8bb0a45f6476d140d3aba6b41": {
+        "title": "林俊旸：阿里千问的“吹哨人”？",
+        "link": "https://www.tmtpost.com/7903836.html",
+        "published_date": "Sat, 07 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-07T23:25:32.353449"
+      },
+      "0e82fe363af667acddc08c280e008b59d52569fd4465faf676929f8de40d277f": {
+        "title": "对话以心医疗王莉：全球医疗Top 20里应有中企一席之地",
+        "link": "https://www.tmtpost.com/7904137.html",
+        "published_date": "Sat, 07 Mar 2026 21:40:00 GMT",
+        "first_seen": "2026-03-07T23:25:32.353451"
+      },
+      "6b32582958e4fc31c5f1c19ed9a1a26c830a46bdf45c7d849c9f6e9b3be0afcb": {
+        "title": "存储涨价后遗症来了",
+        "link": "https://www.tmtpost.com/7903062.html",
+        "published_date": "Sat, 07 Mar 2026 09:10:00 GMT",
+        "first_seen": "2026-03-07T23:25:32.353453"
+      },
+      "969a073c423a41fc8e448cf77059b35861c2191d230a01342c82145b1a359a0a": {
+        "title": "SeeDance2.0降智，字节却成为硅谷门外的“野蛮人”？",
+        "link": "https://www.tmtpost.com/7903649.html",
+        "published_date": "Sat, 07 Mar 2026 14:19:00 GMT",
+        "first_seen": "2026-03-07T23:25:32.353455"
       }
     },
     "Finance": {
@@ -4647,39 +4647,39 @@
         "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
         "published_date": "Sat, 07 Mar 2026 00:37:00 GMT",
         "first_seen": "2026-03-07T05:38:49.933494"
+      },
+      "052f2c3a19a64572c9995a19c00d0ae938bc66af9f05478f75e2dc968cfe4934": {
+        "title": "A week of war in charts: the impact on the US",
+        "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-07T23:25:44.934468"
+      },
+      "6b5813319cb2a63406743c936209a6beec1c035f2eb13abb5eb9ddb34bbd8247": {
+        "title": "US faced with few good options to tamp down surging oil prices",
+        "link": "https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842",
+        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-07T23:25:44.934474"
+      },
+      "d7bb42c052aa5ef2abe506d3f14ceadd9c00fd6cd18083658b1e8f4d0a036d56": {
+        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "first_seen": "2026-03-07T23:25:44.934476"
+      },
+      "d3ace7647c64a9b56c18a7e79111f4e08644fc830e2378b2e418a53626891a48": {
+        "title": "The cost of healthcare in retirement keeps getting scarier",
+        "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "first_seen": "2026-03-07T23:25:44.934478"
+      },
+      "bc351a3519dc68f999147da5d3b127cf7c1731ca3c077f61eed8f6fc24ca965b": {
+        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 22:14:00 GMT",
+        "first_seen": "2026-03-07T23:25:44.934479"
       }
     },
     "Ai": {
-      "e2db2836faf2ef087e3dacb5634a4c0e054e32bd5e92525aab255e2f21abbda9": {
-        "title": "强化学习远不是最优，CMU刚刚提出最大似然强化学习",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-11",
-        "published_date": "Thu, 05 Feb 2026 16:05:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303743"
-      },
-      "c9593d9039e737e910a7c8dbdd93391b6c71fab891689dfd93d9d7e4684a5683": {
-        "title": "首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代",
-        "link": "https://www.qbitai.com/2026/02/376502.html",
-        "published_date": "Thu, 05 Feb 2026 07:28:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303755"
-      },
-      "9cadd5e12346e87c17fe8cc32e4863f0185916f52c4f9610ed1836c5c6a4c96b": {
-        "title": "中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-8",
-        "published_date": "Thu, 05 Feb 2026 14:09:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303758"
-      },
-      "541e12ec8febd018e5bebec9136fb794aa3bd796fa01fb9f74d1814315987239": {
-        "title": "谷歌做了个论文专用版nano banana！顶会级Figure直出",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-6",
-        "published_date": "Thu, 05 Feb 2026 13:07:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303760"
-      },
-      "a1e375504feac11ce68eceec0e68c31dd1e705152baa92c5e5bfab604aba48c4": {
-        "title": "ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-10",
-        "published_date": "Thu, 05 Feb 2026 15:59:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303762"
-      },
       "c3bd728988e6f29a49a2500910e49c12c16634cd452b5466d45b384b08f458b4": {
         "title": "英伟达Jim Fan：「世界建模」是新一代预训练范式",
         "link": "https://www.qbitai.com/2026/02/376731.html",
@@ -6281,13 +6281,19 @@
         "link": "https://www.qbitai.com/2026/03/384595.html",
         "published_date": "Sat, 07 Mar 2026 02:32:00 GMT",
         "first_seen": "2026-03-07T05:38:50.081297"
+      },
+      "5d4882c651cfa9f45330ca6802554ac6020dd8ba713e90b2c73a17ffc510ef0a": {
+        "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+        "link": "https://www.qbitai.com/2026/03/384637.html",
+        "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
+        "first_seen": "2026-03-07T23:25:45.078209"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-07T08:35:54.961431",
-    "Finance": "2026-03-07T05:38:49.933497",
-    "Ai": "2026-03-07T05:38:50.081299"
+    "Technology": "2026-03-07T23:25:32.353457",
+    "Finance": "2026-03-07T23:25:44.934482",
+    "Ai": "2026-03-07T23:25:45.078215"
   }
 }

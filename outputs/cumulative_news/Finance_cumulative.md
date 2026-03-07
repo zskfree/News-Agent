@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-07 08:35
+**最后更新时间**: 2026-03-07 23:25
+
+---
+
+## 🆕 最新更新 (2026-03-07 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?](https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 22:14
+
+#### [Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.](https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:41
+
+#### [There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline](https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [People taking money out of their 401(k)s isn’t necessarily the crisis everyone thinks it is](https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [The cost of healthcare in retirement keeps getting scarier](https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [I scrapped $70 million in sales to build a more profitable business. Here’s what I learned.](https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump calls for more US military action in Latin America](https://www.ft.com/content/b974477f-61a4-492e-b8b7-9709f4086b4c)
+**发布时间**: 2026-03-07 17:42
+
+#### [Iran warns it will hit US bases across region hours after president’s apology](https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261)
+**发布时间**: 2026-03-07 16:31
+
+#### [Trump hits out at Starmer over UK reluctance to support Iran attacks](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 14:01
+
+#### [US faced with few good options to tamp down surging oil prices](https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842)
+**发布时间**: 2026-03-07 11:00
+
+#### [A week of war in charts: the impact on the US](https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a)
+**发布时间**: 2026-03-07 11:00
+
+#### [The bombing of Tehran — in maps and satellite images](https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650)
+**发布时间**: 2026-03-07 09:00
 
 ---
 

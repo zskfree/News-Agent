@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Mar 2026 05:38:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2026 05:38:50 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2026 23:25:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-07日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-07/</link>
-      <description>&lt;![CDATA[2026-03-07日刊]]&gt;</description>
-      <pubDate>Sat, 07 Mar 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-07/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器</title>
-      <link>https://www.qbitai.com/2026/03/384623.html</link>
-      <description>&lt;![CDATA[彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器]]&gt;</description>
-      <pubDate>Sat, 07 Mar 2026 04:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384623.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领</title>
-      <link>https://www.qbitai.com/2026/03/384595.html</link>
-      <description>&lt;![CDATA[鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领]]&gt;</description>
-      <pubDate>Sat, 07 Mar 2026 02:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384595.html</guid>
+      <title>央视点赞千问APP，“AI办事”让人工智能走进日常生活</title>
+      <link>https://www.qbitai.com/2026/03/384637.html</link>
+      <description>&lt;![CDATA[央视点赞千问APP，“AI办事”让人工智能走进日常生活]]&gt;</description>
+      <pubDate>Sat, 07 Mar 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384637.html</guid>
       <category>Ai</category>
     </item>
   </channel>
