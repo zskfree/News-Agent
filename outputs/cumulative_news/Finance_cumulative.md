@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 05:44
+**最后更新时间**: 2026-03-08 08:34
+
+---
+
+## 🆕 最新更新 (2026-03-08 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China signals it wants a Trump visit despite Iran war](https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb)
+**发布时间**: 2026-03-08 07:20
+
+#### [Gulf businesses buy up political violence insurance as conflict spreads](https://www.ft.com/content/c892e180-5747-49bc-80ef-9f8b81554102)
+**发布时间**: 2026-03-08 05:00
+
+#### [‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew](https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f)
+**发布时间**: 2026-03-08 05:00
+
+#### [America chose this war — and must now choose how to end it](https://www.ft.com/content/0321036f-6fd0-415f-b016-12958cc8b04b)
+**发布时间**: 2026-03-08 05:00
+
+#### [Samsung seeks AI deals to challenge Apple’s smartphone lead](https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c)
+**发布时间**: 2026-03-08 05:00
+
+#### [Israel expands attacks to Iranian oil storage facilities](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 00:58
 
 ---
 

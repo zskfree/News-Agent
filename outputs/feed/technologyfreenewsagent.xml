@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 05:44:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 05:44:50 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 08:34:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】 OpenAI发布GPT-5.4及GPT-5.4 Pro模型；千问大模型技术负责人离职，组织架构调整在即；Claude登顶美区App Store，用户力挺Anthropic；</title>
-      <link>https://www.tmtpost.com/7904009.html</link>
-      <description>&lt;![CDATA[【数智周报】 OpenAI发布GPT-5.4及GPT-5.4 Pro模型；千问大模型技术负责人离职，组织架构调整在即；Claude登顶美区App Store，用户力挺Anthropic；]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904009.html</guid>
+      <title>OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度</title>
+      <link>https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>a16z最新访谈：说SaaS已死为时尚早，AI会让这类软件更有价值</title>
-      <link>https://www.tmtpost.com/7904386.html</link>
-      <description>&lt;![CDATA[a16z最新访谈：说SaaS已死为时尚早，AI会让这类软件更有价值]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904386.html</guid>
+      <title>30亿花了，核心骨干走了，千问向何处去？</title>
+      <link>https://www.tmtpost.com/7904106.html</link>
+      <description>&lt;![CDATA[30亿花了，核心骨干走了，千问向何处去？]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7904106.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>林俊旸离职后，再看阿里字节的AI路线之争</title>
-      <link>https://www.tmtpost.com/7904392.html</link>
-      <description>&lt;![CDATA[林俊旸离职后，再看阿里字节的AI路线之争]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904392.html</guid>
+      <title>多模态+Agent 在培训与教育领域的应用｜QCon北京</title>
+      <link>https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[多模态+Agent 在培训与教育领域的应用｜QCon北京]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SAP全球CEO 柯睿安：软件正迈入最强大的时代</title>
-      <link>https://www.tmtpost.com/7904102.html</link>
-      <description>&lt;![CDATA[SAP全球CEO 柯睿安：软件正迈入最强大的时代]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904102.html</guid>
+      <title>从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集</title>
+      <link>http://www.huxiu.com/article/4840071.html?f=wangzhan</link>
+      <description>&lt;![CDATA[从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4840071.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenClaw爆火，你养“龙虾”，大厂“吃算力”</title>
-      <link>https://www.tmtpost.com/7904274.html</link>
-      <description>&lt;![CDATA[OpenClaw爆火，你养“龙虾”，大厂“吃算力”]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904274.html</guid>
+      <title>美伊冲突如何引爆全球能源危机？光储企业将迎来怎样的历史机遇？</title>
+      <link>https://www.tmtpost.com/7904189.html</link>
+      <description>&lt;![CDATA[美伊冲突如何引爆全球能源危机？光储企业将迎来怎样的历史机遇？]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 11:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7904189.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 05:44:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 05:44:50 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 08:34:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump hits out at Starmer over UK reluctance to support Iran attacks</title>
-      <link>https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</link>
-      <description>&lt;![CDATA[Trump hits out at Starmer over UK reluctance to support Iran attacks]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 00:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</guid>
+      <title>China signals it wants a Trump visit despite Iran war</title>
+      <link>https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb</link>
+      <description>&lt;![CDATA[China signals it wants a Trump visit despite Iran war]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb</guid>
       <category>Finance</category>
     </item>
   </channel>

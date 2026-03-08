@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 05:44
+**最后更新时间**: 2026-03-08 08:34
+
+---
+
+## 🆕 最新更新 (2026-03-08 08:34)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [6 个今日登上 GitHub 热榜的开源项目，收藏。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531962&idx=1&sn=4a1dc067a3adc0e6064759df9bbd21c1)
+**发布时间**: 2026-03-08 15:04
+
+#### [GitHub 上 1 万人点赞！一人公司的 AI 内容营销开源神器。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531941&idx=1&sn=1886dc3aacd95b4397642ade8f98ce80)
+**发布时间**: 2026-03-07 15:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [晚安，明天见：Arrows N 与富士通的退场](https://sspai.com/post/106483)
+**发布时间**: 2026-03-08 12:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集](http://www.huxiu.com/article/4840071.html?f=wangzhan)
+**发布时间**: 2026-03-08 12:52
 
 ---
 

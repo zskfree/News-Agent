@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7bec474911149b211cfb375e41edb3029971d1fa0b7d533c9756149dd01f621b": {
-        "title": "OpenAI开始发布关于Codex CLI内部机制的系列文章",
-        "link": "https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 09:06:00 GMT",
-        "first_seen": "2026-02-06T05:55:41.911757"
-      },
-      "9fa01d46e9495d42359d9ba246d6c85c9b1e8c27d5f28ade56404e8cb850500b": {
-        "title": "当 AI 开始写 80% 的代码，架构才是真正的护城河",
-        "link": "https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 09:44:00 GMT",
-        "first_seen": "2026-02-06T05:55:41.911764"
-      },
-      "04a053de229be1bb2a537999135204c33212f797288b3df2056d6dd42f4c1ab3": {
-        "title": "商业航天的终极竞争，是成本控制还是商业生态构建？",
-        "link": "https://www.tmtpost.com/7867779.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:55:41.911766"
-      },
-      "d45a83d77830703471bab07c585cf99212349b66660460a86f973b3ef0478314": {
-        "title": "从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？",
-        "link": "https://www.tmtpost.com/7867888.html",
-        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-06T05:55:41.911767"
-      },
-      "19d7c5618f952a88fc73b02bdc6a09610b5fc585c6313d5ce136ec73c1aff9bc": {
-        "title": "Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！",
-        "link": "https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Feb 2026 10:19:00 GMT",
-        "first_seen": "2026-02-06T05:55:41.911769"
-      },
       "303c7e55aec142d838896d4fdd91add0b6212d09196904723ceb4fd7058126ec": {
         "title": "奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单",
         "link": "https://www.infoq.cn/article/AS37NK1LUvhd2GbJfYhs?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7904274.html",
         "published_date": "Sun, 08 Mar 2026 10:30:00 GMT",
         "first_seen": "2026-03-08T05:44:50.518870"
+      },
+      "dd914f05a534dee967fd730f1c84f166265f046f039e08b34202e9fde754986b": {
+        "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
+        "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 08 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.103447"
+      },
+      "25b504021e19c96e380aae83b4a4ab250f5d8d3af5338372081a9f4299d7fcd9": {
+        "title": "30亿花了，核心骨干走了，千问向何处去？",
+        "link": "https://www.tmtpost.com/7904106.html",
+        "published_date": "Sun, 08 Mar 2026 10:52:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.103455"
+      },
+      "ebd5b106970f226935aa5e619e95fd1d53c7907e43456deedbecffb49f954936": {
+        "title": "多模态+Agent 在培训与教育领域的应用｜QCon北京",
+        "link": "https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 08 Mar 2026 10:05:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.103458"
+      },
+      "9dc3e7fd04a4f30e748e573cfc2846018e637ba37edc98c01084418026653d15": {
+        "title": "从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集",
+        "link": "http://www.huxiu.com/article/4840071.html?f=wangzhan",
+        "published_date": "Sun, 08 Mar 2026 12:52:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.103460"
+      },
+      "34af8f044585f7905b208534250ce06622736ac139d38ed8a815ee638e513099": {
+        "title": "美伊冲突如何引爆全球能源危机？光储企业将迎来怎样的历史机遇？",
+        "link": "https://www.tmtpost.com/7904189.html",
+        "published_date": "Sun, 08 Mar 2026 11:44:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.103461"
       }
     },
     "Finance": {
-      "9b8edd00fc97a954251d5982b9bc832b3f44f384f4061102fc3c0dde7edbd29a": {
-        "title": "Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears",
-        "link": "https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd",
-        "published_date": "Fri, 06 Feb 2026 02:56:00 GMT",
-        "first_seen": "2026-02-06T05:55:05.472627"
-      },
-      "95dbfb58969f36245fa0cebd371eef26d0df8e2fdc1fa59db2cea1a58c68b9fa": {
-        "title": "Bitcoin swings wildly after worst day for the pioneering crypto since FTX collapse",
-        "link": "https://www.marketwatch.com/story/the-bitcoin-selloff-is-deepening-after-worst-day-for-the-pioneering-crypto-since-ftx-collapse-dae49846?mod=mw_rss_topstories",
-        "published_date": "Fri, 06 Feb 2026 02:06:00 GMT",
-        "first_seen": "2026-02-06T05:55:05.472639"
-      },
-      "2548a8d6e7647868e92a0d09dc38174c6d66ad5073d273921dc7895163d85b12": {
-        "title": "KPMG pressed its auditor to pass on AI cost savings",
-        "link": "https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d",
-        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-06T05:55:05.472642"
-      },
-      "624e82c5068a551363dd5edce41d7d09ec76cc842757d0fc052e43cbfb8895e4": {
-        "title": "Inside Jeffrey Epstein’s social Ponzi scheme",
-        "link": "https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82",
-        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-06T05:55:05.472643"
-      },
-      "161eff87d51d847eb582c7660d9dac6763752375efa045a9f9d920a038dc6029": {
-        "title": "Toyota replaces chief executive",
-        "link": "https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed",
-        "published_date": "Fri, 06 Feb 2026 05:28:00 GMT",
-        "first_seen": "2026-02-06T05:55:05.472645"
-      },
       "94343ceebfff7b50b52b6e91425acdefb16eb5ddb2fd38c23e135c3d956fbd3d": {
         "title": "US and Iran to start nuclear talks in Oman",
         "link": "https://www.ft.com/content/5edc63d6-8870-426e-9397-0d64d288aca4",
@@ -4653,39 +4623,15 @@
         "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
         "published_date": "Sun, 08 Mar 2026 00:58:00 GMT",
         "first_seen": "2026-03-08T05:44:50.554610"
+      },
+      "c773a77288423e3b3c835502d308f2a37969c5d8e779051abde0e0b4eb9159fb": {
+        "title": "China signals it wants a Trump visit despite Iran war",
+        "link": "https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb",
+        "published_date": "Sun, 08 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.138245"
       }
     },
     "Ai": {
-      "c011a9ef29f0a7df7314d42a834ea8a4f9c66269b1a6f838448a7704187a39a1": {
-        "title": "硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06",
-        "published_date": "Fri, 06 Feb 2026 09:39:00 GMT",
-        "first_seen": "2026-02-06T05:55:22.088737"
-      },
-      "359c4fba8ced3ce190aaa1fbe19e3f851295e39814f48ebf79b64fc722a04ad6": {
-        "title": "Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-2",
-        "published_date": "Fri, 06 Feb 2026 10:16:00 GMT",
-        "first_seen": "2026-02-06T05:55:22.088745"
-      },
-      "49f062d09d5fd0e836eb2824d5dda23879da9438b5d402255bab4c9b19d5a19f": {
-        "title": "Agentic Memory开年就卷起来了？刚刚，华人团队MemBrain拿下多项SOTA！",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-3",
-        "published_date": "Fri, 06 Feb 2026 10:29:00 GMT",
-        "first_seen": "2026-02-06T05:55:22.088749"
-      },
-      "e785e0894b601bc2ca2028a9be16b96a2a85fb105ce3e3c379e9a13f6d6fe971": {
-        "title": "AgentDoG：为AI智能体戴上「诊断项圈」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-5",
-        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
-        "first_seen": "2026-02-06T05:55:22.088753"
-      },
-      "6c24f9d33fbacb6bfcb2ad0bdf11e0047dd961a2a51320e4824fc93f94f68fb3": {
-        "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-06-7",
-        "published_date": "Fri, 06 Feb 2026 13:09:00 GMT",
-        "first_seen": "2026-02-06T05:55:22.088756"
-      },
       "9303baaf63cd645ed5dc0358b0b69c15bbba78b3169586737e52d8280ff2d8b6": {
         "title": "如何降低蛋白质合成成本？OpenAI创建的GPT-5驱动自主实验室将成本降低40%",
         "link": "https://www.jiqizhixin.com/articles/2026-02-06-8",
@@ -6239,13 +6185,31 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-08/",
         "published_date": "Sun, 08 Mar 2026 09:50:00 GMT",
         "first_seen": "2026-03-08T05:44:50.716982"
+      },
+      "def81cbde0b9d3829762123cab529a81ddd1aabbbbe35a71b69fa9061ff3bd51": {
+        "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
+        "link": "https://www.qbitai.com/2026/03/384728.html",
+        "published_date": "Sun, 08 Mar 2026 07:15:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.282933"
+      },
+      "6c320af277c2fd9994961bf26c554e638712d28d1c963857a13a066939baf389": {
+        "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
+        "link": "https://www.qbitai.com/2026/03/384705.html",
+        "published_date": "Sun, 08 Mar 2026 06:50:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.282940"
+      },
+      "0d81a09820f67f026c9b987b5032ec93df34ff3ec9014f95b4cca05b721ce6ea": {
+        "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
+        "link": "https://www.qbitai.com/2026/03/384646.html",
+        "published_date": "Sun, 08 Mar 2026 06:45:00 GMT",
+        "first_seen": "2026-03-08T08:34:56.282942"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-08T05:44:50.518872",
-    "Finance": "2026-03-08T05:44:50.554618",
-    "Ai": "2026-03-08T05:44:50.716990"
+    "Technology": "2026-03-08T08:34:56.103463",
+    "Finance": "2026-03-08T08:34:56.138251",
+    "Ai": "2026-03-08T08:34:56.282943"
   }
 }
