@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 08:34:56 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 23:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资</title>
-      <link>https://www.qbitai.com/2026/03/384728.html</link>
-      <description>&lt;![CDATA[20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384728.html</guid>
+      <title>高中生AI创业，现在只招龙虾员工：每月成本2800</title>
+      <link>https://www.qbitai.com/2026/03/384797.html</link>
+      <description>&lt;![CDATA[高中生AI创业，现在只招龙虾员工：每月成本2800]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384797.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家</title>
-      <link>https://www.qbitai.com/2026/03/384705.html</link>
-      <description>&lt;![CDATA[清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 06:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384705.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过</title>
-      <link>https://www.qbitai.com/2026/03/384646.html</link>
-      <description>&lt;![CDATA[劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384646.html</guid>
+      <title>OpenClaw最强外挂出现：小龙虾抓不到数据有救了！</title>
+      <link>https://www.qbitai.com/2026/03/384786.html</link>
+      <description>&lt;![CDATA[OpenClaw最强外挂出现：小龙虾抓不到数据有救了！]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384786.html</guid>
       <category>Ai</category>
     </item>
   </channel>

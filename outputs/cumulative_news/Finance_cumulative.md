@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 08:34
+**最后更新时间**: 2026-03-08 23:28
+
+---
+
+## 🆕 最新更新 (2026-03-08 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages](https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 23:24
+
+#### [Oil prices are the No. 1 thing investors are watching right now. Here’s why.](https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 22:27
+
+#### [These 8 drugs could help fight dementia — and they’re already on the market](https://www.marketwatch.com/story/these-8-drugs-could-help-fight-dementia-and-theyre-already-on-the-market-f19aed04?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 20:49
+
+#### [Medicare Advantage growth is being driven by these niche — and lucrative — plans](https://www.marketwatch.com/story/these-niche-plans-drove-83-of-medicare-advantage-sign-ups-in-the-past-year-436137c6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 20:47
+
+#### [The true cost of daylight-saving time is a $672 million hit to the U.S. economy](https://www.marketwatch.com/story/the-true-cost-of-daylight-saving-time-is-a-672-million-hit-to-the-u-s-economy-70953f73?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 19:05
+
+#### [‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?](https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 17:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mojtaba Khamenei’s appointment is a sign Iran’s hardline policies will continue](https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729)
+**发布时间**: 2026-03-08 23:16
+
+#### [Oil surges past $100 a barrel for the first time in four years](https://www.ft.com/content/56a01aa5-98af-48f0-b580-89e7bb4f59f6)
+**发布时间**: 2026-03-08 22:52
+
+#### [Muscat airport limits private jet flights as wealthy leave the Gulf](https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d)
+**发布时间**: 2026-03-08 21:26
+
+#### [Trump raises the stakes in Iran by weighing deployment of US ground forces](https://www.ft.com/content/8cc179e7-e674-44f4-9728-f8438564d072)
+**发布时间**: 2026-03-08 20:51
+
+#### [Yvette Cooper defends UK’s ‘cool-headed approach’ on Iran after Trump criticism](https://www.ft.com/content/48215964-a959-4d40-8726-01643fd21833)
+**发布时间**: 2026-03-08 18:52
+
+#### [Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 17:49
+
+#### [Switzerland votes to end ‘marriage penalty’ in historic tax referendum](https://www.ft.com/content/9d4d9285-09cd-4da3-871b-b66a71db8d96)
+**发布时间**: 2026-03-08 16:12
+
+#### [Tehran residents warned of acid rain after oil storage attack](https://www.ft.com/content/d08d89bb-89f5-41c2-9835-e3ac59b67cfa)
+**发布时间**: 2026-03-08 11:39
+
+#### [The hunt for Iran’s ballistic missile crews](https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f)
+**发布时间**: 2026-03-08 05:00
 
 ---
 

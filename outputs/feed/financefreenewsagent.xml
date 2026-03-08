@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 08:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 08:34:56 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>China signals it wants a Trump visit despite Iran war</title>
-      <link>https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb</link>
-      <description>&lt;![CDATA[China signals it wants a Trump visit despite Iran war]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb</guid>
+      <title>Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader</title>
+      <link>https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</link>
+      <description>&lt;![CDATA[Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages</title>
+      <link>https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 23:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Switzerland votes to end ‘marriage penalty’ in historic tax referendum</title>
+      <link>https://www.ft.com/content/9d4d9285-09cd-4da3-871b-b66a71db8d96</link>
+      <description>&lt;![CDATA[Switzerland votes to end ‘marriage penalty’ in historic tax referendum]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9d4d9285-09cd-4da3-871b-b66a71db8d96</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Muscat airport limits private jet flights as wealthy leave the Gulf</title>
+      <link>https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d</link>
+      <description>&lt;![CDATA[Muscat airport limits private jet flights as wealthy leave the Gulf]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Medicare Advantage growth is being driven by these niche — and lucrative — plans</title>
+      <link>https://www.marketwatch.com/story/these-niche-plans-drove-83-of-medicare-advantage-sign-ups-in-the-past-year-436137c6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Medicare Advantage growth is being driven by these niche — and lucrative — plans]]&gt;</description>
+      <pubDate>Sun, 08 Mar 2026 20:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-niche-plans-drove-83-of-medicare-advantage-sign-ups-in-the-past-year-436137c6?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
