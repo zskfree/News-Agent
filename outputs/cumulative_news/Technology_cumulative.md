@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-07 23:25
+**最后更新时间**: 2026-03-08 05:44
+
+---
+
+## 🆕 最新更新 (2026-03-08 05:44)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三八节特辑｜1110位女性基金经理，管理23.46万亿规模彰显巾帼实力](https://www.tmtpost.com/7904410.html)
+**发布时间**: 2026-03-08 13:34
+
+#### [三类品牌，撑起女性消费新蓝海](https://www.tmtpost.com/7904408.html)
+**发布时间**: 2026-03-08 13:34
+
+#### [林俊旸离职后，再看阿里字节的AI路线之争](https://www.tmtpost.com/7904392.html)
+**发布时间**: 2026-03-08 13:02
+
+#### [a16z最新访谈：说SaaS已死为时尚早，AI会让这类软件更有价值](https://www.tmtpost.com/7904386.html)
+**发布时间**: 2026-03-08 12:04
+
+#### [雅诗兰黛硬刚沃尔玛：一场美妆巨头对零售渠道的宣战](https://www.tmtpost.com/7904384.html)
+**发布时间**: 2026-03-08 12:04
+
+#### [美伊冲突如何引爆全球能源危机？光储企业将迎来怎样的历史机遇？](https://www.tmtpost.com/7904189.html)
+**发布时间**: 2026-03-08 11:44
+
+#### [震撼医疗创投圈！100位女性创业者缔造30个IPO，斩获近百亿融资](https://www.tmtpost.com/7904291.html)
+**发布时间**: 2026-03-08 11:44
+
+#### [SAP全球CEO 柯睿安：软件正迈入最强大的时代](https://www.tmtpost.com/7904102.html)
+**发布时间**: 2026-03-08 10:54
+
+#### [30亿花了，核心骨干走了，千问向何处去？](https://www.tmtpost.com/7904106.html)
+**发布时间**: 2026-03-08 10:52
+
+#### [比亚迪供应商闯A：恒道科技超7成营收是“纸面富贵”，王洪潮曾套现超5000万](https://www.tmtpost.com/7904114.html)
+**发布时间**: 2026-03-08 10:52
+
+#### [凌晨、轨道与峡湾：三个女人的职业地图](https://www.tmtpost.com/7904097.html)
+**发布时间**: 2026-03-08 10:31
+
+#### [小米们开始下场“养虾”，豆包手机应如何接招？](https://www.tmtpost.com/7904093.html)
+**发布时间**: 2026-03-08 10:30
+
+#### [OpenClaw爆火，你养“龙虾”，大厂“吃算力”](https://www.tmtpost.com/7904274.html)
+**发布时间**: 2026-03-08 10:30
+
+#### [伯灵顿百货这一年的强劲表现应会提振股价，接下来会怎样](https://www.tmtpost.com/7904289.html)
+**发布时间**: 2026-03-08 09:39
+
+#### [【数智周报】 OpenAI发布GPT-5.4及GPT-5.4 Pro模型；千问大模型技术负责人离职，组织架构调整在即；Claude登顶美区App Store，用户力挺Anthropic；](https://www.tmtpost.com/7904009.html)
+**发布时间**: 2026-03-08 08:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度](https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-08 11:00
+
+#### [多模态+Agent 在培训与教育领域的应用｜QCon北京](https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-08 10:05
+
+#### [MySQL 9.6更改外键约束及级联处理机制](https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-08 10:00
 
 ---
 

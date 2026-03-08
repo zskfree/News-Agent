@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "842a4e91cfbc360b71575ed4228c7090451b961cdeec72d6fe0a033b507300d2": {
-        "title": "Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜",
-        "link": "https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 18:33:00 GMT",
-        "first_seen": "2026-02-05T23:26:29.277427"
-      },
-      "61ad43de2d7099f73d9c31d182735eb90ef55a42243eb1ee831b87256d2f724f": {
-        "title": "Anthropic's New AI Tool Triggers Massive Sell-off of Software Shares",
-        "link": "https://www.tmtpost.com/7867924.html",
-        "published_date": "Thu, 05 Feb 2026 17:34:00 GMT",
-        "first_seen": "2026-02-05T23:26:29.277433"
-      },
-      "9f7ed9807e3f3a3790dfbea9b91726f44f9b494467052cbc52101c43c92655cd": {
-        "title": "峰飞航空全球首款5吨级eVTOL天际龙成功完成转换飞行｜公司动态",
-        "link": "https://www.tmtpost.com/7868080.html",
-        "published_date": "Thu, 05 Feb 2026 18:50:00 GMT",
-        "first_seen": "2026-02-05T23:26:29.277436"
-      },
-      "6341a85e2ed0f3f0cf28f59848db5150bb2f40c00118c03cf71be743dd817158": {
-        "title": "100万颗卫星是吹出来的？深度解析马斯克的百万卫星计划",
-        "link": "http://www.huxiu.com/article/4832706.html?f=wangzhan",
-        "published_date": "Thu, 05 Feb 2026 20:00:00 GMT",
-        "first_seen": "2026-02-05T23:26:29.277437"
-      },
-      "995200dd9d47d71bf62c88abe69e3a293ada37a7c306e36db9bfd6a4babf7d62": {
-        "title": "硅谷向左，腾讯向右：AI社交的沉浸致幻vs在场博弈",
-        "link": "https://www.tmtpost.com/7867966.html",
-        "published_date": "Thu, 05 Feb 2026 18:25:00 GMT",
-        "first_seen": "2026-02-05T23:26:29.277439"
-      },
       "7bec474911149b211cfb375e41edb3029971d1fa0b7d533c9756149dd01f621b": {
         "title": "OpenAI开始发布关于Codex CLI内部机制的系列文章",
         "link": "https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7903649.html",
         "published_date": "Sat, 07 Mar 2026 14:19:00 GMT",
         "first_seen": "2026-03-07T23:25:32.353455"
+      },
+      "871c3ae033f310562a63e0b7c73876bed36d850ea86089a3572d632799173b0d": {
+        "title": "【数智周报】 OpenAI发布GPT-5.4及GPT-5.4 Pro模型；千问大模型技术负责人离职，组织架构调整在即；Claude登顶美区App Store，用户力挺Anthropic；",
+        "link": "https://www.tmtpost.com/7904009.html",
+        "published_date": "Sun, 08 Mar 2026 08:30:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.518857"
+      },
+      "fe8edeeaace40547d903e1dfaf72ae0b35f94b9d5062e97b3aa08d996debc19f": {
+        "title": "a16z最新访谈：说SaaS已死为时尚早，AI会让这类软件更有价值",
+        "link": "https://www.tmtpost.com/7904386.html",
+        "published_date": "Sun, 08 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.518865"
+      },
+      "6c7faed20341b7b096f3e5bc0ca36fc315f983e511894cff84075f0ed038585d": {
+        "title": "林俊旸离职后，再看阿里字节的AI路线之争",
+        "link": "https://www.tmtpost.com/7904392.html",
+        "published_date": "Sun, 08 Mar 2026 13:02:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.518867"
+      },
+      "64254e32c6e84d20047a70ebf491e42732094e5522c5d3ed25808b13e5e52ddc": {
+        "title": "SAP全球CEO 柯睿安：软件正迈入最强大的时代",
+        "link": "https://www.tmtpost.com/7904102.html",
+        "published_date": "Sun, 08 Mar 2026 10:54:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.518869"
+      },
+      "7f68838b0d08958c4410929670e8ac8ccceaea5d2770ecd673ffc3d456317a58": {
+        "title": "OpenClaw爆火，你养“龙虾”，大厂“吃算力”",
+        "link": "https://www.tmtpost.com/7904274.html",
+        "published_date": "Sun, 08 Mar 2026 10:30:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.518870"
       }
     },
     "Finance": {
-      "b2038ff417efcd20e5c9d02253a6b6c5833d3bf0350e8c56f7183ae5fd3ee305": {
-        "title": "US job cuts surge to highest January total since 2009",
-        "link": "https://www.ft.com/content/378fb2e9-6575-4da2-9769-13cf6bc499ad",
-        "published_date": "Thu, 05 Feb 2026 20:40:00 GMT",
-        "first_seen": "2026-02-05T23:25:52.830044"
-      },
-      "11c2a00d50171b4adc4d2b84d18eebd89aed9c42edc2b241e5f300e7ae73d72d": {
-        "title": "S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street",
-        "link": "https://www.marketwatch.com/story/s-p-500-turns-negative-for-2026-as-investors-add-job-market-to-a-growing-list-of-worries-facing-wall-street-23e4d185?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Feb 2026 22:27:00 GMT",
-        "first_seen": "2026-02-05T23:25:52.830052"
-      },
-      "792526019efeb1ac390464b8038e7c266240790d31205e9ddbf2d68c7250fc0e": {
-        "title": "Strategy’s sinking stock and $12 billion quarterly loss puts the policy of ‘don’t ever sell your bitcoin’ to the test",
-        "link": "https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Feb 2026 22:36:00 GMT",
-        "first_seen": "2026-02-05T23:25:52.830055"
-      },
-      "9b2acee04c5b63802a4d8032da296ae31b75e2457231167fa8a9710eb6ab5f22": {
-        "title": "Bitcoin’s latest selloff is shattering many of its most enduring myths",
-        "link": "https://www.marketwatch.com/story/bitcoins-latest-selloff-is-shattering-many-of-its-most-enduring-myths-385ee6b0?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Feb 2026 22:05:00 GMT",
-        "first_seen": "2026-02-05T23:25:52.830057"
-      },
-      "007291b3c0dced4869b7164858fc8363f2ff9306a4d8844b284a47e706fd436c": {
-        "title": "Big Tech shares slide for third day with AI stocks under pressure",
-        "link": "https://www.ft.com/content/0d6f19fe-9bf7-464a-8e4f-b3bdd62634e8",
-        "published_date": "Thu, 05 Feb 2026 21:25:00 GMT",
-        "first_seen": "2026-02-05T23:25:52.830059"
-      },
       "9b8edd00fc97a954251d5982b9bc832b3f44f384f4061102fc3c0dde7edbd29a": {
         "title": "Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears",
         "link": "https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd",
@@ -4677,39 +4647,15 @@
         "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
         "published_date": "Sat, 07 Mar 2026 22:14:00 GMT",
         "first_seen": "2026-03-07T23:25:44.934479"
+      },
+      "4305453d5f15e44ec4498a027d636841db524ecf8c27bebfb84df77415a9679b": {
+        "title": "Trump hits out at Starmer over UK reluctance to support Iran attacks",
+        "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
+        "published_date": "Sun, 08 Mar 2026 00:58:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.554610"
       }
     },
     "Ai": {
-      "c3bd728988e6f29a49a2500910e49c12c16634cd452b5466d45b384b08f458b4": {
-        "title": "英伟达Jim Fan：「世界建模」是新一代预训练范式",
-        "link": "https://www.qbitai.com/2026/02/376731.html",
-        "published_date": "Thu, 05 Feb 2026 15:23:00 GMT",
-        "first_seen": "2026-02-05T23:26:07.428673"
-      },
-      "186d9787f7fb391504a34660ce5d19c1a478aac190e22488f5dbc22a27363170": {
-        "title": "邓明扬一作论文改写生成范式！何恺明也署名了",
-        "link": "https://www.qbitai.com/2026/02/376752.html",
-        "published_date": "Thu, 05 Feb 2026 15:26:00 GMT",
-        "first_seen": "2026-02-05T23:26:07.428679"
-      },
-      "cd7fb2b0068405234f955f2f2ade1f339fb8fb59852fdee1b639ccf976c55fa5": {
-        "title": "陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛",
-        "link": "https://www.qbitai.com/2026/02/376636.html",
-        "published_date": "Thu, 05 Feb 2026 14:48:00 GMT",
-        "first_seen": "2026-02-05T23:26:07.428681"
-      },
-      "27bc93a356a0574dc8a2980508a51dc0e60709a2c035bb8bf744227a08ed26e1": {
-        "title": "面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答",
-        "link": "https://www.qbitai.com/2026/02/376714.html",
-        "published_date": "Thu, 05 Feb 2026 15:19:00 GMT",
-        "first_seen": "2026-02-05T23:26:07.428683"
-      },
-      "aa4e2f193b059b653dc5da4a0065c4fedb0ef4c37925cbff07784c6c62c12ee7": {
-        "title": "众智FlagOS实现面壁新模型MiniCPM-o 4.5：“发布即适配”性能全面反超原生",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-12",
-        "published_date": "Thu, 05 Feb 2026 21:26:00 GMT",
-        "first_seen": "2026-02-05T23:26:07.428684"
-      },
       "c011a9ef29f0a7df7314d42a834ea8a4f9c66269b1a6f838448a7704187a39a1": {
         "title": "硬碰硬！刚刚，Claude Opus 4.6与GPT-5.3-Codex同时发布",
         "link": "https://www.jiqizhixin.com/articles/2026-02-06",
@@ -6287,13 +6233,19 @@
         "link": "https://www.qbitai.com/2026/03/384637.html",
         "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
         "first_seen": "2026-03-07T23:25:45.078209"
+      },
+      "93eb54266fe600d85d2e3455bedacc05a4f9874100409430355abd12a30cce70": {
+        "title": "2026-03-08日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-08/",
+        "published_date": "Sun, 08 Mar 2026 09:50:00 GMT",
+        "first_seen": "2026-03-08T05:44:50.716982"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-07T23:25:32.353457",
-    "Finance": "2026-03-07T23:25:44.934482",
-    "Ai": "2026-03-07T23:25:45.078215"
+    "Technology": "2026-03-08T05:44:50.518872",
+    "Finance": "2026-03-08T05:44:50.554618",
+    "Ai": "2026-03-08T05:44:50.716990"
   }
 }

@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-07 23:25
+**最后更新时间**: 2026-03-08 05:44
+
+---
+
+## 🆕 最新更新 (2026-03-08 05:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump hits out at Starmer over UK reluctance to support Iran attacks](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 00:58
 
 ---
 
