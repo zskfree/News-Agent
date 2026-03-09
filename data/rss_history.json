@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "eeec0efa189dacea11d34740b7f37ea6b1e86e449214e0f37b5847aa91d023e1": {
-        "title": "音乐圈的第一批AI受害者出现了",
-        "link": "https://www.tmtpost.com/7870010.html",
-        "published_date": "Sat, 07 Feb 2026 10:04:00 GMT",
-        "first_seen": "2026-02-07T08:34:50.246168"
-      },
-      "36b263ffeda0a621f39d6012e8439a7efb20aaf3afe83934df4f1b5113e65fe1": {
-        "title": "冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速",
-        "link": "https://www.tmtpost.com/7870765.html",
-        "published_date": "Sat, 07 Feb 2026 15:58:00 GMT",
-        "first_seen": "2026-02-07T08:34:50.246175"
-      },
-      "fe5c85b71324f1fe1e8dacbc69bf93c741da166e794886cffa9d2c7a7160be1c": {
-        "title": "隆基与蔚来携手布局光储充，失意龙头联盟能否并肩翻身？",
-        "link": "https://www.tmtpost.com/7869823.html",
-        "published_date": "Sat, 07 Feb 2026 09:01:00 GMT",
-        "first_seen": "2026-02-07T08:34:50.246177"
-      },
-      "a334321f097886d4ececde2a8373a0c56e3a8a62013b7498a4ac0573747b0890": {
-        "title": "美光正迎来一波史诗级涨势，别再害怕存储芯片的周期波动",
-        "link": "https://www.tmtpost.com/7870573.html",
-        "published_date": "Sat, 07 Feb 2026 10:58:00 GMT",
-        "first_seen": "2026-02-07T08:34:50.246179"
-      },
-      "9fcd1332579e59cfd06608864446b5219791dc59f6897b5e8ef3f11a4fc9cefc": {
-        "title": "“充电宝之父”死磕 AI 入口：我看好的技术路线，我愿意陪你一起赔钱｜深度实践",
-        "link": "https://www.tmtpost.com/7869809.html",
-        "published_date": "Sat, 07 Feb 2026 13:18:00 GMT",
-        "first_seen": "2026-02-07T08:34:50.246180"
-      },
       "be590abf66dbfeeed0be16772bb9fd359683d54648ab8078303b17126e849721": {
         "title": "最顶以太坊杀手？拆解Solana崛起的底层逻辑",
         "link": "http://www.huxiu.com/article/4833122.html?f=wangzhan",
@@ -2665,15 +2635,39 @@
         "link": "https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 09 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-09T05:59:41.501837"
+      },
+      "2b7eee2cecc00b7f027ccf0c31b4c9badf28e729e8ea31c3d34d780ae86d4e99": {
+        "title": "雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报",
+        "link": "https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Mar 2026 09:46:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.739909"
+      },
+      "cc2ea4c9d441ff48175d4ca5f4a9c11e6aa7c2125934d020c59e01b0f78afdfa": {
+        "title": "抛出“五层蛋糕论”与“计算真空”：黄仁勋借势OpenClaw，布下千亿算力阳谋",
+        "link": "https://www.tmtpost.com/7905011.html",
+        "published_date": "Mon, 09 Mar 2026 16:19:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.739917"
+      },
+      "40bf0a8fb24b74c0f128620f536d9031468af6ae132d681028a43c1bb5eb12fd": {
+        "title": "55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532019&idx=1&sn=d9e52c2a283c6b4b361e506078173b7d",
+        "published_date": "Mon, 09 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.739919"
+      },
+      "01662042b6de261e2c5db0547b8f70bc28c38a6bab63e8b51e6b3c75db1e4b9a": {
+        "title": "Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？",
+        "link": "https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Mar 2026 09:53:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.739921"
+      },
+      "d264a73227a367bb72518bc052aca6a2e0d04970eb055dd0312618e4deb21156": {
+        "title": "AI气象大模型，为什么开始进入能源系统",
+        "link": "https://www.tmtpost.com/7905524.html",
+        "published_date": "Mon, 09 Mar 2026 15:14:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.739923"
       }
     },
     "Finance": {
-      "45fb93df862a79c023ca757868447f284abec4866d399cf98e18d2a45f24d531": {
-        "title": "‘Hermès orange’ iPhone sparks Apple comeback in China",
-        "link": "https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46",
-        "published_date": "Sat, 07 Feb 2026 07:00:00 GMT",
-        "first_seen": "2026-02-07T08:34:24.951527"
-      },
       "05466cbb8857f8eefe4b433e802326c44ccac842f357d1eae0373b1e35d0310a": {
         "title": "Investors are asking if they need to own gold and silver at all",
         "link": "https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories",
@@ -4605,27 +4599,21 @@
         "link": "https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5",
         "published_date": "Mon, 09 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-09T05:59:52.760417"
+      },
+      "3f72c32334b2eb806096bee13d75ec768f6f746d34078f141de1df5c7398106d": {
+        "title": "Gilt market slump deepens as traders bet on BoE rate rise",
+        "link": "https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2",
+        "published_date": "Mon, 09 Mar 2026 08:42:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.776259"
+      },
+      "0a1965e158b50bfd58ea4ab0b1617f3b2f0c746e7f0b2b8b5d4361566d9c97c1": {
+        "title": "Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates",
+        "link": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
+        "published_date": "Mon, 09 Mar 2026 08:40:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.776265"
       }
     },
     "Ai": {
-      "a368da793df6871f00f02e6088053501b0a56d9a9ed4946b601c60cf1b866328": {
-        "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
-        "link": "https://www.qbitai.com/2026/02/377564.html",
-        "published_date": "Sat, 07 Feb 2026 07:35:00 GMT",
-        "first_seen": "2026-02-07T08:34:25.103211"
-      },
-      "4d1e96372c18dd77250733cee2205725a6fbe100616a27f0341c168d78500328": {
-        "title": "Nature认定的论文综述神器来了",
-        "link": "https://www.qbitai.com/2026/02/377543.html",
-        "published_date": "Sat, 07 Feb 2026 05:12:00 GMT",
-        "first_seen": "2026-02-07T08:34:25.103219"
-      },
-      "2a4543c6ef34d1fd59fa1e5b54c4dce06cac68248fd8e0127673c23b6f62804a": {
-        "title": "有的AI在算命，有的AI在救命",
-        "link": "https://www.qbitai.com/2026/02/377529.html",
-        "published_date": "Sat, 07 Feb 2026 05:06:00 GMT",
-        "first_seen": "2026-02-07T08:34:25.103222"
-      },
       "153d5ba5661e893920f42b34c2919358c541347ce37fbbe6d117abe98ce731aa": {
         "title": "清华研究生开源大一统世界模型：性能超越硅谷标杆40%！",
         "link": "https://www.qbitai.com/2026/02/377835.html",
@@ -6143,13 +6131,25 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-09/",
         "published_date": "Mon, 09 Mar 2026 09:25:00 GMT",
         "first_seen": "2026-03-09T05:59:52.911973"
+      },
+      "88c38c36764b92f2c00e2315da35521ca9fc6b651850082f200f4ac13a26d029": {
+        "title": "企业微信支持接入OpenClaw，仅需3步即可快速上手",
+        "link": "https://www.qbitai.com/2026/03/384944.html",
+        "published_date": "Mon, 09 Mar 2026 07:12:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.922540"
+      },
+      "77838b8e0d92b9e975f4771f35f42d5bf674f291dabb3787427e1de6aff689d7": {
+        "title": "“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤",
+        "link": "https://www.qbitai.com/2026/03/384926.html",
+        "published_date": "Mon, 09 Mar 2026 06:21:00 GMT",
+        "first_seen": "2026-03-09T08:50:39.922548"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-09T05:59:41.501840",
-    "Finance": "2026-03-09T05:59:52.760420",
-    "Ai": "2026-03-09T05:59:52.911981"
+    "Technology": "2026-03-09T08:50:39.739925",
+    "Finance": "2026-03-09T08:50:39.776268",
+    "Ai": "2026-03-09T08:50:39.922551"
   }
 }

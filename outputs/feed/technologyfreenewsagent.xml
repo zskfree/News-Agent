@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Mar 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 05:59:41 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:50:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从上下文到长期记忆：大模型记忆工程的架构设计与实践</title>
-      <link>https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从上下文到长期记忆：大模型记忆工程的架构设计与实践]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报</title>
+      <link>https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPU进基站？AI-RAN的真争议</title>
-      <link>https://www.tmtpost.com/7905286.html</link>
-      <description>&lt;![CDATA[GPU进基站？AI-RAN的真争议]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7905286.html</guid>
+      <title>抛出“五层蛋糕论”与“计算真空”：黄仁勋借势OpenClaw，布下千亿算力阳谋</title>
+      <link>https://www.tmtpost.com/7905011.html</link>
+      <description>&lt;![CDATA[抛出“五层蛋糕论”与“计算真空”：黄仁勋借势OpenClaw，布下千亿算力阳谋]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7905011.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>半导体产业价值大重估，连英伟达都失宠了？</title>
-      <link>https://www.tmtpost.com/7905281.html</link>
-      <description>&lt;![CDATA[半导体产业价值大重估，连英伟达都失宠了？]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7905281.html</guid>
+      <title>55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532019&amp;idx=1&amp;sn=d9e52c2a283c6b4b361e506078173b7d</link>
+      <description>&lt;![CDATA[55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532019&amp;idx=1&amp;sn=d9e52c2a283c6b4b361e506078173b7d</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中传砍掉16个专业，“人机分工教育”老师先&quot;毕业&quot;，学生再&quot;入学&quot;？</title>
-      <link>https://www.tmtpost.com/7905321.html</link>
-      <description>&lt;![CDATA[中传砍掉16个专业，“人机分工教育”老师先&quot;毕业&quot;，学生再&quot;入学&quot;？]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7905321.html</guid>
+      <title>Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？</title>
+      <link>https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌研究院探索多智能体协调的扩展原则</title>
-      <link>https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌研究院探索多智能体协调的扩展原则]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI气象大模型，为什么开始进入能源系统</title>
+      <link>https://www.tmtpost.com/7905524.html</link>
+      <description>&lt;![CDATA[AI气象大模型，为什么开始进入能源系统]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7905524.html</guid>
       <category>Technology</category>
     </item>
   </channel>

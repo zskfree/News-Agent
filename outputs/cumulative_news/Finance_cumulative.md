@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 05:59
+**最后更新时间**: 2026-03-09 08:50
+
+---
+
+## 🆕 最新更新 (2026-03-09 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gilt market slump deepens as traders bet on BoE rate rise](https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2)
+**发布时间**: 2026-03-09 08:42
+
+#### [Global trading system under ‘unsustainable’ pressure, warns UK](https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f)
+**发布时间**: 2026-03-09 05:00
+
+#### [Stocks and bonds tumble as oil soars past $100 a barrel](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates](https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 08:40
 
 ---
 

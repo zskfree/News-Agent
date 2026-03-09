@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Mar 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 05:59:52 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:50:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>G7 to discuss joint release of emergency oil reserves</title>
-      <link>https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82</link>
-      <description>&lt;![CDATA[G7 to discuss joint release of emergency oil reserves]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 05:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82</guid>
+      <title>Gilt market slump deepens as traders bet on BoE rate rise</title>
+      <link>https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</link>
+      <description>&lt;![CDATA[Gilt market slump deepens as traders bet on BoE rate rise]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Global trading system under ‘unsustainable’ pressure warns UK</title>
-      <link>https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f</link>
-      <description>&lt;![CDATA[Global trading system under ‘unsustainable’ pressure warns UK]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Which economies will pay the biggest price for the Iran war?</title>
-      <link>https://www.ft.com/content/9c17c777-378b-44ad-abf8-00d8cfb5349c</link>
-      <description>&lt;![CDATA[Which economies will pay the biggest price for the Iran war?]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9c17c777-378b-44ad-abf8-00d8cfb5349c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Largest backer of UK water companies shuns sector amid struggles</title>
-      <link>https://www.ft.com/content/9005597a-a59e-4b49-bb95-f5ec8d9e633e</link>
-      <description>&lt;![CDATA[Largest backer of UK water companies shuns sector amid struggles]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9005597a-a59e-4b49-bb95-f5ec8d9e633e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Kharg Island: Iran’s oil lifeline that Trump has left untouched</title>
-      <link>https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5</link>
-      <description>&lt;![CDATA[Kharg Island: Iran’s oil lifeline that Trump has left untouched]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5</guid>
+      <title>Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates</title>
+      <link>https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
