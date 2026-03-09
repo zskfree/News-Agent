@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 08:50
+**最后更新时间**: 2026-03-09 23:30
+
+---
+
+## 🆕 最新更新 (2026-03-09 23:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue](https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86)
+**发布时间**: 2026-03-09 23:14
+
+#### [Goldman pitches hedge funds on strategies to bet against corporate loans](https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad)
+**发布时间**: 2026-03-09 21:00
+
+#### [The rise of Mojtaba Khamenei](https://www.ft.com/content/e63f1049-7e3f-4f31-885c-b676261b9b16)
+**发布时间**: 2026-03-09 20:32
+
+#### [G7 ‘stands ready’ to release emergency oil reserves](https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1)
+**发布时间**: 2026-03-09 20:01
+
+#### [British aircraft carrier will not be sent to Middle East, say officials](https://www.ft.com/content/2d5ccfbd-fe50-41e5-aa82-fa4c27464e73)
+**发布时间**: 2026-03-09 19:35
+
+#### [Middle East crisis ‘likely’ to push UK inflation up, Rachel Reeves tells MPs](https://www.ft.com/content/ac1d15a1-f312-40b5-abd0-0a6fb12ad031)
+**发布时间**: 2026-03-09 18:24
+
+#### [Trump sons back launch of new military drone company](https://www.ft.com/content/ab78c37c-8791-474e-b057-bf8f33d21118)
+**发布时间**: 2026-03-09 17:28
+
+#### [Gulf desalination plants emerge as new flashpoint in Iran war](https://www.ft.com/content/f273fa16-ff7f-4207-a9ae-abce5de93144)
+**发布时间**: 2026-03-09 14:57
+
+#### [Trump’s Venezuela strategy has failed in Iran](https://www.ft.com/content/7d40b920-93d8-4ee7-9387-a5793fd3e0c5)
+**发布时间**: 2026-03-09 11:51
+
+#### [Donald Trump says Iran war will be over ‘very soon’](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’](https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 22:44
+
+#### [The NFL’s Dolphins are paying a record $99.2 million to get a player off their team](https://www.marketwatch.com/story/the-nfls-dolphins-are-paying-a-record-99-2-million-to-get-a-player-off-their-team-872a1e8a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 22:02
+
+#### [An already chaotic spring travel season is colliding with effects of Iran conflict](https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:45
+
+#### [‘I am stuck in a low-income trap’: I’m a teacher and very good at my job. Will I ever earn six figures?](https://www.marketwatch.com/story/i-am-stuck-in-a-low-income-trap-im-a-teacher-will-i-ever-earn-six-figures-5f7dd2b9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:15
+
+#### [‘I find this very worrying’: A friend lost her home. Why are foreclosures on the rise?](https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:14
+
+#### [Treasury yields halt climb after Trump reportedly signals Iran war may end soon](https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:06
+
+#### [Older workers embrace job hopping — and it’s good for their retirement prospects](https://www.marketwatch.com/story/older-workers-embrace-job-hopping-and-its-good-for-their-retirement-prospects-1b52c1b0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:41
+
+#### [HPE’s stock rises as earnings benefit from two big AI trends](https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:40
+
+#### [This biotech’s stock soared after a ‘polarizing’ FDA official is stepping down](https://www.marketwatch.com/story/this-biotechs-stock-is-soaring-after-a-polarizing-fda-official-is-stepping-down-8a81d352?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:37
 
 ---
 

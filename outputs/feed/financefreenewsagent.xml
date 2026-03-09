@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Mar 2026 08:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 08:50:39 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:31:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gilt market slump deepens as traders bet on BoE rate rise</title>
-      <link>https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</link>
-      <description>&lt;![CDATA[Gilt market slump deepens as traders bet on BoE rate rise]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2</guid>
+      <title>Goldman pitches hedge funds on strategies to bet against corporate loans</title>
+      <link>https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad</link>
+      <description>&lt;![CDATA[Goldman pitches hedge funds on strategies to bet against corporate loans]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates</title>
-      <link>https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories</guid>
+      <title>Treasury yields halt climb after Trump reportedly signals Iran war may end soon</title>
+      <link>https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Treasury yields halt climb after Trump reportedly signals Iran war may end soon]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 21:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’</title>
+      <link>https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 22:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>G7 ‘stands ready’ to release emergency oil reserves</title>
+      <link>https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</link>
+      <description>&lt;![CDATA[G7 ‘stands ready’ to release emergency oil reserves]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue</title>
+      <link>https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86</link>
+      <description>&lt;![CDATA[Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 23:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -2665,6 +2665,36 @@
         "link": "https://www.tmtpost.com/7905524.html",
         "published_date": "Mon, 09 Mar 2026 15:14:00 GMT",
         "first_seen": "2026-03-09T08:50:39.739923"
+      },
+      "64e4ff816da7273050e2fad67425de07a16814ce56114182f8ec213b8c57801a": {
+        "title": "OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发",
+        "link": "https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-09T23:30:54.593007"
+      },
+      "8fe6c5075f58952396a43e69559fbf262ebed672d0909738dca17f205fd1c6b6": {
+        "title": "OpenClaw席卷中国：国产AI正在建立全球竞争的结构性优势",
+        "link": "https://www.tmtpost.com/7906039.html",
+        "published_date": "Mon, 09 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-09T23:30:54.593015"
+      },
+      "5dca2f172ecfac12d3a982339ee97c18f462f51f7bf47404d849ca5aaf34ba88": {
+        "title": "聚焦固态电池、回收、破“内卷”，两会代表建言锂电全链条协同破局",
+        "link": "https://www.tmtpost.com/7906391.html",
+        "published_date": "Mon, 09 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-09T23:30:54.593018"
+      },
+      "68cc0235c38fa8ff6f04311e4e60dbc68bcee5debfde373fd97c1d315da14ca6": {
+        "title": "终端大模型操作系统的架构、优化与展望",
+        "link": "https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-09T23:30:54.593020"
+      },
+      "d935b53138e790b2919336c28a18951de93dbad73799f8f05814bf7316dec3cb": {
+        "title": "鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事",
+        "link": "https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 09 Mar 2026 10:19:00 GMT",
+        "first_seen": "2026-03-09T23:30:54.593021"
       }
     },
     "Finance": {
@@ -4611,6 +4641,36 @@
         "link": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
         "published_date": "Mon, 09 Mar 2026 08:40:00 GMT",
         "first_seen": "2026-03-09T08:50:39.776265"
+      },
+      "73fe101ceb6eada52ff1090bf08163f8c03b7921682272e6f0b2b94c48cf05fa": {
+        "title": "Goldman pitches hedge funds on strategies to bet against corporate loans",
+        "link": "https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad",
+        "published_date": "Mon, 09 Mar 2026 21:00:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.554729"
+      },
+      "b556d5d4ab0c1039d927405b1172c4230886d433524945b55cf9719ca42f1b2a": {
+        "title": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
+        "link": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
+        "published_date": "Mon, 09 Mar 2026 21:06:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.554735"
+      },
+      "879ecd0f6a89f3812cbec71334e6602365e45db8811b05fcb80a3ddac9de3504": {
+        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+        "link": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
+        "published_date": "Mon, 09 Mar 2026 22:44:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.554737"
+      },
+      "7fda8003f632ec9a98d0f1c2c8f05705444089b81c9d7b12bf4ed2dfc35b8a0d": {
+        "title": "G7 ‘stands ready’ to release emergency oil reserves",
+        "link": "https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1",
+        "published_date": "Mon, 09 Mar 2026 20:01:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.554739"
+      },
+      "b50c43bd11fff281f5119cd7bfe2afa9ed47cef644be2ab1e78897707ef1ec28": {
+        "title": "Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue",
+        "link": "https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86",
+        "published_date": "Mon, 09 Mar 2026 23:14:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.554740"
       }
     },
     "Ai": {
@@ -6143,13 +6203,19 @@
         "link": "https://www.qbitai.com/2026/03/384926.html",
         "published_date": "Mon, 09 Mar 2026 06:21:00 GMT",
         "first_seen": "2026-03-09T08:50:39.922548"
+      },
+      "090ec9587ff02e1a8f511d91b16a6c45fd38fbaa5a30d5a7b5ace67bb2d502b6": {
+        "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
+        "link": "https://www.qbitai.com/2026/03/385066.html",
+        "published_date": "Mon, 09 Mar 2026 10:46:00 GMT",
+        "first_seen": "2026-03-09T23:31:13.699368"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-09T08:50:39.739925",
-    "Finance": "2026-03-09T08:50:39.776268",
-    "Ai": "2026-03-09T08:50:39.922551"
+    "Technology": "2026-03-09T23:30:54.593023",
+    "Finance": "2026-03-09T23:31:13.554743",
+    "Ai": "2026-03-09T23:31:13.699385"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Mar 2026 08:49:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 08:50:39 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:31:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>企业微信支持接入OpenClaw，仅需3步即可快速上手</title>
-      <link>https://www.qbitai.com/2026/03/384944.html</link>
-      <description>&lt;![CDATA[企业微信支持接入OpenClaw，仅需3步即可快速上手]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 07:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384944.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤</title>
-      <link>https://www.qbitai.com/2026/03/384926.html</link>
-      <description>&lt;![CDATA[“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 06:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384926.html</guid>
+      <title>首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖</title>
+      <link>https://www.qbitai.com/2026/03/385066.html</link>
+      <description>&lt;![CDATA[首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385066.html</guid>
       <category>Ai</category>
     </item>
   </channel>
