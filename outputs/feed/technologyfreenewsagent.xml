@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 23:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 23:28:16 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 05:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:59:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Science｜攻克AD现曙光！美国科学家开发新型CAR-A疗法</title>
-      <link>https://www.tmtpost.com/7904513.html</link>
-      <description>&lt;![CDATA[Science｜攻克AD现曙光！美国科学家开发新型CAR-A疗法]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904513.html</guid>
+      <title>从上下文到长期记忆：大模型记忆工程的架构设计与实践</title>
+      <link>https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从上下文到长期记忆：大模型记忆工程的架构设计与实践]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MySQL 9.6更改外键约束及级联处理机制</title>
-      <link>https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MySQL 9.6更改外键约束及级联处理机制]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPU进基站？AI-RAN的真争议</title>
+      <link>https://www.tmtpost.com/7905286.html</link>
+      <description>&lt;![CDATA[GPU进基站？AI-RAN的真争议]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7905286.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米们开始下场“养虾”，豆包手机应如何接招？</title>
-      <link>https://www.tmtpost.com/7904093.html</link>
-      <description>&lt;![CDATA[小米们开始下场“养虾”，豆包手机应如何接招？]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904093.html</guid>
+      <title>半导体产业价值大重估，连英伟达都失宠了？</title>
+      <link>https://www.tmtpost.com/7905281.html</link>
+      <description>&lt;![CDATA[半导体产业价值大重估，连英伟达都失宠了？]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7905281.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 个今日登上 GitHub 热榜的开源项目，收藏。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531962&amp;idx=1&amp;sn=4a1dc067a3adc0e6064759df9bbd21c1</link>
-      <description>&lt;![CDATA[6 个今日登上 GitHub 热榜的开源项目，收藏。]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531962&amp;idx=1&amp;sn=4a1dc067a3adc0e6064759df9bbd21c1</guid>
+      <title>中传砍掉16个专业，“人机分工教育”老师先&quot;毕业&quot;，学生再&quot;入学&quot;？</title>
+      <link>https://www.tmtpost.com/7905321.html</link>
+      <description>&lt;![CDATA[中传砍掉16个专业，“人机分工教育”老师先&quot;毕业&quot;，学生再&quot;入学&quot;？]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7905321.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扒一扒锂电池材料行业的这个隐形冠军</title>
-      <link>https://www.tmtpost.com/7904544.html</link>
-      <description>&lt;![CDATA[扒一扒锂电池材料行业的这个隐形冠军]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7904544.html</guid>
+      <title>谷歌研究院探索多智能体协调的扩展原则</title>
+      <link>https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌研究院探索多智能体协调的扩展原则]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

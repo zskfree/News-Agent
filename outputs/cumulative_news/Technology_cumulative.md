@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 23:27
+**最后更新时间**: 2026-03-09 05:59
+
+---
+
+## 🆕 最新更新 (2026-03-09 05:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从2026政府工作报告，读懂年营收过亿科技企业3-5年上市的六大生死趋势](https://www.tmtpost.com/7905431.html)
+**发布时间**: 2026-03-09 13:24
+
+#### [石头科技一边稳坐头把交椅，一边净利润暴跌](https://www.tmtpost.com/7905358.html)
+**发布时间**: 2026-03-09 13:24
+
+#### [前作卖出900万份，新作上线挤崩服务器，登顶畅销榜TOP1](https://www.tmtpost.com/7905313.html)
+**发布时间**: 2026-03-09 13:23
+
+#### [半导体产业价值大重估，连英伟达都失宠了？](https://www.tmtpost.com/7905281.html)
+**发布时间**: 2026-03-09 13:23
+
+#### [中传砍掉16个专业，“人机分工教育”老师先"毕业"，学生再"入学"？](https://www.tmtpost.com/7905321.html)
+**发布时间**: 2026-03-09 13:01
+
+#### [机器人「起飞」元年：热钱、故事与透支的未来](https://www.tmtpost.com/7905248.html)
+**发布时间**: 2026-03-09 12:56
+
+#### [GPU进基站？AI-RAN的真争议](https://www.tmtpost.com/7905286.html)
+**发布时间**: 2026-03-09 12:50
+
+#### [陈天桥投的AI产品登顶Github，中国00后小孩哥开发｜AGI焦点](https://www.tmtpost.com/7905346.html)
+**发布时间**: 2026-03-09 12:47
+
+#### [全球运营近千台无人车，这家港口无人驾驶公司“再换”辅导机构闯关A股](https://www.tmtpost.com/7905317.html)
+**发布时间**: 2026-03-09 12:42
+
+#### [中东巨变：天堂地狱的交融之地](https://www.tmtpost.com/7905289.html)
+**发布时间**: 2026-03-09 12:37
+
+#### [读懂六大趋势后，年营收过亿创始人必须回答的12个生死问题](https://www.tmtpost.com/7905330.html)
+**发布时间**: 2026-03-09 12:37
+
+#### [OpenClaw一夜掏空你钱包？终于有人管管了](https://www.tmtpost.com/7905336.html)
+**发布时间**: 2026-03-09 12:37
+
+#### [AI 真能做研究吗？UniPat AI 开源 UniScientist，用30B小模型给出肯定答案｜公司动态](https://www.tmtpost.com/7905303.html)
+**发布时间**: 2026-03-09 12:36
+
+#### [杭州父女为迪卡侬代工钓鱼装备，年入5个亿](https://www.tmtpost.com/7905201.html)
+**发布时间**: 2026-03-09 11:17
+
+#### [狂飙的寿司郎要踩刹车](https://www.tmtpost.com/7905243.html)
+**发布时间**: 2026-03-09 11:17
+
+#### [秃头这个病](https://www.tmtpost.com/7905208.html)
+**发布时间**: 2026-03-09 11:17
+
+#### [欧美排队疯抢燃气轮机，中国又笑了](https://www.tmtpost.com/7905191.html)
+**发布时间**: 2026-03-09 11:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从上下文到长期记忆：大模型记忆工程的架构设计与实践](https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 12:05
+
+#### [GlassFish 8.0发布，兼容Jakarta EE 11，增强安全性并改进数据访问](https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 10:30
+
+#### [鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事](https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 10:19
+
+#### [从 Demo 到规模落地：AIOps Agent 在复杂云原生场景下的研发范式与数据飞轮实践｜QCon北京](https://www.infoq.cn/article/5ydQqEFM2Kkskgyl0u3X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 10:10
+
+#### [谷歌研究院探索多智能体协调的扩展原则](https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 10:00
+
+#### [Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？](https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 09:53
+
+#### [雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报](https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 09:46
+
+#### [Leapwork研究显示，测试中的AI仍然依赖于可靠性，而不仅仅是创新](https://www.infoq.cn/article/IHiheIrpN1lo0jJJlqhD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 09:40
+
+#### [Java近期资讯：延迟常量、TornadoVM 3.0、NetBeans 29、Quarkus、JReleaser和Open Liberty](https://www.infoq.cn/article/e2DdycRSttfZvU2ZkauH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-09 09:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜荷马与人工智能：一场跨越三千年的「众筹」](https://sspai.com/post/106762)
+**发布时间**: 2026-03-09 10:31
+
+#### [派早报：苹果禁止美国用户下载中国版字节跳动应用](https://sspai.com/post/106955)
+**发布时间**: 2026-03-09 07:03
 
 ---
 

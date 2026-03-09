@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Mar 2026 23:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 23:28:35 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 05:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:59:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>高中生AI创业，现在只招龙虾员工：每月成本2800</title>
-      <link>https://www.qbitai.com/2026/03/384797.html</link>
-      <description>&lt;![CDATA[高中生AI创业，现在只招龙虾员工：每月成本2800]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384797.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenClaw最强外挂出现：小龙虾抓不到数据有救了！</title>
-      <link>https://www.qbitai.com/2026/03/384786.html</link>
-      <description>&lt;![CDATA[OpenClaw最强外挂出现：小龙虾抓不到数据有救了！]]&gt;</description>
-      <pubDate>Sun, 08 Mar 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/384786.html</guid>
+      <title>2026-03-09日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-09/</link>
+      <description>&lt;![CDATA[2026-03-09日刊]]&gt;</description>
+      <pubDate>Mon, 09 Mar 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-09/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-08 23:28
+**最后更新时间**: 2026-03-09 05:59
+
+---
+
+## 🆕 最新更新 (2026-03-09 05:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [G7 to discuss joint release of emergency oil reserves](https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82)
+**发布时间**: 2026-03-09 05:51
+
+#### [Which economies will pay the biggest price for the Iran war?](https://www.ft.com/content/9c17c777-378b-44ad-abf8-00d8cfb5349c)
+**发布时间**: 2026-03-09 05:00
+
+#### [Farage misses out on Trump meeting as their relationship cools](https://www.ft.com/content/93919282-0871-4cfe-bc98-62cee5477d8b)
+**发布时间**: 2026-03-09 05:00
+
+#### [Kharg Island: Iran’s oil lifeline that Trump has left untouched](https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5)
+**发布时间**: 2026-03-09 05:00
+
+#### [Global trading system under ‘unsustainable’ pressure warns UK](https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f)
+**发布时间**: 2026-03-09 05:00
+
+#### [Largest backer of UK water companies shuns sector amid struggles](https://www.ft.com/content/9005597a-a59e-4b49-bb95-f5ec8d9e633e)
+**发布时间**: 2026-03-09 05:00
+
+#### [Stocks tumble as oil soars past $110 a barrel](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+#### [Iran’s choice of Khamenei’s son as supreme leader signals continuity of hardline policies](https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729)
+**发布时间**: 2026-03-08 23:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages](https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 02:58
 
 ---
 
