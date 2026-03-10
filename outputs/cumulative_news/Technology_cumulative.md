@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 05:48
+**最后更新时间**: 2026-03-10 08:46
+
+---
+
+## 🆕 最新更新 (2026-03-10 08:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [宁王：产能拉满！AI 基建时代霸气归来](https://www.tmtpost.com/7906936.html)
+**发布时间**: 2026-03-10 16:23
+
+#### [网贷公司，遗老遗少大清洗](https://www.tmtpost.com/7907245.html)
+**发布时间**: 2026-03-10 16:23
+
+#### [实战定义价值：Digital Quant 2026 官方赛则发布](https://www.tmtpost.com/7907420.html)
+**发布时间**: 2026-03-10 16:10
+
+#### [1143家→517家：美国最大养老集团，正在亲手拆掉自己的帝国](https://www.tmtpost.com/7906812.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [OpenClaw火出圈，卷到了腾讯](https://www.tmtpost.com/7906586.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现](https://www.tmtpost.com/7906471.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [抢占移动端先机，2300亿雷军下场“养龙虾”](https://www.tmtpost.com/7906512.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [当北上广打工人用焦虑喂养龙虾，这股热潮还能持续多久？](https://www.tmtpost.com/7906567.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [不是市场不懂 B 站，是它的估值逻辑彻底变了](https://www.tmtpost.com/7906601.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [AI漫剧狂飙200天：大厂混战、月入千万，泡沫疯涌](https://www.tmtpost.com/7906606.html)
+**发布时间**: 2026-03-10 15:54
+
+#### [瑞士清洁科技公司Unbound Potential研发无膜氧化还原液流电池，提升电池长时储能能力](https://www.tmtpost.com/7906950.html)
+**发布时间**: 2026-03-10 15:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenClaw 大更新：最值得关注的不是 GPT-5.4，而是 memory](https://www.infoq.cn/article/3Edwvdt46RR8Sd1ewSkQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 16:00
+
+#### [OpenAI 也要 IPO 了，但这次只能争“全球第三”](https://www.infoq.cn/article/WDSbYFmuBNTG1652FzXB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:45
+
+#### [“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了](https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:38
+
+#### [“养虾”火遍全网，AI Agent 安全问题不容忽视](https://www.infoq.cn/article/t48Z8yiJ4rZGJZePxDLR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 15:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？](https://sspai.com/post/106710)
+**发布时间**: 2026-03-10 14:20
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [1 分钟把 OpenClaw 安装到你电脑，现在真的没有门槛了。。。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532057&idx=1&sn=0b679d05d1ca7518f226e41ac3a82ee2)
+**发布时间**: 2026-03-10 12:12
 
 ---
 

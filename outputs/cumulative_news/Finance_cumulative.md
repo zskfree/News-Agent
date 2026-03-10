@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 05:48
+**最后更新时间**: 2026-03-10 08:46
+
+---
+
+## 🆕 最新更新 (2026-03-10 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Lego chief hits out at Danish wealth tax proposal](https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd)
+**发布时间**: 2026-03-10 08:00
+
+#### [Khamenei martyrdom narrative smooths path for son’s rise](https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c)
+**发布时间**: 2026-03-10 07:01
+
+#### [The thing that everyone expected to happen has happened](https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9)
+**发布时间**: 2026-03-10 06:30
+
+#### [Oil slides as Trump says war will end ‘very soon’](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+#### [White men will have ‘fewer board seats’ in future, says UK diversity chair](https://www.ft.com/content/2ef678ea-843c-45a1-abec-f81f48e7b8d2)
+**发布时间**: 2026-03-10 00:01
 
 ---
 

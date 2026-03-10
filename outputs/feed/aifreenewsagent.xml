@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 05:47:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 05:48:51 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 08:45:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 08:46:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-10日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-10/</link>
-      <description>&lt;![CDATA[2026-03-10日刊]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-10/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>只要1分钟！电脑装满血龙虾，现在跟下载APP似的</title>
-      <link>https://www.qbitai.com/2026/03/385097.html</link>
-      <description>&lt;![CDATA[只要1分钟！电脑装满血龙虾，现在跟下载APP似的]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 02:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385097.html</guid>
+      <title>机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注</title>
+      <link>https://www.qbitai.com/2026/03/385126.html</link>
+      <description>&lt;![CDATA[机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385126.html</guid>
       <category>Ai</category>
     </item>
   </channel>
