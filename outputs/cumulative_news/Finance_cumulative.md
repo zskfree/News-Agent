@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 23:30
+**最后更新时间**: 2026-03-10 05:48
+
+---
+
+## 🆕 最新更新 (2026-03-10 05:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can the G7 release enough oil to calm the market?](https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915)
+**发布时间**: 2026-03-10 05:00
+
+#### [Israel expects Lebanon offensive to outlast Iran conflict](https://www.ft.com/content/364a246a-8837-4de0-82d8-53d982844bfa)
+**发布时间**: 2026-03-10 05:00
+
+#### [The handymen and drivers keeping Tehran running](https://www.ft.com/content/a49da063-ac4d-4d04-9ba5-58209835ed93)
+**发布时间**: 2026-03-10 05:00
+
+#### [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+**发布时间**: 2026-03-10 05:00
+
+#### [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+**发布时间**: 2026-03-10 04:40
+
+#### [Oil slides and stocks rebound](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+#### [Trump says Iran war will end ‘very soon’](https://www.ft.com/content/e6f166b1-c5a1-49bb-9dd5-2d0200f8afca)
+**发布时间**: 2026-03-10 00:55
+
+#### [White males will have ‘fewer board seats’ in future, says UK diversity chair](https://www.ft.com/content/2ef678ea-843c-45a1-abec-f81f48e7b8d2)
+**发布时间**: 2026-03-10 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle faces a high bar for earnings as investors look for an AI payoff](https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 02:58
+
+#### [‘I find this very worrying’: A friend lost her home. Why are foreclosures in America on the rise?](https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 00:00
 
 ---
 

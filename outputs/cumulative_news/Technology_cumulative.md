@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 23:30
+**最后更新时间**: 2026-03-10 05:48
+
+---
+
+## 🆕 最新更新 (2026-03-10 05:48)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从获批到撤市仅 12 个月：和黄医药这款首创药栽在安全性上](https://www.tmtpost.com/7891226.html)
+**发布时间**: 2026-03-10 13:35
+
+#### [2026年，做“非人不可“的生意](https://www.tmtpost.com/7906555.html)
+**发布时间**: 2026-03-10 12:23
+
+#### [27个月，被骂骗子的公司成了印度deepseek](https://www.tmtpost.com/7906430.html)
+**发布时间**: 2026-03-10 12:23
+
+#### [雀巢交出蓝瓶](https://www.tmtpost.com/7906604.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [一片鱼片刺破“排队神话”，引出日料千亿王国](https://www.tmtpost.com/7907045.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [OpenClaw意外走红，智谱、MiniMax、Kimi终于“得救”了](https://www.tmtpost.com/7906376.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [中国群众的AI时刻来了](https://www.tmtpost.com/7906839.html)
+**发布时间**: 2026-03-10 11:26
+
+#### [3D打印，不能靠潮玩“活”着](https://www.tmtpost.com/7906377.html)
+**发布时间**: 2026-03-10 11:26
+
+#### [年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？｜钛度车库](https://www.tmtpost.com/7907016.html)
+**发布时间**: 2026-03-10 11:15
+
+#### [腾讯终于找到自己的ChatGPT时刻](https://www.tmtpost.com/7906846.html)
+**发布时间**: 2026-03-10 09:34
+
+#### [告别“只会聊天的AI”：从OpenClaw到Miclaw，我们如何向Agent交出控制权](https://www.tmtpost.com/7906383.html)
+**发布时间**: 2026-03-10 09:31
+
+#### [AI 带来的电网危机，解法藏在车企的换电站里？](https://www.tmtpost.com/7906280.html)
+**发布时间**: 2026-03-10 09:31
+
+#### [AI圈贩卖焦虑已经过于离谱了](https://www.tmtpost.com/7906371.html)
+**发布时间**: 2026-03-10 09:13
+
+#### [能源危机和赛博养虾带来大涨，电力的投资机会在哪？](https://www.tmtpost.com/7906296.html)
+**发布时间**: 2026-03-10 08:51
+
+#### [傅盛的“产品运”，不只是玄学](https://www.tmtpost.com/7906788.html)
+**发布时间**: 2026-03-10 08:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文 | 信息消费：七年后的再审视](https://sspai.com/post/106845)
+**发布时间**: 2026-03-10 11:24
+
+#### [派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等](https://sspai.com/post/107001)
+**发布时间**: 2026-03-10 08:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Google Cloud云监控指标全面支持OpenTelemetry](https://www.infoq.cn/article/Z1jrMb7rSgZxCQThslh0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:40
+
+#### [AWS 推出智能体插件，实现云部署自动化](https://www.infoq.cn/article/hIg1OifpYrt5Vo517yqo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:30
+
+#### [Ztopia：基于 Milvus 与 Claude Code 打造企业级 Agent｜QCon北京](https://www.infoq.cn/article/DCo7S8AHJiZ0tbks5QIH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:24
+
+#### [谷歌提升了 GKE 集群中节点池自动创建的速度](https://www.infoq.cn/article/4DecoT319BYJzDpIhrl4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:20
+
+#### [GitHub 发布年度开源趋势报告：2026 年开源生态将更趋全球化，AI 带来新挑战](https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:10
+
+#### [谷歌发布智能体架构扩展原则](https://www.infoq.cn/article/DC0RIBly3IkxTTUMfy6U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:52
+
+#### [从集中管控到团队自治：重新思考基础设施交付模式](https://www.infoq.cn/article/4E0eyN5brr2D1xeh3kcX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:49
+
+#### [OpenClaw中国行启动：在中国发起一场AI装机运动](https://www.infoq.cn/article/o4mjG1WsSWgVPHsJS2CQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:37
+
+#### [Uber的混合云数据：工程师如何攻破解大规模复制难题](https://www.infoq.cn/article/jHctpRRbJaQjINj7y2lY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 00:10
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？](http://www.huxiu.com/article/4840479.html?f=wangzhan)
+**发布时间**: 2026-03-10 09:42
+
+#### [B站，巨头眼里的香饽饽](http://www.huxiu.com/article/4840187.html?f=wangzhan)
+**发布时间**: 2026-03-10 06:43
 
 ---
 

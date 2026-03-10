@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Mar 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 23:30:54 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 05:48:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 05:48:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发</title>
-      <link>https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>告别“只会聊天的AI”：从OpenClaw到Miclaw，我们如何向Agent交出控制权</title>
+      <link>https://www.tmtpost.com/7906383.html</link>
+      <description>&lt;![CDATA[告别“只会聊天的AI”：从OpenClaw到Miclaw，我们如何向Agent交出控制权]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906383.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenClaw席卷中国：国产AI正在建立全球竞争的结构性优势</title>
-      <link>https://www.tmtpost.com/7906039.html</link>
-      <description>&lt;![CDATA[OpenClaw席卷中国：国产AI正在建立全球竞争的结构性优势]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906039.html</guid>
+      <title>谷歌发布智能体架构扩展原则</title>
+      <link>https://www.infoq.cn/article/DC0RIBly3IkxTTUMfy6U?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌发布智能体架构扩展原则]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DC0RIBly3IkxTTUMfy6U?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>聚焦固态电池、回收、破“内卷”，两会代表建言锂电全链条协同破局</title>
-      <link>https://www.tmtpost.com/7906391.html</link>
-      <description>&lt;![CDATA[聚焦固态电池、回收、破“内卷”，两会代表建言锂电全链条协同破局]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 20:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906391.html</guid>
+      <title>GitHub 发布年度开源趋势报告：2026 年开源生态将更趋全球化，AI 带来新挑战</title>
+      <link>https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 发布年度开源趋势报告：2026 年开源生态将更趋全球化，AI 带来新挑战]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>终端大模型操作系统的架构、优化与展望</title>
-      <link>https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[终端大模型操作系统的架构、优化与展望]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 带来的电网危机，解法藏在车企的换电站里？</title>
+      <link>https://www.tmtpost.com/7906280.html</link>
+      <description>&lt;![CDATA[AI 带来的电网危机，解法藏在车企的换电站里？]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906280.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事</title>
-      <link>https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事]]&gt;</description>
-      <pubDate>Mon, 09 Mar 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？｜钛度车库</title>
+      <link>https://www.tmtpost.com/7907016.html</link>
+      <description>&lt;![CDATA[年赚722亿之后，宁德时代还有多少“隐藏利润”可以挖？｜钛度车库]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907016.html</guid>
       <category>Technology</category>
     </item>
   </channel>
