@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 08:46
+**最后更新时间**: 2026-03-10 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-10 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla and Google team up to push their own fix for rising electricity bills](https://www.marketwatch.com/story/tesla-and-google-team-up-to-push-their-own-fix-for-rising-electricity-bills-3fca75bc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 23:10
+
+#### [New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it](https://www.marketwatch.com/story/new-social-security-whistleblower-alleges-doge-worker-improperly-accessed-data-and-planned-to-share-it-d6100479?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:12
+
+#### [Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?](https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:06
+
+#### [Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it](https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:04
+
+#### [‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?](https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:01
+
+#### [My ex-boyfriend won’t pay me child support even though he earns $25,000 more than me. What can I do?](https://www.marketwatch.com/story/my-boyfriend-and-i-broke-up-and-he-wont-communicate-with-me-about-child-support-what-can-i-do-2deb8346?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:00
+
+#### [‘My parents begged me never to put him in a home’: I have taken care of my disabled brother my entire life. Am I doing enough?](https://www.marketwatch.com/story/i-promised-my-parents-i-take-care-of-my-brother-who-is-developmentally-disabled-im-now-retired-am-i-doing-enough-c3d926a9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 21:58
+
+#### [Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years](https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 21:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Government overcomes backbench rebellion to pass jury plan](https://www.ft.com/content/50803145-f863-4919-8ceb-c8a706be21ec)
+**发布时间**: 2026-03-10 21:26
+
+#### [Israel rejects Lebanon’s request for ‘cessation’ in fighting to allow for talks](https://www.ft.com/content/e6a01a17-1c56-487f-bcc0-c448edb87332)
+**发布时间**: 2026-03-10 21:02
+
+#### [UK deploys first warship to Cyprus after scrutiny over delays](https://www.ft.com/content/64a7fecc-3671-4744-bad8-4b7385beb248)
+**发布时间**: 2026-03-10 21:00
+
+#### [Soaring fuel prices to cast long shadow across US economy](https://www.ft.com/content/4b55d2eb-7231-4229-931f-0930d118f350)
+**发布时间**: 2026-03-10 20:13
+
+#### [There is no easy exit to Trump’s war](https://www.ft.com/content/b9c7ff46-a3bc-4b64-b8e6-b88a08d7d022)
+**发布时间**: 2026-03-10 18:02
+
+#### [The ‘number station’ sending mystery messages to Iran](https://www.ft.com/content/86c4a4ca-ca06-4fc8-90fe-4f46357b804f)
+**发布时间**: 2026-03-10 17:13
+
+#### [UK consults on scaled-back digital ID plan](https://www.ft.com/content/afc9ac8a-9541-4b7c-b482-e7d7d7ad0fbd)
+**发布时间**: 2026-03-10 16:56
+
+#### [Short sellers target Wizz Air as Iran war wipes out profit](https://www.ft.com/content/f851211d-0464-4865-8dc0-6747f4f1ebe5)
+**发布时间**: 2026-03-10 16:50
+
+#### [Odey’s ex-CEO labelled him a ‘sex pest’, court told](https://www.ft.com/content/6d1fa581-518c-4e49-aa8c-8890240c2f62)
+**发布时间**: 2026-03-10 14:21
+
+#### [Five ways the Iran war could unfold](https://www.ft.com/content/6b3b5f3a-ed9a-4568-8ee6-15c63f4054e7)
+**发布时间**: 2026-03-10 14:00
+
+#### [Taco on Iran will come too late for Trump](https://www.ft.com/content/2f3efdcd-2bd6-4417-b8e2-97b748d3cb62)
+**发布时间**: 2026-03-10 12:24
+
+#### [Oil swings as traders parse mixed messages on Strait of Hormuz](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
 
 ---
 

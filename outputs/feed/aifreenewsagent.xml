@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 08:45:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 08:46:30 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:32:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注</title>
-      <link>https://www.qbitai.com/2026/03/385126.html</link>
-      <description>&lt;![CDATA[机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 05:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385126.html</guid>
+      <title>蔚来，盈利了！！！</title>
+      <link>https://www.qbitai.com/2026/03/385797.html</link>
+      <description>&lt;![CDATA[蔚来，盈利了！！！]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385797.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接</title>
+      <link>https://www.qbitai.com/2026/03/385664.html</link>
+      <description>&lt;![CDATA[腾讯「鹅虾」紧急上线！一手实测：养虾门槛归零，QQ飞书钉钉全能接]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385664.html</guid>
       <category>Ai</category>
     </item>
   </channel>

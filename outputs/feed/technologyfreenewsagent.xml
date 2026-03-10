@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 08:46:30 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:31:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>瑞士清洁科技公司Unbound Potential研发无膜氧化还原液流电池，提升电池长时储能能力</title>
-      <link>https://www.tmtpost.com/7906950.html</link>
-      <description>&lt;![CDATA[瑞士清洁科技公司Unbound Potential研发无膜氧化还原液流电池，提升电池长时储能能力]]&gt;</description>
+      <title>GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw</title>
+      <link>https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Claude 开始收“代码审核税”：一条 PR 25 美元，大厂一年或花百万，还得上交整个代码库</title>
+      <link>https://www.infoq.cn/article/WFMcDd9FOLLLv3jpamv5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude 开始收“代码审核税”：一条 PR 25 美元，大厂一年或花百万，还得上交整个代码库]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WFMcDd9FOLLLv3jpamv5?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了</title>
+      <link>https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现</title>
+      <link>https://www.tmtpost.com/7906471.html</link>
+      <description>&lt;![CDATA[机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现]]&gt;</description>
       <pubDate>Tue, 10 Mar 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906950.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7906471.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>实战定义价值：Digital Quant 2026 官方赛则发布</title>
-      <link>https://www.tmtpost.com/7907420.html</link>
-      <description>&lt;![CDATA[实战定义价值：Digital Quant 2026 官方赛则发布]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7907420.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>傅盛的“产品运”，不只是玄学</title>
-      <link>https://www.tmtpost.com/7906788.html</link>
-      <description>&lt;![CDATA[傅盛的“产品运”，不只是玄学]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906788.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等</title>
-      <link>https://sspai.com/post/107001</link>
-      <description>&lt;![CDATA[派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/107001</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】又一轮能化品种涨停潮，上期所风控措施再加码；OpenClaw爆火，腾讯、字节相继推出自家“小龙虾”产品；消息称苹果上调首款折叠机备货量</title>
-      <link>https://www.tmtpost.com/7906507.html</link>
-      <description>&lt;![CDATA[【钛晨报】又一轮能化品种涨停潮，上期所风控措施再加码；OpenClaw爆火，腾讯、字节相继推出自家“小龙虾”产品；消息称苹果上调首款折叠机备货量]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906507.html</guid>
+      <title>【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%</title>
+      <link>https://www.tmtpost.com/7907850.html</link>
+      <description>&lt;![CDATA[【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7907850.html</guid>
       <category>Technology</category>
     </item>
   </channel>

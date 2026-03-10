@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 08:46:30 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:32:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lego chief hits out at Danish wealth tax proposal</title>
-      <link>https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd</link>
-      <description>&lt;![CDATA[Lego chief hits out at Danish wealth tax proposal]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd</guid>
+      <title>Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it</title>
+      <link>https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 22:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Khamenei martyrdom narrative smooths path for son’s rise</title>
-      <link>https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c</link>
-      <description>&lt;![CDATA[Khamenei martyrdom narrative smooths path for son’s rise]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 07:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c</guid>
+      <title>Soaring fuel prices to cast long shadow across US economy</title>
+      <link>https://www.ft.com/content/4b55d2eb-7231-4229-931f-0930d118f350</link>
+      <description>&lt;![CDATA[Soaring fuel prices to cast long shadow across US economy]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 20:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4b55d2eb-7231-4229-931f-0930d118f350</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The thing that everyone expected to happen has happened</title>
-      <link>https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9</link>
-      <description>&lt;![CDATA[The thing that everyone expected to happen has happened]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9</guid>
+      <title>Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years</title>
+      <link>https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?</title>
+      <link>https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Short sellers target Wizz Air as Iran war wipes out profit</title>
+      <link>https://www.ft.com/content/f851211d-0464-4865-8dc0-6747f4f1ebe5</link>
+      <description>&lt;![CDATA[Short sellers target Wizz Air as Iran war wipes out profit]]&gt;</description>
+      <pubDate>Tue, 10 Mar 2026 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f851211d-0464-4865-8dc0-6747f4f1ebe5</guid>
       <category>Finance</category>
     </item>
   </channel>
