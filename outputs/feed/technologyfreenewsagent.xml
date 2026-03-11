@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 08:44:45 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:28:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>杨立昆，两个月融了70.8亿</title>
-      <link>https://www.tmtpost.com/7908860.html</link>
-      <description>&lt;![CDATA[杨立昆，两个月融了70.8亿]]&gt;</description>
+      <title>黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）</title>
+      <link>https://www.tmtpost.com/7909386.html</link>
+      <description>&lt;![CDATA[黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 20:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7909386.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“两会”点名+多家IPO在即，脑机接口沸腾了</title>
+      <link>https://www.tmtpost.com/7909082.html</link>
+      <description>&lt;![CDATA[“两会”点名+多家IPO在即，脑机接口沸腾了]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7909082.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenClaw爆火，一文看懂“养虾热”背后七大关键问题</title>
+      <link>https://www.tmtpost.com/7908931.html</link>
+      <description>&lt;![CDATA[OpenClaw爆火，一文看懂“养虾热”背后七大关键问题]]&gt;</description>
       <pubDate>Wed, 11 Mar 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7908860.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7908931.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭</title>
-      <link>https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？</title>
+      <link>https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为押宝U6GHz，通信业如何赚大模型的钱</title>
-      <link>https://www.tmtpost.com/7909425.html</link>
-      <description>&lt;![CDATA[华为押宝U6GHz，通信业如何赚大模型的钱]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7909425.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“中间态”L3，是自动驾驶必经之路，还是伪命题？</title>
-      <link>https://www.tmtpost.com/7909233.html</link>
-      <description>&lt;![CDATA[“中间态”L3，是自动驾驶必经之路，还是伪命题？]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7909233.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>砍专业只是开始，大学在AI时代正面临生死时速</title>
-      <link>https://www.tmtpost.com/7909106.html</link>
-      <description>&lt;![CDATA[砍专业只是开始，大学在AI时代正面临生死时速]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7909106.html</guid>
+      <title>5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532080&amp;idx=1&amp;sn=afae8882ccf738ce27b57acf0305457e</link>
+      <description>&lt;![CDATA[5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532080&amp;idx=1&amp;sn=afae8882ccf738ce27b57acf0305457e</guid>
       <category>Technology</category>
     </item>
   </channel>

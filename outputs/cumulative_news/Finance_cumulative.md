@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-11 08:44
+**最后更新时间**: 2026-03-11 23:28
+
+---
+
+## 🆕 最新更新 (2026-03-11 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the IEA’s largest-ever release of oil reserves is pushing up crude prices](https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:19
+
+#### [Uber’s stock rises as new Amazon robotaxi partnership is ‘a positive surprise’](https://www.marketwatch.com/story/ubers-stock-rises-as-new-amazon-robotaxi-partnership-is-a-positive-surprise-675873a1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:09
+
+#### [Oracle’s stock surges. Here’s how it finally left the AI penalty box.](https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:07
+
+#### [‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?](https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:55
+
+#### [Petco is leaning on services, fresh food and pet tarantulas — and it is paying off](https://www.marketwatch.com/story/petco-is-leaning-on-services-fresh-food-and-pet-tarantulas-and-it-is-paying-off-3dd720f7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:49
+
+#### [As Starbucks’ Howard Schultz heads to Miami, here’s a list of other billionaire business leaders moving to Florida](https://www.marketwatch.com/story/as-starbucks-howard-schultz-heads-to-miami-heres-a-list-of-other-billionaire-business-leaders-moving-to-florida-2d14af75?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:48
+
+#### [Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit.](https://www.marketwatch.com/story/options-markets-are-bracing-for-disaster-as-iran-conflict-intensifies-nomura-says-heres-how-a-trader-might-profit-192d00ad?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:21
+
+#### [Nebius’s stock soars after Nvidia investment. Here’s what to know.](https://www.marketwatch.com/story/nebiuss-stock-soars-after-nvidia-investment-heres-what-to-know-5f1ed5f0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:09
+
+#### [The S&P 500’s biggest gainer since the Iran conflict started is not an oil stock](https://www.marketwatch.com/story/the-s-p-500s-biggest-gainer-since-the-iran-conflict-started-is-not-an-oil-stock-ef9e5632?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s Iran war pushes petrol past $3.50 in test of US voter patience](https://www.ft.com/content/9900ad7b-722f-4578-91b2-398bfb5bc06b)
+**发布时间**: 2026-03-11 22:24
+
+#### [IEA releases record oil reserves to counter Iran war energy shock](https://www.ft.com/content/9b623bca-bc3a-4081-b1c7-f57d83ea225e)
+**发布时间**: 2026-03-11 21:12
+
+#### [Blackstone readies £250mn Canary Wharf office sale](https://www.ft.com/content/ce3ffdee-9e8c-4683-bdd5-7207e59f36b8)
+**发布时间**: 2026-03-11 20:58
+
+#### [Mandelson papers: what do they show?](https://www.ft.com/content/cd45e89b-ecce-4bb1-9821-9811e1ef32c9)
+**发布时间**: 2026-03-11 19:41
+
+#### [Oil prices edge higher against backdrop of historic reserves release](https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b)
+**发布时间**: 2026-03-11 19:37
+
+#### [Investors demand steep concessions in Salesforce’s $25bn bond deal](https://www.ft.com/content/cb01cf27-60a0-4542-862e-88a9e30c170a)
+**发布时间**: 2026-03-11 19:37
+
+#### [Goldman executive says private markets clients ‘glad’ about Iran war ‘distraction’](https://www.ft.com/content/9232dbce-0255-4949-8c4c-ea58d86a4166)
+**发布时间**: 2026-03-11 15:40
+
+#### [Trump’s revolutionary sense of time is changing politics](https://www.ft.com/content/58131558-c33f-4f52-8bf4-1a2b8ed542d0)
+**发布时间**: 2026-03-11 15:33
+
+#### [Revolut secures full UK banking licence after four-year wait](https://www.ft.com/content/b4df4126-351e-4424-9707-8a12ca6b79a6)
+**发布时间**: 2026-03-11 14:16
+
+#### [Farage forgets which country he aims to govern](https://www.ft.com/content/d975940e-6f91-4365-8704-0c1fa41efbb3)
+**发布时间**: 2026-03-11 13:17
 
 ---
 

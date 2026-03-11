@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 08:44:45 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:29:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端</title>
-      <link>https://www.qbitai.com/2026/03/386114.html</link>
-      <description>&lt;![CDATA[ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 07:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386114.html</guid>
+      <title>Exploring the feasibility of conversational diagnostic AI in a real-world clinical study</title>
+      <link>https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</link>
+      <description>&lt;![CDATA[Exploring the feasibility of conversational diagnostic AI in a real-world clinical study]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间</title>
+      <link>https://www.qbitai.com/2026/03/386485.html</link>
+      <description>&lt;![CDATA[让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386485.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元</title>
+      <link>https://www.qbitai.com/2026/03/386308.html</link>
+      <description>&lt;![CDATA[LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386308.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>对话「哈萨比斯传」作者：“他不喜欢奥特曼”</title>
+      <link>https://www.qbitai.com/2026/03/386285.html</link>
+      <description>&lt;![CDATA[对话「哈萨比斯传」作者：“他不喜欢奥特曼”]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386285.html</guid>
       <category>Ai</category>
     </item>
   </channel>

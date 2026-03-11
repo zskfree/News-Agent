@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f3cbcec39c5fcdd2efc2e68378cbd831c2ac4a1617ce144b5ed4d0ea394e427e": {
-        "title": "AI投资狂潮席卷全球：中美巨头砸7000亿美金，芯片人才告急，消费电子涨价在即",
-        "link": "https://www.tmtpost.com/7872559.html",
-        "published_date": "Mon, 09 Feb 2026 16:36:00 GMT",
-        "first_seen": "2026-02-09T08:57:51.318535"
-      },
-      "a9cfbdafaae1ade23017f6ae387c478fbf6469a76e9399e22ba75c1bccd6228e": {
-        "title": "从VLA到世界模型，具身智能加速“范式转移”",
-        "link": "https://www.tmtpost.com/7872347.html",
-        "published_date": "Mon, 09 Feb 2026 14:29:00 GMT",
-        "first_seen": "2026-02-09T08:57:51.318543"
-      },
-      "113c609a0812697c675347cf8cc08eff6945f0e1d19cf7aa1f4029ebe547bf36": {
-        "title": "巨头涌入医疗可信数据空间，一个新百亿级产业即将兴起",
-        "link": "https://www.tmtpost.com/7872469.html",
-        "published_date": "Mon, 09 Feb 2026 16:29:00 GMT",
-        "first_seen": "2026-02-09T08:57:51.318545"
-      },
-      "52ccbce165f662ede28d465ca34fcae694d87760a7bd997515f8dc7015db2c23": {
-        "title": "Anthropic发布新版Claude宪法",
-        "link": "https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Feb 2026 15:00:00 GMT",
-        "first_seen": "2026-02-09T08:57:51.318547"
-      },
-      "0d26e3c9651a68823d90b277001f31c258f8c930172e6c0248b074ce9b6fc1d5": {
-        "title": "增长607% ，光通信企业赚翻了",
-        "link": "https://www.tmtpost.com/7872170.html",
-        "published_date": "Mon, 09 Feb 2026 13:30:00 GMT",
-        "first_seen": "2026-02-09T08:57:51.318548"
-      },
       "546c48f497067eec37f7b85b0edf1a256ee92720cb010aab3d41b30e86346a1b": {
         "title": "视频模型的两条河流：字节跳动Seedance与OpenAI的分岔",
         "link": "https://www.tmtpost.com/7873175.html",
@@ -2695,21 +2665,39 @@
         "link": "https://www.tmtpost.com/7909106.html",
         "published_date": "Wed, 11 Mar 2026 15:31:00 GMT",
         "first_seen": "2026-03-11T08:44:45.077397"
+      },
+      "5c67899b0042f4d317dd9577ff012f3ddf468de3b88353a8a944b8b1698fa35b": {
+        "title": "黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）",
+        "link": "https://www.tmtpost.com/7909386.html",
+        "published_date": "Wed, 11 Mar 2026 20:54:00 GMT",
+        "first_seen": "2026-03-11T23:28:52.547776"
+      },
+      "6ca2230282c94dd919738548dfc666a833dea89ac75f1d6d3572d527557bead0": {
+        "title": "“两会”点名+多家IPO在即，脑机接口沸腾了",
+        "link": "https://www.tmtpost.com/7909082.html",
+        "published_date": "Wed, 11 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-11T23:28:52.547784"
+      },
+      "3ee567262e20a5a7a81ed590b74fa7c3904335936a3b9dc4d3c71055c5631227": {
+        "title": "OpenClaw爆火，一文看懂“养虾热”背后七大关键问题",
+        "link": "https://www.tmtpost.com/7908931.html",
+        "published_date": "Wed, 11 Mar 2026 14:36:00 GMT",
+        "first_seen": "2026-03-11T23:28:52.547787"
+      },
+      "aa527961bb308198c100abde5031e24d074db8540866ded8096261153999dbde": {
+        "title": "豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？",
+        "link": "https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Mar 2026 15:13:00 GMT",
+        "first_seen": "2026-03-11T23:28:52.547789"
+      },
+      "75da865ee2c2d84b79581494da2348a4ebafcc9df0f3d475cfde178d84451661": {
+        "title": "5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532080&idx=1&sn=afae8882ccf738ce27b57acf0305457e",
+        "published_date": "Wed, 11 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-11T23:28:52.547791"
       }
     },
     "Finance": {
-      "8873616379d229d970d2a86900733eb43aa333a7eee959271b074f18bafb51aa": {
-        "title": "Hims & Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor",
-        "link": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Feb 2026 08:30:00 GMT",
-        "first_seen": "2026-02-09T08:57:13.264882"
-      },
-      "1309aa12ff30c6cf318d5cf5e10ac5f8862b7f65383d58d737eb7766b0c1877e": {
-        "title": "Hong Kong’s Jimmy Lai sentenced to 20 years in prison",
-        "link": "https://www.ft.com/content/8baa0537-6a70-4e4d-b67d-38aff7832330",
-        "published_date": "Mon, 09 Feb 2026 07:14:00 GMT",
-        "first_seen": "2026-02-09T08:57:13.264896"
-      },
       "043662a3d698dfefb9f63d8ec9fff912cf2d73682bb28d71f0db7c8afb171a83": {
         "title": "Why Kevin Warsh  wouldn’t be the maverick Fed chair investors expect",
         "link": "https://www.marketwatch.com/story/how-markets-and-the-feds-inner-circle-will-derail-kevin-warshs-interest-rate-agenda-fc767830?mod=mw_rss_topstories",
@@ -4659,39 +4647,39 @@
         "link": "https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d",
         "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-11T05:51:43.403826"
+      },
+      "863ec24d4ffacb0900308b0dc36ef9632ba370e57e051c91a8a2421c7d01ee36": {
+        "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
+        "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Mar 2026 23:19:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.253416"
+      },
+      "888f24fbb2254d30f713db44d55c3fec24cc4cfa70e220cac65b06b66649adff": {
+        "title": "Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit.",
+        "link": "https://www.marketwatch.com/story/options-markets-are-bracing-for-disaster-as-iran-conflict-intensifies-nomura-says-heres-how-a-trader-might-profit-192d00ad?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Mar 2026 21:21:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.253422"
+      },
+      "25c4b3909174361b3917dd4d18328dd886ae1bad6ee901d8c303a687f0203299": {
+        "title": "Revolut secures full UK banking licence after four-year wait",
+        "link": "https://www.ft.com/content/b4df4126-351e-4424-9707-8a12ca6b79a6",
+        "published_date": "Wed, 11 Mar 2026 14:16:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.253424"
+      },
+      "9313012e39a8882f7591af709e87c2252727fd29326bab738dc32f6106c88901": {
+        "title": "The S&P 500’s biggest gainer since the Iran conflict started is not an oil stock",
+        "link": "https://www.marketwatch.com/story/the-s-p-500s-biggest-gainer-since-the-iran-conflict-started-is-not-an-oil-stock-ef9e5632?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Mar 2026 21:03:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.253426"
+      },
+      "1d2cab5fe6a51e1af0aaa2fdd11f5b8dc93444309b5cae1f57ca39a4554f4e88": {
+        "title": "Oracle’s stock surges. Here’s how it finally left the AI penalty box.",
+        "link": "https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Mar 2026 23:07:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.253428"
       }
     },
     "Ai": {
-      "663f20b88cb15ab3ef74eaa6516677b7e955372c6726bda5d42896939dd5ba7f": {
-        "title": "英伟达世界模型再进化，一个模型驱动所有机器人！机器人的GPT时刻真正到来",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-7",
-        "published_date": "Mon, 09 Feb 2026 14:44:00 GMT",
-        "first_seen": "2026-02-09T08:57:26.612889"
-      },
-      "3ff22da700a67040e207a33da8f3f84d24a0249b461984158de4829bb5865b82": {
-        "title": "模型「漂移」新范式，何恺明新作让生成模型无须迭代推理",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-4",
-        "published_date": "Mon, 09 Feb 2026 14:28:00 GMT",
-        "first_seen": "2026-02-09T08:57:26.612895"
-      },
-      "f05350896594125287fd38f8fd733acbe73fc8f5416e73e3841cd5052962d5f3": {
-        "title": "生成式科学智能的新标杆：IntelliFold 2新近发布并开源，主要指标实现全面领先",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-5",
-        "published_date": "Mon, 09 Feb 2026 14:32:00 GMT",
-        "first_seen": "2026-02-09T08:57:26.612898"
-      },
-      "ca1c17cbdb88cffe49520dba6cffa5ecbf9515c4c6b544ce6a5742b9f61a974a": {
-        "title": "童年的滚球兽「走进」现实？华为天才少年创业，全球首个虚实融合的实时交互视频模型来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-8",
-        "published_date": "Mon, 09 Feb 2026 14:50:00 GMT",
-        "first_seen": "2026-02-09T08:57:26.612900"
-      },
-      "c02951230da3cf0050f3d448dab35284144c0627892d154ac708a7bc77844778": {
-        "title": "先解行为，再训Agent：CMU开源首份Agentic Search日志数据，把Agent拆开给你看",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-6",
-        "published_date": "Mon, 09 Feb 2026 14:39:00 GMT",
-        "first_seen": "2026-02-09T08:57:26.612902"
-      },
       "39ac94b2199a626c3e06289ce2f8f6874f7651551b4783a00a0f81122ae8c14e": {
         "title": "CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全",
         "link": "https://www.jiqizhixin.com/articles/2026-02-09-9",
@@ -6161,13 +6149,37 @@
         "link": "https://www.qbitai.com/2026/03/386114.html",
         "published_date": "Wed, 11 Mar 2026 07:45:00 GMT",
         "first_seen": "2026-03-11T08:44:45.269219"
+      },
+      "aab2717be871617c3eec4fb5ed88000afa740eb07ea947406f3caafea624f236": {
+        "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
+        "link": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/",
+        "published_date": "Wed, 11 Mar 2026 16:58:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.422970"
+      },
+      "e09918ee750b9e8f524a6707b03ff1083f8d91d5c8790b6e6e44fe8e603c2388": {
+        "title": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
+        "link": "https://www.qbitai.com/2026/03/386485.html",
+        "published_date": "Wed, 11 Mar 2026 09:30:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.422978"
+      },
+      "7600d5ff08d37fea27e45954cb2e6ede812b4e3220cf1c13a85cc74f40eac023": {
+        "title": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
+        "link": "https://www.qbitai.com/2026/03/386308.html",
+        "published_date": "Wed, 11 Mar 2026 09:26:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.422980"
+      },
+      "674f7bbb30fd1228415efc8e7913cbc8d71b1877b003e6a0caf5d2e38082b02b": {
+        "title": "对话「哈萨比斯传」作者：“他不喜欢奥特曼”",
+        "link": "https://www.qbitai.com/2026/03/386285.html",
+        "published_date": "Wed, 11 Mar 2026 09:22:00 GMT",
+        "first_seen": "2026-03-11T23:29:07.422981"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-11T08:44:45.077399",
-    "Finance": "2026-03-11T05:51:43.403829",
-    "Ai": "2026-03-11T08:44:45.269227"
+    "Technology": "2026-03-11T23:28:52.547793",
+    "Finance": "2026-03-11T23:29:07.253430",
+    "Ai": "2026-03-11T23:29:07.422983"
   }
 }
