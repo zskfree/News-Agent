@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 05:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 05:51:43 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 08:44:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-11日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-11/</link>
-      <description>&lt;![CDATA[2026-03-11日刊]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-11/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓</title>
-      <link>https://www.qbitai.com/2026/03/385824.html</link>
-      <description>&lt;![CDATA[20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 04:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/385824.html</guid>
+      <title>ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端</title>
+      <link>https://www.qbitai.com/2026/03/386114.html</link>
+      <description>&lt;![CDATA[ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 07:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386114.html</guid>
       <category>Ai</category>
     </item>
   </channel>

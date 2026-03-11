@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-11 05:51
+**最后更新时间**: 2026-03-11 08:44
+
+---
+
+## 🆕 最新更新 (2026-03-11 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Kremlin backs covert campaign to keep Orbán in power](https://www.ft.com/content/34df20f9-487b-4cb6-9dc9-d676d959d1ed)
+**发布时间**: 2026-03-11 05:00
+
+#### [JPMorgan marking down loan portfolios of private credit groups](https://www.ft.com/content/389a0003-d8de-4afd-9de9-be6e9fc6888c)
+**发布时间**: 2026-03-11 05:00
 
 ---
 

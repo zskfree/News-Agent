@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 05:51:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 05:51:27 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 08:44:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商</title>
-      <link>https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>杨立昆，两个月融了70.8亿</title>
+      <link>https://www.tmtpost.com/7908860.html</link>
+      <description>&lt;![CDATA[杨立昆，两个月融了70.8亿]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7908860.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在中国文言文面前，全球顶级模型全线溃败</title>
-      <link>https://www.tmtpost.com/7908714.html</link>
-      <description>&lt;![CDATA[在中国文言文面前，全球顶级模型全线溃败]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7908714.html</guid>
+      <title>Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭</title>
+      <link>https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI制药首次实现盈利，告诉我们什么？</title>
-      <link>https://www.tmtpost.com/7908553.html</link>
-      <description>&lt;![CDATA[AI制药首次实现盈利，告诉我们什么？]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7908553.html</guid>
+      <title>华为押宝U6GHz，通信业如何赚大模型的钱</title>
+      <link>https://www.tmtpost.com/7909425.html</link>
+      <description>&lt;![CDATA[华为押宝U6GHz，通信业如何赚大模型的钱]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7909425.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择</title>
-      <link>https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“中间态”L3，是自动驾驶必经之路，还是伪命题？</title>
+      <link>https://www.tmtpost.com/7909233.html</link>
+      <description>&lt;![CDATA[“中间态”L3，是自动驾驶必经之路，还是伪命题？]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7909233.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token大迁徙，一场由“龙虾”引爆的全球“西数东算”</title>
-      <link>https://www.tmtpost.com/7908720.html</link>
-      <description>&lt;![CDATA[Token大迁徙，一场由“龙虾”引爆的全球“西数东算”]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7908720.html</guid>
+      <title>砍专业只是开始，大学在AI时代正面临生死时速</title>
+      <link>https://www.tmtpost.com/7909106.html</link>
+      <description>&lt;![CDATA[砍专业只是开始，大学在AI时代正面临生死时速]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 15:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7909106.html</guid>
       <category>Technology</category>
     </item>
   </channel>
