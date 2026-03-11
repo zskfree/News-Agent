@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 23:31
+**最后更新时间**: 2026-03-11 05:51
+
+---
+
+## 🆕 最新更新 (2026-03-11 05:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf disruption chokes sulphur flows supporting swaths of global industry](https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d)
+**发布时间**: 2026-03-11 05:00
+
+#### [Lasers, radars and drones: Middle East war spurs hunt for cheaper air defence](https://www.ft.com/content/1d283f95-0f06-48be-8181-a79e254e0faf)
+**发布时间**: 2026-03-11 05:00
+
+#### [The economic consequences of war with Iran](https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125)
+**发布时间**: 2026-03-11 05:00
+
+#### [Iranians rethink the price of regime change](https://www.ft.com/content/4e048ed0-9bba-4392-8cee-7f1337c0b211)
+**发布时间**: 2026-03-11 05:00
+
+#### [Middle East war costs regional tourism industry $600mn a day](https://www.ft.com/content/e99229ce-3571-4126-99e2-346e7cc6f5ac)
+**发布时间**: 2026-03-11 05:00
+
+#### [People on controversial UK student loan plan each owe over £40,000 on average](https://www.ft.com/content/366de11e-d967-41e1-afa7-dc714c7a1180)
+**发布时间**: 2026-03-11 05:00
+
+#### [Lloyd’s of London says it will still insure ‘basically anyone’ in the Gulf](https://www.ft.com/content/2e25cb5b-f5d2-45dd-9688-52ed86212278)
+**发布时间**: 2026-03-11 05:00
+
+#### [Trump administration’s mixed messaging sparks wild swings in oil markets](https://www.ft.com/content/26f34fbf-226e-4957-beda-a9dbd2e0477a)
+**发布时间**: 2026-03-11 00:30
+
+#### [UK government does not know what it spends on consultants, say MPs](https://www.ft.com/content/f7fffc8e-1b5b-4466-9e73-f870e6fdb1ac)
+**发布时间**: 2026-03-11 00:01
+
+#### [US says it destroyed 16 Iranian minelayers near Strait of Hormuz](https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b)
+**发布时间**: 2026-03-10 23:55
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Obamacare enrollment is plunging as costs soar, pushing down stocks like Centene](https://www.marketwatch.com/story/obamacare-enrollment-is-plunging-as-costs-soar-pushing-down-stocks-like-centene-dff8248f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 02:26
+
+#### [What’s next for crude-oil prices as wealthy nations consider a release of their reserves](https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 01:13
+
+#### [Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance](https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 23:50
 
 ---
 

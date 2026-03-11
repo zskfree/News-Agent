@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 23:31
+**最后更新时间**: 2026-03-11 05:51
+
+---
+
+## 🆕 最新更新 (2026-03-11 05:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [正大种业：利润持续下滑，手握3亿理财产品，6成资产为“现金类”仍要上市募资｜IPO观察](https://www.tmtpost.com/7907444.html)
+**发布时间**: 2026-03-11 12:36
+
+#### [60亿，今年最另类的独角兽出现了](https://www.tmtpost.com/7908805.html)
+**发布时间**: 2026-03-11 12:30
+
+#### [中国在全民养虾的时候，Meta把虾池买了](https://www.tmtpost.com/7908767.html)
+**发布时间**: 2026-03-11 12:22
+
+#### [华为举办鸿蒙智家技术沟通会，多款新品重磅亮相](https://www.tmtpost.com/7908892.html)
+**发布时间**: 2026-03-11 12:17
+
+#### [B站交出盈利答卷，品牌主迎来新考题](https://www.tmtpost.com/7908734.html)
+**发布时间**: 2026-03-11 12:15
+
+#### [Token大迁徙，一场由“龙虾”引爆的全球“西数东算”](https://www.tmtpost.com/7908720.html)
+**发布时间**: 2026-03-11 12:09
+
+#### [在中国文言文面前，全球顶级模型全线溃败](https://www.tmtpost.com/7908714.html)
+**发布时间**: 2026-03-11 12:04
+
+#### [140亿元，曾风靡全国的“网红奶茶鼻祖”要被卖了？](https://www.tmtpost.com/7908665.html)
+**发布时间**: 2026-03-11 11:59
+
+#### [国际爆款带状疱疹疫苗，为何在国内卖不动？](https://www.tmtpost.com/7908635.html)
+**发布时间**: 2026-03-11 11:54
+
+#### [全网都在养的小龙虾，能进酒店业？](https://www.tmtpost.com/7908625.html)
+**发布时间**: 2026-03-11 11:51
+
+#### [刷机刷出来了个小米，养龙虾能养啥？](https://www.tmtpost.com/7908622.html)
+**发布时间**: 2026-03-11 11:48
+
+#### [“龙虾热”的背后，技术民主化与风险并存](https://www.tmtpost.com/7908617.html)
+**发布时间**: 2026-03-11 11:48
+
+#### [和 “死神” 拜拜，蔚来彻底翻身做主人了？](https://www.tmtpost.com/7908610.html)
+**发布时间**: 2026-03-11 11:47
+
+#### [AI制药首次实现盈利，告诉我们什么？](https://www.tmtpost.com/7908553.html)
+**发布时间**: 2026-03-11 11:45
+
+#### [龙虾成恒科最大空头？](https://www.tmtpost.com/7908540.html)
+**发布时间**: 2026-03-11 11:43
+
+#### [海底捞的风，到底还是吹到了酒店](https://www.tmtpost.com/7908517.html)
+**发布时间**: 2026-03-11 11:42
+
+#### [56亿游客，喂不饱38万民宿商家](https://www.tmtpost.com/7908512.html)
+**发布时间**: 2026-03-11 11:33
+
+#### [蔚来盈利了，含金量高不高？](https://www.tmtpost.com/7908511.html)
+**发布时间**: 2026-03-11 11:25
+
+#### [古典传播在回归，GEO骗子在扎堆](https://www.tmtpost.com/7908482.html)
+**发布时间**: 2026-03-11 11:18
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [控制权变更落定，探迹科技成真爱美家控股股东](http://www.huxiu.com/article/4840962.html?f=wangzhan)
+**发布时间**: 2026-03-11 12:02
+
+#### [全民追捧“养龙虾”，一代人有一代人的鸡蛋要领](http://www.huxiu.com/article/4840774.html?f=wangzhan)
+**发布时间**: 2026-03-11 10:22
+
+#### [那个帮小鹏敲钟的人，回去给大众“续命”了](http://www.huxiu.com/article/4840855.html?f=wangzhan)
+**发布时间**: 2026-03-11 09:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [【产品团购、直播】少数派十四周年：一场特别的周年回馈活动](https://sspai.com/post/107020)
+**发布时间**: 2026-03-11 11:30
+
+#### [vivo X300 Ultra 影像前瞻：手机摄影边界再突破](https://sspai.com/post/107021)
+**发布时间**: 2026-03-11 10:29
+
+#### [派早报：荣耀 Magic V6 发布、OPPO 宣布上调部分机型售价等](https://sspai.com/post/107042)
+**发布时间**: 2026-03-11 07:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商](https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 11:00
+
+#### [CNCF毕业项目Dragonfly，标志着云原生镜像分发领域的重要里程碑](https://www.infoq.cn/article/SeYvhWvOzkbdk8PI4ciM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 10:40
+
+#### [PingCAP联合创始人兼 CTO黄东旭已确认出席QCon北京站，分享The Age of Autonomous Systems 自主系统的时代](https://www.infoq.cn/article/r1vFPUH31DuyFaCtzUgN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 10:11
+
+#### [来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择](https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 10:10
+
+#### [通过架构建议流程实现架构决策的去中心化](https://www.infoq.cn/article/bcWQpGRa8ZFzyExv3Rdo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 10:00
+
+#### [Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭](https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 09:58
+
+#### [MiniMax市值大涨，超越百度！“龙虾”上大分](https://www.infoq.cn/article/JDGCTtxAfaMlJXFURYMg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-11 09:51
 
 ---
 

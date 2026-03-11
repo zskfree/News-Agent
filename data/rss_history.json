@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4c103144677fd6b62018edc9e26701f0510c27d2dcecb377346cdaeb8a4d4568": {
-        "title": "硅谷狂投万亿美元，黄仁勋火上浇油：现在不烧，更待何时",
-        "link": "https://www.tmtpost.com/7871392.html",
-        "published_date": "Sun, 08 Feb 2026 18:27:00 GMT",
-        "first_seen": "2026-02-08T23:34:11.370676"
-      },
-      "60b183902561fa2a5eda8dfe8b83cc962784a1ffdbf9957f6388110d77b8a91b": {
-        "title": "【钛晨报】预制菜不得使用防腐剂、保质期不应超一年，预制菜国标征求意见；央行等八部门：持续整治虚拟货币“挖矿”活动；半导体行业有望首次迈入万亿美元时代",
-        "link": "https://www.tmtpost.com/7871541.html",
-        "published_date": "Mon, 09 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-08T23:34:11.370682"
-      },
-      "1122be9bdc4a3c1f9b8eaf81f46004ecbee38842d4cbe1eec1d0509ac8589bb0": {
-        "title": "2026，AI真正元年：从一人公司到AI自治社交",
-        "link": "https://www.tmtpost.com/7871399.html",
-        "published_date": "Sun, 08 Feb 2026 18:21:00 GMT",
-        "first_seen": "2026-02-08T23:34:11.370685"
-      },
-      "22cfa44153a3413d3eb3f55e8a525d69846ed02ddb2367def60fc80865139c13": {
-        "title": "Robotaxi是下一个共享汽车？",
-        "link": "https://www.tmtpost.com/7871326.html",
-        "published_date": "Sun, 08 Feb 2026 18:14:00 GMT",
-        "first_seen": "2026-02-08T23:34:11.370687"
-      },
-      "5f3bfb20a88bd64980884763ebb9d4a33f0f0cee0bb103adc7cf3b911e1cc11c": {
-        "title": "大批企业开始逃离光伏，麦迪科技、华东重机等企业撤出，谁在抄底谁在割肉？",
-        "link": "https://www.tmtpost.com/7871411.html",
-        "published_date": "Sun, 08 Feb 2026 18:28:00 GMT",
-        "first_seen": "2026-02-08T23:34:11.370688"
-      },
       "708ebbed3af5ab569204a0060bc5379144c190d20c95b77f25294fd558989d57": {
         "title": "量子通信的两项世界级难题被攻克？距离商用可能不远了",
         "link": "http://www.huxiu.com/article/4833269.html?f=wangzhan",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7907850.html",
         "published_date": "Wed, 11 Mar 2026 07:20:00 GMT",
         "first_seen": "2026-03-10T23:31:47.199348"
+      },
+      "20bfcc05cc05eef578c15798ac2737be67fd6df321e0325341f3a0de403dd34e": {
+        "title": "OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商",
+        "link": "https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-11T05:51:27.089582"
+      },
+      "bf85c3d038e98b7d1c806a0b59b7b8fa17b15e6af7272b47cdb7edafae355665": {
+        "title": "在中国文言文面前，全球顶级模型全线溃败",
+        "link": "https://www.tmtpost.com/7908714.html",
+        "published_date": "Wed, 11 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-11T05:51:27.089593"
+      },
+      "f0a71e1cc5fe88de3247e9cfa33fe8fe8b4d8d8c22893f82d36209d094174806": {
+        "title": "AI制药首次实现盈利，告诉我们什么？",
+        "link": "https://www.tmtpost.com/7908553.html",
+        "published_date": "Wed, 11 Mar 2026 11:45:00 GMT",
+        "first_seen": "2026-03-11T05:51:27.089596"
+      },
+      "07351607b23e6b71f98475676b49540d43b7fdaa1d29cc3cef05e25532fb34b0": {
+        "title": "来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择",
+        "link": "https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Mar 2026 10:10:00 GMT",
+        "first_seen": "2026-03-11T05:51:27.089598"
+      },
+      "ddca88235ae2426a4ce55596e756e5e2d9dd870def29ba1be705dd4a75ba4d06": {
+        "title": "Token大迁徙，一场由“龙虾”引爆的全球“西数东算”",
+        "link": "https://www.tmtpost.com/7908720.html",
+        "published_date": "Wed, 11 Mar 2026 12:09:00 GMT",
+        "first_seen": "2026-03-11T05:51:27.089600"
       }
     },
     "Finance": {
-      "935b2bcbaed9634bedcdf790ababa51e71759aef6ccf5278e59dbcee3d26c819": {
-        "title": "No easy end to easy money",
-        "link": "https://www.ft.com/content/94c3cdf3-a3d2-4771-a04d-7b5c58a91347",
-        "published_date": "Sun, 08 Feb 2026 13:00:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.705351"
-      },
-      "980faf748e420c186ad17be61029ee5c0986c29e21df0f6bb900abd6d845d444": {
-        "title": "Economists reject Kevin Warsh’s claim that AI boom will enable rate cuts",
-        "link": "https://www.ft.com/content/92717c0e-0e59-4d0c-a364-6ac003de4f8e",
-        "published_date": "Sun, 08 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.705359"
-      },
-      "21ca2ca9f03e885f42593f2e9e372fce84f6c53e523662967ca5d77e7bf3754e": {
-        "title": "Big Tech groups race to fund unprecedented $660bn AI spending spree",
-        "link": "https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2",
-        "published_date": "Sun, 08 Feb 2026 20:00:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.705362"
-      },
-      "81896b22a6c08ebf1ecf5accd03a2f919f7f754f1b9f300b8a05684da1ddae0d": {
-        "title": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
-        "published_date": "Sun, 08 Feb 2026 23:32:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.705364"
-      },
-      "509036371351c968acb2ba1f2517745893225ff09409286bc6c8ff1e8eccb476": {
-        "title": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
-        "link": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
-        "published_date": "Sun, 08 Feb 2026 20:25:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.705366"
-      },
       "d443c7264be088dbb2f080c60eb5128b2bd4d92182f442cce6037dad41035390": {
         "title": "UK’s FCA plans to publish all trading data for London-listed shares",
         "link": "https://www.ft.com/content/5ba78af4-d722-442d-8a21-7220821327b6",
@@ -4689,15 +4659,39 @@
         "link": "https://www.ft.com/content/f851211d-0464-4865-8dc0-6747f4f1ebe5",
         "published_date": "Tue, 10 Mar 2026 16:50:00 GMT",
         "first_seen": "2026-03-10T23:32:03.477350"
+      },
+      "cbdcbb13288ccc880a0286dd64dd110fe91299815f2dbecbc912f6b3bd982eda": {
+        "title": "The economic consequences of war with Iran",
+        "link": "https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125",
+        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.403812"
+      },
+      "16f989c15b761bd6df0d9cf7e90edbe4c8a096679bc48dbe1bf7fecbd7b90f7a": {
+        "title": "Lloyd’s of London says it will still insure ‘basically anyone’ in the Gulf",
+        "link": "https://www.ft.com/content/2e25cb5b-f5d2-45dd-9688-52ed86212278",
+        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.403821"
+      },
+      "e68152ec842dccabcaac77f4ac1f3c8f1af2b9fa6dc666effe36a57134c657ea": {
+        "title": "What’s next for crude-oil prices as wealthy nations consider a release of their reserves",
+        "link": "https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories",
+        "published_date": "Wed, 11 Mar 2026 01:13:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.403823"
+      },
+      "1e89137c5cd92eb23122c3720e2dddac4946d19571f6747517aec5779633a490": {
+        "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance",
+        "link": "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories",
+        "published_date": "Tue, 10 Mar 2026 23:50:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.403825"
+      },
+      "8d8b71f4b84418b8d6127a9aa14108677a1f76dbf6bd878cc3f79ff756460b05": {
+        "title": "Gulf disruption chokes sulphur flows supporting swaths of global industry",
+        "link": "https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d",
+        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.403826"
       }
     },
     "Ai": {
-      "0644d6932287f4321d5d69fc9ae4f3ecb047ee9ad575c5fa9a2184d55be77f9f": {
-        "title": "2026-02-09日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-09/",
-        "published_date": "Mon, 09 Feb 2026 07:24:00 GMT",
-        "first_seen": "2026-02-08T23:33:56.855466"
-      },
       "f90c76a303e7596e79383d41be195632cf980da6d95fef15d34b86c67e81a4de": {
         "title": "ICLR 2026 | 中国科大、科大讯飞团队开发ChemEval：化学大模型多层次多维度能力评估的新基准",
         "link": "https://www.jiqizhixin.com/articles/2026-02-09",
@@ -6185,13 +6179,25 @@
         "link": "https://www.qbitai.com/2026/03/385664.html",
         "published_date": "Tue, 10 Mar 2026 09:03:00 GMT",
         "first_seen": "2026-03-10T23:32:03.628874"
+      },
+      "3bcfd1ec6f7690411919098235c833682d6cf56f7c11c2159ac0fec02879a3ee": {
+        "title": "2026-03-11日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-11/",
+        "published_date": "Wed, 11 Mar 2026 10:28:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.547599"
+      },
+      "a1486d95b45621bc8984515f453221cb7c77cfa70878442c6ec264a1e22ea8aa": {
+        "title": "20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓",
+        "link": "https://www.qbitai.com/2026/03/385824.html",
+        "published_date": "Wed, 11 Mar 2026 04:11:00 GMT",
+        "first_seen": "2026-03-11T05:51:43.547607"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-10T23:31:47.199350",
-    "Finance": "2026-03-10T23:32:03.477353",
-    "Ai": "2026-03-10T23:32:03.628876"
+    "Technology": "2026-03-11T05:51:27.089602",
+    "Finance": "2026-03-11T05:51:43.403829",
+    "Ai": "2026-03-11T05:51:43.547609"
   }
 }

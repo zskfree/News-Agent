@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Mar 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2026 23:31:47 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 05:51:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:51:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw</title>
-      <link>https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商</title>
+      <link>https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude 开始收“代码审核税”：一条 PR 25 美元，大厂一年或花百万，还得上交整个代码库</title>
-      <link>https://www.infoq.cn/article/WFMcDd9FOLLLv3jpamv5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude 开始收“代码审核税”：一条 PR 25 美元，大厂一年或花百万，还得上交整个代码库]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WFMcDd9FOLLLv3jpamv5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>在中国文言文面前，全球顶级模型全线溃败</title>
+      <link>https://www.tmtpost.com/7908714.html</link>
+      <description>&lt;![CDATA[在中国文言文面前，全球顶级模型全线溃败]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7908714.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了</title>
-      <link>https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“不用AI就滚”！千人工程师被强制 AI 写代码，Coinbase工程总监操盘，把 GitHub 都打崩了]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4Gtk5H856ItBdN4PCkkC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI制药首次实现盈利，告诉我们什么？</title>
+      <link>https://www.tmtpost.com/7908553.html</link>
+      <description>&lt;![CDATA[AI制药首次实现盈利，告诉我们什么？]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7908553.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现</title>
-      <link>https://www.tmtpost.com/7906471.html</link>
-      <description>&lt;![CDATA[机器人、能源产业押注“物理AI”：AI产业下一条万亿赛道浮现]]&gt;</description>
-      <pubDate>Tue, 10 Mar 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7906471.html</guid>
+      <title>来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择</title>
+      <link>https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%</title>
-      <link>https://www.tmtpost.com/7907850.html</link>
-      <description>&lt;![CDATA[【钛晨报】国家互联网应急中心发布关于OpenClaw安全应用的风险提示；涉及新兴领域、百姓生活等方面，一批重要国家标准发布；中国外贸增速重回两位数至18.3%]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7907850.html</guid>
+      <title>Token大迁徙，一场由“龙虾”引爆的全球“西数东算”</title>
+      <link>https://www.tmtpost.com/7908720.html</link>
+      <description>&lt;![CDATA[Token大迁徙，一场由“龙虾”引爆的全球“西数东算”]]&gt;</description>
+      <pubDate>Wed, 11 Mar 2026 12:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7908720.html</guid>
       <category>Technology</category>
     </item>
   </channel>
