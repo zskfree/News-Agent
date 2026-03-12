@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Mar 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 05:53:44 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:47:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-12日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-12/</link>
-      <description>&lt;![CDATA[2026-03-12日刊]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-12/</guid>
+      <title>爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元</title>
+      <link>https://www.qbitai.com/2026/03/386664.html</link>
+      <description>&lt;![CDATA[爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 07:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386664.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>老黄入局吃龙虾！英伟达发布最强开源Agent推理模型</title>
-      <link>https://www.qbitai.com/2026/03/386572.html</link>
-      <description>&lt;![CDATA[老黄入局吃龙虾！英伟达发布最强开源Agent推理模型]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 04:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386572.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>魔法原子，105亿瞄准具身智能终局</title>
-      <link>https://www.qbitai.com/2026/03/386528.html</link>
-      <description>&lt;![CDATA[魔法原子，105亿瞄准具身智能终局]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 03:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386528.html</guid>
+      <title>全球首款手机龙虾秒光，OpenClaw创始人称愿与百度共同开发龙虾</title>
+      <link>https://www.qbitai.com/2026/03/386660.html</link>
+      <description>&lt;![CDATA[全球首款手机龙虾秒光，OpenClaw创始人称愿与百度共同开发龙虾]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386660.html</guid>
       <category>Ai</category>
     </item>
   </channel>

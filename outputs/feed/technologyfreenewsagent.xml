@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Mar 2026 05:53:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 05:53:28 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 08:47:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:47:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？</title>
-      <link>https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路</title>
+      <link>https://www.tmtpost.com/7910848.html</link>
+      <description>&lt;![CDATA[昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7910848.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片</title>
-      <link>https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 11:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article</guid>
+      <title>秘密开发Agent，微信告别AI克制</title>
+      <link>https://www.tmtpost.com/7910894.html</link>
+      <description>&lt;![CDATA[秘密开发Agent，微信告别AI克制]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7910894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL</title>
+      <link>https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注</title>
-      <link>https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&amp;utm_medium=article</guid>
+      <title>爱诗科技完成 3 亿美元 C 轮融资，鼎晖领投，开启“实时交互”视频生成新纪元｜融资速递</title>
+      <link>https://www.tmtpost.com/7910908.html</link>
+      <description>&lt;![CDATA[爱诗科技完成 3 亿美元 C 轮融资，鼎晖领投，开启“实时交互”视频生成新纪元｜融资速递]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7910908.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？</title>
-      <link>https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>闪充技术发布，比亚迪与磷酸铁锂的七年</title>
+      <link>https://www.tmtpost.com/7910859.html</link>
+      <description>&lt;![CDATA[闪充技术发布，比亚迪与磷酸铁锂的七年]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7910859.html</guid>
       <category>Technology</category>
     </item>
   </channel>

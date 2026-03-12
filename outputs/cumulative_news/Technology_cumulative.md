@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 05:53
+**最后更新时间**: 2026-03-12 08:47
+
+---
+
+## 🆕 最新更新 (2026-03-12 08:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新加坡金融科技企业MetaComp完成Pre-A+轮融资｜融资速递](https://www.tmtpost.com/7911006.html)
+**发布时间**: 2026-03-12 16:24
+
+#### [拼豆爆红，带着“情绪生产工具”一起飞](https://www.tmtpost.com/7910901.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [蔚来赢了一次，但李斌完全没有麻](https://www.tmtpost.com/7910770.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路](https://www.tmtpost.com/7910848.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [为什么最聪明的大脑，却困在了最笨重的组织里？ —— 范式的黄昏：当精英协同撞上数学黑洞](https://www.tmtpost.com/7910709.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [OpenClaw刚装上，Token焦虑就来了？](https://www.tmtpost.com/7910846.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [奥乐齐ALDI，不好好卖菜，改卖「健身三件套」了？](https://www.tmtpost.com/7910756.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [我在格鲁吉亚，看到满城尽是中国人](https://www.tmtpost.com/7910697.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [闪充技术发布，比亚迪与磷酸铁锂的七年](https://www.tmtpost.com/7910859.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？](https://www.tmtpost.com/7910878.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [秘密开发Agent，微信告别AI克制](https://www.tmtpost.com/7910894.html)
+**发布时间**: 2026-03-12 16:06
+
+#### [爱诗科技完成 3 亿美元 C 轮融资，鼎晖领投，开启“实时交互”视频生成新纪元｜融资速递](https://www.tmtpost.com/7910908.html)
+**发布时间**: 2026-03-12 14:44
+
+#### [Violoop宣布完成数千万元融资，打造全球首款物理级 AI Operator｜融资速递](https://www.tmtpost.com/7910891.html)
+**发布时间**: 2026-03-12 14:33
+
+#### [爱回收Q4黄金回收GMV翻倍，直言手机涨价利大于弊｜看财报](https://www.tmtpost.com/7910263.html)
+**发布时间**: 2026-03-12 14:24
+
+#### [那只在屏幕里爬行的果蝇，正在撕碎人类最后的防线](https://www.tmtpost.com/7910757.html)
+**发布时间**: 2026-03-12 13:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL](https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 16:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Notion 年度更新评测：7 个案例聊聊 Custom Agent](https://sspai.com/post/106982)
+**发布时间**: 2026-03-12 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [腾讯版小龙虾 WorkBuddy 来了，在微信、QQ 内和它对话。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532127&idx=1&sn=35de49ddd5020153fd54283a4d2f1764)
+**发布时间**: 2026-03-12 10:28
 
 ---
 

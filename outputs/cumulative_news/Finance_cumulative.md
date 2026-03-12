@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 05:53
+**最后更新时间**: 2026-03-12 08:47
+
+---
+
+## 🆕 最新更新 (2026-03-12 08:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks slide after oil price climbs higher](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 05:43
+
+#### [Hizbollah’s war with Israel deepens its isolation in Lebanon](https://www.ft.com/content/037f1db8-1183-498e-9c25-4239e574cf15)
+**发布时间**: 2026-03-12 05:00
+
+#### [Iran war threatens India’s ‘Goldilocks’ economy](https://www.ft.com/content/f7c743e1-7bfd-42c4-9f9f-d9545f9c6a06)
+**发布时间**: 2026-03-12 03:10
+
+#### [Morgan Stanley and Cliffwater limit private credit withdrawals](https://www.ft.com/content/22454850-a7da-4089-af17-a223fa11f31f)
+**发布时间**: 2026-03-11 21:24
 
 ---
 
