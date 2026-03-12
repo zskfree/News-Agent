@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "546c48f497067eec37f7b85b0edf1a256ee92720cb010aab3d41b30e86346a1b": {
-        "title": "视频模型的两条河流：字节跳动Seedance与OpenAI的分岔",
-        "link": "https://www.tmtpost.com/7873175.html",
-        "published_date": "Mon, 09 Feb 2026 21:00:00 GMT",
-        "first_seen": "2026-02-09T23:39:55.333376"
-      },
-      "027a57f079bf5fe50ae20da1713d57301fbe37235c29b5ff1b18f91f5f763c2d": {
-        "title": "前 Codex 大神倒戈实锤！吹爆 Claude Code：编程提速 5 倍，点破 OpenAl 死穴在上下文",
-        "link": "https://www.infoq.cn/article/hV8d7Me3DbpxTexVuOKd?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Feb 2026 18:54:00 GMT",
-        "first_seen": "2026-02-09T23:39:55.333383"
-      },
-      "1c7cd9d88cc4af9b5b3f4e1071581e4e7038777343dc43474be6abc5c06afb7e": {
-        "title": "这次真的不是“狼来了”：AI主导下，码农职场彻底洗牌了",
-        "link": "https://www.tmtpost.com/7872532.html",
-        "published_date": "Mon, 09 Feb 2026 16:34:00 GMT",
-        "first_seen": "2026-02-09T23:39:55.333385"
-      },
-      "c12d120d9182b6e5246d6c29c56dbfa44294b22a0dd50e5ee56925c36cb1ea61": {
-        "title": "2026手机熄火，联发科、高通的“新饭碗”",
-        "link": "https://www.tmtpost.com/7873031.html",
-        "published_date": "Mon, 09 Feb 2026 19:13:00 GMT",
-        "first_seen": "2026-02-09T23:39:55.333387"
-      },
-      "cf4290aa0d49813cdcac6aa775e2567f7a6a84b9d464c4c90400291138b6c99e": {
-        "title": "三元锂成本失控，高端电动车不再青睐？",
-        "link": "https://www.tmtpost.com/7872852.html",
-        "published_date": "Mon, 09 Feb 2026 19:13:00 GMT",
-        "first_seen": "2026-02-09T23:39:55.333388"
-      },
       "c94d5b65c66c9cca9aa3081377f23777ac83a2ab4067116443b7b1b99350fb17": {
         "title": "Cerebras凭借创新晶圆级引擎与OpenAI巨额合作，挑战Nvidia霸主地位",
         "link": "https://www.tmtpost.com/7873755.html",
@@ -2695,39 +2665,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532080&idx=1&sn=afae8882ccf738ce27b57acf0305457e",
         "published_date": "Wed, 11 Mar 2026 15:05:00 GMT",
         "first_seen": "2026-03-11T23:28:52.547791"
+      },
+      "c33b5590b0dcf0ca3aec9646c9c9f343d85624e73249009302c8405c3342ff14": {
+        "title": "谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？",
+        "link": "https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 09:49:00 GMT",
+        "first_seen": "2026-03-12T05:53:28.831586"
+      },
+      "1e401e185d62ff40a268a0b09fca29b31fc86b0e849f39f88fbf6509112a3ea6": {
+        "title": "国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片",
+        "link": "https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 11:55:00 GMT",
+        "first_seen": "2026-03-12T05:53:28.831596"
+      },
+      "1ead3be60bf8a439a6f3453a40bd196e90cf967a32db6b60b41e5d937769cd29": {
+        "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 10:13:00 GMT",
+        "first_seen": "2026-03-12T05:53:28.831599"
+      },
+      "e768fbc4996a4338c414fcbd3d85bd42eb46e10ffa11566e7150d98b66f06ef0": {
+        "title": "规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注",
+        "link": "https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 09:53:00 GMT",
+        "first_seen": "2026-03-12T05:53:28.831601"
+      },
+      "3626a481ec5e15230147e54d2eba9ac696f3be021969066b90618076a5bceae5": {
+        "title": "一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？",
+        "link": "https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 11:19:00 GMT",
+        "first_seen": "2026-03-12T05:53:28.831603"
       }
     },
     "Finance": {
-      "043662a3d698dfefb9f63d8ec9fff912cf2d73682bb28d71f0db7c8afb171a83": {
-        "title": "Why Kevin Warsh  wouldn’t be the maverick Fed chair investors expect",
-        "link": "https://www.marketwatch.com/story/how-markets-and-the-feds-inner-circle-will-derail-kevin-warshs-interest-rate-agenda-fc767830?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Feb 2026 22:23:00 GMT",
-        "first_seen": "2026-02-09T23:39:25.263599"
-      },
-      "91d827403c7cbbba65fdfc81a796acb0ec08b53d9f3ee352775efbb9f5ca29e6": {
-        "title": "Alphabet’s $20 billion bond deal may be followed by something highly unusual",
-        "link": "https://www.marketwatch.com/story/alphabets-15-billion-bond-deal-may-have-a-highly-unusual-component-2aa15bee?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Feb 2026 23:10:00 GMT",
-        "first_seen": "2026-02-09T23:39:25.263612"
-      },
-      "9f426983fe0545c3eb9c986426c9eb375d4a419cdfa9a29dcef3d2f6d037984c": {
-        "title": "US lawmakers call on Howard Lutnick to step down over ties to Epstein",
-        "link": "https://www.ft.com/content/2264d32b-1cbf-4e4e-b21a-6b8c92088df2",
-        "published_date": "Mon, 09 Feb 2026 22:00:00 GMT",
-        "first_seen": "2026-02-09T23:39:25.263615"
-      },
-      "7b9d0fcf7dade68de6e8b41053b32371e962198d1fc56cecf9f6827d653dddac": {
-        "title": "The stock market looks expensive — but this chart shows why AI bubble fears in tech may be overblown",
-        "link": "https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Feb 2026 22:07:00 GMT",
-        "first_seen": "2026-02-09T23:39:25.263617"
-      },
-      "5e0012326bc0f39ee68d08d99024662c4c29e81bf5f1605dfb885ea384c3cba5": {
-        "title": "US plans Big Tech carve-out from next wave of chip tariffs",
-        "link": "https://www.ft.com/content/e6f7f69a-2552-45f5-ae4c-6f1135e5cde1",
-        "published_date": "Mon, 09 Feb 2026 23:27:00 GMT",
-        "first_seen": "2026-02-09T23:39:25.263619"
-      },
       "ef21560551bde5c23ed3eb09b3a1df2d3143b7c2ca5066604c279ee8d68e7cd4": {
         "title": "What fast food’s downturn says about the US economy",
         "link": "https://www.ft.com/content/9643e9b8-a4d8-49e2-8c16-20c1a1c5ca4b",
@@ -4677,39 +4647,39 @@
         "link": "https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories",
         "published_date": "Wed, 11 Mar 2026 23:07:00 GMT",
         "first_seen": "2026-03-11T23:29:07.253428"
+      },
+      "dbcc9afd51b6b84be588893701af1e9f2f08204c81a8f8881d6fa35e0b741d5a": {
+        "title": "Partners Group sounds alarm on private credit default rates",
+        "link": "https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e",
+        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.655098"
+      },
+      "87827d8c13acca6c6e62d22782b54a65f0561227e6bf9a17343dd357d92e547a": {
+        "title": "BlackRock, L&G and UBS among 60 ESG funds holding BP despite pivot",
+        "link": "https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8",
+        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.655105"
+      },
+      "2c0868b0bc41325f8e869089a55d24feb732b190e01d4827a0c668db329d5a3d": {
+        "title": "Oil back at $100 after ships hit in Gulf",
+        "link": "https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4",
+        "published_date": "Thu, 12 Mar 2026 05:43:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.655107"
+      },
+      "b1686ceffc2474ea7fb523ba4f77a5738d6f9d2b357dc92cce8ea2dc4cb31f9d": {
+        "title": "Which chokepoint wins in a game of geoeconomic Top Trumps?",
+        "link": "https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc",
+        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.655108"
+      },
+      "c5a32f01835cca5871ef8d9e08a7c8e300410c4f69009ba069adf63a639cfa7d": {
+        "title": "Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock",
+        "link": "https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Mar 2026 02:42:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.655110"
       }
     },
     "Ai": {
-      "39ac94b2199a626c3e06289ce2f8f6874f7651551b4783a00a0f81122ae8c14e": {
-        "title": "CVPR 2026 Workshop征稿｜第六届AdvML@CV：多模态大模型智能体安全",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-9",
-        "published_date": "Mon, 09 Feb 2026 14:55:00 GMT",
-        "first_seen": "2026-02-09T23:39:36.410289"
-      },
-      "c42d7e183b147ecbd6e8f46197932001ab422d2f4dfb1b2546e59b918e4284cf": {
-        "title": "登顶Hugging Face论文热榜，LLM重写数据准备的游戏规则",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-3",
-        "published_date": "Mon, 09 Feb 2026 14:21:00 GMT",
-        "first_seen": "2026-02-09T23:39:36.410295"
-      },
-      "7ea60a3b6e7c1dc02a8feaa2470ceec1f7b7578ab5e961aff19be0070d4c34bd": {
-        "title": "怕了怕了！Waymo无人车美国开，“遥控器”远在菲律宾",
-        "link": "https://www.qbitai.com/2026/02/378172.html",
-        "published_date": "Mon, 09 Feb 2026 09:06:00 GMT",
-        "first_seen": "2026-02-09T23:39:36.410297"
-      },
-      "22a20d988f8fae9e350e4a3e83a929e28f6a5ec97aca734d34fa25ad1d862362": {
-        "title": "How AI trained on birds is surfacing underwater mysteries",
-        "link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
-        "published_date": "Mon, 09 Feb 2026 18:38:00 GMT",
-        "first_seen": "2026-02-09T23:39:36.410299"
-      },
-      "6889e35a90a19101419505ec55e63da9230a6b6a4595baeddcd1775d502ecd05": {
-        "title": "扩散语言模型深度思考",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-09-2",
-        "published_date": "Mon, 09 Feb 2026 14:16:00 GMT",
-        "first_seen": "2026-02-09T23:39:36.410300"
-      },
       "7785b468616cecfbd8eb1f013b54fafdd69eef9a8edee31a9dd3b596bc5c1ee8": {
         "title": "阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了",
         "link": "https://www.qbitai.com/2026/02/378236.html",
@@ -6173,13 +6143,31 @@
         "link": "https://www.qbitai.com/2026/03/386285.html",
         "published_date": "Wed, 11 Mar 2026 09:22:00 GMT",
         "first_seen": "2026-03-11T23:29:07.422981"
+      },
+      "25bffbb90763fcfc626495593f92997927440778439bf0dc324cd40c7f4d7b22": {
+        "title": "2026-03-12日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-12/",
+        "published_date": "Thu, 12 Mar 2026 09:50:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.784705"
+      },
+      "cd354ce7e579dc099f6f81ebdf82c2a1cf321f606f162be4030ef746e87c2786": {
+        "title": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
+        "link": "https://www.qbitai.com/2026/03/386572.html",
+        "published_date": "Thu, 12 Mar 2026 04:58:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.784712"
+      },
+      "6de0b2b89e5c4f1e69b6e166c1b0811b2d72c8cdaf314b43108526536e09256d": {
+        "title": "魔法原子，105亿瞄准具身智能终局",
+        "link": "https://www.qbitai.com/2026/03/386528.html",
+        "published_date": "Thu, 12 Mar 2026 03:07:00 GMT",
+        "first_seen": "2026-03-12T05:53:44.784715"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-11T23:28:52.547793",
-    "Finance": "2026-03-11T23:29:07.253430",
-    "Ai": "2026-03-11T23:29:07.422983"
+    "Technology": "2026-03-12T05:53:28.831605",
+    "Finance": "2026-03-12T05:53:44.655113",
+    "Ai": "2026-03-12T05:53:44.784716"
   }
 }

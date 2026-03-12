@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-11 23:28
+**最后更新时间**: 2026-03-12 05:53
+
+---
+
+## 🆕 最新更新 (2026-03-12 05:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [变更即指标：用交付信号度量系统可靠性](https://www.infoq.cn/article/poY7Rdf7tyGlS1da15ZJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 13:00
+
+#### [国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片](https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 11:55
+
+#### [一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？](https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 11:19
+
+#### [我用 OpenClaw 建了个市场，让 AI Agent 来雇人干活](https://www.infoq.cn/article/rGAsy0KR5E2VtKg9sTOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 10:46
+
+#### [大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京](https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 10:13
+
+#### [Rspress 2.0 发布：AI 原生文档、更快启动速度与全新设计主题](https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 09:56
+
+#### [规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注](https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 09:53
+
+#### [花大钱，赶晚集？错过 OpenClaw后，Meta 紧急买下 Moltbook](https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 09:53
+
+#### [谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？](https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 09:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [薅羊毛反被“割”，没有谁是赢家](https://www.tmtpost.com/7910723.html)
+**发布时间**: 2026-03-12 12:36
+
+#### [3·15还没有到，白桦树汁先“凉”了？](https://www.tmtpost.com/7910732.html)
+**发布时间**: 2026-03-12 12:36
+
+#### [风向又变了！昨天排队“养龙虾”的，今天开始悄悄“杀虾”](https://www.tmtpost.com/7910738.html)
+**发布时间**: 2026-03-12 12:36
+
+#### [上市公司TOP5济安评估 （3月2日至3月6日）｜上市公司观察](https://www.tmtpost.com/7910805.html)
+**发布时间**: 2026-03-12 12:28
+
+#### [陕西上市公司ESG-V评级：“双轮驱动”现分化，科创高地稳健，能源板块环境承压｜上市公司观察](https://www.tmtpost.com/7910798.html)
+**发布时间**: 2026-03-12 12:28
+
+#### [价值判断：跌停板的投资机会和风险提示（3月10日）｜证券市场观察](https://www.tmtpost.com/7910792.html)
+**发布时间**: 2026-03-12 12:27
+
+#### [价值判断： 涨停板的投资机会和风险提示 （3月10日）｜证券市场观察](https://www.tmtpost.com/7910788.html)
+**发布时间**: 2026-03-12 12:27
+
+#### [不靠“股神”，价值投资还能成立吗？｜济安学派](https://www.tmtpost.com/7910780.html)
+**发布时间**: 2026-03-12 12:26
+
+#### [春节长假之后，抖音小游戏新机会有哪些？](https://www.tmtpost.com/7910678.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [OpenClaw爆火，Computer Use Agent爆发](https://www.tmtpost.com/7910695.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [最低十几元，金价狂飙下，年轻人盯上了“次抛黄金”](https://www.tmtpost.com/7910680.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [“养龙虾”重构零售电商？警惕伪降本与新一轮行业内卷](https://www.tmtpost.com/7910707.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [曾毓群给股东发了360亿红包](https://www.tmtpost.com/7910467.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [2026年，为什么他们还在狂投人形机器人？](https://www.tmtpost.com/7910469.html)
+**发布时间**: 2026-03-12 12:21
+
+#### [OpenClaw狂热，“AI版拼多多”MiniMax赢麻了？](https://www.tmtpost.com/7910126.html)
+**发布时间**: 2026-03-12 11:58
+
+#### [蔚来的“诺曼底时刻”](https://www.tmtpost.com/7910139.html)
+**发布时间**: 2026-03-12 11:58
+
+#### [华莱士退市，资本梦醒了](https://www.tmtpost.com/7910570.html)
+**发布时间**: 2026-03-12 11:58
+
+#### [揭秘“喷射战士”华莱士退市：两万门店为何撑不起利润？](https://www.tmtpost.com/7910271.html)
+**发布时间**: 2026-03-12 11:58
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为啥都说美国袭击伊朗是“AI战争”的序幕？](http://www.huxiu.com/article/4841080.html?f=wangzhan)
+**发布时间**: 2026-03-12 11:50
+
+#### [莲花不是“极氪王”，但留给它证明自己的时间不多了](http://www.huxiu.com/article/4841321.html?f=wangzhan)
+**发布时间**: 2026-03-12 11:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜Vibe Research：社会科学的第一次 AI 危机？](https://sspai.com/post/106919)
+**发布时间**: 2026-03-12 11:23
+
+#### [派早报：Google 发布 Gemini Embedding 2 模型等](https://sspai.com/post/107110)
+**发布时间**: 2026-03-12 08:41
 
 ---
 

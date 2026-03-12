@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 23:29:07 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 05:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:53:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Exploring the feasibility of conversational diagnostic AI in a real-world clinical study</title>
-      <link>https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</link>
-      <description>&lt;![CDATA[Exploring the feasibility of conversational diagnostic AI in a real-world clinical study]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 16:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/</guid>
+      <title>2026-03-12日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-12/</link>
+      <description>&lt;![CDATA[2026-03-12日刊]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 09:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-12/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间</title>
-      <link>https://www.qbitai.com/2026/03/386485.html</link>
-      <description>&lt;![CDATA[让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386485.html</guid>
+      <title>老黄入局吃龙虾！英伟达发布最强开源Agent推理模型</title>
+      <link>https://www.qbitai.com/2026/03/386572.html</link>
+      <description>&lt;![CDATA[老黄入局吃龙虾！英伟达发布最强开源Agent推理模型]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 04:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386572.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元</title>
-      <link>https://www.qbitai.com/2026/03/386308.html</link>
-      <description>&lt;![CDATA[LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 09:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386308.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>对话「哈萨比斯传」作者：“他不喜欢奥特曼”</title>
-      <link>https://www.qbitai.com/2026/03/386285.html</link>
-      <description>&lt;![CDATA[对话「哈萨比斯传」作者：“他不喜欢奥特曼”]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386285.html</guid>
+      <title>魔法原子，105亿瞄准具身智能终局</title>
+      <link>https://www.qbitai.com/2026/03/386528.html</link>
+      <description>&lt;![CDATA[魔法原子，105亿瞄准具身智能终局]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 03:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386528.html</guid>
       <category>Ai</category>
     </item>
   </channel>

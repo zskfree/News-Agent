@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-11 23:28
+**最后更新时间**: 2026-03-12 05:53
+
+---
+
+## 🆕 最新更新 (2026-03-12 05:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil back at $100 after ships hit in Gulf](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 05:43
+
+#### [Supertankers rush to Red Sea port as Iran war chokes Gulf oil exports](https://www.ft.com/content/87c3dc86-052c-4fb1-b03e-2987ae79bcd7)
+**发布时间**: 2026-03-12 05:00
+
+#### [The AI-driven ‘kill chain’ transforming how the US wages war](https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b)
+**发布时间**: 2026-03-12 05:00
+
+#### [Military briefing: the closest US-Israel war yet](https://www.ft.com/content/8d0105cf-e7af-47d5-8757-8447d1986010)
+**发布时间**: 2026-03-12 05:00
+
+#### [Which chokepoint wins in a game of geoeconomic Top Trumps?](https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc)
+**发布时间**: 2026-03-12 05:00
+
+#### [The shadow front in the war against Iran](https://www.ft.com/content/d848b651-a010-4cfe-9ef7-5bb63d3be73d)
+**发布时间**: 2026-03-12 05:00
+
+#### [Partners Group sounds alarm on private credit default rates](https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e)
+**发布时间**: 2026-03-12 05:00
+
+#### [Investment fund questions valuations in Blue Owl’s private credit portfolio](https://www.ft.com/content/d0014b3a-94bf-4f78-8f47-64fca522e373)
+**发布时间**: 2026-03-12 05:00
+
+#### [BlackRock, L&G and UBS among 60 ESG funds holding BP despite pivot](https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8)
+**发布时间**: 2026-03-12 05:00
+
+#### [US launches new probes into EU and other trade partners](https://www.ft.com/content/1ba82098-aace-45ae-8cef-affaca87847e)
+**发布时间**: 2026-03-11 23:17
+
+#### [Cliffwater caps payouts at credit fund as redemption requests surge](https://www.ft.com/content/22454850-a7da-4089-af17-a223fa11f31f)
+**发布时间**: 2026-03-11 21:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures down more than 500 points as Brent crude again tops $100 a barrel](https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 03:04
+
+#### [Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock](https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 02:42
+
+#### [The next 7 days in Iran will determine if we face stagflation or a total global recession](https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 01:31
 
 ---
 

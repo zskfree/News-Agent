@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Mar 2026 23:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2026 23:28:52 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 05:53:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:53:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）</title>
-      <link>https://www.tmtpost.com/7909386.html</link>
-      <description>&lt;![CDATA[黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 20:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7909386.html</guid>
+      <title>谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？</title>
+      <link>https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“两会”点名+多家IPO在即，脑机接口沸腾了</title>
-      <link>https://www.tmtpost.com/7909082.html</link>
-      <description>&lt;![CDATA[“两会”点名+多家IPO在即，脑机接口沸腾了]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7909082.html</guid>
+      <title>国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片</title>
+      <link>https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenClaw爆火，一文看懂“养虾热”背后七大关键问题</title>
-      <link>https://www.tmtpost.com/7908931.html</link>
-      <description>&lt;![CDATA[OpenClaw爆火，一文看懂“养虾热”背后七大关键问题]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7908931.html</guid>
+      <title>大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？</title>
-      <link>https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注</title>
+      <link>https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532080&amp;idx=1&amp;sn=afae8882ccf738ce27b57acf0305457e</link>
-      <description>&lt;![CDATA[5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。]]&gt;</description>
-      <pubDate>Wed, 11 Mar 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532080&amp;idx=1&amp;sn=afae8882ccf738ce27b57acf0305457e</guid>
+      <title>一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？</title>
+      <link>https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
