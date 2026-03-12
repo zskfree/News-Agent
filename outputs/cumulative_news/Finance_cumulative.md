@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 08:47
+**最后更新时间**: 2026-03-12 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-12 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Shoppers seeking a tariff refund from retailers are likely out of luck](https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:59
+
+#### [Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer.](https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:50
+
+#### [‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?](https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:45
+
+#### [The S&P 500 just broke a major support. Another 10% decline is likely.](https://www.marketwatch.com/story/the-s-p-500-just-broke-a-major-support-another-10-decline-is-likely-8c890fb8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:40
+
+#### [A toxic mix of private-credit panic and climbing bond yields is hammering financial stocks](https://www.marketwatch.com/story/a-toxic-mix-of-private-credit-panic-and-climbing-bond-yields-is-hammering-financial-stocks-21689fd4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:31
+
+#### [Why Adobe’s stock is falling despite an earnings beat](https://www.marketwatch.com/story/why-adobes-stock-is-falling-despite-an-earnings-beat-b6a67617?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:26
+
+#### [Ulta Beauty says it’s ‘increasingly mindful’ of effects that global conflicts have on shoppers, as profit forecast sinks stock](https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:40
+
+#### [A key gauge of inflation expectations just logged its highest reading in almost 4 years](https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:35
+
+#### [CrowdStrike’s stock snaps longest winning streak in a year, but analysts are increasingly bullish](https://www.marketwatch.com/story/crowdstrikes-stock-snaps-longest-winning-streak-in-a-year-but-analysts-are-increasingly-bullish-a5ebb3d6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investors slash Fed rate-cut bets as Iran war sends petrol prices surging](https://www.ft.com/content/df813cbc-f891-4f75-9257-6e1494dc9893)
+**发布时间**: 2026-03-12 21:17
+
+#### [Oil pushes above $100 as Strait of Hormuz crisis intensifies](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 21:08
+
+#### [Fed to loosen capital requirements for big US banks](https://www.ft.com/content/a1c81f17-201f-4e3f-8e02-e0b304f1b6a1)
+**发布时间**: 2026-03-12 20:40
+
+#### [US intervention in oil futures would be ‘biblical disaster’, CME warns](https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17)
+**发布时间**: 2026-03-12 19:54
+
+#### [UK government under fire over ‘bungled’ crypto Isas policy](https://www.ft.com/content/8cad0e71-8826-4873-b018-cc3274465bb2)
+**发布时间**: 2026-03-12 18:00
+
+#### [British politicians have the wrong kind of money on the brain](https://www.ft.com/content/664e0dc4-11cc-4670-92bf-deb358a5a2be)
+**发布时间**: 2026-03-12 15:57
+
+#### [Pressure grows on Starmer over Mandelson due diligence](https://www.ft.com/content/ffe4de88-16a2-42ff-bdd3-bf3ad902591c)
+**发布时间**: 2026-03-12 15:51
+
+#### [Russia rakes in $150mn a day in extra revenue from surging oil prices](https://www.ft.com/content/dd973148-b6a1-4096-97da-3090a058fe08)
+**发布时间**: 2026-03-12 15:24
+
+#### [‘Sitting ducks’: oil tankers trapped in Gulf as Iran widens attacks on shipping](https://www.ft.com/content/f45188dd-57d4-4d5d-90e0-59190543b1ae)
+**发布时间**: 2026-03-12 14:43
+
+#### [McKinsey rushes to fix AI system after hacker exposes flaws](https://www.ft.com/content/004e785e-8e17-4cb3-8e5a-3c36190bc8b2)
+**发布时间**: 2026-03-12 13:22
+
+#### [Trump’s choices are only pushing China and Russia closer together](https://www.ft.com/content/7074d350-92ba-4afe-bc51-fd459475f8a1)
+**发布时间**: 2026-03-12 13:07
 
 ---
 

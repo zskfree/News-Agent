@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "553ba25f8b1c821976828b5b085e1a799b9c5a346d1f4e74e2ef5559b218a046": {
-        "title": "OpenAI推出免费的LaTeX原生工作空间Prism，并集成GPT-5.2",
-        "link": "https://www.infoq.cn/article/6kVGMgU5thp3AlJKeb0d?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 10 Feb 2026 08:54:00 GMT",
-        "first_seen": "2026-02-10T08:58:49.044320"
-      },
-      "9d5b05b201339610842fa16f45ae7b05ebd99e17c6b4238f9959b32d00153296": {
-        "title": "神仙打架！阿里字节同日发布AI生图新品：Seedream 5.0 vs Qwen-Image-2.0",
-        "link": "https://www.tmtpost.com/7874094.html",
-        "published_date": "Tue, 10 Feb 2026 14:59:00 GMT",
-        "first_seen": "2026-02-10T08:58:49.044328"
-      },
-      "b1dfe6245d2294220bea6585a7f8b1d26c20955715565fc24c12681d21d7f0b4": {
-        "title": "Databricks年度化收入达到54亿美元，其CEO 称AI没有削弱SaaS",
-        "link": "https://www.tmtpost.com/7873720.html",
-        "published_date": "Tue, 10 Feb 2026 09:53:00 GMT",
-        "first_seen": "2026-02-10T08:58:49.044330"
-      },
-      "c413628a9e28acc52db6b0be501f53f0684023e665b0193b638abe77e0e51668": {
-        "title": "投出爱芯、壁仞的耀途资本：中国AI芯片的胜算",
-        "link": "https://www.tmtpost.com/7873989.html",
-        "published_date": "Tue, 10 Feb 2026 13:02:00 GMT",
-        "first_seen": "2026-02-10T08:58:49.044332"
-      },
-      "18844bd7d92ff4b71ae39b7163e595fcf2917fc1884d9077d0f3f15d75cb3024": {
-        "title": "从分散存储到统一分析，Apache Doris 在快手万亿规模广告场景的应用实践",
-        "link": "https://www.infoq.cn/article/X19PzkXgJux5tYL9ULBR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 10 Feb 2026 09:52:00 GMT",
-        "first_seen": "2026-02-10T08:58:49.044334"
-      },
       "fad576b56b3a821029ebf1f562f59d2751c3e1ac96ddfc08615e267647d4caf9": {
         "title": "达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型",
         "link": "https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&utm_medium=article",
@@ -2695,27 +2665,39 @@
         "link": "https://www.tmtpost.com/7910859.html",
         "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
         "first_seen": "2026-03-12T08:47:54.301844"
+      },
+      "1379bcee3aa889034ee9e2a6cc8bfa347c8cbe6084d82f32d17700f65d3155bb": {
+        "title": "黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点",
+        "link": "https://www.tmtpost.com/7910747.html",
+        "published_date": "Thu, 12 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-12T23:31:50.558577"
+      },
+      "64af7289661f5e7a2f1a3b60e2623f91416bb95e817bcb3838d21afacabca3f8": {
+        "title": "为啥都说美国袭击伊朗是“AI战争”的序幕？",
+        "link": "http://www.huxiu.com/article/4841080.html?f=wangzhan",
+        "published_date": "Thu, 12 Mar 2026 11:50:00 GMT",
+        "first_seen": "2026-03-12T23:31:50.558585"
+      },
+      "54034f7cb81d5c469e096f921e63d92d010944b659938c91a4254a1c03f85914": {
+        "title": "2026年，为什么他们还在狂投人形机器人？",
+        "link": "https://www.tmtpost.com/7910469.html",
+        "published_date": "Thu, 12 Mar 2026 12:21:00 GMT",
+        "first_seen": "2026-03-12T23:31:50.558588"
+      },
+      "d5a994deef0d653960d3b20d95c9835d30428750cca2e8ba5a53af3d5284293c": {
+        "title": "“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？",
+        "link": "https://www.tmtpost.com/7911362.html",
+        "published_date": "Thu, 12 Mar 2026 19:11:00 GMT",
+        "first_seen": "2026-03-12T23:31:50.558590"
+      },
+      "93db31b84ac8ed5b9dccfae5a84a51996c8c63c3312ac8ce3eeafc7994ba5bab": {
+        "title": "花大钱，赶晚集？错过 OpenClaw后，Meta 紧急买下 Moltbook",
+        "link": "https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 12 Mar 2026 09:53:00 GMT",
+        "first_seen": "2026-03-12T23:31:50.558591"
       }
     },
     "Finance": {
-      "f508a505021961845301600ebe1b20c75d5e3ff846f706925cb95663856b9e02": {
-        "title": "BP suspends share buyback plan",
-        "link": "https://www.ft.com/content/b16c72a5-a7df-45ac-a30e-f6f26bd4c469",
-        "published_date": "Tue, 10 Feb 2026 08:29:00 GMT",
-        "first_seen": "2026-02-10T08:58:12.357694"
-      },
-      "4e9ec1350de07af76afd226c261c4e2a6fe8b408466e1d5b5124958463fead52": {
-        "title": "BP to halt stock buybacks as profit slumps",
-        "link": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Feb 2026 08:05:00 GMT",
-        "first_seen": "2026-02-10T08:58:12.357705"
-      },
-      "bb8c8d925c172f7dc13c674859d32949cc23e1ed9b328a282063bc301d8057b4": {
-        "title": "AstraZeneca profit climbs on cancer and heart drug demand",
-        "link": "https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Feb 2026 07:24:00 GMT",
-        "first_seen": "2026-02-10T08:58:12.357707"
-      },
       "d29d3d406836849e4e857495711039efc14e21f734535875470a309a2f41abc6": {
         "title": "The U.S. bond market is suddenly flashing a warning sign about the economy",
         "link": "https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories",
@@ -4647,39 +4629,39 @@
         "link": "https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories",
         "published_date": "Thu, 12 Mar 2026 02:42:00 GMT",
         "first_seen": "2026-03-12T05:53:44.655110"
+      },
+      "7f9904d0baafd0af6c03af56d81b96badd364c1b44eba981ccf7a7d028af2ff0": {
+        "title": "Investors slash Fed rate-cut bets as Iran war sends petrol prices surging",
+        "link": "https://www.ft.com/content/df813cbc-f891-4f75-9257-6e1494dc9893",
+        "published_date": "Thu, 12 Mar 2026 21:17:00 GMT",
+        "first_seen": "2026-03-12T23:32:07.425965"
+      },
+      "2d91f9eb8fa8da1f6b053c2ba8fb3c63db343181ece4e535e272a98fce4bde4c": {
+        "title": "A toxic mix of private-credit panic and climbing bond yields is hammering financial stocks",
+        "link": "https://www.marketwatch.com/story/a-toxic-mix-of-private-credit-panic-and-climbing-bond-yields-is-hammering-financial-stocks-21689fd4?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Mar 2026 22:31:00 GMT",
+        "first_seen": "2026-03-12T23:32:07.425972"
+      },
+      "d56eeb823e42474c7314564c8f35cfa89846fa1aaefc7040648283847b0e0d20": {
+        "title": "Fed to loosen capital requirements for big US banks",
+        "link": "https://www.ft.com/content/a1c81f17-201f-4e3f-8e02-e0b304f1b6a1",
+        "published_date": "Thu, 12 Mar 2026 20:40:00 GMT",
+        "first_seen": "2026-03-12T23:32:07.425974"
+      },
+      "18b366a2f3b2ec78464afb7661e20488f9fa2c8caf1eb43a2872616444a51a33": {
+        "title": "A key gauge of inflation expectations just logged its highest reading in almost 4 years",
+        "link": "https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Mar 2026 21:35:00 GMT",
+        "first_seen": "2026-03-12T23:32:07.425975"
+      },
+      "08a6bb5246c5f5516a761f9115a0a2e7c120493c8352081bac1e49796d2a018a": {
+        "title": "US intervention in oil futures would be ‘biblical disaster’, CME warns",
+        "link": "https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17",
+        "published_date": "Thu, 12 Mar 2026 19:54:00 GMT",
+        "first_seen": "2026-03-12T23:32:07.425976"
       }
     },
     "Ai": {
-      "d631eb059989d14a8f34c913529192b66eac1adc9bba81bec77722b87603ac82": {
-        "title": "华为发布业界首个扩散语言模型Agent，部分场景提速8倍！",
-        "link": "https://www.qbitai.com/2026/02/378286.html",
-        "published_date": "Tue, 10 Feb 2026 07:18:00 GMT",
-        "first_seen": "2026-02-10T08:58:27.769420"
-      },
-      "ba0957ac753c267bbdc64d464b2b3403c307922c2aac9ec52766fe39f52e470a": {
-        "title": "GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力",
-        "link": "https://www.qbitai.com/2026/02/378315.html",
-        "published_date": "Tue, 10 Feb 2026 07:59:00 GMT",
-        "first_seen": "2026-02-10T08:58:27.769426"
-      },
-      "10ab586748008ed7f56f7a0eb96e0b50c72501e28f943c9023756727aff6c622": {
-        "title": "用千万级 MPRA 数据训练深度模型，首次系统性解码人类启动子的调控语法",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-10-6",
-        "published_date": "Tue, 10 Feb 2026 14:19:00 GMT",
-        "first_seen": "2026-02-10T08:58:27.769428"
-      },
-      "d6025ebe2278d07d71eebf32a8598e274224097d557c71a503a338104cf23998": {
-        "title": "Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-10-7",
-        "published_date": "Tue, 10 Feb 2026 15:06:00 GMT",
-        "first_seen": "2026-02-10T08:58:27.769430"
-      },
-      "3572f1be75cf1e9abed239d0112c644392592d315a9ad87c1ee2dc6f44843ad3": {
-        "title": "蚂蚁投了一家上海具身智能公司",
-        "link": "https://www.qbitai.com/2026/02/378305.html",
-        "published_date": "Tue, 10 Feb 2026 07:27:00 GMT",
-        "first_seen": "2026-02-10T08:58:27.769432"
-      },
       "71caf09fae9399f586645541c647f0ca25f556ce9fb2a0903ff327a2e0b14a2a": {
         "title": "清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习",
         "link": "https://www.jiqizhixin.com/articles/2026-02-10-10",
@@ -6113,13 +6095,43 @@
         "link": "https://www.qbitai.com/2026/03/386660.html",
         "published_date": "Thu, 12 Mar 2026 07:02:00 GMT",
         "first_seen": "2026-03-12T08:47:54.456062"
+      },
+      "a7c356f2cefa288b7965d92b1afa60bb45624916a6d522d6c110b6440ad71c24": {
+        "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
+        "link": "https://www.qbitai.com/2026/03/386717.html",
+        "published_date": "Thu, 12 Mar 2026 12:09:00 GMT",
+        "first_seen": "2026-03-12T23:32:21.042307"
+      },
+      "ab969807f9d69efe46c5230891093afedc025f1124177b4aec01636d23ced170": {
+        "title": "Protecting cities with AI-driven flash flood forecasting",
+        "link": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
+        "published_date": "Thu, 12 Mar 2026 13:03:00 GMT",
+        "first_seen": "2026-03-12T23:32:21.042313"
+      },
+      "143ade7e70f2e40057beb8a0f93560fdcedd98bb33ab181a0af2e2123c038248": {
+        "title": "Introducing Groundsource: Turning news reports into data with Gemini",
+        "link": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
+        "published_date": "Thu, 12 Mar 2026 10:42:00 GMT",
+        "first_seen": "2026-03-12T23:32:21.042316"
+      },
+      "62fe5bb382a8b2cb88e2c84abaec16760c8b9cb5a4153a1c6d6929f49c0544c9": {
+        "title": "全网首份「龙虾」安全部署指南来了！360出品",
+        "link": "https://www.qbitai.com/2026/03/386707.html",
+        "published_date": "Thu, 12 Mar 2026 09:54:00 GMT",
+        "first_seen": "2026-03-12T23:32:21.042317"
+      },
+      "708b5fb39c34c34bc01f57baa4a7c28aa612ffd43b4ba05e388e1ed39df93d0a": {
+        "title": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
+        "link": "https://www.qbitai.com/2026/03/386668.html",
+        "published_date": "Thu, 12 Mar 2026 09:33:00 GMT",
+        "first_seen": "2026-03-12T23:32:21.042319"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-12T08:47:54.301846",
-    "Finance": "2026-03-12T05:53:44.655113",
-    "Ai": "2026-03-12T08:47:54.456065"
+    "Technology": "2026-03-12T23:31:50.558593",
+    "Finance": "2026-03-12T23:32:07.425980",
+    "Ai": "2026-03-12T23:32:21.042320"
   }
 }

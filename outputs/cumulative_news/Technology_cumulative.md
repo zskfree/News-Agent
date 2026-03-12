@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 08:47
+**最后更新时间**: 2026-03-12 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-12 23:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [利润暴跌93%，保时捷跌落神坛｜钛度车库](https://www.tmtpost.com/7910734.html)
+**发布时间**: 2026-03-12 22:59
+
+#### [萤火虫公司将洛克希德·马丁送入太空，这只股票正一路飙升](https://www.tmtpost.com/7911733.html)
+**发布时间**: 2026-03-12 22:54
+
+#### [这只铜业股值得“挖掘”，铜价的繁荣行情正在展开](https://www.tmtpost.com/7911731.html)
+**发布时间**: 2026-03-12 22:54
+
+#### [受伊朗战争影响，海外股票大幅下挫，逢低买入或许能带来回报](https://www.tmtpost.com/7911483.html)
+**发布时间**: 2026-03-12 19:42
+
+#### [从阿尔法到AHI，荣耀正在改写终端未来](https://www.tmtpost.com/7908736.html)
+**发布时间**: 2026-03-12 19:16
+
+#### [重温三只股票的选股观点：其走势图释放出买入机会信号](https://www.tmtpost.com/7911439.html)
+**发布时间**: 2026-03-12 19:12
+
+#### [星巴克、安进和CVS让这只收益基金大放异彩](https://www.tmtpost.com/7911436.html)
+**发布时间**: 2026-03-12 19:12
+
+#### [市场对阿里巴巴人工智能方面的担忧被夸大了，为何该股可能在财报公布后反弹](https://www.tmtpost.com/7911434.html)
+**发布时间**: 2026-03-12 19:12
+
+#### [尽管最近削减了股息，股息投资者仍应关注陶氏化学和利安德巴塞尔](https://www.tmtpost.com/7911431.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [Qwen和Seedance背后，站着同一个人](https://www.tmtpost.com/7911341.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？](https://www.tmtpost.com/7911362.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [成本1万播放过亿：AI正在“吃掉”真人短剧？](https://www.tmtpost.com/7911330.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [玻纤布短缺，PCB告急](https://www.tmtpost.com/7911320.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [AI电商，巨头们的下一个战场？](https://www.tmtpost.com/7911308.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点](https://www.tmtpost.com/7910747.html)
+**发布时间**: 2026-03-12 19:09
+
+#### [Singapore Fintech Company MetaComp Completes Pre-A+ Funding Round |](https://www.tmtpost.com/7911423.html)
+**发布时间**: 2026-03-12 19:09
+
+#### [天味食品：香肠调料不好卖业绩双降，“清仓式”分红后赴港IPO｜看财报](https://www.tmtpost.com/7911399.html)
+**发布时间**: 2026-03-12 19:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TDSQL Boundless 多模态数据时代的实时分析引擎 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/C1OyeNDJ2OtLtoCTdoV5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 18:08
+
+#### [智能体时代的强化学习：AReaL 框架与 Agent 最佳实践](https://www.infoq.cn/article/QuR5u12v1qlslVDrVbzj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 18:05
+
+#### [JoySafeter 重磅开源：开启 AI 驱动安全（AISecOps）新范式](https://www.infoq.cn/article/h1tMycBO3Ky8y6Xr8FSK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:55
+
+#### [TDSQL Boundless HBase 兼容模式探索 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/x3UVebSCmJWamlwlWSuF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:35
+
+#### [AI 时代数智底座：TDSQL Boundless 多模态数据库 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/seXsywpeoZxdyCAUUGDk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜效率之外，创作的重量](https://sspai.com/post/106746)
+**发布时间**: 2026-03-12 17:26
 
 ---
 
