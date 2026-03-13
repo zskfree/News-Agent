@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-13 05:52
+**最后更新时间**: 2026-03-13 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-13 08:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架](https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 16:12
+
+#### [刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI](https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 14:53
+
+#### [360 周鸿祎回应“龙虾”玩梗图：“龙虾”不是病毒](https://www.infoq.cn/article/53rhBuxZcJ2aNgJGHMI3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 14:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从“工具”到“引擎”：2026年企业AI转型的六大核心行动指南](https://www.tmtpost.com/7912647.html)
+**发布时间**: 2026-03-13 15:54
+
+#### [创业能否成功，取决于企业家格局](https://www.tmtpost.com/7912627.html)
+**发布时间**: 2026-03-13 15:09
+
+#### [一只“龙虾”引发的巨头混战与资本狂欢](https://www.tmtpost.com/7912851.html)
+**发布时间**: 2026-03-13 15:09
+
+#### [超市上演“大败局”，为何河南商超独善其身？](https://www.tmtpost.com/7912776.html)
+**发布时间**: 2026-03-13 15:08
+
+#### [这个赛道已经不给“穷人”机会了：没有十亿，别谈B轮](https://www.tmtpost.com/7912623.html)
+**发布时间**: 2026-03-13 15:08
+
+#### [海外收入暴涨405%，家用医疗器械龙头赚麻了](https://www.tmtpost.com/7910722.html)
+**发布时间**: 2026-03-13 15:07
+
+#### [2月漫剧：新剧超6成，环比增长58.4%，女性向AI仿真人剧供需双爆发](https://www.tmtpost.com/7912757.html)
+**发布时间**: 2026-03-13 15:07
+
+#### [Neurosci Bull：上海交通大学祝忠群/童小萍团队揭示新生儿心脏术后脑损伤新机制](https://www.tmtpost.com/7912688.html)
+**发布时间**: 2026-03-13 15:04
+
+#### [非手术解决老花+近视，下一个眼科爆品即将来临？](https://www.tmtpost.com/7912683.html)
+**发布时间**: 2026-03-13 15:00
+
+#### [利好拉满，亿航智能能抓住商业化新机吗？](https://www.tmtpost.com/7912654.html)
+**发布时间**: 2026-03-13 15:00
+
+#### [中医考证生意火爆：有人花五万挂名，只为一张证](https://www.tmtpost.com/7912625.html)
+**发布时间**: 2026-03-13 14:56
+
+#### [全网都在“养虾”，医院却下了封杀令](https://www.tmtpost.com/7912690.html)
+**发布时间**: 2026-03-13 14:51
+
+#### [全球第二，中国生物制药TQB3454胆道癌三期临床成功，国产IDH1抑制剂破局](https://www.tmtpost.com/7912717.html)
+**发布时间**: 2026-03-13 14:50
+
+#### [蚂蚁、美团、京东、腾讯都入局了，互联网巨头在养老市场全面“开战”](https://www.tmtpost.com/7912629.html)
+**发布时间**: 2026-03-13 14:48
+
+#### [过去三年315，被曝光的企业都怎么样了](https://www.tmtpost.com/7912611.html)
+**发布时间**: 2026-03-13 14:48
+
+#### [认养骗局卷土重来：老套路为何总有人上当？](https://www.tmtpost.com/7912439.html)
+**发布时间**: 2026-03-13 14:48
+
+#### [实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表](https://www.tmtpost.com/7912730.html)
+**发布时间**: 2026-03-13 14:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜看见并打开我和我妈之间的那扇门](https://sspai.com/post/106709)
+**发布时间**: 2026-03-13 13:54
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [狠狠的 Pua 你的 OpenClaw 小龙虾，这 2 个 GitHub 项目开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532158&idx=1&sn=08e1d51a8adbfe443c808d85db726b3f)
+**发布时间**: 2026-03-13 10:32
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 05:53:01 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:43:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US to ease Russian oil sanctions as energy prices soar</title>
-      <link>https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe</link>
-      <description>&lt;![CDATA[US to ease Russian oil sanctions as energy prices soar]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 00:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US targets UK, EU and Canada in new round of tariff probes</title>
-      <link>https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2</link>
-      <description>&lt;![CDATA[US targets UK, EU and Canada in new round of tariff probes]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 02:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gulf states lose $15bn in energy revenues since start of war</title>
-      <link>https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae</link>
-      <description>&lt;![CDATA[Gulf states lose $15bn in energy revenues since start of war]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran war tests Xi’s plan to build China’s stockpiles</title>
-      <link>https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87</link>
-      <description>&lt;![CDATA[Iran war tests Xi’s plan to build China’s stockpiles]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 04:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US has burned through ‘years’ of munitions since start of Iran war</title>
-      <link>https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5</link>
-      <description>&lt;![CDATA[US has burned through ‘years’ of munitions since start of Iran war]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 23:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5</guid>
+      <title>UK economy unexpectedly failed to grow in January</title>
+      <link>https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90</link>
+      <description>&lt;![CDATA[UK economy unexpectedly failed to grow in January]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90</guid>
       <category>Finance</category>
     </item>
   </channel>

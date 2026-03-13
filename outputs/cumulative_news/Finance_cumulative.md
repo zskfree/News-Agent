@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-13 05:52
+**最后更新时间**: 2026-03-13 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-13 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK economy unexpectedly failed to grow in January](https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90)
+**发布时间**: 2026-03-13 07:15
+
+#### [Carlyle overhauls European private equity team after poor performance](https://www.ft.com/content/247da046-afbe-4c3c-9ef3-02073cc61dd2)
+**发布时间**: 2026-03-13 05:00
+
+#### [Bitcoin investor offers all Nevis residents $100 a month if libertarian city is approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)
+**发布时间**: 2026-03-13 05:00
+
+#### [US eases Russian oil sanctions as energy prices soar](https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe)
+**发布时间**: 2026-03-13 00:31
 
 ---
 

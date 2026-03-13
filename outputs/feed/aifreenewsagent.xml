@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 05:51:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 05:53:02 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:43:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-13日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-13/</link>
-      <description>&lt;![CDATA[2026-03-13日刊]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-13/</guid>
+      <title>我用10块钱的「熟虾」，搞了个AI编辑部！</title>
+      <link>https://www.qbitai.com/2026/03/387116.html</link>
+      <description>&lt;![CDATA[我用10块钱的「熟虾」，搞了个AI编辑部！]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 06:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387116.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言</title>
+      <link>https://www.qbitai.com/2026/03/387102.html</link>
+      <description>&lt;![CDATA[统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 06:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387102.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队</title>
+      <link>https://www.qbitai.com/2026/03/387072.html</link>
+      <description>&lt;![CDATA[华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 05:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387072.html</guid>
       <category>Ai</category>
     </item>
   </channel>
