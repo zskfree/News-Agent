@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-13 08:43
+**最后更新时间**: 2026-03-13 23:30
+
+---
+
+## 🆕 最新更新 (2026-03-13 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This little-known energy company’s stock is rallying as Trump invokes 1950 powers for offshore California drilling](https://www.marketwatch.com/story/this-little-known-energy-companys-stock-is-rallying-as-trump-invokes-1950-powers-for-offshore-california-drilling-5cb8efa4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 23:27
+
+#### [‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?](https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 22:39
+
+#### [Warren Buffett’s sage advice about fear and greed is a trap in this market](https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 21:08
+
+#### [Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.](https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:42
+
+#### [Here’s a rare chance to invest before big stock-index funds and Wall Street dive in](https://www.marketwatch.com/story/heres-a-rare-chance-to-front-run-wall-streets-best-and-biggest-players-1e98c87e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:31
+
+#### [Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.](https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:20
+
+#### [‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?](https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:15
+
+#### [Investors are shunning U.S. debt as a haven play during the Iran conflict](https://www.marketwatch.com/story/investors-are-shunning-u-s-debt-as-a-haven-play-during-the-iran-conflict-f84c9f4e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia prepares AI ‘inference’ chip launch to counter rising challengers](https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf)
+**发布时间**: 2026-03-13 21:00
+
+#### [Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates](https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf)
+**发布时间**: 2026-03-13 20:38
+
+#### [US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence](https://www.ft.com/content/e4da6f70-6f68-4d95-aa7b-fef90ab90d82)
+**发布时间**: 2026-03-13 20:03
+
+#### [UK petrol trade body in dispute with ministers over ‘inflammatory’ comments](https://www.ft.com/content/e51bdfaa-60ba-4374-8863-e104e2196cd0)
+**发布时间**: 2026-03-13 19:53
+
+#### [The oil price war](https://www.ft.com/content/e21a55b0-1678-4611-94ff-d9b6d429ed4c)
+**发布时间**: 2026-03-13 18:54
+
+#### [Wall Street warns Iran war will trigger prolonged energy crisis](https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2)
+**发布时间**: 2026-03-13 18:30
+
+#### [France and Italy open talks with Iran in hope of securing safe Hormuz passage](https://www.ft.com/content/96b8e0a4-9ecb-4e07-a96d-7debcfe3bfa6)
+**发布时间**: 2026-03-13 17:33
+
+#### [Show me a leader who doesn’t love a crisis](https://www.ft.com/content/8b1be6ef-81bc-448e-a4a4-515aa5f5d262)
+**发布时间**: 2026-03-13 17:11
+
+#### [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+**发布时间**: 2026-03-13 15:36
+
+#### [The irrepressible Nigel Farage](https://www.ft.com/content/3aca829d-d523-484b-a5b8-744642ec5f70)
+**发布时间**: 2026-03-13 05:00
 
 ---
 

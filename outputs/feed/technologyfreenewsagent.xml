@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 08:43:46 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 23:31:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架</title>
-      <link>https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表</title>
+      <link>https://www.tmtpost.com/7912730.html</link>
+      <description>&lt;![CDATA[实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7912730.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI制药的技术奇点与产业拐点</title>
-      <link>https://www.tmtpost.com/7912241.html</link>
-      <description>&lt;![CDATA[AI制药的技术奇点与产业拐点]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7912241.html</guid>
+      <title>刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI</title>
+      <link>https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air</title>
-      <link>https://www.infoq.cn/article/feSV9dcs3V8amUQyJYN7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 09:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/feSV9dcs3V8amUQyJYN7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从概念到产线：具身智能真正卡在哪？</title>
+      <link>https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从概念到产线：具身智能真正卡在哪？]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这场战争对AI数据中心的长期影响，可能被低估了？</title>
-      <link>https://www.tmtpost.com/7912340.html</link>
-      <description>&lt;![CDATA[这场战争对AI数据中心的长期影响，可能被低估了？]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7912340.html</guid>
+      <title>核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？</title>
+      <link>https://www.tmtpost.com/7913403.html</link>
+      <description>&lt;![CDATA[核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7913403.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：Apple 宣布下调中国区 App Store 佣金率</title>
-      <link>https://sspai.com/post/107158</link>
-      <description>&lt;![CDATA[派早报：Apple 宣布下调中国区 App Store 佣金率]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/107158</guid>
+      <title>最新一篇博客背后，黄仁勋的深度思考</title>
+      <link>https://www.tmtpost.com/7912387.html</link>
+      <description>&lt;![CDATA[最新一篇博客背后，黄仁勋的深度思考]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7912387.html</guid>
       <category>Technology</category>
     </item>
   </channel>

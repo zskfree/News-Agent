@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 08:43:46 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 23:31:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我用10块钱的「熟虾」，搞了个AI编辑部！</title>
-      <link>https://www.qbitai.com/2026/03/387116.html</link>
-      <description>&lt;![CDATA[我用10块钱的「熟虾」，搞了个AI编辑部！]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387116.html</guid>
+      <title>阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由</title>
+      <link>https://www.qbitai.com/2026/03/387750.html</link>
+      <description>&lt;![CDATA[阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387750.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言</title>
-      <link>https://www.qbitai.com/2026/03/387102.html</link>
-      <description>&lt;![CDATA[统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 06:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387102.html</guid>
+      <title>刚刚，腾讯电脑“龙虾管家”重磅上线</title>
+      <link>https://www.qbitai.com/2026/03/387739.html</link>
+      <description>&lt;![CDATA[刚刚，腾讯电脑“龙虾管家”重磅上线]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387739.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队</title>
-      <link>https://www.qbitai.com/2026/03/387072.html</link>
-      <description>&lt;![CDATA[华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 05:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387072.html</guid>
+      <title>滴滴Q4再创新高 日订单峰值超6500万单</title>
+      <link>https://www.qbitai.com/2026/03/387736.html</link>
+      <description>&lt;![CDATA[滴滴Q4再创新高 日订单峰值超6500万单]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 09:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387736.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>多家资本参投，杨立昆AMI获超10亿美元种子融资</title>
+      <link>https://www.qbitai.com/2026/03/387734.html</link>
+      <description>&lt;![CDATA[多家资本参投，杨立昆AMI获超10亿美元种子融资]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387734.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>吃够了全自动的龙虾，我决定把AI的方向盘抢回来</title>
+      <link>https://www.qbitai.com/2026/03/387405.html</link>
+      <description>&lt;![CDATA[吃够了全自动的龙虾，我决定把AI的方向盘抢回来]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387405.html</guid>
       <category>Ai</category>
     </item>
   </channel>

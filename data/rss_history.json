@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ff053fde7e227845cf119b6e4f639fdd0761a8fe4f295d8c3c646715cbb7302f": {
-        "title": "内存涨价吞噬订单，“黑天鹅”突袭手机、PC芯片产业",
-        "link": "https://www.tmtpost.com/7876066.html",
-        "published_date": "Wed, 11 Feb 2026 16:36:00 GMT",
-        "first_seen": "2026-02-11T08:52:50.214031"
-      },
-      "367b396f9ea706b239f06e5c394ee0d2dff065ed82abc4a63a030d1ccdd7598b": {
-        "title": "Alibaba, ByteDance Unveil New AI Products on the Same Day in Race for Supremacy",
-        "link": "https://www.tmtpost.com/7876060.html",
-        "published_date": "Wed, 11 Feb 2026 15:43:00 GMT",
-        "first_seen": "2026-02-11T08:52:50.214037"
-      },
-      "26367a5b680acbceeb96c3a3959d20265f042439cd868261cc04de4aa4b4054f": {
-        "title": "离开半年，48 岁前 GitHub CEO 携开源 AI 开发者平台和老东家打擂",
-        "link": "https://www.infoq.cn/article/fcjA0034GUQVp20cjHZU?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Feb 2026 16:16:00 GMT",
-        "first_seen": "2026-02-11T08:52:50.214039"
-      },
-      "68653ec9fbfc8c090ebd7c71fe64edd1531d41216c867ecf72f92092d6109ef5": {
-        "title": "当“一个人拍电影”成为可能：谈谈Seedance2.0的高光与阴影",
-        "link": "https://www.tmtpost.com/7875712.html",
-        "published_date": "Wed, 11 Feb 2026 13:25:00 GMT",
-        "first_seen": "2026-02-11T08:52:50.214041"
-      },
-      "1770883a79aa189c7e06275d02fa931d087db6d44220ca1bf0ecc915e0c36f6d": {
-        "title": "微软小冰往事：一个AI明星产品是如何坠落的",
-        "link": "https://www.tmtpost.com/7875764.html",
-        "published_date": "Wed, 11 Feb 2026 13:30:00 GMT",
-        "first_seen": "2026-02-11T08:52:50.214042"
-      },
       "a2c82b043127cfaefac1808da602246ecfd40dcc8e5a8beb0e0fc727af453d44": {
         "title": "Google AI负责人Hassabis披露AGI四步计划：模型大一统与世界模拟成核心",
         "link": "https://www.tmtpost.com/7876480.html",
@@ -2695,21 +2665,39 @@
         "link": "https://sspai.com/post/107158",
         "published_date": "Fri, 13 Mar 2026 08:46:00 GMT",
         "first_seen": "2026-03-13T08:43:46.349938"
+      },
+      "312d4bc06e0b0788c3079f74834d359ec15abd72091096d7fda6a17161b1617d": {
+        "title": "实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表",
+        "link": "https://www.tmtpost.com/7912730.html",
+        "published_date": "Fri, 13 Mar 2026 14:19:00 GMT",
+        "first_seen": "2026-03-13T23:31:11.190907"
+      },
+      "92d06b3721eafaffd00ac693bdb72e94ae455ff55ba673d131f519592fa8c62d": {
+        "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
+        "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 14:53:00 GMT",
+        "first_seen": "2026-03-13T23:31:11.190921"
+      },
+      "913bebce007b6e3b5898d668c24dc08affb19537bd2382be6f3a673b0b21d810": {
+        "title": "从概念到产线：具身智能真正卡在哪？",
+        "link": "https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 16:38:00 GMT",
+        "first_seen": "2026-03-13T23:31:11.190924"
+      },
+      "df1e2e485a5196a0344b50a6f1cd506349f6617d85c03c51e02806b76402d86a": {
+        "title": "核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？",
+        "link": "https://www.tmtpost.com/7913403.html",
+        "published_date": "Fri, 13 Mar 2026 19:26:00 GMT",
+        "first_seen": "2026-03-13T23:31:11.190926"
+      },
+      "9875d2cf6d81b16a4dd180deecba7802565a07f2792ead3336646585f220a936": {
+        "title": "最新一篇博客背后，黄仁勋的深度思考",
+        "link": "https://www.tmtpost.com/7912387.html",
+        "published_date": "Fri, 13 Mar 2026 11:21:00 GMT",
+        "first_seen": "2026-03-13T23:31:11.190928"
       }
     },
     "Finance": {
-      "6085ab23b52958c1326a40a480dc6cfdf71eb2e2c22bed65bfbcd274a7692da1": {
-        "title": "Elliott Management builds stake in London Stock Exchange Group",
-        "link": "https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364",
-        "published_date": "Wed, 11 Feb 2026 08:33:00 GMT",
-        "first_seen": "2026-02-11T08:52:22.668424"
-      },
-      "1a9435fc52d250f8f816d57b3f050c427239118f5ccabc19531d607d0230f782": {
-        "title": "Heineken to cut 6,000 jobs as beer demand declines",
-        "link": "https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e",
-        "published_date": "Wed, 11 Feb 2026 08:02:00 GMT",
-        "first_seen": "2026-02-11T08:52:22.668436"
-      },
       "297c020515f9413368c2fe1cf9b74bd48060170836217b0c2515f1c162e82bb6": {
         "title": "US economy far outstrips expectations to add 130,000 jobs in January",
         "link": "https://www.ft.com/content/a369333a-41b5-4e55-8e6e-cb04bb0f2e9f",
@@ -4635,39 +4623,39 @@
         "link": "https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90",
         "published_date": "Fri, 13 Mar 2026 07:15:00 GMT",
         "first_seen": "2026-03-13T08:43:46.386099"
+      },
+      "2aaaccf9baff0bd0553871939a08d734a6dbac2155c7a9751dfcc72a3478afd4": {
+        "title": "Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates",
+        "link": "https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf",
+        "published_date": "Fri, 13 Mar 2026 20:38:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.221110"
+      },
+      "1540dae0e29376423867b9c2c91c7b1999ff76fcc3cfa8057ebd00bcb20a312e": {
+        "title": "Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.",
+        "link": "https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Mar 2026 20:42:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.221117"
+      },
+      "0891761655bb306196eaae10b03fbc5dd14e35487b4601199f75fb0bf9560f96": {
+        "title": "Wall Street warns Iran war will trigger prolonged energy crisis",
+        "link": "https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2",
+        "published_date": "Fri, 13 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.221120"
+      },
+      "7ab1145836b63b2d519adbcb3087d94504e1c7901f167a6c3327932f085c5152": {
+        "title": "Nvidia prepares AI ‘inference’ chip launch to counter rising challengers",
+        "link": "https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf",
+        "published_date": "Fri, 13 Mar 2026 21:00:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.221122"
+      },
+      "d157ed37466bed15dd6c5d4fd11eaf22d2c837c00ffdd76b61d33d1c46859b12": {
+        "title": "Warren Buffett’s sage advice about fear and greed is a trap in this market",
+        "link": "https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Mar 2026 21:08:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.221123"
       }
     },
     "Ai": {
-      "d7b752f25efdd665e3684d2337a7e44ae03052d5ba5133cd6305a26b8a2c1bcb": {
-        "title": "Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-6",
-        "published_date": "Wed, 11 Feb 2026 14:12:00 GMT",
-        "first_seen": "2026-02-11T08:52:31.717233"
-      },
-      "49e01d0b53f6babde8ca114edd5fb997e4c9ad80d408f364f241969fa692e9e0": {
-        "title": "里程碑时刻！100B扩散语言模型跑出892 Tokens /秒，AI的另一条路走通了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-2",
-        "published_date": "Wed, 11 Feb 2026 10:46:00 GMT",
-        "first_seen": "2026-02-11T08:52:31.717241"
-      },
-      "046936dabe79927205888b1d40fd9a8ff5f5009ae7804bb9f2e7b25ff84fe3de": {
-        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-7",
-        "published_date": "Wed, 11 Feb 2026 15:07:00 GMT",
-        "first_seen": "2026-02-11T08:52:31.717245"
-      },
-      "5d80fbd493b02bfc1e6db590003f648b30bc157826db5e74651093f2a9226b86": {
-        "title": "特斯拉腾讯首次合作，新老Model 3/Y车主爽到了",
-        "link": "https://www.qbitai.com/2026/02/378503.html",
-        "published_date": "Wed, 11 Feb 2026 06:34:00 GMT",
-        "first_seen": "2026-02-11T08:52:31.717247"
-      },
-      "1699375699d4f78f5fa8f20e961834ec80bf6a3d1adeeae1c7043b4f68e7866a": {
-        "title": "华为云大动作！马年春节前夕，码道开启万人公测",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-8",
-        "published_date": "Wed, 11 Feb 2026 15:37:00 GMT",
-        "first_seen": "2026-02-11T08:52:31.717250"
-      },
       "4f249789fb4720354e3d4212060b80812457973f859d7f612e143a98b89e8cd9": {
         "title": "2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告",
         "link": "https://www.qbitai.com/2026/02/378674.html",
@@ -6065,13 +6053,43 @@
         "link": "https://www.qbitai.com/2026/03/387072.html",
         "published_date": "Fri, 13 Mar 2026 05:59:00 GMT",
         "first_seen": "2026-03-13T08:43:46.528143"
+      },
+      "93af80f1bd105edcbf5cec7734428b4604e43a8e8509557d2b0ecc1356ba4872": {
+        "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
+        "link": "https://www.qbitai.com/2026/03/387750.html",
+        "published_date": "Fri, 13 Mar 2026 11:30:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.389077"
+      },
+      "c76919e0aa63d86cb6b76cc049ae890b5f525f393e1490f43a351b0429b41211": {
+        "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
+        "link": "https://www.qbitai.com/2026/03/387739.html",
+        "published_date": "Fri, 13 Mar 2026 11:08:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.389086"
+      },
+      "73f727cbd1c5e1b5b1c74a58df9e888677e0ff6df218999bcc4fb4a8acac8251": {
+        "title": "滴滴Q4再创新高 日订单峰值超6500万单",
+        "link": "https://www.qbitai.com/2026/03/387736.html",
+        "published_date": "Fri, 13 Mar 2026 09:18:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.389089"
+      },
+      "821a92e8226f4b346e1e8c2942e0621cd8c2513de74570060d33b007ebbf67c4": {
+        "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
+        "link": "https://www.qbitai.com/2026/03/387734.html",
+        "published_date": "Fri, 13 Mar 2026 09:05:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.389090"
+      },
+      "f3e8aa15d2e0674a043954d55e135ea523b0f5bdf89032a845ac329de8c30d2d": {
+        "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
+        "link": "https://www.qbitai.com/2026/03/387405.html",
+        "published_date": "Fri, 13 Mar 2026 08:59:00 GMT",
+        "first_seen": "2026-03-13T23:31:31.389092"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-13T08:43:46.349940",
-    "Finance": "2026-03-13T08:43:46.386107",
-    "Ai": "2026-03-13T08:43:46.528145"
+    "Technology": "2026-03-13T23:31:11.190930",
+    "Finance": "2026-03-13T23:31:31.221126",
+    "Ai": "2026-03-13T23:31:31.389093"
   }
 }
