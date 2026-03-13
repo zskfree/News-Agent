@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fad576b56b3a821029ebf1f562f59d2751c3e1ac96ddfc08615e267647d4caf9": {
-        "title": "达摩院开源RynnBrain：首个支持移动操作的具身大脑基础模型",
-        "link": "https://www.infoq.cn/article/rA7dxxttFjqurKCzfGmI?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 10 Feb 2026 17:53:00 GMT",
-        "first_seen": "2026-02-10T23:40:44.940911"
-      },
-      "e69d76fd5a4ceda16f35d996f07ed5007cb067578de655253d52e7998d0e9f7c": {
-        "title": "瑞士工程科技公司Lightium研发量产级薄膜铌酸锂光子芯片代工服务，实现光子芯片规模化量产",
-        "link": "https://www.tmtpost.com/7874287.html",
-        "published_date": "Tue, 10 Feb 2026 18:56:00 GMT",
-        "first_seen": "2026-02-10T23:40:44.940918"
-      },
-      "a8d463e91bfeeaf64de06b50a3bf6e3e82a77784b13f3b238c5944117afb5fe7": {
-        "title": "印奇在2026年要打的三场仗：千里智驾，阶跃基模，AI硬件",
-        "link": "https://www.tmtpost.com/7874361.html",
-        "published_date": "Tue, 10 Feb 2026 18:56:00 GMT",
-        "first_seen": "2026-02-10T23:40:44.940920"
-      },
-      "93bc75b1e06abc7f46d274080580cf0701447907fc0b905fbad84fee07264dcf": {
-        "title": "为 ChatGPT 和 Claude 提供“地基”的那家公司，在担心什么",
-        "link": "https://www.infoq.cn/article/LtKGv3oRvYQHSzUir3O6?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 10 Feb 2026 19:43:00 GMT",
-        "first_seen": "2026-02-10T23:40:44.940921"
-      },
-      "8368bc9516e20b32b2885d5ddd579fdd8937f279d81b3dae9445600df9cb8314": {
-        "title": "未来两年软件工程展望：从写代码到管 AI，程序员正分化成两种职业",
-        "link": "https://www.infoq.cn/article/UtPXQMUagxqNoPE2PaT0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 10 Feb 2026 18:08:00 GMT",
-        "first_seen": "2026-02-10T23:40:44.940923"
-      },
       "0d591c7a5e314414e5f553c8090c6197b658f628026d843ad3ae74cd5699a616": {
         "title": "中芯国际：逆势加码，国产 AI 芯的 “全村希望”？",
         "link": "https://www.tmtpost.com/7875526.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 12 Mar 2026 09:53:00 GMT",
         "first_seen": "2026-03-12T23:31:50.558591"
+      },
+      "0a9abd5e679b9ca147b936ca931b42eaba55d61351047d09a601b50da121db47": {
+        "title": "从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径",
+        "link": "https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 11:14:00 GMT",
+        "first_seen": "2026-03-13T05:52:49.517957"
+      },
+      "e4f81c0cbb0ffb78fdcced9104bc921cd65502adf48ceaed18236afda28a917e": {
+        "title": "Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构",
+        "link": "https://www.infoq.cn/article/pogJ0jrHtNfQ7yrBNweE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 10:08:00 GMT",
+        "first_seen": "2026-03-13T05:52:49.517970"
+      },
+      "a7b4312f79c7ca85d300ea05539b91bf4839a6532dc30e5bb18d6fac314d2dc8": {
+        "title": "维持16年的30%抽成税终于下调，苹果在中国第一次退让",
+        "link": "https://www.tmtpost.com/7912549.html",
+        "published_date": "Fri, 13 Mar 2026 12:01:00 GMT",
+        "first_seen": "2026-03-13T05:52:49.517972"
+      },
+      "26e2eaa5fb5a22a82dd5d3ffbe40fabcd5bdacc011363d3a1350fd79ad2f5c4e": {
+        "title": "Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫",
+        "link": "https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 10:10:00 GMT",
+        "first_seen": "2026-03-13T05:52:49.517975"
+      },
+      "673406a7b304ae9a5a82bd66075f60148844c44ce35fe212ddaeaf5d1a5d7883": {
+        "title": "Google 为 Gemini CLI Conductor 推出自动化代码评审功能",
+        "link": "https://www.infoq.cn/article/BuXP90QohCudfPX5Q2Zw?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-13T05:52:49.517976"
       }
     },
     "Finance": {
-      "d29d3d406836849e4e857495711039efc14e21f734535875470a309a2f41abc6": {
-        "title": "The U.S. bond market is suddenly flashing a warning sign about the economy",
-        "link": "https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Feb 2026 21:13:00 GMT",
-        "first_seen": "2026-02-10T23:40:04.813458"
-      },
-      "aaf3d1e4a1c120469e3c3ddaf8b2cebb36c19007e27858a55c928b4acbe2aa86": {
-        "title": "Trump says he’ll ‘figure something out’ if tariffs are struck down, as Supreme Court ruling may come next week",
-        "link": "https://www.marketwatch.com/story/trump-says-hell-figure-something-out-if-tariffs-are-struck-down-as-supreme-court-ruling-may-come-next-week-5b270ba6?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Feb 2026 22:36:00 GMT",
-        "first_seen": "2026-02-10T23:40:04.813469"
-      },
-      "f53c06a83289acce8c33a4b037e1def4f16d1f40bb7c02c1d055755029802b3c": {
-        "title": "Wall Street’s anything-but-tech trade shakes up US stock market",
-        "link": "https://www.ft.com/content/577b97f6-2416-48b9-9bd3-717bb202ca71",
-        "published_date": "Tue, 10 Feb 2026 14:41:00 GMT",
-        "first_seen": "2026-02-10T23:40:04.813472"
-      },
-      "d619352fc8bd8418af81d1215b10b8a737cba322cd848097c264affacc818bb7": {
-        "title": "US brokerage shares slide in latest sell-off driven by new AI tool",
-        "link": "https://www.ft.com/content/1c63983f-5ff0-4b70-ad55-7e4334f59422",
-        "published_date": "Tue, 10 Feb 2026 21:47:00 GMT",
-        "first_seen": "2026-02-10T23:40:04.813474"
-      },
-      "1656bcf323cbaead532f4bac05b02469c71ae1307895d1bc6081f1ac92bab1db": {
-        "title": "The S&P 500 just accomplished a first-time feat — and it suggests more wild swings ahead",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Feb 2026 21:51:00 GMT",
-        "first_seen": "2026-02-10T23:40:04.813476"
-      },
       "efb914ecdf452fff58fe0e9f4217a94b1daf12570583f3b06e78efb8d9c19808": {
         "title": "Disclosure rules for ‘buy now, pay later’ lenders diluted by UK regulator",
         "link": "https://www.ft.com/content/877c52d9-e2f6-40cc-bf7a-e01818fafb62",
@@ -4659,39 +4629,39 @@
         "link": "https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17",
         "published_date": "Thu, 12 Mar 2026 19:54:00 GMT",
         "first_seen": "2026-03-12T23:32:07.425976"
+      },
+      "658be8455880e3c9fafd79edea99fb0ac67a52d1dc0bcfb99f37e0a618ffdcd9": {
+        "title": "US to ease Russian oil sanctions as energy prices soar",
+        "link": "https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe",
+        "published_date": "Fri, 13 Mar 2026 00:31:00 GMT",
+        "first_seen": "2026-03-13T05:53:01.972009"
+      },
+      "ec917df56ef329450dc04eb07a7aec01eec24367a9bc475fca0ae4fbf2fe03d9": {
+        "title": "US targets UK, EU and Canada in new round of tariff probes",
+        "link": "https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2",
+        "published_date": "Fri, 13 Mar 2026 02:54:00 GMT",
+        "first_seen": "2026-03-13T05:53:01.972015"
+      },
+      "75aa915e691d1320fa3d1a2506454821c0113954c6375e2de5be29e6cc4a1a17": {
+        "title": "Gulf states lose $15bn in energy revenues since start of war",
+        "link": "https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae",
+        "published_date": "Fri, 13 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-13T05:53:01.972018"
+      },
+      "52b337f3a7b3b71a94b30f868ce24335d0eafb8c4aa4e6bb28ca3f9a07c33fa8": {
+        "title": "Iran war tests Xi’s plan to build China’s stockpiles",
+        "link": "https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87",
+        "published_date": "Fri, 13 Mar 2026 04:35:00 GMT",
+        "first_seen": "2026-03-13T05:53:01.972020"
+      },
+      "5dfaa3fa97eb7581554c902ea1feaf6faee8b67a40df84db445aae6755325610": {
+        "title": "US has burned through ‘years’ of munitions since start of Iran war",
+        "link": "https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5",
+        "published_date": "Thu, 12 Mar 2026 23:37:00 GMT",
+        "first_seen": "2026-03-13T05:53:01.972022"
       }
     },
     "Ai": {
-      "71caf09fae9399f586645541c647f0ca25f556ce9fb2a0903ff327a2e0b14a2a": {
-        "title": "清华联手千问重塑归一化范式，让 Transformer 回归「深度」学习",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-10-10",
-        "published_date": "Tue, 10 Feb 2026 18:54:00 GMT",
-        "first_seen": "2026-02-10T23:40:21.204555"
-      },
-      "f41d5e12e2d93fdad7101b11abfc8ef6469000427f5a3324d27463dce4cb0629": {
-        "title": "首个测试时共进化合成框架TTCS：在「左右互搏」中突破推理瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-10-8",
-        "published_date": "Tue, 10 Feb 2026 17:04:00 GMT",
-        "first_seen": "2026-02-10T23:40:21.204562"
-      },
-      "fd708eadaedc8f3d403678901074dbb9da62bd5dda67045453d62f4cef5b1c14": {
-        "title": "人类画了100年的脑图，AI仅用几小时！还绘制出新脑区",
-        "link": "https://www.qbitai.com/2026/02/378423.html",
-        "published_date": "Tue, 10 Feb 2026 12:42:00 GMT",
-        "first_seen": "2026-02-10T23:40:21.204564"
-      },
-      "2ce16ed261d1632284b1fa24b35bf45285ef659479e588122a367027e9bf75f9": {
-        "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
-        "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-        "published_date": "Tue, 10 Feb 2026 18:30:00 GMT",
-        "first_seen": "2026-02-10T23:40:21.204566"
-      },
-      "7b394289713c2840688bc209a3d36adbcf524132a602b4cee8e55a2088b2d863": {
-        "title": "比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-10-11",
-        "published_date": "Tue, 10 Feb 2026 18:59:00 GMT",
-        "first_seen": "2026-02-10T23:40:21.204568"
-      },
       "0c34e72d7ea6692d8c3a4a268f63bb0f115239eaa5dd25291c5dd5be147b8031": {
         "title": "对标 Gemini 2.5 Pro，蚂蚁集团开源全模态大模型Ming-Flash-Omni 2.0",
         "link": "https://www.jiqizhixin.com/articles/2026-02-11-4",
@@ -6125,13 +6095,19 @@
         "link": "https://www.qbitai.com/2026/03/386668.html",
         "published_date": "Thu, 12 Mar 2026 09:33:00 GMT",
         "first_seen": "2026-03-12T23:32:21.042319"
+      },
+      "4b609770787e4ec99687ca728a646e538d729d66b7067d4605003588794ceb9c": {
+        "title": "2026-03-13日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-13/",
+        "published_date": "Fri, 13 Mar 2026 09:30:00 GMT",
+        "first_seen": "2026-03-13T05:53:02.125775"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-12T23:31:50.558593",
-    "Finance": "2026-03-12T23:32:07.425980",
-    "Ai": "2026-03-12T23:32:21.042320"
+    "Technology": "2026-03-13T05:52:49.517979",
+    "Finance": "2026-03-13T05:53:01.972024",
+    "Ai": "2026-03-13T05:53:02.125783"
   }
 }

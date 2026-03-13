@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Mar 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 23:32:21 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 05:51:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:53:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>对话VAST曹炎培：2秒才是3D生成本该有的速度</title>
-      <link>https://www.qbitai.com/2026/03/386717.html</link>
-      <description>&lt;![CDATA[对话VAST曹炎培：2秒才是3D生成本该有的速度]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386717.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Protecting cities with AI-driven flash flood forecasting</title>
-      <link>https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/</link>
-      <description>&lt;![CDATA[Protecting cities with AI-driven flash flood forecasting]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 13:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Introducing Groundsource: Turning news reports into data with Gemini</title>
-      <link>https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/</link>
-      <description>&lt;![CDATA[Introducing Groundsource: Turning news reports into data with Gemini]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全网首份「龙虾」安全部署指南来了！360出品</title>
-      <link>https://www.qbitai.com/2026/03/386707.html</link>
-      <description>&lt;![CDATA[全网首份「龙虾」安全部署指南来了！360出品]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386707.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法</title>
-      <link>https://www.qbitai.com/2026/03/386668.html</link>
-      <description>&lt;![CDATA[卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/386668.html</guid>
+      <title>2026-03-13日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-13/</link>
+      <description>&lt;![CDATA[2026-03-13日刊]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-13/</guid>
       <category>Ai</category>
     </item>
   </channel>

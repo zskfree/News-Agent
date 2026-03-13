@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 23:31
+**最后更新时间**: 2026-03-13 05:52
+
+---
+
+## 🆕 最新更新 (2026-03-13 05:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf states lose $15bn in energy revenues since start of war](https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae)
+**发布时间**: 2026-03-13 05:00
+
+#### [The Iranian school bombing and the information war](https://www.ft.com/content/c0d36dc5-9668-4607-bccb-3c423e6d3865)
+**发布时间**: 2026-03-13 05:00
+
+#### [Iran is playing a long game](https://www.ft.com/content/93b7b65d-074b-4e8b-807f-5c27c7362213)
+**发布时间**: 2026-03-13 05:00
+
+#### [Ultra-short-term bets add ‘even more mania’ to crypto trading](https://www.ft.com/content/af1f4bba-f129-499d-96b6-d85d30083df5)
+**发布时间**: 2026-03-13 05:00
+
+#### [Stranded travellers charter private jets to return to Europe](https://www.ft.com/content/e93618d4-bd2f-4b1f-a670-145b3c25015c)
+**发布时间**: 2026-03-13 05:00
+
+#### [Iran war tests Xi’s plan to build China’s stockpiles](https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87)
+**发布时间**: 2026-03-13 04:35
+
+#### [US targets UK, EU and Canada in new round of tariff probes](https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2)
+**发布时间**: 2026-03-13 02:54
+
+#### [US to ease Russian oil sanctions as energy prices soar](https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe)
+**发布时间**: 2026-03-13 00:31
+
+#### [US has burned through ‘years’ of munitions since start of Iran war](https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5)
+**发布时间**: 2026-03-12 23:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rivian is fulfilling its promise to launch a $45,000 EV, but there’s a catch](https://www.marketwatch.com/story/rivian-is-fulfilling-its-promise-to-launch-a-45-000-ev-but-theres-a-catch-598d33d0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 02:43
+
+#### [Netflix is spending up to $600 million to buy Ben Affleck’s AI startup. What exactly is it buying?](https://www.marketwatch.com/story/netflix-is-spending-up-to-600-million-to-buy-ben-afflecks-ai-startup-what-exactly-is-it-buying-8435f02e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 00:34
 
 ---
 

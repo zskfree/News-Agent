@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Mar 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 23:31:50 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 05:52:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:52:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点</title>
-      <link>https://www.tmtpost.com/7910747.html</link>
-      <description>&lt;![CDATA[黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 19:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7910747.html</guid>
+      <title>从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径</title>
+      <link>https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为啥都说美国袭击伊朗是“AI战争”的序幕？</title>
-      <link>http://www.huxiu.com/article/4841080.html?f=wangzhan</link>
-      <description>&lt;![CDATA[为啥都说美国袭击伊朗是“AI战争”的序幕？]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 11:50:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4841080.html?f=wangzhan</guid>
+      <title>Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构</title>
+      <link>https://www.infoq.cn/article/pogJ0jrHtNfQ7yrBNweE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pogJ0jrHtNfQ7yrBNweE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026年，为什么他们还在狂投人形机器人？</title>
-      <link>https://www.tmtpost.com/7910469.html</link>
-      <description>&lt;![CDATA[2026年，为什么他们还在狂投人形机器人？]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 12:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7910469.html</guid>
+      <title>维持16年的30%抽成税终于下调，苹果在中国第一次退让</title>
+      <link>https://www.tmtpost.com/7912549.html</link>
+      <description>&lt;![CDATA[维持16年的30%抽成税终于下调，苹果在中国第一次退让]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7912549.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？</title>
-      <link>https://www.tmtpost.com/7911362.html</link>
-      <description>&lt;![CDATA[“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7911362.html</guid>
+      <title>Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫</title>
+      <link>https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>花大钱，赶晚集？错过 OpenClaw后，Meta 紧急买下 Moltbook</title>
-      <link>https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[花大钱，赶晚集？错过 OpenClaw后，Meta 紧急买下 Moltbook]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Google 为 Gemini CLI Conductor 推出自动化代码评审功能</title>
+      <link>https://www.infoq.cn/article/BuXP90QohCudfPX5Q2Zw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google 为 Gemini CLI Conductor 推出自动化代码评审功能]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BuXP90QohCudfPX5Q2Zw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

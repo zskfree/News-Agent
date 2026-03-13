@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 23:31
+**最后更新时间**: 2026-03-13 05:52
+
+---
+
+## 🆕 最新更新 (2026-03-13 05:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯回应OpenClaw创始人质疑，并推出龙虾安全工具箱](https://www.infoq.cn/article/89QciXJpHFgMp2gvCS3C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 13:27
+
+#### [从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径](https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 11:14
+
+#### [Vue Router 5：将文件式路由整合进核心，且不引入破坏性变更](https://www.infoq.cn/article/9bjvHNljpbgKEwwUu6Nl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 11:00
+
+#### [18 岁创业者用 OpenClaw 管 16 个 AI Agent，一个人的 Agent 公司怎么运转](https://www.infoq.cn/article/4sQ3okmbEVqbl8GMZj4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:25
+
+#### [新研究重新评估AGENTS.md文件在AI编码中的价值](https://www.infoq.cn/article/IoNg3mSbIMVYNSxLjjYD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:20
+
+#### [Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫](https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:10
+
+#### [Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构](https://www.infoq.cn/article/pogJ0jrHtNfQ7yrBNweE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:08
+
+#### [OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon北京](https://www.infoq.cn/article/AyCYbOWywTf6VwGmSvSP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:03
+
+#### [Google 为 Gemini CLI Conductor 推出自动化代码评审功能](https://www.infoq.cn/article/BuXP90QohCudfPX5Q2Zw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 10:00
+
+#### [26 年 IDE 老厂押注 Agent 编排：JetBrains 公开预览 AI IDE Air](https://www.infoq.cn/article/feSV9dcs3V8amUQyJYN7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-13 09:14
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄仁勋的那句预言 ，真的在苹果税上应验了](https://www.tmtpost.com/7912574.html)
+**发布时间**: 2026-03-13 12:03
+
+#### [别太神话AI龙虾](https://www.tmtpost.com/7912552.html)
+**发布时间**: 2026-03-13 12:01
+
+#### [维持16年的30%抽成税终于下调，苹果在中国第一次退让](https://www.tmtpost.com/7912549.html)
+**发布时间**: 2026-03-13 12:01
+
+#### [2026：零售业出现宁波现象](https://www.tmtpost.com/7912547.html)
+**发布时间**: 2026-03-13 12:01
+
+#### [“龙虾”肆虐，小红书打响“保卫战”](https://www.tmtpost.com/7912550.html)
+**发布时间**: 2026-03-13 11:59
+
+#### [外卖大战一周年：硝烟和补贴都没了，只剩不够AI的美团](https://www.tmtpost.com/7912548.html)
+**发布时间**: 2026-03-13 11:59
+
+#### [政策破冰100天，酒店REITs迈入群雄逐鹿时代](https://www.tmtpost.com/7912539.html)
+**发布时间**: 2026-03-13 11:56
+
+#### [马斯克3小时密谈：2026跨越奇点，人类只是AI的“碳基启动盘”](https://www.tmtpost.com/7912538.html)
+**发布时间**: 2026-03-13 11:53
+
+#### [城堡里的“雪王”与“老钱洋房”里的瑞幸](https://www.tmtpost.com/7909787.html)
+**发布时间**: 2026-03-13 11:25
+
+#### [北斗产业5年破万亿，哪里来？怎么迈？](https://www.tmtpost.com/7911372.html)
+**发布时间**: 2026-03-13 11:24
+
+#### [AI内容泛滥，“倒逼”长视频迎来“第二春”？](https://www.tmtpost.com/7912475.html)
+**发布时间**: 2026-03-13 11:24
+
+#### [蔚来终于盈利，李斌能开香槟了吗](https://www.tmtpost.com/7912464.html)
+**发布时间**: 2026-03-13 11:23
+
+#### [警惕「AI替代人类」联手「经济下行」搞事情](https://www.tmtpost.com/7912450.html)
+**发布时间**: 2026-03-13 11:21
+
+#### [最新一篇博客背后，黄仁勋的深度思考](https://www.tmtpost.com/7912387.html)
+**发布时间**: 2026-03-13 11:21
+
+#### [Token出海里程碑：中国AI势力，燃成了“舍利子”](https://www.tmtpost.com/7912448.html)
+**发布时间**: 2026-03-13 11:19
+
+#### [“龙虾”风暴：AI不拼智商拼动手，市场不炒概念看落地](https://www.tmtpost.com/7912013.html)
+**发布时间**: 2026-03-13 11:19
+
+#### [AI制药的技术奇点与产业拐点](https://www.tmtpost.com/7912241.html)
+**发布时间**: 2026-03-13 11:18
+
+#### [这场战争对AI数据中心的长期影响，可能被低估了？](https://www.tmtpost.com/7912340.html)
+**发布时间**: 2026-03-13 11:11
+
+#### [收回品牌授权，钓鱼台要与美高梅“分手”？](https://www.tmtpost.com/7912249.html)
+**发布时间**: 2026-03-13 11:11
+
+#### [同是“起死回生”，蔚来与小鹏孰美？](https://www.tmtpost.com/7911403.html)
+**发布时间**: 2026-03-13 11:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜在镜头前翻翻页，你就得到了一本电子书](https://sspai.com/post/106935)
+**发布时间**: 2026-03-13 11:00
+
+#### [314 周年庆：少数派软件、会员、栏目限时优惠](https://sspai.com/post/107091)
+**发布时间**: 2026-03-13 10:05
+
+#### [派早报：Apple 宣布下调中国区 App Store 佣金率](https://sspai.com/post/107158)
+**发布时间**: 2026-03-13 08:46
 
 ---
 
