@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a2c82b043127cfaefac1808da602246ecfd40dcc8e5a8beb0e0fc727af453d44": {
-        "title": "Google AI负责人Hassabis披露AGI四步计划：模型大一统与世界模拟成核心",
-        "link": "https://www.tmtpost.com/7876480.html",
-        "published_date": "Wed, 11 Feb 2026 19:27:00 GMT",
-        "first_seen": "2026-02-11T23:35:34.576460"
-      },
-      "8393c402063f2683621d7a35b1285180440e6359503749b46439779382b693d3": {
-        "title": "传字节今年要造10万颗推理芯片，1600 亿预算砸向AI！",
-        "link": "https://www.infoq.cn/article/AradpbWZZoiWVmehvBLB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Feb 2026 17:40:00 GMT",
-        "first_seen": "2026-02-11T23:35:34.576467"
-      },
-      "0db74dbe567085e0e60f58f231258a4277049726873b7b1b2f474b0fdd4e373e": {
-        "title": "从多模态走向全模态！蚂蚁开源 Ming-Flash-Omni 2.0，对标Gemini 2.5 Pro",
-        "link": "https://www.infoq.cn/article/d9TEFiU7kq8EKCIodTmI?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Feb 2026 17:31:00 GMT",
-        "first_seen": "2026-02-11T23:35:34.576469"
-      },
-      "623cca7ca42326ca075f509517aba0ab48fb628889a6111a9a554a973332b5c4": {
-        "title": "谷歌AI拒生迪士尼角色：版权博弈引发行业连锁反应",
-        "link": "https://www.tmtpost.com/7876610.html",
-        "published_date": "Wed, 11 Feb 2026 19:50:00 GMT",
-        "first_seen": "2026-02-11T23:35:34.576471"
-      },
-      "8cc62fb28cbc3a6d1ef23759744c283941a2f2d685089e40644a79c6af17e529": {
-        "title": "【钛晨报】完善全国统一电力市场体系，国办最新部署；微信1月更新9项功能，删好友可保留聊天记录；谷歌天价收购加码云计算，欧盟批准其320亿美元收购Wiz",
-        "link": "https://www.tmtpost.com/7876719.html",
-        "published_date": "Thu, 12 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-11T23:35:34.576472"
-      },
       "f084ede2746eb389b29552b25c3f1a2964915f74aed0b4f215f231f5db014b77": {
         "title": "3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点",
         "link": "https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7912387.html",
         "published_date": "Fri, 13 Mar 2026 11:21:00 GMT",
         "first_seen": "2026-03-13T23:31:11.190928"
+      },
+      "11f0d5372af5cf611800132224c770c3ca76a26c05aae768fbac86d51eee9d70": {
+        "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
+        "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.721769"
+      },
+      "54b04b9881300b4129184bb48521c944fe2cbe88e016a8f65e1464db290920a1": {
+        "title": "马拉比中国行解密DeepMind：哈萨比斯错失大模型先机的真相",
+        "link": "https://www.tmtpost.com/7913014.html",
+        "published_date": "Sat, 14 Mar 2026 09:51:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.721778"
+      },
+      "e9d7f2eece4e1db1827d2506d47387527fe6875ac3935182cf2b7082179a991f": {
+        "title": "AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态",
+        "link": "https://www.tmtpost.com/7914173.html",
+        "published_date": "Sat, 14 Mar 2026 12:54:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.721780"
+      },
+      "8c3e892f89d8c3914c2fec816cfb85854bb99b3194f88e2d79ab9b2e6a0104c0": {
+        "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
+        "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.721782"
+      },
+      "320789be9e46d70ac65bb2eb1cef50af35cd5e840300f2735937f537dd3f22d8": {
+        "title": "数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？",
+        "link": "https://www.tmtpost.com/7914134.html",
+        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.721784"
       }
     },
     "Finance": {
-      "297c020515f9413368c2fe1cf9b74bd48060170836217b0c2515f1c162e82bb6": {
-        "title": "US economy far outstrips expectations to add 130,000 jobs in January",
-        "link": "https://www.ft.com/content/a369333a-41b5-4e55-8e6e-cb04bb0f2e9f",
-        "published_date": "Wed, 11 Feb 2026 19:56:00 GMT",
-        "first_seen": "2026-02-11T23:35:01.654383"
-      },
-      "d680ac50f5303f50de73fdf711eda94d06aafe07e0523bf68f2b7d283a40e213": {
-        "title": "Stocks have turned volatile despite strong January jobs report. Here’s why investors aren’t happy.",
-        "link": "https://www.marketwatch.com/story/why-investors-arent-loving-this-january-jobs-report-dcc240e5?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Feb 2026 21:33:00 GMT",
-        "first_seen": "2026-02-11T23:35:01.654392"
-      },
-      "4e71f195359a71c94f181d29b06cecdf934122a75c72fcd67f8b171c03dae963": {
-        "title": "Why Elliott bet that LSEG could weather AI storm",
-        "link": "https://www.ft.com/content/a64f45cb-31f1-4aa0-8471-d7f083358b51",
-        "published_date": "Wed, 11 Feb 2026 19:46:00 GMT",
-        "first_seen": "2026-02-11T23:35:01.654395"
-      },
-      "b7da33888d6343dda2fe8edff65327e5201ab822dcd6160766059c504c5b16ba": {
-        "title": "Shares in UK wealth managers hit as AI contagion spreads",
-        "link": "https://www.ft.com/content/5904b66f-2144-44d7-af24-66c075677d92",
-        "published_date": "Wed, 11 Feb 2026 21:28:00 GMT",
-        "first_seen": "2026-02-11T23:35:01.654396"
-      },
-      "449f5f52dfbfcbb8ed3e9eab95b1fd1ba2bb627cc853bff911a7db69b8a17cf8": {
-        "title": "Reeves to limit deregulatory drive as she seeks closer UK ties with EU",
-        "link": "https://www.ft.com/content/98e57c0e-3050-40d0-92c4-f245d0f29496",
-        "published_date": "Wed, 11 Feb 2026 19:24:00 GMT",
-        "first_seen": "2026-02-11T23:35:01.654398"
-      },
       "d252b0dcb1b4eaf9c3907d3e9f5b7940663c5967a5e64a9fca3b0dac6dddcec2": {
         "title": "How private equity’s big bet on software got derailed by AI",
         "link": "https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95",
@@ -4653,39 +4623,21 @@
         "link": "https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories",
         "published_date": "Fri, 13 Mar 2026 21:08:00 GMT",
         "first_seen": "2026-03-13T23:31:31.221123"
+      },
+      "dafc0a218d7d2df3eef73a16b1a81bb3d5336d5535425b7ada13a0d16ba44cfe": {
+        "title": "Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island",
+        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
+        "published_date": "Fri, 13 Mar 2026 23:53:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.756585"
+      },
+      "8719c95e1128206af0e78a25a1b6b60ce2bfa21dd6c9ace7ea7b5e1becf24d48": {
+        "title": "Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says",
+        "link": "https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d",
+        "published_date": "Fri, 13 Mar 2026 23:36:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.756592"
       }
     },
     "Ai": {
-      "4f249789fb4720354e3d4212060b80812457973f859d7f612e143a98b89e8cd9": {
-        "title": "2025具身智能创投全景：554亿热钱，4大估值梯队，10亿元现金流门槛｜量子位智库报告",
-        "link": "https://www.qbitai.com/2026/02/378674.html",
-        "published_date": "Wed, 11 Feb 2026 13:34:00 GMT",
-        "first_seen": "2026-02-11T23:35:11.409017"
-      },
-      "dcb9d9f9400de5249d1d62ad39226f5b252b9933c9323e03c6e1c67002a8f091": {
-        "title": "9B端侧开源模型跑通百万上下文，面壁全新稀疏-线性混合注意力架构SALA立功了！",
-        "link": "https://www.qbitai.com/2026/02/378512.html",
-        "published_date": "Wed, 11 Feb 2026 13:06:00 GMT",
-        "first_seen": "2026-02-11T23:35:11.409023"
-      },
-      "64372574232133e7b4344650b0f49671d5f0cd39a6818fa1b3566e1ed0b7f26b": {
-        "title": "马斯克xAI再失联合创始人，12人创始团队已有6人离场",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-10",
-        "published_date": "Wed, 11 Feb 2026 17:16:00 GMT",
-        "first_seen": "2026-02-11T23:35:11.409025"
-      },
-      "46ba1ad2d3b65b324343e63b5a0040cc35e1faa0d0f7480c28606ea1c997b63c": {
-        "title": "神仙打架+1！讯飞星火X2硬核亮相，行业深度全面升级",
-        "link": "https://www.qbitai.com/2026/02/378796.html",
-        "published_date": "Wed, 11 Feb 2026 15:46:00 GMT",
-        "first_seen": "2026-02-11T23:35:11.409026"
-      },
-      "67a8674d7913e6b4938cb977f4ddf8e884b9dc850d357a3a6671be57ab45e935": {
-        "title": "复刻、长语音、对话、指令、音效全覆盖！模思智能推出MOSS-TTS Family！",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-11-9",
-        "published_date": "Wed, 11 Feb 2026 17:13:00 GMT",
-        "first_seen": "2026-02-11T23:35:11.409028"
-      },
       "8702ccd7754ea5e369468d03ee4ded59d00a667e584c502c60c1c7e6e1c8d044": {
         "title": "字节发布Seedance 2.0，豆包、即梦官宣接入",
         "link": "https://www.jiqizhixin.com/articles/2026-02-12",
@@ -6083,13 +6035,19 @@
         "link": "https://www.qbitai.com/2026/03/387405.html",
         "published_date": "Fri, 13 Mar 2026 08:59:00 GMT",
         "first_seen": "2026-03-13T23:31:31.389092"
+      },
+      "87d416b0416d1d90972ec8630e6a764dbe020220a2dee8c5ca5506b39aa2dcc4": {
+        "title": "2026-03-14日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-14/",
+        "published_date": "Sat, 14 Mar 2026 09:23:00 GMT",
+        "first_seen": "2026-03-14T05:49:00.901888"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-13T23:31:11.190930",
-    "Finance": "2026-03-13T23:31:31.221126",
-    "Ai": "2026-03-13T23:31:31.389093"
+    "Technology": "2026-03-14T05:49:00.721786",
+    "Finance": "2026-03-14T05:49:00.756595",
+    "Ai": "2026-03-14T05:49:00.901896"
   }
 }

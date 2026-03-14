@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 23:31:31 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 05:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 05:49:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates</title>
-      <link>https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf</link>
-      <description>&lt;![CDATA[Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 20:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf</guid>
+      <title>Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island</title>
+      <link>https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</link>
+      <description>&lt;![CDATA[Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 23:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.</title>
-      <link>https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 20:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Wall Street warns Iran war will trigger prolonged energy crisis</title>
-      <link>https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2</link>
-      <description>&lt;![CDATA[Wall Street warns Iran war will trigger prolonged energy crisis]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia prepares AI ‘inference’ chip launch to counter rising challengers</title>
-      <link>https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf</link>
-      <description>&lt;![CDATA[Nvidia prepares AI ‘inference’ chip launch to counter rising challengers]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Warren Buffett’s sage advice about fear and greed is a trap in this market</title>
-      <link>https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Warren Buffett’s sage advice about fear and greed is a trap in this market]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 21:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories</guid>
+      <title>Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says</title>
+      <link>https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d</link>
+      <description>&lt;![CDATA[Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says]]&gt;</description>
+      <pubDate>Fri, 13 Mar 2026 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d</guid>
       <category>Finance</category>
     </item>
   </channel>

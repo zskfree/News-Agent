@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Mar 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 23:31:11 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 05:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 05:49:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表</title>
-      <link>https://www.tmtpost.com/7912730.html</link>
-      <description>&lt;![CDATA[实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7912730.html</guid>
+      <title>规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀</title>
+      <link>https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI</title>
-      <link>https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马拉比中国行解密DeepMind：哈萨比斯错失大模型先机的真相</title>
+      <link>https://www.tmtpost.com/7913014.html</link>
+      <description>&lt;![CDATA[马拉比中国行解密DeepMind：哈萨比斯错失大模型先机的真相]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7913014.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从概念到产线：具身智能真正卡在哪？</title>
-      <link>https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从概念到产线：具身智能真正卡在哪？]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态</title>
+      <link>https://www.tmtpost.com/7914173.html</link>
+      <description>&lt;![CDATA[AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914173.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？</title>
-      <link>https://www.tmtpost.com/7913403.html</link>
-      <description>&lt;![CDATA[核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7913403.html</guid>
+      <title>亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持</title>
+      <link>https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>最新一篇博客背后，黄仁勋的深度思考</title>
-      <link>https://www.tmtpost.com/7912387.html</link>
-      <description>&lt;![CDATA[最新一篇博客背后，黄仁勋的深度思考]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7912387.html</guid>
+      <title>数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？</title>
+      <link>https://www.tmtpost.com/7914134.html</link>
+      <description>&lt;![CDATA[数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914134.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-13 23:30
+**最后更新时间**: 2026-03-14 05:48
+
+---
+
+## 🆕 最新更新 (2026-03-14 05:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-13 23:53
+
+#### [Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says](https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d)
+**发布时间**: 2026-03-13 23:36
+
+#### [Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+**发布时间**: 2026-03-13 15:36
+
+#### [How Iran’s fightback surprised the US](https://www.ft.com/content/0c085046-6cfa-4832-a764-d79f41225b1f)
+**发布时间**: 2026-03-13 13:00
 
 ---
 
