@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "57766618922d7cf95e7b562d54acbbd0962bcf63243d805c84138f6047878bf2": {
-        "title": "OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等",
-        "link": "https://www.tmtpost.com/7877920.html",
-        "published_date": "Thu, 12 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-12T08:52:15.359794"
-      },
-      "380d37ef03da842f7ea41631c1b38235a2997fdaf89cd4994f0c22dd6bf4ac83": {
-        "title": "谷歌为 Gemini 3 Flash 推出 Agentic Vision 功能",
-        "link": "https://www.infoq.cn/article/2WMVYZUZHPArVTCUZzc4?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 10:17:00 GMT",
-        "first_seen": "2026-02-12T08:52:15.359801"
-      },
-      "70960045f08eed1117249213929e7dc3df3be8afbdb78e480be3b4bdec4c961b": {
-        "title": "GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531253&idx=1&sn=80ea73ef5bf292b8a671c73f75cc33fc",
-        "published_date": "Thu, 12 Feb 2026 15:03:00 GMT",
-        "first_seen": "2026-02-12T08:52:15.359803"
-      },
-      "fc5159484c7d533df950c919c7f157b477958748d81655f20e38a8e6a93aeeb0": {
-        "title": "Shopify: 业绩不俗却暴跌，电商 Agent 到底是灵丸还是毒药？",
-        "link": "https://www.tmtpost.com/7877364.html",
-        "published_date": "Thu, 12 Feb 2026 14:14:00 GMT",
-        "first_seen": "2026-02-12T08:52:15.359805"
-      },
-      "bf7dc27892af57d63227c885022543c100b74b6ec44dcea76d8edca9eaa785e5": {
-        "title": "从告警疲劳到代理辅助的智能可观测性",
-        "link": "https://www.infoq.cn/article/6UIpbWJ5TWjcIyJmMAPE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 10:09:00 GMT",
-        "first_seen": "2026-02-12T08:52:15.359807"
-      },
       "6cdefc2a658decd31c0c64f438a0edf183af1637a3418a7570113ae7e7639567": {
         "title": "“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制",
         "link": "https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&utm_medium=article",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7913772.html",
         "published_date": "Sat, 14 Mar 2026 11:48:00 GMT",
         "first_seen": "2026-03-14T08:38:42.853553"
+      },
+      "af126e08b4870774a2914e5a5f05210f202f7032da4f08dee1a685d187aab20f": {
+        "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
+        "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Mar 2026 23:19:00 GMT",
+        "first_seen": "2026-03-14T23:30:48.082697"
+      },
+      "d81eba4095823b15403cbab41296d5baf2d39220da6c20d5ecb3905ef97c8d6b": {
+        "title": "Block员工拒绝加薪留任：AI是吞噬岗位的反乌托邦",
+        "link": "https://www.tmtpost.com/7914244.html",
+        "published_date": "Sat, 14 Mar 2026 19:03:00 GMT",
+        "first_seen": "2026-03-14T23:30:48.082709"
+      },
+      "eef734ad7959ae29d8a9c43d94986e073ea41dccfdb15f42b26c64a66e65f9ee": {
+        "title": "第一批养虾人开始卸载龙虾！账单三天三千，全盘权限沦为黑客“自助餐”",
+        "link": "https://www.tmtpost.com/7914258.html",
+        "published_date": "Sat, 14 Mar 2026 19:02:00 GMT",
+        "first_seen": "2026-03-14T23:30:48.082712"
+      },
+      "a3ef60d32bfac8e5aab9fbe2a3fa3449e5578e5eb808ead1b949e4e3bd9757d7": {
+        "title": "AI神器三件套，坑哭多少年轻人？| 关注“315”",
+        "link": "https://www.tmtpost.com/7914209.html",
+        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
+        "first_seen": "2026-03-14T23:30:48.082715"
+      },
+      "e3568d402ad9719d38796c2aa0e3fab2de3cea420feb2006ebdf6c1be2c495b9": {
+        "title": "港交所拟进一步改革：所有公司都可秘密递表，“同股不同权”上市门槛腰斩至200亿港元",
+        "link": "https://www.tmtpost.com/7914132.html",
+        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
+        "first_seen": "2026-03-14T23:30:48.082717"
       }
     },
     "Finance": {
-      "b4b6b080562a66dd39520cf817d84ed43d276668de5f7146b641f63917018a84": {
-        "title": "One of Europe’s few growth stocks falters on disappointing outlook",
-        "link": "https://www.marketwatch.com/story/one-of-europes-few-growth-stocks-falters-on-disappointing-outlook-68d911f3?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Feb 2026 08:50:00 GMT",
-        "first_seen": "2026-02-12T08:51:33.555008"
-      },
-      "59e6ba37abb4d38ec17c2f9f2ac1c63d4aabc307718af1a1de0c7636554be56c": {
-        "title": "A 222-year-old U.K. firm to fall into American hands as Nuveen to buy Schroders for $14 billion",
-        "link": "https://www.marketwatch.com/story/a-222-year-old-u-k-firm-to-fall-into-american-hands-as-nuveen-to-buy-schroders-for-14-billion-f49f56cc?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Feb 2026 08:26:00 GMT",
-        "first_seen": "2026-02-12T08:51:33.555016"
-      },
-      "d068a13b982edd8831b4767ffc6d8668498d8368d180364d78770ddb59e95ff3": {
-        "title": "Schroders agrees £9.9bn takeover by US investment manager Nuveen",
-        "link": "https://www.ft.com/content/17b8a2e7-e5bd-4dca-8e3a-45435d3162ad",
-        "published_date": "Thu, 12 Feb 2026 08:37:00 GMT",
-        "first_seen": "2026-02-12T08:51:33.555018"
-      },
-      "7f98a7bf8f40244d6d646eca8f7787843c908f085e92c7ad225eeb4dd059e8e9": {
-        "title": "UK trade deficit for goods hits record high in 2025",
-        "link": "https://www.ft.com/content/870d3538-a4e1-4398-9e28-a8c3f061a200",
-        "published_date": "Thu, 12 Feb 2026 07:52:00 GMT",
-        "first_seen": "2026-02-12T08:51:33.555020"
-      },
-      "0174f589b4891248c300c7e46944659da0b94b52dc7092c3eccc37e886d11c0c": {
-        "title": "UK economy undershot expectations to grow by 0.1% in final quarter of 2025",
-        "link": "https://www.ft.com/content/8d77df48-ae4f-4c14-be04-13406221db48",
-        "published_date": "Thu, 12 Feb 2026 07:25:00 GMT",
-        "first_seen": "2026-02-12T08:51:33.555022"
-      },
       "54ae2bcfddc0e02d377bffa8813016cd84003fbfa4ed88e6b8915cdc9ff76f22": {
         "title": "Why the AI attack on software has unnerved so many industries",
         "link": "https://www.ft.com/content/39c5a2d4-01d0-46ce-8943-0591ff9ee77e",
@@ -4611,39 +4581,39 @@
         "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
         "published_date": "Sat, 14 Mar 2026 07:24:00 GMT",
         "first_seen": "2026-03-14T08:38:42.890647"
+      },
+      "f0b6402ed636423e398737108a9dd4631ede5b325f4b0d4a9941132cd67300b2": {
+        "title": "Trump seeks help from China and UK to reopen Strait of Hormuz",
+        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
+        "published_date": "Sat, 14 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.125211"
+      },
+      "95e0a20bd7e46485bfc865ac91c1a656ac5a5cda77b6f5f2167a4204dcdb7484": {
+        "title": "Why has Trump left Iran’s nuclear stockpile untouched?",
+        "link": "https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc",
+        "published_date": "Sat, 14 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.125219"
+      },
+      "b329b35f9e8e7db45723a90cd9bf5dde01378c96245863f0a4be2154ab6c61b3": {
+        "title": "US oil groups in line for $63bn windfall from Gulf disruption",
+        "link": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204",
+        "published_date": "Sat, 14 Mar 2026 21:31:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.125222"
+      },
+      "c7c04a1801c2de41ba67710d3755dd797ca8f79b6fff54c97276512825ae4db1": {
+        "title": "Why oil probably won’t go to $150 a barrel",
+        "link": "https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Mar 2026 18:02:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.125224"
+      },
+      "aa4625f7a022ac70385313578abf62c45f8616f02e5f9ada419cc753b1a22a9c": {
+        "title": "11 stocks to harden your portfolio against Iran risk",
+        "link": "https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Mar 2026 18:42:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.125226"
       }
     },
     "Ai": {
-      "ed42bc2e92fbf08dd6d0f2b84bf9ce8f892ba856651408938de45a5cafd65a48": {
-        "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-7",
-        "published_date": "Thu, 12 Feb 2026 15:08:00 GMT",
-        "first_seen": "2026-02-12T08:51:50.659200"
-      },
-      "399fbf2d85d40b4f39a711c6ebd1aad9e6241515cb58082fafd2982b4fbabf09": {
-        "title": "刚刚，MOSS孙天祥创业，直播AI4AI大规模科研",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-6",
-        "published_date": "Thu, 12 Feb 2026 15:02:00 GMT",
-        "first_seen": "2026-02-12T08:51:50.659206"
-      },
-      "ada6bdd9ff80ab6f096223590271f5f9422c6bf62d9a80de7a40292e06b3bb30": {
-        "title": "高德发布两款ABot系列基座模型，达成全球首个具身操作和具身导航”双SOTA”",
-        "link": "https://www.qbitai.com/2026/02/378843.html",
-        "published_date": "Thu, 12 Feb 2026 07:23:00 GMT",
-        "first_seen": "2026-02-12T08:51:50.659208"
-      },
-      "d8b05fb1328038ac6b7b6b6c6840afa0b571093e7efc92510bfe7fefe8bb6217": {
-        "title": "速度提升，能力却暴跌？扩散模型做智能体的残酷真相",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-5",
-        "published_date": "Thu, 12 Feb 2026 14:52:00 GMT",
-        "first_seen": "2026-02-12T08:51:50.659210"
-      },
-      "0759f2c8efcedafd440af221690918b4591216aaf59bd0ff8b4f1cc458562580": {
-        "title": "当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-3",
-        "published_date": "Thu, 12 Feb 2026 14:12:00 GMT",
-        "first_seen": "2026-02-12T08:51:50.659211"
-      },
       "0c0e80702372ddb4be7306cc861e9e5217aec33512447a8b52801d4601a2795b": {
         "title": "走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则",
         "link": "https://www.jiqizhixin.com/articles/2026-02-12-4",
@@ -6017,13 +5987,43 @@
         "link": "https://www.qbitai.com/2026/03/387756.html",
         "published_date": "Sat, 14 Mar 2026 06:25:00 GMT",
         "first_seen": "2026-03-14T08:38:43.044724"
+      },
+      "f314da8891dba7fb0c95db5ac2fdc18b69005dfd93710babc79131fb5a3d16b0": {
+        "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
+        "link": "https://www.qbitai.com/2026/03/387921.html",
+        "published_date": "Sat, 14 Mar 2026 13:32:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.258608"
+      },
+      "47119ba61b246bd20a02eddbb8729caab2b1e412b33188126830fd551649c6ac": {
+        "title": "AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”",
+        "link": "https://www.qbitai.com/2026/03/387915.html",
+        "published_date": "Sat, 14 Mar 2026 12:45:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.258615"
+      },
+      "1d840d0e088aa7bb292f692f680c13bca5242ad1b9468490d00a57a94be1c804": {
+        "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
+        "link": "https://www.qbitai.com/2026/03/387867.html",
+        "published_date": "Sat, 14 Mar 2026 10:48:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.258617"
+      },
+      "5c97bfd4ea444f2f3ea0b0bbd2bde0f1a795ca4bf772b154806ed7644e3f35c3": {
+        "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
+        "link": "https://www.qbitai.com/2026/03/387860.html",
+        "published_date": "Sat, 14 Mar 2026 10:32:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.258619"
+      },
+      "77e6219f7f07c987968bf108815d236d198acad97b5677020b837b05a17233ce": {
+        "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
+        "link": "https://www.qbitai.com/2026/03/387843.html",
+        "published_date": "Sat, 14 Mar 2026 08:56:00 GMT",
+        "first_seen": "2026-03-14T23:31:04.258620"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-14T08:38:42.853555",
-    "Finance": "2026-03-14T08:38:42.890655",
-    "Ai": "2026-03-14T08:38:43.044726"
+    "Technology": "2026-03-14T23:30:48.082719",
+    "Finance": "2026-03-14T23:31:04.125229",
+    "Ai": "2026-03-14T23:31:04.258622"
   }
 }

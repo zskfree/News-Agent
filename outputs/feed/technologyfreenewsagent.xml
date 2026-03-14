@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Mar 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2026 08:38:42 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:30:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宁德时代不想只卖电池了：722亿利润背后的转型信号</title>
-      <link>https://www.tmtpost.com/7914219.html</link>
-      <description>&lt;![CDATA[宁德时代不想只卖电池了：722亿利润背后的转型信号]]&gt;</description>
+      <title>Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制</title>
+      <link>https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 23:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Block员工拒绝加薪留任：AI是吞噬岗位的反乌托邦</title>
+      <link>https://www.tmtpost.com/7914244.html</link>
+      <description>&lt;![CDATA[Block员工拒绝加薪留任：AI是吞噬岗位的反乌托邦]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914244.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>第一批养虾人开始卸载龙虾！账单三天三千，全盘权限沦为黑客“自助餐”</title>
+      <link>https://www.tmtpost.com/7914258.html</link>
+      <description>&lt;![CDATA[第一批养虾人开始卸载龙虾！账单三天三千，全盘权限沦为黑客“自助餐”]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914258.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI神器三件套，坑哭多少年轻人？| 关注“315”</title>
+      <link>https://www.tmtpost.com/7914209.html</link>
+      <description>&lt;![CDATA[AI神器三件套，坑哭多少年轻人？| 关注“315”]]&gt;</description>
       <pubDate>Sat, 14 Mar 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914219.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914209.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺</title>
-      <link>https://www.tmtpost.com/7914242.html</link>
-      <description>&lt;![CDATA[大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914242.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>为什么你能感觉到烫、痒、疼？中科院神经所窦艳侬/孙衍刚团队首次绘制完整脊髓投射神经元图谱</title>
-      <link>https://www.tmtpost.com/7913917.html</link>
-      <description>&lt;![CDATA[为什么你能感觉到烫、痒、疼？中科院神经所窦艳侬/孙衍刚团队首次绘制完整脊髓投射神经元图谱]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7913917.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“AI教母”李飞飞：2年干出350亿，英伟达、AMD抢着送钱</title>
-      <link>https://www.tmtpost.com/7914027.html</link>
-      <description>&lt;![CDATA[“AI教母”李飞飞：2年干出350亿，英伟达、AMD抢着送钱]]&gt;</description>
+      <title>港交所拟进一步改革：所有公司都可秘密递表，“同股不同权”上市门槛腰斩至200亿港元</title>
+      <link>https://www.tmtpost.com/7914132.html</link>
+      <description>&lt;![CDATA[港交所拟进一步改革：所有公司都可秘密递表，“同股不同权”上市门槛腰斩至200亿港元]]&gt;</description>
       <pubDate>Sat, 14 Mar 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914027.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>揭秘腾讯“龙虾特攻队”：火爆的线下装机复盘以及如何守住安全红线？</title>
-      <link>https://www.tmtpost.com/7913772.html</link>
-      <description>&lt;![CDATA[揭秘腾讯“龙虾特攻队”：火爆的线下装机复盘以及如何守住安全红线？]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7913772.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914132.html</guid>
       <category>Technology</category>
     </item>
   </channel>

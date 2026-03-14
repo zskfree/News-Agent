@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Mar 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2026 08:38:42 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:31:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Israel calls for Iranian factory evacuation, suggesting attack imminent</title>
+      <title>Trump seeks help from China and UK to reopen Strait of Hormuz</title>
       <link>https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</link>
-      <description>&lt;![CDATA[Israel calls for Iranian factory evacuation, suggesting attack imminent]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 07:24:00 GMT</pubDate>
+      <description>&lt;![CDATA[Trump seeks help from China and UK to reopen Strait of Hormuz]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 15:33:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why has Trump left Iran’s nuclear stockpile untouched?</title>
+      <link>https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc</link>
+      <description>&lt;![CDATA[Why has Trump left Iran’s nuclear stockpile untouched?]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US oil groups in line for $63bn windfall from Gulf disruption</title>
+      <link>https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204</link>
+      <description>&lt;![CDATA[US oil groups in line for $63bn windfall from Gulf disruption]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 21:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why oil probably won’t go to $150 a barrel</title>
+      <link>https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why oil probably won’t go to $150 a barrel]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>11 stocks to harden your portfolio against Iran risk</title>
+      <link>https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[11 stocks to harden your portfolio against Iran risk]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 18:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

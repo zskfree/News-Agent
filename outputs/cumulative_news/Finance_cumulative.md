@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-14 08:38
+**最后更新时间**: 2026-03-14 23:30
+
+---
+
+## 🆕 最新更新 (2026-03-14 23:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US oil groups in line for $63bn windfall from Gulf disruption](https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204)
+**发布时间**: 2026-03-14 21:31
+
+#### [Trump seeks help from China and UK to reopen Strait of Hormuz](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-14 15:33
+
+#### [Where are the Houthis?](https://www.ft.com/content/dbd87981-581b-4ede-93c8-853c252db025)
+**发布时间**: 2026-03-14 12:00
+
+#### [Why has Trump left Iran’s nuclear stockpile untouched?](https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc)
+**发布时间**: 2026-03-14 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [11 stocks to harden your portfolio against Iran risk](https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:42
+
+#### [This MarketWatch portfolio of hated stocks is crushing the stock market in 2026](https://www.marketwatch.com/story/this-marketwatch-portfolio-of-hated-stocks-is-crushing-the-stock-market-in-2026-2e4b7dc9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:03
+
+#### [Why oil probably won’t go to $150 a barrel](https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:02
+
+#### [The truth behind 401(k) withdrawal numbers: People aren’t being reckless — they’re desperate](https://www.marketwatch.com/story/the-truth-behind-401-k-withdrawal-numbers-people-arent-being-reckless-theyre-desperate-85645e70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:01
+
+#### [How to tackle your bucket list before it’s too late, according to the Oscar-nominated director of the film ‘Retirement Plan’](https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:58
+
+#### [Can my wife switch to my Social Security benefits if she was born after 1954? I receive a lot more than she does.](https://www.marketwatch.com/story/can-my-wife-switch-to-my-social-security-benefits-if-shes-born-after-1954-i-receive-a-lot-more-than-she-does-7a73b77e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:56
+
+#### [Medicare Advantage is facing a reality check — and seniors are the ones who will pay for it](https://www.marketwatch.com/story/medicare-advantage-is-facing-a-reality-check-and-seniors-are-the-ones-who-will-pay-for-it-abab012e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:55
 
 ---
 
