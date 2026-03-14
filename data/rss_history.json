@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f084ede2746eb389b29552b25c3f1a2964915f74aed0b4f215f231f5db014b77": {
-        "title": "3000亿美元因Agent一夜蒸发！纳德拉、MongoDB CEO等宣告：传统SaaS已走到拐点",
-        "link": "https://www.infoq.cn/article/6ROkojXXxzqvZvBq2VHB?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-12T06:06:17.075291"
-      },
-      "67200cb87ca01ad7ceca94f272a87a8cff06e167a00e0c8e46d587b591b3c2a4": {
-        "title": "马斯克xAI全员大会宣布裁员及产品路线图，现场披露太空AI战略",
-        "link": "https://www.tmtpost.com/7877259.html",
-        "published_date": "Thu, 12 Feb 2026 08:40:00 GMT",
-        "first_seen": "2026-02-12T06:06:17.075297"
-      },
-      "e244e0c6a6aadc3b785117f87d223f504e146892bf40a7d9ac1d1ac102870239": {
-        "title": "谷歌Gemini变身AI导购：搜索购物一体化，大模型变现迈入交易佣金新时代",
-        "link": "https://www.tmtpost.com/7877358.html",
-        "published_date": "Thu, 12 Feb 2026 09:58:00 GMT",
-        "first_seen": "2026-02-12T06:06:17.075299"
-      },
-      "2b547bd1bad2f0c32415e2d02bb0250a881061b863482f7d3aab38851d5b9ab7": {
-        "title": "国产大模型春节档扎堆：DeepSeek上新，智谱GLM-5与MiniMAX 2.5曝新进展，AI应用股大涨",
-        "link": "https://www.tmtpost.com/7877191.html",
-        "published_date": "Thu, 12 Feb 2026 07:48:00 GMT",
-        "first_seen": "2026-02-12T06:06:17.075301"
-      },
-      "c74c9f4a2caaea0091851c9d105ef535418e8d332d8eb57217f52c012b3f0413": {
-        "title": "宝马、Indeed 和 WHOOP 的降本增效实践：如何在 Lakehouse 上构建分析与 AI 能力 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/kwoK6RQOoOvhxfoUHR7d?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 11:46:00 GMT",
-        "first_seen": "2026-02-12T06:06:17.075303"
-      },
       "57766618922d7cf95e7b562d54acbbd0962bcf63243d805c84138f6047878bf2": {
         "title": "OpenAI正努力推进1000亿美元融资，预计2月中旬至月底期间完成，资方包括微软英伟达等",
         "link": "https://www.tmtpost.com/7877920.html",
@@ -2695,39 +2665,39 @@
         "link": "https://www.tmtpost.com/7914134.html",
         "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
         "first_seen": "2026-03-14T05:49:00.721784"
+      },
+      "2afbda8a4d4dc6ff711020c8fd5be1177a73941bb6d94c77bc634f91d0e0d564": {
+        "title": "宁德时代不想只卖电池了：722亿利润背后的转型信号",
+        "link": "https://www.tmtpost.com/7914219.html",
+        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.853535"
+      },
+      "a762ba3248ef082e5a600f029da779d93ae233c9ca0fd72d0477c6e2fadb5e17": {
+        "title": "大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺",
+        "link": "https://www.tmtpost.com/7914242.html",
+        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.853546"
+      },
+      "ff996c73204e90af689254b897ec23c71b570f58492ebc5ca1ea731611ea636d": {
+        "title": "为什么你能感觉到烫、痒、疼？中科院神经所窦艳侬/孙衍刚团队首次绘制完整脊髓投射神经元图谱",
+        "link": "https://www.tmtpost.com/7913917.html",
+        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.853549"
+      },
+      "9ba7d4351af5e2e997fc1acd50f920a7809c40adbea9cf262c6bc5f129bc1902": {
+        "title": "“AI教母”李飞飞：2年干出350亿，英伟达、AMD抢着送钱",
+        "link": "https://www.tmtpost.com/7914027.html",
+        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.853551"
+      },
+      "8942847450fcccca08948f260f62f1ca7cc2ea09c16616ad678149339a225619": {
+        "title": "揭秘腾讯“龙虾特攻队”：火爆的线下装机复盘以及如何守住安全红线？",
+        "link": "https://www.tmtpost.com/7913772.html",
+        "published_date": "Sat, 14 Mar 2026 11:48:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.853553"
       }
     },
     "Finance": {
-      "d252b0dcb1b4eaf9c3907d3e9f5b7940663c5967a5e64a9fca3b0dac6dddcec2": {
-        "title": "How private equity’s big bet on software got derailed by AI",
-        "link": "https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95",
-        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.717963"
-      },
-      "1f9f7aef3f614626db0e9aaa25ebc8cc39035039600095bd867b1122b1ae8397": {
-        "title": "Four partners leave EY after independence rule breach on Shell audit",
-        "link": "https://www.ft.com/content/7a9d9465-81b2-4443-9311-38e52c021595",
-        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.717974"
-      },
-      "aa142807b2111aaf0e46029ac870593ae27aeaab46c1742695138e57cd2bcd83": {
-        "title": "Epstein trustee document contradicts Jes Staley testimony",
-        "link": "https://www.ft.com/content/f4597d4f-b297-4e6c-8b6c-dfba8b9ec06c",
-        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.717977"
-      },
-      "ff6f23c08ec3c25f3e667b2a8585d8faebee54f601e81f059fc88e7cf1521262": {
-        "title": "Trump prompts global surge in people viewing US as a threat",
-        "link": "https://www.ft.com/content/268b16d9-c920-4bd5-b2b8-9283dab0df8d",
-        "published_date": "Thu, 12 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.717980"
-      },
-      "fbf43f5e25f27a347e284c7e00990bd9957d1abd31be402912c7101ff8d760b7": {
-        "title": "How China wants to create a ‘Polar Silk Road’ through the Arctic",
-        "link": "https://www.ft.com/content/9d726e1a-8b64-41e8-9e29-5bda58f05b3e",
-        "published_date": "Thu, 12 Feb 2026 03:13:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.717982"
-      },
       "b4b6b080562a66dd39520cf817d84ed43d276668de5f7146b641f63917018a84": {
         "title": "One of Europe’s few growth stocks falters on disappointing outlook",
         "link": "https://www.marketwatch.com/story/one-of-europes-few-growth-stocks-falters-on-disappointing-outlook-68d911f3?mod=mw_rss_topstories",
@@ -4635,21 +4605,15 @@
         "link": "https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d",
         "published_date": "Fri, 13 Mar 2026 23:36:00 GMT",
         "first_seen": "2026-03-14T05:49:00.756592"
+      },
+      "e71bdcf7ada01bfa47081149950b13ecda5bfb27f4ed82ba794c61a4028d1aa3": {
+        "title": "Israel calls for Iranian factory evacuation, suggesting attack imminent",
+        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
+        "published_date": "Sat, 14 Mar 2026 07:24:00 GMT",
+        "first_seen": "2026-03-14T08:38:42.890647"
       }
     },
     "Ai": {
-      "8702ccd7754ea5e369468d03ee4ded59d00a667e584c502c60c1c7e6e1c8d044": {
-        "title": "字节发布Seedance 2.0，豆包、即梦官宣接入",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12",
-        "published_date": "Thu, 12 Feb 2026 14:03:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.855685"
-      },
-      "022c65ad24e583bda94c8994f041029c3e31d45117c505936e38041828a86a24": {
-        "title": "2026-02-12日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-12/",
-        "published_date": "Thu, 12 Feb 2026 07:26:00 GMT",
-        "first_seen": "2026-02-12T06:06:01.855692"
-      },
       "ed42bc2e92fbf08dd6d0f2b84bf9ce8f892ba856651408938de45a5cafd65a48": {
         "title": "ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」",
         "link": "https://www.jiqizhixin.com/articles/2026-02-12-7",
@@ -6041,13 +6005,25 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-14/",
         "published_date": "Sat, 14 Mar 2026 09:23:00 GMT",
         "first_seen": "2026-03-14T05:49:00.901888"
+      },
+      "acf3a260c730f21232ca1b984786829eed5dfbfc0b7c099c67e4e77fb1a8be08": {
+        "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
+        "link": "https://www.qbitai.com/2026/03/387832.html",
+        "published_date": "Sat, 14 Mar 2026 06:34:00 GMT",
+        "first_seen": "2026-03-14T08:38:43.044716"
+      },
+      "972c204f89f475280ba557f5052e52add950ca1bf24b33729dc34b85165a1d6a": {
+        "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
+        "link": "https://www.qbitai.com/2026/03/387756.html",
+        "published_date": "Sat, 14 Mar 2026 06:25:00 GMT",
+        "first_seen": "2026-03-14T08:38:43.044724"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-14T05:49:00.721786",
-    "Finance": "2026-03-14T05:49:00.756595",
-    "Ai": "2026-03-14T05:49:00.901896"
+    "Technology": "2026-03-14T08:38:42.853555",
+    "Finance": "2026-03-14T08:38:42.890655",
+    "Ai": "2026-03-14T08:38:43.044726"
   }
 }

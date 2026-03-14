@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Mar 2026 05:48:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2026 05:49:00 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 08:38:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 08:38:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island</title>
+      <title>Israel calls for Iranian factory evacuation, suggesting attack imminent</title>
       <link>https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</link>
-      <description>&lt;![CDATA[Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 23:53:00 GMT</pubDate>
+      <description>&lt;![CDATA[Israel calls for Iranian factory evacuation, suggesting attack imminent]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 07:24:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says</title>
-      <link>https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d</link>
-      <description>&lt;![CDATA[Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says]]&gt;</description>
-      <pubDate>Fri, 13 Mar 2026 23:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-14 05:48
+**最后更新时间**: 2026-03-14 08:38
+
+---
+
+## 🆕 最新更新 (2026-03-14 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel calls for Iranian factory evacuation, suggesting attack imminent](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-14 07:24
+
+#### [Why Iran could become the next Iraq](https://www.ft.com/content/bf9b5746-b44b-4fd3-a5cd-c469c5388c5d)
+**发布时间**: 2026-03-14 05:00
+
+#### [Are markets being too complacent about the Iran war?](https://www.ft.com/content/36474089-8b7e-4fc8-aa76-1643796a57d9)
+**发布时间**: 2026-03-14 05:00
+
+#### [Donald Trump, globalist](https://www.ft.com/content/8e5dc3d0-1134-4f13-aa9d-13d948797ffb)
+**发布时间**: 2026-03-14 05:00
+
+#### [UK government grilled over Vistry finances](https://www.ft.com/content/958628ad-17d4-4b10-aa97-6db31adc4de1)
+**发布时间**: 2026-03-14 05:00
+
+#### [Sovereign AI is a bet on the economies of anti-scale](https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297)
+**发布时间**: 2026-03-14 05:00
 
 ---
 
