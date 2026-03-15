@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-15 08:39
+**最后更新时间**: 2026-03-15 23:32
+
+---
+
+## 🆕 最新更新 (2026-03-15 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict](https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 23:17
+
+#### [It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?](https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 20:11
+
+#### [The financial sector is sending some spooky technical signals about the stock market](https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:54
+
+#### [Nvidia’s big GTC event is on deck, and the company faces a very high bar this year](https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:45
+
+#### [‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings](https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:41
+
+#### [Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next](https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:18
+
+#### [Panic is slowly gripping the stock market. Expect the selling to pick up this week.](https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:14
+
+#### [Start on your bucket list now, says the Oscar-nominated director of the film ‘Retirement Plan’](https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 17:22
+
+#### [These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.](https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 17:20
+
+#### [Is a $130 Costco executive membership the new VIP status symbol?](https://www.marketwatch.com/story/is-a-130-costco-executive-membership-the-new-vip-status-7d7585f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 15:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump warns Nato faces ‘very bad future’ if allies fail to help US in Iran](https://www.ft.com/content/1ca6d121-760b-4ec5-b6ad-514fdaa94873)
+**发布时间**: 2026-03-15 23:05
+
+#### [Oil prices jump nearly 3% as markets open for trading](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68)
+**发布时间**: 2026-03-15 22:46
+
+#### [Starmer to set out £50mn energy support package to ease Iran war fallout](https://www.ft.com/content/603847c6-d9ad-431f-afd5-a23e0a1e5a1a)
+**发布时间**: 2026-03-15 22:30
+
+#### [India hails talks with Iran to open Strait of Hormuz](https://www.ft.com/content/c8ef2abd-964d-4b8a-8dab-3a7a25055f53)
+**发布时间**: 2026-03-15 18:11
+
+#### [UK polo patrons linked to laundering of Venezuelan oil sale proceeds, says US Treasury](https://www.ft.com/content/95cdbbce-6e16-4fb0-8d91-d5afc8154f4b)
+**发布时间**: 2026-03-15 15:03
+
+#### [Iran war should prompt a North Sea rethink](https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667)
+**发布时间**: 2026-03-15 12:00
+
+#### [Zelenskyy challenges Europe over Russian oil imports](https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552)
+**发布时间**: 2026-03-15 10:16
 
 ---
 

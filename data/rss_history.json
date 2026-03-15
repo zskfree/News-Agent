@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "abdd7f501f59d3a487acdb7ebf86087ded16ddf3054580671c5d5518e11e867d": {
-        "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
-        "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 16:01:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475515"
-      },
-      "e48c8b89a87eacab39d2e0e10166d2459bee7dd3806ea8b56fe6b0d883e0e91d": {
-        "title": "Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等",
-        "link": "https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475527"
-      },
-      "8b94102bd557110dc6375ddb3fb14c4d7a03f315d7d38022a1f15a6755dedeb5": {
-        "title": "OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露",
-        "link": "https://www.tmtpost.com/7879369.html",
-        "published_date": "Fri, 13 Feb 2026 15:12:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475530"
-      },
-      "15a31a60408ce0b46e42e78319c3ae2ccde77fad5510153d54d69fc04f5be9a6": {
-        "title": "Conductor Quantum 推出量子计算自然语言交互接口 Coda",
-        "link": "https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475532"
-      },
-      "6d7b91bd679b7a523de6b0e8f1abc2dc8e7e02732451d61471de5ab2c0d10697": {
-        "title": "大模型来了，为什么端到端的智能工厂还没有？",
-        "link": "https://www.tmtpost.com/7879106.html",
-        "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475534"
-      },
       "41fbb9a7983cc07551db681dde97fe08b9ff6a4c2599cdb89b960a7c882f4b29": {
         "title": "广东33兆瓦虚拟电厂闯入现货市场，全国电力交易规则正在重写",
         "link": "https://www.tmtpost.com/7879796.html",
@@ -2695,15 +2665,39 @@
         "link": "http://www.huxiu.com/article/4842120.html?f=wangzhan",
         "published_date": "Sun, 15 Mar 2026 10:30:00 GMT",
         "first_seen": "2026-03-15T08:39:54.572156"
+      },
+      "39d84de04a28488914f54d1d36d503889177d6b0da472bb7e2c32373796d58a1": {
+        "title": "AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？",
+        "link": "https://www.tmtpost.com/7914747.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:32:39.236990"
+      },
+      "6faf8916b1a7dcc23074c27e80f49e5bcc4ecaa62489905551e0dac06413c26d": {
+        "title": "头号Anthropic黑马斯克，决定把xAI变成Anthropic",
+        "link": "https://www.tmtpost.com/7914775.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:32:39.236999"
+      },
+      "46636289bc8739065364073727f914583f3357d96eee9d6a6a8187649b0fdeb3": {
+        "title": "腾讯“养虾”建厂：不止卖铲，意在收租",
+        "link": "https://www.tmtpost.com/7914774.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:32:39.237001"
+      },
+      "fc422fdbd407ff780729c8e864e853e2bd5c2a15759cda14f7291ffd350e2730": {
+        "title": "拆解全球首款手机“龙虾”应用，云端“捷径”能走多远？",
+        "link": "https://www.tmtpost.com/7914755.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:32:39.237003"
+      },
+      "2c4e78d7a0b47a76fc5664c41574e362004e7fc4543e746d26838ccc12c69833": {
+        "title": "【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组",
+        "link": "https://www.tmtpost.com/7915027.html",
+        "published_date": "Mon, 16 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-15T23:32:39.237005"
       }
     },
     "Finance": {
-      "f405514814da90aab17e28d773d17d834b665fc674c5f0ddf3cb0d6ae2a0003e": {
-        "title": "Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss",
-        "link": "https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53",
-        "published_date": "Fri, 13 Feb 2026 07:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.506873"
-      },
       "79320df1f72ff711acf9ee9cfd5d60f433452240f96948b471a556d453fed1a0": {
         "title": "Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.",
         "link": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories",
@@ -4581,39 +4575,39 @@
         "link": "https://www.ft.com/content/377fd9fb-0e92-4b59-afd0-dfabf93b59b6",
         "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-15T06:08:41.371105"
+      },
+      "208b1b6e20e60d43daa3a81af06299cb258d87cf003259299d0d3743591281af": {
+        "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?",
+        "link": "https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 20:11:00 GMT",
+        "first_seen": "2026-03-15T23:32:53.415881"
+      },
+      "6ddf201bb6788e8d187b01b818859269af58299507c4a6ba7fc2cb1a732826f4": {
+        "title": "U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 23:17:00 GMT",
+        "first_seen": "2026-03-15T23:32:53.415888"
+      },
+      "0bc05efba1cf597b68f3fe617063a56e5af8b5b156a072c18ed7869333fa15e9": {
+        "title": "Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next",
+        "link": "https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:18:00 GMT",
+        "first_seen": "2026-03-15T23:32:53.415891"
+      },
+      "9278f0bcb9da652ccd9d4be16022bca483f63d1b74927a496b3a572971177d1f": {
+        "title": "The financial sector is sending some spooky technical signals about the stock market",
+        "link": "https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:54:00 GMT",
+        "first_seen": "2026-03-15T23:32:53.415893"
+      },
+      "bc34596a488ce49c6697baddde809b960021c08908f1b68659f4430935adadd1": {
+        "title": "‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings",
+        "link": "https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:41:00 GMT",
+        "first_seen": "2026-03-15T23:32:53.415894"
       }
     },
     "Ai": {
-      "7b75aba184513c149c8fb5952517c1d5ad1dd17af5e7ec36f9715cbda15c3170": {
-        "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-7",
-        "published_date": "Fri, 13 Feb 2026 16:36:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873464"
-      },
-      "13cf51ac2a30676d74916c4e31abd812be06271edc421e9cb62e51e9858104f0": {
-        "title": "刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-2",
-        "published_date": "Fri, 13 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873471"
-      },
-      "284edc6e2d86e6ae9b5395ae027680173867f05b74a55f3fa1eb718924044487": {
-        "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-6",
-        "published_date": "Fri, 13 Feb 2026 16:20:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873473"
-      },
-      "fe7c7bd4968f0b1fb689666eefd0af0daac07a4088112af8390ed4ef7a7910d1": {
-        "title": "我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13",
-        "published_date": "Fri, 13 Feb 2026 15:48:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873475"
-      },
-      "3bb1f45e729220c489f2da003147a4dc6cfe38d783b313c34d3199bada5fa586": {
-        "title": "上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
-        "published_date": "Fri, 13 Feb 2026 14:16:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873476"
-      },
       "1d3a567bffeda318d812312e964006e5041ffdce08b1616432119b54ddc64fb3": {
         "title": "SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界",
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-9",
@@ -5944,8 +5938,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-15T08:39:54.572158",
-    "Finance": "2026-03-15T06:08:41.371107",
+    "Technology": "2026-03-15T23:32:39.237008",
+    "Finance": "2026-03-15T23:32:53.415897",
     "Ai": "2026-03-15T06:08:41.520154"
   }
 }
