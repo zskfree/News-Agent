@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-15 06:08
+**最后更新时间**: 2026-03-15 08:39
+
+---
+
+## 🆕 最新更新 (2026-03-15 08:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Fake workers’ from North Korea use AI to exploit European companies](https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf)
+**发布时间**: 2026-03-15 05:00
 
 ---
 

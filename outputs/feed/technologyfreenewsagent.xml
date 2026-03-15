@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Mar 2026 06:08:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 06:08:27 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 08:39:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 08:39:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】OpenClaw引发权威机构连续预警；腾讯云涨价，部分AI模型涨幅超400%；Anthropic起诉美国政府</title>
-      <link>https://www.tmtpost.com/7914449.html</link>
-      <description>&lt;![CDATA[【数智周报】OpenClaw引发权威机构连续预警；腾讯云涨价，部分AI模型涨幅超400%；Anthropic起诉美国政府]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914449.html</guid>
+      <title>Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷</title>
+      <link>https://www.tmtpost.com/7914495.html</link>
+      <description>&lt;![CDATA[Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914495.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型</title>
-      <link>https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴</title>
+      <link>https://www.tmtpost.com/7914749.html</link>
+      <description>&lt;![CDATA[龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI购物争夺战：巨头抢的不是卖货，是入口</title>
-      <link>https://www.tmtpost.com/7914457.html</link>
-      <description>&lt;![CDATA[AI购物争夺战：巨头抢的不是卖货，是入口]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914457.html</guid>
+      <title>营收破千亿，净利却缩水85%，理想汽车进入“最危险的一年”</title>
+      <link>https://www.tmtpost.com/7912445.html</link>
+      <description>&lt;![CDATA[营收破千亿，净利却缩水85%，理想汽车进入“最危险的一年”]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7912445.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话TCL实业卢春水：AI家电不是蹭热度，回归本质是穿越周期关键 | AWE 2026</title>
-      <link>https://www.tmtpost.com/7914512.html</link>
-      <description>&lt;![CDATA[对话TCL实业卢春水：AI家电不是蹭热度，回归本质是穿越周期关键 | AWE 2026]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914512.html</guid>
+      <title>GitLab：AI 能发现漏洞，但风险治理才是关键</title>
+      <link>https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitLab：AI 能发现漏洞，但风险治理才是关键]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare发布AI辅助开发的实验性Next.js替代方案</title>
-      <link>https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare发布AI辅助开发的实验性Next.js替代方案]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗</title>
+      <link>http://www.huxiu.com/article/4842120.html?f=wangzhan</link>
+      <description>&lt;![CDATA[玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.huxiu.com/article/4842120.html?f=wangzhan</guid>
       <category>Technology</category>
     </item>
   </channel>
