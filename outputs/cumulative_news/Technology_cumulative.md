@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-14 23:30
+**最后更新时间**: 2026-03-15 06:08
+
+---
+
+## 🆕 最新更新 (2026-03-15 06:08)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [价值判断：跌停板的投资机会和风险提示（3月13日）｜证券市场观察](https://www.tmtpost.com/7914798.html)
+**发布时间**: 2026-03-15 13:46
+
+#### [价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察](https://www.tmtpost.com/7914792.html)
+**发布时间**: 2026-03-15 13:45
+
+#### [定价是价值投资的基石｜济安学派](https://www.tmtpost.com/7914784.html)
+**发布时间**: 2026-03-15 13:45
+
+#### [【数智周报】OpenClaw引发权威机构连续预警；腾讯云涨价，部分AI模型涨幅超400%；Anthropic起诉美国政府](https://www.tmtpost.com/7914449.html)
+**发布时间**: 2026-03-15 12:19
+
+#### [从德国"预制菜"到MediaMarkt货架，MOVA如何撕开海外高端厨电的70%毛利空间｜出海爆品先知](https://www.tmtpost.com/7914430.html)
+**发布时间**: 2026-03-15 11:34
+
+#### [“HJT新秀”深陷重重危机，95后美女董事长打响退市保卫战](https://www.tmtpost.com/7914679.html)
+**发布时间**: 2026-03-15 10:57
+
+#### [梁文峰和姚顺雨，四月交卷](https://www.tmtpost.com/7914683.html)
+**发布时间**: 2026-03-15 10:57
+
+#### [对话TCL实业卢春水：AI家电不是蹭热度，回归本质是穿越周期关键 | AWE 2026](https://www.tmtpost.com/7914512.html)
+**发布时间**: 2026-03-15 10:35
+
+#### [营收破千亿，净利却缩水85%，理想汽车进入“最危险的一年”](https://www.tmtpost.com/7912445.html)
+**发布时间**: 2026-03-15 10:34
+
+#### [儒派的茅忠群，激进的方太](https://www.tmtpost.com/7914379.html)
+**发布时间**: 2026-03-15 09:30
+
+#### [Cell子刊：一斑窥全豹，片忆溯往昔，法国科学家揭示调控大脑“记忆补全”的神经机制](https://www.tmtpost.com/7914589.html)
+**发布时间**: 2026-03-15 09:30
+
+#### [在闲鱼，他帮人抓住一只狂奔的“龙虾”](https://www.tmtpost.com/7914458.html)
+**发布时间**: 2026-03-15 09:30
+
+#### [痒到抓狂？陆军医隋建峰/李红丽/吴广延团队发现抑制瘙痒的关键神经环路，为治疗慢性瘙痒提供新靶点](https://www.tmtpost.com/7914492.html)
+**发布时间**: 2026-03-15 09:29
+
+#### [强制披露基民盈利比，会扒下公募的“底裤”吗？](https://www.tmtpost.com/7914460.html)
+**发布时间**: 2026-03-15 09:28
+
+#### [AI购物争夺战：巨头抢的不是卖货，是入口](https://www.tmtpost.com/7914457.html)
+**发布时间**: 2026-03-15 09:24
+
+#### [eLife：重庆脑中心Han Qin/陆军医谌小维等揭示REM期间巩固社交记忆的神经回路](https://www.tmtpost.com/7914494.html)
+**发布时间**: 2026-03-15 08:47
+
+#### [低度酒赛道“三国杀”：老字号熬滋补，白酒巨头忙降度，新贵卷场景](https://www.tmtpost.com/7914390.html)
+**发布时间**: 2026-03-15 08:47
+
+#### [Adv Sci：复旦大学邓娟/孙立婷团队鉴定出介导三叉神经痛发病的神经环路](https://www.tmtpost.com/7914493.html)
+**发布时间**: 2026-03-15 08:47
+
+#### [Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷](https://www.tmtpost.com/7914495.html)
+**发布时间**: 2026-03-15 08:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型](https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-15 12:47
+
+#### [Cloudflare发布AI辅助开发的实验性Next.js替代方案](https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-15 11:00
+
+#### [GitLab：AI 能发现漏洞，但风险治理才是关键](https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-15 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [今夜，大模型从世界消散](https://sspai.com/post/106939)
+**发布时间**: 2026-03-15 10:38
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗](http://www.huxiu.com/article/4842120.html?f=wangzhan)
+**发布时间**: 2026-03-15 10:30
+
+#### [老破小正在回暖，还是被抛弃？](http://www.huxiu.com/article/4841654.html?f=wangzhan)
+**发布时间**: 2026-03-15 10:00
 
 ---
 

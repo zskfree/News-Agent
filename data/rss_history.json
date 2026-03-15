@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6cdefc2a658decd31c0c64f438a0edf183af1637a3418a7570113ae7e7639567": {
-        "title": "“代码 + 编译器”要消失了？马斯克在 xAI 全员会上放话：到今年年底，AI 或将直接生成二进制",
-        "link": "https://www.infoq.cn/article/hsoVQfxDa9ofFiMZsDai?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 17:51:00 GMT",
-        "first_seen": "2026-02-12T23:31:42.797004"
-      },
-      "e496a5ce23f4ba334b9586c460e48f9f9e800cfedef5b9e8df736b200f11e82b": {
-        "title": "【钛晨报】推动低空保险高质量发展，国家发改委等三部门发声；国家电影局、商务部组织开展“电影+”消费综合试点；智谱GLM-5深度适配华为昇腾、摩尔线程、寒武纪等七大国产芯片",
-        "link": "https://www.tmtpost.com/7878401.html",
-        "published_date": "Fri, 13 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-12T23:31:42.797016"
-      },
-      "01727d6983c8c5c09fc2bcb191e606217be611c5f0275e09ea06147943a1b1a7": {
-        "title": "出货量超寒武纪，阿里系芯片公司揭开神秘面纱",
-        "link": "https://www.tmtpost.com/7878108.html",
-        "published_date": "Thu, 12 Feb 2026 18:49:00 GMT",
-        "first_seen": "2026-02-12T23:31:42.797019"
-      },
-      "db9e61cbe5d5f035b08685d3a1ed60a8d1eaa30e34430dacea0059e56cd57d55": {
-        "title": "RFC 规范中的 CNAME 顺序问题是如何导致 Cloudflare 1.1.1.1 宕机的",
-        "link": "https://www.infoq.cn/article/h5huIV6bVgqR2BeSNuPC?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 18:00:00 GMT",
-        "first_seen": "2026-02-12T23:31:42.797021"
-      },
-      "6d858454071b62dbaaa272645685cdcbc4d850eeb5718db74aefbea7d71bb3ae": {
-        "title": "“攻击迫在眉睫”，39%的云环境存在最高严重性的React漏洞",
-        "link": "https://www.infoq.cn/article/qRHs8o3kirzwSImTe7iO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Feb 2026 18:15:00 GMT",
-        "first_seen": "2026-02-12T23:31:42.797023"
-      },
-      "ce96c1f85f8edd8ad0a85f43b3877aa8e118dc381f3272e6a1819396e873e494": {
-        "title": "谷歌Gemini 3 Deep Think重大升级，聚焦复杂科学与工程推理，成本降低幅度高达280至420倍",
-        "link": "https://www.tmtpost.com/7878966.html",
-        "published_date": "Fri, 13 Feb 2026 10:10:00 GMT",
-        "first_seen": "2026-02-13T06:01:12.746215"
-      },
-      "4e468e896b9634f31764b173f10d2e6b3135aa0e8cd849fbc036f50545a5ac87": {
-        "title": "应用材料 AMAT：Capex 大周期驾到，设备股春天来了",
-        "link": "https://www.tmtpost.com/7879100.html",
-        "published_date": "Fri, 13 Feb 2026 12:04:00 GMT",
-        "first_seen": "2026-02-13T06:01:12.746226"
-      },
-      "e01caf109c70493aabc622edc482116f71027dea4ae2584dcf8a3007efb7179f": {
-        "title": "每秒千词实时编程！OpenAI与Cerebras推出GPT-5.3-Codex-Spark模型",
-        "link": "https://www.tmtpost.com/7879069.html",
-        "published_date": "Fri, 13 Feb 2026 11:34:00 GMT",
-        "first_seen": "2026-02-13T06:01:12.746229"
-      },
-      "22ba71a41e187b91ebd5d56d30e10cc6ba8001a1dd5067d30daed1fa345abfca": {
-        "title": "5大AI医生31轮盲测 VS 人类致命误诊，谁更靠谱？｜「钛AI了」实测 ①",
-        "link": "https://www.tmtpost.com/7877859.html",
-        "published_date": "Fri, 13 Feb 2026 11:21:00 GMT",
-        "first_seen": "2026-02-13T06:01:12.746231"
-      },
-      "47848ae2b846482e631d537a1257e00bb1296f06121d3759d05f5bbb933a4086": {
-        "title": "派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动",
-        "link": "https://sspai.com/post/106337",
-        "published_date": "Fri, 13 Feb 2026 08:30:00 GMT",
-        "first_seen": "2026-02-13T06:01:12.746233"
-      },
       "abdd7f501f59d3a487acdb7ebf86087ded16ddf3054580671c5d5518e11e867d": {
         "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
         "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
@@ -2695,69 +2635,39 @@
         "link": "https://www.tmtpost.com/7914132.html",
         "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
         "first_seen": "2026-03-14T23:30:48.082717"
+      },
+      "15e5ff9f09ee7cf768050f7c5949c92ab30b96befd039acae1a89df00c294e10": {
+        "title": "【数智周报】OpenClaw引发权威机构连续预警；腾讯云涨价，部分AI模型涨幅超400%；Anthropic起诉美国政府",
+        "link": "https://www.tmtpost.com/7914449.html",
+        "published_date": "Sun, 15 Mar 2026 12:19:00 GMT",
+        "first_seen": "2026-03-15T06:08:27.231142"
+      },
+      "0435f548723b952773c781124a8d69667737c27c1b3a718eb6582f04415fb455": {
+        "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
+        "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Mar 2026 12:47:00 GMT",
+        "first_seen": "2026-03-15T06:08:27.231149"
+      },
+      "fb96696787960f263d71434d626c91a4ae2d3cde44418259cfb00b5f3bd9eb9b": {
+        "title": "AI购物争夺战：巨头抢的不是卖货，是入口",
+        "link": "https://www.tmtpost.com/7914457.html",
+        "published_date": "Sun, 15 Mar 2026 09:24:00 GMT",
+        "first_seen": "2026-03-15T06:08:27.231152"
+      },
+      "4cf65f97ea20dde1e2739ca72681bbe767667c0da5258b909f77f0581eb8c146": {
+        "title": "对话TCL实业卢春水：AI家电不是蹭热度，回归本质是穿越周期关键 | AWE 2026",
+        "link": "https://www.tmtpost.com/7914512.html",
+        "published_date": "Sun, 15 Mar 2026 10:35:00 GMT",
+        "first_seen": "2026-03-15T06:08:27.231154"
+      },
+      "a435e1d7a88eb880ef374e798a70c88ea638766a0013864034e9e269e7200d06": {
+        "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
+        "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-15T06:08:27.231156"
       }
     },
     "Finance": {
-      "54ae2bcfddc0e02d377bffa8813016cd84003fbfa4ed88e6b8915cdc9ff76f22": {
-        "title": "Why the AI attack on software has unnerved so many industries",
-        "link": "https://www.ft.com/content/39c5a2d4-01d0-46ce-8943-0591ff9ee77e",
-        "published_date": "Thu, 12 Feb 2026 18:15:00 GMT",
-        "first_seen": "2026-02-12T23:32:00.591366"
-      },
-      "fc4d2518aa3ab3db11fa2d47f0c16cdd3c745787656dc961872bf5ec57d311f0": {
-        "title": "Anthropic raises $30bn at a $350bn valuation in latest funding round",
-        "link": "https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283",
-        "published_date": "Thu, 12 Feb 2026 19:00:00 GMT",
-        "first_seen": "2026-02-12T23:32:00.591373"
-      },
-      "07887ff83413004361c6543b52f28c8e05ae170c2e1c529fce813b47bc63de64": {
-        "title": "Long-term Treasury bonds rally as investors dump stocks in broad-based selloff",
-        "link": "https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Feb 2026 22:42:00 GMT",
-        "first_seen": "2026-02-12T23:32:00.591375"
-      },
-      "1a92e908a26927b1ef353456bb17b80d2c2fb51691319c2b8fd0ce73ed652141": {
-        "title": "Coinbase swings to surprise loss amid flight from crypto, but talks up prediction markets",
-        "link": "https://www.marketwatch.com/story/coinbase-swings-to-a-surprise-loss-amid-flight-from-crypto-b5706ddb?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Feb 2026 22:16:00 GMT",
-        "first_seen": "2026-02-12T23:32:00.591377"
-      },
-      "65b06b4699de0a98b41b6ce3269bf878a8123dae133ad0f296f8a524299bcbc9": {
-        "title": "Apple sees $200 billion market-cap wipeout as stock slides on AI fears",
-        "link": "https://www.marketwatch.com/story/apple-sees-200-billion-market-cap-wipeout-as-stock-slides-on-ai-fears-88917cc0?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Feb 2026 22:16:00 GMT",
-        "first_seen": "2026-02-12T23:32:00.591378"
-      },
-      "7376cbd9331ac0719417fa2fafa0f8dd3435219ee9edfedb7cebcaae15cfa0af": {
-        "title": "Wall Street hunts next casualty from AI threat to white collar work",
-        "link": "https://www.ft.com/content/40d04966-d526-4314-9c2a-c721c88aaab1",
-        "published_date": "Fri, 13 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-13T06:01:30.877567"
-      },
-      "aa88c4c8ef6a8fa8eab96d36c3a153de594154a5619e262f6619005227a6d9b7": {
-        "title": "Bankers push to avoid US regulator taking charge of British supervisor",
-        "link": "https://www.ft.com/content/228fa18d-8b67-4152-9604-39f89375250f",
-        "published_date": "Fri, 13 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-13T06:01:30.877573"
-      },
-      "c6c8b0b10c7ae633583dc504678637b061c0ebf4ff6ccf0879014a41d54b48f4": {
-        "title": "Schroders boss reassured UK Treasury ahead of £9.9bn US takeover",
-        "link": "https://www.ft.com/content/02335d3c-82ef-4e0a-a332-aba285e6573b",
-        "published_date": "Fri, 13 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-13T06:01:30.877576"
-      },
-      "ba1508132fd4a0aad3cda741aeeaf7f67346ad18b7bbcad5c66f64b7e510965c": {
-        "title": "Trump plans to roll back tariffs on metal and aluminium goods",
-        "link": "https://www.ft.com/content/f2eff736-12de-4c33-9826-847d2fdf8be3",
-        "published_date": "Fri, 13 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-13T06:01:30.877578"
-      },
-      "edb9778f414a74b42049bb56d505d7c48b1164a8b6adbfb872e099b78a7e6caf": {
-        "title": "Energy is the best-performing sector in the S&P 500 so far this year — and it’s not just because of the rise in oil prices",
-        "link": "https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Feb 2026 02:13:00 GMT",
-        "first_seen": "2026-02-13T06:01:30.877579"
-      },
       "f405514814da90aab17e28d773d17d834b665fc674c5f0ddf3cb0d6ae2a0003e": {
         "title": "Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss",
         "link": "https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53",
@@ -4611,63 +4521,39 @@
         "link": "https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories",
         "published_date": "Sat, 14 Mar 2026 18:42:00 GMT",
         "first_seen": "2026-03-14T23:31:04.125226"
+      },
+      "0a7b0283bee430fde1f7481b0e34f7e98d94b4c41087b5fd41790303f8451f17": {
+        "title": "Trump’s ‘shock and war’ makes this economic crisis different",
+        "link": "https://www.ft.com/content/bd7a2d03-6df0-4212-aa67-95160bae9db6",
+        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.371093"
+      },
+      "318bd8f98ce2b6dad3a3d8d720fea47c636649aaed67853bce6927e28ebd49e2": {
+        "title": "Military briefing: How mines could tighten Iran’s Gulf chokehold",
+        "link": "https://www.ft.com/content/8e45328d-2d15-47c7-b1ea-4b7751bc2669",
+        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.371100"
+      },
+      "ee353900dfe206c6681f6bb17d0eb50ed898fa64e2fa04df5cc33b5e2cd5c989": {
+        "title": "Trump urges China and UK to send warships to reopen Strait of Hormuz",
+        "link": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
+        "published_date": "Sat, 14 Mar 2026 23:48:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.371102"
+      },
+      "84deeebcd26b9abe7b1e3ff2b5a2954d9fa24365e74e61b1f099c3696d73e294": {
+        "title": "Retail traders rush into oil bets as Iran war drives wild price swings",
+        "link": "https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db",
+        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.371103"
+      },
+      "f3bf2dd8eaed52e1ca2a32c6deea97962ea2513efa7d20e16f297e2d4069cb02": {
+        "title": "‘Firing off 10 to 15 applications a day’: how UK’s hiring slump hits the young",
+        "link": "https://www.ft.com/content/377fd9fb-0e92-4b59-afd0-dfabf93b59b6",
+        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.371105"
       }
     },
     "Ai": {
-      "0c0e80702372ddb4be7306cc861e9e5217aec33512447a8b52801d4601a2795b": {
-        "title": "走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-4",
-        "published_date": "Thu, 12 Feb 2026 14:46:00 GMT",
-        "first_seen": "2026-02-12T23:32:21.144437"
-      },
-      "370263c50260f8fe066e8da7a87e3f496ddb51188d979a7b9118dcf4515db2f5": {
-        "title": "具身智能的「GPT时刻」？高德连发两个全面SOTA的ABot具身基座模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-11",
-        "published_date": "Thu, 12 Feb 2026 20:28:00 GMT",
-        "first_seen": "2026-02-12T23:32:21.144444"
-      },
-      "bbd80c493105e2e72555a00a59e98527e938f4c1bc7da1f5aafd89a234af03b5": {
-        "title": "小米的首代机器人VLA大模型来了！丝滑赛德芙，推理延迟仅80ms丨全面开源",
-        "link": "https://www.qbitai.com/2026/02/379326.html",
-        "published_date": "Thu, 12 Feb 2026 12:51:00 GMT",
-        "first_seen": "2026-02-12T23:32:21.144446"
-      },
-      "d9e564a1b42621273eb7f0f9232390e8ba979f3d9fa764e4b55ffdfb26003262": {
-        "title": "华为升级行业Agent算法架构！MindScale自己写prompt和工作流，KV Cache减少5.7倍token",
-        "link": "https://www.qbitai.com/2026/02/379256.html",
-        "published_date": "Thu, 12 Feb 2026 11:24:00 GMT",
-        "first_seen": "2026-02-12T23:32:21.144447"
-      },
-      "5f9dc30b1e3c5a8ec1f42ebc9ae7be4b96e243425d9ec5eb264489ab6359eca2": {
-        "title": "Loop-ViT：让AI学会「反复思考」，3.8M参数小模型追平人类平均水平",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-12-10",
-        "published_date": "Thu, 12 Feb 2026 20:15:00 GMT",
-        "first_seen": "2026-02-12T23:32:21.144449"
-      },
-      "043c777e4b9e456cd72b3aeec71c830e9a2ec782995cfd323d016618c30dfc2f": {
-        "title": "2026-02-13日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-13/",
-        "published_date": "Fri, 13 Feb 2026 11:47:00 GMT",
-        "first_seen": "2026-02-13T06:01:31.029713"
-      },
-      "1039d66aab0e0f24971670bef28c763c9c9f3fc06eb865552d1d3af5bba8001b": {
-        "title": "蚂蚁集团发布Ming-Flash-Omni 2.0，开源全模态大模型性能新标杆",
-        "link": "https://www.qbitai.com/2026/02/379431.html",
-        "published_date": "Fri, 13 Feb 2026 05:32:00 GMT",
-        "first_seen": "2026-02-13T06:01:31.029721"
-      },
-      "db973807302f6a69a3f755634debdf64e346f32a47fc8fe2a270e1042eb4b0bb": {
-        "title": "一键搞定百万行Excel和PPT排版！这家杭州电力AI初创要给打工人减负",
-        "link": "https://www.qbitai.com/2026/02/379411.html",
-        "published_date": "Fri, 13 Feb 2026 04:00:00 GMT",
-        "first_seen": "2026-02-13T06:01:31.029723"
-      },
-      "1000b968d36d022ec019177b2fd38d01e276a32270550d05c4edb9a8e85db81c": {
-        "title": "1美金时薪雇个全栈替身，MiniMax M2.5让打工人也能体验当老板的感觉",
-        "link": "https://www.qbitai.com/2026/02/379344.html",
-        "published_date": "Fri, 13 Feb 2026 03:16:00 GMT",
-        "first_seen": "2026-02-13T06:01:31.029725"
-      },
       "7b75aba184513c149c8fb5952517c1d5ad1dd17af5e7ec36f9715cbda15c3170": {
         "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-7",
@@ -6017,13 +5903,19 @@
         "link": "https://www.qbitai.com/2026/03/387843.html",
         "published_date": "Sat, 14 Mar 2026 08:56:00 GMT",
         "first_seen": "2026-03-14T23:31:04.258620"
+      },
+      "fcd2c7eb7ae003dda64b8b4cf5822f1ae7e15ba3d90e68fb5a8cf0372466fe1c": {
+        "title": "2026-03-15日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-15/",
+        "published_date": "Sun, 15 Mar 2026 11:45:00 GMT",
+        "first_seen": "2026-03-15T06:08:41.520146"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-14T23:30:48.082719",
-    "Finance": "2026-03-14T23:31:04.125229",
-    "Ai": "2026-03-14T23:31:04.258622"
+    "Technology": "2026-03-15T06:08:27.231158",
+    "Finance": "2026-03-15T06:08:41.371107",
+    "Ai": "2026-03-15T06:08:41.520154"
   }
 }

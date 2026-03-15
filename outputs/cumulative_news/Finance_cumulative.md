@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-14 23:30
+**最后更新时间**: 2026-03-15 06:08
+
+---
+
+## 🆕 最新更新 (2026-03-15 06:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Military briefing: How mines could tighten Iran’s Gulf chokehold](https://www.ft.com/content/8e45328d-2d15-47c7-b1ea-4b7751bc2669)
+**发布时间**: 2026-03-15 05:00
+
+#### [Retail traders rush into oil bets as Iran war drives wild price swings](https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db)
+**发布时间**: 2026-03-15 05:00
+
+#### [Trump’s ‘shock and war’ makes this economic crisis different](https://www.ft.com/content/bd7a2d03-6df0-4212-aa67-95160bae9db6)
+**发布时间**: 2026-03-15 05:00
+
+#### [Ukraine peace talks fizzle out as Trump’s focus shifts to Iran](https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a)
+**发布时间**: 2026-03-15 05:00
+
+#### [‘Firing off 10 to 15 applications a day’: how UK’s hiring slump hits the young](https://www.ft.com/content/377fd9fb-0e92-4b59-afd0-dfabf93b59b6)
+**发布时间**: 2026-03-15 05:00
+
+#### [‘Join our people’s army’: Farage sets sights on local election gains](https://www.ft.com/content/c11635b9-4e76-49b2-aed8-e174c01b538b)
+**发布时间**: 2026-03-15 05:00
+
+#### [France votes in mayoral elections ahead of 2027 showdown](https://www.ft.com/content/3afde091-d7a2-495f-9d7d-856ca2a50ee5)
+**发布时间**: 2026-03-15 05:00
+
+#### [Japan loses its thirst for vending machines](https://www.ft.com/content/a0e80f5d-4c42-443d-9788-2f9924c774bf)
+**发布时间**: 2026-03-15 01:30
+
+#### [Trump urges China and UK to send warships to reopen Strait of Hormuz](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68)
+**发布时间**: 2026-03-14 23:48
+
+#### [US oil groups in line for $63bn windfall from Gulf war disruption](https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204)
+**发布时间**: 2026-03-14 21:31
 
 ---
 
