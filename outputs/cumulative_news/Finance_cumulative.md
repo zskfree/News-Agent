@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-15 23:32
+**最后更新时间**: 2026-03-16 06:20
+
+---
+
+## 🆕 最新更新 (2026-03-16 06:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Netanyahu’s rivals compete to outdo him over Iran](https://www.ft.com/content/60f00488-ca8f-4bba-b1b1-2b81b7ec2598)
+**发布时间**: 2026-03-16 05:00
+
+#### [The UK is struggling to achieve its aims on clean energy](https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be)
+**发布时间**: 2026-03-16 05:00
+
+#### [Iran war reawakens global inflation fears](https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b)
+**发布时间**: 2026-03-16 05:00
+
+#### [India’s restaurants stop deep frying food as gas crisis bites](https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e)
+**发布时间**: 2026-03-16 05:00
+
+#### [UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal](https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f)
+**发布时间**: 2026-03-16 05:00
+
+#### [Reeves must tackle ‘badly broken’ student loans, Cambridge chancellor says](https://www.ft.com/content/dc86ce80-86ab-45a1-83ff-abf7cc3a1fb2)
+**发布时间**: 2026-03-16 05:00
+
+#### [‘One Battle After Another’ wins Best Picture at Oscars](https://www.ft.com/content/64c90d4e-e2cc-41b5-b8c5-ca55e3c612b3)
+**发布时间**: 2026-03-16 04:52
+
+#### [The highs and lows of the 2026 Oscars](https://www.ft.com/content/8a235e80-2319-4fdf-9e9b-786257c59ba6)
+**发布时间**: 2026-03-16 04:48
+
+#### [Trump throws US-China reboot off course by saying he could delay Xi summit](https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9)
+**发布时间**: 2026-03-16 01:37
+
+#### [Oil prices rise as Strait of Hormuz remains shut](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
+
+#### [UK ready to explore EU tuition fee cut as part of Brexit reset](https://www.ft.com/content/0605e73a-b33f-4149-bf1d-b9e1b9cb27b0)
+**发布时间**: 2026-03-15 15:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict](https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 03:07
 
 ---
 

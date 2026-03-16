@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-15 23:32
+**最后更新时间**: 2026-03-16 06:20
+
+---
+
+## 🆕 最新更新 (2026-03-16 06:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径](https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 14:00
+
+#### [把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
+粮”的⼯程实验](https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 13:23
+
+#### [Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级](https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 11:00
+
+#### [Datadog如何将其Agent的Go二进制文件缩减77%](https://www.infoq.cn/article/47GZpwrTxtLp7409put5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察](https://www.tmtpost.com/7915544.html)
+**发布时间**: 2026-03-16 13:53
+
+#### [大模型时代之后，AI正在寻找真实场景](https://www.tmtpost.com/7914291.html)
+**发布时间**: 2026-03-16 13:21
+
+#### [对话Canva可画中国王可辛：AI始终是人的乙方｜AGI独家](https://www.tmtpost.com/7915627.html)
+**发布时间**: 2026-03-16 13:08
+
+#### [高精度激光雷达企业珞珈伊云完成数千万Pre-A轮融资，中博聚力领投｜融资速递](https://www.tmtpost.com/7915615.html)
+**发布时间**: 2026-03-16 13:06
+
+#### [独家对话灵心巧手周永：他要造100万双灵巧手，只想成为机器猫的万能口袋｜AI Founder 请回答](https://www.tmtpost.com/7915189.html)
+**发布时间**: 2026-03-16 13:04
+
+#### [「龙虾」炸出了腾讯的AI底牌](https://www.tmtpost.com/7915205.html)
+**发布时间**: 2026-03-16 12:46
+
+#### [央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊](https://www.tmtpost.com/7915179.html)
+**发布时间**: 2026-03-16 12:40
+
+#### [从泡椒凤爪到AI投毒，315撕下了多少消费企业的“新装”？](https://www.tmtpost.com/7915530.html)
+**发布时间**: 2026-03-16 12:03
+
+#### [新一代百亿抗凝大药将至](https://www.tmtpost.com/7915071.html)
+**发布时间**: 2026-03-16 12:03
+
+#### [哈啰被央视“3·15”晚会点名，除了租赁乱象仍有“灰色交易”待解](https://www.tmtpost.com/7915577.html)
+**发布时间**: 2026-03-16 12:02
+
+#### [氮化镓，全面起飞](https://www.tmtpost.com/7915494.html)
+**发布时间**: 2026-03-16 11:12
+
+#### [1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多](https://www.tmtpost.com/7915293.html)
+**发布时间**: 2026-03-16 10:45
+
+#### [从业者讲述：被315曝光的GEO，如何精准“忽悠”AI？](https://www.tmtpost.com/7915165.html)
+**发布时间**: 2026-03-16 09:45
+
+#### [给AI投毒，一场关于“最终答案”的信任战争](https://www.tmtpost.com/7915193.html)
+**发布时间**: 2026-03-16 09:38
+
+#### [哈啰出行，上市更难了？](https://www.tmtpost.com/7915344.html)
+**发布时间**: 2026-03-16 09:33
+
+#### [詹鼎系两年资本梦碎记：二股东离场、关联暴雷、重组折戟](https://www.tmtpost.com/7911763.html)
+**发布时间**: 2026-03-16 08:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2025 年度征文 | 新晋一家三口的秩序重建](https://sspai.com/post/106839)
+**发布时间**: 2026-03-16 11:30
+
+#### [派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象](https://sspai.com/post/107396)
+**发布时间**: 2026-03-16 07:17
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [青年韭菜巴菲特？不做价投爱套利？预测行情遭打脸？分币不投骗资金？](http://www.huxiu.com/article/4841650.html?f=wangzhan)
+**发布时间**: 2026-03-16 09:00
 
 ---
 
