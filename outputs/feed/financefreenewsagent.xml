@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 06:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 06:20:58 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:00:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Iran war reawakens global inflation fears</title>
-      <link>https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b</link>
-      <description>&lt;![CDATA[Iran war reawakens global inflation fears]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b</guid>
+      <title>Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO</title>
+      <link>https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump throws US-China reboot off course by saying he could delay Xi summit</title>
-      <link>https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9</link>
-      <description>&lt;![CDATA[Trump throws US-China reboot off course by saying he could delay Xi summit]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 01:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oil prices rise as Strait of Hormuz remains shut</title>
-      <link>https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</link>
-      <description>&lt;![CDATA[Oil prices rise as Strait of Hormuz remains shut]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 01:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The UK is struggling to achieve its aims on clean energy</title>
-      <link>https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be</link>
-      <description>&lt;![CDATA[The UK is struggling to achieve its aims on clean energy]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal</title>
-      <link>https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f</link>
-      <description>&lt;![CDATA[UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f</guid>
+      <title>UniCredit launches €35bn Commerzbank takeover offer</title>
+      <link>https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</link>
+      <description>&lt;![CDATA[UniCredit launches €35bn Commerzbank takeover offer]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</guid>
       <category>Finance</category>
     </item>
   </channel>

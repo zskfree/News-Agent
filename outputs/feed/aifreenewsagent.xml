@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 06:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 06:20:58 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:00:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-16日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-16/</link>
-      <description>&lt;![CDATA[2026-03-16日刊]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-16/</guid>
+      <title>一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发</title>
+      <link>https://www.qbitai.com/2026/03/388352.html</link>
+      <description>&lt;![CDATA[一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388352.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！</title>
+      <link>https://www.qbitai.com/2026/03/388071.html</link>
+      <description>&lt;![CDATA[养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388071.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天下苦「调参」久矣！MIT师生推出全新RandOpt算法</title>
+      <link>https://www.qbitai.com/2026/03/388054.html</link>
+      <description>&lt;![CDATA[天下苦「调参」久矣！MIT师生推出全新RandOpt算法]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388054.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格</title>
+      <link>https://www.qbitai.com/2026/03/387990.html</link>
+      <description>&lt;![CDATA[不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 06:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387990.html</guid>
       <category>Ai</category>
     </item>
   </channel>

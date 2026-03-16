@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 06:20
+**最后更新时间**: 2026-03-16 08:59
+
+---
+
+## 🆕 最新更新 (2026-03-16 08:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO](https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 08:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UniCredit launches €35bn Commerzbank takeover offer](https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525)
+**发布时间**: 2026-03-16 07:53
+
+#### [Retail investors pull billions from private capital’s credit gold mine](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd)
+**发布时间**: 2026-03-16 05:00
+
+#### [Canadian pension funds count cost of private equity slump](https://www.ft.com/content/1dcd44b2-e08c-4d95-99b1-065c84852528)
+**发布时间**: 2026-03-16 05:00
+
+#### [Dubai-bound flights forced to turn back after drone sparks airport fire](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
 
 ---
 
