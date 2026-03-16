@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 08:59
+**最后更新时间**: 2026-03-16 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-16 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years](https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0)
+**发布时间**: 2026-03-16 22:51
+
+#### [Trump asks to postpone summit with China’s Xi due to Iran war](https://www.ft.com/content/be66297c-dd84-4dc8-914b-698e46261b0a)
+**发布时间**: 2026-03-16 22:07
+
+#### [US diesel prices soar to almost $5 as Iran war pinches global supplies](https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c)
+**发布时间**: 2026-03-16 21:20
+
+#### [Angela Rayner aims to reassure investors with City charm offensive](https://www.ft.com/content/a1ff7cdd-1ba9-422b-8890-8445d97796b3)
+**发布时间**: 2026-03-16 21:00
+
+#### [Close Brothers plunges as short seller claims it understated UK car finance risks](https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d)
+**发布时间**: 2026-03-16 19:07
+
+#### [Donald Trump launches fresh attack on UK’s ‘terrible’ Iran war stance](https://www.ft.com/content/7b790f92-43eb-4471-a672-9949816ae21e)
+**发布时间**: 2026-03-16 18:08
+
+#### [Iran earns oil windfall as US turns blind eye](https://www.ft.com/content/35e815ef-46f3-4169-a39d-cc6bafdfbc1c)
+**发布时间**: 2026-03-16 17:54
+
+#### [Mandelson received more than £1.5mn for stake in collapsed advisory firm](https://www.ft.com/content/87854fcd-3de0-4b81-8955-f50134e2b265)
+**发布时间**: 2026-03-16 17:10
+
+#### [Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1)
+**发布时间**: 2026-03-16 11:12
+
+#### [Germany and UK refuse to be drawn into wider war](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks](https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 22:01
+
+#### [U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?](https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 21:28
+
+#### [Upstart’s stock rises as analyst says investors have been ignoring a key catalyst](https://www.marketwatch.com/story/upstarts-stock-rises-as-analyst-says-investors-have-been-ignoring-a-key-catalyst-81fbde00?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:57
+
+#### [Warren Buffett’s parting gift to Berkshire Hathaway: A $2 billion Iran oil windfall](https://www.marketwatch.com/story/warren-buffetts-parting-gift-to-berkshire-hathaway-a-2-billion-iran-oil-windfall-4daf28ba?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:52
+
+#### [‘I’m so screwed’: How can I afford to care for a mom with dementia and send my teen to college?](https://www.marketwatch.com/story/im-so-screwed-how-can-i-afford-to-care-for-a-mom-with-dementia-and-send-my-teen-to-college-9d127f90?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:41
+
+#### [Elon Musk’s xAI is facing a growing number of lawsuits over AI-generated deepfakes](https://www.marketwatch.com/story/elon-musks-xai-is-facing-a-growing-number-of-lawsuits-over-ai-generated-deepfakes-08fa166b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:39
+
+#### [Dollar is benefiting from Iran conflict as investors worry about inflation](https://www.marketwatch.com/story/the-u-s-dollar-and-crypto-are-both-benefiting-from-the-iran-crisis-in-an-unusual-move-85873834?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:36
+
+#### [‘It’s complicated’: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?](https://www.marketwatch.com/story/its-complicated-my-husband-61-wants-to-leave-me-everything-his-kids-will-hate-me-what-should-i-do-b1d06504?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:30
+
+#### [Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio](https://www.marketwatch.com/story/record-oscar-haul-for-warner-bros-caps-off-a-topsy-turvy-year-for-the-legendary-studio-0f81f0d9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:14
 
 ---
 

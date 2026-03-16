@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 09:00:10 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:35:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO</title>
-      <link>https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</guid>
+      <title>Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks</title>
+      <link>https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 22:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>UniCredit launches €35bn Commerzbank takeover offer</title>
-      <link>https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</link>
-      <description>&lt;![CDATA[UniCredit launches €35bn Commerzbank takeover offer]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 07:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</guid>
+      <title>Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years</title>
+      <link>https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0</link>
+      <description>&lt;![CDATA[Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 22:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Hormuz will haunt us long after this war ends</title>
+      <link>https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1</link>
+      <description>&lt;![CDATA[Why Hormuz will haunt us long after this war ends]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Close Brothers plunges as short seller claims it understated UK car finance risks</title>
+      <link>https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d</link>
+      <description>&lt;![CDATA[Close Brothers plunges as short seller claims it understated UK car finance risks]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US diesel prices soar to almost $5 as Iran war pinches global supplies</title>
+      <link>https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c</link>
+      <description>&lt;![CDATA[US diesel prices soar to almost $5 as Iran war pinches global supplies]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c</guid>
       <category>Finance</category>
     </item>
   </channel>

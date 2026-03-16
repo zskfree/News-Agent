@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e38f41b0b8e3600eef551ae340f79b1ea50462a7b8622106cf2c40246e328a1c": {
-        "title": "杨元庆：AI绝对没有泡沫，市场需求不仅没有饱和，还会继续高速增长",
-        "link": "https://www.tmtpost.com/7881001.html",
-        "published_date": "Sat, 14 Feb 2026 17:54:00 GMT",
-        "first_seen": "2026-02-14T23:27:28.493696"
-      },
-      "b16b30362a90c8fbcea8d530ba5e8181e1513075e7e3f9183e316b780d5779f7": {
-        "title": "Waku：最小的React框架发布了Alpha版本",
-        "link": "https://www.infoq.cn/article/wyY96yPluPj9iE97UUod?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-14T23:27:28.493704"
-      },
-      "2e66823e617403fabee87320c07cee584eb329ba9fc4c40de7ecd12fe39ba960": {
-        "title": "Jakarta EE 12里程碑版本2：伴随着一致性和配置的数据时代的到来",
-        "link": "https://www.infoq.cn/article/NOrgpX1acb1GiGScpGEI?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Feb 2026 09:00:00 GMT",
-        "first_seen": "2026-02-14T23:27:28.493706"
-      },
-      "cc7a5a0cb4cbc31c1f1e60bf135089b7c6c007e03664a8369f94bbc72262b9f0": {
-        "title": "无界动力完成超2亿元天使+轮融资，红杉、线性、高瓴持续追投｜独家",
-        "link": "https://www.tmtpost.com/7880677.html",
-        "published_date": "Sat, 14 Feb 2026 10:48:00 GMT",
-        "first_seen": "2026-02-14T23:27:28.493709"
-      },
-      "e080635bbd9513766f808d25a55cb88cf740929d419a8a80f2ace1db8b6d0c69": {
-        "title": "BellSoft调查发现容器安全实践正在破坏开发者自己的目标",
-        "link": "https://www.infoq.cn/article/0k9GJAt24pKSAF635qVi?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Feb 2026 18:00:00 GMT",
-        "first_seen": "2026-02-14T23:27:28.493711"
-      },
       "4b3e428fb8602a166473ae90f791b35b78ac1ec105a4dfc5db993efec1a58922": {
         "title": "一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？",
         "link": "https://www.tmtpost.com/7880876.html",
@@ -2665,39 +2635,39 @@
         "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
         "first_seen": "2026-03-16T09:00:10.587290"
+      },
+      "1f4f4eb3734633d6149b32013316f0514747be8581d22d4fc085d5c7673f795d": {
+        "title": "【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元",
+        "link": "https://www.tmtpost.com/7916294.html",
+        "published_date": "Tue, 17 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-16T23:34:48.421072"
+      },
+      "9b12f35dce75b1e7d4594e6d7371ee055d3a4f22fc3c4d3688408006f9b34a96": {
+        "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
+        "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 17:26:00 GMT",
+        "first_seen": "2026-03-16T23:34:48.421085"
+      },
+      "711ef4b10b821a59c716dab4a0f4f92c464a7ec52c5629ebb9e38a2f8172f156": {
+        "title": "当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代",
+        "link": "https://www.tmtpost.com/7916266.html",
+        "published_date": "Mon, 16 Mar 2026 21:04:00 GMT",
+        "first_seen": "2026-03-16T23:34:48.421090"
+      },
+      "d74204bdf4b7ca47996a5e0177f61cf4b6161d02c65100a25869e23b9a6cfc89": {
+        "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
+        "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:27:00 GMT",
+        "first_seen": "2026-03-16T23:34:48.421093"
+      },
+      "f81b362ea59851ccf6ae5918303aae38249bf2c872f8f32f47096d595c3c8ca9": {
+        "title": "1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多",
+        "link": "https://www.tmtpost.com/7915293.html",
+        "published_date": "Mon, 16 Mar 2026 10:45:00 GMT",
+        "first_seen": "2026-03-16T23:34:48.421097"
       }
     },
     "Finance": {
-      "4a1d50bdf24b86d7ebcf933c5456c0847c5591954f6249df8575e1ee99f4a5e7": {
-        "title": "Social Security could run out of money in just 6 years — even sooner than originally feared",
-        "link": "https://www.marketwatch.com/story/social-security-could-run-out-of-money-in-just-6-years-even-sooner-than-originally-feared-c28eb5a5?mod=mw_rss_topstories",
-        "published_date": "Sat, 14 Feb 2026 19:55:00 GMT",
-        "first_seen": "2026-02-14T23:27:37.999210"
-      },
-      "2689d7f59ef186eb18e433defebebeecbc4d53b007d91e830ab70ae470aa4087": {
-        "title": "Thank ‘Too Late’ Jerome Powell for the jobs and inflation beats",
-        "link": "https://www.marketwatch.com/story/thank-too-late-jerome-powell-for-the-jobs-and-inflation-beats-2bc659af?mod=mw_rss_topstories",
-        "published_date": "Sat, 14 Feb 2026 18:05:00 GMT",
-        "first_seen": "2026-02-14T23:27:37.999215"
-      },
-      "aa5b4d1920b60626ba135bb9366e5a4dbc405d22be333b98afadf59f1a1e1d5c": {
-        "title": "Six Wall Street bank chiefs bring in combined pay of $250mn in 2025",
-        "link": "https://www.ft.com/content/62b8713f-cd72-4838-b8ac-708b91b2830f",
-        "published_date": "Sat, 14 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-14T23:27:37.999218"
-      },
-      "9f93a185264f3f8da71fb539a8d57dae2b3ffc6138d6cd655bab33a216617e15": {
-        "title": "My employer is forcing me into a Roth 401(k). Is there anything I can do?",
-        "link": "https://www.marketwatch.com/story/im-being-forced-into-a-roth-401-k-is-there-anything-i-can-do-81a6848d?mod=mw_rss_topstories",
-        "published_date": "Sat, 14 Feb 2026 19:42:00 GMT",
-        "first_seen": "2026-02-14T23:27:37.999219"
-      },
-      "7a38dd8880672176860023c92c630f23e842b9d1fd8db85532d5b1fbda195e1b": {
-        "title": "I’m almost 65 and live abroad. Should I skip signing up for Medicare?",
-        "link": "https://www.marketwatch.com/story/im-almost-65-and-live-abroad-should-i-skip-signing-up-for-medicare-2eaf7f79?mod=mw_rss_topstories",
-        "published_date": "Sat, 14 Feb 2026 18:37:00 GMT",
-        "first_seen": "2026-02-14T23:27:37.999221"
-      },
       "ab3a8cc868ebe5a70943739ab8907eb1fffb584fabcdeafb87e4f37de38200b1": {
         "title": "The AI productivity take-off is finally visible",
         "link": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5",
@@ -4557,39 +4527,39 @@
         "link": "https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525",
         "published_date": "Mon, 16 Mar 2026 07:53:00 GMT",
         "first_seen": "2026-03-16T09:00:10.620919"
+      },
+      "66f9771a4fffcdf0522b3d67e9dc9f56843209271008b718a893c5d720eaddf6": {
+        "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
+        "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
+        "published_date": "Mon, 16 Mar 2026 22:01:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.711058"
+      },
+      "6219dded21a63e014fba5e9e21aaab0c0d656ffff489289385a29eacb9e44e72": {
+        "title": "Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years",
+        "link": "https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0",
+        "published_date": "Mon, 16 Mar 2026 22:51:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.711064"
+      },
+      "f6bdf569bb64a2efca9ade0caef0d1a77d329d6b69097155c7023c7008c03d0d": {
+        "title": "Why Hormuz will haunt us long after this war ends",
+        "link": "https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1",
+        "published_date": "Mon, 16 Mar 2026 11:12:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.711066"
+      },
+      "dd4a465d9616e6db3440b33d00c1769044a28b97d2bcb3b6cc83a6e159cdf231": {
+        "title": "Close Brothers plunges as short seller claims it understated UK car finance risks",
+        "link": "https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d",
+        "published_date": "Mon, 16 Mar 2026 19:07:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.711068"
+      },
+      "04fecb001680a16606952d12f01130581fc2ff49b0f5125062ce4d763d2217a0": {
+        "title": "US diesel prices soar to almost $5 as Iran war pinches global supplies",
+        "link": "https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c",
+        "published_date": "Mon, 16 Mar 2026 21:20:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.711069"
       }
     },
     "Ai": {
-      "58f1321fa5c087f982fef1bc26734c1254db3bb6b1764f7ca2bb741a42d599ac": {
-        "title": "多模态Deep Research，终于有了「可核验」的评测标准",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-6",
-        "published_date": "Sat, 14 Feb 2026 16:37:00 GMT",
-        "first_seen": "2026-02-14T23:27:52.764530"
-      },
-      "5a180ce24223f0b61c61b61edb8e01a21f9ba967b332d20ea114178c820d0707": {
-        "title": "字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-9",
-        "published_date": "Sat, 14 Feb 2026 16:55:00 GMT",
-        "first_seen": "2026-02-14T23:27:52.764537"
-      },
-      "ed43425458bc99ba026c65748aaaf114269b080df2ee3e4cfb7d1225ab2a1466": {
-        "title": "「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了",
-        "link": "https://www.qbitai.com/2026/02/380347.html",
-        "published_date": "Sat, 14 Feb 2026 08:46:00 GMT",
-        "first_seen": "2026-02-14T23:27:52.764539"
-      },
-      "7709efe008e30a554bc9b374bad037e317302c89804e796cccd4f56eb500a057": {
-        "title": "这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-7",
-        "published_date": "Sat, 14 Feb 2026 16:43:00 GMT",
-        "first_seen": "2026-02-14T23:27:52.764541"
-      },
-      "19feace3eaef5e6a78a9483ddf4fe1900a8ec8025b5d6c32b9bf3d84b3238e9b": {
-        "title": "Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-8",
-        "published_date": "Sat, 14 Feb 2026 16:51:00 GMT",
-        "first_seen": "2026-02-14T23:27:52.764542"
-      },
       "02fb412ab79e61f5b4238380d434769746c359d00abaf1df3dfad245c2d98e33": {
         "title": "2026-02-15日刊",
         "link": "https://ai.hubtoday.app//2026-02/2026-02-15/",
@@ -5831,13 +5801,37 @@
         "link": "https://www.qbitai.com/2026/03/387990.html",
         "published_date": "Mon, 16 Mar 2026 06:50:00 GMT",
         "first_seen": "2026-03-16T09:00:10.764518"
+      },
+      "a7ac004cfc42e3425960f19b5e765b4a133c64ccf2060258034cb977387d5f17": {
+        "title": "Testing LLMs on superconductivity research questions",
+        "link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
+        "published_date": "Mon, 16 Mar 2026 17:31:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.864014"
+      },
+      "6eb89d01a932d95922b280857b483542787440b577e670df6fd6b85ed520f698": {
+        "title": "零跑，首次全年盈利！",
+        "link": "https://www.qbitai.com/2026/03/388411.html",
+        "published_date": "Mon, 16 Mar 2026 11:56:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.864022"
+      },
+      "b9b5f800236ffe41f260f7b9c640e0c922378e42a2bae47963d2266925bcad5e": {
+        "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+        "link": "https://www.qbitai.com/2026/03/388387.html",
+        "published_date": "Mon, 16 Mar 2026 11:48:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.864024"
+      },
+      "d0eab4ca76dcd0649aa6ac1ffac53fe4e4ab1c4f0c67203b8fc01e482cd8e343": {
+        "title": "机器人爆款收割机狂揽1.2亿美金",
+        "link": "https://www.qbitai.com/2026/03/388381.html",
+        "published_date": "Mon, 16 Mar 2026 11:22:00 GMT",
+        "first_seen": "2026-03-16T23:35:04.864026"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-16T09:00:10.587292",
-    "Finance": "2026-03-16T09:00:10.620922",
-    "Ai": "2026-03-16T09:00:10.764520"
+    "Technology": "2026-03-16T23:34:48.421101",
+    "Finance": "2026-03-16T23:35:04.711073",
+    "Ai": "2026-03-16T23:35:04.864027"
   }
 }

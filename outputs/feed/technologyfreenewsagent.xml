@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 09:00:10 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:34:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮</title>
-      <link>https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元</title>
+      <link>https://www.tmtpost.com/7916294.html</link>
+      <description>&lt;![CDATA[【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7916294.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”</title>
-      <link>https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 2.0 时代的大模型推理：从模型到硬件的协同优化</title>
+      <link>https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 2.0 时代的大模型推理：从模型到硬件的协同优化]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》</title>
-      <link>https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代</title>
+      <link>https://www.tmtpost.com/7916266.html</link>
+      <description>&lt;![CDATA[当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7916266.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊</title>
-      <link>https://www.tmtpost.com/7915179.html</link>
-      <description>&lt;![CDATA[央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915179.html</guid>
+      <title>Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic</title>
+      <link>https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间</title>
-      <link>https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多</title>
+      <link>https://www.tmtpost.com/7915293.html</link>
+      <description>&lt;![CDATA[1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915293.html</guid>
       <category>Technology</category>
     </item>
   </channel>

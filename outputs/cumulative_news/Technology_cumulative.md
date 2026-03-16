@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 08:59
+**最后更新时间**: 2026-03-16 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-16 23:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元](https://www.tmtpost.com/7916294.html)
+**发布时间**: 2026-03-17 07:20
+
+#### [英伟达GTC 2026前瞻！200亿美元“窃壳”Groq：黄仁勋亲手切开推理算力蛋糕](https://www.tmtpost.com/7916354.html)
+**发布时间**: 2026-03-16 23:03
+
+#### [当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代](https://www.tmtpost.com/7916266.html)
+**发布时间**: 2026-03-16 21:04
+
+#### [以太之心发布Aeloon（伊龙），超低Token消耗重塑智能体普惠价值｜公司动态](https://www.tmtpost.com/7915536.html)
+**发布时间**: 2026-03-16 20:41
+
+#### [首发 | 北美餐饮服务商Chowbus获8100万美元融资，为多家茶饮餐饮品牌出海合作伙伴](https://www.tmtpost.com/7916217.html)
+**发布时间**: 2026-03-16 20:37
+
+#### [霸王茶姬拟进入韩国市场；爱诗科技完成3亿美元C轮融资，多家海外机构参与投资；完美日记母公司获战略投资，计划扩张海外 ｜一周大公司出海](https://www.tmtpost.com/7916213.html)
+**发布时间**: 2026-03-16 20:30
+
+#### [顶固集创2.68亿跨界豪赌：10倍溢价收购，主业承压下突围成效待考｜并购一线](https://www.tmtpost.com/7916151.html)
+**发布时间**: 2026-03-16 19:39
+
+#### [韶音如何在技术无人区，走出耳机第三条路？](https://www.tmtpost.com/7915839.html)
+**发布时间**: 2026-03-16 19:33
+
+#### [白嫩鸡爪给我的肠胃做了次生化洗礼](https://www.tmtpost.com/7915946.html)
+**发布时间**: 2026-03-16 19:22
+
+#### [洗牌与破局：手术机器人陷行业内卷与定价失衡，收费新政如何唤醒市场？｜行业风向标](https://www.tmtpost.com/7916081.html)
+**发布时间**: 2026-03-16 19:12
+
+#### [欧伦电气：业绩逆市增长，3成资产是货币资金还募1亿补流｜IPO观察](https://www.tmtpost.com/7912722.html)
+**发布时间**: 2026-03-16 19:03
+
+#### [日益资本化的竞技体育和审慎的德国 | 欧洲观察](https://www.tmtpost.com/7895319.html)
+**发布时间**: 2026-03-16 18:48
+
+#### [王兴学会“断舍离”](https://www.tmtpost.com/7915661.html)
+**发布时间**: 2026-03-16 18:10
+
+#### [第一批移植AI“器官”的人，正在产生排异反应](https://www.tmtpost.com/7915685.html)
+**发布时间**: 2026-03-16 18:10
+
+#### [B站完成了一场透支式盈利](https://www.tmtpost.com/7915736.html)
+**发布时间**: 2026-03-16 18:10
+
+#### [梁文锋推迟V4，是为了根治龙虾的健忘症？](https://www.tmtpost.com/7915891.html)
+**发布时间**: 2026-03-16 18:10
+
+#### [别再叫杭州“互联网医疗第一城”了](https://www.tmtpost.com/7915851.html)
+**发布时间**: 2026-03-16 18:10
+
+#### [扫地机器人6.0时代，跨界的萤石给出了AI清洁新方案｜AWE 2026](https://www.tmtpost.com/7914664.html)
+**发布时间**: 2026-03-16 17:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Elastic 9.3 升级！向量搜索快 12 倍](https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 21:24
+
+#### [曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？](https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 18:48
+
+#### [从 ChatBI 到多 Agent 分析中台：Snowflake 与亚马逊云科技的实战架构](https://www.infoq.cn/article/gKOHwNErbptx92BQWZmQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 18:06
+
+#### [AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践](https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 17:38
+
+#### [AI 2.0 时代的大模型推理：从模型到硬件的协同优化](https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 17:26
+
+#### [AI 领导力：像管理团队一样管理 AI](https://www.infoq.cn/article/DCc9GWuL9MVlgvDpRJWg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 17:16
+
+#### [Snowflake China 与国内云对象存储的多云集成实战指南：一套架构打通多云对象存储](https://www.infoq.cn/article/k8BNY1zRhBSFCGmo4yOe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-16 17:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/107431)
+**发布时间**: 2026-03-16 17:53
+
+#### [年度征文 | 新晋一家三口的秩序重建](https://sspai.com/post/106839)
+**发布时间**: 2026-03-16 11:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [重金求安装，连夜付费卸载：龙虾潮背后的焦虑](http://www.huxiu.com/article/4842273.html?f=wangzhan)
+**发布时间**: 2026-03-16 17:00
 
 ---
 
