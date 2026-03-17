@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Mar 2026 08:55:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2026 08:56:26 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 23:36:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块</title>
-      <link>https://www.qbitai.com/2026/03/388527.html</link>
-      <description>&lt;![CDATA[零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388527.html</guid>
+      <title>黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元</title>
+      <link>https://www.qbitai.com/2026/03/388720.html</link>
+      <description>&lt;![CDATA[黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388720.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>企业级靠谱龙虾升级，拒绝失控</title>
-      <link>https://www.qbitai.com/2026/03/388519.html</link>
-      <description>&lt;![CDATA[企业级靠谱龙虾升级，拒绝失控]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 07:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388519.html</guid>
+      <title>Google Research at The Check Up: from healthcare innovation to real-world care settings</title>
+      <link>https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/</link>
+      <description>&lt;![CDATA[Google Research at The Check Up: from healthcare innovation to real-world care settings]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Kimi新架构让马斯克叹服！17岁高中生作者一战成名</title>
-      <link>https://www.qbitai.com/2026/03/388493.html</link>
-      <description>&lt;![CDATA[Kimi新架构让马斯克叹服！17岁高中生作者一战成名]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388493.html</guid>
+      <title>Improving breast cancer screening workflows with machine learning</title>
+      <link>https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/</link>
+      <description>&lt;![CDATA[Improving breast cancer screening workflows with machine learning]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍</title>
-      <link>https://www.qbitai.com/2026/03/388443.html</link>
-      <description>&lt;![CDATA[GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 06:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388443.html</guid>
+      <title>达卯科技与云南电力技术，助力云南“绿电+智算”融合发展</title>
+      <link>https://www.qbitai.com/2026/03/388668.html</link>
+      <description>&lt;![CDATA[达卯科技与云南电力技术，助力云南“绿电+智算”融合发展]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388668.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界</title>
+      <link>https://www.qbitai.com/2026/03/388701.html</link>
+      <description>&lt;![CDATA[从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388701.html</guid>
       <category>Ai</category>
     </item>
   </channel>

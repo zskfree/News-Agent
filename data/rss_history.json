@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a159c1149313dfd2e06ba6998b8b2f246ffa4b6648ec86eeafefdc4260f2ba16": {
-        "title": "芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图",
-        "link": "https://www.tmtpost.com/7881567.html",
-        "published_date": "Sun, 15 Feb 2026 17:49:00 GMT",
-        "first_seen": "2026-02-15T23:29:29.289351"
-      },
-      "bab0b7ee4f9e09e894f9e3928559888c6b4b003a6ded1755a03b68064f87e482": {
-        "title": "SaaS业数千亿市值蒸发：AI如何变革组织架构？",
-        "link": "https://www.tmtpost.com/7880673.html",
-        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
-        "first_seen": "2026-02-15T23:29:29.289360"
-      },
-      "97e0ea35c312923aaa1dc6ced30886c5913a30bb53e1fc9bd52a9e97a7307661": {
-        "title": "晶圆厂疯建，光刻机却卖不动了",
-        "link": "https://www.tmtpost.com/7881445.html",
-        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
-        "first_seen": "2026-02-15T23:29:29.289363"
-      },
-      "ce1861e88fe358f2157c917b184074ce6c97f0ce1659b8a0de22db346fb2ee86": {
-        "title": "CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势",
-        "link": "https://www.tmtpost.com/7881723.html",
-        "published_date": "Sun, 15 Feb 2026 20:34:00 GMT",
-        "first_seen": "2026-02-15T23:29:29.289365"
-      },
-      "5098580f9c5c067555b22b27d0f16d43a19ace0c19d2cf9cf6b9fd2c14fa1c88": {
-        "title": "37万人把自己租给AI、迪士尼向字节“开战”",
-        "link": "https://www.tmtpost.com/7881503.html",
-        "published_date": "Sun, 15 Feb 2026 16:31:00 GMT",
-        "first_seen": "2026-02-15T23:29:29.289366"
-      },
       "8ad8abaa11e39ed56608fbe5b2158da60d7509295b2084c146ea700a5c73dc48": {
         "title": "刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会",
         "link": "https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7917509.html",
         "published_date": "Tue, 17 Mar 2026 14:56:00 GMT",
         "first_seen": "2026-03-17T08:56:26.756670"
+      },
+      "d4da372f035aa23a30c1146bc54147502ff8f54f434ca244e4e9c777a39e42c1": {
+        "title": "【钛晨报】北京启动专项行动，重点整治五类涉AI领域网络乱象；国家发展改革委推出新一批重大外资项目，计划投资额134亿美元；腾讯QClaw即将上线，微信入口全面升级",
+        "link": "https://www.tmtpost.com/7918419.html",
+        "published_date": "Wed, 18 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-17T23:35:31.769816"
+      },
+      "219388b08396010b10bcb128c7744d32c6a1ea810650619d2c108d6dc831cfc8": {
+        "title": "估值1200亿后Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱",
+        "link": "https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
+        "first_seen": "2026-03-17T23:35:31.769823"
+      },
+      "a3cdfcbe5b0f65f8170bbd57891b2565dc5d707a405de7c9bda92946627d7344": {
+        "title": "AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸",
+        "link": "https://www.tmtpost.com/7917791.html",
+        "published_date": "Tue, 17 Mar 2026 18:57:00 GMT",
+        "first_seen": "2026-03-17T23:35:31.769826"
+      },
+      "28d97efc9cf80ac373c6d2dad1864c4f38c63023c60416cfa39a3cb9c95b77eb": {
+        "title": "阿里抛出“悟空”，B端AI之争告别“养龙虾”竞赛",
+        "link": "https://www.tmtpost.com/7917661.html",
+        "published_date": "Tue, 17 Mar 2026 18:53:00 GMT",
+        "first_seen": "2026-03-17T23:35:31.769828"
+      },
+      "d2c7e0a81dda0f7e8d44ac9019ec1c2d0c5b99ed53b910ce58cf1aa0e430a8ee": {
+        "title": "Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！",
+        "link": "https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
+        "first_seen": "2026-03-17T23:35:31.769830"
       }
     },
     "Finance": {
-      "02f5b31eed69b229a2bfa4c22e2245a4900466aa9b0a19a0956bc55a42a6075d": {
-        "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
-        "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
-        "published_date": "Sun, 15 Feb 2026 22:09:00 GMT",
-        "first_seen": "2026-02-15T23:29:40.104449"
-      },
-      "244760967079eb93170539a8e5f2bf51903b1a8e2d84dd467fd47de16cbfb951": {
-        "title": "Rents are finally falling in some parts of the country. Here’s who is actually feeling the relief.",
-        "link": "https://www.marketwatch.com/story/rents-are-finally-falling-in-some-parts-of-the-country-heres-who-is-actually-feeling-the-relief-08d1a6dd?mod=mw_rss_topstories",
-        "published_date": "Sun, 15 Feb 2026 20:22:00 GMT",
-        "first_seen": "2026-02-15T23:29:40.104455"
-      },
-      "a86a5b420228a8adaea0312eec1964eb7392a913ff3de5e58c36ac2e1b0a6eba": {
-        "title": "UK to tighten online safety laws to include AI chatbots",
-        "link": "https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1",
-        "published_date": "Sun, 15 Feb 2026 22:30:00 GMT",
-        "first_seen": "2026-02-15T23:29:40.104458"
-      },
-      "72bb50341388d9a01f27e0009c56dfb3ed54a5c99c1eaa1ed495d3a2f15aa5ec": {
-        "title": "Ottawa’s shift away from US defence   manufacturers aims to create 125,000 jobs",
-        "link": "https://www.ft.com/content/cde7c236-e62f-4ced-9667-7115f16a40e6",
-        "published_date": "Sun, 15 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-15T23:29:40.104460"
-      },
-      "859e111aea62cffab106df15b6a230277d1a984808b96b18c75ffa60a3b1c439": {
-        "title": "Russia’s Wagner Group pivots to European sabotage, say western officials",
-        "link": "https://www.ft.com/content/dbd1d803-ab37-43f1-920f-fce74952313a",
-        "published_date": "Sun, 15 Feb 2026 18:00:00 GMT",
-        "first_seen": "2026-02-15T23:29:40.104461"
-      },
       "a163f01c4e7254d3194afb622463ae66a0c1de555f6ba5a2d70df1321dd428ff": {
         "title": "EU cross-border banking deals jump to highest since 2008 crisis",
         "link": "https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a",
@@ -4569,39 +4539,39 @@
         "link": "https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d",
         "published_date": "Tue, 17 Mar 2026 06:30:00 GMT",
         "first_seen": "2026-03-17T08:56:26.790957"
+      },
+      "7d8e07682a4dcec0da78f92be3599e5cffb7ca6353eafc3501f449044814c952": {
+        "title": "The era of US dominance in economic warfare is over",
+        "link": "https://www.ft.com/content/ae458591-5941-45f1-bf7b-7110bc35eb88",
+        "published_date": "Tue, 17 Mar 2026 15:22:00 GMT",
+        "first_seen": "2026-03-17T23:35:51.508059"
+      },
+      "6acda4c032dd5695006ab365883355de8ae39812a3c0ca099c1216965523fd8b": {
+        "title": "3 signals will reveal if the Iran oil shock is just a blip — or the new normal",
+        "link": "https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Mar 2026 21:07:00 GMT",
+        "first_seen": "2026-03-17T23:35:51.508064"
+      },
+      "46233f40b6c9861b787dcc82428066d97d94709d5deef4db5da0e1246fb0971c": {
+        "title": "Nvidia restarts manufacturing of AI chips for China",
+        "link": "https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f",
+        "published_date": "Tue, 17 Mar 2026 20:38:00 GMT",
+        "first_seen": "2026-03-17T23:35:51.508066"
+      },
+      "6b57672618276e06fc7236dc5d948c451b73bff5e004e63c1ad2b8b0a1aa004c": {
+        "title": "Nebius’s stock falls as investors get a wake-up call on the cost of competing in AI",
+        "link": "https://www.marketwatch.com/story/nebiuss-stock-falls-on-a-bond-offering-heres-why-investors-are-sobering-up-b3392d06?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Mar 2026 22:29:00 GMT",
+        "first_seen": "2026-03-17T23:35:51.508068"
+      },
+      "c47446f87576c7b2b088fab68beaf8bc199b041cb69a9892e4fc8607f0d9d2a1": {
+        "title": "Why Nvidia’s stock is shrugging off a $1 trillion revenue forecast",
+        "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-shrugging-off-a-1-trillion-revenue-forecast-74a729d6?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Mar 2026 22:31:00 GMT",
+        "first_seen": "2026-03-17T23:35:51.508070"
       }
     },
     "Ai": {
-      "9caf1a34f0e0110633bcc8bc7670459d2bc8cfc2d0087daf201151a4df12883d": {
-        "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-15-4",
-        "published_date": "Sun, 15 Feb 2026 19:06:00 GMT",
-        "first_seen": "2026-02-15T23:29:54.352760"
-      },
-      "bd1bb6592c31294db51235bda6e718835e7b9e532ecc9213615999f97ec76e80": {
-        "title": "ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-15",
-        "published_date": "Sun, 15 Feb 2026 18:32:00 GMT",
-        "first_seen": "2026-02-15T23:29:54.352766"
-      },
-      "d11a5f36a3f86b0033ad934e86f1d23246d8240dd096193af56d4b905eff4468": {
-        "title": "还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-15-6",
-        "published_date": "Sun, 15 Feb 2026 19:15:00 GMT",
-        "first_seen": "2026-02-15T23:29:54.352768"
-      },
-      "2893ed287e21106343850467c2947170508730cbab53498c7c6c0beb7b58ef5c": {
-        "title": "AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-15-5",
-        "published_date": "Sun, 15 Feb 2026 19:10:00 GMT",
-        "first_seen": "2026-02-15T23:29:54.352770"
-      },
-      "af6ee64b6d568865b2ca305c9886c146ebb14c56c133474a6789fe6cd30177ee": {
-        "title": "从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——",
-        "link": "https://www.qbitai.com/2026/02/380405.html",
-        "published_date": "Sun, 15 Feb 2026 11:58:00 GMT",
-        "first_seen": "2026-02-15T23:29:54.352772"
-      },
       "0b457e672f2fd4aee02dd523fdd0452d3dd82d73f7c03417749b729396c5a445": {
         "title": "刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了",
         "link": "https://www.jiqizhixin.com/articles/2026-02-16-2",
@@ -5861,13 +5831,43 @@
         "link": "https://www.qbitai.com/2026/03/388443.html",
         "published_date": "Tue, 17 Mar 2026 06:07:00 GMT",
         "first_seen": "2026-03-17T08:56:26.937793"
+      },
+      "0e8cc508c6331a508fd082e70bff35cdd8561d336cdeb8943521764febbf101e": {
+        "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
+        "link": "https://www.qbitai.com/2026/03/388720.html",
+        "published_date": "Tue, 17 Mar 2026 13:08:00 GMT",
+        "first_seen": "2026-03-17T23:36:03.924487"
+      },
+      "2dde70462a00e0f585b5d406152c6ed94656e13af907d60d0841d107a94dc08b": {
+        "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
+        "link": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/",
+        "published_date": "Tue, 17 Mar 2026 19:47:00 GMT",
+        "first_seen": "2026-03-17T23:36:03.924493"
+      },
+      "c0f0f0812a8c8a42b45dd9a1b64c5c06e142a84edf8e0d9ee9b9742e8e62b52b": {
+        "title": "Improving breast cancer screening workflows with machine learning",
+        "link": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/",
+        "published_date": "Tue, 17 Mar 2026 16:57:00 GMT",
+        "first_seen": "2026-03-17T23:36:03.924495"
+      },
+      "918b882243eb39a5241556312e7b8f42cd5d7312e1a08fdae94a14b9a535dac5": {
+        "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
+        "link": "https://www.qbitai.com/2026/03/388668.html",
+        "published_date": "Tue, 17 Mar 2026 11:55:00 GMT",
+        "first_seen": "2026-03-17T23:36:03.924497"
+      },
+      "f5323a2538c287e17948555025b4a483ac852d065f0f10c6906531258255c9ca": {
+        "title": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
+        "link": "https://www.qbitai.com/2026/03/388701.html",
+        "published_date": "Tue, 17 Mar 2026 12:12:00 GMT",
+        "first_seen": "2026-03-17T23:36:03.924498"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-17T08:56:26.756673",
-    "Finance": "2026-03-17T08:56:26.790959",
-    "Ai": "2026-03-17T08:56:26.937794"
+    "Technology": "2026-03-17T23:35:31.769832",
+    "Finance": "2026-03-17T23:35:51.508072",
+    "Ai": "2026-03-17T23:36:03.924500"
   }
 }

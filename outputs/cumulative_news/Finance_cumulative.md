@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-17 08:56
+**最后更新时间**: 2026-03-17 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-17 23:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The spike in gas prices might affect Olive Garden sales, but not in the way you’d expect](https://www.marketwatch.com/story/the-spike-in-gas-prices-might-affect-olive-garden-sales-but-not-in-the-way-youd-expect-2a7d39c8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 23:20
+
+#### [Uber’s stock powers higher as Nvidia robotaxi deal helps avert ‘doomsday’ scenario](https://www.marketwatch.com/story/ubers-stock-powers-higher-as-nvidia-robotaxi-deal-helps-avert-doomsday-scenario-fae44403?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:34
+
+#### [Why Nvidia’s stock is shrugging off a $1 trillion revenue forecast](https://www.marketwatch.com/story/why-nvidias-stock-is-shrugging-off-a-1-trillion-revenue-forecast-74a729d6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:31
+
+#### [Nebius’s stock falls as investors get a wake-up call on the cost of competing in AI](https://www.marketwatch.com/story/nebiuss-stock-falls-on-a-bond-offering-heres-why-investors-are-sobering-up-b3392d06?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:29
+
+#### [Lilly gets rare downgrade as analysts question hype over GLP-1 pills and Zepbound’s cash sales](https://www.marketwatch.com/story/lilly-gets-rare-downgrade-as-analysts-question-hype-over-glp-1-pills-and-zepbounds-cash-sales-60b231f4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:27
+
+#### [‘Selling will be a very difficult process’: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?](https://www.marketwatch.com/story/selling-will-be-a-very-difficult-process-my-mom-93-owns-a-timeshare-in-florida-how-can-i-disclaim-this-inheritance-914f9823?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:07
+
+#### [Lululemon hopes more new gear will revive sales. Wall Street thinks it might not be enough.](https://www.marketwatch.com/story/lululemons-stock-falls-as-a-weak-outlook-underscores-the-need-for-a-transformation-42aafaf4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:05
+
+#### [3 signals will reveal if the Iran oil shock is just a blip — or the new normal](https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 21:07
+
+#### [Micron’s stock gains officially carry the company into an exclusive club](https://www.marketwatch.com/story/microns-stock-rises-as-enthusiasm-builds-ahead-of-earnings-cd2db500?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 20:44
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BHP names Brandon Craig as its new chief executive](https://www.ft.com/content/ff75ba87-5cd1-4220-b6ae-06cc8f32700c)
+**发布时间**: 2026-03-17 23:11
+
+#### [Israel says it has killed Iran’s top security official](https://www.ft.com/content/66d3177f-2d3a-4b5b-a309-dc562c978c38)
+**发布时间**: 2026-03-17 22:44
+
+#### [Iran confirms death of top security official Ali Larijani](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 22:15
+
+#### [Musk’s lawyers sidestepped SEC team in Twitter case settlement talks](https://www.ft.com/content/018528f9-964f-42ab-aea7-72fadd173918)
+**发布时间**: 2026-03-17 21:38
+
+#### [Microsoft reshuffles AI team to catch up on Copilot and model building](https://www.ft.com/content/60646cbf-0445-4841-81e1-32efc4b32907)
+**发布时间**: 2026-03-17 21:34
+
+#### [Nvidia restarts manufacturing of AI chips for China](https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f)
+**发布时间**: 2026-03-17 20:38
+
+#### [Trump lashes out at Starmer while UK works with allies to de-escalate Iran crisis](https://www.ft.com/content/dacf7004-0d17-4ae5-885c-2681a4bd8ab7)
+**发布时间**: 2026-03-17 19:06
+
+#### [Oil in Oman soars above $150 as buyers rush to replace Gulf barrels](https://www.ft.com/content/e9d8e871-8344-487c-b0d7-aec8fd225d59)
+**发布时间**: 2026-03-17 18:33
+
+#### [Top US counterterrorism official resigns over war against Iran](https://www.ft.com/content/f3dad979-875e-4ee7-836c-264890d5df6b)
+**发布时间**: 2026-03-17 16:35
+
+#### [The era of US dominance in economic warfare is over](https://www.ft.com/content/ae458591-5941-45f1-bf7b-7110bc35eb88)
+**发布时间**: 2026-03-17 15:22
+
+#### [China is not going to bail Trump out](https://www.ft.com/content/18106ca2-7ba1-4b10-ad71-9247c42da1df)
+**发布时间**: 2026-03-17 11:52
 
 ---
 
