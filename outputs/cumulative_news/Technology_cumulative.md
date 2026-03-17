@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 23:34
+**最后更新时间**: 2026-03-17 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-17 06:00)
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [固态硬盘成理财工具，价格涨幅为何比黄金还猛？](http://www.huxiu.com/article/4842455.html?f=wangzhan)
+**发布时间**: 2026-03-17 13:00
+
+#### [逛了一天AWE，我突然发现原来这些未来AI黑科技离我们这么近](http://www.huxiu.com/article/4842566.html?f=wangzhan)
+**发布时间**: 2026-03-17 11:30
+
+#### [广汽想借华为“摸鱼”，不过还是有四个难题](http://www.huxiu.com/article/4842652.html?f=wangzhan)
+**发布时间**: 2026-03-17 09:31
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [非对称竞争：数字空间与物理空间的缝隙间博弈](https://www.tmtpost.com/7916462.html)
+**发布时间**: 2026-03-17 12:54
+
+#### [业绩三连增，顺络电子用投入博未来](https://www.tmtpost.com/7916175.html)
+**发布时间**: 2026-03-17 12:53
+
+#### [一年扭亏赚超6亿，布鲁可“蜜雪式”突围，能走出中国版“乐高曲线”？](https://www.tmtpost.com/7916195.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [3.15风向巨变：从“罚门店”到“查源头”，餐饮供应链的洗牌开始了](https://www.tmtpost.com/7916992.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [一节百元Python课，让我背上数十倍分期债](https://www.tmtpost.com/7917037.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [「AI厂长」黄仁勋](https://www.tmtpost.com/7916979.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [中产女性奢侈品消费新趋势：对名牌包祛魅，悦己消费盛行](https://www.tmtpost.com/7916941.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [阿里成立ATH：是破局之钥，还是大中台2.0？](https://www.tmtpost.com/7916269.html)
+**发布时间**: 2026-03-17 12:47
+
+#### [对话松延动力姜哲源：万台交付，小布米Bumi进入家庭教育场景｜AI Founder 请回答](https://www.tmtpost.com/7917259.html)
+**发布时间**: 2026-03-17 12:26
+
+#### [马斯克亲自点赞，Kimi动了十一年没人敢碰的东西](https://www.tmtpost.com/7916944.html)
+**发布时间**: 2026-03-17 12:26
+
+#### [零跑：出海神车，真能百万 “领跑” 新势力？](https://www.tmtpost.com/7916927.html)
+**发布时间**: 2026-03-17 12:26
+
+#### [蜜雪冰城试水现磨咖啡，雪王布局现磨咖啡意欲何为？](https://www.tmtpost.com/7916929.html)
+**发布时间**: 2026-03-17 12:25
+
+#### [3·15新观察：从“年年曝光”到“人人反诈”，年轻人正在改写「维权剧本」](https://www.tmtpost.com/7916945.html)
+**发布时间**: 2026-03-17 12:18
+
+#### [阿里发起“Token总动员”](https://www.tmtpost.com/7916933.html)
+**发布时间**: 2026-03-17 12:18
+
+#### [一个安全专家养虾5天后的忠告](https://www.tmtpost.com/7916970.html)
+**发布时间**: 2026-03-17 12:18
+
+#### [下载量暴涨，抖音“抖省省”，能走多远？](https://www.tmtpost.com/7917042.html)
+**发布时间**: 2026-03-17 12:09
+
+#### [零跑赚钱了，然后呢？](https://www.tmtpost.com/7917016.html)
+**发布时间**: 2026-03-17 12:09
+
+#### [从美博会看2026美业变局：AI重塑、合规升级与身心消费崛起](https://www.tmtpost.com/7916942.html)
+**发布时间**: 2026-03-17 12:03
+
+#### [mRNA肿瘤疫苗，闯入宠物世界](https://www.tmtpost.com/7916940.html)
+**发布时间**: 2026-03-17 12:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为心脏健康持续护航，Apple Watch 房颤迹象记录软件功能上线](https://sspai.com/post/107453)
+**发布时间**: 2026-03-17 12:00
+
+#### [少数派十四周年直播：我们挑选了这四类好产品](https://sspai.com/post/107428)
+**发布时间**: 2026-03-17 11:30
+
+#### [派早报：Apple 发布 AirPods Max 2，NVIDIA 发布 DLSS 5 等](https://sspai.com/post/107450)
+**发布时间**: 2026-03-17 08:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [深度集成亚马逊云科技与微软生态，以自然语言驱动智能决策 ｜Snowflake Discover AI 技术实战周 Day 4](https://www.infoq.cn/video/8GNviI8M9PNS5H6sZlIx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 11:31
+
+#### [打造 AI 就绪型数据基座 & 数据工程与数据科学实战 ｜Snowflake Discover AI 技术实战周 Day 3](https://www.infoq.cn/video/5ux1alMGZgrhX3U5w3H6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 11:08
+
+#### [Claude Opus 4.6 推出自适应推理与上下文压缩特性](https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 11:00
+
+#### [从 AI 能力探索到企业级 Agent 与 GenAI 实战构建 ｜Snowflake Discover AI 技术实战周 Day 2](https://www.infoq.cn/video/q9bFk0F5QsmaTeElF55d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 10:47
+
+#### [从企业 AI 战略全景到零帧起手玩转 Snowflake ｜Snowflake Discover AI 技术实战周 Day 1](https://www.infoq.cn/video/0RuLd8qJGboAatUimEzA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 10:46
+
+#### [打造自进化的编码伙伴：Qoder 记忆系统落地实践｜QCon北京](https://www.infoq.cn/article/t1WJGcChOvyEUYhZB2C6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 10:02
+
+#### [两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查](https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 10:01
+
+#### [在 AKS 上规模化运行 Ray](https://www.infoq.cn/article/3vTFH7QGA4YHhENRqVVb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 10:00
+
+#### [OpenClaw中国行北京站落幕，3万人围观养虾，本周12城活动继续](https://www.infoq.cn/article/DqE30rlz0ZXXrBJjjIMf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 09:23
+
+#### [黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；](https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 08:52
 
 ---
 

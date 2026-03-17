@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4b3e428fb8602a166473ae90f791b35b78ac1ec105a4dfc5db993efec1a58922": {
-        "title": "一切皆可Agent Skills，无处不在的AI Agent会替代业务流程吗？",
-        "link": "https://www.tmtpost.com/7880876.html",
-        "published_date": "Sun, 15 Feb 2026 13:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:01.478603"
-      },
-      "51dbc4e9f39eac983a39d64914cdc3757c90b1d2d9a5fe6b7de68d0c2323de45": {
-        "title": "具身智能守年关",
-        "link": "https://www.tmtpost.com/7880908.html",
-        "published_date": "Sun, 15 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:01.478612"
-      },
-      "0e038c3dae7f5b5c4ed9829f7afdfe515bea9cf032ae2f41de44aad00cd886a5": {
-        "title": "姚顺宇率领谷歌复仇Anthropic，“没有你才更好”",
-        "link": "https://www.tmtpost.com/7880733.html",
-        "published_date": "Sun, 15 Feb 2026 10:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:01.478615"
-      },
-      "83ecc83927aebf16130f410cc0a2bb29430bad834befcb64985f007c985e549e": {
-        "title": "千问DAU逼近豆包，阿里等来顺风局？",
-        "link": "https://www.tmtpost.com/7880850.html",
-        "published_date": "Sun, 15 Feb 2026 11:30:00 GMT",
-        "first_seen": "2026-02-15T05:58:01.478617"
-      },
-      "953c5dad9a83c0125909de074a18082e07bd6e37bc13d55ae24f315957a66d90": {
-        "title": "黄仁勋缺席新德里：英伟达的“印度棋局”，卡在了基建还是时机？",
-        "link": "https://www.tmtpost.com/7881196.html",
-        "published_date": "Sun, 15 Feb 2026 09:48:00 GMT",
-        "first_seen": "2026-02-15T05:58:01.478618"
-      },
       "fbd9e6fa76ecf8da7816d47c1e6441f6ea5ad272c0f3dab10f7136015e259b24": {
         "title": "Kubernetes驱动AI扩展，文化转型成为关键因素",
         "link": "https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&utm_medium=article",
@@ -2665,39 +2635,39 @@
         "link": "https://www.tmtpost.com/7915293.html",
         "published_date": "Mon, 16 Mar 2026 10:45:00 GMT",
         "first_seen": "2026-03-16T23:34:48.421097"
+      },
+      "007c4006a5be895226d7fc6a19751f39c4fc79dd35675386d3162378833af3f1": {
+        "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
+        "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 08:52:00 GMT",
+        "first_seen": "2026-03-17T06:01:07.582217"
+      },
+      "65c5a0b2ccd5ef3d1d019452f940625fe5fd32f989c07d388c6809a697677a5f": {
+        "title": "马斯克亲自点赞，Kimi动了十一年没人敢碰的东西",
+        "link": "https://www.tmtpost.com/7916944.html",
+        "published_date": "Tue, 17 Mar 2026 12:26:00 GMT",
+        "first_seen": "2026-03-17T06:01:07.582225"
+      },
+      "1cddcb5c4a370b61d7d6c6eef28005e3a6c762c8892c88f98c59be2129c38a88": {
+        "title": "阿里成立ATH：是破局之钥，还是大中台2.0？",
+        "link": "https://www.tmtpost.com/7916269.html",
+        "published_date": "Tue, 17 Mar 2026 12:47:00 GMT",
+        "first_seen": "2026-03-17T06:01:07.582228"
+      },
+      "5c51c981182ea8c001c8dd71c26ec86c5e9e4c8924c67e9a62bb8db1328eff44": {
+        "title": "两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查",
+        "link": "https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 10:01:00 GMT",
+        "first_seen": "2026-03-17T06:01:07.582230"
+      },
+      "7c508d2b210995ec50cc4ae6a168dd3ddd815535c2bf6490f39befba0dc583bf": {
+        "title": "Claude Opus 4.6 推出自适应推理与上下文压缩特性",
+        "link": "https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-17T06:01:07.582232"
       }
     },
     "Finance": {
-      "ab3a8cc868ebe5a70943739ab8907eb1fffb584fabcdeafb87e4f37de38200b1": {
-        "title": "The AI productivity take-off is finally visible",
-        "link": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5",
-        "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.155407"
-      },
-      "1c60a04c37773a64fb44ac370f352f1f55d1199c10d68f8087709d4958aa6ff4": {
-        "title": "End of EV euphoria triggers $65bn hit for carmakers",
-        "link": "https://www.ft.com/content/2daa41c3-3721-46d1-8954-7c43d5149995",
-        "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.155413"
-      },
-      "ef9a3b0dfea362df758bc740f827cad7baf3c3248985ed4a2224eeb80be4d313": {
-        "title": "Franc’s relentless rise alarms Swiss companies",
-        "link": "https://www.ft.com/content/3fc82496-1132-4cb3-a967-25c4c274fbea",
-        "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.155416"
-      },
-      "9528ea65cf6ad5806768b3e58eda6184544683b97ad02257c8efcaca168c9dce": {
-        "title": "Investors reluctant to ‘buy the dip’ after AI scares",
-        "link": "https://www.ft.com/content/2432a3ac-7dbc-4c5c-8921-3a34c2c68ccd",
-        "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.155418"
-      },
-      "605066fdd1da315e8a1c85b6019f68ab8fd1d0638ff89b5f53ddf133a402eb42": {
-        "title": "Ukraine’s survival still an ‘open question’, Kyiv mayor warns",
-        "link": "https://www.ft.com/content/a140cba5-d36c-47b7-95cb-57218fa5874c",
-        "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.155419"
-      },
       "02f5b31eed69b229a2bfa4c22e2245a4900466aa9b0a19a0956bc55a42a6075d": {
         "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
         "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
@@ -4557,15 +4527,39 @@
         "link": "https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c",
         "published_date": "Mon, 16 Mar 2026 21:20:00 GMT",
         "first_seen": "2026-03-16T23:35:04.711069"
+      },
+      "4d4e9a022349c15b518f1be60e4c7764d0a5af2846d9f9e1ffdce7da29751cfb": {
+        "title": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
+        "link": "https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0",
+        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.589344"
+      },
+      "fe1d7da6f85e5ef802905db59a481044c25186588f5e6112be5adeeb5f595ceb": {
+        "title": "Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’",
+        "link": "https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0",
+        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.589350"
+      },
+      "7a1e162d5bc1dd1f491d54e8990078b49cef964cb126839572db42eb1d03d002": {
+        "title": "This biotech is working on a GLP-1 pill that could be better than the Wegovy version",
+        "link": "https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c?mod=mw_rss_topstories",
+        "published_date": "Tue, 17 Mar 2026 00:31:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.589353"
+      },
+      "2a25ccb20789cbc8f2c9931308ef85d57577394bc1b88fcdf411a0b8f0627260": {
+        "title": "UK drone interceptor start-up in funding talks at $1bn-plus valuation",
+        "link": "https://www.ft.com/content/78a9fc2c-24f1-47ac-9c4b-e0bd67bc6ace",
+        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.589354"
+      },
+      "209b7b5b6b4d7d91ea30402ad5c99bdd371204bac4b8785f5c4e0fb569b2e8d2": {
+        "title": "Who is winning the Middle East war?",
+        "link": "https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071",
+        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.589356"
       }
     },
     "Ai": {
-      "02fb412ab79e61f5b4238380d434769746c359d00abaf1df3dfad245c2d98e33": {
-        "title": "2026-02-15日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-15/",
-        "published_date": "Sun, 15 Feb 2026 07:18:00 GMT",
-        "first_seen": "2026-02-15T05:58:14.304862"
-      },
       "9caf1a34f0e0110633bcc8bc7670459d2bc8cfc2d0087daf201151a4df12883d": {
         "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
         "link": "https://www.jiqizhixin.com/articles/2026-02-15-4",
@@ -5825,13 +5819,19 @@
         "link": "https://www.qbitai.com/2026/03/388381.html",
         "published_date": "Mon, 16 Mar 2026 11:22:00 GMT",
         "first_seen": "2026-03-16T23:35:04.864026"
+      },
+      "819c1e0c5a6fe4f5b52bf9a1c49ecc007335d810fdf68ae2ef8346834482da7f": {
+        "title": "2026-03-17日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-17/",
+        "published_date": "Tue, 17 Mar 2026 09:53:00 GMT",
+        "first_seen": "2026-03-17T06:01:20.730773"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-16T23:34:48.421101",
-    "Finance": "2026-03-16T23:35:04.711073",
-    "Ai": "2026-03-16T23:35:04.864027"
+    "Technology": "2026-03-17T06:01:07.582235",
+    "Finance": "2026-03-17T06:01:20.589359",
+    "Ai": "2026-03-17T06:01:20.730779"
   }
 }

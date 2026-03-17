@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 23:34:48 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:01:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元</title>
-      <link>https://www.tmtpost.com/7916294.html</link>
-      <description>&lt;![CDATA[【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7916294.html</guid>
+      <title>黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；</title>
+      <link>https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 2.0 时代的大模型推理：从模型到硬件的协同优化</title>
-      <link>https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 2.0 时代的大模型推理：从模型到硬件的协同优化]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克亲自点赞，Kimi动了十一年没人敢碰的东西</title>
+      <link>https://www.tmtpost.com/7916944.html</link>
+      <description>&lt;![CDATA[马斯克亲自点赞，Kimi动了十一年没人敢碰的东西]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7916944.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代</title>
-      <link>https://www.tmtpost.com/7916266.html</link>
-      <description>&lt;![CDATA[当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7916266.html</guid>
+      <title>阿里成立ATH：是破局之钥，还是大中台2.0？</title>
+      <link>https://www.tmtpost.com/7916269.html</link>
+      <description>&lt;![CDATA[阿里成立ATH：是破局之钥，还是大中台2.0？]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 12:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7916269.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic</title>
-      <link>https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查</title>
+      <link>https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多</title>
-      <link>https://www.tmtpost.com/7915293.html</link>
-      <description>&lt;![CDATA[1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915293.html</guid>
+      <title>Claude Opus 4.6 推出自适应推理与上下文压缩特性</title>
+      <link>https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Opus 4.6 推出自适应推理与上下文压缩特性]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

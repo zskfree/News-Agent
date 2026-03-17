@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 23:34
+**最后更新时间**: 2026-03-17 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-17 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tehran prepares for a Persian new year under air assault](https://www.ft.com/content/668ae5a4-57cb-4132-82c6-37c85287307c)
+**发布时间**: 2026-03-17 05:00
+
+#### [How MBS’s bet on Iran backfired](https://www.ft.com/content/2721947c-613c-4496-8900-e9c87ae9f64f)
+**发布时间**: 2026-03-17 05:00
+
+#### [Who is winning the Middle East war?](https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071)
+**发布时间**: 2026-03-17 05:00
+
+#### [From Vienna’s rooftops, the Kremlin is listening in](https://www.ft.com/content/2c54d627-5530-47a4-8be2-820035ece929)
+**发布时间**: 2026-03-17 05:00
+
+#### [Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief](https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0)
+**发布时间**: 2026-03-17 05:00
+
+#### [Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’](https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0)
+**发布时间**: 2026-03-17 05:00
+
+#### [UK drone interceptor start-up in funding talks at $1bn-plus valuation](https://www.ft.com/content/78a9fc2c-24f1-47ac-9c4b-e0bd67bc6ace)
+**发布时间**: 2026-03-17 05:00
+
+#### [Trump says China, Japan and Korea should be ‘thanking’ US for strikes](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 00:01
+
+#### [Reeves to say she will back compulsory purchase powers for Oxford-Cambridge corridor](https://www.ft.com/content/3c4e8071-808c-458f-ad2a-76c6bc167878)
+**发布时间**: 2026-03-16 22:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This biotech is working on a GLP-1 pill that could be better than the Wegovy version](https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 00:31
 
 ---
 

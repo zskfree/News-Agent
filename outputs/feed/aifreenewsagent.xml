@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 23:35:04 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:01:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Testing LLMs on superconductivity research questions</title>
-      <link>https://research.google/blog/testing-llms-on-superconductivity-research-questions/</link>
-      <description>&lt;![CDATA[Testing LLMs on superconductivity research questions]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/testing-llms-on-superconductivity-research-questions/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>零跑，首次全年盈利！</title>
-      <link>https://www.qbitai.com/2026/03/388411.html</link>
-      <description>&lt;![CDATA[零跑，首次全年盈利！]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388411.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>315曝光的“AI投毒”原理：GEO这样操控大模型推荐</title>
-      <link>https://www.qbitai.com/2026/03/388387.html</link>
-      <description>&lt;![CDATA[315曝光的“AI投毒”原理：GEO这样操控大模型推荐]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388387.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>机器人爆款收割机狂揽1.2亿美金</title>
-      <link>https://www.qbitai.com/2026/03/388381.html</link>
-      <description>&lt;![CDATA[机器人爆款收割机狂揽1.2亿美金]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388381.html</guid>
+      <title>2026-03-17日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-17/</link>
+      <description>&lt;![CDATA[2026-03-17日刊]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-17/</guid>
       <category>Ai</category>
     </item>
   </channel>
