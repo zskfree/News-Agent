@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2026 06:01:07 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 08:56:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 08:56:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；</title>
-      <link>https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架</title>
+      <link>https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克亲自点赞，Kimi动了十一年没人敢碰的东西</title>
-      <link>https://www.tmtpost.com/7916944.html</link>
-      <description>&lt;![CDATA[马斯克亲自点赞，Kimi动了十一年没人敢碰的东西]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7916944.html</guid>
+      <title>融资 1200亿后 Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱</title>
+      <link>https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[融资 1200亿后 Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里成立ATH：是破局之钥，还是大中台2.0？</title>
-      <link>https://www.tmtpost.com/7916269.html</link>
-      <description>&lt;![CDATA[阿里成立ATH：是破局之钥，还是大中台2.0？]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7916269.html</guid>
+      <title>清华团队开源！1 键生成多 Agent 智能体 AI 课堂。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532259&amp;idx=1&amp;sn=26ba5941f3d0e70383861553027cf251</link>
+      <description>&lt;![CDATA[清华团队开源！1 键生成多 Agent 智能体 AI 课堂。]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532259&amp;idx=1&amp;sn=26ba5941f3d0e70383861553027cf251</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查</title>
-      <link>https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO</title>
+      <link>https://www.tmtpost.com/7916747.html</link>
+      <description>&lt;![CDATA[清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7916747.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Opus 4.6 推出自适应推理与上下文压缩特性</title>
-      <link>https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Opus 4.6 推出自适应推理与上下文压缩特性]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&amp;utm_medium=article</guid>
+      <title>周鸿祎内部谈“龙虾”：它是如何“杀死”软件的？</title>
+      <link>https://www.tmtpost.com/7917509.html</link>
+      <description>&lt;![CDATA[周鸿祎内部谈“龙虾”：它是如何“杀死”软件的？]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7917509.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-17 06:00
+**最后更新时间**: 2026-03-17 08:56
+
+---
+
+## 🆕 最新更新 (2026-03-17 08:56)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架](https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 16:30
+
+#### [Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！](https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 16:08
+
+#### [融资 1200亿后 Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱](https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 16:08
+
+#### [亚马逊云科技为 OpenClaw 提供一键部署，但互联网已有 4 万暴露实例](https://www.infoq.cn/article/BMTHdTYsSdwomwiYlzPd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 15:19
+
+#### [通过小而具体的行动与轮换主持人，让回顾会议真正发挥作用](https://www.infoq.cn/article/GQw7m56uqAEib92mNtNl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 15:00
+
+#### [AWS 推出 Strands Labs，用于开展实验性 AI Agent 项目](https://www.infoq.cn/article/PTO1iMALQIiYBHBFQCNT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-17 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文 | 冬游九寨，或许这个季节更适合叙述她的美](https://sspai.com/post/106439)
+**发布时间**: 2026-03-17 15:43
+
+#### [投票开启｜BeatBox 盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体](https://sspai.com/post/106917)
+**发布时间**: 2026-03-17 14:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [东北关氏家族，从儿童药的顶峰跌落](https://www.tmtpost.com/7917413.html)
+**发布时间**: 2026-03-17 15:18
+
+#### [德国穆勒想5年开500店，但它可能成不了下一个奥乐齐？](https://www.tmtpost.com/7917447.html)
+**发布时间**: 2026-03-17 15:15
+
+#### [20%员工或被裁、1.6万人离开：Meta酝酿史上最大规模裁员](https://www.tmtpost.com/7917530.html)
+**发布时间**: 2026-03-17 15:15
+
+#### [2026互联网第一雷，炸了](https://www.tmtpost.com/7917488.html)
+**发布时间**: 2026-03-17 15:13
+
+#### [清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO](https://www.tmtpost.com/7916747.html)
+**发布时间**: 2026-03-17 15:12
+
+#### [500亿国家基金开始干活了](https://www.tmtpost.com/7917487.html)
+**发布时间**: 2026-03-17 15:12
+
+#### [泡泡玛特撞上“路人盘”](https://www.tmtpost.com/7917542.html)
+**发布时间**: 2026-03-17 15:07
+
+#### [理想纠偏：重回增程，押注i9](https://www.tmtpost.com/7917006.html)
+**发布时间**: 2026-03-17 15:07
+
+#### [周鸿祎内部谈“龙虾”：它是如何“杀死”软件的？](https://www.tmtpost.com/7917509.html)
+**发布时间**: 2026-03-17 14:56
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [清华团队开源！1 键生成多 Agent 智能体 AI 课堂。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532259&idx=1&sn=26ba5941f3d0e70383861553027cf251)
+**发布时间**: 2026-03-17 15:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [黄仁勋又来送“致富指南”了？](http://www.huxiu.com/article/4842211.html?f=wangzhan)
+**发布时间**: 2026-03-17 14:42
 
 ---
 

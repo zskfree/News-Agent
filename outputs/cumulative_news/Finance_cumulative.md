@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-17 06:00
+**最后更新时间**: 2026-03-17 08:56
+
+---
+
+## 🆕 最新更新 (2026-03-17 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil jumps as Iran steps up attacks on infrastructure](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 06:35
+
+#### [Oil producers: buy the peace, not the war](https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d)
+**发布时间**: 2026-03-17 06:30
+
+#### [Iran war sparks upheaval in niche defence metals market](https://www.ft.com/content/98d95ed2-7947-40ff-9f7c-e1a9c8570d00)
+**发布时间**: 2026-03-17 05:00
+
+#### [Donald Trump says he will have the ‘honour’ of ‘taking Cuba in some form’](https://www.ft.com/content/fc621071-0ecc-440d-beb0-aee688ca33da)
+**发布时间**: 2026-03-17 00:41
+
+#### [Cuba hit by nationwide blackout as energy grid collapses](https://www.ft.com/content/ebc459c6-6cb5-46db-8fac-41b6a288977f)
+**发布时间**: 2026-03-16 23:01
 
 ---
 

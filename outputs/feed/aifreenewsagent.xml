@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Mar 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2026 06:01:20 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 08:55:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 08:56:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-17日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-17/</link>
-      <description>&lt;![CDATA[2026-03-17日刊]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-17/</guid>
+      <title>零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块</title>
+      <link>https://www.qbitai.com/2026/03/388527.html</link>
+      <description>&lt;![CDATA[零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388527.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>企业级靠谱龙虾升级，拒绝失控</title>
+      <link>https://www.qbitai.com/2026/03/388519.html</link>
+      <description>&lt;![CDATA[企业级靠谱龙虾升级，拒绝失控]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 07:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388519.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Kimi新架构让马斯克叹服！17岁高中生作者一战成名</title>
+      <link>https://www.qbitai.com/2026/03/388493.html</link>
+      <description>&lt;![CDATA[Kimi新架构让马斯克叹服！17岁高中生作者一战成名]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388493.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍</title>
+      <link>https://www.qbitai.com/2026/03/388443.html</link>
+      <description>&lt;![CDATA[GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍]]&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388443.html</guid>
       <category>Ai</category>
     </item>
   </channel>

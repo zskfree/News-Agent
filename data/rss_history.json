@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fbd9e6fa76ecf8da7816d47c1e6441f6ea5ad272c0f3dab10f7136015e259b24": {
-        "title": "Kubernetes驱动AI扩展，文化转型成为关键因素",
-        "link": "https://www.infoq.cn/article/lCM9r8iIt0E5taMhmCfK?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-15T08:36:34.186160"
-      },
-      "8ececc60a56cd016a19c736d8929053c4601246d5aac687216fb91ca286cc499": {
-        "title": "CloudFront添加源站mTLS认证，实现端到端零信任",
-        "link": "https://www.infoq.cn/article/dVwAmDxuqXyFIBE6Gl3d?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-15T08:36:34.186169"
-      },
-      "82180e2d30bc77bbd3f408d9dafed92b9d5d7736b0ead5f926118d68788a6916": {
-        "title": "千问爆火，总裁吴嘉首次公开回应",
-        "link": "https://www.tmtpost.com/7881554.html",
-        "published_date": "Sun, 15 Feb 2026 16:17:00 GMT",
-        "first_seen": "2026-02-15T08:36:34.186171"
-      },
-      "ce00c84af0605030d75f787063e9d50c5b062932d3910cdda50a804f1660cc36": {
-        "title": "美团被AI扔了一个二向箔",
-        "link": "https://www.tmtpost.com/7880258.html",
-        "published_date": "Sun, 15 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-15T08:36:34.186173"
-      },
-      "ac2dab93049d5c57da3a8c5f16257d37be2757da2ca24aad1d16d1ecd648ff3d": {
-        "title": "保险界的“南北对决”：蚂蚁保拼技术，微保拼人情",
-        "link": "https://www.tmtpost.com/7880570.html",
-        "published_date": "Sun, 15 Feb 2026 14:00:00 GMT",
-        "first_seen": "2026-02-15T08:36:34.186175"
-      },
       "a159c1149313dfd2e06ba6998b8b2f246ffa4b6648ec86eeafefdc4260f2ba16": {
         "title": "芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图",
         "link": "https://www.tmtpost.com/7881567.html",
@@ -2665,6 +2635,36 @@
         "link": "https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 17 Mar 2026 11:00:00 GMT",
         "first_seen": "2026-03-17T06:01:07.582232"
+      },
+      "52e82522bf5e104d5020490a34035364321f879dada708e749613ad34fccd2ee": {
+        "title": "GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架",
+        "link": "https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 16:30:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.756655"
+      },
+      "bba790f85d7ac568f7f43397b9f382b068d4496af16858ecb8faf7eebd2dce46": {
+        "title": "融资 1200亿后 Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱",
+        "link": "https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.756664"
+      },
+      "a127b1711f4967e57b9fe3ffdcab4829399d7bc3b012f56efa475f6b5136a240": {
+        "title": "清华团队开源！1 键生成多 Agent 智能体 AI 课堂。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532259&idx=1&sn=26ba5941f3d0e70383861553027cf251",
+        "published_date": "Tue, 17 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.756667"
+      },
+      "6f4ffb0fc69919c11f5f27ed674485248b3293b8ea9c21258455ba08c1dffc5e": {
+        "title": "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO",
+        "link": "https://www.tmtpost.com/7916747.html",
+        "published_date": "Tue, 17 Mar 2026 15:12:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.756668"
+      },
+      "5d913675d1359ab75e892afefa0638b3c8fd6511906c38a093bd12854bc9eb5c": {
+        "title": "周鸿祎内部谈“龙虾”：它是如何“杀死”软件的？",
+        "link": "https://www.tmtpost.com/7917509.html",
+        "published_date": "Tue, 17 Mar 2026 14:56:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.756670"
       }
     },
     "Finance": {
@@ -4557,6 +4557,18 @@
         "link": "https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071",
         "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-17T06:01:20.589356"
+      },
+      "82f43212a27439e4e462934d306d66a9cdf2b915a3acb1d7c19df368c04e1b54": {
+        "title": "Oil jumps as Iran steps up attacks on infrastructure",
+        "link": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
+        "published_date": "Tue, 17 Mar 2026 06:35:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.790951"
+      },
+      "4fba8b479c411c2e1c247953548c2090b6ef479381b6b6de6f15b3f4adf904ce": {
+        "title": "Oil producers: buy the peace, not the war",
+        "link": "https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d",
+        "published_date": "Tue, 17 Mar 2026 06:30:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.790957"
       }
     },
     "Ai": {
@@ -5825,13 +5837,37 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-17/",
         "published_date": "Tue, 17 Mar 2026 09:53:00 GMT",
         "first_seen": "2026-03-17T06:01:20.730773"
+      },
+      "eb05a190a897b31c6e63e4148c43b7536812f74578908c50988e494d88ea67c7": {
+        "title": "零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块",
+        "link": "https://www.qbitai.com/2026/03/388527.html",
+        "published_date": "Tue, 17 Mar 2026 07:14:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.937782"
+      },
+      "6c77b0d718050da7e81dcd0d36d18862d9167f194013520e79cb0f8775ed633b": {
+        "title": "企业级靠谱龙虾升级，拒绝失控",
+        "link": "https://www.qbitai.com/2026/03/388519.html",
+        "published_date": "Tue, 17 Mar 2026 07:07:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.937789"
+      },
+      "40fc41115804f216d614a97c812d05e0e950cad03aedf47dad37fc0047d6bf7d": {
+        "title": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
+        "link": "https://www.qbitai.com/2026/03/388493.html",
+        "published_date": "Tue, 17 Mar 2026 06:51:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.937791"
+      },
+      "4f6737ab5fdd08fda8cb759517bf61aa78730620adc2db82a0caf26ed8d5e276": {
+        "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
+        "link": "https://www.qbitai.com/2026/03/388443.html",
+        "published_date": "Tue, 17 Mar 2026 06:07:00 GMT",
+        "first_seen": "2026-03-17T08:56:26.937793"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-17T06:01:07.582235",
-    "Finance": "2026-03-17T06:01:20.589359",
-    "Ai": "2026-03-17T06:01:20.730779"
+    "Technology": "2026-03-17T08:56:26.756673",
+    "Finance": "2026-03-17T08:56:26.790959",
+    "Ai": "2026-03-17T08:56:26.937794"
   }
 }
