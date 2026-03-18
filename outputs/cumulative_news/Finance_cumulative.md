@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 08:53
+**最后更新时间**: 2026-03-18 23:50
+
+---
+
+## 🆕 最新更新 (2026-03-18 23:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices jump after attacks on Gulf energy facilities](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
+
+#### [Iran inflicts ‘extensive damage’ on site of world’s largest LNG facility in Qatar](https://www.ft.com/content/e3814e6f-a1c9-4ad4-b449-c14064d58f42)
+**发布时间**: 2026-03-18 23:04
+
+#### [Fed chief Jay Powell says Iran oil crisis will worsen US inflation](https://www.ft.com/content/dc961982-e7f6-413c-8c44-65ccfc483486)
+**发布时间**: 2026-03-18 21:02
+
+#### [Russia considers sending armed naval patrols to protect ‘shadow fleet’](https://www.ft.com/content/6ba075d8-890b-40d8-a1a8-8be8ad250822)
+**发布时间**: 2026-03-18 20:21
+
+#### [US intelligence chief struggles to avoid contradicting Trump on Iran war](https://www.ft.com/content/0d4c6bdf-e01a-420a-9a2d-2a36850ab7d7)
+**发布时间**: 2026-03-18 19:33
+
+#### [Starmer calls on Badenoch to sack shadow minister over Muslim prayer comments](https://www.ft.com/content/b2232784-053c-4a45-bc63-6171661fc37f)
+**发布时间**: 2026-03-18 19:14
+
+#### [UK immigration reforms could be softened, Starmer signals after Rayner criticism](https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d)
+**发布时间**: 2026-03-18 18:49
+
+#### [Unilever and Kraft Heinz held talks over food merger uniting ketchup and mayo](https://www.ft.com/content/e7e66622-50c9-493f-9076-6914f247247f)
+**发布时间**: 2026-03-18 18:40
+
+#### [America’s war on Iran is a gift to Vladimir Putin](https://www.ft.com/content/0fabaafb-3668-4f97-8418-bc11c06ccbff)
+**发布时间**: 2026-03-18 18:33
+
+#### [Trump ally warns US economy not strong enough to cope with Iran war](https://www.ft.com/content/51ad00f4-1c70-45df-9eb1-fe8038af1fd7)
+**发布时间**: 2026-03-18 16:44
+
+#### [Two shipments of Russian oil and gas head to Cuba in defiance of US](https://www.ft.com/content/bdb055d0-62c3-445c-ba89-349c63c82c1f)
+**发布时间**: 2026-03-18 15:06
+
+#### [How the world learned to love the bomb](https://www.ft.com/content/ba5f719a-974a-46a5-94dd-773361f9bee4)
+**发布时间**: 2026-03-18 12:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your March Madness bracket could wreck your stock portfolio — so ‘sit on your hands’ until April 6](https://www.marketwatch.com/story/how-march-madness-basketball-could-bust-your-portfolio-bracket-6f91d3e9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:58
+
+#### [Five Below stock continues its tear, as upbeat outlook eases fears of consumer slowdown](https://www.marketwatch.com/story/five-below-stock-continues-its-tear-as-viral-squishy-toys-and-appeals-to-millennial-moms-draw-shoppers-06369f68?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:47
+
+#### [Why this costly Starbucks revamp might not win over the younger crowd](https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:36
+
+#### [Lumentum’s new revenue forecast further fuels one of the market’s hottest stocks](https://www.marketwatch.com/story/lumentums-new-revenue-forecast-further-fuels-one-of-the-markets-hottest-stocks-7223cec7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:32
+
+#### [Swarmer’s stock surges nearly 1,100% in two days, underscoring fervent demand for drones](https://www.marketwatch.com/story/swarmers-stock-surges-1-100-in-two-days-underscoring-fervent-demand-for-drones-5f468b07?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:30
+
+#### [Netflix more likely to raise prices with Warner Bros. deal out of the way, Citi says](https://www.marketwatch.com/story/netflix-more-likely-to-raise-prices-with-warner-bros-deal-out-of-the-way-citi-says-137841c8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:25
+
+#### [Powell offers his clearest statement yet on staying at the Fed even as leadership shifts](https://www.marketwatch.com/story/powell-delivers-his-most-definitive-answer-yet-on-how-long-hell-stay-on-as-fed-chair-1b2a5787?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:25
+
+#### [U.S. stocks have reached a critical line in the sand. Why the next move could be a 10% drop.](https://www.marketwatch.com/story/u-s-stocks-have-reached-a-critical-line-in-the-sand-why-the-next-move-could-be-a-10-drop-c9451111?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:13
+
+#### [Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market](https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 21:46
+
+#### [Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%](https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 21:41
 
 ---
 

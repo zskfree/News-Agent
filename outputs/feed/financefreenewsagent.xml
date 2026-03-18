@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Mar 2026 08:53:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 08:53:59 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 23:50:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:51:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Rayner warns Starmer his government is ‘running out of time’</title>
-      <link>https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d</link>
-      <description>&lt;![CDATA[Rayner warns Starmer his government is ‘running out of time’]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d</guid>
+      <title>Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%</title>
+      <link>https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market</title>
+      <link>https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 21:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices jump after attacks on Gulf energy facilities</title>
+      <link>https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86</link>
+      <description>&lt;![CDATA[Oil prices jump after attacks on Gulf energy facilities]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 23:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran inflicts ‘extensive damage’ on site of world’s largest LNG facility in Qatar</title>
+      <link>https://www.ft.com/content/e3814e6f-a1c9-4ad4-b449-c14064d58f42</link>
+      <description>&lt;![CDATA[Iran inflicts ‘extensive damage’ on site of world’s largest LNG facility in Qatar]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 23:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e3814e6f-a1c9-4ad4-b449-c14064d58f42</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump ally warns US economy not strong enough to cope with Iran war</title>
+      <link>https://www.ft.com/content/51ad00f4-1c70-45df-9eb1-fe8038af1fd7</link>
+      <description>&lt;![CDATA[Trump ally warns US economy not strong enough to cope with Iran war]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 16:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/51ad00f4-1c70-45df-9eb1-fe8038af1fd7</guid>
       <category>Finance</category>
     </item>
   </channel>

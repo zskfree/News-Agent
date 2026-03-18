@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 08:53
+**最后更新时间**: 2026-03-18 23:50
+
+---
+
+## 🆕 最新更新 (2026-03-18 23:50)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】证监会最新部署：严肃查处破坏资本市场秩序的人和事；阿里云、百度智能云同时宣布涨价，京东云则承诺：不涨；奇瑞汽车战略入局可控核聚变](https://www.tmtpost.com/7919828.html)
+**发布时间**: 2026-03-19 07:20
+
+#### [微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点](https://www.tmtpost.com/7919963.html)
+**发布时间**: 2026-03-19 07:02
+
+#### [在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌](https://www.tmtpost.com/7919981.html)
+**发布时间**: 2026-03-19 07:01
+
+#### [10亿商誉背后，华海诚科豪赌高端化｜看财报](https://www.tmtpost.com/7919768.html)
+**发布时间**: 2026-03-18 21:45
+
+#### [Tencent QClaw: Tencent's Fight for Traffic and Revenues](https://www.tmtpost.com/7919808.html)
+**发布时间**: 2026-03-18 21:15
+
+#### [中国AI出海的“商业化时刻” ｜ 出海参考](https://www.tmtpost.com/7919082.html)
+**发布时间**: 2026-03-18 21:02
+
+#### [Alibaba Aims to Become a “Token Factory” in the AI Agent Era](https://www.tmtpost.com/7919772.html)
+**发布时间**: 2026-03-18 20:59
+
+#### [越亏越买！莎普爱思旧雷未清再添新商誉，溢价24倍收购实控人医院丨并购一线](https://www.tmtpost.com/7919649.html)
+**发布时间**: 2026-03-18 20:24
+
+#### [对话无招：Token经济学背后的两大结构性机会](https://www.tmtpost.com/7919391.html)
+**发布时间**: 2026-03-18 20:07
+
+#### [国产手机集体涨价：性价比时代，彻底落幕](https://www.tmtpost.com/7919506.html)
+**发布时间**: 2026-03-18 19:25
+
+#### [鸿合科技易主首份年报：净利三连降，多措并举成效待考丨看财报](https://www.tmtpost.com/7919521.html)
+**发布时间**: 2026-03-18 19:24
+
+#### [苹果如公平开放替代支付与分发渠道，中国市场每年能省310亿](https://www.tmtpost.com/7919171.html)
+**发布时间**: 2026-03-18 19:06
+
+#### [Q4突击增收+关联采购超4成，*ST亚振并购式保壳遭拷问](https://www.tmtpost.com/7919466.html)
+**发布时间**: 2026-03-18 18:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从零构建智能体：面向 AI 智能体的端到端数据管道搭建实战 ｜ 技术实践](https://www.infoq.cn/article/Q7g7WJDk9lBPGGmkMqqb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 21:19
+
+#### [从桌面到企业：DGX 双系统搭配 NemoClaw，打造自主智能体全流程开发平台](https://www.infoq.cn/article/5XMEXakce56W4NdSp7kI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 20:00
+
+#### [从狂热到工程、组织实践，OpenClaw这阵风能刮多久？](https://www.infoq.cn/article/Th0um55qt9mMORoZ7MD8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 19:18
+
+#### [统一架构搞定 TP+AP 混合负载，TDSQL-B实时分析引擎三大核心价值一次讲清](https://www.infoq.cn/video/iWKMyl5ZCr4cvBcwNXC9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 19:10
+
+#### [兼容 HBase 不裁剪，TDSQL Boundless 性能拉满](https://www.infoq.cn/video/ZXcae7fUViD2NJxIBYSt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 18:10
+
+#### [多模态能力拆解，揭秘TDSQL Boundless的四大关键点](https://www.infoq.cn/video/UZXD8jU3Hadlce3L8OVS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 17:24
+
+#### [TDSQL Boundless：AI时代的多模态数据库](https://www.infoq.cn/article/foslK73gb4vm9PmKdezs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 16:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？](https://sspai.com/post/106878)
+**发布时间**: 2026-03-18 17:30
 
 ---
 
