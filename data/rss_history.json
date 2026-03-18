@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8ad8abaa11e39ed56608fbe5b2158da60d7509295b2084c146ea700a5c73dc48": {
-        "title": "刚刚，OpenClaw “之父”正式加入OpenAI，项目仍保持开源并成立基金会",
-        "link": "https://www.infoq.cn/article/pKL4h90cQidiLX4H3r79?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Feb 2026 10:26:00 GMT",
-        "first_seen": "2026-02-16T06:07:09.543138"
-      },
-      "990d2342d851b28f85eb8dacebe2b8c4a566b3471508029b7b78b97b89ab96cc": {
-        "title": "使用 AI 生成了 MVP，这对软件架构来说意味着什么",
-        "link": "https://www.infoq.cn/article/hIHSjxraqSi1kJL2a7uQ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Feb 2026 13:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:09.543148"
-      },
-      "516247f6986bd91df658ec358016389f62e18ea73fa4def379767731c7f2877d": {
-        "title": "开发者福音！GitHub AI代理终结3小时杂务，效率狂升10倍",
-        "link": "https://www.tmtpost.com/7881907.html",
-        "published_date": "Mon, 16 Feb 2026 13:45:00 GMT",
-        "first_seen": "2026-02-16T06:07:09.543152"
-      },
-      "0b3b6db887e35fb0e8e54063d6888a128bd81e4d2a9a81e394d543479d411db2": {
-        "title": "涨幅超黄金、马斯克疯抢，小金属铷铯成为太空能源新引擎？",
-        "link": "https://www.tmtpost.com/7880992.html",
-        "published_date": "Mon, 16 Feb 2026 10:25:00 GMT",
-        "first_seen": "2026-02-16T06:07:09.543154"
-      },
-      "89ec593c67aa7af27bc613a7c3a8c54e98067558ed9123a748620d35590cee2e": {
-        "title": "Pandas 3.0推出默认的字符串数据类型和Copy-on-Write语义",
-        "link": "https://www.infoq.cn/article/qGFw1RVvOJJCW7jGTNZW?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:09.543155"
-      },
-      "82e7179af8f3ac43928bcf2d4a4e7314ed7ada84b7db4fb98fa8f9bf32e42c3c": {
-        "title": "挖走OpenClaw创始人，OpenAI赌上AI代理时代的先手棋",
-        "link": "https://www.tmtpost.com/7882015.html",
-        "published_date": "Mon, 16 Feb 2026 10:21:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414710"
-      },
-      "cf704e1881dd1fbe6cf82d942d77ca05533ea0a661e6603c23e866b8de64816f": {
-        "title": "前荣耀CEO赵明「复出」，搭档印奇再造一个自动驾驶巨头？",
-        "link": "https://www.tmtpost.com/7882141.html",
-        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414723"
-      },
-      "cce554c5eadf34a7cf004c66bafb32aa63f314128124b609c6dcf0134ae1122f": {
-        "title": "Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531449&idx=1&sn=894beeca3897c7ba9b269b59e12cb649",
-        "published_date": "Mon, 16 Feb 2026 12:36:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414726"
-      },
-      "1031b6e622b1eda631f5dc0ac7c59bd699bba531f93643852ed70392ddb15f89": {
-        "title": "漫剧“暴力”进化，AI与大厂联手开启洗牌元年",
-        "link": "https://www.tmtpost.com/7881785.html",
-        "published_date": "Mon, 16 Feb 2026 09:39:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414728"
-      },
-      "790039afb6750483ff92c4233e320a6ff57122d6acd1a4b25becef428705aa38": {
-        "title": "一周就告吹，宁德时代最后宣布不入股永太科技",
-        "link": "https://www.tmtpost.com/7881777.html",
-        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414730"
-      },
       "0bea05d1104633633ed55857a40edd3cf7ec82ab46d03aa9e01168b8477a4a21": {
         "title": "小鹏为什么这么“烦”L3",
         "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
@@ -2695,45 +2635,39 @@
         "link": "https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 18 Mar 2026 11:32:00 GMT",
         "first_seen": "2026-03-18T06:04:28.671396"
+      },
+      "963e87372a1a798e37e768fc312b7ca6ee972ca20d49412e39981addefc0a89d": {
+        "title": "黄仁勋2万字演讲，所有人都看漏了同一件事",
+        "link": "https://www.tmtpost.com/7918542.html",
+        "published_date": "Wed, 18 Mar 2026 09:08:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.804759"
+      },
+      "77fc99545fa3aa56418446b56fdfa4c08239150500e56e97bdf6b4f50e1beea1": {
+        "title": "“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程",
+        "link": "https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 15:24:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.804767"
+      },
+      "4d61e7fabc4df98695d066c354add5a2a32f4020f31a67d3dfab1348aa2b3dd2": {
+        "title": "重塑 AI Agent 架构：摒弃“上帝 Prompt”，基于状态驱动与多智能体协作的复杂旅游规划实践",
+        "link": "https://www.infoq.cn/article/w6m9EaDRFLWd4YdCmIM4?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 14:19:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.804770"
+      },
+      "1363191ee229a7575f22cac5c8a4aa80b2113c8c4ed0c9482d342d30f9e72a18": {
+        "title": "算力军备竞赛升级：从Meta的270亿美金到阿里的Token事业群",
+        "link": "https://www.tmtpost.com/7918323.html",
+        "published_date": "Wed, 18 Mar 2026 13:59:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.804772"
+      },
+      "157689e33af305bdfaef1c8788053ae4706e7626891f4b5639e8b5bff4cea57f": {
+        "title": "别追AGI了，这波AI浪潮的核心是流程革命",
+        "link": "https://www.tmtpost.com/7918802.html",
+        "published_date": "Wed, 18 Mar 2026 16:03:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.804774"
       }
     },
     "Finance": {
-      "a163f01c4e7254d3194afb622463ae66a0c1de555f6ba5a2d70df1321dd428ff": {
-        "title": "EU cross-border banking deals jump to highest since 2008 crisis",
-        "link": "https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a",
-        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.219104"
-      },
-      "33bb84c49d82893bb805e673a394ad8ae89e6fa72f266a9b810bf06375c63996": {
-        "title": "A fallen Indian tech star and the hunt for its missing millions",
-        "link": "https://www.ft.com/content/cd202eb4-c06a-4932-8328-2ddd3cc0c175",
-        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.219110"
-      },
-      "7c53e1fbd05f21576f469981e1e68bb471c5d5ee557a093c7431cf3127a35b46": {
-        "title": "Getir founders sue Mubadala for $700mn over break-up of assets",
-        "link": "https://www.ft.com/content/64729378-9a91-4c4f-bd4c-f51fd9b78b1f",
-        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.219113"
-      },
-      "047a3f94b75e3297c5d139b8e82a2956bf219920a15db692481e36235de38969": {
-        "title": "Student loans show that hard policy choices will only get harder",
-        "link": "https://www.ft.com/content/131f0e09-88ed-4597-8408-e76a50e36618",
-        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.219114"
-      },
-      "866775c7bc3607920c94af69c3fac2c198c90ce6973e9ce1dcf98c8daf85a4a8": {
-        "title": "UK overseas aid cuts to outstrip those of Trump administration",
-        "link": "https://www.ft.com/content/ad52bf6c-e63e-4913-a7be-26d0a5045da0",
-        "published_date": "Mon, 16 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.219116"
-      },
-      "c1411abbbc871e3e2739281fce54d9fe8777778a891c6f4002359b59ce416031": {
-        "title": "The great rotation: Why this fund manager is pivoting from the U.S. toward Europe",
-        "link": "https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Feb 2026 08:50:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.448551"
-      },
       "fde63bb040d3ede143cb661357791c9121a59310ea1f85cc55c8f6b2ca3bc098": {
         "title": "Fund managers take most bearish stance on dollar for a decade",
         "link": "https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2",
@@ -4629,27 +4563,15 @@
         "link": "https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18",
         "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-18T06:04:41.875836"
+      },
+      "f1aa1316d10e526ed59abce684150fe7124fef0a0b387e4e132ff759f9cfa649": {
+        "title": "Rayner warns Starmer his government is ‘running out of time’",
+        "link": "https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d",
+        "published_date": "Wed, 18 Mar 2026 07:49:00 GMT",
+        "first_seen": "2026-03-18T08:53:59.838807"
       }
     },
     "Ai": {
-      "0b457e672f2fd4aee02dd523fdd0452d3dd82d73f7c03417749b729396c5a445": {
-        "title": "刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-2",
-        "published_date": "Mon, 16 Feb 2026 10:13:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.366756"
-      },
-      "5f0f42efadb1235d4bc7dcd61b9f2f2d177006a6b790d3c8ce65d46f443ccb3d": {
-        "title": "单个LLM已不够？华盛顿大学开源多模型协同框架MoCo",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16",
-        "published_date": "Mon, 16 Feb 2026 10:10:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.366764"
-      },
-      "19d80647c7628a61c17fcff3d09f995c27678410134ed0d07a6289d6fc983f53": {
-        "title": "2026-02-16日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-16/",
-        "published_date": "Mon, 16 Feb 2026 07:20:00 GMT",
-        "first_seen": "2026-02-16T06:07:19.366766"
-      },
       "71472a8d9e0e7b230db84877e099c41f675588810b64b331bc8f93372554e274": {
         "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
         "link": "https://www.qbitai.com/2026/02/380433.html",
@@ -5950,8 +5872,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-18T06:04:28.671398",
-    "Finance": "2026-03-18T06:04:41.875838",
+    "Technology": "2026-03-18T08:53:59.804776",
+    "Finance": "2026-03-18T08:53:59.838813",
     "Ai": "2026-03-18T06:04:42.027920"
   }
 }

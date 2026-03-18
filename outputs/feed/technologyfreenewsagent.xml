@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Mar 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 06:04:28 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 08:53:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:53:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达出手，SRAM重回C位</title>
-      <link>https://www.tmtpost.com/7918304.html</link>
-      <description>&lt;![CDATA[英伟达出手，SRAM重回C位]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7918304.html</guid>
+      <title>黄仁勋2万字演讲，所有人都看漏了同一件事</title>
+      <link>https://www.tmtpost.com/7918542.html</link>
+      <description>&lt;![CDATA[黄仁勋2万字演讲，所有人都看漏了同一件事]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918542.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场</title>
-      <link>https://www.tmtpost.com/7918442.html</link>
-      <description>&lt;![CDATA[阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7918442.html</guid>
+      <title>“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程</title>
+      <link>https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>重塑 AI Agent 架构：摒弃“上帝 Prompt”，基于状态驱动与多智能体协作的复杂旅游规划实践</title>
+      <link>https://www.infoq.cn/article/w6m9EaDRFLWd4YdCmIM4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[重塑 AI Agent 架构：摒弃“上帝 Prompt”，基于状态驱动与多智能体协作的复杂旅游规划实践]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w6m9EaDRFLWd4YdCmIM4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里竞速Token工厂</title>
-      <link>https://www.tmtpost.com/7918412.html</link>
-      <description>&lt;![CDATA[阿里竞速Token工厂]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7918412.html</guid>
+      <title>算力军备竞赛升级：从Meta的270亿美金到阿里的Token事业群</title>
+      <link>https://www.tmtpost.com/7918323.html</link>
+      <description>&lt;![CDATA[算力军备竞赛升级：从Meta的270亿美金到阿里的Token事业群]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 13:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918323.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践</title>
-      <link>https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>别追AGI了，这波AI浪潮的核心是流程革命</title>
+      <link>https://www.tmtpost.com/7918802.html</link>
+      <description>&lt;![CDATA[别追AGI了，这波AI浪潮的核心是流程革命]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918802.html</guid>
       <category>Technology</category>
     </item>
   </channel>

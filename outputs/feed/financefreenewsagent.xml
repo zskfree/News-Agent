@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Mar 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 06:04:41 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 08:53:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:53:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oil price surge will hurt US growth and fuel inflation, say economists</title>
-      <link>https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346</link>
-      <description>&lt;![CDATA[Oil price surge will hurt US growth and fuel inflation, say economists]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 01:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran conflict turns shipping market into ‘wild west’</title>
-      <link>https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2</link>
-      <description>&lt;![CDATA[Iran conflict turns shipping market into ‘wild west’]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK price gap between first-time properties and bigger homes at record high</title>
-      <link>https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87</link>
-      <description>&lt;![CDATA[UK price gap between first-time properties and bigger homes at record high]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UAE set to show leniency on tax rules for expats leaving to avoid Iran war</title>
-      <link>https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d</link>
-      <description>&lt;![CDATA[UAE set to show leniency on tax rules for expats leaving to avoid Iran war]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran still seen capable of escalating attacks on Gulf’s energy</title>
-      <link>https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18</link>
-      <description>&lt;![CDATA[Iran still seen capable of escalating attacks on Gulf’s energy]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18</guid>
+      <title>Rayner warns Starmer his government is ‘running out of time’</title>
+      <link>https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d</link>
+      <description>&lt;![CDATA[Rayner warns Starmer his government is ‘running out of time’]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 07:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d</guid>
       <category>Finance</category>
     </item>
   </channel>

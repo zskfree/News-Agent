@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 06:03
+**最后更新时间**: 2026-03-18 08:53
+
+---
+
+## 🆕 最新更新 (2026-03-18 08:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [在人工智能热潮的推动下，市场预期极高，美光迎来财报发布前夕](https://www.tmtpost.com/7919245.html)
+**发布时间**: 2026-03-18 16:44
+
+#### [杨植麟 GTC 2026 演讲：首次完整披露 Kimi 技术路线图](https://www.tmtpost.com/7919219.html)
+**发布时间**: 2026-03-18 16:43
+
+#### [“宜信系”的放贷路越走越窄](https://www.tmtpost.com/7918944.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [黄仁勋的“万亿美元赌注”与AI革命](https://www.tmtpost.com/7918785.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [别追AGI了，这波AI浪潮的核心是流程革命](https://www.tmtpost.com/7918802.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [迎接TCE下一波浪潮](https://www.tmtpost.com/7918822.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [亚朵：零售狂飙，酒店界 “海底捞” 又笑了？](https://www.tmtpost.com/7918830.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [2026年最值得期待的五大国产ADC](https://www.tmtpost.com/7918851.html)
+**发布时间**: 2026-03-18 16:03
+
+#### [启境新车登场，广汽的背水一战正式打响｜钛度车库](https://www.tmtpost.com/7919067.html)
+**发布时间**: 2026-03-18 15:48
+
+#### [腾讯QClaw实测：4000万Token天天到账，微信互联远程遥控，普通人“养虾”自由开始了？](https://www.tmtpost.com/7918993.html)
+**发布时间**: 2026-03-18 15:07
+
+#### [The Capitalization of Elite Sports and the German Approach of Prudence](https://www.tmtpost.com/7895330.html)
+**发布时间**: 2026-03-18 14:26
+
+#### [算力军备竞赛升级：从Meta的270亿美金到阿里的Token事业群](https://www.tmtpost.com/7918323.html)
+**发布时间**: 2026-03-18 13:59
+
+#### [让川普头疼的Claude，在技术和人类安全边缘狂飙](https://www.tmtpost.com/7918367.html)
+**发布时间**: 2026-03-18 13:59
+
+#### [腾讯音乐：汽水猛攻，好日子走远了？](https://www.tmtpost.com/7918852.html)
+**发布时间**: 2026-03-18 13:59
+
+#### [AI“炼金”，阅文挖矿](https://www.tmtpost.com/7918972.html)
+**发布时间**: 2026-03-18 13:59
+
+#### [Neuron：压力也能止痛？瑞士科学家发现“脑干-脊髓”的镇痛神经环路](https://www.tmtpost.com/7918594.html)
+**发布时间**: 2026-03-18 13:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 编程正在终结框架时代](https://www.infoq.cn/article/FyW5gwJotRRb8lUAO7z2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 15:43
+
+#### [“Claude Code 这条路线错了”！元老级 AI 大师 Jeremy Howard 开炮：马斯克和 Dario 根本不懂现代软件工程](https://www.infoq.cn/article/f692INME7iXBtfzWMwq6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 15:24
+
+#### [每天审200个PR、每月3000个Issue？智能体开始并行写代码，人类可能成最薄弱环节](https://www.infoq.cn/article/zujYMf0JwMxe2wLv6gaa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 15:13
+
+#### [手工软件工程师的时代已经结束！一位连续创业CTO的判断](https://www.infoq.cn/article/R6Ul49YteauDsVf2zL6K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 14:55
+
+#### [Apache Doris在易车AI +实时湖仓技术架构的落地实践](https://www.infoq.cn/article/W7M9oc5rzG1mqROPB6yY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 14:44
+
+#### [重塑 AI Agent 架构：摒弃“上帝 Prompt”，基于状态驱动与多智能体协作的复杂旅游规划实践](https://www.infoq.cn/article/w6m9EaDRFLWd4YdCmIM4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 14:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [越过参数的凝视：哈苏 X2D II 100C 漫谈](https://sspai.com/post/106734)
+**发布时间**: 2026-03-18 15:30
+
+#### [打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant](https://sspai.com/post/106992)
+**发布时间**: 2026-03-18 14:30
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [AI 搜索利器 MiroThinker 发布新模型！我接入小龙虾，太实用了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532272&idx=1&sn=e4ea5c1fecc792467f63a79691a37359)
+**发布时间**: 2026-03-18 11:06
 
 ---
 
