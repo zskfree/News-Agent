@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-17 23:34
+**最后更新时间**: 2026-03-18 06:03
+
+---
+
+## 🆕 最新更新 (2026-03-18 06:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran conflict turns shipping market into ‘wild west’](https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2)
+**发布时间**: 2026-03-18 05:00
+
+#### [Iran still seen capable of escalating attacks on Gulf’s energy](https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18)
+**发布时间**: 2026-03-18 05:00
+
+#### [The sum of all fears for Lebanon](https://www.ft.com/content/9ef95667-0a78-4fcc-b1f1-3e4bdaf25c73)
+**发布时间**: 2026-03-18 05:00
+
+#### [Trump has broken it. Now he owns it](https://www.ft.com/content/86be5097-1a9c-4dd6-bf53-1f2b429592c7)
+**发布时间**: 2026-03-18 05:00
+
+#### [UAE set to show leniency on tax rules for expats leaving to avoid Iran war](https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d)
+**发布时间**: 2026-03-18 05:00
+
+#### [Suspicions grow that China is exploiting FOI laws to gather UK security data](https://www.ft.com/content/2f51a343-0e9b-4e1d-8d1f-f33232d439a7)
+**发布时间**: 2026-03-18 05:00
+
+#### [Oil price surge will hurt US growth and fuel inflation, say economists](https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346)
+**发布时间**: 2026-03-18 01:32
+
+#### [‘Philosophical differences’: Iran war exposes rifts in Trump’s Maga base](https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d)
+**发布时间**: 2026-03-18 00:09
+
+#### [UK price gap between first-time properties and bigger homes at record high](https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87)
+**发布时间**: 2026-03-18 00:01
+
+#### [Cathay extends Middle East flight cuts to end of April](https://www.ft.com/content/6112e127-3ee2-4fce-acfc-f7644e5c6c30)
+**发布时间**: 2026-03-17 23:40
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The ‘smart money’ on Wall Street hates these bonds — but they may be a golden buying opportunity for you](https://www.marketwatch.com/story/the-smart-money-on-wall-street-hates-these-bonds-but-they-may-be-a-golden-buying-opportunity-for-you-ae48d8d8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 01:15
 
 ---
 

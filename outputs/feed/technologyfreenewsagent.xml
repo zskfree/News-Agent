@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2026 23:35:31 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 06:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:04:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】北京启动专项行动，重点整治五类涉AI领域网络乱象；国家发展改革委推出新一批重大外资项目，计划投资额134亿美元；腾讯QClaw即将上线，微信入口全面升级</title>
-      <link>https://www.tmtpost.com/7918419.html</link>
-      <description>&lt;![CDATA[【钛晨报】北京启动专项行动，重点整治五类涉AI领域网络乱象；国家发展改革委推出新一批重大外资项目，计划投资额134亿美元；腾讯QClaw即将上线，微信入口全面升级]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7918419.html</guid>
+      <title>英伟达出手，SRAM重回C位</title>
+      <link>https://www.tmtpost.com/7918304.html</link>
+      <description>&lt;![CDATA[英伟达出手，SRAM重回C位]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918304.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>估值1200亿后Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱</title>
-      <link>https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[估值1200亿后Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场</title>
+      <link>https://www.tmtpost.com/7918442.html</link>
+      <description>&lt;![CDATA[阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918442.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸</title>
-      <link>https://www.tmtpost.com/7917791.html</link>
-      <description>&lt;![CDATA[AI硬件IPO潮继续席卷：四家公司扎堆港股，硬科技融资窗口继续开闸]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 18:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7917791.html</guid>
+      <title>Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里抛出“悟空”，B端AI之争告别“养龙虾”竞赛</title>
-      <link>https://www.tmtpost.com/7917661.html</link>
-      <description>&lt;![CDATA[阿里抛出“悟空”，B端AI之争告别“养龙虾”竞赛]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7917661.html</guid>
+      <title>阿里竞速Token工厂</title>
+      <link>https://www.tmtpost.com/7918412.html</link>
+      <description>&lt;![CDATA[阿里竞速Token工厂]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 09:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7918412.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！</title>
-      <link>https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！]]&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践</title>
+      <link>https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践]]&gt;</description>
+      <pubDate>Wed, 18 Mar 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

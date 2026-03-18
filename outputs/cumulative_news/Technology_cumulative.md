@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-17 23:34
+**最后更新时间**: 2026-03-18 06:03
+
+---
+
+## 🆕 最新更新 (2026-03-18 06:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [他们做出了无法封杀的“豆包手机”，已获千万级天使投资](https://www.tmtpost.com/7918773.html)
+**发布时间**: 2026-03-18 13:36
+
+#### [前大疆、雷鸟高管创业，AI虚拟角色公司CODE27连获两轮天使融资｜融资速递](https://www.tmtpost.com/7918966.html)
+**发布时间**: 2026-03-18 13:36
+
+#### [英伟达出手，SRAM重回C位](https://www.tmtpost.com/7918304.html)
+**发布时间**: 2026-03-18 13:09
+
+#### [估计以后没有企业想学胖东来了](https://www.tmtpost.com/7918298.html)
+**发布时间**: 2026-03-18 11:47
+
+#### [手机行业迎来离职潮，离开的人都去哪里了？](https://www.tmtpost.com/7918296.html)
+**发布时间**: 2026-03-18 11:47
+
+#### [石油设备类股票有望反弹，Helmrich Payne 和 Landbridge 的股价图表说明了什么](https://www.tmtpost.com/7918815.html)
+**发布时间**: 2026-03-18 10:11
+
+#### [阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场](https://www.tmtpost.com/7918442.html)
+**发布时间**: 2026-03-18 09:49
+
+#### [第一批拍短剧的网文公司，已经亏惨了](https://www.tmtpost.com/7918715.html)
+**发布时间**: 2026-03-18 09:49
+
+#### [红极一时的红树林酒店群，为何2折就转让？](https://www.tmtpost.com/7918540.html)
+**发布时间**: 2026-03-18 09:49
+
+#### [C端千问，B端悟空，阿里自己的龙虾来了](https://www.tmtpost.com/7918194.html)
+**发布时间**: 2026-03-18 09:49
+
+#### [美国猴痘病例正在上升，3只值得重新关注的疫苗股票](https://www.tmtpost.com/7918749.html)
+**发布时间**: 2026-03-18 09:36
+
+#### [英伟达股价纹丝不动，以下才是GTC 2026真正的赢家与输家](https://www.tmtpost.com/7918747.html)
+**发布时间**: 2026-03-18 09:35
+
+#### [分析师称，亚马逊有望从人工智能中受益，这只股票看起来很便宜](https://www.tmtpost.com/7918745.html)
+**发布时间**: 2026-03-18 09:35
+
+#### [添可CEO 冷泠：扫地机和洗地机不是竞争关系，而是互补关系 | AWE 2026](https://www.tmtpost.com/7918288.html)
+**发布时间**: 2026-03-18 09:31
+
+#### [阿里竞速Token工厂](https://www.tmtpost.com/7918412.html)
+**发布时间**: 2026-03-18 09:16
+
+#### [笑不活了，“日本最高性能AI模型”，是DeepSeek V3改了个名？](https://www.tmtpost.com/7918313.html)
+**发布时间**: 2026-03-18 09:14
+
+#### [1.8 亿空巢老人的日常：子女接不住的需求，全被AI接住了](https://www.tmtpost.com/7918255.html)
+**发布时间**: 2026-03-18 09:08
+
+#### [黄仁勋2万字演讲，所有人都看漏了同一件事](https://www.tmtpost.com/7918542.html)
+**发布时间**: 2026-03-18 09:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 智能体实践评估：基准、框架与经验总结](https://www.infoq.cn/article/McPsyWTgyWIiNTZSh3fe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 12:00
+
+#### [从提示词到生产环境上线：智能体开发指南](https://www.infoq.cn/article/4LwelOgSjjDkxh170uAJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 11:40
+
+#### [Java近期资讯：JHipster 9.0、Valhalla项目、Spring、Helidon、OpenXava和Java Operator SDK](https://www.infoq.cn/article/1G4kr1pYzH7VmRWSvGcW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 11:38
+
+#### [工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践](https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 11:32
+
+#### [谷歌研究人员提出面向大语言模型的贝叶斯教学方法](https://www.infoq.cn/article/43imr1JkekkQUGVPI70k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 11:00
+
+#### [Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京](https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 10:04
+
+#### [AI 架构中的 “油水难融” 时刻](https://www.infoq.cn/article/A58DUs46jfEI6KEAGIYV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-18 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜为时间和精力埋单：我的旅行峰值体验塑造方法论](https://sspai.com/post/106217)
+**发布时间**: 2026-03-18 11:31
+
+#### [派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等](https://sspai.com/post/107485)
+**发布时间**: 2026-03-18 07:23
 
 ---
 

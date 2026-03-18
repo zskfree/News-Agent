@@ -2665,6 +2665,36 @@
         "link": "https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
         "first_seen": "2026-03-17T23:35:31.769830"
+      },
+      "be83254d817c9fd4cebc309e9b4dc3b378bee161c7fc6d9cf27673942ebb5f77": {
+        "title": "英伟达出手，SRAM重回C位",
+        "link": "https://www.tmtpost.com/7918304.html",
+        "published_date": "Wed, 18 Mar 2026 13:09:00 GMT",
+        "first_seen": "2026-03-18T06:04:28.671377"
+      },
+      "62e57b9cc822aa7040b21b9c73908e2f2902a3d649d188efdd94b6cba8e0a8c3": {
+        "title": "阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场",
+        "link": "https://www.tmtpost.com/7918442.html",
+        "published_date": "Wed, 18 Mar 2026 09:49:00 GMT",
+        "first_seen": "2026-03-18T06:04:28.671389"
+      },
+      "051f32edf481845094a0115698be817d9125decc1602a6496299ce611e4dad83": {
+        "title": "Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 10:04:00 GMT",
+        "first_seen": "2026-03-18T06:04:28.671392"
+      },
+      "1d2215eb3df99b0fc061747db2edf15b20ca67c9ff112d05c7084115169b3c08": {
+        "title": "阿里竞速Token工厂",
+        "link": "https://www.tmtpost.com/7918412.html",
+        "published_date": "Wed, 18 Mar 2026 09:16:00 GMT",
+        "first_seen": "2026-03-18T06:04:28.671394"
+      },
+      "92d61f4f2c8451d6d721461bc943422729e9f258bcd792d4c2d67568d326d558": {
+        "title": "工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践",
+        "link": "https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 11:32:00 GMT",
+        "first_seen": "2026-03-18T06:04:28.671396"
       }
     },
     "Finance": {
@@ -4569,6 +4599,36 @@
         "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-shrugging-off-a-1-trillion-revenue-forecast-74a729d6?mod=mw_rss_topstories",
         "published_date": "Tue, 17 Mar 2026 22:31:00 GMT",
         "first_seen": "2026-03-17T23:35:51.508070"
+      },
+      "3d8f4bd1767d234a79fd1825c6edf2b0e301bf863e4e2cca88a8ff1c8d79953f": {
+        "title": "Oil price surge will hurt US growth and fuel inflation, say economists",
+        "link": "https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346",
+        "published_date": "Wed, 18 Mar 2026 01:32:00 GMT",
+        "first_seen": "2026-03-18T06:04:41.875822"
+      },
+      "6443ea21cd01fea58918d48e8245895316054bef9178164e9996bbe746e1991c": {
+        "title": "Iran conflict turns shipping market into ‘wild west’",
+        "link": "https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2",
+        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-18T06:04:41.875830"
+      },
+      "ba35d8e6661cffe41ba5333d005083af9c90d741c671c5c6fbb35baa9c023092": {
+        "title": "UK price gap between first-time properties and bigger homes at record high",
+        "link": "https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87",
+        "published_date": "Wed, 18 Mar 2026 00:01:00 GMT",
+        "first_seen": "2026-03-18T06:04:41.875832"
+      },
+      "d8e8910d35100409dc20cb6cdf6b1d7ea153740e8fcb5a65c6ae35ae0ef3979c": {
+        "title": "UAE set to show leniency on tax rules for expats leaving to avoid Iran war",
+        "link": "https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d",
+        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-18T06:04:41.875834"
+      },
+      "450855d6bb79d8cf56b965db1c8b56a762a533f9a1f6f07183f8f325a69bdf20": {
+        "title": "Iran still seen capable of escalating attacks on Gulf’s energy",
+        "link": "https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18",
+        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-18T06:04:41.875836"
       }
     },
     "Ai": {
@@ -5861,13 +5921,37 @@
         "link": "https://www.qbitai.com/2026/03/388701.html",
         "published_date": "Tue, 17 Mar 2026 12:12:00 GMT",
         "first_seen": "2026-03-17T23:36:03.924498"
+      },
+      "3bb15ab756fe4cd0427e466b00f095db1cfef84a938e19d68f877181a67a809f": {
+        "title": "2026-03-18日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-18/",
+        "published_date": "Wed, 18 Mar 2026 09:30:00 GMT",
+        "first_seen": "2026-03-18T06:04:42.027906"
+      },
+      "c7d533375e05294fe390606aa55056f708e42880842d05c9e09c361b390a42d4": {
+        "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
+        "link": "https://www.qbitai.com/2026/03/388959.html",
+        "published_date": "Wed, 18 Mar 2026 02:45:00 GMT",
+        "first_seen": "2026-03-18T06:04:42.027914"
+      },
+      "229eb71cc9008e19272954700f69c6559dcd3f6c478b8111cc89b1a03e7a9ac9": {
+        "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
+        "link": "https://www.qbitai.com/2026/03/388845.html",
+        "published_date": "Wed, 18 Mar 2026 01:53:00 GMT",
+        "first_seen": "2026-03-18T06:04:42.027916"
+      },
+      "a153142c2199163cc0fc427a92c554757af8ded72b309f534677891a2cb6595a": {
+        "title": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
+        "link": "https://www.qbitai.com/2026/03/388815.html",
+        "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
+        "first_seen": "2026-03-18T06:04:42.027918"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-17T23:35:31.769832",
-    "Finance": "2026-03-17T23:35:51.508072",
-    "Ai": "2026-03-17T23:36:03.924500"
+    "Technology": "2026-03-18T06:04:28.671398",
+    "Finance": "2026-03-18T06:04:41.875838",
+    "Ai": "2026-03-18T06:04:42.027920"
   }
 }
