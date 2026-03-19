@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Mar 2026 09:02:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 09:02:41 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:33:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球推理计算量暴涨一万倍背后</title>
-      <link>https://www.tmtpost.com/7920955.html</link>
-      <description>&lt;![CDATA[全球推理计算量暴涨一万倍背后]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7920955.html</guid>
+      <title>视触觉仿生指尖落地，纬钛机器人切入具身智能核心赛道</title>
+      <link>https://www.tmtpost.com/7920609.html</link>
+      <description>&lt;![CDATA[视触觉仿生指尖落地，纬钛机器人切入具身智能核心赛道]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 23:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7920609.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源</title>
-      <link>https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力回流暗战：英伟达H200，成了地平线征程7的隐形粮仓？</title>
+      <link>https://www.tmtpost.com/7920108.html</link>
+      <description>&lt;![CDATA[算力回流暗战：英伟达H200，成了地平线征程7的隐形粮仓？]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7920108.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“聪明的废物”到“数字员工”，智能体落地如何破局</title>
-      <link>https://www.tmtpost.com/7920695.html</link>
-      <description>&lt;![CDATA[从“聪明的废物”到“数字员工”，智能体落地如何破局]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7920695.html</guid>
+      <title>Alibaba DingTalk CEO: Two Major Structural Opportunities Behind Tokenomics</title>
+      <link>https://www.tmtpost.com/7921848.html</link>
+      <description>&lt;![CDATA[Alibaba DingTalk CEO: Two Major Structural Opportunities Behind Tokenomics]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7921848.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力告急，Token 暴涨：Agent时代的阿里云如何估值？</title>
-      <link>https://www.tmtpost.com/7920576.html</link>
-      <description>&lt;![CDATA[算力告急，Token 暴涨：Agent时代的阿里云如何估值？]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7920576.html</guid>
+      <title>构建 AI 的“第二大脑”：大规模多模态记忆平台技术实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/E8tbY8hNSjwU5iqxpY02?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建 AI 的“第二大脑”：大规模多模态记忆平台技术实践｜QCon北京]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E8tbY8hNSjwU5iqxpY02?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌</title>
-      <link>https://www.tmtpost.com/7919981.html</link>
-      <description>&lt;![CDATA[在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 07:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7919981.html</guid>
+      <title>5.5亿再启跨界“棋局”，包装纸龙头“豪赌”国产GPU芯片 | 并购一线</title>
+      <link>https://www.tmtpost.com/7921752.html</link>
+      <description>&lt;![CDATA[5.5亿再启跨界“棋局”，包装纸龙头“豪赌”国产GPU芯片 | 并购一线]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 20:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7921752.html</guid>
       <category>Technology</category>
     </item>
   </channel>

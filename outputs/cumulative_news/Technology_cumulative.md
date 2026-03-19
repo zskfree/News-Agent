@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 09:02
+**最后更新时间**: 2026-03-19 23:33
+
+---
+
+## 🆕 最新更新 (2026-03-19 23:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [视触觉仿生指尖落地，纬钛机器人切入具身智能核心赛道](https://www.tmtpost.com/7920609.html)
+**发布时间**: 2026-03-19 23:12
+
+#### [闽系房企“逆势”杀入疫苗圈：沃森生物的病，世纪金源的“药”能治吗？](https://www.tmtpost.com/7921838.html)
+**发布时间**: 2026-03-19 22:32
+
+#### [Alibaba DingTalk CEO: Two Major Structural Opportunities Behind Tokenomics](https://www.tmtpost.com/7921848.html)
+**发布时间**: 2026-03-19 22:18
+
+#### [5.5亿再启跨界“棋局”，包装纸龙头“豪赌”国产GPU芯片 | 并购一线](https://www.tmtpost.com/7921752.html)
+**发布时间**: 2026-03-19 20:48
+
+#### [阿里财报电话会：闪购拉动电商大盘活跃买家增长1.5亿，预计29财年盈利](https://www.tmtpost.com/7921729.html)
+**发布时间**: 2026-03-19 20:35
+
+#### [五年亏116亿，永辉喊话山姆别让供应商站队](https://www.tmtpost.com/7919758.html)
+**发布时间**: 2026-03-19 19:25
+
+#### [2026年，塌房最快的AI公司出现了](https://www.tmtpost.com/7921523.html)
+**发布时间**: 2026-03-19 19:25
+
+#### [小米“神秘模型”，为何被错认为DeepSeek V4？](https://www.tmtpost.com/7921338.html)
+**发布时间**: 2026-03-19 19:23
+
+#### [算力回流暗战：英伟达H200，成了地平线征程7的隐形粮仓？](https://www.tmtpost.com/7920108.html)
+**发布时间**: 2026-03-19 19:23
+
+#### [金华国资携近9亿救场，红海中博弈能否重塑贝因美？](https://www.tmtpost.com/7921393.html)
+**发布时间**: 2026-03-19 19:18
+
+#### [回天新材宜城工厂失火停产，业绩翻倍路上遭遇“急刹车”](https://www.tmtpost.com/7920924.html)
+**发布时间**: 2026-03-19 19:14
+
+#### [深圳做车、欧洲卖爆，85后小伙要去IPO了](https://www.tmtpost.com/7921533.html)
+**发布时间**: 2026-03-19 19:14
+
+#### [老志高把32亿烂账扔给法院，新壳在海外狂飙](https://www.tmtpost.com/7921558.html)
+**发布时间**: 2026-03-19 19:14
+
+#### [刘强东12年前说透的事，正在AI身上重演](https://www.tmtpost.com/7921553.html)
+**发布时间**: 2026-03-19 19:10
+
+#### [镜像双城记：英伟达发牌，阿里跟注](https://www.tmtpost.com/7921551.html)
+**发布时间**: 2026-03-19 19:10
+
+#### [腾讯音乐被低估了吗？](https://www.tmtpost.com/7921186.html)
+**发布时间**: 2026-03-19 18:02
+
+#### [GPT-5.4养龙虾太贵？OpenAI自己出手砍到了一折](https://www.tmtpost.com/7921374.html)
+**发布时间**: 2026-03-19 18:02
+
+#### [堵车“堵”出的热搜，为何救不了古井贡酒的业绩“堵车”？](https://www.tmtpost.com/7921377.html)
+**发布时间**: 2026-03-19 18:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [针对库存优化的 Snowflake Intelligence 供应链助手](https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 21:37
+
+#### [我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱](https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 21:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文 | 沿海公路的出口：10年后，重返宝岛](https://sspai.com/post/97965)
+**发布时间**: 2026-03-19 17:22
+
+#### [年度征文 | 最后一页并不存在——我的2025](https://sspai.com/post/106957)
+**发布时间**: 2026-03-19 15:15
 
 ---
 

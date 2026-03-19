@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Mar 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 09:02:41 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:34:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-19日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-19/</link>
-      <description>&lt;![CDATA[2026-03-19日刊]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-19/</guid>
+      <title>于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路</title>
+      <link>https://www.qbitai.com/2026/03/389442.html</link>
+      <description>&lt;![CDATA[于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389442.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元</title>
+      <link>https://www.qbitai.com/2026/03/389559.html</link>
+      <description>&lt;![CDATA[阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389559.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片</title>
+      <link>https://www.qbitai.com/2026/03/389556.html</link>
+      <description>&lt;![CDATA[阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389556.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国</title>
+      <link>https://www.qbitai.com/2026/03/389315.html</link>
+      <description>&lt;![CDATA[斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389315.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了</title>
+      <link>https://www.qbitai.com/2026/03/389447.html</link>
+      <description>&lt;![CDATA[老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389447.html</guid>
       <category>Ai</category>
     </item>
   </channel>

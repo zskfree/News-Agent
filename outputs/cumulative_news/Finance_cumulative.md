@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 09:02
+**最后更新时间**: 2026-03-19 23:33
+
+---
+
+## 🆕 最新更新 (2026-03-19 23:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [More Americans want to work into their 70s. Smart companies will work with them.](https://www.marketwatch.com/story/more-americans-want-to-work-into-their-70s-smart-companies-will-work-with-them-115a9354?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:18
+
+#### [These charts suggest the bears aren’t done with the stock market yet](https://www.marketwatch.com/story/these-charts-suggest-the-bears-arent-done-with-the-stock-market-yet-171d9cb5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:12
+
+#### [FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying](https://www.marketwatch.com/story/fedex-is-getting-more-upbeat-about-the-year-despite-surging-fuel-costs-6b48ed2e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:10
+
+#### [This is when Trump will need an Iran-conflict offramp if oil prices aren’t contained](https://www.marketwatch.com/story/this-is-when-trump-will-need-an-iran-conflict-offramp-if-oil-prices-arent-contained-5870a40c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:04
+
+#### [This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers](https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:55
+
+#### [Why Micron’s stock is sliding despite Nvidia-like earnings performance](https://www.marketwatch.com/story/why-microns-stock-is-sliding-despite-nvidia-like-earnings-performance-fa9729f7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:18
+
+#### [Rivian’s stock pops as the EV maker becomes the latest to partner with Uber](https://www.marketwatch.com/story/rivians-stock-is-popping-as-the-ev-maker-becomes-the-latest-to-partner-with-uber-4540c29d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:17
+
+#### [Planet Labs’ stock soars as the satellite company says AI will unlock more business](https://www.marketwatch.com/story/planet-labs-stock-soars-as-the-satellite-company-says-ai-will-unlock-more-business-de4a262c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:11
+
+#### [The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.](https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:06
+
+#### [Betting scandals leave pro sports just one way to save the $165 billion gaming market](https://www.marketwatch.com/story/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market-08b15d7d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 21:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil and stocks swing as Iran war ignites fresh tumult in markets](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-19 23:13
+
+#### [US-Israel strikes have destroyed Iran’s ability to enrich uranium, Netanyahu says](https://www.ft.com/content/096fe3d9-df18-4fcc-8355-01877fc40553)
+**发布时间**: 2026-03-19 23:07
+
+#### [India’s central bank battles to protect rupee from Iran war fallout](https://www.ft.com/content/56162e25-17dd-4db7-ba76-98fca2700923)
+**发布时间**: 2026-03-19 21:00
+
+#### [Gilts sell off after Bank of England warns of inflation risks](https://www.ft.com/content/c0a967b6-19d0-4e50-9a8e-8ae510d43d08)
+**发布时间**: 2026-03-19 19:01
+
+#### [IG Group considers New York listing in latest blow to London’s stock exchange](https://www.ft.com/content/c0a9865c-9fcd-44b5-8300-0be2244d890a)
+**发布时间**: 2026-03-19 18:52
+
+#### [Iran allows handful of favoured ships through Strait of Hormuz](https://www.ft.com/content/d2198c3a-520b-4e88-aad4-d83a03b4f7be)
+**发布时间**: 2026-03-19 17:42
+
+#### [WPP proposes £11mn pay packet for CEO Rose amid share-price plunge](https://www.ft.com/content/03faa483-d16d-4aed-81b6-097623fb1bc7)
+**发布时间**: 2026-03-19 17:19
+
+#### [Denmark was ready to blow up Greenland runways if US invaded](https://www.ft.com/content/e0783399-613f-4432-87a3-262698f3f6ca)
+**发布时间**: 2026-03-19 15:02
+
+#### [Dubai tourism reels from Iranian missiles](https://www.ft.com/content/1133792e-97d0-4e6a-bfef-56d5f9ab93f2)
+**发布时间**: 2026-03-19 14:30
+
+#### [ECB holds interest rates at 2% as energy prices soar](https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd)
+**发布时间**: 2026-03-19 14:11
 
 ---
 
