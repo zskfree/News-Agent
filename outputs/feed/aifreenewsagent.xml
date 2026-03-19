@@ -6,7 +6,7 @@
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Thu, 19 Mar 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 06:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 09:02:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了</title>
-      <link>https://www.qbitai.com/2026/03/389024.html</link>
-      <description>&lt;![CDATA[全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389024.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听</title>
-      <link>https://www.qbitai.com/2026/03/389038.html</link>
-      <description>&lt;![CDATA[小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 01:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389038.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位</title>
-      <link>https://www.qbitai.com/2026/03/388972.html</link>
-      <description>&lt;![CDATA[淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388972.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>联想AI平板 拯救者Y700五代开启“AI智控”时代：全场景调度让战力无损释放</title>
-      <link>https://www.qbitai.com/2026/03/389089.html</link>
-      <description>&lt;![CDATA[联想AI平板 拯救者Y700五代开启“AI智控”时代：全场景调度让战力无损释放]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389089.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>求码10天，我终于过上了在微信上使唤🦞的日子</title>
-      <link>https://www.qbitai.com/2026/03/388980.html</link>
-      <description>&lt;![CDATA[求码10天，我终于过上了在微信上使唤🦞的日子]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388980.html</guid>
+      <title>2026-03-19日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-19/</link>
+      <description>&lt;![CDATA[2026-03-19日刊]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-19/</guid>
       <category>Ai</category>
     </item>
   </channel>

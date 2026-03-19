@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 06:00
+**最后更新时间**: 2026-03-19 09:02
+
+---
+
+## 🆕 最新更新 (2026-03-19 09:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How the White House tries to sell war and death as a game](https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1)
+**发布时间**: 2026-03-19 04:00
+
+#### [KPMG and Harvey Nichols among employers to have paid less than UK minimum wage](https://www.ft.com/content/1837f2e4-d7a5-45d8-9e05-ccabcff1ba76)
+**发布时间**: 2026-03-19 00:02
+
+#### [Gas price surges 30% and oil hits $114 as strikes rattle markets](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
 
 ---
 

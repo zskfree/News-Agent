@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 06:00
+**最后更新时间**: 2026-03-19 09:02
+
+---
+
+## 🆕 最新更新 (2026-03-19 09:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [心脏不好更容易焦虑？赵艳丽/匡文斌团队揭示高香草酸缓解心源性焦虑的神经机制](https://www.tmtpost.com/7921273.html)
+**发布时间**: 2026-03-19 16:56
+
+#### [大脑的“安检门”为何失灵？中山五院何欢欢/单鸿/涂秋云/刘飞团队揭示DDX24如何守护血脑屏障](https://www.tmtpost.com/7921276.html)
+**发布时间**: 2026-03-19 16:52
+
+#### [万辰集团最新财报：500亿年报落定，量贩零食进入效率决胜期](https://www.tmtpost.com/7919846.html)
+**发布时间**: 2026-03-19 16:52
+
+#### [Adv Sci：牙不好，真会让人抑郁？重庆医科大学宋锦璘等首次揭示“口-脑”炎症轴完整通路](https://www.tmtpost.com/7921271.html)
+**发布时间**: 2026-03-19 16:49
+
+#### [潮汕陈氏兄弟拆分晨光138亿业务，低毛利率成IPO难关？](https://www.tmtpost.com/7921169.html)
+**发布时间**: 2026-03-19 16:46
+
+#### [永辉没必要喊话山姆](https://www.tmtpost.com/7921121.html)
+**发布时间**: 2026-03-19 16:42
+
+#### [万华化学2032亿营收背后：周期拐点与转型破局](https://www.tmtpost.com/7921130.html)
+**发布时间**: 2026-03-19 16:42
+
+#### [腾讯音乐大跌，是因为汽水音乐“偷家”吗？](https://www.tmtpost.com/7921190.html)
+**发布时间**: 2026-03-19 16:40
+
+#### [AI裁员的风，还是吹向了造风的人](https://www.tmtpost.com/7921071.html)
+**发布时间**: 2026-03-19 16:40
+
+#### [腾讯的“旧世界”结束了](https://www.tmtpost.com/7920957.html)
+**发布时间**: 2026-03-19 15:41
+
+#### [全球推理计算量暴涨一万倍背后](https://www.tmtpost.com/7920955.html)
+**发布时间**: 2026-03-19 15:33
+
+#### [西南首家丽思卡尔顿将上架，富力的酒店梦又碎了一遍](https://www.tmtpost.com/7920948.html)
+**发布时间**: 2026-03-19 15:26
+
+#### [通胀魅影未散，地缘风暴已至，美联储的艰难平衡术](https://www.tmtpost.com/7920922.html)
+**发布时间**: 2026-03-19 15:19
+
+#### [“养龙虾”狂热背后：中国AI应用诚可贵，底层创新价更高](https://www.tmtpost.com/7920897.html)
+**发布时间**: 2026-03-19 15:14
+
+#### [成为全球AI工厂，中国的又一张国运王牌](https://www.tmtpost.com/7920719.html)
+**发布时间**: 2026-03-19 15:09
+
+#### [腾讯、字节、阿里，为何同时抢跑Skill市场？](https://www.tmtpost.com/7920854.html)
+**发布时间**: 2026-03-19 15:09
+
+#### [租金5折，长租公寓被保租房“逼到墙......](https://www.tmtpost.com/7919821.html)
+**发布时间**: 2026-03-19 15:09
+
+#### [你买我的存储，我买你的电力：中韩股民为何“换家”？](https://www.tmtpost.com/7920956.html)
+**发布时间**: 2026-03-19 15:05
+
+#### [从“聪明的废物”到“数字员工”，智能体落地如何破局](https://www.tmtpost.com/7920695.html)
+**发布时间**: 2026-03-19 15:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [勃朗特三姐妹书影单：贫瘠土地生出的女性之花](https://sspai.com/post/107517)
+**发布时间**: 2026-03-19 16:00
+
+#### [2025 年度征文 | 最后一页并不存在——我的2025](https://sspai.com/post/106957)
+**发布时间**: 2026-03-19 15:15
+
+#### [杀死你的不是它：聊聊我们的 AI 的焦虑](https://sspai.com/post/106923)
+**发布时间**: 2026-03-19 13:26
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [硅谷大佬把自己 Claude Code 武器库给开源了，1 周就 2 万点赞。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532288&idx=1&sn=4d6252412cc5aa0d7b8ea98730957ee1)
+**发布时间**: 2026-03-19 15:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从AI编程到Agent开发 九章云极智算云助力生态普惠升级](https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 15:04
+
+#### [发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了](https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 14:40
+
+#### [极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展](https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 14:39
+
+#### [神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源](https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 14:35
 
 ---
 

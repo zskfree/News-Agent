@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d036b1874b212331c37927b6de8623e37e852ef16698d629a1ccf73265909644": {
-        "title": "四家同台，春晚成了中国机器人产业“年检”",
-        "link": "https://www.tmtpost.com/7882798.html",
-        "published_date": "Tue, 17 Feb 2026 16:21:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.168562"
-      },
-      "f91e92225cd89a9a291a60f7728b0b2931d6df64502b9786a4383e171fd2ad9d": {
-        "title": "OpenClaw 还没整明白，又来一个 ZeroClaw 开源神器。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531514&idx=1&sn=e06b9d70fa8289d77593dd7c027e030a",
-        "published_date": "Tue, 17 Feb 2026 12:05:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.168575"
-      },
-      "48cdd15dc354a475b0db6f6d7df3788afeb044e7eca29e950380a312a2ba6b84": {
-        "title": "春晚“路演”大获成功，机器人距离上市更近了",
-        "link": "https://www.tmtpost.com/7882826.html",
-        "published_date": "Tue, 17 Feb 2026 16:35:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.168577"
-      },
-      "1b80ed5cf881906a590da45f2b9b850287f3bc53096ee547896d79856e2b7a77": {
-        "title": "宇树翻上墙、银河夹烤肠：2026年春晚机器人哪家强？",
-        "link": "https://www.tmtpost.com/7882950.html",
-        "published_date": "Tue, 17 Feb 2026 15:58:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.168580"
-      },
-      "e21b535c5ef1a3a25cdbc04a74f72a361a763642feb5755aefe416f14d82aaeb": {
-        "title": "苹果为新年添彩头，iPhone17e等一系列新品要来了",
-        "link": "https://www.tmtpost.com/7882784.html",
-        "published_date": "Tue, 17 Feb 2026 10:20:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.168581"
-      },
       "fbf6df7e2fd19b8e28944ca247de7b1553a41c64c87e29c546ab7003adb4c4d5": {
         "title": "“老外”集体来华过春节，对中国“真香”了？",
         "link": "https://www.tmtpost.com/7882815.html",
@@ -2665,27 +2635,39 @@
         "link": "https://www.tmtpost.com/7920688.html",
         "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
         "first_seen": "2026-03-19T06:00:26.614124"
+      },
+      "e795134c6ca6a9c15a1dd009af3bdee9c83cf2dc06ec6f4bb837b17bac360e7b": {
+        "title": "全球推理计算量暴涨一万倍背后",
+        "link": "https://www.tmtpost.com/7920955.html",
+        "published_date": "Thu, 19 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.160789"
+      },
+      "8b8ec10339393912b4caec2b3bba9902982bf13d25ef90835f5ebdf6f4dcf55d": {
+        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+        "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.160802"
+      },
+      "4e5bcbaed407f186c36607387cb10c87245c2c1ad0febc415864481a5ff12e45": {
+        "title": "从“聪明的废物”到“数字员工”，智能体落地如何破局",
+        "link": "https://www.tmtpost.com/7920695.html",
+        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.160804"
+      },
+      "fe9ef3bc45ac193b3084b28b1eca6e0ad4b13ea47837f84e6882a68a947bfd6f": {
+        "title": "算力告急，Token 暴涨：Agent时代的阿里云如何估值？",
+        "link": "https://www.tmtpost.com/7920576.html",
+        "published_date": "Thu, 19 Mar 2026 11:46:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.160807"
+      },
+      "a73ca04e0239ee3112e16fe6683740c179e2b7ae8e6dc421eaf5e99e53261a99": {
+        "title": "在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌",
+        "link": "https://www.tmtpost.com/7919981.html",
+        "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.160809"
       }
     },
     "Finance": {
-      "fdb5da2adf87e408b12b5360783c93e34db44672c23616eb320dd1cdce1f90f1": {
-        "title": "Gold prices tumble below $5,000  as China holidays dent support",
-        "link": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Feb 2026 07:58:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.198136"
-      },
-      "2c07a3f3222d10acffda4f076420032dee38d7b15f79aa0791d379006879e296": {
-        "title": "Bank probe reveals Adani associates’ secret investments",
-        "link": "https://www.ft.com/content/79c73a9c-65ac-425b-bc16-1ef2d3f55ca5",
-        "published_date": "Tue, 17 Feb 2026 07:52:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.198143"
-      },
-      "fa51e46001f1b98d8bc3ccb547ca21edda59a459456e10464a848d51dc564206": {
-        "title": "UK wage growth cools further as unemployment hits highest level since pandemic",
-        "link": "https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc",
-        "published_date": "Tue, 17 Feb 2026 07:50:00 GMT",
-        "first_seen": "2026-02-17T08:50:48.198146"
-      },
       "6f347d7f37d12b6b79f96e082cd4b9d79fb73065a0f612498818d4e48440d888": {
         "title": "What the 10-year Treasury’s move toward 4% says about AI anxiety in markets",
         "link": "https://www.marketwatch.com/story/what-the-10-year-treasurys-move-toward-4-says-about-ai-anxiety-in-markets-6aff8a1c?mod=mw_rss_topstories",
@@ -5855,13 +5837,19 @@
         "link": "https://www.qbitai.com/2026/03/388980.html",
         "published_date": "Wed, 18 Mar 2026 09:39:00 GMT",
         "first_seen": "2026-03-19T06:00:54.022496"
+      },
+      "b043051f0aee4c1415f8c35bc1bade2b6a9f27683c9eea2eaee4a51c3efd19e3": {
+        "title": "2026-03-19日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-19/",
+        "published_date": "Thu, 19 Mar 2026 09:37:00 GMT",
+        "first_seen": "2026-03-19T09:02:41.346580"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-19T06:00:26.614126",
+    "Technology": "2026-03-19T09:02:41.160811",
     "Finance": "2026-03-19T06:00:39.690052",
-    "Ai": "2026-03-19T06:00:54.022498"
+    "Ai": "2026-03-19T09:02:41.346589"
   }
 }
