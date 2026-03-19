@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Mar 2026 23:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 23:50:49 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:00:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>杨植麟 GTC 2026 演讲：首次完整披露 Kimi 技术路线图</title>
-      <link>https://www.tmtpost.com/7919219.html</link>
-      <description>&lt;![CDATA[杨植麟 GTC 2026 演讲：首次完整披露 Kimi 技术路线图]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7919219.html</guid>
+      <title>英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”</title>
+      <link>https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 12:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】证监会最新部署：严肃查处破坏资本市场秩序的人和事；阿里云、百度智能云同时宣布涨价，京东云则承诺：不涨；奇瑞汽车战略入局可控核聚变</title>
-      <link>https://www.tmtpost.com/7919828.html</link>
-      <description>&lt;![CDATA[【钛晨报】证监会最新部署：严肃查处破坏资本市场秩序的人和事；阿里云、百度智能云同时宣布涨价，京东云则承诺：不涨；奇瑞汽车战略入局可控核聚变]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7919828.html</guid>
+      <title>黄仁勋与全球最火AI初创公司CEO们，都聊了什么</title>
+      <link>https://www.tmtpost.com/7920735.html</link>
+      <description>&lt;![CDATA[黄仁勋与全球最火AI初创公司CEO们，都聊了什么]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7920735.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋的“万亿美元赌注”与AI革命</title>
-      <link>https://www.tmtpost.com/7918785.html</link>
-      <description>&lt;![CDATA[黄仁勋的“万亿美元赌注”与AI革命]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7918785.html</guid>
+      <title>固态电池产业化提速，2026年成半固态电池量产元年</title>
+      <link>https://www.tmtpost.com/7920519.html</link>
+      <description>&lt;![CDATA[固态电池产业化提速，2026年成半固态电池量产元年]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7920519.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Alibaba Aims to Become a “Token Factory” in the AI Agent Era</title>
-      <link>https://www.tmtpost.com/7919772.html</link>
-      <description>&lt;![CDATA[Alibaba Aims to Become a “Token Factory” in the AI Agent Era]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7919772.html</guid>
+      <title>微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点</title>
+      <link>https://www.tmtpost.com/7919963.html</link>
+      <description>&lt;![CDATA[微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7919963.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 编程正在终结框架时代</title>
-      <link>https://www.infoq.cn/article/FyW5gwJotRRb8lUAO7z2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 编程正在终结框架时代]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FyW5gwJotRRb8lUAO7z2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？</title>
+      <link>https://www.tmtpost.com/7920688.html</link>
+      <description>&lt;![CDATA[美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7920688.html</guid>
       <category>Technology</category>
     </item>
   </channel>

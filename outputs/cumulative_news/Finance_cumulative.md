@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 23:50
+**最后更新时间**: 2026-03-19 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-19 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US explored tying naval escorts in Strait of Hormuz to government insurance](https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1)
+**发布时间**: 2026-03-19 05:00
+
+#### [Iran sets its price to end the war](https://www.ft.com/content/869f650b-7a9e-461d-a2bb-0788eb991e6d)
+**发布时间**: 2026-03-19 05:00
+
+#### [Trump sails into battle with Lloyd’s of London](https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6)
+**发布时间**: 2026-03-19 05:00
+
+#### [Battersea Power Station in dispute with fired CEO over accounts](https://www.ft.com/content/0ea88797-a181-43fa-bcd0-b0c3e0f0bfb4)
+**发布时间**: 2026-03-19 05:00
+
+#### [How the Trump White House tries to sell war and death as a game](https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1)
+**发布时间**: 2026-03-19 04:00
+
+#### [PwC US boss says partners who resist AI have no place at the firm](https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125)
+**发布时间**: 2026-03-19 04:00
+
+#### [Bank of Japan postpones rate rise after Middle East war erupts](https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2)
+**发布时间**: 2026-03-19 03:57
+
+#### [Japan rebels over $6bn fee for SoftBank under US trade deal](https://www.ft.com/content/372a2da8-cc0e-4d39-8f0a-24670ed6a445)
+**发布时间**: 2026-03-19 01:00
+
+#### [Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Almost 1 in 3 Americans doesn’t know when — or even if — they can retire](https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 04:01
+
+#### [Social media is eroding young people’s happiness. Low-income teens may be most at risk.](https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 00:01
+
+#### [Why Starbucks’ turnaround plans might not win over the younger crowd](https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 23:48
 
 ---
 

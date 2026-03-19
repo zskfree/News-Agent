@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-18 23:50
+**最后更新时间**: 2026-03-19 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-19 06:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [安达股份：债务高企，却为上市删除补流项目，毛利率更是逆行业反超 | IPO观察](https://www.tmtpost.com/7919033.html)
+**发布时间**: 2026-03-19 13:42
+
+#### [价值判断：跌停板的投资机会和风险提示（3月17日）｜证券市场观察](https://www.tmtpost.com/7920900.html)
+**发布时间**: 2026-03-19 13:29
+
+#### [价值判断：涨停板的投资机会和风险提示（3月17日）｜证券市场观察](https://www.tmtpost.com/7920891.html)
+**发布时间**: 2026-03-19 13:29
+
+#### [五大模型如何给企业“定价”？｜济安学派](https://www.tmtpost.com/7920883.html)
+**发布时间**: 2026-03-19 13:28
+
+#### [助瞿颖、戴军大翻红，papi酱给综艺界上了一课](https://www.tmtpost.com/7920718.html)
+**发布时间**: 2026-03-19 13:22
+
+#### [黄仁勋与全球最火AI初创公司CEO们，都聊了什么](https://www.tmtpost.com/7920735.html)
+**发布时间**: 2026-03-19 13:22
+
+#### [阅文2025财报：IP+AI进入验证期，第二曲线能否成型？](https://www.tmtpost.com/7920710.html)
+**发布时间**: 2026-03-19 13:21
+
+#### [美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？](https://www.tmtpost.com/7920688.html)
+**发布时间**: 2026-03-19 12:04
+
+#### [首日空降TOP17，又一“搜打撤”游戏跑出？赛道机会有多大？](https://www.tmtpost.com/7920687.html)
+**发布时间**: 2026-03-19 12:04
+
+#### [在巨头围剿中突围，爱科百发押注“治疗端”胜算几何？](https://www.tmtpost.com/7920608.html)
+**发布时间**: 2026-03-19 12:04
+
+#### [又一家国际大牌撑不住了：全线关店，1.5折清仓](https://www.tmtpost.com/7920630.html)
+**发布时间**: 2026-03-19 12:04
+
+#### [固态电池产业化提速，2026年成半固态电池量产元年](https://www.tmtpost.com/7920519.html)
+**发布时间**: 2026-03-19 12:04
+
+#### [迪拜国际金融中心梦碎](https://www.tmtpost.com/7920589.html)
+**发布时间**: 2026-03-19 11:53
+
+#### [算力告急，Token 暴涨：Agent时代的阿里云如何估值？](https://www.tmtpost.com/7920576.html)
+**发布时间**: 2026-03-19 11:46
+
+#### [碳基和“悟空”组队烧token，炸出新物种](https://www.tmtpost.com/7920574.html)
+**发布时间**: 2026-03-19 11:40
+
+#### [3D打印“手搓”Labubu，泡泡玛特怒了](https://www.tmtpost.com/7919585.html)
+**发布时间**: 2026-03-19 11:35
+
+#### [男频，悬在分账赛道上的“老蓝海”](https://www.tmtpost.com/7919575.html)
+**发布时间**: 2026-03-19 11:31
+
+#### [聊一聊盒马超盒算NB开放加盟的“阳谋”](https://www.tmtpost.com/7920499.html)
+**发布时间**: 2026-03-19 11:28
+
+#### [中国首座机器人超过常住人口的地方，可能会在这里诞生](https://www.tmtpost.com/7920497.html)
+**发布时间**: 2026-03-19 11:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%](https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 12:07
+
+#### [英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”](https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 12:05
+
+#### [明视脑机刘冰：攀登“脑机珠峰”需要一整套支持长期远征的后勤保障体系](https://www.infoq.cn/article/WVNe21lA5O58bcxNgkU9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 11:24
+
+#### [构建 AI 的“第二大脑”：大规模多模态记忆平台技术实践｜QCon北京](https://www.infoq.cn/article/E8tbY8hNSjwU5iqxpY02?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 10:05
+
+#### [2025 年 DORA 报告：AI 正在放大软件工程效能c](https://www.infoq.cn/article/Av1MacXt8csx1TY2N76k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 10:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [为什么大厂都盯上了Token生意？](http://www.huxiu.com/article/4843210.html?f=wangzhan)
+**发布时间**: 2026-03-19 10:40
+
+#### [为什么别人能用AI批量做短剧，你只能靠运气？](http://www.huxiu.com/article/4843301.html?f=wangzhan)
+**发布时间**: 2026-03-19 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等](https://sspai.com/post/107514)
+**发布时间**: 2026-03-19 08:44
 
 ---
 

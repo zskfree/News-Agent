@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8106a192e6b6a997def6a686017a500ee904f25d504d1dfc908beacd77f00b5": {
-        "title": "微软AI掌门放狠话：12-18个月，多数白领工作将被AI彻底替代？",
-        "link": "https://www.tmtpost.com/7882684.html",
-        "published_date": "Tue, 17 Feb 2026 11:47:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527260"
-      },
-      "d03ad4526b1bff93368572dffa49825e62eb35d6372af5bbe76b489d8a1c2510": {
-        "title": "Shadcn 发布可视化项目构建工具",
-        "link": "https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527268"
-      },
-      "b2b563a733f3476a49af67b76da5637c531ddb4bea51f039cb986329262701f7": {
-        "title": "资本押注未来：睿舒科技天使轮融资，锚定环境智能3.0时代",
-        "link": "https://www.tmtpost.com/7881005.html",
-        "published_date": "Tue, 17 Feb 2026 09:19:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527270"
-      },
-      "116906affffefa153754267ef53efa500e9d47d8f6acf6a7c6314f8684d33350": {
-        "title": "从蔡明扮机器人，到机器人陪蔡明，春晚走了30年",
-        "link": "https://www.tmtpost.com/7882691.html",
-        "published_date": "Tue, 17 Feb 2026 10:40:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527272"
-      },
-      "d45c0c535e489c23a73b7b1a9a76e83e24fae4db892675c8460a15fbc3b2d4d0": {
-        "title": "春晚被机器人全面入侵的那一夜",
-        "link": "https://www.tmtpost.com/7882580.html",
-        "published_date": "Tue, 17 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527274"
-      },
       "d036b1874b212331c37927b6de8623e37e852ef16698d629a1ccf73265909644": {
         "title": "四家同台，春晚成了中国机器人产业“年检”",
         "link": "https://www.tmtpost.com/7882798.html",
@@ -2665,39 +2635,39 @@
         "link": "https://www.infoq.cn/article/FyW5gwJotRRb8lUAO7z2?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 18 Mar 2026 15:43:00 GMT",
         "first_seen": "2026-03-18T23:50:49.525364"
+      },
+      "1338bdf63e72241d127be1b6432eb7a5f9c302e165fdec8ee46d270ff4c53ed3": {
+        "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
+        "link": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 12:05:00 GMT",
+        "first_seen": "2026-03-19T06:00:26.614109"
+      },
+      "3a48c25e85698b0b5d9c7a6805182b3f315ff2252cca9409a4de74e1b689170d": {
+        "title": "黄仁勋与全球最火AI初创公司CEO们，都聊了什么",
+        "link": "https://www.tmtpost.com/7920735.html",
+        "published_date": "Thu, 19 Mar 2026 13:22:00 GMT",
+        "first_seen": "2026-03-19T06:00:26.614117"
+      },
+      "945c8c4c28f8615b9cd48f687ccb8e82ce2ad270a9f81739fada7891d4f74ec0": {
+        "title": "固态电池产业化提速，2026年成半固态电池量产元年",
+        "link": "https://www.tmtpost.com/7920519.html",
+        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-19T06:00:26.614119"
+      },
+      "4bc81bd39e3ee2cc7ca1187027ff2c9f444e3755fc06dbabf85b48eb42baa5c6": {
+        "title": "微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点",
+        "link": "https://www.tmtpost.com/7919963.html",
+        "published_date": "Thu, 19 Mar 2026 07:02:00 GMT",
+        "first_seen": "2026-03-19T06:00:26.614122"
+      },
+      "f7d509028482c8481ff96a8b271fcaecdfc46f51cb0ab63c4c1e137cb05d2f47": {
+        "title": "美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？",
+        "link": "https://www.tmtpost.com/7920688.html",
+        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-19T06:00:26.614124"
       }
     },
     "Finance": {
-      "63a53f1ab3f13823aac1d55f902251dce82ce1b8050bae5c7be1b14e19263533": {
-        "title": "U.S. stock futures slump as investors digest ongoing tech selloff",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Feb 2026 04:01:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571357"
-      },
-      "f8f42674ac11a14e1a831e8d546fffea84b4cef3a914b5bd554f4369b87e942f": {
-        "title": "Big Oil executives under pressure to spell out growth plans",
-        "link": "https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e",
-        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571363"
-      },
-      "d05b6638d6290c02377e115fc78330d597ecbc638bdf336b60ac77c6c0915151": {
-        "title": "UK quietly shelves £110mn frictionless post-Brexit trade border project",
-        "link": "https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d",
-        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571365"
-      },
-      "e587a028bc44a4968b9e1ab26e429a7695567042d6759dddb84b4ead4148d02b": {
-        "title": "Thomas Pritzker steps down as Hyatt executive chair over Epstein ties",
-        "link": "https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec",
-        "published_date": "Mon, 16 Feb 2026 23:56:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571367"
-      },
-      "c0bb79fdf0805fba842fcbce041549d8205e0ec4b630a02a8dc68eabaa2d8182": {
-        "title": "Macron arrives in India as blockbuster fighter jet deal nears",
-        "link": "https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b",
-        "published_date": "Tue, 17 Feb 2026 04:18:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571369"
-      },
       "fdb5da2adf87e408b12b5360783c93e34db44672c23616eb320dd1cdce1f90f1": {
         "title": "Gold prices tumble below $5,000  as China holidays dent support",
         "link": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
@@ -4569,21 +4539,39 @@
         "link": "https://www.ft.com/content/51ad00f4-1c70-45df-9eb1-fe8038af1fd7",
         "published_date": "Wed, 18 Mar 2026 16:44:00 GMT",
         "first_seen": "2026-03-18T23:51:04.107488"
+      },
+      "2a9e6babcdb0ca2e2f16e4005be8898ec16e5186eaf2ed7f234e466f6dee0ee3": {
+        "title": "Bank of Japan postpones rate rise after Middle East war erupts",
+        "link": "https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2",
+        "published_date": "Thu, 19 Mar 2026 03:57:00 GMT",
+        "first_seen": "2026-03-19T06:00:39.690037"
+      },
+      "ad830281835aca865590be3afced4f0c0d52867284daf3127fa4219b33edd7f6": {
+        "title": "US explored tying naval escorts in Strait of Hormuz to government insurance",
+        "link": "https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1",
+        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-19T06:00:39.690043"
+      },
+      "7c1867035e1c83c2c19202d10d631cc689bd4600d69599d2d63e7db8942e1fc3": {
+        "title": "Trump sails into battle with Lloyd’s of London",
+        "link": "https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6",
+        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-19T06:00:39.690046"
+      },
+      "8bc9eb29b24112ae7d7a76133da02e4078d2ef7efca233098c288fb107d91379": {
+        "title": "PwC US boss says partners who resist AI have no place at the firm",
+        "link": "https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125",
+        "published_date": "Thu, 19 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-19T06:00:39.690047"
+      },
+      "43d414fab96a1cc45d7f5b3984015ad094eea119ba34c8b1194520aa3706e7a2": {
+        "title": "Almost 1 in 3 Americans doesn’t know when — or even if — they can retire",
+        "link": "https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Mar 2026 04:01:00 GMT",
+        "first_seen": "2026-03-19T06:00:39.690049"
       }
     },
     "Ai": {
-      "2cb3dbb085b16a3e61ffccf5ad4222e7e938c7f12a9182447db3f038389fb82d": {
-        "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
-        "link": "https://www.qbitai.com/2026/02/380771.html",
-        "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.716431"
-      },
-      "f337681d4afc28f88e59ee87c050a495d4cf6efe0212a428747e7cb4286d0d95": {
-        "title": "2026-02-17日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-17/",
-        "published_date": "Tue, 17 Feb 2026 07:23:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.716440"
-      },
       "2b680247306aff3fcafd6fab4cb7899870ab792acab4c4ec9c8a373b86edd648": {
         "title": "ICLR 2026 | SEINT：高效的跨空间刚体不变度量",
         "link": "https://www.jiqizhixin.com/articles/2026-02-17-3",
@@ -5837,13 +5825,43 @@
         "link": "https://www.qbitai.com/2026/03/388815.html",
         "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
         "first_seen": "2026-03-18T06:04:42.027918"
+      },
+      "177a828e7c7c91246e2d092ffd284931cbae5906a04c65170ba62ce2d3505f40": {
+        "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+        "link": "https://www.qbitai.com/2026/03/389024.html",
+        "published_date": "Wed, 18 Mar 2026 13:25:00 GMT",
+        "first_seen": "2026-03-19T06:00:54.022484"
+      },
+      "03350dfdb85064bc03118d3bb04262863bc60f0c7fdc38b108b8a337af45c26b": {
+        "title": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+        "link": "https://www.qbitai.com/2026/03/389038.html",
+        "published_date": "Thu, 19 Mar 2026 01:18:00 GMT",
+        "first_seen": "2026-03-19T06:00:54.022491"
+      },
+      "e70b185576fe6618fe5b71a8a3f851a3da05786184d1e39eb8c184c0f5bd90b1": {
+        "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+        "link": "https://www.qbitai.com/2026/03/388972.html",
+        "published_date": "Wed, 18 Mar 2026 08:55:00 GMT",
+        "first_seen": "2026-03-19T06:00:54.022493"
+      },
+      "0b4c9c2ce2340381fd637b074157c75b751a97022139dcc09593a766d0e60b0c": {
+        "title": "联想AI平板 拯救者Y700五代开启“AI智控”时代：全场景调度让战力无损释放",
+        "link": "https://www.qbitai.com/2026/03/389089.html",
+        "published_date": "Wed, 18 Mar 2026 10:56:00 GMT",
+        "first_seen": "2026-03-19T06:00:54.022495"
+      },
+      "28b794a34a0d445904e013f4787236458a664fed205a83eef860c482ec813aa0": {
+        "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
+        "link": "https://www.qbitai.com/2026/03/388980.html",
+        "published_date": "Wed, 18 Mar 2026 09:39:00 GMT",
+        "first_seen": "2026-03-19T06:00:54.022496"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-18T23:50:49.525366",
-    "Finance": "2026-03-18T23:51:04.107490",
-    "Ai": "2026-03-18T06:04:42.027920"
+    "Technology": "2026-03-19T06:00:26.614126",
+    "Finance": "2026-03-19T06:00:39.690052",
+    "Ai": "2026-03-19T06:00:54.022498"
   }
 }
