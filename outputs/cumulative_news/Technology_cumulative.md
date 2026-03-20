@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 23:33
+**最后更新时间**: 2026-03-20 05:54
+
+---
+
+## 🆕 最新更新 (2026-03-20 05:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [81000人深夜倾诉：AI正在偷走人类最珍贵的东西？](https://www.tmtpost.com/7922305.html)
+**发布时间**: 2026-03-20 12:29
+
+#### [腾讯的心思，藏在“虾笼”里](https://www.tmtpost.com/7921656.html)
+**发布时间**: 2026-03-20 12:29
+
+#### [Arm执行副总裁Drew Henry：物理AI领域，芯片设计并非以极致性能和超高内存带宽为核心](https://www.tmtpost.com/7922211.html)
+**发布时间**: 2026-03-20 12:21
+
+#### [阿里的1000亿美金野心与美团的243亿亏损阴影](https://www.tmtpost.com/7922309.html)
+**发布时间**: 2026-03-20 12:12
+
+#### [直觉机器公司的业绩指引超出华尔街预期，为什么股价却在下跌](https://www.tmtpost.com/7922325.html)
+**发布时间**: 2026-03-20 11:36
+
+#### [顶级价值型基金经理力荐他们最看好的股票，把目光放到国际市场上](https://www.tmtpost.com/7922323.html)
+**发布时间**: 2026-03-20 11:36
+
+#### [五角大楼为对伊朗战争寻求2000亿美元资金，以下是这对国防类股票意味着什么](https://www.tmtpost.com/7922304.html)
+**发布时间**: 2026-03-20 11:29
+
+#### [腾讯终于着急了](https://www.tmtpost.com/7921610.html)
+**发布时间**: 2026-03-20 10:50
+
+#### [LAG-3又塌房了](https://www.tmtpost.com/7922150.html)
+**发布时间**: 2026-03-20 10:50
+
+#### [虎牙与AI的距离](https://www.tmtpost.com/7921776.html)
+**发布时间**: 2026-03-20 10:50
+
+#### [IB 网络垄断已破，国产算力十万卡级难题何在？丨ToB产业观察](https://www.tmtpost.com/7920837.html)
+**发布时间**: 2026-03-20 10:35
+
+#### [lululemon是时候找个更懂中国的CEO了](https://www.tmtpost.com/7921999.html)
+**发布时间**: 2026-03-20 09:51
+
+#### [3个月估值翻4倍：Kimi的沉寂与狂飙](https://www.tmtpost.com/7921834.html)
+**发布时间**: 2026-03-20 09:48
+
+#### [Visa、万事达和美国运通都遭遇了重挫，抄底买入的理由](https://www.tmtpost.com/7922128.html)
+**发布时间**: 2026-03-20 09:46
+
+#### [这只卫星股终于开始动了，财报显示，太空业务正在升温](https://www.tmtpost.com/7922126.html)
+**发布时间**: 2026-03-20 09:46
+
+#### [腾讯AI，“老登”不服输](https://www.tmtpost.com/7921769.html)
+**发布时间**: 2026-03-20 09:29
+
+#### [OpenAI祭出桌面超级应用，AI PC厂商恐成硬件代工厂](https://www.tmtpost.com/7922016.html)
+**发布时间**: 2026-03-20 09:21
+
+#### [【钛晨报】事关人民银行法、金融稳定法等立法修法，央行部署今年重点工作；阿里CEO吴泳铭：平头哥不排除IPO，目前暂无明确时间表；马斯克：SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片](https://www.tmtpost.com/7921802.html)
+**发布时间**: 2026-03-20 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [作业帮Flink On K8s落地实践](https://www.infoq.cn/article/C7FWgbQHyRwfxGQMge5T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 11:50
+
+#### [深圳 17 岁高中生回应成 Kimi 论文第一作者：不要造神，成果属于团队](https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 10:39
+
+#### [Meta内部Agent失控升级：首个Sev 1级事故曝光，系统数据裸奔了两小时](https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 10:26
+
+#### [针对全球化规模的架构设计：深入了解DoorDash统一、模块化的配送员入驻平台](https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 10:00
+
+#### [智能体架构的降龙十八掌：从原型到工程落地的“生死取舍”｜QCon北京](https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 09:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写在世界口腔健康日：正确的刷牙方法以及刷牙的 10 个迷思](https://sspai.com/post/107529)
+**发布时间**: 2026-03-20 11:12
+
+#### [派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等](https://sspai.com/post/107563)
+**发布时间**: 2026-03-20 08:38
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国关税砸遍的废墟上，站着中国车企](http://www.huxiu.com/article/4843461.html?f=wangzhan)
+**发布时间**: 2026-03-19 17:16
+
+#### [小牛不能光靠科技叙事支撑未来十年](http://www.huxiu.com/article/4843465.html?f=wangzhan)
+**发布时间**: 2026-03-19 16:53
 
 ---
 

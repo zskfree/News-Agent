@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-19 23:33
+**最后更新时间**: 2026-03-20 05:54
+
+---
+
+## 🆕 最新更新 (2026-03-20 05:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Military briefing: the perils of the Hormuz escort plan](https://www.ft.com/content/bb6a57d6-8d54-43a7-95b4-110e51fbc5db)
+**发布时间**: 2026-03-20 05:00
+
+#### [Qatar’s gas empire comes under fire](https://www.ft.com/content/25f1a787-29e1-40f3-afa1-f7edd00500f8)
+**发布时间**: 2026-03-20 05:00
+
+#### [The war over tail risks is in full swing](https://www.ft.com/content/f20feee2-0c85-4138-9c41-86b691b74a06)
+**发布时间**: 2026-03-20 05:00
+
+#### [Rituals of survival in Tehran](https://www.ft.com/content/a2b3dcbf-9fec-4fd8-9935-ca6ab0b79100)
+**发布时间**: 2026-03-20 05:00
+
+#### [Airlines draw up contingency plans over jet fuel shortage fears](https://www.ft.com/content/1d65be52-df93-41e3-869e-3194bc24f6a0)
+**发布时间**: 2026-03-20 05:00
+
+#### [JPMorgan deploys tech to monitor junior bankers’ working hours](https://www.ft.com/content/5ee9d5f1-9b9b-4aee-8712-111e873e241a)
+**发布时间**: 2026-03-20 05:00
+
+#### [World Economic Forum explores trustee shake-up after scandals](https://www.ft.com/content/ecc35354-cc26-45d2-b0e5-cfd4f7a53065)
+**发布时间**: 2026-03-20 05:00
+
+#### [China cracks down on fuel and fertiliser exports](https://www.ft.com/content/3033f98c-f69a-4628-8806-3fe5a3ccda3b)
+**发布时间**: 2026-03-20 03:45
+
+#### [Supermicro co-founder charged in conspiracy to export Nvidia chips to China](https://www.ft.com/content/d605ebac-bfae-4cec-a7d9-8696f2a5d748)
+**发布时间**: 2026-03-20 00:43
+
+#### [Iran renews Gulf strikes as oil steadies](https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f)
+**发布时间**: 2026-03-19 23:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says](https://www.marketwatch.com/story/super-micro-cofounder-engaged-in-backdoor-scheme-to-divert-nvidia-chips-to-china-u-s-government-says-5efbea7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 02:20
+
+#### [The Trump administration just greenlit the TV megamerger at the center of Jimmy Kimmel’s suspension. It still may not be legal.](https://www.marketwatch.com/story/the-tv-megamerger-that-knocked-jimmy-kimmel-off-the-air-is-illegal-state-officials-say-974176e3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:53
+
+#### [‘We’re living the simple life’: I was a fisherman and my wife was a nurse. We retired with $6 million. Here’s how we did it.](https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:15
+
+#### [‘Six figures are missing’: My aunt’s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?](https://www.marketwatch.com/story/six-figures-are-missing-my-aunts-attorney-took-over-her-bank-account-two-random-doctors-declared-her-incompetent-how-do-i-fix-this-8abf81ee?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:00
+
+#### [I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems.](https://www.marketwatch.com/story/i-opened-a-0-credit-card-to-pay-11-000-in-vacation-debt-why-cant-i-get-a-higher-credit-limit-my-debt-utilization-is-only-10-d8746a91?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:36
 
 ---
 
