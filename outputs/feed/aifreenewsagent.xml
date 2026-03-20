@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 05:53:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 05:54:57 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:43:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶</title>
-      <link>https://www.qbitai.com/2026/03/389569.html</link>
-      <description>&lt;![CDATA[黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 00:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389569.html</guid>
+      <title>AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了</title>
+      <link>https://www.qbitai.com/2026/03/390235.html</link>
+      <description>&lt;![CDATA[AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 07:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/390235.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型</title>
-      <link>https://www.qbitai.com/2026/03/389610.html</link>
-      <description>&lt;![CDATA[Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 02:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389610.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Meta Agent失控泄密，小扎紧急拉响顶格警报</title>
-      <link>https://www.qbitai.com/2026/03/389570.html</link>
-      <description>&lt;![CDATA[Meta Agent失控泄密，小扎紧急拉响顶格警报]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 00:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389570.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了</title>
-      <link>https://www.qbitai.com/2026/03/389673.html</link>
-      <description>&lt;![CDATA[Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389673.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布</title>
-      <link>https://www.qbitai.com/2026/03/389666.html</link>
-      <description>&lt;![CDATA[OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 03:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/389666.html</guid>
+      <title>2026-03-20日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-20/</link>
+      <description>&lt;![CDATA[2026-03-20日刊]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-20/</guid>
       <category>Ai</category>
     </item>
   </channel>

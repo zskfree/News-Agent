@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "947284e9748b43bf31284e500ce417de0afd23a2311fded13c43478f0851df02": {
-        "title": "17家、540亿、2个月：AI融资进入寡头时代，赢家通吃开始",
-        "link": "https://www.tmtpost.com/7883312.html",
-        "published_date": "Wed, 18 Feb 2026 10:34:00 GMT",
-        "first_seen": "2026-02-18T06:02:56.101027"
-      },
-      "107404dd3d4c407d1b3b4d22232958363d398ae064683645e84322c0b6c0f299": {
-        "title": "Teleport 推出智能体身份框架，为企业基础设施中的 AI 智能体提供安全保障",
-        "link": "https://www.infoq.cn/article/NCScMoBflBRBsFh5tQmJ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-18T06:02:56.101040"
-      },
-      "933eae808821b042646a3a7598f80dc4aec6b75071c5013406724d7d469991c8": {
-        "title": "业绩暴涨54%仍要赴港拿钱？思源电气绑上宁德时代，急补储能弹药",
-        "link": "https://www.tmtpost.com/7883123.html",
-        "published_date": "Wed, 18 Feb 2026 08:19:00 GMT",
-        "first_seen": "2026-02-18T06:02:56.101043"
-      },
-      "c0be3a14a48c4210533efb00a7d2be8af7f3d43e5da25c8bd38a8461cafd7e5e": {
-        "title": "漫剧公司集体转向，AI仿真人或将颠覆行业",
-        "link": "https://www.tmtpost.com/7883243.html",
-        "published_date": "Wed, 18 Feb 2026 09:01:00 GMT",
-        "first_seen": "2026-02-18T06:02:56.101045"
-      },
-      "c8af4d95fe11a56569b72ded3af91bd809d95de7b7d4398bb95b5d7ff349aba6": {
-        "title": "春晚机器人爆红背后：一场关于「非共识」的产业思辨",
-        "link": "https://www.tmtpost.com/7883501.html",
-        "published_date": "Wed, 18 Feb 2026 09:34:00 GMT",
-        "first_seen": "2026-02-18T06:02:56.101046"
-      },
       "925f5f7cf9c59fea097639f038c6a068312142d3efd759497e401420d12bb401": {
         "title": "推荐 4 个神级 SKills 开源 GitHub 项目，非常实用。",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531515&idx=1&sn=f248513e73e1bbfa3f125256176f7450",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 20 Mar 2026 10:26:00 GMT",
         "first_seen": "2026-03-20T05:54:30.877455"
+      },
+      "1a05f662df125478c448e857e6a2de6c4bb67c49a60148b912298a0a05d03074": {
+        "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
+        "link": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.211946"
+      },
+      "3d048072e4a7f97f9798472a6658197ba1bdb2fbb2b631e0b6b3fbf3513214f9": {
+        "title": "Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通",
+        "link": "https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Mar 2026 16:20:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.211956"
+      },
+      "a5432742a3547c7b8e34a698d200906478b6c0d53272ffe24c3d312539887f1f": {
+        "title": "全世界都以为它是DeepSeek V4，结果却是小米交的“作业”",
+        "link": "https://www.tmtpost.com/7921866.html",
+        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.211959"
+      },
+      "7efdb1502a8b026ae511031c00a90e08dfc7a7f6373607b62e0d7c5104bcfa03": {
+        "title": "腾讯云实现规模盈利，AI开始赚钱了？｜看财报",
+        "link": "https://www.tmtpost.com/7922270.html",
+        "published_date": "Fri, 20 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.211962"
+      },
+      "2e2cd4b8715ce948740fdaa1958ccd8ebdb4115000f5a972a4c05ef618f32f39": {
+        "title": "争做 “英伟达平替”，地平线悬了吗？",
+        "link": "https://www.tmtpost.com/7922209.html",
+        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.211963"
       }
     },
     "Finance": {
-      "36aba9a799e8b864c3739bedc654ffef0bec1c4cc0e809cffc9fe228a24f3fe0": {
-        "title": "Christine Lagarde to leave ECB before the end of her 8-year term",
-        "link": "https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c",
-        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.089943"
-      },
-      "e846f040df00117232ac3e0ff912b64783248e3d0075379ef2909ed6e72a8e84": {
-        "title": "Gilt investors warn about ‘ruse’ to fund higher UK defence spending",
-        "link": "https://www.ft.com/content/7b75d557-feb4-4a1f-881a-7d52df7da7aa",
-        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.089950"
-      },
-      "f7c92ed62856d241aad4dbd677ee140245a8061699a238062b1ec80bb748f8e4": {
-        "title": "Carmakers to win reprieve in £11bn UK motor finance redress scheme",
-        "link": "https://www.ft.com/content/bc45946e-3751-402c-94b8-947d2fc41717",
-        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.089953"
-      },
-      "5c0df1ac96686241abd0c571a195696ebafe28df5fd3eac88932f0a7576fdab9": {
-        "title": "The truth about population decline",
-        "link": "https://www.ft.com/content/0ae26c7b-09ea-4c5c-b337-6db0c357c916",
-        "published_date": "Wed, 18 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.089955"
-      },
-      "5aaf2525390fe666ae420b98eaad301d4f9d32c9108e96983dff9dcda3a520c8": {
-        "title": "Nvidia’s new Meta deal may not be great news for these other tech stocks",
-        "link": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
-        "published_date": "Wed, 18 Feb 2026 01:01:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.089956"
-      },
       "9f74ffdad5a73abee755b967145853f1a3038cea16530af09cd066ab78c2369f": {
         "title": "UK inflation falls sharply to 3% in January",
         "link": "https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9",
@@ -4617,27 +4587,21 @@
         "link": "https://www.ft.com/content/bb6a57d6-8d54-43a7-95b4-110e51fbc5db",
         "published_date": "Fri, 20 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-20T05:54:45.251277"
+      },
+      "49f5e39e96653bac4a8dde762a58f6899682f9ed9e7e4862b44cbcf648bdece6": {
+        "title": "Unilever in talks to sell food division to spice and sauce maker McCormick",
+        "link": "https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e",
+        "published_date": "Fri, 20 Mar 2026 08:00:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.246452"
+      },
+      "b6bf2b4d6527a03c9da55b9eb652cf29d6e7a99a951bf5f61fb1a465f86feee6": {
+        "title": "UK borrowing higher than expected at £14.3bn in February",
+        "link": "https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6",
+        "published_date": "Fri, 20 Mar 2026 07:34:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.246460"
       }
     },
     "Ai": {
-      "9aa7ddc55ce5415ea99a74c358b5f7987d4dbf2895b812475eedd22f989d5d9a": {
-        "title": "春晚揭秘！蔡明的「大孙子们」，背地里竟在干这些",
-        "link": "https://www.qbitai.com/2026/02/380804.html",
-        "published_date": "Wed, 18 Feb 2026 04:20:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.245562"
-      },
-      "19719178d56c457b56cf3eb7c5375bf10d765fa9ead52de99f74bf37b8af230a": {
-        "title": "银河通用把“机器人表演”变成“机器人上岗”，端到端大模型银河星脑有多强",
-        "link": "https://www.qbitai.com/2026/02/380787.html",
-        "published_date": "Wed, 18 Feb 2026 02:54:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.245571"
-      },
-      "d2c64bc86280b9e5c3f465882c59444152d74b21865611cd6b9ce572436a0ff8": {
-        "title": "2026-02-18日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-18/",
-        "published_date": "Wed, 18 Feb 2026 07:23:00 GMT",
-        "first_seen": "2026-02-18T06:03:08.245573"
-      },
       "cedf6a75312eb7fa5b8750337eef3f622894c818e338a000014c22cea5da5337": {
         "title": "Claude最新Sonnet：Opus级智能，性价比王炸，OpenClaw天选API",
         "link": "https://www.qbitai.com/2026/02/381081.html",
@@ -5939,13 +5903,25 @@
         "link": "https://www.qbitai.com/2026/03/389666.html",
         "published_date": "Fri, 20 Mar 2026 03:01:00 GMT",
         "first_seen": "2026-03-20T05:54:57.387312"
+      },
+      "acfab1632cc92d7248936332e64f8eead3a77852d5814927d7d81473f1359912": {
+        "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
+        "link": "https://www.qbitai.com/2026/03/390235.html",
+        "published_date": "Fri, 20 Mar 2026 07:40:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.393694"
+      },
+      "fd36199bae2706f281449cde63513fc651ff262474438de0331b4ad244d432bf": {
+        "title": "2026-03-20日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-20/",
+        "published_date": "Fri, 20 Mar 2026 09:47:00 GMT",
+        "first_seen": "2026-03-20T08:43:47.393703"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-20T05:54:30.877457",
-    "Finance": "2026-03-20T05:54:45.251280",
-    "Ai": "2026-03-20T05:54:57.387314"
+    "Technology": "2026-03-20T08:43:47.211966",
+    "Finance": "2026-03-20T08:43:47.246462",
+    "Ai": "2026-03-20T08:43:47.393706"
   }
 }

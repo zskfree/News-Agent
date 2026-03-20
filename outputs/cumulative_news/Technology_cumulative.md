@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-20 05:54
+**最后更新时间**: 2026-03-20 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-20 08:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通](https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 16:20
+
+#### [Claude挖出22个Firefox漏洞](https://www.infoq.cn/article/GRET2LJeoa4WQm35qmiD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 15:45
+
+#### [谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能](https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 15:00
+
+#### [伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战](https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [风电+绿氢，能源行业的新"黄金搭档"前景如何？](https://www.tmtpost.com/7921719.html)
+**发布时间**: 2026-03-20 15:45
+
+#### [全世界都以为它是DeepSeek V4，结果却是小米交的“作业”](https://www.tmtpost.com/7921866.html)
+**发布时间**: 2026-03-20 15:45
+
+#### [一手实测钉钉“悟空”：AI总算从聊天进化到干活！](https://www.tmtpost.com/7922228.html)
+**发布时间**: 2026-03-20 15:45
+
+#### [争做 “英伟达平替”，地平线悬了吗？](https://www.tmtpost.com/7922209.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [罗福莉悄无声息地伏击](https://www.tmtpost.com/7921691.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [所有人都在等待微信AI的王炸](https://www.tmtpost.com/7921673.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [雷军说三年要投AI600亿，市场有点慌](https://www.tmtpost.com/7922268.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [谷歌究竟会不会给Gemini加广告？](https://www.tmtpost.com/7921814.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [利润大幅下滑，阿里要开始想赚钱的事了](https://www.tmtpost.com/7922256.html)
+**发布时间**: 2026-03-20 15:08
+
+#### [腾讯云实现规模盈利，AI开始赚钱了？｜看财报](https://www.tmtpost.com/7922270.html)
+**发布时间**: 2026-03-20 14:21
+
+#### [灵巧手企业曦诺未来Xynova完成数亿元Pre-A轮融资，全面加速技术量产进程｜融资速递](https://www.tmtpost.com/7922166.html)
+**发布时间**: 2026-03-20 14:21
+
+#### [北大团队推出AI自主全球直播，探讨脑机接口技术安全｜公司动态](https://www.tmtpost.com/7921889.html)
+**发布时间**: 2026-03-20 14:20
+
+#### [对话易点天下：Agent与过去有本质区别，安全风险不在于模型微调，而在于模型选择](https://www.tmtpost.com/7921199.html)
+**发布时间**: 2026-03-20 14:17
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近用的贼多的 3 个 Claude Code 开源宝藏，感觉太爽了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532290&idx=1&sn=7882ad93e1e37a5394911398677c630a)
+**发布时间**: 2026-03-20 15:43
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [抱紧英伟达，硬刚特斯拉：吉利的智驾“翻身仗”能成吗？](http://www.huxiu.com/article/4843580.html?f=wangzhan)
+**发布时间**: 2026-03-20 14:45
+
+#### [新款小米SU7，“融冰”比销量更重要](http://www.huxiu.com/article/4843852.html?f=wangzhan)
+**发布时间**: 2026-03-20 14:43
+
+#### [小米新SU7，雷军输不起](http://www.huxiu.com/article/4843752.html?f=wangzhan)
+**发布时间**: 2026-03-20 14:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜速通新疆，我的穷游攻略](https://sspai.com/post/107202)
+**发布时间**: 2026-03-20 13:59
 
 ---
 

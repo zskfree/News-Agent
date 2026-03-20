@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-20 05:54
+**最后更新时间**: 2026-03-20 08:43
+
+---
+
+## 🆕 最新更新 (2026-03-20 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Unilever in talks to sell food division to spice and sauce maker McCormick](https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e)
+**发布时间**: 2026-03-20 08:00
+
+#### [UK borrowing higher than expected at £14.3bn in February](https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6)
+**发布时间**: 2026-03-20 07:34
+
+#### [Small rituals of survival in Tehran](https://www.ft.com/content/a2b3dcbf-9fec-4fd8-9935-ca6ab0b79100)
+**发布时间**: 2026-03-20 05:00
+
+#### [The case for slicing up consumer conglomerates further](https://www.ft.com/content/3b9c6e0e-e147-4c49-8601-6d7c074109ff)
+**发布时间**: 2026-03-20 05:00
 
 ---
 
