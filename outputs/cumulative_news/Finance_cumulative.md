@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-20 08:43
+**最后更新时间**: 2026-03-20 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-20 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?](https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:37
+
+#### [‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?](https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:37
+
+#### [Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.](https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:36
+
+#### [Chuck Norris never dies: How a meme made the actor a cultural icon and multimillion-dollar brand](https://www.marketwatch.com/story/chuck-norris-never-dies-how-a-meme-made-him-a-cultural-icon-and-multimillion-dollar-brand-5dbcd6e4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:29
+
+#### [The first major stock index just fell into correction territory. Will others follow?](https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:18
+
+#### [History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation](https://www.marketwatch.com/story/history-says-these-2-overlooked-asset-classes-are-the-only-real-shield-against-1970s-style-stagflation-727af5de?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 20:24
+
+#### [Here’s the exact amount of money you need to make to be financially secure](https://www.marketwatch.com/story/heres-the-exact-amount-of-money-you-need-to-make-to-be-financially-secure-6987a937?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 20:04
+
+#### [Global oil prices climb for 5th straight week as U.S. sends more military might into Middle East](https://www.marketwatch.com/story/oil-prices-rise-as-trump-reportedly-mulls-new-measures-for-kharg-island-97ab0727?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 19:57
+
+#### [March 27 looks like a make-or-break day for American travelers and the partial government shutdown](https://www.marketwatch.com/story/march-27-looks-like-a-make-or-break-day-for-american-travelers-and-the-partial-government-shutdown-3d8dae0b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 19:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK lets US use British bases to strike Iranian missile sites targeting Strait of Hormuz](https://www.ft.com/content/fa30d8c8-7de2-4013-a7b9-5ece5908dcb1)
+**发布时间**: 2026-03-20 21:33
+
+#### [Flagship Blackstone credit fund posts first monthly loss since 2022](https://www.ft.com/content/3443dee2-25ff-4a09-b93a-00e3370af48a)
+**发布时间**: 2026-03-20 20:53
+
+#### [Trump considers ‘winding down’ US military operations](https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f)
+**发布时间**: 2026-03-20 19:21
+
+#### [US to deploy thousands more troops to the Middle East](https://www.ft.com/content/7c9a0632-21fc-49ad-acf9-fba520bb9551)
+**发布时间**: 2026-03-20 18:57
+
+#### [Airline industry hit by biggest crisis since pandemic](https://www.ft.com/content/797851d2-ce7e-4ea4-a5bb-de2c6fcc7a06)
+**发布时间**: 2026-03-20 18:22
+
+#### [UK borrowing costs reach highest level since 2008 as economic hit from war mounts](https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf)
+**发布时间**: 2026-03-20 18:20
+
+#### [Russia offered to curb its support for Iran if US halted aid to Ukraine](https://www.ft.com/content/67252cf2-c008-462d-8af6-2638f461854f)
+**发布时间**: 2026-03-20 18:04
+
+#### [Iran war will scar the global economy](https://www.ft.com/content/2897893a-2b0b-417f-9a11-3e2ab3ae8ab4)
+**发布时间**: 2026-03-20 17:48
+
+#### [‘Raúlito’ Rodríguez Castro, the Cuban scion leading talks with the US](https://www.ft.com/content/6952fa40-86aa-4771-8194-967faf2b4f10)
+**发布时间**: 2026-03-20 17:30
+
+#### [Bank of England’s tough rhetoric on rates makes it an outlier](https://www.ft.com/content/f1a8bf89-bc05-4eeb-b300-dcb3ca203f2a)
+**发布时间**: 2026-03-20 16:38
+
+#### [Rayner leads Labour revolt on immigration plans in new test for Starmer](https://www.ft.com/content/8404071c-c225-4edd-ba2f-e018a8d92590)
+**发布时间**: 2026-03-20 16:16
+
+#### [Goldman’s chief warns private credit risks show cycle ‘has not been repealed’](https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900)
+**发布时间**: 2026-03-20 14:05
+
+#### [Pressure grows on Starmer to drop EU ‘red lines’](https://www.ft.com/content/6a67fe30-6def-42b1-813b-c68d7141ac61)
+**发布时间**: 2026-03-20 13:26
+
+#### [Iran war is the greatest threat to global energy ‘in history’, warns IEA](https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320)
+**发布时间**: 2026-03-20 12:38
 
 ---
 

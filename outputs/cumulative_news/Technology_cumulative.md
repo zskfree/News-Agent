@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-20 08:43
+**最后更新时间**: 2026-03-20 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-20 23:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库](https://www.tmtpost.com/7921666.html)
+**发布时间**: 2026-03-20 21:42
+
+#### [企业软件里的两种世界观，造出了不同的Agent](https://www.tmtpost.com/7922775.html)
+**发布时间**: 2026-03-20 19:51
+
+#### [受累银价狂飙、核心产品失速，帝科股份去年亏损2.76亿 | 看财报](https://www.tmtpost.com/7922961.html)
+**发布时间**: 2026-03-20 19:47
+
+#### [宇树科技IPO受理：营收17亿元、利润6亿元，王兴兴控制近7成表决权](https://www.tmtpost.com/7922968.html)
+**发布时间**: 2026-03-20 19:41
+
+#### [创投监管既要刚性守底线，更要柔性促发展，用温度激活创新动能](https://www.tmtpost.com/7922342.html)
+**发布时间**: 2026-03-20 19:24
+
+#### [当腾讯不再“回购自由”](https://www.tmtpost.com/7922781.html)
+**发布时间**: 2026-03-20 19:24
+
+#### [阿里惊魂：电商触顶，AI成“全村的希望”](https://www.tmtpost.com/7922891.html)
+**发布时间**: 2026-03-20 19:24
+
+#### [半导体设备的下一个金矿，藏在封装厂里](https://www.tmtpost.com/7922915.html)
+**发布时间**: 2026-03-20 19:24
+
+#### [Tencent Cloud Achieves Scaled Profitability for First Time in 2025](https://www.tmtpost.com/7922942.html)
+**发布时间**: 2026-03-20 19:05
+
+#### [China's Xiaomi Unveils Upgraded SU7, With High Expectations From Users](https://www.tmtpost.com/7922921.html)
+**发布时间**: 2026-03-20 18:51
+
+#### [2026 奇点智能技术大会重磅专题内容揭晓！](https://www.tmtpost.com/7922789.html)
+**发布时间**: 2026-03-20 18:23
+
+#### [小马智行抱上腾讯大腿](https://www.tmtpost.com/7922445.html)
+**发布时间**: 2026-03-20 18:06
+
+#### [在大模型这件事上，雷军居然给马斯克打样了](https://www.tmtpost.com/7921801.html)
+**发布时间**: 2026-03-20 16:41
+
+#### [阿里：电商再沦陷，AI才是大救星](https://www.tmtpost.com/7921879.html)
+**发布时间**: 2026-03-20 16:41
+
+#### [中国疫苗的黎明静悄悄](https://www.tmtpost.com/7922263.html)
+**发布时间**: 2026-03-20 16:40
+
+#### [小米新SU7，雷军输不起](https://www.tmtpost.com/7922089.html)
+**发布时间**: 2026-03-20 16:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践](https://www.infoq.cn/article/scYOzRqRtZztaVDZhOc1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 18:53
+
+#### [「百虾大战」战火持续，阶跃星辰发布桌面端 StepClaw，接入「水产市场」](https://www.infoq.cn/article/bRvUfJ2sqUFlrUcQ3qrV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 18:36
+
+#### [为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营](https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 18:30
+
+#### [腾讯QClaw“龙虾”全量公测：20 秒装完，微信一句话远程控电脑](https://www.infoq.cn/article/cNNPBUuylvHgNXEaQlZf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 18:30
+
+#### [OpenAI推出“超级应用”，开抢Anthropic的企业客户](https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 18:11
+
+#### [Claude Code、Cursor 可能都躲不过一次“大重写”，但 OpenCode 也许是例外](https://www.infoq.cn/article/mpTLQz7Oj5lfLIoZiBhE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 17:55
+
+#### [一条被开发者踩出来的路：OpenClaw“涌进”飞书](https://www.infoq.cn/article/hYU9QHMihr7oMET0lmZt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-20 17:26
+
+#### [针对库存优化的 Snowflake Intelligence 供应链助手 ｜ 技术实践](https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-19 21:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107582)
+**发布时间**: 2026-03-20 17:53
 
 ---
 

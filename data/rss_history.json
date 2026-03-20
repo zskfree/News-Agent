@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "925f5f7cf9c59fea097639f038c6a068312142d3efd759497e401420d12bb401": {
-        "title": "推荐 4 个神级 SKills 开源 GitHub 项目，非常实用。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531515&idx=1&sn=f248513e73e1bbfa3f125256176f7450",
-        "published_date": "Wed, 18 Feb 2026 14:46:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.397848"
-      },
-      "375083a4e349c5d1a625c657ba6b211395fd21fec9a27b504ddcf425530cc891": {
-        "title": "春晚7分钟，看见“立上游”的AI新城宜宾",
-        "link": "https://www.tmtpost.com/7883744.html",
-        "published_date": "Wed, 18 Feb 2026 13:49:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.397856"
-      },
-      "a8ba61d56e277aaf6ee877db125e9780089cabbdf089c2a63ea3ce2475f3c753": {
-        "title": "春节走亲戚，年轻人“反向教育”长辈",
-        "link": "https://www.tmtpost.com/7883499.html",
-        "published_date": "Wed, 18 Feb 2026 09:34:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.397859"
-      },
-      "10814dcac8acbe50b1bf7b4068f183d823f33afa77fcdb1a86148f3468579084": {
-        "title": "从暴跌31%到千元以下全赔，国投白银被迫“按闹分配”",
-        "link": "https://www.tmtpost.com/7883155.html",
-        "published_date": "Wed, 18 Feb 2026 08:35:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.397861"
-      },
-      "35a4911c7e26d7b515060a953a21ef836b16df90533b5c8495ebe7928e22e750": {
-        "title": "你抢不到的RTX5090，还在厨子、电工和铁匠手里？",
-        "link": "https://www.tmtpost.com/7883151.html",
-        "published_date": "Wed, 18 Feb 2026 08:25:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.397862"
-      },
       "8a49c662d3b90b1a44eb298414a7843a9bcc8bd38bf9c33d73d0410a9b143ef1": {
         "title": "性能持平价格大降80%，Anthropic新模型杀疯了",
         "link": "https://www.tmtpost.com/7883736.html",
@@ -2701,21 +2671,39 @@
         "link": "https://www.tmtpost.com/7922209.html",
         "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
         "first_seen": "2026-03-20T08:43:47.211963"
+      },
+      "01b68de233aacef8bb0c268487df64ea2fb60f5d92ad442ff67ffe8cfd17e4a8": {
+        "title": "阿里惊魂：电商触顶，AI成“全村的希望”",
+        "link": "https://www.tmtpost.com/7922891.html",
+        "published_date": "Fri, 20 Mar 2026 19:24:00 GMT",
+        "first_seen": "2026-03-20T23:31:46.247842"
+      },
+      "fde3e0fadbc06d1813c229cd9056aef050c3c01f8abb957436bc2e2a50efbbe2": {
+        "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
+        "link": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Mar 2026 18:11:00 GMT",
+        "first_seen": "2026-03-20T23:31:46.247852"
+      },
+      "253cd1a588497b721471f55f36d2cf84eeedf05733120726dda6eb304214cc85": {
+        "title": "20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库",
+        "link": "https://www.tmtpost.com/7921666.html",
+        "published_date": "Fri, 20 Mar 2026 21:42:00 GMT",
+        "first_seen": "2026-03-20T23:31:46.247854"
+      },
+      "9129deb423cb861bebca8c60ee19244cab86a7d3d1c8702dc067917c997656cb": {
+        "title": "为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营",
+        "link": "https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-20T23:31:46.247856"
+      },
+      "63c5e0b4f9cc575b1101d6cd39dd80c826e64313794e66fc3d1569ecc1f37bf4": {
+        "title": "半导体设备的下一个金矿，藏在封装厂里",
+        "link": "https://www.tmtpost.com/7922915.html",
+        "published_date": "Fri, 20 Mar 2026 19:24:00 GMT",
+        "first_seen": "2026-03-20T23:31:46.247858"
       }
     },
     "Finance": {
-      "9f74ffdad5a73abee755b967145853f1a3038cea16530af09cd066ab78c2369f": {
-        "title": "UK inflation falls sharply to 3% in January",
-        "link": "https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9",
-        "published_date": "Wed, 18 Feb 2026 08:06:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.428651"
-      },
-      "0055c878afaa1622518d92fb39feb46bc62589d557d9b1b963096aa6f1b719b8": {
-        "title": "Lagarde to leave ECB before the end of 8-year term",
-        "link": "https://www.ft.com/content/30bcb221-700e-4643-9ed5-dd9432c5be7c",
-        "published_date": "Wed, 18 Feb 2026 07:54:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.428657"
-      },
       "fa5f48ce8df361cd345962f82c0ee0204d217460c27ba7463f43a2e229d1d288": {
         "title": "Fed officials warn progress towards inflation goal will be ‘uneven’",
         "link": "https://www.ft.com/content/5231da49-e62a-4dfa-bc5a-77fcf0596aa1",
@@ -4599,21 +4587,39 @@
         "link": "https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6",
         "published_date": "Fri, 20 Mar 2026 07:34:00 GMT",
         "first_seen": "2026-03-20T08:43:47.246460"
+      },
+      "bbde2679f2786078f895aa06d5960051f0021db081936bd1b21169dcb7b684a9": {
+        "title": "Iran war is the greatest threat to global energy ‘in history’, warns IEA",
+        "link": "https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320",
+        "published_date": "Fri, 20 Mar 2026 12:38:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.137383"
+      },
+      "6b26538029e91e097085162f950a994241c4f55167381120005fcea95362c55b": {
+        "title": "Goldman’s chief warns private credit risks show cycle ‘has not been repealed’",
+        "link": "https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900",
+        "published_date": "Fri, 20 Mar 2026 14:05:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.137390"
+      },
+      "e22ed5025c8b6cdfc9e4e0e0cc52e32c570c98d98cb94ca8fdbb5016b6cdfd7c": {
+        "title": "UK borrowing costs reach highest level since 2008 as economic hit from war mounts",
+        "link": "https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf",
+        "published_date": "Fri, 20 Mar 2026 18:20:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.137392"
+      },
+      "f5a4775b04ef5db9383f6caef94a8acd7070e8f31fbfc26071ab22420a369e01": {
+        "title": "The first major stock index just fell into correction territory. Will others follow?",
+        "link": "https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Mar 2026 21:18:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.137394"
+      },
+      "87ab45644154de49c7c6c08ffb6e025aac0bb38e5ea8d1ba15c8c4e38cf046a1": {
+        "title": "Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.",
+        "link": "https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Mar 2026 21:36:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.137396"
       }
     },
     "Ai": {
-      "cedf6a75312eb7fa5b8750337eef3f622894c818e338a000014c22cea5da5337": {
-        "title": "Claude最新Sonnet：Opus级智能，性价比王炸，OpenClaw天选API",
-        "link": "https://www.qbitai.com/2026/02/381081.html",
-        "published_date": "Wed, 18 Feb 2026 08:16:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.571851"
-      },
-      "9142fae5e600bf37580b5e98c7534ba04f27998f927f77304cf51e7ec5b37811": {
-        "title": "马斯克xAI新模型上线，通过“50米外洗车店”测试，回答偏好高度贴合老马本人",
-        "link": "https://www.qbitai.com/2026/02/381037.html",
-        "published_date": "Wed, 18 Feb 2026 08:10:00 GMT",
-        "first_seen": "2026-02-18T08:50:01.571859"
-      },
       "f675c7ca02e061c0adf5520adf95a7b540ac1c86c2f4e21c71e56a451fd9fe39": {
         "title": "Claude最强Sonnet模型4.6来了，百万token上下文",
         "link": "https://www.jiqizhixin.com/articles/2026-02-18-4",
@@ -5915,13 +5921,19 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-20/",
         "published_date": "Fri, 20 Mar 2026 09:47:00 GMT",
         "first_seen": "2026-03-20T08:43:47.393703"
+      },
+      "71656c03aa6a50ebc72240dcc69565d43a84eb3d022ada3151d6fed51497a586": {
+        "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
+        "link": "https://www.qbitai.com/2026/03/390320.html",
+        "published_date": "Fri, 20 Mar 2026 09:49:00 GMT",
+        "first_seen": "2026-03-20T23:32:04.283766"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-20T08:43:47.211966",
-    "Finance": "2026-03-20T08:43:47.246462",
-    "Ai": "2026-03-20T08:43:47.393706"
+    "Technology": "2026-03-20T23:31:46.247860",
+    "Finance": "2026-03-20T23:32:04.137398",
+    "Ai": "2026-03-20T23:32:04.283774"
   }
 }

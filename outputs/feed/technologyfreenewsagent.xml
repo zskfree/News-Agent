@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 08:43:47 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 23:31:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战</title>
-      <link>https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里惊魂：电商触顶，AI成“全村的希望”</title>
+      <link>https://www.tmtpost.com/7922891.html</link>
+      <description>&lt;![CDATA[阿里惊魂：电商触顶，AI成“全村的希望”]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7922891.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通</title>
-      <link>https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI推出“超级应用”，开抢Anthropic的企业客户</title>
+      <link>https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI推出“超级应用”，开抢Anthropic的企业客户]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全世界都以为它是DeepSeek V4，结果却是小米交的“作业”</title>
-      <link>https://www.tmtpost.com/7921866.html</link>
-      <description>&lt;![CDATA[全世界都以为它是DeepSeek V4，结果却是小米交的“作业”]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7921866.html</guid>
+      <title>20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库</title>
+      <link>https://www.tmtpost.com/7921666.html</link>
+      <description>&lt;![CDATA[20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 21:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7921666.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯云实现规模盈利，AI开始赚钱了？｜看财报</title>
-      <link>https://www.tmtpost.com/7922270.html</link>
-      <description>&lt;![CDATA[腾讯云实现规模盈利，AI开始赚钱了？｜看财报]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7922270.html</guid>
+      <title>为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营</title>
+      <link>https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>争做 “英伟达平替”，地平线悬了吗？</title>
-      <link>https://www.tmtpost.com/7922209.html</link>
-      <description>&lt;![CDATA[争做 “英伟达平替”，地平线悬了吗？]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7922209.html</guid>
+      <title>半导体设备的下一个金矿，藏在封装厂里</title>
+      <link>https://www.tmtpost.com/7922915.html</link>
+      <description>&lt;![CDATA[半导体设备的下一个金矿，藏在封装厂里]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7922915.html</guid>
       <category>Technology</category>
     </item>
   </channel>

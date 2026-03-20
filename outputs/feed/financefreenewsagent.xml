@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 08:43:47 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 23:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 23:32:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Unilever in talks to sell food division to spice and sauce maker McCormick</title>
-      <link>https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e</link>
-      <description>&lt;![CDATA[Unilever in talks to sell food division to spice and sauce maker McCormick]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e</guid>
+      <title>Iran war is the greatest threat to global energy ‘in history’, warns IEA</title>
+      <link>https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320</link>
+      <description>&lt;![CDATA[Iran war is the greatest threat to global energy ‘in history’, warns IEA]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 12:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>UK borrowing higher than expected at £14.3bn in February</title>
-      <link>https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6</link>
-      <description>&lt;![CDATA[UK borrowing higher than expected at £14.3bn in February]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6</guid>
+      <title>Goldman’s chief warns private credit risks show cycle ‘has not been repealed’</title>
+      <link>https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900</link>
+      <description>&lt;![CDATA[Goldman’s chief warns private credit risks show cycle ‘has not been repealed’]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK borrowing costs reach highest level since 2008 as economic hit from war mounts</title>
+      <link>https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf</link>
+      <description>&lt;![CDATA[UK borrowing costs reach highest level since 2008 as economic hit from war mounts]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The first major stock index just fell into correction territory. Will others follow?</title>
+      <link>https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The first major stock index just fell into correction territory. Will others follow?]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 21:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.</title>
+      <link>https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 21:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
