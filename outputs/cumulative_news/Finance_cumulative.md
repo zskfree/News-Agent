@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 05:45
+**最后更新时间**: 2026-03-21 08:36
+
+---
+
+## 🆕 最新更新 (2026-03-21 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU member states urged to lower gas storage targets due to Iran war](https://www.ft.com/content/f88c6a42-7a83-4fd1-8231-5bc7befa5fca)
+**发布时间**: 2026-03-21 05:00
+
+#### [HMRC ‘unlikely to be lenient’ with tax exiles fleeing Dubai, advisers warn](https://www.ft.com/content/697d389e-a816-4763-8006-28a3d4bb252b)
+**发布时间**: 2026-03-21 05:00
+
+#### [Iran lets grain ships through Hormuz to shore up food supply](https://www.ft.com/content/ff30a226-33cc-45fd-9614-1bf34767732d)
+**发布时间**: 2026-03-21 05:00
+
+#### [Iran launches 10mn rial banknote as war triggers dash for cash](https://www.ft.com/content/f84e45ec-8be0-4a7d-a0fb-1fc2faa621bd)
+**发布时间**: 2026-03-21 05:00
+
+#### [Taiwan concerned by depletion of US missile stocks during Iran war](https://www.ft.com/content/b52df43d-9eed-477c-9c01-d19ca2233cbd)
+**发布时间**: 2026-03-21 01:00
 
 ---
 

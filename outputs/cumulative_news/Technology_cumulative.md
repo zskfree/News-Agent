@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 05:45
+**最后更新时间**: 2026-03-21 08:36
+
+---
+
+## 🆕 最新更新 (2026-03-21 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [为什么大厂必须抢郭达雅？](https://www.tmtpost.com/7923709.html)
+**发布时间**: 2026-03-21 16:14
+
+#### [HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇](https://www.tmtpost.com/7923764.html)
+**发布时间**: 2026-03-21 15:44
+
+#### [Rabbit又行了？油管大V改口，将发第二款AI硬件](https://www.tmtpost.com/7923602.html)
+**发布时间**: 2026-03-21 15:33
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个爆火又被删掉的 GitHub 项目，告诉你 AI 会影响哪些工作？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532307&idx=1&sn=677d709b52fc857c27c803483094f53a)
+**发布时间**: 2026-03-21 15:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蔚小理纷纷盈利之后，战事升级](http://www.huxiu.com/article/4843969.html?f=wangzhan)
+**发布时间**: 2026-03-21 10:33
+
+#### [不止霍尔木兹海峡，这些知名海峡也靠“过路费”爽挣](http://www.huxiu.com/article/4843907.html?f=wangzhan)
+**发布时间**: 2026-03-21 10:00
 
 ---
 

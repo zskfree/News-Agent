@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4f3f7df080c509318a37567682dbe1c14653d48da7300ad4ff39abd01891c793": {
-        "title": "1850亿豪赌硬件生态！Google I/O 2026定档，Gemini 可穿戴将有新突破？",
-        "link": "https://www.tmtpost.com/7884066.html",
-        "published_date": "Thu, 19 Feb 2026 10:04:00 GMT",
-        "first_seen": "2026-02-19T06:01:02.276580"
-      },
-      "c64f06f11b6d65661442929d666418b5fde10bc9e2ed2a11af574f9d786dcc8c": {
-        "title": "Seedance2.0，AI视频的DeepSeek时刻",
-        "link": "https://www.tmtpost.com/7884170.html",
-        "published_date": "Thu, 19 Feb 2026 10:56:00 GMT",
-        "first_seen": "2026-02-19T06:01:02.276590"
-      },
-      "74fb5f9b48201fa4ad52acb672e3ee0e87df7bd7e3c935c3d4f0de81c160f2c5": {
-        "title": "AI视频春节大进阶：豆包to C，可灵 to B",
-        "link": "https://www.tmtpost.com/7884239.html",
-        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
-        "first_seen": "2026-02-19T06:01:02.276593"
-      },
-      "00ba728a3ce66936514b81241e66bce497d94f532849eb73a706c3e13e4b5930": {
-        "title": "春晚杀疯后，谁能再造大模型时代的超级国民应用？",
-        "link": "https://www.tmtpost.com/7884183.html",
-        "published_date": "Thu, 19 Feb 2026 10:52:00 GMT",
-        "first_seen": "2026-02-19T06:01:02.276595"
-      },
-      "4b9dc75025cc11f9b17447f37c6b0f4c3bf6fb662b0affbaad447d16cd068fe8": {
-        "title": "寒武纪的“榜一大哥”，字节跳动不想当了",
-        "link": "https://www.tmtpost.com/7884056.html",
-        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
-        "first_seen": "2026-02-19T06:01:02.276597"
-      },
       "79ced87d2db518bf9daf40cc834783665a91508611560866ebddbe9cd3b34696": {
         "title": "新能源汽车出海2.0：从“卖车”到“建生态”",
         "link": "https://www.tmtpost.com/7884620.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7922940.html",
         "published_date": "Sat, 21 Mar 2026 10:23:00 GMT",
         "first_seen": "2026-03-21T05:45:47.488622"
+      },
+      "e985d754199337adca65a97808a52c6ac5b235b586bb6cd51e87f7e6e74996e3": {
+        "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
+        "link": "https://www.tmtpost.com/7923764.html",
+        "published_date": "Sat, 21 Mar 2026 15:44:00 GMT",
+        "first_seen": "2026-03-21T08:36:47.443233"
+      },
+      "fbfe2730622a4fe2f8988e84a20a9fc772e19b700ed84f29afd2b41aaf51542f": {
+        "title": "这个爆火又被删掉的 GitHub 项目，告诉你 AI 会影响哪些工作？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532307&idx=1&sn=677d709b52fc857c27c803483094f53a",
+        "published_date": "Sat, 21 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-21T08:36:47.443243"
+      },
+      "061c77408745fe1f227198d8a4145fece3f8c2617e1e852fc55d8ac017091fbb": {
+        "title": "宇树科技IPO终于来了，募资42亿，王兴兴控制近7成表决权",
+        "link": "https://www.tmtpost.com/7923180.html",
+        "published_date": "Sat, 21 Mar 2026 10:36:00 GMT",
+        "first_seen": "2026-03-21T08:36:47.443247"
+      },
+      "84a4d55c0a0b94f9b37dd1ab722cbbc3ec27c257c793e04c7db358cbccb9e963": {
+        "title": "蔚小理纷纷盈利之后，战事升级",
+        "link": "http://www.huxiu.com/article/4843969.html?f=wangzhan",
+        "published_date": "Sat, 21 Mar 2026 10:33:00 GMT",
+        "first_seen": "2026-03-21T08:36:47.443249"
+      },
+      "aa391daa7c726848082b65183b3a717a83514d13904793c4bc880951733b63c2": {
+        "title": "Rabbit又行了？油管大V改口，将发第二款AI硬件",
+        "link": "https://www.tmtpost.com/7923602.html",
+        "published_date": "Sat, 21 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-21T08:36:47.443251"
       }
     },
     "Finance": {
-      "f865565337b421995836100ee92a860ec6de2b47f1d6df74c159ab70d0cb9348": {
-        "title": "Christine Lagarde’s move to run World Economic Forum not a ‘foregone conclusion’",
-        "link": "https://www.ft.com/content/742f048e-c633-4d2d-80c9-84cf0cca26de",
-        "published_date": "Thu, 19 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.321418"
-      },
-      "c02a7eeea7bcc8676b675495446a885a964fe9ebe88337b95b64c49f124e6f7c": {
-        "title": "Blue Owl permanently halts redemptions at fund aimed at retail investors",
-        "link": "https://www.ft.com/content/b2f299f6-2a82-4a43-bcbf-86cac3937550",
-        "published_date": "Thu, 19 Feb 2026 01:29:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.321425"
-      },
-      "41512135c93c98d291af1e0155cc0448566c54fd129cab2ba9bcb54021161373": {
-        "title": "The crypto-loving billionaire and the $400mn ‘perfect fraud’",
-        "link": "https://www.ft.com/content/56c21cb3-5985-4921-b64d-2344187ae94b",
-        "published_date": "Thu, 19 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.321427"
-      },
-      "dda3bee31e6bab13d15de32ce7e3a994c87a56a04c6b1a7dc50839267cbdd57a": {
-        "title": "What oil hitting $70 a barrel would signal about rising U.S.-Iran tensions",
-        "link": "https://www.marketwatch.com/story/what-oil-hitting-70-a-barrel-would-signal-about-iran-and-u-s-tensions-cc026155?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Feb 2026 03:48:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.321429"
-      },
-      "13b4c7899433002b5fb0e6d65b4eb898bbee313679e7d8121f162b86246d2ef5": {
-        "title": "Who’s afraid of the big bad trade deficit?",
-        "link": "https://www.ft.com/content/af9b839a-ee4b-480c-9a03-d5dc7694c1e7",
-        "published_date": "Thu, 19 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.321430"
-      },
       "577d5a2a3f84d3b68ae98bdcaa797eb2fa3d0ad9611890155e03e1519248467e": {
         "title": "South Korea’s ex-president escapes death sentence in martial law trial",
         "link": "https://www.ft.com/content/ef281426-e417-4675-9f5c-6d8bdaabb987",
@@ -4620,18 +4590,6 @@
       }
     },
     "Ai": {
-      "2d82d055b9361a352a9b65a8b12aef089a40d7bcc7d14fd130687c073e82aac4": {
-        "title": "春晚之后，AI和机器人为啥都去了一个地方？",
-        "link": "https://www.qbitai.com/2026/02/381301.html",
-        "published_date": "Thu, 19 Feb 2026 04:44:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.443338"
-      },
-      "5d26566722035e4128a6662fda55d1e7aa137d63f737cec1a2b20f489603c26c": {
-        "title": "2026-02-19日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-19/",
-        "published_date": "Thu, 19 Feb 2026 07:23:00 GMT",
-        "first_seen": "2026-02-19T06:01:16.443347"
-      },
       "6a687e52220ec5546bf45d5fc5e915dc85080c374782ab4c648b07a0cfad8139": {
         "title": "太初元碁：40+大模型即发即适配，上线即可用，国产算力高效落地",
         "link": "https://www.qbitai.com/2026/02/381415.html",
@@ -5914,7 +5872,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-21T05:45:47.488624",
+    "Technology": "2026-03-21T08:36:47.443253",
     "Finance": "2026-03-21T05:45:47.527386",
     "Ai": "2026-03-21T05:45:47.688968"
   }
