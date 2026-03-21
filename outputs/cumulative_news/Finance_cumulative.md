@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-20 23:31
+**最后更新时间**: 2026-03-21 05:45
+
+---
+
+## 🆕 最新更新 (2026-03-21 05:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran war raises the risk of a bond market shock](https://www.ft.com/content/46962f7d-5ee9-4813-a53c-2961a82bf82d)
+**发布时间**: 2026-03-21 05:00
+
+#### [Energy crisis upends Rachel Reeves’ growth plan amid hints of recession](https://www.ft.com/content/b018297a-9736-4a07-9b3c-0c06abdfbbe4)
+**发布时间**: 2026-03-21 05:00
+
+#### [The new old world](https://www.ft.com/content/a42eab06-4e4a-4a7d-8b96-51b832da379b)
+**发布时间**: 2026-03-21 05:00
+
+#### [History is tragically repeating itself in Lebanon](https://www.ft.com/content/4ddb419b-0f60-425d-8046-e85d03b2cda7)
+**发布时间**: 2026-03-21 05:00
+
+#### [Trump considers ‘winding down’ US military operations against Iran](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0)
+**发布时间**: 2026-03-20 23:40
+
+#### [Musk defrauded Twitter investors during buyout, jury finds](https://www.ft.com/content/88161509-efe4-4b7b-8465-d66645b445d0)
+**发布时间**: 2026-03-20 23:16
 
 ---
 
