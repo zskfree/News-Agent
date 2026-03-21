@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 08:36
+**最后更新时间**: 2026-03-21 23:27
+
+---
+
+## 🆕 最新更新 (2026-03-21 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?](https://www.marketwatch.com/story/im-completely-gobsmacked-my-elderly-brother-has-a-reverse-mortgage-but-has-run-out-of-money-do-i-help-2185859c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 20:46
+
+#### [The stock market actually doesn’t care as much about oil prices as you think](https://www.marketwatch.com/story/the-stock-market-actually-doesnt-care-as-much-about-oil-prices-as-you-think-ead59ede?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:48
+
+#### [Annuities in 401(k) plans aren’t all they’re cracked up to be](https://www.marketwatch.com/story/annuities-in-401-k-plans-arent-all-theyre-cracked-up-to-be-715bc50b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:43
+
+#### [My wife and I made a big blunder on our Social Security benefits. Is it too late to fix it?](https://www.marketwatch.com/story/my-wife-and-i-made-big-blunders-on-our-social-security-benefits-is-it-too-late-to-fix-it-5584996e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:30
+
+#### [The IRS has changed the tax rules for 2026 — here’s how to keep more money and not overpay](https://www.marketwatch.com/story/the-irs-has-changed-the-tax-rules-for-2026-heres-how-to-keep-more-money-and-not-overpay-da5a97bf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:14
+
+#### [You could be killing your retirement by neglecting your IRA](https://www.marketwatch.com/story/you-could-be-killing-your-retirement-by-neglecting-your-ira-58e28946?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:03
+
+#### [Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.](https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 17:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Jay Powell extols ‘independence and integrity’ after latest attacks by Trump](https://www.ft.com/content/2bbf78eb-3e3f-4dbe-a404-2cde327e043d)
+**发布时间**: 2026-03-21 17:31
+
+#### [Israel suffers ‘very difficult’ night as missile strikes injure 120](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0)
+**发布时间**: 2026-03-21 15:05
+
+#### [How the FTSE grew comfortable with bumper pay for bosses](https://www.ft.com/content/0175aacf-864d-4e29-ab9c-dc555b39c759)
+**发布时间**: 2026-03-21 12:00
+
+#### [US fertiliser bosses cash in as Iran war boosts shares](https://www.ft.com/content/3dedd998-228e-4a24-b813-df324b4a25fa)
+**发布时间**: 2026-03-21 11:00
+
+#### [Canada’s oil producers in line for C$90bn windfall from Iran war](https://www.ft.com/content/81fa6ad2-7971-4177-9230-5cdb96e91004)
+**发布时间**: 2026-03-21 11:00
+
+#### [The Israeli border towns driving Netanyahu’s hard line on Lebanon](https://www.ft.com/content/05f00eb4-020c-407e-8f03-a58bf639d91e)
+**发布时间**: 2026-03-21 05:00
 
 ---
 
