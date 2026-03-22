@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "865a7b7029b0097025247fda5b10ec8bc89e142e3a532a20099386744d72d2bd": {
-        "title": "2026第一个爆火的目的地出现了",
-        "link": "https://www.tmtpost.com/7884787.html",
-        "published_date": "Thu, 19 Feb 2026 19:46:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.139126"
-      },
-      "4ff81cb947a1e7e59f4294b50e82d434ff1a579a7683894445dd416ea18dd099": {
-        "title": "“软黄金”火了！年轻人狂囤，有商家爆卖近4000万",
-        "link": "https://www.tmtpost.com/7884646.html",
-        "published_date": "Thu, 19 Feb 2026 15:27:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.139133"
-      },
-      "551428ee7e4483943ac04b1aa22c563b599bf77b141060283fc33e571fd1cc68": {
-        "title": "洗地机站上春晚C位，为什么是追觅？",
-        "link": "https://www.tmtpost.com/7881004.html",
-        "published_date": "Thu, 19 Feb 2026 14:23:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.139135"
-      },
-      "64758347df81541d569158c94ffade29dffd793c94e36b3e0c391210c5dc335e": {
-        "title": "新玩意 236｜少数派的编辑们最近买了啥？",
-        "link": "https://sspai.com/post/106451",
-        "published_date": "Thu, 19 Feb 2026 13:33:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.139136"
-      },
-      "3125c8de29b7aa20fe576e7981623114f6ce76f89ffd98e4d58a6fe1ab90b233": {
-        "title": "春节祈福，AI算命火了",
-        "link": "https://www.tmtpost.com/7884469.html",
-        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.139138"
-      },
-      "96b1ac393c42e05518427585cf793c1e3495f9a8f63dc8ed362426b3e2ff799d": {
-        "title": "禁⽤Claude、强推自研：亚马逊打响AI生态主权战",
-        "link": "https://www.tmtpost.com/7885379.html",
-        "published_date": "Fri, 20 Feb 2026 09:45:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105844"
-      },
-      "c2667df02aec227abd37368e5bab72ca3f60c5defc6f6af2a0f6a74b52b730a0": {
-        "title": "字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键",
-        "link": "https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 11:58:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105851"
-      },
-      "7b8335bdc661bdbe7648cb1bccca9cc9b78fa905d8f0f9bb4e9a8fa0aa1f9041": {
-        "title": "代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！",
-        "link": "https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 09:19:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105853"
-      },
-      "10cf9b24ebadb975d60993282aff5f9b94942c17d19235a6347fa3a24a544fcf": {
-        "title": "别被「百模大战」骗了",
-        "link": "https://www.tmtpost.com/7885106.html",
-        "published_date": "Fri, 20 Feb 2026 10:30:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105855"
-      },
-      "c23acc2288fb1f1d366aee5b3195f0ed1e90f66055d317ac5dd3e436dec3e9cd": {
-        "title": "“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐",
-        "link": "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 12:01:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105857"
-      },
       "bc41dce8d10cb1c597cc266025479b80697b41dc8af9b59ab0945fe3329dc818": {
         "title": "Firestore添加了管道操作，提供了超过100个新的查询功能",
         "link": "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article",
@@ -2701,69 +2641,39 @@
         "link": "https://www.tmtpost.com/7923387.html",
         "published_date": "Sat, 21 Mar 2026 10:21:00 GMT",
         "first_seen": "2026-03-21T23:28:05.479535"
+      },
+      "57b1eda5033da34c9dbbf50025d8ce36b035e758c216e289ede028af4d7a2a6c": {
+        "title": "【数智周报】黄仁勋豪言2027年AI芯片收入剑指1万亿美元；Cursor承认新模型基于Kimi训练并致歉；“木头姐”：人工智能已经提高了劳动生产率",
+        "link": "https://www.tmtpost.com/7924052.html",
+        "published_date": "Sun, 22 Mar 2026 11:52:00 GMT",
+        "first_seen": "2026-03-22T05:57:43.846540"
+      },
+      "b3e97e14da547206bdc6376f2e8c3c9176cdb7d63d44371564379e1b772ded7b": {
+        "title": "具身智能的故事不好讲了",
+        "link": "https://www.tmtpost.com/7924157.html",
+        "published_date": "Sun, 22 Mar 2026 10:41:00 GMT",
+        "first_seen": "2026-03-22T05:57:43.846551"
+      },
+      "903d8af415364ab02391533391da257a7ea7c10973cdfa5568a691df4e1031a6": {
+        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
+        "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 22 Mar 2026 10:02:00 GMT",
+        "first_seen": "2026-03-22T05:57:43.846554"
+      },
+      "cf5f72ae5f8fb15517ccb10f1ad7739e7be8dd60065cf0ad4c8d366b37fdacfd": {
+        "title": "说句实话，我挺关心Kimi接下来要走的路",
+        "link": "https://www.tmtpost.com/7924038.html",
+        "published_date": "Sun, 22 Mar 2026 10:41:00 GMT",
+        "first_seen": "2026-03-22T05:57:43.846557"
+      },
+      "3c2e0d1b019966866099277cc78d67fd0555ba9896d238b96885f21ab5a051f3": {
+        "title": "宇树的野望，等待兑现",
+        "link": "https://www.tmtpost.com/7924002.html",
+        "published_date": "Sun, 22 Mar 2026 09:58:00 GMT",
+        "first_seen": "2026-03-22T05:57:43.846559"
       }
     },
     "Finance": {
-      "6d5f4187028913ca8756fa9bb14ffc8fc1a82678893af30444aed6562453d59e": {
-        "title": "Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash",
-        "link": "https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Feb 2026 21:51:00 GMT",
-        "first_seen": "2026-02-19T23:32:23.504914"
-      },
-      "bc81fa6c6d5dea4b46b0ec30e3974ea0f8da605a5ba1b15f54133cab9725c8ff": {
-        "title": "Bank of America commits $25bn to private credit lending",
-        "link": "https://www.ft.com/content/faedf9f9-6e73-457c-b073-bcd46ed780c7",
-        "published_date": "Thu, 19 Feb 2026 22:06:00 GMT",
-        "first_seen": "2026-02-19T23:32:23.504925"
-      },
-      "3d0444cecaaf61d21f41a87a7af63584cba0e86d5c897e206fc09f99a9e90657": {
-        "title": "Private credit stocks slide after Blue Owl halts redemptions at fund",
-        "link": "https://www.ft.com/content/cdca18df-473c-4c66-a6db-d9be32bf9d88",
-        "published_date": "Thu, 19 Feb 2026 21:07:00 GMT",
-        "first_seen": "2026-02-19T23:32:23.504928"
-      },
-      "85f14d94dc4146940882616d05c39e66b616ba2ade641cb1d2e8db35bdacde1f": {
-        "title": "Why your portfolio may face one last rate-hike surprise before May",
-        "link": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Feb 2026 22:48:00 GMT",
-        "first_seen": "2026-02-19T23:32:23.504930"
-      },
-      "025cebb134a823d3a5e3659139e3d5c1262351a40a09d21aa0011f8e87a6a7a3": {
-        "title": "Trump’s tariffs may be struck down — but the hit to small business is just beginning",
-        "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Feb 2026 21:50:00 GMT",
-        "first_seen": "2026-02-19T23:32:23.504933"
-      },
-      "093424bd343cdd10fe8609e66a1d4eda7218cb570a4fa6ad1396878207941de0": {
-        "title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
-        "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-        "published_date": "Fri, 20 Feb 2026 00:14:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173575"
-      },
-      "cb20e37652a767a32611823cdf94a124f65b69e657a72fc62d1c5bb7e6693445": {
-        "title": "Reasons to worry about America’s investment position with the rest of the world",
-        "link": "https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173584"
-      },
-      "bd11cad033bbba2d165371fa9b1d6f097e04df8f18ed7f8b5b99477c99588792": {
-        "title": "Investors pour record sums into European stocks",
-        "link": "https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173587"
-      },
-      "4fa5f0bac0d74f2f86b26f7a5639288075efb8f7ff0b0f20f24a646b8aeae38a": {
-        "title": "Dear ChatGPT, please construct me an optimal portfolio",
-        "link": "https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173589"
-      },
-      "adea0de813ae88801f20c119242868e8051951ae5bc0f17112ed0d53987d390a": {
-        "title": "Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo",
-        "link": "https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173591"
-      },
       "b1c388bf3171ad1bf0ec7fd362534ecc91ddafeba896eaffde1bf9a3680684ff": {
         "title": "UK swings to record £30.4bn budget surplus in January",
         "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
@@ -4611,51 +4521,39 @@
         "link": "https://www.ft.com/content/3dedd998-228e-4a24-b813-df324b4a25fa",
         "published_date": "Sat, 21 Mar 2026 11:00:00 GMT",
         "first_seen": "2026-03-21T23:28:21.524189"
+      },
+      "71b65fc755a0529d87a2618592038aefd5108704441a61cad202b4fde55d4aba": {
+        "title": "Trump sets 48-hour deadline for Iran to open Strait of Hormuz",
+        "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
+        "published_date": "Sun, 22 Mar 2026 00:10:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.690505"
+      },
+      "e24c0634df35dec6685df55cb342d6cfe62364aef34d08433c3e91b6d132a3ce": {
+        "title": "Global carmakers retreat en masse from electric vehicle plans",
+        "link": "https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26",
+        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.690512"
+      },
+      "15cfbdacebe6f4ec6dd5827b9d2a2ca8eb0f49dd501902a1d3d42f163e0b6f8a": {
+        "title": "World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports",
+        "link": "https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f",
+        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.690515"
+      },
+      "2df16fc65759e4b7c189b3db1be6e218be677748514d6b21ed31ba7ff241db27": {
+        "title": "How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’",
+        "link": "https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f",
+        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.690517"
+      },
+      "acc0e2227995ba19c9d95deb782d3056bbdb493848f7203e57c07f9d048932fa": {
+        "title": "Chinese IPOs in US falter amid scrutiny of manipulation schemes",
+        "link": "https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe",
+        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.690518"
       }
     },
     "Ai": {
-      "0e2ec68a18df64b4abd2b886e7efb52ffa6858340d8c11c8fc8a3b5b9a6044ca": {
-        "title": "OpenAI偷偷改使命：不再「造福人类」，安全都删了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-19-2",
-        "published_date": "Thu, 19 Feb 2026 20:30:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.085455"
-      },
-      "cda76dc44c8645979acc5a52ca85f7855fdf49eb6152baadd37098ce8d5b9315": {
-        "title": "Nature 重磅：上海交大人工智能学院×新华医院「梦之队」，如何用 AI 智能体终结罕见病确诊的「百年孤独」？",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-19",
-        "published_date": "Thu, 19 Feb 2026 20:26:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.085462"
-      },
-      "9e78e5c53a53a8b28081f1d9237e976e737ce20ec2ea2eb19c3c8ec52dd95545": {
-        "title": "让AI智能体「记住」失败经验：微软提出Re-TRAC框架，4B性能SOTA，30B超越358B",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-19-4",
-        "published_date": "Thu, 19 Feb 2026 20:57:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.085464"
-      },
-      "a1681f919176a67f9ff354bb64bb31e804f418be64206808f139a8831a9640a8": {
-        "title": "ICLR 2026 | 数据缺少标注，RL还能稳定诱导模型推理吗？Co-rewarding提供自监督RL学习方案！",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-19-3",
-        "published_date": "Thu, 19 Feb 2026 20:48:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.085466"
-      },
-      "40d9555362cbd4660e7dcf0bc7aed353d28a095ff0fcd7e70328d310c972af81": {
-        "title": "从舞台秀到真干活，北京卫视春晚演绎机器人走向日常好用",
-        "link": "https://www.qbitai.com/2026/02/381417.html",
-        "published_date": "Thu, 19 Feb 2026 09:58:00 GMT",
-        "first_seen": "2026-02-19T23:32:36.085468"
-      },
-      "01d88574339add0915cf6bd0b55b0ec6b406d7488269308e8d9a2c6c22333297": {
-        "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-20",
-        "published_date": "Fri, 20 Feb 2026 08:53:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.335622"
-      },
-      "0fe93b82b8b3c027d0f90762e4d59fee29490b6ce8f1dce3a0efffca4eef3278": {
-        "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
-        "link": "https://www.qbitai.com/2026/02/381460.html",
-        "published_date": "Fri, 20 Feb 2026 01:25:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.335629"
-      },
       "4b607c1d640d95fda9438e8e1b26a8bdf77203672044752fd1e707417987c293": {
         "title": "从AlphaGo到DeepSeek R1，推理的未来将走向何方？",
         "link": "https://www.jiqizhixin.com/articles/2026-02-20-5",
@@ -5897,13 +5795,19 @@
         "link": "https://www.qbitai.com/2026/03/390924.html",
         "published_date": "Sat, 21 Mar 2026 09:39:00 GMT",
         "first_seen": "2026-03-21T23:28:21.682194"
+      },
+      "b8adae6ad71aa3896bc558cd934ef8b3868ee8667fa4de3ee4d61940b48a3608": {
+        "title": "2026-03-22日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-22/",
+        "published_date": "Sun, 22 Mar 2026 09:40:00 GMT",
+        "first_seen": "2026-03-22T05:57:59.842792"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-21T23:28:05.479537",
-    "Finance": "2026-03-21T23:28:21.524192",
-    "Ai": "2026-03-21T23:28:21.682197"
+    "Technology": "2026-03-22T05:57:43.846562",
+    "Finance": "2026-03-22T05:57:59.690521",
+    "Ai": "2026-03-22T05:57:59.842800"
   }
 }

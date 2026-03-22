@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 23:27
+**最后更新时间**: 2026-03-22 05:57
+
+---
+
+## 🆕 最新更新 (2026-03-22 05:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】黄仁勋豪言2027年AI芯片收入剑指1万亿美元；Cursor承认新模型基于Kimi训练并致歉；“木头姐”：人工智能已经提高了劳动生产率](https://www.tmtpost.com/7924052.html)
+**发布时间**: 2026-03-22 11:52
+
+#### [“暴利”修复背后：雾芯科技的“喜与忧”](https://www.tmtpost.com/7924206.html)
+**发布时间**: 2026-03-22 11:21
+
+#### [“杭州六小龙”群核科技，放弃美股三闯港股，发展空间还有多少？](https://www.tmtpost.com/7924100.html)
+**发布时间**: 2026-03-22 11:20
+
+#### [复旦+剑桥联手登Science！首次破解疼痛致抑郁的关键机制，别让疼痛熬成抑郁！](https://www.tmtpost.com/7924129.html)
+**发布时间**: 2026-03-22 11:19
+
+#### [多巴胺经典理论遭遇挑战：一场即将引爆神经科学界的核心争论](https://www.tmtpost.com/7924131.html)
+**发布时间**: 2026-03-22 11:19
+
+#### [飞书的“养虾”生意经](https://www.tmtpost.com/7924005.html)
+**发布时间**: 2026-03-22 10:42
+
+#### [说句实话，我挺关心Kimi接下来要走的路](https://www.tmtpost.com/7924038.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [中国联通财报解读：存量时代，运营商如何“鲜活地活着”？](https://www.tmtpost.com/7924039.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [我看淘宝闪购这一年，和阿里即时零售野心](https://www.tmtpost.com/7924040.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [具身智能的故事不好讲了](https://www.tmtpost.com/7924157.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [赤峰黄金年赚30多亿，百亿遗孀却要“脱手”？](https://www.tmtpost.com/7924053.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [西贝贾国龙，悄悄练新号](https://www.tmtpost.com/7922415.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [就连酸菜鱼也逃不过经济周期](https://www.tmtpost.com/7924162.html)
+**发布时间**: 2026-03-22 10:41
+
+#### [7家看起来有望在财报中交出超预期成绩的公司](https://www.tmtpost.com/7924188.html)
+**发布时间**: 2026-03-22 10:13
+
+#### [沃尔玛、罗斯百货以及其他“防御型”零售股](https://www.tmtpost.com/7924186.html)
+**发布时间**: 2026-03-22 10:13
+
+#### [宇树的野望，等待兑现](https://www.tmtpost.com/7924002.html)
+**发布时间**: 2026-03-22 09:58
+
+#### [淘宝闪购下半场：继续优化UE，加速协同电商](https://www.tmtpost.com/7924082.html)
+**发布时间**: 2026-03-22 09:58
+
+#### [上海如何用F1点燃整座城市](https://www.tmtpost.com/7923985.html)
+**发布时间**: 2026-03-22 09:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京](https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-22 10:02
+
+#### [Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus](https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-22 08:00
 
 ---
 

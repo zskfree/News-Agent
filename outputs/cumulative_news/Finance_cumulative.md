@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-21 23:27
+**最后更新时间**: 2026-03-22 05:57
+
+---
+
+## 🆕 最新更新 (2026-03-22 05:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f)
+**发布时间**: 2026-03-22 05:00
+
+#### [Private jets face $50,000 ‘war risk’ insurance costs to land in Gulf](https://www.ft.com/content/49cfc1af-8a13-49b4-9186-a7af47e376c6)
+**发布时间**: 2026-03-22 05:00
+
+#### [How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’](https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f)
+**发布时间**: 2026-03-22 05:00
+
+#### [Reading Socrates in Silicon Valley](https://www.ft.com/content/f9e57ed6-ad07-491c-830a-88ba92d77add)
+**发布时间**: 2026-03-22 05:00
+
+#### [Spain’s angry young men turn to the radical right](https://www.ft.com/content/7e2fbc9c-19ba-41a7-9e33-d06fb3361c31)
+**发布时间**: 2026-03-22 05:00
+
+#### [Chinese IPOs in US falter amid scrutiny of manipulation schemes](https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe)
+**发布时间**: 2026-03-22 05:00
+
+#### [Global carmakers retreat en masse from electric vehicle plans](https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26)
+**发布时间**: 2026-03-22 05:00
+
+#### [Japan sounds alarm over UK delays to combat aircraft project](https://www.ft.com/content/c3de1d53-4aa8-4e11-87b1-409172bdc3ef)
+**发布时间**: 2026-03-22 05:00
+
+#### [Collapsed mortgage lender MFS was given all-clear in 2024 FCA review](https://www.ft.com/content/327a0a05-5565-462a-83cd-5c68c1f805d9)
+**发布时间**: 2026-03-22 05:00
+
+#### [Trump sets 48-hour deadline for Iran to open Strait of Hormuz](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e)
+**发布时间**: 2026-03-22 00:10
 
 ---
 
