@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Mar 2026 05:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 05:57:59 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2026 08:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 08:39:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-22日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-22/</link>
-      <description>&lt;![CDATA[2026-03-22日刊]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-22/</guid>
+      <title>浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26</title>
+      <link>https://www.qbitai.com/2026/03/391014.html</link>
+      <description>&lt;![CDATA[浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391014.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用</title>
+      <link>https://www.qbitai.com/2026/03/391010.html</link>
+      <description>&lt;![CDATA[阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 07:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391010.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”</title>
+      <link>https://www.qbitai.com/2026/03/390990.html</link>
+      <description>&lt;![CDATA[大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 07:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/390990.html</guid>
       <category>Ai</category>
     </item>
   </channel>

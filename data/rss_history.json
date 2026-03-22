@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7924002.html",
         "published_date": "Sun, 22 Mar 2026 09:58:00 GMT",
         "first_seen": "2026-03-22T05:57:43.846559"
+      },
+      "194d2807d144f4a4f9624e1babf2bddafd27acf19666ee311193d8b0f4018db0": {
+        "title": "AI狂潮冷思考：当模型沦为水电煤，巨头的真正战场在哪？",
+        "link": "https://www.tmtpost.com/7924190.html",
+        "published_date": "Sun, 22 Mar 2026 14:42:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.003072"
+      },
+      "20c06e7c6509e8b0eb05936daa5eee3d1f6252f2b717d1313047cc3cc66898d6": {
+        "title": "宇树科技IPO：当“全球第一”遇上科创板，一场关于机器人商业化的压力测试",
+        "link": "https://www.tmtpost.com/7924277.html",
+        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.003079"
+      },
+      "e64a223c0590319652ddaea00b74849360f96daf13b8d8262c82a55e47e089cb": {
+        "title": "空间智能时代，百亿裸眼3D显示排位战开启",
+        "link": "https://www.tmtpost.com/7924179.html",
+        "published_date": "Sun, 22 Mar 2026 14:27:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.003082"
+      },
+      "7fa2433683345c5cd18b29e5aef15fd57998316ac9170b3e1c7a012cff3bbacc": {
+        "title": "腾讯AI合二为一，姚顺雨第一个大模型混元3.0稳了？",
+        "link": "https://www.tmtpost.com/7924258.html",
+        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.003084"
+      },
+      "f451da4a9c1d8e4892ac46211dd96d80f456012622088a2b4aefd35458709327": {
+        "title": "淘宝闪购下半场：继续优化UE，加速协同电商",
+        "link": "https://www.tmtpost.com/7924082.html",
+        "published_date": "Sun, 22 Mar 2026 09:58:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.003086"
       }
     },
     "Finance": {
@@ -4551,6 +4581,12 @@
         "link": "https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe",
         "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-22T05:57:59.690518"
+      },
+      "babe178c34a4047193693b072829b5606a8de452ee596b5bd8e27a3674230b74": {
+        "title": "China touts itself as ‘harbour of stability’ to global CEOs",
+        "link": "https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1",
+        "published_date": "Sun, 22 Mar 2026 06:23:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.037166"
       }
     },
     "Ai": {
@@ -5801,13 +5837,31 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-22/",
         "published_date": "Sun, 22 Mar 2026 09:40:00 GMT",
         "first_seen": "2026-03-22T05:57:59.842792"
+      },
+      "df02aef32fe0f89b1e6d94f600fa95f005c924f23a8025dffe776a4910602e8b": {
+        "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
+        "link": "https://www.qbitai.com/2026/03/391014.html",
+        "published_date": "Sun, 22 Mar 2026 07:17:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.184560"
+      },
+      "1eaea9180185188ddbc6d658d9a48428fe339c88263e9b24282451049fb6afd0": {
+        "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
+        "link": "https://www.qbitai.com/2026/03/391010.html",
+        "published_date": "Sun, 22 Mar 2026 07:09:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.184567"
+      },
+      "bb4ba4034057391ba9dcdfaf1d19fcba8e897d92dce3e9d2d2b87475f22c3476": {
+        "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
+        "link": "https://www.qbitai.com/2026/03/390990.html",
+        "published_date": "Sun, 22 Mar 2026 07:03:00 GMT",
+        "first_seen": "2026-03-22T08:39:05.184569"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-22T05:57:43.846562",
-    "Finance": "2026-03-22T05:57:59.690521",
-    "Ai": "2026-03-22T05:57:59.842800"
+    "Technology": "2026-03-22T08:39:05.003088",
+    "Finance": "2026-03-22T08:39:05.037172",
+    "Ai": "2026-03-22T08:39:05.184571"
   }
 }

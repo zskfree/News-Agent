@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-22 05:57
+**最后更新时间**: 2026-03-22 08:38
+
+---
+
+## 🆕 最新更新 (2026-03-22 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China touts itself as ‘harbour of stability’ to global CEOs](https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1)
+**发布时间**: 2026-03-22 06:23
+
+#### [Japanese investment in Indian finance hits record as business ties tighten](https://www.ft.com/content/b7e5d802-7832-4aa8-809a-ac752d129d06)
+**发布时间**: 2026-03-22 02:30
 
 ---
 

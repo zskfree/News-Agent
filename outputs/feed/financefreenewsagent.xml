@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Mar 2026 05:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 05:57:59 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2026 08:38:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 08:39:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump sets 48-hour deadline for Iran to open Strait of Hormuz</title>
-      <link>https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e</link>
-      <description>&lt;![CDATA[Trump sets 48-hour deadline for Iran to open Strait of Hormuz]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 00:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Global carmakers retreat en masse from electric vehicle plans</title>
-      <link>https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26</link>
-      <description>&lt;![CDATA[Global carmakers retreat en masse from electric vehicle plans]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports</title>
-      <link>https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f</link>
-      <description>&lt;![CDATA[World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’</title>
-      <link>https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f</link>
-      <description>&lt;![CDATA[How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Chinese IPOs in US falter amid scrutiny of manipulation schemes</title>
-      <link>https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe</link>
-      <description>&lt;![CDATA[Chinese IPOs in US falter amid scrutiny of manipulation schemes]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe</guid>
+      <title>China touts itself as ‘harbour of stability’ to global CEOs</title>
+      <link>https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1</link>
+      <description>&lt;![CDATA[China touts itself as ‘harbour of stability’ to global CEOs]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1</guid>
       <category>Finance</category>
     </item>
   </channel>
