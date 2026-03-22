@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bc41dce8d10cb1c597cc266025479b80697b41dc8af9b59ab0945fe3329dc818": {
-        "title": "Firestore添加了管道操作，提供了超过100个新的查询功能",
-        "link": "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-20T08:43:26.757925"
-      },
-      "def1cf41a21d6e29583473f98392b9251a0a3884a8e8eb1cb66168007626e3b9": {
-        "title": "Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle",
-        "link": "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 16:38:00 GMT",
-        "first_seen": "2026-02-20T08:43:26.757932"
-      },
-      "8f9b1d6203f2f60532e4252628470a2ba02322a6461b74059252e4dd87eb26db": {
-        "title": "从技术秀场到利润战场：哪家机器人企业更有看头？",
-        "link": "https://www.tmtpost.com/7885008.html",
-        "published_date": "Fri, 20 Feb 2026 13:30:00 GMT",
-        "first_seen": "2026-02-20T08:43:26.757934"
-      },
-      "26c27da885f17318ad6f586ef76834d3bb22eed9ae8ad22c28657f16c51afff5": {
-        "title": "推荐 5 个 yyds 的语音 AI 神器，强推第一个。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531518&idx=1&sn=8cd2f2b60570b53f31e3dc5c4af64c7c",
-        "published_date": "Fri, 20 Feb 2026 15:04:00 GMT",
-        "first_seen": "2026-02-20T08:43:26.757936"
-      },
-      "a7a89fc51994d268f2084d03753ea578c08bc96b3b34745619e0e05d50923d7d": {
-        "title": "这只蓝领股票在过去5年里的回报超过了英伟达，它仍然有上涨空间",
-        "link": "https://www.tmtpost.com/7885450.html",
-        "published_date": "Fri, 20 Feb 2026 11:29:00 GMT",
-        "first_seen": "2026-02-20T08:43:26.757937"
-      },
       "f32306b569cc7f6117d4d8b6f0831c2c09c6af425fb62b53bfac078451d77190": {
         "title": "黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？",
         "link": "https://www.tmtpost.com/7881485.html",
@@ -2701,15 +2671,39 @@
         "link": "https://www.tmtpost.com/7924082.html",
         "published_date": "Sun, 22 Mar 2026 09:58:00 GMT",
         "first_seen": "2026-03-22T08:39:05.003086"
+      },
+      "096844a4fefc5f633535a142b2fcd15aedf200fe83d6013035f280491d370797": {
+        "title": "为什么字节难以招架版权纠纷，而OpenAI和Anthropic却能赢？",
+        "link": "https://www.tmtpost.com/7924370.html",
+        "published_date": "Sun, 22 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-22T23:30:51.272375"
+      },
+      "94d1354332dd8aef6958e26cd93b767db85fdfe71bb2f68de3fcd2c75478c05f": {
+        "title": "宇树冲击IPO，王兴兴的“价格屠刀”能否砍出下一个万亿赛道？",
+        "link": "https://www.tmtpost.com/7924419.html",
+        "published_date": "Sun, 22 Mar 2026 19:09:00 GMT",
+        "first_seen": "2026-03-22T23:30:51.272387"
+      },
+      "c8a21c036f7ff435ca889d937f7a025ed8d4a288d122685d5be4278db56b421d": {
+        "title": "AI时代，为什么我们还没等到真正的“超级AI助理”？",
+        "link": "https://www.tmtpost.com/7924357.html",
+        "published_date": "Sun, 22 Mar 2026 19:06:00 GMT",
+        "first_seen": "2026-03-22T23:30:51.272390"
+      },
+      "b91acba35f7e8f99fefbf54df6fea4101254f7c437fb1ad07411498a834f11dd": {
+        "title": "第二代VLA落地之后，小鹏不想只做一家卖车公司",
+        "link": "https://www.tmtpost.com/7924461.html",
+        "published_date": "Sun, 22 Mar 2026 23:21:00 GMT",
+        "first_seen": "2026-03-22T23:30:51.272392"
+      },
+      "ad4f88284b77ba8adeaa13551c52333b2613b3270ad9f8eef4daa80a4d811d8c": {
+        "title": "砸下61亿，绿氢开始跟灰氢“抢饭碗”了",
+        "link": "https://www.tmtpost.com/7924422.html",
+        "published_date": "Sun, 22 Mar 2026 19:05:00 GMT",
+        "first_seen": "2026-03-22T23:30:51.272394"
       }
     },
     "Finance": {
-      "b1c388bf3171ad1bf0ec7fd362534ecc91ddafeba896eaffde1bf9a3680684ff": {
-        "title": "UK swings to record £30.4bn budget surplus in January",
-        "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
-        "published_date": "Fri, 20 Feb 2026 07:56:00 GMT",
-        "first_seen": "2026-02-20T08:43:01.367992"
-      },
       "bae5dae44eb10ac7382c5876b61e1a74f6d0ed5988bb4c0ff53485f67db121cf": {
         "title": "Trump vows to impose 10% global tariff after Supreme Court rules sweeping duties are illegal",
         "link": "https://www.ft.com/content/d00d0663-8716-4323-bda3-2cbfb5b30285",
@@ -4587,6 +4581,36 @@
         "link": "https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1",
         "published_date": "Sun, 22 Mar 2026 06:23:00 GMT",
         "first_seen": "2026-03-22T08:39:05.037166"
+      },
+      "4f8a284c8bd86a7d484e01830083d7d7c18f0147228495602c41d0ba197e8705": {
+        "title": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled",
+        "link": "https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Mar 2026 23:11:00 GMT",
+        "first_seen": "2026-03-22T23:31:06.792645"
+      },
+      "e8871230905a652e43b980db3f459759ed582590e0eb9e7f9ba8d00d0380010c": {
+        "title": "Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.",
+        "link": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
+        "published_date": "Sun, 22 Mar 2026 19:29:00 GMT",
+        "first_seen": "2026-03-22T23:31:06.792652"
+      },
+      "00430745bb573752340e5bd2af0c0159b55edbf6f7db337d1ad7040c6cd57205": {
+        "title": "How the Iran war could derail the AI boom",
+        "link": "https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8",
+        "published_date": "Sun, 22 Mar 2026 12:00:00 GMT",
+        "first_seen": "2026-03-22T23:31:06.792654"
+      },
+      "681b490da3b3311dd47677dbde1d82c4fe9707a215027c30fe5c2d69bf3d08c6": {
+        "title": "Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum",
+        "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
+        "published_date": "Sun, 22 Mar 2026 12:34:00 GMT",
+        "first_seen": "2026-03-22T23:31:06.792656"
+      },
+      "de91adb69c83e2c59adfb8a4d4f53a887ea9807566090950b138f8ccb014669c": {
+        "title": "Starmer adviser calls for temporary UK energy profit cap",
+        "link": "https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c",
+        "published_date": "Sun, 22 Mar 2026 13:42:00 GMT",
+        "first_seen": "2026-03-22T23:31:06.792657"
       }
     },
     "Ai": {
@@ -5860,8 +5884,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-22T08:39:05.003088",
-    "Finance": "2026-03-22T08:39:05.037172",
+    "Technology": "2026-03-22T23:30:51.272397",
+    "Finance": "2026-03-22T23:31:06.792660",
     "Ai": "2026-03-22T08:39:05.184571"
   }
 }

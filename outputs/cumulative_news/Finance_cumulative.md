@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-22 08:38
+**最后更新时间**: 2026-03-22 23:30
+
+---
+
+## 🆕 最新更新 (2026-03-22 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure](https://www.marketwatch.com/story/u-s-stock-futures-sink-as-trump-and-iran-trade-threats-against-civilian-infrastructure-baae06ba?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 23:18
+
+#### [Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled](https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 23:11
+
+#### [Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.](https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 19:29
+
+#### [Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries](https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 19:25
+
+#### [Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement](https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 15:27
+
+#### [I’m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?](https://www.marketwatch.com/story/im-59-my-wife-and-i-bought-a-second-home-for-484-000-at-6-2-interest-will-this-be-a-drain-on-our-retirement-02627377?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 13:34
+
+#### [I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?](https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 12:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Companies face having to declare individuals behind UK political donations](https://www.ft.com/content/93298ddb-3060-486c-8f5f-d48eabe4ab8d)
+**发布时间**: 2026-03-22 20:00
+
+#### [Trump to send immigration enforcement officers to US airports](https://www.ft.com/content/5bb963b7-12a1-497b-b481-a80dcef2a588)
+**发布时间**: 2026-03-22 17:34
+
+#### [Trump pushes Iran war to new phase of escalation](https://www.ft.com/content/2c901f4b-b9c8-4fab-8fe1-6b58cb062957)
+**发布时间**: 2026-03-22 14:23
+
+#### [Starmer adviser calls for temporary UK energy profit cap](https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c)
+**发布时间**: 2026-03-22 13:42
+
+#### [War with Iran has exposed American fragility at sea](https://www.ft.com/content/a492b155-d8c4-4c7d-93ab-6a0d40e74489)
+**发布时间**: 2026-03-22 13:00
+
+#### [Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e)
+**发布时间**: 2026-03-22 12:34
+
+#### [How the Iran war could derail the AI boom](https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8)
+**发布时间**: 2026-03-22 12:00
+
+#### [AI hallucinations haunt users more than job losses](https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5)
+**发布时间**: 2026-03-22 05:00
+
+#### [How AI is reshaping the business of law](https://www.ft.com/content/b2c3e8b6-cc2f-46dc-808f-d237bfacbde8)
+**发布时间**: 2026-03-22 05:00
 
 ---
 

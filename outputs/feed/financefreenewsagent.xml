@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Mar 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 08:39:05 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2026 23:30:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 23:31:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>China touts itself as ‘harbour of stability’ to global CEOs</title>
-      <link>https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1</link>
-      <description>&lt;![CDATA[China touts itself as ‘harbour of stability’ to global CEOs]]&gt;</description>
-      <pubDate>Sun, 22 Mar 2026 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1</guid>
+      <title>Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled</title>
+      <link>https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 23:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.</title>
+      <link>https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How the Iran war could derail the AI boom</title>
+      <link>https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8</link>
+      <description>&lt;![CDATA[How the Iran war could derail the AI boom]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum</title>
+      <link>https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e</link>
+      <description>&lt;![CDATA[Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Starmer adviser calls for temporary UK energy profit cap</title>
+      <link>https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c</link>
+      <description>&lt;![CDATA[Starmer adviser calls for temporary UK energy profit cap]]&gt;</description>
+      <pubDate>Sun, 22 Mar 2026 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c</guid>
       <category>Finance</category>
     </item>
   </channel>
