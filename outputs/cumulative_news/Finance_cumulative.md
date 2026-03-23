@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-22 23:30
+**最后更新时间**: 2026-03-23 06:11
+
+---
+
+## 🆕 最新更新 (2026-03-23 06:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Piles of wheat and canned food stuck in transit as Iran war disrupts aid](https://www.ft.com/content/34e575ef-0803-4bd9-bb00-818fbe13197d)
+**发布时间**: 2026-03-23 05:00
+
+#### [Trump’s Iran playbook was written in the 1980s](https://www.ft.com/content/ee756503-5100-49d2-8b34-8a4a08ac3c9f)
+**发布时间**: 2026-03-23 05:00
+
+#### [Military briefing: the high cost of using fighters to down Iranian drones](https://www.ft.com/content/56e44d7b-4077-4785-87f6-5027a0beca66)
+**发布时间**: 2026-03-23 05:00
+
+#### [America keeps bailing out Trump](https://www.ft.com/content/a6d0083d-ef46-4940-965e-2dfaeecd5bc4)
+**发布时间**: 2026-03-23 05:00
+
+#### [Iran war is a risk to the flow of Gulf funds around the globe](https://www.ft.com/content/bdc2ad8c-d22f-44b5-aec4-14740f810a66)
+**发布时间**: 2026-03-23 05:00
+
+#### [Starmer to bring forward EU rules legislation in King’s Speech](https://www.ft.com/content/b0316ac9-e013-41f8-985d-5394284ff397)
+**发布时间**: 2026-03-23 05:00
+
+#### [Danish PM rides Trump Greenland row into election resurgence](https://www.ft.com/content/a6ca1cd1-b74f-4ed5-a10b-87c95c0f44df)
+**发布时间**: 2026-03-23 05:00
+
+#### [London police chief warns of ‘sustained threat’ from Iranian state plots](https://www.ft.com/content/64501ee1-1e48-4506-9f26-b8836764fb31)
+**发布时间**: 2026-03-23 05:00
+
+#### [Addison Lee boss urges minimum price for London robotaxis](https://www.ft.com/content/aa5d039d-b641-4777-88c2-0f367894fc72)
+**发布时间**: 2026-03-23 05:00
+
+#### [Merz’s reform drive put at risk after vote in western state](https://www.ft.com/content/e813be8e-8f52-4018-a518-8ddd1ec43f43)
+**发布时间**: 2026-03-23 04:42
+
+#### [Stocks tumble as Trump and Iran threaten escalation](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 02:50
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retirees, brace yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement](https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 15:27
 
 ---
 

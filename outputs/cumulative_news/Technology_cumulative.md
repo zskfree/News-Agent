@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-22 23:30
+**最后更新时间**: 2026-03-23 06:11
+
+---
+
+## 🆕 最新更新 (2026-03-23 06:11)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Netflix发现了在现代CPU上扩展容器时的内核级瓶颈](https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-23 14:00
+
+#### [基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流](https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-23 11:00
+
+#### [微软发布MCP C# SDK 1.0版本，全面支持最新的协议规范](https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-23 10:00
+
+#### [Karpathy最新访谈：开源模型落后闭源模型6个月，是AI世界最健康的状态；“龙虾”的成功在于它有“人格”](https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-23 09:29
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“远水”礼来，解不了康龙化成“业绩之困”](https://www.tmtpost.com/7925072.html)
+**发布时间**: 2026-03-23 12:45
+
+#### [部分PE，将面临淘汰风险？](https://www.tmtpost.com/7925044.html)
+**发布时间**: 2026-03-23 12:40
+
+#### [中国手机行业的老四，为什么这么难？](https://www.tmtpost.com/7924841.html)
+**发布时间**: 2026-03-23 12:36
+
+#### [微信正式向“龙虾”开门，但只开了一条缝](https://www.tmtpost.com/7924826.html)
+**发布时间**: 2026-03-23 12:32
+
+#### [永旺超市4家店今同时关闭，日系超市失速？](https://www.tmtpost.com/7925048.html)
+**发布时间**: 2026-03-23 12:32
+
+#### [这些芯片能帮你活到1000岁](https://www.tmtpost.com/7925066.html)
+**发布时间**: 2026-03-23 12:32
+
+#### [1分钱一度电，分布式光伏彻底“变天”了](https://www.tmtpost.com/7924827.html)
+**发布时间**: 2026-03-23 12:26
+
+#### [辉瑞，把未来交给“减肥”](https://www.tmtpost.com/7924883.html)
+**发布时间**: 2026-03-23 12:26
+
+#### [撕开英伟达的算力围城](https://www.tmtpost.com/7925069.html)
+**发布时间**: 2026-03-23 12:18
+
+#### [AI眼镜，又一个折叠屏？](https://www.tmtpost.com/7924996.html)
+**发布时间**: 2026-03-23 12:11
+
+#### [隐藏的投资金矿：酒店的“套房”经济](https://www.tmtpost.com/7924960.html)
+**发布时间**: 2026-03-23 11:51
+
+#### [腾讯盯上创新药](https://www.tmtpost.com/7924872.html)
+**发布时间**: 2026-03-23 11:51
+
+#### [AI 代币 = 第四种薪酬！硅谷正在爆发一场薪酬革命](https://www.tmtpost.com/7924893.html)
+**发布时间**: 2026-03-23 10:38
+
+#### [永辉喊话山姆，“二选一”打到了零售业？](https://www.tmtpost.com/7924773.html)
+**发布时间**: 2026-03-23 09:38
+
+#### [OpenAI的国防合同：70万用户用脚投票，内部先炸了](https://www.tmtpost.com/7924680.html)
+**发布时间**: 2026-03-23 09:32
+
+#### [智谱走到分水岭，我对大模型下半场的几点思考](https://www.tmtpost.com/7924479.html)
+**发布时间**: 2026-03-23 09:29
+
+#### [商业航天“五小龙”，谁是中国版SpaceX？](https://www.tmtpost.com/7924695.html)
+**发布时间**: 2026-03-23 09:29
+
+#### [大众汽车总算醒了](https://www.tmtpost.com/7924530.html)
+**发布时间**: 2026-03-23 09:23
+
+#### [同属 IP 赛道，泡泡玛特估值是其 2 倍：名创优品差在哪？](https://www.tmtpost.com/7924557.html)
+**发布时间**: 2026-03-23 08:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜基于 Tasker 的节假日补班闹钟怎么做？](https://sspai.com/post/106993)
+**发布时间**: 2026-03-23 11:30
+
+#### [派早报：微软承诺多项 Windows 11 改善措施](https://sspai.com/post/107674)
+**发布时间**: 2026-03-23 06:52
 
 ---
 
