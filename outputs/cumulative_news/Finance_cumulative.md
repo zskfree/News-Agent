@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-23 08:59
+**最后更新时间**: 2026-03-23 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-23 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump plays up prospect of diplomatic end to Iran war](https://www.ft.com/content/3301675e-97c6-4904-a434-0be4aa3bf615)
+**发布时间**: 2026-03-23 22:49
+
+#### [Traders placed $580mn in oil bets ahead of Trump post on Iran talks](https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696)
+**发布时间**: 2026-03-23 21:35
+
+#### [Apollo caps investor withdrawals from flagship private credit fund](https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e)
+**发布时间**: 2026-03-23 21:04
+
+#### [Estée Lauder in talks to combine with Jean Paul Gaultier owner Puig](https://www.ft.com/content/644a7f5c-ec48-49b8-bcb7-8ede2051ffcc)
+**发布时间**: 2026-03-23 20:50
+
+#### [Can Trump do a deal with Iran?](https://www.ft.com/content/8c43c8f0-b6df-4807-a688-4643bc7a8746)
+**发布时间**: 2026-03-23 19:23
+
+#### [Iran contradicts Trump and says no direct talks to end war](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 18:47
+
+#### [Markets wrong on UK interest rate rises, say economists](https://www.ft.com/content/a34164e7-e110-4845-8907-16a5722ece12)
+**发布时间**: 2026-03-23 18:37
+
+#### [UK looks at supporting vulnerable households after surge in energy prices](https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222)
+**发布时间**: 2026-03-23 18:23
+
+#### [Pakistan steps up as go-between in Trump’s Iran crisis](https://www.ft.com/content/dc7ba7ef-9e45-48ee-8ba6-88dfab66b2c1)
+**发布时间**: 2026-03-23 15:42
+
+#### [OnlyFans owner Leonid Radvinsky dies at 43](https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3)
+**发布时间**: 2026-03-23 13:47
+
+#### [Netanyahu is gambling with Israel’s future](https://www.ft.com/content/4e35167f-a7c2-4d4e-b2e4-cc9d863eec2d)
+**发布时间**: 2026-03-23 11:34
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple’s stock rises as enthusiasm builds for a potential foldable iPhone](https://www.marketwatch.com/story/apples-stock-rises-as-enthusiasm-builds-for-a-potential-foldable-iphone-2774476f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:14
+
+#### [Travel stocks are among the biggest gainers as Trump teases Iran talks](https://www.marketwatch.com/story/travel-stocks-are-among-the-biggest-gainers-as-trump-teases-iran-talks-a74017c7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:11
+
+#### [Brent oil prices claw back losses to top $100 again after hours](https://www.marketwatch.com/story/brent-oil-prices-claw-back-losses-to-top-100-again-after-hours-06c4f67f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:04
+
+#### [These chip stocks could be winners as Elon Musk executes on his ‘Terafab’ vision](https://www.marketwatch.com/story/these-chip-stocks-could-be-winners-as-elon-musk-executes-on-his-terafab-vision-bf994cb1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:53
+
+#### [Estee Lauder says it has a suitor. That’s still not helping its stock.](https://www.marketwatch.com/story/estee-lauder-says-it-has-a-suitor-thats-still-not-helping-its-stock-98a063dc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:50
+
+#### [Stocks of betting companies gain after new bill aims to ban sports gambling on Kalshi, Polymarket](https://www.marketwatch.com/story/draftkings-and-mgm-shares-rise-as-new-bill-threatens-to-ban-sports-gambling-on-kalshi-polymarket-4297ad28?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:42
+
+#### [Flights will keep getting more expensive and harder to find. Here’s how much worse it could get.](https://www.marketwatch.com/story/flights-will-keep-getting-more-expensive-and-harder-to-find-heres-how-much-worse-it-could-get-683f4f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:38
+
+#### [These states are considering gas-tax holidays. Here’s how much drivers could save.](https://www.marketwatch.com/story/these-states-are-considering-gas-tax-holidays-heres-how-much-drivers-could-save-4c6344bd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:17
+
+#### [Lumentum’s stock has surged 1,000% in a year. Why more big gains may be in store.](https://www.marketwatch.com/story/lumentums-stock-has-surged-1-000-in-a-year-why-more-big-gains-may-be-in-store-aaf7ea54?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:09
 
 ---
 

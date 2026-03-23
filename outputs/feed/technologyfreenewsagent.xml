@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 09:00:16 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:35:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从百度到Meta，科技巨头的 AI 组织战，开打了</title>
-      <link>https://www.tmtpost.com/7924829.html</link>
-      <description>&lt;![CDATA[从百度到Meta，科技巨头的 AI 组织战，开打了]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7924829.html</guid>
+      <title>马斯克250亿美元造芯局：除了敲打英伟达，他还在算什么账？</title>
+      <link>https://www.tmtpost.com/7925625.html</link>
+      <description>&lt;![CDATA[马斯克250亿美元造芯局：除了敲打英伟达，他还在算什么账？]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925625.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？</title>
-      <link>https://www.tmtpost.com/7925436.html</link>
-      <description>&lt;![CDATA[Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7925436.html</guid>
+      <title>Cursor被抓包“套壳”再反转：数百亿美元估值的美国AI独角兽，新底牌竟是Kimi</title>
+      <link>https://www.tmtpost.com/7925673.html</link>
+      <description>&lt;![CDATA[Cursor被抓包“套壳”再反转：数百亿美元估值的美国AI独角兽，新底牌竟是Kimi]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925673.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案</title>
-      <link>https://www.tmtpost.com/7925057.html</link>
-      <description>&lt;![CDATA[大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7925057.html</guid>
+      <title>MiniMax上市61天市值越过百度，AI新贵掀翻旧牌桌</title>
+      <link>https://www.tmtpost.com/7925749.html</link>
+      <description>&lt;![CDATA[MiniMax上市61天市值越过百度，AI新贵掀翻旧牌桌]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱走到分水岭，我对大模型下半场的几点思考</title>
-      <link>https://www.tmtpost.com/7924479.html</link>
-      <description>&lt;![CDATA[智谱走到分水岭，我对大模型下半场的几点思考]]&gt;</description>
+      <title>商业航天“五小龙”，谁是中国版SpaceX？</title>
+      <link>https://www.tmtpost.com/7924695.html</link>
+      <description>&lt;![CDATA[商业航天“五小龙”，谁是中国版SpaceX？]]&gt;</description>
       <pubDate>Mon, 23 Mar 2026 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7924479.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7924695.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>宇树赚钱了，但人形机器人还没</title>
-      <link>https://www.tmtpost.com/7925591.html</link>
-      <description>&lt;![CDATA[宇树赚钱了，但人形机器人还没]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7925591.html</guid>
+      <title>断网也能跑的小龙虾，EdgeClaw 在 GitHub 上开源了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532399&amp;idx=1&amp;sn=3938b43db8698af9daf95ae22c20eb13</link>
+      <description>&lt;![CDATA[断网也能跑的小龙虾，EdgeClaw 在 GitHub 上开源了。]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532399&amp;idx=1&amp;sn=3938b43db8698af9daf95ae22c20eb13</guid>
       <category>Technology</category>
     </item>
   </channel>
