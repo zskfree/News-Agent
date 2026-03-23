@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-23 06:11
+**最后更新时间**: 2026-03-23 08:59
+
+---
+
+## 🆕 最新更新 (2026-03-23 08:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Flights disrupted after crash at NY’s LaGuardia airport kills two people](https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38)
+**发布时间**: 2026-03-23 08:45
+
+#### [Starmer grapples with Iran economic fallout and Trump mockery](https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222)
+**发布时间**: 2026-03-23 08:45
+
+#### [Gilt rout deepens as traders bet on four BoE rate rises this year](https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e)
+**发布时间**: 2026-03-23 08:34
+
+#### [London ambulances set on fire in suspected antisemitic incident](https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4)
+**发布时间**: 2026-03-23 06:56
+
+#### [Gilts: blame the hedge funds?](https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d)
+**发布时间**: 2026-03-23 06:30
+
+#### [Qatar Airways parks long-haul jets in storage in Spain](https://www.ft.com/content/7c3365bf-f4b2-4fca-80b5-e331534acd40)
+**发布时间**: 2026-03-23 05:00
+
+#### [Stocks tumble as Trump and Iran step up threats](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 02:50
 
 ---
 

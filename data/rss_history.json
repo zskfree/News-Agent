@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f2e9483ff416d6fff1613c063e3afe328a75babb194b120fad39e1adbb5ea053": {
-        "title": "告别软件依赖：OpenAI 200人团队押注硬件，打响AI消费终端争夺战",
-        "link": "https://www.tmtpost.com/7885845.html",
-        "published_date": "Sat, 21 Feb 2026 13:58:00 GMT",
-        "first_seen": "2026-02-21T08:34:23.100188"
-      },
-      "1d4c5e2acd835ae735b56ed9de09f7ec359172afa6a2210414ae991783e2d907": {
-        "title": "新加坡：中美AI中转站",
-        "link": "https://www.tmtpost.com/7886289.html",
-        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
-        "first_seen": "2026-02-21T08:34:23.100194"
-      },
-      "476a85a63bff63cfdc1b132da9fda07edc523f537841d701259ec44d775c9a54": {
-        "title": "烧了540亿，机器人进入“吃鸡游戏”拐点",
-        "link": "https://www.tmtpost.com/7886222.html",
-        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
-        "first_seen": "2026-02-21T08:34:23.100196"
-      },
-      "9e7558d23446d73d5cf46a474e35ff3d53b26869ff10269be87cdfb532971124": {
-        "title": "特斯拉Cybercab已取消方向盘，中国为何还紧握不放？",
-        "link": "https://www.tmtpost.com/7886203.html",
-        "published_date": "Sat, 21 Feb 2026 16:06:00 GMT",
-        "first_seen": "2026-02-21T08:34:23.100198"
-      },
-      "d88f20cd1813a09f0690ce88c1ec2c21adff130b6ebb02d464e3ebf984a78d47": {
-        "title": "“五大六小”们统一从新能源领域大幅撤退？国家电投卖资产、华电提红线的背后",
-        "link": "https://www.tmtpost.com/7886298.html",
-        "published_date": "Sat, 21 Feb 2026 16:07:00 GMT",
-        "first_seen": "2026-02-21T08:34:23.100200"
-      },
       "4bcecabe0b293ca4523cdedbf2cb1e68bc3c0d653ca83c770fd83d99c283b7b1": {
         "title": "王震：陶瓷基复合材料研究进展与发展趋势 | 钛资本航空航天组",
         "link": "https://www.tmtpost.com/7886221.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 23 Mar 2026 14:00:00 GMT",
         "first_seen": "2026-03-23T06:12:08.216560"
+      },
+      "44afb32ccda93367cefb5f6a6e1162fb06c2e3ce1a1937fbb71c3c766cf25f92": {
+        "title": "从百度到Meta，科技巨头的 AI 组织战，开打了",
+        "link": "https://www.tmtpost.com/7924829.html",
+        "published_date": "Mon, 23 Mar 2026 16:30:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.418768"
+      },
+      "36d6c5eebafe51628bf5c6ba687a3f26a38c096d561561274a6d46e545a9a680": {
+        "title": "Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？",
+        "link": "https://www.tmtpost.com/7925436.html",
+        "published_date": "Mon, 23 Mar 2026 16:21:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.418781"
+      },
+      "382cc09d3739c412a6408cfe62a25f83dcf94ddffc60911cc811a2da411fd7d6": {
+        "title": "大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案",
+        "link": "https://www.tmtpost.com/7925057.html",
+        "published_date": "Mon, 23 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.418783"
+      },
+      "e73ed7857b3f5365debc645ec8505c47efa7986bdeff8d69515dc2f277dc148a": {
+        "title": "智谱走到分水岭，我对大模型下半场的几点思考",
+        "link": "https://www.tmtpost.com/7924479.html",
+        "published_date": "Mon, 23 Mar 2026 09:29:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.418786"
+      },
+      "374ad5b87299f0c380163975d4e8a6af79381e2118440d486b29aa76368f2068": {
+        "title": "宇树赚钱了，但人形机器人还没",
+        "link": "https://www.tmtpost.com/7925591.html",
+        "published_date": "Mon, 23 Mar 2026 16:52:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.418787"
       }
     },
     "Finance": {
@@ -4563,15 +4563,39 @@
         "link": "https://www.ft.com/content/b0316ac9-e013-41f8-985d-5394284ff397",
         "published_date": "Mon, 23 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-23T06:12:22.264047"
+      },
+      "cce3c4588e9a7947190807eebca13f1e7007c131d35073cd15872c064350db31": {
+        "title": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
+        "link": "https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38",
+        "published_date": "Mon, 23 Mar 2026 08:45:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.451413"
+      },
+      "694d0ba699b44d336603ff62cd0cc4fdf4473d82d24a6f2a46806ba44d90acab": {
+        "title": "Starmer grapples with Iran economic fallout and Trump mockery",
+        "link": "https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222",
+        "published_date": "Mon, 23 Mar 2026 08:45:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.451420"
+      },
+      "a82da2efb43438f03d4b16be86d9e49bbedc2541e221aadde4b17face2a822ee": {
+        "title": "Gilt rout deepens as traders bet on four BoE rate rises this year",
+        "link": "https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e",
+        "published_date": "Mon, 23 Mar 2026 08:34:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.451424"
+      },
+      "579308786d4eefba2f1bd366df96d7e2914c3165fe91e25519711fa145638d63": {
+        "title": "London ambulances set on fire in suspected antisemitic incident",
+        "link": "https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4",
+        "published_date": "Mon, 23 Mar 2026 06:56:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.451426"
+      },
+      "3ae76e24ac8b54aa3c65f1e67a1c2382865c08df1fbb07cf4d3464b5adaf9fda": {
+        "title": "Gilts: blame the hedge funds?",
+        "link": "https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d",
+        "published_date": "Mon, 23 Mar 2026 06:30:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.451427"
       }
     },
     "Ai": {
-      "98c797214152cf716593cb9b6e17ef262269c3597fcfd9362c19d380e2b6e773": {
-        "title": "24人团队硬刚英伟达！AMD前高管梦之队出手，新芯片每秒17000个token",
-        "link": "https://www.qbitai.com/2026/02/381552.html",
-        "published_date": "Sat, 21 Feb 2026 06:31:00 GMT",
-        "first_seen": "2026-02-21T08:34:06.041246"
-      },
       "60ba03faaaab0e8a5efd771fe42ceabc8f92312b0c2731484e7861576f95d646": {
         "title": "刚刚，CVPR 2026放榜！朋友圈刷屏",
         "link": "https://www.jiqizhixin.com/articles/2026-02-21-5",
@@ -5831,13 +5855,19 @@
         "link": "https://www.qbitai.com/2026/03/391078.html",
         "published_date": "Mon, 23 Mar 2026 03:56:00 GMT",
         "first_seen": "2026-03-23T06:12:36.582652"
+      },
+      "69d47a812f35e56b75d3dd500abb8f29854d15bb2bc734d3de0cea576f35c4a1": {
+        "title": "2026-03-23日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-23/",
+        "published_date": "Mon, 23 Mar 2026 09:41:00 GMT",
+        "first_seen": "2026-03-23T09:00:16.587858"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-23T06:12:08.216568",
-    "Finance": "2026-03-23T06:12:22.264050",
-    "Ai": "2026-03-23T06:12:36.582654"
+    "Technology": "2026-03-23T09:00:16.418790",
+    "Finance": "2026-03-23T09:00:16.451430",
+    "Ai": "2026-03-23T09:00:16.587866"
   }
 }

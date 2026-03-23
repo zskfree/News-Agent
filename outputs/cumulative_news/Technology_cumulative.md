@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-23 06:11
+**最后更新时间**: 2026-03-23 08:59
+
+---
+
+## 🆕 最新更新 (2026-03-23 08:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [实测微信“龙虾”：努力考到及格线，多一分都是浪费](https://www.tmtpost.com/7925599.html)
+**发布时间**: 2026-03-23 16:52
+
+#### [宇树赚钱了，但人形机器人还没](https://www.tmtpost.com/7925591.html)
+**发布时间**: 2026-03-23 16:52
+
+#### [华人巨商又陨落，生前连坐17年国家首富](https://www.tmtpost.com/7925542.html)
+**发布时间**: 2026-03-23 16:30
+
+#### [最高投$10亿，休闲游戏投融资升温：重金押注小团队成新趋势？](https://www.tmtpost.com/7925469.html)
+**发布时间**: 2026-03-23 16:30
+
+#### [从百度到Meta，科技巨头的 AI 组织战，开打了](https://www.tmtpost.com/7924829.html)
+**发布时间**: 2026-03-23 16:30
+
+#### [2026年的游戏AI，我们还能期待什么？](https://www.tmtpost.com/7925274.html)
+**发布时间**: 2026-03-23 16:22
+
+#### [Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？](https://www.tmtpost.com/7925436.html)
+**发布时间**: 2026-03-23 16:21
+
+#### [Meta和苹果都来“借兵”，谷歌Gemini怎么就成了硅谷“托底王”？](https://www.tmtpost.com/7925419.html)
+**发布时间**: 2026-03-23 16:13
+
+#### [前作10万销量+92%好评，这款一人开发的“整活”RPG续作靠玩家反馈全面升级](https://www.tmtpost.com/7925258.html)
+**发布时间**: 2026-03-23 16:13
+
+#### [【Fintech 周报】金融法要来了；险企抢滩低空保险；华通银行股权流拍](https://www.tmtpost.com/7925407.html)
+**发布时间**: 2026-03-23 15:48
+
+#### [跑鞋卖出2600万双的李宁，手握200亿现金](https://www.tmtpost.com/7924089.html)
+**发布时间**: 2026-03-23 15:29
+
+#### [大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案](https://www.tmtpost.com/7925057.html)
+**发布时间**: 2026-03-23 14:55
+
+#### [力推新IP，泡泡玛特也吃劲儿](https://www.tmtpost.com/7925087.html)
+**发布时间**: 2026-03-23 14:09
+
+#### [龙虾是一次“能力泄露”](https://www.tmtpost.com/7925197.html)
+**发布时间**: 2026-03-23 14:09
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [油价重回9元时代，距离历史最高点还有多远？](http://www.huxiu.com/article/4844261.html?f=wangzhan)
+**发布时间**: 2026-03-23 15:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试](https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-23 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Mac 选购指南 2026 春季版](https://sspai.com/post/85735)
+**发布时间**: 2026-03-23 14:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [断网也能跑的小龙虾，EdgeClaw 在 GitHub 上开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532399&idx=1&sn=3938b43db8698af9daf95ae22c20eb13)
+**发布时间**: 2026-03-23 10:41
 
 ---
 

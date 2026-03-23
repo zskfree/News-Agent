@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 06:11:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 06:12:36 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 09:00:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%</title>
-      <link>https://www.qbitai.com/2026/03/391045.html</link>
-      <description>&lt;![CDATA[马斯克要自己做「英伟达+台积电」！宇宙芯片宏图开工，算力产能扩5000%]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 01:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391045.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>黄仁勋发Token当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科</title>
-      <link>https://www.qbitai.com/2026/03/391061.html</link>
-      <description>&lt;![CDATA[黄仁勋发Token当工资！硅谷兴起刷量大赛，一人烧掉33个维基百科]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 03:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391061.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>千问上线AI打车，一句话搞定选车、选地点、选时间</title>
-      <link>https://www.qbitai.com/2026/03/391308.html</link>
-      <description>&lt;![CDATA[千问上线AI打车，一句话搞定选车、选地点、选时间]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391308.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenClaw创始人回信确认360独家发现漏洞</title>
-      <link>https://www.qbitai.com/2026/03/391303.html</link>
-      <description>&lt;![CDATA[OpenClaw创始人回信确认360独家发现漏洞]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 03:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391303.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中关村北纬龙虾大赛圆满收官！理性探索智能体时代AI应用演进的无限可能</title>
-      <link>https://www.qbitai.com/2026/03/391078.html</link>
-      <description>&lt;![CDATA[中关村北纬龙虾大赛圆满收官！理性探索智能体时代AI应用演进的无限可能]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391078.html</guid>
+      <title>2026-03-23日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-23/</link>
+      <description>&lt;![CDATA[2026-03-23日刊]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 09:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-23/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 06:11:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 06:12:08 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 09:00:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流</title>
-      <link>https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从百度到Meta，科技巨头的 AI 组织战，开打了</title>
+      <link>https://www.tmtpost.com/7924829.html</link>
+      <description>&lt;![CDATA[从百度到Meta，科技巨头的 AI 组织战，开打了]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7924829.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Karpathy最新访谈：开源模型落后闭源模型6个月，是AI世界最健康的状态；“龙虾”的成功在于它有“人格”</title>
-      <link>https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Karpathy最新访谈：开源模型落后闭源模型6个月，是AI世界最健康的状态；“龙虾”的成功在于它有“人格”]]&gt;</description>
+      <title>Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？</title>
+      <link>https://www.tmtpost.com/7925436.html</link>
+      <description>&lt;![CDATA[Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925436.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案</title>
+      <link>https://www.tmtpost.com/7925057.html</link>
+      <description>&lt;![CDATA[大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925057.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智谱走到分水岭，我对大模型下半场的几点思考</title>
+      <link>https://www.tmtpost.com/7924479.html</link>
+      <description>&lt;![CDATA[智谱走到分水岭，我对大模型下半场的几点思考]]&gt;</description>
       <pubDate>Mon, 23 Mar 2026 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7924479.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>撕开英伟达的算力围城</title>
-      <link>https://www.tmtpost.com/7925069.html</link>
-      <description>&lt;![CDATA[撕开英伟达的算力围城]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 12:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7925069.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>OpenAI的国防合同：70万用户用脚投票，内部先炸了</title>
-      <link>https://www.tmtpost.com/7924680.html</link>
-      <description>&lt;![CDATA[OpenAI的国防合同：70万用户用脚投票，内部先炸了]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7924680.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Netflix发现了在现代CPU上扩展容器时的内核级瓶颈</title>
-      <link>https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix发现了在现代CPU上扩展容器时的内核级瓶颈]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树赚钱了，但人形机器人还没</title>
+      <link>https://www.tmtpost.com/7925591.html</link>
+      <description>&lt;![CDATA[宇树赚钱了，但人形机器人还没]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925591.html</guid>
       <category>Technology</category>
     </item>
   </channel>
