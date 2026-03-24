@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 08:56
+**最后更新时间**: 2026-03-24 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-24 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US oil price tumbles in latest bout of market volatility](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-24 23:29
+
+#### [Trump praises peace talks with Iran as US deploys more troops](https://www.ft.com/content/24ec59d8-78d7-44f1-9095-a3200abbb3d9)
+**发布时间**: 2026-03-24 23:17
+
+#### [OpenAI to end Disney deal and Sora video app](https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0)
+**发布时间**: 2026-03-24 22:59
+
+#### [Charting the OpenAI ‘ecosystem’](https://www.ft.com/content/c26d916c-ca1a-4fbe-9b17-6f94d14f222a)
+**发布时间**: 2026-03-24 22:39
+
+#### [UK backs switch to electric trucks and vans with £1bn funding](https://www.ft.com/content/68a214ad-fa5b-4a1a-b17f-86539f334ef8)
+**发布时间**: 2026-03-24 22:30
+
+#### [VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence](https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072)
+**发布时间**: 2026-03-24 21:56
+
+#### [Iran says ‘non-hostile’ ships can transit Strait of Hormuz](https://www.ft.com/content/71c3295a-531a-4fa8-86bc-964b5bb821e2)
+**发布时间**: 2026-03-24 18:53
+
+#### [Iran war sends US borrowing costs soaring by most since 2024](https://www.ft.com/content/0976a312-e578-4754-99bb-ecdf46a8e8c0)
+**发布时间**: 2026-03-24 17:16
+
+#### [Crispin Odey admits grabbing former employee’s breasts without consent](https://www.ft.com/content/24ffc4b5-4e88-49c8-8abb-80aa317cd45f)
+**发布时间**: 2026-03-24 16:47
+
+#### [Business fires back at Reeves over energy costs](https://www.ft.com/content/0111b4e5-8e5e-4c45-84d3-e7244c724817)
+**发布时间**: 2026-03-24 13:58
+
+#### [Hedge fund Millennium explores shifting Dubai staff to Jersey](https://www.ft.com/content/3a3dfe47-4afa-4956-9244-893e5899453b)
+**发布时间**: 2026-03-24 12:48
+
+#### [Trump’s Armageddon-Taco shuffle](https://www.ft.com/content/2656f791-c17c-4b44-8a1e-1892fef5374a)
+**发布时间**: 2026-03-24 11:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran](https://www.marketwatch.com/story/oil-prices-fall-stock-futures-climb-on-reports-u-s-has-proposed-a-cease-fire-to-iran-c6594893?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:55
+
+#### [Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank](https://www.marketwatch.com/story/elizabeth-warren-raises-alarm-over-mrbeasts-teen-banking-app-encouraging-risky-investments-ce7f58a4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:32
+
+#### [A bad Treasury auction is offering a glimpse into the anxiety on Wall Street over the Iran war](https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:19
+
+#### [Software stocks fall as fear of AI disruption is back in full force](https://www.marketwatch.com/story/software-stocks-fall-as-fear-of-ai-disruption-is-back-in-full-force-c5cdf640?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:09
+
+#### [‘It feels slimy’: My friend offered to be my adviser, but didn’t tell me he’s paid to push financial products. Can I trust him?](https://www.marketwatch.com/story/it-feels-slimy-my-friend-offered-to-be-my-adviser-but-didnt-tell-me-hes-paid-to-push-financial-products-can-i-trust-him-4de53a0a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:04
+
+#### [3 signals tied to severe market drops are all flashing now](https://www.marketwatch.com/story/history-shows-investors-are-right-to-worry-about-2026-being-a-bad-year-for-u-s-stocks-2d82d09b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:59
+
+#### [Iran is testing a selective Strait of Hormuz strategy that could deliver another shock to oil markets](https://www.marketwatch.com/story/iran-is-testing-a-selective-strait-of-hormuz-strategy-that-could-deliver-another-shock-to-oil-markets-fd739b63?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:35
+
+#### [U.S. stocks are looking cheap for the first time in a year](https://www.marketwatch.com/story/u-s-stocks-are-looking-cheap-for-the-first-time-in-a-year-f4226f65?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:18
+
+#### [Long airport lines may soon disappear as senators sound hopeful on funding deal](https://www.marketwatch.com/story/long-airport-lines-may-soon-disappear-as-senators-sound-hopeful-on-funding-deal-7483c98e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:03
+
+#### [Pentagon reportedly plans to deploy 3,000 troops to the Middle East, lifting oil prices by nearly 5%](https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 20:25
 
 ---
 

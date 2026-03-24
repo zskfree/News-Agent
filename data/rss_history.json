@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f7f48dcbc7ef12080cd73af4c5c2ccc32df4e3dcd25deee52b87cf1cce5863e1": {
-        "title": "别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代",
-        "link": "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 22 Feb 2026 20:37:00 GMT",
-        "first_seen": "2026-02-22T23:29:56.241969"
-      },
-      "0c8744ed1f3dd309e1d7351d15612c89cfd0b26729fc759689ae1e74736981da": {
-        "title": "为什么是 2026？所有创始人必须看清的时代分水岭",
-        "link": "https://www.tmtpost.com/7886626.html",
-        "published_date": "Sun, 22 Feb 2026 11:12:00 GMT",
-        "first_seen": "2026-02-22T23:29:56.241975"
-      },
-      "2880f81aeb340144ac558ce97083b3962f22131192ea35fa7982acfaf77cae97": {
-        "title": "GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531567&idx=1&sn=45f174b7c7949d1dc95797729e340584",
-        "published_date": "Sun, 22 Feb 2026 15:04:00 GMT",
-        "first_seen": "2026-02-22T23:29:56.241977"
-      },
-      "24900e8831dbe6829c3665e1a8e22502057ef4201667cbc315c573c431da6be8": {
-        "title": "美国养老社区 18 季连涨启示：读懂 “80 岁分水岭”，就读懂了银发经济的未来",
-        "link": "https://www.tmtpost.com/7886667.html",
-        "published_date": "Sun, 22 Feb 2026 15:02:00 GMT",
-        "first_seen": "2026-02-22T23:29:56.241979"
-      },
-      "731809b86b87343d5b8aee8bee8661429bcff649a1be1c170c76b13ad9f7a004": {
-        "title": "可执行性是计划的唯一试金石——工厂不按照计划执行是最大的谎言",
-        "link": "https://www.tmtpost.com/7886363.html",
-        "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
-        "first_seen": "2026-02-22T23:29:56.241981"
-      },
       "465ee226ab9097501cd0b7821a2c20f1cbe2d32458f35f3f42321c0b19804005": {
         "title": "“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活",
         "link": "https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 24 Mar 2026 15:18:00 GMT",
         "first_seen": "2026-03-24T08:56:31.904034"
+      },
+      "704af406cf5256bd3bd83ffab5f7e6d9d0322f5fb60a3f735cda5b29e62515f8": {
+        "title": "英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价",
+        "link": "https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 18:11:00 GMT",
+        "first_seen": "2026-03-24T23:35:11.854249"
+      },
+      "6d636f74e5ac15c55e46be24bf4b71abb2e21ad349c5cb24d0365c58a7cbdb63": {
+        "title": "魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义",
+        "link": "https://www.tmtpost.com/7926675.html",
+        "published_date": "Tue, 24 Mar 2026 17:43:00 GMT",
+        "first_seen": "2026-03-24T23:35:11.854257"
+      },
+      "f02e592e07b747d60e9d301bf1914d21fe5338887aae3359bcac6bebe3ac4aa2": {
+        "title": "一夜变天！Claude 正式下场“接管电脑”，OpenClaw被逼到墙角",
+        "link": "https://www.infoq.cn/article/0GQAKKpCe2DFq6BtJhdx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 18:00:00 GMT",
+        "first_seen": "2026-03-24T23:35:11.854260"
+      },
+      "178daa39d28b5c723e3ba0658feb4de6c0d8c3fdd7937000fdde0b067f9da3f8": {
+        "title": "比Google的传输协议快10倍，他要给8000亿Agent修高速公路｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/7925994.html",
+        "published_date": "Tue, 24 Mar 2026 18:36:00 GMT",
+        "first_seen": "2026-03-24T23:35:11.854262"
+      },
+      "0bd1d8cb5e68d874fc3fee12c661056499713478b55694ee24dbbe4d49ae5d34": {
+        "title": "Chatbot的入口之争，悄悄结束了",
+        "link": "https://www.tmtpost.com/7926349.html",
+        "published_date": "Tue, 24 Mar 2026 09:30:00 GMT",
+        "first_seen": "2026-03-24T23:35:11.854263"
       }
     },
     "Finance": {
-      "113deaa5ed78c43eecee9da74317f6418c3231599612ec0c49b5d085bd746c21": {
-        "title": "Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
-        "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Feb 2026 20:33:00 GMT",
-        "first_seen": "2026-02-22T23:29:32.232863"
-      },
-      "3124ea94024e06022ef246bcc1b6957fc5027c21983c399818f3a892175fee00": {
-        "title": "Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
-        "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Feb 2026 20:38:00 GMT",
-        "first_seen": "2026-02-22T23:29:32.232873"
-      },
-      "81fbde152d75b2bc8656de37c32d4bd20a58b70990d10926080f648bb03fcb38": {
-        "title": "U.S. stock futures flat as investors await clarity on Trump’s latest tariff plans",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Feb 2026 23:21:00 GMT",
-        "first_seen": "2026-02-22T23:29:32.232875"
-      },
-      "61faf2a2557d2c17909e79f814681d09f628f1ce23912648809be20d79862a12": {
-        "title": "Gold sheds its safe-haven status. Is it just another momentum play now?",
-        "link": "https://www.marketwatch.com/story/gold-sheds-its-safe-haven-status-is-it-just-another-momentum-play-now-c60af908?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Feb 2026 17:00:00 GMT",
-        "first_seen": "2026-02-22T23:29:32.232878"
-      },
-      "149fb3c9f7a51995dd09fa8a2efb790dad0eda67ef25c04fa0b57ffd3b7ddb5f": {
-        "title": "Trump’s new flat-rate tariff is a boost for China and Brazil",
-        "link": "https://www.ft.com/content/a12657e5-e160-444d-9b4e-87e89480e625",
-        "published_date": "Sun, 22 Feb 2026 15:59:00 GMT",
-        "first_seen": "2026-02-22T23:29:32.232879"
-      },
       "58d564aee06229bb394d7d90dd8311d1105599b9ae0bd68686346b22a8bdb5ef": {
         "title": "U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories",
@@ -4611,39 +4581,39 @@
         "link": "https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797",
         "published_date": "Tue, 24 Mar 2026 06:12:00 GMT",
         "first_seen": "2026-03-24T08:56:31.939155"
+      },
+      "e2ef2d54569e950bc23958e8692356a6fad6531a8cd91071c782eba77ae32a03": {
+        "title": "VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence",
+        "link": "https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072",
+        "published_date": "Tue, 24 Mar 2026 21:56:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.535560"
+      },
+      "f980cddeec66dd9ed9ef0c57da8438ad0450f47099f415af8144fd5f59e48251": {
+        "title": "Iran war sends US borrowing costs soaring by most since 2024",
+        "link": "https://www.ft.com/content/0976a312-e578-4754-99bb-ecdf46a8e8c0",
+        "published_date": "Tue, 24 Mar 2026 17:16:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.535566"
+      },
+      "c8942f740d92e0375ec5f3ab45bcd0b873a1438c223550126e471c211f18e50b": {
+        "title": "OpenAI to end Disney deal and Sora video app",
+        "link": "https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0",
+        "published_date": "Tue, 24 Mar 2026 22:59:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.535568"
+      },
+      "12bdf680e7e8ce0d5ed72198373c307cbe384cc7002ce18889a7a75a2f0cb329": {
+        "title": "Iran is testing a selective Strait of Hormuz strategy that could deliver another shock to oil markets",
+        "link": "https://www.marketwatch.com/story/iran-is-testing-a-selective-strait-of-hormuz-strategy-that-could-deliver-another-shock-to-oil-markets-fd739b63?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Mar 2026 21:35:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.535570"
+      },
+      "21f7ddc4ebce82a7383a392dd31137cf01108ecfa0c314e1661629a841c258f4": {
+        "title": "UK backs switch to electric trucks and vans with £1bn funding",
+        "link": "https://www.ft.com/content/68a214ad-fa5b-4a1a-b17f-86539f334ef8",
+        "published_date": "Tue, 24 Mar 2026 22:30:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.535572"
       }
     },
     "Ai": {
-      "78d45795e0be76e925d502272fcf6608bb128c3d3e2707d8740af13a22cbc395": {
-        "title": "TMLR 2026 | 首篇多模态长上下文Token压缩综述：浙大、西湖大学等全面解析MLLM效率瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-2",
-        "published_date": "Sun, 22 Feb 2026 20:56:00 GMT",
-        "first_seen": "2026-02-22T23:29:42.235137"
-      },
-      "d74c356a9d4f8dba9bae42adae8100e338e35d207b9214bf64b9173114100659": {
-        "title": "ICLR 2026｜把LLM Embedding Model算力瓶颈，从Query侧彻底移走，LightRetriever来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-4",
-        "published_date": "Sun, 22 Feb 2026 21:04:00 GMT",
-        "first_seen": "2026-02-22T23:29:42.235143"
-      },
-      "1cb20e952e37d445f1797ab1abe42aa8437df7bd86b8d399a9092282573f8f59": {
-        "title": "谷歌高管放话：这两类AI初创公司，别轻易涉足了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-3",
-        "published_date": "Sun, 22 Feb 2026 20:58:00 GMT",
-        "first_seen": "2026-02-22T23:29:42.235146"
-      },
-      "a77fcab631479857bbcdf15602df41057e21e4d3ff84b0603a0379ea2ef13415": {
-        "title": "后训练大牛Lambert：AI招聘市场正经历「乱纪元」",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-22-5",
-        "published_date": "Sun, 22 Feb 2026 21:07:00 GMT",
-        "first_seen": "2026-02-22T23:29:42.235147"
-      },
-      "2cd74e607eb54890648cdd94d9fe652c852c2294e95b7ab8b176cc7caf585835": {
-        "title": "不整虚的！中美AI同步加速：47天30次更新，中国AI的最强主场究竟在哪？",
-        "link": "https://www.qbitai.com/2026/02/381644.html",
-        "published_date": "Sun, 22 Feb 2026 10:33:00 GMT",
-        "first_seen": "2026-02-22T23:29:42.235149"
-      },
       "b78dac6c940a868e357bc3c89de9cd28e0a743fa2cdd896ed74a8873d2446ab2": {
         "title": "2026-02-23日刊",
         "link": "https://ai.hubtoday.app//2026-02/2026-02-23/",
@@ -5879,13 +5849,37 @@
         "link": "https://www.qbitai.com/2026/03/391668.html",
         "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
         "first_seen": "2026-03-24T08:56:32.086285"
+      },
+      "e9656800216f7d55f051f14e34d08d593689ca31ba3160b89d346fe6e04b5880": {
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "published_date": "Tue, 24 Mar 2026 19:54:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.683310"
+      },
+      "0e3999fdbc9e12e56b73f44a33a2d7f42a1703e3bf0565dfa53d6dd352e9ddae": {
+        "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+        "link": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/",
+        "published_date": "Tue, 24 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.683318"
+      },
+      "a7fc6aa5ca04a751682dd57008ab95fa7df8c62a7a85363ef8aeaf2f3d21f663": {
+        "title": "AI全链路加持！一加15T打造全能小屏，售价4299元起",
+        "link": "https://www.qbitai.com/2026/03/391775.html",
+        "published_date": "Tue, 24 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.683320"
+      },
+      "b903b1d9be79fff14e0a7e0f4ea017977f4fc9a15dc6b64a646c7bd936e4a9ec": {
+        "title": "龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名",
+        "link": "https://www.qbitai.com/2026/03/391760.html",
+        "published_date": "Tue, 24 Mar 2026 13:09:00 GMT",
+        "first_seen": "2026-03-24T23:35:33.683322"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-24T08:56:31.904037",
-    "Finance": "2026-03-24T08:56:31.939157",
-    "Ai": "2026-03-24T08:56:32.086287"
+    "Technology": "2026-03-24T23:35:11.854266",
+    "Finance": "2026-03-24T23:35:33.535574",
+    "Ai": "2026-03-24T23:35:33.683323"
   }
 }

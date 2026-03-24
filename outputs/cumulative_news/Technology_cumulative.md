@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 08:56
+**最后更新时间**: 2026-03-24 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-24 23:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】5000亿元！央行今日出手，继续加量续作；激进方案遇挫，OpenClaw版本升级“翻车”；金价高位回调，周大福暂缓“一口价”产品调价](https://www.tmtpost.com/7927386.html)
+**发布时间**: 2026-03-25 07:20
+
+#### [国产“龙虾”不能止于Claw，还是要学Claude](https://www.tmtpost.com/7927307.html)
+**发布时间**: 2026-03-24 20:46
+
+#### [募资14.6亿攻坚高端掩模版，龙图光罩能否打破业绩僵局？｜看财报](https://www.tmtpost.com/7927208.html)
+**发布时间**: 2026-03-24 19:26
+
+#### [OpenClaw升级出漏子，微信到嘴的龙虾飞了](https://www.tmtpost.com/7927019.html)
+**发布时间**: 2026-03-24 19:15
+
+#### [阿里即时零售的钱，该交给AI了](https://www.tmtpost.com/7927042.html)
+**发布时间**: 2026-03-24 19:09
+
+#### [在华强北，AI首先是门生意](https://www.tmtpost.com/7927158.html)
+**发布时间**: 2026-03-24 19:09
+
+#### [折扣向左，新鲜向右，零食行业谁能活过下半场？](https://www.tmtpost.com/7927099.html)
+**发布时间**: 2026-03-24 19:09
+
+#### [微信的“局部开放”：当超级App遇见开源“龙虾”，谁在制定新规矩？](https://www.tmtpost.com/7927105.html)
+**发布时间**: 2026-03-24 18:40
+
+#### [比Google的传输协议快10倍，他要给8000亿Agent修高速公路｜AI Founder 请回答](https://www.tmtpost.com/7925994.html)
+**发布时间**: 2026-03-24 18:36
+
+#### [油价大涨，对金发科技影响有多大？](https://www.tmtpost.com/7926476.html)
+**发布时间**: 2026-03-24 17:43
+
+#### [魏哲家演讲背后的冷思考：人形机器人的胜负手正被重新定义](https://www.tmtpost.com/7926675.html)
+**发布时间**: 2026-03-24 17:43
+
+#### [大疆严防影石](https://www.tmtpost.com/7926934.html)
+**发布时间**: 2026-03-24 17:41
+
+#### [如果汪滔被开掉，下手的可能是扎克伯格……的AI分身](https://www.tmtpost.com/7926920.html)
+**发布时间**: 2026-03-24 17:41
+
+#### [封杀、追捧与3800亿估值：Anthropic2026奇幻漂流](https://www.tmtpost.com/7926731.html)
+**发布时间**: 2026-03-24 17:41
+
+#### [3月真人短剧分析：未来半年是超精品的](https://www.tmtpost.com/7924864.html)
+**发布时间**: 2026-03-24 17:41
+
+#### [首次实现季度盈利，小鹏物理AI见成效｜财报眼](https://www.tmtpost.com/7926830.html)
+**发布时间**: 2026-03-24 17:41
+
+#### [AI眼镜，还在追赶iPhone时刻](https://www.tmtpost.com/7926651.html)
+**发布时间**: 2026-03-24 17:41
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GTC解读：当我们谈论AI推理的KV Cache，我们在做什么？](https://www.infoq.cn/article/MQ9xMgqr7XrSbD8yu6Tw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 19:59
+
+#### [基于 Snowflake 的 MONAI 分布式医学影像处理 ｜ 技术实践](https://www.infoq.cn/article/yc7p7KfKMuayhRD3z5dY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 19:48
+
+#### [现代化零售银行分析：信贷与贷款组合的对话智能 ｜ 技术实践](https://www.infoq.cn/article/RLWiOyYglhxoqD1zbMBt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 19:41
+
+#### [漏洞管理进入智能时代！OC社区率先发布AI Agent增强的漏洞动态分级标准](https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 19:10
+
+#### [硬件成本直降60%！原生分布式VS传统分库分表数据库](https://www.infoq.cn/article/2G2frHuT42rFZpPiNqVW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 19:08
+
+#### [英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价](https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 18:11
+
+#### [一夜变天！Claude 正式下场“接管电脑”，OpenClaw被逼到墙角](https://www.infoq.cn/article/0GQAKKpCe2DFq6BtJhdx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 18:00
+
+#### [3月27-28日相约杭州！极客时间携智能体时代AI人才粮仓模型亮相CSTD人才发展灯塔峰会](https://www.infoq.cn/article/I56iru1tbLQxVRt9gaEa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 16:59
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [高端日料没人吃了？](http://www.huxiu.com/article/4843942.html?f=wangzhan)
+**发布时间**: 2026-03-24 19:00
+
+#### [从万众期待到路边一X，国行Switch是如何走到关服停运的呢？](http://www.huxiu.com/article/4843911.html?f=wangzhan)
+**发布时间**: 2026-03-24 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 134 | 派友热议二月买了啥、升降落地阅读支架体验](https://sspai.com/post/107738)
+**发布时间**: 2026-03-24 16:47
+
+#### [当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复](https://sspai.com/post/107740)
+**发布时间**: 2026-03-24 16:33
 
 ---
 

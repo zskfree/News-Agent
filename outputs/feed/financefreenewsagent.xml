@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Mar 2026 08:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 08:56:31 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 23:35:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Revolut profits surge to record as it wins market share</title>
-      <link>https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b</link>
-      <description>&lt;![CDATA[Revolut profits surge to record as it wins market share]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b</guid>
+      <title>VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence</title>
+      <link>https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072</link>
+      <description>&lt;![CDATA[VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 21:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Japan’s SMFG explores possible takeover of Jefferies</title>
-      <link>https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4</link>
-      <description>&lt;![CDATA[Japan’s SMFG explores possible takeover of Jefferies]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4</guid>
+      <title>Iran war sends US borrowing costs soaring by most since 2024</title>
+      <link>https://www.ft.com/content/0976a312-e578-4754-99bb-ecdf46a8e8c0</link>
+      <description>&lt;![CDATA[Iran war sends US borrowing costs soaring by most since 2024]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0976a312-e578-4754-99bb-ecdf46a8e8c0</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG</title>
-      <link>https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797</link>
-      <description>&lt;![CDATA[Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 06:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797</guid>
+      <title>OpenAI to end Disney deal and Sora video app</title>
+      <link>https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0</link>
+      <description>&lt;![CDATA[OpenAI to end Disney deal and Sora video app]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 22:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran is testing a selective Strait of Hormuz strategy that could deliver another shock to oil markets</title>
+      <link>https://www.marketwatch.com/story/iran-is-testing-a-selective-strait-of-hormuz-strategy-that-could-deliver-another-shock-to-oil-markets-fd739b63?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Iran is testing a selective Strait of Hormuz strategy that could deliver another shock to oil markets]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/iran-is-testing-a-selective-strait-of-hormuz-strategy-that-could-deliver-another-shock-to-oil-markets-fd739b63?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK backs switch to electric trucks and vans with £1bn funding</title>
+      <link>https://www.ft.com/content/68a214ad-fa5b-4a1a-b17f-86539f334ef8</link>
+      <description>&lt;![CDATA[UK backs switch to electric trucks and vans with £1bn funding]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 22:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/68a214ad-fa5b-4a1a-b17f-86539f334ef8</guid>
       <category>Finance</category>
     </item>
   </channel>
