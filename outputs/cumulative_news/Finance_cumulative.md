@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-23 23:34
+**最后更新时间**: 2026-03-24 06:02
+
+---
+
+## 🆕 最新更新 (2026-03-24 06:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Carmakers rush to secure aluminium as Middle East war hits supply](https://www.ft.com/content/167fdf4b-0afd-4a05-a6bd-e3d1518cd84d)
+**发布时间**: 2026-03-24 05:00
+
+#### [Hormuz fertiliser block will upend world’s food supply](https://www.ft.com/content/c1398187-304d-44d3-857f-673b8da0f87a)
+**发布时间**: 2026-03-24 05:00
+
+#### [China’s leaders hunt for strategic gains from US quagmire in Iran](https://www.ft.com/content/3f0b5309-2791-4370-a6d9-d0ed84820db5)
+**发布时间**: 2026-03-24 03:41
+
+#### [SoftBank tests its own borrowing limits with $30bn bet on OpenAI](https://www.ft.com/content/021d360f-23eb-469e-8894-14ac93fb7718)
+**发布时间**: 2026-03-24 01:15
+
+#### [Iran contradicts Trump and says no direct talks to end war](https://www.ft.com/content/f9f0980b-385d-4ad2-b242-3b89666282a5)
+**发布时间**: 2026-03-23 23:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This is a first-world problem’: I can’t roll over my $800,000 401(k) from my prior employer. What did I do wrong?](https://www.marketwatch.com/story/this-is-a-first-world-problem-im-72-my-company-wont-accept-my-800-000-401-k-rollover-what-now-93c5eb20?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 23:55
+
+#### [‘The bank told me I could be liable’: I found out why my brother, who has a reverse mortgage, ran out of money](https://www.marketwatch.com/story/the-bank-told-me-i-could-be-liable-i-found-out-why-my-brother-who-has-a-reverse-mortgage-ran-out-of-money-bd2d2b7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 23:53
 
 ---
 

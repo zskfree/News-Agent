@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 23:35:48 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 06:01:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:02:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年</title>
-      <link>https://www.qbitai.com/2026/03/391515.html</link>
-      <description>&lt;![CDATA[陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391515.html</guid>
+      <title>2026-03-24日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-24/</link>
+      <description>&lt;![CDATA[2026-03-24日刊]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 09:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-24/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>岚图泰山Ultra启动交付，全新一代896线激光雷达上车</title>
-      <link>https://www.qbitai.com/2026/03/391489.html</link>
-      <description>&lt;![CDATA[岚图泰山Ultra启动交付，全新一代896线激光雷达上车]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391489.html</guid>
+      <title>OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？</title>
+      <link>https://www.qbitai.com/2026/03/391567.html</link>
+      <description>&lt;![CDATA[OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 02:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391567.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>龙虾史上最大升级！但接了微信的千万别更</title>
+      <link>https://www.qbitai.com/2026/03/391520.html</link>
+      <description>&lt;![CDATA[龙虾史上最大升级！但接了微信的千万别更]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 01:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391520.html</guid>
       <category>Ai</category>
     </item>
   </channel>
