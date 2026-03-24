@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 06:02
+**最后更新时间**: 2026-03-24 08:56
+
+---
+
+## 🆕 最新更新 (2026-03-24 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Revolut profits surge to record as it wins market share](https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b)
+**发布时间**: 2026-03-24 07:29
+
+#### [Japan’s SMFG explores possible takeover of Jefferies](https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4)
+**发布时间**: 2026-03-24 07:23
+
+#### [Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG](https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797)
+**发布时间**: 2026-03-24 06:12
+
+#### [A billionaire is taking the UK’s Indian restaurants global](https://www.ft.com/content/697c8111-2d43-4e6a-a4cf-2a12f379641b)
+**发布时间**: 2026-03-24 05:00
+
+#### [The VC firm hunting ‘almost unemployable’ misfits](https://www.ft.com/content/4d29c556-bbd9-490e-a3c8-90f5b894af9e)
+**发布时间**: 2026-03-24 05:00
+
+#### [Palantir turns poisonous on the campaign trail](https://www.ft.com/content/5d6f924d-2e7e-4a5e-ae20-d4f8e29a7d17)
+**发布时间**: 2026-03-24 05:00
+
+#### [Iran launches missiles at Israel as Lebanon pounded](https://www.ft.com/content/f9f0980b-385d-4ad2-b242-3b89666282a5)
+**发布时间**: 2026-03-23 23:16
 
 ---
 

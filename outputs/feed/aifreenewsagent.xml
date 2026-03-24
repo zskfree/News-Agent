@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Mar 2026 06:01:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 06:02:48 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 08:55:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:56:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-24日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-24/</link>
-      <description>&lt;![CDATA[2026-03-24日刊]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-24/</guid>
+      <title>LeCun的世界模型单GPU就能跑了</title>
+      <link>https://www.qbitai.com/2026/03/391698.html</link>
+      <description>&lt;![CDATA[LeCun的世界模型单GPU就能跑了]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391698.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？</title>
-      <link>https://www.qbitai.com/2026/03/391567.html</link>
-      <description>&lt;![CDATA[OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 02:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391567.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>龙虾史上最大升级！但接了微信的千万别更</title>
-      <link>https://www.qbitai.com/2026/03/391520.html</link>
-      <description>&lt;![CDATA[龙虾史上最大升级！但接了微信的千万别更]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 01:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391520.html</guid>
+      <title>又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单</title>
+      <link>https://www.qbitai.com/2026/03/391668.html</link>
+      <description>&lt;![CDATA[又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391668.html</guid>
       <category>Ai</category>
     </item>
   </channel>

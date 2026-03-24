@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 06:02
+**最后更新时间**: 2026-03-24 08:56
+
+---
+
+## 🆕 最新更新 (2026-03-24 08:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OnlyFans幕后大佬去世！他留下的80亿“成人金矿”谁接盘？千万网红的饭碗悬了](https://www.tmtpost.com/7926838.html)
+**发布时间**: 2026-03-24 16:41
+
+#### [从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期](https://www.tmtpost.com/7926590.html)
+**发布时间**: 2026-03-24 15:05
+
+#### [茅台之下第一股，A股最贵的那颗芯片](https://www.tmtpost.com/7926619.html)
+**发布时间**: 2026-03-24 15:05
+
+#### [县城小厂IPO，雷军又赌对了](https://www.tmtpost.com/7926618.html)
+**发布时间**: 2026-03-24 15:05
+
+#### [With Meager Spending in R&D, Unitree Robotics Deserves 4.2 Billion Yuan to be Raised in IPO?](https://www.tmtpost.com/7926780.html)
+**发布时间**: 2026-03-24 14:52
+
+#### [锦欣康养赴港上市：关联交易2亿、突击分红近亿，谁在“落袋为安”？](https://www.tmtpost.com/7926326.html)
+**发布时间**: 2026-03-24 14:40
+
+#### [减重巨头决战线上，“可及性”成关键赛点](https://www.tmtpost.com/7926402.html)
+**发布时间**: 2026-03-24 14:39
+
+#### [华住新开店数创历史新高，同步又要优化600家门店](https://www.tmtpost.com/7922481.html)
+**发布时间**: 2026-03-24 14:12
+
+#### [俄乌冲突开启跨境收并购窗口，中国企业海外布局提速](https://www.tmtpost.com/7922908.html)
+**发布时间**: 2026-03-24 14:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 可观测如何助力 Agentic 时代的确定性工程？](https://www.infoq.cn/video/jzSzcszN0dLwv57hvaxk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 16:08
+
+#### [从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务](https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 15:18
+
+#### [HubSpot推出多模型AI代码审查工具Sidekick，反馈速度提升90%，工程师认可率达80%](https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 15:00
+
+#### [Java 26 发布，带来语言创新、类库优化、性能提升与安全性增强](https://www.infoq.cn/article/k2M5O0zzCGgw2GsaCDxp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-24 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一个运维人写了 12 年的开源项目，Star 刚刚破了 3 万。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532410&idx=1&sn=61dbed899ddea37d3b1bec24fcca4c1e)
+**发布时间**: 2026-03-24 15:13
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [9车齐发，余承东缺席，鸿蒙还缺五个“汪峰”](http://www.huxiu.com/article/4844808.html?f=wangzhan)
+**发布时间**: 2026-03-24 14:38
 
 ---
 

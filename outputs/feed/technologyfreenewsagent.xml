@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Mar 2026 06:02:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 06:02:36 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 08:56:00 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:56:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>芯片2030年要国产80%，但眼下AI安全投入竟不足5%：Gartner 2026拉响CIO警报</title>
-      <link>https://www.tmtpost.com/7926480.html</link>
-      <description>&lt;![CDATA[芯片2030年要国产80%，但眼下AI安全投入竟不足5%：Gartner 2026拉响CIO警报]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7926480.html</guid>
+      <title>【钛晨报】国家对成品油价格采取临时调控措施：平均每升少涨约0.85元；马斯克宣布将在美国建设芯片制造中心，目标是量产2纳米工艺芯片；影石刘靖康发文回应大疆起诉</title>
+      <link>https://www.tmtpost.com/7926145.html</link>
+      <description>&lt;![CDATA[【钛晨报】国家对成品油价格采取临时调控措施：平均每升少涨约0.85元；马斯克宣布将在美国建设芯片制造中心，目标是量产2纳米工艺芯片；影石刘靖康发文回应大疆起诉]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7926145.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GTC 2026: 黄仁勋的万亿美元豪赌，NVIDIA 正在变成什么？</title>
-      <link>https://www.tmtpost.com/7926544.html</link>
-      <description>&lt;![CDATA[GTC 2026: 黄仁勋的万亿美元豪赌，NVIDIA 正在变成什么？]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 12:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7926544.html</guid>
+      <title>英伟达联手 Akamai：AI Grid 背后的 Token 成本与吞吐博弈</title>
+      <link>https://www.infoq.cn/article/cBqdxzzI0YOXSUAbsaxz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达联手 Akamai：AI Grid 背后的 Token 成本与吞吐博弈]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cBqdxzzI0YOXSUAbsaxz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI芯片：回望过去一年，展望2026</title>
-      <link>https://www.tmtpost.com/7926538.html</link>
-      <description>&lt;![CDATA[AI芯片：回望过去一年，展望2026]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7926538.html</guid>
+      <title>异格技术完成数亿元A轮融资，加速高端FPGA芯片国产化｜融资速递</title>
+      <link>https://www.tmtpost.com/7926262.html</link>
+      <description>&lt;![CDATA[异格技术完成数亿元A轮融资，加速高端FPGA芯片国产化｜融资速递]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7926262.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7天狂飙2.3万Star：在GitHub上“开外包公司”，这个新项目戳破大模型的全能幻觉</title>
-      <link>https://www.tmtpost.com/7925106.html</link>
-      <description>&lt;![CDATA[7天狂飙2.3万Star：在GitHub上“开外包公司”，这个新项目戳破大模型的全能幻觉]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7925106.html</guid>
+      <title>从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期</title>
+      <link>https://www.tmtpost.com/7926590.html</link>
+      <description>&lt;![CDATA[从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7926590.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agentic AI 时代，软件工程如何被重塑｜QCon 北京 2026 即将开幕</title>
-      <link>https://www.infoq.cn/article/oWDM8y5ozWwrNdyUdhc1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agentic AI 时代，软件工程如何被重塑｜QCon 北京 2026 即将开幕]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oWDM8y5ozWwrNdyUdhc1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务</title>
+      <link>https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务]]&gt;</description>
+      <pubDate>Tue, 24 Mar 2026 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "aceb030123b8711e8f1e58258de1a7ded3dc5ddf0502e636f6134e11e8544702": {
-        "title": "谁，在阻挡CPO的黄金时代？",
-        "link": "https://www.tmtpost.com/7886663.html",
-        "published_date": "Sun, 22 Feb 2026 10:16:00 GMT",
-        "first_seen": "2026-02-22T08:36:26.788881"
-      },
-      "d5d657f234c246f28ab1df0472338aaf7cade536451b9bc7189f49a79e6f146c": {
-        "title": "中国 AI 破亿潮来了，最难的题留给了社交",
-        "link": "https://www.tmtpost.com/7886501.html",
-        "published_date": "Sun, 22 Feb 2026 10:53:00 GMT",
-        "first_seen": "2026-02-22T08:36:26.788889"
-      },
-      "b654cfe36ca1d5240cbfc9c40ca7e734ac2dfeb42a1b156e3aa7284681ec3b97": {
-        "title": "春晚四款人形机器人，用的谁家零部件？",
-        "link": "https://www.tmtpost.com/7886661.html",
-        "published_date": "Sun, 22 Feb 2026 10:31:00 GMT",
-        "first_seen": "2026-02-22T08:36:26.788891"
-      },
-      "32195c091c1fa3f9dd716c6996a35baed7e1c3a805106dab29cba6ce7c700850": {
-        "title": "LocalStack for AWS放弃社区版引发开发者担忧",
-        "link": "https://www.infoq.cn/article/Ek2SwBQSUmCAbg9V7WWD?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 22 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-22T08:36:26.788893"
-      },
-      "443f0f443b252d2346731329550faf27fec38d54b182f9496e49315cd34ed7e8": {
-        "title": "我们建造了顶级供应链体系，却可能输掉了最重要的战争：一位亲历者对数字化转型的终极反思",
-        "link": "https://www.tmtpost.com/7886362.html",
-        "published_date": "Sun, 22 Feb 2026 15:20:00 GMT",
-        "first_seen": "2026-02-22T08:36:26.788895"
-      },
       "f7f48dcbc7ef12080cd73af4c5c2ccc32df4e3dcd25deee52b87cf1cce5863e1": {
         "title": "别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代",
         "link": "https://www.infoq.cn/article/4LPuZzDH4CXh5G5h5N4G?utm_source=rss&utm_medium=article",
@@ -2671,6 +2641,36 @@
         "link": "https://www.infoq.cn/article/oWDM8y5ozWwrNdyUdhc1?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 24 Mar 2026 12:38:00 GMT",
         "first_seen": "2026-03-24T06:02:36.632162"
+      },
+      "7a664d7ae497b8e52c8a665c4317dc3bb06f4322181c3ecd2800d5637cf65a57": {
+        "title": "【钛晨报】国家对成品油价格采取临时调控措施：平均每升少涨约0.85元；马斯克宣布将在美国建设芯片制造中心，目标是量产2纳米工艺芯片；影石刘靖康发文回应大疆起诉",
+        "link": "https://www.tmtpost.com/7926145.html",
+        "published_date": "Tue, 24 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.904018"
+      },
+      "e12bb15fe5a9d6b2080c972aaa102dfb3cf624910cadb9bef247ad61d1c1ad0a": {
+        "title": "英伟达联手 Akamai：AI Grid 背后的 Token 成本与吞吐博弈",
+        "link": "https://www.infoq.cn/article/cBqdxzzI0YOXSUAbsaxz?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 11:15:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.904027"
+      },
+      "c1fe67ea6a5de6095022d809a38a8f70fa9d000d34a3801e42c8284cc7744338": {
+        "title": "异格技术完成数亿元A轮融资，加速高端FPGA芯片国产化｜融资速递",
+        "link": "https://www.tmtpost.com/7926262.html",
+        "published_date": "Tue, 24 Mar 2026 10:30:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.904030"
+      },
+      "002e448d0406061da338ae7883ef4a2f08c0126909dba2f0f0177d8d257c3ca4": {
+        "title": "从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期",
+        "link": "https://www.tmtpost.com/7926590.html",
+        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.904032"
+      },
+      "9bb308eb6cd21d875e0868f822f674f2fa3b3a3d3d9d8574d7681d14f957c1d4": {
+        "title": "从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务",
+        "link": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Mar 2026 15:18:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.904034"
       }
     },
     "Finance": {
@@ -4593,6 +4593,24 @@
         "link": "https://www.marketwatch.com/story/the-bank-told-me-i-could-be-liable-i-found-out-why-my-brother-who-has-a-reverse-mortgage-ran-out-of-money-bd2d2b7a?mod=mw_rss_topstories",
         "published_date": "Mon, 23 Mar 2026 23:53:00 GMT",
         "first_seen": "2026-03-24T06:02:48.031296"
+      },
+      "5f60b0df18ee34335e6faaf5eb38d1b887b14e8a852d4dde579f4a2335640584": {
+        "title": "Revolut profits surge to record as it wins market share",
+        "link": "https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b",
+        "published_date": "Tue, 24 Mar 2026 07:29:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.939147"
+      },
+      "1ed50eafdcfb610131e61c6656e2797115c448d25911b16dff0ef29037effb4e": {
+        "title": "Japan’s SMFG explores possible takeover of Jefferies",
+        "link": "https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4",
+        "published_date": "Tue, 24 Mar 2026 07:23:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.939153"
+      },
+      "49dce1af8b1565fafb53bfa7837d4dc78c7f1374d9fd18ec7f844350feec1968": {
+        "title": "Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG",
+        "link": "https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797",
+        "published_date": "Tue, 24 Mar 2026 06:12:00 GMT",
+        "first_seen": "2026-03-24T08:56:31.939155"
       }
     },
     "Ai": {
@@ -5849,13 +5867,25 @@
         "link": "https://www.qbitai.com/2026/03/391520.html",
         "published_date": "Tue, 24 Mar 2026 01:24:00 GMT",
         "first_seen": "2026-03-24T06:02:48.182967"
+      },
+      "ff715df2ddbd671f37c6ff11afd944ec8eb96b23d3f7d7bed8d659728213c24e": {
+        "title": "LeCun的世界模型单GPU就能跑了",
+        "link": "https://www.qbitai.com/2026/03/391698.html",
+        "published_date": "Tue, 24 Mar 2026 07:00:00 GMT",
+        "first_seen": "2026-03-24T08:56:32.086277"
+      },
+      "2122c8dd3b7c4b4e9fd470ac78ccbc3f7e78a0e15fb7ada54b97f46cb6fff8fc": {
+        "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+        "link": "https://www.qbitai.com/2026/03/391668.html",
+        "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
+        "first_seen": "2026-03-24T08:56:32.086285"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-24T06:02:36.632164",
-    "Finance": "2026-03-24T06:02:48.031299",
-    "Ai": "2026-03-24T06:02:48.182969"
+    "Technology": "2026-03-24T08:56:31.904037",
+    "Finance": "2026-03-24T08:56:31.939157",
+    "Ai": "2026-03-24T08:56:32.086287"
   }
 }
