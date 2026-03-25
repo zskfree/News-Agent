@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 23:34
+**最后更新时间**: 2026-03-25 06:03
+
+---
+
+## 🆕 最新更新 (2026-03-25 06:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil back near $100 as Trump sends mixed signals on war](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-25 05:16
+
+#### [Nato chief riles Europe by backing Trump’s war in Iran](https://www.ft.com/content/6e0b65e1-df3c-41cc-aec1-628dd925f94a)
+**发布时间**: 2026-03-25 05:00
+
+#### [European airlines hold off jet fuel hedging in Iran war gamble](https://www.ft.com/content/6d4dc223-3295-49bb-8b35-041a5e6a96b6)
+**发布时间**: 2026-03-25 05:00
+
+#### [How the shadow fleet is capitalising on the chaos of war](https://ig.ft.com/shadow-fleet/)
+**发布时间**: 2026-03-25 05:00
+
+#### [We must not underestimate the peril for democracy](https://www.ft.com/content/c4c1dc52-4e85-4eba-9ba3-e704a0827558)
+**发布时间**: 2026-03-25 05:00
+
+#### [Farage’s Reform UK drops pledge to nationalise water and energy companies](https://www.ft.com/content/be4b6cf0-21c8-466b-9458-dac864ab51b1)
+**发布时间**: 2026-03-25 05:00
+
+#### [Tumbling gold price puts ‘haven’ status in doubt](https://www.ft.com/content/dbb810ae-0886-40fa-9f2c-e4676eec299c)
+**发布时间**: 2026-03-25 05:00
+
+#### [China reviews $2bn Manus sale to Meta as founders barred from leaving country](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a)
+**发布时间**: 2026-03-25 04:38
+
+#### [Musk lawyers try to bar Delaware judge over LinkedIn ‘like’ cheering legal defeat](https://www.ft.com/content/c53cfaa8-8db1-49b1-b877-3ac7b2095966)
+**发布时间**: 2026-03-25 03:27
+
+#### [Democrat wins election in Trump’s Mar-a-Lago district](https://www.ft.com/content/d63336c1-851f-4ab2-a68a-8473576a23ad)
+**发布时间**: 2026-03-25 02:44
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [7 software stocks set to thrive in the face of AI uncertainty](https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 00:44
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 23:35:33 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 06:02:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 06:04:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TurboQuant: Redefining AI efficiency with extreme compression</title>
-      <link>https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</link>
-      <description>&lt;![CDATA[TurboQuant: Redefining AI efficiency with extreme compression]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 19:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</guid>
+      <title>2026-03-25日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-25/</link>
+      <description>&lt;![CDATA[2026-03-25日刊]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-25/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mapping the modern world: How S2Vec learns the language of our cities</title>
-      <link>https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/</link>
-      <description>&lt;![CDATA[Mapping the modern world: How S2Vec learns the language of our cities]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/</guid>
+      <title>阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能</title>
+      <link>https://www.qbitai.com/2026/03/391830.html</link>
+      <description>&lt;![CDATA[阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391830.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI全链路加持！一加15T打造全能小屏，售价4299元起</title>
-      <link>https://www.qbitai.com/2026/03/391775.html</link>
-      <description>&lt;![CDATA[AI全链路加持！一加15T打造全能小屏，售价4299元起]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391775.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名</title>
-      <link>https://www.qbitai.com/2026/03/391760.html</link>
-      <description>&lt;![CDATA[龙虾爆火之后，AI初创的全球化机会来了吗？｜线下沙龙报名]]&gt;</description>
-      <pubDate>Tue, 24 Mar 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391760.html</guid>
+      <title>OpenAI关停Sora！25个月从封神到退场</title>
+      <link>https://www.qbitai.com/2026/03/391799.html</link>
+      <description>&lt;![CDATA[OpenAI关停Sora！25个月从封神到退场]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391799.html</guid>
       <category>Ai</category>
     </item>
   </channel>

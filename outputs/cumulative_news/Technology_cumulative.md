@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-24 23:34
+**最后更新时间**: 2026-03-25 06:03
+
+---
+
+## 🆕 最新更新 (2026-03-25 06:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”](https://www.tmtpost.com/7928400.html)
+**发布时间**: 2026-03-25 13:44
+
+#### [同仁堂医养30日港股挂牌：在中医医疗服务赛道上，做时间的朋友](https://www.tmtpost.com/7928318.html)
+**发布时间**: 2026-03-25 12:55
+
+#### [宏明电子A股敲钟，四川能源发展集团旗下上市公司增至6家](https://www.tmtpost.com/7928357.html)
+**发布时间**: 2026-03-25 12:51
+
+#### [瑞士信息与通信科技公司Kyan Health研发员工心理健康支持应用程序，应对职场心理健康问题](https://www.tmtpost.com/7928236.html)
+**发布时间**: 2026-03-25 11:56
+
+#### [康师傅首次提出“狼性化”，营收近10年第一次“负增长”](https://www.tmtpost.com/7927333.html)
+**发布时间**: 2026-03-25 11:54
+
+#### [越南物流大洗牌：绑定巨头，还是另寻出路？](https://www.tmtpost.com/7928063.html)
+**发布时间**: 2026-03-25 11:53
+
+#### [马斯克造芯片，年产2000亿颗，80%将在太空运转](https://www.tmtpost.com/7927919.html)
+**发布时间**: 2026-03-25 11:53
+
+#### [2026，具身智能开始「清场」](https://www.tmtpost.com/7928180.html)
+**发布时间**: 2026-03-25 11:49
+
+#### [9.9元玩一天，有商家爆卖上百万，“手搓经济”又出新爆款](https://www.tmtpost.com/7928073.html)
+**发布时间**: 2026-03-25 11:49
+
+#### [豪掷5000亿美元，孙正义要做“AI电力之王”？](https://www.tmtpost.com/7926481.html)
+**发布时间**: 2026-03-25 11:48
+
+#### [指望淘天很快交出高分，是不现实的](https://www.tmtpost.com/7927292.html)
+**发布时间**: 2026-03-25 11:48
+
+#### [哈佛教授收了个AI研究生：干活猛得像学霸，撒谎精得像学渣](https://www.tmtpost.com/7928131.html)
+**发布时间**: 2026-03-25 11:30
+
+#### [武汉，涨疯了](https://www.tmtpost.com/7928128.html)
+**发布时间**: 2026-03-25 11:30
+
+#### [30亿美元押注PI3Kα，诺华打响乳腺癌治疗夺权战](https://www.tmtpost.com/7928120.html)
+**发布时间**: 2026-03-25 11:30
+
+#### [毛利50%，2平米的自拍店，正在闷声赚钱？](https://www.tmtpost.com/7928052.html)
+**发布时间**: 2026-03-25 11:23
+
+#### [Claude“虾化”：杀不死OpenClaw，但划定了它的天花板](https://www.tmtpost.com/7928055.html)
+**发布时间**: 2026-03-25 11:22
+
+#### [跨国药企抢滩创新药“支付基建”新高地](https://www.tmtpost.com/7928092.html)
+**发布时间**: 2026-03-25 11:22
+
+#### [Meta收购AI社交平台Moltbook，扎克伯格要做什么？](https://www.tmtpost.com/7928106.html)
+**发布时间**: 2026-03-25 11:22
+
+#### [盛夏永无张雪峰](https://www.tmtpost.com/7927943.html)
+**发布时间**: 2026-03-25 11:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [在边缘应用中，实现Kubernetes的主动扩缩容](https://www.infoq.cn/article/eIMGrLT6DPo0iyCfe1Cq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 12:22
+
+#### [Spring近期资讯：Boot、Security、Integration、AI和AMQP的第三个里程碑版本发布](https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 12:12
+
+#### [35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单](https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 11:53
+
+#### [上市2年狂招大批应届生、不用坐班！Reddit CEO：“AI 原生一代”太有价值了，竞争异常激烈](https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 11:01
+
+#### [.NET 11 Preview 2 带来了性能提升、经改进的地图功能以及 OpenTelemetry 原生支持](https://www.infoq.cn/article/MtzxaYQU6J3R77qQiZ8V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 11:00
+
+#### [给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系｜QCon北京](https://www.infoq.cn/article/7aAHoPVD5XlR7oVxO4el?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 10:00
+
+#### [人类在 AI 辅助软件开发中应扮演何种角色？](https://www.infoq.cn/article/eu4vZqJqSuXv3hsEoIo9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 26.4 值得关注的新特性](https://sspai.com/post/107743)
+**发布时间**: 2026-03-25 11:37
+
+#### [派早报：一加 15T 正式发布、Apple 推送全平台 26.4 版本更新等](https://sspai.com/post/107769)
+**发布时间**: 2026-03-25 08:09
+
+#### [当历史被重新看见：用 Apple 产品辅助古代壁画修复](https://sspai.com/post/107740)
+**发布时间**: 2026-03-24 16:33
 
 ---
 
