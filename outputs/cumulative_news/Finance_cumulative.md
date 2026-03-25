@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 08:54
+**最后更新时间**: 2026-03-25 23:38
+
+---
+
+## 🆕 最新更新 (2026-03-25 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil volatile as Iran lays out own terms to end conflict](https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b)
+**发布时间**: 2026-03-25 23:30
+
+#### [SpaceX boosts IPO ambition with plans to raise $75bn](https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1)
+**发布时间**: 2026-03-25 22:17
+
+#### [Meta and Google liable for harm to children’s mental health in landmark US case](https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a)
+**发布时间**: 2026-03-25 22:05
+
+#### [Republicans back Iran war even as voters feel ‘Biden-level’ petrol price pain](https://www.ft.com/content/44d96671-06bf-4279-beb5-c2796fa3e383)
+**发布时间**: 2026-03-25 21:48
+
+#### [UK says Chinese wind turbine maker poses national security threat](https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b)
+**发布时间**: 2026-03-25 21:22
+
+#### [Russia sending drones to Iran, western intelligence says](https://www.ft.com/content/d5d7291b-8a53-42cd-b10a-4e02fbcf9047)
+**发布时间**: 2026-03-25 21:00
+
+#### [Five-year UK mortgage rates now below two-year rates](https://www.ft.com/content/c0b04e06-ed8a-484e-8921-18f7cebb8a9e)
+**发布时间**: 2026-03-25 17:08
+
+#### [Markets were not made for Trump’s never-ending ping-pong](https://www.ft.com/content/ccdbf058-c395-416a-9e69-212cd52463d3)
+**发布时间**: 2026-03-25 16:18
+
+#### [How a US assault on Kharg Island could unfold](https://www.ft.com/content/187deed0-f1c0-4eb0-a017-ac59dc30750a)
+**发布时间**: 2026-03-25 13:00
+
+#### [Dane who lit up outside White House ‘real winner’ of elections](https://www.ft.com/content/a2dbcb98-1e95-4070-a5c8-fc7604477904)
+**发布时间**: 2026-03-25 12:54
+
+#### [Apple rolls out UK age checks for iPhone users](https://www.ft.com/content/c36dc645-8cd4-4e69-a9ce-3a0ac4071264)
+**发布时间**: 2026-03-25 12:21
+
+#### [London house prices fall for sixth consecutive month](https://www.ft.com/content/0ae454cb-285f-47a2-8f42-7e589ab8e307)
+**发布时间**: 2026-03-25 11:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [McDonald’s could make $100 million in just the first few days of selling ‘KPop Demon Hunters’ meals](https://www.marketwatch.com/story/gonna-be-golden-these-kpop-demon-hunters-meals-could-make-mcdonalds-100-million-in-just-the-first-few-days-d0fc1fe2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:46
+
+#### [Micron’s stock is dropping. Is Google partly to blame?](https://www.marketwatch.com/story/microns-stock-is-dropping-is-google-partly-to-blame-d4cad72e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:23
+
+#### [This fund has jumped 1,200% on Anthropic and SpaceX hype. Retail investors should be cautious.](https://www.marketwatch.com/story/this-fund-has-jumped-1-200-on-anthropic-and-spacex-hype-retail-investors-should-be-cautious-2b276c55?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:11
+
+#### [Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting](https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:48
+
+#### [The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL](https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:27
+
+#### [Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it](https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:26
+
+#### [Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.](https://www.marketwatch.com/story/super-micro-dell-and-hpe-have-been-red-hot-stocks-this-week-whats-behind-the-big-moves-9fc8acc7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:02
+
+#### [Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix](https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:00
+
+#### [JetBlue’s stock turns positive for the year on merger talk](https://www.marketwatch.com/story/jetblues-stock-turns-positive-for-the-year-on-merger-talk-fcd8e4fd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 20:48
 
 ---
 

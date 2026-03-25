@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7790ea6348d70bfa1382a6d637a125be57aedec926ec4888bd9c1c6154c7a891": {
-        "title": "“邪修”AI芯片的Taalas，成色如何？｜AGI焦点",
-        "link": "https://www.tmtpost.com/7887595.html",
-        "published_date": "Mon, 23 Feb 2026 21:37:00 GMT",
-        "first_seen": "2026-02-23T23:36:20.719448"
-      },
-      "698608d7ba40f5d289722b76bf047648b119dd76baaa1b9302f8579e19042967": {
-        "title": "MiniMax 成为 Token 调用第一后，模型厂商必须面对的 AgentOS 现实",
-        "link": "https://www.infoq.cn/article/SS1mKwCwmySZESV0NlgD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Feb 2026 18:44:00 GMT",
-        "first_seen": "2026-02-23T23:36:20.719454"
-      },
-      "70934c772ec214f8f3b384df82297b384162829c830a07dfe27c7532642aa17b": {
-        "title": "YC最新断言：AI代理时代，创业者要做智能体想要的东西，而不是人想要的",
-        "link": "https://www.tmtpost.com/7887278.html",
-        "published_date": "Mon, 23 Feb 2026 17:45:00 GMT",
-        "first_seen": "2026-02-23T23:36:20.719457"
-      },
-      "538782700ae945df733226564d2fda2644ab5126c5407762ace905750a2d88ea": {
-        "title": "六条路，一条心：商业火箭回收技术全解析",
-        "link": "https://www.tmtpost.com/7887233.html",
-        "published_date": "Mon, 23 Feb 2026 19:02:00 GMT",
-        "first_seen": "2026-02-23T23:36:20.719458"
-      },
-      "44fcb133b439112afeacbf1c342cce7bf527069601936e9f9cbd0dfb77c32840": {
-        "title": "DAU已死，TPD永生",
-        "link": "https://www.tmtpost.com/7887199.html",
-        "published_date": "Mon, 23 Feb 2026 17:44:00 GMT",
-        "first_seen": "2026-02-23T23:36:20.719460"
-      },
       "3d5d477423d2eccebc2cceaeb8c4045f0d55ee139ae88e765e03d4dc260a3eb6": {
         "title": "月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力",
         "link": "https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 25 Mar 2026 14:32:00 GMT",
         "first_seen": "2026-03-25T08:55:04.706220"
+      },
+      "b4d5c5e22519fcb7cb4d1351635e3cfc231a75a8677eda402e82fd9b28c6ac04": {
+        "title": "中国通用大模型十强争霸：谁配得上“第一”这个称号？",
+        "link": "https://www.tmtpost.com/7928697.html",
+        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-25T23:39:11.998396"
+      },
+      "8b33a6a7e2631b1d7ee1ab9298ed41caf3ac8d1fcf8cadf3961ca6ac356b4453": {
+        "title": "【钛晨报】加快建立长期护理保险制度，中办、国办最新部署；拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿；SpaceX计划最早于本周提交IPO申请筹集超过750亿美元资金",
+        "link": "https://www.tmtpost.com/7929223.html",
+        "published_date": "Thu, 26 Mar 2026 07:20:00 GMT",
+        "first_seen": "2026-03-25T23:39:11.998409"
+      },
+      "858c405d50c0476993369f4c6f33c412bb00f6198db5e2be65055ae53695f1c4": {
+        "title": "“龙虾思想”背后：把AI战火正式推向软件层",
+        "link": "https://www.tmtpost.com/7928874.html",
+        "published_date": "Wed, 25 Mar 2026 18:29:00 GMT",
+        "first_seen": "2026-03-25T23:39:11.998411"
+      },
+      "31aa7d5848ecd1e3ac65afa516c3c608062c59c13ec42bc02d7514a6e32801cc": {
+        "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
+        "link": "https://sspai.com/post/107800",
+        "published_date": "Wed, 25 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-25T23:39:11.998413"
+      },
+      "5f4fdfc55fc0aeb14a3dd4d744f4bc5e4ac966890c6ecf99994bcd99f76e4c28": {
+        "title": "开源 2 周 5 万 Star！AI 大佬开源了一个自己做实验的工具。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=2&sn=5f7aa069d2da91923ca2dddb3f98aeab",
+        "published_date": "Wed, 25 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-25T23:39:11.998416"
       }
     },
     "Finance": {
-      "9f6288dd0e51875aa3cc8c8860d2def5b5572352c708a27825a0f90a5b21883f": {
-        "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
-        "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 22:52:00 GMT",
-        "first_seen": "2026-02-23T23:35:54.600722"
-      },
-      "e137ea93b609a8d6f144b87d0e628d04027d95cce2476cc2f5871b96b66131ac": {
-        "title": "Big Tech’s ‘Lag 7’ is putting the S&P 500 — and your index fund — at risk",
-        "link": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 23:18:00 GMT",
-        "first_seen": "2026-02-23T23:35:54.600734"
-      },
-      "9e559d2a87055400717bf1d58172551e6dc3925d76068be9a2fe840186294536": {
-        "title": "Novo Nordisk’s stock closes at 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial",
-        "link": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 21:59:00 GMT",
-        "first_seen": "2026-02-23T23:35:54.600737"
-      },
-      "2c641a480a0497d64b129e33d9acdad9091d59b1daf30b1abad5f7893cfa817a": {
-        "title": "Why Nvidia’s earnings report isn’t the market force it once was",
-        "link": "https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 21:54:00 GMT",
-        "first_seen": "2026-02-23T23:35:54.600739"
-      },
-      "ad24f4dcf6e7eeab301c54d832d31b2b7dc71166202bc3768e901f208d28eb66": {
-        "title": "Did a blog post just cause software stocks to lose more than $200 billion in market cap?",
-        "link": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 22:47:00 GMT",
-        "first_seen": "2026-02-23T23:35:54.600741"
-      },
       "744751eff38875161b7013bfe85d27faeda5dfef6cbf4d20ae94bd3d09d31430": {
         "title": "Trump’s global tariff takes effect at 10%",
         "link": "https://www.ft.com/content/61c2e6d6-5e82-471d-b189-3d57d53407ae",
@@ -4617,39 +4587,39 @@
         "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
         "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
         "first_seen": "2026-03-25T08:55:04.741699"
+      },
+      "fb22c394d9c1ac4b114a5f2bac14c54fb206bacf8dc65dfa6bf185452305bbbc": {
+        "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
+        "link": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
+        "published_date": "Wed, 25 Mar 2026 22:17:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.198395"
+      },
+      "132579e4ad2524dddf53bd7ea4461c583f7e9410ee1b948610d29da67581ca08": {
+        "title": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
+        "link": "https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:26:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.198402"
+      },
+      "d93de22a654be5030e078599b226e614d6761c9934500b0e34d171ce577665ef": {
+        "title": "Meta and Google liable for harm to children’s mental health in landmark US case",
+        "link": "https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a",
+        "published_date": "Wed, 25 Mar 2026 22:05:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.198404"
+      },
+      "34ebbc97297e726c259f4cf604e60b3bf45dc8d4690fa6fe029477e76de19cba": {
+        "title": "Oil volatile as Iran lays out own terms to end conflict",
+        "link": "https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b",
+        "published_date": "Wed, 25 Mar 2026 23:30:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.198406"
+      },
+      "e59d8f2f1c0ee225513d7535d63a097d8616fcff6d36221fdaed0d5edc69dc1f": {
+        "title": "UK says Chinese wind turbine maker poses national security threat",
+        "link": "https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b",
+        "published_date": "Wed, 25 Mar 2026 21:22:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.198407"
       }
     },
     "Ai": {
-      "2ac88ba8ad5fb9a9ecfee5499b1f6a36d2a37c331f0a6adf528e338f92371a61": {
-        "title": "AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-23-7",
-        "published_date": "Mon, 23 Feb 2026 20:41:00 GMT",
-        "first_seen": "2026-02-23T23:36:05.138755"
-      },
-      "1d9cebde6d66b20f0edfa4428f7bb3787f01b2bbdb3efc4ff9da7cbc1e8c0bfc": {
-        "title": "ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-23-2",
-        "published_date": "Mon, 23 Feb 2026 20:14:00 GMT",
-        "first_seen": "2026-02-23T23:36:05.138761"
-      },
-      "47ba40abf6243a42ec2e9fa6fc1a567c7820500c54a422821d481374ce25e0c4": {
-        "title": "项目陷入停滞、算力明争暗斗，5000亿美元的「星际之门」何去何从？",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-23-6",
-        "published_date": "Mon, 23 Feb 2026 20:28:00 GMT",
-        "first_seen": "2026-02-23T23:36:05.138763"
-      },
-      "a651e75258064b64da656a07cbef9b2e81400d5d7bc51b14dfb20420ad68c64f": {
-        "title": "Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-23-4",
-        "published_date": "Mon, 23 Feb 2026 20:22:00 GMT",
-        "first_seen": "2026-02-23T23:36:05.138765"
-      },
-      "7008508b7403f77ec12e31cd124e46984d5db00fd46a662d6d5320153fd55e0c": {
-        "title": "揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-23-3",
-        "published_date": "Mon, 23 Feb 2026 20:18:00 GMT",
-        "first_seen": "2026-02-23T23:36:05.138767"
-      },
       "84574ca4c4f0478e151c65fadfa5057f531564345382edfb3b077c4e25674902": {
         "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
         "link": "https://www.jiqizhixin.com/articles/2026-02-24-2",
@@ -5897,13 +5867,31 @@
         "link": "https://www.qbitai.com/2026/03/391890.html",
         "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
         "first_seen": "2026-03-25T08:55:04.890406"
+      },
+      "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
+        "title": "第一批“首席龙虾官”，月薪6万",
+        "link": "https://www.qbitai.com/2026/03/392128.html",
+        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.358048"
+      },
+      "78b5487087bfcde7fb5fa673d647be03db692cb03715fbd07ed3624d537c5ddc": {
+        "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+        "link": "https://www.qbitai.com/2026/03/392121.html",
+        "published_date": "Wed, 25 Mar 2026 11:31:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.358056"
+      },
+      "1d3c225902250bf322ec59ef2ff106c37e054006737f61d2ef1c1a761a509790": {
+        "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+        "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
+        "published_date": "Wed, 25 Mar 2026 09:14:00 GMT",
+        "first_seen": "2026-03-25T23:39:28.358059"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-25T08:55:04.706222",
-    "Finance": "2026-03-25T08:55:04.741703",
-    "Ai": "2026-03-25T08:55:04.890408"
+    "Technology": "2026-03-25T23:39:11.998418",
+    "Finance": "2026-03-25T23:39:28.198411",
+    "Ai": "2026-03-25T23:39:28.358061"
   }
 }

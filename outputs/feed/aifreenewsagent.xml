@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Mar 2026 08:54:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 08:55:04 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:39:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先</title>
-      <link>https://www.qbitai.com/2026/03/392024.html</link>
-      <description>&lt;![CDATA[DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392024.html</guid>
+      <title>第一批“首席龙虾官”，月薪6万</title>
+      <link>https://www.qbitai.com/2026/03/392128.html</link>
+      <description>&lt;![CDATA[第一批“首席龙虾官”，月薪6万]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392128.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国AI音乐，悄悄把全球第一拿走了</title>
-      <link>https://www.qbitai.com/2026/03/391839.html</link>
-      <description>&lt;![CDATA[中国AI音乐，悄悄把全球第一拿走了]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391839.html</guid>
+      <title>睿尔曼“茶艺机器人”亮相2026中关村论坛</title>
+      <link>https://www.qbitai.com/2026/03/392121.html</link>
+      <description>&lt;![CDATA[睿尔曼“茶艺机器人”亮相2026中关村论坛]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392121.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！</title>
-      <link>https://www.qbitai.com/2026/03/391894.html</link>
-      <description>&lt;![CDATA[WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 06:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391894.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub</title>
-      <link>https://www.qbitai.com/2026/03/391890.html</link>
-      <description>&lt;![CDATA[首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391890.html</guid>
+      <title>Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini</title>
+      <link>https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/</link>
+      <description>&lt;![CDATA[Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 09:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/</guid>
       <category>Ai</category>
     </item>
   </channel>
