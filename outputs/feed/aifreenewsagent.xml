@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Mar 2026 06:02:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 06:04:13 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 08:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:55:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-25日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-25/</link>
-      <description>&lt;![CDATA[2026-03-25日刊]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-25/</guid>
+      <title>DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先</title>
+      <link>https://www.qbitai.com/2026/03/392024.html</link>
+      <description>&lt;![CDATA[DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 06:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392024.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能</title>
-      <link>https://www.qbitai.com/2026/03/391830.html</link>
-      <description>&lt;![CDATA[阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 03:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391830.html</guid>
+      <title>中国AI音乐，悄悄把全球第一拿走了</title>
+      <link>https://www.qbitai.com/2026/03/391839.html</link>
+      <description>&lt;![CDATA[中国AI音乐，悄悄把全球第一拿走了]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391839.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI关停Sora！25个月从封神到退场</title>
-      <link>https://www.qbitai.com/2026/03/391799.html</link>
-      <description>&lt;![CDATA[OpenAI关停Sora！25个月从封神到退场]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391799.html</guid>
+      <title>WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！</title>
+      <link>https://www.qbitai.com/2026/03/391894.html</link>
+      <description>&lt;![CDATA[WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 06:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391894.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub</title>
+      <link>https://www.qbitai.com/2026/03/391890.html</link>
+      <description>&lt;![CDATA[首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391890.html</guid>
       <category>Ai</category>
     </item>
   </channel>

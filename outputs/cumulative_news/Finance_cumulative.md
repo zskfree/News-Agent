@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 06:03
+**最后更新时间**: 2026-03-25 08:54
+
+---
+
+## 🆕 最新更新 (2026-03-25 08:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation held steady at 3% in February before energy shock](https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b)
+**发布时间**: 2026-03-25 07:53
+
+#### [What’s moving long-term interest rates?](https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8)
+**发布时间**: 2026-03-25 06:30
+
+#### [Oil slides below $100 after US sends Iran plan to end conflict](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-25 05:16
+
+#### [The vessels capitalising on the chaos of war](https://ig.ft.com/shadow-fleet/)
+**发布时间**: 2026-03-25 05:00
+
+#### [US to deploy more troops even as Trump praises Iran talks](https://www.ft.com/content/24ec59d8-78d7-44f1-9095-a3200abbb3d9)
+**发布时间**: 2026-03-24 23:17
 
 ---
 

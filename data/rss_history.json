@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "465ee226ab9097501cd0b7821a2c20f1cbe2d32458f35f3f42321c0b19804005": {
-        "title": "“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活",
-        "link": "https://www.infoq.cn/article/Ki4t4mNFY92hisCVaxwB?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T06:08:01.926942"
-      },
-      "6d8e2af4d89564fe82118f501f4f90ad919c3200bbf7ef66605f39ffb2d8614b": {
-        "title": "1.69亿融资押注专用芯片：Taalas要靠“去GPU化”改写AI算力格局",
-        "link": "https://www.tmtpost.com/7886987.html",
-        "published_date": "Mon, 23 Feb 2026 09:44:00 GMT",
-        "first_seen": "2026-02-23T06:08:01.926950"
-      },
-      "202dc38a1f0c9d03bc6ee1c751f3950a2eff27aad6d026a78695217a472c42a2": {
-        "title": "腾讯字节，“火拼”漫剧",
-        "link": "https://www.tmtpost.com/7887156.html",
-        "published_date": "Mon, 23 Feb 2026 13:17:00 GMT",
-        "first_seen": "2026-02-23T06:08:01.926952"
-      },
-      "ae556a3a974809c7a1c748fb808b154ee67baeda39b8ce940e10dd3ee50e6260": {
-        "title": "插混换到纯电的两万公里后，我不再有里程焦虑了",
-        "link": "https://sspai.com/post/105647",
-        "published_date": "Mon, 23 Feb 2026 10:59:00 GMT",
-        "first_seen": "2026-02-23T06:08:01.926954"
-      },
-      "5e6526b92fd377e0028805fc8fffb262ea2b016eb0f3135b7928529f976a0b24": {
-        "title": "贾跃亭的第八年：永远的下周回国，还在讲故事的他，翘首以待的债主",
-        "link": "https://www.tmtpost.com/7886936.html",
-        "published_date": "Mon, 23 Feb 2026 09:00:00 GMT",
-        "first_seen": "2026-02-23T06:08:01.926955"
-      },
-      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
-        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
-        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208791"
-      },
-      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
-        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
-        "link": "https://www.tmtpost.com/7887138.html",
-        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208799"
-      },
-      "2cef4fb083d1b6035f4abba2c2d8c92014c7a3bc014e05840179de0372e19eea": {
-        "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
-        "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208801"
-      },
-      "8a0d2dca6c11b4d6a576dc6b9bebab5c79ab7783e4c80151f861ae981db024d4": {
-        "title": "一代人有一代人的《我爱我家》",
-        "link": "https://www.tmtpost.com/7887008.html",
-        "published_date": "Mon, 23 Feb 2026 11:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208802"
-      },
-      "885447399dc36a4b6fbf7456526365c22388d1b0e7288c84a461590ad7e78c6a": {
-        "title": "没有“哪吒”的春节档，退回八年前",
-        "link": "https://www.tmtpost.com/7886942.html",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208804"
-      },
       "7790ea6348d70bfa1382a6d637a125be57aedec926ec4888bd9c1c6154c7a891": {
         "title": "“邪修”AI芯片的Taalas，成色如何？｜AGI焦点",
         "link": "https://www.tmtpost.com/7887595.html",
@@ -2701,45 +2641,39 @@
         "link": "https://www.tmtpost.com/7928106.html",
         "published_date": "Wed, 25 Mar 2026 11:22:00 GMT",
         "first_seen": "2026-03-25T06:04:00.245862"
+      },
+      "8952ef38708464552205c5858c1d7d30c491604fc57db0bbde5f14160e9e37be": {
+        "title": "35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单",
+        "link": "https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.706205"
+      },
+      "b5424864906f0f329ed160f025490af99947878bb765970914f592fcf8d992e2": {
+        "title": "一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=1&sn=c7cd8fb8b1c8e26111ba72c54bdf214f",
+        "published_date": "Wed, 25 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.706214"
+      },
+      "3165930a61b634e41e2bc13e956be0c9b6ed6c535e3cc480ca11fbf370204a59": {
+        "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
+        "link": "https://www.tmtpost.com/7927102.html",
+        "published_date": "Wed, 25 Mar 2026 14:52:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.706216"
+      },
+      "2a0d7e69b11620daad07d997ddcde5fa90b71dcffa3d4b47af80b3cf6adea9bd": {
+        "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
+        "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 15:53:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.706218"
+      },
+      "4db19357ae1bf6d11d837ac2f8c8afc1cf4430190406fe9902011256928b2896": {
+        "title": "2026中国企业AI应用场景报告",
+        "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.706220"
       }
     },
     "Finance": {
-      "58d564aee06229bb394d7d90dd8311d1105599b9ae0bd68686346b22a8bdb5ef": {
-        "title": "U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 04:02:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.430220"
-      },
-      "dc56ee63639b70b6ab2f860a0957c9f8e500de47d58fe10f6c3175f1c31c6c13": {
-        "title": "Tariff costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
-        "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 01:57:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.430233"
-      },
-      "977db2a63f6faecc6c976e70c09472c3fffacffbabea92e85632e42c54632a00": {
-        "title": "Gold enters the storybook stage",
-        "link": "https://www.ft.com/content/fadd45c6-e13e-4cbd-9fd8-e967cf113366",
-        "published_date": "Mon, 23 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.430236"
-      },
-      "6aa3da87a333ea256043ef13c94ba9831ab07736f78909b7f8e1e4bdb6426f5f": {
-        "title": "Schroders chief vows to keep wealth manager Cazenove after £9.9bn takeover",
-        "link": "https://www.ft.com/content/787bc6b2-cc37-40d6-8ca3-f26709eae60a",
-        "published_date": "Mon, 23 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.430238"
-      },
-      "5a6858504237bea103893e3900b3d64ff6ee22f0056e30b5c641687e32fb7466": {
-        "title": "Is the sale of Schroders really so bad for the City?",
-        "link": "https://www.ft.com/content/f9e21b0d-fbe5-41c3-96d8-b3e10658bb9c",
-        "published_date": "Mon, 23 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.430240"
-      },
-      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
-        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
-        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
-        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.016640"
-      },
       "9f6288dd0e51875aa3cc8c8860d2def5b5572352c708a27825a0f90a5b21883f": {
         "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
         "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
@@ -4671,33 +4605,21 @@
         "link": "https://www.ft.com/content/6d4dc223-3295-49bb-8b35-041a5e6a96b6",
         "published_date": "Wed, 25 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-25T06:04:13.701228"
+      },
+      "b2c841d497c2d19fcf2eaa58050e5cc13d39827081e25facd6faae66ad1ca43c": {
+        "title": "UK inflation held steady at 3% in February before energy shock",
+        "link": "https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b",
+        "published_date": "Wed, 25 Mar 2026 07:53:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.741677"
+      },
+      "e809fe6331d9da2a5ab5b2e4d719f66e9aecee9df2d0bd59a501ee70ef92a180": {
+        "title": "What’s moving long-term interest rates?",
+        "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
+        "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.741699"
       }
     },
     "Ai": {
-      "b78dac6c940a868e357bc3c89de9cd28e0a743fa2cdd896ed74a8873d2446ab2": {
-        "title": "2026-02-23日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-23/",
-        "published_date": "Mon, 23 Feb 2026 10:20:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.606744"
-      },
-      "78e445db428dc61e6f4e6930a407cafff7478e110a7abe6d7918821095c19bc9": {
-        "title": "智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了",
-        "link": "https://www.qbitai.com/2026/02/381712.html",
-        "published_date": "Mon, 23 Feb 2026 05:19:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.606752"
-      },
-      "d6052f63fd869d46ced0948ed48fccbeede611c57b91bae45b6437490edfb499": {
-        "title": "32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026",
-        "link": "https://www.qbitai.com/2026/02/381689.html",
-        "published_date": "Mon, 23 Feb 2026 04:48:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.606754"
-      },
-      "157de8715ed9603886062f80c6350373db8fc71cb17205429b14382e5e9253dc": {
-        "title": "三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工",
-        "link": "https://www.qbitai.com/2026/02/381672.html",
-        "published_date": "Mon, 23 Feb 2026 04:41:00 GMT",
-        "first_seen": "2026-02-23T06:07:47.606756"
-      },
       "2ac88ba8ad5fb9a9ecfee5499b1f6a36d2a37c331f0a6adf528e338f92371a61": {
         "title": "AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了",
         "link": "https://www.jiqizhixin.com/articles/2026-02-23-7",
@@ -5951,13 +5873,37 @@
         "link": "https://www.qbitai.com/2026/03/391799.html",
         "published_date": "Wed, 25 Mar 2026 00:13:00 GMT",
         "first_seen": "2026-03-25T06:04:13.861647"
+      },
+      "6abb69925ff51aff4681f24107a9f3610248224cb6a08fda05845a56568f2424": {
+        "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+        "link": "https://www.qbitai.com/2026/03/392024.html",
+        "published_date": "Wed, 25 Mar 2026 06:39:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.890395"
+      },
+      "2fa88667f1c7a913977369cd1cb578a9d7d856492575b8d3cf523d64d8404e72": {
+        "title": "中国AI音乐，悄悄把全球第一拿走了",
+        "link": "https://www.qbitai.com/2026/03/391839.html",
+        "published_date": "Wed, 25 Mar 2026 06:36:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.890403"
+      },
+      "da6e2166f1c3fae1b443b6d2717d4115d2a02468e380ec8ace68202fc42f4e45": {
+        "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
+        "link": "https://www.qbitai.com/2026/03/391894.html",
+        "published_date": "Wed, 25 Mar 2026 06:25:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.890405"
+      },
+      "a522b3065698602d1c464e69f7edd425f5d9427393ec7915230de7b77b9641ba": {
+        "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
+        "link": "https://www.qbitai.com/2026/03/391890.html",
+        "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
+        "first_seen": "2026-03-25T08:55:04.890406"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-25T06:04:00.245865",
-    "Finance": "2026-03-25T06:04:13.701231",
-    "Ai": "2026-03-25T06:04:13.861650"
+    "Technology": "2026-03-25T08:55:04.706222",
+    "Finance": "2026-03-25T08:55:04.741703",
+    "Ai": "2026-03-25T08:55:04.890408"
   }
 }

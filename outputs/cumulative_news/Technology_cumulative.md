@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 06:03
+**最后更新时间**: 2026-03-25 08:54
+
+---
+
+## 🆕 最新更新 (2026-03-25 08:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从零基础到全栈Agents开发，这个金融级交易大赛中我摸清了哪些AI门道？](https://www.tmtpost.com/7928558.html)
+**发布时间**: 2026-03-25 16:30
+
+#### [小米的2025：一面是海水，一面是火焰](https://www.tmtpost.com/7928064.html)
+**发布时间**: 2026-03-25 15:49
+
+#### [盈利质量全面突围，卧龙电驱迎结构性增长拐点](https://www.tmtpost.com/7928114.html)
+**发布时间**: 2026-03-25 15:22
+
+#### [AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法](https://www.tmtpost.com/7927102.html)
+**发布时间**: 2026-03-25 14:52
+
+#### [我在酒店大堂当CEO](https://www.tmtpost.com/7928218.html)
+**发布时间**: 2026-03-25 14:47
+
+#### [国产人工心脏双寡头对抗](https://www.tmtpost.com/7928321.html)
+**发布时间**: 2026-03-25 14:47
+
+#### [古偶是中国版K-Pop？](https://www.tmtpost.com/7928290.html)
+**发布时间**: 2026-03-25 14:40
+
+#### [张雪峰走了，他的9家公司怎么办？——IP型公司的组织陷阱](https://www.tmtpost.com/7928298.html)
+**发布时间**: 2026-03-25 14:40
+
+#### [“龙虾”的对手来了！Claude Code Channels 的野心与启示](https://www.tmtpost.com/7928506.html)
+**发布时间**: 2026-03-25 14:31
+
+#### [产销链错位、保荐机构子公司入股，广泰真空遭收入跨期与内控拷问 | IPO观察](https://www.tmtpost.com/7926943.html)
+**发布时间**: 2026-03-25 14:23
+
+#### [药明康德用一份年报，揭开CXO新竞争周期的底牌丨看财报](https://www.tmtpost.com/7928418.html)
+**发布时间**: 2026-03-25 13:54
+
+#### [Claude版龙虾VS OpenClaw，Anthropic又站在了OpenAI的反面](https://www.tmtpost.com/7928273.html)
+**发布时间**: 2026-03-25 13:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake 的 AI 驱动预测性维护 ｜ 技术实践](https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 16:22
+
+#### [Sora关停背后：为啥它没跑成“视频版ChatGPT”？](https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 15:53
+
+#### [Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性](https://www.infoq.cn/article/OTLD9IW3zMZdXMHsWD99?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 15:00
+
+#### [2026中国企业AI应用场景报告](https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 14:32
+
+#### [养虾深水区观察：ArkClaw 的成本逻辑、玩法演进与安全边界](https://www.infoq.cn/article/teJ7LpJQyEXkqMrqRYGf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 14:08
+
+#### [如何塑造软件公司的工程文化](https://www.infoq.cn/article/3PFWMNLesPZXcrQs9HW6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-25 14:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=1&sn=c7cd8fb8b1c8e26111ba72c54bdf214f)
+**发布时间**: 2026-03-25 15:04
+
+#### [开源 2 周 5 万 Star！AI 大佬开源了一个自己做实验的工具。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=2&sn=5f7aa069d2da91923ca2dddb3f98aeab)
+**发布时间**: 2026-03-25 15:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [直面「猝死」这个话题：你需要了解哪些知识？](https://sspai.com/post/65228)
+**发布时间**: 2026-03-25 14:31
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [车企盯上有钱人，“9系”大战一触即发](http://www.huxiu.com/article/4842768.html?f=wangzhan)
+**发布时间**: 2026-03-25 07:14
 
 ---
 

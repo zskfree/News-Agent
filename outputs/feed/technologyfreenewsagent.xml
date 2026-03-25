@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Mar 2026 06:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 06:04:00 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 08:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:55:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”</title>
-      <link>https://www.tmtpost.com/7928400.html</link>
-      <description>&lt;![CDATA[Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 13:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7928400.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>豪掷5000亿美元，孙正义要做“AI电力之王”？</title>
-      <link>https://www.tmtpost.com/7926481.html</link>
-      <description>&lt;![CDATA[豪掷5000亿美元，孙正义要做“AI电力之王”？]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7926481.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2026，具身智能开始「清场」</title>
-      <link>https://www.tmtpost.com/7928180.html</link>
-      <description>&lt;![CDATA[2026，具身智能开始「清场」]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7928180.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>马斯克造芯片，年产2000亿颗，80%将在太空运转</title>
-      <link>https://www.tmtpost.com/7927919.html</link>
-      <description>&lt;![CDATA[马斯克造芯片，年产2000亿颗，80%将在太空运转]]&gt;</description>
+      <title>35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单</title>
+      <link>https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单]]&gt;</description>
       <pubDate>Wed, 25 Mar 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7927919.html</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta收购AI社交平台Moltbook，扎克伯格要做什么？</title>
-      <link>https://www.tmtpost.com/7928106.html</link>
-      <description>&lt;![CDATA[Meta收购AI社交平台Moltbook，扎克伯格要做什么？]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7928106.html</guid>
+      <title>一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f</link>
+      <description>&lt;![CDATA[一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法</title>
+      <link>https://www.tmtpost.com/7927102.html</link>
+      <description>&lt;![CDATA[AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7927102.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Sora关停背后：为啥它没跑成“视频版ChatGPT”？</title>
+      <link>https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Sora关停背后：为啥它没跑成“视频版ChatGPT”？]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026中国企业AI应用场景报告</title>
+      <link>https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026中国企业AI应用场景报告]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
