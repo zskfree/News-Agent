@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 06:14
+**最后更新时间**: 2026-03-26 08:59
+
+---
+
+## 🆕 最新更新 (2026-03-26 08:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2025年蜜雪冰城营收335.6亿，但仍需寻找平稳期发展策略](https://www.tmtpost.com/7928831.html)
+**发布时间**: 2026-03-26 16:33
+
+#### [缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈](https://www.tmtpost.com/7929978.html)
+**发布时间**: 2026-03-26 16:06
+
+#### [退市头孢竟卖到千元？拨开炒作疑云，看清原研药退场真相](https://www.tmtpost.com/7929146.html)
+**发布时间**: 2026-03-26 15:54
+
+#### [这些爆火的「春日经济」，可不只是新“花”样](https://www.tmtpost.com/7929679.html)
+**发布时间**: 2026-03-26 15:54
+
+#### [AI 不养闲人，Sora 终成弃子](https://www.tmtpost.com/7929151.html)
+**发布时间**: 2026-03-26 15:54
+
+#### [AI 快手的重估还没走完](https://www.tmtpost.com/7929247.html)
+**发布时间**: 2026-03-26 15:54
+
+#### [油价暴涨冲10！燃油车主心态崩了，“油换电”的觉醒浪潮已来？](https://www.tmtpost.com/7929925.html)
+**发布时间**: 2026-03-26 15:54
+
+#### [内存通胀“终结者”？谷歌公开最新极限压缩算法](https://www.tmtpost.com/7929852.html)
+**发布时间**: 2026-03-26 14:24
+
+#### [Token重构科技产业：一场围绕“AI电网”的新基础设施战争](https://www.tmtpost.com/7929190.html)
+**发布时间**: 2026-03-26 14:03
+
+#### [做龙虾的大厂，没有梦想](https://www.tmtpost.com/7929499.html)
+**发布时间**: 2026-03-26 14:03
+
+#### [「迟到」7年，Costco中国终于要推黑钻会员了](https://www.tmtpost.com/7929640.html)
+**发布时间**: 2026-03-26 14:03
+
+#### [AI时代的营销变局：品牌主如何争夺信息话语权](https://www.tmtpost.com/7929601.html)
+**发布时间**: 2026-03-26 14:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [华为AI软件工程实践：30年专业经验沉淀打造企业级确定性的高质量软件](https://www.infoq.cn/article/IPk1UBNeqdj88ZlEWFsk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 15:50
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上这 4 个抽象离谱的 Skill，看完直接笑掉大牙。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532503&idx=1&sn=9901e0adfc35f7d7c491a0977ec442c4)
+**发布时间**: 2026-03-26 15:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从走火入魔到退一步海阔天空，我的双拼输入法体验](https://sspai.com/post/106086)
+**发布时间**: 2026-03-26 14:30
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [张雪峰的“遗产”](http://www.huxiu.com/article/4845387.html?f=wangzhan)
+**发布时间**: 2026-03-26 14:00
 
 ---
 

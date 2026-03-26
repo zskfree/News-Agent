@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Mar 2026 06:13:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 06:14:54 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-26日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-26/</link>
-      <description>&lt;![CDATA[2026-03-26日刊]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-26/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar</title>
-      <link>https://www.qbitai.com/2026/03/392215.html</link>
-      <description>&lt;![CDATA[谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 03:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392215.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B</title>
-      <link>https://www.qbitai.com/2026/03/392137.html</link>
-      <description>&lt;![CDATA[它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 02:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392137.html</guid>
+      <title>1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO</title>
+      <link>https://www.qbitai.com/2026/03/392281.html</link>
+      <description>&lt;![CDATA[1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 07:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392281.html</guid>
       <category>Ai</category>
     </item>
   </channel>
