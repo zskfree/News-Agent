@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Mar 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:35:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO</title>
-      <link>https://www.qbitai.com/2026/03/392281.html</link>
-      <description>&lt;![CDATA[1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 07:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392281.html</guid>
+      <title>金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资</title>
+      <link>https://www.qbitai.com/2026/03/392684.html</link>
+      <description>&lt;![CDATA[金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392684.html</guid>
       <category>Ai</category>
     </item>
   </channel>

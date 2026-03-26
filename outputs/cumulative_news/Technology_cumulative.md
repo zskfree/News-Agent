@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 08:59
+**最后更新时间**: 2026-03-26 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-26 23:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省](https://www.tmtpost.com/7930587.html)
+**发布时间**: 2026-03-27 07:20
+
+#### [米奥会展“中年失速”：账上现金承压，故事难兑现 | 看财报](https://www.tmtpost.com/7930615.html)
+**发布时间**: 2026-03-26 22:14
+
+#### [账上3亿现金还要上市“补流”？长进光子头顶周期“陷阱”豪赌5倍产能 | IPO观察](https://www.tmtpost.com/7930009.html)
+**发布时间**: 2026-03-26 22:02
+
+#### [李宁进入新周期，“专业牌”究竟怎么打？](https://www.tmtpost.com/7930384.html)
+**发布时间**: 2026-03-26 19:42
+
+#### [52天75次发布，A司这场“产品大爆炸”太猛烈了](https://www.tmtpost.com/7930397.html)
+**发布时间**: 2026-03-26 19:42
+
+#### [中国电动两轮车正在更快、更容易地出海](https://www.tmtpost.com/7930356.html)
+**发布时间**: 2026-03-26 19:42
+
+#### [起手就是150亿，“新拼姆”落户上海有深意](https://www.tmtpost.com/7930238.html)
+**发布时间**: 2026-03-26 18:11
+
+#### [爽文开局、被告收尾：“一人剧组”的富贵险中求？](https://www.tmtpost.com/7930227.html)
+**发布时间**: 2026-03-26 18:10
+
+#### [雷军退场，金山云终于靠AI赚钱了](https://www.tmtpost.com/7930196.html)
+**发布时间**: 2026-03-26 18:08
+
+#### [23万大厂员工被AI替代，为何一半公司又把人请回？](https://www.tmtpost.com/7930199.html)
+**发布时间**: 2026-03-26 18:08
+
+#### [染上拼豆的年轻人，拯救县城自建房](https://www.tmtpost.com/7930176.html)
+**发布时间**: 2026-03-26 17:42
+
+#### [Sora落幕，Seedance、可灵走上分岔路](https://www.tmtpost.com/7929891.html)
+**发布时间**: 2026-03-26 17:42
+
+#### [英伟达23人梦之队，让AI用7天干翻了自己的GPU专家](https://www.tmtpost.com/7930177.html)
+**发布时间**: 2026-03-26 17:41
+
+#### [Manus终于喝下自己藏好的毒](https://www.tmtpost.com/7929661.html)
+**发布时间**: 2026-03-26 17:32
+
+#### [产业龙虾化：AItoB的下一个战场](https://www.tmtpost.com/7929301.html)
+**发布时间**: 2026-03-26 17:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 238｜少数派的编辑们最近买了啥？](https://sspai.com/post/107863)
+**发布时间**: 2026-03-26 19:00
+
+#### [住久了没意思？租房常见问题与我的改造原则](https://sspai.com/prime/story/how-to-renovate-a-rental)
+**发布时间**: 2026-03-26 17:01
+
+#### [空想特摄的浪漫（三）：超级战队系列](https://sspai.com/post/107773)
+**发布时间**: 2026-03-26 16:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌](https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 18:39
+
+#### [美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿](https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 18:37
+
+#### [月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源](https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 18:20
+
+#### [OpenClaw 进入产品和业务后：踩坑与落地经验](https://www.infoq.cn/video/qqej2Tccv9CRP2R82TYk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 17:59
+
+#### [如何在 Snowflake 中利用 RelationalAI 原生应用实现图分析与社区检测 ｜ 技术实践](https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 17:48
+
+#### [AI 是一次范式转移，选准生态位，投入自然清晰 | 飞猪 CTO 陈烨谈战略定力、组织进化与工程落地](https://www.infoq.cn/article/lwk5AQiWPSRPAxRPpM3W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 17:41
+
+#### [从云原生到 AI 原生：模型引发的新一代基础设施构建](https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 17:35
+
+#### [具身智能中的 VLA 技术及其应用](https://www.infoq.cn/article/5cBCK86jKCHjvuIbWgUC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 17:35
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [高通、地平线、黑芝麻激战舱驾一体，谁会胜出？](http://www.huxiu.com/article/4845598.html?f=wangzhan)
+**发布时间**: 2026-03-26 16:38
 
 ---
 

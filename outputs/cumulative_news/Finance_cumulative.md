@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 08:59
+**最后更新时间**: 2026-03-26 23:34
+
+---
+
+## 🆕 最新更新 (2026-03-26 23:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says he’ll order that TSA officers be paid, in a move that could end long waits at airport security](https://www.marketwatch.com/story/trump-may-find-a-way-to-pay-tsa-officers-in-a-move-that-could-end-long-waits-at-airport-security-d9d030a5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 23:28
+
+#### [This map shows a crude ticking time bomb that hits much of the world’s oil supply in April](https://www.marketwatch.com/story/this-map-shows-a-crude-ticking-time-bomb-that-hits-much-of-the-worlds-oil-supply-in-april-2c058db6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 22:06
+
+#### [Why software stocks proved resilient on a dismal day for tech](https://www.marketwatch.com/story/why-software-stocks-proved-resilient-on-a-dismal-day-for-tech-cbdc4bbb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:54
+
+#### [Micron’s stock falls into a bear market — and it’s now the cheapest in the S&P 500](https://www.marketwatch.com/story/microns-stock-falls-into-a-bear-market-and-its-now-the-cheapest-in-the-s-p-500-f90d9114?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:33
+
+#### [Why Tesla isn’t getting a boost from high gas prices](https://www.marketwatch.com/story/why-tesla-isnt-getting-a-boost-from-high-gas-prices-39a5bacf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:21
+
+#### [Trump pauses plans to attack Iranian energy infrastructure, as Nasdaq falls into a correction](https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:19
+
+#### [Iran’s Kharg Island may be the next battleground, as Trump extends pause on attacking energy infrastructure](https://www.marketwatch.com/story/irans-economic-heartbeat-kharg-island-may-be-the-next-battleground-as-trumps-5-day-pause-ends-this-weekend-e8917c41?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:17
+
+#### [My brother says lawyers can get him into a Medicaid nursing home, despite his many assets. Is this a scam?](https://www.marketwatch.com/story/my-brother-says-lawyers-can-get-him-into-a-medicaid-nursing-home-despite-his-many-assets-is-this-a-scam-614c2f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:10
+
+#### [As Meta sheds $119 billion in market cap, has the stock become ‘uninvestable’?](https://www.marketwatch.com/story/as-meta-sheds-119-billion-in-market-cap-has-the-stock-become-uninvestable-994c4bd6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:08
+
+#### [My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake.](https://www.marketwatch.com/story/my-paypal-account-received-money-from-the-philippines-with-two-phone-numbers-listed-i-called-them-big-mistake-5cd4cd47?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 20:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump extends Iran talks deadline after sell-off on Wall Street](https://www.ft.com/content/6fc9a9f5-ce8f-471a-a4d2-2166d63e3bd8)
+**发布时间**: 2026-03-26 22:07
+
+#### [Putin asks oligarchs to donate to budget as cost of Ukraine war soars](https://www.ft.com/content/d10dfb27-f56f-45a0-9423-af5253cbedd5)
+**发布时间**: 2026-03-26 21:53
+
+#### [Israeli military doubts war will topple Iranian regime](https://www.ft.com/content/7cdf6546-a4a0-4999-95dd-292235ee738d)
+**发布时间**: 2026-03-26 21:00
+
+#### [US bond market shows signs of strain as Iran war sparks Treasury tumult](https://www.ft.com/content/2e0185d1-3229-463c-8391-6dd09fe11886)
+**发布时间**: 2026-03-26 20:51
+
+#### [Iran’s hardline new leaders take control](https://www.ft.com/content/7a86d572-52a7-459c-aac6-674022e07e0d)
+**发布时间**: 2026-03-26 20:09
+
+#### [OpenAI makes a ‘Code Red’ turn in strategy](https://www.ft.com/content/f2b478a5-d7e0-48f6-bdb4-f9df90f4c7e0)
+**发布时间**: 2026-03-26 17:59
+
+#### [Jaguar Land Rover to shut UK plant for almost two weeks after supplier fire](https://www.ft.com/content/7a8d061b-de3d-468a-bc0d-44a92c21e5b0)
+**发布时间**: 2026-03-26 17:57
+
+#### [Odey fired executives for telling him to ‘sit in dungeons’ to protect women](https://www.ft.com/content/aa02ff6d-9690-4947-9d88-cc85c6293129)
+**发布时间**: 2026-03-26 16:52
+
+#### [What has happened to Iran’s top-tier missiles?](https://www.ft.com/content/fe4dcb08-4b2f-4496-af0e-13a4bce34459)
+**发布时间**: 2026-03-26 12:42
+
+#### [The case for keeping Keir Starmer a little longer](https://www.ft.com/content/252dd43e-84d5-4825-9cf9-004bb7d4f2f3)
+**发布时间**: 2026-03-26 12:23
 
 ---
 

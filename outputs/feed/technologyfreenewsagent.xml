@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Mar 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:35:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI关停Sora，AI开始“算账”</title>
-      <link>https://www.tmtpost.com/7929286.html</link>
-      <description>&lt;![CDATA[OpenAI关停Sora，AI开始“算账”]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7929286.html</guid>
+      <title>谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌</title>
+      <link>https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈</title>
-      <link>https://www.tmtpost.com/7929978.html</link>
-      <description>&lt;![CDATA[缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7929978.html</guid>
+      <title>月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源</title>
+      <link>https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token重构科技产业：一场围绕“AI电网”的新基础设施战争</title>
-      <link>https://www.tmtpost.com/7929190.html</link>
-      <description>&lt;![CDATA[Token重构科技产业：一场围绕“AI电网”的新基础设施战争]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7929190.html</guid>
+      <title>从云原生到 AI 原生：模型引发的新一代基础设施构建</title>
+      <link>https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从云原生到 AI 原生：模型引发的新一代基础设施构建]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>23万大厂员工被AI替代，为何一半公司又把人请回？</title>
+      <link>https://www.tmtpost.com/7930199.html</link>
+      <description>&lt;![CDATA[23万大厂员工被AI替代，为何一半公司又把人请回？]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7930199.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”</title>
-      <link>https://www.tmtpost.com/7928810.html</link>
-      <description>&lt;![CDATA[AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7928810.html</guid>
+      <title>美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿</title>
+      <link>https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿]]&gt;</description>
+      <pubDate>Thu, 26 Mar 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
