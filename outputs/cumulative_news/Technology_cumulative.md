@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 23:38
+**最后更新时间**: 2026-03-26 06:14
+
+---
+
+## 🆕 最新更新 (2026-03-26 06:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS扩展Aurora DSQL，新增Playground、工具集成和驱动连接器](https://www.infoq.cn/article/PwtFyXdv4YJLbNsS8w3j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 14:00
+
+#### [微信龙虾只活2天：一次更新干崩全生态，OpenClaw 撞上 Vibe Coding 天花板](https://www.infoq.cn/article/tMy3gaCUrUBemME0wWaV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 13:02
+
+#### [Cloudera：备份与安全，本质是AI经济学问题](https://www.infoq.cn/article/vXbhO3QrOZGw3ii7FB2B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 11:01
+
+#### [Harness推出全新的制品仓库，重新构想DevSecOps的制品管理](https://www.infoq.cn/article/7CeCgJa5gv01bx6ue4D3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 11:00
+
+#### [京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash](https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 10:20
+
+#### [苹果优化其基础模型的上下文窗口管理能力](https://www.infoq.cn/article/a3RCQID6a6QukWzeAY8v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 10:10
+
+#### [Stripe工程师部署了自主智能体Minions，每周生成数千个拉取请求](https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 10:00
+
+#### [让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京](https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 10:00
+
+#### [Java近期资讯：JDK 26、LibericaJDK、Payara Platform、GlassFish里程碑版本和ClawRunr](https://www.infoq.cn/article/Djj5va96FQTPPiKs6gsT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-26 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [技术破题与生态立新，西门子定义工业AI新纪元](https://www.tmtpost.com/7929728.html)
+**发布时间**: 2026-03-26 13:57
+
+#### [AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”](https://www.tmtpost.com/7928810.html)
+**发布时间**: 2026-03-26 10:38
+
+#### [泡泡玛特：进站加油，换胎再战](https://www.tmtpost.com/7929599.html)
+**发布时间**: 2026-03-26 10:36
+
+#### [800亿买来的外卖大战停战协议：谁在AI的阴影下裸奔？](https://www.tmtpost.com/7929608.html)
+**发布时间**: 2026-03-26 10:36
+
+#### [“龙虾”爆改小米、宇树，但关键问题仍未解决](https://www.tmtpost.com/7929017.html)
+**发布时间**: 2026-03-26 09:32
+
+#### [OpenAI关停Sora，AI开始“算账”](https://www.tmtpost.com/7929286.html)
+**发布时间**: 2026-03-26 09:12
+
+#### [独家 | 巨量星图回归抖音主端，崔诚向陈都烨汇报](https://www.tmtpost.com/7929263.html)
+**发布时间**: 2026-03-26 08:55
+
+#### [影石再次回应大疆起诉，影翎融资进程或被诉案波及 ｜ 出海参考](https://www.tmtpost.com/7928897.html)
+**发布时间**: 2026-03-25 21:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文「决赛圈」：选出你的心中最佳](https://sspai.com/post/107830)
+**发布时间**: 2026-03-26 10:10
+
+#### [派早报：英特尔推出 IBOT 二进制优化技术、3 英寸小屏手机 Meadow 1 亮相等](https://sspai.com/post/107831)
+**发布时间**: 2026-03-26 08:38
 
 ---
 

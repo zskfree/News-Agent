@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-25 23:38
+**最后更新时间**: 2026-03-26 06:14
+
+---
+
+## 🆕 最新更新 (2026-03-26 06:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel strikes Iran while Gulf countries intercept drones](https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b)
+**发布时间**: 2026-03-26 05:50
+
+#### [Bessent discussed ways to recast ties between Fed and Treasury in BoE’s image](https://www.ft.com/content/9d1859f0-2f93-4ff1-8cfb-8046342bf9f7)
+**发布时间**: 2026-03-26 05:00
+
+#### [Donald Trump vs the oil market](https://www.ft.com/content/bc6037d6-d6cf-4117-9eb0-311956ea9dd1)
+**发布时间**: 2026-03-26 05:00
+
+#### [How to survive an energy crunch](https://www.ft.com/content/7cd2d15b-89d3-4baa-b56a-eb80f3546e6a)
+**发布时间**: 2026-03-26 05:00
+
+#### [The spectre of stagflation](https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32)
+**发布时间**: 2026-03-26 05:00
+
+#### [Ferrari flies personalised supercars to super-rich Middle East buyers](https://www.ft.com/content/38ce205c-2a44-43d6-8803-c456f9f643c9)
+**发布时间**: 2026-03-26 05:00
+
+#### [Battersea Power Station held talks over sale of land at centre of dispute](https://www.ft.com/content/5691a1ea-b3a6-453e-929b-1d7427b39e6c)
+**发布时间**: 2026-03-26 05:00
+
+#### [Hong Kong weighs ‘big bang’ tax cuts for asset managers](https://www.ft.com/content/b018d802-a7d1-4853-9acd-d3007a61cf72)
+**发布时间**: 2026-03-26 03:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Mortgage rates near 6-month high — but here’s how much worse it would be without Freddie and Fannie’s bond buying](https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 02:29
+
+#### [Here’s what airlines are offering passengers trapped in long TSA lines — and why travelers won’t get much else](https://www.marketwatch.com/story/heres-what-airlines-are-offering-passengers-trapped-in-long-tsa-lines-and-why-travelers-wont-get-much-else-0cb139ae?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 02:22
+
+#### [This ‘single greatest’ stock-market predictor has never been more bearish](https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 00:02
 
 ---
 

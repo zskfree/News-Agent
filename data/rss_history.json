@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3d5d477423d2eccebc2cceaeb8c4045f0d55ee139ae88e765e03d4dc260a3eb6": {
-        "title": "月之暗面科技发布开源权重 Kimi K2.5 模型，具备视觉与智能体集群能力",
-        "link": "https://www.infoq.cn/article/kadDBSqBrtFfUbipxQSs?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Feb 2026 09:54:00 GMT",
-        "first_seen": "2026-02-24T06:02:25.474464"
-      },
-      "a50e35f6c793bddd7a27275a31ccecd68191c53727803aae94f2d04c2a75470f": {
-        "title": "⼤神Karpathy最新推⽂：AI技术栈⻓出了新的⼀层 ，叫Claw",
-        "link": "https://www.infoq.cn/article/V6yNz0S1DKeUtmoSfrsw?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Feb 2026 12:07:00 GMT",
-        "first_seen": "2026-02-24T06:02:25.474470"
-      },
-      "d45790563bde81959b3f38a4eb6e6d0320d249510ff6ae8f27a3fc49ff6753eb": {
-        "title": "OpenAI发布了Codex应用服务器架构，用于统一AI智能体表面",
-        "link": "https://www.infoq.cn/article/Ac7pCglOgaK4tEoWg5b7?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-24T06:02:25.474472"
-      },
-      "66734e37e2a5e4fdc02c86362b8f56a3ca8fc402ea121c000bffdf7780aae426": {
-        "title": "WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件",
-        "link": "https://www.infoq.cn/article/eziroAJBVUcQXEgjrUmU?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Feb 2026 09:38:00 GMT",
-        "first_seen": "2026-02-24T06:02:25.474474"
-      },
-      "8eb657fee83b9807927090a8ec5c2f420484cd726bf893aa79396eb5e064f5ca": {
-        "title": "构建代理式MLOps：一种基于A2A和MCP的分层协议策略",
-        "link": "https://www.infoq.cn/article/Z0QvjUmMxFKvMNl4FzGt?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-24T06:02:25.474476"
-      },
       "b8017ffed486cde85d911c26496a8234dbba50ab48276cc1e43b1d98d0cd3e1b": {
         "title": "1000 倍效率神话，Taalas如何用 “模型即芯片” 暴打英伟达",
         "link": "https://www.tmtpost.com/7888205.html",
@@ -2671,39 +2641,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=2&sn=5f7aa069d2da91923ca2dddb3f98aeab",
         "published_date": "Wed, 25 Mar 2026 15:04:00 GMT",
         "first_seen": "2026-03-25T23:39:11.998416"
+      },
+      "58d6b99294e6845f1a092a7137de480ab3a080ac37bdb767fcc565721478d756": {
+        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
+        "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 10:20:00 GMT",
+        "first_seen": "2026-03-26T06:14:39.919107"
+      },
+      "0c9c1c9838faf150de9720a24536a32c5ba1bfbbc523e273e951a3a3c2de8c0b": {
+        "title": "Stripe工程师部署了自主智能体Minions，每周生成数千个拉取请求",
+        "link": "https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-26T06:14:39.919115"
+      },
+      "690d1636ecaff9e17fafcd1fa0560b72660d968520034de9d885adce82e0bb10": {
+        "title": "苹果优化其基础模型的上下文窗口管理能力",
+        "link": "https://www.infoq.cn/article/a3RCQID6a6QukWzeAY8v?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 10:10:00 GMT",
+        "first_seen": "2026-03-26T06:14:39.919117"
+      },
+      "454dc16c9c941f395e027ea31640541b7740c9754e15ff81a832d29fbdad831e": {
+        "title": "Cloudera：备份与安全，本质是AI经济学问题",
+        "link": "https://www.infoq.cn/article/vXbhO3QrOZGw3ii7FB2B?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 11:01:00 GMT",
+        "first_seen": "2026-03-26T06:14:39.919119"
+      },
+      "be7528a07c49c0d251457d0aaf08812dcede7ae0525805a13e0162c4adeda930": {
+        "title": "AWS扩展Aurora DSQL，新增Playground、工具集成和驱动连接器",
+        "link": "https://www.infoq.cn/article/PwtFyXdv4YJLbNsS8w3j?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-26T06:14:39.919121"
       }
     },
     "Finance": {
-      "744751eff38875161b7013bfe85d27faeda5dfef6cbf4d20ae94bd3d09d31430": {
-        "title": "Trump’s global tariff takes effect at 10%",
-        "link": "https://www.ft.com/content/61c2e6d6-5e82-471d-b189-3d57d53407ae",
-        "published_date": "Tue, 24 Feb 2026 03:53:00 GMT",
-        "first_seen": "2026-02-24T06:01:53.099783"
-      },
-      "740923e42c829148081ba9358bc8b5152ad9b157ccf8988f5cec91c8b38b0f8b": {
-        "title": "‘Crisis of his own making’: Trump weighs another war with Iran",
-        "link": "https://www.ft.com/content/0408deca-ecca-49ab-bff6-985ef83897ce",
-        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-24T06:01:53.099794"
-      },
-      "556f096b05489723db01559ecbc227e56c948d162ded40567e4387e1486d474b": {
-        "title": "Europe’s ‘tech sovereignty’ ambitions carry security risks, military warns",
-        "link": "https://www.ft.com/content/0f7f7aa7-af4e-4ea6-82da-5f8c719982fe",
-        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-24T06:01:53.099797"
-      },
-      "b0ea27bb8935ada23ce2a085369ecebeb4d761be98ab57b170084243b4bdd4d1": {
-        "title": "Rapid UK coastal erosion throws spotlight on £40bn nuclear plant",
-        "link": "https://www.ft.com/content/7f093296-41cd-498c-ba81-f3707204eca9",
-        "published_date": "Tue, 24 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-24T06:01:53.099799"
-      },
-      "5ed897f21ba674da35fdd8f22de316a125ce258e77d0c9beb6d22f50cc6d1d34": {
-        "title": "Tariff ruling sparks ‘refund chaos’ that small businesses and families can’t afford",
-        "link": "https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Feb 2026 23:42:00 GMT",
-        "first_seen": "2026-02-24T06:01:53.099801"
-      },
       "753c62d35ff430791d79f91e6e463a3e66ab56fe5e139b02c100ff385b3d64f2": {
         "title": "This award-winning hedge fund manager is betting the era of capital abundance becomes one of capital scarcity",
         "link": "https://www.marketwatch.com/story/this-award-winning-hedge-fund-manager-is-betting-the-era-of-capital-abundance-becomes-one-of-capital-scarcity-fe6ae3c7?mod=mw_rss_topstories",
@@ -4617,39 +4587,39 @@
         "link": "https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b",
         "published_date": "Wed, 25 Mar 2026 21:22:00 GMT",
         "first_seen": "2026-03-25T23:39:28.198407"
+      },
+      "3bb961f04bd65d59da22c91406ea3e3a6ee5cd62c452359de801d88aeffd57e0": {
+        "title": "The spectre of stagflation",
+        "link": "https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32",
+        "published_date": "Thu, 26 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.717062"
+      },
+      "36d6f67bc447fa90dc7c0bfd2472b30c36c8005c8e997569304a1e1cb67e41f5": {
+        "title": "Bessent discussed ways to recast ties between Fed and Treasury in BoE’s image",
+        "link": "https://www.ft.com/content/9d1859f0-2f93-4ff1-8cfb-8046342bf9f7",
+        "published_date": "Thu, 26 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.717068"
+      },
+      "34e5221007eeaaf2a23d692874c8eea514263769d5598665c4e2ee2d3a05ab8a": {
+        "title": "Hong Kong weighs ‘big bang’ tax cuts for asset managers",
+        "link": "https://www.ft.com/content/b018d802-a7d1-4853-9acd-d3007a61cf72",
+        "published_date": "Thu, 26 Mar 2026 03:32:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.717070"
+      },
+      "6b4d537a64db263ddc7b22f53f8eb43f7198dcc6fcb981136ec21d2dfd48d110": {
+        "title": "Israel strikes Iran while Gulf countries intercept drones",
+        "link": "https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b",
+        "published_date": "Thu, 26 Mar 2026 05:50:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.717072"
+      },
+      "74bd7f05b54081e2b02966ac83da2f2cac87dc85fd4f7850882d29d565d7048c": {
+        "title": "Mortgage rates near 6-month high — but here’s how much worse it would be without Freddie and Fannie’s bond buying",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e?mod=mw_rss_topstories",
+        "published_date": "Thu, 26 Mar 2026 02:29:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.717074"
       }
     },
     "Ai": {
-      "84574ca4c4f0478e151c65fadfa5057f531564345382edfb3b077c4e25674902": {
-        "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-24-2",
-        "published_date": "Tue, 24 Feb 2026 12:34:00 GMT",
-        "first_seen": "2026-02-24T06:02:08.006951"
-      },
-      "13b5d928cbe5b10d64a106e2332147419d5a568d68282f8f4cc2f2dd6ff9547e": {
-        "title": "从「好看」到「能用」：MIT用可微物理优化，让生成式3D设计真正可制造",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-24",
-        "published_date": "Tue, 24 Feb 2026 11:58:00 GMT",
-        "first_seen": "2026-02-24T06:02:08.006958"
-      },
-      "9d236e150737d7e280ea7121895bc0775e0caff33d85f2ac03c5aad1d7d5472a": {
-        "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-24-4",
-        "published_date": "Tue, 24 Feb 2026 12:49:00 GMT",
-        "first_seen": "2026-02-24T06:02:08.006961"
-      },
-      "93d31b692f7cf16e4c7b12b74d2697ce82a9bde3bf2c78e46618a2e288e93537": {
-        "title": "DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了",
-        "link": "https://www.qbitai.com/2026/02/381786.html",
-        "published_date": "Tue, 24 Feb 2026 04:00:00 GMT",
-        "first_seen": "2026-02-24T06:02:08.006962"
-      },
-      "ec951605261c1a4aca49393818c6fb155962068cb6439f2b38c59273c393417a": {
-        "title": "20亿融资，百亿估值加冕！千寻智能开年引爆具身智能赛道",
-        "link": "https://www.qbitai.com/2026/02/381766.html",
-        "published_date": "Tue, 24 Feb 2026 02:51:00 GMT",
-        "first_seen": "2026-02-24T06:02:08.006964"
-      },
       "b1a7a998d6293fcbb13a28952351178f933a3871a543a0d1152544501511e9c4": {
         "title": "字节Seed用化学思想搞AI，把DeepSeek-R1的脑回路拆成了分子结构",
         "link": "https://www.qbitai.com/2026/02/381872.html",
@@ -5885,13 +5855,31 @@
         "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
         "published_date": "Wed, 25 Mar 2026 09:14:00 GMT",
         "first_seen": "2026-03-25T23:39:28.358059"
+      },
+      "d0642467090e455de6a09eaab38026a44db9bc4a1375a2b60ab73f048466fa8d": {
+        "title": "2026-03-26日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-26/",
+        "published_date": "Thu, 26 Mar 2026 09:39:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.860222"
+      },
+      "3ba3848e0f2014a45ddc0cff1d4ff23fa76addd7aee9a2175772288fde05f31d": {
+        "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
+        "link": "https://www.qbitai.com/2026/03/392215.html",
+        "published_date": "Thu, 26 Mar 2026 03:03:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.860229"
+      },
+      "accec0d8e32f371cd053087f15f1947553c644a5a7fea8063e0a410ad1a20b27": {
+        "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
+        "link": "https://www.qbitai.com/2026/03/392137.html",
+        "published_date": "Thu, 26 Mar 2026 02:53:00 GMT",
+        "first_seen": "2026-03-26T06:14:54.860231"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-25T23:39:11.998418",
-    "Finance": "2026-03-25T23:39:28.198411",
-    "Ai": "2026-03-25T23:39:28.358061"
+    "Technology": "2026-03-26T06:14:39.919123",
+    "Finance": "2026-03-26T06:14:54.717076",
+    "Ai": "2026-03-26T06:14:54.860233"
   }
 }
