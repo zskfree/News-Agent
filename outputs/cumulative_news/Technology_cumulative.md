@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 23:34
+**最后更新时间**: 2026-03-27 06:15
+
+---
+
+## 🆕 最新更新 (2026-03-27 06:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈](https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 14:00
+
+#### [让外部知识“长入”模型：动态化与参数化 RAG 技术探索](https://www.infoq.cn/article/bdHrWhvKqigAAd3ldh53?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 13:36
+
+#### [基于开放标准构建可移植系统，筑牢数字主权根基](https://www.infoq.cn/article/02wpr6L6UNsFaZ5q1cgN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 11:00
+
+#### [从“盲目调优”到“数据驱动”：大规模 Agent 的评估工程实践｜QCon北京](https://www.infoq.cn/article/0rWvlDuuA5kN06q5raNR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 10:52
+
+#### [aiXcoder全新推出代码变更应用模型aiX-apply-4B，效果比肩DeepSeek-V3.2，推理效率提升15倍](https://www.infoq.cn/article/aFl3mHPMjIGb6mZX5Dv1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 10:51
+
+#### [阿里云CIO与40家企业对话数月，打捞出鲜少公开的AI落地真相](https://www.infoq.cn/article/jUUq67MUlQYq0146lADD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 10:20
+
+#### [用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！](https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 10:08
+
+#### [Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据](https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百度前高管杨睿刚创业入局具身智能，已完成千万级种子轮融资](https://www.tmtpost.com/7931545.html)
+**发布时间**: 2026-03-27 13:02
+
+#### [从 9.9 元到超大杯，瑞幸库迪的商战，早已不是价格战](https://www.tmtpost.com/7931293.html)
+**发布时间**: 2026-03-27 11:52
+
+#### [欧洲开抢储能设备，阳光电源等企业订单已排到几个月后......](https://www.tmtpost.com/7931376.html)
+**发布时间**: 2026-03-27 11:52
+
+#### [十破世界纪录，CZTSSe薄膜光伏迈过产业化关键门槛](https://www.tmtpost.com/7930487.html)
+**发布时间**: 2026-03-27 11:02
+
+#### [深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链](https://www.tmtpost.com/7931283.html)
+**发布时间**: 2026-03-27 11:02
+
+#### [一嗨租车激荡20年，如今遭OTA低价围堵？](https://www.tmtpost.com/7931243.html)
+**发布时间**: 2026-03-27 10:59
+
+#### [改革完成70%，平安银行的“重回增长”从何而来](https://www.tmtpost.com/7929077.html)
+**发布时间**: 2026-03-27 10:58
+
+#### [地方文旅流量战，AI能不能接棒文旅局长？](https://www.tmtpost.com/7931088.html)
+**发布时间**: 2026-03-27 10:50
+
+#### [迪丽热巴新剧未播先宣14个联名：品牌到底在赌什么？](https://www.tmtpost.com/7930988.html)
+**发布时间**: 2026-03-27 10:43
+
+#### [帝科股份炒白银巨亏，史卫利是运气太差还是赌性太强？](https://www.tmtpost.com/7930751.html)
+**发布时间**: 2026-03-27 10:43
+
+#### [2026中国餐饮产业生态：拐点将至，产业重塑待启复苏周期](https://www.tmtpost.com/7930959.html)
+**发布时间**: 2026-03-27 10:43
+
+#### [具身智能万亿赛道开启淘汰赛，数据与场景成破局关键](https://www.tmtpost.com/7931253.html)
+**发布时间**: 2026-03-27 10:35
+
+#### [趣丸科技Tunee上线MV Agent，支持接入OpenClaw｜独家](https://www.tmtpost.com/7931207.html)
+**发布时间**: 2026-03-27 10:25
+
+#### [押下近一年营收，130亿创二代“豪赌”未来](https://www.tmtpost.com/7930715.html)
+**发布时间**: 2026-03-27 10:19
+
+#### [对比日本，我们发现中国最新推出长护险的几个特点：全年龄覆盖、就业身份、低缴费率、优先保重度失能老人](https://www.tmtpost.com/7931022.html)
+**发布时间**: 2026-03-27 10:10
+
+#### [从美妆品牌“换角”，看品牌代言人逻辑的转变](https://www.tmtpost.com/7931027.html)
+**发布时间**: 2026-03-27 10:10
+
+#### [光伏组件价格“暴力反弹”，谁在逼着行业涨价？](https://www.tmtpost.com/7930536.html)
+**发布时间**: 2026-03-27 10:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技｜用 SD Card Formatter 免费修复越用越慢的 SSD](https://sspai.com/post/106559)
+**发布时间**: 2026-03-27 11:34
+
+#### [派早报：iQOO 发布 Z11 系列手机等](https://sspai.com/post/107915)
+**发布时间**: 2026-03-27 09:00
 
 ---
 

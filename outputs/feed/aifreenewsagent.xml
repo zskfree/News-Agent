@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 23:35:45 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:13:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:16:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资</title>
-      <link>https://www.qbitai.com/2026/03/392684.html</link>
-      <description>&lt;![CDATA[金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392684.html</guid>
+      <title>从Token到词元：全模态时代的基模与交互入口</title>
+      <link>https://www.qbitai.com/2026/03/392707.html</link>
+      <description>&lt;![CDATA[从Token到词元：全模态时代的基模与交互入口]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392707.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里云百炼上线三方视频生成模型，PixVerse首发登陆</title>
+      <link>https://www.qbitai.com/2026/03/392692.html</link>
+      <description>&lt;![CDATA[阿里云百炼上线三方视频生成模型，PixVerse首发登陆]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 03:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392692.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里QoderWork打通钉钉、微信、飞书 手机端可直接召唤桌面AI助手</title>
+      <link>https://www.qbitai.com/2026/03/392760.html</link>
+      <description>&lt;![CDATA[阿里QoderWork打通钉钉、微信、飞书 手机端可直接召唤桌面AI助手]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 04:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392760.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>卡帕西都整破防了：AI Coding没门槛，可部署环节真嗯啊的难</title>
+      <link>https://www.qbitai.com/2026/03/392720.html</link>
+      <description>&lt;![CDATA[卡帕西都整破防了：AI Coding没门槛，可部署环节真嗯啊的难]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 04:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392720.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>这群在知乎上“造人”的年轻人，决定让AI替你交朋友</title>
+      <link>https://www.qbitai.com/2026/03/392697.html</link>
+      <description>&lt;![CDATA[这群在知乎上“造人”的年轻人，决定让AI替你交朋友]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 03:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392697.html</guid>
       <category>Ai</category>
     </item>
   </channel>

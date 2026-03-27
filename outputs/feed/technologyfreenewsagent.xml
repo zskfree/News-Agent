@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Mar 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 23:35:28 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:15:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌</title>
-      <link>https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！</title>
+      <link>https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源</title>
-      <link>https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链</title>
+      <link>https://www.tmtpost.com/7931283.html</link>
+      <description>&lt;![CDATA[深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7931283.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从云原生到 AI 原生：模型引发的新一代基础设施构建</title>
-      <link>https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从云原生到 AI 原生：模型引发的新一代基础设施构建]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省</title>
+      <link>https://www.tmtpost.com/7930587.html</link>
+      <description>&lt;![CDATA[【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7930587.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>23万大厂员工被AI替代，为何一半公司又把人请回？</title>
-      <link>https://www.tmtpost.com/7930199.html</link>
-      <description>&lt;![CDATA[23万大厂员工被AI替代，为何一半公司又把人请回？]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7930199.html</guid>
+      <title>AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈</title>
+      <link>https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿</title>
-      <link>https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿]]&gt;</description>
-      <pubDate>Thu, 26 Mar 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从“盲目调优”到“数据驱动”：大规模 Agent 的评估工程实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/0rWvlDuuA5kN06q5raNR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“盲目调优”到“数据驱动”：大规模 Agent 的评估工程实践｜QCon北京]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0rWvlDuuA5kN06q5raNR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

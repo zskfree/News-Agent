@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 23:34
+**最后更新时间**: 2026-03-27 06:15
+
+---
+
+## 🆕 最新更新 (2026-03-27 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UAE pushes for international force to reopen Hormuz](https://www.ft.com/content/aeb1cf6c-edde-486e-b437-94bbd4437912)
+**发布时间**: 2026-03-27 05:00
+
+#### [Iran seeks to cash in on Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
+
+#### [How MI5 gets into the minds of young terrorists](https://www.ft.com/content/cce72e55-ec9c-4cb8-a36b-6ef307f4953e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Why molecules matter in the age of the Halo trade](https://www.ft.com/content/6e282895-8b68-41c9-8bef-a74de83d374d)
+**发布时间**: 2026-03-27 05:00
+
+#### [Keir Starmer set to make Sadiq Khan a lord](https://www.ft.com/content/6ea06de7-dae8-4711-931d-012159730e4f)
+**发布时间**: 2026-03-27 05:00
+
+#### [UK ministers to push ahead with capped ‘mandation’ powers on pension schemes](https://www.ft.com/content/ee6cb1a3-4943-4fa6-b302-c3965458ed52)
+**发布时间**: 2026-03-27 05:00
+
+#### [SocGen ditches ‘shadow’ trading floors in favour of work from home](https://www.ft.com/content/27a2614a-fc21-41ab-af43-3e1bbeb1c81e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Oil steadies as Israel renews attacks on Tehran](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-26 23:43
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Americans are now providing more than $1 trillion in unpaid family caregiving a year](https://www.marketwatch.com/story/americans-are-now-providing-more-than-1-trillion-in-unpaid-family-caregiving-a-year-bc5479fe?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 01:51
+
+#### [Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B](https://www.marketwatch.com/story/americas-nuclear-renaissance-has-everything-except-uranium-welders-and-a-plan-0851782d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 00:14
+
+#### [Investors are snubbing Trump’s Iran pause. Even his Truth Social posts may not save the market.](https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 00:14
 
 ---
 
