@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "186264c45755832d3d7fce57d527658d5561bcc558b0641fdf3c3180e7fd96d6": {
-        "title": "全球半导体TOP10，谁主沉浮",
-        "link": "https://www.tmtpost.com/7889259.html",
-        "published_date": "Wed, 25 Feb 2026 12:43:00 GMT",
-        "first_seen": "2026-02-25T23:30:10.428855"
-      },
-      "642dd2a30070ae0d0392261d4a3fa9469af7ce3b78a9672414b910526d62faad": {
-        "title": "让黄仁勋“低头”的存储，到底有多金贵？",
-        "link": "https://www.tmtpost.com/7889093.html",
-        "published_date": "Wed, 25 Feb 2026 12:01:00 GMT",
-        "first_seen": "2026-02-25T23:30:10.428864"
-      },
-      "ac363afbe87cab3477a31303c5f9930b05c1958f57207171e2bfddcd400f25a5": {
-        "title": "Anthropic指控中国AI公司，马斯克为什么第一个跳出来骂？",
-        "link": "https://www.tmtpost.com/7889357.html",
-        "published_date": "Wed, 25 Feb 2026 16:58:00 GMT",
-        "first_seen": "2026-02-25T23:30:10.428866"
-      },
-      "cb1831e731feac26d08309f3f1e0ad48085a032f74b8a1916fddf40ff5abccc0": {
-        "title": "AI 助手狂飙骤停，越权、失控与巨头的达摩克利斯之剑",
-        "link": "https://www.tmtpost.com/7888586.html",
-        "published_date": "Wed, 25 Feb 2026 15:09:00 GMT",
-        "first_seen": "2026-02-25T23:30:10.428869"
-      },
-      "dfd32163221ad8a5091b2141adb428ed4d2f87dfad6ee36704e29d2b0ba84a79": {
-        "title": "云计算，2026迈入涨价时代？",
-        "link": "https://www.tmtpost.com/7889701.html",
-        "published_date": "Wed, 25 Feb 2026 19:04:00 GMT",
-        "first_seen": "2026-02-25T23:30:10.428870"
-      },
       "b7b162f054161ae13097356e0960154e8d2d131788b1014bcf8cc781b02519b4": {
         "title": "碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界",
         "link": "https://www.tmtpost.com/7890251.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 27 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-27T08:58:35.548068"
+      },
+      "34e810e591ae951777752d6ee7265b1e26d830a115f79a7d2211786a31c5db42": {
+        "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
+        "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 18:30:00 GMT",
+        "first_seen": "2026-03-27T23:37:03.245538"
+      },
+      "c138a1909244ebfff209d610beaafc09906b962ffa2160466ba3692bfa2b06d9": {
+        "title": "具身觉醒、智造跃迁，物理AI如何在制造业落地？",
+        "link": "https://www.tmtpost.com/7931873.html",
+        "published_date": "Fri, 27 Mar 2026 19:13:00 GMT",
+        "first_seen": "2026-03-27T23:37:03.245546"
+      },
+      "7ded0d2648a426505db853c0c620b57d377d5d89ea8b012f05e635409a2f967c": {
+        "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
+        "link": "https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
+        "first_seen": "2026-03-27T23:37:03.245549"
+      },
+      "c7026223f80ba72bc76e70d043eb92313d329774644172f84b3f339089510275": {
+        "title": "国产EDA，谁在啃硬骨头？",
+        "link": "https://www.tmtpost.com/7932270.html",
+        "published_date": "Fri, 27 Mar 2026 18:55:00 GMT",
+        "first_seen": "2026-03-27T23:37:03.245551"
+      },
+      "69dcc14e245aa4812d8fcdcfc858edf420b88e341d6f9e8a048e2fa88bed35ed": {
+        "title": "IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？",
+        "link": "https://www.tmtpost.com/7931492.html",
+        "published_date": "Fri, 27 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-27T23:37:03.245553"
       }
     },
     "Finance": {
-      "41ca9fe75bdc1271a37ab3b94792c40118e7c2859f406a38e0908ebf6bf72666": {
-        "title": "Small cap’s ‘recovery’ is a myth built on unprofitable stocks. Here’s what history says happens next.",
-        "link": "https://www.marketwatch.com/story/small-caps-recovery-is-a-myth-built-on-unprofitable-stocks-heres-what-history-says-happens-next-46d163e3?mod=mw_rss_topstories",
-        "published_date": "Wed, 25 Feb 2026 22:26:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.752698"
-      },
-      "a8280a4c7c9c71508061f534999400e59c51fa7af35b7bde2266a7f5a2e2df4b": {
-        "title": "The Bank of England does not need to ‘follow the Fed’",
-        "link": "https://www.ft.com/content/fa994b39-1f06-4464-8373-c96699921764",
-        "published_date": "Wed, 25 Feb 2026 12:37:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.752705"
-      },
-      "62820c26c057fa9ab3c4f72c723817dc276c00232e59ad3d9c32550fe23c58d8": {
-        "title": "Trump digs in his heels on tariffs — with major implications for the U.S. dollar",
-        "link": "https://www.marketwatch.com/story/trump-digs-in-his-heels-on-tariffs-with-major-implications-for-the-u-s-dollar-6b31badd?mod=mw_rss_topstories",
-        "published_date": "Wed, 25 Feb 2026 21:03:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.752707"
-      },
-      "28ffa8aaf02be9c2986d6aa7de95056bc8beebf6d799b06cf2d66223ad9a021a": {
-        "title": "Nvidia posts first $200bn year on back of AI investment boom",
-        "link": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
-        "published_date": "Wed, 25 Feb 2026 21:59:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.752709"
-      },
-      "bfe252f94c2a4b98d05630b7b94e16283f9067e8098261213e992333be167192": {
-        "title": "Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom",
-        "link": "https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?mod=mw_rss_topstories",
-        "published_date": "Wed, 25 Feb 2026 23:26:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.752710"
-      },
       "6165a6f18cf7feb0ba107eb8a6d0165d9ca73a0f0649e212aab61c0398203c49": {
         "title": "Inside the $265mn war over who writes America’s AI rules",
         "link": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6",
@@ -4611,39 +4581,39 @@
         "link": "https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories",
         "published_date": "Fri, 27 Mar 2026 07:35:00 GMT",
         "first_seen": "2026-03-27T08:58:35.583559"
+      },
+      "65a38c7712c1c5a1eadd3a7f258e36c70584ad3696701e7a60343331216cacb8": {
+        "title": "Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’",
+        "link": "https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7",
+        "published_date": "Fri, 27 Mar 2026 21:03:00 GMT",
+        "first_seen": "2026-03-27T23:37:18.878723"
+      },
+      "47f5376d2b72875d7c3487969d138e0d8e0fbf48c9f0c8b5fd49839cb51fbe4e": {
+        "title": "More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?",
+        "link": "https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Mar 2026 21:46:00 GMT",
+        "first_seen": "2026-03-27T23:37:18.878730"
+      },
+      "6f9748ffca89952b90698e23e01b9f1c8218df70d5d5d43f1374b9fb7382f0a1": {
+        "title": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic",
+        "link": "https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22",
+        "published_date": "Fri, 27 Mar 2026 17:43:00 GMT",
+        "first_seen": "2026-03-27T23:37:18.878732"
+      },
+      "f850a4a8baef861fcb59413310415d182865ff076b9792d9fb690646c7dfa260": {
+        "title": "KPMG to cut almost 600 UK jobs as slowdown persists",
+        "link": "https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11",
+        "published_date": "Fri, 27 Mar 2026 22:24:00 GMT",
+        "first_seen": "2026-03-27T23:37:18.878734"
+      },
+      "24a4a92f77aac97453cd8f7b25a464359393eccf42ba0d22ba861ecab56ac610": {
+        "title": "US seeks to scrap offshore wind projects in exchange for fossil fuel deals",
+        "link": "https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7",
+        "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
+        "first_seen": "2026-03-27T23:37:18.878735"
       }
     },
     "Ai": {
-      "ba239e7ac39d42061a79ab193c96bf33e1437c15866ca321897b27385d9eabfb": {
-        "title": "遭谷歌制裁，OpenClaw创始人怒怼：Anthropic会先打电话，你们直接封号",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-25-10",
-        "published_date": "Wed, 25 Feb 2026 18:14:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.872085"
-      },
-      "877934e31e25a1575235d5d63caf9ed7c56ed41af7376254c42b67a9589e4a5f": {
-        "title": "ICLR 2026 | 把视频扩散模型压到4bit，还能接近满血效果？ QVGen让「超低比特视频生成量化」真正可用",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-25-9",
-        "published_date": "Wed, 25 Feb 2026 18:07:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.872099"
-      },
-      "9de1465a9c43fcc5a9108cb2ecb0b6e815cdfcf81e94e4cbfa49d950bca6f948": {
-        "title": "MiniMax又又来吃龙虾肉了！OpenClaw真·一键部署，还有上万专家智能体等你差遣",
-        "link": "https://www.qbitai.com/2026/02/382127.html",
-        "published_date": "Wed, 25 Feb 2026 15:58:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.872101"
-      },
-      "ba299bc988b1f6f53be305e006fd86552364a1c45c9d31e0b8efd22e4c93e0a1": {
-        "title": "马年4大顶流模型会师阿里云Coding Plan开工！Token量大管饱，自由切换真香",
-        "link": "https://www.qbitai.com/2026/02/382083.html",
-        "published_date": "Wed, 25 Feb 2026 15:14:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.872102"
-      },
-      "24dc64f0390d38c83795fa7a344f756b2bc3bda9d8f3c14952de4a9ca1f07fd4": {
-        "title": "2026-02-25日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-25/",
-        "published_date": "Wed, 25 Feb 2026 10:00:00 GMT",
-        "first_seen": "2026-02-25T23:30:28.872104"
-      },
       "46856677d56a8589b6fc59ab50d544f7b65320d2df818f0ad41ae2dcd3cf6af1": {
         "title": "Karpathy：AI编程已质变，就从去年12月开始",
         "link": "https://www.qbitai.com/2026/02/382626.html",
@@ -5807,13 +5777,43 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-27/",
         "published_date": "Fri, 27 Mar 2026 10:39:00 GMT",
         "first_seen": "2026-03-27T08:58:35.730073"
+      },
+      "1abec05275340898eef3d173ee79b59e363786225c06f4c86678ef2de17c5699": {
+        "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
+        "link": "https://www.qbitai.com/2026/03/392878.html",
+        "published_date": "Fri, 27 Mar 2026 14:28:00 GMT",
+        "first_seen": "2026-03-27T23:37:30.245275"
+      },
+      "344fcc9915ce253e83bad3aa13ba17ed2e0654f001e862e1aef9379c8d4a19a4": {
+        "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
+        "link": "https://www.qbitai.com/2026/03/392828.html",
+        "published_date": "Fri, 27 Mar 2026 11:50:00 GMT",
+        "first_seen": "2026-03-27T23:37:30.245282"
+      },
+      "8423533c9d399c945e9fc9428a463d43e92e8266d3ac0a213ed31f7b865a6129": {
+        "title": "NeurIPS滑跪认错！一切都是误会，已纠正",
+        "link": "https://www.qbitai.com/2026/03/392814.html",
+        "published_date": "Fri, 27 Mar 2026 09:49:00 GMT",
+        "first_seen": "2026-03-27T23:37:30.245284"
+      },
+      "e8e1678b2d874a69185582afaa642aa3d4c167b2abe01c2309c0ae894da9ad6a": {
+        "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
+        "link": "https://www.qbitai.com/2026/03/392835.html",
+        "published_date": "Fri, 27 Mar 2026 14:08:00 GMT",
+        "first_seen": "2026-03-27T23:37:30.245286"
+      },
+      "225104ade005d32ce94b9bd0a5895f4d94381ba027be142a48d9de345a0b68a9": {
+        "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
+        "link": "https://www.qbitai.com/2026/03/392896.html",
+        "published_date": "Fri, 27 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-27T23:37:30.245288"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-27T08:58:35.548070",
-    "Finance": "2026-03-27T08:58:35.583561",
-    "Ai": "2026-03-27T08:58:35.730075"
+    "Technology": "2026-03-27T23:37:03.245556",
+    "Finance": "2026-03-27T23:37:18.878738",
+    "Ai": "2026-03-27T23:37:30.245290"
   }
 }

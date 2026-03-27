@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 08:58
+**最后更新时间**: 2026-03-27 23:36
+
+---
+
+## 🆕 最新更新 (2026-03-27 23:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [波司登高级产品线AREAL第二季作品首发；雅诗兰黛中国供应链智能运营中心正式启用；中国国家攀岩队可隆全新比赛服发布｜消研所周报](https://www.tmtpost.com/7932246.html)
+**发布时间**: 2026-03-27 23:18
+
+#### [当激光雷达进入10万级，智驾溢价逻辑正在松动](https://www.tmtpost.com/7932660.html)
+**发布时间**: 2026-03-27 22:43
+
+#### [A股上市3年后又拟赴港IPO，拆解12倍牛股源杰科技的资本阳谋](https://www.tmtpost.com/7932589.html)
+**发布时间**: 2026-03-27 21:49
+
+#### [等在500万AI缺口外的年轻人](https://www.tmtpost.com/7930370.html)
+**发布时间**: 2026-03-27 20:06
+
+#### [捉宠赛道第一款大作，首日畅销TOP4 ，是腾讯下一款「长青」吗？](https://www.tmtpost.com/7930720.html)
+**发布时间**: 2026-03-27 20:06
+
+#### [外卖大战一周年，战损比就是护城河](https://www.tmtpost.com/7932205.html)
+**发布时间**: 2026-03-27 20:03
+
+#### [程一笑不是“盖世英雄”](https://www.tmtpost.com/7932213.html)
+**发布时间**: 2026-03-27 20:03
+
+#### [具身觉醒、智造跃迁，物理AI如何在制造业落地？](https://www.tmtpost.com/7931873.html)
+**发布时间**: 2026-03-27 19:13
+
+#### [这个财报季，财报成了最没用的东西](https://www.tmtpost.com/7932255.html)
+**发布时间**: 2026-03-27 18:57
+
+#### [周鸿祎的AI突围：不下场，就出局](https://www.tmtpost.com/7932140.html)
+**发布时间**: 2026-03-27 18:57
+
+#### [国产手机涨价，抛弃不需要AI手机的人？](https://www.tmtpost.com/7932139.html)
+**发布时间**: 2026-03-27 18:57
+
+#### [国产EDA，谁在啃硬骨头？](https://www.tmtpost.com/7932270.html)
+**发布时间**: 2026-03-27 18:55
+
+#### [失去张雪峰，考研流量将飘向何处？](https://www.tmtpost.com/7932219.html)
+**发布时间**: 2026-03-27 18:54
+
+#### [罗福莉：AGI已经实现了，下一步是“自进化”](https://www.tmtpost.com/7932107.html)
+**发布时间**: 2026-03-27 18:42
+
+#### [当周杰伦对撞AI和短视频：腾B抖快怎么分这块蛋糕？](https://www.tmtpost.com/7932108.html)
+**发布时间**: 2026-03-27 18:42
+
+#### [张凌赫被嘲“粉底液将军”，网友到底在不满什么？](https://www.tmtpost.com/7932225.html)
+**发布时间**: 2026-03-27 18:42
+
+#### [科陆电子，一个“差生”的艰难逆袭](https://www.tmtpost.com/7930750.html)
+**发布时间**: 2026-03-27 17:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年](https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 18:52
+
+#### [传月之暗面考虑赴香港进行 IPO，内部人员证实去年底已启动成本核算](https://www.infoq.cn/article/HUWHl1y4s0K0fNxm7iv0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 18:48
+
+#### [1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码](https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 18:30
+
+#### [不是路演，是看火箭发射！马斯克亲自为 SpaceX IPO 写剧本：散户和粉丝先上桌](https://www.infoq.cn/article/F8R89EPpSXmROiaHUKqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 18:16
+
+#### [爆火出圈！12 城奔赴，9w + 线上围观，OpenClaw 中国行圆满落幕](https://www.infoq.cn/article/zz39gpVYX9DfB8qBEIOA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 17:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107948)
+**发布时间**: 2026-03-27 18:30
 
 ---
 

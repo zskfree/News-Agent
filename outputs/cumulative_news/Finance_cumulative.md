@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 08:58
+**最后更新时间**: 2026-03-27 23:36
+
+---
+
+## 🆕 最新更新 (2026-03-27 23:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is Trump losing his grip on the stock market? Sustained declines suggest the president’s influence has waned.](https://www.marketwatch.com/story/is-trump-losing-his-grip-on-the-market-sustained-stock-declines-suggest-the-presidents-influence-has-waned-02bc5938?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:18
+
+#### [‘He didn’t seem very alert’: Our new CPA said we owe a $443 tax refund, but we’re actually due $637. Do we fire him?](https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:16
+
+#### [My brother says lawyers can get him a Medicaid nursing home in Florida for a ‘hefty fee,’ despite his assets. Is this a scam?](https://www.marketwatch.com/story/my-brother-says-lawyers-can-get-him-into-a-medicaid-nursing-home-despite-his-many-assets-is-this-a-scam-614c2f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:15
+
+#### [More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?](https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:46
+
+#### [These 16 stocks are a short seller’s dream — likely losers no matter what the market does](https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:31
+
+#### [Social media is now a massive liability for Meta, Google and the rest of Big Tech](https://www.marketwatch.com/story/big-tech-deserves-its-big-tobacco-moment-social-media-is-now-a-massive-liability-for-meta-and-google-5d81bd70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:29
+
+#### [The $200,000 down-payment dilemma: Gift the cash now — or make your kids wait for the will](https://www.marketwatch.com/story/the-200-000-down-payment-dilemma-gift-the-cash-now-or-make-your-kids-wait-for-the-will-3966f615?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:25
+
+#### [Microsoft’s stock hasn’t been this oversold in a decade, with the tech giant ‘really losing the AI narrative’](https://www.marketwatch.com/story/microsofts-stock-hasnt-been-this-oversold-in-a-decade-with-the-tech-giant-really-losing-the-ai-narrative-5d986b1f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 20:52
+
+#### [Meta’s stock extends decline — and the pressure may not abate anytime soon](https://www.marketwatch.com/story/metas-stock-extends-decline-and-the-pressure-may-not-abate-anytime-soon-ea01a671?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 20:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KPMG to cut almost 600 UK jobs as slowdown persists](https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11)
+**发布时间**: 2026-03-27 22:24
+
+#### [Gulf officials seek to calm investors as war rattles confidence](https://www.ft.com/content/c5ea85a8-e08b-4773-9c07-2e10c6fce73f)
+**发布时间**: 2026-03-27 21:35
+
+#### [Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’](https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7)
+**发布时间**: 2026-03-27 21:03
+
+#### [Memory chip stocks shed $100bn as AI-driven shortage trade unwinds](https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292)
+**发布时间**: 2026-03-27 19:28
+
+#### [US expects war against Iran to last another 2-4 weeks, Rubio tells G7](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-27 19:06
+
+#### [UK diesel stockpiles at risk, warn traders](https://www.ft.com/content/b20bd209-0f76-486a-8ad5-d2fb7f539b24)
+**发布时间**: 2026-03-27 19:06
+
+#### [Google nears deal to help finance multibillion-dollar data centre leased to Anthropic](https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22)
+**发布时间**: 2026-03-27 17:43
+
+#### [What the Iran war teaches America’s adversaries](https://www.ft.com/content/267f4f7f-eab9-42c4-ae5a-042247c400cf)
+**发布时间**: 2026-03-27 16:17
+
+#### [US seeks to scrap offshore wind projects in exchange for fossil fuel deals](https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7)
+**发布时间**: 2026-03-27 16:14
+
+#### [Time to tackle the rank absurdities in UK energy policy](https://www.ft.com/content/adfa1335-f12c-41d1-ac2f-d9895c8ab288)
+**发布时间**: 2026-03-27 15:08
+
+#### [How Iran is seeking to cash in on the Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
 
 ---
 

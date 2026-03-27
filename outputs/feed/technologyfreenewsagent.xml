@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Mar 2026 08:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 08:58:35 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 23:36:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 23:37:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌</title>
-      <link>https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码</title>
+      <link>https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦</title>
-      <link>https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具身觉醒、智造跃迁，物理AI如何在制造业落地？</title>
+      <link>https://www.tmtpost.com/7931873.html</link>
+      <description>&lt;![CDATA[具身觉醒、智造跃迁，物理AI如何在制造业落地？]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7931873.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区</title>
-      <link>https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考</title>
+      <link>https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递</title>
-      <link>https://www.tmtpost.com/7931271.html</link>
-      <description>&lt;![CDATA[荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931271.html</guid>
+      <title>国产EDA，谁在啃硬骨头？</title>
+      <link>https://www.tmtpost.com/7932270.html</link>
+      <description>&lt;![CDATA[国产EDA，谁在啃硬骨头？]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932270.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据</title>
-      <link>https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？</title>
+      <link>https://www.tmtpost.com/7931492.html</link>
+      <description>&lt;![CDATA[IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7931492.html</guid>
       <category>Technology</category>
     </item>
   </channel>

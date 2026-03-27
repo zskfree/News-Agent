@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Mar 2026 08:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 08:58:35 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 23:37:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>企业软件底层逻辑脱胎换骨：从席位订阅到决策订阅，下一个万亿公司属于这类玩家</title>
-      <link>https://www.qbitai.com/2026/03/392779.html</link>
-      <description>&lt;![CDATA[企业软件底层逻辑脱胎换骨：从席位订阅到决策订阅，下一个万亿公司属于这类玩家]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 07:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392779.html</guid>
+      <title>杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了</title>
+      <link>https://www.qbitai.com/2026/03/392878.html</link>
+      <description>&lt;![CDATA[杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392878.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>林俊旸离职后首次发声！复盘千问的弯路，指出AI的新路</title>
-      <link>https://www.qbitai.com/2026/03/392770.html</link>
-      <description>&lt;![CDATA[林俊旸离职后首次发声！复盘千问的弯路，指出AI的新路]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 06:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392770.html</guid>
+      <title>钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等</title>
+      <link>https://www.qbitai.com/2026/03/392828.html</link>
+      <description>&lt;![CDATA[钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392828.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-03-27日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-27/</link>
-      <description>&lt;![CDATA[2026-03-27日刊]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 10:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-27/</guid>
+      <title>NeurIPS滑跪认错！一切都是误会，已纠正</title>
+      <link>https://www.qbitai.com/2026/03/392814.html</link>
+      <description>&lt;![CDATA[NeurIPS滑跪认错！一切都是误会，已纠正]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392814.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了</title>
+      <link>https://www.qbitai.com/2026/03/392835.html</link>
+      <description>&lt;![CDATA[国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392835.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台</title>
+      <link>https://www.qbitai.com/2026/03/392896.html</link>
+      <description>&lt;![CDATA[趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392896.html</guid>
       <category>Ai</category>
     </item>
   </channel>

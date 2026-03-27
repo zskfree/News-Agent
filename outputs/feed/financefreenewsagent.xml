@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Mar 2026 08:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 08:58:35 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 23:36:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 23:37:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.</title>
-      <link>https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories</guid>
+      <title>Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’</title>
+      <link>https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7</link>
+      <description>&lt;![CDATA[Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE</title>
-      <link>https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 07:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories</guid>
+      <title>More than half of the S&amp;P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?</title>
+      <link>https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[More than half of the S&amp;P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 21:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Google nears deal to help finance multibillion-dollar data centre leased to Anthropic</title>
+      <link>https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22</link>
+      <description>&lt;![CDATA[Google nears deal to help finance multibillion-dollar data centre leased to Anthropic]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>KPMG to cut almost 600 UK jobs as slowdown persists</title>
+      <link>https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11</link>
+      <description>&lt;![CDATA[KPMG to cut almost 600 UK jobs as slowdown persists]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 22:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US seeks to scrap offshore wind projects in exchange for fossil fuel deals</title>
+      <link>https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7</link>
+      <description>&lt;![CDATA[US seeks to scrap offshore wind projects in exchange for fossil fuel deals]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7</guid>
       <category>Finance</category>
     </item>
   </channel>
