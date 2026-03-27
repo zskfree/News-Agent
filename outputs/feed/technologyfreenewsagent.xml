@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Mar 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 06:15:40 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 08:58:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 08:58:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！</title>
-      <link>https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌</title>
+      <link>https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链</title>
-      <link>https://www.tmtpost.com/7931283.html</link>
-      <description>&lt;![CDATA[深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931283.html</guid>
+      <title>AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦</title>
+      <link>https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省</title>
-      <link>https://www.tmtpost.com/7930587.html</link>
-      <description>&lt;![CDATA[【钛晨报】8部门印发《加快建立长期护理保险制度实施方案》；中国科学院启动下一代开源芯片与系统研发；谷歌推出压缩算法TurboQuant，宣称实现约6倍内存节省]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7930587.html</guid>
+      <title>堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区</title>
+      <link>https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈</title>
-      <link>https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递</title>
+      <link>https://www.tmtpost.com/7931271.html</link>
+      <description>&lt;![CDATA[荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7931271.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“盲目调优”到“数据驱动”：大规模 Agent 的评估工程实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/0rWvlDuuA5kN06q5raNR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“盲目调优”到“数据驱动”：大规模 Agent 的评估工程实践｜QCon北京]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0rWvlDuuA5kN06q5raNR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据</title>
+      <link>https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据]]&gt;</description>
+      <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

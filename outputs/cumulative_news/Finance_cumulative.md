@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 06:15
+**最后更新时间**: 2026-03-27 08:58
+
+---
+
+## 🆕 最新更新 (2026-03-27 08:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.](https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 08:09
+
+#### [U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE](https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 07:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Iran seeks to cash in on Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
+
+#### [Echoes of history: what the oil shock means for your money](https://www.ft.com/content/37ab11f7-2ba0-4d76-a5b5-e3dec460628e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Reform UK figures braced for electoral damage from Trump links](https://www.ft.com/content/c07b1941-d271-49b5-9244-e72695501a00)
+**发布时间**: 2026-03-27 05:00
+
+#### [Energy crisis deals blow to hopes for UK consumer revival](https://www.ft.com/content/1b5ec0a2-b4a9-415e-958c-f9a7725dced6)
+**发布时间**: 2026-03-27 00:01
+
+#### [Oil nears $110 as Trump deadline extension fails to calm markets](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-26 23:43
 
 ---
 

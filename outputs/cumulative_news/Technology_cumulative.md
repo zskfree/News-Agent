@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 06:15
+**最后更新时间**: 2026-03-27 08:58
+
+---
+
+## 🆕 最新更新 (2026-03-27 08:58)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [存量厮杀下的逆势样本：净利大增33.6%，卫龙凭什么？](https://www.tmtpost.com/7931679.html)
+**发布时间**: 2026-03-27 16:42
+
+#### [Philippines Faces Energy Crisis With Closure of the Strait of Hormuz](https://www.tmtpost.com/7931864.html)
+**发布时间**: 2026-03-27 16:21
+
+#### [每天销毁1亿美元，探秘美联储现金堡垒，背后藏着怎样的资本暗流？](https://www.tmtpost.com/7931800.html)
+**发布时间**: 2026-03-27 16:13
+
+#### [荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递](https://www.tmtpost.com/7931271.html)
+**发布时间**: 2026-03-27 15:37
+
+#### [阿里前员工做了个“破壁”版龙虾，这能让大模型记住你吗｜AI Founder 请回答](https://www.tmtpost.com/7931415.html)
+**发布时间**: 2026-03-27 15:35
+
+#### [With Helium Spot Price up 50%, Samsung and SK Hynix on Edge](https://www.tmtpost.com/7931779.html)
+**发布时间**: 2026-03-27 15:28
+
+#### [西门子中国董事长肖松：工业AI的破局之道，从生态共建开始](https://www.tmtpost.com/7931614.html)
+**发布时间**: 2026-03-27 14:55
+
+#### [杨植麟、张鹏、罗福莉等阔谈，OpenClaw正在重写AI产业逻辑](https://www.tmtpost.com/7931599.html)
+**发布时间**: 2026-03-27 14:47
+
+#### [2025年中国旅游市场分析报告](https://www.tmtpost.com/7931398.html)
+**发布时间**: 2026-03-27 14:33
+
+#### [40家医疗企业扭亏为盈：靠什么？又能否延续增长？](https://www.tmtpost.com/7931621.html)
+**发布时间**: 2026-03-27 14:33
+
+#### [欢迎中国投资，但别带中国技术：英国风电将明阳15亿英镑挡在门外](https://www.tmtpost.com/7931528.html)
+**发布时间**: 2026-03-27 14:33
+
+#### [不要过度迷恋向上社交](https://www.tmtpost.com/7931631.html)
+**发布时间**: 2026-03-27 14:25
+
+#### [不给员工发Token，都不好意思叫AI公司了](https://www.tmtpost.com/7931549.html)
+**发布时间**: 2026-03-27 14:25
+
+#### [太多人想教老铺黄金怎么做生意了](https://www.tmtpost.com/7931592.html)
+**发布时间**: 2026-03-27 14:17
+
+#### [IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？](https://www.tmtpost.com/7931492.html)
+**发布时间**: 2026-03-27 14:17
+
+#### [存储周期“变形记”](https://www.tmtpost.com/7930928.html)
+**发布时间**: 2026-03-27 14:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦](https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 16:37
+
+#### [AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌](https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 16:20
+
+#### [当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考](https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 16:14
+
+#### [AI一键生成网站之后，最残酷的差距出现了：代码不再值钱，审美决定生死](https://www.infoq.cn/article/QKUxE1tLX7p2EvM7Kldq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 16:13
+
+#### [拒绝向量打补丁：TiDB CTO 黄东旭如何给龙虾装上“私有大脑”？](https://www.infoq.cn/article/7u80RIHFM2hMO5rFrBFA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 15:39
+
+#### [Uber 借助智能体系统实现设计文档自动化](https://www.infoq.cn/article/ByY97HEFsSdPTMIVzJuP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 15:00
+
+#### [堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区](https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-27 14:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线](https://sspai.com/post/107748)
+**发布时间**: 2026-03-27 14:42
+
+#### [共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？](https://sspai.com/post/101488)
+**发布时间**: 2026-03-27 14:37
+
+#### [一日一技 | 用 SD Card Formatter 免费修复越用越慢的 SD 卡](https://sspai.com/post/106559)
+**发布时间**: 2026-03-27 11:34
 
 ---
 
