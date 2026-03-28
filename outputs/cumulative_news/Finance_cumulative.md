@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 06:00
+**最后更新时间**: 2026-03-28 08:44
+
+---
+
+## 🆕 最新更新 (2026-03-28 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The decapitation dilemma](https://www.ft.com/content/36b4e6fc-8fb2-4fa3-8621-6fab2950d979)
+**发布时间**: 2026-03-28 05:00
+
+#### [A ‘victim’ and a ‘dinosaur’: three days of Crispin Odey testimony](https://www.ft.com/content/4fd5f10d-f161-4e77-8377-28239d9ab018)
+**发布时间**: 2026-03-28 05:00
 
 ---
 

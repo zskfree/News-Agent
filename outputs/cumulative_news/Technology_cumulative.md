@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 06:00
+**最后更新时间**: 2026-03-28 08:44
+
+---
+
+## 🆕 最新更新 (2026-03-28 08:44)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Anthropic泄露背后：AI安全承诺的破产与重构](https://www.tmtpost.com/7933051.html)
+**发布时间**: 2026-03-28 16:21
+
+#### [小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌](https://www.tmtpost.com/7932893.html)
+**发布时间**: 2026-03-28 14:32
+
+#### [Sora关停，Seedance怎么办？](https://www.tmtpost.com/7932819.html)
+**发布时间**: 2026-03-28 14:17
+
+#### [快手需要再次证明自己](https://www.tmtpost.com/7932687.html)
+**发布时间**: 2026-03-28 14:17
+
+#### [“养虾热”终于还是要退潮了](https://www.tmtpost.com/7932650.html)
+**发布时间**: 2026-03-28 14:16
+
+#### [当规模不再是护城河，中国车企还要拼什么？｜钛度车库](https://www.tmtpost.com/7933009.html)
+**发布时间**: 2026-03-28 14:04
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532505&idx=1&sn=d46d1565fb061ce152fefa35aa44ab65)
+**发布时间**: 2026-03-28 15:05
+
+#### [7 个最近 GitHub 上火火火的开源项目，推荐一哈。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532504&idx=1&sn=caf0776d5777153444ed66019db4ac12)
+**发布时间**: 2026-03-27 16:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [绿色 IT ：如何减轻 AI 对环境的影响](https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-28 15:00
 
 ---
 

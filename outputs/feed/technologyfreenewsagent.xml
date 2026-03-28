@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Mar 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 06:00:40 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 08:44:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死</title>
-      <link>https://www.tmtpost.com/7917925.html</link>
-      <description>&lt;![CDATA[黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7917925.html</guid>
+      <title>Anthropic泄露背后：AI安全承诺的破产与重构</title>
+      <link>https://www.tmtpost.com/7933051.html</link>
+      <description>&lt;![CDATA[Anthropic泄露背后：AI安全承诺的破产与重构]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933051.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降</title>
-      <link>https://www.tmtpost.com/7932156.html</link>
-      <description>&lt;![CDATA[RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932156.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿</title>
-      <link>https://www.tmtpost.com/7932862.html</link>
-      <description>&lt;![CDATA[AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932862.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门</title>
-      <link>https://www.tmtpost.com/7932515.html</link>
-      <description>&lt;![CDATA[中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932515.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>机器人开源革命：“免费大脑”背后的四派力量与博弈</title>
-      <link>https://www.tmtpost.com/7932836.html</link>
-      <description>&lt;![CDATA[机器人开源革命：“免费大脑”背后的四派力量与博弈]]&gt;</description>
+      <title>不再等待OpenAI：月之暗面为何在此时变阵？</title>
+      <link>https://www.tmtpost.com/7932353.html</link>
+      <description>&lt;![CDATA[不再等待OpenAI：月之暗面为何在此时变阵？]]&gt;</description>
       <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932836.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932353.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋为什么停不下来？</title>
+      <link>https://www.tmtpost.com/7932377.html</link>
+      <description>&lt;![CDATA[黄仁勋为什么停不下来？]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932377.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65</link>
+      <description>&lt;![CDATA[这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65</guid>
       <category>Technology</category>
     </item>
   </channel>

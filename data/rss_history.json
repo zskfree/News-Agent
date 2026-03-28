@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7932836.html",
         "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
         "first_seen": "2026-03-28T06:00:40.601050"
+      },
+      "e7bc8160eb981e664c91fffccf085fa09771e9d7954911445da6df48db2f17f0": {
+        "title": "Anthropic泄露背后：AI安全承诺的破产与重构",
+        "link": "https://www.tmtpost.com/7933051.html",
+        "published_date": "Sat, 28 Mar 2026 16:21:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.222880"
+      },
+      "98b463c85d167f61351407d41816d1c2b0c65db8ea0c4c150efdaa5ff6fb2d77": {
+        "title": "不再等待OpenAI：月之暗面为何在此时变阵？",
+        "link": "https://www.tmtpost.com/7932353.html",
+        "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.222891"
+      },
+      "e1bd767ba53bc4465b13a4335495be868a3e0d6dc23237f55973200e2fceab44": {
+        "title": "黄仁勋为什么停不下来？",
+        "link": "https://www.tmtpost.com/7932377.html",
+        "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.222894"
+      },
+      "4aeadaa47459a1c39eacd5f1b7acba9fadd37378000ffda752d03f15fc3dce31": {
+        "title": "Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.222895"
+      },
+      "e829f2f73f4c9a36e51f89b61a78ee5aa9ff8c37503c5ee43557478c71a0e624": {
+        "title": "这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532505&idx=1&sn=d46d1565fb061ce152fefa35aa44ab65",
+        "published_date": "Sat, 28 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.222897"
       }
     },
     "Finance": {
@@ -5783,13 +5813,31 @@
         "link": "https://www.qbitai.com/2026/03/392900.html",
         "published_date": "Sat, 28 Mar 2026 02:09:00 GMT",
         "first_seen": "2026-03-28T06:00:40.784619"
+      },
+      "dd73d97f376975407a2a16431741b6ee372dbf8d920a6a54da377c505c4624f4": {
+        "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+        "link": "https://www.qbitai.com/2026/03/392948.html",
+        "published_date": "Sat, 28 Mar 2026 06:16:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.379583"
+      },
+      "2f2962ca1595dbf0f35557dcccba06ab93d3f4d5ba662de7c129aae5fe5d6fe2": {
+        "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+        "link": "https://www.qbitai.com/2026/03/392914.html",
+        "published_date": "Sat, 28 Mar 2026 06:06:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.379592"
+      },
+      "0fb80070a5c09cf4de23a2e7db392bccdeb7217a701ace9848fa562331306665": {
+        "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+        "link": "https://www.qbitai.com/2026/03/392903.html",
+        "published_date": "Sat, 28 Mar 2026 06:01:00 GMT",
+        "first_seen": "2026-03-28T08:44:23.379594"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-28T06:00:40.601053",
+    "Technology": "2026-03-28T08:44:23.222899",
     "Finance": "2026-03-28T06:00:40.639303",
-    "Ai": "2026-03-28T06:00:40.784621"
+    "Ai": "2026-03-28T08:44:23.379596"
   }
 }
