@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 23:36
+**最后更新时间**: 2026-03-28 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-28 06:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿](https://www.tmtpost.com/7932862.html)
+**发布时间**: 2026-03-28 13:09
+
+#### [234亿亏损换一张船票，美团开启一场“无限游戏”](https://www.tmtpost.com/7932620.html)
+**发布时间**: 2026-03-28 12:10
+
+#### [Rokid开了好头，但祝铭明考验才刚开始](https://www.tmtpost.com/7932594.html)
+**发布时间**: 2026-03-28 12:10
+
+#### [黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死](https://www.tmtpost.com/7917925.html)
+**发布时间**: 2026-03-28 12:10
+
+#### [RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降](https://www.tmtpost.com/7932156.html)
+**发布时间**: 2026-03-28 12:03
+
+#### [永励精密：业绩“变脸”，家族“掌权”，大客户成“甜蜜枷锁” | IPO观察](https://www.tmtpost.com/7932903.html)
+**发布时间**: 2026-03-28 11:18
+
+#### [规模跑赢风控，是便利店松散加盟的致命伤](https://www.tmtpost.com/7932520.html)
+**发布时间**: 2026-03-28 10:40
+
+#### [“玉米油王”巨亏20亿，股权清仓拍卖陷绝境](https://www.tmtpost.com/7932479.html)
+**发布时间**: 2026-03-28 10:40
+
+#### [机构为什么抄底泡泡玛特？](https://www.tmtpost.com/7932509.html)
+**发布时间**: 2026-03-28 10:29
+
+#### [中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门](https://www.tmtpost.com/7932515.html)
+**发布时间**: 2026-03-28 10:29
+
+#### [二级市场也需要更新对泡泡玛特的理解框架了](https://www.tmtpost.com/7932527.html)
+**发布时间**: 2026-03-28 10:29
+
+#### [曹操出行2025年业绩：首次调整后Q4盈利，定制车壁垒驱动Robotaxi转型全面提速](https://www.tmtpost.com/7932861.html)
+**发布时间**: 2026-03-28 10:01
+
+#### [司美格鲁肽仿制药之争：国内超 20 家药企竞速，靠什么笑到最后？](https://www.tmtpost.com/7932400.html)
+**发布时间**: 2026-03-28 09:49
+
+#### [机器人开源革命：“免费大脑”背后的四派力量与博弈](https://www.tmtpost.com/7932836.html)
+**发布时间**: 2026-03-28 09:38
+
+#### [黄仁勋为什么停不下来？](https://www.tmtpost.com/7932377.html)
+**发布时间**: 2026-03-28 09:38
+
+#### [不再等待OpenAI：月之暗面为何在此时变阵？](https://www.tmtpost.com/7932353.html)
+**发布时间**: 2026-03-28 09:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写在 Raycast 2.0 前夜：一份不再过时的使用指南](https://sspai.com/post/107980)
+**发布时间**: 2026-03-28 11:03
+
+#### [付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器](https://sspai.com/post/107843)
+**发布时间**: 2026-03-28 09:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持](https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-28 11:00
+
+#### [Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%](https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-28 10:00
+
+#### [Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京](https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-28 10:00
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b7b162f054161ae13097356e0960154e8d2d131788b1014bcf8cc781b02519b4": {
-        "title": "碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界",
-        "link": "https://www.tmtpost.com/7890251.html",
-        "published_date": "Thu, 26 Feb 2026 10:13:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697348"
-      },
-      "58cd90fd9cdaee0972815d723cb0b84d571e766cc4342cc24e5b155590cf5d94": {
-        "title": "字节攻城，阿里筑墙：2026年AI云战役的终局推演",
-        "link": "https://www.tmtpost.com/7890007.html",
-        "published_date": "Thu, 26 Feb 2026 10:30:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697373"
-      },
-      "e48ef84cb760f816880cdfc1faf3435b3e0ac93a732a95cc48e5d7822f057361": {
-        "title": "科技巨头正为驱动人工智能投入巨资，这些公用事业公司将成为大赢家",
-        "link": "https://www.tmtpost.com/7890430.html",
-        "published_date": "Thu, 26 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697376"
-      },
-      "1a7adc656cc0ec1a14ebf19c87b1ab65465bf43b833aaad9ab694ea7f6ebe181": {
-        "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力",
-        "link": "https://www.infoq.cn/article/WXJ1S1rsALiDNxoswz6f?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697378"
-      },
-      "ff923a1968300f8a25d8b6a380fcf7813cb7a769a1011633720b5ec0c564f0df": {
-        "title": "机器人从“春晚”到“我家”需要几步？",
-        "link": "https://www.tmtpost.com/7890503.html",
-        "published_date": "Thu, 26 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697380"
-      },
       "247ea52ddee786be854e34279a12166fba1b1b270a41f86dfc52641ebe4bf496": {
         "title": "黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍",
         "link": "https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7931492.html",
         "published_date": "Fri, 27 Mar 2026 14:17:00 GMT",
         "first_seen": "2026-03-27T23:37:03.245553"
+      },
+      "8c7d187611211f266d04b0876b88e31e73bc16e6f26d35367743d44427612feb": {
+        "title": "黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死",
+        "link": "https://www.tmtpost.com/7917925.html",
+        "published_date": "Sat, 28 Mar 2026 12:10:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.601028"
+      },
+      "3408c69da2f946722a7626f7f5ff2c6c52f0dcc9b2ae1d54df9af4c8e323b8b4": {
+        "title": "RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降",
+        "link": "https://www.tmtpost.com/7932156.html",
+        "published_date": "Sat, 28 Mar 2026 12:03:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.601043"
+      },
+      "515755687a4e07550b44cd0722bcd685a1096105849a78e4c2da93b43a9c196d": {
+        "title": "AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿",
+        "link": "https://www.tmtpost.com/7932862.html",
+        "published_date": "Sat, 28 Mar 2026 13:09:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.601046"
+      },
+      "81e8a8f99360dd620721c69c6526605fd214a5ac5500bbd25abf12ed8c0d954b": {
+        "title": "中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门",
+        "link": "https://www.tmtpost.com/7932515.html",
+        "published_date": "Sat, 28 Mar 2026 10:29:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.601048"
+      },
+      "66cc3d10d96f1a896c46d32030688af4f1c27d5cb4936b67c7e38a2675b186d2": {
+        "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
+        "link": "https://www.tmtpost.com/7932836.html",
+        "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.601050"
       }
     },
     "Finance": {
-      "6165a6f18cf7feb0ba107eb8a6d0165d9ca73a0f0649e212aab61c0398203c49": {
-        "title": "Inside the $265mn war over who writes America’s AI rules",
-        "link": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6",
-        "published_date": "Thu, 26 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849409"
-      },
-      "5bc13d91fa333569be2b9248a247f361e26af5d762b5eb64b544158ee1b37c55": {
-        "title": "Iran to offer ‘commercial bonanza’ to US companies",
-        "link": "https://www.ft.com/content/27f02d44-a223-4934-8f2b-7cfd8772b181",
-        "published_date": "Thu, 26 Feb 2026 00:01:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849415"
-      },
-      "d369e03bd04ea1fc58da567f34e471ccba9a0c591ca24e740bb322716b061c6f": {
-        "title": "UK government debt sales set to fall for first time in four years",
-        "link": "https://www.ft.com/content/d082b3ab-99d2-4726-8da8-ec9b843a7373",
-        "published_date": "Thu, 26 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849417"
-      },
-      "56b3d5268201b721b7bfd43f37ff575f731d1dcc77ed60aca809018dc9eaf228": {
-        "title": "Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software",
-        "link": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
-        "published_date": "Thu, 26 Feb 2026 00:08:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849419"
-      },
-      "baa3e49c5d1746b4ed6c1f1c583172e40ae013cfca388feea6a0eadbbad6955f": {
-        "title": "Nvidia stock downbeat despite blockbuster quarter",
-        "link": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
-        "published_date": "Thu, 26 Feb 2026 02:09:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849421"
-      },
       "dec0e32172344df1f3423d7d6969b60e2279c685053e747fa0e2901e263ec062": {
         "title": "Nvidia’s blockbuster results fail to dazzle investors",
         "link": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
@@ -4611,39 +4581,33 @@
         "link": "https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7",
         "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
         "first_seen": "2026-03-27T23:37:18.878735"
+      },
+      "8b494e85166109bc375596b7459d1d4bda9df19a4664cf80957de4db161054b8": {
+        "title": "How Pakistan put itself in the middle of US-Iran peace talks",
+        "link": "https://www.ft.com/content/5f946eff-3e9c-4feb-ab6b-60e15cc3e183",
+        "published_date": "Sat, 28 Mar 2026 05:05:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.639287"
+      },
+      "b86913124d8980d20ae5f7a1fb53feb153cc74d0be6491a6727e8e32b715db05": {
+        "title": "Iranian strike wounds US troops at air base in Saudi Arabia",
+        "link": "https://www.ft.com/content/99a5df0f-1c77-46db-abf1-543a4fe05862",
+        "published_date": "Sat, 28 Mar 2026 04:30:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.639296"
+      },
+      "6ecedb8169380f78f27ec473899eb1f1af1ab6a80596ce9e66a7c5faa6b2fe6b": {
+        "title": "Global markets recoil as Rubio warns war in Iran could stretch for weeks",
+        "link": "https://www.ft.com/content/4f095d4b-46cb-4ed6-90cf-aa560fba2bc1",
+        "published_date": "Fri, 27 Mar 2026 23:51:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.639298"
+      },
+      "a02d881a8e201a50687491f9f0fcdd9074c49942bdf69815444a32c57f8811d3": {
+        "title": "‘I want safe returns’: I’m 73 with $300,000 saved. I’m not interested in the stock market. What should I do?",
+        "link": "https://www.marketwatch.com/story/i-want-safe-returns-im-73-with-300-000-saved-im-not-interested-in-the-stock-market-what-should-i-do-85db84e2?mod=mw_rss_topstories",
+        "published_date": "Sat, 28 Mar 2026 02:16:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.639300"
       }
     },
     "Ai": {
-      "46856677d56a8589b6fc59ab50d544f7b65320d2df818f0ad41ae2dcd3cf6af1": {
-        "title": "Karpathy：AI编程已质变，就从去年12月开始",
-        "link": "https://www.qbitai.com/2026/02/382626.html",
-        "published_date": "Thu, 26 Feb 2026 03:50:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530210"
-      },
-      "7d74a3c841d06dd3adb43ca4b583401692c9ae6be92ff2d654b86e2b3b57b33d": {
-        "title": "扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了",
-        "link": "https://www.qbitai.com/2026/02/382584.html",
-        "published_date": "Thu, 26 Feb 2026 02:03:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530221"
-      },
-      "e3720bd9c288902150233d203b6f38a190a431b7004038b7e6e00b1e5055ad3a": {
-        "title": "ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-26",
-        "published_date": "Thu, 26 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530223"
-      },
-      "e6308c8850043226678eefaa136371475f574f65583848b6e10d61dcdea0dec5": {
-        "title": "21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型",
-        "link": "https://www.qbitai.com/2026/02/382647.html",
-        "published_date": "Thu, 26 Feb 2026 03:57:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530225"
-      },
-      "c645f4139382ab4fab9b3949a468aac7cf49130121643f9e9d3d51eea6ccbf0f": {
-        "title": "日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元",
-        "link": "https://www.qbitai.com/2026/02/382610.html",
-        "published_date": "Thu, 26 Feb 2026 02:49:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530226"
-      },
       "35b6f8872edadcdd3c315e6a2081d09a2dbbac29910dcb4c0c0eba49bb651c9e": {
         "title": "马斯克：Grok今日归来！",
         "link": "https://www.jiqizhixin.com/articles/2026-02-26-2",
@@ -5807,13 +5771,25 @@
         "link": "https://www.qbitai.com/2026/03/392896.html",
         "published_date": "Fri, 27 Mar 2026 19:14:00 GMT",
         "first_seen": "2026-03-27T23:37:30.245288"
+      },
+      "359ae010a8629902e142c788234bb8487328319b20d9c0cc7ca230280d81a22a": {
+        "title": "2026-03-28日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-28/",
+        "published_date": "Sat, 28 Mar 2026 09:33:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.784611"
+      },
+      "e5ff160d812b0c487d61860d482f0b481734a558d95cc01fe985ca5592476363": {
+        "title": "25.98万元起！智己LS8震撼开启预售，30万内享百万级跨代际体验",
+        "link": "https://www.qbitai.com/2026/03/392900.html",
+        "published_date": "Sat, 28 Mar 2026 02:09:00 GMT",
+        "first_seen": "2026-03-28T06:00:40.784619"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-27T23:37:03.245556",
-    "Finance": "2026-03-27T23:37:18.878738",
-    "Ai": "2026-03-27T23:37:30.245290"
+    "Technology": "2026-03-28T06:00:40.601053",
+    "Finance": "2026-03-28T06:00:40.639303",
+    "Ai": "2026-03-28T06:00:40.784621"
   }
 }

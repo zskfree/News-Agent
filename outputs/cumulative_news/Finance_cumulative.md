@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-27 23:36
+**最后更新时间**: 2026-03-28 06:00
+
+---
+
+## 🆕 最新更新 (2026-03-28 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Pakistan put itself in the middle of US-Iran peace talks](https://www.ft.com/content/5f946eff-3e9c-4feb-ab6b-60e15cc3e183)
+**发布时间**: 2026-03-28 05:05
+
+#### [Iranian strike wounds US troops at air base in Saudi Arabia](https://www.ft.com/content/99a5df0f-1c77-46db-abf1-543a4fe05862)
+**发布时间**: 2026-03-28 04:30
+
+#### [Global markets recoil as Rubio warns war in Iran could stretch for weeks](https://www.ft.com/content/4f095d4b-46cb-4ed6-90cf-aa560fba2bc1)
+**发布时间**: 2026-03-27 23:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I want safe returns’: I’m 73 with $300,000 saved. I’m not interested in the stock market. What should I do?](https://www.marketwatch.com/story/i-want-safe-returns-im-73-with-300-000-saved-im-not-interested-in-the-stock-market-what-should-i-do-85db84e2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 02:16
+
+#### [‘He didn’t seem very alert’: Our CPA said we owe the IRS $443, but we’re actually due a refund of $637. Do we fire him?](https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:16
 
 ---
 

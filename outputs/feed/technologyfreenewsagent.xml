@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Mar 2026 23:36:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 23:37:03 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:00:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码</title>
-      <link>https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死</title>
+      <link>https://www.tmtpost.com/7917925.html</link>
+      <description>&lt;![CDATA[黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7917925.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身觉醒、智造跃迁，物理AI如何在制造业落地？</title>
-      <link>https://www.tmtpost.com/7931873.html</link>
-      <description>&lt;![CDATA[具身觉醒、智造跃迁，物理AI如何在制造业落地？]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931873.html</guid>
+      <title>RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降</title>
+      <link>https://www.tmtpost.com/7932156.html</link>
+      <description>&lt;![CDATA[RAG神话破灭？斯坦福顶尖团队新研究：合成数据训练效果反超，成本大降]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932156.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考</title>
-      <link>https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿</title>
+      <link>https://www.tmtpost.com/7932862.html</link>
+      <description>&lt;![CDATA[AI流量增速超人类8倍！流量“倒挂”前夜：AI智能体正掏空互联网的旧金矿]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932862.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产EDA，谁在啃硬骨头？</title>
-      <link>https://www.tmtpost.com/7932270.html</link>
-      <description>&lt;![CDATA[国产EDA，谁在啃硬骨头？]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932270.html</guid>
+      <title>中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门</title>
+      <link>https://www.tmtpost.com/7932515.html</link>
+      <description>&lt;![CDATA[中东炮响氦气飙涨，暴露了半导体行业最隐秘的命门]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932515.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？</title>
-      <link>https://www.tmtpost.com/7931492.html</link>
-      <description>&lt;![CDATA[IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？]]&gt;</description>
-      <pubDate>Fri, 27 Mar 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931492.html</guid>
+      <title>机器人开源革命：“免费大脑”背后的四派力量与博弈</title>
+      <link>https://www.tmtpost.com/7932836.html</link>
+      <description>&lt;![CDATA[机器人开源革命：“免费大脑”背后的四派力量与博弈]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932836.html</guid>
       <category>Technology</category>
     </item>
   </channel>
