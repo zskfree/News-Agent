@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 08:44
+**最后更新时间**: 2026-03-28 23:35
+
+---
+
+## 🆕 最新更新 (2026-03-28 23:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Americans take to streets in ‘No Kings’ day protests against Trump](https://www.ft.com/content/0c214d44-1cff-42b7-ba87-54e717a1fccd)
+**发布时间**: 2026-03-28 21:22
+
+#### [Support for JD Vance slips in straw poll of Republican candidates in 2028](https://www.ft.com/content/64dee502-774d-4cc2-804f-3093ea4480c7)
+**发布时间**: 2026-03-28 21:12
+
+#### [UK and Singapore press ahead with digital deal as WTO remains deadlocked](https://www.ft.com/content/7f8cfd99-7c5a-458d-af2c-683f340eaa9c)
+**发布时间**: 2026-03-28 17:22
+
+#### [How long can Iran keep firing missiles?](https://www.ft.com/content/6a394410-c590-4b38-9fe4-87efed9f20a0)
+**发布时间**: 2026-03-28 11:00
+
+#### [Houthi missile attack signals ‘serious’ escalation in Iran war](https://www.ft.com/content/e77d9ac6-d9dd-415e-a4a7-f54d3060239a)
+**发布时间**: 2026-03-28 10:47
+
+#### [No BS: using corporate jargon is really giving you away](https://www.ft.com/content/f2b68713-71d7-403c-9d44-efa49bdc476d)
+**发布时间**: 2026-03-28 05:00
+
+#### [Social media is populist and polarising; AI may be the opposite](https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e)
+**发布时间**: 2026-03-28 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [ETFs have crushed Wall Street’s go-to stock-market indicator](https://www.marketwatch.com/story/how-etfs-crushed-wall-streets-favorite-stock-market-indicator-39940760?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:04
+
+#### [Your stock portfolio soared on cheap market risk — but the easy money is over](https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:04
+
+#### [These 3 growth sectors are helping people flourish — and long-term investors are buying in](https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:03
 
 ---
 

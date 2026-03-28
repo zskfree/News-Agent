@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Mar 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 08:44:23 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 23:35:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 23:35:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic泄露背后：AI安全承诺的破产与重构</title>
-      <link>https://www.tmtpost.com/7933051.html</link>
-      <description>&lt;![CDATA[Anthropic泄露背后：AI安全承诺的破产与重构]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933051.html</guid>
+      <title>哈萨比斯为何能率领谷歌DeepMind反超OpenAI？</title>
+      <link>https://www.tmtpost.com/7933116.html</link>
+      <description>&lt;![CDATA[哈萨比斯为何能率领谷歌DeepMind反超OpenAI？]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933116.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不再等待OpenAI：月之暗面为何在此时变阵？</title>
-      <link>https://www.tmtpost.com/7932353.html</link>
-      <description>&lt;![CDATA[不再等待OpenAI：月之暗面为何在此时变阵？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932353.html</guid>
+      <title>【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；</title>
+      <link>https://www.tmtpost.com/7933091.html</link>
+      <description>&lt;![CDATA[【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933091.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋为什么停不下来？</title>
-      <link>https://www.tmtpost.com/7932377.html</link>
-      <description>&lt;![CDATA[黄仁勋为什么停不下来？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932377.html</guid>
+      <title>Sora关停，Seedance怎么办？</title>
+      <link>https://www.tmtpost.com/7932819.html</link>
+      <description>&lt;![CDATA[Sora关停，Seedance怎么办？]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932819.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌</title>
+      <link>https://www.tmtpost.com/7932893.html</link>
+      <description>&lt;![CDATA[小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7932893.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65</link>
-      <description>&lt;![CDATA[这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65</guid>
+      <title>绿色 IT ：如何减轻 AI 对环境的影响</title>
+      <link>https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[绿色 IT ：如何减轻 AI 对环境的影响]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

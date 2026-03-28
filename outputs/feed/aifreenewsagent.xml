@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Mar 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 08:44:23 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 23:36:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了</title>
-      <link>https://www.qbitai.com/2026/03/392948.html</link>
-      <description>&lt;![CDATA[8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 06:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392948.html</guid>
+      <title>趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”</title>
+      <link>https://www.qbitai.com/2026/03/392988.html</link>
+      <description>&lt;![CDATA[趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392988.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货</title>
-      <link>https://www.qbitai.com/2026/03/392914.html</link>
-      <description>&lt;![CDATA[GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392914.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>华为盘古大模型负责人王云鹤离职，被曝Agent创业</title>
-      <link>https://www.qbitai.com/2026/03/392903.html</link>
-      <description>&lt;![CDATA[华为盘古大模型负责人王云鹤离职，被曝Agent创业]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 06:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392903.html</guid>
+      <title>中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办</title>
+      <link>https://www.qbitai.com/2026/03/392981.html</link>
+      <description>&lt;![CDATA[中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办]]&gt;</description>
+      <pubDate>Sat, 28 Mar 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392981.html</guid>
       <category>Ai</category>
     </item>
   </channel>
