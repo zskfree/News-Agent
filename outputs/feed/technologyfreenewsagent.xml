@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Mar 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 08:44:52 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 23:37:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局</title>
-      <link>https://www.tmtpost.com/7933060.html</link>
-      <description>&lt;![CDATA[手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933060.html</guid>
+      <title>当王兴说“进攻AI”时，美团在防守什么？</title>
+      <link>https://www.tmtpost.com/7933275.html</link>
+      <description>&lt;![CDATA[当王兴说“进攻AI”时，美团在防守什么？]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933275.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯的AI慢战略，能跑通吗？</title>
-      <link>https://www.tmtpost.com/7933507.html</link>
-      <description>&lt;![CDATA[腾讯的AI慢战略，能跑通吗？]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933507.html</guid>
+      <title>【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低</title>
+      <link>https://www.tmtpost.com/7933771.html</link>
+      <description>&lt;![CDATA[【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933771.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel 发布生成式 UI 框架 JSON-Render</title>
-      <link>https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel 发布生成式 UI 框架 JSON-Render]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff</link>
+      <description>&lt;![CDATA[推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Rust 的独特之处不只内存安全：来自自主机器人的启示</title>
-      <link>https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Rust 的独特之处不只内存安全：来自自主机器人的启示]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从电价优势到低成本词元（Token）出海的叙事路径成立吗？</title>
+      <link>https://www.tmtpost.com/7933712.html</link>
+      <description>&lt;![CDATA[从电价优势到低成本词元（Token）出海的叙事路径成立吗？]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 19:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933712.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估</title>
-      <link>https://www.tmtpost.com/7933541.html</link>
-      <description>&lt;![CDATA[从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933541.html</guid>
+      <title>自制电子墨水屏，以及我用它来干了什么？</title>
+      <link>https://sspai.com/post/105990</link>
+      <description>&lt;![CDATA[自制电子墨水屏，以及我用它来干了什么？]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/105990</guid>
       <category>Technology</category>
     </item>
   </channel>

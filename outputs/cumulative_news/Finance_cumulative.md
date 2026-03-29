@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-29 08:44
+**最后更新时间**: 2026-03-29 23:37
+
+---
+
+## 🆕 最新更新 (2026-03-29 23:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up](https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 23:06
+
+#### [Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict](https://www.marketwatch.com/story/investors-have-nowhere-to-hide-as-financial-markets-groan-under-the-weight-of-the-iran-conflict-41d3d2a2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 19:30
+
+#### [Nike’s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround.](https://www.marketwatch.com/story/nikes-stock-is-at-9-year-lows-ahead-of-earnings-it-faces-these-questions-as-doubt-grows-over-its-turnaround-7861a90c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 14:00
+
+#### [‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?](https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 12:42
+
+#### [An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who’s right?](https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 11:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price rises past $115 as Iran conflict worsens](https://www.ft.com/content/21607fce-182d-45d1-bcf2-d2a78f9339cb)
+**发布时间**: 2026-03-29 22:17
+
+#### [Israel blocks Catholic cardinal from Holy Sepulchre on Palm Sunday](https://www.ft.com/content/ec798184-1d08-46dd-8fcf-c06a2efd1977)
+**发布时间**: 2026-03-29 21:37
+
+#### [Avoid energy protectionism, UK chancellor will tell G7 allies](https://www.ft.com/content/52541a81-f64d-4eaf-8201-ec2928269aee)
+**发布时间**: 2026-03-29 21:30
+
+#### [Distressed-debt funds target private credit downturn as ‘greatest opportunity’ since 2008](https://www.ft.com/content/8c3514be-8c7b-4d13-a59a-dd8a23fb8c40)
+**发布时间**: 2026-03-29 20:00
+
+#### [US-Israeli war against Iran escalates as talks prove fruitless](https://www.ft.com/content/a8dbcf5f-df38-43de-bb4c-de3780cad0ab)
+**发布时间**: 2026-03-29 17:52
+
+#### [Apollo looks beyond New York as it plans second headquarters](https://www.ft.com/content/efeca6be-c9b5-4912-b66b-15716cc914b7)
+**发布时间**: 2026-03-29 16:13
+
+#### [EU offers UK ‘emergency brake’ on numbers for new youth mobility scheme](https://www.ft.com/content/4eaabc93-31dd-4cfc-b141-975e821253c3)
+**发布时间**: 2026-03-29 15:00
+
+#### [The Iran war will cement China’s superpower status](https://www.ft.com/content/47edd17c-366f-42e4-b0cf-c20e065210d2)
+**发布时间**: 2026-03-29 11:00
 
 ---
 

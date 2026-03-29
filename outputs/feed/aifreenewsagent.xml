@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Mar 2026 06:12:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 06:14:38 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 23:34:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 23:37:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-29日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-29/</link>
-      <description>&lt;![CDATA[2026-03-29日刊]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-29/</guid>
+      <title>Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛</title>
+      <link>https://www.qbitai.com/2026/03/393186.html</link>
+      <description>&lt;![CDATA[Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393186.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小沓AI・智能营销产品 2026GDPS重磅发布</title>
-      <link>https://www.qbitai.com/2026/03/393064.html</link>
-      <description>&lt;![CDATA[小沓AI・智能营销产品 2026GDPS重磅发布]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 02:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393064.html</guid>
+      <title>打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级</title>
+      <link>https://www.qbitai.com/2026/03/393164.html</link>
+      <description>&lt;![CDATA[打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393164.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug</title>
-      <link>https://www.qbitai.com/2026/03/393045.html</link>
-      <description>&lt;![CDATA[论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 01:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393045.html</guid>
+      <title>Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖</title>
+      <link>https://www.qbitai.com/2026/03/393125.html</link>
+      <description>&lt;![CDATA[Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393125.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>海淀AI，集体开弓：少年极客、中年创客与ICU归来者</title>
-      <link>https://www.qbitai.com/2026/03/392996.html</link>
-      <description>&lt;![CDATA[海淀AI，集体开弓：少年极客、中年创客与ICU归来者]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 01:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392996.html</guid>
+      <title>何同学会玩：让龙虾自己3D打印自己</title>
+      <link>https://www.qbitai.com/2026/03/393085.html</link>
+      <description>&lt;![CDATA[何同学会玩：让龙虾自己3D打印自己]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393085.html</guid>
       <category>Ai</category>
     </item>
   </channel>
