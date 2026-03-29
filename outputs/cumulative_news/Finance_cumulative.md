@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 23:35
+**最后更新时间**: 2026-03-29 06:14
+
+---
+
+## 🆕 最新更新 (2026-03-29 06:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK risks losing defence tech start-ups to relocation amid funding delays](https://www.ft.com/content/f62751d1-2292-45f7-a693-93d0af5b9f28)
+**发布时间**: 2026-03-29 04:00
+
+#### [Iran activates its ‘resistance economy’ to survive the war](https://www.ft.com/content/8d63a713-2702-4661-b4cb-0daa657d7d0e)
+**发布时间**: 2026-03-29 04:00
+
+#### [The hunger for ‘content’ is keeping us culturally stuck](https://www.ft.com/content/0d963580-eabd-40e2-8805-776893b61cc6)
+**发布时间**: 2026-03-29 04:00
+
+#### [The Pentagon-Anthropic dispute is a test of control](https://www.ft.com/content/35e58efe-8601-4c33-af91-007659b679cc)
+**发布时间**: 2026-03-29 04:00
+
+#### [OpenAI investor says AI requires an income tax overhaul](https://www.ft.com/content/7de1d3c5-0d0c-46b1-b2b7-dbf6f5226069)
+**发布时间**: 2026-03-29 04:00
+
+#### [Ministers explore triggering break clause in Palantir’s NHS contract](https://www.ft.com/content/2d2b1af1-edea-4fd0-a081-3811e34bc52e)
+**发布时间**: 2026-03-29 04:00
+
+#### [Eurozone borrowing costs soar on fears of fiscal hit from Iran shock](https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c)
+**发布时间**: 2026-03-29 04:00
+
+#### [Police arrest man after car strikes ‘multiple pedestrians’ in Derby](https://www.ft.com/content/37707b35-dc9b-4711-b8a7-75ef83e2f863)
+**发布时间**: 2026-03-29 03:15
 
 ---
 

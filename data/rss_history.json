@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1c745e3b2de6286d29576d3f387cf0b1cb17486ac130956c52589a5d5aa7bf3d": {
-        "title": "OpenAI 提出 Harness Engineering：Codex 智能体驱动大规模软件开发",
-        "link": "https://www.infoq.cn/article/MCUXGhyIRqPLkFhljY9v?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 13:00:00 GMT",
-        "first_seen": "2026-02-27T05:54:01.318027"
-      },
-      "4366b119e5f122559be2b16dda788f4fc72459959fd3e4299579e0ff79e83284": {
-        "title": "告别“盲盒”生成：谷歌 Nano Banana 2 落地，AI图像卷向“事实时代”",
-        "link": "https://www.tmtpost.com/7891556.html",
-        "published_date": "Fri, 27 Feb 2026 10:16:00 GMT",
-        "first_seen": "2026-02-27T05:54:01.318042"
-      },
-      "b4fc66f63d2f4ee2473284bffb304fa74b2a28f30d36753ff5711af4cc745569": {
-        "title": "编程超越 Gemini 3 Pro？GLM-5 性能实测对齐 Opus 4.6，智谱市值突破1700亿港元",
-        "link": "https://www.infoq.cn/article/2WHkkAArr4KhLj1LXUWt?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 10:26:00 GMT",
-        "first_seen": "2026-02-27T05:54:01.318045"
-      },
-      "4386228215d2fb7524447dbbd94da4568e2221b60751c8087b9907055b6268e6": {
-        "title": "驶向 2030：自动驾驶的商业化浪潮与规则重构",
-        "link": "https://www.tmtpost.com/7892007.html",
-        "published_date": "Fri, 27 Feb 2026 11:51:00 GMT",
-        "first_seen": "2026-02-27T05:54:01.318047"
-      },
-      "5efc1097358b6ee20a9b41477f15698deee776e3f29189f76caa4c44aff437e4": {
-        "title": "Gemini灵魂人物、传奇工程师Jeff Dean最新访谈：未来人均50个虚拟实习生，用不上专家了！",
-        "link": "https://www.infoq.cn/article/eqZKl8a3pt5Wd1LDKoZd?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-27T05:54:01.318049"
-      },
       "b3ecbf15aaa4a451b443317b8b9807845d13f98843cf32f39f97541491b95942": {
         "title": "收购不成便带头封杀？！Meta 痛下狠手，OpenClaw 彻底失控：被拒后竟“人肉”网暴人类，实锤无人操控",
         "link": "https://www.infoq.cn/article/yaqmOAg3bp294sPdyAoj?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 28 Mar 2026 15:00:00 GMT",
         "first_seen": "2026-03-28T23:35:56.004360"
+      },
+      "bd43747a8b55ca0da70f821438121c0ec57f74b515dc34ba20050e2965a2acbb": {
+        "title": "140万亿Token之后：中国AI亟待从规模领先到价值跃迁",
+        "link": "https://www.tmtpost.com/7933402.html",
+        "published_date": "Sun, 29 Mar 2026 09:45:00 GMT",
+        "first_seen": "2026-03-29T06:14:27.072136"
+      },
+      "bcfcef9e3f2bfb090aea81ea6a0586879f4158ea8badfd080d3f21bdcdc5836a": {
+        "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:27.072164"
+      },
+      "0d2bc8ac7e0ec2d776b693f214f1b6cfe3d76f2927720f7810b25218057c42e9": {
+        "title": "月之暗面冲刺IPO：大模型竞争进入“定价阶段”",
+        "link": "https://www.tmtpost.com/7933267.html",
+        "published_date": "Sun, 29 Mar 2026 08:48:00 GMT",
+        "first_seen": "2026-03-29T06:14:27.072167"
+      },
+      "17ac1027252bdff62ccf4bbe32065afe9b0692a25a995f093ebd21ad3f24938c": {
+        "title": "飞书、钉钉开源CLI，Agent开放路径走向分岔",
+        "link": "https://www.tmtpost.com/7933400.html",
+        "published_date": "Sun, 29 Mar 2026 10:18:00 GMT",
+        "first_seen": "2026-03-29T06:14:27.072169"
+      },
+      "479106c53cdd80eada13aca50a143ceb22cb4524e1f0ad5cc5d8ac2c084489fa": {
+        "title": "AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突",
+        "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:27.072171"
       }
     },
     "Finance": {
-      "d9dadf5498dffb25b364f814c545b8fe04b945eaf654e45f2df31c9e3d37dc72": {
-        "title": "Economic nationalism is just getting started",
-        "link": "https://www.ft.com/content/19863a82-7979-49db-a644-78a5d1830044",
-        "published_date": "Fri, 27 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.683648"
-      },
-      "a993da37fa8e2ef7513260f1e41818b0dd456848fccad86fe600de9ed39b0ed5": {
-        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
-        "link": "https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Feb 2026 04:08:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.683656"
-      },
-      "df1a52125e122a0733dbd6594de6b971d91a2c9962014f6b158dfb3039a6a73a": {
-        "title": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
-        "link": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Feb 2026 04:07:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.683658"
-      },
-      "b6fe4cbdaa767bea39af4277e1712297020f7170f4dca306e9e55b0f1798ae67": {
-        "title": "US warns it will axe all Anthropic agreements without Pentagon deal",
-        "link": "https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f",
-        "published_date": "Fri, 27 Feb 2026 01:26:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.683660"
-      },
-      "779aaeaeb6a5b65a7360c3438c185dbd3cfd1151f40b7f4bd8261e76c0bd4968": {
-        "title": "Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.",
-        "link": "https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Feb 2026 02:00:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.683662"
-      },
       "0e04f6b77ce4f654340e192519aca3cf143a17355a2c875a0874ef15ab3d45ab": {
         "title": "What you said about my new ChatGPT investment adviser",
         "link": "https://www.ft.com/content/f76fac89-89e9-4399-ace1-bf7349a8d495",
@@ -4599,21 +4569,39 @@
         "link": "https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories",
         "published_date": "Sat, 28 Mar 2026 17:03:00 GMT",
         "first_seen": "2026-03-28T23:36:05.492428"
+      },
+      "4016c6326b05c7e0cb86a6cd4026cbfd72c7f685fcb8b54a23c3d4a92fae39b5": {
+        "title": "Eurozone borrowing costs soar on fears of fiscal hit from Iran shock",
+        "link": "https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c",
+        "published_date": "Sun, 29 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.836385"
+      },
+      "42b9d47ed78e18283185babc014ffedb9fab1f415f803ca17cfd4bcb56485516": {
+        "title": "OpenAI investor says AI requires an income tax overhaul",
+        "link": "https://www.ft.com/content/7de1d3c5-0d0c-46b1-b2b7-dbf6f5226069",
+        "published_date": "Sun, 29 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.836392"
+      },
+      "c0cf5f56884ac4ee1bbd2a314dcf571c31d9ab35b5030da0733949cf9745e8ef": {
+        "title": "Iran activates its ‘resistance economy’ to survive the war",
+        "link": "https://www.ft.com/content/8d63a713-2702-4661-b4cb-0daa657d7d0e",
+        "published_date": "Sun, 29 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.836395"
+      },
+      "e6ec80e8fcbce0ef62ca248ba69365276c54d71b378aab3970a3ff4d9d18542c": {
+        "title": "UK risks losing defence tech start-ups to relocation amid funding delays",
+        "link": "https://www.ft.com/content/f62751d1-2292-45f7-a693-93d0af5b9f28",
+        "published_date": "Sun, 29 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.836396"
+      },
+      "76ec5b5dfe186c1f13295e9ae2d4a43a4ca950568ce53fb616b70cfdd920a1f7": {
+        "title": "The Pentagon-Anthropic dispute is a test of control",
+        "link": "https://www.ft.com/content/35e58efe-8601-4c33-af91-007659b679cc",
+        "published_date": "Sun, 29 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.836398"
       }
     },
     "Ai": {
-      "8e2faa9d3a66d955b8dddb83d31a5d7fdf59714543a997d94294553e99b86a3c": {
-        "title": "2026-02-27日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-27/",
-        "published_date": "Fri, 27 Feb 2026 09:46:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.840034"
-      },
-      "3d3fb378418f9b9d64723319446dd6cfc41d1f1619a1a74347d37872bb2d7b94": {
-        "title": "千问AI春节DAU创历史新高，单日增幅惊人",
-        "link": "https://www.qbitai.com/2026/02/382739.html",
-        "published_date": "Fri, 27 Feb 2026 03:48:00 GMT",
-        "first_seen": "2026-02-27T05:54:14.840043"
-      },
       "7e4bf7e60fb83a8b40f7d791e1c877def7695780252a860756b9747b84963e1b": {
         "title": "反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了",
         "link": "https://www.qbitai.com/2026/02/382776.html",
@@ -5795,13 +5783,37 @@
         "link": "https://www.qbitai.com/2026/03/392981.html",
         "published_date": "Sat, 28 Mar 2026 10:51:00 GMT",
         "first_seen": "2026-03-28T23:36:05.635764"
+      },
+      "f8babe98e61b51e81de043763a27a846427e65c55d6ff94df895ceea8eb295c8": {
+        "title": "2026-03-29日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-29/",
+        "published_date": "Sun, 29 Mar 2026 09:52:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.988454"
+      },
+      "27d36272e5dcda7ed286d93e71dee1d61c26980e914e560f2030a6ce325bdbb1": {
+        "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
+        "link": "https://www.qbitai.com/2026/03/393064.html",
+        "published_date": "Sun, 29 Mar 2026 02:49:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.988462"
+      },
+      "847aeba2640f4c5efb46519d262656244cc67f10c60452f73845665f539413d5": {
+        "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+        "link": "https://www.qbitai.com/2026/03/393045.html",
+        "published_date": "Sun, 29 Mar 2026 01:27:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.988465"
+      },
+      "3e2ae636219de195b44cd99159c6494e45fbfa33d7102d0cc942f72ec86e87ba": {
+        "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+        "link": "https://www.qbitai.com/2026/03/392996.html",
+        "published_date": "Sun, 29 Mar 2026 01:09:00 GMT",
+        "first_seen": "2026-03-29T06:14:38.988466"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-28T23:35:56.004362",
-    "Finance": "2026-03-28T23:36:05.492432",
-    "Ai": "2026-03-28T23:36:05.635766"
+    "Technology": "2026-03-29T06:14:27.072173",
+    "Finance": "2026-03-29T06:14:38.836400",
+    "Ai": "2026-03-29T06:14:38.988468"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Mar 2026 23:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 23:35:55 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 06:14:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 06:14:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>哈萨比斯为何能率领谷歌DeepMind反超OpenAI？</title>
-      <link>https://www.tmtpost.com/7933116.html</link>
-      <description>&lt;![CDATA[哈萨比斯为何能率领谷歌DeepMind反超OpenAI？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933116.html</guid>
+      <title>140万亿Token之后：中国AI亟待从规模领先到价值跃迁</title>
+      <link>https://www.tmtpost.com/7933402.html</link>
+      <description>&lt;![CDATA[140万亿Token之后：中国AI亟待从规模领先到价值跃迁]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933402.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；</title>
-      <link>https://www.tmtpost.com/7933091.html</link>
-      <description>&lt;![CDATA[【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933091.html</guid>
+      <title>面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Sora关停，Seedance怎么办？</title>
-      <link>https://www.tmtpost.com/7932819.html</link>
-      <description>&lt;![CDATA[Sora关停，Seedance怎么办？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932819.html</guid>
+      <title>月之暗面冲刺IPO：大模型竞争进入“定价阶段”</title>
+      <link>https://www.tmtpost.com/7933267.html</link>
+      <description>&lt;![CDATA[月之暗面冲刺IPO：大模型竞争进入“定价阶段”]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933267.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌</title>
-      <link>https://www.tmtpost.com/7932893.html</link>
-      <description>&lt;![CDATA[小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932893.html</guid>
+      <title>飞书、钉钉开源CLI，Agent开放路径走向分岔</title>
+      <link>https://www.tmtpost.com/7933400.html</link>
+      <description>&lt;![CDATA[飞书、钉钉开源CLI，Agent开放路径走向分岔]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933400.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>绿色 IT ：如何减轻 AI 对环境的影响</title>
-      <link>https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[绿色 IT ：如何减轻 AI 对环境的影响]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突</title>
+      <link>https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

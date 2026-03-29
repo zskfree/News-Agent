@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 23:35
+**最后更新时间**: 2026-03-29 06:14
+
+---
+
+## 🆕 最新更新 (2026-03-29 06:14)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国际硕博学位教育乱象：为何成了劣币的竞技场？](https://www.tmtpost.com/7933503.html)
+**发布时间**: 2026-03-29 14:03
+
+#### [腾讯的AI慢战略，能跑通吗？](https://www.tmtpost.com/7933507.html)
+**发布时间**: 2026-03-29 10:50
+
+#### [飞书、钉钉开源CLI，Agent开放路径走向分岔](https://www.tmtpost.com/7933400.html)
+**发布时间**: 2026-03-29 10:18
+
+#### [手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局](https://www.tmtpost.com/7933060.html)
+**发布时间**: 2026-03-29 09:47
+
+#### [140万亿Token之后：中国AI亟待从规模领先到价值跃迁](https://www.tmtpost.com/7933402.html)
+**发布时间**: 2026-03-29 09:45
+
+#### [滑雪金融化困局：“天才商业模式”通票的变革与反噬](https://www.tmtpost.com/7933408.html)
+**发布时间**: 2026-03-29 09:45
+
+#### [马伯庸最高分IP筹拍，揭开长剧复苏密码](https://www.tmtpost.com/7933263.html)
+**发布时间**: 2026-03-29 09:00
+
+#### [2100多万留下王一博，乐华娱乐值得么？](https://www.tmtpost.com/7933231.html)
+**发布时间**: 2026-03-29 08:55
+
+#### [月之暗面冲刺IPO：大模型竞争进入“定价阶段”](https://www.tmtpost.com/7933267.html)
+**发布时间**: 2026-03-29 08:48
+
+#### [泡泡玛特还是缺点“价值共识”](https://www.tmtpost.com/7933228.html)
+**发布时间**: 2026-03-29 08:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Rust 的独特之处不只内存安全：来自自主机器人的启示](https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-29 11:00
+
+#### [面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京](https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-29 10:00
+
+#### [AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突](https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-29 10:00
 
 ---
 
