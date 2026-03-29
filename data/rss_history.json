@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b3ecbf15aaa4a451b443317b8b9807845d13f98843cf32f39f97541491b95942": {
-        "title": "收购不成便带头封杀？！Meta 痛下狠手，OpenClaw 彻底失控：被拒后竟“人肉”网暴人类，实锤无人操控",
-        "link": "https://www.infoq.cn/article/yaqmOAg3bp294sPdyAoj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 14:00:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.598556"
-      },
-      "df09576d7eccce0bdc7f23017e78d0a4308c969e842a633aafb5c088e8d2f58a": {
-        "title": "曝DeepSeek新模型提前给华为等国内厂商“开绿灯”，V4 Lite 绝密参数外泄",
-        "link": "https://www.infoq.cn/article/2w3JgQftwv3PaM9hHS95?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 10:40:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.598564"
-      },
-      "0b54dcf28c6332a654330715632badff07fa7b7a284fb98a8477bdffd1ba4d2b": {
-        "title": "华为首次发布智能体编程平台“码道”：不是拼生成量，而是在百万行 Java、长周期维护与高可靠中运行",
-        "link": "https://www.infoq.cn/article/H9C1UYwZUOhemxTDphqY?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 15:43:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.598567"
-      },
-      "693f6ab43df3ff7da3472c6d4c375c05e9bd32e76a7f720f245e2e22345643a4": {
-        "title": "“我们再也回不去了”：AI 围城下的技术生态现实",
-        "link": "https://www.infoq.cn/article/Q3FWRJID1LzNdEFWXNGh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Feb 2026 14:55:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.598569"
-      },
-      "f28fc87b4596f84c4fd555c472d141506a99792463a31478c471e635dfbb2390": {
-        "title": "Anthropic的人才实验：为什么AI企业要高薪挖哲学家",
-        "link": "https://www.tmtpost.com/7892175.html",
-        "published_date": "Fri, 27 Feb 2026 14:40:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.598570"
-      },
       "87bc8b91fad0f0cbfb94619eee10ff730517a08e5a082a53e92265ee6ee11cfc": {
         "title": "DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%",
         "link": "https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&utm_medium=article",
@@ -2671,21 +2641,39 @@
         "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 29 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-29T06:14:27.072171"
+      },
+      "2a540ad9d5c2914d5c0dfbe52f22a72188abc70133e13ba976c3ca53a2f2a54b": {
+        "title": "手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局",
+        "link": "https://www.tmtpost.com/7933060.html",
+        "published_date": "Sun, 29 Mar 2026 09:47:00 GMT",
+        "first_seen": "2026-03-29T08:44:53.015696"
+      },
+      "9727dddb0ca1b6cc2c1733bb304d4c65ad8c48f92dbd66cc0f29e5a8c0bdc97f": {
+        "title": "腾讯的AI慢战略，能跑通吗？",
+        "link": "https://www.tmtpost.com/7933507.html",
+        "published_date": "Sun, 29 Mar 2026 10:50:00 GMT",
+        "first_seen": "2026-03-29T08:44:53.015706"
+      },
+      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
+        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-29T08:44:53.015709"
+      },
+      "54e33acece7de0725a534cc66ed73632883532e4af95f7b5056ee8f57c37fdac": {
+        "title": "Rust 的独特之处不只内存安全：来自自主机器人的启示",
+        "link": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-29T08:44:53.015711"
+      },
+      "bdd0126041469124254bf0cf3f67c4f04c97d3b7d8073058a28be65e2aa50121": {
+        "title": "从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估",
+        "link": "https://www.tmtpost.com/7933541.html",
+        "published_date": "Sun, 29 Mar 2026 14:08:00 GMT",
+        "first_seen": "2026-03-29T08:44:53.015712"
       }
     },
     "Finance": {
-      "0e04f6b77ce4f654340e192519aca3cf143a17355a2c875a0874ef15ab3d45ab": {
-        "title": "What you said about my new ChatGPT investment adviser",
-        "link": "https://www.ft.com/content/f76fac89-89e9-4399-ace1-bf7349a8d495",
-        "published_date": "Fri, 27 Feb 2026 08:32:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.630893"
-      },
-      "5ea05194f476ca7b78ada57a754c96c8e22e245ac6dfbd9219299f8b8ca0746c": {
-        "title": "‘The worst outcome’: Green triumph creates new peril for Labour",
-        "link": "https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9",
-        "published_date": "Fri, 27 Feb 2026 07:49:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.630898"
-      },
       "ce0a931afe8dda352f8d68a041f36aceaf2da69d2c8d91196e7e609a685c5654": {
         "title": "OpenAI secures up to $110bn in record funding deal",
         "link": "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f",
@@ -4602,18 +4590,6 @@
       }
     },
     "Ai": {
-      "7e4bf7e60fb83a8b40f7d791e1c877def7695780252a860756b9747b84963e1b": {
-        "title": "反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了",
-        "link": "https://www.qbitai.com/2026/02/382776.html",
-        "published_date": "Fri, 27 Feb 2026 07:09:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.776642"
-      },
-      "c8f14915788ad34a9ce206a86a25e40a133b75dadcaf98a1fb936abdccacac80": {
-        "title": "阶跃星辰杀入季后赛，强势跻身AI“新六小虎”第一梯队",
-        "link": "https://www.qbitai.com/2026/02/382747.html",
-        "published_date": "Fri, 27 Feb 2026 07:01:00 GMT",
-        "first_seen": "2026-02-27T08:43:37.776650"
-      },
       "4b4e7a0b2ad4cd70f58ca54a50174926b1d7e33a9fd2c381c742f5fca1f865ad": {
         "title": "分拆百度Robotaxi萝卜快跑？李彦宏回应了",
         "link": "https://www.qbitai.com/2026/02/382914.html",
@@ -5812,7 +5788,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-29T06:14:27.072173",
+    "Technology": "2026-03-29T08:44:53.015715",
     "Finance": "2026-03-29T06:14:38.836400",
     "Ai": "2026-03-29T06:14:38.988468"
   }

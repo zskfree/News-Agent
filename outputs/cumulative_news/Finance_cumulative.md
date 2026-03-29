@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-29 06:14
+**最后更新时间**: 2026-03-29 08:44
+
+---
+
+## 🆕 最新更新 (2026-03-29 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The last bridge left to ancient Tyre](https://www.ft.com/content/9a6a8fd0-bf49-48c0-b787-bcf106ffed6e)
+**发布时间**: 2026-03-29 04:00
+
+#### [The surprising science of quitting](https://www.ft.com/content/d88d95be-e637-4dc7-b3bc-ae5397649677)
+**发布时间**: 2026-03-29 04:00
 
 ---
 

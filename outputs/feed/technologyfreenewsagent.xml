@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Mar 2026 06:14:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 06:14:27 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 08:44:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>140万亿Token之后：中国AI亟待从规模领先到价值跃迁</title>
-      <link>https://www.tmtpost.com/7933402.html</link>
-      <description>&lt;![CDATA[140万亿Token之后：中国AI亟待从规模领先到价值跃迁]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933402.html</guid>
+      <title>手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局</title>
+      <link>https://www.tmtpost.com/7933060.html</link>
+      <description>&lt;![CDATA[手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933060.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯的AI慢战略，能跑通吗？</title>
+      <link>https://www.tmtpost.com/7933507.html</link>
+      <description>&lt;![CDATA[腾讯的AI慢战略，能跑通吗？]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933507.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月之暗面冲刺IPO：大模型竞争进入“定价阶段”</title>
-      <link>https://www.tmtpost.com/7933267.html</link>
-      <description>&lt;![CDATA[月之暗面冲刺IPO：大模型竞争进入“定价阶段”]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 08:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933267.html</guid>
+      <title>Vercel 发布生成式 UI 框架 JSON-Render</title>
+      <link>https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vercel 发布生成式 UI 框架 JSON-Render]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>飞书、钉钉开源CLI，Agent开放路径走向分岔</title>
-      <link>https://www.tmtpost.com/7933400.html</link>
-      <description>&lt;![CDATA[飞书、钉钉开源CLI，Agent开放路径走向分岔]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933400.html</guid>
+      <title>Rust 的独特之处不只内存安全：来自自主机器人的启示</title>
+      <link>https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Rust 的独特之处不只内存安全：来自自主机器人的启示]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突</title>
-      <link>https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估</title>
+      <link>https://www.tmtpost.com/7933541.html</link>
+      <description>&lt;![CDATA[从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933541.html</guid>
       <category>Technology</category>
     </item>
   </channel>
