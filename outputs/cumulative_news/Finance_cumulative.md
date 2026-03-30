@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 09:15
+**最后更新时间**: 2026-03-30 23:39
+
+---
+
+## 🆕 最新更新 (2026-03-30 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Want to watch all of the Yankees’ games on TV this season? It’ll cost you over $1,200.](https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 23:36
+
+#### [Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 23:33
+
+#### [U.S. stocks are faring worse than during past geopolitical shocks — and there’s plenty of room for them to fall further](https://www.marketwatch.com/story/u-s-stocks-are-faring-worse-than-during-past-geopolitical-shocks-and-theres-plenty-of-room-for-them-to-fall-further-30a17285?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:59
+
+#### [This AI power company’s Trump-named power project still has no customers in sight](https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:41
+
+#### [Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout](https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:38
+
+#### [Microsoft’s stock may extend a record stretch of lagging performance that’s ignited fierce debate](https://www.marketwatch.com/story/microsofts-stock-may-extend-a-record-stretch-of-lagging-performance-thats-ignited-fierce-debate-ff1a2576?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:22
+
+#### [This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys](https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:05
+
+#### [‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance](https://www.marketwatch.com/story/i-was-shoveling-sidewalks-at-8-years-old-im-a-73-year-old-boomer-dad-with-two-kids-heres-what-i-teach-them-about-finance-339e1295?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:00
+
+#### [A more than 50% rise in oil prices over the past month may be more than just a ‘short-lived shock’](https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 19:28
+
+#### [Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs](https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 19:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK growers warn of cucumber and tomato shortages as gas prices surge](https://www.ft.com/content/c3664545-03f0-4c09-a4d3-70b6300ca4d9)
+**发布时间**: 2026-03-30 23:01
+
+#### [Pete Hegseth’s broker looked to buy defence fund before Iran attack](https://www.ft.com/content/744ea8dc-6d93-4fe9-a5e3-36de4f5d06db)
+**发布时间**: 2026-03-30 22:32
+
+#### [Trump could ask Gulf states to contribute to war costs, says White House](https://www.ft.com/content/b948ad9a-2219-46d6-ad46-8e7abe51b764)
+**发布时间**: 2026-03-30 21:43
+
+#### [Shipping industry casts doubt on Trump’s ‘present’ from Iran](https://www.ft.com/content/a96367d7-2b1c-4826-b694-ef7aa0b82e04)
+**发布时间**: 2026-03-30 21:35
+
+#### [Israel approves death penalty law targeting Palestinians](https://www.ft.com/content/83abdc9d-442c-469e-a61e-0beb767b1f31)
+**发布时间**: 2026-03-30 19:12
+
+#### [UK to receive last tanker of jet fuel from Middle East this week](https://www.ft.com/content/19f155b1-8b12-491a-bbc5-a3bdb2a2e607)
+**发布时间**: 2026-03-30 17:55
+
+#### [A blueprint for Chinese global leadership](https://www.ft.com/content/cf2eeead-461d-4e3b-aeb7-48b30114643c)
+**发布时间**: 2026-03-30 14:04
+
+#### [Iran could emerge from the war stronger and more dangerous](https://www.ft.com/content/04f6c510-47a8-4e05-99d5-5372fceeb395)
+**发布时间**: 2026-03-30 11:41
+
+#### [Trump hails ‘progress’ on Iran deal but threatens huge infrastructure attack](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4dcc323801f78c3508d9bf076ba3d5fd57d3c5834fdd2ab845f0fa2b526c843": {
-        "title": "中国AI的“成本奇迹”能持续多久——一个三角结构的脆弱与韧性",
-        "link": "https://www.tmtpost.com/7894340.html",
-        "published_date": "Sat, 28 Feb 2026 19:16:00 GMT",
-        "first_seen": "2026-02-28T23:26:44.377484"
-      },
-      "c0d80a252c5a120e4ff5f76abc7ee0c9aa436df31db8a1b5d81f70c35500ef27": {
-        "title": "谷歌 Nano Banana 2 一夜补齐短板，各种图解都能画，价格才是 OpenAI 一半",
-        "link": "https://www.infoq.cn/article/GcPU9NHkexyuriC2cBM2?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Feb 2026 15:18:00 GMT",
-        "first_seen": "2026-02-28T23:26:44.377492"
-      },
-      "e7e701dc094466655ebf9de4398dc0a326591e6fb6f16e9a6c3312fdc05ea1cb": {
-        "title": "对话DeepMirror胡闻：OpenClaw正在重塑具身智能｜AI Founder 请回答",
-        "link": "https://www.tmtpost.com/7893172.html",
-        "published_date": "Sat, 28 Feb 2026 17:55:00 GMT",
-        "first_seen": "2026-02-28T23:26:44.377494"
-      },
-      "bde0f9e12d30450de0e3fb020aa444de5d131e76d1c5bcd6699cdd606b631028": {
-        "title": "AI 在生命科学领域 2026 年发展展望 ｜技术趋势",
-        "link": "https://www.infoq.cn/article/5Qb1JoQVqadUe9bviKm0?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Feb 2026 11:02:00 GMT",
-        "first_seen": "2026-02-28T23:26:44.377496"
-      },
-      "eba8eddd8953bac73314a6058cbd4e3cca218a55078b6711e7cdf2258a76c213": {
-        "title": "“翻版”豆包AI手机，谷歌和三星还是太保守了",
-        "link": "https://www.tmtpost.com/7894491.html",
-        "published_date": "Sat, 28 Feb 2026 21:08:00 GMT",
-        "first_seen": "2026-02-28T23:26:44.377499"
-      },
       "308b7a5fd8b13ddec7f8ebdd977b90dff036cf5c4e9b3c99030512029da088e7": {
         "title": "【数智周报】OpenAI宣布获得1100亿美元新投资；Anthropic指控三家中国模型“非法蒸馏” 马斯克：贼喊捉贼；国产芯片公司集体涨价",
         "link": "https://www.tmtpost.com/7894506.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7934348.html",
         "published_date": "Mon, 30 Mar 2026 15:59:00 GMT",
         "first_seen": "2026-03-30T09:16:08.581006"
+      },
+      "d8e67791afe611563e4e102a17eb6708b317a4e10942ef7fc96090c8d0665597": {
+        "title": "回看2025，AI的系统工程时刻：重构智能的底座与边界",
+        "link": "https://www.tmtpost.com/7931577.html",
+        "published_date": "Mon, 30 Mar 2026 19:52:00 GMT",
+        "first_seen": "2026-03-30T23:39:40.919959"
+      },
+      "376317e1fe47158cf4f3a7d83d9f240c0e58be49ef62e90f3d6ef5f2d13cdf3c": {
+        "title": "跨越AI鸿沟：构建企业AI应用价值评估体系",
+        "link": "https://www.tmtpost.com/7934134.html",
+        "published_date": "Mon, 30 Mar 2026 22:14:00 GMT",
+        "first_seen": "2026-03-30T23:39:40.919971"
+      },
+      "15250ebc5af34e533561e927baa3ad977f415188cd77f3a3c17579d216ac2407": {
+        "title": "智能体安全实践：可控与可靠｜QCon 前瞻",
+        "link": "https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 30 Mar 2026 17:51:00 GMT",
+        "first_seen": "2026-03-30T23:39:40.919974"
+      },
+      "5f184f23b3cd44bdd0cc493e60932c49028ff41105f2981e5543f6679bfab422": {
+        "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+        "link": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 30 Mar 2026 17:48:00 GMT",
+        "first_seen": "2026-03-30T23:39:40.919976"
+      },
+      "89eabd410fc50fc4835d857cd31d108e06a0c2eed37c9503aa9fde8197fdca9a": {
+        "title": "JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位",
+        "link": "https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 30 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-30T23:39:40.919978"
       }
     },
     "Finance": {
-      "8ee01f561f2ddf71fefd3dec0e59137bf1b854a83e8e92a68f4dd742bdf07e34": {
-        "title": "Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking",
-        "link": "https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e",
-        "published_date": "Sat, 28 Feb 2026 18:14:00 GMT",
-        "first_seen": "2026-02-28T23:26:56.882103"
-      },
-      "91a342b2713123962079c8cd854b47d2ebb6768a721cd5dc0d94ea96d65dcc73": {
-        "title": "How will strikes on Iran affect global energy flows?",
-        "link": "https://www.ft.com/content/baa400cc-359c-4205-b93d-573b5b7c440d",
-        "published_date": "Sat, 28 Feb 2026 12:38:00 GMT",
-        "first_seen": "2026-02-28T23:26:56.882109"
-      },
-      "52d043c0dfda1dbb6899580091303d980b55de261d3f5b7a264a6d54eaff00be": {
-        "title": "Insurers to cancel policies and raise prices for ships in Gulf and Strait of Hormuz",
-        "link": "https://www.ft.com/content/2dc114d0-5bb3-4fae-b538-9a050954549a",
-        "published_date": "Sat, 28 Feb 2026 16:07:00 GMT",
-        "first_seen": "2026-02-28T23:26:56.882111"
-      },
-      "bc2283165ae6981d216acbae986d776be215a6be1625b0b1d18bbff38087ea1c": {
-        "title": "Investors should brace for more than a brief military campaign as Trump says Iran’s Supreme Leader Khamenei is dead",
-        "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Feb 2026 22:40:00 GMT",
-        "first_seen": "2026-02-28T23:26:56.882113"
-      },
-      "34a65d5f20de2fd32b361d63ab157e295d400c87cb1a429da05e44e98ea07845": {
-        "title": "The U.S.-Israel attack on Iran will wreak havoc on international air travel",
-        "link": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Feb 2026 19:50:00 GMT",
-        "first_seen": "2026-02-28T23:26:56.882114"
-      },
       "9a576b5e4aeb5e46be44b52e29289725e919e31750aec91f505ec7b79f82b8f2": {
         "title": "Opec+ to raise oil output in bid to calm markets after US-Israel strikes kill Khamenei",
         "link": "https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491",
@@ -4611,15 +4581,39 @@
         "link": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa",
         "published_date": "Mon, 30 Mar 2026 08:06:00 GMT",
         "first_seen": "2026-03-30T09:16:08.617955"
+      },
+      "14450c6574594fb7a2cb26b7a8934c72f535b9414e94c827d99597dd514d182d": {
+        "title": "This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys",
+        "link": "https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 20:05:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.416525"
+      },
+      "72c17e817c4f83442f48ff1f9449a8fb45b8c04065bbec43dd62ae65bd2bbe97": {
+        "title": "A more than 50% rise in oil prices over the past month may be more than just a ‘short-lived shock’",
+        "link": "https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 19:28:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.416531"
+      },
+      "980f936bb3f7524e32aeea0bc638dbf788bcf6a5d7f084d551a3f78d869e971c": {
+        "title": "U.S. stocks are faring worse than during past geopolitical shocks — and there’s plenty of room for them to fall further",
+        "link": "https://www.marketwatch.com/story/u-s-stocks-are-faring-worse-than-during-past-geopolitical-shocks-and-theres-plenty-of-room-for-them-to-fall-further-30a17285?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 20:59:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.416534"
+      },
+      "c8d0b70921fb91b3a6b0c87197ee53de1cce1bc29bf91e54ef6706ca50ed6f0f": {
+        "title": "Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout",
+        "link": "https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 20:38:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.416535"
+      },
+      "1ecf41f7a01e0bf4d1047eb54f60e353de851ec2769d541b342ee55fdb45c8c4": {
+        "title": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs",
+        "link": "https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 19:18:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.416537"
       }
     },
     "Ai": {
-      "401b18f2cb77b4783c43ef102e4794e38285b1af68ceb19005d2415dbe9af0bb": {
-        "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
-        "link": "https://www.qbitai.com/2026/02/382952.html",
-        "published_date": "Sat, 28 Feb 2026 12:59:00 GMT",
-        "first_seen": "2026-02-28T23:26:57.026362"
-      },
       "e5ec1e7834e4e019a0642a7cc028bd5f912fd360f0b926db04c7dd701b8209c3": {
         "title": "2026-03-01日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-01/",
@@ -5861,13 +5855,25 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-30/",
         "published_date": "Mon, 30 Mar 2026 09:47:00 GMT",
         "first_seen": "2026-03-30T09:16:08.761656"
+      },
+      "6d150d50e08a42a9741a60d7650866b4de88ea8251ef788f6075784276d6893c": {
+        "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
+        "link": "https://www.qbitai.com/2026/03/393460.html",
+        "published_date": "Mon, 30 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.562833"
+      },
+      "79031fb8c823ff3febb2f0ef6ad8f5cae480c1396fdaddacb6806730e7370d18": {
+        "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+        "link": "https://www.qbitai.com/2026/03/393433.html",
+        "published_date": "Mon, 30 Mar 2026 14:15:00 GMT",
+        "first_seen": "2026-03-30T23:39:52.562841"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-30T09:16:08.581008",
-    "Finance": "2026-03-30T09:16:08.617957",
-    "Ai": "2026-03-30T09:16:08.761658"
+    "Technology": "2026-03-30T23:39:40.919980",
+    "Finance": "2026-03-30T23:39:52.416540",
+    "Ai": "2026-03-30T23:39:52.562844"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 09:14:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 09:16:08 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 23:39:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢</title>
-      <link>https://www.qbitai.com/2026/03/393344.html</link>
-      <description>&lt;![CDATA[上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 07:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393344.html</guid>
+      <title>阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro</title>
+      <link>https://www.qbitai.com/2026/03/393460.html</link>
+      <description>&lt;![CDATA[阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393460.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-03-30日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-30/</link>
-      <description>&lt;![CDATA[2026-03-30日刊]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-30/</guid>
+      <title>全球OCR新王来自中国开源！GitHub狂揽73300+Star</title>
+      <link>https://www.qbitai.com/2026/03/393433.html</link>
+      <description>&lt;![CDATA[全球OCR新王来自中国开源！GitHub狂揽73300+Star]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393433.html</guid>
       <category>Ai</category>
     </item>
   </channel>

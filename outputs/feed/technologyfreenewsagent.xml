@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 09:15:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 09:16:08 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 23:39:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI扩展Responses API，为自主智能体提供基础设施</title>
-      <link>https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI扩展Responses API，为自主智能体提供基础设施]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>回看2025，AI的系统工程时刻：重构智能的底座与边界</title>
+      <link>https://www.tmtpost.com/7931577.html</link>
+      <description>&lt;![CDATA[回看2025，AI的系统工程时刻：重构智能的底座与边界]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7931577.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单</title>
-      <link>https://www.tmtpost.com/7934267.html</link>
-      <description>&lt;![CDATA[UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934267.html</guid>
+      <title>跨越AI鸿沟：构建企业AI应用价值评估体系</title>
+      <link>https://www.tmtpost.com/7934134.html</link>
+      <description>&lt;![CDATA[跨越AI鸿沟：构建企业AI应用价值评估体系]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 22:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934134.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这家中国公司要用“碳纤维”硬刚SpaceX</title>
-      <link>https://www.tmtpost.com/7934409.html</link>
-      <description>&lt;![CDATA[这家中国公司要用“碳纤维”硬刚SpaceX]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 15:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934409.html</guid>
+      <title>智能体安全实践：可控与可靠｜QCon 前瞻</title>
+      <link>https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体安全实践：可控与可靠｜QCon 前瞻]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命</title>
-      <link>https://www.tmtpost.com/7933673.html</link>
-      <description>&lt;![CDATA[拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933673.html</guid>
+      <title>OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题</title>
+      <link>https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>展望美团2026：大战终章亦是AI序章</title>
-      <link>https://www.tmtpost.com/7934348.html</link>
-      <description>&lt;![CDATA[展望美团2026：大战终章亦是AI序章]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 15:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934348.html</guid>
+      <title>JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位</title>
+      <link>https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

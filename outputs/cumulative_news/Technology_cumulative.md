@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 09:15
+**最后更新时间**: 2026-03-30 23:39
+
+---
+
+## 🆕 最新更新 (2026-03-30 23:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】单家最高130亿元！港A股上市公司密集公告回购计划；时隔逾2年，贵州茅台再度宣布涨价；爱奇艺拟赴港二次上市](https://www.tmtpost.com/7935066.html)
+**发布时间**: 2026-03-31 07:21
+
+#### [产业链整合提速！医药龙头斥资 3.34 亿元拿下高纯溶剂企业控股权；区域交通龙头子公司 1.15 亿元收购汽修标的；【并购一线】](https://www.tmtpost.com/7935061.html)
+**发布时间**: 2026-03-30 22:45
+
+#### [跨越AI鸿沟：构建企业AI应用价值评估体系](https://www.tmtpost.com/7934134.html)
+**发布时间**: 2026-03-30 22:14
+
+#### [光模块龙头中际旭创发布年报，2025年净赚超百亿](https://www.tmtpost.com/7935028.html)
+**发布时间**: 2026-03-30 22:00
+
+#### [伊朗战争可能会长期持续，投资者眼下正在何处寻找赢家](https://www.tmtpost.com/7934993.html)
+**发布时间**: 2026-03-30 20:33
+
+#### [回看2025，AI的系统工程时刻：重构智能的底座与边界](https://www.tmtpost.com/7931577.html)
+**发布时间**: 2026-03-30 19:52
+
+#### [“小核酸之王”逆袭启示录](https://www.tmtpost.com/7934245.html)
+**发布时间**: 2026-03-30 19:42
+
+#### [从“天坑专业”到AI大厂“香饽饽”：文科生用“人味”拿下三万offer](https://www.tmtpost.com/7934670.html)
+**发布时间**: 2026-03-30 19:35
+
+#### [遭遇文石品控背刺的用户，开始怀念Kindle](https://www.tmtpost.com/7934584.html)
+**发布时间**: 2026-03-30 19:35
+
+#### [泡泡玛特出海，不想只卖LABUBU了](https://www.tmtpost.com/7934755.html)
+**发布时间**: 2026-03-30 19:35
+
+#### [减员近6成、市值缩水近80%，商汤“冰火两重天”](https://www.tmtpost.com/7934669.html)
+**发布时间**: 2026-03-30 19:35
+
+#### [大股东半数持股将拍卖，四川金顶控制权或再生变](https://www.tmtpost.com/7934878.html)
+**发布时间**: 2026-03-30 19:32
+
+#### [Claude Code疯狂迭代，原来是90后华裔女产品负责人猛按加速键](https://www.tmtpost.com/7934663.html)
+**发布时间**: 2026-03-30 19:04
+
+#### [行业天花板低、议价能力孱弱，欣兴工具对赌压身背水一战 | IPO观察](https://www.tmtpost.com/7934741.html)
+**发布时间**: 2026-03-30 18:59
+
+#### [【Fintech 周报】长护险将在全国推开；一季度超200亿不良批量转让](https://www.tmtpost.com/7934615.html)
+**发布时间**: 2026-03-30 18:42
+
+#### [盼盼30年：一瓶饮料里的“笨功夫”与真答案](https://www.tmtpost.com/7931377.html)
+**发布时间**: 2026-03-30 18:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践](https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 19:30
+
+#### [Snowpark Connect 完全指南：PySpark 作业执行与生产数据管道构建 ｜ 技术实践](https://www.infoq.cn/article/zZvotDKHDCKeoWShIGAg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 18:42
+
+#### [智能体安全实践：可控与可靠｜QCon 前瞻](https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 17:51
+
+#### [OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题](https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 17:48
+
+#### [谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报](https://www.infoq.cn/article/q4fu9Y9KU9MsKtIA1QKv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 17:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/108075)
+**发布时间**: 2026-03-30 18:16
 
 ---
 
