@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 06:56
+**最后更新时间**: 2026-03-30 09:15
+
+---
+
+## 🆕 最新更新 (2026-03-30 09:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Crazy’ damage: ‘Aquaman’ star Jason Momoa fled his Hawaii home after historic flooding devastates area](https://www.marketwatch.com/story/crazy-damage-aquaman-star-jason-momoa-fled-his-hawaii-home-after-historic-flooding-devastates-area-1847d0d2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 09:04
+
+#### [Kylie Jenner lists another mansion: The $20 million Hidden Hills starter home she bought when she was 19](https://www.marketwatch.com/story/kylie-jenner-lists-another-mansion-the-20-million-hidden-hills-starter-home-she-bought-when-she-was-19-4e1d7754?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 09:01
+
+#### [The man who was once the world’s youngest billionaire now says he’s solved the stock market. Here’s his astonishingly simple portfolio.](https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 07:38
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mistral raises $830mn to build Nvidia-powered AI centres in Europe](https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa)
+**发布时间**: 2026-03-30 08:06
+
+#### [Hungary returns just 18% of funds flagged by EU fraud watchdog](https://www.ft.com/content/89730f92-9d8d-4de3-88d6-ddab87ca400a)
+**发布时间**: 2026-03-30 04:00
+
+#### [Oil rises to $116 as Trump stokes fears of protracted conflict](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
+
+#### [Trump says US could ‘take the oil in Iran’](https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5)
+**发布时间**: 2026-03-29 23:51
 
 ---
 

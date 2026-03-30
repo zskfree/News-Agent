@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "abf77f11a2ff732ba858848c03a9d10408af4dee3dae32da70a6a955bd0ced9f": {
-        "title": "1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO",
-        "link": "https://www.tmtpost.com/7893706.html",
-        "published_date": "Sat, 28 Feb 2026 14:42:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.707538"
-      },
-      "cec50fde1385128d5e5ecfef0cadfb651d176be6e34dfc05a4379117182462a2": {
-        "title": "硅谷最顶级的钱，正在押注AI这五件事",
-        "link": "https://www.tmtpost.com/7893773.html",
-        "published_date": "Sat, 28 Feb 2026 14:44:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.707546"
-      },
-      "39d6c0c6a941ba5d7d5dd4e3afd6b4f58e601b5e6ccc783db6d1572a8c2f5508": {
-        "title": "英伟达赚疯了却换不来股价上涨，黄仁勋押注的AI“金矿”到底在哪里？",
-        "link": "https://www.tmtpost.com/7893527.html",
-        "published_date": "Sat, 28 Feb 2026 11:33:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.707549"
-      },
-      "c0094b13bade6bf9b47e8185c7da77dc118eca6cf77abe7d9d5cda3bfa99ec38": {
-        "title": "特斯拉干掉方向盘，中美自动驾驶终极对决",
-        "link": "https://www.tmtpost.com/7893385.html",
-        "published_date": "Sat, 28 Feb 2026 10:52:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.707551"
-      },
-      "1018c76e09d7e44de9fcb77b2176e3038c81cca5a42159637a6597d3777bcb8d": {
-        "title": "三年投入超千亿，百度AI业务“必须”扛起大旗",
-        "link": "https://www.tmtpost.com/7893789.html",
-        "published_date": "Sat, 28 Feb 2026 14:45:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.707553"
-      },
       "b4dcc323801f78c3508d9bf076ba3d5fd57d3c5834fdd2ab845f0fa2b526c843": {
         "title": "中国AI的“成本奇迹”能持续多久——一个三角结构的脆弱与韧性",
         "link": "https://www.tmtpost.com/7894340.html",
@@ -2671,15 +2641,39 @@
         "link": "https://www.tmtpost.com/7934187.html",
         "published_date": "Mon, 30 Mar 2026 14:28:00 GMT",
         "first_seen": "2026-03-30T06:57:11.443166"
+      },
+      "b7281dff0e790bb4d67e990fd588ba132f6a8ff91f87cc0c006162e0a4727b54": {
+        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "link": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 30 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.580991"
+      },
+      "5bf55b9635f04804a99225c15cd5a1fb05e5b4ef08d38e4acc59ad9d6f675815": {
+        "title": "UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单",
+        "link": "https://www.tmtpost.com/7934267.html",
+        "published_date": "Mon, 30 Mar 2026 12:56:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.580999"
+      },
+      "f449ddec6cfab96588f532400b658243e7ecf3ac7452706bf8144be06fe87f2d": {
+        "title": "这家中国公司要用“碳纤维”硬刚SpaceX",
+        "link": "https://www.tmtpost.com/7934409.html",
+        "published_date": "Mon, 30 Mar 2026 15:59:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.581002"
+      },
+      "2eaec43f4fd07a3ba699c7779c83f65ca2093eaaa26559837022bda1ca799892": {
+        "title": "拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命",
+        "link": "https://www.tmtpost.com/7933673.html",
+        "published_date": "Mon, 30 Mar 2026 12:37:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.581004"
+      },
+      "dd3902aeac221ddf3969a1da773a87063565ddfa3dfc9263ddccfc96c0dbc890": {
+        "title": "展望美团2026：大战终章亦是AI序章",
+        "link": "https://www.tmtpost.com/7934348.html",
+        "published_date": "Mon, 30 Mar 2026 15:59:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.581006"
       }
     },
     "Finance": {
-      "2f178d7022191e911336cbead68157791e623392ae5b19cabec2434cea437e1d": {
-        "title": "US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change",
-        "link": "https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138",
-        "published_date": "Sat, 28 Feb 2026 08:11:00 GMT",
-        "first_seen": "2026-02-28T08:32:48.741180"
-      },
       "8ee01f561f2ddf71fefd3dec0e59137bf1b854a83e8e92a68f4dd742bdf07e34": {
         "title": "Greg Abel tells Berkshire investors its cash pile is not a retreat from dealmaking",
         "link": "https://www.ft.com/content/3fa7f344-7aa3-43c5-b1ba-56de4459ca1e",
@@ -4593,6 +4587,30 @@
         "link": "https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e",
         "published_date": "Mon, 30 Mar 2026 04:00:00 GMT",
         "first_seen": "2026-03-30T06:57:26.215656"
+      },
+      "9a6136229087b2781fcb60ec51fd5b14a7637e3aed5a8896d10987103ecbf825": {
+        "title": "‘Crazy’ damage: ‘Aquaman’ star Jason Momoa fled his Hawaii home after historic flooding devastates area",
+        "link": "https://www.marketwatch.com/story/crazy-damage-aquaman-star-jason-momoa-fled-his-hawaii-home-after-historic-flooding-devastates-area-1847d0d2?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 09:04:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.617944"
+      },
+      "66c69eecd0cab2fd67c3e96ab811794bd832d96a4009ca25061443206b985b3b": {
+        "title": "Kylie Jenner lists another mansion: The $20 million Hidden Hills starter home she bought when she was 19",
+        "link": "https://www.marketwatch.com/story/kylie-jenner-lists-another-mansion-the-20-million-hidden-hills-starter-home-she-bought-when-she-was-19-4e1d7754?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 09:01:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.617951"
+      },
+      "dfb02f9f77e647b69294a6f256b82a32f6e54db3f53ee7b88b1dc567ff81d26e": {
+        "title": "The man who was once the world’s youngest billionaire now says he’s solved the stock market. Here’s his astonishingly simple portfolio.",
+        "link": "https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories",
+        "published_date": "Mon, 30 Mar 2026 07:38:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.617953"
+      },
+      "3cdbfd7e92ca4621d70640ba67e363f883a7b630657748c1ee1986a17d080bba": {
+        "title": "Mistral raises $830mn to build Nvidia-powered AI centres in Europe",
+        "link": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa",
+        "published_date": "Mon, 30 Mar 2026 08:06:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.617955"
       }
     },
     "Ai": {
@@ -5831,13 +5849,25 @@
         "link": "https://www.qbitai.com/2026/03/393244.html",
         "published_date": "Mon, 30 Mar 2026 03:49:00 GMT",
         "first_seen": "2026-03-30T06:57:43.777303"
+      },
+      "366a2d5713ea78e16ac77051e06985504cbd3a5a3f4c967a73db259d90973e62": {
+        "title": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
+        "link": "https://www.qbitai.com/2026/03/393344.html",
+        "published_date": "Mon, 30 Mar 2026 07:24:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.761649"
+      },
+      "02cda02796f415f32fbe8543fe30d909ae8b7c84b59aaff4a11050495c1ba1ef": {
+        "title": "2026-03-30日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-30/",
+        "published_date": "Mon, 30 Mar 2026 09:47:00 GMT",
+        "first_seen": "2026-03-30T09:16:08.761656"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-30T06:57:11.443169",
-    "Finance": "2026-03-30T06:57:26.215659",
-    "Ai": "2026-03-30T06:57:43.777305"
+    "Technology": "2026-03-30T09:16:08.581008",
+    "Finance": "2026-03-30T09:16:08.617957",
+    "Ai": "2026-03-30T09:16:08.761658"
   }
 }

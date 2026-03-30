@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 06:56
+**最后更新时间**: 2026-03-30 09:15
+
+---
+
+## 🆕 最新更新 (2026-03-30 09:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国人正在抛弃高价墓地](https://www.tmtpost.com/7934360.html)
+**发布时间**: 2026-03-30 15:59
+
+#### [展望美团2026：大战终章亦是AI序章](https://www.tmtpost.com/7934348.html)
+**发布时间**: 2026-03-30 15:59
+
+#### [腾讯当股东，字节做老板](https://www.tmtpost.com/7934352.html)
+**发布时间**: 2026-03-30 15:59
+
+#### [这家中国公司要用“碳纤维”硬刚SpaceX](https://www.tmtpost.com/7934409.html)
+**发布时间**: 2026-03-30 15:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI扩展Responses API，为自主智能体提供基础设施](https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浏览器扩展合集：派友近期推荐的 6 款浏览器扩展](https://sspai.com/post/108047)
+**发布时间**: 2026-03-30 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [让你的 Claude Code 起飞的 5 个小技巧，我用的很爽。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532619&idx=1&sn=1a9095f540844befdb12b4e1e284e92b)
+**发布时间**: 2026-03-30 11:54
 
 ---
 

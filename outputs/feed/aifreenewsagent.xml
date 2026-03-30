@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 06:54:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 06:57:43 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 09:14:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:16:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分</title>
-      <link>https://www.qbitai.com/2026/03/393296.html</link>
-      <description>&lt;![CDATA[国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 03:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393296.html</guid>
+      <title>上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢</title>
+      <link>https://www.qbitai.com/2026/03/393344.html</link>
+      <description>&lt;![CDATA[上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393344.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了</title>
-      <link>https://www.qbitai.com/2026/03/393235.html</link>
-      <description>&lt;![CDATA[DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 03:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393235.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地</title>
-      <link>https://www.qbitai.com/2026/03/392787.html</link>
-      <description>&lt;![CDATA[单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 00:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/392787.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索</title>
-      <link>https://www.qbitai.com/2026/03/393336.html</link>
-      <description>&lt;![CDATA[Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 04:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393336.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>60%用户还在乱养虾！9位大神亮招：有人多赚一笔钱，有人多睡1小时｜量子位沙龙</title>
-      <link>https://www.qbitai.com/2026/03/393244.html</link>
-      <description>&lt;![CDATA[60%用户还在乱养虾！9位大神亮招：有人多赚一笔钱，有人多睡1小时｜量子位沙龙]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 03:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393244.html</guid>
+      <title>2026-03-30日刊</title>
+      <link>https://ai.hubtoday.app//2026-03/2026-03-30/</link>
+      <description>&lt;![CDATA[2026-03-30日刊]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-30/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 06:56:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 06:57:11 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 09:15:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:16:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布</title>
-      <link>https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI扩展Responses API，为自主智能体提供基础设施</title>
+      <link>https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI扩展Responses API，为自主智能体提供基础设施]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！</title>
-      <link>https://www.tmtpost.com/7933701.html</link>
-      <description>&lt;![CDATA[MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933701.html</guid>
+      <title>UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单</title>
+      <link>https://www.tmtpost.com/7934267.html</link>
+      <description>&lt;![CDATA[UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 12:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934267.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>电费只占5%，谁在真正吃掉算力成本？</title>
-      <link>https://www.tmtpost.com/7934099.html</link>
-      <description>&lt;![CDATA[电费只占5%，谁在真正吃掉算力成本？]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934099.html</guid>
+      <title>这家中国公司要用“碳纤维”硬刚SpaceX</title>
+      <link>https://www.tmtpost.com/7934409.html</link>
+      <description>&lt;![CDATA[这家中国公司要用“碳纤维”硬刚SpaceX]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934409.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：英文维基百科正式禁止 AI 参与编写</title>
-      <link>https://sspai.com/post/108044</link>
-      <description>&lt;![CDATA[派早报：英文维基百科正式禁止 AI 参与编写]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 06:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108044</guid>
+      <title>拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命</title>
+      <link>https://www.tmtpost.com/7933673.html</link>
+      <description>&lt;![CDATA[拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933673.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人手一个&quot;龙虾&quot;的时代，谁来管住失控的AI？</title>
-      <link>https://www.tmtpost.com/7934187.html</link>
-      <description>&lt;![CDATA[人手一个&quot;龙虾&quot;的时代，谁来管住失控的AI？]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934187.html</guid>
+      <title>展望美团2026：大战终章亦是AI序章</title>
+      <link>https://www.tmtpost.com/7934348.html</link>
+      <description>&lt;![CDATA[展望美团2026：大战终章亦是AI序章]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934348.html</guid>
       <category>Technology</category>
     </item>
   </channel>
