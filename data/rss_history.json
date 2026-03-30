@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a696c08e6855d9081cc67dc83bc49338917bdfbb419c9e5f676dbf0f78198b90": {
-        "title": "史无前例的封杀令：特朗普拉黑 3800 亿 AI 巨头，Anthropic 遭全网“断供”",
-        "link": "https://www.tmtpost.com/7893183.html",
-        "published_date": "Sat, 28 Feb 2026 11:00:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.909604"
-      },
-      "82f5642ec263540e96de2f818b997ea9c376cc3b1e9044a4b4fff509b04f1081": {
-        "title": "史诗级输血！亚马逊、英伟达、软银联手投出1100亿美元，OpenAI估值冲上7300亿美元",
-        "link": "https://www.infoq.cn/article/TJY7NSykSiW5DwwAEb44?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Feb 2026 11:26:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.909615"
-      },
-      "a4b873f35283f68f3c853ca358cebb70e98a07001201e4b10721f0f938892f02": {
-        "title": "砸下600亿买“备胎”：Meta 集齐三大芯片，英伟达的“铁王座”裂开了",
-        "link": "https://www.tmtpost.com/7892820.html",
-        "published_date": "Sat, 28 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.909617"
-      },
-      "1c2198170c4b589c1943e489209795487419299ed5f9134887da2a1e878b37d1": {
-        "title": "AI的下一步：智能体",
-        "link": "https://www.tmtpost.com/7893450.html",
-        "published_date": "Sat, 28 Feb 2026 11:18:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.909619"
-      },
-      "0836d6948123fadd3309b600e5fc5e5bc3237eebd7bfd2c484ad25d15324b60b": {
-        "title": "苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型",
-        "link": "https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.909621"
-      },
       "abf77f11a2ff732ba858848c03a9d10408af4dee3dae32da70a6a955bd0ced9f": {
         "title": "1100亿美元融资实为豪赌，OpenAI今年必须实现AGI或者IPO",
         "link": "https://www.tmtpost.com/7893706.html",
@@ -2671,33 +2641,39 @@
         "link": "https://sspai.com/post/105990",
         "published_date": "Sun, 29 Mar 2026 17:38:00 GMT",
         "first_seen": "2026-03-29T23:37:14.986633"
+      },
+      "2946f55e466f8d92b27797d93e06ccfda56960c872b83313a4b5c9f680223afb": {
+        "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
+        "link": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 30 Mar 2026 10:46:00 GMT",
+        "first_seen": "2026-03-30T06:57:11.443147"
+      },
+      "4b8ab07d06298432feb33ae397a96bbd17a7bccf1a73df61db3d0f7281b6543f": {
+        "title": "MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！",
+        "link": "https://www.tmtpost.com/7933701.html",
+        "published_date": "Mon, 30 Mar 2026 10:58:00 GMT",
+        "first_seen": "2026-03-30T06:57:11.443159"
+      },
+      "272df1b0285b92b619ba4a2396b3a9e12e9cfcc1fae664c16cc1891d7535b7ba": {
+        "title": "电费只占5%，谁在真正吃掉算力成本？",
+        "link": "https://www.tmtpost.com/7934099.html",
+        "published_date": "Mon, 30 Mar 2026 11:30:00 GMT",
+        "first_seen": "2026-03-30T06:57:11.443162"
+      },
+      "be69eb1de2e09c3c5b34dc1f5ef58bcb5306e6bec281cb341d7109c5ec45e8db": {
+        "title": "派早报：英文维基百科正式禁止 AI 参与编写",
+        "link": "https://sspai.com/post/108044",
+        "published_date": "Mon, 30 Mar 2026 06:56:00 GMT",
+        "first_seen": "2026-03-30T06:57:11.443164"
+      },
+      "cb6b1e9f43cd9724b22a82b8b848ecfc2fc71b914e77d3c841c14659b8ff334d": {
+        "title": "人手一个\"龙虾\"的时代，谁来管住失控的AI？",
+        "link": "https://www.tmtpost.com/7934187.html",
+        "published_date": "Mon, 30 Mar 2026 14:28:00 GMT",
+        "first_seen": "2026-03-30T06:57:11.443166"
       }
     },
     "Finance": {
-      "092b97f7a842b3b1e7957dfb1d1ef4ead9b4febd8023bbbb109605ee4048d32a": {
-        "title": "Anthropic to sue Trump administration after AI lab is labelled security risk",
-        "link": "https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585",
-        "published_date": "Sat, 28 Feb 2026 03:12:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.940966"
-      },
-      "c5b711b103fd180313dd1069447b84938982fe9532f29cbc4866618cacd85bf4": {
-        "title": "US court blocks landmark law limiting social media use for children",
-        "link": "https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd",
-        "published_date": "Sat, 28 Feb 2026 00:15:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.940974"
-      },
-      "a48684d1dd50a70b262abf9ac668ac3f409ad62cc9f13085adbd90bb3d9a03b5": {
-        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
-        "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Feb 2026 00:00:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.940976"
-      },
-      "f8cb7f318ec6185c7cd5d7d9b0b408b939d09bd11d398284e3cfcf56cf35449e": {
-        "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
-        "link": "https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Feb 2026 23:30:00 GMT",
-        "first_seen": "2026-02-28T05:35:40.940977"
-      },
       "2f178d7022191e911336cbead68157791e623392ae5b19cabec2434cea437e1d": {
         "title": "US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change",
         "link": "https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138",
@@ -4587,15 +4563,39 @@
         "link": "https://www.ft.com/content/efeca6be-c9b5-4912-b66b-15716cc914b7",
         "published_date": "Sun, 29 Mar 2026 16:13:00 GMT",
         "first_seen": "2026-03-29T23:37:27.959237"
+      },
+      "2085996a2de8e47bf5b208c1f0f7cf866ec8b2594c3957f8ed1c2823684341dc": {
+        "title": "Private capital: what are the risks?",
+        "link": "https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776",
+        "published_date": "Mon, 30 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-30T06:57:26.215643"
+      },
+      "f3c63d9f2fc7f4e8f6751d03e5e13e01592d38da1618459915de6d1f0d8a1e7e": {
+        "title": "Pro-AI group to spend $100mn on US midterm elections as backlash grows",
+        "link": "https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24",
+        "published_date": "Mon, 30 Mar 2026 00:03:00 GMT",
+        "first_seen": "2026-03-30T06:57:26.215650"
+      },
+      "ab7a52acd4c7bcf45f3c4c34fbeceb2d2ee1de5009f734caf019b2f88ac40b49": {
+        "title": "What to do when the ‘public good’ of information goes bad",
+        "link": "https://www.ft.com/content/c1af9258-a77d-469c-8b8b-b455321786b3",
+        "published_date": "Mon, 30 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-30T06:57:26.215652"
+      },
+      "f22e70f52962632def94084d9e49e3915a29a133617b662b2405909e7d0600a2": {
+        "title": "TotalEnergies made bumper profit on Middle East oil bet",
+        "link": "https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31",
+        "published_date": "Mon, 30 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-30T06:57:26.215654"
+      },
+      "cb702e7ec9f359e58fad86fb8ec6439156a00305d246f567014f278b41a683ab": {
+        "title": "Insurers give Emirates ‘outrageously’ cheap war insurance cover",
+        "link": "https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e",
+        "published_date": "Mon, 30 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-30T06:57:26.215656"
       }
     },
     "Ai": {
-      "b6f3db0f58a6a61922f00b945f34aaa552c9945b950d13f5ce1fa7d8f0bd2b8b": {
-        "title": "2026-02-28日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-28/",
-        "published_date": "Sat, 28 Feb 2026 10:41:00 GMT",
-        "first_seen": "2026-02-28T05:35:41.072955"
-      },
       "401b18f2cb77b4783c43ef102e4794e38285b1af68ceb19005d2415dbe9af0bb": {
         "title": "海淀放大招！90亿资金+近30条政策，重磅释放三大科创关键信号",
         "link": "https://www.qbitai.com/2026/02/382952.html",
@@ -5801,13 +5801,43 @@
         "link": "https://www.qbitai.com/2026/03/393085.html",
         "published_date": "Sun, 29 Mar 2026 15:21:00 GMT",
         "first_seen": "2026-03-29T23:37:28.109420"
+      },
+      "83f5949b787e3cd21dd5e19e1bf820a69c64ac8aefa7fc0f88f633a5334ac10f": {
+        "title": "国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分",
+        "link": "https://www.qbitai.com/2026/03/393296.html",
+        "published_date": "Mon, 30 Mar 2026 03:55:00 GMT",
+        "first_seen": "2026-03-30T06:57:43.777292"
+      },
+      "77020af68adf65cb38931923239646da90c82940aa145bafefad44a2da937c71": {
+        "title": "DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了",
+        "link": "https://www.qbitai.com/2026/03/393235.html",
+        "published_date": "Mon, 30 Mar 2026 03:33:00 GMT",
+        "first_seen": "2026-03-30T06:57:43.777298"
+      },
+      "edcc8e8fa22545ad9fad4670331d9060991f2588dab36b64705b7840004daf26": {
+        "title": "单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
+        "link": "https://www.qbitai.com/2026/03/392787.html",
+        "published_date": "Mon, 30 Mar 2026 00:41:00 GMT",
+        "first_seen": "2026-03-30T06:57:43.777300"
+      },
+      "63e35891cd3baad6a246b9ec9353bdf3a1c1aba547cca7a1e1622c64bd0af362": {
+        "title": "Nature Index特刊聚焦天立国际：系统呈现中国教育AGI实践探索",
+        "link": "https://www.qbitai.com/2026/03/393336.html",
+        "published_date": "Mon, 30 Mar 2026 04:08:00 GMT",
+        "first_seen": "2026-03-30T06:57:43.777302"
+      },
+      "9aec43762c899d3b38f3afdd5bd262690b995c9aff782b3ff271202f3b56c35c": {
+        "title": "60%用户还在乱养虾！9位大神亮招：有人多赚一笔钱，有人多睡1小时｜量子位沙龙",
+        "link": "https://www.qbitai.com/2026/03/393244.html",
+        "published_date": "Mon, 30 Mar 2026 03:49:00 GMT",
+        "first_seen": "2026-03-30T06:57:43.777303"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-29T23:37:14.986636",
-    "Finance": "2026-03-29T23:37:27.959240",
-    "Ai": "2026-03-29T23:37:28.109421"
+    "Technology": "2026-03-30T06:57:11.443169",
+    "Finance": "2026-03-30T06:57:26.215659",
+    "Ai": "2026-03-30T06:57:43.777305"
   }
 }

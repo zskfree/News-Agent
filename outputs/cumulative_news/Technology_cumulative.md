@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-29 23:37
+**最后更新时间**: 2026-03-30 06:56
+
+---
+
+## 🆕 最新更新 (2026-03-30 06:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [丰田，不再“端着”｜钛度车库](https://www.tmtpost.com/7934386.html)
+**发布时间**: 2026-03-30 14:43
+
+#### [人手一个"龙虾"的时代，谁来管住失控的AI？](https://www.tmtpost.com/7934187.html)
+**发布时间**: 2026-03-30 14:28
+
+#### [百英生物闯关北交所：毛利率“反常”、大客户“换血”，收入准确性遭两轮拷问丨IPO观察](https://www.tmtpost.com/7932745.html)
+**发布时间**: 2026-03-30 13:21
+
+#### [困在“活动”里的商场：越热闹，越迷茫](https://www.tmtpost.com/7934199.html)
+**发布时间**: 2026-03-30 12:58
+
+#### [UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单](https://www.tmtpost.com/7934267.html)
+**发布时间**: 2026-03-30 12:56
+
+#### [拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命](https://www.tmtpost.com/7933673.html)
+**发布时间**: 2026-03-30 12:37
+
+#### [清华学霸夫妻联手，造出全栈物流机器人第一股，顺丰赚了14亿](https://www.tmtpost.com/7934204.html)
+**发布时间**: 2026-03-30 12:18
+
+#### [卖了3000万的IP新作，迎来了一次史无前例的大更新](https://www.tmtpost.com/7934122.html)
+**发布时间**: 2026-03-30 12:18
+
+#### [霍尔木兹卡全球脖子，化工行业却站上周期反转的起点？](https://www.tmtpost.com/7934123.html)
+**发布时间**: 2026-03-30 11:55
+
+#### [半年前爆火的太空算力，如今走到哪一步了？](https://www.tmtpost.com/7934091.html)
+**发布时间**: 2026-03-30 11:55
+
+#### [车载通信赛道的国产供应商，沦为5G新秩序下的后进生？](https://www.tmtpost.com/7933904.html)
+**发布时间**: 2026-03-30 11:30
+
+#### [鸭子大降价，周黑鸭乐开花](https://www.tmtpost.com/7934005.html)
+**发布时间**: 2026-03-30 11:30
+
+#### [一个伊拉克游戏人的寻路之旅](https://www.tmtpost.com/7934058.html)
+**发布时间**: 2026-03-30 11:30
+
+#### [电费只占5%，谁在真正吃掉算力成本？](https://www.tmtpost.com/7934099.html)
+**发布时间**: 2026-03-30 11:30
+
+#### [MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！](https://www.tmtpost.com/7933701.html)
+**发布时间**: 2026-03-30 10:58
+
+#### [主动降速、股价巨震，泡泡玛特的叙事到头了吗？](https://www.tmtpost.com/7933971.html)
+**发布时间**: 2026-03-30 10:19
+
+#### [李荣浩之怒](https://www.tmtpost.com/7933831.html)
+**发布时间**: 2026-03-30 10:11
+
+#### [双重政策压顶，三大运营商2026年的日子更难了](https://www.tmtpost.com/7934045.html)
+**发布时间**: 2026-03-30 09:45
+
+#### [“抖音网红”参半，要上市了](https://www.tmtpost.com/7934004.html)
+**发布时间**: 2026-03-30 09:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [.NET 11预览版2更新MAUI，带来性能提升和平台优化](https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 14:00
+
+#### [记忆驱动的 DevOps Agent：从经验沉淀到自动化技能进化的工程实践｜QCon北京](https://www.infoq.cn/article/sxxIEeo332F2st6I1RwC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 11:56
+
+#### [零售商圈分析：基于 Overture Maps 的地理空间数据 ｜技术实践](https://www.infoq.cn/article/2Hrb1OImZUXbUG24kgAw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 11:29
+
+#### [JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位](https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 11:00
+
+#### [全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布](https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 10:46
+
+#### [DeepSeek 崩溃超12小时，工程师连夜抢修，现已恢复正常](https://www.infoq.cn/article/EoGsQ765xrY9bJDDTzhP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 10:03
+
+#### [Revenium发布工具注册中心，揭示AI智能体的真实成本](https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-30 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从保鲜逻辑到外观设计，一份冰箱落地选购指南](https://sspai.com/post/107704)
+**发布时间**: 2026-03-30 11:30
+
+#### [派早报：英文维基百科正式禁止 AI 参与编写](https://sspai.com/post/108044)
+**发布时间**: 2026-03-30 06:56
 
 ---
 

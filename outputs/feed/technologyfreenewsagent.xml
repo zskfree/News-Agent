@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Mar 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2026 23:37:14 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 06:56:00 GMT</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:57:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当王兴说“进攻AI”时，美团在防守什么？</title>
-      <link>https://www.tmtpost.com/7933275.html</link>
-      <description>&lt;![CDATA[当王兴说“进攻AI”时，美团在防守什么？]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933275.html</guid>
+      <title>全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布</title>
+      <link>https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低</title>
-      <link>https://www.tmtpost.com/7933771.html</link>
-      <description>&lt;![CDATA[【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933771.html</guid>
+      <title>MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！</title>
+      <link>https://www.tmtpost.com/7933701.html</link>
+      <description>&lt;![CDATA[MIT最新研究戳穿AI写代码的致命骗局：越改越烂，连人类屎山都打不过！]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933701.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff</link>
-      <description>&lt;![CDATA[推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff</guid>
+      <title>电费只占5%，谁在真正吃掉算力成本？</title>
+      <link>https://www.tmtpost.com/7934099.html</link>
+      <description>&lt;![CDATA[电费只占5%，谁在真正吃掉算力成本？]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934099.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从电价优势到低成本词元（Token）出海的叙事路径成立吗？</title>
-      <link>https://www.tmtpost.com/7933712.html</link>
-      <description>&lt;![CDATA[从电价优势到低成本词元（Token）出海的叙事路径成立吗？]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933712.html</guid>
+      <title>派早报：英文维基百科正式禁止 AI 参与编写</title>
+      <link>https://sspai.com/post/108044</link>
+      <description>&lt;![CDATA[派早报：英文维基百科正式禁止 AI 参与编写]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 06:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108044</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自制电子墨水屏，以及我用它来干了什么？</title>
-      <link>https://sspai.com/post/105990</link>
-      <description>&lt;![CDATA[自制电子墨水屏，以及我用它来干了什么？]]&gt;</description>
-      <pubDate>Sun, 29 Mar 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105990</guid>
+      <title>人手一个&quot;龙虾&quot;的时代，谁来管住失控的AI？</title>
+      <link>https://www.tmtpost.com/7934187.html</link>
+      <description>&lt;![CDATA[人手一个&quot;龙虾&quot;的时代，谁来管住失控的AI？]]&gt;</description>
+      <pubDate>Mon, 30 Mar 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7934187.html</guid>
       <category>Technology</category>
     </item>
   </channel>

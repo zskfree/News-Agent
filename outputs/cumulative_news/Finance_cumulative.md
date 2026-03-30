@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-29 23:37
+**最后更新时间**: 2026-03-30 06:56
+
+---
+
+## 🆕 最新更新 (2026-03-30 06:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [TotalEnergies made bumper profit on Middle East oil bet](https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31)
+**发布时间**: 2026-03-30 04:00
+
+#### [Private capital: what are the risks?](https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776)
+**发布时间**: 2026-03-30 04:00
+
+#### [What to do when the ‘public good’ of information goes bad](https://www.ft.com/content/c1af9258-a77d-469c-8b8b-b455321786b3)
+**发布时间**: 2026-03-30 04:00
+
+#### [America’s gig economy](https://www.ft.com/content/35923259-841c-40aa-b182-68b73dd4c89d)
+**发布时间**: 2026-03-30 04:00
+
+#### [Insurers give Emirates ‘outrageously’ cheap war insurance cover](https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e)
+**发布时间**: 2026-03-30 04:00
+
+#### [The lords and alleged lawbreakers among MFS’s eclectic borrowers](https://www.ft.com/content/cac1f938-a19f-48b8-aab2-41a666c73723)
+**发布时间**: 2026-03-30 04:00
+
+#### [UK ministers explore ‘targeted’ energy bill relief for those most in need](https://www.ft.com/content/70304689-db2a-43d2-9751-7d56af15b629)
+**发布时间**: 2026-03-30 04:00
+
+#### [Oil rises close to $115 as Trump stokes fears of protracted conflict](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
+
+#### [Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24)
+**发布时间**: 2026-03-30 00:03
+
+#### [Donald Trump says US could ‘take the oil in Iran’](https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5)
+**发布时间**: 2026-03-29 23:51
 
 ---
 
