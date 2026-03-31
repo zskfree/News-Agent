@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 06:16
+**最后更新时间**: 2026-03-31 09:03
+
+---
+
+## 🆕 最新更新 (2026-03-31 09:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your chance to spend the night in the $21 million ‘Hannah Montana’ Malibu beach house—or buy it](https://www.marketwatch.com/story/your-chance-to-spend-the-night-in-the-21-million-hannah-montana-malibu-beach-houseor-buy-it-12d9fdd8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:03
+
+#### [World’s best-performing stock market of 2026 is the worst-performing in March](https://www.marketwatch.com/story/worlds-best-performing-stock-market-of-2026-is-the-worst-performing-in-march-be36f691?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:03
+
+#### [Drew Barrymore is selling her historic Westchester estate for $5 million](https://www.marketwatch.com/story/drew-barrymore-is-selling-her-historic-westchester-estate-for-5-million-6daaeb52?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Unilever nears deal to merge food unit with McCormick to create $60bn group](https://www.ft.com/content/303f48d6-e6ea-470c-9688-730fb6a3f216)
+**发布时间**: 2026-03-31 06:50
+
+#### [BlackRock looks at HSBC’s Canary Wharf tower for new London HQ](https://www.ft.com/content/95fe2fb7-d369-4416-9dda-9cf619172ff4)
+**发布时间**: 2026-03-31 04:00
+
+#### [BlackRock to boost investment in NHS property](https://www.ft.com/content/1cdcf217-2fb3-4ccb-aacf-08295403f6c4)
+**发布时间**: 2026-03-31 04:00
+
+#### [‘Pump anxiety’ from soaring fuel prices prompts surge in EV interest](https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1)
+**发布时间**: 2026-03-31 04:00
+
+#### [US petrol prices hit $4 a gallon for first time since 2022](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 00:36
 
 ---
 

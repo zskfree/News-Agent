@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 06:16
+**最后更新时间**: 2026-03-31 09:03
+
+---
+
+## 🆕 最新更新 (2026-03-31 09:03)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载](https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 17:01
+
+#### [Apache Doris + SelectDB：定义 AI 时代，实时分析的三大范式](https://www.infoq.cn/article/upjalB3iBabw6pQaQRTX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 16:41
+
+#### [Airbnb在发现问题并非源于企业文化后，重新构建了告警开发流程](https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 16:00
+
+#### [OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系](https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 14:52
+
+#### [4月月更启动！用文字记录你的每一个进步瞬间](https://xie.infoq.cn/article/d7ac0e1c33765ac4c1631ff85?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 13:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [商业火箭，进入“大运力时代”](https://www.tmtpost.com/7936179.html)
+**发布时间**: 2026-03-31 16:25
+
+#### [中科曙光发了个“标配版”超节点，AI推理算力的未来形态？](https://www.tmtpost.com/7936210.html)
+**发布时间**: 2026-03-31 16:24
+
+#### [中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁](https://www.tmtpost.com/7936099.html)
+**发布时间**: 2026-03-31 14:21
+
+#### [盛极而罗技](https://www.tmtpost.com/7936102.html)
+**发布时间**: 2026-03-31 14:21
+
+#### [失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋](https://www.tmtpost.com/7935789.html)
+**发布时间**: 2026-03-31 14:18
+
+#### [智能编码扎根生产级场景，阿里云系统化解题](https://www.tmtpost.com/7935669.html)
+**发布时间**: 2026-03-31 14:18
+
+#### [即将上市的Kimi，会复刻MiniMax走势吗？](https://www.tmtpost.com/7936085.html)
+**发布时间**: 2026-03-31 14:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 如何正确进行 vivo Log 的色彩空间转换](https://sspai.com/post/108101)
+**发布时间**: 2026-03-31 15:03
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 GitHub 神器太牛逼啦，2 周就狂揽 6000 多点赞。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532626&idx=1&sn=b9d3a4d694c7fec3d9678dc0d1e7af3e)
+**发布时间**: 2026-03-31 11:37
 
 ---
 
