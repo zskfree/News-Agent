@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 23:39:52 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 06:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:17:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro</title>
-      <link>https://www.qbitai.com/2026/03/393460.html</link>
-      <description>&lt;![CDATA[阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 14:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393460.html</guid>
+      <title>Meta华人实习生搞出超级智能体！自己写代码实现自我进化</title>
+      <link>https://www.qbitai.com/2026/03/393645.html</link>
+      <description>&lt;![CDATA[Meta华人实习生搞出超级智能体！自己写代码实现自我进化]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 04:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393645.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球OCR新王来自中国开源！GitHub狂揽73300+Star</title>
-      <link>https://www.qbitai.com/2026/03/393433.html</link>
-      <description>&lt;![CDATA[全球OCR新王来自中国开源！GitHub狂揽73300+Star]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393433.html</guid>
+      <title>Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly</title>
+      <link>https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</link>
+      <description>&lt;![CDATA[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 02:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！</title>
+      <link>https://www.qbitai.com/2026/03/393856.html</link>
+      <description>&lt;![CDATA[玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393856.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国</title>
+      <link>https://www.qbitai.com/2026/03/393483.html</link>
+      <description>&lt;![CDATA[黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 04:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393483.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>别再让AI只干零活了！AI工具正在接管投放全链路</title>
+      <link>https://www.qbitai.com/2026/03/393471.html</link>
+      <description>&lt;![CDATA[别再让AI只干零活了！AI工具正在接管投放全链路]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 01:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393471.html</guid>
       <category>Ai</category>
     </item>
   </channel>

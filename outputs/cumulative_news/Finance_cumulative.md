@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 23:39
+**最后更新时间**: 2026-03-31 06:16
+
+---
+
+## 🆕 最新更新 (2026-03-31 06:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539)
+**发布时间**: 2026-03-31 04:00
+
+#### [Why do politicians want AI to go faster?](https://www.ft.com/content/1ef171a4-7068-4b0f-b8bd-8183c5d760b5)
+**发布时间**: 2026-03-31 04:00
+
+#### [The City law firm that found wealth in private capital](https://www.ft.com/content/f0d130f5-23ba-4263-b026-fa887ac89045)
+**发布时间**: 2026-03-31 04:00
+
+#### [‘Pump anxiety’ from soaring fuel prices prompts surge in interest in EVs](https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1)
+**发布时间**: 2026-03-31 04:00
+
+#### [Cracks appear in US-UK security co-operation after Trump-Starmer tensions](https://www.ft.com/content/7b964e41-4f79-4607-af25-1ee637ba6f12)
+**发布时间**: 2026-03-31 04:00
+
+#### [Foreign central banks sell US Treasuries in wake of Iran war](https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76)
+**发布时间**: 2026-03-31 04:00
+
+#### [Swiss lawmakers signal compromise on $22bn UBS capital plan](https://www.ft.com/content/727eec9f-8548-45ff-8b74-88f2d5efb685)
+**发布时间**: 2026-03-31 04:00
+
+#### [Kuwaiti oil tanker struck off Dubai](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 00:36
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures jump, oil prices retreat on report Trump willing to end war](https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 01:57
+
+#### [Most people have already gotten their tax refunds. That’s bad news for restaurants and retailers.](https://www.marketwatch.com/story/most-people-have-already-gotten-their-tax-refunds-thats-bad-news-for-restaurants-and-retailers-023ded5e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 00:57
 
 ---
 

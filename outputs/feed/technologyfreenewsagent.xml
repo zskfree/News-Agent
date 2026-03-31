@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 30 Mar 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2026 23:39:40 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 06:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:17:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>回看2025，AI的系统工程时刻：重构智能的底座与边界</title>
-      <link>https://www.tmtpost.com/7931577.html</link>
-      <description>&lt;![CDATA[回看2025，AI的系统工程时刻：重构智能的底座与边界]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931577.html</guid>
+      <title>微软&quot;叛逃&quot;OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?</title>
+      <link>https://www.tmtpost.com/7936078.html</link>
+      <description>&lt;![CDATA[微软&quot;叛逃&quot;OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 13:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7936078.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>跨越AI鸿沟：构建企业AI应用价值评估体系</title>
-      <link>https://www.tmtpost.com/7934134.html</link>
-      <description>&lt;![CDATA[跨越AI鸿沟：构建企业AI应用价值评估体系]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 22:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7934134.html</guid>
+      <title>豆包带货，千问充话费：大模型进入“办事时代”</title>
+      <link>https://www.tmtpost.com/7935979.html</link>
+      <description>&lt;![CDATA[豆包带货，千问充话费：大模型进入“办事时代”]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7935979.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体安全实践：可控与可靠｜QCon 前瞻</title>
-      <link>https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体安全实践：可控与可靠｜QCon 前瞻]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“Token”时代，云厂商的生存法则变了</title>
+      <link>https://www.tmtpost.com/7935688.html</link>
+      <description>&lt;![CDATA[“Token”时代，云厂商的生存法则变了]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7935688.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题</title>
-      <link>https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agoda的Storefront简介：感知延迟的反向代理，用于改善基于DNS的负载分布</title>
+      <link>https://www.infoq.cn/article/JT5qw7NBDjeAFyolYbBC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agoda的Storefront简介：感知延迟的反向代理，用于改善基于DNS的负载分布]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JT5qw7NBDjeAFyolYbBC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位</title>
-      <link>https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位]]&gt;</description>
-      <pubDate>Mon, 30 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>构建大规模自治体系</title>
+      <link>https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建大规模自治体系]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-30 23:39
+**最后更新时间**: 2026-03-31 06:16
+
+---
+
+## 🆕 最新更新 (2026-03-31 06:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [构建大规模自治体系](https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 14:00
+
+#### [微软推出WinApp CLI，统一Windows应用开发的工作流](https://www.infoq.cn/article/BiPRRaKmJpEKhHuBcaMz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 11:00
+
+#### [Agoda的Storefront简介：感知延迟的反向代理，用于改善基于DNS的负载分布](https://www.infoq.cn/article/JT5qw7NBDjeAFyolYbBC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 10:00
+
+#### [阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系](https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [微软"叛逃"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?](https://www.tmtpost.com/7936078.html)
+**发布时间**: 2026-03-31 13:35
+
+#### [光伏退税取消倒计时一天，龙头喊涨，硅料跌至新低，市场为何不买账？](https://www.tmtpost.com/7935977.html)
+**发布时间**: 2026-03-31 13:09
+
+#### [豆包带货，千问充话费：大模型进入“办事时代”](https://www.tmtpost.com/7935979.html)
+**发布时间**: 2026-03-31 13:09
+
+#### [一个蛋白的进化史：当物理AI遇见百年国货](https://www.tmtpost.com/7935878.html)
+**发布时间**: 2026-03-31 13:08
+
+#### [“Token”时代，云厂商的生存法则变了](https://www.tmtpost.com/7935688.html)
+**发布时间**: 2026-03-31 13:02
+
+#### [油价一涨，东南亚排队抢中国电车](https://www.tmtpost.com/7935862.html)
+**发布时间**: 2026-03-31 13:02
+
+#### [又新增一例诉讼，仕净科技遭资阳国资追讨3.73亿，跨界光伏的政企纠纷何时能停止？](https://www.tmtpost.com/7935975.html)
+**发布时间**: 2026-03-31 12:58
+
+#### [张雪，活得不累](https://www.tmtpost.com/7935737.html)
+**发布时间**: 2026-03-31 12:51
+
+#### [桌面龙虾来了？阶跃星辰的本地Agent战事](https://www.tmtpost.com/7935893.html)
+**发布时间**: 2026-03-31 12:51
+
+#### [联合治疗公司因其核心药物研究结果积极而股价上涨，为何其股价可能还会进一步走高](https://www.tmtpost.com/7935969.html)
+**发布时间**: 2026-03-31 12:23
+
+#### [波士顿科学公司股价跌至两年来新低，为何华尔街对试验数据愈发不看好](https://www.tmtpost.com/7935964.html)
+**发布时间**: 2026-03-31 12:22
+
+#### [Voyager股价在新的“买入”评级推动下大涨，这只航天股还有望再上涨58%。](https://www.tmtpost.com/7935961.html)
+**发布时间**: 2026-03-31 12:21
+
+#### [在不确定的市场中，辉瑞、葛兰素史克等制药股提供防御性布局机会：图表](https://www.tmtpost.com/7935959.html)
+**发布时间**: 2026-03-31 12:20
+
+#### [希捷股价一年上涨了350%，为什么摩根大通认为它还能继续上涨](https://www.tmtpost.com/7935952.html)
+**发布时间**: 2026-03-31 12:18
+
+#### [尽管伊朗战争爆发，LVMH以及另外6只奢侈品股票仍值得买入](https://www.tmtpost.com/7935950.html)
+**发布时间**: 2026-03-31 12:18
+
+#### [AI 云下一程：从出海伙伴到全球智能基石](https://www.tmtpost.com/7935695.html)
+**发布时间**: 2026-03-31 12:16
+
+#### [Digital Quant 2026量化交易大赛今日开赛，开启AI赋能的全品类资产60+天实盘争锋](https://www.tmtpost.com/7935941.html)
+**发布时间**: 2026-03-31 12:04
+
+#### [商汤跨越AI周期实录：定义AI公司的盈利路径](https://www.tmtpost.com/7934820.html)
+**发布时间**: 2026-03-31 12:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？](https://sspai.com/post/108027)
+**发布时间**: 2026-03-31 11:31
+
+#### [派早报：vivo 举办 vivo X 系列春季新品发布会等](https://sspai.com/post/108088)
+**发布时间**: 2026-03-31 08:19
 
 ---
 
