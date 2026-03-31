@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 09:03
+**最后更新时间**: 2026-03-31 23:38
+
+---
+
+## 🆕 最新更新 (2026-03-31 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nike expects more falling sales, as stock sinks amid worries turnaround is not working](https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 23:24
+
+#### [Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year](https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 23:05
+
+#### [Here’s what’s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-april-2026-on-netflix-hulu-hbo-max-and-more-e6e085e7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:59
+
+#### [How Allbirds went from a $2.2 billion IPO to a $39 million flop](https://www.marketwatch.com/story/how-allbirds-went-from-a-2-2-billion-ipo-to-a-39-million-flop-d34682e7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:51
+
+#### [Oracle’s stock rises as company reportedly begins thousands of job cuts](https://www.marketwatch.com/story/oracles-stock-rises-as-company-reportedly-begins-thousands-of-job-cuts-d3cc07fb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:45
+
+#### [Stocks surge, ending a tough month on a high note. But there’s skepticism about the rally.](https://www.marketwatch.com/story/stocks-surge-ending-a-tough-month-on-a-high-note-but-theres-skepticism-about-the-rally-4ee11873?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:17
+
+#### [OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update](https://www.marketwatch.com/story/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update-b00f4141?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:15
+
+#### [20 stocks that bucked the stock market’s decline in March with gains of up to 40%](https://www.marketwatch.com/story/20-stocks-that-bucked-the-stock-markets-decline-in-march-with-double-digit-gains-ad396fc6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:49
+
+#### [My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?](https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:38
+
+#### [These 20 stocks in the S&P 500 fell hardest during March](https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Judge halts construction of Trump’s $400mn White House ballroom](https://www.ft.com/content/8c36d518-cafc-45f9-a272-0ef4ef48e1de)
+**发布时间**: 2026-03-31 23:23
+
+#### [Trump says US to end war in Iran within ‘2 to 3 weeks’](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 22:09
+
+#### [Israel to ‘demolish’ all houses in Lebanese border villages](https://www.ft.com/content/146faa0e-c1c8-4565-bf8e-25869ce8ec98)
+**发布时间**: 2026-03-31 21:06
+
+#### [UK submarine captain steps down after link to Chinese spy case](https://www.ft.com/content/93beaf9c-e1c8-4875-b446-2cd148529f6a)
+**发布时间**: 2026-03-31 20:17
+
+#### [Oil soars 60% in March as Middle East crisis chokes energy supplies](https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb)
+**发布时间**: 2026-03-31 20:09
+
+#### [OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e)
+**发布时间**: 2026-03-31 20:09
+
+#### [Trump’s presidential library to feature soaring tower and golden statue](https://www.ft.com/content/610e84c7-be7b-42f9-8959-d6b6e6dd9a66)
+**发布时间**: 2026-03-31 15:43
+
+#### [Nvidia invests $2bn in chipmaker Marvell to boost AI networking](https://www.ft.com/content/e23bc33e-757e-46bc-acad-e89647351324)
+**发布时间**: 2026-03-31 15:42
+
+#### [Trump is not just sinking in the Gulf](https://www.ft.com/content/1a36ccb1-0100-44eb-97ac-d1f50c6d23f4)
+**发布时间**: 2026-03-31 11:23
+
+#### [Billionaire Rokos donates record £190mn to Cambridge university](https://www.ft.com/content/dad9e967-47fb-4843-a763-09ea06eb7049)
+**发布时间**: 2026-03-31 11:00
 
 ---
 

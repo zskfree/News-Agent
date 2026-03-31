@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "308b7a5fd8b13ddec7f8ebdd977b90dff036cf5c4e9b3c99030512029da088e7": {
-        "title": "【数智周报】OpenAI宣布获得1100亿美元新投资；Anthropic指控三家中国模型“非法蒸馏” 马斯克：贼喊捉贼；国产芯片公司集体涨价",
-        "link": "https://www.tmtpost.com/7894506.html",
-        "published_date": "Sun, 01 Mar 2026 10:57:00 GMT",
-        "first_seen": "2026-03-01T11:59:19.783816"
-      },
-      "0d0f8391d110fe31ed01ff15f0ae3c44f650f9bc0dcae1c07f00542acec549cb": {
-        "title": "特朗普封杀Anthropic，OpenAI先声援后“背刺”，这中间究竟发生了什么？",
-        "link": "https://www.tmtpost.com/7894874.html",
-        "published_date": "Sun, 01 Mar 2026 12:58:00 GMT",
-        "first_seen": "2026-03-01T11:59:19.783825"
-      },
-      "dcb9b489e4838b16acf9d3fd62c7c15a85338e022fcddf93b7fa5d28b6ec14a3": {
-        "title": "白宫给新建AI算力中心立红线",
-        "link": "https://www.tmtpost.com/7885113.html",
-        "published_date": "Sun, 01 Mar 2026 09:22:00 GMT",
-        "first_seen": "2026-03-01T11:59:19.783828"
-      },
-      "659a99fa5c7f4afeef114b7bf9c4a99cd3f328754fd953a5727d3ddfad5eeedb": {
-        "title": "虽然打不了螺丝，但人形机器人们依然想“上岸”",
-        "link": "https://www.tmtpost.com/7894859.html",
-        "published_date": "Sun, 01 Mar 2026 12:57:00 GMT",
-        "first_seen": "2026-03-01T11:59:19.783830"
-      },
-      "8061b6ba70396dc5176738b7b69e246f36fea5b8cf9958e424fd6bea3cc4bbf2": {
-        "title": "历史上第一次，AI成为裁员公开理由",
-        "link": "https://www.tmtpost.com/7894454.html",
-        "published_date": "Sun, 01 Mar 2026 09:21:00 GMT",
-        "first_seen": "2026-03-01T11:59:19.783832"
-      },
-      "4a6f31e7804761dc4974e7f2cf99a63458760e7678c1c5d5a8ec9a420a4e3a38": {
-        "title": "【钛晨报】中国首个国家级人形机器人与具身智能标准体系发布；英伟达计划推出新芯片以加速人工智能处理；主要产油国宣布4月增产",
-        "link": "https://www.tmtpost.com/7895142.html",
-        "published_date": "Mon, 02 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-01T23:26:35.961764"
-      },
-      "0eef4ae08dedc5d5bf2e6b37d0db4153cb712642712295b0d3b15ca1cb50558f": {
-        "title": "为了1100亿，OpenAI把理想做成了生意",
-        "link": "https://www.tmtpost.com/7895012.html",
-        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
-        "first_seen": "2026-03-01T23:26:35.961776"
-      },
-      "9876810c1569e1254ff1cb42dce7ee777fd68ef7ab3330c852689c9411e93560": {
-        "title": "盘点 4 个让 AI Agent 变强的 Skills。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531723&idx=1&sn=b6e3ea8752e949cebac7de93692bbb4f",
-        "published_date": "Sun, 01 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-01T23:26:35.961779"
-      },
-      "b69370bb6cd6bf7167818e7d7018d353ad270cb23a149630c27d7ef6cde9f3f8": {
-        "title": "业绩两连降，爱奇艺能否靠AI闯出一条新路？",
-        "link": "https://www.tmtpost.com/7895061.html",
-        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
-        "first_seen": "2026-03-01T23:26:35.961781"
-      },
-      "3594cf5fd1fd172b5c4f2fea57ccdd63557e5d94ae3f7ab29b2d6c7e941fa759": {
-        "title": "如果阿里千问买下“休克”的魅族手机",
-        "link": "https://www.tmtpost.com/7894867.html",
-        "published_date": "Sun, 01 Mar 2026 12:57:00 GMT",
-        "first_seen": "2026-03-01T23:26:35.961783"
-      },
       "bba919f6b8b1436c9614320fc3a694433dd265e68cea3fc9cc2201427edce9f9": {
         "title": "别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC",
         "link": "https://www.infoq.cn/article/HgmbXbAFT1E0T6qcuia0?utm_source=rss&utm_medium=article",
@@ -2731,69 +2671,39 @@
         "link": "https://www.tmtpost.com/7935669.html",
         "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
         "first_seen": "2026-03-31T09:04:08.134686"
+      },
+      "b63a5cf91242af266ff047261ee193c4c871bbdba2290be64ea444640464ffb8": {
+        "title": "【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例",
+        "link": "https://www.tmtpost.com/7936967.html",
+        "published_date": "Wed, 01 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-03-31T23:39:01.317698"
+      },
+      "a4892b2f87586a674e9ab14ca5181648d7d3b22862914b7fb0adde13c4f56a77": {
+        "title": "昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡",
+        "link": "https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 17:14:00 GMT",
+        "first_seen": "2026-03-31T23:39:01.317712"
+      },
+      "e9565d33daccded9454827d5c43ce9d8a96fc87b1320dcdad12da0162ee1d680": {
+        "title": "智谱跑通了MaaS盈利模式，但仍有一个“短板”丨看财报",
+        "link": "https://www.tmtpost.com/7936877.html",
+        "published_date": "Tue, 31 Mar 2026 19:50:00 GMT",
+        "first_seen": "2026-03-31T23:39:01.317714"
+      },
+      "e0921459482ba47481b5a593680a861009b285eff285fdd9b77c58be5f29a55c": {
+        "title": "华沿机器人赴港上市：大族激光孵化，剑指具身智能",
+        "link": "https://www.tmtpost.com/7931199.html",
+        "published_date": "Tue, 31 Mar 2026 19:20:00 GMT",
+        "first_seen": "2026-03-31T23:39:01.317717"
+      },
+      "77f17722b28124a077d540d3e2e393f8c187970e33591e30a7b4b153bed7afef": {
+        "title": "100亿现金也买不来安全感：月之暗面的“PlanB”",
+        "link": "https://www.tmtpost.com/7935945.html",
+        "published_date": "Tue, 31 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-31T23:39:01.317719"
       }
     },
     "Finance": {
-      "9a576b5e4aeb5e46be44b52e29289725e919e31750aec91f505ec7b79f82b8f2": {
-        "title": "Opec+ to raise oil output in bid to calm markets after US-Israel strikes kill Khamenei",
-        "link": "https://www.ft.com/content/e026b4a7-1115-493a-9b31-c8b0b5965491",
-        "published_date": "Sun, 01 Mar 2026 11:49:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.381885"
-      },
-      "3175461b29b718f746479513ad4f3da2c370c3e53caf566c801c9fce2174577c": {
-        "title": "US not planning to tap strategic reserve as Iran war risks oil surge",
-        "link": "https://www.ft.com/content/e85a07da-9a74-4942-ae22-3945773aeb82",
-        "published_date": "Sat, 28 Feb 2026 23:50:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.381892"
-      },
-      "cf9389ca2f477cabbbf956e61a45f3158f3cd44f39c96f59e6b2a5af1eaae011": {
-        "title": "Ayatollah Ali Khamenei, Iran’s supreme leader, 1939-2026",
-        "link": "https://www.ft.com/content/7ce98cd0-269f-4522-b1e4-bfb72aa43c3e",
-        "published_date": "Sun, 01 Mar 2026 01:59:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.381894"
-      },
-      "2f7c2ff4f99faf8f96a0ea933eede6f747033fe44bd3cc0db1d952313b308b6b": {
-        "title": "Trump tries to defy troubled history of US interventions in Middle East",
-        "link": "https://www.ft.com/content/da633899-964a-42d7-a7a9-07c034fac388",
-        "published_date": "Sun, 01 Mar 2026 02:34:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.381896"
-      },
-      "43a03259cf6418adfb51801e4864108aaf63583ee6b096ca05df9a1162afd697": {
-        "title": "Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran",
-        "link": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Mar 2026 09:04:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.381898"
-      },
-      "372c5e5f87eabaa9b8f0ca9a67a5d400d7be5942bf592566db927b1eb9b89a33": {
-        "title": "What will war in Iran do to the global economy?",
-        "link": "https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456",
-        "published_date": "Sun, 01 Mar 2026 12:50:00 GMT",
-        "first_seen": "2026-03-01T23:26:49.975791"
-      },
-      "e8c9ab0212e2a0278f7f30f73b6dc452ed10b8c1b6bcf24573343e27244d2eea": {
-        "title": "Allegations of insider trading emerge over prediction-market bets tied to Iran conflict",
-        "link": "https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Mar 2026 20:51:00 GMT",
-        "first_seen": "2026-03-01T23:26:49.975798"
-      },
-      "d32f8ba03fca261cf56f9f771fd41c89c96f7f288f5993e60bfbccd33414696e": {
-        "title": "Military briefing: Iran’s new retaliation strategy",
-        "link": "https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2",
-        "published_date": "Sun, 01 Mar 2026 16:41:00 GMT",
-        "first_seen": "2026-03-01T23:26:49.975800"
-      },
-      "3bce0a1cadd0ffaa55ebc3623dae598532d3ed5c0ad3cb76b13c1311d57794b7": {
-        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
-        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Mar 2026 18:40:00 GMT",
-        "first_seen": "2026-03-01T23:26:49.975802"
-      },
-      "cff6dd6cc3f05251df7883744f01e0d1a9f46bb3993bc49f8ff9ce399c0a5d41": {
-        "title": "The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase",
-        "link": "https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories",
-        "published_date": "Sun, 01 Mar 2026 18:18:00 GMT",
-        "first_seen": "2026-03-01T23:26:49.975804"
-      },
       "bad59a833077ed456a2fa12893af2ff282378ae3354b5439285f012fa246f083": {
         "title": "In charts: how Donald Trump became a military interventionist",
         "link": "https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49",
@@ -4725,15 +4635,39 @@
         "link": "https://www.ft.com/content/303f48d6-e6ea-470c-9688-730fb6a3f216",
         "published_date": "Tue, 31 Mar 2026 06:50:00 GMT",
         "first_seen": "2026-03-31T09:04:08.171896"
+      },
+      "9ae00302e027d1532802983e5331335f21f31ffa4a6b60f6748c2afafbef9b5f": {
+        "title": "Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year",
+        "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
+        "published_date": "Tue, 31 Mar 2026 23:05:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.542280"
+      },
+      "d129123468774934daf9b4adf98159b80c67a46d8e2ee67f26ef2e4ac970ba0f": {
+        "title": "Oil soars 60% in March as Middle East crisis chokes energy supplies",
+        "link": "https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb",
+        "published_date": "Tue, 31 Mar 2026 20:09:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.542288"
+      },
+      "1eb4d0cdd9ad4c144843a7406cf63ca15eed265e7af5d7982f91dd053e5cf564": {
+        "title": "Nvidia invests $2bn in chipmaker Marvell to boost AI networking",
+        "link": "https://www.ft.com/content/e23bc33e-757e-46bc-acad-e89647351324",
+        "published_date": "Tue, 31 Mar 2026 15:42:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.542290"
+      },
+      "44eed56c62634f541dffde290893052a8c9387bbc693b2e7fad95ba9c711a1cb": {
+        "title": "How Allbirds went from a $2.2 billion IPO to a $39 million flop",
+        "link": "https://www.marketwatch.com/story/how-allbirds-went-from-a-2-2-billion-ipo-to-a-39-million-flop-d34682e7?mod=mw_rss_topstories",
+        "published_date": "Tue, 31 Mar 2026 22:51:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.542291"
+      },
+      "158acd94773512b861962c265f6f900159499a7b495b84bde88818e1fa503f7e": {
+        "title": "OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update",
+        "link": "https://www.marketwatch.com/story/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update-b00f4141?mod=mw_rss_topstories",
+        "published_date": "Tue, 31 Mar 2026 22:15:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.542293"
       }
     },
     "Ai": {
-      "e5ec1e7834e4e019a0642a7cc028bd5f912fd360f0b926db04c7dd701b8209c3": {
-        "title": "2026-03-01日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-01/",
-        "published_date": "Sun, 01 Mar 2026 12:56:00 GMT",
-        "first_seen": "2026-03-01T11:59:30.530226"
-      },
       "e5145cc8f433e11de3d4687d25bd98561acf48eda9f488b8e30437b82c4f1cd0": {
         "title": "2026-03-02日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-02/",
@@ -6023,13 +5957,43 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-31/",
         "published_date": "Tue, 31 Mar 2026 09:43:00 GMT",
         "first_seen": "2026-03-31T09:04:08.320754"
+      },
+      "26535b20283b858e17dac0b33b17f44ed55d13d34887028b41e2e3094af44631": {
+        "title": "Building better AI benchmarks: How many raters are enough?",
+        "link": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
+        "published_date": "Tue, 31 Mar 2026 16:16:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.681481"
+      },
+      "4429790d6f0ea095f500bb93c8677249435a56633fc947c0edc2431b9345fb67": {
+        "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
+        "link": "https://www.qbitai.com/2026/03/394149.html",
+        "published_date": "Tue, 31 Mar 2026 15:25:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.681489"
+      },
+      "f55294dee00c91778bbc07908c83e060191991249ca03f6402d487097d111ace": {
+        "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+        "link": "https://www.qbitai.com/2026/03/394135.html",
+        "published_date": "Tue, 31 Mar 2026 12:08:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.681491"
+      },
+      "8ac5239d23cfe3405fbdb01fa00d656aa89b9115a733f631d10f66711e3b9155": {
+        "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
+        "link": "https://www.qbitai.com/2026/03/394014.html",
+        "published_date": "Tue, 31 Mar 2026 10:18:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.681493"
+      },
+      "d142b14af6fb4d7fd096d932a10959511550bf06df7267cab29b559f9c66fe00": {
+        "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
+        "link": "https://www.qbitai.com/2026/03/394011.html",
+        "published_date": "Tue, 31 Mar 2026 09:12:00 GMT",
+        "first_seen": "2026-03-31T23:39:19.681494"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-31T09:04:08.134688",
-    "Finance": "2026-03-31T09:04:08.171898",
-    "Ai": "2026-03-31T09:04:08.320756"
+    "Technology": "2026-03-31T23:39:01.317721",
+    "Finance": "2026-03-31T23:39:19.542295",
+    "Ai": "2026-03-31T23:39:19.681496"
   }
 }

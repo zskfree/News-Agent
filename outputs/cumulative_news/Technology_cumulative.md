@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 09:03
+**最后更新时间**: 2026-03-31 23:38
+
+---
+
+## 🆕 最新更新 (2026-03-31 23:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例](https://www.tmtpost.com/7936967.html)
+**发布时间**: 2026-04-01 07:20
+
+#### [量化派2025业绩出炉：经营质效双升“AI+消费”，战略开启增长新局面](https://www.tmtpost.com/7936986.html)
+**发布时间**: 2026-03-31 21:57
+
+#### [美格智能年报：营收狂奔利润“掉队”，“A+H”上市迎东风亦迎考验丨看财报](https://www.tmtpost.com/7936951.html)
+**发布时间**: 2026-03-31 21:42
+
+#### [智谱跑通了MaaS盈利模式，但仍有一个“短板”丨看财报](https://www.tmtpost.com/7936877.html)
+**发布时间**: 2026-03-31 19:50
+
+#### [华沿机器人赴港上市：大族激光孵化，剑指具身智能](https://www.tmtpost.com/7931199.html)
+**发布时间**: 2026-03-31 19:20
+
+#### [从「糖酒会」到「创造营」：2026，饮料热点与趋势前瞻](https://www.tmtpost.com/7936137.html)
+**发布时间**: 2026-03-31 19:19
+
+#### [36年垄断被终结，从张雪夺冠，看中国摩托车的产业链突围](https://www.tmtpost.com/7936802.html)
+**发布时间**: 2026-03-31 19:19
+
+#### [「县城霸主」好想来们攻入五环内，只能「收割」小学生？](https://www.tmtpost.com/7936712.html)
+**发布时间**: 2026-03-31 19:14
+
+#### [100亿现金也买不来安全感：月之暗面的“PlanB”](https://www.tmtpost.com/7935945.html)
+**发布时间**: 2026-03-31 19:14
+
+#### [返利依赖与成本上行：东鹏饮料高增长背后的隐忧 | 看财报](https://www.tmtpost.com/7936788.html)
+**发布时间**: 2026-03-31 19:05
+
+#### [拿下B站AI创作大赛百万大奖的《牌子》导演，预测今年底是AI奇点](https://www.tmtpost.com/7936097.html)
+**发布时间**: 2026-03-31 18:31
+
+#### [目前市场上最先进的AI大模型，已经集体变成溜须拍马的“舔狗”](https://www.tmtpost.com/7936583.html)
+**发布时间**: 2026-03-31 18:30
+
+#### [在硅谷，不懂中文还搞什么AI？](https://www.tmtpost.com/7936587.html)
+**发布时间**: 2026-03-31 18:29
+
+#### [张雪机车估值破10亿，高信资本、浙创投赢麻了](https://www.tmtpost.com/7936676.html)
+**发布时间**: 2026-03-31 18:29
+
+#### [Pan-(K)RAS，被提前的下半场](https://www.tmtpost.com/7936702.html)
+**发布时间**: 2026-03-31 18:29
+
+#### [从几十元到上万元，“接地府”的AI生意经](https://www.tmtpost.com/7936596.html)
+**发布时间**: 2026-03-31 18:18
+
+#### [AI超节点时代的交换机革命](https://www.tmtpost.com/7936611.html)
+**发布时间**: 2026-03-31 18:18
+
+#### [幺正量子完成数亿元Pre-A轮融资，蚂蚁、吉利、混沌、中博聚力等参投｜融资速递](https://www.tmtpost.com/7936371.html)
+**发布时间**: 2026-03-31 17:55
+
+#### [海底捞的债，张勇还清了](https://www.tmtpost.com/7936124.html)
+**发布时间**: 2026-03-31 17:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”](https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 21:53
+
+#### [终于不用跟图表死磕了！这个 Skill 让 OpenClaw 直接封神](https://www.infoq.cn/article/fjCbCtuTVq77dYvLb9TM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 21:41
+
+#### [如何用阿里云龙虾CoPaw搭建个人第二大脑](https://www.infoq.cn/video/rmwSfzYoCTzqT4bSaH6u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 21:30
+
+#### [通义实验室推出CoPaw，更适合打工人的国产龙虾来了](https://www.infoq.cn/article/Z8OmAd2YjFBlxaA0yfij?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 20:49
+
+#### [官宣！理想智驾核心夏中谱跳槽，空降无界动力任联席CTO，杀入具身智能赛道](https://www.infoq.cn/article/JiCrwYbL9x7yJ6p37t44?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 17:38
+
+#### [等了两年，苹果国行iPhone AI凌晨突袭“上线”？数小时后光速撤回，乌龙原因曝光](https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 17:35
+
+#### [昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡](https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 17:14
+
+#### [48小时，10k星！React 大佬新作把前端卷上天，网友评价严重分裂](https://www.infoq.cn/article/xFsgDHc7gqYymj8O45OV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-31 17:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [时隔 5 年的大更新：AirPods Max 2 首发体验](https://sspai.com/post/108118)
+**发布时间**: 2026-03-31 21:00
+
+#### [社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验](https://sspai.com/post/108108)
+**发布时间**: 2026-03-31 17:32
+
+#### [装了啥特别篇：编辑部近期 AI 用法拼盘](https://sspai.com/prime/story/zhuanglesha-260331)
+**发布时间**: 2026-03-31 16:57
 
 ---
 

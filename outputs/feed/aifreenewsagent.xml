@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 31 Mar 2026 09:02:00 GMT</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2026 09:04:08 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 23:36:00 GMT</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:39:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人线下真机对线打PK！这届黑客松可太会玩了</title>
-      <link>https://www.qbitai.com/2026/03/393887.html</link>
-      <description>&lt;![CDATA[机器人线下真机对线打PK！这届黑客松可太会玩了]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 06:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393887.html</guid>
+      <title>Building better AI benchmarks: How many raters are enough?</title>
+      <link>https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</link>
+      <description>&lt;![CDATA[Building better AI benchmarks: How many raters are enough?]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-03-31日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-31/</link>
-      <description>&lt;![CDATA[2026-03-31日刊]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-31/</guid>
+      <title>公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度</title>
+      <link>https://www.qbitai.com/2026/03/394149.html</link>
+      <description>&lt;![CDATA[公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394149.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了</title>
+      <link>https://www.qbitai.com/2026/03/394135.html</link>
+      <description>&lt;![CDATA[智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394135.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！</title>
+      <link>https://www.qbitai.com/2026/03/394014.html</link>
+      <description>&lt;![CDATA[刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394014.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”</title>
+      <link>https://www.qbitai.com/2026/03/394011.html</link>
+      <description>&lt;![CDATA[ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394011.html</guid>
       <category>Ai</category>
     </item>
   </channel>
