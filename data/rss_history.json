@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bba919f6b8b1436c9614320fc3a694433dd265e68cea3fc9cc2201427edce9f9": {
-        "title": "别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC",
-        "link": "https://www.infoq.cn/article/HgmbXbAFT1E0T6qcuia0?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 12:08:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.218246"
-      },
-      "c8d9b3dbffe6b0d4bdf2d5177fa0c16b6f8ac2eb7c58b4c97959a153ebe4f785": {
-        "title": "派早报：OpenAI 接替 Anthropic 与五角大楼达成合作",
-        "link": "https://sspai.com/post/106730",
-        "published_date": "Mon, 02 Mar 2026 07:04:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.218256"
-      },
-      "6f88baf5d8c9ce235e789c97736ad71d4c9d9977908846e78fb0174d06e2ed42": {
-        "title": "热钱追逐，具身智能要先过异构计算这一关丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7895618.html",
-        "published_date": "Mon, 02 Mar 2026 13:15:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.218259"
-      },
-      "5992ababa11395de0998d4b4522a50a1356aa907060700aa3b31c69c462282eb": {
-        "title": "OpenAI扩展单主节点PostgreSQL，以处理ChatGPT每秒数百万次的查询",
-        "link": "https://www.infoq.cn/article/LxfKX2WTqbG6flW9KcZ1?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.218261"
-      },
-      "11f4f1a938251c927222d3e3e1f2343fc3689065a358c633596f6a9bfadbd648": {
-        "title": "领跑干线无人货运，卡尔动力KargoBot完成超1亿美元B轮融资｜融资速递",
-        "link": "https://www.tmtpost.com/7895707.html",
-        "published_date": "Mon, 02 Mar 2026 12:14:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.218263"
-      },
       "ea614b71a2d053003ff1c6d1bdff2d8b70e6c6c023a4292bb5afc7bad6f2d519": {
         "title": "Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%",
         "link": "https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&utm_medium=article",
@@ -2701,21 +2671,39 @@
         "link": "https://www.tmtpost.com/7935945.html",
         "published_date": "Tue, 31 Mar 2026 19:14:00 GMT",
         "first_seen": "2026-03-31T23:39:01.317719"
+      },
+      "37422dbbf2bfbc254368553550822e242c7dd24c2b35888b92316090552eba40": {
+        "title": "阿里云发布Qwen3.5-Omni，全模态大战开启",
+        "link": "https://www.tmtpost.com/7937091.html",
+        "published_date": "Wed, 01 Apr 2026 12:30:00 GMT",
+        "first_seen": "2026-04-01T06:29:08.224670"
+      },
+      "b260c73ff6315543749a600e2a451494f23d5012187a46976fb5719518bbf02c": {
+        "title": "Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露",
+        "link": "https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 14:20:00 GMT",
+        "first_seen": "2026-04-01T06:29:08.224681"
+      },
+      "d6be764517af6715863b741b3958fc4369aeea60cd6a0f21c2bc92d652e64f63": {
+        "title": "迈瑞医疗正在变成一家具身智能公司",
+        "link": "https://www.tmtpost.com/7937395.html",
+        "published_date": "Wed, 01 Apr 2026 14:10:00 GMT",
+        "first_seen": "2026-04-01T06:29:08.224683"
+      },
+      "3e405fb2bac6abbdf0a8aa28a59b85a5d19bf4addaea9753c2cd93c7853ac05b": {
+        "title": "Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能",
+        "link": "https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-01T06:29:08.224686"
+      },
+      "bc707c916bc813f85244a557f35095160fbc93657d3bc408f58ddd5172fdfc57": {
+        "title": "Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus",
+        "link": "https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 11:48:00 GMT",
+        "first_seen": "2026-04-01T06:29:08.224688"
       }
     },
     "Finance": {
-      "bad59a833077ed456a2fa12893af2ff282378ae3354b5439285f012fa246f083": {
-        "title": "In charts: how Donald Trump became a military interventionist",
-        "link": "https://www.ft.com/content/e9905f8d-27d1-446a-90aa-fc296495eb49",
-        "published_date": "Mon, 02 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.251255"
-      },
-      "df2bfb8ca357ce887b12fe617b912a444ba03b035ba02636b7896430c5eb7348": {
-        "title": "Anthropic’s Claude tops App Store charts as backlash builds against OpenAI’s ChatGPT",
-        "link": "https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories",
-        "published_date": "Mon, 02 Mar 2026 01:32:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.251262"
-      },
       "d02aef351d22f72ea30c3f08d2af980ea0c49c83b84b91ba9718d2a04e741e88": {
         "title": "Oil prices soar and stocks slide as Middle East conflict escalates",
         "link": "https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347",
@@ -4665,27 +4653,39 @@
         "link": "https://www.marketwatch.com/story/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update-b00f4141?mod=mw_rss_topstories",
         "published_date": "Tue, 31 Mar 2026 22:15:00 GMT",
         "first_seen": "2026-03-31T23:39:19.542293"
+      },
+      "9a6bfd9326f119244a1dfbed5c9139c60d36456e62b6abd59802aa3e55b05368": {
+        "title": "The global economy turns out to be more resilient than we had feared",
+        "link": "https://www.ft.com/content/87272792-03e3-4124-a376-1a4baadfd5b2",
+        "published_date": "Wed, 01 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-01T06:29:21.848073"
+      },
+      "4b1aa6e90126462f8f9db7dd7717ee1f81a68e8cdc4acf99e4a87e9e160114a4": {
+        "title": "Chinese government bonds emerge as lone war haven",
+        "link": "https://www.ft.com/content/72215587-4b6c-454c-85ff-6956132705d9",
+        "published_date": "Wed, 01 Apr 2026 02:25:00 GMT",
+        "first_seen": "2026-04-01T06:29:21.848080"
+      },
+      "68e7e59d759281d6bf59d625e419f09ef796963410ad9c5e529dc3eb6e585ef7": {
+        "title": "A wild first quarter comes to an end: 6 charts that defined a chaotic stretch for stocks",
+        "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 00:23:00 GMT",
+        "first_seen": "2026-04-01T06:29:21.848083"
+      },
+      "3a566549dee6b3bc42a7773f16b73fb26f07a45b70a23e2688a612d4c7dcde3a": {
+        "title": "Record number of megadeals agreed in first quarter",
+        "link": "https://www.ft.com/content/4c004e97-e582-4f47-89ea-83c126d0df9d",
+        "published_date": "Wed, 01 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-01T06:29:21.848085"
+      },
+      "cb5e3bbb7ba6ce716e5116badd931645b0c91d2fc01b09f8abc85979be65151b": {
+        "title": "Trump says US could withdraw from Iran ‘whether we have a deal or not’",
+        "link": "https://www.ft.com/content/77e5184d-9854-4a30-b53c-498223b436a5",
+        "published_date": "Wed, 01 Apr 2026 02:25:00 GMT",
+        "first_seen": "2026-04-01T06:29:21.848087"
       }
     },
     "Ai": {
-      "e5145cc8f433e11de3d4687d25bd98561acf48eda9f488b8e30437b82c4f1cd0": {
-        "title": "2026-03-02日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-02/",
-        "published_date": "Mon, 02 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.409686"
-      },
-      "8697051c2c68473c655b80ea521b98140dae754bc082bb4d46115acea6dbc054": {
-        "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
-        "link": "https://www.qbitai.com/2026/03/383016.html",
-        "published_date": "Mon, 02 Mar 2026 04:29:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.409694"
-      },
-      "da9397469808bdfc545645663a5af016f39222eca586c5d905f7224e1cb3a7cc": {
-        "title": "“一键生成，页页可改”！商汤办公小浣熊推出「可编辑」的AI PPT",
-        "link": "https://www.qbitai.com/2026/03/382971.html",
-        "published_date": "Mon, 02 Mar 2026 04:05:00 GMT",
-        "first_seen": "2026-03-02T05:54:58.409696"
-      },
       "6c38a3c2c58e5bb765948764fa01d943e58632cdea10ba4d5ef0d3b43672bbb3": {
         "title": "上海一群青年，造了个学术版OpenClaw",
         "link": "https://www.qbitai.com/2026/03/383249.html",
@@ -5987,13 +5987,31 @@
         "link": "https://www.qbitai.com/2026/03/394011.html",
         "published_date": "Tue, 31 Mar 2026 09:12:00 GMT",
         "first_seen": "2026-03-31T23:39:19.681494"
+      },
+      "4a740754a22aab9e29aedabe3fcc1eced852368d3233e8879766aee9f6efa2a1": {
+        "title": "2026-04-01日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-01/",
+        "published_date": "Wed, 01 Apr 2026 09:39:00 GMT",
+        "first_seen": "2026-04-01T06:29:22.008133"
+      },
+      "94f54e1e8515d34034554e7074b63d26b72222df321266ef2fc072fc204ed69a": {
+        "title": "Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度",
+        "link": "https://www.qbitai.com/2026/04/394177.html",
+        "published_date": "Wed, 01 Apr 2026 05:10:00 GMT",
+        "first_seen": "2026-04-01T06:29:22.008142"
+      },
+      "d255163470ea6b8d995551b7426f7dbacf7671ae932e2fa6f996266ec125ad8b": {
+        "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+        "link": "https://www.qbitai.com/2026/04/394169.html",
+        "published_date": "Wed, 01 Apr 2026 00:56:00 GMT",
+        "first_seen": "2026-04-01T06:29:22.008144"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-31T23:39:01.317721",
-    "Finance": "2026-03-31T23:39:19.542295",
-    "Ai": "2026-03-31T23:39:19.681496"
+    "Technology": "2026-04-01T06:29:08.224690",
+    "Finance": "2026-04-01T06:29:21.848090",
+    "Ai": "2026-04-01T06:29:22.008146"
   }
 }

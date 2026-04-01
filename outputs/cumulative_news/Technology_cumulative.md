@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 23:38
+**最后更新时间**: 2026-04-01 06:28
+
+---
+
+## 🆕 最新更新 (2026-04-01 06:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露](https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:20
+
+#### [“随选随配”的自定义区域：Cloudflare 推出细粒度数据驻留控制](https://www.infoq.cn/article/9dbzdTQbw2ptCTlEtcyA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:00
+
+#### [Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus](https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 11:48
+
+#### [HashiCorp Vault 1.21 带来 SPIFFE 认证、细粒度密钥恢复等新特性](https://www.infoq.cn/article/L9IS1LTsK02pUqDtSRyc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 11:00
+
+#### [实验性 Web Install API 试图改进应用发现与分发方式](https://www.infoq.cn/article/0dYUUYMXFhckJ0fp51FN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:10
+
+#### [Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能](https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:00
+
+#### [从日志到 Commit：蓝鲸全链路可观测与 AI 提效实践｜QCon北京](https://www.infoq.cn/article/cdrsZORyN18ZsqlCjcsk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:00
+
+#### [Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退](https://www.infoq.cn/article/RitrBOkcQQtB2zG5dcWf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [迈瑞医疗正在变成一家具身智能公司](https://www.tmtpost.com/7937395.html)
+**发布时间**: 2026-04-01 14:10
+
+#### [美凯龙：国资股东赋能主业企稳，资产减值致亏损｜看财报](https://www.tmtpost.com/7937781.html)
+**发布时间**: 2026-04-01 14:01
+
+#### [一脉阳光2025财报：一脉阳光“换档”后的财务突围与生态预演](https://www.tmtpost.com/7937740.html)
+**发布时间**: 2026-04-01 13:35
+
+#### [三位00后宾大机器人硕士做了一款高尔夫AI Agent，已获锦秋千万级天使轮投资｜AI Founder 请回答](https://www.tmtpost.com/7937724.html)
+**发布时间**: 2026-04-01 13:33
+
+#### [华夏银行2025年报：一份以系统性改革重塑经营韧性的答卷](https://www.tmtpost.com/7937707.html)
+**发布时间**: 2026-04-01 13:22
+
+#### [说好不上市的Kimi，怎么3个月就“变卦”了？](https://www.tmtpost.com/7937399.html)
+**发布时间**: 2026-04-01 12:30
+
+#### [阿里云发布Qwen3.5-Omni，全模态大战开启](https://www.tmtpost.com/7937091.html)
+**发布时间**: 2026-04-01 12:30
+
+#### [再这样下去，OpenAI还没IPO就万亿了](https://www.tmtpost.com/7937318.html)
+**发布时间**: 2026-04-01 12:30
+
+#### [迪士尼股票的交易表现越来越像一家邮轮公司，现在或许正是买入的时机](https://www.tmtpost.com/7937650.html)
+**发布时间**: 2026-04-01 12:25
+
+#### [耐克股价在财报发布前跌至8年来低点，为何分析师仍称它值得买入](https://www.tmtpost.com/7937648.html)
+**发布时间**: 2026-04-01 12:25
+
+#### [百亿低温存储龙头，遭遇净利“四连降”](https://www.tmtpost.com/7936918.html)
+**发布时间**: 2026-04-01 11:58
+
+#### [飞天涨价，茅台“削藩”](https://www.tmtpost.com/7937457.html)
+**发布时间**: 2026-04-01 11:58
+
+#### [Claude Code源码泄露，下一个王牌提前曝光](https://www.tmtpost.com/7936874.html)
+**发布时间**: 2026-04-01 11:58
+
+#### [AI的看图能力，可能是编出来的](https://www.tmtpost.com/7937464.html)
+**发布时间**: 2026-04-01 11:58
+
+#### [13万亿资产、股息率5.37%，中信股份2025年报里的三重信号 | 看财报](https://www.tmtpost.com/7937538.html)
+**发布时间**: 2026-04-01 11:57
+
+#### [别学Claude Code了！OMC五大「卧槽」功能解析：自动化开发军团来了](https://www.tmtpost.com/7936270.html)
+**发布时间**: 2026-04-01 11:08
+
+#### [美团2025年财报：全年收入3649亿元，AI与国际化谋突破](https://www.tmtpost.com/7936670.html)
+**发布时间**: 2026-04-01 10:25
+
+#### [1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？](https://www.tmtpost.com/7937404.html)
+**发布时间**: 2026-04-01 10:25
+
+#### [影石的「挑战者」叙事，还能讲多久？](https://www.tmtpost.com/7936827.html)
+**发布时间**: 2026-04-01 10:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等](https://sspai.com/post/108133)
+**发布时间**: 2026-04-01 08:08
 
 ---
 

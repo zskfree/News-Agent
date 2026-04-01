@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 23:38
+**最后更新时间**: 2026-04-01 06:28
+
+---
+
+## 🆕 最新更新 (2026-04-01 06:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple at 50: the roots of a tech revolution](https://www.ft.com/content/080062ff-e555-4e88-860c-a693b2148259)
+**发布时间**: 2026-04-01 04:00
+
+#### [The global economy turns out to be more resilient than we had feared](https://www.ft.com/content/87272792-03e3-4124-a376-1a4baadfd5b2)
+**发布时间**: 2026-04-01 04:00
+
+#### [One battle after another: Netanyahu’s new security doctrine](https://www.ft.com/content/6d0e66bf-4982-430a-821b-d27dfa1b0a3e)
+**发布时间**: 2026-04-01 04:00
+
+#### [Record number of megadeals agreed in first quarter](https://www.ft.com/content/4c004e97-e582-4f47-89ea-83c126d0df9d)
+**发布时间**: 2026-04-01 04:00
+
+#### [Trump says US could withdraw from Iran ‘whether we have a deal or not’](https://www.ft.com/content/77e5184d-9854-4a30-b53c-498223b436a5)
+**发布时间**: 2026-04-01 02:25
+
+#### [Chinese government bonds emerge as lone war haven](https://www.ft.com/content/72215587-4b6c-454c-85ff-6956132705d9)
+**发布时间**: 2026-04-01 02:25
+
+#### [Markets rebound on hopes war will end soon](https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c)
+**发布时间**: 2026-03-31 23:26
+
+#### [Iran war gives Chinese exporters chance to grab global market share](https://www.ft.com/content/5c353173-5c60-4ec0-8920-409caf77c4d7)
+**发布时间**: 2026-03-31 21:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are 12 top tech-themed stock picks from UBS analysts](https://www.marketwatch.com/story/here-are-12-top-tech-themed-stock-picks-from-ubs-analysts-61e80582?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 02:49
+
+#### [‘She has taken my inheritance’: My mom bullied my grandmother to change her will and physically abused her. What can we do?](https://www.marketwatch.com/story/she-has-taken-my-inheritance-my-mom-bullied-my-grandmother-to-change-her-will-and-physically-abused-her-what-can-we-do-2c4ee13f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 01:13
+
+#### [A wild first quarter comes to an end: 6 charts that defined a chaotic stretch for stocks](https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 00:23
 
 ---
 

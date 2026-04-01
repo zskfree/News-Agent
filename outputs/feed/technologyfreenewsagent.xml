@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 31 Mar 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2026 23:39:01 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 06:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:29:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例</title>
-      <link>https://www.tmtpost.com/7936967.html</link>
-      <description>&lt;![CDATA[【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7936967.html</guid>
+      <title>阿里云发布Qwen3.5-Omni，全模态大战开启</title>
+      <link>https://www.tmtpost.com/7937091.html</link>
+      <description>&lt;![CDATA[阿里云发布Qwen3.5-Omni，全模态大战开启]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937091.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡</title>
-      <link>https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露</title>
+      <link>https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智谱跑通了MaaS盈利模式，但仍有一个“短板”丨看财报</title>
-      <link>https://www.tmtpost.com/7936877.html</link>
-      <description>&lt;![CDATA[智谱跑通了MaaS盈利模式，但仍有一个“短板”丨看财报]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7936877.html</guid>
+      <title>迈瑞医疗正在变成一家具身智能公司</title>
+      <link>https://www.tmtpost.com/7937395.html</link>
+      <description>&lt;![CDATA[迈瑞医疗正在变成一家具身智能公司]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937395.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华沿机器人赴港上市：大族激光孵化，剑指具身智能</title>
-      <link>https://www.tmtpost.com/7931199.html</link>
-      <description>&lt;![CDATA[华沿机器人赴港上市：大族激光孵化，剑指具身智能]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7931199.html</guid>
+      <title>Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能</title>
+      <link>https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>100亿现金也买不来安全感：月之暗面的“PlanB”</title>
-      <link>https://www.tmtpost.com/7935945.html</link>
-      <description>&lt;![CDATA[100亿现金也买不来安全感：月之暗面的“PlanB”]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7935945.html</guid>
+      <title>Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus</title>
+      <link>https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
