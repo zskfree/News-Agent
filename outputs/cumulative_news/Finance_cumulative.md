@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-01 09:11
+**最后更新时间**: 2026-04-01 23:41
+
+---
+
+## 🆕 最新更新 (2026-04-01 23:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla’s delivery update is on deck. Why investors shouldn’t abandon an ‘unwavering belief’ in EVs.](https://www.marketwatch.com/story/teslas-delivery-update-is-on-deck-why-investors-shouldnt-abandon-an-unwavering-belief-in-evs-e8f33979?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 23:00
+
+#### [‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?](https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:55
+
+#### [‘I’m finding it frustrating’: Why $4-a-gallon gas prices feel a lot worse this time around](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:41
+
+#### [Fired via email? Some of the 30,000 workers cut by Oracle woke up to a morning message saying they were laid off.](https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:12
+
+#### [How TV’s ‘Love Story’ helped Calvin Klein parent ease investor anxieties about consumer demand](https://www.marketwatch.com/story/how-tvs-love-story-helped-calvin-klein-parent-ease-investor-anxieties-about-consumer-demand-3fe67090?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 21:40
+
+#### [Intel’s stock pops as its latest move signals a ‘turnaround’ is afoot](https://www.marketwatch.com/story/intels-stock-pops-as-its-latest-move-signals-a-turnaround-is-afoot-527ea529?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 21:22
+
+#### [‘Liberation day’ one year later: What Trump’s tariffs are costing America](https://www.marketwatch.com/story/liberation-day-one-year-later-what-trumps-tariffs-are-costing-america-d8aacc13?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:53
+
+#### [Just in time for Easter: Egg prices tumbled 70%, and here’s how people responded](https://www.marketwatch.com/story/just-in-time-for-easter-egg-prices-tumbled-70-and-heres-how-people-responded-18d5c1d0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:40
+
+#### [A falling stock market may hurt the U.S. economy more than high prices at the pump](https://www.marketwatch.com/story/a-falling-stock-market-may-hurt-the-u-s-economy-more-than-high-prices-at-the-pump-131f33ba?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:33
+
+#### [Here’s one reason investors shouldn’t get too excited about this week’s stock-market rebound](https://www.marketwatch.com/story/heres-one-reason-investors-shouldnt-get-too-excited-about-this-weeks-stock-market-rebound-d394affd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Amazon in talks to buy $9bn satellite group Globalstar in bid to rival Musk’s Starlink](https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c)
+**发布时间**: 2026-04-01 22:40
+
+#### [SpaceX filing kicks off largest IPO process in history](https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb)
+**发布时间**: 2026-04-01 21:30
+
+#### [Saudi Arabia bridles at Trump’s way of waging war](https://www.ft.com/content/dcbd5448-2357-44a7-b2b0-05de1b68e69f)
+**发布时间**: 2026-04-01 21:00
+
+#### [Trump threatened to stop weapons for Ukraine unless Europe joined Hormuz coalition](https://www.ft.com/content/d304071a-ca97-4b3b-be93-ff880a6645c3)
+**发布时间**: 2026-04-01 17:48
+
+#### [Labour must get out of its own way](https://www.ft.com/content/22beca6b-294c-4483-8705-4688ba608f33)
+**发布时间**: 2026-04-01 17:13
+
+#### [US Supreme Court signals doubts over Trump’s birthright citizenship challenge](https://www.ft.com/content/2de274a5-72f7-4d5e-8701-7ad0c60522ea)
+**发布时间**: 2026-04-01 16:58
+
+#### [UK borrowers coming off five-year fixes face biggest mortgage ‘shock’](https://www.ft.com/content/5c92f335-983d-4d20-81e9-eacb7fc5b7b9)
+**发布时间**: 2026-04-01 12:53
+
+#### [Trump learns that not everyone has a price](https://www.ft.com/content/328b187e-384d-4322-83d7-8ad7edaa29d4)
+**发布时间**: 2026-04-01 11:51
+
+#### [Starmer signals major UK pivot towards EU after Trump taunts](https://www.ft.com/content/9f3d05e0-d684-40be-8ecb-b8c9e69ddda5)
+**发布时间**: 2026-04-01 11:00
+
+#### [Berkeley shares tumble as housebuilder cuts profit forecast and halts land purchases](https://www.ft.com/content/d42e59f7-3d35-4927-92c9-597e2a02f1a6)
+**发布时间**: 2026-04-01 08:36
 
 ---
 
