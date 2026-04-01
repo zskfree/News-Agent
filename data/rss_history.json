@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ea614b71a2d053003ff1c6d1bdff2d8b70e6c6c023a4292bb5afc7bad6f2d519": {
-        "title": "Anthropic 研究：AI 编程辅助使开发者技能掌握度下降 17%",
-        "link": "https://www.infoq.cn/article/ohmt2y4R8NHXPL6DSvHR?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.195701"
-      },
-      "6700da9a15452920224365e166c29bc5980dc4097855f46db8c246babb1d7c63": {
-        "title": "把320个Claude Code实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏",
-        "link": "https://www.infoq.cn/article/fljep6VyWggpxhCA89Xy?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 10:54:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.195712"
-      },
-      "3b7014a5b8fd25e801ecf15d0636ea90350c44b9f783456dae2f6c12cf3d9977": {
-        "title": "AI大模型Claude入列美军始末",
-        "link": "https://www.tmtpost.com/7895454.html",
-        "published_date": "Mon, 02 Mar 2026 09:25:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.195715"
-      },
-      "da51ec22a5bff7e85b7de998cd8f920aadb894310a4c81ce5d1a21ab20e5f5fd": {
-        "title": "Hugging Face推出Community Evals功能，促进模型测试透明化",
-        "link": "https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 02 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.195717"
-      },
-      "b6d612c6a475f0858344f6419a157ecf6e40feea84fc33965bfc686abc00574b": {
-        "title": "AI、黄金与能源：中东乱局背后的资产定价逻辑之变",
-        "link": "https://www.tmtpost.com/7895767.html",
-        "published_date": "Mon, 02 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.195719"
-      },
       "ab0f363602f3f35e7a59d08780438d312559f0d1f3ce46be18cd40d965cf5e88": {
         "title": "印度光伏巨头携千亿美金入局：算力“地理大迁徙”时代开启",
         "link": "https://www.tmtpost.com/7896120.html",
@@ -2701,15 +2671,39 @@
         "link": "https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 01 Apr 2026 11:48:00 GMT",
         "first_seen": "2026-04-01T06:29:08.224688"
+      },
+      "1379feebe96c129dd1f88eeba2db7fe94306b17657d05ced683d37ae720fc3fe": {
+        "title": "1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？",
+        "link": "https://www.tmtpost.com/7937404.html",
+        "published_date": "Wed, 01 Apr 2026 10:25:00 GMT",
+        "first_seen": "2026-04-01T09:12:02.567462"
+      },
+      "4b1f013e2a23a75b8a563ac77268622b5c3661f76de30fc1150fa4682ced718f": {
+        "title": "51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多",
+        "link": "https://www.tmtpost.com/7937922.html",
+        "published_date": "Wed, 01 Apr 2026 15:36:00 GMT",
+        "first_seen": "2026-04-01T09:12:02.567471"
+      },
+      "03e019f4098124efe1b8856120fec7e70ea582768d36057b8671b29e16c7a2af": {
+        "title": "报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯",
+        "link": "https://www.tmtpost.com/7937881.html",
+        "published_date": "Wed, 01 Apr 2026 15:51:00 GMT",
+        "first_seen": "2026-04-01T09:12:02.567473"
+      },
+      "26ce0d6a5c27d9da7ec33651256e2abbe66fe8afa638594fee59adcbb136bbac": {
+        "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课",
+        "link": "https://www.tmtpost.com/7937576.html",
+        "published_date": "Wed, 01 Apr 2026 15:27:00 GMT",
+        "first_seen": "2026-04-01T09:12:02.567475"
+      },
+      "9314215b9b0fc2933a195b80d40d2e74e39510c9b42fd67eec2013db1d614218": {
+        "title": "告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？",
+        "link": "https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-01T09:12:02.567477"
       }
     },
     "Finance": {
-      "d02aef351d22f72ea30c3f08d2af980ea0c49c83b84b91ba9718d2a04e741e88": {
-        "title": "Oil prices soar and stocks slide as Middle East conflict escalates",
-        "link": "https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347",
-        "published_date": "Mon, 02 Mar 2026 08:46:00 GMT",
-        "first_seen": "2026-03-02T08:51:01.225270"
-      },
       "531f648363150a0ec30d53dbeea37e1b593490dd483d4c937e93eec475801ac7": {
         "title": "The smartest money moves to make as the Iran conflict rattles markets",
         "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3?mod=mw_rss_topstories",
@@ -4683,6 +4677,36 @@
         "link": "https://www.ft.com/content/77e5184d-9854-4a30-b53c-498223b436a5",
         "published_date": "Wed, 01 Apr 2026 02:25:00 GMT",
         "first_seen": "2026-04-01T06:29:21.848087"
+      },
+      "6ea945c737d5905311793f2a3c336a0e506bc48bd61ed388fc4d2cce6f8f689c": {
+        "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.",
+        "link": "https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 08:27:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.235051"
+      },
+      "7bc6c3e6cd214d17aa7302178c82965a4add5edce0f90896e95c3375f88a38eb": {
+        "title": "Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war",
+        "link": "https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.235058"
+      },
+      "a6668c9bd4bbd712cd8ee2681b76b5e4173c93e46eea251faa7a11185120926c": {
+        "title": "Stocks rally on hopes Iran war will end soon",
+        "link": "https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c",
+        "published_date": "Wed, 01 Apr 2026 07:11:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.235061"
+      },
+      "98ee368bf02a05e5905fc745271ab6279dcbee23d7e1ac841f81d60bcc330e50": {
+        "title": "BP’s new chief promises ‘clear direction’ after turbulent year",
+        "link": "https://www.ft.com/content/5510fc9b-e336-4c69-a428-4a843acc1839",
+        "published_date": "Wed, 01 Apr 2026 07:04:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.235063"
+      },
+      "63b0495e680f89b8722e5c9972a1189d16d30dab343b40ac7b32c6dc4661cad6": {
+        "title": "‘We’re a wildly fickle bunch’: Gas prices hit $4 a gallon. Why do I feel like I’m the only American who is genuinely upset?",
+        "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Apr 2026 09:06:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.235064"
       }
     },
     "Ai": {
@@ -6005,13 +6029,19 @@
         "link": "https://www.qbitai.com/2026/04/394169.html",
         "published_date": "Wed, 01 Apr 2026 00:56:00 GMT",
         "first_seen": "2026-04-01T06:29:22.008144"
+      },
+      "facc50cdf7a41017515f3bff3e626f5b3c5736b2d1fc19800caedc20c8414167": {
+        "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
+        "link": "https://www.qbitai.com/2026/04/394373.html",
+        "published_date": "Wed, 01 Apr 2026 06:42:00 GMT",
+        "first_seen": "2026-04-01T09:12:16.386361"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-01T06:29:08.224690",
-    "Finance": "2026-04-01T06:29:21.848090",
-    "Ai": "2026-04-01T06:29:22.008146"
+    "Technology": "2026-04-01T09:12:02.567479",
+    "Finance": "2026-04-01T09:12:16.235067",
+    "Ai": "2026-04-01T09:12:16.386369"
   }
 }

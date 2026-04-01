@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Apr 2026 06:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 06:29:22 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 09:07:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:12:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-01日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-01/</link>
-      <description>&lt;![CDATA[2026-04-01日刊]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-01/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度</title>
-      <link>https://www.qbitai.com/2026/04/394177.html</link>
-      <description>&lt;![CDATA[Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 05:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394177.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>1220亿美元！OpenAI创下史上最大单笔融资纪录</title>
-      <link>https://www.qbitai.com/2026/04/394169.html</link>
-      <description>&lt;![CDATA[1220亿美元！OpenAI创下史上最大单笔融资纪录]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 00:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394169.html</guid>
+      <title>Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞</title>
+      <link>https://www.qbitai.com/2026/04/394373.html</link>
+      <description>&lt;![CDATA[Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394373.html</guid>
       <category>Ai</category>
     </item>
   </channel>

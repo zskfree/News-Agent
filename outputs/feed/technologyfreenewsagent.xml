@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Apr 2026 06:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 06:29:08 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 09:11:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:12:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里云发布Qwen3.5-Omni，全模态大战开启</title>
-      <link>https://www.tmtpost.com/7937091.html</link>
-      <description>&lt;![CDATA[阿里云发布Qwen3.5-Omni，全模态大战开启]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7937091.html</guid>
+      <title>1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？</title>
+      <link>https://www.tmtpost.com/7937404.html</link>
+      <description>&lt;![CDATA[1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937404.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露</title>
-      <link>https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多</title>
+      <link>https://www.tmtpost.com/7937922.html</link>
+      <description>&lt;![CDATA[51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937922.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>迈瑞医疗正在变成一家具身智能公司</title>
-      <link>https://www.tmtpost.com/7937395.html</link>
-      <description>&lt;![CDATA[迈瑞医疗正在变成一家具身智能公司]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7937395.html</guid>
+      <title>报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯</title>
+      <link>https://www.tmtpost.com/7937881.html</link>
+      <description>&lt;![CDATA[报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937881.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能</title>
-      <link>https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课</title>
+      <link>https://www.tmtpost.com/7937576.html</link>
+      <description>&lt;![CDATA[武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7937576.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus</title>
-      <link>https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？</title>
+      <link>https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？]]&gt;</description>
+      <pubDate>Wed, 01 Apr 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-01 06:28
+**最后更新时间**: 2026-04-01 09:11
+
+---
+
+## 🆕 最新更新 (2026-04-01 09:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当男性不再“重金追爱”，礼物经济的新机会在哪里？](https://www.tmtpost.com/7937981.html)
+**发布时间**: 2026-04-01 16:27
+
+#### [TCL中环12.58亿收购一道新能源：负负能否得正？](https://www.tmtpost.com/7937878.html)
+**发布时间**: 2026-04-01 16:19
+
+#### [报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯](https://www.tmtpost.com/7937881.html)
+**发布时间**: 2026-04-01 15:51
+
+#### [51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多](https://www.tmtpost.com/7937922.html)
+**发布时间**: 2026-04-01 15:36
+
+#### [张雪为理想主义点火，张雪峰为现实主义扫灰](https://www.tmtpost.com/7937651.html)
+**发布时间**: 2026-04-01 15:33
+
+#### [DigClaw 获百万美元天使轮投资，用AI监测水下的人才和商机｜融资速递](https://www.tmtpost.com/7937898.html)
+**发布时间**: 2026-04-01 15:29
+
+#### [从“全民养虾”到企业落地：OpenClaw的三重现实拷问](https://www.tmtpost.com/7937847.html)
+**发布时间**: 2026-04-01 15:28
+
+#### [今年“最妖”独角兽：十个月，估值翻六倍](https://www.tmtpost.com/7937593.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课](https://www.tmtpost.com/7937576.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [尹阔的“参半”要上市了](https://www.tmtpost.com/7937614.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [AI首次“核泄漏”事件](https://www.tmtpost.com/7937476.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [掌握定价权后，这家AI公司暴涨25%](https://www.tmtpost.com/7937459.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [“中年人的泡泡玛特”，故事难讲](https://www.tmtpost.com/7937660.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [Anthropic做了自己的OpenClaw，Computer use正式进入Claude Code](https://www.tmtpost.com/7937461.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [同仁堂“财务大洗澡”净利润一降再降，品牌与治理沉疴难解丨看财报](https://www.tmtpost.com/7937814.html)
+**发布时间**: 2026-04-01 15:24
+
+#### [Momenta秘密递表港交所，拿下奥迪、宝马、奔驰，敢与华为掰手腕](https://www.tmtpost.com/7937452.html)
+**发布时间**: 2026-04-01 14:36
+
+#### [B站加入“百铲大战”，能终结Tim们的AI焦虑吗？](https://www.tmtpost.com/7937418.html)
+**发布时间**: 2026-04-01 14:36
+
+#### [3000亿的智谱和MiniMax，就靠两个公式？](https://www.tmtpost.com/7937420.html)
+**发布时间**: 2026-04-01 14:36
+
+#### [“中国AMD”沐曦股份背后的外资魅影](https://www.tmtpost.com/7937661.html)
+**发布时间**: 2026-04-01 14:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？](https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 15:39
+
+#### [突破泛化瓶颈：阿里云智能运维 Agent 评测体系实践](https://www.infoq.cn/article/9qgbqQFhMvJmTkPoFG8l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 15:20
+
+#### [Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案](https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Agent 的家：如何在 AI 时代搭建硬件基座](https://sspai.com/post/108064)
+**发布时间**: 2026-04-01 14:48
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把 Claude Code 变成你的桌面宠物，这个开源项目好有创意啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532649&idx=1&sn=7b0807e1cdcb5be97954462e9bb64b92)
+**发布时间**: 2026-04-01 11:08
 
 ---
 

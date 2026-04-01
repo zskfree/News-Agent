@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-01 06:28
+**最后更新时间**: 2026-04-01 09:11
+
+---
+
+## 🆕 最新更新 (2026-04-01 09:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We’re a wildly fickle bunch’: Gas prices hit $4 a gallon. Why do I feel like I’m the only American who is genuinely upset?](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 09:06
+
+#### [Reality TV star Tyler Cameron makes a big move in his real-estate career with new Florida development](https://www.marketwatch.com/story/reality-tv-star-tyler-cameron-makes-a-big-move-in-his-real-estate-career-with-new-florida-development-ca9e5b56?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 09:02
+
+#### [Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war](https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 08:44
+
+#### [Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.](https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 08:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Political drama reaches heart of UK’s nuclear deterrent](https://www.ft.com/content/a9a5f54f-3e7c-4920-8132-ab28c4c6bba3)
+**发布时间**: 2026-04-01 08:40
+
+#### [Stocks rally on hopes Iran war will end soon](https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c)
+**发布时间**: 2026-04-01 07:11
+
+#### [BP’s new chief promises ‘clear direction’ after turbulent year](https://www.ft.com/content/5510fc9b-e336-4c69-a428-4a843acc1839)
+**发布时间**: 2026-04-01 07:04
+
+#### [The hidden history behind Apple’s manufacturing power](https://www.ft.com/content/080062ff-e555-4e88-860c-a693b2148259)
+**发布时间**: 2026-04-01 04:00
 
 ---
 
