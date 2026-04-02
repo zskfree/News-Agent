@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 06:15
+**最后更新时间**: 2026-04-02 09:01
+
+---
+
+## 🆕 最新更新 (2026-04-02 09:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KPMG cleared by UK watchdog over audit of gambling group Entain](https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4)
+**发布时间**: 2026-04-02 08:31
+
+#### [How Apple fused Japanese craft with Chinese scale](https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b)
+**发布时间**: 2026-04-02 04:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Apr 2026 06:13:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 06:16:02 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:02:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-02日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-02/</link>
-      <description>&lt;![CDATA[2026-04-02日刊]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-02/</guid>
+      <title>开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码</title>
+      <link>https://www.qbitai.com/2026/04/395091.html</link>
+      <description>&lt;![CDATA[开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395091.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈</title>
+      <link>https://www.qbitai.com/2026/04/394704.html</link>
+      <description>&lt;![CDATA[中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394704.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端</title>
+      <link>https://www.qbitai.com/2026/04/394641.html</link>
+      <description>&lt;![CDATA[开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394641.html</guid>
       <category>Ai</category>
     </item>
   </channel>

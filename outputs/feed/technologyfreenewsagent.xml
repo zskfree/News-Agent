@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Apr 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 06:15:41 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 09:01:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:02:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智谱AI财报炸场，Token价值暴涨、核心指标直追Anthropic水平！CEO张鹏：人人都将是“Token架构师”</title>
-      <link>https://www.infoq.cn/article/0Bu3qODSVfDfWgxFsNVQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智谱AI财报炸场，Token价值暴涨、核心指标直追Anthropic水平！CEO张鹏：人人都将是“Token架构师”]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0Bu3qODSVfDfWgxFsNVQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包日均Token使用量突破120万亿，Seedance2.0API开启公测</title>
+      <link>https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[豆包日均Token使用量突破120万亿，Seedance2.0API开启公测]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被黄仁勋多次提到的“AI工厂”，已经在中国落地了</title>
-      <link>https://www.tmtpost.com/7938207.html</link>
-      <description>&lt;![CDATA[被黄仁勋多次提到的“AI工厂”，已经在中国落地了]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7938207.html</guid>
+      <title>13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532660&amp;idx=1&amp;sn=4c795eba24abdbacf3b4515b096c6bd3</link>
+      <description>&lt;![CDATA[13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532660&amp;idx=1&amp;sn=4c795eba24abdbacf3b4515b096c6bd3</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同</title>
-      <link>https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Robotaxi，离盈利又近了一步</title>
+      <link>https://www.tmtpost.com/7939406.html</link>
+      <description>&lt;![CDATA[Robotaxi，离盈利又近了一步]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 14:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939406.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国大模型的价格，究竟是怎么打下来的？</title>
-      <link>https://www.tmtpost.com/7938869.html</link>
-      <description>&lt;![CDATA[中国大模型的价格，究竟是怎么打下来的？]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7938869.html</guid>
+      <title>不掌握token的甲骨文们，注定会大裁员</title>
+      <link>https://www.tmtpost.com/7939366.html</link>
+      <description>&lt;![CDATA[不掌握token的甲骨文们，注定会大裁员]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939366.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>追捧人形机器人的资本，为什么看不见能赚钱的装卸具身智能？</title>
-      <link>https://www.tmtpost.com/7938838.html</link>
-      <description>&lt;![CDATA[追捧人形机器人的资本，为什么看不见能赚钱的装卸具身智能？]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7938838.html</guid>
+      <title>淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京</title>
+      <link>https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

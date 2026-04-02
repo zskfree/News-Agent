@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bb7be0d7065106607a7e1f086f6a1240386e8768f46495db7829aa603bb8744b": {
-        "title": "吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强",
-        "link": "https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099944"
-      },
-      "f9902223bb09c751a730fb4358cbc37e6b90a7663e11e5c77a8c4382e31b907d": {
-        "title": "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
-        "link": "https://www.tmtpost.com/7897592.html",
-        "published_date": "Tue, 03 Mar 2026 15:03:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099955"
-      },
-      "dfd23f095ae9c16d8ea4f1143a77c9d925c8bd510c40303ddaff06b83320991f": {
-        "title": "OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531831&idx=1&sn=a6e1e5211f8455fe1d91e1361abf4c9c",
-        "published_date": "Tue, 03 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099958"
-      },
-      "15353cff073f5aed2738f633cce1241001979cb7fce1f7e4ac6bee9211a3ad0c": {
-        "title": "拥抱美国军方后，ChatGPT 为什么会被卸载？",
-        "link": "https://www.tmtpost.com/7897007.html",
-        "published_date": "Tue, 03 Mar 2026 11:15:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099960"
-      },
-      "01f7be736819db687e8c62a6db1d29a29fd0d2801823491de6fa59b52ce48682": {
-        "title": "人形机器人卖不动，只能靠租？",
-        "link": "https://www.tmtpost.com/7896333.html",
-        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099962"
-      },
       "9eb1b286979f8380e770c1bec6cbcdcc950e8881078c5200a1c2b7ed5d713281": {
         "title": "【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%",
         "link": "https://www.tmtpost.com/7898664.html",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7938838.html",
         "published_date": "Thu, 02 Apr 2026 12:19:00 GMT",
         "first_seen": "2026-04-02T06:15:41.730067"
+      },
+      "c25ccba9acdc08792ca94a5478a0107213e5455af7ea5a843bd1feee195c0e9e": {
+        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
+        "link": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.602035"
+      },
+      "ac78204b0622c2d7dbd59839d578b75552fc6fd7b27e0793bf18bcd4320d4ffe": {
+        "title": "13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532660&idx=1&sn=4c795eba24abdbacf3b4515b096c6bd3",
+        "published_date": "Thu, 02 Apr 2026 10:10:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.602049"
+      },
+      "6ba41144e0a4f7b3247a7780a5f287765dc107a8aa05190dda5e80f3661ef9cc": {
+        "title": "Robotaxi，离盈利又近了一步",
+        "link": "https://www.tmtpost.com/7939406.html",
+        "published_date": "Thu, 02 Apr 2026 14:47:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.602051"
+      },
+      "51a05e62b610e7aced712e3362e47300fff1080f2ea5961adf9e98c8f6f05a25": {
+        "title": "不掌握token的甲骨文们，注定会大裁员",
+        "link": "https://www.tmtpost.com/7939366.html",
+        "published_date": "Thu, 02 Apr 2026 14:40:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.602053"
+      },
+      "abb5b164f4d461bfdeca4e8aad9e794b958a1bdb6c0cd95ee05e73e070009cdb": {
+        "title": "淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京",
+        "link": "https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.602055"
       }
     },
     "Finance": {
@@ -4707,21 +4707,15 @@
         "link": "https://www.marketwatch.com/story/elon-musks-spacex-could-lead-a-wave-of-jumbo-ipos-after-reportedly-making-this-key-move-03ac890f?mod=mw_rss_topstories",
         "published_date": "Thu, 02 Apr 2026 00:45:00 GMT",
         "first_seen": "2026-04-02T06:16:01.932370"
+      },
+      "2bd49eb4cf601d093137414f8197775a84560e86cdc0012c61873885b4b332bc": {
+        "title": "KPMG cleared by UK watchdog over audit of gambling group Entain",
+        "link": "https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4",
+        "published_date": "Thu, 02 Apr 2026 08:31:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.639925"
       }
     },
     "Ai": {
-      "a39878728fc8922d8a68c33641d9220390bb28604ad5d1b307e97baabf82b626": {
-        "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
-        "link": "https://www.qbitai.com/2026/03/383349.html",
-        "published_date": "Tue, 03 Mar 2026 06:42:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.284882"
-      },
-      "eed41176c0d916a22425e8eae268f0b3b6fae21bfd43da1fa7419c3404050c57": {
-        "title": "英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹",
-        "link": "https://www.qbitai.com/2026/03/383329.html",
-        "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.284890"
-      },
       "27358350690e60a154412b940ad8c877ff83e633bac1f45e078c150f2aeea411": {
         "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
         "link": "https://www.qbitai.com/2026/03/383592.html",
@@ -6029,13 +6023,31 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-02/",
         "published_date": "Thu, 02 Apr 2026 09:53:00 GMT",
         "first_seen": "2026-04-02T06:16:02.083992"
+      },
+      "0a488c664bfc30f38b964a080dcf1a20de5821918927c4f92cdf60a73ceba2c9": {
+        "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
+        "link": "https://www.qbitai.com/2026/04/395091.html",
+        "published_date": "Thu, 02 Apr 2026 07:22:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.796303"
+      },
+      "1e66060e9f5fb373e95c11ec94e73ccd1df2b4b440131144eee1588e90c76e28": {
+        "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
+        "link": "https://www.qbitai.com/2026/04/394704.html",
+        "published_date": "Thu, 02 Apr 2026 07:08:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.796309"
+      },
+      "8d4cfa384c101fc5c660b706cc899d5fc3a8234fbd3c7bac2e8870351ccb3d83": {
+        "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+        "link": "https://www.qbitai.com/2026/04/394641.html",
+        "published_date": "Thu, 02 Apr 2026 06:28:00 GMT",
+        "first_seen": "2026-04-02T09:02:15.796311"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-02T06:15:41.730069",
-    "Finance": "2026-04-02T06:16:01.932373",
-    "Ai": "2026-04-02T06:16:02.083999"
+    "Technology": "2026-04-02T09:02:15.602057",
+    "Finance": "2026-04-02T09:02:15.639934",
+    "Ai": "2026-04-02T09:02:15.796313"
   }
 }
