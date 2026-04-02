@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Apr 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 23:41:58 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 06:13:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:16:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>为啥武汉无人车也“呆”了一次</title>
-      <link>https://www.qbitai.com/2026/04/394554.html</link>
-      <description>&lt;![CDATA[为啥武汉无人车也“呆”了一次]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394554.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>跟美图RoboNeo说句话，AI帮你复刻爆款</title>
-      <link>https://www.qbitai.com/2026/04/394547.html</link>
-      <description>&lt;![CDATA[跟美图RoboNeo说句话，AI帮你复刻爆款]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394547.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>国内最强生图模型Wan2.7-Image来了</title>
-      <link>https://www.qbitai.com/2026/04/394530.html</link>
-      <description>&lt;![CDATA[国内最强生图模型Wan2.7-Image来了]]&gt;</description>
-      <pubDate>Wed, 01 Apr 2026 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394530.html</guid>
+      <title>2026-04-02日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-02/</link>
+      <description>&lt;![CDATA[2026-04-02日刊]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-02/</guid>
       <category>Ai</category>
     </item>
   </channel>

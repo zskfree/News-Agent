@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-01 23:41
+**最后更新时间**: 2026-04-02 06:15
+
+---
+
+## 🆕 最新更新 (2026-04-02 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World’s top energy traders wrongfooted in early days of Iran war](https://www.ft.com/content/22e7678b-e7ec-4bf0-8258-906eaa2d7a42)
+**发布时间**: 2026-04-02 04:00
+
+#### [The global wave of energy rationing](https://www.ft.com/content/a9f56d68-4cdd-47f7-873e-ca6ac0ea8962)
+**发布时间**: 2026-04-02 04:00
+
+#### [How did I end up here? — Nigella Lawson’s first FT column](https://www.ft.com/content/48198cee-407c-4675-adb5-b5cf7e2d6cbb)
+**发布时间**: 2026-04-02 04:00
+
+#### [Italian leaders call for football chief’s head after World Cup humiliation](https://www.ft.com/content/f2efd280-a9c9-4720-80fe-ad3684565e3e)
+**发布时间**: 2026-04-02 04:00
+
+#### [UK has ‘limited’ defences against ballistic missile threats, warns ex-RAF official](https://www.ft.com/content/8c6a9f8f-7902-4f7a-b683-188ad4601c35)
+**发布时间**: 2026-04-02 04:00
+
+#### [Gulf states consider new pipelines to avoid Strait of Hormuz](https://www.ft.com/content/880664d8-e110-4760-8b00-aa3141a770ff)
+**发布时间**: 2026-04-02 04:00
+
+#### [NHS staff boycott Palantir’s data platform over ethical concerns](https://www.ft.com/content/dbb67083-bd1d-46e9-b196-1438d54c5795)
+**发布时间**: 2026-04-02 04:00
+
+#### [Ofwat poised to waive Thames Water fines to 2030 under deal](https://www.ft.com/content/070d9030-0314-41dd-9630-63c893b199b0)
+**发布时间**: 2026-04-02 04:00
+
+#### [Trump threatens to hit Iran ‘extremely hard’ in coming weeks](https://www.ft.com/content/3af1d6e5-2a61-47f9-af65-efeb1b859ab9)
+**发布时间**: 2026-04-02 03:42
+
+#### [Oil jumps 7% as Trump speech revives anxiety about Iran conflict](https://www.ft.com/content/7181cef1-6d7c-45bd-85cd-5feafbbd0cfd)
+**发布时间**: 2026-04-02 00:23
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures sink as Trump says U.S. on track to complete Iran objectives ‘very shortly’](https://www.marketwatch.com/story/stock-futures-sink-as-trump-says-u-s-on-track-to-complete-iran-objectives-very-shortly-83d76b47?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 03:02
+
+#### [Elon Musk’s SpaceX could lead a wave of jumbo IPOs after reportedly making this key move](https://www.marketwatch.com/story/elon-musks-spacex-could-lead-a-wave-of-jumbo-ipos-after-reportedly-making-this-key-move-03ac890f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 00:45
+
+#### [Could cruise passengers soon be hit with a fuel surcharge?](https://www.marketwatch.com/story/most-cruise-lines-can-add-a-fuel-surcharge-after-you-book-heres-what-to-expect-in-the-near-future-1efcb014?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 00:25
 
 ---
 
