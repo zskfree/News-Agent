@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 09:01
+**最后更新时间**: 2026-04-02 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-02 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist](https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 23:32
+
+#### [Starbucks made two big moves to help its turnaround today — but they didn’t help the coffee chain’s stock](https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:53
+
+#### [Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs](https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:33
+
+#### [Sam’s Club is hiking its membership fees. Analysts suggest Costco and BJ’s could be next.](https://www.marketwatch.com/story/sams-club-is-hiking-its-membership-fees-analysts-say-costco-and-bjs-could-be-next-a8eb71a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:30
+
+#### [‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?](https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:06
+
+#### [These charts show the cracks in the stock market are widening](https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 21:43
+
+#### [Intel’s stock has been climbing — and this could be its next big catalyst](https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 21:07
+
+#### [Verizon is coming off its best quarter in 15 years. Can it sustain that momentum?](https://www.marketwatch.com/story/verizon-is-coming-off-its-best-quarter-in-15-years-can-it-sustain-that-momentum-ae44df8d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 20:46
+
+#### [April typically showers stock investors with gains — but this year is no sure bet](https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump fires US attorney-general Pam Bondi](https://www.ft.com/content/533ecec7-713f-46f1-a2a2-cbd9a659299f)
+**发布时间**: 2026-04-02 19:41
+
+#### [Oil jumps after Donald Trump’s remarks dash hopes of end to war](https://www.ft.com/content/7181cef1-6d7c-45bd-85cd-5feafbbd0cfd)
+**发布时间**: 2026-04-02 19:38
+
+#### [Trump administration announces new tariffs on pharmaceuticals](https://www.ft.com/content/25ecf952-2fca-4ac0-9f72-69949c929a62)
+**发布时间**: 2026-04-02 19:31
+
+#### [SpaceX IPO is Musk’s biggest financial moonshot](https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62)
+**发布时间**: 2026-04-02 19:00
+
+#### [UK urges pharma companies to invest after reaching drug pricing deal with US](https://www.ft.com/content/4bc868a1-bd4d-4d80-b8dd-064a4b87a4bb)
+**发布时间**: 2026-04-02 18:19
+
+#### [The case for Trump’s tariffs looks strong a year on from ‘liberation day’](https://www.ft.com/content/35f79237-630c-4b04-8e5a-57394ad2b2f6)
+**发布时间**: 2026-04-02 16:58
+
+#### [Blue Owl struck by $5.4bn of redemption requests](https://www.ft.com/content/f4320148-3d81-4bd0-9ab6-053a5bade188)
+**发布时间**: 2026-04-02 16:33
+
+#### [Nick Candy sells Chelsea mansion for more than £275mn](https://www.ft.com/content/8daf99ca-2e0c-4aae-b434-5c10cf89f1f3)
+**发布时间**: 2026-04-02 12:25
+
+#### [Goldman and Citi tell Paris staff to work from home after thwarted BofA attack](https://www.ft.com/content/eee3f933-36f1-48f4-ae09-98b50bfab386)
+**发布时间**: 2026-04-02 12:18
+
+#### [Farage sacks Reform UK housing spokesperson over ‘everyone dies’ Grenfell comments](https://www.ft.com/content/48e51b80-9501-411d-8ed6-3392d9c93d84)
+**发布时间**: 2026-04-02 12:18
+
+#### [Italy fines Revolut over misleading ‘0% commission’ trading adverts](https://www.ft.com/content/0cb5fe60-434e-4790-9915-3d8b1968e4ec)
+**发布时间**: 2026-04-02 11:25
+
+#### [US Treasury calls in regulators for talks on private credit risks](https://www.ft.com/content/09f4fa70-d3e6-4abc-bc95-234afe7111f4)
+**发布时间**: 2026-04-02 00:58
 
 ---
 

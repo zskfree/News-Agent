@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Apr 2026 09:01:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 09:02:15 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:40:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>豆包日均Token使用量突破120万亿，Seedance2.0API开启公测</title>
-      <link>https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[豆包日均Token使用量突破120万亿，Seedance2.0API开启公测]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境</title>
+      <link>https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532660&amp;idx=1&amp;sn=4c795eba24abdbacf3b4515b096c6bd3</link>
-      <description>&lt;![CDATA[13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532660&amp;idx=1&amp;sn=4c795eba24abdbacf3b4515b096c6bd3</guid>
+      <title>【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家</title>
+      <link>https://www.tmtpost.com/7940267.html</link>
+      <description>&lt;![CDATA[【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940267.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Robotaxi，离盈利又近了一步</title>
-      <link>https://www.tmtpost.com/7939406.html</link>
-      <description>&lt;![CDATA[Robotaxi，离盈利又近了一步]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7939406.html</guid>
+      <title>国产独立大模型公司的未来，估计是出海+垂类To B</title>
+      <link>https://www.tmtpost.com/7939794.html</link>
+      <description>&lt;![CDATA[国产独立大模型公司的未来，估计是出海+垂类To B]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 19:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939794.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不掌握token的甲骨文们，注定会大裁员</title>
-      <link>https://www.tmtpost.com/7939366.html</link>
-      <description>&lt;![CDATA[不掌握token的甲骨文们，注定会大裁员]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7939366.html</guid>
+      <title>被咬一口的世界，苹果 50 年的疯狂与奇迹</title>
+      <link>https://sspai.com/post/107218</link>
+      <description>&lt;![CDATA[被咬一口的世界，苹果 50 年的疯狂与奇迹]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/107218</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京</title>
-      <link>https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>商汤十二年，能否穿越AI周期？</title>
+      <link>https://www.tmtpost.com/7939349.html</link>
+      <description>&lt;![CDATA[商汤十二年，能否穿越AI周期？]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 19:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939349.html</guid>
       <category>Technology</category>
     </item>
   </channel>

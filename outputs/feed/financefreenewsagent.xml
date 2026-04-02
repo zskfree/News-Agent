@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Apr 2026 09:01:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 09:02:15 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:40:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>KPMG cleared by UK watchdog over audit of gambling group Entain</title>
-      <link>https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4</link>
-      <description>&lt;![CDATA[KPMG cleared by UK watchdog over audit of gambling group Entain]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4</guid>
+      <title>‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?</title>
+      <link>https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist</title>
+      <link>https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 23:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs</title>
+      <link>https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 22:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Italy fines Revolut over misleading ‘0% commission’ trading adverts</title>
+      <link>https://www.ft.com/content/0cb5fe60-434e-4790-9915-3d8b1968e4ec</link>
+      <description>&lt;![CDATA[Italy fines Revolut over misleading ‘0% commission’ trading adverts]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0cb5fe60-434e-4790-9915-3d8b1968e4ec</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>April typically showers stock investors with gains — but this year is no sure bet</title>
+      <link>https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[April typically showers stock investors with gains — but this year is no sure bet]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Apr 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 09:02:15 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:40:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码</title>
-      <link>https://www.qbitai.com/2026/04/395091.html</link>
-      <description>&lt;![CDATA[开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 07:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395091.html</guid>
+      <title>我的天！豆包每天烧120万亿Tokens啊！</title>
+      <link>https://www.qbitai.com/2026/04/395202.html</link>
+      <description>&lt;![CDATA[我的天！豆包每天烧120万亿Tokens啊！]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395202.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈</title>
-      <link>https://www.qbitai.com/2026/04/394704.html</link>
-      <description>&lt;![CDATA[中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 07:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394704.html</guid>
+      <title>《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式</title>
+      <link>https://www.qbitai.com/2026/04/395198.html</link>
+      <description>&lt;![CDATA[《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395198.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端</title>
-      <link>https://www.qbitai.com/2026/04/394641.html</link>
-      <description>&lt;![CDATA[开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端]]&gt;</description>
-      <pubDate>Thu, 02 Apr 2026 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/394641.html</guid>
+      <title>AI原生时代来临，商汤大装置如何重塑算力集群架构</title>
+      <link>https://www.qbitai.com/2026/04/395194.html</link>
+      <description>&lt;![CDATA[AI原生时代来临，商汤大装置如何重塑算力集群架构]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395194.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷</title>
+      <link>https://www.qbitai.com/2026/04/395162.html</link>
+      <description>&lt;![CDATA[上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷]]&gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395162.html</guid>
       <category>Ai</category>
     </item>
   </channel>

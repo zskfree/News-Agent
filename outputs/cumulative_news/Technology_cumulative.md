@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 09:01
+**最后更新时间**: 2026-04-02 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-02 23:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家](https://www.tmtpost.com/7940267.html)
+**发布时间**: 2026-04-03 07:20
+
+#### [不只是押注利率，Rocket的股票也已蓄势待发，准备起飞](https://www.tmtpost.com/7940339.html)
+**发布时间**: 2026-04-02 22:38
+
+#### [认识新一代股息贵族](https://www.tmtpost.com/7940326.html)
+**发布时间**: 2026-04-02 22:16
+
+#### [必需消费品板块被抛弃了，高露洁以及另外5只股票值得关注](https://www.tmtpost.com/7940324.html)
+**发布时间**: 2026-04-02 22:12
+
+#### [富临运业拟再易主：永锋集团浮盈超2.57亿元，新主过往“战绩”拉胯](https://www.tmtpost.com/7940198.html)
+**发布时间**: 2026-04-02 20:41
+
+#### [商汤十二年，能否穿越AI周期？](https://www.tmtpost.com/7939349.html)
+**发布时间**: 2026-04-02 19:59
+
+#### [泡泡玛特的市值，藏在闲鱼的标价里？](https://www.tmtpost.com/7938516.html)
+**发布时间**: 2026-04-02 19:59
+
+#### [预测模型Echo面世：检验AI是“预言家”还是“悍跳狼”？](https://www.tmtpost.com/7939751.html)
+**发布时间**: 2026-04-02 19:57
+
+#### [铜师傅想学泡泡玛特，为什么资本不买账？](https://www.tmtpost.com/7939760.html)
+**发布时间**: 2026-04-02 19:57
+
+#### [停下来的萝卜快跑，跑起来的中国无人车](https://www.tmtpost.com/7939752.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [国产独立大模型公司的未来，估计是出海+垂类To B](https://www.tmtpost.com/7939794.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [特斯拉“王牌厂长”宋钢将入职小米，王化被打脸了？](https://www.tmtpost.com/7939954.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [合资新能源车用中国方案再次发力，离打动你还有多远？](https://www.tmtpost.com/7939825.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [家电巨头，狂蹭AI](https://www.tmtpost.com/7939933.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [建议所有 MaaS厂商开通疯狂星期四套餐](https://www.tmtpost.com/7939945.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [AI时代，年轻人靠手写信赚得第一桶金](https://www.tmtpost.com/7939959.html)
+**发布时间**: 2026-04-02 19:16
+
+#### [车企扎堆储能，因湃的“半固态”能杀出重围吗？｜钛度车库](https://www.tmtpost.com/7939609.html)
+**发布时间**: 2026-04-02 18:29
+
+#### [燃油附加费暴涨5倍，油价异动下的成本传导](https://www.tmtpost.com/7939774.html)
+**发布时间**: 2026-04-02 18:18
+
+#### [以“确定性”重塑体验，滴滴租车推动行业服务升级](https://www.tmtpost.com/7939761.html)
+**发布时间**: 2026-04-02 17:44
+
+#### [上市险企利润排位赛：国寿称雄，太平飙涨，平安稳守，人保掉队](https://www.tmtpost.com/7939600.html)
+**发布时间**: 2026-04-02 17:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境](https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 19:07
+
+#### [从数据留底到隐身进开源，Claude Code 泄露的代码里，处处写着：这家公司人品不行](https://www.infoq.cn/article/oyztKc9IQUguMOOx6imT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 18:53
+
+#### [AI 原生时代，如何提供可用、易用、高效的算力服务？](https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 18:43
+
+#### [五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道](https://www.infoq.cn/article/UMPFZoYAiPsvqbIoETR1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 18:43
+
+#### [全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场](https://www.infoq.cn/article/vblM3MlOEs86dmVdH8d1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 18:00
+
+#### [AI 资本大转向：OpenAI 凉、Anthropic 火、马斯克赢](https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 17:53
+
+#### [云原生数据库下半场：深度解析 TDSQL-C 硬核技术，探索 AI 驱动的智能进化与产业实践](https://www.infoq.cn/article/meRvbxZQtilVUHLijL1Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-02 17:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [汇聚热爱，「2050 大会」少数派线下活动邀请你来参与](https://sspai.com/post/108202)
+**发布时间**: 2026-04-02 18:26
+
+#### [派晚报：2026 年愚人节产品大赏](https://sspai.com/post/108197)
+**发布时间**: 2026-04-02 16:33
 
 ---
 
