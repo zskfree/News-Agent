@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 08:59
+**最后更新时间**: 2026-04-03 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-03 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Three charged with arson over London Jewish charity ambulance attack](https://www.ft.com/content/224108af-cc42-4e92-9722-a2f25ead002a)
+**发布时间**: 2026-04-03 22:55
+
+#### [OpenAI chief operating officer takes on new role in shake-up](https://www.ft.com/content/d82b6277-fdd3-4914-a500-2bb39f4a114b)
+**发布时间**: 2026-04-03 22:13
+
+#### [Meta-backed data centre seeks $3bn for campus with novel financing](https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e)
+**发布时间**: 2026-04-03 21:14
+
+#### [US fighter jet shot down over Iran](https://www.ft.com/content/ffedc7fe-b068-444c-b8c6-b11332890d6f)
+**发布时间**: 2026-04-03 19:50
+
+#### [US judge upholds block of subpoenas in criminal investigation of Jay Powell](https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced)
+**发布时间**: 2026-04-03 18:40
+
+#### [It’s far too easy to get sucked down a conspiracy theory rabbit hole](https://www.ft.com/content/688bc0cf-eae3-48fc-a94b-f3d57ec0c61a)
+**发布时间**: 2026-04-03 17:00
+
+#### [US launches rescue operation for plane’s missing crew](https://www.ft.com/content/c860846e-e7e9-42cf-9c26-15ca516169b0)
+**发布时间**: 2026-04-03 15:26
+
+#### [Former Iran foreign minister floats plan for peace with US](https://www.ft.com/content/489464b6-e61f-44ec-8051-406008fec7ce)
+**发布时间**: 2026-04-03 14:54
+
+#### [US economy beats expectations to add 178,000 jobs in March](https://www.ft.com/content/82c1795b-704a-4da3-82ec-2f9cd52de01e)
+**发布时间**: 2026-04-03 13:36
+
+#### [Forget Trump, I’m now fully invested again](https://www.ft.com/content/35b9db30-e119-4d0d-81c0-b5d05f8a90cb)
+**发布时间**: 2026-04-03 12:24
+
+#### [Investors are betting on AI chaos. History suggests otherwise](https://www.ft.com/content/76ea6878-d11c-4118-ad98-3b361fcdbb01)
+**发布时间**: 2026-04-03 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How TBPN went from nerdy online talk show to splashy OpenAI acquisition](https://www.marketwatch.com/story/how-tbpn-went-from-nerdy-online-talkshow-to-splashy-openai-acquisition-c204185e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 22:02
+
+#### [‘I plan to take out a mortgage’: My father died. Should I buy the family home from my mom at a 40% discount?](https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 20:19
+
+#### [‘I’d like to be a superhost’: Is it unethical to use AI in my Airbnb photos to market my property?](https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 20:18
+
+#### [Buyers finally have leverage in the housing market. Here are 3 smart ways to use it.](https://www.marketwatch.com/story/buyers-finally-have-leverage-in-the-housing-market-here-are-3-smart-ways-to-use-it-49abcfa3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 19:34
+
+#### [In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’](https://www.marketwatch.com/story/in-todays-job-market-its-more-show-me-a-desk-than-show-me-the-money-3b66754e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 19:18
+
+#### [Jobs data, Iran war add to inflation fears for retirees](https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 18:54
+
+#### [These little-known chip stocks could be winners as SpaceX and Amazon make big satellite pushes](https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 18:33
+
+#### [Netflix co-founder Reed Hastings has made over $500 million on stock options since last year](https://www.marketwatch.com/story/heres-how-much-reed-hastings-has-made-selling-netflix-stock-this-year-ba1acacd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 17:38
 
 ---
 

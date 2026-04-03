@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 08:59:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 08:59:42 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:38:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决</title>
-      <link>https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型</title>
+      <link>https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活</title>
-      <link>https://www.tmtpost.com/7939738.html</link>
-      <description>&lt;![CDATA[奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7939738.html</guid>
+      <title>AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？</title>
+      <link>https://www.tmtpost.com/7940661.html</link>
+      <description>&lt;![CDATA[AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940661.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Robotaxi 狂奔十年，却迎来了虚假黎明</title>
-      <link>https://www.tmtpost.com/7940201.html</link>
-      <description>&lt;![CDATA[Robotaxi 狂奔十年，却迎来了虚假黎明]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940201.html</guid>
+      <title>谷歌推出最强手机端开源模型Gemma4 E2B/E4B</title>
+      <link>https://www.tmtpost.com/7940798.html</link>
+      <description>&lt;![CDATA[谷歌推出最强手机端开源模型Gemma4 E2B/E4B]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940798.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取</title>
-      <link>https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取]]&gt;</description>
+      <title>KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能</title>
+      <link>https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能]]&gt;</description>
       <pubDate>Fri, 03 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>锂价暴击、政策托底：中国储能巨头们的竞速时刻</title>
-      <link>https://www.tmtpost.com/7940694.html</link>
-      <description>&lt;![CDATA[锂价暴击、政策托底：中国储能巨头们的竞速时刻]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940694.html</guid>
+      <title>微软推出 Azure Copilot Migration Agent，加速云迁移规划</title>
+      <link>https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软推出 Azure Copilot Migration Agent，加速云迁移规划]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 08:57:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 08:59:42 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 23:36:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:39:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段</title>
-      <link>https://www.qbitai.com/2026/04/395279.html</link>
-      <description>&lt;![CDATA[Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 06:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395279.html</guid>
+      <title>浪潮信息直播发布业界企业级OpenClaw方案“企千虾”</title>
+      <link>https://www.qbitai.com/2026/04/395916.html</link>
+      <description>&lt;![CDATA[浪潮信息直播发布业界企业级OpenClaw方案“企千虾”]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395916.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测</title>
-      <link>https://www.qbitai.com/2026/04/395216.html</link>
-      <description>&lt;![CDATA[美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395216.html</guid>
+      <title>Sora向左，阿里向右：全能演技派模型登场千问APP</title>
+      <link>https://www.qbitai.com/2026/04/395477.html</link>
+      <description>&lt;![CDATA[Sora向左，阿里向右：全能演技派模型登场千问APP]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395477.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕</title>
+      <link>https://www.qbitai.com/2026/04/395447.html</link>
+      <description>&lt;![CDATA[从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395447.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenAI收购了一家脱口秀公司</title>
+      <link>https://www.qbitai.com/2026/04/395316.html</link>
+      <description>&lt;![CDATA[OpenAI收购了一家脱口秀公司]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395316.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 08:59
+**最后更新时间**: 2026-04-03 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-03 23:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [智飞生物“松绑”默沙东：取消千亿保底采购，百亿巨亏后终于卸下枷锁](https://www.tmtpost.com/7941342.html)
+**发布时间**: 2026-04-03 20:25
+
+#### [微医智能体为医保基金装上“数字天眼”，AI守护百姓“救命钱、保命钱”](https://www.tmtpost.com/7941316.html)
+**发布时间**: 2026-04-03 19:55
+
+#### [5天暴涨90%，九识智能“非借壳”星辉环材的明棋与暗局](https://www.tmtpost.com/7941308.html)
+**发布时间**: 2026-04-03 19:45
+
+#### [AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？](https://www.tmtpost.com/7940661.html)
+**发布时间**: 2026-04-03 18:29
+
+#### [老将“转身”：元气森林的创新方法论与行业经验“回流”](https://www.tmtpost.com/7940910.html)
+**发布时间**: 2026-04-03 18:08
+
+#### [当Token成为产业共识，火山引擎的好消息和坏消息](https://www.tmtpost.com/7941009.html)
+**发布时间**: 2026-04-03 17:56
+
+#### [三万亿美元IPO即将上演，市场在激动同时也在颤栗](https://www.tmtpost.com/7940984.html)
+**发布时间**: 2026-04-03 17:50
+
+#### [阿里AI的势能，又起来了](https://www.tmtpost.com/7940968.html)
+**发布时间**: 2026-04-03 17:50
+
+#### [增收不增利，现金流承压，3D打印龙头再冲港股](https://www.tmtpost.com/7941022.html)
+**发布时间**: 2026-04-03 17:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三](https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 19:01
+
+#### [跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型](https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 18:00
+
+#### [在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？](https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 16:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108231)
+**发布时间**: 2026-04-03 18:09
 
 ---
 

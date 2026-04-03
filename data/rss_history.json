@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1789d548c7cf36b82246d2df47ee4f3edd8d316a8406e25c4442d7bb0c8c7aa6": {
-        "title": "GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？",
-        "link": "https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 19:05:00 GMT",
-        "first_seen": "2026-03-04T23:32:37.574637"
-      },
-      "6b4c9f67f2e0a30406513da92795738dfabf0798fe1023b2cf657d28b1ed07f9": {
-        "title": "第一次，战争的底牌攥在AI手里",
-        "link": "https://www.tmtpost.com/7898584.html",
-        "published_date": "Wed, 04 Mar 2026 11:35:00 GMT",
-        "first_seen": "2026-03-04T23:32:37.574647"
-      },
-      "a6fea12630b282fa175e62bba42c37bb51638ebc406279b89903952d4bec37b9": {
-        "title": "黄仁勋说，要有光",
-        "link": "https://www.tmtpost.com/7899668.html",
-        "published_date": "Wed, 04 Mar 2026 19:17:00 GMT",
-        "first_seen": "2026-03-04T23:32:37.574651"
-      },
-      "4ae513580750cedfa313e751a2c7adf8baa0f4d368554570081db71d8056a86a": {
-        "title": "林俊旸离职背后，是阿里千问最近一年对技术路径的战略误判",
-        "link": "https://www.tmtpost.com/7899273.html",
-        "published_date": "Wed, 04 Mar 2026 16:07:00 GMT",
-        "first_seen": "2026-03-04T23:32:37.574652"
-      },
-      "f11e614dfb0b46c276436c8b45739d35769dd5c2d0bda02d1161652880e1e53e": {
-        "title": "战事持续，芯片公司逃离以色列",
-        "link": "https://www.tmtpost.com/7899738.html",
-        "published_date": "Wed, 04 Mar 2026 19:17:00 GMT",
-        "first_seen": "2026-03-04T23:32:37.574654"
-      },
       "f19fa7c9ae876c64d390395518cabd2dca63146ffcc878a978b9a6a0e73eba0d": {
         "title": "阿里千问负责人林俊旸离职，高层回应“无关政治斗争”，AI圈刷屏：Qwen 开源时代要变了吗？",
         "link": "https://www.infoq.cn/article/qlqdGvfWkwSrKGFSJQFT?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7940694.html",
         "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
         "first_seen": "2026-04-03T08:59:42.563844"
+      },
+      "d1a4202523a101a674c3877bca66f8e8f2f4cdbb9c5fc6a640b43be50006cd28": {
+        "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 18:00:00 GMT",
+        "first_seen": "2026-04-03T23:38:50.687310"
+      },
+      "6780d0b7059dbcbd16d93053b28371c5c8b2a7527a0f8044a359bcfb91dfb623": {
+        "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
+        "link": "https://www.tmtpost.com/7940661.html",
+        "published_date": "Fri, 03 Apr 2026 18:29:00 GMT",
+        "first_seen": "2026-04-03T23:38:50.687319"
+      },
+      "ea4763e30621902da52da975dbc6a48b7b65ea557e23e5b18a6709c85383c3d0": {
+        "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
+        "link": "https://www.tmtpost.com/7940798.html",
+        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-03T23:38:50.687322"
+      },
+      "174e586549266fde576c07cfd114fce21a0163fdc617e101e5855b295523aa32": {
+        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
+        "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-03T23:38:50.687324"
+      },
+      "037e2875a8cdfa7374c28aea0f2e38b988ce27895c23497759e7b9c3f909afde": {
+        "title": "微软推出 Azure Copilot Migration Agent，加速云迁移规划",
+        "link": "https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-03T23:38:50.687325"
       }
     },
     "Finance": {
-      "e9f0fcd94ffb71e1a1741ba07f818f9f9c30c2428f51cc1dce54a79f5ca2a5af": {
-        "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
-        "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Mar 2026 23:07:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.614651"
-      },
-      "a34c668a4f4d7a91ce52c666b057c04f86e2e4d7e8a29207960597fdcce73f9f": {
-        "title": "BlackRock’s target-date funds are about to get riskier. Here’s what you need to know.",
-        "link": "https://www.marketwatch.com/story/blackrocks-target-date-funds-are-about-to-get-riskier-heres-what-you-need-to-know-4d795704?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Mar 2026 22:12:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.614658"
-      },
-      "e7acd05b36de9430ac0ccc1341e47d9bc36bde47ca413e98268ee04669341743": {
-        "title": "Iran war upends popular trades",
-        "link": "https://www.ft.com/content/2c6529e0-41cb-4c2e-957d-04fb9641d807",
-        "published_date": "Wed, 04 Mar 2026 14:47:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.614660"
-      },
-      "8c9322784127d7d4ba97aceaf785cc312635f93b7f07256e79c635e1d365f7d8": {
-        "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
-        "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Mar 2026 23:30:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.614662"
-      },
-      "717bd8b73cdd3ee553bfb43d6d0edbebbcbb653519534c881b1fef89aaa4f83c": {
-        "title": "Here are 6 reasons why stocks may shake off Iran fears and move higher in March",
-        "link": "https://www.marketwatch.com/story/here-are-6-reasons-why-stocks-may-shake-off-iran-fears-and-move-higher-in-march-5516c160?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Mar 2026 22:10:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.614663"
-      },
       "9e95fc1e6d0d62ae2f0409f74db28b1860e0164ddb8918ae43609533d408005f": {
         "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
         "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
@@ -4719,15 +4689,39 @@
         "link": "https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories",
         "published_date": "Fri, 03 Apr 2026 08:57:00 GMT",
         "first_seen": "2026-04-03T08:59:42.599733"
+      },
+      "ba1aba2eb1fcc5bfbf678e3dd98c5ff246ace6c0e6cfc2d48bec96d9c5b3982e": {
+        "title": "US judge upholds block of subpoenas in criminal investigation of Jay Powell",
+        "link": "https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced",
+        "published_date": "Fri, 03 Apr 2026 18:40:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.738279"
+      },
+      "b96688e46bfc3aa3546f0dcbb0e1be5951c3fd7433374ee1022d8d32c57ee1fd": {
+        "title": "US economy beats expectations to add 178,000 jobs in March",
+        "link": "https://www.ft.com/content/82c1795b-704a-4da3-82ec-2f9cd52de01e",
+        "published_date": "Fri, 03 Apr 2026 13:36:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.738286"
+      },
+      "898bbe07c6458678a5a0b9785f7c34f9554a2e1457fff7a8b9c630f14b07f50c": {
+        "title": "Jobs data, Iran war add to inflation fears for retirees",
+        "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
+        "published_date": "Fri, 03 Apr 2026 18:54:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.738288"
+      },
+      "13b0bcf86dc992b6e5baf4c565e04bf8b8f0561222cf2506bc112ef5d8fef645": {
+        "title": "Meta-backed data centre seeks $3bn for campus with novel financing",
+        "link": "https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e",
+        "published_date": "Fri, 03 Apr 2026 21:14:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.738290"
+      },
+      "cac71d08305aef0e376b7cfc463e2f44bc232e26912519d84c4a1551fdef9898": {
+        "title": "These little-known chip stocks could be winners as SpaceX and Amazon make big satellite pushes",
+        "link": "https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories",
+        "published_date": "Fri, 03 Apr 2026 18:33:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.738291"
       }
     },
     "Ai": {
-      "163a0379c4d0f20e119cdda1671c4b67ebb28d9b2ac704fc9efdd76f52a26bfe": {
-        "title": "Teaching LLMs to reason like Bayesians",
-        "link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
-        "published_date": "Wed, 04 Mar 2026 20:29:00 GMT",
-        "first_seen": "2026-03-04T23:32:55.767930"
-      },
       "9b86b9cc5b4c5c2d96367218d942d68bfe8f959124a49777dad1aad0871feed0": {
         "title": "2026-03-05日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-05/",
@@ -6059,13 +6053,37 @@
         "link": "https://www.qbitai.com/2026/04/395216.html",
         "published_date": "Fri, 03 Apr 2026 06:24:00 GMT",
         "first_seen": "2026-04-03T08:59:42.746837"
+      },
+      "74f39b7dbc97d4b8e9d1fa6c5a9b3407f1dbed20090a86a784964f13aa460fa5": {
+        "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+        "link": "https://www.qbitai.com/2026/04/395916.html",
+        "published_date": "Fri, 03 Apr 2026 12:57:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.887592"
+      },
+      "d1471cd555eed1f123fd43626705a8e96c594ea96bd112aa042dbbff6a987eeb": {
+        "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+        "link": "https://www.qbitai.com/2026/04/395477.html",
+        "published_date": "Fri, 03 Apr 2026 12:54:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.887600"
+      },
+      "678d6a5e86b2a35dd8fed443e4efd1b41eedd6fb89bcaab06b5d4392fe789fda": {
+        "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
+        "link": "https://www.qbitai.com/2026/04/395447.html",
+        "published_date": "Fri, 03 Apr 2026 10:24:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.887602"
+      },
+      "716cfc06e557c434ac451c4e7d645e94d188dee94df5793c6c2c55ce61f2db5a": {
+        "title": "OpenAI收购了一家脱口秀公司",
+        "link": "https://www.qbitai.com/2026/04/395316.html",
+        "published_date": "Fri, 03 Apr 2026 09:25:00 GMT",
+        "first_seen": "2026-04-03T23:39:09.887604"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-03T08:59:42.563846",
-    "Finance": "2026-04-03T08:59:42.599740",
-    "Ai": "2026-04-03T08:59:42.746839"
+    "Technology": "2026-04-03T23:38:50.687327",
+    "Finance": "2026-04-03T23:39:09.738295",
+    "Ai": "2026-04-03T23:39:09.887606"
   }
 }
