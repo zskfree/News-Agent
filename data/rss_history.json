@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2521b25c4613322aac9ecc61ccf6c3d2c3705f1f8789948b47e3e7d10730a23f": {
-        "title": "阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2",
-        "link": "https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 15:20:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.231546"
-      },
-      "2fa665bb5c19d1391ded0b4daeb8f2cc383ab1041fc19aeea0538a3cd9e46481": {
-        "title": "马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失",
-        "link": "https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 14:46:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.231554"
-      },
-      "b2c389f1a62d08f04e52a34dc64f0692eb6ddb014914c6a2ce50d82ca0ad7332": {
-        "title": "AI“氛围编程”威胁开源，维护者面临危机",
-        "link": "https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.231557"
-      },
-      "9c8ee5a2d78a69b683510f70518f966e50d82c07e0fa1f102ff334712ba05944": {
-        "title": "超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”",
-        "link": "https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 16:14:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.231559"
-      },
-      "abbbec38918773300ade166d8e5c254dd2be867963ef1fe653868ed4b20c1226": {
-        "title": "两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深",
-        "link": "https://www.tmtpost.com/7898990.html",
-        "published_date": "Wed, 04 Mar 2026 10:35:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.231561"
-      },
       "1789d548c7cf36b82246d2df47ee4f3edd8d316a8406e25c4442d7bb0c8c7aa6": {
         "title": "GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？",
         "link": "https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&utm_medium=article",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7940019.html",
         "published_date": "Fri, 03 Apr 2026 10:19:00 GMT",
         "first_seen": "2026-04-03T06:15:33.711061"
+      },
+      "2c357d1296bd04c4e73edbc9460bad9177579314355b1fb2366e485f6f84f37b": {
+        "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
+        "link": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 14:40:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.563829"
+      },
+      "1613790d67c963c108df973a64e2e2179d1ff8c394dd708fb37b50c268958341": {
+        "title": "奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活",
+        "link": "https://www.tmtpost.com/7939738.html",
+        "published_date": "Fri, 03 Apr 2026 16:50:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.563838"
+      },
+      "dfbf76fa6eca5a06e31629f1f744dab14ab5692a511d932939e74ced510a2701": {
+        "title": "Robotaxi 狂奔十年，却迎来了虚假黎明",
+        "link": "https://www.tmtpost.com/7940201.html",
+        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.563841"
+      },
+      "34365c62fc7b234f5bc3e0ada192d14023b7f72f85db84ef964b748e8406daed": {
+        "title": "PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取",
+        "link": "https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.563842"
+      },
+      "a92a22b618c733793c62e3789744666b0601dd4e6809ea069e1ccd7a617959d8": {
+        "title": "锂价暴击、政策托底：中国储能巨头们的竞速时刻",
+        "link": "https://www.tmtpost.com/7940694.html",
+        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.563844"
       }
     },
     "Finance": {
@@ -4713,21 +4713,15 @@
         "link": "https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd",
         "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-03T06:15:49.420001"
+      },
+      "6654038072a8ade555895866d832ca23f85840d60ca0f440998e9dc7c5f3033d": {
+        "title": "Reality TV star and former Playboy model Kendra Wilkinson says her career selling luxury real estate has blossomed",
+        "link": "https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories",
+        "published_date": "Fri, 03 Apr 2026 08:57:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.599733"
       }
     },
     "Ai": {
-      "d0c55f0a6d73720a866a18a7c9de88957ec54d9c8ebf38f762b94e31cd43ba34": {
-        "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
-        "link": "https://www.qbitai.com/2026/03/383902.html",
-        "published_date": "Wed, 04 Mar 2026 07:50:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.403676"
-      },
-      "748dcbc5009a488d4dcfef58659f30c3a6713e0ba4a2ca08e8f996b3d5d912ec": {
-        "title": "2026-03-04日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-04/",
-        "published_date": "Wed, 04 Mar 2026 09:26:00 GMT",
-        "first_seen": "2026-03-04T08:41:59.403683"
-      },
       "163a0379c4d0f20e119cdda1671c4b67ebb28d9b2ac704fc9efdd76f52a26bfe": {
         "title": "Teaching LLMs to reason like Bayesians",
         "link": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
@@ -6053,13 +6047,25 @@
         "link": "https://www.qbitai.com/2026/04/395206.html",
         "published_date": "Fri, 03 Apr 2026 02:23:00 GMT",
         "first_seen": "2026-04-03T06:15:49.564528"
+      },
+      "e9db601369de83971463646e8338aa36b669e476d0e0d2c68ee2a731eda9185d": {
+        "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+        "link": "https://www.qbitai.com/2026/04/395279.html",
+        "published_date": "Fri, 03 Apr 2026 06:53:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.746829"
+      },
+      "b0928aa320bb10492bb44923b6f2449b86bab830c5bd2e4b66e6696d9c2b4781": {
+        "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+        "link": "https://www.qbitai.com/2026/04/395216.html",
+        "published_date": "Fri, 03 Apr 2026 06:24:00 GMT",
+        "first_seen": "2026-04-03T08:59:42.746837"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-03T06:15:33.711063",
-    "Finance": "2026-04-03T06:15:49.420003",
-    "Ai": "2026-04-03T06:15:49.564530"
+    "Technology": "2026-04-03T08:59:42.563846",
+    "Finance": "2026-04-03T08:59:42.599740",
+    "Ai": "2026-04-03T08:59:42.746839"
   }
 }

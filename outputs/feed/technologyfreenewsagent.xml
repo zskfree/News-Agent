@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 06:15:33 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 08:59:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端</title>
-      <link>https://www.tmtpost.com/7940633.html</link>
-      <description>&lt;![CDATA[Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940633.html</guid>
+      <title>谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决</title>
+      <link>https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 14:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节跳动的Token战争：从印钞机到生态基建</title>
-      <link>https://www.tmtpost.com/7940539.html</link>
-      <description>&lt;![CDATA[字节跳动的Token战争：从印钞机到生态基建]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940539.html</guid>
+      <title>奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活</title>
+      <link>https://www.tmtpost.com/7939738.html</link>
+      <description>&lt;![CDATA[奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939738.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话智象未来CTO姚霆：当Sora退场后，世界模型的终局是&quot;轮回&quot;</title>
-      <link>https://www.tmtpost.com/7940146.html</link>
-      <description>&lt;![CDATA[对话智象未来CTO姚霆：当Sora退场后，世界模型的终局是&quot;轮回&quot;]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940146.html</guid>
+      <title>Robotaxi 狂奔十年，却迎来了虚假黎明</title>
+      <link>https://www.tmtpost.com/7940201.html</link>
+      <description>&lt;![CDATA[Robotaxi 狂奔十年，却迎来了虚假黎明]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940201.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前网易副总裁下场，要做“Agent 时代的iPhone”</title>
-      <link>https://www.infoq.cn/article/jURmq5J0lm5Py5bkJbZ4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[前网易副总裁下场，要做“Agent 时代的iPhone”]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jURmq5J0lm5Py5bkJbZ4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取</title>
+      <link>https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报</title>
-      <link>https://www.tmtpost.com/7940019.html</link>
-      <description>&lt;![CDATA[AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940019.html</guid>
+      <title>锂价暴击、政策托底：中国储能巨头们的竞速时刻</title>
+      <link>https://www.tmtpost.com/7940694.html</link>
+      <description>&lt;![CDATA[锂价暴击、政策托底：中国储能巨头们的竞速时刻]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940694.html</guid>
       <category>Technology</category>
     </item>
   </channel>

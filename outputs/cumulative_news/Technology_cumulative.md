@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 06:15
+**最后更新时间**: 2026-04-03 08:59
+
+---
+
+## 🆕 最新更新 (2026-04-03 08:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活](https://www.tmtpost.com/7939738.html)
+**发布时间**: 2026-04-03 16:50
+
+#### [谷歌推出最强手机端开源模型Gemma4 E2B/E4B](https://www.tmtpost.com/7940798.html)
+**发布时间**: 2026-04-03 16:29
+
+#### [LibTV上不排队的Seedance 2.0，治好了我的抽卡焦虑](https://www.tmtpost.com/7940810.html)
+**发布时间**: 2026-04-03 16:29
+
+#### [张雪的火种，与三个摩托手](https://www.tmtpost.com/7940872.html)
+**发布时间**: 2026-04-03 16:29
+
+#### [1.2亿招首席科学家，优必选如何避免Meta的坑](https://www.tmtpost.com/7940926.html)
+**发布时间**: 2026-04-03 16:29
+
+#### [一亿独居者，不想独自死在家中](https://www.tmtpost.com/7940931.html)
+**发布时间**: 2026-04-03 16:29
+
+#### [全球89%消费者计划持续购买二手商品；2025年全球智能眼镜市场出货量同比增长44.2%；印尼计划提高可再生能源生产 ｜一周出海参考](https://www.tmtpost.com/7940975.html)
+**发布时间**: 2026-04-03 16:13
+
+#### [Robotaxi 狂奔十年，却迎来了虚假黎明](https://www.tmtpost.com/7940201.html)
+**发布时间**: 2026-04-03 15:29
+
+#### [锂价暴击、政策托底：中国储能巨头们的竞速时刻](https://www.tmtpost.com/7940694.html)
+**发布时间**: 2026-04-03 15:29
+
+#### [阿里蒋凡的压力赛：守电商、拼闪购、供AI](https://www.tmtpost.com/7940288.html)
+**发布时间**: 2026-04-03 15:29
+
+#### [智谱和MiniMax，谁是中国的Anthropic？](https://www.tmtpost.com/7940812.html)
+**发布时间**: 2026-04-03 15:29
+
+#### [张雪像是“算法时代最后一种真人”](https://www.tmtpost.com/7940766.html)
+**发布时间**: 2026-04-03 15:28
+
+#### [在人脑与AI共生的世界，教育将会变成怎样？](https://www.tmtpost.com/7940396.html)
+**发布时间**: 2026-04-03 15:24
+
+#### [桌面CNC能复制3D打印的神话吗？ ｜ 出海参考](https://www.tmtpost.com/7940765.html)
+**发布时间**: 2026-04-03 14:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来](https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 16:34
+
+#### [KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能](https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 15:00
+
+#### [PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取](https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 15:00
+
+#### [谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决](https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 14:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为了将网页变为应用程序，我们付出了多少努力？（一）](https://sspai.com/post/107928)
+**发布时间**: 2026-04-03 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [下载到本地的 Claude Code 源码，用这个 CLI 工具解读太香了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532690&idx=1&sn=aab67b46905b4219088b3d88f6f40ddb)
+**发布时间**: 2026-04-03 13:45
 
 ---
 

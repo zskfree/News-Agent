@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 06:15
+**最后更新时间**: 2026-04-03 08:59
+
+---
+
+## 🆕 最新更新 (2026-04-03 08:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Reality TV star and former Playboy model Kendra Wilkinson says her career selling luxury real estate has blossomed](https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 08:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK motorists to face £2 a litre diesel within days](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034)
+**发布时间**: 2026-04-03 04:00
+
+#### [Inside Tehran, a city under attack](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598)
+**发布时间**: 2026-04-03 04:00
 
 ---
 

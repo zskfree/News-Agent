@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 06:13:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 06:15:49 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 08:57:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 08:59:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-03日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-03/</link>
-      <description>&lt;![CDATA[2026-04-03日刊]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-03/</guid>
+      <title>Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段</title>
+      <link>https://www.qbitai.com/2026/04/395279.html</link>
+      <description>&lt;![CDATA[Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395279.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求</title>
-      <link>https://www.qbitai.com/2026/04/395210.html</link>
-      <description>&lt;![CDATA[小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 05:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395210.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型</title>
-      <link>https://www.qbitai.com/2026/04/395206.html</link>
-      <description>&lt;![CDATA[全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 02:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395206.html</guid>
+      <title>美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测</title>
+      <link>https://www.qbitai.com/2026/04/395216.html</link>
+      <description>&lt;![CDATA[美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测]]&gt;</description>
+      <pubDate>Fri, 03 Apr 2026 06:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395216.html</guid>
       <category>Ai</category>
     </item>
   </channel>
