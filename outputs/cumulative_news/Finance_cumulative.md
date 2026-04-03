@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 23:39
+**最后更新时间**: 2026-04-03 06:15
+
+---
+
+## 🆕 最新更新 (2026-04-03 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Europe must prepare for ‘long-lasting’ energy shock, EU warns](https://www.ft.com/content/7d3a6810-b571-4730-aa35-f7bfcacdc242)
+**发布时间**: 2026-04-03 04:00
+
+#### [UK motorists face £2 a litre diesel as Iran war drives wholesale prices to 4-year high](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034)
+**发布时间**: 2026-04-03 04:00
+
+#### [Prediction markets: the hunt for the new ‘dumb money’](https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd)
+**发布时间**: 2026-04-03 04:00
+
+#### [What’s going on with dollar debt?](https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5)
+**发布时间**: 2026-04-03 04:00
+
+#### [In Tehran, neighbours wonder where the next bombs will land](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598)
+**发布时间**: 2026-04-03 04:00
+
+#### [Fund managers snap up bonds on growth threat from Iran war](https://www.ft.com/content/397d5395-90d4-40db-8130-740b9bc91f5b)
+**发布时间**: 2026-04-03 04:00
+
+#### [Credit investors flee to safety, pulling $11bn from junk bonds this year](https://www.ft.com/content/45c12697-4d59-4027-80b7-b0c565020d43)
+**发布时间**: 2026-04-03 04:00
+
+#### [UK gender pay gap widens at Clifford Chance and McKinsey](https://www.ft.com/content/d9890c7f-bd24-402b-a78a-eb8b799703b9)
+**发布时间**: 2026-04-03 04:00
+
+#### [M&S demands urgent action by ministers to tackle ‘brazen’ UK shoplifting](https://www.ft.com/content/52ba8264-ebce-4b54-bd2b-a669190c2520)
+**发布时间**: 2026-04-02 23:36
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pam Bondi was just fired by Trump. Here’s how the stock market has fared since her infamous ‘Dow is over 50,000’ comment.](https://www.marketwatch.com/story/pam-bondi-was-just-fired-by-trump-heres-how-the-stock-market-has-fared-since-her-infamous-dow-is-over-50-000-comment-694a261c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 02:21
+
+#### [Mortgage rates rise for the fifth week in a row. Here’s how much more homebuyers are paying since the Iran war started.](https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 00:52
 
 ---
 

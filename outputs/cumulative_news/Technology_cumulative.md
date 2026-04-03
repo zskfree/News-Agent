@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 23:39
+**最后更新时间**: 2026-04-03 06:15
+
+---
+
+## 🆕 最新更新 (2026-04-03 06:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [与苹果相爱相杀、靠代工AI眼镜，歌尔股份能否“逆天改命”？](https://www.tmtpost.com/7940290.html)
+**发布时间**: 2026-04-03 13:10
+
+#### [押宝张雪的770亿富豪，交最佳年报却遭资本“冷眼”？](https://www.tmtpost.com/7940098.html)
+**发布时间**: 2026-04-03 13:10
+
+#### [99%加盟店撑起661亿营收，“甩手掌柜”鸣鸣很忙的生意经](https://www.tmtpost.com/7940172.html)
+**发布时间**: 2026-04-03 13:10
+
+#### [参半冲刺港股“口腔护理第一股”，第二增长曲线待破局](https://www.tmtpost.com/7940687.html)
+**发布时间**: 2026-04-03 12:17
+
+#### [鸣鸣很忙没有辜负赵一鸣](https://www.tmtpost.com/7940292.html)
+**发布时间**: 2026-04-03 11:49
+
+#### [Seedance 2.0开放公测，“凌晨抢算力”的时代结束了？](https://www.tmtpost.com/7940586.html)
+**发布时间**: 2026-04-03 11:49
+
+#### [默沙东盯上血液肿瘤](https://www.tmtpost.com/7940640.html)
+**发布时间**: 2026-04-03 11:49
+
+#### [Space X上市，马斯克“踢开”投行](https://www.tmtpost.com/7924995.html)
+**发布时间**: 2026-04-03 11:49
+
+#### [高油价仍未回落，这些派息的公用事业公司可能会因此受益](https://www.tmtpost.com/7940709.html)
+**发布时间**: 2026-04-03 11:02
+
+#### [美团和滴滴，巴西争论不休](https://www.tmtpost.com/7940356.html)
+**发布时间**: 2026-04-03 10:37
+
+#### [Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端](https://www.tmtpost.com/7940633.html)
+**发布时间**: 2026-04-03 10:24
+
+#### [AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报](https://www.tmtpost.com/7940019.html)
+**发布时间**: 2026-04-03 10:19
+
+#### [Harness之后，只剩两种公司](https://www.tmtpost.com/7940468.html)
+**发布时间**: 2026-04-03 09:53
+
+#### [AI视频，还是一门性感的生意吗？](https://www.tmtpost.com/7940455.html)
+**发布时间**: 2026-04-03 09:53
+
+#### [字节跳动的Token战争：从印钞机到生态基建](https://www.tmtpost.com/7940539.html)
+**发布时间**: 2026-04-03 09:53
+
+#### [对话智象未来CTO姚霆：当Sora退场后，世界模型的终局是"轮回"](https://www.tmtpost.com/7940146.html)
+**发布时间**: 2026-04-03 09:43
+
+#### [牧原没有压准周期，但是压中了自己](https://www.tmtpost.com/7940467.html)
+**发布时间**: 2026-04-03 09:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [前网易副总裁下场，要做“Agent 时代的iPhone”](https://www.infoq.cn/article/jURmq5J0lm5Py5bkJbZ4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 11:32
+
+#### [Discord 开源 Osprey 安全规则引擎，每秒可处理 230 万条规则](https://www.infoq.cn/article/Wz12mUPtcy79cyTsIOwV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 11:00
+
+#### [Cloudflare 在边缘部署了主动式 API 漏洞扫描功能](https://www.infoq.cn/article/8LBRc9hODxYmCvKU85fy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 10:30
+
+#### [微软推出 Azure Copilot Migration Agent，加速云迁移规划](https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 10:00
+
+#### [Agent in Practice：从支付迁移落地到评测驱动进化｜QCon北京](https://www.infoq.cn/article/jLxZ76Mge0cKdEIwKaIZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 10:00
+
+#### [警惕 AI 写作：别让思考与信任在指尖溜走](https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-03 09:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [vivo X300 Ultra 影像漫谈：最大的变化是变化很大](https://sspai.com/post/108187)
+**发布时间**: 2026-04-03 10:03
+
+#### [派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等](https://sspai.com/post/108209)
+**发布时间**: 2026-04-03 08:39
 
 ---
 

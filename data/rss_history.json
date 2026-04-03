@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9eb1b286979f8380e770c1bec6cbcdcc950e8881078c5200a1c2b7ed5d713281": {
-        "title": "【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%",
-        "link": "https://www.tmtpost.com/7898664.html",
-        "published_date": "Wed, 04 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-03T23:47:54.905094"
-      },
-      "51d224ab618058f1cad51938775df33c76990cace2021f67f9a8de9c5ec1fd79": {
-        "title": "字节领航、Kimi 爆发：红包大战落幕，AI行业变天",
-        "link": "https://www.tmtpost.com/7898418.html",
-        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-03T23:47:54.905103"
-      },
-      "44e4b79349a226eb639eac9c7df09378e040f2669d82c8aecc1a973f9939ba74": {
-        "title": "从夸克到千问：阿里AI“重修族谱”",
-        "link": "https://www.tmtpost.com/7898028.html",
-        "published_date": "Tue, 03 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-03T23:47:54.905106"
-      },
-      "2fc1cbe45d0912c7920a62104af9d226dc43f8bfc2ab333d78c5988e39149290": {
-        "title": "姜哲源喊出“刚跑了十米”后，宁德时代投了10个亿，但C端故事可能还是个陷阱",
-        "link": "https://www.tmtpost.com/7898398.html",
-        "published_date": "Tue, 03 Mar 2026 18:45:00 GMT",
-        "first_seen": "2026-03-03T23:47:54.905108"
-      },
-      "1f75ff7faf215f1e910b8c97f3fdf4faf4bad730e842e10148f2d4e75074f883": {
-        "title": "开发者欢呼，普通人迷茫：OpenClaw之后，“可用AI”的路该怎么走？",
-        "link": "https://www.infoq.cn/article/Br5brKyveOf15uEgOzvX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Mar 2026 10:17:00 GMT",
-        "first_seen": "2026-03-03T23:47:54.905109"
-      },
-      "d7b5b6e0fe7847e272a7c6ebe152d5743aee5fe2949c53b51e0e10219b2cd188": {
-        "title": "股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软",
-        "link": "https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 09:39:00 GMT",
-        "first_seen": "2026-03-04T05:46:14.210040"
-      },
-      "f49e56304d1eb7bbc7f165ecf5a63be470e4186fa10bf34299f9ed2fba5384ab": {
-        "title": "大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京",
-        "link": "https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 04 Mar 2026 11:07:00 GMT",
-        "first_seen": "2026-03-04T05:46:14.210050"
-      },
-      "c1474cd6eaf9e622bf76914d4eed6530569196e26f744b343dd31df50511fcdb": {
-        "title": "阿里千问“换帅”风暴：林俊旸转身，大模型赛道告别英雄时代",
-        "link": "https://www.tmtpost.com/7899168.html",
-        "published_date": "Wed, 04 Mar 2026 10:53:00 GMT",
-        "first_seen": "2026-03-04T05:46:14.210052"
-      },
-      "6e6a16a735e4590745c354dff3cfbbdeba29be132fc7f0032ef77a535525978a": {
-        "title": "我们与千问AI硬件负责人宋刚聊了聊，“一句话办事”何以重构硬件战场？｜AGI对话",
-        "link": "https://www.tmtpost.com/7899308.html",
-        "published_date": "Wed, 04 Mar 2026 12:55:00 GMT",
-        "first_seen": "2026-03-04T05:46:14.210054"
-      },
-      "3ca2be000dd58de8bf26e7bd1e371fda88c97fedbbc281f08088852eb8080a1a": {
-        "title": "MiniMax交卷！从烧钱到赚钱还有多久？",
-        "link": "https://www.tmtpost.com/7898633.html",
-        "published_date": "Wed, 04 Mar 2026 11:35:00 GMT",
-        "first_seen": "2026-03-04T05:46:14.210056"
-      },
       "2521b25c4613322aac9ecc61ccf6c3d2c3705f1f8789948b47e3e7d10730a23f": {
         "title": "阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2",
         "link": "https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article",
@@ -2731,69 +2671,39 @@
         "link": "https://www.tmtpost.com/7939349.html",
         "published_date": "Thu, 02 Apr 2026 19:59:00 GMT",
         "first_seen": "2026-04-02T23:40:05.102171"
+      },
+      "f3ba05186a4782bde17a35796f0f23aa7abe9de9b9d79cfeafa9c70d92989cae": {
+        "title": "Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端",
+        "link": "https://www.tmtpost.com/7940633.html",
+        "published_date": "Fri, 03 Apr 2026 10:24:00 GMT",
+        "first_seen": "2026-04-03T06:15:33.711046"
+      },
+      "b249f9b2603adfbe0a7b722c70b0a9f1e4fab0d88f40061a01b49242beffb491": {
+        "title": "字节跳动的Token战争：从印钞机到生态基建",
+        "link": "https://www.tmtpost.com/7940539.html",
+        "published_date": "Fri, 03 Apr 2026 09:53:00 GMT",
+        "first_seen": "2026-04-03T06:15:33.711054"
+      },
+      "ef6a02788f418017fa8708198e28a96ad2574ac3e36abf042bddd7283703d212": {
+        "title": "对话智象未来CTO姚霆：当Sora退场后，世界模型的终局是\"轮回\"",
+        "link": "https://www.tmtpost.com/7940146.html",
+        "published_date": "Fri, 03 Apr 2026 09:43:00 GMT",
+        "first_seen": "2026-04-03T06:15:33.711057"
+      },
+      "0ad6ad760b3915f7e707014f3f1f3224f162e09a3c24278137183cfc9043b9b9": {
+        "title": "前网易副总裁下场，要做“Agent 时代的iPhone”",
+        "link": "https://www.infoq.cn/article/jURmq5J0lm5Py5bkJbZ4?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 11:32:00 GMT",
+        "first_seen": "2026-04-03T06:15:33.711059"
+      },
+      "580106af48ceb95fcb9317e9774bd004ad1d5caebe8594e8081873d144d6ea53": {
+        "title": "AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报",
+        "link": "https://www.tmtpost.com/7940019.html",
+        "published_date": "Fri, 03 Apr 2026 10:19:00 GMT",
+        "first_seen": "2026-04-03T06:15:33.711061"
       }
     },
     "Finance": {
-      "b661f0597dcbefcda6f0c3cb7e420f40aaf17a08f649f586242d10e4701db5f9": {
-        "title": "Blue Owl’s private-credit stumble revives fears of another Bear Stearns moment",
-        "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Mar 2026 22:34:00 GMT",
-        "first_seen": "2026-03-03T23:48:07.988538"
-      },
-      "3e6dff3b3438a67158c89f5448ebd79b923b77f6f012045381f0640c6ffef886": {
-        "title": "Software stocks just quietly trounced chip stocks to a historic extent — but don’t get too excited",
-        "link": "https://www.marketwatch.com/story/software-stocks-just-quietly-trounced-chip-stocks-to-a-historic-extent-but-dont-get-too-excited-5babf59c?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Mar 2026 23:35:00 GMT",
-        "first_seen": "2026-03-03T23:48:07.988544"
-      },
-      "11128e3466c80d19764c84a212ea8deccc1b9deaedeb81053434d2c5d00d35af": {
-        "title": "The stock market’s wild swings are sending a message about the escalating Iran conflict",
-        "link": "https://www.marketwatch.com/story/the-stock-markets-wild-swings-are-sending-a-message-about-the-escalating-iran-conflict-9dc81cac?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Mar 2026 23:02:00 GMT",
-        "first_seen": "2026-03-03T23:48:07.988546"
-      },
-      "aba95556486f5f2024f965c62af9c2e14fdee42b252b07a65d41fc39ce35738c": {
-        "title": "Why has oil not hit $100 a barrel?",
-        "link": "https://www.ft.com/content/1ca535f4-d4a6-480b-b2da-f5b05ad8dd5d",
-        "published_date": "Tue, 03 Mar 2026 15:33:00 GMT",
-        "first_seen": "2026-03-03T23:48:07.988548"
-      },
-      "10f5927d01ee778a996c93ca0e9200ec32d0f41a73e966fbdfa7f633e36f093e": {
-        "title": "Should you buy or sell a home now? What the Iran conflict means for the spring home-buying season.",
-        "link": "https://www.marketwatch.com/story/should-you-buy-or-sell-a-home-now-what-the-iran-conflict-means-for-the-spring-home-buying-season-a933f4d3?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Mar 2026 22:56:00 GMT",
-        "first_seen": "2026-03-03T23:48:07.988550"
-      },
-      "ad6bd0d36478b1eef924184dc60b7813fe1c1fcb4163367e73351ff59f8a1ea1": {
-        "title": "Investors ditch private credit funds on rising worries over bad loans",
-        "link": "https://www.ft.com/content/346815bb-7dff-4c97-9568-7ab2432c661d",
-        "published_date": "Wed, 04 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-04T05:46:28.757207"
-      },
-      "f6b97a732c898d955d13871d118d83621c9395e87039979b4cb5e46376bd4366": {
-        "title": "Wall Street’s ‘fear gauge’ is rising as Iran conflict escalates. Here’s what investors should watch.",
-        "link": "https://www.marketwatch.com/story/wall-streets-fear-gauge-is-rising-as-iran-conflict-escalates-heres-what-investors-should-watch-543b5d5c?mod=mw_rss_topstories",
-        "published_date": "Tue, 03 Mar 2026 23:50:00 GMT",
-        "first_seen": "2026-03-04T05:46:28.757213"
-      },
-      "cba13dc5d48540483ef2af60f69c42c4c3e6543ceeb1f33a26cda9d0c4a1d116": {
-        "title": "US shale bosses warn they cannot replace war-hit Middle East oil",
-        "link": "https://www.ft.com/content/7af02521-2861-4299-962d-5f731ed0a0ad",
-        "published_date": "Wed, 04 Mar 2026 01:22:00 GMT",
-        "first_seen": "2026-03-04T05:46:28.757216"
-      },
-      "1d44330c5d4dd89a5cbe8910eca3d4902e99eb9de7031e8de753c6518adbc9fb": {
-        "title": "China to lean on Russian oil as Iran crisis chokes supply",
-        "link": "https://www.ft.com/content/114997aa-7d7c-4d85-b696-bc5123ade6cb",
-        "published_date": "Wed, 04 Mar 2026 04:00:00 GMT",
-        "first_seen": "2026-03-04T05:46:28.757217"
-      },
-      "9affc649850e7a8f3a896298b6fd21d470d9b197e5edab8fc7b0b410b6482bc1": {
-        "title": "Gold and silver flows disrupted as Iran war grounds flights",
-        "link": "https://www.ft.com/content/96b41e64-5a34-477f-ab03-d2da7a3a443e",
-        "published_date": "Wed, 04 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-04T05:46:28.757219"
-      },
       "e9f0fcd94ffb71e1a1741ba07f818f9f9c30c2428f51cc1dce54a79f5ca2a5af": {
         "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
         "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
@@ -4773,39 +4683,39 @@
         "link": "https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories",
         "published_date": "Thu, 02 Apr 2026 20:39:00 GMT",
         "first_seen": "2026-04-02T23:40:24.096550"
+      },
+      "7429acd0e6e614b7147cc22945a426f1f3959e05320bf63bf82ad852131c5821": {
+        "title": "What’s going on with dollar debt?",
+        "link": "https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5",
+        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.419984"
+      },
+      "f021b394c3871e739da3229d954f1544c3fd8241e2487d67589d760a80df16ec": {
+        "title": "Credit investors flee to safety, pulling $11bn from junk bonds this year",
+        "link": "https://www.ft.com/content/45c12697-4d59-4027-80b7-b0c565020d43",
+        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.419990"
+      },
+      "927cd1c1955470e30e03437dc3b35898192ef7f5c05ec970ef811c4ec48c38c4": {
+        "title": "Europe must prepare for ‘long-lasting’ energy shock, EU warns",
+        "link": "https://www.ft.com/content/7d3a6810-b571-4730-aa35-f7bfcacdc242",
+        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.419998"
+      },
+      "9ce7f54899fa1a883d2420c256e2cf5b6ba23b05799aa1d2d00cb825b9b50735": {
+        "title": "Fund managers snap up bonds on growth threat from Iran war",
+        "link": "https://www.ft.com/content/397d5395-90d4-40db-8130-740b9bc91f5b",
+        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.419999"
+      },
+      "dee9bf148a71264fbd2eccad02395ebb41b6f1c069baf19ff41b67f3be4de9b3": {
+        "title": "Prediction markets: the hunt for the new ‘dumb money’",
+        "link": "https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd",
+        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.420001"
       }
     },
     "Ai": {
-      "27358350690e60a154412b940ad8c877ff83e633bac1f45e078c150f2aeea411": {
-        "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
-        "link": "https://www.qbitai.com/2026/03/383592.html",
-        "published_date": "Tue, 03 Mar 2026 10:55:00 GMT",
-        "first_seen": "2026-03-04T05:46:38.009751"
-      },
-      "29f4f7089e940b41b1fe387e1c920cfa84e96f4d07d8fe9f1cbe536829397096": {
-        "title": "AI Agent搞定世纪首次菲尔兹奖成果形式化！一周时间独立完成，20万行代码已公开",
-        "link": "https://www.qbitai.com/2026/03/383368.html",
-        "published_date": "Tue, 03 Mar 2026 10:28:00 GMT",
-        "first_seen": "2026-03-04T05:46:38.009758"
-      },
-      "d5d18afe00a64eaef31c300f23d541c0e0a813940ea15111cc9660df43b9a639": {
-        "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
-        "link": "https://www.qbitai.com/2026/03/383878.html",
-        "published_date": "Wed, 04 Mar 2026 03:11:00 GMT",
-        "first_seen": "2026-03-04T05:46:38.009760"
-      },
-      "230690c785f047ab1e93b692b95a8f2b570f9c4aeaa525fdc5fb9067569dc7a5": {
-        "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
-        "link": "https://www.qbitai.com/2026/03/383842.html",
-        "published_date": "Wed, 04 Mar 2026 01:44:00 GMT",
-        "first_seen": "2026-03-04T05:46:38.009762"
-      },
-      "0021bc68082ee583be01b5caddb5680d993d41e4c7146807f9e019612fc4a7ea": {
-        "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
-        "link": "https://www.qbitai.com/2026/03/383629.html",
-        "published_date": "Tue, 03 Mar 2026 11:13:00 GMT",
-        "first_seen": "2026-03-04T05:46:38.009763"
-      },
       "d0c55f0a6d73720a866a18a7c9de88957ec54d9c8ebf38f762b94e31cd43ba34": {
         "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
         "link": "https://www.qbitai.com/2026/03/383902.html",
@@ -6125,13 +6035,31 @@
         "link": "https://www.qbitai.com/2026/04/395162.html",
         "published_date": "Thu, 02 Apr 2026 10:02:00 GMT",
         "first_seen": "2026-04-02T23:40:24.262864"
+      },
+      "f83acdde073676ba039679d173c41c91a63b8b50aaca2de2f686a304f99ab2b5": {
+        "title": "2026-04-03日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-03/",
+        "published_date": "Fri, 03 Apr 2026 09:36:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.564519"
+      },
+      "1e33596e8f65d840dd72ececf867d98a06276e068378b2890faa4cc7a8b7df3e": {
+        "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+        "link": "https://www.qbitai.com/2026/04/395210.html",
+        "published_date": "Fri, 03 Apr 2026 05:44:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.564526"
+      },
+      "b88d35169ea86dd5e1437c9775299bd222660818b63e8a56450039c35e82a9ea": {
+        "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+        "link": "https://www.qbitai.com/2026/04/395206.html",
+        "published_date": "Fri, 03 Apr 2026 02:23:00 GMT",
+        "first_seen": "2026-04-03T06:15:49.564528"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-02T23:40:05.102173",
-    "Finance": "2026-04-02T23:40:24.096552",
-    "Ai": "2026-04-02T23:40:24.262866"
+    "Technology": "2026-04-03T06:15:33.711063",
+    "Finance": "2026-04-03T06:15:49.420003",
+    "Ai": "2026-04-03T06:15:49.564530"
   }
 }
