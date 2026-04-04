@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Apr 2026 06:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2026 06:00:16 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 08:45:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从价格洼地到价值高地：中国储能凭什么席卷全球？</title>
-      <link>https://www.tmtpost.com/7941406.html</link>
-      <description>&lt;![CDATA[从价格洼地到价值高地：中国储能凭什么席卷全球？]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941406.html</guid>
+      <title>【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题</title>
+      <link>https://www.tmtpost.com/7941741.html</link>
+      <description>&lt;![CDATA[【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941741.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>聊聊MiniMax和智谱财报：谁先跑通盈利模型？</title>
-      <link>https://www.tmtpost.com/7941412.html</link>
-      <description>&lt;![CDATA[聊聊MiniMax和智谱财报：谁先跑通盈利模型？]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941412.html</guid>
+      <title>互联网最骄傲的事，正在被AI一点点拆掉</title>
+      <link>https://www.tmtpost.com/7941760.html</link>
+      <description>&lt;![CDATA[互联网最骄傲的事，正在被AI一点点拆掉]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941760.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拆解商汤十二年，一家老牌 AI 公司的真实处境</title>
-      <link>https://www.tmtpost.com/7941390.html</link>
-      <description>&lt;![CDATA[拆解商汤十二年，一家老牌 AI 公司的真实处境]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941390.html</guid>
+      <title>AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法</title>
+      <link>https://www.tmtpost.com/7941770.html</link>
+      <description>&lt;![CDATA[AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941770.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人卖出8亿，优必选还没走到赚钱那一步</title>
-      <link>https://www.tmtpost.com/7941464.html</link>
-      <description>&lt;![CDATA[人形机器人卖出8亿，优必选还没走到赚钱那一步]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941464.html</guid>
+      <title>大厂们为啥不让自家员工用别家大模型？</title>
+      <link>https://www.tmtpost.com/7941699.html</link>
+      <description>&lt;![CDATA[大厂们为啥不让自家员工用别家大模型？]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941699.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AR眼镜商业化，走到哪一步了？</title>
+      <link>https://www.tmtpost.com/7941436.html</link>
+      <description>&lt;![CDATA[AR眼镜商业化，走到哪一步了？]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941436.html</guid>
       <category>Technology</category>
     </item>
   </channel>

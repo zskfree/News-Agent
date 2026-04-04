@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 23:36:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 23:39:09 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 08:45:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>浪潮信息直播发布业界企业级OpenClaw方案“企千虾”</title>
-      <link>https://www.qbitai.com/2026/04/395916.html</link>
-      <description>&lt;![CDATA[浪潮信息直播发布业界企业级OpenClaw方案“企千虾”]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395916.html</guid>
+      <title>联想重新定义“龙虾”</title>
+      <link>https://www.qbitai.com/2026/04/396015.html</link>
+      <description>&lt;![CDATA[联想重新定义“龙虾”]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396015.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Sora向左，阿里向右：全能演技派模型登场千问APP</title>
-      <link>https://www.qbitai.com/2026/04/395477.html</link>
-      <description>&lt;![CDATA[Sora向左，阿里向右：全能演技派模型登场千问APP]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 12:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395477.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕</title>
-      <link>https://www.qbitai.com/2026/04/395447.html</link>
-      <description>&lt;![CDATA[从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395447.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenAI收购了一家脱口秀公司</title>
-      <link>https://www.qbitai.com/2026/04/395316.html</link>
-      <description>&lt;![CDATA[OpenAI收购了一家脱口秀公司]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395316.html</guid>
+      <title>价值归零！Django创始人警告：30岁程序员受AI冲击最大</title>
+      <link>https://www.qbitai.com/2026/04/395995.html</link>
+      <description>&lt;![CDATA[价值归零！Django创始人警告：30岁程序员受AI冲击最大]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 05:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/395995.html</guid>
       <category>Ai</category>
     </item>
   </channel>

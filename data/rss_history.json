@@ -2701,6 +2701,36 @@
         "link": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-04T06:00:16.055491"
+      },
+      "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
+        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
+        "link": "https://www.tmtpost.com/7941741.html",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.425286"
+      },
+      "38840465c7f9066e2d9e51dfbaabb9f9cf58bc611a5767db78b89b6f47d653e8": {
+        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
+        "link": "https://www.tmtpost.com/7941760.html",
+        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.425298"
+      },
+      "1d0318b0ac4419afa84167ac80d40bce05636caff14c6375278cfee2a47fa753": {
+        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
+        "link": "https://www.tmtpost.com/7941770.html",
+        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.425301"
+      },
+      "f328b9bce011d8a6b0b6317ec7a32831715b66b0cf803dffbd8921954225767e": {
+        "title": "大厂们为啥不让自家员工用别家大模型？",
+        "link": "https://www.tmtpost.com/7941699.html",
+        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.425303"
+      },
+      "8f07ffe7e1063251e0e00cc769c887b82148d6d11c1e3051f66cd6855fb0fe89": {
+        "title": "AR眼镜商业化，走到哪一步了？",
+        "link": "https://www.tmtpost.com/7941436.html",
+        "published_date": "Sat, 04 Apr 2026 10:28:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.425305"
       }
     },
     "Finance": {
@@ -6059,13 +6089,25 @@
         "link": "https://www.qbitai.com/2026/04/395316.html",
         "published_date": "Fri, 03 Apr 2026 09:25:00 GMT",
         "first_seen": "2026-04-03T23:39:09.887604"
+      },
+      "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
+        "title": "联想重新定义“龙虾”",
+        "link": "https://www.qbitai.com/2026/04/396015.html",
+        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.610844"
+      },
+      "01e35cda20b5e2135b691edcf2977ee4446225e015f2cef5e9784595d691f25a": {
+        "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "link": "https://www.qbitai.com/2026/04/395995.html",
+        "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
+        "first_seen": "2026-04-04T08:45:14.610874"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T06:00:16.055493",
+    "Technology": "2026-04-04T08:45:14.425307",
     "Finance": "2026-04-04T06:00:16.092899",
-    "Ai": "2026-04-03T23:39:09.887606"
+    "Ai": "2026-04-04T08:45:14.610878"
   }
 }
