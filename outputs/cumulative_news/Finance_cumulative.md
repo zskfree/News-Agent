@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-04 06:00
+**最后更新时间**: 2026-04-04 23:37
+
+---
+
+## 🆕 最新更新 (2026-04-04 23:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump makes fresh Iran threat as search continues for missing US airman](https://www.ft.com/content/cc8974c6-2552-424c-9eab-231c49095461)
+**发布时间**: 2026-04-04 21:05
+
+#### [Go to court and lose out on £9bn car finance redress scheme, says FCA boss](https://www.ft.com/content/1b2db60f-df18-4e39-ba87-a9b9188bbd22)
+**发布时间**: 2026-04-04 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What’s an ‘E-shaped’ economy — and where do you fit in it?](https://www.marketwatch.com/story/whats-an-e-shaped-economy-and-where-do-you-fit-in-it-a1192908?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 17:42
+
+#### [Private-credit crisis or growing pains? Why the ‘Big Six’ banks are a safer bet.](https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 16:56
+
+#### [Gas-tax breaks sound tempting at $4 a gallon. Too bad they don’t actually work.](https://www.marketwatch.com/story/gas-tax-holidays-sound-tempting-at-4-a-gallon-too-bad-they-dont-actually-work-b20e2441?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 16:47
+
+#### [‘Mass layoffs by email might be the new norm’ as Oracle lays off thousands that way](https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 15:25
+
+#### [Want to watch every Yankees game on TV this year? It’ll cost you over $1,200.](https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 15:23
+
+#### [Easter is getting so expensive that some parents are putting socks and leftover Halloween candy in their kids’ baskets](https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 14:39
 
 ---
 

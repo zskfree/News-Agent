@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Apr 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2026 08:45:14 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 23:38:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题</title>
-      <link>https://www.tmtpost.com/7941741.html</link>
-      <description>&lt;![CDATA[【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题]]&gt;</description>
+      <title>Anthropic成立PAC：厨子不看菜谱看上兵法了</title>
+      <link>https://www.tmtpost.com/7941914.html</link>
+      <description>&lt;![CDATA[Anthropic成立PAC：厨子不看菜谱看上兵法了]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941914.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI</title>
+      <link>https://www.tmtpost.com/7941920.html</link>
+      <description>&lt;![CDATA[Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 17:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941920.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>抖音生服架构大调整，浦燕子打响“二番战”</title>
+      <link>https://www.tmtpost.com/7941701.html</link>
+      <description>&lt;![CDATA[抖音生服架构大调整，浦燕子打响“二番战”]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941701.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智能体 AI 模式强化软件工程规范性</title>
+      <link>https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体 AI 模式强化软件工程规范性]]&gt;</description>
       <pubDate>Sat, 04 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941741.html</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>互联网最骄傲的事，正在被AI一点点拆掉</title>
-      <link>https://www.tmtpost.com/7941760.html</link>
-      <description>&lt;![CDATA[互联网最骄傲的事，正在被AI一点点拆掉]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941760.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法</title>
-      <link>https://www.tmtpost.com/7941770.html</link>
-      <description>&lt;![CDATA[AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941770.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大厂们为啥不让自家员工用别家大模型？</title>
-      <link>https://www.tmtpost.com/7941699.html</link>
-      <description>&lt;![CDATA[大厂们为啥不让自家员工用别家大模型？]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 14:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941699.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AR眼镜商业化，走到哪一步了？</title>
-      <link>https://www.tmtpost.com/7941436.html</link>
-      <description>&lt;![CDATA[AR眼镜商业化，走到哪一步了？]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941436.html</guid>
+      <title>Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具</title>
+      <link>https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

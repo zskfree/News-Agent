@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2537996372ab11772f2a10c853e05d328e4193dcde091c289e6c0bc62cab240b": {
-        "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
-        "link": "https://www.tmtpost.com/7901078.html",
-        "published_date": "Thu, 05 Mar 2026 15:15:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.047130"
-      },
-      "a988f7726a2f553f4a80440bdd49af5d71e3068304a218c33b261cb6a7a8b2f2": {
-        "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
-        "link": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.047138"
-      },
-      "75243fad014d21b125774e1d5416bd155262168c5c5a318a558b3dceb64d2f09": {
-        "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
-        "link": "https://sspai.com/post/106443",
-        "published_date": "Thu, 05 Mar 2026 11:01:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.047141"
-      },
-      "9d5506e78a53e42efd62b19ca6e1ea86c39d33d01a3a76302ab5ad98c849d0d5": {
-        "title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon北京",
-        "link": "https://www.infoq.cn/article/CzURzjfJdD27dP0TcfLj?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 09:31:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.047143"
-      },
-      "d9728d61d77eb2b3c41ed36a2cb95f78b404e50cd0e571f6911106d34e9dcfa7": {
-        "title": "OpenClaw 25万星背后：为什么它仍然只是个“半拉子工程”",
-        "link": "https://www.tmtpost.com/7900620.html",
-        "published_date": "Thu, 05 Mar 2026 11:43:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.047145"
-      },
       "f186070a2eb9fc0845b59f4ab72adc5aa735f269b8c8404da4a234d8aa04ff48": {
         "title": "OpenClaw登顶后，Agent悄悄杀死了“应用”",
         "link": "https://www.tmtpost.com/7901599.html",
@@ -2731,15 +2701,39 @@
         "link": "https://www.tmtpost.com/7941436.html",
         "published_date": "Sat, 04 Apr 2026 10:28:00 GMT",
         "first_seen": "2026-04-04T08:45:14.425305"
+      },
+      "89b3ba67705e38d0e0e46f240b8fa713fcfdb07b0d006ca4e023e75ff251bf3a": {
+        "title": "Anthropic成立PAC：厨子不看菜谱看上兵法了",
+        "link": "https://www.tmtpost.com/7941914.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:38:02.458607"
+      },
+      "77720ab938eaadc7b43aced394f4945aeed13352389c0260b2ca708d171daec4": {
+        "title": "Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI",
+        "link": "https://www.tmtpost.com/7941920.html",
+        "published_date": "Sat, 04 Apr 2026 17:58:00 GMT",
+        "first_seen": "2026-04-04T23:38:02.458618"
+      },
+      "a66033725d864be4489bc932a3c0d30cd3b6050728f593596c01177c7747f540": {
+        "title": "抖音生服架构大调整，浦燕子打响“二番战”",
+        "link": "https://www.tmtpost.com/7941701.html",
+        "published_date": "Sat, 04 Apr 2026 18:49:00 GMT",
+        "first_seen": "2026-04-04T23:38:02.458621"
+      },
+      "217c8c977b9e5b35d45c9cfee4f64c461020a8c85a024c15a48860de414ecdc7": {
+        "title": "智能体 AI 模式强化软件工程规范性",
+        "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T23:38:02.458623"
+      },
+      "432df4be111275c3af0a0cfce8c2b9aacc77de7c26d633de076d49a73f743abd": {
+        "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
+        "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-04T23:38:02.458625"
       }
     },
     "Finance": {
-      "e430c29fd8ef7d7edabb248ef65bbb06d42e42aa1cc0283338d078cd51828958": {
-        "title": "Reform UK received second big donation from Thailand-based crypto investor",
-        "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
-        "published_date": "Thu, 05 Mar 2026 07:44:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.080374"
-      },
       "792bfe0768c1b709a743cabeb30d59cf7ec651f4187b9cd195ed57e809b3ecc0": {
         "title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges",
         "link": "https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc",
@@ -4743,27 +4737,39 @@
         "link": "https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df",
         "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-04T06:00:16.092896"
+      },
+      "5a6ad9ffea7e1a8217ab6962567795c5a76798de7f6fd9525fe46972df178a97": {
+        "title": "Private-credit crisis or growing pains? Why the ‘Big Six’ banks are a safer bet.",
+        "link": "https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.137463"
+      },
+      "7242b8a04e6f0627f267e1243518cdee4b192184eed282f01bd93957cf97e289": {
+        "title": "What’s an ‘E-shaped’ economy — and where do you fit in it?",
+        "link": "https://www.marketwatch.com/story/whats-an-e-shaped-economy-and-where-do-you-fit-in-it-a1192908?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 17:42:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.137471"
+      },
+      "c8b8cec0b87cda0ff4f04d04971a310d4cddd7f5d1785f384c05340b4793c2e9": {
+        "title": "Gas-tax breaks sound tempting at $4 a gallon. Too bad they don’t actually work.",
+        "link": "https://www.marketwatch.com/story/gas-tax-holidays-sound-tempting-at-4-a-gallon-too-bad-they-dont-actually-work-b20e2441?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 16:47:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.137473"
+      },
+      "e447e3e78975d2f6d26d8d54f9c710e8109244d62552addf4b267ac31ffbca1b": {
+        "title": "‘Mass layoffs by email might be the new norm’ as Oracle lays off thousands that way",
+        "link": "https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 15:25:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.137474"
+      },
+      "8577440729074fc516c1e7dad7dfb22b1c4981ee4d7d98bafdc523fa540561a6": {
+        "title": "Easter is getting so expensive that some parents are putting socks and leftover Halloween candy in their kids’ baskets",
+        "link": "https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories",
+        "published_date": "Sat, 04 Apr 2026 14:39:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.137477"
       }
     },
     "Ai": {
-      "2bf8fa45c525894d259e568df8820a9b66947f3049b21f4270ecbbc639bf2303": {
-        "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
-        "link": "https://www.qbitai.com/2026/03/383974.html",
-        "published_date": "Thu, 05 Mar 2026 07:10:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.230632"
-      },
-      "926f978138db6e073dc1d8ee7c61daf30b8d50f9aba0ba3966bd0ad484d244b5": {
-        "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
-        "link": "https://www.qbitai.com/2026/03/383998.html",
-        "published_date": "Thu, 05 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.230639"
-      },
-      "c2d61e92187c38c79cc960704f33222e78fa79be3dd5c1f6e4b6c88583d410ae": {
-        "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
-        "link": "https://www.qbitai.com/2026/03/383947.html",
-        "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
-        "first_seen": "2026-03-05T08:45:58.230641"
-      },
       "b2cf1333bd60550803458b8e3dc0491acd7dd9d139aa67fa298d248f3b6f0575": {
         "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
         "link": "https://www.qbitai.com/2026/03/384330.html",
@@ -6101,13 +6107,25 @@
         "link": "https://www.qbitai.com/2026/04/395995.html",
         "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
         "first_seen": "2026-04-04T08:45:14.610874"
+      },
+      "130d4bca490385d72347b4e91089029ab4aa84abc75f3f972b3ddcbd54c98541": {
+        "title": "2026-04-05日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-05/",
+        "published_date": "Sun, 05 Apr 2026 07:25:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.266552"
+      },
+      "0aa5eb403269ddebdc05a24d50e7299e309e3dfe136b55dc425cca6baf806369": {
+        "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "link": "https://www.qbitai.com/2026/04/396346.html",
+        "published_date": "Sat, 04 Apr 2026 13:38:00 GMT",
+        "first_seen": "2026-04-04T23:38:12.266560"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T08:45:14.425307",
-    "Finance": "2026-04-04T06:00:16.092899",
-    "Ai": "2026-04-04T08:45:14.610878"
+    "Technology": "2026-04-04T23:38:02.458627",
+    "Finance": "2026-04-04T23:38:12.137480",
+    "Ai": "2026-04-04T23:38:12.266562"
   }
 }
