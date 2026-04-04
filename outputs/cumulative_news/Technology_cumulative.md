@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 23:38
+**最后更新时间**: 2026-04-04 06:00
+
+---
+
+## 🆕 最新更新 (2026-04-04 06:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [扎堆做龙虾，一场跟风盛宴？](https://www.tmtpost.com/7941277.html)
+**发布时间**: 2026-04-04 12:29
+
+#### [拆解商汤十二年，一家老牌 AI 公司的真实处境](https://www.tmtpost.com/7941390.html)
+**发布时间**: 2026-04-04 11:29
+
+#### [耐克Q3营收113亿美元；东方甄选首家线下店4月北京开业；Ralph Lauren中国内地首家旗舰店落地成都｜消研所周报](https://www.tmtpost.com/7941162.html)
+**发布时间**: 2026-04-04 10:41
+
+#### [AR眼镜商业化，走到哪一步了？](https://www.tmtpost.com/7941436.html)
+**发布时间**: 2026-04-04 10:28
+
+#### [大厂“牛马”，被迫用AI](https://www.tmtpost.com/7941643.html)
+**发布时间**: 2026-04-04 09:32
+
+#### [龙虾本纪](https://www.tmtpost.com/7941278.html)
+**发布时间**: 2026-04-04 09:28
+
+#### [与腾讯切割后，迟来三年的《全境封锁：曙光》环大陆上线](https://www.tmtpost.com/7941447.html)
+**发布时间**: 2026-04-04 09:16
+
+#### [小米这次也没把价格打下来](https://www.tmtpost.com/7941449.html)
+**发布时间**: 2026-04-04 09:16
+
+#### [聊聊MiniMax和智谱财报：谁先跑通盈利模型？](https://www.tmtpost.com/7941412.html)
+**发布时间**: 2026-04-04 08:45
+
+#### [一杯16.9元的椰子蛋，暴露了瑞幸最狠的生意经](https://www.tmtpost.com/7941501.html)
+**发布时间**: 2026-04-04 08:38
+
+#### [从价格洼地到价值高地：中国储能凭什么席卷全球？](https://www.tmtpost.com/7941406.html)
+**发布时间**: 2026-04-04 08:36
+
+#### [短剧出海越火，为什么越难赚到钱？](https://www.tmtpost.com/7941394.html)
+**发布时间**: 2026-04-04 08:33
+
+#### [57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？](https://www.tmtpost.com/7939926.html)
+**发布时间**: 2026-04-04 08:30
+
+#### [人形机器人卖出8亿，优必选还没走到赚钱那一步](https://www.tmtpost.com/7941464.html)
+**发布时间**: 2026-04-04 08:23
+
+#### [叙事完美、现实残酷，瑷科缦全程抗衰为何叫好不叫座？](https://www.tmtpost.com/7941468.html)
+**发布时间**: 2026-04-04 08:22
+
+#### [爆品透视：爱“豆”的游戏，十亿的生意](https://www.tmtpost.com/7941453.html)
+**发布时间**: 2026-04-04 08:12
+
+#### [“智能眼镜第一股”，还能守住吗](https://www.tmtpost.com/7941377.html)
+**发布时间**: 2026-04-04 08:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TanStack Start 推出导入保护机制，强化服务器与客户端边界划分](https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-04 11:00
+
+#### [从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京](https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-04 10:00
+
+#### [Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具](https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-04 10:00
 
 ---
 

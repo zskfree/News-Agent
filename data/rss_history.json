@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f19fa7c9ae876c64d390395518cabd2dca63146ffcc878a978b9a6a0e73eba0d": {
-        "title": "阿里千问负责人林俊旸离职，高层回应“无关政治斗争”，AI圈刷屏：Qwen 开源时代要变了吗？",
-        "link": "https://www.infoq.cn/article/qlqdGvfWkwSrKGFSJQFT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 10:21:00 GMT",
-        "first_seen": "2026-03-05T05:50:40.601351"
-      },
-      "2af085dfb4233be67ac22d4f147666d1949e941028938e4037004c747a8d316e": {
-        "title": "Sora 浪潮下的视频内容安全：深度伪造检测与水印对抗技术解析",
-        "link": "https://www.infoq.cn/article/gryFJTax0f58Ghw4GisF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 11:29:00 GMT",
-        "first_seen": "2026-03-05T05:50:40.601359"
-      },
-      "45deb0fcd84c8a841f75a35af52b57d758879013a42e174f256c6a5e4594ffa3": {
-        "title": "博通 AVGO：AI 火力全开，英伟达对头更飒？",
-        "link": "https://www.tmtpost.com/7900483.html",
-        "published_date": "Thu, 05 Mar 2026 11:35:00 GMT",
-        "first_seen": "2026-03-05T05:50:40.601362"
-      },
-      "b6efd0c208d8e8a6e489f82fe6f0ab514657e2af8425232cae97664becea6925": {
-        "title": "全国人大代表李东生：加强资本市场对先进制造企业融资支持、发挥市场力量推动光伏“反内卷”",
-        "link": "https://www.tmtpost.com/7900892.html",
-        "published_date": "Thu, 05 Mar 2026 13:05:00 GMT",
-        "first_seen": "2026-03-05T05:50:40.601364"
-      },
-      "bc263e5de8481f633506ab16654b438150aa6e685514e676453f9d946744f661": {
-        "title": "吉利智能辅助驾驶整合后，首访掌舵人陈奇",
-        "link": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
-        "published_date": "Thu, 05 Mar 2026 10:53:00 GMT",
-        "first_seen": "2026-03-05T05:50:40.601366"
-      },
       "2537996372ab11772f2a10c853e05d328e4193dcde091c289e6c0bc62cab240b": {
         "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
         "link": "https://www.tmtpost.com/7901078.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 03 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-03T23:38:50.687325"
+      },
+      "ba2effe16fd3c5eb8e94329d0aea4645643de9b419a298a249638a2327a1b72c": {
+        "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
+        "link": "https://www.tmtpost.com/7941406.html",
+        "published_date": "Sat, 04 Apr 2026 08:36:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.055476"
+      },
+      "c9f994cef7ea55c90ff6d7bea7cb9526f1cf97528c7fb90680c1fd6510c4094f": {
+        "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？",
+        "link": "https://www.tmtpost.com/7941412.html",
+        "published_date": "Sat, 04 Apr 2026 08:45:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.055484"
+      },
+      "265ddb95503c3e0a47678be1742f13713a02e017c4f26cc4c8814d15a59d5764": {
+        "title": "拆解商汤十二年，一家老牌 AI 公司的真实处境",
+        "link": "https://www.tmtpost.com/7941390.html",
+        "published_date": "Sat, 04 Apr 2026 11:29:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.055487"
+      },
+      "f12c5001bb6520e819b9c4e535ce0d989f54b68d923b20b2e65bbe17744267c9": {
+        "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
+        "link": "https://www.tmtpost.com/7941464.html",
+        "published_date": "Sat, 04 Apr 2026 08:23:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.055489"
+      },
+      "fc29fc9551b76b9508c8c8252148e79c778b1e84659bff31edfa9f2da3b468dc": {
+        "title": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.055491"
       }
     },
     "Finance": {
-      "9e95fc1e6d0d62ae2f0409f74db28b1860e0164ddb8918ae43609533d408005f": {
-        "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
-        "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Mar 2026 02:04:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.034681"
-      },
-      "0e79641ce5905c273e06af595b3889b37cc71bac4672c40dd883c251ef914f5a": {
-        "title": "Iran attacks show the perils of following America’s economic lead",
-        "link": "https://www.ft.com/content/8dc24319-631e-4477-a002-668a410c40e9",
-        "published_date": "Thu, 05 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.034687"
-      },
-      "46de78d7414f436e5b6ea28333916bb961b04c7bb291a11cc7b80e73b89f8c94": {
-        "title": "Web of tiny accounting firms audited collapsed MFS property lending empire",
-        "link": "https://www.ft.com/content/0d53fc5c-cd3c-41a7-8d22-71f265877318",
-        "published_date": "Thu, 05 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.034690"
-      },
-      "dbce475c79e8ba2f7c4a0debbbbda550f931fcab284cc88cdd31544b90d8459d": {
-        "title": "Tesla’s self-driving effort could be worth more than double its EV division",
-        "link": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories",
-        "published_date": "Wed, 04 Mar 2026 23:50:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.034692"
-      },
-      "0a75b05c8ddbfba0723a12b164ef6c4ba399ffc3f3a7af4ab5e566959e81ddde": {
-        "title": "OpenAI pushes to add surveillance safeguards following Pentagon deal",
-        "link": "https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6",
-        "published_date": "Thu, 05 Mar 2026 00:39:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.034693"
-      },
       "e430c29fd8ef7d7edabb248ef65bbb06d42e42aa1cc0283338d078cd51828958": {
         "title": "Reform UK received second big donation from Thailand-based crypto investor",
         "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
@@ -4719,21 +4689,33 @@
         "link": "https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories",
         "published_date": "Fri, 03 Apr 2026 18:33:00 GMT",
         "first_seen": "2026-04-03T23:39:09.738291"
+      },
+      "4abb2c8b7fd9c402598012f2e0c1323430b5ff4b278191f856f7500db308bdc8": {
+        "title": "The shadowy group claiming attacks around Europe",
+        "link": "https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540",
+        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.092886"
+      },
+      "1a95511e20889078237e7c7fb8a6c2a25c10c58a2b55dca13816c5428f2fa6c4": {
+        "title": "Former CIA operative: regime change in Iran is much harder than the US thinks",
+        "link": "https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12",
+        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.092892"
+      },
+      "c8c8cc6a4e96d68cd37b4bb68ad19026aac4dd450e4026a0cdf3108b6ab1f125": {
+        "title": "Trump’s tales are still muddling markets",
+        "link": "https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d",
+        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.092894"
+      },
+      "8bb502b439e523a48264917e542e84fa2a94a90b7aba7b52c13d34ff9c67eeab": {
+        "title": "Japan cracks down on its wayward cyclists",
+        "link": "https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df",
+        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-04T06:00:16.092896"
       }
     },
     "Ai": {
-      "9b86b9cc5b4c5c2d96367218d942d68bfe8f959124a49777dad1aad0871feed0": {
-        "title": "2026-03-05日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-05/",
-        "published_date": "Thu, 05 Mar 2026 09:18:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.180372"
-      },
-      "ccbf36bbc33823ea3e7a3434510fd5835585eccc58020e0c1cdba120135031fa": {
-        "title": "阿里批准林俊旸离职，CTO周靖人接管千问！Gemini周浩确定加盟",
-        "link": "https://www.qbitai.com/2026/03/383927.html",
-        "published_date": "Thu, 05 Mar 2026 04:24:00 GMT",
-        "first_seen": "2026-03-05T05:50:54.180380"
-      },
       "2bf8fa45c525894d259e568df8820a9b66947f3049b21f4270ecbbc639bf2303": {
         "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
         "link": "https://www.qbitai.com/2026/03/383974.html",
@@ -6082,8 +6064,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-03T23:38:50.687327",
-    "Finance": "2026-04-03T23:39:09.738295",
+    "Technology": "2026-04-04T06:00:16.055493",
+    "Finance": "2026-04-04T06:00:16.092899",
     "Ai": "2026-04-03T23:39:09.887606"
   }
 }

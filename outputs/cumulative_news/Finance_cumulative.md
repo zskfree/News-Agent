@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 23:38
+**最后更新时间**: 2026-04-04 06:00
+
+---
+
+## 🆕 最新更新 (2026-04-04 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The shadowy group claiming attacks around Europe](https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540)
+**发布时间**: 2026-04-04 04:00
+
+#### [Former CIA operative: regime change in Iran is much harder than the US thinks](https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12)
+**发布时间**: 2026-04-04 04:00
+
+#### [Trump’s tales are still muddling markets](https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d)
+**发布时间**: 2026-04-04 04:00
+
+#### [Japan cracks down on its wayward cyclists](https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df)
+**发布时间**: 2026-04-04 04:00
 
 ---
 
