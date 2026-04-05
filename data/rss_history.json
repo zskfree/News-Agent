@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e2a93861e37b6a53d4111d589f5f767906dcfd08fce3bda6bf82c4f84346c54f": {
-        "title": "GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高",
-        "link": "https://www.tmtpost.com/7902767.html",
-        "published_date": "Fri, 06 Mar 2026 17:45:00 GMT",
-        "first_seen": "2026-03-06T23:29:43.115556"
-      },
-      "cbadb9b20b40b3eaf2047818e14e181b8f08955a37f9def56b6179e11c8a8a95": {
-        "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
-        "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 18:40:00 GMT",
-        "first_seen": "2026-03-06T23:29:43.115563"
-      },
-      "a245b3f7079c05577c1c87f1d01a1a866015d01c545a46937efc1b04e73d9f65": {
-        "title": "第一批部署AI Agent的公司，撞上了「三堵墙」",
-        "link": "https://www.tmtpost.com/7902464.html",
-        "published_date": "Fri, 06 Mar 2026 19:49:00 GMT",
-        "first_seen": "2026-03-06T23:29:43.115566"
-      },
-      "044cd3b63101580c78e5fc6b824828c42d6b9cd58ee85f7a6de3a93957be18aa": {
-        "title": "MWC 2026：当AI拥有“身体”，中国掌握\"造物权\"",
-        "link": "https://www.tmtpost.com/7902280.html",
-        "published_date": "Fri, 06 Mar 2026 13:50:00 GMT",
-        "first_seen": "2026-03-06T23:29:43.115568"
-      },
-      "c3d6a6b6c1371f63e25279022925704cd4a07cc3bad399f1d4d6ab0501987283": {
-        "title": "硅谷在封，中国在抢：OpenClaw到底改变了什么？",
-        "link": "https://www.tmtpost.com/7902755.html",
-        "published_date": "Fri, 06 Mar 2026 19:45:00 GMT",
-        "first_seen": "2026-03-06T23:29:43.115569"
-      },
       "93ae4f5326ec17859396cca271312e9ad9f4a31305b8fd417589f09f533404a2": {
         "title": "进入2026年，每天至少有5亿元砸向具身智能",
         "link": "https://www.tmtpost.com/7903008.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7941274.html",
         "published_date": "Sun, 05 Apr 2026 07:56:00 GMT",
         "first_seen": "2026-04-05T08:48:22.410257"
+      },
+      "6e2dec9d9b4d087779a97e5632e155ea4165b15e1339c327fb53bd0d1f04b52c": {
+        "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
+        "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Apr 2026 21:52:00 GMT",
+        "first_seen": "2026-04-05T23:38:33.797907"
+      },
+      "21802deb3bf8ad49345241cf256f3743ff210de3c25f7c86cb764047e319486d": {
+        "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
+        "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Apr 2026 21:49:00 GMT",
+        "first_seen": "2026-04-05T23:38:33.797916"
+      },
+      "f549433fd321ee6de50d2971e6ba691eee8f01ffb7bf3c45b80e561c81ab0b59": {
+        "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
+        "link": "https://sspai.com/post/69901",
+        "published_date": "Sun, 05 Apr 2026 16:41:00 GMT",
+        "first_seen": "2026-04-05T23:38:33.797919"
+      },
+      "87e9659de8919fa2b938587683c1d5370b01f63f7ffa8413a018066a3d7b5745": {
+        "title": "甘李药业PROTA新药首例给药，剑指前列腺癌蓝海",
+        "link": "https://www.tmtpost.com/7942106.html",
+        "published_date": "Sun, 05 Apr 2026 10:33:00 GMT",
+        "first_seen": "2026-04-05T23:38:33.797921"
+      },
+      "4922cbfe5a56556bdff66e8103e65d40e7c68eb09a52d5ff3da4a8b4f4330f52": {
+        "title": "笑死，这个开源 skill 专门炼化你的离职同事。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532806&idx=1&sn=6e4666b2eef514f3f053794b36cc031e",
+        "published_date": "Sun, 05 Apr 2026 10:13:00 GMT",
+        "first_seen": "2026-04-05T23:38:33.797923"
       }
     },
     "Finance": {
-      "5ad0f5b0335f095a0582a17264e02384fdb3f87bae1de238f176e308607955c4": {
-        "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
-        "link": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea",
-        "published_date": "Fri, 06 Mar 2026 14:11:00 GMT",
-        "first_seen": "2026-03-06T23:29:59.750093"
-      },
-      "8ed5871537ea711c64c11d2a249efd8346285039ef00a9891831932139548997": {
-        "title": "Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos",
-        "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
-        "published_date": "Fri, 06 Mar 2026 21:53:00 GMT",
-        "first_seen": "2026-03-06T23:29:59.750100"
-      },
-      "0a62bc699e24f3d81ee925847dd653895c1f504a3ee47531bfddda42e80301fd": {
-        "title": "Four companies, including AI and data-center plays, are joining the S&P 500 index",
-        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
-        "published_date": "Fri, 06 Mar 2026 23:01:00 GMT",
-        "first_seen": "2026-03-06T23:29:59.750103"
-      },
-      "39b203501077ebba0f70b78b58a5a3865c70bda51779483c9e1b7eefe5f33e14": {
-        "title": "US agency to create $20bn reinsurance facility for Gulf shipping",
-        "link": "https://www.ft.com/content/d1d68d91-0d2c-4682-9204-01320a9320d4",
-        "published_date": "Fri, 06 Mar 2026 20:35:00 GMT",
-        "first_seen": "2026-03-06T23:29:59.750104"
-      },
-      "43ea5d384ce3531eec9b78bfadc32fbf0bc6b5a8ae6471629106e45b45d1b7ca": {
-        "title": "Oracle and OpenAI scrap deal to expand flagship Texas data centre",
-        "link": "https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9",
-        "published_date": "Fri, 06 Mar 2026 22:40:00 GMT",
-        "first_seen": "2026-03-06T23:29:59.750106"
-      },
       "19cdf541e14742ea5233a3893e9332257167bff8fcf37cd363a9ad2c025047a3": {
         "title": "UK lenders raise mortgage rates amid warnings over inflation and energy prices",
         "link": "https://www.ft.com/content/e178273a-991b-461b-82c6-ccf24c966e31",
@@ -4707,39 +4677,39 @@
         "link": "https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6",
         "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-05T06:17:30.763447"
+      },
+      "b373adfd4194e1a79555b7c40cfdf5401a232d6b07c4fb006f5032c051442973": {
+        "title": "Is AI the new fracking?",
+        "link": "https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9",
+        "published_date": "Sun, 05 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.469373"
+      },
+      "db758dba5d27b3d062854f60c0735e3a346d267820bb99835f4bcb4e9006b4dd": {
+        "title": "April is usually a strong month for stocks — but three factors now jeopardize the market rebound",
+        "link": "https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.469380"
+      },
+      "f7950e9853453f2bc615b2de1b9d127141024bbc5adee63582b771d09b26655e": {
+        "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war",
+        "link": "https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc?mod=mw_rss_topstories",
+        "published_date": "Sun, 05 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.469383"
+      },
+      "e5cc30a19012f335899c582aa75a24ee29c643e84f548d296f71e3b05d4d9c0e": {
+        "title": "Trump vows to destroy Iran’s power plants and bridges unless it reopens strait",
+        "link": "https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215",
+        "published_date": "Sun, 05 Apr 2026 22:32:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.469385"
+      },
+      "6cce0cd0431aabfcb3d06ceee339b2fd98999bdb0acdc9d78319808dd97831e8": {
+        "title": "Iran allows Iraqi ships through Hormuz strait",
+        "link": "https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252",
+        "published_date": "Sun, 05 Apr 2026 15:30:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.469386"
       }
     },
     "Ai": {
-      "b2ac24d4368ce865c4eb887dc6d6ec27a4dbe91d0e35a7c762cfb54aff50b125": {
-        "title": "Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔",
-        "link": "https://www.qbitai.com/2026/03/384519.html",
-        "published_date": "Fri, 06 Mar 2026 09:56:00 GMT",
-        "first_seen": "2026-03-06T23:30:11.188905"
-      },
-      "7357eb930337de3f44239feb4aa0810a6d1883d4ad0379ae767559a7449faf4d": {
-        "title": "技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式",
-        "link": "https://www.qbitai.com/2026/03/384573.html",
-        "published_date": "Fri, 06 Mar 2026 12:04:00 GMT",
-        "first_seen": "2026-03-06T23:30:11.188912"
-      },
-      "03fb10c804abbe63aa9c459b2c9ddf218ed5b35251d2d6198bccc6663dc2cb2d": {
-        "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
-        "link": "https://www.qbitai.com/2026/03/384557.html",
-        "published_date": "Fri, 06 Mar 2026 11:10:00 GMT",
-        "first_seen": "2026-03-06T23:30:11.188914"
-      },
-      "2c63227b24ac3292fb21a6b6099cfdb1b2532966413831ee4c9d6c37c93df4b6": {
-        "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
-        "link": "https://www.qbitai.com/2026/03/384578.html",
-        "published_date": "Fri, 06 Mar 2026 14:39:00 GMT",
-        "first_seen": "2026-03-06T23:30:11.188916"
-      },
-      "7696d6babc24da784e43debc4400194d657057bb5245e1a32f9acd43e0af0e3c": {
-        "title": "WAXAL: A large-scale open resource for African language speech technology",
-        "link": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
-        "published_date": "Fri, 06 Mar 2026 20:06:00 GMT",
-        "first_seen": "2026-03-06T23:30:11.188918"
-      },
       "58f69ed272da3762936776e2e7e1d51d9de0aab18f79b5ae1474e44694ea0a0f": {
         "title": "2026-03-07日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-07/",
@@ -6041,13 +6011,25 @@
         "link": "https://www.qbitai.com/2026/04/396351.html",
         "published_date": "Sun, 05 Apr 2026 02:14:00 GMT",
         "first_seen": "2026-04-05T06:17:30.909386"
+      },
+      "b526edc9967f7a84a587c342d53a11a2222d9d1b1b4165e9e69ca9cad73e8989": {
+        "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "link": "https://www.qbitai.com/2026/04/396535.html",
+        "published_date": "Sun, 05 Apr 2026 09:06:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.613214"
+      },
+      "6886a4fce91c5d1fcf8d1673aab2c09a0b30fa2efb7d111fdb623cc44bdbc730": {
+        "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+        "link": "https://www.qbitai.com/2026/04/396533.html",
+        "published_date": "Sun, 05 Apr 2026 08:53:00 GMT",
+        "first_seen": "2026-04-05T23:38:43.613222"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-05T08:48:22.410259",
-    "Finance": "2026-04-05T06:17:30.763449",
-    "Ai": "2026-04-05T06:17:30.909387"
+    "Technology": "2026-04-05T23:38:33.797925",
+    "Finance": "2026-04-05T23:38:43.469389",
+    "Ai": "2026-04-05T23:38:43.613224"
   }
 }

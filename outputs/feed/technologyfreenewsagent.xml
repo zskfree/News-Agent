@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Apr 2026 08:48:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2026 08:48:22 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:38:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大厂只需要Token，不需要活人</title>
-      <link>https://www.tmtpost.com/7942185.html</link>
-      <description>&lt;![CDATA[大厂只需要Token，不需要活人]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942185.html</guid>
+      <title>ESLint v10 发布，但有开发者已经在考虑换 Biome 了</title>
+      <link>https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[ESLint v10 发布，但有开发者已经在考虑换 Biome 了]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 21:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>同事被“炼化”为Skill？大家把这事想简单了</title>
-      <link>https://www.tmtpost.com/7942194.html</link>
-      <description>&lt;![CDATA[同事被“炼化”为Skill？大家把这事想简单了]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942194.html</guid>
+      <title>Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排</title>
+      <link>https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 21:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>隆基甩出“全栈”方案，光储市场告别“拼凑游戏”</title>
-      <link>https://www.tmtpost.com/7942181.html</link>
-      <description>&lt;![CDATA[隆基甩出“全栈”方案，光储市场告别“拼凑游戏”]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942181.html</guid>
+      <title>愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护</title>
+      <link>https://sspai.com/post/69901</link>
+      <description>&lt;![CDATA[愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/69901</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>清明节特辑：过去这一年，哪些互联网产品先走一步</title>
-      <link>https://www.tmtpost.com/7942085.html</link>
-      <description>&lt;![CDATA[清明节特辑：过去这一年，哪些互联网产品先走一步]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942085.html</guid>
+      <title>甘李药业PROTA新药首例给药，剑指前列腺癌蓝海</title>
+      <link>https://www.tmtpost.com/7942106.html</link>
+      <description>&lt;![CDATA[甘李药业PROTA新药首例给药，剑指前列腺癌蓝海]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942106.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知</title>
-      <link>https://www.tmtpost.com/7941274.html</link>
-      <description>&lt;![CDATA[两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 07:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941274.html</guid>
+      <title>笑死，这个开源 skill 专门炼化你的离职同事。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e</link>
+      <description>&lt;![CDATA[笑死，这个开源 skill 专门炼化你的离职同事。]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e</guid>
       <category>Technology</category>
     </item>
   </channel>

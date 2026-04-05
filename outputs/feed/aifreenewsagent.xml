@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Apr 2026 06:14:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2026 06:17:30 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2026 23:35:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2026 23:38:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身龙虾，上车理想</title>
-      <link>https://www.qbitai.com/2026/04/396517.html</link>
-      <description>&lt;![CDATA[具身龙虾，上车理想]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 04:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396517.html</guid>
+      <title>OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了</title>
+      <link>https://www.qbitai.com/2026/04/396535.html</link>
+      <description>&lt;![CDATA[OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396535.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-6，曝光了</title>
-      <link>https://www.qbitai.com/2026/04/396366.html</link>
-      <description>&lt;![CDATA[GPT-6，曝光了]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 04:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396366.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难</title>
-      <link>https://www.qbitai.com/2026/04/396358.html</link>
-      <description>&lt;![CDATA[Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 02:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396358.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜</title>
-      <link>https://www.qbitai.com/2026/04/396351.html</link>
-      <description>&lt;![CDATA[为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 02:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396351.html</guid>
+      <title>太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院</title>
+      <link>https://www.qbitai.com/2026/04/396533.html</link>
+      <description>&lt;![CDATA[太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396533.html</guid>
       <category>Ai</category>
     </item>
   </channel>

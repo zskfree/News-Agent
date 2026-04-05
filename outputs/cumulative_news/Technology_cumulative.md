@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-05 08:48
+**最后更新时间**: 2026-04-05 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-05 23:38)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ESLint v10 发布，但有开发者已经在考虑换 Biome 了](https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-05 21:52
+
+#### [Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排](https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-05 21:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护](https://sspai.com/post/69901)
+**发布时间**: 2026-04-05 16:41
 
 ---
 

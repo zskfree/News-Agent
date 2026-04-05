@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-05 06:17
+**最后更新时间**: 2026-04-05 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-05 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump vows to destroy Iran’s power plants and bridges unless it reopens strait](https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215)
+**发布时间**: 2026-04-05 22:32
+
+#### [Iran allows Iraqi ships through Hormuz strait](https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252)
+**发布时间**: 2026-04-05 15:30
+
+#### [Is AI the new fracking?](https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9)
+**发布时间**: 2026-04-05 15:00
+
+#### [How Iran keeps firing missiles under bombardment](https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a)
+**发布时间**: 2026-04-05 04:00
+
+#### [Pharma just ‘scratching the surface’ of weight-loss drug market](https://www.ft.com/content/919390a5-a9ec-4f18-b764-df308ec51819)
+**发布时间**: 2026-04-05 04:00
+
+#### [Business leaders now have ‘permission to be the assholes they are’, says Brené Brown](https://www.ft.com/content/d296b140-4018-45d0-8770-e5e1a00db698)
+**发布时间**: 2026-04-05 03:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?](https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 20:01
+
+#### [April is usually a strong month for stocks — but three factors now jeopardize the market rebound](https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 16:00
+
+#### [Delta kicks off an earnings season focused on surging gas prices and the Iran war](https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 14:00
+
+#### [‘Our mood changes almost on a daily basis’: Why $4 gas prices feel a lot worse this time around](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 11:26
 
 ---
 
