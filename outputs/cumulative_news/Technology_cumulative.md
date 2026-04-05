@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-04 23:37
+**最后更新时间**: 2026-04-05 06:17
+
+---
+
+## 🆕 最新更新 (2026-04-05 06:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从1亿失踪到证监会立案，喜临门的“5天闪电战”真的是偶发吗？](https://www.tmtpost.com/7942224.html)
+**发布时间**: 2026-04-05 12:32
+
+#### [价值判断：跌停板的投资机会和风险提示（4月3日）｜证券市场观察](https://www.tmtpost.com/7942222.html)
+**发布时间**: 2026-04-05 12:31
+
+#### [价值判断：涨停板的投资机会和风险提示（4月3日）｜证券市场观察](https://www.tmtpost.com/7942217.html)
+**发布时间**: 2026-04-05 12:30
+
+#### [SpaceX秘密递表IPO，冲击史上最大规模上市](https://www.tmtpost.com/7942086.html)
+**发布时间**: 2026-04-05 10:36
+
+#### [锤爆苹果壁垒：AI成最强攻城锤](https://www.tmtpost.com/7942072.html)
+**发布时间**: 2026-04-05 10:33
+
+#### [深扒百亿假洋牌骗局：优思益“塌房”，仙乐健康代工](https://www.tmtpost.com/7942103.html)
+**发布时间**: 2026-04-05 10:33
+
+#### [甘李药业PROTA新药首例给药，剑指前列腺癌蓝海](https://www.tmtpost.com/7942106.html)
+**发布时间**: 2026-04-05 10:33
+
+#### [碳酸锂的“蝴蝶效应”：储能行业定价逻辑大逆转](https://www.tmtpost.com/7942075.html)
+**发布时间**: 2026-04-05 09:55
+
+#### [清明节特辑：过去这一年，哪些互联网产品先走一步](https://www.tmtpost.com/7942085.html)
+**发布时间**: 2026-04-05 09:49
+
+#### [“AI预测未来”！碾压马斯克Grok-4！国产 AI登顶全球](https://www.tmtpost.com/7941862.html)
+**发布时间**: 2026-04-05 08:25
+
+#### [两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知](https://www.tmtpost.com/7941274.html)
+**发布时间**: 2026-04-05 07:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流](https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-05 10:00
+
+#### [Evomap如何让Agent从单体智能到群体进化｜QCon北京](https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-05 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [买前必看：千问 AI 眼镜 G1 自费长测](https://sspai.com/post/108103)
+**发布时间**: 2026-04-04 17:11
 
 ---
 

@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f186070a2eb9fc0845b59f4ab72adc5aa735f269b8c8404da4a234d8aa04ff48": {
-        "title": "OpenClaw登顶后，Agent悄悄杀死了“应用”",
-        "link": "https://www.tmtpost.com/7901599.html",
-        "published_date": "Thu, 05 Mar 2026 19:19:00 GMT",
-        "first_seen": "2026-03-05T23:52:48.368702"
-      },
-      "fc1b97664a63e0e99f9858209c455e0a5d39342403f6fe61850ba0c76c3ad0e2": {
-        "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
-        "link": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Mar 2026 17:11:00 GMT",
-        "first_seen": "2026-03-05T23:52:48.368710"
-      },
-      "f0dd410414c693deabde2b92980f98a5aa22dd12a1520ce305c02260f36ebead": {
-        "title": "AI 真能做研究吗？UniPat AI 开源 UniScientist，用30B小模型给出肯定答案｜公司动态",
-        "link": "https://www.tmtpost.com/7901861.html",
-        "published_date": "Thu, 05 Mar 2026 21:14:00 GMT",
-        "first_seen": "2026-03-05T23:52:48.368737"
-      },
-      "2690120e03e3f19c52be94442a046a5d788d78e322cf1e506111facd3c9a2efb": {
-        "title": "200亿半导体独角兽冲刺科创板：盛合晶微的底牌与暗礁",
-        "link": "https://www.tmtpost.com/7898653.html",
-        "published_date": "Thu, 05 Mar 2026 19:21:00 GMT",
-        "first_seen": "2026-03-05T23:52:48.368742"
-      },
-      "35e838a4808d4904e34934fdff3bedb1782951f70d0234587e0e39519e6dcd72": {
-        "title": "全国政协委员、天娱数科董事长贺晗：场景牵引、央国企带头，拉动人形机器人规模化上岗",
-        "link": "https://www.tmtpost.com/7901641.html",
-        "published_date": "Thu, 05 Mar 2026 19:02:00 GMT",
-        "first_seen": "2026-03-05T23:52:48.368745"
-      },
-      "35575640b82999551e701f95267f5067aae16c745dcb823af0b3cda564f06368": {
-        "title": "政府工作报告首次提及，脑机接口产业迎来大爆发！",
-        "link": "https://www.tmtpost.com/7901791.html",
-        "published_date": "Fri, 06 Mar 2026 10:15:00 GMT",
-        "first_seen": "2026-03-06T05:48:07.094795"
-      },
-      "d42a81e5be773f2105bfbea12c774ccb86833b40d78074a292ed318a9863f049": {
-        "title": "100万 Token + 接管鼠标：GPT-5.4 正把 AI 推向“数字员工”",
-        "link": "https://www.tmtpost.com/7902027.html",
-        "published_date": "Fri, 06 Mar 2026 08:54:00 GMT",
-        "first_seen": "2026-03-06T05:48:07.094803"
-      },
-      "44cc4e791c2f9cddfc5c60aa7f2a183a2a40fc1a3d10fb111bb51e786ef407dc": {
-        "title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
-        "link": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 09:35:00 GMT",
-        "first_seen": "2026-03-06T05:48:07.094805"
-      },
-      "a84058180382d9fc50f19b8c535d2bc8eba6a9abc85dde57362eedcc4558313d": {
-        "title": "MWC 2026：物理AI的全球博弈，中国厂商打破硅谷叙事",
-        "link": "https://www.tmtpost.com/7899741.html",
-        "published_date": "Fri, 06 Mar 2026 10:27:00 GMT",
-        "first_seen": "2026-03-06T05:48:07.094807"
-      },
-      "cbdbe745bea8dde06fd164e0fddf53f8ac3b0d28b03bb59ccb51a9f9fb5d3b29": {
-        "title": "MWC 2026洞察：英伟达与高通的6G路线博弈与产业权力较量",
-        "link": "https://www.tmtpost.com/7902226.html",
-        "published_date": "Fri, 06 Mar 2026 11:27:00 GMT",
-        "first_seen": "2026-03-06T05:48:07.094809"
-      },
       "1f1a4c25217dbeda767a57c2f190a386fa87871c0f5d084e466ade61c960698b": {
         "title": "十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？",
         "link": "https://www.tmtpost.com/7901653.html",
@@ -2731,69 +2671,39 @@
         "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-04T23:38:02.458625"
+      },
+      "514fe9621f2c343ab5e381c372bfb05cbc0502cbe0ea6b62dbf97b70d121c4cc": {
+        "title": "Evomap如何让Agent从单体智能到群体进化｜QCon北京",
+        "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:18.446840"
+      },
+      "8d0b2bfee8f84aafc3dfe412a15cf9ffd57d3dcfa49f6609e4dcfcd5698f57e0": {
+        "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "link": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 05 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:18.446850"
+      },
+      "146d86f440f64aaa4883ee64422f5ece592b81f9e21b299ef5ee2841d9d3b4c5": {
+        "title": "SpaceX秘密递表IPO，冲击史上最大规模上市",
+        "link": "https://www.tmtpost.com/7942086.html",
+        "published_date": "Sun, 05 Apr 2026 10:36:00 GMT",
+        "first_seen": "2026-04-05T06:17:18.446853"
+      },
+      "529421039e35a0590aa49e45c1fb6ce273600ff7180d0b595d3c314cfd052883": {
+        "title": "碳酸锂的“蝴蝶效应”：储能行业定价逻辑大逆转",
+        "link": "https://www.tmtpost.com/7942075.html",
+        "published_date": "Sun, 05 Apr 2026 09:55:00 GMT",
+        "first_seen": "2026-04-05T06:17:18.446855"
+      },
+      "23b254bd94f6987dbf183c66a95f272ec6304a0045b919549e2493b1d0d8fdb6": {
+        "title": "锤爆苹果壁垒：AI成最强攻城锤",
+        "link": "https://www.tmtpost.com/7942072.html",
+        "published_date": "Sun, 05 Apr 2026 10:33:00 GMT",
+        "first_seen": "2026-04-05T06:17:18.446857"
       }
     },
     "Finance": {
-      "792bfe0768c1b709a743cabeb30d59cf7ec651f4187b9cd195ed57e809b3ecc0": {
-        "title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges",
-        "link": "https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc",
-        "published_date": "Thu, 05 Mar 2026 22:48:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.230703"
-      },
-      "a77a5650439a3257c1a68959cd800bdf6b526b66586b5f9756b33cbad2c91e38": {
-        "title": "Nvidia stops production of chips intended for China",
-        "link": "https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb",
-        "published_date": "Thu, 05 Mar 2026 09:24:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.230710"
-      },
-      "dbb081540d517ecdf33001ebc8c63778d13658c7a5e2b601d53b706a525b9a19": {
-        "title": "Depleted oil reserve leaves US exposed as Iran war pushes up prices",
-        "link": "https://www.ft.com/content/d546fd5b-4a0c-4b90-8bee-9e85b75458ed",
-        "published_date": "Thu, 05 Mar 2026 23:03:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.230729"
-      },
-      "d131f8ae8109b9ebe495538b0bbd21ce0a97f022bb2da236526c08a0a47c42ea": {
-        "title": "Gulf states could review overseas investments to ease strains caused by Iran war",
-        "link": "https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f",
-        "published_date": "Thu, 05 Mar 2026 22:02:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.230731"
-      },
-      "abee4e5fd117f73055c288097e44b833b848b059a9d013228b77161c8078ea6f": {
-        "title": "Trade Desk’s stock soars, as a potential OpenAI partnership gives investors reason to cheer",
-        "link": "https://www.marketwatch.com/story/trade-desks-stock-soars-as-a-potential-openai-partnership-gave-investors-reason-to-cheer-542f2331?mod=mw_rss_topstories",
-        "published_date": "Thu, 05 Mar 2026 23:10:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.230733"
-      },
-      "c4a0a0a582ea6a1b1350499a678ef473367b7b7a67cdc3df60e772f274a7501b": {
-        "title": "Reprieve for India as US eases sanctions on buying Russian oil",
-        "link": "https://www.ft.com/content/f513bca3-507f-41ae-a95d-2bb906d3d9e9",
-        "published_date": "Fri, 06 Mar 2026 04:13:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.109507"
-      },
-      "9c4741e7810a64f6711feee8792b336283df6e77003134ddfa6ed7749ddd0989": {
-        "title": "The vulnerable Gulf energy assets putting the world on edge",
-        "link": "https://www.ft.com/content/e05d6bd9-6c6c-4f9c-8ced-430464da8fb5",
-        "published_date": "Fri, 06 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.109513"
-      },
-      "88429ff2ac3d2acb4235744016fae056e316ae9d853ccb7fedef6de3a291ed46": {
-        "title": "UBS fee-sharing deals with Carlyle and CVC spark conflict of interest fears",
-        "link": "https://www.ft.com/content/2a1805a1-45ce-4811-9575-1dced18a2305",
-        "published_date": "Fri, 06 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.109516"
-      },
-      "205b314029b6ba077084a164b9f6a973a1b5883ace8b6e791e9da3ac210dfe56": {
-        "title": "Lloyds strives to be ‘UK’s biggest fintech’ by selling more customer data",
-        "link": "https://www.ft.com/content/f32cd6ce-0c99-4180-a977-c2cb420159a3",
-        "published_date": "Fri, 06 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.109517"
-      },
-      "7d60e3592659c82ba75393f5508d0be7b2b0f3bed7bc3b1c60e26e028d888327": {
-        "title": "Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says",
-        "link": "https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories",
-        "published_date": "Fri, 06 Mar 2026 04:33:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.109519"
-      },
       "5ad0f5b0335f095a0582a17264e02384fdb3f87bae1de238f176e308607955c4": {
         "title": "Qatar warns war will force Gulf to stop energy exports ‘within days’",
         "link": "https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea",
@@ -4767,45 +4677,39 @@
         "link": "https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories",
         "published_date": "Sat, 04 Apr 2026 14:39:00 GMT",
         "first_seen": "2026-04-04T23:38:12.137477"
+      },
+      "25c114bda31878f8f1071a20dc846c34043b123a5a5183f6f1d16782bd42cea4": {
+        "title": "400% gains for AI stocks help drive Hong Kong IPOs to 5-year high",
+        "link": "https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679",
+        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.763429"
+      },
+      "0715d2416dd4535619ca1c9f8e92ddf12b57d4bcef8addde252baa196b99c7c0": {
+        "title": "Stagflation fears demolish confidence in UK housing",
+        "link": "https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f",
+        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.763435"
+      },
+      "dd3ae112964152b11d84f112476a719d68cc1fd7065ed30a36d0192fe1f25fb2": {
+        "title": "Countries must not hoard fuel during Iran war, warns IEA",
+        "link": "https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1",
+        "published_date": "Sun, 05 Apr 2026 03:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.763438"
+      },
+      "4fa8bc86e79a34ec79d8707d3f777f59f7789d29e816386b81df760d2b6b1073": {
+        "title": "UK courts Anthropic to expand in London after US defence clash",
+        "link": "https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5",
+        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.763445"
+      },
+      "90f52fc9ed8aa9fcdf0f4c8b1564059f4b0d4bf177f1d5bd97bcafb00d2a4556": {
+        "title": "Renters’ Rights Act brings big changes to UK property market",
+        "link": "https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6",
+        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.763447"
       }
     },
     "Ai": {
-      "b2cf1333bd60550803458b8e3dc0491acd7dd9d139aa67fa298d248f3b6f0575": {
-        "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
-        "link": "https://www.qbitai.com/2026/03/384330.html",
-        "published_date": "Thu, 05 Mar 2026 13:04:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.381904"
-      },
-      "b0e027e62199b848638d0c6c3ecbd9bfe90ad96643eb312dc6a3183d7c0c480c": {
-        "title": "华为重金押注的世界模型公司，新融了10个亿！",
-        "link": "https://www.qbitai.com/2026/03/384312.html",
-        "published_date": "Thu, 05 Mar 2026 12:27:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.381912"
-      },
-      "3df9eba7d41b63e14cfb83f71496e06ffbc6a85b58f490d4dd280500fb37ce41": {
-        "title": "一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管",
-        "link": "https://www.qbitai.com/2026/03/384307.html",
-        "published_date": "Thu, 05 Mar 2026 11:33:00 GMT",
-        "first_seen": "2026-03-05T23:53:08.381914"
-      },
-      "523bb59eb7e47f60bd38c3ea649b86ca58d7cdad0a7c2d7e9a220e937eb78fb1": {
-        "title": "2026-03-06日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-06/",
-        "published_date": "Fri, 06 Mar 2026 09:19:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.254619"
-      },
-      "ab0db2c5443d1eb76af9136c7b10700c643d108405a32160d9f4b729f38137ad": {
-        "title": "无需排队工业级漫剧制作：360纳米漫剧流水线抢跑AI影视工业化",
-        "link": "https://www.qbitai.com/2026/03/384435.html",
-        "published_date": "Fri, 06 Mar 2026 02:41:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.254627"
-      },
-      "975d3702ffb81364607fb6f1f4b414fd374ac3041badd94d701087e7f784a5a6": {
-        "title": "GPT-5.4发布：OpenAI首个大一统模型，简直是龙虾原生",
-        "link": "https://www.qbitai.com/2026/03/384345.html",
-        "published_date": "Fri, 06 Mar 2026 00:50:00 GMT",
-        "first_seen": "2026-03-06T05:48:21.254629"
-      },
       "058e514fd633a619a68e86f8b0d8e5860069ce113b419f432e332ad6a6ba8b70": {
         "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
         "link": "https://www.qbitai.com/2026/03/384449.html",
@@ -6119,13 +6023,37 @@
         "link": "https://www.qbitai.com/2026/04/396346.html",
         "published_date": "Sat, 04 Apr 2026 13:38:00 GMT",
         "first_seen": "2026-04-04T23:38:12.266560"
+      },
+      "6c02b54106369982a36413d73861ecba7e88174ec4d7fef63645c6e70e51c6b6": {
+        "title": "具身龙虾，上车理想",
+        "link": "https://www.qbitai.com/2026/04/396517.html",
+        "published_date": "Sun, 05 Apr 2026 04:52:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.909375"
+      },
+      "e8877daa86480dcd3e521e5839b896056a91da162cd8e2923d1bd5c83dfd201a": {
+        "title": "GPT-6，曝光了",
+        "link": "https://www.qbitai.com/2026/04/396366.html",
+        "published_date": "Sun, 05 Apr 2026 04:49:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.909382"
+      },
+      "e03bc8bb5f14cdc1fcaa5ed95ee5e15930199a47cc501a5b688e2d800ee24cfe": {
+        "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+        "link": "https://www.qbitai.com/2026/04/396358.html",
+        "published_date": "Sun, 05 Apr 2026 02:24:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.909384"
+      },
+      "dd48705f52a73ce8781702b567c27739c2eccc4a115115e78ffce59cd4c2ade9": {
+        "title": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
+        "link": "https://www.qbitai.com/2026/04/396351.html",
+        "published_date": "Sun, 05 Apr 2026 02:14:00 GMT",
+        "first_seen": "2026-04-05T06:17:30.909386"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T23:38:02.458627",
-    "Finance": "2026-04-04T23:38:12.137480",
-    "Ai": "2026-04-04T23:38:12.266562"
+    "Technology": "2026-04-05T06:17:18.446859",
+    "Finance": "2026-04-05T06:17:30.763449",
+    "Ai": "2026-04-05T06:17:30.909387"
   }
 }

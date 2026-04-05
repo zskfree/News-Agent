@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Apr 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2026 23:38:02 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2026 06:17:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2026 06:17:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic成立PAC：厨子不看菜谱看上兵法了</title>
-      <link>https://www.tmtpost.com/7941914.html</link>
-      <description>&lt;![CDATA[Anthropic成立PAC：厨子不看菜谱看上兵法了]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941914.html</guid>
+      <title>Evomap如何让Agent从单体智能到群体进化｜QCon北京</title>
+      <link>https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Evomap如何让Agent从单体智能到群体进化｜QCon北京]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI</title>
-      <link>https://www.tmtpost.com/7941920.html</link>
-      <description>&lt;![CDATA[Anthropic封堵第三方工具“薅羊毛”，OpenClaw被迫出局，创始人早已投奔OpenAI]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941920.html</guid>
+      <title>Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流</title>
+      <link>https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>抖音生服架构大调整，浦燕子打响“二番战”</title>
-      <link>https://www.tmtpost.com/7941701.html</link>
-      <description>&lt;![CDATA[抖音生服架构大调整，浦燕子打响“二番战”]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941701.html</guid>
+      <title>SpaceX秘密递表IPO，冲击史上最大规模上市</title>
+      <link>https://www.tmtpost.com/7942086.html</link>
+      <description>&lt;![CDATA[SpaceX秘密递表IPO，冲击史上最大规模上市]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942086.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体 AI 模式强化软件工程规范性</title>
-      <link>https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体 AI 模式强化软件工程规范性]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&amp;utm_medium=article</guid>
+      <title>碳酸锂的“蝴蝶效应”：储能行业定价逻辑大逆转</title>
+      <link>https://www.tmtpost.com/7942075.html</link>
+      <description>&lt;![CDATA[碳酸锂的“蝴蝶效应”：储能行业定价逻辑大逆转]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942075.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具</title>
-      <link>https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具]]&gt;</description>
-      <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>锤爆苹果壁垒：AI成最强攻城锤</title>
+      <link>https://www.tmtpost.com/7942072.html</link>
+      <description>&lt;![CDATA[锤爆苹果壁垒：AI成最强攻城锤]]&gt;</description>
+      <pubDate>Sun, 05 Apr 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942072.html</guid>
       <category>Technology</category>
     </item>
   </channel>

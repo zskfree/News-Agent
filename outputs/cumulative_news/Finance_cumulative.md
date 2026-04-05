@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-04 23:37
+**最后更新时间**: 2026-04-05 06:17
+
+---
+
+## 🆕 最新更新 (2026-04-05 06:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US rescues second fighter jet airman shot down over Iran](https://www.ft.com/content/764a9cda-eda0-4332-a4ce-6a26afaf7597)
+**发布时间**: 2026-04-05 05:31
+
+#### [Military briefing: How Iran keeps firing missiles under bombardment](https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a)
+**发布时间**: 2026-04-05 04:00
+
+#### [How we gave up on forgiveness](https://www.ft.com/content/d76c5aca-249f-4c5d-acc6-dac93aa7a117)
+**发布时间**: 2026-04-05 04:00
+
+#### [The professional negotiators who do deals with cyber criminals](https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa)
+**发布时间**: 2026-04-05 04:00
+
+#### [UK courts Anthropic to expand in London after US defence clash](https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5)
+**发布时间**: 2026-04-05 04:00
+
+#### [400% gains for AI stocks help drive Hong Kong IPOs to 5-year high](https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679)
+**发布时间**: 2026-04-05 04:00
+
+#### [Renters’ Rights Act brings big changes to UK property market](https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6)
+**发布时间**: 2026-04-05 04:00
+
+#### [Stagflation fears demolish confidence in UK housing](https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f)
+**发布时间**: 2026-04-05 04:00
+
+#### [Countries must not hoard fuel during Iran war, warns IEA](https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1)
+**发布时间**: 2026-04-05 03:00
 
 ---
 
