@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f1a4c25217dbeda767a57c2f190a386fa87871c0f5d084e466ade61c960698b": {
-        "title": "十五五开局！关于集成电路，部委、人大代表、政协委员都怎么说？",
-        "link": "https://www.tmtpost.com/7901653.html",
-        "published_date": "Fri, 06 Mar 2026 10:14:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.118892"
-      },
-      "aa801c4b1a3f449906d28135828f1f1e2056ac97ff4d5af4781530942e68705b": {
-        "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
-        "link": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.118901"
-      },
-      "49a7a920c4b934751aa39f8d485ef2f0935ae3f7d0decea50b89428c2659c04c": {
-        "title": "华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持",
-        "link": "https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 10:04:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.118904"
-      },
-      "fe88187424efbb62c970c55b4f96402d8e554525e21ae9d9a093c4089f855845": {
-        "title": "迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！",
-        "link": "https://www.tmtpost.com/7902324.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.118906"
-      },
-      "bf33ef8eb3b124437c5450b7cdd3801b665eaf0062813befe45e8b7724118176": {
-        "title": "Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化",
-        "link": "https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.118907"
-      },
       "e2a93861e37b6a53d4111d589f5f767906dcfd08fce3bda6bf82c4f84346c54f": {
         "title": "GPT-5.4 突袭上线：AI 三巨头角逐升级，大模型门槛再次被抬高",
         "link": "https://www.tmtpost.com/7902767.html",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7942072.html",
         "published_date": "Sun, 05 Apr 2026 10:33:00 GMT",
         "first_seen": "2026-04-05T06:17:18.446857"
+      },
+      "23dc43d990a7c47b4a37b6f84061b900bab750f43826903e8760fc7bf2fc8665": {
+        "title": "大厂只需要Token，不需要活人",
+        "link": "https://www.tmtpost.com/7942185.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:48:22.410240"
+      },
+      "b5ceaa912eb5d03a84ecb40a43fea10826124bf0ac83795723cfb27456baf2b0": {
+        "title": "同事被“炼化”为Skill？大家把这事想简单了",
+        "link": "https://www.tmtpost.com/7942194.html",
+        "published_date": "Sun, 05 Apr 2026 14:08:00 GMT",
+        "first_seen": "2026-04-05T08:48:22.410251"
+      },
+      "8dfcc539cd6228003342e792dd6e250b1ff0ed7c74a62fc36326206aacd7d803": {
+        "title": "隆基甩出“全栈”方案，光储市场告别“拼凑游戏”",
+        "link": "https://www.tmtpost.com/7942181.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:48:22.410254"
+      },
+      "84e01cdfb36f8f771cbf7cb8e03355f372a9e8c88d008ff6733983592ebae7e0": {
+        "title": "清明节特辑：过去这一年，哪些互联网产品先走一步",
+        "link": "https://www.tmtpost.com/7942085.html",
+        "published_date": "Sun, 05 Apr 2026 09:49:00 GMT",
+        "first_seen": "2026-04-05T08:48:22.410255"
+      },
+      "ec1527b61c5d4481beb8f8bf93bc5b661c133da033c1558a40ac3f5391f1214e": {
+        "title": "两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知",
+        "link": "https://www.tmtpost.com/7941274.html",
+        "published_date": "Sun, 05 Apr 2026 07:56:00 GMT",
+        "first_seen": "2026-04-05T08:48:22.410257"
       }
     },
     "Finance": {
@@ -4710,12 +4710,6 @@
       }
     },
     "Ai": {
-      "058e514fd633a619a68e86f8b0d8e5860069ce113b419f432e332ad6a6ba8b70": {
-        "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
-        "link": "https://www.qbitai.com/2026/03/384449.html",
-        "published_date": "Fri, 06 Mar 2026 06:58:00 GMT",
-        "first_seen": "2026-03-06T08:41:41.290043"
-      },
       "b2ac24d4368ce865c4eb887dc6d6ec27a4dbe91d0e35a7c762cfb54aff50b125": {
         "title": "Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔",
         "link": "https://www.qbitai.com/2026/03/384519.html",
@@ -6052,7 +6046,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-05T06:17:18.446859",
+    "Technology": "2026-04-05T08:48:22.410259",
     "Finance": "2026-04-05T06:17:30.763449",
     "Ai": "2026-04-05T06:17:30.909387"
   }
