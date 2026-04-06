@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 06:55
+**最后更新时间**: 2026-04-06 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-06 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness](https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 09:01
+
+#### [Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home](https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 08:58
 
 ---
 

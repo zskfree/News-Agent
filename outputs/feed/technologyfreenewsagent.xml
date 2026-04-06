@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 06:55:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 06:55:55 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 09:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:13:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI IPO前夜：CFO说不，COO被调走</title>
-      <link>https://www.tmtpost.com/7942711.html</link>
-      <description>&lt;![CDATA[OpenAI IPO前夜：CFO说不，COO被调走]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942711.html</guid>
+      <title>AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药</title>
+      <link>https://www.tmtpost.com/7942749.html</link>
+      <description>&lt;![CDATA[AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局</title>
-      <link>https://www.tmtpost.com/7942393.html</link>
-      <description>&lt;![CDATA[大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942393.html</guid>
+      <title>自动驾驶优化：从复杂性到实时工程</title>
+      <link>https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[自动驾驶优化：从复杂性到实时工程]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线</title>
-      <link>https://www.tmtpost.com/7940504.html</link>
-      <description>&lt;![CDATA[智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 08:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940504.html</guid>
+      <title>Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67</link>
+      <description>&lt;![CDATA[Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 11:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代的架构治理</title>
-      <link>https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 时代的架构治理]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI短剧，苦等一个《狂飙》</title>
+      <link>https://www.tmtpost.com/7942686.html</link>
+      <description>&lt;![CDATA[AI短剧，苦等一个《狂飙》]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942686.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？</title>
-      <link>https://www.tmtpost.com/7942561.html</link>
-      <description>&lt;![CDATA[别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942561.html</guid>
+      <title>利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？</title>
+      <link>https://www.tmtpost.com/7942770.html</link>
+      <description>&lt;![CDATA[利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942770.html</guid>
       <category>Technology</category>
     </item>
   </channel>

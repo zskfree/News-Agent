@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 06:55
+**最后更新时间**: 2026-04-06 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-06 09:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药](https://www.tmtpost.com/7942749.html)
+**发布时间**: 2026-04-06 15:39
+
+#### [下一个十年，决定你贫富的，是它](https://www.tmtpost.com/7942766.html)
+**发布时间**: 2026-04-06 15:39
+
+#### [利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？](https://www.tmtpost.com/7942770.html)
+**发布时间**: 2026-04-06 15:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [自动驾驶优化：从复杂性到实时工程](https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-06 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532844&idx=1&sn=899a7e5cd40cec6d6ff9d9a4fa197f67)
+**发布时间**: 2026-04-06 11:34
 
 ---
 

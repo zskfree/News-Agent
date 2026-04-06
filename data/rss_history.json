@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9f908ce6c934c55b2638136d9261fc802de8901c5c63a3ba493fd8f47a934b52": {
-        "title": "OpenAI和英伟达，终究还是到了这一步｜AGI焦点",
-        "link": "https://www.tmtpost.com/7903146.html",
-        "published_date": "Sat, 07 Mar 2026 14:46:00 GMT",
-        "first_seen": "2026-03-07T08:35:54.961408"
-      },
-      "7600c38c4ca36ad1bd99154771efeaedea2c9f34e6c36be5d42c9e59b9e3d2a5": {
-        "title": "2分钟涨停背后：4万亿重塑电网逻辑，AI反客为主成推手",
-        "link": "https://www.tmtpost.com/7903781.html",
-        "published_date": "Sat, 07 Mar 2026 14:10:00 GMT",
-        "first_seen": "2026-03-07T08:35:54.961421"
-      },
-      "4e3433bdf9fe4d7ae011123b432447c800bb420a99701c12c82414b55a423061": {
-        "title": "欢迎来到“军科复合体”时代",
-        "link": "https://www.tmtpost.com/7903131.html",
-        "published_date": "Sat, 07 Mar 2026 09:16:00 GMT",
-        "first_seen": "2026-03-07T08:35:54.961424"
-      },
-      "622697370a526f83553b8414c3b0c312771a4fec18d4ad787e497181000fbc1d": {
-        "title": "阿里千问变局：天才与巨头的分叉口",
-        "link": "https://www.tmtpost.com/7903121.html",
-        "published_date": "Sat, 07 Mar 2026 09:16:00 GMT",
-        "first_seen": "2026-03-07T08:35:54.961426"
-      },
-      "64845e132886955b104a452afbee927f17a6bcc6ec1c0bf015e01ab05d959940": {
-        "title": "亏损收窄股价却缩水四成，2100亿沐曦股份怎么了？",
-        "link": "https://www.tmtpost.com/7903227.html",
-        "published_date": "Sat, 07 Mar 2026 14:11:00 GMT",
-        "first_seen": "2026-03-07T08:35:54.961428"
-      },
       "3eb48c804885deb584759f23233f649de5f0cf9354d6dc8ca174c759a00d4da0": {
         "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
         "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7942561.html",
         "published_date": "Mon, 06 Apr 2026 08:01:00 GMT",
         "first_seen": "2026-04-06T06:55:56.025070"
+      },
+      "ab0757f663322bee7df172640f1f07613583708636e870250bfbdbdbbc7b57f3": {
+        "title": "AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药",
+        "link": "https://www.tmtpost.com/7942749.html",
+        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-06T09:13:48.982042"
+      },
+      "27344572e2c4ef762139f6e744d234c8bb7c1bfc9137cef67b479f5846ddf7fe": {
+        "title": "自动驾驶优化：从复杂性到实时工程",
+        "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-06T09:13:48.982050"
+      },
+      "e030d2575577afb8e85b4ca1f637ecc98b8a4f8a47e6b26a670906274a5278eb": {
+        "title": "Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532844&idx=1&sn=899a7e5cd40cec6d6ff9d9a4fa197f67",
+        "published_date": "Mon, 06 Apr 2026 11:34:00 GMT",
+        "first_seen": "2026-04-06T09:13:48.982053"
+      },
+      "b503e87b1f4130c2cd36f6ec2cb185e16abfc88cc8f634bf5022d65af479a200": {
+        "title": "AI短剧，苦等一个《狂飙》",
+        "link": "https://www.tmtpost.com/7942686.html",
+        "published_date": "Mon, 06 Apr 2026 09:10:00 GMT",
+        "first_seen": "2026-04-06T09:13:48.982055"
+      },
+      "faebdd562cece9cdfb3d8a3fb777bde57fea5e062f2735aab2d254dc9e3867ae": {
+        "title": "利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？",
+        "link": "https://www.tmtpost.com/7942770.html",
+        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-06T09:13:48.982057"
       }
     },
     "Finance": {
@@ -4707,6 +4707,18 @@
         "link": "https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a",
         "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-06T06:56:07.631802"
+      },
+      "f657d52ac937d890b0104bfe8415dd1be91303cd8a2850a9bbf3d9692d260f51": {
+        "title": "Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness",
+        "link": "https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-06T09:13:49.017569"
+      },
+      "f54df2a8f2224e4033d668ccaa8576551c41ba5b6358345742cee728055cfcf6": {
+        "title": "Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home",
+        "link": "https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Apr 2026 08:58:00 GMT",
+        "first_seen": "2026-04-06T09:13:49.017575"
       }
     },
     "Ai": {
@@ -6040,8 +6052,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-06T06:55:56.025073",
-    "Finance": "2026-04-06T06:56:07.631805",
+    "Technology": "2026-04-06T09:13:48.982059",
+    "Finance": "2026-04-06T09:13:49.017578",
     "Ai": "2026-04-06T06:56:07.768560"
   }
 }
