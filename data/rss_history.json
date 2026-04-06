@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3eb48c804885deb584759f23233f649de5f0cf9354d6dc8ca174c759a00d4da0": {
-        "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
-        "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 07 Mar 2026 17:48:00 GMT",
-        "first_seen": "2026-03-07T23:25:32.353441"
-      },
-      "5d3a6647bf757182ee27bacac1f75bd3f7f8f1f8bb0a45f6476d140d3aba6b41": {
-        "title": "林俊旸：阿里千问的“吹哨人”？",
-        "link": "https://www.tmtpost.com/7903836.html",
-        "published_date": "Sat, 07 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-07T23:25:32.353449"
-      },
-      "0e82fe363af667acddc08c280e008b59d52569fd4465faf676929f8de40d277f": {
-        "title": "对话以心医疗王莉：全球医疗Top 20里应有中企一席之地",
-        "link": "https://www.tmtpost.com/7904137.html",
-        "published_date": "Sat, 07 Mar 2026 21:40:00 GMT",
-        "first_seen": "2026-03-07T23:25:32.353451"
-      },
-      "6b32582958e4fc31c5f1c19ed9a1a26c830a46bdf45c7d849c9f6e9b3be0afcb": {
-        "title": "存储涨价后遗症来了",
-        "link": "https://www.tmtpost.com/7903062.html",
-        "published_date": "Sat, 07 Mar 2026 09:10:00 GMT",
-        "first_seen": "2026-03-07T23:25:32.353453"
-      },
-      "969a073c423a41fc8e448cf77059b35861c2191d230a01342c82145b1a359a0a": {
-        "title": "SeeDance2.0降智，字节却成为硅谷门外的“野蛮人”？",
-        "link": "https://www.tmtpost.com/7903649.html",
-        "published_date": "Sat, 07 Mar 2026 14:19:00 GMT",
-        "first_seen": "2026-03-07T23:25:32.353455"
-      },
       "871c3ae033f310562a63e0b7c73876bed36d850ea86089a3572d632799173b0d": {
         "title": "【数智周报】 OpenAI发布GPT-5.4及GPT-5.4 Pro模型；千问大模型技术负责人离职，组织架构调整在即；Claude登顶美区App Store，用户力挺Anthropic；",
         "link": "https://www.tmtpost.com/7904009.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7942770.html",
         "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
         "first_seen": "2026-04-06T09:13:48.982057"
+      },
+      "57bfd0b0c390f6d8abfbee5e59e2b53db783c4c39c1ffbae9bec5b32f1da2a52": {
+        "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
+        "link": "https://www.tmtpost.com/7942349.html",
+        "published_date": "Tue, 07 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-06T23:40:35.672640"
+      },
+      "b685b9993d6b2d2cb613c05bd49a54509d0a10464c792a5f63f64960ee98480d": {
+        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
+        "link": "https://www.tmtpost.com/7942848.html",
+        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
+        "first_seen": "2026-04-06T23:40:35.672648"
+      },
+      "e0abd2fb6111cb7cc2b1c2d97dabb8d6526587bc69649f02076c77766ec6cdcf": {
+        "title": "有道龙虾 LobsterAI 的养成与实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-06T23:40:35.672651"
+      },
+      "e851464e49dfd70896ad681888ff367346bc8aef5bf53badd02f3ed8c71debc7": {
+        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
+        "link": "https://sspai.com/post/108294",
+        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
+        "first_seen": "2026-04-06T23:40:35.672652"
+      },
+      "c4e03e9fa7fc35418046c2cd6d93d92de8518cc3b83160a96ce67c14be395251": {
+        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
+        "link": "https://www.tmtpost.com/7942741.html",
+        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
+        "first_seen": "2026-04-06T23:40:35.672654"
       }
     },
     "Finance": {
-      "052f2c3a19a64572c9995a19c00d0ae938bc66af9f05478f75e2dc968cfe4934": {
-        "title": "A week of war in charts: the impact on the US",
-        "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
-        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-07T23:25:44.934468"
-      },
-      "6b5813319cb2a63406743c936209a6beec1c035f2eb13abb5eb9ddb34bbd8247": {
-        "title": "US faced with few good options to tamp down surging oil prices",
-        "link": "https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842",
-        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-07T23:25:44.934474"
-      },
-      "d7bb42c052aa5ef2abe506d3f14ceadd9c00fd6cd18083658b1e8f4d0a036d56": {
-        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
-        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
-        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
-        "first_seen": "2026-03-07T23:25:44.934476"
-      },
-      "d3ace7647c64a9b56c18a7e79111f4e08644fc830e2378b2e418a53626891a48": {
-        "title": "The cost of healthcare in retirement keeps getting scarier",
-        "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
-        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
-        "first_seen": "2026-03-07T23:25:44.934478"
-      },
-      "bc351a3519dc68f999147da5d3b127cf7c1731ca3c077f61eed8f6fc24ca965b": {
-        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
-        "published_date": "Sat, 07 Mar 2026 22:14:00 GMT",
-        "first_seen": "2026-03-07T23:25:44.934479"
-      },
       "4305453d5f15e44ec4498a027d636841db524ecf8c27bebfb84df77415a9679b": {
         "title": "Trump hits out at Starmer over UK reluctance to support Iran attacks",
         "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
@@ -4719,15 +4689,39 @@
         "link": "https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories",
         "published_date": "Mon, 06 Apr 2026 08:58:00 GMT",
         "first_seen": "2026-04-06T09:13:49.017575"
+      },
+      "c10feed48cb6631e23a84fee26ef65c29a5b87711eb9de0ee405754ffc8a098c": {
+        "title": "Jamie Dimon warns private credit losses will be larger than feared",
+        "link": "https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3",
+        "published_date": "Mon, 06 Apr 2026 10:03:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.003867"
+      },
+      "ca990b9b7a5190a755d938a2814b8d0e8118f1bf8701ec856e1518ebf61ca2ec": {
+        "title": "Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.",
+        "link": "https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Apr 2026 23:33:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.003874"
+      },
+      "73d1b6a20da8f9892534f17a127ac4708cd69c86dbe5c8152c0565318d469a16": {
+        "title": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
+        "link": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Apr 2026 21:48:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.003876"
+      },
+      "64f9c2b7c37dfd28f500fbf6dabbe5469447fab6bac6ac98a4121b0c5c9cb879": {
+        "title": "US health insurer shares jump as Trump administration boosts Medicare payments",
+        "link": "https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb",
+        "published_date": "Mon, 06 Apr 2026 23:09:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.003877"
+      },
+      "841defa6a005bce6ad7bea7e6b98e08dba72f76e7f2016e85f6c279f028ec88b": {
+        "title": "3 factors that could get software stocks going again after a brutal stretch",
+        "link": "https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Apr 2026 19:18:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.003879"
       }
     },
     "Ai": {
-      "5d4882c651cfa9f45330ca6802554ac6020dd8ba713e90b2c73a17ffc510ef0a": {
-        "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
-        "link": "https://www.qbitai.com/2026/03/384637.html",
-        "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
-        "first_seen": "2026-03-07T23:25:45.078209"
-      },
       "93eb54266fe600d85d2e3455bedacc05a4f9874100409430355abd12a30cce70": {
         "title": "2026-03-08日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-08/",
@@ -6047,13 +6041,25 @@
         "link": "https://www.qbitai.com/2026/04/396675.html",
         "published_date": "Mon, 06 Apr 2026 05:04:00 GMT",
         "first_seen": "2026-04-06T06:56:07.768559"
+      },
+      "902bbb14aa3711fef269713c102ae6c53599ffd28fc82af69953efb5f873efa5": {
+        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "link": "https://www.qbitai.com/2026/04/396863.html",
+        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.153486"
+      },
+      "f5134f26edf591f047e181ac91c1b70efd7dfddfe1cc4b377c878cd9e8714af0": {
+        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "link": "https://www.qbitai.com/2026/04/396841.html",
+        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
+        "first_seen": "2026-04-06T23:40:54.153493"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-06T09:13:48.982059",
-    "Finance": "2026-04-06T09:13:49.017578",
-    "Ai": "2026-04-06T06:56:07.768560"
+    "Technology": "2026-04-06T23:40:35.672657",
+    "Finance": "2026-04-06T23:40:54.003882",
+    "Ai": "2026-04-06T23:40:54.153496"
   }
 }

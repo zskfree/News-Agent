@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 09:13
+**最后更新时间**: 2026-04-06 23:40
+
+---
+
+## 🆕 最新更新 (2026-04-06 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.](https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 23:33
+
+#### [Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts](https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:22
+
+#### [Here’s the somewhat surprising stock that will soon join the S&P 500](https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:02
+
+#### [As stocks approach a true comeback, here’s where investors can find the richest opportunities](https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:00
+
+#### [A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran](https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:48
+
+#### [‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?](https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:30
+
+#### [Strait of Hormuz sees increased ship traffic ahead of Trump’s deadline. Here’s why oil prices are not budging.](https://www.marketwatch.com/story/strait-of-hormuz-sees-increased-ship-traffic-ahead-of-trumps-deadline-heres-why-oil-prices-are-not-budging-25a8c2f2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:04
+
+#### [Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter](https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 20:35
+
+#### [3 factors that could get software stocks going again after a brutal stretch](https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 19:18
+
+#### [Americans are increasingly saying they won’t pay their taxes this year as a political protest. Here’s what could happen to them.](https://www.marketwatch.com/story/americans-are-increasingly-saying-they-wont-pay-their-taxes-this-year-as-a-political-protest-heres-what-could-happen-to-them-c0a3563c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 18:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US health insurer shares jump as Trump administration boosts Medicare payments](https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb)
+**发布时间**: 2026-04-06 23:09
+
+#### [Iran’s top military command says Trump’s threats against infrastructure are ‘delusional’](https://www.ft.com/content/43f8ea8a-d8a9-444c-82c5-8a0358c948ed)
+**发布时间**: 2026-04-06 22:47
+
+#### [Trump says US could destroy Iran ‘in one night’ as he demands opening of Hormuz](https://www.ft.com/content/35346eaf-0869-4706-8ebb-2d171e15266f)
+**发布时间**: 2026-04-06 22:30
+
+#### [UK to host meeting on safe passage through the strait after war](https://www.ft.com/content/8a86004e-c1c2-4c58-aa38-4e77b7650960)
+**发布时间**: 2026-04-06 20:59
+
+#### [The UK is turning the energy crisis into a political mess](https://www.ft.com/content/29614329-0009-44a8-958d-9076492cfde7)
+**发布时间**: 2026-04-06 16:42
+
+#### [How Europe made Viktor Orbán](https://www.ft.com/content/e04b3228-5199-4df7-b5ef-d3540f12ad2a)
+**发布时间**: 2026-04-06 16:12
+
+#### [Sales of used EVs surge in US as petrol prices pass $4 a gallon](https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2)
+**发布时间**: 2026-04-06 11:20
+
+#### [Jamie Dimon warns private credit losses will be larger than feared](https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3)
+**发布时间**: 2026-04-06 10:03
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 09:13:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 09:13:48 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:40:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药</title>
-      <link>https://www.tmtpost.com/7942749.html</link>
-      <description>&lt;![CDATA[AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 15:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942749.html</guid>
+      <title>【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶</title>
+      <link>https://www.tmtpost.com/7942349.html</link>
+      <description>&lt;![CDATA[【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942349.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自动驾驶优化：从复杂性到实时工程</title>
-      <link>https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[自动驾驶优化：从复杂性到实时工程]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微信小游戏开了5000万的口子：平台到底在补贴谁？</title>
+      <link>https://www.tmtpost.com/7942848.html</link>
+      <description>&lt;![CDATA[微信小游戏开了5000万的口子：平台到底在补贴谁？]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942848.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67</link>
-      <description>&lt;![CDATA[Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67</guid>
+      <title>有道龙虾 LobsterAI 的养成与实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[有道龙虾 LobsterAI 的养成与实践｜QCon北京]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI短剧，苦等一个《狂飙》</title>
-      <link>https://www.tmtpost.com/7942686.html</link>
-      <description>&lt;![CDATA[AI短剧，苦等一个《狂飙》]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 09:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942686.html</guid>
+      <title>App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图</title>
+      <link>https://sspai.com/post/108294</link>
+      <description>&lt;![CDATA[App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108294</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？</title>
-      <link>https://www.tmtpost.com/7942770.html</link>
-      <description>&lt;![CDATA[利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 15:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942770.html</guid>
+      <title>狂卖400万瓶，“假洋牌”优思益让中产集体破防了</title>
+      <link>https://www.tmtpost.com/7942741.html</link>
+      <description>&lt;![CDATA[狂卖400万瓶，“假洋牌”优思益让中产集体破防了]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 22:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942741.html</guid>
       <category>Technology</category>
     </item>
   </channel>

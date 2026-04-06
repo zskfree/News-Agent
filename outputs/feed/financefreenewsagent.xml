@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 09:13:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 09:13:49 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:40:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness</title>
-      <link>https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories</guid>
+      <title>Jamie Dimon warns private credit losses will be larger than feared</title>
+      <link>https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3</link>
+      <description>&lt;![CDATA[Jamie Dimon warns private credit losses will be larger than feared]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home</title>
-      <link>https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</guid>
+      <title>Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.</title>
+      <link>https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 23:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran</title>
+      <link>https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 21:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US health insurer shares jump as Trump administration boosts Medicare payments</title>
+      <link>https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb</link>
+      <description>&lt;![CDATA[US health insurer shares jump as Trump administration boosts Medicare payments]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 23:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>3 factors that could get software stocks going again after a brutal stretch</title>
+      <link>https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[3 factors that could get software stocks going again after a brutal stretch]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
