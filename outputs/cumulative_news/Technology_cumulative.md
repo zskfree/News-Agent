@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-05 23:38
+**最后更新时间**: 2026-04-06 06:55
+
+---
+
+## 🆕 最新更新 (2026-04-06 06:55)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 时代的架构治理](https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-06 10:00
+
+#### [有道龙虾 LobsterAI 的养成与实践｜QCon北京](https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-06 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenAI IPO前夜：CFO说不，COO被调走](https://www.tmtpost.com/7942711.html)
+**发布时间**: 2026-04-06 09:42
+
+#### [AI短剧，苦等一个《狂飙》](https://www.tmtpost.com/7942686.html)
+**发布时间**: 2026-04-06 09:10
+
+#### [满地小板凳](https://www.tmtpost.com/7942361.html)
+**发布时间**: 2026-04-06 08:53
+
+#### [大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局](https://www.tmtpost.com/7942393.html)
+**发布时间**: 2026-04-06 08:45
+
+#### [“东方魔水”健力宝，被小甜水们挤下货架？](https://www.tmtpost.com/7942429.html)
+**发布时间**: 2026-04-06 08:36
+
+#### [易烊千玺，给字节划了条红线](https://www.tmtpost.com/7942426.html)
+**发布时间**: 2026-04-06 08:31
+
+#### [智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线](https://www.tmtpost.com/7940504.html)
+**发布时间**: 2026-04-06 08:19
+
+#### [优思益塌房始末：明星集体道歉背后，假洋牌与代工厂的真相](https://www.tmtpost.com/7942451.html)
+**发布时间**: 2026-04-06 08:07
+
+#### [别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？](https://www.tmtpost.com/7942561.html)
+**发布时间**: 2026-04-06 08:01
 
 ---
 

@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-05 23:38
+**最后更新时间**: 2026-04-06 06:55
+
+---
+
+## 🆕 最新更新 (2026-04-06 06:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Maga stands by Trump on Iran — for now](https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a)
+**发布时间**: 2026-04-06 04:00
+
+#### [Why this oil shock is different](https://www.ft.com/content/2b6afabf-6193-4339-b084-a0fb927a8f1d)
+**发布时间**: 2026-04-06 04:00
+
+#### [Let technology explore what the voters really want](https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca)
+**发布时间**: 2026-04-06 04:00
+
+#### [Jones steps back from Downing St role as Romeo’s influence grows](https://www.ft.com/content/5285ced7-401a-4e04-beab-e725bdf1928b)
+**发布时间**: 2026-04-06 04:00
+
+#### [Bank of England divided over how to tackle energy-induced inflation](https://www.ft.com/content/93040200-0a51-40d0-b7b7-355fd592331d)
+**发布时间**: 2026-04-06 04:00
+
+#### [EU warns capitals against turning energy crunch into fiscal crisis](https://www.ft.com/content/cee4cbc8-95ff-4c10-83fa-a5bdb1833baf)
+**发布时间**: 2026-04-06 04:00
+
+#### [Private equity buyouts slump as AI fears and war dent dealmaking](https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf)
+**发布时间**: 2026-04-06 04:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2026 23:38:33 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 06:55:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 06:55:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ESLint v10 发布，但有开发者已经在考虑换 Biome 了</title>
-      <link>https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ESLint v10 发布，但有开发者已经在考虑换 Biome 了]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 21:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI IPO前夜：CFO说不，COO被调走</title>
+      <link>https://www.tmtpost.com/7942711.html</link>
+      <description>&lt;![CDATA[OpenAI IPO前夜：CFO说不，COO被调走]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 09:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942711.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排</title>
-      <link>https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 21:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局</title>
+      <link>https://www.tmtpost.com/7942393.html</link>
+      <description>&lt;![CDATA[大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942393.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护</title>
-      <link>https://sspai.com/post/69901</link>
-      <description>&lt;![CDATA[愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/69901</guid>
+      <title>智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线</title>
+      <link>https://www.tmtpost.com/7940504.html</link>
+      <description>&lt;![CDATA[智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940504.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>甘李药业PROTA新药首例给药，剑指前列腺癌蓝海</title>
-      <link>https://www.tmtpost.com/7942106.html</link>
-      <description>&lt;![CDATA[甘李药业PROTA新药首例给药，剑指前列腺癌蓝海]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942106.html</guid>
+      <title>AI 时代的架构治理</title>
+      <link>https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 时代的架构治理]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>笑死，这个开源 skill 专门炼化你的离职同事。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e</link>
-      <description>&lt;![CDATA[笑死，这个开源 skill 专门炼化你的离职同事。]]&gt;</description>
-      <pubDate>Sun, 05 Apr 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e</guid>
+      <title>别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？</title>
+      <link>https://www.tmtpost.com/7942561.html</link>
+      <description>&lt;![CDATA[别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7942561.html</guid>
       <category>Technology</category>
     </item>
   </channel>

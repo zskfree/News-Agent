@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "93ae4f5326ec17859396cca271312e9ad9f4a31305b8fd417589f09f533404a2": {
-        "title": "进入2026年，每天至少有5亿元砸向具身智能",
-        "link": "https://www.tmtpost.com/7903008.html",
-        "published_date": "Sat, 07 Mar 2026 08:50:00 GMT",
-        "first_seen": "2026-03-07T05:38:36.506375"
-      },
-      "9aba97909e409f1a49b2f0ca7873f744bc5fe0f5e276404a842781fca751451a": {
-        "title": "AI风向标：腾讯向左，微信向右",
-        "link": "https://www.tmtpost.com/7903129.html",
-        "published_date": "Sat, 07 Mar 2026 09:24:00 GMT",
-        "first_seen": "2026-03-07T05:38:36.506384"
-      },
-      "4a5816a3dfa82c7db2eae66363d7f04713d7f401d91186b8366149817202831a": {
-        "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
-        "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 07 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-07T05:38:36.506387"
-      },
-      "e9bb4cc70fa77837e04e6454c443d2dfcf02654915ff21f4e8b267852a5108ae": {
-        "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
-        "link": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 07 Mar 2026 10:17:00 GMT",
-        "first_seen": "2026-03-07T05:38:36.506388"
-      },
-      "3e64a125226a8d2015956ee80bcd5057e9eaf5427c24afd77c4d892d65677fa5": {
-        "title": "AI漫剧的终局是游戏？",
-        "link": "https://www.tmtpost.com/7903510.html",
-        "published_date": "Sat, 07 Mar 2026 10:03:00 GMT",
-        "first_seen": "2026-03-07T05:38:36.506390"
-      },
       "9f908ce6c934c55b2638136d9261fc802de8901c5c63a3ba493fd8f47a934b52": {
         "title": "OpenAI和英伟达，终究还是到了这一步｜AGI焦点",
         "link": "https://www.tmtpost.com/7903146.html",
@@ -2701,39 +2671,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532806&idx=1&sn=6e4666b2eef514f3f053794b36cc031e",
         "published_date": "Sun, 05 Apr 2026 10:13:00 GMT",
         "first_seen": "2026-04-05T23:38:33.797923"
+      },
+      "441e642bb2d35cf9cf4fe0f6a0d3d39548701c26d6187e79cf36d6b784782846": {
+        "title": "OpenAI IPO前夜：CFO说不，COO被调走",
+        "link": "https://www.tmtpost.com/7942711.html",
+        "published_date": "Mon, 06 Apr 2026 09:42:00 GMT",
+        "first_seen": "2026-04-06T06:55:56.025051"
+      },
+      "184d54d1073d8f3cb7af3af4974d5030a1dadfa41ae642484c17136f01d992fe": {
+        "title": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
+        "link": "https://www.tmtpost.com/7942393.html",
+        "published_date": "Mon, 06 Apr 2026 08:45:00 GMT",
+        "first_seen": "2026-04-06T06:55:56.025064"
+      },
+      "595803eab9a48073f36181c1ca866fb6084c07692c941b6ccef5eb81566d571f": {
+        "title": "智能体上线就翻车？AWS 这款 “质检神器”，帮你把 Agent 稳稳送上生产线",
+        "link": "https://www.tmtpost.com/7940504.html",
+        "published_date": "Mon, 06 Apr 2026 08:19:00 GMT",
+        "first_seen": "2026-04-06T06:55:56.025066"
+      },
+      "7c335b4d1f85f205bf4217ff19830d0adc64ebd411434be73ba78d02611cca4e": {
+        "title": "AI 时代的架构治理",
+        "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-06T06:55:56.025068"
+      },
+      "32cc647ecedaffce47e9f88fd156b1792d5fcab41c86d87468d3d5fa54080098": {
+        "title": "别再迷信伪智能了：为什么系统越买越贵，公司却越来越乱？",
+        "link": "https://www.tmtpost.com/7942561.html",
+        "published_date": "Mon, 06 Apr 2026 08:01:00 GMT",
+        "first_seen": "2026-04-06T06:55:56.025070"
       }
     },
     "Finance": {
-      "19cdf541e14742ea5233a3893e9332257167bff8fcf37cd363a9ad2c025047a3": {
-        "title": "UK lenders raise mortgage rates amid warnings over inflation and energy prices",
-        "link": "https://www.ft.com/content/e178273a-991b-461b-82c6-ccf24c966e31",
-        "published_date": "Sat, 07 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-07T05:38:49.933481"
-      },
-      "610d5fb67ce33d1a30bfac3cbda0a5cc4556bdf0a776bf5ff0e7cb19a86628ee": {
-        "title": "US draws up strict new AI guidelines amid Anthropic clash",
-        "link": "https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb",
-        "published_date": "Sat, 07 Mar 2026 00:02:00 GMT",
-        "first_seen": "2026-03-07T05:38:49.933488"
-      },
-      "2d6e302afc8d7df4375fe7804eb7b890c45d9e5defb349e18d71adac0765dbaf": {
-        "title": "Trump’s war on Iran is spreading. Where does it stop?",
-        "link": "https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a",
-        "published_date": "Sat, 07 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-07T05:38:49.933490"
-      },
-      "fedb3907f55793f658a463208a85b3bc8f8393086c3b442f9a1f22529ba459b0": {
-        "title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
-        "link": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
-        "published_date": "Sat, 07 Mar 2026 01:10:00 GMT",
-        "first_seen": "2026-03-07T05:38:49.933492"
-      },
-      "edcfb5ebeae9b2ef9afb4de71f8a90318a6d9a79e2ad9a014fc7d8f9642b3c2c": {
-        "title": "Explosions rock Tehran’s Mehrabad Airport after apparent strike",
-        "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
-        "published_date": "Sat, 07 Mar 2026 00:37:00 GMT",
-        "first_seen": "2026-03-07T05:38:49.933494"
-      },
       "052f2c3a19a64572c9995a19c00d0ae938bc66af9f05478f75e2dc968cfe4934": {
         "title": "A week of war in charts: the impact on the US",
         "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
@@ -4707,27 +4677,39 @@
         "link": "https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252",
         "published_date": "Sun, 05 Apr 2026 15:30:00 GMT",
         "first_seen": "2026-04-05T23:38:43.469386"
+      },
+      "a4cd45b48b6dc555a8900142e71abea8b08d632ca80c8ad510f1f626cc918b01": {
+        "title": "Bank of England divided over how to tackle energy-induced inflation",
+        "link": "https://www.ft.com/content/93040200-0a51-40d0-b7b7-355fd592331d",
+        "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.631788"
+      },
+      "b25fce4e097cbe920fdfab6205a377703e2177abdd22f34ee9e304b5c29ce8f7": {
+        "title": "Why this oil shock is different",
+        "link": "https://www.ft.com/content/2b6afabf-6193-4339-b084-a0fb927a8f1d",
+        "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.631797"
+      },
+      "7bc5eec411b2c886da22bc84f1452f8442b3bc778ea64805e9607c3b3ec79499": {
+        "title": "EU warns capitals against turning energy crunch into fiscal crisis",
+        "link": "https://www.ft.com/content/cee4cbc8-95ff-4c10-83fa-a5bdb1833baf",
+        "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.631799"
+      },
+      "0144071bcb0698dd2a6a0aaf3653011279dcd590b4245f1547d7dcfed1485578": {
+        "title": "Private equity buyouts slump as AI fears and war dent dealmaking",
+        "link": "https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf",
+        "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.631801"
+      },
+      "dabef0126008b6bc834e6203fedb6ffa4176e785968563a98e091bd938b70ab9": {
+        "title": "Maga stands by Trump on Iran — for now",
+        "link": "https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a",
+        "published_date": "Mon, 06 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.631802"
       }
     },
     "Ai": {
-      "58f69ed272da3762936776e2e7e1d51d9de0aab18f79b5ae1474e44694ea0a0f": {
-        "title": "2026-03-07日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-07/",
-        "published_date": "Sat, 07 Mar 2026 09:35:00 GMT",
-        "first_seen": "2026-03-07T05:38:50.081287"
-      },
-      "3b518d264121ecf3057d2056b2633d18df79ed65ae86deed730e67366368fd6e": {
-        "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
-        "link": "https://www.qbitai.com/2026/03/384623.html",
-        "published_date": "Sat, 07 Mar 2026 04:39:00 GMT",
-        "first_seen": "2026-03-07T05:38:50.081295"
-      },
-      "4d5a7a53a99a9ab9b3df87d4eb6fe2a38e05e8ef1834debbde45081daf2962fb": {
-        "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
-        "link": "https://www.qbitai.com/2026/03/384595.html",
-        "published_date": "Sat, 07 Mar 2026 02:32:00 GMT",
-        "first_seen": "2026-03-07T05:38:50.081297"
-      },
       "5d4882c651cfa9f45330ca6802554ac6020dd8ba713e90b2c73a17ffc510ef0a": {
         "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
         "link": "https://www.qbitai.com/2026/03/384637.html",
@@ -6023,13 +6005,43 @@
         "link": "https://www.qbitai.com/2026/04/396533.html",
         "published_date": "Sun, 05 Apr 2026 08:53:00 GMT",
         "first_seen": "2026-04-05T23:38:43.613222"
+      },
+      "a164f886ee58b4607df45ba2834e15602a039db72a223a48d781d736665be55f": {
+        "title": "2026-04-06日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-06/",
+        "published_date": "Mon, 06 Apr 2026 09:49:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.768546"
+      },
+      "53073bca599ab6bc832cca8d4f25af7765436080588abc827cc6304bbe4bef44": {
+        "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
+        "link": "https://www.qbitai.com/2026/04/396738.html",
+        "published_date": "Mon, 06 Apr 2026 05:35:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.768554"
+      },
+      "5516494023ced318154b02b550eae5da95339b52f82d3e322f60e7cd8110d10e": {
+        "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+        "link": "https://www.qbitai.com/2026/04/396704.html",
+        "published_date": "Mon, 06 Apr 2026 05:23:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.768556"
+      },
+      "7f68da9ee1becc8b119006965bc1cbb8aaeaddad9e154e3a890c4a198a9307ca": {
+        "title": "具身Scaling Law押对了！独角兽新品1小时学会新任务，重复1800次成功率99%",
+        "link": "https://www.qbitai.com/2026/04/396694.html",
+        "published_date": "Mon, 06 Apr 2026 05:17:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.768557"
+      },
+      "f3d5d4f16a5327a25d86495824c82140e319a21b5ba6e523817d2d244efb4709": {
+        "title": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
+        "link": "https://www.qbitai.com/2026/04/396675.html",
+        "published_date": "Mon, 06 Apr 2026 05:04:00 GMT",
+        "first_seen": "2026-04-06T06:56:07.768559"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-05T23:38:33.797925",
-    "Finance": "2026-04-05T23:38:43.469389",
-    "Ai": "2026-04-05T23:38:43.613224"
+    "Technology": "2026-04-06T06:55:56.025073",
+    "Finance": "2026-04-06T06:56:07.631805",
+    "Ai": "2026-04-06T06:56:07.768560"
   }
 }
