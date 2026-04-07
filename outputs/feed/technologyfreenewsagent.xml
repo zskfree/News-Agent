@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 06:21:59 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 09:06:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:07:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效</title>
-      <link>https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关</title>
+      <link>https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</guid>
+      <title>ProxySQL推出多层的版本发布策略</title>
+      <link>https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[ProxySQL推出多层的版本发布策略]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一场机器人黑客松，让具身智能的差距与机会同时显形</title>
-      <link>https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一场机器人黑客松，让具身智能的差距与机会同时显形]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：OpenAI 发布文章探讨 AI 时代的政策建议等</title>
+      <link>https://sspai.com/post/108326</link>
+      <description>&lt;![CDATA[派早报：OpenAI 发布文章探讨 AI 时代的政策建议等]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108326</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>将配置作为控制平面：设计安全可靠的大规模系统</title>
-      <link>https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[将配置作为控制平面：设计安全可靠的大规模系统]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>力控与运控的融合，共话具身智能“小脑”进化的破局之道</title>
+      <link>https://www.tmtpost.com/7941651.html</link>
+      <description>&lt;![CDATA[力控与运控的融合，共话具身智能“小脑”进化的破局之道]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941651.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报</title>
-      <link>https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Token浪潮之下，中国互联网座次重排</title>
+      <link>https://www.tmtpost.com/7943462.html</link>
+      <description>&lt;![CDATA[Token浪潮之下，中国互联网座次重排]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943462.html</guid>
       <category>Technology</category>
     </item>
   </channel>

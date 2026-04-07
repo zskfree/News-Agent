@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 06:21
+**最后更新时间**: 2026-04-07 09:06
+
+---
+
+## 🆕 最新更新 (2026-04-07 09:06)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Fire Country’ star Diane Farr lists her longtime artist’s retreat in Los Angeles for $2.8 million](https://www.marketwatch.com/story/fire-country-stardiane-farr-lists-her-longtime-artists-retreat-in-los-angeles-for-2-8-million-45b9fb1b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 09:02
+
+#### [Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring](https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:36
+
+#### [Is it unethical to use AI in my Airbnb photos to market my property to guests?](https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:33
+
+#### [Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200](https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal](https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b)
+**发布时间**: 2026-04-07 07:17
+
+#### [Europe’s rearmament meets reality: the story of Germany’s failed frigate project](https://www.ft.com/content/124c9dfc-18da-49fa-aab5-6389dce833ae)
+**发布时间**: 2026-04-07 04:00
+
+#### [Markets on edge as Trump’s deadline for Iran deal looms](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-06 23:39
 
 ---
 

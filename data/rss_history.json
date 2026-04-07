@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dd914f05a534dee967fd730f1c84f166265f046f039e08b34202e9fde754986b": {
-        "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
-        "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 08 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.103447"
-      },
-      "25b504021e19c96e380aae83b4a4ab250f5d8d3af5338372081a9f4299d7fcd9": {
-        "title": "30亿花了，核心骨干走了，千问向何处去？",
-        "link": "https://www.tmtpost.com/7904106.html",
-        "published_date": "Sun, 08 Mar 2026 10:52:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.103455"
-      },
-      "ebd5b106970f226935aa5e619e95fd1d53c7907e43456deedbecffb49f954936": {
-        "title": "多模态+Agent 在培训与教育领域的应用｜QCon北京",
-        "link": "https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 08 Mar 2026 10:05:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.103458"
-      },
-      "9dc3e7fd04a4f30e748e573cfc2846018e637ba37edc98c01084418026653d15": {
-        "title": "从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集",
-        "link": "http://www.huxiu.com/article/4840071.html?f=wangzhan",
-        "published_date": "Sun, 08 Mar 2026 12:52:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.103460"
-      },
-      "34af8f044585f7905b208534250ce06622736ac139d38ed8a815ee638e513099": {
-        "title": "美伊冲突如何引爆全球能源危机？光储企业将迎来怎样的历史机遇？",
-        "link": "https://www.tmtpost.com/7904189.html",
-        "published_date": "Sun, 08 Mar 2026 11:44:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.103461"
-      },
       "bb37428601c9592cd524b87abacb478509383fe607cabf2bf3fcf93ad6f7c80e": {
         "title": "Science｜攻克AD现曙光！美国科学家开发新型CAR-A疗法",
         "link": "https://www.tmtpost.com/7904513.html",
@@ -2701,15 +2671,39 @@
         "link": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 07 Apr 2026 10:29:00 GMT",
         "first_seen": "2026-04-07T06:21:59.156295"
+      },
+      "156e28441c400a7c5eb115119f19bf54b7c4cc0e1c606cca3a12974a0a62d139": {
+        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
+        "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.488288"
+      },
+      "4598d6bb802c682bd00eb421918211a6011b81ad17a5c7ecf19b2daf91a15e49": {
+        "title": "ProxySQL推出多层的版本发布策略",
+        "link": "https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.488300"
+      },
+      "0309f67be8806e9952668d83e25223e07377106c90f566743041be16c822b125": {
+        "title": "派早报：OpenAI 发布文章探讨 AI 时代的政策建议等",
+        "link": "https://sspai.com/post/108326",
+        "published_date": "Tue, 07 Apr 2026 08:18:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.488303"
+      },
+      "39307ef7f4be8bb5d2fe86a99722210824232f91bb03c22e8f3ef280c8758400": {
+        "title": "力控与运控的融合，共话具身智能“小脑”进化的破局之道",
+        "link": "https://www.tmtpost.com/7941651.html",
+        "published_date": "Tue, 07 Apr 2026 16:53:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.488306"
+      },
+      "e720f15bf2fdfcc29000d231aa578ee0b45078acbe0371616d1ab552adb10faf": {
+        "title": "Token浪潮之下，中国互联网座次重排",
+        "link": "https://www.tmtpost.com/7943462.html",
+        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.488308"
       }
     },
     "Finance": {
-      "c773a77288423e3b3c835502d308f2a37969c5d8e779051abde0e0b4eb9159fb": {
-        "title": "China signals it wants a Trump visit despite Iran war",
-        "link": "https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb",
-        "published_date": "Sun, 08 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.138245"
-      },
       "9789b989bdee251823957501f25f45f8f863c5ebb77b7f09470533482a3d58e0": {
         "title": "Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader",
         "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
@@ -4743,27 +4737,39 @@
         "link": "https://www.ft.com/content/9632cfaf-2ae1-4768-894f-3b7a0ddf1bea",
         "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-07T06:22:09.106569"
+      },
+      "5c36f19ba44ec40be558e1386fc42c2858bbc0e9f20ec5d1644fb8999fd3d028": {
+        "title": "‘Fire Country’ star Diane Farr lists her longtime artist’s retreat in Los Angeles for $2.8 million",
+        "link": "https://www.marketwatch.com/story/fire-country-stardiane-farr-lists-her-longtime-artists-retreat-in-los-angeles-for-2-8-million-45b9fb1b?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.531289"
+      },
+      "f446f8949f99618dc851ce3c92cd13abed67328357f1e7cb0a5c3a425a56df29": {
+        "title": "Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring",
+        "link": "https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 08:36:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.531297"
+      },
+      "1c426211f2074508cf7a838c7e874a7984e73324f7160f3f9360b52be777b240": {
+        "title": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
+        "link": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 08:33:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.531307"
+      },
+      "ce246de4775940844d75b248cf223c0025b378600cb67268ccfc9e991bf171ef": {
+        "title": "Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200",
+        "link": "https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 08:30:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.531308"
+      },
+      "1011b505e5cd9eb4fa3b35e751b5e39ca342a30c33ee853019e8f06dc320fa67": {
+        "title": "Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal",
+        "link": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
+        "published_date": "Tue, 07 Apr 2026 07:17:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.531310"
       }
     },
     "Ai": {
-      "def81cbde0b9d3829762123cab529a81ddd1aabbbbe35a71b69fa9061ff3bd51": {
-        "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-        "link": "https://www.qbitai.com/2026/03/384728.html",
-        "published_date": "Sun, 08 Mar 2026 07:15:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.282933"
-      },
-      "6c320af277c2fd9994961bf26c554e638712d28d1c963857a13a066939baf389": {
-        "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
-        "link": "https://www.qbitai.com/2026/03/384705.html",
-        "published_date": "Sun, 08 Mar 2026 06:50:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.282940"
-      },
-      "0d81a09820f67f026c9b987b5032ec93df34ff3ec9014f95b4cca05b721ce6ea": {
-        "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
-        "link": "https://www.qbitai.com/2026/03/384646.html",
-        "published_date": "Sun, 08 Mar 2026 06:45:00 GMT",
-        "first_seen": "2026-03-08T08:34:56.282942"
-      },
       "15e2d567f3c22765c827999d760a7211910aff6882c9bfaca70305e5ccab7248": {
         "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
         "link": "https://www.qbitai.com/2026/03/384797.html",
@@ -6101,13 +6107,25 @@
         "link": "https://www.qbitai.com/2026/04/396880.html",
         "published_date": "Tue, 07 Apr 2026 02:15:00 GMT",
         "first_seen": "2026-04-07T06:22:09.245377"
+      },
+      "9d03d4f9264f218470e4f59979019a1fe8e76c7dc1f6db866e848745780f9daa": {
+        "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
+        "link": "https://www.qbitai.com/2026/04/397523.html",
+        "published_date": "Tue, 07 Apr 2026 08:22:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.686063"
+      },
+      "27c6ec93f1b9f0675330204d1bd41b02498558522a7cad30bf3efcdaf0ec8dfd": {
+        "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
+        "link": "https://www.qbitai.com/2026/04/397517.html",
+        "published_date": "Tue, 07 Apr 2026 07:34:00 GMT",
+        "first_seen": "2026-04-07T09:07:10.686071"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-07T06:21:59.156297",
-    "Finance": "2026-04-07T06:22:09.106584",
-    "Ai": "2026-04-07T06:22:09.245378"
+    "Technology": "2026-04-07T09:07:10.488310",
+    "Finance": "2026-04-07T09:07:10.531312",
+    "Ai": "2026-04-07T09:07:10.686073"
   }
 }
