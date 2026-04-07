@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 23:40
+**最后更新时间**: 2026-04-07 06:21
+
+---
+
+## 🆕 最新更新 (2026-04-07 06:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Artemis II astronauts head back to Earth after record-breaking Moon trip](https://www.ft.com/content/e4f7ad52-2f3d-462a-a785-f4a675666073)
+**发布时间**: 2026-04-07 04:14
+
+#### [US counts cost of equipment destroyed in Iran war](https://www.ft.com/content/9632cfaf-2ae1-4768-894f-3b7a0ddf1bea)
+**发布时间**: 2026-04-07 04:00
+
+#### [The future of global trade won’t depend on the Strait of Hormuz](https://www.ft.com/content/2c895663-16d5-4b7a-8c9b-45204c362c84)
+**发布时间**: 2026-04-07 04:00
+
+#### [The internet is deciding what to forget](https://www.ft.com/content/e1c3fd8e-b7c7-4582-a63b-f7b1a2f2bc93)
+**发布时间**: 2026-04-07 04:00
+
+#### [JPMorgan to build Canary Wharf’s tallest tower after City airport approval](https://www.ft.com/content/e0734db0-f8af-4157-9576-d8b52329629f)
+**发布时间**: 2026-04-07 04:00
+
+#### [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a)
+**发布时间**: 2026-04-07 04:00
+
+#### [Anthropic in chips deals with Google and Broadcom worth hundreds of billions](https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a)
+**发布时间**: 2026-04-07 00:46
+
+#### [Iran’s top military command calls Trump’s threats against infrastructure ‘delusional’](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-06 23:39
 
 ---
 

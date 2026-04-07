@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 23:40:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 23:40:35 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 06:21:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶</title>
-      <link>https://www.tmtpost.com/7942349.html</link>
-      <description>&lt;![CDATA[【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942349.html</guid>
+      <title>Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效</title>
+      <link>https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微信小游戏开了5000万的口子：平台到底在补贴谁？</title>
-      <link>https://www.tmtpost.com/7942848.html</link>
-      <description>&lt;![CDATA[微信小游戏开了5000万的口子：平台到底在补贴谁？]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942848.html</guid>
+      <title>从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>有道龙虾 LobsterAI 的养成与实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[有道龙虾 LobsterAI 的养成与实践｜QCon北京]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一场机器人黑客松，让具身智能的差距与机会同时显形</title>
+      <link>https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一场机器人黑客松，让具身智能的差距与机会同时显形]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图</title>
-      <link>https://sspai.com/post/108294</link>
-      <description>&lt;![CDATA[App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 20:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108294</guid>
+      <title>将配置作为控制平面：设计安全可靠的大规模系统</title>
+      <link>https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[将配置作为控制平面：设计安全可靠的大规模系统]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>狂卖400万瓶，“假洋牌”优思益让中产集体破防了</title>
-      <link>https://www.tmtpost.com/7942741.html</link>
-      <description>&lt;![CDATA[狂卖400万瓶，“假洋牌”优思益让中产集体破防了]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 22:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7942741.html</guid>
+      <title>美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报</title>
+      <link>https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

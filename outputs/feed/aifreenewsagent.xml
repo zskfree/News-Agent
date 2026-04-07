@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 23:40:54 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 06:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 06:22:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26</title>
-      <link>https://www.qbitai.com/2026/04/396863.html</link>
-      <description>&lt;![CDATA[让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396863.html</guid>
+      <title>2026-04-07日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-07/</link>
+      <description>&lt;![CDATA[2026-04-07日刊]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-07/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>北大团队改造DeepSeek注意力，速度快四倍还不丢精度</title>
-      <link>https://www.qbitai.com/2026/04/396841.html</link>
-      <description>&lt;![CDATA[北大团队改造DeepSeek注意力，速度快四倍还不丢精度]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396841.html</guid>
+      <title>下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问</title>
+      <link>https://www.qbitai.com/2026/04/396955.html</link>
+      <description>&lt;![CDATA[下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 04:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396955.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军</title>
+      <link>https://www.qbitai.com/2026/04/396950.html</link>
+      <description>&lt;![CDATA[持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396950.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好</title>
+      <link>https://www.qbitai.com/2026/04/396890.html</link>
+      <description>&lt;![CDATA[23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 02:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396890.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Ilya曝光70页OpenAI绝密文件</title>
+      <link>https://www.qbitai.com/2026/04/396880.html</link>
+      <description>&lt;![CDATA[Ilya曝光70页OpenAI绝密文件]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 02:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/396880.html</guid>
       <category>Ai</category>
     </item>
   </channel>

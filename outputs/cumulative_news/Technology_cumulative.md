@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 23:40
+**最后更新时间**: 2026-04-07 06:21
+
+---
+
+## 🆕 最新更新 (2026-04-07 06:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京](https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 14:03
+
+#### [ProxySQL推出多层的版本发布策略](https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 12:00
+
+#### [2026龙虾饲养手册：21套“养虾”方案横评，从个人到企业怎么选](https://www.infoq.cn/article/ePtWEQZ7vkpqTjOlsMHU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 11:59
+
+#### [Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效](https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 11:41
+
+#### [在拥有5亿用户的应用中落地SwiftUI的经验与教训](https://www.infoq.cn/article/7p4EA1l5a5g9jfTiWQmk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 11:00
+
+#### [一场机器人黑客松，让具身智能的差距与机会同时显形](https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 10:30
+
+#### [美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报](https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 10:29
+
+#### [面壁智能官宣新一轮数亿元融资，国家队与产业资本同时下注](https://www.infoq.cn/article/dOQ5rL2j5Fw1JV2OW8ji?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 10:22
+
+#### [将配置作为控制平面：设计安全可靠的大规模系统](https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [FAB厂的新打法，才刚刚开始](https://www.tmtpost.com/7943459.html)
+**发布时间**: 2026-04-07 13:10
+
+#### [“贪杯”的名仁苏打水，下不了酒桌？](https://www.tmtpost.com/7943338.html)
+**发布时间**: 2026-04-07 11:21
+
+#### [钉钉换标，陈航再闹天宫](https://www.tmtpost.com/7942952.html)
+**发布时间**: 2026-04-07 11:21
+
+#### [看了植物医生的营销，雷军也要自愧不如](https://www.tmtpost.com/7942928.html)
+**发布时间**: 2026-04-07 11:21
+
+#### [危机公关“沉默疗法”，2026年彻底失效](https://www.tmtpost.com/7943393.html)
+**发布时间**: 2026-04-07 11:21
+
+#### [7个顶级AI集体撒谎，为救“同伴”篡改文件、偷运数据](https://www.tmtpost.com/7941675.html)
+**发布时间**: 2026-04-07 10:55
+
+#### [中国内需提振，需要新一轮“社会编程”](https://www.tmtpost.com/7943365.html)
+**发布时间**: 2026-04-07 09:51
+
+#### [不能只算token账](https://www.tmtpost.com/7943003.html)
+**发布时间**: 2026-04-07 09:32
+
+#### [茶饮六小龙：蜜雪暴赚、霸王失速、奈雪还在亏](https://www.tmtpost.com/7943386.html)
+**发布时间**: 2026-04-07 09:25
+
+#### [铃声响起之后：年轻人为什么越来越难接起一通电话](https://www.tmtpost.com/7943039.html)
+**发布时间**: 2026-04-07 09:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [互联网，电子游戏与屏幕之后的个人健康](https://sspai.com/post/108322)
+**发布时间**: 2026-04-07 11:26
+
+#### [派早报：OpenAI 发布文章探讨 AI 时代的政策建议等](https://sspai.com/post/108326)
+**发布时间**: 2026-04-07 08:18
 
 ---
 
