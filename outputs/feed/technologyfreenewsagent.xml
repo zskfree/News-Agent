@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Apr 2026 09:06:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 09:07:10 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 23:41:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关</title>
-      <link>https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散</title>
+      <link>https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ProxySQL推出多层的版本发布策略</title>
-      <link>https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ProxySQL推出多层的版本发布策略]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美国AI三巨头围剿模型蒸馏，中国公司终要大考</title>
+      <link>https://www.tmtpost.com/7944117.html</link>
+      <description>&lt;![CDATA[美国AI三巨头围剿模型蒸馏，中国公司终要大考]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 21:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7944117.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：OpenAI 发布文章探讨 AI 时代的政策建议等</title>
-      <link>https://sspai.com/post/108326</link>
-      <description>&lt;![CDATA[派早报：OpenAI 发布文章探讨 AI 时代的政策建议等]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108326</guid>
+      <title>半导体设备国产化，进入下半场</title>
+      <link>https://www.tmtpost.com/7943468.html</link>
+      <description>&lt;![CDATA[半导体设备国产化，进入下半场]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943468.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>力控与运控的融合，共话具身智能“小脑”进化的破局之道</title>
-      <link>https://www.tmtpost.com/7941651.html</link>
-      <description>&lt;![CDATA[力控与运控的融合，共话具身智能“小脑”进化的破局之道]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7941651.html</guid>
+      <title>7个顶级AI集体撒谎，为救“同伴”篡改文件、偷运数据</title>
+      <link>https://www.tmtpost.com/7941675.html</link>
+      <description>&lt;![CDATA[7个顶级AI集体撒谎，为救“同伴”篡改文件、偷运数据]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941675.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token浪潮之下，中国互联网座次重排</title>
-      <link>https://www.tmtpost.com/7943462.html</link>
-      <description>&lt;![CDATA[Token浪潮之下，中国互联网座次重排]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7943462.html</guid>
+      <title>【钛晨报】李强签署国务院令，公布《国务院关于产业链供应链安全的规定》；中国央行连续第17个月增持黄金；“GPT-4o之母”宣布离职OpenAI</title>
+      <link>https://www.tmtpost.com/7944317.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强签署国务院令，公布《国务院关于产业链供应链安全的规定》；中国央行连续第17个月增持黄金；“GPT-4o之母”宣布离职OpenAI]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7944317.html</guid>
       <category>Technology</category>
     </item>
   </channel>

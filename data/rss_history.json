@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bb37428601c9592cd524b87abacb478509383fe607cabf2bf3fcf93ad6f7c80e": {
-        "title": "Science｜攻克AD现曙光！美国科学家开发新型CAR-A疗法",
-        "link": "https://www.tmtpost.com/7904513.html",
-        "published_date": "Sun, 08 Mar 2026 19:02:00 GMT",
-        "first_seen": "2026-03-08T23:28:16.577111"
-      },
-      "9e3d3946736c14f2b1c310c83809265e0cad8bed19714daad3dd87e7d6acd7f6": {
-        "title": "MySQL 9.6更改外键约束及级联处理机制",
-        "link": "https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 08 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-08T23:28:16.577119"
-      },
-      "78d3ae7b4937c41a99453198fd935a8a9fbecd2080717d4c4502d4c525d32c7d": {
-        "title": "小米们开始下场“养虾”，豆包手机应如何接招？",
-        "link": "https://www.tmtpost.com/7904093.html",
-        "published_date": "Sun, 08 Mar 2026 10:30:00 GMT",
-        "first_seen": "2026-03-08T23:28:16.577122"
-      },
-      "2b75f5c21789b42c40026bce732d89f1dcf9244ab54cba1507da7e9eb6e7faed": {
-        "title": "6 个今日登上 GitHub 热榜的开源项目，收藏。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531962&idx=1&sn=4a1dc067a3adc0e6064759df9bbd21c1",
-        "published_date": "Sun, 08 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-08T23:28:16.577124"
-      },
-      "c1f3b2d3a8c7c9685e82c9ae7b1e55b285a640445513f7652a8c74d1ece3bd0a": {
-        "title": "扒一扒锂电池材料行业的这个隐形冠军",
-        "link": "https://www.tmtpost.com/7904544.html",
-        "published_date": "Sun, 08 Mar 2026 18:59:00 GMT",
-        "first_seen": "2026-03-08T23:28:16.577126"
-      },
       "4e08fcb5272db4c7257e22363c6dbeb9bc095328e8288b7abf7399b750dc9097": {
         "title": "从上下文到长期记忆：大模型记忆工程的架构设计与实践",
         "link": "https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7943462.html",
         "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
         "first_seen": "2026-04-07T09:07:10.488308"
+      },
+      "02ccccfcc15f14f6f51e1dcf825b9b7908454e6b037f4488d9f32fef70aff16d": {
+        "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
+        "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Apr 2026 19:51:00 GMT",
+        "first_seen": "2026-04-07T23:41:29.800188"
+      },
+      "987ed53213dbcf30dcc40bf731e4855c170bb099fbaf6dbd1a9c071f84fd448e": {
+        "title": "美国AI三巨头围剿模型蒸馏，中国公司终要大考",
+        "link": "https://www.tmtpost.com/7944117.html",
+        "published_date": "Tue, 07 Apr 2026 21:25:00 GMT",
+        "first_seen": "2026-04-07T23:41:29.800194"
+      },
+      "d13c0b78417867565a9de47b437692dac0954124ce24a40df65ed268dbb6c1ca": {
+        "title": "半导体设备国产化，进入下半场",
+        "link": "https://www.tmtpost.com/7943468.html",
+        "published_date": "Tue, 07 Apr 2026 14:28:00 GMT",
+        "first_seen": "2026-04-07T23:41:29.800197"
+      },
+      "d3812d7595161263582a5468f90b126afe18ba7f965b02985fb38a6c1ca39c42": {
+        "title": "7个顶级AI集体撒谎，为救“同伴”篡改文件、偷运数据",
+        "link": "https://www.tmtpost.com/7941675.html",
+        "published_date": "Tue, 07 Apr 2026 10:55:00 GMT",
+        "first_seen": "2026-04-07T23:41:29.800198"
+      },
+      "cc1e262e806019ebc53fd7b5ba4f24d110eaab7b47ee79a0bd7f1e2b0fff7a55": {
+        "title": "【钛晨报】李强签署国务院令，公布《国务院关于产业链供应链安全的规定》；中国央行连续第17个月增持黄金；“GPT-4o之母”宣布离职OpenAI",
+        "link": "https://www.tmtpost.com/7944317.html",
+        "published_date": "Wed, 08 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-07T23:41:29.800200"
       }
     },
     "Finance": {
-      "9789b989bdee251823957501f25f45f8f863c5ebb77b7f09470533482a3d58e0": {
-        "title": "Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader",
-        "link": "https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682",
-        "published_date": "Sun, 08 Mar 2026 17:49:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.217578"
-      },
-      "c9434951642c8274146e97b2d5bb8eaf682d441ead5519564d28f4f2bca9753c": {
-        "title": "U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories",
-        "published_date": "Sun, 08 Mar 2026 23:24:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.217584"
-      },
-      "1e55c80c6b98563fdd3029d9ee1e8c50b6ad74ba395a1b6fa3930e5d5cfcfdce": {
-        "title": "Switzerland votes to end ‘marriage penalty’ in historic tax referendum",
-        "link": "https://www.ft.com/content/9d4d9285-09cd-4da3-871b-b66a71db8d96",
-        "published_date": "Sun, 08 Mar 2026 16:12:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.217586"
-      },
-      "55292a9c3d9e47ea02a9c2c591dd9de85c72aa3fe961c4564fabe36d2fd7dfe0": {
-        "title": "Muscat airport limits private jet flights as wealthy leave the Gulf",
-        "link": "https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d",
-        "published_date": "Sun, 08 Mar 2026 21:26:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.217588"
-      },
-      "53cbdd1372aa29029d50ceda6aa75d0492e6d6c52a300216a2c820d6798afc72": {
-        "title": "Medicare Advantage growth is being driven by these niche — and lucrative — plans",
-        "link": "https://www.marketwatch.com/story/these-niche-plans-drove-83-of-medicare-advantage-sign-ups-in-the-past-year-436137c6?mod=mw_rss_topstories",
-        "published_date": "Sun, 08 Mar 2026 20:47:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.217590"
-      },
       "354435b2fdc974468cc9ff14b64baa7c92e2059a1b47a3a09049df9489e8af91": {
         "title": "G7 to discuss joint release of emergency oil reserves",
         "link": "https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82",
@@ -4767,21 +4737,39 @@
         "link": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
         "published_date": "Tue, 07 Apr 2026 07:17:00 GMT",
         "first_seen": "2026-04-07T09:07:10.531310"
+      },
+      "b3a3c43cf33e715e2ab548cc326e0985593b9b3391995a59cddc8cc50126f56c": {
+        "title": "IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds",
+        "link": "https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f",
+        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.627138"
+      },
+      "e934df4a54ce755fecfe7c0c02b6ab2aae7cb8908417dbbd484734a681fc0ac0": {
+        "title": "Hedge funds make record bets against European stocks",
+        "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
+        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.627147"
+      },
+      "29754b0d27388a735bbf2b3c14e7886f1f0a51d8d0e57e755ab9ccb420fa6aa8": {
+        "title": "Donald Trump declares two-week ‘ceasefire’ subject to Iran opening Strait of Hormuz",
+        "link": "https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906",
+        "published_date": "Tue, 07 Apr 2026 22:51:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.627149"
+      },
+      "685a45626ce56834784ee9eab047640ac1fa2d7685f20db6e34ccba925e6d649": {
+        "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran",
+        "link": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 23:11:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.627151"
+      },
+      "1468fc54d8a738c8512b000741f8550cb7beb796582340582c9681389b33d026": {
+        "title": "CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation",
+        "link": "https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories",
+        "published_date": "Tue, 07 Apr 2026 21:42:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.627153"
       }
     },
     "Ai": {
-      "15e2d567f3c22765c827999d760a7211910aff6882c9bfaca70305e5ccab7248": {
-        "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
-        "link": "https://www.qbitai.com/2026/03/384797.html",
-        "published_date": "Sun, 08 Mar 2026 10:07:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.364981"
-      },
-      "aabf2e0f0e9358ce30834cad259386f3997a13abcf226d0bc58e90b5378bf63e": {
-        "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
-        "link": "https://www.qbitai.com/2026/03/384786.html",
-        "published_date": "Sun, 08 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-08T23:28:35.364988"
-      },
       "6fd82a9d083cc2e9e89c83a6a48e2ad61d67a64a9fb78c149b8c18d698a3da87": {
         "title": "2026-03-09日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-09/",
@@ -6119,13 +6107,25 @@
         "link": "https://www.qbitai.com/2026/04/397517.html",
         "published_date": "Tue, 07 Apr 2026 07:34:00 GMT",
         "first_seen": "2026-04-07T09:07:10.686071"
+      },
+      "049a647077525cd86edcdee2ebe5569ec7e7f2fad4626ba7494097c1fefcda4a": {
+        "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
+        "link": "https://www.qbitai.com/2026/04/397610.html",
+        "published_date": "Tue, 07 Apr 2026 09:13:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.778755"
+      },
+      "38fe0a2c317397f525a65e19e2942b7adc29b64d0d41a75e260c62d9652b9ac9": {
+        "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
+        "link": "https://www.qbitai.com/2026/04/397576.html",
+        "published_date": "Tue, 07 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-07T23:41:05.778763"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-07T09:07:10.488310",
-    "Finance": "2026-04-07T09:07:10.531312",
-    "Ai": "2026-04-07T09:07:10.686073"
+    "Technology": "2026-04-07T23:41:29.800202",
+    "Finance": "2026-04-07T23:41:05.627155",
+    "Ai": "2026-04-07T23:41:05.778766"
   }
 }

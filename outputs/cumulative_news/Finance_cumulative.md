@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 09:06
+**最后更新时间**: 2026-04-07 23:40
+
+---
+
+## 🆕 最新更新 (2026-04-07 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?](https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:30
+
+#### [15 stocks to put on your list to buy when the market recovers](https://www.marketwatch.com/story/15-stocks-to-put-on-your-list-to-buy-when-the-market-recovers-c765f968?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:18
+
+#### [Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran](https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:11
+
+#### [Levi’s boosts its sales outlook, defying concerns about the impact of the Iran conflict](https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:05
+
+#### [‘I paid the $10 entry fee’: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?](https://www.marketwatch.com/story/i-paid-the-10-entry-fee-a-friend-picked-my-march-madness-bracket-ethically-do-i-owe-her-half-of-my-150-winnings-88663339?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:00
+
+#### [From TV deals to titles: Why the Big Ten’s money machine is just getting started](https://www.marketwatch.com/story/from-tv-deals-to-titles-why-the-big-tens-money-machine-is-just-getting-started-86df9fd8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:43
+
+#### [The Iran conflict isn’t panicking investors — yet. That’s about to change.](https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:13
+
+#### [‘Our FICO score is excellent’: My husband and I are in our 70s. How do we raise $10,000 for a new roof?](https://www.marketwatch.com/story/our-fico-score-is-excellent-my-husband-and-i-are-in-our-70s-how-do-we-raise-10-000-for-a-new-roof-738e2821?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:01
+
+#### [CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation](https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 21:42
+
+#### [Apple’s stock pares losses. Here’s how to think about the latest saga with foldable iPhones.](https://www.marketwatch.com/story/apples-stock-pares-losses-heres-how-to-think-about-the-latest-saga-with-foldable-iphones-6b17760c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 21:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump declares two-week ‘ceasefire’ subject to Iran opening Strait of Hormuz](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-07 22:51
+
+#### [Trump allies play down Iran ‘genocide’ threats as critics warn of war crimes](https://www.ft.com/content/9467201c-c0a5-438b-a288-8595f0e439f3)
+**发布时间**: 2026-04-07 21:48
+
+#### [One in eight British residents has left UAE since Iran war, data shows](https://www.ft.com/content/3fcc3dbf-3b9f-4639-8034-ded8fbee5ea0)
+**发布时间**: 2026-04-07 20:02
+
+#### [Bill Ackman strikes a chord with Universal bid](https://www.ft.com/content/8a78a437-0741-4b81-b386-90bcb33c9553)
+**发布时间**: 2026-04-07 17:50
+
+#### [UK signals it will not let US use British bases to attack Iran’s civilian infrastructure](https://www.ft.com/content/e7b1ee9a-5e3f-4217-aa95-ff14346095ff)
+**发布时间**: 2026-04-07 17:42
+
+#### [Russian military hackers reroute British internet users’ traffic](https://www.ft.com/content/d7e3294c-0a0e-4598-8687-93f5490d0cc5)
+**发布时间**: 2026-04-07 16:54
+
+#### [The big state gamble on prediction markets](https://www.ft.com/content/d5ce429b-15af-4867-8e3f-b20f482ec1fd)
+**发布时间**: 2026-04-07 15:28
+
+#### [The war to break Iran’s economy](https://www.ft.com/content/7856d59b-66e0-4033-9791-1051f0ae978a)
+**发布时间**: 2026-04-07 14:57
+
+#### [Hedge funds make record bets against European stocks](https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04)
+**发布时间**: 2026-04-07 14:00
+
+#### [IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds](https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f)
+**发布时间**: 2026-04-07 14:00
 
 ---
 
