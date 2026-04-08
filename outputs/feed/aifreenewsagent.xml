@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 23:41:05 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 06:23:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿</title>
-      <link>https://www.qbitai.com/2026/04/397610.html</link>
-      <description>&lt;![CDATA[Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397610.html</guid>
+      <title>2026-04-08日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-08/</link>
+      <description>&lt;![CDATA[2026-04-08日刊]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-08/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude爆火研究漏引华人团队成果，已挨打立正道歉</title>
-      <link>https://www.qbitai.com/2026/04/397576.html</link>
-      <description>&lt;![CDATA[Claude爆火研究漏引华人团队成果，已挨打立正道歉]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397576.html</guid>
+      <title>Skill vs App：一场入口范式的争夺</title>
+      <link>https://www.qbitai.com/2026/04/397799.html</link>
+      <description>&lt;![CDATA[Skill vs App：一场入口范式的争夺]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 04:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397799.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek深夜更新后自曝：我是V4（？！）</title>
+      <link>https://www.qbitai.com/2026/04/397761.html</link>
+      <description>&lt;![CDATA[DeepSeek深夜更新后自曝：我是V4（？！）]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 03:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397761.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%</title>
+      <link>https://www.qbitai.com/2026/04/397733.html</link>
+      <description>&lt;![CDATA[省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 03:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397733.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」</title>
+      <link>https://www.qbitai.com/2026/04/397710.html</link>
+      <description>&lt;![CDATA[Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 02:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397710.html</guid>
       <category>Ai</category>
     </item>
   </channel>

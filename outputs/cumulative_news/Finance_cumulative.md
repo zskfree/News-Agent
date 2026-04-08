@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 23:40
+**最后更新时间**: 2026-04-08 06:22
+
+---
+
+## 🆕 最新更新 (2026-04-08 06:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn?](https://www.ft.com/content/f217467c-e113-4aa2-ac5e-7046a1dc9be0)
+**发布时间**: 2026-04-08 04:37
+
+#### [US and Iran agree 2-week ceasefire that will open Strait of Hormuz](https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f)
+**发布时间**: 2026-04-08 04:07
+
+#### [Freedom itself is at stake in Hungary](https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3)
+**发布时间**: 2026-04-08 04:00
+
+#### [The dystopian fantasy of uselessness](https://www.ft.com/content/28dfa485-3c88-4963-82f8-5530a72792fe)
+**发布时间**: 2026-04-08 04:00
+
+#### [Perplexity revenue jumps 50% in pivot from search to AI agents](https://www.ft.com/content/e9c28d31-a962-4684-8b58-c9e6bc68401f)
+**发布时间**: 2026-04-08 04:00
+
+#### [Oil tumbles and stocks surge after Iran ceasefire agreed](https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34)
+**发布时间**: 2026-04-08 01:14
 
 ---
 

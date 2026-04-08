@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 23:40
+**最后更新时间**: 2026-04-08 06:22
+
+---
+
+## 🆕 最新更新 (2026-04-08 06:22)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [银行业云原生事件驱动架构实践：经验与教训](https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 14:00
+
+#### [地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元，出货量同比大幅增长180%](https://www.infoq.cn/article/vqsCNCHUBPoiwxeydL0b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 11:03
+
+#### [Nuxt Test Utils v4：基于Vitest v4，重构mock机制并强化环境的初始化](https://www.infoq.cn/article/lzR34rSWkua5awOg8LFJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 10:00
+
+#### [从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京](https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [12年10轮融资、背后站满地方国资，这家药企冲刺IPO](https://www.tmtpost.com/7944752.html)
+**发布时间**: 2026-04-08 12:57
+
+#### [对话哈佛教授：面对现代困境，我们能从文化进化学到什么](https://www.tmtpost.com/7945020.html)
+**发布时间**: 2026-04-08 12:56
+
+#### [Cursor 会死吗？](https://www.tmtpost.com/7945040.html)
+**发布时间**: 2026-04-08 12:56
+
+#### [穿越割裂周期：南下内资正在布局哪些医药标的？](https://www.tmtpost.com/7945054.html)
+**发布时间**: 2026-04-08 12:56
+
+#### [威廉姆斯、亨利斯奇恩，以及一位资深价值基金经理挑选的另外3只被低估的股票](https://www.tmtpost.com/7945026.html)
+**发布时间**: 2026-04-08 11:51
+
+#### [Arista Networks 获得评级上调，AI 超大规模云服务商可能推动该股创下历史新高](https://www.tmtpost.com/7945024.html)
+**发布时间**: 2026-04-08 11:50
+
+#### [获国资“兜底”救场后，贝因美能否逆风翻盘？](https://www.tmtpost.com/7944431.html)
+**发布时间**: 2026-04-08 11:35
+
+#### [多晶硅的终局](https://www.tmtpost.com/7944528.html)
+**发布时间**: 2026-04-08 11:34
+
+#### [上海985，批量生产千亿IPO](https://www.tmtpost.com/7944973.html)
+**发布时间**: 2026-04-08 11:32
+
+#### [长安街留下最深脚印的女首富，传奇谢幕](https://www.tmtpost.com/7944960.html)
+**发布时间**: 2026-04-08 11:32
+
+#### [最强基石天团护航，全球顶级资本聚力，思格新能源(6656.HK)启动招股](https://www.tmtpost.com/7944857.html)
+**发布时间**: 2026-04-08 11:31
+
+#### [物流人买车有多难？这 4 个 “坑”，90% 的人都踩过](https://www.tmtpost.com/7944279.html)
+**发布时间**: 2026-04-08 11:17
+
+#### [道琼斯指数正在测试一个关键的技术门槛，关注苹果和家得宝股票](https://www.tmtpost.com/7944969.html)
+**发布时间**: 2026-04-08 11:17
+
+#### [抢滩港股上市窗口：Momenta、轻舟、元戎同台竞速](https://www.tmtpost.com/7944886.html)
+**发布时间**: 2026-04-08 11:17
+
+#### [净利下滑却“清仓式分红”，苏泊尔成法国股东“提款机”？](https://www.tmtpost.com/7944388.html)
+**发布时间**: 2026-04-08 11:17
+
+#### [算力“上天”：太空计算的必然性与紧迫性](https://www.tmtpost.com/7944835.html)
+**发布时间**: 2026-04-08 11:17
+
+#### [Wingstop 股价下跌了 30%，为什么这位分析师却将其评级上调至“买入”](https://www.tmtpost.com/7944958.html)
+**发布时间**: 2026-04-08 11:16
+
+#### [新乳业，冲刺港股补“鲜”血](https://www.tmtpost.com/7944648.html)
+**发布时间**: 2026-04-08 11:09
+
+#### [“咸鱼式生存” 更稳，明星药企终于想通了](https://www.tmtpost.com/7944809.html)
+**发布时间**: 2026-04-08 11:09
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [🎁 福利派 | 少数派首款超薄钢化膜今日开售](https://sspai.com/post/108285)
+**发布时间**: 2026-04-08 11:01
+
+#### [派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等](https://sspai.com/post/108380)
+**发布时间**: 2026-04-08 08:16
 
 ---
 
