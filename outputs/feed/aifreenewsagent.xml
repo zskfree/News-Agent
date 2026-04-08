@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 09:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 09:06:31 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:42:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型</title>
-      <link>https://www.qbitai.com/2026/04/397922.html</link>
-      <description>&lt;![CDATA[SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397922.html</guid>
+      <title>Improving the academic workflow: Introducing two AI agents for better figures and peer review</title>
+      <link>https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/</link>
+      <description>&lt;![CDATA[Improving the academic workflow: Introducing two AI agents for better figures and peer review]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nature Index特刊以复杂系统为理论基础的“天立学科大脑”</title>
-      <link>https://www.qbitai.com/2026/04/397915.html</link>
-      <description>&lt;![CDATA[Nature Index特刊以复杂系统为理论基础的“天立学科大脑”]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397915.html</guid>
+      <title>武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力</title>
+      <link>https://www.qbitai.com/2026/04/398001.html</link>
+      <description>&lt;![CDATA[武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398001.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元</title>
-      <link>https://www.qbitai.com/2026/04/397912.html</link>
-      <description>&lt;![CDATA[地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 06:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397912.html</guid>
+      <title>Generalist最新长文定调：具身原生才是正道，原力灵机已交卷</title>
+      <link>https://www.qbitai.com/2026/04/397951.html</link>
+      <description>&lt;![CDATA[Generalist最新长文定调：具身原生才是正道，原力灵机已交卷]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397951.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了</title>
-      <link>https://www.qbitai.com/2026/04/397898.html</link>
-      <description>&lt;![CDATA[开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 06:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397898.html</guid>
+      <title>智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验</title>
+      <link>https://www.qbitai.com/2026/04/397942.html</link>
+      <description>&lt;![CDATA[智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397942.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了</title>
+      <link>https://www.qbitai.com/2026/04/397930.html</link>
+      <description>&lt;![CDATA[理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397930.html</guid>
       <category>Ai</category>
     </item>
   </channel>

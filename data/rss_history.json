@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "64e4ff816da7273050e2fad67425de07a16814ce56114182f8ec213b8c57801a": {
-        "title": "OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发",
-        "link": "https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Mar 2026 19:02:00 GMT",
-        "first_seen": "2026-03-09T23:30:54.593007"
-      },
-      "8fe6c5075f58952396a43e69559fbf262ebed672d0909738dca17f205fd1c6b6": {
-        "title": "OpenClaw席卷中国：国产AI正在建立全球竞争的结构性优势",
-        "link": "https://www.tmtpost.com/7906039.html",
-        "published_date": "Mon, 09 Mar 2026 18:30:00 GMT",
-        "first_seen": "2026-03-09T23:30:54.593015"
-      },
-      "5dca2f172ecfac12d3a982339ee97c18f462f51f7bf47404d849ca5aaf34ba88": {
-        "title": "聚焦固态电池、回收、破“内卷”，两会代表建言锂电全链条协同破局",
-        "link": "https://www.tmtpost.com/7906391.html",
-        "published_date": "Mon, 09 Mar 2026 20:16:00 GMT",
-        "first_seen": "2026-03-09T23:30:54.593018"
-      },
-      "68cc0235c38fa8ff6f04311e4e60dbc68bcee5debfde373fd97c1d315da14ca6": {
-        "title": "终端大模型操作系统的架构、优化与展望",
-        "link": "https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Mar 2026 18:30:00 GMT",
-        "first_seen": "2026-03-09T23:30:54.593020"
-      },
-      "d935b53138e790b2919336c28a18951de93dbad73799f8f05814bf7316dec3cb": {
-        "title": "鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事",
-        "link": "https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Mar 2026 10:19:00 GMT",
-        "first_seen": "2026-03-09T23:30:54.593021"
-      },
       "eb0a2c65d17868ee2ea8d657f5ff9d3081e3f4b0f522ece07178605173cb64bf": {
         "title": "告别“只会聊天的AI”：从OpenClaw到Miclaw，我们如何向Agent交出控制权",
         "link": "https://www.tmtpost.com/7906383.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 08 Apr 2026 16:00:00 GMT",
         "first_seen": "2026-04-08T09:06:16.556042"
+      },
+      "41285fd510d131ae1041819150af5ddd25ee007a623c849b8ef981cb6225841b": {
+        "title": "碳基向下，硅基向上：我们正在供养一台「失控的增长机器」",
+        "link": "https://www.tmtpost.com/7944241.html",
+        "published_date": "Wed, 08 Apr 2026 22:11:00 GMT",
+        "first_seen": "2026-04-08T23:42:20.843286"
+      },
+      "fd45be3b94cb2557166e79204326fad9f84c07e4eaf2acb775ad51bb1e06f29e": {
+        "title": "Anthropic 那个“强到不敢发”的模型，终于来了！",
+        "link": "https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Apr 2026 15:20:00 GMT",
+        "first_seen": "2026-04-08T23:42:20.843294"
+      },
+      "ced220e8b580ab077a52e4828e616a60e554dc6af0bedc9940f0e7395d2d9fbe": {
+        "title": "通义升级事业部、三大CTO入阵：阿里巴巴为AI拆藩篱？",
+        "link": "https://www.tmtpost.com/7945695.html",
+        "published_date": "Wed, 08 Apr 2026 18:37:00 GMT",
+        "first_seen": "2026-04-08T23:42:20.843297"
+      },
+      "99cd0909ebd2f13eabd5a393a01f5b7bab831f92d0305cac33e6086d7bb919bf": {
+        "title": "芯片出海，征服日本汽车？",
+        "link": "https://www.tmtpost.com/7945622.html",
+        "published_date": "Wed, 08 Apr 2026 22:11:00 GMT",
+        "first_seen": "2026-04-08T23:42:20.843299"
+      },
+      "08174ed45504c0905c30f9c58bdb1a3a016d0375774947bc46913f456809043f": {
+        "title": "当具身智能走进工厂：没有星辰大海，只有一本算不清的账",
+        "link": "https://www.tmtpost.com/7946012.html",
+        "published_date": "Wed, 08 Apr 2026 22:20:00 GMT",
+        "first_seen": "2026-04-08T23:42:20.843301"
       }
     },
     "Finance": {
-      "73fe101ceb6eada52ff1090bf08163f8c03b7921682272e6f0b2b94c48cf05fa": {
-        "title": "Goldman pitches hedge funds on strategies to bet against corporate loans",
-        "link": "https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad",
-        "published_date": "Mon, 09 Mar 2026 21:00:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.554729"
-      },
-      "b556d5d4ab0c1039d927405b1172c4230886d433524945b55cf9719ca42f1b2a": {
-        "title": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
-        "link": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Mar 2026 21:06:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.554735"
-      },
-      "879ecd0f6a89f3812cbec71334e6602365e45db8811b05fcb80a3ddac9de3504": {
-        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
-        "link": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Mar 2026 22:44:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.554737"
-      },
-      "7fda8003f632ec9a98d0f1c2c8f05705444089b81c9d7b12bf4ed2dfc35b8a0d": {
-        "title": "G7 ‘stands ready’ to release emergency oil reserves",
-        "link": "https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1",
-        "published_date": "Mon, 09 Mar 2026 20:01:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.554739"
-      },
-      "b50c43bd11fff281f5119cd7bfe2afa9ed47cef644be2ab1e78897707ef1ec28": {
-        "title": "Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue",
-        "link": "https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86",
-        "published_date": "Mon, 09 Mar 2026 23:14:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.554740"
-      },
       "d80104fe21d7f4e041dc2d72bf2896fe90a1cfd9ead897fcfb9e716bc7c4a6c8": {
         "title": "Can the G7 release enough oil to calm the market?",
         "link": "https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915",
@@ -4785,15 +4755,39 @@
         "link": "https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories",
         "published_date": "Wed, 08 Apr 2026 08:06:00 GMT",
         "first_seen": "2026-04-08T09:06:31.039171"
+      },
+      "b691665ab3a04339ae8b11e5a6939f4c8db5a29fca36d5b4d6e56cae626b7f72": {
+        "title": "‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 21:26:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.354819"
+      },
+      "6052527a1346ecf37c2944998ef6cc17c06160a0e841b95cf983804eda479002": {
+        "title": "Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis",
+        "link": "https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 20:46:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.354826"
+      },
+      "48edbf666f2d21dce39936917bca97bfdbb0b106e31aafb5289d38a12f1b86a5": {
+        "title": "S&P 500 smashes back above two key moving averages, in a rare display of strength. Here’s what history shows happens next.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 21:57:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.354828"
+      },
+      "b751470516cdd45f88e951a139444ee3e7a9c755b1f686c6995bf22b49d75ee4": {
+        "title": "Ditch ‘alarming’ risk warnings to spur UK retail investment, fund managers told",
+        "link": "https://www.ft.com/content/3778982e-e037-4031-8bb1-53369d5a4e61",
+        "published_date": "Wed, 08 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.354830"
+      },
+      "86b4bd87c2496fe1586f184e3d605f23a0f4be63cf252a673f538b4f206e80a1": {
+        "title": "Haircut for UK taxpayers after lenders take control of struggling broadband provider",
+        "link": "https://www.ft.com/content/cad2c772-1268-4858-8f95-f9f626d2b107",
+        "published_date": "Wed, 08 Apr 2026 18:42:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.354831"
       }
     },
     "Ai": {
-      "090ec9587ff02e1a8f511d91b16a6c45fd38fbaa5a30d5a7b5ace67bb2d502b6": {
-        "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
-        "link": "https://www.qbitai.com/2026/03/385066.html",
-        "published_date": "Mon, 09 Mar 2026 10:46:00 GMT",
-        "first_seen": "2026-03-09T23:31:13.699368"
-      },
       "879a161719b36959b42f062f047e289a706fcebe7b0685829e05d17e71bcd9ed": {
         "title": "2026-03-10日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-10/",
@@ -6173,13 +6167,43 @@
         "link": "https://www.qbitai.com/2026/04/397898.html",
         "published_date": "Wed, 08 Apr 2026 06:29:00 GMT",
         "first_seen": "2026-04-08T09:06:31.186108"
+      },
+      "3f3ed28413a1cf04f783dc72e756c483aae527a0745e6bd953166d21f230e1ab": {
+        "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+        "link": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/",
+        "published_date": "Wed, 08 Apr 2026 20:01:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.500120"
+      },
+      "41137061267718122d8e17f9a8bce9ceab86318965913fd9602e7e337de4e2b5": {
+        "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+        "link": "https://www.qbitai.com/2026/04/398001.html",
+        "published_date": "Wed, 08 Apr 2026 14:26:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.500128"
+      },
+      "ea36e3d0e5a75e980bab048ef859dff08e65d249e29e449945cb4a1b3751341c": {
+        "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+        "link": "https://www.qbitai.com/2026/04/397951.html",
+        "published_date": "Wed, 08 Apr 2026 10:50:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.500130"
+      },
+      "1a7b6fc8a5d3e72be06085b69e43203e6b3c70b7d04be2901f0eec558fed3536": {
+        "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+        "link": "https://www.qbitai.com/2026/04/397942.html",
+        "published_date": "Wed, 08 Apr 2026 10:17:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.500132"
+      },
+      "3f1135784b0c46eee92faadfc2ad09b0fe2bf259e4461a7967321ed238b0b3d5": {
+        "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
+        "link": "https://www.qbitai.com/2026/04/397930.html",
+        "published_date": "Wed, 08 Apr 2026 09:49:00 GMT",
+        "first_seen": "2026-04-08T23:42:36.500133"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-08T09:06:16.556044",
-    "Finance": "2026-04-08T09:06:31.039173",
-    "Ai": "2026-04-08T09:06:31.186110"
+    "Technology": "2026-04-08T23:42:20.843303",
+    "Finance": "2026-04-08T23:42:36.354834",
+    "Ai": "2026-04-08T23:42:36.500135"
   }
 }
