@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 06:22
+**最后更新时间**: 2026-04-08 09:05
+
+---
+
+## 🆕 最新更新 (2026-04-08 09:05)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub 如何用 AI 重构反馈处理机制](https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 16:53
+
+#### [Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”](https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 16:13
+
+#### [组织规模扩大时，如何应对信任与心理安全感](https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 16:00
+
+#### [Anthropic 那个“强到不敢发”的模型，终于来了！](https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-08 15:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [安踏2025年营收破800亿，迪桑特可隆接过增长大旗](https://www.tmtpost.com/7945291.html)
+**发布时间**: 2026-04-08 16:20
+
+#### [告别华尔街偏见：为什么回港是中概股垂直冠军市值重估的起点？](https://www.tmtpost.com/7945204.html)
+**发布时间**: 2026-04-08 14:55
+
+#### [被Anthropic封杀之后，OpenClaw如何反击？](https://www.tmtpost.com/7945055.html)
+**发布时间**: 2026-04-08 14:53
+
+#### [外国人涌入中国看病，三大赛道赢麻了？](https://www.tmtpost.com/7945155.html)
+**发布时间**: 2026-04-08 14:53
+
+#### [扭亏为盈，月入千万：女性向小游戏找到赚钱密码](https://www.tmtpost.com/7945167.html)
+**发布时间**: 2026-04-08 14:50
+
+#### [更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线](https://www.tmtpost.com/7945183.html)
+**发布时间**: 2026-04-08 14:50
+
+#### [万亿具身智能赛道，被数据卡住了](https://www.tmtpost.com/7945164.html)
+**发布时间**: 2026-04-08 14:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Type-C 接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)
+**发布时间**: 2026-04-08 14:42
+
+#### [谈谈 Windows 的视觉风格与交互演变](https://sspai.com/prime/story/windows-ui-styles-history)
+**发布时间**: 2026-04-08 14:05
 
 ---
 

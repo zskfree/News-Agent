@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2b7eee2cecc00b7f027ccf0c31b4c9badf28e729e8ea31c3d34d780ae86d4e99": {
-        "title": "雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报",
-        "link": "https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Mar 2026 09:46:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.739909"
-      },
-      "cc2ea4c9d441ff48175d4ca5f4a9c11e6aa7c2125934d020c59e01b0f78afdfa": {
-        "title": "抛出“五层蛋糕论”与“计算真空”：黄仁勋借势OpenClaw，布下千亿算力阳谋",
-        "link": "https://www.tmtpost.com/7905011.html",
-        "published_date": "Mon, 09 Mar 2026 16:19:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.739917"
-      },
-      "40bf0a8fb24b74c0f128620f536d9031468af6ae132d681028a43c1bb5eb12fd": {
-        "title": "55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532019&idx=1&sn=d9e52c2a283c6b4b361e506078173b7d",
-        "published_date": "Mon, 09 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.739919"
-      },
-      "01662042b6de261e2c5db0547b8f70bc28c38a6bab63e8b51e6b3c75db1e4b9a": {
-        "title": "Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？",
-        "link": "https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 09 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.739921"
-      },
-      "d264a73227a367bb72518bc052aca6a2e0d04970eb055dd0312618e4deb21156": {
-        "title": "AI气象大模型，为什么开始进入能源系统",
-        "link": "https://www.tmtpost.com/7905524.html",
-        "published_date": "Mon, 09 Mar 2026 15:14:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.739923"
-      },
       "64e4ff816da7273050e2fad67425de07a16814ce56114182f8ec213b8c57801a": {
         "title": "OpenAI工程师不写代码了：AI写得太快，人类检查跟不上，Agent直接包办开发",
         "link": "https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article",
@@ -2701,21 +2671,39 @@
         "link": "https://www.tmtpost.com/7945040.html",
         "published_date": "Wed, 08 Apr 2026 12:56:00 GMT",
         "first_seen": "2026-04-08T06:22:53.842594"
+      },
+      "209db6650e358bba124a13ab001fb1449fe1a396f44786f28ef181b40b791b1b": {
+        "title": "更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线",
+        "link": "https://www.tmtpost.com/7945183.html",
+        "published_date": "Wed, 08 Apr 2026 14:50:00 GMT",
+        "first_seen": "2026-04-08T09:06:16.556026"
+      },
+      "94b445222f1f2368958fcefe9d1dfbc4f44ffdb1283ee79162af881fc2c80bf5": {
+        "title": "道琼斯指数正在测试一个关键的技术门槛，关注苹果和家得宝股票",
+        "link": "https://www.tmtpost.com/7944969.html",
+        "published_date": "Wed, 08 Apr 2026 11:17:00 GMT",
+        "first_seen": "2026-04-08T09:06:16.556036"
+      },
+      "e0f677b3eb5f88416c07909171484c52c1de541b5f23a47115f2f6b2fb67521a": {
+        "title": "GitHub 如何用 AI 重构反馈处理机制",
+        "link": "https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Apr 2026 16:53:00 GMT",
+        "first_seen": "2026-04-08T09:06:16.556038"
+      },
+      "ccba4b277259af8887d95f19e5ad8212b813cba8edb80226dc3a28a0dd6d0526": {
+        "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
+        "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Apr 2026 16:13:00 GMT",
+        "first_seen": "2026-04-08T09:06:16.556040"
+      },
+      "afd294ff0229c60f1c866eb6741c439d20cc02c146910cf137f0a96d6b80251a": {
+        "title": "组织规模扩大时，如何应对信任与心理安全感",
+        "link": "https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-08T09:06:16.556042"
       }
     },
     "Finance": {
-      "3f72c32334b2eb806096bee13d75ec768f6f746d34078f141de1df5c7398106d": {
-        "title": "Gilt market slump deepens as traders bet on BoE rate rise",
-        "link": "https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2",
-        "published_date": "Mon, 09 Mar 2026 08:42:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.776259"
-      },
-      "0a1965e158b50bfd58ea4ab0b1617f3b2f0c746e7f0b2b8b5d4361566d9c97c1": {
-        "title": "Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates",
-        "link": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
-        "published_date": "Mon, 09 Mar 2026 08:40:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.776265"
-      },
       "73fe101ceb6eada52ff1090bf08163f8c03b7921682272e6f0b2b94c48cf05fa": {
         "title": "Goldman pitches hedge funds on strategies to bet against corporate loans",
         "link": "https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad",
@@ -4767,21 +4755,39 @@
         "link": "https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3",
         "published_date": "Wed, 08 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-08T06:23:06.503119"
+      },
+      "c8cbc72327aa479c0131f597f9531a7c65fac6f5c51dfa19cfc266f4ce4ffac5": {
+        "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
+        "link": "https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.039158"
+      },
+      "aabe034402080e19bbfd99b0f24555732e2d97c7942821a1bc7d7078a10a38cf": {
+        "title": "Cease-fire means the bottom is in, declares strategist Tom Lee",
+        "link": "https://www.marketwatch.com/story/cease-fire-means-the-bottom-is-in-declares-strategist-tom-lee-8207becd?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.039165"
+      },
+      "b68381ac91c6e6473450eb3b0a64e24efcb3257363ab612f2c8dd7cae95ee0de": {
+        "title": "‘The View’ host Joy Behar tries an unusual strategy to sell her longtime Hamptons home",
+        "link": "https://www.marketwatch.com/story/the-view-host-joy-behar-tries-an-unusual-strategy-to-sell-her-longtime-hamptons-home-4e490969?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 08:58:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.039168"
+      },
+      "f409550c4bf6c3d19c83f3bbe4d774a3b1613f2857b7b86239e1d0062045e196": {
+        "title": "What the market is now pricing for Fed and global central bank interest rates after the cease-fire",
+        "link": "https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 08:53:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.039169"
+      },
+      "7c7c3c8c31ace8acba25b6f783f8cba3253ba69ab7e2c7c89723711e0fafab33": {
+        "title": "Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation",
+        "link": "https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Apr 2026 08:06:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.039171"
       }
     },
     "Ai": {
-      "88c38c36764b92f2c00e2315da35521ca9fc6b651850082f200f4ac13a26d029": {
-        "title": "企业微信支持接入OpenClaw，仅需3步即可快速上手",
-        "link": "https://www.qbitai.com/2026/03/384944.html",
-        "published_date": "Mon, 09 Mar 2026 07:12:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.922540"
-      },
-      "77838b8e0d92b9e975f4771f35f42d5bf674f291dabb3787427e1de6aff689d7": {
-        "title": "“最美PM”宋紫薇获红杉蚂蚁投资，创业方向略有调整，转向AI护肤",
-        "link": "https://www.qbitai.com/2026/03/384926.html",
-        "published_date": "Mon, 09 Mar 2026 06:21:00 GMT",
-        "first_seen": "2026-03-09T08:50:39.922548"
-      },
       "090ec9587ff02e1a8f511d91b16a6c45fd38fbaa5a30d5a7b5ace67bb2d502b6": {
         "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
         "link": "https://www.qbitai.com/2026/03/385066.html",
@@ -6143,13 +6149,37 @@
         "link": "https://www.qbitai.com/2026/04/397710.html",
         "published_date": "Wed, 08 Apr 2026 02:41:00 GMT",
         "first_seen": "2026-04-08T06:23:06.646976"
+      },
+      "3b729df2d4488702f3679b2f8258ae7e352aca6630a3db6ec2e676d89770461b": {
+        "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
+        "link": "https://www.qbitai.com/2026/04/397922.html",
+        "published_date": "Wed, 08 Apr 2026 08:30:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.186097"
+      },
+      "2cf5c9c2891ffaaa232aa50ad33bd589609cd750e3fd8f7877c02f561d14bdd2": {
+        "title": "Nature Index特刊以复杂系统为理论基础的“天立学科大脑”",
+        "link": "https://www.qbitai.com/2026/04/397915.html",
+        "published_date": "Wed, 08 Apr 2026 06:51:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.186105"
+      },
+      "23d1c40603b88989870c7186f1e6c486cbf69f424a4db967c9865891d8bdc85b": {
+        "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
+        "link": "https://www.qbitai.com/2026/04/397912.html",
+        "published_date": "Wed, 08 Apr 2026 06:39:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.186107"
+      },
+      "86afb1aa0d87bb3daa9869cb3ab1137228b5fe8dcf26994083e173ab9be22a33": {
+        "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
+        "link": "https://www.qbitai.com/2026/04/397898.html",
+        "published_date": "Wed, 08 Apr 2026 06:29:00 GMT",
+        "first_seen": "2026-04-08T09:06:31.186108"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-08T06:22:53.842596",
-    "Finance": "2026-04-08T06:23:06.503122",
-    "Ai": "2026-04-08T06:23:06.646978"
+    "Technology": "2026-04-08T09:06:16.556044",
+    "Finance": "2026-04-08T09:06:31.039173",
+    "Ai": "2026-04-08T09:06:31.186110"
   }
 }

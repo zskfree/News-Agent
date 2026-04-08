@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 06:23:06 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 09:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:06:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-08日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-08/</link>
-      <description>&lt;![CDATA[2026-04-08日刊]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-08/</guid>
+      <title>SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型</title>
+      <link>https://www.qbitai.com/2026/04/397922.html</link>
+      <description>&lt;![CDATA[SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397922.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Skill vs App：一场入口范式的争夺</title>
-      <link>https://www.qbitai.com/2026/04/397799.html</link>
-      <description>&lt;![CDATA[Skill vs App：一场入口范式的争夺]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 04:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397799.html</guid>
+      <title>Nature Index特刊以复杂系统为理论基础的“天立学科大脑”</title>
+      <link>https://www.qbitai.com/2026/04/397915.html</link>
+      <description>&lt;![CDATA[Nature Index特刊以复杂系统为理论基础的“天立学科大脑”]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397915.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek深夜更新后自曝：我是V4（？！）</title>
-      <link>https://www.qbitai.com/2026/04/397761.html</link>
-      <description>&lt;![CDATA[DeepSeek深夜更新后自曝：我是V4（？！）]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 03:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397761.html</guid>
+      <title>地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元</title>
+      <link>https://www.qbitai.com/2026/04/397912.html</link>
+      <description>&lt;![CDATA[地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 06:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397912.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%</title>
-      <link>https://www.qbitai.com/2026/04/397733.html</link>
-      <description>&lt;![CDATA[省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 03:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397733.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」</title>
-      <link>https://www.qbitai.com/2026/04/397710.html</link>
-      <description>&lt;![CDATA[Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 02:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397710.html</guid>
+      <title>开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了</title>
+      <link>https://www.qbitai.com/2026/04/397898.html</link>
+      <description>&lt;![CDATA[开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 06:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397898.html</guid>
       <category>Ai</category>
     </item>
   </channel>

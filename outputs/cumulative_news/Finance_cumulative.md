@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 06:22
+**最后更新时间**: 2026-04-08 09:05
+
+---
+
+## 🆕 最新更新 (2026-04-08 09:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Paige Lorenze finds a buyer for $2.5 million Connecticut home as she and tennis star Tommy Paul renovate new mansion](https://www.marketwatch.com/story/paige-lorenze-finds-a-buyer-for-2-5-million-connecticut-home-as-she-and-tennis-star-tommy-paul-renovate-new-mansion-1c5f5a23?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:03
+
+#### [‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?](https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:01
+
+#### [Cease-fire means the bottom is in, declares strategist Tom Lee](https://www.marketwatch.com/story/cease-fire-means-the-bottom-is-in-declares-strategist-tom-lee-8207becd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:00
+
+#### [‘The View’ host Joy Behar tries an unusual strategy to sell her longtime Hamptons home](https://www.marketwatch.com/story/the-view-host-joy-behar-tries-an-unusual-strategy-to-sell-her-longtime-hamptons-home-4e490969?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:58
+
+#### [What the market is now pricing for Fed and global central bank interest rates after the cease-fire](https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:53
+
+#### [Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation](https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:06
 
 ---
 

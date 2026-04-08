@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 06:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 06:22:53 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 09:05:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:06:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>银行业云原生事件驱动架构实践：经验与教训</title>
-      <link>https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[银行业云原生事件驱动架构实践：经验与教训]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&amp;utm_medium=article</guid>
+      <title>更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线</title>
+      <link>https://www.tmtpost.com/7945183.html</link>
+      <description>&lt;![CDATA[更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7945183.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>算力“上天”：太空计算的必然性与紧迫性</title>
-      <link>https://www.tmtpost.com/7944835.html</link>
-      <description>&lt;![CDATA[算力“上天”：太空计算的必然性与紧迫性]]&gt;</description>
+      <title>道琼斯指数正在测试一个关键的技术门槛，关注苹果和家得宝股票</title>
+      <link>https://www.tmtpost.com/7944969.html</link>
+      <description>&lt;![CDATA[道琼斯指数正在测试一个关键的技术门槛，关注苹果和家得宝股票]]&gt;</description>
       <pubDate>Wed, 08 Apr 2026 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7944835.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7944969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nuxt Test Utils v4：基于Vitest v4，重构mock机制并强化环境的初始化</title>
-      <link>https://www.infoq.cn/article/lzR34rSWkua5awOg8LFJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Nuxt Test Utils v4：基于Vitest v4，重构mock机制并强化环境的初始化]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lzR34rSWkua5awOg8LFJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GitHub 如何用 AI 重构反馈处理机制</title>
+      <link>https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 如何用 AI 重构反馈处理机制]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cursor 会死吗？</title>
-      <link>https://www.tmtpost.com/7945040.html</link>
-      <description>&lt;![CDATA[Cursor 会死吗？]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 12:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945040.html</guid>
+      <title>Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”</title>
+      <link>https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>组织规模扩大时，如何应对信任与心理安全感</title>
+      <link>https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[组织规模扩大时，如何应对信任与心理安全感]]&gt;</description>
+      <pubDate>Wed, 08 Apr 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
