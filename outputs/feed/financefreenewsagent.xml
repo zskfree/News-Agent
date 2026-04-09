@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 09:12:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 09:12:06 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 23:41:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion</title>
-      <link>https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories</guid>
+      <title>The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.</title>
+      <link>https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 21:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year</title>
-      <link>https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</guid>
+      <title>Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season</title>
+      <link>https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>BDO axes 31 partner roles as AI pressure grows and profits fall</title>
-      <link>https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</link>
-      <description>&lt;![CDATA[BDO axes 31 partner roles as AI pressure grows and profits fall]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 06:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</guid>
+      <title>North Sea oil prices hit record high as Iran keeps hold over Hormuz</title>
+      <link>https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9</link>
+      <description>&lt;![CDATA[North Sea oil prices hit record high as Iran keeps hold over Hormuz]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 22:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>OpenAI halts Stargate UK data centre project</title>
+      <link>https://www.ft.com/content/124189b9-8b2b-4d62-a94b-8a91673ea378</link>
+      <description>&lt;![CDATA[OpenAI halts Stargate UK data centre project]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/124189b9-8b2b-4d62-a94b-8a91673ea378</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>xAI sues Colorado over first state AI anti-discrimination law</title>
+      <link>https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9</link>
+      <description>&lt;![CDATA[xAI sues Colorado over first state AI anti-discrimination law]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9</guid>
       <category>Finance</category>
     </item>
   </channel>

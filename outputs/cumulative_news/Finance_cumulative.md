@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-09 09:12
+**最后更新时间**: 2026-04-09 23:40
+
+---
+
+## 🆕 最新更新 (2026-04-09 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I feel pressured’: My husband has early Alzheimer’s and wants to visit Europe, but I’m terrified of flying. What should I do?](https://www.marketwatch.com/story/i-feel-pressured-my-husband-has-early-alzheimers-and-wants-to-visit-europe-but-im-terrified-of-flying-what-should-i-do-c5cc01bf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 22:59
+
+#### [Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season](https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:59
+
+#### [Has the cease-fire rally pushed stocks too high, too quickly?](https://www.marketwatch.com/story/has-the-cease-fire-rally-pushed-stocks-too-high-too-quickly-e0c4592a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:58
+
+#### [The shaky Trump-Iran cease-fire means being ready to exit any ‘war’s over’ stock-market rally](https://www.marketwatch.com/story/these-signals-will-make-or-break-the-iran-cease-fire-and-oil-prices-8f415515?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:22
+
+#### [The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.](https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:18
+
+#### [You have until April 15 to get this $8,000 Roth IRA freebie — no matter what your income](https://www.marketwatch.com/story/you-have-until-april-15-to-get-this-8-000-roth-ira-freebie-no-matter-what-your-income-4e8e7c8f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:14
+
+#### [Here’s how much money Iran can make charging tolls on one-fifth of the world’s seaborne oil](https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:11
+
+#### [Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023](https://www.marketwatch.com/story/nvidias-stock-is-quietly-gaining-steam-its-on-its-longest-winning-streak-since-2023-9066742f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 20:58
+
+#### [Brown-Forman’s stock was the S&P 500’s top gainer Thursday as merger drama heats up](https://www.marketwatch.com/story/brown-formans-stock-is-the-s-p-500s-top-gainer-thursday-as-merger-drama-heats-up-2f5f769c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 20:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [North Sea oil prices hit record high as Iran keeps hold over Hormuz](https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9)
+**发布时间**: 2026-04-09 22:57
+
+#### [S&P 500 posts longest winning streak since October on ceasefire optimism](https://www.ft.com/content/5fa84873-0c45-462d-9f8b-3adbc9f0a164)
+**发布时间**: 2026-04-09 20:58
+
+#### [Netanyahu authorises Israeli talks with Lebanon after Trump intervention](https://www.ft.com/content/b4f42304-ed42-4747-bfbe-ba2861338b25)
+**发布时间**: 2026-04-09 20:55
+
+#### [xAI sues Colorado over first state AI anti-discrimination law](https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9)
+**发布时间**: 2026-04-09 20:45
+
+#### [Lebanon’s 10 minutes from hell](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)
+**发布时间**: 2026-04-09 20:29
+
+#### [Trump officials deny threatening Vatican over Pope Leo’s criticisms](https://www.ft.com/content/1e172f5e-b45a-422e-a5aa-70e8bba506d6)
+**发布时间**: 2026-04-09 17:52
+
+#### [London mayor takes aim at social media companies over disinformation](https://www.ft.com/content/4f954158-18ac-465b-b88f-271e3ac287eb)
+**发布时间**: 2026-04-09 17:03
+
+#### [The quantum computing race is wide open](https://www.ft.com/content/053c8c39-9836-47e5-90f5-4798b3cf4c7c)
+**发布时间**: 2026-04-09 16:44
+
+#### [UK exposes covert Russian submarine operation](https://www.ft.com/content/5886e003-0b9f-4921-b9ed-e07514fe22a3)
+**发布时间**: 2026-04-09 12:27
+
+#### [OpenAI halts Stargate UK data centre project](https://www.ft.com/content/124189b9-8b2b-4d62-a94b-8a91673ea378)
+**发布时间**: 2026-04-09 11:38
+
+#### [Britain is in the grip of the fed-up-niks](https://www.ft.com/content/e6b882d8-ed5a-4e00-81ab-962f757cd7b7)
+**发布时间**: 2026-04-09 10:57
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 09:09:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 09:12:06 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 23:41:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注</title>
-      <link>https://www.qbitai.com/2026/04/398140.html</link>
-      <description>&lt;![CDATA[Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 07:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398140.html</guid>
+      <title>ConvApparel: Measuring and bridging the realism gap in user simulators</title>
+      <link>https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</link>
+      <description>&lt;![CDATA[ConvApparel: Measuring and bridging the realism gap in user simulators]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude封杀龙虾后推自家Agent服务，又被开源平替了</title>
-      <link>https://www.qbitai.com/2026/04/398121.html</link>
-      <description>&lt;![CDATA[Claude封杀龙虾后推自家Agent服务，又被开源平替了]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 06:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398121.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户</title>
-      <link>https://www.qbitai.com/2026/04/398117.html</link>
-      <description>&lt;![CDATA[阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398117.html</guid>
+      <title>神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…</title>
+      <link>https://www.qbitai.com/2026/04/398157.html</link>
+      <description>&lt;![CDATA[神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398157.html</guid>
       <category>Ai</category>
     </item>
   </channel>
