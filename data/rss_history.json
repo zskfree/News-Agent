@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2d6383069c4831dbd99b5613685a66e744ff7e0bd2f635d9aa2396279bda1f8a": {
-        "title": "瑞士清洁科技公司Unbound Potential研发无膜氧化还原液流电池，提升电池长时储能能力",
-        "link": "https://www.tmtpost.com/7906950.html",
-        "published_date": "Tue, 10 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.280410"
-      },
-      "cf9bb1496f08ab7a8369d97b750ec3ce6a882ab9865f044c612ea10fdfbd791c": {
-        "title": "实战定义价值：Digital Quant 2026 官方赛则发布",
-        "link": "https://www.tmtpost.com/7907420.html",
-        "published_date": "Tue, 10 Mar 2026 16:10:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.280420"
-      },
-      "10fa23911d56a0de0e1c0d6dc1c4c42c3985ffbb34f9abd61de5e7192a287515": {
-        "title": "傅盛的“产品运”，不只是玄学",
-        "link": "https://www.tmtpost.com/7906788.html",
-        "published_date": "Tue, 10 Mar 2026 08:51:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.280423"
-      },
-      "95a96bbccc4707a17db4def6ec66043cc285385dd5085e706add14ada1fe88e4": {
-        "title": "派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等",
-        "link": "https://sspai.com/post/107001",
-        "published_date": "Tue, 10 Mar 2026 08:09:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.280424"
-      },
-      "1e5b29dc9d033812db69c5726311c7939f54e925b50f9ccab5cf6f6eaddab24f": {
-        "title": "【钛晨报】又一轮能化品种涨停潮，上期所风控措施再加码；OpenClaw爆火，腾讯、字节相继推出自家“小龙虾”产品；消息称苹果上调首款折叠机备货量",
-        "link": "https://www.tmtpost.com/7906507.html",
-        "published_date": "Tue, 10 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.280426"
-      },
       "04f8b6b0780f2b573a1de1d7593559e4ad8116bed51abc3c861c04dd01df165e": {
         "title": "GPT-5.4 发布：OpenAI 新模型会自己用电脑了，正面撞上 OpenClaw",
         "link": "https://www.infoq.cn/article/orOZQwP7FExoPfwwDlJP?utm_source=rss&utm_medium=article",
@@ -2701,27 +2671,39 @@
         "link": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 09 Apr 2026 14:00:00 GMT",
         "first_seen": "2026-04-09T06:21:59.252204"
+      },
+      "d92d6778eceb44d000b49013964b7a8fdc8d9ac378c54141a6533cdc71aab07c": {
+        "title": "28亿变7600亿，烟台首富赚翻了",
+        "link": "https://www.tmtpost.com/7946559.html",
+        "published_date": "Thu, 09 Apr 2026 16:39:00 GMT",
+        "first_seen": "2026-04-09T09:12:21.414895"
+      },
+      "6956176cd864f01e43ca176583420f50f9ebb2ea38a3e2a0c67d910a076c58fe": {
+        "title": "吴泳铭的“手术刀”与阿里的“输不起”",
+        "link": "https://www.tmtpost.com/7946515.html",
+        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-09T09:12:21.414904"
+      },
+      "a7e58d7ac4998b15beffe947d38db0cba8ef9b3f23e5a220c962f4decdc72d0a": {
+        "title": "AR眼镜裸泳！XREAL三年巨亏20亿上市续命",
+        "link": "https://www.tmtpost.com/7946429.html",
+        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-09T09:12:21.414907"
+      },
+      "2edf4da47fdcd8939cb99e5a01ccc34544cc692e3cc2b03cf90dd935f436b55a": {
+        "title": "蔚小理大变局：向价格战低头，难成电车BBA",
+        "link": "https://www.tmtpost.com/7946403.html",
+        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-09T09:12:21.414909"
+      },
+      "68f8eaf6945c5025a6c9b1ab22a0a1d351042dc7c569bb99f6cbb3fe24c418cf": {
+        "title": "CAR-T迭代，吉利德狂奔",
+        "link": "https://www.tmtpost.com/7946388.html",
+        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-09T09:12:21.414910"
       }
     },
     "Finance": {
-      "da9ed72f617a3899227276f0e92bd3ada570d888986fc0c0cc0958d207f6b5cf": {
-        "title": "Lego chief hits out at Danish wealth tax proposal",
-        "link": "https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd",
-        "published_date": "Tue, 10 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.315311"
-      },
-      "450426edebd24699a9de8999ba140e327a8a16fa8d60fff22daf5af8660f1e5d": {
-        "title": "Khamenei martyrdom narrative smooths path for son’s rise",
-        "link": "https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c",
-        "published_date": "Tue, 10 Mar 2026 07:01:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.315317"
-      },
-      "81a305947cbfab8723ae56fcec3b4eedd057244cf4dea03a7e7bbc8eb0b30783": {
-        "title": "The thing that everyone expected to happen has happened",
-        "link": "https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9",
-        "published_date": "Tue, 10 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.315319"
-      },
       "6f8e9c07fd72f305cd1d19cc7eff08f57404c31817c41d373a7a8b7ae16902bd": {
         "title": "Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it",
         "link": "https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories",
@@ -4785,15 +4767,27 @@
         "link": "https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561",
         "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-09T06:22:16.908882"
+      },
+      "b6324d4a5bb3c97104ce92feb362eec2eb6472dfa9ad01ab94c3e97469f303ef": {
+        "title": "‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion",
+        "link": "https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.171859"
+      },
+      "6e8533c797b0461e49cfe6710466685822954c4ec265940ced8d3c186deb513d": {
+        "title": "Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Apr 2026 08:20:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.171867"
+      },
+      "f5cac89965d1e2d6473e8946a608e97063a28fdb7c707d0f21c5160be9006fc0": {
+        "title": "BDO axes 31 partner roles as AI pressure grows and profits fall",
+        "link": "https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6",
+        "published_date": "Thu, 09 Apr 2026 06:55:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.171869"
       }
     },
     "Ai": {
-      "7e482e76643004343645bb3910da638a281737953ae47238c315b18271bc176f": {
-        "title": "机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注",
-        "link": "https://www.qbitai.com/2026/03/385126.html",
-        "published_date": "Tue, 10 Mar 2026 05:50:00 GMT",
-        "first_seen": "2026-03-10T08:46:30.462168"
-      },
       "9feee06a39e152aa8e6fc9482492e5d8037bc9a21d05e973e38fcc928931871f": {
         "title": "蔚来，盈利了！！！",
         "link": "https://www.qbitai.com/2026/03/385797.html",
@@ -6209,13 +6203,31 @@
         "link": "https://www.qbitai.com/2026/04/398020.html",
         "published_date": "Thu, 09 Apr 2026 01:49:00 GMT",
         "first_seen": "2026-04-09T06:22:17.054366"
+      },
+      "16fabc815dcdd8680cdf83f47abca4929079d7e1ad8960d3e1b18692baaaa4a4": {
+        "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+        "link": "https://www.qbitai.com/2026/04/398140.html",
+        "published_date": "Thu, 09 Apr 2026 07:08:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.322498"
+      },
+      "4332ccb5b809cfb5e7d1ab96580edfd1fac0ff98b7f04b601525ac0726ac735a": {
+        "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
+        "link": "https://www.qbitai.com/2026/04/398121.html",
+        "published_date": "Thu, 09 Apr 2026 06:59:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.322506"
+      },
+      "b99d3c34b9e49b78910d0c2a0ecc251721f791e849b74b9b575adb4397579239": {
+        "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
+        "link": "https://www.qbitai.com/2026/04/398117.html",
+        "published_date": "Thu, 09 Apr 2026 06:23:00 GMT",
+        "first_seen": "2026-04-09T09:12:06.322508"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-09T06:21:59.252207",
-    "Finance": "2026-04-09T06:22:16.908884",
-    "Ai": "2026-04-09T06:22:17.054368"
+    "Technology": "2026-04-09T09:12:21.414912",
+    "Finance": "2026-04-09T09:12:06.171872",
+    "Ai": "2026-04-09T09:12:06.322511"
   }
 }

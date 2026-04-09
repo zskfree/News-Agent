@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-09 06:21
+**最后更新时间**: 2026-04-09 09:12
+
+---
+
+## 🆕 最新更新 (2026-04-09 09:12)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [28亿变7600亿，烟台首富赚翻了](https://www.tmtpost.com/7946559.html)
+**发布时间**: 2026-04-09 16:39
+
+#### [扎克伯格重开一局](https://www.tmtpost.com/7946522.html)
+**发布时间**: 2026-04-09 16:39
+
+#### [吴泳铭的“手术刀”与阿里的“输不起”](https://www.tmtpost.com/7946515.html)
+**发布时间**: 2026-04-09 16:29
+
+#### [AR眼镜裸泳！XREAL三年巨亏20亿上市续命](https://www.tmtpost.com/7946429.html)
+**发布时间**: 2026-04-09 16:29
+
+#### [蔚小理大变局：向价格战低头，难成电车BBA](https://www.tmtpost.com/7946403.html)
+**发布时间**: 2026-04-09 16:29
+
+#### [CAR-T迭代，吉利德狂奔](https://www.tmtpost.com/7946388.html)
+**发布时间**: 2026-04-09 16:29
+
+#### [巴菲特的公司凭什么值一万亿美金](https://www.tmtpost.com/7946495.html)
+**发布时间**: 2026-04-09 15:57
+
+#### [苹果折叠屏终于要来了，但我劝你别抱太高期待](https://www.tmtpost.com/7946346.html)
+**发布时间**: 2026-04-09 15:57
+
+#### [机器人融资狂潮里，有人闷声发大财](https://www.tmtpost.com/7945991.html)
+**发布时间**: 2026-04-09 15:45
+
+#### [GPT-6要来了，但AI行业早不跟 OpenAI玩了](https://www.tmtpost.com/7946354.html)
+**发布时间**: 2026-04-09 15:45
+
+#### [Momenta 闯关，曹旭东的港股时刻](https://www.tmtpost.com/7946075.html)
+**发布时间**: 2026-04-09 15:45
+
+#### [快速蹿红的Hermes Agent，会成为下一个OpenClaw吗？](https://www.tmtpost.com/7946273.html)
+**发布时间**: 2026-04-09 15:45
+
+#### [亏损234亿！“中国巴菲特”道歉](https://www.tmtpost.com/7946291.html)
+**发布时间**: 2026-04-09 15:45
+
+#### [从实验室到现实世界，具身智能距离“精密执行”还有多远？](https://www.tmtpost.com/7940982.html)
+**发布时间**: 2026-04-09 15:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践](https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 15:59
+
+#### [Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈](https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 15:00
+
+#### [Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%](https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事](https://sspai.com/post/69533)
+**发布时间**: 2026-04-09 14:32
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [面壁智能开源了个狠的！支持音色设计、克隆、30 语言 + 9 种方言的语音大模型。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532890&idx=1&sn=9c90ac284f2424ca8f676121beecbc0c)
+**发布时间**: 2026-04-08 16:03
 
 ---
 

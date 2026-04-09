@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 06:22:17 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 09:09:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:12:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-09日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-09/</link>
-      <description>&lt;![CDATA[2026-04-09日刊]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-09/</guid>
+      <title>Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注</title>
+      <link>https://www.qbitai.com/2026/04/398140.html</link>
+      <description>&lt;![CDATA[Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 07:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398140.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>爆火GitHub！《生化危机》女主打造免费“AI记忆系统”</title>
-      <link>https://www.qbitai.com/2026/04/398090.html</link>
-      <description>&lt;![CDATA[爆火GitHub！《生化危机》女主打造免费“AI记忆系统”]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 05:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398090.html</guid>
+      <title>Claude封杀龙虾后推自家Agent服务，又被开源平替了</title>
+      <link>https://www.qbitai.com/2026/04/398121.html</link>
+      <description>&lt;![CDATA[Claude封杀龙虾后推自家Agent服务，又被开源平替了]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398121.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会</title>
-      <link>https://www.qbitai.com/2026/04/398071.html</link>
-      <description>&lt;![CDATA[马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 03:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398071.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻</title>
-      <link>https://www.qbitai.com/2026/04/398020.html</link>
-      <description>&lt;![CDATA[Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 01:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398020.html</guid>
+      <title>阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户</title>
+      <link>https://www.qbitai.com/2026/04/398117.html</link>
+      <description>&lt;![CDATA[阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398117.html</guid>
       <category>Ai</category>
     </item>
   </channel>

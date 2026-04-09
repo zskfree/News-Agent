@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 06:21:59 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 09:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:12:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体</title>
-      <link>https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>28亿变7600亿，烟台首富赚翻了</title>
+      <link>https://www.tmtpost.com/7946559.html</link>
+      <description>&lt;![CDATA[28亿变7600亿，烟台首富赚翻了]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 16:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946559.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>铜、制冷剂、芯片三重暴击，家电涨价势在必行？</title>
-      <link>https://www.tmtpost.com/7945915.html</link>
-      <description>&lt;![CDATA[铜、制冷剂、芯片三重暴击，家电涨价势在必行？]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945915.html</guid>
+      <title>吴泳铭的“手术刀”与阿里的“输不起”</title>
+      <link>https://www.tmtpost.com/7946515.html</link>
+      <description>&lt;![CDATA[吴泳铭的“手术刀”与阿里的“输不起”]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946515.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察</title>
-      <link>https://www.tmtpost.com/7946124.html</link>
-      <description>&lt;![CDATA[科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7946124.html</guid>
+      <title>AR眼镜裸泳！XREAL三年巨亏20亿上市续命</title>
+      <link>https://www.tmtpost.com/7946429.html</link>
+      <description>&lt;![CDATA[AR眼镜裸泳！XREAL三年巨亏20亿上市续命]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946429.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等</title>
-      <link>https://sspai.com/post/108426</link>
-      <description>&lt;![CDATA[派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 08:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108426</guid>
+      <title>蔚小理大变局：向价格战低头，难成电车BBA</title>
+      <link>https://www.tmtpost.com/7946403.html</link>
+      <description>&lt;![CDATA[蔚小理大变局：向价格战低头，难成电车BBA]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946403.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本</title>
-      <link>https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>CAR-T迭代，吉利德狂奔</title>
+      <link>https://www.tmtpost.com/7946388.html</link>
+      <description>&lt;![CDATA[CAR-T迭代，吉利德狂奔]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946388.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 06:22:16 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 09:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:12:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Shipping stalls as Tehran dictates terms in Hormuz</title>
-      <link>https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd</link>
-      <description>&lt;![CDATA[Shipping stalls as Tehran dictates terms in Hormuz]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd</guid>
+      <title>‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion</title>
+      <link>https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Iran war has exposed the weakness of the dollar</title>
-      <link>https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa</link>
-      <description>&lt;![CDATA[Iran war has exposed the weakness of the dollar]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa</guid>
+      <title>Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year</title>
+      <link>https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The case for trade, remade</title>
-      <link>https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6</link>
-      <description>&lt;![CDATA[The case for trade, remade]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors sought to pull $20bn from private credit funds in first quarter</title>
-      <link>https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c</link>
-      <description>&lt;![CDATA[Investors sought to pull $20bn from private credit funds in first quarter]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Ackman in talks to launch fund to bet on investor complacency</title>
-      <link>https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561</link>
-      <description>&lt;![CDATA[Ackman in talks to launch fund to bet on investor complacency]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561</guid>
+      <title>BDO axes 31 partner roles as AI pressure grows and profits fall</title>
+      <link>https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</link>
+      <description>&lt;![CDATA[BDO axes 31 partner roles as AI pressure grows and profits fall]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</guid>
       <category>Finance</category>
     </item>
   </channel>

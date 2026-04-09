@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-09 06:21
+**最后更新时间**: 2026-04-09 09:12
+
+---
+
+## 🆕 最新更新 (2026-04-09 09:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion](https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 09:04
+
+#### [Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year](https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 08:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BDO axes 31 partner roles as AI pressure grows and profits fall](https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6)
+**发布时间**: 2026-04-09 06:55
+
+#### [Shipping stalls as Tehran dictates terms in Strait of Hormuz](https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd)
+**发布时间**: 2026-04-09 04:00
 
 ---
 
