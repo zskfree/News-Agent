@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 23:41
+**最后更新时间**: 2026-04-09 06:21
+
+---
+
+## 🆕 最新更新 (2026-04-09 06:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本](https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 14:00
+
+#### [TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体](https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 11:00
+
+#### [大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京](https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 10:00
+
+#### [大规模替换数据库序列，保障百余个服务平稳运行](https://www.infoq.cn/article/y7AbcVajoOEaglvkaDKU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 10:00
+
+#### [Swift 6.3 来了：不止 Android，C 互操作能力也更进一步](https://www.infoq.cn/article/LgQEaumUJuPpdlAdYwHN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-09 09:38
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [超过Seedance的黑马，是“精心设计”的爆款？](https://www.tmtpost.com/7945918.html)
+**发布时间**: 2026-04-09 13:59
+
+#### [亿纬锂能豪掷110亿扩产：储能行业的“黄金时代”，真的来了？](https://www.tmtpost.com/7945929.html)
+**发布时间**: 2026-04-09 13:59
+
+#### [阿里年入上千亿、百度400亿，互联网大厂如何靠AI赚钱？](https://www.tmtpost.com/7946548.html)
+**发布时间**: 2026-04-09 13:59
+
+#### [快乐马锁定下一个热门AI，阿里和字节哪个压力大?](https://www.tmtpost.com/7945851.html)
+**发布时间**: 2026-04-09 12:33
+
+#### [从「蓄力」到「发力」，赛力斯还需要多久？](https://www.tmtpost.com/7945994.html)
+**发布时间**: 2026-04-09 12:32
+
+#### [临界之前：核能与人工智能的链式反应开始了](https://www.tmtpost.com/7946493.html)
+**发布时间**: 2026-04-09 12:32
+
+#### [阿里AI，急什么？](https://www.tmtpost.com/7946215.html)
+**发布时间**: 2026-04-09 12:32
+
+#### [铜、制冷剂、芯片三重暴击，家电涨价势在必行？](https://www.tmtpost.com/7945915.html)
+**发布时间**: 2026-04-09 12:02
+
+#### [DeepSeek隐秘的深夜更新：一次关于“专家模式”的留客实验](https://www.tmtpost.com/7945878.html)
+**发布时间**: 2026-04-09 11:45
+
+#### [张雪峰走了，张雪赢了：普通人该选饭碗，还是热爱？](https://www.tmtpost.com/7945945.html)
+**发布时间**: 2026-04-09 11:45
+
+#### [巨鲸落万物生：Sora退场、PixVerse C1接棒，瞄准影视工业化](https://www.tmtpost.com/7946434.html)
+**发布时间**: 2026-04-09 11:24
+
+#### [算力经济学的逻辑，在Agent时代彻底改写了](https://www.tmtpost.com/7946437.html)
+**发布时间**: 2026-04-09 11:16
+
+#### [盒马待解新命题](https://www.tmtpost.com/7946411.html)
+**发布时间**: 2026-04-09 11:16
+
+#### [定价权VS消耗战：大模型下半场的续命法则](https://www.tmtpost.com/7946394.html)
+**发布时间**: 2026-04-09 11:16
+
+#### [留给零食很忙、好想来的加盟商不多了](https://www.tmtpost.com/7946331.html)
+**发布时间**: 2026-04-09 11:16
+
+#### [“内鬼”偷走酒店“床垫大王”1个亿](https://www.tmtpost.com/7946404.html)
+**发布时间**: 2026-04-09 11:01
+
+#### [OpenAI绝密文件曝光！掌门人奥特曼，竟是个“撒谎精”？](https://www.tmtpost.com/7946425.html)
+**发布时间**: 2026-04-09 11:01
+
+#### [科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察](https://www.tmtpost.com/7946124.html)
+**发布时间**: 2026-04-09 10:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [雷鸟 Air3 AR 眼镜：一年使用体验复盘](https://sspai.com/post/108367)
+**发布时间**: 2026-04-09 11:04
+
+#### [派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等](https://sspai.com/post/108426)
+**发布时间**: 2026-04-09 08:33
 
 ---
 

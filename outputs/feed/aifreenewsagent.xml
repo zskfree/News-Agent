@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 23:42:36 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:22:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Improving the academic workflow: Introducing two AI agents for better figures and peer review</title>
-      <link>https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/</link>
-      <description>&lt;![CDATA[Improving the academic workflow: Introducing two AI agents for better figures and peer review]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 20:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/</guid>
+      <title>2026-04-09日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-09/</link>
+      <description>&lt;![CDATA[2026-04-09日刊]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 09:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-09/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力</title>
-      <link>https://www.qbitai.com/2026/04/398001.html</link>
-      <description>&lt;![CDATA[武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398001.html</guid>
+      <title>爆火GitHub！《生化危机》女主打造免费“AI记忆系统”</title>
+      <link>https://www.qbitai.com/2026/04/398090.html</link>
+      <description>&lt;![CDATA[爆火GitHub！《生化危机》女主打造免费“AI记忆系统”]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 05:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398090.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Generalist最新长文定调：具身原生才是正道，原力灵机已交卷</title>
-      <link>https://www.qbitai.com/2026/04/397951.html</link>
-      <description>&lt;![CDATA[Generalist最新长文定调：具身原生才是正道，原力灵机已交卷]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397951.html</guid>
+      <title>马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会</title>
+      <link>https://www.qbitai.com/2026/04/398071.html</link>
+      <description>&lt;![CDATA[马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 03:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398071.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验</title>
-      <link>https://www.qbitai.com/2026/04/397942.html</link>
-      <description>&lt;![CDATA[智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397942.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了</title>
-      <link>https://www.qbitai.com/2026/04/397930.html</link>
-      <description>&lt;![CDATA[理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/397930.html</guid>
+      <title>Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻</title>
+      <link>https://www.qbitai.com/2026/04/398020.html</link>
+      <description>&lt;![CDATA[Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 01:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398020.html</guid>
       <category>Ai</category>
     </item>
   </channel>

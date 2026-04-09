@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 23:41:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 23:42:20 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:21:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>碳基向下，硅基向上：我们正在供养一台「失控的增长机器」</title>
-      <link>https://www.tmtpost.com/7944241.html</link>
-      <description>&lt;![CDATA[碳基向下，硅基向上：我们正在供养一台「失控的增长机器」]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7944241.html</guid>
+      <title>TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体</title>
+      <link>https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 那个“强到不敢发”的模型，终于来了！</title>
-      <link>https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic 那个“强到不敢发”的模型，终于来了！]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>铜、制冷剂、芯片三重暴击，家电涨价势在必行？</title>
+      <link>https://www.tmtpost.com/7945915.html</link>
+      <description>&lt;![CDATA[铜、制冷剂、芯片三重暴击，家电涨价势在必行？]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7945915.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>通义升级事业部、三大CTO入阵：阿里巴巴为AI拆藩篱？</title>
-      <link>https://www.tmtpost.com/7945695.html</link>
-      <description>&lt;![CDATA[通义升级事业部、三大CTO入阵：阿里巴巴为AI拆藩篱？]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945695.html</guid>
+      <title>科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察</title>
+      <link>https://www.tmtpost.com/7946124.html</link>
+      <description>&lt;![CDATA[科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946124.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片出海，征服日本汽车？</title>
-      <link>https://www.tmtpost.com/7945622.html</link>
-      <description>&lt;![CDATA[芯片出海，征服日本汽车？]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945622.html</guid>
+      <title>派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等</title>
+      <link>https://sspai.com/post/108426</link>
+      <description>&lt;![CDATA[派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108426</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当具身智能走进工厂：没有星辰大海，只有一本算不清的账</title>
-      <link>https://www.tmtpost.com/7946012.html</link>
-      <description>&lt;![CDATA[当具身智能走进工厂：没有星辰大海，只有一本算不清的账]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7946012.html</guid>
+      <title>Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本</title>
+      <link>https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

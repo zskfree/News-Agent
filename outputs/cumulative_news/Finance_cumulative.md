@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 23:41
+**最后更新时间**: 2026-04-09 06:21
+
+---
+
+## 🆕 最新更新 (2026-04-09 06:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Shipping stalls as Tehran dictates terms in Hormuz](https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd)
+**发布时间**: 2026-04-09 04:00
+
+#### [Iran war has exposed the weakness of the dollar](https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa)
+**发布时间**: 2026-04-09 04:00
+
+#### [The case for trade, remade](https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6)
+**发布时间**: 2026-04-09 04:00
+
+#### [Investors sought to pull $20bn from private credit funds in first quarter](https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c)
+**发布时间**: 2026-04-09 04:00
+
+#### [Ackman in talks to launch fund to bet on investor complacency](https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561)
+**发布时间**: 2026-04-09 04:00
+
+#### [Reform UK donor runs company linked to sanctioned Iranian conglomerate](https://www.ft.com/content/c0c9c617-9003-4e00-a7c6-e87b56a56bf3)
+**发布时间**: 2026-04-09 04:00
+
+#### [Hizbollah attacks Israel after wave of strikes on Lebanon](https://www.ft.com/content/5fa84873-0c45-462d-9f8b-3adbc9f0a164)
+**发布时间**: 2026-04-09 00:45
+
+#### [Will Trump stick with his Iran truce?](https://www.ft.com/content/e6883be4-a756-4c0b-b9f9-ac28554ad42f)
+**发布时间**: 2026-04-08 23:55
+
+#### [Ceasefire offers moment of respite for battered Tehran](https://www.ft.com/content/9226bb49-2a13-4b87-bcf8-5390abadef13)
+**发布时间**: 2026-04-08 19:55
 
 ---
 
