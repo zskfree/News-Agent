@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Apr 2026 06:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 06:56:34 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 09:13:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:14:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭</title>
-      <link>https://www.tmtpost.com/7947126.html</link>
-      <description>&lt;![CDATA[卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7947126.html</guid>
+      <title>森合高科：单一产品依赖、供应商资质遭问询｜IPO观察</title>
+      <link>https://www.tmtpost.com/7948657.html</link>
+      <description>&lt;![CDATA[森合高科：单一产品依赖、供应商资质遭问询｜IPO观察]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 16:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7948657.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌开源实验性多智能体编排测试平台 Scion</title>
-      <link>https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌开源实验性多智能体编排测试平台 Scion]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宁德时代41亿入股中恒科技，宁王的算盘不只在电池</title>
+      <link>https://www.tmtpost.com/7948433.html</link>
+      <description>&lt;![CDATA[宁德时代41亿入股中恒科技，宁王的算盘不只在电池]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7948433.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>周期反转，模拟芯片步入上行期</title>
-      <link>https://www.tmtpost.com/7947131.html</link>
-      <description>&lt;![CDATA[周期反转，模拟芯片步入上行期]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7947131.html</guid>
+      <title>一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会</title>
+      <link>https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：微信支付发布接入 Skill 工具体系等</title>
-      <link>https://sspai.com/post/108468</link>
-      <description>&lt;![CDATA[派早报：微信支付发布接入 Skill 工具体系等]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 08:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108468</guid>
+      <title>开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心</title>
+      <link>https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】中国自贸试验区扩围至23个，新增内蒙古；腾讯云：5月9日起对AI算力、容器服务及弹性MapReduce（EMR）相关产品刊例价进行调整；消息称特斯拉Cybercab量产启动</title>
-      <link>https://www.tmtpost.com/7947269.html</link>
-      <description>&lt;![CDATA[【钛晨报】中国自贸试验区扩围至23个，新增内蒙古；腾讯云：5月9日起对AI算力、容器服务及弹性MapReduce（EMR）相关产品刊例价进行调整；消息称特斯拉Cybercab量产启动]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7947269.html</guid>
+      <title>京东健康要给百万台器械装上AI，千亿市场的边界会被打破吗？</title>
+      <link>https://www.tmtpost.com/7948069.html</link>
+      <description>&lt;![CDATA[京东健康要给百万台器械装上AI，千亿市场的边界会被打破吗？]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7948069.html</guid>
       <category>Technology</category>
     </item>
   </channel>

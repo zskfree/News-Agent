@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 06:55
+**最后更新时间**: 2026-04-10 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-10 09:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [京东健康要给百万台器械装上AI，千亿市场的边界会被打破吗？](https://www.tmtpost.com/7948069.html)
+**发布时间**: 2026-04-10 16:42
+
+#### [森合高科：单一产品依赖、供应商资质遭问询｜IPO观察](https://www.tmtpost.com/7948657.html)
+**发布时间**: 2026-04-10 16:36
+
+#### [郑州银行，需要“两条腿走路”](https://www.tmtpost.com/7948265.html)
+**发布时间**: 2026-04-10 15:53
+
+#### [宁德时代41亿入股中恒科技，宁王的算盘不只在电池](https://www.tmtpost.com/7948433.html)
+**发布时间**: 2026-04-10 15:48
+
+#### [汪滔是孙悟空，刘靖康跟陶冶给他戴上紧箍咒](https://www.tmtpost.com/7948435.html)
+**发布时间**: 2026-04-10 15:48
+
+#### [Taste：AI帮不了拿不走的品牌资产](https://www.tmtpost.com/7948488.html)
+**发布时间**: 2026-04-10 15:45
+
+#### [一夜刷屏的SBTI，给营销人上了什么课？](https://www.tmtpost.com/7948510.html)
+**发布时间**: 2026-04-10 15:44
+
+#### [高顿挑战高顿](https://www.tmtpost.com/7948563.html)
+**发布时间**: 2026-04-10 15:44
+
+#### [与游戏巨头打官司，成了一门“好生意”](https://www.tmtpost.com/7948549.html)
+**发布时间**: 2026-04-10 15:37
+
+#### [AH溢价走低的成因与展望](https://www.tmtpost.com/7948517.html)
+**发布时间**: 2026-04-10 15:36
+
+#### [移动能源界“乐高”RENOGY：别在1块钱里内卷，去4块钱里找增量 ｜ 出海参考](https://www.tmtpost.com/7948674.html)
+**发布时间**: 2026-04-10 15:36
+
+#### [蒸馏：全员skill的职场恐怖故事](https://www.tmtpost.com/7948425.html)
+**发布时间**: 2026-04-10 15:29
+
+#### [11天押注230亿，动力电池更赚钱，亿纬锂能为什么偏要去卷储能](https://www.tmtpost.com/7948440.html)
+**发布时间**: 2026-04-10 15:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会](https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 16:10
+
+#### [开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心](https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 15:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [深入 OPPO Find N6：一场关于大屏和效率的舞蹈](https://sspai.com/post/108469)
+**发布时间**: 2026-04-10 15:05
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 3 万星的 Linux 管理面板，AI 应用单月下载破 10 万次。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532897&idx=1&sn=b9f02dbc1e532a09163fbbcbca3db365)
+**发布时间**: 2026-04-10 11:31
+
+#### [GitHub 上一路飙到 3.2 万 Star 的 Claude Code 最佳实践，开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532896&idx=1&sn=c169336edc44c424818ad55c3dd46138)
+**发布时间**: 2026-04-09 16:16
 
 ---
 

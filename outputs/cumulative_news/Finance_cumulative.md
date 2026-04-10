@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 06:55
+**最后更新时间**: 2026-04-10 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-10 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million](https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 09:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel presses ahead with Lebanon strikes as talks loom](https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f)
+**发布时间**: 2026-04-10 08:37
+
+#### [Canada pushes to join UK-Italy-Japan advanced fighter jet project](https://www.ft.com/content/d664b704-56a5-4b00-b34c-8da39e82a2a9)
+**发布时间**: 2026-04-10 04:00
+
+#### [Italian government moves to oust Leonardo chief executive](https://www.ft.com/content/2766689f-e849-4980-9ef9-1abe6bf538ec)
+**发布时间**: 2026-04-09 21:57
 
 ---
 

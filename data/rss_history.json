@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "784f9ea18ca2ed86905ad5e286a7b8f5a259b41807022fa23545595e5aba3fe4": {
-        "title": "杨立昆，两个月融了70.8亿",
-        "link": "https://www.tmtpost.com/7908860.html",
-        "published_date": "Wed, 11 Mar 2026 14:36:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.077378"
-      },
-      "8dc873c7c8e9337dca8819a9d085b198d24242de4ddd8fa201dc6ddaee20dcfd": {
-        "title": "Anthropic工程师都离不开！深夜随手撸出的开源神器，被OpenAl高价收购，23人创业逆袭",
-        "link": "https://www.infoq.cn/article/a6GdY75EJ4PmCadmXxyY?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Mar 2026 09:58:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.077390"
-      },
-      "4d8a3ee9b9719aa2e4d77fe3f1c5690dcce60a634d4011b014bb0d2f1ebf8ae0": {
-        "title": "华为押宝U6GHz，通信业如何赚大模型的钱",
-        "link": "https://www.tmtpost.com/7909425.html",
-        "published_date": "Wed, 11 Mar 2026 16:33:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.077392"
-      },
-      "b691852b1f96a03934743e92e1f8e182d72091d18beadec512742bca6ae42b02": {
-        "title": "“中间态”L3，是自动驾驶必经之路，还是伪命题？",
-        "link": "https://www.tmtpost.com/7909233.html",
-        "published_date": "Wed, 11 Mar 2026 15:46:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.077395"
-      },
-      "10b36388fb930d141d15c960dc88fca72c00148bc2ddc6621d3d287c058199f3": {
-        "title": "砍专业只是开始，大学在AI时代正面临生死时速",
-        "link": "https://www.tmtpost.com/7909106.html",
-        "published_date": "Wed, 11 Mar 2026 15:31:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.077397"
-      },
       "5c67899b0042f4d317dd9577ff012f3ddf468de3b88353a8a944b8b1698fa35b": {
         "title": "黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）",
         "link": "https://www.tmtpost.com/7909386.html",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7947269.html",
         "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
         "first_seen": "2026-04-10T06:56:34.103243"
+      },
+      "a333dfd4a8ccc9d3e5830e1b11612dab995d8cc7d05774c10875cc986fd42b07": {
+        "title": "森合高科：单一产品依赖、供应商资质遭问询｜IPO观察",
+        "link": "https://www.tmtpost.com/7948657.html",
+        "published_date": "Fri, 10 Apr 2026 16:36:00 GMT",
+        "first_seen": "2026-04-10T09:14:01.460891"
+      },
+      "a6ae2896815a23e0495de6f824ffba013377a89e632ce29ae89b217803fa1159": {
+        "title": "宁德时代41亿入股中恒科技，宁王的算盘不只在电池",
+        "link": "https://www.tmtpost.com/7948433.html",
+        "published_date": "Fri, 10 Apr 2026 15:48:00 GMT",
+        "first_seen": "2026-04-10T09:14:01.460901"
+      },
+      "1810b4b240526d70bdec99437c1b764dd7e3945ca1b0a8638fac40d5557a656b": {
+        "title": "一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会",
+        "link": "https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 16:10:00 GMT",
+        "first_seen": "2026-04-10T09:14:01.460904"
+      },
+      "a5f61f49056ae89dd357117a80ad1e589802835305f75b6b66f49e88d485573e": {
+        "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
+        "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 15:21:00 GMT",
+        "first_seen": "2026-04-10T09:14:01.460906"
+      },
+      "f62f772948bff982d7e647756b8e9f27f01a57a50b1b6ff4522c5b72c00a7ec5": {
+        "title": "京东健康要给百万台器械装上AI，千亿市场的边界会被打破吗？",
+        "link": "https://www.tmtpost.com/7948069.html",
+        "published_date": "Fri, 10 Apr 2026 16:42:00 GMT",
+        "first_seen": "2026-04-10T09:14:01.460908"
       }
     },
     "Finance": {
@@ -4785,15 +4785,21 @@
         "link": "https://www.ft.com/content/d51dd10e-2244-4cbf-897f-1959364ce625",
         "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-10T06:56:20.299932"
+      },
+      "504b5952b4673a1944a0aee310e1ce12a5b8979e31a235455e42d80ebf66790d": {
+        "title": "‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million",
+        "link": "https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories",
+        "published_date": "Fri, 10 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.345703"
+      },
+      "636cb00f1fdb43f3986665bb229f7d76d3835e9d56a8eda92d9046a4e8b654d7": {
+        "title": "Israel presses ahead with Lebanon strikes as talks loom",
+        "link": "https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f",
+        "published_date": "Fri, 10 Apr 2026 08:37:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.345716"
       }
     },
     "Ai": {
-      "a65120012bd517dfcaa92989d7831a78d13dd940f70788eef69e8830217057da": {
-        "title": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
-        "link": "https://www.qbitai.com/2026/03/386114.html",
-        "published_date": "Wed, 11 Mar 2026 07:45:00 GMT",
-        "first_seen": "2026-03-11T08:44:45.269219"
-      },
       "aab2717be871617c3eec4fb5ed88000afa740eb07ea947406f3caafea624f236": {
         "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
         "link": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/",
@@ -6227,13 +6233,43 @@
         "link": "https://www.qbitai.com/2026/04/398181.html",
         "published_date": "Fri, 10 Apr 2026 02:20:00 GMT",
         "first_seen": "2026-04-10T06:56:20.453011"
+      },
+      "cf15b1f9cf628291346f6d76df2c5dd039cb248ffd67a65593288f4ba2f76e50": {
+        "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "link": "https://www.qbitai.com/2026/04/398807.html",
+        "published_date": "Fri, 10 Apr 2026 08:22:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.500633"
+      },
+      "2e9af23b249bf9ffb0cafe07da6c1943c8cfd8205e60fb447400ef4cf3f3ceee": {
+        "title": "刷屏的SBTI，底层算法有点东西…",
+        "link": "https://www.qbitai.com/2026/04/398788.html",
+        "published_date": "Fri, 10 Apr 2026 08:12:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.500642"
+      },
+      "2d8d0de0c759c4aa215990e701a349ec287cb892e59bf5d4623ac481d3b676de": {
+        "title": "生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
+        "link": "https://www.qbitai.com/2026/04/398772.html",
+        "published_date": "Fri, 10 Apr 2026 07:37:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.500645"
+      },
+      "d0323120e09b57e77e0056fc30cf0e492b39cfbe207e324223c3544f91515b1c": {
+        "title": "太初元碁完成智谱GLM-5.1即发即适配",
+        "link": "https://www.qbitai.com/2026/04/398752.html",
+        "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.500646"
+      },
+      "6827b5301cb5a69aad376693cfe9a49df7775eade3a3a16542074b4cfd95804d": {
+        "title": "这帮清华的，造了一个让龙虾“安全着陆”的新物种",
+        "link": "https://www.qbitai.com/2026/04/398750.html",
+        "published_date": "Fri, 10 Apr 2026 07:13:00 GMT",
+        "first_seen": "2026-04-10T09:13:41.500648"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-10T06:56:34.103245",
-    "Finance": "2026-04-10T06:56:20.299934",
-    "Ai": "2026-04-10T06:56:20.453014"
+    "Technology": "2026-04-10T09:14:01.460910",
+    "Finance": "2026-04-10T09:13:41.345719",
+    "Ai": "2026-04-10T09:13:41.500649"
   }
 }
