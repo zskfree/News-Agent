@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-09 23:40
+**最后更新时间**: 2026-04-10 06:55
+
+---
+
+## 🆕 最新更新 (2026-04-10 06:55)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展](https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 14:00
+
+#### [Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码](https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 11:00
+
+#### [从业务场景到组织体系，“龙虾” 如何走进企业](https://www.infoq.cn/article/ooKcF9BdXrfJloHHNZpY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 10:08
+
+#### [从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京](https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 10:00
+
+#### [谷歌开源实验性多智能体编排测试平台 Scion](https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-10 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI带火了储能，但“升咖”之路依然漫长](https://www.tmtpost.com/7948002.html)
+**发布时间**: 2026-04-10 13:22
+
+#### [开年销量骤降三成，小鹏还被澳洲经销商“坑”？](https://www.tmtpost.com/7947283.html)
+**发布时间**: 2026-04-10 12:39
+
+#### [大疆汪滔，与这个世界的一场和解](https://www.tmtpost.com/7947139.html)
+**发布时间**: 2026-04-10 12:39
+
+#### [2026年中国零供关系趋势洞察](https://www.tmtpost.com/7948226.html)
+**发布时间**: 2026-04-10 12:39
+
+#### [DeepSeek能否扛住V4冲击波，得问代达劢](https://www.tmtpost.com/7948243.html)
+**发布时间**: 2026-04-10 12:39
+
+#### [《洛克王国》爆火：页游手游化，只剩情怀杀？](https://www.tmtpost.com/7948115.html)
+**发布时间**: 2026-04-10 12:38
+
+#### [热搜之外，电竞俱乐部还要学会做生意](https://www.tmtpost.com/7948189.html)
+**发布时间**: 2026-04-10 12:34
+
+#### [逛完博华展之后，我发现了酒店AI的这些真相](https://www.tmtpost.com/7948150.html)
+**发布时间**: 2026-04-10 12:30
+
+#### [战争与医药](https://www.tmtpost.com/7948061.html)
+**发布时间**: 2026-04-10 12:29
+
+#### [从大模型到Agent的跨越难度，正被整个行业严重低估](https://www.tmtpost.com/7948137.html)
+**发布时间**: 2026-04-10 12:28
+
+#### [俞敏洪，不信流量了](https://www.tmtpost.com/7948056.html)
+**发布时间**: 2026-04-10 12:28
+
+#### [最强县的第一只独角兽，终于要上市了](https://www.tmtpost.com/7948148.html)
+**发布时间**: 2026-04-10 12:23
+
+#### [霍尔木兹一开一关，中国厂长损失十万](https://www.tmtpost.com/7947135.html)
+**发布时间**: 2026-04-10 12:20
+
+#### [价格连涨三次，错失万亿Token：智谱在Agent浪潮中跑输大盘](https://www.tmtpost.com/7947142.html)
+**发布时间**: 2026-04-10 12:19
+
+#### [周期反转，模拟芯片步入上行期](https://www.tmtpost.com/7947131.html)
+**发布时间**: 2026-04-10 12:16
+
+#### [卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭](https://www.tmtpost.com/7947126.html)
+**发布时间**: 2026-04-10 12:07
+
+#### [氦气告急，直击AI热潮](https://www.tmtpost.com/7947132.html)
+**发布时间**: 2026-04-10 12:07
+
+#### [AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？](https://www.tmtpost.com/7947757.html)
+**发布时间**: 2026-04-10 12:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」](https://sspai.com/post/108453)
+**发布时间**: 2026-04-10 11:35
+
+#### [派早报：微信支付发布接入 Skill 工具体系等](https://sspai.com/post/108468)
+**发布时间**: 2026-04-10 08:47
 
 ---
 

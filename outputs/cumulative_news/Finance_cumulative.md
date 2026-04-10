@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-09 23:40
+**最后更新时间**: 2026-04-10 06:55
+
+---
+
+## 🆕 最新更新 (2026-04-10 06:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy](https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213)
+**发布时间**: 2026-04-10 06:01
+
+#### [China’s Xi tells Taiwan opposition leader unification an ‘inevitability’](https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386)
+**发布时间**: 2026-04-10 05:08
+
+#### [Nato split over US access to European bases in Iran war](https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b)
+**发布时间**: 2026-04-10 04:00
+
+#### [Now would be a great time to send US ambassadors to the Middle East](https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643)
+**发布时间**: 2026-04-10 04:00
+
+#### [Six lessons for investors on pricing disaster](https://www.ft.com/content/d51dd10e-2244-4cbf-897f-1959364ce625)
+**发布时间**: 2026-04-10 04:00
+
+#### [Labour’s deputy warns against ‘bloody’ leadership contest to replace Starmer](https://www.ft.com/content/9196d514-2ba3-4d0c-82e7-0c91554b9f9a)
+**发布时间**: 2026-04-10 04:00
+
+#### [Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks](https://www.ft.com/content/397bf755-54cf-4018-a01d-8f714d8667c5)
+**发布时间**: 2026-04-10 02:11
+
+#### [Trump warns Iran over charging for passage through strait](https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f)
+**发布时间**: 2026-04-10 01:16
+
+#### [The 10 minutes that set Lebanon ablaze](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)
+**发布时间**: 2026-04-09 20:29
+
+#### [The chips chokehold that could end the AI investment boom](https://www.ft.com/content/f1af8c86-4e6c-4531-b229-32e25011ddb0)
+**发布时间**: 2026-04-09 15:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.](https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 00:29
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "20bfcc05cc05eef578c15798ac2737be67fd6df321e0325341f3a0de403dd34e": {
-        "title": "OpenAI完成1100亿美元融资，亚马逊成为Frontier独家第三方云分销商",
-        "link": "https://www.infoq.cn/article/y688Ya2AFzphbj3b3CfR?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-11T05:51:27.089582"
-      },
-      "bf85c3d038e98b7d1c806a0b59b7b8fa17b15e6af7272b47cdb7edafae355665": {
-        "title": "在中国文言文面前，全球顶级模型全线溃败",
-        "link": "https://www.tmtpost.com/7908714.html",
-        "published_date": "Wed, 11 Mar 2026 12:04:00 GMT",
-        "first_seen": "2026-03-11T05:51:27.089593"
-      },
-      "f0a71e1cc5fe88de3247e9cfa33fe8fe8b4d8d8c22893f82d36209d094174806": {
-        "title": "AI制药首次实现盈利，告诉我们什么？",
-        "link": "https://www.tmtpost.com/7908553.html",
-        "published_date": "Wed, 11 Mar 2026 11:45:00 GMT",
-        "first_seen": "2026-03-11T05:51:27.089596"
-      },
-      "07351607b23e6b71f98475676b49540d43b7fdaa1d29cc3cef05e25532fb34b0": {
-        "title": "来自 GitHub 的数据表明，AI 工具正在创造“便利循环”，重塑开发者的语言选择",
-        "link": "https://www.infoq.cn/article/6U6QxjzgUwA4XL80Kv2b?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-11T05:51:27.089598"
-      },
-      "ddca88235ae2426a4ce55596e756e5e2d9dd870def29ba1be705dd4a75ba4d06": {
-        "title": "Token大迁徙，一场由“龙虾”引爆的全球“西数东算”",
-        "link": "https://www.tmtpost.com/7908720.html",
-        "published_date": "Wed, 11 Mar 2026 12:09:00 GMT",
-        "first_seen": "2026-03-11T05:51:27.089600"
-      },
       "784f9ea18ca2ed86905ad5e286a7b8f5a259b41807022fa23545595e5aba3fe4": {
         "title": "杨立昆，两个月融了70.8亿",
         "link": "https://www.tmtpost.com/7908860.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7947044.html",
         "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
         "first_seen": "2026-04-09T23:42:13.311294"
+      },
+      "e02b960f9ef897db9d566bc41e744cba866cf7c90c3687bfd2f84707af494abd": {
+        "title": "卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭",
+        "link": "https://www.tmtpost.com/7947126.html",
+        "published_date": "Fri, 10 Apr 2026 12:07:00 GMT",
+        "first_seen": "2026-04-10T06:56:34.103226"
+      },
+      "b4ee04e00763a094189758d16c3d248b176acf284881d6f5b90ebd94dc167370": {
+        "title": "谷歌开源实验性多智能体编排测试平台 Scion",
+        "link": "https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-10T06:56:34.103236"
+      },
+      "fdef9e011376097813792efbfb5571eb6133410b4674455ced26c7c9effa03fc": {
+        "title": "周期反转，模拟芯片步入上行期",
+        "link": "https://www.tmtpost.com/7947131.html",
+        "published_date": "Fri, 10 Apr 2026 12:16:00 GMT",
+        "first_seen": "2026-04-10T06:56:34.103239"
+      },
+      "58cba5eca19def849e852af7aed902fca616b887d8e7933d63caaf2f55ad2fa1": {
+        "title": "派早报：微信支付发布接入 Skill 工具体系等",
+        "link": "https://sspai.com/post/108468",
+        "published_date": "Fri, 10 Apr 2026 08:47:00 GMT",
+        "first_seen": "2026-04-10T06:56:34.103241"
+      },
+      "d9444ef512643646a10208db9d75d6ff495e503fa94ad611094c799b23bfdb53": {
+        "title": "【钛晨报】中国自贸试验区扩围至23个，新增内蒙古；腾讯云：5月9日起对AI算力、容器服务及弹性MapReduce（EMR）相关产品刊例价进行调整；消息称特斯拉Cybercab量产启动",
+        "link": "https://www.tmtpost.com/7947269.html",
+        "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-10T06:56:34.103243"
       }
     },
     "Finance": {
-      "cbdcbb13288ccc880a0286dd64dd110fe91299815f2dbecbc912f6b3bd982eda": {
-        "title": "The economic consequences of war with Iran",
-        "link": "https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125",
-        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.403812"
-      },
-      "16f989c15b761bd6df0d9cf7e90edbe4c8a096679bc48dbe1bf7fecbd7b90f7a": {
-        "title": "Lloyd’s of London says it will still insure ‘basically anyone’ in the Gulf",
-        "link": "https://www.ft.com/content/2e25cb5b-f5d2-45dd-9688-52ed86212278",
-        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.403821"
-      },
-      "e68152ec842dccabcaac77f4ac1f3c8f1af2b9fa6dc666effe36a57134c657ea": {
-        "title": "What’s next for crude-oil prices as wealthy nations consider a release of their reserves",
-        "link": "https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Mar 2026 01:13:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.403823"
-      },
-      "1e89137c5cd92eb23122c3720e2dddac4946d19571f6747517aec5779633a490": {
-        "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance",
-        "link": "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories",
-        "published_date": "Tue, 10 Mar 2026 23:50:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.403825"
-      },
-      "8d8b71f4b84418b8d6127a9aa14108677a1f76dbf6bd878cc3f79ff756460b05": {
-        "title": "Gulf disruption chokes sulphur flows supporting swaths of global industry",
-        "link": "https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d",
-        "published_date": "Wed, 11 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.403826"
-      },
       "863ec24d4ffacb0900308b0dc36ef9632ba370e57e051c91a8a2421c7d01ee36": {
         "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
         "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
@@ -4785,21 +4755,39 @@
         "link": "https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9",
         "published_date": "Thu, 09 Apr 2026 20:45:00 GMT",
         "first_seen": "2026-04-09T23:41:17.745936"
+      },
+      "d284bf34d98d09e9b7b4d3d79ccab29653d52d9a3b56468795d72a9b01850cdc": {
+        "title": "Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy",
+        "link": "https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213",
+        "published_date": "Fri, 10 Apr 2026 06:01:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.299911"
+      },
+      "ae4da200832e19ba821301ab25b9c00e66b4dc72fe5f95df8e9acb15ed5f39e3": {
+        "title": "China’s Xi tells Taiwan opposition leader unification an ‘inevitability’",
+        "link": "https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386",
+        "published_date": "Fri, 10 Apr 2026 05:08:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.299925"
+      },
+      "1709e05c4a69486653605b3ad72d83c49b402904b6725c725fdff1b47c5f0a5d": {
+        "title": "Nato split over US access to European bases in Iran war",
+        "link": "https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b",
+        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.299928"
+      },
+      "d7cee1851268a5685183261646d5409a6c05dc0ca95354a2ee271c3059accc30": {
+        "title": "Now would be a great time to send US ambassadors to the Middle East",
+        "link": "https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643",
+        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.299930"
+      },
+      "4ca9819f20b0d78ebe6d5f67c38a560c30b3a92fae55e346db1fbb2d440599cb": {
+        "title": "Six lessons for investors on pricing disaster",
+        "link": "https://www.ft.com/content/d51dd10e-2244-4cbf-897f-1959364ce625",
+        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.299932"
       }
     },
     "Ai": {
-      "3bcfd1ec6f7690411919098235c833682d6cf56f7c11c2159ac0fec02879a3ee": {
-        "title": "2026-03-11日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-11/",
-        "published_date": "Wed, 11 Mar 2026 10:28:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.547599"
-      },
-      "a1486d95b45621bc8984515f453221cb7c77cfa70878442c6ec264a1e22ea8aa": {
-        "title": "20亿砸向00后创业机器人公司！估值一年暴涨7倍，国家级资本重仓",
-        "link": "https://www.qbitai.com/2026/03/385824.html",
-        "published_date": "Wed, 11 Mar 2026 04:11:00 GMT",
-        "first_seen": "2026-03-11T05:51:43.547607"
-      },
       "a65120012bd517dfcaa92989d7831a78d13dd940f70788eef69e8830217057da": {
         "title": "ChatGPT和Claude争了个寂寞！用户重叠仅11%，中国应用霸榜移动端",
         "link": "https://www.qbitai.com/2026/03/386114.html",
@@ -6221,13 +6209,31 @@
         "link": "https://www.qbitai.com/2026/04/398157.html",
         "published_date": "Thu, 09 Apr 2026 09:38:00 GMT",
         "first_seen": "2026-04-09T23:41:17.874255"
+      },
+      "c3a2de936abda02dedead7cbc255551dd4c9238867c84f3dd9a130774d626922": {
+        "title": "2026-04-10日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-10/",
+        "published_date": "Fri, 10 Apr 2026 09:45:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.453000"
+      },
+      "06a2c2e460c665c6e1691db4b70e3f34d5e6a02e8a738308b3628a1aa6bced4e": {
+        "title": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
+        "link": "https://www.qbitai.com/2026/04/398385.html",
+        "published_date": "Fri, 10 Apr 2026 04:12:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.453009"
+      },
+      "374bf6827119b62a0531459659359423788a66fc8d1b11290c7ef58f96865639": {
+        "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
+        "link": "https://www.qbitai.com/2026/04/398181.html",
+        "published_date": "Fri, 10 Apr 2026 02:20:00 GMT",
+        "first_seen": "2026-04-10T06:56:20.453011"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-09T23:42:13.311297",
-    "Finance": "2026-04-09T23:41:17.745938",
-    "Ai": "2026-04-09T23:41:17.874258"
+    "Technology": "2026-04-10T06:56:34.103245",
+    "Finance": "2026-04-10T06:56:20.299934",
+    "Ai": "2026-04-10T06:56:20.453014"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2026 23:41:17 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 06:53:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 06:56:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ConvApparel: Measuring and bridging the realism gap in user simulators</title>
-      <link>https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</link>
-      <description>&lt;![CDATA[ConvApparel: Measuring and bridging the realism gap in user simulators]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/</guid>
+      <title>2026-04-10日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-10/</link>
+      <description>&lt;![CDATA[2026-04-10日刊]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-10/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…</title>
-      <link>https://www.qbitai.com/2026/04/398157.html</link>
-      <description>&lt;![CDATA[神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…]]&gt;</description>
-      <pubDate>Thu, 09 Apr 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398157.html</guid>
+      <title>Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了</title>
+      <link>https://www.qbitai.com/2026/04/398385.html</link>
+      <description>&lt;![CDATA[Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 04:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398385.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>别只用AI写脚本了，现在AI打广告可真是城会玩了！</title>
+      <link>https://www.qbitai.com/2026/04/398181.html</link>
+      <description>&lt;![CDATA[别只用AI写脚本了，现在AI打广告可真是城会玩了！]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 02:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398181.html</guid>
       <category>Ai</category>
     </item>
   </channel>
