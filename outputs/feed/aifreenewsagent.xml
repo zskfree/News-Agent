@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Apr 2026 09:12:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 09:13:41 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 23:36:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 23:39:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>LeCun点赞：国产开源模型占领硅谷，性价比超10倍</title>
-      <link>https://www.qbitai.com/2026/04/398807.html</link>
-      <description>&lt;![CDATA[LeCun点赞：国产开源模型占领硅谷，性价比超10倍]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 08:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398807.html</guid>
+      <title>阿里视频生成大模型Wan2.7登顶DesignArena榜单</title>
+      <link>https://www.qbitai.com/2026/04/399370.html</link>
+      <description>&lt;![CDATA[阿里视频生成大模型Wan2.7登顶DesignArena榜单]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399370.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刷屏的SBTI，底层算法有点东西…</title>
-      <link>https://www.qbitai.com/2026/04/398788.html</link>
-      <description>&lt;![CDATA[刷屏的SBTI，底层算法有点东西…]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 08:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398788.html</guid>
+      <title>紫荆智康发布“紫荆AI医院”线上虚拟诊室</title>
+      <link>https://www.qbitai.com/2026/04/399366.html</link>
+      <description>&lt;![CDATA[紫荆智康发布“紫荆AI医院”线上虚拟诊室]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399366.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座</title>
-      <link>https://www.qbitai.com/2026/04/398772.html</link>
-      <description>&lt;![CDATA[生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 07:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398772.html</guid>
+      <title>击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军</title>
+      <link>https://www.qbitai.com/2026/04/399351.html</link>
+      <description>&lt;![CDATA[击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399351.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>太初元碁完成智谱GLM-5.1即发即适配</title>
-      <link>https://www.qbitai.com/2026/04/398752.html</link>
-      <description>&lt;![CDATA[太初元碁完成智谱GLM-5.1即发即适配]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398752.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>这帮清华的，造了一个让龙虾“安全着陆”的新物种</title>
-      <link>https://www.qbitai.com/2026/04/398750.html</link>
-      <description>&lt;![CDATA[这帮清华的，造了一个让龙虾“安全着陆”的新物种]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398750.html</guid>
+      <title>实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了</title>
+      <link>https://www.qbitai.com/2026/04/398869.html</link>
+      <description>&lt;![CDATA[实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/398869.html</guid>
       <category>Ai</category>
     </item>
   </channel>

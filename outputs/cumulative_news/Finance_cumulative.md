@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 09:13
+**最后更新时间**: 2026-04-10 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-10 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are you a ‘HENRY’? Why 90% of financial advisers will waive their minimums to get your business.](https://www.marketwatch.com/story/are-you-a-henry-why-90-of-financial-advisers-will-waive-their-minimums-to-get-your-business-2b7bd083?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 22:14
+
+#### [How chaotic do your fellow passengers need to be for an airline to give you compensation?](https://www.marketwatch.com/story/how-chaotic-do-your-fellow-passengers-need-to-be-for-an-airline-to-give-you-compensation-7a222514?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 22:01
+
+#### [AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers](https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:41
+
+#### [Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:36
+
+#### [Americans would love this $25,000 hybrid SUV — but it’s not available here yet](https://www.marketwatch.com/story/americans-would-love-this-25-000-hybrid-suv-but-its-not-available-here-yet-bfa693ce?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:19
+
+#### [Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks](https://www.marketwatch.com/story/investors-are-gloomy-about-inflation-and-risk-taking-ahead-of-saturdays-iran-talks-eeb8552d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:07
+
+#### [It’s OK to postpone saving for college until you have these 4 financial priorities under control](https://www.marketwatch.com/story/dont-start-saving-for-college-until-you-have-these-4-financial-priorities-under-control-84988ed6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:50
+
+#### [Here’s the real cost of economy airfare after all the fees. ‘What’s next — an add-on for access to the bathroom?’](https://www.marketwatch.com/story/heres-the-real-cost-of-economy-airfare-after-all-the-fees-whats-next-an-add-on-for-access-to-the-bathroom-0f614798?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:23
+
+#### [Nike’s stock hits 12-year low, as some analysts are losing faith in management](https://www.marketwatch.com/story/nikes-stock-hits-12-year-low-as-some-analysts-are-losing-faith-in-management-468f7f71?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:17
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK drops bill to hand Chagos Islands to Mauritius after US opposition](https://www.ft.com/content/971be43c-d745-4872-8544-cb7a351c8789)
+**发布时间**: 2026-04-10 22:04
+
+#### [Warsh’s confirmation as Trump’s next Fed chair risks delay](https://www.ft.com/content/5a078a3a-9580-47c1-9cb3-8c657457896d)
+**发布时间**: 2026-04-10 21:56
+
+#### [JD Vance says US-Iran talks should be ‘positive’ as negotiators arrive in Islamabad](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1)
+**发布时间**: 2026-04-10 21:42
+
+#### [Molotov cocktail thrown at home of OpenAI chief Sam Altman](https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d)
+**发布时间**: 2026-04-10 21:39
+
+#### [Cyber security stocks fall on worries over Anthropic’s advanced AI tool](https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef)
+**发布时间**: 2026-04-10 21:02
+
+#### [Why has the UK economy been so badly hit by the Iran war?](https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3)
+**发布时间**: 2026-04-10 18:03
+
+#### [Crispin Odey abandons £79mn libel case against the FT over sexual misconduct claims](https://www.ft.com/content/69666b46-8452-4807-add9-712a0394a53c)
+**发布时间**: 2026-04-10 17:56
+
+#### [Trump is surrendering America’s moral leadership](https://www.ft.com/content/f3f8231a-f399-4f51-b95e-2c37dcd3a85e)
+**发布时间**: 2026-04-10 17:05
+
+#### [US inflation jumps to two-year high as Iran war ripples across economy](https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248)
+**发布时间**: 2026-04-10 17:00
+
+#### [Trumpism has done remarkably little to the GOP’s centre of gravity](https://www.ft.com/content/c8c495f2-a675-4f15-b9b8-97682b078307)
+**发布时间**: 2026-04-10 16:45
+
+#### [AI models lose their shirts on Premier League bets](https://www.ft.com/content/544cbd80-492e-4ee8-a8b4-66e447361651)
+**发布时间**: 2026-04-10 11:50
 
 ---
 

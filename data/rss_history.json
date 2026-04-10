@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5c67899b0042f4d317dd9577ff012f3ddf468de3b88353a8a944b8b1698fa35b": {
-        "title": "黄仁勋的“五层蛋糕”：AI的底层战争，是能源战争（附全文）",
-        "link": "https://www.tmtpost.com/7909386.html",
-        "published_date": "Wed, 11 Mar 2026 20:54:00 GMT",
-        "first_seen": "2026-03-11T23:28:52.547776"
-      },
-      "6ca2230282c94dd919738548dfc666a833dea89ac75f1d6d3572d527557bead0": {
-        "title": "“两会”点名+多家IPO在即，脑机接口沸腾了",
-        "link": "https://www.tmtpost.com/7909082.html",
-        "published_date": "Wed, 11 Mar 2026 15:03:00 GMT",
-        "first_seen": "2026-03-11T23:28:52.547784"
-      },
-      "3ee567262e20a5a7a81ed590b74fa7c3904335936a3b9dc4d3c71055c5631227": {
-        "title": "OpenClaw爆火，一文看懂“养虾热”背后七大关键问题",
-        "link": "https://www.tmtpost.com/7908931.html",
-        "published_date": "Wed, 11 Mar 2026 14:36:00 GMT",
-        "first_seen": "2026-03-11T23:28:52.547787"
-      },
-      "aa527961bb308198c100abde5031e24d074db8540866ded8096261153999dbde": {
-        "title": "豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？",
-        "link": "https://www.infoq.cn/article/LrApcWNtVzMMC2sd2AHC?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 11 Mar 2026 15:13:00 GMT",
-        "first_seen": "2026-03-11T23:28:52.547789"
-      },
-      "75da865ee2c2d84b79581494da2348a4ebafcc9df0f3d475cfde178d84451661": {
-        "title": "5 天 2 万 Star 的谷歌 GitHub 项目，让我看到了未来软件的形态。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532080&idx=1&sn=afae8882ccf738ce27b57acf0305457e",
-        "published_date": "Wed, 11 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-11T23:28:52.547791"
-      },
       "c33b5590b0dcf0ca3aec9646c9c9f343d85624e73249009302c8405c3342ff14": {
         "title": "谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？",
         "link": "https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7948069.html",
         "published_date": "Fri, 10 Apr 2026 16:42:00 GMT",
         "first_seen": "2026-04-10T09:14:01.460908"
+      },
+      "ce3640dde6c9d1a01856ac6342314408718e2ddff23e330df70d0316e52e25d8": {
+        "title": "AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？",
+        "link": "https://www.tmtpost.com/7947757.html",
+        "published_date": "Fri, 10 Apr 2026 12:06:00 GMT",
+        "first_seen": "2026-04-10T23:39:37.541313"
+      },
+      "08792c45a106e7fd9a8a73a1b1676d8814b1b497b62bdadf7da7df73d5cef2a7": {
+        "title": "从大模型到Agent的跨越难度，正被整个行业严重低估",
+        "link": "https://www.tmtpost.com/7948137.html",
+        "published_date": "Fri, 10 Apr 2026 12:28:00 GMT",
+        "first_seen": "2026-04-10T23:39:37.541319"
+      },
+      "ee5de499ba108b66db1604fbda1c0e8105cff76cf5b6d18020e890b0f69d0faf": {
+        "title": "从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京",
+        "link": "https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-10T23:39:37.541321"
+      },
+      "e54e59dd70cb61388fb51e4f0c4d670aef7e5f565c664c01c0377ad3e6b79b3d": {
+        "title": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "link": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 17:20:00 GMT",
+        "first_seen": "2026-04-10T23:39:37.541323"
+      },
+      "9302250527415dfd08900a143fec21ef3ed9e4755a061e0d558cbc59d8f47e80": {
+        "title": "Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码",
+        "link": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 10 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-10T23:39:37.541325"
       }
     },
     "Finance": {
-      "863ec24d4ffacb0900308b0dc36ef9632ba370e57e051c91a8a2421c7d01ee36": {
-        "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
-        "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Mar 2026 23:19:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.253416"
-      },
-      "888f24fbb2254d30f713db44d55c3fec24cc4cfa70e220cac65b06b66649adff": {
-        "title": "Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit.",
-        "link": "https://www.marketwatch.com/story/options-markets-are-bracing-for-disaster-as-iran-conflict-intensifies-nomura-says-heres-how-a-trader-might-profit-192d00ad?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Mar 2026 21:21:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.253422"
-      },
-      "25c4b3909174361b3917dd4d18328dd886ae1bad6ee901d8c303a687f0203299": {
-        "title": "Revolut secures full UK banking licence after four-year wait",
-        "link": "https://www.ft.com/content/b4df4126-351e-4424-9707-8a12ca6b79a6",
-        "published_date": "Wed, 11 Mar 2026 14:16:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.253424"
-      },
-      "9313012e39a8882f7591af709e87c2252727fd29326bab738dc32f6106c88901": {
-        "title": "The S&P 500’s biggest gainer since the Iran conflict started is not an oil stock",
-        "link": "https://www.marketwatch.com/story/the-s-p-500s-biggest-gainer-since-the-iran-conflict-started-is-not-an-oil-stock-ef9e5632?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Mar 2026 21:03:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.253426"
-      },
-      "1d2cab5fe6a51e1af0aaa2fdd11f5b8dc93444309b5cae1f57ca39a4554f4e88": {
-        "title": "Oracle’s stock surges. Here’s how it finally left the AI penalty box.",
-        "link": "https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories",
-        "published_date": "Wed, 11 Mar 2026 23:07:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.253428"
-      },
       "dbcc9afd51b6b84be588893701af1e9f2f08204c81a8f8881d6fa35e0b741d5a": {
         "title": "Partners Group sounds alarm on private credit default rates",
         "link": "https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e",
@@ -4797,33 +4767,39 @@
         "link": "https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f",
         "published_date": "Fri, 10 Apr 2026 08:37:00 GMT",
         "first_seen": "2026-04-10T09:13:41.345716"
+      },
+      "0436f5809a166f1c6fca73d468904ce63c0d255e69cdcb87ecb3e45aa31f5d69": {
+        "title": "US inflation jumps to two-year high as Iran war ripples across economy",
+        "link": "https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248",
+        "published_date": "Fri, 10 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.569654"
+      },
+      "988f1b09b98ecbcf17563a4de95480010456a151b26ae8a210211f5de2074aad": {
+        "title": "AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers",
+        "link": "https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories",
+        "published_date": "Fri, 10 Apr 2026 21:41:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.569662"
+      },
+      "bfdda1e7ee48a5c1e474d6764394e2ef130f93120e9a4fae4048a9991d9f36ad": {
+        "title": "Why has the UK economy been so badly hit by the Iran war?",
+        "link": "https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3",
+        "published_date": "Fri, 10 Apr 2026 18:03:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.569665"
+      },
+      "576ccaa90ecd061a9daa5222395b141a65f6cfef2818b93b72c7caf574312d89": {
+        "title": "Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in",
+        "link": "https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories",
+        "published_date": "Fri, 10 Apr 2026 21:36:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.569666"
+      },
+      "7e1d2f27b03673a541e9a5b2bcffa4e53f9a797ef0b934345dcf808c28be1893": {
+        "title": "Cyber security stocks fall on worries over Anthropic’s advanced AI tool",
+        "link": "https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef",
+        "published_date": "Fri, 10 Apr 2026 21:02:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.569668"
       }
     },
     "Ai": {
-      "aab2717be871617c3eec4fb5ed88000afa740eb07ea947406f3caafea624f236": {
-        "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
-        "link": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/",
-        "published_date": "Wed, 11 Mar 2026 16:58:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.422970"
-      },
-      "e09918ee750b9e8f524a6707b03ff1083f8d91d5c8790b6e6e44fe8e603c2388": {
-        "title": "让龙虾看懂屏幕！谷歌多模态新成果，文本图像视频音频进同一空间",
-        "link": "https://www.qbitai.com/2026/03/386485.html",
-        "published_date": "Wed, 11 Mar 2026 09:30:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.422978"
-      },
-      "7600d5ff08d37fea27e45954cb2e6ede812b4e3220cf1c13a85cc74f40eac023": {
-        "title": "LeCun三顾茅庐，谢赛宁终于入伙！新公司获投10亿美元",
-        "link": "https://www.qbitai.com/2026/03/386308.html",
-        "published_date": "Wed, 11 Mar 2026 09:26:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.422980"
-      },
-      "674f7bbb30fd1228415efc8e7913cbc8d71b1877b003e6a0caf5d2e38082b02b": {
-        "title": "对话「哈萨比斯传」作者：“他不喜欢奥特曼”",
-        "link": "https://www.qbitai.com/2026/03/386285.html",
-        "published_date": "Wed, 11 Mar 2026 09:22:00 GMT",
-        "first_seen": "2026-03-11T23:29:07.422981"
-      },
       "25bffbb90763fcfc626495593f92997927440778439bf0dc324cd40c7f4d7b22": {
         "title": "2026-03-12日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-12/",
@@ -6263,13 +6239,37 @@
         "link": "https://www.qbitai.com/2026/04/398750.html",
         "published_date": "Fri, 10 Apr 2026 07:13:00 GMT",
         "first_seen": "2026-04-10T09:13:41.500648"
+      },
+      "dd257b43e27a932e206aadd238738a42f0e2afb3369f0225eb91490d20c63864": {
+        "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+        "link": "https://www.qbitai.com/2026/04/399370.html",
+        "published_date": "Fri, 10 Apr 2026 12:07:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.712561"
+      },
+      "206f79e2a8529da6b024af84b07d9ae1b6ce978929b232c0e3ad37a7094338d9": {
+        "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+        "link": "https://www.qbitai.com/2026/04/399366.html",
+        "published_date": "Fri, 10 Apr 2026 11:42:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.712568"
+      },
+      "2dde7ba0fefb2987c43636b4a44d5c524d6a782df8d8f4b3e1d29251c2fdccd9": {
+        "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
+        "link": "https://www.qbitai.com/2026/04/399351.html",
+        "published_date": "Fri, 10 Apr 2026 10:32:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.712570"
+      },
+      "d092e49342508d80315c9af4f831a11393dd20cde5672c7cebf294b35868df4e": {
+        "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+        "link": "https://www.qbitai.com/2026/04/398869.html",
+        "published_date": "Fri, 10 Apr 2026 09:31:00 GMT",
+        "first_seen": "2026-04-10T23:39:10.712571"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-10T09:14:01.460910",
-    "Finance": "2026-04-10T09:13:41.345719",
-    "Ai": "2026-04-10T09:13:41.500649"
+    "Technology": "2026-04-10T23:39:37.541327",
+    "Finance": "2026-04-10T23:39:10.569670",
+    "Ai": "2026-04-10T23:39:10.712574"
   }
 }

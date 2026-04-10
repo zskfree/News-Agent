@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Apr 2026 09:13:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 09:13:41 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 23:39:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million</title>
-      <link>https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories</guid>
+      <title>US inflation jumps to two-year high as Iran war ripples across economy</title>
+      <link>https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248</link>
+      <description>&lt;![CDATA[US inflation jumps to two-year high as Iran war ripples across economy]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Israel presses ahead with Lebanon strikes as talks loom</title>
-      <link>https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f</link>
-      <description>&lt;![CDATA[Israel presses ahead with Lebanon strikes as talks loom]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f</guid>
+      <title>AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers</title>
+      <link>https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why has the UK economy been so badly hit by the Iran war?</title>
+      <link>https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3</link>
+      <description>&lt;![CDATA[Why has the UK economy been so badly hit by the Iran war?]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in</title>
+      <link>https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 21:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Cyber security stocks fall on worries over Anthropic’s advanced AI tool</title>
+      <link>https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef</link>
+      <description>&lt;![CDATA[Cyber security stocks fall on worries over Anthropic’s advanced AI tool]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef</guid>
       <category>Finance</category>
     </item>
   </channel>
