@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-11 08:48
+**最后更新时间**: 2026-04-11 23:37
+
+---
+
+## 🆕 最新更新 (2026-04-11 23:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran locked in marathon talks to end war](https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53)
+**发布时间**: 2026-04-11 21:57
+
+#### [Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC](https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1)
+**发布时间**: 2026-04-11 17:42
+
+#### [How Iran turned to memes to take on Trump](https://www.ft.com/content/552c3092-56e9-4bb6-9f8d-8163e9ec4fb2)
+**发布时间**: 2026-04-11 04:00
+
+#### [The damage wrought to the Middle East’s oil and gas supplies](https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76)
+**发布时间**: 2026-04-11 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are some bargain bank stocks heading into earnings season](https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:55
+
+#### [There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling.](https://www.marketwatch.com/story/there-are-years-long-waiting-lists-to-retire-on-college-campuses-6-steps-to-take-before-enrolling-d7bd2d2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:51
+
+#### [United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war.](https://www.marketwatch.com/story/united-airlines-wants-even-higher-ticket-prices-itll-get-them-with-or-without-the-iran-war-4833e1d1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:42
+
+#### [Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.](https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:35
+
+#### [My wife and I want to move to Malaysia. Will we receive Social Security benefits there?](https://www.marketwatch.com/story/my-wife-and-i-want-to-move-to-malaysia-will-we-receive-social-security-benefits-there-cb38f98e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:31
+
+#### [Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment](https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:14
+
+#### [Here’s when gas prices and airfares could go down if the Iran cease-fire holds](https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:03
+
+#### [We asked our wedding guests to give money to St. Jude’s Children’s Hospital. Can we write off their donations?](https://www.marketwatch.com/story/we-asked-our-wedding-guests-to-give-money-to-st-judes-childrens-hospital-can-we-write-off-their-donations-0a326156?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:00
+
+#### [Interest rates are headed lower — real yields suggest a half-point Fed cut is coming](https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 17:53
+
+#### [Here’s how much weight-loss drugs Wegovy, Zepbound and Foundayo cost — and how to pick the best GLP-1 for you](https://www.marketwatch.com/story/heres-how-much-weight-loss-drugs-wegovy-zepbound-and-foundayo-cost-and-how-to-pick-the-best-glp-1-for-you-48598e2f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 17:40
 
 ---
 

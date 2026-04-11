@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1379bcee3aa889034ee9e2a6cc8bfa347c8cbe6084d82f32d17700f65d3155bb": {
-        "title": "黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点",
-        "link": "https://www.tmtpost.com/7910747.html",
-        "published_date": "Thu, 12 Mar 2026 19:09:00 GMT",
-        "first_seen": "2026-03-12T23:31:50.558577"
-      },
-      "64af7289661f5e7a2f1a3b60e2623f91416bb95e817bcb3838d21afacabca3f8": {
-        "title": "为啥都说美国袭击伊朗是“AI战争”的序幕？",
-        "link": "http://www.huxiu.com/article/4841080.html?f=wangzhan",
-        "published_date": "Thu, 12 Mar 2026 11:50:00 GMT",
-        "first_seen": "2026-03-12T23:31:50.558585"
-      },
-      "54034f7cb81d5c469e096f921e63d92d010944b659938c91a4254a1c03f85914": {
-        "title": "2026年，为什么他们还在狂投人形机器人？",
-        "link": "https://www.tmtpost.com/7910469.html",
-        "published_date": "Thu, 12 Mar 2026 12:21:00 GMT",
-        "first_seen": "2026-03-12T23:31:50.558588"
-      },
-      "d5a994deef0d653960d3b20d95c9835d30428750cca2e8ba5a53af3d5284293c": {
-        "title": "“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？",
-        "link": "https://www.tmtpost.com/7911362.html",
-        "published_date": "Thu, 12 Mar 2026 19:11:00 GMT",
-        "first_seen": "2026-03-12T23:31:50.558590"
-      },
-      "93db31b84ac8ed5b9dccfae5a84a51996c8c63c3312ac8ce3eeafc7994ba5bab": {
-        "title": "花大钱，赶晚集？错过 OpenClaw后，Meta 紧急买下 Moltbook",
-        "link": "https://www.infoq.cn/article/LQMd06uPtFTr0KCuAypS?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-12T23:31:50.558591"
-      },
       "0a9abd5e679b9ca147b936ca931b42eaba55d61351047d09a601b50da121db47": {
         "title": "从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径",
         "link": "https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7949710.html",
         "published_date": "Sat, 11 Apr 2026 16:43:00 GMT",
         "first_seen": "2026-04-11T08:48:50.771821"
+      },
+      "2e5b2cd797368065519adb078d36e4768c94fc325ee50f1564a58b2e50e3f256": {
+        "title": "滴滴自动驾驶张博：深耕AI、硬件、场景三大能力，持续强化创新突破",
+        "link": "https://www.tmtpost.com/7949810.html",
+        "published_date": "Sat, 11 Apr 2026 17:54:00 GMT",
+        "first_seen": "2026-04-11T23:38:17.492610"
+      },
+      "933b3d7a1248e4dae9fd361fe21b7988ed532b006748f724f54a6205982878a7": {
+        "title": "大模型厂商，是时候告别Token狂欢了",
+        "link": "https://www.tmtpost.com/7949702.html",
+        "published_date": "Sat, 11 Apr 2026 16:36:00 GMT",
+        "first_seen": "2026-04-11T23:38:17.492616"
+      },
+      "d3d499b6c5448c406f42577c940de5fe4b7fc17ff305b5f1bb1e6d2d9b6f8435": {
+        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+        "link": "https://sspai.com/post/107600",
+        "published_date": "Sat, 11 Apr 2026 15:18:00 GMT",
+        "first_seen": "2026-04-11T23:38:17.492618"
+      },
+      "c528b5e81e8cb38936a9697db9ccdf5cec2aa333e00849e2b53dac69d4ac3aa9": {
+        "title": "所谓Skill，不过是AI时代的工业垃圾",
+        "link": "https://www.tmtpost.com/7949507.html",
+        "published_date": "Sat, 11 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-11T23:38:17.492620"
+      },
+      "7c16c087905fe25d465130c37fdbf40a9120d0de16825815515ff6019f7619e1": {
+        "title": "无人配送车大战：菜鸟联手九识，京东新石器如何接招？",
+        "link": "https://www.tmtpost.com/7949239.html",
+        "published_date": "Sat, 11 Apr 2026 11:45:00 GMT",
+        "first_seen": "2026-04-11T23:38:17.492622"
       }
     },
     "Finance": {
-      "7f9904d0baafd0af6c03af56d81b96badd364c1b44eba981ccf7a7d028af2ff0": {
-        "title": "Investors slash Fed rate-cut bets as Iran war sends petrol prices surging",
-        "link": "https://www.ft.com/content/df813cbc-f891-4f75-9257-6e1494dc9893",
-        "published_date": "Thu, 12 Mar 2026 21:17:00 GMT",
-        "first_seen": "2026-03-12T23:32:07.425965"
-      },
-      "2d91f9eb8fa8da1f6b053c2ba8fb3c63db343181ece4e535e272a98fce4bde4c": {
-        "title": "A toxic mix of private-credit panic and climbing bond yields is hammering financial stocks",
-        "link": "https://www.marketwatch.com/story/a-toxic-mix-of-private-credit-panic-and-climbing-bond-yields-is-hammering-financial-stocks-21689fd4?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Mar 2026 22:31:00 GMT",
-        "first_seen": "2026-03-12T23:32:07.425972"
-      },
-      "d56eeb823e42474c7314564c8f35cfa89846fa1aaefc7040648283847b0e0d20": {
-        "title": "Fed to loosen capital requirements for big US banks",
-        "link": "https://www.ft.com/content/a1c81f17-201f-4e3f-8e02-e0b304f1b6a1",
-        "published_date": "Thu, 12 Mar 2026 20:40:00 GMT",
-        "first_seen": "2026-03-12T23:32:07.425974"
-      },
-      "18b366a2f3b2ec78464afb7661e20488f9fa2c8caf1eb43a2872616444a51a33": {
-        "title": "A key gauge of inflation expectations just logged its highest reading in almost 4 years",
-        "link": "https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Mar 2026 21:35:00 GMT",
-        "first_seen": "2026-03-12T23:32:07.425975"
-      },
-      "08a6bb5246c5f5516a761f9115a0a2e7c120493c8352081bac1e49796d2a018a": {
-        "title": "US intervention in oil futures would be ‘biblical disaster’, CME warns",
-        "link": "https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17",
-        "published_date": "Thu, 12 Mar 2026 19:54:00 GMT",
-        "first_seen": "2026-03-12T23:32:07.425976"
-      },
       "658be8455880e3c9fafd79edea99fb0ac67a52d1dc0bcfb99f37e0a618ffdcd9": {
         "title": "US to ease Russian oil sanctions as energy prices soar",
         "link": "https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe",
@@ -4809,39 +4779,39 @@
         "link": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
         "published_date": "Sat, 11 Apr 2026 06:32:00 GMT",
         "first_seen": "2026-04-11T08:48:20.320248"
+      },
+      "b0f3fda70e0a71e272d18973915e6ce1acc02e9f50c07f83e165cd9e78348a68": {
+        "title": "Interest rates are headed lower — real yields suggest a half-point Fed cut is coming",
+        "link": "https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories",
+        "published_date": "Sat, 11 Apr 2026 17:53:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.523501"
+      },
+      "f4c84a4a9f8f74ce24a60cef4c10ea56c1957be37f868b907b698d3f494efa16": {
+        "title": "US and Iran locked in marathon talks to end war",
+        "link": "https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53",
+        "published_date": "Sat, 11 Apr 2026 21:57:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.523508"
+      },
+      "5bb7d82d4098af02ce8d68cab260e27ba8cd533684c85e7178bf4493ee494526": {
+        "title": "Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment",
+        "link": "https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories",
+        "published_date": "Sat, 11 Apr 2026 18:14:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.523511"
+      },
+      "e9700cdd461283c27a6e25b3808406f325a1a8d675ae9ce3c4b8f196cee3c5e7": {
+        "title": "Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories",
+        "published_date": "Sat, 11 Apr 2026 18:35:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.523513"
+      },
+      "58d5d4743624ab5f8f056430f931bd4c4f69bf63e3d2d7b756add3b5586bbb53": {
+        "title": "Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC",
+        "link": "https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1",
+        "published_date": "Sat, 11 Apr 2026 17:42:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.523514"
       }
     },
     "Ai": {
-      "a7c356f2cefa288b7965d92b1afa60bb45624916a6d522d6c110b6440ad71c24": {
-        "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-        "link": "https://www.qbitai.com/2026/03/386717.html",
-        "published_date": "Thu, 12 Mar 2026 12:09:00 GMT",
-        "first_seen": "2026-03-12T23:32:21.042307"
-      },
-      "ab969807f9d69efe46c5230891093afedc025f1124177b4aec01636d23ced170": {
-        "title": "Protecting cities with AI-driven flash flood forecasting",
-        "link": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
-        "published_date": "Thu, 12 Mar 2026 13:03:00 GMT",
-        "first_seen": "2026-03-12T23:32:21.042313"
-      },
-      "143ade7e70f2e40057beb8a0f93560fdcedd98bb33ab181a0af2e2123c038248": {
-        "title": "Introducing Groundsource: Turning news reports into data with Gemini",
-        "link": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
-        "published_date": "Thu, 12 Mar 2026 10:42:00 GMT",
-        "first_seen": "2026-03-12T23:32:21.042316"
-      },
-      "62fe5bb382a8b2cb88e2c84abaec16760c8b9cb5a4153a1c6d6929f49c0544c9": {
-        "title": "全网首份「龙虾」安全部署指南来了！360出品",
-        "link": "https://www.qbitai.com/2026/03/386707.html",
-        "published_date": "Thu, 12 Mar 2026 09:54:00 GMT",
-        "first_seen": "2026-03-12T23:32:21.042317"
-      },
-      "708b5fb39c34c34bc01f57baa4a7c28aa612ffd43b4ba05e388e1ed39df93d0a": {
-        "title": "卡帕西：编程从写文件变成管龙虾！IDE不会凉但得换个用法",
-        "link": "https://www.qbitai.com/2026/03/386668.html",
-        "published_date": "Thu, 12 Mar 2026 09:33:00 GMT",
-        "first_seen": "2026-03-12T23:32:21.042319"
-      },
       "4b609770787e4ec99687ca728a646e538d729d66b7067d4605003588794ceb9c": {
         "title": "2026-03-13日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-13/",
@@ -6269,13 +6239,19 @@
         "link": "https://www.qbitai.com/2026/04/399393.html",
         "published_date": "Sat, 11 Apr 2026 01:23:00 GMT",
         "first_seen": "2026-04-11T06:04:43.670249"
+      },
+      "a2f8f849376517ae1a760853ccfeae57d3a76c97e7044a5071a8fce996bb23ff": {
+        "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
+        "link": "https://www.qbitai.com/2026/04/399675.html",
+        "published_date": "Sat, 11 Apr 2026 10:46:00 GMT",
+        "first_seen": "2026-04-11T23:37:58.671585"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-11T08:48:50.771824",
-    "Finance": "2026-04-11T08:48:20.320251",
-    "Ai": "2026-04-11T06:04:43.670251"
+    "Technology": "2026-04-11T23:38:17.492623",
+    "Finance": "2026-04-11T23:37:58.523516",
+    "Ai": "2026-04-11T23:37:58.671594"
   }
 }

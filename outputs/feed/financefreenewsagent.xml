@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Apr 2026 08:48:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2026 08:48:20 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 23:37:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Peace talks present big test on global stage for JD Vance</title>
-      <link>https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540</link>
-      <description>&lt;![CDATA[Peace talks present big test on global stage for JD Vance]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540</guid>
+      <title>Interest rates are headed lower — real yields suggest a half-point Fed cut is coming</title>
+      <link>https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Interest rates are headed lower — real yields suggest a half-point Fed cut is coming]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran</title>
-      <link>https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1</link>
-      <description>&lt;![CDATA[JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 06:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1</guid>
+      <title>US and Iran locked in marathon talks to end war</title>
+      <link>https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53</link>
+      <description>&lt;![CDATA[US and Iran locked in marathon talks to end war]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 21:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment</title>
+      <link>https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.</title>
+      <link>https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC</title>
+      <link>https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1</link>
+      <description>&lt;![CDATA[Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1</guid>
       <category>Finance</category>
     </item>
   </channel>
