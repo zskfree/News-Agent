@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 23:38
+**最后更新时间**: 2026-04-11 06:04
+
+---
+
+## 🆕 最新更新 (2026-04-11 06:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The tragedy of leisure](https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9)
+**发布时间**: 2026-04-11 04:00
+
+#### [Only two events have mattered in my 30 years of investing](https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c)
+**发布时间**: 2026-04-11 04:00
+
+#### [Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483)
+**发布时间**: 2026-04-11 04:00
+
+#### [Mortgage borrowers seek shorter-term deals as market volatility saps confidence](https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd)
+**发布时间**: 2026-04-11 04:00
+
+#### [Reid Wiseman, the astronaut hailing a new ‘golden age’ in space](https://www.ft.com/content/2b948cc0-e744-4209-a90b-fcc4577c6029)
+**发布时间**: 2026-04-11 01:20
+
+#### [Historic Nasa Moon mission returns safely to Earth](https://www.ft.com/content/8f92c5ae-49af-4a63-a5e6-66a571ea990c)
+**发布时间**: 2026-04-11 00:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?](https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 00:32
 
 ---
 

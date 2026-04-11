@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c33b5590b0dcf0ca3aec9646c9c9f343d85624e73249009302c8405c3342ff14": {
-        "title": "谷歌炸出首款 Embedding 模型，基于Gemini架构、原生支持交错输入！网友：这要“血洗”传统开发架构？",
-        "link": "https://www.infoq.cn/article/DAf101No0huyu90gpNtV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 09:49:00 GMT",
-        "first_seen": "2026-03-12T05:53:28.831586"
-      },
-      "1e401e185d62ff40a268a0b09fca29b31fc86b0e849f39f88fbf6509112a3ea6": {
-        "title": "国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片",
-        "link": "https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 11:55:00 GMT",
-        "first_seen": "2026-03-12T05:53:28.831596"
-      },
-      "1ead3be60bf8a439a6f3453a40bd196e90cf967a32db6b60b41e5d937769cd29": {
-        "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 10:13:00 GMT",
-        "first_seen": "2026-03-12T05:53:28.831599"
-      },
-      "e768fbc4996a4338c414fcbd3d85bd42eb46e10ffa11566e7150d98b66f06ef0": {
-        "title": "规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注",
-        "link": "https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-12T05:53:28.831601"
-      },
-      "3626a481ec5e15230147e54d2eba9ac696f3be021969066b90618076a5bceae5": {
-        "title": "一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？",
-        "link": "https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 11:19:00 GMT",
-        "first_seen": "2026-03-12T05:53:28.831603"
-      },
       "c21319a0eecbad97a2706d8346d9f8b66dc8a244cb41b8a4f8721648447ca233": {
         "title": "昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路",
         "link": "https://www.tmtpost.com/7910848.html",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 10 Apr 2026 11:00:00 GMT",
         "first_seen": "2026-04-10T23:39:37.541325"
+      },
+      "49aa1f13aa34a01e1ccc96071180a5b8be26d2e53043896947ae98954ce8fc86": {
+        "title": "哈萨比斯：ChatGPT把AI带上了“邪路”",
+        "link": "https://www.tmtpost.com/7949224.html",
+        "published_date": "Sat, 11 Apr 2026 11:07:00 GMT",
+        "first_seen": "2026-04-11T06:05:08.046614"
+      },
+      "ee781c29ea56b66219afca70034743c29e646d76dfdd08c84f27bdfe80ab8fc5": {
+        "title": "大模型厂商，是时候告别Token狂欢了",
+        "link": "https://www.tmtpost.com/7949554.html",
+        "published_date": "Sat, 11 Apr 2026 12:42:00 GMT",
+        "first_seen": "2026-04-11T06:05:08.046622"
+      },
+      "894d09537c859e8a769ef1bdcf482f87e85fb59dc58fafd8b80aeeb63a222198": {
+        "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 08:00:00 GMT",
+        "first_seen": "2026-04-11T06:05:08.046625"
+      },
+      "b1bf796aaebe9afc73e7c3c09713bdb800ba52e4502703432595cb7fc6349abc": {
+        "title": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "link": "https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-11T06:05:08.046626"
+      },
+      "7c05cd2caf1f8cffdbfa6f4f50105819da8d2f0c6d582b8aad0c648e9ef155f9": {
+        "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
+        "link": "https://www.tmtpost.com/7949632.html",
+        "published_date": "Sat, 11 Apr 2026 12:55:00 GMT",
+        "first_seen": "2026-04-11T06:05:08.046628"
       }
     },
     "Finance": {
-      "dbcc9afd51b6b84be588893701af1e9f2f08204c81a8f8881d6fa35e0b741d5a": {
-        "title": "Partners Group sounds alarm on private credit default rates",
-        "link": "https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e",
-        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.655098"
-      },
-      "87827d8c13acca6c6e62d22782b54a65f0561227e6bf9a17343dd357d92e547a": {
-        "title": "BlackRock, L&G and UBS among 60 ESG funds holding BP despite pivot",
-        "link": "https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8",
-        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.655105"
-      },
-      "2c0868b0bc41325f8e869089a55d24feb732b190e01d4827a0c668db329d5a3d": {
-        "title": "Oil back at $100 after ships hit in Gulf",
-        "link": "https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4",
-        "published_date": "Thu, 12 Mar 2026 05:43:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.655107"
-      },
-      "b1686ceffc2474ea7fb523ba4f77a5738d6f9d2b357dc92cce8ea2dc4cb31f9d": {
-        "title": "Which chokepoint wins in a game of geoeconomic Top Trumps?",
-        "link": "https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc",
-        "published_date": "Thu, 12 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.655108"
-      },
-      "c5a32f01835cca5871ef8d9e08a7c8e300410c4f69009ba069adf63a639cfa7d": {
-        "title": "Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock",
-        "link": "https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories",
-        "published_date": "Thu, 12 Mar 2026 02:42:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.655110"
-      },
       "7f9904d0baafd0af6c03af56d81b96badd364c1b44eba981ccf7a7d028af2ff0": {
         "title": "Investors slash Fed rate-cut bets as Iran war sends petrol prices surging",
         "link": "https://www.ft.com/content/df813cbc-f891-4f75-9257-6e1494dc9893",
@@ -4797,27 +4767,39 @@
         "link": "https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef",
         "published_date": "Fri, 10 Apr 2026 21:02:00 GMT",
         "first_seen": "2026-04-10T23:39:10.569668"
+      },
+      "18421322047ed546663ac06a24c7dd89be3cbf7f5c10a23f8e7d4c23aa8f886c": {
+        "title": "Only two events have mattered in my 30 years of investing",
+        "link": "https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c",
+        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.517853"
+      },
+      "82d032f08c3e3fa8797fb5a44d43df972bb2355755e9897db319da337a80ab05": {
+        "title": "Mortgage borrowers seek shorter-term deals as market volatility saps confidence",
+        "link": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
+        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.517862"
+      },
+      "f062f27b3d4bf07c2513c5f6ee5b2ab4481eb3af8597451d8201ae3da18bbd07": {
+        "title": "Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees",
+        "link": "https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483",
+        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.517865"
+      },
+      "6dcb4ee23d13668f32067179f0d732891f7b4c1230aa0df17dcd177a75814531": {
+        "title": "‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?",
+        "link": "https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories",
+        "published_date": "Sat, 11 Apr 2026 00:32:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.517867"
+      },
+      "b66821d9afccdb0afec94f1d6953ab8a8ac7a39c2d7de56faf8b507c8d2eae0f": {
+        "title": "The tragedy of leisure",
+        "link": "https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9",
+        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.517869"
       }
     },
     "Ai": {
-      "25bffbb90763fcfc626495593f92997927440778439bf0dc324cd40c7f4d7b22": {
-        "title": "2026-03-12日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-12/",
-        "published_date": "Thu, 12 Mar 2026 09:50:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.784705"
-      },
-      "cd354ce7e579dc099f6f81ebdf82c2a1cf321f606f162be4030ef746e87c2786": {
-        "title": "老黄入局吃龙虾！英伟达发布最强开源Agent推理模型",
-        "link": "https://www.qbitai.com/2026/03/386572.html",
-        "published_date": "Thu, 12 Mar 2026 04:58:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.784712"
-      },
-      "6de0b2b89e5c4f1e69b6e166c1b0811b2d72c8cdaf314b43108526536e09256d": {
-        "title": "魔法原子，105亿瞄准具身智能终局",
-        "link": "https://www.qbitai.com/2026/03/386528.html",
-        "published_date": "Thu, 12 Mar 2026 03:07:00 GMT",
-        "first_seen": "2026-03-12T05:53:44.784715"
-      },
       "79a743658fd2d3c9cf557491ee91f08f667e0954c669b48d6a7344fdcb5bc2c8": {
         "title": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
         "link": "https://www.qbitai.com/2026/03/386664.html",
@@ -6263,13 +6245,37 @@
         "link": "https://www.qbitai.com/2026/04/398869.html",
         "published_date": "Fri, 10 Apr 2026 09:31:00 GMT",
         "first_seen": "2026-04-10T23:39:10.712571"
+      },
+      "fe4617bde14e65563b90c2bf1c386b5b9300e13cdc11d3b0b1c30c48fbf2d706": {
+        "title": "2026-04-11日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-11/",
+        "published_date": "Sat, 11 Apr 2026 11:01:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.670237"
+      },
+      "ee8c242ee4b68387d32c7ac88b27e3728ce481b940b4fef6c0727665c4bf61d1": {
+        "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
+        "link": "https://www.qbitai.com/2026/04/399473.html",
+        "published_date": "Sat, 11 Apr 2026 02:19:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.670245"
+      },
+      "8b36aa6ab6ce334cef581e1eb0736163cff866ec23172cac701d5886a25aeaf2": {
+        "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
+        "link": "https://www.qbitai.com/2026/04/399417.html",
+        "published_date": "Sat, 11 Apr 2026 02:07:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.670247"
+      },
+      "7c5c79303492a397a9fa6d791b0483b620aef8125afe8f386b0689d7eaf8c000": {
+        "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
+        "link": "https://www.qbitai.com/2026/04/399393.html",
+        "published_date": "Sat, 11 Apr 2026 01:23:00 GMT",
+        "first_seen": "2026-04-11T06:04:43.670249"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-10T23:39:37.541327",
-    "Finance": "2026-04-10T23:39:10.569670",
-    "Ai": "2026-04-10T23:39:10.712574"
+    "Technology": "2026-04-11T06:05:08.046630",
+    "Finance": "2026-04-11T06:04:43.517870",
+    "Ai": "2026-04-11T06:04:43.670251"
   }
 }

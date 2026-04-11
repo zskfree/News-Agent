@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 23:39:37 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 06:04:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:05:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？</title>
-      <link>https://www.tmtpost.com/7947757.html</link>
-      <description>&lt;![CDATA[AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7947757.html</guid>
+      <title>哈萨比斯：ChatGPT把AI带上了“邪路”</title>
+      <link>https://www.tmtpost.com/7949224.html</link>
+      <description>&lt;![CDATA[哈萨比斯：ChatGPT把AI带上了“邪路”]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949224.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从大模型到Agent的跨越难度，正被整个行业严重低估</title>
-      <link>https://www.tmtpost.com/7948137.html</link>
-      <description>&lt;![CDATA[从大模型到Agent的跨越难度，正被整个行业严重低估]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7948137.html</guid>
+      <title>大模型厂商，是时候告别Token狂欢了</title>
+      <link>https://www.tmtpost.com/7949554.html</link>
+      <description>&lt;![CDATA[大模型厂商，是时候告别Token狂欢了]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949554.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京</title>
-      <link>https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 推出多代理 Harness，重构长时 AI 编程流程</title>
+      <link>https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 推出多代理 Harness，重构长时 AI 编程流程]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放</title>
-      <link>https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法</title>
+      <link>https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码</title>
-      <link>https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨</title>
+      <link>https://www.tmtpost.com/7949632.html</link>
+      <description>&lt;![CDATA[星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949632.html</guid>
       <category>Technology</category>
     </item>
   </channel>

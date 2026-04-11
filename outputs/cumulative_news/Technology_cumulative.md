@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 23:38
+**最后更新时间**: 2026-04-11 06:04
+
+---
+
+## 🆕 最新更新 (2026-04-11 06:04)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub Actions 正式发布自定义 Runner 镜像](https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 14:00
+
+#### [MCP开发者峰会观察：网关、无状态请求与企业级落地路径](https://www.infoq.cn/article/f4df9bE6zm1wy9pI1xKA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 12:10
+
+#### [Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法](https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 11:00
+
+#### [面向 AI 智能体的有状态接续：传输层为何至关重要](https://www.infoq.cn/article/P3Ko14uHlmRMm50rIhXs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 10:00
+
+#### [让每个员工都有一个 Coding Agent：蚂蚁 Vibe Coding 平台落地半年后的实践经验｜QCon北京](https://www.infoq.cn/article/zwsaRqiZ99H7l3y8G9Lc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 10:00
+
+#### [Anthropic 推出多代理 Harness，重构长时 AI 编程流程](https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨](https://www.tmtpost.com/7949632.html)
+**发布时间**: 2026-04-11 12:55
+
+#### [专治AI说谎，25岁天才少女公司估值过百亿](https://www.tmtpost.com/7949630.html)
+**发布时间**: 2026-04-11 12:55
+
+#### [拿下全球近四成市场，中国游戏在海外「杀疯了」](https://www.tmtpost.com/7949593.html)
+**发布时间**: 2026-04-11 12:55
+
+#### [特斯拉缩水的防线](https://www.tmtpost.com/7949436.html)
+**发布时间**: 2026-04-11 12:42
+
+#### [市场上绝大多数并购公司，做的根本就不是并购，而是“交易撮合”。](https://www.tmtpost.com/7949530.html)
+**发布时间**: 2026-04-11 12:42
+
+#### [AI救活了一家马桶公司，也点燃了存储芯片超级周期](https://www.tmtpost.com/7949623.html)
+**发布时间**: 2026-04-11 12:42
+
+#### [大模型厂商，是时候告别Token狂欢了](https://www.tmtpost.com/7949554.html)
+**发布时间**: 2026-04-11 12:42
+
+#### [营收微增2.68%，利润却大涨35.6%，特锐德这一年到底发生了什么](https://www.tmtpost.com/7949563.html)
+**发布时间**: 2026-04-11 12:42
+
+#### [罗森便利店的新店型能否在中国跑通？](https://www.tmtpost.com/7949429.html)
+**发布时间**: 2026-04-11 12:07
+
+#### [“不给钱”也能活，重庆摩托凭什么狂飙？](https://www.tmtpost.com/7949345.html)
+**发布时间**: 2026-04-11 12:02
+
+#### [认领“快乐马”，阿里AI布下“八卦阵”](https://www.tmtpost.com/7949428.html)
+**发布时间**: 2026-04-11 11:56
+
+#### [“软硬通吃”的地平线，值不值1000亿港币？](https://www.tmtpost.com/7949326.html)
+**发布时间**: 2026-04-11 11:56
+
+#### [有些公司一号位已经动了换血念头](https://www.tmtpost.com/7949178.html)
+**发布时间**: 2026-04-11 11:45
+
+#### [要做“中国版Anthropic”，智谱还差点火候](https://www.tmtpost.com/7949180.html)
+**发布时间**: 2026-04-11 11:45
+
+#### [无人配送车大战：菜鸟联手九识，京东新石器如何接招？](https://www.tmtpost.com/7949239.html)
+**发布时间**: 2026-04-11 11:45
+
+#### [哈萨比斯：ChatGPT把AI带上了“邪路”](https://www.tmtpost.com/7949224.html)
+**发布时间**: 2026-04-11 11:07
+
+#### [苹果把PC和安卓厂商逼到了墙角](https://www.tmtpost.com/7949303.html)
+**发布时间**: 2026-04-11 11:07
+
+#### [霍尔木兹海峡仍处于极度险境，两只可能从中受益的油田服务类股票](https://www.tmtpost.com/7949595.html)
+**发布时间**: 2026-04-11 11:04
 
 ---
 
