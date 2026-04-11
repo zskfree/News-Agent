@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Apr 2026 06:04:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2026 06:05:08 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 08:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 08:48:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>哈萨比斯：ChatGPT把AI带上了“邪路”</title>
-      <link>https://www.tmtpost.com/7949224.html</link>
-      <description>&lt;![CDATA[哈萨比斯：ChatGPT把AI带上了“邪路”]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949224.html</guid>
+      <title>Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类</title>
+      <link>https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型厂商，是时候告别Token狂欢了</title>
-      <link>https://www.tmtpost.com/7949554.html</link>
-      <description>&lt;![CDATA[大模型厂商，是时候告别Token狂欢了]]&gt;</description>
+      <title>GitHub Actions 正式发布自定义 Runner 镜像</title>
+      <link>https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub Actions 正式发布自定义 Runner 镜像]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>让每个员工都有一个 Coding Agent：蚂蚁 Vibe Coding 平台落地半年后的实践经验｜QCon北京</title>
+      <link>https://www.infoq.cn/article/zwsaRqiZ99H7l3y8G9Lc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让每个员工都有一个 Coding Agent：蚂蚁 Vibe Coding 平台落地半年后的实践经验｜QCon北京]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zwsaRqiZ99H7l3y8G9Lc?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI救活了一家马桶公司，也点燃了存储芯片超级周期</title>
+      <link>https://www.tmtpost.com/7949623.html</link>
+      <description>&lt;![CDATA[AI救活了一家马桶公司，也点燃了存储芯片超级周期]]&gt;</description>
       <pubDate>Sat, 11 Apr 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949554.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949623.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 推出多代理 Harness，重构长时 AI 编程流程</title>
-      <link>https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic 推出多代理 Harness，重构长时 AI 编程流程]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法</title>
-      <link>https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨</title>
-      <link>https://www.tmtpost.com/7949632.html</link>
-      <description>&lt;![CDATA[星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 12:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949632.html</guid>
+      <title>奥特曼家差点被烧，AI争议滑向物理暴力</title>
+      <link>https://www.tmtpost.com/7949710.html</link>
+      <description>&lt;![CDATA[奥特曼家差点被烧，AI争议滑向物理暴力]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949710.html</guid>
       <category>Technology</category>
     </item>
   </channel>

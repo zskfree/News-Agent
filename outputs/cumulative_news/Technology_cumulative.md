@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-11 06:04
+**最后更新时间**: 2026-04-11 08:48
+
+---
+
+## 🆕 最新更新 (2026-04-11 08:48)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [奥特曼家差点被烧，AI争议滑向物理暴力](https://www.tmtpost.com/7949710.html)
+**发布时间**: 2026-04-11 16:43
+
+#### [大模型厂商，是时候告别Token狂欢了](https://www.tmtpost.com/7949702.html)
+**发布时间**: 2026-04-11 16:36
+
+#### [出去过的每个人都在讲，国外的钱也没有那么好挣](https://www.tmtpost.com/7949674.html)
+**发布时间**: 2026-04-11 14:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浅谈人工智能时代的用户体验：Agent Experience 导论](https://sspai.com/post/107600)
+**发布时间**: 2026-04-11 15:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类](https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-11 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [北邮附近的饺子馆，在 GitHub 上开源了自己的 Skill。。。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532947&idx=1&sn=560a0e6e87eb581dc489b2644602902e)
+**发布时间**: 2026-04-11 11:54
 
 ---
 

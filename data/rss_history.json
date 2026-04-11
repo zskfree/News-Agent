@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c21319a0eecbad97a2706d8346d9f8b66dc8a244cb41b8a4f8721648447ca233": {
-        "title": "昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路",
-        "link": "https://www.tmtpost.com/7910848.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.301825"
-      },
-      "46536a9a5f03ac2579f94d26ae7c402376ad7a9a24db434a9f5e655353a3f3be": {
-        "title": "秘密开发Agent，微信告别AI克制",
-        "link": "https://www.tmtpost.com/7910894.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.301837"
-      },
-      "087f3c59a5319264e7ff49c10d4252214d4c66a593feee05535b80783d9edac5": {
-        "title": "Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL",
-        "link": "https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 16:00:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.301840"
-      },
-      "3643b893a2c4a0f4e5ca0bf130fefd0b2d570643b276088d03e75e8b85f7ecea": {
-        "title": "爱诗科技完成 3 亿美元 C 轮融资，鼎晖领投，开启“实时交互”视频生成新纪元｜融资速递",
-        "link": "https://www.tmtpost.com/7910908.html",
-        "published_date": "Thu, 12 Mar 2026 14:44:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.301842"
-      },
-      "a72ecf18f495bb7766f8754b31c2b2debc62a570609660c8391d31eca4060065": {
-        "title": "闪充技术发布，比亚迪与磷酸铁锂的七年",
-        "link": "https://www.tmtpost.com/7910859.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.301844"
-      },
       "1379bcee3aa889034ee9e2a6cc8bfa347c8cbe6084d82f32d17700f65d3155bb": {
         "title": "黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点",
         "link": "https://www.tmtpost.com/7910747.html",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7949632.html",
         "published_date": "Sat, 11 Apr 2026 12:55:00 GMT",
         "first_seen": "2026-04-11T06:05:08.046628"
+      },
+      "3a110fde5e204457a18f17de42c7870dd0e9d93d7dc5fa0d777037d1a9c6bd64": {
+        "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-11T08:48:50.771805"
+      },
+      "2e9920ba0cfc6506394b15cd4d5b6fc99b20c4e697cb0f6c45b90f1f9b6bdce0": {
+        "title": "GitHub Actions 正式发布自定义 Runner 镜像",
+        "link": "https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-11T08:48:50.771814"
+      },
+      "257e9939af5f7fc4cca1527bfeefa6da9356e39a8bb5847b836e0df8c2b5e539": {
+        "title": "让每个员工都有一个 Coding Agent：蚂蚁 Vibe Coding 平台落地半年后的实践经验｜QCon北京",
+        "link": "https://www.infoq.cn/article/zwsaRqiZ99H7l3y8G9Lc?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-11T08:48:50.771817"
+      },
+      "019e1c9baaa9bb1791286fdea6898b60074b5799277c648c54c5794d63c4a456": {
+        "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
+        "link": "https://www.tmtpost.com/7949623.html",
+        "published_date": "Sat, 11 Apr 2026 12:42:00 GMT",
+        "first_seen": "2026-04-11T08:48:50.771819"
+      },
+      "6d10112355faa193d492c5c6177c8ca9d10a8b8f4c8c5f0b21d40fd3472546ef": {
+        "title": "奥特曼家差点被烧，AI争议滑向物理暴力",
+        "link": "https://www.tmtpost.com/7949710.html",
+        "published_date": "Sat, 11 Apr 2026 16:43:00 GMT",
+        "first_seen": "2026-04-11T08:48:50.771821"
       }
     },
     "Finance": {
@@ -4797,21 +4797,21 @@
         "link": "https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9",
         "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-11T06:04:43.517869"
+      },
+      "ec9316680c60e0e883a6b348d026260e39b2fa24277f7db7df68d18b4e457805": {
+        "title": "Peace talks present big test on global stage for JD Vance",
+        "link": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
+        "published_date": "Sat, 11 Apr 2026 08:14:00 GMT",
+        "first_seen": "2026-04-11T08:48:20.320239"
+      },
+      "bec360d8029e7e2e7839fc4d2128486e9a5b16b922a8db8b0ac90d4badbbef31": {
+        "title": "JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran",
+        "link": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
+        "published_date": "Sat, 11 Apr 2026 06:32:00 GMT",
+        "first_seen": "2026-04-11T08:48:20.320248"
       }
     },
     "Ai": {
-      "79a743658fd2d3c9cf557491ee91f08f667e0954c669b48d6a7344fdcb5bc2c8": {
-        "title": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-        "link": "https://www.qbitai.com/2026/03/386664.html",
-        "published_date": "Thu, 12 Mar 2026 07:18:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.456055"
-      },
-      "c2cb27ecace80278ccc808073787c6505d32fd57b48802a58749a4fd846f6d49": {
-        "title": "全球首款手机龙虾秒光，OpenClaw创始人称愿与百度共同开发龙虾",
-        "link": "https://www.qbitai.com/2026/03/386660.html",
-        "published_date": "Thu, 12 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-12T08:47:54.456062"
-      },
       "a7c356f2cefa288b7965d92b1afa60bb45624916a6d522d6c110b6440ad71c24": {
         "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
         "link": "https://www.qbitai.com/2026/03/386717.html",
@@ -6274,8 +6274,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-11T06:05:08.046630",
-    "Finance": "2026-04-11T06:04:43.517870",
+    "Technology": "2026-04-11T08:48:50.771824",
+    "Finance": "2026-04-11T08:48:20.320251",
     "Ai": "2026-04-11T06:04:43.670251"
   }
 }

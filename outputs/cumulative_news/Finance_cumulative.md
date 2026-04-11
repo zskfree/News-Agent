@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-11 06:04
+**最后更新时间**: 2026-04-11 08:48
+
+---
+
+## 🆕 最新更新 (2026-04-11 08:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Peace talks present big test on global stage for JD Vance](https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540)
+**发布时间**: 2026-04-11 08:14
+
+#### [JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1)
+**发布时间**: 2026-04-11 06:32
+
+#### [The damage wrought on the Middle East’s oil and gas supplies](https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76)
+**发布时间**: 2026-04-11 04:00
+
+#### [Dubai, eternal city](https://www.ft.com/content/c9029475-b7cc-419c-823b-4caf78247ecf)
+**发布时间**: 2026-04-11 04:00
 
 ---
 
