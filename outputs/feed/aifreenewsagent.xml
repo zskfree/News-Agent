@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Apr 2026 06:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2026 06:26:09 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:54:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-12日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-12/</link>
-      <description>&lt;![CDATA[2026-04-12日刊]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-12/</guid>
+      <title>36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26</title>
+      <link>https://www.qbitai.com/2026/04/399975.html</link>
+      <description>&lt;![CDATA[36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 07:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399975.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人</title>
-      <link>https://www.qbitai.com/2026/04/399681.html</link>
-      <description>&lt;![CDATA[超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399681.html</guid>
+      <title>Claude复活30年前传奇游戏，仅用一个周末</title>
+      <link>https://www.qbitai.com/2026/04/399903.html</link>
+      <description>&lt;![CDATA[Claude复活30年前传奇游戏，仅用一个周末]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399903.html</guid>
       <category>Ai</category>
     </item>
   </channel>
