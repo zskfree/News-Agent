@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-12 08:54
+**最后更新时间**: 2026-04-12 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-12 23:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hungary opposition delivers ‘regime change’ after 16 years of Orbán](https://www.ft.com/content/b348e8f5-c70a-4176-920e-168354846cc5)
+**发布时间**: 2026-04-12 23:12
+
+#### [UK households’ living standards to fall after energy price shock](https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749)
+**发布时间**: 2026-04-12 23:01
+
+#### [UK Treasury to profit from final year of student loan scheme, says analysis](https://www.ft.com/content/184f97b0-275b-4d28-9ed6-bdb15ae0c69f)
+**发布时间**: 2026-04-12 23:01
+
+#### [Oil prices soar above $100 per barrel as hope fades of end to Iran war](https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c)
+**发布时间**: 2026-04-12 22:36
+
+#### [Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail](https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c)
+**发布时间**: 2026-04-12 21:54
+
+#### [US stock futures slide ahead of Iran ports blockade](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 21:42
+
+#### [Hungary’s Orbán concedes defeat as opposition secures landslide win](https://www.ft.com/content/a9b635f0-6fff-41e5-8e27-245de4500863)
+**发布时间**: 2026-04-12 21:39
+
+#### [Global economic outlook darkens as policymakers count cost of Iran war](https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383)
+**发布时间**: 2026-04-12 17:00
+
+#### [Iran nuclear stand-off hardens after two decades of failed deals](https://www.ft.com/content/ac5af73f-82a6-42a0-81e1-2a657df66e99)
+**发布时间**: 2026-04-12 13:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock-market futures drop, oil surges back above $100 after failed talks between U.S. and Iran over the weekend](https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 23:06
+
+#### [Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.](https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 21:22
+
+#### [April’s stock-market rebound is about to face its first major test as earnings season swings into gear](https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 20:00
+
+#### [How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock](https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 13:00
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "312d4bc06e0b0788c3079f74834d359ec15abd72091096d7fda6a17161b1617d": {
-        "title": "实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表",
-        "link": "https://www.tmtpost.com/7912730.html",
-        "published_date": "Fri, 13 Mar 2026 14:19:00 GMT",
-        "first_seen": "2026-03-13T23:31:11.190907"
-      },
-      "92d06b3721eafaffd00ac693bdb72e94ae455ff55ba673d131f519592fa8c62d": {
-        "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
-        "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-13T23:31:11.190921"
-      },
-      "913bebce007b6e3b5898d668c24dc08affb19537bd2382be6f3a673b0b21d810": {
-        "title": "从概念到产线：具身智能真正卡在哪？",
-        "link": "https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 16:38:00 GMT",
-        "first_seen": "2026-03-13T23:31:11.190924"
-      },
-      "df1e2e485a5196a0344b50a6f1cd506349f6617d85c03c51e02806b76402d86a": {
-        "title": "核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？",
-        "link": "https://www.tmtpost.com/7913403.html",
-        "published_date": "Fri, 13 Mar 2026 19:26:00 GMT",
-        "first_seen": "2026-03-13T23:31:11.190926"
-      },
-      "9875d2cf6d81b16a4dd180deecba7802565a07f2792ead3336646585f220a936": {
-        "title": "最新一篇博客背后，黄仁勋的深度思考",
-        "link": "https://www.tmtpost.com/7912387.html",
-        "published_date": "Fri, 13 Mar 2026 11:21:00 GMT",
-        "first_seen": "2026-03-13T23:31:11.190928"
-      },
       "11f0d5372af5cf611800132224c770c3ca76a26c05aae768fbac86d51eee9d70": {
         "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
         "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
         "first_seen": "2026-04-12T08:54:50.350062"
+      },
+      "17497f86d80887875c0f7e27b8009a18de25a021a0b5c78f2c9dbd1afd4ba6ae": {
+        "title": "数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”",
+        "link": "https://www.tmtpost.com/7950419.html",
+        "published_date": "Sun, 12 Apr 2026 22:54:00 GMT",
+        "first_seen": "2026-04-12T23:39:58.487414"
+      },
+      "d5589698ffc5a2a67ffd293b033009cd135e12037447f647d862c68b0ad783f2": {
+        "title": "5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532957&idx=1&sn=8f27a513c9db4fb19a2a432937c634b4",
+        "published_date": "Sun, 12 Apr 2026 12:38:00 GMT",
+        "first_seen": "2026-04-12T23:39:58.487420"
+      },
+      "8bcc369d816ef811b1df6c3922174f1fd7c32bbd8c8d9128f60c06916eb04ab6": {
+        "title": "139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察",
+        "link": "https://www.tmtpost.com/7950387.html",
+        "published_date": "Sun, 12 Apr 2026 21:23:00 GMT",
+        "first_seen": "2026-04-12T23:39:58.487423"
+      },
+      "a31ad468c5311ed828c896eb2aec6dafb781cfc6aefb33566512df4aecf169c1": {
+        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-12T23:39:58.487425"
+      },
+      "a9136da3159f7741a361699fab9d1d7ebf8384dd94d2d93a28e7e7625bb78f36": {
+        "title": "【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律",
+        "link": "https://www.tmtpost.com/7950349.html",
+        "published_date": "Mon, 13 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-12T23:39:58.487426"
       }
     },
     "Finance": {
-      "2aaaccf9baff0bd0553871939a08d734a6dbac2155c7a9751dfcc72a3478afd4": {
-        "title": "Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates",
-        "link": "https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf",
-        "published_date": "Fri, 13 Mar 2026 20:38:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.221110"
-      },
-      "1540dae0e29376423867b9c2c91c7b1999ff76fcc3cfa8057ebd00bcb20a312e": {
-        "title": "Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.",
-        "link": "https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Mar 2026 20:42:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.221117"
-      },
-      "0891761655bb306196eaae10b03fbc5dd14e35487b4601199f75fb0bf9560f96": {
-        "title": "Wall Street warns Iran war will trigger prolonged energy crisis",
-        "link": "https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2",
-        "published_date": "Fri, 13 Mar 2026 18:30:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.221120"
-      },
-      "7ab1145836b63b2d519adbcb3087d94504e1c7901f167a6c3327932f085c5152": {
-        "title": "Nvidia prepares AI ‘inference’ chip launch to counter rising challengers",
-        "link": "https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf",
-        "published_date": "Fri, 13 Mar 2026 21:00:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.221122"
-      },
-      "d157ed37466bed15dd6c5d4fd11eaf22d2c837c00ffdd76b61d33d1c46859b12": {
-        "title": "Warren Buffett’s sage advice about fear and greed is a trap in this market",
-        "link": "https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Mar 2026 21:08:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.221123"
-      },
       "dafc0a218d7d2df3eef73a16b1a81bb3d5336d5535425b7ada13a0d16ba44cfe": {
         "title": "Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island",
         "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
@@ -4815,39 +4785,39 @@
         "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
         "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
         "first_seen": "2026-04-12T08:54:32.002605"
+      },
+      "fca4bc7ea4db564e5c48de61dffbeb5e05799b03b472a13b429e8ed0b424bec4": {
+        "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+        "link": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Apr 2026 21:22:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.030311"
+      },
+      "e4e39573a83877592d68380121e2d7bee30bc90b0656fa879757ffd797740318": {
+        "title": "Global economic outlook darkens as policymakers count cost of Iran war",
+        "link": "https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383",
+        "published_date": "Sun, 12 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.030321"
+      },
+      "af5fdc9f47fdb22a5cab054345d2fb1acb2d48b2999310416584080dded88dc2": {
+        "title": "UK households’ living standards to fall after energy price shock",
+        "link": "https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749",
+        "published_date": "Sun, 12 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.030323"
+      },
+      "026b209e9ec6809567db16330e1737e4c9f8864cdc558d7308bbca67e1a249eb": {
+        "title": "Iran nuclear stand-off hardens after two decades of failed deals",
+        "link": "https://www.ft.com/content/ac5af73f-82a6-42a0-81e1-2a657df66e99",
+        "published_date": "Sun, 12 Apr 2026 13:56:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.030325"
+      },
+      "661fd0ff5ff148bfa167c9c8688abab989a1dd40e30f812d193d46a7b6d7d7d1": {
+        "title": "April’s stock-market rebound is about to face its first major test as earnings season swings into gear",
+        "link": "https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Apr 2026 20:00:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.030326"
       }
     },
     "Ai": {
-      "93af80f1bd105edcbf5cec7734428b4604e43a8e8509557d2b0ecc1356ba4872": {
-        "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
-        "link": "https://www.qbitai.com/2026/03/387750.html",
-        "published_date": "Fri, 13 Mar 2026 11:30:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.389077"
-      },
-      "c76919e0aa63d86cb6b76cc049ae890b5f525f393e1490f43a351b0429b41211": {
-        "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
-        "link": "https://www.qbitai.com/2026/03/387739.html",
-        "published_date": "Fri, 13 Mar 2026 11:08:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.389086"
-      },
-      "73f727cbd1c5e1b5b1c74a58df9e888677e0ff6df218999bcc4fb4a8acac8251": {
-        "title": "滴滴Q4再创新高 日订单峰值超6500万单",
-        "link": "https://www.qbitai.com/2026/03/387736.html",
-        "published_date": "Fri, 13 Mar 2026 09:18:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.389089"
-      },
-      "821a92e8226f4b346e1e8c2942e0621cd8c2513de74570060d33b007ebbf67c4": {
-        "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
-        "link": "https://www.qbitai.com/2026/03/387734.html",
-        "published_date": "Fri, 13 Mar 2026 09:05:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.389090"
-      },
-      "f3e8aa15d2e0674a043954d55e135ea523b0f5bdf89032a845ac329de8c30d2d": {
-        "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
-        "link": "https://www.qbitai.com/2026/03/387405.html",
-        "published_date": "Fri, 13 Mar 2026 08:59:00 GMT",
-        "first_seen": "2026-03-13T23:31:31.389092"
-      },
       "87d416b0416d1d90972ec8630e6a764dbe020220a2dee8c5ca5506b39aa2dcc4": {
         "title": "2026-03-14日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-14/",
@@ -6251,13 +6221,31 @@
         "link": "https://www.qbitai.com/2026/04/399903.html",
         "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
         "first_seen": "2026-04-12T08:54:32.154435"
+      },
+      "a0878856e41e0a49298db58b094306de107fa7b5407fff7b6d0f4fe972bdc7e1": {
+        "title": "「Claude Code之父」其实是野路子来的……",
+        "link": "https://www.qbitai.com/2026/04/400306.html",
+        "published_date": "Sun, 12 Apr 2026 14:11:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.181099"
+      },
+      "783f9ff0c3d72facbd8d93ead685690b621fa4f9b531d8340f522cba0d0bcfa5": {
+        "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+        "link": "https://www.qbitai.com/2026/04/400197.html",
+        "published_date": "Sun, 12 Apr 2026 14:06:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.181107"
+      },
+      "e9751faae3362205e516177fc5353802827b55ccc7c30e8fba53a106942ebcb0": {
+        "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+        "link": "https://www.qbitai.com/2026/04/399996.html",
+        "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
+        "first_seen": "2026-04-12T23:39:38.181109"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-12T08:54:50.350064",
-    "Finance": "2026-04-12T08:54:32.002608",
-    "Ai": "2026-04-12T08:54:32.154438"
+    "Technology": "2026-04-12T23:39:58.487428",
+    "Finance": "2026-04-12T23:39:38.030329",
+    "Ai": "2026-04-12T23:39:38.181111"
   }
 }

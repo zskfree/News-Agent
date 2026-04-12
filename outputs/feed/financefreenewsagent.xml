@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Apr 2026 08:54:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2026 08:54:31 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:39:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vance says US and Iran fail to reach deal</title>
-      <link>https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84</link>
-      <description>&lt;![CDATA[Vance says US and Iran fail to reach deal]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84</guid>
+      <title>Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.</title>
+      <link>https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Robinhood excludes some prediction markets over manipulation fears</title>
-      <link>https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac</link>
-      <description>&lt;![CDATA[Robinhood excludes some prediction markets over manipulation fears]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 06:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac</guid>
+      <title>Global economic outlook darkens as policymakers count cost of Iran war</title>
+      <link>https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383</link>
+      <description>&lt;![CDATA[Global economic outlook darkens as policymakers count cost of Iran war]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK households’ living standards to fall after energy price shock</title>
+      <link>https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749</link>
+      <description>&lt;![CDATA[UK households’ living standards to fall after energy price shock]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 23:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran nuclear stand-off hardens after two decades of failed deals</title>
+      <link>https://www.ft.com/content/ac5af73f-82a6-42a0-81e1-2a657df66e99</link>
+      <description>&lt;![CDATA[Iran nuclear stand-off hardens after two decades of failed deals]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ac5af73f-82a6-42a0-81e1-2a657df66e99</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>April’s stock-market rebound is about to face its first major test as earnings season swings into gear</title>
+      <link>https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[April’s stock-market rebound is about to face its first major test as earnings season swings into gear]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

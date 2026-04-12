@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Apr 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2026 08:54:32 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 23:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:39:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26</title>
-      <link>https://www.qbitai.com/2026/04/399975.html</link>
-      <description>&lt;![CDATA[36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 07:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399975.html</guid>
+      <title>「Claude Code之父」其实是野路子来的……</title>
+      <link>https://www.qbitai.com/2026/04/400306.html</link>
+      <description>&lt;![CDATA[「Claude Code之父」其实是野路子来的……]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400306.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude复活30年前传奇游戏，仅用一个周末</title>
-      <link>https://www.qbitai.com/2026/04/399903.html</link>
-      <description>&lt;![CDATA[Claude复活30年前传奇游戏，仅用一个周末]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399903.html</guid>
+      <title>养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding</title>
+      <link>https://www.qbitai.com/2026/04/400197.html</link>
+      <description>&lt;![CDATA[养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400197.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了</title>
+      <link>https://www.qbitai.com/2026/04/399996.html</link>
+      <description>&lt;![CDATA[HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399996.html</guid>
       <category>Ai</category>
     </item>
   </channel>
