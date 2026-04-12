@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-11 23:37
+**最后更新时间**: 2026-04-12 06:25
+
+---
+
+## 🆕 最新更新 (2026-04-12 06:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fees for seas: a history of taxing waterways](https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd)
+**发布时间**: 2026-04-12 04:00
+
+#### [The historic Iranian palaces caught up in US-Israeli strikes](https://www.ft.com/content/ae2855d8-f4e3-4138-ad14-d5bee53a804f)
+**发布时间**: 2026-04-12 04:00
+
+#### [Social media is for picking up vibes, not information](https://www.ft.com/content/d8fd8966-d360-4329-b003-33d1beb3533b)
+**发布时间**: 2026-04-12 04:00
+
+#### [Switzerland’s Zug becomes bolt-hole for Gulf-based wealth](https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5)
+**发布时间**: 2026-04-12 04:00
+
+#### [Brexiters turn their backs on Trump after Iran chaos](https://www.ft.com/content/385a0e01-bc77-42fc-85da-32ecd89b9110)
+**发布时间**: 2026-04-12 04:00
+
+#### [Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility](https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da)
+**发布时间**: 2026-04-12 04:00
+
+#### [Commodity traders lost ‘billions’ in early days of Iran war](https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc)
+**发布时间**: 2026-04-12 04:00
+
+#### [Middle East war live: Vance says US and Iran fail to reach deal](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 01:44
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Apr 2026 23:36:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2026 23:37:58 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 06:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:26:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地</title>
-      <link>https://www.qbitai.com/2026/04/399675.html</link>
-      <description>&lt;![CDATA[滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399675.html</guid>
+      <title>2026-04-12日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-12/</link>
+      <description>&lt;![CDATA[2026-04-12日刊]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 12:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-12/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人</title>
+      <link>https://www.qbitai.com/2026/04/399681.html</link>
+      <description>&lt;![CDATA[超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/399681.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Apr 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2026 23:38:17 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 06:25:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:26:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>滴滴自动驾驶张博：深耕AI、硬件、场景三大能力，持续强化创新突破</title>
-      <link>https://www.tmtpost.com/7949810.html</link>
-      <description>&lt;![CDATA[滴滴自动驾驶张博：深耕AI、硬件、场景三大能力，持续强化创新突破]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949810.html</guid>
+      <title>跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住</title>
+      <link>https://www.tmtpost.com/7947704.html</link>
+      <description>&lt;![CDATA[跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7947704.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型厂商，是时候告别Token狂欢了</title>
-      <link>https://www.tmtpost.com/7949702.html</link>
-      <description>&lt;![CDATA[大模型厂商，是时候告别Token狂欢了]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949702.html</guid>
+      <title>谷歌开源 Colab MCP Server，AI 智能体可云端运行代码</title>
+      <link>https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌开源 Colab MCP Server，AI 智能体可云端运行代码]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>浅谈人工智能时代的用户体验：Agent Experience 导论</title>
-      <link>https://sspai.com/post/107600</link>
-      <description>&lt;![CDATA[浅谈人工智能时代的用户体验：Agent Experience 导论]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/107600</guid>
+      <title>估值8520亿，CEO零持股，股东神仙打架：谁在掌控OpenAI？</title>
+      <link>https://www.tmtpost.com/7949965.html</link>
+      <description>&lt;![CDATA[估值8520亿，CEO零持股，股东神仙打架：谁在掌控OpenAI？]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949965.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>所谓Skill，不过是AI时代的工业垃圾</title>
-      <link>https://www.tmtpost.com/7949507.html</link>
-      <description>&lt;![CDATA[所谓Skill，不过是AI时代的工业垃圾]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949507.html</guid>
+      <title>Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年</title>
+      <link>https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无人配送车大战：菜鸟联手九识，京东新石器如何接招？</title>
-      <link>https://www.tmtpost.com/7949239.html</link>
-      <description>&lt;![CDATA[无人配送车大战：菜鸟联手九识，京东新石器如何接招？]]&gt;</description>
-      <pubDate>Sat, 11 Apr 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7949239.html</guid>
+      <title>AI撞墙：科技巨头的零碳叙事正在物理世界中松动</title>
+      <link>https://www.tmtpost.com/7949997.html</link>
+      <description>&lt;![CDATA[AI撞墙：科技巨头的零碳叙事正在物理世界中松动]]&gt;</description>
+      <pubDate>Sun, 12 Apr 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949997.html</guid>
       <category>Technology</category>
     </item>
   </channel>

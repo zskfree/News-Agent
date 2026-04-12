@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-11 23:37
+**最后更新时间**: 2026-04-12 06:25
+
+---
+
+## 🆕 最新更新 (2026-04-12 06:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [首席工程师之路：培养领导力](https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-12 14:00
+
+#### [Aspire 13.2 正式发布，带来扩展版 CLI、预览版 TypeScript AppHost 及仪表盘改进](https://www.infoq.cn/article/gXDZZmbAobi5TfwKUxLH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-12 11:00
+
+#### [谷歌开源 Colab MCP Server，AI 智能体可云端运行代码](https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-12 10:00
+
+#### [可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京](https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-12 10:00
+
+#### [Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年](https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-12 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里HappyHorse，一场关于“Token经济”的阳谋](https://www.tmtpost.com/7949938.html)
+**发布时间**: 2026-04-12 12:25
+
+#### [管理提升的 AI 化](https://www.tmtpost.com/7950044.html)
+**发布时间**: 2026-04-12 09:25
+
+#### [AI打榜，打的是什么？](https://www.tmtpost.com/7949939.html)
+**发布时间**: 2026-04-12 09:25
+
+#### [中国电力市场，不需要一个复刻版的美国模式](https://www.tmtpost.com/7950005.html)
+**发布时间**: 2026-04-12 09:01
+
+#### [OpenAI奥特曼家被炸了](https://www.tmtpost.com/7949996.html)
+**发布时间**: 2026-04-12 08:59
+
+#### [估值8520亿，CEO零持股，股东神仙打架：谁在掌控OpenAI？](https://www.tmtpost.com/7949965.html)
+**发布时间**: 2026-04-12 08:54
+
+#### [跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住](https://www.tmtpost.com/7947704.html)
+**发布时间**: 2026-04-12 08:52
+
+#### [61亿连拿两地，5500亿张一鸣开启“花花花”模式](https://www.tmtpost.com/7949967.html)
+**发布时间**: 2026-04-12 08:49
+
+#### [AI撞墙：科技巨头的零碳叙事正在物理世界中松动](https://www.tmtpost.com/7949997.html)
+**发布时间**: 2026-04-12 08:44
+
+#### [机器人财报里的“隐性成本”与“显性焦虑”](https://www.tmtpost.com/7949914.html)
+**发布时间**: 2026-04-12 08:40
+
+#### [OKR死于2026](https://www.tmtpost.com/7949987.html)
+**发布时间**: 2026-04-12 08:39
+
+#### [ADC交易逻辑变了](https://www.tmtpost.com/7949968.html)
+**发布时间**: 2026-04-12 08:39
+
+#### [Edge AI Daily 早报（4月12日）](https://www.tmtpost.com/7950039.html)
+**发布时间**: 2026-04-12 08:37
+
+#### [长安汽车，赚着钱转型有多难](https://www.tmtpost.com/7949905.html)
+**发布时间**: 2026-04-12 08:29
+
+#### [快乐马杀出「回马枪」，也是阿里变阵的第一枪](https://www.tmtpost.com/7949984.html)
+**发布时间**: 2026-04-12 08:29
 
 ---
 

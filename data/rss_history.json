@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0a9abd5e679b9ca147b936ca931b42eaba55d61351047d09a601b50da121db47": {
-        "title": "从“暴力烧Token”到“系统工程”：OpenAI与华为的两条 AI 编程路径",
-        "link": "https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 11:14:00 GMT",
-        "first_seen": "2026-03-13T05:52:49.517957"
-      },
-      "e4f81c0cbb0ffb78fdcced9104bc921cd65502adf48ceaed18236afda28a917e": {
-        "title": "Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构",
-        "link": "https://www.infoq.cn/article/pogJ0jrHtNfQ7yrBNweE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 10:08:00 GMT",
-        "first_seen": "2026-03-13T05:52:49.517970"
-      },
-      "a7b4312f79c7ca85d300ea05539b91bf4839a6532dc30e5bb18d6fac314d2dc8": {
-        "title": "维持16年的30%抽成税终于下调，苹果在中国第一次退让",
-        "link": "https://www.tmtpost.com/7912549.html",
-        "published_date": "Fri, 13 Mar 2026 12:01:00 GMT",
-        "first_seen": "2026-03-13T05:52:49.517972"
-      },
-      "26e2eaa5fb5a22a82dd5d3ffbe40fabcd5bdacc011363d3a1350fd79ad2f5c4e": {
-        "title": "Cloudflare 推出面向 AI 代理的 Markdown 页面与 Content Signals，用于引导 AI 爬虫",
-        "link": "https://www.infoq.cn/article/Szkb4Zld4RplFWYUpfq6?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-13T05:52:49.517975"
-      },
-      "673406a7b304ae9a5a82bd66075f60148844c44ce35fe212ddaeaf5d1a5d7883": {
-        "title": "Google 为 Gemini CLI Conductor 推出自动化代码评审功能",
-        "link": "https://www.infoq.cn/article/BuXP90QohCudfPX5Q2Zw?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-13T05:52:49.517976"
-      },
       "c27a016c7683ad8c4de7c8bbcf5c53f2089ee67e8b71e82398a345baa0077cfa": {
         "title": "模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架",
         "link": "https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&utm_medium=article",
@@ -2701,39 +2671,39 @@
         "link": "https://www.tmtpost.com/7949239.html",
         "published_date": "Sat, 11 Apr 2026 11:45:00 GMT",
         "first_seen": "2026-04-11T23:38:17.492622"
+      },
+      "2fa9d3b73aa69c9ec93d4e07d491738198ecee43a0776407f5877f6de4e54b11": {
+        "title": "跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住",
+        "link": "https://www.tmtpost.com/7947704.html",
+        "published_date": "Sun, 12 Apr 2026 08:52:00 GMT",
+        "first_seen": "2026-04-12T06:26:28.818787"
+      },
+      "8dd3e7e55f7fddd6f2288b65d2e786b4a6a43a8d4c150f7d25ea8395bc6576dd": {
+        "title": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "link": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:28.818794"
+      },
+      "4fd68495eaee826c96a25e64c0922099db3dfcc9a08d65decab7e1421034c2ba": {
+        "title": "估值8520亿，CEO零持股，股东神仙打架：谁在掌控OpenAI？",
+        "link": "https://www.tmtpost.com/7949965.html",
+        "published_date": "Sun, 12 Apr 2026 08:54:00 GMT",
+        "first_seen": "2026-04-12T06:26:28.818797"
+      },
+      "dd818c1c8dace19a1fc468839051381daeb85d794b09be2ddd4aacb9d0c3ea29": {
+        "title": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "link": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 08:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:28.818798"
+      },
+      "233a874488915330b664c1d2f962f22dacefb04c0dfc19ca13606bdc1eaf6c22": {
+        "title": "AI撞墙：科技巨头的零碳叙事正在物理世界中松动",
+        "link": "https://www.tmtpost.com/7949997.html",
+        "published_date": "Sun, 12 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-12T06:26:28.818800"
       }
     },
     "Finance": {
-      "658be8455880e3c9fafd79edea99fb0ac67a52d1dc0bcfb99f37e0a618ffdcd9": {
-        "title": "US to ease Russian oil sanctions as energy prices soar",
-        "link": "https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe",
-        "published_date": "Fri, 13 Mar 2026 00:31:00 GMT",
-        "first_seen": "2026-03-13T05:53:01.972009"
-      },
-      "ec917df56ef329450dc04eb07a7aec01eec24367a9bc475fca0ae4fbf2fe03d9": {
-        "title": "US targets UK, EU and Canada in new round of tariff probes",
-        "link": "https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2",
-        "published_date": "Fri, 13 Mar 2026 02:54:00 GMT",
-        "first_seen": "2026-03-13T05:53:01.972015"
-      },
-      "75aa915e691d1320fa3d1a2506454821c0113954c6375e2de5be29e6cc4a1a17": {
-        "title": "Gulf states lose $15bn in energy revenues since start of war",
-        "link": "https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae",
-        "published_date": "Fri, 13 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-13T05:53:01.972018"
-      },
-      "52b337f3a7b3b71a94b30f868ce24335d0eafb8c4aa4e6bb28ca3f9a07c33fa8": {
-        "title": "Iran war tests Xi’s plan to build China’s stockpiles",
-        "link": "https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87",
-        "published_date": "Fri, 13 Mar 2026 04:35:00 GMT",
-        "first_seen": "2026-03-13T05:53:01.972020"
-      },
-      "5dfaa3fa97eb7581554c902ea1feaf6faee8b67a40df84db445aae6755325610": {
-        "title": "US has burned through ‘years’ of munitions since start of Iran war",
-        "link": "https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5",
-        "published_date": "Thu, 12 Mar 2026 23:37:00 GMT",
-        "first_seen": "2026-03-13T05:53:01.972022"
-      },
       "9f4ddafcb2c5e436b5532919b8538b382cdaa5a4438a537379baf933de8bbcac": {
         "title": "UK economy unexpectedly failed to grow in January",
         "link": "https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90",
@@ -4809,15 +4779,39 @@
         "link": "https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1",
         "published_date": "Sat, 11 Apr 2026 17:42:00 GMT",
         "first_seen": "2026-04-11T23:37:58.523514"
+      },
+      "c525ce71ceb547b1b7a91e71f5d9c26d618a8731848fb2fd70c69b153aa6a45f": {
+        "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
+        "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
+        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.767839"
+      },
+      "5ce037db72ec0c93020a6661e82dd5a22a44c621628486b2e8828ed985bc0dfa": {
+        "title": "Commodity traders lost ‘billions’ in early days of Iran war",
+        "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
+        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.767849"
+      },
+      "4778c63423977d0c90299e02775d7228af388417dadd9dcdfdbeeb78ba5f022a": {
+        "title": "Switzerland’s Zug becomes bolt-hole for Gulf-based wealth",
+        "link": "https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5",
+        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.767852"
+      },
+      "b6bd5e6a64b6b8b1dd15463b22e3f66d7472f9fc4f283f9a0e02b28f6240d610": {
+        "title": "Social media is for picking up vibes, not information",
+        "link": "https://www.ft.com/content/d8fd8966-d360-4329-b003-33d1beb3533b",
+        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.767855"
+      },
+      "82a12f8aff64a728e89eab88bf592959c297520af7a0606ed41473418c5b39e5": {
+        "title": "Fees for seas: a history of taxing waterways",
+        "link": "https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd",
+        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.767857"
       }
     },
     "Ai": {
-      "4b609770787e4ec99687ca728a646e538d729d66b7067d4605003588794ceb9c": {
-        "title": "2026-03-13日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-13/",
-        "published_date": "Fri, 13 Mar 2026 09:30:00 GMT",
-        "first_seen": "2026-03-13T05:53:02.125775"
-      },
       "9f56e663b5f41eaec34a5bfd4024526d34c8b4fcf6fb03ee9ef8ba9122938b1f": {
         "title": "我用10块钱的「熟虾」，搞了个AI编辑部！",
         "link": "https://www.qbitai.com/2026/03/387116.html",
@@ -6245,13 +6239,25 @@
         "link": "https://www.qbitai.com/2026/04/399675.html",
         "published_date": "Sat, 11 Apr 2026 10:46:00 GMT",
         "first_seen": "2026-04-11T23:37:58.671585"
+      },
+      "5daed54ccd41633a5b76ed43f5e795bf4eea534f77920251646452fd5ee7bfe9": {
+        "title": "2026-04-12日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-12/",
+        "published_date": "Sun, 12 Apr 2026 12:10:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.916443"
+      },
+      "f2fed8c32cf1affc6aa27c1e54998a164e205585a605b4d23985b272a5a4b88f": {
+        "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
+        "link": "https://www.qbitai.com/2026/04/399681.html",
+        "published_date": "Sun, 12 Apr 2026 06:06:00 GMT",
+        "first_seen": "2026-04-12T06:26:09.916452"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-11T23:38:17.492623",
-    "Finance": "2026-04-11T23:37:58.523516",
-    "Ai": "2026-04-11T23:37:58.671594"
+    "Technology": "2026-04-12T06:26:28.818802",
+    "Finance": "2026-04-12T06:26:09.767859",
+    "Ai": "2026-04-12T06:26:09.916455"
   }
 }
