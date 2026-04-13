@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-12 23:39
+**最后更新时间**: 2026-04-13 07:15
+
+---
+
+## 🆕 最新更新 (2026-04-13 07:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices soar above $100 a barrel as hope fades of end to Iran war](https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c)
+**发布时间**: 2026-04-13 06:15
+
+#### [The risks of Trump’s Strait of Hormuz blockade plan](https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb)
+**发布时间**: 2026-04-13 04:46
+
+#### [What happens in Sudan will not stay in Sudan](https://www.ft.com/content/4ff2b813-e347-4373-8355-d19a49af5391)
+**发布时间**: 2026-04-13 04:00
+
+#### [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f)
+**发布时间**: 2026-04-13 04:00
+
+#### [Carson Block sees new dawn for short sellers in AI disruption](https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7)
+**发布时间**: 2026-04-13 04:00
+
+#### [Stocks fall as US prepares for blockade of strait](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08)
+**发布时间**: 2026-04-13 03:25
+
+#### [Donald Trump lashes Pope Leo on social media for criticism of Iran war](https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc)
+**发布时间**: 2026-04-13 03:15
+
+#### [Hungary opposition delivers ‘regime change’](https://www.ft.com/content/b348e8f5-c70a-4176-920e-168354846cc5)
+**发布时间**: 2026-04-12 23:12
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Move now to seize this potential stock-market crisis and opportunity](https://www.marketwatch.com/story/move-now-to-seize-this-potential-stock-market-crisis-and-opportunity-3c61dea9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 01:15
+
+#### [Trump says he’s closing the Strait of Hormuz. Has he been reading MarketWatch?](https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 00:18
 
 ---
 

@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-12 23:39
+**最后更新时间**: 2026-04-13 07:15
+
+---
+
+## 🆕 最新更新 (2026-04-13 07:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码](https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 15:00
+
+#### [谷歌推出AppFunctions连接AI智能体和Android应用](https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 14:00
+
+#### [FOSDEM 2026：WebTransport简介，下一个 WebSocket？！](https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 11:00
+
+#### [曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报](https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 10:25
+
+#### [Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描](https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 10:00
+
+#### [从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京](https://www.infoq.cn/article/lpZPLmhGsOYWKApQrqY2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [闲鱼变相上调鱼小铺卖家佣金，一家独大的“收割”时刻到了？](https://www.tmtpost.com/7950867.html)
+**发布时间**: 2026-04-13 14:45
+
+#### [“不确定性”的终极集约：从神学盲盒到算法猎场](https://www.tmtpost.com/7950876.html)
+**发布时间**: 2026-04-13 14:45
+
+#### [风向变了，多宁生物三闯港交所，扭亏后能过关吗？](https://www.tmtpost.com/7950892.html)
+**发布时间**: 2026-04-13 14:45
+
+#### [海底捞真正需要的，是一次断臂求生](https://www.tmtpost.com/7950749.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [这些芯片供应商，深陷降价泥潭](https://www.tmtpost.com/7950674.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [智驾芯片，更卷了](https://www.tmtpost.com/7950683.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [孙弋涵：机战“疯子”和他的VR游戏梦](https://www.tmtpost.com/7950712.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [现在的游戏，怎么都是“缝合怪”？](https://www.tmtpost.com/7950747.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [印奇，在杨植麟身上看到曾经的自己](https://www.tmtpost.com/7950748.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [6倍大牛股1年暴跌80%：多邻国到底怎么了？](https://www.tmtpost.com/7950752.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [那个做出可灵的人，回阿里又造了一匹黑马](https://www.tmtpost.com/7950831.html)
+**发布时间**: 2026-04-13 13:02
+
+#### [美国电池喊了三年去中国化，结果自己人先破产了](https://www.tmtpost.com/7950770.html)
+**发布时间**: 2026-04-13 12:00
+
+#### [即时零售下半场，为何自营成了普遍趋势](https://www.tmtpost.com/7950379.html)
+**发布时间**: 2026-04-13 12:00
+
+#### [冲冠一怒为“魔法”，谁又惹了俞浩？](https://www.tmtpost.com/7950615.html)
+**发布时间**: 2026-04-13 12:00
+
+#### [Rocket Lab：SpaceX 最危险的对手？](https://www.tmtpost.com/7950664.html)
+**发布时间**: 2026-04-13 12:00
+
+#### [覆盖99%县城，年入38亿，医疗版拼多多冲刺IPO！](https://www.tmtpost.com/7950661.html)
+**发布时间**: 2026-04-13 11:39
+
+#### [《乘风2026》为什么一定要直播](https://www.tmtpost.com/7950368.html)
+**发布时间**: 2026-04-13 10:05
+
+#### [对于不被看好，泡泡玛特已经麻了](https://www.tmtpost.com/7950644.html)
+**发布时间**: 2026-04-13 10:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程](https://sspai.com/post/108519)
+**发布时间**: 2026-04-13 11:48
+
+#### [派早报：微软宣布改进和简化 Windows 预览体验计划](https://sspai.com/post/108568)
+**发布时间**: 2026-04-13 07:30
 
 ---
 

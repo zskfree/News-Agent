@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Apr 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Apr 2026 23:39:58 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 07:15:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:16:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”</title>
-      <link>https://www.tmtpost.com/7950419.html</link>
-      <description>&lt;![CDATA[数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 22:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950419.html</guid>
+      <title>Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码</title>
+      <link>https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532957&amp;idx=1&amp;sn=8f27a513c9db4fb19a2a432937c634b4</link>
-      <description>&lt;![CDATA[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532957&amp;idx=1&amp;sn=8f27a513c9db4fb19a2a432937c634b4</guid>
+      <title>谷歌推出AppFunctions连接AI智能体和Android应用</title>
+      <link>https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出AppFunctions连接AI智能体和Android应用]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察</title>
-      <link>https://www.tmtpost.com/7950387.html</link>
-      <description>&lt;![CDATA[139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950387.html</guid>
+      <title>Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描</title>
+      <link>https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京</title>
-      <link>https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京]]&gt;</description>
-      <pubDate>Sun, 12 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报</title>
+      <link>https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律</title>
-      <link>https://www.tmtpost.com/7950349.html</link>
-      <description>&lt;![CDATA[【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950349.html</guid>
+      <title>FOSDEM 2026：WebTransport简介，下一个 WebSocket？！</title>
+      <link>https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[FOSDEM 2026：WebTransport简介，下一个 WebSocket？！]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

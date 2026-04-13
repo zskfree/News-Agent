@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "11f0d5372af5cf611800132224c770c3ca76a26c05aae768fbac86d51eee9d70": {
-        "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
-        "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.721769"
-      },
-      "54b04b9881300b4129184bb48521c944fe2cbe88e016a8f65e1464db290920a1": {
-        "title": "马拉比中国行解密DeepMind：哈萨比斯错失大模型先机的真相",
-        "link": "https://www.tmtpost.com/7913014.html",
-        "published_date": "Sat, 14 Mar 2026 09:51:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.721778"
-      },
-      "e9d7f2eece4e1db1827d2506d47387527fe6875ac3935182cf2b7082179a991f": {
-        "title": "AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态",
-        "link": "https://www.tmtpost.com/7914173.html",
-        "published_date": "Sat, 14 Mar 2026 12:54:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.721780"
-      },
-      "8c3e892f89d8c3914c2fec816cfb85854bb99b3194f88e2d79ab9b2e6a0104c0": {
-        "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
-        "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.721782"
-      },
-      "320789be9e46d70ac65bb2eb1cef50af35cd5e840300f2735937f537dd3f22d8": {
-        "title": "数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？",
-        "link": "https://www.tmtpost.com/7914134.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.721784"
-      },
       "2afbda8a4d4dc6ff711020c8fd5be1177a73941bb6d94c77bc634f91d0e0d564": {
         "title": "宁德时代不想只卖电池了：722亿利润背后的转型信号",
         "link": "https://www.tmtpost.com/7914219.html",
@@ -2701,21 +2671,39 @@
         "link": "https://www.tmtpost.com/7950349.html",
         "published_date": "Mon, 13 Apr 2026 07:20:00 GMT",
         "first_seen": "2026-04-12T23:39:58.487426"
+      },
+      "f865f6be38ba64bd89e1ee800dc32e075d7d3e9de6ca9a9aa07066194f1528ab": {
+        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-13T07:16:53.453506"
+      },
+      "b5693febc2485c23b3af694898a6ccf70a0b5e3507d0e45b64b17effe03b1891": {
+        "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+        "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-13T07:16:53.453513"
+      },
+      "052aeb3324774b3667c677176de83d674ccffdbdf26ff01acdb4bd72b2ac4bef": {
+        "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+        "link": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-13T07:16:53.453515"
+      },
+      "5946127cd156c00e460a96d0cc3924e09ee457ce05699dfacda25905470ff598": {
+        "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
+        "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 10:25:00 GMT",
+        "first_seen": "2026-04-13T07:16:53.453517"
+      },
+      "427752c417da858cb79667fd00c8007b6b00372235f568909717d7e94a9b9df4": {
+        "title": "FOSDEM 2026：WebTransport简介，下一个 WebSocket？！",
+        "link": "https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-13T07:16:53.453518"
       }
     },
     "Finance": {
-      "dafc0a218d7d2df3eef73a16b1a81bb3d5336d5535425b7ada13a0d16ba44cfe": {
-        "title": "Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island",
-        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
-        "published_date": "Fri, 13 Mar 2026 23:53:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.756585"
-      },
-      "8719c95e1128206af0e78a25a1b6b60ce2bfa21dd6c9ace7ea7b5e1becf24d48": {
-        "title": "Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says",
-        "link": "https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d",
-        "published_date": "Fri, 13 Mar 2026 23:36:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.756592"
-      },
       "e71bdcf7ada01bfa47081149950b13ecda5bfb27f4ed82ba794c61a4028d1aa3": {
         "title": "Israel calls for Iranian factory evacuation, suggesting attack imminent",
         "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
@@ -4815,15 +4803,39 @@
         "link": "https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories",
         "published_date": "Sun, 12 Apr 2026 20:00:00 GMT",
         "first_seen": "2026-04-12T23:39:38.030326"
+      },
+      "76281820cf0c99fd56e3d23135523b58a0b7764dd2663e564713cb78b682b9ac": {
+        "title": "Oil prices soar above $100 a barrel as hope fades of end to Iran war",
+        "link": "https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c",
+        "published_date": "Mon, 13 Apr 2026 06:15:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.721872"
+      },
+      "8a438c803ad3cd7ccb9af30da5b999a6d555155a7ed6db872372ab4b55396464": {
+        "title": "The risks of Trump’s Strait of Hormuz blockade plan",
+        "link": "https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb",
+        "published_date": "Mon, 13 Apr 2026 04:46:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.721883"
+      },
+      "124f8003c8b84d653c27ff0d99d90a3aab70a0d103f76456abd7f9f00d392089": {
+        "title": "Carson Block sees new dawn for short sellers in AI disruption",
+        "link": "https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7",
+        "published_date": "Mon, 13 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.721885"
+      },
+      "453435b20d263263b9765c1be82d1fd8457c07030b44a38761631e5aa4235185": {
+        "title": "What happens in Sudan will not stay in Sudan",
+        "link": "https://www.ft.com/content/4ff2b813-e347-4373-8355-d19a49af5391",
+        "published_date": "Mon, 13 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.721888"
+      },
+      "b29ace67eb496f2895cd9992d97006cda1dda8b082e0734a5fa0c88dc6b1dc35": {
+        "title": "Stocks fall as US prepares for blockade of strait",
+        "link": "https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08",
+        "published_date": "Mon, 13 Apr 2026 03:25:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.721889"
       }
     },
     "Ai": {
-      "87d416b0416d1d90972ec8630e6a764dbe020220a2dee8c5ca5506b39aa2dcc4": {
-        "title": "2026-03-14日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-14/",
-        "published_date": "Sat, 14 Mar 2026 09:23:00 GMT",
-        "first_seen": "2026-03-14T05:49:00.901888"
-      },
       "acf3a260c730f21232ca1b984786829eed5dfbfc0b7c099c67e4e77fb1a8be08": {
         "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
         "link": "https://www.qbitai.com/2026/03/387832.html",
@@ -6239,13 +6251,31 @@
         "link": "https://www.qbitai.com/2026/04/399996.html",
         "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
         "first_seen": "2026-04-12T23:39:38.181109"
+      },
+      "f786dbf64c9173029e3713f8ec9d9068b03f053dc57aa58b54157316d2c6b9f6": {
+        "title": "2026-04-13日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-13/",
+        "published_date": "Mon, 13 Apr 2026 10:41:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.870500"
+      },
+      "0808110e398581b52b28a1287a01634d86c61a3cda460be45e8f468856122d63": {
+        "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+        "link": "https://www.qbitai.com/2026/04/400500.html",
+        "published_date": "Mon, 13 Apr 2026 05:41:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.870507"
+      },
+      "3284f293faaab7781092dce4b9443e0237c377f5a19be583d0b1d7b55e09326e": {
+        "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+        "link": "https://www.qbitai.com/2026/04/400350.html",
+        "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
+        "first_seen": "2026-04-13T07:15:49.870510"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-12T23:39:58.487428",
-    "Finance": "2026-04-12T23:39:38.030329",
-    "Ai": "2026-04-12T23:39:38.181111"
+    "Technology": "2026-04-13T07:16:53.453520",
+    "Finance": "2026-04-13T07:15:49.721892",
+    "Ai": "2026-04-13T07:15:49.870512"
   }
 }
