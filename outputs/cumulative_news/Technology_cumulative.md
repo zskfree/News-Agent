@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 07:15
+**最后更新时间**: 2026-04-13 23:46
+
+---
+
+## 🆕 最新更新 (2026-04-13 23:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】李强签署国务院令，公布《中华人民共和国反外国不当域外管辖条例》；央行2026年3月重要金融数据出炉，M2-M1剪刀差连续10个月保持在5个百分点以内；多家龙头公司辟谣：多晶硅控产挺价传闻不实](https://www.tmtpost.com/7951509.html)
+**发布时间**: 2026-04-14 07:20
+
+#### [晶盛机电转型阵痛：光伏业务“渡劫”，毛利率创十年新低 | 看财报](https://www.tmtpost.com/7951503.html)
+**发布时间**: 2026-04-13 22:15
+
+#### [小红书出海业务"Redshop"即将上线；海关总署新政：9610模式退货可在全国任一海关办理；有孚国际与孚腾资本80亿美元加码亚太AI产业｜一周出海参考](https://www.tmtpost.com/7951478.html)
+**发布时间**: 2026-04-13 22:00
+
+#### [业绩下修股价走弱，3倍“芯片牛”成都华微高估值叙事落空？](https://www.tmtpost.com/7951428.html)
+**发布时间**: 2026-04-13 20:35
+
+#### [精智达年报换“芯”：营收狂奔、利润掉队，30亿定增豪赌半导体测试｜看财报](https://www.tmtpost.com/7951395.html)
+**发布时间**: 2026-04-13 19:47
+
+#### [泡泡玛特做家电：全球最会赚钱的潮玩公司，为何扎进利润不到10%的苦生意？](https://www.tmtpost.com/7951340.html)
+**发布时间**: 2026-04-13 19:32
+
+#### [奥特曼“四面楚歌”](https://www.tmtpost.com/7951338.html)
+**发布时间**: 2026-04-13 19:32
+
+#### [让Token融入服务：阿里为何押注“智能体经济”](https://www.tmtpost.com/7951332.html)
+**发布时间**: 2026-04-13 19:31
+
+#### [常州国资超10亿纾困被套，雪浪环境傍上商业航天新贵保壳](https://www.tmtpost.com/7951350.html)
+**发布时间**: 2026-04-13 19:10
+
+#### [三千一盒的新药被抢购，“风团”年轻人买出一门好生意？](https://www.tmtpost.com/7951116.html)
+**发布时间**: 2026-04-13 19:01
+
+#### [600亿管线BD背后的真实账本：药企实际到手不足5%？](https://www.tmtpost.com/7951118.html)
+**发布时间**: 2026-04-13 19:01
+
+#### [字节击败Sora，高兴的可能是腾讯](https://www.tmtpost.com/7951136.html)
+**发布时间**: 2026-04-13 19:01
+
+#### [1270万应届毕业生，狂卷AI“金饭碗”](https://www.tmtpost.com/7951204.html)
+**发布时间**: 2026-04-13 19:01
+
+#### [安克创新首破300亿，23.49%营收增长难掩扣非净利增速下滑 ｜ 出海参考](https://www.tmtpost.com/7951217.html)
+**发布时间**: 2026-04-13 18:02
+
+#### [装完腾讯WorkBuddy，我提前过上了五一](https://www.tmtpost.com/7951140.html)
+**发布时间**: 2026-04-13 17:45
+
+#### [为什么现有的反无人机系统，连一架改装无人机都拦不住？｜AI Founder 请回答](https://www.tmtpost.com/7950938.html)
+**发布时间**: 2026-04-13 17:32
+
+#### [日本康复辅具租赁真相：市场规模20年翻4倍，利润率却不足6%](https://www.tmtpost.com/7951053.html)
+**发布时间**: 2026-04-13 17:17
+
+#### [蓝驰创投募资39亿元，重仓AI与硬科技早期项目](https://www.tmtpost.com/7951047.html)
+**发布时间**: 2026-04-13 17:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场](https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 18:48
+
+#### [“同事.skill”不用写了，爱马仕 Hermes 主动“蒸馏”你，还让开发者集体抛弃 “龙虾”？！](https://www.infoq.cn/article/Xv0OsbvHjLT34YzWKc3J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 18:43
+
+#### [Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”](https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 18:03
+
+#### [写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris](https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 17:42
+
+#### [不用则废：开发者直面 AI 编码工具的隐性代价](https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 16:59
+
+#### [从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了](https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 16:19
+
+#### [OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills](https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 15:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/108589)
+**发布时间**: 2026-04-13 17:52
+
+#### [城市漫步指南：在浓油赤酱中寻找江南底蕴](https://sspai.com/post/108558)
+**发布时间**: 2026-04-13 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [开源 10 天就飙到 4 万星，这个项目收集了 58 个知名网站样式。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532964&idx=1&sn=4f387278f226dd4b85b19760a01f642c)
+**发布时间**: 2026-04-13 13:08
 
 ---
 

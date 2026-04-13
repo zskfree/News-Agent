@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 07:15
+**最后更新时间**: 2026-04-13 23:46
+
+---
+
+## 🆕 最新更新 (2026-04-13 23:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [If you’ve ever been tempted to ‘sell in May and go away’ — now is the time](https://www.marketwatch.com/story/if-youve-ever-been-tempted-to-sell-in-may-and-go-away-now-is-the-time-7b8b3a04?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:44
+
+#### [Intel’s stock just had its best 9-day stretch on record. Can it go even higher?](https://www.marketwatch.com/story/intels-stock-just-had-its-best-9-day-stretch-on-record-can-it-go-even-higher-13893363?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 22:38
+
+#### [My friend’s girlfriend went ‘ballistic’ after learning he gives his kids $19,000 a year. Is this a red flag?](https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:44
+
+#### [The No. 1 pick in tonight’s WNBA draft will make $500,000 as a rookie — more than a 500% raise over last year’s pick](https://www.marketwatch.com/story/the-no-1-pick-in-tonights-wnba-draft-will-make-500-000-as-a-rookie-more-than-a-500-raise-over-last-years-pick-066b588c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:11
+
+#### [As the Iran conflict squeezes global energy supplies, U.S. oil is gaining an unusual edge](https://www.marketwatch.com/story/as-iran-conflict-squeezes-global-energy-supplies-american-oil-becomes-a-vital-safety-net-15ce3c82?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:04
+
+#### [I gave my friend’s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?](https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:42
+
+#### [Oracle’s stock stands out as the software sector bounces to its best day in a year](https://www.marketwatch.com/story/oracles-stock-stands-out-as-the-software-sector-bounces-to-its-best-day-in-a-year-4bc68d4b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:27
+
+#### [Stock traders’ ‘WTF indicator’ is going off. Why that is a bullish sign — at least for now.](https://www.marketwatch.com/story/stock-traders-wtf-indicator-is-going-off-why-that-is-a-bullish-sign-at-least-for-now-81be0137?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reeves tells Gulf expats: come to ‘safe harbour’ Britain](https://www.ft.com/content/35d396e7-5590-4c65-9989-0c136e937fd7)
+**发布时间**: 2026-04-13 21:30
+
+#### [Iran open to talks with US, president says](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08)
+**发布时间**: 2026-04-13 21:03
+
+#### [Oil supply crunch intensifies as last Hormuz tankers reach refineries](https://www.ft.com/content/bcd72d2a-79cc-48db-a149-076cbca22a24)
+**发布时间**: 2026-04-13 20:33
+
+#### [Trump nominates Pimco executive to lead US Treasury’s international affairs](https://www.ft.com/content/b42bbe36-7a5a-40ce-91b1-9a48b55f414e)
+**发布时间**: 2026-04-13 20:16
+
+#### [Starmer accused of ‘corrosive complacency’ on UK defence by former Nato chief](https://www.ft.com/content/88b1f17a-28d1-4706-b1ee-cbe6a1278496)
+**发布时间**: 2026-04-13 20:00
+
+#### [Bain & Co vulnerability exposed by hacker a month after McKinsey](https://www.ft.com/content/e73ddecf-8c41-4ecb-ada3-77a163c8d69f)
+**发布时间**: 2026-04-13 19:02
+
+#### [Trump deletes ‘Jesus’ post after backlash from allies](https://www.ft.com/content/d3ba0017-981e-4ef8-b0e9-fc3276d5161b)
+**发布时间**: 2026-04-13 18:20
+
+#### [Mediators pursue Iran-US deal in back-channel diplomacy](https://www.ft.com/content/be392d6d-3db3-4062-90ce-26f28fcf3f93)
+**发布时间**: 2026-04-13 18:05
+
+#### [The end of the Viktor Orbán era](https://www.ft.com/content/74129743-5c8e-4090-9c1e-39d169408d5b)
+**发布时间**: 2026-04-13 17:25
+
+#### [Former Lafarge chief sentenced to six years in jail for financing terrorism](https://www.ft.com/content/54b1480f-43b8-4ef7-9319-d0e133b77194)
+**发布时间**: 2026-04-13 17:25
+
+#### [Why time is on Iran’s side](https://www.ft.com/content/2f1cbc7d-eeab-40e4-b940-61bf8b1e7959)
+**发布时间**: 2026-04-13 10:57
 
 ---
 

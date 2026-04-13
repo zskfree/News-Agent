@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Apr 2026 07:14:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 07:15:49 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 23:43:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:46:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-13日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-13/</link>
-      <description>&lt;![CDATA[2026-04-13日刊]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-13/</guid>
+      <title>Towards developing future-ready skills with generative AI</title>
+      <link>https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/</link>
+      <description>&lt;![CDATA[Towards developing future-ready skills with generative AI]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude强到不敢发的Mythos，被质疑用了字节Seed技术</title>
-      <link>https://www.qbitai.com/2026/04/400500.html</link>
-      <description>&lt;![CDATA[Claude强到不敢发的Mythos，被质疑用了字节Seed技术]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 05:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400500.html</guid>
+      <title>今年最火的AI产品，不止龙虾｜榜单申报中</title>
+      <link>https://www.qbitai.com/2026/04/401011.html</link>
+      <description>&lt;![CDATA[今年最火的AI产品，不止龙虾｜榜单申报中]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401011.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>有人把巴菲特芒格炼化成Agent，然后开源了…</title>
-      <link>https://www.qbitai.com/2026/04/400350.html</link>
-      <description>&lt;![CDATA[有人把巴菲特芒格炼化成Agent，然后开源了…]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 05:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400350.html</guid>
+      <title>入职Meta的吴翼，清华叉院官网已撤其教职信息</title>
+      <link>https://www.qbitai.com/2026/04/401002.html</link>
+      <description>&lt;![CDATA[入职Meta的吴翼，清华叉院官网已撤其教职信息]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401002.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商</title>
+      <link>https://www.qbitai.com/2026/04/400567.html</link>
+      <description>&lt;![CDATA[智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400567.html</guid>
       <category>Ai</category>
     </item>
   </channel>

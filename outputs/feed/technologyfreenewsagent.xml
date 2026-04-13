@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Apr 2026 07:15:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 07:16:53 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 23:46:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:46:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码</title>
-      <link>https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场</title>
+      <link>https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出AppFunctions连接AI智能体和Android应用</title>
-      <link>https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出AppFunctions连接AI智能体和Android应用]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节击败Sora，高兴的可能是腾讯</title>
+      <link>https://www.tmtpost.com/7951136.html</link>
+      <description>&lt;![CDATA[字节击败Sora，高兴的可能是腾讯]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951136.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描</title>
-      <link>https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>让Token融入服务：阿里为何押注“智能体经济”</title>
+      <link>https://www.tmtpost.com/7951332.html</link>
+      <description>&lt;![CDATA[让Token融入服务：阿里为何押注“智能体经济”]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951332.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报</title>
-      <link>https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了</title>
+      <link>https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>FOSDEM 2026：WebTransport简介，下一个 WebSocket？！</title>
-      <link>https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[FOSDEM 2026：WebTransport简介，下一个 WebSocket？！]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智驾芯片，更卷了</title>
+      <link>https://www.tmtpost.com/7950683.html</link>
+      <description>&lt;![CDATA[智驾芯片，更卷了]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7950683.html</guid>
       <category>Technology</category>
     </item>
   </channel>
