@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f7067252ac00a9185e45609e3460486a5899ff61d31e56745da479c0c340b0d6": {
-        "title": "Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷",
-        "link": "https://www.tmtpost.com/7914495.html",
-        "published_date": "Sun, 15 Mar 2026 08:43:00 GMT",
-        "first_seen": "2026-03-15T08:39:54.572137"
-      },
-      "f487f346c2c66cdd69d719a40ed54eec8d2769a8cf87e801c12678302a52f2e5": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:39:54.572150"
-      },
-      "6be7f33c62a3eab8557a07b7d06f2f194d6b566d141adf06f7208c1d11eaa3c3": {
-        "title": "营收破千亿，净利却缩水85%，理想汽车进入“最危险的一年”",
-        "link": "https://www.tmtpost.com/7912445.html",
-        "published_date": "Sun, 15 Mar 2026 10:34:00 GMT",
-        "first_seen": "2026-03-15T08:39:54.572152"
-      },
-      "4097611ececfaf514e7fb8e574c79d566e4937476be7d2d2c6938d0fc8b55ffd": {
-        "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
-        "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-15T08:39:54.572154"
-      },
-      "ddf66d3e5b06e3b951fab8080604b791650ca7f8971c698d965ab702d4ce61a5": {
-        "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗",
-        "link": "http://www.huxiu.com/article/4842120.html?f=wangzhan",
-        "published_date": "Sun, 15 Mar 2026 10:30:00 GMT",
-        "first_seen": "2026-03-15T08:39:54.572156"
-      },
       "39d84de04a28488914f54d1d36d503889177d6b0da472bb7e2c32373796d58a1": {
         "title": "AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？",
         "link": "https://www.tmtpost.com/7914747.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7951482.html",
         "published_date": "Tue, 14 Apr 2026 13:27:00 GMT",
         "first_seen": "2026-04-14T06:55:30.665828"
+      },
+      "6977488442795a332192e9599192315f4e19681b8710d2a40543fdf266795307": {
+        "title": "长视频的AI竞赛：技术是门票，人才是底牌",
+        "link": "https://www.tmtpost.com/7952318.html",
+        "published_date": "Tue, 14 Apr 2026 12:25:00 GMT",
+        "first_seen": "2026-04-14T09:22:37.103771"
+      },
+      "2e92b40a82b18f70c55f0cffb78fa233c245041b8112e670308d8715d71b718b": {
+        "title": "派早报：稳定版 Linux 7.0 内核发布等",
+        "link": "https://sspai.com/post/108614",
+        "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
+        "first_seen": "2026-04-14T09:22:37.103779"
+      },
+      "fe0a1e490821ee6dae884c0ba9fc0fee0b0974039621f4f4c3831310cee40a28": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:22:37.103781"
+      },
+      "9aab58f639b8b703c3102b29d5b1e9c710765112c8e3ec9f8c45f28dd171a5a1": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:22:37.103783"
+      },
+      "c79f818f576fbfcb2bdf03fe082fda0bfaef2658828d13e8ecf8668ba2b6a7d8": {
+        "title": "帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532965&idx=1&sn=20af71b5883c8ce5d6714179cd8871f4",
+        "published_date": "Tue, 14 Apr 2026 12:37:00 GMT",
+        "first_seen": "2026-04-14T09:22:37.103784"
       }
     },
     "Finance": {
@@ -4797,6 +4797,30 @@
         "link": "https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f",
         "published_date": "Tue, 14 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-14T06:55:03.444484"
+      },
+      "3a55864656b93244b109721866e755da2ba09b5a003d6906d86ec7e32995320f": {
+        "title": "March saw the largest increase in global energy inflation in 25 years",
+        "link": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-14T09:22:22.828264"
+      },
+      "9398ecc54180294f9a7d8d16d2c3a8dcb999ab6343ce30bd13b301738b302142": {
+        "title": "Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’",
+        "link": "https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-14T09:22:22.828275"
+      },
+      "ff4174cfc362078d1a178222147e2c83f39a1ad4ffbd6fe93e27d90f6a1a599b": {
+        "title": "Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney",
+        "link": "https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-14T09:22:22.828278"
+      },
+      "abf004f240b855cec581711db50a7e4b54fd4c6b80fd75abc978d576664b6836": {
+        "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.",
+        "link": "https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 08:39:00 GMT",
+        "first_seen": "2026-04-14T09:22:22.828280"
       }
     },
     "Ai": {
@@ -6244,8 +6268,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-14T06:55:30.665830",
-    "Finance": "2026-04-14T06:55:03.444486",
+    "Technology": "2026-04-14T09:22:37.103788",
+    "Finance": "2026-04-14T09:22:22.828282",
     "Ai": "2026-04-14T06:55:03.593768"
   }
 }

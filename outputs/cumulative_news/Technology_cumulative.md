@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 06:54
+**最后更新时间**: 2026-04-14 09:22
+
+---
+
+## 🆕 最新更新 (2026-04-14 09:22)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」](https://sspai.com/post/108005)
+**发布时间**: 2026-04-14 15:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践](https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 14:58
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532965&idx=1&sn=20af71b5883c8ce5d6714179cd8871f4)
+**发布时间**: 2026-04-14 12:37
 
 ---
 

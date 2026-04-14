@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 06:54
+**最后更新时间**: 2026-04-14 09:22
+
+---
+
+## 🆕 最新更新 (2026-04-14 09:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [March saw the largest increase in global energy inflation in 25 years](https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:04
+
+#### [Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’](https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:03
+
+#### [Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney](https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:01
+
+#### [United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.](https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 08:39
 
 ---
 
