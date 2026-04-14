@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 09:22
+**最后更新时间**: 2026-04-14 23:45
+
+---
+
+## 🆕 最新更新 (2026-04-14 23:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BlackRock profits jump as it draws in $130bn](https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4)
+**发布时间**: 2026-04-14 22:52
+
+#### [OpenAI releases new cyber security model to limited group of customers](https://www.ft.com/content/cf3d62e0-1b6c-4e69-b5f7-facaca586dbf)
+**发布时间**: 2026-04-14 22:30
+
+#### [Strait of Hormuz tankers stop or turn around amid US blockade](https://www.ft.com/content/c61897ff-3ed2-4c19-ad31-41440f802f9f)
+**发布时间**: 2026-04-14 18:34
+
+#### [Fed chair nominee Kevin Warsh reveals assets worth more than $130mn](https://www.ft.com/content/c7d72f31-ef52-4817-9b2b-1e794b0bb975)
+**发布时间**: 2026-04-14 17:42
+
+#### [US stocks close higher after Trump floats new US-Iran talks within days](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1)
+**发布时间**: 2026-04-14 17:27
+
+#### [How the US can blockade the Strait of Hormuz](https://www.ft.com/content/5cacda11-883b-42c6-93df-20dd56e12e0b)
+**发布时间**: 2026-04-14 17:17
+
+#### [UK chancellor Rachel Reeves hits out at Iran war ‘folly’](https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1)
+**发布时间**: 2026-04-14 17:13
+
+#### [Wall Street banks break records as Iran war drives trading boom](https://www.ft.com/content/0b8fe58f-e392-4aa4-b3cd-c75f566d495e)
+**发布时间**: 2026-04-14 16:56
+
+#### [Trump says Meloni lacks courage](https://www.ft.com/content/284f10e1-f5d5-4378-b771-cc4002edee59)
+**发布时间**: 2026-04-14 15:54
+
+#### [Latham partners pocket record $8.7mn average pay](https://www.ft.com/content/a2d01f84-dc24-4595-9be4-800e78809ff5)
+**发布时间**: 2026-04-14 14:30
+
+#### [PwC plans overhaul of global consulting business](https://www.ft.com/content/fa2f8f28-7e6d-4813-88f8-0b2224c4dde6)
+**发布时间**: 2026-04-14 11:00
+
+#### [The ever-shrinking JD Vance](https://www.ft.com/content/63546c41-806f-45fe-a5e0-95a6a746a8ae)
+**发布时间**: 2026-04-14 10:19
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [History says there’s a good chance we haven’t seen the stock-market lows yet](https://www.marketwatch.com/story/history-says-theres-a-good-chance-we-havent-seen-the-stock-market-lows-yet-66d015fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 22:41
+
+#### [Why one analyst believes Microsoft’s stock may be bottoming out](https://www.marketwatch.com/story/why-one-analyst-believes-microsofts-stock-may-be-bottoming-out-560a3478?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 22:05
+
+#### [Nvidia’s stock is on a 10-day winning streak. Here’s why investors are getting back on board with AI.](https://www.marketwatch.com/story/nvidias-stock-is-on-a-10-day-winning-streak-heres-why-investors-are-getting-back-on-board-with-ai-bf0bb59e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 21:55
+
+#### [As S&P 500 approaches record highs, this is what could derail the stock-market rebound](https://www.marketwatch.com/story/as-s-p-500-approaches-record-highs-this-is-what-could-derail-the-stock-market-rebound-7456ebf8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 21:18
+
+#### [Why bitcoin’s next stop could be $98,000 after surmounting this key hurdle, technical analyst says](https://www.marketwatch.com/story/why-bitcoins-next-stop-could-be-98-000-after-surmounting-this-key-hurdle-technical-analyst-says-6e2eb6fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:54
+
+#### [Amazon’s stock is on its best run since 2022 as Globalstar acquisition fuels rally](https://www.marketwatch.com/story/amazons-stock-is-on-its-best-run-since-2022-as-globalstar-acquisition-fuels-rally-5d5f22b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:42
+
+#### [The International Energy Agency is really worried about the global oil market](https://www.marketwatch.com/story/the-international-energy-agency-is-really-worried-about-the-global-oil-market-169a9930?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:35
+
+#### [Novo Nordisk’s stock rallied after drugmaker reveals deal with OpenAI](https://www.marketwatch.com/story/novo-nordisks-stock-rallies-after-drugmaker-reveals-deal-with-openai-af1005e6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:16
+
+#### [Albertsons cites slower GLP-1 growth, higher gas prices for a sales miss and downbeat outlook](https://www.marketwatch.com/story/albertsons-cites-slower-glp-1-growth-higher-gas-prices-for-a-sales-miss-and-downbeat-outlook-4e59ea12?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 19:49
 
 ---
 

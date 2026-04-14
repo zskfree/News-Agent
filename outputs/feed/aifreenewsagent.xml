@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Apr 2026 06:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 06:55:03 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 23:43:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:45:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-14日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-14/</link>
-      <description>&lt;![CDATA[2026-04-14日刊]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-14/</guid>
+      <title>荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相</title>
+      <link>https://www.qbitai.com/2026/04/401202.html</link>
+      <description>&lt;![CDATA[荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401202.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>斯坦福年度结论：中美大模型已没差距</title>
-      <link>https://www.qbitai.com/2026/04/401094.html</link>
-      <description>&lt;![CDATA[斯坦福年度结论：中美大模型已没差距]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 05:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401094.html</guid>
+      <title>教育部等五部门关于印发《“人工智能+教育”行动计划》的通知</title>
+      <link>https://www.qbitai.com/2026/04/401190.html</link>
+      <description>&lt;![CDATA[教育部等五部门关于印发《“人工智能+教育”行动计划》的通知]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401190.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草</title>
-      <link>https://www.qbitai.com/2026/04/401065.html</link>
-      <description>&lt;![CDATA[李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401065.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不只是卖服务器，中兴通讯想做AI时代的基础设施商</title>
-      <link>https://www.qbitai.com/2026/04/401047.html</link>
-      <description>&lt;![CDATA[不只是卖服务器，中兴通讯想做AI时代的基础设施商]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 04:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401047.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI开始直接交付Excel，千问用Agent重构做表流程</title>
-      <link>https://www.qbitai.com/2026/04/401041.html</link>
-      <description>&lt;![CDATA[AI开始直接交付Excel，千问用Agent重构做表流程]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 02:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401041.html</guid>
+      <title>什么Excel这函数那公式，我千问永远一步搞定</title>
+      <link>https://www.qbitai.com/2026/04/401127.html</link>
+      <description>&lt;![CDATA[什么Excel这函数那公式，我千问永远一步搞定]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401127.html</guid>
       <category>Ai</category>
     </item>
   </channel>

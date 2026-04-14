@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Apr 2026 09:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 09:22:37 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 23:45:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:46:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>长视频的AI竞赛：技术是门票，人才是底牌</title>
-      <link>https://www.tmtpost.com/7952318.html</link>
-      <description>&lt;![CDATA[长视频的AI竞赛：技术是门票，人才是底牌]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 12:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7952318.html</guid>
+      <title>2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了</title>
+      <link>https://www.tmtpost.com/7952122.html</link>
+      <description>&lt;![CDATA[2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 11:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952122.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：稳定版 Linux 7.0 内核发布等</title>
-      <link>https://sspai.com/post/108614</link>
-      <description>&lt;![CDATA[派早报：稳定版 Linux 7.0 内核发布等]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108614</guid>
+      <title>千亿诉讼，马斯克能否阻断OpenAI商业化？</title>
+      <link>https://www.tmtpost.com/7952620.html</link>
+      <description>&lt;![CDATA[千亿诉讼，马斯克能否阻断OpenAI商业化？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952620.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」</title>
-      <link>https://sspai.com/post/108005</link>
-      <description>&lt;![CDATA[想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108005</guid>
+      <title>疯狂囤光刻机，DRAM双雄在怕什么？</title>
+      <link>https://www.tmtpost.com/7952962.html</link>
+      <description>&lt;![CDATA[疯狂囤光刻机，DRAM双雄在怕什么？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952962.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践</title>
-      <link>https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4</title>
+      <link>https://www.tmtpost.com/7952170.html</link>
+      <description>&lt;![CDATA[L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952170.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4</link>
-      <description>&lt;![CDATA[帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4</guid>
+      <title>MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识</title>
+      <link>https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
