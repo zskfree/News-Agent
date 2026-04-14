@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Apr 2026 23:43:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 23:46:27 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 06:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:55:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Towards developing future-ready skills with generative AI</title>
-      <link>https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/</link>
-      <description>&lt;![CDATA[Towards developing future-ready skills with generative AI]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/</guid>
+      <title>2026-04-14日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-14/</link>
+      <description>&lt;![CDATA[2026-04-14日刊]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-14/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>今年最火的AI产品，不止龙虾｜榜单申报中</title>
-      <link>https://www.qbitai.com/2026/04/401011.html</link>
-      <description>&lt;![CDATA[今年最火的AI产品，不止龙虾｜榜单申报中]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401011.html</guid>
+      <title>斯坦福年度结论：中美大模型已没差距</title>
+      <link>https://www.qbitai.com/2026/04/401094.html</link>
+      <description>&lt;![CDATA[斯坦福年度结论：中美大模型已没差距]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 05:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401094.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>入职Meta的吴翼，清华叉院官网已撤其教职信息</title>
-      <link>https://www.qbitai.com/2026/04/401002.html</link>
-      <description>&lt;![CDATA[入职Meta的吴翼，清华叉院官网已撤其教职信息]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401002.html</guid>
+      <title>李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草</title>
+      <link>https://www.qbitai.com/2026/04/401065.html</link>
+      <description>&lt;![CDATA[李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401065.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商</title>
-      <link>https://www.qbitai.com/2026/04/400567.html</link>
-      <description>&lt;![CDATA[智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/400567.html</guid>
+      <title>不只是卖服务器，中兴通讯想做AI时代的基础设施商</title>
+      <link>https://www.qbitai.com/2026/04/401047.html</link>
+      <description>&lt;![CDATA[不只是卖服务器，中兴通讯想做AI时代的基础设施商]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 04:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401047.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI开始直接交付Excel，千问用Agent重构做表流程</title>
+      <link>https://www.qbitai.com/2026/04/401041.html</link>
+      <description>&lt;![CDATA[AI开始直接交付Excel，千问用Agent重构做表流程]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 02:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401041.html</guid>
       <category>Ai</category>
     </item>
   </channel>

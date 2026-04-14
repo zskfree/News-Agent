@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Apr 2026 23:46:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 23:46:53 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 06:54:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:55:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场</title>
-      <link>https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>瑞士信息与通信科技公司DemoSquare研发公共事务监测与分析软件，提升公共事务处理效率</title>
+      <link>https://www.tmtpost.com/7952148.html</link>
+      <description>&lt;![CDATA[瑞士信息与通信科技公司DemoSquare研发公共事务监测与分析软件，提升公共事务处理效率]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952148.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节击败Sora，高兴的可能是腾讯</title>
-      <link>https://www.tmtpost.com/7951136.html</link>
-      <description>&lt;![CDATA[字节击败Sora，高兴的可能是腾讯]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7951136.html</guid>
+      <title>Module Federation 2.0 正式发布稳定版，逐步摆脱对 Webpack 的依赖</title>
+      <link>https://www.infoq.cn/article/8mt2pi2EFrjB5xytzStF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Module Federation 2.0 正式发布稳定版，逐步摆脱对 Webpack 的依赖]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8mt2pi2EFrjB5xytzStF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让Token融入服务：阿里为何押注“智能体经济”</title>
-      <link>https://www.tmtpost.com/7951332.html</link>
-      <description>&lt;![CDATA[让Token融入服务：阿里为何押注“智能体经济”]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 19:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7951332.html</guid>
+      <title>Serverless 智能弹性与 AI 驱动的云原生数据库平台 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Serverless 智能弹性与 AI 驱动的云原生数据库平台 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了</title>
-      <link>https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>实测腾讯云 AndonQ：号称比肩原厂技术专家的  “领域虾”，到底有多能打？</title>
+      <link>https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[实测腾讯云 AndonQ：号称比肩原厂技术专家的  “领域虾”，到底有多能打？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾芯片，更卷了</title>
-      <link>https://www.tmtpost.com/7950683.html</link>
-      <description>&lt;![CDATA[智驾芯片，更卷了]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950683.html</guid>
+      <title>大疆二十年：从产品神话到组织命题</title>
+      <link>https://www.tmtpost.com/7951482.html</link>
+      <description>&lt;![CDATA[大疆二十年：从产品神话到组织命题]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951482.html</guid>
       <category>Technology</category>
     </item>
   </channel>

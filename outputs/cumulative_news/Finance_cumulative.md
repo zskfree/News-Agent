@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 23:46
+**最后更新时间**: 2026-04-14 06:54
+
+---
+
+## 🆕 最新更新 (2026-04-14 06:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP hails ‘exceptional’ quarter for oil traders as Iran war stokes volatility](https://www.ft.com/content/936125bc-4b95-4daf-9c1d-a1f690984e9a)
+**发布时间**: 2026-04-14 06:35
+
+#### [China’s Xi warns Iran conflict leaves world ‘beset by disarray’](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1)
+**发布时间**: 2026-04-14 04:31
+
+#### [China shock 2.0: the flood of high-tech goods that will change the world](https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a)
+**发布时间**: 2026-04-14 04:00
+
+#### [Why ‘glue work’ can finally shine in the age of AI](https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab)
+**发布时间**: 2026-04-14 04:00
+
+#### [JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions](https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc)
+**发布时间**: 2026-04-14 04:00
+
+#### [OpenAI investors question $852bn valuation as strategy shifts](https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982)
+**发布时间**: 2026-04-14 04:00
+
+#### [Geopolitical upheaval spurs family offices to open global branches](https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f)
+**发布时间**: 2026-04-14 04:00
+
+#### [Young trader who made $250mn on Russian crude sets sights on Guyana](https://www.ft.com/content/c58370ba-0d31-4320-ad33-7c2236bd23c8)
+**发布时间**: 2026-04-14 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Streaming viewers are OK with double the commercials as ‘subscription fatigue’ sets in](https://www.marketwatch.com/story/streaming-viewers-are-ok-with-double-the-commercials-as-subscription-fatigue-sets-in-5fa4d005?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 05:20
+
+#### [Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic](https://www.marketwatch.com/story/goldman-sachs-has-the-top-rank-among-the-s-p-500-by-this-remarkable-statistic-cedc206c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 02:23
+
+#### [This is the defense sector’s fastest grower — and a $20 billion trade most investors are missing](https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 01:34
+
+#### [WNBA No. 1 draft pick Azzi Fudd will make $500,000 as a rookie — more than a 500% raise over last year’s pick](https://www.marketwatch.com/story/the-no-1-pick-in-tonights-wnba-draft-will-make-500-000-as-a-rookie-more-than-a-500-raise-over-last-years-pick-066b588c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 00:09
+
+#### [Private credit not only won’t spark a financial crisis — it may be more stable than your bank](https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:54
 
 ---
 

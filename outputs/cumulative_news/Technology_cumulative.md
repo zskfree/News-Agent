@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 23:46
+**最后更新时间**: 2026-04-14 06:54
+
+---
+
+## 🆕 最新更新 (2026-04-14 06:54)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 14:42
+
+#### [CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全](https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 13:00
+
+#### [Java近期资讯：TornadoVM 4.0、Google ADK for Java 1.0、Grails、Tomcat、Log4j和Gradle](https://www.infoq.cn/article/AXhuGjl3AjN3fAyctSLV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 12:19
+
+#### [一种可以减少 CI 回归测试套件规模的更佳方案](https://www.infoq.cn/article/yHZdVghYi7RDjg2VBdLW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 12:00
+
+#### [TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 11:15
+
+#### [Module Federation 2.0 正式发布稳定版，逐步摆脱对 Webpack 的依赖](https://www.infoq.cn/article/8mt2pi2EFrjB5xytzStF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 11:00
+
+#### [Serverless 智能弹性与 AI 驱动的云原生数据库平台 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 10:22
+
+#### [构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京](https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 10:00
+
+#### [开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应](https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 10:00
+
+#### [实测腾讯云 AndonQ：号称比肩原厂技术专家的  “领域虾”，到底有多能打？](https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-14 09:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [卸任米哈游董事长后，蔡浩宇在新加坡造“活人”](https://www.tmtpost.com/7952418.html)
+**发布时间**: 2026-04-14 13:37
+
+#### [留给复星的空间不多了](https://www.tmtpost.com/7952409.html)
+**发布时间**: 2026-04-14 13:37
+
+#### [大疆二十年：从产品神话到组织命题](https://www.tmtpost.com/7951482.html)
+**发布时间**: 2026-04-14 13:27
+
+#### [大模型吞噬Word](https://www.tmtpost.com/7952338.html)
+**发布时间**: 2026-04-14 13:27
+
+#### [重整完成基本面焕新，算电协同重估增长空间](https://www.tmtpost.com/7952219.html)
+**发布时间**: 2026-04-14 12:33
+
+#### [飞鹤伊利围剿，业绩下滑、库存高企的宜品二次冲刺IPO还有戏吗？](https://www.tmtpost.com/7952118.html)
+**发布时间**: 2026-04-14 12:26
+
+#### [融资100亿美元，SK海力士赴美上市，股价一年涨了3.6倍](https://www.tmtpost.com/7952015.html)
+**发布时间**: 2026-04-14 12:26
+
+#### [鲜芋仙“嫁入”DQ豪门，认命还是搏新生？](https://www.tmtpost.com/7952247.html)
+**发布时间**: 2026-04-14 12:25
+
+#### [长视频的AI竞赛：技术是门票，人才是底牌](https://www.tmtpost.com/7952318.html)
+**发布时间**: 2026-04-14 12:25
+
+#### [马斯克的“西方微信” XChat，能打败 WhatsApp 吗？](https://www.tmtpost.com/7952055.html)
+**发布时间**: 2026-04-14 12:25
+
+#### [龚俊同款西装刷屏，这个牌子去年卖了40多亿](https://www.tmtpost.com/7952060.html)
+**发布时间**: 2026-04-14 12:22
+
+#### [王兴兴，搭上阿里的“出海船”](https://www.tmtpost.com/7952189.html)
+**发布时间**: 2026-04-14 12:22
+
+#### [餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](https://www.tmtpost.com/7952116.html)
+**发布时间**: 2026-04-14 12:11
+
+#### [100亿，对赌杀死一只独角兽](https://www.tmtpost.com/7952179.html)
+**发布时间**: 2026-04-14 12:00
+
+#### [一季度签约近1.45万间客房，高端酒店开始抢地盘](https://www.tmtpost.com/7952117.html)
+**发布时间**: 2026-04-14 12:00
+
+#### [宁波神秘老板买下三家“富力系”酒店](https://www.tmtpost.com/7952147.html)
+**发布时间**: 2026-04-14 12:00
+
+#### [瑞士信息与通信科技公司DemoSquare研发公共事务监测与分析软件，提升公共事务处理效率](https://www.tmtpost.com/7952148.html)
+**发布时间**: 2026-04-14 11:59
+
+#### [L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4](https://www.tmtpost.com/7952170.html)
+**发布时间**: 2026-04-14 11:59
+
+#### [2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了](https://www.tmtpost.com/7952122.html)
+**发布时间**: 2026-04-14 11:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [首销优惠即将截止！少数派麦金獭无感膜 10 大常见问题解答](https://sspai.com/post/108594)
+**发布时间**: 2026-04-14 11:00
+
+#### [派早报：稳定版 Linux 7.0 内核发布等](https://sspai.com/post/108614)
+**发布时间**: 2026-04-14 08:35
 
 ---
 
