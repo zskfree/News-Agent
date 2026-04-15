@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Apr 2026 06:57:00 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2026 06:57:56 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 09:23:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:24:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 电荒突围：谁能替代重燃？</title>
-      <link>https://www.tmtpost.com/7953802.html</link>
-      <description>&lt;![CDATA[AI 电荒突围：谁能替代重燃？]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953802.html</guid>
+      <title>智元联合北大、智源实现人形机器人自主打乒乓</title>
+      <link>https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智元联合北大、智源实现人形机器人自主打乒乓]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软自研图像模型再降价 41%，当纳德拉开始用“毛利率”定义AI模型</title>
-      <link>https://www.tmtpost.com/7953814.html</link>
-      <description>&lt;![CDATA[微软自研图像模型再降价 41%，当纳德拉开始用“毛利率”定义AI模型]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953814.html</guid>
+      <title>Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess</title>
+      <link>https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里字节“围猎”智谱、MiniMax：Token到底该由谁来定价？</title>
-      <link>https://www.tmtpost.com/7953217.html</link>
-      <description>&lt;![CDATA[阿里字节“围猎”智谱、MiniMax：Token到底该由谁来定价？]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953217.html</guid>
+      <title>深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密</title>
+      <link>https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话周炜：中美具身之战的胜负手，在场景生态与钱包深度</title>
-      <link>https://www.tmtpost.com/7953918.html</link>
-      <description>&lt;![CDATA[独家对话周炜：中美具身之战的胜负手，在场景生态与钱包深度]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953918.html</guid>
+      <title>网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”</title>
+      <link>https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 下一战，决胜“记忆”之巅——AICon 深度专题前瞻</title>
-      <link>https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 下一战，决胜“记忆”之巅——AICon 深度专题前瞻]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>赛博脑白金，能治好AI的失忆症吗？</title>
+      <link>https://www.tmtpost.com/7953913.html</link>
+      <description>&lt;![CDATA[赛博脑白金，能治好AI的失忆症吗？]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7953913.html</guid>
       <category>Technology</category>
     </item>
   </channel>

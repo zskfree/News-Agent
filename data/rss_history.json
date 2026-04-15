@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fbbc225825d27ab2da968188046014e51eeddaac5e91b4d3738cbc2384eea843": {
-        "title": "“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮",
-        "link": "https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:37:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.587275"
-      },
-      "5ccca67907e2228793a5fa0cc3bfbc86a15180e6bf9f8270156026996f3f66c7": {
-        "title": "OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”",
-        "link": "https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:34:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.587283"
-      },
-      "77a744730380a5f0bb605d451971c7109aa6a749b94da12c0c0cb261d8d68626": {
-        "title": "《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》",
-        "link": "https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 13:23:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.587286"
-      },
-      "13e8d8d4e950cf6a15d5a133c9d7e5cc16f4d284f91079b3f2b2054fbdb70b82": {
-        "title": "央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊",
-        "link": "https://www.tmtpost.com/7915179.html",
-        "published_date": "Mon, 16 Mar 2026 12:40:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.587288"
-      },
-      "666c4c17b46369729da6aa523825e78d341de4b7052778adf082500e1e7e0e10": {
-        "title": "从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间",
-        "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.587290"
-      },
       "1f4f4eb3734633d6149b32013316f0514747be8581d22d4fc085d5c7673f795d": {
         "title": "【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元",
         "link": "https://www.tmtpost.com/7916294.html",
@@ -2671,21 +2641,39 @@
         "link": "https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 15 Apr 2026 11:11:00 GMT",
         "first_seen": "2026-04-15T06:57:56.217072"
+      },
+      "46a40d6101e0a1449681062460e08c41b08e4ee5560a8319cddd127f2d3a36d6": {
+        "title": "智元联合北大、智源实现人形机器人自主打乒乓",
+        "link": "https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 15:44:00 GMT",
+        "first_seen": "2026-04-15T09:24:27.798184"
+      },
+      "f182e25385c1f70af51470d0a02d28eb998c9e6622ce19a3f0ab579fd8744906": {
+        "title": "Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess",
+        "link": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-15T09:24:27.798191"
+      },
+      "aae0f6784d99ae4c92aa75af68e0fe8961c8345c64d08e639ee35e66345f7aeb": {
+        "title": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "link": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 16:27:00 GMT",
+        "first_seen": "2026-04-15T09:24:27.798193"
+      },
+      "409edef65af01cc6679bad19a8edbca663394b2a6ce02198811fd2a2da74b6e4": {
+        "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
+        "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-15T09:24:27.798195"
+      },
+      "c29ea5d563caae116f3bac2678ed4da45246ebaa8f62808985507e622bdb6f4c": {
+        "title": "赛博脑白金，能治好AI的失忆症吗？",
+        "link": "https://www.tmtpost.com/7953913.html",
+        "published_date": "Wed, 15 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-15T09:24:27.798196"
       }
     },
     "Finance": {
-      "3eaa5b4ebfa6ffc6874d4107e7482a9a5bf46e36c5a17d86c8927bdb5d5ab720": {
-        "title": "Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO",
-        "link": "https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 08:57:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.620913"
-      },
-      "b56cead84496e3cb8b932bd6dfb983500aa4d9ccd561500c30d4a9349916d0b6": {
-        "title": "UniCredit launches €35bn Commerzbank takeover offer",
-        "link": "https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525",
-        "published_date": "Mon, 16 Mar 2026 07:53:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.620919"
-      },
       "66f9771a4fffcdf0522b3d67e9dc9f56843209271008b718a893c5d720eaddf6": {
         "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
         "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
@@ -4821,33 +4809,39 @@
         "link": "https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55",
         "published_date": "Wed, 15 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-15T06:57:41.485917"
+      },
+      "973fdbdecb61be4e128006c3f38c1ce0c110f99586bf0a9a0da3e5f579a543a7": {
+        "title": "Struggling to keep pace with demand, ASML raises outlook after barnstorming first quarter",
+        "link": "https://www.marketwatch.com/story/struggling-to-keep-pace-with-demand-asml-raises-outlook-after-barnstorming-first-quarter-f6d2f403?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 09:19:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.803093"
+      },
+      "d23a84f9e0d8f1b08a3bfe8b52aa3277b54e03db3101fbd1a9a5bb2bb6f8d53d": {
+        "title": "Oil futures hold to tight range as hopes of peace deal between U.S. and Iran grow",
+        "link": "https://www.marketwatch.com/story/oil-futures-hold-to-tight-range-as-hopes-of-peace-deal-between-u-s-and-iran-grow-2d8733b4?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 09:14:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.803102"
+      },
+      "f6d7f015413bc40a4570686d246a4a6761ca5e9838701bf445f85da67e6b2d4c": {
+        "title": "Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised.",
+        "link": "https://www.marketwatch.com/story/hermes-and-gucci-sales-fall-short-on-middle-east-turmoil-investors-were-surprised-12ac51fc?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 08:51:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.803105"
+      },
+      "0be394b00a4c10b12dd8f7af78a8b33573802b12160634bd144d16054344d61f": {
+        "title": "How film producer and Arizona developer Anita Verma-Lallian built a $1.5 billion real estate portfolio",
+        "link": "https://www.marketwatch.com/story/how-film-producer-and-arizona-developer-anita-verma-lallian-built-a-1-5-billion-real-estate-portfolio-0da42d29?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.803107"
+      },
+      "d8bbdbf42f5686dbd13f69104ec964e4f6cbfd259677cf651616418aff88125e": {
+        "title": "European airports warn new border system causes up to three-hour delays",
+        "link": "https://www.ft.com/content/ffb02bd6-fd48-4abc-b568-8353c495cd1e",
+        "published_date": "Wed, 15 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.803109"
       }
     },
     "Ai": {
-      "a293ffa26fcfddd91470d9326bf8d238f783bec4b297ddf75f65de8118371e54": {
-        "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-        "link": "https://www.qbitai.com/2026/03/388352.html",
-        "published_date": "Mon, 16 Mar 2026 07:39:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.764507"
-      },
-      "f9e2c82cb164b7172103f8edb335c35766e3146dbcb799ceae24e88fb1ed5e6c": {
-        "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
-        "link": "https://www.qbitai.com/2026/03/388071.html",
-        "published_date": "Mon, 16 Mar 2026 07:13:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.764514"
-      },
-      "a6a4d8840531d423ef4f474ac292b744b646327d5f6ccf7c4119a6c18e3b6ff1": {
-        "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
-        "link": "https://www.qbitai.com/2026/03/388054.html",
-        "published_date": "Mon, 16 Mar 2026 07:12:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.764516"
-      },
-      "9241ad1f13bcf007b8faa8a9f4ddd2643cf7d672a56ffc9dfb956de9c12d4a8b": {
-        "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
-        "link": "https://www.qbitai.com/2026/03/387990.html",
-        "published_date": "Mon, 16 Mar 2026 06:50:00 GMT",
-        "first_seen": "2026-03-16T09:00:10.764518"
-      },
       "a7ac004cfc42e3425960f19b5e765b4a133c64ccf2060258034cb977387d5f17": {
         "title": "Testing LLMs on superconductivity research questions",
         "link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
@@ -6305,13 +6299,31 @@
         "link": "https://www.qbitai.com/2026/04/401333.html",
         "published_date": "Wed, 15 Apr 2026 03:22:00 GMT",
         "first_seen": "2026-04-15T06:57:41.636894"
+      },
+      "fb4d2e8150cc422e272ed351b4ab62ea95683275ad54123f252200765176a228": {
+        "title": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
+        "link": "https://www.qbitai.com/2026/04/401507.html",
+        "published_date": "Wed, 15 Apr 2026 08:56:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.956224"
+      },
+      "6f1b12d368be149def3627fd27c465e595e485eafeee228fa5dcf811389b4d62": {
+        "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "link": "https://www.qbitai.com/2026/04/401484.html",
+        "published_date": "Wed, 15 Apr 2026 07:59:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.956233"
+      },
+      "7622b33008ebec218993bae4f1f4e310d0e68d82e8765397cdba4d1a2d097b69": {
+        "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "link": "https://www.qbitai.com/2026/04/401479.html",
+        "published_date": "Wed, 15 Apr 2026 07:42:00 GMT",
+        "first_seen": "2026-04-15T09:24:03.956235"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-15T06:57:56.217074",
-    "Finance": "2026-04-15T06:57:41.485919",
-    "Ai": "2026-04-15T06:57:41.636896"
+    "Technology": "2026-04-15T09:24:27.798198",
+    "Finance": "2026-04-15T09:24:03.803111",
+    "Ai": "2026-04-15T09:24:03.956237"
   }
 }
