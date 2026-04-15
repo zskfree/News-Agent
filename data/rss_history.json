@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4c824e49d1f454d2d286a0a13c4aa6707bb2b1c2bfceb193bfab996c762fad2": {
-        "title": "AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7915544.html",
-        "published_date": "Mon, 16 Mar 2026 13:53:00 GMT",
-        "first_seen": "2026-03-16T06:20:41.751167"
-      },
-      "07b47f8d018e91c5ecc787606bbfb38fb662bc09554701bbce1208d3917b96ad": {
-        "title": "从业者讲述：被315曝光的GEO，如何精准“忽悠”AI？",
-        "link": "https://www.tmtpost.com/7915165.html",
-        "published_date": "Mon, 16 Mar 2026 09:45:00 GMT",
-        "first_seen": "2026-03-16T06:20:41.751174"
-      },
-      "0dff37296d1eca199fd1cd6791c0c5cf973a87c6c075680e74bcc0b15265b777": {
-        "title": "Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径",
-        "link": "https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-16T06:20:41.751177"
-      },
-      "4ff854181407d002f8640b7b5f19b5f45ca5d3d1d1a69e97b3bebe4930fabeee": {
-        "title": "把99.9% 代码交给 AI ：腾讯云⼀次“吃狗\n粮”的⼯程实验",
-        "link": "https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 13:23:00 GMT",
-        "first_seen": "2026-03-16T06:20:41.751179"
-      },
-      "62f8ec333d1cebe2ea8db29470bc15ae358d991513c0a960458a85caae5c5442": {
-        "title": "氮化镓，全面起飞",
-        "link": "https://www.tmtpost.com/7915494.html",
-        "published_date": "Mon, 16 Mar 2026 11:12:00 GMT",
-        "first_seen": "2026-03-16T06:20:41.751181"
-      },
       "fbbc225825d27ab2da968188046014e51eeddaac5e91b4d3738cbc2384eea843": {
         "title": "“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮",
         "link": "https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 14 Apr 2026 18:36:00 GMT",
         "first_seen": "2026-04-14T23:46:02.653569"
+      },
+      "c79caa69c5268607c9f145a8d29b861338052109c8ef8c16cabe3f477d548053": {
+        "title": "AI 电荒突围：谁能替代重燃？",
+        "link": "https://www.tmtpost.com/7953802.html",
+        "published_date": "Wed, 15 Apr 2026 14:38:00 GMT",
+        "first_seen": "2026-04-15T06:57:56.217061"
+      },
+      "92e7023f8cc29c2c9f021d9a5cd4961c1c3e3ccbca36d4abf0c7d80b1cc1ac45": {
+        "title": "微软自研图像模型再降价 41%，当纳德拉开始用“毛利率”定义AI模型",
+        "link": "https://www.tmtpost.com/7953814.html",
+        "published_date": "Wed, 15 Apr 2026 11:01:00 GMT",
+        "first_seen": "2026-04-15T06:57:56.217067"
+      },
+      "06137101fc153c359e78a1ab909d10f5b81162a02c72ff20a9b4d8e8fb0ca262": {
+        "title": "阿里字节“围猎”智谱、MiniMax：Token到底该由谁来定价？",
+        "link": "https://www.tmtpost.com/7953217.html",
+        "published_date": "Wed, 15 Apr 2026 11:49:00 GMT",
+        "first_seen": "2026-04-15T06:57:56.217069"
+      },
+      "e7221cba194a4643128f36a8591aca5e04fb85aefd02e23941d67f261305d25b": {
+        "title": "独家对话周炜：中美具身之战的胜负手，在场景生态与钱包深度",
+        "link": "https://www.tmtpost.com/7953918.html",
+        "published_date": "Wed, 15 Apr 2026 12:26:00 GMT",
+        "first_seen": "2026-04-15T06:57:56.217071"
+      },
+      "4ff8b9e91262c44478d8598eb4868821eb67abf6a98f0665a1571990d4c4d079": {
+        "title": "Agent 下一战，决胜“记忆”之巅——AICon 深度专题前瞻",
+        "link": "https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 11:11:00 GMT",
+        "first_seen": "2026-04-15T06:57:56.217072"
       }
     },
     "Finance": {
-      "3eca1ff6ac9d9b292e21f0b4a0f76856826d48844edd051ff328f5f2d1ded049": {
-        "title": "Iran war reawakens global inflation fears",
-        "link": "https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b",
-        "published_date": "Mon, 16 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.529588"
-      },
-      "2cd4296e1848f886fac20540a0b962b88b19ff9e6dbddd1826e53683addb0b46": {
-        "title": "Trump throws US-China reboot off course by saying he could delay Xi summit",
-        "link": "https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9",
-        "published_date": "Mon, 16 Mar 2026 01:37:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.529593"
-      },
-      "eefedee526af7ede784454372c0eb6ab52b588989ef6eec83f02f3451df966dc": {
-        "title": "Oil prices rise as Strait of Hormuz remains shut",
-        "link": "https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4",
-        "published_date": "Mon, 16 Mar 2026 01:09:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.529596"
-      },
-      "63ffafa8e569571341ec0d0ac8828ee031861a05a84768b9eadb607cd2159256": {
-        "title": "The UK is struggling to achieve its aims on clean energy",
-        "link": "https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be",
-        "published_date": "Mon, 16 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.529598"
-      },
-      "c6c425b0ded656ae9bfd20171d64bcbbb39ce7de6479e2754ce2210319c52cf1": {
-        "title": "UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal",
-        "link": "https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f",
-        "published_date": "Mon, 16 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.529599"
-      },
       "3eaa5b4ebfa6ffc6874d4107e7482a9a5bf46e36c5a17d86c8927bdb5d5ab720": {
         "title": "Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO",
         "link": "https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories",
@@ -4821,15 +4791,39 @@
         "link": "https://www.ft.com/content/fa2f8f28-7e6d-4813-88f8-0b2224c4dde6",
         "published_date": "Tue, 14 Apr 2026 11:00:00 GMT",
         "first_seen": "2026-04-14T23:45:42.543626"
+      },
+      "609e52ec8891ee770b17130a3aa1f09d6754ad16969acff6c929eada71996e94": {
+        "title": "US military says blockade of Iranian ports is ‘fully implemented’",
+        "link": "https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736",
+        "published_date": "Wed, 15 Apr 2026 00:45:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.485897"
+      },
+      "8d9b4c9d40e6259aa807e616ae89c9c02c7da0162b4a1013d43450851f55835b": {
+        "title": "Iran faces halt to oil production within weeks if US blockade succeeds",
+        "link": "https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55",
+        "published_date": "Wed, 15 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.485910"
+      },
+      "05736f6b6e6ab9c46eddd1436e61defeeb29fca6365bc54423a40ddf697c06dc": {
+        "title": "Trump’s push to cut US interest rates akin to ‘banana republic’, says Yellen",
+        "link": "https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23",
+        "published_date": "Wed, 15 Apr 2026 04:26:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.485913"
+      },
+      "23435934aab0c4e36daea5ac8abd0e41c8b3ecf39e09d69f0128556ee14a7102": {
+        "title": "‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys",
+        "link": "https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6",
+        "published_date": "Wed, 15 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.485915"
+      },
+      "a472c35dadca2b74da35cc312bdda2453b0b957903f68581f3c6fafa0aec9559": {
+        "title": "China shock 2.0: should Europe repel Chinese investment?",
+        "link": "https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55",
+        "published_date": "Wed, 15 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.485917"
       }
     },
     "Ai": {
-      "6ed6a6aec64d58b558cd6ac4427b8891f340bdc97f264b02a14d97008a1cc8b6": {
-        "title": "2026-03-16日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-16/",
-        "published_date": "Mon, 16 Mar 2026 09:39:00 GMT",
-        "first_seen": "2026-03-16T06:20:58.670607"
-      },
       "a293ffa26fcfddd91470d9326bf8d238f783bec4b297ddf75f65de8118371e54": {
         "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
         "link": "https://www.qbitai.com/2026/03/388352.html",
@@ -6281,13 +6275,43 @@
         "link": "https://www.qbitai.com/2026/04/401127.html",
         "published_date": "Tue, 14 Apr 2026 08:36:00 GMT",
         "first_seen": "2026-04-14T23:45:42.684881"
+      },
+      "5ee67be42820e04deec6463fa2e9e54fd45d892c15d48b1bd7750809f7e19d8f": {
+        "title": "2026-04-15日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-15/",
+        "published_date": "Wed, 15 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.636881"
+      },
+      "7a0c98da26a73c76713cf4cede45e30eb6f772d572195f8a6157eb352b2f4834": {
+        "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
+        "link": "https://www.qbitai.com/2026/04/401389.html",
+        "published_date": "Wed, 15 Apr 2026 05:46:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.636889"
+      },
+      "5564850d7026d36ad00986d71c177278bb772e6969674ee090e71514893330d9": {
+        "title": "新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了",
+        "link": "https://www.qbitai.com/2026/04/401367.html",
+        "published_date": "Wed, 15 Apr 2026 05:06:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.636891"
+      },
+      "61d4d24b659ecf2ae7a7007c32b599e0f33b6b17961b12b1d0737cd711189b99": {
+        "title": "黄仁勋率先开源量子AI大模型",
+        "link": "https://www.qbitai.com/2026/04/401351.html",
+        "published_date": "Wed, 15 Apr 2026 04:45:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.636892"
+      },
+      "d5410a5349fbb2700606a7cae866b96089dd01b0d565433a69c1cc54272f10b6": {
+        "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
+        "link": "https://www.qbitai.com/2026/04/401333.html",
+        "published_date": "Wed, 15 Apr 2026 03:22:00 GMT",
+        "first_seen": "2026-04-15T06:57:41.636894"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-14T23:46:02.653571",
-    "Finance": "2026-04-14T23:45:42.543628",
-    "Ai": "2026-04-14T23:45:42.684883"
+    "Technology": "2026-04-15T06:57:56.217074",
+    "Finance": "2026-04-15T06:57:41.485919",
+    "Ai": "2026-04-15T06:57:41.636896"
   }
 }

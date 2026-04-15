@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 23:45
+**最后更新时间**: 2026-04-15 06:57
+
+---
+
+## 🆕 最新更新 (2026-04-15 06:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“最牛风投城市”合肥：用一张新能源汽车产业链地图，撬动万亿市场](https://www.tmtpost.com/7953222.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [AI 电荒突围：谁能替代重燃？](https://www.tmtpost.com/7953802.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [硅料困局中的情绪核爆：反内卷下的多晶硅从腰斩到涨停](https://www.tmtpost.com/7953251.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [大疆汪滔如何克服中年「意义危机」](https://www.tmtpost.com/7953282.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [汪滔筑堡垒，刘靖康架梯子：拆解深圳影像双雄的百亿暗战](https://www.tmtpost.com/7953280.html)
+**发布时间**: 2026-04-15 14:38
+
+#### [独家对话周炜：中美具身之战的胜负手，在场景生态与钱包深度](https://www.tmtpost.com/7953918.html)
+**发布时间**: 2026-04-15 12:26
+
+#### [阿里字节“围猎”智谱、MiniMax：Token到底该由谁来定价？](https://www.tmtpost.com/7953217.html)
+**发布时间**: 2026-04-15 11:49
+
+#### [中国星巴克，孤身闯暗巷](https://www.tmtpost.com/7953168.html)
+**发布时间**: 2026-04-15 11:49
+
+#### [报废机江湖野战：内存比黄金“值钱”的100天](https://www.tmtpost.com/7929522.html)
+**发布时间**: 2026-04-15 11:49
+
+#### [滴滴自动驾驶全球化布局加快，年内在阿联酋开展试点](https://www.tmtpost.com/7953889.html)
+**发布时间**: 2026-04-15 11:36
+
+#### [营收破13亿净利增超42%，国产数据库龙头的“质变”时刻](https://www.tmtpost.com/7952862.html)
+**发布时间**: 2026-04-15 11:18
+
+#### [微软自研图像模型再降价 41%，当纳德拉开始用“毛利率”定义AI模型](https://www.tmtpost.com/7953814.html)
+**发布时间**: 2026-04-15 11:01
+
+#### [IP的中年：腾讯游戏的今天，就是泡泡玛特的明天](https://www.tmtpost.com/7953236.html)
+**发布时间**: 2026-04-15 10:41
+
+#### [AI视频三国杀：阿里逼宫，字节开放](https://www.tmtpost.com/7953613.html)
+**发布时间**: 2026-04-15 10:41
+
+#### [网贷出海生死劫](https://www.tmtpost.com/7952594.html)
+**发布时间**: 2026-04-15 10:41
+
+#### [硫酸正在重塑全球铜镍供应链的底层逻辑](https://www.tmtpost.com/7953264.html)
+**发布时间**: 2026-04-15 09:51
+
+#### [长城汽车的“丰田式”阵痛](https://www.tmtpost.com/7953626.html)
+**发布时间**: 2026-04-15 09:40
+
+#### [每一家车企都是受害者，也是共谋者](https://www.tmtpost.com/7953481.html)
+**发布时间**: 2026-04-15 09:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic 推出 Claude Mythos 预览版，强化网络安全，仅限合作方访问](https://www.infoq.cn/article/0ERlUO96S3XjvTgekpru?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 14:00
+
+#### [Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess](https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 13:00
+
+#### [Agent 下一战，决胜“记忆”之巅——AICon 深度专题前瞻](https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 11:11
+
+#### [Safari 新增 scrollend 事件支持，补齐主流浏览器兼容版图](https://www.infoq.cn/article/Jfw4M9Ipiwkr36CUTguw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 11:00
+
+#### [360doc关停之后：蔡智谈AI时代个人知识管理的商业重构](https://www.infoq.cn/article/h5FJUJKYUDYjdyaOpNBT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 10:39
+
+#### [金融级 Al Coding 落地实践：从“氛围”编程到“严谨”开发｜QCon北京](https://www.infoq.cn/article/w0YZvXhyz3CjRPFO0VE3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 10:00
+
+#### [Google Cloud介绍了对PostgreSQL核心功能的工作](https://www.infoq.cn/article/2dOQmLigLm6DSDMxDxFm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-15 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从一夜无眠到夜夜香甜：睡个好觉并不难](https://sspai.com/post/107146)
+**发布时间**: 2026-04-15 11:11
+
+#### [派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等](https://sspai.com/post/108653)
+**发布时间**: 2026-04-15 08:20
 
 ---
 

@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-14 23:45
+**最后更新时间**: 2026-04-15 06:57
+
+---
+
+## 🆕 最新更新 (2026-04-15 06:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s push to cut US interest rates akin to ‘banana republic’, says Yellen](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23)
+**发布时间**: 2026-04-15 04:26
+
+#### [Iran used Chinese spy satellite to target US bases](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355)
+**发布时间**: 2026-04-15 04:00
+
+#### [Iran faces halt to oil production within weeks if US blockade succeeds](https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55)
+**发布时间**: 2026-04-15 04:00
+
+#### [China shock 2.0: should Europe repel Chinese investment?](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55)
+**发布时间**: 2026-04-15 04:00
+
+#### [Private healthcare in the UK: helping or harming the NHS?](https://www.ft.com/content/cc443c43-f7c4-4545-87ad-5ddd4d91bd00)
+**发布时间**: 2026-04-15 04:00
+
+#### [Can global resilience trump disruption?](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae)
+**发布时间**: 2026-04-15 04:00
+
+#### [‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys](https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6)
+**发布时间**: 2026-04-15 04:00
+
+#### [Starmer plans May relaunch with King’s Speech](https://www.ft.com/content/2c50b596-5383-444d-8436-f9e88aaf308a)
+**发布时间**: 2026-04-15 04:00
+
+#### [US military says blockade of Iranian ports is ‘fully implemented’](https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736)
+**发布时间**: 2026-04-15 00:45
+
+#### [UK’s Help to Buy housing scheme mainly benefited higher earners, says think-tank](https://www.ft.com/content/0f416253-ef6e-4eb2-849c-e45d9078dccb)
+**发布时间**: 2026-04-14 23:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Need to file for a tax extension today? Read this first.](https://www.marketwatch.com/story/not-ready-for-tomorrows-tax-deadline-read-this-before-filing-for-a-last-minute-extension-c89c7849?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 04:02
+
+#### [A new CEO and a deal with Uber aren’t enough to lift this EV maker’s struggling stock](https://www.marketwatch.com/story/a-new-ceo-and-a-deal-with-uber-arent-enough-to-lift-this-ev-makers-struggling-stock-a3cf6f1b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 03:01
+
+#### [5 things to know about a potential airline merger of United and American](https://www.marketwatch.com/story/5-things-to-know-about-a-potential-merger-of-airlines-united-and-american-b140c0ed?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 00:04
+
+#### [‘She’s a smoker’: My mother, 55, has no car and no job. Should I buy her life insurance?](https://www.marketwatch.com/story/shes-a-smoker-my-mother-55-has-no-car-and-no-job-should-i-buy-her-life-insurance-e98caa2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 23:57
+
+#### [‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?](https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 23:57
 
 ---
 

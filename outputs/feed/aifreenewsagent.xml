@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Apr 2026 23:43:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 23:45:42 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:57:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相</title>
-      <link>https://www.qbitai.com/2026/04/401202.html</link>
-      <description>&lt;![CDATA[荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401202.html</guid>
+      <title>2026-04-15日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-15/</link>
+      <description>&lt;![CDATA[2026-04-15日刊]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-15/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>教育部等五部门关于印发《“人工智能+教育”行动计划》的通知</title>
-      <link>https://www.qbitai.com/2026/04/401190.html</link>
-      <description>&lt;![CDATA[教育部等五部门关于印发《“人工智能+教育”行动计划》的通知]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401190.html</guid>
+      <title>浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活</title>
+      <link>https://www.qbitai.com/2026/04/401389.html</link>
+      <description>&lt;![CDATA[浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 05:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401389.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>什么Excel这函数那公式，我千问永远一步搞定</title>
-      <link>https://www.qbitai.com/2026/04/401127.html</link>
-      <description>&lt;![CDATA[什么Excel这函数那公式，我千问永远一步搞定]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401127.html</guid>
+      <title>新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了</title>
+      <link>https://www.qbitai.com/2026/04/401367.html</link>
+      <description>&lt;![CDATA[新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 05:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401367.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>黄仁勋率先开源量子AI大模型</title>
+      <link>https://www.qbitai.com/2026/04/401351.html</link>
+      <description>&lt;![CDATA[黄仁勋率先开源量子AI大模型]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 04:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401351.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…</title>
+      <link>https://www.qbitai.com/2026/04/401333.html</link>
+      <description>&lt;![CDATA[死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 03:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401333.html</guid>
       <category>Ai</category>
     </item>
   </channel>
