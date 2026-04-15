@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f4f4eb3734633d6149b32013316f0514747be8581d22d4fc085d5c7673f795d": {
-        "title": "【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元",
-        "link": "https://www.tmtpost.com/7916294.html",
-        "published_date": "Tue, 17 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-16T23:34:48.421072"
-      },
-      "9b12f35dce75b1e7d4594e6d7371ee055d3a4f22fc3c4d3688408006f9b34a96": {
-        "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
-        "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 17:26:00 GMT",
-        "first_seen": "2026-03-16T23:34:48.421085"
-      },
-      "711ef4b10b821a59c716dab4a0f4f92c464a7ec52c5629ebb9e38a2f8172f156": {
-        "title": "当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代",
-        "link": "https://www.tmtpost.com/7916266.html",
-        "published_date": "Mon, 16 Mar 2026 21:04:00 GMT",
-        "first_seen": "2026-03-16T23:34:48.421090"
-      },
-      "d74204bdf4b7ca47996a5e0177f61cf4b6161d02c65100a25869e23b9a6cfc89": {
-        "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
-        "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:27:00 GMT",
-        "first_seen": "2026-03-16T23:34:48.421093"
-      },
-      "f81b362ea59851ccf6ae5918303aae38249bf2c872f8f32f47096d595c3c8ca9": {
-        "title": "1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多",
-        "link": "https://www.tmtpost.com/7915293.html",
-        "published_date": "Mon, 16 Mar 2026 10:45:00 GMT",
-        "first_seen": "2026-03-16T23:34:48.421097"
-      },
       "007c4006a5be895226d7fc6a19751f39c4fc79dd35675386d3162378833af3f1": {
         "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
         "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7953913.html",
         "published_date": "Wed, 15 Apr 2026 15:08:00 GMT",
         "first_seen": "2026-04-15T09:24:27.798196"
+      },
+      "db7ff156be8f64fb677b2c80ae48978b300fe5f62df734691c5582a2daa676bb": {
+        "title": "国产AI芯片崛起：三大门派、瓜分英伟达",
+        "link": "https://www.tmtpost.com/7954297.html",
+        "published_date": "Wed, 15 Apr 2026 18:18:00 GMT",
+        "first_seen": "2026-04-15T23:45:55.071541"
+      },
+      "0603cdf7b5a180cc6eba913143a6e2347c4417e3742532f91109c7e0d0b9523e": {
+        "title": "雪藏背后：Anthropic的技术、商业与伦理困境",
+        "link": "https://www.tmtpost.com/7953898.html",
+        "published_date": "Wed, 15 Apr 2026 17:38:00 GMT",
+        "first_seen": "2026-04-15T23:45:55.071548"
+      },
+      "d032095a0e96fcf7f1164622e8cd020fcbb93439ba468af9b4462b2c69cb3a0c": {
+        "title": "AI算力不能总为爱发电",
+        "link": "https://www.tmtpost.com/7954394.html",
+        "published_date": "Wed, 15 Apr 2026 19:01:00 GMT",
+        "first_seen": "2026-04-15T23:45:55.071550"
+      },
+      "782162897e358ce569645f37c5ead230c5c2b5352b3da872275f09fd0164181b": {
+        "title": "阿斯麦二季度业绩指引不及预期，股价一度跌逾5%",
+        "link": "https://www.tmtpost.com/7954593.html",
+        "published_date": "Wed, 15 Apr 2026 22:37:00 GMT",
+        "first_seen": "2026-04-15T23:45:55.071551"
+      },
+      "ab0a7c2418ceb697c043e612c411daaaa2e64667370f5006b9399a72c75dc5b5": {
+        "title": "AI视频三国杀：阿里逼宫，字节开放",
+        "link": "https://www.tmtpost.com/7953613.html",
+        "published_date": "Wed, 15 Apr 2026 10:41:00 GMT",
+        "first_seen": "2026-04-15T23:45:55.071553"
       }
     },
     "Finance": {
-      "66f9771a4fffcdf0522b3d67e9dc9f56843209271008b718a893c5d720eaddf6": {
-        "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
-        "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 22:01:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.711058"
-      },
-      "6219dded21a63e014fba5e9e21aaab0c0d656ffff489289385a29eacb9e44e72": {
-        "title": "Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years",
-        "link": "https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0",
-        "published_date": "Mon, 16 Mar 2026 22:51:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.711064"
-      },
-      "f6bdf569bb64a2efca9ade0caef0d1a77d329d6b69097155c7023c7008c03d0d": {
-        "title": "Why Hormuz will haunt us long after this war ends",
-        "link": "https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1",
-        "published_date": "Mon, 16 Mar 2026 11:12:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.711066"
-      },
-      "dd4a465d9616e6db3440b33d00c1769044a28b97d2bcb3b6cc83a6e159cdf231": {
-        "title": "Close Brothers plunges as short seller claims it understated UK car finance risks",
-        "link": "https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d",
-        "published_date": "Mon, 16 Mar 2026 19:07:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.711068"
-      },
-      "04fecb001680a16606952d12f01130581fc2ff49b0f5125062ce4d763d2217a0": {
-        "title": "US diesel prices soar to almost $5 as Iran war pinches global supplies",
-        "link": "https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c",
-        "published_date": "Mon, 16 Mar 2026 21:20:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.711069"
-      },
       "4d4e9a022349c15b518f1be60e4c7764d0a5af2846d9f9e1ffdce7da29751cfb": {
         "title": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
         "link": "https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0",
@@ -4839,33 +4809,39 @@
         "link": "https://www.ft.com/content/ffb02bd6-fd48-4abc-b568-8353c495cd1e",
         "published_date": "Wed, 15 Apr 2026 08:44:00 GMT",
         "first_seen": "2026-04-15T09:24:03.803109"
+      },
+      "c6f17dc202218beb2b6a65b4437c55034627470f89a578a82e55ab37a1a17db1": {
+        "title": "Rate setters face ‘double danger’ from Iran war and tariffs, Fed official warns",
+        "link": "https://www.ft.com/content/345e5dbc-d60a-4c78-a781-63c3b624a451",
+        "published_date": "Wed, 15 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.414794"
+      },
+      "ff941bc27e3d845890ccf56894f0f6a9ad481ae42946b21a31fb9491026b8fac": {
+        "title": "Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly. Here’s what happens next.",
+        "link": "https://www.marketwatch.com/story/live-nation-stock-falls-as-jury-finds-ticketing-giant-acted-as-an-illegal-monopoly-1f21ac77?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 22:46:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.414804"
+      },
+      "54eefb41897fedfc78a308f5e036c6e067f6ab42648d8f0e131b2a506aa71b5e": {
+        "title": "Trump threatens to fire Jay Powell and refuses to halt criminal probe",
+        "link": "https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3",
+        "published_date": "Wed, 15 Apr 2026 17:08:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.414806"
+      },
+      "b540871cbec6b78972031e10383a94c39e49e20a9326b845cbc391edb2b87740": {
+        "title": "Goldman president warns private credit funds are not marketed properly",
+        "link": "https://www.ft.com/content/3e91f018-d9c1-4ef4-a416-f80c97d930d8",
+        "published_date": "Wed, 15 Apr 2026 22:52:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.414808"
+      },
+      "3ebf7037000b4978a430c82544395561d7301423953e676bdb7cde29a2e6d5d4": {
+        "title": "US crude exports hit record as Iran war disrupts Middle East supplies",
+        "link": "https://www.ft.com/content/b35dc63e-b016-4ed4-a967-fd132cc552c4",
+        "published_date": "Wed, 15 Apr 2026 16:37:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.414810"
       }
     },
     "Ai": {
-      "a7ac004cfc42e3425960f19b5e765b4a133c64ccf2060258034cb977387d5f17": {
-        "title": "Testing LLMs on superconductivity research questions",
-        "link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
-        "published_date": "Mon, 16 Mar 2026 17:31:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.864014"
-      },
-      "6eb89d01a932d95922b280857b483542787440b577e670df6fd6b85ed520f698": {
-        "title": "零跑，首次全年盈利！",
-        "link": "https://www.qbitai.com/2026/03/388411.html",
-        "published_date": "Mon, 16 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.864022"
-      },
-      "b9b5f800236ffe41f260f7b9c640e0c922378e42a2bae47963d2266925bcad5e": {
-        "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-        "link": "https://www.qbitai.com/2026/03/388387.html",
-        "published_date": "Mon, 16 Mar 2026 11:48:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.864024"
-      },
-      "d0eab4ca76dcd0649aa6ac1ffac53fe4e4ab1c4f0c67203b8fc01e482cd8e343": {
-        "title": "机器人爆款收割机狂揽1.2亿美金",
-        "link": "https://www.qbitai.com/2026/03/388381.html",
-        "published_date": "Mon, 16 Mar 2026 11:22:00 GMT",
-        "first_seen": "2026-03-16T23:35:04.864026"
-      },
       "819c1e0c5a6fe4f5b52bf9a1c49ecc007335d810fdf68ae2ef8346834482da7f": {
         "title": "2026-03-17日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-17/",
@@ -6317,13 +6293,19 @@
         "link": "https://www.qbitai.com/2026/04/401479.html",
         "published_date": "Wed, 15 Apr 2026 07:42:00 GMT",
         "first_seen": "2026-04-15T09:24:03.956235"
+      },
+      "513512ee1616148c1365880867b34d900b4b28970b2446152be78095f3f138e8": {
+        "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
+        "link": "https://www.qbitai.com/2026/04/401512.html",
+        "published_date": "Wed, 15 Apr 2026 13:28:00 GMT",
+        "first_seen": "2026-04-15T23:45:33.563800"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-15T09:24:27.798198",
-    "Finance": "2026-04-15T09:24:03.803111",
-    "Ai": "2026-04-15T09:24:03.956237"
+    "Technology": "2026-04-15T23:45:55.071555",
+    "Finance": "2026-04-15T23:45:33.414813",
+    "Ai": "2026-04-15T23:45:33.563809"
   }
 }

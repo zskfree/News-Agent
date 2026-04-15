@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-15 09:23
+**最后更新时间**: 2026-04-15 23:45
+
+---
+
+## 🆕 最新更新 (2026-04-15 23:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How the Globalstar purchase could turn Amazon’s Leo into a satellite powerhouse](https://www.marketwatch.com/story/how-the-globalstar-purchase-could-turn-amazons-leo-into-a-satellite-powerhouse-4b27cdf5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 23:18
+
+#### [I’m selling my law practice and retiring. Do I pay off the $2 million loan on my office building — or keep the mortgage?](https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:57
+
+#### [Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly. Here’s what happens next.](https://www.marketwatch.com/story/live-nation-stock-falls-as-jury-finds-ticketing-giant-acted-as-an-illegal-monopoly-1f21ac77?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:46
+
+#### [Microsoft’s stock has sprung back to life — and is on its strongest run in 3 years, by one measure](https://www.marketwatch.com/story/microsofts-stock-has-sprung-back-to-life-its-on-its-strongest-run-in-3-years-by-one-measure-02b7e184?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:13
+
+#### [U.S. businesses hit the brakes on hiring and spending as Iran war dims optimism over economy, Fed report finds](https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:12
+
+#### [Google’s stake in SpaceX could be worth more than most companies on the planet](https://www.marketwatch.com/story/googles-stake-in-spacex-could-be-worth-more-than-most-companies-on-the-planet-9ef1a6bb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:00
+
+#### [Allbirds’ AI pivot sends its stock soaring nearly 600%. We’ve seen this movie before.](https://www.marketwatch.com/story/allbirds-ai-pivot-sends-its-stock-soaring-300-weve-seen-this-film-before-04665b32?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 21:57
+
+#### [The ‘ultimate contrarian trade’ is starting to pay off for investors. Why it might have more room to run.](https://www.marketwatch.com/story/the-ultimate-contrarian-trade-is-starting-to-pay-off-for-investors-why-it-might-have-more-room-to-run-58141cac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 21:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Goldman president warns private credit funds are not marketed properly](https://www.ft.com/content/3e91f018-d9c1-4ef4-a416-f80c97d930d8)
+**发布时间**: 2026-04-15 22:52
+
+#### [S&P 500 hits record high as markets surge back from Iran shock](https://www.ft.com/content/7d30723d-f2b1-4d02-a9f0-76ccedb0f7ad)
+**发布时间**: 2026-04-15 21:43
+
+#### [Goldman traders wrongfooted as Iran war upended interest rate expectations](https://www.ft.com/content/1f2d514d-4418-4b77-a3f5-2181080b670c)
+**发布时间**: 2026-04-15 21:42
+
+#### [Veteran investor Mark Mobius dies at 89](https://www.ft.com/content/590c65f4-6261-4dd7-b8ea-73b78fa23479)
+**发布时间**: 2026-04-15 19:16
+
+#### [Saudi wealth fund resets priorities after decade of heavy spending](https://www.ft.com/content/9fea256f-a60b-4d37-9ff0-c7c094cdda79)
+**发布时间**: 2026-04-15 19:02
+
+#### [Saudi Arabia’s PIF on verge of cutting support for LIV Golf](https://www.ft.com/content/76dfb7ee-ebf4-4030-8c8f-1c0c23ef5b67)
+**发布时间**: 2026-04-15 17:15
+
+#### [Trump threatens to fire Jay Powell and refuses to halt criminal probe](https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3)
+**发布时间**: 2026-04-15 17:08
+
+#### [US crude exports hit record as Iran war disrupts Middle East supplies](https://www.ft.com/content/b35dc63e-b016-4ed4-a967-fd132cc552c4)
+**发布时间**: 2026-04-15 16:37
+
+#### [UK gas prices dip below pre-Iran war levels in boost for Reeves](https://www.ft.com/content/d6459373-c681-4787-9c52-48ccda530da7)
+**发布时间**: 2026-04-15 16:06
+
+#### [Trading firm boss revealed as buyer of Nick Candy’s £275mn mansion](https://www.ft.com/content/9c065130-31e9-4129-bf6b-da08723ccdb2)
+**发布时间**: 2026-04-15 15:30
+
+#### [Rate setters face ‘double danger’ from Iran war and tariffs, Fed official warns](https://www.ft.com/content/345e5dbc-d60a-4c78-a781-63c3b624a451)
+**发布时间**: 2026-04-15 15:00
+
+#### [The weird resilience of the EU](https://www.ft.com/content/927ef2c7-cbf3-4bc1-9bdd-f9884a09d878)
+**发布时间**: 2026-04-15 11:26
 
 ---
 

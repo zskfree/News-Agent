@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Apr 2026 09:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2026 09:24:27 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 23:45:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 23:45:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智元联合北大、智源实现人形机器人自主打乒乓</title>
-      <link>https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智元联合北大、智源实现人形机器人自主打乒乓]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国产AI芯片崛起：三大门派、瓜分英伟达</title>
+      <link>https://www.tmtpost.com/7954297.html</link>
+      <description>&lt;![CDATA[国产AI芯片崛起：三大门派、瓜分英伟达]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7954297.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess</title>
-      <link>https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>雪藏背后：Anthropic的技术、商业与伦理困境</title>
+      <link>https://www.tmtpost.com/7953898.html</link>
+      <description>&lt;![CDATA[雪藏背后：Anthropic的技术、商业与伦理困境]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7953898.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密</title>
-      <link>https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI算力不能总为爱发电</title>
+      <link>https://www.tmtpost.com/7954394.html</link>
+      <description>&lt;![CDATA[AI算力不能总为爱发电]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7954394.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”</title>
-      <link>https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿斯麦二季度业绩指引不及预期，股价一度跌逾5%</title>
+      <link>https://www.tmtpost.com/7954593.html</link>
+      <description>&lt;![CDATA[阿斯麦二季度业绩指引不及预期，股价一度跌逾5%]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7954593.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>赛博脑白金，能治好AI的失忆症吗？</title>
-      <link>https://www.tmtpost.com/7953913.html</link>
-      <description>&lt;![CDATA[赛博脑白金，能治好AI的失忆症吗？]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953913.html</guid>
+      <title>AI视频三国杀：阿里逼宫，字节开放</title>
+      <link>https://www.tmtpost.com/7953613.html</link>
+      <description>&lt;![CDATA[AI视频三国杀：阿里逼宫，字节开放]]&gt;</description>
+      <pubDate>Wed, 15 Apr 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7953613.html</guid>
       <category>Technology</category>
     </item>
   </channel>
