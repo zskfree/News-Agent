@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 09:23
+**最后更新时间**: 2026-04-16 23:46
+
+---
+
+## 🆕 最新更新 (2026-04-16 23:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pepsi says price cuts and wellness push are bringing back customers — and the stock surges](https://www.marketwatch.com/story/pepsi-says-price-cuts-and-wellness-push-are-bringing-back-customers-and-the-stock-surges-e6e5ea05?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:33
+
+#### [Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say](https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:01
+
+#### [AMD has ‘indispensable assets’ — powering the stock toward its best run in two decades](https://www.marketwatch.com/story/amd-has-indispensable-assets-powering-the-stock-toward-its-best-run-in-two-decades-aa44c469?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:58
+
+#### [Microsoft’s stock sees its best four-day stretch in six years — with an extreme bounce](https://www.marketwatch.com/story/microsofts-stock-sees-its-best-four-day-stretch-in-six-years-with-an-extreme-bounce-3eb834d6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:45
+
+#### [‘Felony charges are pending’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?](https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:30
+
+#### [‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?](https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:14
+
+#### [Netflix co-founder Reed Hastings to exit company, saying it’s so strong it doesn’t need him anymore](https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 21:52
+
+#### [Tesla, IBM and Intel report earnings next week — here’s the best way to play a volatile market](https://www.marketwatch.com/story/the-s-p-500s-record-high-may-be-an-illusion-and-this-rally-is-a-warning-893b81e5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 21:26
+
+#### [This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next](https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 20:40
+
+#### [Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses](https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic in talks to give US government access to its Mythos model](https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4)
+**发布时间**: 2026-04-16 23:30
+
+#### [Foreign Office top civil servant forced out over Mandelson vetting fiasco](https://www.ft.com/content/f0f5fddc-04e8-4cf2-8dd8-eb6d760b9fff)
+**发布时间**: 2026-04-16 22:20
+
+#### [Israel agrees to halt its war with Hizbollah in Lebanon](https://www.ft.com/content/34c827e4-eda0-4094-ab29-d104c49469c6)
+**发布时间**: 2026-04-16 21:46
+
+#### [Netflix founder Reed Hastings to step down from board](https://www.ft.com/content/1c89d041-f46f-4190-b9b0-3565c0cdd079)
+**发布时间**: 2026-04-16 20:37
+
+#### [Senate Democrats raise alarm over Kevin Warsh’s $100mn of ‘undisclosed’ assets](https://www.ft.com/content/ba9a86fe-bc92-4146-ba07-c724578deb14)
+**发布时间**: 2026-04-16 19:13
+
+#### [US oil bosses warn Trump to stand firm against Iran’s Hormuz toll](https://www.ft.com/content/0f41cbd9-58e5-4f0c-b975-3e6b919f1431)
+**发布时间**: 2026-04-16 19:05
+
+#### [Trump says next round of US-Iran talks could happen over weekend](https://www.ft.com/content/25d286a0-df45-448c-9e90-5dce350624b4)
+**发布时间**: 2026-04-16 18:38
+
+#### [UK firms ‘should be worried’ about Anthropic’s latest AI model, minister says](https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792)
+**发布时间**: 2026-04-16 17:30
+
+#### [The Mythos cyber scare signals the economics of AI scarcity](https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f)
+**发布时间**: 2026-04-16 17:05
+
+#### [The great independence charade](https://www.ft.com/content/1b915814-48e0-44c8-9cf3-63debaeb51d0)
+**发布时间**: 2026-04-16 11:03
 
 ---
 

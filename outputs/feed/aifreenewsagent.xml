@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Apr 2026 09:21:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 09:23:41 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 23:41:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:46:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战</title>
-      <link>https://www.qbitai.com/2026/04/401719.html</link>
-      <description>&lt;![CDATA[宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401719.html</guid>
+      <title>打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施</title>
+      <link>https://www.qbitai.com/2026/04/402063.html</link>
+      <description>&lt;![CDATA[打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/402063.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投</title>
-      <link>https://www.qbitai.com/2026/04/401714.html</link>
-      <description>&lt;![CDATA[它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 07:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401714.html</guid>
+      <title>Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles</title>
+      <link>https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/</link>
+      <description>&lt;![CDATA[Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-04-16日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-16/</link>
-      <description>&lt;![CDATA[2026-04-16日刊]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-16/</guid>
+      <title>刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！</title>
+      <link>https://www.qbitai.com/2026/04/401743.html</link>
+      <description>&lt;![CDATA[刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401743.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI-generated synthetic neurons speed up brain mapping</title>
+      <link>https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/</link>
+      <description>&lt;![CDATA[AI-generated synthetic neurons speed up brain mapping]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？</title>
+      <link>https://www.qbitai.com/2026/04/401741.html</link>
+      <description>&lt;![CDATA[72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/401741.html</guid>
       <category>Ai</category>
     </item>
   </channel>

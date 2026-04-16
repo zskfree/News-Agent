@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Apr 2026 09:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 09:23:40 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 23:46:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:46:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million</title>
-      <link>https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories</guid>
+      <title>Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses</title>
+      <link>https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Ceasefire with Israel expected ‘soon’, say Lebanese officials</title>
-      <link>https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81</link>
-      <description>&lt;![CDATA[Ceasefire with Israel expected ‘soon’, say Lebanese officials]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81</guid>
+      <title>Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say</title>
+      <link>https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 23:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Taiwan overtakes UK in stock market value on AI chip boom</title>
-      <link>https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc</link>
-      <description>&lt;![CDATA[Taiwan overtakes UK in stock market value on AI chip boom]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc</guid>
+      <title>The Mythos cyber scare signals the economics of AI scarcity</title>
+      <link>https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f</link>
+      <description>&lt;![CDATA[The Mythos cyber scare signals the economics of AI scarcity]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next</title>
+      <link>https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 20:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Anthropic in talks to give US government access to its Mythos model</title>
+      <link>https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4</link>
+      <description>&lt;![CDATA[Anthropic in talks to give US government access to its Mythos model]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 23:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4</guid>
       <category>Finance</category>
     </item>
   </channel>
