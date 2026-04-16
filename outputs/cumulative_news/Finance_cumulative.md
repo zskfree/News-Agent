@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-15 23:45
+**最后更新时间**: 2026-04-16 06:58
+
+---
+
+## 🆕 最新更新 (2026-04-16 06:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ceasefire between Israel and Hizbollah expected ‘soon’, say Lebanese officials](https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81)
+**发布时间**: 2026-04-16 06:24
+
+#### [UK economy beat expectations to grow by 0.5% in February](https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5)
+**发布时间**: 2026-04-16 06:21
+
+#### [Gulf states turn to private deals in $10bn wartime borrowing spree](https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7)
+**发布时间**: 2026-04-16 04:00
+
+#### [How the Strait of Hormuz will change Iran’s regime](https://www.ft.com/content/f3c8decc-0c59-49fa-9854-ddd9103279f4)
+**发布时间**: 2026-04-16 04:00
+
+#### [The pope versus the president: how Leo became Trump’s fearless foe](https://www.ft.com/content/4f67aa87-9210-402d-bfef-b71b294d65cb)
+**发布时间**: 2026-04-16 04:00
+
+#### [The NHS should keep Palantir for patients’ sake](https://www.ft.com/content/4ceee73c-b816-490c-a2ca-fc3896f5f51b)
+**发布时间**: 2026-04-16 04:00
+
+#### [Pensions drawdown: can the 4 Per Cent Rule survive stagflation?](https://www.ft.com/content/d6a0aaca-949c-420d-9431-ec9c170e6a05)
+**发布时间**: 2026-04-16 04:00
+
+#### [Nato in ‘turf war’ with EU over defence spending](https://www.ft.com/content/00ea4f9b-65f1-4080-b526-9783fa8a4f83)
+**发布时间**: 2026-04-16 04:00
+
+#### [Deterrence costs and we will all have to pay](https://www.ft.com/content/bfea33f7-a736-4a4c-94b2-5a5eb56b7163)
+**发布时间**: 2026-04-16 04:00
+
+#### [British investor builds $500mn stake in TikTok owner](https://www.ft.com/content/b4b172fa-47a7-464e-92f0-73f3c7d055b7)
+**发布时间**: 2026-04-16 04:00
+
+#### [The tax-focused hedge fund craze taking over Wall Street](https://www.ft.com/content/fad9d0ca-0b7a-4c22-8cfe-fb26fea9219b)
+**发布时间**: 2026-04-16 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is Tesla a chip stock now? Investors are cheering a semiconductor milestone.](https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 02:42
 
 ---
 

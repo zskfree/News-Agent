@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Apr 2026 23:45:00 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2026 23:45:55 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 06:58:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:59:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产AI芯片崛起：三大门派、瓜分英伟达</title>
-      <link>https://www.tmtpost.com/7954297.html</link>
-      <description>&lt;![CDATA[国产AI芯片崛起：三大门派、瓜分英伟达]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7954297.html</guid>
+      <title>中国AI正在绕过大模型，直奔Agent时代</title>
+      <link>https://www.tmtpost.com/7955163.html</link>
+      <description>&lt;![CDATA[中国AI正在绕过大模型，直奔Agent时代]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7955163.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>雪藏背后：Anthropic的技术、商业与伦理困境</title>
-      <link>https://www.tmtpost.com/7953898.html</link>
-      <description>&lt;![CDATA[雪藏背后：Anthropic的技术、商业与伦理困境]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953898.html</guid>
+      <title>具身智能赛道迎来年度最大单笔融资，它石智航获4.55亿美金Pre-A轮融资</title>
+      <link>https://www.tmtpost.com/7954674.html</link>
+      <description>&lt;![CDATA[具身智能赛道迎来年度最大单笔融资，它石智航获4.55亿美金Pre-A轮融资]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7954674.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI算力不能总为爱发电</title>
-      <link>https://www.tmtpost.com/7954394.html</link>
-      <description>&lt;![CDATA[AI算力不能总为爱发电]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 19:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7954394.html</guid>
+      <title>Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry</title>
+      <link>https://www.infoq.cn/article/PegogtX4txhVdQmex0Og?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PegogtX4txhVdQmex0Og?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿斯麦二季度业绩指引不及预期，股价一度跌逾5%</title>
-      <link>https://www.tmtpost.com/7954593.html</link>
-      <description>&lt;![CDATA[阿斯麦二季度业绩指引不及预期，股价一度跌逾5%]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 22:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7954593.html</guid>
+      <title>安森美该急了，国产汽车CMOS又进一步</title>
+      <link>https://www.tmtpost.com/7955376.html</link>
+      <description>&lt;![CDATA[安森美该急了，国产汽车CMOS又进一步]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 12:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7955376.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI视频三国杀：阿里逼宫，字节开放</title>
-      <link>https://www.tmtpost.com/7953613.html</link>
-      <description>&lt;![CDATA[AI视频三国杀：阿里逼宫，字节开放]]&gt;</description>
-      <pubDate>Wed, 15 Apr 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7953613.html</guid>
+      <title>神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”</title>
+      <link>https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-15 23:45
+**最后更新时间**: 2026-04-16 06:58
+
+---
+
+## 🆕 最新更新 (2026-04-16 06:58)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”](https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 14:48
+
+#### [设计企业级可观测性 Docker 扩展](https://www.infoq.cn/article/op76T76AX55jqGIQdU6L?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 14:00
+
+#### [Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry](https://www.infoq.cn/article/PegogtX4txhVdQmex0Og?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 12:00
+
+#### [亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告](https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 11:00
+
+#### [卖鞋厂转型做AI股价暴涨582%，华尔街最不缺这种荒诞闹剧](https://www.infoq.cn/article/fhE72Luzde6WYlVolp4T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 10:34
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [潮玩遇冷时，文玩冲年轻人抛了个「媚眼」](https://www.tmtpost.com/7955251.html)
+**发布时间**: 2026-04-16 13:23
+
+#### [羊毛出在AI身上：鞋厂没了，赌场开了，股价上天了](https://www.tmtpost.com/7955309.html)
+**发布时间**: 2026-04-16 13:23
+
+#### [义乌8毛发全国，申通靠什么赚了5亿？](https://www.tmtpost.com/7955416.html)
+**发布时间**: 2026-04-16 13:22
+
+#### [中国AI正在绕过大模型，直奔Agent时代](https://www.tmtpost.com/7955163.html)
+**发布时间**: 2026-04-16 13:07
+
+#### [旋转小火锅集体「围剿」县城？](https://www.tmtpost.com/7955246.html)
+**发布时间**: 2026-04-16 13:07
+
+#### [安森美该急了，国产汽车CMOS又进一步](https://www.tmtpost.com/7955376.html)
+**发布时间**: 2026-04-16 12:59
+
+#### [AI，能让智能体组织一键启动？](https://www.tmtpost.com/7955183.html)
+**发布时间**: 2026-04-16 12:59
+
+#### [暴跌40% vs 暴涨120%，消费龙头的冰火两重天](https://www.tmtpost.com/7955265.html)
+**发布时间**: 2026-04-16 12:58
+
+#### [数亿元堆出的“最贵”酒店，为何3年就倒了？](https://www.tmtpost.com/7955374.html)
+**发布时间**: 2026-04-16 12:58
+
+#### [去世23天，张雪峰还在替人填志愿](https://www.tmtpost.com/7955379.html)
+**发布时间**: 2026-04-16 12:50
+
+#### [Claude变蠢了，新模型发布前的黑暗时刻？](https://www.tmtpost.com/7955428.html)
+**发布时间**: 2026-04-16 12:38
+
+#### [世界互联网大会数智研修院在香港开班](https://www.tmtpost.com/7955454.html)
+**发布时间**: 2026-04-16 12:36
+
+#### [山东调味品，撑起了中国厨房的半壁江山](https://www.tmtpost.com/7955021.html)
+**发布时间**: 2026-04-16 11:12
+
+#### [啤酒市场，超级分化](https://www.tmtpost.com/7955019.html)
+**发布时间**: 2026-04-16 11:07
+
+#### [孙俪也救不了长剧招商，品牌预算流向何处？](https://www.tmtpost.com/7955016.html)
+**发布时间**: 2026-04-16 11:03
+
+#### [千元股背后：港股AI行情的叙事驱动与估值重构](https://www.tmtpost.com/7954985.html)
+**发布时间**: 2026-04-16 11:00
+
+#### [只会写代码的人，已经输了](https://www.tmtpost.com/7954984.html)
+**发布时间**: 2026-04-16 10:57
+
+#### [消失4年的小米“铁蛋”又回来了](https://www.tmtpost.com/7954981.html)
+**发布时间**: 2026-04-16 10:50
+
+#### [具身智能赛道迎来年度最大单笔融资，它石智航获4.55亿美金Pre-A轮融资](https://www.tmtpost.com/7954674.html)
+**发布时间**: 2026-04-16 10:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等](https://sspai.com/post/108692)
+**发布时间**: 2026-04-16 08:42
 
 ---
 
