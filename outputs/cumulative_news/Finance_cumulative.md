@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 06:58
+**最后更新时间**: 2026-04-16 09:23
+
+---
+
+## 🆕 最新更新 (2026-04-16 09:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million](https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 09:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ceasefire with Israel expected ‘soon’, say Lebanese officials](https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81)
+**发布时间**: 2026-04-16 08:37
+
+#### [Taiwan overtakes UK in stock market value on AI chip boom](https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc)
+**发布时间**: 2026-04-16 07:03
 
 ---
 

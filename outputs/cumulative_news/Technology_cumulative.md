@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 06:58
+**最后更新时间**: 2026-04-16 09:23
+
+---
+
+## 🆕 最新更新 (2026-04-16 09:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [明星潮玩能诞生下一个LABUBU神话吗？](https://www.tmtpost.com/7955956.html)
+**发布时间**: 2026-04-16 17:13
+
+#### [具身智能抢人大战，值得下注的人变了](https://www.tmtpost.com/7955768.html)
+**发布时间**: 2026-04-16 17:01
+
+#### [挑战闭源格局！腾讯混元3D世界模型2.0开源发布，性能对标商业级模型](https://www.tmtpost.com/7955800.html)
+**发布时间**: 2026-04-16 16:57
+
+#### [阔折叠：是华为的阳谋，还是折叠屏的自救？](https://www.tmtpost.com/7955219.html)
+**发布时间**: 2026-04-16 16:55
+
+#### [国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局](https://www.tmtpost.com/7954983.html)
+**发布时间**: 2026-04-16 16:55
+
+#### [三个人，用AI赚了6个亿](https://www.tmtpost.com/7955737.html)
+**发布时间**: 2026-04-16 16:55
+
+#### [SNH48创始人王子杰去世 剧场偶像时代终结](https://www.tmtpost.com/7955967.html)
+**发布时间**: 2026-04-16 16:55
+
+#### [“猎头”张文之后：壁仞科技更需要“技术”张文？](https://www.tmtpost.com/7955633.html)
+**发布时间**: 2026-04-16 16:54
+
+#### [海底捞的未来不是“00后店长”，而是一帮70后“老登”](https://www.tmtpost.com/7955388.html)
+**发布时间**: 2026-04-16 16:48
+
+#### [追觅VS方太：传统厨卫赛道悄悄被“革命”了？](https://www.tmtpost.com/7955283.html)
+**发布时间**: 2026-04-16 16:42
+
+#### [张迪用五个月，撬动了他在快手筑了五年的城墙](https://www.tmtpost.com/7955371.html)
+**发布时间**: 2026-04-16 16:41
+
+#### [去你的“同事.Skill”](https://www.tmtpost.com/7955410.html)
+**发布时间**: 2026-04-16 16:38
+
+#### [字节豆包海外下载破2亿，但不可掉以轻心](https://www.tmtpost.com/7955423.html)
+**发布时间**: 2026-04-16 16:38
+
+#### [浪姐已成中女斗兽场](https://www.tmtpost.com/7955724.html)
+**发布时间**: 2026-04-16 16:38
+
+#### [周杰伦身陷抄袭风波，鉴抄博主在“鉴”什么？](https://www.tmtpost.com/7955636.html)
+**发布时间**: 2026-04-16 16:24
+
+#### [谁在逼内娱编剧写烂剧？](https://www.tmtpost.com/7955720.html)
+**发布时间**: 2026-04-16 16:24
+
+#### [黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达](https://www.tmtpost.com/7955519.html)
+**发布时间**: 2026-04-16 16:19
+
+#### [现在游戏招聘市场哪有正职啊，全是外包的岗](https://www.tmtpost.com/7955655.html)
+**发布时间**: 2026-04-16 16:18
+
+#### [暖哇科技二次冲港股，“保险AI第一股”成色几何？](https://www.tmtpost.com/7955666.html)
+**发布时间**: 2026-04-16 16:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md](https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 16:51
+
+#### [3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元](https://www.infoq.cn/article/aabRtNR5WreQuo4Kt4h9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 16:49
+
+#### [世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背](https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 16:42
+
+#### [Claude 推行强制化实名认证：部分功能需提交证件和自拍](https://www.infoq.cn/article/dDG9KpwHWj9ufYENNgVP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 16:01
+
+#### [蚂蚁灵波开源LingBot-Map：仅需一个 RGB 摄像头，就能让机器人“理解”真实世界](https://www.infoq.cn/article/d2ODNNUg38yOQZyuUwUY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 15:07
+
+#### [Anthropic 的论文探讨了大语言模型中类情绪机制对行为的影响](https://www.infoq.cn/article/3z0Q6dZ0YO4dzN9Qwmf8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 15:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包](https://sspai.com/post/108694)
+**发布时间**: 2026-04-16 15:30
+
+#### [从画质玄学到改机热潮：浅谈拍立得的前世今生](https://sspai.com/post/108630)
+**发布时间**: 2026-04-16 15:00
 
 ---
 
