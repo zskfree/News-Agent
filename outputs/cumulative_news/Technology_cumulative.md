@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 23:46
+**最后更新时间**: 2026-04-17 06:59
+
+---
+
+## 🆕 最新更新 (2026-04-17 06:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [世界模型元年启示录：动机、乱战与暗礁](https://www.tmtpost.com/7956668.html)
+**发布时间**: 2026-04-17 13:30
+
+#### [抖音向美团开出第二炮：从错位竞争，到贴脸抢地盘](https://www.tmtpost.com/7956406.html)
+**发布时间**: 2026-04-17 13:30
+
+#### [从越用越便宜到越用越贵，谁在为AI的“算力饥渴”买单？](https://www.tmtpost.com/7956464.html)
+**发布时间**: 2026-04-17 13:30
+
+#### [1591 倍超额认购背后：谁在押注这家“空间智能第一股”？](https://www.tmtpost.com/7957114.html)
+**发布时间**: 2026-04-17 12:44
+
+#### [王信文的两次关键选择，和莉莉丝的下半场](https://www.tmtpost.com/7956389.html)
+**发布时间**: 2026-04-17 12:28
+
+#### [郭达雅补上了字节最后一块短板](https://www.tmtpost.com/7956945.html)
+**发布时间**: 2026-04-17 12:28
+
+#### [阿里动刀，电商Token税来了？](https://www.tmtpost.com/7945402.html)
+**发布时间**: 2026-04-17 12:23
+
+#### [机器人圈抢人失控，日薪突破50万](https://www.tmtpost.com/7956888.html)
+**发布时间**: 2026-04-17 12:23
+
+#### [宁德时代一天赚2亿，车企在给谁打工？](https://www.tmtpost.com/7956513.html)
+**发布时间**: 2026-04-17 12:04
+
+#### [算力通胀元年：DeepSeek越便宜，这轮涨价越难停](https://www.tmtpost.com/7957072.html)
+**发布时间**: 2026-04-17 11:33
+
+#### [中国“药二代”答卷](https://www.tmtpost.com/7957073.html)
+**发布时间**: 2026-04-17 11:33
+
+#### [量化派品牌升级“智能物种”第一股，独家对话MIT毕业的机器人博士CTO](https://www.tmtpost.com/7956880.html)
+**发布时间**: 2026-04-17 11:30
+
+#### [长文问答准确率大涨 17% 后，Anthropic 把“不乱猜”做成了核心卖点](https://www.tmtpost.com/7957003.html)
+**发布时间**: 2026-04-17 11:14
+
+#### [灵初、穹彻、智平方、浙人形，联手投了一家具身智能"数据编译"公司｜AI Founder请回答](https://www.tmtpost.com/7956994.html)
+**发布时间**: 2026-04-17 11:04
+
+#### [万宁：创新与风控的平衡是金融发展的最佳状态](https://www.tmtpost.com/7956930.html)
+**发布时间**: 2026-04-17 10:23
+
+#### [赋能数智发展 共筑安全防线 —— 世界互联网大会亚太峰会人工智能与网络安全能力建设高级研修班综述](https://www.tmtpost.com/7956867.html)
+**发布时间**: 2026-04-17 09:59
+
+#### [世界互联网大会亚太峰会数字金融论坛举行](https://www.tmtpost.com/7956870.html)
+**发布时间**: 2026-04-17 09:59
+
+#### [AI大模型吞噬软件路径推演](https://www.tmtpost.com/7956776.html)
+**发布时间**: 2026-04-17 09:39
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”](https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 13:00
+
+#### [针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制](https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 11:00
+
+#### [聚焦 Spring Framework 7 与 Spring Boot 4：Spring 团队专访](https://www.infoq.cn/article/z4msV9uzNy7CXYFC4K2J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
+**发布时间**: 2026-04-17 11:29
+
+#### [派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
+**发布时间**: 2026-04-17 09:04
 
 ---
 

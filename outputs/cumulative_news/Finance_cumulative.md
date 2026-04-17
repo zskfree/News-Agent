@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 23:46
+**最后更新时间**: 2026-04-17 06:59
+
+---
+
+## 🆕 最新更新 (2026-04-17 06:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Data centre delays threaten to choke AI expansion](https://www.ft.com/content/f2bae708-f5c3-49b0-99c0-e4a11552427b)
+**发布时间**: 2026-04-17 04:00
+
+#### [Welcome to the age of hoarding](https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada)
+**发布时间**: 2026-04-17 04:00
+
+#### [The white-collar defence lawyers with nothing to do](https://www.ft.com/content/befa71e1-fcf1-4c02-9662-a572543ddcbf)
+**发布时间**: 2026-04-17 04:00
+
+#### [Macron and Starmer to hold summit on plan to secure Strait of Hormuz](https://www.ft.com/content/a348e5e0-c9d3-424c-b8a9-7903fa817b7d)
+**发布时间**: 2026-04-17 04:00
+
+#### [Latest AI models could threaten world banking system, financial officials warn](https://www.ft.com/content/5760b56a-ec83-46da-a301-4b0e8c73c238)
+**发布时间**: 2026-04-17 04:00
+
+#### [Wall Street banks start trading derivatives to bet on pain in private credit](https://www.ft.com/content/54076a09-7a66-44f3-8e70-343f6d601e50)
+**发布时间**: 2026-04-17 04:00
+
+#### [OnlyFans nears deal to sell minority stake at more than $3bn valuation](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc)
+**发布时间**: 2026-04-17 04:00
+
+#### [Trump says Iran war ‘should be ending pretty soon’ as Lebanon ceasefire begins](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 03:22
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [2 expensive mistakes most retirees make — and how to avoid them](https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 02:33
+
+#### [Mutual insurance companies are paying record-breaking dividends to their customers this year. Is using one right for you?](https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:59
+
+#### [With the largest industrial IPO since 1999, this air-quality giant’s stock opens with a bang](https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:55
 
 ---
 

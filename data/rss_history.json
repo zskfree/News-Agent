@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "be83254d817c9fd4cebc309e9b4dc3b378bee161c7fc6d9cf27673942ebb5f77": {
-        "title": "英伟达出手，SRAM重回C位",
-        "link": "https://www.tmtpost.com/7918304.html",
-        "published_date": "Wed, 18 Mar 2026 13:09:00 GMT",
-        "first_seen": "2026-03-18T06:04:28.671377"
-      },
-      "62e57b9cc822aa7040b21b9c73908e2f2902a3d649d188efdd94b6cba8e0a8c3": {
-        "title": "阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场",
-        "link": "https://www.tmtpost.com/7918442.html",
-        "published_date": "Wed, 18 Mar 2026 09:49:00 GMT",
-        "first_seen": "2026-03-18T06:04:28.671389"
-      },
-      "051f32edf481845094a0115698be817d9125decc1602a6496299ce611e4dad83": {
-        "title": "Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 10:04:00 GMT",
-        "first_seen": "2026-03-18T06:04:28.671392"
-      },
-      "1d2215eb3df99b0fc061747db2edf15b20ca67c9ff112d05c7084115169b3c08": {
-        "title": "阿里竞速Token工厂",
-        "link": "https://www.tmtpost.com/7918412.html",
-        "published_date": "Wed, 18 Mar 2026 09:16:00 GMT",
-        "first_seen": "2026-03-18T06:04:28.671394"
-      },
-      "92d61f4f2c8451d6d721461bc943422729e9f258bcd792d4c2d67568d326d558": {
-        "title": "工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践",
-        "link": "https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 11:32:00 GMT",
-        "first_seen": "2026-03-18T06:04:28.671396"
-      },
       "963e87372a1a798e37e768fc312b7ca6ee972ca20d49412e39981addefc0a89d": {
         "title": "黄仁勋2万字演讲，所有人都看漏了同一件事",
         "link": "https://www.tmtpost.com/7918542.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7955670.html",
         "published_date": "Thu, 16 Apr 2026 19:12:00 GMT",
         "first_seen": "2026-04-16T23:47:03.440347"
+      },
+      "5d4cac4223a7ec03c4b692714b641c821599adb8e6175d895613162a84a47928": {
+        "title": "机器人圈抢人失控，日薪突破50万",
+        "link": "https://www.tmtpost.com/7956888.html",
+        "published_date": "Fri, 17 Apr 2026 12:23:00 GMT",
+        "first_seen": "2026-04-17T07:00:37.884310"
+      },
+      "d9143aabfb99b463e8e33d6990b56bc7e9a7fb239843cd01916630007924ab19": {
+        "title": "万宁：创新与风控的平衡是金融发展的最佳状态",
+        "link": "https://www.tmtpost.com/7956930.html",
+        "published_date": "Fri, 17 Apr 2026 10:23:00 GMT",
+        "first_seen": "2026-04-17T07:00:37.884318"
+      },
+      "0e2f898acb12e70f0e9f2af6fd8f6b924baef0596d521cc2db7a238c7d2ba589": {
+        "title": "Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”",
+        "link": "https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:37.884321"
+      },
+      "158c2827f43440a5d87cf8c42576de8f1e65441a1756b695df875b1365353f36": {
+        "title": "针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制",
+        "link": "https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:37.884322"
+      },
+      "6ad0c2d9d852ec1fef4f242360965b02615967d7e695a8adb9146d2c4bf684e3": {
+        "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+        "link": "https://sspai.com/post/108742",
+        "published_date": "Fri, 17 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-17T07:00:37.884324"
       }
     },
     "Finance": {
-      "3d8f4bd1767d234a79fd1825c6edf2b0e301bf863e4e2cca88a8ff1c8d79953f": {
-        "title": "Oil price surge will hurt US growth and fuel inflation, say economists",
-        "link": "https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346",
-        "published_date": "Wed, 18 Mar 2026 01:32:00 GMT",
-        "first_seen": "2026-03-18T06:04:41.875822"
-      },
-      "6443ea21cd01fea58918d48e8245895316054bef9178164e9996bbe746e1991c": {
-        "title": "Iran conflict turns shipping market into ‘wild west’",
-        "link": "https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:04:41.875830"
-      },
-      "ba35d8e6661cffe41ba5333d005083af9c90d741c671c5c6fbb35baa9c023092": {
-        "title": "UK price gap between first-time properties and bigger homes at record high",
-        "link": "https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87",
-        "published_date": "Wed, 18 Mar 2026 00:01:00 GMT",
-        "first_seen": "2026-03-18T06:04:41.875832"
-      },
-      "d8e8910d35100409dc20cb6cdf6b1d7ea153740e8fcb5a65c6ae35ae0ef3979c": {
-        "title": "UAE set to show leniency on tax rules for expats leaving to avoid Iran war",
-        "link": "https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:04:41.875834"
-      },
-      "450855d6bb79d8cf56b965db1c8b56a762a533f9a1f6f07183f8f325a69bdf20": {
-        "title": "Iran still seen capable of escalating attacks on Gulf’s energy",
-        "link": "https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:04:41.875836"
-      },
       "f1aa1316d10e526ed59abce684150fe7124fef0a0b387e4e132ff759f9cfa649": {
         "title": "Rayner warns Starmer his government is ‘running out of time’",
         "link": "https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d",
@@ -4845,33 +4815,39 @@
         "link": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4",
         "published_date": "Thu, 16 Apr 2026 23:30:00 GMT",
         "first_seen": "2026-04-16T23:46:25.248565"
+      },
+      "7eda95bf9d3a8305479bf6e056408018c7df07324bed2dbb7a26665e1c5a37ac": {
+        "title": "With the largest industrial IPO since 1999, this air-quality giant’s stock opens with a bang",
+        "link": "https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 23:55:00 GMT",
+        "first_seen": "2026-04-17T07:00:17.904024"
+      },
+      "f9004c7083e8024de145e3657ad3374f6f0258e94a66807e08f4c19517b65b1f": {
+        "title": "Data centre delays threaten to choke AI expansion",
+        "link": "https://www.ft.com/content/f2bae708-f5c3-49b0-99c0-e4a11552427b",
+        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:17.904033"
+      },
+      "0635813552e54d10db5f7429a48324ad42fd9de12d1981e3d28cb3d8819e1e83": {
+        "title": "Welcome to the age of hoarding",
+        "link": "https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada",
+        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:17.904036"
+      },
+      "d6784c961433f967694a025350bbd749e19fb6241958acd170dd71fe9b2b4a9c": {
+        "title": "The white-collar defence lawyers with nothing to do",
+        "link": "https://www.ft.com/content/befa71e1-fcf1-4c02-9662-a572543ddcbf",
+        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:17.904037"
+      },
+      "6e2f2bc41d75b3a8e75d8fbaa53ce8429ab7d074d1a7308b2d2f90ffeb5d3ea8": {
+        "title": "Macron and Starmer to hold summit on plan to secure Strait of Hormuz",
+        "link": "https://www.ft.com/content/a348e5e0-c9d3-424c-b8a9-7903fa817b7d",
+        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-17T07:00:17.904039"
       }
     },
     "Ai": {
-      "3bb15ab756fe4cd0427e466b00f095db1cfef84a938e19d68f877181a67a809f": {
-        "title": "2026-03-18日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-18/",
-        "published_date": "Wed, 18 Mar 2026 09:30:00 GMT",
-        "first_seen": "2026-03-18T06:04:42.027906"
-      },
-      "c7d533375e05294fe390606aa55056f708e42880842d05c9e09c361b390a42d4": {
-        "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
-        "link": "https://www.qbitai.com/2026/03/388959.html",
-        "published_date": "Wed, 18 Mar 2026 02:45:00 GMT",
-        "first_seen": "2026-03-18T06:04:42.027914"
-      },
-      "229eb71cc9008e19272954700f69c6559dcd3f6c478b8111cc89b1a03e7a9ac9": {
-        "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
-        "link": "https://www.qbitai.com/2026/03/388845.html",
-        "published_date": "Wed, 18 Mar 2026 01:53:00 GMT",
-        "first_seen": "2026-03-18T06:04:42.027916"
-      },
-      "a153142c2199163cc0fc427a92c554757af8ded72b309f534677891a2cb6595a": {
-        "title": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
-        "link": "https://www.qbitai.com/2026/03/388815.html",
-        "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
-        "first_seen": "2026-03-18T06:04:42.027918"
-      },
       "177a828e7c7c91246e2d092ffd284931cbae5906a04c65170ba62ce2d3505f40": {
         "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
         "link": "https://www.qbitai.com/2026/03/389024.html",
@@ -6323,13 +6299,37 @@
         "link": "https://www.qbitai.com/2026/04/401741.html",
         "published_date": "Thu, 16 Apr 2026 13:04:00 GMT",
         "first_seen": "2026-04-16T23:46:40.368826"
+      },
+      "b3bdb6f1c1b2e7c2e940ee82732aeb57082a12f8b0a07b18d7a28426067a74c7": {
+        "title": "2026-04-17日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-17/",
+        "published_date": "Fri, 17 Apr 2026 09:55:00 GMT",
+        "first_seen": "2026-04-17T07:00:18.056821"
+      },
+      "7fd492c57b68af625f3e5cd5f286f06afc5c2aa7fa13b7cac54089b2893ea73f": {
+        "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
+        "link": "https://www.qbitai.com/2026/04/402186.html",
+        "published_date": "Fri, 17 Apr 2026 05:52:00 GMT",
+        "first_seen": "2026-04-17T07:00:18.056828"
+      },
+      "2d58c221c0affa809ac3312a5268f3f5cacac4742e0f7d6dc1cf45fa3ef4e6f7": {
+        "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
+        "link": "https://www.qbitai.com/2026/04/402158.html",
+        "published_date": "Fri, 17 Apr 2026 03:30:00 GMT",
+        "first_seen": "2026-04-17T07:00:18.056830"
+      },
+      "3b920d2fa79afb4628741b78bde8fdef59cef375e31c97b991f65685450b03d3": {
+        "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
+        "link": "https://www.qbitai.com/2026/04/402088.html",
+        "published_date": "Fri, 17 Apr 2026 02:16:00 GMT",
+        "first_seen": "2026-04-17T07:00:18.056831"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-16T23:47:03.440349",
-    "Finance": "2026-04-16T23:46:25.248567",
-    "Ai": "2026-04-16T23:46:40.368829"
+    "Technology": "2026-04-17T07:00:37.884326",
+    "Finance": "2026-04-17T07:00:17.904042",
+    "Ai": "2026-04-17T07:00:18.056834"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Apr 2026 23:46:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 23:47:03 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 06:59:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:00:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达</title>
-      <link>https://www.tmtpost.com/7955519.html</link>
-      <description>&lt;![CDATA[黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955519.html</guid>
+      <title>机器人圈抢人失控，日薪突破50万</title>
+      <link>https://www.tmtpost.com/7956888.html</link>
+      <description>&lt;![CDATA[机器人圈抢人失控，日薪突破50万]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 12:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956888.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3</title>
-      <link>https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>万宁：创新与风控的平衡是金融发展的最佳状态</title>
+      <link>https://www.tmtpost.com/7956930.html</link>
+      <description>&lt;![CDATA[万宁：创新与风控的平衡是金融发展的最佳状态]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956930.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背</title>
-      <link>https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”</title>
+      <link>https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>台积电：AI 界 “真霸主”，谁能撼动？</title>
-      <link>https://www.tmtpost.com/7956315.html</link>
-      <description>&lt;![CDATA[台积电：AI 界 “真霸主”，谁能撼动？]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956315.html</guid>
+      <title>针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制</title>
+      <link>https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>是真的厉害还是吹得厉害？掰一掰量产前夜的固态电池</title>
-      <link>https://www.tmtpost.com/7955670.html</link>
-      <description>&lt;![CDATA[是真的厉害还是吹得厉害？掰一掰量产前夜的固态电池]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955670.html</guid>
+      <title>派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等</title>
+      <link>https://sspai.com/post/108742</link>
+      <description>&lt;![CDATA[派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108742</guid>
       <category>Technology</category>
     </item>
   </channel>
