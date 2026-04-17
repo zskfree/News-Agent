@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Apr 2026 09:22:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 09:22:34 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 23:42:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 23:43:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设</title>
-      <link>https://www.tmtpost.com/7957098.html</link>
-      <description>&lt;![CDATA[黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 14:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957098.html</guid>
+      <title>AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局</title>
+      <link>https://www.tmtpost.com/7957423.html</link>
+      <description>&lt;![CDATA[AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957423.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核</title>
-      <link>https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI大模型吞噬软件路径推演</title>
-      <link>https://www.tmtpost.com/7956776.html</link>
-      <description>&lt;![CDATA[AI大模型吞噬软件路径推演]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956776.html</guid>
+      <title>智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长文问答准确率大涨 17% 后，Anthropic 把“不乱猜”做成了核心卖点</title>
-      <link>https://www.tmtpost.com/7957003.html</link>
-      <description>&lt;![CDATA[长文问答准确率大涨 17% 后，Anthropic 把“不乱猜”做成了核心卖点]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 11:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957003.html</guid>
+      <title>具身智能&quot;部署态元年&quot;来了，智元内部研判：具身&quot;GPT-3 &quot;进度条已拉升至 30%</title>
+      <link>https://www.tmtpost.com/7957537.html</link>
+      <description>&lt;![CDATA[具身智能&quot;部署态元年&quot;来了，智元内部研判：具身&quot;GPT-3 &quot;进度条已拉升至 30%]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 18:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957537.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从越用越便宜到越用越贵，谁在为AI的“算力饥渴”买单？</title>
-      <link>https://www.tmtpost.com/7956464.html</link>
-      <description>&lt;![CDATA[从越用越便宜到越用越贵，谁在为AI的“算力饥渴”买单？]]&gt;</description>
+      <title>世界模型元年启示录：动机、乱战与暗礁</title>
+      <link>https://www.tmtpost.com/7956668.html</link>
+      <description>&lt;![CDATA[世界模型元年启示录：动机、乱战与暗礁]]&gt;</description>
       <pubDate>Fri, 17 Apr 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956464.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956668.html</guid>
       <category>Technology</category>
     </item>
   </channel>

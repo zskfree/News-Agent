@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 09:22
+**最后更新时间**: 2026-04-17 23:42
+
+---
+
+## 🆕 最新更新 (2026-04-17 23:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I am the trustee’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?](https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 23:16
+
+#### [Cal-Maine’s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers](https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:56
+
+#### [I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?](https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:41
+
+#### [Why do older sellers get less money for their homes than younger sellers?](https://www.marketwatch.com/story/why-do-older-sellers-get-less-money-for-their-homes-than-younger-sellers-9e48c2ce?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:16
+
+#### [‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?](https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:08
+
+#### [Meta reportedly eyes more layoffs, targeting 10% of staff](https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:56
+
+#### [Nvidia rival Cerebras is taking another swing at an IPO](https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:42
+
+#### [New Social Security proposal would cap payments for wealthy people now — and many more later on](https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil slumps as US and Iran declare Strait of Hormuz open to shipping](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e)
+**发布时间**: 2026-04-17 20:54
+
+#### [Allies of Olly Robbins defend handling of Mandelson vetting](https://www.ft.com/content/58c01bc9-12bf-440c-9a91-01c130a6a9c1)
+**发布时间**: 2026-04-17 20:17
+
+#### [Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US](https://www.ft.com/content/22f2f356-ffa7-478f-858c-8a2640ca3bf9)
+**发布时间**: 2026-04-17 20:14
+
+#### [Starmer refuses to quit after ‘unforgivable’ Foreign Office vetting fiasco](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 20:11
+
+#### [Organised crime suspect Daniel Kinahan arrested in Dubai](https://www.ft.com/content/50bbc96c-3db4-4d3f-a623-e7ab80dc7480)
+**发布时间**: 2026-04-17 18:38
+
+#### [Return of Mandelson scandal leaves Labour MPs in despair](https://www.ft.com/content/47513301-e385-47e4-8dc0-2a8db6f954f6)
+**发布时间**: 2026-04-17 17:17
+
+#### [Lloyd’s of London to end flagship diversity event](https://www.ft.com/content/e17cf25a-4c75-4139-abe5-44630d7a6615)
+**发布时间**: 2026-04-17 17:11
+
+#### [The Starmer-shaped hole where a prime minister should be](https://www.ft.com/content/03a609b7-7a87-4e8a-8970-626a176c35c1)
+**发布时间**: 2026-04-17 17:01
+
+#### [Investors look through the turmoil](https://www.ft.com/content/a3a5296d-23fa-4014-9f8a-9305b1d68406)
+**发布时间**: 2026-04-17 17:00
+
+#### [EU prepares for jet fuel sharing as supplies dwindle](https://www.ft.com/content/494c1181-7bc3-42f3-b1af-c1dff3f62886)
+**发布时间**: 2026-04-17 14:15
+
+#### [Trump says Iran peace talks will ‘probably’ resume this weekend](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 12:59
+
+#### [Why Coutts is making an unexpected play for video games](https://www.ft.com/content/b4cf0513-5508-472d-8ed9-8260315a96e0)
+**发布时间**: 2026-04-17 04:00
 
 ---
 

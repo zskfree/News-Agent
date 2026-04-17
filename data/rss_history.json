@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7956464.html",
         "published_date": "Fri, 17 Apr 2026 13:30:00 GMT",
         "first_seen": "2026-04-17T09:22:34.601928"
+      },
+      "7d9d5de89c2c3a3318b52c8d81799318f9832078b3e55ec67310af20972ff7d5": {
+        "title": "AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局",
+        "link": "https://www.tmtpost.com/7957423.html",
+        "published_date": "Fri, 17 Apr 2026 19:50:00 GMT",
+        "first_seen": "2026-04-17T23:43:42.756387"
+      },
+      "274c77ee0062e3004ac49c8a547b1d477a9f687747875e663b8608a27fbebaa7": {
+        "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 19:35:00 GMT",
+        "first_seen": "2026-04-17T23:43:42.756393"
+      },
+      "5904954e0a7250a04ae942665230c91573cc28fba9e90afb0b99d949ae14f330": {
+        "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 19:20:00 GMT",
+        "first_seen": "2026-04-17T23:43:42.756395"
+      },
+      "66e350aec56485f90e7e5c427953d357f19a983a238e1d071bbb8d412c976f5e": {
+        "title": "具身智能\"部署态元年\"来了，智元内部研判：具身\"GPT-3 \"进度条已拉升至 30%",
+        "link": "https://www.tmtpost.com/7957537.html",
+        "published_date": "Fri, 17 Apr 2026 18:55:00 GMT",
+        "first_seen": "2026-04-17T23:43:42.756397"
+      },
+      "6c85fd6a94227ec476bf850d59245f5258d8f51660e7f2431a677573877f9ca9": {
+        "title": "世界模型元年启示录：动机、乱战与暗礁",
+        "link": "https://www.tmtpost.com/7956668.html",
+        "published_date": "Fri, 17 Apr 2026 13:30:00 GMT",
+        "first_seen": "2026-04-17T23:43:42.756399"
       }
     },
     "Finance": {
@@ -4863,6 +4893,36 @@
         "link": "https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee",
         "published_date": "Fri, 17 Apr 2026 07:34:00 GMT",
         "first_seen": "2026-04-17T09:22:09.011997"
+      },
+      "866e7397dd96ed29896a8c48db3338e54a0ce40b84d17a2d9907fbd753d96fe1": {
+        "title": "Oil slumps as US and Iran declare Strait of Hormuz open to shipping",
+        "link": "https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e",
+        "published_date": "Fri, 17 Apr 2026 20:54:00 GMT",
+        "first_seen": "2026-04-17T23:43:14.586037"
+      },
+      "a65da98ef9c0be538ec1d014d4879055a5e602c67dbdca7f9daa5b9b1d0efcca": {
+        "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
+        "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:35:00 GMT",
+        "first_seen": "2026-04-17T23:43:14.586047"
+      },
+      "3823a7ee1ee805bc02d88b03e8a6d32e3ece88ef2bbbee09c3bfd6408fab7585": {
+        "title": "Nvidia rival Cerebras is taking another swing at an IPO",
+        "link": "https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:42:00 GMT",
+        "first_seen": "2026-04-17T23:43:14.586049"
+      },
+      "cba2c231d38746c6160fcc43dc60f8002f468c1d5540154d2552c5f41705c2d7": {
+        "title": "Meta reportedly eyes more layoffs, targeting 10% of staff",
+        "link": "https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:56:00 GMT",
+        "first_seen": "2026-04-17T23:43:14.586051"
+      },
+      "0e1dfcf1f4925d3cd0b093a84594cdeea8843f23722968d18af2dee30f05e796": {
+        "title": "EU prepares for jet fuel sharing as supplies dwindle",
+        "link": "https://www.ft.com/content/494c1181-7bc3-42f3-b1af-c1dff3f62886",
+        "published_date": "Fri, 17 Apr 2026 14:15:00 GMT",
+        "first_seen": "2026-04-17T23:43:14.586053"
       }
     },
     "Ai": {
@@ -6364,8 +6424,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-17T09:22:34.601931",
-    "Finance": "2026-04-17T09:22:09.012000",
+    "Technology": "2026-04-17T23:43:42.756402",
+    "Finance": "2026-04-17T23:43:14.586055",
     "Ai": "2026-04-17T09:22:09.174698"
   }
 }

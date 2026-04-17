@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 09:22
+**最后更新时间**: 2026-04-17 23:42
+
+---
+
+## 🆕 最新更新 (2026-04-17 23:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [迈威尔的股价一路飙升，它还有望再涨25%](https://www.tmtpost.com/7957924.html)
+**发布时间**: 2026-04-17 22:32
+
+#### [五年定增153亿，七成拿来“补窟窿”，合盛硅业的钱烧哪了？ | 看财报](https://www.tmtpost.com/7957763.html)
+**发布时间**: 2026-04-17 22:20
+
+#### [增长无力，分红有力，熊猫乳品押注C端仍未破局 | 看财报](https://www.tmtpost.com/7957808.html)
+**发布时间**: 2026-04-17 21:36
+
+#### [亚马逊GWD正式开放，货代公司的天真的要变了？｜ 出海参考](https://www.tmtpost.com/7957639.html)
+**发布时间**: 2026-04-17 20:03
+
+#### [用不起Token的我，成了AI时代的下沉市场人群](https://www.tmtpost.com/7957564.html)
+**发布时间**: 2026-04-17 19:51
+
+#### [AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局](https://www.tmtpost.com/7957423.html)
+**发布时间**: 2026-04-17 19:50
+
+#### [海信与格力“线上狂怼”背后，空调的“黄金时代”一去不返](https://www.tmtpost.com/7957552.html)
+**发布时间**: 2026-04-17 19:25
+
+#### [张一鸣，信达雅](https://www.tmtpost.com/7956710.html)
+**发布时间**: 2026-04-17 19:24
+
+#### [瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度](https://www.tmtpost.com/7957345.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [“杭州六小龙”第一股、空间智能与AI的下一步：对话群核科技创始人黄晓煌](https://www.tmtpost.com/7957342.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [48小时，高瓴送三家公司去IPO](https://www.tmtpost.com/7957300.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [Sora折戟，即梦涨价，阿里入局：AI视频的下半场怎么打？](https://www.tmtpost.com/7956456.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [AI会投资吗？](https://www.tmtpost.com/7957431.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [美伊战争让二手电车卖爆了](https://www.tmtpost.com/7957556.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [认知觉醒，品牌向上——2026（第四届）CGO品牌增长峰会圆满举行](https://www.tmtpost.com/7957022.html)
+**发布时间**: 2026-04-17 19:09
+
+#### [具身智能"部署态元年"来了，智元内部研判：具身"GPT-3 "进度条已拉升至 30%](https://www.tmtpost.com/7957537.html)
+**发布时间**: 2026-04-17 18:55
+
+#### [海底捞杨利娟执掌红石榴计划；若羽臣3亿元收购高端护肤品牌Erno Laszlo奥伦纳素；茉莉奶白推出首款咖啡系列产品｜消研所周报](https://www.tmtpost.com/7957436.html)
+**发布时间**: 2026-04-17 18:22
+
+#### [不跳舞、不打拳、也不拧螺丝，陈震和他的机器人扎进后厨炸鸡块](https://www.tmtpost.com/7957184.html)
+**发布时间**: 2026-04-17 17:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势](https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:59
+
+#### [试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势](https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:35
+
+#### [智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势](https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:20
+
+#### [AI 驱动的数据库心脏：如何让云原生「自我进化」](https://www.infoq.cn/article/U4zazqfjWb11OTq7OeP6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 17:27
+
+#### [Karpathy 亲手终结了 RAG 的草莽时代](https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 17:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108760)
+**发布时间**: 2026-04-17 17:50
+
+#### [TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
+**发布时间**: 2026-04-17 16:22
 
 ---
 
