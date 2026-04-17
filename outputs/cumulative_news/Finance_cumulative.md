@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 06:59
+**最后更新时间**: 2026-04-17 09:22
+
+---
+
+## 🆕 最新更新 (2026-04-17 09:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?](https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 09:15
+
+#### [9 months after Ozzy’s death, Sharon Osbourne lists L.A. mansion for $17 million](https://www.marketwatch.com/story/9-months-after-ozzys-death-sharon-osbourne-lists-l-a-mansion-for-17-million-c4a3fd5d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mandelson vetting scandal shows Starmer isn’t up to the job](https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9)
+**发布时间**: 2026-04-17 08:30
+
+#### [Starmer battles calls to resign over Mandelson vetting](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 07:34
+
+#### [OnlyFans tops $3bn valuation in stake sale after death of owner](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc)
+**发布时间**: 2026-04-17 04:00
+
+#### [UK companies ‘should be worried’ about Anthropic’s latest AI model, minister says](https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792)
+**发布时间**: 2026-04-16 17:30
 
 ---
 

@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 06:59
+**最后更新时间**: 2026-04-17 09:22
+
+---
+
+## 🆕 最新更新 (2026-04-17 09:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里1000亿美元赌局：一匹“小马”能否撬动大局](https://www.tmtpost.com/7957236.html)
+**发布时间**: 2026-04-17 16:27
+
+#### [1.6亿老人，困在手机里？](https://www.tmtpost.com/7957163.html)
+**发布时间**: 2026-04-17 16:27
+
+#### [变泡泡玛特王宁粉丝，145亿段永平“打自己脸”](https://www.tmtpost.com/7956622.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [Kimi的问题不在对手，而在起点](https://www.tmtpost.com/7957173.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [AI眼镜，阿里求稳](https://www.tmtpost.com/7956630.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [小云雀、爱奇艺纳逗pro、巨日禄……20多个AI短剧Agent，哪家真好用？](https://www.tmtpost.com/7956912.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [重庆制造，大雄起！](https://www.tmtpost.com/7957108.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [益坤电气：拟募资缩水、补流项目删除，资金紧张仍大举分工｜IPO观察](https://www.tmtpost.com/7957214.html)
+**发布时间**: 2026-04-17 15:05
+
+#### [“杭州六小龙”第一个IPO，来了](https://www.tmtpost.com/7956962.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设](https://www.tmtpost.com/7957098.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [国家能源局下达死命令： 2028年必须彻底解决“晃电”问题](https://www.tmtpost.com/7956762.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [它石智航Pre-A轮4.55亿美元破纪录，一年融资近7亿美元](https://www.tmtpost.com/7956611.html)
+**发布时间**: 2026-04-17 14:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核](https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 16:01
+
+#### [星工聚将：从“物理对齐”出发，重新探索具身 AGI 的技术路](https://www.infoq.cn/article/1WMZt5S8lGzM1MkdzR2o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 15:24
+
+#### [代码通过即拿奖！OpenCloud 40+超热门AI工具等你来贡献](https://xie.infoq.cn/article/4940bd7d8d430c84ad94ca6b4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 18:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上刚开源的 Skill ，一句话控制你电脑上的软件。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532987&idx=1&sn=28d075abf135fb945972a6b8e8a49b18)
+**发布时间**: 2026-04-17 11:49
+
+#### [在飞书操控你的 Claude Code，这个 GitHub 开源 SKill 好用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532986&idx=1&sn=d93844d4566df1b9a29ea273078d5151)
+**发布时间**: 2026-04-16 16:06
 
 ---
 
