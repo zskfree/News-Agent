@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Apr 2026 23:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 23:43:42 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 06:15:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 06:16:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局</title>
-      <link>https://www.tmtpost.com/7957423.html</link>
-      <description>&lt;![CDATA[AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957423.html</guid>
+      <title>谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力</title>
+      <link>https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 19:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现</title>
+      <link>https://www.tmtpost.com/7956493.html</link>
+      <description>&lt;![CDATA[三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956493.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek 首次融资，AGI 理想向资本低头？</title>
+      <link>https://www.tmtpost.com/7958205.html</link>
+      <description>&lt;![CDATA[DeepSeek 首次融资，AGI 理想向资本低头？]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958205.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能&quot;部署态元年&quot;来了，智元内部研判：具身&quot;GPT-3 &quot;进度条已拉升至 30%</title>
-      <link>https://www.tmtpost.com/7957537.html</link>
-      <description>&lt;![CDATA[具身智能&quot;部署态元年&quot;来了，智元内部研判：具身&quot;GPT-3 &quot;进度条已拉升至 30%]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957537.html</guid>
+      <title>设计行业的“棺材板”，要被Claude Design盖上了</title>
+      <link>https://www.tmtpost.com/7958212.html</link>
+      <description>&lt;![CDATA[设计行业的“棺材板”，要被Claude Design盖上了]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958212.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界模型元年启示录：动机、乱战与暗礁</title>
-      <link>https://www.tmtpost.com/7956668.html</link>
-      <description>&lt;![CDATA[世界模型元年启示录：动机、乱战与暗礁]]&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956668.html</guid>
+      <title>AI的真正战场在“黑暗森林”</title>
+      <link>https://www.tmtpost.com/7957747.html</link>
+      <description>&lt;![CDATA[AI的真正战场在“黑暗森林”]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957747.html</guid>
       <category>Technology</category>
     </item>
   </channel>

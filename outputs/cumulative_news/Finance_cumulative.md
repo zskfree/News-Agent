@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 23:42
+**最后更新时间**: 2026-04-18 06:15
+
+---
+
+## 🆕 最新更新 (2026-04-18 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The coming global food crisis](https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df)
+**发布时间**: 2026-04-18 04:00
+
+#### [The return of Londonophobia](https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6)
+**发布时间**: 2026-04-18 04:00
+
+#### [Why higher pay hasn’t made young adults feel richer](https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5)
+**发布时间**: 2026-04-18 04:00
+
+#### [Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative](https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45)
+**发布时间**: 2026-04-18 04:00
+
+#### [Boom in UK ‘staycations’ as war puts holidaymakers off overseas travel](https://www.ft.com/content/bb3a8410-bc2b-4f62-86c1-0fefc181f164)
+**发布时间**: 2026-04-18 04:00
+
+#### [Airbnb adds hotels to its platform in bid to boost growth](https://www.ft.com/content/d0dff36f-fa29-4a88-93d0-e7be0a58eba9)
+**发布时间**: 2026-04-18 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Think the rally is safe? This elite market-timing indicator says a correction is overdue.](https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 00:48
 
 ---
 
