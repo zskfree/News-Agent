@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-18 06:15
+**最后更新时间**: 2026-04-18 08:56
+
+---
+
+## 🆕 最新更新 (2026-04-18 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil falls as US and Iran declare Strait of Hormuz open to shipping](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e)
+**发布时间**: 2026-04-17 20:54
 
 ---
 

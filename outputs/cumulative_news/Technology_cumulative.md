@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-18 06:15
+**最后更新时间**: 2026-04-18 08:56
+
+---
+
+## 🆕 最新更新 (2026-04-18 08:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [哈啰推变速车，被逼到墙角的自救](https://www.tmtpost.com/7958263.html)
+**发布时间**: 2026-04-18 16:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化](https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-18 14:12
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 10 个本周 GitHub 上最火火火的开源项目，收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533024&idx=1&sn=1ee5f366af5eddd1b67ce633a2756480)
+**发布时间**: 2026-04-18 11:19
 
 ---
 

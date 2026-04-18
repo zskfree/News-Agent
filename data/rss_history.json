@@ -2671,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7957747.html",
         "published_date": "Sat, 18 Apr 2026 09:45:00 GMT",
         "first_seen": "2026-04-18T06:16:25.285812"
+      },
+      "2f51a1cbb2bece340108383cb1745f6741accb36d644198a952503bbe01d65d8": {
+        "title": "V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资",
+        "link": "https://www.tmtpost.com/7958219.html",
+        "published_date": "Sat, 18 Apr 2026 10:20:00 GMT",
+        "first_seen": "2026-04-18T08:56:20.042819"
+      },
+      "1b1310f18caf623f94bacd1126f1c4e2ab38934c9fae9b214cf816dc8590f8c3": {
+        "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
+        "link": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Apr 2026 14:12:00 GMT",
+        "first_seen": "2026-04-18T08:56:20.042828"
+      },
+      "36a11367364258827788205a5031635ea0095d1aa6c653b3f4ca0f2469c10d6f": {
+        "title": "“有了AI，人们却过得越来越累了”",
+        "link": "https://www.tmtpost.com/7957716.html",
+        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-18T08:56:20.042831"
+      },
+      "f63a720516a702e8d7f3bc69b2a13c418f0e760439036b64678762463d02d4e1": {
+        "title": "对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定",
+        "link": "https://www.tmtpost.com/7958198.html",
+        "published_date": "Sat, 18 Apr 2026 11:06:00 GMT",
+        "first_seen": "2026-04-18T08:56:20.042833"
+      },
+      "cc46960b5f83d2a5e8b4050950829535ce6a578624a50c0bf7c84600150c3bfc": {
+        "title": "五城突围80亿氢能试点：谁在为每公斤十元的价差买单",
+        "link": "https://www.tmtpost.com/7958174.html",
+        "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
+        "first_seen": "2026-04-18T08:56:20.042835"
       }
     },
     "Finance": {
@@ -6346,7 +6376,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-18T06:16:25.285814",
+    "Technology": "2026-04-18T08:56:20.042837",
     "Finance": "2026-04-18T06:16:07.980926",
     "Ai": "2026-04-18T06:16:08.106524"
   }

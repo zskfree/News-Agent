@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Apr 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2026 06:16:25 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 08:56:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:56:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力</title>
-      <link>https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力]]&gt;</description>
+      <title>V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资</title>
+      <link>https://www.tmtpost.com/7958219.html</link>
+      <description>&lt;![CDATA[V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958219.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化</title>
+      <link>https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“有了AI，人们却过得越来越累了”</title>
+      <link>https://www.tmtpost.com/7957716.html</link>
+      <description>&lt;![CDATA[“有了AI，人们却过得越来越累了”]]&gt;</description>
       <pubDate>Sat, 18 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957716.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现</title>
-      <link>https://www.tmtpost.com/7956493.html</link>
-      <description>&lt;![CDATA[三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956493.html</guid>
+      <title>对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定</title>
+      <link>https://www.tmtpost.com/7958198.html</link>
+      <description>&lt;![CDATA[对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958198.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 首次融资，AGI 理想向资本低头？</title>
-      <link>https://www.tmtpost.com/7958205.html</link>
-      <description>&lt;![CDATA[DeepSeek 首次融资，AGI 理想向资本低头？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958205.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>设计行业的“棺材板”，要被Claude Design盖上了</title>
-      <link>https://www.tmtpost.com/7958212.html</link>
-      <description>&lt;![CDATA[设计行业的“棺材板”，要被Claude Design盖上了]]&gt;</description>
+      <title>五城突围80亿氢能试点：谁在为每公斤十元的价差买单</title>
+      <link>https://www.tmtpost.com/7958174.html</link>
+      <description>&lt;![CDATA[五城突围80亿氢能试点：谁在为每公斤十元的价差买单]]&gt;</description>
       <pubDate>Sat, 18 Apr 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958212.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI的真正战场在“黑暗森林”</title>
-      <link>https://www.tmtpost.com/7957747.html</link>
-      <description>&lt;![CDATA[AI的真正战场在“黑暗森林”]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957747.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958174.html</guid>
       <category>Technology</category>
     </item>
   </channel>
