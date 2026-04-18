@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e795134c6ca6a9c15a1dd009af3bdee9c83cf2dc06ec6f4bb837b17bac360e7b": {
-        "title": "全球推理计算量暴涨一万倍背后",
-        "link": "https://www.tmtpost.com/7920955.html",
-        "published_date": "Thu, 19 Mar 2026 15:33:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.160789"
-      },
-      "8b8ec10339393912b4caec2b3bba9902982bf13d25ef90835f5ebdf6f4dcf55d": {
-        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
-        "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 19 Mar 2026 14:35:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.160802"
-      },
-      "4e5bcbaed407f186c36607387cb10c87245c2c1ad0febc415864481a5ff12e45": {
-        "title": "从“聪明的废物”到“数字员工”，智能体落地如何破局",
-        "link": "https://www.tmtpost.com/7920695.html",
-        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.160804"
-      },
-      "fe9ef3bc45ac193b3084b28b1eca6e0ad4b13ea47837f84e6882a68a947bfd6f": {
-        "title": "算力告急，Token 暴涨：Agent时代的阿里云如何估值？",
-        "link": "https://www.tmtpost.com/7920576.html",
-        "published_date": "Thu, 19 Mar 2026 11:46:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.160807"
-      },
-      "a73ca04e0239ee3112e16fe6683740c179e2b7ae8e6dc421eaf5e99e53261a99": {
-        "title": "在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌",
-        "link": "https://www.tmtpost.com/7919981.html",
-        "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.160809"
-      },
-      "1f3d10a4a7052343838ee9f2b1306f2c5e70a51fe2d4aca4e7e1c2e032053616": {
-        "title": "视触觉仿生指尖落地，纬钛机器人切入具身智能核心赛道",
-        "link": "https://www.tmtpost.com/7920609.html",
-        "published_date": "Thu, 19 Mar 2026 23:12:00 GMT",
-        "first_seen": "2026-03-19T23:33:50.294651"
-      },
-      "1e936c353bce740c62a75c0a44af86936bea1f1b48f29e3eb0ac5b34aab94160": {
-        "title": "算力回流暗战：英伟达H200，成了地平线征程7的隐形粮仓？",
-        "link": "https://www.tmtpost.com/7920108.html",
-        "published_date": "Thu, 19 Mar 2026 19:23:00 GMT",
-        "first_seen": "2026-03-19T23:33:50.294659"
-      },
-      "a2f73d31d049e1c6420fec3d70d0ae6924270e0343b7e0fa04b29eb2760ece36": {
-        "title": "Alibaba DingTalk CEO: Two Major Structural Opportunities Behind Tokenomics",
-        "link": "https://www.tmtpost.com/7921848.html",
-        "published_date": "Thu, 19 Mar 2026 22:18:00 GMT",
-        "first_seen": "2026-03-19T23:33:50.294662"
-      },
-      "113e3afc246410badc31cba82f9c10d2096bd2bdafa6afc5eb455c0e24cad87a": {
-        "title": "构建 AI 的“第二大脑”：大规模多模态记忆平台技术实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/E8tbY8hNSjwU5iqxpY02?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 19 Mar 2026 10:05:00 GMT",
-        "first_seen": "2026-03-19T23:33:50.294664"
-      },
-      "8dd2a563a89d1b33890ac0725fb5ad7ac4a3abca2d3760940b03c2dfa1f6890f": {
-        "title": "5.5亿再启跨界“棋局”，包装纸龙头“豪赌”国产GPU芯片 | 并购一线",
-        "link": "https://www.tmtpost.com/7921752.html",
-        "published_date": "Thu, 19 Mar 2026 20:48:00 GMT",
-        "first_seen": "2026-03-19T23:33:50.294665"
-      },
       "6a17dccd03e3968fc0f386291812c069f087006fd89b5094d05c5492e28a73d0": {
         "title": "【钛晨报】事关人民银行法、金融稳定法等立法修法，央行部署今年重点工作；阿里CEO吴泳铭：平头哥不排除IPO，目前暂无明确时间表；马斯克：SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片",
         "link": "https://www.tmtpost.com/7921802.html",
@@ -2701,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7958174.html",
         "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
         "first_seen": "2026-04-18T08:56:20.042835"
+      },
+      "ee71d77617a098a9c0147b51e8ddaece8c0052f79eb6c3a129f59ecd9d2738eb": {
+        "title": "微软是如何穿越30年周期的",
+        "link": "https://www.tmtpost.com/7958334.html",
+        "published_date": "Sat, 18 Apr 2026 20:20:00 GMT",
+        "first_seen": "2026-04-18T23:39:52.714606"
+      },
+      "e325842d98b7738970b2924e4cf9e1953601980f27cbab2fbe5cd3485966b835": {
+        "title": "当核心人才可以被精准定价：DeepSeek遭遇人才困局",
+        "link": "https://www.tmtpost.com/7958318.html",
+        "published_date": "Sat, 18 Apr 2026 20:24:00 GMT",
+        "first_seen": "2026-04-18T23:39:52.714612"
+      },
+      "3ce29cbc9045ce31abf157842182b7620e82885e2d352111d0c9d7dc43aeb336": {
+        "title": "AI时代，音乐行业的钱会流向哪里？",
+        "link": "https://www.tmtpost.com/7958395.html",
+        "published_date": "Sat, 18 Apr 2026 20:20:00 GMT",
+        "first_seen": "2026-04-18T23:39:52.714614"
+      },
+      "374c1afc04443e67dee4c6d74c0410caaa15ef7db2a55f11a7db8b91c435933f": {
+        "title": "百度三战本地生活背后的生意逻辑",
+        "link": "https://www.tmtpost.com/7957471.html",
+        "published_date": "Sat, 18 Apr 2026 10:27:00 GMT",
+        "first_seen": "2026-04-18T23:39:52.714616"
+      },
+      "924bd9934bc3f2ceb64f59b48087fe7a1dcb2665b4a05019a7c1271dad7f7a97": {
+        "title": "美光科技正在助力市场上最火热的价值型ETF大幅跑赢大盘",
+        "link": "https://www.tmtpost.com/7958265.html",
+        "published_date": "Sat, 18 Apr 2026 11:07:00 GMT",
+        "first_seen": "2026-04-18T23:39:52.714618"
       }
     },
     "Finance": {
-      "6cb7aa86d05a4a428eaf310c33d7358cd5be88e5fbbc7549e01f38985f6e2339": {
-        "title": "Oil and stocks swing as Iran war ignites fresh tumult in markets",
-        "link": "https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86",
-        "published_date": "Thu, 19 Mar 2026 23:13:00 GMT",
-        "first_seen": "2026-03-19T23:34:10.476343"
-      },
-      "06f29b70a60b7f9262be5cc3ec9c716040bad1af4c264cc232293026013cdcdc": {
-        "title": "ECB holds interest rates at 2% as energy prices soar",
-        "link": "https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd",
-        "published_date": "Thu, 19 Mar 2026 14:11:00 GMT",
-        "first_seen": "2026-03-19T23:34:10.476351"
-      },
-      "352ef95df92ded048edc2fa6c9dcbadab583f34d63a0151a2359b965bb33e247": {
-        "title": "The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.",
-        "link": "https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Mar 2026 22:06:00 GMT",
-        "first_seen": "2026-03-19T23:34:10.476354"
-      },
-      "a200b643a594209ad6a35b574e3f93f4a6eaf82b515d62825d55d557d04748e9": {
-        "title": "This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers",
-        "link": "https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories",
-        "published_date": "Thu, 19 Mar 2026 22:55:00 GMT",
-        "first_seen": "2026-03-19T23:34:10.476356"
-      },
-      "587a5c7484e5a3df40e5b2578802980bcf70f6aa02f11fb6bbc14c86d7c1ebbb": {
-        "title": "India’s central bank battles to protect rupee from Iran war fallout",
-        "link": "https://www.ft.com/content/56162e25-17dd-4db7-ba76-98fca2700923",
-        "published_date": "Thu, 19 Mar 2026 21:00:00 GMT",
-        "first_seen": "2026-03-19T23:34:10.476358"
-      },
       "9a791803d0efd9ab07a4da6868e279a1b3b1579526ecd1573a2573cedbbc99c5": {
         "title": "The war over tail risks is in full swing",
         "link": "https://www.ft.com/content/f20feee2-0c85-4138-9c41-86b691b74a06",
@@ -4893,45 +4833,39 @@
         "link": "https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6",
         "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-18T06:16:07.980924"
+      },
+      "087d2a0860f844d569c596912deb9a82daf71285c1783b2e747f3563c284b291": {
+        "title": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
+        "link": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
+        "published_date": "Sat, 18 Apr 2026 15:10:00 GMT",
+        "first_seen": "2026-04-18T23:39:31.934824"
+      },
+      "bb8dd0ba2f5706033ad0e75ce284c7bc49ae68b4c8d47c7a20589ae1fa2bacaa": {
+        "title": "Economic pain from Iran war will hit poor countries hardest, officials say",
+        "link": "https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06",
+        "published_date": "Sat, 18 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-18T23:39:31.934833"
+      },
+      "ae19f626754f681a3e90d6e5bd9ce07a1c06cdbab340e550d30e2da03f77dd3a": {
+        "title": "Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results",
+        "link": "https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories",
+        "published_date": "Sat, 18 Apr 2026 19:43:00 GMT",
+        "first_seen": "2026-04-18T23:39:31.934836"
+      },
+      "4a487d9cee75a45d70be9d5cd2e1c25a598696c6ee1cefc421b01b228fc68902": {
+        "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
+        "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
+        "published_date": "Sat, 18 Apr 2026 22:42:00 GMT",
+        "first_seen": "2026-04-18T23:39:31.934838"
+      },
+      "e73216880431a4637ee191d4669ddc9f7668c1750bc26c2639306639afcf215b": {
+        "title": "This ‘hidden’ price of oil is going to hit your electric bill next",
+        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
+        "published_date": "Sat, 18 Apr 2026 19:16:00 GMT",
+        "first_seen": "2026-04-18T23:39:31.934839"
       }
     },
     "Ai": {
-      "b043051f0aee4c1415f8c35bc1bade2b6a9f27683c9eea2eaee4a51c3efd19e3": {
-        "title": "2026-03-19日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-19/",
-        "published_date": "Thu, 19 Mar 2026 09:37:00 GMT",
-        "first_seen": "2026-03-19T09:02:41.346580"
-      },
-      "3e08beedbcf2c3ce45c26c544cfd403b6128aabb01527460e29fa9e50d6e8dbb": {
-        "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
-        "link": "https://www.qbitai.com/2026/03/389442.html",
-        "published_date": "Thu, 19 Mar 2026 11:02:00 GMT",
-        "first_seen": "2026-03-19T23:34:20.931305"
-      },
-      "57167ddb281a19f572dd7417f9079cb8bb7a37273214f36bd6f70c2025e4ce6d": {
-        "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
-        "link": "https://www.qbitai.com/2026/03/389559.html",
-        "published_date": "Thu, 19 Mar 2026 12:07:00 GMT",
-        "first_seen": "2026-03-19T23:34:20.931311"
-      },
-      "8a4859026e08eddd9b8da0c1224fd970d63eefb5aaf2fa11fb6c943c4bc2c781": {
-        "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
-        "link": "https://www.qbitai.com/2026/03/389556.html",
-        "published_date": "Thu, 19 Mar 2026 12:05:00 GMT",
-        "first_seen": "2026-03-19T23:34:20.931314"
-      },
-      "131ba92475b94a7b2c2a30af0af1efc920f90c2b4349dcb79620d49b22fc6c44": {
-        "title": "斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国",
-        "link": "https://www.qbitai.com/2026/03/389315.html",
-        "published_date": "Thu, 19 Mar 2026 10:20:00 GMT",
-        "first_seen": "2026-03-19T23:34:20.931315"
-      },
-      "e2ffb0ef01c7d621814f2b037be741de195248e530878367e9542cff223bf695": {
-        "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
-        "link": "https://www.qbitai.com/2026/03/389447.html",
-        "published_date": "Thu, 19 Mar 2026 11:35:00 GMT",
-        "first_seen": "2026-03-19T23:34:20.931318"
-      },
       "853fd989111522b6d5652166e7af26809b88159b648e540e3626aae4424ce108": {
         "title": "黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶",
         "link": "https://www.qbitai.com/2026/03/389569.html",
@@ -6371,13 +6305,25 @@
         "link": "https://www.qbitai.com/2026/04/402636.html",
         "published_date": "Sat, 18 Apr 2026 01:10:00 GMT",
         "first_seen": "2026-04-18T06:16:08.106521"
+      },
+      "8896e4751f121f1db83778c88b8c9d03f2b6b36f849ae7b97cf42cce93f70ebe": {
+        "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+        "link": "https://www.qbitai.com/2026/04/402988.html",
+        "published_date": "Sat, 18 Apr 2026 15:58:00 GMT",
+        "first_seen": "2026-04-18T23:39:32.081501"
+      },
+      "dec32e13e9be351f7ad64dee7abd569c14df4e728c2582c15d03d5f48ff444f1": {
+        "title": "OpenClaw的风，已经吹进了奶茶圈",
+        "link": "https://www.qbitai.com/2026/04/402965.html",
+        "published_date": "Sat, 18 Apr 2026 15:48:00 GMT",
+        "first_seen": "2026-04-18T23:39:32.081509"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-18T08:56:20.042837",
-    "Finance": "2026-04-18T06:16:07.980926",
-    "Ai": "2026-04-18T06:16:08.106524"
+    "Technology": "2026-04-18T23:39:52.714620",
+    "Finance": "2026-04-18T23:39:31.934842",
+    "Ai": "2026-04-18T23:39:32.081512"
   }
 }

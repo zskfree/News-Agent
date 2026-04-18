@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-18 08:56
+**最后更新时间**: 2026-04-18 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-18 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs](https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 22:42
+
+#### [Caregiving has become so crazy expensive that it’s financially devastating to most families](https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 20:29
+
+#### [Planning to age in place? Watch out for these hidden costs.](https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 20:29
+
+#### [Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results](https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:43
+
+#### [This ‘hidden’ price of oil is going to hit your electric bill next](https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:16
+
+#### [These stocks and ETFs can beat the ‘sell in May’ slump — and dodge the 2026 midterm blues](https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Burnham allies identify fresh path back to Westminster as Starmer battles calls to quit](https://www.ft.com/content/2310ab87-db53-4293-9f34-8b3a5331911e)
+**发布时间**: 2026-04-18 16:00
+
+#### [Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened](https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22)
+**发布时间**: 2026-04-18 15:10
+
+#### [Anthropic’s Mythos AI model tests limits of global cyber defences](https://www.ft.com/content/b9e79c53-9f14-4b7a-b250-d7a230ca8433)
+**发布时间**: 2026-04-18 11:00
+
+#### [Trump family’s World Liberty crypto venture faces investor backlash](https://www.ft.com/content/ac47ca32-e526-4a5a-bb30-5b3efebe8e0d)
+**发布时间**: 2026-04-18 11:00
+
+#### [Economic pain from Iran war will hit poor countries hardest, officials say](https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06)
+**发布时间**: 2026-04-18 11:00
+
+#### [Can Trump finally make a nuclear deal with Iran?](https://www.ft.com/content/7a06181a-310f-4ccb-98e8-3e5c920141d4)
+**发布时间**: 2026-04-18 09:23
 
 ---
 
