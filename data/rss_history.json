@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6a17dccd03e3968fc0f386291812c069f087006fd89b5094d05c5492e28a73d0": {
-        "title": "【钛晨报】事关人民银行法、金融稳定法等立法修法，央行部署今年重点工作；阿里CEO吴泳铭：平头哥不排除IPO，目前暂无明确时间表；马斯克：SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片",
-        "link": "https://www.tmtpost.com/7921802.html",
-        "published_date": "Fri, 20 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-20T05:54:30.877439"
-      },
-      "d1761bf09a0ee1b72d23182b88667a7537436843231b6021ed3769d154142fee": {
-        "title": "OpenAI祭出桌面超级应用，AI PC厂商恐成硬件代工厂",
-        "link": "https://www.tmtpost.com/7922016.html",
-        "published_date": "Fri, 20 Mar 2026 09:21:00 GMT",
-        "first_seen": "2026-03-20T05:54:30.877449"
-      },
-      "b58951e5c6811c76a238dddb0318d7b4f4a4be7689fc9f8f74e44744ccb4182a": {
-        "title": "Arm执行副总裁Drew Henry：物理AI领域，芯片设计并非以极致性能和超高内存带宽为核心",
-        "link": "https://www.tmtpost.com/7922211.html",
-        "published_date": "Fri, 20 Mar 2026 12:21:00 GMT",
-        "first_seen": "2026-03-20T05:54:30.877451"
-      },
-      "a8df87cddec4cb818f2354b78db6d6676036485f8694455e787e0ee89fc5c787": {
-        "title": "IB 网络垄断已破，国产算力十万卡级难题何在？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7920837.html",
-        "published_date": "Fri, 20 Mar 2026 10:35:00 GMT",
-        "first_seen": "2026-03-20T05:54:30.877453"
-      },
-      "6b381d295c6afd39c2df1bce84a7114241ef7a8f523648344f4efbf40c23a961": {
-        "title": "Meta内部Agent失控升级：首个Sev 1级事故曝光，系统数据裸奔了两小时",
-        "link": "https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 10:26:00 GMT",
-        "first_seen": "2026-03-20T05:54:30.877455"
-      },
       "1a05f662df125478c448e857e6a2de6c4bb67c49a60148b912298a0a05d03074": {
         "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
         "link": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7958265.html",
         "published_date": "Sat, 18 Apr 2026 11:07:00 GMT",
         "first_seen": "2026-04-18T23:39:52.714618"
+      },
+      "c1170058171b10482137aea92bf6497a77b15e16697a9116badfb33e6c6d264d": {
+        "title": "吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争",
+        "link": "https://www.tmtpost.com/7958630.html",
+        "published_date": "Sun, 19 Apr 2026 10:54:00 GMT",
+        "first_seen": "2026-04-19T06:50:25.681164"
+      },
+      "df9432bf84b4b4c9794371d0da747893ce27c947d4de8f4cf5ca3eb07ed16a46": {
+        "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+        "link": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 19 Apr 2026 08:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:25.681172"
+      },
+      "c0d79dcf0f96e233e141e95726bd0d53b1d085dc18ff08ca4f0c1891ee7e7b75": {
+        "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
+        "link": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 19 Apr 2026 08:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:25.681174"
+      },
+      "e34f96a006a6a1b72866af8b4873d65285df38d09a66454d81bd4b6cad180dd1": {
+        "title": "10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片",
+        "link": "https://www.tmtpost.com/7956924.html",
+        "published_date": "Sun, 19 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:25.681176"
+      },
+      "bc95fa968d2b7e7bae7ad6eae778c5b212f00a4145fa1d3eb70606da55cc3a2a": {
+        "title": "“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI",
+        "link": "https://www.tmtpost.com/7958735.html",
+        "published_date": "Sun, 19 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:25.681177"
       }
     },
     "Finance": {
-      "9a791803d0efd9ab07a4da6868e279a1b3b1579526ecd1573a2573cedbbc99c5": {
-        "title": "The war over tail risks is in full swing",
-        "link": "https://www.ft.com/content/f20feee2-0c85-4138-9c41-86b691b74a06",
-        "published_date": "Fri, 20 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-20T05:54:45.251265"
-      },
-      "f14f014231e80a722f269a2b124cc55928f7a13c63142da71c706e2bd43541c6": {
-        "title": "China cracks down on fuel and fertiliser exports",
-        "link": "https://www.ft.com/content/3033f98c-f69a-4628-8806-3fe5a3ccda3b",
-        "published_date": "Fri, 20 Mar 2026 03:45:00 GMT",
-        "first_seen": "2026-03-20T05:54:45.251272"
-      },
-      "9e5f63467473c49379b2b37041576d6c1e9bb72422f70d2b8d3f9dbfc2731fbd": {
-        "title": "Supermicro co-founder charged in conspiracy to export Nvidia chips to China",
-        "link": "https://www.ft.com/content/d605ebac-bfae-4cec-a7d9-8696f2a5d748",
-        "published_date": "Fri, 20 Mar 2026 00:43:00 GMT",
-        "first_seen": "2026-03-20T05:54:45.251274"
-      },
-      "888e9c0358ea5f0f867263d179c850bc18f11bdc9a320801881ff34b5fc182aa": {
-        "title": "Airlines draw up contingency plans over jet fuel shortage fears",
-        "link": "https://www.ft.com/content/1d65be52-df93-41e3-869e-3194bc24f6a0",
-        "published_date": "Fri, 20 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-20T05:54:45.251276"
-      },
-      "1a71e8aa10e854c4be665acc5cb9984f0111f6ed436d8a284f212c478dedce43": {
-        "title": "Military briefing: the perils of the Hormuz escort plan",
-        "link": "https://www.ft.com/content/bb6a57d6-8d54-43a7-95b4-110e51fbc5db",
-        "published_date": "Fri, 20 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-20T05:54:45.251277"
-      },
       "49f5e39e96653bac4a8dde762a58f6899682f9ed9e7e4862b44cbcf648bdece6": {
         "title": "Unilever in talks to sell food division to spice and sauce maker McCormick",
         "link": "https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e",
@@ -4863,39 +4833,39 @@
         "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
         "published_date": "Sat, 18 Apr 2026 19:16:00 GMT",
         "first_seen": "2026-04-18T23:39:31.934839"
+      },
+      "e05279ec6c20cf4c24938436870137129c44a20dac2fc0c3ce5e322020002d4d": {
+        "title": "BlackRock warns of hit to European stocks from energy crisis",
+        "link": "https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb",
+        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.004753"
+      },
+      "656e396ef1c273015a62291c52d841bbebb42c84b07893ee338ea1ea58416d92": {
+        "title": "Wealth advisers made more than $2bn from private capital fees",
+        "link": "https://www.ft.com/content/dbc5aac7-fbfd-466a-aa46-bc562f249cec",
+        "published_date": "Sun, 19 Apr 2026 04:09:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.004762"
+      },
+      "0c161592432ecdab5f1b6daa8f6d50d1901dc09384020e7ef1def7de54fad056": {
+        "title": "Surge in HMRC probes over unpaid VAT by large companies",
+        "link": "https://www.ft.com/content/75e7a380-4859-4f82-9859-c84429b56f92",
+        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.004765"
+      },
+      "0637792247505ba49932727ead75149f9eeb2740847e5092eeb8a7c119142e8b": {
+        "title": "Brussels pushes remote working to ease energy crisis",
+        "link": "https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21",
+        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.004767"
+      },
+      "c0adc7584c1848cfd6a4659f80bdeaa5bfe8caf00de315d75e4de25cb05206f3": {
+        "title": "The annoyance economy isn’t going anywhere",
+        "link": "https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7",
+        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.004769"
       }
     },
     "Ai": {
-      "853fd989111522b6d5652166e7af26809b88159b648e540e3626aae4424ce108": {
-        "title": "黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶",
-        "link": "https://www.qbitai.com/2026/03/389569.html",
-        "published_date": "Fri, 20 Mar 2026 00:52:00 GMT",
-        "first_seen": "2026-03-20T05:54:57.387300"
-      },
-      "007e1891d256f3cdf8291ca00d882980a2149cbdff9610e165569a8ff9e21dbe": {
-        "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
-        "link": "https://www.qbitai.com/2026/03/389610.html",
-        "published_date": "Fri, 20 Mar 2026 02:11:00 GMT",
-        "first_seen": "2026-03-20T05:54:57.387307"
-      },
-      "4a375c4804af7530417480e2cdf1c29783b5edb6d19b8f85a83b35dfa24c56f7": {
-        "title": "Meta Agent失控泄密，小扎紧急拉响顶格警报",
-        "link": "https://www.qbitai.com/2026/03/389570.html",
-        "published_date": "Fri, 20 Mar 2026 00:52:00 GMT",
-        "first_seen": "2026-03-20T05:54:57.387310"
-      },
-      "b12bde00d97599f95d7f13423f30aa5aa0da8bec3e9a0a12799fedb988aae92a": {
-        "title": "Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了",
-        "link": "https://www.qbitai.com/2026/03/389673.html",
-        "published_date": "Fri, 20 Mar 2026 04:09:00 GMT",
-        "first_seen": "2026-03-20T05:54:57.387311"
-      },
-      "32d1a2bf259ce8dd7c59e7864002d58e032587c85470a7aaaf4f2423a818b966": {
-        "title": "OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布",
-        "link": "https://www.qbitai.com/2026/03/389666.html",
-        "published_date": "Fri, 20 Mar 2026 03:01:00 GMT",
-        "first_seen": "2026-03-20T05:54:57.387312"
-      },
       "acfab1632cc92d7248936332e64f8eead3a77852d5814927d7d81473f1359912": {
         "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
         "link": "https://www.qbitai.com/2026/03/390235.html",
@@ -6317,13 +6287,43 @@
         "link": "https://www.qbitai.com/2026/04/402965.html",
         "published_date": "Sat, 18 Apr 2026 15:48:00 GMT",
         "first_seen": "2026-04-18T23:39:32.081509"
+      },
+      "fc27710004f7a78ea51dbe070f20861593601a5958831928c6692a106085bd87": {
+        "title": "2026-04-19日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-19/",
+        "published_date": "Sun, 19 Apr 2026 09:46:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.157019"
+      },
+      "b05170a6f56491b5c7b54bc436ccc254bc8794962a33dd498ada36e6e58ddc56": {
+        "title": "马斯克来抖音卖老干妈了？？",
+        "link": "https://www.qbitai.com/2026/04/403308.html",
+        "published_date": "Sun, 19 Apr 2026 04:47:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.157028"
+      },
+      "c756df9a032ddf3c02d748da2bf950af9c0aa60f422c233257a7633e56d2c6a7": {
+        "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+        "link": "https://www.qbitai.com/2026/04/403214.html",
+        "published_date": "Sun, 19 Apr 2026 04:25:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.157030"
+      },
+      "1e68cdf16bfbfec0682e0ed39632eb4b927ec294d8af09ccac2adf64f6a9f999": {
+        "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+        "link": "https://www.qbitai.com/2026/04/403210.html",
+        "published_date": "Sun, 19 Apr 2026 04:14:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.157032"
+      },
+      "21fd82c55ddf2a5464a3f5db894635f58a811ee9343f74bf2a76f5f468f8bb92": {
+        "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+        "link": "https://www.qbitai.com/2026/04/403126.html",
+        "published_date": "Sun, 19 Apr 2026 03:24:00 GMT",
+        "first_seen": "2026-04-19T06:50:08.157033"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-18T23:39:52.714620",
-    "Finance": "2026-04-18T23:39:31.934842",
-    "Ai": "2026-04-18T23:39:32.081512"
+    "Technology": "2026-04-19T06:50:25.681179",
+    "Finance": "2026-04-19T06:50:08.004771",
+    "Ai": "2026-04-19T06:50:08.157035"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Apr 2026 23:37:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2026 23:39:32 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 06:47:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:50:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用</title>
-      <link>https://www.qbitai.com/2026/04/402988.html</link>
-      <description>&lt;![CDATA[AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/402988.html</guid>
+      <title>2026-04-19日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-19/</link>
+      <description>&lt;![CDATA[2026-04-19日刊]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-19/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenClaw的风，已经吹进了奶茶圈</title>
-      <link>https://www.qbitai.com/2026/04/402965.html</link>
-      <description>&lt;![CDATA[OpenClaw的风，已经吹进了奶茶圈]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/402965.html</guid>
+      <title>马斯克来抖音卖老干妈了？？</title>
+      <link>https://www.qbitai.com/2026/04/403308.html</link>
+      <description>&lt;![CDATA[马斯克来抖音卖老干妈了？？]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403308.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决</title>
+      <link>https://www.qbitai.com/2026/04/403214.html</link>
+      <description>&lt;![CDATA[教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 04:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403214.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”</title>
+      <link>https://www.qbitai.com/2026/04/403210.html</link>
+      <description>&lt;![CDATA[黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 04:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403210.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况</title>
+      <link>https://www.qbitai.com/2026/04/403126.html</link>
+      <description>&lt;![CDATA[王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 03:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403126.html</guid>
       <category>Ai</category>
     </item>
   </channel>

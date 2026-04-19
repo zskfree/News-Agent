@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-18 23:39
+**最后更新时间**: 2026-04-19 06:49
+
+---
+
+## 🆕 最新更新 (2026-04-19 06:49)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一年少卖3240万台手机！传音控股利润“腰斩”，竺兆江3年狂揽超10亿分红](https://www.tmtpost.com/7958639.html)
+**发布时间**: 2026-04-19 12:00
+
+#### [“明星高管”加持，但千里科技的转型只迈出了一小步](https://www.tmtpost.com/7958645.html)
+**发布时间**: 2026-04-19 12:00
+
+#### [10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片](https://www.tmtpost.com/7956924.html)
+**发布时间**: 2026-04-19 12:00
+
+#### [五大电力营收集体下滑，净利润却创历史新高？煤价救了火电，却救不了新能源](https://www.tmtpost.com/7958733.html)
+**发布时间**: 2026-04-19 12:00
+
+#### [“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI](https://www.tmtpost.com/7958735.html)
+**发布时间**: 2026-04-19 12:00
+
+#### [吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争](https://www.tmtpost.com/7958630.html)
+**发布时间**: 2026-04-19 10:54
+
+#### [三年亏14亿，千亿芯片巨头辟谣“友商抢单”](https://www.tmtpost.com/7958586.html)
+**发布时间**: 2026-04-19 10:54
+
+#### [宇树证明了自己，现在轮到智元了](https://www.tmtpost.com/7958725.html)
+**发布时间**: 2026-04-19 10:34
+
+#### [罗马仕倒下后，充电宝们学乖了吗？](https://www.tmtpost.com/7958574.html)
+**发布时间**: 2026-04-19 08:40
+
+#### [35.97亿罚单，撕开电商黄金时代最丑陋的一道疤](https://www.tmtpost.com/7958494.html)
+**发布时间**: 2026-04-19 08:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2050大会召集令 | 我们为科技年青人准备了N多玩法，保姆级指南在此](https://www.infoq.cn/article/M7UiLINVJHX6jboGsfgk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-19 10:26
+
+#### [Cursor 3 推出智能体优先界面，突破传统 IDE 模式](https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-19 10:00
+
+#### [多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决](https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-19 08:00
+
+#### [AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍](https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-19 08:00
 
 ---
 

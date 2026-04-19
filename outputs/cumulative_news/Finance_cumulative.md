@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-18 23:39
+**最后更新时间**: 2026-04-19 06:49
+
+---
+
+## 🆕 最新更新 (2026-04-19 06:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wealth advisers made more than $2bn from private capital fees](https://www.ft.com/content/dbc5aac7-fbfd-466a-aa46-bc562f249cec)
+**发布时间**: 2026-04-19 04:09
+
+#### [How Iran has been studying lessons from the war in Ukraine](https://www.ft.com/content/08629b39-9d82-4046-a1b9-3023009ffa81)
+**发布时间**: 2026-04-19 04:00
+
+#### [Of course Trump thinks he’s the Messiah — his disciples tell him so](https://www.ft.com/content/529de651-24b2-4e96-b01e-18cd71b17739)
+**发布时间**: 2026-04-19 04:00
+
+#### [The annoyance economy isn’t going anywhere](https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7)
+**发布时间**: 2026-04-19 04:00
+
+#### [Surge in HMRC probes over unpaid VAT by large companies](https://www.ft.com/content/75e7a380-4859-4f82-9859-c84429b56f92)
+**发布时间**: 2026-04-19 04:00
+
+#### [BlackRock warns of hit to European stocks from energy crisis](https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb)
+**发布时间**: 2026-04-19 04:00
+
+#### [Brussels pushes remote working to ease energy crisis](https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21)
+**发布时间**: 2026-04-19 04:00
 
 ---
 
