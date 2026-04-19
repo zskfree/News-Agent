@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1a05f662df125478c448e857e6a2de6c4bb67c49a60148b912298a0a05d03074": {
-        "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
-        "link": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.211946"
-      },
-      "3d048072e4a7f97f9798472a6658197ba1bdb2fbb2b631e0b6b3fbf3513214f9": {
-        "title": "Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通",
-        "link": "https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 16:20:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.211956"
-      },
-      "a5432742a3547c7b8e34a698d200906478b6c0d53272ffe24c3d312539887f1f": {
-        "title": "全世界都以为它是DeepSeek V4，结果却是小米交的“作业”",
-        "link": "https://www.tmtpost.com/7921866.html",
-        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.211959"
-      },
-      "7efdb1502a8b026ae511031c00a90e08dfc7a7f6373607b62e0d7c5104bcfa03": {
-        "title": "腾讯云实现规模盈利，AI开始赚钱了？｜看财报",
-        "link": "https://www.tmtpost.com/7922270.html",
-        "published_date": "Fri, 20 Mar 2026 14:21:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.211962"
-      },
-      "2e2cd4b8715ce948740fdaa1958ccd8ebdb4115000f5a972a4c05ef618f32f39": {
-        "title": "争做 “英伟达平替”，地平线悬了吗？",
-        "link": "https://www.tmtpost.com/7922209.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.211963"
-      },
       "01b68de233aacef8bb0c268487df64ea2fb60f5d92ad442ff67ffe8cfd17e4a8": {
         "title": "阿里惊魂：电商触顶，AI成“全村的希望”",
         "link": "https://www.tmtpost.com/7922891.html",
@@ -2671,21 +2641,39 @@
         "link": "https://www.tmtpost.com/7958735.html",
         "published_date": "Sun, 19 Apr 2026 12:00:00 GMT",
         "first_seen": "2026-04-19T06:50:25.681177"
+      },
+      "6e53904ed9d3229aa46aac13ad5f897aa25b6e239a4181e158c7155503a3fe6e": {
+        "title": "暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533076&idx=1&sn=245937e8333920bde9c4cf5900282618",
+        "published_date": "Sun, 19 Apr 2026 11:28:00 GMT",
+        "first_seen": "2026-04-19T08:58:55.383104"
+      },
+      "b83212476220885218b16cf299294ef1bf5bc65d58a33915dcf1f41e11aa5ed3": {
+        "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
+        "link": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 19 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-19T08:58:55.383112"
+      },
+      "e3f6e795fc115274bd820fd07ec726fb792fe5f847f626028522f1e8ff6c5635": {
+        "title": "机器人马拉松跑赢人   但“有限性”就是人类的护城河",
+        "link": "https://www.tmtpost.com/7958835.html",
+        "published_date": "Sun, 19 Apr 2026 16:33:00 GMT",
+        "first_seen": "2026-04-19T08:58:55.383115"
+      },
+      "1a0bd23efe2c182dde9bca25de4d39b1e7b1923d39d131df914c2407fdfb9db5": {
+        "title": "三年亏14亿，千亿芯片巨头辟谣“友商抢单”",
+        "link": "https://www.tmtpost.com/7958586.html",
+        "published_date": "Sun, 19 Apr 2026 10:54:00 GMT",
+        "first_seen": "2026-04-19T08:58:55.383117"
+      },
+      "83ea81065fdf5abb97a045ed4250acfd5faffddcf6b4610052af4f13b284986e": {
+        "title": "宇树证明了自己，现在轮到智元了",
+        "link": "https://www.tmtpost.com/7958725.html",
+        "published_date": "Sun, 19 Apr 2026 10:34:00 GMT",
+        "first_seen": "2026-04-19T08:58:55.383118"
       }
     },
     "Finance": {
-      "49f5e39e96653bac4a8dde762a58f6899682f9ed9e7e4862b44cbcf648bdece6": {
-        "title": "Unilever in talks to sell food division to spice and sauce maker McCormick",
-        "link": "https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e",
-        "published_date": "Fri, 20 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.246452"
-      },
-      "b6bf2b4d6527a03c9da55b9eb652cf29d6e7a99a951bf5f61fb1a465f86feee6": {
-        "title": "UK borrowing higher than expected at £14.3bn in February",
-        "link": "https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6",
-        "published_date": "Fri, 20 Mar 2026 07:34:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.246460"
-      },
       "bbde2679f2786078f895aa06d5960051f0021db081936bd1b21169dcb7b684a9": {
         "title": "Iran war is the greatest threat to global energy ‘in history’, warns IEA",
         "link": "https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320",
@@ -4866,18 +4854,6 @@
       }
     },
     "Ai": {
-      "acfab1632cc92d7248936332e64f8eead3a77852d5814927d7d81473f1359912": {
-        "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
-        "link": "https://www.qbitai.com/2026/03/390235.html",
-        "published_date": "Fri, 20 Mar 2026 07:40:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.393694"
-      },
-      "fd36199bae2706f281449cde63513fc651ff262474438de0331b4ad244d432bf": {
-        "title": "2026-03-20日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-20/",
-        "published_date": "Fri, 20 Mar 2026 09:47:00 GMT",
-        "first_seen": "2026-03-20T08:43:47.393703"
-      },
       "71656c03aa6a50ebc72240dcc69565d43a84eb3d022ada3151d6fed51497a586": {
         "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
         "link": "https://www.qbitai.com/2026/03/390320.html",
@@ -6322,7 +6298,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-19T06:50:25.681179",
+    "Technology": "2026-04-19T08:58:55.383121",
     "Finance": "2026-04-19T06:50:08.004771",
     "Ai": "2026-04-19T06:50:08.157035"
   }

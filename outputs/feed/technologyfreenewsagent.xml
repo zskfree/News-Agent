@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Apr 2026 06:49:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2026 06:50:25 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 08:58:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 08:58:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争</title>
-      <link>https://www.tmtpost.com/7958630.html</link>
-      <description>&lt;![CDATA[吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争]]&gt;</description>
+      <title>暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533076&amp;idx=1&amp;sn=245937e8333920bde9c4cf5900282618</link>
+      <description>&lt;![CDATA[暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533076&amp;idx=1&amp;sn=245937e8333920bde9c4cf5900282618</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Cursor 3 推出智能体优先界面，突破传统 IDE 模式</title>
+      <link>https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 3 推出智能体优先界面，突破传统 IDE 模式]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>机器人马拉松跑赢人   但“有限性”就是人类的护城河</title>
+      <link>https://www.tmtpost.com/7958835.html</link>
+      <description>&lt;![CDATA[机器人马拉松跑赢人   但“有限性”就是人类的护城河]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958835.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>三年亏14亿，千亿芯片巨头辟谣“友商抢单”</title>
+      <link>https://www.tmtpost.com/7958586.html</link>
+      <description>&lt;![CDATA[三年亏14亿，千亿芯片巨头辟谣“友商抢单”]]&gt;</description>
       <pubDate>Sun, 19 Apr 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958630.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958586.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决</title>
-      <link>https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍</title>
-      <link>https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片</title>
-      <link>https://www.tmtpost.com/7956924.html</link>
-      <description>&lt;![CDATA[10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956924.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI</title>
-      <link>https://www.tmtpost.com/7958735.html</link>
-      <description>&lt;![CDATA[“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958735.html</guid>
+      <title>宇树证明了自己，现在轮到智元了</title>
+      <link>https://www.tmtpost.com/7958725.html</link>
+      <description>&lt;![CDATA[宇树证明了自己，现在轮到智元了]]&gt;</description>
+      <pubDate>Sun, 19 Apr 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958725.html</guid>
       <category>Technology</category>
     </item>
   </channel>
