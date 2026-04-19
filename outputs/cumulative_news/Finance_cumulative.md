@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-19 06:49
+**最后更新时间**: 2026-04-19 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-19 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty](https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 23:29
+
+#### [The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.](https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 20:41
+
+#### [These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.](https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 20:13
+
+#### [I’m planning to retire at 60. Should I sell my house and invest the $500,000?](https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 12:36
+
+#### [‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?](https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Property asking prices rise in April despite higher UK mortgage rates](https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171)
+**发布时间**: 2026-04-19 23:01
+
+#### [Foreign carmakers turn to Chinese technology to remain relevant](https://www.ft.com/content/b17b605a-ac5d-4456-928b-7c19ea6c05b9)
+**发布时间**: 2026-04-19 23:01
+
+#### [US navy seizes Iranian ship after it breaches blockade, says Trump](https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf)
+**发布时间**: 2026-04-19 22:08
+
+#### [Pro-Russia ex-president claims victory in Bulgaria’s elections](https://www.ft.com/content/0a4fc2b2-cebf-4202-9ac5-56a965fb262e)
+**发布时间**: 2026-04-19 21:37
+
+#### [Starmer battles for Downing Street future amid Mandelson vetting scandal](https://www.ft.com/content/e5369e6b-b5d7-4e04-9c43-4adb6d8c231e)
+**发布时间**: 2026-04-19 21:00
+
+#### [Impact of Iran war will hurt US even after conflict ends, economists warn](https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a)
+**发布时间**: 2026-04-19 17:00
+
+#### [Is London ready for the Green Party?](https://www.ft.com/content/4e9cf4ff-c3f8-4049-a897-5957501f97b8)
+**发布时间**: 2026-04-19 15:00
+
+#### [The US and Europe are still stronger together](https://www.ft.com/content/e4c9ee6e-5db5-436f-9b14-a625b9a77145)
+**发布时间**: 2026-04-19 12:00
+
+#### [The stock market’s new approach to valuation](https://www.ft.com/content/7227583f-3335-4cc2-a1af-24db59ebe3fa)
+**发布时间**: 2026-04-19 11:00
 
 ---
 

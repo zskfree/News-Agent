@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "01b68de233aacef8bb0c268487df64ea2fb60f5d92ad442ff67ffe8cfd17e4a8": {
-        "title": "阿里惊魂：电商触顶，AI成“全村的希望”",
-        "link": "https://www.tmtpost.com/7922891.html",
-        "published_date": "Fri, 20 Mar 2026 19:24:00 GMT",
-        "first_seen": "2026-03-20T23:31:46.247842"
-      },
-      "fde3e0fadbc06d1813c229cd9056aef050c3c01f8abb957436bc2e2a50efbbe2": {
-        "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
-        "link": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 18:11:00 GMT",
-        "first_seen": "2026-03-20T23:31:46.247852"
-      },
-      "253cd1a588497b721471f55f36d2cf84eeedf05733120726dda6eb304214cc85": {
-        "title": "20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库",
-        "link": "https://www.tmtpost.com/7921666.html",
-        "published_date": "Fri, 20 Mar 2026 21:42:00 GMT",
-        "first_seen": "2026-03-20T23:31:46.247854"
-      },
-      "9129deb423cb861bebca8c60ee19244cab86a7d3d1c8702dc067917c997656cb": {
-        "title": "为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营",
-        "link": "https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 18:30:00 GMT",
-        "first_seen": "2026-03-20T23:31:46.247856"
-      },
-      "63c5e0b4f9cc575b1101d6cd39dd80c826e64313794e66fc3d1569ecc1f37bf4": {
-        "title": "半导体设备的下一个金矿，藏在封装厂里",
-        "link": "https://www.tmtpost.com/7922915.html",
-        "published_date": "Fri, 20 Mar 2026 19:24:00 GMT",
-        "first_seen": "2026-03-20T23:31:46.247858"
-      },
       "f68cc8b57d7490dd2b887303e5dfcc8928fe8fdec0b77eccf8c7185bdac71663": {
         "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
         "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7958725.html",
         "published_date": "Sun, 19 Apr 2026 10:34:00 GMT",
         "first_seen": "2026-04-19T08:58:55.383118"
+      },
+      "4f5e4365ee3add9db611275c994a14979c126fc71aa3d97a06d190cbbf0fc91e": {
+        "title": "【数智周报】DeepSeek据悉正首次洽谈外部资本，估值超100亿美元；台积电CEO：全力扩产仍难以满足强劲AI需求；斯坦福报告：中美顶级大模型差距“实质性消除”",
+        "link": "https://www.tmtpost.com/7958991.html",
+        "published_date": "Sun, 19 Apr 2026 20:05:00 GMT",
+        "first_seen": "2026-04-19T23:39:41.203159"
+      },
+      "a053d802cf8b58977b059eb5aa71b8f1aaf52036160f9842d0467ec3e2b6152a": {
+        "title": "一年时间，机器人从“马拉松笑话”到超越“最强人类”",
+        "link": "https://www.tmtpost.com/7958826.html",
+        "published_date": "Sun, 19 Apr 2026 16:59:00 GMT",
+        "first_seen": "2026-04-19T23:39:41.203165"
+      },
+      "127fffe8e668a2b7ecca0deee363f529bc0ed30adbc2cb6f9d26491c8c867b48": {
+        "title": "眼镜之后，AI指环、项链争抢智能穿戴万亿风口",
+        "link": "https://www.tmtpost.com/7958958.html",
+        "published_date": "Sun, 19 Apr 2026 20:22:00 GMT",
+        "first_seen": "2026-04-19T23:39:41.203167"
+      },
+      "c68844067a8f41155f79ec4724bee3c9e723ebf46aaf727a7cc001afff402829": {
+        "title": "DeepSeek需要重走来时路",
+        "link": "https://www.tmtpost.com/7958810.html",
+        "published_date": "Sun, 19 Apr 2026 16:13:00 GMT",
+        "first_seen": "2026-04-19T23:39:41.203169"
+      },
+      "95b78107756fb46a9b32cae70c54e07ce02fab26938f8ae4b77d0fbd7e495da1": {
+        "title": "【钛晨报】农业农村部召开生猪产业发展座谈会：推动猪价合理回升；荣耀机器人包揽北京亦庄机器人半马比赛前三；特斯拉Robotaxi服务扩展至达拉斯、休斯顿",
+        "link": "https://www.tmtpost.com/7958970.html",
+        "published_date": "Mon, 20 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-19T23:39:41.203170"
       }
     },
     "Finance": {
-      "bbde2679f2786078f895aa06d5960051f0021db081936bd1b21169dcb7b684a9": {
-        "title": "Iran war is the greatest threat to global energy ‘in history’, warns IEA",
-        "link": "https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320",
-        "published_date": "Fri, 20 Mar 2026 12:38:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.137383"
-      },
-      "6b26538029e91e097085162f950a994241c4f55167381120005fcea95362c55b": {
-        "title": "Goldman’s chief warns private credit risks show cycle ‘has not been repealed’",
-        "link": "https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900",
-        "published_date": "Fri, 20 Mar 2026 14:05:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.137390"
-      },
-      "e22ed5025c8b6cdfc9e4e0e0cc52e32c570c98d98cb94ca8fdbb5016b6cdfd7c": {
-        "title": "UK borrowing costs reach highest level since 2008 as economic hit from war mounts",
-        "link": "https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf",
-        "published_date": "Fri, 20 Mar 2026 18:20:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.137392"
-      },
-      "f5a4775b04ef5db9383f6caef94a8acd7070e8f31fbfc26071ab22420a369e01": {
-        "title": "The first major stock index just fell into correction territory. Will others follow?",
-        "link": "https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories",
-        "published_date": "Fri, 20 Mar 2026 21:18:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.137394"
-      },
-      "87ab45644154de49c7c6c08ffb6e025aac0bb38e5ea8d1ba15c8c4e38cf046a1": {
-        "title": "Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.",
-        "link": "https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories",
-        "published_date": "Fri, 20 Mar 2026 21:36:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.137396"
-      },
       "60c61fb678a670a9fcb7f424b62c40ef1e96e7470a158a3a9a88c8c32f7498cf": {
         "title": "Iran war raises the risk of a bond market shock",
         "link": "https://www.ft.com/content/46962f7d-5ee9-4813-a53c-2961a82bf82d",
@@ -4851,15 +4821,39 @@
         "link": "https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7",
         "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-19T06:50:08.004769"
+      },
+      "767a46211cd780f73b1888f5872d96ab3840f878d62dfd13ad52f80746d65e8f": {
+        "title": "Impact of Iran war will hurt US even after conflict ends, economists warn",
+        "link": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a",
+        "published_date": "Sun, 19 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.711893"
+      },
+      "5d33a4e026a6cf4c5f711e0a65fbe414e69269e054e426f72538a0d82261cb0a": {
+        "title": "The stock market’s new approach to valuation",
+        "link": "https://www.ft.com/content/7227583f-3335-4cc2-a1af-24db59ebe3fa",
+        "published_date": "Sun, 19 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.711903"
+      },
+      "4344c57dfdebcf902e4c40d563f2e17fded04a82bd048617a85c79db7ed3168a": {
+        "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
+        "published_date": "Sun, 19 Apr 2026 20:41:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.711906"
+      },
+      "d8f5e9e69f264d095dfbe38a43a8a75caad395c377d987be91fa6d371d7c7b1f": {
+        "title": "Foreign carmakers turn to Chinese technology to remain relevant",
+        "link": "https://www.ft.com/content/b17b605a-ac5d-4456-928b-7c19ea6c05b9",
+        "published_date": "Sun, 19 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.711908"
+      },
+      "869148dc15ae1978678d11c699c6a070e20c744017566abd66b8a99242a393e8": {
+        "title": "Property asking prices rise in April despite higher UK mortgage rates",
+        "link": "https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171",
+        "published_date": "Sun, 19 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.711910"
       }
     },
     "Ai": {
-      "71656c03aa6a50ebc72240dcc69565d43a84eb3d022ada3151d6fed51497a586": {
-        "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
-        "link": "https://www.qbitai.com/2026/03/390320.html",
-        "published_date": "Fri, 20 Mar 2026 09:49:00 GMT",
-        "first_seen": "2026-03-20T23:32:04.283766"
-      },
       "ea5613bed744a2823ad04bb128964ec9846148ccf4dbdddd25acc11f5be74d4e": {
         "title": "2026-03-21日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-21/",
@@ -6293,13 +6287,37 @@
         "link": "https://www.qbitai.com/2026/04/403126.html",
         "published_date": "Sun, 19 Apr 2026 03:24:00 GMT",
         "first_seen": "2026-04-19T06:50:08.157033"
+      },
+      "a7c6019629147b29c5b1ddeb9f7bb2c04dbfa104e2fdf433e29db9190442c90f": {
+        "title": "Kimi新论文：把KVCache玩成新商业模式了",
+        "link": "https://www.qbitai.com/2026/04/403528.html",
+        "published_date": "Sun, 19 Apr 2026 10:19:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.861261"
+      },
+      "f5625830b16762c3ddec9cf22a2c55c70eceda789d7433ab022718e9785273c6": {
+        "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+        "link": "https://www.qbitai.com/2026/04/403226.html",
+        "published_date": "Sun, 19 Apr 2026 10:13:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.861269"
+      },
+      "aa609be93470e1b7a77691c05747b94216f41b1642bd5b8d5c22c711b08660ba": {
+        "title": "大模型架构的下半场",
+        "link": "https://www.qbitai.com/2026/04/403515.html",
+        "published_date": "Sun, 19 Apr 2026 10:12:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.861271"
+      },
+      "1e79c6caa63b53c66dd794bfb0d39b54ce82f2356e50c8238bb605a16b692c30": {
+        "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+        "link": "https://www.qbitai.com/2026/04/403505.html",
+        "published_date": "Sun, 19 Apr 2026 07:50:00 GMT",
+        "first_seen": "2026-04-19T23:39:24.861272"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-19T08:58:55.383121",
-    "Finance": "2026-04-19T06:50:08.004771",
-    "Ai": "2026-04-19T06:50:08.157035"
+    "Technology": "2026-04-19T23:39:41.203173",
+    "Finance": "2026-04-19T23:39:24.711912",
+    "Ai": "2026-04-19T23:39:24.861275"
   }
 }
