@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f68cc8b57d7490dd2b887303e5dfcc8928fe8fdec0b77eccf8c7185bdac71663": {
-        "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 21 Mar 2026 09:54:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.488605"
-      },
-      "194537196238fa301efc54d9d0098ad00247267b221e93d4041dec31f961cee2": {
-        "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
-        "link": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 21 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.488615"
-      },
-      "9854d22e37d1c46adb3095038394426af0faecb0034d221da2d593a46e2a1185": {
-        "title": "AI加速可控核聚变商业化，新烛时代完成6000万元天使轮融资｜融资速递",
-        "link": "https://www.tmtpost.com/7923389.html",
-        "published_date": "Sat, 21 Mar 2026 12:14:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.488618"
-      },
-      "1343cbc8857a11670fc583098d8fea92a0f238e6533f5c5ca1d86ece3eb34b61": {
-        "title": "硬刚跨国巨头，毛利超75%，“医学影像大模型第一股”要来了",
-        "link": "https://www.tmtpost.com/7922973.html",
-        "published_date": "Sat, 21 Mar 2026 10:20:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.488620"
-      },
-      "0c8743c89b8dc5842267b7a533c419207ae2aa92a431676a3df11965694f8a73": {
-        "title": "AI风越大，云计算越贵",
-        "link": "https://www.tmtpost.com/7922940.html",
-        "published_date": "Sat, 21 Mar 2026 10:23:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.488622"
-      },
       "e985d754199337adca65a97808a52c6ac5b235b586bb6cd51e87f7e6e74996e3": {
         "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
         "link": "https://www.tmtpost.com/7923764.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7958970.html",
         "published_date": "Mon, 20 Apr 2026 07:20:00 GMT",
         "first_seen": "2026-04-19T23:39:41.203170"
+      },
+      "8033c3049d370f8f62d9b60b9b8b9bbcc44eafb54851df7e12a098531bce18da": {
+        "title": "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择",
+        "link": "https://www.tmtpost.com/7959286.html",
+        "published_date": "Mon, 20 Apr 2026 13:39:00 GMT",
+        "first_seen": "2026-04-20T07:20:08.874961"
+      },
+      "16fb6543b09585bad29adfc144f35a77bb0aaf65d2179160f5b20d0548d12571": {
+        "title": "“开源已死”？怕被 OpenAI 和 Mythos 把代码挖成筛子，4 万 Star 项目突然闭源！",
+        "link": "https://www.infoq.cn/article/7BfrHmegIaitwiTb40Rl?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 14:07:00 GMT",
+        "first_seen": "2026-04-20T07:20:08.874966"
+      },
+      "a0c5b5f95c6deb45a3227682f951323112fcc2d517d8d42cfb2fd3d6195cbdf7": {
+        "title": "谷歌推出 TurboQuant 压缩技术，有望在低性能硬件上以更快的推理速度提供相同的准确率",
+        "link": "https://www.infoq.cn/article/T8zMkEAi0ZcalK2ZfhcL?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-20T07:20:08.874968"
+      },
+      "446f4b96b5cad196990c05879b63d332cf76c02047925ea066bfb4d2c08c2cb8": {
+        "title": "具身智能公司开始积极「进厂」打工",
+        "link": "https://www.tmtpost.com/7959655.html",
+        "published_date": "Mon, 20 Apr 2026 14:32:00 GMT",
+        "first_seen": "2026-04-20T07:20:08.874970"
+      },
+      "4f30863fe8f3646b2d254d357848a54e65bf681b6044c8b7574eb8fcca24a6e9": {
+        "title": "AI芯片初创公司，进入“斩杀线”？",
+        "link": "https://www.tmtpost.com/7959344.html",
+        "published_date": "Mon, 20 Apr 2026 13:55:00 GMT",
+        "first_seen": "2026-04-20T07:20:08.874971"
       }
     },
     "Finance": {
-      "60c61fb678a670a9fcb7f424b62c40ef1e96e7470a158a3a9a88c8c32f7498cf": {
-        "title": "Iran war raises the risk of a bond market shock",
-        "link": "https://www.ft.com/content/46962f7d-5ee9-4813-a53c-2961a82bf82d",
-        "published_date": "Sat, 21 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.527369"
-      },
-      "08ef40fdfbdd3f42f4ca063d24d6a7f79a323ef7e69d572ff88273025e373b7f": {
-        "title": "Energy crisis upends Rachel Reeves’ growth plan amid hints of recession",
-        "link": "https://www.ft.com/content/b018297a-9736-4a07-9b3c-0c06abdfbbe4",
-        "published_date": "Sat, 21 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.527378"
-      },
-      "6a140caf1af4172eabc6f3223750f890c587220d07a22dfc80968f5691f1de44": {
-        "title": "The new old world",
-        "link": "https://www.ft.com/content/a42eab06-4e4a-4a7d-8b96-51b832da379b",
-        "published_date": "Sat, 21 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.527380"
-      },
-      "932dae85b25cbb1a0c13250cac2a13a0514f37bea9592a8262400f3e91a40fee": {
-        "title": "History is tragically repeating itself in Lebanon",
-        "link": "https://www.ft.com/content/4ddb419b-0f60-425d-8046-e85d03b2cda7",
-        "published_date": "Sat, 21 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.527382"
-      },
-      "c47b6d7c7fb6512103c6696012c94f707638a21e392e9ea3edd35d2b2e8e442b": {
-        "title": "Trump considers ‘winding down’ US military operations against Iran",
-        "link": "https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0",
-        "published_date": "Fri, 20 Mar 2026 23:40:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.527384"
-      },
       "518de5d5d10accbbbcda355857ec558019c14eb5d2da91fe3690f5e05d696339": {
         "title": "The IRS has changed the tax rules for 2026 — here’s how to keep more money and not overpay",
         "link": "https://www.marketwatch.com/story/the-irs-has-changed-the-tax-rules-for-2026-heres-how-to-keep-more-money-and-not-overpay-da5a97bf?mod=mw_rss_topstories",
@@ -4851,21 +4821,39 @@
         "link": "https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171",
         "published_date": "Sun, 19 Apr 2026 23:01:00 GMT",
         "first_seen": "2026-04-19T23:39:24.711910"
+      },
+      "979ae626c186a322537df15ccdfb03b27990c5cffbb4caadde4e16f675ebd391": {
+        "title": "Kevin Warsh: Trump’s next fall guy at the Fed?",
+        "link": "https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d",
+        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.063461"
+      },
+      "7877d0c781bd1b94a58a3832bdd48f50535042f9f414fafa825626597192903d": {
+        "title": "Russian economy is faltering despite oil windfall, Sweden warns",
+        "link": "https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd",
+        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.063468"
+      },
+      "d5c9f2827f9bd1a54c283e7f44e6cf37eaf44f62bf560bc096c086a53e27bc1b": {
+        "title": "The return of the e-merging markets",
+        "link": "https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8",
+        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.063471"
+      },
+      "d24181eae6d7545cdf6bd4367802239c68332290741b0c2aa9483247db92e6e4": {
+        "title": "Tariff refunds are coming: Here’s who will get them first",
+        "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 06:48:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.063472"
+      },
+      "4fdf3d037c491f5217acb030db2884c2127432f3448a82917c3148475f9061c8": {
+        "title": "FTSE bosses receive 18% pay bump this year in global fight for talent",
+        "link": "https://www.ft.com/content/474f0ddb-b9ad-4d09-89e6-928dd98a7650",
+        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.063474"
       }
     },
     "Ai": {
-      "ea5613bed744a2823ad04bb128964ec9846148ccf4dbdddd25acc11f5be74d4e": {
-        "title": "2026-03-21日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-21/",
-        "published_date": "Sat, 21 Mar 2026 09:22:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.688957"
-      },
-      "9ff6de54b2255b4c506664b820ffe672ef0e4c149c6515302070f4c68425c366": {
-        "title": "对话越疆刘培超：春晚隐藏具身选手，却是百亿市值大玩家",
-        "link": "https://www.qbitai.com/2026/03/390531.html",
-        "published_date": "Sat, 21 Mar 2026 02:42:00 GMT",
-        "first_seen": "2026-03-21T05:45:47.688965"
-      },
       "74946b45776c3572cea6681e4151056201b6fd1b0e7c4f7c638cf329bbb209e9": {
         "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
         "link": "https://www.qbitai.com/2026/03/390945.html",
@@ -6311,13 +6299,19 @@
         "link": "https://www.qbitai.com/2026/04/403505.html",
         "published_date": "Sun, 19 Apr 2026 07:50:00 GMT",
         "first_seen": "2026-04-19T23:39:24.861272"
+      },
+      "036dd51ba7f15b516e16b6153a7933259bc3b89e60d90d412f923141150a27c9": {
+        "title": "2026-04-20日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-20/",
+        "published_date": "Mon, 20 Apr 2026 10:08:00 GMT",
+        "first_seen": "2026-04-20T07:19:40.187036"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-19T23:39:41.203173",
-    "Finance": "2026-04-19T23:39:24.711912",
-    "Ai": "2026-04-19T23:39:24.861275"
+    "Technology": "2026-04-20T07:20:08.874973",
+    "Finance": "2026-04-20T07:19:40.063476",
+    "Ai": "2026-04-20T07:19:40.187044"
   }
 }

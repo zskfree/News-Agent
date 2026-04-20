@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-19 23:39
+**最后更新时间**: 2026-04-20 07:19
+
+---
+
+## 🆕 最新更新 (2026-04-20 07:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [没拿VC一分钱，武汉诞生2000亿独角兽](https://www.tmtpost.com/7959685.html)
+**发布时间**: 2026-04-20 14:49
+
+#### [具身智能公司开始积极「进厂」打工](https://www.tmtpost.com/7959655.html)
+**发布时间**: 2026-04-20 14:32
+
+#### [AI斩杀线，Anthropic还要制造多少条？](https://www.tmtpost.com/7959461.html)
+**发布时间**: 2026-04-20 14:17
+
+#### [梁文锋的当务之急](https://www.tmtpost.com/7959453.html)
+**发布时间**: 2026-04-20 14:09
+
+#### [又一个AI赛道爆发，暴涨300%，有商家年入千万](https://www.tmtpost.com/7959400.html)
+**发布时间**: 2026-04-20 14:02
+
+#### [AI芯片初创公司，进入“斩杀线”？](https://www.tmtpost.com/7959344.html)
+**发布时间**: 2026-04-20 13:55
+
+#### [挑落茅台的A股新王，为何诞生在陕西？](https://www.tmtpost.com/7957602.html)
+**发布时间**: 2026-04-20 13:50
+
+#### [传统赛道卷无可卷，万豪们开始集体卷“养生”](https://www.tmtpost.com/7959343.html)
+**发布时间**: 2026-04-20 13:47
+
+#### [阿里AI赛马：高德不想只当背景板](https://www.tmtpost.com/7959278.html)
+**发布时间**: 2026-04-20 13:47
+
+#### [两大巨头财报戳破四大真相：种植牙行业真的变天了](https://www.tmtpost.com/7959294.html)
+**发布时间**: 2026-04-20 13:39
+
+#### [OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择](https://www.tmtpost.com/7959286.html)
+**发布时间**: 2026-04-20 13:39
+
+#### [我们的品牌为啥缺少“娱乐精神”？](https://www.tmtpost.com/7959339.html)
+**发布时间**: 2026-04-20 13:24
+
+#### [恺英网络接连入局SLG，《三国：天下归心》首日表现如何？](https://www.tmtpost.com/7959324.html)
+**发布时间**: 2026-04-20 13:24
+
+#### [围猎东鹏补水啦](https://www.tmtpost.com/7959291.html)
+**发布时间**: 2026-04-20 13:24
+
+#### [你在网上买的“大牌尾货”，可能来自小区里的回收箱](https://www.tmtpost.com/7959393.html)
+**发布时间**: 2026-04-20 13:18
+
+#### [十万自媒体成了车企最大负担](https://www.tmtpost.com/7959425.html)
+**发布时间**: 2026-04-20 12:41
+
+#### [先进封装，大战再起](https://www.tmtpost.com/7959338.html)
+**发布时间**: 2026-04-20 12:37
+
+#### [荣耀机器人夺冠，只是“应试”高手？](https://www.tmtpost.com/7959355.html)
+**发布时间**: 2026-04-20 12:33
+
+#### [涨价 “续命”、裁员 “增效”，海康威视能起死为生吗？](https://www.tmtpost.com/7959334.html)
+**发布时间**: 2026-04-20 12:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“开源已死”？怕被 OpenAI 和 Mythos 把代码挖成筛子，4 万 Star 项目突然闭源！](https://www.infoq.cn/article/7BfrHmegIaitwiTb40Rl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 14:07
+
+#### [曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报](https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 13:33
+
+#### [取消AI考核、零裁员！股价暴跌82%后，多邻国走出了一条反硅谷之路](https://www.infoq.cn/article/WTHlU3Ngf5ir9IvWLpXr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 13:22
+
+#### [谷歌推出 TurboQuant 压缩技术，有望在低性能硬件上以更快的推理速度提供相同的准确率](https://www.infoq.cn/article/T8zMkEAi0ZcalK2ZfhcL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 13:00
+
+#### [Lyft使用AI和人机协同扩展了全球范围内的本地化能力](https://www.infoq.cn/article/O2Lw0iIZcT6Ip9WrxvsV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 12:00
+
+#### [新生论坛@2050@2026：500+脑暴席卷云栖，年青就要最大声分享！](https://www.infoq.cn/article/ypRgJsViltYUI2SHyy0U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 11:53
+
+#### [谷歌发布Gemma 4，专注于本地优先、设备级的AI推理](https://www.infoq.cn/article/ghIyvrElfFO6uVAq9jBm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 11:00
+
+#### [分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践](https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 10:08
+
+#### [超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统](https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 10:00
+
+#### [Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI](https://www.infoq.cn/article/45AierI5NQrz9AgLoMFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-20 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [可口的社交魔芋：Tomodachi Life 简评](https://sspai.com/post/108805)
+**发布时间**: 2026-04-20 11:02
+
+#### [派早报：低空司回应无人机「起飞难」](https://sspai.com/post/108885)
+**发布时间**: 2026-04-20 07:06
 
 ---
 

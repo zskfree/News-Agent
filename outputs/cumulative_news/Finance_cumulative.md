@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-19 23:39
+**最后更新时间**: 2026-04-20 07:19
+
+---
+
+## 🆕 最新更新 (2026-04-20 07:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tariff refunds are coming: Here’s who will get them first](https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 06:48
+
+#### [New York City is floating a $500 million second-home tax. It would hurt industries that support thousands of jobs](https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 22:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US navy seizes Iranian ship after it breaches blockade](https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf)
+**发布时间**: 2026-04-20 05:56
+
+#### [Kevin Warsh: Trump’s next fall guy at the Fed?](https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d)
+**发布时间**: 2026-04-20 04:00
+
+#### [The return of the e-merging markets](https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8)
+**发布时间**: 2026-04-20 04:00
+
+#### [FTSE bosses receive 18% pay bump this year in global fight for talent](https://www.ft.com/content/474f0ddb-b9ad-4d09-89e6-928dd98a7650)
+**发布时间**: 2026-04-20 04:00
+
+#### [Russian economy is faltering despite oil windfall, Sweden warns](https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd)
+**发布时间**: 2026-04-20 04:00
+
+#### [Defence spending is ‘magnet’ for criminals, warns EU fraud chief](https://www.ft.com/content/fe78cee3-c1a0-453a-b7da-683963c6e52a)
+**发布时间**: 2026-04-20 04:00
+
+#### [Ex-Foreign Office head takes legal advice over Mandelson vetting dismissal](https://www.ft.com/content/034361bc-641b-4a73-a3d1-3ee76c4ed573)
+**发布时间**: 2026-04-19 10:27
 
 ---
 

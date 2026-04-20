@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2026 23:39:24 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 07:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:19:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kimi新论文：把KVCache玩成新商业模式了</title>
-      <link>https://www.qbitai.com/2026/04/403528.html</link>
-      <description>&lt;![CDATA[Kimi新论文：把KVCache玩成新商业模式了]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403528.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开</title>
-      <link>https://www.qbitai.com/2026/04/403226.html</link>
-      <description>&lt;![CDATA[横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403226.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>大模型架构的下半场</title>
-      <link>https://www.qbitai.com/2026/04/403515.html</link>
-      <description>&lt;![CDATA[大模型架构的下半场]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403515.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环</title>
-      <link>https://www.qbitai.com/2026/04/403505.html</link>
-      <description>&lt;![CDATA[高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环]]&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 07:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403505.html</guid>
+      <title>2026-04-20日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-20/</link>
+      <description>&lt;![CDATA[2026-04-20日刊]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-20/</guid>
       <category>Ai</category>
     </item>
   </channel>
