@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 07:19
+**最后更新时间**: 2026-04-20 10:02
+
+---
+
+## 🆕 最新更新 (2026-04-20 10:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I will retire in my early 50s. I have $3.2 million — only $200,000 is in a traditional IRA. Have I beaten the IRS?](https://www.marketwatch.com/story/i-will-retire-in-my-early-50s-i-have-3-2-million-only-200-000-is-in-a-traditional-ira-have-i-beaten-the-irs-3ab5df98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:30
+
+#### [Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty](https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:21
+
+#### [Singer Meghan Trainor finally sold her SoCal home for $6.8 million just before canceling her tour](https://www.marketwatch.com/story/singer-meghan-trainor-finally-sold-her-socal-home-for-6-8-million-just-before-canceling-her-tour-f2d3c976?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:05
+
+#### [‘Red flags’: Ryan Seacrest on what he looks for in a date, and he lists stunning Napa Valley estate for $19.8 million](https://www.marketwatch.com/story/red-flags-ryan-seacrest-on-what-he-looks-for-in-a-date-and-he-lists-stunning-napa-valley-estate-for-19-8-million-aa52e6c2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:01
+
+#### [How the world’s leading political risk consultant now assesses cease-fire after Strait of Hormuz closed again](https://www.marketwatch.com/story/worlds-leading-political-risk-consultant-says-a-collapse-in-the-strait-of-hormuz-cease-fire-is-still-a-big-threat-36845cbc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:59
+
+#### [American Airlines says it’s not interested in merging with United. One analyst sees consolidation elsewhere.](https://www.marketwatch.com/story/american-airlines-says-its-not-interested-in-merging-with-united-one-analyst-sees-consolidation-elsewhere-141f4354?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:24
+
+#### [The narrow foundations of the current rally — one company is responsible for half of S&P 500 earnings revisions](https://www.marketwatch.com/story/the-narrow-foundations-of-the-current-rally-one-company-is-responsible-for-half-of-s-p-500-earnings-revisions-68aadd26?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer set for vetting showdown with ‘heartbroken’ Olly Robbins](https://www.ft.com/content/9f8d01dd-4ef8-475e-8b76-9cb0e325fb60)
+**发布时间**: 2026-04-20 09:03
+
+#### [The Mandelson affair is about the government’s judgment, not process](https://www.ft.com/content/1ca6de4b-a178-41f8-ba2c-499393457c3f)
+**发布时间**: 2026-04-20 08:30
+
+#### [Japan issues tsunami warning after strong earthquake](https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf)
+**发布时间**: 2026-04-20 08:24
+
+#### [Oil rebounds as Iran threatens to retaliate for US attack on cargo ship](https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2)
+**发布时间**: 2026-04-20 07:17
+
+#### [Out of office, still hyper-responsive](https://www.ft.com/content/98ab4190-9dbc-4f6c-bc3f-1a8afd0f4cc1)
+**发布时间**: 2026-04-20 04:00
+
+#### [AI boom poised to be ‘massively disinflationary’, Northern Trust says](https://www.ft.com/content/7ec229f4-200e-4f34-ba6d-0642397d03e3)
+**发布时间**: 2026-04-20 04:00
 
 ---
 

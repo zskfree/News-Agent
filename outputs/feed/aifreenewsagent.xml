@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 07:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 07:19:40 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 09:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:02:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-20日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-20/</link>
-      <description>&lt;![CDATA[2026-04-20日刊]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-20/</guid>
+      <title>阿里发布Wan2.7-Image，人类偏好盲测评分国内第一</title>
+      <link>https://www.qbitai.com/2026/04/403733.html</link>
+      <description>&lt;![CDATA[阿里发布Wan2.7-Image，人类偏好盲测评分国内第一]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403733.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”</title>
+      <link>https://www.qbitai.com/2026/04/403729.html</link>
+      <description>&lt;![CDATA[国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403729.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek</title>
+      <link>https://www.qbitai.com/2026/04/403708.html</link>
+      <description>&lt;![CDATA[Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403708.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？</title>
+      <link>https://www.qbitai.com/2026/04/403701.html</link>
+      <description>&lt;![CDATA[全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403701.html</guid>
       <category>Ai</category>
     </item>
   </channel>
