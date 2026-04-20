@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 10:02
+**最后更新时间**: 2026-04-20 23:45
+
+---
+
+## 🆕 最新更新 (2026-04-20 23:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support](https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 22:52
+
+#### [Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.](https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 22:43
+
+#### [This AI power company ousted its CEO. Why that could help it sign up its first customer.](https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:49
+
+#### [Do I earn too much to contribute to an IRA?](https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [Why Cadence’s ‘ChatGPT moment’ may have already arrived](https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [AST SpaceMobile’s stock falls after failure of Jeff Bezos-backed satellite launch](https://www.marketwatch.com/story/ast-spacemobiles-stock-is-falling-after-failure-of-jeff-bezos-backed-satellite-launch-a46cb653?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?](https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:19
+
+#### [McDonald’s $3 menu is about to kick off. Here’s why Wall Street is already a fan.](https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:06
+
+#### [Psychedelic stocks surge after Trump supports using drugs like LSD for mental health](https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 20:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump’s labour secretary resigns in latest US cabinet departure](https://www.ft.com/content/0e02bf64-13ca-427f-807f-145e45f5166a)
+**发布时间**: 2026-04-20 22:14
+
+#### [Apple CEO Tim Cook to hand over to John Ternus in September](https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615)
+**发布时间**: 2026-04-20 21:03
+
+#### [Starmer accused of scapegoating officials over Mandelson scandal](https://www.ft.com/content/8d62a74d-77d0-4dc8-a8f1-32347ef4f2de)
+**发布时间**: 2026-04-20 18:52
+
+#### [Kevin Warsh to say Fed independence not threatened by political pressure](https://www.ft.com/content/3654184a-4ffc-44d9-9d21-61229bf9fbd7)
+**发布时间**: 2026-04-20 18:10
+
+#### [The Mandelson fiasco reveals the true nature of Starmerism](https://www.ft.com/content/0f339074-031f-4068-83ec-8547b48c9533)
+**发布时间**: 2026-04-20 17:42
+
+#### [Trump’s social media posts have transformed oil trading, says Citadel](https://www.ft.com/content/23b14d1b-8efa-4346-ab06-30db101e7748)
+**发布时间**: 2026-04-20 17:14
+
+#### [Miliband to unveil move to delink UK gas and electricity prices](https://www.ft.com/content/03332af3-6fea-4e60-b0db-510172e7bb10)
+**发布时间**: 2026-04-20 12:31
+
+#### [The Iran crisis has not yet peaked](https://www.ft.com/content/84566148-26de-4bb7-9d7c-d943c4c904ca)
+**发布时间**: 2026-04-20 11:42
+
+#### [‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says](https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2)
+**发布时间**: 2026-04-20 07:17
 
 ---
 

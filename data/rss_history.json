@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "69193b228cea2260d73437a9b7f74c95a9914cc6b239ca62ef05fd630bf36ac3": {
-        "title": "Cursor套壳风波24小时反转，自研神话一朝破灭？技术护城河存疑",
-        "link": "https://www.tmtpost.com/7923905.html",
-        "published_date": "Sat, 21 Mar 2026 18:31:00 GMT",
-        "first_seen": "2026-03-21T23:28:05.479517"
-      },
-      "cc522952dd997aa28aba25fe0b95e5b7a021c7efd9c9b5d2cf7368457dbfea21": {
-        "title": "大厂养虾，Token成金：从“卖模型”到“建电网”",
-        "link": "https://www.tmtpost.com/7923712.html",
-        "published_date": "Sat, 21 Mar 2026 16:42:00 GMT",
-        "first_seen": "2026-03-21T23:28:05.479528"
-      },
-      "aa1ea1d64da4611b1948605c0ce97f0015e70bc7bb4c476aedfae35b11b7b8f1": {
-        "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
-        "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 21 Mar 2026 21:06:00 GMT",
-        "first_seen": "2026-03-21T23:28:05.479531"
-      },
-      "c495f0b70f845f8479e3e42a20f7a614f3826f9b2ccae338b20488eb991752e7": {
-        "title": "引爆光伏，上能电气、迈为股份带飞光伏板块， 中国光伏设备正卡住马斯克的脖子",
-        "link": "https://www.tmtpost.com/7923540.html",
-        "published_date": "Sat, 21 Mar 2026 10:57:00 GMT",
-        "first_seen": "2026-03-21T23:28:05.479533"
-      },
-      "fd32e2688d6fc9ce7978ad0ac0dd691b8cc850bac6a772fdc80e0976607c23f9": {
-        "title": "小米SU7告别等单，让其他车咋卖？",
-        "link": "https://www.tmtpost.com/7923387.html",
-        "published_date": "Sat, 21 Mar 2026 10:21:00 GMT",
-        "first_seen": "2026-03-21T23:28:05.479535"
-      },
       "57b1eda5033da34c9dbbf50025d8ce36b035e758c216e289ede028af4d7a2a6c": {
         "title": "【数智周报】黄仁勋豪言2027年AI芯片收入剑指1万亿美元；Cursor承认新模型基于Kimi训练并致歉；“木头姐”：人工智能已经提高了劳动生产率",
         "link": "https://www.tmtpost.com/7924052.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/ghIyvrElfFO6uVAq9jBm?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 20 Apr 2026 11:00:00 GMT",
         "first_seen": "2026-04-20T10:02:35.691276"
+      },
+      "032e6ce222a64c55f7d969ec0b9213e03d96416f1c071dabd852307772172f53": {
+        "title": "先进封装，大战再起",
+        "link": "https://www.tmtpost.com/7959338.html",
+        "published_date": "Mon, 20 Apr 2026 12:37:00 GMT",
+        "first_seen": "2026-04-20T23:46:38.745658"
+      },
+      "3028421116a19300a1a59bb184796dfd6ea3c697ecba9fd4ecde3457bfc9ddca": {
+        "title": "AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径",
+        "link": "https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 18:01:00 GMT",
+        "first_seen": "2026-04-20T23:46:38.745666"
+      },
+      "fbb980e55e280d6b9cf39ac5ec37a61d9634fd924dc08c9e02f07762b6d72281": {
+        "title": "AI Coding，终究是大厂的",
+        "link": "https://www.tmtpost.com/7960048.html",
+        "published_date": "Mon, 20 Apr 2026 18:36:00 GMT",
+        "first_seen": "2026-04-20T23:46:38.745668"
+      },
+      "59614f4094053f943f9d39db57a64d85b6504b6c959502864d2cbf8825565322": {
+        "title": "分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践",
+        "link": "https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 10:08:00 GMT",
+        "first_seen": "2026-04-20T23:46:38.745670"
+      },
+      "022d826519efca3112da7750cf005a7ec536ef1585f2a2729bd3142d4a3aa48e": {
+        "title": "对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实",
+        "link": "https://www.tmtpost.com/7960107.html",
+        "published_date": "Mon, 20 Apr 2026 19:04:00 GMT",
+        "first_seen": "2026-04-20T23:46:38.745671"
       }
     },
     "Finance": {
-      "518de5d5d10accbbbcda355857ec558019c14eb5d2da91fe3690f5e05d696339": {
-        "title": "The IRS has changed the tax rules for 2026 — here’s how to keep more money and not overpay",
-        "link": "https://www.marketwatch.com/story/the-irs-has-changed-the-tax-rules-for-2026-heres-how-to-keep-more-money-and-not-overpay-da5a97bf?mod=mw_rss_topstories",
-        "published_date": "Sat, 21 Mar 2026 18:14:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.524176"
-      },
-      "a93cf02eaeb9c2e25278caceb3c735c444ba3d73b71af2d8125aa5ef26f83c21": {
-        "title": "Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.",
-        "link": "https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?mod=mw_rss_topstories",
-        "published_date": "Sat, 21 Mar 2026 17:37:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.524183"
-      },
-      "6a77ce63029defcaea5fe3124035962789543e1c1c9d9b87bc7b0e445ca1784f": {
-        "title": "Annuities in 401(k) plans aren’t all they’re cracked up to be",
-        "link": "https://www.marketwatch.com/story/annuities-in-401-k-plans-arent-all-theyre-cracked-up-to-be-715bc50b?mod=mw_rss_topstories",
-        "published_date": "Sat, 21 Mar 2026 18:43:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.524185"
-      },
-      "7af7a140d05365469bb56eecb28bce16c3a657af832099a942228f7654a058a2": {
-        "title": "The stock market actually doesn’t care as much about oil prices as you think",
-        "link": "https://www.marketwatch.com/story/the-stock-market-actually-doesnt-care-as-much-about-oil-prices-as-you-think-ead59ede?mod=mw_rss_topstories",
-        "published_date": "Sat, 21 Mar 2026 18:48:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.524187"
-      },
-      "724c3f52dfcc8677fbcb5f34a18e5e935e9ebc8adb95d311666f60dc7b9720e7": {
-        "title": "US fertiliser bosses cash in as Iran war boosts shares",
-        "link": "https://www.ft.com/content/3dedd998-228e-4a24-b813-df324b4a25fa",
-        "published_date": "Sat, 21 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.524189"
-      },
       "71b65fc755a0529d87a2618592038aefd5108704441a61cad202b4fde55d4aba": {
         "title": "Trump sets 48-hour deadline for Iran to open Strait of Hormuz",
         "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
@@ -4881,21 +4851,39 @@
         "link": "https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf",
         "published_date": "Mon, 20 Apr 2026 08:24:00 GMT",
         "first_seen": "2026-04-20T10:02:19.709438"
+      },
+      "c02c5fc08a195077bfcdc919e6340b92b193d93892d15e06b3732efc2ed6d082": {
+        "title": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
+        "link": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 22:43:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.543135"
+      },
+      "1ceea6a07ca330228e64e19c4d3061a8684303edbc33a52887963748e15bb12f": {
+        "title": "Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support",
+        "link": "https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 22:52:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.543149"
+      },
+      "78992962572a74863386e939a26395586e359832177b18ad46d3711e751e700d": {
+        "title": "Trump’s social media posts have transformed oil trading, says Citadel",
+        "link": "https://www.ft.com/content/23b14d1b-8efa-4346-ab06-30db101e7748",
+        "published_date": "Mon, 20 Apr 2026 17:14:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.543152"
+      },
+      "e4649ec57108018b34792b0ae20232d863d0db71c5fcf6896d268f0435e6092d": {
+        "title": "Psychedelic stocks surge after Trump supports using drugs like LSD for mental health",
+        "link": "https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 20:51:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.543154"
+      },
+      "c596764caafe146b06181250e44453046dc714de3c1ef6ffddae204e1634a442": {
+        "title": "Why Cadence’s ‘ChatGPT moment’ may have already arrived",
+        "link": "https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 21:47:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.543157"
       }
     },
     "Ai": {
-      "74946b45776c3572cea6681e4151056201b6fd1b0e7c4f7c638cf329bbb209e9": {
-        "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
-        "link": "https://www.qbitai.com/2026/03/390945.html",
-        "published_date": "Sat, 21 Mar 2026 09:48:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.682186"
-      },
-      "9c38b5e89b3ca68cc9eb82b4c25a1a00de9e3a532832121be49fd69311595a82": {
-        "title": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
-        "link": "https://www.qbitai.com/2026/03/390924.html",
-        "published_date": "Sat, 21 Mar 2026 09:39:00 GMT",
-        "first_seen": "2026-03-21T23:28:21.682194"
-      },
       "b8adae6ad71aa3896bc558cd934ef8b3868ee8667fa4de3ee4d61940b48a3608": {
         "title": "2026-03-22日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-22/",
@@ -6359,13 +6347,19 @@
         "link": "https://www.qbitai.com/2026/04/403701.html",
         "published_date": "Mon, 20 Apr 2026 07:55:00 GMT",
         "first_seen": "2026-04-20T10:02:19.849580"
+      },
+      "630abb1e3560a496454491366a71cc67d9e9767bf62842b785b4bb1262c08da3": {
+        "title": "继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代",
+        "link": "https://www.qbitai.com/2026/04/403751.html",
+        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-20T23:45:58.686308"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-20T10:02:35.691278",
-    "Finance": "2026-04-20T10:02:19.709440",
-    "Ai": "2026-04-20T10:02:19.849583"
+    "Technology": "2026-04-20T23:46:38.745673",
+    "Finance": "2026-04-20T23:45:58.543159",
+    "Ai": "2026-04-20T23:45:58.686317"
   }
 }
