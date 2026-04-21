@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 23:45:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 23:46:38 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 07:13:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:14:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>先进封装，大战再起</title>
-      <link>https://www.tmtpost.com/7959338.html</link>
-      <description>&lt;![CDATA[先进封装，大战再起]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959338.html</guid>
+      <title>Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗</title>
+      <link>https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径</title>
-      <link>https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 时代的中欧产业重构与合作：建交 51 周年新起点，共探双向共赢新路径]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DbItbFaOU2trizVYJam2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？</title>
+      <link>https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Coding，终究是大厂的</title>
-      <link>https://www.tmtpost.com/7960048.html</link>
-      <description>&lt;![CDATA[AI Coding，终究是大厂的]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960048.html</guid>
+      <title>Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了</title>
+      <link>https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践</title>
-      <link>https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[分布式缓存数据库的下一站：开源驱动、架构进化与 AI 工程化实践]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HVl8bJoNVGtHuki3rB5H?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GitHub Copilot CLI 正式进入全面可用阶段</title>
+      <link>https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub Copilot CLI 正式进入全面可用阶段]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实</title>
-      <link>https://www.tmtpost.com/7960107.html</link>
-      <description>&lt;![CDATA[对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 19:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960107.html</guid>
+      <title>湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则</title>
+      <link>https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

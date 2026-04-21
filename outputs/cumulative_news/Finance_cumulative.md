@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 23:45
+**最后更新时间**: 2026-04-21 07:13
+
+---
+
+## 🆕 最新更新 (2026-04-21 07:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK wage growth slowed on eve of Iran war](https://www.ft.com/content/36ecd045-e15f-4c68-8663-3c5f09d62439)
+**发布时间**: 2026-04-21 06:33
+
+#### [‘Kiss of death’: How the US killed a Swiss merchant bank](https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e)
+**发布时间**: 2026-04-21 04:00
+
+#### [Will social media addiction go the way of cigarettes?](https://www.ft.com/content/154d34b6-3e04-456b-af33-ea12c8fa5945)
+**发布时间**: 2026-04-21 04:00
+
+#### [Babcock’s cheaper warships offer the Royal Navy hope](https://www.ft.com/content/82fafcaf-7770-41d3-9497-e25ffad27192)
+**发布时间**: 2026-04-21 04:00
+
+#### [Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction](https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4)
+**发布时间**: 2026-04-21 04:00
+
+#### [‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says](https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add)
+**发布时间**: 2026-04-21 03:29
+
+#### [Bezos’s AI lab nears $38bn valuation in funding deal](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded)
+**发布时间**: 2026-04-21 01:06
+
+#### [Anthropic and Amazon agree $100bn AI infrastructure deal](https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923)
+**发布时间**: 2026-04-21 00:41
+
+#### [Ex-Foreign Office head to accuse Number 10 of pressuring him over Mandelson appointment](https://www.ft.com/content/0537f106-64f6-42a4-a9e5-d17a6c81cdca)
+**发布时间**: 2026-04-20 23:33
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bonds could lag stocks for the rest of 2026, according to this contrarian signal](https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 01:46
+
+#### [Okta’s stock is surging. Here’s why identity security has become the next hot thing.](https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 01:22
 
 ---
 

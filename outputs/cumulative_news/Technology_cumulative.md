@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-20 23:45
+**最后更新时间**: 2026-04-21 07:13
+
+---
+
+## 🆕 最新更新 (2026-04-21 07:13)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则](https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:00
+
+#### [Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光](https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 14:30
+
+#### [Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了](https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 14:14
+
+#### [Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗](https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 13:19
+
+#### [平台即产品：平衡相互冲突的优先事项并创造价值](https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 11:00
+
+#### [OpenTelemetry 声明式配置迎来稳定性里程碑](https://www.infoq.cn/article/z4MLOC3NU0xbYcYaVVQL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 11:00
+
+#### [GitHub Copilot CLI 正式进入全面可用阶段](https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 10:00
+
+#### [QCon 2026 北京站收官：以 AI 之力，重塑软件工程新生态](https://www.infoq.cn/article/mYPV4DrAJfvixheSs6XK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:26
+
+#### [100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？](https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:19
+
+#### [Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了](https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:12
+
+#### [Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键](https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 09:02
+
+#### [AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？](https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 08:57
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [汪滔不想被理解，俞浩也不想](https://www.tmtpost.com/7960969.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](https://www.tmtpost.com/7960965.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [Claude 进了 Word，但“修订模式”不是新发明](https://www.tmtpost.com/7960339.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [关于苹果新任CEO的一切](https://www.tmtpost.com/7961034.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [库克没有辜负乔布斯](https://www.tmtpost.com/7961071.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [梁文锋不在乎赢，DeepSeek不能输](https://www.tmtpost.com/7960987.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [字节的利润去哪了？](https://www.tmtpost.com/7960950.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [爱奇艺太急了](https://www.tmtpost.com/7961125.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？](https://www.tmtpost.com/7960426.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [全球第三的晚课：IONIQ入华，现代汽车能否在"最卷市场"重新定义自己？](https://www.tmtpost.com/7960815.html)
+**发布时间**: 2026-04-21 14:14
+
+#### [聚焦AI+母婴智能硬件，奇世智能CheeChips完成千万元级天使轮融资 | 首发](https://www.tmtpost.com/7960891.html)
+**发布时间**: 2026-04-21 11:52
+
+#### [“老”科技再度走红，戴尔、思科、eBay重获增长动能](https://www.tmtpost.com/7961054.html)
+**发布时间**: 2026-04-21 11:33
+
+#### [为何拉丁美洲航空股票有望跑赢达美航空？](https://www.tmtpost.com/7961041.html)
+**发布时间**: 2026-04-21 11:27
+
+#### [“板前”祛魅](https://www.tmtpost.com/7960975.html)
+**发布时间**: 2026-04-21 11:13
+
+#### [全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官](https://www.tmtpost.com/7960077.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [紫燕食品“亮红灯”](https://www.tmtpost.com/7960799.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [爱奇艺热搜背后，揭秘“买脸”这门生意](https://www.tmtpost.com/7960877.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [中移动：税改 “刮油”？ 撒币需要更大方](https://www.tmtpost.com/7960949.html)
+**发布时间**: 2026-04-21 10:47
+
+#### [从“一包乒乓球”到全球30万用户的AI教练｜AI Founder 请回答](https://www.tmtpost.com/7960932.html)
+**发布时间**: 2026-04-21 10:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应](https://sspai.com/post/108909)
+**发布时间**: 2026-04-21 11:30
+
+#### [派早报：华为举办 Pura 系列及全场景新品发布会等](https://sspai.com/post/108921)
+**发布时间**: 2026-04-21 08:20
 
 ---
 
