@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "096844a4fefc5f633535a142b2fcd15aedf200fe83d6013035f280491d370797": {
-        "title": "为什么字节难以招架版权纠纷，而OpenAI和Anthropic却能赢？",
-        "link": "https://www.tmtpost.com/7924370.html",
-        "published_date": "Sun, 22 Mar 2026 19:09:00 GMT",
-        "first_seen": "2026-03-22T23:30:51.272375"
-      },
-      "94d1354332dd8aef6958e26cd93b767db85fdfe71bb2f68de3fcd2c75478c05f": {
-        "title": "宇树冲击IPO，王兴兴的“价格屠刀”能否砍出下一个万亿赛道？",
-        "link": "https://www.tmtpost.com/7924419.html",
-        "published_date": "Sun, 22 Mar 2026 19:09:00 GMT",
-        "first_seen": "2026-03-22T23:30:51.272387"
-      },
-      "c8a21c036f7ff435ca889d937f7a025ed8d4a288d122685d5be4278db56b421d": {
-        "title": "AI时代，为什么我们还没等到真正的“超级AI助理”？",
-        "link": "https://www.tmtpost.com/7924357.html",
-        "published_date": "Sun, 22 Mar 2026 19:06:00 GMT",
-        "first_seen": "2026-03-22T23:30:51.272390"
-      },
-      "b91acba35f7e8f99fefbf54df6fea4101254f7c437fb1ad07411498a834f11dd": {
-        "title": "第二代VLA落地之后，小鹏不想只做一家卖车公司",
-        "link": "https://www.tmtpost.com/7924461.html",
-        "published_date": "Sun, 22 Mar 2026 23:21:00 GMT",
-        "first_seen": "2026-03-22T23:30:51.272392"
-      },
-      "ad4f88284b77ba8adeaa13551c52333b2613b3270ad9f8eef4daa80a4d811d8c": {
-        "title": "砸下61亿，绿氢开始跟灰氢“抢饭碗”了",
-        "link": "https://www.tmtpost.com/7924422.html",
-        "published_date": "Sun, 22 Mar 2026 19:05:00 GMT",
-        "first_seen": "2026-03-22T23:30:51.272394"
-      },
       "0d5cedafcd6a6bc798e119cedd7f5d0f0fa3722184693f34a400028fed75992c": {
         "title": "基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流",
         "link": "https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 21 Apr 2026 09:02:00 GMT",
         "first_seen": "2026-04-21T09:44:37.683767"
+      },
+      "44541f53923d7bf3a98c57bfcd37216a01da3394b2384385eef3a5f0202251ef": {
+        "title": "知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕",
+        "link": "https://www.tmtpost.com/7951128.html",
+        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
+        "first_seen": "2026-04-21T23:39:31.097290"
+      },
+      "2ffaaad2e642242083bbf4b5ec03d76c8f37b19e625f905e7f0416d0ba39071e": {
+        "title": "自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题",
+        "link": "https://www.tmtpost.com/7961261.html",
+        "published_date": "Tue, 21 Apr 2026 18:06:00 GMT",
+        "first_seen": "2026-04-21T23:39:31.097297"
+      },
+      "6f2b8d91118100d5e786ecda943cf3f406c0f1090004235106681002d741fbe0": {
+        "title": "中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人",
+        "link": "https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-21T23:39:31.097300"
+      },
+      "1e2109bd3fe091a5a029ef2ec834a64744e2341e9fc1701844b1de3b63bce0ac": {
+        "title": "MiniMax不需要讨好开源",
+        "link": "https://www.tmtpost.com/7961547.html",
+        "published_date": "Tue, 21 Apr 2026 19:08:00 GMT",
+        "first_seen": "2026-04-21T23:39:31.097301"
+      },
+      "9b813b839ce4eca19f5be534d5507462d3bbcd0badbbcf1dfd42320e55f6feb5": {
+        "title": "Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533152&idx=1&sn=904b7943e3e9a2fcf4dd4a925af34c27",
+        "published_date": "Tue, 21 Apr 2026 13:06:00 GMT",
+        "first_seen": "2026-04-21T23:39:31.097303"
       }
     },
     "Finance": {
-      "4f8a284c8bd86a7d484e01830083d7d7c18f0147228495602c41d0ba197e8705": {
-        "title": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled",
-        "link": "https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Mar 2026 23:11:00 GMT",
-        "first_seen": "2026-03-22T23:31:06.792645"
-      },
-      "e8871230905a652e43b980db3f459759ed582590e0eb9e7f9ba8d00d0380010c": {
-        "title": "Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.",
-        "link": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
-        "published_date": "Sun, 22 Mar 2026 19:29:00 GMT",
-        "first_seen": "2026-03-22T23:31:06.792652"
-      },
-      "00430745bb573752340e5bd2af0c0159b55edbf6f7db337d1ad7040c6cd57205": {
-        "title": "How the Iran war could derail the AI boom",
-        "link": "https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8",
-        "published_date": "Sun, 22 Mar 2026 12:00:00 GMT",
-        "first_seen": "2026-03-22T23:31:06.792654"
-      },
-      "681b490da3b3311dd47677dbde1d82c4fe9707a215027c30fe5c2d69bf3d08c6": {
-        "title": "Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum",
-        "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
-        "published_date": "Sun, 22 Mar 2026 12:34:00 GMT",
-        "first_seen": "2026-03-22T23:31:06.792656"
-      },
-      "de91adb69c83e2c59adfb8a4d4f53a887ea9807566090950b138f8ccb014669c": {
-        "title": "Starmer adviser calls for temporary UK energy profit cap",
-        "link": "https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c",
-        "published_date": "Sun, 22 Mar 2026 13:42:00 GMT",
-        "first_seen": "2026-03-22T23:31:06.792657"
-      },
       "bc330fc4cfff8ff252826067b798e888fbad20d5f4b59df2caaebe86645c351e": {
         "title": "Iran war is a risk to the flow of Gulf funds around the globe",
         "link": "https://www.ft.com/content/bdc2ad8c-d22f-44b5-aec4-14740f810a66",
@@ -4905,6 +4875,36 @@
         "link": "https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615",
         "published_date": "Tue, 21 Apr 2026 07:37:00 GMT",
         "first_seen": "2026-04-21T09:43:39.003662"
+      },
+      "d04ac57675986ef145f81289221fcac27b442b08b2a1cd3fcfbfffe76a10b6cb": {
+        "title": "Airlines cut flights as fuel costs surge — an economic fallout from the Iran war that markets may be missing",
+        "link": "https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 22:04:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.279423"
+      },
+      "e88128a0984747ff9952665342964be2d905a7265aa30f481e2c9c2a9c541c7c": {
+        "title": "ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026",
+        "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 21:17:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.279433"
+      },
+      "d69441871fb5f8eb09bb69797c8f56d62e871da353f6db4a9d52fbfc71f352f5": {
+        "title": "SpaceX strikes $60bn deal to acquire AI start-up Cursor",
+        "link": "https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860",
+        "published_date": "Tue, 21 Apr 2026 22:51:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.279436"
+      },
+      "a4c23008aa197123d1775f18d79357730bcd53c6d93111860478e14e159cde5f": {
+        "title": "Warsh signals evolution, not revolution at the Fed",
+        "link": "https://www.ft.com/content/6ed5f7a6-3c2f-4e8d-9a13-48d70428bb0e",
+        "published_date": "Tue, 21 Apr 2026 18:25:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.279438"
+      },
+      "37edc1313b3a92f2426193797901e500db63a01a54581848e13ae50376b1c3da": {
+        "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
+        "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 23:16:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.279440"
       }
     },
     "Ai": {
@@ -6359,13 +6359,43 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-21/",
         "published_date": "Tue, 21 Apr 2026 10:39:00 GMT",
         "first_seen": "2026-04-21T07:14:12.015420"
+      },
+      "b3c503da7f1b6ec50e9d7b07c52f9eaf325736063d41ad6c2e3ab73fc0fda69c": {
+        "title": "ReasoningBank: Enabling agents to learn from experience",
+        "link": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+        "published_date": "Tue, 21 Apr 2026 16:42:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.428153"
+      },
+      "a4048acbe6771e66e26ef68586fd253faea74c574774ed2a5cc0cbf798210ad2": {
+        "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
+        "link": "https://www.qbitai.com/2026/04/404124.html",
+        "published_date": "Tue, 21 Apr 2026 14:21:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.428160"
+      },
+      "8893508f9a5b52b00a679d3af696efac7397780c12c03f293ce3c02ab5f259e2": {
+        "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
+        "link": "https://www.qbitai.com/2026/04/404096.html",
+        "published_date": "Tue, 21 Apr 2026 12:02:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.428162"
+      },
+      "8209cb2a42b554779c493ea482b5e310e5fbe158e84bafd2c077684eeee876bd": {
+        "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+        "link": "https://www.qbitai.com/2026/04/404086.html",
+        "published_date": "Tue, 21 Apr 2026 08:45:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.428164"
+      },
+      "5d95dd9f76e0927928cf9c40f4d562feac8a9b83f1d8cbca3483c158828b8c4b": {
+        "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "link": "https://www.qbitai.com/2026/04/404082.html",
+        "published_date": "Tue, 21 Apr 2026 08:31:00 GMT",
+        "first_seen": "2026-04-21T23:39:04.428165"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-21T09:44:37.683770",
-    "Finance": "2026-04-21T09:43:39.003665",
-    "Ai": "2026-04-21T07:14:12.015427"
+    "Technology": "2026-04-21T23:39:31.097305",
+    "Finance": "2026-04-21T23:39:04.279442",
+    "Ai": "2026-04-21T23:39:04.428167"
   }
 }

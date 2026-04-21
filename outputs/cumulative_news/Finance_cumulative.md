@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 09:43
+**最后更新时间**: 2026-04-21 23:38
+
+---
+
+## 🆕 最新更新 (2026-04-21 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?](https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 23:16
+
+#### [Trump Media CEO Devin Nunes is leaving. This digital-media veteran will take his place.](https://www.marketwatch.com/story/trump-media-ceo-devin-nunes-is-leaving-this-digital-media-veteran-will-take-his-place-ce2aed2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 23:14
+
+#### [Airlines cut flights as fuel costs surge — an economic fallout from the Iran war that markets may be missing](https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 22:04
+
+#### [What Apple investors need to know about the next steps for the company and its new CEO](https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:28
+
+#### [ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026](https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:17
+
+#### [The meme-stock frenzy is a warning — these 7 high-quality stocks are better bets](https://www.marketwatch.com/story/from-allbirds-to-ai-the-meme-stock-frenzy-is-warning-you-to-own-this-quality-antimeme-portfolio-instead-6714bb16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:10
+
+#### [This is what critics of Apple and Tim Cook get dead wrong](https://www.marketwatch.com/story/this-is-what-critics-of-apple-and-tim-cook-get-dead-wrong-48fc56dc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:06
+
+#### [Here’s what will really matter to Tesla investors when the company reports earnings](https://www.marketwatch.com/story/heres-what-will-really-matter-to-tesla-investors-when-it-reports-earnings-ba621f85?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 20:59
+
+#### [GE sees fuel prices higher than they are now through the summer due to the Iran conflict](https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX strikes $60bn deal to acquire AI start-up Cursor](https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860)
+**发布时间**: 2026-04-21 22:51
+
+#### [Iran accuses US of violating international law over vessel seizure in Gulf of Oman](https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add)
+**发布时间**: 2026-04-21 22:46
+
+#### [Trump extends Iran ceasefire as peace talks hit impasse](https://www.ft.com/content/792cf320-25ef-4d6a-bce5-028d0f3afba9)
+**发布时间**: 2026-04-21 22:24
+
+#### [Warsh sidesteps questions over Trump’s influence on Fed rate policy](https://www.ft.com/content/d6267707-4033-4360-b4bf-e01e439a5528)
+**发布时间**: 2026-04-21 19:13
+
+#### [Elite law firm Sullivan & Cromwell admits to AI ‘hallucinations’](https://www.ft.com/content/657d86df-5e0d-4d03-bf0c-cb768a58e758)
+**发布时间**: 2026-04-21 19:01
+
+#### [Starmer’s political woes deepen as Mandelson scandal saps his authority](https://www.ft.com/content/b4038290-5df4-4f65-ac48-f39cd5d6be3c)
+**发布时间**: 2026-04-21 18:41
+
+#### [Warsh signals evolution, not revolution at the Fed](https://www.ft.com/content/6ed5f7a6-3c2f-4e8d-9a13-48d70428bb0e)
+**发布时间**: 2026-04-21 18:25
+
+#### [Iranian tankers bypass US blockade](https://www.ft.com/content/21dff2c7-1e27-4f74-81d8-31dcdbe9188e)
+**发布时间**: 2026-04-21 17:21
+
+#### [Britain’s prime minister is in power without purpose](https://www.ft.com/content/e5445535-f87e-46bb-bb28-25bdb71f1b39)
+**发布时间**: 2026-04-21 17:02
+
+#### [City firms relax office-working policies as Tube strikes hit London](https://www.ft.com/content/d7c81b2f-8b07-436a-8830-5d6ddb939fe0)
+**发布时间**: 2026-04-21 16:38
+
+#### [Why America is falling out of love with Israel](https://www.ft.com/content/353eb2de-25c3-4dd8-a7b8-a6ce8b3a9ec0)
+**发布时间**: 2026-04-21 11:00
 
 ---
 

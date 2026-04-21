@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Apr 2026 09:43:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 09:44:37 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:39:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕</title>
+      <link>https://www.tmtpost.com/7951128.html</link>
+      <description>&lt;![CDATA[知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951128.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI时代最贵的“布”，到底有多抢手？</title>
-      <link>https://www.tmtpost.com/7961280.html</link>
-      <description>&lt;![CDATA[AI时代最贵的“布”，到底有多抢手？]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7961280.html</guid>
+      <title>自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题</title>
+      <link>https://www.tmtpost.com/7961261.html</link>
+      <description>&lt;![CDATA[自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961261.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？</title>
-      <link>https://www.tmtpost.com/7960426.html</link>
-      <description>&lt;![CDATA[黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960426.html</guid>
+      <title>中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人</title>
+      <link>https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图</title>
-      <link>https://www.tmtpost.com/7961404.html</link>
-      <description>&lt;![CDATA[Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7961404.html</guid>
+      <title>MiniMax不需要讨好开源</title>
+      <link>https://www.tmtpost.com/7961547.html</link>
+      <description>&lt;![CDATA[MiniMax不需要讨好开源]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961547.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键</title>
-      <link>https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533152&amp;idx=1&amp;sn=904b7943e3e9a2fcf4dd4a925af34c27</link>
+      <description>&lt;![CDATA[Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533152&amp;idx=1&amp;sn=904b7943e3e9a2fcf4dd4a925af34c27</guid>
       <category>Technology</category>
     </item>
   </channel>
