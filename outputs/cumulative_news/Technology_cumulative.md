@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 07:13
+**最后更新时间**: 2026-04-21 09:43
+
+---
+
+## 🆕 最新更新 (2026-04-21 09:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势](https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:29
+
+#### [“守成者”库克卸任CEO：除了离开，他再没有什么能贡献给苹果了](https://www.infoq.cn/article/PxmVh2miqDZB6jDbAqeK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:23
+
+#### [构建可信数据智能体的上下文层 ｜ 技术趋势](https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:06
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三个“十亿美元分子”，偏头疼药物大爆发](https://www.tmtpost.com/7961100.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [谷歌也急了](https://www.tmtpost.com/7961120.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕](https://www.tmtpost.com/7951128.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [扣子2.5替我刷抖音、逛酒馆：坏了，我成替身了？](https://www.tmtpost.com/7961188.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图](https://www.tmtpost.com/7961404.html)
+**发布时间**: 2026-04-21 17:16
+
+#### [AI时代最贵的“布”，到底有多抢手？](https://www.tmtpost.com/7961280.html)
+**发布时间**: 2026-04-21 16:40
+
+#### [梭哈AI！爱奇艺“疯了”上热搜，爱豆会失业吗？](https://www.tmtpost.com/7960502.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [龚宇的AI梦，为何成了爱奇艺的公关噩梦？](https://www.tmtpost.com/7960807.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [从FDA绿灯到国内未获批准，全球FIC折戟背后](https://www.tmtpost.com/7960894.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [DDR3第二春：一场没得选的狂欢](https://www.tmtpost.com/7960900.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [制药界Space X登场，AI制药集齐“三小龙”](https://www.tmtpost.com/7960901.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [千亿液冷龙头“急刹车”，英维克一字跌停，光环与泡沫显现](https://www.tmtpost.com/7961257.html)
+**发布时间**: 2026-04-21 15:50
+
+#### [爱奇艺说入驻，艺人说没签，谁在说谎？](https://www.tmtpost.com/7961023.html)
+**发布时间**: 2026-04-21 15:11
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533152&idx=1&sn=904b7943e3e9a2fcf4dd4a925af34c27)
+**发布时间**: 2026-04-21 13:06
 
 ---
 
