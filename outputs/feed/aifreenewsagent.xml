@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Apr 2026 06:57:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 07:00:31 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 09:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:25:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-22日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-22/</link>
-      <description>&lt;![CDATA[2026-04-22日刊]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-22/</guid>
+      <title>国产多模态Agent拿下医学分割SOTA！不用改模型、不加token</title>
+      <link>https://www.qbitai.com/2026/04/404604.html</link>
+      <description>&lt;![CDATA[国产多模态Agent拿下医学分割SOTA！不用改模型、不加token]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404604.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球首个世界统一模型发布，机器人家庭成员来了！</title>
-      <link>https://www.qbitai.com/2026/04/404446.html</link>
-      <description>&lt;![CDATA[全球首个世界统一模型发布，机器人家庭成员来了！]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 05:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404446.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从GPU到Token：AI基础设施竞争逻辑重构</title>
-      <link>https://www.qbitai.com/2026/04/404440.html</link>
-      <description>&lt;![CDATA[从GPU到Token：AI基础设施竞争逻辑重构]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404440.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花</title>
-      <link>https://www.qbitai.com/2026/04/404420.html</link>
-      <description>&lt;![CDATA[2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 04:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404420.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>6分钟满电续航1500公里！宁王一夜终结加油时代</title>
-      <link>https://www.qbitai.com/2026/04/404167.html</link>
-      <description>&lt;![CDATA[6分钟满电续航1500公里！宁王一夜终结加油时代]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 02:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404167.html</guid>
+      <title>这些人读个博一年能挣几十万？2026苹果学者名单公布了</title>
+      <link>https://www.qbitai.com/2026/04/404481.html</link>
+      <description>&lt;![CDATA[这些人读个博一年能挣几十万？2026苹果学者名单公布了]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 07:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404481.html</guid>
       <category>Ai</category>
     </item>
   </channel>

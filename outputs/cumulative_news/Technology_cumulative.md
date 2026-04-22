@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 06:59
+**最后更新时间**: 2026-04-22 09:24
+
+---
+
+## 🆕 最新更新 (2026-04-22 09:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [苏超2.0的背后 藏着中国文旅转型期的密码](https://www.tmtpost.com/7962929.html)
+**发布时间**: 2026-04-22 17:22
+
+#### [一年少卖1.5亿，全聚德的烤鸭不香了](https://www.tmtpost.com/7962960.html)
+**发布时间**: 2026-04-22 17:22
+
+#### [Kimi的问题不在对手，而在起点](https://www.tmtpost.com/7962827.html)
+**发布时间**: 2026-04-22 17:15
+
+#### [扫货AI圈，游戏大厂的估值逻辑变了](https://www.tmtpost.com/7962855.html)
+**发布时间**: 2026-04-22 17:14
+
+#### [RAG准确率90%？先过文档解析这关](https://www.tmtpost.com/7962941.html)
+**发布时间**: 2026-04-22 17:14
+
+#### [600亿期权锁定Cursor：SpaceX在IPO前下了一手重注](https://www.tmtpost.com/7962952.html)
+**发布时间**: 2026-04-22 17:14
+
+#### [Cursor已死，Cursor重生 | AI产业观察](https://www.tmtpost.com/7962905.html)
+**发布时间**: 2026-04-22 16:46
+
+#### [寒气传到头部！养猪双雄合计亏超22亿，猪企集体过苦日子](https://www.tmtpost.com/7962731.html)
+**发布时间**: 2026-04-22 16:45
+
+#### [爱奇艺没疯，只是急了](https://www.tmtpost.com/7962641.html)
+**发布时间**: 2026-04-22 16:22
+
+#### [同行们都该谢谢爱奇艺交的学费](https://www.tmtpost.com/7962393.html)
+**发布时间**: 2026-04-22 15:49
+
+#### [华为要抄“荣米OV”的底](https://www.tmtpost.com/7962383.html)
+**发布时间**: 2026-04-22 15:49
+
+#### [OTA系每天一店，传统酒店慌不慌？](https://www.tmtpost.com/7962529.html)
+**发布时间**: 2026-04-22 15:44
+
+#### [培训岗的遮羞布，被AI掀了](https://www.tmtpost.com/7962555.html)
+**发布时间**: 2026-04-22 15:34
+
+#### [4万亿的困境：苹果需要混乱，但库克留下了秩序](https://www.tmtpost.com/7962810.html)
+**发布时间**: 2026-04-22 15:31
+
+#### [20亿，又一个网红品牌被卖了](https://www.tmtpost.com/7962581.html)
+**发布时间**: 2026-04-22 15:30
+
+#### [谁在骂爱奇艺疯了](https://www.tmtpost.com/7962583.html)
+**发布时间**: 2026-04-22 15:22
+
+#### [马斯克的 AI 拼图：SpaceX 600亿美元锚定Cursor的底层逻辑](https://www.tmtpost.com/7962585.html)
+**发布时间**: 2026-04-22 15:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期资讯：OpenJDK JEP、Jakarta EE 12、Spring Framework、Micrometer、Camel、JBang](https://www.infoq.cn/article/dMvHmak3G8a7zYhdjaR9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 17:15
+
+#### [金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践](https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 16:56
+
+#### [在AK大神爆火的任务里，摸清国产AI真实水平](https://www.infoq.cn/article/IPZaVe2hAKCougHa1zAm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 16:31
+
+#### [百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力](https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 15:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [原来你对写作是真爱：少数派 2025 年度征文结果公布](https://sspai.com/post/108976)
+**发布时间**: 2026-04-22 16:10
+
+#### [把家里的游戏带出门：开源本地串流方案 Sunshine 上手指南](https://sspai.com/post/108857)
+**发布时间**: 2026-04-22 14:33
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [YC 总裁开源了自己亲手写的 AI Agent 大脑，1 周就 1 万点赞。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533153&idx=1&sn=7fb7e3d5ab71dca60eefb98140cc7143)
+**发布时间**: 2026-04-22 13:53
 
 ---
 

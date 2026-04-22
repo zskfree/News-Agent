@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Apr 2026 06:59:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 07:00:59 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 09:24:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:25:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕</title>
-      <link>https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 14:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力</title>
+      <link>https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持</title>
-      <link>https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>两大芯片巨头，双双重仓中国</title>
+      <link>https://www.tmtpost.com/7962442.html</link>
+      <description>&lt;![CDATA[两大芯片巨头，双双重仓中国]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7962442.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查</title>
-      <link>https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：OPPO Find X9 Ultra 发布等</title>
+      <link>https://sspai.com/post/108962</link>
+      <description>&lt;![CDATA[派早报：OPPO Find X9 Ultra 发布等]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 08:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108962</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果改命：财务管家库克体面交棒，产品经理特努斯烫手接棒</title>
-      <link>https://www.tmtpost.com/7962457.html</link>
-      <description>&lt;![CDATA[苹果改命：财务管家库克体面交棒，产品经理特努斯烫手接棒]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7962457.html</guid>
+      <title>苏超2.0的背后 藏着中国文旅转型期的密码</title>
+      <link>https://www.tmtpost.com/7962929.html</link>
+      <description>&lt;![CDATA[苏超2.0的背后 藏着中国文旅转型期的密码]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7962929.html</guid>
       <category>Technology</category>
     </item>
   </channel>

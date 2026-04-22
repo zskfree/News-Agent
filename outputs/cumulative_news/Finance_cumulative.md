@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 06:59
+**最后更新时间**: 2026-04-22 09:24
+
+---
+
+## 🆕 最新更新 (2026-04-22 09:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adobe is betting a quarter of its value against the so-called SaaSpocalypse](https://www.marketwatch.com/story/adobe-is-betting-a-quarter-of-its-value-against-the-so-called-saaspocalypse-a2143e65?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:19
+
+#### [‘The Lord has taken care of me’: I’m 74. I went from working $14 an hour to $3.4 million. Here’s how I did it.](https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:15
+
+#### [Lily Allen and David Harbour sell their quirky Brooklyn townhouse for $7 million, a year after breaking up](https://www.marketwatch.com/story/lily-allen-and-david-harbour-sell-their-quirky-brooklyn-townhouse-for-7-million-a-year-after-breaking-up-76cf01d7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:04
+
+#### [Citadel founder Ken Griffin just added a $38 million Park Avenue apartment to his $1.5 billion real estate portfolio](https://www.marketwatch.com/story/citadel-founder-ken-griffin-just-added-a-38-million-park-avenue-apartment-to-his-1-5-billion-real-estate-portfolio-93ae762a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:02
+
+#### [Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin](https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 07:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation accelerates to 3.3% in March as petrol prices jump](https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476)
+**发布时间**: 2026-04-22 09:01
+
+#### [Moscow to suspend Kazakh oil flows through key pipeline supplying Berlin](https://www.ft.com/content/3738ba48-b4e2-493d-96b1-0a80b4e2c4b8)
+**发布时间**: 2026-04-22 08:53
+
+#### [Keir Starmer’s growing list of apologies](https://www.ft.com/content/fbb89db5-feb8-4c4e-8cd7-5ba2a7871112)
+**发布时间**: 2026-04-22 04:00
+
+#### [2 container ships attacked in Strait of Hormuz after Trump extends ceasefire](https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292)
+**发布时间**: 2026-04-22 03:17
+
+#### [Anthropic investigating unauthorised access of powerful Mythos AI model](https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf)
+**发布时间**: 2026-04-21 23:56
+
+#### [Hormuz disruption raises risk of global food shock, traders warn](https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d)
+**发布时间**: 2026-04-21 22:29
 
 ---
 

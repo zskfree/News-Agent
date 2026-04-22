@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "44afb32ccda93367cefb5f6a6e1162fb06c2e3ce1a1937fbb71c3c766cf25f92": {
-        "title": "从百度到Meta，科技巨头的 AI 组织战，开打了",
-        "link": "https://www.tmtpost.com/7924829.html",
-        "published_date": "Mon, 23 Mar 2026 16:30:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.418768"
-      },
-      "36d6c5eebafe51628bf5c6ba687a3f26a38c096d561561274a6d46e545a9a680": {
-        "title": "Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？",
-        "link": "https://www.tmtpost.com/7925436.html",
-        "published_date": "Mon, 23 Mar 2026 16:21:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.418781"
-      },
-      "382cc09d3739c412a6408cfe62a25f83dcf94ddffc60911cc811a2da411fd7d6": {
-        "title": "大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案",
-        "link": "https://www.tmtpost.com/7925057.html",
-        "published_date": "Mon, 23 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.418783"
-      },
-      "e73ed7857b3f5365debc645ec8505c47efa7986bdeff8d69515dc2f277dc148a": {
-        "title": "智谱走到分水岭，我对大模型下半场的几点思考",
-        "link": "https://www.tmtpost.com/7924479.html",
-        "published_date": "Mon, 23 Mar 2026 09:29:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.418786"
-      },
-      "374ad5b87299f0c380163975d4e8a6af79381e2118440d486b29aa76368f2068": {
-        "title": "宇树赚钱了，但人形机器人还没",
-        "link": "https://www.tmtpost.com/7925591.html",
-        "published_date": "Mon, 23 Mar 2026 16:52:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.418787"
-      },
       "ea1ff1827647321ea25c62a5182dc10adbccd397d90be95f1ebb13ef021ca184": {
         "title": "马斯克250亿美元造芯局：除了敲打英伟达，他还在算什么账？",
         "link": "https://www.tmtpost.com/7925625.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7962457.html",
         "published_date": "Wed, 22 Apr 2026 11:53:00 GMT",
         "first_seen": "2026-04-22T07:00:59.543467"
+      },
+      "4b0b3b2b4a0c2cd4d2d241065ee6c3227a9691ecb6c90dc1bffe0498e5dcfb6d": {
+        "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-22T09:25:01.490567"
+      },
+      "0fb5cac427a4ac969d14e51fa226c14a1589993ba23dac2bedc97668cacd98a4": {
+        "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
+        "link": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 15:48:00 GMT",
+        "first_seen": "2026-04-22T09:25:01.490578"
+      },
+      "9715c7f99769e9a6aff10e042ff60a5bc25ddcde76324f9e92468b81597fec83": {
+        "title": "两大芯片巨头，双双重仓中国",
+        "link": "https://www.tmtpost.com/7962442.html",
+        "published_date": "Wed, 22 Apr 2026 11:49:00 GMT",
+        "first_seen": "2026-04-22T09:25:01.490582"
+      },
+      "3613ac6b3d5794d46608ca5957f787ecb9210d3aae32c46ef1d5adb44726e80d": {
+        "title": "派早报：OPPO Find X9 Ultra 发布等",
+        "link": "https://sspai.com/post/108962",
+        "published_date": "Wed, 22 Apr 2026 08:21:00 GMT",
+        "first_seen": "2026-04-22T09:25:01.490585"
+      },
+      "bb01f6c6722e3a7845cac3f056c0e44c091c621e16af56519201df2ff643e5a4": {
+        "title": "苏超2.0的背后 藏着中国文旅转型期的密码",
+        "link": "https://www.tmtpost.com/7962929.html",
+        "published_date": "Wed, 22 Apr 2026 17:22:00 GMT",
+        "first_seen": "2026-04-22T09:25:01.490586"
       }
     },
     "Finance": {
-      "cce3c4588e9a7947190807eebca13f1e7007c131d35073cd15872c064350db31": {
-        "title": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
-        "link": "https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38",
-        "published_date": "Mon, 23 Mar 2026 08:45:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.451413"
-      },
-      "694d0ba699b44d336603ff62cd0cc4fdf4473d82d24a6f2a46806ba44d90acab": {
-        "title": "Starmer grapples with Iran economic fallout and Trump mockery",
-        "link": "https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222",
-        "published_date": "Mon, 23 Mar 2026 08:45:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.451420"
-      },
-      "a82da2efb43438f03d4b16be86d9e49bbedc2541e221aadde4b17face2a822ee": {
-        "title": "Gilt rout deepens as traders bet on four BoE rate rises this year",
-        "link": "https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e",
-        "published_date": "Mon, 23 Mar 2026 08:34:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.451424"
-      },
-      "579308786d4eefba2f1bd366df96d7e2914c3165fe91e25519711fa145638d63": {
-        "title": "London ambulances set on fire in suspected antisemitic incident",
-        "link": "https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4",
-        "published_date": "Mon, 23 Mar 2026 06:56:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.451426"
-      },
-      "3ae76e24ac8b54aa3c65f1e67a1c2382865c08df1fbb07cf4d3464b5adaf9fda": {
-        "title": "Gilts: blame the hedge funds?",
-        "link": "https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d",
-        "published_date": "Mon, 23 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.451427"
-      },
       "226e5b7a3c8deec5e0cac94478d88c64ec7c61ec37cb609f7d367de549d518d2": {
         "title": "Apollo caps investor withdrawals from flagship private credit fund",
         "link": "https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e",
@@ -4905,15 +4875,39 @@
         "link": "https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292",
         "published_date": "Wed, 22 Apr 2026 03:17:00 GMT",
         "first_seen": "2026-04-22T07:00:03.677899"
+      },
+      "d137de0a9087930403a896fa47f0455556f8481117a607c3cbe435e1e9870c1d": {
+        "title": "Adobe is betting a quarter of its value against the so-called SaaSpocalypse",
+        "link": "https://www.marketwatch.com/story/adobe-is-betting-a-quarter-of-its-value-against-the-so-called-saaspocalypse-a2143e65?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 09:19:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.109784"
+      },
+      "cfaba517de1b3e00806c583555a8b82c244b4f9b771ead275db5a11409d03b06": {
+        "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
+        "link": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 07:36:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.109792"
+      },
+      "c32d26bd050f296358503b8ff7945d5cfaef1a6d67131f53fd360aa99cd1a04e": {
+        "title": "UK inflation accelerates to 3.3% in March as petrol prices jump",
+        "link": "https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476",
+        "published_date": "Wed, 22 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.109794"
+      },
+      "3d1a19e5f5b9db7290c7fdc55af623ad74b8d064e03b3ad4d54ed4dd3b39f64a": {
+        "title": "Moscow to suspend Kazakh oil flows through key pipeline supplying Berlin",
+        "link": "https://www.ft.com/content/3738ba48-b4e2-493d-96b1-0a80b4e2c4b8",
+        "published_date": "Wed, 22 Apr 2026 08:53:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.109796"
+      },
+      "b5cc29ead1b979b94cfb5882c2bace127a9c306e972cebc5000abf771b1ed36d": {
+        "title": "‘The Lord has taken care of me’: I’m 74. I went from working $14 an hour to $3.4 million. Here’s how I did it.",
+        "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 09:15:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.109797"
       }
     },
     "Ai": {
-      "69d47a812f35e56b75d3dd500abb8f29854d15bb2bc734d3de0cea576f35c4a1": {
-        "title": "2026-03-23日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-23/",
-        "published_date": "Mon, 23 Mar 2026 09:41:00 GMT",
-        "first_seen": "2026-03-23T09:00:16.587858"
-      },
       "e7b0b29c74698a8475dea3a9138e4028b2a98bfdeae2b031d9d0ec1733355212": {
         "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
         "link": "https://www.qbitai.com/2026/03/391515.html",
@@ -6389,13 +6383,25 @@
         "link": "https://www.qbitai.com/2026/04/404167.html",
         "published_date": "Wed, 22 Apr 2026 02:13:00 GMT",
         "first_seen": "2026-04-22T07:00:31.145491"
+      },
+      "47a457636d14e1efceb8d9cff24171bf9f39d91a0cb3464f98ec68c26eb4952a": {
+        "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
+        "link": "https://www.qbitai.com/2026/04/404604.html",
+        "published_date": "Wed, 22 Apr 2026 07:17:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.263071"
+      },
+      "f6d12719bf8fa929d260bf56b717bfd6719447da7abe105aa2155c0bd5c9a609": {
+        "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
+        "link": "https://www.qbitai.com/2026/04/404481.html",
+        "published_date": "Wed, 22 Apr 2026 07:10:00 GMT",
+        "first_seen": "2026-04-22T09:25:30.263079"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-22T07:00:59.543469",
-    "Finance": "2026-04-22T07:00:03.677902",
-    "Ai": "2026-04-22T07:00:31.145495"
+    "Technology": "2026-04-22T09:25:01.490589",
+    "Finance": "2026-04-22T09:25:30.109800",
+    "Ai": "2026-04-22T09:25:30.263082"
   }
 }
