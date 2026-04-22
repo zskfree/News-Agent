@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 23:38
+**最后更新时间**: 2026-04-22 06:59
+
+---
+
+## 🆕 最新更新 (2026-04-22 06:59)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕](https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 14:43
+
+#### [为 AI 智能体设计记忆机制：揭秘 LinkedIn 的认知记忆智能体](https://www.infoq.cn/article/SCh9qpVmgQ1ObT3eVR17?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 12:00
+
+#### [下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势](https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 11:29
+
+#### [谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持](https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 11:00
+
+#### [谷歌 Aletheia 推动全自主代理式数学研究迈向新高度](https://www.infoq.cn/article/XqhLJyRQ7ZMIPXqVlwsh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 11:00
+
+#### [亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查](https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-22 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [爱奇艺踩下 AI 油门，艺人集体拉手刹](https://www.tmtpost.com/7961649.html)
+**发布时间**: 2026-04-22 13:35
+
+#### [AI艺人上热搜，是爱奇艺“疯了”吗？](https://www.tmtpost.com/7961684.html)
+**发布时间**: 2026-04-22 12:34
+
+#### [苹果改命：财务管家库克体面交棒，产品经理特努斯烫手接棒](https://www.tmtpost.com/7962457.html)
+**发布时间**: 2026-04-22 11:53
+
+#### [2026北京车展前瞻：自动驾驶激战正酣，车企围攻“光明顶”](https://www.tmtpost.com/7961467.html)
+**发布时间**: 2026-04-22 11:53
+
+#### [市占率第一，“AI全病程管理”公司冲刺IPO](https://www.tmtpost.com/7962062.html)
+**发布时间**: 2026-04-22 11:49
+
+#### [中国工业AI，“卡”在哪了？](https://www.tmtpost.com/7962423.html)
+**发布时间**: 2026-04-22 11:49
+
+#### [两大芯片巨头，双双重仓中国](https://www.tmtpost.com/7962442.html)
+**发布时间**: 2026-04-22 11:49
+
+#### [实测Images 2.0 :  10招玩转生图新王](https://www.tmtpost.com/7962460.html)
+**发布时间**: 2026-04-22 11:48
+
+#### [消费者依然不停地花钱，Deckers以及另外6只零售股值得买入](https://www.tmtpost.com/7962450.html)
+**发布时间**: 2026-04-22 11:25
+
+#### [奢侈品牌在零售业波动中逆势上扬，这几家奢侈品巨头的图表揭示了什么](https://www.tmtpost.com/7962448.html)
+**发布时间**: 2026-04-22 11:25
+
+#### [国资怎么又开始卖酒店了？](https://www.tmtpost.com/7962237.html)
+**发布时间**: 2026-04-22 11:15
+
+#### [透视2025年财报，2026年新增长何在？](https://www.tmtpost.com/7962285.html)
+**发布时间**: 2026-04-22 11:07
+
+#### [苹果需要一个AI天才](https://www.tmtpost.com/7962294.html)
+**发布时间**: 2026-04-22 11:02
+
+#### [爱奇艺怎么敢](https://www.tmtpost.com/7962296.html)
+**发布时间**: 2026-04-22 10:55
+
+#### [百亿防守与进击，珀莱雅业绩背后的结构性增程](https://www.tmtpost.com/7962318.html)
+**发布时间**: 2026-04-22 10:53
+
+#### [火药味弥漫的智驾赛道：有人想跨界“屠龙”，有人默默抛弃“亲儿子”](https://www.tmtpost.com/7962286.html)
+**发布时间**: 2026-04-22 10:50
+
+#### [库克交棒，特努斯接掌 4 万亿帝国：AI 时代的真正大考才刚开始](https://www.tmtpost.com/7962348.html)
+**发布时间**: 2026-04-22 10:45
+
+#### [影石的全景无人机，还没起飞就被“按”下来了](https://www.tmtpost.com/7962267.html)
+**发布时间**: 2026-04-22 10:43
+
+#### [县城餐饮，正在成为创业陷阱](https://www.tmtpost.com/7962180.html)
+**发布时间**: 2026-04-22 10:39
+
+#### [AI剧/漫剧月报：播放量天花板破6亿，99.28%的新剧播放增量不足3千万](https://www.tmtpost.com/7961301.html)
+**发布时间**: 2026-04-22 10:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [中年人兼职开车送货，20 天学会的 7 个真相](https://sspai.com/post/108148)
+**发布时间**: 2026-04-22 10:57
+
+#### [派早报：OPPO Find X9 Ultra 发布等](https://sspai.com/post/108962)
+**发布时间**: 2026-04-22 08:21
 
 ---
 

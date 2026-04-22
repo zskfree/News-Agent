@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 23:38
+**最后更新时间**: 2026-04-22 06:59
+
+---
+
+## 🆕 最新更新 (2026-04-22 06:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation accelerates to 3.3% in March amid Iran energy shock](https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476)
+**发布时间**: 2026-04-22 06:27
+
+#### [Military briefing: Trump bolsters Gulf force](https://www.ft.com/content/f8d621b7-5eeb-4596-9805-3dd8b9f736d2)
+**发布时间**: 2026-04-22 04:00
+
+#### [Six lessons from history’s greatest financial crises](https://www.ft.com/content/0bd796c9-bc0e-43ab-bedd-d0294c2efd17)
+**发布时间**: 2026-04-22 04:00
+
+#### [UK pension funds face ‘huge’ costs to sell private assets](https://www.ft.com/content/c2df3627-f2f9-4141-b848-e578c0888f68)
+**发布时间**: 2026-04-22 04:00
+
+#### [Iran attacks container ship after Trump extends ceasefire](https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292)
+**发布时间**: 2026-04-22 03:17
+
+#### [Warsh rejects accusations he would be Trump’s ‘sock puppet’](https://www.ft.com/content/d6267707-4033-4360-b4bf-e01e439a5528)
+**发布时间**: 2026-04-22 01:08
+
+#### [SpaceX obtains right to buy AI start-up Cursor for $60bn](https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860)
+**发布时间**: 2026-04-22 00:39
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Prices for World Cup public transportation range from free to $150. Here’s what’s going on.](https://www.marketwatch.com/story/prices-for-world-cup-public-transportation-range-from-free-to-150-heres-whats-going-on-4e379437?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 01:28
+
+#### [What is Cursor? SpaceX could buy the AI company for a whopping $60 billion.](https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 00:01
 
 ---
 
