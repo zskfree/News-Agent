@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Apr 2026 09:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 09:25:30 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 23:48:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:51:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产多模态Agent拿下医学分割SOTA！不用改模型、不加token</title>
-      <link>https://www.qbitai.com/2026/04/404604.html</link>
-      <description>&lt;![CDATA[国产多模态Agent拿下医学分割SOTA！不用改模型、不加token]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 07:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404604.html</guid>
+      <title>It's all about the angle: Your photos, re-composed</title>
+      <link>https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/</link>
+      <description>&lt;![CDATA[It's all about the angle: Your photos, re-composed]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>这些人读个博一年能挣几十万？2026苹果学者名单公布了</title>
-      <link>https://www.qbitai.com/2026/04/404481.html</link>
-      <description>&lt;![CDATA[这些人读个博一年能挣几十万？2026苹果学者名单公布了]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 07:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404481.html</guid>
+      <title>“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺</title>
+      <link>https://www.qbitai.com/2026/04/404721.html</link>
+      <description>&lt;![CDATA[“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404721.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆</title>
+      <link>https://www.qbitai.com/2026/04/404713.html</link>
+      <description>&lt;![CDATA[科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 13:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404713.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>神秘模型「大象」：仅100B拿下SOTA，Token效率超高！</title>
+      <link>https://www.qbitai.com/2026/04/404645.html</link>
+      <description>&lt;![CDATA[神秘模型「大象」：仅100B拿下SOTA，Token效率超高！]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404645.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖</title>
+      <link>https://www.qbitai.com/2026/04/404631.html</link>
+      <description>&lt;![CDATA[香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/404631.html</guid>
       <category>Ai</category>
     </item>
   </channel>

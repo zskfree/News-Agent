@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 09:24
+**最后更新时间**: 2026-04-22 23:50
+
+---
+
+## 🆕 最新更新 (2026-04-22 23:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tesla boosts spending plans to $25bn as Musk doubles down on AI bet](https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67)
+**发布时间**: 2026-04-22 23:30
+
+#### [Iran war drives Panama Canal lane prices to record high](https://www.ft.com/content/05c0e794-4ed9-4e2a-a026-fb8575f789c3)
+**发布时间**: 2026-04-22 23:11
+
+#### [Trump envoy seeks to replace Iran with Italy in football World Cup](https://www.ft.com/content/1ff3a3fd-8d46-4eb4-9b15-0b9183925c6f)
+**发布时间**: 2026-04-22 20:59
+
+#### [US allies in Gulf and Asia have requested swap lines, Bessent says](https://www.ft.com/content/c6581d09-b86e-4372-8f14-d0153f8a7bf5)
+**发布时间**: 2026-04-22 18:35
+
+#### [Crypto billionaire Justin Sun sues Trump family’s World Liberty Financial](https://www.ft.com/content/d8ba5daa-2af8-4242-b875-e4ebb4d9dbb8)
+**发布时间**: 2026-04-22 18:13
+
+#### [Chelsea’s US owners sack another head coach](https://www.ft.com/content/a1d28a23-9e87-45ef-bd43-a91985a2a665)
+**发布时间**: 2026-04-22 17:57
+
+#### [Trump’s ‘dirty ceasefire’ tested as Iran hits shipping](https://www.ft.com/content/0cef8ea8-801a-4084-b637-7d2cf3f3a30c)
+**发布时间**: 2026-04-22 16:48
+
+#### [Starmer challenged in cabinet over Mandelson scandal as ministers step up criticism](https://www.ft.com/content/8fea1e8f-185f-4701-a4ca-c06930d72ae6)
+**发布时间**: 2026-04-22 15:40
+
+#### [Reform UK undercuts Labour and Tories for its first ‘Business Day’](https://www.ft.com/content/43fa89de-02f4-4e45-9f76-457c76b9e126)
+**发布时间**: 2026-04-22 14:33
+
+#### [Britain’s desperate need for Keir Badenoch](https://www.ft.com/content/8868aa94-64a1-4196-ac7f-090ce4cf5561)
+**发布时间**: 2026-04-22 11:34
+
+#### [How the £100,000 tax trap is shaping work](https://www.ft.com/content/c10e4f2f-5564-42a4-8aa7-66c78ca1c61e)
+**发布时间**: 2026-04-22 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Lululemon is getting a Nike veteran as its new CEO. An analyst says that could be a problem.](https://www.marketwatch.com/story/lululemon-is-getting-a-nike-veteran-as-its-new-ceo-an-analyst-says-that-could-be-a-problem-500004d1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 23:29
+
+#### [3 tests Apple’s new CEO must pass to prove he can grow the company in ways Tim Cook never did](https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:48
+
+#### [CSX says more businesses are shipping via rail to avoid surging fuel costs](https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:21
+
+#### [These investments promise high yield with bond-like safety. But what looks too good to be true often is.](https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:12
+
+#### [Flight cuts are spreading as fuel costs surge — and higher summer fares look likely](https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:01
+
+#### [Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis](https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:42
+
+#### [The Iran cease-fire has boosted investors’ appetite for bitcoin. Here’s why it could break past $80,000 soon.](https://www.marketwatch.com/story/the-iran-cease-fire-has-boosted-investors-appetite-for-bitcoin-heres-why-it-could-break-past-80-000-soon-29c08c3e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:37
+
+#### [Capital One increases provision for bad-debt expenses as earnings miss Wall Street consensus](https://www.marketwatch.com/story/capital-one-increases-provision-for-bad-debt-expenses-as-earnings-miss-wall-street-consensus-842d3c98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:27
+
+#### [Boeing’s defense business is booming at a time when airplanes are disappointing](https://www.marketwatch.com/story/boeings-defense-business-is-booming-at-a-time-when-airplanes-are-disappointing-1a5ff1ac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:24
+
+#### [Market chaos gives money managers a chance to beat index funds — just like they’re supposed to do](https://www.marketwatch.com/story/market-chaos-gives-skilled-managers-a-chance-to-beat-index-funds-just-like-theyre-supposed-to-do-b85cfd52?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:22
 
 ---
 
