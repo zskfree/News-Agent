@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 23:50
+**最后更新时间**: 2026-04-23 07:03
+
+---
+
+## 🆕 最新更新 (2026-04-23 07:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK public sector borrowing hit £12.6bn in March as Iran war strains finances](https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0)
+**发布时间**: 2026-04-23 06:17
+
+#### [Escape from Hormuz: the oil tankers running the Iranian gauntlet](https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d)
+**发布时间**: 2026-04-23 04:06
+
+#### [Allegations about Mandelson and Epstein reported to National Crime Agency in 2024](https://www.ft.com/content/0d650019-7f2f-45bc-a93f-e100f99086b9)
+**发布时间**: 2026-04-23 04:00
+
+#### [Sadiq Khan: Labour risks being ‘stonked’ in London elections](https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb)
+**发布时间**: 2026-04-23 04:00
+
+#### [Business degrees are booming in the UK. Who is profiting?](https://www.ft.com/content/e199ae71-f4a2-4abd-9444-de47c456b7ae)
+**发布时间**: 2026-04-23 04:00
+
+#### [The secret diary of a middle power](https://www.ft.com/content/cac5870b-5507-4130-b4fd-a1c60d0ed6f3)
+**发布时间**: 2026-04-23 04:00
+
+#### [UK could save £2.5bn by helping banks to buy gilts, says Barclays](https://www.ft.com/content/e351c513-ef18-4fbe-8406-c297efbad8e2)
+**发布时间**: 2026-04-23 04:00
+
+#### [Nelson Peltz’s son builds first public activist stake in Intertek](https://www.ft.com/content/6153dca4-ce70-4dfd-946e-811cc1d4794b)
+**发布时间**: 2026-04-23 04:00
+
+#### [US Navy secretary fired amid Iran blockade](https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0)
+**发布时间**: 2026-04-23 00:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow](https://www.marketwatch.com/story/ficos-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 01:43
+
+#### [Why ServiceNow’s stock is sliding in the wake of earnings](https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 00:23
+
+#### [IBM’s stock falls as software revenue underwhelms](https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 00:22
+
+#### [POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.](https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 23:58
 
 ---
 

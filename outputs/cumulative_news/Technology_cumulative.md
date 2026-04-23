@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-22 23:50
+**最后更新时间**: 2026-04-23 07:03
+
+---
+
+## 🆕 最新更新 (2026-04-23 07:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中年期干预、多靶点延寿，“长生不老”医学走到哪一步了？丨行业风向标](https://www.tmtpost.com/7963992.html)
+**发布时间**: 2026-04-23 14:29
+
+#### [理想换了一种活法](https://www.tmtpost.com/7963444.html)
+**发布时间**: 2026-04-23 12:42
+
+#### [杭州的一个下午，我被一家脑机接口公司打动了](https://www.tmtpost.com/7963443.html)
+**发布时间**: 2026-04-23 12:42
+
+#### [脑机接口，一场没有硝烟的算法战争](https://www.tmtpost.com/7964027.html)
+**发布时间**: 2026-04-23 12:42
+
+#### [FAIR plus2026正式开展，深圳机器人白皮书重磅发布](https://www.tmtpost.com/7963971.html)
+**发布时间**: 2026-04-23 12:17
+
+#### [美国稀土公司急了：28亿美元，吞下巴西稀土矿](https://www.tmtpost.com/7963975.html)
+**发布时间**: 2026-04-23 12:02
+
+#### [马斯克600亿吞Cursor，剑指OpenAI](https://www.tmtpost.com/7963517.html)
+**发布时间**: 2026-04-23 12:02
+
+#### [瑞士信息与通信科技企业Albatross研发用于商品实时推荐的AI模型，提升用户个性化导购体验](https://www.tmtpost.com/7963939.html)
+**发布时间**: 2026-04-23 11:53
+
+#### [吉利汽车估值“意难平”](https://www.tmtpost.com/7963802.html)
+**发布时间**: 2026-04-23 11:53
+
+#### [AI手机该进入新阶段了](https://www.tmtpost.com/7963390.html)
+**发布时间**: 2026-04-23 11:53
+
+#### [AI上桌了，谁还需要电影人啊？](https://www.tmtpost.com/7964020.html)
+**发布时间**: 2026-04-23 11:40
+
+#### [托伦斯：8成收入绑定双巨头，实控人姐夫套现6.45亿“离场”｜IPO观察](https://www.tmtpost.com/7962885.html)
+**发布时间**: 2026-04-23 10:26
+
+#### [爱奇艺的AI剧，困在「人情世故」](https://www.tmtpost.com/7963476.html)
+**发布时间**: 2026-04-23 10:11
+
+#### [凯达重工：未上市业绩先变脸，研发不足2%却高毛利，核心品惊现负毛利销售｜IPO观察](https://www.tmtpost.com/7962894.html)
+**发布时间**: 2026-04-23 10:09
+
+#### [汽车价格战，突然停了](https://www.tmtpost.com/7963758.html)
+**发布时间**: 2026-04-23 09:52
+
+#### [“深圳四小龙”，谁是3D打印第一？](https://www.tmtpost.com/7963790.html)
+**发布时间**: 2026-04-23 09:36
+
+#### [腾讯与字节的AI时差：1200天](https://www.tmtpost.com/7963576.html)
+**发布时间**: 2026-04-23 09:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [老板让你“忽悠”投资人，你敢发给龙虾吗？](https://www.infoq.cn/video/GK8pH4D6EKegYSLsZLgL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-23 12:05
+
+#### [Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流](https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-23 11:00
+
+#### [清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单](https://www.infoq.cn/article/BSZXO0VGFlBkmIke18ht?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-23 10:21
+
+#### [Pretext.js 绕过 DOM 布局重排，实现 120 FPS 的高级交互体验](https://www.infoq.cn/article/JYZIHVuwOCUWrE5Pq9av?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-23 10:00
+
+#### [靠“AI 云”爆红的 Vercel，栽在一个第三方AI工具手里！IPO前夕遭黑，200万美元赎金谈崩？](https://www.infoq.cn/article/OJN55xPWaVxT2IajEw6G?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-23 09:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜秒看视频参数，我做了个免费的 Mac 小工具](https://sspai.com/post/108385)
+**发布时间**: 2026-04-23 11:00
+
+#### [派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等](https://sspai.com/post/108991)
+**发布时间**: 2026-04-23 08:34
+
+#### [2026 第一季度音乐精选：这耐听的 8 张专辑包办你的春天](https://sspai.com/post/108574)
+**发布时间**: 2026-04-22 17:37
 
 ---
 

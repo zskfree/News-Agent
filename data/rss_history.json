@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8679276ca89422cd7d17bf63d2d1ae2ed46b341a08bd1c9e8bd78e1f0ffd1fc6": {
-        "title": "芯片2030年要国产80%，但眼下AI安全投入竟不足5%：Gartner 2026拉响CIO警报",
-        "link": "https://www.tmtpost.com/7926480.html",
-        "published_date": "Tue, 24 Mar 2026 09:57:00 GMT",
-        "first_seen": "2026-03-24T06:02:36.632145"
-      },
-      "5788912f6eb3a47e06775b9fe4b54273fd62b35dc05aeb83e6003398f83cf3b7": {
-        "title": "GTC 2026: 黄仁勋的万亿美元豪赌，NVIDIA 正在变成什么？",
-        "link": "https://www.tmtpost.com/7926544.html",
-        "published_date": "Tue, 24 Mar 2026 12:39:00 GMT",
-        "first_seen": "2026-03-24T06:02:36.632155"
-      },
-      "6ccfe02e5f7f20ac0e40fdcf8c50f1705d356314676fb7690794f914fd703672": {
-        "title": "AI芯片：回望过去一年，展望2026",
-        "link": "https://www.tmtpost.com/7926538.html",
-        "published_date": "Tue, 24 Mar 2026 10:33:00 GMT",
-        "first_seen": "2026-03-24T06:02:36.632158"
-      },
-      "bb4e5e0bd03562cf637862408f9077fce57bba09a6b4fc9118ae75e2362f3bc0": {
-        "title": "7天狂飙2.3万Star：在GitHub上“开外包公司”，这个新项目戳破大模型的全能幻觉",
-        "link": "https://www.tmtpost.com/7925106.html",
-        "published_date": "Tue, 24 Mar 2026 10:43:00 GMT",
-        "first_seen": "2026-03-24T06:02:36.632160"
-      },
-      "bb55e488fea98473dd6dd197890fb0c0178cefc860ad2e2a516dd84004eefea3": {
-        "title": "Agentic AI 时代，软件工程如何被重塑｜QCon 北京 2026 即将开幕",
-        "link": "https://www.infoq.cn/article/oWDM8y5ozWwrNdyUdhc1?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 12:38:00 GMT",
-        "first_seen": "2026-03-24T06:02:36.632162"
-      },
       "7a664d7ae497b8e52c8a665c4317dc3bb06f4322181c3ecd2800d5637cf65a57": {
         "title": "【钛晨报】国家对成品油价格采取临时调控措施：平均每升少涨约0.85元；马斯克宣布将在美国建设芯片制造中心，目标是量产2纳米工艺芯片；影石刘靖康发文回应大疆起诉",
         "link": "https://www.tmtpost.com/7926145.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7963262.html",
         "published_date": "Wed, 22 Apr 2026 18:32:00 GMT",
         "first_seen": "2026-04-22T23:51:09.531670"
+      },
+      "fffeaed3b31cda0b4b0092f53b4d9dcb89d68f30736dcaf49c3497132c67035a": {
+        "title": "瑞士信息与通信科技企业Albatross研发用于商品实时推荐的AI模型，提升用户个性化导购体验",
+        "link": "https://www.tmtpost.com/7963939.html",
+        "published_date": "Thu, 23 Apr 2026 11:53:00 GMT",
+        "first_seen": "2026-04-23T07:03:53.164270"
+      },
+      "0742edab871aa333c2cd90bb861213828c0c40914b306718967f766dbc27d01d": {
+        "title": "FAIR plus2026正式开展，深圳机器人白皮书重磅发布",
+        "link": "https://www.tmtpost.com/7963971.html",
+        "published_date": "Thu, 23 Apr 2026 12:17:00 GMT",
+        "first_seen": "2026-04-23T07:03:53.164280"
+      },
+      "5937fa7c4643975cbc33981e1ea325db85ea6e538a9c3b92444caa3268c2b68c": {
+        "title": "凯达重工：未上市业绩先变脸，研发不足2%却高毛利，核心品惊现负毛利销售｜IPO观察",
+        "link": "https://www.tmtpost.com/7962894.html",
+        "published_date": "Thu, 23 Apr 2026 10:09:00 GMT",
+        "first_seen": "2026-04-23T07:03:53.164283"
+      },
+      "227ebe130f22099edfaa4e0622db7ebce2dde1c935f9fbb43a64e1c6246f0bdc": {
+        "title": "派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等",
+        "link": "https://sspai.com/post/108991",
+        "published_date": "Thu, 23 Apr 2026 08:34:00 GMT",
+        "first_seen": "2026-04-23T07:03:53.164285"
+      },
+      "833f2b40d8988937f06a6d750298b3c67b9b04eae8a7bc2737a5cb46b0dd763c": {
+        "title": "中年期干预、多靶点延寿，“长生不老”医学走到哪一步了？丨行业风向标",
+        "link": "https://www.tmtpost.com/7963992.html",
+        "published_date": "Thu, 23 Apr 2026 14:29:00 GMT",
+        "first_seen": "2026-04-23T07:03:53.164287"
       }
     },
     "Finance": {
-      "244ebc1948fc76d148f830334c4fefd2157ae340533a5f8910de222c55ae3077": {
-        "title": "SoftBank tests its own borrowing limits with $30bn bet on OpenAI",
-        "link": "https://www.ft.com/content/021d360f-23eb-469e-8894-14ac93fb7718",
-        "published_date": "Tue, 24 Mar 2026 01:15:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.031268"
-      },
-      "02853562241416597ecc5418cb0c2c74c495946e1a35d2e510041d9e9b5afce3": {
-        "title": "Hormuz fertiliser block will upend world’s food supply",
-        "link": "https://www.ft.com/content/c1398187-304d-44d3-857f-673b8da0f87a",
-        "published_date": "Tue, 24 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.031275"
-      },
-      "4179fb41bd946822dfdfed0f281bffec90582cc3c1ea39288b2a7ff523719f56": {
-        "title": "Carmakers rush to secure aluminium as Middle East war hits supply",
-        "link": "https://www.ft.com/content/167fdf4b-0afd-4a05-a6bd-e3d1518cd84d",
-        "published_date": "Tue, 24 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.031293"
-      },
-      "22efc0c31cbde3c83cf9809ffd616ac25589b37f2e88584aaf199ca5546b025d": {
-        "title": "China’s leaders hunt for strategic gains from US quagmire in Iran",
-        "link": "https://www.ft.com/content/3f0b5309-2791-4370-a6d9-d0ed84820db5",
-        "published_date": "Tue, 24 Mar 2026 03:41:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.031294"
-      },
-      "a3d330a2d457722a869b6319e978f73c28298f0923fecd9ef2fe9badf0cea802": {
-        "title": "‘The bank told me I could be liable’: I found out why my brother, who has a reverse mortgage, ran out of money",
-        "link": "https://www.marketwatch.com/story/the-bank-told-me-i-could-be-liable-i-found-out-why-my-brother-who-has-a-reverse-mortgage-ran-out-of-money-bd2d2b7a?mod=mw_rss_topstories",
-        "published_date": "Mon, 23 Mar 2026 23:53:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.031296"
-      },
       "5f60b0df18ee34335e6faaf5eb38d1b887b14e8a852d4dde579f4a2335640584": {
         "title": "Revolut profits surge to record as it wins market share",
         "link": "https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b",
@@ -4905,27 +4875,39 @@
         "link": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
         "published_date": "Wed, 22 Apr 2026 22:12:00 GMT",
         "first_seen": "2026-04-22T23:51:30.815031"
+      },
+      "cb82ec6eccbdd293cce52dfe4a8a343dc27802be30b0aeb9900b0dc1dda1a4f4": {
+        "title": "UK public sector borrowing hit £12.6bn in March as Iran war strains finances",
+        "link": "https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0",
+        "published_date": "Thu, 23 Apr 2026 06:17:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.609510"
+      },
+      "1707cd096d7d99df78aaccf53afed65d0c2c0ca2ddd49cb1bf94798fefc6e53a": {
+        "title": "Escape from Hormuz: the oil tankers running the Iranian gauntlet",
+        "link": "https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d",
+        "published_date": "Thu, 23 Apr 2026 04:06:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.609519"
+      },
+      "24fe9cae946f1cdca182825688bcb65db8086a00d714d1c29f8c5fbdc9e20a20": {
+        "title": "Allegations about Mandelson and Epstein reported to National Crime Agency in 2024",
+        "link": "https://www.ft.com/content/0d650019-7f2f-45bc-a93f-e100f99086b9",
+        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.609521"
+      },
+      "2754e3fa3868c58cc162a17cbd623c08c085f6643a13660487e65d54f520e181": {
+        "title": "Sadiq Khan: Labour risks being ‘stonked’ in London elections",
+        "link": "https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb",
+        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.609522"
+      },
+      "31330eeb156b5cb10ee2c5aacad3866226af661c4a884447be2425449b9a8e85": {
+        "title": "Business degrees are booming in the UK. Who is profiting?",
+        "link": "https://www.ft.com/content/e199ae71-f4a2-4abd-9444-de47c456b7ae",
+        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.609524"
       }
     },
     "Ai": {
-      "f77a5547ce1adf7192b2ee501576abc85f2a1dca521fff4027e0923910a729ec": {
-        "title": "2026-03-24日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-24/",
-        "published_date": "Tue, 24 Mar 2026 09:29:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.182957"
-      },
-      "e6b9e9b914ed7b6e856f05dd7265fd9fe740d08ea4bd7a4cedbea47509a6f585": {
-        "title": "OpenClaw逼出Claude最强反击！GUI操控电脑和真人无差别，网友：这得花多少token？",
-        "link": "https://www.qbitai.com/2026/03/391567.html",
-        "published_date": "Tue, 24 Mar 2026 02:20:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.182965"
-      },
-      "c9c232a618721d02317f16a091cd9f06d723196ed854204a44d171f264b0ceb3": {
-        "title": "龙虾史上最大升级！但接了微信的千万别更",
-        "link": "https://www.qbitai.com/2026/03/391520.html",
-        "published_date": "Tue, 24 Mar 2026 01:24:00 GMT",
-        "first_seen": "2026-03-24T06:02:48.182967"
-      },
       "ff715df2ddbd671f37c6ff11afd944ec8eb96b23d3f7d7bed8d659728213c24e": {
         "title": "LeCun的世界模型单GPU就能跑了",
         "link": "https://www.qbitai.com/2026/03/391698.html",
@@ -6413,13 +6395,43 @@
         "link": "https://www.qbitai.com/2026/04/404631.html",
         "published_date": "Wed, 22 Apr 2026 09:52:00 GMT",
         "first_seen": "2026-04-22T23:51:30.963614"
+      },
+      "97a05d3504b5b26fbb66fc658457251d987ab32ff0edfc7e4a117cde4c7502e0": {
+        "title": "2026-04-23日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-23/",
+        "published_date": "Thu, 23 Apr 2026 10:22:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.757750"
+      },
+      "2aaec30e157e31b4a288d08d49211109c8d88e464e3af3a9275c442884f5fed2": {
+        "title": "Nature封面：机器人乒乓球干翻人类职业选手",
+        "link": "https://www.qbitai.com/2026/04/405370.html",
+        "published_date": "Thu, 23 Apr 2026 06:45:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.757758"
+      },
+      "15f9178cfcec81c0a5d88db0372f7f7b09ee130e1b8ad5728cb22741ff3c87a9": {
+        "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
+        "link": "https://www.qbitai.com/2026/04/405358.html",
+        "published_date": "Thu, 23 Apr 2026 05:13:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.757760"
+      },
+      "4937d82c64c16b6dcbc25329a7c22c1a9947bd5b39240a941e2b14a8a391c834": {
+        "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
+        "link": "https://www.qbitai.com/2026/04/405325.html",
+        "published_date": "Thu, 23 Apr 2026 00:57:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.757762"
+      },
+      "7fbc8542b71fd9361d2e83b8f528808283ce6d4a32d6ffed8d903cf1b25f2cec": {
+        "title": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "link": "https://www.qbitai.com/2026/04/405299.html",
+        "published_date": "Thu, 23 Apr 2026 00:43:00 GMT",
+        "first_seen": "2026-04-23T07:04:11.757763"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-22T23:51:09.531672",
-    "Finance": "2026-04-22T23:51:30.815034",
-    "Ai": "2026-04-22T23:51:30.963616"
+    "Technology": "2026-04-23T07:03:53.164289",
+    "Finance": "2026-04-23T07:04:11.609526",
+    "Ai": "2026-04-23T07:04:11.757765"
   }
 }
