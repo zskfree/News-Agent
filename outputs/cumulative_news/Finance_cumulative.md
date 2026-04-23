@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 09:47
+**最后更新时间**: 2026-04-23 23:51
+
+---
+
+## 🆕 最新更新 (2026-04-23 23:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Intel’s stock is on track for a historic surge after earnings](https://www.marketwatch.com/story/why-intels-stock-is-on-track-for-a-historic-surge-after-earnings-5128afa7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 23:29
+
+#### [French weather forecast office files police complaint following suspicious Polymarket bets](https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 22:43
+
+#### [Trump is swaying the market like no president has in decades, analysis shows](https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 22:09
+
+#### [The cannabis rescheduling is causing celebration — and confusion — as marijuana stocks sell off](https://www.marketwatch.com/story/the-cannabis-rescheduling-is-causing-celebration-and-confusion-as-marijuana-stocks-sell-off-f79330e0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:27
+
+#### [Nike is cutting 1,400 more jobs — and the company’s shake-up is not done yet](https://www.marketwatch.com/story/nike-is-cutting-1-400-more-jobs-the-companys-shakeup-is-not-done-yet-2851f3b8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:22
+
+#### [Employee buyouts like Microsoft’s could become more common. Here’s what workers need to know.](https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:12
+
+#### [ServiceNow’s stock just had its worst day ever, taking the software sector down with it](https://www.marketwatch.com/story/servicenows-stock-sinks-toward-worst-day-ever-taking-the-software-sector-down-with-it-77fd240d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US soldier charged in prediction market bets on Maduro’s seizure](https://www.ft.com/content/43bc927b-683d-417e-aa13-a9b4a933418b)
+**发布时间**: 2026-04-23 22:56
+
+#### [Trump says Israel and Lebanon will extend ceasefire by 3 weeks](https://www.ft.com/content/730f572b-edf7-4633-bdfd-1707f16d445b)
+**发布时间**: 2026-04-23 22:13
+
+#### [Griffin’s Citadel attacks Mamdani for using his penthouse to sell New York tax plan](https://www.ft.com/content/29216b36-2507-4aa0-9432-959bd155a053)
+**发布时间**: 2026-04-23 21:29
+
+#### [US shale bosses resist boosting oil output over Iran war ‘chaos’](https://www.ft.com/content/273c0321-0678-4ac0-9ccc-432301865b4c)
+**发布时间**: 2026-04-23 20:47
+
+#### [UK in talks with Anthropic over Mythos access for banks](https://www.ft.com/content/fe563a8e-e269-4a6b-a577-8ed16a805a7b)
+**发布时间**: 2026-04-23 20:05
+
+#### [Meta to cut 10% of jobs to ‘offset’ Zuckerberg’s AI spending](https://www.ft.com/content/fe875f6c-f45c-4dbd-9d18-168d1fdbfd5f)
+**发布时间**: 2026-04-23 19:59
+
+#### [Vanguard chief warns of ‘financial exploitation’ by prediction markets](https://www.ft.com/content/e5d1fe19-0768-4962-b5f2-88926336c1b5)
+**发布时间**: 2026-04-23 19:56
+
+#### [Microsoft to offer 7% of US staff voluntary redundancy for the first time](https://www.ft.com/content/f5776fd6-22f3-43d1-806b-9858b64cfd18)
+**发布时间**: 2026-04-23 16:56
+
+#### [South Africa’s new Trump whisperer](https://www.ft.com/content/a2a3cd21-3b8e-40a0-82a2-31e547aaf3b8)
+**发布时间**: 2026-04-23 16:46
+
+#### [Arnault warns Middle East war could spiral into ‘global catastrophe’](https://www.ft.com/content/f620ab8c-bdf6-4684-b129-4f30a0d6efaf)
+**发布时间**: 2026-04-23 14:01
+
+#### [Labour is being destroyed by its former saviours](https://www.ft.com/content/d8565d0d-18b4-4a11-8a54-c054dcfdd753)
+**发布时间**: 2026-04-23 11:24
 
 ---
 

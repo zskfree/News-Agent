@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Apr 2026 09:45:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2026 09:47:41 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 23:49:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:51:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神</title>
-      <link>https://www.qbitai.com/2026/04/405391.html</link>
-      <description>&lt;![CDATA[半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405391.html</guid>
+      <title>刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢</title>
+      <link>https://www.qbitai.com/2026/04/406221.html</link>
+      <description>&lt;![CDATA[刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 20:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406221.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>河南师傅，左手扳手，右手飞书，竟然能搞数据分析！</title>
+      <link>https://www.qbitai.com/2026/04/406191.html</link>
+      <description>&lt;![CDATA[河南师傅，左手扳手，右手飞书，竟然能搞数据分析！]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406191.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家</title>
+      <link>https://www.qbitai.com/2026/04/406020.html</link>
+      <description>&lt;![CDATA[国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406020.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」</title>
+      <link>https://www.qbitai.com/2026/04/406036.html</link>
+      <description>&lt;![CDATA[印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406036.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>飞书项目开放平台焕新升级，全面迈向“AI Friendly”</title>
+      <link>https://www.qbitai.com/2026/04/406026.html</link>
+      <description>&lt;![CDATA[飞书项目开放平台焕新升级，全面迈向“AI Friendly”]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 09:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406026.html</guid>
       <category>Ai</category>
     </item>
   </channel>
