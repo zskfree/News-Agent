@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Apr 2026 07:01:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2026 07:04:11 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 09:45:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:47:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-23日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-23/</link>
-      <description>&lt;![CDATA[2026-04-23日刊]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-23/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Nature封面：机器人乒乓球干翻人类职业选手</title>
-      <link>https://www.qbitai.com/2026/04/405370.html</link>
-      <description>&lt;![CDATA[Nature封面：机器人乒乓球干翻人类职业选手]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405370.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴</title>
-      <link>https://www.qbitai.com/2026/04/405358.html</link>
-      <description>&lt;![CDATA[PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 05:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405358.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了</title>
-      <link>https://www.qbitai.com/2026/04/405325.html</link>
-      <description>&lt;![CDATA[特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 00:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405325.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>挖漏洞何必Mythos，国产智能体早跑通了</title>
-      <link>https://www.qbitai.com/2026/04/405299.html</link>
-      <description>&lt;![CDATA[挖漏洞何必Mythos，国产智能体早跑通了]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 00:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405299.html</guid>
+      <title>半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神</title>
+      <link>https://www.qbitai.com/2026/04/405391.html</link>
+      <description>&lt;![CDATA[半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/405391.html</guid>
       <category>Ai</category>
     </item>
   </channel>

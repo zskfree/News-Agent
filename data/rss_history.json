@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7a664d7ae497b8e52c8a665c4317dc3bb06f4322181c3ecd2800d5637cf65a57": {
-        "title": "【钛晨报】国家对成品油价格采取临时调控措施：平均每升少涨约0.85元；马斯克宣布将在美国建设芯片制造中心，目标是量产2纳米工艺芯片；影石刘靖康发文回应大疆起诉",
-        "link": "https://www.tmtpost.com/7926145.html",
-        "published_date": "Tue, 24 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.904018"
-      },
-      "e12bb15fe5a9d6b2080c972aaa102dfb3cf624910cadb9bef247ad61d1c1ad0a": {
-        "title": "英伟达联手 Akamai：AI Grid 背后的 Token 成本与吞吐博弈",
-        "link": "https://www.infoq.cn/article/cBqdxzzI0YOXSUAbsaxz?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 11:15:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.904027"
-      },
-      "c1fe67ea6a5de6095022d809a38a8f70fa9d000d34a3801e42c8284cc7744338": {
-        "title": "异格技术完成数亿元A轮融资，加速高端FPGA芯片国产化｜融资速递",
-        "link": "https://www.tmtpost.com/7926262.html",
-        "published_date": "Tue, 24 Mar 2026 10:30:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.904030"
-      },
-      "002e448d0406061da338ae7883ef4a2f08c0126909dba2f0f0177d8d257c3ca4": {
-        "title": "从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期",
-        "link": "https://www.tmtpost.com/7926590.html",
-        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.904032"
-      },
-      "9bb308eb6cd21d875e0868f822f674f2fa3b3a3d3d9d8574d7681d14f957c1d4": {
-        "title": "从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务",
-        "link": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 15:18:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.904034"
-      },
       "704af406cf5256bd3bd83ffab5f7e6d9d0322f5fb60a3f735cda5b29e62515f8": {
         "title": "英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价",
         "link": "https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article",
@@ -2671,27 +2641,39 @@
         "link": "https://www.tmtpost.com/7963992.html",
         "published_date": "Thu, 23 Apr 2026 14:29:00 GMT",
         "first_seen": "2026-04-23T07:03:53.164287"
+      },
+      "6a33d73877c0393845e3eee11e3434da9e5cfa866b956306e9ff039d82d8d3da": {
+        "title": "全年净利润腰斩、研发与销售费用双高，普门科技“烧钱”渡劫丨看财报",
+        "link": "https://www.tmtpost.com/7964264.html",
+        "published_date": "Thu, 23 Apr 2026 15:46:00 GMT",
+        "first_seen": "2026-04-23T09:47:17.727589"
+      },
+      "fab3f561d97732e81adfe0bac186f6b615aa3905447e09bd26e9f470b4a2d179": {
+        "title": "在全球最大的学术会议上，中国创新药挤走MNC",
+        "link": "https://www.tmtpost.com/7964188.html",
+        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-23T09:47:17.727603"
+      },
+      "72db56f5e28d97d2dc782107557049e7316f48b66a01c062afab1e95d672a099": {
+        "title": "养猪血亏，上市猪企靠什么续命？",
+        "link": "https://www.tmtpost.com/7963885.html",
+        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-23T09:47:17.727606"
+      },
+      "ae21ec907029fa622eec71aa3d2d003e7824f236977f83bfcd37447669922779": {
+        "title": "体内CAR-T的泡沫起来了？",
+        "link": "https://www.tmtpost.com/7963984.html",
+        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-23T09:47:17.727608"
+      },
+      "fe864ed4a0c5e63ded9e3aae089e48b731ad0f618eb3f1c8876f2f4828bb2807": {
+        "title": "这一次，OpenAI干掉了90%人类设计师",
+        "link": "https://www.tmtpost.com/7964063.html",
+        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
+        "first_seen": "2026-04-23T09:47:17.727610"
       }
     },
     "Finance": {
-      "5f60b0df18ee34335e6faaf5eb38d1b887b14e8a852d4dde579f4a2335640584": {
-        "title": "Revolut profits surge to record as it wins market share",
-        "link": "https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b",
-        "published_date": "Tue, 24 Mar 2026 07:29:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.939147"
-      },
-      "1ed50eafdcfb610131e61c6656e2797115c448d25911b16dff0ef29037effb4e": {
-        "title": "Japan’s SMFG explores possible takeover of Jefferies",
-        "link": "https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4",
-        "published_date": "Tue, 24 Mar 2026 07:23:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.939153"
-      },
-      "49dce1af8b1565fafb53bfa7837d4dc78c7f1374d9fd18ec7f844350feec1968": {
-        "title": "Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG",
-        "link": "https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797",
-        "published_date": "Tue, 24 Mar 2026 06:12:00 GMT",
-        "first_seen": "2026-03-24T08:56:31.939155"
-      },
       "e2ef2d54569e950bc23958e8692356a6fad6531a8cd91071c782eba77ae32a03": {
         "title": "VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence",
         "link": "https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072",
@@ -4905,21 +4887,39 @@
         "link": "https://www.ft.com/content/e199ae71-f4a2-4abd-9444-de47c456b7ae",
         "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-23T07:04:11.609524"
+      },
+      "b5f6ad96b99ed9436eca4584874618e1b1fc984b5771d2c7aae842ad268c5ec8": {
+        "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
+        "link": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Apr 2026 09:17:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.657156"
+      },
+      "fba48a5bba9d3420575f8e5b38c1ae463abc3274dfbe454a847be4a20d2a99a7": {
+        "title": "Texas Instruments topped Wall Street’s outlook on more than just data-center demand",
+        "link": "https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Apr 2026 08:43:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.657165"
+      },
+      "2fe7eab45bcfe3395c301854d70a33f8734715499ce32b11ffabc4123192fa0b": {
+        "title": "UK business activity rose more than expected in April",
+        "link": "https://www.ft.com/content/f0209b31-f3c7-44d4-9dcd-ff6569d9b071",
+        "published_date": "Thu, 23 Apr 2026 09:10:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.657167"
+      },
+      "65d750769c6e3d5b3da109f559040ab54f53ff2dd2efa75add20649208712a92": {
+        "title": "L’Oréal hails ‘lipstick effect’ as war drives sales of small beauty comforts",
+        "link": "https://www.ft.com/content/a1be76ce-3bcf-41d8-ba3f-06f4e938a294",
+        "published_date": "Thu, 23 Apr 2026 08:22:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.657168"
+      },
+      "3eccf99e79f56e463a9c889a69862f79d0c6cd87b310b25a6e36d378183a3100": {
+        "title": "Sainsbury’s and WHSmith warn Middle East war will hit profits",
+        "link": "https://www.ft.com/content/9607fdb9-cf1d-4b2f-9b89-6aa5cde0a371",
+        "published_date": "Thu, 23 Apr 2026 07:35:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.657171"
       }
     },
     "Ai": {
-      "ff715df2ddbd671f37c6ff11afd944ec8eb96b23d3f7d7bed8d659728213c24e": {
-        "title": "LeCun的世界模型单GPU就能跑了",
-        "link": "https://www.qbitai.com/2026/03/391698.html",
-        "published_date": "Tue, 24 Mar 2026 07:00:00 GMT",
-        "first_seen": "2026-03-24T08:56:32.086277"
-      },
-      "2122c8dd3b7c4b4e9fd470ac78ccbc3f7e78a0e15fb7ada54b97f46cb6fff8fc": {
-        "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-        "link": "https://www.qbitai.com/2026/03/391668.html",
-        "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
-        "first_seen": "2026-03-24T08:56:32.086285"
-      },
       "e9656800216f7d55f051f14e34d08d593689ca31ba3160b89d346fe6e04b5880": {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
@@ -6425,13 +6425,19 @@
         "link": "https://www.qbitai.com/2026/04/405299.html",
         "published_date": "Thu, 23 Apr 2026 00:43:00 GMT",
         "first_seen": "2026-04-23T07:04:11.757763"
+      },
+      "9f1c2933fe59bf0d549779fd7841e49fc33e7867d494a104baa3b6a6007d964d": {
+        "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
+        "link": "https://www.qbitai.com/2026/04/405391.html",
+        "published_date": "Thu, 23 Apr 2026 08:04:00 GMT",
+        "first_seen": "2026-04-23T09:47:41.811044"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-23T07:03:53.164289",
-    "Finance": "2026-04-23T07:04:11.609526",
-    "Ai": "2026-04-23T07:04:11.757765"
+    "Technology": "2026-04-23T09:47:17.727612",
+    "Finance": "2026-04-23T09:47:41.657174",
+    "Ai": "2026-04-23T09:47:41.811052"
   }
 }

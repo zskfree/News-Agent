@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 07:03
+**最后更新时间**: 2026-04-23 09:47
+
+---
+
+## 🆕 最新更新 (2026-04-23 09:47)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The good times roll for SK Hynix with record-breaking quarter, but living up to expectations isn’t easy](https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:42
+
+#### [Analysts try to quell the panic after Taiwan Semiconductor said a high-end ASML machine was too expensive](https://www.marketwatch.com/story/analysts-try-to-quell-the-panic-after-taiwan-semiconductor-said-a-high-end-asml-machine-was-too-expensive-e6e43f6e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:40
+
+#### [I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?](https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:17
+
+#### [Years after he auctioned it off, NSYNC singer Joey Fatone’s former mansion is on the market for $7.9 million](https://www.marketwatch.com/story/years-after-he-auctioned-it-off-nsync-singer-joey-fatones-former-mansion-is-on-the-market-for-7-9-million-e529701d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:01
+
+#### [‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.](https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:00
+
+#### [Texas Instruments topped Wall Street’s outlook on more than just data-center demand](https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 08:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK business activity rose more than expected in April](https://www.ft.com/content/f0209b31-f3c7-44d4-9dcd-ff6569d9b071)
+**发布时间**: 2026-04-23 09:10
+
+#### [L’Oréal hails ‘lipstick effect’ as war drives sales of small beauty comforts](https://www.ft.com/content/a1be76ce-3bcf-41d8-ba3f-06f4e938a294)
+**发布时间**: 2026-04-23 08:22
+
+#### [Sainsbury’s and WHSmith warn Middle East war will hit profits](https://www.ft.com/content/9607fdb9-cf1d-4b2f-9b89-6aa5cde0a371)
+**发布时间**: 2026-04-23 07:35
+
+#### [US navy secretary fired amid Iran blockade](https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0)
+**发布时间**: 2026-04-23 00:21
 
 ---
 
