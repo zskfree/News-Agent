@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Apr 2026 07:09:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 07:09:57 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 09:48:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:49:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式</title>
-      <link>https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破</title>
+      <link>https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.5发布：两倍定价，半步进化</title>
-      <link>https://www.tmtpost.com/7965610.html</link>
-      <description>&lt;![CDATA[GPT-5.5发布：两倍定价，半步进化]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 12:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7965610.html</guid>
+      <title>马斯克“豪赌”Terafab：不造芯片，就没有未来</title>
+      <link>https://www.tmtpost.com/7966030.html</link>
+      <description>&lt;![CDATA[马斯克“豪赌”Terafab：不造芯片，就没有未来]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966030.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：OpenAI 发布 GPT-5.5 系列模型等</title>
-      <link>https://sspai.com/post/109032</link>
-      <description>&lt;![CDATA[派早报：OpenAI 发布 GPT-5.5 系列模型等]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/109032</guid>
+      <title>DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来</title>
+      <link>https://www.tmtpost.com/7965919.html</link>
+      <description>&lt;![CDATA[DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7965919.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>银行业PDF表格提取方案重构：基于Java的分层方案</title>
-      <link>https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[银行业PDF表格提取方案重构：基于Java的分层方案]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具</title>
+      <link>https://sspai.com/post/108455</link>
+      <description>&lt;![CDATA[换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/108455</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！</title>
-      <link>https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权</title>
+      <link>https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 07:09
+**最后更新时间**: 2026-04-24 09:48
+
+---
+
+## 🆕 最新更新 (2026-04-24 09:48)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?](https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:15
+
+#### [How SaaSpocalypse fears actually bolstered SAP profits by over $150 million](https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:14
+
+#### [TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market](https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:01
+
+#### [How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up](https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 08:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The danger of weaponising dollar swap lines](https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519)
+**发布时间**: 2026-04-24 04:00
 
 ---
 

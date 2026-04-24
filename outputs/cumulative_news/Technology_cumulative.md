@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 07:09
+**最后更新时间**: 2026-04-24 09:48
+
+---
+
+## 🆕 最新更新 (2026-04-24 09:48)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破](https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:29
+
+#### [DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权](https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:23
+
+#### [李志飞的“新实验”：当超级个体撞上真实组织](https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:20
+
+#### [GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍](https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:17
+
+#### [那些没空写的小需求，龙虾真能做吗？](https://www.infoq.cn/video/WUXOyysFxiXtKcwgiafQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 16:55
+
+#### [从 Pandas 到生产：使用任意 IDE 进行可扩展的 ML 数据管道与分布式处理 ｜ BUILD 2025](https://www.infoq.cn/video/U9jS6r7F3UzxlBOu1XTo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 16:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [突发！代季峰与陈天桥矛盾激化，离职MiroMind真相曝光｜钛媒体独家](https://www.tmtpost.com/7965984.html)
+**发布时间**: 2026-04-24 17:21
+
+#### [冲击“全球最大智驾方案供应商”头衔，赵明和千里都在赌](https://www.tmtpost.com/7965748.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [罕见领涨银行股，贵阳银行“触底”了？](https://www.tmtpost.com/7965032.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [IPO前夜，云鲸开始紧急「补课」](https://www.tmtpost.com/7965929.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [割草机器人增长63.8%，行业增速拐点逼近下Yarbo能否突出重围？｜出海爆品先知](https://www.tmtpost.com/7966120.html)
+**发布时间**: 2026-04-24 17:10
+
+#### [具身智能数据战：群核建道场，百度铺管道，京东搭舞台](https://www.tmtpost.com/7966140.html)
+**发布时间**: 2026-04-24 17:08
+
+#### [DeepSeek告别“孤胆英雄”时代](https://www.tmtpost.com/7966122.html)
+**发布时间**: 2026-04-24 17:07
+
+#### [“手搓”应用全民化，大厂打响新一轮卡位战](https://www.tmtpost.com/7966095.html)
+**发布时间**: 2026-04-24 17:03
+
+#### [歌尔：跨过越南 “招工坑”，毛利回血、增长仍 “断档”？](https://www.tmtpost.com/7966090.html)
+**发布时间**: 2026-04-24 17:03
+
+#### [智能驾驶行业还有一轮附加赛](https://www.tmtpost.com/7966070.html)
+**发布时间**: 2026-04-24 17:03
+
+#### [“泰国之战”：中国汽车如何攻破日系车后花园？](https://www.tmtpost.com/7966063.html)
+**发布时间**: 2026-04-24 17:02
+
+#### [天孚通信赴港IPO，光模块产业链上游深度绑定英伟达](https://www.tmtpost.com/7965961.html)
+**发布时间**: 2026-04-24 17:02
+
+#### [实测DeepSeekV4：天下武功，唯快不破](https://www.tmtpost.com/7966000.html)
+**发布时间**: 2026-04-24 16:56
+
+#### [滴滴、千问们的AI打车，可能找错了方向](https://www.tmtpost.com/7966018.html)
+**发布时间**: 2026-04-24 16:56
+
+#### [马斯克“豪赌”Terafab：不造芯片，就没有未来](https://www.tmtpost.com/7966030.html)
+**发布时间**: 2026-04-24 16:56
+
+#### [DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来](https://www.tmtpost.com/7965919.html)
+**发布时间**: 2026-04-24 15:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
+**发布时间**: 2026-04-24 15:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [DeepSeek V4 来了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533230&idx=1&sn=1516924587a358ab92c829ba86c4f2ff)
+**发布时间**: 2026-04-24 11:42
+
+#### [给 10 万 Star 的 Hermes 装个记忆外挂，AI 终于能越用越聪明了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533154&idx=1&sn=9a2f93eb586ab3300a3b08a92d229197)
+**发布时间**: 2026-04-23 15:04
 
 ---
 

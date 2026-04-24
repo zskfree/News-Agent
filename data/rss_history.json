@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8952ef38708464552205c5858c1d7d30c491604fc57db0bbde5f14160e9e37be": {
-        "title": "35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单",
-        "link": "https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.706205"
-      },
-      "b5424864906f0f329ed160f025490af99947878bb765970914f592fcf8d992e2": {
-        "title": "一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=1&sn=c7cd8fb8b1c8e26111ba72c54bdf214f",
-        "published_date": "Wed, 25 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.706214"
-      },
-      "3165930a61b634e41e2bc13e956be0c9b6ed6c535e3cc480ca11fbf370204a59": {
-        "title": "AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法",
-        "link": "https://www.tmtpost.com/7927102.html",
-        "published_date": "Wed, 25 Mar 2026 14:52:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.706216"
-      },
-      "2a0d7e69b11620daad07d997ddcde5fa90b71dcffa3d4b47af80b3cf6adea9bd": {
-        "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
-        "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 15:53:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.706218"
-      },
-      "4db19357ae1bf6d11d837ac2f8c8afc1cf4430190406fe9902011256928b2896": {
-        "title": "2026中国企业AI应用场景报告",
-        "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 25 Mar 2026 14:32:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.706220"
-      },
       "b4d5c5e22519fcb7cb4d1351635e3cfc231a75a8677eda402e82fd9b28c6ac04": {
         "title": "中国通用大模型十强争霸：谁配得上“第一”这个称号？",
         "link": "https://www.tmtpost.com/7928697.html",
@@ -2671,21 +2641,39 @@
         "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 24 Apr 2026 11:07:00 GMT",
         "first_seen": "2026-04-24T07:09:57.418273"
+      },
+      "69cc0a46da1ae9595b3400cd75b532ac6d1e34818287a10c5b0892092b7c3534": {
+        "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
+        "link": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:29:00 GMT",
+        "first_seen": "2026-04-24T09:49:00.167471"
+      },
+      "7a782503931c8ecfb3cff19e88913fbbd3510ef47d9670d8b9c2568188b11d7d": {
+        "title": "马斯克“豪赌”Terafab：不造芯片，就没有未来",
+        "link": "https://www.tmtpost.com/7966030.html",
+        "published_date": "Fri, 24 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-24T09:49:00.167479"
+      },
+      "1a4cef5a4e89b6b78cbc4b5f1a3650879a66988803c18f1e5527322c34a40627": {
+        "title": "DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来",
+        "link": "https://www.tmtpost.com/7965919.html",
+        "published_date": "Fri, 24 Apr 2026 15:39:00 GMT",
+        "first_seen": "2026-04-24T09:49:00.167482"
+      },
+      "f1cba786a40f606bee68fbf4a3b1898ca4ccaeb0487f11498b7e838de017b355": {
+        "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
+        "link": "https://sspai.com/post/108455",
+        "published_date": "Fri, 24 Apr 2026 15:06:00 GMT",
+        "first_seen": "2026-04-24T09:49:00.167484"
+      },
+      "0d41c0cad883926d73729f1a095fcfda93b766796b7d601bde4a374ae259c560": {
+        "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+        "link": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 17:23:00 GMT",
+        "first_seen": "2026-04-24T09:49:00.167485"
       }
     },
     "Finance": {
-      "b2c841d497c2d19fcf2eaa58050e5cc13d39827081e25facd6faae66ad1ca43c": {
-        "title": "UK inflation held steady at 3% in February before energy shock",
-        "link": "https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b",
-        "published_date": "Wed, 25 Mar 2026 07:53:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.741677"
-      },
-      "e809fe6331d9da2a5ab5b2e4d719f66e9aecee9df2d0bd59a501ee70ef92a180": {
-        "title": "What’s moving long-term interest rates?",
-        "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
-        "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.741699"
-      },
       "fb22c394d9c1ac4b114a5f2bac14c54fb206bacf8dc65dfa6bf185452305bbbc": {
         "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
         "link": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
@@ -4917,33 +4905,33 @@
         "link": "https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9",
         "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-24T07:09:40.883746"
+      },
+      "e4909adc249705e6dba7f49e10c7087edfce89dee920205d94a2cb326ca3eee4": {
+        "title": "‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?",
+        "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:15:00 GMT",
+        "first_seen": "2026-04-24T09:48:29.679149"
+      },
+      "6371674339c7cd62d9052bc5ccc2a81bdb928c31332d7262682563ecb3c786a9": {
+        "title": "How SaaSpocalypse fears actually bolstered SAP profits by over $150 million",
+        "link": "https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:14:00 GMT",
+        "first_seen": "2026-04-24T09:48:29.679157"
+      },
+      "fe0e944518b219dda3d6fa7dbed2cd033472a8833cbe52d6d421b3d77ce64359": {
+        "title": "TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market",
+        "link": "https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-24T09:48:29.679159"
+      },
+      "adb48f9e821627abe60bf881c0f39dab83cfe5240dde94a340a343307afec546": {
+        "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up",
+        "link": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 08:02:00 GMT",
+        "first_seen": "2026-04-24T09:48:29.679161"
       }
     },
     "Ai": {
-      "6abb69925ff51aff4681f24107a9f3610248224cb6a08fda05845a56568f2424": {
-        "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-        "link": "https://www.qbitai.com/2026/03/392024.html",
-        "published_date": "Wed, 25 Mar 2026 06:39:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.890395"
-      },
-      "2fa88667f1c7a913977369cd1cb578a9d7d856492575b8d3cf523d64d8404e72": {
-        "title": "中国AI音乐，悄悄把全球第一拿走了",
-        "link": "https://www.qbitai.com/2026/03/391839.html",
-        "published_date": "Wed, 25 Mar 2026 06:36:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.890403"
-      },
-      "da6e2166f1c3fae1b443b6d2717d4115d2a02468e380ec8ace68202fc42f4e45": {
-        "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
-        "link": "https://www.qbitai.com/2026/03/391894.html",
-        "published_date": "Wed, 25 Mar 2026 06:25:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.890405"
-      },
-      "a522b3065698602d1c464e69f7edd425f5d9427393ec7915230de7b77b9641ba": {
-        "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
-        "link": "https://www.qbitai.com/2026/03/391890.html",
-        "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
-        "first_seen": "2026-03-25T08:55:04.890406"
-      },
       "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
         "title": "第一批“首席龙虾官”，月薪6万",
         "link": "https://www.qbitai.com/2026/03/392128.html",
@@ -6436,8 +6424,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-24T07:09:57.418275",
-    "Finance": "2026-04-24T07:09:40.883748",
+    "Technology": "2026-04-24T09:49:00.167488",
+    "Finance": "2026-04-24T09:48:29.679163",
     "Ai": "2026-04-24T07:09:41.025466"
   }
 }
