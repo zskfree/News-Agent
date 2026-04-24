@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4d5c5e22519fcb7cb4d1351635e3cfc231a75a8677eda402e82fd9b28c6ac04": {
-        "title": "中国通用大模型十强争霸：谁配得上“第一”这个称号？",
-        "link": "https://www.tmtpost.com/7928697.html",
-        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
-        "first_seen": "2026-03-25T23:39:11.998396"
-      },
-      "8b33a6a7e2631b1d7ee1ab9298ed41caf3ac8d1fcf8cadf3961ca6ac356b4453": {
-        "title": "【钛晨报】加快建立长期护理保险制度，中办、国办最新部署；拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿；SpaceX计划最早于本周提交IPO申请筹集超过750亿美元资金",
-        "link": "https://www.tmtpost.com/7929223.html",
-        "published_date": "Thu, 26 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-25T23:39:11.998409"
-      },
-      "858c405d50c0476993369f4c6f33c412bb00f6198db5e2be65055ae53695f1c4": {
-        "title": "“龙虾思想”背后：把AI战火正式推向软件层",
-        "link": "https://www.tmtpost.com/7928874.html",
-        "published_date": "Wed, 25 Mar 2026 18:29:00 GMT",
-        "first_seen": "2026-03-25T23:39:11.998411"
-      },
-      "31aa7d5848ecd1e3ac65afa516c3c608062c59c13ec42bc02d7514a6e32801cc": {
-        "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
-        "link": "https://sspai.com/post/107800",
-        "published_date": "Wed, 25 Mar 2026 17:42:00 GMT",
-        "first_seen": "2026-03-25T23:39:11.998413"
-      },
-      "5f4fdfc55fc0aeb14a3dd4d744f4bc5e4ac966890c6ecf99994bcd99f76e4c28": {
-        "title": "开源 2 周 5 万 Star！AI 大佬开源了一个自己做实验的工具。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532500&idx=2&sn=5f7aa069d2da91923ca2dddb3f98aeab",
-        "published_date": "Wed, 25 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-25T23:39:11.998416"
-      },
       "58d6b99294e6845f1a092a7137de480ab3a080ac37bdb767fcc565721478d756": {
         "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
         "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 24 Apr 2026 17:23:00 GMT",
         "first_seen": "2026-04-24T09:49:00.167485"
+      },
+      "3d692e0aab61e8d6756d6606f0d885c17e37a0934e0dd5f8209564f0e249cc8d": {
+        "title": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "link": "https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 10:11:00 GMT",
+        "first_seen": "2026-04-24T23:42:50.501738"
+      },
+      "fa6ba2d459a53c19934d96d89d1a17caf48d56f48e716b1c906d145a954c0015": {
+        "title": "Anthropic最新AI经济报告：AI 正在取代造它的人",
+        "link": "https://www.tmtpost.com/7964714.html",
+        "published_date": "Fri, 24 Apr 2026 13:28:00 GMT",
+        "first_seen": "2026-04-24T23:42:50.501746"
+      },
+      "6329fefb152b5f41d82c69bd5c06d3208adb75c6754f808ba623703f048f15bb": {
+        "title": "华为异军突起，速腾份额减少，激光雷达迎来双寡头时代",
+        "link": "https://www.tmtpost.com/7965877.html",
+        "published_date": "Fri, 24 Apr 2026 18:58:00 GMT",
+        "first_seen": "2026-04-24T23:42:50.501748"
+      },
+      "8971995f53a97de883d030b8fe2e9a8eb1def2a6ba5fb751998e10999f632e6d": {
+        "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+        "link": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 18:46:00 GMT",
+        "first_seen": "2026-04-24T23:42:50.501750"
+      },
+      "4a7354ee970946bc7f12c92c9f3d2d67278bca7e665a8ef0208c9057848b6f85": {
+        "title": "具身智能数据战：群核建道场，百度铺管道，京东搭舞台",
+        "link": "https://www.tmtpost.com/7966140.html",
+        "published_date": "Fri, 24 Apr 2026 17:08:00 GMT",
+        "first_seen": "2026-04-24T23:42:50.501752"
       }
     },
     "Finance": {
-      "fb22c394d9c1ac4b114a5f2bac14c54fb206bacf8dc65dfa6bf185452305bbbc": {
-        "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
-        "link": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
-        "published_date": "Wed, 25 Mar 2026 22:17:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.198395"
-      },
-      "132579e4ad2524dddf53bd7ea4461c583f7e9410ee1b948610d29da67581ca08": {
-        "title": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
-        "link": "https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories",
-        "published_date": "Wed, 25 Mar 2026 21:26:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.198402"
-      },
-      "d93de22a654be5030e078599b226e614d6761c9934500b0e34d171ce577665ef": {
-        "title": "Meta and Google liable for harm to children’s mental health in landmark US case",
-        "link": "https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a",
-        "published_date": "Wed, 25 Mar 2026 22:05:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.198404"
-      },
-      "34ebbc97297e726c259f4cf604e60b3bf45dc8d4690fa6fe029477e76de19cba": {
-        "title": "Oil volatile as Iran lays out own terms to end conflict",
-        "link": "https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b",
-        "published_date": "Wed, 25 Mar 2026 23:30:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.198406"
-      },
-      "e59d8f2f1c0ee225513d7535d63a097d8616fcff6d36221fdaed0d5edc69dc1f": {
-        "title": "UK says Chinese wind turbine maker poses national security threat",
-        "link": "https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b",
-        "published_date": "Wed, 25 Mar 2026 21:22:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.198407"
-      },
       "3bb961f04bd65d59da22c91406ea3e3a6ee5cd62c452359de801d88aeffd57e0": {
         "title": "The spectre of stagflation",
         "link": "https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32",
@@ -4929,27 +4899,39 @@
         "link": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
         "published_date": "Fri, 24 Apr 2026 08:02:00 GMT",
         "first_seen": "2026-04-24T09:48:29.679161"
+      },
+      "d3182ab1e0f0910827080c4d8c5d2970b4e97b411b146d34474537a34ecf717f": {
+        "title": "Google to invest up to $40bn in Anthropic",
+        "link": "https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8",
+        "published_date": "Fri, 24 Apr 2026 17:54:00 GMT",
+        "first_seen": "2026-04-24T23:42:17.595450"
+      },
+      "e37c22f72ce140796c0ec0d003bff664293fb08ac6cf974a7558efb6ac62a17b": {
+        "title": "The golden age of arbitrage has begun",
+        "link": "https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843",
+        "published_date": "Fri, 24 Apr 2026 14:41:00 GMT",
+        "first_seen": "2026-04-24T23:42:17.595461"
+      },
+      "d0b10972dd3dc4c9e8831dd3ea1fbcb9b5ed587d5caae333de722870df9bcd54": {
+        "title": "Why crude prices won’t fall back to levels seen before the Iran war anytime soon",
+        "link": "https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 19:07:00 GMT",
+        "first_seen": "2026-04-24T23:42:17.595464"
+      },
+      "90aaa33da856ed31082d8da452d58164d59ee5dfbeda3e759427d3a1b68e64ce": {
+        "title": "Intel’s stock extends its spectacular run by posting its best day in nearly four decades",
+        "link": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 20:54:00 GMT",
+        "first_seen": "2026-04-24T23:42:17.595467"
+      },
+      "a048a1f427b0075174bd2fc3715f7d194be11d1bad839dabbd23f169e4f21fb5": {
+        "title": "Amazon-backed nuclear developer X-energy surges 27% in trading debut",
+        "link": "https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73",
+        "published_date": "Fri, 24 Apr 2026 20:50:00 GMT",
+        "first_seen": "2026-04-24T23:42:17.595468"
       }
     },
     "Ai": {
-      "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
-        "title": "第一批“首席龙虾官”，月薪6万",
-        "link": "https://www.qbitai.com/2026/03/392128.html",
-        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.358048"
-      },
-      "78b5487087bfcde7fb5fa673d647be03db692cb03715fbd07ed3624d537c5ddc": {
-        "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
-        "link": "https://www.qbitai.com/2026/03/392121.html",
-        "published_date": "Wed, 25 Mar 2026 11:31:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.358056"
-      },
-      "1d3c225902250bf322ec59ef2ff106c37e054006737f61d2ef1c1a761a509790": {
-        "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
-        "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
-        "published_date": "Wed, 25 Mar 2026 09:14:00 GMT",
-        "first_seen": "2026-03-25T23:39:28.358059"
-      },
       "d0642467090e455de6a09eaab38026a44db9bc4a1375a2b60ab73f048466fa8d": {
         "title": "2026-03-26日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-26/",
@@ -6419,13 +6401,43 @@
         "link": "https://www.qbitai.com/2026/04/406359.html",
         "published_date": "Fri, 24 Apr 2026 04:17:00 GMT",
         "first_seen": "2026-04-24T07:09:41.025463"
+      },
+      "89cb9295e6ffcb01c53cd38cbd338e17e0611fabe71f903853168521bbbd0ed1": {
+        "title": "DeepSeek-V4发布，华为云首发适配",
+        "link": "https://www.qbitai.com/2026/04/406791.html",
+        "published_date": "Fri, 24 Apr 2026 10:10:00 GMT",
+        "first_seen": "2026-04-24T23:42:29.798629"
+      },
+      "db3f635c5d5f7a74a4979c434d49a905210b1ec75cb6162676acdba8d5e2ce99": {
+        "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+        "link": "https://www.qbitai.com/2026/04/406806.html",
+        "published_date": "Fri, 24 Apr 2026 11:49:00 GMT",
+        "first_seen": "2026-04-24T23:42:29.798635"
+      },
+      "22814dce8860bc994ee09dd4a5933b142886bfdcd5cdc2a1b9c6dcdd99fdf54b": {
+        "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
+        "link": "https://www.qbitai.com/2026/04/406767.html",
+        "published_date": "Fri, 24 Apr 2026 09:40:00 GMT",
+        "first_seen": "2026-04-24T23:42:29.798637"
+      },
+      "2539b926007e755962361984d5b6659cc7639f70faf79a3ebafc419dfc436303": {
+        "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+        "link": "https://www.qbitai.com/2026/04/406802.html",
+        "published_date": "Fri, 24 Apr 2026 10:23:00 GMT",
+        "first_seen": "2026-04-24T23:42:29.798639"
+      },
+      "2b86c7bb8532a50a71edb50dbce846fcb5c7ff8ad048649021b669a433f9175a": {
+        "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
+        "link": "https://www.qbitai.com/2026/04/406775.html",
+        "published_date": "Fri, 24 Apr 2026 09:45:00 GMT",
+        "first_seen": "2026-04-24T23:42:29.798640"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-24T09:49:00.167488",
-    "Finance": "2026-04-24T09:48:29.679163",
-    "Ai": "2026-04-24T07:09:41.025466"
+    "Technology": "2026-04-24T23:42:50.501754",
+    "Finance": "2026-04-24T23:42:17.595471",
+    "Ai": "2026-04-24T23:42:29.798643"
   }
 }

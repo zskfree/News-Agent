@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 09:48
+**最后更新时间**: 2026-04-24 23:41
+
+---
+
+## 🆕 最新更新 (2026-04-24 23:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘AI genuinely freaks me out’: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position — with a 50-minute commute?](https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:38
+
+#### [‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?](https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:19
+
+#### [Nvidia’s stock sees its first record close in 6 months — thanks to Intel](https://www.marketwatch.com/story/nvidias-stock-heads-for-first-record-close-in-6-months-thanks-to-intel-21af7d28?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:00
+
+#### [Intel’s stock extends its spectacular run by posting its best day in nearly four decades](https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:54
+
+#### [AMD’s stock is red-hot — and just hit a major milestone](https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:36
+
+#### [There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?](https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:29
+
+#### [Charter’s stock just got hammered. Here’s what fueled its worst day on record.](https://www.marketwatch.com/story/charters-stock-is-getting-hammered-heres-whats-fueling-its-worst-day-on-record-11f991a0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:26
+
+#### [Why crude prices won’t fall back to levels seen before the Iran war anytime soon](https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 19:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Texas’s governor threatened to pull World Cup grants in battle over ICE enforcement](https://www.ft.com/content/d80a5a7c-95f4-4fab-b44e-69bdb5c04b4f)
+**发布时间**: 2026-04-24 21:37
+
+#### [Amazon-backed nuclear developer X-energy surges 27% in trading debut](https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73)
+**发布时间**: 2026-04-24 20:50
+
+#### [US stocks race ahead of Europe as Wall Street shrugs off energy shock](https://www.ft.com/content/199c4082-9c97-4f59-bdb0-8b1f53abb11a)
+**发布时间**: 2026-04-24 20:30
+
+#### [Starmer promises imminent laws to ban IRGC](https://www.ft.com/content/0d7b0fd1-8e7c-404d-988d-15b31e91c1eb)
+**发布时间**: 2026-04-24 18:28
+
+#### [BA forced to downgrade thousands more loyalty scheme members after ‘error’](https://www.ft.com/content/60eebca5-1cf2-4183-a9b5-cc62830da8f3)
+**发布时间**: 2026-04-24 18:09
+
+#### [Witkoff and Kushner to travel to Islamabad as hopes rise for Iran peace talks](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e)
+**发布时间**: 2026-04-24 18:08
+
+#### [Google to invest up to $40bn in Anthropic](https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8)
+**发布时间**: 2026-04-24 17:54
+
+#### [London’s luxury hoteliers lose sleep over fall in Middle East visitors](https://www.ft.com/content/cd09462a-60b7-4868-af9c-f4554fe7794e)
+**发布时间**: 2026-04-24 17:00
+
+#### [The Apple juggernaut and the AI roadblock](https://www.ft.com/content/2d1805b1-8750-4120-ad50-3fdbe8791836)
+**发布时间**: 2026-04-24 17:00
+
+#### [Investors push for higher yield on $14bn of Oracle-backed data centre debt](https://www.ft.com/content/e9682adb-f29a-4169-8bf0-19e299e906e2)
+**发布时间**: 2026-04-24 16:00
+
+#### [The golden age of arbitrage has begun](https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843)
+**发布时间**: 2026-04-24 14:41
 
 ---
 

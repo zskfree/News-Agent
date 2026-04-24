@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Apr 2026 07:04:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 07:09:41 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 23:42:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-24日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-24/</link>
-      <description>&lt;![CDATA[2026-04-24日刊]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-24/</guid>
+      <title>DeepSeek-V4发布，华为云首发适配</title>
+      <link>https://www.qbitai.com/2026/04/406791.html</link>
+      <description>&lt;![CDATA[DeepSeek-V4发布，华为云首发适配]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406791.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片</title>
-      <link>https://www.qbitai.com/2026/04/406359.html</link>
-      <description>&lt;![CDATA[DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406359.html</guid>
+      <title>优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化</title>
+      <link>https://www.qbitai.com/2026/04/406806.html</link>
+      <description>&lt;![CDATA[优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406806.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型</title>
+      <link>https://www.qbitai.com/2026/04/406767.html</link>
+      <description>&lt;![CDATA[100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406767.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用</title>
+      <link>https://www.qbitai.com/2026/04/406802.html</link>
+      <description>&lt;![CDATA[PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406802.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进</title>
+      <link>https://www.qbitai.com/2026/04/406775.html</link>
+      <description>&lt;![CDATA[Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406775.html</guid>
       <category>Ai</category>
     </item>
   </channel>

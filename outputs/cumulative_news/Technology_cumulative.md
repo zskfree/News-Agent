@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 09:48
+**最后更新时间**: 2026-04-24 23:41
+
+---
+
+## 🆕 最新更新 (2026-04-24 23:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独家对话帕西尼许晋诚：一颗199的触觉传感器如何撑起百亿估值](https://www.tmtpost.com/7966743.html)
+**发布时间**: 2026-04-24 23:27
+
+#### [上市即变脸，并购再“续命”：北方长龙4亿"接盘"顺义科技，押注智能检测](https://www.tmtpost.com/7966754.html)
+**发布时间**: 2026-04-24 22:59
+
+#### [美股燃气轮机龙头订单爆满，中国厂商有哪些机会](https://www.tmtpost.com/7966472.html)
+**发布时间**: 2026-04-24 19:07
+
+#### [华为异军突起，速腾份额减少，激光雷达迎来双寡头时代](https://www.tmtpost.com/7965877.html)
+**发布时间**: 2026-04-24 18:58
+
+#### [狂飙之后，赚钱为王](https://www.tmtpost.com/7966471.html)
+**发布时间**: 2026-04-24 18:58
+
+#### [大疆VS影石双向博弈：手持相机赛道激战，手机巨头搅局](https://www.tmtpost.com/7966370.html)
+**发布时间**: 2026-04-24 18:57
+
+#### [合康新能的“任重”与“道远”](https://www.tmtpost.com/7966293.html)
+**发布时间**: 2026-04-24 18:57
+
+#### [国外买不到、国内卖不动，“小电驴”凭什么拿到双重剧本？](https://www.tmtpost.com/7966255.html)
+**发布时间**: 2026-04-24 18:52
+
+#### [对话地平线苏箐：做产品的人，第二天一醒过来又开始焦虑了](https://www.tmtpost.com/7966317.html)
+**发布时间**: 2026-04-24 18:51
+
+#### [短剧圈“军备竞赛”：狂撒30亿，撒钱、抢人、建闭环](https://www.tmtpost.com/7966456.html)
+**发布时间**: 2026-04-24 18:51
+
+#### [洲明科技“四个第一”难掩盈利困局，去年增收不增利，一季度由盈转亏丨看财报](https://www.tmtpost.com/7966437.html)
+**发布时间**: 2026-04-24 18:48
+
+#### [lululemon任命耐克前高管担任CEO；NNormal全球首店在成都开业；茶颜悦色正式进驻深圳｜消研所周报](https://www.tmtpost.com/7966407.html)
+**发布时间**: 2026-04-24 18:36
+
+#### [科大讯飞联合清华系团队，如何做一家“AI+量子”公司](https://www.tmtpost.com/7966322.html)
+**发布时间**: 2026-04-24 17:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案](https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 19:18
+
+#### [Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践](https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:51
+
+#### [Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了](https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:46
+
+#### [当互联网用AI卷效率时，这家公司先问了一连串“能不能”](https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:39
+
+#### [Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人](https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:34
+
+#### [Meta“Token榜”逼疯打工人，一夜烧掉公司几万刀！AI时代Token焦虑越来越离谱](https://www.infoq.cn/article/GPGgiqtS9tCiHjNkUOOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
+**发布时间**: 2026-04-24 18:17
 
 ---
 
