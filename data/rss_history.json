@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fb3f7d4528c7dbaa3401531a66016ae6428a1d9413751eb0a15130dbcda9146b": {
-        "title": "Arm下场造芯：首推AGI CPU直供Meta，万亿算力市场的“越顶传球”",
-        "link": "https://www.tmtpost.com/7928400.html",
-        "published_date": "Wed, 25 Mar 2026 13:44:00 GMT",
-        "first_seen": "2026-03-25T06:04:00.245844"
-      },
-      "d2414060ee1a64172059916b38645e37bae419a09113053b3867b3733c5ae8b0": {
-        "title": "豪掷5000亿美元，孙正义要做“AI电力之王”？",
-        "link": "https://www.tmtpost.com/7926481.html",
-        "published_date": "Wed, 25 Mar 2026 11:48:00 GMT",
-        "first_seen": "2026-03-25T06:04:00.245856"
-      },
-      "29b89f2ad0aa8befe8929233a9a8f2c6e3edc57f8b281e2ad6441a8f3d50fd0a": {
-        "title": "2026，具身智能开始「清场」",
-        "link": "https://www.tmtpost.com/7928180.html",
-        "published_date": "Wed, 25 Mar 2026 11:49:00 GMT",
-        "first_seen": "2026-03-25T06:04:00.245859"
-      },
-      "a1d48c43a64449e568da312b8476ddc3618ade4187bba61d8bce9bd34dbd4362": {
-        "title": "马斯克造芯片，年产2000亿颗，80%将在太空运转",
-        "link": "https://www.tmtpost.com/7927919.html",
-        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
-        "first_seen": "2026-03-25T06:04:00.245861"
-      },
-      "694abcddf2b50f7ae244e87a63256a3817e0059f892f14e0cb3e30df87c84fc9": {
-        "title": "Meta收购AI社交平台Moltbook，扎克伯格要做什么？",
-        "link": "https://www.tmtpost.com/7928106.html",
-        "published_date": "Wed, 25 Mar 2026 11:22:00 GMT",
-        "first_seen": "2026-03-25T06:04:00.245862"
-      },
       "8952ef38708464552205c5858c1d7d30c491604fc57db0bbde5f14160e9e37be": {
         "title": "35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单",
         "link": "https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7963833.html",
         "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
         "first_seen": "2026-04-23T23:52:19.497572"
+      },
+      "5a344b8c47ee94194bb899c5e4c73bc1a8b6c9aa88fed9a11b0cb669db43928e": {
+        "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
+        "link": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:57.418257"
+      },
+      "dbc6cef95780d215fa0baa41b6b6336ce73f083b9de9264b0958491c98674881": {
+        "title": "GPT-5.5发布：两倍定价，半步进化",
+        "link": "https://www.tmtpost.com/7965610.html",
+        "published_date": "Fri, 24 Apr 2026 12:55:00 GMT",
+        "first_seen": "2026-04-24T07:09:57.418268"
+      },
+      "b8bafed705d1710a621108b847e17cf900e072a98a0120bf5f5495303305d213": {
+        "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
+        "link": "https://sspai.com/post/109032",
+        "published_date": "Fri, 24 Apr 2026 08:52:00 GMT",
+        "first_seen": "2026-04-24T07:09:57.418269"
+      },
+      "7dec5bd069a6c35c19547ac0388dbaf94174c33434abb29571e14ec9995859f6": {
+        "title": "银行业PDF表格提取方案重构：基于Java的分层方案",
+        "link": "https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:57.418272"
+      },
+      "274c07f708cd70b407a4be33166dc873e29489c658abb8a9d873c6fbee8616b6": {
+        "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
+        "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Apr 2026 11:07:00 GMT",
+        "first_seen": "2026-04-24T07:09:57.418273"
       }
     },
     "Finance": {
-      "37dd5d49493180f9d61ea68bcac3c36842c0a8cf59fccb62b5481b888a75064e": {
-        "title": "Oil back near $100 as Trump sends mixed signals on war",
-        "link": "https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb",
-        "published_date": "Wed, 25 Mar 2026 05:16:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.701216"
-      },
-      "91bbf3b750fc8782b5e84bdbefb196333a9ce378e53a8897fd249780f0c91b1a": {
-        "title": "China reviews $2bn Manus sale to Meta as founders barred from leaving country",
-        "link": "https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a",
-        "published_date": "Wed, 25 Mar 2026 04:38:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.701222"
-      },
-      "7da2fa31934686ef4bfa8e2dfa3a459d79b31bd88af425649447413e6569855a": {
-        "title": "Tumbling gold price puts ‘haven’ status in doubt",
-        "link": "https://www.ft.com/content/dbb810ae-0886-40fa-9f2c-e4676eec299c",
-        "published_date": "Wed, 25 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.701225"
-      },
-      "fdae660f6df5a07d2d1c03d51eb0b19f046b75c31f2a6f505db248c79e1a54e0": {
-        "title": "Farage’s Reform UK drops pledge to nationalise water and energy companies",
-        "link": "https://www.ft.com/content/be4b6cf0-21c8-466b-9458-dac864ab51b1",
-        "published_date": "Wed, 25 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.701227"
-      },
-      "30aadb7725d312a1a5b2d9c082a921467486a2a2edde9cc3aaaf808fda2e257c": {
-        "title": "European airlines hold off jet fuel hedging in Iran war gamble",
-        "link": "https://www.ft.com/content/6d4dc223-3295-49bb-8b35-041a5e6a96b6",
-        "published_date": "Wed, 25 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.701228"
-      },
       "b2c841d497c2d19fcf2eaa58050e5cc13d39827081e25facd6faae66ad1ca43c": {
         "title": "UK inflation held steady at 3% in February before energy shock",
         "link": "https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b",
@@ -4917,27 +4887,39 @@
         "link": "https://www.marketwatch.com/story/servicenows-stock-sinks-toward-worst-day-ever-taking-the-software-sector-down-with-it-77fd240d?mod=mw_rss_topstories",
         "published_date": "Thu, 23 Apr 2026 21:07:00 GMT",
         "first_seen": "2026-04-23T23:51:49.794929"
+      },
+      "32609b1681f31eb71a67d56cf38404b48a3fa0cb3c2e86645d4126abc11969de": {
+        "title": "Banks charged sharply different fees for access to Anthropic investment",
+        "link": "https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61",
+        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:40.883726"
+      },
+      "2f6d11ab3d206f660e612324c49f4d78a0c64059c7cfd9ca73160808df3bb386": {
+        "title": "Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans",
+        "link": "https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories",
+        "published_date": "Fri, 24 Apr 2026 00:01:00 GMT",
+        "first_seen": "2026-04-24T07:09:40.883738"
+      },
+      "c6413ceadef001215513f71e71291b881d5270e253f9fa02f29cf68db68e4eca": {
+        "title": "Warsh, Bessent and the fight for dollar supremacy",
+        "link": "https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519",
+        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:40.883741"
+      },
+      "4fea5ae18639d43318b3bc79b83fdc1142b7a7e50a631ae81b6035e4689947de": {
+        "title": "KPMG and EY demote partners in end of job-for-life model",
+        "link": "https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6",
+        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:40.883744"
+      },
+      "8209da2f1f625efa30eb0b834833f22a683d235390d314d519f0c37ca4367b65": {
+        "title": "Morgan McSweeney held talks with Google DeepMind over AI project",
+        "link": "https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9",
+        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-24T07:09:40.883746"
       }
     },
     "Ai": {
-      "2c7f35cfd97ad085b7652d717a45da1d247a8825834296569d67355dfa84c2bd": {
-        "title": "2026-03-25日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-25/",
-        "published_date": "Wed, 25 Mar 2026 09:40:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.861637"
-      },
-      "6fc5a4ca328d463fb5b83e3b6ba9ecef7ecd7f30f6d7e27eb96f9f4cad247944": {
-        "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
-        "link": "https://www.qbitai.com/2026/03/391830.html",
-        "published_date": "Wed, 25 Mar 2026 03:36:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.861645"
-      },
-      "2118263f15eaa3fb8ca6ed6d940e6641abe036e3567394f0b4fe9f0e6c7be7ae": {
-        "title": "OpenAI关停Sora！25个月从封神到退场",
-        "link": "https://www.qbitai.com/2026/03/391799.html",
-        "published_date": "Wed, 25 Mar 2026 00:13:00 GMT",
-        "first_seen": "2026-03-25T06:04:13.861647"
-      },
       "6abb69925ff51aff4681f24107a9f3610248224cb6a08fda05845a56568f2424": {
         "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
         "link": "https://www.qbitai.com/2026/03/392024.html",
@@ -6437,13 +6419,25 @@
         "link": "https://www.qbitai.com/2026/04/406026.html",
         "published_date": "Thu, 23 Apr 2026 09:55:00 GMT",
         "first_seen": "2026-04-23T23:51:49.944924"
+      },
+      "caee91f2ef47505af0ce50fc94b2d358c83504ed5b102801ae8e921aa6550583": {
+        "title": "2026-04-24日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-24/",
+        "published_date": "Fri, 24 Apr 2026 09:57:00 GMT",
+        "first_seen": "2026-04-24T07:09:41.025456"
+      },
+      "4a4f4db1c7f4a73df02322a09cc5496c8caf513dc920da830ea4d91eb3411bb0": {
+        "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
+        "link": "https://www.qbitai.com/2026/04/406359.html",
+        "published_date": "Fri, 24 Apr 2026 04:17:00 GMT",
+        "first_seen": "2026-04-24T07:09:41.025463"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-23T23:52:19.497574",
-    "Finance": "2026-04-23T23:51:49.794932",
-    "Ai": "2026-04-23T23:51:49.944927"
+    "Technology": "2026-04-24T07:09:57.418275",
+    "Finance": "2026-04-24T07:09:40.883748",
+    "Ai": "2026-04-24T07:09:41.025466"
   }
 }

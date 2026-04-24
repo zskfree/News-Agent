@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 23:51
+**最后更新时间**: 2026-04-24 07:09
+
+---
+
+## 🆕 最新更新 (2026-04-24 07:09)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式](https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 14:00
+
+#### [银行业PDF表格提取方案重构：基于Java的分层方案](https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 12:00
+
+#### [GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！](https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 11:07
+
+#### [Cloudflare 推出 Think：一款面向 AI 代理的持久化运行时](https://www.infoq.cn/article/l2DH5C3modDof2u5DXlE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 11:00
+
+#### [1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流](https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:11
+
+#### [xAI落后太多，马斯克“开大”重金求购Cursor，100亿美金“分手费”都敢签！](https://www.infoq.cn/article/1kS9ZTikmEsCTJFMBpN9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:08
+
+#### [Pulumi 新增对 Bun 运行时的全面支持](https://www.infoq.cn/article/rQSULhvrw9hks4xBHS5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从零训练一个原生大脑，自变量选择入驻真实家庭“实习”](https://www.tmtpost.com/7965515.html)
+**发布时间**: 2026-04-24 13:44
+
+#### [Anthropic最新AI经济报告：AI 正在取代造它的人](https://www.tmtpost.com/7964714.html)
+**发布时间**: 2026-04-24 13:28
+
+#### [大厂抢人：宁要一个“亿元大脑”，不要百个“代码民工”](https://www.tmtpost.com/7965769.html)
+**发布时间**: 2026-04-24 13:11
+
+#### [净利润暴跌60.69%，营收狂飙反亏，三一重能与金风、远景走出截然相反的路](https://www.tmtpost.com/7965702.html)
+**发布时间**: 2026-04-24 12:59
+
+#### [GPT-5.5发布：两倍定价，半步进化](https://www.tmtpost.com/7965610.html)
+**发布时间**: 2026-04-24 12:55
+
+#### [河北拟投4600亿元加速能源转型，真金白银奔赴万亿装机，盈利暗礁何时能越？](https://www.tmtpost.com/7965712.html)
+**发布时间**: 2026-04-24 12:55
+
+#### [一级市场流行“拼单”](https://www.tmtpost.com/7965764.html)
+**发布时间**: 2026-04-24 12:52
+
+#### [都说CNS是个坑，艾伯维偏偏不信邪](https://www.tmtpost.com/7965696.html)
+**发布时间**: 2026-04-24 12:51
+
+#### [估值超140亿元的蕉内，创立10年为何还不上市？](https://www.tmtpost.com/7965697.html)
+**发布时间**: 2026-04-24 12:43
+
+#### [国外游戏行业正在进入“后震期”？55%的人被裁后未再就业，44%想离开](https://www.tmtpost.com/7962134.html)
+**发布时间**: 2026-04-24 12:41
+
+#### [寻找“救命稻草”，50岁老牌药企常州四药为何着急“卖身”？](https://www.tmtpost.com/7964840.html)
+**发布时间**: 2026-04-24 12:35
+
+#### [中际旭创爆发，拿捏英伟达的中国老板，杀入10000亿俱乐部](https://www.tmtpost.com/7965425.html)
+**发布时间**: 2026-04-24 12:15
+
+#### [谷歌讲了一个英伟达不擅长的故事](https://www.tmtpost.com/7965487.html)
+**发布时间**: 2026-04-24 12:05
+
+#### [AI时代，品牌的分水岭是“内容品牌化”](https://www.tmtpost.com/7965590.html)
+**发布时间**: 2026-04-24 12:05
+
+#### [英特尔：告别 “至暗” 时刻，老霸主打响 “反击战”](https://www.tmtpost.com/7965446.html)
+**发布时间**: 2026-04-24 12:04
+
+#### [网约车老三，要上市了](https://www.tmtpost.com/7965421.html)
+**发布时间**: 2026-04-24 12:01
+
+#### [RMC-6236太“毒”了](https://www.tmtpost.com/7965414.html)
+**发布时间**: 2026-04-24 11:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
+**发布时间**: 2026-04-24 09:54
+
+#### [派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
+**发布时间**: 2026-04-24 08:52
 
 ---
 

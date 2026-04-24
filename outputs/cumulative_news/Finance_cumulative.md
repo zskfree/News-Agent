@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 23:51
+**最后更新时间**: 2026-04-24 07:09
+
+---
+
+## 🆕 最新更新 (2026-04-24 07:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Polish PM questions whether US is ‘loyal’ to Europe’s defence](https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb)
+**发布时间**: 2026-04-24 04:00
+
+#### [Donald Trump and the remaking of America’s media order](https://www.ft.com/content/ea10b519-a805-461e-8a8d-3ee1751939bc)
+**发布时间**: 2026-04-24 04:00
+
+#### [Warsh, Bessent and the fight for dollar supremacy](https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519)
+**发布时间**: 2026-04-24 04:00
+
+#### [China’s own Mythos is coming — America must prepare](https://www.ft.com/content/ea8c8161-5b86-409b-93cf-5e778300d87e)
+**发布时间**: 2026-04-24 04:00
+
+#### [Morgan McSweeney held talks with Google DeepMind over AI project](https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9)
+**发布时间**: 2026-04-24 04:00
+
+#### [KPMG and EY demote partners in end of job-for-life model](https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6)
+**发布时间**: 2026-04-24 04:00
+
+#### [Banks charged sharply different fees for access to Anthropic investment](https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61)
+**发布时间**: 2026-04-24 04:00
+
+#### [Trump says Israel and Lebanon will extend ceasefire by 3 weeks](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e)
+**发布时间**: 2026-04-24 01:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As Americans turn to blue-collar jobs for stability, here’s which ones offer the most security — and which offer the least](https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 01:47
+
+#### [Here’s how much money the 2026 NFL draft picks will make — and who’s at risk of losing millions](https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 00:23
+
+#### [Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans](https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 00:01
 
 ---
 

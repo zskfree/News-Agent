@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Apr 2026 23:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2026 23:52:19 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 07:09:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:09:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>晶圆代工，角逐1nm</title>
-      <link>https://www.tmtpost.com/7964634.html</link>
-      <description>&lt;![CDATA[晶圆代工，角逐1nm]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964634.html</guid>
+      <title>pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式</title>
+      <link>https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>姚顺雨腾讯模型首秀！不卷参数只做 “听话打工人”，Hy3 preview登场 | 附实测</title>
-      <link>https://www.infoq.cn/article/muFy49vXpNUHW09hxt7G?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[姚顺雨腾讯模型首秀！不卷参数只做 “听话打工人”，Hy3 preview登场 | 附实测]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/muFy49vXpNUHW09hxt7G?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-5.5发布：两倍定价，半步进化</title>
+      <link>https://www.tmtpost.com/7965610.html</link>
+      <description>&lt;![CDATA[GPT-5.5发布：两倍定价，半步进化]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7965610.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>屈服于氛围：一部AI编程运动史（2020-2026）【2.5万字简史】</title>
-      <link>https://www.tmtpost.com/7964511.html</link>
-      <description>&lt;![CDATA[屈服于氛围：一部AI编程运动史（2020-2026）【2.5万字简史】]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964511.html</guid>
+      <title>派早报：OpenAI 发布 GPT-5.5 系列模型等</title>
+      <link>https://sspai.com/post/109032</link>
+      <description>&lt;![CDATA[派早报：OpenAI 发布 GPT-5.5 系列模型等]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/109032</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>脑机接口，一场没有硝烟的算法战争</title>
-      <link>https://www.tmtpost.com/7964027.html</link>
-      <description>&lt;![CDATA[脑机接口，一场没有硝烟的算法战争]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964027.html</guid>
+      <title>银行业PDF表格提取方案重构：基于Java的分层方案</title>
+      <link>https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[银行业PDF表格提取方案重构：基于Java的分层方案]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构</title>
-      <link>https://www.tmtpost.com/7963833.html</link>
-      <description>&lt;![CDATA[梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构]]&gt;</description>
-      <pubDate>Thu, 23 Apr 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7963833.html</guid>
+      <title>GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！</title>
+      <link>https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
