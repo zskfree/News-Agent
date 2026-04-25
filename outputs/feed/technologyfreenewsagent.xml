@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Apr 2026 23:41:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 23:42:50 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 06:21:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流</title>
-      <link>https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？</title>
+      <link>https://www.tmtpost.com/7966538.html</link>
+      <description>&lt;![CDATA[DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966538.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic最新AI经济报告：AI 正在取代造它的人</title>
-      <link>https://www.tmtpost.com/7964714.html</link>
-      <description>&lt;![CDATA[Anthropic最新AI经济报告：AI 正在取代造它的人]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964714.html</guid>
+      <title>GPT-5.5实测：更聪明，也更爱“说谎”</title>
+      <link>https://www.tmtpost.com/7966667.html</link>
+      <description>&lt;![CDATA[GPT-5.5实测：更聪明，也更爱“说谎”]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966667.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为异军突起，速腾份额减少，激光雷达迎来双寡头时代</title>
-      <link>https://www.tmtpost.com/7965877.html</link>
-      <description>&lt;![CDATA[华为异军突起，速腾份额减少，激光雷达迎来双寡头时代]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7965877.html</guid>
+      <title>南大最新研究：年化40%的骗局面前，AI比人类更清醒</title>
+      <link>https://www.tmtpost.com/7964880.html</link>
+      <description>&lt;![CDATA[南大最新研究：年化40%的骗局面前，AI比人类更清醒]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7964880.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了</title>
-      <link>https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险</title>
+      <link>https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能数据战：群核建道场，百度铺管道，京东搭舞台</title>
-      <link>https://www.tmtpost.com/7966140.html</link>
-      <description>&lt;![CDATA[具身智能数据战：群核建道场，百度铺管道，京东搭舞台]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966140.html</guid>
+      <title>Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

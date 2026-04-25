@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Apr 2026 23:41:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 23:42:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 06:21:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google to invest up to $40bn in Anthropic</title>
-      <link>https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8</link>
-      <description>&lt;![CDATA[Google to invest up to $40bn in Anthropic]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The golden age of arbitrage has begun</title>
-      <link>https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843</link>
-      <description>&lt;![CDATA[The golden age of arbitrage has begun]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why crude prices won’t fall back to levels seen before the Iran war anytime soon</title>
-      <link>https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why crude prices won’t fall back to levels seen before the Iran war anytime soon]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 19:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Intel’s stock extends its spectacular run by posting its best day in nearly four decades</title>
-      <link>https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Intel’s stock extends its spectacular run by posting its best day in nearly four decades]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 20:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Amazon-backed nuclear developer X-energy surges 27% in trading debut</title>
-      <link>https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73</link>
-      <description>&lt;![CDATA[Amazon-backed nuclear developer X-energy surges 27% in trading debut]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 20:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73</guid>
+      <title>America’s energy supremacy is being forged in war</title>
+      <link>https://ig.ft.com/global-energy-flows/</link>
+      <description>&lt;![CDATA[America’s energy supremacy is being forged in war]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ig.ft.com/global-energy-flows/</guid>
       <category>Finance</category>
     </item>
   </channel>

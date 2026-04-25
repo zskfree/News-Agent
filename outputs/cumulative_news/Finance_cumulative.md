@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 23:41
+**最后更新时间**: 2026-04-25 06:20
+
+---
+
+## 🆕 最新更新 (2026-04-25 06:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [America’s energy supremacy is being forged in war](https://ig.ft.com/global-energy-flows/)
+**发布时间**: 2026-04-25 04:00
+
+#### [Texas governor threatened to pull World Cup grants in battle over ICE enforcement](https://www.ft.com/content/d80a5a7c-95f4-4fab-b44e-69bdb5c04b4f)
+**发布时间**: 2026-04-24 21:37
 
 ---
 

@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-24 23:41
+**最后更新时间**: 2026-04-25 06:20
+
+---
+
+## 🆕 最新更新 (2026-04-25 06:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践](https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-25 14:00
+
+#### [Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险](https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-25 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球变压器超级缺口，激活中国特高压产业机会](https://www.tmtpost.com/7966566.html)
+**发布时间**: 2026-04-25 11:53
+
+#### [2026北京车展：从七大黑科技看全球最大车展](https://www.tmtpost.com/7966574.html)
+**发布时间**: 2026-04-25 10:16
+
+#### [DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？](https://www.tmtpost.com/7966538.html)
+**发布时间**: 2026-04-25 10:16
+
+#### [重温首期“本周图表”：英特尔财报后表现如何？](https://www.tmtpost.com/7966953.html)
+**发布时间**: 2026-04-25 10:11
+
+#### [抖音本地生活“断舍离”](https://www.tmtpost.com/7966611.html)
+**发布时间**: 2026-04-25 09:54
+
+#### [DeepSeek-V4发布，黄仁勋的担忧成真了](https://www.tmtpost.com/7966555.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [GPT-5.5实测：更聪明，也更爱“说谎”](https://www.tmtpost.com/7966667.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [月暗与DeepSeek的“听牌”时刻](https://www.tmtpost.com/7966608.html)
+**发布时间**: 2026-04-25 09:47
+
+#### [DeepSeek不想只做大模型了](https://www.tmtpost.com/7966836.html)
+**发布时间**: 2026-04-25 09:31
+
+#### [腾讯大模型重回牌桌了吗？](https://www.tmtpost.com/7966804.html)
+**发布时间**: 2026-04-25 09:31
+
+#### [AI打倒了英特尔，AI又救了英特尔](https://www.tmtpost.com/7966888.html)
+**发布时间**: 2026-04-25 09:22
+
+#### [南大最新研究：年化40%的骗局面前，AI比人类更清醒](https://www.tmtpost.com/7964880.html)
+**发布时间**: 2026-04-25 08:49
+
+#### [Edge AI Daily 早报（4月25日）](https://www.tmtpost.com/7966852.html)
+**发布时间**: 2026-04-25 08:39
+
+#### [花旗：即便民主党中期选举大胜，国防股仍有望挺住](https://www.tmtpost.com/7966823.html)
+**发布时间**: 2026-04-25 00:09
+
+#### [运输股上涨释放积极信号，技术面揭示衰退风险或正减弱](https://www.tmtpost.com/7966821.html)
+**发布时间**: 2026-04-25 00:09
+
+#### [巴菲特多年来发现了大量值得买入的股票，眼下他自己的公司看起来就是其中之一](https://www.tmtpost.com/7966816.html)
+**发布时间**: 2026-04-25 00:07
 
 ---
 
