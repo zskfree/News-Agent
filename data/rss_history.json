@@ -2671,6 +2671,36 @@
         "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 25 Apr 2026 14:00:00 GMT",
         "first_seen": "2026-04-25T06:21:17.546547"
+      },
+      "da7e8897f8fc36d6f86f17bfa61d3924fb08bd2a5e70ea779f73f98b54178f74": {
+        "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+        "link": "https://www.tmtpost.com/7966656.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:56:49.787377"
+      },
+      "d33866b773f765f5dc77ac11f1d37030248e751e296af78d46fc488b9f3c4b37": {
+        "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+        "link": "https://www.tmtpost.com/7967028.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:56:49.787383"
+      },
+      "b3d279e10d45ed4de2d0cbddea557065d4e9fdb77e5361443e1d26816572656c": {
+        "title": "DeepSeek V4的真正价值，不在参数里",
+        "link": "https://www.tmtpost.com/7966576.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T08:56:49.787386"
+      },
+      "dc1a09007ad6048679b825acac591a866914c32722ced2a1c25aa688cd256663": {
+        "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+        "link": "https://www.tmtpost.com/7967030.html",
+        "published_date": "Sat, 25 Apr 2026 16:20:00 GMT",
+        "first_seen": "2026-04-25T08:56:49.787388"
+      },
+      "3d3c1949a1d1416c27f9c6657fe5b77656837a2c9119abd7ed19b055283b566a": {
+        "title": "AI打倒了英特尔，AI又救了英特尔",
+        "link": "https://www.tmtpost.com/7966888.html",
+        "published_date": "Sat, 25 Apr 2026 09:22:00 GMT",
+        "first_seen": "2026-04-25T08:56:49.787389"
       }
     },
     "Finance": {
@@ -6419,13 +6449,25 @@
         "link": "https://www.qbitai.com/2026/04/406809.html",
         "published_date": "Sat, 25 Apr 2026 03:27:00 GMT",
         "first_seen": "2026-04-25T06:21:00.513903"
+      },
+      "3674a596f351f75d3163cdcc768aa2302bd6b507db5720f9e909bcdd9472114b": {
+        "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+        "link": "https://www.qbitai.com/2026/04/407026.html",
+        "published_date": "Sat, 25 Apr 2026 07:22:00 GMT",
+        "first_seen": "2026-04-25T08:56:28.933420"
+      },
+      "af2c353d5e3685e773aa4fe267d7906548c86c09b95b2b3e8b05cc8a6ce351f6": {
+        "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+        "link": "https://www.qbitai.com/2026/04/406994.html",
+        "published_date": "Sat, 25 Apr 2026 06:58:00 GMT",
+        "first_seen": "2026-04-25T08:56:28.933429"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-25T06:21:17.546549",
+    "Technology": "2026-04-25T08:56:49.787391",
     "Finance": "2026-04-25T06:21:00.357308",
-    "Ai": "2026-04-25T06:21:00.513905"
+    "Ai": "2026-04-25T08:56:28.933432"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Apr 2026 06:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 06:21:17 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 08:56:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:56:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？</title>
-      <link>https://www.tmtpost.com/7966538.html</link>
-      <description>&lt;![CDATA[DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966538.html</guid>
+      <title>不只DeepSeek，大厂都想“抛弃”英伟达</title>
+      <link>https://www.tmtpost.com/7966656.html</link>
+      <description>&lt;![CDATA[不只DeepSeek，大厂都想“抛弃”英伟达]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966656.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.5实测：更聪明，也更爱“说谎”</title>
-      <link>https://www.tmtpost.com/7966667.html</link>
-      <description>&lt;![CDATA[GPT-5.5实测：更聪明，也更爱“说谎”]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966667.html</guid>
+      <title>字节也入局了，世界模型到底是一门怎样的生意？</title>
+      <link>https://www.tmtpost.com/7967028.html</link>
+      <description>&lt;![CDATA[字节也入局了，世界模型到底是一门怎样的生意？]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967028.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>南大最新研究：年化40%的骗局面前，AI比人类更清醒</title>
-      <link>https://www.tmtpost.com/7964880.html</link>
-      <description>&lt;![CDATA[南大最新研究：年化40%的骗局面前，AI比人类更清醒]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964880.html</guid>
+      <title>DeepSeek V4的真正价值，不在参数里</title>
+      <link>https://www.tmtpost.com/7966576.html</link>
+      <description>&lt;![CDATA[DeepSeek V4的真正价值，不在参数里]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966576.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险</title>
-      <link>https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>最激进的“AI先锋”多邻国，已经放过员工了</title>
+      <link>https://www.tmtpost.com/7967030.html</link>
+      <description>&lt;![CDATA[最激进的“AI先锋”多邻国，已经放过员工了]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967030.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI打倒了英特尔，AI又救了英特尔</title>
+      <link>https://www.tmtpost.com/7966888.html</link>
+      <description>&lt;![CDATA[AI打倒了英特尔，AI又救了英特尔]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966888.html</guid>
       <category>Technology</category>
     </item>
   </channel>

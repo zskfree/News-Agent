@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-25 06:20
+**最后更新时间**: 2026-04-25 08:56
+
+---
+
+## 🆕 最新更新 (2026-04-25 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [No edge, no hedge: why markets are stuck](https://www.ft.com/content/fff7a84f-83bf-45af-9a3d-78e0cf181539)
+**发布时间**: 2026-04-25 04:00
+
+#### [America’s bid for energy supremacy is being forged in war](https://ig.ft.com/global-energy-flows/)
+**发布时间**: 2026-04-25 04:00
+
+#### [What the AI ‘jobpocalypse’ narrative misses](https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37)
+**发布时间**: 2026-04-25 04:00
+
+#### [The mystery of good judgment](https://www.ft.com/content/d5991809-9991-4c12-9ccb-bbd9e90d3c50)
+**发布时间**: 2026-04-25 04:00
+
+#### [Banks brace for tax raid if Starmer is ousted](https://www.ft.com/content/9c6b31a0-6490-41e6-af47-424d0dbc8877)
+**发布时间**: 2026-04-25 04:00
+
+#### [Power is draining away from Starmer’s Downing Street](https://www.ft.com/content/82b60c91-4015-4136-8c63-685af833f8c1)
+**发布时间**: 2026-04-25 04:00
+
+#### [Pro-independence parties bank on rethink of UK ‘status quo’ after May 7](https://www.ft.com/content/4795501a-37d3-4954-8294-4e0cbf32d30c)
+**发布时间**: 2026-04-25 04:00
 
 ---
 
