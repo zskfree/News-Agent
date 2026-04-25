@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "69fb65b22ec0f46d7d9ee70c601afdd9f301b3e8675a3cfd5437525c40939fcc": {
-        "title": "OpenAI关停Sora，AI开始“算账”",
-        "link": "https://www.tmtpost.com/7929286.html",
-        "published_date": "Thu, 26 Mar 2026 09:12:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.435556"
-      },
-      "7e076f71f1a81a6f22d379a47686f4f19e98c1a3426080afc242725cf962eb2a": {
-        "title": "缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈",
-        "link": "https://www.tmtpost.com/7929978.html",
-        "published_date": "Thu, 26 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.435564"
-      },
-      "f6af06ac82881b9cd958a730e21457706e333339b9354a8a2ef199ae3d850386": {
-        "title": "Token重构科技产业：一场围绕“AI电网”的新基础设施战争",
-        "link": "https://www.tmtpost.com/7929190.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.435566"
-      },
-      "b11cff0cf639aefbf5ab6471d06de19907596c550380a8ab1148a1fb7df2c2b9": {
-        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.435568"
-      },
-      "a44fb9d097863bc19e7eae3470a711b395731c508ce51fc0db632ecd5041c3ab": {
-        "title": "AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”",
-        "link": "https://www.tmtpost.com/7928810.html",
-        "published_date": "Thu, 26 Mar 2026 10:38:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.435570"
-      },
-      "4cc2d0c011066b322727b12e5bf3906e5b995016f6f65cd59a49e6fe4b0190fa": {
-        "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
-        "link": "https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 18:39:00 GMT",
-        "first_seen": "2026-03-26T23:35:28.627921"
-      },
-      "a0b0dd5d69936e57a59f9c6e5a5d1779f0180ed6ac50e345b34a73f17b24f158": {
-        "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
-        "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 18:20:00 GMT",
-        "first_seen": "2026-03-26T23:35:28.627933"
-      },
-      "e1a9a323425656b4f3a4b7505be5e02819f558c2301e3d2464f3906f96468d0e": {
-        "title": "从云原生到 AI 原生：模型引发的新一代基础设施构建",
-        "link": "https://www.infoq.cn/article/1op6MbNG1wYsJrOINAWv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 17:35:00 GMT",
-        "first_seen": "2026-03-26T23:35:28.627936"
-      },
-      "90aa96edaa752ca75b71535823dae7a07811b572441ddf13e21117604253c0e9": {
-        "title": "23万大厂员工被AI替代，为何一半公司又把人请回？",
-        "link": "https://www.tmtpost.com/7930199.html",
-        "published_date": "Thu, 26 Mar 2026 18:08:00 GMT",
-        "first_seen": "2026-03-26T23:35:28.627938"
-      },
-      "16a8ae687824b93e3a59726eea55910541301c4915ada82f294a5db915d93c3e": {
-        "title": "美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿",
-        "link": "https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 18:37:00 GMT",
-        "first_seen": "2026-03-26T23:35:28.627940"
-      },
       "d1432a1322d805c02eb307f6ba3bf85dfcbf37853aa2ecd4f2b4831320157224": {
         "title": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！",
         "link": "https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article",
@@ -2701,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7966888.html",
         "published_date": "Sat, 25 Apr 2026 09:22:00 GMT",
         "first_seen": "2026-04-25T08:56:49.787389"
+      },
+      "b72f8143dbe32d59caf61d6ea0fbe7abdcc19285a6274c45c687e0d58bf49bb0": {
+        "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
+        "link": "https://www.tmtpost.com/7967024.html",
+        "published_date": "Sat, 25 Apr 2026 14:35:00 GMT",
+        "first_seen": "2026-04-25T23:42:44.052538"
+      },
+      "5384fd4743e86a8c2e41f70444e74273449919d981042e37351d6e418f5cb4d0": {
+        "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
+        "link": "https://www.tmtpost.com/7966555.html",
+        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-25T23:42:44.052544"
+      },
+      "3734b71d88ec32b16d1463593c80aa85db2a183cfd779678bca10f1e397236c2": {
+        "title": "DeepSeek不想只做大模型了",
+        "link": "https://www.tmtpost.com/7966836.html",
+        "published_date": "Sat, 25 Apr 2026 09:31:00 GMT",
+        "first_seen": "2026-04-25T23:42:44.052546"
+      },
+      "1ba0195ca31f7829697a9729952a63283f1bc9b13a7fea8bbd0468fb38e759d0": {
+        "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-25T23:42:44.052547"
+      },
+      "fc8b679f891f1af018828011a69f54aaf64895ef5467368d9606a52c105599e3": {
+        "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
+        "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 21:04:00 GMT",
+        "first_seen": "2026-04-25T23:42:44.052549"
       }
     },
     "Finance": {
-      "af2a5f077c91654fe98d87844c5e1e9f0ff8af7302297269c564ffd016f240ce": {
-        "title": "OpenAI makes a ‘Code Red’ turn in strategy",
-        "link": "https://www.ft.com/content/f2b478a5-d7e0-48f6-bdb4-f9df90f4c7e0",
-        "published_date": "Thu, 26 Mar 2026 17:59:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.505682"
-      },
-      "31b3ba1d1bdd3b40ef71403b43278b0514aa391758ee187e8720e1ecaa4ab1e0": {
-        "title": "This map shows a crude ticking time bomb that hits much of the world’s oil supply in April",
-        "link": "https://www.marketwatch.com/story/this-map-shows-a-crude-ticking-time-bomb-that-hits-much-of-the-worlds-oil-supply-in-april-2c058db6?mod=mw_rss_topstories",
-        "published_date": "Thu, 26 Mar 2026 22:06:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.505688"
-      },
-      "15812607df0b0e80ca4bdcc12fb65aa582e47e5c2b0a98c4ab1f7e20322419ad": {
-        "title": "US bond market shows signs of strain as Iran war sparks Treasury tumult",
-        "link": "https://www.ft.com/content/2e0185d1-3229-463c-8391-6dd09fe11886",
-        "published_date": "Thu, 26 Mar 2026 20:51:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.505690"
-      },
-      "9880d6052671a35341a7e9d30368566d4adf9b0cab12d2ba1a228ed0fb1439da": {
-        "title": "As Meta sheds $119 billion in market cap, has the stock become ‘uninvestable’?",
-        "link": "https://www.marketwatch.com/story/as-meta-sheds-119-billion-in-market-cap-has-the-stock-become-uninvestable-994c4bd6?mod=mw_rss_topstories",
-        "published_date": "Thu, 26 Mar 2026 21:08:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.505692"
-      },
-      "d1af4a12a338bdc5f97128e8b5a740e5018797349fa3ab490f8950d424dff340": {
-        "title": "Putin asks oligarchs to donate to budget as cost of Ukraine war soars",
-        "link": "https://www.ft.com/content/d10dfb27-f56f-45a0-9423-af5253cbedd5",
-        "published_date": "Thu, 26 Mar 2026 21:53:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.505694"
-      },
       "65057cc10063e490ffb4fb907435a134801085b7c6a5b991049f6bd7bb89212a": {
         "title": "Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B",
         "link": "https://www.marketwatch.com/story/americas-nuclear-renaissance-has-everything-except-uranium-welders-and-a-plan-0851782d?mod=mw_rss_topstories",
@@ -4935,21 +4875,39 @@
         "link": "https://ig.ft.com/global-energy-flows/",
         "published_date": "Sat, 25 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-25T06:21:00.357298"
+      },
+      "9fcf23597575840b13d1c832fbd10bf37fe37ba342e2fa6925a3a038c5dc690f": {
+        "title": "Trump cancels trip by US negotiators for Iran peace talks",
+        "link": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+        "published_date": "Sat, 25 Apr 2026 21:10:00 GMT",
+        "first_seen": "2026-04-25T23:42:22.979045"
+      },
+      "de471b6f40f4db2f5196958cba2d024f4016fdc20bbab06c15309ff8bbb2f56b": {
+        "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
+        "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
+        "published_date": "Sat, 25 Apr 2026 16:17:00 GMT",
+        "first_seen": "2026-04-25T23:42:22.979055"
+      },
+      "fde841f7fb52b01caf93f4e5d54924025e1addf782f62c1278f667b50db738be": {
+        "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy",
+        "link": "https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories",
+        "published_date": "Sat, 25 Apr 2026 17:56:00 GMT",
+        "first_seen": "2026-04-25T23:42:22.979057"
+      },
+      "9d31cdf86155b1425dccaba9ea1fe9c0ddf2c08bef3557a3e85449efb524ca71": {
+        "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.",
+        "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
+        "published_date": "Sat, 25 Apr 2026 16:25:00 GMT",
+        "first_seen": "2026-04-25T23:42:22.979059"
+      },
+      "b90340c3554678e1120333ed0a896066dff1903e41fcc70b4c1ea13f5b805e22": {
+        "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
+        "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
+        "published_date": "Sat, 25 Apr 2026 18:25:00 GMT",
+        "first_seen": "2026-04-25T23:42:22.979061"
       }
     },
     "Ai": {
-      "4e515094ab90de6f074a1e289282333eddb916ea4a2e61468b5fb95f7f7b0413": {
-        "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
-        "link": "https://www.qbitai.com/2026/03/392281.html",
-        "published_date": "Thu, 26 Mar 2026 07:48:00 GMT",
-        "first_seen": "2026-03-26T08:59:46.607440"
-      },
-      "740dffda6d6343f0f0af993a77dcd25a0c937d551c08711b226002fd3a96b407": {
-        "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
-        "link": "https://www.qbitai.com/2026/03/392684.html",
-        "published_date": "Thu, 26 Mar 2026 10:04:00 GMT",
-        "first_seen": "2026-03-26T23:35:45.660778"
-      },
       "4835b234e6f0b5c3831eb4aff2b3d4cdbf0b35f8afc533e0a486d923f94d0bf6": {
         "title": "从Token到词元：全模态时代的基模与交互入口",
         "link": "https://www.qbitai.com/2026/03/392707.html",
@@ -6461,13 +6419,19 @@
         "link": "https://www.qbitai.com/2026/04/406994.html",
         "published_date": "Sat, 25 Apr 2026 06:58:00 GMT",
         "first_seen": "2026-04-25T08:56:28.933429"
+      },
+      "524d3c91cdf42d168bbb27460d1695e60a39bf01880883a878a02ebc033909d5": {
+        "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+        "link": "https://www.qbitai.com/2026/04/407363.html",
+        "published_date": "Sat, 25 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-25T23:42:23.111417"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-25T08:56:49.787391",
-    "Finance": "2026-04-25T06:21:00.357308",
-    "Ai": "2026-04-25T08:56:28.933432"
+    "Technology": "2026-04-25T23:42:44.052551",
+    "Finance": "2026-04-25T23:42:22.979063",
+    "Ai": "2026-04-25T23:42:23.111424"
   }
 }

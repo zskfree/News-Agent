@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-25 08:56
+**最后更新时间**: 2026-04-25 23:42
+
+---
+
+## 🆕 最新更新 (2026-04-25 23:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump cancels trip by US negotiators for Iran peace talks](https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade)
+**发布时间**: 2026-04-25 21:10
+
+#### [Where is Marco Rubio?](https://www.ft.com/content/8830ec25-483e-44ee-ae3d-141bcb8e1f75)
+**发布时间**: 2026-04-25 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.](https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 19:05
+
+#### [‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?](https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 18:25
+
+#### [From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy](https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 17:56
+
+#### [Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.](https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 16:25
+
+#### [A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man](https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 16:17
 
 ---
 

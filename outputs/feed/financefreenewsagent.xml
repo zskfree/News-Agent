@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Apr 2026 06:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 06:21:00 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 23:42:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 23:42:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>America’s energy supremacy is being forged in war</title>
-      <link>https://ig.ft.com/global-energy-flows/</link>
-      <description>&lt;![CDATA[America’s energy supremacy is being forged in war]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ig.ft.com/global-energy-flows/</guid>
+      <title>Trump cancels trip by US negotiators for Iran peace talks</title>
+      <link>https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade</link>
+      <description>&lt;![CDATA[Trump cancels trip by US negotiators for Iran peace talks]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man</title>
+      <link>https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy</title>
+      <link>https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.</title>
+      <link>https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?</title>
+      <link>https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
