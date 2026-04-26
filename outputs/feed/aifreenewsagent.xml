@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Apr 2026 06:59:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2026 07:01:51 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:42:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-26日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-26/</link>
-      <description>&lt;![CDATA[2026-04-26日刊]]&gt;</description>
-      <pubDate>Sun, 26 Apr 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-26/</guid>
+      <title>Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票</title>
+      <link>https://www.qbitai.com/2026/04/407485.html</link>
+      <description>&lt;![CDATA[Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/407485.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍</title>
-      <link>https://www.qbitai.com/2026/04/407465.html</link>
-      <description>&lt;![CDATA[DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍]]&gt;</description>
-      <pubDate>Sun, 26 Apr 2026 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/407465.html</guid>
+      <title>Claude终于认了！降智坐实，越聊越傻，3个bug全曝光</title>
+      <link>https://www.qbitai.com/2026/04/407502.html</link>
+      <description>&lt;![CDATA[Claude终于认了！降智坐实，越聊越傻，3个bug全曝光]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/407502.html</guid>
       <category>Ai</category>
     </item>
   </channel>

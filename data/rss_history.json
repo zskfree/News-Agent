@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "34e810e591ae951777752d6ee7265b1e26d830a115f79a7d2211786a31c5db42": {
-        "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
-        "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 18:30:00 GMT",
-        "first_seen": "2026-03-27T23:37:03.245538"
-      },
-      "c138a1909244ebfff209d610beaafc09906b962ffa2160466ba3692bfa2b06d9": {
-        "title": "具身觉醒、智造跃迁，物理AI如何在制造业落地？",
-        "link": "https://www.tmtpost.com/7931873.html",
-        "published_date": "Fri, 27 Mar 2026 19:13:00 GMT",
-        "first_seen": "2026-03-27T23:37:03.245546"
-      },
-      "7ded0d2648a426505db853c0c620b57d377d5d89ea8b012f05e635409a2f967c": {
-        "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
-        "link": "https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
-        "first_seen": "2026-03-27T23:37:03.245549"
-      },
-      "c7026223f80ba72bc76e70d043eb92313d329774644172f84b3f339089510275": {
-        "title": "国产EDA，谁在啃硬骨头？",
-        "link": "https://www.tmtpost.com/7932270.html",
-        "published_date": "Fri, 27 Mar 2026 18:55:00 GMT",
-        "first_seen": "2026-03-27T23:37:03.245551"
-      },
-      "69dcc14e245aa4812d8fcdcfc858edf420b88e341d6f9e8a048e2fa88bed35ed": {
-        "title": "IPO倒计时逼OpenAI断臂Sora：AI视频赛道谁还能赢？",
-        "link": "https://www.tmtpost.com/7931492.html",
-        "published_date": "Fri, 27 Mar 2026 14:17:00 GMT",
-        "first_seen": "2026-03-27T23:37:03.245553"
-      },
       "8c7d187611211f266d04b0876b88e31e73bc16e6f26d35367743d44427612feb": {
         "title": "黄仁勋GTC完整演讲：生成Token的成本与效率，决定科技企业的营收与生死",
         "link": "https://www.tmtpost.com/7917925.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7967359.html",
         "published_date": "Sun, 26 Apr 2026 08:57:00 GMT",
         "first_seen": "2026-04-26T09:07:55.677071"
+      },
+      "9c4d03b366b3f2c29df6abba8a46456e9e2d0d03e74806d407ae63d97472a52e": {
+        "title": "中国和海湾地区在AI采用方面走在前列，这些股票可能已蓄势待涨",
+        "link": "https://www.tmtpost.com/7967518.html",
+        "published_date": "Sun, 26 Apr 2026 10:43:00 GMT",
+        "first_seen": "2026-04-26T23:43:12.659203"
+      },
+      "32f1b8214d29c46b877f85ed8f877afad9b3b443467887b98b4af6addad8397f": {
+        "title": "【钛晨报】事关新就业群体，中办、国办最新发布，聚焦权益保障与算法治理；东方甄选主播集体离职，俞敏洪回应；“国产GPU第一股”摩尔线程单季净利扭亏",
+        "link": "https://www.tmtpost.com/7967802.html",
+        "published_date": "Mon, 27 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-26T23:43:12.659212"
+      },
+      "575cb4e63ccff71ef19861b6216a76449e0f605229b61f1f4c8b7cffc281fd09": {
+        "title": "杨植麟离“追光的月亮”还有多少个Token？",
+        "link": "https://www.tmtpost.com/7967688.html",
+        "published_date": "Sun, 26 Apr 2026 19:11:00 GMT",
+        "first_seen": "2026-04-26T23:43:12.659216"
+      },
+      "bb7480d0c0ee8820f4015b93383395f11ea2ce5f76b0780ad64f10e032e26349": {
+        "title": "主动“认输”的DeepSeek，这次到底行不行？",
+        "link": "https://www.tmtpost.com/7967295.html",
+        "published_date": "Sun, 26 Apr 2026 09:33:00 GMT",
+        "first_seen": "2026-04-26T23:43:12.659219"
+      },
+      "e5a475502ed4435e6cfffe11f4fa10f61c8d012da10b4f292d91778242cb1d24": {
+        "title": "模型拉胯逼得Meta昏招迭出，结果被员工一招轻松化解",
+        "link": "https://www.tmtpost.com/7967546.html",
+        "published_date": "Sun, 26 Apr 2026 15:07:00 GMT",
+        "first_seen": "2026-04-26T23:43:12.659223"
       }
     },
     "Finance": {
-      "65a38c7712c1c5a1eadd3a7f258e36c70584ad3696701e7a60343331216cacb8": {
-        "title": "Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’",
-        "link": "https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7",
-        "published_date": "Fri, 27 Mar 2026 21:03:00 GMT",
-        "first_seen": "2026-03-27T23:37:18.878723"
-      },
-      "47f5376d2b72875d7c3487969d138e0d8e0fbf48c9f0c8b5fd49839cb51fbe4e": {
-        "title": "More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?",
-        "link": "https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Mar 2026 21:46:00 GMT",
-        "first_seen": "2026-03-27T23:37:18.878730"
-      },
-      "6f9748ffca89952b90698e23e01b9f1c8218df70d5d5d43f1374b9fb7382f0a1": {
-        "title": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic",
-        "link": "https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22",
-        "published_date": "Fri, 27 Mar 2026 17:43:00 GMT",
-        "first_seen": "2026-03-27T23:37:18.878732"
-      },
-      "f850a4a8baef861fcb59413310415d182865ff076b9792d9fb690646c7dfa260": {
-        "title": "KPMG to cut almost 600 UK jobs as slowdown persists",
-        "link": "https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11",
-        "published_date": "Fri, 27 Mar 2026 22:24:00 GMT",
-        "first_seen": "2026-03-27T23:37:18.878734"
-      },
-      "24a4a92f77aac97453cd8f7b25a464359393eccf42ba0d22ba861ecab56ac610": {
-        "title": "US seeks to scrap offshore wind projects in exchange for fossil fuel deals",
-        "link": "https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7",
-        "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
-        "first_seen": "2026-03-27T23:37:18.878735"
-      },
       "8b494e85166109bc375596b7459d1d4bda9df19a4664cf80957de4db161054b8": {
         "title": "How Pakistan put itself in the middle of US-Iran peace talks",
         "link": "https://www.ft.com/content/5f946eff-3e9c-4feb-ab6b-60e15cc3e183",
@@ -4893,39 +4863,39 @@
         "link": "https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347",
         "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-26T07:01:51.390841"
+      },
+      "61b5fc42a41c398501f05e21d80f467bdd9a9d1fd1e7d2da0749eef88f16f511": {
+        "title": "Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",
+        "link": "https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories",
+        "published_date": "Sun, 26 Apr 2026 21:00:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.326564"
+      },
+      "d0faaae93c03c112713ae5cb86178569371d7d93707a7902202f62de8e48f45a": {
+        "title": "Sen. Thom Tillis drops opposition, says he’ll back Kevin Warsh’s Fed confirmation",
+        "link": "https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories",
+        "published_date": "Sun, 26 Apr 2026 19:56:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.326572"
+      },
+      "e74911137c41ed21b2cce082f6fc260e035ce3e2e07bf093c1a576302305710f": {
+        "title": "Major City reforms to be set out in King’s Speech",
+        "link": "https://www.ft.com/content/5811b388-1b45-42c9-b2a3-baa72e7807b8",
+        "published_date": "Sun, 26 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.326575"
+      },
+      "188f8b95dc6582d2017cf0558a0609a104a891b60bb7ca9804bb20beb9ea5560": {
+        "title": "Zero-hour contract crackdown risks job losses, business warns",
+        "link": "https://www.ft.com/content/21d24d94-c6a4-4ebc-8b9d-ac3b88474725",
+        "published_date": "Sun, 26 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.326576"
+      },
+      "93373f402382fe3ae24d8e2e03f3d0d4584fceddc6fe38182a0c818edddb0f4e": {
+        "title": "U.S. stock futures fall, oil rises ahead of a busy week for Wall Street",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories",
+        "published_date": "Sun, 26 Apr 2026 22:56:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.326578"
       }
     },
     "Ai": {
-      "1abec05275340898eef3d173ee79b59e363786225c06f4c86678ef2de17c5699": {
-        "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
-        "link": "https://www.qbitai.com/2026/03/392878.html",
-        "published_date": "Fri, 27 Mar 2026 14:28:00 GMT",
-        "first_seen": "2026-03-27T23:37:30.245275"
-      },
-      "344fcc9915ce253e83bad3aa13ba17ed2e0654f001e862e1aef9379c8d4a19a4": {
-        "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
-        "link": "https://www.qbitai.com/2026/03/392828.html",
-        "published_date": "Fri, 27 Mar 2026 11:50:00 GMT",
-        "first_seen": "2026-03-27T23:37:30.245282"
-      },
-      "8423533c9d399c945e9fc9428a463d43e92e8266d3ac0a213ed31f7b865a6129": {
-        "title": "NeurIPS滑跪认错！一切都是误会，已纠正",
-        "link": "https://www.qbitai.com/2026/03/392814.html",
-        "published_date": "Fri, 27 Mar 2026 09:49:00 GMT",
-        "first_seen": "2026-03-27T23:37:30.245284"
-      },
-      "e8e1678b2d874a69185582afaa642aa3d4c167b2abe01c2309c0ae894da9ad6a": {
-        "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
-        "link": "https://www.qbitai.com/2026/03/392835.html",
-        "published_date": "Fri, 27 Mar 2026 14:08:00 GMT",
-        "first_seen": "2026-03-27T23:37:30.245286"
-      },
-      "225104ade005d32ce94b9bd0a5895f4d94381ba027be142a48d9de345a0b68a9": {
-        "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-        "link": "https://www.qbitai.com/2026/03/392896.html",
-        "published_date": "Fri, 27 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-27T23:37:30.245288"
-      },
       "359ae010a8629902e142c788234bb8487328319b20d9c0cc7ca230280d81a22a": {
         "title": "2026-03-28日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-28/",
@@ -6377,13 +6347,25 @@
         "link": "https://www.qbitai.com/2026/04/407465.html",
         "published_date": "Sun, 26 Apr 2026 04:16:00 GMT",
         "first_seen": "2026-04-26T07:01:51.542627"
+      },
+      "68828ac54fae9ab1815750f88aa4cfea1dd168381377eaf6426fdf81e8c969f3": {
+        "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
+        "link": "https://www.qbitai.com/2026/04/407485.html",
+        "published_date": "Sun, 26 Apr 2026 13:48:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.471550"
+      },
+      "f5068df4c841fc23ae4fc885768925cedabf052e9440890d8ebf2278edb763eb": {
+        "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+        "link": "https://www.qbitai.com/2026/04/407502.html",
+        "published_date": "Sun, 26 Apr 2026 09:56:00 GMT",
+        "first_seen": "2026-04-26T23:42:56.471557"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-26T09:07:55.677074",
-    "Finance": "2026-04-26T07:01:51.390844",
-    "Ai": "2026-04-26T07:01:51.542630"
+    "Technology": "2026-04-26T23:43:12.659226",
+    "Finance": "2026-04-26T23:42:56.326580",
+    "Ai": "2026-04-26T23:42:56.471560"
   }
 }

@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-26 07:01
+**最后更新时间**: 2026-04-26 23:42
+
+---
+
+## 🆕 最新更新 (2026-04-26 23:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zero-hour contract crackdown risks job losses, business warns](https://www.ft.com/content/21d24d94-c6a4-4ebc-8b9d-ac3b88474725)
+**发布时间**: 2026-04-26 23:01
+
+#### [Trump says shooting incident shows why he needs new White House ballroom](https://www.ft.com/content/95af64ee-9ede-4ad6-9cd5-cfc09acc630f)
+**发布时间**: 2026-04-26 22:33
+
+#### [Who is the alleged shooter?](https://www.ft.com/content/9ecca8e3-cf3a-417b-b742-0ac30c0c0845)
+**发布时间**: 2026-04-26 21:21
+
+#### [Benjamin Netanyahu’s biggest rivals merge Israeli political parties](https://www.ft.com/content/3bdeac99-19b2-45df-b0bb-a79e187f1c16)
+**发布时间**: 2026-04-26 18:51
+
+#### [Alleged Trump shooter was targeting US officials, authorities say](https://www.ft.com/content/2f922f3f-8232-4541-bfeb-66697b1d8790)
+**发布时间**: 2026-04-26 17:45
+
+#### [Trump and the recurring assassin](https://www.ft.com/content/8c6b2e4e-8096-4087-9082-6ca4548f1045)
+**发布时间**: 2026-04-26 17:30
+
+#### [Sabastian Sawe is first person to win a marathon in under 2 hours](https://www.ft.com/content/c77a8a7a-8163-4344-87f4-8e2aca44a72d)
+**发布时间**: 2026-04-26 14:36
+
+#### [Major City reforms to be set out in King’s Speech](https://www.ft.com/content/5811b388-1b45-42c9-b2a3-baa72e7807b8)
+**发布时间**: 2026-04-26 12:00
+
+#### [Britain acts richer than it is](https://www.ft.com/content/640e6174-fc5f-4fda-be36-7c2b9eb36a7d)
+**发布时间**: 2026-04-26 11:00
+
+#### [What has Labour actually achieved?](https://www.ft.com/content/231c0637-3171-431e-8982-32e338622178)
+**发布时间**: 2026-04-26 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall, oil rises ahead of a busy week for Wall Street](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 22:56
+
+#### [Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting](https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 21:00
+
+#### [I will inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?](https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 20:42
+
+#### [Sen. Thom Tillis drops opposition, says he’ll back Kevin Warsh’s Fed confirmation](https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 19:56
+
+#### [Michael Jackson biopic’s massive box-office success proves his staying power despite controversy](https://www.marketwatch.com/story/michael-jackson-biopics-mega-box-office-proves-his-staying-power-despite-controversy-9546f5ac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 19:15
 
 ---
 
