@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Apr 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 23:42:23 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 06:59:00 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:01:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为发布ADS 5！强化世界模型路线，今年投入180亿</title>
-      <link>https://www.qbitai.com/2026/04/407363.html</link>
-      <description>&lt;![CDATA[华为发布ADS 5！强化世界模型路线，今年投入180亿]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/407363.html</guid>
+      <title>2026-04-26日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-26/</link>
+      <description>&lt;![CDATA[2026-04-26日刊]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-26/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍</title>
+      <link>https://www.qbitai.com/2026/04/407465.html</link>
+      <description>&lt;![CDATA[DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 04:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/407465.html</guid>
       <category>Ai</category>
     </item>
   </channel>

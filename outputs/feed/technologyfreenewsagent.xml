@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Apr 2026 23:42:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 23:42:44 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 07:01:00 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:02:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具</title>
-      <link>https://www.tmtpost.com/7967024.html</link>
-      <description>&lt;![CDATA[【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967024.html</guid>
+      <title>Anthropic推出面向Claude Code的基于智能体的代码审查功能</title>
+      <link>https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic推出面向Claude Code的基于智能体的代码审查功能]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek-V4发布，黄仁勋的担忧成真了</title>
-      <link>https://www.tmtpost.com/7966555.html</link>
-      <description>&lt;![CDATA[DeepSeek-V4发布，黄仁勋的担忧成真了]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966555.html</guid>
+      <title>对话 Momenta CEO曹旭东：自动驾驶是物理AI的序章</title>
+      <link>https://www.tmtpost.com/7967422.html</link>
+      <description>&lt;![CDATA[对话 Momenta CEO曹旭东：自动驾驶是物理AI的序章]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967422.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek不想只做大模型了</title>
-      <link>https://www.tmtpost.com/7966836.html</link>
-      <description>&lt;![CDATA[DeepSeek不想只做大模型了]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966836.html</guid>
+      <title>谷歌亚马逊同时砸钱养竞争对手，AI时代最荒诞的商业逻辑正在成真</title>
+      <link>https://www.tmtpost.com/7967434.html</link>
+      <description>&lt;![CDATA[谷歌亚马逊同时砸钱养竞争对手，AI时代最荒诞的商业逻辑正在成真]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967434.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力受限，DeepSeek-V4凭什么开源？</title>
+      <link>https://www.tmtpost.com/7967294.html</link>
+      <description>&lt;![CDATA[算力受限，DeepSeek-V4凭什么开源？]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967294.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了</title>
-      <link>https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 21:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>网易游戏、爱奇艺在拼命拥抱AI，但用户不乐意</title>
+      <link>https://www.tmtpost.com/7967357.html</link>
+      <description>&lt;![CDATA[网易游戏、爱奇艺在拼命拥抱AI，但用户不乐意]]&gt;</description>
+      <pubDate>Sun, 26 Apr 2026 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967357.html</guid>
       <category>Technology</category>
     </item>
   </channel>

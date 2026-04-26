@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-25 23:42
+**最后更新时间**: 2026-04-26 07:01
+
+---
+
+## 🆕 最新更新 (2026-04-26 07:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How to demine the Strait of Hormuz](https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed)
+**发布时间**: 2026-04-26 04:00
+
+#### [Can AI discriminate if it can’t justify itself?](https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460)
+**发布时间**: 2026-04-26 04:00
+
+#### [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+**发布时间**: 2026-04-26 04:00
+
+#### [China’s smartphone king takes on Elon Musk in Europe with premium EVs](https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2)
+**发布时间**: 2026-04-26 04:00
+
+#### [Vladimir Putin’s regime turns on book publishers](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0)
+**发布时间**: 2026-04-26 04:00
+
+#### [Iran war hits pistachio supplies amid Dubai chocolate boom](https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347)
+**发布时间**: 2026-04-26 04:00
+
+#### [Fuel crisis hits remote Pacific island nation of Tuvalu](https://www.ft.com/content/6eaa0d4a-bf5c-40fa-91f7-001f399f4e08)
+**发布时间**: 2026-04-26 04:00
+
+#### [Trump rushed offstage at White House correspondents’ dinner after shots fired](https://www.ft.com/content/a5b3add2-eee6-41d8-9353-f1bdc2b77398)
+**发布时间**: 2026-04-26 03:37
 
 ---
 
