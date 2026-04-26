@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f1970d08daa2cbeb50814924657c95180093d3f790417008c996c060eafaa4f9": {
-        "title": "AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌",
-        "link": "https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 16:20:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.548054"
-      },
-      "b6b9a148c5350391642d4c71f9d0d270b21376b98922b46e91bcf344e728eb6b": {
-        "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
-        "link": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 16:37:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.548062"
-      },
-      "76fbe2ff64bed51cd5ae840d180d0be860436f6ce4b4c244175f069a82ab7a4d": {
-        "title": "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区",
-        "link": "https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 14:14:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.548064"
-      },
-      "ac20463e283a7376bd848de9d18d7fd8fc5c2b81a59158ff514235f33009a61e": {
-        "title": "荆华密算完成数千万元天使轮融资，专注AI密态计算｜融资速递",
-        "link": "https://www.tmtpost.com/7931271.html",
-        "published_date": "Fri, 27 Mar 2026 15:37:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.548066"
-      },
-      "d1148f4ddab914b4b4064feae04122916c6e3d7dc49a90cc372f44cace002e9c": {
-        "title": "Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据",
-        "link": "https://www.infoq.cn/article/FvTir8FtfqPiD5aRK7i3?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 27 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.548068"
-      },
       "34e810e591ae951777752d6ee7265b1e26d830a115f79a7d2211786a31c5db42": {
         "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
         "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
@@ -2671,21 +2641,39 @@
         "link": "https://www.tmtpost.com/7967357.html",
         "published_date": "Sun, 26 Apr 2026 08:47:00 GMT",
         "first_seen": "2026-04-26T07:02:10.784461"
+      },
+      "bed3b4c460b2e012d2a0888acb83d7c798dfc00fb704d9b766c7adeae4f8cd7f": {
+        "title": "DeepSeek V4炸场背后：硅谷在“造墙”，中国在“修路”",
+        "link": "https://www.tmtpost.com/7967484.html",
+        "published_date": "Sun, 26 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-26T09:07:55.677056"
+      },
+      "a52098cdbbfdd7c59afb36fd7124aae604aad3dd01bb36df28003e935aa4c9d2": {
+        "title": "拒绝被“卡脖子”，宁德时代狠砸300亿",
+        "link": "https://www.tmtpost.com/7967578.html",
+        "published_date": "Sun, 26 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-26T09:07:55.677064"
+      },
+      "bb5044e9c1ae918b2ca16aca8ba3f220199ab38d919093fbb51b380b0b4f40bc": {
+        "title": "实测混元Hy3 preview：腾讯AI，终于能打了？",
+        "link": "https://www.tmtpost.com/7967449.html",
+        "published_date": "Sun, 26 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-26T09:07:55.677067"
+      },
+      "4223f4bae535d13913675cf1fb7074184790c79035624ded801d8ccbecec6137": {
+        "title": "地平线不只做芯片了，但车企会接受新的“底座”吗？",
+        "link": "https://www.tmtpost.com/7967585.html",
+        "published_date": "Sun, 26 Apr 2026 14:59:00 GMT",
+        "first_seen": "2026-04-26T09:07:55.677069"
+      },
+      "1c233a4fccc81b05514fabd077e23dd95d96e4669846ea646a76272c6c9e192c": {
+        "title": "GPT image-2爆火后，设计师的天塌了吗？",
+        "link": "https://www.tmtpost.com/7967359.html",
+        "published_date": "Sun, 26 Apr 2026 08:57:00 GMT",
+        "first_seen": "2026-04-26T09:07:55.677071"
       }
     },
     "Finance": {
-      "45319204cde1f400822de0706f805ba9c7eaedd6cb83cfc4c9a9998e4185296d": {
-        "title": "Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.",
-        "link": "https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Mar 2026 08:09:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.583553"
-      },
-      "39c6d20f16e715da86add45295db914600aa3273dbcf72a800cca3bc55bc1eaf": {
-        "title": "U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE",
-        "link": "https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories",
-        "published_date": "Fri, 27 Mar 2026 07:35:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.583559"
-      },
       "65a38c7712c1c5a1eadd3a7f258e36c70584ad3696701e7a60343331216cacb8": {
         "title": "Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’",
         "link": "https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7",
@@ -4908,24 +4896,6 @@
       }
     },
     "Ai": {
-      "2e154b770e752ea26dd7583595a9427ad2f3af8a5608f41418a473361da829fc": {
-        "title": "企业软件底层逻辑脱胎换骨：从席位订阅到决策订阅，下一个万亿公司属于这类玩家",
-        "link": "https://www.qbitai.com/2026/03/392779.html",
-        "published_date": "Fri, 27 Mar 2026 07:23:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.730064"
-      },
-      "c1154ec04097cbce037a567076e92a2f5efd6db87e22cbf4350dfbf88234b3a0": {
-        "title": "林俊旸离职后首次发声！复盘千问的弯路，指出AI的新路",
-        "link": "https://www.qbitai.com/2026/03/392770.html",
-        "published_date": "Fri, 27 Mar 2026 06:19:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.730071"
-      },
-      "96b8e64857f1c256e01695ac304202251d8851a421c8ff3eb31f921699f83c3f": {
-        "title": "2026-03-27日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-27/",
-        "published_date": "Fri, 27 Mar 2026 10:39:00 GMT",
-        "first_seen": "2026-03-27T08:58:35.730073"
-      },
       "1abec05275340898eef3d173ee79b59e363786225c06f4c86678ef2de17c5699": {
         "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
         "link": "https://www.qbitai.com/2026/03/392878.html",
@@ -6412,7 +6382,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-26T07:02:10.784463",
+    "Technology": "2026-04-26T09:07:55.677074",
     "Finance": "2026-04-26T07:01:51.390844",
     "Ai": "2026-04-26T07:01:51.542630"
   }
