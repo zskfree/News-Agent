@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e7bc8160eb981e664c91fffccf085fa09771e9d7954911445da6df48db2f17f0": {
-        "title": "Anthropic泄露背后：AI安全承诺的破产与重构",
-        "link": "https://www.tmtpost.com/7933051.html",
-        "published_date": "Sat, 28 Mar 2026 16:21:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.222880"
-      },
-      "98b463c85d167f61351407d41816d1c2b0c65db8ea0c4c150efdaa5ff6fb2d77": {
-        "title": "不再等待OpenAI：月之暗面为何在此时变阵？",
-        "link": "https://www.tmtpost.com/7932353.html",
-        "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.222891"
-      },
-      "e1bd767ba53bc4465b13a4335495be868a3e0d6dc23237f55973200e2fceab44": {
-        "title": "黄仁勋为什么停不下来？",
-        "link": "https://www.tmtpost.com/7932377.html",
-        "published_date": "Sat, 28 Mar 2026 09:38:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.222894"
-      },
-      "4aeadaa47459a1c39eacd5f1b7acba9fadd37378000ffda752d03f15fc3dce31": {
-        "title": "Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.222895"
-      },
-      "e829f2f73f4c9a36e51f89b61a78ee5aa9ff8c37503c5ee43557478c71a0e624": {
-        "title": "这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532505&idx=1&sn=d46d1565fb061ce152fefa35aa44ab65",
-        "published_date": "Sat, 28 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.222897"
-      },
       "9bf2cbb0ebd5b93c470a39d402edec76fd2fc6d97577f18ea9f88d117b396dd4": {
         "title": "哈萨比斯为何能率领谷歌DeepMind反超OpenAI？",
         "link": "https://www.tmtpost.com/7933116.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 27 Apr 2026 13:00:00 GMT",
         "first_seen": "2026-04-27T07:38:15.419037"
+      },
+      "9f50370971b96cd5720e6ac8331f3cde0646f421446fc64226d0f8cd0bb80e7f": {
+        "title": "不是算力，不是电力，这才是中美AI竞争的终极变量",
+        "link": "https://www.tmtpost.com/7968430.html",
+        "published_date": "Mon, 27 Apr 2026 15:29:00 GMT",
+        "first_seen": "2026-04-27T10:21:02.426357"
+      },
+      "77b54d1377afde945346674f05b945f65d3d59be8bea4590448b27ffc9036768": {
+        "title": "从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧",
+        "link": "https://www.tmtpost.com/7968529.html",
+        "published_date": "Mon, 27 Apr 2026 15:51:00 GMT",
+        "first_seen": "2026-04-27T10:21:02.426363"
+      },
+      "24fcfc44743bababda66ba4f15917e9cd41aa804433661e7d47a205034c139ac": {
+        "title": "等待DeepSeek的145天｜深度",
+        "link": "https://www.tmtpost.com/7966827.html",
+        "published_date": "Mon, 27 Apr 2026 12:45:00 GMT",
+        "first_seen": "2026-04-27T10:21:02.426366"
+      },
+      "77286b8922b2e258a7d01e682289f496c1e650da09a60e82c422289a90fb7b63": {
+        "title": "三个月600亿美元，为什么中国创新药突然被全球扫货？",
+        "link": "https://www.tmtpost.com/7968265.html",
+        "published_date": "Mon, 27 Apr 2026 17:40:00 GMT",
+        "first_seen": "2026-04-27T10:21:02.426368"
+      },
+      "ae3f1fd764bb2d799cf8987cde2d711001c783017fda8c1311794dc624ef36c1": {
+        "title": "从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言",
+        "link": "https://www.tmtpost.com/7968231.html",
+        "published_date": "Mon, 27 Apr 2026 11:31:00 GMT",
+        "first_seen": "2026-04-27T10:21:02.426369"
       }
     },
     "Finance": {
@@ -4899,27 +4899,39 @@
         "link": "https://www.ft.com/content/99073d6e-4b57-417f-88fb-7a2c0e55eef3",
         "published_date": "Mon, 27 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-27T07:37:35.577876"
+      },
+      "f6cfb1113b857393985553ecb31f0dad428c0a376dec93280692c5e847f31074": {
+        "title": "Top central banks gamble they have time on inflation risks",
+        "link": "https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f",
+        "published_date": "Mon, 27 Apr 2026 10:11:00 GMT",
+        "first_seen": "2026-04-27T10:20:27.234798"
+      },
+      "923b81fd339546c1d0acfb7aa4fb0dca75e9d207f5c0f6f07d595d456d2c5642": {
+        "title": "China blocks Meta’s $2bn purchase of AI group Manus",
+        "link": "https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f",
+        "published_date": "Mon, 27 Apr 2026 08:46:00 GMT",
+        "first_seen": "2026-04-27T10:20:27.234809"
+      },
+      "5cadb3f0982f747121fa8dea078c7e074d4ca42a962153f5b747f1df47595eb6": {
+        "title": "Meta’s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.",
+        "link": "https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Apr 2026 09:41:00 GMT",
+        "first_seen": "2026-04-27T10:20:27.234812"
+      },
+      "6cf84e5b4471a5d4b6c881bb3768722fd86bd299c5385829eaea97c74035e51a": {
+        "title": "Skims co-founder Emma Grede and her $70 million California properties",
+        "link": "https://www.marketwatch.com/story/skims-co-founder-emma-grede-and-her-70-million-california-properties-6c82b3de?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Apr 2026 08:59:00 GMT",
+        "first_seen": "2026-04-27T10:20:27.234814"
+      },
+      "aab3b456c04c9e150d4c15ec6692eb2a41484d6b8f81438f072f0ab60b3ad94d": {
+        "title": "Global oil futures top $100 again after U.S.-Iran peace talks canceled",
+        "link": "https://www.marketwatch.com/story/global-oil-futures-top-100-again-after-u-s-iran-peace-talks-canceled-a50f6a7b?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Apr 2026 08:49:00 GMT",
+        "first_seen": "2026-04-27T10:20:27.234815"
       }
     },
     "Ai": {
-      "dd73d97f376975407a2a16431741b6ee372dbf8d920a6a54da377c505c4624f4": {
-        "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
-        "link": "https://www.qbitai.com/2026/03/392948.html",
-        "published_date": "Sat, 28 Mar 2026 06:16:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.379583"
-      },
-      "2f2962ca1595dbf0f35557dcccba06ab93d3f4d5ba662de7c129aae5fe5d6fe2": {
-        "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
-        "link": "https://www.qbitai.com/2026/03/392914.html",
-        "published_date": "Sat, 28 Mar 2026 06:06:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.379592"
-      },
-      "0fb80070a5c09cf4de23a2e7db392bccdeb7217a701ace9848fa562331306665": {
-        "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
-        "link": "https://www.qbitai.com/2026/03/392903.html",
-        "published_date": "Sat, 28 Mar 2026 06:01:00 GMT",
-        "first_seen": "2026-03-28T08:44:23.379594"
-      },
       "38eeab1e0f7741db9cb9444e94152a1b95e1f7b87a03a1b0d8c40c3ba78b2ba1": {
         "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
         "link": "https://www.qbitai.com/2026/03/392988.html",
@@ -6383,13 +6395,43 @@
         "link": "https://www.qbitai.com/2026/04/407917.html",
         "published_date": "Mon, 27 Apr 2026 06:27:00 GMT",
         "first_seen": "2026-04-27T07:37:47.810438"
+      },
+      "5693506e222c996dbaccad3f32bf2e0381f281031c4a094745e72d7b20f1431d": {
+        "title": "地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图",
+        "link": "https://www.qbitai.com/2026/04/408031.html",
+        "published_date": "Mon, 27 Apr 2026 08:06:00 GMT",
+        "first_seen": "2026-04-27T10:20:40.755122"
+      },
+      "1f5ae4bf23a06f995b2f2ea2bc69d41d2ca7af2e379b312f269755f186fe0ee0": {
+        "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
+        "link": "https://www.qbitai.com/2026/04/408390.html",
+        "published_date": "Mon, 27 Apr 2026 09:28:00 GMT",
+        "first_seen": "2026-04-27T10:20:40.755129"
+      },
+      "2a57fa61ee65d1f0072454f0bff2a0a8da8030172386908cd08c1cfa060f22fc": {
+        "title": "Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单",
+        "link": "https://www.qbitai.com/2026/04/408049.html",
+        "published_date": "Mon, 27 Apr 2026 08:27:00 GMT",
+        "first_seen": "2026-04-27T10:20:40.755131"
+      },
+      "bd9f8298c4dfcc0ba27919efa2466212de26373840d8244fd42671509fe355c2": {
+        "title": "让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”",
+        "link": "https://www.qbitai.com/2026/04/408394.html",
+        "published_date": "Mon, 27 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-27T10:20:40.755132"
+      },
+      "4b75630674c1bdf40dd2d817587f8f2c55d144edd2d69cd4a1ea3b2e9c4d63ef": {
+        "title": "李飞飞引爆的3D新技术，为什么这家深圳公司两年前就“玩腻”了？",
+        "link": "https://www.qbitai.com/2026/04/408030.html",
+        "published_date": "Mon, 27 Apr 2026 09:13:00 GMT",
+        "first_seen": "2026-04-27T10:20:40.755133"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-27T07:38:15.419039",
-    "Finance": "2026-04-27T07:37:35.577878",
-    "Ai": "2026-04-27T07:37:47.810441"
+    "Technology": "2026-04-27T10:21:02.426371",
+    "Finance": "2026-04-27T10:20:27.234818",
+    "Ai": "2026-04-27T10:20:40.755136"
   }
 }

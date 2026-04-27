@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-27 07:37
+**最后更新时间**: 2026-04-27 10:20
+
+---
+
+## 🆕 最新更新 (2026-04-27 10:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top central banks gamble they have time on inflation risks](https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f)
+**发布时间**: 2026-04-27 10:11
+
+#### [China blocks Meta’s $2bn purchase of AI group Manus](https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f)
+**发布时间**: 2026-04-27 08:46
+
+#### [Healthcare is driving America’s economy](https://www.ft.com/content/6b1bcbab-21d4-49a3-9940-d7550f042e5d)
+**发布时间**: 2026-04-27 04:00
+
+#### [Reeves set for new growth push after May elections](https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084)
+**发布时间**: 2026-04-27 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meta’s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.](https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 09:41
+
+#### [‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?](https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 09:15
+
+#### [Skims co-founder Emma Grede and her $70 million California properties](https://www.marketwatch.com/story/skims-co-founder-emma-grede-and-her-70-million-california-properties-6c82b3de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:59
+
+#### [Global oil futures top $100 again after U.S.-Iran peace talks canceled](https://www.marketwatch.com/story/global-oil-futures-top-100-again-after-u-s-iran-peace-talks-canceled-a50f6a7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:49
+
+#### [Why JPMorgan is telling investors to keep buying the dips even as market hits new highs](https://www.marketwatch.com/story/why-jpmorgan-is-telling-investors-to-keep-buying-the-dips-even-as-market-hits-new-highs-4c8b7763?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:41
 
 ---
 

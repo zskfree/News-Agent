@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 07:38:15 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 10:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:21:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast</title>
-      <link>https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不是算力，不是电力，这才是中美AI竞争的终极变量</title>
+      <link>https://www.tmtpost.com/7968430.html</link>
+      <description>&lt;![CDATA[不是算力，不是电力，这才是中美AI竞争的终极变量]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？</title>
-      <link>https://www.tmtpost.com/7967849.html</link>
-      <description>&lt;![CDATA[从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967849.html</guid>
+      <title>从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧</title>
+      <link>https://www.tmtpost.com/7968529.html</link>
+      <description>&lt;![CDATA[从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968529.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体工程的隐性技术债务</title>
-      <link>https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体工程的隐性技术债务]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>等待DeepSeek的145天｜深度</title>
+      <link>https://www.tmtpost.com/7966827.html</link>
+      <description>&lt;![CDATA[等待DeepSeek的145天｜深度]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966827.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好</title>
-      <link>https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>三个月600亿美元，为什么中国创新药突然被全球扫货？</title>
+      <link>https://www.tmtpost.com/7968265.html</link>
+      <description>&lt;![CDATA[三个月600亿美元，为什么中国创新药突然被全球扫货？]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968265.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当云区域失效：地缘动荡环境下的高可用重构</title>
-      <link>https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当云区域失效：地缘动荡环境下的高可用重构]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言</title>
+      <link>https://www.tmtpost.com/7968231.html</link>
+      <description>&lt;![CDATA[从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968231.html</guid>
       <category>Technology</category>
     </item>
   </channel>
