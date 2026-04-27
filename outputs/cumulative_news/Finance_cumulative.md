@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-26 23:42
+**最后更新时间**: 2026-04-27 07:37
+
+---
+
+## 🆕 最新更新 (2026-04-27 07:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adidas claims the first sub 2-hour marathon winner. But good luck getting the winner’s sneakers.](https://www.marketwatch.com/story/adidas-claims-the-first-sub-2-hour-marathon-winner-but-good-luck-getting-the-winners-sneakers-3aa995ef?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 07:33
+
+#### [U.S. stock futures mixed, oil rises ahead of a busy week for Wall Street](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 03:05
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Goldman Sachs raises oil price forecast as war disruption drags on](https://www.ft.com/content/448b06dd-6f8e-455a-add8-3d64e9d96d8b)
+**发布时间**: 2026-04-27 05:18
+
+#### [Rachel Reeves set for new growth push after May elections](https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084)
+**发布时间**: 2026-04-27 04:00
+
+#### [UK ministers resist alignment with EU’s AI rules](https://www.ft.com/content/b1d1f9be-7790-4227-acec-80fa34dbdbc8)
+**发布时间**: 2026-04-27 04:00
+
+#### [Inside China’s plans to fight in space](https://ig.ft.com/space-weapons/)
+**发布时间**: 2026-04-27 04:00
+
+#### [How ‘conflict entrepreneurs’ are inflaming US political violence](https://www.ft.com/content/b52113b5-5c83-408b-ba2e-b0269290e153)
+**发布时间**: 2026-04-27 04:00
+
+#### [Why the UAE asked Pakistan for its $3.5bn back](https://www.ft.com/content/99073d6e-4b57-417f-88fb-7a2c0e55eef3)
+**发布时间**: 2026-04-27 04:00
+
+#### [Private equity backers raise new conflict concerns over sweetheart deals](https://www.ft.com/content/ded6dc6f-9632-450d-ac62-ad80614436da)
+**发布时间**: 2026-04-27 04:00
+
+#### [Britain’s stealth fighter project faces 10-week funding deadline](https://www.ft.com/content/8766b40b-7692-4173-8754-fec49180efdc)
+**发布时间**: 2026-04-27 04:00
+
+#### [Leading central banks play for time on interest rate rises](https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f)
+**发布时间**: 2026-04-27 04:00
 
 ---
 

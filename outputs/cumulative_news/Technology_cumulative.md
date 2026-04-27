@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-26 23:42
+**最后更新时间**: 2026-04-27 07:37
+
+---
+
+## 🆕 最新更新 (2026-04-27 07:37)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地](https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 15:32
+
+#### [世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast](https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 15:02
+
+#### [当云区域失效：地缘动荡环境下的高可用重构](https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 13:00
+
+#### [Slack 重构通知系统，设置参与度提升 5 倍](https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 12:00
+
+#### [智能体工程的隐性技术债务](https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 11:02
+
+#### [“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好](https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 10:43
+
+#### [构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案](https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 10:00
+
+#### [阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构](https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-27 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这届北京车展，老板们比车有看头？](https://www.tmtpost.com/7968506.html)
+**发布时间**: 2026-04-27 15:16
+
+#### [受中东战火影响，硫磺暴涨40% ！电网设备与动力电池企业会受何冲击？](https://www.tmtpost.com/7967945.html)
+**发布时间**: 2026-04-27 15:11
+
+#### [潮玩劲吹IP风](https://www.tmtpost.com/7968090.html)
+**发布时间**: 2026-04-27 15:11
+
+#### [从5小时降到2分钟，PPAP审核智能体将获批周期缩短近75%](https://www.tmtpost.com/7964273.html)
+**发布时间**: 2026-04-27 14:55
+
+#### [为什么B站不办一个黑客马拉松？](https://www.tmtpost.com/7967996.html)
+**发布时间**: 2026-04-27 14:03
+
+#### [北京车展，谁在围观中国汽车？](https://www.tmtpost.com/7967308.html)
+**发布时间**: 2026-04-27 13:01
+
+#### [等待DeepSeek的145天｜深度](https://www.tmtpost.com/7966827.html)
+**发布时间**: 2026-04-27 12:45
+
+#### [企业能把安全交给Agent么？丨ToB产业观察](https://www.tmtpost.com/7968344.html)
+**发布时间**: 2026-04-27 12:24
+
+#### [千里科技：背靠吉利，AI拔高估值，真实成色几何？](https://www.tmtpost.com/7968224.html)
+**发布时间**: 2026-04-27 12:16
+
+#### [当外国游客，开始涌进中国博物馆……](https://www.tmtpost.com/7968189.html)
+**发布时间**: 2026-04-27 12:16
+
+#### [协同办公“三国杀”进入白热化，谁会第一个掉队？](https://www.tmtpost.com/7967834.html)
+**发布时间**: 2026-04-27 11:48
+
+#### [“两连冠”也难带动东鹏饮料：比张雪机车更难找的，是第二个大单品？](https://www.tmtpost.com/7967810.html)
+**发布时间**: 2026-04-27 11:48
+
+#### [两年内斗被开出千万罚单后，行云科技面临“治理后遗症”大考](https://www.tmtpost.com/7968316.html)
+**发布时间**: 2026-04-27 11:43
+
+#### [元戎启行用物理AI打另外一场仗](https://www.tmtpost.com/7968182.html)
+**发布时间**: 2026-04-27 11:36
+
+#### [从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言](https://www.tmtpost.com/7968231.html)
+**发布时间**: 2026-04-27 11:31
+
+#### [从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？](https://www.tmtpost.com/7967849.html)
+**发布时间**: 2026-04-27 11:09
+
+#### [利润都下滑，病因却不同：三大运营商一季报解读](https://www.tmtpost.com/7968173.html)
+**发布时间**: 2026-04-27 10:23
+
+#### [三千亿宠物食品赛道进入新阶段：越增长，越难赚 | 行业风向标](https://www.tmtpost.com/7968175.html)
+**发布时间**: 2026-04-27 10:11
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐搞 Agent 的把这个 4 万 Star 的 GitHub 项目研究透。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533333&idx=1&sn=270032eb5b2d8c7dfa136d393e989754)
+**发布时间**: 2026-04-27 13:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [关于流感和疫苗，你需要知道哪些信息？](https://sspai.com/post/76945)
+**发布时间**: 2026-04-27 11:30
+
+#### [派早报：X 推出聊天软件 XChat](https://sspai.com/post/109114)
+**发布时间**: 2026-04-27 07:40
+
+#### [汇聚热爱，「2050 大会」少数派线下活动精彩回顾](https://sspai.com/post/108202)
+**发布时间**: 2026-04-24 11:25
 
 ---
 
