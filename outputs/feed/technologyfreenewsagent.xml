@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 10:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 10:21:02 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 23:57:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 23:57:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不是算力，不是电力，这才是中美AI竞争的终极变量</title>
-      <link>https://www.tmtpost.com/7968430.html</link>
-      <description>&lt;![CDATA[不是算力，不是电力，这才是中美AI竞争的终极变量]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968430.html</guid>
+      <title>【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定</title>
+      <link>https://www.tmtpost.com/7969118.html</link>
+      <description>&lt;![CDATA[【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969118.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧</title>
-      <link>https://www.tmtpost.com/7968529.html</link>
-      <description>&lt;![CDATA[从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968529.html</guid>
+      <title>中国 AI 真正缺的，不是另一个 Claude 或 GPT</title>
+      <link>https://www.tmtpost.com/7968299.html</link>
+      <description>&lt;![CDATA[中国 AI 真正缺的，不是另一个 Claude 或 GPT]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968299.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>等待DeepSeek的145天｜深度</title>
-      <link>https://www.tmtpost.com/7966827.html</link>
-      <description>&lt;![CDATA[等待DeepSeek的145天｜深度]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966827.html</guid>
+      <title>提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管</title>
+      <link>https://www.tmtpost.com/7968668.html</link>
+      <description>&lt;![CDATA[提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968668.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三个月600亿美元，为什么中国创新药突然被全球扫货？</title>
-      <link>https://www.tmtpost.com/7968265.html</link>
-      <description>&lt;![CDATA[三个月600亿美元，为什么中国创新药突然被全球扫货？]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968265.html</guid>
+      <title>DeepSeek V4：中国算力，中国模型，中国节奏</title>
+      <link>https://www.tmtpost.com/7968874.html</link>
+      <description>&lt;![CDATA[DeepSeek V4：中国算力，中国模型，中国节奏]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968874.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言</title>
-      <link>https://www.tmtpost.com/7968231.html</link>
-      <description>&lt;![CDATA[从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968231.html</guid>
+      <title>GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛</title>
+      <link>https://www.tmtpost.com/7968585.html</link>
+      <description>&lt;![CDATA[GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968585.html</guid>
       <category>Technology</category>
     </item>
   </channel>

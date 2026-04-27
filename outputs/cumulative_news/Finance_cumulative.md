@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-27 10:20
+**最后更新时间**: 2026-04-27 23:57
+
+---
+
+## 🆕 最新更新 (2026-04-27 23:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Key Labour MPs start to accept need for UK welfare reforms](https://www.ft.com/content/3152c178-c014-4684-a475-b0d3b474ddde)
+**发布时间**: 2026-04-27 23:01
+
+#### [Britain’s King Charles and Queen Camilla arrive on state visit to the US](https://www.ft.com/content/11ba1881-9627-47eb-b171-c2802f585b97)
+**发布时间**: 2026-04-27 21:44
+
+#### [Blue Owl investors shun cut-price exit offer from Boaz Weinstein](https://www.ft.com/content/634b8423-277f-437f-a613-7375d56d76dc)
+**发布时间**: 2026-04-27 21:05
+
+#### [German energy giant nears £600mn deal to buy UK supplier Ovo](https://www.ft.com/content/b9a1fda5-ca35-4608-9aad-634de9ec6ee5)
+**发布时间**: 2026-04-27 20:30
+
+#### [MPs to vote on whether Starmer should be investigated over Mandelson scandal](https://www.ft.com/content/bf4bbb22-eed9-428c-8506-e81397a4ad53)
+**发布时间**: 2026-04-27 20:29
+
+#### [Wizz Air accuses Gulf airlines of putting politics before safety](https://www.ft.com/content/b2308b85-8d3a-42a5-bb3f-ffebd7c190eb)
+**发布时间**: 2026-04-27 18:10
+
+#### [King Charles and the ‘special’ relationship](https://www.ft.com/content/7fa062f3-fb30-47c6-8a1e-a559e926a53e)
+**发布时间**: 2026-04-27 17:25
+
+#### [US being ‘humiliated’ by Iran, says German Chancellor Friedrich Merz](https://www.ft.com/content/0a666824-4686-417c-9c1a-1393942cb3db)
+**发布时间**: 2026-04-27 17:16
+
+#### [United chief hits out at American Airlines for refusing merger talks](https://www.ft.com/content/65a1ab8b-1448-465a-82d0-4cd8cc3d2f35)
+**发布时间**: 2026-04-27 13:46
+
+#### [Are Europe and America headed for divorce?](https://www.ft.com/content/92edf178-dcb7-4768-a511-8999f7b7f08f)
+**发布时间**: 2026-04-27 11:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?](https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 22:30
+
+#### [Arm’s stock snaps a seven-day winning streak as it loses some of its AI glow](https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 22:09
+
+#### [Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 30%](https://www.marketwatch.com/story/bed-bath-beyond-is-seeing-new-life-as-rare-sales-growth-lifts-stock-more-than-30-3e1ee945?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:35
+
+#### [Qualcomm’s stock gains as an AI opportunity emerges](https://www.marketwatch.com/story/qualcomms-stock-soars-as-an-ai-opportunity-emerges-14a6ed98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:23
+
+#### [A possible SiriusXM-iHeartMedia merger would be the latest ominous sign for radio](https://www.marketwatch.com/story/a-possible-siriusxm-iheartmedia-merger-would-be-the-latest-ominous-sign-for-radio-23a18d07?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:15
+
+#### [Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors.](https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:13
+
+#### [Verizon’s stock rises as the company posts surprise subscriber growth under new CEO](https://www.marketwatch.com/story/verizons-stock-rises-as-the-company-posts-surprise-subscriber-growth-under-new-ceo-2752e52d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:08
+
+#### [Trump calls for Jimmy Kimmel to be fired over Melania comments. It’s the latest clash over late-night TV.](https://www.marketwatch.com/story/trump-calls-for-jimmy-kimmel-to-be-fired-over-melania-comments-its-the-latest-clash-over-late-night-tv-fbfc53d4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:05
+
+#### [There’s a pizza price war going on, and Domino’s is feeling the pain](https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 20:53
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9bf2cbb0ebd5b93c470a39d402edec76fd2fc6d97577f18ea9f88d117b396dd4": {
-        "title": "哈萨比斯为何能率领谷歌DeepMind反超OpenAI？",
-        "link": "https://www.tmtpost.com/7933116.html",
-        "published_date": "Sat, 28 Mar 2026 20:06:00 GMT",
-        "first_seen": "2026-03-28T23:35:56.004346"
-      },
-      "a43f44241fb31152be158e62ddc625dcf43acd81949a4615c2901c47b253d819": {
-        "title": "【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；",
-        "link": "https://www.tmtpost.com/7933091.html",
-        "published_date": "Sat, 28 Mar 2026 16:49:00 GMT",
-        "first_seen": "2026-03-28T23:35:56.004354"
-      },
-      "184918e520c991ff5c594decfe9fbd0775a57b0126a1b4bb8fa4ecce02fcc427": {
-        "title": "Sora关停，Seedance怎么办？",
-        "link": "https://www.tmtpost.com/7932819.html",
-        "published_date": "Sat, 28 Mar 2026 14:17:00 GMT",
-        "first_seen": "2026-03-28T23:35:56.004356"
-      },
-      "cc956d8054aae94cb8e5d13024294ed1c706226cb856d796cdac2d62102a6306": {
-        "title": "小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌",
-        "link": "https://www.tmtpost.com/7932893.html",
-        "published_date": "Sat, 28 Mar 2026 14:32:00 GMT",
-        "first_seen": "2026-03-28T23:35:56.004358"
-      },
-      "d257645dfdba49e78067f10dd6602244bee6b532d13743f77fef32ced848c590": {
-        "title": "绿色 IT ：如何减轻 AI 对环境的影响",
-        "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 28 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-28T23:35:56.004360"
-      },
       "bd43747a8b55ca0da70f821438121c0ec57f74b515dc34ba20050e2965a2acbb": {
         "title": "140万亿Token之后：中国AI亟待从规模领先到价值跃迁",
         "link": "https://www.tmtpost.com/7933402.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7968231.html",
         "published_date": "Mon, 27 Apr 2026 11:31:00 GMT",
         "first_seen": "2026-04-27T10:21:02.426369"
+      },
+      "6616fc28485546d89e348f036b5132778626f61cff1746f82a510acaf12edb0f": {
+        "title": "【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定",
+        "link": "https://www.tmtpost.com/7969118.html",
+        "published_date": "Tue, 28 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-27T23:57:55.785574"
+      },
+      "6a45c545de18aa1b6ed3d6b369c9d2218a96300d872a4cddd0ea686521fc2303": {
+        "title": "中国 AI 真正缺的，不是另一个 Claude 或 GPT",
+        "link": "https://www.tmtpost.com/7968299.html",
+        "published_date": "Mon, 27 Apr 2026 19:45:00 GMT",
+        "first_seen": "2026-04-27T23:57:55.785582"
+      },
+      "174ea7fa6c76f0a1ef8b02d185586df34675be3a277f4b4590d260d5c0595b19": {
+        "title": "提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管",
+        "link": "https://www.tmtpost.com/7968668.html",
+        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
+        "first_seen": "2026-04-27T23:57:55.785584"
+      },
+      "fa75d8b26be05ec36f806901e708f8d7fc525fcfc1cf8dbe8f57905f79297ee6": {
+        "title": "DeepSeek V4：中国算力，中国模型，中国节奏",
+        "link": "https://www.tmtpost.com/7968874.html",
+        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
+        "first_seen": "2026-04-27T23:57:55.785586"
+      },
+      "e2f796cd47ecb1144268b6063ca62d7053ab0744d144e51d65a2f541612518cf": {
+        "title": "GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛",
+        "link": "https://www.tmtpost.com/7968585.html",
+        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
+        "first_seen": "2026-04-27T23:57:55.785587"
       }
     },
     "Finance": {
-      "ee98a7f0f8c255a2a392dcb8fae8a039a96a02ca8196ca8fabf704aabfd61faf": {
-        "title": "Houthi missile attack signals ‘serious’ escalation in Iran war",
-        "link": "https://www.ft.com/content/e77d9ac6-d9dd-415e-a4a7-f54d3060239a",
-        "published_date": "Sat, 28 Mar 2026 10:47:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.492417"
-      },
-      "33b9ddb5bfcf3c200101d9546670b5c3d8a6d53379dc1fa52d0407abd323315d": {
-        "title": "Your stock portfolio soared on cheap market risk — but the easy money is over",
-        "link": "https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Mar 2026 17:04:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.492423"
-      },
-      "2af861b3d63ce2870b5e83e22e8a14bf36533fc0fcd0e6b87e75d124992446ea": {
-        "title": "ETFs have crushed Wall Street’s go-to stock-market indicator",
-        "link": "https://www.marketwatch.com/story/how-etfs-crushed-wall-streets-favorite-stock-market-indicator-39940760?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Mar 2026 17:04:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.492425"
-      },
-      "bb2eb562b4e8882a83a2539fc3cd14ef8a3bfd0922f861a7203c432ce05299bd": {
-        "title": "UK and Singapore press ahead with digital deal as WTO remains deadlocked",
-        "link": "https://www.ft.com/content/7f8cfd99-7c5a-458d-af2c-683f340eaa9c",
-        "published_date": "Sat, 28 Mar 2026 17:22:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.492427"
-      },
-      "7d492f092d766b7ed30200be2f1df6c62001bf5b045ca7a6c2a6476d3b466cd6": {
-        "title": "These 3 growth sectors are helping people flourish — and long-term investors are buying in",
-        "link": "https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories",
-        "published_date": "Sat, 28 Mar 2026 17:03:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.492428"
-      },
       "4016c6326b05c7e0cb86a6cd4026cbfd72c7f685fcb8b54a23c3d4a92fae39b5": {
         "title": "Eurozone borrowing costs soar on fears of fiscal hit from Iran shock",
         "link": "https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c",
@@ -4929,21 +4899,39 @@
         "link": "https://www.marketwatch.com/story/global-oil-futures-top-100-again-after-u-s-iran-peace-talks-canceled-a50f6a7b?mod=mw_rss_topstories",
         "published_date": "Mon, 27 Apr 2026 08:49:00 GMT",
         "first_seen": "2026-04-27T10:20:27.234815"
+      },
+      "848310ea17f0dc3ada0121960efe41a0613fbaccbb212628a252b9f1548e18df": {
+        "title": "German energy giant nears £600mn deal to buy UK supplier Ovo",
+        "link": "https://www.ft.com/content/b9a1fda5-ca35-4608-9aad-634de9ec6ee5",
+        "published_date": "Mon, 27 Apr 2026 20:30:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.226809"
+      },
+      "5f403a33ceba6931a82ccc6266df0cc0e6151d88b4e365263ab7cc99cc130f0c": {
+        "title": "Blue Owl investors shun cut-price exit offer from Boaz Weinstein",
+        "link": "https://www.ft.com/content/634b8423-277f-437f-a613-7375d56d76dc",
+        "published_date": "Mon, 27 Apr 2026 21:05:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.226816"
+      },
+      "cdf8d3f6e97bc775f9453d1be956bbded50853911c74262c7a07194c9ca3da8e": {
+        "title": "Key Labour MPs start to accept need for UK welfare reforms",
+        "link": "https://www.ft.com/content/3152c178-c014-4684-a475-b0d3b474ddde",
+        "published_date": "Mon, 27 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.226818"
+      },
+      "31840c5a52c31a9f1a5fbe8bd7dbed8428e12f4dc335b8c4f05a804d861b40c7": {
+        "title": "United chief hits out at American Airlines for refusing merger talks",
+        "link": "https://www.ft.com/content/65a1ab8b-1448-465a-82d0-4cd8cc3d2f35",
+        "published_date": "Mon, 27 Apr 2026 13:46:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.226820"
+      },
+      "3688f675ca6fe5934f4fc6a91831e83208c14ba655ea41691eb2c77751fffb3b": {
+        "title": "Arm’s stock snaps a seven-day winning streak as it loses some of its AI glow",
+        "link": "https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Apr 2026 22:09:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.226821"
       }
     },
     "Ai": {
-      "38eeab1e0f7741db9cb9444e94152a1b95e1f7b87a03a1b0d8c40c3ba78b2ba1": {
-        "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
-        "link": "https://www.qbitai.com/2026/03/392988.html",
-        "published_date": "Sat, 28 Mar 2026 13:58:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.635756"
-      },
-      "fee888e117d0be1d95aa45f5705a042ea4f5070601ecccd648ec235f3def49f8": {
-        "title": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办",
-        "link": "https://www.qbitai.com/2026/03/392981.html",
-        "published_date": "Sat, 28 Mar 2026 10:51:00 GMT",
-        "first_seen": "2026-03-28T23:36:05.635764"
-      },
       "f8babe98e61b51e81de043763a27a846427e65c55d6ff94df895ceea8eb295c8": {
         "title": "2026-03-29日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-29/",
@@ -6425,13 +6413,31 @@
         "link": "https://www.qbitai.com/2026/04/408030.html",
         "published_date": "Mon, 27 Apr 2026 09:13:00 GMT",
         "first_seen": "2026-04-27T10:20:40.755133"
+      },
+      "3963fad1dbb4ead854bb2d4e3346ba57963d67c12bb8ee5400a1e7ee11dd1d8b": {
+        "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
+        "link": "https://www.qbitai.com/2026/04/408649.html",
+        "published_date": "Mon, 27 Apr 2026 12:19:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.373322"
+      },
+      "7252a80e1eafbad72de7075d1a1cc99853702bc7c9b6a0b35bb6822d5420a5ad": {
+        "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
+        "link": "https://www.qbitai.com/2026/04/408578.html",
+        "published_date": "Mon, 27 Apr 2026 10:48:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.373329"
+      },
+      "0471e7e36af1f36b09aa5e1652a4220a28cd7c7d09fecf871e5d8f233c6fe904": {
+        "title": "2026-04-27日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-27/",
+        "published_date": "Mon, 27 Apr 2026 10:22:00 GMT",
+        "first_seen": "2026-04-27T23:58:12.373331"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-27T10:21:02.426371",
-    "Finance": "2026-04-27T10:20:27.234818",
-    "Ai": "2026-04-27T10:20:40.755136"
+    "Technology": "2026-04-27T23:57:55.785590",
+    "Finance": "2026-04-27T23:58:12.226825",
+    "Ai": "2026-04-27T23:58:12.373333"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 10:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 10:20:40 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 23:58:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图</title>
-      <link>https://www.qbitai.com/2026/04/408031.html</link>
-      <description>&lt;![CDATA[地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408031.html</guid>
+      <title>打工人五一自救指南：把活全甩给AI，准备免打扰出门</title>
+      <link>https://www.qbitai.com/2026/04/408649.html</link>
+      <description>&lt;![CDATA[打工人五一自救指南：把活全甩给AI，准备免打扰出门]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 12:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408649.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态</title>
-      <link>https://www.qbitai.com/2026/04/408390.html</link>
-      <description>&lt;![CDATA[芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408390.html</guid>
+      <title>量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力</title>
+      <link>https://www.qbitai.com/2026/04/408578.html</link>
+      <description>&lt;![CDATA[量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408578.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单</title>
-      <link>https://www.qbitai.com/2026/04/408049.html</link>
-      <description>&lt;![CDATA[Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 08:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408049.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”</title>
-      <link>https://www.qbitai.com/2026/04/408394.html</link>
-      <description>&lt;![CDATA[让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408394.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>李飞飞引爆的3D新技术，为什么这家深圳公司两年前就“玩腻”了？</title>
-      <link>https://www.qbitai.com/2026/04/408030.html</link>
-      <description>&lt;![CDATA[李飞飞引爆的3D新技术，为什么这家深圳公司两年前就“玩腻”了？]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408030.html</guid>
+      <title>2026-04-27日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-27/</link>
+      <description>&lt;![CDATA[2026-04-27日刊]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-27/</guid>
       <category>Ai</category>
     </item>
   </channel>
