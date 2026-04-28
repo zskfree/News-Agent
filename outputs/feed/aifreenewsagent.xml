@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Apr 2026 10:15:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 10:17:56 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:57:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 9秒删库搞崩公司，然后…写了份检讨</title>
-      <link>https://www.qbitai.com/2026/04/410317.html</link>
-      <description>&lt;![CDATA[Cursor 9秒删库搞崩公司，然后…写了份检讨]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410317.html</guid>
+      <title>消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告</title>
+      <link>https://www.qbitai.com/2026/04/410506.html</link>
+      <description>&lt;![CDATA[消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410506.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里视频模型 HappyHorse 开启灰测，悟空已率先接入</title>
-      <link>https://www.qbitai.com/2026/04/410314.html</link>
-      <description>&lt;![CDATA[阿里视频模型 HappyHorse 开启灰测，悟空已率先接入]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410314.html</guid>
+      <title>我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了</title>
+      <link>https://www.qbitai.com/2026/04/410463.html</link>
+      <description>&lt;![CDATA[我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410463.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-04-28日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-28/</link>
-      <description>&lt;![CDATA[2026-04-28日刊]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-28/</guid>
+      <title>支付宝正式发布“支付宝AI收”，个人开发者0费率使用</title>
+      <link>https://www.qbitai.com/2026/04/410450.html</link>
+      <description>&lt;![CDATA[支付宝正式发布“支付宝AI收”，个人开发者0费率使用]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410450.html</guid>
       <category>Ai</category>
     </item>
   </channel>

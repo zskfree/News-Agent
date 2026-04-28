@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Apr 2026 10:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 10:18:22 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 23:57:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:57:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一场谷歌“75%代码由AI生成”引发的焦虑</title>
-      <link>https://www.tmtpost.com/7970697.html</link>
-      <description>&lt;![CDATA[一场谷歌“75%代码由AI生成”引发的焦虑]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970697.html</guid>
+      <title>关于英伟达 L4 和物理 AI，吴新宙回应一切</title>
+      <link>https://www.tmtpost.com/7970417.html</link>
+      <description>&lt;![CDATA[关于英伟达 L4 和物理 AI，吴新宙回应一切]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970417.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>安克创新造芯，跨境一哥的具身智能豪赌｜出海参考</title>
-      <link>https://www.tmtpost.com/7969233.html</link>
-      <description>&lt;![CDATA[安克创新造芯，跨境一哥的具身智能豪赌｜出海参考]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7969233.html</guid>
+      <title>自动驾驶重卡的“iPhone时刻”来了</title>
+      <link>https://www.tmtpost.com/7970665.html</link>
+      <description>&lt;![CDATA[自动驾驶重卡的“iPhone时刻”来了]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970665.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境</title>
-      <link>https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>汽车的「OpenClaw 时刻」，到了？</title>
+      <link>http://www.geekpark.net/news/363403</link>
+      <description>&lt;![CDATA[汽车的「OpenClaw 时刻」，到了？]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363403</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 的“记忆断片”困局，该怎么破？</title>
-      <link>https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 的“记忆断片”困局，该怎么破？]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型的“保质期”比牛奶还短</title>
+      <link>https://www.tmtpost.com/7970694.html</link>
+      <description>&lt;![CDATA[大模型的“保质期”比牛奶还短]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970694.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB</title>
-      <link>https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>向量量化如何影响存储？与RaBitQ两位作者，从与谷歌TurboQuant学术争议聊起</title>
+      <link>https://www.tmtpost.com/7969744.html</link>
+      <description>&lt;![CDATA[向量量化如何影响存储？与RaBitQ两位作者，从与谷歌TurboQuant学术争议聊起]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969744.html</guid>
       <category>Technology</category>
     </item>
   </channel>

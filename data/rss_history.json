@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2dc65245b0face5b236f3cc2239fff063252e9f2e89fe791c9ae690fcad24fba": {
-        "title": "当王兴说“进攻AI”时，美团在防守什么？",
-        "link": "https://www.tmtpost.com/7933275.html",
-        "published_date": "Sun, 29 Mar 2026 17:53:00 GMT",
-        "first_seen": "2026-03-29T23:37:14.986615"
-      },
-      "8223325eff499d0b69ff7da36cb9c48808ed59602d26a723bdb19c803fc26338": {
-        "title": "【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低",
-        "link": "https://www.tmtpost.com/7933771.html",
-        "published_date": "Mon, 30 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-29T23:37:14.986626"
-      },
-      "35e5854c813e5c9a6da82cdec1b9a2095c6f72e952e7b3e12120ee6a2f85fb1d": {
-        "title": "推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532554&idx=1&sn=f2df86423107972a43379890bb5e94ff",
-        "published_date": "Sun, 29 Mar 2026 11:06:00 GMT",
-        "first_seen": "2026-03-29T23:37:14.986629"
-      },
-      "4d2701c0284d726232ba9aebc7871016a5d3cfff8bc95d385b012071b0e671e1": {
-        "title": "从电价优势到低成本词元（Token）出海的叙事路径成立吗？",
-        "link": "https://www.tmtpost.com/7933712.html",
-        "published_date": "Sun, 29 Mar 2026 19:06:00 GMT",
-        "first_seen": "2026-03-29T23:37:14.986632"
-      },
-      "901891871531c40bfd707f28210c8ffd400c0dd113461bfada11d80a508cd531": {
-        "title": "自制电子墨水屏，以及我用它来干了什么？",
-        "link": "https://sspai.com/post/105990",
-        "published_date": "Sun, 29 Mar 2026 17:38:00 GMT",
-        "first_seen": "2026-03-29T23:37:14.986633"
-      },
       "2946f55e466f8d92b27797d93e06ccfda56960c872b83313a4b5c9f680223afb": {
         "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
         "link": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 28 Apr 2026 12:00:00 GMT",
         "first_seen": "2026-04-28T10:18:22.772407"
+      },
+      "3efed34681f325ebeeb4b9f0f3ca9197604905a23efe6d41cdcc59869ed5c437": {
+        "title": "关于英伟达 L4 和物理 AI，吴新宙回应一切",
+        "link": "https://www.tmtpost.com/7970417.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-28T23:57:56.714747"
+      },
+      "716bdb26121d329dea2d8b31452095f8cbefd4a0aa79d1c3c99c526c580c90a0": {
+        "title": "自动驾驶重卡的“iPhone时刻”来了",
+        "link": "https://www.tmtpost.com/7970665.html",
+        "published_date": "Tue, 28 Apr 2026 20:50:00 GMT",
+        "first_seen": "2026-04-28T23:57:56.714754"
+      },
+      "28bca8e21bc1af43092b44d12bd73cf4d211956859f3d5bb9502a8a1fe491503": {
+        "title": "汽车的「OpenClaw 时刻」，到了？",
+        "link": "http://www.geekpark.net/news/363403",
+        "published_date": "Tue, 28 Apr 2026 19:26:00 GMT",
+        "first_seen": "2026-04-28T23:57:56.714756"
+      },
+      "c07d28224f78d325b0742669d4f9ff3091ab46aaebb09dcd8f265e8466a7d8d9": {
+        "title": "大模型的“保质期”比牛奶还短",
+        "link": "https://www.tmtpost.com/7970694.html",
+        "published_date": "Tue, 28 Apr 2026 18:53:00 GMT",
+        "first_seen": "2026-04-28T23:57:56.714759"
+      },
+      "017ee6b2f1392d9d8089ce570c23a33e548b5217a4650c721efc03de7d090a4e": {
+        "title": "向量量化如何影响存储？与RaBitQ两位作者，从与谷歌TurboQuant学术争议聊起",
+        "link": "https://www.tmtpost.com/7969744.html",
+        "published_date": "Tue, 28 Apr 2026 15:50:00 GMT",
+        "first_seen": "2026-04-28T23:57:56.714762"
       }
     },
     "Finance": {
-      "c6edca9d40c859edafb735f1d7c4579324d9de991fec476eba870ad55445b732": {
-        "title": "Distressed-debt funds target private credit downturn as ‘greatest opportunity’ since 2008",
-        "link": "https://www.ft.com/content/8c3514be-8c7b-4d13-a59a-dd8a23fb8c40",
-        "published_date": "Sun, 29 Mar 2026 20:00:00 GMT",
-        "first_seen": "2026-03-29T23:37:27.959225"
-      },
-      "e6152cb69fca45f40b5b3c860f02acbd51d8cd7b7e5f9f79625d52485c32ffdb": {
-        "title": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 23:06:00 GMT",
-        "first_seen": "2026-03-29T23:37:27.959232"
-      },
-      "06c9f95ee12df96b56a73cf9fe17af9cf865006ea6e4791d594ce3f471a3431f": {
-        "title": "Avoid energy protectionism, UK chancellor will tell G7 allies",
-        "link": "https://www.ft.com/content/52541a81-f64d-4eaf-8201-ec2928269aee",
-        "published_date": "Sun, 29 Mar 2026 21:30:00 GMT",
-        "first_seen": "2026-03-29T23:37:27.959234"
-      },
-      "afa4ac4f7d908b4fa588565dbba17ea91aa3ab99b2e43adfeea82f17a561e635": {
-        "title": "Nike’s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround.",
-        "link": "https://www.marketwatch.com/story/nikes-stock-is-at-9-year-lows-ahead-of-earnings-it-faces-these-questions-as-doubt-grows-over-its-turnaround-7861a90c?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-29T23:37:27.959236"
-      },
-      "7638f0f8c843e0ca2f45a7d196c7cd333697b7c50ab023bb74ee28f2308a819a": {
-        "title": "Apollo looks beyond New York as it plans second headquarters",
-        "link": "https://www.ft.com/content/efeca6be-c9b5-4912-b66b-15716cc914b7",
-        "published_date": "Sun, 29 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-29T23:37:27.959237"
-      },
       "2085996a2de8e47bf5b208c1f0f7cf866ec8b2594c3957f8ed1c2823684341dc": {
         "title": "Private capital: what are the risks?",
         "link": "https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776",
@@ -4959,33 +4929,39 @@
         "link": "https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee",
         "published_date": "Tue, 28 Apr 2026 08:14:00 GMT",
         "first_seen": "2026-04-28T10:17:56.025192"
+      },
+      "e66cbc1e0fe3956a962e344182e4c6bd243bc3ce3a60d2a5e74ba8068ca285e9": {
+        "title": "Goldman stops bankers using Anthropic’s Claude in Hong Kong",
+        "link": "https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41",
+        "published_date": "Tue, 28 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-28T23:57:40.864896"
+      },
+      "71596d7888bbe472758a7ee4f9a48cc0924fecf8af7b772626ee12894b95f07d": {
+        "title": "UK ministers gain power to force pension funds to invest in British companies",
+        "link": "https://www.ft.com/content/7beea881-a105-4197-bf58-6719917b448f",
+        "published_date": "Tue, 28 Apr 2026 22:29:00 GMT",
+        "first_seen": "2026-04-28T23:57:40.864904"
+      },
+      "45603c4b8f529f9d4b4e8294eaac0980be42a8afd473a9fea0b78efccb994e6e": {
+        "title": "OpenAI expands Amazon deal after Microsoft loosens exclusivity terms",
+        "link": "https://www.ft.com/content/f159dd74-56a5-404b-ae54-ab4bab98b2c3",
+        "published_date": "Tue, 28 Apr 2026 18:37:00 GMT",
+        "first_seen": "2026-04-28T23:57:40.864906"
+      },
+      "447998a0fb717d481328023abfa775b38ebdd0ccb8fbdb4929c37302ed51e541": {
+        "title": "The Elon Musk-Sam Altman trial has just begun. Here’s what’s at stake.",
+        "link": "https://www.marketwatch.com/story/the-elon-musk-sam-altman-trial-has-just-begun-heres-whats-at-stake-01df4a4c?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 21:28:00 GMT",
+        "first_seen": "2026-04-28T23:57:40.864909"
+      },
+      "6676eabb4bd09e9c0c0ce9e02117569cd163cee6803b6111d7c3d9f9f4a69489": {
+        "title": "These two countries are the most likely to leave OPEC’s orbit next",
+        "link": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:17:00 GMT",
+        "first_seen": "2026-04-28T23:57:40.864911"
       }
     },
     "Ai": {
-      "ec330a62f7298d86ccb2672e8080bbff594d70c08e6cfc3302d92e7f7d4c7fb9": {
-        "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-        "link": "https://www.qbitai.com/2026/03/393186.html",
-        "published_date": "Sun, 29 Mar 2026 16:17:00 GMT",
-        "first_seen": "2026-03-29T23:37:28.109408"
-      },
-      "8de5af67054b4bf7676c93f665b5a00bcc37bb632f3bdd32f3fa17872dd26c26": {
-        "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-        "link": "https://www.qbitai.com/2026/03/393164.html",
-        "published_date": "Sun, 29 Mar 2026 16:11:00 GMT",
-        "first_seen": "2026-03-29T23:37:28.109416"
-      },
-      "cd46786deeab120549c35910f2515b2e9041cc3458fd05e70d8f4b43f1ff97ad": {
-        "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-        "link": "https://www.qbitai.com/2026/03/393125.html",
-        "published_date": "Sun, 29 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-29T23:37:28.109418"
-      },
-      "45b4090f84fdaed80ddfb30c0b1c80491a248663760b6f8c3c6cfd5fe2a62650": {
-        "title": "何同学会玩：让龙虾自己3D打印自己",
-        "link": "https://www.qbitai.com/2026/03/393085.html",
-        "published_date": "Sun, 29 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-29T23:37:28.109420"
-      },
       "83f5949b787e3cd21dd5e19e1bf820a69c64ac8aefa7fc0f88f633a5334ac10f": {
         "title": "国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分",
         "link": "https://www.qbitai.com/2026/03/393296.html",
@@ -6485,13 +6461,31 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-28/",
         "published_date": "Tue, 28 Apr 2026 12:58:00 GMT",
         "first_seen": "2026-04-28T10:17:56.180033"
+      },
+      "268e2cde8cfba960e36a2887de2a4c17c2e4c5a83e7db5b586c1777bc7dda5d5": {
+        "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+        "link": "https://www.qbitai.com/2026/04/410506.html",
+        "published_date": "Tue, 28 Apr 2026 14:50:00 GMT",
+        "first_seen": "2026-04-28T23:57:41.027325"
+      },
+      "7f1f05f1215c534d32c1178e2a0e807191b46a28a2a2912be1deb6c9229334d6": {
+        "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+        "link": "https://www.qbitai.com/2026/04/410463.html",
+        "published_date": "Tue, 28 Apr 2026 11:15:00 GMT",
+        "first_seen": "2026-04-28T23:57:41.027333"
+      },
+      "bfdd07f5f6870f99ef0148a6cc6b96c4f56bc9134b4c3e861cebb25a382eff58": {
+        "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+        "link": "https://www.qbitai.com/2026/04/410450.html",
+        "published_date": "Tue, 28 Apr 2026 10:29:00 GMT",
+        "first_seen": "2026-04-28T23:57:41.027336"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-28T10:18:22.772409",
-    "Finance": "2026-04-28T10:17:56.025194",
-    "Ai": "2026-04-28T10:17:56.180035"
+    "Technology": "2026-04-28T23:57:56.714764",
+    "Finance": "2026-04-28T23:57:40.864913",
+    "Ai": "2026-04-28T23:57:41.027338"
   }
 }

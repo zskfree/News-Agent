@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-28 10:17
+**最后更新时间**: 2026-04-28 23:57
+
+---
+
+## 🆕 最新更新 (2026-04-28 23:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Musk claims Altman ‘stole a charity’ in OpenAI trial testimony](https://www.ft.com/content/a6a987e0-fd93-49c5-a161-2e217c3817b8)
+**发布时间**: 2026-04-28 23:04
+
+#### [Goldman stops bankers using Anthropic’s Claude in Hong Kong](https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41)
+**发布时间**: 2026-04-28 23:01
+
+#### [Ex-FBI head Comey charged with threatening Trump’s life](https://www.ft.com/content/69fc75c8-39c4-4bc1-925d-fb94847e3a5b)
+**发布时间**: 2026-04-28 22:40
+
+#### [King Charles defends transatlantic relationship in speech to Congress](https://www.ft.com/content/1017488d-a933-4798-9b0e-6165c77a6c76)
+**发布时间**: 2026-04-28 22:39
+
+#### [UK ministers gain power to force pension funds to invest in British companies](https://www.ft.com/content/7beea881-a105-4197-bf58-6719917b448f)
+**发布时间**: 2026-04-28 22:29
+
+#### [US ambassador to Ukraine to leave over differences with Trump](https://www.ft.com/content/33d5d8d4-a7db-4647-9751-c21de8ebecb8)
+**发布时间**: 2026-04-28 21:42
+
+#### [Trump administration launches Disney probe after Jimmy Kimmel’s Melania joke](https://www.ft.com/content/aaac7dfd-a85d-491b-bf84-6982ec9a81b8)
+**发布时间**: 2026-04-28 19:31
+
+#### [OpenAI expands Amazon deal after Microsoft loosens exclusivity terms](https://www.ft.com/content/f159dd74-56a5-404b-ae54-ab4bab98b2c3)
+**发布时间**: 2026-04-28 18:37
+
+#### [America’s special relationship is ‘probably Israel’, says UK ambassador to US](https://www.ft.com/content/d4bfac8a-37a4-4409-ac03-a31d41b08e48)
+**发布时间**: 2026-04-28 17:11
+
+#### [Get used to the long Iran war](https://www.ft.com/content/efa894e5-2431-4238-a920-3075dad1afdb)
+**发布时间**: 2026-04-28 11:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Starbucks is seeing a resurgence, thanks to younger and lower-income customers](https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:54
+
+#### [The stock market’s comeback from the Iran-inspired selloff hasn’t been as powerful as you might think](https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:31
+
+#### [It’s time for a Microsoft ‘reset.’ Here’s what investors should focus on now.](https://www.marketwatch.com/story/its-time-for-a-microsoft-reset-heres-what-investors-should-focus-on-now-a5d9e334?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:20
+
+#### [These two countries are the most likely to leave OPEC’s orbit next](https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:17
+
+#### [Bloom Energy is riding the AI wave with a major lift from Oracle](https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:16
+
+#### [Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on](https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:01
+
+#### [This is the most critical question facing U.S. investors right now — and it has nothing to do with Iran](https://www.marketwatch.com/story/this-is-the-most-critical-question-facing-u-s-investors-right-now-and-it-has-nothing-to-do-with-iran-45bc8f2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:52
+
+#### [Why buying crypto in a bear market may be a cheaper way to play the AI boom](https://www.marketwatch.com/story/buying-crypto-in-a-bear-market-is-a-cheaper-way-to-play-the-ai-boom-this-former-tiger-management-executive-says-868096eb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:43
+
+#### [The Elon Musk-Sam Altman trial has just begun. Here’s what’s at stake.](https://www.marketwatch.com/story/the-elon-musk-sam-altman-trial-has-just-begun-heres-whats-at-stake-01df4a4c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:28
+
+#### [These 5 AI-proof jobs are hiring — here’s how much they pay and how to get them](https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:17
 
 ---
 
