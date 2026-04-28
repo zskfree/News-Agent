@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 23:55:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 23:58:12 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 07:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:34:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>打工人五一自救指南：把活全甩给AI，准备免打扰出门</title>
-      <link>https://www.qbitai.com/2026/04/408649.html</link>
-      <description>&lt;![CDATA[打工人五一自救指南：把活全甩给AI，准备免打扰出门]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408649.html</guid>
+      <title>腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体</title>
+      <link>https://www.qbitai.com/2026/04/409550.html</link>
+      <description>&lt;![CDATA[腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 01:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/409550.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力</title>
-      <link>https://www.qbitai.com/2026/04/408578.html</link>
-      <description>&lt;![CDATA[量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/408578.html</guid>
+      <title>小雨智造与北航共建实验室，创始人乔忠良：工业落地比人形奇观更具正义性</title>
+      <link>https://www.qbitai.com/2026/04/409882.html</link>
+      <description>&lt;![CDATA[小雨智造与北航共建实验室，创始人乔忠良：工业落地比人形奇观更具正义性]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/409882.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-04-27日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-27/</link>
-      <description>&lt;![CDATA[2026-04-27日刊]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-27/</guid>
+      <title>做了10年Robotaxi，小马智行首次入局RoboVan</title>
+      <link>https://www.qbitai.com/2026/04/409648.html</link>
+      <description>&lt;![CDATA[做了10年Robotaxi，小马智行首次入局RoboVan]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 02:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/409648.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统</title>
+      <link>https://www.qbitai.com/2026/04/409665.html</link>
+      <description>&lt;![CDATA[赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 02:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/409665.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek不惜代价保住它！V4关键特性被挖出来了</title>
+      <link>https://www.qbitai.com/2026/04/409896.html</link>
+      <description>&lt;![CDATA[DeepSeek不惜代价保住它！V4关键特性被挖出来了]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 06:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/409896.html</guid>
       <category>Ai</category>
     </item>
   </channel>

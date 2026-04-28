@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-27 23:57
+**最后更新时间**: 2026-04-28 07:33
+
+---
+
+## 🆕 最新更新 (2026-04-28 07:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [最低100元，他们把「脸」卖给AI短剧公司](https://www.tmtpost.com/7970069.html)
+**发布时间**: 2026-04-28 15:02
+
+#### [DeepSeek给大家留出了准备空间](https://www.tmtpost.com/7970019.html)
+**发布时间**: 2026-04-28 14:58
+
+#### [从莫氏鸡煲到“鸡排哥”，普通人爆火真能带火一座城？](https://www.tmtpost.com/7957400.html)
+**发布时间**: 2026-04-28 14:56
+
+#### [传统车企，灵魂卖得不顺利](https://www.tmtpost.com/7970021.html)
+**发布时间**: 2026-04-28 14:55
+
+#### [2026年的零售业：谁在崛起，谁在崩塌](https://www.tmtpost.com/7970017.html)
+**发布时间**: 2026-04-28 14:49
+
+#### [超级主播：东方甄选最大的资产，和最危险的负债](https://www.tmtpost.com/7969509.html)
+**发布时间**: 2026-04-28 14:44
+
+#### [2026，音乐节的生死大考](https://www.tmtpost.com/7968785.html)
+**发布时间**: 2026-04-28 14:39
+
+#### [瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平](https://www.tmtpost.com/7970206.html)
+**发布时间**: 2026-04-28 14:36
+
+#### [着相：把“安卓机”变成“影像手机”的这十年](https://www.tmtpost.com/7969994.html)
+**发布时间**: 2026-04-28 14:34
+
+#### [这七张底片，是东软、迈瑞与联影们的来时路](https://www.tmtpost.com/7969793.html)
+**发布时间**: 2026-04-28 14:34
+
+#### [Oracle：AI 算力豪赌，赔率够了吗？](https://www.tmtpost.com/7969725.html)
+**发布时间**: 2026-04-28 14:34
+
+#### [涨价潮里，DeepSeek选择了清场](https://www.tmtpost.com/7969842.html)
+**发布时间**: 2026-04-28 14:06
+
+#### [一年亏掉3400万，“帐篷茅”牧高笛跌下神坛](https://www.tmtpost.com/7969811.html)
+**发布时间**: 2026-04-28 14:06
+
+#### [厝内小眷村回归，“白月光”品牌最怕吃老本](https://www.tmtpost.com/7969643.html)
+**发布时间**: 2026-04-28 14:02
+
+#### [史上最拥挤电影五一档，实际上是绣花枕头一包草？](https://www.tmtpost.com/7969795.html)
+**发布时间**: 2026-04-28 14:02
+
+#### [小龙虾预制菜“踩雷”，速冻巨头首现利润负增长](https://www.tmtpost.com/7969721.html)
+**发布时间**: 2026-04-28 13:58
+
+#### [中国光纤大爆单](https://www.tmtpost.com/7969796.html)
+**发布时间**: 2026-04-28 13:54
+
+#### [20万字不到1分钱，梁文锋把token价格打骨折了](https://www.tmtpost.com/7969877.html)
+**发布时间**: 2026-04-28 13:54
+
+#### [4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明](https://www.tmtpost.com/7969878.html)
+**发布时间**: 2026-04-28 13:54
+
+#### [AI创业时代，一人公司的七种打开方式](https://www.tmtpost.com/7969739.html)
+**发布时间**: 2026-04-28 13:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理](https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 15:00
+
+#### [ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search](https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 14:26
+
+#### [可观测性和遥测技术如何提升软件工程实践](https://www.infoq.cn/article/JwQTmFXTEkBpJlXL16PV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 13:00
+
+#### [Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB](https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 12:00
+
+#### [Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境](https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 11:00
+
+#### [Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海](https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 10:00
+
+#### [同一赛道，四种收费：Agent 控制层（Harness）开始分裂](https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 10:00
+
+#### [Agent 的“记忆断片”困局，该怎么破？](https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 09:17
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Karpathy 的 AI 知识库 理念，已经有人开源在 GitHub 上了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533334&idx=1&sn=1d33cc0d087234db8d0e20d839b04b97)
+**发布时间**: 2026-04-28 11:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [关于胃肠镜，你需要知道的一切](https://sspai.com/post/109040)
+**发布时间**: 2026-04-28 11:00
+
+#### [派早报：阿里巴巴发布视频生成模型 HappyHorse 1.0 等](https://sspai.com/post/109160)
+**发布时间**: 2026-04-28 08:55
 
 ---
 

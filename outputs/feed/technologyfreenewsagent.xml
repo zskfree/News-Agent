@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 23:57:55 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 07:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:34:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定</title>
-      <link>https://www.tmtpost.com/7969118.html</link>
-      <description>&lt;![CDATA[【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7969118.html</guid>
+      <title>最低100元，他们把「脸」卖给AI短剧公司</title>
+      <link>https://www.tmtpost.com/7970069.html</link>
+      <description>&lt;![CDATA[最低100元，他们把「脸」卖给AI短剧公司]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970069.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国 AI 真正缺的，不是另一个 Claude 或 GPT</title>
-      <link>https://www.tmtpost.com/7968299.html</link>
-      <description>&lt;![CDATA[中国 AI 真正缺的，不是另一个 Claude 或 GPT]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 19:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968299.html</guid>
+      <title>4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明</title>
+      <link>https://www.tmtpost.com/7969878.html</link>
+      <description>&lt;![CDATA[4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969878.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管</title>
-      <link>https://www.tmtpost.com/7968668.html</link>
-      <description>&lt;![CDATA[提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968668.html</guid>
+      <title>Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海</title>
+      <link>https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek V4：中国算力，中国模型，中国节奏</title>
-      <link>https://www.tmtpost.com/7968874.html</link>
-      <description>&lt;![CDATA[DeepSeek V4：中国算力，中国模型，中国节奏]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968874.html</guid>
+      <title>Oracle：AI 算力豪赌，赔率够了吗？</title>
+      <link>https://www.tmtpost.com/7969725.html</link>
+      <description>&lt;![CDATA[Oracle：AI 算力豪赌，赔率够了吗？]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969725.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛</title>
-      <link>https://www.tmtpost.com/7968585.html</link>
-      <description>&lt;![CDATA[GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968585.html</guid>
+      <title>瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平</title>
+      <link>https://www.tmtpost.com/7970206.html</link>
+      <description>&lt;![CDATA[瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970206.html</guid>
       <category>Technology</category>
     </item>
   </channel>

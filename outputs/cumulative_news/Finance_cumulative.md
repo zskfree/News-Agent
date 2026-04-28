@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-27 23:57
+**最后更新时间**: 2026-04-28 07:33
+
+---
+
+## 🆕 最新更新 (2026-04-28 07:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price hits $110 on Iran talks uncertainty](https://www.ft.com/content/0244cd6d-b0da-435c-9c84-7ff4f37ec9ec)
+**发布时间**: 2026-04-28 06:48
+
+#### [BP profits hit 3-year high as Iran war delivers windfall](https://www.ft.com/content/189a9248-d724-4128-b53a-b7afb33bcac4)
+**发布时间**: 2026-04-28 06:12
+
+#### [Wall Street dealers boost Treasury holdings to highest level since 2007](https://www.ft.com/content/bdbfeee1-6780-4df7-9c42-34b9bc07f233)
+**发布时间**: 2026-04-28 04:00
+
+#### [Iran’s hardliners clash over talks with US](https://www.ft.com/content/53a428c7-5242-4e90-ba87-71730128379a)
+**发布时间**: 2026-04-28 04:00
+
+#### [The real lesson of Reform’s war on the history curriculum](https://www.ft.com/content/977af7be-f69f-483b-9026-e5b60b24cf0f)
+**发布时间**: 2026-04-28 04:00
+
+#### [Coffee, fuel and houses: why Trump has an inflation problem](https://www.ft.com/content/401a7647-5593-4a58-8592-92caf9dbd440)
+**发布时间**: 2026-04-28 04:00
+
+#### [London landlord sues John Lewis in click-and-collect dispute](https://www.ft.com/content/ec9ed375-3dad-4fb6-9f77-b5d2d83c1187)
+**发布时间**: 2026-04-28 04:00
+
+#### [Milken family office alumni raise $4bn to target private capital upheaval](https://www.ft.com/content/4bd56a80-948c-4749-a3ce-4cb1ae4ddfc5)
+**发布时间**: 2026-04-28 04:00
+
+#### [Rivian CEO’s $403mn pay package dwarfs those of top US car bosses](https://www.ft.com/content/aabef226-0a42-4cde-9cc1-687e0f4a9d3a)
+**发布时间**: 2026-04-28 00:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [California is one step closer to America’s first billionaire wealth tax — and the divide between red and blue state taxes is getting deeper](https://www.marketwatch.com/story/california-is-one-step-closer-to-americas-first-billionaire-wealth-tax-and-the-divide-between-red-and-blue-state-taxes-is-getting-deeper-18ef3232?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:56
+
+#### [Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 25%](https://www.marketwatch.com/story/bed-bath-beyond-is-seeing-new-life-as-rare-sales-growth-lifts-stock-more-than-30-3e1ee945?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:34
+
+#### [Higher inflation is on the way. The Fed needs to make this clear before it raises rates.](https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:20
+
+#### [It’s China’s duty-free retail mecca and a tropical oasis, to boot. For Beijing that’s no longer enough.](https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:00
 
 ---
 
