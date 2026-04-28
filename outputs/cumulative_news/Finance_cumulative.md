@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-28 07:33
+**最后更新时间**: 2026-04-28 10:17
+
+---
+
+## 🆕 最新更新 (2026-04-28 10:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoftBank shares dive, U.S. tech stocks under pressure on report of OpenAI missing goals](https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:40
+
+#### [A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.](https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:33
+
+#### [Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war](https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:27
+
+#### [Supermodel Jessica Stam lists $5 million Maui estate with ocean views, airy charm](https://www.marketwatch.com/story/supermodeljessica-stam-lists-5-million-maui-estate-with-ocean-views-airy-charm-9d32d3b0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:05
+
+#### [This chart shows why investors should fear for private equity more than private credit](https://www.marketwatch.com/story/this-chart-shows-why-investors-should-fear-for-private-equity-more-than-private-credit-4f24ea32?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:04
+
+#### [Former ‘Real Housewives’ star Yolanda Hadid relists Pennsylvania farm for $10.9 million](https://www.marketwatch.com/story/former-real-housewives-star-yolanda-hadid-relists-pennsylvania-farm-for-10-9-million-cdc7da18?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Barclays takes £228mn hit from collapse of UK mortgage lender MFS](https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee)
+**发布时间**: 2026-04-28 08:14
+
+#### [Foreign Office not consulted ahead of Mandelson appointment](https://www.ft.com/content/853b4ea4-0bae-4706-bc4a-3a3082ac30f6)
+**发布时间**: 2026-04-28 08:01
+
+#### [Oil price climbs above $110 for first time in three weeks](https://www.ft.com/content/0244cd6d-b0da-435c-9c84-7ff4f37ec9ec)
+**发布时间**: 2026-04-28 06:48
 
 ---
 

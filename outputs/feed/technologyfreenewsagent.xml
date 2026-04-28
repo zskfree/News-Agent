@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Apr 2026 07:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 07:34:36 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 10:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:18:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>最低100元，他们把「脸」卖给AI短剧公司</title>
-      <link>https://www.tmtpost.com/7970069.html</link>
-      <description>&lt;![CDATA[最低100元，他们把「脸」卖给AI短剧公司]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970069.html</guid>
+      <title>一场谷歌“75%代码由AI生成”引发的焦虑</title>
+      <link>https://www.tmtpost.com/7970697.html</link>
+      <description>&lt;![CDATA[一场谷歌“75%代码由AI生成”引发的焦虑]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970697.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明</title>
-      <link>https://www.tmtpost.com/7969878.html</link>
-      <description>&lt;![CDATA[4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7969878.html</guid>
+      <title>安克创新造芯，跨境一哥的具身智能豪赌｜出海参考</title>
+      <link>https://www.tmtpost.com/7969233.html</link>
+      <description>&lt;![CDATA[安克创新造芯，跨境一哥的具身智能豪赌｜出海参考]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969233.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海</title>
-      <link>https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境</title>
+      <link>https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Oracle：AI 算力豪赌，赔率够了吗？</title>
-      <link>https://www.tmtpost.com/7969725.html</link>
-      <description>&lt;![CDATA[Oracle：AI 算力豪赌，赔率够了吗？]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7969725.html</guid>
+      <title>Agent 的“记忆断片”困局，该怎么破？</title>
+      <link>https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 的“记忆断片”困局，该怎么破？]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平</title>
-      <link>https://www.tmtpost.com/7970206.html</link>
-      <description>&lt;![CDATA[瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970206.html</guid>
+      <title>Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB</title>
+      <link>https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB]]&gt;</description>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

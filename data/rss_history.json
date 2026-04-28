@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2a540ad9d5c2914d5c0dfbe52f22a72188abc70133e13ba976c3ca53a2f2a54b": {
-        "title": "手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局",
-        "link": "https://www.tmtpost.com/7933060.html",
-        "published_date": "Sun, 29 Mar 2026 09:47:00 GMT",
-        "first_seen": "2026-03-29T08:44:53.015696"
-      },
-      "9727dddb0ca1b6cc2c1733bb304d4c65ad8c48f92dbd66cc0f29e5a8c0bdc97f": {
-        "title": "腾讯的AI慢战略，能跑通吗？",
-        "link": "https://www.tmtpost.com/7933507.html",
-        "published_date": "Sun, 29 Mar 2026 10:50:00 GMT",
-        "first_seen": "2026-03-29T08:44:53.015706"
-      },
-      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
-        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
-        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-29T08:44:53.015709"
-      },
-      "54e33acece7de0725a534cc66ed73632883532e4af95f7b5056ee8f57c37fdac": {
-        "title": "Rust 的独特之处不只内存安全：来自自主机器人的启示",
-        "link": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 29 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-29T08:44:53.015711"
-      },
-      "bdd0126041469124254bf0cf3f67c4f04c97d3b7d8073058a28be65e2aa50121": {
-        "title": "从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估",
-        "link": "https://www.tmtpost.com/7933541.html",
-        "published_date": "Sun, 29 Mar 2026 14:08:00 GMT",
-        "first_seen": "2026-03-29T08:44:53.015712"
-      },
       "2dc65245b0face5b236f3cc2239fff063252e9f2e89fe791c9ae690fcad24fba": {
         "title": "当王兴说“进攻AI”时，美团在防守什么？",
         "link": "https://www.tmtpost.com/7933275.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7970206.html",
         "published_date": "Tue, 28 Apr 2026 14:36:00 GMT",
         "first_seen": "2026-04-28T07:34:36.929315"
+      },
+      "70a55a67d4bf7da93b105f0a0ff2f1a94c04b8636c496a72b98a4ee48fad208e": {
+        "title": "一场谷歌“75%代码由AI生成”引发的焦虑",
+        "link": "https://www.tmtpost.com/7970697.html",
+        "published_date": "Tue, 28 Apr 2026 17:54:00 GMT",
+        "first_seen": "2026-04-28T10:18:22.772393"
+      },
+      "7fef3320bc938c75b53305e9fcc78aac743db2040f8f639b5a52a2540cd57034": {
+        "title": "安克创新造芯，跨境一哥的具身智能豪赌｜出海参考",
+        "link": "https://www.tmtpost.com/7969233.html",
+        "published_date": "Tue, 28 Apr 2026 16:51:00 GMT",
+        "first_seen": "2026-04-28T10:18:22.772399"
+      },
+      "cc1eaff738f7409e415a690a99d9c5a0914f661ee9e16d9ed4d92875f657c20a": {
+        "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
+        "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-28T10:18:22.772402"
+      },
+      "f957c1c16f36a0b127a97e57ad460e4a56dd477885db201e2711b5818b827270": {
+        "title": "Agent 的“记忆断片”困局，该怎么破？",
+        "link": "https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 09:17:00 GMT",
+        "first_seen": "2026-04-28T10:18:22.772405"
+      },
+      "c6e0b58a82574019ba52450fc69266fe009c12e370fc7047ac4ac8bbf6b286dd": {
+        "title": "Dropbox 与 GitHub 合作，将单体库大小从 87GB 缩减至 20GB",
+        "link": "https://www.infoq.cn/article/fFEKJEaRx0FruUCPF0VG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-28T10:18:22.772407"
       }
     },
     "Finance": {
@@ -4929,6 +4929,36 @@
         "link": "https://www.ft.com/content/aabef226-0a42-4cde-9cc1-687e0f4a9d3a",
         "published_date": "Tue, 28 Apr 2026 00:27:00 GMT",
         "first_seen": "2026-04-28T07:33:39.148858"
+      },
+      "1fa0abaa0ad9bf7b31400bb75eb89e1be988d895a267c3db6b822e2c98b20bff": {
+        "title": "SoftBank shares dive, U.S. tech stocks under pressure on report of OpenAI missing goals",
+        "link": "https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:40:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.025174"
+      },
+      "44c7d5c455a37ae11316405adcf2da3d2045f0addd0dc573ada656f04f9e2dcb": {
+        "title": "A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.",
+        "link": "https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:33:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.025185"
+      },
+      "33555adc481960d1673fef4fc9f23d63450ccbfb5177d2693ea96b5c8f48367f": {
+        "title": "This chart shows why investors should fear for private equity more than private credit",
+        "link": "https://www.marketwatch.com/story/this-chart-shows-why-investors-should-fear-for-private-equity-more-than-private-credit-4f24ea32?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.025188"
+      },
+      "86adea5737a150db3083b047bc3821127987ef63073d446cba592879ef800c75": {
+        "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+        "link": "https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:27:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.025190"
+      },
+      "536491a906a44ee122104f8138ea78714a1151e4d6cc03703da399e1cf7e57de": {
+        "title": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS",
+        "link": "https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee",
+        "published_date": "Tue, 28 Apr 2026 08:14:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.025192"
       }
     },
     "Ai": {
@@ -6437,13 +6467,31 @@
         "link": "https://www.qbitai.com/2026/04/409896.html",
         "published_date": "Tue, 28 Apr 2026 06:15:00 GMT",
         "first_seen": "2026-04-28T07:34:01.002567"
+      },
+      "777ecb085bcd6f48f15a9a9f7a9034e03e084a07d9606a84fbf95809a2fa971c": {
+        "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
+        "link": "https://www.qbitai.com/2026/04/410317.html",
+        "published_date": "Tue, 28 Apr 2026 08:54:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.180022"
+      },
+      "f2808b6db693c0a4d8c3f8cb668b4c4d86d64e7c7eef4437b8435ddc3dc69676": {
+        "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
+        "link": "https://www.qbitai.com/2026/04/410314.html",
+        "published_date": "Tue, 28 Apr 2026 08:31:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.180030"
+      },
+      "54733223878722e8765981b6b1ec117f4bb8b4abb68929a1cae16044a7a128b8": {
+        "title": "2026-04-28日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-28/",
+        "published_date": "Tue, 28 Apr 2026 12:58:00 GMT",
+        "first_seen": "2026-04-28T10:17:56.180033"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-28T07:34:36.929317",
-    "Finance": "2026-04-28T07:33:39.148860",
-    "Ai": "2026-04-28T07:34:01.002570"
+    "Technology": "2026-04-28T10:18:22.772409",
+    "Finance": "2026-04-28T10:17:56.025194",
+    "Ai": "2026-04-28T10:17:56.180035"
   }
 }
