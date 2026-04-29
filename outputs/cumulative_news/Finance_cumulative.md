@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 10:08
+**最后更新时间**: 2026-04-29 23:58
+
+---
+
+## 🆕 最新更新 (2026-04-29 23:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Sandisk shares have soared over 3,000% in a year. Is a stock split next?](https://www.marketwatch.com/story/sandisk-shares-have-soared-over-3-000-in-a-year-is-a-stock-split-next-4607dc97?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:44
+
+#### [‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?](https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:25
+
+#### [Powell won’t leave the Fed, pushing back further against Trump](https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:13
+
+#### [Why Alphabet’s stock is the standout gainer on Big Tech’s monster earnings day](https://www.marketwatch.com/story/why-alphabets-stock-is-the-standout-gainer-on-big-techs-monster-earnings-day-bb49b193?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:04
+
+#### [‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?](https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:22
+
+#### [Is the Intel stock hype overdone? How to make sense of the latest big move.](https://www.marketwatch.com/story/is-the-intel-stock-hype-overdone-how-to-make-sense-of-the-latest-big-move-a88a6953?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:16
+
+#### [Lululemon has lost its cool, and is stuck with customers who  only follow ‘generic athletic brands,’ founder says](https://www.marketwatch.com/story/lululemon-has-lost-its-cool-and-is-stuck-with-customers-who-only-follow-generic-athletic-brands-founder-says-2e7caae4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:11
+
+#### [Ford’s profit jumps as carmaker powers through an EV slowdown](https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SoftBank plans to list new AI and robotics company in the US](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16)
+**发布时间**: 2026-04-29 23:28
+
+#### [Google, Meta and Microsoft boost AI spending forecasts](https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc)
+**发布时间**: 2026-04-29 23:20
+
+#### [Big Tech’s earnings get ever bigger, and ever less useful](https://www.ft.com/content/a4d5010e-3d69-4a68-a3d0-943aaa5af42a)
+**发布时间**: 2026-04-29 22:41
+
+#### [Powell vows to remain on Fed board as he warns over attacks by Trump](https://www.ft.com/content/61435876-6e33-478f-a8eb-62ec32eb5a2f)
+**发布时间**: 2026-04-29 22:28
+
+#### [Musk says he was ‘a fool’ to fund the launch of OpenAI](https://www.ft.com/content/4fac437f-a4cd-42ac-b1ae-f39957b7a42f)
+**发布时间**: 2026-04-29 21:59
+
+#### [Bill Ackman’s Pershing Square USA slides on Wall Street debut](https://www.ft.com/content/ca9692a5-383c-4eb3-b553-3969f4c69cfc)
+**发布时间**: 2026-04-29 21:48
+
+#### [Google told staff it is ‘proud’ of Pentagon AI contract after internal backlash](https://www.ft.com/content/e2f5f0a7-fa24-430f-b7f8-27b78041ea8a)
+**发布时间**: 2026-04-29 20:21
+
+#### [Oil tops $120 as Trump signals extended Hormuz stand-off](https://www.ft.com/content/243b9344-bab3-4129-bbec-825e97d661f4)
+**发布时间**: 2026-04-29 19:44
+
+#### [King Charles, America and the futility of growth](https://www.ft.com/content/f26275f6-b6f4-4f8b-9542-7aff9e93748b)
+**发布时间**: 2026-04-29 11:41
+
+#### [How OpenAI’s $500bn data centre venture Stargate has shifted shape](https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89)
+**发布时间**: 2026-04-29 10:00
+
+#### [Apple’s next chief John Ternus confronts break from China playbook](https://www.ft.com/content/aae8d62e-5720-4f6a-8f63-459e136551a1)
+**发布时间**: 2026-04-29 04:00
 
 ---
 

@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 10:08
+**最后更新时间**: 2026-04-29 23:58
+
+---
+
+## 🆕 最新更新 (2026-04-29 23:58)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列](https://www.tmtpost.com/7972453.html)
+**发布时间**: 2026-04-30 07:20
+
+#### [利欧股份抄底*ST创兴踩雷，业绩变脸牵出信披拷问与减持算计](https://www.tmtpost.com/7972281.html)
+**发布时间**: 2026-04-29 20:13
+
+#### [未来实拍电影还存在吗？AI给影视人的恐惧与自由](https://www.tmtpost.com/7971642.html)
+**发布时间**: 2026-04-29 18:37
+
+#### [量子计算掀起上市潮，黄仁勋的“野心”藏不住了](https://www.tmtpost.com/7971735.html)
+**发布时间**: 2026-04-29 18:36
+
+#### [哈啰不太顺风的十周年](https://www.tmtpost.com/7971751.html)
+**发布时间**: 2026-04-29 18:36
+
+#### [今天，王兴兴去王府井开店了？](https://www.tmtpost.com/7972019.html)
+**发布时间**: 2026-04-29 18:35
+
+#### [被斥为“骗子”，他却摘得诺奖、图奖、WDFT科学突破奖— 记AI教父辛顿](https://www.tmtpost.com/7971908.html)
+**发布时间**: 2026-04-29 18:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机](http://www.geekpark.net/news/363596)
+**发布时间**: 2026-04-29 19:09
+
+#### [比亚迪天神之眼 B 选装5月1日开始涨价；微信朋友圈悄然改版；麦当劳奶昔正式回归](http://www.geekpark.net/news/363496)
+**发布时间**: 2026-04-29 08:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”](https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 18:59
+
+#### [日均数百亿入库背后：从“人肉调度”到K8s弹性架构，度小满金融基于OceanBase重构入库架构实践](https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 18:58
+
+#### [百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台](https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 18:18
+
+#### [Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star](https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 18:15
 
 ---
 

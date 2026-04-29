@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d8e67791afe611563e4e102a17eb6708b317a4e10942ef7fc96090c8d0665597": {
-        "title": "回看2025，AI的系统工程时刻：重构智能的底座与边界",
-        "link": "https://www.tmtpost.com/7931577.html",
-        "published_date": "Mon, 30 Mar 2026 19:52:00 GMT",
-        "first_seen": "2026-03-30T23:39:40.919959"
-      },
-      "376317e1fe47158cf4f3a7d83d9f240c0e58be49ef62e90f3d6ef5f2d13cdf3c": {
-        "title": "跨越AI鸿沟：构建企业AI应用价值评估体系",
-        "link": "https://www.tmtpost.com/7934134.html",
-        "published_date": "Mon, 30 Mar 2026 22:14:00 GMT",
-        "first_seen": "2026-03-30T23:39:40.919971"
-      },
-      "15250ebc5af34e533561e927baa3ad977f415188cd77f3a3c17579d216ac2407": {
-        "title": "智能体安全实践：可控与可靠｜QCon 前瞻",
-        "link": "https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 30 Mar 2026 17:51:00 GMT",
-        "first_seen": "2026-03-30T23:39:40.919974"
-      },
-      "5f184f23b3cd44bdd0cc493e60932c49028ff41105f2981e5543f6679bfab422": {
-        "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
-        "link": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 30 Mar 2026 17:48:00 GMT",
-        "first_seen": "2026-03-30T23:39:40.919976"
-      },
-      "89eabd410fc50fc4835d857cd31d108e06a0c2eed37c9503aa9fde8197fdca9a": {
-        "title": "JavaScript 2025状态调查：生态趋于成熟，TypeScript巩固主导地位",
-        "link": "https://www.infoq.cn/article/aJzHcrkxqAmlX8osNlgG?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 30 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-30T23:39:40.919978"
-      },
       "afd125d439eaf6f1521abb2fa2132dd28790fd336fcc204cf67e854ad0965289": {
         "title": "微软\"叛逃\"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?",
         "link": "https://www.tmtpost.com/7936078.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7925084.html",
         "published_date": "Wed, 29 Apr 2026 10:08:00 GMT",
         "first_seen": "2026-04-29T10:08:20.668188"
+      },
+      "2e2fbd261c02ce2b0fc96dfe1fa7260391afb22b147280d17a80dc4599b32406": {
+        "title": "【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列",
+        "link": "https://www.tmtpost.com/7972453.html",
+        "published_date": "Thu, 30 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-29T23:59:00.825714"
+      },
+      "b818310849ba26938047225b896103d6d154b6d634977e66f511299d8a0a6eb2": {
+        "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+        "link": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 18:59:00 GMT",
+        "first_seen": "2026-04-29T23:59:00.825722"
+      },
+      "d379a523063e204a2f4b6d1f7c1b041795d9825931f1f24515255c6e4bb211fc": {
+        "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
+        "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 16:20:00 GMT",
+        "first_seen": "2026-04-29T23:59:00.825723"
+      },
+      "390859741c4455e2848aa5034cc79b49ba85b2aec87627a5cc4f43c98a6227dd": {
+        "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
+        "link": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 15:42:00 GMT",
+        "first_seen": "2026-04-29T23:59:00.825725"
+      },
+      "14c34204519ab01cef2985dfaeec462f40762cea7dd17f58c2d6f9c19dfa7deb": {
+        "title": "智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家",
+        "link": "https://www.tmtpost.com/7970809.html",
+        "published_date": "Wed, 29 Apr 2026 10:47:00 GMT",
+        "first_seen": "2026-04-29T23:59:00.825726"
       }
     },
     "Finance": {
-      "14450c6574594fb7a2cb26b7a8934c72f535b9414e94c827d99597dd514d182d": {
-        "title": "This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys",
-        "link": "https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 20:05:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.416525"
-      },
-      "72c17e817c4f83442f48ff1f9449a8fb45b8c04065bbec43dd62ae65bd2bbe97": {
-        "title": "A more than 50% rise in oil prices over the past month may be more than just a ‘short-lived shock’",
-        "link": "https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 19:28:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.416531"
-      },
-      "980f936bb3f7524e32aeea0bc638dbf788bcf6a5d7f084d551a3f78d869e971c": {
-        "title": "U.S. stocks are faring worse than during past geopolitical shocks — and there’s plenty of room for them to fall further",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-are-faring-worse-than-during-past-geopolitical-shocks-and-theres-plenty-of-room-for-them-to-fall-further-30a17285?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 20:59:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.416534"
-      },
-      "c8d0b70921fb91b3a6b0c87197ee53de1cce1bc29bf91e54ef6706ca50ed6f0f": {
-        "title": "Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout",
-        "link": "https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 20:38:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.416535"
-      },
-      "1ecf41f7a01e0bf4d1047eb54f60e353de851ec2769d541b342ee55fdb45c8c4": {
-        "title": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs",
-        "link": "https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 19:18:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.416537"
-      },
       "ca912d1fe8077fc3502ba2b7a0e302c78ee426edd0fa4953b0c8eb6a683d2018": {
         "title": "Foreign central banks sell US Treasuries in wake of Iran war",
         "link": "https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76",
@@ -4959,21 +4929,39 @@
         "link": "https://www.marketwatch.com/story/actor-patrick-dempsey-recalls-fond-memories-of-his-tiny-home-town-in-maine-404d26d7?mod=mw_rss_topstories",
         "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
         "first_seen": "2026-04-29T10:08:08.708541"
+      },
+      "1c6e7e9a2d8810b4fdc9beaede24f783d2cf28cc39d5c3141af75eee5859fca1": {
+        "title": "Powell won’t leave the Fed, pushing back further against Trump",
+        "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Apr 2026 23:13:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.535053"
+      },
+      "3e642347f47e861dc66540b77a8b84562bf6fc230d4ad50a986000c183faa750": {
+        "title": "SoftBank plans to list new AI and robotics company in the US",
+        "link": "https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16",
+        "published_date": "Wed, 29 Apr 2026 23:28:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.535065"
+      },
+      "a68c4169c3417f07ab16af8fb5db8e07cf90539a2875a69de4779790b66d0886": {
+        "title": "Google, Meta and Microsoft boost AI spending forecasts",
+        "link": "https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc",
+        "published_date": "Wed, 29 Apr 2026 23:20:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.535067"
+      },
+      "6c058930e597402f27cff7b66be0c2b0cdd335fdcf9804f60e37f9ba58f53e8a": {
+        "title": "Oil tops $120 as Trump signals extended Hormuz stand-off",
+        "link": "https://www.ft.com/content/243b9344-bab3-4129-bbec-825e97d661f4",
+        "published_date": "Wed, 29 Apr 2026 19:44:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.535069"
+      },
+      "f6da382412537cec9ff3b7a56a6147981179a8487757dc05658339dea4ff7e40": {
+        "title": "Bill Ackman’s Pershing Square USA slides on Wall Street debut",
+        "link": "https://www.ft.com/content/ca9692a5-383c-4eb3-b553-3969f4c69cfc",
+        "published_date": "Wed, 29 Apr 2026 21:48:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.535072"
       }
     },
     "Ai": {
-      "6d150d50e08a42a9741a60d7650866b4de88ea8251ef788f6075784276d6893c": {
-        "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
-        "link": "https://www.qbitai.com/2026/03/393460.html",
-        "published_date": "Mon, 30 Mar 2026 14:21:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.562833"
-      },
-      "79031fb8c823ff3febb2f0ef6ad8f5cae480c1396fdaddacb6806730e7370d18": {
-        "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
-        "link": "https://www.qbitai.com/2026/03/393433.html",
-        "published_date": "Mon, 30 Mar 2026 14:15:00 GMT",
-        "first_seen": "2026-03-30T23:39:52.562841"
-      },
       "211d6dc94d378e0a83646d0fbf5e7305d38f51ca61ec8d7501b913b31a34397c": {
         "title": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
         "link": "https://www.qbitai.com/2026/03/393645.html",
@@ -6485,13 +6473,19 @@
         "link": "https://www.qbitai.com/2026/04/411186.html",
         "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
         "first_seen": "2026-04-29T10:08:08.857243"
+      },
+      "533cbbe35f4f9ac039a985d82bec88e7fbe924bbdefad2f630d9d941586b9749": {
+        "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+        "link": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+        "published_date": "Wed, 29 Apr 2026 21:07:00 GMT",
+        "first_seen": "2026-04-29T23:58:31.671119"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-29T10:08:20.668191",
-    "Finance": "2026-04-29T10:08:08.708543",
-    "Ai": "2026-04-29T10:08:08.857245"
+    "Technology": "2026-04-29T23:59:00.825728",
+    "Finance": "2026-04-29T23:58:31.535074",
+    "Ai": "2026-04-29T23:58:31.671127"
   }
 }
