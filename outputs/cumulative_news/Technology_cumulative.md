@@ -1,7 +1,126 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 07:26
+**最后更新时间**: 2026-04-29 10:08
+
+---
+
+## 🆕 最新更新 (2026-04-29 10:08)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [泡泡玛特城市乐园升级开放：“盈利不是乐园现阶段最重要的事”](https://www.tmtpost.com/7972007.html)
+**发布时间**: 2026-04-29 17:37
+
+#### [开个脑洞：如果DeepSeek和Kimi们合并](https://www.tmtpost.com/7971780.html)
+**发布时间**: 2026-04-29 17:34
+
+#### [智能电动时代，谁“杀死”了汽车的利润？](https://www.tmtpost.com/7971782.html)
+**发布时间**: 2026-04-29 17:34
+
+#### [业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察](https://www.tmtpost.com/7971936.html)
+**发布时间**: 2026-04-29 17:21
+
+#### [拿下“谷歌系”公司6亿美元大单：这家药企成功IPO，市值超120亿](https://www.tmtpost.com/7971509.html)
+**发布时间**: 2026-04-29 17:11
+
+#### [无糖狂飙、AI 节流，“肥宅快乐水” 赢麻了！](https://www.tmtpost.com/7971571.html)
+**发布时间**: 2026-04-29 17:11
+
+#### [大模型密集迭代，你应该在2026年删掉90%的AI插件](https://www.tmtpost.com/7971719.html)
+**发布时间**: 2026-04-29 17:11
+
+#### [使用AI的创业者，变相成了智谱、Kimi“打工人”？](https://www.tmtpost.com/7971727.html)
+**发布时间**: 2026-04-29 17:11
+
+#### [马斯克当庭控诉奥特曼：偷走一家慈善机构是不对的](https://www.tmtpost.com/7971740.html)
+**发布时间**: 2026-04-29 16:28
+
+#### [智元，想跟宇树争第一](https://www.tmtpost.com/7971409.html)
+**发布时间**: 2026-04-29 16:28
+
+#### [颅脑CT赛道上，跑出了一个能收费的智能体](https://www.tmtpost.com/7971862.html)
+**发布时间**: 2026-04-29 16:28
+
+#### [上市公司TOP5济安评估｜上市公司观察](https://www.tmtpost.com/7971818.html)
+**发布时间**: 2026-04-29 14:04
+
+#### [江波龙2026年一季报点评｜公司点评](https://www.tmtpost.com/7971810.html)
+**发布时间**: 2026-04-29 14:03
+
+#### [亨通光电2026年一季报点评｜公司点评](https://www.tmtpost.com/7971807.html)
+**发布时间**: 2026-04-29 14:03
+
+#### [价值判断：跌停板的投资机会和风险提示（4月28日）｜证券市场观察](https://www.tmtpost.com/7971804.html)
+**发布时间**: 2026-04-29 14:02
+
+#### [价值判断：涨停板的投资机会和风险提示（4月28日）｜证券市场观察](https://www.tmtpost.com/7971799.html)
+**发布时间**: 2026-04-29 14:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [哪些客户需要拒, 敢让龙虾决定吗?](https://www.infoq.cn/video/mUm29FAa6NSm2xNUGUjc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 17:00
+
+#### [从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025](https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:56
+
+#### [探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025](https://www.infoq.cn/video/sQoiGqlgSeJNzDlfk5Zq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:47
+
+#### [腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:47
+
+#### [基于 Streamlit 为 CSV 数据构建分析智能体 ｜ BUILD 2025](https://www.infoq.cn/video/TGuw62wOrDdxG9UcjvDM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:43
+
+#### [AI 智能体：告别文档缺漏 ｜ BUILD 2025](https://www.infoq.cn/video/xzP1usT6PvgoaNt7T0Bo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:29
+
+#### [构建 AI 驱动的数据管道：深度探讨 Snowflake Openflow 与非结构化数据 | BUILD 2025](https://www.infoq.cn/video/Lm5IqHMcXAP2RoQNcOri?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:20
+
+#### [云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作](https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:20
+
+#### [不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账](https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:17
+
+#### [Snowpark 上手实战 ｜ BUILD 2025](https://www.infoq.cn/video/z0MatPdw9iXUmyVRFMCs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:14
+
+#### [ClickHouse + Langfuse，构建 Agent 可观测基石](https://www.infoq.cn/article/YKuY98IoX1jpjfUBLPdd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:12
+
+#### [腾讯云分布式缓存数据库：Cluster Proxy 共享连接架构深度解析 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/lvANcA1AH0xxG68XBMDF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:03
+
+#### [AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？](https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 16:00
+
+#### [英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了](https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 15:46
+
+#### [腾讯云分布式缓存数据库：从 Redis 到 Valkey  - 开源社区如何快速创新 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 15:44
+
+#### [印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来](https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 15:42
+
+#### [从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！](https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 15:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [HappyHorse 1.0在千问首发开启灰测免费体验，重构 AI 视频赛道](http://www.geekpark.net/news/363406)
+**发布时间**: 2026-04-29 16:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉](https://sspai.com/post/109062)
+**发布时间**: 2026-04-29 15:00
+
+#### [先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
+**发布时间**: 2026-04-29 14:41
 
 ---
 

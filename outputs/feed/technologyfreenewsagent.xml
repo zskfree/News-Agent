@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Apr 2026 07:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 07:27:49 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 10:08:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:08:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了</title>
-      <link>https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察</title>
+      <link>https://www.tmtpost.com/7971936.html</link>
+      <description>&lt;![CDATA[业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7971936.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百度职级合并背后：一场用组织效率换技术落地的变革</title>
-      <link>https://www.tmtpost.com/7970999.html</link>
-      <description>&lt;![CDATA[百度职级合并背后：一场用组织效率换技术落地的变革]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 13:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970999.html</guid>
+      <title>不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账</title>
+      <link>https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产车规芯片，走入深水区</title>
-      <link>https://www.tmtpost.com/7970900.html</link>
-      <description>&lt;![CDATA[国产车规芯片，走入深水区]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970900.html</guid>
+      <title>英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了</title>
+      <link>https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一个以知识沉淀为核心的产品，在Agent时代真的有不可替代的价值吗？</title>
-      <link>https://www.tmtpost.com/7971686.html</link>
-      <description>&lt;![CDATA[一个以知识沉淀为核心的产品，在Agent时代真的有不可替代的价值吗？]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7971686.html</guid>
+      <title>腾讯云分布式缓存数据库：从 Redis 到 Valkey  - 开源社区如何快速创新 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云分布式缓存数据库：从 Redis 到 Valkey  - 开源社区如何快速创新 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一个标志性信号：全球最大锂矿“系统性”减产11%</title>
-      <link>https://www.tmtpost.com/7970960.html</link>
-      <description>&lt;![CDATA[一个标志性信号：全球最大锂矿“系统性”减产11%]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970960.html</guid>
+      <title>群核科技VP再创业：首创3DGS相机品类，峰瑞资本领投｜融资速递</title>
+      <link>https://www.tmtpost.com/7925084.html</link>
+      <description>&lt;![CDATA[群核科技VP再创业：首创3DGS相机品类，峰瑞资本领投｜融资速递]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7925084.html</guid>
       <category>Technology</category>
     </item>
   </channel>

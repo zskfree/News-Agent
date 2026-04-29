@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 07:26
+**最后更新时间**: 2026-04-29 10:08
+
+---
+
+## 🆕 最新更新 (2026-04-29 10:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [$200 oil – and two other scenarios – could tip the world into a recession, says this global bank](https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:48
+
+#### [The key reasons why one bank now says U.S. stocks will outperform European equities](https://www.marketwatch.com/story/the-key-reasons-why-one-bank-now-says-u-s-stocks-will-outperform-european-equities-4ad7af88?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:47
+
+#### [‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?](https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:10
+
+#### [Actor Patrick Dempsey recalls fond memories of his tiny home town in Maine](https://www.marketwatch.com/story/actor-patrick-dempsey-recalls-fond-memories-of-his-tiny-home-town-in-maine-404d26d7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Emerging market stocks hit record high as Asian chipmakers surge](https://www.ft.com/content/5a003a35-a48b-4e46-a2d3-b99ae41d0e46)
+**发布时间**: 2026-04-29 07:26
+
+#### [Memory chipmakers hope AI frenzy signals end to boom and bust](https://www.ft.com/content/620c3442-ee5a-41c6-b6db-9457e1adcd7e)
+**发布时间**: 2026-04-29 04:00
+
+#### [Ken Griffin suggests retail investors do not understand private credit](https://www.ft.com/content/130a68e2-d8cc-449b-a32a-a0b8e2471e89)
+**发布时间**: 2026-04-29 04:00
 
 ---
 

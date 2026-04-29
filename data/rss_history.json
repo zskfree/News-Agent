@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b7281dff0e790bb4d67e990fd588ba132f6a8ff91f87cc0c006162e0a4727b54": {
-        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "link": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 30 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.580991"
-      },
-      "5bf55b9635f04804a99225c15cd5a1fb05e5b4ef08d38e4acc59ad9d6f675815": {
-        "title": "UniPat AI发布Echo预测智能系统：EchoZ-1.0 登顶全球通用预测智能榜单",
-        "link": "https://www.tmtpost.com/7934267.html",
-        "published_date": "Mon, 30 Mar 2026 12:56:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.580999"
-      },
-      "f449ddec6cfab96588f532400b658243e7ecf3ac7452706bf8144be06fe87f2d": {
-        "title": "这家中国公司要用“碳纤维”硬刚SpaceX",
-        "link": "https://www.tmtpost.com/7934409.html",
-        "published_date": "Mon, 30 Mar 2026 15:59:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.581002"
-      },
-      "2eaec43f4fd07a3ba699c7779c83f65ca2093eaaa26559837022bda1ca799892": {
-        "title": "拼多多150亿美元下注新拼姆：中国品牌大航海背后的供应链革命",
-        "link": "https://www.tmtpost.com/7933673.html",
-        "published_date": "Mon, 30 Mar 2026 12:37:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.581004"
-      },
-      "dd3902aeac221ddf3969a1da773a87063565ddfa3dfc9263ddccfc96c0dbc890": {
-        "title": "展望美团2026：大战终章亦是AI序章",
-        "link": "https://www.tmtpost.com/7934348.html",
-        "published_date": "Mon, 30 Mar 2026 15:59:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.581006"
-      },
       "d8e67791afe611563e4e102a17eb6708b317a4e10942ef7fc96090c8d0665597": {
         "title": "回看2025，AI的系统工程时刻：重构智能的底座与边界",
         "link": "https://www.tmtpost.com/7931577.html",
@@ -2671,33 +2641,39 @@
         "link": "https://www.tmtpost.com/7970960.html",
         "published_date": "Wed, 29 Apr 2026 10:16:00 GMT",
         "first_seen": "2026-04-29T07:27:49.673753"
+      },
+      "ca9434e5a30960b0520a17e3f126abf0274ca8d830bcb6f52e3feb23653b5763": {
+        "title": "业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察",
+        "link": "https://www.tmtpost.com/7971936.html",
+        "published_date": "Wed, 29 Apr 2026 17:21:00 GMT",
+        "first_seen": "2026-04-29T10:08:20.668175"
+      },
+      "e90cfb9370bf851b0f2523b52b2989572bdf9629ad8df2ec5e5a4dde83bfc523": {
+        "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
+        "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 16:17:00 GMT",
+        "first_seen": "2026-04-29T10:08:20.668182"
+      },
+      "43f1e24113f125b069fc32cfb6cb1a1eb9c380e92e33c9cfaaf8a8295380159b": {
+        "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
+        "link": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 15:46:00 GMT",
+        "first_seen": "2026-04-29T10:08:20.668184"
+      },
+      "33a05ff1020217b39fe2a597ca408570a6d40562f4b8c7f72bfee9a60ceb9225": {
+        "title": "腾讯云分布式缓存数据库：从 Redis 到 Valkey  - 开源社区如何快速创新 | 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Apr 2026 15:44:00 GMT",
+        "first_seen": "2026-04-29T10:08:20.668186"
+      },
+      "73c1ef50a40b558cc9f039e7bba977c29c3c6e96e9a7b402d3e2e9c6d30c07e1": {
+        "title": "群核科技VP再创业：首创3DGS相机品类，峰瑞资本领投｜融资速递",
+        "link": "https://www.tmtpost.com/7925084.html",
+        "published_date": "Wed, 29 Apr 2026 10:08:00 GMT",
+        "first_seen": "2026-04-29T10:08:20.668188"
       }
     },
     "Finance": {
-      "9a6136229087b2781fcb60ec51fd5b14a7637e3aed5a8896d10987103ecbf825": {
-        "title": "‘Crazy’ damage: ‘Aquaman’ star Jason Momoa fled his Hawaii home after historic flooding devastates area",
-        "link": "https://www.marketwatch.com/story/crazy-damage-aquaman-star-jason-momoa-fled-his-hawaii-home-after-historic-flooding-devastates-area-1847d0d2?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 09:04:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.617944"
-      },
-      "66c69eecd0cab2fd67c3e96ab811794bd832d96a4009ca25061443206b985b3b": {
-        "title": "Kylie Jenner lists another mansion: The $20 million Hidden Hills starter home she bought when she was 19",
-        "link": "https://www.marketwatch.com/story/kylie-jenner-lists-another-mansion-the-20-million-hidden-hills-starter-home-she-bought-when-she-was-19-4e1d7754?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 09:01:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.617951"
-      },
-      "dfb02f9f77e647b69294a6f256b82a32f6e54db3f53ee7b88b1dc567ff81d26e": {
-        "title": "The man who was once the world’s youngest billionaire now says he’s solved the stock market. Here’s his astonishingly simple portfolio.",
-        "link": "https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories",
-        "published_date": "Mon, 30 Mar 2026 07:38:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.617953"
-      },
-      "3cdbfd7e92ca4621d70640ba67e363f883a7b630657748c1ee1986a17d080bba": {
-        "title": "Mistral raises $830mn to build Nvidia-powered AI centres in Europe",
-        "link": "https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa",
-        "published_date": "Mon, 30 Mar 2026 08:06:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.617955"
-      },
       "14450c6574594fb7a2cb26b7a8934c72f535b9414e94c827d99597dd514d182d": {
         "title": "This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys",
         "link": "https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories",
@@ -4959,21 +4935,33 @@
         "link": "https://www.ft.com/content/1ff9b5f3-b4f0-4915-89d5-1530a6ac9c91",
         "published_date": "Wed, 29 Apr 2026 06:44:00 GMT",
         "first_seen": "2026-04-29T07:26:59.025929"
+      },
+      "bee4d419c0bb399e5d90269306f50ab21975c33849c2590cc5b7c6ea772b16b2": {
+        "title": "$200 oil – and two other scenarios – could tip the world into a recession, says this global bank",
+        "link": "https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Apr 2026 09:48:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.708529"
+      },
+      "1cbf6e88d91ef0239f3f5caa744aa2869c2cf7e143c2612ec585456ce1c142da": {
+        "title": "The key reasons why one bank now says U.S. stocks will outperform European equities",
+        "link": "https://www.marketwatch.com/story/the-key-reasons-why-one-bank-now-says-u-s-stocks-will-outperform-european-equities-4ad7af88?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.708536"
+      },
+      "443be8ce21ca66a69f4bd77769b7c030327a870bfbb467e60de9ff257f275848": {
+        "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
+        "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Apr 2026 09:10:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.708539"
+      },
+      "7158de7c51f04da904fa36a3012f45340adf04611d42c7cd5010b23286a5830c": {
+        "title": "Actor Patrick Dempsey recalls fond memories of his tiny home town in Maine",
+        "link": "https://www.marketwatch.com/story/actor-patrick-dempsey-recalls-fond-memories-of-his-tiny-home-town-in-maine-404d26d7?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.708541"
       }
     },
     "Ai": {
-      "366a2d5713ea78e16ac77051e06985504cbd3a5a3f4c967a73db259d90973e62": {
-        "title": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-        "link": "https://www.qbitai.com/2026/03/393344.html",
-        "published_date": "Mon, 30 Mar 2026 07:24:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.761649"
-      },
-      "02cda02796f415f32fbe8543fe30d909ae8b7c84b59aaff4a11050495c1ba1ef": {
-        "title": "2026-03-30日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-30/",
-        "published_date": "Mon, 30 Mar 2026 09:47:00 GMT",
-        "first_seen": "2026-03-30T09:16:08.761656"
-      },
       "6d150d50e08a42a9741a60d7650866b4de88ea8251ef788f6075784276d6893c": {
         "title": "阿里发布Qwen3.5-Omni，多模态能力超越Gemini-3.1 Pro",
         "link": "https://www.qbitai.com/2026/03/393460.html",
@@ -6479,13 +6467,31 @@
         "link": "https://www.qbitai.com/2026/04/410772.html",
         "published_date": "Wed, 29 Apr 2026 04:10:00 GMT",
         "first_seen": "2026-04-29T07:27:13.072901"
+      },
+      "93e1f7031be3edf64ff579c2ab5fecd4416dd72c65101212a4170c2fe844af58": {
+        "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+        "link": "https://www.qbitai.com/2026/04/411205.html",
+        "published_date": "Wed, 29 Apr 2026 09:08:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.857234"
+      },
+      "1e874edf7cb4edbe0857c2fff757babfd1986bc26c24492bd8d18f052c68d811": {
+        "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+        "link": "https://www.qbitai.com/2026/04/411184.html",
+        "published_date": "Wed, 29 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.857241"
+      },
+      "c4701b155ae32dd8201a48610902098e7cf4d8ac17a3d8587fbb9efd45e50f42": {
+        "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+        "link": "https://www.qbitai.com/2026/04/411186.html",
+        "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-29T10:08:08.857243"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-29T07:27:49.673756",
-    "Finance": "2026-04-29T07:26:59.025931",
-    "Ai": "2026-04-29T07:27:13.072904"
+    "Technology": "2026-04-29T10:08:20.668191",
+    "Finance": "2026-04-29T10:08:08.708543",
+    "Ai": "2026-04-29T10:08:08.857245"
   }
 }
