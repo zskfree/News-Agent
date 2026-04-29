@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-28 23:57
+**最后更新时间**: 2026-04-29 07:26
+
+---
+
+## 🆕 最新更新 (2026-04-29 07:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Total profits jump 29% as war drives oil price surge and trading gains](https://www.ft.com/content/86a02358-3050-4d3d-aaad-ebce1402cba2)
+**发布时间**: 2026-04-29 07:12
+
+#### [Lloyds profits soar 33% as higher interest rates boost income](https://www.ft.com/content/1ff9b5f3-b4f0-4915-89d5-1530a6ac9c91)
+**发布时间**: 2026-04-29 06:44
+
+#### [UBS trading gains fuel 80% profit surge](https://www.ft.com/content/c6f04c41-d71c-479f-9def-f24e6ee3b14f)
+**发布时间**: 2026-04-29 05:59
+
+#### [How Citi’s $52mn hire was forced out of JPMorgan over his behaviour](https://www.ft.com/content/e45c2c21-babe-4fd9-85f1-2b2b3aa38872)
+**发布时间**: 2026-04-29 04:00
+
+#### [The great commodities disruption](https://www.ft.com/content/88cec47c-ea6d-47db-97f8-0431aae7427d)
+**发布时间**: 2026-04-29 04:00
+
+#### [Can Opec survive the UAE’s exit?](https://www.ft.com/content/cf427766-a13e-4eb2-ab70-d9ee7ea5bed1)
+**发布时间**: 2026-04-29 04:00
+
+#### [Ken Griffin suggests wealthy individuals do not understand private credit risks](https://www.ft.com/content/130a68e2-d8cc-449b-a32a-a0b8e2471e89)
+**发布时间**: 2026-04-29 04:00
+
+#### [King Charles subtly rebukes Trump despite show of unity](https://www.ft.com/content/f9299dd4-4b9a-4a4a-8e11-675bdab4d773)
+**发布时间**: 2026-04-29 03:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Two investment strategies for people who are afraid of the stock market](https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 02:37
+
+#### [Can Meta make money on AI beyond consumer ads? That’s a big question going into earnings.](https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 00:59
+
+#### [U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production](https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 00:32
 
 ---
 

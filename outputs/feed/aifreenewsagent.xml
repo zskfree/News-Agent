@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Apr 2026 23:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 23:57:41 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 07:24:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:27:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告</title>
-      <link>https://www.qbitai.com/2026/04/410506.html</link>
-      <description>&lt;![CDATA[消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410506.html</guid>
+      <title>2026-04-29日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-29/</link>
+      <description>&lt;![CDATA[2026-04-29日刊]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-29/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了</title>
-      <link>https://www.qbitai.com/2026/04/410463.html</link>
-      <description>&lt;![CDATA[我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410463.html</guid>
+      <title>不卷参数卷架构，这个开源模型把图像理解和生成统一了</title>
+      <link>https://www.qbitai.com/2026/04/410937.html</link>
+      <description>&lt;![CDATA[不卷参数卷架构，这个开源模型把图像理解和生成统一了]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410937.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝正式发布“支付宝AI收”，个人开发者0费率使用</title>
-      <link>https://www.qbitai.com/2026/04/410450.html</link>
-      <description>&lt;![CDATA[支付宝正式发布“支付宝AI收”，个人开发者0费率使用]]&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410450.html</guid>
+      <title>10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道</title>
+      <link>https://www.qbitai.com/2026/04/410791.html</link>
+      <description>&lt;![CDATA[10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 04:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410791.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」</title>
+      <link>https://www.qbitai.com/2026/04/410738.html</link>
+      <description>&lt;![CDATA[百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 04:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410738.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台</title>
+      <link>https://www.qbitai.com/2026/04/410772.html</link>
+      <description>&lt;![CDATA[刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 04:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/410772.html</guid>
       <category>Ai</category>
     </item>
   </channel>
