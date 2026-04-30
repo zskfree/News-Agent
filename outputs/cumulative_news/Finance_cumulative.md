@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-30 07:31
+**最后更新时间**: 2026-04-30 10:10
+
+---
+
+## 🆕 最新更新 (2026-04-30 10:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices climb to four-year high above $120 after report that Trump is considering further military action in Iran](https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 09:21
+
+#### [‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?](https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 09:15
+
+#### [Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting](https://www.marketwatch.com/story/why-morgan-stanley-shifted-its-call-on-federal-reserve-rate-cuts-after-the-fomc-meeting-da657bf0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 09:10
+
+#### [Blake Lively’s lawsuit against Justin Baldoni claims she lost $40 million over ‘mean girl’ image](https://www.marketwatch.com/story/blake-livelys-lawsuit-against-justin-baldoni-claims-she-lost-40-million-over-mean-girl-image-0f892cee?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 09:01
+
+#### [I’m 59. My wife and I bought a second home for $484,000 at 6.2% interest rate. Will this be a drain on our retirement?](https://www.marketwatch.com/story/im-59-my-wife-and-i-bought-a-second-home-for-484-000-at-6-2-interest-will-this-be-a-drain-on-our-retirement-02627377?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 08:41
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can’t cook, won’t cook? Start by feeding yourself — Nigella Lawson](https://www.ft.com/content/93114bcc-a37a-49b4-8d5e-be38707dfca9)
+**发布时间**: 2026-04-30 09:02
+
+#### [The energy crisis is no excuse for bad subsidies](https://www.ft.com/content/00164483-f0ad-42d6-9efc-f6500947d3f0)
+**发布时间**: 2026-04-30 08:50
+
+#### [Eurozone inflation rises to 3% in April amid Middle East energy shock](https://www.ft.com/content/281962eb-d32d-4733-ad25-c4c026bcbf6e)
+**发布时间**: 2026-04-30 07:10
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 07:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 07:31:49 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 10:10:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:11:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞</title>
-      <link>https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>韩国股市突破6000万亿韩元，芯片股撑起半壁江山？</title>
+      <link>https://www.tmtpost.com/7971047.html</link>
+      <description>&lt;![CDATA[韩国股市突破6000万亿韩元，芯片股撑起半壁江山？]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7971047.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜</title>
-      <link>https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报</title>
+      <link>https://www.tmtpost.com/7973738.html</link>
+      <description>&lt;![CDATA[欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 16:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7973738.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一张68亿采购清单，具身智能第一次被写进“现实账本”</title>
-      <link>https://www.tmtpost.com/7973422.html</link>
-      <description>&lt;![CDATA[一张68亿采购清单，具身智能第一次被写进“现实账本”]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7973422.html</guid>
+      <title>从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台</title>
+      <link>https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦</title>
-      <link>https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式</title>
+      <link>https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Slack 长时运行多智能体系统的上下文管理方案</title>
-      <link>https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Slack 长时运行多智能体系统的上下文管理方案]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>赛力斯Q1财报：营收增长34.46%、扣非净利润大降73.87%，钱去哪了？</title>
+      <link>https://www.tmtpost.com/7972560.html</link>
+      <description>&lt;![CDATA[赛力斯Q1财报：营收增长34.46%、扣非净利润大降73.87%，钱去哪了？]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7972560.html</guid>
       <category>Technology</category>
     </item>
   </channel>

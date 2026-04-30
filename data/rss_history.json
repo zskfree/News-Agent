@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b9c2f82a01a68570510dae0e7ff66e8ee09adff2239920cc063eb6ed720402c1": {
-        "title": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
-        "link": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 31 Mar 2026 17:01:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.134671"
-      },
-      "e5c066ea8a6a6f6f81982df220586672416eca883d71093f15ba6415c5a2e135": {
-        "title": "中科曙光发了个“标配版”超节点，AI推理算力的未来形态？",
-        "link": "https://www.tmtpost.com/7936210.html",
-        "published_date": "Tue, 31 Mar 2026 16:24:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.134679"
-      },
-      "afd581cf10af51555573f8eb42f9c6c42995278305d257225da5c575d013cc63": {
-        "title": "AI 云下一程：从出海伙伴到全球智能基石",
-        "link": "https://www.tmtpost.com/7935695.html",
-        "published_date": "Tue, 31 Mar 2026 12:16:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.134682"
-      },
-      "01c9392d7243e839edac83fc953a1b7167c70f7c640665239a06efd464cc29ae": {
-        "title": "商汤跨越AI周期实录：定义AI公司的盈利路径",
-        "link": "https://www.tmtpost.com/7934820.html",
-        "published_date": "Tue, 31 Mar 2026 12:03:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.134684"
-      },
-      "b3c157a44c5939fcebf923112e3190e2247bde9ae3f0a620f9491dcdd69b8399": {
-        "title": "智能编码扎根生产级场景，阿里云系统化解题",
-        "link": "https://www.tmtpost.com/7935669.html",
-        "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.134686"
-      },
       "b63a5cf91242af266ff047261ee193c4c871bbdba2290be64ea444640464ffb8": {
         "title": "【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例",
         "link": "https://www.tmtpost.com/7936967.html",
@@ -2671,33 +2641,39 @@
         "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 30 Apr 2026 13:00:00 GMT",
         "first_seen": "2026-04-30T07:31:49.315213"
+      },
+      "1d08a8ac5d2d5fcf88ca6c59079cc2331f19aaeaeffce5217b458586908bf359": {
+        "title": "韩国股市突破6000万亿韩元，芯片股撑起半壁江山？",
+        "link": "https://www.tmtpost.com/7971047.html",
+        "published_date": "Thu, 30 Apr 2026 17:43:00 GMT",
+        "first_seen": "2026-04-30T10:11:09.717229"
+      },
+      "8d5fef667e37bbc73053ab5b8c72a2b52eebc3bcff854b3d94605051ad283e3d": {
+        "title": "欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报",
+        "link": "https://www.tmtpost.com/7973738.html",
+        "published_date": "Thu, 30 Apr 2026 16:54:00 GMT",
+        "first_seen": "2026-04-30T10:11:09.717239"
+      },
+      "843211fefce9dd622391b2797b35bcd5aa572175316ca45045c5a2fd231d56ab": {
+        "title": "从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台",
+        "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 11:36:00 GMT",
+        "first_seen": "2026-04-30T10:11:09.717241"
+      },
+      "f3e9858c9ddc3e571be005e0e611886aa807cd0b37c41ecbc629661ad0f0ee58": {
+        "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+        "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-30T10:11:09.717243"
+      },
+      "a6fe804c0d621e0c3376970a197b1f55b26b7172fb32700e995dd36a733b3527": {
+        "title": "赛力斯Q1财报：营收增长34.46%、扣非净利润大降73.87%，钱去哪了？",
+        "link": "https://www.tmtpost.com/7972560.html",
+        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
+        "first_seen": "2026-04-30T10:11:09.717245"
       }
     },
     "Finance": {
-      "f9530d390b0b04deda580636a1be1c06ee24d5c6fd2b3119b5d0b15ee551418a": {
-        "title": "Your chance to spend the night in the $21 million ‘Hannah Montana’ Malibu beach house—or buy it",
-        "link": "https://www.marketwatch.com/story/your-chance-to-spend-the-night-in-the-21-million-hannah-montana-malibu-beach-houseor-buy-it-12d9fdd8?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 09:03:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.171887"
-      },
-      "ee6af9859eff2c268086722a32f649d07e9d75cb35f49e7ec92933a3d6fefa12": {
-        "title": "World’s best-performing stock market of 2026 is the worst-performing in March",
-        "link": "https://www.marketwatch.com/story/worlds-best-performing-stock-market-of-2026-is-the-worst-performing-in-march-be36f691?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 09:03:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.171892"
-      },
-      "26ba0cbb6b92a355f3ee57003cd2fa40e9a6184391a550a57ef20223d3318025": {
-        "title": "Drew Barrymore is selling her historic Westchester estate for $5 million",
-        "link": "https://www.marketwatch.com/story/drew-barrymore-is-selling-her-historic-westchester-estate-for-5-million-6daaeb52?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 08:58:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.171895"
-      },
-      "9aa6fcbb4e90e45bf53f95ba91b8217a161249bd027b9c002a206cc4e5054b61": {
-        "title": "Unilever nears deal to merge food unit with McCormick to create $60bn group",
-        "link": "https://www.ft.com/content/303f48d6-e6ea-470c-9688-730fb6a3f216",
-        "published_date": "Tue, 31 Mar 2026 06:50:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.171896"
-      },
       "9ae00302e027d1532802983e5331335f21f31ffa4a6b60f6748c2afafbef9b5f": {
         "title": "Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year",
         "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
@@ -4959,21 +4935,39 @@
         "link": "https://www.ft.com/content/487644ca-a333-476a-be8b-e1f4d95ddb82",
         "published_date": "Thu, 30 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-30T07:31:29.558451"
+      },
+      "652428b4f0958abe7c61fe8b7727aefdcfe6fc9f71de8ba5575028009af979d8": {
+        "title": "‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?",
+        "link": "https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Apr 2026 09:15:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.102524"
+      },
+      "7d8716f3bc0a59e7f220c7e5a3691c137bb8bd8c49e2af5e9146ea0dde104952": {
+        "title": "Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting",
+        "link": "https://www.marketwatch.com/story/why-morgan-stanley-shifted-its-call-on-federal-reserve-rate-cuts-after-the-fomc-meeting-da657bf0?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Apr 2026 09:10:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.102536"
+      },
+      "acd4f9dcaf109fdc8983996c491c7aa89372b55c212c505cc39e3b45e375d56e": {
+        "title": "Blake Lively’s lawsuit against Justin Baldoni claims she lost $40 million over ‘mean girl’ image",
+        "link": "https://www.marketwatch.com/story/blake-livelys-lawsuit-against-justin-baldoni-claims-she-lost-40-million-over-mean-girl-image-0f892cee?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.102539"
+      },
+      "b171dfe258bd8a280f361dfde4c9cf4037c6077d315c4cac5bc05d9b500624ed": {
+        "title": "Can’t cook, won’t cook? Start by feeding yourself — Nigella Lawson",
+        "link": "https://www.ft.com/content/93114bcc-a37a-49b4-8d5e-be38707dfca9",
+        "published_date": "Thu, 30 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.102541"
+      },
+      "ff92ac647c4cb5aa16f0b9ddccac9cf639d6abd64f1266ed05492e4350e4c426": {
+        "title": "The energy crisis is no excuse for bad subsidies",
+        "link": "https://www.ft.com/content/00164483-f0ad-42d6-9efc-f6500947d3f0",
+        "published_date": "Thu, 30 Apr 2026 08:50:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.102543"
       }
     },
     "Ai": {
-      "6a19c35d5e5221507e8bc90ee16252b03c202b802518c582adfe9942ee5af839": {
-        "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
-        "link": "https://www.qbitai.com/2026/03/393887.html",
-        "published_date": "Tue, 31 Mar 2026 06:41:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.320746"
-      },
-      "918edc7f4b5fe0f40aefcd3738600f2583860cb3b224c06762b4b65be331ce21": {
-        "title": "2026-03-31日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-31/",
-        "published_date": "Tue, 31 Mar 2026 09:43:00 GMT",
-        "first_seen": "2026-03-31T09:04:08.320754"
-      },
       "26535b20283b858e17dac0b33b17f44ed55d13d34887028b41e2e3094af44631": {
         "title": "Building better AI benchmarks: How many raters are enough?",
         "link": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
@@ -6473,13 +6467,37 @@
         "link": "https://www.qbitai.com/2026/04/411336.html",
         "published_date": "Thu, 30 Apr 2026 00:35:00 GMT",
         "first_seen": "2026-04-30T07:31:29.720068"
+      },
+      "459f6b6310f3983f580896bcbaccf0aa238eec29a718bb59866ae1befd171a18": {
+        "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+        "link": "https://www.qbitai.com/2026/04/412018.html",
+        "published_date": "Thu, 30 Apr 2026 09:16:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.252960"
+      },
+      "bd888fa55b59a1abd9422482e269631021f863b6a8cc8a85e708e7e8727e9456": {
+        "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+        "link": "https://www.qbitai.com/2026/04/412015.html",
+        "published_date": "Thu, 30 Apr 2026 09:08:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.252968"
+      },
+      "49c5be75771fc8ac2a5e2f0074f412dc1eb023f76a9c6c2850959a663136f5f9": {
+        "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
+        "link": "https://www.qbitai.com/2026/04/411963.html",
+        "published_date": "Thu, 30 Apr 2026 08:36:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.252971"
+      },
+      "a0b83c56197075a0838610cdd33d9a7ca053010454cd006852144f72e481704e": {
+        "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
+        "link": "https://www.qbitai.com/2026/04/411964.html",
+        "published_date": "Thu, 30 Apr 2026 08:23:00 GMT",
+        "first_seen": "2026-04-30T10:10:48.252972"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-30T07:31:49.315215",
-    "Finance": "2026-04-30T07:31:29.558454",
-    "Ai": "2026-04-30T07:31:29.720070"
+    "Technology": "2026-04-30T10:11:09.717247",
+    "Finance": "2026-04-30T10:10:48.102546",
+    "Ai": "2026-04-30T10:10:48.252975"
   }
 }
