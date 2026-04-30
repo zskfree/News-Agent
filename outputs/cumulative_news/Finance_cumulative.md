@@ -1,7 +1,6534 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 08:41
+**最后更新时间**: 2026-04-29 23:58
+
+---
+
+## 🆕 最新更新 (2026-04-29 23:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Sandisk shares have soared over 3,000% in a year. Is a stock split next?](https://www.marketwatch.com/story/sandisk-shares-have-soared-over-3-000-in-a-year-is-a-stock-split-next-4607dc97?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:44
+
+#### [‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?](https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:25
+
+#### [Powell won’t leave the Fed, pushing back further against Trump](https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:13
+
+#### [Why Alphabet’s stock is the standout gainer on Big Tech’s monster earnings day](https://www.marketwatch.com/story/why-alphabets-stock-is-the-standout-gainer-on-big-techs-monster-earnings-day-bb49b193?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 23:04
+
+#### [‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?](https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:22
+
+#### [Is the Intel stock hype overdone? How to make sense of the latest big move.](https://www.marketwatch.com/story/is-the-intel-stock-hype-overdone-how-to-make-sense-of-the-latest-big-move-a88a6953?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:16
+
+#### [Lululemon has lost its cool, and is stuck with customers who  only follow ‘generic athletic brands,’ founder says](https://www.marketwatch.com/story/lululemon-has-lost-its-cool-and-is-stuck-with-customers-who-only-follow-generic-athletic-brands-founder-says-2e7caae4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:11
+
+#### [Ford’s profit jumps as carmaker powers through an EV slowdown](https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 22:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SoftBank plans to list new AI and robotics company in the US](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16)
+**发布时间**: 2026-04-29 23:28
+
+#### [Google, Meta and Microsoft boost AI spending forecasts](https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc)
+**发布时间**: 2026-04-29 23:20
+
+#### [Big Tech’s earnings get ever bigger, and ever less useful](https://www.ft.com/content/a4d5010e-3d69-4a68-a3d0-943aaa5af42a)
+**发布时间**: 2026-04-29 22:41
+
+#### [Powell vows to remain on Fed board as he warns over attacks by Trump](https://www.ft.com/content/61435876-6e33-478f-a8eb-62ec32eb5a2f)
+**发布时间**: 2026-04-29 22:28
+
+#### [Musk says he was ‘a fool’ to fund the launch of OpenAI](https://www.ft.com/content/4fac437f-a4cd-42ac-b1ae-f39957b7a42f)
+**发布时间**: 2026-04-29 21:59
+
+#### [Bill Ackman’s Pershing Square USA slides on Wall Street debut](https://www.ft.com/content/ca9692a5-383c-4eb3-b553-3969f4c69cfc)
+**发布时间**: 2026-04-29 21:48
+
+#### [Google told staff it is ‘proud’ of Pentagon AI contract after internal backlash](https://www.ft.com/content/e2f5f0a7-fa24-430f-b7f8-27b78041ea8a)
+**发布时间**: 2026-04-29 20:21
+
+#### [Oil tops $120 as Trump signals extended Hormuz stand-off](https://www.ft.com/content/243b9344-bab3-4129-bbec-825e97d661f4)
+**发布时间**: 2026-04-29 19:44
+
+#### [King Charles, America and the futility of growth](https://www.ft.com/content/f26275f6-b6f4-4f8b-9542-7aff9e93748b)
+**发布时间**: 2026-04-29 11:41
+
+#### [How OpenAI’s $500bn data centre venture Stargate has shifted shape](https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89)
+**发布时间**: 2026-04-29 10:00
+
+#### [Apple’s next chief John Ternus confronts break from China playbook](https://www.ft.com/content/aae8d62e-5720-4f6a-8f63-459e136551a1)
+**发布时间**: 2026-04-29 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-29 10:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [$200 oil – and two other scenarios – could tip the world into a recession, says this global bank](https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:48
+
+#### [The key reasons why one bank now says U.S. stocks will outperform European equities](https://www.marketwatch.com/story/the-key-reasons-why-one-bank-now-says-u-s-stocks-will-outperform-european-equities-4ad7af88?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:47
+
+#### [‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?](https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:10
+
+#### [Actor Patrick Dempsey recalls fond memories of his tiny home town in Maine](https://www.marketwatch.com/story/actor-patrick-dempsey-recalls-fond-memories-of-his-tiny-home-town-in-maine-404d26d7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 09:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Emerging market stocks hit record high as Asian chipmakers surge](https://www.ft.com/content/5a003a35-a48b-4e46-a2d3-b99ae41d0e46)
+**发布时间**: 2026-04-29 07:26
+
+#### [Memory chipmakers hope AI frenzy signals end to boom and bust](https://www.ft.com/content/620c3442-ee5a-41c6-b6db-9457e1adcd7e)
+**发布时间**: 2026-04-29 04:00
+
+#### [Ken Griffin suggests retail investors do not understand private credit](https://www.ft.com/content/130a68e2-d8cc-449b-a32a-a0b8e2471e89)
+**发布时间**: 2026-04-29 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-29 07:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Total profits jump 29% as war drives oil price surge and trading gains](https://www.ft.com/content/86a02358-3050-4d3d-aaad-ebce1402cba2)
+**发布时间**: 2026-04-29 07:12
+
+#### [Lloyds profits soar 33% as higher interest rates boost income](https://www.ft.com/content/1ff9b5f3-b4f0-4915-89d5-1530a6ac9c91)
+**发布时间**: 2026-04-29 06:44
+
+#### [UBS trading gains fuel 80% profit surge](https://www.ft.com/content/c6f04c41-d71c-479f-9def-f24e6ee3b14f)
+**发布时间**: 2026-04-29 05:59
+
+#### [How Citi’s $52mn hire was forced out of JPMorgan over his behaviour](https://www.ft.com/content/e45c2c21-babe-4fd9-85f1-2b2b3aa38872)
+**发布时间**: 2026-04-29 04:00
+
+#### [The great commodities disruption](https://www.ft.com/content/88cec47c-ea6d-47db-97f8-0431aae7427d)
+**发布时间**: 2026-04-29 04:00
+
+#### [Can Opec survive the UAE’s exit?](https://www.ft.com/content/cf427766-a13e-4eb2-ab70-d9ee7ea5bed1)
+**发布时间**: 2026-04-29 04:00
+
+#### [Ken Griffin suggests wealthy individuals do not understand private credit risks](https://www.ft.com/content/130a68e2-d8cc-449b-a32a-a0b8e2471e89)
+**发布时间**: 2026-04-29 04:00
+
+#### [King Charles subtly rebukes Trump despite show of unity](https://www.ft.com/content/f9299dd4-4b9a-4a4a-8e11-675bdab4d773)
+**发布时间**: 2026-04-29 03:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Two investment strategies for people who are afraid of the stock market](https://www.marketwatch.com/story/two-investment-strategies-for-people-who-are-afraid-of-the-stock-market-a68bbe15?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 02:37
+
+#### [Can Meta make money on AI beyond consumer ads? That’s a big question going into earnings.](https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 00:59
+
+#### [U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production](https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories)
+**发布时间**: 2026-04-29 00:32
+
+---
+
+## 🆕 最新更新 (2026-04-28 23:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Musk claims Altman ‘stole a charity’ in OpenAI trial testimony](https://www.ft.com/content/a6a987e0-fd93-49c5-a161-2e217c3817b8)
+**发布时间**: 2026-04-28 23:04
+
+#### [Goldman stops bankers using Anthropic’s Claude in Hong Kong](https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41)
+**发布时间**: 2026-04-28 23:01
+
+#### [Ex-FBI head Comey charged with threatening Trump’s life](https://www.ft.com/content/69fc75c8-39c4-4bc1-925d-fb94847e3a5b)
+**发布时间**: 2026-04-28 22:40
+
+#### [King Charles defends transatlantic relationship in speech to Congress](https://www.ft.com/content/1017488d-a933-4798-9b0e-6165c77a6c76)
+**发布时间**: 2026-04-28 22:39
+
+#### [UK ministers gain power to force pension funds to invest in British companies](https://www.ft.com/content/7beea881-a105-4197-bf58-6719917b448f)
+**发布时间**: 2026-04-28 22:29
+
+#### [US ambassador to Ukraine to leave over differences with Trump](https://www.ft.com/content/33d5d8d4-a7db-4647-9751-c21de8ebecb8)
+**发布时间**: 2026-04-28 21:42
+
+#### [Trump administration launches Disney probe after Jimmy Kimmel’s Melania joke](https://www.ft.com/content/aaac7dfd-a85d-491b-bf84-6982ec9a81b8)
+**发布时间**: 2026-04-28 19:31
+
+#### [OpenAI expands Amazon deal after Microsoft loosens exclusivity terms](https://www.ft.com/content/f159dd74-56a5-404b-ae54-ab4bab98b2c3)
+**发布时间**: 2026-04-28 18:37
+
+#### [America’s special relationship is ‘probably Israel’, says UK ambassador to US](https://www.ft.com/content/d4bfac8a-37a4-4409-ac03-a31d41b08e48)
+**发布时间**: 2026-04-28 17:11
+
+#### [Get used to the long Iran war](https://www.ft.com/content/efa894e5-2431-4238-a920-3075dad1afdb)
+**发布时间**: 2026-04-28 11:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Starbucks is seeing a resurgence, thanks to younger and lower-income customers](https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:54
+
+#### [The stock market’s comeback from the Iran-inspired selloff hasn’t been as powerful as you might think](https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:31
+
+#### [It’s time for a Microsoft ‘reset.’ Here’s what investors should focus on now.](https://www.marketwatch.com/story/its-time-for-a-microsoft-reset-heres-what-investors-should-focus-on-now-a5d9e334?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:20
+
+#### [These two countries are the most likely to leave OPEC’s orbit next](https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:17
+
+#### [Bloom Energy is riding the AI wave with a major lift from Oracle](https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:16
+
+#### [Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on](https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 22:01
+
+#### [This is the most critical question facing U.S. investors right now — and it has nothing to do with Iran](https://www.marketwatch.com/story/this-is-the-most-critical-question-facing-u-s-investors-right-now-and-it-has-nothing-to-do-with-iran-45bc8f2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:52
+
+#### [Why buying crypto in a bear market may be a cheaper way to play the AI boom](https://www.marketwatch.com/story/buying-crypto-in-a-bear-market-is-a-cheaper-way-to-play-the-ai-boom-this-former-tiger-management-executive-says-868096eb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:43
+
+#### [The Elon Musk-Sam Altman trial has just begun. Here’s what’s at stake.](https://www.marketwatch.com/story/the-elon-musk-sam-altman-trial-has-just-begun-heres-whats-at-stake-01df4a4c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:28
+
+#### [These 5 AI-proof jobs are hiring — here’s how much they pay and how to get them](https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 21:17
+
+---
+
+## 🆕 最新更新 (2026-04-28 10:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoftBank shares dive, U.S. tech stocks under pressure on report of OpenAI missing goals](https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:40
+
+#### [A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.](https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:33
+
+#### [Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war](https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:27
+
+#### [Supermodel Jessica Stam lists $5 million Maui estate with ocean views, airy charm](https://www.marketwatch.com/story/supermodeljessica-stam-lists-5-million-maui-estate-with-ocean-views-airy-charm-9d32d3b0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:05
+
+#### [This chart shows why investors should fear for private equity more than private credit](https://www.marketwatch.com/story/this-chart-shows-why-investors-should-fear-for-private-equity-more-than-private-credit-4f24ea32?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 09:04
+
+#### [Former ‘Real Housewives’ star Yolanda Hadid relists Pennsylvania farm for $10.9 million](https://www.marketwatch.com/story/former-real-housewives-star-yolanda-hadid-relists-pennsylvania-farm-for-10-9-million-cdc7da18?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Barclays takes £228mn hit from collapse of UK mortgage lender MFS](https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee)
+**发布时间**: 2026-04-28 08:14
+
+#### [Foreign Office not consulted ahead of Mandelson appointment](https://www.ft.com/content/853b4ea4-0bae-4706-bc4a-3a3082ac30f6)
+**发布时间**: 2026-04-28 08:01
+
+#### [Oil price climbs above $110 for first time in three weeks](https://www.ft.com/content/0244cd6d-b0da-435c-9c84-7ff4f37ec9ec)
+**发布时间**: 2026-04-28 06:48
+
+---
+
+## 🆕 最新更新 (2026-04-28 07:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price hits $110 on Iran talks uncertainty](https://www.ft.com/content/0244cd6d-b0da-435c-9c84-7ff4f37ec9ec)
+**发布时间**: 2026-04-28 06:48
+
+#### [BP profits hit 3-year high as Iran war delivers windfall](https://www.ft.com/content/189a9248-d724-4128-b53a-b7afb33bcac4)
+**发布时间**: 2026-04-28 06:12
+
+#### [Wall Street dealers boost Treasury holdings to highest level since 2007](https://www.ft.com/content/bdbfeee1-6780-4df7-9c42-34b9bc07f233)
+**发布时间**: 2026-04-28 04:00
+
+#### [Iran’s hardliners clash over talks with US](https://www.ft.com/content/53a428c7-5242-4e90-ba87-71730128379a)
+**发布时间**: 2026-04-28 04:00
+
+#### [The real lesson of Reform’s war on the history curriculum](https://www.ft.com/content/977af7be-f69f-483b-9026-e5b60b24cf0f)
+**发布时间**: 2026-04-28 04:00
+
+#### [Coffee, fuel and houses: why Trump has an inflation problem](https://www.ft.com/content/401a7647-5593-4a58-8592-92caf9dbd440)
+**发布时间**: 2026-04-28 04:00
+
+#### [London landlord sues John Lewis in click-and-collect dispute](https://www.ft.com/content/ec9ed375-3dad-4fb6-9f77-b5d2d83c1187)
+**发布时间**: 2026-04-28 04:00
+
+#### [Milken family office alumni raise $4bn to target private capital upheaval](https://www.ft.com/content/4bd56a80-948c-4749-a3ce-4cb1ae4ddfc5)
+**发布时间**: 2026-04-28 04:00
+
+#### [Rivian CEO’s $403mn pay package dwarfs those of top US car bosses](https://www.ft.com/content/aabef226-0a42-4cde-9cc1-687e0f4a9d3a)
+**发布时间**: 2026-04-28 00:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [California is one step closer to America’s first billionaire wealth tax — and the divide between red and blue state taxes is getting deeper](https://www.marketwatch.com/story/california-is-one-step-closer-to-americas-first-billionaire-wealth-tax-and-the-divide-between-red-and-blue-state-taxes-is-getting-deeper-18ef3232?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:56
+
+#### [Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 25%](https://www.marketwatch.com/story/bed-bath-beyond-is-seeing-new-life-as-rare-sales-growth-lifts-stock-more-than-30-3e1ee945?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:34
+
+#### [Higher inflation is on the way. The Fed needs to make this clear before it raises rates.](https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:20
+
+#### [It’s China’s duty-free retail mecca and a tropical oasis, to boot. For Beijing that’s no longer enough.](https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-28 00:00
+
+---
+
+## 🆕 最新更新 (2026-04-27 23:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Key Labour MPs start to accept need for UK welfare reforms](https://www.ft.com/content/3152c178-c014-4684-a475-b0d3b474ddde)
+**发布时间**: 2026-04-27 23:01
+
+#### [Britain’s King Charles and Queen Camilla arrive on state visit to the US](https://www.ft.com/content/11ba1881-9627-47eb-b171-c2802f585b97)
+**发布时间**: 2026-04-27 21:44
+
+#### [Blue Owl investors shun cut-price exit offer from Boaz Weinstein](https://www.ft.com/content/634b8423-277f-437f-a613-7375d56d76dc)
+**发布时间**: 2026-04-27 21:05
+
+#### [German energy giant nears £600mn deal to buy UK supplier Ovo](https://www.ft.com/content/b9a1fda5-ca35-4608-9aad-634de9ec6ee5)
+**发布时间**: 2026-04-27 20:30
+
+#### [MPs to vote on whether Starmer should be investigated over Mandelson scandal](https://www.ft.com/content/bf4bbb22-eed9-428c-8506-e81397a4ad53)
+**发布时间**: 2026-04-27 20:29
+
+#### [Wizz Air accuses Gulf airlines of putting politics before safety](https://www.ft.com/content/b2308b85-8d3a-42a5-bb3f-ffebd7c190eb)
+**发布时间**: 2026-04-27 18:10
+
+#### [King Charles and the ‘special’ relationship](https://www.ft.com/content/7fa062f3-fb30-47c6-8a1e-a559e926a53e)
+**发布时间**: 2026-04-27 17:25
+
+#### [US being ‘humiliated’ by Iran, says German Chancellor Friedrich Merz](https://www.ft.com/content/0a666824-4686-417c-9c1a-1393942cb3db)
+**发布时间**: 2026-04-27 17:16
+
+#### [United chief hits out at American Airlines for refusing merger talks](https://www.ft.com/content/65a1ab8b-1448-465a-82d0-4cd8cc3d2f35)
+**发布时间**: 2026-04-27 13:46
+
+#### [Are Europe and America headed for divorce?](https://www.ft.com/content/92edf178-dcb7-4768-a511-8999f7b7f08f)
+**发布时间**: 2026-04-27 11:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We believe it’s real’: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?](https://www.marketwatch.com/story/we-believe-its-real-my-mom-received-a-check-from-a-class-action-lawsuit-it-bounced-could-this-be-a-scam-cffa7bdb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 22:30
+
+#### [Arm’s stock snaps a seven-day winning streak as it loses some of its AI glow](https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 22:09
+
+#### [Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 30%](https://www.marketwatch.com/story/bed-bath-beyond-is-seeing-new-life-as-rare-sales-growth-lifts-stock-more-than-30-3e1ee945?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:35
+
+#### [Qualcomm’s stock gains as an AI opportunity emerges](https://www.marketwatch.com/story/qualcomms-stock-soars-as-an-ai-opportunity-emerges-14a6ed98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:23
+
+#### [A possible SiriusXM-iHeartMedia merger would be the latest ominous sign for radio](https://www.marketwatch.com/story/a-possible-siriusxm-iheartmedia-merger-would-be-the-latest-ominous-sign-for-radio-23a18d07?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:15
+
+#### [Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors.](https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:13
+
+#### [Verizon’s stock rises as the company posts surprise subscriber growth under new CEO](https://www.marketwatch.com/story/verizons-stock-rises-as-the-company-posts-surprise-subscriber-growth-under-new-ceo-2752e52d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:08
+
+#### [Trump calls for Jimmy Kimmel to be fired over Melania comments. It’s the latest clash over late-night TV.](https://www.marketwatch.com/story/trump-calls-for-jimmy-kimmel-to-be-fired-over-melania-comments-its-the-latest-clash-over-late-night-tv-fbfc53d4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 21:05
+
+#### [There’s a pizza price war going on, and Domino’s is feeling the pain](https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 20:53
+
+---
+
+## 🆕 最新更新 (2026-04-27 10:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top central banks gamble they have time on inflation risks](https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f)
+**发布时间**: 2026-04-27 10:11
+
+#### [China blocks Meta’s $2bn purchase of AI group Manus](https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f)
+**发布时间**: 2026-04-27 08:46
+
+#### [Healthcare is driving America’s economy](https://www.ft.com/content/6b1bcbab-21d4-49a3-9940-d7550f042e5d)
+**发布时间**: 2026-04-27 04:00
+
+#### [Reeves set for new growth push after May elections](https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084)
+**发布时间**: 2026-04-27 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meta’s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.](https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 09:41
+
+#### [‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?](https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 09:15
+
+#### [Skims co-founder Emma Grede and her $70 million California properties](https://www.marketwatch.com/story/skims-co-founder-emma-grede-and-her-70-million-california-properties-6c82b3de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:59
+
+#### [Global oil futures top $100 again after U.S.-Iran peace talks canceled](https://www.marketwatch.com/story/global-oil-futures-top-100-again-after-u-s-iran-peace-talks-canceled-a50f6a7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:49
+
+#### [Why JPMorgan is telling investors to keep buying the dips even as market hits new highs](https://www.marketwatch.com/story/why-jpmorgan-is-telling-investors-to-keep-buying-the-dips-even-as-market-hits-new-highs-4c8b7763?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 08:41
+
+---
+
+## 🆕 最新更新 (2026-04-27 07:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adidas claims the first sub 2-hour marathon winner. But good luck getting the winner’s sneakers.](https://www.marketwatch.com/story/adidas-claims-the-first-sub-2-hour-marathon-winner-but-good-luck-getting-the-winners-sneakers-3aa995ef?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 07:33
+
+#### [U.S. stock futures mixed, oil rises ahead of a busy week for Wall Street](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
+**发布时间**: 2026-04-27 03:05
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Goldman Sachs raises oil price forecast as war disruption drags on](https://www.ft.com/content/448b06dd-6f8e-455a-add8-3d64e9d96d8b)
+**发布时间**: 2026-04-27 05:18
+
+#### [Rachel Reeves set for new growth push after May elections](https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084)
+**发布时间**: 2026-04-27 04:00
+
+#### [UK ministers resist alignment with EU’s AI rules](https://www.ft.com/content/b1d1f9be-7790-4227-acec-80fa34dbdbc8)
+**发布时间**: 2026-04-27 04:00
+
+#### [Inside China’s plans to fight in space](https://ig.ft.com/space-weapons/)
+**发布时间**: 2026-04-27 04:00
+
+#### [How ‘conflict entrepreneurs’ are inflaming US political violence](https://www.ft.com/content/b52113b5-5c83-408b-ba2e-b0269290e153)
+**发布时间**: 2026-04-27 04:00
+
+#### [Why the UAE asked Pakistan for its $3.5bn back](https://www.ft.com/content/99073d6e-4b57-417f-88fb-7a2c0e55eef3)
+**发布时间**: 2026-04-27 04:00
+
+#### [Private equity backers raise new conflict concerns over sweetheart deals](https://www.ft.com/content/ded6dc6f-9632-450d-ac62-ad80614436da)
+**发布时间**: 2026-04-27 04:00
+
+#### [Britain’s stealth fighter project faces 10-week funding deadline](https://www.ft.com/content/8766b40b-7692-4173-8754-fec49180efdc)
+**发布时间**: 2026-04-27 04:00
+
+#### [Leading central banks play for time on interest rate rises](https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f)
+**发布时间**: 2026-04-27 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-26 23:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zero-hour contract crackdown risks job losses, business warns](https://www.ft.com/content/21d24d94-c6a4-4ebc-8b9d-ac3b88474725)
+**发布时间**: 2026-04-26 23:01
+
+#### [Trump says shooting incident shows why he needs new White House ballroom](https://www.ft.com/content/95af64ee-9ede-4ad6-9cd5-cfc09acc630f)
+**发布时间**: 2026-04-26 22:33
+
+#### [Who is the alleged shooter?](https://www.ft.com/content/9ecca8e3-cf3a-417b-b742-0ac30c0c0845)
+**发布时间**: 2026-04-26 21:21
+
+#### [Benjamin Netanyahu’s biggest rivals merge Israeli political parties](https://www.ft.com/content/3bdeac99-19b2-45df-b0bb-a79e187f1c16)
+**发布时间**: 2026-04-26 18:51
+
+#### [Alleged Trump shooter was targeting US officials, authorities say](https://www.ft.com/content/2f922f3f-8232-4541-bfeb-66697b1d8790)
+**发布时间**: 2026-04-26 17:45
+
+#### [Trump and the recurring assassin](https://www.ft.com/content/8c6b2e4e-8096-4087-9082-6ca4548f1045)
+**发布时间**: 2026-04-26 17:30
+
+#### [Sabastian Sawe is first person to win a marathon in under 2 hours](https://www.ft.com/content/c77a8a7a-8163-4344-87f4-8e2aca44a72d)
+**发布时间**: 2026-04-26 14:36
+
+#### [Major City reforms to be set out in King’s Speech](https://www.ft.com/content/5811b388-1b45-42c9-b2a3-baa72e7807b8)
+**发布时间**: 2026-04-26 12:00
+
+#### [Britain acts richer than it is](https://www.ft.com/content/640e6174-fc5f-4fda-be36-7c2b9eb36a7d)
+**发布时间**: 2026-04-26 11:00
+
+#### [What has Labour actually achieved?](https://www.ft.com/content/231c0637-3171-431e-8982-32e338622178)
+**发布时间**: 2026-04-26 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall, oil rises ahead of a busy week for Wall Street](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 22:56
+
+#### [Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting](https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 21:00
+
+#### [I will inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?](https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 20:42
+
+#### [Sen. Thom Tillis drops opposition, says he’ll back Kevin Warsh’s Fed confirmation](https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 19:56
+
+#### [Michael Jackson biopic’s massive box-office success proves his staying power despite controversy](https://www.marketwatch.com/story/michael-jackson-biopics-mega-box-office-proves-his-staying-power-despite-controversy-9546f5ac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-26 19:15
+
+---
+
+## 🆕 最新更新 (2026-04-26 07:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How to demine the Strait of Hormuz](https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed)
+**发布时间**: 2026-04-26 04:00
+
+#### [Can AI discriminate if it can’t justify itself?](https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460)
+**发布时间**: 2026-04-26 04:00
+
+#### [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+**发布时间**: 2026-04-26 04:00
+
+#### [China’s smartphone king takes on Elon Musk in Europe with premium EVs](https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2)
+**发布时间**: 2026-04-26 04:00
+
+#### [Vladimir Putin’s regime turns on book publishers](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0)
+**发布时间**: 2026-04-26 04:00
+
+#### [Iran war hits pistachio supplies amid Dubai chocolate boom](https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347)
+**发布时间**: 2026-04-26 04:00
+
+#### [Fuel crisis hits remote Pacific island nation of Tuvalu](https://www.ft.com/content/6eaa0d4a-bf5c-40fa-91f7-001f399f4e08)
+**发布时间**: 2026-04-26 04:00
+
+#### [Trump rushed offstage at White House correspondents’ dinner after shots fired](https://www.ft.com/content/a5b3add2-eee6-41d8-9353-f1bdc2b77398)
+**发布时间**: 2026-04-26 03:37
+
+---
+
+## 🆕 最新更新 (2026-04-25 23:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump cancels trip by US negotiators for Iran peace talks](https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade)
+**发布时间**: 2026-04-25 21:10
+
+#### [Where is Marco Rubio?](https://www.ft.com/content/8830ec25-483e-44ee-ae3d-141bcb8e1f75)
+**发布时间**: 2026-04-25 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.](https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 19:05
+
+#### [‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?](https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 18:25
+
+#### [From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy](https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 17:56
+
+#### [Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.](https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 16:25
+
+#### [A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man](https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-25 16:17
+
+---
+
+## 🆕 最新更新 (2026-04-25 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [No edge, no hedge: why markets are stuck](https://www.ft.com/content/fff7a84f-83bf-45af-9a3d-78e0cf181539)
+**发布时间**: 2026-04-25 04:00
+
+#### [America’s bid for energy supremacy is being forged in war](https://ig.ft.com/global-energy-flows/)
+**发布时间**: 2026-04-25 04:00
+
+#### [What the AI ‘jobpocalypse’ narrative misses](https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37)
+**发布时间**: 2026-04-25 04:00
+
+#### [The mystery of good judgment](https://www.ft.com/content/d5991809-9991-4c12-9ccb-bbd9e90d3c50)
+**发布时间**: 2026-04-25 04:00
+
+#### [Banks brace for tax raid if Starmer is ousted](https://www.ft.com/content/9c6b31a0-6490-41e6-af47-424d0dbc8877)
+**发布时间**: 2026-04-25 04:00
+
+#### [Power is draining away from Starmer’s Downing Street](https://www.ft.com/content/82b60c91-4015-4136-8c63-685af833f8c1)
+**发布时间**: 2026-04-25 04:00
+
+#### [Pro-independence parties bank on rethink of UK ‘status quo’ after May 7](https://www.ft.com/content/4795501a-37d3-4954-8294-4e0cbf32d30c)
+**发布时间**: 2026-04-25 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-25 06:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [America’s energy supremacy is being forged in war](https://ig.ft.com/global-energy-flows/)
+**发布时间**: 2026-04-25 04:00
+
+#### [Texas governor threatened to pull World Cup grants in battle over ICE enforcement](https://www.ft.com/content/d80a5a7c-95f4-4fab-b44e-69bdb5c04b4f)
+**发布时间**: 2026-04-24 21:37
+
+---
+
+## 🆕 最新更新 (2026-04-24 23:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘AI genuinely freaks me out’: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position — with a 50-minute commute?](https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:38
+
+#### [‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?](https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:19
+
+#### [Nvidia’s stock sees its first record close in 6 months — thanks to Intel](https://www.marketwatch.com/story/nvidias-stock-heads-for-first-record-close-in-6-months-thanks-to-intel-21af7d28?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 21:00
+
+#### [Intel’s stock extends its spectacular run by posting its best day in nearly four decades](https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:54
+
+#### [AMD’s stock is red-hot — and just hit a major milestone](https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:36
+
+#### [There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?](https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:29
+
+#### [Charter’s stock just got hammered. Here’s what fueled its worst day on record.](https://www.marketwatch.com/story/charters-stock-is-getting-hammered-heres-whats-fueling-its-worst-day-on-record-11f991a0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 20:26
+
+#### [Why crude prices won’t fall back to levels seen before the Iran war anytime soon](https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 19:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Texas’s governor threatened to pull World Cup grants in battle over ICE enforcement](https://www.ft.com/content/d80a5a7c-95f4-4fab-b44e-69bdb5c04b4f)
+**发布时间**: 2026-04-24 21:37
+
+#### [Amazon-backed nuclear developer X-energy surges 27% in trading debut](https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73)
+**发布时间**: 2026-04-24 20:50
+
+#### [US stocks race ahead of Europe as Wall Street shrugs off energy shock](https://www.ft.com/content/199c4082-9c97-4f59-bdb0-8b1f53abb11a)
+**发布时间**: 2026-04-24 20:30
+
+#### [Starmer promises imminent laws to ban IRGC](https://www.ft.com/content/0d7b0fd1-8e7c-404d-988d-15b31e91c1eb)
+**发布时间**: 2026-04-24 18:28
+
+#### [BA forced to downgrade thousands more loyalty scheme members after ‘error’](https://www.ft.com/content/60eebca5-1cf2-4183-a9b5-cc62830da8f3)
+**发布时间**: 2026-04-24 18:09
+
+#### [Witkoff and Kushner to travel to Islamabad as hopes rise for Iran peace talks](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e)
+**发布时间**: 2026-04-24 18:08
+
+#### [Google to invest up to $40bn in Anthropic](https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8)
+**发布时间**: 2026-04-24 17:54
+
+#### [London’s luxury hoteliers lose sleep over fall in Middle East visitors](https://www.ft.com/content/cd09462a-60b7-4868-af9c-f4554fe7794e)
+**发布时间**: 2026-04-24 17:00
+
+#### [The Apple juggernaut and the AI roadblock](https://www.ft.com/content/2d1805b1-8750-4120-ad50-3fdbe8791836)
+**发布时间**: 2026-04-24 17:00
+
+#### [Investors push for higher yield on $14bn of Oracle-backed data centre debt](https://www.ft.com/content/e9682adb-f29a-4169-8bf0-19e299e906e2)
+**发布时间**: 2026-04-24 16:00
+
+#### [The golden age of arbitrage has begun](https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843)
+**发布时间**: 2026-04-24 14:41
+
+---
+
+## 🆕 最新更新 (2026-04-24 09:48)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?](https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:15
+
+#### [How SaaSpocalypse fears actually bolstered SAP profits by over $150 million](https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:14
+
+#### [TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market](https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:01
+
+#### [How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up](https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 08:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The danger of weaponising dollar swap lines](https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519)
+**发布时间**: 2026-04-24 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-24 07:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Polish PM questions whether US is ‘loyal’ to Europe’s defence](https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb)
+**发布时间**: 2026-04-24 04:00
+
+#### [Donald Trump and the remaking of America’s media order](https://www.ft.com/content/ea10b519-a805-461e-8a8d-3ee1751939bc)
+**发布时间**: 2026-04-24 04:00
+
+#### [Warsh, Bessent and the fight for dollar supremacy](https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519)
+**发布时间**: 2026-04-24 04:00
+
+#### [China’s own Mythos is coming — America must prepare](https://www.ft.com/content/ea8c8161-5b86-409b-93cf-5e778300d87e)
+**发布时间**: 2026-04-24 04:00
+
+#### [Morgan McSweeney held talks with Google DeepMind over AI project](https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9)
+**发布时间**: 2026-04-24 04:00
+
+#### [KPMG and EY demote partners in end of job-for-life model](https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6)
+**发布时间**: 2026-04-24 04:00
+
+#### [Banks charged sharply different fees for access to Anthropic investment](https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61)
+**发布时间**: 2026-04-24 04:00
+
+#### [Trump says Israel and Lebanon will extend ceasefire by 3 weeks](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e)
+**发布时间**: 2026-04-24 01:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As Americans turn to blue-collar jobs for stability, here’s which ones offer the most security — and which offer the least](https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 01:47
+
+#### [Here’s how much money the 2026 NFL draft picks will make — and who’s at risk of losing millions](https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 00:23
+
+#### [Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans](https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 00:01
+
+---
+
+## 🆕 最新更新 (2026-04-23 23:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Intel’s stock is on track for a historic surge after earnings](https://www.marketwatch.com/story/why-intels-stock-is-on-track-for-a-historic-surge-after-earnings-5128afa7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 23:29
+
+#### [French weather forecast office files police complaint following suspicious Polymarket bets](https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 22:43
+
+#### [Trump is swaying the market like no president has in decades, analysis shows](https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 22:09
+
+#### [The cannabis rescheduling is causing celebration — and confusion — as marijuana stocks sell off](https://www.marketwatch.com/story/the-cannabis-rescheduling-is-causing-celebration-and-confusion-as-marijuana-stocks-sell-off-f79330e0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:27
+
+#### [Nike is cutting 1,400 more jobs — and the company’s shake-up is not done yet](https://www.marketwatch.com/story/nike-is-cutting-1-400-more-jobs-the-companys-shakeup-is-not-done-yet-2851f3b8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:22
+
+#### [Employee buyouts like Microsoft’s could become more common. Here’s what workers need to know.](https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:12
+
+#### [ServiceNow’s stock just had its worst day ever, taking the software sector down with it](https://www.marketwatch.com/story/servicenows-stock-sinks-toward-worst-day-ever-taking-the-software-sector-down-with-it-77fd240d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 21:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US soldier charged in prediction market bets on Maduro’s seizure](https://www.ft.com/content/43bc927b-683d-417e-aa13-a9b4a933418b)
+**发布时间**: 2026-04-23 22:56
+
+#### [Trump says Israel and Lebanon will extend ceasefire by 3 weeks](https://www.ft.com/content/730f572b-edf7-4633-bdfd-1707f16d445b)
+**发布时间**: 2026-04-23 22:13
+
+#### [Griffin’s Citadel attacks Mamdani for using his penthouse to sell New York tax plan](https://www.ft.com/content/29216b36-2507-4aa0-9432-959bd155a053)
+**发布时间**: 2026-04-23 21:29
+
+#### [US shale bosses resist boosting oil output over Iran war ‘chaos’](https://www.ft.com/content/273c0321-0678-4ac0-9ccc-432301865b4c)
+**发布时间**: 2026-04-23 20:47
+
+#### [UK in talks with Anthropic over Mythos access for banks](https://www.ft.com/content/fe563a8e-e269-4a6b-a577-8ed16a805a7b)
+**发布时间**: 2026-04-23 20:05
+
+#### [Meta to cut 10% of jobs to ‘offset’ Zuckerberg’s AI spending](https://www.ft.com/content/fe875f6c-f45c-4dbd-9d18-168d1fdbfd5f)
+**发布时间**: 2026-04-23 19:59
+
+#### [Vanguard chief warns of ‘financial exploitation’ by prediction markets](https://www.ft.com/content/e5d1fe19-0768-4962-b5f2-88926336c1b5)
+**发布时间**: 2026-04-23 19:56
+
+#### [Microsoft to offer 7% of US staff voluntary redundancy for the first time](https://www.ft.com/content/f5776fd6-22f3-43d1-806b-9858b64cfd18)
+**发布时间**: 2026-04-23 16:56
+
+#### [South Africa’s new Trump whisperer](https://www.ft.com/content/a2a3cd21-3b8e-40a0-82a2-31e547aaf3b8)
+**发布时间**: 2026-04-23 16:46
+
+#### [Arnault warns Middle East war could spiral into ‘global catastrophe’](https://www.ft.com/content/f620ab8c-bdf6-4684-b129-4f30a0d6efaf)
+**发布时间**: 2026-04-23 14:01
+
+#### [Labour is being destroyed by its former saviours](https://www.ft.com/content/d8565d0d-18b4-4a11-8a54-c054dcfdd753)
+**发布时间**: 2026-04-23 11:24
+
+---
+
+## 🆕 最新更新 (2026-04-23 09:47)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The good times roll for SK Hynix with record-breaking quarter, but living up to expectations isn’t easy](https://www.marketwatch.com/story/the-good-times-roll-for-sk-hynix-with-record-breaking-quarter-but-living-up-to-expectations-isnt-easy-1f2ae731?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:42
+
+#### [Analysts try to quell the panic after Taiwan Semiconductor said a high-end ASML machine was too expensive](https://www.marketwatch.com/story/analysts-try-to-quell-the-panic-after-taiwan-semiconductor-said-a-high-end-asml-machine-was-too-expensive-e6e43f6e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:40
+
+#### [I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?](https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:17
+
+#### [Years after he auctioned it off, NSYNC singer Joey Fatone’s former mansion is on the market for $7.9 million](https://www.marketwatch.com/story/years-after-he-auctioned-it-off-nsync-singer-joey-fatones-former-mansion-is-on-the-market-for-7-9-million-e529701d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:01
+
+#### [‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.](https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 09:00
+
+#### [Texas Instruments topped Wall Street’s outlook on more than just data-center demand](https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 08:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK business activity rose more than expected in April](https://www.ft.com/content/f0209b31-f3c7-44d4-9dcd-ff6569d9b071)
+**发布时间**: 2026-04-23 09:10
+
+#### [L’Oréal hails ‘lipstick effect’ as war drives sales of small beauty comforts](https://www.ft.com/content/a1be76ce-3bcf-41d8-ba3f-06f4e938a294)
+**发布时间**: 2026-04-23 08:22
+
+#### [Sainsbury’s and WHSmith warn Middle East war will hit profits](https://www.ft.com/content/9607fdb9-cf1d-4b2f-9b89-6aa5cde0a371)
+**发布时间**: 2026-04-23 07:35
+
+#### [US navy secretary fired amid Iran blockade](https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0)
+**发布时间**: 2026-04-23 00:21
+
+---
+
+## 🆕 最新更新 (2026-04-23 07:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK public sector borrowing hit £12.6bn in March as Iran war strains finances](https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0)
+**发布时间**: 2026-04-23 06:17
+
+#### [Escape from Hormuz: the oil tankers running the Iranian gauntlet](https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d)
+**发布时间**: 2026-04-23 04:06
+
+#### [Allegations about Mandelson and Epstein reported to National Crime Agency in 2024](https://www.ft.com/content/0d650019-7f2f-45bc-a93f-e100f99086b9)
+**发布时间**: 2026-04-23 04:00
+
+#### [Sadiq Khan: Labour risks being ‘stonked’ in London elections](https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb)
+**发布时间**: 2026-04-23 04:00
+
+#### [Business degrees are booming in the UK. Who is profiting?](https://www.ft.com/content/e199ae71-f4a2-4abd-9444-de47c456b7ae)
+**发布时间**: 2026-04-23 04:00
+
+#### [The secret diary of a middle power](https://www.ft.com/content/cac5870b-5507-4130-b4fd-a1c60d0ed6f3)
+**发布时间**: 2026-04-23 04:00
+
+#### [UK could save £2.5bn by helping banks to buy gilts, says Barclays](https://www.ft.com/content/e351c513-ef18-4fbe-8406-c297efbad8e2)
+**发布时间**: 2026-04-23 04:00
+
+#### [Nelson Peltz’s son builds first public activist stake in Intertek](https://www.ft.com/content/6153dca4-ce70-4dfd-946e-811cc1d4794b)
+**发布时间**: 2026-04-23 04:00
+
+#### [US Navy secretary fired amid Iran blockade](https://www.ft.com/content/e2553227-d5d9-46dc-81c4-ca0066b13ad0)
+**发布时间**: 2026-04-23 00:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow](https://www.marketwatch.com/story/ficos-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 01:43
+
+#### [Why ServiceNow’s stock is sliding in the wake of earnings](https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 00:23
+
+#### [IBM’s stock falls as software revenue underwhelms](https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories)
+**发布时间**: 2026-04-23 00:22
+
+#### [POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.](https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 23:58
+
+---
+
+## 🆕 最新更新 (2026-04-22 23:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tesla boosts spending plans to $25bn as Musk doubles down on AI bet](https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67)
+**发布时间**: 2026-04-22 23:30
+
+#### [Iran war drives Panama Canal lane prices to record high](https://www.ft.com/content/05c0e794-4ed9-4e2a-a026-fb8575f789c3)
+**发布时间**: 2026-04-22 23:11
+
+#### [Trump envoy seeks to replace Iran with Italy in football World Cup](https://www.ft.com/content/1ff3a3fd-8d46-4eb4-9b15-0b9183925c6f)
+**发布时间**: 2026-04-22 20:59
+
+#### [US allies in Gulf and Asia have requested swap lines, Bessent says](https://www.ft.com/content/c6581d09-b86e-4372-8f14-d0153f8a7bf5)
+**发布时间**: 2026-04-22 18:35
+
+#### [Crypto billionaire Justin Sun sues Trump family’s World Liberty Financial](https://www.ft.com/content/d8ba5daa-2af8-4242-b875-e4ebb4d9dbb8)
+**发布时间**: 2026-04-22 18:13
+
+#### [Chelsea’s US owners sack another head coach](https://www.ft.com/content/a1d28a23-9e87-45ef-bd43-a91985a2a665)
+**发布时间**: 2026-04-22 17:57
+
+#### [Trump’s ‘dirty ceasefire’ tested as Iran hits shipping](https://www.ft.com/content/0cef8ea8-801a-4084-b637-7d2cf3f3a30c)
+**发布时间**: 2026-04-22 16:48
+
+#### [Starmer challenged in cabinet over Mandelson scandal as ministers step up criticism](https://www.ft.com/content/8fea1e8f-185f-4701-a4ca-c06930d72ae6)
+**发布时间**: 2026-04-22 15:40
+
+#### [Reform UK undercuts Labour and Tories for its first ‘Business Day’](https://www.ft.com/content/43fa89de-02f4-4e45-9f76-457c76b9e126)
+**发布时间**: 2026-04-22 14:33
+
+#### [Britain’s desperate need for Keir Badenoch](https://www.ft.com/content/8868aa94-64a1-4196-ac7f-090ce4cf5561)
+**发布时间**: 2026-04-22 11:34
+
+#### [How the £100,000 tax trap is shaping work](https://www.ft.com/content/c10e4f2f-5564-42a4-8aa7-66c78ca1c61e)
+**发布时间**: 2026-04-22 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Lululemon is getting a Nike veteran as its new CEO. An analyst says that could be a problem.](https://www.marketwatch.com/story/lululemon-is-getting-a-nike-veteran-as-its-new-ceo-an-analyst-says-that-could-be-a-problem-500004d1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 23:29
+
+#### [3 tests Apple’s new CEO must pass to prove he can grow the company in ways Tim Cook never did](https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:48
+
+#### [CSX says more businesses are shipping via rail to avoid surging fuel costs](https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:21
+
+#### [These investments promise high yield with bond-like safety. But what looks too good to be true often is.](https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:12
+
+#### [Flight cuts are spreading as fuel costs surge — and higher summer fares look likely](https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 22:01
+
+#### [Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis](https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:42
+
+#### [The Iran cease-fire has boosted investors’ appetite for bitcoin. Here’s why it could break past $80,000 soon.](https://www.marketwatch.com/story/the-iran-cease-fire-has-boosted-investors-appetite-for-bitcoin-heres-why-it-could-break-past-80-000-soon-29c08c3e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:37
+
+#### [Capital One increases provision for bad-debt expenses as earnings miss Wall Street consensus](https://www.marketwatch.com/story/capital-one-increases-provision-for-bad-debt-expenses-as-earnings-miss-wall-street-consensus-842d3c98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:27
+
+#### [Boeing’s defense business is booming at a time when airplanes are disappointing](https://www.marketwatch.com/story/boeings-defense-business-is-booming-at-a-time-when-airplanes-are-disappointing-1a5ff1ac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:24
+
+#### [Market chaos gives money managers a chance to beat index funds — just like they’re supposed to do](https://www.marketwatch.com/story/market-chaos-gives-skilled-managers-a-chance-to-beat-index-funds-just-like-theyre-supposed-to-do-b85cfd52?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 21:22
+
+---
+
+## 🆕 最新更新 (2026-04-22 09:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Adobe is betting a quarter of its value against the so-called SaaSpocalypse](https://www.marketwatch.com/story/adobe-is-betting-a-quarter-of-its-value-against-the-so-called-saaspocalypse-a2143e65?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:19
+
+#### [‘The Lord has taken care of me’: I’m 74. I went from working $14 an hour to $3.4 million. Here’s how I did it.](https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:15
+
+#### [Lily Allen and David Harbour sell their quirky Brooklyn townhouse for $7 million, a year after breaking up](https://www.marketwatch.com/story/lily-allen-and-david-harbour-sell-their-quirky-brooklyn-townhouse-for-7-million-a-year-after-breaking-up-76cf01d7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:04
+
+#### [Citadel founder Ken Griffin just added a $38 million Park Avenue apartment to his $1.5 billion real estate portfolio](https://www.marketwatch.com/story/citadel-founder-ken-griffin-just-added-a-38-million-park-avenue-apartment-to-his-1-5-billion-real-estate-portfolio-93ae762a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 09:02
+
+#### [Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin](https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 07:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation accelerates to 3.3% in March as petrol prices jump](https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476)
+**发布时间**: 2026-04-22 09:01
+
+#### [Moscow to suspend Kazakh oil flows through key pipeline supplying Berlin](https://www.ft.com/content/3738ba48-b4e2-493d-96b1-0a80b4e2c4b8)
+**发布时间**: 2026-04-22 08:53
+
+#### [Keir Starmer’s growing list of apologies](https://www.ft.com/content/fbb89db5-feb8-4c4e-8cd7-5ba2a7871112)
+**发布时间**: 2026-04-22 04:00
+
+#### [2 container ships attacked in Strait of Hormuz after Trump extends ceasefire](https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292)
+**发布时间**: 2026-04-22 03:17
+
+#### [Anthropic investigating unauthorised access of powerful Mythos AI model](https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf)
+**发布时间**: 2026-04-21 23:56
+
+#### [Hormuz disruption raises risk of global food shock, traders warn](https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d)
+**发布时间**: 2026-04-21 22:29
+
+---
+
+## 🆕 最新更新 (2026-04-22 06:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation accelerates to 3.3% in March amid Iran energy shock](https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476)
+**发布时间**: 2026-04-22 06:27
+
+#### [Military briefing: Trump bolsters Gulf force](https://www.ft.com/content/f8d621b7-5eeb-4596-9805-3dd8b9f736d2)
+**发布时间**: 2026-04-22 04:00
+
+#### [Six lessons from history’s greatest financial crises](https://www.ft.com/content/0bd796c9-bc0e-43ab-bedd-d0294c2efd17)
+**发布时间**: 2026-04-22 04:00
+
+#### [UK pension funds face ‘huge’ costs to sell private assets](https://www.ft.com/content/c2df3627-f2f9-4141-b848-e578c0888f68)
+**发布时间**: 2026-04-22 04:00
+
+#### [Iran attacks container ship after Trump extends ceasefire](https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292)
+**发布时间**: 2026-04-22 03:17
+
+#### [Warsh rejects accusations he would be Trump’s ‘sock puppet’](https://www.ft.com/content/d6267707-4033-4360-b4bf-e01e439a5528)
+**发布时间**: 2026-04-22 01:08
+
+#### [SpaceX obtains right to buy AI start-up Cursor for $60bn](https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860)
+**发布时间**: 2026-04-22 00:39
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Prices for World Cup public transportation range from free to $150. Here’s what’s going on.](https://www.marketwatch.com/story/prices-for-world-cup-public-transportation-range-from-free-to-150-heres-whats-going-on-4e379437?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 01:28
+
+#### [What is Cursor? SpaceX could buy the AI company for a whopping $60 billion.](https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-22 00:01
+
+---
+
+## 🆕 最新更新 (2026-04-21 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?](https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 23:16
+
+#### [Trump Media CEO Devin Nunes is leaving. This digital-media veteran will take his place.](https://www.marketwatch.com/story/trump-media-ceo-devin-nunes-is-leaving-this-digital-media-veteran-will-take-his-place-ce2aed2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 23:14
+
+#### [Airlines cut flights as fuel costs surge — an economic fallout from the Iran war that markets may be missing](https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 22:04
+
+#### [What Apple investors need to know about the next steps for the company and its new CEO](https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:28
+
+#### [ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026](https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:17
+
+#### [The meme-stock frenzy is a warning — these 7 high-quality stocks are better bets](https://www.marketwatch.com/story/from-allbirds-to-ai-the-meme-stock-frenzy-is-warning-you-to-own-this-quality-antimeme-portfolio-instead-6714bb16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:10
+
+#### [This is what critics of Apple and Tim Cook get dead wrong](https://www.marketwatch.com/story/this-is-what-critics-of-apple-and-tim-cook-get-dead-wrong-48fc56dc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 21:06
+
+#### [Here’s what will really matter to Tesla investors when the company reports earnings](https://www.marketwatch.com/story/heres-what-will-really-matter-to-tesla-investors-when-it-reports-earnings-ba621f85?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 20:59
+
+#### [GE sees fuel prices higher than they are now through the summer due to the Iran conflict](https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX strikes $60bn deal to acquire AI start-up Cursor](https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860)
+**发布时间**: 2026-04-21 22:51
+
+#### [Iran accuses US of violating international law over vessel seizure in Gulf of Oman](https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add)
+**发布时间**: 2026-04-21 22:46
+
+#### [Trump extends Iran ceasefire as peace talks hit impasse](https://www.ft.com/content/792cf320-25ef-4d6a-bce5-028d0f3afba9)
+**发布时间**: 2026-04-21 22:24
+
+#### [Warsh sidesteps questions over Trump’s influence on Fed rate policy](https://www.ft.com/content/d6267707-4033-4360-b4bf-e01e439a5528)
+**发布时间**: 2026-04-21 19:13
+
+#### [Elite law firm Sullivan & Cromwell admits to AI ‘hallucinations’](https://www.ft.com/content/657d86df-5e0d-4d03-bf0c-cb768a58e758)
+**发布时间**: 2026-04-21 19:01
+
+#### [Starmer’s political woes deepen as Mandelson scandal saps his authority](https://www.ft.com/content/b4038290-5df4-4f65-ac48-f39cd5d6be3c)
+**发布时间**: 2026-04-21 18:41
+
+#### [Warsh signals evolution, not revolution at the Fed](https://www.ft.com/content/6ed5f7a6-3c2f-4e8d-9a13-48d70428bb0e)
+**发布时间**: 2026-04-21 18:25
+
+#### [Iranian tankers bypass US blockade](https://www.ft.com/content/21dff2c7-1e27-4f74-81d8-31dcdbe9188e)
+**发布时间**: 2026-04-21 17:21
+
+#### [Britain’s prime minister is in power without purpose](https://www.ft.com/content/e5445535-f87e-46bb-bb28-25bdb71f1b39)
+**发布时间**: 2026-04-21 17:02
+
+#### [City firms relax office-working policies as Tube strikes hit London](https://www.ft.com/content/d7c81b2f-8b07-436a-8830-5d6ddb939fe0)
+**发布时间**: 2026-04-21 16:38
+
+#### [Why America is falling out of love with Israel](https://www.ft.com/content/353eb2de-25c3-4dd8-a7b8-a6ce8b3a9ec0)
+**发布时间**: 2026-04-21 11:00
+
+---
+
+## 🆕 最新更新 (2026-04-21 09:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so](https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 09:30
+
+#### [‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I complain?](https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 09:29
+
+#### [Ben Affleck gives Jennifer Lopez his share of $60 million, 24-bathroom Beverly Hills mansion](https://www.marketwatch.com/story/ben-affleck-gives-jennifer-lopez-his-share-of-60-million-24-bathroom-beverly-hills-mansion-eec5b224?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 09:02
+
+#### [Lizzo finally sells her Beverly Hills mansion at a big loss](https://www.marketwatch.com/story/lizzo-finally-sells-her-beverly-hills-mansion-at-a-big-loss-cad733b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 08:58
+
+#### [Alaska Air says it will spend more on fuel this quarter than it earned the last two years](https://www.marketwatch.com/story/alaska-air-says-it-will-spend-more-on-fuel-this-quarter-than-it-earned-the-last-two-years-587d85c8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 08:47
+
+#### [The end of freedom of the seas: Why global shipping may never be the same](https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 07:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple’s next chief Ternus faces defining AI moment](https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c)
+**发布时间**: 2026-04-21 08:45
+
+#### [Robbins says No 10 created ‘atmosphere of pressure’ over Mandelson appointment](https://www.ft.com/content/0699aafc-13ff-491a-be8f-2d05fa356aa9)
+**发布时间**: 2026-04-21 07:37
+
+#### [Apple chief Tim Cook to hand over to John Ternus in September](https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615)
+**发布时间**: 2026-04-21 07:37
+
+#### [‘Kiss of death’: how the US killed a Swiss merchant bank](https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e)
+**发布时间**: 2026-04-21 04:00
+
+#### [Sotheby’s strikes $100mn debt deal with KKR backed by auction fees](https://www.ft.com/content/72ecd622-e40c-4937-b31c-c9fc9c7c89d9)
+**发布时间**: 2026-04-21 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-21 07:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK wage growth slowed on eve of Iran war](https://www.ft.com/content/36ecd045-e15f-4c68-8663-3c5f09d62439)
+**发布时间**: 2026-04-21 06:33
+
+#### [‘Kiss of death’: How the US killed a Swiss merchant bank](https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e)
+**发布时间**: 2026-04-21 04:00
+
+#### [Will social media addiction go the way of cigarettes?](https://www.ft.com/content/154d34b6-3e04-456b-af33-ea12c8fa5945)
+**发布时间**: 2026-04-21 04:00
+
+#### [Babcock’s cheaper warships offer the Royal Navy hope](https://www.ft.com/content/82fafcaf-7770-41d3-9497-e25ffad27192)
+**发布时间**: 2026-04-21 04:00
+
+#### [Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction](https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4)
+**发布时间**: 2026-04-21 04:00
+
+#### [‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says](https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add)
+**发布时间**: 2026-04-21 03:29
+
+#### [Bezos’s AI lab nears $38bn valuation in funding deal](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded)
+**发布时间**: 2026-04-21 01:06
+
+#### [Anthropic and Amazon agree $100bn AI infrastructure deal](https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923)
+**发布时间**: 2026-04-21 00:41
+
+#### [Ex-Foreign Office head to accuse Number 10 of pressuring him over Mandelson appointment](https://www.ft.com/content/0537f106-64f6-42a4-a9e5-d17a6c81cdca)
+**发布时间**: 2026-04-20 23:33
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bonds could lag stocks for the rest of 2026, according to this contrarian signal](https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 01:46
+
+#### [Okta’s stock is surging. Here’s why identity security has become the next hot thing.](https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 01:22
+
+---
+
+## 🆕 最新更新 (2026-04-20 23:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support](https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 22:52
+
+#### [Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.](https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 22:43
+
+#### [This AI power company ousted its CEO. Why that could help it sign up its first customer.](https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:49
+
+#### [Do I earn too much to contribute to an IRA?](https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [Why Cadence’s ‘ChatGPT moment’ may have already arrived](https://www.marketwatch.com/story/why-cadences-chatgpt-moment-may-have-already-arrived-5379e63e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [AST SpaceMobile’s stock falls after failure of Jeff Bezos-backed satellite launch](https://www.marketwatch.com/story/ast-spacemobiles-stock-is-falling-after-failure-of-jeff-bezos-backed-satellite-launch-a46cb653?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:47
+
+#### [I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?](https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:19
+
+#### [McDonald’s $3 menu is about to kick off. Here’s why Wall Street is already a fan.](https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 21:06
+
+#### [Psychedelic stocks surge after Trump supports using drugs like LSD for mental health](https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 20:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump’s labour secretary resigns in latest US cabinet departure](https://www.ft.com/content/0e02bf64-13ca-427f-807f-145e45f5166a)
+**发布时间**: 2026-04-20 22:14
+
+#### [Apple CEO Tim Cook to hand over to John Ternus in September](https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615)
+**发布时间**: 2026-04-20 21:03
+
+#### [Starmer accused of scapegoating officials over Mandelson scandal](https://www.ft.com/content/8d62a74d-77d0-4dc8-a8f1-32347ef4f2de)
+**发布时间**: 2026-04-20 18:52
+
+#### [Kevin Warsh to say Fed independence not threatened by political pressure](https://www.ft.com/content/3654184a-4ffc-44d9-9d21-61229bf9fbd7)
+**发布时间**: 2026-04-20 18:10
+
+#### [The Mandelson fiasco reveals the true nature of Starmerism](https://www.ft.com/content/0f339074-031f-4068-83ec-8547b48c9533)
+**发布时间**: 2026-04-20 17:42
+
+#### [Trump’s social media posts have transformed oil trading, says Citadel](https://www.ft.com/content/23b14d1b-8efa-4346-ab06-30db101e7748)
+**发布时间**: 2026-04-20 17:14
+
+#### [Miliband to unveil move to delink UK gas and electricity prices](https://www.ft.com/content/03332af3-6fea-4e60-b0db-510172e7bb10)
+**发布时间**: 2026-04-20 12:31
+
+#### [The Iran crisis has not yet peaked](https://www.ft.com/content/84566148-26de-4bb7-9d7c-d943c4c904ca)
+**发布时间**: 2026-04-20 11:42
+
+#### [‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says](https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2)
+**发布时间**: 2026-04-20 07:17
+
+---
+
+## 🆕 最新更新 (2026-04-20 10:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I will retire in my early 50s. I have $3.2 million — only $200,000 is in a traditional IRA. Have I beaten the IRS?](https://www.marketwatch.com/story/i-will-retire-in-my-early-50s-i-have-3-2-million-only-200-000-is-in-a-traditional-ira-have-i-beaten-the-irs-3ab5df98?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:30
+
+#### [Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty](https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:21
+
+#### [Singer Meghan Trainor finally sold her SoCal home for $6.8 million just before canceling her tour](https://www.marketwatch.com/story/singer-meghan-trainor-finally-sold-her-socal-home-for-6-8-million-just-before-canceling-her-tour-f2d3c976?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:05
+
+#### [‘Red flags’: Ryan Seacrest on what he looks for in a date, and he lists stunning Napa Valley estate for $19.8 million](https://www.marketwatch.com/story/red-flags-ryan-seacrest-on-what-he-looks-for-in-a-date-and-he-lists-stunning-napa-valley-estate-for-19-8-million-aa52e6c2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 09:01
+
+#### [How the world’s leading political risk consultant now assesses cease-fire after Strait of Hormuz closed again](https://www.marketwatch.com/story/worlds-leading-political-risk-consultant-says-a-collapse-in-the-strait-of-hormuz-cease-fire-is-still-a-big-threat-36845cbc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:59
+
+#### [American Airlines says it’s not interested in merging with United. One analyst sees consolidation elsewhere.](https://www.marketwatch.com/story/american-airlines-says-its-not-interested-in-merging-with-united-one-analyst-sees-consolidation-elsewhere-141f4354?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:24
+
+#### [The narrow foundations of the current rally — one company is responsible for half of S&P 500 earnings revisions](https://www.marketwatch.com/story/the-narrow-foundations-of-the-current-rally-one-company-is-responsible-for-half-of-s-p-500-earnings-revisions-68aadd26?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 08:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer set for vetting showdown with ‘heartbroken’ Olly Robbins](https://www.ft.com/content/9f8d01dd-4ef8-475e-8b76-9cb0e325fb60)
+**发布时间**: 2026-04-20 09:03
+
+#### [The Mandelson affair is about the government’s judgment, not process](https://www.ft.com/content/1ca6de4b-a178-41f8-ba2c-499393457c3f)
+**发布时间**: 2026-04-20 08:30
+
+#### [Japan issues tsunami warning after strong earthquake](https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf)
+**发布时间**: 2026-04-20 08:24
+
+#### [Oil rebounds as Iran threatens to retaliate for US attack on cargo ship](https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2)
+**发布时间**: 2026-04-20 07:17
+
+#### [Out of office, still hyper-responsive](https://www.ft.com/content/98ab4190-9dbc-4f6c-bc3f-1a8afd0f4cc1)
+**发布时间**: 2026-04-20 04:00
+
+#### [AI boom poised to be ‘massively disinflationary’, Northern Trust says](https://www.ft.com/content/7ec229f4-200e-4f34-ba6d-0642397d03e3)
+**发布时间**: 2026-04-20 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-20 07:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tariff refunds are coming: Here’s who will get them first](https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories)
+**发布时间**: 2026-04-20 06:48
+
+#### [New York City is floating a $500 million second-home tax. It would hurt industries that support thousands of jobs](https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 22:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US navy seizes Iranian ship after it breaches blockade](https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf)
+**发布时间**: 2026-04-20 05:56
+
+#### [Kevin Warsh: Trump’s next fall guy at the Fed?](https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d)
+**发布时间**: 2026-04-20 04:00
+
+#### [The return of the e-merging markets](https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8)
+**发布时间**: 2026-04-20 04:00
+
+#### [FTSE bosses receive 18% pay bump this year in global fight for talent](https://www.ft.com/content/474f0ddb-b9ad-4d09-89e6-928dd98a7650)
+**发布时间**: 2026-04-20 04:00
+
+#### [Russian economy is faltering despite oil windfall, Sweden warns](https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd)
+**发布时间**: 2026-04-20 04:00
+
+#### [Defence spending is ‘magnet’ for criminals, warns EU fraud chief](https://www.ft.com/content/fe78cee3-c1a0-453a-b7da-683963c6e52a)
+**发布时间**: 2026-04-20 04:00
+
+#### [Ex-Foreign Office head takes legal advice over Mandelson vetting dismissal](https://www.ft.com/content/034361bc-641b-4a73-a3d1-3ee76c4ed573)
+**发布时间**: 2026-04-19 10:27
+
+---
+
+## 🆕 最新更新 (2026-04-19 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures tumble, oil surges as this weekend’s Iran developments rekindle uncertainty](https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 23:29
+
+#### [The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.](https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 20:41
+
+#### [These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.](https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 20:13
+
+#### [I’m planning to retire at 60. Should I sell my house and invest the $500,000?](https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 12:36
+
+#### [‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?](https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories)
+**发布时间**: 2026-04-19 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Property asking prices rise in April despite higher UK mortgage rates](https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171)
+**发布时间**: 2026-04-19 23:01
+
+#### [Foreign carmakers turn to Chinese technology to remain relevant](https://www.ft.com/content/b17b605a-ac5d-4456-928b-7c19ea6c05b9)
+**发布时间**: 2026-04-19 23:01
+
+#### [US navy seizes Iranian ship after it breaches blockade, says Trump](https://www.ft.com/content/0e51cdea-99df-4913-8c71-03396c4a6faf)
+**发布时间**: 2026-04-19 22:08
+
+#### [Pro-Russia ex-president claims victory in Bulgaria’s elections](https://www.ft.com/content/0a4fc2b2-cebf-4202-9ac5-56a965fb262e)
+**发布时间**: 2026-04-19 21:37
+
+#### [Starmer battles for Downing Street future amid Mandelson vetting scandal](https://www.ft.com/content/e5369e6b-b5d7-4e04-9c43-4adb6d8c231e)
+**发布时间**: 2026-04-19 21:00
+
+#### [Impact of Iran war will hurt US even after conflict ends, economists warn](https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a)
+**发布时间**: 2026-04-19 17:00
+
+#### [Is London ready for the Green Party?](https://www.ft.com/content/4e9cf4ff-c3f8-4049-a897-5957501f97b8)
+**发布时间**: 2026-04-19 15:00
+
+#### [The US and Europe are still stronger together](https://www.ft.com/content/e4c9ee6e-5db5-436f-9b14-a625b9a77145)
+**发布时间**: 2026-04-19 12:00
+
+#### [The stock market’s new approach to valuation](https://www.ft.com/content/7227583f-3335-4cc2-a1af-24db59ebe3fa)
+**发布时间**: 2026-04-19 11:00
+
+---
+
+## 🆕 最新更新 (2026-04-19 06:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wealth advisers made more than $2bn from private capital fees](https://www.ft.com/content/dbc5aac7-fbfd-466a-aa46-bc562f249cec)
+**发布时间**: 2026-04-19 04:09
+
+#### [How Iran has been studying lessons from the war in Ukraine](https://www.ft.com/content/08629b39-9d82-4046-a1b9-3023009ffa81)
+**发布时间**: 2026-04-19 04:00
+
+#### [Of course Trump thinks he’s the Messiah — his disciples tell him so](https://www.ft.com/content/529de651-24b2-4e96-b01e-18cd71b17739)
+**发布时间**: 2026-04-19 04:00
+
+#### [The annoyance economy isn’t going anywhere](https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7)
+**发布时间**: 2026-04-19 04:00
+
+#### [Surge in HMRC probes over unpaid VAT by large companies](https://www.ft.com/content/75e7a380-4859-4f82-9859-c84429b56f92)
+**发布时间**: 2026-04-19 04:00
+
+#### [BlackRock warns of hit to European stocks from energy crisis](https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb)
+**发布时间**: 2026-04-19 04:00
+
+#### [Brussels pushes remote working to ease energy crisis](https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21)
+**发布时间**: 2026-04-19 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-18 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs](https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 22:42
+
+#### [Caregiving has become so crazy expensive that it’s financially devastating to most families](https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 20:29
+
+#### [Planning to age in place? Watch out for these hidden costs.](https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 20:29
+
+#### [Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results](https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:43
+
+#### [This ‘hidden’ price of oil is going to hit your electric bill next](https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:16
+
+#### [These stocks and ETFs can beat the ‘sell in May’ slump — and dodge the 2026 midterm blues](https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 19:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Burnham allies identify fresh path back to Westminster as Starmer battles calls to quit](https://www.ft.com/content/2310ab87-db53-4293-9f34-8b3a5331911e)
+**发布时间**: 2026-04-18 16:00
+
+#### [Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened](https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22)
+**发布时间**: 2026-04-18 15:10
+
+#### [Anthropic’s Mythos AI model tests limits of global cyber defences](https://www.ft.com/content/b9e79c53-9f14-4b7a-b250-d7a230ca8433)
+**发布时间**: 2026-04-18 11:00
+
+#### [Trump family’s World Liberty crypto venture faces investor backlash](https://www.ft.com/content/ac47ca32-e526-4a5a-bb30-5b3efebe8e0d)
+**发布时间**: 2026-04-18 11:00
+
+#### [Economic pain from Iran war will hit poor countries hardest, officials say](https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06)
+**发布时间**: 2026-04-18 11:00
+
+#### [Can Trump finally make a nuclear deal with Iran?](https://www.ft.com/content/7a06181a-310f-4ccb-98e8-3e5c920141d4)
+**发布时间**: 2026-04-18 09:23
+
+---
+
+## 🆕 最新更新 (2026-04-18 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil falls as US and Iran declare Strait of Hormuz open to shipping](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e)
+**发布时间**: 2026-04-17 20:54
+
+---
+
+## 🆕 最新更新 (2026-04-18 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The coming global food crisis](https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df)
+**发布时间**: 2026-04-18 04:00
+
+#### [The return of Londonophobia](https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6)
+**发布时间**: 2026-04-18 04:00
+
+#### [Why higher pay hasn’t made young adults feel richer](https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5)
+**发布时间**: 2026-04-18 04:00
+
+#### [Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative](https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45)
+**发布时间**: 2026-04-18 04:00
+
+#### [Boom in UK ‘staycations’ as war puts holidaymakers off overseas travel](https://www.ft.com/content/bb3a8410-bc2b-4f62-86c1-0fefc181f164)
+**发布时间**: 2026-04-18 04:00
+
+#### [Airbnb adds hotels to its platform in bid to boost growth](https://www.ft.com/content/d0dff36f-fa29-4a88-93d0-e7be0a58eba9)
+**发布时间**: 2026-04-18 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Think the rally is safe? This elite market-timing indicator says a correction is overdue.](https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-18 00:48
+
+---
+
+## 🆕 最新更新 (2026-04-17 23:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I am the trustee’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?](https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 23:16
+
+#### [Cal-Maine’s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers](https://www.marketwatch.com/story/cal-maines-stock-falls-as-doj-reportedly-weighs-bigger-crackdown-on-major-egg-producers-96e8315b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:56
+
+#### [I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?](https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:41
+
+#### [Why do older sellers get less money for their homes than younger sellers?](https://www.marketwatch.com/story/why-do-older-sellers-get-less-money-for-their-homes-than-younger-sellers-9e48c2ce?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:16
+
+#### [‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?](https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 22:08
+
+#### [Meta reportedly eyes more layoffs, targeting 10% of staff](https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:56
+
+#### [Nvidia rival Cerebras is taking another swing at an IPO](https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:42
+
+#### [New Social Security proposal would cap payments for wealthy people now — and many more later on](https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 21:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil slumps as US and Iran declare Strait of Hormuz open to shipping](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e)
+**发布时间**: 2026-04-17 20:54
+
+#### [Allies of Olly Robbins defend handling of Mandelson vetting](https://www.ft.com/content/58c01bc9-12bf-440c-9a91-01c130a6a9c1)
+**发布时间**: 2026-04-17 20:17
+
+#### [Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US](https://www.ft.com/content/22f2f356-ffa7-478f-858c-8a2640ca3bf9)
+**发布时间**: 2026-04-17 20:14
+
+#### [Starmer refuses to quit after ‘unforgivable’ Foreign Office vetting fiasco](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 20:11
+
+#### [Organised crime suspect Daniel Kinahan arrested in Dubai](https://www.ft.com/content/50bbc96c-3db4-4d3f-a623-e7ab80dc7480)
+**发布时间**: 2026-04-17 18:38
+
+#### [Return of Mandelson scandal leaves Labour MPs in despair](https://www.ft.com/content/47513301-e385-47e4-8dc0-2a8db6f954f6)
+**发布时间**: 2026-04-17 17:17
+
+#### [Lloyd’s of London to end flagship diversity event](https://www.ft.com/content/e17cf25a-4c75-4139-abe5-44630d7a6615)
+**发布时间**: 2026-04-17 17:11
+
+#### [The Starmer-shaped hole where a prime minister should be](https://www.ft.com/content/03a609b7-7a87-4e8a-8970-626a176c35c1)
+**发布时间**: 2026-04-17 17:01
+
+#### [Investors look through the turmoil](https://www.ft.com/content/a3a5296d-23fa-4014-9f8a-9305b1d68406)
+**发布时间**: 2026-04-17 17:00
+
+#### [EU prepares for jet fuel sharing as supplies dwindle](https://www.ft.com/content/494c1181-7bc3-42f3-b1af-c1dff3f62886)
+**发布时间**: 2026-04-17 14:15
+
+#### [Trump says Iran peace talks will ‘probably’ resume this weekend](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 12:59
+
+#### [Why Coutts is making an unexpected play for video games](https://www.ft.com/content/b4cf0513-5508-472d-8ed9-8260315a96e0)
+**发布时间**: 2026-04-17 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-17 09:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?](https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 09:15
+
+#### [9 months after Ozzy’s death, Sharon Osbourne lists L.A. mansion for $17 million](https://www.marketwatch.com/story/9-months-after-ozzys-death-sharon-osbourne-lists-l-a-mansion-for-17-million-c4a3fd5d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mandelson vetting scandal shows Starmer isn’t up to the job](https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9)
+**发布时间**: 2026-04-17 08:30
+
+#### [Starmer battles calls to resign over Mandelson vetting](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 07:34
+
+#### [OnlyFans tops $3bn valuation in stake sale after death of owner](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc)
+**发布时间**: 2026-04-17 04:00
+
+#### [UK companies ‘should be worried’ about Anthropic’s latest AI model, minister says](https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792)
+**发布时间**: 2026-04-16 17:30
+
+---
+
+## 🆕 最新更新 (2026-04-17 06:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Data centre delays threaten to choke AI expansion](https://www.ft.com/content/f2bae708-f5c3-49b0-99c0-e4a11552427b)
+**发布时间**: 2026-04-17 04:00
+
+#### [Welcome to the age of hoarding](https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada)
+**发布时间**: 2026-04-17 04:00
+
+#### [The white-collar defence lawyers with nothing to do](https://www.ft.com/content/befa71e1-fcf1-4c02-9662-a572543ddcbf)
+**发布时间**: 2026-04-17 04:00
+
+#### [Macron and Starmer to hold summit on plan to secure Strait of Hormuz](https://www.ft.com/content/a348e5e0-c9d3-424c-b8a9-7903fa817b7d)
+**发布时间**: 2026-04-17 04:00
+
+#### [Latest AI models could threaten world banking system, financial officials warn](https://www.ft.com/content/5760b56a-ec83-46da-a301-4b0e8c73c238)
+**发布时间**: 2026-04-17 04:00
+
+#### [Wall Street banks start trading derivatives to bet on pain in private credit](https://www.ft.com/content/54076a09-7a66-44f3-8e70-343f6d601e50)
+**发布时间**: 2026-04-17 04:00
+
+#### [OnlyFans nears deal to sell minority stake at more than $3bn valuation](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc)
+**发布时间**: 2026-04-17 04:00
+
+#### [Trump says Iran war ‘should be ending pretty soon’ as Lebanon ceasefire begins](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 03:22
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [2 expensive mistakes most retirees make — and how to avoid them](https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 02:33
+
+#### [Mutual insurance companies are paying record-breaking dividends to their customers this year. Is using one right for you?](https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:59
+
+#### [With the largest industrial IPO since 1999, this air-quality giant’s stock opens with a bang](https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:55
+
+---
+
+## 🆕 最新更新 (2026-04-16 23:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pepsi says price cuts and wellness push are bringing back customers — and the stock surges](https://www.marketwatch.com/story/pepsi-says-price-cuts-and-wellness-push-are-bringing-back-customers-and-the-stock-surges-e6e5ea05?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:33
+
+#### [Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say](https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 23:01
+
+#### [AMD has ‘indispensable assets’ — powering the stock toward its best run in two decades](https://www.marketwatch.com/story/amd-has-indispensable-assets-powering-the-stock-toward-its-best-run-in-two-decades-aa44c469?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:58
+
+#### [Microsoft’s stock sees its best four-day stretch in six years — with an extreme bounce](https://www.marketwatch.com/story/microsofts-stock-sees-its-best-four-day-stretch-in-six-years-with-an-extreme-bounce-3eb834d6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:45
+
+#### [‘Felony charges are pending’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?](https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:30
+
+#### [‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?](https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 22:14
+
+#### [Netflix co-founder Reed Hastings to exit company, saying it’s so strong it doesn’t need him anymore](https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 21:52
+
+#### [Tesla, IBM and Intel report earnings next week — here’s the best way to play a volatile market](https://www.marketwatch.com/story/the-s-p-500s-record-high-may-be-an-illusion-and-this-rally-is-a-warning-893b81e5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 21:26
+
+#### [This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next](https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 20:40
+
+#### [Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses](https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic in talks to give US government access to its Mythos model](https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4)
+**发布时间**: 2026-04-16 23:30
+
+#### [Foreign Office top civil servant forced out over Mandelson vetting fiasco](https://www.ft.com/content/f0f5fddc-04e8-4cf2-8dd8-eb6d760b9fff)
+**发布时间**: 2026-04-16 22:20
+
+#### [Israel agrees to halt its war with Hizbollah in Lebanon](https://www.ft.com/content/34c827e4-eda0-4094-ab29-d104c49469c6)
+**发布时间**: 2026-04-16 21:46
+
+#### [Netflix founder Reed Hastings to step down from board](https://www.ft.com/content/1c89d041-f46f-4190-b9b0-3565c0cdd079)
+**发布时间**: 2026-04-16 20:37
+
+#### [Senate Democrats raise alarm over Kevin Warsh’s $100mn of ‘undisclosed’ assets](https://www.ft.com/content/ba9a86fe-bc92-4146-ba07-c724578deb14)
+**发布时间**: 2026-04-16 19:13
+
+#### [US oil bosses warn Trump to stand firm against Iran’s Hormuz toll](https://www.ft.com/content/0f41cbd9-58e5-4f0c-b975-3e6b919f1431)
+**发布时间**: 2026-04-16 19:05
+
+#### [Trump says next round of US-Iran talks could happen over weekend](https://www.ft.com/content/25d286a0-df45-448c-9e90-5dce350624b4)
+**发布时间**: 2026-04-16 18:38
+
+#### [UK firms ‘should be worried’ about Anthropic’s latest AI model, minister says](https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792)
+**发布时间**: 2026-04-16 17:30
+
+#### [The Mythos cyber scare signals the economics of AI scarcity](https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f)
+**发布时间**: 2026-04-16 17:05
+
+#### [The great independence charade](https://www.ft.com/content/1b915814-48e0-44c8-9cf3-63debaeb51d0)
+**发布时间**: 2026-04-16 11:03
+
+---
+
+## 🆕 最新更新 (2026-04-16 09:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million](https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 09:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ceasefire with Israel expected ‘soon’, say Lebanese officials](https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81)
+**发布时间**: 2026-04-16 08:37
+
+#### [Taiwan overtakes UK in stock market value on AI chip boom](https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc)
+**发布时间**: 2026-04-16 07:03
+
+---
+
+## 🆕 最新更新 (2026-04-16 06:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ceasefire between Israel and Hizbollah expected ‘soon’, say Lebanese officials](https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81)
+**发布时间**: 2026-04-16 06:24
+
+#### [UK economy beat expectations to grow by 0.5% in February](https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5)
+**发布时间**: 2026-04-16 06:21
+
+#### [Gulf states turn to private deals in $10bn wartime borrowing spree](https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7)
+**发布时间**: 2026-04-16 04:00
+
+#### [How the Strait of Hormuz will change Iran’s regime](https://www.ft.com/content/f3c8decc-0c59-49fa-9854-ddd9103279f4)
+**发布时间**: 2026-04-16 04:00
+
+#### [The pope versus the president: how Leo became Trump’s fearless foe](https://www.ft.com/content/4f67aa87-9210-402d-bfef-b71b294d65cb)
+**发布时间**: 2026-04-16 04:00
+
+#### [The NHS should keep Palantir for patients’ sake](https://www.ft.com/content/4ceee73c-b816-490c-a2ca-fc3896f5f51b)
+**发布时间**: 2026-04-16 04:00
+
+#### [Pensions drawdown: can the 4 Per Cent Rule survive stagflation?](https://www.ft.com/content/d6a0aaca-949c-420d-9431-ec9c170e6a05)
+**发布时间**: 2026-04-16 04:00
+
+#### [Nato in ‘turf war’ with EU over defence spending](https://www.ft.com/content/00ea4f9b-65f1-4080-b526-9783fa8a4f83)
+**发布时间**: 2026-04-16 04:00
+
+#### [Deterrence costs and we will all have to pay](https://www.ft.com/content/bfea33f7-a736-4a4c-94b2-5a5eb56b7163)
+**发布时间**: 2026-04-16 04:00
+
+#### [British investor builds $500mn stake in TikTok owner](https://www.ft.com/content/b4b172fa-47a7-464e-92f0-73f3c7d055b7)
+**发布时间**: 2026-04-16 04:00
+
+#### [The tax-focused hedge fund craze taking over Wall Street](https://www.ft.com/content/fad9d0ca-0b7a-4c22-8cfe-fb26fea9219b)
+**发布时间**: 2026-04-16 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is Tesla a chip stock now? Investors are cheering a semiconductor milestone.](https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-16 02:42
+
+---
+
+## 🆕 最新更新 (2026-04-15 23:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How the Globalstar purchase could turn Amazon’s Leo into a satellite powerhouse](https://www.marketwatch.com/story/how-the-globalstar-purchase-could-turn-amazons-leo-into-a-satellite-powerhouse-4b27cdf5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 23:18
+
+#### [I’m selling my law practice and retiring. Do I pay off the $2 million loan on my office building — or keep the mortgage?](https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:57
+
+#### [Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly. Here’s what happens next.](https://www.marketwatch.com/story/live-nation-stock-falls-as-jury-finds-ticketing-giant-acted-as-an-illegal-monopoly-1f21ac77?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:46
+
+#### [Microsoft’s stock has sprung back to life — and is on its strongest run in 3 years, by one measure](https://www.marketwatch.com/story/microsofts-stock-has-sprung-back-to-life-its-on-its-strongest-run-in-3-years-by-one-measure-02b7e184?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:13
+
+#### [U.S. businesses hit the brakes on hiring and spending as Iran war dims optimism over economy, Fed report finds](https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:12
+
+#### [Google’s stake in SpaceX could be worth more than most companies on the planet](https://www.marketwatch.com/story/googles-stake-in-spacex-could-be-worth-more-than-most-companies-on-the-planet-9ef1a6bb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 22:00
+
+#### [Allbirds’ AI pivot sends its stock soaring nearly 600%. We’ve seen this movie before.](https://www.marketwatch.com/story/allbirds-ai-pivot-sends-its-stock-soaring-300-weve-seen-this-film-before-04665b32?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 21:57
+
+#### [The ‘ultimate contrarian trade’ is starting to pay off for investors. Why it might have more room to run.](https://www.marketwatch.com/story/the-ultimate-contrarian-trade-is-starting-to-pay-off-for-investors-why-it-might-have-more-room-to-run-58141cac?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 21:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Goldman president warns private credit funds are not marketed properly](https://www.ft.com/content/3e91f018-d9c1-4ef4-a416-f80c97d930d8)
+**发布时间**: 2026-04-15 22:52
+
+#### [S&P 500 hits record high as markets surge back from Iran shock](https://www.ft.com/content/7d30723d-f2b1-4d02-a9f0-76ccedb0f7ad)
+**发布时间**: 2026-04-15 21:43
+
+#### [Goldman traders wrongfooted as Iran war upended interest rate expectations](https://www.ft.com/content/1f2d514d-4418-4b77-a3f5-2181080b670c)
+**发布时间**: 2026-04-15 21:42
+
+#### [Veteran investor Mark Mobius dies at 89](https://www.ft.com/content/590c65f4-6261-4dd7-b8ea-73b78fa23479)
+**发布时间**: 2026-04-15 19:16
+
+#### [Saudi wealth fund resets priorities after decade of heavy spending](https://www.ft.com/content/9fea256f-a60b-4d37-9ff0-c7c094cdda79)
+**发布时间**: 2026-04-15 19:02
+
+#### [Saudi Arabia’s PIF on verge of cutting support for LIV Golf](https://www.ft.com/content/76dfb7ee-ebf4-4030-8c8f-1c0c23ef5b67)
+**发布时间**: 2026-04-15 17:15
+
+#### [Trump threatens to fire Jay Powell and refuses to halt criminal probe](https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3)
+**发布时间**: 2026-04-15 17:08
+
+#### [US crude exports hit record as Iran war disrupts Middle East supplies](https://www.ft.com/content/b35dc63e-b016-4ed4-a967-fd132cc552c4)
+**发布时间**: 2026-04-15 16:37
+
+#### [UK gas prices dip below pre-Iran war levels in boost for Reeves](https://www.ft.com/content/d6459373-c681-4787-9c52-48ccda530da7)
+**发布时间**: 2026-04-15 16:06
+
+#### [Trading firm boss revealed as buyer of Nick Candy’s £275mn mansion](https://www.ft.com/content/9c065130-31e9-4129-bf6b-da08723ccdb2)
+**发布时间**: 2026-04-15 15:30
+
+#### [Rate setters face ‘double danger’ from Iran war and tariffs, Fed official warns](https://www.ft.com/content/345e5dbc-d60a-4c78-a781-63c3b624a451)
+**发布时间**: 2026-04-15 15:00
+
+#### [The weird resilience of the EU](https://www.ft.com/content/927ef2c7-cbf3-4bc1-9bdd-f9884a09d878)
+**发布时间**: 2026-04-15 11:26
+
+---
+
+## 🆕 最新更新 (2026-04-15 09:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Struggling to keep pace with demand, ASML raises outlook after barnstorming first quarter](https://www.marketwatch.com/story/struggling-to-keep-pace-with-demand-asml-raises-outlook-after-barnstorming-first-quarter-f6d2f403?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 09:19
+
+#### [Oil futures hold to tight range as hopes of peace deal between U.S. and Iran grow](https://www.marketwatch.com/story/oil-futures-hold-to-tight-range-as-hopes-of-peace-deal-between-u-s-and-iran-grow-2d8733b4?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 09:14
+
+#### [How film producer and Arizona developer Anita Verma-Lallian built a $1.5 billion real estate portfolio](https://www.marketwatch.com/story/how-film-producer-and-arizona-developer-anita-verma-lallian-built-a-1-5-billion-real-estate-portfolio-0da42d29?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 09:01
+
+#### [Daniel Craig and Rachel Weisz sell their elegant Brooklyn townhouse for $11.8 million](https://www.marketwatch.com/story/daniel-craig-and-rachel-weisz-sell-their-elegant-brooklyn-townhouse-for-11-8-million-eebe1d3b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 08:58
+
+#### [Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised.](https://www.marketwatch.com/story/hermes-and-gucci-sales-fall-short-on-middle-east-turmoil-investors-were-surprised-12ac51fc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 08:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European airports warn new border system causes up to three-hour delays](https://www.ft.com/content/ffb02bd6-fd48-4abc-b568-8353c495cd1e)
+**发布时间**: 2026-04-15 08:44
+
+#### [Trump’s push to cut US rates akin to ‘banana republic’, says Yellen](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23)
+**发布时间**: 2026-04-15 04:26
+
+#### [Should Europe welcome Chinese investment?](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55)
+**发布时间**: 2026-04-15 04:00
+
+#### [The mix of chaotic politics and a resilient economy can’t last](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae)
+**发布时间**: 2026-04-15 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-15 06:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s push to cut US interest rates akin to ‘banana republic’, says Yellen](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23)
+**发布时间**: 2026-04-15 04:26
+
+#### [Iran used Chinese spy satellite to target US bases](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355)
+**发布时间**: 2026-04-15 04:00
+
+#### [Iran faces halt to oil production within weeks if US blockade succeeds](https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55)
+**发布时间**: 2026-04-15 04:00
+
+#### [China shock 2.0: should Europe repel Chinese investment?](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55)
+**发布时间**: 2026-04-15 04:00
+
+#### [Private healthcare in the UK: helping or harming the NHS?](https://www.ft.com/content/cc443c43-f7c4-4545-87ad-5ddd4d91bd00)
+**发布时间**: 2026-04-15 04:00
+
+#### [Can global resilience trump disruption?](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae)
+**发布时间**: 2026-04-15 04:00
+
+#### [‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys](https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6)
+**发布时间**: 2026-04-15 04:00
+
+#### [Starmer plans May relaunch with King’s Speech](https://www.ft.com/content/2c50b596-5383-444d-8436-f9e88aaf308a)
+**发布时间**: 2026-04-15 04:00
+
+#### [US military says blockade of Iranian ports is ‘fully implemented’](https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736)
+**发布时间**: 2026-04-15 00:45
+
+#### [UK’s Help to Buy housing scheme mainly benefited higher earners, says think-tank](https://www.ft.com/content/0f416253-ef6e-4eb2-849c-e45d9078dccb)
+**发布时间**: 2026-04-14 23:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Need to file for a tax extension today? Read this first.](https://www.marketwatch.com/story/not-ready-for-tomorrows-tax-deadline-read-this-before-filing-for-a-last-minute-extension-c89c7849?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 04:02
+
+#### [A new CEO and a deal with Uber aren’t enough to lift this EV maker’s struggling stock](https://www.marketwatch.com/story/a-new-ceo-and-a-deal-with-uber-arent-enough-to-lift-this-ev-makers-struggling-stock-a3cf6f1b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 03:01
+
+#### [5 things to know about a potential airline merger of United and American](https://www.marketwatch.com/story/5-things-to-know-about-a-potential-merger-of-airlines-united-and-american-b140c0ed?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 00:04
+
+#### [‘She’s a smoker’: My mother, 55, has no car and no job. Should I buy her life insurance?](https://www.marketwatch.com/story/shes-a-smoker-my-mother-55-has-no-car-and-no-job-should-i-buy-her-life-insurance-e98caa2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 23:57
+
+#### [‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?](https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 23:57
+
+---
+
+## 🆕 最新更新 (2026-04-14 23:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BlackRock profits jump as it draws in $130bn](https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4)
+**发布时间**: 2026-04-14 22:52
+
+#### [OpenAI releases new cyber security model to limited group of customers](https://www.ft.com/content/cf3d62e0-1b6c-4e69-b5f7-facaca586dbf)
+**发布时间**: 2026-04-14 22:30
+
+#### [Strait of Hormuz tankers stop or turn around amid US blockade](https://www.ft.com/content/c61897ff-3ed2-4c19-ad31-41440f802f9f)
+**发布时间**: 2026-04-14 18:34
+
+#### [Fed chair nominee Kevin Warsh reveals assets worth more than $130mn](https://www.ft.com/content/c7d72f31-ef52-4817-9b2b-1e794b0bb975)
+**发布时间**: 2026-04-14 17:42
+
+#### [US stocks close higher after Trump floats new US-Iran talks within days](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1)
+**发布时间**: 2026-04-14 17:27
+
+#### [How the US can blockade the Strait of Hormuz](https://www.ft.com/content/5cacda11-883b-42c6-93df-20dd56e12e0b)
+**发布时间**: 2026-04-14 17:17
+
+#### [UK chancellor Rachel Reeves hits out at Iran war ‘folly’](https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1)
+**发布时间**: 2026-04-14 17:13
+
+#### [Wall Street banks break records as Iran war drives trading boom](https://www.ft.com/content/0b8fe58f-e392-4aa4-b3cd-c75f566d495e)
+**发布时间**: 2026-04-14 16:56
+
+#### [Trump says Meloni lacks courage](https://www.ft.com/content/284f10e1-f5d5-4378-b771-cc4002edee59)
+**发布时间**: 2026-04-14 15:54
+
+#### [Latham partners pocket record $8.7mn average pay](https://www.ft.com/content/a2d01f84-dc24-4595-9be4-800e78809ff5)
+**发布时间**: 2026-04-14 14:30
+
+#### [PwC plans overhaul of global consulting business](https://www.ft.com/content/fa2f8f28-7e6d-4813-88f8-0b2224c4dde6)
+**发布时间**: 2026-04-14 11:00
+
+#### [The ever-shrinking JD Vance](https://www.ft.com/content/63546c41-806f-45fe-a5e0-95a6a746a8ae)
+**发布时间**: 2026-04-14 10:19
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [History says there’s a good chance we haven’t seen the stock-market lows yet](https://www.marketwatch.com/story/history-says-theres-a-good-chance-we-havent-seen-the-stock-market-lows-yet-66d015fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 22:41
+
+#### [Why one analyst believes Microsoft’s stock may be bottoming out](https://www.marketwatch.com/story/why-one-analyst-believes-microsofts-stock-may-be-bottoming-out-560a3478?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 22:05
+
+#### [Nvidia’s stock is on a 10-day winning streak. Here’s why investors are getting back on board with AI.](https://www.marketwatch.com/story/nvidias-stock-is-on-a-10-day-winning-streak-heres-why-investors-are-getting-back-on-board-with-ai-bf0bb59e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 21:55
+
+#### [As S&P 500 approaches record highs, this is what could derail the stock-market rebound](https://www.marketwatch.com/story/as-s-p-500-approaches-record-highs-this-is-what-could-derail-the-stock-market-rebound-7456ebf8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 21:18
+
+#### [Why bitcoin’s next stop could be $98,000 after surmounting this key hurdle, technical analyst says](https://www.marketwatch.com/story/why-bitcoins-next-stop-could-be-98-000-after-surmounting-this-key-hurdle-technical-analyst-says-6e2eb6fa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:54
+
+#### [Amazon’s stock is on its best run since 2022 as Globalstar acquisition fuels rally](https://www.marketwatch.com/story/amazons-stock-is-on-its-best-run-since-2022-as-globalstar-acquisition-fuels-rally-5d5f22b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:42
+
+#### [The International Energy Agency is really worried about the global oil market](https://www.marketwatch.com/story/the-international-energy-agency-is-really-worried-about-the-global-oil-market-169a9930?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:35
+
+#### [Novo Nordisk’s stock rallied after drugmaker reveals deal with OpenAI](https://www.marketwatch.com/story/novo-nordisks-stock-rallies-after-drugmaker-reveals-deal-with-openai-af1005e6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 20:16
+
+#### [Albertsons cites slower GLP-1 growth, higher gas prices for a sales miss and downbeat outlook](https://www.marketwatch.com/story/albertsons-cites-slower-glp-1-growth-higher-gas-prices-for-a-sales-miss-and-downbeat-outlook-4e59ea12?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 19:49
+
+---
+
+## 🆕 最新更新 (2026-04-14 09:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [March saw the largest increase in global energy inflation in 25 years](https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:04
+
+#### [Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’](https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:03
+
+#### [Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney](https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 09:01
+
+#### [United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.](https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 08:39
+
+---
+
+## 🆕 最新更新 (2026-04-14 06:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP hails ‘exceptional’ quarter for oil traders as Iran war stokes volatility](https://www.ft.com/content/936125bc-4b95-4daf-9c1d-a1f690984e9a)
+**发布时间**: 2026-04-14 06:35
+
+#### [China’s Xi warns Iran conflict leaves world ‘beset by disarray’](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1)
+**发布时间**: 2026-04-14 04:31
+
+#### [China shock 2.0: the flood of high-tech goods that will change the world](https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a)
+**发布时间**: 2026-04-14 04:00
+
+#### [Why ‘glue work’ can finally shine in the age of AI](https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab)
+**发布时间**: 2026-04-14 04:00
+
+#### [JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions](https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc)
+**发布时间**: 2026-04-14 04:00
+
+#### [OpenAI investors question $852bn valuation as strategy shifts](https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982)
+**发布时间**: 2026-04-14 04:00
+
+#### [Geopolitical upheaval spurs family offices to open global branches](https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f)
+**发布时间**: 2026-04-14 04:00
+
+#### [Young trader who made $250mn on Russian crude sets sights on Guyana](https://www.ft.com/content/c58370ba-0d31-4320-ad33-7c2236bd23c8)
+**发布时间**: 2026-04-14 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Streaming viewers are OK with double the commercials as ‘subscription fatigue’ sets in](https://www.marketwatch.com/story/streaming-viewers-are-ok-with-double-the-commercials-as-subscription-fatigue-sets-in-5fa4d005?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 05:20
+
+#### [Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic](https://www.marketwatch.com/story/goldman-sachs-has-the-top-rank-among-the-s-p-500-by-this-remarkable-statistic-cedc206c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 02:23
+
+#### [This is the defense sector’s fastest grower — and a $20 billion trade most investors are missing](https://www.marketwatch.com/story/the-20-billion-drone-killer-trade-most-investors-are-missing-7fff2293?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 01:34
+
+#### [WNBA No. 1 draft pick Azzi Fudd will make $500,000 as a rookie — more than a 500% raise over last year’s pick](https://www.marketwatch.com/story/the-no-1-pick-in-tonights-wnba-draft-will-make-500-000-as-a-rookie-more-than-a-500-raise-over-last-years-pick-066b588c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 00:09
+
+#### [Private credit not only won’t spark a financial crisis — it may be more stable than your bank](https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:54
+
+---
+
+## 🆕 最新更新 (2026-04-13 23:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [If you’ve ever been tempted to ‘sell in May and go away’ — now is the time](https://www.marketwatch.com/story/if-youve-ever-been-tempted-to-sell-in-may-and-go-away-now-is-the-time-7b8b3a04?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:44
+
+#### [Intel’s stock just had its best 9-day stretch on record. Can it go even higher?](https://www.marketwatch.com/story/intels-stock-just-had-its-best-9-day-stretch-on-record-can-it-go-even-higher-13893363?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 22:38
+
+#### [My friend’s girlfriend went ‘ballistic’ after learning he gives his kids $19,000 a year. Is this a red flag?](https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:44
+
+#### [The No. 1 pick in tonight’s WNBA draft will make $500,000 as a rookie — more than a 500% raise over last year’s pick](https://www.marketwatch.com/story/the-no-1-pick-in-tonights-wnba-draft-will-make-500-000-as-a-rookie-more-than-a-500-raise-over-last-years-pick-066b588c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:11
+
+#### [As the Iran conflict squeezes global energy supplies, U.S. oil is gaining an unusual edge](https://www.marketwatch.com/story/as-iran-conflict-squeezes-global-energy-supplies-american-oil-becomes-a-vital-safety-net-15ce3c82?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 21:04
+
+#### [I gave my friend’s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?](https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:42
+
+#### [Oracle’s stock stands out as the software sector bounces to its best day in a year](https://www.marketwatch.com/story/oracles-stock-stands-out-as-the-software-sector-bounces-to-its-best-day-in-a-year-4bc68d4b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:27
+
+#### [Stock traders’ ‘WTF indicator’ is going off. Why that is a bullish sign — at least for now.](https://www.marketwatch.com/story/stock-traders-wtf-indicator-is-going-off-why-that-is-a-bullish-sign-at-least-for-now-81be0137?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 20:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reeves tells Gulf expats: come to ‘safe harbour’ Britain](https://www.ft.com/content/35d396e7-5590-4c65-9989-0c136e937fd7)
+**发布时间**: 2026-04-13 21:30
+
+#### [Iran open to talks with US, president says](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08)
+**发布时间**: 2026-04-13 21:03
+
+#### [Oil supply crunch intensifies as last Hormuz tankers reach refineries](https://www.ft.com/content/bcd72d2a-79cc-48db-a149-076cbca22a24)
+**发布时间**: 2026-04-13 20:33
+
+#### [Trump nominates Pimco executive to lead US Treasury’s international affairs](https://www.ft.com/content/b42bbe36-7a5a-40ce-91b1-9a48b55f414e)
+**发布时间**: 2026-04-13 20:16
+
+#### [Starmer accused of ‘corrosive complacency’ on UK defence by former Nato chief](https://www.ft.com/content/88b1f17a-28d1-4706-b1ee-cbe6a1278496)
+**发布时间**: 2026-04-13 20:00
+
+#### [Bain & Co vulnerability exposed by hacker a month after McKinsey](https://www.ft.com/content/e73ddecf-8c41-4ecb-ada3-77a163c8d69f)
+**发布时间**: 2026-04-13 19:02
+
+#### [Trump deletes ‘Jesus’ post after backlash from allies](https://www.ft.com/content/d3ba0017-981e-4ef8-b0e9-fc3276d5161b)
+**发布时间**: 2026-04-13 18:20
+
+#### [Mediators pursue Iran-US deal in back-channel diplomacy](https://www.ft.com/content/be392d6d-3db3-4062-90ce-26f28fcf3f93)
+**发布时间**: 2026-04-13 18:05
+
+#### [The end of the Viktor Orbán era](https://www.ft.com/content/74129743-5c8e-4090-9c1e-39d169408d5b)
+**发布时间**: 2026-04-13 17:25
+
+#### [Former Lafarge chief sentenced to six years in jail for financing terrorism](https://www.ft.com/content/54b1480f-43b8-4ef7-9319-d0e133b77194)
+**发布时间**: 2026-04-13 17:25
+
+#### [Why time is on Iran’s side](https://www.ft.com/content/2f1cbc7d-eeab-40e4-b940-61bf8b1e7959)
+**发布时间**: 2026-04-13 10:57
+
+---
+
+## 🆕 最新更新 (2026-04-13 07:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices soar above $100 a barrel as hope fades of end to Iran war](https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c)
+**发布时间**: 2026-04-13 06:15
+
+#### [The risks of Trump’s Strait of Hormuz blockade plan](https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb)
+**发布时间**: 2026-04-13 04:46
+
+#### [What happens in Sudan will not stay in Sudan](https://www.ft.com/content/4ff2b813-e347-4373-8355-d19a49af5391)
+**发布时间**: 2026-04-13 04:00
+
+#### [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f)
+**发布时间**: 2026-04-13 04:00
+
+#### [Carson Block sees new dawn for short sellers in AI disruption](https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7)
+**发布时间**: 2026-04-13 04:00
+
+#### [Stocks fall as US prepares for blockade of strait](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08)
+**发布时间**: 2026-04-13 03:25
+
+#### [Donald Trump lashes Pope Leo on social media for criticism of Iran war](https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc)
+**发布时间**: 2026-04-13 03:15
+
+#### [Hungary opposition delivers ‘regime change’](https://www.ft.com/content/b348e8f5-c70a-4176-920e-168354846cc5)
+**发布时间**: 2026-04-12 23:12
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Move now to seize this potential stock-market crisis and opportunity](https://www.marketwatch.com/story/move-now-to-seize-this-potential-stock-market-crisis-and-opportunity-3c61dea9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 01:15
+
+#### [Trump says he’s closing the Strait of Hormuz. Has he been reading MarketWatch?](https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 00:18
+
+---
+
+## 🆕 最新更新 (2026-04-12 23:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hungary opposition delivers ‘regime change’ after 16 years of Orbán](https://www.ft.com/content/b348e8f5-c70a-4176-920e-168354846cc5)
+**发布时间**: 2026-04-12 23:12
+
+#### [UK households’ living standards to fall after energy price shock](https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749)
+**发布时间**: 2026-04-12 23:01
+
+#### [UK Treasury to profit from final year of student loan scheme, says analysis](https://www.ft.com/content/184f97b0-275b-4d28-9ed6-bdb15ae0c69f)
+**发布时间**: 2026-04-12 23:01
+
+#### [Oil prices soar above $100 per barrel as hope fades of end to Iran war](https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c)
+**发布时间**: 2026-04-12 22:36
+
+#### [Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail](https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c)
+**发布时间**: 2026-04-12 21:54
+
+#### [US stock futures slide ahead of Iran ports blockade](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 21:42
+
+#### [Hungary’s Orbán concedes defeat as opposition secures landslide win](https://www.ft.com/content/a9b635f0-6fff-41e5-8e27-245de4500863)
+**发布时间**: 2026-04-12 21:39
+
+#### [Global economic outlook darkens as policymakers count cost of Iran war](https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383)
+**发布时间**: 2026-04-12 17:00
+
+#### [Iran nuclear stand-off hardens after two decades of failed deals](https://www.ft.com/content/ac5af73f-82a6-42a0-81e1-2a657df66e99)
+**发布时间**: 2026-04-12 13:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock-market futures drop, oil surges back above $100 after failed talks between U.S. and Iran over the weekend](https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 23:06
+
+#### [Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.](https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 21:22
+
+#### [April’s stock-market rebound is about to face its first major test as earnings season swings into gear](https://www.marketwatch.com/story/aprils-stock-market-rebound-is-about-to-face-its-first-major-test-as-earnings-season-swings-into-gear-1210b246?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 20:00
+
+#### [How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock](https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories)
+**发布时间**: 2026-04-12 13:00
+
+---
+
+## 🆕 最新更新 (2026-04-12 08:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Vance says US and Iran fail to reach deal](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 07:20
+
+#### [Robinhood excludes some prediction markets over manipulation fears](https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac)
+**发布时间**: 2026-04-12 06:57
+
+---
+
+## 🆕 最新更新 (2026-04-12 06:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fees for seas: a history of taxing waterways](https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd)
+**发布时间**: 2026-04-12 04:00
+
+#### [The historic Iranian palaces caught up in US-Israeli strikes](https://www.ft.com/content/ae2855d8-f4e3-4138-ad14-d5bee53a804f)
+**发布时间**: 2026-04-12 04:00
+
+#### [Social media is for picking up vibes, not information](https://www.ft.com/content/d8fd8966-d360-4329-b003-33d1beb3533b)
+**发布时间**: 2026-04-12 04:00
+
+#### [Switzerland’s Zug becomes bolt-hole for Gulf-based wealth](https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5)
+**发布时间**: 2026-04-12 04:00
+
+#### [Brexiters turn their backs on Trump after Iran chaos](https://www.ft.com/content/385a0e01-bc77-42fc-85da-32ecd89b9110)
+**发布时间**: 2026-04-12 04:00
+
+#### [Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility](https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da)
+**发布时间**: 2026-04-12 04:00
+
+#### [Commodity traders lost ‘billions’ in early days of Iran war](https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc)
+**发布时间**: 2026-04-12 04:00
+
+#### [Middle East war live: Vance says US and Iran fail to reach deal](https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84)
+**发布时间**: 2026-04-12 01:44
+
+---
+
+## 🆕 最新更新 (2026-04-11 23:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran locked in marathon talks to end war](https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53)
+**发布时间**: 2026-04-11 21:57
+
+#### [Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC](https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1)
+**发布时间**: 2026-04-11 17:42
+
+#### [How Iran turned to memes to take on Trump](https://www.ft.com/content/552c3092-56e9-4bb6-9f8d-8163e9ec4fb2)
+**发布时间**: 2026-04-11 04:00
+
+#### [The damage wrought to the Middle East’s oil and gas supplies](https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76)
+**发布时间**: 2026-04-11 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are some bargain bank stocks heading into earnings season](https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:55
+
+#### [There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling.](https://www.marketwatch.com/story/there-are-years-long-waiting-lists-to-retire-on-college-campuses-6-steps-to-take-before-enrolling-d7bd2d2d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:51
+
+#### [United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war.](https://www.marketwatch.com/story/united-airlines-wants-even-higher-ticket-prices-itll-get-them-with-or-without-the-iran-war-4833e1d1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:42
+
+#### [Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.](https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:35
+
+#### [My wife and I want to move to Malaysia. Will we receive Social Security benefits there?](https://www.marketwatch.com/story/my-wife-and-i-want-to-move-to-malaysia-will-we-receive-social-security-benefits-there-cb38f98e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:31
+
+#### [Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment](https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:14
+
+#### [Here’s when gas prices and airfares could go down if the Iran cease-fire holds](https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:03
+
+#### [We asked our wedding guests to give money to St. Jude’s Children’s Hospital. Can we write off their donations?](https://www.marketwatch.com/story/we-asked-our-wedding-guests-to-give-money-to-st-judes-childrens-hospital-can-we-write-off-their-donations-0a326156?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 18:00
+
+#### [Interest rates are headed lower — real yields suggest a half-point Fed cut is coming](https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 17:53
+
+#### [Here’s how much weight-loss drugs Wegovy, Zepbound and Foundayo cost — and how to pick the best GLP-1 for you](https://www.marketwatch.com/story/heres-how-much-weight-loss-drugs-wegovy-zepbound-and-foundayo-cost-and-how-to-pick-the-best-glp-1-for-you-48598e2f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 17:40
+
+---
+
+## 🆕 最新更新 (2026-04-11 08:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Peace talks present big test on global stage for JD Vance](https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540)
+**发布时间**: 2026-04-11 08:14
+
+#### [JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1)
+**发布时间**: 2026-04-11 06:32
+
+#### [The damage wrought on the Middle East’s oil and gas supplies](https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76)
+**发布时间**: 2026-04-11 04:00
+
+#### [Dubai, eternal city](https://www.ft.com/content/c9029475-b7cc-419c-823b-4caf78247ecf)
+**发布时间**: 2026-04-11 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-11 06:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The tragedy of leisure](https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9)
+**发布时间**: 2026-04-11 04:00
+
+#### [Only two events have mattered in my 30 years of investing](https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c)
+**发布时间**: 2026-04-11 04:00
+
+#### [Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483)
+**发布时间**: 2026-04-11 04:00
+
+#### [Mortgage borrowers seek shorter-term deals as market volatility saps confidence](https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd)
+**发布时间**: 2026-04-11 04:00
+
+#### [Reid Wiseman, the astronaut hailing a new ‘golden age’ in space](https://www.ft.com/content/2b948cc0-e744-4209-a90b-fcc4577c6029)
+**发布时间**: 2026-04-11 01:20
+
+#### [Historic Nasa Moon mission returns safely to Earth](https://www.ft.com/content/8f92c5ae-49af-4a63-a5e6-66a571ea990c)
+**发布时间**: 2026-04-11 00:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?](https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories)
+**发布时间**: 2026-04-11 00:32
+
+---
+
+## 🆕 最新更新 (2026-04-10 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are you a ‘HENRY’? Why 90% of financial advisers will waive their minimums to get your business.](https://www.marketwatch.com/story/are-you-a-henry-why-90-of-financial-advisers-will-waive-their-minimums-to-get-your-business-2b7bd083?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 22:14
+
+#### [How chaotic do your fellow passengers need to be for an airline to give you compensation?](https://www.marketwatch.com/story/how-chaotic-do-your-fellow-passengers-need-to-be-for-an-airline-to-give-you-compensation-7a222514?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 22:01
+
+#### [AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers](https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:41
+
+#### [Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:36
+
+#### [Americans would love this $25,000 hybrid SUV — but it’s not available here yet](https://www.marketwatch.com/story/americans-would-love-this-25-000-hybrid-suv-but-its-not-available-here-yet-bfa693ce?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:19
+
+#### [Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks](https://www.marketwatch.com/story/investors-are-gloomy-about-inflation-and-risk-taking-ahead-of-saturdays-iran-talks-eeb8552d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 21:07
+
+#### [It’s OK to postpone saving for college until you have these 4 financial priorities under control](https://www.marketwatch.com/story/dont-start-saving-for-college-until-you-have-these-4-financial-priorities-under-control-84988ed6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:50
+
+#### [Here’s the real cost of economy airfare after all the fees. ‘What’s next — an add-on for access to the bathroom?’](https://www.marketwatch.com/story/heres-the-real-cost-of-economy-airfare-after-all-the-fees-whats-next-an-add-on-for-access-to-the-bathroom-0f614798?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:23
+
+#### [Nike’s stock hits 12-year low, as some analysts are losing faith in management](https://www.marketwatch.com/story/nikes-stock-hits-12-year-low-as-some-analysts-are-losing-faith-in-management-468f7f71?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 20:17
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK drops bill to hand Chagos Islands to Mauritius after US opposition](https://www.ft.com/content/971be43c-d745-4872-8544-cb7a351c8789)
+**发布时间**: 2026-04-10 22:04
+
+#### [Warsh’s confirmation as Trump’s next Fed chair risks delay](https://www.ft.com/content/5a078a3a-9580-47c1-9cb3-8c657457896d)
+**发布时间**: 2026-04-10 21:56
+
+#### [JD Vance says US-Iran talks should be ‘positive’ as negotiators arrive in Islamabad](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1)
+**发布时间**: 2026-04-10 21:42
+
+#### [Molotov cocktail thrown at home of OpenAI chief Sam Altman](https://www.ft.com/content/46ec2fa5-834d-4e49-81ef-6fb736b7e81d)
+**发布时间**: 2026-04-10 21:39
+
+#### [Cyber security stocks fall on worries over Anthropic’s advanced AI tool](https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef)
+**发布时间**: 2026-04-10 21:02
+
+#### [Why has the UK economy been so badly hit by the Iran war?](https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3)
+**发布时间**: 2026-04-10 18:03
+
+#### [Crispin Odey abandons £79mn libel case against the FT over sexual misconduct claims](https://www.ft.com/content/69666b46-8452-4807-add9-712a0394a53c)
+**发布时间**: 2026-04-10 17:56
+
+#### [Trump is surrendering America’s moral leadership](https://www.ft.com/content/f3f8231a-f399-4f51-b95e-2c37dcd3a85e)
+**发布时间**: 2026-04-10 17:05
+
+#### [US inflation jumps to two-year high as Iran war ripples across economy](https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248)
+**发布时间**: 2026-04-10 17:00
+
+#### [Trumpism has done remarkably little to the GOP’s centre of gravity](https://www.ft.com/content/c8c495f2-a675-4f15-b9b8-97682b078307)
+**发布时间**: 2026-04-10 16:45
+
+#### [AI models lose their shirts on Premier League bets](https://www.ft.com/content/544cbd80-492e-4ee8-a8b4-66e447361651)
+**发布时间**: 2026-04-10 11:50
+
+---
+
+## 🆕 最新更新 (2026-04-10 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million](https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 09:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel presses ahead with Lebanon strikes as talks loom](https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f)
+**发布时间**: 2026-04-10 08:37
+
+#### [Canada pushes to join UK-Italy-Japan advanced fighter jet project](https://www.ft.com/content/d664b704-56a5-4b00-b34c-8da39e82a2a9)
+**发布时间**: 2026-04-10 04:00
+
+#### [Italian government moves to oust Leonardo chief executive](https://www.ft.com/content/2766689f-e849-4980-9ef9-1abe6bf538ec)
+**发布时间**: 2026-04-09 21:57
+
+---
+
+## 🆕 最新更新 (2026-04-10 06:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy](https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213)
+**发布时间**: 2026-04-10 06:01
+
+#### [China’s Xi tells Taiwan opposition leader unification an ‘inevitability’](https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386)
+**发布时间**: 2026-04-10 05:08
+
+#### [Nato split over US access to European bases in Iran war](https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b)
+**发布时间**: 2026-04-10 04:00
+
+#### [Now would be a great time to send US ambassadors to the Middle East](https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643)
+**发布时间**: 2026-04-10 04:00
+
+#### [Six lessons for investors on pricing disaster](https://www.ft.com/content/d51dd10e-2244-4cbf-897f-1959364ce625)
+**发布时间**: 2026-04-10 04:00
+
+#### [Labour’s deputy warns against ‘bloody’ leadership contest to replace Starmer](https://www.ft.com/content/9196d514-2ba3-4d0c-82e7-0c91554b9f9a)
+**发布时间**: 2026-04-10 04:00
+
+#### [Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks](https://www.ft.com/content/397bf755-54cf-4018-a01d-8f714d8667c5)
+**发布时间**: 2026-04-10 02:11
+
+#### [Trump warns Iran over charging for passage through strait](https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f)
+**发布时间**: 2026-04-10 01:16
+
+#### [The 10 minutes that set Lebanon ablaze](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)
+**发布时间**: 2026-04-09 20:29
+
+#### [The chips chokehold that could end the AI investment boom](https://www.ft.com/content/f1af8c86-4e6c-4531-b229-32e25011ddb0)
+**发布时间**: 2026-04-09 15:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.](https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-10 00:29
+
+---
+
+## 🆕 最新更新 (2026-04-09 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I feel pressured’: My husband has early Alzheimer’s and wants to visit Europe, but I’m terrified of flying. What should I do?](https://www.marketwatch.com/story/i-feel-pressured-my-husband-has-early-alzheimers-and-wants-to-visit-europe-but-im-terrified-of-flying-what-should-i-do-c5cc01bf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 22:59
+
+#### [Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season](https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:59
+
+#### [Has the cease-fire rally pushed stocks too high, too quickly?](https://www.marketwatch.com/story/has-the-cease-fire-rally-pushed-stocks-too-high-too-quickly-e0c4592a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:58
+
+#### [The shaky Trump-Iran cease-fire means being ready to exit any ‘war’s over’ stock-market rally](https://www.marketwatch.com/story/these-signals-will-make-or-break-the-iran-cease-fire-and-oil-prices-8f415515?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:22
+
+#### [The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.](https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:18
+
+#### [You have until April 15 to get this $8,000 Roth IRA freebie — no matter what your income](https://www.marketwatch.com/story/you-have-until-april-15-to-get-this-8-000-roth-ira-freebie-no-matter-what-your-income-4e8e7c8f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:14
+
+#### [Here’s how much money Iran can make charging tolls on one-fifth of the world’s seaborne oil](https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 21:11
+
+#### [Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023](https://www.marketwatch.com/story/nvidias-stock-is-quietly-gaining-steam-its-on-its-longest-winning-streak-since-2023-9066742f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 20:58
+
+#### [Brown-Forman’s stock was the S&P 500’s top gainer Thursday as merger drama heats up](https://www.marketwatch.com/story/brown-formans-stock-is-the-s-p-500s-top-gainer-thursday-as-merger-drama-heats-up-2f5f769c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 20:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [North Sea oil prices hit record high as Iran keeps hold over Hormuz](https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9)
+**发布时间**: 2026-04-09 22:57
+
+#### [S&P 500 posts longest winning streak since October on ceasefire optimism](https://www.ft.com/content/5fa84873-0c45-462d-9f8b-3adbc9f0a164)
+**发布时间**: 2026-04-09 20:58
+
+#### [Netanyahu authorises Israeli talks with Lebanon after Trump intervention](https://www.ft.com/content/b4f42304-ed42-4747-bfbe-ba2861338b25)
+**发布时间**: 2026-04-09 20:55
+
+#### [xAI sues Colorado over first state AI anti-discrimination law](https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9)
+**发布时间**: 2026-04-09 20:45
+
+#### [Lebanon’s 10 minutes from hell](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)
+**发布时间**: 2026-04-09 20:29
+
+#### [Trump officials deny threatening Vatican over Pope Leo’s criticisms](https://www.ft.com/content/1e172f5e-b45a-422e-a5aa-70e8bba506d6)
+**发布时间**: 2026-04-09 17:52
+
+#### [London mayor takes aim at social media companies over disinformation](https://www.ft.com/content/4f954158-18ac-465b-b88f-271e3ac287eb)
+**发布时间**: 2026-04-09 17:03
+
+#### [The quantum computing race is wide open](https://www.ft.com/content/053c8c39-9836-47e5-90f5-4798b3cf4c7c)
+**发布时间**: 2026-04-09 16:44
+
+#### [UK exposes covert Russian submarine operation](https://www.ft.com/content/5886e003-0b9f-4921-b9ed-e07514fe22a3)
+**发布时间**: 2026-04-09 12:27
+
+#### [OpenAI halts Stargate UK data centre project](https://www.ft.com/content/124189b9-8b2b-4d62-a94b-8a91673ea378)
+**发布时间**: 2026-04-09 11:38
+
+#### [Britain is in the grip of the fed-up-niks](https://www.ft.com/content/e6b882d8-ed5a-4e00-81ab-962f757cd7b7)
+**发布时间**: 2026-04-09 10:57
+
+---
+
+## 🆕 最新更新 (2026-04-09 09:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion](https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 09:04
+
+#### [Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year](https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-09 08:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BDO axes 31 partner roles as AI pressure grows and profits fall](https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6)
+**发布时间**: 2026-04-09 06:55
+
+#### [Shipping stalls as Tehran dictates terms in Strait of Hormuz](https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd)
+**发布时间**: 2026-04-09 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-09 06:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Shipping stalls as Tehran dictates terms in Hormuz](https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd)
+**发布时间**: 2026-04-09 04:00
+
+#### [Iran war has exposed the weakness of the dollar](https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa)
+**发布时间**: 2026-04-09 04:00
+
+#### [The case for trade, remade](https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6)
+**发布时间**: 2026-04-09 04:00
+
+#### [Investors sought to pull $20bn from private credit funds in first quarter](https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c)
+**发布时间**: 2026-04-09 04:00
+
+#### [Ackman in talks to launch fund to bet on investor complacency](https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561)
+**发布时间**: 2026-04-09 04:00
+
+#### [Reform UK donor runs company linked to sanctioned Iranian conglomerate](https://www.ft.com/content/c0c9c617-9003-4e00-a7c6-e87b56a56bf3)
+**发布时间**: 2026-04-09 04:00
+
+#### [Hizbollah attacks Israel after wave of strikes on Lebanon](https://www.ft.com/content/5fa84873-0c45-462d-9f8b-3adbc9f0a164)
+**发布时间**: 2026-04-09 00:45
+
+#### [Will Trump stick with his Iran truce?](https://www.ft.com/content/e6883be4-a756-4c0b-b9f9-ac28554ad42f)
+**发布时间**: 2026-04-08 23:55
+
+#### [Ceasefire offers moment of respite for battered Tehran](https://www.ft.com/content/9226bb49-2a13-4b87-bcf8-5390abadef13)
+**发布时间**: 2026-04-08 19:55
+
+---
+
+## 🆕 最新更新 (2026-04-08 23:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s ceasefire fails to heal Maga split over Iran war](https://www.ft.com/content/427187eb-f905-4e1d-bab3-a47decfd73ec)
+**发布时间**: 2026-04-08 23:12
+
+#### [Ditch ‘alarming’ risk warnings to spur UK retail investment, fund managers told](https://www.ft.com/content/3778982e-e037-4031-8bb1-53369d5a4e61)
+**发布时间**: 2026-04-08 23:01
+
+#### [NHS data chief pushes for deeper rollout of Palantir technology despite outcry](https://www.ft.com/content/1ac7a046-329c-4036-b01e-f2291dde28ca)
+**发布时间**: 2026-04-08 20:00
+
+#### [Truce offers moment of respite for battered Tehran](https://www.ft.com/content/9226bb49-2a13-4b87-bcf8-5390abadef13)
+**发布时间**: 2026-04-08 19:55
+
+#### [Middle East ceasefire under pressure over Israeli strikes on Lebanon](https://www.ft.com/content/d43ae1d7-4df4-465c-afe1-418b168e3ae8)
+**发布时间**: 2026-04-08 19:36
+
+#### [Haircut for UK taxpayers after lenders take control of struggling broadband provider](https://www.ft.com/content/cad2c772-1268-4858-8f95-f9f626d2b107)
+**发布时间**: 2026-04-08 18:42
+
+#### [JD Vance to lead US delegation in Islamabad talks](https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34)
+**发布时间**: 2026-04-08 17:57
+
+#### [An unstable truce in the Middle East](https://www.ft.com/content/95fb1804-7209-4da2-b50a-bf1a90af45b0)
+**发布时间**: 2026-04-08 17:38
+
+#### [Billionaire son of ‘world’s richest banker’ challenges $35mn legal fees](https://www.ft.com/content/6843726f-2459-462e-b0a1-a33ed10c1c66)
+**发布时间**: 2026-04-08 15:25
+
+#### [The madness of the Madman Theory](https://www.ft.com/content/ac08bd92-0a1f-46cb-a162-c5fcf772a0ac)
+**发布时间**: 2026-04-08 11:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [S&P 500 smashes back above two key moving averages, in a rare display of strength. Here’s what history shows happens next.](https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:57
+
+#### [‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz](https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:26
+
+#### [How the ‘TACO’ trade went from a light-hearted Wall Street joke to a serious moneymaker](https://www.marketwatch.com/story/how-the-taco-trade-went-from-a-light-hearted-wall-street-joke-to-a-serious-moneymaker-8135a7b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:15
+
+#### [Corona brewer says shoppers are going for cheaper beer and wine, as it grows more cautious on demand](https://www.marketwatch.com/story/corona-brewer-says-shoppers-are-going-for-cheaper-beer-and-wine-as-it-grows-more-cautious-on-demand-d3c89aed?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:59
+
+#### [Intel’s stock soars to a five-year high. This is what’s driving its massive momentum.](https://www.marketwatch.com/story/intels-stock-soars-to-a-five-year-high-this-is-whats-driving-its-massive-momentum-61e91f5b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:56
+
+#### [Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis](https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:46
+
+---
+
+## 🆕 最新更新 (2026-04-08 09:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Paige Lorenze finds a buyer for $2.5 million Connecticut home as she and tennis star Tommy Paul renovate new mansion](https://www.marketwatch.com/story/paige-lorenze-finds-a-buyer-for-2-5-million-connecticut-home-as-she-and-tennis-star-tommy-paul-renovate-new-mansion-1c5f5a23?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:03
+
+#### [‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?](https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:01
+
+#### [Cease-fire means the bottom is in, declares strategist Tom Lee](https://www.marketwatch.com/story/cease-fire-means-the-bottom-is-in-declares-strategist-tom-lee-8207becd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 09:00
+
+#### [‘The View’ host Joy Behar tries an unusual strategy to sell her longtime Hamptons home](https://www.marketwatch.com/story/the-view-host-joy-behar-tries-an-unusual-strategy-to-sell-her-longtime-hamptons-home-4e490969?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:58
+
+#### [What the market is now pricing for Fed and global central bank interest rates after the cease-fire](https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:53
+
+#### [Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation](https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:06
+
+---
+
+## 🆕 最新更新 (2026-04-08 06:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn?](https://www.ft.com/content/f217467c-e113-4aa2-ac5e-7046a1dc9be0)
+**发布时间**: 2026-04-08 04:37
+
+#### [US and Iran agree 2-week ceasefire that will open Strait of Hormuz](https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f)
+**发布时间**: 2026-04-08 04:07
+
+#### [Freedom itself is at stake in Hungary](https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3)
+**发布时间**: 2026-04-08 04:00
+
+#### [The dystopian fantasy of uselessness](https://www.ft.com/content/28dfa485-3c88-4963-82f8-5530a72792fe)
+**发布时间**: 2026-04-08 04:00
+
+#### [Perplexity revenue jumps 50% in pivot from search to AI agents](https://www.ft.com/content/e9c28d31-a962-4684-8b58-c9e6bc68401f)
+**发布时间**: 2026-04-08 04:00
+
+#### [Oil tumbles and stocks surge after Iran ceasefire agreed](https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34)
+**发布时间**: 2026-04-08 01:14
+
+---
+
+## 🆕 最新更新 (2026-04-07 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?](https://www.marketwatch.com/story/my-second-husband-will-leave-me-540-000-if-i-bequeath-him-my-130-000-net-worth-what-will-happen-to-my-two-sons-d5a80a08?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:30
+
+#### [15 stocks to put on your list to buy when the market recovers](https://www.marketwatch.com/story/15-stocks-to-put-on-your-list-to-buy-when-the-market-recovers-c765f968?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:18
+
+#### [Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran](https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:11
+
+#### [Levi’s boosts its sales outlook, defying concerns about the impact of the Iran conflict](https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:05
+
+#### [‘I paid the $10 entry fee’: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?](https://www.marketwatch.com/story/i-paid-the-10-entry-fee-a-friend-picked-my-march-madness-bracket-ethically-do-i-owe-her-half-of-my-150-winnings-88663339?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 23:00
+
+#### [From TV deals to titles: Why the Big Ten’s money machine is just getting started](https://www.marketwatch.com/story/from-tv-deals-to-titles-why-the-big-tens-money-machine-is-just-getting-started-86df9fd8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:43
+
+#### [The Iran conflict isn’t panicking investors — yet. That’s about to change.](https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:13
+
+#### [‘Our FICO score is excellent’: My husband and I are in our 70s. How do we raise $10,000 for a new roof?](https://www.marketwatch.com/story/our-fico-score-is-excellent-my-husband-and-i-are-in-our-70s-how-do-we-raise-10-000-for-a-new-roof-738e2821?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 22:01
+
+#### [CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation](https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 21:42
+
+#### [Apple’s stock pares losses. Here’s how to think about the latest saga with foldable iPhones.](https://www.marketwatch.com/story/apples-stock-pares-losses-heres-how-to-think-about-the-latest-saga-with-foldable-iphones-6b17760c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 21:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump declares two-week ‘ceasefire’ subject to Iran opening Strait of Hormuz](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-07 22:51
+
+#### [Trump allies play down Iran ‘genocide’ threats as critics warn of war crimes](https://www.ft.com/content/9467201c-c0a5-438b-a288-8595f0e439f3)
+**发布时间**: 2026-04-07 21:48
+
+#### [One in eight British residents has left UAE since Iran war, data shows](https://www.ft.com/content/3fcc3dbf-3b9f-4639-8034-ded8fbee5ea0)
+**发布时间**: 2026-04-07 20:02
+
+#### [Bill Ackman strikes a chord with Universal bid](https://www.ft.com/content/8a78a437-0741-4b81-b386-90bcb33c9553)
+**发布时间**: 2026-04-07 17:50
+
+#### [UK signals it will not let US use British bases to attack Iran’s civilian infrastructure](https://www.ft.com/content/e7b1ee9a-5e3f-4217-aa95-ff14346095ff)
+**发布时间**: 2026-04-07 17:42
+
+#### [Russian military hackers reroute British internet users’ traffic](https://www.ft.com/content/d7e3294c-0a0e-4598-8687-93f5490d0cc5)
+**发布时间**: 2026-04-07 16:54
+
+#### [The big state gamble on prediction markets](https://www.ft.com/content/d5ce429b-15af-4867-8e3f-b20f482ec1fd)
+**发布时间**: 2026-04-07 15:28
+
+#### [The war to break Iran’s economy](https://www.ft.com/content/7856d59b-66e0-4033-9791-1051f0ae978a)
+**发布时间**: 2026-04-07 14:57
+
+#### [Hedge funds make record bets against European stocks](https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04)
+**发布时间**: 2026-04-07 14:00
+
+#### [IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds](https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f)
+**发布时间**: 2026-04-07 14:00
+
+---
+
+## 🆕 最新更新 (2026-04-07 09:06)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Fire Country’ star Diane Farr lists her longtime artist’s retreat in Los Angeles for $2.8 million](https://www.marketwatch.com/story/fire-country-stardiane-farr-lists-her-longtime-artists-retreat-in-los-angeles-for-2-8-million-45b9fb1b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 09:02
+
+#### [Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring](https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:36
+
+#### [Is it unethical to use AI in my Airbnb photos to market my property to guests?](https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:33
+
+#### [Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200](https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal](https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b)
+**发布时间**: 2026-04-07 07:17
+
+#### [Europe’s rearmament meets reality: the story of Germany’s failed frigate project](https://www.ft.com/content/124c9dfc-18da-49fa-aab5-6389dce833ae)
+**发布时间**: 2026-04-07 04:00
+
+#### [Markets on edge as Trump’s deadline for Iran deal looms](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-06 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-07 06:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Artemis II astronauts head back to Earth after record-breaking Moon trip](https://www.ft.com/content/e4f7ad52-2f3d-462a-a785-f4a675666073)
+**发布时间**: 2026-04-07 04:14
+
+#### [US counts cost of equipment destroyed in Iran war](https://www.ft.com/content/9632cfaf-2ae1-4768-894f-3b7a0ddf1bea)
+**发布时间**: 2026-04-07 04:00
+
+#### [The future of global trade won’t depend on the Strait of Hormuz](https://www.ft.com/content/2c895663-16d5-4b7a-8c9b-45204c362c84)
+**发布时间**: 2026-04-07 04:00
+
+#### [The internet is deciding what to forget](https://www.ft.com/content/e1c3fd8e-b7c7-4582-a63b-f7b1a2f2bc93)
+**发布时间**: 2026-04-07 04:00
+
+#### [JPMorgan to build Canary Wharf’s tallest tower after City airport approval](https://www.ft.com/content/e0734db0-f8af-4157-9576-d8b52329629f)
+**发布时间**: 2026-04-07 04:00
+
+#### [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a)
+**发布时间**: 2026-04-07 04:00
+
+#### [Anthropic in chips deals with Google and Broadcom worth hundreds of billions](https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a)
+**发布时间**: 2026-04-07 00:46
+
+#### [Iran’s top military command calls Trump’s threats against infrastructure ‘delusional’](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-06 23:39
+
+---
+
+## 🆕 最新更新 (2026-04-06 23:40)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.](https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 23:33
+
+#### [Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts](https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:22
+
+#### [Here’s the somewhat surprising stock that will soon join the S&P 500](https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:02
+
+#### [As stocks approach a true comeback, here’s where investors can find the richest opportunities](https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 22:00
+
+#### [A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran](https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:48
+
+#### [‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?](https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:30
+
+#### [Strait of Hormuz sees increased ship traffic ahead of Trump’s deadline. Here’s why oil prices are not budging.](https://www.marketwatch.com/story/strait-of-hormuz-sees-increased-ship-traffic-ahead-of-trumps-deadline-heres-why-oil-prices-are-not-budging-25a8c2f2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 21:04
+
+#### [Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter](https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 20:35
+
+#### [3 factors that could get software stocks going again after a brutal stretch](https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 19:18
+
+#### [Americans are increasingly saying they won’t pay their taxes this year as a political protest. Here’s what could happen to them.](https://www.marketwatch.com/story/americans-are-increasingly-saying-they-wont-pay-their-taxes-this-year-as-a-political-protest-heres-what-could-happen-to-them-c0a3563c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 18:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US health insurer shares jump as Trump administration boosts Medicare payments](https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb)
+**发布时间**: 2026-04-06 23:09
+
+#### [Iran’s top military command says Trump’s threats against infrastructure are ‘delusional’](https://www.ft.com/content/43f8ea8a-d8a9-444c-82c5-8a0358c948ed)
+**发布时间**: 2026-04-06 22:47
+
+#### [Trump says US could destroy Iran ‘in one night’ as he demands opening of Hormuz](https://www.ft.com/content/35346eaf-0869-4706-8ebb-2d171e15266f)
+**发布时间**: 2026-04-06 22:30
+
+#### [UK to host meeting on safe passage through the strait after war](https://www.ft.com/content/8a86004e-c1c2-4c58-aa38-4e77b7650960)
+**发布时间**: 2026-04-06 20:59
+
+#### [The UK is turning the energy crisis into a political mess](https://www.ft.com/content/29614329-0009-44a8-958d-9076492cfde7)
+**发布时间**: 2026-04-06 16:42
+
+#### [How Europe made Viktor Orbán](https://www.ft.com/content/e04b3228-5199-4df7-b5ef-d3540f12ad2a)
+**发布时间**: 2026-04-06 16:12
+
+#### [Sales of used EVs surge in US as petrol prices pass $4 a gallon](https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2)
+**发布时间**: 2026-04-06 11:20
+
+#### [Jamie Dimon warns private credit losses will be larger than feared](https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3)
+**发布时间**: 2026-04-06 10:03
+
+---
+
+## 🆕 最新更新 (2026-04-06 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness](https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 09:01
+
+#### [Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home](https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 08:58
+
+---
+
+## 🆕 最新更新 (2026-04-06 06:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Maga stands by Trump on Iran — for now](https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a)
+**发布时间**: 2026-04-06 04:00
+
+#### [Why this oil shock is different](https://www.ft.com/content/2b6afabf-6193-4339-b084-a0fb927a8f1d)
+**发布时间**: 2026-04-06 04:00
+
+#### [Let technology explore what the voters really want](https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca)
+**发布时间**: 2026-04-06 04:00
+
+#### [Jones steps back from Downing St role as Romeo’s influence grows](https://www.ft.com/content/5285ced7-401a-4e04-beab-e725bdf1928b)
+**发布时间**: 2026-04-06 04:00
+
+#### [Bank of England divided over how to tackle energy-induced inflation](https://www.ft.com/content/93040200-0a51-40d0-b7b7-355fd592331d)
+**发布时间**: 2026-04-06 04:00
+
+#### [EU warns capitals against turning energy crunch into fiscal crisis](https://www.ft.com/content/cee4cbc8-95ff-4c10-83fa-a5bdb1833baf)
+**发布时间**: 2026-04-06 04:00
+
+#### [Private equity buyouts slump as AI fears and war dent dealmaking](https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf)
+**发布时间**: 2026-04-06 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-05 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump vows to destroy Iran’s power plants and bridges unless it reopens strait](https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215)
+**发布时间**: 2026-04-05 22:32
+
+#### [Iran allows Iraqi ships through Hormuz strait](https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252)
+**发布时间**: 2026-04-05 15:30
+
+#### [Is AI the new fracking?](https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9)
+**发布时间**: 2026-04-05 15:00
+
+#### [How Iran keeps firing missiles under bombardment](https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a)
+**发布时间**: 2026-04-05 04:00
+
+#### [Pharma just ‘scratching the surface’ of weight-loss drug market](https://www.ft.com/content/919390a5-a9ec-4f18-b764-df308ec51819)
+**发布时间**: 2026-04-05 04:00
+
+#### [Business leaders now have ‘permission to be the assholes they are’, says Brené Brown](https://www.ft.com/content/d296b140-4018-45d0-8770-e5e1a00db698)
+**发布时间**: 2026-04-05 03:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?](https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 20:01
+
+#### [April is usually a strong month for stocks — but three factors now jeopardize the market rebound](https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 16:00
+
+#### [Delta kicks off an earnings season focused on surging gas prices and the Iran war](https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 14:00
+
+#### [‘Our mood changes almost on a daily basis’: Why $4 gas prices feel a lot worse this time around](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-05 11:26
+
+---
+
+## 🆕 最新更新 (2026-04-05 06:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US rescues second fighter jet airman shot down over Iran](https://www.ft.com/content/764a9cda-eda0-4332-a4ce-6a26afaf7597)
+**发布时间**: 2026-04-05 05:31
+
+#### [Military briefing: How Iran keeps firing missiles under bombardment](https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a)
+**发布时间**: 2026-04-05 04:00
+
+#### [How we gave up on forgiveness](https://www.ft.com/content/d76c5aca-249f-4c5d-acc6-dac93aa7a117)
+**发布时间**: 2026-04-05 04:00
+
+#### [The professional negotiators who do deals with cyber criminals](https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa)
+**发布时间**: 2026-04-05 04:00
+
+#### [UK courts Anthropic to expand in London after US defence clash](https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5)
+**发布时间**: 2026-04-05 04:00
+
+#### [400% gains for AI stocks help drive Hong Kong IPOs to 5-year high](https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679)
+**发布时间**: 2026-04-05 04:00
+
+#### [Renters’ Rights Act brings big changes to UK property market](https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6)
+**发布时间**: 2026-04-05 04:00
+
+#### [Stagflation fears demolish confidence in UK housing](https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f)
+**发布时间**: 2026-04-05 04:00
+
+#### [Countries must not hoard fuel during Iran war, warns IEA](https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1)
+**发布时间**: 2026-04-05 03:00
+
+---
+
+## 🆕 最新更新 (2026-04-04 23:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump makes fresh Iran threat as search continues for missing US airman](https://www.ft.com/content/cc8974c6-2552-424c-9eab-231c49095461)
+**发布时间**: 2026-04-04 21:05
+
+#### [Go to court and lose out on £9bn car finance redress scheme, says FCA boss](https://www.ft.com/content/1b2db60f-df18-4e39-ba87-a9b9188bbd22)
+**发布时间**: 2026-04-04 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What’s an ‘E-shaped’ economy — and where do you fit in it?](https://www.marketwatch.com/story/whats-an-e-shaped-economy-and-where-do-you-fit-in-it-a1192908?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 17:42
+
+#### [Private-credit crisis or growing pains? Why the ‘Big Six’ banks are a safer bet.](https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 16:56
+
+#### [Gas-tax breaks sound tempting at $4 a gallon. Too bad they don’t actually work.](https://www.marketwatch.com/story/gas-tax-holidays-sound-tempting-at-4-a-gallon-too-bad-they-dont-actually-work-b20e2441?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 16:47
+
+#### [‘Mass layoffs by email might be the new norm’ as Oracle lays off thousands that way](https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 15:25
+
+#### [Want to watch every Yankees game on TV this year? It’ll cost you over $1,200.](https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 15:23
+
+#### [Easter is getting so expensive that some parents are putting socks and leftover Halloween candy in their kids’ baskets](https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories)
+**发布时间**: 2026-04-04 14:39
+
+---
+
+## 🆕 最新更新 (2026-04-04 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The shadowy group claiming attacks around Europe](https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540)
+**发布时间**: 2026-04-04 04:00
+
+#### [Former CIA operative: regime change in Iran is much harder than the US thinks](https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12)
+**发布时间**: 2026-04-04 04:00
+
+#### [Trump’s tales are still muddling markets](https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d)
+**发布时间**: 2026-04-04 04:00
+
+#### [Japan cracks down on its wayward cyclists](https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df)
+**发布时间**: 2026-04-04 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-03 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Three charged with arson over London Jewish charity ambulance attack](https://www.ft.com/content/224108af-cc42-4e92-9722-a2f25ead002a)
+**发布时间**: 2026-04-03 22:55
+
+#### [OpenAI chief operating officer takes on new role in shake-up](https://www.ft.com/content/d82b6277-fdd3-4914-a500-2bb39f4a114b)
+**发布时间**: 2026-04-03 22:13
+
+#### [Meta-backed data centre seeks $3bn for campus with novel financing](https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e)
+**发布时间**: 2026-04-03 21:14
+
+#### [US fighter jet shot down over Iran](https://www.ft.com/content/ffedc7fe-b068-444c-b8c6-b11332890d6f)
+**发布时间**: 2026-04-03 19:50
+
+#### [US judge upholds block of subpoenas in criminal investigation of Jay Powell](https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced)
+**发布时间**: 2026-04-03 18:40
+
+#### [It’s far too easy to get sucked down a conspiracy theory rabbit hole](https://www.ft.com/content/688bc0cf-eae3-48fc-a94b-f3d57ec0c61a)
+**发布时间**: 2026-04-03 17:00
+
+#### [US launches rescue operation for plane’s missing crew](https://www.ft.com/content/c860846e-e7e9-42cf-9c26-15ca516169b0)
+**发布时间**: 2026-04-03 15:26
+
+#### [Former Iran foreign minister floats plan for peace with US](https://www.ft.com/content/489464b6-e61f-44ec-8051-406008fec7ce)
+**发布时间**: 2026-04-03 14:54
+
+#### [US economy beats expectations to add 178,000 jobs in March](https://www.ft.com/content/82c1795b-704a-4da3-82ec-2f9cd52de01e)
+**发布时间**: 2026-04-03 13:36
+
+#### [Forget Trump, I’m now fully invested again](https://www.ft.com/content/35b9db30-e119-4d0d-81c0-b5d05f8a90cb)
+**发布时间**: 2026-04-03 12:24
+
+#### [Investors are betting on AI chaos. History suggests otherwise](https://www.ft.com/content/76ea6878-d11c-4118-ad98-3b361fcdbb01)
+**发布时间**: 2026-04-03 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How TBPN went from nerdy online talk show to splashy OpenAI acquisition](https://www.marketwatch.com/story/how-tbpn-went-from-nerdy-online-talkshow-to-splashy-openai-acquisition-c204185e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 22:02
+
+#### [‘I plan to take out a mortgage’: My father died. Should I buy the family home from my mom at a 40% discount?](https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 20:19
+
+#### [‘I’d like to be a superhost’: Is it unethical to use AI in my Airbnb photos to market my property?](https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 20:18
+
+#### [Buyers finally have leverage in the housing market. Here are 3 smart ways to use it.](https://www.marketwatch.com/story/buyers-finally-have-leverage-in-the-housing-market-here-are-3-smart-ways-to-use-it-49abcfa3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 19:34
+
+#### [In today’s job market, it’s more ‘show me a desk’ than ‘show me the money’](https://www.marketwatch.com/story/in-todays-job-market-its-more-show-me-a-desk-than-show-me-the-money-3b66754e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 19:18
+
+#### [Jobs data, Iran war add to inflation fears for retirees](https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 18:54
+
+#### [These little-known chip stocks could be winners as SpaceX and Amazon make big satellite pushes](https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 18:33
+
+#### [Netflix co-founder Reed Hastings has made over $500 million on stock options since last year](https://www.marketwatch.com/story/heres-how-much-reed-hastings-has-made-selling-netflix-stock-this-year-ba1acacd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 17:38
+
+---
+
+## 🆕 最新更新 (2026-04-03 08:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Reality TV star and former Playboy model Kendra Wilkinson says her career selling luxury real estate has blossomed](https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 08:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK motorists to face £2 a litre diesel within days](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034)
+**发布时间**: 2026-04-03 04:00
+
+#### [Inside Tehran, a city under attack](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598)
+**发布时间**: 2026-04-03 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-03 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Europe must prepare for ‘long-lasting’ energy shock, EU warns](https://www.ft.com/content/7d3a6810-b571-4730-aa35-f7bfcacdc242)
+**发布时间**: 2026-04-03 04:00
+
+#### [UK motorists face £2 a litre diesel as Iran war drives wholesale prices to 4-year high](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034)
+**发布时间**: 2026-04-03 04:00
+
+#### [Prediction markets: the hunt for the new ‘dumb money’](https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd)
+**发布时间**: 2026-04-03 04:00
+
+#### [What’s going on with dollar debt?](https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5)
+**发布时间**: 2026-04-03 04:00
+
+#### [In Tehran, neighbours wonder where the next bombs will land](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598)
+**发布时间**: 2026-04-03 04:00
+
+#### [Fund managers snap up bonds on growth threat from Iran war](https://www.ft.com/content/397d5395-90d4-40db-8130-740b9bc91f5b)
+**发布时间**: 2026-04-03 04:00
+
+#### [Credit investors flee to safety, pulling $11bn from junk bonds this year](https://www.ft.com/content/45c12697-4d59-4027-80b7-b0c565020d43)
+**发布时间**: 2026-04-03 04:00
+
+#### [UK gender pay gap widens at Clifford Chance and McKinsey](https://www.ft.com/content/d9890c7f-bd24-402b-a78a-eb8b799703b9)
+**发布时间**: 2026-04-03 04:00
+
+#### [M&S demands urgent action by ministers to tackle ‘brazen’ UK shoplifting](https://www.ft.com/content/52ba8264-ebce-4b54-bd2b-a669190c2520)
+**发布时间**: 2026-04-02 23:36
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pam Bondi was just fired by Trump. Here’s how the stock market has fared since her infamous ‘Dow is over 50,000’ comment.](https://www.marketwatch.com/story/pam-bondi-was-just-fired-by-trump-heres-how-the-stock-market-has-fared-since-her-infamous-dow-is-over-50-000-comment-694a261c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 02:21
+
+#### [Mortgage rates rise for the fifth week in a row. Here’s how much more homebuyers are paying since the Iran war started.](https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories)
+**发布时间**: 2026-04-03 00:52
+
+---
+
+## 🆕 最新更新 (2026-04-02 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist](https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 23:32
+
+#### [Starbucks made two big moves to help its turnaround today — but they didn’t help the coffee chain’s stock](https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:53
+
+#### [Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs](https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:33
+
+#### [Sam’s Club is hiking its membership fees. Analysts suggest Costco and BJ’s could be next.](https://www.marketwatch.com/story/sams-club-is-hiking-its-membership-fees-analysts-say-costco-and-bjs-could-be-next-a8eb71a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:30
+
+#### [‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?](https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 22:06
+
+#### [These charts show the cracks in the stock market are widening](https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 21:43
+
+#### [Intel’s stock has been climbing — and this could be its next big catalyst](https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 21:07
+
+#### [Verizon is coming off its best quarter in 15 years. Can it sustain that momentum?](https://www.marketwatch.com/story/verizon-is-coming-off-its-best-quarter-in-15-years-can-it-sustain-that-momentum-ae44df8d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 20:46
+
+#### [April typically showers stock investors with gains — but this year is no sure bet](https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump fires US attorney-general Pam Bondi](https://www.ft.com/content/533ecec7-713f-46f1-a2a2-cbd9a659299f)
+**发布时间**: 2026-04-02 19:41
+
+#### [Oil jumps after Donald Trump’s remarks dash hopes of end to war](https://www.ft.com/content/7181cef1-6d7c-45bd-85cd-5feafbbd0cfd)
+**发布时间**: 2026-04-02 19:38
+
+#### [Trump administration announces new tariffs on pharmaceuticals](https://www.ft.com/content/25ecf952-2fca-4ac0-9f72-69949c929a62)
+**发布时间**: 2026-04-02 19:31
+
+#### [SpaceX IPO is Musk’s biggest financial moonshot](https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62)
+**发布时间**: 2026-04-02 19:00
+
+#### [UK urges pharma companies to invest after reaching drug pricing deal with US](https://www.ft.com/content/4bc868a1-bd4d-4d80-b8dd-064a4b87a4bb)
+**发布时间**: 2026-04-02 18:19
+
+#### [The case for Trump’s tariffs looks strong a year on from ‘liberation day’](https://www.ft.com/content/35f79237-630c-4b04-8e5a-57394ad2b2f6)
+**发布时间**: 2026-04-02 16:58
+
+#### [Blue Owl struck by $5.4bn of redemption requests](https://www.ft.com/content/f4320148-3d81-4bd0-9ab6-053a5bade188)
+**发布时间**: 2026-04-02 16:33
+
+#### [Nick Candy sells Chelsea mansion for more than £275mn](https://www.ft.com/content/8daf99ca-2e0c-4aae-b434-5c10cf89f1f3)
+**发布时间**: 2026-04-02 12:25
+
+#### [Goldman and Citi tell Paris staff to work from home after thwarted BofA attack](https://www.ft.com/content/eee3f933-36f1-48f4-ae09-98b50bfab386)
+**发布时间**: 2026-04-02 12:18
+
+#### [Farage sacks Reform UK housing spokesperson over ‘everyone dies’ Grenfell comments](https://www.ft.com/content/48e51b80-9501-411d-8ed6-3392d9c93d84)
+**发布时间**: 2026-04-02 12:18
+
+#### [Italy fines Revolut over misleading ‘0% commission’ trading adverts](https://www.ft.com/content/0cb5fe60-434e-4790-9915-3d8b1968e4ec)
+**发布时间**: 2026-04-02 11:25
+
+#### [US Treasury calls in regulators for talks on private credit risks](https://www.ft.com/content/09f4fa70-d3e6-4abc-bc95-234afe7111f4)
+**发布时间**: 2026-04-02 00:58
+
+---
+
+## 🆕 最新更新 (2026-04-02 09:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KPMG cleared by UK watchdog over audit of gambling group Entain](https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4)
+**发布时间**: 2026-04-02 08:31
+
+#### [How Apple fused Japanese craft with Chinese scale](https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b)
+**发布时间**: 2026-04-02 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-02 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World’s top energy traders wrongfooted in early days of Iran war](https://www.ft.com/content/22e7678b-e7ec-4bf0-8258-906eaa2d7a42)
+**发布时间**: 2026-04-02 04:00
+
+#### [The global wave of energy rationing](https://www.ft.com/content/a9f56d68-4cdd-47f7-873e-ca6ac0ea8962)
+**发布时间**: 2026-04-02 04:00
+
+#### [How did I end up here? — Nigella Lawson’s first FT column](https://www.ft.com/content/48198cee-407c-4675-adb5-b5cf7e2d6cbb)
+**发布时间**: 2026-04-02 04:00
+
+#### [Italian leaders call for football chief’s head after World Cup humiliation](https://www.ft.com/content/f2efd280-a9c9-4720-80fe-ad3684565e3e)
+**发布时间**: 2026-04-02 04:00
+
+#### [UK has ‘limited’ defences against ballistic missile threats, warns ex-RAF official](https://www.ft.com/content/8c6a9f8f-7902-4f7a-b683-188ad4601c35)
+**发布时间**: 2026-04-02 04:00
+
+#### [Gulf states consider new pipelines to avoid Strait of Hormuz](https://www.ft.com/content/880664d8-e110-4760-8b00-aa3141a770ff)
+**发布时间**: 2026-04-02 04:00
+
+#### [NHS staff boycott Palantir’s data platform over ethical concerns](https://www.ft.com/content/dbb67083-bd1d-46e9-b196-1438d54c5795)
+**发布时间**: 2026-04-02 04:00
+
+#### [Ofwat poised to waive Thames Water fines to 2030 under deal](https://www.ft.com/content/070d9030-0314-41dd-9630-63c893b199b0)
+**发布时间**: 2026-04-02 04:00
+
+#### [Trump threatens to hit Iran ‘extremely hard’ in coming weeks](https://www.ft.com/content/3af1d6e5-2a61-47f9-af65-efeb1b859ab9)
+**发布时间**: 2026-04-02 03:42
+
+#### [Oil jumps 7% as Trump speech revives anxiety about Iran conflict](https://www.ft.com/content/7181cef1-6d7c-45bd-85cd-5feafbbd0cfd)
+**发布时间**: 2026-04-02 00:23
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures sink as Trump says U.S. on track to complete Iran objectives ‘very shortly’](https://www.marketwatch.com/story/stock-futures-sink-as-trump-says-u-s-on-track-to-complete-iran-objectives-very-shortly-83d76b47?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 03:02
+
+#### [Elon Musk’s SpaceX could lead a wave of jumbo IPOs after reportedly making this key move](https://www.marketwatch.com/story/elon-musks-spacex-could-lead-a-wave-of-jumbo-ipos-after-reportedly-making-this-key-move-03ac890f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 00:45
+
+#### [Could cruise passengers soon be hit with a fuel surcharge?](https://www.marketwatch.com/story/most-cruise-lines-can-add-a-fuel-surcharge-after-you-book-heres-what-to-expect-in-the-near-future-1efcb014?mod=mw_rss_topstories)
+**发布时间**: 2026-04-02 00:25
+
+---
+
+## 🆕 最新更新 (2026-04-01 23:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla’s delivery update is on deck. Why investors shouldn’t abandon an ‘unwavering belief’ in EVs.](https://www.marketwatch.com/story/teslas-delivery-update-is-on-deck-why-investors-shouldnt-abandon-an-unwavering-belief-in-evs-e8f33979?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 23:00
+
+#### [‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?](https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:55
+
+#### [‘I’m finding it frustrating’: Why $4-a-gallon gas prices feel a lot worse this time around](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:41
+
+#### [Fired via email? Some of the 30,000 workers cut by Oracle woke up to a morning message saying they were laid off.](https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 22:12
+
+#### [How TV’s ‘Love Story’ helped Calvin Klein parent ease investor anxieties about consumer demand](https://www.marketwatch.com/story/how-tvs-love-story-helped-calvin-klein-parent-ease-investor-anxieties-about-consumer-demand-3fe67090?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 21:40
+
+#### [Intel’s stock pops as its latest move signals a ‘turnaround’ is afoot](https://www.marketwatch.com/story/intels-stock-pops-as-its-latest-move-signals-a-turnaround-is-afoot-527ea529?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 21:22
+
+#### [‘Liberation day’ one year later: What Trump’s tariffs are costing America](https://www.marketwatch.com/story/liberation-day-one-year-later-what-trumps-tariffs-are-costing-america-d8aacc13?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:53
+
+#### [Just in time for Easter: Egg prices tumbled 70%, and here’s how people responded](https://www.marketwatch.com/story/just-in-time-for-easter-egg-prices-tumbled-70-and-heres-how-people-responded-18d5c1d0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:40
+
+#### [A falling stock market may hurt the U.S. economy more than high prices at the pump](https://www.marketwatch.com/story/a-falling-stock-market-may-hurt-the-u-s-economy-more-than-high-prices-at-the-pump-131f33ba?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:33
+
+#### [Here’s one reason investors shouldn’t get too excited about this week’s stock-market rebound](https://www.marketwatch.com/story/heres-one-reason-investors-shouldnt-get-too-excited-about-this-weeks-stock-market-rebound-d394affd?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 20:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Amazon in talks to buy $9bn satellite group Globalstar in bid to rival Musk’s Starlink](https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c)
+**发布时间**: 2026-04-01 22:40
+
+#### [SpaceX filing kicks off largest IPO process in history](https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb)
+**发布时间**: 2026-04-01 21:30
+
+#### [Saudi Arabia bridles at Trump’s way of waging war](https://www.ft.com/content/dcbd5448-2357-44a7-b2b0-05de1b68e69f)
+**发布时间**: 2026-04-01 21:00
+
+#### [Trump threatened to stop weapons for Ukraine unless Europe joined Hormuz coalition](https://www.ft.com/content/d304071a-ca97-4b3b-be93-ff880a6645c3)
+**发布时间**: 2026-04-01 17:48
+
+#### [Labour must get out of its own way](https://www.ft.com/content/22beca6b-294c-4483-8705-4688ba608f33)
+**发布时间**: 2026-04-01 17:13
+
+#### [US Supreme Court signals doubts over Trump’s birthright citizenship challenge](https://www.ft.com/content/2de274a5-72f7-4d5e-8701-7ad0c60522ea)
+**发布时间**: 2026-04-01 16:58
+
+#### [UK borrowers coming off five-year fixes face biggest mortgage ‘shock’](https://www.ft.com/content/5c92f335-983d-4d20-81e9-eacb7fc5b7b9)
+**发布时间**: 2026-04-01 12:53
+
+#### [Trump learns that not everyone has a price](https://www.ft.com/content/328b187e-384d-4322-83d7-8ad7edaa29d4)
+**发布时间**: 2026-04-01 11:51
+
+#### [Starmer signals major UK pivot towards EU after Trump taunts](https://www.ft.com/content/9f3d05e0-d684-40be-8ecb-b8c9e69ddda5)
+**发布时间**: 2026-04-01 11:00
+
+#### [Berkeley shares tumble as housebuilder cuts profit forecast and halts land purchases](https://www.ft.com/content/d42e59f7-3d35-4927-92c9-597e2a02f1a6)
+**发布时间**: 2026-04-01 08:36
+
+---
+
+## 🆕 最新更新 (2026-04-01 09:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We’re a wildly fickle bunch’: Gas prices hit $4 a gallon. Why do I feel like I’m the only American who is genuinely upset?](https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 09:06
+
+#### [Reality TV star Tyler Cameron makes a big move in his real-estate career with new Florida development](https://www.marketwatch.com/story/reality-tv-star-tyler-cameron-makes-a-big-move-in-his-real-estate-career-with-new-florida-development-ca9e5b56?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 09:02
+
+#### [Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war](https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 08:44
+
+#### [Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.](https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 08:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Political drama reaches heart of UK’s nuclear deterrent](https://www.ft.com/content/a9a5f54f-3e7c-4920-8132-ab28c4c6bba3)
+**发布时间**: 2026-04-01 08:40
+
+#### [Stocks rally on hopes Iran war will end soon](https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c)
+**发布时间**: 2026-04-01 07:11
+
+#### [BP’s new chief promises ‘clear direction’ after turbulent year](https://www.ft.com/content/5510fc9b-e336-4c69-a428-4a843acc1839)
+**发布时间**: 2026-04-01 07:04
+
+#### [The hidden history behind Apple’s manufacturing power](https://www.ft.com/content/080062ff-e555-4e88-860c-a693b2148259)
+**发布时间**: 2026-04-01 04:00
+
+---
+
+## 🆕 最新更新 (2026-04-01 06:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple at 50: the roots of a tech revolution](https://www.ft.com/content/080062ff-e555-4e88-860c-a693b2148259)
+**发布时间**: 2026-04-01 04:00
+
+#### [The global economy turns out to be more resilient than we had feared](https://www.ft.com/content/87272792-03e3-4124-a376-1a4baadfd5b2)
+**发布时间**: 2026-04-01 04:00
+
+#### [One battle after another: Netanyahu’s new security doctrine](https://www.ft.com/content/6d0e66bf-4982-430a-821b-d27dfa1b0a3e)
+**发布时间**: 2026-04-01 04:00
+
+#### [Record number of megadeals agreed in first quarter](https://www.ft.com/content/4c004e97-e582-4f47-89ea-83c126d0df9d)
+**发布时间**: 2026-04-01 04:00
+
+#### [Trump says US could withdraw from Iran ‘whether we have a deal or not’](https://www.ft.com/content/77e5184d-9854-4a30-b53c-498223b436a5)
+**发布时间**: 2026-04-01 02:25
+
+#### [Chinese government bonds emerge as lone war haven](https://www.ft.com/content/72215587-4b6c-454c-85ff-6956132705d9)
+**发布时间**: 2026-04-01 02:25
+
+#### [Markets rebound on hopes war will end soon](https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c)
+**发布时间**: 2026-03-31 23:26
+
+#### [Iran war gives Chinese exporters chance to grab global market share](https://www.ft.com/content/5c353173-5c60-4ec0-8920-409caf77c4d7)
+**发布时间**: 2026-03-31 21:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are 12 top tech-themed stock picks from UBS analysts](https://www.marketwatch.com/story/here-are-12-top-tech-themed-stock-picks-from-ubs-analysts-61e80582?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 02:49
+
+#### [‘She has taken my inheritance’: My mom bullied my grandmother to change her will and physically abused her. What can we do?](https://www.marketwatch.com/story/she-has-taken-my-inheritance-my-mom-bullied-my-grandmother-to-change-her-will-and-physically-abused-her-what-can-we-do-2c4ee13f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 01:13
+
+#### [A wild first quarter comes to an end: 6 charts that defined a chaotic stretch for stocks](https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-01 00:23
+
+---
+
+## 🆕 最新更新 (2026-03-31 23:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nike expects more falling sales, as stock sinks amid worries turnaround is not working](https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 23:24
+
+#### [Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year](https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 23:05
+
+#### [Here’s what’s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-april-2026-on-netflix-hulu-hbo-max-and-more-e6e085e7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:59
+
+#### [How Allbirds went from a $2.2 billion IPO to a $39 million flop](https://www.marketwatch.com/story/how-allbirds-went-from-a-2-2-billion-ipo-to-a-39-million-flop-d34682e7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:51
+
+#### [Oracle’s stock rises as company reportedly begins thousands of job cuts](https://www.marketwatch.com/story/oracles-stock-rises-as-company-reportedly-begins-thousands-of-job-cuts-d3cc07fb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:45
+
+#### [Stocks surge, ending a tough month on a high note. But there’s skepticism about the rally.](https://www.marketwatch.com/story/stocks-surge-ending-a-tough-month-on-a-high-note-but-theres-skepticism-about-the-rally-4ee11873?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:17
+
+#### [OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update](https://www.marketwatch.com/story/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update-b00f4141?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 22:15
+
+#### [20 stocks that bucked the stock market’s decline in March with gains of up to 40%](https://www.marketwatch.com/story/20-stocks-that-bucked-the-stock-markets-decline-in-march-with-double-digit-gains-ad396fc6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:49
+
+#### [My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?](https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:38
+
+#### [These 20 stocks in the S&P 500 fell hardest during March](https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 21:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Judge halts construction of Trump’s $400mn White House ballroom](https://www.ft.com/content/8c36d518-cafc-45f9-a272-0ef4ef48e1de)
+**发布时间**: 2026-03-31 23:23
+
+#### [Trump says US to end war in Iran within ‘2 to 3 weeks’](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 22:09
+
+#### [Israel to ‘demolish’ all houses in Lebanese border villages](https://www.ft.com/content/146faa0e-c1c8-4565-bf8e-25869ce8ec98)
+**发布时间**: 2026-03-31 21:06
+
+#### [UK submarine captain steps down after link to Chinese spy case](https://www.ft.com/content/93beaf9c-e1c8-4875-b446-2cd148529f6a)
+**发布时间**: 2026-03-31 20:17
+
+#### [Oil soars 60% in March as Middle East crisis chokes energy supplies](https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb)
+**发布时间**: 2026-03-31 20:09
+
+#### [OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e)
+**发布时间**: 2026-03-31 20:09
+
+#### [Trump’s presidential library to feature soaring tower and golden statue](https://www.ft.com/content/610e84c7-be7b-42f9-8959-d6b6e6dd9a66)
+**发布时间**: 2026-03-31 15:43
+
+#### [Nvidia invests $2bn in chipmaker Marvell to boost AI networking](https://www.ft.com/content/e23bc33e-757e-46bc-acad-e89647351324)
+**发布时间**: 2026-03-31 15:42
+
+#### [Trump is not just sinking in the Gulf](https://www.ft.com/content/1a36ccb1-0100-44eb-97ac-d1f50c6d23f4)
+**发布时间**: 2026-03-31 11:23
+
+#### [Billionaire Rokos donates record £190mn to Cambridge university](https://www.ft.com/content/dad9e967-47fb-4843-a763-09ea06eb7049)
+**发布时间**: 2026-03-31 11:00
+
+---
+
+## 🆕 最新更新 (2026-03-31 09:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your chance to spend the night in the $21 million ‘Hannah Montana’ Malibu beach house—or buy it](https://www.marketwatch.com/story/your-chance-to-spend-the-night-in-the-21-million-hannah-montana-malibu-beach-houseor-buy-it-12d9fdd8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:03
+
+#### [World’s best-performing stock market of 2026 is the worst-performing in March](https://www.marketwatch.com/story/worlds-best-performing-stock-market-of-2026-is-the-worst-performing-in-march-be36f691?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 09:03
+
+#### [Drew Barrymore is selling her historic Westchester estate for $5 million](https://www.marketwatch.com/story/drew-barrymore-is-selling-her-historic-westchester-estate-for-5-million-6daaeb52?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Unilever nears deal to merge food unit with McCormick to create $60bn group](https://www.ft.com/content/303f48d6-e6ea-470c-9688-730fb6a3f216)
+**发布时间**: 2026-03-31 06:50
+
+#### [BlackRock looks at HSBC’s Canary Wharf tower for new London HQ](https://www.ft.com/content/95fe2fb7-d369-4416-9dda-9cf619172ff4)
+**发布时间**: 2026-03-31 04:00
+
+#### [BlackRock to boost investment in NHS property](https://www.ft.com/content/1cdcf217-2fb3-4ccb-aacf-08295403f6c4)
+**发布时间**: 2026-03-31 04:00
+
+#### [‘Pump anxiety’ from soaring fuel prices prompts surge in EV interest](https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1)
+**发布时间**: 2026-03-31 04:00
+
+#### [US petrol prices hit $4 a gallon for first time since 2022](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 00:36
+
+---
+
+## 🆕 最新更新 (2026-03-31 06:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539)
+**发布时间**: 2026-03-31 04:00
+
+#### [Why do politicians want AI to go faster?](https://www.ft.com/content/1ef171a4-7068-4b0f-b8bd-8183c5d760b5)
+**发布时间**: 2026-03-31 04:00
+
+#### [The City law firm that found wealth in private capital](https://www.ft.com/content/f0d130f5-23ba-4263-b026-fa887ac89045)
+**发布时间**: 2026-03-31 04:00
+
+#### [‘Pump anxiety’ from soaring fuel prices prompts surge in interest in EVs](https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1)
+**发布时间**: 2026-03-31 04:00
+
+#### [Cracks appear in US-UK security co-operation after Trump-Starmer tensions](https://www.ft.com/content/7b964e41-4f79-4607-af25-1ee637ba6f12)
+**发布时间**: 2026-03-31 04:00
+
+#### [Foreign central banks sell US Treasuries in wake of Iran war](https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76)
+**发布时间**: 2026-03-31 04:00
+
+#### [Swiss lawmakers signal compromise on $22bn UBS capital plan](https://www.ft.com/content/727eec9f-8548-45ff-8b74-88f2d5efb685)
+**发布时间**: 2026-03-31 04:00
+
+#### [Kuwaiti oil tanker struck off Dubai](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 00:36
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures jump, oil prices retreat on report Trump willing to end war](https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 01:57
+
+#### [Most people have already gotten their tax refunds. That’s bad news for restaurants and retailers.](https://www.marketwatch.com/story/most-people-have-already-gotten-their-tax-refunds-thats-bad-news-for-restaurants-and-retailers-023ded5e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-31 00:57
+
+---
+
+## 🆕 最新更新 (2026-03-30 23:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Want to watch all of the Yankees’ games on TV this season? It’ll cost you over $1,200.](https://www.marketwatch.com/story/want-to-watch-all-of-the-yankees-games-on-tv-this-season-itll-cost-you-over-1-200-1bdc9ac5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 23:36
+
+#### [Strategy skips a week of bitcoin purchases for the first time this year](https://www.marketwatch.com/story/strategy-skips-a-week-of-bitcoin-purchases-for-the-first-time-this-year-81ba10ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 23:33
+
+#### [U.S. stocks are faring worse than during past geopolitical shocks — and there’s plenty of room for them to fall further](https://www.marketwatch.com/story/u-s-stocks-are-faring-worse-than-during-past-geopolitical-shocks-and-theres-plenty-of-room-for-them-to-fall-further-30a17285?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:59
+
+#### [This AI power company’s Trump-named power project still has no customers in sight](https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:41
+
+#### [Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout](https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:38
+
+#### [Microsoft’s stock may extend a record stretch of lagging performance that’s ignited fierce debate](https://www.marketwatch.com/story/microsofts-stock-may-extend-a-record-stretch-of-lagging-performance-thats-ignited-fierce-debate-ff1a2576?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:22
+
+#### [This is a reason the Middle East’s major oil-producing countries have been selling their U.S. Treasurys](https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:05
+
+#### [‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance](https://www.marketwatch.com/story/i-was-shoveling-sidewalks-at-8-years-old-im-a-73-year-old-boomer-dad-with-two-kids-heres-what-i-teach-them-about-finance-339e1295?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 20:00
+
+#### [A more than 50% rise in oil prices over the past month may be more than just a ‘short-lived shock’](https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 19:28
+
+#### [Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs](https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 19:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK growers warn of cucumber and tomato shortages as gas prices surge](https://www.ft.com/content/c3664545-03f0-4c09-a4d3-70b6300ca4d9)
+**发布时间**: 2026-03-30 23:01
+
+#### [Pete Hegseth’s broker looked to buy defence fund before Iran attack](https://www.ft.com/content/744ea8dc-6d93-4fe9-a5e3-36de4f5d06db)
+**发布时间**: 2026-03-30 22:32
+
+#### [Trump could ask Gulf states to contribute to war costs, says White House](https://www.ft.com/content/b948ad9a-2219-46d6-ad46-8e7abe51b764)
+**发布时间**: 2026-03-30 21:43
+
+#### [Shipping industry casts doubt on Trump’s ‘present’ from Iran](https://www.ft.com/content/a96367d7-2b1c-4826-b694-ef7aa0b82e04)
+**发布时间**: 2026-03-30 21:35
+
+#### [Israel approves death penalty law targeting Palestinians](https://www.ft.com/content/83abdc9d-442c-469e-a61e-0beb767b1f31)
+**发布时间**: 2026-03-30 19:12
+
+#### [UK to receive last tanker of jet fuel from Middle East this week](https://www.ft.com/content/19f155b1-8b12-491a-bbc5-a3bdb2a2e607)
+**发布时间**: 2026-03-30 17:55
+
+#### [A blueprint for Chinese global leadership](https://www.ft.com/content/cf2eeead-461d-4e3b-aeb7-48b30114643c)
+**发布时间**: 2026-03-30 14:04
+
+#### [Iran could emerge from the war stronger and more dangerous](https://www.ft.com/content/04f6c510-47a8-4e05-99d5-5372fceeb395)
+**发布时间**: 2026-03-30 11:41
+
+#### [Trump hails ‘progress’ on Iran deal but threatens huge infrastructure attack](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
+
+---
+
+## 🆕 最新更新 (2026-03-30 09:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Crazy’ damage: ‘Aquaman’ star Jason Momoa fled his Hawaii home after historic flooding devastates area](https://www.marketwatch.com/story/crazy-damage-aquaman-star-jason-momoa-fled-his-hawaii-home-after-historic-flooding-devastates-area-1847d0d2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 09:04
+
+#### [Kylie Jenner lists another mansion: The $20 million Hidden Hills starter home she bought when she was 19](https://www.marketwatch.com/story/kylie-jenner-lists-another-mansion-the-20-million-hidden-hills-starter-home-she-bought-when-she-was-19-4e1d7754?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 09:01
+
+#### [The man who was once the world’s youngest billionaire now says he’s solved the stock market. Here’s his astonishingly simple portfolio.](https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories)
+**发布时间**: 2026-03-30 07:38
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mistral raises $830mn to build Nvidia-powered AI centres in Europe](https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa)
+**发布时间**: 2026-03-30 08:06
+
+#### [Hungary returns just 18% of funds flagged by EU fraud watchdog](https://www.ft.com/content/89730f92-9d8d-4de3-88d6-ddab87ca400a)
+**发布时间**: 2026-03-30 04:00
+
+#### [Oil rises to $116 as Trump stokes fears of protracted conflict](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
+
+#### [Trump says US could ‘take the oil in Iran’](https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5)
+**发布时间**: 2026-03-29 23:51
+
+---
+
+## 🆕 最新更新 (2026-03-30 06:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [TotalEnergies made bumper profit on Middle East oil bet](https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31)
+**发布时间**: 2026-03-30 04:00
+
+#### [Private capital: what are the risks?](https://www.ft.com/content/214371b3-aad0-405d-88f3-28b371f4c776)
+**发布时间**: 2026-03-30 04:00
+
+#### [What to do when the ‘public good’ of information goes bad](https://www.ft.com/content/c1af9258-a77d-469c-8b8b-b455321786b3)
+**发布时间**: 2026-03-30 04:00
+
+#### [America’s gig economy](https://www.ft.com/content/35923259-841c-40aa-b182-68b73dd4c89d)
+**发布时间**: 2026-03-30 04:00
+
+#### [Insurers give Emirates ‘outrageously’ cheap war insurance cover](https://www.ft.com/content/25108328-2fd4-4697-9ea9-52f7a2e5348e)
+**发布时间**: 2026-03-30 04:00
+
+#### [The lords and alleged lawbreakers among MFS’s eclectic borrowers](https://www.ft.com/content/cac1f938-a19f-48b8-aab2-41a666c73723)
+**发布时间**: 2026-03-30 04:00
+
+#### [UK ministers explore ‘targeted’ energy bill relief for those most in need](https://www.ft.com/content/70304689-db2a-43d2-9751-7d56af15b629)
+**发布时间**: 2026-03-30 04:00
+
+#### [Oil rises close to $115 as Trump stokes fears of protracted conflict](https://www.ft.com/content/dcf55026-1c12-4643-84c2-d68f86b012eb)
+**发布时间**: 2026-03-30 00:26
+
+#### [Pro-AI group to spend $100mn on US midterm elections as backlash grows](https://www.ft.com/content/6a3f1938-759d-4ae4-924e-6a0feac14e24)
+**发布时间**: 2026-03-30 00:03
+
+#### [Donald Trump says US could ‘take the oil in Iran’](https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5)
+**发布时间**: 2026-03-29 23:51
+
+---
+
+## 🆕 最新更新 (2026-03-29 23:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up](https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 23:06
+
+#### [Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict](https://www.marketwatch.com/story/investors-have-nowhere-to-hide-as-financial-markets-groan-under-the-weight-of-the-iran-conflict-41d3d2a2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 19:30
+
+#### [Nike’s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround.](https://www.marketwatch.com/story/nikes-stock-is-at-9-year-lows-ahead-of-earnings-it-faces-these-questions-as-doubt-grows-over-its-turnaround-7861a90c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 14:00
+
+#### [‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?](https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 12:42
+
+#### [An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who’s right?](https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-29 11:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price rises past $115 as Iran conflict worsens](https://www.ft.com/content/21607fce-182d-45d1-bcf2-d2a78f9339cb)
+**发布时间**: 2026-03-29 22:17
+
+#### [Israel blocks Catholic cardinal from Holy Sepulchre on Palm Sunday](https://www.ft.com/content/ec798184-1d08-46dd-8fcf-c06a2efd1977)
+**发布时间**: 2026-03-29 21:37
+
+#### [Avoid energy protectionism, UK chancellor will tell G7 allies](https://www.ft.com/content/52541a81-f64d-4eaf-8201-ec2928269aee)
+**发布时间**: 2026-03-29 21:30
+
+#### [Distressed-debt funds target private credit downturn as ‘greatest opportunity’ since 2008](https://www.ft.com/content/8c3514be-8c7b-4d13-a59a-dd8a23fb8c40)
+**发布时间**: 2026-03-29 20:00
+
+#### [US-Israeli war against Iran escalates as talks prove fruitless](https://www.ft.com/content/a8dbcf5f-df38-43de-bb4c-de3780cad0ab)
+**发布时间**: 2026-03-29 17:52
+
+#### [Apollo looks beyond New York as it plans second headquarters](https://www.ft.com/content/efeca6be-c9b5-4912-b66b-15716cc914b7)
+**发布时间**: 2026-03-29 16:13
+
+#### [EU offers UK ‘emergency brake’ on numbers for new youth mobility scheme](https://www.ft.com/content/4eaabc93-31dd-4cfc-b141-975e821253c3)
+**发布时间**: 2026-03-29 15:00
+
+#### [The Iran war will cement China’s superpower status](https://www.ft.com/content/47edd17c-366f-42e4-b0cf-c20e065210d2)
+**发布时间**: 2026-03-29 11:00
+
+---
+
+## 🆕 最新更新 (2026-03-29 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The last bridge left to ancient Tyre](https://www.ft.com/content/9a6a8fd0-bf49-48c0-b787-bcf106ffed6e)
+**发布时间**: 2026-03-29 04:00
+
+#### [The surprising science of quitting](https://www.ft.com/content/d88d95be-e637-4dc7-b3bc-ae5397649677)
+**发布时间**: 2026-03-29 04:00
+
+---
+
+## 🆕 最新更新 (2026-03-29 06:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK risks losing defence tech start-ups to relocation amid funding delays](https://www.ft.com/content/f62751d1-2292-45f7-a693-93d0af5b9f28)
+**发布时间**: 2026-03-29 04:00
+
+#### [Iran activates its ‘resistance economy’ to survive the war](https://www.ft.com/content/8d63a713-2702-4661-b4cb-0daa657d7d0e)
+**发布时间**: 2026-03-29 04:00
+
+#### [The hunger for ‘content’ is keeping us culturally stuck](https://www.ft.com/content/0d963580-eabd-40e2-8805-776893b61cc6)
+**发布时间**: 2026-03-29 04:00
+
+#### [The Pentagon-Anthropic dispute is a test of control](https://www.ft.com/content/35e58efe-8601-4c33-af91-007659b679cc)
+**发布时间**: 2026-03-29 04:00
+
+#### [OpenAI investor says AI requires an income tax overhaul](https://www.ft.com/content/7de1d3c5-0d0c-46b1-b2b7-dbf6f5226069)
+**发布时间**: 2026-03-29 04:00
+
+#### [Ministers explore triggering break clause in Palantir’s NHS contract](https://www.ft.com/content/2d2b1af1-edea-4fd0-a081-3811e34bc52e)
+**发布时间**: 2026-03-29 04:00
+
+#### [Eurozone borrowing costs soar on fears of fiscal hit from Iran shock](https://www.ft.com/content/8fbabe23-f9d7-4d6e-b7e0-2281a28d0b2c)
+**发布时间**: 2026-03-29 04:00
+
+#### [Police arrest man after car strikes ‘multiple pedestrians’ in Derby](https://www.ft.com/content/37707b35-dc9b-4711-b8a7-75ef83e2f863)
+**发布时间**: 2026-03-29 03:15
+
+---
+
+## 🆕 最新更新 (2026-03-28 23:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Americans take to streets in ‘No Kings’ day protests against Trump](https://www.ft.com/content/0c214d44-1cff-42b7-ba87-54e717a1fccd)
+**发布时间**: 2026-03-28 21:22
+
+#### [Support for JD Vance slips in straw poll of Republican candidates in 2028](https://www.ft.com/content/64dee502-774d-4cc2-804f-3093ea4480c7)
+**发布时间**: 2026-03-28 21:12
+
+#### [UK and Singapore press ahead with digital deal as WTO remains deadlocked](https://www.ft.com/content/7f8cfd99-7c5a-458d-af2c-683f340eaa9c)
+**发布时间**: 2026-03-28 17:22
+
+#### [How long can Iran keep firing missiles?](https://www.ft.com/content/6a394410-c590-4b38-9fe4-87efed9f20a0)
+**发布时间**: 2026-03-28 11:00
+
+#### [Houthi missile attack signals ‘serious’ escalation in Iran war](https://www.ft.com/content/e77d9ac6-d9dd-415e-a4a7-f54d3060239a)
+**发布时间**: 2026-03-28 10:47
+
+#### [No BS: using corporate jargon is really giving you away](https://www.ft.com/content/f2b68713-71d7-403c-9d44-efa49bdc476d)
+**发布时间**: 2026-03-28 05:00
+
+#### [Social media is populist and polarising; AI may be the opposite](https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e)
+**发布时间**: 2026-03-28 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [ETFs have crushed Wall Street’s go-to stock-market indicator](https://www.marketwatch.com/story/how-etfs-crushed-wall-streets-favorite-stock-market-indicator-39940760?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:04
+
+#### [Your stock portfolio soared on cheap market risk — but the easy money is over](https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:04
+
+#### [These 3 growth sectors are helping people flourish — and long-term investors are buying in](https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 17:03
+
+---
+
+## 🆕 最新更新 (2026-03-28 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The decapitation dilemma](https://www.ft.com/content/36b4e6fc-8fb2-4fa3-8621-6fab2950d979)
+**发布时间**: 2026-03-28 05:00
+
+#### [A ‘victim’ and a ‘dinosaur’: three days of Crispin Odey testimony](https://www.ft.com/content/4fd5f10d-f161-4e77-8377-28239d9ab018)
+**发布时间**: 2026-03-28 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-28 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Pakistan put itself in the middle of US-Iran peace talks](https://www.ft.com/content/5f946eff-3e9c-4feb-ab6b-60e15cc3e183)
+**发布时间**: 2026-03-28 05:05
+
+#### [Iranian strike wounds US troops at air base in Saudi Arabia](https://www.ft.com/content/99a5df0f-1c77-46db-abf1-543a4fe05862)
+**发布时间**: 2026-03-28 04:30
+
+#### [Global markets recoil as Rubio warns war in Iran could stretch for weeks](https://www.ft.com/content/4f095d4b-46cb-4ed6-90cf-aa560fba2bc1)
+**发布时间**: 2026-03-27 23:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I want safe returns’: I’m 73 with $300,000 saved. I’m not interested in the stock market. What should I do?](https://www.marketwatch.com/story/i-want-safe-returns-im-73-with-300-000-saved-im-not-interested-in-the-stock-market-what-should-i-do-85db84e2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-28 02:16
+
+#### [‘He didn’t seem very alert’: Our CPA said we owe the IRS $443, but we’re actually due a refund of $637. Do we fire him?](https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:16
+
+---
+
+## 🆕 最新更新 (2026-03-27 23:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is Trump losing his grip on the stock market? Sustained declines suggest the president’s influence has waned.](https://www.marketwatch.com/story/is-trump-losing-his-grip-on-the-market-sustained-stock-declines-suggest-the-presidents-influence-has-waned-02bc5938?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:18
+
+#### [‘He didn’t seem very alert’: Our new CPA said we owe a $443 tax refund, but we’re actually due $637. Do we fire him?](https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:16
+
+#### [My brother says lawyers can get him a Medicaid nursing home in Florida for a ‘hefty fee,’ despite his assets. Is this a scam?](https://www.marketwatch.com/story/my-brother-says-lawyers-can-get-him-into-a-medicaid-nursing-home-despite-his-many-assets-is-this-a-scam-614c2f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 23:15
+
+#### [More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?](https://www.marketwatch.com/story/more-than-half-of-the-s-p-500-industry-sectors-are-in-correction-territory-how-much-longer-until-the-index-itself-succumbs-d649a87a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:46
+
+#### [These 16 stocks are a short seller’s dream — likely losers no matter what the market does](https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:31
+
+#### [Social media is now a massive liability for Meta, Google and the rest of Big Tech](https://www.marketwatch.com/story/big-tech-deserves-its-big-tobacco-moment-social-media-is-now-a-massive-liability-for-meta-and-google-5d81bd70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:29
+
+#### [The $200,000 down-payment dilemma: Gift the cash now — or make your kids wait for the will](https://www.marketwatch.com/story/the-200-000-down-payment-dilemma-gift-the-cash-now-or-make-your-kids-wait-for-the-will-3966f615?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 21:25
+
+#### [Microsoft’s stock hasn’t been this oversold in a decade, with the tech giant ‘really losing the AI narrative’](https://www.marketwatch.com/story/microsofts-stock-hasnt-been-this-oversold-in-a-decade-with-the-tech-giant-really-losing-the-ai-narrative-5d986b1f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 20:52
+
+#### [Meta’s stock extends decline — and the pressure may not abate anytime soon](https://www.marketwatch.com/story/metas-stock-extends-decline-and-the-pressure-may-not-abate-anytime-soon-ea01a671?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 20:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KPMG to cut almost 600 UK jobs as slowdown persists](https://www.ft.com/content/f968bf7f-ad09-4748-a201-5f8ab1deaf11)
+**发布时间**: 2026-03-27 22:24
+
+#### [Gulf officials seek to calm investors as war rattles confidence](https://www.ft.com/content/c5ea85a8-e08b-4773-9c07-2e10c6fce73f)
+**发布时间**: 2026-03-27 21:35
+
+#### [Stocks and bonds slump in tandem as Iran shock leaves investors ‘nowhere to hide’](https://www.ft.com/content/9b9b3121-851e-4cf9-bdcf-af8b17ee53c7)
+**发布时间**: 2026-03-27 21:03
+
+#### [Memory chip stocks shed $100bn as AI-driven shortage trade unwinds](https://www.ft.com/content/e4e15692-187e-4466-832e-ec267e792292)
+**发布时间**: 2026-03-27 19:28
+
+#### [US expects war against Iran to last another 2-4 weeks, Rubio tells G7](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-27 19:06
+
+#### [UK diesel stockpiles at risk, warn traders](https://www.ft.com/content/b20bd209-0f76-486a-8ad5-d2fb7f539b24)
+**发布时间**: 2026-03-27 19:06
+
+#### [Google nears deal to help finance multibillion-dollar data centre leased to Anthropic](https://www.ft.com/content/af949b0b-3e24-4eaa-9a52-0a841ac1ff22)
+**发布时间**: 2026-03-27 17:43
+
+#### [What the Iran war teaches America’s adversaries](https://www.ft.com/content/267f4f7f-eab9-42c4-ae5a-042247c400cf)
+**发布时间**: 2026-03-27 16:17
+
+#### [US seeks to scrap offshore wind projects in exchange for fossil fuel deals](https://www.ft.com/content/a73e04be-ebf1-44cf-9876-f4b521f009b7)
+**发布时间**: 2026-03-27 16:14
+
+#### [Time to tackle the rank absurdities in UK energy policy](https://www.ft.com/content/adfa1335-f12c-41d1-ac2f-d9895c8ab288)
+**发布时间**: 2026-03-27 15:08
+
+#### [How Iran is seeking to cash in on the Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-27 08:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.](https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 08:09
+
+#### [U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE](https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 07:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Iran seeks to cash in on Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
+
+#### [Echoes of history: what the oil shock means for your money](https://www.ft.com/content/37ab11f7-2ba0-4d76-a5b5-e3dec460628e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Reform UK figures braced for electoral damage from Trump links](https://www.ft.com/content/c07b1941-d271-49b5-9244-e72695501a00)
+**发布时间**: 2026-03-27 05:00
+
+#### [Energy crisis deals blow to hopes for UK consumer revival](https://www.ft.com/content/1b5ec0a2-b4a9-415e-958c-f9a7725dced6)
+**发布时间**: 2026-03-27 00:01
+
+#### [Oil nears $110 as Trump deadline extension fails to calm markets](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-26 23:43
+
+---
+
+## 🆕 最新更新 (2026-03-27 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UAE pushes for international force to reopen Hormuz](https://www.ft.com/content/aeb1cf6c-edde-486e-b437-94bbd4437912)
+**发布时间**: 2026-03-27 05:00
+
+#### [Iran seeks to cash in on Strait of Hormuz](https://www.ft.com/content/cde4af2e-8ef3-422a-9197-325dac194190)
+**发布时间**: 2026-03-27 05:00
+
+#### [How MI5 gets into the minds of young terrorists](https://www.ft.com/content/cce72e55-ec9c-4cb8-a36b-6ef307f4953e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Why molecules matter in the age of the Halo trade](https://www.ft.com/content/6e282895-8b68-41c9-8bef-a74de83d374d)
+**发布时间**: 2026-03-27 05:00
+
+#### [Keir Starmer set to make Sadiq Khan a lord](https://www.ft.com/content/6ea06de7-dae8-4711-931d-012159730e4f)
+**发布时间**: 2026-03-27 05:00
+
+#### [UK ministers to push ahead with capped ‘mandation’ powers on pension schemes](https://www.ft.com/content/ee6cb1a3-4943-4fa6-b302-c3965458ed52)
+**发布时间**: 2026-03-27 05:00
+
+#### [SocGen ditches ‘shadow’ trading floors in favour of work from home](https://www.ft.com/content/27a2614a-fc21-41ab-af43-3e1bbeb1c81e)
+**发布时间**: 2026-03-27 05:00
+
+#### [Oil steadies as Israel renews attacks on Tehran](https://www.ft.com/content/ef7cb7f7-829c-499d-a075-52ac485e3de9)
+**发布时间**: 2026-03-26 23:43
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Americans are now providing more than $1 trillion in unpaid family caregiving a year](https://www.marketwatch.com/story/americans-are-now-providing-more-than-1-trillion-in-unpaid-family-caregiving-a-year-bc5479fe?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 01:51
+
+#### [Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B](https://www.marketwatch.com/story/americas-nuclear-renaissance-has-everything-except-uranium-welders-and-a-plan-0851782d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 00:14
+
+#### [Investors are snubbing Trump’s Iran pause. Even his Truth Social posts may not save the market.](https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-27 00:14
+
+---
+
+## 🆕 最新更新 (2026-03-26 23:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says he’ll order that TSA officers be paid, in a move that could end long waits at airport security](https://www.marketwatch.com/story/trump-may-find-a-way-to-pay-tsa-officers-in-a-move-that-could-end-long-waits-at-airport-security-d9d030a5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 23:28
+
+#### [This map shows a crude ticking time bomb that hits much of the world’s oil supply in April](https://www.marketwatch.com/story/this-map-shows-a-crude-ticking-time-bomb-that-hits-much-of-the-worlds-oil-supply-in-april-2c058db6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 22:06
+
+#### [Why software stocks proved resilient on a dismal day for tech](https://www.marketwatch.com/story/why-software-stocks-proved-resilient-on-a-dismal-day-for-tech-cbdc4bbb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:54
+
+#### [Micron’s stock falls into a bear market — and it’s now the cheapest in the S&P 500](https://www.marketwatch.com/story/microns-stock-falls-into-a-bear-market-and-its-now-the-cheapest-in-the-s-p-500-f90d9114?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:33
+
+#### [Why Tesla isn’t getting a boost from high gas prices](https://www.marketwatch.com/story/why-tesla-isnt-getting-a-boost-from-high-gas-prices-39a5bacf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:21
+
+#### [Trump pauses plans to attack Iranian energy infrastructure, as Nasdaq falls into a correction](https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:19
+
+#### [Iran’s Kharg Island may be the next battleground, as Trump extends pause on attacking energy infrastructure](https://www.marketwatch.com/story/irans-economic-heartbeat-kharg-island-may-be-the-next-battleground-as-trumps-5-day-pause-ends-this-weekend-e8917c41?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:17
+
+#### [My brother says lawyers can get him into a Medicaid nursing home, despite his many assets. Is this a scam?](https://www.marketwatch.com/story/my-brother-says-lawyers-can-get-him-into-a-medicaid-nursing-home-despite-his-many-assets-is-this-a-scam-614c2f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:10
+
+#### [As Meta sheds $119 billion in market cap, has the stock become ‘uninvestable’?](https://www.marketwatch.com/story/as-meta-sheds-119-billion-in-market-cap-has-the-stock-become-uninvestable-994c4bd6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 21:08
+
+#### [My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake.](https://www.marketwatch.com/story/my-paypal-account-received-money-from-the-philippines-with-two-phone-numbers-listed-i-called-them-big-mistake-5cd4cd47?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 20:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump extends Iran talks deadline after sell-off on Wall Street](https://www.ft.com/content/6fc9a9f5-ce8f-471a-a4d2-2166d63e3bd8)
+**发布时间**: 2026-03-26 22:07
+
+#### [Putin asks oligarchs to donate to budget as cost of Ukraine war soars](https://www.ft.com/content/d10dfb27-f56f-45a0-9423-af5253cbedd5)
+**发布时间**: 2026-03-26 21:53
+
+#### [Israeli military doubts war will topple Iranian regime](https://www.ft.com/content/7cdf6546-a4a0-4999-95dd-292235ee738d)
+**发布时间**: 2026-03-26 21:00
+
+#### [US bond market shows signs of strain as Iran war sparks Treasury tumult](https://www.ft.com/content/2e0185d1-3229-463c-8391-6dd09fe11886)
+**发布时间**: 2026-03-26 20:51
+
+#### [Iran’s hardline new leaders take control](https://www.ft.com/content/7a86d572-52a7-459c-aac6-674022e07e0d)
+**发布时间**: 2026-03-26 20:09
+
+#### [OpenAI makes a ‘Code Red’ turn in strategy](https://www.ft.com/content/f2b478a5-d7e0-48f6-bdb4-f9df90f4c7e0)
+**发布时间**: 2026-03-26 17:59
+
+#### [Jaguar Land Rover to shut UK plant for almost two weeks after supplier fire](https://www.ft.com/content/7a8d061b-de3d-468a-bc0d-44a92c21e5b0)
+**发布时间**: 2026-03-26 17:57
+
+#### [Odey fired executives for telling him to ‘sit in dungeons’ to protect women](https://www.ft.com/content/aa02ff6d-9690-4947-9d88-cc85c6293129)
+**发布时间**: 2026-03-26 16:52
+
+#### [What has happened to Iran’s top-tier missiles?](https://www.ft.com/content/fe4dcb08-4b2f-4496-af0e-13a4bce34459)
+**发布时间**: 2026-03-26 12:42
+
+#### [The case for keeping Keir Starmer a little longer](https://www.ft.com/content/252dd43e-84d5-4825-9cf9-004bb7d4f2f3)
+**发布时间**: 2026-03-26 12:23
+
+---
+
+## 🆕 最新更新 (2026-03-26 08:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stagflation is back](https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32)
+**发布时间**: 2026-03-26 05:00
+
+#### [England set to charge foreign tourists for entry to leading museums](https://www.ft.com/content/306e7f2d-fc1d-4a0f-acf0-335289da8e42)
+**发布时间**: 2026-03-26 00:01
+
+---
+
+## 🆕 最新更新 (2026-03-26 06:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel strikes Iran while Gulf countries intercept drones](https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b)
+**发布时间**: 2026-03-26 05:50
+
+#### [Bessent discussed ways to recast ties between Fed and Treasury in BoE’s image](https://www.ft.com/content/9d1859f0-2f93-4ff1-8cfb-8046342bf9f7)
+**发布时间**: 2026-03-26 05:00
+
+#### [Donald Trump vs the oil market](https://www.ft.com/content/bc6037d6-d6cf-4117-9eb0-311956ea9dd1)
+**发布时间**: 2026-03-26 05:00
+
+#### [How to survive an energy crunch](https://www.ft.com/content/7cd2d15b-89d3-4baa-b56a-eb80f3546e6a)
+**发布时间**: 2026-03-26 05:00
+
+#### [The spectre of stagflation](https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32)
+**发布时间**: 2026-03-26 05:00
+
+#### [Ferrari flies personalised supercars to super-rich Middle East buyers](https://www.ft.com/content/38ce205c-2a44-43d6-8803-c456f9f643c9)
+**发布时间**: 2026-03-26 05:00
+
+#### [Battersea Power Station held talks over sale of land at centre of dispute](https://www.ft.com/content/5691a1ea-b3a6-453e-929b-1d7427b39e6c)
+**发布时间**: 2026-03-26 05:00
+
+#### [Hong Kong weighs ‘big bang’ tax cuts for asset managers](https://www.ft.com/content/b018d802-a7d1-4853-9acd-d3007a61cf72)
+**发布时间**: 2026-03-26 03:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Mortgage rates near 6-month high — but here’s how much worse it would be without Freddie and Fannie’s bond buying](https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 02:29
+
+#### [Here’s what airlines are offering passengers trapped in long TSA lines — and why travelers won’t get much else](https://www.marketwatch.com/story/heres-what-airlines-are-offering-passengers-trapped-in-long-tsa-lines-and-why-travelers-wont-get-much-else-0cb139ae?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 02:22
+
+#### [This ‘single greatest’ stock-market predictor has never been more bearish](https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-26 00:02
+
+---
+
+## 🆕 最新更新 (2026-03-25 23:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil volatile as Iran lays out own terms to end conflict](https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b)
+**发布时间**: 2026-03-25 23:30
+
+#### [SpaceX boosts IPO ambition with plans to raise $75bn](https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1)
+**发布时间**: 2026-03-25 22:17
+
+#### [Meta and Google liable for harm to children’s mental health in landmark US case](https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a)
+**发布时间**: 2026-03-25 22:05
+
+#### [Republicans back Iran war even as voters feel ‘Biden-level’ petrol price pain](https://www.ft.com/content/44d96671-06bf-4279-beb5-c2796fa3e383)
+**发布时间**: 2026-03-25 21:48
+
+#### [UK says Chinese wind turbine maker poses national security threat](https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b)
+**发布时间**: 2026-03-25 21:22
+
+#### [Russia sending drones to Iran, western intelligence says](https://www.ft.com/content/d5d7291b-8a53-42cd-b10a-4e02fbcf9047)
+**发布时间**: 2026-03-25 21:00
+
+#### [Five-year UK mortgage rates now below two-year rates](https://www.ft.com/content/c0b04e06-ed8a-484e-8921-18f7cebb8a9e)
+**发布时间**: 2026-03-25 17:08
+
+#### [Markets were not made for Trump’s never-ending ping-pong](https://www.ft.com/content/ccdbf058-c395-416a-9e69-212cd52463d3)
+**发布时间**: 2026-03-25 16:18
+
+#### [How a US assault on Kharg Island could unfold](https://www.ft.com/content/187deed0-f1c0-4eb0-a017-ac59dc30750a)
+**发布时间**: 2026-03-25 13:00
+
+#### [Dane who lit up outside White House ‘real winner’ of elections](https://www.ft.com/content/a2dbcb98-1e95-4070-a5c8-fc7604477904)
+**发布时间**: 2026-03-25 12:54
+
+#### [Apple rolls out UK age checks for iPhone users](https://www.ft.com/content/c36dc645-8cd4-4e69-a9ce-3a0ac4071264)
+**发布时间**: 2026-03-25 12:21
+
+#### [London house prices fall for sixth consecutive month](https://www.ft.com/content/0ae454cb-285f-47a2-8f42-7e589ab8e307)
+**发布时间**: 2026-03-25 11:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [McDonald’s could make $100 million in just the first few days of selling ‘KPop Demon Hunters’ meals](https://www.marketwatch.com/story/gonna-be-golden-these-kpop-demon-hunters-meals-could-make-mcdonalds-100-million-in-just-the-first-few-days-d0fc1fe2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:46
+
+#### [Micron’s stock is dropping. Is Google partly to blame?](https://www.marketwatch.com/story/microns-stock-is-dropping-is-google-partly-to-blame-d4cad72e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:23
+
+#### [This fund has jumped 1,200% on Anthropic and SpaceX hype. Retail investors should be cautious.](https://www.marketwatch.com/story/this-fund-has-jumped-1-200-on-anthropic-and-spacex-hype-retail-investors-should-be-cautious-2b276c55?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 22:11
+
+#### [Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting](https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:48
+
+#### [The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL](https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:27
+
+#### [Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it](https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:26
+
+#### [Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.](https://www.marketwatch.com/story/super-micro-dell-and-hpe-have-been-red-hot-stocks-this-week-whats-behind-the-big-moves-9fc8acc7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:02
+
+#### [Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix](https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 21:00
+
+#### [JetBlue’s stock turns positive for the year on merger talk](https://www.marketwatch.com/story/jetblues-stock-turns-positive-for-the-year-on-merger-talk-fcd8e4fd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 20:48
+
+---
+
+## 🆕 最新更新 (2026-03-25 08:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation held steady at 3% in February before energy shock](https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b)
+**发布时间**: 2026-03-25 07:53
+
+#### [What’s moving long-term interest rates?](https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8)
+**发布时间**: 2026-03-25 06:30
+
+#### [Oil slides below $100 after US sends Iran plan to end conflict](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-25 05:16
+
+#### [The vessels capitalising on the chaos of war](https://ig.ft.com/shadow-fleet/)
+**发布时间**: 2026-03-25 05:00
+
+#### [US to deploy more troops even as Trump praises Iran talks](https://www.ft.com/content/24ec59d8-78d7-44f1-9095-a3200abbb3d9)
+**发布时间**: 2026-03-24 23:17
+
+---
+
+## 🆕 最新更新 (2026-03-25 06:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil back near $100 as Trump sends mixed signals on war](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-25 05:16
+
+#### [Nato chief riles Europe by backing Trump’s war in Iran](https://www.ft.com/content/6e0b65e1-df3c-41cc-aec1-628dd925f94a)
+**发布时间**: 2026-03-25 05:00
+
+#### [European airlines hold off jet fuel hedging in Iran war gamble](https://www.ft.com/content/6d4dc223-3295-49bb-8b35-041a5e6a96b6)
+**发布时间**: 2026-03-25 05:00
+
+#### [How the shadow fleet is capitalising on the chaos of war](https://ig.ft.com/shadow-fleet/)
+**发布时间**: 2026-03-25 05:00
+
+#### [We must not underestimate the peril for democracy](https://www.ft.com/content/c4c1dc52-4e85-4eba-9ba3-e704a0827558)
+**发布时间**: 2026-03-25 05:00
+
+#### [Farage’s Reform UK drops pledge to nationalise water and energy companies](https://www.ft.com/content/be4b6cf0-21c8-466b-9458-dac864ab51b1)
+**发布时间**: 2026-03-25 05:00
+
+#### [Tumbling gold price puts ‘haven’ status in doubt](https://www.ft.com/content/dbb810ae-0886-40fa-9f2c-e4676eec299c)
+**发布时间**: 2026-03-25 05:00
+
+#### [China reviews $2bn Manus sale to Meta as founders barred from leaving country](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a)
+**发布时间**: 2026-03-25 04:38
+
+#### [Musk lawyers try to bar Delaware judge over LinkedIn ‘like’ cheering legal defeat](https://www.ft.com/content/c53cfaa8-8db1-49b1-b877-3ac7b2095966)
+**发布时间**: 2026-03-25 03:27
+
+#### [Democrat wins election in Trump’s Mar-a-Lago district](https://www.ft.com/content/d63336c1-851f-4ab2-a68a-8473576a23ad)
+**发布时间**: 2026-03-25 02:44
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [7 software stocks set to thrive in the face of AI uncertainty](https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-25 00:44
+
+---
+
+## 🆕 最新更新 (2026-03-24 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US oil price tumbles in latest bout of market volatility](https://www.ft.com/content/e35ce13e-0e11-4363-9e6c-bcdd963404fb)
+**发布时间**: 2026-03-24 23:29
+
+#### [Trump praises peace talks with Iran as US deploys more troops](https://www.ft.com/content/24ec59d8-78d7-44f1-9095-a3200abbb3d9)
+**发布时间**: 2026-03-24 23:17
+
+#### [OpenAI to end Disney deal and Sora video app](https://www.ft.com/content/7087e252-0c24-4ba3-b64e-d1633a7692f0)
+**发布时间**: 2026-03-24 22:59
+
+#### [Charting the OpenAI ‘ecosystem’](https://www.ft.com/content/c26d916c-ca1a-4fbe-9b17-6f94d14f222a)
+**发布时间**: 2026-03-24 22:39
+
+#### [UK backs switch to electric trucks and vans with £1bn funding](https://www.ft.com/content/68a214ad-fa5b-4a1a-b17f-86539f334ef8)
+**发布时间**: 2026-03-24 22:30
+
+#### [VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence](https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072)
+**发布时间**: 2026-03-24 21:56
+
+#### [Iran says ‘non-hostile’ ships can transit Strait of Hormuz](https://www.ft.com/content/71c3295a-531a-4fa8-86bc-964b5bb821e2)
+**发布时间**: 2026-03-24 18:53
+
+#### [Iran war sends US borrowing costs soaring by most since 2024](https://www.ft.com/content/0976a312-e578-4754-99bb-ecdf46a8e8c0)
+**发布时间**: 2026-03-24 17:16
+
+#### [Crispin Odey admits grabbing former employee’s breasts without consent](https://www.ft.com/content/24ffc4b5-4e88-49c8-8abb-80aa317cd45f)
+**发布时间**: 2026-03-24 16:47
+
+#### [Business fires back at Reeves over energy costs](https://www.ft.com/content/0111b4e5-8e5e-4c45-84d3-e7244c724817)
+**发布时间**: 2026-03-24 13:58
+
+#### [Hedge fund Millennium explores shifting Dubai staff to Jersey](https://www.ft.com/content/3a3dfe47-4afa-4956-9244-893e5899453b)
+**发布时间**: 2026-03-24 12:48
+
+#### [Trump’s Armageddon-Taco shuffle](https://www.ft.com/content/2656f791-c17c-4b44-8a1e-1892fef5374a)
+**发布时间**: 2026-03-24 11:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran](https://www.marketwatch.com/story/oil-prices-fall-stock-futures-climb-on-reports-u-s-has-proposed-a-cease-fire-to-iran-c6594893?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:55
+
+#### [Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank](https://www.marketwatch.com/story/elizabeth-warren-raises-alarm-over-mrbeasts-teen-banking-app-encouraging-risky-investments-ce7f58a4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:32
+
+#### [A bad Treasury auction is offering a glimpse into the anxiety on Wall Street over the Iran war](https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:19
+
+#### [Software stocks fall as fear of AI disruption is back in full force](https://www.marketwatch.com/story/software-stocks-fall-as-fear-of-ai-disruption-is-back-in-full-force-c5cdf640?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:09
+
+#### [‘It feels slimy’: My friend offered to be my adviser, but didn’t tell me he’s paid to push financial products. Can I trust him?](https://www.marketwatch.com/story/it-feels-slimy-my-friend-offered-to-be-my-adviser-but-didnt-tell-me-hes-paid-to-push-financial-products-can-i-trust-him-4de53a0a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 22:04
+
+#### [3 signals tied to severe market drops are all flashing now](https://www.marketwatch.com/story/history-shows-investors-are-right-to-worry-about-2026-being-a-bad-year-for-u-s-stocks-2d82d09b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:59
+
+#### [Iran is testing a selective Strait of Hormuz strategy that could deliver another shock to oil markets](https://www.marketwatch.com/story/iran-is-testing-a-selective-strait-of-hormuz-strategy-that-could-deliver-another-shock-to-oil-markets-fd739b63?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:35
+
+#### [U.S. stocks are looking cheap for the first time in a year](https://www.marketwatch.com/story/u-s-stocks-are-looking-cheap-for-the-first-time-in-a-year-f4226f65?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:18
+
+#### [Long airport lines may soon disappear as senators sound hopeful on funding deal](https://www.marketwatch.com/story/long-airport-lines-may-soon-disappear-as-senators-sound-hopeful-on-funding-deal-7483c98e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 21:03
+
+#### [Pentagon reportedly plans to deploy 3,000 troops to the Middle East, lifting oil prices by nearly 5%](https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604?mod=mw_rss_topstories)
+**发布时间**: 2026-03-24 20:25
+
+---
+
+## 🆕 最新更新 (2026-03-24 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Revolut profits surge to record as it wins market share](https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b)
+**发布时间**: 2026-03-24 07:29
+
+#### [Japan’s SMFG explores possible takeover of Jefferies](https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4)
+**发布时间**: 2026-03-24 07:23
+
+#### [Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG](https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797)
+**发布时间**: 2026-03-24 06:12
+
+#### [A billionaire is taking the UK’s Indian restaurants global](https://www.ft.com/content/697c8111-2d43-4e6a-a4cf-2a12f379641b)
+**发布时间**: 2026-03-24 05:00
+
+#### [The VC firm hunting ‘almost unemployable’ misfits](https://www.ft.com/content/4d29c556-bbd9-490e-a3c8-90f5b894af9e)
+**发布时间**: 2026-03-24 05:00
+
+#### [Palantir turns poisonous on the campaign trail](https://www.ft.com/content/5d6f924d-2e7e-4a5e-ae20-d4f8e29a7d17)
+**发布时间**: 2026-03-24 05:00
+
+#### [Iran launches missiles at Israel as Lebanon pounded](https://www.ft.com/content/f9f0980b-385d-4ad2-b242-3b89666282a5)
+**发布时间**: 2026-03-23 23:16
+
+---
+
+## 🆕 最新更新 (2026-03-24 06:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Carmakers rush to secure aluminium as Middle East war hits supply](https://www.ft.com/content/167fdf4b-0afd-4a05-a6bd-e3d1518cd84d)
+**发布时间**: 2026-03-24 05:00
+
+#### [Hormuz fertiliser block will upend world’s food supply](https://www.ft.com/content/c1398187-304d-44d3-857f-673b8da0f87a)
+**发布时间**: 2026-03-24 05:00
+
+#### [China’s leaders hunt for strategic gains from US quagmire in Iran](https://www.ft.com/content/3f0b5309-2791-4370-a6d9-d0ed84820db5)
+**发布时间**: 2026-03-24 03:41
+
+#### [SoftBank tests its own borrowing limits with $30bn bet on OpenAI](https://www.ft.com/content/021d360f-23eb-469e-8894-14ac93fb7718)
+**发布时间**: 2026-03-24 01:15
+
+#### [Iran contradicts Trump and says no direct talks to end war](https://www.ft.com/content/f9f0980b-385d-4ad2-b242-3b89666282a5)
+**发布时间**: 2026-03-23 23:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This is a first-world problem’: I can’t roll over my $800,000 401(k) from my prior employer. What did I do wrong?](https://www.marketwatch.com/story/this-is-a-first-world-problem-im-72-my-company-wont-accept-my-800-000-401-k-rollover-what-now-93c5eb20?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 23:55
+
+#### [‘The bank told me I could be liable’: I found out why my brother, who has a reverse mortgage, ran out of money](https://www.marketwatch.com/story/the-bank-told-me-i-could-be-liable-i-found-out-why-my-brother-who-has-a-reverse-mortgage-ran-out-of-money-bd2d2b7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 23:53
+
+---
+
+## 🆕 最新更新 (2026-03-23 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump plays up prospect of diplomatic end to Iran war](https://www.ft.com/content/3301675e-97c6-4904-a434-0be4aa3bf615)
+**发布时间**: 2026-03-23 22:49
+
+#### [Traders placed $580mn in oil bets ahead of Trump post on Iran talks](https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696)
+**发布时间**: 2026-03-23 21:35
+
+#### [Apollo caps investor withdrawals from flagship private credit fund](https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e)
+**发布时间**: 2026-03-23 21:04
+
+#### [Estée Lauder in talks to combine with Jean Paul Gaultier owner Puig](https://www.ft.com/content/644a7f5c-ec48-49b8-bcb7-8ede2051ffcc)
+**发布时间**: 2026-03-23 20:50
+
+#### [Can Trump do a deal with Iran?](https://www.ft.com/content/8c43c8f0-b6df-4807-a688-4643bc7a8746)
+**发布时间**: 2026-03-23 19:23
+
+#### [Iran contradicts Trump and says no direct talks to end war](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 18:47
+
+#### [Markets wrong on UK interest rate rises, say economists](https://www.ft.com/content/a34164e7-e110-4845-8907-16a5722ece12)
+**发布时间**: 2026-03-23 18:37
+
+#### [UK looks at supporting vulnerable households after surge in energy prices](https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222)
+**发布时间**: 2026-03-23 18:23
+
+#### [Pakistan steps up as go-between in Trump’s Iran crisis](https://www.ft.com/content/dc7ba7ef-9e45-48ee-8ba6-88dfab66b2c1)
+**发布时间**: 2026-03-23 15:42
+
+#### [OnlyFans owner Leonid Radvinsky dies at 43](https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3)
+**发布时间**: 2026-03-23 13:47
+
+#### [Netanyahu is gambling with Israel’s future](https://www.ft.com/content/4e35167f-a7c2-4d4e-b2e4-cc9d863eec2d)
+**发布时间**: 2026-03-23 11:34
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple’s stock rises as enthusiasm builds for a potential foldable iPhone](https://www.marketwatch.com/story/apples-stock-rises-as-enthusiasm-builds-for-a-potential-foldable-iphone-2774476f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:14
+
+#### [Travel stocks are among the biggest gainers as Trump teases Iran talks](https://www.marketwatch.com/story/travel-stocks-are-among-the-biggest-gainers-as-trump-teases-iran-talks-a74017c7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:11
+
+#### [Brent oil prices claw back losses to top $100 again after hours](https://www.marketwatch.com/story/brent-oil-prices-claw-back-losses-to-top-100-again-after-hours-06c4f67f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 22:04
+
+#### [These chip stocks could be winners as Elon Musk executes on his ‘Terafab’ vision](https://www.marketwatch.com/story/these-chip-stocks-could-be-winners-as-elon-musk-executes-on-his-terafab-vision-bf994cb1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:53
+
+#### [Estee Lauder says it has a suitor. That’s still not helping its stock.](https://www.marketwatch.com/story/estee-lauder-says-it-has-a-suitor-thats-still-not-helping-its-stock-98a063dc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:50
+
+#### [Stocks of betting companies gain after new bill aims to ban sports gambling on Kalshi, Polymarket](https://www.marketwatch.com/story/draftkings-and-mgm-shares-rise-as-new-bill-threatens-to-ban-sports-gambling-on-kalshi-polymarket-4297ad28?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:42
+
+#### [Flights will keep getting more expensive and harder to find. Here’s how much worse it could get.](https://www.marketwatch.com/story/flights-will-keep-getting-more-expensive-and-harder-to-find-heres-how-much-worse-it-could-get-683f4f85?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:38
+
+#### [These states are considering gas-tax holidays. Here’s how much drivers could save.](https://www.marketwatch.com/story/these-states-are-considering-gas-tax-holidays-heres-how-much-drivers-could-save-4c6344bd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:17
+
+#### [Lumentum’s stock has surged 1,000% in a year. Why more big gains may be in store.](https://www.marketwatch.com/story/lumentums-stock-has-surged-1-000-in-a-year-why-more-big-gains-may-be-in-store-aaf7ea54?mod=mw_rss_topstories)
+**发布时间**: 2026-03-23 21:09
+
+---
+
+## 🆕 最新更新 (2026-03-23 08:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Flights disrupted after crash at NY’s LaGuardia airport kills two people](https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38)
+**发布时间**: 2026-03-23 08:45
+
+#### [Starmer grapples with Iran economic fallout and Trump mockery](https://www.ft.com/content/8014da60-1532-4879-acfc-f047ea2a6222)
+**发布时间**: 2026-03-23 08:45
+
+#### [Gilt rout deepens as traders bet on four BoE rate rises this year](https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e)
+**发布时间**: 2026-03-23 08:34
+
+#### [London ambulances set on fire in suspected antisemitic incident](https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4)
+**发布时间**: 2026-03-23 06:56
+
+#### [Gilts: blame the hedge funds?](https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d)
+**发布时间**: 2026-03-23 06:30
+
+#### [Qatar Airways parks long-haul jets in storage in Spain](https://www.ft.com/content/7c3365bf-f4b2-4fca-80b5-e331534acd40)
+**发布时间**: 2026-03-23 05:00
+
+#### [Stocks tumble as Trump and Iran step up threats](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 02:50
+
+---
+
+## 🆕 最新更新 (2026-03-23 06:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Piles of wheat and canned food stuck in transit as Iran war disrupts aid](https://www.ft.com/content/34e575ef-0803-4bd9-bb00-818fbe13197d)
+**发布时间**: 2026-03-23 05:00
+
+#### [Trump’s Iran playbook was written in the 1980s](https://www.ft.com/content/ee756503-5100-49d2-8b34-8a4a08ac3c9f)
+**发布时间**: 2026-03-23 05:00
+
+#### [Military briefing: the high cost of using fighters to down Iranian drones](https://www.ft.com/content/56e44d7b-4077-4785-87f6-5027a0beca66)
+**发布时间**: 2026-03-23 05:00
+
+#### [America keeps bailing out Trump](https://www.ft.com/content/a6d0083d-ef46-4940-965e-2dfaeecd5bc4)
+**发布时间**: 2026-03-23 05:00
+
+#### [Iran war is a risk to the flow of Gulf funds around the globe](https://www.ft.com/content/bdc2ad8c-d22f-44b5-aec4-14740f810a66)
+**发布时间**: 2026-03-23 05:00
+
+#### [Starmer to bring forward EU rules legislation in King’s Speech](https://www.ft.com/content/b0316ac9-e013-41f8-985d-5394284ff397)
+**发布时间**: 2026-03-23 05:00
+
+#### [Danish PM rides Trump Greenland row into election resurgence](https://www.ft.com/content/a6ca1cd1-b74f-4ed5-a10b-87c95c0f44df)
+**发布时间**: 2026-03-23 05:00
+
+#### [London police chief warns of ‘sustained threat’ from Iranian state plots](https://www.ft.com/content/64501ee1-1e48-4506-9f26-b8836764fb31)
+**发布时间**: 2026-03-23 05:00
+
+#### [Addison Lee boss urges minimum price for London robotaxis](https://www.ft.com/content/aa5d039d-b641-4777-88c2-0f367894fc72)
+**发布时间**: 2026-03-23 05:00
+
+#### [Merz’s reform drive put at risk after vote in western state](https://www.ft.com/content/e813be8e-8f52-4018-a518-8ddd1ec43f43)
+**发布时间**: 2026-03-23 04:42
+
+#### [Stocks tumble as Trump and Iran threaten escalation](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 02:50
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retirees, brace yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement](https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 15:27
+
+---
+
+## 🆕 最新更新 (2026-03-22 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure](https://www.marketwatch.com/story/u-s-stock-futures-sink-as-trump-and-iran-trade-threats-against-civilian-infrastructure-baae06ba?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 23:18
+
+#### [Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled](https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 23:11
+
+#### [Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.](https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 19:29
+
+#### [Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries](https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 19:25
+
+#### [Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement](https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 15:27
+
+#### [I’m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?](https://www.marketwatch.com/story/im-59-my-wife-and-i-bought-a-second-home-for-484-000-at-6-2-interest-will-this-be-a-drain-on-our-retirement-02627377?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 13:34
+
+#### [I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?](https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-22 12:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Companies face having to declare individuals behind UK political donations](https://www.ft.com/content/93298ddb-3060-486c-8f5f-d48eabe4ab8d)
+**发布时间**: 2026-03-22 20:00
+
+#### [Trump to send immigration enforcement officers to US airports](https://www.ft.com/content/5bb963b7-12a1-497b-b481-a80dcef2a588)
+**发布时间**: 2026-03-22 17:34
+
+#### [Trump pushes Iran war to new phase of escalation](https://www.ft.com/content/2c901f4b-b9c8-4fab-8fe1-6b58cb062957)
+**发布时间**: 2026-03-22 14:23
+
+#### [Starmer adviser calls for temporary UK energy profit cap](https://www.ft.com/content/d2aca8fa-1b73-4345-891a-be8b4b08729c)
+**发布时间**: 2026-03-22 13:42
+
+#### [War with Iran has exposed American fragility at sea](https://www.ft.com/content/a492b155-d8c4-4c7d-93ab-6a0d40e74489)
+**发布时间**: 2026-03-22 13:00
+
+#### [Iran threatens ‘vital’ infrastructure and Hormuz Strait closure in response to Trump ultimatum](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e)
+**发布时间**: 2026-03-22 12:34
+
+#### [How the Iran war could derail the AI boom](https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8)
+**发布时间**: 2026-03-22 12:00
+
+#### [AI hallucinations haunt users more than job losses](https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5)
+**发布时间**: 2026-03-22 05:00
+
+#### [How AI is reshaping the business of law](https://www.ft.com/content/b2c3e8b6-cc2f-46dc-808f-d237bfacbde8)
+**发布时间**: 2026-03-22 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-22 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China touts itself as ‘harbour of stability’ to global CEOs](https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1)
+**发布时间**: 2026-03-22 06:23
+
+#### [Japanese investment in Indian finance hits record as business ties tighten](https://www.ft.com/content/b7e5d802-7832-4aa8-809a-ac752d129d06)
+**发布时间**: 2026-03-22 02:30
+
+---
+
+## 🆕 最新更新 (2026-03-22 05:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f)
+**发布时间**: 2026-03-22 05:00
+
+#### [Private jets face $50,000 ‘war risk’ insurance costs to land in Gulf](https://www.ft.com/content/49cfc1af-8a13-49b4-9186-a7af47e376c6)
+**发布时间**: 2026-03-22 05:00
+
+#### [How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’](https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f)
+**发布时间**: 2026-03-22 05:00
+
+#### [Reading Socrates in Silicon Valley](https://www.ft.com/content/f9e57ed6-ad07-491c-830a-88ba92d77add)
+**发布时间**: 2026-03-22 05:00
+
+#### [Spain’s angry young men turn to the radical right](https://www.ft.com/content/7e2fbc9c-19ba-41a7-9e33-d06fb3361c31)
+**发布时间**: 2026-03-22 05:00
+
+#### [Chinese IPOs in US falter amid scrutiny of manipulation schemes](https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe)
+**发布时间**: 2026-03-22 05:00
+
+#### [Global carmakers retreat en masse from electric vehicle plans](https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26)
+**发布时间**: 2026-03-22 05:00
+
+#### [Japan sounds alarm over UK delays to combat aircraft project](https://www.ft.com/content/c3de1d53-4aa8-4e11-87b1-409172bdc3ef)
+**发布时间**: 2026-03-22 05:00
+
+#### [Collapsed mortgage lender MFS was given all-clear in 2024 FCA review](https://www.ft.com/content/327a0a05-5565-462a-83cd-5c68c1f805d9)
+**发布时间**: 2026-03-22 05:00
+
+#### [Trump sets 48-hour deadline for Iran to open Strait of Hormuz](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e)
+**发布时间**: 2026-03-22 00:10
+
+---
+
+## 🆕 最新更新 (2026-03-21 23:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?](https://www.marketwatch.com/story/im-completely-gobsmacked-my-elderly-brother-has-a-reverse-mortgage-but-has-run-out-of-money-do-i-help-2185859c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 20:46
+
+#### [The stock market actually doesn’t care as much about oil prices as you think](https://www.marketwatch.com/story/the-stock-market-actually-doesnt-care-as-much-about-oil-prices-as-you-think-ead59ede?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:48
+
+#### [Annuities in 401(k) plans aren’t all they’re cracked up to be](https://www.marketwatch.com/story/annuities-in-401-k-plans-arent-all-theyre-cracked-up-to-be-715bc50b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:43
+
+#### [My wife and I made a big blunder on our Social Security benefits. Is it too late to fix it?](https://www.marketwatch.com/story/my-wife-and-i-made-big-blunders-on-our-social-security-benefits-is-it-too-late-to-fix-it-5584996e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:30
+
+#### [The IRS has changed the tax rules for 2026 — here’s how to keep more money and not overpay](https://www.marketwatch.com/story/the-irs-has-changed-the-tax-rules-for-2026-heres-how-to-keep-more-money-and-not-overpay-da5a97bf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:14
+
+#### [You could be killing your retirement by neglecting your IRA](https://www.marketwatch.com/story/you-could-be-killing-your-retirement-by-neglecting-your-ira-58e28946?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 18:03
+
+#### [Financial advisers used to say no to bitcoin. Now they’re saying maybe — but with a catch.](https://www.marketwatch.com/story/financial-advisers-used-to-say-no-to-bitcoin-now-theyre-saying-maybe-but-with-a-catch-2c16149a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-21 17:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Jay Powell extols ‘independence and integrity’ after latest attacks by Trump](https://www.ft.com/content/2bbf78eb-3e3f-4dbe-a404-2cde327e043d)
+**发布时间**: 2026-03-21 17:31
+
+#### [Israel suffers ‘very difficult’ night as missile strikes injure 120](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0)
+**发布时间**: 2026-03-21 15:05
+
+#### [How the FTSE grew comfortable with bumper pay for bosses](https://www.ft.com/content/0175aacf-864d-4e29-ab9c-dc555b39c759)
+**发布时间**: 2026-03-21 12:00
+
+#### [US fertiliser bosses cash in as Iran war boosts shares](https://www.ft.com/content/3dedd998-228e-4a24-b813-df324b4a25fa)
+**发布时间**: 2026-03-21 11:00
+
+#### [Canada’s oil producers in line for C$90bn windfall from Iran war](https://www.ft.com/content/81fa6ad2-7971-4177-9230-5cdb96e91004)
+**发布时间**: 2026-03-21 11:00
+
+#### [The Israeli border towns driving Netanyahu’s hard line on Lebanon](https://www.ft.com/content/05f00eb4-020c-407e-8f03-a58bf639d91e)
+**发布时间**: 2026-03-21 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-21 08:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU member states urged to lower gas storage targets due to Iran war](https://www.ft.com/content/f88c6a42-7a83-4fd1-8231-5bc7befa5fca)
+**发布时间**: 2026-03-21 05:00
+
+#### [HMRC ‘unlikely to be lenient’ with tax exiles fleeing Dubai, advisers warn](https://www.ft.com/content/697d389e-a816-4763-8006-28a3d4bb252b)
+**发布时间**: 2026-03-21 05:00
+
+#### [Iran lets grain ships through Hormuz to shore up food supply](https://www.ft.com/content/ff30a226-33cc-45fd-9614-1bf34767732d)
+**发布时间**: 2026-03-21 05:00
+
+#### [Iran launches 10mn rial banknote as war triggers dash for cash](https://www.ft.com/content/f84e45ec-8be0-4a7d-a0fb-1fc2faa621bd)
+**发布时间**: 2026-03-21 05:00
+
+#### [Taiwan concerned by depletion of US missile stocks during Iran war](https://www.ft.com/content/b52df43d-9eed-477c-9c01-d19ca2233cbd)
+**发布时间**: 2026-03-21 01:00
+
+---
+
+## 🆕 最新更新 (2026-03-21 05:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran war raises the risk of a bond market shock](https://www.ft.com/content/46962f7d-5ee9-4813-a53c-2961a82bf82d)
+**发布时间**: 2026-03-21 05:00
+
+#### [Energy crisis upends Rachel Reeves’ growth plan amid hints of recession](https://www.ft.com/content/b018297a-9736-4a07-9b3c-0c06abdfbbe4)
+**发布时间**: 2026-03-21 05:00
+
+#### [The new old world](https://www.ft.com/content/a42eab06-4e4a-4a7d-8b96-51b832da379b)
+**发布时间**: 2026-03-21 05:00
+
+#### [History is tragically repeating itself in Lebanon](https://www.ft.com/content/4ddb419b-0f60-425d-8046-e85d03b2cda7)
+**发布时间**: 2026-03-21 05:00
+
+#### [Trump considers ‘winding down’ US military operations against Iran](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0)
+**发布时间**: 2026-03-20 23:40
+
+#### [Musk defrauded Twitter investors during buyout, jury finds](https://www.ft.com/content/88161509-efe4-4b7b-8465-d66645b445d0)
+**发布时间**: 2026-03-20 23:16
+
+---
+
+## 🆕 最新更新 (2026-03-20 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?](https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:37
+
+#### [‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?](https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:37
+
+#### [Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions.](https://www.marketwatch.com/story/super-micros-stock-sinks-after-co-founders-indictment-here-are-wall-streets-biggest-questions-bd90d712?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:36
+
+#### [Chuck Norris never dies: How a meme made the actor a cultural icon and multimillion-dollar brand](https://www.marketwatch.com/story/chuck-norris-never-dies-how-a-meme-made-him-a-cultural-icon-and-multimillion-dollar-brand-5dbcd6e4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:29
+
+#### [The first major stock index just fell into correction territory. Will others follow?](https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 21:18
+
+#### [History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation](https://www.marketwatch.com/story/history-says-these-2-overlooked-asset-classes-are-the-only-real-shield-against-1970s-style-stagflation-727af5de?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 20:24
+
+#### [Here’s the exact amount of money you need to make to be financially secure](https://www.marketwatch.com/story/heres-the-exact-amount-of-money-you-need-to-make-to-be-financially-secure-6987a937?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 20:04
+
+#### [Global oil prices climb for 5th straight week as U.S. sends more military might into Middle East](https://www.marketwatch.com/story/oil-prices-rise-as-trump-reportedly-mulls-new-measures-for-kharg-island-97ab0727?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 19:57
+
+#### [March 27 looks like a make-or-break day for American travelers and the partial government shutdown](https://www.marketwatch.com/story/march-27-looks-like-a-make-or-break-day-for-american-travelers-and-the-partial-government-shutdown-3d8dae0b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 19:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK lets US use British bases to strike Iranian missile sites targeting Strait of Hormuz](https://www.ft.com/content/fa30d8c8-7de2-4013-a7b9-5ece5908dcb1)
+**发布时间**: 2026-03-20 21:33
+
+#### [Flagship Blackstone credit fund posts first monthly loss since 2022](https://www.ft.com/content/3443dee2-25ff-4a09-b93a-00e3370af48a)
+**发布时间**: 2026-03-20 20:53
+
+#### [Trump considers ‘winding down’ US military operations](https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f)
+**发布时间**: 2026-03-20 19:21
+
+#### [US to deploy thousands more troops to the Middle East](https://www.ft.com/content/7c9a0632-21fc-49ad-acf9-fba520bb9551)
+**发布时间**: 2026-03-20 18:57
+
+#### [Airline industry hit by biggest crisis since pandemic](https://www.ft.com/content/797851d2-ce7e-4ea4-a5bb-de2c6fcc7a06)
+**发布时间**: 2026-03-20 18:22
+
+#### [UK borrowing costs reach highest level since 2008 as economic hit from war mounts](https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf)
+**发布时间**: 2026-03-20 18:20
+
+#### [Russia offered to curb its support for Iran if US halted aid to Ukraine](https://www.ft.com/content/67252cf2-c008-462d-8af6-2638f461854f)
+**发布时间**: 2026-03-20 18:04
+
+#### [Iran war will scar the global economy](https://www.ft.com/content/2897893a-2b0b-417f-9a11-3e2ab3ae8ab4)
+**发布时间**: 2026-03-20 17:48
+
+#### [‘Raúlito’ Rodríguez Castro, the Cuban scion leading talks with the US](https://www.ft.com/content/6952fa40-86aa-4771-8194-967faf2b4f10)
+**发布时间**: 2026-03-20 17:30
+
+#### [Bank of England’s tough rhetoric on rates makes it an outlier](https://www.ft.com/content/f1a8bf89-bc05-4eeb-b300-dcb3ca203f2a)
+**发布时间**: 2026-03-20 16:38
+
+#### [Rayner leads Labour revolt on immigration plans in new test for Starmer](https://www.ft.com/content/8404071c-c225-4edd-ba2f-e018a8d92590)
+**发布时间**: 2026-03-20 16:16
+
+#### [Goldman’s chief warns private credit risks show cycle ‘has not been repealed’](https://www.ft.com/content/98d780c4-a965-46be-bdbf-c29445e76900)
+**发布时间**: 2026-03-20 14:05
+
+#### [Pressure grows on Starmer to drop EU ‘red lines’](https://www.ft.com/content/6a67fe30-6def-42b1-813b-c68d7141ac61)
+**发布时间**: 2026-03-20 13:26
+
+#### [Iran war is the greatest threat to global energy ‘in history’, warns IEA](https://www.ft.com/content/09524a74-db3c-4aef-b4f7-51eda3068320)
+**发布时间**: 2026-03-20 12:38
+
+---
+
+## 🆕 最新更新 (2026-03-20 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Unilever in talks to sell food division to spice and sauce maker McCormick](https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e)
+**发布时间**: 2026-03-20 08:00
+
+#### [UK borrowing higher than expected at £14.3bn in February](https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6)
+**发布时间**: 2026-03-20 07:34
+
+#### [Small rituals of survival in Tehran](https://www.ft.com/content/a2b3dcbf-9fec-4fd8-9935-ca6ab0b79100)
+**发布时间**: 2026-03-20 05:00
+
+#### [The case for slicing up consumer conglomerates further](https://www.ft.com/content/3b9c6e0e-e147-4c49-8601-6d7c074109ff)
+**发布时间**: 2026-03-20 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-20 05:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Military briefing: the perils of the Hormuz escort plan](https://www.ft.com/content/bb6a57d6-8d54-43a7-95b4-110e51fbc5db)
+**发布时间**: 2026-03-20 05:00
+
+#### [Qatar’s gas empire comes under fire](https://www.ft.com/content/25f1a787-29e1-40f3-afa1-f7edd00500f8)
+**发布时间**: 2026-03-20 05:00
+
+#### [The war over tail risks is in full swing](https://www.ft.com/content/f20feee2-0c85-4138-9c41-86b691b74a06)
+**发布时间**: 2026-03-20 05:00
+
+#### [Rituals of survival in Tehran](https://www.ft.com/content/a2b3dcbf-9fec-4fd8-9935-ca6ab0b79100)
+**发布时间**: 2026-03-20 05:00
+
+#### [Airlines draw up contingency plans over jet fuel shortage fears](https://www.ft.com/content/1d65be52-df93-41e3-869e-3194bc24f6a0)
+**发布时间**: 2026-03-20 05:00
+
+#### [JPMorgan deploys tech to monitor junior bankers’ working hours](https://www.ft.com/content/5ee9d5f1-9b9b-4aee-8712-111e873e241a)
+**发布时间**: 2026-03-20 05:00
+
+#### [World Economic Forum explores trustee shake-up after scandals](https://www.ft.com/content/ecc35354-cc26-45d2-b0e5-cfd4f7a53065)
+**发布时间**: 2026-03-20 05:00
+
+#### [China cracks down on fuel and fertiliser exports](https://www.ft.com/content/3033f98c-f69a-4628-8806-3fe5a3ccda3b)
+**发布时间**: 2026-03-20 03:45
+
+#### [Supermicro co-founder charged in conspiracy to export Nvidia chips to China](https://www.ft.com/content/d605ebac-bfae-4cec-a7d9-8696f2a5d748)
+**发布时间**: 2026-03-20 00:43
+
+#### [Iran renews Gulf strikes as oil steadies](https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f)
+**发布时间**: 2026-03-19 23:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says](https://www.marketwatch.com/story/super-micro-cofounder-engaged-in-backdoor-scheme-to-divert-nvidia-chips-to-china-u-s-government-says-5efbea7a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 02:20
+
+#### [The Trump administration just greenlit the TV megamerger at the center of Jimmy Kimmel’s suspension. It still may not be legal.](https://www.marketwatch.com/story/the-tv-megamerger-that-knocked-jimmy-kimmel-off-the-air-is-illegal-state-officials-say-974176e3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:53
+
+#### [‘We’re living the simple life’: I was a fisherman and my wife was a nurse. We retired with $6 million. Here’s how we did it.](https://www.marketwatch.com/story/were-living-the-simple-life-i-was-a-fisherman-and-my-wife-was-a-nurse-we-retired-with-6-million-heres-how-we-did-it-f68c4cbb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:15
+
+#### [‘Six figures are missing’: My aunt’s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?](https://www.marketwatch.com/story/six-figures-are-missing-my-aunts-attorney-took-over-her-bank-account-two-random-doctors-declared-her-incompetent-how-do-i-fix-this-8abf81ee?mod=mw_rss_topstories)
+**发布时间**: 2026-03-20 00:00
+
+#### [I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems.](https://www.marketwatch.com/story/i-opened-a-0-credit-card-to-pay-11-000-in-vacation-debt-why-cant-i-get-a-higher-credit-limit-my-debt-utilization-is-only-10-d8746a91?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:36
+
+---
+
+## 🆕 最新更新 (2026-03-19 23:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [More Americans want to work into their 70s. Smart companies will work with them.](https://www.marketwatch.com/story/more-americans-want-to-work-into-their-70s-smart-companies-will-work-with-them-115a9354?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:18
+
+#### [These charts suggest the bears aren’t done with the stock market yet](https://www.marketwatch.com/story/these-charts-suggest-the-bears-arent-done-with-the-stock-market-yet-171d9cb5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:12
+
+#### [FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying](https://www.marketwatch.com/story/fedex-is-getting-more-upbeat-about-the-year-despite-surging-fuel-costs-6b48ed2e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:10
+
+#### [This is when Trump will need an Iran-conflict offramp if oil prices aren’t contained](https://www.marketwatch.com/story/this-is-when-trump-will-need-an-iran-conflict-offramp-if-oil-prices-arent-contained-5870a40c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 23:04
+
+#### [This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers](https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:55
+
+#### [Why Micron’s stock is sliding despite Nvidia-like earnings performance](https://www.marketwatch.com/story/why-microns-stock-is-sliding-despite-nvidia-like-earnings-performance-fa9729f7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:18
+
+#### [Rivian’s stock pops as the EV maker becomes the latest to partner with Uber](https://www.marketwatch.com/story/rivians-stock-is-popping-as-the-ev-maker-becomes-the-latest-to-partner-with-uber-4540c29d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:17
+
+#### [Planet Labs’ stock soars as the satellite company says AI will unlock more business](https://www.marketwatch.com/story/planet-labs-stock-soars-as-the-satellite-company-says-ai-will-unlock-more-business-de4a262c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:11
+
+#### [The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.](https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 22:06
+
+#### [Betting scandals leave pro sports just one way to save the $165 billion gaming market](https://www.marketwatch.com/story/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market-08b15d7d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 21:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil and stocks swing as Iran war ignites fresh tumult in markets](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-19 23:13
+
+#### [US-Israel strikes have destroyed Iran’s ability to enrich uranium, Netanyahu says](https://www.ft.com/content/096fe3d9-df18-4fcc-8355-01877fc40553)
+**发布时间**: 2026-03-19 23:07
+
+#### [India’s central bank battles to protect rupee from Iran war fallout](https://www.ft.com/content/56162e25-17dd-4db7-ba76-98fca2700923)
+**发布时间**: 2026-03-19 21:00
+
+#### [Gilts sell off after Bank of England warns of inflation risks](https://www.ft.com/content/c0a967b6-19d0-4e50-9a8e-8ae510d43d08)
+**发布时间**: 2026-03-19 19:01
+
+#### [IG Group considers New York listing in latest blow to London’s stock exchange](https://www.ft.com/content/c0a9865c-9fcd-44b5-8300-0be2244d890a)
+**发布时间**: 2026-03-19 18:52
+
+#### [Iran allows handful of favoured ships through Strait of Hormuz](https://www.ft.com/content/d2198c3a-520b-4e88-aad4-d83a03b4f7be)
+**发布时间**: 2026-03-19 17:42
+
+#### [WPP proposes £11mn pay packet for CEO Rose amid share-price plunge](https://www.ft.com/content/03faa483-d16d-4aed-81b6-097623fb1bc7)
+**发布时间**: 2026-03-19 17:19
+
+#### [Denmark was ready to blow up Greenland runways if US invaded](https://www.ft.com/content/e0783399-613f-4432-87a3-262698f3f6ca)
+**发布时间**: 2026-03-19 15:02
+
+#### [Dubai tourism reels from Iranian missiles](https://www.ft.com/content/1133792e-97d0-4e6a-bfef-56d5f9ab93f2)
+**发布时间**: 2026-03-19 14:30
+
+#### [ECB holds interest rates at 2% as energy prices soar](https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd)
+**发布时间**: 2026-03-19 14:11
+
+---
+
+## 🆕 最新更新 (2026-03-19 09:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How the White House tries to sell war and death as a game](https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1)
+**发布时间**: 2026-03-19 04:00
+
+#### [KPMG and Harvey Nichols among employers to have paid less than UK minimum wage](https://www.ft.com/content/1837f2e4-d7a5-45d8-9e05-ccabcff1ba76)
+**发布时间**: 2026-03-19 00:02
+
+#### [Gas price surges 30% and oil hits $114 as strikes rattle markets](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
+
+---
+
+## 🆕 最新更新 (2026-03-19 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US explored tying naval escorts in Strait of Hormuz to government insurance](https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1)
+**发布时间**: 2026-03-19 05:00
+
+#### [Iran sets its price to end the war](https://www.ft.com/content/869f650b-7a9e-461d-a2bb-0788eb991e6d)
+**发布时间**: 2026-03-19 05:00
+
+#### [Trump sails into battle with Lloyd’s of London](https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6)
+**发布时间**: 2026-03-19 05:00
+
+#### [Battersea Power Station in dispute with fired CEO over accounts](https://www.ft.com/content/0ea88797-a181-43fa-bcd0-b0c3e0f0bfb4)
+**发布时间**: 2026-03-19 05:00
+
+#### [How the Trump White House tries to sell war and death as a game](https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1)
+**发布时间**: 2026-03-19 04:00
+
+#### [PwC US boss says partners who resist AI have no place at the firm](https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125)
+**发布时间**: 2026-03-19 04:00
+
+#### [Bank of Japan postpones rate rise after Middle East war erupts](https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2)
+**发布时间**: 2026-03-19 03:57
+
+#### [Japan rebels over $6bn fee for SoftBank under US trade deal](https://www.ft.com/content/372a2da8-cc0e-4d39-8f0a-24670ed6a445)
+**发布时间**: 2026-03-19 01:00
+
+#### [Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Almost 1 in 3 Americans doesn’t know when — or even if — they can retire](https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 04:01
+
+#### [Social media is eroding young people’s happiness. Low-income teens may be most at risk.](https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories)
+**发布时间**: 2026-03-19 00:01
+
+#### [Why Starbucks’ turnaround plans might not win over the younger crowd](https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 23:48
+
+---
+
+## 🆕 最新更新 (2026-03-18 23:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices jump after attacks on Gulf energy facilities](https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86)
+**发布时间**: 2026-03-18 23:37
+
+#### [Iran inflicts ‘extensive damage’ on site of world’s largest LNG facility in Qatar](https://www.ft.com/content/e3814e6f-a1c9-4ad4-b449-c14064d58f42)
+**发布时间**: 2026-03-18 23:04
+
+#### [Fed chief Jay Powell says Iran oil crisis will worsen US inflation](https://www.ft.com/content/dc961982-e7f6-413c-8c44-65ccfc483486)
+**发布时间**: 2026-03-18 21:02
+
+#### [Russia considers sending armed naval patrols to protect ‘shadow fleet’](https://www.ft.com/content/6ba075d8-890b-40d8-a1a8-8be8ad250822)
+**发布时间**: 2026-03-18 20:21
+
+#### [US intelligence chief struggles to avoid contradicting Trump on Iran war](https://www.ft.com/content/0d4c6bdf-e01a-420a-9a2d-2a36850ab7d7)
+**发布时间**: 2026-03-18 19:33
+
+#### [Starmer calls on Badenoch to sack shadow minister over Muslim prayer comments](https://www.ft.com/content/b2232784-053c-4a45-bc63-6171661fc37f)
+**发布时间**: 2026-03-18 19:14
+
+#### [UK immigration reforms could be softened, Starmer signals after Rayner criticism](https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d)
+**发布时间**: 2026-03-18 18:49
+
+#### [Unilever and Kraft Heinz held talks over food merger uniting ketchup and mayo](https://www.ft.com/content/e7e66622-50c9-493f-9076-6914f247247f)
+**发布时间**: 2026-03-18 18:40
+
+#### [America’s war on Iran is a gift to Vladimir Putin](https://www.ft.com/content/0fabaafb-3668-4f97-8418-bc11c06ccbff)
+**发布时间**: 2026-03-18 18:33
+
+#### [Trump ally warns US economy not strong enough to cope with Iran war](https://www.ft.com/content/51ad00f4-1c70-45df-9eb1-fe8038af1fd7)
+**发布时间**: 2026-03-18 16:44
+
+#### [Two shipments of Russian oil and gas head to Cuba in defiance of US](https://www.ft.com/content/bdb055d0-62c3-445c-ba89-349c63c82c1f)
+**发布时间**: 2026-03-18 15:06
+
+#### [How the world learned to love the bomb](https://www.ft.com/content/ba5f719a-974a-46a5-94dd-773361f9bee4)
+**发布时间**: 2026-03-18 12:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your March Madness bracket could wreck your stock portfolio — so ‘sit on your hands’ until April 6](https://www.marketwatch.com/story/how-march-madness-basketball-could-bust-your-portfolio-bracket-6f91d3e9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:58
+
+#### [Five Below stock continues its tear, as upbeat outlook eases fears of consumer slowdown](https://www.marketwatch.com/story/five-below-stock-continues-its-tear-as-viral-squishy-toys-and-appeals-to-millennial-moms-draw-shoppers-06369f68?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:47
+
+#### [Why this costly Starbucks revamp might not win over the younger crowd](https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:36
+
+#### [Lumentum’s new revenue forecast further fuels one of the market’s hottest stocks](https://www.marketwatch.com/story/lumentums-new-revenue-forecast-further-fuels-one-of-the-markets-hottest-stocks-7223cec7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:32
+
+#### [Swarmer’s stock surges nearly 1,100% in two days, underscoring fervent demand for drones](https://www.marketwatch.com/story/swarmers-stock-surges-1-100-in-two-days-underscoring-fervent-demand-for-drones-5f468b07?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:30
+
+#### [Netflix more likely to raise prices with Warner Bros. deal out of the way, Citi says](https://www.marketwatch.com/story/netflix-more-likely-to-raise-prices-with-warner-bros-deal-out-of-the-way-citi-says-137841c8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:25
+
+#### [Powell offers his clearest statement yet on staying at the Fed even as leadership shifts](https://www.marketwatch.com/story/powell-delivers-his-most-definitive-answer-yet-on-how-long-hell-stay-on-as-fed-chair-1b2a5787?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:25
+
+#### [U.S. stocks have reached a critical line in the sand. Why the next move could be a 10% drop.](https://www.marketwatch.com/story/u-s-stocks-have-reached-a-critical-line-in-the-sand-why-the-next-move-could-be-a-10-drop-c9451111?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 22:13
+
+#### [Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market](https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 21:46
+
+#### [Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%](https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 21:41
+
+---
+
+## 🆕 最新更新 (2026-03-18 08:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Rayner warns Starmer his government is ‘running out of time’](https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d)
+**发布时间**: 2026-03-18 07:49
+
+#### [MFS lent to company tied to accountant charged over alleged crime-family work](https://www.ft.com/content/60b4ea7c-ed4a-4873-8498-dab6506a6e4a)
+**发布时间**: 2026-03-18 05:00
+
+#### [Takaichi set for high-stakes meeting with Trump over Iran](https://www.ft.com/content/528ea926-606f-4db6-81f1-dc3831b47f6d)
+**发布时间**: 2026-03-18 02:26
+
+#### [Trump’s Iran strikes blow open divisions in Maga base](https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d)
+**发布时间**: 2026-03-18 00:09
+
+#### [Israeli air strikes rock central Beirut](https://www.ft.com/content/6112e127-3ee2-4fce-acfc-f7644e5c6c30)
+**发布时间**: 2026-03-17 23:40
+
+---
+
+## 🆕 最新更新 (2026-03-18 06:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran conflict turns shipping market into ‘wild west’](https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2)
+**发布时间**: 2026-03-18 05:00
+
+#### [Iran still seen capable of escalating attacks on Gulf’s energy](https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18)
+**发布时间**: 2026-03-18 05:00
+
+#### [The sum of all fears for Lebanon](https://www.ft.com/content/9ef95667-0a78-4fcc-b1f1-3e4bdaf25c73)
+**发布时间**: 2026-03-18 05:00
+
+#### [Trump has broken it. Now he owns it](https://www.ft.com/content/86be5097-1a9c-4dd6-bf53-1f2b429592c7)
+**发布时间**: 2026-03-18 05:00
+
+#### [UAE set to show leniency on tax rules for expats leaving to avoid Iran war](https://www.ft.com/content/ea6c84c9-3385-4b32-ab25-0f439a26891d)
+**发布时间**: 2026-03-18 05:00
+
+#### [Suspicions grow that China is exploiting FOI laws to gather UK security data](https://www.ft.com/content/2f51a343-0e9b-4e1d-8d1f-f33232d439a7)
+**发布时间**: 2026-03-18 05:00
+
+#### [Oil price surge will hurt US growth and fuel inflation, say economists](https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346)
+**发布时间**: 2026-03-18 01:32
+
+#### [‘Philosophical differences’: Iran war exposes rifts in Trump’s Maga base](https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d)
+**发布时间**: 2026-03-18 00:09
+
+#### [UK price gap between first-time properties and bigger homes at record high](https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87)
+**发布时间**: 2026-03-18 00:01
+
+#### [Cathay extends Middle East flight cuts to end of April](https://www.ft.com/content/6112e127-3ee2-4fce-acfc-f7644e5c6c30)
+**发布时间**: 2026-03-17 23:40
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The ‘smart money’ on Wall Street hates these bonds — but they may be a golden buying opportunity for you](https://www.marketwatch.com/story/the-smart-money-on-wall-street-hates-these-bonds-but-they-may-be-a-golden-buying-opportunity-for-you-ae48d8d8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-18 01:15
+
+---
+
+## 🆕 最新更新 (2026-03-17 23:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The spike in gas prices might affect Olive Garden sales, but not in the way you’d expect](https://www.marketwatch.com/story/the-spike-in-gas-prices-might-affect-olive-garden-sales-but-not-in-the-way-youd-expect-2a7d39c8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 23:20
+
+#### [Uber’s stock powers higher as Nvidia robotaxi deal helps avert ‘doomsday’ scenario](https://www.marketwatch.com/story/ubers-stock-powers-higher-as-nvidia-robotaxi-deal-helps-avert-doomsday-scenario-fae44403?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:34
+
+#### [Why Nvidia’s stock is shrugging off a $1 trillion revenue forecast](https://www.marketwatch.com/story/why-nvidias-stock-is-shrugging-off-a-1-trillion-revenue-forecast-74a729d6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:31
+
+#### [Nebius’s stock falls as investors get a wake-up call on the cost of competing in AI](https://www.marketwatch.com/story/nebiuss-stock-falls-on-a-bond-offering-heres-why-investors-are-sobering-up-b3392d06?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:29
+
+#### [Lilly gets rare downgrade as analysts question hype over GLP-1 pills and Zepbound’s cash sales](https://www.marketwatch.com/story/lilly-gets-rare-downgrade-as-analysts-question-hype-over-glp-1-pills-and-zepbounds-cash-sales-60b231f4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:27
+
+#### [‘Selling will be a very difficult process’: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?](https://www.marketwatch.com/story/selling-will-be-a-very-difficult-process-my-mom-93-owns-a-timeshare-in-florida-how-can-i-disclaim-this-inheritance-914f9823?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:07
+
+#### [Lululemon hopes more new gear will revive sales. Wall Street thinks it might not be enough.](https://www.marketwatch.com/story/lululemons-stock-falls-as-a-weak-outlook-underscores-the-need-for-a-transformation-42aafaf4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 22:05
+
+#### [3 signals will reveal if the Iran oil shock is just a blip — or the new normal](https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 21:07
+
+#### [Micron’s stock gains officially carry the company into an exclusive club](https://www.marketwatch.com/story/microns-stock-rises-as-enthusiasm-builds-ahead-of-earnings-cd2db500?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 20:44
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BHP names Brandon Craig as its new chief executive](https://www.ft.com/content/ff75ba87-5cd1-4220-b6ae-06cc8f32700c)
+**发布时间**: 2026-03-17 23:11
+
+#### [Israel says it has killed Iran’s top security official](https://www.ft.com/content/66d3177f-2d3a-4b5b-a309-dc562c978c38)
+**发布时间**: 2026-03-17 22:44
+
+#### [Iran confirms death of top security official Ali Larijani](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 22:15
+
+#### [Musk’s lawyers sidestepped SEC team in Twitter case settlement talks](https://www.ft.com/content/018528f9-964f-42ab-aea7-72fadd173918)
+**发布时间**: 2026-03-17 21:38
+
+#### [Microsoft reshuffles AI team to catch up on Copilot and model building](https://www.ft.com/content/60646cbf-0445-4841-81e1-32efc4b32907)
+**发布时间**: 2026-03-17 21:34
+
+#### [Nvidia restarts manufacturing of AI chips for China](https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f)
+**发布时间**: 2026-03-17 20:38
+
+#### [Trump lashes out at Starmer while UK works with allies to de-escalate Iran crisis](https://www.ft.com/content/dacf7004-0d17-4ae5-885c-2681a4bd8ab7)
+**发布时间**: 2026-03-17 19:06
+
+#### [Oil in Oman soars above $150 as buyers rush to replace Gulf barrels](https://www.ft.com/content/e9d8e871-8344-487c-b0d7-aec8fd225d59)
+**发布时间**: 2026-03-17 18:33
+
+#### [Top US counterterrorism official resigns over war against Iran](https://www.ft.com/content/f3dad979-875e-4ee7-836c-264890d5df6b)
+**发布时间**: 2026-03-17 16:35
+
+#### [The era of US dominance in economic warfare is over](https://www.ft.com/content/ae458591-5941-45f1-bf7b-7110bc35eb88)
+**发布时间**: 2026-03-17 15:22
+
+#### [China is not going to bail Trump out](https://www.ft.com/content/18106ca2-7ba1-4b10-ad71-9247c42da1df)
+**发布时间**: 2026-03-17 11:52
+
+---
+
+## 🆕 最新更新 (2026-03-17 08:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil jumps as Iran steps up attacks on infrastructure](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 06:35
+
+#### [Oil producers: buy the peace, not the war](https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d)
+**发布时间**: 2026-03-17 06:30
+
+#### [Iran war sparks upheaval in niche defence metals market](https://www.ft.com/content/98d95ed2-7947-40ff-9f7c-e1a9c8570d00)
+**发布时间**: 2026-03-17 05:00
+
+#### [Donald Trump says he will have the ‘honour’ of ‘taking Cuba in some form’](https://www.ft.com/content/fc621071-0ecc-440d-beb0-aee688ca33da)
+**发布时间**: 2026-03-17 00:41
+
+#### [Cuba hit by nationwide blackout as energy grid collapses](https://www.ft.com/content/ebc459c6-6cb5-46db-8fac-41b6a288977f)
+**发布时间**: 2026-03-16 23:01
+
+---
+
+## 🆕 最新更新 (2026-03-17 06:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tehran prepares for a Persian new year under air assault](https://www.ft.com/content/668ae5a4-57cb-4132-82c6-37c85287307c)
+**发布时间**: 2026-03-17 05:00
+
+#### [How MBS’s bet on Iran backfired](https://www.ft.com/content/2721947c-613c-4496-8900-e9c87ae9f64f)
+**发布时间**: 2026-03-17 05:00
+
+#### [Who is winning the Middle East war?](https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071)
+**发布时间**: 2026-03-17 05:00
+
+#### [From Vienna’s rooftops, the Kremlin is listening in](https://www.ft.com/content/2c54d627-5530-47a4-8be2-820035ece929)
+**发布时间**: 2026-03-17 05:00
+
+#### [Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief](https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0)
+**发布时间**: 2026-03-17 05:00
+
+#### [Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’](https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0)
+**发布时间**: 2026-03-17 05:00
+
+#### [UK drone interceptor start-up in funding talks at $1bn-plus valuation](https://www.ft.com/content/78a9fc2c-24f1-47ac-9c4b-e0bd67bc6ace)
+**发布时间**: 2026-03-17 05:00
+
+#### [Trump says China, Japan and Korea should be ‘thanking’ US for strikes](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911)
+**发布时间**: 2026-03-17 00:01
+
+#### [Reeves to say she will back compulsory purchase powers for Oxford-Cambridge corridor](https://www.ft.com/content/3c4e8071-808c-458f-ad2a-76c6bc167878)
+**发布时间**: 2026-03-16 22:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This biotech is working on a GLP-1 pill that could be better than the Wegovy version](https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-17 00:31
+
+---
+
+## 🆕 最新更新 (2026-03-16 23:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years](https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0)
+**发布时间**: 2026-03-16 22:51
+
+#### [Trump asks to postpone summit with China’s Xi due to Iran war](https://www.ft.com/content/be66297c-dd84-4dc8-914b-698e46261b0a)
+**发布时间**: 2026-03-16 22:07
+
+#### [US diesel prices soar to almost $5 as Iran war pinches global supplies](https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c)
+**发布时间**: 2026-03-16 21:20
+
+#### [Angela Rayner aims to reassure investors with City charm offensive](https://www.ft.com/content/a1ff7cdd-1ba9-422b-8890-8445d97796b3)
+**发布时间**: 2026-03-16 21:00
+
+#### [Close Brothers plunges as short seller claims it understated UK car finance risks](https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d)
+**发布时间**: 2026-03-16 19:07
+
+#### [Donald Trump launches fresh attack on UK’s ‘terrible’ Iran war stance](https://www.ft.com/content/7b790f92-43eb-4471-a672-9949816ae21e)
+**发布时间**: 2026-03-16 18:08
+
+#### [Iran earns oil windfall as US turns blind eye](https://www.ft.com/content/35e815ef-46f3-4169-a39d-cc6bafdfbc1c)
+**发布时间**: 2026-03-16 17:54
+
+#### [Mandelson received more than £1.5mn for stake in collapsed advisory firm](https://www.ft.com/content/87854fcd-3de0-4b81-8955-f50134e2b265)
+**发布时间**: 2026-03-16 17:10
+
+#### [Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1)
+**发布时间**: 2026-03-16 11:12
+
+#### [Germany and UK refuse to be drawn into wider war](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks](https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 22:01
+
+#### [U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?](https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 21:28
+
+#### [Upstart’s stock rises as analyst says investors have been ignoring a key catalyst](https://www.marketwatch.com/story/upstarts-stock-rises-as-analyst-says-investors-have-been-ignoring-a-key-catalyst-81fbde00?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:57
+
+#### [Warren Buffett’s parting gift to Berkshire Hathaway: A $2 billion Iran oil windfall](https://www.marketwatch.com/story/warren-buffetts-parting-gift-to-berkshire-hathaway-a-2-billion-iran-oil-windfall-4daf28ba?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:52
+
+#### [‘I’m so screwed’: How can I afford to care for a mom with dementia and send my teen to college?](https://www.marketwatch.com/story/im-so-screwed-how-can-i-afford-to-care-for-a-mom-with-dementia-and-send-my-teen-to-college-9d127f90?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:41
+
+#### [Elon Musk’s xAI is facing a growing number of lawsuits over AI-generated deepfakes](https://www.marketwatch.com/story/elon-musks-xai-is-facing-a-growing-number-of-lawsuits-over-ai-generated-deepfakes-08fa166b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:39
+
+#### [Dollar is benefiting from Iran conflict as investors worry about inflation](https://www.marketwatch.com/story/the-u-s-dollar-and-crypto-are-both-benefiting-from-the-iran-crisis-in-an-unusual-move-85873834?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:36
+
+#### [‘It’s complicated’: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?](https://www.marketwatch.com/story/its-complicated-my-husband-61-wants-to-leave-me-everything-his-kids-will-hate-me-what-should-i-do-b1d06504?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:30
+
+#### [Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio](https://www.marketwatch.com/story/record-oscar-haul-for-warner-bros-caps-off-a-topsy-turvy-year-for-the-legendary-studio-0f81f0d9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 20:14
+
+---
+
+## 🆕 最新更新 (2026-03-16 08:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO](https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 08:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UniCredit launches €35bn Commerzbank takeover offer](https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525)
+**发布时间**: 2026-03-16 07:53
+
+#### [Retail investors pull billions from private capital’s credit gold mine](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd)
+**发布时间**: 2026-03-16 05:00
+
+#### [Canadian pension funds count cost of private equity slump](https://www.ft.com/content/1dcd44b2-e08c-4d95-99b1-065c84852528)
+**发布时间**: 2026-03-16 05:00
+
+#### [Dubai-bound flights forced to turn back after drone sparks airport fire](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
+
+---
+
+## 🆕 最新更新 (2026-03-16 06:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Netanyahu’s rivals compete to outdo him over Iran](https://www.ft.com/content/60f00488-ca8f-4bba-b1b1-2b81b7ec2598)
+**发布时间**: 2026-03-16 05:00
+
+#### [The UK is struggling to achieve its aims on clean energy](https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be)
+**发布时间**: 2026-03-16 05:00
+
+#### [Iran war reawakens global inflation fears](https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b)
+**发布时间**: 2026-03-16 05:00
+
+#### [India’s restaurants stop deep frying food as gas crisis bites](https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e)
+**发布时间**: 2026-03-16 05:00
+
+#### [UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal](https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f)
+**发布时间**: 2026-03-16 05:00
+
+#### [Reeves must tackle ‘badly broken’ student loans, Cambridge chancellor says](https://www.ft.com/content/dc86ce80-86ab-45a1-83ff-abf7cc3a1fb2)
+**发布时间**: 2026-03-16 05:00
+
+#### [‘One Battle After Another’ wins Best Picture at Oscars](https://www.ft.com/content/64c90d4e-e2cc-41b5-b8c5-ca55e3c612b3)
+**发布时间**: 2026-03-16 04:52
+
+#### [The highs and lows of the 2026 Oscars](https://www.ft.com/content/8a235e80-2319-4fdf-9e9b-786257c59ba6)
+**发布时间**: 2026-03-16 04:48
+
+#### [Trump throws US-China reboot off course by saying he could delay Xi summit](https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9)
+**发布时间**: 2026-03-16 01:37
+
+#### [Oil prices rise as Strait of Hormuz remains shut](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
+
+#### [UK ready to explore EU tuition fee cut as part of Brexit reset](https://www.ft.com/content/0605e73a-b33f-4149-bf1d-b9e1b9cb27b0)
+**发布时间**: 2026-03-15 15:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict](https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 03:07
+
+---
+
+## 🆕 最新更新 (2026-03-15 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict](https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 23:17
+
+#### [It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?](https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 20:11
+
+#### [The financial sector is sending some spooky technical signals about the stock market](https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:54
+
+#### [Nvidia’s big GTC event is on deck, and the company faces a very high bar this year](https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:45
+
+#### [‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings](https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:41
+
+#### [Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next](https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:18
+
+#### [Panic is slowly gripping the stock market. Expect the selling to pick up this week.](https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 19:14
+
+#### [Start on your bucket list now, says the Oscar-nominated director of the film ‘Retirement Plan’](https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 17:22
+
+#### [These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.](https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 17:20
+
+#### [Is a $130 Costco executive membership the new VIP status symbol?](https://www.marketwatch.com/story/is-a-130-costco-executive-membership-the-new-vip-status-7d7585f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-15 15:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump warns Nato faces ‘very bad future’ if allies fail to help US in Iran](https://www.ft.com/content/1ca6d121-760b-4ec5-b6ad-514fdaa94873)
+**发布时间**: 2026-03-15 23:05
+
+#### [Oil prices jump nearly 3% as markets open for trading](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68)
+**发布时间**: 2026-03-15 22:46
+
+#### [Starmer to set out £50mn energy support package to ease Iran war fallout](https://www.ft.com/content/603847c6-d9ad-431f-afd5-a23e0a1e5a1a)
+**发布时间**: 2026-03-15 22:30
+
+#### [India hails talks with Iran to open Strait of Hormuz](https://www.ft.com/content/c8ef2abd-964d-4b8a-8dab-3a7a25055f53)
+**发布时间**: 2026-03-15 18:11
+
+#### [UK polo patrons linked to laundering of Venezuelan oil sale proceeds, says US Treasury](https://www.ft.com/content/95cdbbce-6e16-4fb0-8d91-d5afc8154f4b)
+**发布时间**: 2026-03-15 15:03
+
+#### [Iran war should prompt a North Sea rethink](https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667)
+**发布时间**: 2026-03-15 12:00
+
+#### [Zelenskyy challenges Europe over Russian oil imports](https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552)
+**发布时间**: 2026-03-15 10:16
+
+---
+
+## 🆕 最新更新 (2026-03-15 08:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Fake workers’ from North Korea use AI to exploit European companies](https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf)
+**发布时间**: 2026-03-15 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-15 06:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Military briefing: How mines could tighten Iran’s Gulf chokehold](https://www.ft.com/content/8e45328d-2d15-47c7-b1ea-4b7751bc2669)
+**发布时间**: 2026-03-15 05:00
+
+#### [Retail traders rush into oil bets as Iran war drives wild price swings](https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db)
+**发布时间**: 2026-03-15 05:00
+
+#### [Trump’s ‘shock and war’ makes this economic crisis different](https://www.ft.com/content/bd7a2d03-6df0-4212-aa67-95160bae9db6)
+**发布时间**: 2026-03-15 05:00
+
+#### [Ukraine peace talks fizzle out as Trump’s focus shifts to Iran](https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a)
+**发布时间**: 2026-03-15 05:00
+
+#### [‘Firing off 10 to 15 applications a day’: how UK’s hiring slump hits the young](https://www.ft.com/content/377fd9fb-0e92-4b59-afd0-dfabf93b59b6)
+**发布时间**: 2026-03-15 05:00
+
+#### [‘Join our people’s army’: Farage sets sights on local election gains](https://www.ft.com/content/c11635b9-4e76-49b2-aed8-e174c01b538b)
+**发布时间**: 2026-03-15 05:00
+
+#### [France votes in mayoral elections ahead of 2027 showdown](https://www.ft.com/content/3afde091-d7a2-495f-9d7d-856ca2a50ee5)
+**发布时间**: 2026-03-15 05:00
+
+#### [Japan loses its thirst for vending machines](https://www.ft.com/content/a0e80f5d-4c42-443d-9788-2f9924c774bf)
+**发布时间**: 2026-03-15 01:30
+
+#### [Trump urges China and UK to send warships to reopen Strait of Hormuz](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68)
+**发布时间**: 2026-03-14 23:48
+
+#### [US oil groups in line for $63bn windfall from Gulf war disruption](https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204)
+**发布时间**: 2026-03-14 21:31
+
+---
+
+## 🆕 最新更新 (2026-03-14 23:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US oil groups in line for $63bn windfall from Gulf disruption](https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204)
+**发布时间**: 2026-03-14 21:31
+
+#### [Trump seeks help from China and UK to reopen Strait of Hormuz](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-14 15:33
+
+#### [Where are the Houthis?](https://www.ft.com/content/dbd87981-581b-4ede-93c8-853c252db025)
+**发布时间**: 2026-03-14 12:00
+
+#### [Why has Trump left Iran’s nuclear stockpile untouched?](https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc)
+**发布时间**: 2026-03-14 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [11 stocks to harden your portfolio against Iran risk](https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:42
+
+#### [This MarketWatch portfolio of hated stocks is crushing the stock market in 2026](https://www.marketwatch.com/story/this-marketwatch-portfolio-of-hated-stocks-is-crushing-the-stock-market-in-2026-2e4b7dc9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:03
+
+#### [Why oil probably won’t go to $150 a barrel](https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:02
+
+#### [The truth behind 401(k) withdrawal numbers: People aren’t being reckless — they’re desperate](https://www.marketwatch.com/story/the-truth-behind-401-k-withdrawal-numbers-people-arent-being-reckless-theyre-desperate-85645e70?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 18:01
+
+#### [How to tackle your bucket list before it’s too late, according to the Oscar-nominated director of the film ‘Retirement Plan’](https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:58
+
+#### [Can my wife switch to my Social Security benefits if she was born after 1954? I receive a lot more than she does.](https://www.marketwatch.com/story/can-my-wife-switch-to-my-social-security-benefits-if-shes-born-after-1954-i-receive-a-lot-more-than-she-does-7a73b77e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:56
+
+#### [Medicare Advantage is facing a reality check — and seniors are the ones who will pay for it](https://www.marketwatch.com/story/medicare-advantage-is-facing-a-reality-check-and-seniors-are-the-ones-who-will-pay-for-it-abab012e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-14 17:55
+
+---
+
+## 🆕 最新更新 (2026-03-14 08:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel calls for Iranian factory evacuation, suggesting attack imminent](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-14 07:24
+
+#### [Why Iran could become the next Iraq](https://www.ft.com/content/bf9b5746-b44b-4fd3-a5cd-c469c5388c5d)
+**发布时间**: 2026-03-14 05:00
+
+#### [Are markets being too complacent about the Iran war?](https://www.ft.com/content/36474089-8b7e-4fc8-aa76-1643796a57d9)
+**发布时间**: 2026-03-14 05:00
+
+#### [Donald Trump, globalist](https://www.ft.com/content/8e5dc3d0-1134-4f13-aa9d-13d948797ffb)
+**发布时间**: 2026-03-14 05:00
+
+#### [UK government grilled over Vistry finances](https://www.ft.com/content/958628ad-17d4-4b10-aa97-6db31adc4de1)
+**发布时间**: 2026-03-14 05:00
+
+#### [Sovereign AI is a bet on the economies of anti-scale](https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297)
+**发布时间**: 2026-03-14 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-14 05:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e)
+**发布时间**: 2026-03-13 23:53
+
+#### [Musk’s $134bn claim against OpenAI rests on ‘numbers out of the air’, judge says](https://www.ft.com/content/cef962a0-f6f2-4f05-ba66-5795aa05104d)
+**发布时间**: 2026-03-13 23:36
+
+#### [Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+**发布时间**: 2026-03-13 15:36
+
+#### [How Iran’s fightback surprised the US](https://www.ft.com/content/0c085046-6cfa-4832-a764-d79f41225b1f)
+**发布时间**: 2026-03-13 13:00
+
+---
+
+## 🆕 最新更新 (2026-03-13 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This little-known energy company’s stock is rallying as Trump invokes 1950 powers for offshore California drilling](https://www.marketwatch.com/story/this-little-known-energy-companys-stock-is-rallying-as-trump-invokes-1950-powers-for-offshore-california-drilling-5cb8efa4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 23:27
+
+#### [‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?](https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 22:39
+
+#### [Warren Buffett’s sage advice about fear and greed is a trap in this market](https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 21:08
+
+#### [Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.](https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:42
+
+#### [Here’s a rare chance to invest before big stock-index funds and Wall Street dive in](https://www.marketwatch.com/story/heres-a-rare-chance-to-front-run-wall-streets-best-and-biggest-players-1e98c87e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:31
+
+#### [Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.](https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:20
+
+#### [‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?](https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:15
+
+#### [Investors are shunning U.S. debt as a haven play during the Iran conflict](https://www.marketwatch.com/story/investors-are-shunning-u-s-debt-as-a-haven-play-during-the-iran-conflict-f84c9f4e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 20:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia prepares AI ‘inference’ chip launch to counter rising challengers](https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf)
+**发布时间**: 2026-03-13 21:00
+
+#### [Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates](https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/powellCase-517c8255-9f75-4e21-8047-be8ddb304d6f.pdf)
+**发布时间**: 2026-03-13 20:38
+
+#### [US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence](https://www.ft.com/content/e4da6f70-6f68-4d95-aa7b-fef90ab90d82)
+**发布时间**: 2026-03-13 20:03
+
+#### [UK petrol trade body in dispute with ministers over ‘inflammatory’ comments](https://www.ft.com/content/e51bdfaa-60ba-4374-8863-e104e2196cd0)
+**发布时间**: 2026-03-13 19:53
+
+#### [The oil price war](https://www.ft.com/content/e21a55b0-1678-4611-94ff-d9b6d429ed4c)
+**发布时间**: 2026-03-13 18:54
+
+#### [Wall Street warns Iran war will trigger prolonged energy crisis](https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2)
+**发布时间**: 2026-03-13 18:30
+
+#### [France and Italy open talks with Iran in hope of securing safe Hormuz passage](https://www.ft.com/content/96b8e0a4-9ecb-4e07-a96d-7debcfe3bfa6)
+**发布时间**: 2026-03-13 17:33
+
+#### [Show me a leader who doesn’t love a crisis](https://www.ft.com/content/8b1be6ef-81bc-448e-a4a4-515aa5f5d262)
+**发布时间**: 2026-03-13 17:11
+
+#### [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+**发布时间**: 2026-03-13 15:36
+
+#### [The irrepressible Nigel Farage](https://www.ft.com/content/3aca829d-d523-484b-a5b8-744642ec5f70)
+**发布时间**: 2026-03-13 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-13 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK economy unexpectedly failed to grow in January](https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90)
+**发布时间**: 2026-03-13 07:15
+
+#### [Carlyle overhauls European private equity team after poor performance](https://www.ft.com/content/247da046-afbe-4c3c-9ef3-02073cc61dd2)
+**发布时间**: 2026-03-13 05:00
+
+#### [Bitcoin investor offers all Nevis residents $100 a month if libertarian city is approved](https://www.ft.com/content/c7339a1b-2a39-4546-9a42-66cec35a5897)
+**发布时间**: 2026-03-13 05:00
+
+#### [US eases Russian oil sanctions as energy prices soar](https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe)
+**发布时间**: 2026-03-13 00:31
+
+---
+
+## 🆕 最新更新 (2026-03-13 05:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf states lose $15bn in energy revenues since start of war](https://www.ft.com/content/041bd1f6-f27b-41fd-a051-9ff337985cae)
+**发布时间**: 2026-03-13 05:00
+
+#### [The Iranian school bombing and the information war](https://www.ft.com/content/c0d36dc5-9668-4607-bccb-3c423e6d3865)
+**发布时间**: 2026-03-13 05:00
+
+#### [Iran is playing a long game](https://www.ft.com/content/93b7b65d-074b-4e8b-807f-5c27c7362213)
+**发布时间**: 2026-03-13 05:00
+
+#### [Ultra-short-term bets add ‘even more mania’ to crypto trading](https://www.ft.com/content/af1f4bba-f129-499d-96b6-d85d30083df5)
+**发布时间**: 2026-03-13 05:00
+
+#### [Stranded travellers charter private jets to return to Europe](https://www.ft.com/content/e93618d4-bd2f-4b1f-a670-145b3c25015c)
+**发布时间**: 2026-03-13 05:00
+
+#### [Iran war tests Xi’s plan to build China’s stockpiles](https://www.ft.com/content/afed783c-b076-4da9-b229-e3bc055bdb87)
+**发布时间**: 2026-03-13 04:35
+
+#### [US targets UK, EU and Canada in new round of tariff probes](https://www.ft.com/content/708a6a9a-3b93-4142-a923-de82450d4ab2)
+**发布时间**: 2026-03-13 02:54
+
+#### [US to ease Russian oil sanctions as energy prices soar](https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe)
+**发布时间**: 2026-03-13 00:31
+
+#### [US has burned through ‘years’ of munitions since start of Iran war](https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5)
+**发布时间**: 2026-03-12 23:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rivian is fulfilling its promise to launch a $45,000 EV, but there’s a catch](https://www.marketwatch.com/story/rivian-is-fulfilling-its-promise-to-launch-a-45-000-ev-but-theres-a-catch-598d33d0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 02:43
+
+#### [Netflix is spending up to $600 million to buy Ben Affleck’s AI startup. What exactly is it buying?](https://www.marketwatch.com/story/netflix-is-spending-up-to-600-million-to-buy-ben-afflecks-ai-startup-what-exactly-is-it-buying-8435f02e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-13 00:34
+
+---
+
+## 🆕 最新更新 (2026-03-12 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Shoppers seeking a tariff refund from retailers are likely out of luck](https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:59
+
+#### [Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer.](https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:50
+
+#### [‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?](https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:45
+
+#### [The S&P 500 just broke a major support. Another 10% decline is likely.](https://www.marketwatch.com/story/the-s-p-500-just-broke-a-major-support-another-10-decline-is-likely-8c890fb8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:40
+
+#### [A toxic mix of private-credit panic and climbing bond yields is hammering financial stocks](https://www.marketwatch.com/story/a-toxic-mix-of-private-credit-panic-and-climbing-bond-yields-is-hammering-financial-stocks-21689fd4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:31
+
+#### [Why Adobe’s stock is falling despite an earnings beat](https://www.marketwatch.com/story/why-adobes-stock-is-falling-despite-an-earnings-beat-b6a67617?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 22:26
+
+#### [Ulta Beauty says it’s ‘increasingly mindful’ of effects that global conflicts have on shoppers, as profit forecast sinks stock](https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:40
+
+#### [A key gauge of inflation expectations just logged its highest reading in almost 4 years](https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:35
+
+#### [CrowdStrike’s stock snaps longest winning streak in a year, but analysts are increasingly bullish](https://www.marketwatch.com/story/crowdstrikes-stock-snaps-longest-winning-streak-in-a-year-but-analysts-are-increasingly-bullish-a5ebb3d6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 21:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investors slash Fed rate-cut bets as Iran war sends petrol prices surging](https://www.ft.com/content/df813cbc-f891-4f75-9257-6e1494dc9893)
+**发布时间**: 2026-03-12 21:17
+
+#### [Oil pushes above $100 as Strait of Hormuz crisis intensifies](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 21:08
+
+#### [Fed to loosen capital requirements for big US banks](https://www.ft.com/content/a1c81f17-201f-4e3f-8e02-e0b304f1b6a1)
+**发布时间**: 2026-03-12 20:40
+
+#### [US intervention in oil futures would be ‘biblical disaster’, CME warns](https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17)
+**发布时间**: 2026-03-12 19:54
+
+#### [UK government under fire over ‘bungled’ crypto Isas policy](https://www.ft.com/content/8cad0e71-8826-4873-b018-cc3274465bb2)
+**发布时间**: 2026-03-12 18:00
+
+#### [British politicians have the wrong kind of money on the brain](https://www.ft.com/content/664e0dc4-11cc-4670-92bf-deb358a5a2be)
+**发布时间**: 2026-03-12 15:57
+
+#### [Pressure grows on Starmer over Mandelson due diligence](https://www.ft.com/content/ffe4de88-16a2-42ff-bdd3-bf3ad902591c)
+**发布时间**: 2026-03-12 15:51
+
+#### [Russia rakes in $150mn a day in extra revenue from surging oil prices](https://www.ft.com/content/dd973148-b6a1-4096-97da-3090a058fe08)
+**发布时间**: 2026-03-12 15:24
+
+#### [‘Sitting ducks’: oil tankers trapped in Gulf as Iran widens attacks on shipping](https://www.ft.com/content/f45188dd-57d4-4d5d-90e0-59190543b1ae)
+**发布时间**: 2026-03-12 14:43
+
+#### [McKinsey rushes to fix AI system after hacker exposes flaws](https://www.ft.com/content/004e785e-8e17-4cb3-8e5a-3c36190bc8b2)
+**发布时间**: 2026-03-12 13:22
+
+#### [Trump’s choices are only pushing China and Russia closer together](https://www.ft.com/content/7074d350-92ba-4afe-bc51-fd459475f8a1)
+**发布时间**: 2026-03-12 13:07
+
+---
+
+## 🆕 最新更新 (2026-03-12 08:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks slide after oil price climbs higher](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 05:43
+
+#### [Hizbollah’s war with Israel deepens its isolation in Lebanon](https://www.ft.com/content/037f1db8-1183-498e-9c25-4239e574cf15)
+**发布时间**: 2026-03-12 05:00
+
+#### [Iran war threatens India’s ‘Goldilocks’ economy](https://www.ft.com/content/f7c743e1-7bfd-42c4-9f9f-d9545f9c6a06)
+**发布时间**: 2026-03-12 03:10
+
+#### [Morgan Stanley and Cliffwater limit private credit withdrawals](https://www.ft.com/content/22454850-a7da-4089-af17-a223fa11f31f)
+**发布时间**: 2026-03-11 21:24
+
+---
+
+## 🆕 最新更新 (2026-03-12 05:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil back at $100 after ships hit in Gulf](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 05:43
+
+#### [Supertankers rush to Red Sea port as Iran war chokes Gulf oil exports](https://www.ft.com/content/87c3dc86-052c-4fb1-b03e-2987ae79bcd7)
+**发布时间**: 2026-03-12 05:00
+
+#### [The AI-driven ‘kill chain’ transforming how the US wages war](https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b)
+**发布时间**: 2026-03-12 05:00
+
+#### [Military briefing: the closest US-Israel war yet](https://www.ft.com/content/8d0105cf-e7af-47d5-8757-8447d1986010)
+**发布时间**: 2026-03-12 05:00
+
+#### [Which chokepoint wins in a game of geoeconomic Top Trumps?](https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc)
+**发布时间**: 2026-03-12 05:00
+
+#### [The shadow front in the war against Iran](https://www.ft.com/content/d848b651-a010-4cfe-9ef7-5bb63d3be73d)
+**发布时间**: 2026-03-12 05:00
+
+#### [Partners Group sounds alarm on private credit default rates](https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e)
+**发布时间**: 2026-03-12 05:00
+
+#### [Investment fund questions valuations in Blue Owl’s private credit portfolio](https://www.ft.com/content/d0014b3a-94bf-4f78-8f47-64fca522e373)
+**发布时间**: 2026-03-12 05:00
+
+#### [BlackRock, L&G and UBS among 60 ESG funds holding BP despite pivot](https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8)
+**发布时间**: 2026-03-12 05:00
+
+#### [US launches new probes into EU and other trade partners](https://www.ft.com/content/1ba82098-aace-45ae-8cef-affaca87847e)
+**发布时间**: 2026-03-11 23:17
+
+#### [Cliffwater caps payouts at credit fund as redemption requests surge](https://www.ft.com/content/22454850-a7da-4089-af17-a223fa11f31f)
+**发布时间**: 2026-03-11 21:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures down more than 500 points as Brent crude again tops $100 a barrel](https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 03:04
+
+#### [Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock](https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 02:42
+
+#### [The next 7 days in Iran will determine if we face stagflation or a total global recession](https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 01:31
+
+---
+
+## 🆕 最新更新 (2026-03-11 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the IEA’s largest-ever release of oil reserves is pushing up crude prices](https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:19
+
+#### [Uber’s stock rises as new Amazon robotaxi partnership is ‘a positive surprise’](https://www.marketwatch.com/story/ubers-stock-rises-as-new-amazon-robotaxi-partnership-is-a-positive-surprise-675873a1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:09
+
+#### [Oracle’s stock surges. Here’s how it finally left the AI penalty box.](https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 23:07
+
+#### [‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?](https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:55
+
+#### [Petco is leaning on services, fresh food and pet tarantulas — and it is paying off](https://www.marketwatch.com/story/petco-is-leaning-on-services-fresh-food-and-pet-tarantulas-and-it-is-paying-off-3dd720f7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:49
+
+#### [As Starbucks’ Howard Schultz heads to Miami, here’s a list of other billionaire business leaders moving to Florida](https://www.marketwatch.com/story/as-starbucks-howard-schultz-heads-to-miami-heres-a-list-of-other-billionaire-business-leaders-moving-to-florida-2d14af75?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:48
+
+#### [Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit.](https://www.marketwatch.com/story/options-markets-are-bracing-for-disaster-as-iran-conflict-intensifies-nomura-says-heres-how-a-trader-might-profit-192d00ad?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:21
+
+#### [Nebius’s stock soars after Nvidia investment. Here’s what to know.](https://www.marketwatch.com/story/nebiuss-stock-soars-after-nvidia-investment-heres-what-to-know-5f1ed5f0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:09
+
+#### [The S&P 500’s biggest gainer since the Iran conflict started is not an oil stock](https://www.marketwatch.com/story/the-s-p-500s-biggest-gainer-since-the-iran-conflict-started-is-not-an-oil-stock-ef9e5632?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 21:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s Iran war pushes petrol past $3.50 in test of US voter patience](https://www.ft.com/content/9900ad7b-722f-4578-91b2-398bfb5bc06b)
+**发布时间**: 2026-03-11 22:24
+
+#### [IEA releases record oil reserves to counter Iran war energy shock](https://www.ft.com/content/9b623bca-bc3a-4081-b1c7-f57d83ea225e)
+**发布时间**: 2026-03-11 21:12
+
+#### [Blackstone readies £250mn Canary Wharf office sale](https://www.ft.com/content/ce3ffdee-9e8c-4683-bdd5-7207e59f36b8)
+**发布时间**: 2026-03-11 20:58
+
+#### [Mandelson papers: what do they show?](https://www.ft.com/content/cd45e89b-ecce-4bb1-9821-9811e1ef32c9)
+**发布时间**: 2026-03-11 19:41
+
+#### [Oil prices edge higher against backdrop of historic reserves release](https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b)
+**发布时间**: 2026-03-11 19:37
+
+#### [Investors demand steep concessions in Salesforce’s $25bn bond deal](https://www.ft.com/content/cb01cf27-60a0-4542-862e-88a9e30c170a)
+**发布时间**: 2026-03-11 19:37
+
+#### [Goldman executive says private markets clients ‘glad’ about Iran war ‘distraction’](https://www.ft.com/content/9232dbce-0255-4949-8c4c-ea58d86a4166)
+**发布时间**: 2026-03-11 15:40
+
+#### [Trump’s revolutionary sense of time is changing politics](https://www.ft.com/content/58131558-c33f-4f52-8bf4-1a2b8ed542d0)
+**发布时间**: 2026-03-11 15:33
+
+#### [Revolut secures full UK banking licence after four-year wait](https://www.ft.com/content/b4df4126-351e-4424-9707-8a12ca6b79a6)
+**发布时间**: 2026-03-11 14:16
+
+#### [Farage forgets which country he aims to govern](https://www.ft.com/content/d975940e-6f91-4365-8704-0c1fa41efbb3)
+**发布时间**: 2026-03-11 13:17
+
+---
+
+## 🆕 最新更新 (2026-03-11 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Kremlin backs covert campaign to keep Orbán in power](https://www.ft.com/content/34df20f9-487b-4cb6-9dc9-d676d959d1ed)
+**发布时间**: 2026-03-11 05:00
+
+#### [JPMorgan marking down loan portfolios of private credit groups](https://www.ft.com/content/389a0003-d8de-4afd-9de9-be6e9fc6888c)
+**发布时间**: 2026-03-11 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-11 05:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf disruption chokes sulphur flows supporting swaths of global industry](https://www.ft.com/content/dd2498cc-d221-4645-9fae-34d1d832c15d)
+**发布时间**: 2026-03-11 05:00
+
+#### [Lasers, radars and drones: Middle East war spurs hunt for cheaper air defence](https://www.ft.com/content/1d283f95-0f06-48be-8181-a79e254e0faf)
+**发布时间**: 2026-03-11 05:00
+
+#### [The economic consequences of war with Iran](https://www.ft.com/content/dab7d625-77f8-40ff-aeb9-451f81772125)
+**发布时间**: 2026-03-11 05:00
+
+#### [Iranians rethink the price of regime change](https://www.ft.com/content/4e048ed0-9bba-4392-8cee-7f1337c0b211)
+**发布时间**: 2026-03-11 05:00
+
+#### [Middle East war costs regional tourism industry $600mn a day](https://www.ft.com/content/e99229ce-3571-4126-99e2-346e7cc6f5ac)
+**发布时间**: 2026-03-11 05:00
+
+#### [People on controversial UK student loan plan each owe over £40,000 on average](https://www.ft.com/content/366de11e-d967-41e1-afa7-dc714c7a1180)
+**发布时间**: 2026-03-11 05:00
+
+#### [Lloyd’s of London says it will still insure ‘basically anyone’ in the Gulf](https://www.ft.com/content/2e25cb5b-f5d2-45dd-9688-52ed86212278)
+**发布时间**: 2026-03-11 05:00
+
+#### [Trump administration’s mixed messaging sparks wild swings in oil markets](https://www.ft.com/content/26f34fbf-226e-4957-beda-a9dbd2e0477a)
+**发布时间**: 2026-03-11 00:30
+
+#### [UK government does not know what it spends on consultants, say MPs](https://www.ft.com/content/f7fffc8e-1b5b-4466-9e73-f870e6fdb1ac)
+**发布时间**: 2026-03-11 00:01
+
+#### [US says it destroyed 16 Iranian minelayers near Strait of Hormuz](https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b)
+**发布时间**: 2026-03-10 23:55
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Obamacare enrollment is plunging as costs soar, pushing down stocks like Centene](https://www.marketwatch.com/story/obamacare-enrollment-is-plunging-as-costs-soar-pushing-down-stocks-like-centene-dff8248f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 02:26
+
+#### [What’s next for crude-oil prices as wealthy nations consider a release of their reserves](https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories)
+**发布时间**: 2026-03-11 01:13
+
+#### [Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance](https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 23:50
+
+---
+
+## 🆕 最新更新 (2026-03-10 23:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla and Google team up to push their own fix for rising electricity bills](https://www.marketwatch.com/story/tesla-and-google-team-up-to-push-their-own-fix-for-rising-electricity-bills-3fca75bc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 23:10
+
+#### [New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it](https://www.marketwatch.com/story/new-social-security-whistleblower-alleges-doge-worker-improperly-accessed-data-and-planned-to-share-it-d6100479?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:12
+
+#### [Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?](https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:06
+
+#### [Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it](https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:04
+
+#### [‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?](https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:01
+
+#### [My ex-boyfriend won’t pay me child support even though he earns $25,000 more than me. What can I do?](https://www.marketwatch.com/story/my-boyfriend-and-i-broke-up-and-he-wont-communicate-with-me-about-child-support-what-can-i-do-2deb8346?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 22:00
+
+#### [‘My parents begged me never to put him in a home’: I have taken care of my disabled brother my entire life. Am I doing enough?](https://www.marketwatch.com/story/i-promised-my-parents-i-take-care-of-my-brother-who-is-developmentally-disabled-im-now-retired-am-i-doing-enough-c3d926a9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 21:58
+
+#### [Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years](https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 21:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Government overcomes backbench rebellion to pass jury plan](https://www.ft.com/content/50803145-f863-4919-8ceb-c8a706be21ec)
+**发布时间**: 2026-03-10 21:26
+
+#### [Israel rejects Lebanon’s request for ‘cessation’ in fighting to allow for talks](https://www.ft.com/content/e6a01a17-1c56-487f-bcc0-c448edb87332)
+**发布时间**: 2026-03-10 21:02
+
+#### [UK deploys first warship to Cyprus after scrutiny over delays](https://www.ft.com/content/64a7fecc-3671-4744-bad8-4b7385beb248)
+**发布时间**: 2026-03-10 21:00
+
+#### [Soaring fuel prices to cast long shadow across US economy](https://www.ft.com/content/4b55d2eb-7231-4229-931f-0930d118f350)
+**发布时间**: 2026-03-10 20:13
+
+#### [There is no easy exit to Trump’s war](https://www.ft.com/content/b9c7ff46-a3bc-4b64-b8e6-b88a08d7d022)
+**发布时间**: 2026-03-10 18:02
+
+#### [The ‘number station’ sending mystery messages to Iran](https://www.ft.com/content/86c4a4ca-ca06-4fc8-90fe-4f46357b804f)
+**发布时间**: 2026-03-10 17:13
+
+#### [UK consults on scaled-back digital ID plan](https://www.ft.com/content/afc9ac8a-9541-4b7c-b482-e7d7d7ad0fbd)
+**发布时间**: 2026-03-10 16:56
+
+#### [Short sellers target Wizz Air as Iran war wipes out profit](https://www.ft.com/content/f851211d-0464-4865-8dc0-6747f4f1ebe5)
+**发布时间**: 2026-03-10 16:50
+
+#### [Odey’s ex-CEO labelled him a ‘sex pest’, court told](https://www.ft.com/content/6d1fa581-518c-4e49-aa8c-8890240c2f62)
+**发布时间**: 2026-03-10 14:21
+
+#### [Five ways the Iran war could unfold](https://www.ft.com/content/6b3b5f3a-ed9a-4568-8ee6-15c63f4054e7)
+**发布时间**: 2026-03-10 14:00
+
+#### [Taco on Iran will come too late for Trump](https://www.ft.com/content/2f3efdcd-2bd6-4417-b8e2-97b748d3cb62)
+**发布时间**: 2026-03-10 12:24
+
+#### [Oil swings as traders parse mixed messages on Strait of Hormuz](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+---
+
+## 🆕 最新更新 (2026-03-10 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Lego chief hits out at Danish wealth tax proposal](https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd)
+**发布时间**: 2026-03-10 08:00
+
+#### [Khamenei martyrdom narrative smooths path for son’s rise](https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c)
+**发布时间**: 2026-03-10 07:01
+
+#### [The thing that everyone expected to happen has happened](https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9)
+**发布时间**: 2026-03-10 06:30
+
+#### [Oil slides as Trump says war will end ‘very soon’](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+#### [White men will have ‘fewer board seats’ in future, says UK diversity chair](https://www.ft.com/content/2ef678ea-843c-45a1-abec-f81f48e7b8d2)
+**发布时间**: 2026-03-10 00:01
+
+---
+
+## 🆕 最新更新 (2026-03-10 05:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can the G7 release enough oil to calm the market?](https://www.ft.com/content/2ac57d2f-213f-42ee-98a9-a1e14e819915)
+**发布时间**: 2026-03-10 05:00
+
+#### [Israel expects Lebanon offensive to outlast Iran conflict](https://www.ft.com/content/364a246a-8837-4de0-82d8-53d982844bfa)
+**发布时间**: 2026-03-10 05:00
+
+#### [The handymen and drivers keeping Tehran running](https://www.ft.com/content/a49da063-ac4d-4d04-9ba5-58209835ed93)
+**发布时间**: 2026-03-10 05:00
+
+#### [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+**发布时间**: 2026-03-10 05:00
+
+#### [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
+**发布时间**: 2026-03-10 04:40
+
+#### [Oil slides and stocks rebound](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+#### [Trump says Iran war will end ‘very soon’](https://www.ft.com/content/e6f166b1-c5a1-49bb-9dd5-2d0200f8afca)
+**发布时间**: 2026-03-10 00:55
+
+#### [White males will have ‘fewer board seats’ in future, says UK diversity chair](https://www.ft.com/content/2ef678ea-843c-45a1-abec-f81f48e7b8d2)
+**发布时间**: 2026-03-10 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle faces a high bar for earnings as investors look for an AI payoff](https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 02:58
+
+#### [‘I find this very worrying’: A friend lost her home. Why are foreclosures in America on the rise?](https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 00:00
+
+---
+
+## 🆕 最新更新 (2026-03-09 23:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic sues Pentagon claiming supply chain risk label could cost billions in revenue](https://www.ft.com/content/af404e0a-7abc-49bc-9584-cd4690152f86)
+**发布时间**: 2026-03-09 23:14
+
+#### [Goldman pitches hedge funds on strategies to bet against corporate loans](https://www.ft.com/content/52c4f129-891f-4afe-9cf4-3934630a50ad)
+**发布时间**: 2026-03-09 21:00
+
+#### [The rise of Mojtaba Khamenei](https://www.ft.com/content/e63f1049-7e3f-4f31-885c-b676261b9b16)
+**发布时间**: 2026-03-09 20:32
+
+#### [G7 ‘stands ready’ to release emergency oil reserves](https://www.ft.com/content/bc3179f5-5591-489e-8ff3-179c4d1242b1)
+**发布时间**: 2026-03-09 20:01
+
+#### [British aircraft carrier will not be sent to Middle East, say officials](https://www.ft.com/content/2d5ccfbd-fe50-41e5-aa82-fa4c27464e73)
+**发布时间**: 2026-03-09 19:35
+
+#### [Middle East crisis ‘likely’ to push UK inflation up, Rachel Reeves tells MPs](https://www.ft.com/content/ac1d15a1-f312-40b5-abd0-0a6fb12ad031)
+**发布时间**: 2026-03-09 18:24
+
+#### [Trump sons back launch of new military drone company](https://www.ft.com/content/ab78c37c-8791-474e-b057-bf8f33d21118)
+**发布时间**: 2026-03-09 17:28
+
+#### [Gulf desalination plants emerge as new flashpoint in Iran war](https://www.ft.com/content/f273fa16-ff7f-4207-a9ae-abce5de93144)
+**发布时间**: 2026-03-09 14:57
+
+#### [Trump’s Venezuela strategy has failed in Iran](https://www.ft.com/content/7d40b920-93d8-4ee7-9387-a5793fd3e0c5)
+**发布时间**: 2026-03-09 11:51
+
+#### [Donald Trump says Iran war will be over ‘very soon’](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’](https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 22:44
+
+#### [The NFL’s Dolphins are paying a record $99.2 million to get a player off their team](https://www.marketwatch.com/story/the-nfls-dolphins-are-paying-a-record-99-2-million-to-get-a-player-off-their-team-872a1e8a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 22:02
+
+#### [An already chaotic spring travel season is colliding with effects of Iran conflict](https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:45
+
+#### [‘I am stuck in a low-income trap’: I’m a teacher and very good at my job. Will I ever earn six figures?](https://www.marketwatch.com/story/i-am-stuck-in-a-low-income-trap-im-a-teacher-will-i-ever-earn-six-figures-5f7dd2b9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:15
+
+#### [‘I find this very worrying’: A friend lost her home. Why are foreclosures on the rise?](https://www.marketwatch.com/story/i-find-this-very-worrying-a-friends-home-fell-into-foreclosure-what-on-earth-is-going-on-6ca57472?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:14
+
+#### [Treasury yields halt climb after Trump reportedly signals Iran war may end soon](https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 21:06
+
+#### [Older workers embrace job hopping — and it’s good for their retirement prospects](https://www.marketwatch.com/story/older-workers-embrace-job-hopping-and-its-good-for-their-retirement-prospects-1b52c1b0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:41
+
+#### [HPE’s stock rises as earnings benefit from two big AI trends](https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:40
+
+#### [This biotech’s stock soared after a ‘polarizing’ FDA official is stepping down](https://www.marketwatch.com/story/this-biotechs-stock-is-soaring-after-a-polarizing-fda-official-is-stepping-down-8a81d352?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 20:37
+
+---
+
+## 🆕 最新更新 (2026-03-09 08:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gilt market slump deepens as traders bet on BoE rate rise](https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2)
+**发布时间**: 2026-03-09 08:42
+
+#### [Global trading system under ‘unsustainable’ pressure, warns UK](https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f)
+**发布时间**: 2026-03-09 05:00
+
+#### [Stocks and bonds tumble as oil soars past $100 a barrel](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates](https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 08:40
+
+---
+
+## 🆕 最新更新 (2026-03-09 05:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [G7 to discuss joint release of emergency oil reserves](https://www.ft.com/content/e1141f96-db3e-41ef-b978-0131e91f1d82)
+**发布时间**: 2026-03-09 05:51
+
+#### [Which economies will pay the biggest price for the Iran war?](https://www.ft.com/content/9c17c777-378b-44ad-abf8-00d8cfb5349c)
+**发布时间**: 2026-03-09 05:00
+
+#### [Farage misses out on Trump meeting as their relationship cools](https://www.ft.com/content/93919282-0871-4cfe-bc98-62cee5477d8b)
+**发布时间**: 2026-03-09 05:00
+
+#### [Kharg Island: Iran’s oil lifeline that Trump has left untouched](https://www.ft.com/content/1355c203-43b1-4d21-8dc7-deb4f8e762b5)
+**发布时间**: 2026-03-09 05:00
+
+#### [Global trading system under ‘unsustainable’ pressure warns UK](https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f)
+**发布时间**: 2026-03-09 05:00
+
+#### [Largest backer of UK water companies shuns sector amid struggles](https://www.ft.com/content/9005597a-a59e-4b49-bb95-f5ec8d9e633e)
+**发布时间**: 2026-03-09 05:00
+
+#### [Stocks tumble as oil soars past $110 a barrel](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
+
+#### [Iran’s choice of Khamenei’s son as supreme leader signals continuity of hardline policies](https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729)
+**发布时间**: 2026-03-08 23:16
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages](https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-09 02:58
+
+---
+
+## 🆕 最新更新 (2026-03-08 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages](https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 23:24
+
+#### [Oil prices are the No. 1 thing investors are watching right now. Here’s why.](https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 22:27
+
+#### [These 8 drugs could help fight dementia — and they’re already on the market](https://www.marketwatch.com/story/these-8-drugs-could-help-fight-dementia-and-theyre-already-on-the-market-f19aed04?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 20:49
+
+#### [Medicare Advantage growth is being driven by these niche — and lucrative — plans](https://www.marketwatch.com/story/these-niche-plans-drove-83-of-medicare-advantage-sign-ups-in-the-past-year-436137c6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 20:47
+
+#### [The true cost of daylight-saving time is a $672 million hit to the U.S. economy](https://www.marketwatch.com/story/the-true-cost-of-daylight-saving-time-is-a-672-million-hit-to-the-u-s-economy-70953f73?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 19:05
+
+#### [‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?](https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories)
+**发布时间**: 2026-03-08 17:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mojtaba Khamenei’s appointment is a sign Iran’s hardline policies will continue](https://www.ft.com/content/65af8f74-ebc9-4886-a91c-059288a0c729)
+**发布时间**: 2026-03-08 23:16
+
+#### [Oil surges past $100 a barrel for the first time in four years](https://www.ft.com/content/56a01aa5-98af-48f0-b580-89e7bb4f59f6)
+**发布时间**: 2026-03-08 22:52
+
+#### [Muscat airport limits private jet flights as wealthy leave the Gulf](https://www.ft.com/content/7a97be0b-114c-40b9-a8b1-a675b6e0f27d)
+**发布时间**: 2026-03-08 21:26
+
+#### [Trump raises the stakes in Iran by weighing deployment of US ground forces](https://www.ft.com/content/8cc179e7-e674-44f4-9728-f8438564d072)
+**发布时间**: 2026-03-08 20:51
+
+#### [Yvette Cooper defends UK’s ‘cool-headed approach’ on Iran after Trump criticism](https://www.ft.com/content/48215964-a959-4d40-8726-01643fd21833)
+**发布时间**: 2026-03-08 18:52
+
+#### [Ali Khamenei’s son Mojtaba becomes Iran’s supreme leader](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 17:49
+
+#### [Switzerland votes to end ‘marriage penalty’ in historic tax referendum](https://www.ft.com/content/9d4d9285-09cd-4da3-871b-b66a71db8d96)
+**发布时间**: 2026-03-08 16:12
+
+#### [Tehran residents warned of acid rain after oil storage attack](https://www.ft.com/content/d08d89bb-89f5-41c2-9835-e3ac59b67cfa)
+**发布时间**: 2026-03-08 11:39
+
+#### [The hunt for Iran’s ballistic missile crews](https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f)
+**发布时间**: 2026-03-08 05:00
+
+---
+
+## 🆕 最新更新 (2026-03-08 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China signals it wants a Trump visit despite Iran war](https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb)
+**发布时间**: 2026-03-08 07:20
+
+#### [Gulf businesses buy up political violence insurance as conflict spreads](https://www.ft.com/content/c892e180-5747-49bc-80ef-9f8b81554102)
+**发布时间**: 2026-03-08 05:00
+
+#### [‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew](https://www.ft.com/content/b2b316ca-3484-4c6c-89e9-dc4c1633bc7f)
+**发布时间**: 2026-03-08 05:00
+
+#### [America chose this war — and must now choose how to end it](https://www.ft.com/content/0321036f-6fd0-415f-b016-12958cc8b04b)
+**发布时间**: 2026-03-08 05:00
+
+#### [Samsung seeks AI deals to challenge Apple’s smartphone lead](https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c)
+**发布时间**: 2026-03-08 05:00
+
+#### [Israel expands attacks to Iranian oil storage facilities](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 00:58
+
+---
+
+## 🆕 最新更新 (2026-03-08 05:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump hits out at Starmer over UK reluctance to support Iran attacks](https://www.ft.com/content/0b7b81e2-6b0c-4e3c-81cb-0d6f3fd60682)
+**发布时间**: 2026-03-08 00:58
+
+---
+
+## 🆕 最新更新 (2026-03-07 23:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?](https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 22:14
+
+#### [Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.](https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:41
+
+#### [There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline](https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [People taking money out of their 401(k)s isn’t necessarily the crisis everyone thinks it is](https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [The cost of healthcare in retirement keeps getting scarier](https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:40
+
+#### [I scrapped $70 million in sales to build a more profitable business. Here’s what I learned.](https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-07 19:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump calls for more US military action in Latin America](https://www.ft.com/content/b974477f-61a4-492e-b8b7-9709f4086b4c)
+**发布时间**: 2026-03-07 17:42
+
+#### [Iran warns it will hit US bases across region hours after president’s apology](https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261)
+**发布时间**: 2026-03-07 16:31
+
+#### [Trump hits out at Starmer over UK reluctance to support Iran attacks](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 14:01
+
+#### [US faced with few good options to tamp down surging oil prices](https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842)
+**发布时间**: 2026-03-07 11:00
+
+#### [A week of war in charts: the impact on the US](https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a)
+**发布时间**: 2026-03-07 11:00
+
+#### [The bombing of Tehran — in maps and satellite images](https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650)
+**发布时间**: 2026-03-07 09:00
+
+---
+
+## 🆕 最新更新 (2026-03-07 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ministers could ban relatives of overseas students on some courses, adviser warns](https://www.ft.com/content/3ef0e3d2-fc2a-4f80-b97e-72ebb8bcd7f8)
+**发布时间**: 2026-03-07 05:00
+
+#### [Iran calls halt to attacks on neighbours as Israel strikes more targets](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 00:37
+
+---
+
+## 🆕 最新更新 (2026-03-07 05:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s war on Iran is spreading. Where does it stop?](https://www.ft.com/content/ddb4a3fd-2f99-43a4-8ae6-330c6d29c14a)
+**发布时间**: 2026-03-07 05:00
+
+#### [The war of unintended consequences](https://www.ft.com/content/0b16e3e8-d52b-4b87-a212-bba90af39ceb)
+**发布时间**: 2026-03-07 05:00
+
+#### [We’ll always have Dubai](https://www.ft.com/content/fa5caf43-0ad4-4da2-a6fc-d2575bea4f41)
+**发布时间**: 2026-03-07 05:00
+
+#### [UK lenders raise mortgage rates amid warnings over inflation and energy prices](https://www.ft.com/content/e178273a-991b-461b-82c6-ccf24c966e31)
+**发布时间**: 2026-03-07 05:00
+
+#### [Google gives CEO Sundar Pichai new pay deal worth up to $692mn](https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce)
+**发布时间**: 2026-03-07 01:10
+
+#### [Explosions rock Tehran’s Mehrabad Airport after apparent strike](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38)
+**发布时间**: 2026-03-07 00:37
+
+#### [US draws up strict new AI guidelines amid Anthropic clash](https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb)
+**发布时间**: 2026-03-07 00:02
+
+#### [Starmer’s pledge to cut living costs rocked by Middle East war](https://www.ft.com/content/70d14e21-0355-401b-ad58-eefe5cce154f)
+**发布时间**: 2026-03-06 19:01
+
+---
+
+## 🆕 最新更新 (2026-03-06 23:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Four companies, including AI and data-center plays, are joining the S&P 500 index](https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 23:01
+
+#### [These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran](https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:16
+
+#### [That viral Big Arch burger video could be worth at least $18 million to McDonald’s in free publicity](https://www.marketwatch.com/story/that-viral-big-arch-burger-video-could-be-worth-at-least-18-million-to-mcdonalds-in-free-publicity-87a3d882?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:09
+
+#### [Defense-tech stocks are the hot trade as Iran conflict widens](https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 22:04
+
+#### [Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos](https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:53
+
+#### [Defense companies agree to ramp up output after meeting with Trump](https://www.marketwatch.com/story/defense-companies-are-meeting-trump-today-heres-what-hell-ask-for-after-demanding-irans-surrender-c84d34d3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:47
+
+#### [‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?](https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:21
+
+#### [Oil prices are surging. Will that help Tesla and others sell more EVs?](https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 21:09
+
+#### [Crude-oil futures haven’t been this overbought since 1990. That doesn’t mean the rally is over.](https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 20:45
+
+#### [U.S. oil prices notch record weekly gain of nearly 36%, as Middle East conflict spurs worries over production cuts](https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 20:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oracle and OpenAI scrap deal to expand flagship Texas data centre](https://www.ft.com/content/2fa83bbf-abf2-43f1-b2f0-84a1391150b9)
+**发布时间**: 2026-03-06 22:40
+
+#### [Oil hits highest level since 2023 as Iran war triggers historic surge](https://www.ft.com/content/d3e2c2a1-73aa-4952-b1f1-08c87042b507)
+**发布时间**: 2026-03-06 21:52
+
+#### [US agency to create $20bn reinsurance facility for Gulf shipping](https://www.ft.com/content/d1d68d91-0d2c-4682-9204-01320a9320d4)
+**发布时间**: 2026-03-06 20:35
+
+#### [Russia is helping Iran to target US military assets in Middle East](https://www.ft.com/content/19be57d7-6299-4a1d-b761-3d699d07de94)
+**发布时间**: 2026-03-06 20:06
+
+#### [In the centre of the storm: what does the Iran war mean for Dubai?](https://www.ft.com/content/f7efce04-b122-4243-bcd2-2c524951c10d)
+**发布时间**: 2026-03-06 19:00
+
+#### [Ships in Gulf declare themselves Chinese to dodge attack](https://www.ft.com/content/eaecc3ce-ba4e-4e19-9d0a-6cf1536a5aed)
+**发布时间**: 2026-03-06 18:20
+
+#### [Investors are not ready for a true shock](https://www.ft.com/content/d1f70afe-61f9-4993-9413-00463a60fe61)
+**发布时间**: 2026-03-06 18:00
+
+#### [Israeli strikes displace hundreds of thousands across Lebanon](https://www.ft.com/content/56637c81-19ab-40cd-ac8b-1b1760067957)
+**发布时间**: 2026-03-06 17:11
+
+#### [US and Gulf states hold talks with Ukraine over drone detection](https://www.ft.com/content/947fc231-7100-4236-8d04-7acca12039fe)
+**发布时间**: 2026-03-06 16:23
+
+#### [Hargreaves Lansdown postpones fee rises, but only for ‘valued’ clients](https://www.ft.com/content/8b3d5c38-5609-4b8f-8258-8c3f21dc59e4)
+**发布时间**: 2026-03-06 14:41
+
+#### [Qatar warns war will force Gulf to stop energy exports ‘within days’](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea)
+**发布时间**: 2026-03-06 14:11
+
+#### [Trump says no deal with Iran except ‘unconditional surrender’](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
+
+---
+
+## 🆕 最新更新 (2026-03-06 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can the Gulf still act as an airline hub for the world?](https://www.ft.com/content/5902d4db-f8ca-4ad8-aec6-cc8d17e964b1)
+**发布时间**: 2026-03-06 05:00
+
+#### [Why Trump won’t clean up his own mess](https://www.ft.com/content/0a318f39-b85b-4da7-b22f-243dc97fca80)
+**发布时间**: 2026-03-06 05:00
+
+#### [Iran hits Amazon data centres in jolt to Gulf AI drive](https://www.ft.com/content/09fa5c20-2c8f-4f41-9d91-c78476eaac20)
+**发布时间**: 2026-03-06 05:00
+
+#### [F1 races at risk as Middle East war disrupts sport](https://www.ft.com/content/f7dfdb82-76a4-48ec-988f-e5f78b19a088)
+**发布时间**: 2026-03-06 05:00
+
+#### [Power prices in Europe swing wildly as Iran war stokes volatility](https://www.ft.com/content/ac77915d-7542-4129-aabe-d3a9daff2573)
+**发布时间**: 2026-03-06 05:00
+
+#### [Israel targets Beirut and Tehran in broad wave of strikes](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
+
+---
+
+## 🆕 最新更新 (2026-03-06 05:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The vulnerable Gulf energy assets putting the world on edge](https://www.ft.com/content/e05d6bd9-6c6c-4f9c-8ced-430464da8fb5)
+**发布时间**: 2026-03-06 05:00
+
+#### [The billionaire ‘buccaneer’ braving the Strait of Hormuz](https://www.ft.com/content/dd3444c7-b8fa-4f6c-9451-ffb9e2525cd9)
+**发布时间**: 2026-03-06 05:00
+
+#### [‘Cavalier and demeaning’: the Trump team’s hyper-aggressive war rhetoric](https://www.ft.com/content/d8462d39-40c9-4b2a-b9c3-b7af79955bbe)
+**发布时间**: 2026-03-06 05:00
+
+#### [Lloyds strives to be ‘UK’s biggest fintech’ by selling more customer data](https://www.ft.com/content/f32cd6ce-0c99-4180-a977-c2cb420159a3)
+**发布时间**: 2026-03-06 05:00
+
+#### [UBS fee-sharing deals with Carlyle and CVC spark conflict of interest fears](https://www.ft.com/content/2a1805a1-45ce-4811-9575-1dced18a2305)
+**发布时间**: 2026-03-06 05:00
+
+#### [Reprieve for India as US eases sanctions on buying Russian oil](https://www.ft.com/content/f513bca3-507f-41ae-a95d-2bb906d3d9e9)
+**发布时间**: 2026-03-06 04:13
+
+#### [Trump says Iran wants to ‘make a deal’ to end the war](https://www.ft.com/content/95d840fe-9838-4b52-8f81-464fe7c52902)
+**发布时间**: 2026-03-06 00:25
+
+#### [Trump says he must be ‘involved’ in choosing Iran’s next leader](https://www.ft.com/content/5847cc41-f655-49d4-a6f3-1674cc81dc80)
+**发布时间**: 2026-03-05 22:21
+
+#### [Gulf states could review overseas investments to ease Iran war strains](https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f)
+**发布时间**: 2026-03-05 22:02
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic has ‘no choice’ but to fight Pentagon’s ‘supply-chain risk’ designation in court, CEO says](https://www.marketwatch.com/story/anthropic-has-no-choice-but-to-fight-pentagons-supply-chain-risk-designation-in-court-ceo-says-3375d7d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 04:33
+
+#### [Marvell’s stock soars as robust AI-driven demand drives an earnings beat](https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 01:19
+
+#### [Seven REIT stocks pass a strict financial screen, with dividends as high as 6.27%](https://www.marketwatch.com/story/seven-reit-stocks-pass-a-strict-financial-screen-with-dividends-as-high-as-6-27-fdd57ab8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 00:41
+
+#### [Why Broadcom’s earnings report has Wall Street so upbeat on a bad day for chip stocks](https://www.marketwatch.com/story/why-broadcoms-earnings-report-has-wall-street-so-upbeat-on-a-bad-day-for-chip-stocks-8ff9306e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-06 00:19
+
+---
+
+## 🆕 最新更新 (2026-03-05 23:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trade Desk’s stock soars, as a potential OpenAI partnership gives investors reason to cheer](https://www.marketwatch.com/story/trade-desks-stock-soars-as-a-potential-openai-partnership-gave-investors-reason-to-cheer-542f2331?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 23:10
+
+#### [Kroger extended its streak of sales misses — but that’s not hurting its profits](https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 23:04
+
+#### [FIFA World Cup games in Massachusetts may be in danger amid funding fight. Here’s what fans can do.](https://www.marketwatch.com/story/fifa-world-cup-games-in-massachusetts-may-in-danger-amid-funding-fight-heres-what-fans-can-do-be9b47db?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:38
+
+#### [The scary numbers on retirement healthcare: You’ll need up to $469,000 saved](https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:38
+
+#### [This Gap brand continues to be an underperformer, and it is dragging the retailer’s stock](https://www.marketwatch.com/story/this-gap-brand-continues-to-be-an-underperformer-and-it-is-dragging-the-retailers-stock-579397c9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:28
+
+#### [‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?](https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:20
+
+#### [Costco’s stock chart sees first bullish ‘golden cross’ in 3 years as earnings are released](https://www.marketwatch.com/story/costcos-stock-chart-sees-a-bullish-golden-cross-just-before-earnings-are-released-1784c6f1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 22:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Iran wants to ‘make a deal’ to end the war](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 23:10
+
+#### [Depleted oil reserve leaves US exposed as Iran war pushes up prices](https://www.ft.com/content/d546fd5b-4a0c-4b90-8bee-9e85b75458ed)
+**发布时间**: 2026-03-05 23:03
+
+#### [US considers tying Nvidia and AMD AI chip exports to foreign investment pledges](https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc)
+**发布时间**: 2026-03-05 22:48
+
+#### [UK police search journalist’s home in China spy probe](https://www.ft.com/content/b1cdf0a0-fd91-4949-8ffc-a6e43d7c8e7b)
+**发布时间**: 2026-03-05 22:06
+
+#### [Gulf states could review overseas investments to ease strains caused by Iran war](https://www.ft.com/content/ab7d597d-5e72-4cbf-8d3b-53815695d68f)
+**发布时间**: 2026-03-05 22:02
+
+#### [Industry doubts Trump plan to insure Gulf oil tankers as Iran war halts transit](https://www.ft.com/content/6ddeb488-0d6f-4b6a-b419-2a2ba7437a25)
+**发布时间**: 2026-03-05 21:26
+
+#### [Iran crisis shines spotlight on ‘threadbare’ Royal Navy](https://www.ft.com/content/b0f5b67d-fb0f-44ee-bd33-b446a47c8008)
+**发布时间**: 2026-03-05 20:24
+
+#### [Trump fires controversial homeland security secretary Noem](https://www.ft.com/content/e22300d8-172f-4737-95b3-94841f833959)
+**发布时间**: 2026-03-05 20:22
+
+#### [Iran turns to cheap drones as US and Israel target missile launchers](https://www.ft.com/content/218bc7d1-708f-4364-bf7d-5f9ecaca3371)
+**发布时间**: 2026-03-05 18:53
+
+#### [Starmer calls for de-escalation and defends his leadership over Iran attacks](https://www.ft.com/content/f2f07fb2-9ce5-4a5b-acc3-17f332355269)
+**发布时间**: 2026-03-05 16:34
+
+#### [In defence of hand-wringers and pearl-clutchers](https://www.ft.com/content/8117e57f-c560-4a52-ab99-252e6db466d8)
+**发布时间**: 2026-03-05 12:25
+
+#### [Nvidia stops production of chips intended for China](https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb)
+**发布时间**: 2026-03-05 09:24
+
+---
+
+## 🆕 最新更新 (2026-03-05 08:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform UK received second big donation from Thailand-based crypto investor](https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114)
+**发布时间**: 2026-03-05 07:44
+
+#### [Gulf oil producers face race to resume exports before storage fills up](https://www.ft.com/content/aaaad78b-2980-4bb3-90f8-e8d7ab617796)
+**发布时间**: 2026-03-05 05:00
+
+#### [Israel hits Iran and Lebanon on sixth day of conflict](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 00:06
+
+---
+
+## 🆕 最新更新 (2026-03-05 05:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Pentagon eyes Ukrainian interceptor drones to counter Iran](https://www.ft.com/content/d077e9c6-1573-46dc-8658-3db3aaf7cdfb)
+**发布时间**: 2026-03-05 05:00
+
+#### [How Sánchez became Trump’s nemesis in Europe](https://www.ft.com/content/987bb3a4-76b2-41f0-9a9a-6c13159b4ba9)
+**发布时间**: 2026-03-05 05:00
+
+#### [Iran attacks show the perils of following America’s economic lead](https://www.ft.com/content/8dc24319-631e-4477-a002-668a410c40e9)
+**发布时间**: 2026-03-05 05:00
+
+#### [NHS official pushed to add patient data to Palantir platform while also advising company](https://www.ft.com/content/6c548670-0f3e-45f1-ba08-8bb6dd152af5)
+**发布时间**: 2026-03-05 05:00
+
+#### [Web of tiny accounting firms audited collapsed MFS property lending empire](https://www.ft.com/content/0d53fc5c-cd3c-41a7-8d22-71f265877318)
+**发布时间**: 2026-03-05 05:00
+
+#### [Anthropic chief back in talks with Pentagon about AI deal](https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b)
+**发布时间**: 2026-03-05 01:40
+
+#### [OpenAI pushes to add surveillance safeguards following Pentagon deal](https://www.ft.com/content/f8592f27-a1be-4299-8c76-6e1947d5beb6)
+**发布时间**: 2026-03-05 00:39
+
+#### [Iran fires more missiles towards Israel](https://www.ft.com/content/923c67e7-99d0-4044-9228-8ae381369822)
+**发布时间**: 2026-03-05 00:06
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The most expensive state for in-home caregiving may surprise you — and it costs almost $9,000 a month there](https://www.marketwatch.com/story/the-most-expensive-state-for-in-home-caregiving-may-surprise-you-and-it-costs-almost-9-000-a-month-there-1cdc19d1?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 03:45
+
+#### [How to step back from your job without killing your career](https://www.marketwatch.com/story/im-overworked-heres-how-to-step-back-from-your-job-without-killing-your-career-e1b478ce?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 03:27
+
+#### [Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt](https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 02:04
+
+#### [Broadcom says AI is not disrupting its software business, and its stock climbs](https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 01:19
+
+#### [Okta’s stock rises as momentum in AI agents fuels an earnings beat](https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-05 01:17
+
+#### [Tesla’s self-driving effort could be worth more than double its EV division](https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:50
+
+#### [Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share](https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:49
+
+#### [Why the rise in 401(k) hardship withdrawals may not be such a problem](https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:31
+
+---
+
+## 🆕 最新更新 (2026-03-04 23:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?](https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:30
+
+#### [Broadcom’s stock climbs after it says AI is not disrupting its software business](https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:11
+
+#### [The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality](https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 23:07
+
+#### [Okta’s stock rallies as momentum in AI agents fuels an earnings beat](https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:22
+
+#### [Moderna’s stock rallies as settlement of a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:17
+
+#### [BlackRock’s target-date funds are about to get riskier. Here’s what you need to know.](https://www.marketwatch.com/story/blackrocks-target-date-funds-are-about-to-get-riskier-heres-what-you-need-to-know-4d795704?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:12
+
+#### [Here are 6 reasons why stocks may shake off Iran fears and move higher in March](https://www.marketwatch.com/story/here-are-6-reasons-why-stocks-may-shake-off-iran-fears-and-move-higher-in-march-5516c160?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:10
+
+#### [This fund signals investor demand for South Korean stocks may be returning after ugly rout](https://www.marketwatch.com/story/selloff-descends-into-a-rout-in-south-korea-with-biggest-one-day-drop-since-2008-911de87c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 22:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US congressional panel votes to subpoena Pam Bondi over Epstein files](https://www.ft.com/content/efe176cc-9d36-4fe6-bfa6-ae30dd502ee2)
+**发布时间**: 2026-03-04 22:28
+
+#### [Rate of Iranian ballistic missile launches is declining, western officials say](https://www.ft.com/content/bc7b386f-23e9-4b97-8613-9f7abe985be1)
+**发布时间**: 2026-03-04 21:46
+
+#### [US in talks with Iranian Kurdish militants over anti-regime operations](https://www.ft.com/content/fe0d828d-ef51-4568-b2d7-1c286d464723)
+**发布时间**: 2026-03-04 20:08
+
+#### [China spying arrests raise awkward questions about Labour Party links](https://www.ft.com/content/2918c0e3-226d-4773-8ddf-eb7cd0a15ea3)
+**发布时间**: 2026-03-04 19:53
+
+#### [Israel expects weeks-long war against Iran](https://www.ft.com/content/dd070ee7-7021-4f90-86ec-690fe6aa34e6)
+**发布时间**: 2026-03-04 18:04
+
+#### [Trump had ‘feeling’ Iran was going to attack US interests, White House says](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 18:04
+
+#### [The Gulf’s safe-haven status is under fire](https://www.ft.com/content/87c783dd-b32d-499b-8482-70f257992e9e)
+**发布时间**: 2026-03-04 17:17
+
+#### [US submarine sinks Iranian warship in Indian Ocean](https://www.ft.com/content/d9d578d8-7daa-412b-bf2f-bcfe1fd4c6e2)
+**发布时间**: 2026-03-04 17:09
+
+#### [Labour MP’s partner among 3 arrested in UK on suspicion of spying for China](https://www.ft.com/content/2efb4703-a5bd-42a7-9b04-7b89e41decb3)
+**发布时间**: 2026-03-04 15:04
+
+#### [Iran war upends popular trades](https://www.ft.com/content/2c6529e0-41cb-4c2e-957d-04fb9641d807)
+**发布时间**: 2026-03-04 14:47
+
+#### [Be glad of Starmer’s caution over Iran](https://www.ft.com/content/eaeea2e4-7ddf-487d-9dc5-b17747ed6262)
+**发布时间**: 2026-03-04 11:40
+
+#### [The influencers leaping to Dubai’s defence](https://www.ft.com/content/a7bffadc-0787-48a6-a3d6-0a87ce1f3fdf)
+**发布时间**: 2026-03-04 11:30
+
+#### [Ali Khamenei’s son Mojtaba emerges as a leading candidate for supreme leader of Iran](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f)
+**发布时间**: 2026-03-04 10:51
 
 ---
 

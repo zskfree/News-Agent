@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Mar 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 08:41:59 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:59:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2</title>
-      <link>https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列</title>
+      <link>https://www.tmtpost.com/7972453.html</link>
+      <description>&lt;![CDATA[【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7972453.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失</title>
-      <link>https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”</title>
+      <link>https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI“氛围编程”威胁开源，维护者面临危机</title>
-      <link>https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI“氛围编程”威胁开源，维护者面临危机]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作</title>
+      <link>https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”</title>
-      <link>https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来</title>
+      <link>https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深</title>
-      <link>https://www.tmtpost.com/7898990.html</link>
-      <description>&lt;![CDATA[两小时攻防：GPT-5.3 褪去“说教感”，AI 巨头的场景之争走向纵深]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7898990.html</guid>
+      <title>智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家</title>
+      <link>https://www.tmtpost.com/7970809.html</link>
+      <description>&lt;![CDATA[智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7970809.html</guid>
       <category>Technology</category>
     </item>
   </channel>

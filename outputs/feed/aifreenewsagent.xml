@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 04 Mar 2026 08:41:00 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 08:41:59 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:58:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起</title>
-      <link>https://www.qbitai.com/2026/03/383902.html</link>
-      <description>&lt;![CDATA[苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 07:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/383902.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-03-04日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-04/</link>
-      <description>&lt;![CDATA[2026-03-04日刊]]&gt;</description>
-      <pubDate>Wed, 04 Mar 2026 09:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-04/</guid>
+      <title>Four ways Google Research scientists have been using Empirical Research Assistance</title>
+      <link>https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/</link>
+      <description>&lt;![CDATA[Four ways Google Research scientists have been using Empirical Research Assistance]]&gt;</description>
+      <pubDate>Wed, 29 Apr 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/</guid>
       <category>Ai</category>
     </item>
   </channel>
