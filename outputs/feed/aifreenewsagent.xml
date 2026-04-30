@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 10:08:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 10:10:48 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 23:54:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 23:56:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施</title>
-      <link>https://www.qbitai.com/2026/04/412018.html</link>
-      <description>&lt;![CDATA[Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412018.html</guid>
+      <title>重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展</title>
+      <link>https://www.qbitai.com/2026/04/412041.html</link>
+      <description>&lt;![CDATA[重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412041.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构</title>
-      <link>https://www.qbitai.com/2026/04/412015.html</link>
-      <description>&lt;![CDATA[商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412015.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市</title>
-      <link>https://www.qbitai.com/2026/04/411963.html</link>
-      <description>&lt;![CDATA[10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/411963.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁</title>
-      <link>https://www.qbitai.com/2026/04/411964.html</link>
-      <description>&lt;![CDATA[IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/411964.html</guid>
+      <title>坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆</title>
+      <link>https://www.qbitai.com/2026/04/412021.html</link>
+      <description>&lt;![CDATA[坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412021.html</guid>
       <category>Ai</category>
     </item>
   </channel>

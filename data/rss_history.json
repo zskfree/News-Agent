@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b63a5cf91242af266ff047261ee193c4c871bbdba2290be64ea444640464ffb8": {
-        "title": "【钛晨报】央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度；国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国；360智能体发现OpenClaw高危漏洞，或波及全球17万实例",
-        "link": "https://www.tmtpost.com/7936967.html",
-        "published_date": "Wed, 01 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-03-31T23:39:01.317698"
-      },
-      "a4892b2f87586a674e9ab14ca5181648d7d3b22862914b7fb0adde13c4f56a77": {
-        "title": "昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡",
-        "link": "https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 31 Mar 2026 17:14:00 GMT",
-        "first_seen": "2026-03-31T23:39:01.317712"
-      },
-      "e9565d33daccded9454827d5c43ce9d8a96fc87b1320dcdad12da0162ee1d680": {
-        "title": "智谱跑通了MaaS盈利模式，但仍有一个“短板”丨看财报",
-        "link": "https://www.tmtpost.com/7936877.html",
-        "published_date": "Tue, 31 Mar 2026 19:50:00 GMT",
-        "first_seen": "2026-03-31T23:39:01.317714"
-      },
-      "e0921459482ba47481b5a593680a861009b285eff285fdd9b77c58be5f29a55c": {
-        "title": "华沿机器人赴港上市：大族激光孵化，剑指具身智能",
-        "link": "https://www.tmtpost.com/7931199.html",
-        "published_date": "Tue, 31 Mar 2026 19:20:00 GMT",
-        "first_seen": "2026-03-31T23:39:01.317717"
-      },
-      "77f17722b28124a077d540d3e2e393f8c187970e33591e30a7b4b153bed7afef": {
-        "title": "100亿现金也买不来安全感：月之暗面的“PlanB”",
-        "link": "https://www.tmtpost.com/7935945.html",
-        "published_date": "Tue, 31 Mar 2026 19:14:00 GMT",
-        "first_seen": "2026-03-31T23:39:01.317719"
-      },
       "37422dbbf2bfbc254368553550822e242c7dd24c2b35888b92316090552eba40": {
         "title": "阿里云发布Qwen3.5-Omni，全模态大战开启",
         "link": "https://www.tmtpost.com/7937091.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7972560.html",
         "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
         "first_seen": "2026-04-30T10:11:09.717245"
+      },
+      "f7cab60512bf78668e155af3560a01b6080b2b365f03658a3a65b99c4c39e3a4": {
+        "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
+        "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
+        "first_seen": "2026-04-30T23:57:16.927874"
+      },
+      "9ec4f9765e2e509c387556b1a86cf7d8b545849dcb769c2c8e04e638b2cfeef2": {
+        "title": "对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？",
+        "link": "http://www.geekpark.net/news/363649",
+        "published_date": "Thu, 30 Apr 2026 21:31:00 GMT",
+        "first_seen": "2026-04-30T23:57:16.927881"
+      },
+      "3b987d30565ce7caa0f5a57b20e668e89542c5a2cd5403001ad6d2d059d2e48c": {
+        "title": "银河通用拉着英伟达，把人形机器人最大的谎言拆穿了",
+        "link": "https://www.tmtpost.com/7973821.html",
+        "published_date": "Thu, 30 Apr 2026 16:51:00 GMT",
+        "first_seen": "2026-04-30T23:57:16.927883"
+      },
+      "0cfd8d96fbf54355d4000d72e7d938dcb2454a1f6fe9c9cd6bd69b0bf83773a7": {
+        "title": "中国电信开始卖“国产Token”了",
+        "link": "https://www.tmtpost.com/7974319.html",
+        "published_date": "Thu, 30 Apr 2026 19:13:00 GMT",
+        "first_seen": "2026-04-30T23:57:16.927885"
+      },
+      "2543f982121059be5ffe73185349ac58bced1bbe80eb4aeefdba9223e11a352d": {
+        "title": "马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权",
+        "link": "https://www.tmtpost.com/7973085.html",
+        "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
+        "first_seen": "2026-04-30T23:57:16.927887"
       }
     },
     "Finance": {
-      "9ae00302e027d1532802983e5331335f21f31ffa4a6b60f6748c2afafbef9b5f": {
-        "title": "Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year",
-        "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 23:05:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.542280"
-      },
-      "d129123468774934daf9b4adf98159b80c67a46d8e2ee67f26ef2e4ac970ba0f": {
-        "title": "Oil soars 60% in March as Middle East crisis chokes energy supplies",
-        "link": "https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb",
-        "published_date": "Tue, 31 Mar 2026 20:09:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.542288"
-      },
-      "1eb4d0cdd9ad4c144843a7406cf63ca15eed265e7af5d7982f91dd053e5cf564": {
-        "title": "Nvidia invests $2bn in chipmaker Marvell to boost AI networking",
-        "link": "https://www.ft.com/content/e23bc33e-757e-46bc-acad-e89647351324",
-        "published_date": "Tue, 31 Mar 2026 15:42:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.542290"
-      },
-      "44eed56c62634f541dffde290893052a8c9387bbc693b2e7fad95ba9c711a1cb": {
-        "title": "How Allbirds went from a $2.2 billion IPO to a $39 million flop",
-        "link": "https://www.marketwatch.com/story/how-allbirds-went-from-a-2-2-billion-ipo-to-a-39-million-flop-d34682e7?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 22:51:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.542291"
-      },
-      "158acd94773512b861962c265f6f900159499a7b495b84bde88818e1fa503f7e": {
-        "title": "OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update",
-        "link": "https://www.marketwatch.com/story/openai-is-now-bringing-in-2-billion-a-month-and-3-more-highlights-from-its-latest-update-b00f4141?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 22:15:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.542293"
-      },
       "9a6bfd9326f119244a1dfbed5c9139c60d36456e62b6abd59802aa3e55b05368": {
         "title": "The global economy turns out to be more resilient than we had feared",
         "link": "https://www.ft.com/content/87272792-03e3-4124-a376-1a4baadfd5b2",
@@ -4965,39 +4935,39 @@
         "link": "https://www.ft.com/content/00164483-f0ad-42d6-9efc-f6500947d3f0",
         "published_date": "Thu, 30 Apr 2026 08:50:00 GMT",
         "first_seen": "2026-04-30T10:10:48.102543"
+      },
+      "a0eb31c5ff77c20107669957817db7104ec7445f4e7cf831579a1fa3a293dfaf": {
+        "title": "US stocks hit record highs in Wall Street’s best month since 2020",
+        "link": "https://www.ft.com/content/63133c10-dac7-41f0-8c9f-831fc5f9ebf6",
+        "published_date": "Thu, 30 Apr 2026 20:06:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.391247"
+      },
+      "c0a8978f568f5538887bbf8daacd1204966f9416079911e883c42ebd5c39de8b": {
+        "title": "Could Powell’s decision to stay worsen relations between the Fed and the White House?",
+        "link": "https://www.marketwatch.com/story/could-powells-decision-to-stay-worsen-relations-between-the-fed-and-the-white-house-ba91a3f9?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Apr 2026 21:27:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.391257"
+      },
+      "46d2add76cde8b911e76c6e7a1bb79f93e4085b8edf3c3f37e1165fd16ace5f1": {
+        "title": "Big Tech’s AI payback might be coming into view",
+        "link": "https://www.ft.com/content/38a5eb07-f32f-4b41-9431-ec84acc47af8",
+        "published_date": "Thu, 30 Apr 2026 16:16:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.391260"
+      },
+      "056acdac92a38fe900e04c28a51f324cdd84b928ae5acea80be76c85009879e3": {
+        "title": "Blue Owl draws in $9bn as private credit market cools",
+        "link": "https://www.ft.com/content/4cb43bed-89a1-46f3-add3-2c5430ff465a",
+        "published_date": "Thu, 30 Apr 2026 20:09:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.391262"
+      },
+      "283eb38b55cf6f3f7a5955ce08552cc0c32b4c58b6382157fbf210cd2645f17c": {
+        "title": "First Brands’ creditor sues BDO over car parts maker’s collapse",
+        "link": "https://www.ft.com/content/87c0873a-cf48-4801-98f0-24cb8b53013a",
+        "published_date": "Thu, 30 Apr 2026 19:29:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.391264"
       }
     },
     "Ai": {
-      "26535b20283b858e17dac0b33b17f44ed55d13d34887028b41e2e3094af44631": {
-        "title": "Building better AI benchmarks: How many raters are enough?",
-        "link": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
-        "published_date": "Tue, 31 Mar 2026 16:16:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.681481"
-      },
-      "4429790d6f0ea095f500bb93c8677249435a56633fc947c0edc2431b9345fb67": {
-        "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
-        "link": "https://www.qbitai.com/2026/03/394149.html",
-        "published_date": "Tue, 31 Mar 2026 15:25:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.681489"
-      },
-      "f55294dee00c91778bbc07908c83e060191991249ca03f6402d487097d111ace": {
-        "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-        "link": "https://www.qbitai.com/2026/03/394135.html",
-        "published_date": "Tue, 31 Mar 2026 12:08:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.681491"
-      },
-      "8ac5239d23cfe3405fbdb01fa00d656aa89b9115a733f631d10f66711e3b9155": {
-        "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
-        "link": "https://www.qbitai.com/2026/03/394014.html",
-        "published_date": "Tue, 31 Mar 2026 10:18:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.681493"
-      },
-      "d142b14af6fb4d7fd096d932a10959511550bf06df7267cab29b559f9c66fe00": {
-        "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
-        "link": "https://www.qbitai.com/2026/03/394011.html",
-        "published_date": "Tue, 31 Mar 2026 09:12:00 GMT",
-        "first_seen": "2026-03-31T23:39:19.681494"
-      },
       "4a740754a22aab9e29aedabe3fcc1eced852368d3233e8879766aee9f6efa2a1": {
         "title": "2026-04-01日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-01/",
@@ -6491,13 +6461,25 @@
         "link": "https://www.qbitai.com/2026/04/411964.html",
         "published_date": "Thu, 30 Apr 2026 08:23:00 GMT",
         "first_seen": "2026-04-30T10:10:48.252972"
+      },
+      "6485dd9183341d1b0eb3d31a2892809dfedfc271ef3d0a8d31888c1a95fbc9e9": {
+        "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
+        "link": "https://www.qbitai.com/2026/04/412041.html",
+        "published_date": "Thu, 30 Apr 2026 12:04:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.543610"
+      },
+      "5253c19d856854da5511b510ac55720e47ed9c97b8ee7fa44e5384feff9c224b": {
+        "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
+        "link": "https://www.qbitai.com/2026/04/412021.html",
+        "published_date": "Thu, 30 Apr 2026 11:38:00 GMT",
+        "first_seen": "2026-04-30T23:56:56.543618"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-30T10:11:09.717247",
-    "Finance": "2026-04-30T10:10:48.102546",
-    "Ai": "2026-04-30T10:10:48.252975"
+    "Technology": "2026-04-30T23:57:16.927889",
+    "Finance": "2026-04-30T23:56:56.391267",
+    "Ai": "2026-04-30T23:56:56.543621"
   }
 }

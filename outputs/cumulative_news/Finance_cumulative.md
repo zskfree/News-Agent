@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-30 10:10
+**最后更新时间**: 2026-04-30 23:56
+
+---
+
+## 🆕 最新更新 (2026-04-30 23:56)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple credits ‘most popular’ ever iPhone for booming sales](https://www.ft.com/content/9215954c-47d0-4a59-8ffe-bf49f8ef9a97)
+**发布时间**: 2026-04-30 23:20
+
+#### [Blue Owl draws in $9bn as private credit market cools](https://www.ft.com/content/4cb43bed-89a1-46f3-add3-2c5430ff465a)
+**发布时间**: 2026-04-30 20:09
+
+#### [US Republicans break ranks to challenge Trump administration on Iran war](https://www.ft.com/content/cd5a7cb6-4265-410f-b461-f5bc84a00e64)
+**发布时间**: 2026-04-30 20:06
+
+#### [US stocks hit record highs in Wall Street’s best month since 2020](https://www.ft.com/content/63133c10-dac7-41f0-8c9f-831fc5f9ebf6)
+**发布时间**: 2026-04-30 20:06
+
+#### [Israel rushed laser system to UAE to fend off Iran’s missiles](https://www.ft.com/content/6247449b-5a73-47a8-8cd4-c8ef295e6776)
+**发布时间**: 2026-04-30 20:00
+
+#### [Trump sons to take stake in Kazakh miner that won $1.6bn US backing](https://www.ft.com/content/d99f6f75-931a-42e5-9111-0dc0acc4368c)
+**发布时间**: 2026-04-30 19:35
+
+#### [First Brands’ creditor sues BDO over car parts maker’s collapse](https://www.ft.com/content/87c0873a-cf48-4801-98f0-24cb8b53013a)
+**发布时间**: 2026-04-30 19:29
+
+#### [Big Tech’s AI payback might be coming into view](https://www.ft.com/content/38a5eb07-f32f-4b41-9431-ec84acc47af8)
+**发布时间**: 2026-04-30 16:16
+
+#### [Can’t cook, won’t cook? Start by feeding yourself](https://www.ft.com/content/93114bcc-a37a-49b4-8d5e-be38707dfca9)
+**发布时间**: 2026-04-30 09:02
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Alphabet hits a milestone as it closes in on Nvidia](https://www.marketwatch.com/story/alphabet-hits-a-milestone-as-it-closes-in-on-nvidia-00622b31?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 23:08
+
+#### [The memory trade is faltering as Western Digital’s stock slides in the face of earnings beat](https://www.marketwatch.com/story/the-memory-trade-is-faltering-as-western-digitals-stock-slides-in-the-face-of-earnings-beat-9b99694e?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 22:40
+
+#### [Saving for retirement when you make less than $35,000 won’t be much easier with Trump’s new executive order](https://www.marketwatch.com/story/saving-for-retirement-when-you-make-less-than-35-000-wont-be-much-easier-with-trumps-new-executive-order-dbe72ddf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 22:22
+
+#### [SpaceX may face an easier path to S&P 500 entry if these newly proposed rules take hold](https://www.marketwatch.com/story/spacex-may-face-an-easier-path-to-s-p-500-entry-if-these-newly-proposed-rules-take-hold-b3ba6bff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 22:22
+
+#### [‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?](https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 22:14
+
+#### [Mortgage rates increase to 6.3% — but home buyers aren’t scared away](https://www.marketwatch.com/story/mortgage-rates-increase-to-6-3-but-thats-not-stopping-home-buyers-8f24ecbb?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 22:01
+
+#### [Gold posts its biggest 2-month drop ever. How its price could still double over the next 5 years.](https://www.marketwatch.com/story/gold-posts-its-biggest-2-month-drop-ever-how-its-price-could-still-double-over-the-next-5-years-f9004621?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 21:56
+
+#### [LIV Golf has lost its Saudi funding. Golfers who rejoin the PGA Tour may face financial fallout.](https://www.marketwatch.com/story/liv-golf-has-lost-its-saudi-funding-golfers-who-rejoin-the-pga-tour-may-face-financial-fallout-9bae103a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 21:43
+
+#### [Could Powell’s decision to stay worsen relations between the Fed and the White House?](https://www.marketwatch.com/story/could-powells-decision-to-stay-worsen-relations-between-the-fed-and-the-white-house-ba91a3f9?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 21:27
 
 ---
 

@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-30 10:10
+**最后更新时间**: 2026-04-30 23:56
+
+---
+
+## 🆕 最新更新 (2026-04-30 23:56)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？](http://www.geekpark.net/news/363649)
+**发布时间**: 2026-04-30 21:31
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [集权、搞AI、出海，小红书一夜之间撕掉“慢公司”标签](https://www.tmtpost.com/7974429.html)
+**发布时间**: 2026-04-30 20:48
+
+#### [A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭｜看财报](https://www.tmtpost.com/7974339.html)
+**发布时间**: 2026-04-30 19:26
+
+#### [中国电信开始卖“国产Token”了](https://www.tmtpost.com/7974319.html)
+**发布时间**: 2026-04-30 19:13
+
+#### [一季度家电众生相：国补退潮引发“倒春寒”，白电三巨头业绩分化明显](https://www.tmtpost.com/7974272.html)
+**发布时间**: 2026-04-30 18:36
+
+#### [赛意信息上市八年首亏，加码AI谋变遭实控人减持蒙阴 | 看财报](https://www.tmtpost.com/7974288.html)
+**发布时间**: 2026-04-30 18:25
+
+#### [野人先生狂飙1300店，Gelato走到“新茶饮”的哪一步了？](https://www.tmtpost.com/7968021.html)
+**发布时间**: 2026-04-30 18:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠](https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 20:00
+
+#### [王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞](https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 19:00
+
+#### [从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了](https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 18:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
+**发布时间**: 2026-04-30 17:30
 
 ---
 
