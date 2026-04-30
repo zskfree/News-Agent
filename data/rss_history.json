@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "afd125d439eaf6f1521abb2fa2132dd28790fd336fcc204cf67e854ad0965289": {
-        "title": "微软\"叛逃\"OpenAI：让GPT和Claude互审，AI幻觉的结构性解法?",
-        "link": "https://www.tmtpost.com/7936078.html",
-        "published_date": "Tue, 31 Mar 2026 13:35:00 GMT",
-        "first_seen": "2026-03-31T06:17:06.608308"
-      },
-      "8cd9a25fcd47395dfd16440aa8400327834500e63f232592099ce108edf91d6b": {
-        "title": "豆包带货，千问充话费：大模型进入“办事时代”",
-        "link": "https://www.tmtpost.com/7935979.html",
-        "published_date": "Tue, 31 Mar 2026 13:09:00 GMT",
-        "first_seen": "2026-03-31T06:17:06.608316"
-      },
-      "7a8615cd1b1b7192308340eb5e478eea3ccc89a673665061cfd4d0463bebbfa7": {
-        "title": "“Token”时代，云厂商的生存法则变了",
-        "link": "https://www.tmtpost.com/7935688.html",
-        "published_date": "Tue, 31 Mar 2026 13:02:00 GMT",
-        "first_seen": "2026-03-31T06:17:06.608318"
-      },
-      "91f73f4297e2d8095a6af774fa17a00628cd3f63cec3aa0b86a69e8a7a564365": {
-        "title": "Agoda的Storefront简介：感知延迟的反向代理，用于改善基于DNS的负载分布",
-        "link": "https://www.infoq.cn/article/JT5qw7NBDjeAFyolYbBC?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 31 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-31T06:17:06.608320"
-      },
-      "10e994d5fdfd377ab8bebb32b0c6c289b59d46353f6f38820c7355c023fb4ef4": {
-        "title": "构建大规模自治体系",
-        "link": "https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 31 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-31T06:17:06.608322"
-      },
       "b9c2f82a01a68570510dae0e7ff66e8ee09adff2239920cc063eb6ed720402c1": {
         "title": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
         "link": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7970809.html",
         "published_date": "Wed, 29 Apr 2026 10:47:00 GMT",
         "first_seen": "2026-04-29T23:59:00.825726"
+      },
+      "22322f07c88298e3424a0e844c3cc2ae8601a97910d0d8536352cdfc26fa1268": {
+        "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+        "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-30T07:31:49.315199"
+      },
+      "00db7989e1c7efbe4559a5718df6d6aa78217412d5fbd1e961431d0f94274968": {
+        "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "link": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 14:25:00 GMT",
+        "first_seen": "2026-04-30T07:31:49.315206"
+      },
+      "18036dc0307054702a2ca9423f21f3ce8898b2c52314bebd21cbc15b0fe621ba": {
+        "title": "一张68亿采购清单，具身智能第一次被写进“现实账本”",
+        "link": "https://www.tmtpost.com/7973422.html",
+        "published_date": "Thu, 30 Apr 2026 14:36:00 GMT",
+        "first_seen": "2026-04-30T07:31:49.315209"
+      },
+      "934b138aea884188f16f2571698e084562b629060aeb52ef106f6cef3d97930d": {
+        "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+        "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-30T07:31:49.315211"
+      },
+      "ca0b4b99dfbf10aa19f571c3e977904812eeacc8d52e81a408a59ff17253331c": {
+        "title": "Slack 长时运行多智能体系统的上下文管理方案",
+        "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-30T07:31:49.315213"
       }
     },
     "Finance": {
-      "ca912d1fe8077fc3502ba2b7a0e302c78ee426edd0fa4953b0c8eb6a683d2018": {
-        "title": "Foreign central banks sell US Treasuries in wake of Iran war",
-        "link": "https://www.ft.com/content/1c4189e9-36af-4779-b862-d868cf2aff76",
-        "published_date": "Tue, 31 Mar 2026 04:00:00 GMT",
-        "first_seen": "2026-03-31T06:17:20.119103"
-      },
-      "2adafcefaef82ada70da1b35b990da57c534a9bf410090964a65b885de3e04f8": {
-        "title": "Swiss lawmakers signal compromise on $22bn UBS capital plan",
-        "link": "https://www.ft.com/content/727eec9f-8548-45ff-8b74-88f2d5efb685",
-        "published_date": "Tue, 31 Mar 2026 04:00:00 GMT",
-        "first_seen": "2026-03-31T06:17:20.119109"
-      },
-      "71b53c2c96f33b7c97fe60749268a07b7319e947b3ba2f1b3c8f2a0a7187f8e5": {
-        "title": "Stock futures jump, oil prices retreat on report Trump willing to end war",
-        "link": "https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 01:57:00 GMT",
-        "first_seen": "2026-03-31T06:17:20.119111"
-      },
-      "92ab9f54d4398afa47e4d3ba94bfee92d72f2036a85219036750add269a62a44": {
-        "title": "Most people have already gotten their tax refunds. That’s bad news for restaurants and retailers.",
-        "link": "https://www.marketwatch.com/story/most-people-have-already-gotten-their-tax-refunds-thats-bad-news-for-restaurants-and-retailers-023ded5e?mod=mw_rss_topstories",
-        "published_date": "Tue, 31 Mar 2026 00:57:00 GMT",
-        "first_seen": "2026-03-31T06:17:20.119113"
-      },
-      "f58edd2c3d843947bb1497a40ea59b71fa00d50fd3841c5b34dc0c79e3d8315d": {
-        "title": "Kuwaiti oil tanker struck off Dubai",
-        "link": "https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad",
-        "published_date": "Tue, 31 Mar 2026 00:36:00 GMT",
-        "first_seen": "2026-03-31T06:17:20.119115"
-      },
       "f9530d390b0b04deda580636a1be1c06ee24d5c6fd2b3119b5d0b15ee551418a": {
         "title": "Your chance to spend the night in the $21 million ‘Hannah Montana’ Malibu beach house—or buy it",
         "link": "https://www.marketwatch.com/story/your-chance-to-spend-the-night-in-the-21-million-hannah-montana-malibu-beach-houseor-buy-it-12d9fdd8?mod=mw_rss_topstories",
@@ -4959,39 +4929,39 @@
         "link": "https://www.ft.com/content/ca9692a5-383c-4eb3-b553-3969f4c69cfc",
         "published_date": "Wed, 29 Apr 2026 21:48:00 GMT",
         "first_seen": "2026-04-29T23:58:31.535072"
+      },
+      "6b022b52c5c836b891c02845edd398d9e5fefce504d51f91712aa887a821dc17": {
+        "title": "Oil surges past $125 as fears of prolonged supply disruption grow",
+        "link": "https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037",
+        "published_date": "Thu, 30 Apr 2026 06:13:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.558431"
+      },
+      "9b1f3059be2e224397d755e2122fbac15969602a018b05c0f9125eb1185df9de": {
+        "title": "Google outpaces rivals as Big Tech’s AI spending plans rise to $725bn",
+        "link": "https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf",
+        "published_date": "Thu, 30 Apr 2026 02:18:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.558445"
+      },
+      "8b4a34d2e393420aab447b9c3ee7e415cbdc64235dff1a23a2bb16f52cbc851c": {
+        "title": "European stocks and government bonds fall as oil price surges",
+        "link": "https://www.ft.com/content/281962eb-d32d-4733-ad25-c4c026bcbf6e",
+        "published_date": "Thu, 30 Apr 2026 07:10:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.558448"
+      },
+      "978f3bd4ddc8cc550f805d57a234fc8be7f0a4dc8bcafadc6cd3702dacf5af95": {
+        "title": "The next recession could actually be a win for stocks — if you can tune out the market noise",
+        "link": "https://www.marketwatch.com/story/the-next-recession-could-actually-be-a-win-for-stocks-if-you-can-tune-out-the-market-noise-534acdee?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Apr 2026 00:15:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.558449"
+      },
+      "15d3441c83b21db7874c936cd12dc8c52e02db51220ccf6312f03b9e5332d86e": {
+        "title": "AI companies are just companies",
+        "link": "https://www.ft.com/content/487644ca-a333-476a-be8b-e1f4d95ddb82",
+        "published_date": "Thu, 30 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.558451"
       }
     },
     "Ai": {
-      "211d6dc94d378e0a83646d0fbf5e7305d38f51ca61ec8d7501b913b31a34397c": {
-        "title": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
-        "link": "https://www.qbitai.com/2026/03/393645.html",
-        "published_date": "Tue, 31 Mar 2026 04:32:00 GMT",
-        "first_seen": "2026-03-31T06:17:29.574607"
-      },
-      "21a2a0d5ba67b738579c3a9105a189ae56038ccbb3573faaebcbefe25b73f4ac": {
-        "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
-        "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
-        "published_date": "Tue, 31 Mar 2026 02:03:00 GMT",
-        "first_seen": "2026-03-31T06:17:29.574613"
-      },
-      "9757bf60adf12730c27de012b7d720cce1f961040725af7422feb44ad338c00c": {
-        "title": "玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！",
-        "link": "https://www.qbitai.com/2026/03/393856.html",
-        "published_date": "Tue, 31 Mar 2026 05:05:00 GMT",
-        "first_seen": "2026-03-31T06:17:29.574615"
-      },
-      "6686ee15981d17bb3404aa01205060b802222f4881651850cd673d0829c4f9cd": {
-        "title": "黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国",
-        "link": "https://www.qbitai.com/2026/03/393483.html",
-        "published_date": "Tue, 31 Mar 2026 04:20:00 GMT",
-        "first_seen": "2026-03-31T06:17:29.574617"
-      },
-      "9af25fbcf8e00f795a5f6b3ab3abd318aec29343cd95b4c7504a3aed63bb521b": {
-        "title": "别再让AI只干零活了！AI工具正在接管投放全链路",
-        "link": "https://www.qbitai.com/2026/03/393471.html",
-        "published_date": "Tue, 31 Mar 2026 01:03:00 GMT",
-        "first_seen": "2026-03-31T06:17:29.574619"
-      },
       "6a19c35d5e5221507e8bc90ee16252b03c202b802518c582adfe9942ee5af839": {
         "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
         "link": "https://www.qbitai.com/2026/03/393887.html",
@@ -6479,13 +6449,37 @@
         "link": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
         "published_date": "Wed, 29 Apr 2026 21:07:00 GMT",
         "first_seen": "2026-04-29T23:58:31.671119"
+      },
+      "4e32ef84e4eb032ae2d8ce89ab616a7e1e6d9a7424457fdadf9f7470ba61e7b5": {
+        "title": "2026-04-30日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-30/",
+        "published_date": "Thu, 30 Apr 2026 10:30:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.720054"
+      },
+      "91436a5423c585f010e7addebe7edc22fe9bd1267bbb0a433a84c8742088637e": {
+        "title": "游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起",
+        "link": "https://www.qbitai.com/2026/04/411604.html",
+        "published_date": "Thu, 30 Apr 2026 05:45:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.720064"
+      },
+      "bf9dedc7c06a2e99565f699d55e83862d180865bb51f73724a5803757209bbc1": {
+        "title": "钉钉“听劝”推出充电宝版录音卡，可连续录音180小时",
+        "link": "https://www.qbitai.com/2026/04/411600.html",
+        "published_date": "Thu, 30 Apr 2026 04:41:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.720066"
+      },
+      "ad351c7c1d6cd2781d99c4680ad6e91afb701a0ef5febfd9426d5da90953c97b": {
+        "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+        "link": "https://www.qbitai.com/2026/04/411336.html",
+        "published_date": "Thu, 30 Apr 2026 00:35:00 GMT",
+        "first_seen": "2026-04-30T07:31:29.720068"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-29T23:59:00.825728",
-    "Finance": "2026-04-29T23:58:31.535074",
-    "Ai": "2026-04-29T23:58:31.671127"
+    "Technology": "2026-04-30T07:31:49.315215",
+    "Finance": "2026-04-30T07:31:29.558454",
+    "Ai": "2026-04-30T07:31:29.720070"
   }
 }

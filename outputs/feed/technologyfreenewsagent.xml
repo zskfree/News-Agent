@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Apr 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 23:59:00 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 07:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:31:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列</title>
-      <link>https://www.tmtpost.com/7972453.html</link>
-      <description>&lt;![CDATA[【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7972453.html</guid>
+      <title>Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞</title>
+      <link>https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”</title>
-      <link>https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜</title>
+      <link>https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作</title>
-      <link>https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一张68亿采购清单，具身智能第一次被写进“现实账本”</title>
+      <link>https://www.tmtpost.com/7973422.html</link>
+      <description>&lt;![CDATA[一张68亿采购清单，具身智能第一次被写进“现实账本”]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7973422.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来</title>
-      <link>https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦</title>
+      <link>https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家</title>
-      <link>https://www.tmtpost.com/7970809.html</link>
-      <description>&lt;![CDATA[智元新增人形机器人生产订单超万台，具身本体路线还能卷多久？ | 独家]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7970809.html</guid>
+      <title>Slack 长时运行多智能体系统的上下文管理方案</title>
+      <link>https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Slack 长时运行多智能体系统的上下文管理方案]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

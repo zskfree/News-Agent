@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Apr 2026 23:56:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 23:58:31 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 07:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:31:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Four ways Google Research scientists have been using Empirical Research Assistance</title>
-      <link>https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/</link>
-      <description>&lt;![CDATA[Four ways Google Research scientists have been using Empirical Research Assistance]]&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 21:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/</guid>
+      <title>2026-04-30日刊</title>
+      <link>https://ai.hubtoday.app//2026-04/2026-04-30/</link>
+      <description>&lt;![CDATA[2026-04-30日刊]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-30/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起</title>
+      <link>https://www.qbitai.com/2026/04/411604.html</link>
+      <description>&lt;![CDATA[游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 05:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/411604.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>钉钉“听劝”推出充电宝版录音卡，可连续录音180小时</title>
+      <link>https://www.qbitai.com/2026/04/411600.html</link>
+      <description>&lt;![CDATA[钉钉“听劝”推出充电宝版录音卡，可连续录音180小时]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 04:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/411600.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务</title>
+      <link>https://www.qbitai.com/2026/04/411336.html</link>
+      <description>&lt;![CDATA[生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 00:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/411336.html</guid>
       <category>Ai</category>
     </item>
   </channel>

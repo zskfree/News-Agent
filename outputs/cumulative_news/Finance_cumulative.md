@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 23:58
+**最后更新时间**: 2026-04-30 07:31
+
+---
+
+## 🆕 最新更新 (2026-04-30 07:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European stocks and government bonds fall as oil price surges](https://www.ft.com/content/281962eb-d32d-4733-ad25-c4c026bcbf6e)
+**发布时间**: 2026-04-30 07:10
+
+#### [Lazard to buy private capital advisory group in $575mn deal](https://www.ft.com/content/f2754c96-d837-4113-9cb3-e94e02c318b9)
+**发布时间**: 2026-04-30 07:09
+
+#### [DCC rejects £5bn takeover bid from KKR and Energy Capital](https://www.ft.com/content/98eaa63b-72a5-4451-93e1-d819f096aca4)
+**发布时间**: 2026-04-30 07:01
+
+#### [Trump launches review of US troops in Germany](https://www.ft.com/content/0fc1e2ef-f494-478a-b20f-4cd9b533ed86)
+**发布时间**: 2026-04-30 06:46
+
+#### [Oil surges past $125 as fears of prolonged supply disruption grow](https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037)
+**发布时间**: 2026-04-30 06:13
+
+#### [Russia loses its way in the Sahara](https://www.ft.com/content/9b9e68bb-88bc-4079-ab42-d6f19b3227f9)
+**发布时间**: 2026-04-30 04:00
+
+#### [AI companies are just companies](https://www.ft.com/content/487644ca-a333-476a-be8b-e1f4d95ddb82)
+**发布时间**: 2026-04-30 04:00
+
+#### [Does trade cause peace? Ask an economist](https://www.ft.com/content/d141cf41-e47a-4657-9f6b-ed26e6c59ac6)
+**发布时间**: 2026-04-30 04:00
+
+#### [KKR explores $10bn sale of ex-Unilever spreads business](https://www.ft.com/content/c4178a99-79db-4b8c-9da7-cbc63ccd75e6)
+**发布时间**: 2026-04-30 04:00
+
+#### [Half of ‘long shot’ Polymarket bets on military action are successful](https://www.ft.com/content/989d335e-275b-4cdc-b51d-4b29fd8895b0)
+**发布时间**: 2026-04-30 04:00
+
+#### [Google outpaces rivals as Big Tech’s AI spending plans rise to $725bn](https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf)
+**发布时间**: 2026-04-30 02:18
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These workers are allowed to save $35,000 a year in their 401(k)s. Here’s how many actually do it.](https://www.marketwatch.com/story/these-workers-are-allowed-to-save-35-000-a-year-in-their-401-k-s-heres-how-many-actually-do-it-6c25bb26?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 02:26
+
+#### [More diners are eating at Chipotle despite higher prices, bucking Wall Street’s concerns about restaurants](https://www.marketwatch.com/story/more-diners-are-eating-at-chipotle-despite-higher-prices-bucking-wall-streets-concerns-about-restaurants-7d221685?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 02:24
+
+#### [Why Qualcomm’s stock is soaring even in the face of a weak outlook](https://www.marketwatch.com/story/why-qualcomms-stock-is-soaring-even-in-the-face-of-a-weak-outlook-560f4546?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 00:42
+
+#### [The next recession could actually be a win for stocks — if you can tune out the market noise](https://www.marketwatch.com/story/the-next-recession-could-actually-be-a-win-for-stocks-if-you-can-tune-out-the-market-noise-534acdee?mod=mw_rss_topstories)
+**发布时间**: 2026-04-30 00:15
 
 ---
 

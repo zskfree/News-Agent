@@ -1,7 +1,122 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-29 23:58
+**最后更新时间**: 2026-04-30 07:31
+
+---
+
+## 🆕 最新更新 (2026-04-30 07:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 收购 Manus 这事儿泡汤了](https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 15:05
+
+#### [5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦](https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 15:00
+
+#### [谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜](https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 14:25
+
+#### [Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞](https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 14:00
+
+#### [Slack 长时运行多智能体系统的上下文管理方案](https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 13:00
+
+#### [从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台](https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 11:36
+
+#### [谷歌云推出 Agents CLI，简化 AI 智能体开发全流程](https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 11:00
+
+#### [Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了](https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 10:02
+
+#### [亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式](https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 10:00
+
+#### [OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海](https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 10:00
+
+#### [模力工场038周AI应用周榜：工具在消失，工作流在出现](https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-30 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Vibe coding，撕裂程序员旧世界](https://www.tmtpost.com/7973604.html)
+**发布时间**: 2026-04-30 14:36
+
+#### [一张68亿采购清单，具身智能第一次被写进“现实账本”](https://www.tmtpost.com/7973422.html)
+**发布时间**: 2026-04-30 14:36
+
+#### [俞浩大战小红书，谁有理？](https://www.tmtpost.com/7973401.html)
+**发布时间**: 2026-04-30 14:31
+
+#### [AI时代的汽车，我们可能低估了这件事](https://www.tmtpost.com/7973271.html)
+**发布时间**: 2026-04-30 14:26
+
+#### [Kimi掉队：C端失血，出海是最现实的主战略](https://www.tmtpost.com/7973385.html)
+**发布时间**: 2026-04-30 14:26
+
+#### [县城游的好日子，来了？](https://www.tmtpost.com/7973272.html)
+**发布时间**: 2026-04-30 14:21
+
+#### [赵永坡的"舒适区"，魏建军的"边界线"](https://www.tmtpost.com/7972565.html)
+**发布时间**: 2026-04-30 14:09
+
+#### [阳光电源一季度利润骤降40%，储能行业“变天”了？](https://www.tmtpost.com/7972336.html)
+**发布时间**: 2026-04-30 14:05
+
+#### [诺基亚：一部自救史，和一个行业的退潮](https://www.tmtpost.com/7973150.html)
+**发布时间**: 2026-04-30 14:00
+
+#### [深交所最大IPO刚刚诞生](https://www.tmtpost.com/7973373.html)
+**发布时间**: 2026-04-30 13:49
+
+#### [谁能成为中国火箭回收第一人](https://www.tmtpost.com/7973346.html)
+**发布时间**: 2026-04-30 13:40
+
+#### [AI短剧的第一批爆款，正在集体经历“消失测试”](https://www.tmtpost.com/7973345.html)
+**发布时间**: 2026-04-30 13:32
+
+#### [2026年Q1餐饮行业季度观察](https://www.tmtpost.com/7973269.html)
+**发布时间**: 2026-04-30 13:25
+
+#### [“AI”谷歌：没有鬼故事，只有大丰收](https://www.tmtpost.com/7973112.html)
+**发布时间**: 2026-04-30 13:19
+
+#### [财报虽亮眼，但Meta还在“待定区”](https://www.tmtpost.com/7973084.html)
+**发布时间**: 2026-04-30 13:14
+
+#### [现金流拐点确认！水井坊Q1环比修复114%，"以质为先"策略见效 | 看财报](https://www.tmtpost.com/7973255.html)
+**发布时间**: 2026-04-30 13:11
+
+#### [隆基703亿营收、减亏22亿：钟宝申致股东信里的“隧道尽头”](https://www.tmtpost.com/7972974.html)
+**发布时间**: 2026-04-30 13:10
+
+#### [游戏公司，在大模型赛道赚疯了](https://www.tmtpost.com/7972852.html)
+**发布时间**: 2026-04-30 13:10
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 走出屏幕，家电变成「机器人」](http://www.geekpark.net/news/363602)
+**发布时间**: 2026-04-30 13:08
+
+#### [马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道](http://www.geekpark.net/news/363594)
+**发布时间**: 2026-04-30 08:25
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 3 个 GitHub 画图 Skill，一句话生成流程图、架构图。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533360&idx=1&sn=1847cadb7dbb7224a9a692729b8db51e)
+**发布时间**: 2026-04-30 12:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [关于中年和中年危机的一些思考](https://sspai.com/post/108451)
+**发布时间**: 2026-04-30 10:17
+
+#### [派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等](https://sspai.com/post/109235)
+**发布时间**: 2026-04-30 09:16
 
 ---
 
