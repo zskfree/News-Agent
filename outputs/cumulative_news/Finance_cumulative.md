@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-01 09:49
+**最后更新时间**: 2026-05-01 23:55
+
+---
+
+## 🆕 最新更新 (2026-05-01 23:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US to withdraw 5,000 troops from Germany in row over Iran conflict](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6)
+**发布时间**: 2026-05-01 23:00
+
+#### [US warns Europe of delays to arms shipments as Iran war drains stockpiles](https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff)
+**发布时间**: 2026-05-01 21:27
+
+#### [Spirit Airlines prepares to cease operations as bailout talks founder](https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1)
+**发布时间**: 2026-05-01 21:13
+
+#### [Trump’s Iran war leaves US with sharpest fuel shock in G7](https://www.ft.com/content/aa553985-ef1a-4001-9f8d-f9501810dbb5)
+**发布时间**: 2026-05-01 20:59
+
+#### [Trump says he will raise tariff on EU vehicles to 25%](https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5)
+**发布时间**: 2026-05-01 18:47
+
+#### [Private credit group Ares draws nearly $20bn from investors](https://www.ft.com/content/410de46e-742e-4c00-97d8-d035ece65b72)
+**发布时间**: 2026-05-01 17:50
+
+#### [What will Trump’s war on Iran mean for global trade?](https://www.ft.com/content/c8af039b-fb0a-409e-a7e7-a1b5b7b5f6b9)
+**发布时间**: 2026-05-01 16:57
+
+#### [MBZ, the Emirati sheikh who shook up the Gulf](https://www.ft.com/content/e6476f57-2b15-4f99-92f4-ab88156eae64)
+**发布时间**: 2026-05-01 16:08
+
+#### [Oil market one month from crunch point as global stockpiles dwindle](https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832)
+**发布时间**: 2026-05-01 15:52
+
+#### [Pentagon signs new military AI deals with Nvidia, Microsoft and Amazon](https://www.ft.com/content/23d98dfa-dfe7-4a88-bae1-6d66900d74ca)
+**发布时间**: 2026-05-01 13:19
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [GameStop is hungry for relevance. Is buying eBay the answer?](https://www.marketwatch.com/story/gamestop-is-hungry-for-relevance-is-buying-ebay-the-answer-de7004a0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 22:33
+
+#### [Thinking of raiding your 401(k) for a hardship withdrawal? Ask these questions first.](https://www.marketwatch.com/story/3-questions-to-ask-before-raiding-your-401-k-for-a-hardship-withdrawal-d514e9b2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 22:06
+
+#### [Social Security screwed up — and it cost widows and widowers over $50 million](https://www.marketwatch.com/story/how-a-screw-up-by-social-security-cost-widows-and-widowers-over-50-million-77651ba7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 21:48
+
+#### [Trump talks up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries](https://www.marketwatch.com/story/trump-to-talk-up-his-push-to-lower-costs-as-analysts-see-bruising-midterms-for-gop-due-to-economic-worries-66086c74?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 21:42
+
+#### [It now costs $160 to fill up America’s top-selling vehicle as the Iran war nears its 10th week](https://www.marketwatch.com/story/it-now-costs-160-to-fill-up-americas-top-selling-vehicle-as-the-iran-war-nears-its-10th-week-803077d2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 21:01
+
+#### [Apple just gave a clue that an AI acquisition may be in the cards](https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 19:35
+
+#### [‘Why do Americans think we can do socialism?’ asks hedge-fund manager Ken Griffin](https://www.marketwatch.com/story/why-do-americans-think-we-can-do-socialism-says-hedge-fund-manager-ken-griffin-4aa05a61?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 19:34
+
+#### [Pickleball gets its largest-ever investment: $225 million. ‘It’s still a growth sport — it’s not just a fad.’](https://www.marketwatch.com/story/pickleball-gets-its-largest-ever-investment-225-million-its-still-a-growth-sport-its-not-just-a-fad-6879191f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 18:51
 
 ---
 

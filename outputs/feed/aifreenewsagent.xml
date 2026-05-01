@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 May 2026 07:25:00 GMT</pubDate>
-    <lastBuildDate>Fri, 01 May 2026 07:28:11 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 23:53:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 23:56:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-01日刊</title>
-      <link>https://ai.hubtoday.app//2026-05/2026-05-01/</link>
-      <description>&lt;![CDATA[2026-05-01日刊]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-01/</guid>
+      <title>Catalyzing scientific impact through global partnerships and open resources</title>
+      <link>https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/</link>
+      <description>&lt;![CDATA[Catalyzing scientific impact through global partnerships and open resources]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练</title>
-      <link>https://www.qbitai.com/2026/05/412577.html</link>
-      <description>&lt;![CDATA[突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 06:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412577.html</guid>
+      <title>华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑</title>
+      <link>https://www.qbitai.com/2026/05/412696.html</link>
+      <description>&lt;![CDATA[华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412696.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架</title>
-      <link>https://www.qbitai.com/2026/05/412447.html</link>
-      <description>&lt;![CDATA[太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 06:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412447.html</guid>
+      <title>他用AI办了个音乐节，主题：别读博</title>
+      <link>https://www.qbitai.com/2026/05/412597.html</link>
+      <description>&lt;![CDATA[他用AI办了个音乐节，主题：别读博]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412597.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智谱公布“降智”的秘密：Scaling不可避免的痛</title>
+      <link>https://www.qbitai.com/2026/05/412585.html</link>
+      <description>&lt;![CDATA[智谱公布“降智”的秘密：Scaling不可避免的痛]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412585.html</guid>
       <category>Ai</category>
     </item>
   </channel>
