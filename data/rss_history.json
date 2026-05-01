@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1379feebe96c129dd1f88eeba2db7fe94306b17657d05ced683d37ae720fc3fe": {
-        "title": "1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？",
-        "link": "https://www.tmtpost.com/7937404.html",
-        "published_date": "Wed, 01 Apr 2026 10:25:00 GMT",
-        "first_seen": "2026-04-01T09:12:02.567462"
-      },
-      "4b1f013e2a23a75b8a563ac77268622b5c3661f76de30fc1150fa4682ced718f": {
-        "title": "51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多",
-        "link": "https://www.tmtpost.com/7937922.html",
-        "published_date": "Wed, 01 Apr 2026 15:36:00 GMT",
-        "first_seen": "2026-04-01T09:12:02.567471"
-      },
-      "03e019f4098124efe1b8856120fec7e70ea582768d36057b8671b29e16c7a2af": {
-        "title": "报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯",
-        "link": "https://www.tmtpost.com/7937881.html",
-        "published_date": "Wed, 01 Apr 2026 15:51:00 GMT",
-        "first_seen": "2026-04-01T09:12:02.567473"
-      },
-      "26ce0d6a5c27d9da7ec33651256e2abbe66fe8afa638594fee59adcbb136bbac": {
-        "title": "武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课",
-        "link": "https://www.tmtpost.com/7937576.html",
-        "published_date": "Wed, 01 Apr 2026 15:27:00 GMT",
-        "first_seen": "2026-04-01T09:12:02.567475"
-      },
-      "9314215b9b0fc2933a195b80d40d2e74e39510c9b42fd67eec2013db1d614218": {
-        "title": "告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？",
-        "link": "https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 01 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-01T09:12:02.567477"
-      },
       "d0d7e980e687671abaf9c7e4cead87eeaeefcd383fdd10c8d77af4aec9561284": {
         "title": "1220亿美金！OpenAI 完成史上最大规模融资，微软“退居二线”，首次提及“超级应用”",
         "link": "https://www.infoq.cn/article/0gETwo2o5fFsUQxotf1J?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 01 May 2026 09:49:00 GMT",
         "first_seen": "2026-05-01T07:28:35.432399"
+      },
+      "bcd8d7966201987656d74fbd0613c5ca436f09ff945364c173f762956b5f36dd": {
+        "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+        "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-01T09:50:06.817413"
+      },
+      "f954fb3ec1a564e2a83510cb24a9549586232d60db58150bbc2def3be2b72fa5": {
+        "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
+        "link": "https://www.tmtpost.com/7974709.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T09:50:06.817420"
+      },
+      "983df7fd94605ec8828653f7f0d1e3e5d226a3d97be319eddd16488143907522": {
+        "title": "闻泰科技*ST背后：争夺安世半导体控制权之鉴",
+        "link": "https://www.tmtpost.com/7974894.html",
+        "published_date": "Fri, 01 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-01T09:50:06.817423"
+      },
+      "e8139ed4d92483a23b0a955cba00cc4d5387ba132b4245725f6844ee56cf6c95": {
+        "title": "AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里",
+        "link": "https://www.tmtpost.com/7974800.html",
+        "published_date": "Fri, 01 May 2026 10:57:00 GMT",
+        "first_seen": "2026-05-01T09:50:06.817425"
+      },
+      "a2905c1d37e4441751d478ba74b26ab79f72aa30711ed15b9a73977272396529": {
+        "title": "产量猛增75%，销量暴跌84%，大全能源“双杀”困局",
+        "link": "https://www.tmtpost.com/7974859.html",
+        "published_date": "Fri, 01 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-01T09:50:06.817426"
       }
     },
     "Finance": {
-      "6ea945c737d5905311793f2a3c336a0e506bc48bd61ed388fc4d2cce6f8f689c": {
-        "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.",
-        "link": "https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories",
-        "published_date": "Wed, 01 Apr 2026 08:27:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.235051"
-      },
-      "7bc6c3e6cd214d17aa7302178c82965a4add5edce0f90896e95c3375f88a38eb": {
-        "title": "Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war",
-        "link": "https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories",
-        "published_date": "Wed, 01 Apr 2026 08:44:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.235058"
-      },
-      "a6668c9bd4bbd712cd8ee2681b76b5e4173c93e46eea251faa7a11185120926c": {
-        "title": "Stocks rally on hopes Iran war will end soon",
-        "link": "https://www.ft.com/content/bd91441f-28fc-4c35-8ff1-10ec6141148c",
-        "published_date": "Wed, 01 Apr 2026 07:11:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.235061"
-      },
-      "98ee368bf02a05e5905fc745271ab6279dcbee23d7e1ac841f81d60bcc330e50": {
-        "title": "BP’s new chief promises ‘clear direction’ after turbulent year",
-        "link": "https://www.ft.com/content/5510fc9b-e336-4c69-a428-4a843acc1839",
-        "published_date": "Wed, 01 Apr 2026 07:04:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.235063"
-      },
-      "63b0495e680f89b8722e5c9972a1189d16d30dab343b40ac7b32c6dc4661cad6": {
-        "title": "‘We’re a wildly fickle bunch’: Gas prices hit $4 a gallon. Why do I feel like I’m the only American who is genuinely upset?",
-        "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
-        "published_date": "Wed, 01 Apr 2026 09:06:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.235064"
-      },
       "7d3a06c1d8fba23c759ab3cb70fc4d46aacbcae5d94673805a19dd5223d466bb": {
         "title": "SpaceX filing kicks off largest IPO process in history",
         "link": "https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb",
@@ -4965,15 +4935,15 @@
         "link": "https://www.ft.com/content/105062fa-b38b-455b-babf-0692abf6f062",
         "published_date": "Fri, 01 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-01T07:28:11.437065"
+      },
+      "92006f67f92e48dd38dea5055120d97c668ecb29b5af76df25a93729ab15a999": {
+        "title": "A year after selling $2.7 million Austin mansion, actress Haylie Duff and Matt Rosenberg call off 12-year engagement",
+        "link": "https://www.marketwatch.com/story/a-year-after-selling-2-7-million-austin-mansion-actress-haylie-duff-and-matt-rosenberg-call-off-12-year-engagement-ef1524d1?mod=mw_rss_topstories",
+        "published_date": "Fri, 01 May 2026 09:01:00 GMT",
+        "first_seen": "2026-05-01T09:49:46.799132"
       }
     },
     "Ai": {
-      "facc50cdf7a41017515f3bff3e626f5b3c5736b2d1fc19800caedc20c8414167": {
-        "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
-        "link": "https://www.qbitai.com/2026/04/394373.html",
-        "published_date": "Wed, 01 Apr 2026 06:42:00 GMT",
-        "first_seen": "2026-04-01T09:12:16.386361"
-      },
       "3e07076aaf4463dce1c64e1641d7000f92be2af03bbc145d1b2443703812985d": {
         "title": "为啥武汉无人车也“呆”了一次",
         "link": "https://www.qbitai.com/2026/04/394554.html",
@@ -6478,8 +6448,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-01T07:28:35.432401",
-    "Finance": "2026-05-01T07:28:11.437067",
+    "Technology": "2026-05-01T09:50:06.817428",
+    "Finance": "2026-05-01T09:49:46.799142",
     "Ai": "2026-05-01T07:28:11.592737"
   }
 }

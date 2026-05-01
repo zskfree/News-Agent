@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-01 07:27
+**最后更新时间**: 2026-05-01 09:49
+
+---
+
+## 🆕 最新更新 (2026-05-01 09:49)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A year after selling $2.7 million Austin mansion, actress Haylie Duff and Matt Rosenberg call off 12-year engagement](https://www.marketwatch.com/story/a-year-after-selling-2-7-million-austin-mansion-actress-haylie-duff-and-matt-rosenberg-call-off-12-year-engagement-ef1524d1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Huawei’s chip sales set to jump 60% as Chinese tech groups shun Nvidia](https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b)
+**发布时间**: 2026-05-01 00:15
 
 ---
 
