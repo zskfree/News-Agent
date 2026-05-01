@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 23:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 23:57:16 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 07:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了</title>
-      <link>https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面</title>
+      <link>https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？</title>
-      <link>http://www.geekpark.net/news/363649</link>
-      <description>&lt;![CDATA[对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 21:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363649</guid>
+      <title>DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售</title>
+      <link>http://www.geekpark.net/news/363694</link>
+      <description>&lt;![CDATA[DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363694</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>银河通用拉着英伟达，把人形机器人最大的谎言拆穿了</title>
-      <link>https://www.tmtpost.com/7973821.html</link>
-      <description>&lt;![CDATA[银河通用拉着英伟达，把人形机器人最大的谎言拆穿了]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7973821.html</guid>
+      <title>AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报</title>
+      <link>https://www.tmtpost.com/7974414.html</link>
+      <description>&lt;![CDATA[AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974414.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国电信开始卖“国产Token”了</title>
-      <link>https://www.tmtpost.com/7974319.html</link>
-      <description>&lt;![CDATA[中国电信开始卖“国产Token”了]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974319.html</guid>
+      <title>写代码的人都懂：GitHub 开始解决“大 PR 地狱”</title>
+      <link>https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[写代码的人都懂：GitHub 开始解决“大 PR 地狱”]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权</title>
-      <link>https://www.tmtpost.com/7973085.html</link>
-      <description>&lt;![CDATA[马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7973085.html</guid>
+      <title>布隆过滤器：理论、工程权衡与Go语言实现</title>
+      <link>https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[布隆过滤器：理论、工程权衡与Go语言实现]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

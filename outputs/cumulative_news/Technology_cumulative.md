@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-30 23:56
+**最后更新时间**: 2026-05-01 07:27
+
+---
+
+## 🆕 最新更新 (2026-05-01 07:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面](https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-01 14:00
+
+#### [Mistral AI 推出 Workflows，用于编排企业 AI 工作流](https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-01 10:00
+
+#### [布隆过滤器：理论、工程权衡与Go语言实现](https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-01 09:49
+
+#### [Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本](https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-01 09:40
+
+#### [写代码的人都懂：GitHub 开始解决“大 PR 地狱”](https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-01 09:36
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533405&idx=1&sn=1ee7cfefd01d9fd9c666e5d4cf22dce0)
+**发布时间**: 2026-05-01 13:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科大讯飞，AI教育的长坡与窄门](https://www.tmtpost.com/7974528.html)
+**发布时间**: 2026-05-01 11:59
+
+#### [10年了，为什么无人机还是送不了外卖？](https://www.tmtpost.com/7974680.html)
+**发布时间**: 2026-05-01 11:54
+
+#### [苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？](https://www.tmtpost.com/7974779.html)
+**发布时间**: 2026-05-01 11:53
+
+#### [幸运咖没有长出自己的模样](https://www.tmtpost.com/7974692.html)
+**发布时间**: 2026-05-01 11:20
+
+#### [Meta: 烧钱堆不出顶模， 小扎又要慌](https://www.tmtpost.com/7974686.html)
+**发布时间**: 2026-05-01 11:20
+
+#### [科大讯飞财报：标王的里子和面子](https://www.tmtpost.com/7974477.html)
+**发布时间**: 2026-05-01 11:09
+
+#### [AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里](https://www.tmtpost.com/7974800.html)
+**发布时间**: 2026-05-01 10:57
+
+#### [蓝莓价格“崩盘”，谁在抢占下沉红利？](https://www.tmtpost.com/7974479.html)
+**发布时间**: 2026-05-01 10:53
+
+#### [AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报](https://www.tmtpost.com/7974414.html)
+**发布时间**: 2026-05-01 10:31
+
+#### [2026北京国际车展智驾新车图鉴](https://www.tmtpost.com/7974357.html)
+**发布时间**: 2026-05-01 10:14
+
+#### [巨头围剿电解质水，抢夺夏日冰柜C位](https://www.tmtpost.com/7974302.html)
+**发布时间**: 2026-05-01 09:50
+
+#### [Token出海，讲不了中国制造的老故事](https://www.tmtpost.com/7974293.html)
+**发布时间**: 2026-05-01 09:50
+
+#### [China Travel 2.0：不只是旅游，更是万亿服贸出海](https://www.tmtpost.com/7974445.html)
+**发布时间**: 2026-05-01 09:50
+
+#### [为了车主五一不抢桩，“特斯拉们”有多拼？](https://www.tmtpost.com/7974291.html)
+**发布时间**: 2026-05-01 09:50
+
+#### [DeepSeek给AI装了根赛博手指，于是它能看见了](https://www.tmtpost.com/7974709.html)
+**发布时间**: 2026-05-01 09:50
+
+#### [买完就拆logo，“拉夫劳伦平替”的3000家门店，装不下中产的“保罗羞耻”](https://www.tmtpost.com/7974289.html)
+**发布时间**: 2026-05-01 09:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售](http://www.geekpark.net/news/363694)
+**发布时间**: 2026-05-01 08:30
 
 ---
 

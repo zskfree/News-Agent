@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "37422dbbf2bfbc254368553550822e242c7dd24c2b35888b92316090552eba40": {
-        "title": "阿里云发布Qwen3.5-Omni，全模态大战开启",
-        "link": "https://www.tmtpost.com/7937091.html",
-        "published_date": "Wed, 01 Apr 2026 12:30:00 GMT",
-        "first_seen": "2026-04-01T06:29:08.224670"
-      },
-      "b260c73ff6315543749a600e2a451494f23d5012187a46976fb5719518bbf02c": {
-        "title": "Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露",
-        "link": "https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 01 Apr 2026 14:20:00 GMT",
-        "first_seen": "2026-04-01T06:29:08.224681"
-      },
-      "d6be764517af6715863b741b3958fc4369aeea60cd6a0f21c2bc92d652e64f63": {
-        "title": "迈瑞医疗正在变成一家具身智能公司",
-        "link": "https://www.tmtpost.com/7937395.html",
-        "published_date": "Wed, 01 Apr 2026 14:10:00 GMT",
-        "first_seen": "2026-04-01T06:29:08.224683"
-      },
-      "3e405fb2bac6abbdf0a8aa28a59b85a5d19bf4addaea9753c2cd93c7853ac05b": {
-        "title": "Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能",
-        "link": "https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 01 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-01T06:29:08.224686"
-      },
-      "bc707c916bc813f85244a557f35095160fbc93657d3bc408f58ddd5172fdfc57": {
-        "title": "Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus",
-        "link": "https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 01 Apr 2026 11:48:00 GMT",
-        "first_seen": "2026-04-01T06:29:08.224688"
-      },
       "1379feebe96c129dd1f88eeba2db7fe94306b17657d05ced683d37ae720fc3fe": {
         "title": "1220亿美元砸向OpenAI：谁在押注，谁在对赌，谁在离场？",
         "link": "https://www.tmtpost.com/7937404.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7973085.html",
         "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
         "first_seen": "2026-04-30T23:57:16.927887"
+      },
+      "f0da940b4de1266c0e499a073951caa265e59e8b009a640fd14d1f94ba9487db": {
+        "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-01T07:28:35.432386"
+      },
+      "5d8c5093d8b1ec73d56263212c2dfe8e31fc20156a3e2a48add0316185588baf": {
+        "title": "DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售",
+        "link": "http://www.geekpark.net/news/363694",
+        "published_date": "Fri, 01 May 2026 08:30:00 GMT",
+        "first_seen": "2026-05-01T07:28:35.432393"
+      },
+      "f3e7d8b7f31f401e1c80db7d48ecab40feeb938650270a457a55fa6b3a1e1639": {
+        "title": "AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报",
+        "link": "https://www.tmtpost.com/7974414.html",
+        "published_date": "Fri, 01 May 2026 10:31:00 GMT",
+        "first_seen": "2026-05-01T07:28:35.432395"
+      },
+      "d83b83aef88458ae67137d65f35d79546b5b703dfc10138664658bf45b92c8f7": {
+        "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+        "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 09:36:00 GMT",
+        "first_seen": "2026-05-01T07:28:35.432397"
+      },
+      "40d831b7044b9556dada78344f36a316232f8ff3449cab995540733597ea76a8": {
+        "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+        "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 09:49:00 GMT",
+        "first_seen": "2026-05-01T07:28:35.432399"
       }
     },
     "Finance": {
-      "9a6bfd9326f119244a1dfbed5c9139c60d36456e62b6abd59802aa3e55b05368": {
-        "title": "The global economy turns out to be more resilient than we had feared",
-        "link": "https://www.ft.com/content/87272792-03e3-4124-a376-1a4baadfd5b2",
-        "published_date": "Wed, 01 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-01T06:29:21.848073"
-      },
-      "4b1aa6e90126462f8f9db7dd7717ee1f81a68e8cdc4acf99e4a87e9e160114a4": {
-        "title": "Chinese government bonds emerge as lone war haven",
-        "link": "https://www.ft.com/content/72215587-4b6c-454c-85ff-6956132705d9",
-        "published_date": "Wed, 01 Apr 2026 02:25:00 GMT",
-        "first_seen": "2026-04-01T06:29:21.848080"
-      },
-      "68e7e59d759281d6bf59d625e419f09ef796963410ad9c5e529dc3eb6e585ef7": {
-        "title": "A wild first quarter comes to an end: 6 charts that defined a chaotic stretch for stocks",
-        "link": "https://www.marketwatch.com/story/investors-brace-for-more-stock-market-volatility-as-wild-first-quarter-ends-with-biggest-rally-in-a-year-7f97a12e?mod=mw_rss_topstories",
-        "published_date": "Wed, 01 Apr 2026 00:23:00 GMT",
-        "first_seen": "2026-04-01T06:29:21.848083"
-      },
-      "3a566549dee6b3bc42a7773f16b73fb26f07a45b70a23e2688a612d4c7dcde3a": {
-        "title": "Record number of megadeals agreed in first quarter",
-        "link": "https://www.ft.com/content/4c004e97-e582-4f47-89ea-83c126d0df9d",
-        "published_date": "Wed, 01 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-01T06:29:21.848085"
-      },
-      "cb5e3bbb7ba6ce716e5116badd931645b0c91d2fc01b09f8abc85979be65151b": {
-        "title": "Trump says US could withdraw from Iran ‘whether we have a deal or not’",
-        "link": "https://www.ft.com/content/77e5184d-9854-4a30-b53c-498223b436a5",
-        "published_date": "Wed, 01 Apr 2026 02:25:00 GMT",
-        "first_seen": "2026-04-01T06:29:21.848087"
-      },
       "6ea945c737d5905311793f2a3c336a0e506bc48bd61ed388fc4d2cce6f8f689c": {
         "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.",
         "link": "https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories",
@@ -4965,27 +4935,39 @@
         "link": "https://www.ft.com/content/87c0873a-cf48-4801-98f0-24cb8b53013a",
         "published_date": "Thu, 30 Apr 2026 19:29:00 GMT",
         "first_seen": "2026-04-30T23:56:56.391264"
+      },
+      "379d45463a99b5a4d237c93e6164d1254daebf2ea8ef2c288ccb97b89414450a": {
+        "title": "Huawei’s AI chip sales surge as Nvidia stalls in China",
+        "link": "https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b",
+        "published_date": "Fri, 01 May 2026 00:15:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.437051"
+      },
+      "1a814bc362aca14625a3d5951d31045dae027b12bf19cccef1170bdf4b49e829": {
+        "title": "The S&P 500’s newest member is this under-the-radar software stock",
+        "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-member-is-this-under-the-radar-software-stock-b828bd5e?mod=mw_rss_topstories",
+        "published_date": "Fri, 01 May 2026 04:02:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.437058"
+      },
+      "b69929e70e007c745181f4511279418a2c6ac97f6460b92ca537526edf470aab": {
+        "title": "PwC will drop cover for weight-loss drugs from employee health plans",
+        "link": "https://www.ft.com/content/8f3b462e-a4dd-489d-90d9-0733f1390bec",
+        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.437061"
+      },
+      "435df5ec90e3cf20a31ea5e261d029226a9a3aa67672c0f9cb4006ef36a672d7": {
+        "title": "Zelenskyy’s push for EU membership strains ties with allies",
+        "link": "https://www.ft.com/content/4641fc30-6fc9-43d4-bc84-7ea0521a79b1",
+        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.437063"
+      },
+      "d74b7cbe9b02cd2f4aa9a29c1be19c9b27fa29f00b4f9ea34f3684de47ee067c": {
+        "title": "Trump adrift: the president’s second term is at risk of foundering",
+        "link": "https://www.ft.com/content/105062fa-b38b-455b-babf-0692abf6f062",
+        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.437065"
       }
     },
     "Ai": {
-      "4a740754a22aab9e29aedabe3fcc1eced852368d3233e8879766aee9f6efa2a1": {
-        "title": "2026-04-01日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-01/",
-        "published_date": "Wed, 01 Apr 2026 09:39:00 GMT",
-        "first_seen": "2026-04-01T06:29:22.008133"
-      },
-      "94f54e1e8515d34034554e7074b63d26b72222df321266ef2fc072fc204ed69a": {
-        "title": "Claude终于承认乱扣费！最高多收你20倍，一句「你好」干掉13%额度",
-        "link": "https://www.qbitai.com/2026/04/394177.html",
-        "published_date": "Wed, 01 Apr 2026 05:10:00 GMT",
-        "first_seen": "2026-04-01T06:29:22.008142"
-      },
-      "d255163470ea6b8d995551b7426f7dbacf7671ae932e2fa6f996266ec125ad8b": {
-        "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
-        "link": "https://www.qbitai.com/2026/04/394169.html",
-        "published_date": "Wed, 01 Apr 2026 00:56:00 GMT",
-        "first_seen": "2026-04-01T06:29:22.008144"
-      },
       "facc50cdf7a41017515f3bff3e626f5b3c5736b2d1fc19800caedc20c8414167": {
         "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
         "link": "https://www.qbitai.com/2026/04/394373.html",
@@ -6473,13 +6455,31 @@
         "link": "https://www.qbitai.com/2026/04/412021.html",
         "published_date": "Thu, 30 Apr 2026 11:38:00 GMT",
         "first_seen": "2026-04-30T23:56:56.543618"
+      },
+      "2cd5f20c6e8b20109521841d2e9bc8171942a7b68e1e9350615bcaf3f3a4fd6b": {
+        "title": "2026-05-01日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-01/",
+        "published_date": "Fri, 01 May 2026 09:46:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.592725"
+      },
+      "0f615cf32f43d936d9b79d612ad06edac773240fffcb96ffb1c82df9bf8bcad5": {
+        "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "link": "https://www.qbitai.com/2026/05/412577.html",
+        "published_date": "Fri, 01 May 2026 06:28:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.592733"
+      },
+      "c2891dac2e6d190d07dabd0b50044132d7d1b035af8528bb299ff1991c5e85f1": {
+        "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+        "link": "https://www.qbitai.com/2026/05/412447.html",
+        "published_date": "Fri, 01 May 2026 06:21:00 GMT",
+        "first_seen": "2026-05-01T07:28:11.592735"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-30T23:57:16.927889",
-    "Finance": "2026-04-30T23:56:56.391267",
-    "Ai": "2026-04-30T23:56:56.543621"
+    "Technology": "2026-05-01T07:28:35.432401",
+    "Finance": "2026-05-01T07:28:11.437067",
+    "Ai": "2026-05-01T07:28:11.592737"
   }
 }

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-30 23:56
+**最后更新时间**: 2026-05-01 07:27
+
+---
+
+## 🆕 最新更新 (2026-05-01 07:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500’s newest member is this under-the-radar software stock](https://www.marketwatch.com/story/the-s-p-500s-newest-member-is-this-under-the-radar-software-stock-b828bd5e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 04:02
+
+#### [Here’s what’s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-may-2026-on-netflix-hulu-hbo-max-and-more-a891be59?mod=mw_rss_topstories)
+**发布时间**: 2026-05-01 00:23
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump adrift: the president’s second term is at risk of foundering](https://www.ft.com/content/105062fa-b38b-455b-babf-0692abf6f062)
+**发布时间**: 2026-05-01 04:00
+
+#### [How bots could help revive democracy](https://www.ft.com/content/542f22f4-f7c5-4648-a276-dc7a1f535a7c)
+**发布时间**: 2026-05-01 04:00
+
+#### [Trump vs Kimmel: inside Disney chief Josh D’Amaro’s baptism of fire](https://www.ft.com/content/e65c1679-054b-4f74-9a00-c7f084de5784)
+**发布时间**: 2026-05-01 04:00
+
+#### [Zelenskyy’s push for EU membership strains ties with allies](https://www.ft.com/content/4641fc30-6fc9-43d4-bc84-7ea0521a79b1)
+**发布时间**: 2026-05-01 04:00
+
+#### [PwC will drop cover for weight-loss drugs from employee health plans](https://www.ft.com/content/8f3b462e-a4dd-489d-90d9-0733f1390bec)
+**发布时间**: 2026-05-01 04:00
+
+#### [Huawei’s AI chip sales surge as Nvidia stalls in China](https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b)
+**发布时间**: 2026-05-01 00:15
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 23:54:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 23:56:56 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 07:25:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:28:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展</title>
-      <link>https://www.qbitai.com/2026/04/412041.html</link>
-      <description>&lt;![CDATA[重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412041.html</guid>
+      <title>2026-05-01日刊</title>
+      <link>https://ai.hubtoday.app//2026-05/2026-05-01/</link>
+      <description>&lt;![CDATA[2026-05-01日刊]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-01/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆</title>
-      <link>https://www.qbitai.com/2026/04/412021.html</link>
-      <description>&lt;![CDATA[坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/412021.html</guid>
+      <title>突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练</title>
+      <link>https://www.qbitai.com/2026/05/412577.html</link>
+      <description>&lt;![CDATA[突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412577.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架</title>
+      <link>https://www.qbitai.com/2026/05/412447.html</link>
+      <description>&lt;![CDATA[太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412447.html</guid>
       <category>Ai</category>
     </item>
   </channel>
