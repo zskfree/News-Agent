@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-02 07:02
+**最后更新时间**: 2026-05-02 09:10
+
+---
+
+## 🆕 最新更新 (2026-05-02 09:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Spirit Airlines winds down operations after bailout talks founder](https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1)
+**发布时间**: 2026-05-02 07:31
 
 ---
 

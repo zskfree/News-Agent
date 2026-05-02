@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 May 2026 07:02:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 07:03:02 GMT</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 09:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 09:10:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Why markets are surging in spite of war</title>
-      <link>https://www.ft.com/content/286f4b2c-27a6-4f99-a62c-8ec092823483</link>
-      <description>&lt;![CDATA[Why markets are surging in spite of war]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/286f4b2c-27a6-4f99-a62c-8ec092823483</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The euro’s urgent need</title>
-      <link>https://www.ft.com/content/5f02bb2e-f621-4369-8ce0-55f6d6b839c7</link>
-      <description>&lt;![CDATA[The euro’s urgent need]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5f02bb2e-f621-4369-8ce0-55f6d6b839c7</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Wall Street traders post triple gains of European rivals</title>
-      <link>https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4</link>
-      <description>&lt;![CDATA[Wall Street traders post triple gains of European rivals]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Is China decoupling on food?</title>
-      <link>https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf</link>
-      <description>&lt;![CDATA[Is China decoupling on food?]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The physical world strikes back</title>
-      <link>https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6</link>
-      <description>&lt;![CDATA[The physical world strikes back]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 04:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6</guid>
+      <title>Spirit Airlines winds down operations after bailout talks founder</title>
+      <link>https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1</link>
+      <description>&lt;![CDATA[Spirit Airlines winds down operations after bailout talks founder]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 07:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1</guid>
       <category>Finance</category>
     </item>
   </channel>
