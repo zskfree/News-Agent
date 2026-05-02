@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 May 2026 09:10:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 09:10:07 GMT</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 23:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 02 May 2026 23:48:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Spirit Airlines winds down operations after bailout talks founder</title>
-      <link>https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1</link>
-      <description>&lt;![CDATA[Spirit Airlines winds down operations after bailout talks founder]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 07:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1</guid>
+      <title>Private credit isn’t safer than banks — it’s just better at hiding losses</title>
+      <link>https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Private credit isn’t safer than banks — it’s just better at hiding losses]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter</title>
+      <link>https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74</link>
+      <description>&lt;![CDATA[Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient</title>
+      <link>https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f</link>
+      <description>&lt;![CDATA[Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?</title>
+      <link>https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 20:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These financial adviser fees pinch your portfolio — and 2 questions can stop them</title>
+      <link>https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These financial adviser fees pinch your portfolio — and 2 questions can stop them]]&gt;</description>
+      <pubDate>Sat, 02 May 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

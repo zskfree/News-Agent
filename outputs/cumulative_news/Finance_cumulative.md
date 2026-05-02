@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-02 09:10
+**最后更新时间**: 2026-05-02 23:48
+
+---
+
+## 🆕 最新更新 (2026-05-02 23:48)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?](https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 20:45
+
+#### [‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?](https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 20:10
+
+#### [These financial adviser fees pinch your portfolio — and 2 questions can stop them](https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 17:57
+
+#### [Spirit Airlines made this critical mistake that drove its demise](https://www.marketwatch.com/story/spirit-airlines-made-this-critical-mistake-that-drove-its-demise-df3ea39d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 17:12
+
+#### [Private credit isn’t safer than banks — it’s just better at hiding losses](https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 15:55
+
+#### [These 3 companies are keeping the lights on for AI’s energy demand — and cashing in](https://www.marketwatch.com/story/big-techs-ai-build-out-needs-these-3-companies-to-keep-the-lights-on-and-theyre-cashing-in-e46bcba2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 15:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient](https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f)
+**发布时间**: 2026-05-02 18:49
+
+#### [Trump administration fast-tracks $8.6bn in arms sales to Middle East allies](https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f)
+**发布时间**: 2026-05-02 18:36
+
+#### [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74)
+**发布时间**: 2026-05-02 13:54
+
+#### [US should ‘finish the job’ if Iran does not yield, says Lindsey Graham](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef)
+**发布时间**: 2026-05-02 11:00
+
+#### [The problem with healthy life expectancy](https://www.ft.com/content/766eee31-d73d-441d-8772-6fd426d2b7e2)
+**发布时间**: 2026-05-02 04:00
+
+#### [How the $5bn Saudi bet on LIV Golf unravelled](https://www.ft.com/content/89eb4731-c1fa-459c-b6bb-0ffd677c3af4)
+**发布时间**: 2026-05-02 04:00
 
 ---
 

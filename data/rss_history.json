@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2ecf6c1247e25c1fdfa25a43d9bd7b4df0b86217e322f91cc61d193781c47275": {
-        "title": "一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境",
-        "link": "https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Apr 2026 19:07:00 GMT",
-        "first_seen": "2026-04-02T23:40:05.102152"
-      },
-      "1faeb1d461f0707943cd78587ab54936fcea4e668e87965778001c3c8fcf4a07": {
-        "title": "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家",
-        "link": "https://www.tmtpost.com/7940267.html",
-        "published_date": "Fri, 03 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-02T23:40:05.102164"
-      },
-      "bf1ec7365983860c67bbe7a06ae7a48add75a069be2dd3eef8805c9cabe944ef": {
-        "title": "国产独立大模型公司的未来，估计是出海+垂类To B",
-        "link": "https://www.tmtpost.com/7939794.html",
-        "published_date": "Thu, 02 Apr 2026 19:16:00 GMT",
-        "first_seen": "2026-04-02T23:40:05.102167"
-      },
-      "789ba2c132d14a7697e89290d921e53cb75036226fbbc298286409002793c016": {
-        "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
-        "link": "https://sspai.com/post/107218",
-        "published_date": "Thu, 02 Apr 2026 11:28:00 GMT",
-        "first_seen": "2026-04-02T23:40:05.102169"
-      },
-      "27a501280cb7eb97a1a8462016bf98daa7580c28e01cbcc6981bc11c01c7a2a7": {
-        "title": "商汤十二年，能否穿越AI周期？",
-        "link": "https://www.tmtpost.com/7939349.html",
-        "published_date": "Thu, 02 Apr 2026 19:59:00 GMT",
-        "first_seen": "2026-04-02T23:40:05.102171"
-      },
       "f3ba05186a4782bde17a35796f0f23aa7abe9de9b9d79cfeafa9c70d92989cae": {
         "title": "Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端",
         "link": "https://www.tmtpost.com/7940633.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7975274.html",
         "published_date": "Sat, 02 May 2026 10:11:00 GMT",
         "first_seen": "2026-05-02T09:10:26.690286"
+      },
+      "ff70e534f8de37c0df1040b206fe182e1622be6e713933a9ee6b37131b099ff3": {
+        "title": "那个在OpenAI修中文的人",
+        "link": "https://www.tmtpost.com/7975466.html",
+        "published_date": "Sat, 02 May 2026 17:52:00 GMT",
+        "first_seen": "2026-05-02T23:48:45.262385"
+      },
+      "19b4606f15c5f8127aa6745b3df4fb64518b877aaa7c29c0ef35048466599023": {
+        "title": "快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533406&idx=1&sn=5cf3e7d5020d2d474cde1a8c35fb127a",
+        "published_date": "Sat, 02 May 2026 11:13:00 GMT",
+        "first_seen": "2026-05-02T23:48:45.262392"
+      },
+      "84d6835ae6807ee374f86a4283d91b7732b85e052030d5e61f71bd10a46430ee": {
+        "title": "股价一年涨450%，三年累亏超2亿，华盛锂电赴港上市能打赢产能翻身仗吗？｜IPO观察",
+        "link": "https://www.tmtpost.com/7975289.html",
+        "published_date": "Sat, 02 May 2026 09:52:00 GMT",
+        "first_seen": "2026-05-02T23:48:45.262394"
+      },
+      "4ec0eeca9b9fb313b9230e90c57db04cb8ed98f747995dd0d5dccd40a4aab3fb": {
+        "title": "从万达到儒意，资本重构完成了，风险出清了吗？",
+        "link": "https://www.tmtpost.com/7975403.html",
+        "published_date": "Sat, 02 May 2026 10:20:00 GMT",
+        "first_seen": "2026-05-02T23:48:45.262395"
+      },
+      "8cc825947cd5d4c843ac6c4365c67bf410241910cf8025ebdbc1670719bb17e7": {
+        "title": "化肥价格飙升至天花板，对这6只农业股来说，形势喜忧参半",
+        "link": "https://www.tmtpost.com/7975459.html",
+        "published_date": "Sat, 02 May 2026 11:40:00 GMT",
+        "first_seen": "2026-05-02T23:48:45.262397"
       }
     },
     "Finance": {
-      "b6fb5bda762e4c962678cf5aafd9992936ad97e4b0c7fe429d9e42de62a6a20e": {
-        "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
-        "link": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Apr 2026 22:06:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.096536"
-      },
-      "69e4a529d147c2867c3178ca4036a78473032d93ae80e246866eb5d5f8457d15": {
-        "title": "Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist",
-        "link": "https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Apr 2026 23:32:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.096544"
-      },
-      "c0fb142735e9cf58b81285fb9e465e6ad496888a1cac46027cccf04cd242acfe": {
-        "title": "Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs",
-        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Apr 2026 22:33:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.096546"
-      },
-      "69ba7696310b4552a2b2ae79ebe66529d7cadae90298aea70f66b6c5890c9104": {
-        "title": "Italy fines Revolut over misleading ‘0% commission’ trading adverts",
-        "link": "https://www.ft.com/content/0cb5fe60-434e-4790-9915-3d8b1968e4ec",
-        "published_date": "Thu, 02 Apr 2026 11:25:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.096548"
-      },
-      "8358ec0c620a9c4a74d450105e98fc243b92dca6333aaeb8951548659ac6edb4": {
-        "title": "April typically showers stock investors with gains — but this year is no sure bet",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Apr 2026 20:39:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.096550"
-      },
       "7429acd0e6e614b7147cc22945a426f1f3959e05320bf63bf82ad852131c5821": {
         "title": "What’s going on with dollar debt?",
         "link": "https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5",
@@ -4941,33 +4911,39 @@
         "link": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
         "published_date": "Sat, 02 May 2026 07:31:00 GMT",
         "first_seen": "2026-05-02T09:10:07.511521"
+      },
+      "3e8e736a1238daa7bad3b501504d62e0b5691c88f761a6cbdc262ce0595b19cf": {
+        "title": "Private credit isn’t safer than banks — it’s just better at hiding losses",
+        "link": "https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories",
+        "published_date": "Sat, 02 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-02T23:48:29.576568"
+      },
+      "7a80d3efda0c90f0d29a86838e22e68419d63de2e9b67af93598b588fc4d5b4d": {
+        "title": "Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter",
+        "link": "https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74",
+        "published_date": "Sat, 02 May 2026 13:54:00 GMT",
+        "first_seen": "2026-05-02T23:48:29.576580"
+      },
+      "dc5edc5e9a0d686a85ba7f80f5e15bf9b2655e7abeb55fb801faca97029d4d9f": {
+        "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient",
+        "link": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f",
+        "published_date": "Sat, 02 May 2026 18:49:00 GMT",
+        "first_seen": "2026-05-02T23:48:29.576582"
+      },
+      "b56f9c4a722154084290e674778666e7d4f01f13b00bbb076aa8b5208b5ef2ae": {
+        "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
+        "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+        "published_date": "Sat, 02 May 2026 20:45:00 GMT",
+        "first_seen": "2026-05-02T23:48:29.576584"
+      },
+      "cb63f6f1fb9376edf77f53f5ff73b325d0d5c2d1a2ed0d28ba94aadc8ac3cf23": {
+        "title": "These financial adviser fees pinch your portfolio — and 2 questions can stop them",
+        "link": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
+        "published_date": "Sat, 02 May 2026 17:57:00 GMT",
+        "first_seen": "2026-05-02T23:48:29.576586"
       }
     },
     "Ai": {
-      "94233eb62b99276c92a9c5f676510a7c4c50cfa57d0f047ab51dba9aa3c42347": {
-        "title": "我的天！豆包每天烧120万亿Tokens啊！",
-        "link": "https://www.qbitai.com/2026/04/395202.html",
-        "published_date": "Thu, 02 Apr 2026 12:30:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.262851"
-      },
-      "8d55d90f9edbcb4347eae30d342d8559c0326e0ac4170f22eabebf7192cabae6": {
-        "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
-        "link": "https://www.qbitai.com/2026/04/395198.html",
-        "published_date": "Thu, 02 Apr 2026 10:27:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.262860"
-      },
-      "ba8e12a43eeb9e1fee6dbc12a8210bd23e668fbdf127a72034550783864dfa1d": {
-        "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
-        "link": "https://www.qbitai.com/2026/04/395194.html",
-        "published_date": "Thu, 02 Apr 2026 10:21:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.262862"
-      },
-      "8ce8d1162203663f10ee5ab7201829624b88751bb71389bd3b670293a3fd2f9e": {
-        "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
-        "link": "https://www.qbitai.com/2026/04/395162.html",
-        "published_date": "Thu, 02 Apr 2026 10:02:00 GMT",
-        "first_seen": "2026-04-02T23:40:24.262864"
-      },
       "f83acdde073676ba039679d173c41c91a63b8b50aaca2de2f686a304f99ab2b5": {
         "title": "2026-04-03日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-03/",
@@ -6442,8 +6418,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-02T09:10:26.690288",
-    "Finance": "2026-05-02T09:10:07.511531",
+    "Technology": "2026-05-02T23:48:45.262400",
+    "Finance": "2026-05-02T23:48:29.576588",
     "Ai": "2026-05-02T07:03:03.129397"
   }
 }
