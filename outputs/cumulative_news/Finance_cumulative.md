@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-01 23:55
+**最后更新时间**: 2026-05-02 07:02
+
+---
+
+## 🆕 最新更新 (2026-05-02 07:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The physical world strikes back](https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6)
+**发布时间**: 2026-05-02 04:03
+
+#### [Iran war withers Kenya’s roses and strands its tea](https://www.ft.com/content/3b0438dc-7d8a-4564-9ce6-9d66b735eaae)
+**发布时间**: 2026-05-02 04:00
+
+#### [Wall Street traders post triple gains of European rivals](https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4)
+**发布时间**: 2026-05-02 04:00
+
+#### [The euro’s urgent need](https://www.ft.com/content/5f02bb2e-f621-4369-8ce0-55f6d6b839c7)
+**发布时间**: 2026-05-02 04:00
+
+#### [Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d)
+**发布时间**: 2026-05-02 04:00
+
+#### [Why markets are surging in spite of war](https://www.ft.com/content/286f4b2c-27a6-4f99-a62c-8ec092823483)
+**发布时间**: 2026-05-02 02:00
+
+#### [Is China decoupling on food?](https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf)
+**发布时间**: 2026-05-02 01:00
+
+#### [US to withdraw 5,000 troops from Germany in dispute over Iran conflict](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6)
+**发布时间**: 2026-05-01 23:47
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple just gave a clue that a big AI acquisition may be in the cards](https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-02 02:31
 
 ---
 
