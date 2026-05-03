@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 May 2026 23:48:00 GMT</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 23:48:45 GMT</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 07:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 07:22:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>那个在OpenAI修中文的人</title>
-      <link>https://www.tmtpost.com/7975466.html</link>
-      <description>&lt;![CDATA[那个在OpenAI修中文的人]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975466.html</guid>
+      <title>构建分层的Agentic RAG系统：具备自主纠错的多模态推理</title>
+      <link>https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建分层的Agentic RAG系统：具备自主纠错的多模态推理]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a</link>
-      <description>&lt;![CDATA[快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a</guid>
+      <title>Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”</title>
+      <link>https://www.tmtpost.com/7969858.html</link>
+      <description>&lt;![CDATA[Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7969858.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>股价一年涨450%，三年累亏超2亿，华盛锂电赴港上市能打赢产能翻身仗吗？｜IPO观察</title>
-      <link>https://www.tmtpost.com/7975289.html</link>
-      <description>&lt;![CDATA[股价一年涨450%，三年累亏超2亿，华盛锂电赴港上市能打赢产能翻身仗吗？｜IPO观察]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975289.html</guid>
+      <title>微软警告称，AI 正在掏空初级开发者的培养渠道</title>
+      <link>https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软警告称，AI 正在掏空初级开发者的培养渠道]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从万达到儒意，资本重构完成了，风险出清了吗？</title>
-      <link>https://www.tmtpost.com/7975403.html</link>
-      <description>&lt;![CDATA[从万达到儒意，资本重构完成了，风险出清了吗？]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975403.html</guid>
+      <title>AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力</title>
+      <link>https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 12:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>化肥价格飙升至天花板，对这6只农业股来说，形势喜忧参半</title>
-      <link>https://www.tmtpost.com/7975459.html</link>
-      <description>&lt;![CDATA[化肥价格飙升至天花板，对这6只农业股来说，形势喜忧参半]]&gt;</description>
-      <pubDate>Sat, 02 May 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975459.html</guid>
+      <title>硅谷大厂的AI“含金量”开始分级</title>
+      <link>https://www.tmtpost.com/7975709.html</link>
+      <description>&lt;![CDATA[硅谷大厂的AI“含金量”开始分级]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975709.html</guid>
       <category>Technology</category>
     </item>
   </channel>

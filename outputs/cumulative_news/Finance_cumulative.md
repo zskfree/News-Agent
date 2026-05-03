@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-02 23:48
+**最后更新时间**: 2026-05-03 07:21
+
+---
+
+## 🆕 最新更新 (2026-05-03 07:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Detroit carmakers warn of $5bn commodities shock due to Iran war](https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a)
+**发布时间**: 2026-05-03 04:00
+
+#### [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
+**发布时间**: 2026-05-03 04:00
+
+#### [Everyone loves Nintendo — except investors](https://www.ft.com/content/1dd9f27e-ddef-43ab-80f5-c30b6a82b4d2)
+**发布时间**: 2026-05-03 04:00
+
+#### [Chicken wars ruffle feathers in Paris suburb](https://www.ft.com/content/8090bb09-6cf7-4714-a8a1-eb9f17500d85)
+**发布时间**: 2026-05-03 04:00
+
+#### [IMF criticises EU governments for ignoring energy subsidy warnings](https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5)
+**发布时间**: 2026-05-03 04:00
+
+#### [Private equity investor body sounds alarm on ‘conflict vehicles’](https://www.ft.com/content/88c4bafb-a329-47fa-b1f6-8c9d7c51bc10)
+**发布时间**: 2026-05-03 04:00
+
+#### [Inside the Swedish factory helping to re-arm Europe](https://www.ft.com/content/626ba18f-13b7-4e1a-bd3d-895239353aa1)
+**发布时间**: 2026-05-03 04:00
+
+#### [Trump says he is reviewing Iran peace plan but would consider new strikes](https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3)
+**发布时间**: 2026-05-03 01:19
 
 ---
 

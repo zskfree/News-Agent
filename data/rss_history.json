@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f3ba05186a4782bde17a35796f0f23aa7abe9de9b9d79cfeafa9c70d92989cae": {
-        "title": "Byte for Byte，谷歌开源最强模型Gemma 4 杀入手机端",
-        "link": "https://www.tmtpost.com/7940633.html",
-        "published_date": "Fri, 03 Apr 2026 10:24:00 GMT",
-        "first_seen": "2026-04-03T06:15:33.711046"
-      },
-      "b249f9b2603adfbe0a7b722c70b0a9f1e4fab0d88f40061a01b49242beffb491": {
-        "title": "字节跳动的Token战争：从印钞机到生态基建",
-        "link": "https://www.tmtpost.com/7940539.html",
-        "published_date": "Fri, 03 Apr 2026 09:53:00 GMT",
-        "first_seen": "2026-04-03T06:15:33.711054"
-      },
-      "ef6a02788f418017fa8708198e28a96ad2574ac3e36abf042bddd7283703d212": {
-        "title": "对话智象未来CTO姚霆：当Sora退场后，世界模型的终局是\"轮回\"",
-        "link": "https://www.tmtpost.com/7940146.html",
-        "published_date": "Fri, 03 Apr 2026 09:43:00 GMT",
-        "first_seen": "2026-04-03T06:15:33.711057"
-      },
-      "0ad6ad760b3915f7e707014f3f1f3224f162e09a3c24278137183cfc9043b9b9": {
-        "title": "前网易副总裁下场，要做“Agent 时代的iPhone”",
-        "link": "https://www.infoq.cn/article/jURmq5J0lm5Py5bkJbZ4?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 11:32:00 GMT",
-        "first_seen": "2026-04-03T06:15:33.711059"
-      },
-      "580106af48ceb95fcb9317e9774bd004ad1d5caebe8594e8081873d144d6ea53": {
-        "title": "AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报",
-        "link": "https://www.tmtpost.com/7940019.html",
-        "published_date": "Fri, 03 Apr 2026 10:19:00 GMT",
-        "first_seen": "2026-04-03T06:15:33.711061"
-      },
       "2c357d1296bd04c4e73edbc9460bad9177579314355b1fb2366e485f6f84f37b": {
         "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
         "link": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7975459.html",
         "published_date": "Sat, 02 May 2026 11:40:00 GMT",
         "first_seen": "2026-05-02T23:48:45.262397"
+      },
+      "a2d2048abbcab56750e56dfd38873927fd96d1113bf03cf1a99f7db793254faf": {
+        "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
+        "link": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 13:24:00 GMT",
+        "first_seen": "2026-05-03T07:22:15.286627"
+      },
+      "9455b3bdd732c854636264a88070fc1a4607796aa96cf780b64a6ab1373f211c": {
+        "title": "Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”",
+        "link": "https://www.tmtpost.com/7969858.html",
+        "published_date": "Sun, 03 May 2026 08:33:00 GMT",
+        "first_seen": "2026-05-03T07:22:15.286634"
+      },
+      "f7188686764151563970616980d35c4655e19f44c2e6a246ea5a4384077f490c": {
+        "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+        "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 13:41:00 GMT",
+        "first_seen": "2026-05-03T07:22:15.286636"
+      },
+      "a8067cdc9230398ec1a41e2d80ca4662e855c323e7400a75494b45feb7bc45c6": {
+        "title": "AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力",
+        "link": "https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 12:49:00 GMT",
+        "first_seen": "2026-05-03T07:22:15.286638"
+      },
+      "6ee019e9fd5bb98d5142a23aa3eeaf4c8c444f76669fd6eeb3a3cff319ef1cfc": {
+        "title": "硅谷大厂的AI“含金量”开始分级",
+        "link": "https://www.tmtpost.com/7975709.html",
+        "published_date": "Sun, 03 May 2026 10:42:00 GMT",
+        "first_seen": "2026-05-03T07:22:15.286639"
       }
     },
     "Finance": {
-      "7429acd0e6e614b7147cc22945a426f1f3959e05320bf63bf82ad852131c5821": {
-        "title": "What’s going on with dollar debt?",
-        "link": "https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5",
-        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.419984"
-      },
-      "f021b394c3871e739da3229d954f1544c3fd8241e2487d67589d760a80df16ec": {
-        "title": "Credit investors flee to safety, pulling $11bn from junk bonds this year",
-        "link": "https://www.ft.com/content/45c12697-4d59-4027-80b7-b0c565020d43",
-        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.419990"
-      },
-      "927cd1c1955470e30e03437dc3b35898192ef7f5c05ec970ef811c4ec48c38c4": {
-        "title": "Europe must prepare for ‘long-lasting’ energy shock, EU warns",
-        "link": "https://www.ft.com/content/7d3a6810-b571-4730-aa35-f7bfcacdc242",
-        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.419998"
-      },
-      "9ce7f54899fa1a883d2420c256e2cf5b6ba23b05799aa1d2d00cb825b9b50735": {
-        "title": "Fund managers snap up bonds on growth threat from Iran war",
-        "link": "https://www.ft.com/content/397d5395-90d4-40db-8130-740b9bc91f5b",
-        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.419999"
-      },
-      "dee9bf148a71264fbd2eccad02395ebb41b6f1c069baf19ff41b67f3be4de9b3": {
-        "title": "Prediction markets: the hunt for the new ‘dumb money’",
-        "link": "https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd",
-        "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.420001"
-      },
       "6654038072a8ade555895866d832ca23f85840d60ca0f440998e9dc7c5f3033d": {
         "title": "Reality TV star and former Playboy model Kendra Wilkinson says her career selling luxury real estate has blossomed",
         "link": "https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories",
@@ -4941,27 +4911,39 @@
         "link": "https://www.marketwatch.com/story/how-to-spot-the-silent-fees-and-hidden-costs-your-adviser-isnt-mentioning-c821812a?mod=mw_rss_topstories",
         "published_date": "Sat, 02 May 2026 17:57:00 GMT",
         "first_seen": "2026-05-02T23:48:29.576586"
+      },
+      "3299269f273e858213cbbda3c020feb8bf8f07364c87b113f68cbe214f71496b": {
+        "title": "IMF criticises EU governments for ignoring energy subsidy warnings",
+        "link": "https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5",
+        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.365164"
+      },
+      "90d9d5a0b03ad3d24b898310dd8e07f4917390e3aa8f0a68ed601b0b52ca241b": {
+        "title": "Private equity investor body sounds alarm on ‘conflict vehicles’",
+        "link": "https://www.ft.com/content/88c4bafb-a329-47fa-b1f6-8c9d7c51bc10",
+        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.365175"
+      },
+      "2100a0de221ffabb4bec5e374bdf4fa0714878b3cd9e04b4bdd2d504118c2c73": {
+        "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war",
+        "link": "https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a",
+        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.365178"
+      },
+      "704511fe61e12d29d9dc65eee1a2bfc606dd6cd4b3a66894ef93c1711132e23b": {
+        "title": "Investors pile into clean energy as Iran war drives push for energy security",
+        "link": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.365181"
+      },
+      "828e5db729c6c59b9bea16137605b9e2c97e3fa16fb9ff94123faa6b46cb2310": {
+        "title": "Inside the Swedish factory helping to re-arm Europe",
+        "link": "https://www.ft.com/content/626ba18f-13b7-4e1a-bd3d-895239353aa1",
+        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.365183"
       }
     },
     "Ai": {
-      "f83acdde073676ba039679d173c41c91a63b8b50aaca2de2f686a304f99ab2b5": {
-        "title": "2026-04-03日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-03/",
-        "published_date": "Fri, 03 Apr 2026 09:36:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.564519"
-      },
-      "1e33596e8f65d840dd72ececf867d98a06276e068378b2890faa4cc7a8b7df3e": {
-        "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
-        "link": "https://www.qbitai.com/2026/04/395210.html",
-        "published_date": "Fri, 03 Apr 2026 05:44:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.564526"
-      },
-      "b88d35169ea86dd5e1437c9775299bd222660818b63e8a56450039c35e82a9ea": {
-        "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
-        "link": "https://www.qbitai.com/2026/04/395206.html",
-        "published_date": "Fri, 03 Apr 2026 02:23:00 GMT",
-        "first_seen": "2026-04-03T06:15:49.564528"
-      },
       "e9db601369de83971463646e8338aa36b669e476d0e0d2c68ee2a731eda9185d": {
         "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
         "link": "https://www.qbitai.com/2026/04/395279.html",
@@ -6413,13 +6395,31 @@
         "link": "https://www.qbitai.com/2026/05/412713.html",
         "published_date": "Sat, 02 May 2026 03:30:00 GMT",
         "first_seen": "2026-05-02T07:03:03.129394"
+      },
+      "aaf83a6dbaa95e87fb5e56efbc771df1341de36f8f6660351366d5ef7906d9e3": {
+        "title": "2026-05-03日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-03/",
+        "published_date": "Sun, 03 May 2026 10:17:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.500115"
+      },
+      "a5d55c4b38052184efe0dce7ee370bb4ea52092db3c2bf19858ac2c248347e6b": {
+        "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "link": "https://www.qbitai.com/2026/05/412870.html",
+        "published_date": "Sun, 03 May 2026 03:56:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.500123"
+      },
+      "e60a7f2e0a1bb3cf3649a3d1b9aefbe4082d2b5236bc22ca9bd569b51d19cd30": {
+        "title": "DeepSeek V4最大的遗憾",
+        "link": "https://www.qbitai.com/2026/05/412737.html",
+        "published_date": "Sun, 03 May 2026 03:43:00 GMT",
+        "first_seen": "2026-05-03T07:22:00.500125"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-02T23:48:45.262400",
-    "Finance": "2026-05-02T23:48:29.576588",
-    "Ai": "2026-05-02T07:03:03.129397"
+    "Technology": "2026-05-03T07:22:15.286641",
+    "Finance": "2026-05-03T07:22:00.365186",
+    "Ai": "2026-05-03T07:22:00.500127"
   }
 }

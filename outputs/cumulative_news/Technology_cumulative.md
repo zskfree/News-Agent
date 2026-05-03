@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-02 23:48
+**最后更新时间**: 2026-05-03 07:21
+
+---
+
+## 🆕 最新更新 (2026-05-03 07:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软警告称，AI 正在掏空初级开发者的培养渠道](https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 13:41
+
+#### [Sauce Labs 推出 AI 智能体，实现测试创建自动化](https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 13:37
+
+#### [使用AWS Lambda Extensions在响应后执行遥测刷写](https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 13:33
+
+#### [构建分层的Agentic RAG系统：具备自主纠错的多模态推理](https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 13:24
+
+#### [.NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了](https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 12:58
+
+#### [AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力](https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-03 12:49
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马斯克和阿莫迪，当桌宠还怪可爱嘞](https://www.tmtpost.com/7975795.html)
+**发布时间**: 2026-05-03 13:22
+
+#### [五一爆火！江苏“水上迪士尼”年入1.4亿，女导游带队冲上市](https://www.tmtpost.com/7975736.html)
+**发布时间**: 2026-05-03 13:22
+
+#### [硅谷大厂的AI“含金量”开始分级](https://www.tmtpost.com/7975709.html)
+**发布时间**: 2026-05-03 10:42
+
+#### [脉动靠猫窝讨好“铲屎官”，巨头跨界背后的定位迷途](https://www.tmtpost.com/7975679.html)
+**发布时间**: 2026-05-03 10:40
+
+#### [国产汽水“北伐南征”，珍珍的“荔枝味”不香了？](https://www.tmtpost.com/7975677.html)
+**发布时间**: 2026-05-03 10:39
+
+#### [“置顶”始祖鸟，小红书想成为升级版唯品会？](https://www.tmtpost.com/7975655.html)
+**发布时间**: 2026-05-03 09:48
+
+#### [“35元秒杀机票”的终结，燃油飙涨如何影响五一出行市场？](https://www.tmtpost.com/7974470.html)
+**发布时间**: 2026-05-03 09:48
+
+#### [彻底爆发！买了这个板块的股票，“五一”可以放心玩了！](https://www.tmtpost.com/7975643.html)
+**发布时间**: 2026-05-03 09:48
+
+#### [“大一统”重磅新规发布，网贷平台命悬一线](https://www.tmtpost.com/7975641.html)
+**发布时间**: 2026-05-03 09:48
+
+#### [假期出游，我被AI坑惨了](https://www.tmtpost.com/7975705.html)
+**发布时间**: 2026-05-03 09:14
+
+#### [AWS越赚，Amazon越穷](https://www.tmtpost.com/7975633.html)
+**发布时间**: 2026-05-03 09:14
+
+#### [阿里字节留的“参考答案”，小红书能抄多少分？](https://www.tmtpost.com/7975614.html)
+**发布时间**: 2026-05-03 09:06
+
+#### [业绩靠“春节”、增长靠“红牛”，六个核桃带不动养元饮品？](https://www.tmtpost.com/7975591.html)
+**发布时间**: 2026-05-03 09:06
+
+#### [时隔十五年，罗永浩再“锤”西门子](https://www.tmtpost.com/7975586.html)
+**发布时间**: 2026-05-03 09:06
+
+#### [Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”](https://www.tmtpost.com/7969858.html)
+**发布时间**: 2026-05-03 08:33
+
+#### [Edge AI Daily 早报（5月3日）](https://www.tmtpost.com/7975690.html)
+**发布时间**: 2026-05-03 08:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
+**发布时间**: 2026-05-03 12:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [魔法原子进军硅谷背后：世界模型野望与生态卡位](http://www.geekpark.net/news/363699)
+**发布时间**: 2026-05-03 08:44
+
+#### [张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道](http://www.geekpark.net/news/363698)
+**发布时间**: 2026-05-03 08:42
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 GitHub 项目太缺德了，拿鞭子抽 Claude Code。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533407&idx=1&sn=9c458a0617106eb13679cf408a8db7a6)
+**发布时间**: 2026-05-03 08:22
 
 ---
 
