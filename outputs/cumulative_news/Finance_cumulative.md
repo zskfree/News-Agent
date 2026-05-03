@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-03 07:21
+**最后更新时间**: 2026-05-03 23:51
+
+---
+
+## 🆕 最新更新 (2026-05-03 23:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures mixed, oil falls as Trump touts new plan to partially reopen Strait of Hormuz](https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-03 23:27
+
+#### [Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement](https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-03 20:10
+
+#### [OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.](https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-03 19:55
+
+#### [The market is riding high on an AI spending boom — but what could crack this rally?](https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories)
+**发布时间**: 2026-05-03 19:14
+
+#### [S&P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story](https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-03 14:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US to ‘guide’ stranded ships out of Strait of Hormuz, says Trump](https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41)
+**发布时间**: 2026-05-03 22:28
+
+#### [Greg Abel leaves unanswered questions about Berkshire’s war chest](https://www.ft.com/content/ab525fb8-6de1-4f2d-b37f-52f23ad48eac)
+**发布时间**: 2026-05-03 20:04
+
+#### [US pullback on long-range missiles leaves Europe exposed](https://www.ft.com/content/9651dfac-90c7-416f-bfcc-dfb1eaf0a9f7)
+**发布时间**: 2026-05-03 19:26
+
+#### [Banks seek to offload risk to avoid ‘choking’ on data centre debt](https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f)
+**发布时间**: 2026-05-03 17:00
+
+#### [Trump administration cites national security to widen clampdown on wind farms](https://www.ft.com/content/74d8cf6f-aa17-4a24-a621-e26b1bad2e1e)
+**发布时间**: 2026-05-03 12:36
+
+#### [America’s political identity crisis](https://www.ft.com/content/68f5fb2d-6434-47f2-bc5a-2115dd3c82a3)
+**发布时间**: 2026-05-03 12:00
+
+#### [Trump’s green new deal](https://www.ft.com/content/fb275aae-355f-481f-ab30-999d861b7d42)
+**发布时间**: 2026-05-03 11:00
+
+#### [US Department of Justice loses a quarter of its lawyers](https://www.ft.com/content/a1316aae-83d9-4e2a-87aa-93de964bbbe0)
+**发布时间**: 2026-05-03 10:00
+
+#### [Iran war accelerates ‘Regrexit’ as wealthy UK expats weigh a return](https://www.ft.com/content/b57d34ac-807e-4106-b319-56f91c617a1c)
+**发布时间**: 2026-05-03 04:00
 
 ---
 

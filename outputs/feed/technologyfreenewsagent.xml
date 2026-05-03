@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 May 2026 07:21:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 09:25:18 GMT</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 23:51:00 GMT</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 23:51:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道</title>
-      <link>http://www.geekpark.net/news/363698</link>
-      <description>&lt;![CDATA[张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363698</guid>
+      <title>使用AWS Lambda Extensions在响应后执行遥测刷写</title>
+      <link>https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[使用AWS Lambda Extensions在响应后执行遥测刷写]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>.NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了</title>
-      <link>https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[.NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“大一统”重磅新规发布，网贷平台命悬一线</title>
+      <link>https://www.tmtpost.com/7975641.html</link>
+      <description>&lt;![CDATA[“大一统”重磅新规发布，网贷平台命悬一线]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975641.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>魔法原子进军硅谷背后：世界模型野望与生态卡位</title>
-      <link>http://www.geekpark.net/news/363699</link>
-      <description>&lt;![CDATA[魔法原子进军硅谷背后：世界模型野望与生态卡位]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363699</guid>
+      <title>大唐领衔 100 亿注资蒙电入苏 ,入局沙戈荒项目的背后是哪些考虑？</title>
+      <link>https://www.tmtpost.com/7975787.html</link>
+      <description>&lt;![CDATA[大唐领衔 100 亿注资蒙电入苏 ,入局沙戈荒项目的背后是哪些考虑？]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975787.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Sauce Labs 推出 AI 智能体，实现测试创建自动化</title>
-      <link>https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Sauce Labs 推出 AI 智能体，实现测试创建自动化]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“置顶”始祖鸟，小红书想成为升级版唯品会？</title>
+      <link>https://www.tmtpost.com/7975655.html</link>
+      <description>&lt;![CDATA[“置顶”始祖鸟，小红书想成为升级版唯品会？]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975655.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS越赚，Amazon越穷</title>
-      <link>https://www.tmtpost.com/7975633.html</link>
-      <description>&lt;![CDATA[AWS越赚，Amazon越穷]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 09:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975633.html</guid>
+      <title>“35元秒杀机票”的终结，燃油飙涨如何影响五一出行市场？</title>
+      <link>https://www.tmtpost.com/7974470.html</link>
+      <description>&lt;![CDATA[“35元秒杀机票”的终结，燃油飙涨如何影响五一出行市场？]]&gt;</description>
+      <pubDate>Sun, 03 May 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974470.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d1a4202523a101a674c3877bca66f8e8f2f4cdbb9c5fc6a640b43be50006cd28": {
-        "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
-        "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 18:00:00 GMT",
-        "first_seen": "2026-04-03T23:38:50.687310"
-      },
-      "6780d0b7059dbcbd16d93053b28371c5c8b2a7527a0f8044a359bcfb91dfb623": {
-        "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
-        "link": "https://www.tmtpost.com/7940661.html",
-        "published_date": "Fri, 03 Apr 2026 18:29:00 GMT",
-        "first_seen": "2026-04-03T23:38:50.687319"
-      },
-      "ea4763e30621902da52da975dbc6a48b7b65ea557e23e5b18a6709c85383c3d0": {
-        "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
-        "link": "https://www.tmtpost.com/7940798.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T23:38:50.687322"
-      },
-      "174e586549266fde576c07cfd114fce21a0163fdc617e101e5855b295523aa32": {
-        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
-        "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T23:38:50.687324"
-      },
-      "037e2875a8cdfa7374c28aea0f2e38b988ce27895c23497759e7b9c3f909afde": {
-        "title": "微软推出 Azure Copilot Migration Agent，加速云迁移规划",
-        "link": "https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-03T23:38:50.687325"
-      },
       "ba2effe16fd3c5eb8e94329d0aea4645643de9b419a298a249638a2327a1b72c": {
         "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
         "link": "https://www.tmtpost.com/7941406.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7975633.html",
         "published_date": "Sun, 03 May 2026 09:14:00 GMT",
         "first_seen": "2026-05-03T09:25:18.509304"
+      },
+      "04ad78df60d7c8fa8ee9cfc1aa966986297415d0a295421fe09c374face73707": {
+        "title": "使用AWS Lambda Extensions在响应后执行遥测刷写",
+        "link": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 13:33:00 GMT",
+        "first_seen": "2026-05-03T23:51:53.154308"
+      },
+      "e0bde8087443102b88ed93e1000472d64c7bbabac1aa276c3f6ba0dff1919177": {
+        "title": "“大一统”重磅新规发布，网贷平台命悬一线",
+        "link": "https://www.tmtpost.com/7975641.html",
+        "published_date": "Sun, 03 May 2026 09:48:00 GMT",
+        "first_seen": "2026-05-03T23:51:53.154315"
+      },
+      "dbd04f8758eb0426fe4db00ea4ce6f5e0fa6d23c6761fa41bdcc685b5b805c96": {
+        "title": "大唐领衔 100 亿注资蒙电入苏 ,入局沙戈荒项目的背后是哪些考虑？",
+        "link": "https://www.tmtpost.com/7975787.html",
+        "published_date": "Sun, 03 May 2026 20:35:00 GMT",
+        "first_seen": "2026-05-03T23:51:53.154319"
+      },
+      "f695c51b2c1211911814bff15d7bd1ec50dcd5f214572c4e342fc96d1ef2d958": {
+        "title": "“置顶”始祖鸟，小红书想成为升级版唯品会？",
+        "link": "https://www.tmtpost.com/7975655.html",
+        "published_date": "Sun, 03 May 2026 09:48:00 GMT",
+        "first_seen": "2026-05-03T23:51:53.154320"
+      },
+      "b6ab21d9ecd46c8c57bd4d410927b5ec6803ea773a363063d33ccfa47900d58d": {
+        "title": "“35元秒杀机票”的终结，燃油飙涨如何影响五一出行市场？",
+        "link": "https://www.tmtpost.com/7974470.html",
+        "published_date": "Sun, 03 May 2026 09:48:00 GMT",
+        "first_seen": "2026-05-03T23:51:53.154323"
       }
     },
     "Finance": {
-      "ba1aba2eb1fcc5bfbf678e3dd98c5ff246ace6c0e6cfc2d48bec96d9c5b3982e": {
-        "title": "US judge upholds block of subpoenas in criminal investigation of Jay Powell",
-        "link": "https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced",
-        "published_date": "Fri, 03 Apr 2026 18:40:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.738279"
-      },
-      "b96688e46bfc3aa3546f0dcbb0e1be5951c3fd7433374ee1022d8d32c57ee1fd": {
-        "title": "US economy beats expectations to add 178,000 jobs in March",
-        "link": "https://www.ft.com/content/82c1795b-704a-4da3-82ec-2f9cd52de01e",
-        "published_date": "Fri, 03 Apr 2026 13:36:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.738286"
-      },
-      "898bbe07c6458678a5a0b9785f7c34f9554a2e1457fff7a8b9c630f14b07f50c": {
-        "title": "Jobs data, Iran war add to inflation fears for retirees",
-        "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Apr 2026 18:54:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.738288"
-      },
-      "13b0bcf86dc992b6e5baf4c565e04bf8b8f0561222cf2506bc112ef5d8fef645": {
-        "title": "Meta-backed data centre seeks $3bn for campus with novel financing",
-        "link": "https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e",
-        "published_date": "Fri, 03 Apr 2026 21:14:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.738290"
-      },
-      "cac71d08305aef0e376b7cfc463e2f44bc232e26912519d84c4a1551fdef9898": {
-        "title": "These little-known chip stocks could be winners as SpaceX and Amazon make big satellite pushes",
-        "link": "https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories",
-        "published_date": "Fri, 03 Apr 2026 18:33:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.738291"
-      },
       "4abb2c8b7fd9c402598012f2e0c1323430b5ff4b278191f856f7500db308bdc8": {
         "title": "The shadowy group claiming attacks around Europe",
         "link": "https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540",
@@ -4935,33 +4905,39 @@
         "link": "https://www.ft.com/content/626ba18f-13b7-4e1a-bd3d-895239353aa1",
         "published_date": "Sun, 03 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-03T07:22:00.365183"
+      },
+      "0de1356954bda5388d7243e668306159eacd404e513f3ef2cf4ca5c42c4de83f": {
+        "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
+        "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
+        "published_date": "Sun, 03 May 2026 19:14:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.310974"
+      },
+      "b0dd27657794f0c87d32ff96a117ad247d68b7ca2f65dc5e14e99ffa314e57c3": {
+        "title": "Banks seek to offload risk to avoid ‘choking’ on data centre debt",
+        "link": "https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f",
+        "published_date": "Sun, 03 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.310987"
+      },
+      "b1d30ffe5698ea65f50de342add87a7f1d9694d44e35b268b6f4ba1166a69b28": {
+        "title": "S&P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story",
+        "link": "https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories",
+        "published_date": "Sun, 03 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.310990"
+      },
+      "68d22e01fc6b5b2b63e4c9168c543058b2bf5a02fad76bb78bde00832327ab29": {
+        "title": "OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.",
+        "link": "https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories",
+        "published_date": "Sun, 03 May 2026 19:55:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.310992"
+      },
+      "968f925171f611d997356a27770c7b2838f54347216b11cfb69016426b3793c8": {
+        "title": "Greg Abel leaves unanswered questions about Berkshire’s war chest",
+        "link": "https://www.ft.com/content/ab525fb8-6de1-4f2d-b37f-52f23ad48eac",
+        "published_date": "Sun, 03 May 2026 20:04:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.310994"
       }
     },
     "Ai": {
-      "74f39b7dbc97d4b8e9d1fa6c5a9b3407f1dbed20090a86a784964f13aa460fa5": {
-        "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-        "link": "https://www.qbitai.com/2026/04/395916.html",
-        "published_date": "Fri, 03 Apr 2026 12:57:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.887592"
-      },
-      "d1471cd555eed1f123fd43626705a8e96c594ea96bd112aa042dbbff6a987eeb": {
-        "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-        "link": "https://www.qbitai.com/2026/04/395477.html",
-        "published_date": "Fri, 03 Apr 2026 12:54:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.887600"
-      },
-      "678d6a5e86b2a35dd8fed443e4efd1b41eedd6fb89bcaab06b5d4392fe789fda": {
-        "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
-        "link": "https://www.qbitai.com/2026/04/395447.html",
-        "published_date": "Fri, 03 Apr 2026 10:24:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.887602"
-      },
-      "716cfc06e557c434ac451c4e7d645e94d188dee94df5793c6c2c55ce61f2db5a": {
-        "title": "OpenAI收购了一家脱口秀公司",
-        "link": "https://www.qbitai.com/2026/04/395316.html",
-        "published_date": "Fri, 03 Apr 2026 09:25:00 GMT",
-        "first_seen": "2026-04-03T23:39:09.887604"
-      },
       "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
         "title": "联想重新定义“龙虾”",
         "link": "https://www.qbitai.com/2026/04/396015.html",
@@ -6401,13 +6377,25 @@
         "link": "https://www.qbitai.com/2026/05/412882.html",
         "published_date": "Sun, 03 May 2026 07:50:00 GMT",
         "first_seen": "2026-05-03T09:25:00.054478"
+      },
+      "926d1d2feca13d5f7c3e0c62411be4c0117bcbc89bcdb0ed1bbbca34bc373451": {
+        "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+        "link": "https://www.qbitai.com/2026/05/412080.html",
+        "published_date": "Sun, 03 May 2026 09:43:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.468990"
+      },
+      "653ee581f5f0b2a2a10cd7026437e83aba0717b3e04407660054647f11de4fd1": {
+        "title": "不好！1930年的AI都来抢程序员饭碗了",
+        "link": "https://www.qbitai.com/2026/05/412896.html",
+        "published_date": "Sun, 03 May 2026 09:42:00 GMT",
+        "first_seen": "2026-05-03T23:51:33.468999"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-03T09:25:18.509306",
-    "Finance": "2026-05-03T07:22:00.365186",
-    "Ai": "2026-05-03T09:25:00.054486"
+    "Technology": "2026-05-03T23:51:53.154325",
+    "Finance": "2026-05-03T23:51:33.310996",
+    "Ai": "2026-05-03T23:51:33.469002"
   }
 }
