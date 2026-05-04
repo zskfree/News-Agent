@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 May 2026 23:50:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 23:51:33 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 07:47:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 07:50:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架</title>
-      <link>https://www.qbitai.com/2026/05/412080.html</link>
-      <description>&lt;![CDATA[太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412080.html</guid>
+      <title>2026-05-04日刊</title>
+      <link>https://ai.hubtoday.app//2026-05/2026-05-04/</link>
+      <description>&lt;![CDATA[2026-05-04日刊]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-04/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不好！1930年的AI都来抢程序员饭碗了</title>
-      <link>https://www.qbitai.com/2026/05/412896.html</link>
-      <description>&lt;![CDATA[不好！1930年的AI都来抢程序员饭碗了]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412896.html</guid>
+      <title>“DeepSeek版Claude Code”，Github 2.3k星</title>
+      <link>https://www.qbitai.com/2026/05/412914.html</link>
+      <description>&lt;![CDATA[“DeepSeek版Claude Code”，Github 2.3k星]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412914.html</guid>
       <category>Ai</category>
     </item>
   </channel>

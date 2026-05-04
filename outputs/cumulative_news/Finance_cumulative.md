@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-03 23:51
+**最后更新时间**: 2026-05-04 07:49
+
+---
+
+## 🆕 最新更新 (2026-05-04 07:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [More than double the gas stuck in Hormuz is wasted each year, IEA says](https://www.ft.com/content/fdc6aa8a-538a-4f1d-b1b9-a0ce0cd2a5ac)
+**发布时间**: 2026-05-04 05:00
+
+#### [Iran’s covert war on opponents abroad](https://www.ft.com/content/63ddff5f-2d47-4a5b-9ba5-e543ac756717)
+**发布时间**: 2026-05-04 04:00
+
+#### [America’s retail army now rules the stock market](https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581)
+**发布时间**: 2026-05-04 04:00
+
+#### [The law firm that shaped Wall Street and the world](https://www.ft.com/content/81ef308d-97d2-40ca-a6f6-333be7827453)
+**发布时间**: 2026-05-04 04:00
+
+#### [Putin hunkers down for fear of assassination](https://www.ft.com/content/fe70c89e-b5d7-4f89-8eb4-83afbe721d7c)
+**发布时间**: 2026-05-04 04:00
+
+#### [Airlines slash flights as fuel shortage fears mount](https://www.ft.com/content/481022cf-83f6-4d55-8a76-08f6d22b20e6)
+**发布时间**: 2026-05-04 04:00
+
+#### [Rise in US political violence fuels demand for active-shooter insurance](https://www.ft.com/content/575fb8de-0c66-4182-80fc-69e6fa097e41)
+**发布时间**: 2026-05-04 04:00
+
+#### [Europe ‘naive’ in clinging to old economic model, says central banker](https://www.ft.com/content/1c256ede-d7b6-4737-88f3-442cbf3351e5)
+**发布时间**: 2026-05-04 04:00
+
+#### [Asia’s economic pain deepens as Iran war drags on](https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b)
+**发布时间**: 2026-05-04 01:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz](https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 03:02
 
 ---
 

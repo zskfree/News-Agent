@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-03 23:51
+**最后更新时间**: 2026-05-04 07:49
+
+---
+
+## 🆕 最新更新 (2026-05-04 07:49)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评](https://www.tmtpost.com/7976208.html)
+**发布时间**: 2026-05-04 15:33
+
+#### [豆包将在免费模式外新增付费订阅，主打生产力场景](https://www.tmtpost.com/7976143.html)
+**发布时间**: 2026-05-04 11:39
+
+#### [这只科技行业ETF为投资者提供最优回报性价比](https://www.tmtpost.com/7976136.html)
+**发布时间**: 2026-05-04 11:07
+
+#### [先涨后降、航班取消，五一机票“背刺”打工人](https://www.tmtpost.com/7975995.html)
+**发布时间**: 2026-05-04 09:42
+
+#### [华尔街不再为赚钱鼓掌](https://www.tmtpost.com/7976001.html)
+**发布时间**: 2026-05-04 09:42
+
+#### [AI理科碾压人类状元，却被这道“文科题”戳中了死穴...](https://www.tmtpost.com/7976039.html)
+**发布时间**: 2026-05-04 08:10
+
+#### [Edge AI Daily 早报（5月4日）](https://www.tmtpost.com/7976030.html)
+**发布时间**: 2026-05-04 07:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性](https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 12:29
+
+#### [Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务](https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 12:22
+
+#### [GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置](https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 12:12
+
+#### [亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力](https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 12:11
+
+#### [Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构](https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 11:36
+
+#### [大公司也这样？改完系统：先上线，再看哪儿炸](https://www.infoq.cn/article/eAlept08lWEOAo1HxGFN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 10:00
+
+#### [Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用](https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 09:00
+
+#### [直播出问题，AI 不一定救得了：Netflix 的新解法](https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-04 08:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 3.7 万的 Star，终端里浏览文件的开源工具。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533435&idx=1&sn=17a5ceb8d01d4249175e29d31cb8e4d8)
+**发布时间**: 2026-05-04 12:10
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布](http://www.geekpark.net/news/363701)
+**发布时间**: 2026-05-04 08:10
 
 ---
 

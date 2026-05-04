@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ba2effe16fd3c5eb8e94329d0aea4645643de9b419a298a249638a2327a1b72c": {
-        "title": "从价格洼地到价值高地：中国储能凭什么席卷全球？",
-        "link": "https://www.tmtpost.com/7941406.html",
-        "published_date": "Sat, 04 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.055476"
-      },
-      "c9f994cef7ea55c90ff6d7bea7cb9526f1cf97528c7fb90680c1fd6510c4094f": {
-        "title": "聊聊MiniMax和智谱财报：谁先跑通盈利模型？",
-        "link": "https://www.tmtpost.com/7941412.html",
-        "published_date": "Sat, 04 Apr 2026 08:45:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.055484"
-      },
-      "265ddb95503c3e0a47678be1742f13713a02e017c4f26cc4c8814d15a59d5764": {
-        "title": "拆解商汤十二年，一家老牌 AI 公司的真实处境",
-        "link": "https://www.tmtpost.com/7941390.html",
-        "published_date": "Sat, 04 Apr 2026 11:29:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.055487"
-      },
-      "f12c5001bb6520e819b9c4e535ce0d989f54b68d923b20b2e65bbe17744267c9": {
-        "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
-        "link": "https://www.tmtpost.com/7941464.html",
-        "published_date": "Sat, 04 Apr 2026 08:23:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.055489"
-      },
-      "fc29fc9551b76b9508c8c8252148e79c778b1e84659bff31edfa9f2da3b468dc": {
-        "title": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 04 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.055491"
-      },
       "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
         "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
         "link": "https://www.tmtpost.com/7941741.html",
@@ -2671,33 +2641,39 @@
         "link": "https://www.tmtpost.com/7974470.html",
         "published_date": "Sun, 03 May 2026 09:48:00 GMT",
         "first_seen": "2026-05-03T23:51:53.154323"
+      },
+      "1ac1ab284b5e87264026a50d63c35035f6333672340db5b2ce065afbdabfa0e7": {
+        "title": "Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构",
+        "link": "https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 May 2026 11:36:00 GMT",
+        "first_seen": "2026-05-04T07:50:28.399351"
+      },
+      "f47b5cac4f6dfe00337e38d990db2bd77de87741b13cc2c3c794e7ac3aa3a5ab": {
+        "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
+        "link": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 May 2026 12:29:00 GMT",
+        "first_seen": "2026-05-04T07:50:28.399357"
+      },
+      "5f68140ce56be51723356aceb748dc222bd71d5cdc54d108585c02a366606918": {
+        "title": "亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力",
+        "link": "https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 May 2026 12:11:00 GMT",
+        "first_seen": "2026-05-04T07:50:28.399360"
+      },
+      "63173273a3ad8bd0085ad90a79b840d8eb0657b3367d122751d98047851576d8": {
+        "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
+        "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 May 2026 12:22:00 GMT",
+        "first_seen": "2026-05-04T07:50:28.399361"
+      },
+      "078bd3a5f0aad7c5bd57ec33f7fb65ec547b4f6d141337226294c7e970870341": {
+        "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
+        "link": "https://www.tmtpost.com/7976208.html",
+        "published_date": "Mon, 04 May 2026 15:33:00 GMT",
+        "first_seen": "2026-05-04T07:50:28.399363"
       }
     },
     "Finance": {
-      "4abb2c8b7fd9c402598012f2e0c1323430b5ff4b278191f856f7500db308bdc8": {
-        "title": "The shadowy group claiming attacks around Europe",
-        "link": "https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540",
-        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.092886"
-      },
-      "1a95511e20889078237e7c7fb8a6c2a25c10c58a2b55dca13816c5428f2fa6c4": {
-        "title": "Former CIA operative: regime change in Iran is much harder than the US thinks",
-        "link": "https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12",
-        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.092892"
-      },
-      "c8c8cc6a4e96d68cd37b4bb68ad19026aac4dd450e4026a0cdf3108b6ab1f125": {
-        "title": "Trump’s tales are still muddling markets",
-        "link": "https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d",
-        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.092894"
-      },
-      "8bb502b439e523a48264917e542e84fa2a94a90b7aba7b52c13d34ff9c67eeab": {
-        "title": "Japan cracks down on its wayward cyclists",
-        "link": "https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df",
-        "published_date": "Sat, 04 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-04T06:00:16.092896"
-      },
       "5a6ad9ffea7e1a8217ab6962567795c5a76798de7f6fd9525fe46972df178a97": {
         "title": "Private-credit crisis or growing pains? Why the ‘Big Six’ banks are a safer bet.",
         "link": "https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145?mod=mw_rss_topstories",
@@ -4935,6 +4911,36 @@
         "link": "https://www.ft.com/content/ab525fb8-6de1-4f2d-b37f-52f23ad48eac",
         "published_date": "Sun, 03 May 2026 20:04:00 GMT",
         "first_seen": "2026-05-03T23:51:33.310994"
+      },
+      "2683e01aa2cc779ed1ab6a599b1571aedc3a20a66011070c8111b047b96e750b": {
+        "title": "America’s retail army now rules the stock market",
+        "link": "https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581",
+        "published_date": "Mon, 04 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.525250"
+      },
+      "1e8d7112ec57cdbe691bbb4be8759e53037a33725725bb758f071cb5514f7aa4": {
+        "title": "Europe ‘naive’ in clinging to old economic model, says central banker",
+        "link": "https://www.ft.com/content/1c256ede-d7b6-4737-88f3-442cbf3351e5",
+        "published_date": "Mon, 04 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.525263"
+      },
+      "fcbce0a33629c86502efe8d99b09f8d51ed70a4c56c32571a0e84988124ad856": {
+        "title": "Asia’s economic pain deepens as Iran war drags on",
+        "link": "https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b",
+        "published_date": "Mon, 04 May 2026 01:37:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.525265"
+      },
+      "75e2277a408c291c46747baadd4bbff249cb69a7ef00b6a23648c6cca518eaf1": {
+        "title": "More than double the gas stuck in Hormuz is wasted each year, IEA says",
+        "link": "https://www.ft.com/content/fdc6aa8a-538a-4f1d-b1b9-a0ce0cd2a5ac",
+        "published_date": "Mon, 04 May 2026 05:00:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.525268"
+      },
+      "035ca59c2e351169822c6ec3c69bafacf579f30c062e6e6c14fbe53e572bfe1e": {
+        "title": "Rise in US political violence fuels demand for active-shooter insurance",
+        "link": "https://www.ft.com/content/575fb8de-0c66-4182-80fc-69e6fa097e41",
+        "published_date": "Mon, 04 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.525270"
       }
     },
     "Ai": {
@@ -6389,13 +6395,25 @@
         "link": "https://www.qbitai.com/2026/05/412896.html",
         "published_date": "Sun, 03 May 2026 09:42:00 GMT",
         "first_seen": "2026-05-03T23:51:33.468999"
+      },
+      "b00deee3f4cea44d70f44ab7e6316a618042a9e5f25bafca2f5618cb18aa9074": {
+        "title": "2026-05-04日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-04/",
+        "published_date": "Mon, 04 May 2026 10:11:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.679849"
+      },
+      "eadd6f0fbf4ce8f14804aa8f8160f1511b96fd90b6289f6de57bfaa9bab57170": {
+        "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+        "link": "https://www.qbitai.com/2026/05/412914.html",
+        "published_date": "Mon, 04 May 2026 06:09:00 GMT",
+        "first_seen": "2026-05-04T07:50:11.679858"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-03T23:51:53.154325",
-    "Finance": "2026-05-03T23:51:33.310996",
-    "Ai": "2026-05-03T23:51:33.469002"
+    "Technology": "2026-05-04T07:50:28.399365",
+    "Finance": "2026-05-04T07:50:11.525273",
+    "Ai": "2026-05-04T07:50:11.679861"
   }
 }
