@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-04 10:16
+**最后更新时间**: 2026-05-04 23:57
+
+---
+
+## 🆕 最新更新 (2026-05-04 23:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon is taking on FedEx and UPS. That may not be so simple.](https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 23:05
+
+#### [Tesla just hit a ‘symbolic’ self-driving milestone. Real-world success will be tougher.](https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 23:02
+
+#### [Here’s just how quickly Micron has risen up the ranks of the top U.S companies](https://www.marketwatch.com/story/heres-just-how-quickly-micron-has-risen-up-the-ranks-of-the-top-u-s-companies-fd95ae8d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 23:00
+
+#### [‘He is constantly criticizing her’: My son-in-law told my daughter to give up her job. Do I intervene?](https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 22:55
+
+#### [The silent crisis taxing your grocery bill could get a lot louder](https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 22:07
+
+#### [Palantir posts its fastest revenue growth ever while calling out ‘AI slop’](https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 21:57
+
+#### [Here’s what the growing gap between Americans with good and bad credit says about the economy](https://www.marketwatch.com/story/heres-what-the-growing-gap-between-americans-with-good-and-bad-credit-says-about-the-economy-3fa60ff7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 21:53
+
+#### [Why this bullish stock-market timer is about to flip to bearish](https://www.marketwatch.com/story/why-this-bullish-stock-market-timer-is-about-to-flip-to-bearish-4577a535?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 21:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Musk and SEC propose to settle Twitter lawsuit for just $1.5mn](https://www.ft.com/content/a760cb3e-b949-4120-b637-32e7464227cb)
+**发布时间**: 2026-05-04 21:53
+
+#### [Citigroup sets new rewards structure for banking and wealth referrals](https://www.ft.com/content/bc930825-6d58-4794-b4a2-dc5e2439e330)
+**发布时间**: 2026-05-04 21:47
+
+#### [OpenAI president defends his motives over for-profit coversion and $30bn stake](https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce)
+**发布时间**: 2026-05-04 21:17
+
+#### [World Cup fans cry foul over ‘unprecedented’ US transport costs](https://www.ft.com/content/97739005-6dc5-4002-a82c-9cd91540d9fc)
+**发布时间**: 2026-05-04 20:11
+
+#### [US and Iran exchange fire as Hormuz crisis reignites](https://www.ft.com/content/7b035a5b-fa45-471d-a296-7642e1758b10)
+**发布时间**: 2026-05-04 18:36
+
+#### [The oil price crunch is looming](https://www.ft.com/content/5ecb0e34-9470-402a-8e81-678f36b42b3b)
+**发布时间**: 2026-05-04 16:14
+
+#### [Peter Thiel backs $1bn ocean data centre start-up powered by waves](https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39)
+**发布时间**: 2026-05-04 15:00
+
+#### [China is building soft power as Trump burns bridges](https://www.ft.com/content/248b5e50-d12b-4aa0-aa85-05bd9fa3ac82)
+**发布时间**: 2026-05-04 12:51
 
 ---
 
