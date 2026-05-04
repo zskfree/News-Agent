@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-04 07:49
+**最后更新时间**: 2026-05-04 10:16
+
+---
+
+## 🆕 最新更新 (2026-05-04 10:16)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Berkshire Hathaway is now sitting on a record $397 billion in cash. And it’s not the only firm reluctant to invest in the stock market.](https://www.marketwatch.com/story/berkshire-hathaway-is-now-sitting-on-a-record-397-billion-in-cash-and-its-not-the-only-firm-reluctant-to-invest-in-the-stock-market-1a9e459a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 09:16
+
+#### [‘I always did the graveyard shift’: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?](https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 09:13
+
+#### [The California wealth tax has a loophole—here’s how much billionaires could save](https://www.marketwatch.com/story/the-california-wealth-tax-has-a-loopholeheres-how-much-billionaires-could-save-bf7628ab?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 09:05
+
+#### [Kylie Jenner knocks $2.26 million off the price of her SoCal mansion](https://www.marketwatch.com/story/kylie-jenner-knocks-2-26-million-off-the-price-of-her-socal-mansion-2da0eac4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-04 09:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Singapore and New Zealand strike ‘world first’ supply-chain pact](https://www.ft.com/content/d9e48c9c-4c6f-4ac9-8fe1-a50272697d3e)
+**发布时间**: 2026-05-04 08:54
+
+#### [Iran warns US Navy against entering Strait of Hormuz](https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5)
+**发布时间**: 2026-05-04 08:19
+
+#### [GameStop makes unsolicited $56bn offer for eBay](https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a)
+**发布时间**: 2026-05-04 07:53
 
 ---
 

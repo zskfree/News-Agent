@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 04 May 2026 07:49:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 07:50:28 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 10:16:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 10:17:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构</title>
-      <link>https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构]]&gt;</description>
-      <pubDate>Mon, 04 May 2026 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局</title>
+      <link>https://www.tmtpost.com/7976159.html</link>
+      <description>&lt;![CDATA[全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976159.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性</title>
-      <link>https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性]]&gt;</description>
-      <pubDate>Mon, 04 May 2026 12:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用</title>
+      <link>https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力</title>
-      <link>https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力]]&gt;</description>
-      <pubDate>Mon, 04 May 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>狂飙与逆风：合成生物学龙头冲刺港股</title>
+      <link>https://www.tmtpost.com/7976074.html</link>
+      <description>&lt;![CDATA[狂飙与逆风：合成生物学龙头冲刺港股]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976074.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务</title>
-      <link>https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务]]&gt;</description>
-      <pubDate>Mon, 04 May 2026 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包将新增付费订阅服务，标准版每月68元</title>
+      <link>https://www.tmtpost.com/7976316.html</link>
+      <description>&lt;![CDATA[豆包将新增付费订阅服务，标准版每月68元]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976316.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评</title>
-      <link>https://www.tmtpost.com/7976208.html</link>
-      <description>&lt;![CDATA[算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评]]&gt;</description>
-      <pubDate>Mon, 04 May 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7976208.html</guid>
+      <title>擎天租30亿，租机器人的值两成</title>
+      <link>https://www.tmtpost.com/7975979.html</link>
+      <description>&lt;![CDATA[擎天租30亿，租机器人的值两成]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7975979.html</guid>
       <category>Technology</category>
     </item>
   </channel>

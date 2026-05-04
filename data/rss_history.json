@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
-        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
-        "link": "https://www.tmtpost.com/7941741.html",
-        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.425286"
-      },
-      "38840465c7f9066e2d9e51dfbaabb9f9cf58bc611a5767db78b89b6f47d653e8": {
-        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
-        "link": "https://www.tmtpost.com/7941760.html",
-        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.425298"
-      },
-      "1d0318b0ac4419afa84167ac80d40bce05636caff14c6375278cfee2a47fa753": {
-        "title": "AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法",
-        "link": "https://www.tmtpost.com/7941770.html",
-        "published_date": "Sat, 04 Apr 2026 14:33:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.425301"
-      },
-      "f328b9bce011d8a6b0b6317ec7a32831715b66b0cf803dffbd8921954225767e": {
-        "title": "大厂们为啥不让自家员工用别家大模型？",
-        "link": "https://www.tmtpost.com/7941699.html",
-        "published_date": "Sat, 04 Apr 2026 14:43:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.425303"
-      },
-      "8f07ffe7e1063251e0e00cc769c887b82148d6d11c1e3051f66cd6855fb0fe89": {
-        "title": "AR眼镜商业化，走到哪一步了？",
-        "link": "https://www.tmtpost.com/7941436.html",
-        "published_date": "Sat, 04 Apr 2026 10:28:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.425305"
-      },
       "89b3ba67705e38d0e0e46f240b8fa713fcfdb07b0d006ca4e023e75ff251bf3a": {
         "title": "Anthropic成立PAC：厨子不看菜谱看上兵法了",
         "link": "https://www.tmtpost.com/7941914.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7976208.html",
         "published_date": "Mon, 04 May 2026 15:33:00 GMT",
         "first_seen": "2026-05-04T07:50:28.399363"
+      },
+      "5681b2165c660f40e531c41486163a45871b9e4c0478a2c96c9e67d56704a05e": {
+        "title": "全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局",
+        "link": "https://www.tmtpost.com/7976159.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:17:32.554369"
+      },
+      "642d8c7203ef971aa6b127e5475ea4fa38bfd4af0440a1378c8f7d8411de17e2": {
+        "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 04 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-04T10:17:32.554376"
+      },
+      "0998be91b76c9f8bb7a4c76354cb2bdfb0eb89fa39b31e4281a4b6f1bdccceea": {
+        "title": "狂飙与逆风：合成生物学龙头冲刺港股",
+        "link": "https://www.tmtpost.com/7976074.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:17:32.554378"
+      },
+      "c60cd4648745a837c9c838833944b12d26534d379ab75b21ec1393d321345952": {
+        "title": "豆包将新增付费订阅服务，标准版每月68元",
+        "link": "https://www.tmtpost.com/7976316.html",
+        "published_date": "Mon, 04 May 2026 08:36:00 GMT",
+        "first_seen": "2026-05-04T10:17:32.554379"
+      },
+      "91c854113b0f6028448393a15bc8a77a0852aa13ce99fd5d94daf04de457574f": {
+        "title": "擎天租30亿，租机器人的值两成",
+        "link": "https://www.tmtpost.com/7975979.html",
+        "published_date": "Mon, 04 May 2026 16:16:00 GMT",
+        "first_seen": "2026-05-04T10:17:32.554381"
       }
     },
     "Finance": {
@@ -4941,21 +4941,39 @@
         "link": "https://www.ft.com/content/575fb8de-0c66-4182-80fc-69e6fa097e41",
         "published_date": "Mon, 04 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-04T07:50:11.525270"
+      },
+      "298a2c952b744bc8f1aed14a5252fb08072632023e13a127bfe44c907d348f13": {
+        "title": "GameStop makes unsolicited $56bn offer for eBay",
+        "link": "https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a",
+        "published_date": "Mon, 04 May 2026 07:53:00 GMT",
+        "first_seen": "2026-05-04T10:17:12.721337"
+      },
+      "ccc95c149583c9d927ccf0196966472e4a2ff368c743f6ea3f2f52c678a049c7": {
+        "title": "Berkshire Hathaway is now sitting on a record $397 billion in cash. And it’s not the only firm reluctant to invest in the stock market.",
+        "link": "https://www.marketwatch.com/story/berkshire-hathaway-is-now-sitting-on-a-record-397-billion-in-cash-and-its-not-the-only-firm-reluctant-to-invest-in-the-stock-market-1a9e459a?mod=mw_rss_topstories",
+        "published_date": "Mon, 04 May 2026 09:16:00 GMT",
+        "first_seen": "2026-05-04T10:17:12.721348"
+      },
+      "51455d88e21bd9ddc86e97e1dcfd598fbf98f751d26f33ffae8f62a6579519d7": {
+        "title": "The California wealth tax has a loophole—here’s how much billionaires could save",
+        "link": "https://www.marketwatch.com/story/the-california-wealth-tax-has-a-loopholeheres-how-much-billionaires-could-save-bf7628ab?mod=mw_rss_topstories",
+        "published_date": "Mon, 04 May 2026 09:05:00 GMT",
+        "first_seen": "2026-05-04T10:17:12.721351"
+      },
+      "825551b815e6d3d66e0131ac824f89cd5ef71ca4828b2feecce2b9a3b4faac2b": {
+        "title": "Singapore and New Zealand strike ‘world first’ supply-chain pact",
+        "link": "https://www.ft.com/content/d9e48c9c-4c6f-4ac9-8fe1-a50272697d3e",
+        "published_date": "Mon, 04 May 2026 08:54:00 GMT",
+        "first_seen": "2026-05-04T10:17:12.721353"
+      },
+      "acfbe44969fc4fa08146581a91a4c1be56e4f130a158371e71ee3abfa6aea531": {
+        "title": "Iran warns US Navy against entering Strait of Hormuz",
+        "link": "https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5",
+        "published_date": "Mon, 04 May 2026 08:19:00 GMT",
+        "first_seen": "2026-05-04T10:17:12.721355"
       }
     },
     "Ai": {
-      "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
-        "title": "联想重新定义“龙虾”",
-        "link": "https://www.qbitai.com/2026/04/396015.html",
-        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.610844"
-      },
-      "01e35cda20b5e2135b691edcf2977ee4446225e015f2cef5e9784595d691f25a": {
-        "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
-        "link": "https://www.qbitai.com/2026/04/395995.html",
-        "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
-        "first_seen": "2026-04-04T08:45:14.610874"
-      },
       "130d4bca490385d72347b4e91089029ab4aa84abc75f3f972b3ddcbd54c98541": {
         "title": "2026-04-05日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-05/",
@@ -6412,8 +6430,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-04T07:50:28.399365",
-    "Finance": "2026-05-04T07:50:11.525273",
+    "Technology": "2026-05-04T10:17:32.554383",
+    "Finance": "2026-05-04T10:17:12.721357",
     "Ai": "2026-05-04T07:50:11.679861"
   }
 }
