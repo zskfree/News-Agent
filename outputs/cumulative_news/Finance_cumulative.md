@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-04 23:57
+**最后更新时间**: 2026-05-05 07:20
+
+---
+
+## 🆕 最新更新 (2026-05-05 07:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [HSBC profits hit by fraud-related case and Middle East war](https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8)
+**发布时间**: 2026-05-05 06:43
+
+#### [How Germany’s Merz torpedoed his plan to contain Trump](https://www.ft.com/content/2dd4b92c-4764-4bc5-a3a6-1418e0ccec58)
+**发布时间**: 2026-05-05 04:00
+
+#### [Welcome to the Great Hunkering Down](https://www.ft.com/content/77ab3a01-35b3-49d5-b297-0408e1850bc0)
+**发布时间**: 2026-05-05 04:00
+
+#### [Arnault and LVMH go from buyer to seller as luxury’s winter drags on](https://www.ft.com/content/bc50fc15-9779-4969-9f81-eb834941c625)
+**发布时间**: 2026-05-05 04:00
+
+#### [Consumers face more pain as companies threaten price rises](https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a)
+**发布时间**: 2026-05-05 04:00
+
+#### [Deutsche Bank denies training bankers to manipulate markets](https://www.ft.com/content/c959dbe1-eb96-414d-adcf-5f17330a195b)
+**发布时间**: 2026-05-05 04:00
+
+#### [Reeves rowed with Bessent over Iran war criticism](https://www.ft.com/content/85f851c6-3cc2-44ee-b527-5a1136f851e7)
+**发布时间**: 2026-05-05 04:00
+
+#### [US strikes Iranian boats as Hormuz crisis reignites](https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98)
+**发布时间**: 2026-05-05 01:58
+
+#### [OpenAI president defends motives in for-profit restructuring as he reveals $30bn stake](https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce)
+**发布时间**: 2026-05-04 21:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards](https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 02:46
+
+#### [‘If all six have hantavirus, that’s very worrisome’: This is the key question about the cruise-ship outbreak](https://www.marketwatch.com/story/if-all-six-have-hantavirus-thats-very-worrisome-this-is-what-we-know-about-the-cruise-ship-outbreak-eb1df8d5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 01:00
 
 ---
 

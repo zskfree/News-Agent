@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-04 23:57
+**最后更新时间**: 2026-05-05 07:20
+
+---
+
+## 🆕 最新更新 (2026-05-05 07:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA](https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 13:57
+
+#### [Vercel 开源 Open Agents，支持后台运行 AI 编码工作流](https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 13:55
+
+#### [Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5](https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 13:53
+
+#### [Google发布Room 3.0：Kotlin优先、异步、多平台持久化库](https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 13:51
+
+#### [Effect v4 Beta：重写运行时、更小的bundle与统一包系统](https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 13:49
+
+#### [NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错](https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 11:00
+
+#### [Java 世界的 MCP：将架构策略应用于 LLM 集成](https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 09:00
+
+#### [从“没人懂”到“不能裁”：平台团队如何证明价值](https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-05 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
+**发布时间**: 2026-05-05 11:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [豆包收费，没有回头路](https://www.tmtpost.com/7976466.html)
+**发布时间**: 2026-05-05 09:49
+
+#### [张一鸣不打算继续替豆包付钱了](https://www.tmtpost.com/7976461.html)
+**发布时间**: 2026-05-05 09:48
+
+#### [日入几千，毛利超50%，年轻人带火两平米的“迷你生意”](https://www.tmtpost.com/7976392.html)
+**发布时间**: 2026-05-05 09:47
+
+#### [“失速”的高通，正在重新定义自己](https://www.tmtpost.com/7976376.html)
+**发布时间**: 2026-05-05 09:47
+
+#### [绕过顶级EUV，晶圆一哥的底牌终于摊开](https://www.tmtpost.com/7976370.html)
+**发布时间**: 2026-05-05 09:47
+
+#### [被AI抢走工作的人，在忙什么？](https://www.tmtpost.com/7976381.html)
+**发布时间**: 2026-05-05 09:27
+
+#### [功率半导体，缺货](https://www.tmtpost.com/7976366.html)
+**发布时间**: 2026-05-05 09:13
+
+#### [维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察](https://www.tmtpost.com/7975811.html)
+**发布时间**: 2026-05-05 09:09
+
+#### [Anthropic启动500亿美元IPO前融资，估值剑指9000亿美元](https://www.tmtpost.com/7976557.html)
+**发布时间**: 2026-05-05 08:36
+
+#### [Edge AI Daily 早报（5月5日）](https://www.tmtpost.com/7976542.html)
+**发布时间**: 2026-05-05 08:06
 
 ---
 

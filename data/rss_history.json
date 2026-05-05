@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "514fe9621f2c343ab5e381c372bfb05cbc0502cbe0ea6b62dbf97b70d121c4cc": {
-        "title": "Evomap如何让Agent从单体智能到群体进化｜QCon北京",
-        "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:18.446840"
-      },
-      "8d0b2bfee8f84aafc3dfe412a15cf9ffd57d3dcfa49f6609e4dcfcd5698f57e0": {
-        "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
-        "link": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:18.446850"
-      },
-      "146d86f440f64aaa4883ee64422f5ece592b81f9e21b299ef5ee2841d9d3b4c5": {
-        "title": "SpaceX秘密递表IPO，冲击史上最大规模上市",
-        "link": "https://www.tmtpost.com/7942086.html",
-        "published_date": "Sun, 05 Apr 2026 10:36:00 GMT",
-        "first_seen": "2026-04-05T06:17:18.446853"
-      },
-      "529421039e35a0590aa49e45c1fb6ce273600ff7180d0b595d3c314cfd052883": {
-        "title": "碳酸锂的“蝴蝶效应”：储能行业定价逻辑大逆转",
-        "link": "https://www.tmtpost.com/7942075.html",
-        "published_date": "Sun, 05 Apr 2026 09:55:00 GMT",
-        "first_seen": "2026-04-05T06:17:18.446855"
-      },
-      "23b254bd94f6987dbf183c66a95f272ec6304a0045b919549e2493b1d0d8fdb6": {
-        "title": "锤爆苹果壁垒：AI成最强攻城锤",
-        "link": "https://www.tmtpost.com/7942072.html",
-        "published_date": "Sun, 05 Apr 2026 10:33:00 GMT",
-        "first_seen": "2026-04-05T06:17:18.446857"
-      },
       "23dc43d990a7c47b4a37b6f84061b900bab750f43826903e8760fc7bf2fc8665": {
         "title": "大厂只需要Token，不需要活人",
         "link": "https://www.tmtpost.com/7942185.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7976123.html",
         "published_date": "Mon, 04 May 2026 16:33:00 GMT",
         "first_seen": "2026-05-04T23:58:16.385027"
+      },
+      "946a5b1d8fa945bf0b3953ad8d496c6d1ba05fe1ba3353cd05730db4028bd707": {
+        "title": "NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错",
+        "link": "https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 11:00:00 GMT",
+        "first_seen": "2026-05-05T07:21:13.104631"
+      },
+      "c66f63ad4cdaeb3189b94c3070f825ece3c59fbfcae14895d750ae70944eae64": {
+        "title": "绕过顶级EUV，晶圆一哥的底牌终于摊开",
+        "link": "https://www.tmtpost.com/7976370.html",
+        "published_date": "Tue, 05 May 2026 09:47:00 GMT",
+        "first_seen": "2026-05-05T07:21:13.104638"
+      },
+      "733ccaca5769f465942e3a7cc68714b13ea9ff9a1781930c67412638c9605909": {
+        "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
+        "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 13:55:00 GMT",
+        "first_seen": "2026-05-05T07:21:13.104640"
+      },
+      "c4cf7350adddfa7da219946b3e7dc4dcf81dd4f3719e568a8d40b03c1f536465": {
+        "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
+        "link": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 13:51:00 GMT",
+        "first_seen": "2026-05-05T07:21:13.104642"
+      },
+      "28799fecf5895f27a8091c1298e739fc5f273c8f6fd5a63b5f9105da9d303df7": {
+        "title": "Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5",
+        "link": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 13:53:00 GMT",
+        "first_seen": "2026-05-05T07:21:13.104643"
       }
     },
     "Finance": {
-      "25c114bda31878f8f1071a20dc846c34043b123a5a5183f6f1d16782bd42cea4": {
-        "title": "400% gains for AI stocks help drive Hong Kong IPOs to 5-year high",
-        "link": "https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679",
-        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.763429"
-      },
-      "0715d2416dd4535619ca1c9f8e92ddf12b57d4bcef8addde252baa196b99c7c0": {
-        "title": "Stagflation fears demolish confidence in UK housing",
-        "link": "https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f",
-        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.763435"
-      },
-      "dd3ae112964152b11d84f112476a719d68cc1fd7065ed30a36d0192fe1f25fb2": {
-        "title": "Countries must not hoard fuel during Iran war, warns IEA",
-        "link": "https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1",
-        "published_date": "Sun, 05 Apr 2026 03:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.763438"
-      },
-      "4fa8bc86e79a34ec79d8707d3f777f59f7789d29e816386b81df760d2b6b1073": {
-        "title": "UK courts Anthropic to expand in London after US defence clash",
-        "link": "https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5",
-        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.763445"
-      },
-      "90f52fc9ed8aa9fcdf0f4c8b1564059f4b0d4bf177f1d5bd97bcafb00d2a4556": {
-        "title": "Renters’ Rights Act brings big changes to UK property market",
-        "link": "https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6",
-        "published_date": "Sun, 05 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.763447"
-      },
       "b373adfd4194e1a79555b7c40cfdf5401a232d6b07c4fb006f5032c051442973": {
         "title": "Is AI the new fracking?",
         "link": "https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9",
@@ -4971,33 +4941,39 @@
         "link": "https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories",
         "published_date": "Mon, 04 May 2026 22:07:00 GMT",
         "first_seen": "2026-05-04T23:58:01.615494"
+      },
+      "a173e728aaf4659040632f7b87c3b4e297b44c0c9ac8b754fa6d2f2195c562f0": {
+        "title": "HSBC profits hit by fraud-related case and Middle East war",
+        "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
+        "published_date": "Tue, 05 May 2026 06:43:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.845675"
+      },
+      "16d074e4b71dac1150f318717645ab952ad1005474eb37a9b432b540f92e5a73": {
+        "title": "Consumers face more pain as companies threaten price rises",
+        "link": "https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a",
+        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.845684"
+      },
+      "e17273ca716ecbe6ea9efcda41f1d434ead722d0ca605bd6bb87fb14b38c8b8b": {
+        "title": "Deutsche Bank denies training bankers to manipulate markets",
+        "link": "https://www.ft.com/content/c959dbe1-eb96-414d-adcf-5f17330a195b",
+        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.845687"
+      },
+      "a5a2b3380bc29884694af1a2f840f61244402fa98cb17ce8008135b1b2ffa1f1": {
+        "title": "Arnault and LVMH go from buyer to seller as luxury’s winter drags on",
+        "link": "https://www.ft.com/content/bc50fc15-9779-4969-9f81-eb834941c625",
+        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.845689"
+      },
+      "37ad2ba11e237699b2e30d9835a27e4d0333ab54a68930b4a1747b526d991299": {
+        "title": "US strikes Iranian boats as Hormuz crisis reignites",
+        "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
+        "published_date": "Tue, 05 May 2026 01:58:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.845691"
       }
     },
     "Ai": {
-      "6c02b54106369982a36413d73861ecba7e88174ec4d7fef63645c6e70e51c6b6": {
-        "title": "具身龙虾，上车理想",
-        "link": "https://www.qbitai.com/2026/04/396517.html",
-        "published_date": "Sun, 05 Apr 2026 04:52:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.909375"
-      },
-      "e8877daa86480dcd3e521e5839b896056a91da162cd8e2923d1bd5c83dfd201a": {
-        "title": "GPT-6，曝光了",
-        "link": "https://www.qbitai.com/2026/04/396366.html",
-        "published_date": "Sun, 05 Apr 2026 04:49:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.909382"
-      },
-      "e03bc8bb5f14cdc1fcaa5ed95ee5e15930199a47cc501a5b688e2d800ee24cfe": {
-        "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
-        "link": "https://www.qbitai.com/2026/04/396358.html",
-        "published_date": "Sun, 05 Apr 2026 02:24:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.909384"
-      },
-      "dd48705f52a73ce8781702b567c27739c2eccc4a115115e78ffce59cd4c2ade9": {
-        "title": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
-        "link": "https://www.qbitai.com/2026/04/396351.html",
-        "published_date": "Sun, 05 Apr 2026 02:14:00 GMT",
-        "first_seen": "2026-04-05T06:17:30.909386"
-      },
       "b526edc9967f7a84a587c342d53a11a2222d9d1b1b4165e9e69ca9cad73e8989": {
         "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
         "link": "https://www.qbitai.com/2026/04/396535.html",
@@ -6413,13 +6389,19 @@
         "link": "https://www.qbitai.com/2026/05/412914.html",
         "published_date": "Mon, 04 May 2026 06:09:00 GMT",
         "first_seen": "2026-05-04T07:50:11.679858"
+      },
+      "d24d09ab8b5228160734b5e8a408e16ed72b124a844c17ea34e24aedbc6418d6": {
+        "title": "2026-05-05日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-05/",
+        "published_date": "Tue, 05 May 2026 10:13:00 GMT",
+        "first_seen": "2026-05-05T07:20:56.997585"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-04T23:58:16.385030",
-    "Finance": "2026-05-04T23:58:01.615496",
-    "Ai": "2026-05-04T07:50:11.679861"
+    "Technology": "2026-05-05T07:21:13.104645",
+    "Finance": "2026-05-05T07:20:56.845693",
+    "Ai": "2026-05-05T07:20:56.997593"
   }
 }
