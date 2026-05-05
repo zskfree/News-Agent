@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 May 2026 10:06:00 GMT</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 10:06:44 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 23:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 23:52:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Effect v4 Beta：重写运行时、更小的bundle与统一包系统</title>
-      <link>https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Effect v4 Beta：重写运行时、更小的bundle与统一包系统]]&gt;</description>
-      <pubDate>Tue, 05 May 2026 13:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从“没人懂”到“不能裁”：平台团队如何证明价值</title>
-      <link>https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“没人懂”到“不能裁”：平台团队如何证明价值]]&gt;</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察</title>
-      <link>https://www.tmtpost.com/7975811.html</link>
-      <description>&lt;![CDATA[维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察]]&gt;</description>
-      <pubDate>Tue, 05 May 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7975811.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Palantir：软件末日论汹涌，最牛信仰股也松动了？</title>
-      <link>https://www.tmtpost.com/7976660.html</link>
-      <description>&lt;![CDATA[Palantir：软件末日论汹涌，最牛信仰股也松动了？]]&gt;</description>
+      <title>由豆包付费想到，AI到底会长成一门什么生意</title>
+      <link>https://www.tmtpost.com/7976812.html</link>
+      <description>&lt;![CDATA[由豆包付费想到，AI到底会长成一门什么生意]]&gt;</description>
       <pubDate>Tue, 05 May 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7976660.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976812.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包开启付费订阅，国内AI商业化迎来拐点？</title>
-      <link>https://www.tmtpost.com/7976659.html</link>
-      <description>&lt;![CDATA[豆包开启付费订阅，国内AI商业化迎来拐点？]]&gt;</description>
-      <pubDate>Tue, 05 May 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7976659.html</guid>
+      <title>百万上下文之后，拼什么？</title>
+      <link>https://www.tmtpost.com/7976839.html</link>
+      <description>&lt;![CDATA[百万上下文之后，拼什么？]]&gt;</description>
+      <pubDate>Tue, 05 May 2026 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976839.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硅谷的命门，掌握在日本老师傅手里</title>
+      <link>https://www.tmtpost.com/7976527.html</link>
+      <description>&lt;![CDATA[硅谷的命门，掌握在日本老师傅手里]]&gt;</description>
+      <pubDate>Tue, 05 May 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7976527.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道</title>
+      <link>http://www.geekpark.net/news/363702</link>
+      <description>&lt;![CDATA[豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 05:29:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363702</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab</link>
+      <description>&lt;![CDATA[GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。]]&gt;</description>
+      <pubDate>Tue, 05 May 2026 12:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab</guid>
       <category>Technology</category>
     </item>
   </channel>

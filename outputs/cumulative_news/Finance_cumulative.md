@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-05 10:06
+**最后更新时间**: 2026-05-05 23:52
+
+---
+
+## 🆕 最新更新 (2026-05-05 23:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US will ‘pause’ plan to guide ships through Strait of Hormuz](https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98)
+**发布时间**: 2026-05-05 23:20
+
+#### [Apple reaches $250mn settlement over delayed ‘AI Siri’](https://www.ft.com/content/f2c6a27e-8ed9-487c-9384-7e0f0dca3061)
+**发布时间**: 2026-05-05 20:43
+
+#### [Global oil reserves plunge at record pace as Middle East war strains supplies](https://www.ft.com/content/3beeb26f-6c35-46a9-b116-42edbe6552fd)
+**发布时间**: 2026-05-05 19:26
+
+#### [Meta plans advanced ‘agentic’ AI assistant for consumers](https://www.ft.com/content/5b48360c-53f2-444a-80a8-f7034750fd62)
+**发布时间**: 2026-05-05 19:18
+
+#### [Macron nominates former adviser to run the Bank of France](https://www.ft.com/content/30987376-2fa5-46bd-98e6-fe270b1f4922)
+**发布时间**: 2026-05-05 19:11
+
+#### [SEC moves to scrap quarterly reporting requirement](https://www.ft.com/content/3560d1e3-8271-453f-84d6-4a875b9efd98)
+**发布时间**: 2026-05-05 19:03
+
+#### [US stock-lending operator charged with $450mn fraud](https://www.ft.com/content/8e71321f-9823-4dda-9a71-9fdc34920122)
+**发布时间**: 2026-05-05 17:00
+
+#### [Meta and Zuckerberg sued by publishers over ‘massive’ copyright infringement](https://www.ft.com/content/079ef5b2-5c68-435f-9f67-e02bd9073610)
+**发布时间**: 2026-05-05 16:09
+
+#### [The age of the American Pharaoh](https://www.ft.com/content/aa4a49e7-2e23-44d7-988b-f3394e77e8fc)
+**发布时间**: 2026-05-05 10:51
+
+#### [‘An existential crisis’: residents pay for Nashville boom](https://www.ft.com/content/181eaf5e-42cb-418d-a6e4-7d0bbb42be94)
+**发布时间**: 2026-05-05 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst](https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 23:17
+
+#### [This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz](https://www.marketwatch.com/story/this-narrow-shipping-lane-is-how-trump-now-wants-oil-tankers-to-navigate-the-strait-of-hormuz-3d020281?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 23:13
+
+#### [Betting on long Treasury bonds when yields near 5% has been a slam-dunk trade over the past few years. Is this time different?](https://www.marketwatch.com/story/betting-on-long-treasury-bonds-when-yields-near-5-has-been-a-slam-dunk-trade-over-the-past-few-years-is-this-time-different-cd4def81?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:48
+
+#### [Cheaper protein shakes are crushing this industry stalwart](https://www.marketwatch.com/story/cheaper-protein-shakes-are-crushing-this-industry-stalwart-2a675f49?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:46
+
+#### [PayPal’s stock falls after earnings. Here’s what’s spooking Wall Street.](https://www.marketwatch.com/story/paypals-stock-rallies-after-first-earnings-report-of-the-new-era-heres-what-to-know-4310d291?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:28
+
+#### [Amazon’s stock has come alive, setting the company up to join an exclusive club](https://www.marketwatch.com/story/amazons-stock-has-come-alive-setting-the-company-up-to-join-an-exclusive-club-cb9e35b9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:26
+
+#### [Palantir’s stock falls despite upbeat earnings. Here are Wall Street’s quibbles.](https://www.marketwatch.com/story/palantirs-stock-falls-despite-upbeat-earnings-here-are-wall-streets-quibbles-4ba334e5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:24
+
+#### [Micron’s stock soars as new report throws cold water on the bear case: ‘This time is different.’](https://www.marketwatch.com/story/microns-stock-soars-as-new-report-throws-cold-water-on-the-bear-case-this-time-is-different-b5a5cc18?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:22
+
+#### [Intel is now worth more than Oracle as its stock explodes higher](https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:21
+
+#### [Super Micro’s stock surges as Wall Street cheers its margin recovery](https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 22:16
 
 ---
 
