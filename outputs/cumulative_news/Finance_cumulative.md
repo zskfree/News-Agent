@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-05 07:20
+**最后更新时间**: 2026-05-05 10:06
+
+---
+
+## 🆕 最新更新 (2026-05-05 10:06)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My husband has a modest $150,000 in his retirement fund. Should we make our kids beneficiaries?](https://www.marketwatch.com/story/my-husband-has-a-modest-150-000-in-his-retirement-fund-should-we-make-our-kids-beneficiaries-2ba37d68?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 10:02
+
+#### [America is using less oil, and the Iran conflict could further reduce its thirst for hydrocarbons](https://www.marketwatch.com/story/america-is-using-less-oil-and-the-iran-conflict-could-further-reduce-its-thirst-for-hydrocarbons-3bed1c7a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 10:00
+
+#### [How beleaguered are beer sales? Anheuser-Busch InBev volumes rose 1% and the stock market is delighted](https://www.marketwatch.com/story/how-beleaguered-are-beer-sales-anheuser-busch-inbev-volumes-rose-1-and-the-stock-market-is-delighted-71c859ca?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 09:16
+
+#### [Michael Jackson’s Neverland estate in the spotlight with new biopic](https://www.marketwatch.com/story/michael-jacksons-neverland-estate-in-the-spotlight-with-new-biopic-edef7932?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 09:05
+
+#### [The late Hulk Hogan’s beachfront Florida home gets $2 million price cut](https://www.marketwatch.com/story/the-late-hulk-hogans-beachfront-florida-home-gets-2-million-price-cut-9a0ff189?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 09:02
+
+#### [HSBC’s darkest scenario: stock markets down 35% and oil at $145](https://www.marketwatch.com/story/hsbcs-darkest-scenario-stock-markets-down-35-and-oil-at-145-dc58c4dc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 08:33
+
+#### [This is why stocks keep rallying, according to Morgan Stanley](https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-05 08:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [HSBC profits hit by $400mn ‘fraud-related’ exposure](https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8)
+**发布时间**: 2026-05-05 08:48
+
+#### [LVMH goes from buyer to seller as luxury’s winter drags on](https://www.ft.com/content/bc50fc15-9779-4969-9f81-eb834941c625)
+**发布时间**: 2026-05-05 04:00
+
+#### [Reeves clashed with Bessent over Iran war criticism](https://www.ft.com/content/85f851c6-3cc2-44ee-b527-5a1136f851e7)
+**发布时间**: 2026-05-05 04:00
+
+#### [Iran claims control of strait after clashes test ceasefire](https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98)
+**发布时间**: 2026-05-05 01:58
 
 ---
 

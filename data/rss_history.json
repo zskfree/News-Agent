@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "23dc43d990a7c47b4a37b6f84061b900bab750f43826903e8760fc7bf2fc8665": {
-        "title": "大厂只需要Token，不需要活人",
-        "link": "https://www.tmtpost.com/7942185.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:48:22.410240"
-      },
-      "b5ceaa912eb5d03a84ecb40a43fea10826124bf0ac83795723cfb27456baf2b0": {
-        "title": "同事被“炼化”为Skill？大家把这事想简单了",
-        "link": "https://www.tmtpost.com/7942194.html",
-        "published_date": "Sun, 05 Apr 2026 14:08:00 GMT",
-        "first_seen": "2026-04-05T08:48:22.410251"
-      },
-      "8dfcc539cd6228003342e792dd6e250b1ff0ed7c74a62fc36326206aacd7d803": {
-        "title": "隆基甩出“全栈”方案，光储市场告别“拼凑游戏”",
-        "link": "https://www.tmtpost.com/7942181.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:48:22.410254"
-      },
-      "84e01cdfb36f8f771cbf7cb8e03355f372a9e8c88d008ff6733983592ebae7e0": {
-        "title": "清明节特辑：过去这一年，哪些互联网产品先走一步",
-        "link": "https://www.tmtpost.com/7942085.html",
-        "published_date": "Sun, 05 Apr 2026 09:49:00 GMT",
-        "first_seen": "2026-04-05T08:48:22.410255"
-      },
-      "ec1527b61c5d4481beb8f8bf93bc5b661c133da033c1558a40ac3f5391f1214e": {
-        "title": "两次众筹破千万后，AWOL Vision还能“抢跑”多久？| 出海爆品先知",
-        "link": "https://www.tmtpost.com/7941274.html",
-        "published_date": "Sun, 05 Apr 2026 07:56:00 GMT",
-        "first_seen": "2026-04-05T08:48:22.410257"
-      },
       "6e2dec9d9b4d087779a97e5632e155ea4165b15e1339c327fb53bd0d1f04b52c": {
         "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
         "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
@@ -2671,6 +2641,36 @@
         "link": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 05 May 2026 13:53:00 GMT",
         "first_seen": "2026-05-05T07:21:13.104643"
+      },
+      "0e379e037fbc152e194f54a70604497577d3f6be950b1ecbaa54d2afb7b78eb3": {
+        "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
+        "link": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 13:49:00 GMT",
+        "first_seen": "2026-05-05T10:06:44.811226"
+      },
+      "10ace7d69c8b4182eaaedc231356e9ed7d75f21596bc1cd53ce0c6892d1f5030": {
+        "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
+        "link": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 05 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-05T10:06:44.811233"
+      },
+      "b58d71a6d0f29b668e78cf06dc4773621ee0434b224ac93e645938ca7f4987cb": {
+        "title": "维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察",
+        "link": "https://www.tmtpost.com/7975811.html",
+        "published_date": "Tue, 05 May 2026 09:09:00 GMT",
+        "first_seen": "2026-05-05T10:06:44.811236"
+      },
+      "b81863a50f1a847a117f40d0bb3ae81d03f58f69ffcbec4e6a2c81c096aa2fc2": {
+        "title": "Palantir：软件末日论汹涌，最牛信仰股也松动了？",
+        "link": "https://www.tmtpost.com/7976660.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T10:06:44.811238"
+      },
+      "07d61f76011b38d729bbfb02d692bf1fbcf382480474d10e6c6121e918a9f154": {
+        "title": "豆包开启付费订阅，国内AI商业化迎来拐点？",
+        "link": "https://www.tmtpost.com/7976659.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T10:06:44.811240"
       }
     },
     "Finance": {
@@ -4971,6 +4971,36 @@
         "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
         "published_date": "Tue, 05 May 2026 01:58:00 GMT",
         "first_seen": "2026-05-05T07:20:56.845691"
+      },
+      "afa32fc678a65b99c19b13a4db846ae6b740b4408303ebe4e08857676645580a": {
+        "title": "My husband has a modest $150,000 in his retirement fund. Should we make our kids beneficiaries?",
+        "link": "https://www.marketwatch.com/story/my-husband-has-a-modest-150-000-in-his-retirement-fund-should-we-make-our-kids-beneficiaries-2ba37d68?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 10:02:00 GMT",
+        "first_seen": "2026-05-05T10:06:32.562917"
+      },
+      "eeaf343664ed369b617a42e2a7b3bba35d4206fcf10b521698ad7b28ae40ea9a": {
+        "title": "America is using less oil, and the Iran conflict could further reduce its thirst for hydrocarbons",
+        "link": "https://www.marketwatch.com/story/america-is-using-less-oil-and-the-iran-conflict-could-further-reduce-its-thirst-for-hydrocarbons-3bed1c7a?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-05T10:06:32.562928"
+      },
+      "6cd38ccf565d177504af816d895dae719bc6e3cf3eeb4ecc120e5bc99184054e": {
+        "title": "Michael Jackson’s Neverland estate in the spotlight with new biopic",
+        "link": "https://www.marketwatch.com/story/michael-jacksons-neverland-estate-in-the-spotlight-with-new-biopic-edef7932?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 09:05:00 GMT",
+        "first_seen": "2026-05-05T10:06:32.562930"
+      },
+      "e5d993b58f7efdd2aa21dd48ba0b3d422c92f0ed49e4e80bf1d8be2407e32427": {
+        "title": "The late Hulk Hogan’s beachfront Florida home gets $2 million price cut",
+        "link": "https://www.marketwatch.com/story/the-late-hulk-hogans-beachfront-florida-home-gets-2-million-price-cut-9a0ff189?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 09:02:00 GMT",
+        "first_seen": "2026-05-05T10:06:32.562932"
+      },
+      "53263571043bca794dc1f4c6244c0cc9890430ff778dc270c9b9ef7fbffe9acd": {
+        "title": "HSBC’s darkest scenario: stock markets down 35% and oil at $145",
+        "link": "https://www.marketwatch.com/story/hsbcs-darkest-scenario-stock-markets-down-35-and-oil-at-145-dc58c4dc?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 08:33:00 GMT",
+        "first_seen": "2026-05-05T10:06:32.562934"
       }
     },
     "Ai": {
@@ -6400,8 +6430,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-05T07:21:13.104645",
-    "Finance": "2026-05-05T07:20:56.845693",
+    "Technology": "2026-05-05T10:06:44.811243",
+    "Finance": "2026-05-05T10:06:32.562936",
     "Ai": "2026-05-05T07:20:56.997593"
   }
 }
