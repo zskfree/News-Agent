@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-05 23:52
+**最后更新时间**: 2026-05-06 07:37
+
+---
+
+## 🆕 最新更新 (2026-05-06 07:37)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [把脸借给AI短剧，我却拿不回来了](https://www.tmtpost.com/7977715.html)
+**发布时间**: 2026-05-06 15:28
+
+#### [一瓶血清的“守城之战”：90后女掌门携江西生物冲刺IPO](https://www.tmtpost.com/7977410.html)
+**发布时间**: 2026-05-06 15:23
+
+#### [OpenAI的疯狂五一：与马斯克法庭翻旧账、算力烧钱500亿美元、GPT-5.5免费用](https://www.tmtpost.com/7977850.html)
+**发布时间**: 2026-05-06 15:20
+
+#### [长光辰芯上市背后：避开红海竞争，剑指在高壁垒市场](https://www.tmtpost.com/7969596.html)
+**发布时间**: 2026-05-06 15:15
+
+#### [放弃扩张，亚马逊卖家集体关店求生](https://www.tmtpost.com/7977662.html)
+**发布时间**: 2026-05-06 15:15
+
+#### [DeepSeek-V4发布后的行业景观](https://www.tmtpost.com/7977710.html)
+**发布时间**: 2026-05-06 15:14
+
+#### [盛合晶微科创板上市，单一大客户为何成掣肘？](https://www.tmtpost.com/7968223.html)
+**发布时间**: 2026-05-06 15:08
+
+#### [养蛊：AI员工的某种真相](https://www.tmtpost.com/7977708.html)
+**发布时间**: 2026-05-06 15:08
+
+#### [“全民公敌”阿莫迪](https://www.tmtpost.com/7977709.html)
+**发布时间**: 2026-05-06 15:08
+
+#### [国产CIS的翻身仗](https://www.tmtpost.com/7977660.html)
+**发布时间**: 2026-05-06 15:08
+
+#### [万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”](https://www.tmtpost.com/7977704.html)
+**发布时间**: 2026-05-06 15:00
+
+#### [出货第一却三年亏2亿：乐动机器人赴港IPO，面临毛利率大考](https://www.tmtpost.com/7971510.html)
+**发布时间**: 2026-05-06 15:00
+
+#### [人均20元、日销近千杯，手作酸奶火了](https://www.tmtpost.com/7977700.html)
+**发布时间**: 2026-05-06 14:59
+
+#### [资本市场口中的AI，多智近似妖](https://www.tmtpost.com/7977636.html)
+**发布时间**: 2026-05-06 14:57
+
+#### [280亿算力并购、155亿有息负债，透视东阳光的资产重构](https://www.tmtpost.com/7977403.html)
+**发布时间**: 2026-05-06 14:57
+
+#### [老乡鸡、古茗……一批品牌悄悄涨价，2026是餐饮“涨价元年”？](https://www.tmtpost.com/7977698.html)
+**发布时间**: 2026-05-06 14:52
+
+#### [摩根士丹利大幅下调目标价至5200美元，黄金中长期逻辑生变？](https://www.tmtpost.com/7974386.html)
+**发布时间**: 2026-05-06 14:52
+
+#### [豆包收费，中国大模型的分水岭](https://www.tmtpost.com/7977492.html)
+**发布时间**: 2026-05-06 14:52
+
+#### [靠AI恋人上市的公司，正在抛弃AI恋人](https://www.tmtpost.com/7977693.html)
+**发布时间**: 2026-05-06 14:47
+
+#### [中国99%的餐饮人，都在追寻一个错误的目标](https://www.tmtpost.com/7977695.html)
+**发布时间**: 2026-05-06 14:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里高绩效员工年终奖上浮1-2个月；追觅CEO要求所有员工开通社交账号，每天发三条视频；马斯克去年在特斯拉挣了0美元｜AI周报](https://www.infoq.cn/article/934Tdhvr1m38VmMppL2R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 14:35
+
+#### [DBmaestro 发布 MCP 服务器：用自然语言操控数据库流水线](https://www.infoq.cn/article/Wd6XzPmoTggZwMpgXEAg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 14:00
+
+#### [第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司](https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 12:13
+
+#### [0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业](https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 12:01
+
+#### [Cloudflare优化边缘栈：从大缓存转向高核并行](https://www.infoq.cn/article/XRUpljAUlm9Kie805jqh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 12:00
+
+#### [42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战](https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 11:53
+
+#### [CodeGuardian：一种用于 AI 代码质量分析和安全扫描的模型上下文协议服务器](https://www.infoq.cn/article/VkpOOYrXHY8Q2Ax6JE8N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 10:37
+
+#### [React Navigation 8.0 Alpha发布：原生底部标签、重构后的TypeScript类型推断与历史记录能力](https://www.infoq.cn/article/033vidXmEz7YaWxS9mpa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 10:25
+
+#### [从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海](https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [实测纳逗 Pro：能做专业影视级内容的智能平台长啥样](http://www.geekpark.net/news/363720)
+**发布时间**: 2026-05-06 12:09
+
+#### [Anthropic 搞了个全是 AI 的闲鱼群，大模型在里面互割起了韭菜](http://www.geekpark.net/news/363718)
+**发布时间**: 2026-05-06 10:28
+
+#### [谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉](http://www.geekpark.net/news/363719)
+**发布时间**: 2026-05-06 10:26
+
+#### [AI 大模型的「中文税」：中文比英文更费 Token，为什么？](http://www.geekpark.net/news/363717)
+**发布时间**: 2026-05-06 10:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
+**发布时间**: 2026-05-06 10:49
+
+#### [派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
+**发布时间**: 2026-05-06 08:12
 
 ---
 

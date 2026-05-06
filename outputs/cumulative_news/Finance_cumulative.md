@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-05 23:52
+**最后更新时间**: 2026-05-06 07:37
+
+---
+
+## 🆕 最新更新 (2026-05-06 07:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Novo Nordisk says the Wegovy pill saw the fastest take-up in weight-loss drug history.](https://www.marketwatch.com/story/novo-nordisk-says-the-wegovy-pill-saw-the-fastest-take-up-in-weight-loss-drug-history-088f2d55?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 07:25
+
+#### [‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec](https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 06:32
+
+#### [Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz](https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 02:22
+
+#### [Astera Labs’ stock climbs as the company strives to make AI chips more powerful](https://www.marketwatch.com/story/astera-labs-stock-climbs-as-the-company-strives-to-make-ai-chips-more-powerful-2c9be4d6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 00:32
+
+#### [Upstart’s stock is getting punished after earnings. Here’s the big gripe.](https://www.marketwatch.com/story/upstarts-stock-is-getting-punished-after-earnings-heres-the-big-gripe-6d27ca70?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 00:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil falls on signs of de-escalation in Gulf](https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea)
+**发布时间**: 2026-05-06 06:45
+
+#### [Iran’s top diplomat visits China ahead of Trump-Xi summit](https://www.ft.com/content/f932425a-5023-426e-ae89-1521dbbfc07a)
+**发布时间**: 2026-05-06 06:19
+
+#### [DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks](https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7)
+**发布时间**: 2026-05-06 05:50
+
+#### [Trump pauses US plan to guide ships through Strait of Hormuz](https://www.ft.com/content/5f7ba94e-8a42-4f36-8c4c-19be932c8f66)
+**发布时间**: 2026-05-06 05:44
+
+#### [Samsung’s stock market value hits $1tn on AI euphoria](https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8)
+**发布时间**: 2026-05-06 04:01
+
+#### [Can Europe develop its own alternatives to US Tomahawks?](https://www.ft.com/content/8a5367b0-ed49-4cee-b01b-4b891df8cc91)
+**发布时间**: 2026-05-06 04:00
+
+#### [Why the UAE really left Opec](https://www.ft.com/content/77f79126-bbf5-4343-90ea-c403c04c5640)
+**发布时间**: 2026-05-06 04:00
+
+#### [Imbalances are back on the global agenda](https://www.ft.com/content/72ab51ed-8dcc-46c5-8457-6944d98bf280)
+**发布时间**: 2026-05-06 04:00
+
+#### [Russia pavilion drags Venice Biennale into EU sanctions row](https://www.ft.com/content/a8114c95-4ee4-4a11-bf31-b85ff79ddbab)
+**发布时间**: 2026-05-06 04:00
+
+#### [Toyota switches on to electric vehicles to counter Chinese threat](https://www.ft.com/content/5c321fb2-ae4c-46fa-a762-ec0bd0a2f516)
+**发布时间**: 2026-05-06 01:33
 
 ---
 
