@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ab0757f663322bee7df172640f1f07613583708636e870250bfbdbdbbc7b57f3": {
-        "title": "AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药",
-        "link": "https://www.tmtpost.com/7942749.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:13:48.982042"
-      },
-      "27344572e2c4ef762139f6e744d234c8bb7c1bfc9137cef67b479f5846ddf7fe": {
-        "title": "自动驾驶优化：从复杂性到实时工程",
-        "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-06T09:13:48.982050"
-      },
-      "e030d2575577afb8e85b4ca1f637ecc98b8a4f8a47e6b26a670906274a5278eb": {
-        "title": "Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532844&idx=1&sn=899a7e5cd40cec6d6ff9d9a4fa197f67",
-        "published_date": "Mon, 06 Apr 2026 11:34:00 GMT",
-        "first_seen": "2026-04-06T09:13:48.982053"
-      },
-      "b503e87b1f4130c2cd36f6ec2cb185e16abfc88cc8f634bf5022d65af479a200": {
-        "title": "AI短剧，苦等一个《狂飙》",
-        "link": "https://www.tmtpost.com/7942686.html",
-        "published_date": "Mon, 06 Apr 2026 09:10:00 GMT",
-        "first_seen": "2026-04-06T09:13:48.982055"
-      },
-      "faebdd562cece9cdfb3d8a3fb777bde57fea5e062f2735aab2d254dc9e3867ae": {
-        "title": "利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？",
-        "link": "https://www.tmtpost.com/7942770.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:13:48.982057"
-      },
-      "57bfd0b0c390f6d8abfbee5e59e2b53db783c4c39c1ffbae9bec5b32f1da2a52": {
-        "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
-        "link": "https://www.tmtpost.com/7942349.html",
-        "published_date": "Tue, 07 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-06T23:40:35.672640"
-      },
-      "b685b9993d6b2d2cb613c05bd49a54509d0a10464c792a5f63f64960ee98480d": {
-        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
-        "link": "https://www.tmtpost.com/7942848.html",
-        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
-        "first_seen": "2026-04-06T23:40:35.672648"
-      },
-      "e0abd2fb6111cb7cc2b1c2d97dabb8d6526587bc69649f02076c77766ec6cdcf": {
-        "title": "有道龙虾 LobsterAI 的养成与实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-06T23:40:35.672651"
-      },
-      "e851464e49dfd70896ad681888ff367346bc8aef5bf53badd02f3ed8c71debc7": {
-        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-        "link": "https://sspai.com/post/108294",
-        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
-        "first_seen": "2026-04-06T23:40:35.672652"
-      },
-      "c4e03e9fa7fc35418046c2cd6d93d92de8518cc3b83160a96ce67c14be395251": {
-        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
-        "link": "https://www.tmtpost.com/7942741.html",
-        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
-        "first_seen": "2026-04-06T23:40:35.672654"
-      },
       "96d57a04de4219f2bb459ac035510aab409362d7e172ba87c05ee02ff09d38e2": {
         "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
         "link": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
@@ -2671,51 +2611,39 @@
         "link": "http://www.geekpark.net/news/363719",
         "published_date": "Wed, 06 May 2026 10:26:00 GMT",
         "first_seen": "2026-05-06T07:38:24.943690"
+      },
+      "64a72325af73b325075b381c393f879734bbcf989cac58c27fb643871f868f88": {
+        "title": "AI 大模型的「中文税」：中文比英文更费 Token，为什么？",
+        "link": "http://www.geekpark.net/news/363717",
+        "published_date": "Wed, 06 May 2026 10:22:00 GMT",
+        "first_seen": "2026-05-06T23:56:33.167494"
+      },
+      "8c09342a8b5cc5741c55feafb78770b90f6380fb9a20e70d87d59e8709e65ca8": {
+        "title": "AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”",
+        "link": "https://www.tmtpost.com/7978166.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T23:56:33.167500"
+      },
+      "570945908409ff9b04d08b65374ce775c6cb572e031f3b0d48a760973d5525bb": {
+        "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+        "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-06T23:56:33.167502"
+      },
+      "f5a698e4c2a5e39143089b4792ec2481f78d8dc02dad67aff6a89fb2b7b8783c": {
+        "title": "42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战",
+        "link": "https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 11:53:00 GMT",
+        "first_seen": "2026-05-06T23:56:33.167504"
+      },
+      "75dd30d7236d7ea576b099483e0f470b8a28ce72d54a89bf772e27572d6eca30": {
+        "title": "第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司",
+        "link": "https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 12:13:00 GMT",
+        "first_seen": "2026-05-06T23:56:33.167506"
       }
     },
     "Finance": {
-      "f657d52ac937d890b0104bfe8415dd1be91303cd8a2850a9bbf3d9692d260f51": {
-        "title": "Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness",
-        "link": "https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 09:01:00 GMT",
-        "first_seen": "2026-04-06T09:13:49.017569"
-      },
-      "f54df2a8f2224e4033d668ccaa8576551c41ba5b6358345742cee728055cfcf6": {
-        "title": "Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home",
-        "link": "https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 08:58:00 GMT",
-        "first_seen": "2026-04-06T09:13:49.017575"
-      },
-      "c10feed48cb6631e23a84fee26ef65c29a5b87711eb9de0ee405754ffc8a098c": {
-        "title": "Jamie Dimon warns private credit losses will be larger than feared",
-        "link": "https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3",
-        "published_date": "Mon, 06 Apr 2026 10:03:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.003867"
-      },
-      "ca990b9b7a5190a755d938a2814b8d0e8118f1bf8701ec856e1518ebf61ca2ec": {
-        "title": "Broadcom’s stock is rising. Here’s why its new Google and Anthropic deals are so significant.",
-        "link": "https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 23:33:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.003874"
-      },
-      "73d1b6a20da8f9892534f17a127ac4708cd69c86dbe5c8152c0565318d469a16": {
-        "title": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
-        "link": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 21:48:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.003876"
-      },
-      "64f9c2b7c37dfd28f500fbf6dabbe5469447fab6bac6ac98a4121b0c5c9cb879": {
-        "title": "US health insurer shares jump as Trump administration boosts Medicare payments",
-        "link": "https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb",
-        "published_date": "Mon, 06 Apr 2026 23:09:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.003877"
-      },
-      "841defa6a005bce6ad7bea7e6b98e08dba72f76e7f2016e85f6c279f028ec88b": {
-        "title": "3 factors that could get software stocks going again after a brutal stretch",
-        "link": "https://www.marketwatch.com/story/3-factors-that-could-get-software-stocks-going-again-after-a-brutal-stretch-7fc5ae46?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 19:18:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.003879"
-      },
       "cd309305fb1f60766dfdb855d3fa30747e3391fd692ca99648d27f0a37a85ba3": {
         "title": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions",
         "link": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
@@ -5001,21 +4929,39 @@
         "link": "https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea",
         "published_date": "Wed, 06 May 2026 06:45:00 GMT",
         "first_seen": "2026-05-06T07:37:56.058517"
+      },
+      "6dd6f82c803c6dd1aaafce716693572fc90b685908daa8c0e50fe2d3d49ea34d": {
+        "title": "The leverage layer cake behind HSBC’s private credit losses",
+        "link": "https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b",
+        "published_date": "Wed, 06 May 2026 23:01:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.098689"
+      },
+      "9e0a11ed2e21ae217270fe2652b336a7079f201b574499a9fb6f70a16825a6db": {
+        "title": "US prosecutors charge 30 with insider trading on law firm deal materials",
+        "link": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d",
+        "published_date": "Wed, 06 May 2026 21:38:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.098699"
+      },
+      "c5a00529f68ead2dce4564c19baa58f89ec54163eb5238c84c61554c6a496b09": {
+        "title": "Traders point to suspicious activity in the oil market on Wednesday",
+        "link": "https://www.marketwatch.com/story/traders-point-to-suspicious-activity-in-the-oil-market-on-wednesday-3a6821d9?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 22:36:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.098702"
+      },
+      "086bed8a3f41cc8ac0f51a8bfe7c4b18e6178160e8c7da72bfadf0e6110bc24f": {
+        "title": "Here’s how far the Trump administration’s ‘startling turn’ on AI regulation might go",
+        "link": "https://www.marketwatch.com/story/heres-how-far-the-trump-administrations-startling-turn-on-ai-regulation-might-go-15ce46be?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 20:35:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.098703"
+      },
+      "839597abec838c00ab2ad0c64522e3be3845f347a19e3b7b45f6cc234a7b354e": {
+        "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+        "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 21:24:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.098705"
       }
     },
     "Ai": {
-      "902bbb14aa3711fef269713c102ae6c53599ffd28fc82af69953efb5f873efa5": {
-        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/396863.html",
-        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.153486"
-      },
-      "f5134f26edf591f047e181ac91c1b70efd7dfddfe1cc4b377c878cd9e8714af0": {
-        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-        "link": "https://www.qbitai.com/2026/04/396841.html",
-        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
-        "first_seen": "2026-04-06T23:40:54.153493"
-      },
       "1699e680f806a4ccce23d8e7ec72195f1cf392153072b90a8822c258335c11d2": {
         "title": "2026-04-07日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-07/",
@@ -6413,13 +6359,31 @@
         "link": "https://www.qbitai.com/2026/05/412995.html",
         "published_date": "Wed, 06 May 2026 00:22:00 GMT",
         "first_seen": "2026-05-06T07:37:56.202991"
+      },
+      "0f0852c7ada9bce094c4c6ff20e45d32a3dd6560ae743566e0d058dbed1a75fc": {
+        "title": "AI PPT，这次是真不用返工了",
+        "link": "https://www.qbitai.com/2026/05/413296.html",
+        "published_date": "Wed, 06 May 2026 10:28:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.249937"
+      },
+      "962c07e90ab4c4a3039b43ea7fc2b2a8137e98a44bd77979a78ed9e9b7ced73e": {
+        "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+        "link": "https://www.qbitai.com/2026/05/413264.html",
+        "published_date": "Wed, 06 May 2026 09:24:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.249944"
+      },
+      "fa3c632c4ec5b3f05a6360036664fc9554142c2359ec25ebf5f9aea7b4a62edf": {
+        "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+        "link": "https://www.qbitai.com/2026/05/413265.html",
+        "published_date": "Wed, 06 May 2026 08:11:00 GMT",
+        "first_seen": "2026-05-06T23:55:46.249946"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-06T07:38:24.943692",
-    "Finance": "2026-05-06T07:37:56.058519",
-    "Ai": "2026-05-06T07:37:56.202993"
+    "Technology": "2026-05-06T23:56:33.167508",
+    "Finance": "2026-05-06T23:55:46.098707",
+    "Ai": "2026-05-06T23:55:46.249949"
   }
 }

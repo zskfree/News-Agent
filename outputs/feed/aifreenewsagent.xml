@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 May 2026 07:35:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 07:37:56 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 23:53:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 23:55:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-06日刊</title>
-      <link>https://ai.hubtoday.app//2026-05/2026-05-06/</link>
-      <description>&lt;![CDATA[2026-05-06日刊]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-06/</guid>
+      <title>AI PPT，这次是真不用返工了</title>
+      <link>https://www.qbitai.com/2026/05/413296.html</link>
+      <description>&lt;![CDATA[AI PPT，这次是真不用返工了]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413296.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开</title>
-      <link>https://www.qbitai.com/2026/05/413164.html</link>
-      <description>&lt;![CDATA[首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 04:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413164.html</guid>
+      <title>香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马</title>
+      <link>https://www.qbitai.com/2026/05/413264.html</link>
+      <description>&lt;![CDATA[香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 09:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413264.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能</title>
-      <link>https://www.qbitai.com/2026/05/413154.html</link>
-      <description>&lt;![CDATA[AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 04:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413154.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」</title>
-      <link>https://www.qbitai.com/2026/05/413022.html</link>
-      <description>&lt;![CDATA[马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全美最恶人」]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 04:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413022.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁</title>
-      <link>https://www.qbitai.com/2026/05/412995.html</link>
-      <description>&lt;![CDATA[刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 00:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/412995.html</guid>
+      <title>陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了</title>
+      <link>https://www.qbitai.com/2026/05/413265.html</link>
+      <description>&lt;![CDATA[陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 08:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413265.html</guid>
       <category>Ai</category>
     </item>
   </channel>

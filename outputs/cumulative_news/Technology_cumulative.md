@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 07:37
+**最后更新时间**: 2026-05-06 23:55
+
+---
+
+## 🆕 最新更新 (2026-05-06 23:55)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品](https://www.tmtpost.com/7978445.html)
+**发布时间**: 2026-05-07 07:20
+
+#### [光伏转型受阻，特高压铁塔龙头拟拟挂牌转让晶樱光电60%股权；东方证券合并重组上海证券预案出炉；【并购一线】](https://www.tmtpost.com/7978518.html)
+**发布时间**: 2026-05-06 23:19
+
+#### [乌帕替尼“先发牌”到手，但华邦健康还有笔近亿税务旧账没算完](https://www.tmtpost.com/7978415.html)
+**发布时间**: 2026-05-06 21:51
+
+#### [勤上股份募资账户遭续冻：跨境仲裁僵持背后，两年亏损5.7亿困局待解](https://www.tmtpost.com/7978326.html)
+**发布时间**: 2026-05-06 20:24
+
+#### [需求从工具转向结果，SaaS会死在重生的路上么？丨ToB产业观察](https://www.tmtpost.com/7978077.html)
+**发布时间**: 2026-05-06 18:58
+
+#### [奥特曼食言了，但这次没人怪他](https://www.tmtpost.com/7978179.html)
+**发布时间**: 2026-05-06 18:04
+
+#### [AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”](https://www.tmtpost.com/7978166.html)
+**发布时间**: 2026-05-06 18:04
+
+#### [赵明能享受到千里科技的推背感吗？](https://www.tmtpost.com/7978188.html)
+**发布时间**: 2026-05-06 18:04
+
+#### [3亿用户扛不住算力账单](https://www.tmtpost.com/7978182.html)
+**发布时间**: 2026-05-06 18:04
+
+#### [这届北京车展，智驾人也有春天](https://www.tmtpost.com/7977748.html)
+**发布时间**: 2026-05-06 17:47
+
+#### [从万元户到个人资本百亿，“中国巴菲特”陈发树是如何炼成的？](https://www.tmtpost.com/7978030.html)
+**发布时间**: 2026-05-06 17:34
+
+#### [PE远低于亚马逊，资本为何没对阿里AI出价？](https://www.tmtpost.com/7977823.html)
+**发布时间**: 2026-05-06 17:34
+
+#### [李飞飞又开了家公司，投资人排队塞了4个亿](https://www.tmtpost.com/7978097.html)
+**发布时间**: 2026-05-06 17:33
+
+#### [“耐心资本”时代，创投行业呼唤“价值工程师”](https://www.tmtpost.com/7977983.html)
+**发布时间**: 2026-05-06 17:33
+
+#### [吞噬爱马仕：凭空消失的百亿股份与世纪资本恶战](https://www.tmtpost.com/7977927.html)
+**发布时间**: 2026-05-06 15:38
+
+#### [首款8K AI拇指运动相机，光子跃迁LEAPTIC Cube开启预售](https://www.tmtpost.com/7977719.html)
+**发布时间**: 2026-05-06 15:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [npmx 进入 Alpha 阶段：一个由社区驱动的 npm 注册表浏览器替代品](https://www.infoq.cn/article/H3UBOv3iPlJMAgtWFEMk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 18:00
+
+#### [OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台](https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 16:00
+
+#### [“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争](https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-06 15:55
+
+#### [5月更文挑战赛 | 5限热爱 · 码上开写](https://xie.infoq.cn/article/9982cb630686ecc8aea243fd1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-29 09:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
+**发布时间**: 2026-05-06 17:30
+
+#### [为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
+**发布时间**: 2026-05-06 15:00
 
 ---
 

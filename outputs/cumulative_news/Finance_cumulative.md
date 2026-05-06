@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 07:37
+**最后更新时间**: 2026-05-06 23:55
+
+---
+
+## 🆕 最新更新 (2026-05-06 23:55)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Restaurants really don’t want to sell fake meat — and Beyond Meat is suffering](https://www.marketwatch.com/story/restaurants-really-dont-want-to-sell-fake-meat-and-beyond-meat-is-suffering-030b5592?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 23:02
+
+#### [Arm puts a big number on its newest venture, but its stock falls](https://www.marketwatch.com/story/arms-stock-soars-as-the-company-puts-a-big-number-on-its-newest-venture-21bce404?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 22:38
+
+#### [Traders point to suspicious activity in the oil market on Wednesday](https://www.marketwatch.com/story/traders-point-to-suspicious-activity-in-the-oil-market-on-wednesday-3a6821d9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 22:36
+
+#### [Everyone’s paying more for gas, but only some are cutting back. Here’s why.](https://www.marketwatch.com/story/everyones-paying-more-for-gas-but-only-some-are-cutting-back-heres-why-6366212e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 22:11
+
+#### [Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders](https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 21:24
+
+#### [This gold-timing indicator just hit a bottom — and history says a strong rally is next](https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 20:45
+
+#### [Fortinet’s stock rockets higher as earnings help dispel fears of AI disruption](https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 20:45
+
+#### [Here’s how far the Trump administration’s ‘startling turn’ on AI regulation might go](https://www.marketwatch.com/story/heres-how-far-the-trump-administrations-startling-turn-on-ai-regulation-might-go-15ce46be?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 20:35
+
+#### [Concerts are increasingly going global as cracks emerge in the U.S. market](https://www.marketwatch.com/story/concerts-are-increasingly-going-global-as-cracks-emerge-in-the-u-s-market-175996e9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 20:18
+
+#### [Stuck in ‘survival spending’? 5 ways to build wealth even when the odds seem stacked against you.](https://www.marketwatch.com/story/stuck-in-survival-spending-5-ways-to-build-wealth-even-when-the-odds-seem-stacked-against-you-83cf0ca3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 20:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The leverage layer cake behind HSBC’s private credit losses](https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b)
+**发布时间**: 2026-05-06 23:01
+
+#### [Musk tried to recruit Altman for role at Tesla before falling out at OpenAI](https://www.ft.com/content/c93ba0c9-caec-4707-8f27-a1abb8de115e)
+**发布时间**: 2026-05-06 22:14
+
+#### [SpaceX to rent data centre capacity to Anthropic](https://www.ft.com/content/aa0239b8-0d57-4dc8-8c1a-ed7ac4d689fb)
+**发布时间**: 2026-05-06 22:08
+
+#### [Airbus wins $19bn order in Canada’s biggest ever aircraft deal](https://www.ft.com/content/19c4dab7-0141-4c40-9d2f-180ff33cdd63)
+**发布时间**: 2026-05-06 21:47
+
+#### [Israel strikes Beirut for first time since ceasefire](https://www.ft.com/content/69308a1e-95d0-4bcd-8f4f-9624993cef7c)
+**发布时间**: 2026-05-06 21:38
+
+#### [US prosecutors charge 30 with insider trading on law firm deal materials](https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d)
+**发布时间**: 2026-05-06 21:38
+
+#### [Carlyle teams with Diversified Energy on $1.2bn oil and gas venture](https://www.ft.com/content/ca18d66c-3f22-4e5f-96b0-701cff4b2d32)
+**发布时间**: 2026-05-06 20:30
+
+#### [US fuel exports hit record in boon for oil companies and threat to Trump](https://www.ft.com/content/cfc92825-68f6-4660-89ef-3854b3ead8dc)
+**发布时间**: 2026-05-06 17:44
+
+#### [Iran says it is reviewing US-backed peace proposal](https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea)
+**发布时间**: 2026-05-06 12:02
+
+#### [Chinese AI start-up DeepSeek nears $45bn valuation](https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7)
+**发布时间**: 2026-05-06 05:50
+
+#### [Dousing the DC ‘dumpster fire’: Democrats battle over party’s future](https://www.ft.com/content/8e1267e2-0a43-4424-aab4-09d93cd26c64)
+**发布时间**: 2026-05-06 04:00
 
 ---
 

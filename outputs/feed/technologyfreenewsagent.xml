@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 May 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 07:38:24 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 23:56:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业</title>
-      <link>https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 大模型的「中文税」：中文比英文更费 Token，为什么？</title>
+      <link>http://www.geekpark.net/news/363717</link>
+      <description>&lt;![CDATA[AI 大模型的「中文税」：中文比英文更费 Token，为什么？]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363717</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”</title>
-      <link>https://www.tmtpost.com/7977704.html</link>
-      <description>&lt;![CDATA[万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977704.html</guid>
+      <title>AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”</title>
+      <link>https://www.tmtpost.com/7978166.html</link>
+      <description>&lt;![CDATA[AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978166.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI的疯狂五一：与马斯克法庭翻旧账、算力烧钱500亿美元、GPT-5.5免费用</title>
-      <link>https://www.tmtpost.com/7977850.html</link>
-      <description>&lt;![CDATA[OpenAI的疯狂五一：与马斯克法庭翻旧账、算力烧钱500亿美元、GPT-5.5免费用]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977850.html</guid>
+      <title>“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争</title>
+      <link>https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包收费，中国大模型的分水岭</title>
-      <link>https://www.tmtpost.com/7977492.html</link>
-      <description>&lt;![CDATA[豆包收费，中国大模型的分水岭]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977492.html</guid>
+      <title>42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战</title>
+      <link>https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉</title>
-      <link>http://www.geekpark.net/news/363719</link>
-      <description>&lt;![CDATA[谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363719</guid>
+      <title>第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司</title>
+      <link>https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
