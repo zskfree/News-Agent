@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 May 2026 23:55:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 23:56:33 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 07:44:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 07:45:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 大模型的「中文税」：中文比英文更费 Token，为什么？</title>
-      <link>http://www.geekpark.net/news/363717</link>
-      <description>&lt;![CDATA[AI 大模型的「中文税」：中文比英文更费 Token，为什么？]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363717</guid>
+      <title>马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱</title>
+      <link>https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”</title>
-      <link>https://www.tmtpost.com/7978166.html</link>
-      <description>&lt;![CDATA[AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7978166.html</guid>
+      <title>Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险</title>
+      <link>https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争</title>
-      <link>https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达入场！4亿美元融资背后，RISC-V迎来春天</title>
+      <link>https://www.tmtpost.com/7978288.html</link>
+      <description>&lt;![CDATA[英伟达入场！4亿美元融资背后，RISC-V迎来春天]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978288.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战</title>
-      <link>https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[42%的代码是AI写的，可96%的开发者不信它：谁敢拍板说“上线”？这成了2026年最大挑战]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e40mGRhF9o583Yi3akyM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！</title>
+      <link>https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司</title>
-      <link>https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>关节突围：中国具身智能减速器“爆单”</title>
+      <link>https://www.tmtpost.com/7978543.html</link>
+      <description>&lt;![CDATA[关节突围：中国具身智能减速器“爆单”]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978543.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 23:55
+**最后更新时间**: 2026-05-07 07:44
+
+---
+
+## 🆕 最新更新 (2026-05-07 07:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SoftBank shares surge as investors rush back into tech stocks](https://www.ft.com/content/ecaf9ade-9838-43e8-b581-7ef0d7e7811b)
+**发布时间**: 2026-05-07 07:12
+
+#### [Shell’s profits jump as Iran war delivers windfall](https://www.ft.com/content/4240b801-e680-4359-9962-7afe295e8e3e)
+**发布时间**: 2026-05-07 07:04
+
+#### [Emirates soars to record profit despite Iran war grounding planes](https://www.ft.com/content/17cb8949-7698-45a2-b9b8-832187e4e624)
+**发布时间**: 2026-05-07 06:00
+
+#### [Global stocks rise on hopes of US-Iran deal](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e)
+**发布时间**: 2026-05-07 05:08
+
+#### [Four ways Europe’s big immigration experiment has changed Spain](https://www.ft.com/content/3fe9dccf-7db2-48ac-b26a-9272251fa1d9)
+**发布时间**: 2026-05-07 04:00
+
+#### [Apple, Berkshire and the virtue of patience](https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6)
+**发布时间**: 2026-05-07 04:00
+
+#### [Tech rally hands hedge funds biggest gains since 2020](https://www.ft.com/content/df76569d-a840-42c4-8580-2d98bf1a16ce)
+**发布时间**: 2026-05-07 04:00
+
+#### [Norway in deep water over cod pact with Russia](https://www.ft.com/content/0b808cfb-dc17-4877-bee8-d7dd6b34af7b)
+**发布时间**: 2026-05-07 04:00
+
+#### [Jeffrey Epstein’s purported suicide note released by US judge](https://www.ft.com/content/b0fd8603-903f-47fd-a782-f6c4d20d04b2)
+**发布时间**: 2026-05-07 00:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hantavirus outbreaks rarely happen. This Andes strain is ‘a complicated public-health situation.’](https://www.marketwatch.com/story/hantavirus-outbreaks-rarely-happen-this-andes-strain-is-a-complicated-public-health-situation-b0c7dbb4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 02:15
+
+#### [My husband has a $225,000 pension. We don’t trust his ‘too big to fail’ employer. Where do we invest it?](https://www.marketwatch.com/story/my-husband-has-a-225-000-pension-we-dont-trust-his-too-big-to-fail-employer-where-do-we-invest-it-5aa53611?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 00:30
+
+#### [I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?](https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 23:56
 
 ---
 

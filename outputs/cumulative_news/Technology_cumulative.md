@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 23:55
+**最后更新时间**: 2026-05-07 07:44
+
+---
+
+## 🆕 最新更新 (2026-05-07 07:44)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱](https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:29
+
+#### [Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险](https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:02
+
+#### [JobRunr 发布开源 Java AI 智能体 ClawRunr](https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:00
+
+#### [VoidZero的实验性Oxc Angular编译器发布，构建性能提升高达20倍](https://www.infoq.cn/article/CBNdGC799hmFJhz5A7qH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:00
+
+#### [硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！](https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 14:58
+
+#### [AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题](https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:49
+
+#### [NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链](https://www.infoq.cn/article/fvrTEDzOC9OTbQxbzzJi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:06
+
+#### [DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题](https://www.infoq.cn/article/XDKzfzslwzf9vSz7xeUC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:04
+
+#### [京东 xLLM 的投机推理架构设计｜AICon上海](https://www.infoq.cn/article/wAml9HDVF8HuaQEhFesM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:00
+
+#### [Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了](https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [河北储能新政“淘汰赛”：15个月并网，超时出局，清单之外无补贴](https://www.tmtpost.com/7978624.html)
+**发布时间**: 2026-05-07 14:57
+
+#### [鸿蒙座舱升级背后，一场车内平台战已经开始](https://www.tmtpost.com/7978970.html)
+**发布时间**: 2026-05-07 14:35
+
+#### [国仪量子IPO：万亿国产替代“长坡厚雪”，终于等来一个破局者？](https://www.tmtpost.com/7978850.html)
+**发布时间**: 2026-05-07 14:28
+
+#### [泡泡玛特选择原谅，挡不住拓竹被“围攻”](https://www.tmtpost.com/7978551.html)
+**发布时间**: 2026-05-07 12:34
+
+#### [九个月，韩国多出100家万亿公司](https://www.tmtpost.com/7978547.html)
+**发布时间**: 2026-05-07 12:34
+
+#### [SOCAMM2，引爆内存圈](https://www.tmtpost.com/7978295.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [这届赛博居民，烦透了毫无“人味儿”的AI作品](https://www.tmtpost.com/7978366.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [硅谷大厂天才集体出逃，资本狂撒188亿美元](https://www.tmtpost.com/7978328.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [我们究竟还看不看得到2026年世界杯直播？](https://www.tmtpost.com/7978720.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [连续六周强劲去库存，铜市场发生了什么？](https://www.tmtpost.com/7978311.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [AI时代，三星怎么更猛了？](https://www.tmtpost.com/7978472.html)
+**发布时间**: 2026-05-07 11:32
+
+#### [蔚来技术下沉，乐道开始被检验](https://www.tmtpost.com/7978857.html)
+**发布时间**: 2026-05-07 11:30
+
+#### [AI数据中心需要保持冷却，这些股票可能会受益](https://www.tmtpost.com/7978828.html)
+**发布时间**: 2026-05-07 10:54
+
+#### [英伟达入场！4亿美元融资背后，RISC-V迎来春天](https://www.tmtpost.com/7978288.html)
+**发布时间**: 2026-05-07 10:53
+
+#### [激战大疆9个月，进击的影石在2026年继续“筑墙”](https://www.tmtpost.com/7978164.html)
+**发布时间**: 2026-05-07 10:53
+
+#### [算力告急、马斯克反转、Claude要当工程基础设施：Anthropic这场发布会说了什么](https://www.tmtpost.com/7978749.html)
+**发布时间**: 2026-05-07 10:53
+
+#### [淋浴房、衣帽间、大床房，为什么汽车公司依然在比拼这些？](https://www.tmtpost.com/7978274.html)
+**发布时间**: 2026-05-07 10:53
+
+#### [关节突围：中国具身智能减速器“爆单”](https://www.tmtpost.com/7978543.html)
+**发布时间**: 2026-05-07 10:53
+
+#### [美元走弱推动白银走高，贵金属正在大幅上涨](https://www.tmtpost.com/7978821.html)
+**发布时间**: 2026-05-07 10:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
+**发布时间**: 2026-05-07 11:00
+
+#### [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
+**发布时间**: 2026-05-07 08:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板](http://www.geekpark.net/news/363777)
+**发布时间**: 2026-05-07 09:00
+
+#### [传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道](http://www.geekpark.net/news/363775)
+**发布时间**: 2026-05-07 08:31
 
 ---
 

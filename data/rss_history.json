@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "96d57a04de4219f2bb459ac035510aab409362d7e172ba87c05ee02ff09d38e2": {
-        "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
-        "link": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 11:41:00 GMT",
-        "first_seen": "2026-04-07T06:21:59.156275"
-      },
-      "17c44c46fe77063cb357d196c910ea723bc1fd043bbec61e8f3e60d2191d53d7": {
-        "title": "从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 14:03:00 GMT",
-        "first_seen": "2026-04-07T06:21:59.156288"
-      },
-      "624c0eefd834fc599f6a48f0544ecf5e11f3a1c0f720f66007c3e050e9eea900": {
-        "title": "一场机器人黑客松，让具身智能的差距与机会同时显形",
-        "link": "https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 10:30:00 GMT",
-        "first_seen": "2026-04-07T06:21:59.156291"
-      },
-      "77fb49e7a3123e5ca57c64f8f074247b4cb1df3118cef41ede17b038d9a6a94b": {
-        "title": "将配置作为控制平面：设计安全可靠的大规模系统",
-        "link": "https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-07T06:21:59.156293"
-      },
-      "c600b329c85420c23629adc1145d4a8b6bcd359d19d1b0258769cbb812ba9007": {
-        "title": "美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报",
-        "link": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 10:29:00 GMT",
-        "first_seen": "2026-04-07T06:21:59.156295"
-      },
       "156e28441c400a7c5eb115119f19bf54b7c4cc0e1c606cca3a12974a0a62d139": {
         "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
         "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 06 May 2026 12:13:00 GMT",
         "first_seen": "2026-05-06T23:56:33.167506"
+      },
+      "f22a0012b587263f771d8bbabe17ec98151c8806ca11d1be0d01b214dc1dd75a": {
+        "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
+        "link": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 15:29:00 GMT",
+        "first_seen": "2026-05-07T07:45:07.566012"
+      },
+      "17d424d14e0af36d045e44e9688fcc801c87f407ec58e7a9d39f350d21bbf97b": {
+        "title": "Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险",
+        "link": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 15:02:00 GMT",
+        "first_seen": "2026-05-07T07:45:07.566019"
+      },
+      "04cfff64b9c373629ba3b87b3fe8daa7e74dc157348f21126eb98fc80b51ecbb": {
+        "title": "英伟达入场！4亿美元融资背后，RISC-V迎来春天",
+        "link": "https://www.tmtpost.com/7978288.html",
+        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-07T07:45:07.566021"
+      },
+      "3e9d80a3fd029c4222161d44d577e927a35ba25afe9071fc88bc6314dfe95965": {
+        "title": "硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！",
+        "link": "https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 14:58:00 GMT",
+        "first_seen": "2026-05-07T07:45:07.566023"
+      },
+      "d89511eb2dfa1ffd2642814e243a9710f72aa21fe5c443166e7683e2e331b59c": {
+        "title": "关节突围：中国具身智能减速器“爆单”",
+        "link": "https://www.tmtpost.com/7978543.html",
+        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-07T07:45:07.566024"
       }
     },
     "Finance": {
-      "cd309305fb1f60766dfdb855d3fa30747e3391fd692ca99648d27f0a37a85ba3": {
-        "title": "Anthropic in chips deals with Google and Broadcom worth hundreds of billions",
-        "link": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
-        "published_date": "Tue, 07 Apr 2026 00:46:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.106556"
-      },
-      "7739bbc687966ddf2c60055d0d88c4fdc1e6983e4949041459bbb3350873a979": {
-        "title": "The future of global trade won’t depend on the Strait of Hormuz",
-        "link": "https://www.ft.com/content/2c895663-16d5-4b7a-8c9b-45204c362c84",
-        "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.106563"
-      },
-      "a012b42a5913f3206eb8abfa80cccd0ee3ae843ecb925916a5448b0ba9eaf2f4": {
-        "title": "JPMorgan to build Canary Wharf’s tallest tower after City airport approval",
-        "link": "https://www.ft.com/content/e0734db0-f8af-4157-9576-d8b52329629f",
-        "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.106565"
-      },
-      "853c1eddc73cf9d3461598edc77877145daa03d7d03a28d3304a87f766fb6959": {
-        "title": "Jeff Bezos’s new lab hires xAI co-founder from OpenAI",
-        "link": "https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a",
-        "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.106567"
-      },
-      "25d0b86df22573e12bd8411e16c0fa122b6621ead6da3063def0248f521d3452": {
-        "title": "US counts cost of equipment destroyed in Iran war",
-        "link": "https://www.ft.com/content/9632cfaf-2ae1-4768-894f-3b7a0ddf1bea",
-        "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.106569"
-      },
       "5c36f19ba44ec40be558e1386fc42c2858bbc0e9f20ec5d1644fb8999fd3d028": {
         "title": "‘Fire Country’ star Diane Farr lists her longtime artist’s retreat in Los Angeles for $2.8 million",
         "link": "https://www.marketwatch.com/story/fire-country-stardiane-farr-lists-her-longtime-artists-retreat-in-los-angeles-for-2-8-million-45b9fb1b?mod=mw_rss_topstories",
@@ -4959,39 +4929,39 @@
         "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
         "published_date": "Wed, 06 May 2026 21:24:00 GMT",
         "first_seen": "2026-05-06T23:55:46.098705"
+      },
+      "2e4863c407e18e592a108f1608a8c4f9452441580ac08cd0b5748e826114afca": {
+        "title": "Global stocks rise on hopes of US-Iran deal",
+        "link": "https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e",
+        "published_date": "Thu, 07 May 2026 05:08:00 GMT",
+        "first_seen": "2026-05-07T07:44:35.043507"
+      },
+      "8f9e98aa9a9922dd1ed76ec285bd4bd4604d11518c95b9e939138107fa3a4373": {
+        "title": "Tech rally hands hedge funds biggest gains since 2020",
+        "link": "https://www.ft.com/content/df76569d-a840-42c4-8580-2d98bf1a16ce",
+        "published_date": "Thu, 07 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-07T07:44:35.043520"
+      },
+      "780a2db3c15f83f6e80e76ec7891893238787f78a7465b1bddd80ffbeffd1dbc": {
+        "title": "SoftBank shares surge as investors rush back into tech stocks",
+        "link": "https://www.ft.com/content/ecaf9ade-9838-43e8-b581-7ef0d7e7811b",
+        "published_date": "Thu, 07 May 2026 07:12:00 GMT",
+        "first_seen": "2026-05-07T07:44:35.043523"
+      },
+      "17682ccbdb0441c0c46cb0532bed939e1b109798ef8b53eb012d1db5f4989eea": {
+        "title": "Shell’s profits jump as Iran war delivers windfall",
+        "link": "https://www.ft.com/content/4240b801-e680-4359-9962-7afe295e8e3e",
+        "published_date": "Thu, 07 May 2026 07:04:00 GMT",
+        "first_seen": "2026-05-07T07:44:35.043525"
+      },
+      "b554c307ca6b7a56731b6088ab521ce9700bf22d3771e7b704834517f7c54d01": {
+        "title": "Apple, Berkshire and the virtue of patience",
+        "link": "https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6",
+        "published_date": "Thu, 07 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-07T07:44:35.043526"
       }
     },
     "Ai": {
-      "1699e680f806a4ccce23d8e7ec72195f1cf392153072b90a8822c258335c11d2": {
-        "title": "2026-04-07日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-07/",
-        "published_date": "Tue, 07 Apr 2026 09:57:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.245363"
-      },
-      "87f2fa1a93594106f6287d9ce533f53d2f5e19dd08064ed155ae9a2c436696de": {
-        "title": "下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问",
-        "link": "https://www.qbitai.com/2026/04/396955.html",
-        "published_date": "Tue, 07 Apr 2026 04:02:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.245371"
-      },
-      "f30bba77485cac960da45f91869e3ea3072d09b9b08f783a5f548168d1f0e86c": {
-        "title": "持续霸榜！阿里千问3.6Plus问鼎全球大模型调用周榜冠军",
-        "link": "https://www.qbitai.com/2026/04/396950.html",
-        "published_date": "Tue, 07 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.245373"
-      },
-      "54a1d392285c85023abfc1511f12673fd697b5121ddc7112b73b5fee2cbfa717": {
-        "title": "23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好",
-        "link": "https://www.qbitai.com/2026/04/396890.html",
-        "published_date": "Tue, 07 Apr 2026 02:36:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.245375"
-      },
-      "3309fe54866bb83ad267812d66f04fc277b3c5e4be60fa5cb4944aaa9cb33f16": {
-        "title": "Ilya曝光70页OpenAI绝密文件",
-        "link": "https://www.qbitai.com/2026/04/396880.html",
-        "published_date": "Tue, 07 Apr 2026 02:15:00 GMT",
-        "first_seen": "2026-04-07T06:22:09.245377"
-      },
       "9d03d4f9264f218470e4f59979019a1fe8e76c7dc1f6db866e848745780f9daa": {
         "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
         "link": "https://www.qbitai.com/2026/04/397523.html",
@@ -6377,13 +6347,43 @@
         "link": "https://www.qbitai.com/2026/05/413265.html",
         "published_date": "Wed, 06 May 2026 08:11:00 GMT",
         "first_seen": "2026-05-06T23:55:46.249946"
+      },
+      "a765316395f4dee0598b4bc5fdc865362e50138c3e74de7aee22a5d559a8d8d5": {
+        "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
+        "link": "https://www.qbitai.com/2026/05/413604.html",
+        "published_date": "Thu, 07 May 2026 04:36:00 GMT",
+        "first_seen": "2026-05-07T07:44:45.896994"
+      },
+      "95fc7fc02ae828be0b1bd81dff53146111283eaa45736e6bc406a20ee08b4180": {
+        "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+        "link": "https://www.qbitai.com/2026/05/413569.html",
+        "published_date": "Thu, 07 May 2026 01:13:00 GMT",
+        "first_seen": "2026-05-07T07:44:45.897001"
+      },
+      "046eb186198cdfe0864bfebaad743386b3a7bf9d78d8f8e381b9e14db6e4020f": {
+        "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
+        "link": "https://www.qbitai.com/2026/05/413613.html",
+        "published_date": "Thu, 07 May 2026 06:29:00 GMT",
+        "first_seen": "2026-05-07T07:44:45.897003"
+      },
+      "094875b77dc8239aa6b15ed614a883514584d31cdcc6b9e0fe44437c90d75c1f": {
+        "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+        "link": "https://www.qbitai.com/2026/05/413782.html",
+        "published_date": "Thu, 07 May 2026 06:35:00 GMT",
+        "first_seen": "2026-05-07T07:44:45.897005"
+      },
+      "7a1b93e4a9c63e253b646615282587828f3921376835092d004ebf9958c6ad31": {
+        "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
+        "link": "https://www.qbitai.com/2026/05/413591.html",
+        "published_date": "Thu, 07 May 2026 02:46:00 GMT",
+        "first_seen": "2026-05-07T07:44:45.897006"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-06T23:56:33.167508",
-    "Finance": "2026-05-06T23:55:46.098707",
-    "Ai": "2026-05-06T23:55:46.249949"
+    "Technology": "2026-05-07T07:45:07.566026",
+    "Finance": "2026-05-07T07:44:35.043529",
+    "Ai": "2026-05-07T07:44:45.897010"
   }
 }
