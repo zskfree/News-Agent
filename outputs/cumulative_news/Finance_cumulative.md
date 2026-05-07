@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-07 07:44
+**最后更新时间**: 2026-05-07 10:27
+
+---
+
+## 🆕 最新更新 (2026-05-07 10:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s the latest stock market to be leapfrogged by South Korea in the world rankings](https://www.marketwatch.com/story/heres-the-latest-stock-market-to-be-leapfrogged-by-south-korea-in-the-world-rankings-c5c18e22?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 09:36
+
+#### [‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?](https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 09:15
+
+#### [Comedian Pete Davidson lowers price of his Westchester home to $2.15 million](https://www.marketwatch.com/story/comedian-pete-davidson-lowers-price-of-his-westchester-home-to-2-15-million-c41162eb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 09:00
+
+#### [Two funds run by Blue Owl are cutting their dividend — and one sold half its SpaceX stake before IPO](https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 08:55
+
+#### [DoorDash’s results and outlook were mixed. The stock is soaring anyway.](https://www.marketwatch.com/story/doordashs-results-and-outlook-were-mixed-the-stock-is-soaring-anyway-4f449227?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 08:16
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK and US launch disease control measures over hantavirus](https://www.ft.com/content/d93941a2-027a-48d2-a65b-49f43f7ab350)
+**发布时间**: 2026-05-07 08:44
+
+#### [Maersk warns economic impact of Iran conflict will ripple for months](https://www.ft.com/content/dbc47c3a-fd89-4c4d-8246-91de6850df24)
+**发布时间**: 2026-05-07 07:25
+
+#### [Emirates to press ahead with expansion despite Middle East war](https://www.ft.com/content/17cb8949-7698-45a2-b9b8-832187e4e624)
+**发布时间**: 2026-05-07 06:00
+
+#### [Oil falls back below $100 and stocks rise on hopes of US-Iran deal](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e)
+**发布时间**: 2026-05-07 05:08
+
+#### [The Nordics and Canada are finding common cause](https://www.ft.com/content/895889c5-9cba-4014-8476-3de5caa1bd57)
+**发布时间**: 2026-05-07 04:00
+
+#### [Epstein’s purported suicide note released by US judge](https://www.ft.com/content/b0fd8603-903f-47fd-a782-f6c4d20d04b2)
+**发布时间**: 2026-05-07 00:29
 
 ---
 

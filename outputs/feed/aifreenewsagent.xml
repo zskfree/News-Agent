@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 May 2026 07:43:00 GMT</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 07:44:45 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 10:25:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 10:28:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标</title>
-      <link>https://www.qbitai.com/2026/05/413604.html</link>
-      <description>&lt;![CDATA[英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 04:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413604.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力</title>
-      <link>https://www.qbitai.com/2026/05/413569.html</link>
-      <description>&lt;![CDATA[马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 01:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413569.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台</title>
-      <link>https://www.qbitai.com/2026/05/413613.html</link>
-      <description>&lt;![CDATA[波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 06:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413613.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态</title>
-      <link>https://www.qbitai.com/2026/05/413782.html</link>
-      <description>&lt;![CDATA[云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 06:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413782.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家</title>
-      <link>https://www.qbitai.com/2026/05/413591.html</link>
-      <description>&lt;![CDATA[Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 02:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413591.html</guid>
+      <title>2026-05-07日刊</title>
+      <link>https://ai.hubtoday.app//2026-05/2026-05-07/</link>
+      <description>&lt;![CDATA[2026-05-07日刊]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-07/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 May 2026 07:44:00 GMT</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 07:45:07 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 10:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 10:29:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱</title>
-      <link>https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道</title>
+      <link>http://www.geekpark.net/news/363775</link>
+      <description>&lt;![CDATA[传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 08:31:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363775</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险</title>
-      <link>https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>英伟达入场！4亿美元融资背后，RISC-V迎来春天</title>
-      <link>https://www.tmtpost.com/7978288.html</link>
-      <description>&lt;![CDATA[英伟达入场！4亿美元融资背后，RISC-V迎来春天]]&gt;</description>
+      <title>算力告急、马斯克反转、Claude要当工程基础设施：Anthropic这场发布会说了什么</title>
+      <link>https://www.tmtpost.com/7978749.html</link>
+      <description>&lt;![CDATA[算力告急、马斯克反转、Claude要当工程基础设施：Anthropic这场发布会说了什么]]&gt;</description>
       <pubDate>Thu, 07 May 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7978288.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！</title>
-      <link>https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷大厂天才集体出逃，资本狂撒188亿美元</title>
+      <link>https://www.tmtpost.com/7978328.html</link>
+      <description>&lt;![CDATA[硅谷大厂天才集体出逃，资本狂撒188亿美元]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978328.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>关节突围：中国具身智能减速器“爆单”</title>
-      <link>https://www.tmtpost.com/7978543.html</link>
-      <description>&lt;![CDATA[关节突围：中国具身智能减速器“爆单”]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7978543.html</guid>
+      <title>重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标</title>
+      <link>https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了</title>
+      <link>https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "156e28441c400a7c5eb115119f19bf54b7c4cc0e1c606cca3a12974a0a62d139": {
-        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
-        "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.488288"
-      },
-      "4598d6bb802c682bd00eb421918211a6011b81ad17a5c7ecf19b2daf91a15e49": {
-        "title": "ProxySQL推出多层的版本发布策略",
-        "link": "https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.488300"
-      },
-      "0309f67be8806e9952668d83e25223e07377106c90f566743041be16c822b125": {
-        "title": "派早报：OpenAI 发布文章探讨 AI 时代的政策建议等",
-        "link": "https://sspai.com/post/108326",
-        "published_date": "Tue, 07 Apr 2026 08:18:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.488303"
-      },
-      "39307ef7f4be8bb5d2fe86a99722210824232f91bb03c22e8f3ef280c8758400": {
-        "title": "力控与运控的融合，共话具身智能“小脑”进化的破局之道",
-        "link": "https://www.tmtpost.com/7941651.html",
-        "published_date": "Tue, 07 Apr 2026 16:53:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.488306"
-      },
-      "e720f15bf2fdfcc29000d231aa578ee0b45078acbe0371616d1ab552adb10faf": {
-        "title": "Token浪潮之下，中国互联网座次重排",
-        "link": "https://www.tmtpost.com/7943462.html",
-        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.488308"
-      },
       "02ccccfcc15f14f6f51e1dcf825b9b7908454e6b037f4488d9f32fef70aff16d": {
         "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
         "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7978543.html",
         "published_date": "Thu, 07 May 2026 10:53:00 GMT",
         "first_seen": "2026-05-07T07:45:07.566024"
+      },
+      "b57ac7e5d22028e3e2a037acd1fdebe611042c51ac6e8eff088f5e57aa446278": {
+        "title": "传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道",
+        "link": "http://www.geekpark.net/news/363775",
+        "published_date": "Thu, 07 May 2026 08:31:00 GMT",
+        "first_seen": "2026-05-07T10:29:00.509448"
+      },
+      "da989527cdfcf486f2c23bc8aac79e486a9d4cb4877996b8029060d51705cb4a": {
+        "title": "算力告急、马斯克反转、Claude要当工程基础设施：Anthropic这场发布会说了什么",
+        "link": "https://www.tmtpost.com/7978749.html",
+        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-07T10:29:00.509456"
+      },
+      "259a0af549ac6fe8a0a0b55a4985a27591aa7d7760e7c184998688bf8e6db946": {
+        "title": "硅谷大厂天才集体出逃，资本狂撒188亿美元",
+        "link": "https://www.tmtpost.com/7978328.html",
+        "published_date": "Thu, 07 May 2026 11:32:00 GMT",
+        "first_seen": "2026-05-07T10:29:00.509458"
+      },
+      "6f363e511957bc8c5c1305afd9d10fdf9bdd6c654adbb4c668c073d9009dabb4": {
+        "title": "重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标",
+        "link": "https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-07T10:29:00.509460"
+      },
+      "7fede6ca0d77d437eb52a218d0dc6244b64e61191fc3eea65dcb8afbef7f1cd9": {
+        "title": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "link": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-07T10:29:00.509461"
       }
     },
     "Finance": {
-      "5c36f19ba44ec40be558e1386fc42c2858bbc0e9f20ec5d1644fb8999fd3d028": {
-        "title": "‘Fire Country’ star Diane Farr lists her longtime artist’s retreat in Los Angeles for $2.8 million",
-        "link": "https://www.marketwatch.com/story/fire-country-stardiane-farr-lists-her-longtime-artists-retreat-in-los-angeles-for-2-8-million-45b9fb1b?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 09:02:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.531289"
-      },
-      "f446f8949f99618dc851ce3c92cd13abed67328357f1e7cb0a5c3a425a56df29": {
-        "title": "Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring",
-        "link": "https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.531297"
-      },
-      "1c426211f2074508cf7a838c7e874a7984e73324f7160f3f9360b52be777b240": {
-        "title": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
-        "link": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:33:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.531307"
-      },
-      "ce246de4775940844d75b248cf223c0025b378600cb67268ccfc9e991bf171ef": {
-        "title": "Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200",
-        "link": "https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:30:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.531308"
-      },
-      "1011b505e5cd9eb4fa3b35e751b5e39ca342a30c33ee853019e8f06dc320fa67": {
-        "title": "Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal",
-        "link": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
-        "published_date": "Tue, 07 Apr 2026 07:17:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.531310"
-      },
       "b3a3c43cf33e715e2ab548cc326e0985593b9b3391995a59cddc8cc50126f56c": {
         "title": "IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds",
         "link": "https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f",
@@ -4959,21 +4929,39 @@
         "link": "https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6",
         "published_date": "Thu, 07 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-07T07:44:35.043526"
+      },
+      "8a11bbad4d479861cb26891a05cbace2343bfd6c9514850122e2d00a7bcbc549": {
+        "title": "Two funds run by Blue Owl are cutting their dividend — and one sold half its SpaceX stake before IPO",
+        "link": "https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 08:55:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.650948"
+      },
+      "6727b8354dbe3ac5e9ba485cbb7696f4d7c94768ef13f8064786d5bc959d6ce1": {
+        "title": "DoorDash’s results and outlook were mixed. The stock is soaring anyway.",
+        "link": "https://www.marketwatch.com/story/doordashs-results-and-outlook-were-mixed-the-stock-is-soaring-anyway-4f449227?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 08:16:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.650958"
+      },
+      "0b4e6ce443bcaab937f1465806c697548af97b9747417a456bdaa26c8e4b425a": {
+        "title": "Here’s the latest stock market to be leapfrogged by South Korea in the world rankings",
+        "link": "https://www.marketwatch.com/story/heres-the-latest-stock-market-to-be-leapfrogged-by-south-korea-in-the-world-rankings-c5c18e22?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:36:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.650961"
+      },
+      "ceb308b1b253ed941702bfa621ac163c3c16f70ab71a9d05e3f96be7372b5ca6": {
+        "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.650963"
+      },
+      "d2ee68240867bcfcc8fa42981eb84333e6391a57edf8a6e41d7f6832d9913044": {
+        "title": "Comedian Pete Davidson lowers price of his Westchester home to $2.15 million",
+        "link": "https://www.marketwatch.com/story/comedian-pete-davidson-lowers-price-of-his-westchester-home-to-2-15-million-c41162eb?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.650965"
       }
     },
     "Ai": {
-      "9d03d4f9264f218470e4f59979019a1fe8e76c7dc1f6db866e848745780f9daa": {
-        "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
-        "link": "https://www.qbitai.com/2026/04/397523.html",
-        "published_date": "Tue, 07 Apr 2026 08:22:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.686063"
-      },
-      "27c6ec93f1b9f0675330204d1bd41b02498558522a7cad30bf3efcdaf0ec8dfd": {
-        "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
-        "link": "https://www.qbitai.com/2026/04/397517.html",
-        "published_date": "Tue, 07 Apr 2026 07:34:00 GMT",
-        "first_seen": "2026-04-07T09:07:10.686071"
-      },
       "049a647077525cd86edcdee2ebe5569ec7e7f2fad4626ba7494097c1fefcda4a": {
         "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
         "link": "https://www.qbitai.com/2026/04/397610.html",
@@ -6377,13 +6365,19 @@
         "link": "https://www.qbitai.com/2026/05/413591.html",
         "published_date": "Thu, 07 May 2026 02:46:00 GMT",
         "first_seen": "2026-05-07T07:44:45.897006"
+      },
+      "f1c8e71b95f5611c46d6bf026e37e6987979fd394a37689b8da505086ec153c6": {
+        "title": "2026-05-07日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
+        "published_date": "Thu, 07 May 2026 10:50:00 GMT",
+        "first_seen": "2026-05-07T10:28:35.802462"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-07T07:45:07.566026",
-    "Finance": "2026-05-07T07:44:35.043529",
-    "Ai": "2026-05-07T07:44:45.897010"
+    "Technology": "2026-05-07T10:29:00.509463",
+    "Finance": "2026-05-07T10:28:35.650968",
+    "Ai": "2026-05-07T10:28:35.802471"
   }
 }
