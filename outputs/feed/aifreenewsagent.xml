@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 May 2026 10:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 10:28:35 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 23:53:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 23:56:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-07日刊</title>
-      <link>https://ai.hubtoday.app//2026-05/2026-05-07/</link>
-      <description>&lt;![CDATA[2026-05-07日刊]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-07/</guid>
+      <title>原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡</title>
+      <link>https://www.qbitai.com/2026/05/413912.html</link>
+      <description>&lt;![CDATA[原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/413912.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？</title>
+      <link>https://www.qbitai.com/2026/05/414006.html</link>
+      <description>&lt;![CDATA[离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414006.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "02ccccfcc15f14f6f51e1dcf825b9b7908454e6b037f4488d9f32fef70aff16d": {
-        "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
-        "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 19:51:00 GMT",
-        "first_seen": "2026-04-07T23:41:29.800188"
-      },
-      "987ed53213dbcf30dcc40bf731e4855c170bb099fbaf6dbd1a9c071f84fd448e": {
-        "title": "美国AI三巨头围剿模型蒸馏，中国公司终要大考",
-        "link": "https://www.tmtpost.com/7944117.html",
-        "published_date": "Tue, 07 Apr 2026 21:25:00 GMT",
-        "first_seen": "2026-04-07T23:41:29.800194"
-      },
-      "d13c0b78417867565a9de47b437692dac0954124ce24a40df65ed268dbb6c1ca": {
-        "title": "半导体设备国产化，进入下半场",
-        "link": "https://www.tmtpost.com/7943468.html",
-        "published_date": "Tue, 07 Apr 2026 14:28:00 GMT",
-        "first_seen": "2026-04-07T23:41:29.800197"
-      },
-      "d3812d7595161263582a5468f90b126afe18ba7f965b02985fb38a6c1ca39c42": {
-        "title": "7个顶级AI集体撒谎，为救“同伴”篡改文件、偷运数据",
-        "link": "https://www.tmtpost.com/7941675.html",
-        "published_date": "Tue, 07 Apr 2026 10:55:00 GMT",
-        "first_seen": "2026-04-07T23:41:29.800198"
-      },
-      "cc1e262e806019ebc53fd7b5ba4f24d110eaab7b47ee79a0bd7f1e2b0fff7a55": {
-        "title": "【钛晨报】李强签署国务院令，公布《国务院关于产业链供应链安全的规定》；中国央行连续第17个月增持黄金；“GPT-4o之母”宣布离职OpenAI",
-        "link": "https://www.tmtpost.com/7944317.html",
-        "published_date": "Wed, 08 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-07T23:41:29.800200"
-      },
       "5290e760e80c9b98793897a5314e3a5f48707bfe2bab9a9d79d1b888d0b210d8": {
         "title": "银行业云原生事件驱动架构实践：经验与教训",
         "link": "https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 07 May 2026 08:00:00 GMT",
         "first_seen": "2026-05-07T10:29:00.509461"
+      },
+      "e76f5bc763e943f3f1437bf684ce4aef473b6431dff022f4006ade7ee5203e0b": {
+        "title": "AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题",
+        "link": "https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 10:49:00 GMT",
+        "first_seen": "2026-05-07T23:57:04.283122"
+      },
+      "dccd7dcbf503c33056ea7bfec9669ecb56e58d9c30649a55567d44d25fd66989": {
+        "title": "国仪量子IPO：万亿国产替代“长坡厚雪”，终于等来一个破局者？",
+        "link": "https://www.tmtpost.com/7978850.html",
+        "published_date": "Thu, 07 May 2026 14:28:00 GMT",
+        "first_seen": "2026-05-07T23:57:04.283128"
+      },
+      "653f454110e225dd6b6b747b7dcdd1f99f8b66cb1dca2d9175f831043a875e9e": {
+        "title": "豆包的价格战，打出了定价权",
+        "link": "https://www.tmtpost.com/7978796.html",
+        "published_date": "Thu, 07 May 2026 17:44:00 GMT",
+        "first_seen": "2026-05-07T23:57:04.283131"
+      },
+      "592fad1b1213f53f9603f2afdc2d0c31ab2afa1a08cf0400d2c4fa14bd9793a9": {
+        "title": "像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent",
+        "link": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 18:24:00 GMT",
+        "first_seen": "2026-05-07T23:57:04.283133"
+      },
+      "fa7eaffbf5133ef50e48022d870476554145b08bc0e7911988953e4f27eae58f": {
+        "title": "鸿蒙座舱升级背后，一场车内平台战已经开始",
+        "link": "https://www.tmtpost.com/7978970.html",
+        "published_date": "Thu, 07 May 2026 14:35:00 GMT",
+        "first_seen": "2026-05-07T23:57:04.283135"
       }
     },
     "Finance": {
-      "b3a3c43cf33e715e2ab548cc326e0985593b9b3391995a59cddc8cc50126f56c": {
-        "title": "IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds",
-        "link": "https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f",
-        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.627138"
-      },
-      "e934df4a54ce755fecfe7c0c02b6ab2aae7cb8908417dbbd484734a681fc0ac0": {
-        "title": "Hedge funds make record bets against European stocks",
-        "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
-        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.627147"
-      },
-      "29754b0d27388a735bbf2b3c14e7886f1f0a51d8d0e57e755ab9ccb420fa6aa8": {
-        "title": "Donald Trump declares two-week ‘ceasefire’ subject to Iran opening Strait of Hormuz",
-        "link": "https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906",
-        "published_date": "Tue, 07 Apr 2026 22:51:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.627149"
-      },
-      "685a45626ce56834784ee9eab047640ac1fa2d7685f20db6e34ccba925e6d649": {
-        "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran",
-        "link": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 23:11:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.627151"
-      },
-      "1468fc54d8a738c8512b000741f8550cb7beb796582340582c9681389b33d026": {
-        "title": "CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation",
-        "link": "https://www.marketwatch.com/story/crowdstrike-palo-alto-networks-shares-pop-as-cybersecurity-bulls-finally-get-some-ai-validation-6233a7e8?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 21:42:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.627153"
-      },
       "15f1bd13039d574928dd3186a2a841b9ed7d6e144c9a828a6051a309044c5c7a": {
         "title": "US and Iran agree 2-week ceasefire that will open Strait of Hormuz",
         "link": "https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f",
@@ -4959,21 +4929,39 @@
         "link": "https://www.marketwatch.com/story/comedian-pete-davidson-lowers-price-of-his-westchester-home-to-2-15-million-c41162eb?mod=mw_rss_topstories",
         "published_date": "Thu, 07 May 2026 09:00:00 GMT",
         "first_seen": "2026-05-07T10:28:35.650965"
+      },
+      "60ad531e475a8c834c9ea409d7de45a3ec0922db43c71e9bc175a9d409f34f12": {
+        "title": "There’s a new worry keeping Treasury yields and borrowing costs higher",
+        "link": "https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 22:41:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.583401"
+      },
+      "128693ab1a3a21674d2a45d69dbf2e2c086e22234cdc4f2000608e0c1fddb646": {
+        "title": "Trump’s 10% global tariff ruled illegal by US court",
+        "link": "https://www.ft.com/content/a53ed6cc-bbef-4527-a19c-8041118e3661",
+        "published_date": "Thu, 07 May 2026 23:09:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.583409"
+      },
+      "10e1bfc80a4874d922ab7d8f2ef3d124b57badbaab73b2e939cb0a66d746522b": {
+        "title": "Wall Street rebound driven by smallest number of stocks on record",
+        "link": "https://www.ft.com/content/7599af3b-2184-4538-8ef9-370e01c1aaa8",
+        "published_date": "Thu, 07 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.583412"
+      },
+      "9c47ea21079484023c66ee455f12722fa27646ad04be09227c33afc3da458224": {
+        "title": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
+        "link": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 22:48:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.583414"
+      },
+      "abfa0e74d1f854a514c5cc349ff50a3259cd8489484c059eb228f5badcdc1483": {
+        "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+        "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 23:34:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.583415"
       }
     },
     "Ai": {
-      "049a647077525cd86edcdee2ebe5569ec7e7f2fad4626ba7494097c1fefcda4a": {
-        "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
-        "link": "https://www.qbitai.com/2026/04/397610.html",
-        "published_date": "Tue, 07 Apr 2026 09:13:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.778755"
-      },
-      "38fe0a2c317397f525a65e19e2942b7adc29b64d0d41a75e260c62d9652b9ac9": {
-        "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
-        "link": "https://www.qbitai.com/2026/04/397576.html",
-        "published_date": "Tue, 07 Apr 2026 09:09:00 GMT",
-        "first_seen": "2026-04-07T23:41:05.778763"
-      },
       "972fbf7d984f8f0d1522597ddb4c30978b78ca3ff7b34c43529085fbdefb0f0d": {
         "title": "2026-04-08日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-08/",
@@ -6371,13 +6359,25 @@
         "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
         "published_date": "Thu, 07 May 2026 10:50:00 GMT",
         "first_seen": "2026-05-07T10:28:35.802462"
+      },
+      "7fa4b0355a32f363a2883dde56336bdf4a212318bf006d169d006e57f5c64202": {
+        "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+        "link": "https://www.qbitai.com/2026/05/413912.html",
+        "published_date": "Thu, 07 May 2026 15:54:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.734259"
+      },
+      "b9b196d440be53a4bb5371383bc98875fc36b86b5a60bebebb148184a81ae6b4": {
+        "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+        "link": "https://www.qbitai.com/2026/05/414006.html",
+        "published_date": "Thu, 07 May 2026 14:01:00 GMT",
+        "first_seen": "2026-05-07T23:56:32.734266"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-07T10:29:00.509463",
-    "Finance": "2026-05-07T10:28:35.650968",
-    "Ai": "2026-05-07T10:28:35.802471"
+    "Technology": "2026-05-07T23:57:04.283137",
+    "Finance": "2026-05-07T23:56:32.583417",
+    "Ai": "2026-05-07T23:56:32.734269"
   }
 }

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-07 10:27
+**最后更新时间**: 2026-05-07 23:56
+
+---
+
+## 🆕 最新更新 (2026-05-07 23:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs](https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 23:34
+
+#### [Airbnb is seeing some of its fastest growth from this surprising segment](https://www.marketwatch.com/story/airbnb-is-seeing-some-of-its-fastest-growth-from-this-surprising-segment-7e1b6320?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 23:15
+
+#### [Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.](https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:48
+
+#### [CoreWeave shares plunge. Revenue doubles but AI costs are rising.](https://www.marketwatch.com/story/coreweave-reports-unprecedented-100-billion-backlog-but-that-comes-at-a-cost-98b385c7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:46
+
+#### [There’s a new worry keeping Treasury yields and borrowing costs higher](https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:41
+
+#### [‘Americans are not great at managing money’: Social Security and Medicare saved my father from financial ruin](https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:30
+
+#### [Rocket Lab’s stock rises upon new signs its business is expanding rapidly](https://www.marketwatch.com/story/rocket-labs-stock-rises-upon-new-signs-its-business-is-expanding-rapidly-dc7abdfc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:21
+
+#### [A key sector has been AWOL from the stock-market rally. Investors should be worried.](https://www.marketwatch.com/story/a-key-sector-has-been-awol-from-the-stock-market-rally-investors-should-be-worried-43822eb5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:09
+
+#### [Iren’s stock soars as a major Nvidia investment overshadows revenue shortfall](https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 22:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s 10% global tariff ruled illegal by US court](https://www.ft.com/content/a53ed6cc-bbef-4527-a19c-8041118e3661)
+**发布时间**: 2026-05-07 23:09
+
+#### [Trump extends EU trade deal deadline while issuing fresh threat](https://www.ft.com/content/10714a34-2976-4edd-bede-e892eff02d45)
+**发布时间**: 2026-05-07 22:34
+
+#### [US and Iran clash in Hormuz as ceasefire comes under strain](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e)
+**发布时间**: 2026-05-07 21:47
+
+#### [US fund threatens to divest TotalEnergies stake over offshore wind exit](https://www.ft.com/content/b43072b2-ca72-4db5-87fb-2bb11f78f061)
+**发布时间**: 2026-05-07 19:23
+
+#### [Trump halted ‘Project Freedom’ after Saudi Arabia withheld support](https://www.ft.com/content/13070f17-854d-460e-b97f-9ea535d93e64)
+**发布时间**: 2026-05-07 19:05
+
+#### [‘Blissful ignorance’: Milken elite bask in glow of roaring markets](https://www.ft.com/content/383df7c6-7111-49df-82ef-899bbdb3e419)
+**发布时间**: 2026-05-07 18:00
+
+#### [NBA offers $3bn to jump-start European basketball league](https://www.ft.com/content/968841fa-b826-45bf-9f8f-ff6e8690ec16)
+**发布时间**: 2026-05-07 15:26
+
+#### [Wall Street rebound driven by smallest number of stocks on record](https://www.ft.com/content/7599af3b-2184-4538-8ef9-370e01c1aaa8)
+**发布时间**: 2026-05-07 14:00
+
+#### [Let’s stop blaming retail investors for wonky markets](https://www.ft.com/content/0469a3e5-f1be-46e8-9604-464de57229fa)
+**发布时间**: 2026-05-07 13:57
+
+#### [Can Europe close the AI gap with the US and China?](https://www.ft.com/content/c632ca9b-90d6-4ca8-a370-5fc65adfafe6)
+**发布时间**: 2026-05-07 11:00
+
+#### [‘Maga divorce’: how Trump’s Iran war is splitting the US right](https://www.ft.com/content/32d37b38-9585-487d-898e-337672d071da)
+**发布时间**: 2026-05-07 04:00
 
 ---
 
