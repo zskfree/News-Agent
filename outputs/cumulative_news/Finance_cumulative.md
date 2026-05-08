@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-08 09:25
+**最后更新时间**: 2026-05-08 23:59
+
+---
+
+## 🆕 最新更新 (2026-05-08 23:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Labour MPs call on Keir Starmer to quit after heavy election defeat](https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b)
+**发布时间**: 2026-05-08 22:51
+
+#### [Trump expected to fire head of Food and Drug Administration](https://www.ft.com/content/83c91e61-4397-4fcc-833f-c5c82acb4447)
+**发布时间**: 2026-05-08 22:29
+
+#### [Turkey unveils new ICBM — touted as able to hit the US mainland](https://www.ft.com/content/d2136091-9fd2-4923-b168-50539e5b27ab)
+**发布时间**: 2026-05-08 21:13
+
+#### [LNG carriers test Iran blockade in Strait of Hormuz](https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d)
+**发布时间**: 2026-05-08 19:59
+
+#### [Trump says Russia and Ukraine agree 3-day ceasefire and prisoner swap](https://www.ft.com/content/7e9cb5d9-277e-43ba-9ba1-5f45f3bef7f9)
+**发布时间**: 2026-05-08 19:41
+
+#### [Jane Street earned $10bn in first quarter as it doubled trading revenue](https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a)
+**发布时间**: 2026-05-08 19:23
+
+#### [US Democrats handed midterm election blow by Virginia court](https://www.ft.com/content/e5b481a1-c506-43b5-8669-f31a8254a829)
+**发布时间**: 2026-05-08 16:55
+
+#### [While AI pumps up portfolios, some companies sound the alarm](https://www.ft.com/content/9fc6274f-8455-4728-bda7-d2ced906bdd6)
+**发布时间**: 2026-05-08 16:26
+
+#### [Markets are banking on the ‘Bliss trade’](https://www.ft.com/content/60f60089-9486-481c-859c-f29b8ccbbd90)
+**发布时间**: 2026-05-08 15:25
+
+#### [Ryan Cohen, the rebel CEO who disdains corporate America](https://www.ft.com/content/c0023a3e-08ec-44e8-80a6-f9abb343c52e)
+**发布时间**: 2026-05-08 14:43
+
+#### [Premature obituaries for populism](https://www.ft.com/content/8477bd25-0777-493e-8b66-02157fe30fd6)
+**发布时间**: 2026-05-08 13:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.](https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 22:14
+
+#### [Dunkin’ is making its return to the stock market — with a new twist](https://www.marketwatch.com/story/dunkin-is-making-its-return-to-the-stock-market-with-a-new-twist-c89f1cc2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 22:07
+
+#### [Gold has climbed back above a key trend line. Are more gains on the way?](https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 21:44
+
+#### [No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming](https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 21:29
+
+#### [AMD, Micron shares surge on a big day for chip-sector outperformance](https://www.marketwatch.com/story/amd-micron-shares-surge-on-a-big-day-for-chip-sector-outperformance-fe2d5306?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 21:07
+
+#### [Ageism is corporate self-sabotage — America’s ‘brain drain’ is costing shareholders billions](https://www.marketwatch.com/story/ageism-is-still-an-acceptable-bias-among-employers-and-its-costing-shareholders-billions-aa308465?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 20:39
+
+#### [Intel’s stock achieves a never-before-seen feat as Apple enthusiasm builds](https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 20:12
+
+#### [Kevin Warsh is right about Fed reform — but his inflation solution is a trap](https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 19:47
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 May 2026 06:52:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 May 2026 06:55:03 GMT</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 23:57:00 GMT</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 23:59:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-08日刊</title>
-      <link>https://ai.hubtoday.app//2026-05/2026-05-08/</link>
-      <description>&lt;![CDATA[2026-05-08日刊]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-05/2026-05-08/</guid>
+      <title>持续领跑！商汤大装置稳居中国MaaS市场第一梯队</title>
+      <link>https://www.qbitai.com/2026/05/414428.html</link>
+      <description>&lt;![CDATA[持续领跑！商汤大装置稳居中国MaaS市场第一梯队]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414428.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价</title>
-      <link>https://www.qbitai.com/2026/05/414194.html</link>
-      <description>&lt;![CDATA[GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 04:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414194.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验</title>
-      <link>https://www.qbitai.com/2026/05/414156.html</link>
-      <description>&lt;![CDATA[特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 04:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414156.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行</title>
-      <link>https://www.qbitai.com/2026/05/414141.html</link>
-      <description>&lt;![CDATA[所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 04:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414141.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>第一批「AI原生」本科生，要毕业了</title>
-      <link>https://www.qbitai.com/2026/05/414125.html</link>
-      <description>&lt;![CDATA[第一批「AI原生」本科生，要毕业了]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 04:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414125.html</guid>
+      <title>Redis之父下场，给DeepSeek V4单独造了一台推理引擎</title>
+      <link>https://www.qbitai.com/2026/05/414316.html</link>
+      <description>&lt;![CDATA[Redis之父下场，给DeepSeek V4单独造了一台推理引擎]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414316.html</guid>
       <category>Ai</category>
     </item>
   </channel>
