@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-07 23:56
+**最后更新时间**: 2026-05-08 06:54
+
+---
+
+## 🆕 最新更新 (2026-05-08 06:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [CDK4/6的下半场，正大天晴拿到了“重塑雕像的权力”](https://www.tmtpost.com/7980336.html)
+**发布时间**: 2026-05-08 13:55
+
+#### [3000亿估值，国资和投资人都在等梁文锋点头](https://www.tmtpost.com/7980468.html)
+**发布时间**: 2026-05-08 13:29
+
+#### [两位女证人亮相，让马斯克诉OpenAI案更抓马](https://www.tmtpost.com/7980480.html)
+**发布时间**: 2026-05-08 13:21
+
+#### [豆包收费辩证透视：免费的，为何才是最贵的？](https://www.tmtpost.com/7980560.html)
+**发布时间**: 2026-05-08 13:14
+
+#### [狂开5400家，三大本土酒店巨头“重兵”合围中端市场](https://www.tmtpost.com/7980484.html)
+**发布时间**: 2026-05-08 13:08
+
+#### [丰田不急，比亚迪必须快](https://www.tmtpost.com/7980482.html)
+**发布时间**: 2026-05-08 13:03
+
+#### [AI有嘴了，OpenAI连发三语音模型](https://www.tmtpost.com/7980476.html)
+**发布时间**: 2026-05-08 12:59
+
+#### [百济神州一季报，聊聊我的观感](https://www.tmtpost.com/7980302.html)
+**发布时间**: 2026-05-08 12:55
+
+#### [豆包和OpenAI，都走在互联网变现的老路上](https://www.tmtpost.com/7980471.html)
+**发布时间**: 2026-05-08 12:51
+
+#### [山西煤老板，买了颗卫星](https://www.tmtpost.com/7980465.html)
+**发布时间**: 2026-05-08 12:44
+
+#### [今年涨幅第一的光伏概念股，竟然是他？！](https://www.tmtpost.com/7979763.html)
+**发布时间**: 2026-05-08 12:38
+
+#### [《消失的人》，冲击7亿](https://www.tmtpost.com/7979758.html)
+**发布时间**: 2026-05-08 12:32
+
+#### [中国31家巨头狂造机器人，美国巨头为何零下场？](https://www.tmtpost.com/7980470.html)
+**发布时间**: 2026-05-08 12:32
+
+#### [华为系，批量孵化IPO](https://www.tmtpost.com/7980459.html)
+**发布时间**: 2026-05-08 12:31
+
+#### [史玉柱，无法“删除”自己](https://www.tmtpost.com/7980430.html)
+**发布时间**: 2026-05-08 12:31
+
+#### [判赔4.2亿美元，移动游戏出现史上最大虚假广告案？](https://www.tmtpost.com/7980376.html)
+**发布时间**: 2026-05-08 12:29
+
+#### [最近，南都电源很惨，但它手里其实还藏着两张翻盘的底牌](https://www.tmtpost.com/7980291.html)
+**发布时间**: 2026-05-08 12:29
+
+#### [快消巨头狂卷AI营销：效率拉满之后，问题浮出水面](https://www.tmtpost.com/7980423.html)
+**发布时间**: 2026-05-08 12:26
+
+#### [Claude“入侵”Office，微软要放弃Copilot了吗？](https://www.tmtpost.com/7980473.html)
+**发布时间**: 2026-05-08 12:26
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533532&idx=1&sn=311891bc2e17d02f132090f4197eb1da)
+**发布时间**: 2026-05-08 12:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent时代需要怎样的分布式基础设施](https://www.infoq.cn/article/qYQfpT8BaIPEkbeSXwzu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 11:34
+
+#### [算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海](https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
+**发布时间**: 2026-05-08 11:30
+
+#### [派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
+**发布时间**: 2026-05-08 08:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」](http://www.geekpark.net/news/363813)
+**发布时间**: 2026-05-08 08:10
 
 ---
 

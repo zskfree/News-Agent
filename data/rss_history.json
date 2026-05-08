@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5290e760e80c9b98793897a5314e3a5f48707bfe2bab9a9d79d1b888d0b210d8": {
-        "title": "银行业云原生事件驱动架构实践：经验与教训",
-        "link": "https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-08T06:22:53.842579"
-      },
-      "deb4dd34a7b7c9bf97665f0c9b93c5f454eaf5220ffa734fe929e45a797724e8": {
-        "title": "从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-08T06:22:53.842588"
-      },
-      "736837481d555e060ceaa73fb4ed970a371178bb136181d86a1a38d4de6aa5e9": {
-        "title": "算力“上天”：太空计算的必然性与紧迫性",
-        "link": "https://www.tmtpost.com/7944835.html",
-        "published_date": "Wed, 08 Apr 2026 11:17:00 GMT",
-        "first_seen": "2026-04-08T06:22:53.842591"
-      },
-      "b89375df46f29235f47e7a1a95d5a6f88a47393009e198fc32423d2aef2439d6": {
-        "title": "Nuxt Test Utils v4：基于Vitest v4，重构mock机制并强化环境的初始化",
-        "link": "https://www.infoq.cn/article/lzR34rSWkua5awOg8LFJ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-08T06:22:53.842592"
-      },
-      "506f4750c2ae75718870169086195ade646ba445ada54f69853d9a6958e92e81": {
-        "title": "Cursor 会死吗？",
-        "link": "https://www.tmtpost.com/7945040.html",
-        "published_date": "Wed, 08 Apr 2026 12:56:00 GMT",
-        "first_seen": "2026-04-08T06:22:53.842594"
-      },
       "209db6650e358bba124a13ab001fb1449fe1a396f44786f28ef181b40b791b1b": {
         "title": "更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线",
         "link": "https://www.tmtpost.com/7945183.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7978970.html",
         "published_date": "Thu, 07 May 2026 14:35:00 GMT",
         "first_seen": "2026-05-07T23:57:04.283135"
+      },
+      "56b5ab51953b675d0f4884a4286bff1c6749fa246edb9d4693b23fbfe9a4da00": {
+        "title": "AI有嘴了，OpenAI连发三语音模型",
+        "link": "https://www.tmtpost.com/7980476.html",
+        "published_date": "Fri, 08 May 2026 12:59:00 GMT",
+        "first_seen": "2026-05-08T06:55:28.740258"
+      },
+      "b73c326d5c3108d13b57b0262ae6caac726584cfa30ecdffad558d1758c577ff": {
+        "title": "Claude“入侵”Office，微软要放弃Copilot了吗？",
+        "link": "https://www.tmtpost.com/7980473.html",
+        "published_date": "Fri, 08 May 2026 12:26:00 GMT",
+        "first_seen": "2026-05-08T06:55:28.740265"
+      },
+      "c1de7cbe4e86dcac073511acca278830576ba3d4f778bcf6e80872208895fed5": {
+        "title": "Agent时代需要怎样的分布式基础设施",
+        "link": "https://www.infoq.cn/article/qYQfpT8BaIPEkbeSXwzu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 11:34:00 GMT",
+        "first_seen": "2026-05-08T06:55:28.740267"
+      },
+      "c07f2a848884ebf289eb9619d8e409f7768e6d782909c0561a713804664117e8": {
+        "title": "两位女证人亮相，让马斯克诉OpenAI案更抓马",
+        "link": "https://www.tmtpost.com/7980480.html",
+        "published_date": "Fri, 08 May 2026 13:21:00 GMT",
+        "first_seen": "2026-05-08T06:55:28.740269"
+      },
+      "71949fa3fb258dbb5e0416a0a588bf291543a240f17317b1950f5188360a0189": {
+        "title": "中国31家巨头狂造机器人，美国巨头为何零下场？",
+        "link": "https://www.tmtpost.com/7980470.html",
+        "published_date": "Fri, 08 May 2026 12:32:00 GMT",
+        "first_seen": "2026-05-08T06:55:28.740271"
       }
     },
     "Finance": {
-      "15f1bd13039d574928dd3186a2a841b9ed7d6e144c9a828a6051a309044c5c7a": {
-        "title": "US and Iran agree 2-week ceasefire that will open Strait of Hormuz",
-        "link": "https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f",
-        "published_date": "Wed, 08 Apr 2026 04:07:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.503108"
-      },
-      "3b2ecd5bcc2df86e499bf7963709f95d4941e19887271e2b879275911a7b3968": {
-        "title": "Oil tumbles and stocks surge after Iran ceasefire agreed",
-        "link": "https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34",
-        "published_date": "Wed, 08 Apr 2026 01:14:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.503114"
-      },
-      "4046af7a117468270648ec78630d66549bb1c128856167660cadce84a3a9b165": {
-        "title": "Perplexity revenue jumps 50% in pivot from search to AI agents",
-        "link": "https://www.ft.com/content/e9c28d31-a962-4684-8b58-c9e6bc68401f",
-        "published_date": "Wed, 08 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.503116"
-      },
-      "43d36e474baa656ccb7fb6c08a78feff4feebb7e01eed8896681bb2297c62ff1": {
-        "title": "The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn?",
-        "link": "https://www.ft.com/content/f217467c-e113-4aa2-ac5e-7046a1dc9be0",
-        "published_date": "Wed, 08 Apr 2026 04:37:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.503118"
-      },
-      "4dd4eb665ebe1ce0060b77e61869667dde86cbf2a883869bc025c97cf2a399a5": {
-        "title": "Freedom itself is at stake in Hungary",
-        "link": "https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3",
-        "published_date": "Wed, 08 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.503119"
-      },
       "c8cbc72327aa479c0131f597f9531a7c65fac6f5c51dfa19cfc266f4ce4ffac5": {
         "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
         "link": "https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories",
@@ -4959,39 +4929,39 @@
         "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
         "published_date": "Thu, 07 May 2026 23:34:00 GMT",
         "first_seen": "2026-05-07T23:56:32.583415"
+      },
+      "dd2e99f5707e88f21706f176092e629bdd3b8e93bd409846950b4216f09fcb74": {
+        "title": "5 reasons stocks are rallying in the face of an oil-price shock",
+        "link": "https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 00:14:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.553254"
+      },
+      "5fcc76d67d548b596e09d1d76194b0974173317dbe1c58c6654c02efabc435f2": {
+        "title": "Big Tech’s $725bn AI spending spree sends free cash flow to a decade low",
+        "link": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
+        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.553265"
+      },
+      "1e2f687d7535b670f994694cd39b9f41c0decd4027fc9f1b4e3f8e475e521563": {
+        "title": "The jury is still out on AI in finance",
+        "link": "https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57",
+        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.553268"
+      },
+      "8d5767f1f48a7caa2a4173a758e8340d78feb065905229de0c44112c719709b9": {
+        "title": "Anthropic weighs deal for near $1tn valuation as revenue surges",
+        "link": "https://www.ft.com/content/a40cafcc-0fa4-4e70-9e24-90d826aea56d",
+        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.553270"
+      },
+      "6754c8d5ff654c0de67d8f1fe8ec466354b816a80f6bfc6c48022b17bfbb2c33": {
+        "title": "Koreans flock to pay with their faces",
+        "link": "https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90",
+        "published_date": "Fri, 08 May 2026 03:00:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.553272"
       }
     },
     "Ai": {
-      "972fbf7d984f8f0d1522597ddb4c30978b78ca3ff7b34c43529085fbdefb0f0d": {
-        "title": "2026-04-08日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-08/",
-        "published_date": "Wed, 08 Apr 2026 10:42:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.646962"
-      },
-      "799fe2a85655e62190d6c90c8f092836dcd15be65bb3b2997f82ba7bda5cddb1": {
-        "title": "Skill vs App：一场入口范式的争夺",
-        "link": "https://www.qbitai.com/2026/04/397799.html",
-        "published_date": "Wed, 08 Apr 2026 04:12:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.646970"
-      },
-      "89e2c1b76044d45e1626dec08962a21477fd27d4f241daedf0d09abb7d367c92": {
-        "title": "DeepSeek深夜更新后自曝：我是V4（？！）",
-        "link": "https://www.qbitai.com/2026/04/397761.html",
-        "published_date": "Wed, 08 Apr 2026 03:58:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.646973"
-      },
-      "c1546d43be56d502d4d279393d647c2d6d340822f703a68dfca50b7d73fe9b7c": {
-        "title": "省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%",
-        "link": "https://www.qbitai.com/2026/04/397733.html",
-        "published_date": "Wed, 08 Apr 2026 03:28:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.646974"
-      },
-      "e670ba316d67b19aae5ea609fb7a629e1782a8cd6dd8d64f0e2ce51689dc1185": {
-        "title": "Claude Mythos官宣！性能碾压Opus 4.6，因太危险遭「囚禁」",
-        "link": "https://www.qbitai.com/2026/04/397710.html",
-        "published_date": "Wed, 08 Apr 2026 02:41:00 GMT",
-        "first_seen": "2026-04-08T06:23:06.646976"
-      },
       "3b729df2d4488702f3679b2f8258ae7e352aca6630a3db6ec2e676d89770461b": {
         "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
         "link": "https://www.qbitai.com/2026/04/397922.html",
@@ -6371,13 +6341,43 @@
         "link": "https://www.qbitai.com/2026/05/414006.html",
         "published_date": "Thu, 07 May 2026 14:01:00 GMT",
         "first_seen": "2026-05-07T23:56:32.734266"
+      },
+      "7cbd7da30fcc39e7500441a311616007f2ebe3e317618384d4ee782699c15882": {
+        "title": "2026-05-08日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-08/",
+        "published_date": "Fri, 08 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.685459"
+      },
+      "551f86440171341d5e004fe691c684548e36921c6ebb068305937e928704e629": {
+        "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+        "link": "https://www.qbitai.com/2026/05/414194.html",
+        "published_date": "Fri, 08 May 2026 04:35:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.685466"
+      },
+      "ad00be2aee11b77f221129fcd6c5c8cb8b2c3e35e23bd1ed9bddd4d6ab9e29e9": {
+        "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
+        "link": "https://www.qbitai.com/2026/05/414156.html",
+        "published_date": "Fri, 08 May 2026 04:25:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.685467"
+      },
+      "da838a51fffe368455e5429eccd9f6501241b4254110ea3d90411e0001bc4d61": {
+        "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
+        "link": "https://www.qbitai.com/2026/05/414141.html",
+        "published_date": "Fri, 08 May 2026 04:15:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.685469"
+      },
+      "269db90887af4b4d12c4c54b76745e5745bb2fd6d9f439eb145025f818b1fef7": {
+        "title": "第一批「AI原生」本科生，要毕业了",
+        "link": "https://www.qbitai.com/2026/05/414125.html",
+        "published_date": "Fri, 08 May 2026 04:06:00 GMT",
+        "first_seen": "2026-05-08T06:55:03.685471"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-07T23:57:04.283137",
-    "Finance": "2026-05-07T23:56:32.583417",
-    "Ai": "2026-05-07T23:56:32.734269"
+    "Technology": "2026-05-08T06:55:28.740272",
+    "Finance": "2026-05-08T06:55:03.553274",
+    "Ai": "2026-05-08T06:55:03.685473"
   }
 }

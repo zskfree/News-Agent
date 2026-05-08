@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-07 23:56
+**最后更新时间**: 2026-05-08 06:54
+
+---
+
+## 🆕 最新更新 (2026-05-08 06:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Labour suffers heavy early local election losses as Reform surges](https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de)
+**发布时间**: 2026-05-08 06:32
+
+#### [Big Tech’s $725bn AI spending spree sends free cash flow to a decade low](https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494)
+**发布时间**: 2026-05-08 04:00
+
+#### [Anthropic weighs deal for near $1tn valuation as revenue surges](https://www.ft.com/content/a40cafcc-0fa4-4e70-9e24-90d826aea56d)
+**发布时间**: 2026-05-08 04:00
+
+#### [Trump sons back $1bn vehicle targeting sectors championed by US president](https://www.ft.com/content/d73183b6-d610-4caa-949d-186cbd59c970)
+**发布时间**: 2026-05-08 04:00
+
+#### [The jury is still out on AI in finance](https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57)
+**发布时间**: 2026-05-08 04:00
+
+#### [Trump’s World Cup chief defends high ticket prices](https://www.ft.com/content/3783fa31-c6cc-46cd-ae91-638308797b37)
+**发布时间**: 2026-05-08 04:00
+
+#### [Macquarie’s commodities boss paid more than CEO as profits soar](https://www.ft.com/content/3785a37f-3409-4b3e-b2fb-6b4200c4375e)
+**发布时间**: 2026-05-08 03:59
+
+#### [Trump says ceasefire still in effect after US and Iran clash](https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f)
+**发布时间**: 2026-05-08 03:44
+
+#### [Koreans flock to pay with their faces](https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90)
+**发布时间**: 2026-05-08 03:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SoundHound’s stock falls as acquisitions weigh on earnings results](https://www.marketwatch.com/story/soundhounds-stock-falls-as-acquisitions-weigh-on-earnings-results-f24fc593?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 00:29
+
+#### [AI is coming for your job after all. These new announcements prove it.](https://www.marketwatch.com/story/ai-is-coming-for-your-job-after-all-these-new-announcements-prove-it-3fa74d86?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 00:17
+
+#### [5 reasons stocks are rallying in the face of an oil-price shock](https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 00:14
 
 ---
 
