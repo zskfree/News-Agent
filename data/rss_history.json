@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "209db6650e358bba124a13ab001fb1449fe1a396f44786f28ef181b40b791b1b": {
-        "title": "更名“千里”后的首份答卷：营收百亿、扣非亏损扩大，科技转型刚过起跑线",
-        "link": "https://www.tmtpost.com/7945183.html",
-        "published_date": "Wed, 08 Apr 2026 14:50:00 GMT",
-        "first_seen": "2026-04-08T09:06:16.556026"
-      },
-      "94b445222f1f2368958fcefe9d1dfbc4f44ffdb1283ee79162af881fc2c80bf5": {
-        "title": "道琼斯指数正在测试一个关键的技术门槛，关注苹果和家得宝股票",
-        "link": "https://www.tmtpost.com/7944969.html",
-        "published_date": "Wed, 08 Apr 2026 11:17:00 GMT",
-        "first_seen": "2026-04-08T09:06:16.556036"
-      },
-      "e0f677b3eb5f88416c07909171484c52c1de541b5f23a47115f2f6b2fb67521a": {
-        "title": "GitHub 如何用 AI 重构反馈处理机制",
-        "link": "https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 16:53:00 GMT",
-        "first_seen": "2026-04-08T09:06:16.556038"
-      },
-      "ccba4b277259af8887d95f19e5ad8212b813cba8edb80226dc3a28a0dd6d0526": {
-        "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
-        "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 16:13:00 GMT",
-        "first_seen": "2026-04-08T09:06:16.556040"
-      },
-      "afd294ff0229c60f1c866eb6741c439d20cc02c146910cf137f0a96d6b80251a": {
-        "title": "组织规模扩大时，如何应对信任与心理安全感",
-        "link": "https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-08T09:06:16.556042"
-      },
       "41285fd510d131ae1041819150af5ddd25ee007a623c849b8ef981cb6225841b": {
         "title": "碳基向下，硅基向上：我们正在供养一台「失控的增长机器」",
         "link": "https://www.tmtpost.com/7944241.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7980470.html",
         "published_date": "Fri, 08 May 2026 12:32:00 GMT",
         "first_seen": "2026-05-08T06:55:28.740271"
+      },
+      "b786f0fd65605334a2ae55241a7b9157dc0bda7d99136392d70850bd96f4d7b7": {
+        "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
+        "link": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 16:32:00 GMT",
+        "first_seen": "2026-05-08T09:26:25.463537"
+      },
+      "b68078cb82e99e5c8306d20168c8bfbe6ed80d525923eaea1a30cc5b09173f1f": {
+        "title": "550 亿美元！马斯克的「芯片工厂」开始成为现实",
+        "link": "http://www.geekpark.net/news/363854",
+        "published_date": "Fri, 08 May 2026 15:46:00 GMT",
+        "first_seen": "2026-05-08T09:26:25.463546"
+      },
+      "f11159472c37283da3f919244797529da6b60fd22016f83fe5337bb4b5b4a767": {
+        "title": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "link": "https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-08T09:26:25.463548"
+      },
+      "940964da32e0e4fa5884a56d7da89939713bbdb12b36113c95ba2544e391c3c0": {
+        "title": "派早报：Google 发布 Fitbit Air 等",
+        "link": "https://sspai.com/post/109489",
+        "published_date": "Fri, 08 May 2026 08:51:00 GMT",
+        "first_seen": "2026-05-08T09:26:25.463550"
+      },
+      "05972aea00ab012b16f8d81163dca6969aa7dc339d674961d13f4bf0217e7185": {
+        "title": "【钛晨报】官方发布医药代表管理办法：禁止9种行为，严防商业贿赂；星空卫视今起停播，母公司三年市值蒸发近500亿；出资20亿，京东正式拿下AMC牌照",
+        "link": "https://www.tmtpost.com/7979654.html",
+        "published_date": "Fri, 08 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-08T09:26:25.463552"
       }
     },
     "Finance": {
-      "c8cbc72327aa479c0131f597f9531a7c65fac6f5c51dfa19cfc266f4ce4ffac5": {
-        "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
-        "link": "https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 09:01:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.039158"
-      },
-      "aabe034402080e19bbfd99b0f24555732e2d97c7942821a1bc7d7078a10a38cf": {
-        "title": "Cease-fire means the bottom is in, declares strategist Tom Lee",
-        "link": "https://www.marketwatch.com/story/cease-fire-means-the-bottom-is-in-declares-strategist-tom-lee-8207becd?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 09:00:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.039165"
-      },
-      "b68381ac91c6e6473450eb3b0a64e24efcb3257363ab612f2c8dd7cae95ee0de": {
-        "title": "‘The View’ host Joy Behar tries an unusual strategy to sell her longtime Hamptons home",
-        "link": "https://www.marketwatch.com/story/the-view-host-joy-behar-tries-an-unusual-strategy-to-sell-her-longtime-hamptons-home-4e490969?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 08:58:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.039168"
-      },
-      "f409550c4bf6c3d19c83f3bbe4d774a3b1613f2857b7b86239e1d0062045e196": {
-        "title": "What the market is now pricing for Fed and global central bank interest rates after the cease-fire",
-        "link": "https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 08:53:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.039169"
-      },
-      "7c7c3c8c31ace8acba25b6f783f8cba3253ba69ab7e2c7c89723711e0fafab33": {
-        "title": "Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation",
-        "link": "https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 08:06:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.039171"
-      },
       "b691665ab3a04339ae8b11e5a6939f4c8db5a29fca36d5b4d6e56cae626b7f72": {
         "title": "‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz",
         "link": "https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories",
@@ -4959,33 +4929,39 @@
         "link": "https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90",
         "published_date": "Fri, 08 May 2026 03:00:00 GMT",
         "first_seen": "2026-05-08T06:55:03.553272"
+      },
+      "af33a98c9420b336c3323f9d50dd73d63999fc5500c56d5b688d84b599e806a0": {
+        "title": "Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.",
+        "link": "https://www.marketwatch.com/story/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next-37c222bd?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 08:21:00 GMT",
+        "first_seen": "2026-05-08T09:25:58.970959"
+      },
+      "94f9442c091b93e732598d032e44c5cd4ab19c21422cef7ee88ba3fa64eac876": {
+        "title": "The AI marathon’s biggest threat suggests the finish line is nowhere in sight",
+        "link": "https://www.marketwatch.com/story/the-ai-marathons-biggest-threat-suggests-the-finish-line-is-nowhere-in-sight-b238d0f6?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 08:57:00 GMT",
+        "first_seen": "2026-05-08T09:25:58.970972"
+      },
+      "21ed17fc861f4849f77370164c7fcffce0eb4aa1faec7b956d7194f996641d62": {
+        "title": "US businesses urge Trump to intervene over new EU consumer rules",
+        "link": "https://www.ft.com/content/f2728750-9c2c-48fa-92ba-9e67203b964d",
+        "published_date": "Fri, 08 May 2026 08:46:00 GMT",
+        "first_seen": "2026-05-08T09:25:58.970975"
+      },
+      "ae2ba29bdb27529984ced2fb7b2c969e2392856ddb5149d5f33c225c4d6b1038": {
+        "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
+        "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 07:31:00 GMT",
+        "first_seen": "2026-05-08T09:25:58.970978"
+      },
+      "e6f1a85943417e8cce52011e75068570826963dcd702fe2a66de91353afb0614": {
+        "title": "‘Americans love their rose-colored glasses’: I was a slave to credit-card debt, then I got laid off and turned my life around",
+        "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-08T09:25:58.970979"
       }
     },
     "Ai": {
-      "3b729df2d4488702f3679b2f8258ae7e352aca6630a3db6ec2e676d89770461b": {
-        "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
-        "link": "https://www.qbitai.com/2026/04/397922.html",
-        "published_date": "Wed, 08 Apr 2026 08:30:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.186097"
-      },
-      "2cf5c9c2891ffaaa232aa50ad33bd589609cd750e3fd8f7877c02f561d14bdd2": {
-        "title": "Nature Index特刊以复杂系统为理论基础的“天立学科大脑”",
-        "link": "https://www.qbitai.com/2026/04/397915.html",
-        "published_date": "Wed, 08 Apr 2026 06:51:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.186105"
-      },
-      "23d1c40603b88989870c7186f1e6c486cbf69f424a4db967c9865891d8bdc85b": {
-        "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元",
-        "link": "https://www.qbitai.com/2026/04/397912.html",
-        "published_date": "Wed, 08 Apr 2026 06:39:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.186107"
-      },
-      "86afb1aa0d87bb3daa9869cb3ab1137228b5fe8dcf26994083e173ab9be22a33": {
-        "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
-        "link": "https://www.qbitai.com/2026/04/397898.html",
-        "published_date": "Wed, 08 Apr 2026 06:29:00 GMT",
-        "first_seen": "2026-04-08T09:06:31.186108"
-      },
       "3f3ed28413a1cf04f783dc72e756c483aae527a0745e6bd953166d21f230e1ab": {
         "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
         "link": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/",
@@ -6376,8 +6352,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-08T06:55:28.740272",
-    "Finance": "2026-05-08T06:55:03.553274",
+    "Technology": "2026-05-08T09:26:25.463555",
+    "Finance": "2026-05-08T09:25:58.970982",
     "Ai": "2026-05-08T06:55:03.685473"
   }
 }

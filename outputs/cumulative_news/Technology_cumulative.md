@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-08 06:54
+**最后更新时间**: 2026-05-08 09:25
+
+---
+
+## 🆕 最新更新 (2026-05-08 09:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Confluent将模式ID移至Kafka头部，以简化模式治理](https://www.infoq.cn/article/dKD2lUNaMQggrCcQjxw2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:50
+
+#### [LinkedIn 整合招聘数据管道，为 AI 系统赋能](https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:44
+
+#### [Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle](https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:39
+
+#### [“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！](https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:32
+
+#### [Broadcom将Velero捐赠给 CNCF，将Kubernetes备份功能转向社区治理](https://www.infoq.cn/article/FwFo4Gerr0lawgBCyYo1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [对赌失败致业绩变脸、11.8亿营收蒸发，汉嘉数智转型蒙阴](https://www.tmtpost.com/7980994.html)
+**发布时间**: 2026-05-08 16:42
+
+#### [与哈啰江涛聊顺风车：千亿级生意、乱象和五环外的流动中国](https://www.tmtpost.com/7980665.html)
+**发布时间**: 2026-05-08 15:57
+
+#### [75岁李西廷扛旗，迈瑞医疗的复苏还要熬多久？](https://www.tmtpost.com/7980669.html)
+**发布时间**: 2026-05-08 15:52
+
+#### [扒了扒A股1060家AI企业的财报，我发现了4个残酷真相](https://www.tmtpost.com/7980666.html)
+**发布时间**: 2026-05-08 15:49
+
+#### [小红书拔剑斩自己](https://www.tmtpost.com/7980580.html)
+**发布时间**: 2026-05-08 15:46
+
+#### [货代暴雷潮席卷跨境圈](https://www.tmtpost.com/7980699.html)
+**发布时间**: 2026-05-08 15:36
+
+#### [ROI逼豆包收费](https://www.tmtpost.com/7980806.html)
+**发布时间**: 2026-05-08 15:36
+
+#### [马斯克结盟Anthropic，标志着大模型战争正式进入“重工业时代”](https://www.tmtpost.com/7980845.html)
+**发布时间**: 2026-05-08 15:36
+
+#### [瞄准 C 端，是豆包商业化的宿命](https://www.tmtpost.com/7980697.html)
+**发布时间**: 2026-05-08 15:36
+
+#### [对话京东方CEO冯强：拒绝内卷增价值，出海要摒弃单打独斗](https://www.tmtpost.com/7980727.html)
+**发布时间**: 2026-05-08 15:28
+
+#### [全球零售50强榜单出炉，有一个信号NRF没说透](https://www.tmtpost.com/7980746.html)
+**发布时间**: 2026-05-08 15:23
+
+#### [中国空调圈暗战正酣](https://www.tmtpost.com/7980667.html)
+**发布时间**: 2026-05-08 15:23
+
+#### [2026年一季度文旅集团财务分析报告](https://www.tmtpost.com/7980479.html)
+**发布时间**: 2026-05-08 15:22
+
+#### [ChatGPT 免费、豆包收费：同一道商业题的两种解法](https://www.tmtpost.com/7980660.html)
+**发布时间**: 2026-05-08 15:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [550 亿美元！马斯克的「芯片工厂」开始成为现实](http://www.geekpark.net/news/363854)
+**发布时间**: 2026-05-08 15:46
+
+#### [扫地机祖师爷再创业：造了一只懂你的「人造赛博宠物」](http://www.geekpark.net/news/363853)
+**发布时间**: 2026-05-08 15:42
 
 ---
 
