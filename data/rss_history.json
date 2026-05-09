@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f45a04cb6573cf24e80bb3c9eefc4352b3baf92574fbe35b7c15bd72f3b6133": {
-        "title": "算力经济学的逻辑，在Agent时代彻底改写了",
-        "link": "https://www.tmtpost.com/7946437.html",
-        "published_date": "Thu, 09 Apr 2026 11:16:00 GMT",
-        "first_seen": "2026-04-09T23:42:13.311283"
-      },
-      "9d20ede92fa0b98fe4f5f460485ab66e4e7dfec228059d1dc1c0946680fdfa87": {
-        "title": "从实验室到现实世界，具身智能距离“精密执行”还有多远？",
-        "link": "https://www.tmtpost.com/7940982.html",
-        "published_date": "Thu, 09 Apr 2026 15:14:00 GMT",
-        "first_seen": "2026-04-09T23:42:13.311289"
-      },
-      "4585ef13b2eef2f175bcee12e1ce05b7164a1d674ef259edc4ac282ba009798c": {
-        "title": "定价权VS消耗战：大模型下半场的续命法则",
-        "link": "https://www.tmtpost.com/7946394.html",
-        "published_date": "Thu, 09 Apr 2026 11:16:00 GMT",
-        "first_seen": "2026-04-09T23:42:13.311291"
-      },
-      "fd4feb0b92f4a69e0aaf23d98c0970e87493b7e534d724aee8548bc18059eef9": {
-        "title": "巨鲸落万物生：Sora退场、PixVerse C1接棒，瞄准影视工业化",
-        "link": "https://www.tmtpost.com/7946434.html",
-        "published_date": "Thu, 09 Apr 2026 11:24:00 GMT",
-        "first_seen": "2026-04-09T23:42:13.311292"
-      },
-      "3484e7e4e462b33da972ec4fc7f85cb03c8130c1efeac305eb23d6f83fe539d2": {
-        "title": "Token之战：连续五周，中国AI靠什么赢了美国AI？",
-        "link": "https://www.tmtpost.com/7947044.html",
-        "published_date": "Thu, 09 Apr 2026 19:11:00 GMT",
-        "first_seen": "2026-04-09T23:42:13.311294"
-      },
       "e02b960f9ef897db9d566bc41e744cba866cf7c90c3687bfd2f84707af494abd": {
         "title": "卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭",
         "link": "https://www.tmtpost.com/7947126.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7982141.html",
         "published_date": "Sat, 09 May 2026 17:02:00 GMT",
         "first_seen": "2026-05-09T09:23:21.228192"
+      },
+      "70734edf92d79da9889f58639e6d8cdf35ba5df5976e4cbc06c5e6891ec163eb": {
+        "title": "奥特曼“官宣” OpenAI 手机",
+        "link": "https://www.tmtpost.com/7982227.html",
+        "published_date": "Sat, 09 May 2026 20:02:00 GMT",
+        "first_seen": "2026-05-09T23:54:57.150235"
+      },
+      "1e9f4434f071999ecb709de4ddb39b51d135326f2a0ee25ac307adf137305c95": {
+        "title": "80%的钱流向AI，但谁来买单？",
+        "link": "https://www.tmtpost.com/7981369.html",
+        "published_date": "Sat, 09 May 2026 12:17:00 GMT",
+        "first_seen": "2026-05-09T23:54:57.150241"
+      },
+      "a1e99bec486d1014abd7174bc288a409309dd358e1f074876bbee4eb02a72e11": {
+        "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
+        "link": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 09 May 2026 18:19:00 GMT",
+        "first_seen": "2026-05-09T23:54:57.150244"
+      },
+      "18cfdca169a59f855d016beb6257de5fe51f42fe102219db3f693489ce77388a": {
+        "title": "苹果和英特尔，分手六年后，又「在一起」了",
+        "link": "http://www.geekpark.net/news/363920",
+        "published_date": "Sat, 09 May 2026 15:53:00 GMT",
+        "first_seen": "2026-05-09T23:54:57.150245"
+      },
+      "618885350a44e139d29920d5cf5247048f6f5dfbe48aef9e783d4b15fbfa1635": {
+        "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
+        "link": "http://www.geekpark.net/news/363933",
+        "published_date": "Sat, 09 May 2026 23:44:00 GMT",
+        "first_seen": "2026-05-09T23:54:57.150247"
       }
     },
     "Finance": {
-      "04b2c645d0eaaf8a3a9118385b4efa2b97db528d92f54172cc42b54f43a22c24": {
-        "title": "The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.",
-        "link": "https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Apr 2026 21:18:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.745921"
-      },
-      "181e77eb6dfd4a9498637aa1a7a564b95ad0d8babe349fe8a71cb8ee02b63b52": {
-        "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season",
-        "link": "https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Apr 2026 21:59:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.745930"
-      },
-      "4bcd8a0f37630e3fa970436b813aeba8e361d3bfba8cb12da41270c56f085af9": {
-        "title": "North Sea oil prices hit record high as Iran keeps hold over Hormuz",
-        "link": "https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9",
-        "published_date": "Thu, 09 Apr 2026 22:57:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.745933"
-      },
-      "b1912ff2752f7808706fef82fe9b6ed0856e39ff873be4c83dff0733a3159f00": {
-        "title": "OpenAI halts Stargate UK data centre project",
-        "link": "https://www.ft.com/content/124189b9-8b2b-4d62-a94b-8a91673ea378",
-        "published_date": "Thu, 09 Apr 2026 11:38:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.745935"
-      },
-      "c402d34dfc3d423e144f008036d8386e12e0885fab8b741d35ebab305fd836dc": {
-        "title": "xAI sues Colorado over first state AI anti-discrimination law",
-        "link": "https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9",
-        "published_date": "Thu, 09 Apr 2026 20:45:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.745936"
-      },
       "d284bf34d98d09e9b7b4d3d79ccab29653d52d9a3b56468795d72a9b01850cdc": {
         "title": "Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy",
         "link": "https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213",
@@ -4941,21 +4911,39 @@
         "link": "https://www.ft.com/content/14152ab1-864d-4ff7-8524-afc7b08821b3",
         "published_date": "Sat, 09 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-09T07:10:58.032901"
+      },
+      "9e3e9634da6d4307e2ca7766cd28c9c98fb80fc5e67b722cc14a7af0de7ddf78": {
+        "title": "As mortgage rates move up to 6.37%, is now a good time to lock in your rate?",
+        "link": "https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories",
+        "published_date": "Sat, 09 May 2026 19:11:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.186816"
+      },
+      "9c079f04d5eb8864bcfd81d96df76d10187139e1789b2e4f7adcadb808e5be3f": {
+        "title": "Drone start-up Helsing set for $18bn valuation as investors pile into defence",
+        "link": "https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c",
+        "published_date": "Sat, 09 May 2026 11:15:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.186824"
+      },
+      "fed08c5099a7591ac2d1d228d54eb699f5da9c29c850d69806ba386970b25c7e": {
+        "title": "Get ready to work for 60 years — as living to 100 becomes the new norm",
+        "link": "https://www.marketwatch.com/story/get-ready-to-work-for-60-years-as-living-to-100-becomes-the-new-norm-c8aa64d3?mod=mw_rss_topstories",
+        "published_date": "Sat, 09 May 2026 19:09:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.186827"
+      },
+      "d582002466c27b1c3398e3f9b6c4fa734d8841493c6da0fe6940e9f1fcbb9c16": {
+        "title": "Can one bad week ruin your retirement savings? How about three bad years?",
+        "link": "https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories",
+        "published_date": "Sat, 09 May 2026 19:09:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.186829"
+      },
+      "1e1b0d0d4c3389b0eb1c01fe7509bfd6ed2edb9d0631b3a09e96cc8ba00822d4": {
+        "title": "Just graduated? Here’s your financial cheat sheet for building real wealth.",
+        "link": "https://www.marketwatch.com/story/just-graduated-heres-your-financial-cheat-sheet-for-building-real-wealth-963f30dc?mod=mw_rss_topstories",
+        "published_date": "Sat, 09 May 2026 19:12:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.186831"
       }
     },
     "Ai": {
-      "3fd19ecd06fe1538fe163bf169d9a0c9442a6821f6648d23755679a53a0ffbba": {
-        "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
-        "link": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/",
-        "published_date": "Thu, 09 Apr 2026 11:22:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.874248"
-      },
-      "10d043ed6c52a641392cc71f41c35b54936f26bf932904d8001a938a6afa66d3": {
-        "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-        "link": "https://www.qbitai.com/2026/04/398157.html",
-        "published_date": "Thu, 09 Apr 2026 09:38:00 GMT",
-        "first_seen": "2026-04-09T23:41:17.874255"
-      },
       "c3a2de936abda02dedead7cbc255551dd4c9238867c84f3dd9a130774d626922": {
         "title": "2026-04-10日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-10/",
@@ -6305,13 +6293,37 @@
         "link": "https://www.qbitai.com/2026/05/414788.html",
         "published_date": "Sat, 09 May 2026 07:12:00 GMT",
         "first_seen": "2026-05-09T09:23:03.241512"
+      },
+      "f846a1ba3db200039acc9e72043b5390849dc6d5cd2949f5a8778bdc6b2b9e1e": {
+        "title": "太初元碁携龙虾一体机亮相北京科博会",
+        "link": "https://www.qbitai.com/2026/05/415027.html",
+        "published_date": "Sat, 09 May 2026 12:21:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.336133"
+      },
+      "2b38a017632cc24af3c901f6b03b1551065556a4482a2f42033773bf654fd2a8": {
+        "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+        "link": "https://www.qbitai.com/2026/05/415023.html",
+        "published_date": "Sat, 09 May 2026 10:29:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.336141"
+      },
+      "bdb46f0f4570994ea9b837aa603ae8d91c36c693052bbe200243625c3b15de9e": {
+        "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+        "link": "https://www.qbitai.com/2026/05/415019.html",
+        "published_date": "Sat, 09 May 2026 09:53:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.336143"
+      },
+      "d8d5035d8482963c376243b47a1c35656e0ecfb600614cb4c07568232b269707": {
+        "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+        "link": "https://www.qbitai.com/2026/05/414826.html",
+        "published_date": "Sat, 09 May 2026 09:37:00 GMT",
+        "first_seen": "2026-05-09T23:54:31.336144"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-09T09:23:21.228195",
-    "Finance": "2026-05-09T07:10:58.032904",
-    "Ai": "2026-05-09T09:23:03.241515"
+    "Technology": "2026-05-09T23:54:57.150248",
+    "Finance": "2026-05-09T23:54:31.186833",
+    "Ai": "2026-05-09T23:54:31.336147"
   }
 }

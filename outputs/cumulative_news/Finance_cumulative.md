@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 07:10
+**最后更新时间**: 2026-05-09 23:54
+
+---
+
+## 🆕 最新更新 (2026-05-09 23:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.](https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:25
+
+#### [These are the fastest-growing jobs for new college graduates — even in this low-hire market](https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:12
+
+#### [Just graduated? Here’s your financial cheat sheet for building real wealth.](https://www.marketwatch.com/story/just-graduated-heres-your-financial-cheat-sheet-for-building-real-wealth-963f30dc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:12
+
+#### [These long-distance couples are mourning the airline America loved to hate](https://www.marketwatch.com/story/spirits-cheap-flights-kept-long-distance-relationships-alive-now-these-couples-are-scrambling-to-stay-connected-ca7e4745?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:11
+
+#### [As mortgage rates move up to 6.37%, is now a good time to lock in your rate?](https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:11
+
+#### [Can one bad week ruin your retirement savings? How about three bad years?](https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:09
+
+#### [Get ready to work for 60 years — as living to 100 becomes the new norm](https://www.marketwatch.com/story/get-ready-to-work-for-60-years-as-living-to-100-becomes-the-new-norm-c8aa64d3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:09
+
+#### [Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays](https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 19:09
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tenerife prepares to evacuate hantavirus cruise ship](https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c)
+**发布时间**: 2026-05-09 15:50
+
+#### [Drone start-up Helsing set for $18bn valuation as investors pile into defence](https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c)
+**发布时间**: 2026-05-09 11:15
+
+#### [New York Stock Exchange to open private members’ club on Wall Street](https://www.ft.com/content/d8e49edb-feb9-4bfb-9f91-f10169c0961d)
+**发布时间**: 2026-05-09 10:00
 
 ---
 

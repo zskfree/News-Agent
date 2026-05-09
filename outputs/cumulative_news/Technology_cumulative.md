@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 09:23
+**最后更新时间**: 2026-05-09 23:54
+
+---
+
+## 🆕 最新更新 (2026-05-09 23:54)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道](http://www.geekpark.net/news/363933)
+**发布时间**: 2026-05-09 23:44
+
+#### [Genesis AI 发布新模型：机器人开始挑战西红柿炒鸡蛋](http://www.geekpark.net/news/363905)
+**发布时间**: 2026-05-09 17:29
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [卖肛肠医院“瘦身”却遇爽约，马应龙近7000万净利预期落空](https://www.tmtpost.com/7982224.html)
+**发布时间**: 2026-05-09 22:01
+
+#### [豪掷40亿“赌明天”，天阳科技主业困境下的算力豪赌](https://www.tmtpost.com/7982302.html)
+**发布时间**: 2026-05-09 20:12
+
+#### [奥特曼“官宣” OpenAI 手机](https://www.tmtpost.com/7982227.html)
+**发布时间**: 2026-05-09 20:02
+
+#### [钛媒体入选主流价值语料生态联盟首批成员，担纲科技领域高质量数据集核心建设方](https://www.tmtpost.com/7982330.html)
+**发布时间**: 2026-05-09 19:21
+
+#### [给猫做MBTI画像，17.9g的AI项圈能撬动百亿生意吗？](https://www.tmtpost.com/7982002.html)
+**发布时间**: 2026-05-09 17:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
+**发布时间**: 2026-05-09 18:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文](https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 18:19
+
+#### [DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投](https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:56
+
+#### [颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！](https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:54
+
+#### [开源项目的信任危机，也许是那群“以为自己会写代码”的资本大佬造成的](https://www.infoq.cn/article/TUsD1lkUSAbDfHsZcoYc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:50
+
+#### [拓扑变更时担心丢数据？其实有个优雅解法](https://www.infoq.cn/video/02CDXSPj0dQxJ0DMuW9C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:41
+
+#### [不止技术！Valkey 火爆背后藏着开源社区的核心密码](https://www.infoq.cn/video/rijQ2WioDtfSuNv2gQkS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:37
 
 ---
 

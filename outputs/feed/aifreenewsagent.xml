@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 May 2026 09:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 09:23:03 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 23:52:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 23:54:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件</title>
-      <link>https://www.qbitai.com/2026/05/414827.html</link>
-      <description>&lt;![CDATA[不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 08:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414827.html</guid>
+      <title>太初元碁携龙虾一体机亮相北京科博会</title>
+      <link>https://www.qbitai.com/2026/05/415027.html</link>
+      <description>&lt;![CDATA[太初元碁携龙虾一体机亮相北京科博会]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 12:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415027.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案</title>
-      <link>https://www.qbitai.com/2026/05/414788.html</link>
-      <description>&lt;![CDATA[谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 07:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414788.html</guid>
+      <title>阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一</title>
+      <link>https://www.qbitai.com/2026/05/415023.html</link>
+      <description>&lt;![CDATA[阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415023.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>两项AI政策发布，范式智能战略布局与产业方向高度契合</title>
+      <link>https://www.qbitai.com/2026/05/415019.html</link>
+      <description>&lt;![CDATA[两项AI政策发布，范式智能战略布局与产业方向高度契合]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415019.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛</title>
+      <link>https://www.qbitai.com/2026/05/414826.html</link>
+      <description>&lt;![CDATA[空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414826.html</guid>
       <category>Ai</category>
     </item>
   </channel>
