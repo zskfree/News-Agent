@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 May 2026 07:10:00 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 07:11:13 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 09:23:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 09:23:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头</title>
-      <link>https://www.tmtpost.com/7981763.html</link>
-      <description>&lt;![CDATA[字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981763.html</guid>
+      <title>字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？</title>
+      <link>https://www.tmtpost.com/7981426.html</link>
+      <description>&lt;![CDATA[字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981426.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下</title>
-      <link>https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek掀桌后，大模型厂商应该关注什么？</title>
+      <link>https://www.tmtpost.com/7982075.html</link>
+      <description>&lt;![CDATA[DeepSeek掀桌后，大模型厂商应该关注什么？]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982075.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三天，三家公司，超百亿美元：中国AI大模型的融资决战周</title>
-      <link>https://www.tmtpost.com/7981913.html</link>
-      <description>&lt;![CDATA[三天，三家公司，超百亿美元：中国AI大模型的融资决战周]]&gt;</description>
+      <title>长和系资本重构：剥离欧洲重资产、押注AI</title>
+      <link>https://www.tmtpost.com/7978765.html</link>
+      <description>&lt;![CDATA[长和系资本重构：剥离欧洲重资产、押注AI]]&gt;</description>
       <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981913.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978765.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cerebras上市背后，OpenAI正在抢英伟达的蛋糕</title>
-      <link>https://www.tmtpost.com/7981936.html</link>
-      <description>&lt;![CDATA[Cerebras上市背后，OpenAI正在抢英伟达的蛋糕]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981936.html</guid>
+      <title>AI 把编程这件事接管之后，作为程序员的我该何去何从？</title>
+      <link>https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 把编程这件事接管之后，作为程序员的我该何去何从？]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>属于消费电子的时代，正在结束</title>
-      <link>https://www.tmtpost.com/7981573.html</link>
-      <description>&lt;![CDATA[属于消费电子的时代，正在结束]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981573.html</guid>
+      <title>黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代</title>
+      <link>https://www.tmtpost.com/7982141.html</link>
+      <description>&lt;![CDATA[黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982141.html</guid>
       <category>Technology</category>
     </item>
   </channel>

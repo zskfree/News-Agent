@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 07:10
+**最后更新时间**: 2026-05-09 09:23
+
+---
+
+## 🆕 最新更新 (2026-05-09 09:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代](https://www.tmtpost.com/7982141.html)
+**发布时间**: 2026-05-09 17:02
+
+#### [我，49岁，成为模特](https://www.tmtpost.com/7982096.html)
+**发布时间**: 2026-05-09 17:02
+
+#### [拒绝腾讯20%股份和阿里生态链，梁文峰究竟在守卫什么](https://www.tmtpost.com/7982082.html)
+**发布时间**: 2026-05-09 17:02
+
+#### [DeepSeek掀桌后，大模型厂商应该关注什么？](https://www.tmtpost.com/7982075.html)
+**发布时间**: 2026-05-09 16:45
+
+#### [张一鸣不再给所有人买单了](https://www.tmtpost.com/7982071.html)
+**发布时间**: 2026-05-09 16:44
+
+#### [每个大模型，都要找到自己的非对称优势](https://www.tmtpost.com/7982042.html)
+**发布时间**: 2026-05-09 15:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 把编程这件事接管之后，作为程序员的我该何去何从？](https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 17:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果和英特尔，分手六年后，又「在一起」了](http://www.geekpark.net/news/363920)
+**发布时间**: 2026-05-09 15:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
+**发布时间**: 2026-05-09 15:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 6 个小众但实用的 GitHub 开源项目，有点意思啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533533&idx=1&sn=82ee2499a6553977afe6de590a9b7942)
+**发布时间**: 2026-05-09 12:03
 
 ---
 

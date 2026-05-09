@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d92d6778eceb44d000b49013964b7a8fdc8d9ac378c54141a6533cdc71aab07c": {
-        "title": "28亿变7600亿，烟台首富赚翻了",
-        "link": "https://www.tmtpost.com/7946559.html",
-        "published_date": "Thu, 09 Apr 2026 16:39:00 GMT",
-        "first_seen": "2026-04-09T09:12:21.414895"
-      },
-      "6956176cd864f01e43ca176583420f50f9ebb2ea38a3e2a0c67d910a076c58fe": {
-        "title": "吴泳铭的“手术刀”与阿里的“输不起”",
-        "link": "https://www.tmtpost.com/7946515.html",
-        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-09T09:12:21.414904"
-      },
-      "a7e58d7ac4998b15beffe947d38db0cba8ef9b3f23e5a220c962f4decdc72d0a": {
-        "title": "AR眼镜裸泳！XREAL三年巨亏20亿上市续命",
-        "link": "https://www.tmtpost.com/7946429.html",
-        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-09T09:12:21.414907"
-      },
-      "2edf4da47fdcd8939cb99e5a01ccc34544cc692e3cc2b03cf90dd935f436b55a": {
-        "title": "蔚小理大变局：向价格战低头，难成电车BBA",
-        "link": "https://www.tmtpost.com/7946403.html",
-        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-09T09:12:21.414909"
-      },
-      "68f8eaf6945c5025a6c9b1ab22a0a1d351042dc7c569bb99f6cbb3fe24c418cf": {
-        "title": "CAR-T迭代，吉利德狂奔",
-        "link": "https://www.tmtpost.com/7946388.html",
-        "published_date": "Thu, 09 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-09T09:12:21.414910"
-      },
       "1f45a04cb6573cf24e80bb3c9eefc4352b3baf92574fbe35b7c15bd72f3b6133": {
         "title": "算力经济学的逻辑，在Agent时代彻底改写了",
         "link": "https://www.tmtpost.com/7946437.html",
@@ -2641,27 +2611,39 @@
         "link": "https://www.tmtpost.com/7981573.html",
         "published_date": "Sat, 09 May 2026 13:45:00 GMT",
         "first_seen": "2026-05-09T07:11:13.538599"
+      },
+      "808c9b63b2d068f974605209b1a616198a3095b1411e73d29e691bf0f1aeb79e": {
+        "title": "字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？",
+        "link": "https://www.tmtpost.com/7981426.html",
+        "published_date": "Sat, 09 May 2026 12:18:00 GMT",
+        "first_seen": "2026-05-09T09:23:21.228179"
+      },
+      "bf4fcbb1fa2e9e8ecb4bc38d9f8a1c34c4ad5dc1178a1a4ae556473867f8838d": {
+        "title": "DeepSeek掀桌后，大模型厂商应该关注什么？",
+        "link": "https://www.tmtpost.com/7982075.html",
+        "published_date": "Sat, 09 May 2026 16:45:00 GMT",
+        "first_seen": "2026-05-09T09:23:21.228187"
+      },
+      "8408280d25cb0389a547a100dcde84fd035682da5d6e6c6f8bb9dccda6147ab4": {
+        "title": "长和系资本重构：剥离欧洲重资产、押注AI",
+        "link": "https://www.tmtpost.com/7978765.html",
+        "published_date": "Sat, 09 May 2026 15:04:00 GMT",
+        "first_seen": "2026-05-09T09:23:21.228189"
+      },
+      "75d5588c6d7f50a09fdd7557ecaf53cfed648864abd0efc2f29ae2e03a7f6c02": {
+        "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
+        "link": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 09 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-09T09:23:21.228191"
+      },
+      "d9dacbfc2866a93ac55c849e10955605f8fec1331028da92a4d4cb9c34081efb": {
+        "title": "黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代",
+        "link": "https://www.tmtpost.com/7982141.html",
+        "published_date": "Sat, 09 May 2026 17:02:00 GMT",
+        "first_seen": "2026-05-09T09:23:21.228192"
       }
     },
     "Finance": {
-      "b6324d4a5bb3c97104ce92feb362eec2eb6472dfa9ad01ab94c3e97469f303ef": {
-        "title": "‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion",
-        "link": "https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.171859"
-      },
-      "6e8533c797b0461e49cfe6710466685822954c4ec265940ced8d3c186deb513d": {
-        "title": "Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Apr 2026 08:20:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.171867"
-      },
-      "f5cac89965d1e2d6473e8946a608e97063a28fdb7c707d0f21c5160be9006fc0": {
-        "title": "BDO axes 31 partner roles as AI pressure grows and profits fall",
-        "link": "https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6",
-        "published_date": "Thu, 09 Apr 2026 06:55:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.171869"
-      },
       "04b2c645d0eaaf8a3a9118385b4efa2b97db528d92f54172cc42b54f43a22c24": {
         "title": "The stock-market correction isn’t over yet. Here’s why the Iran cease-fire is actually a bad omen.",
         "link": "https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories",
@@ -4962,24 +4944,6 @@
       }
     },
     "Ai": {
-      "16fabc815dcdd8680cdf83f47abca4929079d7e1ad8960d3e1b18692baaaa4a4": {
-        "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-        "link": "https://www.qbitai.com/2026/04/398140.html",
-        "published_date": "Thu, 09 Apr 2026 07:08:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.322498"
-      },
-      "4332ccb5b809cfb5e7d1ab96580edfd1fac0ff98b7f04b601525ac0726ac735a": {
-        "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
-        "link": "https://www.qbitai.com/2026/04/398121.html",
-        "published_date": "Thu, 09 Apr 2026 06:59:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.322506"
-      },
-      "b99d3c34b9e49b78910d0c2a0ecc251721f791e849b74b9b575adb4397579239": {
-        "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
-        "link": "https://www.qbitai.com/2026/04/398117.html",
-        "published_date": "Thu, 09 Apr 2026 06:23:00 GMT",
-        "first_seen": "2026-04-09T09:12:06.322508"
-      },
       "3fd19ecd06fe1538fe163bf169d9a0c9442a6821f6648d23755679a53a0ffbba": {
         "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
         "link": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/",
@@ -6329,13 +6293,25 @@
         "link": "https://www.qbitai.com/2026/05/414432.html",
         "published_date": "Sat, 09 May 2026 02:08:00 GMT",
         "first_seen": "2026-05-09T07:10:58.181872"
+      },
+      "4d5d4309c70220fd67c6b14ee7e6879977f01fab39cb2b0bd8e801964d0485f1": {
+        "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
+        "link": "https://www.qbitai.com/2026/05/414827.html",
+        "published_date": "Sat, 09 May 2026 08:07:00 GMT",
+        "first_seen": "2026-05-09T09:23:03.241500"
+      },
+      "5409aca173082e6e02185df1ed251915274bc17b4833bb9e61335fd8af1c9fd2": {
+        "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
+        "link": "https://www.qbitai.com/2026/05/414788.html",
+        "published_date": "Sat, 09 May 2026 07:12:00 GMT",
+        "first_seen": "2026-05-09T09:23:03.241512"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-09T07:11:13.538601",
+    "Technology": "2026-05-09T09:23:21.228195",
     "Finance": "2026-05-09T07:10:58.032904",
-    "Ai": "2026-05-09T07:10:58.181874"
+    "Ai": "2026-05-09T09:23:03.241515"
   }
 }
