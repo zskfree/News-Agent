@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-08 23:59
+**最后更新时间**: 2026-05-09 07:10
+
+---
+
+## 🆕 最新更新 (2026-05-09 07:10)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“你们群，有药代被抓了吗”](https://www.tmtpost.com/7981791.html)
+**发布时间**: 2026-05-09 15:08
+
+#### [腾讯混元，站起来了](https://www.tmtpost.com/7981815.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [2000亿美金！PE基金密集抄底医疗资产](https://www.tmtpost.com/7981800.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [1.8万亿，史上最大独角兽被关停](https://www.tmtpost.com/7981881.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [三天，三家公司，超百亿美元：中国AI大模型的融资决战周](https://www.tmtpost.com/7981913.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [Cerebras上市背后，OpenAI正在抢英伟达的蛋糕](https://www.tmtpost.com/7981936.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [长和系资本重构：剥离欧洲重资产、押注AI](https://www.tmtpost.com/7978765.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [当输入法开始劫持AI](https://www.tmtpost.com/7982017.html)
+**发布时间**: 2026-05-09 15:04
+
+#### [属于消费电子的时代，正在结束](https://www.tmtpost.com/7981573.html)
+**发布时间**: 2026-05-09 13:45
+
+#### [新鲜零食，让子弹再飞一会儿](https://www.tmtpost.com/7981644.html)
+**发布时间**: 2026-05-09 13:45
+
+#### [字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头](https://www.tmtpost.com/7981763.html)
+**发布时间**: 2026-05-09 13:45
+
+#### [星座战争的下半场，从链接卫星的芯片开始｜50×50](https://www.tmtpost.com/7981920.html)
+**发布时间**: 2026-05-09 12:19
+
+#### [字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？](https://www.tmtpost.com/7981426.html)
+**发布时间**: 2026-05-09 12:18
+
+#### [AI漫剧，游戏大厂的新搭子？](https://www.tmtpost.com/7981400.html)
+**发布时间**: 2026-05-09 12:18
+
+#### [马斯克和奥特曼对垒，谁会是“渔翁”？](https://www.tmtpost.com/7981384.html)
+**发布时间**: 2026-05-09 12:18
+
+#### [80%的钱流向AI，但谁来买单？](https://www.tmtpost.com/7981369.html)
+**发布时间**: 2026-05-09 12:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南](https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 12:32
+
+#### [Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下](https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 12:26
+
+#### [Cloudflare构建了面向LLM的高性能基础设施](https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 12:00
+
+#### [技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践](https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 11:12
+
+#### [Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化](https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 10:14
+
+#### [生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海](https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 10:00
+
+#### [DuckLake 1.0：具有SQL目录元数据的数据湖格式](https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-09 09:53
+
+#### [DoorDash利用Copilot将基于XCTest的iOS测试套件转换为Swift Testing](https://www.infoq.cn/article/dWBoVzphLY2HgoB0TwsU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-08 16:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OSMO Pocket 4P，是大疆自己打响的「云台相机下半场」第一枪](http://www.geekpark.net/news/363872)
+**发布时间**: 2026-05-09 09:00
+
+#### [Anthropic 估值逼近 1 万亿美元；OpenAI 推出 Codex Chrome 扩展；消息称腾讯实习生大涨薪，百度「全员晋升」｜极客早知道](http://www.geekpark.net/news/363869)
+**发布时间**: 2026-05-09 07:59
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 May 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 May 2026 23:59:32 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 07:08:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 07:10:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>持续领跑！商汤大装置稳居中国MaaS市场第一梯队</title>
-      <link>https://www.qbitai.com/2026/05/414428.html</link>
-      <description>&lt;![CDATA[持续领跑！商汤大装置稳居中国MaaS市场第一梯队]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414428.html</guid>
+      <title>行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了</title>
+      <link>https://www.qbitai.com/2026/05/414501.html</link>
+      <description>&lt;![CDATA[行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 04:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414501.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Redis之父下场，给DeepSeek V4单独造了一台推理引擎</title>
-      <link>https://www.qbitai.com/2026/05/414316.html</link>
-      <description>&lt;![CDATA[Redis之父下场，给DeepSeek V4单独造了一台推理引擎]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 08:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414316.html</guid>
+      <title>百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%</title>
+      <link>https://www.qbitai.com/2026/05/414496.html</link>
+      <description>&lt;![CDATA[百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414496.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！</title>
+      <link>https://www.qbitai.com/2026/05/414445.html</link>
+      <description>&lt;![CDATA[打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 03:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414445.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月</title>
+      <link>https://www.qbitai.com/2026/05/414432.html</link>
+      <description>&lt;![CDATA[梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 02:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414432.html</guid>
       <category>Ai</category>
     </item>
   </channel>

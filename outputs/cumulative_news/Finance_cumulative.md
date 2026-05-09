@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-08 23:59
+**最后更新时间**: 2026-05-09 07:10
+
+---
+
+## 🆕 最新更新 (2026-05-09 07:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump, Xi and the bid for a ‘grand bargain’ between superpowers](https://www.ft.com/content/5f510d2e-63b9-42e3-8c3e-46f4f5c72e68)
+**发布时间**: 2026-05-09 04:00
+
+#### [The glory of low expectations](https://www.ft.com/content/14152ab1-864d-4ff7-8524-afc7b08821b3)
+**发布时间**: 2026-05-09 04:00
+
+#### [We are living in the age of the middleman](https://www.ft.com/content/390fae73-8228-46a5-8583-7214fb4d2e1f)
+**发布时间**: 2026-05-09 04:00
+
+#### [The Iranian ‘mosquito fleet’ taking on the mighty US Navy](https://www.ft.com/content/2e95626f-2f95-470d-9854-5d272d0ef7cd)
+**发布时间**: 2026-05-09 04:00
+
+#### [China’s exports jump 14% ahead of Xi-Trump summit](https://www.ft.com/content/c1a18633-09d4-4875-878a-8a06c157a8ab)
+**发布时间**: 2026-05-09 03:53
+
+#### [US imposes sanctions on Chinese companies for allegedly helping Iran](https://www.ft.com/content/f0774270-bf41-41da-98ba-b4cb034cbf67)
+**发布时间**: 2026-05-09 02:59
+
+#### [Turkey unveils new ICBM touted as able to hit US mainland](https://www.ft.com/content/d2136091-9fd2-4923-b168-50539e5b27ab)
+**发布时间**: 2026-05-08 21:13
+
+#### [US adds 115,000 jobs in April as labour market shrugs off energy shock](https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d)
+**发布时间**: 2026-05-08 20:07
+
+#### [The new politics may be more like the old politics than we assume](https://www.ft.com/content/e2db027f-79c2-4043-ad26-4648a76d286b)
+**发布时间**: 2026-05-08 17:42
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Lumentum’s fiery stock rally earns it a spot in this hot index](https://www.marketwatch.com/story/lumentums-fiery-stock-rally-earns-it-a-spot-in-this-hot-index-f179f477?mod=mw_rss_topstories)
+**发布时间**: 2026-05-09 01:52
 
 ---
 

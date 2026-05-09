@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 May 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 May 2026 23:59:57 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 07:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 07:11:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上</title>
-      <link>https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头</title>
+      <link>https://www.tmtpost.com/7981763.html</link>
+      <description>&lt;![CDATA[字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981763.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】促进智能体规范应用与创新发展，三部门最新部署；Anthropic将筹集数百亿美元，估值或近万亿超OpenAI；人工智能终端国家标准上新，涉及眼镜、电视、耳机等</title>
-      <link>https://www.tmtpost.com/7976970.html</link>
-      <description>&lt;![CDATA[【钛晨报】促进智能体规范应用与创新发展，三部门最新部署；Anthropic将筹集数百亿美元，估值或近万亿超OpenAI；人工智能终端国家标准上新，涉及眼镜、电视、耳机等]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7976970.html</guid>
+      <title>Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下</title>
+      <link>https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话灵御智能：百万小时真机数据，喂出具身智能的“云端大脑”</title>
-      <link>https://www.tmtpost.com/7981455.html</link>
-      <description>&lt;![CDATA[独家对话灵御智能：百万小时真机数据，喂出具身智能的“云端大脑”]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 20:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981455.html</guid>
+      <title>三天，三家公司，超百亿美元：中国AI大模型的融资决战周</title>
+      <link>https://www.tmtpost.com/7981913.html</link>
+      <description>&lt;![CDATA[三天，三家公司，超百亿美元：中国AI大模型的融资决战周]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981913.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>昆仑芯A+H双线冲刺，百度芯片“断奶”倒计时</title>
-      <link>https://www.tmtpost.com/7980751.html</link>
-      <description>&lt;![CDATA[昆仑芯A+H双线冲刺，百度芯片“断奶”倒计时]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7980751.html</guid>
+      <title>Cerebras上市背后，OpenAI正在抢英伟达的蛋糕</title>
+      <link>https://www.tmtpost.com/7981936.html</link>
+      <description>&lt;![CDATA[Cerebras上市背后，OpenAI正在抢英伟达的蛋糕]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981936.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么你的AI，总是“一收费就变笨”？</title>
-      <link>https://www.tmtpost.com/7981010.html</link>
-      <description>&lt;![CDATA[为什么你的AI，总是“一收费就变笨”？]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981010.html</guid>
+      <title>属于消费电子的时代，正在结束</title>
+      <link>https://www.tmtpost.com/7981573.html</link>
+      <description>&lt;![CDATA[属于消费电子的时代，正在结束]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981573.html</guid>
       <category>Technology</category>
     </item>
   </channel>

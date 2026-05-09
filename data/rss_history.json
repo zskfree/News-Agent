@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8868d23a89834947b08a5877b255ac68a9073a7b3b5ce4ee6f3fbec20069789e": {
-        "title": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
-        "link": "https://www.infoq.cn/article/r5EHCug4069tix7kDGLf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-09T06:21:59.252186"
-      },
-      "4cd00c49c40a7ac4935bca7c277f1ee256c84c9c196103848a7a357dee439b53": {
-        "title": "铜、制冷剂、芯片三重暴击，家电涨价势在必行？",
-        "link": "https://www.tmtpost.com/7945915.html",
-        "published_date": "Thu, 09 Apr 2026 12:02:00 GMT",
-        "first_seen": "2026-04-09T06:21:59.252198"
-      },
-      "8a695aa4f37d43175c33503dda41e69d1eca5aff65cbfa39bd40de565d6392cf": {
-        "title": "科杰技术二十余年炼剑：国产机床的突围与产业链进阶之路 ｜产业链观察",
-        "link": "https://www.tmtpost.com/7946124.html",
-        "published_date": "Thu, 09 Apr 2026 10:47:00 GMT",
-        "first_seen": "2026-04-09T06:21:59.252200"
-      },
-      "c8613e16546e4578a79f1da57872e0dcef45464b6e0d643af8af20e1cdb32480": {
-        "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
-        "link": "https://sspai.com/post/108426",
-        "published_date": "Thu, 09 Apr 2026 08:33:00 GMT",
-        "first_seen": "2026-04-09T06:21:59.252202"
-      },
-      "0f50794118da8c6a7ea9829f2496ca55929a1e13086c3e3bf3db190f15a86620": {
-        "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
-        "link": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-09T06:21:59.252204"
-      },
       "d92d6778eceb44d000b49013964b7a8fdc8d9ac378c54141a6533cdc71aab07c": {
         "title": "28亿变7600亿，烟台首富赚翻了",
         "link": "https://www.tmtpost.com/7946559.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7981010.html",
         "published_date": "Fri, 08 May 2026 17:35:00 GMT",
         "first_seen": "2026-05-08T23:59:57.301745"
+      },
+      "86d485ff4050f27ab001e2ed9de3d6fe1dd30842f266d20852b415ddb855caf5": {
+        "title": "字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头",
+        "link": "https://www.tmtpost.com/7981763.html",
+        "published_date": "Sat, 09 May 2026 13:45:00 GMT",
+        "first_seen": "2026-05-09T07:11:13.538587"
+      },
+      "621de4469c6d721ff8b32c7ffb9ae4cee87671a9a0c43a78416fd2fad580e92a": {
+        "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
+        "link": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 09 May 2026 12:26:00 GMT",
+        "first_seen": "2026-05-09T07:11:13.538593"
+      },
+      "fc8b3998b2eb3adb44acb234f434c0a457cc81fa0a97cbc233b812703d2a8adb": {
+        "title": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周",
+        "link": "https://www.tmtpost.com/7981913.html",
+        "published_date": "Sat, 09 May 2026 15:04:00 GMT",
+        "first_seen": "2026-05-09T07:11:13.538595"
+      },
+      "ce0e2d5fee62c19c176f12eb87ed4d42ebc5178c03bea25764810f7bed3ba0e5": {
+        "title": "Cerebras上市背后，OpenAI正在抢英伟达的蛋糕",
+        "link": "https://www.tmtpost.com/7981936.html",
+        "published_date": "Sat, 09 May 2026 15:04:00 GMT",
+        "first_seen": "2026-05-09T07:11:13.538597"
+      },
+      "2372078c3fdc7ebdee54712e816a707cb74e28047695b9b60119e6aa0508c259": {
+        "title": "属于消费电子的时代，正在结束",
+        "link": "https://www.tmtpost.com/7981573.html",
+        "published_date": "Sat, 09 May 2026 13:45:00 GMT",
+        "first_seen": "2026-05-09T07:11:13.538599"
       }
     },
     "Finance": {
-      "c73c48e54025bc59fdc648c98f6532ad1647de24bd1f7ac2e3f9d8d7a189dd40": {
-        "title": "Shipping stalls as Tehran dictates terms in Hormuz",
-        "link": "https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd",
-        "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-09T06:22:16.908866"
-      },
-      "d5a12d26388d235633ed1302a840ed046e01e0772235b9ae9748b47a237799db": {
-        "title": "Iran war has exposed the weakness of the dollar",
-        "link": "https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa",
-        "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-09T06:22:16.908876"
-      },
-      "0c8b60daa8b62b2c8c045bbccd5fb9c2c2fe5507df141c2960eaa238e6f904d2": {
-        "title": "The case for trade, remade",
-        "link": "https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6",
-        "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-09T06:22:16.908878"
-      },
-      "101a1e6084f728b13b6efe2350edc40a7a2c012df525468ce913f71e71aeca81": {
-        "title": "Investors sought to pull $20bn from private credit funds in first quarter",
-        "link": "https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c",
-        "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-09T06:22:16.908880"
-      },
-      "6d9663c0a6c1175f93c095877ab1f16fa53d9f9769cf2859138a774f77a2c870": {
-        "title": "Ackman in talks to launch fund to bet on investor complacency",
-        "link": "https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561",
-        "published_date": "Thu, 09 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-09T06:22:16.908882"
-      },
       "b6324d4a5bb3c97104ce92feb362eec2eb6472dfa9ad01ab94c3e97469f303ef": {
         "title": "‘Dream coastal retreat’: The late Hulk Hogan’s charming Florida beach cottage listed for $4.5 million—next door to his mansion",
         "link": "https://www.marketwatch.com/story/dream-coastal-retreat-the-late-hulk-hogans-charming-florida-beach-cottage-listed-for-4-5-millionnext-door-to-his-mansion-1c326712?mod=mw_rss_topstories",
@@ -4959,33 +4929,39 @@
         "link": "https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories",
         "published_date": "Fri, 08 May 2026 21:44:00 GMT",
         "first_seen": "2026-05-08T23:59:32.292939"
+      },
+      "715ff8b481c49b7ced3985d70882cda0d00429b796ecc5d24d793431e4a7a463": {
+        "title": "US imposes sanctions on Chinese companies for allegedly helping Iran",
+        "link": "https://www.ft.com/content/f0774270-bf41-41da-98ba-b4cb034cbf67",
+        "published_date": "Sat, 09 May 2026 02:59:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.032887"
+      },
+      "7fa181d6c1f2015d56defcb6759f3e744cc8409789b1b94572d7b96ea1931199": {
+        "title": "China’s exports jump 14% ahead of Xi-Trump summit",
+        "link": "https://www.ft.com/content/c1a18633-09d4-4875-878a-8a06c157a8ab",
+        "published_date": "Sat, 09 May 2026 03:53:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.032895"
+      },
+      "11b2afeb3a4d99411b565ad8b5b4b70070d6d20aa88c2fa1b95f1e691d823c02": {
+        "title": "Trump, Xi and the bid for a ‘grand bargain’ between superpowers",
+        "link": "https://www.ft.com/content/5f510d2e-63b9-42e3-8c3e-46f4f5c72e68",
+        "published_date": "Sat, 09 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.032898"
+      },
+      "3b987b05a728d7588c861a7c92d7b688b7d4323c425f9abc31b6d49562d4b0a2": {
+        "title": "We are living in the age of the middleman",
+        "link": "https://www.ft.com/content/390fae73-8228-46a5-8583-7214fb4d2e1f",
+        "published_date": "Sat, 09 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.032899"
+      },
+      "3ccd8bd7c69512ad0450ae955ad4ea6192c3d6e8b91b039ba0f681e8d47b3ae0": {
+        "title": "The glory of low expectations",
+        "link": "https://www.ft.com/content/14152ab1-864d-4ff7-8524-afc7b08821b3",
+        "published_date": "Sat, 09 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.032901"
       }
     },
     "Ai": {
-      "26cb62b928a1c1f36f74c92b570ffe97a3c5e4e5f82f184c780dda80670645c1": {
-        "title": "2026-04-09日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-09/",
-        "published_date": "Thu, 09 Apr 2026 09:32:00 GMT",
-        "first_seen": "2026-04-09T06:22:17.054354"
-      },
-      "feeb64d28bf3385c77ae3b6e129c70266734920951173f15ba8a1c8697514510": {
-        "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
-        "link": "https://www.qbitai.com/2026/04/398090.html",
-        "published_date": "Thu, 09 Apr 2026 05:11:00 GMT",
-        "first_seen": "2026-04-09T06:22:17.054362"
-      },
-      "9c4a961cd02b3a54ad228c419b61db93f4411101fc43780997a6aad36511fa59": {
-        "title": "马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会",
-        "link": "https://www.qbitai.com/2026/04/398071.html",
-        "published_date": "Thu, 09 Apr 2026 03:41:00 GMT",
-        "first_seen": "2026-04-09T06:22:17.054365"
-      },
-      "182c2d393abcbbd9606dec29a0c1d15ab66e1de6bb9a78a5bebb419b4fc35de4": {
-        "title": "Meta亿元天团首个大模型交卷！余家辉宋飏Jason Wei耗时九个月，一雪Llama前耻",
-        "link": "https://www.qbitai.com/2026/04/398020.html",
-        "published_date": "Thu, 09 Apr 2026 01:49:00 GMT",
-        "first_seen": "2026-04-09T06:22:17.054366"
-      },
       "16fabc815dcdd8680cdf83f47abca4929079d7e1ad8960d3e1b18692baaaa4a4": {
         "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
         "link": "https://www.qbitai.com/2026/04/398140.html",
@@ -6329,13 +6305,37 @@
         "link": "https://www.qbitai.com/2026/05/414316.html",
         "published_date": "Fri, 08 May 2026 08:20:00 GMT",
         "first_seen": "2026-05-08T23:59:32.468728"
+      },
+      "bf20374de991b393d6687b2a162793d76a75aa5e900823d3fec69ddea8d6c582": {
+        "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+        "link": "https://www.qbitai.com/2026/05/414501.html",
+        "published_date": "Sat, 09 May 2026 04:50:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.181840"
+      },
+      "d919f17e7aa0ce4c28c7185993b1da32e8c62e61a15a957653ae4e9f3c70f581": {
+        "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
+        "link": "https://www.qbitai.com/2026/05/414496.html",
+        "published_date": "Sat, 09 May 2026 03:11:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.181848"
+      },
+      "375ccb4cb4799796befd14fc21e525ea42d71ae01e9305d4c8aa2e2967204a17": {
+        "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
+        "link": "https://www.qbitai.com/2026/05/414445.html",
+        "published_date": "Sat, 09 May 2026 03:01:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.181870"
+      },
+      "05110e8d5e31314671f58bd025cfd96306e5b49148e82579d30b99c6b8cdb231": {
+        "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
+        "link": "https://www.qbitai.com/2026/05/414432.html",
+        "published_date": "Sat, 09 May 2026 02:08:00 GMT",
+        "first_seen": "2026-05-09T07:10:58.181872"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-08T23:59:57.301747",
-    "Finance": "2026-05-08T23:59:32.292942",
-    "Ai": "2026-05-08T23:59:32.468732"
+    "Technology": "2026-05-09T07:11:13.538601",
+    "Finance": "2026-05-09T07:10:58.032904",
+    "Ai": "2026-05-09T07:10:58.181874"
   }
 }
