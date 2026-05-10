@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e02b960f9ef897db9d566bc41e744cba866cf7c90c3687bfd2f84707af494abd": {
-        "title": "卖芯片还是卖平台？地平线与黑芝麻智能悄然走出分水岭",
-        "link": "https://www.tmtpost.com/7947126.html",
-        "published_date": "Fri, 10 Apr 2026 12:07:00 GMT",
-        "first_seen": "2026-04-10T06:56:34.103226"
-      },
-      "b4ee04e00763a094189758d16c3d248b176acf284881d6f5b90ebd94dc167370": {
-        "title": "谷歌开源实验性多智能体编排测试平台 Scion",
-        "link": "https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-10T06:56:34.103236"
-      },
-      "fdef9e011376097813792efbfb5571eb6133410b4674455ced26c7c9effa03fc": {
-        "title": "周期反转，模拟芯片步入上行期",
-        "link": "https://www.tmtpost.com/7947131.html",
-        "published_date": "Fri, 10 Apr 2026 12:16:00 GMT",
-        "first_seen": "2026-04-10T06:56:34.103239"
-      },
-      "58cba5eca19def849e852af7aed902fca616b887d8e7933d63caaf2f55ad2fa1": {
-        "title": "派早报：微信支付发布接入 Skill 工具体系等",
-        "link": "https://sspai.com/post/108468",
-        "published_date": "Fri, 10 Apr 2026 08:47:00 GMT",
-        "first_seen": "2026-04-10T06:56:34.103241"
-      },
-      "d9444ef512643646a10208db9d75d6ff495e503fa94ad611094c799b23bfdb53": {
-        "title": "【钛晨报】中国自贸试验区扩围至23个，新增内蒙古；腾讯云：5月9日起对AI算力、容器服务及弹性MapReduce（EMR）相关产品刊例价进行调整；消息称特斯拉Cybercab量产启动",
-        "link": "https://www.tmtpost.com/7947269.html",
-        "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-10T06:56:34.103243"
-      },
       "a333dfd4a8ccc9d3e5830e1b11612dab995d8cc7d05774c10875cc986fd42b07": {
         "title": "森合高科：单一产品依赖、供应商资质遭问询｜IPO观察",
         "link": "https://www.tmtpost.com/7948657.html",
@@ -2641,39 +2611,39 @@
         "link": "http://www.geekpark.net/news/363933",
         "published_date": "Sat, 09 May 2026 23:44:00 GMT",
         "first_seen": "2026-05-09T23:54:57.150247"
+      },
+      "2c57b64210e01148ff2b6e10cdc5eae2aa55086401a19dd32c5b5716b0ce6d42": {
+        "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
+        "link": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 10 May 2026 15:11:00 GMT",
+        "first_seen": "2026-05-10T07:28:53.987075"
+      },
+      "cbfacd5dafedafcf0646180c464f258369684c123ad7f5410d05b610679ace4b": {
+        "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+        "link": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 10 May 2026 15:07:00 GMT",
+        "first_seen": "2026-05-10T07:28:53.987082"
+      },
+      "dc2db59e2710a9a66d0c8207fffa4ace67d83f91681713c9c36b9dac70c70748": {
+        "title": "微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦",
+        "link": "https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 10 May 2026 15:05:00 GMT",
+        "first_seen": "2026-05-10T07:28:53.987084"
+      },
+      "116f60334df4f5f358266c8cf39b5e4b507df85776bce8009e54065a940b3761": {
+        "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "link": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 10 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-10T07:28:53.987087"
+      },
+      "36f823d274a82ce954b4dabddf0d5329e85033d33768d49eaba6806dce3a7489": {
+        "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
+        "link": "http://www.geekpark.net/news/363934",
+        "published_date": "Sun, 10 May 2026 08:24:00 GMT",
+        "first_seen": "2026-05-10T07:28:53.987089"
       }
     },
     "Finance": {
-      "d284bf34d98d09e9b7b4d3d79ccab29653d52d9a3b56468795d72a9b01850cdc": {
-        "title": "Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy",
-        "link": "https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213",
-        "published_date": "Fri, 10 Apr 2026 06:01:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.299911"
-      },
-      "ae4da200832e19ba821301ab25b9c00e66b4dc72fe5f95df8e9acb15ed5f39e3": {
-        "title": "China’s Xi tells Taiwan opposition leader unification an ‘inevitability’",
-        "link": "https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386",
-        "published_date": "Fri, 10 Apr 2026 05:08:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.299925"
-      },
-      "1709e05c4a69486653605b3ad72d83c49b402904b6725c725fdff1b47c5f0a5d": {
-        "title": "Nato split over US access to European bases in Iran war",
-        "link": "https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b",
-        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.299928"
-      },
-      "d7cee1851268a5685183261646d5409a6c05dc0ca95354a2ee271c3059accc30": {
-        "title": "Now would be a great time to send US ambassadors to the Middle East",
-        "link": "https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643",
-        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.299930"
-      },
-      "4ca9819f20b0d78ebe6d5f67c38a560c30b3a92fae55e346db1fbb2d440599cb": {
-        "title": "Six lessons for investors on pricing disaster",
-        "link": "https://www.ft.com/content/d51dd10e-2244-4cbf-897f-1959364ce625",
-        "published_date": "Fri, 10 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.299932"
-      },
       "504b5952b4673a1944a0aee310e1ce12a5b8979e31a235455e42d80ebf66790d": {
         "title": "‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million",
         "link": "https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories",
@@ -4941,27 +4911,39 @@
         "link": "https://www.marketwatch.com/story/just-graduated-heres-your-financial-cheat-sheet-for-building-real-wealth-963f30dc?mod=mw_rss_topstories",
         "published_date": "Sat, 09 May 2026 19:12:00 GMT",
         "first_seen": "2026-05-09T23:54:31.186831"
+      },
+      "937c375045bcda52a5090e0d8e3dc35ce4f772e6817b21719bdaa39c2ae0331c": {
+        "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
+        "link": "https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef",
+        "published_date": "Sun, 10 May 2026 06:00:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.287311"
+      },
+      "9796fc3d5c1d97dc67ad92685fc0cca1b1721bc5214e3ffe1b41159cf8e3ed4b": {
+        "title": "Saudi Aramco reports higher profits despite Iran war",
+        "link": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83",
+        "published_date": "Sun, 10 May 2026 06:24:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.287323"
+      },
+      "b9c22da232e92502d305ad56b1bd06bead3ceafd3e59353dee4f557df6d9b89a": {
+        "title": "More than half of US voters disapprove of Trump’s handling of economy — FT poll",
+        "link": "https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb",
+        "published_date": "Sun, 10 May 2026 04:01:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.287327"
+      },
+      "6ca66b9c8f60c781744a80ff14ddc5d6f48d55c2a67931c5c412f890dc709f27": {
+        "title": "The most prestigious role in AI has no job description",
+        "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+        "published_date": "Sun, 10 May 2026 01:32:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.287331"
+      },
+      "4eace2fae977fe9297437a6557400fe2a3a59bb2137cf4f82f40b601902980e7": {
+        "title": "The ‘surname ceiling’ holding back family companies",
+        "link": "https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025",
+        "published_date": "Sun, 10 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.287333"
       }
     },
     "Ai": {
-      "c3a2de936abda02dedead7cbc255551dd4c9238867c84f3dd9a130774d626922": {
-        "title": "2026-04-10日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-10/",
-        "published_date": "Fri, 10 Apr 2026 09:45:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.453000"
-      },
-      "06a2c2e460c665c6e1691db4b70e3f34d5e6a02e8a738308b3628a1aa6bced4e": {
-        "title": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
-        "link": "https://www.qbitai.com/2026/04/398385.html",
-        "published_date": "Fri, 10 Apr 2026 04:12:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.453009"
-      },
-      "374bf6827119b62a0531459659359423788a66fc8d1b11290c7ef58f96865639": {
-        "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
-        "link": "https://www.qbitai.com/2026/04/398181.html",
-        "published_date": "Fri, 10 Apr 2026 02:20:00 GMT",
-        "first_seen": "2026-04-10T06:56:20.453011"
-      },
       "cf15b1f9cf628291346f6d76df2c5dd039cb248ffd67a65593288f4ba2f76e50": {
         "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
         "link": "https://www.qbitai.com/2026/04/398807.html",
@@ -6317,13 +6299,19 @@
         "link": "https://www.qbitai.com/2026/05/414826.html",
         "published_date": "Sat, 09 May 2026 09:37:00 GMT",
         "first_seen": "2026-05-09T23:54:31.336144"
+      },
+      "ec0d7c32649da38cb8ea5f6872df3bd5227e417758355772ca5195d049ffc03d": {
+        "title": "浙大校友用AI突破32年拉姆齐数下界",
+        "link": "https://www.qbitai.com/2026/05/415031.html",
+        "published_date": "Sun, 10 May 2026 04:01:00 GMT",
+        "first_seen": "2026-05-10T07:28:30.440263"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-09T23:54:57.150248",
-    "Finance": "2026-05-09T23:54:31.186833",
-    "Ai": "2026-05-09T23:54:31.336147"
+    "Technology": "2026-05-10T07:28:53.987090",
+    "Finance": "2026-05-10T07:28:30.287337",
+    "Ai": "2026-05-10T07:28:30.440271"
   }
 }

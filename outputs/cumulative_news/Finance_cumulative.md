@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 23:54
+**最后更新时间**: 2026-05-10 07:28
+
+---
+
+## 🆕 最新更新 (2026-05-10 07:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hantavirus cruise ship arrives in Tenerife for evacuation](https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c)
+**发布时间**: 2026-05-10 06:33
+
+#### [Saudi Aramco reports higher profits despite Iran war](https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83)
+**发布时间**: 2026-05-10 06:24
+
+#### [OpenAI trial lays bare rivalries behind start-up’s $852bn rise](https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef)
+**发布时间**: 2026-05-10 06:00
+
+#### [More than half of US voters disapprove of Trump’s handling of economy — FT poll](https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb)
+**发布时间**: 2026-05-10 04:01
+
+#### [America’s right and left have perfected each other’s tricks](https://www.ft.com/content/94373104-6f15-47d9-b23d-0bcee2885eb3)
+**发布时间**: 2026-05-10 04:00
+
+#### [The ‘surname ceiling’ holding back family companies](https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025)
+**发布时间**: 2026-05-10 04:00
+
+#### [Germany in fresh push to buy Tomahawks after Trump row](https://www.ft.com/content/c64f6c88-36f8-4721-a201-4cd77992fa90)
+**发布时间**: 2026-05-10 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The most prestigious role in AI has no job description](https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 01:32
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 May 2026 23:54:00 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 23:54:57 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 07:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 07:28:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奥特曼“官宣” OpenAI 手机</title>
-      <link>https://www.tmtpost.com/7982227.html</link>
-      <description>&lt;![CDATA[奥特曼“官宣” OpenAI 手机]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 20:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7982227.html</guid>
+      <title>GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控</title>
+      <link>https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>80%的钱流向AI，但谁来买单？</title>
-      <link>https://www.tmtpost.com/7981369.html</link>
-      <description>&lt;![CDATA[80%的钱流向AI，但谁来买单？]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981369.html</guid>
+      <title>Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估</title>
+      <link>https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文</title>
-      <link>https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦</title>
+      <link>https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果和英特尔，分手六年后，又「在一起」了</title>
-      <link>http://www.geekpark.net/news/363920</link>
-      <description>&lt;![CDATA[苹果和英特尔，分手六年后，又「在一起」了]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363920</guid>
+      <title>迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海</title>
+      <link>https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道</title>
-      <link>http://www.geekpark.net/news/363933</link>
-      <description>&lt;![CDATA[被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 23:44:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363933</guid>
+      <title>Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」</title>
+      <link>http://www.geekpark.net/news/363934</link>
+      <description>&lt;![CDATA[Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 08:24:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363934</guid>
       <category>Technology</category>
     </item>
   </channel>

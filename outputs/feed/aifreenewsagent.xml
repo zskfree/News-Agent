@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 May 2026 23:52:00 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 23:54:31 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 07:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 07:28:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>太初元碁携龙虾一体机亮相北京科博会</title>
-      <link>https://www.qbitai.com/2026/05/415027.html</link>
-      <description>&lt;![CDATA[太初元碁携龙虾一体机亮相北京科博会]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 12:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415027.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一</title>
-      <link>https://www.qbitai.com/2026/05/415023.html</link>
-      <description>&lt;![CDATA[阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415023.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>两项AI政策发布，范式智能战略布局与产业方向高度契合</title>
-      <link>https://www.qbitai.com/2026/05/415019.html</link>
-      <description>&lt;![CDATA[两项AI政策发布，范式智能战略布局与产业方向高度契合]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415019.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛</title>
-      <link>https://www.qbitai.com/2026/05/414826.html</link>
-      <description>&lt;![CDATA[空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/414826.html</guid>
+      <title>浙大校友用AI突破32年拉姆齐数下界</title>
+      <link>https://www.qbitai.com/2026/05/415031.html</link>
+      <description>&lt;![CDATA[浙大校友用AI突破32年拉姆齐数下界]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 04:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415031.html</guid>
       <category>Ai</category>
     </item>
   </channel>

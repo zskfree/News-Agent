@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-09 23:54
+**最后更新时间**: 2026-05-10 07:28
+
+---
+
+## 🆕 最新更新 (2026-05-10 07:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控](https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-10 15:11
+
+#### [Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估](https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-10 15:07
+
+#### [微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦](https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-10 15:05
+
+#### [迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海](https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-10 10:00
+
+#### [借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据](https://www.infoq.cn/article/49peofDkBrNCVx41WNO7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-10 08:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [华为 Pura X Max 卖爆了，但「阔折叠」还只赢了一半](http://www.geekpark.net/news/363936)
+**发布时间**: 2026-05-10 14:17
+
+#### [Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」](http://www.geekpark.net/news/363934)
+**发布时间**: 2026-05-10 08:24
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [甩掉1000亿包袱后，新紫光“想赢”还要回答几个问题](https://www.tmtpost.com/7982124.html)
+**发布时间**: 2026-05-10 11:10
+
+#### [71.4K Star的AI交易团队：多智能体架构如何“炒”出一个华尔街](https://www.tmtpost.com/7977510.html)
+**发布时间**: 2026-05-10 10:39
+
+#### [光伏教父施正荣回归：一只年赚13亿的“下蛋金鸡”，1.92亿美元，晶科把它卖了](https://www.tmtpost.com/7982606.html)
+**发布时间**: 2026-05-10 10:21
+
+#### [固德威、阳光电源、国轩高科等 20 余家企业密集涌入， 四部门新规把算力中心变成新战场](https://www.tmtpost.com/7982604.html)
+**发布时间**: 2026-05-10 10:14
+
+#### [18亿增资搁浅后，光大永明人寿又遭两股东清仓](https://www.tmtpost.com/7982493.html)
+**发布时间**: 2026-05-10 10:02
+
+#### [一年翻倍，六年未归——徽商银行的A股“围城”](https://www.tmtpost.com/7981406.html)
+**发布时间**: 2026-05-10 09:56
+
+#### [MCU，今年迎来第二轮涨价潮](https://www.tmtpost.com/7982322.html)
+**发布时间**: 2026-05-10 09:56
+
+#### [一场突如其来的性侵指控，牵出智度系“母子公司”对峙大戏](https://www.tmtpost.com/7982490.html)
+**发布时间**: 2026-05-10 09:48
+
+#### [大模型清场前夜](https://www.tmtpost.com/7982488.html)
+**发布时间**: 2026-05-10 09:46
+
+#### [俞浩到底想干啥？](https://www.tmtpost.com/7982564.html)
+**发布时间**: 2026-05-10 09:45
+
+#### [俞敏洪过不去“小作文”的坎儿](https://www.tmtpost.com/7982523.html)
+**发布时间**: 2026-05-10 09:43
+
+#### [炒至9万元的泡泡玛特冰箱，把黄牛们坑惨了](https://www.tmtpost.com/7982424.html)
+**发布时间**: 2026-05-10 09:43
+
+#### [畅销前20，这家老牌广州厂商拿出了一款风格化的「二次元+小游戏」](https://www.tmtpost.com/7982401.html)
+**发布时间**: 2026-05-10 09:28
+
+#### [买即梦送豆包？拆解字节AI收费的密码](https://www.tmtpost.com/7982392.html)
+**发布时间**: 2026-05-10 09:28
+
+#### [阿里的爱，需要理由](https://www.tmtpost.com/7982460.html)
+**发布时间**: 2026-05-10 09:10
+
+#### [从75亿估值到被申请破产，网红自嗨锅“凉”了](https://www.tmtpost.com/7982454.html)
+**发布时间**: 2026-05-10 08:57
+
+#### [三星家电退出中国：一场迟来的谢幕，一个时代的注脚](https://www.tmtpost.com/7982374.html)
+**发布时间**: 2026-05-10 08:49
+
+#### [曹操出行驶入Robotaxi赛道，“国内首款原生定制车”能否撬动千亿市场？](https://www.tmtpost.com/7982459.html)
+**发布时间**: 2026-05-10 08:45
+
+#### [从DTOF激光雷达到割草机器人，乐动机器人的技术复利“故事”难讲](https://www.tmtpost.com/7982343.html)
+**发布时间**: 2026-05-10 08:38
 
 ---
 
