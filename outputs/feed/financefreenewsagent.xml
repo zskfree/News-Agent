@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 07:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 07:28:30 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 09:40:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 09:40:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI trial lays bare rivalries behind start-up’s $852bn rise</title>
-      <link>https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef</link>
-      <description>&lt;![CDATA[OpenAI trial lays bare rivalries behind start-up’s $852bn rise]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Saudi Aramco reports higher profits despite Iran war</title>
-      <link>https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83</link>
-      <description>&lt;![CDATA[Saudi Aramco reports higher profits despite Iran war]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 06:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>More than half of US voters disapprove of Trump’s handling of economy — FT poll</title>
-      <link>https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb</link>
-      <description>&lt;![CDATA[More than half of US voters disapprove of Trump’s handling of economy — FT poll]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The most prestigious role in AI has no job description</title>
-      <link>https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The most prestigious role in AI has no job description]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 01:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The ‘surname ceiling’ holding back family companies</title>
-      <link>https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025</link>
-      <description>&lt;![CDATA[The ‘surname ceiling’ holding back family companies]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025</guid>
+      <title>Tank maker KNDS pushes Berlin to decide on taking stake before IPO</title>
+      <link>https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793</link>
+      <description>&lt;![CDATA[Tank maker KNDS pushes Berlin to decide on taking stake before IPO]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793</guid>
       <category>Finance</category>
     </item>
   </channel>

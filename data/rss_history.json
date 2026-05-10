@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a333dfd4a8ccc9d3e5830e1b11612dab995d8cc7d05774c10875cc986fd42b07": {
-        "title": "森合高科：单一产品依赖、供应商资质遭问询｜IPO观察",
-        "link": "https://www.tmtpost.com/7948657.html",
-        "published_date": "Fri, 10 Apr 2026 16:36:00 GMT",
-        "first_seen": "2026-04-10T09:14:01.460891"
-      },
-      "a6ae2896815a23e0495de6f824ffba013377a89e632ce29ae89b217803fa1159": {
-        "title": "宁德时代41亿入股中恒科技，宁王的算盘不只在电池",
-        "link": "https://www.tmtpost.com/7948433.html",
-        "published_date": "Fri, 10 Apr 2026 15:48:00 GMT",
-        "first_seen": "2026-04-10T09:14:01.460901"
-      },
-      "1810b4b240526d70bdec99437c1b764dd7e3945ca1b0a8638fac40d5557a656b": {
-        "title": "一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会",
-        "link": "https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 16:10:00 GMT",
-        "first_seen": "2026-04-10T09:14:01.460904"
-      },
-      "a5f61f49056ae89dd357117a80ad1e589802835305f75b6b66f49e88d485573e": {
-        "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
-        "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 15:21:00 GMT",
-        "first_seen": "2026-04-10T09:14:01.460906"
-      },
-      "f62f772948bff982d7e647756b8e9f27f01a57a50b1b6ff4522c5b72c00a7ec5": {
-        "title": "京东健康要给百万台器械装上AI，千亿市场的边界会被打破吗？",
-        "link": "https://www.tmtpost.com/7948069.html",
-        "published_date": "Fri, 10 Apr 2026 16:42:00 GMT",
-        "first_seen": "2026-04-10T09:14:01.460908"
-      },
       "ce3640dde6c9d1a01856ac6342314408718e2ddff23e330df70d0316e52e25d8": {
         "title": "AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？",
         "link": "https://www.tmtpost.com/7947757.html",
@@ -2641,21 +2611,39 @@
         "link": "http://www.geekpark.net/news/363934",
         "published_date": "Sun, 10 May 2026 08:24:00 GMT",
         "first_seen": "2026-05-10T07:28:53.987089"
+      },
+      "93158f6b72fc60d349fe7dd5709d2cd0d4ccd911474d3959d8b2c0b57fb9494e": {
+        "title": "大模型清场前夜",
+        "link": "https://www.tmtpost.com/7982488.html",
+        "published_date": "Sun, 10 May 2026 09:46:00 GMT",
+        "first_seen": "2026-05-10T09:40:59.863423"
+      },
+      "500c376077a4747cc329b23a9ae47471af96d3d8471f3d85ccc242b4400343e8": {
+        "title": "固德威、阳光电源、国轩高科等 20 余家企业密集涌入， 四部门新规把算力中心变成新战场",
+        "link": "https://www.tmtpost.com/7982604.html",
+        "published_date": "Sun, 10 May 2026 10:14:00 GMT",
+        "first_seen": "2026-05-10T09:40:59.863430"
+      },
+      "98965f83c5fc520f401d8cf950b986b5d7859bb125ec82cc77f50a569ffaf36b": {
+        "title": "曹操出行驶入Robotaxi赛道，“国内首款原生定制车”能否撬动千亿市场？",
+        "link": "https://www.tmtpost.com/7982459.html",
+        "published_date": "Sun, 10 May 2026 08:45:00 GMT",
+        "first_seen": "2026-05-10T09:40:59.863433"
+      },
+      "a9af25b163f6fe608a4ba28ed0835ca4bcc42a1dc54c7b1e834752602b3aff91": {
+        "title": "甩掉1000亿包袱后，新紫光“想赢”还要回答几个问题",
+        "link": "https://www.tmtpost.com/7982124.html",
+        "published_date": "Sun, 10 May 2026 11:10:00 GMT",
+        "first_seen": "2026-05-10T09:40:59.863435"
+      },
+      "257f6a323cc88cb96c6e1f0333e00744352b719a92bc08acbe9a01bd88b49b66": {
+        "title": "71.4K Star的AI交易团队：多智能体架构如何“炒”出一个华尔街",
+        "link": "https://www.tmtpost.com/7977510.html",
+        "published_date": "Sun, 10 May 2026 10:39:00 GMT",
+        "first_seen": "2026-05-10T09:40:59.863437"
       }
     },
     "Finance": {
-      "504b5952b4673a1944a0aee310e1ce12a5b8979e31a235455e42d80ebf66790d": {
-        "title": "‘Crime 101’ actor Tate Donovan lists lush Texas Hill Country property for $1.7 million",
-        "link": "https://www.marketwatch.com/story/crime-101-actor-tate-donovan-lists-lush-texas-hill-country-property-for-1-7-million-a466a1b8?mod=mw_rss_topstories",
-        "published_date": "Fri, 10 Apr 2026 09:02:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.345703"
-      },
-      "636cb00f1fdb43f3986665bb229f7d76d3835e9d56a8eda92d9046a4e8b654d7": {
-        "title": "Israel presses ahead with Lebanon strikes as talks loom",
-        "link": "https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f",
-        "published_date": "Fri, 10 Apr 2026 08:37:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.345716"
-      },
       "0436f5809a166f1c6fca73d468904ce63c0d255e69cdcb87ecb3e45aa31f5d69": {
         "title": "US inflation jumps to two-year high as Iran war ripples across economy",
         "link": "https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248",
@@ -4941,39 +4929,15 @@
         "link": "https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025",
         "published_date": "Sun, 10 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-10T07:28:30.287333"
+      },
+      "ac20b435c00f9c0e9cb8d83cff94aee650e380c68c4de4f02a489c365481f2bc": {
+        "title": "Tank maker KNDS pushes Berlin to decide on taking stake before IPO",
+        "link": "https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793",
+        "published_date": "Sun, 10 May 2026 09:07:00 GMT",
+        "first_seen": "2026-05-10T09:40:41.067303"
       }
     },
     "Ai": {
-      "cf15b1f9cf628291346f6d76df2c5dd039cb248ffd67a65593288f4ba2f76e50": {
-        "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
-        "link": "https://www.qbitai.com/2026/04/398807.html",
-        "published_date": "Fri, 10 Apr 2026 08:22:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.500633"
-      },
-      "2e9af23b249bf9ffb0cafe07da6c1943c8cfd8205e60fb447400ef4cf3f3ceee": {
-        "title": "刷屏的SBTI，底层算法有点东西…",
-        "link": "https://www.qbitai.com/2026/04/398788.html",
-        "published_date": "Fri, 10 Apr 2026 08:12:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.500642"
-      },
-      "2d8d0de0c759c4aa215990e701a349ec287cb892e59bf5d4623ac481d3b676de": {
-        "title": "生数科技完成近20 亿元 B 轮融资，以通用世界模型定义下一代数字与物理世界生产力底座",
-        "link": "https://www.qbitai.com/2026/04/398772.html",
-        "published_date": "Fri, 10 Apr 2026 07:37:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.500645"
-      },
-      "d0323120e09b57e77e0056fc30cf0e492b39cfbe207e324223c3544f91515b1c": {
-        "title": "太初元碁完成智谱GLM-5.1即发即适配",
-        "link": "https://www.qbitai.com/2026/04/398752.html",
-        "published_date": "Fri, 10 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.500646"
-      },
-      "6827b5301cb5a69aad376693cfe9a49df7775eade3a3a16542074b4cfd95804d": {
-        "title": "这帮清华的，造了一个让龙虾“安全着陆”的新物种",
-        "link": "https://www.qbitai.com/2026/04/398750.html",
-        "published_date": "Fri, 10 Apr 2026 07:13:00 GMT",
-        "first_seen": "2026-04-10T09:13:41.500648"
-      },
       "dd257b43e27a932e206aadd238738a42f0e2afb3369f0225eb91490d20c63864": {
         "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
         "link": "https://www.qbitai.com/2026/04/399370.html",
@@ -6310,8 +6274,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-10T07:28:53.987090",
-    "Finance": "2026-05-10T07:28:30.287337",
+    "Technology": "2026-05-10T09:40:59.863439",
+    "Finance": "2026-05-10T09:40:41.067313",
     "Ai": "2026-05-10T07:28:30.440271"
   }
 }

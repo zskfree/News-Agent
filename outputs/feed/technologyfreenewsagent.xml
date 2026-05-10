@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 07:28:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 07:28:53 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 09:40:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 09:40:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控</title>
-      <link>https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型清场前夜</title>
+      <link>https://www.tmtpost.com/7982488.html</link>
+      <description>&lt;![CDATA[大模型清场前夜]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982488.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估</title>
-      <link>https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 15:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>固德威、阳光电源、国轩高科等 20 余家企业密集涌入， 四部门新规把算力中心变成新战场</title>
+      <link>https://www.tmtpost.com/7982604.html</link>
+      <description>&lt;![CDATA[固德威、阳光电源、国轩高科等 20 余家企业密集涌入， 四部门新规把算力中心变成新战场]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982604.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦</title>
-      <link>https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>曹操出行驶入Robotaxi赛道，“国内首款原生定制车”能否撬动千亿市场？</title>
+      <link>https://www.tmtpost.com/7982459.html</link>
+      <description>&lt;![CDATA[曹操出行驶入Robotaxi赛道，“国内首款原生定制车”能否撬动千亿市场？]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982459.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海</title>
-      <link>https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>甩掉1000亿包袱后，新紫光“想赢”还要回答几个问题</title>
+      <link>https://www.tmtpost.com/7982124.html</link>
+      <description>&lt;![CDATA[甩掉1000亿包袱后，新紫光“想赢”还要回答几个问题]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982124.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」</title>
-      <link>http://www.geekpark.net/news/363934</link>
-      <description>&lt;![CDATA[Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 08:24:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363934</guid>
+      <title>71.4K Star的AI交易团队：多智能体架构如何“炒”出一个华尔街</title>
+      <link>https://www.tmtpost.com/7977510.html</link>
+      <description>&lt;![CDATA[71.4K Star的AI交易团队：多智能体架构如何“炒”出一个华尔街]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 10:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7977510.html</guid>
       <category>Technology</category>
     </item>
   </channel>

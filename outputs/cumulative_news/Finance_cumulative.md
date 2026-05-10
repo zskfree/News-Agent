@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-10 07:28
+**最后更新时间**: 2026-05-10 09:40
+
+---
+
+## 🆕 最新更新 (2026-05-10 09:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tank maker KNDS pushes Berlin to decide on taking stake before IPO](https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793)
+**发布时间**: 2026-05-10 09:07
+
+#### [Saudi Aramco profits rise as oil price surge and pipeline offset Iran war hit](https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83)
+**发布时间**: 2026-05-10 06:24
 
 ---
 
