@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-10 09:40
+**最后更新时间**: 2026-05-10 23:56
+
+---
+
+## 🆕 最新更新 (2026-05-10 23:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures fall, oil surges as Trump calls Iran’s latest offer to end war ‘totally unacceptable’](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 23:48
+
+#### [My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?](https://www.marketwatch.com/story/my-niece-is-on-social-security-disability-insurance-will-she-lose-her-health-insurance-if-i-buy-her-a-house-5214d100?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 23:35
+
+#### [Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.](https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 22:00
+
+#### [Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation](https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 20:20
+
+#### [Big Tech’s AI spending is depriving investors of juicy payouts](https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 20:13
+
+#### [As Nvidia earnings draw closer, here are 5 things investors need to watch](https://www.marketwatch.com/story/as-nvidia-earnings-draw-closer-here-are-5-things-investors-need-to-watch-d11d8136?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 16:56
+
+#### [‘Fibermaxxing’ has spurred the launch of fiber sodas and gummies. Is the craze going too far?](https://www.marketwatch.com/story/fibermaxxing-has-spurred-the-launch-of-fiber-sodas-and-gummies-is-the-craze-going-too-far-c424f7dc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-10 15:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump to press China’s Xi about Iran war at summit](https://www.ft.com/content/09c91701-114b-45e9-9aa1-767ef95a5217)
+**发布时间**: 2026-05-10 23:00
+
+#### [Trump says Iran’s response to peace proposal is ‘unacceptable’](https://www.ft.com/content/f66186e7-8e14-466d-b4de-114ee70c3e62)
+**发布时间**: 2026-05-10 22:32
+
+#### [Trump’s war has given China an economic opening](https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1)
+**发布时间**: 2026-05-10 14:23
+
+#### [Iran war could prompt Federal Reserve to raise rates, Pimco says](https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d)
+**发布时间**: 2026-05-10 13:00
 
 ---
 

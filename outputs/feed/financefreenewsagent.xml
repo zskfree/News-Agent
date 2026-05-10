@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 09:40:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 09:40:41 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 23:56:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tank maker KNDS pushes Berlin to decide on taking stake before IPO</title>
-      <link>https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793</link>
-      <description>&lt;![CDATA[Tank maker KNDS pushes Berlin to decide on taking stake before IPO]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793</guid>
+      <title>Iran war could prompt Federal Reserve to raise rates, Pimco says</title>
+      <link>https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d</link>
+      <description>&lt;![CDATA[Iran war could prompt Federal Reserve to raise rates, Pimco says]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.</title>
+      <link>https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation</title>
+      <link>https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Big Tech’s AI spending is depriving investors of juicy payouts</title>
+      <link>https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Big Tech’s AI spending is depriving investors of juicy payouts]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 20:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s war has given China an economic opening</title>
+      <link>https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1</link>
+      <description>&lt;![CDATA[Trump’s war has given China an economic opening]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1</guid>
       <category>Finance</category>
     </item>
   </channel>

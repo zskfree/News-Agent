@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ce3640dde6c9d1a01856ac6342314408718e2ddff23e330df70d0316e52e25d8": {
-        "title": "AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？",
-        "link": "https://www.tmtpost.com/7947757.html",
-        "published_date": "Fri, 10 Apr 2026 12:06:00 GMT",
-        "first_seen": "2026-04-10T23:39:37.541313"
-      },
-      "08792c45a106e7fd9a8a73a1b1676d8814b1b497b62bdadf7da7df73d5cef2a7": {
-        "title": "从大模型到Agent的跨越难度，正被整个行业严重低估",
-        "link": "https://www.tmtpost.com/7948137.html",
-        "published_date": "Fri, 10 Apr 2026 12:28:00 GMT",
-        "first_seen": "2026-04-10T23:39:37.541319"
-      },
-      "ee5de499ba108b66db1604fbda1c0e8105cff76cf5b6d18020e890b0f69d0faf": {
-        "title": "从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京",
-        "link": "https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-10T23:39:37.541321"
-      },
-      "e54e59dd70cb61388fb51e4f0c4d670aef7e5f565c664c01c0377ad3e6b79b3d": {
-        "title": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
-        "link": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 17:20:00 GMT",
-        "first_seen": "2026-04-10T23:39:37.541323"
-      },
-      "9302250527415dfd08900a143fec21ef3ed9e4755a061e0d558cbc59d8f47e80": {
-        "title": "Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码",
-        "link": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-10T23:39:37.541325"
-      },
       "49aa1f13aa34a01e1ccc96071180a5b8be26d2e53043896947ae98954ce8fc86": {
         "title": "哈萨比斯：ChatGPT把AI带上了“邪路”",
         "link": "https://www.tmtpost.com/7949224.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7977510.html",
         "published_date": "Sun, 10 May 2026 10:39:00 GMT",
         "first_seen": "2026-05-10T09:40:59.863437"
+      },
+      "4b38ed8ce639c64197855b1b6c5e6ab9d3763fcbd1c9ba56b63f75097b7f3d95": {
+        "title": "【钛晨报】事关综合交通运输体系、化债等，国常会最新部署；DeepSeek和阿里谈崩了？市场人士：双方应该没有进行谈判；英伟达全面布局AI生态，股权投资今年已超400亿美元",
+        "link": "https://www.tmtpost.com/7982888.html",
+        "published_date": "Mon, 11 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-10T23:57:05.633644"
+      },
+      "5470ab29927061215e198440ead922aad04f9d283be0fab646491934a2f7347e": {
+        "title": "3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO",
+        "link": "https://www.tmtpost.com/7982748.html",
+        "published_date": "Sun, 10 May 2026 19:14:00 GMT",
+        "first_seen": "2026-05-10T23:57:05.633650"
+      },
+      "a8f931d5a9a32bff43ee259b66316beb3fbeb4d87cf10f995b0791543b2985f4": {
+        "title": "MCU，今年迎来第二轮涨价潮",
+        "link": "https://www.tmtpost.com/7982322.html",
+        "published_date": "Sun, 10 May 2026 09:56:00 GMT",
+        "first_seen": "2026-05-10T23:57:05.633653"
+      },
+      "0e4c7ed8a751424b3a92d17a71204a90f900bfda69d14bc0016ccc49424f770c": {
+        "title": "储能大洗牌已开始，21家上市公司，谁先被淘汰？",
+        "link": "https://www.tmtpost.com/7982820.html",
+        "published_date": "Sun, 10 May 2026 19:14:00 GMT",
+        "first_seen": "2026-05-10T23:57:05.633654"
+      },
+      "c076d217e34b8e5c7746165608a4505bb8d06ef4d0f45d4ed1a054f887d78f1b": {
+        "title": "三星的撤退与进击",
+        "link": "https://www.tmtpost.com/7982739.html",
+        "published_date": "Sun, 10 May 2026 16:54:00 GMT",
+        "first_seen": "2026-05-10T23:57:05.633656"
       }
     },
     "Finance": {
-      "0436f5809a166f1c6fca73d468904ce63c0d255e69cdcb87ecb3e45aa31f5d69": {
-        "title": "US inflation jumps to two-year high as Iran war ripples across economy",
-        "link": "https://www.ft.com/content/7573b421-9c1e-4203-8477-7414f82eb248",
-        "published_date": "Fri, 10 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.569654"
-      },
-      "988f1b09b98ecbcf17563a4de95480010456a151b26ae8a210211f5de2074aad": {
-        "title": "AI spending will boost productivity — but first it’ll make even the most efficient firms look like slackers",
-        "link": "https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories",
-        "published_date": "Fri, 10 Apr 2026 21:41:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.569662"
-      },
-      "bfdda1e7ee48a5c1e474d6764394e2ef130f93120e9a4fae4048a9991d9f36ad": {
-        "title": "Why has the UK economy been so badly hit by the Iran war?",
-        "link": "https://www.ft.com/content/b8c27ed5-64bc-4ccd-b9dc-f60f87b96aa3",
-        "published_date": "Fri, 10 Apr 2026 18:03:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.569665"
-      },
-      "576ccaa90ecd061a9daa5222395b141a65f6cfef2818b93b72c7caf574312d89": {
-        "title": "Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in",
-        "link": "https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories",
-        "published_date": "Fri, 10 Apr 2026 21:36:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.569666"
-      },
-      "7e1d2f27b03673a541e9a5b2bcffa4e53f9a797ef0b934345dcf808c28be1893": {
-        "title": "Cyber security stocks fall on worries over Anthropic’s advanced AI tool",
-        "link": "https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef",
-        "published_date": "Fri, 10 Apr 2026 21:02:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.569668"
-      },
       "18421322047ed546663ac06a24c7dd89be3cbf7f5c10a23f8e7d4c23aa8f886c": {
         "title": "Only two events have mattered in my 30 years of investing",
         "link": "https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c",
@@ -4935,33 +4905,39 @@
         "link": "https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793",
         "published_date": "Sun, 10 May 2026 09:07:00 GMT",
         "first_seen": "2026-05-10T09:40:41.067303"
+      },
+      "7304990eebd91925619a8ef4dbb9cf246c61e8744c75e91c774c4444e7aafbd7": {
+        "title": "Iran war could prompt Federal Reserve to raise rates, Pimco says",
+        "link": "https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d",
+        "published_date": "Sun, 10 May 2026 13:00:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.084785"
+      },
+      "f726d0bd990aad4e9d73bd1508fa846ac2c6bb33f8e47dba50c9c01776859525": {
+        "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+        "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+        "published_date": "Sun, 10 May 2026 22:00:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.084793"
+      },
+      "de0b33ee0ebbf883a959547a5003458e3b6712712b04dbd8243fea760b1215b0": {
+        "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
+        "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
+        "published_date": "Sun, 10 May 2026 20:20:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.084796"
+      },
+      "973dba3fb416a8f84f5b7cc84929b93b509bcaea35aefaddd7baa6dc481438d3": {
+        "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
+        "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
+        "published_date": "Sun, 10 May 2026 20:13:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.084798"
+      },
+      "76922bad21083b701126db5020916851c78a6b6424ea5b1be50c76448bf4fb3f": {
+        "title": "Trump’s war has given China an economic opening",
+        "link": "https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1",
+        "published_date": "Sun, 10 May 2026 14:23:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.084800"
       }
     },
     "Ai": {
-      "dd257b43e27a932e206aadd238738a42f0e2afb3369f0225eb91490d20c63864": {
-        "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-        "link": "https://www.qbitai.com/2026/04/399370.html",
-        "published_date": "Fri, 10 Apr 2026 12:07:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.712561"
-      },
-      "206f79e2a8529da6b024af84b07d9ae1b6ce978929b232c0e3ad37a7094338d9": {
-        "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-        "link": "https://www.qbitai.com/2026/04/399366.html",
-        "published_date": "Fri, 10 Apr 2026 11:42:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.712568"
-      },
-      "2dde7ba0fefb2987c43636b4a44d5c524d6a782df8d8f4b3e1d29251c2fdccd9": {
-        "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
-        "link": "https://www.qbitai.com/2026/04/399351.html",
-        "published_date": "Fri, 10 Apr 2026 10:32:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.712570"
-      },
-      "d092e49342508d80315c9af4f831a11393dd20cde5672c7cebf294b35868df4e": {
-        "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-        "link": "https://www.qbitai.com/2026/04/398869.html",
-        "published_date": "Fri, 10 Apr 2026 09:31:00 GMT",
-        "first_seen": "2026-04-10T23:39:10.712571"
-      },
       "fe4617bde14e65563b90c2bf1c386b5b9300e13cdc11d3b0b1c30c48fbf2d706": {
         "title": "2026-04-11日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-11/",
@@ -6269,13 +6245,19 @@
         "link": "https://www.qbitai.com/2026/05/415031.html",
         "published_date": "Sun, 10 May 2026 04:01:00 GMT",
         "first_seen": "2026-05-10T07:28:30.440263"
+      },
+      "d4842a696914dca6be4e56d508578882fadcda896dad4c53e59aeaac95a668e6": {
+        "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+        "link": "https://www.qbitai.com/2026/05/415048.html",
+        "published_date": "Sun, 10 May 2026 16:26:00 GMT",
+        "first_seen": "2026-05-10T23:56:41.233095"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-10T09:40:59.863439",
-    "Finance": "2026-05-10T09:40:41.067313",
-    "Ai": "2026-05-10T07:28:30.440271"
+    "Technology": "2026-05-10T23:57:05.633657",
+    "Finance": "2026-05-10T23:56:41.084802",
+    "Ai": "2026-05-10T23:56:41.233103"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 07:26:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 07:28:30 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 23:54:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 23:56:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>浙大校友用AI突破32年拉姆齐数下界</title>
-      <link>https://www.qbitai.com/2026/05/415031.html</link>
-      <description>&lt;![CDATA[浙大校友用AI突破32年拉姆齐数下界]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415031.html</guid>
+      <title>浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互</title>
+      <link>https://www.qbitai.com/2026/05/415048.html</link>
+      <description>&lt;![CDATA[浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415048.html</guid>
       <category>Ai</category>
     </item>
   </channel>
