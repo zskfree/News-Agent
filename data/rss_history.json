@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "49aa1f13aa34a01e1ccc96071180a5b8be26d2e53043896947ae98954ce8fc86": {
-        "title": "哈萨比斯：ChatGPT把AI带上了“邪路”",
-        "link": "https://www.tmtpost.com/7949224.html",
-        "published_date": "Sat, 11 Apr 2026 11:07:00 GMT",
-        "first_seen": "2026-04-11T06:05:08.046614"
-      },
-      "ee781c29ea56b66219afca70034743c29e646d76dfdd08c84f27bdfe80ab8fc5": {
-        "title": "大模型厂商，是时候告别Token狂欢了",
-        "link": "https://www.tmtpost.com/7949554.html",
-        "published_date": "Sat, 11 Apr 2026 12:42:00 GMT",
-        "first_seen": "2026-04-11T06:05:08.046622"
-      },
-      "894d09537c859e8a769ef1bdcf482f87e85fb59dc58fafd8b80aeeb63a222198": {
-        "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
-        "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Apr 2026 08:00:00 GMT",
-        "first_seen": "2026-04-11T06:05:08.046625"
-      },
-      "b1bf796aaebe9afc73e7c3c09713bdb800ba52e4502703432595cb7fc6349abc": {
-        "title": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
-        "link": "https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-11T06:05:08.046626"
-      },
-      "7c05cd2caf1f8cffdbfa6f4f50105819da8d2f0c6d582b8aad0c648e9ef155f9": {
-        "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
-        "link": "https://www.tmtpost.com/7949632.html",
-        "published_date": "Sat, 11 Apr 2026 12:55:00 GMT",
-        "first_seen": "2026-04-11T06:05:08.046628"
-      },
       "3a110fde5e204457a18f17de42c7870dd0e9d93d7dc5fa0d777037d1a9c6bd64": {
         "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
         "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7982739.html",
         "published_date": "Sun, 10 May 2026 16:54:00 GMT",
         "first_seen": "2026-05-10T23:57:05.633656"
+      },
+      "97b8f13b98e1377cc6617da04e4e7d0a464812b19164b0ce79f351cf77781167": {
+        "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
+        "link": "https://sspai.com/post/109610",
+        "published_date": "Mon, 11 May 2026 07:12:00 GMT",
+        "first_seen": "2026-05-11T08:27:37.929050"
+      },
+      "bb89860face7922b05ee9f0a58324e37ce42fbe58fbf8d50d7d12b58d6a23930": {
+        "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
+        "link": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 May 2026 15:54:00 GMT",
+        "first_seen": "2026-05-11T08:27:37.929059"
+      },
+      "acdf9ee0f2d510387f4505a9061dc3a79156cdca37ccbe723ac53248027ae21c": {
+        "title": "芯片产业的最大金主们，花钱逻辑变了",
+        "link": "https://www.tmtpost.com/7983172.html",
+        "published_date": "Mon, 11 May 2026 10:08:00 GMT",
+        "first_seen": "2026-05-11T08:27:37.929062"
+      },
+      "4570d7e495ed15b254d592f9297079d7493fd57a7dadb79f3573f0aab0910016": {
+        "title": "Amazon CloudWatch 预览支持 OpenTelemetry Metrics",
+        "link": "https://www.infoq.cn/article/zxqxYI9HUWWttJpprFCS?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 May 2026 14:25:00 GMT",
+        "first_seen": "2026-05-11T08:27:37.929065"
+      },
+      "923bc1ed132e1085702fdf9bdf1ffece15265563a76fac14359a1d884c5b05b1": {
+        "title": "干掉搜索框，千问淘宝打通，能重写电商规则吗？",
+        "link": "https://www.tmtpost.com/7983400.html",
+        "published_date": "Mon, 11 May 2026 15:14:00 GMT",
+        "first_seen": "2026-05-11T08:27:37.929067"
       }
     },
     "Finance": {
-      "18421322047ed546663ac06a24c7dd89be3cbf7f5c10a23f8e7d4c23aa8f886c": {
-        "title": "Only two events have mattered in my 30 years of investing",
-        "link": "https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c",
-        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.517853"
-      },
-      "82d032f08c3e3fa8797fb5a44d43df972bb2355755e9897db319da337a80ab05": {
-        "title": "Mortgage borrowers seek shorter-term deals as market volatility saps confidence",
-        "link": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
-        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.517862"
-      },
-      "f062f27b3d4bf07c2513c5f6ee5b2ab4481eb3af8597451d8201ae3da18bbd07": {
-        "title": "Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees",
-        "link": "https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483",
-        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.517865"
-      },
-      "6dcb4ee23d13668f32067179f0d732891f7b4c1230aa0df17dcd177a75814531": {
-        "title": "‘I am at a crossroads’: I’m 37 and have $1.3 million. Do I stop working to spend time with my young kids?",
-        "link": "https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories",
-        "published_date": "Sat, 11 Apr 2026 00:32:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.517867"
-      },
-      "b66821d9afccdb0afec94f1d6953ab8a8ac7a39c2d7de56faf8b507c8d2eae0f": {
-        "title": "The tragedy of leisure",
-        "link": "https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9",
-        "published_date": "Sat, 11 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.517869"
-      },
       "ec9316680c60e0e883a6b348d026260e39b2fa24277f7db7df68d18b4e457805": {
         "title": "Peace talks present big test on global stage for JD Vance",
         "link": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
@@ -4935,33 +4905,39 @@
         "link": "https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1",
         "published_date": "Sun, 10 May 2026 14:23:00 GMT",
         "first_seen": "2026-05-10T23:56:41.084800"
+      },
+      "1e8dc2d7a5d7d7a85daa626ab985fe519ea84bd29b61d7cd14650bd07eb0c267": {
+        "title": "How AI mania is disguising big companies’ hit from Iran war — in charts",
+        "link": "https://www.ft.com/content/5e9008e6-75dc-438d-8eb0-1b507c426847",
+        "published_date": "Mon, 11 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.040317"
+      },
+      "c52cd241554bb948ab135fb94bd2c1da1c535ccd0776c951afe03f766e52f16a": {
+        "title": "China fixes currency at 3-year high ahead of Trump-Xi meeting",
+        "link": "https://www.ft.com/content/37fa551b-c4b3-44fb-ad71-3ba4aa448e50",
+        "published_date": "Mon, 11 May 2026 03:16:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.040329"
+      },
+      "82fab9bd38a607b56cad76da1c13b8b2644a0e04084ab23befa87fc2ede7dc6c": {
+        "title": "UK government bonds weaken as pressure on Starmer mounts",
+        "link": "https://www.ft.com/content/9a6675ac-7d78-4d59-b6b8-51d3f5c80ee6",
+        "published_date": "Mon, 11 May 2026 07:14:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.040332"
+      },
+      "865cd5d84e52499d908db0854adcd84aad9ff54b42749132ec6ffcfa0a7311ce": {
+        "title": "Top ECB official attacks German opposition to UniCredit’s bid for Commerzbank",
+        "link": "https://www.ft.com/content/983af07c-1f52-4bdf-bbbd-090c46f97e18",
+        "published_date": "Mon, 11 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.040334"
+      },
+      "b69b02643aee0f9b1123ff6f4873f8631dd3bc6e22156f58f03d5f58d4d84429": {
+        "title": "Life without US tech",
+        "link": "https://www.ft.com/content/4c3aad70-e0cb-46a2-95d5-15d11b6bf818",
+        "published_date": "Mon, 11 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.040336"
       }
     },
     "Ai": {
-      "fe4617bde14e65563b90c2bf1c386b5b9300e13cdc11d3b0b1c30c48fbf2d706": {
-        "title": "2026-04-11日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-11/",
-        "published_date": "Sat, 11 Apr 2026 11:01:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.670237"
-      },
-      "ee8c242ee4b68387d32c7ac88b27e3728ce481b940b4fef6c0727665c4bf61d1": {
-        "title": "奥特曼遭遇死亡威胁：凌晨家中被投燃烧瓶",
-        "link": "https://www.qbitai.com/2026/04/399473.html",
-        "published_date": "Sat, 11 Apr 2026 02:19:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.670245"
-      },
-      "8b36aa6ab6ce334cef581e1eb0736163cff866ec23172cac701d5886a25aeaf2": {
-        "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-        "link": "https://www.qbitai.com/2026/04/399417.html",
-        "published_date": "Sat, 11 Apr 2026 02:07:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.670247"
-      },
-      "7c5c79303492a397a9fa6d791b0483b620aef8125afe8f386b0689d7eaf8c000": {
-        "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-        "link": "https://www.qbitai.com/2026/04/399393.html",
-        "published_date": "Sat, 11 Apr 2026 01:23:00 GMT",
-        "first_seen": "2026-04-11T06:04:43.670249"
-      },
       "a2f8f849376517ae1a760853ccfeae57d3a76c97e7044a5071a8fce996bb23ff": {
         "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
         "link": "https://www.qbitai.com/2026/04/399675.html",
@@ -6251,13 +6227,37 @@
         "link": "https://www.qbitai.com/2026/05/415048.html",
         "published_date": "Sun, 10 May 2026 16:26:00 GMT",
         "first_seen": "2026-05-10T23:56:41.233095"
+      },
+      "667fe3b4b3160933abe1ed8f0820f659e8a431bd6b18c74a08b203775af91a70": {
+        "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+        "link": "https://www.qbitai.com/2026/05/415714.html",
+        "published_date": "Mon, 11 May 2026 07:37:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.188524"
+      },
+      "c1e99a2dbcdaa3278300fd9a56eb5d467269314d4195b4374bcc82ef2d5ddedc": {
+        "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+        "link": "https://www.qbitai.com/2026/05/415403.html",
+        "published_date": "Mon, 11 May 2026 06:32:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.188532"
+      },
+      "b1179d41c2318abbeb93dad164cf8a34306d22e385fa284642d056ab7dd122dd": {
+        "title": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果",
+        "link": "https://www.qbitai.com/2026/05/415186.html",
+        "published_date": "Mon, 11 May 2026 05:14:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.188534"
+      },
+      "851fd70d107f4a250e2d53b09842110d670b4960bf7bde429238a66863d0d726": {
+        "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "link": "https://www.qbitai.com/2026/05/415065.html",
+        "published_date": "Mon, 11 May 2026 01:51:00 GMT",
+        "first_seen": "2026-05-11T08:27:12.188536"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-10T23:57:05.633657",
-    "Finance": "2026-05-10T23:56:41.084802",
-    "Ai": "2026-05-10T23:56:41.233103"
+    "Technology": "2026-05-11T08:27:37.929071",
+    "Finance": "2026-05-11T08:27:12.040338",
+    "Ai": "2026-05-11T08:27:12.188538"
   }
 }

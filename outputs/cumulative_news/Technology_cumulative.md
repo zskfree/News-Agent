@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-10 23:56
+**最后更新时间**: 2026-05-11 08:27
+
+---
+
+## 🆕 最新更新 (2026-05-11 08:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头](https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 15:54
+
+#### [Cloudflare推出Flagship：基于OpenFeature的边缘原生特性开关服务](https://www.infoq.cn/article/SZPmsh1abFmQuE598sbS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 15:00
+
+#### [Amazon CloudWatch 预览支持 OpenTelemetry Metrics](https://www.infoq.cn/article/zxqxYI9HUWWttJpprFCS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 14:25
+
+#### [Agent Mesh：企业多智能体系统治理实践｜AICon上海](https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【Fintech 周报】交强险“一口价”时代将终结；余额宝收益率击穿0.9%](https://www.tmtpost.com/7983545.html)
+**发布时间**: 2026-05-11 15:47
+
+#### [四十年"不可成药"靶点获得突破](https://www.tmtpost.com/7983245.html)
+**发布时间**: 2026-05-11 15:15
+
+#### [干掉搜索框，千问淘宝打通，能重写电商规则吗？](https://www.tmtpost.com/7983400.html)
+**发布时间**: 2026-05-11 15:14
+
+#### [MASH：五亿人的肝药，中国药企入局](https://www.tmtpost.com/7983243.html)
+**发布时间**: 2026-05-11 15:10
+
+#### [绿控传动二闯IPO：现金失血未止、客户依赖未解、技术争议未平](https://www.tmtpost.com/7983430.html)
+**发布时间**: 2026-05-11 15:10
+
+#### [中国家电，没那么乐观](https://www.tmtpost.com/7983427.html)
+**发布时间**: 2026-05-11 15:10
+
+#### [储能电站接连终止，揭开了行业火热背后的残酷真相……](https://www.tmtpost.com/7983165.html)
+**发布时间**: 2026-05-11 13:37
+
+#### [光迅科技涨停背后，资金追光的风向变了](https://www.tmtpost.com/7983166.html)
+**发布时间**: 2026-05-11 13:37
+
+#### [全球最赚钱航司：阿联酋航空净利54亿美元，尽管受中东战火干扰](https://www.tmtpost.com/7982394.html)
+**发布时间**: 2026-05-11 13:36
+
+#### [石药集团BD狂飙的AB面](https://www.tmtpost.com/7983192.html)
+**发布时间**: 2026-05-11 13:36
+
+#### [无「界」之下，博世向远而行](https://www.tmtpost.com/7981078.html)
+**发布时间**: 2026-05-11 12:06
+
+#### [思派、镁信、圆心：曾经的“医药险”三巨头，如今走到命运分叉](https://www.tmtpost.com/7983142.html)
+**发布时间**: 2026-05-11 11:23
+
+#### [当「微度假」成为实体商业新趋势，我们该向泰国商场学什么](https://www.tmtpost.com/7982943.html)
+**发布时间**: 2026-05-11 11:23
+
+#### [字节要挖微信的墙脚](https://www.tmtpost.com/7983200.html)
+**发布时间**: 2026-05-11 11:22
+
+#### [2500亿美元的xAI死了，但SpaceXAI的算力游戏才刚开始](https://www.tmtpost.com/7983257.html)
+**发布时间**: 2026-05-11 11:14
+
+#### [芯片产业的最大金主们，花钱逻辑变了](https://www.tmtpost.com/7983172.html)
+**发布时间**: 2026-05-11 10:08
+
+#### [千里科技二次递表港交所，AI老兵的800万辆智驾野望](https://www.tmtpost.com/7982971.html)
+**发布时间**: 2026-05-11 09:40
+
+#### [王宁应该找汪滔聊聊](https://www.tmtpost.com/7982986.html)
+**发布时间**: 2026-05-11 09:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
+**发布时间**: 2026-05-11 15:22
+
+#### [监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
+**发布时间**: 2026-05-11 11:01
+
+#### [派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
+**发布时间**: 2026-05-11 07:12
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开](http://www.geekpark.net/news/363963)
+**发布时间**: 2026-05-11 10:58
+
+#### [OTA 升级后续航减 200 KM，央视揭秘新能源汽车「锁电」真相；黄仁勋：别怕 AI，今天是应届生最好时机：微信测试「组合支付」功能｜极客早知道](http://www.geekpark.net/news/363937)
+**发布时间**: 2026-05-11 08:41
 
 ---
 

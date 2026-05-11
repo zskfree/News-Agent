@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-10 23:56
+**最后更新时间**: 2026-05-11 08:27
+
+---
+
+## 🆕 最新更新 (2026-05-11 08:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK government bonds weaken as pressure on Starmer mounts](https://www.ft.com/content/9a6675ac-7d78-4d59-b6b8-51d3f5c80ee6)
+**发布时间**: 2026-05-11 07:14
+
+#### [Modi calls on Indians to tighten their belts amid Gulf crisis](https://www.ft.com/content/39a9e8c8-432d-46c9-9875-cc0bfa5c380f)
+**发布时间**: 2026-05-11 05:34
+
+#### [Life without US tech](https://www.ft.com/content/4c3aad70-e0cb-46a2-95d5-15d11b6bf818)
+**发布时间**: 2026-05-11 04:00
+
+#### [American agriculture is broken](https://www.ft.com/content/a4e41434-b047-485f-a5e1-0e88277f8aae)
+**发布时间**: 2026-05-11 04:00
+
+#### [How AI mania is disguising big companies’ hit from Iran war — in charts](https://www.ft.com/content/5e9008e6-75dc-438d-8eb0-1b507c426847)
+**发布时间**: 2026-05-11 04:00
+
+#### [Top ECB official attacks German opposition to UniCredit’s bid for Commerzbank](https://www.ft.com/content/983af07c-1f52-4bdf-bbbd-090c46f97e18)
+**发布时间**: 2026-05-11 04:00
+
+#### [China fixes currency at 3-year high ahead of Trump-Xi meeting](https://www.ft.com/content/37fa551b-c4b3-44fb-ad71-3ba4aa448e50)
+**发布时间**: 2026-05-11 03:16
+
+#### [Trump to press China’s Xi about Iran war at summit](https://www.ft.com/content/09c91701-114b-45e9-9aa1-767ef95a5217)
+**发布时间**: 2026-05-10 23:00
+
+#### [Starmer to promise ‘urgent’ change as he fights for his political future](https://www.ft.com/content/99c8774e-e6ba-408a-82a8-9ab8ab5138ff)
+**发布时间**: 2026-05-10 21:31
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?](https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 00:37
 
 ---
 

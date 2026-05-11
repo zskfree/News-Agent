@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 23:54:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 23:56:41 GMT</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 08:24:00 GMT</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 08:27:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互</title>
-      <link>https://www.qbitai.com/2026/05/415048.html</link>
-      <description>&lt;![CDATA[浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415048.html</guid>
+      <title>OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO</title>
+      <link>https://www.qbitai.com/2026/05/415714.html</link>
+      <description>&lt;![CDATA[OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO]]&gt;</description>
+      <pubDate>Mon, 11 May 2026 07:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415714.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会</title>
+      <link>https://www.qbitai.com/2026/05/415403.html</link>
+      <description>&lt;![CDATA[黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会]]&gt;</description>
+      <pubDate>Mon, 11 May 2026 06:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415403.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果</title>
+      <link>https://www.qbitai.com/2026/05/415186.html</link>
+      <description>&lt;![CDATA[数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果]]&gt;</description>
+      <pubDate>Mon, 11 May 2026 05:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415186.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式</title>
+      <link>https://www.qbitai.com/2026/05/415065.html</link>
+      <description>&lt;![CDATA[具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式]]&gt;</description>
+      <pubDate>Mon, 11 May 2026 01:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415065.html</guid>
       <category>Ai</category>
     </item>
   </channel>
