@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 May 2026 07:43:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 May 2026 07:44:41 GMT</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 10:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 10:35:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU</title>
-      <link>https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千问重构淘宝，阿里“推翻”阿里</title>
+      <link>https://www.tmtpost.com/7984593.html</link>
+      <description>&lt;![CDATA[千问重构淘宝，阿里“推翻”阿里]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7984593.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性</title>
-      <link>https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 12:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI组织坍缩效应：中层管理者正在失去的，不是职位，是“信息税”</title>
+      <link>https://www.tmtpost.com/7984827.html</link>
+      <description>&lt;![CDATA[AI组织坍缩效应：中层管理者正在失去的，不是职位，是“信息税”]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7984827.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门</title>
-      <link>https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头</title>
+      <link>https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 Redis 到 Valkey，开源社区如何快速创新？</title>
-      <link>https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Redis 到 Valkey，开源社区如何快速创新？]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理</title>
+      <link>https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？</title>
-      <link>https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 前 CTO，拿出了一个「最人性」的 AI</title>
+      <link>http://www.geekpark.net/news/364044</link>
+      <description>&lt;![CDATA[OpenAI 前 CTO，拿出了一个「最人性」的 AI]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/364044</guid>
       <category>Technology</category>
     </item>
   </channel>

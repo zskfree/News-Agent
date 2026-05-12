@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-12 07:43
+**最后更新时间**: 2026-05-12 10:35
+
+---
+
+## 🆕 最新更新 (2026-05-12 10:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [千问重构淘宝，阿里“推翻”阿里](https://www.tmtpost.com/7984593.html)
+**发布时间**: 2026-05-12 18:22
+
+#### [中标即投诉，投诉即废标，医疗设备集采乱象如何解？](https://www.tmtpost.com/7985428.html)
+**发布时间**: 2026-05-12 18:22
+
+#### [中纪委点名，国资做LP，亏了200亿](https://www.tmtpost.com/7984699.html)
+**发布时间**: 2026-05-12 17:39
+
+#### [3000元手搓《爱死机》，这部国产AI短片为何能外网刷屏？](https://www.tmtpost.com/7985284.html)
+**发布时间**: 2026-05-12 17:39
+
+#### [沃尔沃需要吉利，但不能太像吉利](https://www.tmtpost.com/7985297.html)
+**发布时间**: 2026-05-12 17:39
+
+#### [200亿美金估值的可灵，值母公司七成市值](https://www.tmtpost.com/7985061.html)
+**发布时间**: 2026-05-12 15:58
+
+#### [掌阅科技升级旗下AI漫剧平台，AI短剧产业自闭环将成为头部大厂的必选项？](https://www.tmtpost.com/7985014.html)
+**发布时间**: 2026-05-12 15:51
+
+#### [“缺芯少算”，长电科技千亿市值“稳了”](https://www.tmtpost.com/7984929.html)
+**发布时间**: 2026-05-12 15:39
+
+#### [揭秘「全民养龙虾」：2026中国OpenClaw用户及企业应用调研报告](https://www.tmtpost.com/7984923.html)
+**发布时间**: 2026-05-12 15:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 前 CTO，拿出了一个「最人性」的 AI](http://www.geekpark.net/news/364044)
+**发布时间**: 2026-05-12 18:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头](https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 17:45
+
+#### [谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理](https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 17:02
 
 ---
 

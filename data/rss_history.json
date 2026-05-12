@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5cc5b5fa1bbf9981792b6069936b5d8f15800b11a3549c88c426b66421cdb199": {
-        "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
-        "link": "https://www.tmtpost.com/7950006.html",
-        "published_date": "Sun, 12 Apr 2026 16:26:00 GMT",
-        "first_seen": "2026-04-12T08:54:50.350049"
-      },
-      "b6a2aba5f988b66ee1fbef4a08cd9023c1665994bf652b77478c6e93698def70": {
-        "title": "阿里HappyHorse，一场关于“Token经济”的阳谋",
-        "link": "https://www.tmtpost.com/7949938.html",
-        "published_date": "Sun, 12 Apr 2026 12:25:00 GMT",
-        "first_seen": "2026-04-12T08:54:50.350056"
-      },
-      "002825057d6b82d18b7c7c5350bfccb1a9c159f3327a7cca945c8dd6e4c913ba": {
-        "title": "AI打榜，打的是什么？",
-        "link": "https://www.tmtpost.com/7949939.html",
-        "published_date": "Sun, 12 Apr 2026 09:25:00 GMT",
-        "first_seen": "2026-04-12T08:54:50.350058"
-      },
-      "971c425b308d5008c2626e8eb535d3858082c89e628f217dc89b97eddf269c39": {
-        "title": "机器人财报里的“隐性成本”与“显性焦虑”",
-        "link": "https://www.tmtpost.com/7949914.html",
-        "published_date": "Sun, 12 Apr 2026 08:40:00 GMT",
-        "first_seen": "2026-04-12T08:54:50.350060"
-      },
-      "293329ff42dbf0cd7def65378d2a6210ee004469b5fd610a0b646cdd117c8ef1": {
-        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
-        "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-12T08:54:50.350062"
-      },
       "17497f86d80887875c0f7e27b8009a18de25a021a0b5c78f2c9dbd1afd4ba6ae": {
         "title": "数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”",
         "link": "https://www.tmtpost.com/7950419.html",
@@ -2611,21 +2581,39 @@
         "link": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 12 May 2026 11:40:00 GMT",
         "first_seen": "2026-05-12T07:44:41.167160"
+      },
+      "fb2db153122b54461ab6c90326897282c88d81d843caff3fd87a73653f4bec70": {
+        "title": "千问重构淘宝，阿里“推翻”阿里",
+        "link": "https://www.tmtpost.com/7984593.html",
+        "published_date": "Tue, 12 May 2026 18:22:00 GMT",
+        "first_seen": "2026-05-12T10:35:51.824276"
+      },
+      "6835c4f78e75d6c887755ba9cce8cbb92622eb91405cc6b6b6155b1fc5ef47d0": {
+        "title": "AI组织坍缩效应：中层管理者正在失去的，不是职位，是“信息税”",
+        "link": "https://www.tmtpost.com/7984827.html",
+        "published_date": "Tue, 12 May 2026 15:10:00 GMT",
+        "first_seen": "2026-05-12T10:35:51.824282"
+      },
+      "21c622fd827b17af8c8afb4669a6a212f54f53c8d6583d3c84b9be1713487722": {
+        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+        "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-12T10:35:51.824284"
+      },
+      "78de57e930473fd9545f4c9331fa9c80c0bf2837f67da87bcd09ecf78f37b878": {
+        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+        "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:02:00 GMT",
+        "first_seen": "2026-05-12T10:35:51.824286"
+      },
+      "bcf330f76b50aa497d12e7f95913fc74196f6dd3cf0cbc265cf1319d65d3e8fa": {
+        "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
+        "link": "http://www.geekpark.net/news/364044",
+        "published_date": "Tue, 12 May 2026 18:06:00 GMT",
+        "first_seen": "2026-05-12T10:35:51.824287"
       }
     },
     "Finance": {
-      "4dc262c8179f6f064d94cb5b6d60cc88f478708dff6deb91a30326b887233431": {
-        "title": "Vance says US and Iran fail to reach deal",
-        "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
-        "published_date": "Sun, 12 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-12T08:54:32.002594"
-      },
-      "18da0927dd37c002f0c2dd7f37f2623d1647bf9698dcf68eec98bdf49adf096e": {
-        "title": "Robinhood excludes some prediction markets over manipulation fears",
-        "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
-        "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
-        "first_seen": "2026-04-12T08:54:32.002605"
-      },
       "fca4bc7ea4db564e5c48de61dffbeb5e05799b03b472a13b429e8ed0b424bec4": {
         "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
         "link": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
@@ -4893,21 +4881,39 @@
         "link": "https://www.ft.com/content/ca7434f9-28f0-4a36-a8c1-1bd2c46c8154",
         "published_date": "Tue, 12 May 2026 07:25:00 GMT",
         "first_seen": "2026-05-12T07:44:11.467882"
+      },
+      "b58cf9033d1142a25a9e778f12ad613dc6270cdb87baa1aae0c935eb60c5e4d6": {
+        "title": "UK borrowing costs surge as Starmer leadership crisis rattles bond markets",
+        "link": "https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d",
+        "published_date": "Tue, 12 May 2026 10:04:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.576926"
+      },
+      "f93cbc58f82532ff81522d5876d1914388949ce94be6bdf76e57e00a70c04763": {
+        "title": "Japan says Bessent offered ‘understanding’ on yen policy",
+        "link": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
+        "published_date": "Tue, 12 May 2026 09:02:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.576935"
+      },
+      "e3bd00460cf9c0531ec857445869c870624ae21a44f56fca67f600bee04b3548": {
+        "title": "This dot-com survivor says AI buildout is more like 1997 than 1999 — and still urges investors to have more cash",
+        "link": "https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:06:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.576937"
+      },
+      "bd2b9850899c57f1d7b7ea05e4f02c76e9bcad78c3d1e3ade361acf011446fae": {
+        "title": "The hottest stock market in the world finally met its match: taxes",
+        "link": "https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-finally-met-its-match-taxes-55cf54c6?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:20:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.576939"
+      },
+      "f8b7c65e63dbbb597f19b67cbf7ad2c0329df08ca3968ad953da0b1960f579fe": {
+        "title": "With Keir Starmer premiership on the brink, British government debt, currency and stocks fall",
+        "link": "https://www.marketwatch.com/story/with-keir-starmer-premiership-on-the-brink-british-government-debt-tumbles-further-3a113f26?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:47:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.576941"
       }
     },
     "Ai": {
-      "404b625e565ef1d177567fffe722163c5617ee940d27e67f742a7c667ffee96b": {
-        "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/399975.html",
-        "published_date": "Sun, 12 Apr 2026 07:21:00 GMT",
-        "first_seen": "2026-04-12T08:54:32.154427"
-      },
-      "46a7fa687c6df9e991272fbaa626247a60c63bb834454d29c7e08b2bf627b888": {
-        "title": "Claude复活30年前传奇游戏，仅用一个周末",
-        "link": "https://www.qbitai.com/2026/04/399903.html",
-        "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
-        "first_seen": "2026-04-12T08:54:32.154435"
-      },
       "a0878856e41e0a49298db58b094306de107fa7b5407fff7b6d0f4fe972bdc7e1": {
         "title": "「Claude Code之父」其实是野路子来的……",
         "link": "https://www.qbitai.com/2026/04/400306.html",
@@ -6221,13 +6227,25 @@
         "link": "https://www.qbitai.com/2026/05/416034.html",
         "published_date": "Tue, 12 May 2026 04:02:00 GMT",
         "first_seen": "2026-05-12T07:44:11.619525"
+      },
+      "351262ea264afe72defce34a55fde48f6ecc277f7a3954e980861516e37bfcb6": {
+        "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+        "link": "https://www.qbitai.com/2026/05/416582.html",
+        "published_date": "Tue, 12 May 2026 09:35:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.726869"
+      },
+      "342bf2bce0225fe0faec346b0e883b95527113768c1d752cc60e5258266aa21e": {
+        "title": "AI第一金主黄仁勋：日均花掉20亿",
+        "link": "https://www.qbitai.com/2026/05/416540.html",
+        "published_date": "Tue, 12 May 2026 08:03:00 GMT",
+        "first_seen": "2026-05-12T10:35:31.726877"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-12T07:44:41.167162",
-    "Finance": "2026-05-12T07:44:11.467884",
-    "Ai": "2026-05-12T07:44:11.619528"
+    "Technology": "2026-05-12T10:35:51.824289",
+    "Finance": "2026-05-12T10:35:31.576943",
+    "Ai": "2026-05-12T10:35:31.726880"
   }
 }

@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-12 07:43
+**最后更新时间**: 2026-05-12 10:35
+
+---
+
+## 🆕 最新更新 (2026-05-12 10:35)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My retirement fund is like an AI version of me. It keeps working when I’m not able to.](https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 10:16
+
+#### [With Keir Starmer premiership on the brink, British government debt, currency and stocks fall](https://www.marketwatch.com/story/with-keir-starmer-premiership-on-the-brink-british-government-debt-tumbles-further-3a113f26?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 09:47
+
+#### [When couples have a PTO gap, it can take a big toll on their relationship](https://www.marketwatch.com/story/when-couples-have-a-pto-gap-it-can-take-a-big-toll-on-their-relationship-e0bc1e73?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 09:45
+
+#### [The hottest stock market in the world finally met its match: taxes](https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-finally-met-its-match-taxes-55cf54c6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 09:20
+
+#### [‘She is very angry with me’: My daughter, 30, has issues with drugs. Should I take half the profit from the sale of her house?](https://www.marketwatch.com/story/she-is-very-angry-with-me-my-daughter-has-drug-issues-should-i-take-half-the-profit-from-the-sale-of-her-house-e99a23d4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 09:15
+
+#### [This dot-com survivor says AI buildout is more like 1997 than 1999 — and still urges investors to have more cash](https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 09:06
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK borrowing costs surge as Starmer leadership crisis rattles bond markets](https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d)
+**发布时间**: 2026-05-12 10:04
+
+#### [Chipmaker Cerebras joins OpenAI’s inner circle — for a price](https://www.ft.com/content/3f77f8ad-16b8-4f97-ae55-0bd2e31122fa)
+**发布时间**: 2026-05-12 09:22
+
+#### [Japan says Bessent offered ‘understanding’ on yen policy](https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12)
+**发布时间**: 2026-05-12 09:02
+
+#### [Starmer vows to fight on](https://www.ft.com/content/c2455a7b-8cb5-42f9-9515-6ae664341e26)
+**发布时间**: 2026-05-12 08:28
+
+#### [Germany’s far-right AfD sees support surge after it criticises Trump’s Iran war](https://www.ft.com/content/de3adb63-a00c-4255-a0d1-28c72f3cfc88)
+**发布时间**: 2026-05-12 04:00
+
+#### [US communications regulator targets Chinese tech for security risks](https://www.ft.com/content/48f0cc68-dfae-48d7-8950-c8c72c2ebe93)
+**发布时间**: 2026-05-12 04:00
+
+#### [Will investors embrace China’s humanoid robot champion?](https://www.ft.com/content/721e3bed-285b-46d4-8151-8cf28cb5ef50)
+**发布时间**: 2026-05-12 02:12
 
 ---
 
