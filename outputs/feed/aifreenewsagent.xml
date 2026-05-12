@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 11 May 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Tue, 12 May 2026 00:02:27 GMT</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 07:42:00 GMT</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 07:44:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容</title>
-      <link>https://www.qbitai.com/2026/05/415263.html</link>
-      <description>&lt;![CDATA[做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容]]&gt;</description>
-      <pubDate>Mon, 11 May 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415263.html</guid>
+      <title>2026-05-12日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-12/</link>
+      <description>&lt;![CDATA[2026-05-12日刊]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-12/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走</title>
-      <link>https://www.qbitai.com/2026/05/415842.html</link>
-      <description>&lt;![CDATA[硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走]]&gt;</description>
-      <pubDate>Mon, 11 May 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/415842.html</guid>
+      <title>估值200亿美元！可灵AI被曝剥离快手单独融资</title>
+      <link>https://www.qbitai.com/2026/05/416056.html</link>
+      <description>&lt;![CDATA[估值200亿美元！可灵AI被曝剥离快手单独融资]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416056.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenClaw低调更新重磅版本，龙虾长手长脚了</title>
+      <link>https://www.qbitai.com/2026/05/416034.html</link>
+      <description>&lt;![CDATA[OpenClaw低调更新重磅版本，龙虾长手长脚了]]&gt;</description>
+      <pubDate>Tue, 12 May 2026 04:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416034.html</guid>
       <category>Ai</category>
     </item>
   </channel>

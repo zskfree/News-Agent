@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2fa9d3b73aa69c9ec93d4e07d491738198ecee43a0776407f5877f6de4e54b11": {
-        "title": "跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住",
-        "link": "https://www.tmtpost.com/7947704.html",
-        "published_date": "Sun, 12 Apr 2026 08:52:00 GMT",
-        "first_seen": "2026-04-12T06:26:28.818787"
-      },
-      "8dd3e7e55f7fddd6f2288b65d2e786b4a6a43a8d4c150f7d25ea8395bc6576dd": {
-        "title": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
-        "link": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:28.818794"
-      },
-      "4fd68495eaee826c96a25e64c0922099db3dfcc9a08d65decab7e1421034c2ba": {
-        "title": "估值8520亿，CEO零持股，股东神仙打架：谁在掌控OpenAI？",
-        "link": "https://www.tmtpost.com/7949965.html",
-        "published_date": "Sun, 12 Apr 2026 08:54:00 GMT",
-        "first_seen": "2026-04-12T06:26:28.818797"
-      },
-      "dd818c1c8dace19a1fc468839051381daeb85d794b09be2ddd4aacb9d0c3ea29": {
-        "title": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
-        "link": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 08:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:28.818798"
-      },
-      "233a874488915330b664c1d2f962f22dacefb04c0dfc19ca13606bdc1eaf6c22": {
-        "title": "AI撞墙：科技巨头的零碳叙事正在物理世界中松动",
-        "link": "https://www.tmtpost.com/7949997.html",
-        "published_date": "Sun, 12 Apr 2026 08:44:00 GMT",
-        "first_seen": "2026-04-12T06:26:28.818800"
-      },
       "5cc5b5fa1bbf9981792b6069936b5d8f15800b11a3549c88c426b66421cdb199": {
         "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
         "link": "https://www.tmtpost.com/7950006.html",
@@ -2611,39 +2581,39 @@
         "link": "https://www.tmtpost.com/7981250.html",
         "published_date": "Mon, 11 May 2026 17:12:00 GMT",
         "first_seen": "2026-05-12T00:02:58.267781"
+      },
+      "5c0cf6c3e736e34f0171ad1f37c896445a648034cf690131bb428119805832d7": {
+        "title": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "link": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 14:23:00 GMT",
+        "first_seen": "2026-05-12T07:44:41.167148"
+      },
+      "0a06d8c9692c8282d1b9228e13bd947104411abbcc9cc8dad7c159c03d450d75": {
+        "title": "Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性",
+        "link": "https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 12:12:00 GMT",
+        "first_seen": "2026-05-12T07:44:41.167155"
+      },
+      "2bf23fee5082bc65937283c8e8e666a1247b4227a12828b58f823e52c67c8195": {
+        "title": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+        "link": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 10:07:00 GMT",
+        "first_seen": "2026-05-12T07:44:41.167157"
+      },
+      "012107d4b713da988abf4cb51037e73e1b38fea935b4b8e702f056feeb276aa5": {
+        "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
+        "link": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 15:38:00 GMT",
+        "first_seen": "2026-05-12T07:44:41.167159"
+      },
+      "52360d80595bf1e563834291ad2e966649942827c967fe282b8ee0ebbfc5a384": {
+        "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
+        "link": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 11:40:00 GMT",
+        "first_seen": "2026-05-12T07:44:41.167160"
       }
     },
     "Finance": {
-      "c525ce71ceb547b1b7a91e71f5d9c26d618a8731848fb2fd70c69b153aa6a45f": {
-        "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
-        "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
-        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.767839"
-      },
-      "5ce037db72ec0c93020a6661e82dd5a22a44c621628486b2e8828ed985bc0dfa": {
-        "title": "Commodity traders lost ‘billions’ in early days of Iran war",
-        "link": "https://www.ft.com/content/3baeeff3-8c7e-4fcd-b704-3ddde3abdbcc",
-        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.767849"
-      },
-      "4778c63423977d0c90299e02775d7228af388417dadd9dcdfdbeeb78ba5f022a": {
-        "title": "Switzerland’s Zug becomes bolt-hole for Gulf-based wealth",
-        "link": "https://www.ft.com/content/e4444e33-8586-4d87-890a-e9270f2c26b5",
-        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.767852"
-      },
-      "b6bd5e6a64b6b8b1dd15463b22e3f66d7472f9fc4f283f9a0e02b28f6240d610": {
-        "title": "Social media is for picking up vibes, not information",
-        "link": "https://www.ft.com/content/d8fd8966-d360-4329-b003-33d1beb3533b",
-        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.767855"
-      },
-      "82a12f8aff64a728e89eab88bf592959c297520af7a0606ed41473418c5b39e5": {
-        "title": "Fees for seas: a history of taxing waterways",
-        "link": "https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd",
-        "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.767857"
-      },
       "4dc262c8179f6f064d94cb5b6d60cc88f478708dff6deb91a30326b887233431": {
         "title": "Vance says US and Iran fail to reach deal",
         "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
@@ -4893,21 +4863,39 @@
         "link": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories",
         "published_date": "Mon, 11 May 2026 22:29:00 GMT",
         "first_seen": "2026-05-12T00:02:27.832793"
+      },
+      "ed09f60117da3d3d2c9f46afb763d717fa437b1f111e59bb181c1bd32b1cbeb3": {
+        "title": "Kevin Warsh to face resurgent inflation and an impatient Trump as Fed chair",
+        "link": "https://www.ft.com/content/af3bc83f-8a3c-4280-aa80-9d16bbd0cb6d",
+        "published_date": "Tue, 12 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.467867"
+      },
+      "ade248f8e3d3182cd0db12bf5faaab9b15bd0a7b91bdeaa3f3463e6aee7d16f2": {
+        "title": "Japan says Bessent offered ‘understanding’ on yen intervention",
+        "link": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
+        "published_date": "Tue, 12 May 2026 05:27:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.467875"
+      },
+      "e19dd90e70d69c93db939df9fdacd876d5562181151b618b95da4e0df68b51c5": {
+        "title": "UK government bonds and sterling drop as pressure on Starmer grows",
+        "link": "https://www.ft.com/content/c2455a7b-8cb5-42f9-9515-6ae664341e26",
+        "published_date": "Tue, 12 May 2026 07:08:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.467878"
+      },
+      "01bbf6bfe124d79bb7c20e07f838ce7a189ca3df93f349623029e8697eb2c5b0": {
+        "title": "Hedge funds bet on biofuels to profit from Iran oil price shock",
+        "link": "https://www.ft.com/content/d6a00598-3c42-4d0d-ae6a-82ea8f086f0c",
+        "published_date": "Tue, 12 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.467880"
+      },
+      "76680363ccc44081559742839818bcd2795a50ac0e2842b3d8cdb16780a5843b": {
+        "title": "UAE gas plant hit by Iranian attacks will not be fully repaired until 2027",
+        "link": "https://www.ft.com/content/ca7434f9-28f0-4a36-a8c1-1bd2c46c8154",
+        "published_date": "Tue, 12 May 2026 07:25:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.467882"
       }
     },
     "Ai": {
-      "5daed54ccd41633a5b76ed43f5e795bf4eea534f77920251646452fd5ee7bfe9": {
-        "title": "2026-04-12日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-12/",
-        "published_date": "Sun, 12 Apr 2026 12:10:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.916443"
-      },
-      "f2fed8c32cf1affc6aa27c1e54998a164e205585a605b4d23985b272a5a4b88f": {
-        "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
-        "link": "https://www.qbitai.com/2026/04/399681.html",
-        "published_date": "Sun, 12 Apr 2026 06:06:00 GMT",
-        "first_seen": "2026-04-12T06:26:09.916452"
-      },
       "404b625e565ef1d177567fffe722163c5617ee940d27e67f742a7c667ffee96b": {
         "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
         "link": "https://www.qbitai.com/2026/04/399975.html",
@@ -6215,13 +6203,31 @@
         "link": "https://www.qbitai.com/2026/05/415842.html",
         "published_date": "Mon, 11 May 2026 08:31:00 GMT",
         "first_seen": "2026-05-12T00:02:27.983887"
+      },
+      "c68c6bf9d93522e08ec8f01f6878cebf1d7e690158ae7ffae57ddac56ac46d00": {
+        "title": "2026-05-12日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-12/",
+        "published_date": "Tue, 12 May 2026 10:13:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.619514"
+      },
+      "8d6442293f62c704fd464c02fc7eb4585683a2d32f4ff17daea1d76534ff5e77": {
+        "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
+        "link": "https://www.qbitai.com/2026/05/416056.html",
+        "published_date": "Tue, 12 May 2026 06:06:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.619523"
+      },
+      "cdd52f147cc8a7d51398419ffe2beaa480e79f2a542dc38eafd2c59aa26cfbc0": {
+        "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
+        "link": "https://www.qbitai.com/2026/05/416034.html",
+        "published_date": "Tue, 12 May 2026 04:02:00 GMT",
+        "first_seen": "2026-05-12T07:44:11.619525"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-12T00:02:58.267783",
-    "Finance": "2026-05-12T00:02:27.832795",
-    "Ai": "2026-05-12T00:02:27.983890"
+    "Technology": "2026-05-12T07:44:41.167162",
+    "Finance": "2026-05-12T07:44:11.467884",
+    "Ai": "2026-05-12T07:44:11.619528"
   }
 }

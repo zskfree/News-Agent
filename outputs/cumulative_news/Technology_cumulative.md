@@ -1,7 +1,128 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-12 00:02
+**最后更新时间**: 2026-05-12 07:43
+
+---
+
+## 🆕 最新更新 (2026-05-12 07:43)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Redis 到 Valkey，开源社区如何快速创新？](https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 15:38
+
+#### [梁文锋出资200亿元，DeepSeek阿里谈崩？宇树机器人在韩国佛门受戒，法号“迦悲”；员工人均奖金达610万人民币，被婚恋市场追捧？官方回应｜AI周报](https://www.infoq.cn/article/xqLfi9FVBo6qINKSuyeb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 14:43
+
+#### [专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU](https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 14:23
+
+#### [在大厂，token用少了不“健康”](https://www.infoq.cn/article/VK4MLI3LtolekTLVT0Gt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 14:11
+
+#### [Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性](https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 12:12
+
+#### [企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？](https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 11:40
+
+#### [从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮](https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 11:08
+
+#### [Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱](https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 10:19
+
+#### [攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门](https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 10:07
+
+#### [Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海](https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 10:00
+
+#### [Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题](https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 09:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [九安医疗：一家被医药耽误的风投公司](https://www.tmtpost.com/7984897.html)
+**发布时间**: 2026-05-12 15:30
+
+#### [T3出行冲刺IPO：网约车老三要讲Robotaxi新故事](https://www.tmtpost.com/7984126.html)
+**发布时间**: 2026-05-12 15:24
+
+#### [转转转运不容易](https://www.tmtpost.com/7984829.html)
+**发布时间**: 2026-05-12 15:23
+
+#### [东方甄选开出首家线下店，俞敏洪从胖东来出师了？](https://www.tmtpost.com/7983835.html)
+**发布时间**: 2026-05-12 15:18
+
+#### [对话凯度中国区执行董事张霖：食品饮料健康，不止一种答案](https://www.tmtpost.com/7984808.html)
+**发布时间**: 2026-05-12 15:17
+
+#### [600人66亿美元，大模型时代第一次“大套现”](https://www.tmtpost.com/7984806.html)
+**发布时间**: 2026-05-12 15:16
+
+#### [AI组织坍缩效应：中层管理者正在失去的，不是职位，是“信息税”](https://www.tmtpost.com/7984827.html)
+**发布时间**: 2026-05-12 15:10
+
+#### [哪吒汽车崩塌前夜](https://www.tmtpost.com/7984809.html)
+**发布时间**: 2026-05-12 15:10
+
+#### [英伟达开始向泡沫里加肥皂水](https://www.tmtpost.com/7984807.html)
+**发布时间**: 2026-05-12 15:10
+
+#### [白银或达300-500美元？曾准确预言股灾的人：真正的行情还在后面](https://www.tmtpost.com/7983900.html)
+**发布时间**: 2026-05-12 15:01
+
+#### [快手，要拆出一头1300亿独角兽](https://www.tmtpost.com/7984795.html)
+**发布时间**: 2026-05-12 14:58
+
+#### [东方电气一季度利润涨幅近4成，GE、西门子订单排到2030年，中国燃气轮机赶上AI“电荒”的窗口期](https://www.tmtpost.com/7984684.html)
+**发布时间**: 2026-05-12 14:47
+
+#### [咖啡市场，没有「中间地带」？](https://www.tmtpost.com/7984609.html)
+**发布时间**: 2026-05-12 14:43
+
+#### [成熟的度假酒店，应是什么样？](https://www.tmtpost.com/7984538.html)
+**发布时间**: 2026-05-12 14:38
+
+#### [可灵值200亿美元吗？](https://www.tmtpost.com/7984442.html)
+**发布时间**: 2026-05-12 14:30
+
+#### [瑞士生物科技企业Windward Bio研发超长效抗TSLP单克隆抗体，有效降低给药频率](https://www.tmtpost.com/7984574.html)
+**发布时间**: 2026-05-12 14:30
+
+#### [小雨智造两月融两轮：当北汽、复星和建发集体盯上智能焊接](https://www.tmtpost.com/7984589.html)
+**发布时间**: 2026-05-12 14:29
+
+#### [爱优腾连上4部，悬疑剧能给平台赚钱了？](https://www.tmtpost.com/7984685.html)
+**发布时间**: 2026-05-12 14:12
+
+#### [集结特斯拉+北汽两大车企老将，小米汽车出海棋局浮出水面](https://www.tmtpost.com/7984656.html)
+**发布时间**: 2026-05-12 12:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [0.2 元 / 通，淘天用 AI 店小蜜重新定义了电商客服价格](http://www.geekpark.net/news/364035)
+**发布时间**: 2026-05-12 15:07
+
+#### [OPPO 就母亲节文案发布问责通告；OpenAI 投资 40 亿美元成立新公司加速企业级 AI 落地；Claude 勒索行为源于网络邪恶信息](http://www.geekpark.net/news/364004)
+**发布时间**: 2026-05-12 08:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [精彩之下的反常时刻：聊聊 F1 2026 年新规悖论](https://sspai.com/post/109546)
+**发布时间**: 2026-05-12 14:15
+
+#### [App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
+**发布时间**: 2026-05-12 11:01
+
+#### [派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
+**发布时间**: 2026-05-12 07:53
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 10 个刚刚开源，但 Star 攀升很快的 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533594&idx=1&sn=4116733fa584c8c3b10f5308499d4023)
+**发布时间**: 2026-05-12 12:49
 
 ---
 
