@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3a110fde5e204457a18f17de42c7870dd0e9d93d7dc5fa0d777037d1a9c6bd64": {
-        "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
-        "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-11T08:48:50.771805"
-      },
-      "2e9920ba0cfc6506394b15cd4d5b6fc99b20c4e697cb0f6c45b90f1f9b6bdce0": {
-        "title": "GitHub Actions 正式发布自定义 Runner 镜像",
-        "link": "https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-11T08:48:50.771814"
-      },
-      "257e9939af5f7fc4cca1527bfeefa6da9356e39a8bb5847b836e0df8c2b5e539": {
-        "title": "让每个员工都有一个 Coding Agent：蚂蚁 Vibe Coding 平台落地半年后的实践经验｜QCon北京",
-        "link": "https://www.infoq.cn/article/zwsaRqiZ99H7l3y8G9Lc?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-11T08:48:50.771817"
-      },
-      "019e1c9baaa9bb1791286fdea6898b60074b5799277c648c54c5794d63c4a456": {
-        "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期",
-        "link": "https://www.tmtpost.com/7949623.html",
-        "published_date": "Sat, 11 Apr 2026 12:42:00 GMT",
-        "first_seen": "2026-04-11T08:48:50.771819"
-      },
-      "6d10112355faa193d492c5c6177c8ca9d10a8b8f4c8c5f0b21d40fd3472546ef": {
-        "title": "奥特曼家差点被烧，AI争议滑向物理暴力",
-        "link": "https://www.tmtpost.com/7949710.html",
-        "published_date": "Sat, 11 Apr 2026 16:43:00 GMT",
-        "first_seen": "2026-04-11T08:48:50.771821"
-      },
-      "2e5b2cd797368065519adb078d36e4768c94fc325ee50f1564a58b2e50e3f256": {
-        "title": "滴滴自动驾驶张博：深耕AI、硬件、场景三大能力，持续强化创新突破",
-        "link": "https://www.tmtpost.com/7949810.html",
-        "published_date": "Sat, 11 Apr 2026 17:54:00 GMT",
-        "first_seen": "2026-04-11T23:38:17.492610"
-      },
-      "933b3d7a1248e4dae9fd361fe21b7988ed532b006748f724f54a6205982878a7": {
-        "title": "大模型厂商，是时候告别Token狂欢了",
-        "link": "https://www.tmtpost.com/7949702.html",
-        "published_date": "Sat, 11 Apr 2026 16:36:00 GMT",
-        "first_seen": "2026-04-11T23:38:17.492616"
-      },
-      "d3d499b6c5448c406f42577c940de5fe4b7fc17ff305b5f1bb1e6d2d9b6f8435": {
-        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
-        "link": "https://sspai.com/post/107600",
-        "published_date": "Sat, 11 Apr 2026 15:18:00 GMT",
-        "first_seen": "2026-04-11T23:38:17.492618"
-      },
-      "c528b5e81e8cb38936a9697db9ccdf5cec2aa333e00849e2b53dac69d4ac3aa9": {
-        "title": "所谓Skill，不过是AI时代的工业垃圾",
-        "link": "https://www.tmtpost.com/7949507.html",
-        "published_date": "Sat, 11 Apr 2026 16:56:00 GMT",
-        "first_seen": "2026-04-11T23:38:17.492620"
-      },
-      "7c16c087905fe25d465130c37fdbf40a9120d0de16825815515ff6019f7619e1": {
-        "title": "无人配送车大战：菜鸟联手九识，京东新石器如何接招？",
-        "link": "https://www.tmtpost.com/7949239.html",
-        "published_date": "Sat, 11 Apr 2026 11:45:00 GMT",
-        "first_seen": "2026-04-11T23:38:17.492622"
-      },
       "2fa9d3b73aa69c9ec93d4e07d491738198ecee43a0776407f5877f6de4e54b11": {
         "title": "跨会话埋雷，AI 毫无察觉！CIK 投毒风险曝光：再安全的大模型也扛不住",
         "link": "https://www.tmtpost.com/7947704.html",
@@ -2641,51 +2581,39 @@
         "link": "https://www.tmtpost.com/7983400.html",
         "published_date": "Mon, 11 May 2026 15:14:00 GMT",
         "first_seen": "2026-05-11T08:27:37.929067"
+      },
+      "c00a1574ca150c3794efd5b1a832834730b92b215ca08f8155130db05437a520": {
+        "title": "2500亿美元的xAI死了，但SpaceXAI的算力游戏才刚开始",
+        "link": "https://www.tmtpost.com/7983257.html",
+        "published_date": "Mon, 11 May 2026 11:14:00 GMT",
+        "first_seen": "2026-05-12T00:02:58.267768"
+      },
+      "43cf74a8ee0631835207ee336a2788747637dfb17400daf21e503381116d8a5a": {
+        "title": "黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？",
+        "link": "https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 11 May 2026 21:00:00 GMT",
+        "first_seen": "2026-05-12T00:02:58.267775"
+      },
+      "dab078136bfab8c64bf17e1f399f312a785c2db75a32bb2e0c19cbed35d1186e": {
+        "title": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
+        "link": "http://www.geekpark.net/news/363963",
+        "published_date": "Mon, 11 May 2026 10:58:00 GMT",
+        "first_seen": "2026-05-12T00:02:58.267777"
+      },
+      "4145399c183bd125b5c16a27888255b726d3901a0e16cf162d2c37bbdb2d2f0b": {
+        "title": "完全体线控底盘上车，智能汽车开始争夺“身体控制权”",
+        "link": "https://www.tmtpost.com/7983948.html",
+        "published_date": "Mon, 11 May 2026 21:05:00 GMT",
+        "first_seen": "2026-05-12T00:02:58.267779"
+      },
+      "99b99f183ddc5e245943ee376e5ffa0ae792cd255ef17f67ff7392ce6738b770": {
+        "title": "AI经济基础设施竞赛开启，Stripe落子后出海企业增长飞轮如何转动？｜出海参考",
+        "link": "https://www.tmtpost.com/7981250.html",
+        "published_date": "Mon, 11 May 2026 17:12:00 GMT",
+        "first_seen": "2026-05-12T00:02:58.267781"
       }
     },
     "Finance": {
-      "ec9316680c60e0e883a6b348d026260e39b2fa24277f7db7df68d18b4e457805": {
-        "title": "Peace talks present big test on global stage for JD Vance",
-        "link": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
-        "published_date": "Sat, 11 Apr 2026 08:14:00 GMT",
-        "first_seen": "2026-04-11T08:48:20.320239"
-      },
-      "bec360d8029e7e2e7839fc4d2128486e9a5b16b922a8db8b0ac90d4badbbef31": {
-        "title": "JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran",
-        "link": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
-        "published_date": "Sat, 11 Apr 2026 06:32:00 GMT",
-        "first_seen": "2026-04-11T08:48:20.320248"
-      },
-      "b0f3fda70e0a71e272d18973915e6ce1acc02e9f50c07f83e165cd9e78348a68": {
-        "title": "Interest rates are headed lower — real yields suggest a half-point Fed cut is coming",
-        "link": "https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories",
-        "published_date": "Sat, 11 Apr 2026 17:53:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.523501"
-      },
-      "f4c84a4a9f8f74ce24a60cef4c10ea56c1957be37f868b907b698d3f494efa16": {
-        "title": "US and Iran locked in marathon talks to end war",
-        "link": "https://www.ft.com/content/7f9e1e4b-b3d4-4fcb-9053-2d6ae2f33d53",
-        "published_date": "Sat, 11 Apr 2026 21:57:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.523508"
-      },
-      "5bb7d82d4098af02ce8d68cab260e27ba8cd533684c85e7178bf4493ee494526": {
-        "title": "Corporate tax cuts from the ‘Big Beautiful Bill’ aren’t giveaways — the new law actually fuels investment",
-        "link": "https://www.marketwatch.com/story/corporate-tax-cuts-from-the-big-beautiful-bill-arent-giveaways-the-new-laws-actually-fuel-investment-b998da78?mod=mw_rss_topstories",
-        "published_date": "Sat, 11 Apr 2026 18:14:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.523511"
-      },
-      "e9700cdd461283c27a6e25b3808406f325a1a8d675ae9ce3c4b8f196cee3c5e7": {
-        "title": "Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.",
-        "link": "https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories",
-        "published_date": "Sat, 11 Apr 2026 18:35:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.523513"
-      },
-      "58d5d4743624ab5f8f056430f931bd4c4f69bf63e3d2d7b756add3b5586bbb53": {
-        "title": "Richard Caring sells majority stake in Ivy hospitality empire to Sheikh Tahnoon’s IHC",
-        "link": "https://www.ft.com/content/5bae3a37-53f1-430a-89d1-239bb3d7fab1",
-        "published_date": "Sat, 11 Apr 2026 17:42:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.523514"
-      },
       "c525ce71ceb547b1b7a91e71f5d9c26d618a8731848fb2fd70c69b153aa6a45f": {
         "title": "Wall Street banks set to report $40bn trading haul as Iran war rekindles volatility",
         "link": "https://www.ft.com/content/7dfb2398-f414-4c82-927c-5db4d34cb5da",
@@ -4935,15 +4863,39 @@
         "link": "https://www.ft.com/content/4c3aad70-e0cb-46a2-95d5-15d11b6bf818",
         "published_date": "Mon, 11 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-11T08:27:12.040336"
+      },
+      "08ed614724f626a9827b34777ced8c4b1a00c405459e808b291335662f6522ae": {
+        "title": "Fuel, munitions and food: Trump’s Iran war rips across US economy",
+        "link": "https://www.ft.com/content/145eccf2-14d8-4819-bd75-5674a5818f7c",
+        "published_date": "Mon, 11 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.832779"
+      },
+      "82be225acdc566b387c6d19eaebe4f895f6dc0d7beab348916173c0d9a438fc1": {
+        "title": "Stocks are hitting record highs even as Iran war drags on. How long can it last?",
+        "link": "https://www.marketwatch.com/story/stocks-are-hitting-record-highs-even-as-iran-war-drags-on-how-long-can-it-last-f65cf2d5?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 May 2026 21:32:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.832787"
+      },
+      "deb33843b57533d468d2044a3483290d89cfa58ddb7fc71933bc3ff9e36f8201": {
+        "title": "Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab",
+        "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 May 2026 23:49:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.832790"
+      },
+      "60c28a3e88df48ca10c33549b4e545ebbf7831f836e34b3805335d13d8809dc9": {
+        "title": "AI investment ‘advice’ is 50% more likely to pump you up — and trip you into costly blunders",
+        "link": "https://www.marketwatch.com/story/ai-investment-advice-is-50-more-likely-to-pump-you-up-and-trip-you-into-costly-blunders-1fcdd3d1?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 May 2026 22:45:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.832792"
+      },
+      "8f56152a42accc7bc1ba46fc65884a54c20dfb714e48fdb3ee5ae1708a21630a": {
+        "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?",
+        "link": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories",
+        "published_date": "Mon, 11 May 2026 22:29:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.832793"
       }
     },
     "Ai": {
-      "a2f8f849376517ae1a760853ccfeae57d3a76c97e7044a5071a8fce996bb23ff": {
-        "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
-        "link": "https://www.qbitai.com/2026/04/399675.html",
-        "published_date": "Sat, 11 Apr 2026 10:46:00 GMT",
-        "first_seen": "2026-04-11T23:37:58.671585"
-      },
       "5daed54ccd41633a5b76ed43f5e795bf4eea534f77920251646452fd5ee7bfe9": {
         "title": "2026-04-12日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-12/",
@@ -6251,13 +6203,25 @@
         "link": "https://www.qbitai.com/2026/05/415065.html",
         "published_date": "Mon, 11 May 2026 01:51:00 GMT",
         "first_seen": "2026-05-11T08:27:12.188536"
+      },
+      "64c094b466082029fbd7ab8291873df1c3b7c62f4ca61df26e5039c709824b08": {
+        "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
+        "link": "https://www.qbitai.com/2026/05/415263.html",
+        "published_date": "Mon, 11 May 2026 10:18:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.983880"
+      },
+      "1c8b94e50c8a2feffae57843a101460ab156154d42aaea12e9fdc5bcff8d1b59": {
+        "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "link": "https://www.qbitai.com/2026/05/415842.html",
+        "published_date": "Mon, 11 May 2026 08:31:00 GMT",
+        "first_seen": "2026-05-12T00:02:27.983887"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-11T08:27:37.929071",
-    "Finance": "2026-05-11T08:27:12.040338",
-    "Ai": "2026-05-11T08:27:12.188538"
+    "Technology": "2026-05-12T00:02:58.267783",
+    "Finance": "2026-05-12T00:02:27.832795",
+    "Ai": "2026-05-12T00:02:27.983890"
   }
 }

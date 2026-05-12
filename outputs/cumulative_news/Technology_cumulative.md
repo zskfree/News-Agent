@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-11 08:27
+**最后更新时间**: 2026-05-12 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-12 00:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行发布2026年第一季度中国货币政策执行报告；多项更新齐上线：微信内测状态访客记录，并推组合支付；京沪高铁部分动车组列车公布票价上浮20%](https://www.tmtpost.com/7984060.html)
+**发布时间**: 2026-05-12 07:20
+
+#### [OPPO的代价：“本分”缺席的三天](https://www.tmtpost.com/7984087.html)
+**发布时间**: 2026-05-11 22:54
+
+#### [3000亿宠物市场“还远未到内卷的程度”，淘天宠物已孵化60多个过亿品牌](https://www.tmtpost.com/7983869.html)
+**发布时间**: 2026-05-11 21:30
+
+#### [完全体线控底盘上车，智能汽车开始争夺“身体控制权”](https://www.tmtpost.com/7983948.html)
+**发布时间**: 2026-05-11 21:05
+
+#### [5亿元Pre-A轮融资，Vbot维他动力创消费级具身智能赛道纪录](https://www.tmtpost.com/7983653.html)
+**发布时间**: 2026-05-11 20:12
+
+#### [累计融资近10亿元，鹿明机器人连续完成A1及A2两轮融资](https://www.tmtpost.com/7983576.html)
+**发布时间**: 2026-05-11 20:12
+
+#### [绿控传动：十年累亏1.18亿，应收账款暴增，“纸面盈利”难掩资金链危局｜IPO观察](https://www.tmtpost.com/7983457.html)
+**发布时间**: 2026-05-11 19:26
+
+#### [滴普科技赵杰辉：记忆，是智能体的“灵魂”](https://www.tmtpost.com/7983708.html)
+**发布时间**: 2026-05-11 18:15
+
+#### [地球以外的算力，马斯克全都要](https://www.tmtpost.com/7983748.html)
+**发布时间**: 2026-05-11 18:13
+
+#### [字节砍掉30%的AI项目？背后的真假与焦虑](https://www.tmtpost.com/7983671.html)
+**发布时间**: 2026-05-11 18:12
+
+#### [大模型下半场：印奇向左，杨植麟向右](https://www.tmtpost.com/7983355.html)
+**发布时间**: 2026-05-11 18:11
+
+#### [别怪AI，OD真正的对手是自己](https://www.tmtpost.com/7983164.html)
+**发布时间**: 2026-05-11 18:10
+
+#### [一边开除一边监控，扎克伯格的“战争模式”能打赢AI翻身仗吗？](https://www.tmtpost.com/7983683.html)
+**发布时间**: 2026-05-11 18:09
+
+#### [人类作家必须自证不是机器的时代到了](https://www.tmtpost.com/7983735.html)
+**发布时间**: 2026-05-11 18:09
+
+#### [AI经济基础设施竞赛开启，Stripe落子后出海企业增长飞轮如何转动？｜出海参考](https://www.tmtpost.com/7981250.html)
+**发布时间**: 2026-05-11 17:12
+
+#### [传感器+ 3D打印钛合金，全球首款“智能脊柱”来了](https://www.tmtpost.com/7983463.html)
+**发布时间**: 2026-05-11 17:11
+
+#### [阿里CEO，又收获一个IPO](https://www.tmtpost.com/7983634.html)
+**发布时间**: 2026-05-11 17:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Figma自研了Redis代理，实现六个9可用性](https://www.infoq.cn/article/8Q9hEDB6cqe9qpW6mJh6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 21:24
+
+#### [黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？](https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 21:00
+
+#### [Mistral为Le Chat新增远程智能体与Work模式](https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 20:00
+
+#### [GitHub升级CodeQL：以声明式安全建模实现更快且更灵活的分析](https://www.infoq.cn/article/UZhARgaRAyQl6ysULrY3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 19:00
+
+#### [AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题](https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 18:54
+
+#### [38万应用暴露、2000+应用泄密！AI编程把“内网”变公网](https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 18:00
+
+#### [Claude Code的Auto模式深度解析：Anthropic带有人类审批门控的自治编码系统](https://www.infoq.cn/article/UMuOBcU1lJ6jrOsQGlZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 18:00
+
+#### [有奖征文｜4 天 4000 Star的 Agent 沙箱，等你来开箱赢奖励](https://xie.infoq.cn/article/51ce079a86529ccd83bcd3570?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-11 10:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
+**发布时间**: 2026-05-11 18:01
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 2.4 万 Star！输入一个用户名，就能查遍 3000+ 网站。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533562&idx=1&sn=b1b939773a8a7b7b75c97ddd7d3c4b42)
+**发布时间**: 2026-05-11 14:26
 
 ---
 

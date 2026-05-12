@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-11 08:27
+**最后更新时间**: 2026-05-12 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-12 00:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab](https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 23:49
+
+#### [BuzzFeed’s stock more than doubles as beleaguered media company gets a lifeline](https://www.marketwatch.com/story/buzzfeeds-stock-more-than-doubles-as-beleaguered-media-company-gets-a-lifeline-7dea1e61?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 23:31
+
+#### [AI investment ‘advice’ is 50% more likely to pump you up — and trip you into costly blunders](https://www.marketwatch.com/story/ai-investment-advice-is-50-more-likely-to-pump-you-up-and-trip-you-into-costly-blunders-1fcdd3d1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 22:45
+
+#### [Oil price charts produced a pattern not seen in 36 years. What happened last time?](https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 22:29
+
+#### [Here’s the next AI ‘battleground’ — and how investors can get in on the action](https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:44
+
+#### [AST SpaceMobile’s stock drops as earnings come with a big disappointment](https://www.marketwatch.com/story/ast-spacemobiles-stock-is-on-the-rise-as-investors-gear-up-for-earnings-from-the-spacex-rival-2ba69b4c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:42
+
+#### [Stocks are hitting record highs even as Iran war drags on. How long can it last?](https://www.marketwatch.com/story/stocks-are-hitting-record-highs-even-as-iran-war-drags-on-how-long-can-it-last-f65cf2d5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:32
+
+#### [‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?](https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:28
+
+#### [Cash-strapped homeowners may soon have no choice but to repair their aging houses. These stocks can benefit.](https://www.marketwatch.com/story/cash-strapped-homeowners-may-soon-have-no-choice-but-to-repair-their-aging-houses-0241bbdc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:19
+
+#### [Figuring out how to watch NBA playoff games has been a struggle. And — sorry, sports fans — it’s only getting worse.](https://www.marketwatch.com/story/figuring-out-where-to-watch-nba-playoff-games-has-been-a-struggle-and-it-may-only-get-worse-for-sports-fans-347668e6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 21:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer makes last-ditch bid to save his premiership](https://www.ft.com/content/9c4c7a97-c564-4a7f-9866-1182a84e7812)
+**发布时间**: 2026-05-11 23:27
+
+#### [Zelenskyy’s former chief of staff targeted in major corruption probe](https://www.ft.com/content/02ac51aa-712b-4142-8ef1-9a0f5ae13cb6)
+**发布时间**: 2026-05-11 23:07
+
+#### [US considers suspending fuel tax as Iran war pushes up prices](https://www.ft.com/content/94b62354-1966-4d8d-95b7-2749ed5a21ff)
+**发布时间**: 2026-05-11 21:07
+
+#### [Nadella says the attempt to remove Altman from OpenAI was ‘amateur city’](https://www.ft.com/content/0a88f439-ba2a-4d6b-8ca4-0554a7c85c50)
+**发布时间**: 2026-05-11 20:56
+
+#### [Trump says Iran ceasefire is on ‘life support’](https://www.ft.com/content/69e836e6-b676-434f-9383-4522dc0c4eca)
+**发布时间**: 2026-05-11 17:21
+
+#### [MFS owner accused of ‘plundering’ company to fund ‘lavish lifestyle’](https://www.ft.com/content/bc8f610f-d175-4bda-afed-337a7290e5c2)
+**发布时间**: 2026-05-11 16:19
+
+#### [A weakened Trump arrives at Xi’s court](https://www.ft.com/content/b2db7ec0-9293-4f22-855f-c6c059378736)
+**发布时间**: 2026-05-11 12:05
+
+#### [There was nothing here to save Starmer](https://www.ft.com/content/e02c7d5d-d420-49cb-a71c-e7d9ff720078)
+**发布时间**: 2026-05-11 11:56
+
+#### [Fuel, munitions and food: Trump’s Iran war rips across US economy](https://www.ft.com/content/145eccf2-14d8-4819-bd75-5674a5818f7c)
+**发布时间**: 2026-05-11 10:00
+
+#### [What would a Reform government do?](https://www.ft.com/content/93df6d14-5dc4-4fc3-8d1d-e1950cd00ae1)
+**发布时间**: 2026-05-11 04:00
 
 ---
 
