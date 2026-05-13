@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-12 10:35
+**最后更新时间**: 2026-05-13 00:03
+
+---
+
+## 🆕 最新更新 (2026-05-13 00:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The real cost of the Iran war isn’t just higher prices — it’s market paralysis](https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 22:37
+
+#### [Here’s the silver lining for stocks and 5% Treasury yields](https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 22:21
+
+#### [Is AI power really the new oil? Soon it will trade like just like a commodity.](https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 22:02
+
+#### [Copper prices are now at their highest level on record. AI is only part of the story.](https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 21:43
+
+#### [What former poker champion turned investing coach Annie Duke says most of us get wrong about risk](https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 21:29
+
+#### [Intel’s stock just guided the chip sector toward a sharp selloff. Here’s why.](https://www.marketwatch.com/story/why-intels-stock-is-falling-and-guiding-the-chip-sector-toward-its-worst-day-of-the-year-aa8812e4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 21:19
+
+#### [Clothes just saw the biggest price jump in three years. How much more will shoppers pay?](https://www.marketwatch.com/story/clothes-just-saw-the-biggest-price-jump-in-three-years-how-much-more-will-shoppers-pay-4aba43d7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-12 21:09
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer clings to power after four ministers resign](https://www.ft.com/content/87c4bea0-421f-4cdc-b5b5-98221a9142f5)
+**发布时间**: 2026-05-12 21:43
+
+#### [Resignation of US food and drug regulator head adds to health agency vacancies](https://www.ft.com/content/34f532f1-b05c-47f8-8db5-bc980da824d9)
+**发布时间**: 2026-05-12 21:41
+
+#### [Pentagon’s Iran war bill nears $30bn as Trump renews threats](https://www.ft.com/content/eb5acb32-a98d-44dd-8fb6-f67ae7acf32d)
+**发布时间**: 2026-05-12 21:12
+
+#### [US inflation jumps to 3.8% as Trump’s Iran war sends petrol prices soaring](https://www.ft.com/content/ce609605-8f82-42d7-8364-5ca5fbfb02cb)
+**发布时间**: 2026-05-12 20:25
+
+#### [Musk made ‘hair-raising’ demands for control of OpenAI, Altman testifies](https://www.ft.com/content/e3341337-a598-49f3-9593-f2f326e048ae)
+**发布时间**: 2026-05-12 19:13
+
+#### [Blue Owl retail fundraising evaporates amid private credit concerns](https://www.ft.com/content/d04547c7-6315-4998-928d-2708670f4e01)
+**发布时间**: 2026-05-12 17:20
+
+#### [Don’t mess with central bank independence](https://www.ft.com/content/46d8fac2-a90d-45d8-9a64-bc2483cf5963)
+**发布时间**: 2026-05-12 11:30
+
+#### [Why Americans dread AI](https://www.ft.com/content/637f5664-44eb-4527-8369-9eec320cfdf0)
+**发布时间**: 2026-05-12 11:04
 
 ---
 
