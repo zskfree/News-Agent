@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 07:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 07:52:44 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 10:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 10:31:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>何恺明首个语言模型：105M参数，不走GPT自回归老路</title>
-      <link>https://www.qbitai.com/2026/05/416628.html</link>
-      <description>&lt;![CDATA[何恺明首个语言模型：105M参数，不走GPT自回归老路]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 01:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416628.html</guid>
+      <title>林俊旸果然创业了！一个“Qwen负责人”头衔值135亿</title>
+      <link>https://www.qbitai.com/2026/05/416963.html</link>
+      <description>&lt;![CDATA[林俊旸果然创业了！一个“Qwen负责人”头衔值135亿]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416963.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览</title>
-      <link>https://www.qbitai.com/2026/05/416762.html</link>
-      <description>&lt;![CDATA[AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 04:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416762.html</guid>
+      <title>苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了</title>
+      <link>https://www.qbitai.com/2026/05/416870.html</link>
+      <description>&lt;![CDATA[苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416870.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜</title>
-      <link>https://www.qbitai.com/2026/05/416754.html</link>
-      <description>&lt;![CDATA[Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 04:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416754.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型</title>
-      <link>https://www.qbitai.com/2026/05/416576.html</link>
-      <description>&lt;![CDATA[爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 03:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416576.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架</title>
-      <link>https://www.qbitai.com/2026/05/416864.html</link>
-      <description>&lt;![CDATA[高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 05:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416864.html</guid>
+      <title>2026-05-13日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-13/</link>
+      <description>&lt;![CDATA[2026-05-13日刊]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-13/</guid>
       <category>Ai</category>
     </item>
   </channel>

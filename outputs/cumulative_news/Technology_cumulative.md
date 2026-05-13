@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-13 07:52
+**最后更新时间**: 2026-05-13 10:31
+
+---
+
+## 🆕 最新更新 (2026-05-13 10:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [腾讯为什么一定要买喜马拉雅？](https://www.tmtpost.com/7986071.html)
+**发布时间**: 2026-05-13 18:16
+
+#### [收编喜马拉雅， 腾讯音乐能否打赢这场防守战？](https://www.tmtpost.com/7985828.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [机器人行业最缺的，已经不是想象力了](https://www.tmtpost.com/7985905.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [从倒逼到自觉，高油价如何重塑全球能源投资格局？](https://www.tmtpost.com/7985688.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [快手拆掉可灵，可灵吞噬快手](https://www.tmtpost.com/7985965.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学](https://www.tmtpost.com/7986046.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [大厂「分拆潮」，终于轮到了AI](https://www.tmtpost.com/7986149.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [AI时代的产业版图重构：龙头、雁阵与掉队者](https://www.tmtpost.com/7986182.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [智谱找到了“AI最优解”？](https://www.tmtpost.com/7986213.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [药品说明书里的“尚不明确”，该消失了](https://www.tmtpost.com/7986212.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [红杉坐阵，收获一个330亿IPO](https://www.tmtpost.com/7986318.html)
+**发布时间**: 2026-05-13 17:49
+
+#### [DAA、超级个体与混合编队：李彦宏的AI时代进化论](https://www.tmtpost.com/7986488.html)
+**发布时间**: 2026-05-13 17:48
+
+#### [突击入股、清空主业、关联并购，3倍地产股跨界追光的勇与谋](https://www.tmtpost.com/7986581.html)
+**发布时间**: 2026-05-13 17:10
+
+#### [化解千亿债务后，新紫光能否摆脱“华为平替”？](https://www.tmtpost.com/7985768.html)
+**发布时间**: 2026-05-13 16:10
+
+#### [快手分家：让可灵去敲钟，老铁种好地](https://www.tmtpost.com/7985734.html)
+**发布时间**: 2026-05-13 16:10
+
+#### [再谈OpenAI：8000亿的估值，建不起的壁垒](https://www.tmtpost.com/7985686.html)
+**发布时间**: 2026-05-13 16:10
+
+#### [快手都得靠可灵出去“养家糊口”了？](https://www.tmtpost.com/7985665.html)
+**发布时间**: 2026-05-13 16:10
+
+#### [国会调查Altman：不持股的CEO，如何靠"体外循环"建起300亿帝国](https://www.tmtpost.com/7985654.html)
+**发布时间**: 2026-05-13 16:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版](https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 18:04
+
+#### [当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义](https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 17:22
+
+#### [GitHub 如何保障现代CI/CD系统中智能体工作流的安全](https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 16:08
+
+#### [Manus 交易失败后，创始人仍在谈论 Agent 时代的成功经验](https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 16:02
+
+#### [MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力](https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 15:49
+
+#### [把 RAG 做成主流的公司，现在开始“做空”RAG 了](https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 15:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
+**发布时间**: 2026-05-13 17:30
+
+#### [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
+**发布时间**: 2026-05-13 14:56
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 07:52:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 07:53:12 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 10:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 10:31:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解</title>
-      <link>https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
+      <link>https://www.tmtpost.com/7986182.html</link>
+      <description>&lt;![CDATA[AI时代的产业版图重构：龙头、雁阵与掉队者]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986182.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”</title>
-      <link>https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大厂「分拆潮」，终于轮到了AI</title>
+      <link>https://www.tmtpost.com/7986149.html</link>
+      <description>&lt;![CDATA[大厂「分拆潮」，终于轮到了AI]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986149.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能</title>
-      <link>https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？</title>
+      <link>https://www.tmtpost.com/7983452.html</link>
+      <description>&lt;![CDATA[200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7983452.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己</title>
-      <link>https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</guid>
+      <title>机器人行业最缺的，已经不是想象力了</title>
+      <link>https://www.tmtpost.com/7985905.html</link>
+      <description>&lt;![CDATA[机器人行业最缺的，已经不是想象力了]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7985905.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f</link>
-      <description>&lt;![CDATA[手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f</guid>
+      <title>当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义</title>
+      <link>https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

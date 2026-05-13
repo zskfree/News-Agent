@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-13 07:52
+**最后更新时间**: 2026-05-13 10:31
+
+---
+
+## 🆕 最新更新 (2026-05-13 10:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I have zero envy’: I’m 75, enjoy working and live below my means. Why are more people not like me?](https://www.marketwatch.com/story/i-have-zero-envy-im-75-enjoy-working-and-live-below-my-means-why-are-more-people-not-like-me-1b68f8eb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 10:15
+
+#### [I want to go on a trip this fall. Should I wait until the Iran war ends to book my flight?](https://www.marketwatch.com/story/i-want-to-go-on-a-trip-this-fall-should-i-wait-until-the-iran-war-ends-to-book-my-flight-b526f5d6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 10:00
+
+#### [My wife and I retired with 22 times our income. Why don’t more people do what we did?](https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 09:47
+
+#### [‘He is retired’: Should my husband take his Social Security at 62 and invest it?](https://www.marketwatch.com/story/he-is-retired-should-my-husband-take-his-social-security-at-62-and-invest-it-c7b74368?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 09:15
+
+#### [Morgan Stanley boosts S&P 500 target. Why Mike Wilson says the market has already priced in the biggest risks.](https://www.marketwatch.com/story/the-stock-market-doesnt-need-fed-cuts-says-morgan-stanley-as-it-rachets-s-p-500-view-higher-d39742b0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 08:57
+
+#### [Nvidia’s Jensen Huang got the last Air Force One seat to China. Why it’s so crucial for the chipmaker.](https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 08:46
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BYD says ‘flash charging’ tech will help its EVs compete with petrol models](https://www.ft.com/content/ce9a2318-287c-4c07-89ae-3d8582ed5501)
+**发布时间**: 2026-05-13 09:01
+
+#### [Data: you don’t know what you’ve got till it’s gone](https://www.ft.com/content/46d7c52d-9ef6-4a44-a241-a1eaab64a321)
+**发布时间**: 2026-05-13 04:00
 
 ---
 
