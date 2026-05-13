@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-13 00:03
+**最后更新时间**: 2026-05-13 07:52
+
+---
+
+## 🆕 最新更新 (2026-05-13 07:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己](https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 15:43
+
+#### [摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”](https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 15:17
+
+#### [智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解](https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 14:18
+
+#### [Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能](https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 14:00
+
+#### [在软件设计中应用当下最佳简易系统](https://www.infoq.cn/article/lgNITLzIjJfYtTHIOwNy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 11:53
+
+#### [Cortex 智能代理：赋能 Snowflake Intelligence 打造企业级 AI 代理核心平台 ｜技术趋势](https://www.infoq.cn/article/och7xCsthoziccjC2cmY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 10:57
+
+#### [局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？](https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 10:50
+
+#### [OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟](https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 10:34
+
+#### [ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了](https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 10:17
+
+#### [火山引擎OpenViking 上下文数据库范式探索｜AICon上海](https://www.infoq.cn/article/xQVU8SEXkTaMiNGT8WVa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 10:00
+
+#### [平台工程三大支柱的良性循环](https://www.infoq.cn/article/oBhN72Iw4LwZLfvHpKjy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-13 09:33
+
+#### [谷歌在 Next 26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理](https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-12 17:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [老登们终于向泡泡玛特投降了](https://www.tmtpost.com/7985462.html)
+**发布时间**: 2026-05-13 15:43
+
+#### [中国金主，冷对世界杯](https://www.tmtpost.com/7986396.html)
+**发布时间**: 2026-05-13 15:43
+
+#### [很遗憾，OpenAI 和 Anthropic 开始玩金融工程了](https://www.tmtpost.com/7986249.html)
+**发布时间**: 2026-05-13 15:43
+
+#### [具身智能，选城如选命](https://www.tmtpost.com/7986300.html)
+**发布时间**: 2026-05-13 13:22
+
+#### [海辰储能王鹏程：2027年将成为AIDC储能商业化应用元年](https://www.tmtpost.com/7986262.html)
+**发布时间**: 2026-05-13 12:41
+
+#### [腾讯需要一场2026年的首胜](https://www.tmtpost.com/7986281.html)
+**发布时间**: 2026-05-13 12:16
+
+#### [太阳能股票有望继续走高，First Solar、SolarEdge 技术面看涨](https://www.tmtpost.com/7986224.html)
+**发布时间**: 2026-05-13 10:54
+
+#### [千问接淘宝，豆包连抖音，两种AI电商路线浮现](https://www.tmtpost.com/7985764.html)
+**发布时间**: 2026-05-13 10:09
+
+#### [中国正在成为世界内容工厂](https://www.tmtpost.com/7985910.html)
+**发布时间**: 2026-05-13 10:09
+
+#### [蔚来饼干“钓鱼”](https://www.tmtpost.com/7985800.html)
+**发布时间**: 2026-05-13 10:09
+
+#### [长鹰硬科的奇特现象：“买对手原料、做对手产品、赚比对手更高利润”｜IPO观察](https://www.tmtpost.com/7985237.html)
+**发布时间**: 2026-05-13 10:02
+
+#### [华大基因收购重庆新一产，实现“基因组+蛋白质组+空间组”多维整合](https://www.tmtpost.com/7985542.html)
+**发布时间**: 2026-05-13 10:01
+
+#### [黄仁勋很孤独](https://www.tmtpost.com/7985999.html)
+**发布时间**: 2026-05-13 09:47
+
+#### [1万亿美元，Anthropic凭什么超越OpenAI？](https://www.tmtpost.com/7986029.html)
+**发布时间**: 2026-05-13 09:37
+
+#### [200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？](https://www.tmtpost.com/7983452.html)
+**发布时间**: 2026-05-13 09:07
+
+#### [Edge AI Daily 早报（5月13日）](https://www.tmtpost.com/7985992.html)
+**发布时间**: 2026-05-13 07:59
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么](http://www.geekpark.net/news/364100)
+**发布时间**: 2026-05-13 14:25
+
+#### [免费 1500 次背后，商汤在下一盘什么棋](http://www.geekpark.net/news/364099)
+**发布时间**: 2026-05-13 14:24
+
+#### [AI 为什么一定会成为这代人的全新购物入口](http://www.geekpark.net/news/364101)
+**发布时间**: 2026-05-13 14:22
+
+#### [谷歌在安卓上全面强化 Gemini AI；宇树发布全球首款载人机甲，售价 390 万元；追觅高管回应「崩老头」](http://www.geekpark.net/news/364062)
+**发布时间**: 2026-05-13 08:51
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533648&idx=1&sn=23d7c59bb3b7bb2641220694d6a0ab4f)
+**发布时间**: 2026-05-13 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
+**发布时间**: 2026-05-13 08:10
+
+#### [派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等](https://sspai.com/post/109698)
+**发布时间**: 2026-05-13 07:35
 
 ---
 

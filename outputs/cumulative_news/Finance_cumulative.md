@@ -1,7 +1,45 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-13 00:03
+**最后更新时间**: 2026-05-13 07:52
+
+---
+
+## 🆕 最新更新 (2026-05-13 07:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump is up against China’s great wall of confidence](https://www.ft.com/content/8db82813-85e1-4f82-83fd-fc224b605565)
+**发布时间**: 2026-05-13 04:00
+
+#### [The Iran war and the future of cheap flights](https://www.ft.com/content/a8f9aa9b-94f7-4188-8c53-e18b614c373f)
+**发布时间**: 2026-05-13 04:00
+
+#### [Why global imbalances matter](https://www.ft.com/content/1bbd3463-1022-4c98-9840-df9b671a3d41)
+**发布时间**: 2026-05-13 04:00
+
+#### [JPMorgan is finally rolling out its consumer bank in Europe](https://www.ft.com/content/41c4c05b-9850-44cb-ba70-029f2cadbed1)
+**发布时间**: 2026-05-13 04:00
+
+#### [Europe’s few AI plays soar as US tech frenzy goes global](https://www.ft.com/content/adabe0fe-3418-4f06-8c08-98db21250a49)
+**发布时间**: 2026-05-13 04:00
+
+#### [Putin and Zelenskyy cool on US-led peace talks](https://www.ft.com/content/09273889-e9b5-4317-b989-911c84df36fa)
+**发布时间**: 2026-05-13 04:00
+
+#### [Trump’s plan to discuss Taiwan arms sales with Xi rattles Asian allies](https://www.ft.com/content/156bf437-b5a8-40de-98c5-1ffe47d88b70)
+**发布时间**: 2026-05-13 03:57
+
+#### [JPMorgan set to reshuffle investment bank chiefs amid wider shake-up](https://www.ft.com/content/113ddfa2-7322-45f2-ac10-59bb1b302444)
+**发布时间**: 2026-05-13 03:43
+
+#### [Will Chinese companies still move to Singapore after Manus crackdown?](https://www.ft.com/content/8774ab60-e94e-4386-b8f9-e89caaa5d11f)
+**发布时间**: 2026-05-13 03:14
+
+#### [1MDB financier Jho Low asks Trump for a pardon](https://www.ft.com/content/86010fcd-8161-49dd-a267-1e08eb919911)
+**发布时间**: 2026-05-13 01:28
+
+#### [China’s big tech groups miss out on AI stock market frenzy](https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265)
+**发布时间**: 2026-05-12 21:00
 
 ---
 

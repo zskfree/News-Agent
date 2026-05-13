@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 00:03:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 00:04:03 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 07:52:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 07:53:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会</title>
-      <link>http://www.geekpark.net/news/364060</link>
-      <description>&lt;![CDATA[谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 03:02:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/364060</guid>
+      <title>智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解</title>
+      <link>https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达开始向泡沫里加肥皂水</title>
-      <link>https://www.tmtpost.com/7984807.html</link>
-      <description>&lt;![CDATA[英伟达开始向泡沫里加肥皂水]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7984807.html</guid>
+      <title>摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”</title>
+      <link>https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>传可灵计划独立融资上市：300 亿美元的快手长出 200 亿美元的 AI 视频子公司</title>
-      <link>http://www.geekpark.net/news/364057</link>
-      <description>&lt;![CDATA[传可灵计划独立融资上市：300 亿美元的快手长出 200 亿美元的 AI 视频子公司]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 19:23:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/364057</guid>
+      <title>Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能</title>
+      <link>https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>东方电气一季度利润涨幅近4成，GE、西门子订单排到2030年，中国燃气轮机赶上AI“电荒”的窗口期</title>
-      <link>https://www.tmtpost.com/7984684.html</link>
-      <description>&lt;![CDATA[东方电气一季度利润涨幅近4成，GE、西门子订单排到2030年，中国燃气轮机赶上AI“电荒”的窗口期]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 14:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7984684.html</guid>
+      <title>6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己</title>
+      <link>https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>知名开源作者呼吁对软件供应链进行验证，而非盲目信任</title>
-      <link>https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[知名开源作者呼吁对软件供应链进行验证，而非盲目信任]]&gt;</description>
-      <pubDate>Tue, 12 May 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f</link>
+      <description>&lt;![CDATA[手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f865f6be38ba64bd89e1ee800dc32e075d7d3e9de6ca9a9aa07066194f1528ab": {
-        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
-        "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-13T07:16:53.453506"
-      },
-      "b5693febc2485c23b3af694898a6ccf70a0b5e3507d0e45b64b17effe03b1891": {
-        "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
-        "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-13T07:16:53.453513"
-      },
-      "052aeb3324774b3667c677176de83d674ccffdbdf26ff01acdb4bd72b2ac4bef": {
-        "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
-        "link": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-13T07:16:53.453515"
-      },
-      "5946127cd156c00e460a96d0cc3924e09ee457ce05699dfacda25905470ff598": {
-        "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
-        "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 10:25:00 GMT",
-        "first_seen": "2026-04-13T07:16:53.453517"
-      },
-      "427752c417da858cb79667fd00c8007b6b00372235f568909717d7e94a9b9df4": {
-        "title": "FOSDEM 2026：WebTransport简介，下一个 WebSocket？！",
-        "link": "https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-13T07:16:53.453518"
-      },
       "f4cd383132d1a999162bf92d73f6747d56c72af1fc3ed7a4c803759fdadd2446": {
         "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
         "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
@@ -2611,39 +2581,39 @@
         "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 12 May 2026 19:13:00 GMT",
         "first_seen": "2026-05-13T00:04:03.673897"
+      },
+      "670efbf00656994c3d0195e7e1533a4d813bb7cef0940e5a713d274b239a51ab": {
+        "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "link": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 14:18:00 GMT",
+        "first_seen": "2026-05-13T07:53:12.885424"
+      },
+      "6e7dc04d84ea8ce826b4dafd36da1a90b3d935b8dfd4f596e793d42e07382608": {
+        "title": "摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”",
+        "link": "https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 15:17:00 GMT",
+        "first_seen": "2026-05-13T07:53:12.885431"
+      },
+      "ce76bfea4293ff3cd4ea9723ff01fb79e52e55aa372128de299bcb92627855f8": {
+        "title": "Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能",
+        "link": "https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-13T07:53:12.885434"
+      },
+      "c07cc9fc3b344f858c25eb0a0935fcdcb59003a911568593c25a699ee1a17f3e": {
+        "title": "6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己",
+        "link": "https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 15:43:00 GMT",
+        "first_seen": "2026-05-13T07:53:12.885436"
+      },
+      "596af3c3b853ec78be14af70cd84c6e296fbce9b13d9319647000ac4549f87df": {
+        "title": "手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533648&idx=1&sn=23d7c59bb3b7bb2641220694d6a0ab4f",
+        "published_date": "Wed, 13 May 2026 13:51:00 GMT",
+        "first_seen": "2026-05-13T07:53:12.885438"
       }
     },
     "Finance": {
-      "76281820cf0c99fd56e3d23135523b58a0b7764dd2663e564713cb78b682b9ac": {
-        "title": "Oil prices soar above $100 a barrel as hope fades of end to Iran war",
-        "link": "https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c",
-        "published_date": "Mon, 13 Apr 2026 06:15:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.721872"
-      },
-      "8a438c803ad3cd7ccb9af30da5b999a6d555155a7ed6db872372ab4b55396464": {
-        "title": "The risks of Trump’s Strait of Hormuz blockade plan",
-        "link": "https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb",
-        "published_date": "Mon, 13 Apr 2026 04:46:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.721883"
-      },
-      "124f8003c8b84d653c27ff0d99d90a3aab70a0d103f76456abd7f9f00d392089": {
-        "title": "Carson Block sees new dawn for short sellers in AI disruption",
-        "link": "https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7",
-        "published_date": "Mon, 13 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.721885"
-      },
-      "453435b20d263263b9765c1be82d1fd8457c07030b44a38761631e5aa4235185": {
-        "title": "What happens in Sudan will not stay in Sudan",
-        "link": "https://www.ft.com/content/4ff2b813-e347-4373-8355-d19a49af5391",
-        "published_date": "Mon, 13 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.721888"
-      },
-      "b29ace67eb496f2895cd9992d97006cda1dda8b082e0734a5fa0c88dc6b1dc35": {
-        "title": "Stocks fall as US prepares for blockade of strait",
-        "link": "https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08",
-        "published_date": "Mon, 13 Apr 2026 03:25:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.721889"
-      },
       "37d5f73b6fe6fd8746c54442f6ce57abbf46d3b6651d4df60142d8fc9e4f6223": {
         "title": "Trump nominates Pimco executive to lead US Treasury’s international affairs",
         "link": "https://www.ft.com/content/b42bbe36-7a5a-40ce-91b1-9a48b55f414e",
@@ -4911,27 +4881,39 @@
         "link": "https://www.ft.com/content/d04547c7-6315-4998-928d-2708670f4e01",
         "published_date": "Tue, 12 May 2026 17:20:00 GMT",
         "first_seen": "2026-05-13T00:03:38.524396"
+      },
+      "4fcf01a810a50b9345ab0653ed70ec256d3375070b373628519fc09522f5111f": {
+        "title": "Why global imbalances matter",
+        "link": "https://www.ft.com/content/1bbd3463-1022-4c98-9840-df9b671a3d41",
+        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-13T07:52:33.208614"
+      },
+      "b7fa44fd4293324d6f1d25c0fb31fa1c2a90413323f609d7073f486482f8b811": {
+        "title": "Europe’s few AI plays soar as US tech frenzy goes global",
+        "link": "https://www.ft.com/content/adabe0fe-3418-4f06-8c08-98db21250a49",
+        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-13T07:52:33.208623"
+      },
+      "86b2d9e942a0a7abc4904c411a1457800d0d9683f34263a63c5e1afd376a41da": {
+        "title": "Trump is up against China’s great wall of confidence",
+        "link": "https://www.ft.com/content/8db82813-85e1-4f82-83fd-fc224b605565",
+        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-13T07:52:33.208625"
+      },
+      "516075f4710029c5e773db0dd146648e3c9745aea036aaa86b9fb6e437f46601": {
+        "title": "Trump’s plan to discuss Taiwan arms sales with Xi rattles Asian allies",
+        "link": "https://www.ft.com/content/156bf437-b5a8-40de-98c5-1ffe47d88b70",
+        "published_date": "Wed, 13 May 2026 03:57:00 GMT",
+        "first_seen": "2026-05-13T07:52:33.208628"
+      },
+      "d5505da81d86de2c37ff5c36905f3e46548fa1d8dbf2207b3cd5d8e27f30bd20": {
+        "title": "Will Chinese companies still move to Singapore after Manus crackdown?",
+        "link": "https://www.ft.com/content/8774ab60-e94e-4386-b8f9-e89caaa5d11f",
+        "published_date": "Wed, 13 May 2026 03:14:00 GMT",
+        "first_seen": "2026-05-13T07:52:33.208629"
       }
     },
     "Ai": {
-      "f786dbf64c9173029e3713f8ec9d9068b03f053dc57aa58b54157316d2c6b9f6": {
-        "title": "2026-04-13日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-13/",
-        "published_date": "Mon, 13 Apr 2026 10:41:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.870500"
-      },
-      "0808110e398581b52b28a1287a01634d86c61a3cda460be45e8f468856122d63": {
-        "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
-        "link": "https://www.qbitai.com/2026/04/400500.html",
-        "published_date": "Mon, 13 Apr 2026 05:41:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.870507"
-      },
-      "3284f293faaab7781092dce4b9443e0237c377f5a19be583d0b1d7b55e09326e": {
-        "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
-        "link": "https://www.qbitai.com/2026/04/400350.html",
-        "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
-        "first_seen": "2026-04-13T07:15:49.870510"
-      },
       "fe0fb43af3ccaa96216b14df1d8a3c3fb5cdbc9548ad8318373edb99cf104b87": {
         "title": "Towards developing future-ready skills with generative AI",
         "link": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/",
@@ -6227,13 +6209,43 @@
         "link": "https://www.qbitai.com/2026/05/416597.html",
         "published_date": "Tue, 12 May 2026 13:55:00 GMT",
         "first_seen": "2026-05-13T00:03:38.683483"
+      },
+      "5a1d0a92ba0ebad755df6813367ee04ffbfeddd7bd027a4c9729ad5777a5c9a8": {
+        "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+        "link": "https://www.qbitai.com/2026/05/416628.html",
+        "published_date": "Wed, 13 May 2026 01:23:00 GMT",
+        "first_seen": "2026-05-13T07:52:44.321138"
+      },
+      "eb31c61a16efde3c61eb3010dd9194da0cb14334cf49da92b8590effd67fcc80": {
+        "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+        "link": "https://www.qbitai.com/2026/05/416762.html",
+        "published_date": "Wed, 13 May 2026 04:43:00 GMT",
+        "first_seen": "2026-05-13T07:52:44.321144"
+      },
+      "f710d5d760b24548ad5585988daa9998f6b3445e3ff4a9e6984d54f52ce516ca": {
+        "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+        "link": "https://www.qbitai.com/2026/05/416754.html",
+        "published_date": "Wed, 13 May 2026 04:08:00 GMT",
+        "first_seen": "2026-05-13T07:52:44.321147"
+      },
+      "5617863fa96d266003217210b9f28dbd433da3d74da1f43b5bb830a1c279b4bd": {
+        "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
+        "link": "https://www.qbitai.com/2026/05/416576.html",
+        "published_date": "Wed, 13 May 2026 03:10:00 GMT",
+        "first_seen": "2026-05-13T07:52:44.321150"
+      },
+      "2f3b0c39ac1b8b08f88b9df199946ee443801cca71a67c6057113b3c02f03a49": {
+        "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+        "link": "https://www.qbitai.com/2026/05/416864.html",
+        "published_date": "Wed, 13 May 2026 05:53:00 GMT",
+        "first_seen": "2026-05-13T07:52:44.321152"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-13T00:04:03.673899",
-    "Finance": "2026-05-13T00:03:38.524398",
-    "Ai": "2026-05-13T00:03:38.683492"
+    "Technology": "2026-05-13T07:53:12.885441",
+    "Finance": "2026-05-13T07:52:33.208631",
+    "Ai": "2026-05-13T07:52:44.321155"
   }
 }
