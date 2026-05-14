@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 May 2026 00:04:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 00:05:08 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 07:45:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 07:46:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DAA、超级个体与混合编队：李彦宏的AI时代进化论</title>
-      <link>https://www.tmtpost.com/7986488.html</link>
-      <description>&lt;![CDATA[DAA、超级个体与混合编队：李彦宏的AI时代进化论]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986488.html</guid>
+      <title>美国机器人三巨头特斯拉、Figure、1X，正在把竞争带向“Physical AI”</title>
+      <link>https://www.tmtpost.com/7988204.html</link>
+      <description>&lt;![CDATA[美国机器人三巨头特斯拉、Figure、1X，正在把竞争带向“Physical AI”]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7988204.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>再谈OpenAI：8000亿的估值，建不起的壁垒</title>
-      <link>https://www.tmtpost.com/7985686.html</link>
-      <description>&lt;![CDATA[再谈OpenAI：8000亿的估值，建不起的壁垒]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985686.html</guid>
+      <title>唐杰深夜发文，AI从工具到劳动力只差这一步</title>
+      <link>https://www.tmtpost.com/7988136.html</link>
+      <description>&lt;![CDATA[唐杰深夜发文，AI从工具到劳动力只差这一步]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7988136.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么</title>
-      <link>http://www.geekpark.net/news/364100</link>
-      <description>&lt;![CDATA[Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/364100</guid>
+      <title>谷歌终于发现，agent时代头号硬件不是手机</title>
+      <link>https://www.tmtpost.com/7988133.html</link>
+      <description>&lt;![CDATA[谷歌终于发现，agent时代头号硬件不是手机]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7988133.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？</title>
-      <link>https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026 Q1财报解读：阿里、腾讯、京东的三种AI焦虑</title>
+      <link>https://www.tmtpost.com/7988017.html</link>
+      <description>&lt;![CDATA[2026 Q1财报解读：阿里、腾讯、京东的三种AI焦虑]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7988017.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版</title>
-      <link>https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报</title>
+      <link>https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 09:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

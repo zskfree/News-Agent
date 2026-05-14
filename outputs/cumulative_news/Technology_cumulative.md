@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 00:04
+**最后更新时间**: 2026-05-14 07:45
+
+---
+
+## 🆕 最新更新 (2026-05-14 07:45)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2026 Q1财报解读：阿里、腾讯、京东的三种AI焦虑](https://www.tmtpost.com/7988017.html)
+**发布时间**: 2026-05-14 15:29
+
+#### [美国机器人三巨头特斯拉、Figure、1X，正在把竞争带向“Physical AI”](https://www.tmtpost.com/7988204.html)
+**发布时间**: 2026-05-14 15:29
+
+#### [唐杰深夜发文，AI从工具到劳动力只差这一步](https://www.tmtpost.com/7988136.html)
+**发布时间**: 2026-05-14 15:29
+
+#### [高调出圈与跨界狂飙：追觅科技的“流寇式”突围迷思](https://www.tmtpost.com/7988147.html)
+**发布时间**: 2026-05-14 15:29
+
+#### [印奇的资本游戏冲向狂热：暴走融资，对标马斯克，夸下海口](https://www.tmtpost.com/7988049.html)
+**发布时间**: 2026-05-14 15:25
+
+#### [风口起飞，资本重仓：「Profound」怎么就成了GEO标杆？](https://www.tmtpost.com/7988050.html)
+**发布时间**: 2026-05-14 15:25
+
+#### [谷歌终于发现，agent时代头号硬件不是手机](https://www.tmtpost.com/7988133.html)
+**发布时间**: 2026-05-14 15:20
+
+#### [阿里：电商退位，AI 上位，“大放血” 也不可怕](https://www.tmtpost.com/7988080.html)
+**发布时间**: 2026-05-14 15:20
+
+#### [340亿市值与10亿亏损：透视剂泰科技的AI制药商业化逻辑](https://www.tmtpost.com/7986802.html)
+**发布时间**: 2026-05-14 15:20
+
+#### [管线单薄实控存疑，泰诺麦博单品豪赌胜算几何？](https://www.tmtpost.com/7988132.html)
+**发布时间**: 2026-05-14 15:08
+
+#### [从光模块龙头中际旭创，看万亿市值下的人才暗战](https://www.tmtpost.com/7985599.html)
+**发布时间**: 2026-05-14 15:08
+
+#### [FA眼中的AI人才战：2000投资人蹲路演，700万年薪抢应届生](https://www.tmtpost.com/7988005.html)
+**发布时间**: 2026-05-14 13:59
+
+#### [国内 VS 海外，GEO的两种游戏规则](https://www.tmtpost.com/7987871.html)
+**发布时间**: 2026-05-14 13:51
+
+#### [一个英语生做世界模型，估值140亿](https://www.tmtpost.com/7987842.html)
+**发布时间**: 2026-05-14 13:45
+
+#### [早就被写进折叠屏参考书的苹果，为何迟迟不交卷？](https://www.tmtpost.com/7987576.html)
+**发布时间**: 2026-05-14 13:39
+
+#### [AI重构增长引擎：腾讯Q1业绩稳增，大模型与智能体领跑行业](https://www.tmtpost.com/7988069.html)
+**发布时间**: 2026-05-14 13:35
+
+#### [蒋凡的中场答卷](https://www.tmtpost.com/7987901.html)
+**发布时间**: 2026-05-14 13:34
+
+#### [Q2优爱腾长剧，何以满血回“夯”？](https://www.tmtpost.com/7987867.html)
+**发布时间**: 2026-05-14 13:20
+
+#### [东莞，大爆单](https://www.tmtpost.com/7987746.html)
+**发布时间**: 2026-05-14 13:13
+
+#### [当资本追逐火箭与卫星时，有人盯上了航天器的“神经与血管”](https://www.tmtpost.com/7987752.html)
+**发布时间**: 2026-05-14 13:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序](https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 14:29
+
+#### [Gemini 进手机，Android 翻身；Gemini进电脑，全网开喷！](https://www.infoq.cn/article/rLHmQFIEosQUtUHq7bjc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 14:04
+
+#### [本地优先 AI 推理：高性价比文档处理云架构模式](https://www.infoq.cn/article/GKePaJNHaWHeoEfD7W0f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 12:00
+
+#### [前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元](https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 11:40
+
+#### [黄仁勋最后一刻登上访华飞机，英伟达中国市场再添变量](https://www.infoq.cn/article/6a5AKza2aj5FKSYVx76D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 10:50
+
+#### [Netflix 推出“模型生命周期图”，扩展企业级机器学习](https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 10:19
+
+#### [AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海](https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 10:00
+
+#### [谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报](https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-14 09:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者](http://www.geekpark.net/news/364177)
+**发布时间**: 2026-05-14 14:10
+
+#### [脉脉：具身智能岗位暴增 15 倍，平均月薪超 6 万元；马斯克点赞宇树「人形机甲」；阿里吴泳铭：没有一张卡是「空」的](http://www.geekpark.net/news/364131)
+**发布时间**: 2026-05-14 08:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 潮来，翻译何为](https://sspai.com/post/108816)
+**发布时间**: 2026-05-14 11:34
+
+#### [派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
+**发布时间**: 2026-05-14 08:20
 
 ---
 

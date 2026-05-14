@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 00:04
+**最后更新时间**: 2026-05-14 07:45
+
+---
+
+## 🆕 最新更新 (2026-05-14 07:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia pummels Ukraine with missiles and drones as ceasefire collapses](https://www.ft.com/content/813e84b3-65af-4182-a015-8c93ab806045)
+**发布时间**: 2026-05-14 07:18
+
+#### [Xi tells Nvidia, Tesla and Apple CEOs that China will ‘open wider’](https://www.ft.com/content/013a9dd3-8835-4a0e-839e-ca8ed539233d)
+**发布时间**: 2026-05-14 06:20
+
+#### [Angela Rayner says she has been cleared over tax affairs](https://www.ft.com/content/e8383d83-abb0-4879-b421-92ed7c4a70e7)
+**发布时间**: 2026-05-14 05:55
+
+#### [US-China relations depend on Taiwan, Xi warns Trump](https://www.ft.com/content/0547a442-4f33-4818-b67c-a21cf92611f4)
+**发布时间**: 2026-05-14 05:51
+
+#### [What Xi and Trump want from their Beijing summit](https://www.ft.com/content/c3938efb-0337-46a9-a173-1e26cd9cf45b)
+**发布时间**: 2026-05-14 05:47
+
+#### [Private equity backers slam ‘runaway’ legal costs from top law firms](https://www.ft.com/content/511191ed-1adc-4f66-8c61-41f8aed20859)
+**发布时间**: 2026-05-14 04:14
+
+#### [A note from Trump and Xi’s couples therapist](https://www.ft.com/content/dffabcfd-8018-4c9e-b4ca-b93f82358c8b)
+**发布时间**: 2026-05-14 04:00
+
+#### [Self-report fraud and walk free, New York prosecutors tell Wall Street](https://www.ft.com/content/6344b5be-e48c-48b8-8fea-d86e6c4c4aec)
+**发布时间**: 2026-05-14 04:00
+
+#### [The luxury industry’s many contradictions](https://www.ft.com/content/ae084426-5991-4b43-80bc-8ecb6e0f9bb5)
+**发布时间**: 2026-05-14 04:00
+
+#### [Wes Streeting: the confident performer with a mixed record of reform](https://www.ft.com/content/211a8f21-afd5-41c7-bb1d-afcbdabcf030)
+**发布时间**: 2026-05-14 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [20 stocks in the S&P 500 of companies with soaring sales and improving profit margins](https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 00:43
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 00:04:35 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 07:43:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 07:45:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾</title>
-      <link>https://www.qbitai.com/2026/05/417447.html</link>
-      <description>&lt;![CDATA[倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417447.html</guid>
+      <title>2026-05-14日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-14/</link>
+      <description>&lt;![CDATA[2026-05-14日刊]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-14/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了</title>
-      <link>https://www.qbitai.com/2026/05/417366.html</link>
-      <description>&lt;![CDATA[8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417366.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改</title>
-      <link>https://www.qbitai.com/2026/05/416978.html</link>
-      <description>&lt;![CDATA[挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/416978.html</guid>
+      <title>Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够</title>
+      <link>https://www.qbitai.com/2026/05/417469.html</link>
+      <description>&lt;![CDATA[Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 02:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417469.html</guid>
       <category>Ai</category>
     </item>
   </channel>
