@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6977488442795a332192e9599192315f4e19681b8710d2a40543fdf266795307": {
-        "title": "长视频的AI竞赛：技术是门票，人才是底牌",
-        "link": "https://www.tmtpost.com/7952318.html",
-        "published_date": "Tue, 14 Apr 2026 12:25:00 GMT",
-        "first_seen": "2026-04-14T09:22:37.103771"
-      },
-      "2e92b40a82b18f70c55f0cffb78fa233c245041b8112e670308d8715d71b718b": {
-        "title": "派早报：稳定版 Linux 7.0 内核发布等",
-        "link": "https://sspai.com/post/108614",
-        "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
-        "first_seen": "2026-04-14T09:22:37.103779"
-      },
-      "fe0a1e490821ee6dae884c0ba9fc0fee0b0974039621f4f4c3831310cee40a28": {
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
-        "link": "https://sspai.com/post/108005",
-        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
-        "first_seen": "2026-04-14T09:22:37.103781"
-      },
-      "9aab58f639b8b703c3102b29d5b1e9c710765112c8e3ec9f8c45f28dd171a5a1": {
-        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
-        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
-        "first_seen": "2026-04-14T09:22:37.103783"
-      },
-      "c79f818f576fbfcb2bdf03fe082fda0bfaef2658828d13e8ecf8668ba2b6a7d8": {
-        "title": "帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532965&idx=1&sn=20af71b5883c8ce5d6714179cd8871f4",
-        "published_date": "Tue, 14 Apr 2026 12:37:00 GMT",
-        "first_seen": "2026-04-14T09:22:37.103784"
-      },
       "25db71053aef35c92df3d0dbed750b9b2d6af0d4611185635e3d0dc7d97a1667": {
         "title": "2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了",
         "link": "https://www.tmtpost.com/7952122.html",
@@ -2641,33 +2611,39 @@
         "link": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 14 May 2026 09:23:00 GMT",
         "first_seen": "2026-05-14T07:46:17.700839"
+      },
+      "fa1202c92635d8d1ad19c121426f9ccd9587b5637914b6ad2775c540888f6a5d": {
+        "title": "AI大佬田渊栋新开公司融资6.5亿美元，黄仁勋、苏姿丰抢着投",
+        "link": "https://www.tmtpost.com/7988481.html",
+        "published_date": "Thu, 14 May 2026 18:08:00 GMT",
+        "first_seen": "2026-05-14T10:19:50.626423"
+      },
+      "c862991c02768918ed3f10481a98ce0e4886eff725cbd9684ab9db069f57f417": {
+        "title": "AI豪赌到了下半场，阿里和腾讯的“水池难题”何时才能不亏钱？",
+        "link": "https://www.tmtpost.com/7988374.html",
+        "published_date": "Thu, 14 May 2026 16:41:00 GMT",
+        "first_seen": "2026-05-14T10:19:50.626431"
+      },
+      "e03d03518ab9c9293b6076b922239177c3917bb3cbdaa5bd0d52b86515f64ffc": {
+        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
+        "link": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 17:50:00 GMT",
+        "first_seen": "2026-05-14T10:19:50.626433"
+      },
+      "731846026a95ae0bf0db3bb9990c0a781657421558e3b16d85ff09619863991a": {
+        "title": "黄仁勋最后一刻登上访华飞机，英伟达中国市场再添变量",
+        "link": "https://www.infoq.cn/article/6a5AKza2aj5FKSYVx76D?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 10:50:00 GMT",
+        "first_seen": "2026-05-14T10:19:50.626435"
+      },
+      "5636bd10c4ee5a52c9dd798beebe5c853ba8b1a33d879fa2c75a2c49bb945517": {
+        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
+        "link": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 18:00:00 GMT",
+        "first_seen": "2026-05-14T10:19:50.626437"
       }
     },
     "Finance": {
-      "3a55864656b93244b109721866e755da2ba09b5a003d6906d86ec7e32995320f": {
-        "title": "March saw the largest increase in global energy inflation in 25 years",
-        "link": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-14T09:22:22.828264"
-      },
-      "9398ecc54180294f9a7d8d16d2c3a8dcb999ab6343ce30bd13b301738b302142": {
-        "title": "Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’",
-        "link": "https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Apr 2026 09:03:00 GMT",
-        "first_seen": "2026-04-14T09:22:22.828275"
-      },
-      "ff4174cfc362078d1a178222147e2c83f39a1ad4ffbd6fe93e27d90f6a1a599b": {
-        "title": "Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney",
-        "link": "https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Apr 2026 09:01:00 GMT",
-        "first_seen": "2026-04-14T09:22:22.828278"
-      },
-      "abf004f240b855cec581711db50a7e4b54fd4c6b80fd75abc978d576664b6836": {
-        "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.",
-        "link": "https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Apr 2026 08:39:00 GMT",
-        "first_seen": "2026-04-14T09:22:22.828280"
-      },
       "cf4fdf884892850497794289c68d5196068f77ab6d7f554d00481db24d58777c": {
         "title": "BlackRock profits jump as it draws in $130bn",
         "link": "https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4",
@@ -4971,6 +4947,36 @@
         "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories",
         "published_date": "Thu, 14 May 2026 00:43:00 GMT",
         "first_seen": "2026-05-14T07:45:52.377359"
+      },
+      "ed691b30fda900caa470094b900ce6371b338604f9a0f851e596d040994ea38e": {
+        "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+        "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 10:15:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.318605"
+      },
+      "312239e8b052e16d54b9cb59b98dffa3274b70884087da8e2cf3791456fd5a2c": {
+        "title": "The stock market is breaking the rules of the inflation playbook. Here is what is different this time",
+        "link": "https://www.marketwatch.com/story/a-look-at-which-assets-are-following-the-script-and-which-arent-on-day-75-of-the-war-bdd52fba?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 09:38:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.318618"
+      },
+      "22c4b62e71a08fb894c4a4dd6ff15c472078e2721d5e06d20f88a6a3e381e746": {
+        "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
+        "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.318621"
+      },
+      "7e2cef44603019ff6e45dd23e8cccaef3f2b1994cedd30e8dbed969564f92e98": {
+        "title": "Nvidia moves one step closer to a breakthrough on Chinese exports after reaching another milestone",
+        "link": "https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.318623"
+      },
+      "98f3f42b7ff02c470d50a57826c50fc5e23c536c41f47641c507ca9c71a5f822": {
+        "title": "UK navy says vessel seized off UAE coast and heading for Iran",
+        "link": "https://www.ft.com/content/794e619a-1b45-4d15-83fb-15299ac7de06",
+        "published_date": "Thu, 14 May 2026 08:14:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.318626"
       }
     },
     "Ai": {
@@ -6293,13 +6299,31 @@
         "link": "https://www.qbitai.com/2026/05/417469.html",
         "published_date": "Thu, 14 May 2026 02:12:00 GMT",
         "first_seen": "2026-05-14T07:45:52.533028"
+      },
+      "014e08b4b7b2e45729b1a9ca1d992134cc9112f799a5622084ea4b6662762ae1": {
+        "title": "Robotaxi第一股又涨疯了",
+        "link": "https://www.qbitai.com/2026/05/417754.html",
+        "published_date": "Thu, 14 May 2026 08:41:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.466574"
+      },
+      "e6224d2b098cedff0694247192645f8128df5443e1a341c74d85b67c8836f090": {
+        "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+        "link": "https://www.qbitai.com/2026/05/417753.html",
+        "published_date": "Thu, 14 May 2026 08:34:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.466584"
+      },
+      "94c1e9bc098641d5aa750a2b032e337821ca2390c9aee0ef7a19f579d52ff6f3": {
+        "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+        "link": "https://www.qbitai.com/2026/05/417748.html",
+        "published_date": "Thu, 14 May 2026 08:26:00 GMT",
+        "first_seen": "2026-05-14T10:19:21.466586"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-14T07:46:17.700841",
-    "Finance": "2026-05-14T07:45:52.377361",
-    "Ai": "2026-05-14T07:45:52.533031"
+    "Technology": "2026-05-14T10:19:50.626439",
+    "Finance": "2026-05-14T10:19:21.318629",
+    "Ai": "2026-05-14T10:19:21.466589"
   }
 }

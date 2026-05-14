@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 May 2026 07:43:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 07:45:52 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 10:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 10:19:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-14日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-14/</link>
-      <description>&lt;![CDATA[2026-05-14日刊]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-14/</guid>
+      <title>Robotaxi第一股又涨疯了</title>
+      <link>https://www.qbitai.com/2026/05/417754.html</link>
+      <description>&lt;![CDATA[Robotaxi第一股又涨疯了]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417754.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够</title>
-      <link>https://www.qbitai.com/2026/05/417469.html</link>
-      <description>&lt;![CDATA[Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 02:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417469.html</guid>
+      <title>腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%</title>
+      <link>https://www.qbitai.com/2026/05/417753.html</link>
+      <description>&lt;![CDATA[腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417753.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里 AI 应用新进展：悟空开始逐步规模化放量</title>
+      <link>https://www.qbitai.com/2026/05/417748.html</link>
+      <description>&lt;![CDATA[阿里 AI 应用新进展：悟空开始逐步规模化放量]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 08:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417748.html</guid>
       <category>Ai</category>
     </item>
   </channel>

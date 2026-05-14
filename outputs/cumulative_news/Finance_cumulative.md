@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 07:45
+**最后更新时间**: 2026-05-14 10:19
+
+---
+
+## 🆕 最新更新 (2026-05-14 10:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?](https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 10:15
+
+#### [The stock market is breaking the rules of the inflation playbook. Here is what is different this time](https://www.marketwatch.com/story/a-look-at-which-assets-are-following-the-script-and-which-arent-on-day-75-of-the-war-bdd52fba?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 09:38
+
+#### [We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?](https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 09:15
+
+#### [Nvidia moves one step closer to a breakthrough on Chinese exports after reaching another milestone](https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 09:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK navy says vessel seized off UAE coast and heading for Iran](https://www.ft.com/content/794e619a-1b45-4d15-83fb-15299ac7de06)
+**发布时间**: 2026-05-14 08:14
+
+#### [UAE denies Netanyahu made secret visit during Iran war](https://www.ft.com/content/04cd19ab-cd59-4169-aec2-bcd46192b7ff)
+**发布时间**: 2026-05-13 22:10
 
 ---
 
