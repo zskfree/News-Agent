@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 10:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 10:31:49 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 00:05:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
-      <link>https://www.tmtpost.com/7986182.html</link>
-      <description>&lt;![CDATA[AI时代的产业版图重构：龙头、雁阵与掉队者]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986182.html</guid>
+      <title>DAA、超级个体与混合编队：李彦宏的AI时代进化论</title>
+      <link>https://www.tmtpost.com/7986488.html</link>
+      <description>&lt;![CDATA[DAA、超级个体与混合编队：李彦宏的AI时代进化论]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986488.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂「分拆潮」，终于轮到了AI</title>
-      <link>https://www.tmtpost.com/7986149.html</link>
-      <description>&lt;![CDATA[大厂「分拆潮」，终于轮到了AI]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986149.html</guid>
+      <title>再谈OpenAI：8000亿的估值，建不起的壁垒</title>
+      <link>https://www.tmtpost.com/7985686.html</link>
+      <description>&lt;![CDATA[再谈OpenAI：8000亿的估值，建不起的壁垒]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7985686.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？</title>
-      <link>https://www.tmtpost.com/7983452.html</link>
-      <description>&lt;![CDATA[200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7983452.html</guid>
+      <title>Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么</title>
+      <link>http://www.geekpark.net/news/364100</link>
+      <description>&lt;![CDATA[Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/364100</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人行业最缺的，已经不是想象力了</title>
-      <link>https://www.tmtpost.com/7985905.html</link>
-      <description>&lt;![CDATA[机器人行业最缺的，已经不是想象力了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985905.html</guid>
+      <title>局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？</title>
+      <link>https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义</title>
-      <link>https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版</title>
+      <link>https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

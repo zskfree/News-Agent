@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-13 10:31
+**最后更新时间**: 2026-05-14 00:04
+
+---
+
+## 🆕 最新更新 (2026-05-14 00:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Cerebras’s massive IPO will be a fresh test of investor excitement for AI infrastructure](https://www.marketwatch.com/story/cerebrass-ipo-will-be-fresh-a-test-of-investor-excitement-for-ai-infrastructure-3499a2a5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 23:52
+
+#### [Inflation will likely be higher for longer. Your retirement plan isn’t built for that.](https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 23:34
+
+#### [The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages](https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 23:21
+
+#### [Retailers keep tinkering with their AI shopping assistants, in search of better service](https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 22:03
+
+#### [Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record](https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 21:42
+
+#### [The world lost nearly 1 billion barrels in oil supply over the past 75 days. Why investors aren’t worrying enough.](https://www.marketwatch.com/story/the-world-lost-nearly-1-billion-barrels-in-oil-supply-over-the-past-75-days-why-investors-arent-worrying-enough-5a777ae0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 20:59
+
+#### [April’s inflation spike leaves Warsh and the Fed zero excuses not to raise rates](https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-13 20:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Cerebras boosts IPO price to raise $5.5bn](https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814)
+**发布时间**: 2026-05-13 23:10
+
+#### [Citadel tells key researchers to relocate from Hong Kong or quit](https://www.ft.com/content/70ab1705-8c9c-4dce-b9cb-1e517cdd8349)
+**发布时间**: 2026-05-13 23:01
+
+#### [Starmer prepares to fight leadership bid by Streeting](https://www.ft.com/content/f566714c-d611-4d9e-94f0-e1c01bdbb8c0)
+**发布时间**: 2026-05-13 21:48
+
+#### [Senate confirms Warsh to succeed Powell as Fed chair](https://www.ft.com/content/2f1a9453-d062-45a4-9991-9a9552542e25)
+**发布时间**: 2026-05-13 21:29
+
+#### [US sells 30-year bonds at 5% yield for first time since 2007](https://www.ft.com/content/11233902-2054-4ed5-b647-26402e7b58bd)
+**发布时间**: 2026-05-13 20:05
+
+#### [What can we expect from the Fed under Kevin Warsh?](https://www.ft.com/content/a53c2628-094b-4524-95d8-4eab1f48ce15)
+**发布时间**: 2026-05-13 18:51
+
+#### [Who do gilt investors want to lead Britain?](https://www.ft.com/content/3e1c5173-bdb0-456c-9d00-398ccf0d5a60)
+**发布时间**: 2026-05-13 16:20
+
+#### [Trump demands Xi ‘open’ China to US business](https://www.ft.com/content/2b82d07e-20fe-46b6-82a5-46fb425551ce)
+**发布时间**: 2026-05-13 12:18
+
+#### [The rise of the American corporate gerontocracy](https://www.ft.com/content/f24dc56a-7f03-437b-9ab2-b612bbe80a33)
+**发布时间**: 2026-05-13 11:00
+
+#### [Wariness at Temple of Heaven as China waits for Trump](https://www.ft.com/content/127e16f5-f8e7-49e8-85b5-69323911485d)
+**发布时间**: 2026-05-13 10:43
+
+#### [Trump cuts to grocery subsidies bite US food companies](https://www.ft.com/content/df832d87-0cd7-4918-a578-cf089c81711a)
+**发布时间**: 2026-05-13 10:00
+
+#### [Why scrapping quarterly earnings is a bad idea](https://www.ft.com/content/8a42a683-2f1a-41b9-a9f4-5efed4e967ac)
+**发布时间**: 2026-05-13 10:00
 
 ---
 

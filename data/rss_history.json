@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f4cd383132d1a999162bf92d73f6747d56c72af1fc3ed7a4c803759fdadd2446": {
-        "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
-        "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 18:48:00 GMT",
-        "first_seen": "2026-04-13T23:46:53.240105"
-      },
-      "5ff742800efe412dac21bc2d518d505af77196cc7a385a0009e569eb957fafe6": {
-        "title": "字节击败Sora，高兴的可能是腾讯",
-        "link": "https://www.tmtpost.com/7951136.html",
-        "published_date": "Mon, 13 Apr 2026 19:01:00 GMT",
-        "first_seen": "2026-04-13T23:46:53.240111"
-      },
-      "9f752a4ab1c2fc152d422a5cefcbe64b1ab2be995c82bdda52b2386bbe05be3f": {
-        "title": "让Token融入服务：阿里为何押注“智能体经济”",
-        "link": "https://www.tmtpost.com/7951332.html",
-        "published_date": "Mon, 13 Apr 2026 19:31:00 GMT",
-        "first_seen": "2026-04-13T23:46:53.240113"
-      },
-      "884cddce1771684489227dd60cf6fcf3326011c296a918680f821c2132241a61": {
-        "title": "从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了",
-        "link": "https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Apr 2026 16:19:00 GMT",
-        "first_seen": "2026-04-13T23:46:53.240115"
-      },
-      "6ac8f1f6bde7c0a8990f744790174564a890f66f44ac9bc194cbec1d900cfe25": {
-        "title": "智驾芯片，更卷了",
-        "link": "https://www.tmtpost.com/7950683.html",
-        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
-        "first_seen": "2026-04-13T23:46:53.240116"
-      },
       "cd4571375df43d796b9e1d1b3d5cf646cb0d256b7b425abd203ce1ad6081b98f": {
         "title": "瑞士信息与通信科技公司DemoSquare研发公共事务监测与分析软件，提升公共事务处理效率",
         "link": "https://www.tmtpost.com/7952148.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 13 May 2026 17:22:00 GMT",
         "first_seen": "2026-05-13T10:31:49.334771"
+      },
+      "6cd38a9e201339e9b43a47aa6077d75298342af6333d7b3d6726517a7425b1de": {
+        "title": "DAA、超级个体与混合编队：李彦宏的AI时代进化论",
+        "link": "https://www.tmtpost.com/7986488.html",
+        "published_date": "Wed, 13 May 2026 17:48:00 GMT",
+        "first_seen": "2026-05-14T00:05:08.102793"
+      },
+      "8b34301701ee55b2287963faf01b683a0696ff62e1742cfd4bcb89bbc6132068": {
+        "title": "再谈OpenAI：8000亿的估值，建不起的壁垒",
+        "link": "https://www.tmtpost.com/7985686.html",
+        "published_date": "Wed, 13 May 2026 16:10:00 GMT",
+        "first_seen": "2026-05-14T00:05:08.102800"
+      },
+      "6bb1239fd7207d5dab7197b0e08e2392b0aab868f73341b81bfdac1684aa64ef": {
+        "title": "Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么",
+        "link": "http://www.geekpark.net/news/364100",
+        "published_date": "Wed, 13 May 2026 14:25:00 GMT",
+        "first_seen": "2026-05-14T00:05:08.102803"
+      },
+      "b5f918e853b71cf3e20ea6895094beea6e376189d2272123cedeb71f1484063c": {
+        "title": "局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？",
+        "link": "https://www.infoq.cn/article/CWa1OBVphAdE6wgxPJlA?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 10:50:00 GMT",
+        "first_seen": "2026-05-14T00:05:08.102805"
+      },
+      "a73e79a82bca4ebf427f79ebfa5e8d45d58cf33855b56477e50f7a18901b9bdc": {
+        "title": "MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版",
+        "link": "https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 13 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-14T00:05:08.102807"
       }
     },
     "Finance": {
-      "37d5f73b6fe6fd8746c54442f6ce57abbf46d3b6651d4df60142d8fc9e4f6223": {
-        "title": "Trump nominates Pimco executive to lead US Treasury’s international affairs",
-        "link": "https://www.ft.com/content/b42bbe36-7a5a-40ce-91b1-9a48b55f414e",
-        "published_date": "Mon, 13 Apr 2026 20:16:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.291657"
-      },
-      "baeee3dbb02d397cfd07e05c868b116b936785c437121fe1aa838d9d942b469e": {
-        "title": "As the Iran conflict squeezes global energy supplies, U.S. oil is gaining an unusual edge",
-        "link": "https://www.marketwatch.com/story/as-iran-conflict-squeezes-global-energy-supplies-american-oil-becomes-a-vital-safety-net-15ce3c82?mod=mw_rss_topstories",
-        "published_date": "Mon, 13 Apr 2026 21:04:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.291666"
-      },
-      "9f37e9efaf176d4766c7746e5e56f1e7bf748102681bd7397f0bfb4d1ae02b17": {
-        "title": "If you’ve ever been tempted to ‘sell in May and go away’ — now is the time",
-        "link": "https://www.marketwatch.com/story/if-youve-ever-been-tempted-to-sell-in-may-and-go-away-now-is-the-time-7b8b3a04?mod=mw_rss_topstories",
-        "published_date": "Mon, 13 Apr 2026 23:44:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.291669"
-      },
-      "da9ae4e1861cdb5eb7a355b59722a55f51731ec07e4dbc427b2b170f684f722f": {
-        "title": "Reeves tells Gulf expats: come to ‘safe harbour’ Britain",
-        "link": "https://www.ft.com/content/35d396e7-5590-4c65-9989-0c136e937fd7",
-        "published_date": "Mon, 13 Apr 2026 21:30:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.291671"
-      },
-      "81d8fff795931ebcc5cf5fd102aafd48b25441e803451a3e01168ef7e56d8121": {
-        "title": "Former Lafarge chief sentenced to six years in jail for financing terrorism",
-        "link": "https://www.ft.com/content/54b1480f-43b8-4ef7-9319-d0e133b77194",
-        "published_date": "Mon, 13 Apr 2026 17:25:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.291673"
-      },
       "c50160cd1c9212ef1ac715cc3aa142083fd83c6100ef1acddee9685db4a82ab5": {
         "title": "China shock 2.0: the flood of high-tech goods that will change the world",
         "link": "https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a",
@@ -4971,33 +4941,39 @@
         "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
         "published_date": "Wed, 13 May 2026 09:47:00 GMT",
         "first_seen": "2026-05-13T10:31:25.821746"
+      },
+      "ea3b4afb7bee0bc2dadbf3f741debbbd55a73a61b1c91f8d170e574ae7c095ea": {
+        "title": "Senate confirms Warsh to succeed Powell as Fed chair",
+        "link": "https://www.ft.com/content/2f1a9453-d062-45a4-9991-9a9552542e25",
+        "published_date": "Wed, 13 May 2026 21:29:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.758550"
+      },
+      "0ca9926e81bd227d31e83dca49304bba01bd2d14c0ed229f9aed02c181007457": {
+        "title": "US sells 30-year bonds at 5% yield for first time since 2007",
+        "link": "https://www.ft.com/content/11233902-2054-4ed5-b647-26402e7b58bd",
+        "published_date": "Wed, 13 May 2026 20:05:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.758560"
+      },
+      "a50be22fcce0cb5e88c8124ba88012c27b501fbba094a61692ee1a7420e15d3c": {
+        "title": "The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages",
+        "link": "https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories",
+        "published_date": "Wed, 13 May 2026 23:21:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.758563"
+      },
+      "fba911ab55e89323af1afaae358c13b2620691ac45382e82ed15eda037180842": {
+        "title": "The world lost nearly 1 billion barrels in oil supply over the past 75 days. Why investors aren’t worrying enough.",
+        "link": "https://www.marketwatch.com/story/the-world-lost-nearly-1-billion-barrels-in-oil-supply-over-the-past-75-days-why-investors-arent-worrying-enough-5a777ae0?mod=mw_rss_topstories",
+        "published_date": "Wed, 13 May 2026 20:59:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.758564"
+      },
+      "192449b1fe38feed30fa785b053694b838ce6568599abaa19a91fb4daba1d9b8": {
+        "title": "Citadel tells key researchers to relocate from Hong Kong or quit",
+        "link": "https://www.ft.com/content/70ab1705-8c9c-4dce-b9cb-1e517cdd8349",
+        "published_date": "Wed, 13 May 2026 23:01:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.758566"
       }
     },
     "Ai": {
-      "fe0fb43af3ccaa96216b14df1d8a3c3fb5cdbc9548ad8318373edb99cf104b87": {
-        "title": "Towards developing future-ready skills with generative AI",
-        "link": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/",
-        "published_date": "Mon, 13 Apr 2026 18:15:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.444927"
-      },
-      "05cd5f4ec3062a775b9cd9162e258411acfea69a827dcc682b2167564c249c94": {
-        "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
-        "link": "https://www.qbitai.com/2026/04/401011.html",
-        "published_date": "Mon, 13 Apr 2026 10:35:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.444934"
-      },
-      "c44b6ebec2ee7fbbed1cf7f6dc8515356781b7a91abc468f8feb60c48b4401f8": {
-        "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
-        "link": "https://www.qbitai.com/2026/04/401002.html",
-        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.444936"
-      },
-      "8f02cc61473b82f3272101bc788a6c72e5bcc9cc1ba5e01214f274c3d7161a6e": {
-        "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
-        "link": "https://www.qbitai.com/2026/04/400567.html",
-        "published_date": "Mon, 13 Apr 2026 08:44:00 GMT",
-        "first_seen": "2026-04-13T23:46:27.444938"
-      },
       "247a5c7bb8837ec4d78d03d142d8cb95b5f288632d464d9a6c2521e509a61d5c": {
         "title": "2026-04-14日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-14/",
@@ -6317,13 +6293,31 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-13/",
         "published_date": "Wed, 13 May 2026 10:58:00 GMT",
         "first_seen": "2026-05-13T10:31:25.973465"
+      },
+      "4d66c89b8808fa8b2903ab5957bcf96f66d5ee6521e508a2bf573114e85d422f": {
+        "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+        "link": "https://www.qbitai.com/2026/05/417447.html",
+        "published_date": "Wed, 13 May 2026 15:54:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.909921"
+      },
+      "511ffb32ea7386bad3237a9164edb064c1319b4db847c950da8cec9f3f7e716e": {
+        "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+        "link": "https://www.qbitai.com/2026/05/417366.html",
+        "published_date": "Wed, 13 May 2026 14:04:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.909929"
+      },
+      "e2e82ff90a45e53181c7efa16a86dd37d912313686189c1d6e3dcc19b92c6a67": {
+        "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+        "link": "https://www.qbitai.com/2026/05/416978.html",
+        "published_date": "Wed, 13 May 2026 14:04:00 GMT",
+        "first_seen": "2026-05-14T00:04:35.909931"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-13T10:31:49.334772",
-    "Finance": "2026-05-13T10:31:25.821748",
-    "Ai": "2026-05-13T10:31:25.973468"
+    "Technology": "2026-05-14T00:05:08.102809",
+    "Finance": "2026-05-14T00:04:35.758569",
+    "Ai": "2026-05-14T00:04:35.909934"
   }
 }
