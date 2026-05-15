@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 May 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 00:02:56 GMT</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 10:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:28:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek 融资后，大模型领域会有什么新格局？</title>
-      <link>http://www.geekpark.net/news/364208</link>
-      <description>&lt;![CDATA[DeepSeek 融资后，大模型领域会有什么新格局？]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/364208</guid>
+      <title>复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版</title>
+      <link>https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 09:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了</title>
-      <link>https://www.tmtpost.com/7988375.html</link>
-      <description>&lt;![CDATA[OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7988375.html</guid>
+      <title>当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？</title>
+      <link>https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投</title>
-      <link>https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”</title>
+      <link>https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化</title>
-      <link>https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 19:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 推出 Claude Platform on AWS</title>
+      <link>https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 推出 Claude Platform on AWS]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从光模块龙头中际旭创，看万亿市值下的人才暗战</title>
-      <link>https://www.tmtpost.com/7985599.html</link>
-      <description>&lt;![CDATA[从光模块龙头中际旭创，看万亿市值下的人才暗战]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985599.html</guid>
+      <title>Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7989557.html</link>
+      <description>&lt;![CDATA[Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989557.html</guid>
       <category>Technology</category>
     </item>
   </channel>

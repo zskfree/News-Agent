@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 May 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 00:01:58 GMT</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 10:25:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:27:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>人手一个数据库，Kimi背后这套AI基建到底有多能扛？</title>
-      <link>https://www.qbitai.com/2026/05/417731.html</link>
-      <description>&lt;![CDATA[人手一个数据库，Kimi背后这套AI基建到底有多能扛？]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417731.html</guid>
+      <title>阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程</title>
+      <link>https://www.qbitai.com/2026/05/418027.html</link>
+      <description>&lt;![CDATA[阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 07:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418027.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>重生之我在AI时代当老板：让一群Agent互相PUA</title>
-      <link>https://www.qbitai.com/2026/05/417816.html</link>
-      <description>&lt;![CDATA[重生之我在AI时代当老板：让一群Agent互相PUA]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 11:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417816.html</guid>
+      <title>蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强</title>
+      <link>https://www.qbitai.com/2026/05/417961.html</link>
+      <description>&lt;![CDATA[蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417961.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能</title>
+      <link>https://www.qbitai.com/2026/05/417935.html</link>
+      <description>&lt;![CDATA[数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 02:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417935.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智能无处不在：OpenClaw预示的AI未来</title>
+      <link>https://www.qbitai.com/2026/05/417958.html</link>
+      <description>&lt;![CDATA[智能无处不在：OpenClaw预示的AI未来]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417958.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>手机的智能体AI，正在因为天玑全面跃升</title>
+      <link>https://www.qbitai.com/2026/05/417968.html</link>
+      <description>&lt;![CDATA[手机的智能体AI，正在因为天玑全面跃升]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 07:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417968.html</guid>
       <category>Ai</category>
     </item>
   </channel>

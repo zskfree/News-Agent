@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 00:01
+**最后更新时间**: 2026-05-15 10:27
+
+---
+
+## 🆕 最新更新 (2026-05-15 10:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic 推出 Claude Platform on AWS](https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 18:12
+
+#### [百度想明白了：旧供给到达极限了](https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:45
+
+#### [“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”](https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:42
+
+#### [当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？](https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:15
+
+#### [JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理](https://www.infoq.cn/article/8jh0UiNm7SdaKzprlXWq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 16:12
+
+#### [兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T](https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 15:08
+
+#### [Grafana Pyroscope 2.0：实现持续性能分析规模化落地](https://www.infoq.cn/article/YlEaMXEjM9KhoKMayf63?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 14:00
+
+#### [AdonisJS v7 推出端到端类型安全、经过重构的项目模板以及零配置 OpenTelemetry](https://www.infoq.cn/article/eucZu2CRSKKb7DRP6bDc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 12:00
+
+#### [鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单](https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:43
+
+#### [GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能](https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:12
+
+#### [蚂蚁灵波开源LingBot-VLA真机后训练全流程代码，150条示教数据即可适配新机器人](https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:08
+
+#### [科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon上海](https://www.infoq.cn/article/yuljK2uBsZXszoWbZhOS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 10:00
+
+#### [复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版](https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 09:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一心卖车的蔚来，终于被看懂了](https://www.tmtpost.com/7989657.html)
+**发布时间**: 2026-05-15 17:26
+
+#### [OpenAI Codex进入手机，国产“龙虾”们该醒醒了](https://www.tmtpost.com/7989325.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [FOMO 2026 ：全球创新药大变局，看懂的人还不多](https://www.tmtpost.com/7989359.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [20万的碳酸锂：起点还是终点？下游容忍线在哪？](https://www.tmtpost.com/7988704.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [1032亿！中国创新药又干了一票大的](https://www.tmtpost.com/7989209.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [老年大学里的“银发攀比”，老了也要内卷](https://www.tmtpost.com/7989248.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [宗主国：Anthropic](https://www.tmtpost.com/7989250.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [5个月9个IPO，雷军投出4000亿](https://www.tmtpost.com/7989251.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则](https://www.tmtpost.com/7989252.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元 | 独家](https://www.tmtpost.com/7989626.html)
+**发布时间**: 2026-05-15 16:47
+
+#### [Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察](https://www.tmtpost.com/7989557.html)
+**发布时间**: 2026-05-15 16:38
+
+#### [铜价重返“万四时代”：供应断裂与需求转型共振下的再定价](https://www.tmtpost.com/7988731.html)
+**发布时间**: 2026-05-15 16:17
+
+#### [豆包收费，悟空走量：AI助手走向分化](https://www.tmtpost.com/7988052.html)
+**发布时间**: 2026-05-15 16:17
+
+#### [大模型刷榜时代，为什么榜单里没有京东？](https://www.tmtpost.com/7989374.html)
+**发布时间**: 2026-05-15 16:15
+
+#### [从零售OS到全链路AI：多点数智用3600万美元下了一盘什么棋](https://www.tmtpost.com/7989451.html)
+**发布时间**: 2026-05-15 15:39
+
+#### [百星入轨，商业火箭进入“航班化发射时代”](https://www.tmtpost.com/7989500.html)
+**发布时间**: 2026-05-15 15:38
+
+#### [淘车车：八年累亏 43.79 亿，社保公积金合规短板凸显｜IPO观察](https://www.tmtpost.com/7988119.html)
+**发布时间**: 2026-05-15 15:28
+
+#### [广西国资3.69元“抄底”定增，博世科纾困之路成效待考](https://www.tmtpost.com/7989399.html)
+**发布时间**: 2026-05-15 15:28
+
+#### [五道“紧箍咒”下，腾讯终登喜马拉雅](https://www.tmtpost.com/7988890.html)
+**发布时间**: 2026-05-15 15:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [\[会员免费\] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+**发布时间**: 2026-05-15 16:59
+
+#### [快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
+**发布时间**: 2026-05-15 14:54
+
+#### [你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
+**发布时间**: 2026-05-15 11:33
+
+#### [派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
+**发布时间**: 2026-05-15 08:25
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 1 万 Star！这个飞书命令行 CLI 开源项目起飞了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533685&idx=1&sn=17ada2c23cc8647278202e8fab3508ee)
+**发布时间**: 2026-05-15 11:04
+
+#### [强烈推荐看看这个演讲，还配套 7 万 Star 的开源 Skill。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533684&idx=1&sn=0aae6d7a6c069b16f17ba05a67281116)
+**发布时间**: 2026-05-14 15:58
 
 ---
 

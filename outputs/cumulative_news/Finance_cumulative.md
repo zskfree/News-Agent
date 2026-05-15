@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 00:01
+**最后更新时间**: 2026-05-15 10:27
+
+---
+
+## 🆕 最新更新 (2026-05-15 10:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I experienced many years of poverty’: I don’t judge other people. Why do wealthy retirees look down on others?](https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 09:33
+
+#### [Trump’s best China trade deal is the one he doesn’t make](https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 03:09
+
+#### [Dead people claiming Social Security? Here’s one — but we’re still looking for the other 19,999,999.](https://www.marketwatch.com/story/dead-people-claiming-social-security-heres-one-but-were-still-looking-for-the-other-19-999-999-7166612d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 02:16
+
+#### [Trump’s big trip was supposed to sell 500 Boeing planes. China is only buying 200 of them.](https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 02:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Schroders looks to exit China mutual funds business after just three years](https://www.ft.com/content/af307ee3-1b50-436e-a2a2-70a197ab5c4d)
+**发布时间**: 2026-05-15 09:26
+
+#### [Gilts and sterling fall as traders brace for Burnham to challenge Starmer](https://www.ft.com/content/d9a66be6-fa98-43d0-badc-b23a13cc7525)
+**发布时间**: 2026-05-15 09:20
+
+#### [Boeing shares slide as Trump’s China summit deals disappoint](https://www.ft.com/content/b433d23a-ae67-488e-9ef6-78c83f443763)
+**发布时间**: 2026-05-15 08:48
+
+#### [China and US ‘feel very similar about Iran’, Trump says](https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea)
+**发布时间**: 2026-05-15 06:50
+
+#### [SpaceX IPO set to lock in Musk’s control with Mars-linked pay deal](https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43)
+**发布时间**: 2026-05-15 04:00
+
+#### [Why Warsh wants the Fed to keep quiet](https://www.ft.com/content/216c5568-9900-4b69-b4ad-479d860ec225)
+**发布时间**: 2026-05-15 04:00
+
+#### [The oil futures curve is not a crystal ball](https://www.ft.com/content/07b8ad0d-86d3-4874-a264-17c34ea3b036)
+**发布时间**: 2026-05-15 04:00
+
+#### [McKinsey set to cut partner cash in post-AI pay revamp](https://www.ft.com/content/07a10974-bdfd-4f31-9aff-9e284c8f8de8)
+**发布时间**: 2026-05-15 04:00
+
+#### [CIA director makes rare trip to Cuba](https://www.ft.com/content/fad11ebd-9844-4432-94d0-e87865e456b5)
+**发布时间**: 2026-05-14 23:46
 
 ---
 
