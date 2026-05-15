@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 10:27
+**最后更新时间**: 2026-05-15 23:58
+
+---
+
+## 🆕 最新更新 (2026-05-15 23:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US federal prosecutors scrutinise BlackRock private credit fund](https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822)
+**发布时间**: 2026-05-15 23:22
+
+#### [Trump Fed nominees oppose terms of keeping Powell as temporary chair](https://www.ft.com/content/9baac6fa-a302-4621-bc71-23a60e704703)
+**发布时间**: 2026-05-15 22:35
+
+#### [Global bonds tumble on fears of inflation shock from Iran war](https://www.ft.com/content/02015e49-fe11-488f-9e45-9fe70943d155)
+**发布时间**: 2026-05-15 21:30
+
+#### [Trump undecided on Taiwan arms sale after summit with Xi](https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea)
+**发布时间**: 2026-05-15 19:50
+
+#### [A cold peace between the US and China is good enough](https://www.ft.com/content/63aa35fe-91cf-45db-ba11-2d2e2b23b2a0)
+**发布时间**: 2026-05-15 17:07
+
+#### [EY retracts study after researchers discover AI hallucinations](https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e)
+**发布时间**: 2026-05-15 16:06
+
+#### [Small financial group close to Trump family plots $200mn Venezuela Spac deal](https://www.ft.com/content/7e477ce5-2096-4650-82ec-537febaea054)
+**发布时间**: 2026-05-15 15:12
+
+#### [Germany’s Merz says he would not want his children to move to US](https://www.ft.com/content/123f2c88-459a-4991-afb6-bbaa0dbe97fd)
+**发布时间**: 2026-05-15 14:47
+
+#### [Trump left with little to show for two days of talks with Xi](https://www.ft.com/content/7ae6a01d-df8d-4148-8424-27272e63939d)
+**发布时间**: 2026-05-15 14:12
+
+#### [Trump discloses hundreds of millions of dollars in trades in first quarter](https://www.ft.com/content/f9213bec-28ca-4930-bae8-1379abc851f7)
+**发布时间**: 2026-05-15 13:06
+
+#### [‘The US needed a shock to the system’: Brendan Carr, media watchdog](https://www.ft.com/content/d62d3361-a337-4e2c-ab6b-afb791ba566f)
+**发布时间**: 2026-05-15 11:30
+
+#### [McKinsey cuts partner cash share in post-AI pay revamp](https://www.ft.com/content/07a10974-bdfd-4f31-9aff-9e284c8f8de8)
+**发布时间**: 2026-05-15 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are you ‘doomjobbing’ while looking for work? Know the signs — and do this instead.](https://www.marketwatch.com/story/are-you-doomjobbing-while-looking-for-work-know-the-signs-and-do-this-instead-5f44cec3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 22:41
+
+#### [This hedge fund just dumped the ‘big three’ airline stocks, as the industry faces soaring fuel costs](https://www.marketwatch.com/story/this-hedge-fund-just-dumped-the-big-three-airline-stocks-as-the-industry-faces-soaring-fuel-costs-4ae4f9ba?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 21:48
+
+#### [Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta](https://www.marketwatch.com/story/berkshires-abel-sours-on-some-of-warren-buffetts-picks-while-betting-big-on-delta-7ad679f7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 21:41
+
+#### [George Soros’s fund buys Berkshire Hathaway stock — now that Buffett is gone](https://www.marketwatch.com/story/george-soross-fund-buys-berkshire-hathaway-stock-now-that-buffett-is-gone-48a247e3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 21:29
+
+#### [$668,603,360,342 — that’s how much people have legally bet on sports since the Supreme Court’s 2018 ruling](https://www.marketwatch.com/story/668-603-360-342-thats-how-much-people-have-legally-bet-on-sports-since-the-supreme-courts-2018-ruling-550e0a08?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 21:08
+
+#### [Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz](https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 20:57
+
+#### [This ‘safe haven’ bond is projected to pay 5.1% this year — with almost no risk](https://www.marketwatch.com/story/this-safe-haven-bond-is-projected-to-pay-5-1-this-year-with-almost-no-risk-ae3fb8fe?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 20:36
+
+#### [Your 3-6 months of emergency savings is dangerous — the new job market forces an 18-month cash cushion](https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 20:18
+
+#### [Optical stocks are booming. Here’s how to invest in one of the most explosive areas of tech.](https://www.marketwatch.com/story/optical-stocks-are-booming-heres-how-to-invest-in-one-of-the-most-explosive-areas-of-tech-13374178?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 20:13
+
+#### [Don’t fear a summer stock crash: Market history shows this massive spring rally isn’t a trap](https://www.marketwatch.com/story/dont-fear-a-summer-stock-crash-market-history-shows-this-massive-spring-rally-isnt-a-trap-b28e9129?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 19:32
 
 ---
 

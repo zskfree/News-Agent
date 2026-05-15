@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "db7ff156be8f64fb677b2c80ae48978b300fe5f62df734691c5582a2daa676bb": {
-        "title": "国产AI芯片崛起：三大门派、瓜分英伟达",
-        "link": "https://www.tmtpost.com/7954297.html",
-        "published_date": "Wed, 15 Apr 2026 18:18:00 GMT",
-        "first_seen": "2026-04-15T23:45:55.071541"
-      },
-      "0603cdf7b5a180cc6eba913143a6e2347c4417e3742532f91109c7e0d0b9523e": {
-        "title": "雪藏背后：Anthropic的技术、商业与伦理困境",
-        "link": "https://www.tmtpost.com/7953898.html",
-        "published_date": "Wed, 15 Apr 2026 17:38:00 GMT",
-        "first_seen": "2026-04-15T23:45:55.071548"
-      },
-      "d032095a0e96fcf7f1164622e8cd020fcbb93439ba468af9b4462b2c69cb3a0c": {
-        "title": "AI算力不能总为爱发电",
-        "link": "https://www.tmtpost.com/7954394.html",
-        "published_date": "Wed, 15 Apr 2026 19:01:00 GMT",
-        "first_seen": "2026-04-15T23:45:55.071550"
-      },
-      "782162897e358ce569645f37c5ead230c5c2b5352b3da872275f09fd0164181b": {
-        "title": "阿斯麦二季度业绩指引不及预期，股价一度跌逾5%",
-        "link": "https://www.tmtpost.com/7954593.html",
-        "published_date": "Wed, 15 Apr 2026 22:37:00 GMT",
-        "first_seen": "2026-04-15T23:45:55.071551"
-      },
-      "ab0a7c2418ceb697c043e612c411daaaa2e64667370f5006b9399a72c75dc5b5": {
-        "title": "AI视频三国杀：阿里逼宫，字节开放",
-        "link": "https://www.tmtpost.com/7953613.html",
-        "published_date": "Wed, 15 Apr 2026 10:41:00 GMT",
-        "first_seen": "2026-04-15T23:45:55.071553"
-      },
       "12107c860c5f3f94fd4ce188e53db762c4bf25fef88d362da72e1b451cefecf0": {
         "title": "中国AI正在绕过大模型，直奔Agent时代",
         "link": "https://www.tmtpost.com/7955163.html",
@@ -2611,39 +2581,39 @@
         "link": "https://www.tmtpost.com/7989557.html",
         "published_date": "Fri, 15 May 2026 16:38:00 GMT",
         "first_seen": "2026-05-15T10:28:22.597252"
+      },
+      "f3ccc8c1636b878a22f46ed4a30cc2782df9d6474faa48998b26dbdb2ebf84f7": {
+        "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
+        "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 20:00:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.791452"
+      },
+      "61b7067eb298da8cd7f610f18e853ab8853e27ee804c606108828346281499ab": {
+        "title": "被礼来反超后，诺和诺德牵手OpenAI",
+        "link": "https://www.tmtpost.com/7989694.html",
+        "published_date": "Fri, 15 May 2026 18:15:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.791458"
+      },
+      "a17e7c5a9433867e91fce79e21756b3effb1cf8d7f7e30cfbdfa6c77c17b96d2": {
+        "title": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "link": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 15:08:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.791461"
+      },
+      "c1ca5072d1170d386d8a2f5a7690363385435f6aa4bb70beff466d316175def0": {
+        "title": "欣旺达发布逸风超充电池2.0，组建联盟重构电摩补能生态",
+        "link": "https://www.tmtpost.com/7989524.html",
+        "published_date": "Fri, 15 May 2026 18:42:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.791463"
+      },
+      "dcca3eb8c5580b4ae3544bb3080ae42d183617e99565a57fd1f9cbc4aebbd710": {
+        "title": "鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单",
+        "link": "https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 15 May 2026 10:43:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.791464"
       }
     },
     "Finance": {
-      "c6f17dc202218beb2b6a65b4437c55034627470f89a578a82e55ab37a1a17db1": {
-        "title": "Rate setters face ‘double danger’ from Iran war and tariffs, Fed official warns",
-        "link": "https://www.ft.com/content/345e5dbc-d60a-4c78-a781-63c3b624a451",
-        "published_date": "Wed, 15 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.414794"
-      },
-      "ff941bc27e3d845890ccf56894f0f6a9ad481ae42946b21a31fb9491026b8fac": {
-        "title": "Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly. Here’s what happens next.",
-        "link": "https://www.marketwatch.com/story/live-nation-stock-falls-as-jury-finds-ticketing-giant-acted-as-an-illegal-monopoly-1f21ac77?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Apr 2026 22:46:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.414804"
-      },
-      "54eefb41897fedfc78a308f5e036c6e067f6ab42648d8f0e131b2a506aa71b5e": {
-        "title": "Trump threatens to fire Jay Powell and refuses to halt criminal probe",
-        "link": "https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3",
-        "published_date": "Wed, 15 Apr 2026 17:08:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.414806"
-      },
-      "b540871cbec6b78972031e10383a94c39e49e20a9326b845cbc391edb2b87740": {
-        "title": "Goldman president warns private credit funds are not marketed properly",
-        "link": "https://www.ft.com/content/3e91f018-d9c1-4ef4-a416-f80c97d930d8",
-        "published_date": "Wed, 15 Apr 2026 22:52:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.414808"
-      },
-      "3ebf7037000b4978a430c82544395561d7301423953e676bdb7cde29a2e6d5d4": {
-        "title": "US crude exports hit record as Iran war disrupts Middle East supplies",
-        "link": "https://www.ft.com/content/b35dc63e-b016-4ed4-a967-fd132cc552c4",
-        "published_date": "Wed, 15 Apr 2026 16:37:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.414810"
-      },
       "243384765d40b815db07e2a9dc49fecb3700bd18d26a01feab326c28c7fe5651": {
         "title": "Gulf states turn to private deals in $10bn wartime borrowing spree",
         "link": "https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7",
@@ -4917,15 +4887,39 @@
         "link": "https://www.marketwatch.com/story/boeings-stock-drops-as-trumps-order-deal-with-china-disappoints-baff30fa?mod=mw_rss_topstories",
         "published_date": "Fri, 15 May 2026 02:08:00 GMT",
         "first_seen": "2026-05-15T10:27:47.061441"
+      },
+      "e4e3202fba1f592c94343a37741bce29e720e67d49ed318e0f0bf09b7b6440e4": {
+        "title": "US federal prosecutors scrutinise BlackRock private credit fund",
+        "link": "https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822",
+        "published_date": "Fri, 15 May 2026 23:22:00 GMT",
+        "first_seen": "2026-05-15T23:58:47.665442"
+      },
+      "292a925b73bceceaa4956c240d5d8f088b8f70ff69a11b7a9d5ccd1d6b4c7923": {
+        "title": "Global bonds tumble on fears of inflation shock from Iran war",
+        "link": "https://www.ft.com/content/02015e49-fe11-488f-9e45-9fe70943d155",
+        "published_date": "Fri, 15 May 2026 21:30:00 GMT",
+        "first_seen": "2026-05-15T23:58:47.665451"
+      },
+      "c9297df05e4dfe48660723f6ac49a9b14cd6a96b81d06136e17c49240edfbe78": {
+        "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+        "published_date": "Fri, 15 May 2026 20:57:00 GMT",
+        "first_seen": "2026-05-15T23:58:47.665454"
+      },
+      "917b96295eb6680a42b63429d5044503aa098daa66258b62de717100dbf782e7": {
+        "title": "Small financial group close to Trump family plots $200mn Venezuela Spac deal",
+        "link": "https://www.ft.com/content/7e477ce5-2096-4650-82ec-537febaea054",
+        "published_date": "Fri, 15 May 2026 15:12:00 GMT",
+        "first_seen": "2026-05-15T23:58:47.665455"
+      },
+      "b956cc5ee893641b3f17c71581c75e8a748ce458581cfc9103a5b118d0a8d172": {
+        "title": "Trump Fed nominees oppose terms of keeping Powell as temporary chair",
+        "link": "https://www.ft.com/content/9baac6fa-a302-4621-bc71-23a60e704703",
+        "published_date": "Fri, 15 May 2026 22:35:00 GMT",
+        "first_seen": "2026-05-15T23:58:47.665457"
       }
     },
     "Ai": {
-      "513512ee1616148c1365880867b34d900b4b28970b2446152be78095f3f138e8": {
-        "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
-        "link": "https://www.qbitai.com/2026/04/401512.html",
-        "published_date": "Wed, 15 Apr 2026 13:28:00 GMT",
-        "first_seen": "2026-04-15T23:45:33.563800"
-      },
       "de4a294a4c423d2ff4bda828685178efd23350ba8ac616213585bb0cfa0612c7": {
         "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
         "link": "https://www.qbitai.com/2026/04/401541.html",
@@ -6233,13 +6227,19 @@
         "link": "https://www.qbitai.com/2026/05/417968.html",
         "published_date": "Fri, 15 May 2026 07:36:00 GMT",
         "first_seen": "2026-05-15T10:27:58.535393"
+      },
+      "ed68e0d54cc55f13edc4062eea80816218abf91b838e01699123f3e10df30763": {
+        "title": "2026-05-15日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-15/",
+        "published_date": "Fri, 15 May 2026 10:36:00 GMT",
+        "first_seen": "2026-05-15T23:59:13.945818"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-15T10:28:22.597254",
-    "Finance": "2026-05-15T10:27:47.061443",
-    "Ai": "2026-05-15T10:27:58.535395"
+    "Technology": "2026-05-15T23:59:13.791466",
+    "Finance": "2026-05-15T23:58:47.665460",
+    "Ai": "2026-05-15T23:59:13.945826"
   }
 }
