@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-14 10:19
+**最后更新时间**: 2026-05-15 00:01
+
+---
+
+## 🆕 最新更新 (2026-05-15 00:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s allies pin hopes on Xi to defuse Strait of Hormuz crisis](https://www.ft.com/content/e7ad9ab0-5a28-42ce-b90e-ac9f6bda75eb)
+**发布时间**: 2026-05-14 23:08
+
+#### [Starmer braces for leadership challenge by Burnham](https://www.ft.com/content/97767e7d-6697-4249-98d7-47ed1d94ea76)
+**发布时间**: 2026-05-14 21:40
+
+#### [US authorities prepare to end Adani fraud cases](https://www.ft.com/content/4d9bfc38-9f14-42a5-8962-6f6ce83f3eb0)
+**发布时间**: 2026-05-14 18:23
+
+#### [Can Labour’s charismatic chameleon reinvent himself again?](https://www.ft.com/content/9dd44b54-2271-4687-a146-064f35fe9936)
+**发布时间**: 2026-05-14 16:33
+
+#### [El Niño is not the real problem here](https://www.ft.com/content/24a2d2f6-0846-477f-b066-f7075c69c7c4)
+**发布时间**: 2026-05-14 14:45
+
+#### [Trump’s China trip melds corporate interests and communist pomp](https://www.ft.com/content/d555a25b-9373-4dab-9cf3-44de9b52df1b)
+**发布时间**: 2026-05-14 14:04
+
+#### [Saudi Arabia floats Middle Eastern non-aggression pact with Iran](https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9)
+**发布时间**: 2026-05-14 13:49
+
+#### [Vessel seized off UAE coast and heading for Iran](https://www.ft.com/content/794e619a-1b45-4d15-83fb-15299ac7de06)
+**发布时间**: 2026-05-14 10:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Figma has a fix for its ailing stock — a new way to make money off its AI products](https://www.marketwatch.com/story/figma-has-a-fix-for-its-ailing-stock-a-new-way-to-make-money-off-its-ai-products-2a4f3489?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 22:28
+
+#### [The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair](https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 22:11
+
+#### [‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.](https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 21:27
+
+#### [Cerebras’s stock rockets out of the gate, in a sign the AI boom is as strong as ever](https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 20:15
+
+#### [This summer’s World Cup will be no match for Taylor Swift when it comes to live events](https://www.marketwatch.com/story/this-summers-world-cup-will-be-no-match-for-taylor-swift-when-it-comes-to-live-events-35f4b204?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 20:15
+
+#### [Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal](https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-14 19:58
 
 ---
 

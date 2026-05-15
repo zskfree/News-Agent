@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "25db71053aef35c92df3d0dbed750b9b2d6af0d4611185635e3d0dc7d97a1667": {
-        "title": "2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了",
-        "link": "https://www.tmtpost.com/7952122.html",
-        "published_date": "Tue, 14 Apr 2026 11:51:00 GMT",
-        "first_seen": "2026-04-14T23:46:02.653557"
-      },
-      "8a224ed79a9908cd544ee5d7b4e89644c123d7775c8100395d6207c630ef6c31": {
-        "title": "千亿诉讼，马斯克能否阻断OpenAI商业化？",
-        "link": "https://www.tmtpost.com/7952620.html",
-        "published_date": "Tue, 14 Apr 2026 18:22:00 GMT",
-        "first_seen": "2026-04-14T23:46:02.653563"
-      },
-      "2d97e841f6eda3dbf56d2c68c92aca882c69600da40fed433fb7dbd1b15a22ea": {
-        "title": "疯狂囤光刻机，DRAM双雄在怕什么？",
-        "link": "https://www.tmtpost.com/7952962.html",
-        "published_date": "Tue, 14 Apr 2026 18:28:00 GMT",
-        "first_seen": "2026-04-14T23:46:02.653565"
-      },
-      "a5ffc446cacf13ff097da172cf044b23e23fbc9809cb35512c075537a8d31985": {
-        "title": "L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4",
-        "link": "https://www.tmtpost.com/7952170.html",
-        "published_date": "Tue, 14 Apr 2026 11:59:00 GMT",
-        "first_seen": "2026-04-14T23:46:02.653567"
-      },
-      "df07c09492cf88545bc79e1bf25e4078872d5adb7da185a14fca5649534946b4": {
-        "title": "MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识",
-        "link": "https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Apr 2026 18:36:00 GMT",
-        "first_seen": "2026-04-14T23:46:02.653569"
-      },
       "c79caa69c5268607c9f145a8d29b861338052109c8ef8c16cabe3f477d548053": {
         "title": "AI 电荒突围：谁能替代重燃？",
         "link": "https://www.tmtpost.com/7953802.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 14 May 2026 18:00:00 GMT",
         "first_seen": "2026-05-14T10:19:50.626437"
+      },
+      "74f7523775833baaf7d905b1bc2a4449121aeeffdf1bcee47be7fc3a53be20c1": {
+        "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
+        "link": "http://www.geekpark.net/news/364208",
+        "published_date": "Thu, 14 May 2026 19:52:00 GMT",
+        "first_seen": "2026-05-15T00:02:57.000380"
+      },
+      "d46675a262d69929a0299574052903d5a09db736496f7e94a9f0f5b7f6cf1bc8": {
+        "title": "OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了",
+        "link": "https://www.tmtpost.com/7988375.html",
+        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
+        "first_seen": "2026-05-15T00:02:57.000387"
+      },
+      "7f4522e4697507c4d6da16cd726f45c419f281ba7922337e2d2cc9e88bdaa0e8": {
+        "title": "拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投",
+        "link": "https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 18:30:00 GMT",
+        "first_seen": "2026-05-15T00:02:57.000389"
+      },
+      "1e55795ad0d33df014edca791d6a988ebca762f6a0b840ff8e970ee859588f3b": {
+        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+        "link": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 14 May 2026 19:45:00 GMT",
+        "first_seen": "2026-05-15T00:02:57.000391"
+      },
+      "9e557c91bd6cd3bd93641a1d5d1ec5b956306d4d525a36a80eb2a131ea1d2a16": {
+        "title": "从光模块龙头中际旭创，看万亿市值下的人才暗战",
+        "link": "https://www.tmtpost.com/7985599.html",
+        "published_date": "Thu, 14 May 2026 15:08:00 GMT",
+        "first_seen": "2026-05-15T00:02:57.000393"
       }
     },
     "Finance": {
-      "cf4fdf884892850497794289c68d5196068f77ab6d7f554d00481db24d58777c": {
-        "title": "BlackRock profits jump as it draws in $130bn",
-        "link": "https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4",
-        "published_date": "Tue, 14 Apr 2026 22:52:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.543613"
-      },
-      "ba3157aa565e41984b46d626ebfaa70e95765aaae7ae9b8f59e14b6e4ed333dc": {
-        "title": "Strait of Hormuz tankers stop or turn around amid US blockade",
-        "link": "https://www.ft.com/content/c61897ff-3ed2-4c19-ad31-41440f802f9f",
-        "published_date": "Tue, 14 Apr 2026 18:34:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.543621"
-      },
-      "6cbb0fb4fd8354c0c07309e8c2d838a2c1b351fea16fa370bead8a5b768c761d": {
-        "title": "Wall Street banks break records as Iran war drives trading boom",
-        "link": "https://www.ft.com/content/0b8fe58f-e392-4aa4-b3cd-c75f566d495e",
-        "published_date": "Tue, 14 Apr 2026 16:56:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.543623"
-      },
-      "68ce2d8f67d0bee34c714c5a3ea997dd8a21437a33ea7cda75c2b0c3e98f26f3": {
-        "title": "The International Energy Agency is really worried about the global oil market",
-        "link": "https://www.marketwatch.com/story/the-international-energy-agency-is-really-worried-about-the-global-oil-market-169a9930?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Apr 2026 20:35:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.543625"
-      },
-      "d027c2ab80f2031fa4bcedaf16c3ce6f86ce0441b5c863268a8b3b64c36efa97": {
-        "title": "PwC plans overhaul of global consulting business",
-        "link": "https://www.ft.com/content/fa2f8f28-7e6d-4813-88f8-0b2224c4dde6",
-        "published_date": "Tue, 14 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.543626"
-      },
       "609e52ec8891ee770b17130a3aa1f09d6754ad16969acff6c929eada71996e94": {
         "title": "US military says blockade of Iranian ports is ‘fully implemented’",
         "link": "https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736",
@@ -4977,27 +4947,39 @@
         "link": "https://www.ft.com/content/794e619a-1b45-4d15-83fb-15299ac7de06",
         "published_date": "Thu, 14 May 2026 08:14:00 GMT",
         "first_seen": "2026-05-14T10:19:21.318626"
+      },
+      "4fbd1c6493b7c4ca7c9d40b04e547942f03c822847bad46a31de655f27e5e600": {
+        "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair",
+        "link": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 22:11:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.237097"
+      },
+      "4399ffe51573cf524a2a42089e8bb0898f12aaf15f23a933b7ff6a1e6e97dc0b": {
+        "title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
+        "link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
+        "published_date": "Thu, 14 May 2026 19:58:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.237105"
+      },
+      "c222ac7d48e6567c245474f1ed3d05001a24399eed176a437189fed2219c700a": {
+        "title": "Saudi Arabia floats Middle Eastern non-aggression pact with Iran",
+        "link": "https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9",
+        "published_date": "Thu, 14 May 2026 13:49:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.237108"
+      },
+      "2b896992ceaa84aad7abca945bb99cf477cb0a56dc1c2f41c48cda6e12f49c4b": {
+        "title": "US authorities prepare to end Adani fraud cases",
+        "link": "https://www.ft.com/content/4d9bfc38-9f14-42a5-8962-6f6ce83f3eb0",
+        "published_date": "Thu, 14 May 2026 18:23:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.237110"
+      },
+      "9d0af20c6ef198abea8458a8e03d6985ccbf971ae089c927ae1fe670dba5fe68": {
+        "title": "Trump’s allies pin hopes on Xi to defuse Strait of Hormuz crisis",
+        "link": "https://www.ft.com/content/e7ad9ab0-5a28-42ce-b90e-ac9f6bda75eb",
+        "published_date": "Thu, 14 May 2026 23:08:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.237111"
       }
     },
     "Ai": {
-      "25ebcecc66761646bb0f60df282a6614ab6ac173624ac70aa40152f61b6a4db2": {
-        "title": "荣耀PC家族大爆发！荣耀“打洲本”“养虾本”集中亮相",
-        "link": "https://www.qbitai.com/2026/04/401202.html",
-        "published_date": "Tue, 14 Apr 2026 13:12:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.684872"
-      },
-      "51da4fb35fefed6b17eab9e5030de179b7a88366760013c34c6b8f292ad9fbeb": {
-        "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-        "link": "https://www.qbitai.com/2026/04/401190.html",
-        "published_date": "Tue, 14 Apr 2026 10:19:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.684879"
-      },
-      "fec32a90d4fd11b584782eaf8e114d634e24b0c99a870f85efd9fc5e46eacdfd": {
-        "title": "什么Excel这函数那公式，我千问永远一步搞定",
-        "link": "https://www.qbitai.com/2026/04/401127.html",
-        "published_date": "Tue, 14 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-14T23:45:42.684881"
-      },
       "5ee67be42820e04deec6463fa2e9e54fd45d892c15d48b1bd7750809f7e19d8f": {
         "title": "2026-04-15日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-15/",
@@ -6317,13 +6299,25 @@
         "link": "https://www.qbitai.com/2026/05/417748.html",
         "published_date": "Thu, 14 May 2026 08:26:00 GMT",
         "first_seen": "2026-05-14T10:19:21.466586"
+      },
+      "82de2813137897b6fc9cf0ff595ed6952365aa7598fb1ce43a895be63cdb2707": {
+        "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+        "link": "https://www.qbitai.com/2026/05/417731.html",
+        "published_date": "Thu, 14 May 2026 14:58:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.387428"
+      },
+      "862c6d251083f7f2192df3b62b6ada1a3bc68a4f19aac270aa806cbfa717278c": {
+        "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+        "link": "https://www.qbitai.com/2026/05/417816.html",
+        "published_date": "Thu, 14 May 2026 11:14:00 GMT",
+        "first_seen": "2026-05-15T00:01:58.387436"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-14T10:19:50.626439",
-    "Finance": "2026-05-14T10:19:21.318629",
-    "Ai": "2026-05-14T10:19:21.466589"
+    "Technology": "2026-05-15T00:02:57.000395",
+    "Finance": "2026-05-15T00:01:58.237114",
+    "Ai": "2026-05-15T00:01:58.387439"
   }
 }

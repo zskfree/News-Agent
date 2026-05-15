@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 14 May 2026 10:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 14 May 2026 10:19:21 GMT</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 23:59:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 00:01:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Robotaxi第一股又涨疯了</title>
-      <link>https://www.qbitai.com/2026/05/417754.html</link>
-      <description>&lt;![CDATA[Robotaxi第一股又涨疯了]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417754.html</guid>
+      <title>人手一个数据库，Kimi背后这套AI基建到底有多能扛？</title>
+      <link>https://www.qbitai.com/2026/05/417731.html</link>
+      <description>&lt;![CDATA[人手一个数据库，Kimi背后这套AI基建到底有多能扛？]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417731.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%</title>
-      <link>https://www.qbitai.com/2026/05/417753.html</link>
-      <description>&lt;![CDATA[腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417753.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里 AI 应用新进展：悟空开始逐步规模化放量</title>
-      <link>https://www.qbitai.com/2026/05/417748.html</link>
-      <description>&lt;![CDATA[阿里 AI 应用新进展：悟空开始逐步规模化放量]]&gt;</description>
-      <pubDate>Thu, 14 May 2026 08:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417748.html</guid>
+      <title>重生之我在AI时代当老板：让一群Agent互相PUA</title>
+      <link>https://www.qbitai.com/2026/05/417816.html</link>
+      <description>&lt;![CDATA[重生之我在AI时代当老板：让一群Agent互相PUA]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 11:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417816.html</guid>
       <category>Ai</category>
     </item>
   </channel>
