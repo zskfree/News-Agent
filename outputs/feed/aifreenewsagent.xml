@@ -6,7 +6,7 @@
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Sat, 16 May 2026 07:15:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 May 2026 07:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:44:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国500万医生的新AI：顶刊独家联手，卷的就是证据源</title>
-      <link>https://www.qbitai.com/2026/05/418491.html</link>
-      <description>&lt;![CDATA[中国500万医生的新AI：顶刊独家联手，卷的就是证据源]]&gt;</description>
-      <pubDate>Sat, 16 May 2026 04:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418491.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>别让模型烧Token了！GitHub 20k星神作：把全网变成命令行</title>
-      <link>https://www.qbitai.com/2026/05/418518.html</link>
-      <description>&lt;![CDATA[别让模型烧Token了！GitHub 20k星神作：把全网变成命令行]]&gt;</description>
-      <pubDate>Sat, 16 May 2026 06:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418518.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>奥特曼投的芯片涨疯了，今年最大科技IPO</title>
-      <link>https://www.qbitai.com/2026/05/418594.html</link>
-      <description>&lt;![CDATA[奥特曼投的芯片涨疯了，今年最大科技IPO]]&gt;</description>
-      <pubDate>Sat, 16 May 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418594.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库</title>
-      <link>https://www.qbitai.com/2026/05/418571.html</link>
-      <description>&lt;![CDATA[虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库]]&gt;</description>
-      <pubDate>Sat, 16 May 2026 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418571.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”</title>
-      <link>https://www.qbitai.com/2026/05/418150.html</link>
-      <description>&lt;![CDATA[15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”]]&gt;</description>
-      <pubDate>Sat, 16 May 2026 04:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418150.html</guid>
+      <title>2026-05-16日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-16/</link>
+      <description>&lt;![CDATA[2026-05-16日刊]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-16/</guid>
       <category>Ai</category>
     </item>
   </channel>

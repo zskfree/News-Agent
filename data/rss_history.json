@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3df73e550e4adb81c19d8e23a7e7882a3142b18d5f0bc6d8f46a789edba6c226": {
-        "title": "“猎头”张文之后：壁仞科技更需要“技术”张文？",
-        "link": "https://www.tmtpost.com/7955633.html",
-        "published_date": "Thu, 16 Apr 2026 16:54:00 GMT",
-        "first_seen": "2026-04-16T09:23:53.444312"
-      },
-      "ee63104c3d77757f35776273f18b4ccca3f2656c6a9d69b7a3a65ad58af9060c": {
-        "title": "挑战闭源格局！腾讯混元3D世界模型2.0开源发布，性能对标商业级模型",
-        "link": "https://www.tmtpost.com/7955800.html",
-        "published_date": "Thu, 16 Apr 2026 16:57:00 GMT",
-        "first_seen": "2026-04-16T09:23:53.444320"
-      },
-      "25766ce2200acdd8902001fbcae492aa09c71e795ba165c55499bfa236730d61": {
-        "title": "暖哇科技二次冲港股，“保险AI第一股”成色几何？",
-        "link": "https://www.tmtpost.com/7955666.html",
-        "published_date": "Thu, 16 Apr 2026 16:17:00 GMT",
-        "first_seen": "2026-04-16T09:23:53.444322"
-      },
-      "f57344f0f8166d17b136ec38181c868b85aeb932a42c65465d4d50468b6a7d2b": {
-        "title": "压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md",
-        "link": "https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 16:51:00 GMT",
-        "first_seen": "2026-04-16T09:23:53.444324"
-      },
-      "85cb83ef09c2de484e070e1d04eed14af1e0b4fe8c011941bf3cbce03efdaaef": {
-        "title": "亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告",
-        "link": "https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-16T09:23:53.444326"
-      },
       "3146e18cc1370969c43e4ab7d157f897079d1a740d8ad228ee0f6fd84af694d5": {
         "title": "黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达",
         "link": "https://www.tmtpost.com/7955519.html",
@@ -2611,27 +2581,39 @@
         "link": "https://www.tmtpost.com/7990195.html",
         "published_date": "Sat, 16 May 2026 09:53:00 GMT",
         "first_seen": "2026-05-16T07:17:46.835373"
+      },
+      "7b9ad0e06aaa541d9ce0a60fb0654c7b5ed644981249d16f419c94cbf8efdefb": {
+        "title": "百度大模型自救：这次还能逆风翻盘吗？",
+        "link": "https://www.tmtpost.com/7990101.html",
+        "published_date": "Sat, 16 May 2026 09:39:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.639159"
+      },
+      "52159e22c2d4c8c4af9f920cc24a9a86896c8b8eb70115acc18d25c5e4a39114": {
+        "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "link": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 16 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.639167"
+      },
+      "8885ad7cc82d73684b138ec5c08dd4988a3759fa8a66c4a5eff2c026ba191ed7": {
+        "title": "旧钱托底、新钱突围、代价攀升：阿里财报里的三重叙事",
+        "link": "https://www.tmtpost.com/7990090.html",
+        "published_date": "Sat, 16 May 2026 09:34:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.639169"
+      },
+      "70739439f75d9ff84717ada8289c1b829133c11eb8c42b5e90be1a0ed1b5bf51": {
+        "title": "贾跃亭和他的12年造车编年史",
+        "link": "https://www.tmtpost.com/7990466.html",
+        "published_date": "Sat, 16 May 2026 09:56:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.639172"
+      },
+      "f11eda672da743dbf3a8ace9b3f5cb1447e6cb2dda6e6e13c4278529e0655c9a": {
+        "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
+        "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 16 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.639173"
       }
     },
     "Finance": {
-      "9c99f935e294e0904c725714657a10ce4230aa878a0bcff69ae0022173db82b2": {
-        "title": "SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million",
-        "link": "https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-16T09:23:40.847635"
-      },
-      "5bac350d46ec120577ee0055e2c4086d142a864c882e6c1227f1bf3bdf5c1cb2": {
-        "title": "Ceasefire with Israel expected ‘soon’, say Lebanese officials",
-        "link": "https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81",
-        "published_date": "Thu, 16 Apr 2026 08:37:00 GMT",
-        "first_seen": "2026-04-16T09:23:40.847647"
-      },
-      "57001370781ce2522596db8253d7a969d458c6c35136ec53640bcddfd6f0733b": {
-        "title": "Taiwan overtakes UK in stock market value on AI chip boom",
-        "link": "https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc",
-        "published_date": "Thu, 16 Apr 2026 07:03:00 GMT",
-        "first_seen": "2026-04-16T09:23:40.847649"
-      },
       "687b32fda1da01cf11f5c8e9d409217289d089bdd5391e3ffad38f1310adcfcf": {
         "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses",
         "link": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories",
@@ -4917,27 +4899,15 @@
         "link": "https://www.ft.com/content/37ba1609-ffa7-42ae-b63c-b2c628c584e1",
         "published_date": "Sat, 16 May 2026 00:23:00 GMT",
         "first_seen": "2026-05-16T07:17:27.483107"
+      },
+      "a36a4ec71f760ec75176749d34c848e0ea0dc6192e9fdaf9d4917d6873d8c2fb": {
+        "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
+        "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 07:55:00 GMT",
+        "first_seen": "2026-05-16T09:44:06.065953"
       }
     },
     "Ai": {
-      "18fa18ffdfe679aa8287b30a4581405aeec993b74d3c987cdaaa4a7b1bb1743d": {
-        "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
-        "link": "https://www.qbitai.com/2026/04/401719.html",
-        "published_date": "Thu, 16 Apr 2026 08:25:00 GMT",
-        "first_seen": "2026-04-16T09:23:41.009729"
-      },
-      "d765e4cb91c2a100a3ff52934560f2b45e7856059a871ab3b75e8fa22d13c1d9": {
-        "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
-        "link": "https://www.qbitai.com/2026/04/401714.html",
-        "published_date": "Thu, 16 Apr 2026 07:38:00 GMT",
-        "first_seen": "2026-04-16T09:23:41.009739"
-      },
-      "81f65d5ff17a032fb3c87a8ff97421069abae697babdb3eb682e2dcd7a01dc32": {
-        "title": "2026-04-16日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-16/",
-        "published_date": "Thu, 16 Apr 2026 10:14:00 GMT",
-        "first_seen": "2026-04-16T09:23:41.009741"
-      },
       "4d2a2ec8b26876724690510217d85f1ffd936c9a82469fe44da822d0698ca7a1": {
         "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
         "link": "https://www.qbitai.com/2026/04/402063.html",
@@ -6233,13 +6203,19 @@
         "link": "https://www.qbitai.com/2026/05/418150.html",
         "published_date": "Sat, 16 May 2026 04:27:00 GMT",
         "first_seen": "2026-05-16T07:18:02.972298"
+      },
+      "4f14204d6f39d0649f9995c05f73156c49b17a2fd5b0ad7cb3a4654fc79299e5": {
+        "title": "2026-05-16日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-16/",
+        "published_date": "Sat, 16 May 2026 11:59:00 GMT",
+        "first_seen": "2026-05-16T09:44:24.788120"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-16T07:17:46.835376",
-    "Finance": "2026-05-16T07:17:27.483109",
-    "Ai": "2026-05-16T07:18:02.972300"
+    "Technology": "2026-05-16T09:44:24.639176",
+    "Finance": "2026-05-16T09:44:06.065964",
+    "Ai": "2026-05-16T09:44:24.788129"
   }
 }
