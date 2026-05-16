@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "12107c860c5f3f94fd4ce188e53db762c4bf25fef88d362da72e1b451cefecf0": {
-        "title": "中国AI正在绕过大模型，直奔Agent时代",
-        "link": "https://www.tmtpost.com/7955163.html",
-        "published_date": "Thu, 16 Apr 2026 13:07:00 GMT",
-        "first_seen": "2026-04-16T06:59:51.059286"
-      },
-      "0f0aec14f10f02f707a64b9315f4062acabb94fe4a79c604e911ddee5d88dc63": {
-        "title": "具身智能赛道迎来年度最大单笔融资，它石智航获4.55亿美金Pre-A轮融资",
-        "link": "https://www.tmtpost.com/7954674.html",
-        "published_date": "Thu, 16 Apr 2026 10:48:00 GMT",
-        "first_seen": "2026-04-16T06:59:51.059293"
-      },
-      "91462fe33080b7439d8228a4aec6ae7f3d874198c41389ae7b416153f4201353": {
-        "title": "Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry",
-        "link": "https://www.infoq.cn/article/PegogtX4txhVdQmex0Og?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-16T06:59:51.059296"
-      },
-      "11d92dfc6998d64899f6e0b0752f4aeb20159b59d79781bb8224fd0d0d7c79b5": {
-        "title": "安森美该急了，国产汽车CMOS又进一步",
-        "link": "https://www.tmtpost.com/7955376.html",
-        "published_date": "Thu, 16 Apr 2026 12:59:00 GMT",
-        "first_seen": "2026-04-16T06:59:51.059298"
-      },
-      "ebbf7a4335441d227049dc3ca2ae706743dc50f1114734380d0eb5e17a102da9": {
-        "title": "神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”",
-        "link": "https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 14:48:00 GMT",
-        "first_seen": "2026-04-16T06:59:51.059299"
-      },
       "3df73e550e4adb81c19d8e23a7e7882a3142b18d5f0bc6d8f46a789edba6c226": {
         "title": "“猎头”张文之后：壁仞科技更需要“技术”张文？",
         "link": "https://www.tmtpost.com/7955633.html",
@@ -2611,39 +2581,39 @@
         "link": "https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 15 May 2026 10:43:00 GMT",
         "first_seen": "2026-05-15T23:59:13.791464"
+      },
+      "6aa8dff14bbf2de0ce624c6a3e38af21b75377adda83a12786e46d5acd486328": {
+        "title": "Anthropic和黄仁勋，都在担忧 Deepseek+华为",
+        "link": "https://www.tmtpost.com/7989911.html",
+        "published_date": "Sat, 16 May 2026 10:34:00 GMT",
+        "first_seen": "2026-05-16T07:17:46.835362"
+      },
+      "9428637a498c3aafbce6cb8fc3f177cf85352943532929c955f2978f8e25bed7": {
+        "title": "曾亲赴霍尔木兹调研的Citrini判断：碳化硅是AI最大暗线",
+        "link": "https://www.tmtpost.com/7989918.html",
+        "published_date": "Sat, 16 May 2026 09:56:00 GMT",
+        "first_seen": "2026-05-16T07:17:46.835368"
+      },
+      "f9d6d2654092de5baa34a909711b5495ef2d498c9ce3c8e63f5ac4673af44721": {
+        "title": "上市首日暴涨68%，全球最大AI芯片公司，冲上670亿美元",
+        "link": "https://www.tmtpost.com/7989946.html",
+        "published_date": "Sat, 16 May 2026 10:21:00 GMT",
+        "first_seen": "2026-05-16T07:17:46.835370"
+      },
+      "e43e0bb3568f6a9138661a16514b457e0f4e53e638be22513bdd9b3bd3e87435": {
+        "title": "百度AI，“单干”创业",
+        "link": "https://www.tmtpost.com/7990158.html",
+        "published_date": "Sat, 16 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-16T07:17:46.835372"
+      },
+      "053b8174d0dc62dccb9247f8d404dca96cbe60fff9f40b408ebeb29bd2ae28a0": {
+        "title": "2026年具身赛道平均薪酬如何？哪些大牛最抢手？未来人才去哪找？",
+        "link": "https://www.tmtpost.com/7990195.html",
+        "published_date": "Sat, 16 May 2026 09:53:00 GMT",
+        "first_seen": "2026-05-16T07:17:46.835373"
       }
     },
     "Finance": {
-      "243384765d40b815db07e2a9dc49fecb3700bd18d26a01feab326c28c7fe5651": {
-        "title": "Gulf states turn to private deals in $10bn wartime borrowing spree",
-        "link": "https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7",
-        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-16T06:59:11.196702"
-      },
-      "582e6c831dcab44b631130ffda7b1ccee2b3a74023ce7714badf14408c0fdbe5": {
-        "title": "The tax-focused hedge fund craze taking over Wall Street",
-        "link": "https://www.ft.com/content/fad9d0ca-0b7a-4c22-8cfe-fb26fea9219b",
-        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-16T06:59:11.196711"
-      },
-      "d24b856bfcb070c4695e8f34883b759bc2c64f56b786f2e8117d1969443a8e6c": {
-        "title": "Pensions drawdown: can the 4 Per Cent Rule survive stagflation?",
-        "link": "https://www.ft.com/content/d6a0aaca-949c-420d-9431-ec9c170e6a05",
-        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-16T06:59:11.196714"
-      },
-      "efc2ea4251d016981d352adc8505c09db42f34a45dceb945624e863c4c84c00d": {
-        "title": "UK economy beat expectations to grow by 0.5% in February",
-        "link": "https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5",
-        "published_date": "Thu, 16 Apr 2026 06:21:00 GMT",
-        "first_seen": "2026-04-16T06:59:11.196716"
-      },
-      "33f38ef1d470cbfe485da4cd728383d3b698ce6ce65e4b0beaa21bb7b511c709": {
-        "title": "Ceasefire between Israel and Hizbollah expected ‘soon’, say Lebanese officials",
-        "link": "https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81",
-        "published_date": "Thu, 16 Apr 2026 06:24:00 GMT",
-        "first_seen": "2026-04-16T06:59:11.196718"
-      },
       "9c99f935e294e0904c725714657a10ce4230aa878a0bcff69ae0022173db82b2": {
         "title": "SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million",
         "link": "https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories",
@@ -4917,39 +4887,39 @@
         "link": "https://www.ft.com/content/9baac6fa-a302-4621-bc71-23a60e704703",
         "published_date": "Fri, 15 May 2026 22:35:00 GMT",
         "first_seen": "2026-05-15T23:58:47.665457"
+      },
+      "6d21addaf1caeac6b78d91a296bb222f5ddccfda41ebeb35e5945e6368f60419": {
+        "title": "Nato to press Europe’s arms makers to boost investment and production",
+        "link": "https://www.ft.com/content/d6ec23af-9b0e-49cd-b53d-a8a1786d5f5e",
+        "published_date": "Sat, 16 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-16T07:17:27.483093"
+      },
+      "b11fa8e6ae9d5a710a59c6d9e51c446cc777d450c1c558eaabd301657305663f": {
+        "title": "Why birth rates are falling everywhere all at once",
+        "link": "https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3",
+        "published_date": "Sat, 16 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-16T07:17:27.483102"
+      },
+      "8027ab4f9ff289bb2ba170622300cebd5a9284b5e4b5b4c88afb66831624e19b": {
+        "title": "The century of the stalemate",
+        "link": "https://www.ft.com/content/ef39e535-f040-4ade-91b1-61fea53bd31a",
+        "published_date": "Sat, 16 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-16T07:17:27.483104"
+      },
+      "7e492c941eaeeb421a5974c9108893bed1ab7710d897d371ce3e3a74f659e4b6": {
+        "title": "Our dog-eat-dog world order needs a rethink",
+        "link": "https://www.ft.com/content/534a8fd2-f985-44e7-89f0-093f78cb2b07",
+        "published_date": "Sat, 16 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-16T07:17:27.483106"
+      },
+      "7e0efb58095827f2c55b74eebed7e0b4ad55395d747709d5280bf98059c4d035": {
+        "title": "NextEra and Dominion in talks over tie-up to create $400bn US utility giant",
+        "link": "https://www.ft.com/content/37ba1609-ffa7-42ae-b63c-b2c628c584e1",
+        "published_date": "Sat, 16 May 2026 00:23:00 GMT",
+        "first_seen": "2026-05-16T07:17:27.483107"
       }
     },
     "Ai": {
-      "de4a294a4c423d2ff4bda828685178efd23350ba8ac616213585bb0cfa0612c7": {
-        "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
-        "link": "https://www.qbitai.com/2026/04/401541.html",
-        "published_date": "Thu, 16 Apr 2026 02:41:00 GMT",
-        "first_seen": "2026-04-16T06:59:23.912129"
-      },
-      "08c0f67773beedec88dd8d5fe5e69239eaa8cbf67e95048079bd56abae548773": {
-        "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
-        "link": "https://www.qbitai.com/2026/04/401554.html",
-        "published_date": "Thu, 16 Apr 2026 03:03:00 GMT",
-        "first_seen": "2026-04-16T06:59:23.912135"
-      },
-      "e1c841f4811619265e77ea8c07e81f94f5ea87a1598f722bde36afa78c2bee7c": {
-        "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
-        "link": "https://www.qbitai.com/2026/04/401655.html",
-        "published_date": "Thu, 16 Apr 2026 04:28:00 GMT",
-        "first_seen": "2026-04-16T06:59:23.912137"
-      },
-      "2ab09760cc06dfeb620dad1998c206c33e5cd4a9f2ee87392ab4caa9a87450d5": {
-        "title": "我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊",
-        "link": "https://www.qbitai.com/2026/04/401553.html",
-        "published_date": "Thu, 16 Apr 2026 03:16:00 GMT",
-        "first_seen": "2026-04-16T06:59:23.912139"
-      },
-      "0eb4b4ae3149606633fe0951dfa7633d95d6eed475716d844d223666282f8e5c": {
-        "title": "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了",
-        "link": "https://www.qbitai.com/2026/04/401682.html",
-        "published_date": "Thu, 16 Apr 2026 04:53:00 GMT",
-        "first_seen": "2026-04-16T06:59:23.912140"
-      },
       "18fa18ffdfe679aa8287b30a4581405aeec993b74d3c987cdaaa4a7b1bb1743d": {
         "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
         "link": "https://www.qbitai.com/2026/04/401719.html",
@@ -6233,13 +6203,43 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-15/",
         "published_date": "Fri, 15 May 2026 10:36:00 GMT",
         "first_seen": "2026-05-15T23:59:13.945818"
+      },
+      "f9ba29aac66db7effab363ed6eef1c4cd9264aad8fe2fa60fae976f2b4c1da9c": {
+        "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+        "link": "https://www.qbitai.com/2026/05/418491.html",
+        "published_date": "Sat, 16 May 2026 04:49:00 GMT",
+        "first_seen": "2026-05-16T07:18:02.972287"
+      },
+      "7108623f7ef85dc0ff3d8a638f18badaf56aea913fa4327e273ca3915909b4b8": {
+        "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+        "link": "https://www.qbitai.com/2026/05/418518.html",
+        "published_date": "Sat, 16 May 2026 06:35:00 GMT",
+        "first_seen": "2026-05-16T07:18:02.972293"
+      },
+      "bff2179097e14d9ccbd8cf2b5bb08efd62fb0d1aed5b424f82e023dda7e4141f": {
+        "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+        "link": "https://www.qbitai.com/2026/05/418594.html",
+        "published_date": "Sat, 16 May 2026 06:52:00 GMT",
+        "first_seen": "2026-05-16T07:18:02.972295"
+      },
+      "842fd4b82c4a2c3be7baaa2ac8571a2cc8554c681f42b05a2368dc46dfb2ed38": {
+        "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+        "link": "https://www.qbitai.com/2026/05/418571.html",
+        "published_date": "Sat, 16 May 2026 06:42:00 GMT",
+        "first_seen": "2026-05-16T07:18:02.972297"
+      },
+      "f91875285aa4fd848aa9e64976666705a108192177cc4b0661a589cc7f0c1265": {
+        "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
+        "link": "https://www.qbitai.com/2026/05/418150.html",
+        "published_date": "Sat, 16 May 2026 04:27:00 GMT",
+        "first_seen": "2026-05-16T07:18:02.972298"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-15T23:59:13.791466",
-    "Finance": "2026-05-15T23:58:47.665460",
-    "Ai": "2026-05-15T23:59:13.945826"
+    "Technology": "2026-05-16T07:17:46.835376",
+    "Finance": "2026-05-16T07:17:27.483109",
+    "Ai": "2026-05-16T07:18:02.972300"
   }
 }

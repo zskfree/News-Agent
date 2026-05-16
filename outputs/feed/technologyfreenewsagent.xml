@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 May 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 23:59:13 GMT</lastBuildDate>
+    <pubDate>Sat, 16 May 2026 07:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 May 2026 07:17:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟</title>
-      <link>https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic和黄仁勋，都在担忧 Deepseek+华为</title>
+      <link>https://www.tmtpost.com/7989911.html</link>
+      <description>&lt;![CDATA[Anthropic和黄仁勋，都在担忧 Deepseek+华为]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989911.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被礼来反超后，诺和诺德牵手OpenAI</title>
-      <link>https://www.tmtpost.com/7989694.html</link>
-      <description>&lt;![CDATA[被礼来反超后，诺和诺德牵手OpenAI]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7989694.html</guid>
+      <title>曾亲赴霍尔木兹调研的Citrini判断：碳化硅是AI最大暗线</title>
+      <link>https://www.tmtpost.com/7989918.html</link>
+      <description>&lt;![CDATA[曾亲赴霍尔木兹调研的Citrini判断：碳化硅是AI最大暗线]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989918.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T</title>
-      <link>https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>上市首日暴涨68%，全球最大AI芯片公司，冲上670亿美元</title>
+      <link>https://www.tmtpost.com/7989946.html</link>
+      <description>&lt;![CDATA[上市首日暴涨68%，全球最大AI芯片公司，冲上670亿美元]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989946.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>欣旺达发布逸风超充电池2.0，组建联盟重构电摩补能生态</title>
-      <link>https://www.tmtpost.com/7989524.html</link>
-      <description>&lt;![CDATA[欣旺达发布逸风超充电池2.0，组建联盟重构电摩补能生态]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7989524.html</guid>
+      <title>百度AI，“单干”创业</title>
+      <link>https://www.tmtpost.com/7990158.html</link>
+      <description>&lt;![CDATA[百度AI，“单干”创业]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7990158.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单</title>
-      <link>https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026年具身赛道平均薪酬如何？哪些大牛最抢手？未来人才去哪找？</title>
+      <link>https://www.tmtpost.com/7990195.html</link>
+      <description>&lt;![CDATA[2026年具身赛道平均薪酬如何？哪些大牛最抢手？未来人才去哪找？]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7990195.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 23:58
+**最后更新时间**: 2026-05-16 07:17
+
+---
+
+## 🆕 最新更新 (2026-05-16 07:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nato to press Europe’s arms makers to boost investment and production](https://www.ft.com/content/d6ec23af-9b0e-49cd-b53d-a8a1786d5f5e)
+**发布时间**: 2026-05-16 04:00
+
+#### [Why birth rates are falling everywhere all at once](https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3)
+**发布时间**: 2026-05-16 04:00
+
+#### [The century of the stalemate](https://www.ft.com/content/ef39e535-f040-4ade-91b1-61fea53bd31a)
+**发布时间**: 2026-05-16 04:00
+
+#### [Our dog-eat-dog world order needs a rethink](https://www.ft.com/content/534a8fd2-f985-44e7-89f0-093f78cb2b07)
+**发布时间**: 2026-05-16 04:00
+
+#### [NextEra and Dominion in talks over tie-up to create $400bn US utility giant](https://www.ft.com/content/37ba1609-ffa7-42ae-b63c-b2c628c584e1)
+**发布时间**: 2026-05-16 00:23
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your 3–6 months of emergency savings won’t cut it — why the job market demands an 18-month cash cushion](https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 20:18
 
 ---
 
