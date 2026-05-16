@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-16 09:44
+**最后更新时间**: 2026-05-16 23:56
+
+---
+
+## 🆕 最新更新 (2026-05-16 23:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?](https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories)
+**发布时间**: 2026-05-16 22:47
+
+#### [5 money moves that made this 32-year-old dad a millionaire in just 9 years](https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories)
+**发布时间**: 2026-05-16 18:13
+
+#### [I have $310,000 in cash from a maturing CD. Where should I put it next?](https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories)
+**发布时间**: 2026-05-16 17:14
+
+#### [Few Americans can afford long-term care — but this state program could be a game changer](https://www.marketwatch.com/story/few-americans-can-afford-long-term-care-but-this-state-program-could-be-a-game-changer-e136b6ff?mod=mw_rss_topstories)
+**发布时间**: 2026-05-16 16:46
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel kills last Hamas chief who oversaw October 7 attack](https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9)
+**发布时间**: 2026-05-16 15:38
+
+#### [Trump turns up the heat on Cuba](https://www.ft.com/content/fb62a4c4-6615-434e-a259-bc813a27ac6a)
+**发布时间**: 2026-05-16 11:00
+
+#### [How can Trump turn things around on inflation?](https://www.ft.com/content/0a8613df-6b35-475d-8549-787be1fce900)
+**发布时间**: 2026-05-16 04:00
 
 ---
 

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3146e18cc1370969c43e4ab7d157f897079d1a740d8ad228ee0f6fd84af694d5": {
-        "title": "黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达",
-        "link": "https://www.tmtpost.com/7955519.html",
-        "published_date": "Thu, 16 Apr 2026 16:19:00 GMT",
-        "first_seen": "2026-04-16T23:47:03.440335"
-      },
-      "9315a05195fa83f45c9c60397e76b1f17386f7e552891d39b594d9463e8c0d0d": {
-        "title": "阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3",
-        "link": "https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 17:35:00 GMT",
-        "first_seen": "2026-04-16T23:47:03.440342"
-      },
-      "3a7f11fb0e8d42e093a9b3c8b10eafbd93634c32f8e48cc6ef05b5f263d8b108": {
-        "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
-        "link": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 16:42:00 GMT",
-        "first_seen": "2026-04-16T23:47:03.440344"
-      },
-      "7b390bd688749b794fcfbbbb7dcd075b7b0e67a8054e3b606e4b55be9de99bbd": {
-        "title": "台积电：AI 界 “真霸主”，谁能撼动？",
-        "link": "https://www.tmtpost.com/7956315.html",
-        "published_date": "Thu, 16 Apr 2026 18:59:00 GMT",
-        "first_seen": "2026-04-16T23:47:03.440345"
-      },
-      "09b3bf477839fbfefb848d34c280be7a777de9a778e98b1602c3e2945b0cbc48": {
-        "title": "是真的厉害还是吹得厉害？掰一掰量产前夜的固态电池",
-        "link": "https://www.tmtpost.com/7955670.html",
-        "published_date": "Thu, 16 Apr 2026 19:12:00 GMT",
-        "first_seen": "2026-04-16T23:47:03.440347"
-      },
       "5d4cac4223a7ec03c4b692714b641c821599adb8e6175d895613162a84a47928": {
         "title": "机器人圈抢人失控，日薪突破50万",
         "link": "https://www.tmtpost.com/7956888.html",
@@ -2611,39 +2581,39 @@
         "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 16 May 2026 17:00:00 GMT",
         "first_seen": "2026-05-16T09:44:24.639173"
+      },
+      "c362499c7d63bf0cf26f2603fd1a3a3d9ba300904012a1ebc75baac26ab02118": {
+        "title": "这个 GitHub 上 1.6 万人点赞 AI PPT 工具，生成的 PPT 能编辑。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533700&idx=1&sn=c2ec1dc4e0b48c74944aa7117558a1ce",
+        "published_date": "Sat, 16 May 2026 12:04:00 GMT",
+        "first_seen": "2026-05-16T23:57:15.923173"
+      },
+      "5e900bab710ff9be1d3745c2600179261439686c20ecffaae72fe202858a7f49": {
+        "title": "“耳朵经济”遇冷、“五项不准”，腾讯为何非要拿下喜马拉雅？",
+        "link": "https://www.tmtpost.com/7990250.html",
+        "published_date": "Sat, 16 May 2026 10:46:00 GMT",
+        "first_seen": "2026-05-16T23:57:15.923181"
+      },
+      "4f973c74ec7e248a0c3e71d23c74112922acf89cb77bd7d86f33e59e61b2dd2e": {
+        "title": "从“兄弟各持”到“一人归集”，欧亚平拿下众安在线第一大股东",
+        "link": "https://www.tmtpost.com/7990233.html",
+        "published_date": "Sat, 16 May 2026 10:14:00 GMT",
+        "first_seen": "2026-05-16T23:57:15.923183"
+      },
+      "4805d9d34ef7458b12ab38d09bc1b04731fab0df279b0a3df32f7c3e13b0feed": {
+        "title": "能源央企集体“看低”行业之际，华电新能猛增20+新能源主体，反向操作藏着什么底牌？",
+        "link": "https://www.tmtpost.com/7990475.html",
+        "published_date": "Sat, 16 May 2026 11:02:00 GMT",
+        "first_seen": "2026-05-16T23:57:15.923185"
+      },
+      "cb6e7fe09e4ac6911bc315bb61849b121efecebe3cf5641bb49a80963abe3acb": {
+        "title": "3D 成女引流，「镭明闪击」撕开二次元手游夹心式困境",
+        "link": "https://www.tmtpost.com/7990211.html",
+        "published_date": "Sat, 16 May 2026 09:58:00 GMT",
+        "first_seen": "2026-05-16T23:57:15.923186"
       }
     },
     "Finance": {
-      "687b32fda1da01cf11f5c8e9d409217289d089bdd5391e3ffad38f1310adcfcf": {
-        "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses",
-        "link": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 20:39:00 GMT",
-        "first_seen": "2026-04-16T23:46:25.248551"
-      },
-      "164bd09145845c43058a13b23516c3b517bf6541ceb455b6ef63444ee5b15700": {
-        "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say",
-        "link": "https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-16T23:46:25.248558"
-      },
-      "24777ea7f362a07e87b8921139d8a9bd1bbce9d877645ea5032358bc2ce715f9": {
-        "title": "The Mythos cyber scare signals the economics of AI scarcity",
-        "link": "https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f",
-        "published_date": "Thu, 16 Apr 2026 17:05:00 GMT",
-        "first_seen": "2026-04-16T23:46:25.248561"
-      },
-      "22b37d40ec2f706c54dd0c9a64f2b841d85a13a9193d74eaf056b1c6127682dd": {
-        "title": "This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next",
-        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 20:40:00 GMT",
-        "first_seen": "2026-04-16T23:46:25.248563"
-      },
-      "7ffa971c9bd98929627a9bbcf7ac5ed840594902fcc89d703c9395fdf7bafaf1": {
-        "title": "Anthropic in talks to give US government access to its Mythos model",
-        "link": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4",
-        "published_date": "Thu, 16 Apr 2026 23:30:00 GMT",
-        "first_seen": "2026-04-16T23:46:25.248565"
-      },
       "7eda95bf9d3a8305479bf6e056408018c7df07324bed2dbb7a26665e1c5a37ac": {
         "title": "With the largest industrial IPO since 1999, this air-quality giant’s stock opens with a bang",
         "link": "https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184?mod=mw_rss_topstories",
@@ -4905,39 +4875,39 @@
         "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
         "published_date": "Sat, 16 May 2026 07:55:00 GMT",
         "first_seen": "2026-05-16T09:44:06.065953"
+      },
+      "76fa9770bd713cf20bfcf3e7e399a9d8e2a7e626ab19d52fdf2fb42bf0966723": {
+        "title": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
+        "link": "https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 17:14:00 GMT",
+        "first_seen": "2026-05-16T23:57:00.473480"
+      },
+      "2602287f21ae8d6aa2904b55ee2454cbc188d2781218b0d04fc14a64e774becf": {
+        "title": "Few Americans can afford long-term care — but this state program could be a game changer",
+        "link": "https://www.marketwatch.com/story/few-americans-can-afford-long-term-care-but-this-state-program-could-be-a-game-changer-e136b6ff?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 16:46:00 GMT",
+        "first_seen": "2026-05-16T23:57:00.473491"
+      },
+      "6aec756e1116c0a04fef1a925aa2f35a34127ee87b057884f0e38f8550dd6e04": {
+        "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+        "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 22:47:00 GMT",
+        "first_seen": "2026-05-16T23:57:00.473493"
+      },
+      "95383be8cfcda7d9c276fa4e60c5432e74a071dde41e25aa4ae8555c421a7c38": {
+        "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+        "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 18:13:00 GMT",
+        "first_seen": "2026-05-16T23:57:00.473496"
+      },
+      "788d3ff60817b0176a4af2f5ae3c84eb102dadeb17aa86dec3345bc8e40f49be": {
+        "title": "Israel kills last Hamas chief who oversaw October 7 attack",
+        "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
+        "published_date": "Sat, 16 May 2026 15:38:00 GMT",
+        "first_seen": "2026-05-16T23:57:00.473497"
       }
     },
     "Ai": {
-      "4d2a2ec8b26876724690510217d85f1ffd936c9a82469fe44da822d0698ca7a1": {
-        "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
-        "link": "https://www.qbitai.com/2026/04/402063.html",
-        "published_date": "Thu, 16 Apr 2026 12:51:00 GMT",
-        "first_seen": "2026-04-16T23:46:40.368814"
-      },
-      "6ce3141e70340c0514f6003f0924a13ffcfddd9131eb43293bac66e0e5058020": {
-        "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
-        "link": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
-        "published_date": "Thu, 16 Apr 2026 14:41:00 GMT",
-        "first_seen": "2026-04-16T23:46:40.368821"
-      },
-      "5c23ab114199e5f631922a61d148a57f473b7fceeac673f374c0854bf6bf350d": {
-        "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
-        "link": "https://www.qbitai.com/2026/04/401743.html",
-        "published_date": "Thu, 16 Apr 2026 12:33:00 GMT",
-        "first_seen": "2026-04-16T23:46:40.368823"
-      },
-      "beece13820f42d885b2b5bbbbc9a7b50545550b9c256ad8d80a26ddec7fff947": {
-        "title": "AI-generated synthetic neurons speed up brain mapping",
-        "link": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
-        "published_date": "Thu, 16 Apr 2026 12:18:00 GMT",
-        "first_seen": "2026-04-16T23:46:40.368825"
-      },
-      "aaeef43934c2bb011b9c924b6e5e8276a85bc0fff775b11f0262f88d9305c895": {
-        "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-        "link": "https://www.qbitai.com/2026/04/401741.html",
-        "published_date": "Thu, 16 Apr 2026 13:04:00 GMT",
-        "first_seen": "2026-04-16T23:46:40.368826"
-      },
       "b3bdb6f1c1b2e7c2e940ee82732aeb57082a12f8b0a07b18d7a28426067a74c7": {
         "title": "2026-04-17日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-17/",
@@ -6209,13 +6179,19 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-16/",
         "published_date": "Sat, 16 May 2026 11:59:00 GMT",
         "first_seen": "2026-05-16T09:44:24.788120"
+      },
+      "121df8e6c20a6ea589e0ef1334420a732ca23a932305a377ac4813bc3a8976eb": {
+        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+        "link": "https://www.qbitai.com/2026/05/418620.html",
+        "published_date": "Sat, 16 May 2026 13:44:00 GMT",
+        "first_seen": "2026-05-16T23:57:16.074715"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-16T09:44:24.639176",
-    "Finance": "2026-05-16T09:44:06.065964",
-    "Ai": "2026-05-16T09:44:24.788129"
+    "Technology": "2026-05-16T23:57:15.923189",
+    "Finance": "2026-05-16T23:57:00.473500",
+    "Ai": "2026-05-16T23:57:16.074723"
   }
 }
