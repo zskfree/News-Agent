@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-16 23:56
+**最后更新时间**: 2026-05-17 07:35
+
+---
+
+## 🆕 最新更新 (2026-05-17 07:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf freight rates jump as shipping companies turn to trucks to move cargo](https://www.ft.com/content/0c2adc44-5dcf-4273-943e-9899a1ce44ff)
+**发布时间**: 2026-05-17 04:00
+
+#### [Europe’s leaders must stop self-censoring](https://www.ft.com/content/c4a067dc-dfac-487b-906f-c9bbb73016e8)
+**发布时间**: 2026-05-17 04:00
+
+#### [Bain Capital closes largest Asia fund after raising $10.5bn](https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0)
+**发布时间**: 2026-05-17 04:00
+
+#### [Chinese data centre spin-off plans dual IPO in Singapore and US](https://www.ft.com/content/602baf9f-9e66-428e-baec-6c2850d5fad5)
+**发布时间**: 2026-05-17 04:00
+
+#### [Record high Japanese yields trigger bets on repatriation](https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92)
+**发布时间**: 2026-05-17 04:00
+
+#### [China’s two-wheelers ride EV wave into Europe](https://www.ft.com/content/bb0341b1-e808-45b4-b5f9-c9b88c04d2ae)
+**发布时间**: 2026-05-17 04:00
+
+#### [Trump’s pick for Republican primary beats senator who voted to impeach him](https://www.ft.com/content/e2aca448-a6db-4322-b14f-f461c827f347)
+**发布时间**: 2026-05-17 03:17
+
+#### [The many joys of small talk](https://www.ft.com/content/d71e5f18-5703-451a-8e9f-907b02c52c84)
+**发布时间**: 2026-05-17 03:00
 
 ---
 

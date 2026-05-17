@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5d4cac4223a7ec03c4b692714b641c821599adb8e6175d895613162a84a47928": {
-        "title": "机器人圈抢人失控，日薪突破50万",
-        "link": "https://www.tmtpost.com/7956888.html",
-        "published_date": "Fri, 17 Apr 2026 12:23:00 GMT",
-        "first_seen": "2026-04-17T07:00:37.884310"
-      },
-      "d9143aabfb99b463e8e33d6990b56bc7e9a7fb239843cd01916630007924ab19": {
-        "title": "万宁：创新与风控的平衡是金融发展的最佳状态",
-        "link": "https://www.tmtpost.com/7956930.html",
-        "published_date": "Fri, 17 Apr 2026 10:23:00 GMT",
-        "first_seen": "2026-04-17T07:00:37.884318"
-      },
-      "0e2f898acb12e70f0e9f2af6fd8f6b924baef0596d521cc2db7a238c7d2ba589": {
-        "title": "Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”",
-        "link": "https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:37.884321"
-      },
-      "158c2827f43440a5d87cf8c42576de8f1e65441a1756b695df875b1365353f36": {
-        "title": "针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制",
-        "link": "https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:37.884322"
-      },
-      "6ad0c2d9d852ec1fef4f242360965b02615967d7e695a8adb9146d2c4bf684e3": {
-        "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
-        "link": "https://sspai.com/post/108742",
-        "published_date": "Fri, 17 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-17T07:00:37.884324"
-      },
       "950b2707588927ba822402b88344e1f16c45e26b15bda3db74d7a18a8f531623": {
         "title": "黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设",
         "link": "https://www.tmtpost.com/7957098.html",
@@ -2611,39 +2581,39 @@
         "link": "https://www.tmtpost.com/7990211.html",
         "published_date": "Sat, 16 May 2026 09:58:00 GMT",
         "first_seen": "2026-05-16T23:57:15.923186"
+      },
+      "ab425573c3b5ea7686b12c142333dbfc92517dd07723969a8448773514f21750": {
+        "title": "全息世界模型：破译从生命到AGI的终极生存算法",
+        "link": "https://www.tmtpost.com/7990897.html",
+        "published_date": "Sun, 17 May 2026 12:10:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.332547"
+      },
+      "7688f0f13c343cf6e7e33f3c2e0321aa2943dcc1cd58d11d605710df37f3e0c4": {
+        "title": "反杀英伟达！亏损多年却一夜千亿，这家 AI 芯片公司凭什么炸翻美股？",
+        "link": "https://www.tmtpost.com/7989595.html",
+        "published_date": "Sun, 17 May 2026 08:58:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.332554"
+      },
+      "9fa3672a4fce2650f9b0ea5a7e9aa0a52dd653ea3b7ad1ef49b4b0cf111ea853": {
+        "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+        "link": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 17 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.332557"
+      },
+      "af539560204b6c1137aa5cc5684f663740f6a48768c048a8570e33273f713081": {
+        "title": "【数智周报】前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元；Anthropic正以9000亿美元估值寻求至少300亿美元融资；阿里平头哥自研GPU规模化量产",
+        "link": "https://www.tmtpost.com/7990953.html",
+        "published_date": "Sun, 17 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.332558"
+      },
+      "500e16002f7bbe1758169204d7c5cdb33a697b45796c36b2e4149dfdefc7e96f": {
+        "title": "快手抄百度昆仑芯作业，可灵AI单独上市？",
+        "link": "https://www.tmtpost.com/7990731.html",
+        "published_date": "Sun, 17 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.332560"
       }
     },
     "Finance": {
-      "7eda95bf9d3a8305479bf6e056408018c7df07324bed2dbb7a26665e1c5a37ac": {
-        "title": "With the largest industrial IPO since 1999, this air-quality giant’s stock opens with a bang",
-        "link": "https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 23:55:00 GMT",
-        "first_seen": "2026-04-17T07:00:17.904024"
-      },
-      "f9004c7083e8024de145e3657ad3374f6f0258e94a66807e08f4c19517b65b1f": {
-        "title": "Data centre delays threaten to choke AI expansion",
-        "link": "https://www.ft.com/content/f2bae708-f5c3-49b0-99c0-e4a11552427b",
-        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:17.904033"
-      },
-      "0635813552e54d10db5f7429a48324ad42fd9de12d1981e3d28cb3d8819e1e83": {
-        "title": "Welcome to the age of hoarding",
-        "link": "https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada",
-        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:17.904036"
-      },
-      "d6784c961433f967694a025350bbd749e19fb6241958acd170dd71fe9b2b4a9c": {
-        "title": "The white-collar defence lawyers with nothing to do",
-        "link": "https://www.ft.com/content/befa71e1-fcf1-4c02-9662-a572543ddcbf",
-        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:17.904037"
-      },
-      "6e2f2bc41d75b3a8e75d8fbaa53ce8429ab7d074d1a7308b2d2f90ffeb5d3ea8": {
-        "title": "Macron and Starmer to hold summit on plan to secure Strait of Hormuz",
-        "link": "https://www.ft.com/content/a348e5e0-c9d3-424c-b8a9-7903fa817b7d",
-        "published_date": "Fri, 17 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-17T07:00:17.904039"
-      },
       "02421daf2f94681588fc671ddec043da290fba7373c9b7a5d2120951917906d7": {
         "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
         "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
@@ -4905,33 +4875,39 @@
         "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
         "published_date": "Sat, 16 May 2026 15:38:00 GMT",
         "first_seen": "2026-05-16T23:57:00.473497"
+      },
+      "b49474f3c3f5392aff2fad1465f3811bbf4b8b47a0441b940ec5d88ee13000ad": {
+        "title": "Record high Japanese yields trigger bets on repatriation",
+        "link": "https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92",
+        "published_date": "Sun, 17 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:31.954460"
+      },
+      "f1a489666f53be3829422e5bdbf8da21b174941029da2ba6c6d0d2e0e8a5d210": {
+        "title": "Bain Capital closes largest Asia fund after raising $10.5bn",
+        "link": "https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0",
+        "published_date": "Sun, 17 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:31.954471"
+      },
+      "e85ce3594d7fdb58b56fe45d832ef6f3e3f0eb478cf9a9765a3729c0ff2037f4": {
+        "title": "Chinese data centre spin-off plans dual IPO in Singapore and US",
+        "link": "https://www.ft.com/content/602baf9f-9e66-428e-baec-6c2850d5fad5",
+        "published_date": "Sun, 17 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:31.954474"
+      },
+      "86525dfc39a6f54397533b308963296bb267b99024c6884146aef40848f0b4ac": {
+        "title": "Gulf freight rates jump as shipping companies turn to trucks to move cargo",
+        "link": "https://www.ft.com/content/0c2adc44-5dcf-4273-943e-9899a1ce44ff",
+        "published_date": "Sun, 17 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:31.954476"
+      },
+      "174b6a779bd59f1ae4ea448f3c7ca5d2d2bf5349d8d932da8b899dfef3e31dd6": {
+        "title": "China’s two-wheelers ride EV wave into Europe",
+        "link": "https://www.ft.com/content/bb0341b1-e808-45b4-b5f9-c9b88c04d2ae",
+        "published_date": "Sun, 17 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-17T07:35:31.954477"
       }
     },
     "Ai": {
-      "b3bdb6f1c1b2e7c2e940ee82732aeb57082a12f8b0a07b18d7a28426067a74c7": {
-        "title": "2026-04-17日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-17/",
-        "published_date": "Fri, 17 Apr 2026 09:55:00 GMT",
-        "first_seen": "2026-04-17T07:00:18.056821"
-      },
-      "7fd492c57b68af625f3e5cd5f286f06afc5c2aa7fa13b7cac54089b2893ea73f": {
-        "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-        "link": "https://www.qbitai.com/2026/04/402186.html",
-        "published_date": "Fri, 17 Apr 2026 05:52:00 GMT",
-        "first_seen": "2026-04-17T07:00:18.056828"
-      },
-      "2d58c221c0affa809ac3312a5268f3f5cacac4742e0f7d6dc1cf45fa3ef4e6f7": {
-        "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
-        "link": "https://www.qbitai.com/2026/04/402158.html",
-        "published_date": "Fri, 17 Apr 2026 03:30:00 GMT",
-        "first_seen": "2026-04-17T07:00:18.056830"
-      },
-      "3b920d2fa79afb4628741b78bde8fdef59cef375e31c97b991f65685450b03d3": {
-        "title": "ImageNet作者苏昊回国任教复旦！李飞飞高徒，具身第一高引，出任通用物理AI院长",
-        "link": "https://www.qbitai.com/2026/04/402088.html",
-        "published_date": "Fri, 17 Apr 2026 02:16:00 GMT",
-        "first_seen": "2026-04-17T07:00:18.056831"
-      },
       "67c7c8ec1c311b3e32c2c2a53e5ab9d7b33232469f62b839f650ab091ba71f8b": {
         "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
         "link": "https://www.qbitai.com/2026/04/402440.html",
@@ -6185,13 +6161,37 @@
         "link": "https://www.qbitai.com/2026/05/418620.html",
         "published_date": "Sat, 16 May 2026 13:44:00 GMT",
         "first_seen": "2026-05-16T23:57:16.074715"
+      },
+      "6fb11318096c2b761c778e8ea2ed45ff8f5ac8fa20ea4ba4bf9cfbd298614b9d": {
+        "title": "2026-05-17日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-17/",
+        "published_date": "Sun, 17 May 2026 10:42:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.483258"
+      },
+      "e899702bd82f99441d3548febd64f2dd05b83fa1243e8a30ca0786358c52cf9b": {
+        "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+        "link": "https://www.qbitai.com/2026/05/418822.html",
+        "published_date": "Sun, 17 May 2026 04:48:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.483266"
+      },
+      "a76bdbeeb1d1c2fafb71f1d0059f61ec8fed4ae968095df353b61fdca8856bb6": {
+        "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "link": "https://www.qbitai.com/2026/05/418814.html",
+        "published_date": "Sun, 17 May 2026 03:42:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.483268"
+      },
+      "c650b3fa49f2ef3b88c563606a3e2acc4e7eee4a86f97cb59769b1c252f27683": {
+        "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+        "link": "https://www.qbitai.com/2026/05/418737.html",
+        "published_date": "Sun, 17 May 2026 03:37:00 GMT",
+        "first_seen": "2026-05-17T07:35:53.483269"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-16T23:57:15.923189",
-    "Finance": "2026-05-16T23:57:00.473500",
-    "Ai": "2026-05-16T23:57:16.074723"
+    "Technology": "2026-05-17T07:35:53.332563",
+    "Finance": "2026-05-17T07:35:31.954480",
+    "Ai": "2026-05-17T07:35:53.483271"
   }
 }
