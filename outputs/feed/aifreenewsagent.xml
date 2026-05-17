@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 May 2026 07:33:00 GMT</pubDate>
-    <lastBuildDate>Sun, 17 May 2026 07:35:53 GMT</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 09:47:00 GMT</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 09:50:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-17日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-17/</link>
-      <description>&lt;![CDATA[2026-05-17日刊]]&gt;</description>
-      <pubDate>Sun, 17 May 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-17/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起</title>
-      <link>https://www.qbitai.com/2026/05/418822.html</link>
-      <description>&lt;![CDATA[龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起]]&gt;</description>
-      <pubDate>Sun, 17 May 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418822.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”</title>
-      <link>https://www.qbitai.com/2026/05/418814.html</link>
-      <description>&lt;![CDATA[SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”]]&gt;</description>
-      <pubDate>Sun, 17 May 2026 03:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418814.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了</title>
-      <link>https://www.qbitai.com/2026/05/418737.html</link>
-      <description>&lt;![CDATA[6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了]]&gt;</description>
-      <pubDate>Sun, 17 May 2026 03:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418737.html</guid>
+      <title>Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI</title>
+      <link>https://www.qbitai.com/2026/05/418836.html</link>
+      <description>&lt;![CDATA[Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI]]&gt;</description>
+      <pubDate>Sun, 17 May 2026 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418836.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "950b2707588927ba822402b88344e1f16c45e26b15bda3db74d7a18a8f531623": {
-        "title": "黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设",
-        "link": "https://www.tmtpost.com/7957098.html",
-        "published_date": "Fri, 17 Apr 2026 14:57:00 GMT",
-        "first_seen": "2026-04-17T09:22:34.601913"
-      },
-      "bc2cb8d225e494fbacf4096cf14cabb8ffb8396b209cc6a3720252f45aac4f2d": {
-        "title": "OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核",
-        "link": "https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Apr 2026 16:01:00 GMT",
-        "first_seen": "2026-04-17T09:22:34.601922"
-      },
-      "d151ccb102b07203f12d1ff5fcfdcfb7eecae0dabef112169c3d64412ff22b2a": {
-        "title": "AI大模型吞噬软件路径推演",
-        "link": "https://www.tmtpost.com/7956776.html",
-        "published_date": "Fri, 17 Apr 2026 09:39:00 GMT",
-        "first_seen": "2026-04-17T09:22:34.601924"
-      },
-      "b620522ef0078267c8f162cd541087ff3ed32131c6c3dab65bf0ef83bda3a8aa": {
-        "title": "长文问答准确率大涨 17% 后，Anthropic 把“不乱猜”做成了核心卖点",
-        "link": "https://www.tmtpost.com/7957003.html",
-        "published_date": "Fri, 17 Apr 2026 11:14:00 GMT",
-        "first_seen": "2026-04-17T09:22:34.601926"
-      },
-      "e8a11d65b4ef73195e0900e6789358ce2b86597217ced5f613201bad6c011f4d": {
-        "title": "从越用越便宜到越用越贵，谁在为AI的“算力饥渴”买单？",
-        "link": "https://www.tmtpost.com/7956464.html",
-        "published_date": "Fri, 17 Apr 2026 13:30:00 GMT",
-        "first_seen": "2026-04-17T09:22:34.601928"
-      },
       "7d9d5de89c2c3a3318b52c8d81799318f9832078b3e55ec67310af20972ff7d5": {
         "title": "AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局",
         "link": "https://www.tmtpost.com/7957423.html",
@@ -2611,33 +2581,39 @@
         "link": "https://www.tmtpost.com/7990731.html",
         "published_date": "Sun, 17 May 2026 10:32:00 GMT",
         "first_seen": "2026-05-17T07:35:53.332560"
+      },
+      "2ab9bd938d371eb2dbf62f12a960dbe60130b9b9ba7b3f434a56a09917c11967": {
+        "title": "Anthropic CEO最新专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+        "link": "https://www.tmtpost.com/7991109.html",
+        "published_date": "Sun, 17 May 2026 15:59:00 GMT",
+        "first_seen": "2026-05-17T09:50:23.875289"
+      },
+      "9a902ca2f88774205998615993272a68ece056dc367441b3d8a7221351bd7b31": {
+        "title": "马化腾的\"漏水船\"与腾讯AI的下半场",
+        "link": "https://www.tmtpost.com/7990734.html",
+        "published_date": "Sun, 17 May 2026 09:41:00 GMT",
+        "first_seen": "2026-05-17T09:50:23.875297"
+      },
+      "582a42329dbe037cb5559ee08124c8a9f1e9cc0958daa0addac2c3a6f1994356": {
+        "title": "拿着同款 AI 船票，阿里和腾讯活成了彼此不认识的样子",
+        "link": "https://www.tmtpost.com/7990615.html",
+        "published_date": "Sun, 17 May 2026 08:39:00 GMT",
+        "first_seen": "2026-05-17T09:50:23.875300"
+      },
+      "1d48f34569db087b4b2c3a6fab633fea5ff2491c4ee30e34dd222eda9732b64c": {
+        "title": "我在GEO公司卧底30天：这里的工作就是骗AI",
+        "link": "https://www.tmtpost.com/7991081.html",
+        "published_date": "Sun, 17 May 2026 15:59:00 GMT",
+        "first_seen": "2026-05-17T09:50:23.875302"
+      },
+      "e040eea03f070499c3b206ce7a8ee538d2a313e51b0e99a6b109a511f0972c93": {
+        "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人",
+        "link": "https://www.tmtpost.com/7990555.html",
+        "published_date": "Sun, 17 May 2026 08:37:00 GMT",
+        "first_seen": "2026-05-17T09:50:23.875304"
       }
     },
     "Finance": {
-      "02421daf2f94681588fc671ddec043da290fba7373c9b7a5d2120951917906d7": {
-        "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-        "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-        "published_date": "Fri, 17 Apr 2026 09:15:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.011980"
-      },
-      "b9552ecdc522a6e703cf427b01f79c10dcf853a8eba9204b1179884bb255e3f7": {
-        "title": "9 months after Ozzy’s death, Sharon Osbourne lists L.A. mansion for $17 million",
-        "link": "https://www.marketwatch.com/story/9-months-after-ozzys-death-sharon-osbourne-lists-l-a-mansion-for-17-million-c4a3fd5d?mod=mw_rss_topstories",
-        "published_date": "Fri, 17 Apr 2026 08:58:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.011993"
-      },
-      "48e8951ef5c73157d29d60b52b625f8fe91713f37fce1ef1443aa04c41ee018e": {
-        "title": "Mandelson vetting scandal shows Starmer isn’t up to the job",
-        "link": "https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9",
-        "published_date": "Fri, 17 Apr 2026 08:30:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.011995"
-      },
-      "f8ceb87903842984985ac7c0f75520c86493edfcc91ea7e079cc47cd944a3782": {
-        "title": "Starmer battles calls to resign over Mandelson vetting",
-        "link": "https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee",
-        "published_date": "Fri, 17 Apr 2026 07:34:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.011997"
-      },
       "866e7397dd96ed29896a8c48db3338e54a0ce40b84d17a2d9907fbd753d96fe1": {
         "title": "Oil slumps as US and Iran declare Strait of Hormuz open to shipping",
         "link": "https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e",
@@ -4908,24 +4884,6 @@
       }
     },
     "Ai": {
-      "67c7c8ec1c311b3e32c2c2a53e5ab9d7b33232469f62b839f650ab091ba71f8b": {
-        "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-        "link": "https://www.qbitai.com/2026/04/402440.html",
-        "published_date": "Fri, 17 Apr 2026 08:24:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.174685"
-      },
-      "61a26749bbf53745a81eb315a1bcceffda64ba057dc23436231cb09535c32222": {
-        "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-        "link": "https://www.qbitai.com/2026/04/402388.html",
-        "published_date": "Fri, 17 Apr 2026 07:37:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.174693"
-      },
-      "58c5326f753d6a9736f4a0f11068ced704b937a40849afc16b88ff4da4ca1874": {
-        "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-        "link": "https://www.qbitai.com/2026/04/402329.html",
-        "published_date": "Fri, 17 Apr 2026 07:08:00 GMT",
-        "first_seen": "2026-04-17T09:22:09.174696"
-      },
       "f8c6b9d49d7cc1302766eeb3b75cb3684cf06fad37c80906f22253852a1bf71d": {
         "title": "2026-04-18日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-18/",
@@ -6185,13 +6143,19 @@
         "link": "https://www.qbitai.com/2026/05/418737.html",
         "published_date": "Sun, 17 May 2026 03:37:00 GMT",
         "first_seen": "2026-05-17T07:35:53.483269"
+      },
+      "a146094e63033c6a7f2e83fb2613ed49f6f99a259925600d980f290d5ddc4fb4": {
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "link": "https://www.qbitai.com/2026/05/418836.html",
+        "published_date": "Sun, 17 May 2026 08:55:00 GMT",
+        "first_seen": "2026-05-17T09:50:24.019868"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-17T07:35:53.332563",
+    "Technology": "2026-05-17T09:50:23.875307",
     "Finance": "2026-05-17T07:35:31.954480",
-    "Ai": "2026-05-17T07:35:53.483271"
+    "Ai": "2026-05-17T09:50:24.019876"
   }
 }
