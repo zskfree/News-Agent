@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 May 2026 09:47:00 GMT</pubDate>
-    <lastBuildDate>Sun, 17 May 2026 09:50:24 GMT</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 00:01:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI</title>
-      <link>https://www.qbitai.com/2026/05/418836.html</link>
-      <description>&lt;![CDATA[Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI]]&gt;</description>
-      <pubDate>Sun, 17 May 2026 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418836.html</guid>
+      <title>一只机器狗，把英伟达的算力王座拱翻了</title>
+      <link>https://www.qbitai.com/2026/05/418969.html</link>
+      <description>&lt;![CDATA[一只机器狗，把英伟达的算力王座拱翻了]]&gt;</description>
+      <pubDate>Sun, 17 May 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418969.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁</title>
+      <link>https://www.qbitai.com/2026/05/418964.html</link>
+      <description>&lt;![CDATA[世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁]]&gt;</description>
+      <pubDate>Sun, 17 May 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418964.html</guid>
       <category>Ai</category>
     </item>
   </channel>

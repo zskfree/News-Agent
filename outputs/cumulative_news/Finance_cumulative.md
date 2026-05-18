@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-17 07:35
+**最后更新时间**: 2026-05-18 00:01
+
+---
+
+## 🆕 最新更新 (2026-05-18 00:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate](https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 23:37
+
+#### [Health officials declare Ebola outbreak a public health emergency](https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 23:02
+
+#### [Walmart and Target are about to show just how much shopping habits have changed due to the Iran war](https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 19:34
+
+#### [Nvidia is getting some help as it props up S&P 500 earnings growth](https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 19:25
+
+#### [Your 3–6 months of emergency savings won’t cut it — why the job market now demands an 18-month cash cushion](https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 19:08
+
+#### [‘I experienced many years of poverty’: I worked until 70. Why do wealthy retirees look down on those with less savings?](https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-17 18:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Vox becomes kingmaker as Sánchez suffers defeat in Spanish regional election](https://www.ft.com/content/be7186e3-4df7-49b8-99bd-d06b1a5383ac)
+**发布时间**: 2026-05-17 23:02
+
+#### [White House says Trump and Xi agreed on ‘board of trade’ at summit](https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837)
+**发布时间**: 2026-05-17 21:02
+
+#### [Publicis to buy US data company in $2.2bn deal as it deepens AI marketing push](https://www.ft.com/content/fa33f1b3-ea8b-474b-9f75-a70536c8d2cb)
+**发布时间**: 2026-05-17 19:36
+
+#### [Iran energy crisis enters new phase as peak summer season approaches](https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb)
+**发布时间**: 2026-05-17 17:00
+
+#### [The looming energy crunch](https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c)
+**发布时间**: 2026-05-17 17:00
+
+#### [UAE says drone strike caused fire at nuclear plant](https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6)
+**发布时间**: 2026-05-17 16:06
+
+#### [The future of America’s military industrial complex](https://www.ft.com/content/713d7483-0ca6-46ae-b287-c501b5d81644)
+**发布时间**: 2026-05-17 12:00
+
+#### [Ukraine’s deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy](https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab)
+**发布时间**: 2026-05-17 10:49
+
+#### [Trump’s urge for revenge fuels expensive US primary battle in Kentucky](https://www.ft.com/content/ede39e87-c489-432c-b5e0-09da19b591dc)
+**发布时间**: 2026-05-17 10:00
 
 ---
 
