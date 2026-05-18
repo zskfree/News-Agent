@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-18 00:01
+**最后更新时间**: 2026-05-18 08:46
+
+---
+
+## 🆕 最新更新 (2026-05-18 08:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单](https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 16:07
+
+#### [曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报](https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 16:04
+
+#### [从第一性原理出发：那些构建 Snowflake 的理念，以及下一步走向 ｜ 技术趋势](https://www.infoq.cn/article/YIHbbObGsImxBNCpW1Ut?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 14:24
+
+#### [Coder Agents让企业能够在自托管基础设施上运行AI编码工作流](https://www.infoq.cn/article/QY3s00D8dEh7NdrT7GmH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 14:14
+
+#### [超越基准：采用基于指标的方法在真实设备上维持iOS长期的良好性能](https://www.infoq.cn/article/qjNVpHzkuEltCcFJPrfR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 13:08
+
+#### [Java近期资讯：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP](https://www.infoq.cn/article/lMqQqYKIxvjYR1EvE80d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 11:01
+
+#### [一个二十多年老兵的忧心：那条从Debug开始走向资深工程师的路，正在崩塌](https://www.infoq.cn/article/YAp5zTKldz9fYuYkAuls?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 10:48
+
+#### [从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海](https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 10:00
+
+#### [从批处理迁移到微批次流式处理的实战经验](https://www.infoq.cn/article/AFqttwhIy3TAdjTNv8GJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 09:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [苹果、小米和华为618降价“亮刀”：一场关于毛利率的不对称战争](https://www.tmtpost.com/7991476.html)
+**发布时间**: 2026-05-18 15:48
+
+#### [谁在教千问认“好货”？](https://www.tmtpost.com/7991976.html)
+**发布时间**: 2026-05-18 15:36
+
+#### [地下管网龙头业绩稳增：现金流转正、一季报开门红，5万亿赛道进入兑现期](https://www.tmtpost.com/7987655.html)
+**发布时间**: 2026-05-18 15:32
+
+#### [清华学霸刚刚拿下IPO：给医疗工厂做机器人，市值破136亿](https://www.tmtpost.com/7991788.html)
+**发布时间**: 2026-05-18 15:29
+
+#### [一杯15.9元，“早八人的莫吉托”，瑞幸盯上1300亿元新生意](https://www.tmtpost.com/7991971.html)
+**发布时间**: 2026-05-18 15:26
+
+#### [2026长剧大战升级：上百部新剧扎堆，平台卷向何方？](https://www.tmtpost.com/7991953.html)
+**发布时间**: 2026-05-18 15:16
+
+#### [世界模型的门槛，谷歌可能迈过去了](https://www.tmtpost.com/7991943.html)
+**发布时间**: 2026-05-18 15:12
+
+#### [对话物理学家卡洛·罗韦利：时间真的存在吗？我们该如何重新理解时间](https://www.tmtpost.com/7991995.html)
+**发布时间**: 2026-05-18 15:12
+
+#### [回归“男人味”，衡水老白干触底反弹？](https://www.tmtpost.com/7992053.html)
+**发布时间**: 2026-05-18 15:08
+
+#### [从首飞到量产：中国商业航天的产能、资本与治理三重考验](https://www.tmtpost.com/7992001.html)
+**发布时间**: 2026-05-18 15:08
+
+#### [有人花了2.5亿美元，买断了你的AI搜索结果](https://www.tmtpost.com/7991964.html)
+**发布时间**: 2026-05-18 14:19
+
+#### [中际旭创不够看，CPO上游的爱德泰要上市了](https://www.tmtpost.com/7991790.html)
+**发布时间**: 2026-05-18 13:31
+
+#### [王慧文给AI投资画了一个框](https://www.tmtpost.com/7991745.html)
+**发布时间**: 2026-05-18 13:26
+
+#### [赛博套利时代：AI黄牛的灰色生意经](https://www.tmtpost.com/7991780.html)
+**发布时间**: 2026-05-18 13:20
+
+#### [千问、淘宝打通后，消费者更理智了？](https://www.tmtpost.com/7991795.html)
+**发布时间**: 2026-05-18 13:14
+
+#### [张雪两连冠，浙江国资又开心了](https://www.tmtpost.com/7991809.html)
+**发布时间**: 2026-05-18 13:07
+
+#### [百济神州正在接近生命周期的一次切换](https://www.tmtpost.com/7991810.html)
+**发布时间**: 2026-05-18 13:00
+
+#### [扫地机器人的蛋糕不够分了](https://www.tmtpost.com/7991814.html)
+**发布时间**: 2026-05-18 12:59
+
+#### [物理AI火了，我的一些新思考](https://www.tmtpost.com/7991655.html)
+**发布时间**: 2026-05-18 12:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
+**发布时间**: 2026-05-18 15:00
+
+#### [四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
+**发布时间**: 2026-05-18 11:02
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [来讨论下：HTML 一定比 Markdown 好？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533790&idx=1&sn=482a15e0a7bb883d4bc1a473b8bb845d)
+**发布时间**: 2026-05-18 13:32
+
+#### [推荐 8 个本周 YYDS 的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533773&idx=1&sn=2453c3940c24a3ada6fac1b362070b4e)
+**发布时间**: 2026-05-17 17:00
 
 ---
 

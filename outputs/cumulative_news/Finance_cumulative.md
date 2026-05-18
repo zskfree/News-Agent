@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-18 00:01
+**最后更新时间**: 2026-05-18 08:46
+
+---
+
+## 🆕 最新更新 (2026-05-18 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bonds extend sell-off on inflation fears](https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0)
+**发布时间**: 2026-05-18 08:29
+
+#### [Mortgage costs rise sharply on Middle East conflict](https://www.ft.com/content/5e7f4da1-6cb4-44d8-9bce-4ddad53c7fd1)
+**发布时间**: 2026-05-18 04:00
+
+#### [Donald Trump’s Iran war hits Americans with $40bn fuel bill](https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2)
+**发布时间**: 2026-05-18 04:00
+
+#### [Sweeping the strait: the companies gearing up to clear the Gulf of mines](https://www.ft.com/content/1a71f5cf-504c-4e28-af26-29d464634cd2)
+**发布时间**: 2026-05-18 04:00
+
+#### [How China enables American domination](https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7)
+**发布时间**: 2026-05-18 04:00
+
+#### [The Italianisation of Britain’s finances](https://www.ft.com/content/fa96e027-6727-484b-895b-c1f193b0ce35)
+**发布时间**: 2026-05-18 04:00
+
+#### [Germany goes from labour shortages to hiring freezes](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126)
+**发布时间**: 2026-05-18 04:00
+
+#### [Defence groups clamour to delay US ban on Chinese rare earth magnets](https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0)
+**发布时间**: 2026-05-18 04:00
+
+#### [China warns of ‘severe’ global conditions as economy shows weakness](https://www.ft.com/content/5b1dcd37-7567-4302-9f7a-424ec7e43ee0)
+**发布时间**: 2026-05-18 03:50
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate](https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 03:00
 
 ---
 
