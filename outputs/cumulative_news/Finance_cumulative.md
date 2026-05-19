@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-18 08:46
+**最后更新时间**: 2026-05-19 00:11
+
+---
+
+## 🆕 最新更新 (2026-05-19 00:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX IPO set to hand $20bn stake to one hedge fund](https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038)
+**发布时间**: 2026-05-18 23:50
+
+#### [US drops fraud charges against Asia’s richest person](https://www.ft.com/content/434fe893-570f-4449-9806-008807feb0a2)
+**发布时间**: 2026-05-18 22:52
+
+#### [Trump administration creates $1.8bn fund for victims of government ‘lawfare’](https://www.ft.com/content/9a0d6eee-8c63-4299-97ea-f9cccbad5566)
+**发布时间**: 2026-05-18 22:45
+
+#### [The US megadeal set to spark a fight over the cost of the AI boom](https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110)
+**发布时间**: 2026-05-18 22:33
+
+#### [Trump says he is holding off attack on Iran planned for Tuesday](https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3)
+**发布时间**: 2026-05-18 22:20
+
+#### [Musk loses case against OpenAI after two hours of jury deliberations](https://www.ft.com/content/cfc4de0d-0c45-42ee-843d-c2abf7638733)
+**发布时间**: 2026-05-18 20:59
+
+#### [US eases Russian oil sanctions in bid to contain Iran price surge](https://www.ft.com/content/df5fca22-d057-444f-b430-32623b196d00)
+**发布时间**: 2026-05-18 18:13
+
+#### [Trump and Xi will not determine Taiwan’s fate](https://www.ft.com/content/d072db90-5167-420b-a9b2-11e84c7c5c77)
+**发布时间**: 2026-05-18 11:23
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What NextEra and Dominion’s giant utility merger means for your electric bill](https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 23:19
+
+#### [Lululemon hits back at its founder after months of attacks, saying he’s just jealous](https://www.marketwatch.com/story/lululemon-hits-back-at-its-founder-after-months-of-attacks-saying-hes-just-jealous-e22522ec?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 22:42
+
+#### [Oil climbs as Trump warns the ‘clock is ticking’ on Iran, but there’s a bigger danger lurking on the horizon](https://www.marketwatch.com/story/oil-climbs-as-trump-warns-the-clock-is-ticking-on-iran-but-theres-a-bigger-danger-lurking-on-the-horizon-9dfa8129?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 22:23
+
+#### [ServiceNow’s stock notches best day in a year — flashing a green light for the software sector](https://www.marketwatch.com/story/servicenows-stock-heads-for-best-day-in-a-year-flashing-a-green-light-for-the-software-sector-2d916cfd?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 22:17
+
+#### [Ford takes its first big step toward being an energy business](https://www.marketwatch.com/story/ford-takes-its-first-big-step-toward-being-an-energy-business-b1d72bc2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 22:11
+
+#### [Palo Alto Networks hits a big milestone. Why cybersecurity stocks are so hot right now.](https://www.marketwatch.com/story/palo-alto-networks-hits-a-big-milestone-why-cybersecurity-stocks-are-so-hot-right-now-09e1c9bb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 21:42
+
+#### [The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know.](https://www.marketwatch.com/story/the-s-p-500-and-most-of-its-stocks-are-heading-in-opposite-directions-at-a-record-pace-what-investors-should-know-2a6c55a5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 21:25
+
+#### [Elon Musk loses his case against OpenAI and Sam Altman after just two hours of jury deliberation](https://www.marketwatch.com/story/elon-musk-has-lost-his-case-against-openai-and-sam-altman-b0998cff?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 21:22
+
+#### [The options market is flashing an ominous sign about Nvidia’s looming earnings](https://www.marketwatch.com/story/the-options-market-is-flashing-an-ominous-sign-about-nvidias-looming-earnings-2b55b7f4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-18 20:51
 
 ---
 

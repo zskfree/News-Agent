@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-18 08:46
+**最后更新时间**: 2026-05-19 00:11
+
+---
+
+## 🆕 最新更新 (2026-05-19 00:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】李强：推动人工智能与先进制造业深度融合；中金公司并购东兴、信达证券，交易价格定了；A股新“股王”，提示交易风险](https://www.tmtpost.com/7992786.html)
+**发布时间**: 2026-05-19 07:20
+
+#### [洛轴股份：高杠杆下的上市豪赌，“科创”外衣与资本焦虑难解 | IPO观察](https://www.tmtpost.com/7992855.html)
+**发布时间**: 2026-05-18 22:39
+
+#### [腾讯为什么推不出豆包](https://www.tmtpost.com/7992804.html)
+**发布时间**: 2026-05-18 22:06
+
+#### [【Fintech 周报】中国银行信用卡APP6月下线；支付宝回应“扣款捐赠184万元”](https://www.tmtpost.com/7992548.html)
+**发布时间**: 2026-05-18 21:09
+
+#### [“绍兴帮”卡线围猎金海高科，神秘人提前入局浮盈1.5亿](https://www.tmtpost.com/7992647.html)
+**发布时间**: 2026-05-18 20:02
+
+#### [百度Q1：搜索广告跌破半壁江山，AI云撑起新故事](https://www.tmtpost.com/7992627.html)
+**发布时间**: 2026-05-18 19:34
+
+#### [二次“卖身”折戟，先导电科上市之路或被豪华股东团“拖垮”|并购一线](https://www.tmtpost.com/7992609.html)
+**发布时间**: 2026-05-18 19:08
+
+#### [李华新为《浮生别院》作序：《改革开放下中国有志青年的国际舞台与浮生别院》](https://www.tmtpost.com/7992394.html)
+**发布时间**: 2026-05-18 18:33
+
+#### [刘晓庆为《浮生别院》作序：《生命里那团不灭的火焰》](https://www.tmtpost.com/7992386.html)
+**发布时间**: 2026-05-18 18:32
+
+#### [王宝强为《浮生别院》作序：《那个很懂我的兄弟》](https://www.tmtpost.com/7992375.html)
+**发布时间**: 2026-05-18 18:31
+
+#### [AI耳机爆发的前夜，韶音选择“慢下来”](https://www.tmtpost.com/7992332.html)
+**发布时间**: 2026-05-18 18:29
+
+#### [于正为《浮生别院》作序：《一时一景一心境》](https://www.tmtpost.com/7992085.html)
+**发布时间**: 2026-05-18 18:13
+
+#### [618来袭苹果17降价，之前华为畅享90为何大卖？](https://www.tmtpost.com/7991859.html)
+**发布时间**: 2026-05-18 18:13
+
+#### [拿下百年药企、进军医院市场，广药王老吉还能重回巅峰吗？](https://www.tmtpost.com/7992239.html)
+**发布时间**: 2026-05-18 18:13
+
+#### [何炅为《浮生别院》作序：《放心的小院》](https://www.tmtpost.com/7991989.html)
+**发布时间**: 2026-05-18 18:13
+
+#### [优酷用剧二代走捷径？](https://www.tmtpost.com/7992433.html)
+**发布时间**: 2026-05-18 18:12
+
+#### [赵何娟为《浮生别院》作序：在喧嚣深处，觅一处“浮生别院”](https://www.tmtpost.com/7991875.html)
+**发布时间**: 2026-05-18 18:12
+
+#### [日本车企为何在中国走向大溃败？](https://www.tmtpost.com/7992320.html)
+**发布时间**: 2026-05-18 17:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [时序存储：影响成本与性能的设计选择](https://www.infoq.cn/article/CADK5ijCqtBsfj2JLMOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 19:27
+
+#### [Cangjie：一门新的开源编译型语言，原生支持效应处理器和代数数据类型](https://www.infoq.cn/article/qoFJdpJ1GqkUBzg7yBQI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 17:10
+
+#### [Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势](https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 17:00
+
+#### [Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26](https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-18 16:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/109886)
+**发布时间**: 2026-05-18 18:05
 
 ---
 

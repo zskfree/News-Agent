@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2f51a1cbb2bece340108383cb1745f6741accb36d644198a952503bbe01d65d8": {
-        "title": "V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资",
-        "link": "https://www.tmtpost.com/7958219.html",
-        "published_date": "Sat, 18 Apr 2026 10:20:00 GMT",
-        "first_seen": "2026-04-18T08:56:20.042819"
-      },
-      "1b1310f18caf623f94bacd1126f1c4e2ab38934c9fae9b214cf816dc8590f8c3": {
-        "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
-        "link": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Apr 2026 14:12:00 GMT",
-        "first_seen": "2026-04-18T08:56:20.042828"
-      },
-      "36a11367364258827788205a5031635ea0095d1aa6c653b3f4ca0f2469c10d6f": {
-        "title": "“有了AI，人们却过得越来越累了”",
-        "link": "https://www.tmtpost.com/7957716.html",
-        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-18T08:56:20.042831"
-      },
-      "f63a720516a702e8d7f3bc69b2a13c418f0e760439036b64678762463d02d4e1": {
-        "title": "对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定",
-        "link": "https://www.tmtpost.com/7958198.html",
-        "published_date": "Sat, 18 Apr 2026 11:06:00 GMT",
-        "first_seen": "2026-04-18T08:56:20.042833"
-      },
-      "cc46960b5f83d2a5e8b4050950829535ce6a578624a50c0bf7c84600150c3bfc": {
-        "title": "五城突围80亿氢能试点：谁在为每公斤十元的价差买单",
-        "link": "https://www.tmtpost.com/7958174.html",
-        "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
-        "first_seen": "2026-04-18T08:56:20.042835"
-      },
-      "ee71d77617a098a9c0147b51e8ddaece8c0052f79eb6c3a129f59ecd9d2738eb": {
-        "title": "微软是如何穿越30年周期的",
-        "link": "https://www.tmtpost.com/7958334.html",
-        "published_date": "Sat, 18 Apr 2026 20:20:00 GMT",
-        "first_seen": "2026-04-18T23:39:52.714606"
-      },
-      "e325842d98b7738970b2924e4cf9e1953601980f27cbab2fbe5cd3485966b835": {
-        "title": "当核心人才可以被精准定价：DeepSeek遭遇人才困局",
-        "link": "https://www.tmtpost.com/7958318.html",
-        "published_date": "Sat, 18 Apr 2026 20:24:00 GMT",
-        "first_seen": "2026-04-18T23:39:52.714612"
-      },
-      "3ce29cbc9045ce31abf157842182b7620e82885e2d352111d0c9d7dc43aeb336": {
-        "title": "AI时代，音乐行业的钱会流向哪里？",
-        "link": "https://www.tmtpost.com/7958395.html",
-        "published_date": "Sat, 18 Apr 2026 20:20:00 GMT",
-        "first_seen": "2026-04-18T23:39:52.714614"
-      },
-      "374c1afc04443e67dee4c6d74c0410caaa15ef7db2a55f11a7db8b91c435933f": {
-        "title": "百度三战本地生活背后的生意逻辑",
-        "link": "https://www.tmtpost.com/7957471.html",
-        "published_date": "Sat, 18 Apr 2026 10:27:00 GMT",
-        "first_seen": "2026-04-18T23:39:52.714616"
-      },
-      "924bd9934bc3f2ceb64f59b48087fe7a1dcb2665b4a05019a7c1271dad7f7a97": {
-        "title": "美光科技正在助力市场上最火热的价值型ETF大幅跑赢大盘",
-        "link": "https://www.tmtpost.com/7958265.html",
-        "published_date": "Sat, 18 Apr 2026 11:07:00 GMT",
-        "first_seen": "2026-04-18T23:39:52.714618"
-      },
       "c1170058171b10482137aea92bf6497a77b15e16697a9116badfb33e6c6d264d": {
         "title": "吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争",
         "link": "https://www.tmtpost.com/7958630.html",
@@ -2611,39 +2551,39 @@
         "link": "https://www.infoq.cn/article/YIHbbObGsImxBNCpW1Ut?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 18 May 2026 14:24:00 GMT",
         "first_seen": "2026-05-18T08:47:28.789764"
+      },
+      "23e17d5c74f0c32cdcbac56b0baf030e119f78605cc2e912e8e8f0ac61a8c917": {
+        "title": "腾讯为什么推不出豆包",
+        "link": "https://www.tmtpost.com/7992804.html",
+        "published_date": "Mon, 18 May 2026 22:06:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.893910"
+      },
+      "720721bfc0084713dc9e256b643d8c55bdf8616acd6fe7efc7907141de9a36bf": {
+        "title": "日本车企为何在中国走向大溃败？",
+        "link": "https://www.tmtpost.com/7992320.html",
+        "published_date": "Mon, 18 May 2026 17:24:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.893915"
+      },
+      "4025cc4e95c4270823ce14c02a5969c6ca8a288ef9d55f2f18e08b71033b3aa7": {
+        "title": "百度Q1：搜索广告跌破半壁江山，AI云撑起新故事",
+        "link": "https://www.tmtpost.com/7992627.html",
+        "published_date": "Mon, 18 May 2026 19:34:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.893917"
+      },
+      "99f2298f43a3d7b44d6066cb72edbdf34c5137ebd723dcfe361e46b3c68d6c2a": {
+        "title": "王慧文给AI投资画了一个框",
+        "link": "https://www.tmtpost.com/7991745.html",
+        "published_date": "Mon, 18 May 2026 13:26:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.893918"
+      },
+      "d9bb3a0611d6c13b4e36076a2654de50abaf80438a47c63310b00a3cebcc5795": {
+        "title": "从首飞到量产：中国商业航天的产能、资本与治理三重考验",
+        "link": "https://www.tmtpost.com/7992001.html",
+        "published_date": "Mon, 18 May 2026 15:08:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.893920"
       }
     },
     "Finance": {
-      "087d2a0860f844d569c596912deb9a82daf71285c1783b2e747f3563c284b291": {
-        "title": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
-        "link": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
-        "published_date": "Sat, 18 Apr 2026 15:10:00 GMT",
-        "first_seen": "2026-04-18T23:39:31.934824"
-      },
-      "bb8dd0ba2f5706033ad0e75ce284c7bc49ae68b4c8d47c7a20589ae1fa2bacaa": {
-        "title": "Economic pain from Iran war will hit poor countries hardest, officials say",
-        "link": "https://www.ft.com/content/4e163a6e-c151-47da-9e3a-35ce5cd0dd06",
-        "published_date": "Sat, 18 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-18T23:39:31.934833"
-      },
-      "ae19f626754f681a3e90d6e5bd9ce07a1c06cdbab340e550d30e2da03f77dd3a": {
-        "title": "Big Tech’s giant headache: billions in AI capital spending and investors demanding quick results",
-        "link": "https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories",
-        "published_date": "Sat, 18 Apr 2026 19:43:00 GMT",
-        "first_seen": "2026-04-18T23:39:31.934836"
-      },
-      "4a487d9cee75a45d70be9d5cd2e1c25a598696c6ee1cefc421b01b228fc68902": {
-        "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
-        "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
-        "published_date": "Sat, 18 Apr 2026 22:42:00 GMT",
-        "first_seen": "2026-04-18T23:39:31.934838"
-      },
-      "e73216880431a4637ee191d4669ddc9f7668c1750bc26c2639306639afcf215b": {
-        "title": "This ‘hidden’ price of oil is going to hit your electric bill next",
-        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
-        "published_date": "Sat, 18 Apr 2026 19:16:00 GMT",
-        "first_seen": "2026-04-18T23:39:31.934839"
-      },
       "e05279ec6c20cf4c24938436870137129c44a20dac2fc0c3ce5e322020002d4d": {
         "title": "BlackRock warns of hit to European stocks from energy crisis",
         "link": "https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb",
@@ -4881,21 +4821,39 @@
         "link": "https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7",
         "published_date": "Mon, 18 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-18T08:47:01.858659"
+      },
+      "2139e7b20b19f77188fae2b8994ce8635635c94ea92e5a1f3461b171a2163c5e": {
+        "title": "The US megadeal set to spark a fight over the cost of the AI boom",
+        "link": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110",
+        "published_date": "Mon, 18 May 2026 22:33:00 GMT",
+        "first_seen": "2026-05-19T00:11:27.943880"
+      },
+      "ef0ccec6a517c552670b9104a9bd7959e292f886b3e227e4b5c4e4f423f9140c": {
+        "title": "US eases Russian oil sanctions in bid to contain Iran price surge",
+        "link": "https://www.ft.com/content/df5fca22-d057-444f-b430-32623b196d00",
+        "published_date": "Mon, 18 May 2026 18:13:00 GMT",
+        "first_seen": "2026-05-19T00:11:27.943890"
+      },
+      "e8cbb7562ebd3804f3ef3a901b55002cc6e4eb1e344de906bfb3445e6cf00b84": {
+        "title": "The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-and-most-of-its-stocks-are-heading-in-opposite-directions-at-a-record-pace-what-investors-should-know-2a6c55a5?mod=mw_rss_topstories",
+        "published_date": "Mon, 18 May 2026 21:25:00 GMT",
+        "first_seen": "2026-05-19T00:11:27.943892"
+      },
+      "a225b509d0f9fe20c77ff2d0a872ec3ff0cfc28115aa3f4dc26b824548fc3605": {
+        "title": "SpaceX IPO set to hand $20bn stake to one hedge fund",
+        "link": "https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038",
+        "published_date": "Mon, 18 May 2026 23:50:00 GMT",
+        "first_seen": "2026-05-19T00:11:27.943894"
+      },
+      "807c95997f08878fc57800842837c0514c30330544b5b9e8e6208f9ebdd2e0e3": {
+        "title": "What NextEra and Dominion’s giant utility merger means for your electric bill",
+        "link": "https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories",
+        "published_date": "Mon, 18 May 2026 23:19:00 GMT",
+        "first_seen": "2026-05-19T00:11:27.943895"
       }
     },
     "Ai": {
-      "8896e4751f121f1db83778c88b8c9d03f2b6b36f849ae7b97cf42cce93f70ebe": {
-        "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
-        "link": "https://www.qbitai.com/2026/04/402988.html",
-        "published_date": "Sat, 18 Apr 2026 15:58:00 GMT",
-        "first_seen": "2026-04-18T23:39:32.081501"
-      },
-      "dec32e13e9be351f7ad64dee7abd569c14df4e728c2582c15d03d5f48ff444f1": {
-        "title": "OpenClaw的风，已经吹进了奶茶圈",
-        "link": "https://www.qbitai.com/2026/04/402965.html",
-        "published_date": "Sat, 18 Apr 2026 15:48:00 GMT",
-        "first_seen": "2026-04-18T23:39:32.081509"
-      },
       "fc27710004f7a78ea51dbe070f20861593601a5958831928c6692a106085bd87": {
         "title": "2026-04-19日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-19/",
@@ -6179,13 +6137,43 @@
         "link": "https://www.qbitai.com/2026/05/419256.html",
         "published_date": "Mon, 18 May 2026 05:08:00 GMT",
         "first_seen": "2026-05-18T08:47:40.773242"
+      },
+      "7449e43b3e93794fa2efb71ab7ef6a1651de8c4fb461f1440711aaa4e19f7f5d": {
+        "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+        "link": "https://www.qbitai.com/2026/05/419585.html",
+        "published_date": "Mon, 18 May 2026 13:16:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.984123"
+      },
+      "26d466a379a63d84d5c3828670ceca7347fcf85b59e30f01d3de68f8c17e35ab": {
+        "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+        "link": "https://www.qbitai.com/2026/05/419528.html",
+        "published_date": "Mon, 18 May 2026 12:18:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.984130"
+      },
+      "3c4f211087287a080b04ceadd6599ca177bb6d9353d7a1b6df147042bd0f3cd5": {
+        "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+        "link": "https://www.qbitai.com/2026/05/419515.html",
+        "published_date": "Mon, 18 May 2026 10:26:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.984132"
+      },
+      "129714b85ce096e7b796b6588d99667934e26bfcb13dc0cfe84f4d8843326234": {
+        "title": "华为“养”出半个具身智能创业圈",
+        "link": "https://www.qbitai.com/2026/05/419414.html",
+        "published_date": "Mon, 18 May 2026 08:54:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.984133"
+      },
+      "a47037226cc0d081dd78db7541d99943945c7a00c5a509c5d8d069b267163e4f": {
+        "title": "2026-05-18日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-18/",
+        "published_date": "Mon, 18 May 2026 10:29:00 GMT",
+        "first_seen": "2026-05-19T00:11:52.984134"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-18T08:47:28.789766",
-    "Finance": "2026-05-18T08:47:01.858661",
-    "Ai": "2026-05-18T08:47:40.773244"
+    "Technology": "2026-05-19T00:11:52.893922",
+    "Finance": "2026-05-19T00:11:27.943897",
+    "Ai": "2026-05-19T00:11:52.984136"
   }
 }
