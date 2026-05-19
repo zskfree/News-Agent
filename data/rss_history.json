@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c1170058171b10482137aea92bf6497a77b15e16697a9116badfb33e6c6d264d": {
-        "title": "吴泳铭的“手术刀”：阿里的AI集权能否打赢Token战争",
-        "link": "https://www.tmtpost.com/7958630.html",
-        "published_date": "Sun, 19 Apr 2026 10:54:00 GMT",
-        "first_seen": "2026-04-19T06:50:25.681164"
-      },
-      "df9432bf84b4b4c9794371d0da747893ce27c947d4de8f4cf5ca3eb07ed16a46": {
-        "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
-        "link": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Apr 2026 08:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:25.681172"
-      },
-      "c0d79dcf0f96e233e141e95726bd0d53b1d085dc18ff08ca4f0c1891ee7e7b75": {
-        "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
-        "link": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Apr 2026 08:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:25.681174"
-      },
-      "e34f96a006a6a1b72866af8b4873d65285df38d09a66454d81bd4b6cad180dd1": {
-        "title": "10亿真金砸向氮化镓激光芯片，资本下注的远不止一块芯片",
-        "link": "https://www.tmtpost.com/7956924.html",
-        "published_date": "Sun, 19 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:25.681176"
-      },
-      "bc95fa968d2b7e7bae7ad6eae778c5b212f00a4145fa1d3eb70606da55cc3a2a": {
-        "title": "“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI",
-        "link": "https://www.tmtpost.com/7958735.html",
-        "published_date": "Sun, 19 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:25.681177"
-      },
       "6e53904ed9d3229aa46aac13ad5f897aa25b6e239a4181e158c7155503a3fe6e": {
         "title": "暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533076&idx=1&sn=245937e8333920bde9c4cf5900282618",
@@ -2581,39 +2551,39 @@
         "link": "https://www.tmtpost.com/7992001.html",
         "published_date": "Mon, 18 May 2026 15:08:00 GMT",
         "first_seen": "2026-05-19T00:11:52.893920"
+      },
+      "b815444af42f99acea6e96b22a0c622068ec94a701d1943c4b8fee775e17ae39": {
+        "title": "Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整",
+        "link": "https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 19 May 2026 16:07:00 GMT",
+        "first_seen": "2026-05-19T08:31:03.726616"
+      },
+      "eb9c94cf44f1bc4f8ab78922b57d833f066d0626e69270cdea90dc1845f16e55": {
+        "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
+        "link": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 19 May 2026 13:21:00 GMT",
+        "first_seen": "2026-05-19T08:31:03.726624"
+      },
+      "60f4db611eb8c2d3014168210b4dd2a6cc869aef2436a9c9abfd97692d3f695a": {
+        "title": "运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？",
+        "link": "https://www.tmtpost.com/7993452.html",
+        "published_date": "Tue, 19 May 2026 14:50:00 GMT",
+        "first_seen": "2026-05-19T08:31:03.726625"
+      },
+      "aed81d76fbaf55207f27672563f0b0342ab87f28515bd907b1b472adf17b458c": {
+        "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
+        "link": "https://sspai.com/post/109889",
+        "published_date": "Tue, 19 May 2026 11:04:00 GMT",
+        "first_seen": "2026-05-19T08:31:03.726628"
+      },
+      "adb015fb611de0c7d64b223c52ac5cbdb46f61846d7910ec3896cce8693ec3ba": {
+        "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
+        "link": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 19 May 2026 12:00:00 GMT",
+        "first_seen": "2026-05-19T08:31:03.726629"
       }
     },
     "Finance": {
-      "e05279ec6c20cf4c24938436870137129c44a20dac2fc0c3ce5e322020002d4d": {
-        "title": "BlackRock warns of hit to European stocks from energy crisis",
-        "link": "https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb",
-        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.004753"
-      },
-      "656e396ef1c273015a62291c52d841bbebb42c84b07893ee338ea1ea58416d92": {
-        "title": "Wealth advisers made more than $2bn from private capital fees",
-        "link": "https://www.ft.com/content/dbc5aac7-fbfd-466a-aa46-bc562f249cec",
-        "published_date": "Sun, 19 Apr 2026 04:09:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.004762"
-      },
-      "0c161592432ecdab5f1b6daa8f6d50d1901dc09384020e7ef1def7de54fad056": {
-        "title": "Surge in HMRC probes over unpaid VAT by large companies",
-        "link": "https://www.ft.com/content/75e7a380-4859-4f82-9859-c84429b56f92",
-        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.004765"
-      },
-      "0637792247505ba49932727ead75149f9eeb2740847e5092eeb8a7c119142e8b": {
-        "title": "Brussels pushes remote working to ease energy crisis",
-        "link": "https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21",
-        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.004767"
-      },
-      "c0adc7584c1848cfd6a4659f80bdeaa5bfe8caf00de315d75e4de25cb05206f3": {
-        "title": "The annoyance economy isn’t going anywhere",
-        "link": "https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7",
-        "published_date": "Sun, 19 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.004769"
-      },
       "767a46211cd780f73b1888f5872d96ab3840f878d62dfd13ad52f80746d65e8f": {
         "title": "Impact of Iran war will hurt US even after conflict ends, economists warn",
         "link": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a",
@@ -4851,39 +4821,39 @@
         "link": "https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories",
         "published_date": "Mon, 18 May 2026 23:19:00 GMT",
         "first_seen": "2026-05-19T00:11:27.943895"
+      },
+      "8be5530290cf8972e7b53269b1c03afbd753360217b802703a7cea9702cf5845": {
+        "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
+        "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 02:04:00 GMT",
+        "first_seen": "2026-05-19T08:30:37.850716"
+      },
+      "cfcacedaeb30456b180cfc41091dfc31c14b6caf9a7ddd815a1b5d681d0664a9": {
+        "title": "Investors warn of ‘correction’ risk as high-flying stocks defy bond gloom",
+        "link": "https://www.ft.com/content/ce55bdaa-2c80-410b-91b9-4bec5459e570",
+        "published_date": "Tue, 19 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-19T08:30:37.850727"
+      },
+      "46724dfb065118d53d2f75547c436765124334d7a71c39cad0bee24ca048411a": {
+        "title": "Google makes chip push with Blackstone-backed AI cloud group",
+        "link": "https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580",
+        "published_date": "Tue, 19 May 2026 02:18:00 GMT",
+        "first_seen": "2026-05-19T08:30:37.850730"
+      },
+      "575f3bf5b3dcf05bc1806779049d8465e7c75a60beb61a905687aeaa917dab58": {
+        "title": "Google DeepMind’s Demis Hassabis emerges as early Anthropic investor",
+        "link": "https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5",
+        "published_date": "Tue, 19 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-19T08:30:37.850731"
+      },
+      "93f3b149bb9cef0865fd1bf2ece829e18902053f11645e26843b29d2989943e5": {
+        "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+        "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 08:13:00 GMT",
+        "first_seen": "2026-05-19T08:30:37.850732"
       }
     },
     "Ai": {
-      "fc27710004f7a78ea51dbe070f20861593601a5958831928c6692a106085bd87": {
-        "title": "2026-04-19日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-19/",
-        "published_date": "Sun, 19 Apr 2026 09:46:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.157019"
-      },
-      "b05170a6f56491b5c7b54bc436ccc254bc8794962a33dd498ada36e6e58ddc56": {
-        "title": "马斯克来抖音卖老干妈了？？",
-        "link": "https://www.qbitai.com/2026/04/403308.html",
-        "published_date": "Sun, 19 Apr 2026 04:47:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.157028"
-      },
-      "c756df9a032ddf3c02d748da2bf950af9c0aa60f422c233257a7633e56d2c6a7": {
-        "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
-        "link": "https://www.qbitai.com/2026/04/403214.html",
-        "published_date": "Sun, 19 Apr 2026 04:25:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.157030"
-      },
-      "1e68cdf16bfbfec0682e0ed39632eb4b927ec294d8af09ccac2adf64f6a9f999": {
-        "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
-        "link": "https://www.qbitai.com/2026/04/403210.html",
-        "published_date": "Sun, 19 Apr 2026 04:14:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.157032"
-      },
-      "21fd82c55ddf2a5464a3f5db894635f58a811ee9343f74bf2a76f5f468f8bb92": {
-        "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
-        "link": "https://www.qbitai.com/2026/04/403126.html",
-        "published_date": "Sun, 19 Apr 2026 03:24:00 GMT",
-        "first_seen": "2026-04-19T06:50:08.157033"
-      },
       "a7c6019629147b29c5b1ddeb9f7bb2c04dbfa104e2fdf433e29db9190442c90f": {
         "title": "Kimi新论文：把KVCache玩成新商业模式了",
         "link": "https://www.qbitai.com/2026/04/403528.html",
@@ -6167,13 +6137,43 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-18/",
         "published_date": "Mon, 18 May 2026 10:29:00 GMT",
         "first_seen": "2026-05-19T00:11:52.984134"
+      },
+      "1ae3c12f9d8b81e2ae109162b70ae19292bfc51ccd2b85979b08932cdd32a7eb": {
+        "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+        "link": "https://www.qbitai.com/2026/05/419597.html",
+        "published_date": "Tue, 19 May 2026 01:52:00 GMT",
+        "first_seen": "2026-05-19T08:31:22.106430"
+      },
+      "b897ea68f7cffc1b2816d713256545f67e5c3692e6a8a2d2326692e19f53cacb": {
+        "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+        "link": "https://www.qbitai.com/2026/05/420084.html",
+        "published_date": "Tue, 19 May 2026 07:03:00 GMT",
+        "first_seen": "2026-05-19T08:31:22.106436"
+      },
+      "afd2086ea31cb4a2670376a7af893e293959ddb3001a33973696c251cd15f6cd": {
+        "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+        "link": "https://www.qbitai.com/2026/05/419822.html",
+        "published_date": "Tue, 19 May 2026 02:46:00 GMT",
+        "first_seen": "2026-05-19T08:31:22.106438"
+      },
+      "5f13ffe90485d28c1e5e92c7a368ea9d8fa326dc7ddf6512f2b8c836903db6d3": {
+        "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+        "link": "https://www.qbitai.com/2026/05/420083.html",
+        "published_date": "Tue, 19 May 2026 07:05:00 GMT",
+        "first_seen": "2026-05-19T08:31:22.106439"
+      },
+      "34eae7835fb4222ca9599eec7958683135748ec79810a3f81f8658c07673109c": {
+        "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+        "link": "https://www.qbitai.com/2026/05/419913.html",
+        "published_date": "Tue, 19 May 2026 05:11:00 GMT",
+        "first_seen": "2026-05-19T08:31:22.106440"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-19T00:11:52.893922",
-    "Finance": "2026-05-19T00:11:27.943897",
-    "Ai": "2026-05-19T00:11:52.984136"
+    "Technology": "2026-05-19T08:31:03.726631",
+    "Finance": "2026-05-19T08:30:37.850735",
+    "Ai": "2026-05-19T08:31:22.106442"
   }
 }

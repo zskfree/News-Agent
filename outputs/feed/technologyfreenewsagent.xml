@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 May 2026 00:11:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 00:11:52 GMT</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 08:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 08:31:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯为什么推不出豆包</title>
-      <link>https://www.tmtpost.com/7992804.html</link>
-      <description>&lt;![CDATA[腾讯为什么推不出豆包]]&gt;</description>
-      <pubDate>Mon, 18 May 2026 22:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992804.html</guid>
+      <title>Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整</title>
+      <link>https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>日本车企为何在中国走向大溃败？</title>
-      <link>https://www.tmtpost.com/7992320.html</link>
-      <description>&lt;![CDATA[日本车企为何在中国走向大溃败？]]&gt;</description>
-      <pubDate>Mon, 18 May 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992320.html</guid>
+      <title>Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练</title>
+      <link>https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百度Q1：搜索广告跌破半壁江山，AI云撑起新故事</title>
-      <link>https://www.tmtpost.com/7992627.html</link>
-      <description>&lt;![CDATA[百度Q1：搜索广告跌破半壁江山，AI云撑起新故事]]&gt;</description>
-      <pubDate>Mon, 18 May 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992627.html</guid>
+      <title>运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？</title>
+      <link>https://www.tmtpost.com/7993452.html</link>
+      <description>&lt;![CDATA[运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7993452.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>王慧文给AI投资画了一个框</title>
-      <link>https://www.tmtpost.com/7991745.html</link>
-      <description>&lt;![CDATA[王慧文给AI投资画了一个框]]&gt;</description>
-      <pubDate>Mon, 18 May 2026 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7991745.html</guid>
+      <title>YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？</title>
+      <link>https://sspai.com/post/109889</link>
+      <description>&lt;![CDATA[YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/109889</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从首飞到量产：中国商业航天的产能、资本与治理三重考验</title>
-      <link>https://www.tmtpost.com/7992001.html</link>
-      <description>&lt;![CDATA[从首飞到量产：中国商业航天的产能、资本与治理三重考验]]&gt;</description>
-      <pubDate>Mon, 18 May 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992001.html</guid>
+      <title>消息积压方面的数学知识：用于队列恢复的容量规划</title>
+      <link>https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[消息积压方面的数学知识：用于队列恢复的容量规划]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

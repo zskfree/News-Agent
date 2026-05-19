@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-19 00:11
+**最后更新时间**: 2026-05-19 08:30
+
+---
+
+## 🆕 最新更新 (2026-05-19 08:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整](https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:07
+
+#### [05·29 腾讯云「数据库+AI」产品发布会重磅启幕](https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 14:50
+
+#### [Airbnb 采用基于上下文的身份识别模型，支持隐私优先的社交功能](https://www.infoq.cn/article/IfmltpVtyyg7Lv9ruzzo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 13:46
+
+#### [Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练](https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 13:21
+
+#### [消息积压方面的数学知识：用于队列恢复的容量规划](https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 12:00
+
+#### [Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存](https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 10:18
+
+#### [小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海](https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [唐杰的上联，姚顺雨的下联](https://www.tmtpost.com/7993233.html)
+**发布时间**: 2026-05-19 15:23
+
+#### [独家一线调研：碳酸锂涨到多少，储能就玩不动了？](https://www.tmtpost.com/7993522.html)
+**发布时间**: 2026-05-19 15:22
+
+#### [吉利德深陷CAR-T泥潭](https://www.tmtpost.com/7993494.html)
+**发布时间**: 2026-05-19 14:58
+
+#### [Coding的中场战事](https://www.tmtpost.com/7993450.html)
+**发布时间**: 2026-05-19 14:50
+
+#### [运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？](https://www.tmtpost.com/7993452.html)
+**发布时间**: 2026-05-19 14:50
+
+#### [半价“平替”戴森被骂割韭菜，徕芬很委屈](https://www.tmtpost.com/7993418.html)
+**发布时间**: 2026-05-19 14:50
+
+#### [货拉拉七递港交所，周胜馥终面对赌局](https://www.tmtpost.com/7993414.html)
+**发布时间**: 2026-05-19 14:49
+
+#### [600亿，又一家造车新势力宣布破产](https://www.tmtpost.com/7993365.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [别催了，泡泡玛特想“慢”下来](https://www.tmtpost.com/7993355.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [租手机看演唱会，值吗？](https://www.tmtpost.com/7993300.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [91亿，智谱投的“包工头”要刷新最快IPO纪录](https://www.tmtpost.com/7993320.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [HRBP，AI时代真正的“铁饭碗”](https://www.tmtpost.com/7993265.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [3年！一个江苏人，把一家破产韩国船厂，干成全球第一](https://www.tmtpost.com/7993298.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [马斯克败诉，原因竟是起诉太晚](https://www.tmtpost.com/7993231.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元](https://www.tmtpost.com/7992602.html)
+**发布时间**: 2026-05-19 14:37
+
+#### [零食巨头为何扎堆“卖菜”？](https://www.tmtpost.com/7993101.html)
+**发布时间**: 2026-05-19 12:53
+
+#### [纯粹的仿制药巨头，不存在了](https://www.tmtpost.com/7993184.html)
+**发布时间**: 2026-05-19 12:53
+
+#### [套现寒武纪，豪买北方稀土，顶流资本大佬嗅到了什么？](https://www.tmtpost.com/7993206.html)
+**发布时间**: 2026-05-19 12:53
+
+#### [封测厂商“疯狂”扩产，供应链却还没准备好](https://www.tmtpost.com/7992552.html)
+**发布时间**: 2026-05-19 12:42
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [有人花 3 天做了个开源工具，一句话生成各种场景的 HTML。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533794&idx=1&sn=fdfd8d2964aad1c68bc9d48bae56eb74)
+**发布时间**: 2026-05-19 15:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
+**发布时间**: 2026-05-19 15:00
+
+#### [YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
+**发布时间**: 2026-05-19 11:04
+
+#### [派早报：红魔发布红魔 11S Pro 系列手机等](https://sspai.com/post/109908)
+**发布时间**: 2026-05-19 07:57
 
 ---
 

@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-19 00:11
+**最后更新时间**: 2026-05-19 08:30
+
+---
+
+## 🆕 最新更新 (2026-05-19 08:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?](https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 08:13
+
+#### [The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP](https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 02:04
+
+#### [‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?](https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 00:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel seizes 1,000 sq km under Netanyahu’s war strategy](https://www.ft.com/content/1c15fae2-8aaf-4e89-838b-8cdc1fa52858)
+**发布时间**: 2026-05-19 04:00
+
+#### [JD Vance stakes his claim](https://www.ft.com/content/652a8512-504e-4005-84bd-dae5917e5d04)
+**发布时间**: 2026-05-19 04:00
+
+#### [Why politicians struggle to read the public on immigration](https://www.ft.com/content/85c3f0de-9593-44a9-bb99-9f78e3dd4732)
+**发布时间**: 2026-05-19 04:00
+
+#### [Investors warn of ‘correction’ risk as high-flying stocks defy bond gloom](https://www.ft.com/content/ce55bdaa-2c80-410b-91b9-4bec5459e570)
+**发布时间**: 2026-05-19 04:00
+
+#### [Google DeepMind’s Demis Hassabis emerges as early Anthropic investor](https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5)
+**发布时间**: 2026-05-19 04:00
+
+#### [Google makes chip push with Blackstone-backed AI cloud group](https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580)
+**发布时间**: 2026-05-19 02:18
+
+#### [Putin and Xi to discuss huge gas project at China summit](https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132)
+**发布时间**: 2026-05-19 01:42
+
+#### [Xi told Trump that Putin might ‘regret’ invasion of Ukraine](https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d)
+**发布时间**: 2026-05-19 01:15
 
 ---
 
