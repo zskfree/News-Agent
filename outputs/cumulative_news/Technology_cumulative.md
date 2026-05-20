@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-20 00:09
+**最后更新时间**: 2026-05-20 08:28
+
+---
+
+## 🆕 最新更新 (2026-05-20 08:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断](https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 15:15
+
+#### [Arm 携手通义实验室，发起手机上的创意 AI 挑战赛](https://www.infoq.cn/article/LwYB2c8t1g9yrhp07kZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 15:05
+
+#### [基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响](https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 12:52
+
+#### [CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘](https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 12:41
+
+#### [外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？](https://www.infoq.cn/article/uLLYdtZdZu9sCQSyUcst?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:45
+
+#### [不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code](https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:38
+
+#### [Snowflake Intelligence：从回答问题到执行任务的个人工作 Agent ｜ 技术趋势](https://www.infoq.cn/article/V6ih0gWeKev3Cba6jaFl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:16
+
+#### [SolidJS 2.0 Beta：一级异步支持、重构的Suspense与确定性批处理](https://www.infoq.cn/article/zghzlOJDok66vqskki6o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:00
+
+#### [训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海](https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 10:00
+
+#### [如何在软件组织中扩展社会化的系统](https://www.infoq.cn/article/pbbEkUcqzHdLXb7VwrBE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 09:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI进入万亿Token时代，国产芯片如何构建行业壁垒？](https://www.tmtpost.com/7994949.html)
+**发布时间**: 2026-05-20 15:15
+
+#### [海尔的“金字招牌”卡萨帝，含金量正在走低](https://www.tmtpost.com/7995214.html)
+**发布时间**: 2026-05-20 14:54
+
+#### [和AI男友聊了一个月，我发现AI在给亲密关系埋雷](https://www.tmtpost.com/7995188.html)
+**发布时间**: 2026-05-20 14:36
+
+#### [《给阿嬷的情书》到底有何不同](https://www.tmtpost.com/7995168.html)
+**发布时间**: 2026-05-20 14:35
+
+#### [“文胸大王”汇洁股份：高分红、吃老本](https://www.tmtpost.com/7995092.html)
+**发布时间**: 2026-05-20 14:35
+
+#### [静默冰面之下：阿里、抖音、京东618 AI暗战](https://www.tmtpost.com/7995216.html)
+**发布时间**: 2026-05-20 14:34
+
+#### [谷歌不想再追赶ChatGPT](https://www.tmtpost.com/7995336.html)
+**发布时间**: 2026-05-20 14:32
+
+#### [为什么这些品牌成了外国游客追捧的「新特产」](https://www.tmtpost.com/7995010.html)
+**发布时间**: 2026-05-20 13:59
+
+#### [骂完预制菜，年轻人还是不想进厨房](https://www.tmtpost.com/7993792.html)
+**发布时间**: 2026-05-20 13:52
+
+#### [舱驾一体，为什么在2026年成为了热门技术趋势？](https://www.tmtpost.com/7993794.html)
+**发布时间**: 2026-05-20 13:47
+
+#### [A股暴跌近12%，单日市值蒸发约20亿元，CRO龙头泰格医药为何业绩崩盘？](https://www.tmtpost.com/7993928.html)
+**发布时间**: 2026-05-20 13:45
+
+#### [抹茶正在成为超级原料](https://www.tmtpost.com/7995006.html)
+**发布时间**: 2026-05-20 13:41
+
+#### [B站赚钱了，但陈睿又有了新烦恼](https://www.tmtpost.com/7994992.html)
+**发布时间**: 2026-05-20 13:35
+
+#### [当年拼尽全力“润”出去的人，开始打包行李回国了](https://www.tmtpost.com/7994791.html)
+**发布时间**: 2026-05-20 13:31
+
+#### [“AI泔水”降效增本，1154条开发者讨论，指向游戏行业新问题](https://www.tmtpost.com/7994983.html)
+**发布时间**: 2026-05-20 13:28
+
+#### [中国品牌，突然的全球化](https://www.tmtpost.com/7994918.html)
+**发布时间**: 2026-05-20 13:28
+
+#### [VLA已死，WAM当立：机器人的GPT时刻到了吗？](https://www.tmtpost.com/7994970.html)
+**发布时间**: 2026-05-20 13:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
+**发布时间**: 2026-05-20 15:05
+
+#### [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
+**发布时间**: 2026-05-20 11:00
+
+#### [派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
+**发布时间**: 2026-05-20 08:59
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533852&idx=1&sn=441378ed031a16a340915fb7c7d69cc6)
+**发布时间**: 2026-05-20 13:20
 
 ---
 

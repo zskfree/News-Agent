@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 May 2026 00:09:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 00:10:45 GMT</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 08:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 08:29:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元</title>
-      <link>https://www.tmtpost.com/7992602.html</link>
-      <description>&lt;![CDATA[中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 14:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992602.html</guid>
+      <title>基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响</title>
+      <link>https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路</title>
-      <link>https://www.tmtpost.com/7993834.html</link>
-      <description>&lt;![CDATA[独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7993834.html</guid>
+      <title>训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场</title>
-      <link>https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断</title>
+      <link>https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>封测厂商“疯狂”扩产，供应链却还没准备好</title>
-      <link>https://www.tmtpost.com/7992552.html</link>
-      <description>&lt;![CDATA[封测厂商“疯狂”扩产，供应链却还没准备好]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992552.html</guid>
+      <title>CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘</title>
+      <link>https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告</title>
-      <link>https://www.tmtpost.com/7994015.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7994015.html</guid>
+      <title>VLA已死，WAM当立：机器人的GPT时刻到了吗？</title>
+      <link>https://www.tmtpost.com/7994970.html</link>
+      <description>&lt;![CDATA[VLA已死，WAM当立：机器人的GPT时刻到了吗？]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7994970.html</guid>
       <category>Technology</category>
     </item>
   </channel>

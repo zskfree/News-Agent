@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-20 00:09
+**最后更新时间**: 2026-05-20 08:28
+
+---
+
+## 🆕 最新更新 (2026-05-20 08:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s Xi warns of ‘law of the jungle’ in Putin meeting](https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece)
+**发布时间**: 2026-05-20 05:52
+
+#### [EU mulls Merkel or Draghi as possible Putin whisperer](https://www.ft.com/content/1dc0f6c9-d06f-404b-ba5b-3cf2588bd467)
+**发布时间**: 2026-05-20 04:00
+
+#### [London’s economy loses its lustre](https://www.ft.com/content/1a3d44fa-a4dc-42d5-808a-fbc0aa254f95)
+**发布时间**: 2026-05-20 04:00
+
+#### [The Russian-born entrepreneur shaking up European rearmament](https://www.ft.com/content/730c8fca-2f51-49b3-9991-7b956ba443fb)
+**发布时间**: 2026-05-20 04:00
+
+#### [The Gulf crisis may just be starting](https://www.ft.com/content/fb290ca1-4fa0-4309-b406-8c850d0b2449)
+**发布时间**: 2026-05-20 04:00
+
+#### [Nvidia’s Huang bankrolls AI boom with $90bn deal spree](https://www.ft.com/content/c6b362b8-ab6b-4723-af48-28082bdfcac2)
+**发布时间**: 2026-05-20 04:00
+
+#### [Pennsylvania Democratic primary result signals shift to appeal to working class](https://www.ft.com/content/35961c92-6657-4264-b11d-53e9638d49e9)
+**发布时间**: 2026-05-20 02:40
+
+#### [Trump’s ‘worst’ Republican critic loses most expensive House primary ever](https://www.ft.com/content/29cd0b80-200b-4809-825b-b65bb5b4f8bf)
+**发布时间**: 2026-05-20 00:24
+
+#### [Morgan Stanley issues China-only iPhones to its Hong Kong bankers](https://www.ft.com/content/7674f883-1f58-4601-a291-d94d25ea8b20)
+**发布时间**: 2026-05-19 23:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk ditched California, but the state will get a much-needed win from SpaceX’s IPO](https://www.marketwatch.com/story/elon-musk-ditched-california-but-the-state-will-get-a-much-needed-win-from-spacexs-ipo-b2efac93?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 02:31
+
+#### [Writing your own obituary can help you live a better life. Here’s how to get started.](https://www.marketwatch.com/story/writing-your-own-obituary-can-help-you-live-a-better-life-heres-how-to-get-started-d3076941?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 02:27
+
+#### [Is RFK Jr.’s ‘carnivore diet’ healthy? Here’s what you need to know.](https://www.marketwatch.com/story/is-rfks-carnivore-diet-healthy-heres-what-you-need-to-know-26d7539d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 02:18
+
+#### [Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk](https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 01:11
+
+#### [I’m selling my $1 million home. Will my agent really charge less than a 6% commission?](https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 00:01
 
 ---
 

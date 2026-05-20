@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8033c3049d370f8f62d9b60b9b8b9bbcc44eafb54851df7e12a098531bce18da": {
-        "title": "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择",
-        "link": "https://www.tmtpost.com/7959286.html",
-        "published_date": "Mon, 20 Apr 2026 13:39:00 GMT",
-        "first_seen": "2026-04-20T07:20:08.874961"
-      },
-      "16fb6543b09585bad29adfc144f35a77bb0aaf65d2179160f5b20d0548d12571": {
-        "title": "“开源已死”？怕被 OpenAI 和 Mythos 把代码挖成筛子，4 万 Star 项目突然闭源！",
-        "link": "https://www.infoq.cn/article/7BfrHmegIaitwiTb40Rl?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 14:07:00 GMT",
-        "first_seen": "2026-04-20T07:20:08.874966"
-      },
-      "a0c5b5f95c6deb45a3227682f951323112fcc2d517d8d42cfb2fd3d6195cbdf7": {
-        "title": "谷歌推出 TurboQuant 压缩技术，有望在低性能硬件上以更快的推理速度提供相同的准确率",
-        "link": "https://www.infoq.cn/article/T8zMkEAi0ZcalK2ZfhcL?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-20T07:20:08.874968"
-      },
-      "446f4b96b5cad196990c05879b63d332cf76c02047925ea066bfb4d2c08c2cb8": {
-        "title": "具身智能公司开始积极「进厂」打工",
-        "link": "https://www.tmtpost.com/7959655.html",
-        "published_date": "Mon, 20 Apr 2026 14:32:00 GMT",
-        "first_seen": "2026-04-20T07:20:08.874970"
-      },
-      "4f30863fe8f3646b2d254d357848a54e65bf681b6044c8b7574eb8fcca24a6e9": {
-        "title": "AI芯片初创公司，进入“斩杀线”？",
-        "link": "https://www.tmtpost.com/7959344.html",
-        "published_date": "Mon, 20 Apr 2026 13:55:00 GMT",
-        "first_seen": "2026-04-20T07:20:08.874971"
-      },
       "39babf4d6ff79bdcb723788ea7a08a254f2c2c6c375db832ed21433038a40631": {
         "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
         "link": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/7994015.html",
         "published_date": "Wed, 20 May 2026 07:20:00 GMT",
         "first_seen": "2026-05-20T00:10:45.391782"
+      },
+      "10b4857aae699d45b3325b9f56d4540230dd635a80ee78bef0a3f2bb26a2ccf9": {
+        "title": "基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "link": "https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 20 May 2026 12:52:00 GMT",
+        "first_seen": "2026-05-20T08:29:12.995525"
+      },
+      "4c6acf2dfa0ba02c023bcd8ed2b5e0577bed8580b0061ba92fd007840c7c037e": {
+        "title": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+        "link": "https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 20 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-20T08:29:12.995531"
+      },
+      "d330bff8989dbd25609b7a55d9b87456a2605e959c78487ca4bf5233f9b1724c": {
+        "title": "一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断",
+        "link": "https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 20 May 2026 15:15:00 GMT",
+        "first_seen": "2026-05-20T08:29:12.995533"
+      },
+      "809b19dafe3f65161697083313ebe23dd8ad3aa149a32fdc5b454442ec5b4f56": {
+        "title": "CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘",
+        "link": "https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 20 May 2026 12:41:00 GMT",
+        "first_seen": "2026-05-20T08:29:12.995535"
+      },
+      "eeed768148d14ec442c48ca84906af0e624acf4706a80a69a048ecd50fe387ff": {
+        "title": "VLA已死，WAM当立：机器人的GPT时刻到了吗？",
+        "link": "https://www.tmtpost.com/7994970.html",
+        "published_date": "Wed, 20 May 2026 13:26:00 GMT",
+        "first_seen": "2026-05-20T08:29:12.995536"
       }
     },
     "Finance": {
-      "979ae626c186a322537df15ccdfb03b27990c5cffbb4caadde4e16f675ebd391": {
-        "title": "Kevin Warsh: Trump’s next fall guy at the Fed?",
-        "link": "https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d",
-        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.063461"
-      },
-      "7877d0c781bd1b94a58a3832bdd48f50535042f9f414fafa825626597192903d": {
-        "title": "Russian economy is faltering despite oil windfall, Sweden warns",
-        "link": "https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd",
-        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.063468"
-      },
-      "d5c9f2827f9bd1a54c283e7f44e6cf37eaf44f62bf560bc096c086a53e27bc1b": {
-        "title": "The return of the e-merging markets",
-        "link": "https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8",
-        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.063471"
-      },
-      "d24181eae6d7545cdf6bd4367802239c68332290741b0c2aa9483247db92e6e4": {
-        "title": "Tariff refunds are coming: Here’s who will get them first",
-        "link": "https://www.marketwatch.com/story/tariff-refunds-are-coming-heres-who-will-get-them-first-04ae0e75?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 06:48:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.063472"
-      },
-      "4fdf3d037c491f5217acb030db2884c2127432f3448a82917c3148475f9061c8": {
-        "title": "FTSE bosses receive 18% pay bump this year in global fight for talent",
-        "link": "https://www.ft.com/content/474f0ddb-b9ad-4d09-89e6-928dd98a7650",
-        "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.063474"
-      },
       "dd9652ea8d1fab9b531428834269f5974d8ad6629e0f574a0a74cd7d3279bcba": {
         "title": "Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty",
         "link": "https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories",
@@ -4821,15 +4791,39 @@
         "link": "https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories",
         "published_date": "Tue, 19 May 2026 20:29:00 GMT",
         "first_seen": "2026-05-20T00:10:12.202082"
+      },
+      "75a3624f93ff4c28a4e4d8f95d03ca1f752421470d5c64e0db0ed749f41ecd68": {
+        "title": "Nvidia’s Huang bankrolls AI boom with $90bn deal spree",
+        "link": "https://www.ft.com/content/c6b362b8-ab6b-4723-af48-28082bdfcac2",
+        "published_date": "Wed, 20 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-20T08:28:37.639626"
+      },
+      "eb82c6f2a6addda47fa476dad42b55c1b942873c71dc2b2e21db008fb41ee897": {
+        "title": "Elon Musk ditched California, but the state will get a much-needed win from SpaceX’s IPO",
+        "link": "https://www.marketwatch.com/story/elon-musk-ditched-california-but-the-state-will-get-a-much-needed-win-from-spacexs-ipo-b2efac93?mod=mw_rss_topstories",
+        "published_date": "Wed, 20 May 2026 02:31:00 GMT",
+        "first_seen": "2026-05-20T08:28:37.639635"
+      },
+      "96649cb145ef864ee97667cb688be2ef0f77762eae03e320732df7acf6f9f5e4": {
+        "title": "China’s Xi warns of ‘law of the jungle’ in Putin meeting",
+        "link": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
+        "published_date": "Wed, 20 May 2026 05:52:00 GMT",
+        "first_seen": "2026-05-20T08:28:37.639638"
+      },
+      "dfd6a7cbc425aee7d2ce6c1c63b1bf4677475f0a4f3f2e4a9a5548d5ce56491f": {
+        "title": "The Gulf crisis may just be starting",
+        "link": "https://www.ft.com/content/fb290ca1-4fa0-4309-b406-8c850d0b2449",
+        "published_date": "Wed, 20 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-20T08:28:37.639640"
+      },
+      "767a227664f37f3ec12691765158b96e73fd4f499a479412a869a2135336c0f3": {
+        "title": "London’s economy loses its lustre",
+        "link": "https://www.ft.com/content/1a3d44fa-a4dc-42d5-808a-fbc0aa254f95",
+        "published_date": "Wed, 20 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-20T08:28:37.639641"
       }
     },
     "Ai": {
-      "036dd51ba7f15b516e16b6153a7933259bc3b89e60d90d412f923141150a27c9": {
-        "title": "2026-04-20日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-20/",
-        "published_date": "Mon, 20 Apr 2026 10:08:00 GMT",
-        "first_seen": "2026-04-20T07:19:40.187036"
-      },
       "333e328d95ba6e86818320a4ca7c7da04bd9ea3d59d8284295f611f08e266d62": {
         "title": "阿里发布Wan2.7-Image，人类偏好盲测评分国内第一",
         "link": "https://www.qbitai.com/2026/04/403733.html",
@@ -6125,13 +6119,43 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-19/",
         "published_date": "Tue, 19 May 2026 10:41:00 GMT",
         "first_seen": "2026-05-20T00:10:45.506490"
+      },
+      "a416ca2184d674bebf54b43403a5e8790c932647b234b5e174422f951b985d85": {
+        "title": "2026-05-20日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-20/",
+        "published_date": "Wed, 20 May 2026 10:38:00 GMT",
+        "first_seen": "2026-05-20T08:29:13.116025"
+      },
+      "5bf29d667a0c98c49179c8614997cb612e918b6091635b028439f05fe55c8ca9": {
+        "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
+        "link": "https://www.qbitai.com/2026/05/420681.html",
+        "published_date": "Wed, 20 May 2026 07:27:00 GMT",
+        "first_seen": "2026-05-20T08:29:13.116032"
+      },
+      "ab36bf2c70d67d45ada343c3937bcbd9ce78adad31211855de94c7dd9649b823": {
+        "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+        "link": "https://www.qbitai.com/2026/05/420656.html",
+        "published_date": "Wed, 20 May 2026 05:59:00 GMT",
+        "first_seen": "2026-05-20T08:29:13.116035"
+      },
+      "6d358c5e2f72fd1f6bc039e8192d5daa886494304f330e706dc7c0a6f9340b39": {
+        "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
+        "link": "https://www.qbitai.com/2026/05/420651.html",
+        "published_date": "Wed, 20 May 2026 05:29:00 GMT",
+        "first_seen": "2026-05-20T08:29:13.116036"
+      },
+      "206b46c9be9adeb39db9bcf56eaf41769cf96f2485a21c8441a5384920901b88": {
+        "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+        "link": "https://www.qbitai.com/2026/05/420531.html",
+        "published_date": "Wed, 20 May 2026 00:48:00 GMT",
+        "first_seen": "2026-05-20T08:29:13.116037"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-20T00:10:45.391785",
-    "Finance": "2026-05-20T00:10:12.202084",
-    "Ai": "2026-05-20T00:10:45.506492"
+    "Technology": "2026-05-20T08:29:12.995539",
+    "Finance": "2026-05-20T08:28:37.639644",
+    "Ai": "2026-05-20T08:29:13.116039"
   }
 }
