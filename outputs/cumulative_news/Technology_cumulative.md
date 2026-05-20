@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-19 08:30
+**最后更新时间**: 2026-05-20 00:09
+
+---
+
+## 🆕 最新更新 (2026-05-20 00:09)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告](https://www.tmtpost.com/7994015.html)
+**发布时间**: 2026-05-20 07:20
+
+#### [债券市场迫使人们直面现实，特朗普无力阻止这一切](https://www.tmtpost.com/7994059.html)
+**发布时间**: 2026-05-19 22:21
+
+#### [一季度AI广告收入暴涨170%，B站：模型没有，广告管够](https://www.tmtpost.com/7994018.html)
+**发布时间**: 2026-05-19 22:09
+
+#### [“果链”巨头拟收购巨腾国际约27.81%已发行股份；“纸尿裤材料大王”终止收购集成电路资产，公司股价20cm跌停【并购一线】](https://www.tmtpost.com/7993330.html)
+**发布时间**: 2026-05-19 20:49
+
+#### [“忽悠式”回购“翻车”，广汇能源与“新疆首富”仍在困局之中](https://www.tmtpost.com/7993965.html)
+**发布时间**: 2026-05-19 20:49
+
+#### [广州酒家拟发10亿可转债再启扩张，增收不增利困局待解](https://www.tmtpost.com/7993857.html)
+**发布时间**: 2026-05-19 19:48
+
+#### [独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路](https://www.tmtpost.com/7993834.html)
+**发布时间**: 2026-05-19 19:26
+
+#### [特朗普再次访华！6本书看懂中美会谈的关键](https://www.tmtpost.com/7993651.html)
+**发布时间**: 2026-05-19 17:45
+
+#### [“搞钱”，才是Revolution千亿神话密码](https://www.tmtpost.com/7993648.html)
+**发布时间**: 2026-05-19 17:38
+
+#### [前瞻2026丨即饮咖啡，走到“十字路口”？](https://www.tmtpost.com/7993626.html)
+**发布时间**: 2026-05-19 17:35
+
+#### [体面退场，或许也是三星手机最好的“归宿”](https://www.tmtpost.com/7993646.html)
+**发布时间**: 2026-05-19 17:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Moonrepo发布moon v2.0：引入WASM插件工具链并重构CLI](https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 19:28
+
+#### [蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式](https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 18:54
+
+#### [Pinterest 工程师消除 CPU 僵尸进程，解决生产环境瓶颈](https://www.infoq.cn/article/lbvCd6Ba01X8hgxwS1G3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 18:04
+
+#### [AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场](https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:50
+
+#### [8大岗位AI技能图谱](https://www.infoq.cn/minibook/TiDmbxOjtLAqgX12x5Ip?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-19 16:46
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意](https://sspai.com/post/109928)
+**发布时间**: 2026-05-19 17:03
 
 ---
 

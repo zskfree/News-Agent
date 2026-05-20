@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6e53904ed9d3229aa46aac13ad5f897aa25b6e239a4181e158c7155503a3fe6e": {
-        "title": "暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533076&idx=1&sn=245937e8333920bde9c4cf5900282618",
-        "published_date": "Sun, 19 Apr 2026 11:28:00 GMT",
-        "first_seen": "2026-04-19T08:58:55.383104"
-      },
-      "b83212476220885218b16cf299294ef1bf5bc65d58a33915dcf1f41e11aa5ed3": {
-        "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
-        "link": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-19T08:58:55.383112"
-      },
-      "e3f6e795fc115274bd820fd07ec726fb792fe5f847f626028522f1e8ff6c5635": {
-        "title": "机器人马拉松跑赢人   但“有限性”就是人类的护城河",
-        "link": "https://www.tmtpost.com/7958835.html",
-        "published_date": "Sun, 19 Apr 2026 16:33:00 GMT",
-        "first_seen": "2026-04-19T08:58:55.383115"
-      },
-      "1a0bd23efe2c182dde9bca25de4d39b1e7b1923d39d131df914c2407fdfb9db5": {
-        "title": "三年亏14亿，千亿芯片巨头辟谣“友商抢单”",
-        "link": "https://www.tmtpost.com/7958586.html",
-        "published_date": "Sun, 19 Apr 2026 10:54:00 GMT",
-        "first_seen": "2026-04-19T08:58:55.383117"
-      },
-      "83ea81065fdf5abb97a045ed4250acfd5faffddcf6b4610052af4f13b284986e": {
-        "title": "宇树证明了自己，现在轮到智元了",
-        "link": "https://www.tmtpost.com/7958725.html",
-        "published_date": "Sun, 19 Apr 2026 10:34:00 GMT",
-        "first_seen": "2026-04-19T08:58:55.383118"
-      },
-      "4f5e4365ee3add9db611275c994a14979c126fc71aa3d97a06d190cbbf0fc91e": {
-        "title": "【数智周报】DeepSeek据悉正首次洽谈外部资本，估值超100亿美元；台积电CEO：全力扩产仍难以满足强劲AI需求；斯坦福报告：中美顶级大模型差距“实质性消除”",
-        "link": "https://www.tmtpost.com/7958991.html",
-        "published_date": "Sun, 19 Apr 2026 20:05:00 GMT",
-        "first_seen": "2026-04-19T23:39:41.203159"
-      },
-      "a053d802cf8b58977b059eb5aa71b8f1aaf52036160f9842d0467ec3e2b6152a": {
-        "title": "一年时间，机器人从“马拉松笑话”到超越“最强人类”",
-        "link": "https://www.tmtpost.com/7958826.html",
-        "published_date": "Sun, 19 Apr 2026 16:59:00 GMT",
-        "first_seen": "2026-04-19T23:39:41.203165"
-      },
-      "127fffe8e668a2b7ecca0deee363f529bc0ed30adbc2cb6f9d26491c8c867b48": {
-        "title": "眼镜之后，AI指环、项链争抢智能穿戴万亿风口",
-        "link": "https://www.tmtpost.com/7958958.html",
-        "published_date": "Sun, 19 Apr 2026 20:22:00 GMT",
-        "first_seen": "2026-04-19T23:39:41.203167"
-      },
-      "c68844067a8f41155f79ec4724bee3c9e723ebf46aaf727a7cc001afff402829": {
-        "title": "DeepSeek需要重走来时路",
-        "link": "https://www.tmtpost.com/7958810.html",
-        "published_date": "Sun, 19 Apr 2026 16:13:00 GMT",
-        "first_seen": "2026-04-19T23:39:41.203169"
-      },
-      "95b78107756fb46a9b32cae70c54e07ce02fab26938f8ae4b77d0fbd7e495da1": {
-        "title": "【钛晨报】农业农村部召开生猪产业发展座谈会：推动猪价合理回升；荣耀机器人包揽北京亦庄机器人半马比赛前三；特斯拉Robotaxi服务扩展至达拉斯、休斯顿",
-        "link": "https://www.tmtpost.com/7958970.html",
-        "published_date": "Mon, 20 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-19T23:39:41.203170"
-      },
       "8033c3049d370f8f62d9b60b9b8b9bbcc44eafb54851df7e12a098531bce18da": {
         "title": "OpenAI的浮士德交易：8520亿估值下的组织转型与IPO选择",
         "link": "https://www.tmtpost.com/7959286.html",
@@ -2581,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 19 May 2026 12:00:00 GMT",
         "first_seen": "2026-05-19T08:31:03.726629"
+      },
+      "abfd55b2b7b3322fd481f463a6b17a38e8cf163b9b564f0db8c17dd90b62e660": {
+        "title": "中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元",
+        "link": "https://www.tmtpost.com/7992602.html",
+        "published_date": "Tue, 19 May 2026 14:37:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.391769"
+      },
+      "eb6b74df9d42f96ad53e746803c354a25b7da15b43cc22350c31872088f8a595": {
+        "title": "独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路",
+        "link": "https://www.tmtpost.com/7993834.html",
+        "published_date": "Tue, 19 May 2026 19:26:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.391777"
+      },
+      "a01453491f3df5c04f1e0e34f5fcaf0de673c4ef9a9acb666e5af03c39123fca": {
+        "title": "AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场",
+        "link": "https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 19 May 2026 16:50:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.391779"
+      },
+      "c08fe40e1f4c7457b6bb643bf9cba9bcf1aa8307e2471279a50b3d1eac635131": {
+        "title": "封测厂商“疯狂”扩产，供应链却还没准备好",
+        "link": "https://www.tmtpost.com/7992552.html",
+        "published_date": "Tue, 19 May 2026 12:42:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.391781"
+      },
+      "2ae3d1fda7d5f3d8666dcc595c398ed5594008dc56d246a0b5cfc2c30c8b262a": {
+        "title": "【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告",
+        "link": "https://www.tmtpost.com/7994015.html",
+        "published_date": "Wed, 20 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.391782"
       }
     },
     "Finance": {
-      "767a46211cd780f73b1888f5872d96ab3840f878d62dfd13ad52f80746d65e8f": {
-        "title": "Impact of Iran war will hurt US even after conflict ends, economists warn",
-        "link": "https://www.ft.com/content/80436d72-25e1-4a97-be09-3327c2d0af9a",
-        "published_date": "Sun, 19 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.711893"
-      },
-      "5d33a4e026a6cf4c5f711e0a65fbe414e69269e054e426f72538a0d82261cb0a": {
-        "title": "The stock market’s new approach to valuation",
-        "link": "https://www.ft.com/content/7227583f-3335-4cc2-a1af-24db59ebe3fa",
-        "published_date": "Sun, 19 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.711903"
-      },
-      "4344c57dfdebcf902e4c40d563f2e17fded04a82bd048617a85c79db7ed3168a": {
-        "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here’s why it can keep going.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories",
-        "published_date": "Sun, 19 Apr 2026 20:41:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.711906"
-      },
-      "d8f5e9e69f264d095dfbe38a43a8a75caad395c377d987be91fa6d371d7c7b1f": {
-        "title": "Foreign carmakers turn to Chinese technology to remain relevant",
-        "link": "https://www.ft.com/content/b17b605a-ac5d-4456-928b-7c19ea6c05b9",
-        "published_date": "Sun, 19 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.711908"
-      },
-      "869148dc15ae1978678d11c699c6a070e20c744017566abd66b8a99242a393e8": {
-        "title": "Property asking prices rise in April despite higher UK mortgage rates",
-        "link": "https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171",
-        "published_date": "Sun, 19 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.711910"
-      },
       "979ae626c186a322537df15ccdfb03b27990c5cffbb4caadde4e16f675ebd391": {
         "title": "Kevin Warsh: Trump’s next fall guy at the Fed?",
         "link": "https://www.ft.com/content/a11d75a8-5885-4d65-97c1-0cab85f7df4d",
@@ -4851,33 +4791,39 @@
         "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
         "published_date": "Tue, 19 May 2026 08:13:00 GMT",
         "first_seen": "2026-05-19T08:30:37.850732"
+      },
+      "787f002cfd598a84a2d18e3c18afc200bc2f39db6795ca09bca0a723fb30b632": {
+        "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
+        "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 23:56:00 GMT",
+        "first_seen": "2026-05-20T00:10:12.202062"
+      },
+      "da4b4448ed8dd5b1ef210044ea47df1b329231b03ddabe5c0f516a4a3ff3f7ce": {
+        "title": "These charts offer a warning: A new era of higher Treasury yields may be coming",
+        "link": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 21:46:00 GMT",
+        "first_seen": "2026-05-20T00:10:12.202075"
+      },
+      "1e2d5eb85f6d524b86d1c7bc2a9b0a3054dca3d14d351bd3bd925d3d9b37a741": {
+        "title": "Trump says he’ll let Warsh ‘do what he wants to do’ with interest rates. It’s a remark that Fed watchers have been bracing for.",
+        "link": "https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 20:18:00 GMT",
+        "first_seen": "2026-05-20T00:10:12.202078"
+      },
+      "247529977482b506bbde1e2873e73de6ba586f3c5b95ccca1be9f90e7bff724f": {
+        "title": "CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead",
+        "link": "https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 20:41:00 GMT",
+        "first_seen": "2026-05-20T00:10:12.202080"
+      },
+      "ac14e59f30d73295417b60ea41493e5afb1c1bab1a41d84ac56bfb328a5440de": {
+        "title": "Shein’s reported purchase of Everlane shows that price trumps principles for many shoppers today",
+        "link": "https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories",
+        "published_date": "Tue, 19 May 2026 20:29:00 GMT",
+        "first_seen": "2026-05-20T00:10:12.202082"
       }
     },
     "Ai": {
-      "a7c6019629147b29c5b1ddeb9f7bb2c04dbfa104e2fdf433e29db9190442c90f": {
-        "title": "Kimi新论文：把KVCache玩成新商业模式了",
-        "link": "https://www.qbitai.com/2026/04/403528.html",
-        "published_date": "Sun, 19 Apr 2026 10:19:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.861261"
-      },
-      "f5625830b16762c3ddec9cf22a2c55c70eceda789d7433ab022718e9785273c6": {
-        "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
-        "link": "https://www.qbitai.com/2026/04/403226.html",
-        "published_date": "Sun, 19 Apr 2026 10:13:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.861269"
-      },
-      "aa609be93470e1b7a77691c05747b94216f41b1642bd5b8d5c22c711b08660ba": {
-        "title": "大模型架构的下半场",
-        "link": "https://www.qbitai.com/2026/04/403515.html",
-        "published_date": "Sun, 19 Apr 2026 10:12:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.861271"
-      },
-      "1e79c6caa63b53c66dd794bfb0d39b54ce82f2356e50c8238bb605a16b692c30": {
-        "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
-        "link": "https://www.qbitai.com/2026/04/403505.html",
-        "published_date": "Sun, 19 Apr 2026 07:50:00 GMT",
-        "first_seen": "2026-04-19T23:39:24.861272"
-      },
       "036dd51ba7f15b516e16b6153a7933259bc3b89e60d90d412f923141150a27c9": {
         "title": "2026-04-20日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-20/",
@@ -6167,13 +6113,25 @@
         "link": "https://www.qbitai.com/2026/05/419913.html",
         "published_date": "Tue, 19 May 2026 05:11:00 GMT",
         "first_seen": "2026-05-19T08:31:22.106440"
+      },
+      "60bfba5a2b6c4e0517212d2b7f96d985be8dc9bb3dced4808e05087ffb6bea8b": {
+        "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+        "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+        "published_date": "Tue, 19 May 2026 17:52:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.506481"
+      },
+      "9ac6471e60a0284fa2fead5f28515ea98fc3c5b52e375676ed84962adb2aac62": {
+        "title": "2026-05-19日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-19/",
+        "published_date": "Tue, 19 May 2026 10:41:00 GMT",
+        "first_seen": "2026-05-20T00:10:45.506490"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-19T08:31:03.726631",
-    "Finance": "2026-05-19T08:30:37.850735",
-    "Ai": "2026-05-19T08:31:22.106442"
+    "Technology": "2026-05-20T00:10:45.391785",
+    "Finance": "2026-05-20T00:10:12.202084",
+    "Ai": "2026-05-20T00:10:45.506492"
   }
 }

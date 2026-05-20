@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 May 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 08:31:22 GMT</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 00:07:00 GMT</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 00:10:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了</title>
-      <link>https://www.qbitai.com/2026/05/419597.html</link>
-      <description>&lt;![CDATA[百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 01:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/419597.html</guid>
+      <title>Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery</title>
+      <link>https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/</link>
+      <description>&lt;![CDATA[Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产GPU开始造世界！国内首个全栈具身智能仿真平台来了</title>
-      <link>https://www.qbitai.com/2026/05/420084.html</link>
-      <description>&lt;![CDATA[国产GPU开始造世界！国内首个全栈具身智能仿真平台来了]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 07:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420084.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速</title>
-      <link>https://www.qbitai.com/2026/05/419822.html</link>
-      <description>&lt;![CDATA[Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 02:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/419822.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>抢先李飞飞！世界模型能多人联机玩FPS游戏了</title>
-      <link>https://www.qbitai.com/2026/05/420083.html</link>
-      <description>&lt;![CDATA[抢先李飞飞！世界模型能多人联机玩FPS游戏了]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 07:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420083.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服</title>
-      <link>https://www.qbitai.com/2026/05/419913.html</link>
-      <description>&lt;![CDATA[L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服]]&gt;</description>
-      <pubDate>Tue, 19 May 2026 05:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/419913.html</guid>
+      <title>2026-05-19日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-19/</link>
+      <description>&lt;![CDATA[2026-05-19日刊]]&gt;</description>
+      <pubDate>Tue, 19 May 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-19/</guid>
       <category>Ai</category>
     </item>
   </channel>

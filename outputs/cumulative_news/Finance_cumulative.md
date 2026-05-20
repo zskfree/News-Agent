@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-19 08:30
+**最后更新时间**: 2026-05-20 00:09
+
+---
+
+## 🆕 最新更新 (2026-05-20 00:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My late mother’s bank account is $2,000 short. Can the bank legally refuse to provide her final statement?](https://www.marketwatch.com/story/my-late-mothers-bank-account-is-2-000-short-can-the-bank-legally-refuse-to-provide-her-final-statement-973ac0fe?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 00:04
+
+#### [I’m selling my $1 million Maui home. Will my agent charge me less than a 6% commission?](https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 00:01
+
+#### [Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.](https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 23:56
+
+#### [Buckle up for $120 oil changes. Why car care is about to get more expensive.](https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 22:31
+
+#### [These charts offer a warning: A new era of higher Treasury yields may be coming](https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 21:46
+
+#### [Here’s why Astera Labs’ stock just staged a big gain](https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 21:31
+
+#### [CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead](https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 20:41
+
+#### [Home Depot says its sales are healthy, but here’s where customers are holding back](https://www.marketwatch.com/story/home-depots-stock-rises-as-the-full-year-outlook-was-kept-intact-a-relief-for-worried-investors-75cdfb7c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 20:35
+
+#### [Shein’s reported purchase of Everlane shows that price trumps principles for many shoppers today](https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 20:29
+
+#### [Trump says he’ll let Warsh ‘do what he wants to do’ with interest rates. It’s a remark that Fed watchers have been bracing for.](https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories)
+**发布时间**: 2026-05-19 20:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s grip on Republicans tested in costly Kentucky primary](https://www.ft.com/content/29cd0b80-200b-4809-825b-b65bb5b4f8bf)
+**发布时间**: 2026-05-19 23:02
+
+#### [Trump and sons granted ‘forever’ immunity from existing tax audits](https://www.ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4)
+**发布时间**: 2026-05-19 21:21
+
+#### [Arsenal secure first English Premier League title in 22 years](https://www.ft.com/content/8cb026eb-5141-426e-af4f-611406077ab4)
+**发布时间**: 2026-05-19 21:13
+
+#### [Google to release smart glasses and add AI ‘agents’ to search engine](https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a)
+**发布时间**: 2026-05-19 20:47
+
+#### [Southampton kicked out of football’s richest game for spying on opponents](https://www.ft.com/content/06edac18-fa21-41c2-9563-d647309ee44b)
+**发布时间**: 2026-05-19 19:59
+
+#### [Trump endorses ‘Maga warrior’ Ken Paxton in Texas Senate run-off](https://www.ft.com/content/cd5d3094-c490-4866-b0de-cc5917fed18c)
+**发布时间**: 2026-05-19 19:54
+
+#### [Son of billionaire Mango founder released after detention over father’s fatal fall](https://www.ft.com/content/17b2b6a3-a7f2-40b4-8c16-9161045fedb4)
+**发布时间**: 2026-05-19 18:42
+
+#### [Trump claims Xi will not arm Iran as strike threat looms](https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b)
+**发布时间**: 2026-05-19 17:35
+
+#### [America’s ailing one-trick pony](https://www.ft.com/content/4aa79231-1e4b-4591-9f04-20eb03c10ee1)
+**发布时间**: 2026-05-19 10:48
 
 ---
 
