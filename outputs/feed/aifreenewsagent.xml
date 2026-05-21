@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 May 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Thu, 21 May 2026 00:11:38 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:35:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速</title>
-      <link>https://www.qbitai.com/2026/05/420753.html</link>
-      <description>&lt;![CDATA[智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 14:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420753.html</guid>
+      <title>顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一</title>
+      <link>https://www.qbitai.com/2026/05/420918.html</link>
+      <description>&lt;![CDATA[顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 04:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420918.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026</title>
-      <link>https://www.qbitai.com/2026/05/420743.html</link>
-      <description>&lt;![CDATA[太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420743.html</guid>
+      <title>上海交大AI教授亲授：半天带你拆解Agent底层逻辑</title>
+      <link>https://www.qbitai.com/2026/05/421697.html</link>
+      <description>&lt;![CDATA[上海交大AI教授亲授：半天带你拆解Agent底层逻辑]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 06:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/421697.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>VC、品牌顾问、编剧，正在批量把自己做成AI</title>
-      <link>https://www.qbitai.com/2026/05/420703.html</link>
-      <description>&lt;![CDATA[VC、品牌顾问、编剧，正在批量把自己做成AI]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420703.html</guid>
+      <title>得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家</title>
+      <link>https://www.qbitai.com/2026/05/421694.html</link>
+      <description>&lt;![CDATA[得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 06:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/421694.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>520当天400万AI人，都在量子位听这近20场演讲&amp;对谈｜第四届中国AIGC产业峰会</title>
+      <link>https://www.qbitai.com/2026/05/421691.html</link>
+      <description>&lt;![CDATA[520当天400万AI人，都在量子位听这近20场演讲&amp;对谈｜第四届中国AIGC产业峰会]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 05:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/421691.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，马斯克公开SpaceX招股书！</title>
+      <link>https://www.qbitai.com/2026/05/420761.html</link>
+      <description>&lt;![CDATA[刚刚，马斯克公开SpaceX招股书！]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 01:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420761.html</guid>
       <category>Ai</category>
     </item>
   </channel>

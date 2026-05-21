@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "573cd747cf90a1974437458a8fd2c1c5824f9d92098c9c3fdaddcf6553d6fec7": {
-        "title": "Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗",
-        "link": "https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 13:19:00 GMT",
-        "first_seen": "2026-04-21T07:14:35.212362"
-      },
-      "3d2d77bbec954f73ba1a0ae57850842b7ab9cabbbeeee0521dfe2b5bcd20b041": {
-        "title": "100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？",
-        "link": "https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 09:19:00 GMT",
-        "first_seen": "2026-04-21T07:14:35.212369"
-      },
-      "6d9995737ee242b1e9dfc314a54f6d24f81ab994ae56c6175072bcaaf46217f5": {
-        "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-        "link": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 14:14:00 GMT",
-        "first_seen": "2026-04-21T07:14:35.212371"
-      },
-      "e64d4bcb1dec371611947d8b0907c581bd638ff4c65b6669737f76c4f98d9712": {
-        "title": "GitHub Copilot CLI 正式进入全面可用阶段",
-        "link": "https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-21T07:14:35.212373"
-      },
-      "2b35fb8c1ec54e05f883f8110449366956a5498b308f7181b776d55d207563fa": {
-        "title": "湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则",
-        "link": "https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-21T07:14:35.212374"
-      },
       "3d75fa98b0aed1316f3f417c27f092e94700955086ba2060fedd48e0a1c0c956": {
         "title": "智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势",
         "link": "https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article",
@@ -2521,39 +2491,39 @@
         "link": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 21 May 2026 08:00:00 GMT",
         "first_seen": "2026-05-21T00:11:38.831976"
+      },
+      "8f570e222c1928afe40946c87709d10141db2e805addaf3d1760e5e78e37fc08": {
+        "title": "营收创新高、股价却下跌，英伟达面临两个历史性关口",
+        "link": "https://www.tmtpost.com/7997167.html",
+        "published_date": "Thu, 21 May 2026 16:24:00 GMT",
+        "first_seen": "2026-05-21T08:35:23.151131"
+      },
+      "fe9503fd4f38791fee198c8c2d6e1ec4ea19c16149ddbd7d4e32fe30e3f0a65e": {
+        "title": "Cloud Platforms Regain AI “Pricing Power”",
+        "link": "https://www.tmtpost.com/7997544.html",
+        "published_date": "Thu, 21 May 2026 16:10:00 GMT",
+        "first_seen": "2026-05-21T08:35:23.151139"
+      },
+      "e89739efccb18e4a70e8f85b703f79938695114084e41bd9a4baa9b11d2a1132": {
+        "title": "特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？",
+        "link": "https://www.tmtpost.com/7997341.html",
+        "published_date": "Thu, 21 May 2026 14:51:00 GMT",
+        "first_seen": "2026-05-21T08:35:23.151141"
+      },
+      "578064587c232f8aed523d3e737ce5f48b3aafa7505aaf709a28fde7baad48f3": {
+        "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
+        "link": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 21 May 2026 14:39:00 GMT",
+        "first_seen": "2026-05-21T08:35:23.151143"
+      },
+      "4b1bd03c2a6948170519e3c76f387fd4c5121c071bf64f68034e97eafbf9550c": {
+        "title": "对话灵初智能CEO 王启斌：具身智能，正从\"硬件浪潮\"进入\"数据浪潮\"",
+        "link": "https://www.tmtpost.com/7996985.html",
+        "published_date": "Thu, 21 May 2026 13:33:00 GMT",
+        "first_seen": "2026-05-21T08:35:23.151144"
       }
     },
     "Finance": {
-      "deb10602cd1edd438a798ed7e723d7d4843c924a1b8ac576497fa8572d68240b": {
-        "title": "Anthropic and Amazon agree $100bn AI infrastructure deal",
-        "link": "https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923",
-        "published_date": "Tue, 21 Apr 2026 00:41:00 GMT",
-        "first_seen": "2026-04-21T07:14:11.865622"
-      },
-      "85add42f6c6ff05cb2a43ef5216311c0c75a135c04fb5e8e8dbbb3c1dc30e8c9": {
-        "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-        "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 01:46:00 GMT",
-        "first_seen": "2026-04-21T07:14:11.865630"
-      },
-      "01d7cb2e1745bee151aec9c2c0e88cd515656ea070303ba62711681516d5b797": {
-        "title": "‘Kiss of death’: How the US killed a Swiss merchant bank",
-        "link": "https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e",
-        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-21T07:14:11.865632"
-      },
-      "42bf5fee49b4826d1eed7b8b51c25cfcad0049c4dec00a60f940cb31b6daf228": {
-        "title": "Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction",
-        "link": "https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4",
-        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-21T07:14:11.865634"
-      },
-      "d25f228c8872bf14a5921eee131b40a8b3b515f391583d488f3655abcd8046ec": {
-        "title": "UK wage growth slowed on eve of Iran war",
-        "link": "https://www.ft.com/content/36ecd045-e15f-4c68-8663-3c5f09d62439",
-        "published_date": "Tue, 21 Apr 2026 06:33:00 GMT",
-        "first_seen": "2026-04-21T07:14:11.865636"
-      },
       "e66108569f57542dc589aedb4f59c3b3642620bf9ae1ae7d473cc62c6b8505c7": {
         "title": "The end of freedom of the seas: Why global shipping may never be the same",
         "link": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories",
@@ -4761,15 +4731,39 @@
         "link": "https://www.ft.com/content/aecf40c9-fb61-4958-ae6b-14a471cad680",
         "published_date": "Wed, 20 May 2026 23:12:00 GMT",
         "first_seen": "2026-05-21T00:11:12.037095"
+      },
+      "b8ce2ae276a1e02eb16d29bc2f132ae038dd66485cc258a2952b8b6449ae6c22": {
+        "title": "Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing",
+        "link": "https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb",
+        "published_date": "Thu, 21 May 2026 01:57:00 GMT",
+        "first_seen": "2026-05-21T08:35:05.658326"
+      },
+      "2da141aa218fe4c985862b3a026881c7e42f5fdd570f0d212a1983443bb5819c": {
+        "title": "Anthropic on track for first profitable quarter",
+        "link": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3",
+        "published_date": "Thu, 21 May 2026 00:23:00 GMT",
+        "first_seen": "2026-05-21T08:35:05.658336"
+      },
+      "2cf7337f017ec2b89afec7e99971e761b384d303c89ae277cb6a59576edf3975": {
+        "title": "Saudi Arabia stops new work for consultants as war rattles finances",
+        "link": "https://www.ft.com/content/9855a284-8109-4d66-8b3e-e08da0e97dd8",
+        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-21T08:35:05.658339"
+      },
+      "d9a32bbc0c6af925cbacff37b78ae78cb8ea62a9f0b3e6c4ad3c1bc57108f83f": {
+        "title": "Nvidia fails to dazzle investors despite lifting dividends",
+        "link": "https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0",
+        "published_date": "Thu, 21 May 2026 00:43:00 GMT",
+        "first_seen": "2026-05-21T08:35:05.658341"
+      },
+      "9d13ff6572fbcee8a88317beddf8075ff464d3c4af39ff2f89a168a61bdb90a7": {
+        "title": "Is Chris Hohn Britain’s answer to Warren Buffett?",
+        "link": "https://www.ft.com/content/521d1861-82c5-4194-9358-f3dd53d122b5",
+        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-21T08:35:05.658343"
       }
     },
     "Ai": {
-      "3e7d0e7a8471a11ba4f8de7a8148d92690e8d6e53b28d99474819688af45c2cc": {
-        "title": "2026-04-21日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-21/",
-        "published_date": "Tue, 21 Apr 2026 10:39:00 GMT",
-        "first_seen": "2026-04-21T07:14:12.015420"
-      },
       "b3c503da7f1b6ec50e9d7b07c52f9eaf325736063d41ad6c2e3ab73fc0fda69c": {
         "title": "ReasoningBank: Enabling agents to learn from experience",
         "link": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
@@ -6077,13 +6071,43 @@
         "link": "https://www.qbitai.com/2026/05/420703.html",
         "published_date": "Wed, 20 May 2026 10:15:00 GMT",
         "first_seen": "2026-05-21T00:11:38.951010"
+      },
+      "b21df452eb80810ab704f1122338f15814a2c7961b83e0669b46174ddd00a126": {
+        "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+        "link": "https://www.qbitai.com/2026/05/420918.html",
+        "published_date": "Thu, 21 May 2026 04:40:00 GMT",
+        "first_seen": "2026-05-21T08:35:44.219112"
+      },
+      "706019866d22c406ea2d4ea72c44c78e732e9e968f15956e6d82840becf274aa": {
+        "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
+        "link": "https://www.qbitai.com/2026/05/421697.html",
+        "published_date": "Thu, 21 May 2026 06:52:00 GMT",
+        "first_seen": "2026-05-21T08:35:44.219119"
+      },
+      "3a365cd7922a15b7582123fb34e923e52d1521ee776cf6666e7e953aa458ba78": {
+        "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+        "link": "https://www.qbitai.com/2026/05/421694.html",
+        "published_date": "Thu, 21 May 2026 06:46:00 GMT",
+        "first_seen": "2026-05-21T08:35:44.219121"
+      },
+      "60cf493b6ca3e7161b2f05ccd86b5e4926b84b8c6e5fdaf9c1f5f82a12ae8b1c": {
+        "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+        "link": "https://www.qbitai.com/2026/05/421691.html",
+        "published_date": "Thu, 21 May 2026 05:37:00 GMT",
+        "first_seen": "2026-05-21T08:35:44.219123"
+      },
+      "86eb1ff169046493dc3fc75a25d87bec889a92aa062c0a4cee00f31e42129f48": {
+        "title": "刚刚，马斯克公开SpaceX招股书！",
+        "link": "https://www.qbitai.com/2026/05/420761.html",
+        "published_date": "Thu, 21 May 2026 01:37:00 GMT",
+        "first_seen": "2026-05-21T08:35:44.219124"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-21T00:11:38.831978",
-    "Finance": "2026-05-21T00:11:12.037097",
-    "Ai": "2026-05-21T00:11:38.951013"
+    "Technology": "2026-05-21T08:35:23.151146",
+    "Finance": "2026-05-21T08:35:05.658345",
+    "Ai": "2026-05-21T08:35:44.219127"
   }
 }

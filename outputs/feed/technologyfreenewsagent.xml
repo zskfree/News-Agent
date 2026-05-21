@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 May 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Thu, 21 May 2026 00:11:38 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 08:34:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:35:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6</link>
-      <description>&lt;![CDATA[Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 13:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6</guid>
+      <title>营收创新高、股价却下跌，英伟达面临两个历史性关口</title>
+      <link>https://www.tmtpost.com/7997167.html</link>
+      <description>&lt;![CDATA[营收创新高、股价却下跌，英伟达面临两个历史性关口]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7997167.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍</title>
-      <link>https://www.tmtpost.com/7992618.html</link>
-      <description>&lt;![CDATA[AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7992618.html</guid>
+      <title>Cloud Platforms Regain AI “Pricing Power”</title>
+      <link>https://www.tmtpost.com/7997544.html</link>
+      <description>&lt;![CDATA[Cloud Platforms Regain AI “Pricing Power”]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7997544.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI进入万亿Token时代，国产芯片如何构建行业壁垒？</title>
-      <link>https://www.tmtpost.com/7994949.html</link>
-      <description>&lt;![CDATA[AI进入万亿Token时代，国产芯片如何构建行业壁垒？]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7994949.html</guid>
+      <title>特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？</title>
+      <link>https://www.tmtpost.com/7997341.html</link>
+      <description>&lt;![CDATA[特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7997341.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型</title>
-      <link>https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档</title>
+      <link>https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话灵初智能CEO 王启斌：具身智能，正从&quot;硬件浪潮&quot;进入&quot;数据浪潮&quot;</title>
+      <link>https://www.tmtpost.com/7996985.html</link>
+      <description>&lt;![CDATA[对话灵初智能CEO 王启斌：具身智能，正从&quot;硬件浪潮&quot;进入&quot;数据浪潮&quot;]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7996985.html</guid>
       <category>Technology</category>
     </item>
   </channel>

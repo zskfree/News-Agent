@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-21 00:10
+**最后更新时间**: 2026-05-21 08:34
+
+---
+
+## 🆕 最新更新 (2026-05-21 08:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Is Chris Hohn Britain’s answer to Warren Buffett?](https://www.ft.com/content/521d1861-82c5-4194-9358-f3dd53d122b5)
+**发布时间**: 2026-05-21 04:00
+
+#### [Americans beware: markets can be out of sync with reality](https://www.ft.com/content/d95ce239-4494-4a94-be43-fc678bc6e1c3)
+**发布时间**: 2026-05-21 04:00
+
+#### [The new art of war is just as bloody as the old](https://www.ft.com/content/7db73206-df57-4657-b846-5b6b6ab30b61)
+**发布时间**: 2026-05-21 04:00
+
+#### [Saudi Arabia stops new work for consultants as war rattles finances](https://www.ft.com/content/9855a284-8109-4d66-8b3e-e08da0e97dd8)
+**发布时间**: 2026-05-21 04:00
+
+#### [Barnacles and jellyfish infest ships trapped in the Gulf](https://www.ft.com/content/28c8ca92-0c98-46c8-8d51-7c90c68821b7)
+**发布时间**: 2026-05-21 04:00
+
+#### [Greek finance minister says most troika reforms ‘absolutely necessary’](https://www.ft.com/content/3576843a-de5b-484f-a148-6fa8ab1d59ba)
+**发布时间**: 2026-05-21 04:00
+
+#### [Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing](https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb)
+**发布时间**: 2026-05-21 01:57
+
+#### [Nvidia fails to dazzle investors despite lifting dividends](https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0)
+**发布时间**: 2026-05-21 00:43
+
+#### [Anthropic on track for first profitable quarter](https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3)
+**发布时间**: 2026-05-21 00:23
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’](https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 01:55
+
+#### [Vox’s sale marks the end of an era for a once-booming form of digital media. Here’s how it all came undone.](https://www.marketwatch.com/story/voxs-sale-marks-the-end-of-an-era-for-a-once-booming-form-of-digital-media-heres-how-it-all-came-undone-8a15d530?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 00:32
 
 ---
 

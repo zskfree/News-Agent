@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-21 00:10
+**最后更新时间**: 2026-05-21 08:34
+
+---
+
+## 🆕 最新更新 (2026-05-21 08:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [还有三周，马斯克就要成为人类首个“万亿富豪”](https://www.tmtpost.com/7997431.html)
+**发布时间**: 2026-05-21 16:25
+
+#### [腾势还没找到第二个D9](https://www.tmtpost.com/7997474.html)
+**发布时间**: 2026-05-21 16:25
+
+#### [营收创新高、股价却下跌，英伟达面临两个历史性关口](https://www.tmtpost.com/7997167.html)
+**发布时间**: 2026-05-21 16:24
+
+#### [Cloud Platforms Regain AI “Pricing Power”](https://www.tmtpost.com/7997544.html)
+**发布时间**: 2026-05-21 16:10
+
+#### [99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？](https://www.tmtpost.com/7997212.html)
+**发布时间**: 2026-05-21 15:47
+
+#### [618前瞻：玩法相减，AI相加](https://www.tmtpost.com/7997241.html)
+**发布时间**: 2026-05-21 15:33
+
+#### [黄仁勋最尴尬的时刻，AMD的苏姿丰决定押注中国](https://www.tmtpost.com/7997297.html)
+**发布时间**: 2026-05-21 15:33
+
+#### [Tencent-backed Leju Robot Files for an IPO in Shenzhen](https://www.tmtpost.com/7997435.html)
+**发布时间**: 2026-05-21 15:31
+
+#### [神奇英伟达，财报再好也不涨，做空再猛也不跌](https://www.tmtpost.com/7996939.html)
+**发布时间**: 2026-05-21 15:05
+
+#### [2026 CIBF观察：电池行业告别“产能过剩”，上游资源迎来新棋局](https://www.tmtpost.com/7996103.html)
+**发布时间**: 2026-05-21 14:58
+
+#### [当创始人成为最大风险敞口：追觅的生态叙事与组织现实](https://www.tmtpost.com/7997107.html)
+**发布时间**: 2026-05-21 14:58
+
+#### [特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？](https://www.tmtpost.com/7997341.html)
+**发布时间**: 2026-05-21 14:51
+
+#### [“既要又要” 时代，康师傅重构“一碗好面”的价值链](https://www.tmtpost.com/7995845.html)
+**发布时间**: 2026-05-21 14:30
+
+#### [对话灵初智能CEO 王启斌：具身智能，正从"硬件浪潮"进入"数据浪潮"](https://www.tmtpost.com/7996985.html)
+**发布时间**: 2026-05-21 13:33
+
+#### [智能产品潮玩化：企业增量，还是智能废物？](https://www.tmtpost.com/7996943.html)
+**发布时间**: 2026-05-21 13:30
+
+#### [BD好队友的含金量，还在上升](https://www.tmtpost.com/7997010.html)
+**发布时间**: 2026-05-21 13:30
+
+#### [AI Coding之后，视频模型正在跑通商业闭环？](https://www.tmtpost.com/7997160.html)
+**发布时间**: 2026-05-21 13:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署](https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 16:06
+
+#### [词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石](https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:37
+
+#### [Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？](https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:33
+
+#### [马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家](https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:23
+
+#### [中国最神秘AI孵化器正式亮相：11位“大佬”导师成为超强外挂](https://www.infoq.cn/article/odXlpi1FCUhDFC2gQ7W2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:18
+
+#### [从兼容 CUDA 到自我进化，摩尔线程想用 MUSA 解决真正的难题](https://www.infoq.cn/article/Oi49yHUTNwABaK5kWjWG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:16
+
+#### [OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档](https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 14:39
+
+#### [Ubuntu拥抱本地AI，而非云优先的操作系统集成](https://www.infoq.cn/article/qwTieOTecFAqQGbMRT2w?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 13:04
+
+#### [企业级Agent 落地，绕不开的 4 个工程问题](https://www.infoq.cn/article/qKW5Yu1ORiqMmX6mlLJ6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 11:49
+
+#### [微软发布Aspire 13.3，迎来部署与前端重磅更新](https://www.infoq.cn/article/2r8NSszpSkpU0BuiFSp7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 11:01
+
+#### [腾讯混元世界模型的研发布局与思考｜AICon上海](https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 10:00
+
+#### [阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型](https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 09:47
+
+#### [谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者](https://www.infoq.cn/article/5Zg1Bw19UtfKMETfrC3H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 09:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
+**发布时间**: 2026-05-21 11:30
+
+#### [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
+**发布时间**: 2026-05-21 08:36
 
 ---
 
