@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 May 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 08:29:12 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 00:10:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 00:11:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响</title>
-      <link>https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 12:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6</link>
+      <description>&lt;![CDATA[Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海</title>
-      <link>https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍</title>
+      <link>https://www.tmtpost.com/7992618.html</link>
+      <description>&lt;![CDATA[AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 07:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7992618.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断</title>
-      <link>https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断]]&gt;</description>
+      <title>AI进入万亿Token时代，国产芯片如何构建行业壁垒？</title>
+      <link>https://www.tmtpost.com/7994949.html</link>
+      <description>&lt;![CDATA[AI进入万亿Token时代，国产芯片如何构建行业壁垒？]]&gt;</description>
       <pubDate>Wed, 20 May 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7994949.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘</title>
-      <link>https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型</title>
+      <link>https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 19:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>VLA已死，WAM当立：机器人的GPT时刻到了吗？</title>
-      <link>https://www.tmtpost.com/7994970.html</link>
-      <description>&lt;![CDATA[VLA已死，WAM当立：机器人的GPT时刻到了吗？]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 13:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7994970.html</guid>
+      <title>AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势]]&gt;</description>
+      <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

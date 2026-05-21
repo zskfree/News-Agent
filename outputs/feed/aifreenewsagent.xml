@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 May 2026 08:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 08:29:13 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 00:11:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-20日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-20/</link>
-      <description>&lt;![CDATA[2026-05-20日刊]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-20/</guid>
+      <title>智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速</title>
+      <link>https://www.qbitai.com/2026/05/420753.html</link>
+      <description>&lt;![CDATA[智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420753.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测</title>
-      <link>https://www.qbitai.com/2026/05/420681.html</link>
-      <description>&lt;![CDATA[破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420681.html</guid>
+      <title>太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/420743.html</link>
+      <description>&lt;![CDATA[太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420743.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026中国AIGC最值得关注的企业&amp;产品图鉴来了！谁在造浪，谁在落地？</title>
-      <link>https://www.qbitai.com/2026/05/420656.html</link>
-      <description>&lt;![CDATA[2026中国AIGC最值得关注的企业&amp;产品图鉴来了！谁在造浪，谁在落地？]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 05:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420656.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施</title>
-      <link>https://www.qbitai.com/2026/05/420651.html</link>
-      <description>&lt;![CDATA[趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 05:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420651.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>苏姿丰上海开讲：AI正在重新定义计算的每一层</title>
-      <link>https://www.qbitai.com/2026/05/420531.html</link>
-      <description>&lt;![CDATA[苏姿丰上海开讲：AI正在重新定义计算的每一层]]&gt;</description>
-      <pubDate>Wed, 20 May 2026 00:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420531.html</guid>
+      <title>VC、品牌顾问、编剧，正在批量把自己做成AI</title>
+      <link>https://www.qbitai.com/2026/05/420703.html</link>
+      <description>&lt;![CDATA[VC、品牌顾问、编剧，正在批量把自己做成AI]]&gt;</description>
+      <pubDate>Wed, 20 May 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/420703.html</guid>
       <category>Ai</category>
     </item>
   </channel>

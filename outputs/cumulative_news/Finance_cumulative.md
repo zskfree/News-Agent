@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-20 08:28
+**最后更新时间**: 2026-05-21 00:10
+
+---
+
+## 🆕 最新更新 (2026-05-21 00:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Pentagon official’s Beijing visit in doubt over $14bn US arms package for Taiwan](https://www.ft.com/content/aecf40c9-fb61-4958-ae6b-14a471cad680)
+**发布时间**: 2026-05-20 23:12
+
+#### [Elon Musk’s SpaceX sets out plans for biggest IPO in history](https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75)
+**发布时间**: 2026-05-20 23:05
+
+#### [SpaceX is all ’trucked up](https://www.ft.com/content/f4bc7df8-8559-41f6-a599-84885b522883)
+**发布时间**: 2026-05-20 21:07
+
+#### [Nvidia to return more than $80bn to shareholders as it reaps rewards of AI boom](https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0)
+**发布时间**: 2026-05-20 21:06
+
+#### [US state department watchdog investigates Gaza Humanitarian Foundation](https://www.ft.com/content/ff2c906a-9575-434e-a72a-086fac1faa86)
+**发布时间**: 2026-05-20 21:02
+
+#### [Oil drops nearly 6% as two China-bound supertankers cross Strait of Hormuz](https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945)
+**发布时间**: 2026-05-20 19:17
+
+#### [How will Trump deploy his $1.8bn ‘slush fund’?](https://www.ft.com/content/c38b8744-821e-49a5-b6a3-d7219e4b3c0c)
+**发布时间**: 2026-05-20 17:31
+
+#### [JPMorgan banker fights back over ‘fabricated’ sex harassment claims](https://www.ft.com/content/44e7f30d-b497-4b8c-8610-dab5f6618635)
+**发布时间**: 2026-05-20 17:22
+
+#### [OpenAI readies IPO filing to list as soon as September](https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318)
+**发布时间**: 2026-05-20 17:21
+
+#### [StanChart does damage control after boss calls staff ‘lower-value human capital’](https://www.ft.com/content/d022680e-f769-47c6-ae90-b1ff8a802dce)
+**发布时间**: 2026-05-20 08:17
+
+#### [Private equity’s new escape hatch keeps unsold companies in limbo](https://www.ft.com/content/92a167c0-206b-4408-9a60-f56c6f68cf6a)
+**发布时间**: 2026-05-20 04:00
+
+#### [The energy crisis may just be starting](https://www.ft.com/content/fb290ca1-4fa0-4309-b406-8c850d0b2449)
+**发布时间**: 2026-05-20 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gen Z may be shying away from buying cosmetics, as higher gas prices hit spending](https://www.marketwatch.com/story/gen-z-may-be-shying-away-from-cosmetics-as-higher-gas-prices-hit-spending-9f9ccbf8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 22:51
+
+#### [Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO](https://www.marketwatch.com/story/investors-are-flocking-to-an-offshore-crypto-platform-for-an-early-shot-at-trading-the-spacex-ipo-4ec49f10?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 22:43
+
+#### [The ‘stunning’ end to Trump’s case against the IRS raises tax-law questions that will be analyzed for years](https://www.marketwatch.com/story/the-stunning-end-to-trumps-case-against-the-irs-raises-tax-law-questions-that-will-be-analyzed-for-years-abe2bf79?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 22:24
+
+#### [I was bought out of the family business for $160,000. My relatives each made $3 million when it sold. Was I cheated?](https://www.marketwatch.com/story/i-was-bought-out-of-the-family-business-for-160-000-my-relatives-each-made-3-million-when-it-sold-was-i-cheated-8cee0523?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 22:15
+
+#### [‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader](https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 21:56
+
+#### [An updated ‘misery index’ shows economic stress is nearing a warning zone as stocks push higher](https://www.marketwatch.com/story/an-updated-misery-index-shows-economic-stress-is-nearing-a-warning-zone-as-stocks-push-higher-177959f7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 21:07
+
+#### [I found my co-worker’s W-2 in a book — she makes $15,000 more than me for the same job. What should I do?](https://www.marketwatch.com/story/i-found-my-coworkers-w-2-in-a-book-she-makes-15-000-more-than-me-for-the-same-job-what-should-i-do-2ada147a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 20:38
+
+#### [Here’s why Target’s turnaround may not be as smooth as the latest results imply](https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories)
+**发布时间**: 2026-05-20 20:32
 
 ---
 
