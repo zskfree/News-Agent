@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3d75fa98b0aed1316f3f417c27f092e94700955086ba2060fedd48e0a1c0c956": {
-        "title": "智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 17:29:00 GMT",
-        "first_seen": "2026-04-21T09:44:37.683755"
-      },
-      "b8dea7ebb824a135f70d3be62f6c6b28501d48f28a5cda9fa05163dc618e7d41": {
-        "title": "AI时代最贵的“布”，到底有多抢手？",
-        "link": "https://www.tmtpost.com/7961280.html",
-        "published_date": "Tue, 21 Apr 2026 16:40:00 GMT",
-        "first_seen": "2026-04-21T09:44:37.683761"
-      },
-      "99f4046659a0ddb8b0ee7c6f5d1e0414a3d708c138bfc98c88129de3b1c5400b": {
-        "title": "黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？",
-        "link": "https://www.tmtpost.com/7960426.html",
-        "published_date": "Tue, 21 Apr 2026 14:48:00 GMT",
-        "first_seen": "2026-04-21T09:44:37.683764"
-      },
-      "11c73e3468e52ffb6d5519f8cdbc64191fdcb8d274dd253ad7ad1e89b3ed6652": {
-        "title": "Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图",
-        "link": "https://www.tmtpost.com/7961404.html",
-        "published_date": "Tue, 21 Apr 2026 17:16:00 GMT",
-        "first_seen": "2026-04-21T09:44:37.683765"
-      },
-      "e06c4d5de92bcd0794c04e13e187e86383823610d5d8ff8872b8b225a435f2f6": {
-        "title": "Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键",
-        "link": "https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 09:02:00 GMT",
-        "first_seen": "2026-04-21T09:44:37.683767"
-      },
-      "44541f53923d7bf3a98c57bfcd37216a01da3394b2384385eef3a5f0202251ef": {
-        "title": "知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕",
-        "link": "https://www.tmtpost.com/7951128.html",
-        "published_date": "Tue, 21 Apr 2026 17:25:00 GMT",
-        "first_seen": "2026-04-21T23:39:31.097290"
-      },
-      "2ffaaad2e642242083bbf4b5ec03d76c8f37b19e625f905e7f0416d0ba39071e": {
-        "title": "自主还是兼容：DeepSeek V4延期背后的中国AI生态选择题",
-        "link": "https://www.tmtpost.com/7961261.html",
-        "published_date": "Tue, 21 Apr 2026 18:06:00 GMT",
-        "first_seen": "2026-04-21T23:39:31.097297"
-      },
-      "6f2b8d91118100d5e786ecda943cf3f406c0f1090004235106681002d741fbe0": {
-        "title": "中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人",
-        "link": "https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-21T23:39:31.097300"
-      },
-      "1e2109bd3fe091a5a029ef2ec834a64744e2341e9fc1701844b1de3b63bce0ac": {
-        "title": "MiniMax不需要讨好开源",
-        "link": "https://www.tmtpost.com/7961547.html",
-        "published_date": "Tue, 21 Apr 2026 19:08:00 GMT",
-        "first_seen": "2026-04-21T23:39:31.097301"
-      },
-      "9b813b839ce4eca19f5be534d5507462d3bbcd0badbbcf1dfd42320e55f6feb5": {
-        "title": "Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533152&idx=1&sn=904b7943e3e9a2fcf4dd4a925af34c27",
-        "published_date": "Tue, 21 Apr 2026 13:06:00 GMT",
-        "first_seen": "2026-04-21T23:39:31.097303"
-      },
       "ac03db062287999e9bd67f1c29ed3929fbc84f10565f790612429a1ccf50f62a": {
         "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
         "link": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
@@ -2521,69 +2461,39 @@
         "link": "https://www.tmtpost.com/7996985.html",
         "published_date": "Thu, 21 May 2026 13:33:00 GMT",
         "first_seen": "2026-05-21T08:35:23.151144"
+      },
+      "240cfca9c6cae0f506c6c38b6da6ccffa2888851dd5716980c7e6198c6e929a6": {
+        "title": "硅谷 AI 格局生变：卡帕西跳槽、马斯克助阵，孙正义成孤守者",
+        "link": "https://www.tmtpost.com/7997279.html",
+        "published_date": "Thu, 21 May 2026 18:32:00 GMT",
+        "first_seen": "2026-05-22T00:06:46.164527"
+      },
+      "eb80f921c367200f0916d1ef607dc5ff976bd989d6d83703116526a6a98e6470": {
+        "title": "Meta裁员8000人背后：扎克伯格千亿美元豪赌AI",
+        "link": "https://www.tmtpost.com/7996168.html",
+        "published_date": "Thu, 21 May 2026 18:24:00 GMT",
+        "first_seen": "2026-05-22T00:06:46.164533"
+      },
+      "c9201ebfb52b3dff7b362648f0b6cd65f863e7a0c183042db2840c99c8aec1ab": {
+        "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
+        "link": "https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 21 May 2026 15:23:00 GMT",
+        "first_seen": "2026-05-22T00:06:46.164535"
+      },
+      "ae5957ef0d84b4e875c0618d3c411e918e316a078870e62bd8a34e85f15908ef": {
+        "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
+        "link": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 21 May 2026 16:06:00 GMT",
+        "first_seen": "2026-05-22T00:06:46.164536"
+      },
+      "ef62db0c627e20a12ac2516c53c1fdbd46974d391ce561ccda87751dbbed3d14": {
+        "title": "菜鸟副总裁毕江华：仓库人效提升100%，攀爬机器人ZeeBot启动全球交付",
+        "link": "https://www.tmtpost.com/7997611.html",
+        "published_date": "Thu, 21 May 2026 19:07:00 GMT",
+        "first_seen": "2026-05-22T00:06:46.164538"
       }
     },
     "Finance": {
-      "e66108569f57542dc589aedb4f59c3b3642620bf9ae1ae7d473cc62c6b8505c7": {
-        "title": "The end of freedom of the seas: Why global shipping may never be the same",
-        "link": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 07:43:00 GMT",
-        "first_seen": "2026-04-21T09:43:39.003648"
-      },
-      "67c293b8c3a4743bba883fba0600189631097d49295a9ae483f6a8533f59e23c": {
-        "title": "Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so",
-        "link": "https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 09:30:00 GMT",
-        "first_seen": "2026-04-21T09:43:39.003656"
-      },
-      "e63a2af94d32afa2a798fd4e3a3bc36507756957180bbad8a6d79eb170fde18d": {
-        "title": "Alaska Air says it will spend more on fuel this quarter than it earned the last two years",
-        "link": "https://www.marketwatch.com/story/alaska-air-says-it-will-spend-more-on-fuel-this-quarter-than-it-earned-the-last-two-years-587d85c8?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 08:47:00 GMT",
-        "first_seen": "2026-04-21T09:43:39.003659"
-      },
-      "e07ebf4cdc9ab5a2fe84468b86f6784558cd7ad2bcc128ad16f7cdafe49148bc": {
-        "title": "Apple’s next chief Ternus faces defining AI moment",
-        "link": "https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c",
-        "published_date": "Tue, 21 Apr 2026 08:45:00 GMT",
-        "first_seen": "2026-04-21T09:43:39.003661"
-      },
-      "922caf505f679b56279087a6e1b820e4c2ad5104331ab6d04254bf1a39c150ac": {
-        "title": "Apple chief Tim Cook to hand over to John Ternus in September",
-        "link": "https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615",
-        "published_date": "Tue, 21 Apr 2026 07:37:00 GMT",
-        "first_seen": "2026-04-21T09:43:39.003662"
-      },
-      "d04ac57675986ef145f81289221fcac27b442b08b2a1cd3fcfbfffe76a10b6cb": {
-        "title": "Airlines cut flights as fuel costs surge — an economic fallout from the Iran war that markets may be missing",
-        "link": "https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 22:04:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.279423"
-      },
-      "e88128a0984747ff9952665342964be2d905a7265aa30f481e2c9c2a9c541c7c": {
-        "title": "ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026",
-        "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 21:17:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.279433"
-      },
-      "d69441871fb5f8eb09bb69797c8f56d62e871da353f6db4a9d52fbfc71f352f5": {
-        "title": "SpaceX strikes $60bn deal to acquire AI start-up Cursor",
-        "link": "https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860",
-        "published_date": "Tue, 21 Apr 2026 22:51:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.279436"
-      },
-      "a4c23008aa197123d1775f18d79357730bcd53c6d93111860478e14e159cde5f": {
-        "title": "Warsh signals evolution, not revolution at the Fed",
-        "link": "https://www.ft.com/content/6ed5f7a6-3c2f-4e8d-9a13-48d70428bb0e",
-        "published_date": "Tue, 21 Apr 2026 18:25:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.279438"
-      },
-      "37edc1313b3a92f2426193797901e500db63a01a54581848e13ae50376b1c3da": {
-        "title": "‘This is unbelievable’: My adviser made $300,000 trading options. Now I’m being killed by taxes. Do I fire him?",
-        "link": "https://www.marketwatch.com/story/this-is-unbelievable-my-adviser-made-300-000-trading-options-now-im-being-killed-by-taxes-do-i-complain-e30873b7?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 23:16:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.279440"
-      },
       "aff9c273863ccfb0b6a043c34909ad98aac65fde3fbc6f94ae5aa388e4e3d83f": {
         "title": "UK inflation accelerates to 3.3% in March amid Iran energy shock",
         "link": "https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476",
@@ -4761,39 +4671,39 @@
         "link": "https://www.ft.com/content/521d1861-82c5-4194-9358-f3dd53d122b5",
         "published_date": "Thu, 21 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-21T08:35:05.658343"
+      },
+      "ad4177e9df522a9cf91aa0f34035cbba1f1ae0d36cf6bbe00710ee1f72bafb43": {
+        "title": "‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy",
+        "link": "https://www.ft.com/content/970b1bab-ca00-4ea1-8964-a59ea431de6e",
+        "published_date": "Thu, 21 May 2026 17:41:00 GMT",
+        "first_seen": "2026-05-22T00:06:19.175699"
+      },
+      "34a2ac5b5452b0e1bbcc33ee044d604f2d2bb3912641111ad36559f970b4f0ac": {
+        "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
+        "link": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories",
+        "published_date": "Thu, 21 May 2026 22:30:00 GMT",
+        "first_seen": "2026-05-22T00:06:19.175707"
+      },
+      "0b837d0e5bc4fecd2e7e83de6d4353f14100e0342d117df32fb525000c02858b": {
+        "title": "Senators seek to curb US Treasury’s ability to fund foreign allies",
+        "link": "https://www.ft.com/content/f75fa2e5-a7b5-4fb0-a8f4-b9ad88af9f10",
+        "published_date": "Thu, 21 May 2026 14:47:00 GMT",
+        "first_seen": "2026-05-22T00:06:19.175710"
+      },
+      "d23391098f1a6a0eef68b1a51a70308bf7695a4bef661247f2d46b329d8fdacb": {
+        "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+        "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+        "published_date": "Thu, 21 May 2026 22:32:00 GMT",
+        "first_seen": "2026-05-22T00:06:19.175712"
+      },
+      "4d173faabe1517ed8108c912d5d9acdeff3cdfdf2ec5bd1ecb1fe1dd46fef175": {
+        "title": "Goldman Sachs eclipses Morgan Stanley’s Michael Grimes on SpaceX IPO",
+        "link": "https://www.ft.com/content/10cecc4e-dbce-477d-9f10-068581c6e650",
+        "published_date": "Thu, 21 May 2026 17:10:00 GMT",
+        "first_seen": "2026-05-22T00:06:19.175714"
       }
     },
     "Ai": {
-      "b3c503da7f1b6ec50e9d7b07c52f9eaf325736063d41ad6c2e3ab73fc0fda69c": {
-        "title": "ReasoningBank: Enabling agents to learn from experience",
-        "link": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
-        "published_date": "Tue, 21 Apr 2026 16:42:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.428153"
-      },
-      "a4048acbe6771e66e26ef68586fd253faea74c574774ed2a5cc0cbf798210ad2": {
-        "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
-        "link": "https://www.qbitai.com/2026/04/404124.html",
-        "published_date": "Tue, 21 Apr 2026 14:21:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.428160"
-      },
-      "8893508f9a5b52b00a679d3af696efac7397780c12c03f293ce3c02ab5f259e2": {
-        "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
-        "link": "https://www.qbitai.com/2026/04/404096.html",
-        "published_date": "Tue, 21 Apr 2026 12:02:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.428162"
-      },
-      "8209cb2a42b554779c493ea482b5e310e5fbe158e84bafd2c077684eeee876bd": {
-        "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
-        "link": "https://www.qbitai.com/2026/04/404086.html",
-        "published_date": "Tue, 21 Apr 2026 08:45:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.428164"
-      },
-      "5d95dd9f76e0927928cf9c40f4d562feac8a9b83f1d8cbca3483c158828b8c4b": {
-        "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
-        "link": "https://www.qbitai.com/2026/04/404082.html",
-        "published_date": "Tue, 21 Apr 2026 08:31:00 GMT",
-        "first_seen": "2026-04-21T23:39:04.428165"
-      },
       "b21a5eb9fbc9525ccddbe7e71280d25eda137c51c6c5a4270aaca74b4c9a29a8": {
         "title": "2026-04-22日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-22/",
@@ -6101,13 +6011,43 @@
         "link": "https://www.qbitai.com/2026/05/420761.html",
         "published_date": "Thu, 21 May 2026 01:37:00 GMT",
         "first_seen": "2026-05-21T08:35:44.219124"
+      },
+      "250fa452571cce9f64c1aabbff6392f77aa804da611c3cb9fe07305581b0e4ae": {
+        "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+        "link": "https://www.qbitai.com/2026/05/422032.html",
+        "published_date": "Thu, 21 May 2026 09:36:00 GMT",
+        "first_seen": "2026-05-22T00:06:56.977028"
+      },
+      "58e37df93546de28dadc139f732965e7edac615ead2870233d0457d54ae2b258": {
+        "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+        "link": "https://www.qbitai.com/2026/05/422002.html",
+        "published_date": "Thu, 21 May 2026 09:14:00 GMT",
+        "first_seen": "2026-05-22T00:06:56.977034"
+      },
+      "fc32b1f80d9180b2e3cdcc2b9b73b8ff95230c2a8ee6c6f0443aa917e21c2e87": {
+        "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
+        "link": "https://www.qbitai.com/2026/05/422009.html",
+        "published_date": "Thu, 21 May 2026 09:16:00 GMT",
+        "first_seen": "2026-05-22T00:06:56.977037"
+      },
+      "27a0887664dbad4f6db06e8161b18dde73a9cfdb1a51db846772b24d860a312a": {
+        "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+        "link": "https://www.qbitai.com/2026/05/422068.html",
+        "published_date": "Thu, 21 May 2026 09:48:00 GMT",
+        "first_seen": "2026-05-22T00:06:56.977038"
+      },
+      "a4eaf9777b390f626d5d399f5968de588ef52e0b525feffd069e5787133dca5a": {
+        "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/422001.html",
+        "published_date": "Thu, 21 May 2026 09:27:00 GMT",
+        "first_seen": "2026-05-22T00:06:56.977040"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-21T08:35:23.151146",
-    "Finance": "2026-05-21T08:35:05.658345",
-    "Ai": "2026-05-21T08:35:44.219127"
+    "Technology": "2026-05-22T00:06:46.164541",
+    "Finance": "2026-05-22T00:06:19.175716",
+    "Ai": "2026-05-22T00:06:56.977042"
   }
 }

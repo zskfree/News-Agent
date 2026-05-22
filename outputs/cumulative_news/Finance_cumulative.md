@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-21 08:34
+**最后更新时间**: 2026-05-22 00:06
+
+---
+
+## 🆕 最新更新 (2026-05-22 00:06)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Republicans push back on Trump’s ‘anti-weaponisation’ fund](https://www.ft.com/content/d6589a2b-365d-45e5-bf00-5ab2f243b732)
+**发布时间**: 2026-05-21 22:40
+
+#### [SpaceX readies high-stakes test launch of latest Starship spacecraft](https://www.ft.com/content/15c61eaf-e592-483b-8f06-8e2d126276d5)
+**发布时间**: 2026-05-21 21:27
+
+#### [DNC autopsy says Biden White House to blame for Harris loss](https://www.ft.com/content/c9c35cc3-6f74-4b28-a403-a1199f7f36a6)
+**发布时间**: 2026-05-21 19:31
+
+#### [Trump abruptly postpones AI order after White House infighting](https://www.ft.com/content/14213cb0-8d11-4118-bac0-12a403696185)
+**发布时间**: 2026-05-21 18:45
+
+#### [‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy](https://www.ft.com/content/970b1bab-ca00-4ea1-8964-a59ea431de6e)
+**发布时间**: 2026-05-21 17:41
+
+#### [Rubio sees ‘good signs’ US could reach deal with Iran](https://www.ft.com/content/e08cbca2-b5ca-428d-8bef-79378308d426)
+**发布时间**: 2026-05-21 17:32
+
+#### [Goldman Sachs eclipses Morgan Stanley’s Michael Grimes on SpaceX IPO](https://www.ft.com/content/10cecc4e-dbce-477d-9f10-068581c6e650)
+**发布时间**: 2026-05-21 17:10
+
+#### [Six takeaways from Musk’s 200,000-word planetary vision](https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb)
+**发布时间**: 2026-05-21 15:03
+
+#### [Senators seek to curb US Treasury’s ability to fund foreign allies](https://www.ft.com/content/f75fa2e5-a7b5-4fb0-a8f4-b9ad88af9f10)
+**发布时间**: 2026-05-21 14:47
+
+#### [The Supreme Court turns its back on 60 years of Black enfranchisement](https://www.ft.com/content/ba9dc280-6b1f-4c2f-ba5e-f7e31d36c05f)
+**发布时间**: 2026-05-21 14:00
+
+#### [US quantum investment includes groups tied to Trump administration](https://www.ft.com/content/92baf913-8987-4c65-82da-311e80f773b0)
+**发布时间**: 2026-05-21 12:21
+
+#### [Where is Iran’s supreme leader?](https://www.ft.com/content/4dfd947d-2c53-47a2-a7bd-78b5be493189)
+**发布时间**: 2026-05-21 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis](https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 22:32
+
+#### [The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong](https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 22:30
+
+#### [People are putting less gas in their tanks as high prices crimp budgets, Walmart says](https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 21:24
+
+#### [‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?](https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 21:15
+
+#### [Quantum stocks soar as the Trump administration looks to be buying in](https://www.marketwatch.com/story/quantum-stocks-soar-as-trump-administration-is-reportedly-buying-in-d6ed17b2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 20:45
+
+#### [NYC’s Mamdani boasts new $50 World Cup ticket program: ‘That is five lattes in New York City!’](https://www.marketwatch.com/story/nycs-mamdani-boasts-new-50-world-cup-ticket-program-that-is-five-lattes-in-new-york-city-4ebba812?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 20:01
+
+#### [Elon Musk’s xAI is draining SpaceX’s cash, with little to show for it](https://www.marketwatch.com/story/elon-musks-xai-is-draining-spacexs-cash-with-little-to-show-for-it-9517874d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-21 19:26
 
 ---
 
