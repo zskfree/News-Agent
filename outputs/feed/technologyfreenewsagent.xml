@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 May 2026 00:06:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 00:06:46 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 08:24:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:25:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>硅谷 AI 格局生变：卡帕西跳槽、马斯克助阵，孙正义成孤守者</title>
-      <link>https://www.tmtpost.com/7997279.html</link>
-      <description>&lt;![CDATA[硅谷 AI 格局生变：卡帕西跳槽、马斯克助阵，孙正义成孤守者]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7997279.html</guid>
+      <title>TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵</title>
+      <link>https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta裁员8000人背后：扎克伯格千亿美元豪赌AI</title>
-      <link>https://www.tmtpost.com/7996168.html</link>
-      <description>&lt;![CDATA[Meta裁员8000人背后：扎克伯格千亿美元豪赌AI]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7996168.html</guid>
+      <title>Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击</title>
+      <link>https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家</title>
-      <link>https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后</title>
+      <link>https://www.tmtpost.com/7998980.html</link>
+      <description>&lt;![CDATA[OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7998980.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署</title>
-      <link>https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍</title>
+      <link>https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>菜鸟副总裁毕江华：仓库人效提升100%，攀爬机器人ZeeBot启动全球交付</title>
-      <link>https://www.tmtpost.com/7997611.html</link>
-      <description>&lt;![CDATA[菜鸟副总裁毕江华：仓库人效提升100%，攀爬机器人ZeeBot启动全球交付]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 19:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7997611.html</guid>
+      <title>Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码</title>
+      <link>https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

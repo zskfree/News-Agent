@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-22 00:06
+**最后更新时间**: 2026-05-22 08:24
+
+---
+
+## 🆕 最新更新 (2026-05-22 08:24)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [千问云发布，阿里云将模型路由、认证、用量查询全面 CLI、SKill化](https://www.infoq.cn/article/zvEY7iEgQOTcIlXDPJ0i?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 16:08
+
+#### [TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵](https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 16:00
+
+#### [Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍](https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 13:31
+
+#### [Fonttrio 发布：面向 shadcn/ui 的开源字体搭配注册表](https://www.infoq.cn/article/18Gjtm6SMtUzuylOEVab?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 11:03
+
+#### [Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击](https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 10:40
+
+#### [阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进](https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 10:00
+
+#### [Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码](https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 09:47
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [滴普科技赵杰辉：协同，企业级智能体的另一道工程题](https://www.tmtpost.com/7999033.html)
+**发布时间**: 2026-05-22 15:46
+
+#### [OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后](https://www.tmtpost.com/7998980.html)
+**发布时间**: 2026-05-22 14:53
+
+#### [产业逻辑迭代，底层技术能否推演可控核聚变产业未来大势？](https://www.tmtpost.com/7996161.html)
+**发布时间**: 2026-05-22 14:03
+
+#### [真让李斌找到蔚来盈利的姿势了](https://www.tmtpost.com/7998184.html)
+**发布时间**: 2026-05-22 14:00
+
+#### [Coding拷问一切，独立大模型赛道的两年生死（上篇）](https://www.tmtpost.com/7998225.html)
+**发布时间**: 2026-05-22 14:00
+
+#### [蔚来用一辆车赚到了钱，但它得靠一张网活下去](https://www.tmtpost.com/7998454.html)
+**发布时间**: 2026-05-22 14:00
+
+#### [新茶饮集体开卖Gelato，各怀鬼胎](https://www.tmtpost.com/7998671.html)
+**发布时间**: 2026-05-22 13:59
+
+#### [独家对话MOVA王鹏宇：从国内打到海外，扫地机的竞争终局是什么？](https://www.tmtpost.com/7998871.html)
+**发布时间**: 2026-05-22 13:56
+
+#### [银行年报里的中国经济真实图景](https://www.tmtpost.com/7998751.html)
+**发布时间**: 2026-05-22 12:24
+
+#### [英伟达凭什么“富可敌国”？](https://www.tmtpost.com/7997413.html)
+**发布时间**: 2026-05-22 12:24
+
+#### [火山引擎，正在告别 Token 崇拜](https://www.tmtpost.com/7998067.html)
+**发布时间**: 2026-05-22 12:24
+
+#### [禾赛的「惊险一跃」，瞄准了物理 AI](https://www.tmtpost.com/7998120.html)
+**发布时间**: 2026-05-22 11:55
+
+#### [卖被子起家的硅谷创始人3个月融5000万，OpenAI、NVIDIA、Anthropic高管追着下注](https://www.tmtpost.com/7998745.html)
+**发布时间**: 2026-05-22 11:55
+
+#### [淘宝闪购规模一年增3 倍：价格战并非主因](https://www.tmtpost.com/7998379.html)
+**发布时间**: 2026-05-22 11:39
+
+#### [现金储备高达 3500 亿美元，巴菲特在担心什么？](https://www.tmtpost.com/7997977.html)
+**发布时间**: 2026-05-22 11:39
+
+#### [这一次，何小鹏输不起了](https://www.tmtpost.com/7998695.html)
+**发布时间**: 2026-05-22 10:35
+
+#### [走过 ICU，蔚来难得靠谱了！](https://www.tmtpost.com/7998674.html)
+**发布时间**: 2026-05-22 10:35
+
+#### [暴涨2400亿！孙正义疯狂押注OpenAI，赚麻了](https://www.tmtpost.com/7998558.html)
+**发布时间**: 2026-05-22 10:35
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [刚刚， GLM-5.1 高速版来了，真的太快快快快快了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533878&idx=1&sn=c8ecc5c7d91dda9355eda9c51c87f2b0)
+**发布时间**: 2026-05-22 11:52
+
+#### [这个 GitHub 神级 Skill，一句话把你开发的网站发布到线上。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533854&idx=1&sn=6995478769c7e6d65f5db5d87a77e81f)
+**发布时间**: 2026-05-21 14:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
+**发布时间**: 2026-05-22 11:03
+
+#### [派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
+**发布时间**: 2026-05-22 08:30
 
 ---
 

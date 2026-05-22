@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-22 00:06
+**最后更新时间**: 2026-05-22 08:24
+
+---
+
+## 🆕 最新更新 (2026-05-22 08:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The European cars made in China](https://www.ft.com/content/5529010d-a1c0-41f6-b7eb-fd916ffcc5ae)
+**发布时间**: 2026-05-22 04:00
+
+#### [Investing in the era of scarcity](https://www.ft.com/content/1a13b8b5-1fc0-49bf-94ed-cb78110b6fcb)
+**发布时间**: 2026-05-22 04:00
+
+#### [Beijing’s unlikely bet on Russia may yet pay off](https://www.ft.com/content/efcb5fec-3a84-41b0-a52d-2861799928a2)
+**发布时间**: 2026-05-22 04:00
+
+#### [Crypto industry braces for quantum computing threat](https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e)
+**发布时间**: 2026-05-22 04:00
+
+#### [JPMorgan looks to offload exposure to $4bn in private equity-linked loans](https://www.ft.com/content/dc63cb21-afdb-4f0e-8667-86fc89f45a03)
+**发布时间**: 2026-05-22 04:00
+
+#### [Next Harvard endowment chief faces a private equity hangover](https://www.ft.com/content/82b7a28f-b317-46c6-a386-d730f67433de)
+**发布时间**: 2026-05-22 04:00
+
+#### [SpaceX scrubs high-stakes test launch of latest Starship spacecraft](https://www.ft.com/content/15c61eaf-e592-483b-8f06-8e2d126276d5)
+**发布时间**: 2026-05-22 00:18
+
+#### [Estée Lauder and Puig end merger talks to create beauty powerhouse](https://www.ft.com/content/1c9439e7-3b4f-48b2-824a-62ff2bbd9f51)
+**发布时间**: 2026-05-21 21:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes](https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 01:23
+
+#### [Stocks tread water — but a wave of volatility is building](https://www.marketwatch.com/story/stocks-tread-water-but-a-wave-of-volatility-is-building-3a337d90?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 00:21
+
+#### [SpaceX has a lot riding on its imminent Starship rocket launch](https://www.marketwatch.com/story/spacex-has-a-lot-riding-on-its-imminent-starship-rocket-launch-fd24bf48?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 00:07
 
 ---
 

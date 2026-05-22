@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ac03db062287999e9bd67f1c29ed3929fbc84f10565f790612429a1ccf50f62a": {
-        "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
-        "link": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 14:43:00 GMT",
-        "first_seen": "2026-04-22T07:00:59.543450"
-      },
-      "d7deaf34906ac85904bc33496bd3f7797aa3e8573c5c3a81638d61af69659cd0": {
-        "title": "下一代数据工程：动态表与五大关键能力，重塑构建范式 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/tHiX6Qmxzmq6BGd9mQtb?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 11:29:00 GMT",
-        "first_seen": "2026-04-22T07:00:59.543461"
-      },
-      "6d73f072c210df65ed134c0eb0a260841b2f48028fd73d7e2473cc35ec40c699": {
-        "title": "谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持",
-        "link": "https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-22T07:00:59.543463"
-      },
-      "1bf7a53276eb9b4c5501d64b78278b97e45c93705e553632f78268e5462a43f3": {
-        "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
-        "link": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-22T07:00:59.543465"
-      },
-      "e8371d2dd5280e9147f514dbe4d439aca5cc833813fc2ac995d0835ec3e327ff": {
-        "title": "苹果改命：财务管家库克体面交棒，产品经理特努斯烫手接棒",
-        "link": "https://www.tmtpost.com/7962457.html",
-        "published_date": "Wed, 22 Apr 2026 11:53:00 GMT",
-        "first_seen": "2026-04-22T07:00:59.543467"
-      },
       "4b0b3b2b4a0c2cd4d2d241065ee6c3227a9691ecb6c90dc1bffe0498e5dcfb6d": {
         "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
         "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
@@ -2491,39 +2461,39 @@
         "link": "https://www.tmtpost.com/7997611.html",
         "published_date": "Thu, 21 May 2026 19:07:00 GMT",
         "first_seen": "2026-05-22T00:06:46.164538"
+      },
+      "5355910fd52038126b85760d9c7ac4e8a58e6942770b29f65213ffd0e44ef419": {
+        "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
+        "link": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 16:00:00 GMT",
+        "first_seen": "2026-05-22T08:25:31.284208"
+      },
+      "ed0bc60bca781f3736318e63ce436c33d6c69ca9751e3c5df80d1e91bda275e5": {
+        "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
+        "link": "https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 10:40:00 GMT",
+        "first_seen": "2026-05-22T08:25:31.284214"
+      },
+      "2465afb070363e3909ff0eac7236ec8bc90162552a02d31b380532963100e816": {
+        "title": "OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后",
+        "link": "https://www.tmtpost.com/7998980.html",
+        "published_date": "Fri, 22 May 2026 14:53:00 GMT",
+        "first_seen": "2026-05-22T08:25:31.284216"
+      },
+      "de3ee2b85ad43bb6627f943d69fa5ccf3fc32fc2f8d5328dcda3a97c09159715": {
+        "title": "Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍",
+        "link": "https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 13:31:00 GMT",
+        "first_seen": "2026-05-22T08:25:31.284218"
+      },
+      "631ecccb2e0fd8d753964d9de2b9bc86ef6e0e77c50f9b43b892e5a4036929fd": {
+        "title": "Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码",
+        "link": "https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 09:47:00 GMT",
+        "first_seen": "2026-05-22T08:25:31.284219"
       }
     },
     "Finance": {
-      "aff9c273863ccfb0b6a043c34909ad98aac65fde3fbc6f94ae5aa388e4e3d83f": {
-        "title": "UK inflation accelerates to 3.3% in March amid Iran energy shock",
-        "link": "https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476",
-        "published_date": "Wed, 22 Apr 2026 06:27:00 GMT",
-        "first_seen": "2026-04-22T07:00:03.677878"
-      },
-      "750fc3ee655b83aa72de8072f5492ce0980bcb881be25fb0e4d601137fed4ce8": {
-        "title": "UK pension funds face ‘huge’ costs to sell private assets",
-        "link": "https://www.ft.com/content/c2df3627-f2f9-4141-b848-e578c0888f68",
-        "published_date": "Wed, 22 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-22T07:00:03.677892"
-      },
-      "c7cec83f8920fc701af067334fe8d99567d84e74a9fa64f1bf18c305463c6ebd": {
-        "title": "SpaceX obtains right to buy AI start-up Cursor for $60bn",
-        "link": "https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860",
-        "published_date": "Wed, 22 Apr 2026 00:39:00 GMT",
-        "first_seen": "2026-04-22T07:00:03.677895"
-      },
-      "496a624a8ebd27ad2217cf3129db8c1b2ad0f2a653d252ff735e913f55f3f1a7": {
-        "title": "Six lessons from history’s greatest financial crises",
-        "link": "https://www.ft.com/content/0bd796c9-bc0e-43ab-bedd-d0294c2efd17",
-        "published_date": "Wed, 22 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-22T07:00:03.677897"
-      },
-      "c9d4ec7eea6f4ffab03e0a662ad765d85d6049b640073536391a0b4228c24b36": {
-        "title": "Iran attacks container ship after Trump extends ceasefire",
-        "link": "https://www.ft.com/content/da5f559c-f340-4091-95ca-dd930627f292",
-        "published_date": "Wed, 22 Apr 2026 03:17:00 GMT",
-        "first_seen": "2026-04-22T07:00:03.677899"
-      },
       "d137de0a9087930403a896fa47f0455556f8481117a607c3cbe435e1e9870c1d": {
         "title": "Adobe is betting a quarter of its value against the so-called SaaSpocalypse",
         "link": "https://www.marketwatch.com/story/adobe-is-betting-a-quarter-of-its-value-against-the-so-called-saaspocalypse-a2143e65?mod=mw_rss_topstories",
@@ -4701,39 +4671,39 @@
         "link": "https://www.ft.com/content/10cecc4e-dbce-477d-9f10-068581c6e650",
         "published_date": "Thu, 21 May 2026 17:10:00 GMT",
         "first_seen": "2026-05-22T00:06:19.175714"
+      },
+      "d6c0f2905ec7e09249b2778a9078652ab25c88c37207d13f938d6aa6f6a961b4": {
+        "title": "Investing in the era of scarcity",
+        "link": "https://www.ft.com/content/1a13b8b5-1fc0-49bf-94ed-cb78110b6fcb",
+        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-22T08:25:05.439215"
+      },
+      "183bc2cbbb0c9f0557dbfc47d8774a22668a2b47d0fa2b140d7f1239fc458cf7": {
+        "title": "JPMorgan looks to offload exposure to $4bn in private equity-linked loans",
+        "link": "https://www.ft.com/content/dc63cb21-afdb-4f0e-8667-86fc89f45a03",
+        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-22T08:25:05.439224"
+      },
+      "fa8314bcc081f5a307eab0645f59c5f863e28c79725eac37502f8fd25c3e80f7": {
+        "title": "Beijing’s unlikely bet on Russia may yet pay off",
+        "link": "https://www.ft.com/content/efcb5fec-3a84-41b0-a52d-2861799928a2",
+        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-22T08:25:05.439226"
+      },
+      "8a0dccc964e260a645c46b0b2ba0d399b35633e1ac0fa9087abc74025f3fd527": {
+        "title": "The European cars made in China",
+        "link": "https://www.ft.com/content/5529010d-a1c0-41f6-b7eb-fd916ffcc5ae",
+        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-22T08:25:05.439228"
+      },
+      "c03e4433d32c6985604194e88ef17fb4869d2425ee885a327a054407bc9f759c": {
+        "title": "Stocks tread water — but a wave of volatility is building",
+        "link": "https://www.marketwatch.com/story/stocks-tread-water-but-a-wave-of-volatility-is-building-3a337d90?mod=mw_rss_topstories",
+        "published_date": "Fri, 22 May 2026 00:21:00 GMT",
+        "first_seen": "2026-05-22T08:25:05.439229"
       }
     },
     "Ai": {
-      "b21a5eb9fbc9525ccddbe7e71280d25eda137c51c6c5a4270aaca74b4c9a29a8": {
-        "title": "2026-04-22日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-22/",
-        "published_date": "Wed, 22 Apr 2026 09:44:00 GMT",
-        "first_seen": "2026-04-22T07:00:31.145476"
-      },
-      "6f8cabfb10ea556c894f7d1b0354973bc9565b8b591a94eb9c86e765f82a8bf3": {
-        "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
-        "link": "https://www.qbitai.com/2026/04/404446.html",
-        "published_date": "Wed, 22 Apr 2026 05:49:00 GMT",
-        "first_seen": "2026-04-22T07:00:31.145486"
-      },
-      "8994c06286c5542ad97f2b63dadd77eff6e76e0e80c6541a0b3fbf5a417d89da": {
-        "title": "从GPU到Token：AI基础设施竞争逻辑重构",
-        "link": "https://www.qbitai.com/2026/04/404440.html",
-        "published_date": "Wed, 22 Apr 2026 04:48:00 GMT",
-        "first_seen": "2026-04-22T07:00:31.145488"
-      },
-      "fe5bc6aadb836ccd288c757237d54073f38eb5da603052b36a250ac65346ad7d": {
-        "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
-        "link": "https://www.qbitai.com/2026/04/404420.html",
-        "published_date": "Wed, 22 Apr 2026 04:12:00 GMT",
-        "first_seen": "2026-04-22T07:00:31.145490"
-      },
-      "75d27001bba0eec54c3003e37c34e59328734fb706607733858b7a2123578f1e": {
-        "title": "6分钟满电续航1500公里！宁王一夜终结加油时代",
-        "link": "https://www.qbitai.com/2026/04/404167.html",
-        "published_date": "Wed, 22 Apr 2026 02:13:00 GMT",
-        "first_seen": "2026-04-22T07:00:31.145491"
-      },
       "47a457636d14e1efceb8d9cff24171bf9f39d91a0cb3464f98ec68c26eb4952a": {
         "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
         "link": "https://www.qbitai.com/2026/04/404604.html",
@@ -6041,13 +6011,43 @@
         "link": "https://www.qbitai.com/2026/05/422001.html",
         "published_date": "Thu, 21 May 2026 09:27:00 GMT",
         "first_seen": "2026-05-22T00:06:56.977040"
+      },
+      "5e1d736121a630f1a90b6f6348858d6186702a3e27ba36b692f65c87b026f3cf": {
+        "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+        "link": "https://www.qbitai.com/2026/05/422624.html",
+        "published_date": "Fri, 22 May 2026 07:16:00 GMT",
+        "first_seen": "2026-05-22T08:26:09.242679"
+      },
+      "e0d4443348586864cdb43dfb1e6c8ea7613d9968042e53e44733e36c09e4223e": {
+        "title": "顶流里最快！智谱，你是在「喷」代码吧",
+        "link": "https://www.qbitai.com/2026/05/422511.html",
+        "published_date": "Fri, 22 May 2026 03:05:00 GMT",
+        "first_seen": "2026-05-22T08:26:09.242686"
+      },
+      "b20860ede67aaf37630cc87b6b3f22ca23519d73867bef055ffa5a35194dc78b": {
+        "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+        "link": "https://www.qbitai.com/2026/05/422455.html",
+        "published_date": "Fri, 22 May 2026 02:57:00 GMT",
+        "first_seen": "2026-05-22T08:26:09.242688"
+      },
+      "4b4666d45fcb2342f407999bbe98fcafded46be06df45c73465abdb30e53c6b5": {
+        "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+        "link": "https://www.qbitai.com/2026/05/422615.html",
+        "published_date": "Fri, 22 May 2026 06:38:00 GMT",
+        "first_seen": "2026-05-22T08:26:09.242690"
+      },
+      "832786c9684fd9d59559b2abe6f098a264f76dae2e4aa6b1308482fe032e9b1b": {
+        "title": "39万！雷军发布小米最贵SUV",
+        "link": "https://www.qbitai.com/2026/05/422088.html",
+        "published_date": "Fri, 22 May 2026 00:50:00 GMT",
+        "first_seen": "2026-05-22T08:26:09.242692"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-22T00:06:46.164541",
-    "Finance": "2026-05-22T00:06:19.175716",
-    "Ai": "2026-05-22T00:06:56.977042"
+    "Technology": "2026-05-22T08:25:31.284222",
+    "Finance": "2026-05-22T08:25:05.439232",
+    "Ai": "2026-05-22T08:26:09.242694"
   }
 }
