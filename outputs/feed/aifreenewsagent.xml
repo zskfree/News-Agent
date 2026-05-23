@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 May 2026 08:22:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 08:26:09 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 00:11:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅</title>
-      <link>https://www.qbitai.com/2026/05/422624.html</link>
-      <description>&lt;![CDATA[融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 07:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422624.html</guid>
+      <title>龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾</title>
+      <link>https://www.qbitai.com/2026/05/422811.html</link>
+      <description>&lt;![CDATA[龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422811.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>顶流里最快！智谱，你是在「喷」代码吧</title>
-      <link>https://www.qbitai.com/2026/05/422511.html</link>
-      <description>&lt;![CDATA[顶流里最快！智谱，你是在「喷」代码吧]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 03:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422511.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法</title>
-      <link>https://www.qbitai.com/2026/05/422455.html</link>
-      <description>&lt;![CDATA[80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 02:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422455.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库</title>
-      <link>https://www.qbitai.com/2026/05/422615.html</link>
-      <description>&lt;![CDATA[狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422615.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>39万！雷军发布小米最贵SUV</title>
-      <link>https://www.qbitai.com/2026/05/422088.html</link>
-      <description>&lt;![CDATA[39万！雷军发布小米最贵SUV]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422088.html</guid>
+      <title>2026-05-22日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-22/</link>
+      <description>&lt;![CDATA[2026-05-22日刊]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-22/</guid>
       <category>Ai</category>
     </item>
   </channel>

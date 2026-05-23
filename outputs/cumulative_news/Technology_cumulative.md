@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-22 08:24
+**最后更新时间**: 2026-05-23 00:10
+
+---
+
+## 🆕 最新更新 (2026-05-23 00:10)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [最后一刻的停火：三星与工会如何拆除“AI时代的炸弹引线”](https://www.tmtpost.com/7999597.html)
+**发布时间**: 2026-05-22 23:40
+
+#### [可灵AI“暴打”短漫剧成本，快手推出8亿分账、GMV共享](https://www.tmtpost.com/7999440.html)
+**发布时间**: 2026-05-22 23:35
+
+#### [好莱坞疯找这个中专生做AI电影，但他说：不站AI](https://www.tmtpost.com/7999339.html)
+**发布时间**: 2026-05-22 23:34
+
+#### [盛和资源：稀土供需有望持续改善，加快向更多资源品种延伸｜直击股东会](https://www.tmtpost.com/7999544.html)
+**发布时间**: 2026-05-22 21:41
+
+#### [14.9克的AI眼镜，Moonix的极简硬件哲学｜AI Founder 请回答](https://www.tmtpost.com/7999418.html)
+**发布时间**: 2026-05-22 21:16
+
+#### [概念炒到470亿，分红只有1分/股：远东股份是谁的盛宴？](https://www.tmtpost.com/7999478.html)
+**发布时间**: 2026-05-22 20:31
+
+#### [宿迁的机器人导师军团，正炼制千万小时“数字燃料”](https://www.tmtpost.com/7999182.html)
+**发布时间**: 2026-05-22 20:27
+
+#### [中国团队这篇《Nature》，要把充电宝送进博物馆？](https://www.tmtpost.com/7998994.html)
+**发布时间**: 2026-05-22 19:02
+
+#### [「全民养虾」50天：一场AI套利狂欢与它的骤然终结](https://www.tmtpost.com/7999098.html)
+**发布时间**: 2026-05-22 19:00
+
+#### [AI 时代：沉默者的新生，数字文娱的价值重塑](https://www.tmtpost.com/7992057.html)
+**发布时间**: 2026-05-22 19:00
+
+#### [继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考](https://www.tmtpost.com/7999065.html)
+**发布时间**: 2026-05-22 18:40
+
+#### [马斯克的SpaceX万亿IPO迷局](https://www.tmtpost.com/7999088.html)
+**发布时间**: 2026-05-22 18:02
+
+#### [人类最强商业航天公司，一年只亏了49亿美元](https://www.tmtpost.com/7999070.html)
+**发布时间**: 2026-05-22 18:02
+
+#### [中国存储往事](https://www.tmtpost.com/7998265.html)
+**发布时间**: 2026-05-22 18:02
+
+#### [全球社交的旧王与新王](https://www.tmtpost.com/7998944.html)
+**发布时间**: 2026-05-22 17:08
+
+#### [OpenAI被Anthropic踹下王座，年亏400亿巨头输给了一个会“造血”的前员工](https://www.tmtpost.com/7998860.html)
+**发布时间**: 2026-05-22 17:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场](https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 20:34
+
+#### [Anthropic 推出 MCP 隧道，供私有代理访问内部系统](https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 20:00
+
+#### [Agoda 构建多模态内容系统，链接图片和评论](https://www.infoq.cn/article/l48TRuhZJve9omIaa2Ih?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:47
+
+#### [别再骂 Claude 限速了，Anthropic Boris 亲口承认：最挑剔的用户，反而最离不开我们](https://www.infoq.cn/article/SuTZe24r2UTRkR82ODl9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:42
+
+#### [为创造，再一次信仰之跃 ｜AdventureX 2026 开启招募](https://www.infoq.cn/article/165EQogRaOttWJ4bFQGl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:35
+
+#### [GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”](https://www.infoq.cn/article/VZ4KvkToY57zj0ycsdBF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:17
+
+#### [AI Coding 很强，为什么企业没提速？](https://www.infoq.cn/video/L2Joj8CCghK126zbga2h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:15
+
+#### [Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆](https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:13
+
+#### [中经社发布“十五五”新产业研究智能体，可自主生成产业链分析报告](https://www.infoq.cn/article/2Gb32HBQU3CtTGm7oqq3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 18:01
+
+#### [虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题](https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-22 17:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
+**发布时间**: 2026-05-22 18:12
+
+#### [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
+**发布时间**: 2026-05-22 15:37
 
 ---
 

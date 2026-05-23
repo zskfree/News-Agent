@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 May 2026 08:24:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 08:25:31 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 00:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 00:11:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵</title>
-      <link>https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆</title>
+      <link>https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 18:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击</title>
-      <link>https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI被Anthropic踹下王座，年亏400亿巨头输给了一个会“造血”的前员工</title>
+      <link>https://www.tmtpost.com/7998860.html</link>
+      <description>&lt;![CDATA[OpenAI被Anthropic踹下王座，年亏400亿巨头输给了一个会“造血”的前员工]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 17:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7998860.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后</title>
-      <link>https://www.tmtpost.com/7998980.html</link>
-      <description>&lt;![CDATA[OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7998980.html</guid>
+      <title>继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考</title>
+      <link>https://www.tmtpost.com/7999065.html</link>
+      <description>&lt;![CDATA[继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999065.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍</title>
-      <link>https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 13:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场</title>
+      <link>https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码</title>
-      <link>https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</guid>
+      <title>可灵AI“暴打”短漫剧成本，快手推出8亿分账、GMV共享</title>
+      <link>https://www.tmtpost.com/7999440.html</link>
+      <description>&lt;![CDATA[可灵AI“暴打”短漫剧成本，快手推出8亿分账、GMV共享]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 23:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999440.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-22 08:24
+**最后更新时间**: 2026-05-23 00:10
+
+---
+
+## 🆕 最新更新 (2026-05-23 00:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?](https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 23:55
+
+#### [Consumer sentiment sinks to an all-time low. Is this about Democrats’ distaste for Trump?](https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 23:43
+
+#### [This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August](https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 23:15
+
+#### [Worried about private credit? Stay away from this even riskier investment right now.](https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 20:56
+
+#### [IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers](https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 20:38
+
+#### [The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio](https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 20:33
+
+#### [Ford’s stock climbs to highest close in three years. Here’s what’s behind its run.](https://www.marketwatch.com/story/fords-stock-climbs-to-highest-close-in-three-years-heres-whats-behind-its-run-9fa2e378?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 20:28
+
+#### [Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to](https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories)
+**发布时间**: 2026-05-22 20:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump administration to make foreigners leave US to apply for green cards](https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a)
+**发布时间**: 2026-05-22 22:48
+
+#### [Tulsi Gabbard resigns as Donald Trump’s US intelligence chief](https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd)
+**发布时间**: 2026-05-22 19:26
+
+#### [Trump lashes out at Republicans who oppose his ‘anti-weaponisation’ fund](https://www.ft.com/content/bf9cf8d8-ace7-48f5-a0ce-35b4c89553cd)
+**发布时间**: 2026-05-22 18:41
+
+#### [Pakistan army chief travels to Tehran in push for US-Iran deal](https://www.ft.com/content/4fd37931-1f30-43e7-92ed-3ae26c87a00f)
+**发布时间**: 2026-05-22 18:32
+
+#### [Wall Street bets on 2026 rate rise as Kevin Warsh takes charge of the Fed](https://www.ft.com/content/7a0b2b54-c62b-4498-8b8d-512ef7f2cb5d)
+**发布时间**: 2026-05-22 16:15
+
+#### [America’s ‘simultaneity’ nightmare](https://www.ft.com/content/3292bc37-91e8-4b23-83f7-d131fd7ee198)
+**发布时间**: 2026-05-22 16:00
+
+#### [Jonathan Andic, the Mango heir turned homicide suspect](https://www.ft.com/content/0f69f5ba-09c7-490d-9f8a-8458467546af)
+**发布时间**: 2026-05-22 14:37
+
+#### [US parks dozens of military aircraft at Israel’s Ben Gurion airport](https://www.ft.com/content/37629c1d-601e-41d3-9aff-27c5327c1c81)
+**发布时间**: 2026-05-22 13:06
+
+#### [Trump’s death grip on a shrinking party](https://www.ft.com/content/20510912-875a-48e0-89f5-5cf52453b0cd)
+**发布时间**: 2026-05-22 13:00
+
+#### [If you think you understand bonds, you don’t](https://www.ft.com/content/e7258e06-7be0-4578-80d1-994f27ba3c2b)
+**发布时间**: 2026-05-22 11:00
+
+#### [Trump’s risky military options to break Iran deadlock](https://www.ft.com/content/dbfb7578-e9aa-426a-8c8c-a439f589fbc5)
+**发布时间**: 2026-05-22 10:34
 
 ---
 
