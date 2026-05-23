@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-23 07:35
+**最后更新时间**: 2026-05-23 09:57
+
+---
+
+## 🆕 最新更新 (2026-05-23 09:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom](https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12)
+**发布时间**: 2026-05-23 08:00
 
 ---
 

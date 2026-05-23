@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 07:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 07:35:31 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 09:57:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构</title>
-      <link>https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构</title>
+      <link>https://www.tmtpost.com/7999893.html</link>
+      <description>&lt;![CDATA[【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999893.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2万亿美元的火星船票，SpaceX开启人类史上最大IPO</title>
-      <link>https://www.tmtpost.com/7999535.html</link>
-      <description>&lt;![CDATA[2万亿美元的火星船票，SpaceX开启人类史上最大IPO]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999535.html</guid>
+      <title>监管重拳落地：老虎、富途遭重罚，跨境炒股“野蛮时代”终结</title>
+      <link>https://www.tmtpost.com/7999493.html</link>
+      <description>&lt;![CDATA[监管重拳落地：老虎、富途遭重罚，跨境炒股“野蛮时代”终结]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999493.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI融资潮中的三种故事</title>
-      <link>https://www.tmtpost.com/7999581.html</link>
-      <description>&lt;![CDATA[AI融资潮中的三种故事]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999581.html</guid>
+      <title>日产上千部短剧！AI 狂飙背后，行业早已两极分化</title>
+      <link>https://www.tmtpost.com/7996131.html</link>
+      <description>&lt;![CDATA[日产上千部短剧！AI 狂飙背后，行业早已两极分化]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7996131.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进</title>
-      <link>https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智谱凭什么一天暴涨近30%？</title>
+      <link>https://www.tmtpost.com/7999430.html</link>
+      <description>&lt;![CDATA[智谱凭什么一天暴涨近30%？]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战</title>
-      <link>https://www.tmtpost.com/7999676.html</link>
-      <description>&lt;![CDATA[2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999676.html</guid>
+      <title>推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6</link>
+      <description>&lt;![CDATA[推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 07:35:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 07:35:11 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 09:57:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The new arms race in computing power</title>
-      <link>https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e</link>
-      <description>&lt;![CDATA[The new arms race in computing power]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The new Luddite movement</title>
-      <link>https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df</link>
-      <description>&lt;![CDATA[The new Luddite movement]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Arsenal’s hold on the streets and the elites</title>
-      <link>https://www.ft.com/content/2491cee3-8644-4cad-829d-8749f639515b</link>
-      <description>&lt;![CDATA[Arsenal’s hold on the streets and the elites]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2491cee3-8644-4cad-829d-8749f639515b</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>China Inc goes shopping for western consumer brands</title>
-      <link>https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640</link>
-      <description>&lt;![CDATA[China Inc goes shopping for western consumer brands]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>SpaceX launches redesigned Starship in successful pre-IPO test</title>
-      <link>https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91</link>
-      <description>&lt;![CDATA[SpaceX launches redesigned Starship in successful pre-IPO test]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 00:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91</guid>
+      <title>SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom</title>
+      <link>https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12</link>
+      <description>&lt;![CDATA[SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12</guid>
       <category>Finance</category>
     </item>
   </channel>
