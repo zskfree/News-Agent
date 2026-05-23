@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fffeaed3b31cda0b4b0092f53b4d9dcb89d68f30736dcaf49c3497132c67035a": {
-        "title": "瑞士信息与通信科技企业Albatross研发用于商品实时推荐的AI模型，提升用户个性化导购体验",
-        "link": "https://www.tmtpost.com/7963939.html",
-        "published_date": "Thu, 23 Apr 2026 11:53:00 GMT",
-        "first_seen": "2026-04-23T07:03:53.164270"
-      },
-      "0742edab871aa333c2cd90bb861213828c0c40914b306718967f766dbc27d01d": {
-        "title": "FAIR plus2026正式开展，深圳机器人白皮书重磅发布",
-        "link": "https://www.tmtpost.com/7963971.html",
-        "published_date": "Thu, 23 Apr 2026 12:17:00 GMT",
-        "first_seen": "2026-04-23T07:03:53.164280"
-      },
-      "5937fa7c4643975cbc33981e1ea325db85ea6e538a9c3b92444caa3268c2b68c": {
-        "title": "凯达重工：未上市业绩先变脸，研发不足2%却高毛利，核心品惊现负毛利销售｜IPO观察",
-        "link": "https://www.tmtpost.com/7962894.html",
-        "published_date": "Thu, 23 Apr 2026 10:09:00 GMT",
-        "first_seen": "2026-04-23T07:03:53.164283"
-      },
-      "227ebe130f22099edfaa4e0622db7ebce2dde1c935f9fbb43a64e1c6246f0bdc": {
-        "title": "派早报：鸿蒙智行发布多款车型、Framework 推出多款新品等",
-        "link": "https://sspai.com/post/108991",
-        "published_date": "Thu, 23 Apr 2026 08:34:00 GMT",
-        "first_seen": "2026-04-23T07:03:53.164285"
-      },
-      "833f2b40d8988937f06a6d750298b3c67b9b04eae8a7bc2737a5cb46b0dd763c": {
-        "title": "中年期干预、多靶点延寿，“长生不老”医学走到哪一步了？丨行业风向标",
-        "link": "https://www.tmtpost.com/7963992.html",
-        "published_date": "Thu, 23 Apr 2026 14:29:00 GMT",
-        "first_seen": "2026-04-23T07:03:53.164287"
-      },
       "6a33d73877c0393845e3eee11e3434da9e5cfa866b956306e9ff039d82d8d3da": {
         "title": "全年净利润腰斩、研发与销售费用双高，普门科技“烧钱”渡劫丨看财报",
         "link": "https://www.tmtpost.com/7964264.html",
@@ -2461,39 +2431,39 @@
         "link": "https://www.tmtpost.com/7999440.html",
         "published_date": "Fri, 22 May 2026 23:35:00 GMT",
         "first_seen": "2026-05-23T00:11:19.387551"
+      },
+      "638c9d2e2d1b6a97cce124e45b126fe706c0d5fcd37551791384cc6cb2ef6edd": {
+        "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+        "link": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 23 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.633170"
+      },
+      "d7a7c4672bd0c21689d5b2641f3cee29d720cea2017f942526966f08255c4a09": {
+        "title": "2万亿美元的火星船票，SpaceX开启人类史上最大IPO",
+        "link": "https://www.tmtpost.com/7999535.html",
+        "published_date": "Sat, 23 May 2026 09:57:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.633176"
+      },
+      "13a08e2b2814b9b26d18b21388972354e8d404842d3929feeb58998024f41b1a": {
+        "title": "AI融资潮中的三种故事",
+        "link": "https://www.tmtpost.com/7999581.html",
+        "published_date": "Sat, 23 May 2026 10:44:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.633179"
+      },
+      "a68f170e1768f9c69911f3a76a5fb8e47db2c5fb8d0569688781da58e163b513": {
+        "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+        "link": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.633181"
+      },
+      "0f38f8f9567b0966772fbe2592eb94c7600b361b84752d599e8fbb8acc5a44ad": {
+        "title": "2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战",
+        "link": "https://www.tmtpost.com/7999676.html",
+        "published_date": "Sat, 23 May 2026 10:43:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.633182"
       }
     },
     "Finance": {
-      "cb82ec6eccbdd293cce52dfe4a8a343dc27802be30b0aeb9900b0dc1dda1a4f4": {
-        "title": "UK public sector borrowing hit £12.6bn in March as Iran war strains finances",
-        "link": "https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0",
-        "published_date": "Thu, 23 Apr 2026 06:17:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.609510"
-      },
-      "1707cd096d7d99df78aaccf53afed65d0c2c0ca2ddd49cb1bf94798fefc6e53a": {
-        "title": "Escape from Hormuz: the oil tankers running the Iranian gauntlet",
-        "link": "https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d",
-        "published_date": "Thu, 23 Apr 2026 04:06:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.609519"
-      },
-      "24fe9cae946f1cdca182825688bcb65db8086a00d714d1c29f8c5fbdc9e20a20": {
-        "title": "Allegations about Mandelson and Epstein reported to National Crime Agency in 2024",
-        "link": "https://www.ft.com/content/0d650019-7f2f-45bc-a93f-e100f99086b9",
-        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.609521"
-      },
-      "2754e3fa3868c58cc162a17cbd623c08c085f6643a13660487e65d54f520e181": {
-        "title": "Sadiq Khan: Labour risks being ‘stonked’ in London elections",
-        "link": "https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb",
-        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.609522"
-      },
-      "31330eeb156b5cb10ee2c5aacad3866226af661c4a884447be2425449b9a8e85": {
-        "title": "Business degrees are booming in the UK. Who is profiting?",
-        "link": "https://www.ft.com/content/e199ae71-f4a2-4abd-9444-de47c456b7ae",
-        "published_date": "Thu, 23 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.609524"
-      },
       "b5f6ad96b99ed9436eca4584874618e1b1fc984b5771d2c7aae842ad268c5ec8": {
         "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
         "link": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
@@ -4641,39 +4611,39 @@
         "link": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories",
         "published_date": "Fri, 22 May 2026 20:38:00 GMT",
         "first_seen": "2026-05-23T00:10:52.789244"
+      },
+      "8b54678a45dd711747807688e58c1eda1e4e6a70330f8f1f6e7ca79618e7d56c": {
+        "title": "The new arms race in computing power",
+        "link": "https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e",
+        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:11.234083"
+      },
+      "8b69b5de380801cc39d227664d617478a95c0bda98b0e405169153f7d7eaf08d": {
+        "title": "The new Luddite movement",
+        "link": "https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df",
+        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:11.234095"
+      },
+      "91b0a5b9f9f367abbafaaf637760b0edd181b6f80b412985e0e5c01855a64d0d": {
+        "title": "Arsenal’s hold on the streets and the elites",
+        "link": "https://www.ft.com/content/2491cee3-8644-4cad-829d-8749f639515b",
+        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:11.234099"
+      },
+      "fb628be0ef06df58d5487143992f20fd0fe869084afe18ffcf64568b2be29406": {
+        "title": "China Inc goes shopping for western consumer brands",
+        "link": "https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640",
+        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-23T07:35:11.234101"
+      },
+      "befcee39dba302d9bc731f2d5e4a3cb796f31418df541b2a1362ebb052b7fc3e": {
+        "title": "SpaceX launches redesigned Starship in successful pre-IPO test",
+        "link": "https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91",
+        "published_date": "Sat, 23 May 2026 00:30:00 GMT",
+        "first_seen": "2026-05-23T07:35:11.234103"
       }
     },
     "Ai": {
-      "97a05d3504b5b26fbb66fc658457251d987ab32ff0edfc7e4a117cde4c7502e0": {
-        "title": "2026-04-23日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-23/",
-        "published_date": "Thu, 23 Apr 2026 10:22:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.757750"
-      },
-      "2aaec30e157e31b4a288d08d49211109c8d88e464e3af3a9275c442884f5fed2": {
-        "title": "Nature封面：机器人乒乓球干翻人类职业选手",
-        "link": "https://www.qbitai.com/2026/04/405370.html",
-        "published_date": "Thu, 23 Apr 2026 06:45:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.757758"
-      },
-      "15f9178cfcec81c0a5d88db0372f7f7b09ee130e1b8ad5728cb22741ff3c87a9": {
-        "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
-        "link": "https://www.qbitai.com/2026/04/405358.html",
-        "published_date": "Thu, 23 Apr 2026 05:13:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.757760"
-      },
-      "4937d82c64c16b6dcbc25329a7c22c1a9947bd5b39240a941e2b14a8a391c834": {
-        "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
-        "link": "https://www.qbitai.com/2026/04/405325.html",
-        "published_date": "Thu, 23 Apr 2026 00:57:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.757762"
-      },
-      "7fbc8542b71fd9361d2e83b8f528808283ce6d4a32d6ffed8d903cf1b25f2cec": {
-        "title": "挖漏洞何必Mythos，国产智能体早跑通了",
-        "link": "https://www.qbitai.com/2026/04/405299.html",
-        "published_date": "Thu, 23 Apr 2026 00:43:00 GMT",
-        "first_seen": "2026-04-23T07:04:11.757763"
-      },
       "9f1c2933fe59bf0d549779fd7841e49fc33e7867d494a104baa3b6a6007d964d": {
         "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
         "link": "https://www.qbitai.com/2026/04/405391.html",
@@ -5951,13 +5921,25 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-22/",
         "published_date": "Fri, 22 May 2026 10:45:00 GMT",
         "first_seen": "2026-05-23T00:11:19.499775"
+      },
+      "306ba59292c15a42fe3b8c4c7531f18ce82be1b69501befda82c438191cc3332": {
+        "title": "2026-05-23日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-23/",
+        "published_date": "Sat, 23 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.752816"
+      },
+      "66b468939792d17d61f2910db1d836ca9f8877dd7cf19eddf517740535910dfd": {
+        "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+        "link": "https://www.qbitai.com/2026/05/423159.html",
+        "published_date": "Sat, 23 May 2026 02:48:00 GMT",
+        "first_seen": "2026-05-23T07:35:31.752824"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-23T00:11:19.387554",
-    "Finance": "2026-05-23T00:10:52.789246",
-    "Ai": "2026-05-23T00:11:19.499778"
+    "Technology": "2026-05-23T07:35:31.633185",
+    "Finance": "2026-05-23T07:35:11.234105",
+    "Ai": "2026-05-23T07:35:31.752827"
   }
 }

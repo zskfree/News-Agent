@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 00:11:19 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 07:35:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 07:35:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆</title>
-      <link>https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构</title>
+      <link>https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI被Anthropic踹下王座，年亏400亿巨头输给了一个会“造血”的前员工</title>
-      <link>https://www.tmtpost.com/7998860.html</link>
-      <description>&lt;![CDATA[OpenAI被Anthropic踹下王座，年亏400亿巨头输给了一个会“造血”的前员工]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7998860.html</guid>
+      <title>2万亿美元的火星船票，SpaceX开启人类史上最大IPO</title>
+      <link>https://www.tmtpost.com/7999535.html</link>
+      <description>&lt;![CDATA[2万亿美元的火星船票，SpaceX开启人类史上最大IPO]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999535.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考</title>
-      <link>https://www.tmtpost.com/7999065.html</link>
-      <description>&lt;![CDATA[继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999065.html</guid>
+      <title>AI融资潮中的三种故事</title>
+      <link>https://www.tmtpost.com/7999581.html</link>
+      <description>&lt;![CDATA[AI融资潮中的三种故事]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999581.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场</title>
-      <link>https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 20:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进</title>
+      <link>https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可灵AI“暴打”短漫剧成本，快手推出8亿分账、GMV共享</title>
-      <link>https://www.tmtpost.com/7999440.html</link>
-      <description>&lt;![CDATA[可灵AI“暴打”短漫剧成本，快手推出8亿分账、GMV共享]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 23:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999440.html</guid>
+      <title>2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战</title>
+      <link>https://www.tmtpost.com/7999676.html</link>
+      <description>&lt;![CDATA[2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999676.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 00:11:19 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 07:33:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 07:35:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾</title>
-      <link>https://www.qbitai.com/2026/05/422811.html</link>
-      <description>&lt;![CDATA[龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/422811.html</guid>
+      <title>2026-05-23日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-23/</link>
+      <description>&lt;![CDATA[2026-05-23日刊]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-23/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-05-22日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-22/</link>
-      <description>&lt;![CDATA[2026-05-22日刊]]&gt;</description>
-      <pubDate>Fri, 22 May 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-22/</guid>
+      <title>美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资</title>
+      <link>https://www.qbitai.com/2026/05/423159.html</link>
+      <description>&lt;![CDATA[美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 02:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423159.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-23 00:10
+**最后更新时间**: 2026-05-23 07:35
+
+---
+
+## 🆕 最新更新 (2026-05-23 07:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The new arms race in computing power](https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e)
+**发布时间**: 2026-05-23 04:00
+
+#### [The new Luddite movement](https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df)
+**发布时间**: 2026-05-23 04:00
+
+#### [Arsenal’s hold on the streets and the elites](https://www.ft.com/content/2491cee3-8644-4cad-829d-8749f639515b)
+**发布时间**: 2026-05-23 04:00
+
+#### [China Inc goes shopping for western consumer brands](https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640)
+**发布时间**: 2026-05-23 04:00
+
+#### [SpaceX launches redesigned Starship in successful pre-IPO test](https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91)
+**发布时间**: 2026-05-23 00:30
+
+#### [Indian youth ‘cockroach’ protest goes viral](https://www.ft.com/content/2bfed8a4-8ea0-4627-b7a8-e9ca46945239)
+**发布时间**: 2026-05-22 20:00
 
 ---
 
