@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-24 07:52
+**最后更新时间**: 2026-05-24 09:58
+
+---
+
+## 🆕 最新更新 (2026-05-24 09:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile](https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413)
+**发布时间**: 2026-05-24 08:06
+
+#### [Egypt deploys jets to UAE as Iran war strains Arab alliances](https://www.ft.com/content/8e81a505-7aa4-4c42-a103-f89b5e095901)
+**发布时间**: 2026-05-24 04:00
 
 ---
 

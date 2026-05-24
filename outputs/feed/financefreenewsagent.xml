@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 May 2026 07:52:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 May 2026 07:52:37 GMT</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 09:58:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 09:58:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump says deal with Iran to reopen Hormuz ‘largely negotiated’</title>
-      <link>https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f</link>
-      <description>&lt;![CDATA[Trump says deal with Iran to reopen Hormuz ‘largely negotiated’]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 01:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>South-east Asian economies struggle to counter energy shock</title>
-      <link>https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989</link>
-      <description>&lt;![CDATA[South-east Asian economies struggle to counter energy shock]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 01:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Commerzbank rallies shareholders in fight for independence from UniCredit</title>
-      <link>https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56</link>
-      <description>&lt;![CDATA[Commerzbank rallies shareholders in fight for independence from UniCredit]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The power struggle in the world’s narrow seas</title>
-      <link>https://ig.ft.com/maritime-chokepoints/</link>
-      <description>&lt;![CDATA[The power struggle in the world’s narrow seas]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ig.ft.com/maritime-chokepoints/</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran’s Guards used UAE company to buy military satellite equipment</title>
-      <link>https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44</link>
-      <description>&lt;![CDATA[Iran’s Guards used UAE company to buy military satellite equipment]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44</guid>
+      <title>Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile</title>
+      <link>https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413</link>
+      <description>&lt;![CDATA[Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile]]&gt;</description>
+      <pubDate>Sun, 24 May 2026 08:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413</guid>
       <category>Finance</category>
     </item>
   </channel>
