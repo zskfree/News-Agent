@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5a344b8c47ee94194bb899c5e4c73bc1a8b6c9aa88fed9a11b0cb669db43928e": {
-        "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
-        "link": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:57.418257"
-      },
-      "dbc6cef95780d215fa0baa41b6b6336ce73f083b9de9264b0958491c98674881": {
-        "title": "GPT-5.5发布：两倍定价，半步进化",
-        "link": "https://www.tmtpost.com/7965610.html",
-        "published_date": "Fri, 24 Apr 2026 12:55:00 GMT",
-        "first_seen": "2026-04-24T07:09:57.418268"
-      },
-      "b8bafed705d1710a621108b847e17cf900e072a98a0120bf5f5495303305d213": {
-        "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
-        "link": "https://sspai.com/post/109032",
-        "published_date": "Fri, 24 Apr 2026 08:52:00 GMT",
-        "first_seen": "2026-04-24T07:09:57.418269"
-      },
-      "7dec5bd069a6c35c19547ac0388dbaf94174c33434abb29571e14ec9995859f6": {
-        "title": "银行业PDF表格提取方案重构：基于Java的分层方案",
-        "link": "https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:57.418272"
-      },
-      "274c07f708cd70b407a4be33166dc873e29489c658abb8a9d873c6fbee8616b6": {
-        "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
-        "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 11:07:00 GMT",
-        "first_seen": "2026-04-24T07:09:57.418273"
-      },
       "69cc0a46da1ae9595b3400cd75b532ac6d1e34818287a10c5b0892092b7c3534": {
         "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
         "link": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
@@ -2461,39 +2431,39 @@
         "link": "https://www.tmtpost.com/7999847.html",
         "published_date": "Sat, 23 May 2026 18:10:00 GMT",
         "first_seen": "2026-05-24T00:02:34.790087"
+      },
+      "ab6a645b7552b8061018074e003fbc1725b7f90bfb4686293503ee424232f7dc": {
+        "title": "宇树、云深处和乐聚：三份招股书，一条生存线",
+        "link": "https://www.tmtpost.com/8000072.html",
+        "published_date": "Sun, 24 May 2026 08:52:00 GMT",
+        "first_seen": "2026-05-24T07:52:58.896473"
+      },
+      "13a28d2faf8f310848d48360286ecfe75db954dc6f0651a7d1cd400cd2aae8f0": {
+        "title": "活过来的Codex，扛起了OpenAI上市的希望",
+        "link": "https://www.tmtpost.com/8000341.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T07:52:58.896480"
+      },
+      "e2023793cb9b70ef89d493c140fad3b9250b675112af344be6bbcfd0b46f4577": {
+        "title": "能随意窃取数据！这款热门 AI 编程工具曝重大隐患",
+        "link": "https://www.tmtpost.com/7997541.html",
+        "published_date": "Sun, 24 May 2026 08:59:00 GMT",
+        "first_seen": "2026-05-24T07:52:58.896482"
+      },
+      "aa362cf6e63d3b4da73a0b97fa5fac0af8c2c977262a35152b2d2ff5fbdbcab1": {
+        "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
+        "link": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 24 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-24T07:52:58.896484"
+      },
+      "38cb3c83078461cc42b005f660f3bbf232f8deeff1235b41a670f5e5c0b36e28": {
+        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
+        "link": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 24 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-24T07:52:58.896486"
       }
     },
     "Finance": {
-      "32609b1681f31eb71a67d56cf38404b48a3fa0cb3c2e86645d4126abc11969de": {
-        "title": "Banks charged sharply different fees for access to Anthropic investment",
-        "link": "https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61",
-        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:40.883726"
-      },
-      "2f6d11ab3d206f660e612324c49f4d78a0c64059c7cfd9ca73160808df3bb386": {
-        "title": "Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans",
-        "link": "https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 00:01:00 GMT",
-        "first_seen": "2026-04-24T07:09:40.883738"
-      },
-      "c6413ceadef001215513f71e71291b881d5270e253f9fa02f29cf68db68e4eca": {
-        "title": "Warsh, Bessent and the fight for dollar supremacy",
-        "link": "https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519",
-        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:40.883741"
-      },
-      "4fea5ae18639d43318b3bc79b83fdc1142b7a7e50a631ae81b6035e4689947de": {
-        "title": "KPMG and EY demote partners in end of job-for-life model",
-        "link": "https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6",
-        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:40.883744"
-      },
-      "8209da2f1f625efa30eb0b834833f22a683d235390d314d519f0c37ca4367b65": {
-        "title": "Morgan McSweeney held talks with Google DeepMind over AI project",
-        "link": "https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9",
-        "published_date": "Fri, 24 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-24T07:09:40.883746"
-      },
       "e4909adc249705e6dba7f49e10c7087edfce89dee920205d94a2cb326ca3eee4": {
         "title": "‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?",
         "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
@@ -4617,21 +4587,39 @@
         "link": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
         "published_date": "Sat, 23 May 2026 19:00:00 GMT",
         "first_seen": "2026-05-24T00:02:16.817323"
+      },
+      "e988a80f566e62ece62c67e7efa047d203936668a6cd764aaa8a8b7675ce06f3": {
+        "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
+        "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
+        "published_date": "Sun, 24 May 2026 01:29:00 GMT",
+        "first_seen": "2026-05-24T07:52:37.913176"
+      },
+      "c44f221a7810982629134acad4d924d36ee8b6c3aaa436029aef31ff1dfbcf50": {
+        "title": "South-east Asian economies struggle to counter energy shock",
+        "link": "https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989",
+        "published_date": "Sun, 24 May 2026 01:06:00 GMT",
+        "first_seen": "2026-05-24T07:52:37.913186"
+      },
+      "c2a8f8654a43f7de6bea765f64660ab528bac9bd9c33dc77414e1288ccedd4b0": {
+        "title": "Commerzbank rallies shareholders in fight for independence from UniCredit",
+        "link": "https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56",
+        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-24T07:52:37.913189"
+      },
+      "80555f67035b271cf4bff675a9f65c5b5b4c2983918b6c8e3bf8de4681a861ce": {
+        "title": "The power struggle in the world’s narrow seas",
+        "link": "https://ig.ft.com/maritime-chokepoints/",
+        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-24T07:52:37.913192"
+      },
+      "6ae9ccc8c6991821282fea98c2b41df58162ec06532321f385ce79770c392e47": {
+        "title": "Iran’s Guards used UAE company to buy military satellite equipment",
+        "link": "https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44",
+        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-24T07:52:37.913194"
       }
     },
     "Ai": {
-      "caee91f2ef47505af0ce50fc94b2d358c83504ed5b102801ae8e921aa6550583": {
-        "title": "2026-04-24日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-24/",
-        "published_date": "Fri, 24 Apr 2026 09:57:00 GMT",
-        "first_seen": "2026-04-24T07:09:41.025456"
-      },
-      "4a4f4db1c7f4a73df02322a09cc5496c8caf513dc920da830ea4d91eb3411bb0": {
-        "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
-        "link": "https://www.qbitai.com/2026/04/406359.html",
-        "published_date": "Fri, 24 Apr 2026 04:17:00 GMT",
-        "first_seen": "2026-04-24T07:09:41.025463"
-      },
       "89cb9295e6ffcb01c53cd38cbd338e17e0611fabe71f903853168521bbbd0ed1": {
         "title": "DeepSeek-V4发布，华为云首发适配",
         "link": "https://www.qbitai.com/2026/04/406791.html",
@@ -5891,13 +5879,37 @@
         "link": "https://www.qbitai.com/2026/05/423162.html",
         "published_date": "Sat, 23 May 2026 09:46:00 GMT",
         "first_seen": "2026-05-24T00:02:34.905598"
+      },
+      "7355bd81154a13c0cfd2bbb153fdad6708781c0239aaed2f7be9ba254708bf27": {
+        "title": "2026-05-24日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-24/",
+        "published_date": "Sun, 24 May 2026 10:35:00 GMT",
+        "first_seen": "2026-05-24T07:52:59.012246"
+      },
+      "efb2a2f9b34c5bae69d31d9c5561be051012bfe0b52078f59b516338cc7c7c43": {
+        "title": "谷歌CEO承认Coding落后了",
+        "link": "https://www.qbitai.com/2026/05/423390.html",
+        "published_date": "Sun, 24 May 2026 06:20:00 GMT",
+        "first_seen": "2026-05-24T07:52:59.012255"
+      },
+      "5d2bc08cc0b3e8bcc7e343d5d76a7b5d3f130edb22ba3d1523b79ee5cd68af6e": {
+        "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/423382.html",
+        "published_date": "Sun, 24 May 2026 06:14:00 GMT",
+        "first_seen": "2026-05-24T07:52:59.012257"
+      },
+      "ccea1b354971f29f834b4a563f4ab5d056cbfb7b4e472acc81e8959352cbfc5a": {
+        "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+        "link": "https://www.qbitai.com/2026/05/423213.html",
+        "published_date": "Sun, 24 May 2026 04:53:00 GMT",
+        "first_seen": "2026-05-24T07:52:59.012259"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-24T00:02:34.790089",
-    "Finance": "2026-05-24T00:02:16.817326",
-    "Ai": "2026-05-24T00:02:34.905600"
+    "Technology": "2026-05-24T07:52:58.896489",
+    "Finance": "2026-05-24T07:52:37.913196",
+    "Ai": "2026-05-24T07:52:59.012261"
   }
 }

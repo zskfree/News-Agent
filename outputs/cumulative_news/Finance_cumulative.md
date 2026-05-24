@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-24 00:02
+**最后更新时间**: 2026-05-24 07:52
+
+---
+
+## 🆕 最新更新 (2026-05-24 07:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Suspect killed after gunfire exchange with Secret Service outside White House](https://www.ft.com/content/a4b3f6e0-c0e7-4a80-b5ea-7d8dd4dd4de8)
+**发布时间**: 2026-05-24 05:26
+
+#### [Iran’s Guards used UAE company to buy military satellite equipment](https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44)
+**发布时间**: 2026-05-24 04:00
+
+#### [The power struggle in the world’s narrow seas](https://ig.ft.com/maritime-chokepoints/)
+**发布时间**: 2026-05-24 04:00
+
+#### [Commerzbank rallies shareholders in fight for independence from UniCredit](https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56)
+**发布时间**: 2026-05-24 04:00
+
+#### [Please stop talking about Gen Z in the office](https://www.ft.com/content/ff49b595-b5ed-4be9-8cb1-1522b7086b28)
+**发布时间**: 2026-05-24 03:00
+
+#### [Trump says deal with Iran to reopen Hormuz ‘largely negotiated’](https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f)
+**发布时间**: 2026-05-24 01:29
+
+#### [South-east Asian economies struggle to counter energy shock](https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989)
+**发布时间**: 2026-05-24 01:06
 
 ---
 

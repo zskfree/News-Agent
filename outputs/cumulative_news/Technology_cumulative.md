@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-24 00:01
+**最后更新时间**: 2026-05-24 07:52
+
+---
+
+## 🆕 最新更新 (2026-05-24 07:52)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具](https://sspai.com/post/109741)
+**发布时间**: 2026-05-24 14:21
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一人公司还没赚钱，卖给一人公司的生意先赚钱了](https://www.tmtpost.com/8000310.html)
+**发布时间**: 2026-05-24 13:36
+
+#### [16亿千瓦，2026迎峰度夏极限压力测试即将开启，能源保供的三层防线与四大黄金赛道值得关注](https://www.tmtpost.com/8000323.html)
+**发布时间**: 2026-05-24 13:36
+
+#### [活过来的Codex，扛起了OpenAI上市的希望](https://www.tmtpost.com/8000341.html)
+**发布时间**: 2026-05-24 13:36
+
+#### [巨头混战电解质水：农夫山泉、蒙牛、奈雪齐入场，千亿赛道谁能留在牌桌上？](https://www.tmtpost.com/8000356.html)
+**发布时间**: 2026-05-24 13:35
+
+#### [宇树赌未来，云深处先挣钱：机器狗赚到了具身智能的第一桶金](https://www.tmtpost.com/8000008.html)
+**发布时间**: 2026-05-24 09:22
+
+#### [能随意窃取数据！这款热门 AI 编程工具曝重大隐患](https://www.tmtpost.com/7997541.html)
+**发布时间**: 2026-05-24 08:59
+
+#### [曾助罗永浩还债，昔日“互联网招聘鼻祖”申请破产](https://www.tmtpost.com/8000018.html)
+**发布时间**: 2026-05-24 08:58
+
+#### [宇树、云深处和乐聚：三份招股书，一条生存线](https://www.tmtpost.com/8000072.html)
+**发布时间**: 2026-05-24 08:52
+
+#### [Edge AI Daily 早报（5月24日）](https://www.tmtpost.com/8000103.html)
+**发布时间**: 2026-05-24 08:40
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [不要错过这 10 个本周火火火的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533989&idx=1&sn=9e1ad46fdd67c5d0dec4b7fe4f46b765)
+**发布时间**: 2026-05-24 10:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海](https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-24 10:00
+
+#### [大规模工程支撑场景下的多智能体系统设计：Grab 实践案例](https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-24 08:00
 
 ---
 

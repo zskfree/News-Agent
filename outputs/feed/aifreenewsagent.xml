@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 May 2026 00:02:34 GMT</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 07:50:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 07:52:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026</title>
-      <link>https://www.qbitai.com/2026/05/423202.html</link>
-      <description>&lt;![CDATA[“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423202.html</guid>
+      <title>2026-05-24日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-24/</link>
+      <description>&lt;![CDATA[2026-05-24日刊]]&gt;</description>
+      <pubDate>Sun, 24 May 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-24/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI大神教你如何榨干Codex</title>
-      <link>https://www.qbitai.com/2026/05/423179.html</link>
-      <description>&lt;![CDATA[OpenAI大神教你如何榨干Codex]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423179.html</guid>
+      <title>谷歌CEO承认Coding落后了</title>
+      <link>https://www.qbitai.com/2026/05/423390.html</link>
+      <description>&lt;![CDATA[谷歌CEO承认Coding落后了]]&gt;</description>
+      <pubDate>Sun, 24 May 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423390.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI</title>
-      <link>https://www.qbitai.com/2026/05/423162.html</link>
-      <description>&lt;![CDATA[DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423162.html</guid>
+      <title>未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/423382.html</link>
+      <description>&lt;![CDATA[未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026]]&gt;</description>
+      <pubDate>Sun, 24 May 2026 06:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423382.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>什么！你说胡彦斌也在苦修Vibe Coding</title>
+      <link>https://www.qbitai.com/2026/05/423213.html</link>
+      <description>&lt;![CDATA[什么！你说胡彦斌也在苦修Vibe Coding]]&gt;</description>
+      <pubDate>Sun, 24 May 2026 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423213.html</guid>
       <category>Ai</category>
     </item>
   </channel>
