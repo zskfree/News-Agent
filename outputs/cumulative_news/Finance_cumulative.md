@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-23 09:57
+**最后更新时间**: 2026-05-24 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-24 00:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia pounds Kyiv with missiles and drones in heavy overnight assault](https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413)
+**发布时间**: 2026-05-23 23:25
+
+#### [Trump claims deal with Iran to reopen Strait of Hormuz ‘largely negotiated’](https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f)
+**发布时间**: 2026-05-23 21:01
+
+#### [US warns Japan of severe delays in Tomahawk deliveries due to Iran war](https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70)
+**发布时间**: 2026-05-23 19:00
+
+#### [US and Iran move closer to extending ceasefire by 60 days, say mediators](https://www.ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85)
+**发布时间**: 2026-05-23 18:31
+
+#### [US oil producers increase output to capture price surge from Iran war](https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24)
+**发布时间**: 2026-05-23 11:00
+
+#### [Marco Rubio combats Cuban-American backlash as he seeks Havana deal](https://www.ft.com/content/b3eff5d9-10e9-407c-ab6b-1daeeed63a3c)
+**发布时间**: 2026-05-23 11:00
+
+#### [Bond slump stirs vigilante fears](https://www.ft.com/content/e16e6cdf-e824-4bc1-a199-e42746e602bb)
+**发布时间**: 2026-05-23 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This bond strategy can protect your portfolio even if interest rates go up](https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-23 18:31
+
+#### [The surprising cost of caring for aging parents: Divorce](https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories)
+**发布时间**: 2026-05-23 17:44
+
+#### [These 4 market sectors look frothy — and Nvidia’s isn’t even the biggest bubble](https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-23 16:52
+
+#### [I’m 66 and have $85,000 in my HSA. When should I start spending it?](https://www.marketwatch.com/story/im-66-and-have-85-000-in-my-hsa-should-i-spend-it-all-by-a-certain-age-66939bd9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-23 16:21
+
+#### [I almost fell for a scammer. This one rule saved me — and could help you, too.](https://www.marketwatch.com/story/i-almost-fell-for-scammer-this-one-rule-saved-me-and-could-help-you-too-8c3bcf78?mod=mw_rss_topstories)
+**发布时间**: 2026-05-23 15:56
 
 ---
 

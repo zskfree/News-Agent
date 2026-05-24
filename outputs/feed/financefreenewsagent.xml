@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 09:57:21 GMT</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 00:02:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 00:02:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom</title>
-      <link>https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12</link>
-      <description>&lt;![CDATA[SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12</guid>
+      <title>These 4 market sectors look frothy — and Nvidia’s isn’t even the biggest bubble</title>
+      <link>https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These 4 market sectors look frothy — and Nvidia’s isn’t even the biggest bubble]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US oil producers increase output to capture price surge from Iran war</title>
+      <link>https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24</link>
+      <description>&lt;![CDATA[US oil producers increase output to capture price surge from Iran war]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This bond strategy can protect your portfolio even if interest rates go up</title>
+      <link>https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This bond strategy can protect your portfolio even if interest rates go up]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump claims deal with Iran to reopen Strait of Hormuz ‘largely negotiated’</title>
+      <link>https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f</link>
+      <description>&lt;![CDATA[Trump claims deal with Iran to reopen Strait of Hormuz ‘largely negotiated’]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US warns Japan of severe delays in Tomahawk deliveries due to Iran war</title>
+      <link>https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70</link>
+      <description>&lt;![CDATA[US warns Japan of severe delays in Tomahawk deliveries due to Iran war]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 07:33:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 07:35:31 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 23:59:00 GMT</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 00:02:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-23日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-23/</link>
-      <description>&lt;![CDATA[2026-05-23日刊]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-23/</guid>
+      <title>“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/423202.html</link>
+      <description>&lt;![CDATA[“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423202.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资</title>
-      <link>https://www.qbitai.com/2026/05/423159.html</link>
-      <description>&lt;![CDATA[美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 02:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423159.html</guid>
+      <title>OpenAI大神教你如何榨干Codex</title>
+      <link>https://www.qbitai.com/2026/05/423179.html</link>
+      <description>&lt;![CDATA[OpenAI大神教你如何榨干Codex]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423179.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI</title>
+      <link>https://www.qbitai.com/2026/05/423162.html</link>
+      <description>&lt;![CDATA[DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423162.html</guid>
       <category>Ai</category>
     </item>
   </channel>

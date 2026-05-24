@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6c499c14678846826a60e5eb16aa45f515503d75370bb86fd2af9616b7582125": {
-        "title": "晶圆代工，角逐1nm",
-        "link": "https://www.tmtpost.com/7964634.html",
-        "published_date": "Thu, 23 Apr 2026 18:56:00 GMT",
-        "first_seen": "2026-04-23T23:52:19.497560"
-      },
-      "36a8435bee1367b56c0641dd2696984fd687933c17ca71e5ad6e970c980b4958": {
-        "title": "姚顺雨腾讯模型首秀！不卷参数只做 “听话打工人”，Hy3 preview登场 | 附实测",
-        "link": "https://www.infoq.cn/article/muFy49vXpNUHW09hxt7G?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Apr 2026 17:27:00 GMT",
-        "first_seen": "2026-04-23T23:52:19.497567"
-      },
-      "68048b5a3936d1e1d883897618a65b6a3dfb47297e657d06919c99e44528d21d": {
-        "title": "屈服于氛围：一部AI编程运动史（2020-2026）【2.5万字简史】",
-        "link": "https://www.tmtpost.com/7964511.html",
-        "published_date": "Thu, 23 Apr 2026 18:56:00 GMT",
-        "first_seen": "2026-04-23T23:52:19.497569"
-      },
-      "294eeffe50639d40794f1fa79739e5bec31c2c768b4eeab03e9fdb4098964176": {
-        "title": "脑机接口，一场没有硝烟的算法战争",
-        "link": "https://www.tmtpost.com/7964027.html",
-        "published_date": "Thu, 23 Apr 2026 12:42:00 GMT",
-        "first_seen": "2026-04-23T23:52:19.497571"
-      },
-      "8ea34cdf3d0da85db251a62f92e4e95fcce3139d45ce03b0046235c5a13080c5": {
-        "title": "梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构",
-        "link": "https://www.tmtpost.com/7963833.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T23:52:19.497572"
-      },
       "5a344b8c47ee94194bb899c5e4c73bc1a8b6c9aa88fed9a11b0cb669db43928e": {
         "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
         "link": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
@@ -2461,39 +2431,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533890&idx=1&sn=f8244e816ac8baf3082a692784afa2d6",
         "published_date": "Sat, 23 May 2026 14:23:00 GMT",
         "first_seen": "2026-05-23T09:57:40.725463"
+      },
+      "25164b87192071e1dde2e45d2ea31f26fbdf2bd5f55665d3661c4bded6564899": {
+        "title": "SpaceX抢跑，OpenAI追击",
+        "link": "https://www.tmtpost.com/7999911.html",
+        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.790074"
+      },
+      "5ece671a0dd5ea3a45bad1b35428c1079ea39cd5bb56b600aba24174791559e2": {
+        "title": "对话李斌：蔚来的盈利，不是靠一个爆款打出来的",
+        "link": "https://www.tmtpost.com/7999788.html",
+        "published_date": "Sat, 23 May 2026 13:04:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.790081"
+      },
+      "7d308f20a629068d81df766d02d8f32ba2b59ae124941656dd3429ce46af77d1": {
+        "title": "一场全民“AI自证”的黑色喜剧",
+        "link": "https://www.tmtpost.com/7999910.html",
+        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.790083"
+      },
+      "75154855920115d901eb05af70b02b86ac086f080f228b9227c94eafc5f02c56": {
+        "title": "光伏“卖铲人”，如今成了最尴尬的债主！",
+        "link": "https://www.tmtpost.com/7999799.html",
+        "published_date": "Sat, 23 May 2026 16:08:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.790085"
+      },
+      "c56446754b8eacde1b803a25af3ca9e7490fc7ab3c32afef60c9325ab15609d4": {
+        "title": "十年亏损仍激进扩张，埃夫特10.7亿豪赌将新增商誉5.5亿",
+        "link": "https://www.tmtpost.com/7999847.html",
+        "published_date": "Sat, 23 May 2026 18:10:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.790087"
       }
     },
     "Finance": {
-      "7a8dde5ec58a50855caefa6e1aa763783d22080b62178765db2ef9f9dac085f5": {
-        "title": "Trump is swaying the market like no president has in decades, analysis shows",
-        "link": "https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories",
-        "published_date": "Thu, 23 Apr 2026 22:09:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.794915"
-      },
-      "3c495a32f0a77b87e79c0c96626028abd0e402ad10ff6b69d3842e087c842d88": {
-        "title": "Vanguard chief warns of ‘financial exploitation’ by prediction markets",
-        "link": "https://www.ft.com/content/e5d1fe19-0768-4962-b5f2-88926336c1b5",
-        "published_date": "Thu, 23 Apr 2026 19:56:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.794923"
-      },
-      "dae7cf4146f4795dae376408c9202355adffb7103f26622955c3cfb44e2f210d": {
-        "title": "UK in talks with Anthropic over Mythos access for banks",
-        "link": "https://www.ft.com/content/fe563a8e-e269-4a6b-a577-8ed16a805a7b",
-        "published_date": "Thu, 23 Apr 2026 20:05:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.794926"
-      },
-      "4eae84a96268a1ae806f12ca40d503729c920dd2f86bc56a6a06ec27ef6bec6e": {
-        "title": "US shale bosses resist boosting oil output over Iran war ‘chaos’",
-        "link": "https://www.ft.com/content/273c0321-0678-4ac0-9ccc-432301865b4c",
-        "published_date": "Thu, 23 Apr 2026 20:47:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.794928"
-      },
-      "42b52926e92c7e2b646c7fa7d3cf6301269965aee8f75af709c4b2b92391f70a": {
-        "title": "ServiceNow’s stock just had its worst day ever, taking the software sector down with it",
-        "link": "https://www.marketwatch.com/story/servicenows-stock-sinks-toward-worst-day-ever-taking-the-software-sector-down-with-it-77fd240d?mod=mw_rss_topstories",
-        "published_date": "Thu, 23 Apr 2026 21:07:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.794929"
-      },
       "32609b1681f31eb71a67d56cf38404b48a3fa0cb3c2e86645d4126abc11969de": {
         "title": "Banks charged sharply different fees for access to Anthropic investment",
         "link": "https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61",
@@ -4617,39 +4587,39 @@
         "link": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
         "published_date": "Sat, 23 May 2026 08:00:00 GMT",
         "first_seen": "2026-05-23T09:57:21.918462"
+      },
+      "426a245cd788bd2e0277327d291de6db3763fbd2a395b0a86fb448d5748a1b00": {
+        "title": "These 4 market sectors look frothy — and Nvidia’s isn’t even the biggest bubble",
+        "link": "https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories",
+        "published_date": "Sat, 23 May 2026 16:52:00 GMT",
+        "first_seen": "2026-05-24T00:02:16.817307"
+      },
+      "d031a48e76b721a80afbc9456baa7ba4a730ab7885dcbe1bab1c77055bc0f158": {
+        "title": "US oil producers increase output to capture price surge from Iran war",
+        "link": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
+        "published_date": "Sat, 23 May 2026 11:00:00 GMT",
+        "first_seen": "2026-05-24T00:02:16.817317"
+      },
+      "4a4a870b449a825b216201c551f801ff463b0603ba270984ddbf7b4ce3156781": {
+        "title": "This bond strategy can protect your portfolio even if interest rates go up",
+        "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
+        "published_date": "Sat, 23 May 2026 18:31:00 GMT",
+        "first_seen": "2026-05-24T00:02:16.817319"
+      },
+      "412599b5062f88f5bbfc03e0e613d3f5b8241410230c64dccb0bf73c7bf5a6df": {
+        "title": "Trump claims deal with Iran to reopen Strait of Hormuz ‘largely negotiated’",
+        "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
+        "published_date": "Sat, 23 May 2026 21:01:00 GMT",
+        "first_seen": "2026-05-24T00:02:16.817321"
+      },
+      "eedd435c72bd2674dfef1b5ac4035c1a7bc4f9bc90986b6f3831c33374bda260": {
+        "title": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
+        "link": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
+        "published_date": "Sat, 23 May 2026 19:00:00 GMT",
+        "first_seen": "2026-05-24T00:02:16.817323"
       }
     },
     "Ai": {
-      "a2cef95151eaf6013de0022bc113119c25aac42af2789361a97be85e7a1d03ed": {
-        "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-        "link": "https://www.qbitai.com/2026/04/406221.html",
-        "published_date": "Thu, 23 Apr 2026 20:44:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.944912"
-      },
-      "8078c50de0307342111251612078c18641f4a15ecd00ce8edb952b873e5de908": {
-        "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
-        "link": "https://www.qbitai.com/2026/04/406191.html",
-        "published_date": "Thu, 23 Apr 2026 14:42:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.944919"
-      },
-      "926b7ec430dd7f1b6133f2b6dd6b878e4273bc8002da5560fd5388f4e9d67da2": {
-        "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-        "link": "https://www.qbitai.com/2026/04/406020.html",
-        "published_date": "Thu, 23 Apr 2026 14:28:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.944921"
-      },
-      "186d4042a91036b350d5fe8284a90b7d153e0540b2a88567e593330013b6f33c": {
-        "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-        "link": "https://www.qbitai.com/2026/04/406036.html",
-        "published_date": "Thu, 23 Apr 2026 11:37:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.944923"
-      },
-      "fc792bacee80d5e1d195f17145921e6704de377e6a507195c70eb58e3aee26f5": {
-        "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
-        "link": "https://www.qbitai.com/2026/04/406026.html",
-        "published_date": "Thu, 23 Apr 2026 09:55:00 GMT",
-        "first_seen": "2026-04-23T23:51:49.944924"
-      },
       "caee91f2ef47505af0ce50fc94b2d358c83504ed5b102801ae8e921aa6550583": {
         "title": "2026-04-24日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-24/",
@@ -5903,13 +5873,31 @@
         "link": "https://www.qbitai.com/2026/05/423159.html",
         "published_date": "Sat, 23 May 2026 02:48:00 GMT",
         "first_seen": "2026-05-23T07:35:31.752824"
+      },
+      "0e06039460957750bbfa41cf1408ec7061e0023ac2a71ec08595772ead8913bc": {
+        "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/423202.html",
+        "published_date": "Sat, 23 May 2026 10:09:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.905588"
+      },
+      "03ea09e38e3359f125171853eecb639abd9d5bb0045c5b6030a2085297cd3a2e": {
+        "title": "OpenAI大神教你如何榨干Codex",
+        "link": "https://www.qbitai.com/2026/05/423179.html",
+        "published_date": "Sat, 23 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.905596"
+      },
+      "7945737fc698caa76d846cc4eb26dc7b1f882049780c0f0ae8b4c7bc01d28508": {
+        "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+        "link": "https://www.qbitai.com/2026/05/423162.html",
+        "published_date": "Sat, 23 May 2026 09:46:00 GMT",
+        "first_seen": "2026-05-24T00:02:34.905598"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-23T09:57:40.725465",
-    "Finance": "2026-05-23T09:57:21.918470",
-    "Ai": "2026-05-23T07:35:31.752827"
+    "Technology": "2026-05-24T00:02:34.790089",
+    "Finance": "2026-05-24T00:02:16.817326",
+    "Ai": "2026-05-24T00:02:34.905600"
   }
 }
