@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 May 2026 00:02:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 May 2026 00:03:10 GMT</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 08:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 09:00:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mythos的面纱，成了Anthropic撬动万亿的杠杆</title>
-      <link>https://www.tmtpost.com/8000513.html</link>
-      <description>&lt;![CDATA[Mythos的面纱，成了Anthropic撬动万亿的杠杆]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000513.html</guid>
+      <title>Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」</title>
-      <link>https://www.tmtpost.com/7999975.html</link>
-      <description>&lt;![CDATA[DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999975.html</guid>
+      <title>从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋不想“认输”</title>
-      <link>https://www.tmtpost.com/8000459.html</link>
-      <description>&lt;![CDATA[黄仁勋不想“认输”]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000459.html</guid>
+      <title>OpenTofu 1.12发布，带来 Terraform 从未提供的功能</title>
+      <link>https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenTofu 1.12发布，带来 Terraform 从未提供的功能]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？</title>
-      <link>https://www.tmtpost.com/7999019.html</link>
-      <description>&lt;![CDATA[日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999019.html</guid>
+      <title>海外科技巨头缺钱了？全球AI掀起债券融资浪潮</title>
+      <link>https://www.tmtpost.com/8001137.html</link>
+      <description>&lt;![CDATA[海外科技巨头缺钱了？全球AI掀起债券融资浪潮]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001137.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：GitHub 在微软治下面临技术和人员流失困境</title>
-      <link>https://sspai.com/post/110130</link>
-      <description>&lt;![CDATA[派早报：GitHub 在微软治下面临技术和人员流失困境]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110130</guid>
+      <title>月活3000万＋！欧洲线下巨头的线上平台</title>
+      <link>https://www.tmtpost.com/8001135.html</link>
+      <description>&lt;![CDATA[月活3000万＋！欧洲线下巨头的线上平台]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001135.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-25 00:02
+**最后更新时间**: 2026-05-25 08:59
+
+---
+
+## 🆕 最新更新 (2026-05-25 08:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI guardrails stripped from Meta and Google models in minutes](https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e)
+**发布时间**: 2026-05-25 08:31
+
+#### [Rubio says Washington will find ‘another way’ if Iran talks fail](https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451)
+**发布时间**: 2026-05-25 07:04
+
+#### [Singapore tells banks to speed up account openings for wealthy clients](https://www.ft.com/content/07be8870-e7f8-4101-9f0a-56049e5ae16f)
+**发布时间**: 2026-05-25 05:55
+
+#### [How Europe learnt to love subsidies](https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469)
+**发布时间**: 2026-05-25 04:00
+
+#### [The infantilism of an ‘ungovernable’ Britain](https://www.ft.com/content/a1334546-73e9-4149-bb13-6f0999b5db91)
+**发布时间**: 2026-05-25 04:00
+
+#### [Bolsonaro biopic threatens to sink his son’s election bid](https://www.ft.com/content/35ab2032-33d8-408d-a690-61dff2b6ebbf)
+**发布时间**: 2026-05-25 04:00
+
+#### [US consumers face looming spending squeeze as Trump tax rebates fade](https://www.ft.com/content/60c7a1ea-9b8a-4f11-b3cb-109fade74e48)
+**发布时间**: 2026-05-25 04:00
+
+#### [Short sellers reap more than $2.3bn profit betting against gambling companies](https://www.ft.com/content/c0d4d62f-31ae-4ac8-bae1-622e007e3752)
+**发布时间**: 2026-05-24 17:00
 
 ---
 

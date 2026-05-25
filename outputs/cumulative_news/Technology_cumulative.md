@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-25 00:02
+**最后更新时间**: 2026-05-25 08:59
+
+---
+
+## 🆕 最新更新 (2026-05-25 08:59)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践](https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 16:00
+
+#### [ClickHouse实战：Agentic Coding，是“神”还是“坑”？](https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 15:46
+
+#### [借助 Android CLI，谷歌正让 Android 工具链更便于代理使用](https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 15:36
+
+#### [从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势](https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 14:53
+
+#### [45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了](https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 14:31
+
+#### [OpenTofu 1.12发布，带来 Terraform 从未提供的功能](https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 13:16
+
+#### [Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”](https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:25
+
+#### [人工智能无法加速软件交付](https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:19
+
+#### [C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码](https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:07
+
+#### [Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK](https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:02
+
+#### [模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code](https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 10:51
+
+#### [AI时代数据面临的新挑战和解决之道｜AICon上海](https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 10:00
+
+#### [数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格](https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 09:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [DeepSeek永久降价，其实是瞄准了10万亿美元？](https://www.tmtpost.com/8001333.html)
+**发布时间**: 2026-05-25 15:51
+
+#### [语音，流量，Token，三大运营商的三生三世](https://www.tmtpost.com/8001332.html)
+**发布时间**: 2026-05-25 15:51
+
+#### [海外科技巨头缺钱了？全球AI掀起债券融资浪潮](https://www.tmtpost.com/8001137.html)
+**发布时间**: 2026-05-25 15:45
+
+#### [晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么](https://www.tmtpost.com/8001288.html)
+**发布时间**: 2026-05-25 15:27
+
+#### [【Fintech 周报】八部门联合打击非法跨境炒股；险资规模超过公募基金](https://www.tmtpost.com/8001251.html)
+**发布时间**: 2026-05-25 15:15
+
+#### [低调的天津，悄悄干成了中国机器人产业黑马](https://www.tmtpost.com/8001002.html)
+**发布时间**: 2026-05-25 14:20
+
+#### [谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了](https://www.tmtpost.com/8001070.html)
+**发布时间**: 2026-05-25 14:12
+
+#### [市值已经跌去2150亿，“中药一哥”究竟怎么了？](https://www.tmtpost.com/8001064.html)
+**发布时间**: 2026-05-25 14:12
+
+#### [月活3000万＋！欧洲线下巨头的线上平台](https://www.tmtpost.com/8001135.html)
+**发布时间**: 2026-05-25 14:12
+
+#### [重庆有张雪，天津有海光](https://www.tmtpost.com/8001184.html)
+**发布时间**: 2026-05-25 14:06
+
+#### [不做NPC，只做OPC的年轻人，后悔了吗？](https://www.tmtpost.com/8001133.html)
+**发布时间**: 2026-05-25 13:56
+
+#### [不炫技，重落地：一支机器人IPO军团在天津崛起](https://www.tmtpost.com/8001146.html)
+**发布时间**: 2026-05-25 13:44
+
+#### [特朗普又盯上量子计算入股，9家公司一夜暴涨](https://www.tmtpost.com/8001054.html)
+**发布时间**: 2026-05-25 13:33
+
+#### [广东有着最厚的核电家底，但AI的电力牌被浙江抢先打出去了](https://www.tmtpost.com/8001014.html)
+**发布时间**: 2026-05-25 12:11
+
+#### [中美创新药的主战场，在所有人的视线之外](https://www.tmtpost.com/8001010.html)
+**发布时间**: 2026-05-25 12:11
+
+#### [不“跟风”的天津机器人，用实干走出新路](https://www.tmtpost.com/7993100.html)
+**发布时间**: 2026-05-25 12:04
+
+#### [从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？](https://www.tmtpost.com/8000499.html)
+**发布时间**: 2026-05-25 11:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
+**发布时间**: 2026-05-25 14:37
+
+#### [五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役](https://sspai.com/post/109450)
+**发布时间**: 2026-05-25 11:23
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533995&idx=1&sn=b91dec98b97f0cd58f89f7cd3a6f68b2)
+**发布时间**: 2026-05-25 13:02
 
 ---
 

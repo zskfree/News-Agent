@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 May 2026 00:03:10 GMT</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 08:57:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 09:00:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛</title>
-      <link>https://www.qbitai.com/2026/05/423421.html</link>
-      <description>&lt;![CDATA[卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423421.html</guid>
+      <title>华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资</title>
+      <link>https://www.qbitai.com/2026/05/423455.html</link>
+      <description>&lt;![CDATA[华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 02:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423455.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想</title>
+      <link>https://www.qbitai.com/2026/05/424277.html</link>
+      <description>&lt;![CDATA[Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 03:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/424277.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/423441.html</link>
+      <description>&lt;![CDATA[未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 01:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/423441.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动</title>
+      <link>https://www.qbitai.com/2026/05/424581.html</link>
+      <description>&lt;![CDATA[蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/424581.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/424584.html</link>
+      <description>&lt;![CDATA[“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 06:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/424584.html</guid>
       <category>Ai</category>
     </item>
   </channel>
