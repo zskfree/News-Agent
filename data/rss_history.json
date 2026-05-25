@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3d692e0aab61e8d6756d6606f0d885c17e37a0934e0dd5f8209564f0e249cc8d": {
-        "title": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
-        "link": "https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 10:11:00 GMT",
-        "first_seen": "2026-04-24T23:42:50.501738"
-      },
-      "fa6ba2d459a53c19934d96d89d1a17caf48d56f48e716b1c906d145a954c0015": {
-        "title": "Anthropic最新AI经济报告：AI 正在取代造它的人",
-        "link": "https://www.tmtpost.com/7964714.html",
-        "published_date": "Fri, 24 Apr 2026 13:28:00 GMT",
-        "first_seen": "2026-04-24T23:42:50.501746"
-      },
-      "6329fefb152b5f41d82c69bd5c06d3208adb75c6754f808ba623703f048f15bb": {
-        "title": "华为异军突起，速腾份额减少，激光雷达迎来双寡头时代",
-        "link": "https://www.tmtpost.com/7965877.html",
-        "published_date": "Fri, 24 Apr 2026 18:58:00 GMT",
-        "first_seen": "2026-04-24T23:42:50.501748"
-      },
-      "8971995f53a97de883d030b8fe2e9a8eb1def2a6ba5fb751998e10999f632e6d": {
-        "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-        "link": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 18:46:00 GMT",
-        "first_seen": "2026-04-24T23:42:50.501750"
-      },
-      "4a7354ee970946bc7f12c92c9f3d2d67278bca7e665a8ef0208c9057848b6f85": {
-        "title": "具身智能数据战：群核建道场，百度铺管道，京东搭舞台",
-        "link": "https://www.tmtpost.com/7966140.html",
-        "published_date": "Fri, 24 Apr 2026 17:08:00 GMT",
-        "first_seen": "2026-04-24T23:42:50.501752"
-      },
       "73de13b8c985f6bb50933b08cacd5385af2fd78597eb9867f26341ae01b29d58": {
         "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
         "link": "https://www.tmtpost.com/7966538.html",
@@ -2461,39 +2431,39 @@
         "link": "https://sspai.com/post/109741",
         "published_date": "Sun, 24 May 2026 14:21:00 GMT",
         "first_seen": "2026-05-24T09:58:45.866571"
+      },
+      "077d7830ee628d8180b1dd4da8fd48f69fa25fd89e83d45f22ff855cbdbc7fd4": {
+        "title": "Mythos的面纱，成了Anthropic撬动万亿的杠杆",
+        "link": "https://www.tmtpost.com/8000513.html",
+        "published_date": "Sun, 24 May 2026 18:02:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.205891"
+      },
+      "67ed5024eadfb8d2c0785e575e179f998270fc4bf51d8d7b165f73f12a809018": {
+        "title": "DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」",
+        "link": "https://www.tmtpost.com/7999975.html",
+        "published_date": "Sun, 24 May 2026 18:01:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.205898"
+      },
+      "4beade59d291b01a38957a6a134d5430432776d2d6e128922a935f9ad75a81cc": {
+        "title": "黄仁勋不想“认输”",
+        "link": "https://www.tmtpost.com/8000459.html",
+        "published_date": "Sun, 24 May 2026 17:57:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.205899"
+      },
+      "27ca04b0e7117b010d49dd8d076eae15fa65376feee1a301da845b84fcf45a29": {
+        "title": "日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？",
+        "link": "https://www.tmtpost.com/7999019.html",
+        "published_date": "Sun, 24 May 2026 17:52:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.205901"
+      },
+      "e3c21a2fd54455f488c9c48368324d4097ca187561acd2f71bfe135cebdf9577": {
+        "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
+        "link": "https://sspai.com/post/110130",
+        "published_date": "Mon, 25 May 2026 06:36:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.205903"
       }
     },
     "Finance": {
-      "d3182ab1e0f0910827080c4d8c5d2970b4e97b411b146d34474537a34ecf717f": {
-        "title": "Google to invest up to $40bn in Anthropic",
-        "link": "https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8",
-        "published_date": "Fri, 24 Apr 2026 17:54:00 GMT",
-        "first_seen": "2026-04-24T23:42:17.595450"
-      },
-      "e37c22f72ce140796c0ec0d003bff664293fb08ac6cf974a7558efb6ac62a17b": {
-        "title": "The golden age of arbitrage has begun",
-        "link": "https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843",
-        "published_date": "Fri, 24 Apr 2026 14:41:00 GMT",
-        "first_seen": "2026-04-24T23:42:17.595461"
-      },
-      "d0b10972dd3dc4c9e8831dd3ea1fbcb9b5ed587d5caae333de722870df9bcd54": {
-        "title": "Why crude prices won’t fall back to levels seen before the Iran war anytime soon",
-        "link": "https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 19:07:00 GMT",
-        "first_seen": "2026-04-24T23:42:17.595464"
-      },
-      "90aaa33da856ed31082d8da452d58164d59ee5dfbeda3e759427d3a1b68e64ce": {
-        "title": "Intel’s stock extends its spectacular run by posting its best day in nearly four decades",
-        "link": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 20:54:00 GMT",
-        "first_seen": "2026-04-24T23:42:17.595467"
-      },
-      "a048a1f427b0075174bd2fc3715f7d194be11d1bad839dabbd23f169e4f21fb5": {
-        "title": "Amazon-backed nuclear developer X-energy surges 27% in trading debut",
-        "link": "https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73",
-        "published_date": "Fri, 24 Apr 2026 20:50:00 GMT",
-        "first_seen": "2026-04-24T23:42:17.595468"
-      },
       "56f18d308d80bc613e31a96d056f499568a5377a86bc8ef307ddc8d5b5806c71": {
         "title": "America’s energy supremacy is being forged in war",
         "link": "https://ig.ft.com/global-energy-flows/",
@@ -4599,39 +4569,39 @@
         "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
         "published_date": "Sun, 24 May 2026 08:06:00 GMT",
         "first_seen": "2026-05-24T09:58:28.829281"
+      },
+      "e98d5db96caaf2fb635e66759a65798d1964eb4715d41c2900195bbeb78c6c57": {
+        "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
+        "link": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
+        "published_date": "Sun, 24 May 2026 22:23:00 GMT",
+        "first_seen": "2026-05-25T00:02:51.051202"
+      },
+      "91379806e40e827a4e2f13d0920c1f97dcaf0d3db7a8baa9442c6b0c9edc2205": {
+        "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
+        "link": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
+        "published_date": "Sun, 24 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-25T00:02:51.051214"
+      },
+      "558cb2eb803409189a5fd9ad9bac45be7496576a7735b4b1e540c1310a00ac40": {
+        "title": "Uber weighs higher bid for Delivery Hero after €11.5bn offer rebuffed",
+        "link": "https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b",
+        "published_date": "Sun, 24 May 2026 19:29:00 GMT",
+        "first_seen": "2026-05-25T00:02:51.051217"
+      },
+      "04c650411964985f61f3c327df104d70250e646f58acacdf9b12be9cef093bc1": {
+        "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
+        "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+        "published_date": "Sun, 24 May 2026 23:07:00 GMT",
+        "first_seen": "2026-05-25T00:02:51.051219"
+      },
+      "0e71978422f0161745db77049e12eaedbeb02593fb3a31e3d0a074694f6224a1": {
+        "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+        "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+        "published_date": "Sun, 24 May 2026 18:09:00 GMT",
+        "first_seen": "2026-05-25T00:02:51.051221"
       }
     },
     "Ai": {
-      "89cb9295e6ffcb01c53cd38cbd338e17e0611fabe71f903853168521bbbd0ed1": {
-        "title": "DeepSeek-V4发布，华为云首发适配",
-        "link": "https://www.qbitai.com/2026/04/406791.html",
-        "published_date": "Fri, 24 Apr 2026 10:10:00 GMT",
-        "first_seen": "2026-04-24T23:42:29.798629"
-      },
-      "db3f635c5d5f7a74a4979c434d49a905210b1ec75cb6162676acdba8d5e2ce99": {
-        "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
-        "link": "https://www.qbitai.com/2026/04/406806.html",
-        "published_date": "Fri, 24 Apr 2026 11:49:00 GMT",
-        "first_seen": "2026-04-24T23:42:29.798635"
-      },
-      "22814dce8860bc994ee09dd4a5933b142886bfdcd5cdc2a1b9c6dcdd99fdf54b": {
-        "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
-        "link": "https://www.qbitai.com/2026/04/406767.html",
-        "published_date": "Fri, 24 Apr 2026 09:40:00 GMT",
-        "first_seen": "2026-04-24T23:42:29.798637"
-      },
-      "2539b926007e755962361984d5b6659cc7639f70faf79a3ebafc419dfc436303": {
-        "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-        "link": "https://www.qbitai.com/2026/04/406802.html",
-        "published_date": "Fri, 24 Apr 2026 10:23:00 GMT",
-        "first_seen": "2026-04-24T23:42:29.798639"
-      },
-      "2b86c7bb8532a50a71edb50dbce846fcb5c7ff8ad048649021b669a433f9175a": {
-        "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
-        "link": "https://www.qbitai.com/2026/04/406775.html",
-        "published_date": "Fri, 24 Apr 2026 09:45:00 GMT",
-        "first_seen": "2026-04-24T23:42:29.798640"
-      },
       "99b22fd79540caf4dece7d316acf905989e5c09455ac7323b789c621dbeda82e": {
         "title": "2026-04-25日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-25/",
@@ -5885,13 +5855,19 @@
         "link": "https://www.qbitai.com/2026/05/423213.html",
         "published_date": "Sun, 24 May 2026 04:53:00 GMT",
         "first_seen": "2026-05-24T07:52:59.012259"
+      },
+      "e90df51ae8b8067a9088b1cddeb4316d7f828c2775a64e0636f7bdc62a3d060c": {
+        "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+        "link": "https://www.qbitai.com/2026/05/423421.html",
+        "published_date": "Sun, 24 May 2026 10:50:00 GMT",
+        "first_seen": "2026-05-25T00:03:10.312357"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-24T09:58:45.866574",
-    "Finance": "2026-05-24T09:58:28.829290",
-    "Ai": "2026-05-24T07:52:59.012261"
+    "Technology": "2026-05-25T00:03:10.205905",
+    "Finance": "2026-05-25T00:02:51.051223",
+    "Ai": "2026-05-25T00:03:10.312365"
   }
 }

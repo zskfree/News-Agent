@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-24 09:58
+**最后更新时间**: 2026-05-25 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-25 00:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market closed on Memorial Day? Does the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories)
+**发布时间**: 2026-05-24 23:09
+
+#### [Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush](https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-24 23:07
+
+#### [Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks](https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-24 22:23
+
+#### [‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?](https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-24 18:16
+
+#### [I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?](https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-24 18:09
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US will not ‘rush into a deal’ with Iran as talks continue](https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451)
+**发布时间**: 2026-05-24 22:40
+
+#### [Uber weighs higher bid for Delivery Hero after €11.5bn offer rebuffed](https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b)
+**发布时间**: 2026-05-24 19:29
+
+#### [Republican hardliners warn Trump is giving up too much in Iran talks](https://www.ft.com/content/c0d614c4-8904-40a5-baa0-787f9683cfd7)
+**发布时间**: 2026-05-24 18:40
+
+#### [Xi railed against Japan’s ‘remilitarisation’ at Trump summit](https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b)
+**发布时间**: 2026-05-24 18:21
+
+#### [Just stop moaning and pay your taxes](https://www.ft.com/content/b4f47239-7e05-4002-8d48-8f6f02e81e9e)
+**发布时间**: 2026-05-24 17:00
+
+#### [Robotaxis need to be tested in real traffic](https://www.ft.com/content/75af4d22-03ba-4fcc-b269-0ffee042d8cc)
+**发布时间**: 2026-05-24 17:00
+
+#### [ECB summons banks to urge them to fix flaws exposed by latest AI models](https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd)
+**发布时间**: 2026-05-24 17:00
+
+#### [Iran war could add billions of dollars in interest payments to US debt](https://www.ft.com/content/d66b0e94-2f80-4d9a-a1a0-2bf5ce837a66)
+**发布时间**: 2026-05-24 11:00
 
 ---
 
