@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a9a2b99e750e86102fe20f8ffb3a66a811e6eba82585a678ea3b0a9cffbc968b": {
-        "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
-        "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-26T07:02:10.784449"
-      },
-      "df7e43e4aa85859bb7e1dd02a78710a62a9819bbd29d97ce99ca36fbca8db0d3": {
-        "title": "对话 Momenta CEO曹旭东：自动驾驶是物理AI的序章",
-        "link": "https://www.tmtpost.com/7967422.html",
-        "published_date": "Sun, 26 Apr 2026 10:13:00 GMT",
-        "first_seen": "2026-04-26T07:02:10.784455"
-      },
-      "64d1928ecd2aef0a5dd3ebf5d5c62b37285cd38c337fae93401331d101df63dd": {
-        "title": "谷歌亚马逊同时砸钱养竞争对手，AI时代最荒诞的商业逻辑正在成真",
-        "link": "https://www.tmtpost.com/7967434.html",
-        "published_date": "Sun, 26 Apr 2026 08:57:00 GMT",
-        "first_seen": "2026-04-26T07:02:10.784458"
-      },
-      "7a9c795c9184c259d52a51142f080a4da692a3adb851490f6bb343161441ba89": {
-        "title": "算力受限，DeepSeek-V4凭什么开源？",
-        "link": "https://www.tmtpost.com/7967294.html",
-        "published_date": "Sun, 26 Apr 2026 08:18:00 GMT",
-        "first_seen": "2026-04-26T07:02:10.784459"
-      },
-      "8e1ae525a70a4c18ccf3470a00b39d393fd4ac3094b9d0f2fc81d8f6f357510b": {
-        "title": "网易游戏、爱奇艺在拼命拥抱AI，但用户不乐意",
-        "link": "https://www.tmtpost.com/7967357.html",
-        "published_date": "Sun, 26 Apr 2026 08:47:00 GMT",
-        "first_seen": "2026-04-26T07:02:10.784461"
-      },
       "bed3b4c460b2e012d2a0888acb83d7c798dfc00fb704d9b766c7adeae4f8cd7f": {
         "title": "DeepSeek V4炸场背后：硅谷在“造墙”，中国在“修路”",
         "link": "https://www.tmtpost.com/7967484.html",
@@ -2431,39 +2401,39 @@
         "link": "https://www.tmtpost.com/8001070.html",
         "published_date": "Mon, 25 May 2026 14:12:00 GMT",
         "first_seen": "2026-05-26T00:09:05.880897"
+      },
+      "e5ed04384508a4cde4d206127225e5cbab01f8c94c32eeb41878badf5fbb1d75": {
+        "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
+        "link": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 May 2026 14:03:00 GMT",
+        "first_seen": "2026-05-26T08:34:27.764279"
+      },
+      "a9184fb7cc70b5596b755841a7de3b866024299f2929159841f221482ee33416": {
+        "title": "微软将弃用Claude：太贵了还是薅明白了？",
+        "link": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:27.764285"
+      },
+      "0b1e49a85245acd2dd03cceeaed117585a3720ea4e4db1ea29f8dbf90ff775ab": {
+        "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
+        "link": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 May 2026 16:24:00 GMT",
+        "first_seen": "2026-05-26T08:34:27.764288"
+      },
+      "6814511f242c9126b837f7d578b901a39b977014bb6eab068dd532ecaca0ae90": {
+        "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "link": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 26 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:27.764290"
+      },
+      "9fa7ed55157c825699e76298c3bbd2e2b37b3313e1e8c9e77d6c924b88df3bd7": {
+        "title": "小米、比亚迪、蔚来下场造芯：中国半导体正打响一场\"企业战争\"",
+        "link": "https://www.tmtpost.com/8002842.html",
+        "published_date": "Tue, 26 May 2026 15:49:00 GMT",
+        "first_seen": "2026-05-26T08:34:27.764293"
       }
     },
     "Finance": {
-      "e0aba1dfe1f3b03915060008cf81f102d33fb4868408fd0044a5bb5c5aa99f25": {
-        "title": "How to demine the Strait of Hormuz",
-        "link": "https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed",
-        "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.390827"
-      },
-      "3478792f6dd88ff0fb585ac0292c49ac38a65bd9da5b88c7f65fa8a597f253d1": {
-        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-        "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-        "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.390835"
-      },
-      "19ffe0890a76737a19512d7bbef32afc41172e7bc818192e7eeb9a92212f6e8d": {
-        "title": "Can AI discriminate if it can’t justify itself?",
-        "link": "https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460",
-        "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.390838"
-      },
-      "830cbfea5c471c6aab8849d183bd433105566e98c27168424ad199d676665423": {
-        "title": "China’s smartphone king takes on Elon Musk in Europe with premium EVs",
-        "link": "https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2",
-        "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.390840"
-      },
-      "bf1c91fa391c6e84583ec5156b99b5da5cfeee87670931ee0e460b70a41a50f5": {
-        "title": "Iran war hits pistachio supplies amid Dubai chocolate boom",
-        "link": "https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347",
-        "published_date": "Sun, 26 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.390841"
-      },
       "61b5fc42a41c398501f05e21d80f467bdd9a9d1fd1e7d2da0749eef88f16f511": {
         "title": "Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",
         "link": "https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories",
@@ -4593,21 +4563,39 @@
         "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
         "published_date": "Mon, 25 May 2026 13:36:00 GMT",
         "first_seen": "2026-05-26T00:08:35.592493"
+      },
+      "5c7d9322cc5af7593e1e57e27def745f24b4bf4227a97c3a629ef897209e64a2": {
+        "title": "Deregulation hands top US and UK banks $1.3tn opening",
+        "link": "https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06",
+        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:02.038865"
+      },
+      "f48e13737b01bd08b2ebfc385dd4cebec3020b5b0b6e68f7ab8b03f55c46370c": {
+        "title": "Real wages start to shrink in developed countries",
+        "link": "https://www.ft.com/content/e126f744-3db9-4305-8871-31f83ebc4ed7",
+        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:02.038873"
+      },
+      "7c019265c385d52a1c54ccf2940404491240b7a3d79cb09afb1bca4495005272": {
+        "title": "US strikes Iranian missile sites as peace talks continue",
+        "link": "https://www.ft.com/content/eec48003-35a8-4932-bac0-573cdaade0e5",
+        "published_date": "Tue, 26 May 2026 06:28:00 GMT",
+        "first_seen": "2026-05-26T08:34:02.038875"
+      },
+      "160a672e574906543e6e37f1a8ffee72fc3e17eb78b7eb976bc5e4110b600b26": {
+        "title": "Apple has an innovation gap. Will its new CEO fill it?",
+        "link": "https://www.ft.com/content/d16f3ae6-8e27-4293-8bef-6bda7a9706d2",
+        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:02.038877"
+      },
+      "baa02e37c79de129978c705d4cd9089d9a9f33db98512339b3ccf8ae4e32b8e1": {
+        "title": "SpaceX to drive a Cybertruck through corporate governance norms",
+        "link": "https://www.ft.com/content/7f34d58b-da81-4778-bca1-7aa89b08afca",
+        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-26T08:34:02.038879"
       }
     },
     "Ai": {
-      "d5112ff2c9188a1a131487451a6b896981a6dde2d6887e641e813bac24b5a9e6": {
-        "title": "2026-04-26日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-26/",
-        "published_date": "Sun, 26 Apr 2026 10:36:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.542619"
-      },
-      "52cb48f2cd68100c06393cc16d3c7e85561e6547994591c9ec549a907d507b03": {
-        "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
-        "link": "https://www.qbitai.com/2026/04/407465.html",
-        "published_date": "Sun, 26 Apr 2026 04:16:00 GMT",
-        "first_seen": "2026-04-26T07:01:51.542627"
-      },
       "68828ac54fae9ab1815750f88aa4cfea1dd168381377eaf6426fdf81e8c969f3": {
         "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
         "link": "https://www.qbitai.com/2026/04/407485.html",
@@ -5849,13 +5837,43 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-25/",
         "published_date": "Mon, 25 May 2026 11:04:00 GMT",
         "first_seen": "2026-05-26T00:09:05.996251"
+      },
+      "5cd232be69c9ff6add296ca8b809ab14b7118eb8ed5c18b0bf1849fc5fe8de95": {
+        "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
+        "link": "https://www.qbitai.com/2026/05/425150.html",
+        "published_date": "Tue, 26 May 2026 05:32:00 GMT",
+        "first_seen": "2026-05-26T08:34:43.520500"
+      },
+      "7075fa13dfa682e08fef751eae477a43758354ce89d55a420939b8b29eb6677b": {
+        "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+        "link": "https://www.qbitai.com/2026/05/424851.html",
+        "published_date": "Tue, 26 May 2026 04:13:00 GMT",
+        "first_seen": "2026-05-26T08:34:43.520506"
+      },
+      "fed73ab56a1065d362f114ddb3ace0d21de3ee6a591b89d7403b87b3fed32963": {
+        "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+        "link": "https://www.qbitai.com/2026/05/425296.html",
+        "published_date": "Tue, 26 May 2026 06:52:00 GMT",
+        "first_seen": "2026-05-26T08:34:43.520509"
+      },
+      "3b4b61493eab285f476b29731d54cf0a97e113f8f60adf5d822252b3b9d9fe36": {
+        "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+        "link": "https://www.qbitai.com/2026/05/425058.html",
+        "published_date": "Tue, 26 May 2026 05:37:00 GMT",
+        "first_seen": "2026-05-26T08:34:43.520510"
+      },
+      "4ba7c834c9637eb9836b25d296b5d09de0cd9ec3c71c21e6e1081544989a8d3e": {
+        "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+        "link": "https://www.qbitai.com/2026/05/425155.html",
+        "published_date": "Tue, 26 May 2026 05:50:00 GMT",
+        "first_seen": "2026-05-26T08:34:43.520512"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-26T00:09:05.880899",
-    "Finance": "2026-05-26T00:08:35.592495",
-    "Ai": "2026-05-26T00:09:05.996254"
+    "Technology": "2026-05-26T08:34:27.764297",
+    "Finance": "2026-05-26T08:34:02.038881",
+    "Ai": "2026-05-26T08:34:43.520514"
   }
 }

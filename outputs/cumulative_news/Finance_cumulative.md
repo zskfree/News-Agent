@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-26 00:08
+**最后更新时间**: 2026-05-26 08:33
+
+---
+
+## 🆕 最新更新 (2026-05-26 08:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Ferrari’s new electric vehicle was panned on social media. Now the stock market has its say.](https://www.marketwatch.com/story/ferraris-new-electric-vehicle-was-panned-on-social-media-now-the-stock-market-has-its-say-91f9707b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 08:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ferrari launches first EV with Jony Ive’s ‘polarising’ design](https://www.ft.com/content/8cbd876b-6a91-433e-a903-23a5c5250511)
+**发布时间**: 2026-05-26 07:12
+
+#### [US strikes Iranian missile sites as peace talks continue](https://www.ft.com/content/eec48003-35a8-4932-bac0-573cdaade0e5)
+**发布时间**: 2026-05-26 06:28
+
+#### [Apple has an innovation gap. Will its new CEO fill it?](https://www.ft.com/content/d16f3ae6-8e27-4293-8bef-6bda7a9706d2)
+**发布时间**: 2026-05-26 04:00
+
+#### [‘Epstein class’ becomes a populist battle cry in US politics](https://www.ft.com/content/e9ee464f-a43e-4088-aade-053e2c135f5d)
+**发布时间**: 2026-05-26 04:00
+
+#### [SpaceX to drive a Cybertruck through corporate governance norms](https://www.ft.com/content/7f34d58b-da81-4778-bca1-7aa89b08afca)
+**发布时间**: 2026-05-26 04:00
+
+#### [Real wages start to shrink in developed countries](https://www.ft.com/content/e126f744-3db9-4305-8871-31f83ebc4ed7)
+**发布时间**: 2026-05-26 04:00
+
+#### [Deregulation hands top US and UK banks $1.3tn opening](https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06)
+**发布时间**: 2026-05-26 04:00
 
 ---
 

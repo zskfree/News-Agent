@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-26 00:08
+**最后更新时间**: 2026-05-26 08:33
+
+---
+
+## 🆕 最新更新 (2026-05-26 08:33)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Gemma 4 多词元预测：生成速度最高提升约 3 倍](https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 16:24
+
+#### [Node.js 拟内置虚拟文件系统，AI 生成代码引争议](https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 14:03
+
+#### [Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践](https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 13:43
+
+#### [如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践](https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 11:24
+
+#### [ClickHouse十大最佳实践技巧](https://www.infoq.cn/article/bp64ilutkRcpSEhh5fNX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 11:09
+
+#### [AWS MCP服务器正式可用，全面适配API并支持IAM权限控制](https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 10:56
+
+#### [从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海](https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 10:00
+
+#### [Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈](https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 09:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月](https://www.tmtpost.com/8002738.html)
+**发布时间**: 2026-05-26 16:24
+
+#### [一组看不懂的字母“MLCC”，如何成了撩动百亿资金的市场新贵？](https://www.tmtpost.com/8002918.html)
+**发布时间**: 2026-05-26 15:49
+
+#### [小米、比亚迪、蔚来下场造芯：中国半导体正打响一场"企业战争"](https://www.tmtpost.com/8002842.html)
+**发布时间**: 2026-05-26 15:49
+
+#### [苏州不追风口](https://www.tmtpost.com/8002839.html)
+**发布时间**: 2026-05-26 15:36
+
+#### [保时捷有销量，法拉利有利润，而玛莎拉蒂为什么卖不动了？](https://www.tmtpost.com/8002812.html)
+**发布时间**: 2026-05-26 15:33
+
+#### [大裁员中的Meta幸存员工：心气都扔马桶里冲掉了](https://www.tmtpost.com/8002739.html)
+**发布时间**: 2026-05-26 15:24
+
+#### [专做公立三甲“看不上”的老人生意，年营收近5亿：社区连锁医院冲刺IPO](https://www.tmtpost.com/8002295.html)
+**发布时间**: 2026-05-26 15:24
+
+#### [一颗梅子年赚17亿，要去IPO了](https://www.tmtpost.com/8002724.html)
+**发布时间**: 2026-05-26 15:24
+
+#### [宜信类固收生变：利息清零，本金分期兑付](https://www.tmtpost.com/8002687.html)
+**发布时间**: 2026-05-26 15:20
+
+#### [卖咖啡不够了？星巴克中国“易主”后的“卖衣服”生意经](https://www.tmtpost.com/8002589.html)
+**发布时间**: 2026-05-26 15:19
+
+#### [AI来了，SaaS公司的销售反而多了数百人](https://www.tmtpost.com/8002264.html)
+**发布时间**: 2026-05-26 14:05
+
+#### [“零售之神”铃木敏文谢幕，曾打造7-Eleven全球连锁帝国](https://www.tmtpost.com/8001609.html)
+**发布时间**: 2026-05-26 13:49
+
+#### [百川智能将发布新一代医疗大模型，事实性幻觉率降至3.3%](https://www.tmtpost.com/8002395.html)
+**发布时间**: 2026-05-26 13:45
+
+#### [明年起4D毫米波雷达几乎要成标配，但车企还没想清楚怎么用](https://www.tmtpost.com/8001545.html)
+**发布时间**: 2026-05-26 13:37
+
+#### [用1万元备案75亿的大项目，内蒙古地方国资的储能“占坑术”妙在何处？](https://www.tmtpost.com/8002341.html)
+**发布时间**: 2026-05-26 12:56
+
+#### [DeepSeek永久降价，第一个赢家已经浮出水面](https://www.tmtpost.com/8002352.html)
+**发布时间**: 2026-05-26 12:45
+
+#### [“死磕”鲲鹏昇腾生态的极客们，要搞点大事情](https://www.tmtpost.com/8001466.html)
+**发布时间**: 2026-05-26 12:39
+
+#### [聊聊Harness时代AI-First的组织架构：从信任人到信任AI](https://www.tmtpost.com/8002340.html)
+**发布时间**: 2026-05-26 12:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
+**发布时间**: 2026-05-26 15:00
+
+#### [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
+**发布时间**: 2026-05-26 10:59
 
 ---
 
