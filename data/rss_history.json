@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b72f8143dbe32d59caf61d6ea0fbe7abdcc19285a6274c45c687e0d58bf49bb0": {
-        "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
-        "link": "https://www.tmtpost.com/7967024.html",
-        "published_date": "Sat, 25 Apr 2026 14:35:00 GMT",
-        "first_seen": "2026-04-25T23:42:44.052538"
-      },
-      "5384fd4743e86a8c2e41f70444e74273449919d981042e37351d6e418f5cb4d0": {
-        "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
-        "link": "https://www.tmtpost.com/7966555.html",
-        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
-        "first_seen": "2026-04-25T23:42:44.052544"
-      },
-      "3734b71d88ec32b16d1463593c80aa85db2a183cfd779678bca10f1e397236c2": {
-        "title": "DeepSeek不想只做大模型了",
-        "link": "https://www.tmtpost.com/7966836.html",
-        "published_date": "Sat, 25 Apr 2026 09:31:00 GMT",
-        "first_seen": "2026-04-25T23:42:44.052546"
-      },
-      "1ba0195ca31f7829697a9729952a63283f1bc9b13a7fea8bbd0468fb38e759d0": {
-        "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-25T23:42:44.052547"
-      },
-      "fc8b679f891f1af018828011a69f54aaf64895ef5467368d9606a52c105599e3": {
-        "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
-        "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Apr 2026 21:04:00 GMT",
-        "first_seen": "2026-04-25T23:42:44.052549"
-      },
       "a9a2b99e750e86102fe20f8ffb3a66a811e6eba82585a678ea3b0a9cffbc968b": {
         "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
         "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&utm_medium=article",
@@ -2431,39 +2401,39 @@
         "link": "https://www.tmtpost.com/8001135.html",
         "published_date": "Mon, 25 May 2026 14:12:00 GMT",
         "first_seen": "2026-05-25T09:00:29.897831"
+      },
+      "1a888d6dbb7c0da9767039d039cf3c50e1a5a84632d5ab7c3ee3bfce662ec658": {
+        "title": "晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么",
+        "link": "https://www.tmtpost.com/8001288.html",
+        "published_date": "Mon, 25 May 2026 15:27:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.880885"
+      },
+      "d8f081db22e940ba0f1358c1abadb99e3554ee0e94c9284e1a3c20eefdb39730": {
+        "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
+        "link": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 25 May 2026 11:07:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.880892"
+      },
+      "076804232e15f5ef52a251d1739a17511d1f88437d555c82e5d63768c7e2e332": {
+        "title": "【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用",
+        "link": "https://www.tmtpost.com/8001772.html",
+        "published_date": "Tue, 26 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.880894"
+      },
+      "364b24ac3e6f8f2369cf84f031a0aaab4b042b56446908f2855e92a245bc1984": {
+        "title": "AI 芯片的\"电力革命\"",
+        "link": "https://www.tmtpost.com/8001434.html",
+        "published_date": "Mon, 25 May 2026 19:22:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.880896"
+      },
+      "9e34b5b2a9e69883f3981c5b119b1b29acdaa30901fc693b194cf744c2194a15": {
+        "title": "谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了",
+        "link": "https://www.tmtpost.com/8001070.html",
+        "published_date": "Mon, 25 May 2026 14:12:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.880897"
       }
     },
     "Finance": {
-      "9fcf23597575840b13d1c832fbd10bf37fe37ba342e2fa6925a3a038c5dc690f": {
-        "title": "Trump cancels trip by US negotiators for Iran peace talks",
-        "link": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
-        "published_date": "Sat, 25 Apr 2026 21:10:00 GMT",
-        "first_seen": "2026-04-25T23:42:22.979045"
-      },
-      "de471b6f40f4db2f5196958cba2d024f4016fdc20bbab06c15309ff8bbb2f56b": {
-        "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-        "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 16:17:00 GMT",
-        "first_seen": "2026-04-25T23:42:22.979055"
-      },
-      "fde841f7fb52b01caf93f4e5d54924025e1addf782f62c1278f667b50db738be": {
-        "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy",
-        "link": "https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 17:56:00 GMT",
-        "first_seen": "2026-04-25T23:42:22.979057"
-      },
-      "9d31cdf86155b1425dccaba9ea1fe9c0ddf2c08bef3557a3e85449efb524ca71": {
-        "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.",
-        "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 16:25:00 GMT",
-        "first_seen": "2026-04-25T23:42:22.979059"
-      },
-      "b90340c3554678e1120333ed0a896066dff1903e41fcc70b4c1ea13f5b805e22": {
-        "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
-        "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 18:25:00 GMT",
-        "first_seen": "2026-04-25T23:42:22.979061"
-      },
       "e0aba1dfe1f3b03915060008cf81f102d33fb4868408fd0044a5bb5c5aa99f25": {
         "title": "How to demine the Strait of Hormuz",
         "link": "https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed",
@@ -4593,15 +4563,39 @@
         "link": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
         "published_date": "Mon, 25 May 2026 07:04:00 GMT",
         "first_seen": "2026-05-25T08:59:51.906563"
+      },
+      "15b7de1931d14ca71d4efe48f110e17e10e2d81a01d12af39368092150ac069a": {
+        "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
+        "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+        "published_date": "Mon, 25 May 2026 19:50:00 GMT",
+        "first_seen": "2026-05-26T00:08:35.592474"
+      },
+      "cf16dc00fa3c0cd8cefd6680803df8c6714f2ea17b7e2c7b4396948c7cef273d": {
+        "title": "Mastercard’s stock is up 11,000% since its IPO 20 years ago. What comes next?",
+        "link": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories",
+        "published_date": "Mon, 25 May 2026 13:30:00 GMT",
+        "first_seen": "2026-05-26T00:08:35.592485"
+      },
+      "b1e4f8ebdb7479a8374f75955268290ff0f8b31649c069d481023db7ffadf91f": {
+        "title": "Iran’s top negotiators travel to Qatar amid intensified efforts to secure deal",
+        "link": "https://www.ft.com/content/fa47c6bc-0910-4882-afa2-3e4aedb4ab6c",
+        "published_date": "Mon, 25 May 2026 22:33:00 GMT",
+        "first_seen": "2026-05-26T00:08:35.592489"
+      },
+      "0b659840368230cf53b9c5cff529b624240fc9ef4438237917db3bb6c576346f": {
+        "title": "Carney warns Alberta separatists of Brexit-style regret",
+        "link": "https://www.ft.com/content/5c3d12ba-c959-4d84-b0ee-b9258a749cd4",
+        "published_date": "Mon, 25 May 2026 21:23:00 GMT",
+        "first_seen": "2026-05-26T00:08:35.592491"
+      },
+      "2f4bd1e4a368a742c6191e0322f3c17e1a627401f56f6b2bc4a9a3a8b6319bf8": {
+        "title": "Two LNG tankers pass through Strait of Hormuz",
+        "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
+        "published_date": "Mon, 25 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-26T00:08:35.592493"
       }
     },
     "Ai": {
-      "524d3c91cdf42d168bbb27460d1695e60a39bf01880883a878a02ebc033909d5": {
-        "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-        "link": "https://www.qbitai.com/2026/04/407363.html",
-        "published_date": "Sat, 25 Apr 2026 15:38:00 GMT",
-        "first_seen": "2026-04-25T23:42:23.111417"
-      },
       "d5112ff2c9188a1a131487451a6b896981a6dde2d6887e641e813bac24b5a9e6": {
         "title": "2026-04-26日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-26/",
@@ -5843,13 +5837,25 @@
         "link": "https://www.qbitai.com/2026/05/424584.html",
         "published_date": "Mon, 25 May 2026 06:56:00 GMT",
         "first_seen": "2026-05-25T09:00:45.606027"
+      },
+      "b5cc1034232568951e59af684f4e6b93d77b03b09c03b1c83579a0b5335b63d6": {
+        "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/424794.html",
+        "published_date": "Mon, 25 May 2026 09:37:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.996243"
+      },
+      "c761b783e313120de9c4a75b13b4dceb8cb828f2a89fe39afbfee0634a73a574": {
+        "title": "2026-05-25日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-25/",
+        "published_date": "Mon, 25 May 2026 11:04:00 GMT",
+        "first_seen": "2026-05-26T00:09:05.996251"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-25T09:00:29.897834",
-    "Finance": "2026-05-25T08:59:51.906566",
-    "Ai": "2026-05-25T09:00:45.606029"
+    "Technology": "2026-05-26T00:09:05.880899",
+    "Finance": "2026-05-26T00:08:35.592495",
+    "Ai": "2026-05-26T00:09:05.996254"
   }
 }

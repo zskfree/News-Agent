@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-25 08:59
+**最后更新时间**: 2026-05-26 00:08
+
+---
+
+## 🆕 最新更新 (2026-05-26 00:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran’s top negotiators travel to Qatar amid intensified efforts to secure deal](https://www.ft.com/content/fa47c6bc-0910-4882-afa2-3e4aedb4ab6c)
+**发布时间**: 2026-05-25 22:33
+
+#### [Carney warns Alberta separatists of Brexit-style regret](https://www.ft.com/content/5c3d12ba-c959-4d84-b0ee-b9258a749cd4)
+**发布时间**: 2026-05-25 21:23
+
+#### [Mexico agrees to host Iranian World Cup squad as US-Iran tensions simmer](https://www.ft.com/content/699bb1f4-4bab-4fdf-b78d-f6963d3f43dd)
+**发布时间**: 2026-05-25 20:12
+
+#### [Netanyahu orders Israeli military to step up attacks on Hizbollah](https://www.ft.com/content/016e3b6e-5324-4aa9-a82f-74ca56d88107)
+**发布时间**: 2026-05-25 19:56
+
+#### [Counting the cost of New York’s sky-high food bills](https://www.ft.com/content/d78bb2ef-c104-4173-ba38-3c0307bf0c91)
+**发布时间**: 2026-05-25 14:31
+
+#### [Two LNG tankers pass through Strait of Hormuz](https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9)
+**发布时间**: 2026-05-25 13:36
+
+#### [Iran is beating Trump at the art of the deal](https://www.ft.com/content/24cd5d27-34f9-4286-bfdc-984843c25683)
+**发布时间**: 2026-05-25 11:39
+
+#### [Can Exxon build the world’s biggest carbon capture business?](https://www.ft.com/content/1ec1834b-3dd6-4872-b2e8-1f249618f8bc)
+**发布时间**: 2026-05-25 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years](https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories)
+**发布时间**: 2026-05-25 19:50
+
+#### [‘There is zero transparency’: My friend’s sister controls their mother’s estate. How can we stop her from stealing?](https://www.marketwatch.com/story/there-is-zero-transparency-my-friends-sister-controls-their-mothers-estate-how-can-we-stop-her-from-stealing-a1a34ac8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-25 17:45
+
+#### [Is the stock market open today? Does the post office deliver mail on Memorial Day?](https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories)
+**发布时间**: 2026-05-25 15:49
+
+#### [Mastercard’s stock is up 11,000% since its IPO 20 years ago. What comes next?](https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-25 13:30
 
 ---
 
