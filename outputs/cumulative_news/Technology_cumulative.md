@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-27 00:08
+**最后更新时间**: 2026-05-27 08:41
+
+---
+
+## 🆕 最新更新 (2026-05-27 08:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [广告主“投币”已到账，B站终于不“用爱发电”了](https://www.tmtpost.com/8003375.html)
+**发布时间**: 2026-05-27 16:01
+
+#### [PI3Kα抑制剂打开新大陆](https://www.tmtpost.com/8003360.html)
+**发布时间**: 2026-05-27 16:01
+
+#### [60亿美金，填不满周永的神奇口袋](https://www.tmtpost.com/8003350.html)
+**发布时间**: 2026-05-27 16:01
+
+#### [日赚上百美金的AI中转站，为何被抓？](https://www.tmtpost.com/8003947.html)
+**发布时间**: 2026-05-27 16:01
+
+#### [100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了](https://www.tmtpost.com/8003255.html)
+**发布时间**: 2026-05-27 15:33
+
+#### [神经科学攻坚战，千亿市场往事与新局](https://www.tmtpost.com/8003326.html)
+**发布时间**: 2026-05-27 15:33
+
+#### [对抗工业味，死磕“不可能三角”：鲜制零食能跑出下一个万店连锁吗？](https://www.tmtpost.com/8003904.html)
+**发布时间**: 2026-05-27 14:14
+
+#### [小米亟待走出“等风来”的叙事逻辑](https://www.tmtpost.com/8003937.html)
+**发布时间**: 2026-05-27 13:43
+
+#### [福耀玻璃：“汽车强国”背后的“卖铲人”](https://www.tmtpost.com/8003913.html)
+**发布时间**: 2026-05-27 13:43
+
+#### [谷歌全家桶，都被新模型“污染”了](https://www.tmtpost.com/8004001.html)
+**发布时间**: 2026-05-27 13:43
+
+#### [Two Listed Companies’ Related Transactions](https://www.tmtpost.com/8004043.html)
+**发布时间**: 2026-05-27 13:25
+
+#### [摘“U”之后，奥比中光想做机器人产业的“水电煤”](https://www.tmtpost.com/8000945.html)
+**发布时间**: 2026-05-27 11:45
+
+#### [拓日新能十年首亏之下，陷实控人家族内斗](https://www.tmtpost.com/8003885.html)
+**发布时间**: 2026-05-27 11:40
+
+#### [下一个AI较量场，为什么是Harness？](https://www.tmtpost.com/8003536.html)
+**发布时间**: 2026-05-27 11:26
+
+#### [别再惦记 SpaceX 的 IPO，眼下这两只新股更值得关注](https://www.tmtpost.com/8003925.html)
+**发布时间**: 2026-05-27 11:11
+
+#### [魔法原子的全面战争](https://www.tmtpost.com/8003554.html)
+**发布时间**: 2026-05-27 10:58
+
+#### [美克生能源：七年累亏10.6亿，经营性现金长期“失血”，刚融1.35亿再募资引争议｜IPO观察](https://www.tmtpost.com/8001331.html)
+**发布时间**: 2026-05-27 10:50
+
+#### [腾信精密：低研发撑起高毛利，不差钱仍大额募资｜IPO观察](https://www.tmtpost.com/8002573.html)
+**发布时间**: 2026-05-27 10:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
+**发布时间**: 2026-05-27 15:10
+
+#### [为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
+**发布时间**: 2026-05-27 11:31
+
+#### [派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等](https://sspai.com/post/110297)
+**发布时间**: 2026-05-27 07:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何通过 Trace 数据监控 Cortex Agent 性能 ｜ 技术实践](https://www.infoq.cn/article/95coakUO0KZrqvL21Ig9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 14:00
+
+#### [基于 Snowflake Semantic View 构建自助式报表数据集市 ｜ 技术实践](https://www.infoq.cn/article/a4gbB5g49HBNl2mwXwXY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 11:12
+
+#### [安全可靠！星环科技分布式数据库ArgoDB通过安全可靠测评！](https://www.infoq.cn/article/1w093X0R3Ul2u1RmbM44?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 10:40
+
+#### [中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产](https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 10:12
+
+#### [得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践](https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 10:00
+
+#### [Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持](https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-27 09:07
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上刚开源的国产 3D 高斯浏览器，杭州六小龙给力啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534078&idx=1&sn=6b87a91a35598f424c35358613ac63ea)
+**发布时间**: 2026-05-27 12:03
 
 ---
 

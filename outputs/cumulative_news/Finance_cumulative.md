@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-27 00:08
+**最后更新时间**: 2026-05-27 08:41
+
+---
+
+## 🆕 最新更新 (2026-05-27 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump risks triggering financial crisis with Iran war, warns ECB](https://www.ft.com/content/88ec90e1-2927-4cb0-afbf-2df1ca6d53fa)
+**发布时间**: 2026-05-27 08:00
+
+#### [Israel steps up attacks on Hamas and Hizbollah](https://www.ft.com/content/6b436679-a7de-4004-b61e-4bd7fe4f69cc)
+**发布时间**: 2026-05-27 07:45
+
+#### [Is BP ungovernable? Chair’s ousting over ‘bullying’ fuels fresh cycle of chaos](https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd)
+**发布时间**: 2026-05-27 06:12
+
+#### [Trump’s Board of Peace fund is empty](https://www.ft.com/content/5ba3bd2c-0e0e-4306-84be-99d6d89b0d49)
+**发布时间**: 2026-05-27 04:00
+
+#### [How AI threatens the giants of consulting](https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670)
+**发布时间**: 2026-05-27 04:00
+
+#### [How did Jay Powell do at the Fed?](https://www.ft.com/content/1ff5410e-99be-4560-8f5e-c72b52e5bb6c)
+**发布时间**: 2026-05-27 04:00
+
+#### [Hong Kong overtakes Switzerland as hub for global offshore wealth](https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c)
+**发布时间**: 2026-05-27 04:00
+
+#### [EU defence chief urges states to stop making ‘haute couture’ missiles](https://www.ft.com/content/90fbd331-524b-4ad7-9f6a-301a45d93eb2)
+**发布时间**: 2026-05-27 04:00
+
+#### [Trump-backed candidate ousts Republican senator in Texas primary](https://www.ft.com/content/f85f4807-515d-4dc8-aec4-62d9e4824197)
+**发布时间**: 2026-05-27 03:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?](https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 01:44
+
+#### [‘I feel like I’m living a lie’: My husband and I pretend we’re strapped for cash in front of friends. Is that bad?](https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 00:43
 
 ---
 

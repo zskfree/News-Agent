@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c61172fd397b9c016eb328d6d3166d133b81fd4ff6d35ae06b25afe848ce66f5": {
-        "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
-        "link": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Apr 2026 15:02:00 GMT",
-        "first_seen": "2026-04-27T07:38:15.419023"
-      },
-      "fbd9dc36f30d68306392db5412376813c773612ec2ccc5dcf6877425cce264d9": {
-        "title": "从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？",
-        "link": "https://www.tmtpost.com/7967849.html",
-        "published_date": "Mon, 27 Apr 2026 11:09:00 GMT",
-        "first_seen": "2026-04-27T07:38:15.419031"
-      },
-      "aa740ef800b2996ae6c3416404f9d02761f0a846e6787133c782f9f69d0545d9": {
-        "title": "智能体工程的隐性技术债务",
-        "link": "https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Apr 2026 11:02:00 GMT",
-        "first_seen": "2026-04-27T07:38:15.419033"
-      },
-      "1009f6bdf439ae56099d5b52a627befdb57756201625f07445ccd27580f75833": {
-        "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
-        "link": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Apr 2026 10:43:00 GMT",
-        "first_seen": "2026-04-27T07:38:15.419035"
-      },
-      "c21a71a85089ca94bd64328f198ec060cd38b71ac0094788aa020e0f468be24b": {
-        "title": "当云区域失效：地缘动荡环境下的高可用重构",
-        "link": "https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-27T07:38:15.419037"
-      },
       "9f50370971b96cd5720e6ac8331f3cde0646f421446fc64226d0f8cd0bb80e7f": {
         "title": "不是算力，不是电力，这才是中美AI竞争的终极变量",
         "link": "https://www.tmtpost.com/7968430.html",
@@ -2401,39 +2371,39 @@
         "link": "https://www.tmtpost.com/8001466.html",
         "published_date": "Tue, 26 May 2026 12:39:00 GMT",
         "first_seen": "2026-05-27T00:09:12.384815"
+      },
+      "b9c22aa38a7b09a7e034a715c5e92caaff82820a01b624fd8f1e86ca1acf93f3": {
+        "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
+        "link": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 27 May 2026 10:12:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.345548"
+      },
+      "a3bd21efe5653155aeb8d750c11ac482af3172e97f05a27bc6d9db92e24e2fd8": {
+        "title": "100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了",
+        "link": "https://www.tmtpost.com/8003255.html",
+        "published_date": "Wed, 27 May 2026 15:33:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.345555"
+      },
+      "d098926c166cca5909c867f108ac1460bb9501d33d621144fbff69a8c9d16ada": {
+        "title": "谷歌全家桶，都被新模型“污染”了",
+        "link": "https://www.tmtpost.com/8004001.html",
+        "published_date": "Wed, 27 May 2026 13:43:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.345557"
+      },
+      "b6d9deb40edb9e2472036b6780392fde94139e05f582b24bb794d4a1f7f8d2bf": {
+        "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+        "link": "https://sspai.com/post/110102",
+        "published_date": "Wed, 27 May 2026 11:31:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.345558"
+      },
+      "d88c76904bb97f3763d61f632f288e103b1a58441f2c5632f71a723e0e5c6bec": {
+        "title": "摘“U”之后，奥比中光想做机器人产业的“水电煤”",
+        "link": "https://www.tmtpost.com/8000945.html",
+        "published_date": "Wed, 27 May 2026 11:45:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.345560"
       }
     },
     "Finance": {
-      "64d3fdc6d719e49003dc7ccf23137a38bb094ecc56e16200a30950b9578ad518": {
-        "title": "Leading central banks play for time on interest rate rises",
-        "link": "https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f",
-        "published_date": "Mon, 27 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-27T07:37:35.577857"
-      },
-      "478233ce43cabbbd476e1cbec2d0fd1faba646a240ea9e4fb89d6a3d7c49f4e3": {
-        "title": "Private equity backers raise new conflict concerns over sweetheart deals",
-        "link": "https://www.ft.com/content/ded6dc6f-9632-450d-ac62-ad80614436da",
-        "published_date": "Mon, 27 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-27T07:37:35.577870"
-      },
-      "c3fadf10f3e84990a532a49b9288d58547c20cde62bf49d15ae99489cc88bc26": {
-        "title": "Goldman Sachs raises oil price forecast as war disruption drags on",
-        "link": "https://www.ft.com/content/448b06dd-6f8e-455a-add8-3d64e9d96d8b",
-        "published_date": "Mon, 27 Apr 2026 05:18:00 GMT",
-        "first_seen": "2026-04-27T07:37:35.577873"
-      },
-      "ad9da86dfc3566aef3d55544f443245f9a8ffe588a4054ac9bd8521fb9bdc815": {
-        "title": "Rachel Reeves set for new growth push after May elections",
-        "link": "https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084",
-        "published_date": "Mon, 27 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-27T07:37:35.577874"
-      },
-      "dae74c37c29e52375c1002ca3643328bfcca6dfad5be8379baae77a99ee35afd": {
-        "title": "Why the UAE asked Pakistan for its $3.5bn back",
-        "link": "https://www.ft.com/content/99073d6e-4b57-417f-88fb-7a2c0e55eef3",
-        "published_date": "Mon, 27 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-27T07:37:35.577876"
-      },
       "f6cfb1113b857393985553ecb31f0dad428c0a376dec93280692c5e847f31074": {
         "title": "Top central banks gamble they have time on inflation risks",
         "link": "https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f",
@@ -4563,39 +4533,39 @@
         "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
         "published_date": "Tue, 26 May 2026 21:35:00 GMT",
         "first_seen": "2026-05-27T00:08:48.327572"
+      },
+      "d95566574171df5813d3c03680bc787ec406d3eb700a1ca6c3e618936cd1bfd0": {
+        "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth",
+        "link": "https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c",
+        "published_date": "Wed, 27 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-27T08:41:20.909448"
+      },
+      "9b4aa2eec60d17716ef37f82ae82831b6a684b1ef4df6b752892162206b60cf5": {
+        "title": "How AI threatens the giants of consulting",
+        "link": "https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670",
+        "published_date": "Wed, 27 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-27T08:41:20.909458"
+      },
+      "04c31b52ed3c1f039c2fa377a56f0f54018e84f179fc2436f92027a57f64f36d": {
+        "title": "Trump risks triggering financial crisis with Iran war, warns ECB",
+        "link": "https://www.ft.com/content/88ec90e1-2927-4cb0-afbf-2df1ca6d53fa",
+        "published_date": "Wed, 27 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-27T08:41:20.909461"
+      },
+      "3fc36076dac8245dbb8362301f412b1e4aef3cb7368cb50ba6e9193982b8c0d0": {
+        "title": "How did Jay Powell do at the Fed?",
+        "link": "https://www.ft.com/content/1ff5410e-99be-4560-8f5e-c72b52e5bb6c",
+        "published_date": "Wed, 27 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-27T08:41:20.909463"
+      },
+      "4261617a8fb5bb87d9f44372345968f1440bbcee6b4f20e20c45aacbc1c64588": {
+        "title": "Is BP ungovernable? Chair’s ousting over ‘bullying’ fuels fresh cycle of chaos",
+        "link": "https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd",
+        "published_date": "Wed, 27 May 2026 06:12:00 GMT",
+        "first_seen": "2026-05-27T08:41:20.909464"
       }
     },
     "Ai": {
-      "33578ae3aac3c690d09ec2e656fbc7c1f122adb00bed80f4ae8025770df0d6ac": {
-        "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
-        "link": "https://www.qbitai.com/2026/04/407972.html",
-        "published_date": "Mon, 27 Apr 2026 06:42:00 GMT",
-        "first_seen": "2026-04-27T07:37:47.810427"
-      },
-      "b9c1246459b7b5847fc0a71c521cae4ae4f87bf979557d753dd0b5173f994f10": {
-        "title": "探索智能新边界！灵光在手机端上线“体验世界模型”功能",
-        "link": "https://www.qbitai.com/2026/04/407909.html",
-        "published_date": "Mon, 27 Apr 2026 06:03:00 GMT",
-        "first_seen": "2026-04-27T07:37:47.810433"
-      },
-      "8258ec0ca97e00a5781a6bd5a8ea7727df46e4dae3b51760b9e3304e319d0069": {
-        "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
-        "link": "https://www.qbitai.com/2026/04/407975.html",
-        "published_date": "Mon, 27 Apr 2026 06:46:00 GMT",
-        "first_seen": "2026-04-27T07:37:47.810435"
-      },
-      "aee32f407f78777defa60c06a19be8070fbbe999ce9526a8bd70340e8f673859": {
-        "title": "Token驱动未来，城市如何抢占算力新赛道？",
-        "link": "https://www.qbitai.com/2026/04/407960.html",
-        "published_date": "Mon, 27 Apr 2026 06:32:00 GMT",
-        "first_seen": "2026-04-27T07:37:47.810436"
-      },
-      "5b76e182408ebac49190d992aadb3f079c8e78c269fb789c5b2f1994167d8709": {
-        "title": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
-        "link": "https://www.qbitai.com/2026/04/407917.html",
-        "published_date": "Mon, 27 Apr 2026 06:27:00 GMT",
-        "first_seen": "2026-04-27T07:37:47.810438"
-      },
       "5693506e222c996dbaccad3f32bf2e0381f281031c4a094745e72d7b20f1431d": {
         "title": "地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图",
         "link": "https://www.qbitai.com/2026/04/408031.html",
@@ -5837,13 +5807,43 @@
         "link": "https://hex2077.dev/docs/2026-05/2026-05-26/",
         "published_date": "Tue, 26 May 2026 10:45:00 GMT",
         "first_seen": "2026-05-27T00:09:12.495126"
+      },
+      "1f2f5ddfecd60f76e77337529930a86b2c7bc3babd919fb5503c6b59c35ab708": {
+        "title": "2026-05-27日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-27/",
+        "published_date": "Wed, 27 May 2026 10:57:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.463032"
+      },
+      "455d24f75c08ea754d0c144c592fd3c9f64a7204a562259e470e6d1d1cf46916": {
+        "title": "OpenAI挖来了个F1级别车手搞公关",
+        "link": "https://www.qbitai.com/2026/05/425857.html",
+        "published_date": "Wed, 27 May 2026 06:55:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.463041"
+      },
+      "f753ec333dfa5c37d7acbf97f34590927364f4bd7ca4a8f7e830ca21ac9e9bde": {
+        "title": "触觉具身来了个梦之队：天使轮近亿",
+        "link": "https://www.qbitai.com/2026/05/425660.html",
+        "published_date": "Wed, 27 May 2026 05:18:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.463043"
+      },
+      "622ffd885728b944e050faff239dcfca1c8489a86fbede59ad964845ea8c2620": {
+        "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+        "link": "https://www.qbitai.com/2026/05/425810.html",
+        "published_date": "Wed, 27 May 2026 05:12:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.463045"
+      },
+      "07d9b0644032344f627dff8970819169a8814d3cb1d9b337999c04f8ace7fba6": {
+        "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+        "link": "https://www.qbitai.com/2026/05/425523.html",
+        "published_date": "Wed, 27 May 2026 01:14:00 GMT",
+        "first_seen": "2026-05-27T08:41:37.463046"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-27T00:09:12.384818",
-    "Finance": "2026-05-27T00:08:48.327574",
-    "Ai": "2026-05-27T00:09:12.495128"
+    "Technology": "2026-05-27T08:41:37.345562",
+    "Finance": "2026-05-27T08:41:20.909467",
+    "Ai": "2026-05-27T08:41:37.463048"
   }
 }
