@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-26 08:33
+**最后更新时间**: 2026-05-27 00:08
+
+---
+
+## 🆕 最新更新 (2026-05-27 00:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP chair’s departure turns spotlight on Meg O’Neill to deliver swift turnaround](https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd)
+**发布时间**: 2026-05-26 23:02
+
+#### [BP removes chair Albert Manifold after claims of bullying](https://www.ft.com/content/d293ff5e-462f-43d1-a2e0-b144caa52203)
+**发布时间**: 2026-05-26 22:49
+
+#### [UK imposes sanctions on crypto exchange tied to billionaire Justin Sun](https://www.ft.com/content/704c7605-e0ac-4ce1-b24b-ba85359a757f)
+**发布时间**: 2026-05-26 22:41
+
+#### [Trump’s influence on Republican Party tested in Texan run-off vote](https://www.ft.com/content/f85f4807-515d-4dc8-aec4-62d9e4824197)
+**发布时间**: 2026-05-26 21:13
+
+#### [Iran accuses US of ‘flagrant’ ceasefire violations as back-channel talks continue](https://www.ft.com/content/ff09de9d-301b-45a8-be97-5a45802c4a37)
+**发布时间**: 2026-05-26 20:51
+
+#### [Iran starts to restore internet access after months-long blackout](https://www.ft.com/content/a9a3a9e5-854a-4ccb-af03-d73f69ed0cd6)
+**发布时间**: 2026-05-26 18:49
+
+#### [BP is deeply dysfunctional, but it could be worse](https://www.ft.com/content/1f53a603-34ee-453c-a3a6-f7eca164679a)
+**发布时间**: 2026-05-26 16:59
+
+#### [Ferrari’s first EV sparks investor and social media backlash](https://www.ft.com/content/17939c73-e747-4c95-a234-22ae966eb30c)
+**发布时间**: 2026-05-26 15:54
+
+#### [Nine countries pull out of Ukraine ammunition coalition](https://www.ft.com/content/f5dd7bd9-6da8-438b-bf80-1f942b91333d)
+**发布时间**: 2026-05-26 11:38
+
+#### [Putin and Trump don’t have the cards](https://www.ft.com/content/c42e90d2-063a-4bd1-b6b3-4c34db482ed8)
+**发布时间**: 2026-05-26 11:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘The timing couldn’t have been better’ for investors in MSGS as the Knicks make the NBA Finals](https://www.marketwatch.com/story/the-timing-couldnt-have-been-better-for-investors-in-msgs-as-the-knicks-make-the-nba-finals-96b0543a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 22:21
+
+#### [How a stock market ‘melt-up’ could carry the S&P 500 to 8,000 or beyond](https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 21:55
+
+#### [SpaceX just won a $2 billion contract to make satellites for the Space Force](https://www.marketwatch.com/story/spacex-just-won-a-2-billion-contract-to-make-satellites-for-the-space-force-f4733f10?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 21:42
+
+#### [Gen Z demands bigger bargains — driving gains for discount retailers like Walmart and Ross](https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 21:35
+
+#### [The bond market has been rocked by a violent selloff. Here’s how to play it.](https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 21:04
+
+#### [Why double-digit earnings growth won’t stop the next bear market](https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 21:01
+
+#### [Micron’s stock reaches a major milestone as UBS slaps on an out-of-sight price target](https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 20:46
+
+#### [Happy birthday, Dow! Being 130 years old doesn’t make it too antiquated to follow.](https://www.marketwatch.com/story/happy-birthday-dow-being-130-years-old-doesnt-make-it-too-antiquated-to-follow-52f921b0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 20:30
+
+#### [This new quantum stock could debut with a valuation of nearly $13 billion](https://www.marketwatch.com/story/this-new-quantum-stock-could-debut-with-a-valuation-of-nearly-13-billion-9593b4e4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 20:20
+
+#### [My student loans are paused until 2028. Should I pay them now anyway?](https://www.marketwatch.com/story/my-student-loans-are-paused-until-2028-should-i-pay-them-now-anyway-136fe97e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-26 19:52
 
 ---
 

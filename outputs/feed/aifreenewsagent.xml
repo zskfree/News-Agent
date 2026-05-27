@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 May 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 08:34:43 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 00:09:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>编程权威榜单：千问3.7仅次于Claude，阿里全球第二</title>
-      <link>https://www.qbitai.com/2026/05/425150.html</link>
-      <description>&lt;![CDATA[编程权威榜单：千问3.7仅次于Claude，阿里全球第二]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 05:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425150.html</guid>
+      <title>刚刚，国产AI自己造了AI，全球首例！</title>
+      <link>https://www.qbitai.com/2026/05/425511.html</link>
+      <description>&lt;![CDATA[刚刚，国产AI自己造了AI，全球首例！]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425511.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，国产Agent模型闯入全球第一梯队！限时免费</title>
-      <link>https://www.qbitai.com/2026/05/424851.html</link>
-      <description>&lt;![CDATA[刚刚，国产Agent模型闯入全球第一梯队！限时免费]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 04:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/424851.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升</title>
-      <link>https://www.qbitai.com/2026/05/425296.html</link>
-      <description>&lt;![CDATA[华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425296.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>“卡车界特斯拉”，刚刚又融了2亿美元</title>
-      <link>https://www.qbitai.com/2026/05/425058.html</link>
-      <description>&lt;![CDATA[“卡车界特斯拉”，刚刚又融了2亿美元]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 05:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425058.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起</title>
-      <link>https://www.qbitai.com/2026/05/425155.html</link>
-      <description>&lt;![CDATA[荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 05:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425155.html</guid>
+      <title>2026-05-26日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-26/</link>
+      <description>&lt;![CDATA[2026-05-26日刊]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-26/</guid>
       <category>Ai</category>
     </item>
   </channel>

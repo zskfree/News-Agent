@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 May 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 08:34:27 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 00:09:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Node.js 拟内置虚拟文件系统，AI 生成代码引争议</title>
-      <link>https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js 拟内置虚拟文件系统，AI 生成代码引争议]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从一张午餐桌到无限宇宙，李飞飞押注AI的下一个维度</title>
+      <link>https://www.tmtpost.com/8001563.html</link>
+      <description>&lt;![CDATA[从一张午餐桌到无限宇宙，李飞飞押注AI的下一个维度]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001563.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软将弃用Claude：太贵了还是薅明白了？</title>
-      <link>https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软将弃用Claude：太贵了还是薅明白了？]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国AI的东西战线——从延安到中途岛</title>
+      <link>https://www.tmtpost.com/8002752.html</link>
+      <description>&lt;![CDATA[中国AI的东西战线——从延安到中途岛]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8002752.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gemma 4 多词元预测：生成速度最高提升约 3 倍</title>
-      <link>https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemma 4 多词元预测：生成速度最高提升约 3 倍]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了</title>
+      <link>https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海</title>
-      <link>https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树科技IPO，从赚钱机器到“造脑运动”的一场豪赌</title>
+      <link>https://www.tmtpost.com/8003035.html</link>
+      <description>&lt;![CDATA[宇树科技IPO，从赚钱机器到“造脑运动”的一场豪赌]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003035.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米、比亚迪、蔚来下场造芯：中国半导体正打响一场&quot;企业战争&quot;</title>
-      <link>https://www.tmtpost.com/8002842.html</link>
-      <description>&lt;![CDATA[小米、比亚迪、蔚来下场造芯：中国半导体正打响一场&quot;企业战争&quot;]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8002842.html</guid>
+      <title>“死磕”鲲鹏昇腾生态的极客们，要搞点大事情</title>
+      <link>https://www.tmtpost.com/8001466.html</link>
+      <description>&lt;![CDATA[“死磕”鲲鹏昇腾生态的极客们，要搞点大事情]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 12:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001466.html</guid>
       <category>Technology</category>
     </item>
   </channel>
