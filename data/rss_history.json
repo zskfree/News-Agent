@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9f50370971b96cd5720e6ac8331f3cde0646f421446fc64226d0f8cd0bb80e7f": {
-        "title": "不是算力，不是电力，这才是中美AI竞争的终极变量",
-        "link": "https://www.tmtpost.com/7968430.html",
-        "published_date": "Mon, 27 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-27T10:21:02.426357"
-      },
-      "77b54d1377afde945346674f05b945f65d3d59be8bea4590448b27ffc9036768": {
-        "title": "从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧",
-        "link": "https://www.tmtpost.com/7968529.html",
-        "published_date": "Mon, 27 Apr 2026 15:51:00 GMT",
-        "first_seen": "2026-04-27T10:21:02.426363"
-      },
-      "24fcfc44743bababda66ba4f15917e9cd41aa804433661e7d47a205034c139ac": {
-        "title": "等待DeepSeek的145天｜深度",
-        "link": "https://www.tmtpost.com/7966827.html",
-        "published_date": "Mon, 27 Apr 2026 12:45:00 GMT",
-        "first_seen": "2026-04-27T10:21:02.426366"
-      },
-      "77286b8922b2e258a7d01e682289f496c1e650da09a60e82c422289a90fb7b63": {
-        "title": "三个月600亿美元，为什么中国创新药突然被全球扫货？",
-        "link": "https://www.tmtpost.com/7968265.html",
-        "published_date": "Mon, 27 Apr 2026 17:40:00 GMT",
-        "first_seen": "2026-04-27T10:21:02.426368"
-      },
-      "ae3f1fd764bb2d799cf8987cde2d711001c783017fda8c1311794dc624ef36c1": {
-        "title": "从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言",
-        "link": "https://www.tmtpost.com/7968231.html",
-        "published_date": "Mon, 27 Apr 2026 11:31:00 GMT",
-        "first_seen": "2026-04-27T10:21:02.426369"
-      },
-      "6616fc28485546d89e348f036b5132778626f61cff1746f82a510acaf12edb0f": {
-        "title": "【钛晨报】施行近17年的企业国有资产法迎来首次修订；微软公司：将不再向OpenAI支付收入分成；国家发改委：依法依规对外资收购Manus项目作出禁止投资决定",
-        "link": "https://www.tmtpost.com/7969118.html",
-        "published_date": "Tue, 28 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-27T23:57:55.785574"
-      },
-      "6a45c545de18aa1b6ed3d6b369c9d2218a96300d872a4cddd0ea686521fc2303": {
-        "title": "中国 AI 真正缺的，不是另一个 Claude 或 GPT",
-        "link": "https://www.tmtpost.com/7968299.html",
-        "published_date": "Mon, 27 Apr 2026 19:45:00 GMT",
-        "first_seen": "2026-04-27T23:57:55.785582"
-      },
-      "174ea7fa6c76f0a1ef8b02d185586df34675be3a277f4b4590d260d5c0595b19": {
-        "title": "提示词过时了？GPT-5.5已具备直觉，只需指明目标AI就能自动接管",
-        "link": "https://www.tmtpost.com/7968668.html",
-        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
-        "first_seen": "2026-04-27T23:57:55.785584"
-      },
-      "fa75d8b26be05ec36f806901e708f8d7fc525fcfc1cf8dbe8f57905f79297ee6": {
-        "title": "DeepSeek V4：中国算力，中国模型，中国节奏",
-        "link": "https://www.tmtpost.com/7968874.html",
-        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
-        "first_seen": "2026-04-27T23:57:55.785586"
-      },
-      "e2f796cd47ecb1144268b6063ca62d7053ab0744d144e51d65a2f541612518cf": {
-        "title": "GPT-5.5智商145背后：大模型竞赛，正在进入工程淘汰赛",
-        "link": "https://www.tmtpost.com/7968585.html",
-        "published_date": "Mon, 27 Apr 2026 19:34:00 GMT",
-        "first_seen": "2026-04-27T23:57:55.785587"
-      },
       "1fba98f87c5e37132ad62f8f2b5678cc16d7923be9da204511546aa337423ded": {
         "title": "最低100元，他们把「脸」卖给AI短剧公司",
         "link": "https://www.tmtpost.com/7970069.html",
@@ -2401,69 +2341,39 @@
         "link": "https://www.tmtpost.com/8000945.html",
         "published_date": "Wed, 27 May 2026 11:45:00 GMT",
         "first_seen": "2026-05-27T08:41:37.345560"
+      },
+      "705a35f73da25fd58366555d7c229a3d27936c62ffa02fcf080615f6d55a01de": {
+        "title": "【钛晨报】李强最新调研：积极探索期货现货联动经营；长鑫科技IPO过会、立讯精密被罚、段永平增持泡泡玛特；宁德时代旗下公司与张雪机车高层正式开始接洽合作",
+        "link": "https://www.tmtpost.com/8004748.html",
+        "published_date": "Thu, 28 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-28T00:03:17.560098"
+      },
+      "5d0e8d50626554d1c004e88edeb43aeecf4d7908b981da783c7f41e275c83b1f": {
+        "title": "业绩连降募资闲置，毛利率仅10%的“高科技”项目，柏诚股份“伸手”再要12亿",
+        "link": "https://www.tmtpost.com/8004834.html",
+        "published_date": "Wed, 27 May 2026 22:39:00 GMT",
+        "first_seen": "2026-05-28T00:03:17.560108"
+      },
+      "943f43f4fb11e1b26a2278a7f5f39adaa3eef2d4693f3b9a55eeb7baa484b38b": {
+        "title": "为什么科技行业越繁荣，岗位越少？",
+        "link": "https://www.tmtpost.com/8004618.html",
+        "published_date": "Wed, 27 May 2026 21:41:00 GMT",
+        "first_seen": "2026-05-28T00:03:17.560111"
+      },
+      "d802a4b0a544259e2bf8adaaa028736d455d6939fce6ff73e223cf86d6457ebe": {
+        "title": "一个要第二曲线，一个要曲线上市：嘉戎技术与杭州蓝然的“双向奔赴”|并购一线",
+        "link": "https://www.tmtpost.com/8004659.html",
+        "published_date": "Wed, 27 May 2026 20:29:00 GMT",
+        "first_seen": "2026-05-28T00:03:17.560112"
+      },
+      "760be5f7886a165409b63f549fa6eab42b9def52a32bd178812f23f62b6bf5d4": {
+        "title": "业绩翻倍股价暴涨，鼎通科技狂飙背后，大客户依赖隐忧凸显",
+        "link": "https://www.tmtpost.com/8004614.html",
+        "published_date": "Wed, 27 May 2026 20:05:00 GMT",
+        "first_seen": "2026-05-28T00:03:17.560114"
       }
     },
     "Finance": {
-      "f6cfb1113b857393985553ecb31f0dad428c0a376dec93280692c5e847f31074": {
-        "title": "Top central banks gamble they have time on inflation risks",
-        "link": "https://www.ft.com/content/7205961b-1c20-4699-b491-d9c45b278d1f",
-        "published_date": "Mon, 27 Apr 2026 10:11:00 GMT",
-        "first_seen": "2026-04-27T10:20:27.234798"
-      },
-      "923b81fd339546c1d0acfb7aa4fb0dca75e9d207f5c0f6f07d595d456d2c5642": {
-        "title": "China blocks Meta’s $2bn purchase of AI group Manus",
-        "link": "https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f",
-        "published_date": "Mon, 27 Apr 2026 08:46:00 GMT",
-        "first_seen": "2026-04-27T10:20:27.234809"
-      },
-      "5cadb3f0982f747121fa8dea078c7e074d4ca42a962153f5b747f1df47595eb6": {
-        "title": "Meta’s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.",
-        "link": "https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Apr 2026 09:41:00 GMT",
-        "first_seen": "2026-04-27T10:20:27.234812"
-      },
-      "6cf84e5b4471a5d4b6c881bb3768722fd86bd299c5385829eaea97c74035e51a": {
-        "title": "Skims co-founder Emma Grede and her $70 million California properties",
-        "link": "https://www.marketwatch.com/story/skims-co-founder-emma-grede-and-her-70-million-california-properties-6c82b3de?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Apr 2026 08:59:00 GMT",
-        "first_seen": "2026-04-27T10:20:27.234814"
-      },
-      "aab3b456c04c9e150d4c15ec6692eb2a41484d6b8f81438f072f0ab60b3ad94d": {
-        "title": "Global oil futures top $100 again after U.S.-Iran peace talks canceled",
-        "link": "https://www.marketwatch.com/story/global-oil-futures-top-100-again-after-u-s-iran-peace-talks-canceled-a50f6a7b?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Apr 2026 08:49:00 GMT",
-        "first_seen": "2026-04-27T10:20:27.234815"
-      },
-      "848310ea17f0dc3ada0121960efe41a0613fbaccbb212628a252b9f1548e18df": {
-        "title": "German energy giant nears £600mn deal to buy UK supplier Ovo",
-        "link": "https://www.ft.com/content/b9a1fda5-ca35-4608-9aad-634de9ec6ee5",
-        "published_date": "Mon, 27 Apr 2026 20:30:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.226809"
-      },
-      "5f403a33ceba6931a82ccc6266df0cc0e6151d88b4e365263ab7cc99cc130f0c": {
-        "title": "Blue Owl investors shun cut-price exit offer from Boaz Weinstein",
-        "link": "https://www.ft.com/content/634b8423-277f-437f-a613-7375d56d76dc",
-        "published_date": "Mon, 27 Apr 2026 21:05:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.226816"
-      },
-      "cdf8d3f6e97bc775f9453d1be956bbded50853911c74262c7a07194c9ca3da8e": {
-        "title": "Key Labour MPs start to accept need for UK welfare reforms",
-        "link": "https://www.ft.com/content/3152c178-c014-4684-a475-b0d3b474ddde",
-        "published_date": "Mon, 27 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.226818"
-      },
-      "31840c5a52c31a9f1a5fbe8bd7dbed8428e12f4dc335b8c4f05a804d861b40c7": {
-        "title": "United chief hits out at American Airlines for refusing merger talks",
-        "link": "https://www.ft.com/content/65a1ab8b-1448-465a-82d0-4cd8cc3d2f35",
-        "published_date": "Mon, 27 Apr 2026 13:46:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.226820"
-      },
-      "3688f675ca6fe5934f4fc6a91831e83208c14ba655ea41691eb2c77751fffb3b": {
-        "title": "Arm’s stock snaps a seven-day winning streak as it loses some of its AI glow",
-        "link": "https://www.marketwatch.com/story/arms-stock-snaps-a-seven-day-winning-streak-as-it-loses-some-of-its-ai-glow-8d390975?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Apr 2026 22:09:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.226821"
-      },
       "bd7f87d74cb55402806c984982713f52894784c910aa969b4c8d346ae2acfaea": {
         "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
         "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
@@ -4563,57 +4473,39 @@
         "link": "https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd",
         "published_date": "Wed, 27 May 2026 06:12:00 GMT",
         "first_seen": "2026-05-27T08:41:20.909464"
+      },
+      "06c573bc123ae894b1df90a46f7daae1e1f6257aff1869cdd8294406d8c681d8": {
+        "title": "Trump risks triggering financial crisis, warns ECB",
+        "link": "https://www.ft.com/content/88ec90e1-2927-4cb0-afbf-2df1ca6d53fa",
+        "published_date": "Wed, 27 May 2026 11:00:00 GMT",
+        "first_seen": "2026-05-28T00:03:31.533170"
+      },
+      "f6369b35c6b7096addb24bd3c3da0b3a566b6a2e693013d62ab82e03ca97f0ee": {
+        "title": "Securitisation could help plug Europe’s funding gap",
+        "link": "https://www.ft.com/content/f0e7c9f8-2e98-42d7-b4f7-dae94429439f",
+        "published_date": "Wed, 27 May 2026 14:42:00 GMT",
+        "first_seen": "2026-05-28T00:03:31.533179"
+      },
+      "0e5da103069d02d4322659958eec3cfafd3c80f3c6b3b50b0068d0073e0d1fce": {
+        "title": "Jamie Dimon says JPMorgan could spend up to $20bn on a new acquisition",
+        "link": "https://www.ft.com/content/4fbe0b56-1371-4abc-b209-491ece0cc019",
+        "published_date": "Wed, 27 May 2026 16:06:00 GMT",
+        "first_seen": "2026-05-28T00:03:31.533181"
+      },
+      "37b2fcba46725936e992c1801c1ce52b27209dc5d41a1b96932f9b0022c9e6c3": {
+        "title": "Google engineer charged with insider trading on Polymarket",
+        "link": "https://www.ft.com/content/98bb850e-bbcd-40ab-ab07-d08e30f76ed7",
+        "published_date": "Wed, 27 May 2026 23:43:00 GMT",
+        "first_seen": "2026-05-28T00:03:31.533182"
+      },
+      "40d11655b82abec91921e2a13cf3e1ad4b964624c4e4e79eb3eb61b8d1fd130a": {
+        "title": "China’s next export shock walks on two legs — and costs less than a used car",
+        "link": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
+        "published_date": "Wed, 27 May 2026 21:29:00 GMT",
+        "first_seen": "2026-05-28T00:03:31.533184"
       }
     },
     "Ai": {
-      "5693506e222c996dbaccad3f32bf2e0381f281031c4a094745e72d7b20f1431d": {
-        "title": "地平线携整车智能全品类产品亮相北京车展，展现完整战略拼图",
-        "link": "https://www.qbitai.com/2026/04/408031.html",
-        "published_date": "Mon, 27 Apr 2026 08:06:00 GMT",
-        "first_seen": "2026-04-27T10:20:40.755122"
-      },
-      "1f5ae4bf23a06f995b2f2ea2bc69d41d2ca7af2e379b312f269755f186fe0ee0": {
-        "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
-        "link": "https://www.qbitai.com/2026/04/408390.html",
-        "published_date": "Mon, 27 Apr 2026 09:28:00 GMT",
-        "first_seen": "2026-04-27T10:20:40.755129"
-      },
-      "2a57fa61ee65d1f0072454f0bff2a0a8da8030172386908cd08c1cfa060f22fc": {
-        "title": "Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单",
-        "link": "https://www.qbitai.com/2026/04/408049.html",
-        "published_date": "Mon, 27 Apr 2026 08:27:00 GMT",
-        "first_seen": "2026-04-27T10:20:40.755131"
-      },
-      "bd9f8298c4dfcc0ba27919efa2466212de26373840d8244fd42671509fe355c2": {
-        "title": "让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”",
-        "link": "https://www.qbitai.com/2026/04/408394.html",
-        "published_date": "Mon, 27 Apr 2026 09:47:00 GMT",
-        "first_seen": "2026-04-27T10:20:40.755132"
-      },
-      "4b75630674c1bdf40dd2d817587f8f2c55d144edd2d69cd4a1ea3b2e9c4d63ef": {
-        "title": "李飞飞引爆的3D新技术，为什么这家深圳公司两年前就“玩腻”了？",
-        "link": "https://www.qbitai.com/2026/04/408030.html",
-        "published_date": "Mon, 27 Apr 2026 09:13:00 GMT",
-        "first_seen": "2026-04-27T10:20:40.755133"
-      },
-      "3963fad1dbb4ead854bb2d4e3346ba57963d67c12bb8ee5400a1e7ee11dd1d8b": {
-        "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
-        "link": "https://www.qbitai.com/2026/04/408649.html",
-        "published_date": "Mon, 27 Apr 2026 12:19:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.373322"
-      },
-      "7252a80e1eafbad72de7075d1a1cc99853702bc7c9b6a0b35bb6822d5420a5ad": {
-        "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
-        "link": "https://www.qbitai.com/2026/04/408578.html",
-        "published_date": "Mon, 27 Apr 2026 10:48:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.373329"
-      },
-      "0471e7e36af1f36b09aa5e1652a4220a28cd7c7d09fecf871e5d8f233c6fe904": {
-        "title": "2026-04-27日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-27/",
-        "published_date": "Mon, 27 Apr 2026 10:22:00 GMT",
-        "first_seen": "2026-04-27T23:58:12.373331"
-      },
       "fca9d70f5c2e5cc3ed414e22f79f9e078f5747f64bebab90ad60f04ea3f78d93": {
         "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
         "link": "https://www.qbitai.com/2026/04/409550.html",
@@ -5837,13 +5729,31 @@
         "link": "https://www.qbitai.com/2026/05/425523.html",
         "published_date": "Wed, 27 May 2026 01:14:00 GMT",
         "first_seen": "2026-05-27T08:41:37.463046"
+      },
+      "fbccc5b0c4019b015106b36813016f4f3141d26555976518c14e03ce755ddc18": {
+        "title": "Private analytics via zero-trust aggregation",
+        "link": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+        "published_date": "Wed, 27 May 2026 16:56:00 GMT",
+        "first_seen": "2026-05-28T00:02:50.596981"
+      },
+      "b11df7b83c694dea0810431ef07f3d389f049eddd98fcd6f026ec01d2045e464": {
+        "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+        "link": "https://www.qbitai.com/2026/05/425881.html",
+        "published_date": "Wed, 27 May 2026 09:31:00 GMT",
+        "first_seen": "2026-05-28T00:02:50.596997"
+      },
+      "b5dfb21ef5f83f3520565ad2a0f85bc608f86dfa46a3348bdec2deb8c9f9687e": {
+        "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+        "link": "https://www.qbitai.com/2026/05/425870.html",
+        "published_date": "Wed, 27 May 2026 09:01:00 GMT",
+        "first_seen": "2026-05-28T00:02:50.596999"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-27T08:41:37.345562",
-    "Finance": "2026-05-27T08:41:20.909467",
-    "Ai": "2026-05-27T08:41:37.463048"
+    "Technology": "2026-05-28T00:03:17.560117",
+    "Finance": "2026-05-28T00:03:31.533186",
+    "Ai": "2026-05-28T00:02:50.597002"
   }
 }

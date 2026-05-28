@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-27 08:41
+**最后更新时间**: 2026-05-28 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-28 00:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Google engineer charged with insider trading on Polymarket](https://www.ft.com/content/98bb850e-bbcd-40ab-ab07-d08e30f76ed7)
+**发布时间**: 2026-05-27 23:43
+
+#### [Trump says rising economic costs will not force him into Iran deal](https://www.ft.com/content/c79efc18-7c4f-4ff6-8f12-687892b5bd6f)
+**发布时间**: 2026-05-27 21:45
+
+#### [Paxton victory gives Democrats new hope in Texas Senate race](https://www.ft.com/content/0ee88169-e048-4c4b-9a47-fd140f3913e8)
+**发布时间**: 2026-05-27 19:00
+
+#### [US-backed rare earth rivals clash over alleged technology theft](https://www.ft.com/content/f50d27ea-9307-4ff2-8ee1-aca0bf72d068)
+**发布时间**: 2026-05-27 18:02
+
+#### [Fifa subpoenaed over World Cup ticket practices in two US states](https://www.ft.com/content/f18c41b8-fd5a-4923-ab5c-fbd3ac519cd7)
+**发布时间**: 2026-05-27 16:07
+
+#### [Jamie Dimon says JPMorgan could spend up to $20bn on a new acquisition](https://www.ft.com/content/4fbe0b56-1371-4abc-b209-491ece0cc019)
+**发布时间**: 2026-05-27 16:06
+
+#### [Securitisation could help plug Europe’s funding gap](https://www.ft.com/content/f0e7c9f8-2e98-42d7-b4f7-dae94429439f)
+**发布时间**: 2026-05-27 14:42
+
+#### [Iran’s ultra-hardliners lash out at deal negotiators](https://www.ft.com/content/8245ea80-059f-44d2-8e72-8fe1308dd18b)
+**发布时间**: 2026-05-27 14:00
+
+#### [Trump risks triggering financial crisis, warns ECB](https://www.ft.com/content/88ec90e1-2927-4cb0-afbf-2df1ca6d53fa)
+**发布时间**: 2026-05-27 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Snowflake’s stock is on fire as AI acceleration drives record product-revenue growth](https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 23:15
+
+#### [Momentus’s stock nearly triples in 2 days as the space company raises more cash from investors](https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 22:49
+
+#### [Micron investors are partying like it’s 1987. Analysts say the stock still looks pretty cheap.](https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 22:45
+
+#### [Zscaler’s stock sees record drop after investors are blindsided by a disappointing outlook](https://www.marketwatch.com/story/zscalers-stock-seeing-record-drop-after-investors-are-blindsided-by-a-disappointing-outlook-b010fa72?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 22:43
+
+#### [Investors betting the Iran war is ending are buying up travel stocks](https://www.marketwatch.com/story/investors-betting-the-iran-war-is-ending-are-buying-up-travel-stocks-a7921f97?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 22:40
+
+#### [Stocks just scored a trifecta of record closes for the first time in 2026. What to expect next.](https://www.marketwatch.com/story/stocks-just-scored-a-trifecta-of-record-closes-for-the-first-time-in-2026-what-to-expect-next-cb625d40?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 22:31
+
+#### [Marvell’s stock climbs as ‘exceptional’ AI demand drives a stronger growth outlook](https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 21:44
+
+#### [China’s next export shock walks on two legs — and costs less than a used car](https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-27 21:29
 
 ---
 

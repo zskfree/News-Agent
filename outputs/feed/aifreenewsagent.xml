@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 May 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 08:41:37 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 00:02:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-27日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-27/</link>
-      <description>&lt;![CDATA[2026-05-27日刊]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-27/</guid>
+      <title>Private analytics via zero-trust aggregation</title>
+      <link>https://research.google/blog/private-analytics-via-zero-trust-aggregation/</link>
+      <description>&lt;![CDATA[Private analytics via zero-trust aggregation]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/private-analytics-via-zero-trust-aggregation/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI挖来了个F1级别车手搞公关</title>
-      <link>https://www.qbitai.com/2026/05/425857.html</link>
-      <description>&lt;![CDATA[OpenAI挖来了个F1级别车手搞公关]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 06:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425857.html</guid>
+      <title>1400亿Agent入场，“流量”这条护城河要塌了</title>
+      <link>https://www.qbitai.com/2026/05/425881.html</link>
+      <description>&lt;![CDATA[1400亿Agent入场，“流量”这条护城河要塌了]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425881.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>触觉具身来了个梦之队：天使轮近亿</title>
-      <link>https://www.qbitai.com/2026/05/425660.html</link>
-      <description>&lt;![CDATA[触觉具身来了个梦之队：天使轮近亿]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 05:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425660.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动</title>
-      <link>https://www.qbitai.com/2026/05/425810.html</link>
-      <description>&lt;![CDATA[Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 05:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425810.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时</title>
-      <link>https://www.qbitai.com/2026/05/425523.html</link>
-      <description>&lt;![CDATA[DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 01:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425523.html</guid>
+      <title>5秒完成3D场景编辑，北大&amp;港中文&amp;上海AI Lab搞出VGGT-Edit，120倍加速太炸了</title>
+      <link>https://www.qbitai.com/2026/05/425870.html</link>
+      <description>&lt;![CDATA[5秒完成3D场景编辑，北大&amp;港中文&amp;上海AI Lab搞出VGGT-Edit，120倍加速太炸了]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425870.html</guid>
       <category>Ai</category>
     </item>
   </channel>
