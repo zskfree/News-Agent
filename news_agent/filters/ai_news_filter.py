@@ -18,7 +18,18 @@ class NewsQualityFilter:
     def __init__(self, api_key=None):
         """初始化AI筛选器"""
         if not api_key:
-            api_key = os.getenv('GEMINI_API_KEY')
+            # 尝试从本地文件加载 API KEY
+            key_file = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'config', 'API_KEY.txt')
+            if os.path.exists(key_file):
+                try:
+                    with open(key_file, 'r', encoding='utf-8') as f:
+                        api_key = f.read().strip()
+                except Exception as e:
+                    print(f"  ⚠️ 读取本地 API_KEY.txt 失败: {e}")
+            
+            # 如果本地文件没有或为空，退回使用环境变量
+            if not api_key:
+                api_key = os.getenv('GEMINI_API_KEY')
         
         # 配置更宽松的SSL设置
         ssl_context = ssl.create_default_context()
@@ -26,7 +37,7 @@ class NewsQualityFilter:
         ssl_context.verify_mode = ssl.CERT_NONE
         
         self.client = genai.Client(api_key=api_key)
-        self.model = "gemini-2.5-flash"
+        self.model = "gemini-3.1-flash-lite"  # 使用最新的Gemini模型
         
     def create_filtering_prompt(self, articles: List[Dict], category: str, target_count: int = 10) -> str:
         """创建筛选提示词"""

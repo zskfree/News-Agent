@@ -70,5 +70,47 @@
         "category": "Technology",
         "language": "zh",
         "rss": "https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml"
+    },
+    {
+        "name": "Hugging Face Blog",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+        "name": "BAIR Blog",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://bair.berkeley.edu/blog/feed.xml"
+    },
+    {
+        "name": "MIT News - AI",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://news.mit.edu/rss/topic/artificial-intelligence2"
+    },
+    {
+        "name": "AWS Machine Learning Blog",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://aws.amazon.com/blogs/machine-learning/feed/"
+    },
+    {
+        "name": "NVIDIA AI Blog",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://blogs.nvidia.com/feed/"
+    },
+    {
+        "name": "MarkTechPost",
+        "category": "AI",
+        "language": "en",
+        "rss": "https://www.marktechpost.com/feed/"
+    },
+    {
+        "name": "雷峰网",
+        "category": "AI",
+        "language": "zh",
+        "rss": "https://www.leiphone.com/feed"
     }
 ]

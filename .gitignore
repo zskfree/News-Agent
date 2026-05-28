@@ -187,3 +187,4 @@ logs/*.log
 
 # News directory (generated content)
 news/
+config/API_KEY.txt
