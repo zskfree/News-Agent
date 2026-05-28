@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 00:02:50 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 08:42:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 08:45:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Private analytics via zero-trust aggregation</title>
-      <link>https://research.google/blog/private-analytics-via-zero-trust-aggregation/</link>
-      <description>&lt;![CDATA[Private analytics via zero-trust aggregation]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/private-analytics-via-zero-trust-aggregation/</guid>
+      <title>2026-05-28日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-28/</link>
+      <description>&lt;![CDATA[2026-05-28日刊]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-28/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1400亿Agent入场，“流量”这条护城河要塌了</title>
-      <link>https://www.qbitai.com/2026/05/425881.html</link>
-      <description>&lt;![CDATA[1400亿Agent入场，“流量”这条护城河要塌了]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425881.html</guid>
+      <title>「斯隆奖」得主戴亮全职加盟复旦</title>
+      <link>https://www.qbitai.com/2026/05/425959.html</link>
+      <description>&lt;![CDATA[「斯隆奖」得主戴亮全职加盟复旦]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425959.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>5秒完成3D场景编辑，北大&amp;港中文&amp;上海AI Lab搞出VGGT-Edit，120倍加速太炸了</title>
-      <link>https://www.qbitai.com/2026/05/425870.html</link>
-      <description>&lt;![CDATA[5秒完成3D场景编辑，北大&amp;港中文&amp;上海AI Lab搞出VGGT-Edit，120倍加速太炸了]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425870.html</guid>
+      <title>清华有了新老师：黄仁勋</title>
+      <link>https://www.qbitai.com/2026/05/425948.html</link>
+      <description>&lt;![CDATA[清华有了新老师：黄仁勋]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 04:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425948.html</guid>
       <category>Ai</category>
     </item>
   </channel>

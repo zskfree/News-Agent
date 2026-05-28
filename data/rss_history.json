@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1fba98f87c5e37132ad62f8f2b5678cc16d7923be9da204511546aa337423ded": {
-        "title": "最低100元，他们把「脸」卖给AI短剧公司",
-        "link": "https://www.tmtpost.com/7970069.html",
-        "published_date": "Tue, 28 Apr 2026 15:02:00 GMT",
-        "first_seen": "2026-04-28T07:34:36.929303"
-      },
-      "73b393567df3b4749b16ce252b306d7880b3304a5bbceb6c8b862303343a93d3": {
-        "title": "4000亿市值反转，AI四小龙的黄昏与大模型新贵的黎明",
-        "link": "https://www.tmtpost.com/7969878.html",
-        "published_date": "Tue, 28 Apr 2026 13:54:00 GMT",
-        "first_seen": "2026-04-28T07:34:36.929310"
-      },
-      "6cb487b31fd52fe4f56f887555a889226108c3eaea0b1fdc7f4b6198aa37ee01": {
-        "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
-        "link": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 28 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-28T07:34:36.929312"
-      },
-      "4aa19405c1407436b4177173054fe6e756e112590cc419a0d60b981e93434033": {
-        "title": "Oracle：AI 算力豪赌，赔率够了吗？",
-        "link": "https://www.tmtpost.com/7969725.html",
-        "published_date": "Tue, 28 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-28T07:34:36.929314"
-      },
-      "9c0012e4da731fd48371025bacfa12caaaae723184d37efdb00585a68a608788": {
-        "title": "瑞士机器人科技企业Mimic Robotics研发通用人形机械手，提升工业自动化水平",
-        "link": "https://www.tmtpost.com/7970206.html",
-        "published_date": "Tue, 28 Apr 2026 14:36:00 GMT",
-        "first_seen": "2026-04-28T07:34:36.929315"
-      },
       "70a55a67d4bf7da93b105f0a0ff2f1a94c04b8636c496a72b98a4ee48fad208e": {
         "title": "一场谷歌“75%代码由AI生成”引发的焦虑",
         "link": "https://www.tmtpost.com/7970697.html",
@@ -2371,39 +2341,39 @@
         "link": "https://www.tmtpost.com/8004614.html",
         "published_date": "Wed, 27 May 2026 20:05:00 GMT",
         "first_seen": "2026-05-28T00:03:17.560114"
+      },
+      "8a5243c805a130b988de0317a5e20a50a08355d58c88c987eac73ea6104945dc": {
+        "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
+        "link": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 28 May 2026 15:27:00 GMT",
+        "first_seen": "2026-05-28T08:45:26.303229"
+      },
+      "153b30cc25f49cc9b583113713c1cf7d92bac95db4d1035ea997739999785cb5": {
+        "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
+        "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 28 May 2026 15:08:00 GMT",
+        "first_seen": "2026-05-28T08:45:26.303236"
+      },
+      "ee672e118e5ca529640133dfb9e5523075e1a0d85af491fecfb1f100c3e34f70": {
+        "title": "SK海力士市值突破1万亿美元，“逆天改命”终成存储之王",
+        "link": "https://www.tmtpost.com/8005753.html",
+        "published_date": "Thu, 28 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-28T08:45:26.303238"
+      },
+      "04843f93ad3d3cc4600900f5a3a50c9acc95acddd45468aec14266897cd07f88": {
+        "title": "市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司",
+        "link": "https://www.tmtpost.com/8003852.html",
+        "published_date": "Thu, 28 May 2026 13:58:00 GMT",
+        "first_seen": "2026-05-28T08:45:26.303239"
+      },
+      "97ff1a16249d43157eb2576d677cf170357490e1385b65db6386a428a1ebdf67": {
+        "title": "消费级机器人大爆发，我在今年看到的产业新变化",
+        "link": "https://www.tmtpost.com/8005755.html",
+        "published_date": "Thu, 28 May 2026 15:45:00 GMT",
+        "first_seen": "2026-05-28T08:45:26.303241"
       }
     },
     "Finance": {
-      "bd7f87d74cb55402806c984982713f52894784c910aa969b4c8d346ae2acfaea": {
-        "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
-        "link": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
-        "published_date": "Tue, 28 Apr 2026 00:20:00 GMT",
-        "first_seen": "2026-04-28T07:33:39.148838"
-      },
-      "61f4d3c740debf2e2c353d019363ed2738a92ec874ef5b8f2a97d85329fe9455": {
-        "title": "Wall Street dealers boost Treasury holdings to highest level since 2007",
-        "link": "https://www.ft.com/content/bdbfeee1-6780-4df7-9c42-34b9bc07f233",
-        "published_date": "Tue, 28 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-28T07:33:39.148851"
-      },
-      "e664b1db5c7a0455b4ae0cbddf5c6b6b13ffe0c1b464f8319ccd8b3fafb5552a": {
-        "title": "California is one step closer to America’s first billionaire wealth tax — and the divide between red and blue state taxes is getting deeper",
-        "link": "https://www.marketwatch.com/story/california-is-one-step-closer-to-americas-first-billionaire-wealth-tax-and-the-divide-between-red-and-blue-state-taxes-is-getting-deeper-18ef3232?mod=mw_rss_topstories",
-        "published_date": "Tue, 28 Apr 2026 00:56:00 GMT",
-        "first_seen": "2026-04-28T07:33:39.148854"
-      },
-      "b486025c1eaee17e0108a1ec16336227a92cd39fbf7e9075b98e24dce511c09f": {
-        "title": "Milken family office alumni raise $4bn to target private capital upheaval",
-        "link": "https://www.ft.com/content/4bd56a80-948c-4749-a3ce-4cb1ae4ddfc5",
-        "published_date": "Tue, 28 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-28T07:33:39.148856"
-      },
-      "db6e5a516dec7f667169c0cf5dfbfd94d859b83210c48245a6a9a4921aabd888": {
-        "title": "Rivian CEO’s $403mn pay package dwarfs those of top US car bosses",
-        "link": "https://www.ft.com/content/aabef226-0a42-4cde-9cc1-687e0f4a9d3a",
-        "published_date": "Tue, 28 Apr 2026 00:27:00 GMT",
-        "first_seen": "2026-04-28T07:33:39.148858"
-      },
       "1fa0abaa0ad9bf7b31400bb75eb89e1be988d895a267c3db6b822e2c98b20bff": {
         "title": "SoftBank shares dive, U.S. tech stocks under pressure on report of OpenAI missing goals",
         "link": "https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories",
@@ -4503,39 +4473,39 @@
         "link": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
         "published_date": "Wed, 27 May 2026 21:29:00 GMT",
         "first_seen": "2026-05-28T00:03:31.533184"
+      },
+      "330500cb2291d52bfc521a7e1790fbaa2608e89529fb495aef71020ab74d77de": {
+        "title": "Chip stocks race towards biggest gains since dotcom era on AI demand",
+        "link": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
+        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-28T08:45:43.414863"
+      },
+      "d1af28594dc77d4ad959e06f41d8fe516d728f7c04c3c22bec1fd8b73f929897": {
+        "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
+        "link": "https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149",
+        "published_date": "Thu, 28 May 2026 04:52:00 GMT",
+        "first_seen": "2026-05-28T08:45:43.414871"
+      },
+      "c4d784607811206cb219515b15a6e7e851b31e53c2368cbe834da7c6a70566ee": {
+        "title": "Nvidia chief Jensen Huang to join board at prestigious Beijing university",
+        "link": "https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e",
+        "published_date": "Thu, 28 May 2026 00:15:00 GMT",
+        "first_seen": "2026-05-28T08:45:43.414873"
+      },
+      "16b457734ed9d2922e2fbc535cd10ac6acf1fa0dbb6f180606980d1d52b7634b": {
+        "title": "Why Europe must embrace tariffs",
+        "link": "https://www.ft.com/content/98768d2d-d9dc-4344-971c-b6496c92a662",
+        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-28T08:45:43.414875"
+      },
+      "17aaa8d85a457b914a7715945e33303cc00ad6495081c0260e2c812d47085859": {
+        "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
+        "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
+        "published_date": "Thu, 28 May 2026 04:01:00 GMT",
+        "first_seen": "2026-05-28T08:45:43.414877"
       }
     },
     "Ai": {
-      "fca9d70f5c2e5cc3ed414e22f79f9e078f5747f64bebab90ad60f04ea3f78d93": {
-        "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
-        "link": "https://www.qbitai.com/2026/04/409550.html",
-        "published_date": "Tue, 28 Apr 2026 01:40:00 GMT",
-        "first_seen": "2026-04-28T07:34:01.002555"
-      },
-      "a3d0f71e5755decd70ce770b493fac0c495b9b9b5b8f38c8ddbc2e4ecdd16da2": {
-        "title": "小雨智造与北航共建实验室，创始人乔忠良：工业落地比人形奇观更具正义性",
-        "link": "https://www.qbitai.com/2026/04/409882.html",
-        "published_date": "Tue, 28 Apr 2026 06:05:00 GMT",
-        "first_seen": "2026-04-28T07:34:01.002562"
-      },
-      "c071f826d920facbf5303c663bb99eda7da42c2fe3c84c742abe5f5c24597387": {
-        "title": "做了10年Robotaxi，小马智行首次入局RoboVan",
-        "link": "https://www.qbitai.com/2026/04/409648.html",
-        "published_date": "Tue, 28 Apr 2026 02:29:00 GMT",
-        "first_seen": "2026-04-28T07:34:01.002564"
-      },
-      "7f6ea7caae4f31be4aed726ae23d8b2784eea16eb7926303b09530cc8e8d0b15": {
-        "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
-        "link": "https://www.qbitai.com/2026/04/409665.html",
-        "published_date": "Tue, 28 Apr 2026 02:35:00 GMT",
-        "first_seen": "2026-04-28T07:34:01.002566"
-      },
-      "13ad37cfef89827c276d74c5708ec2bef7fb9a530d33f0a59420f25877b96726": {
-        "title": "DeepSeek不惜代价保住它！V4关键特性被挖出来了",
-        "link": "https://www.qbitai.com/2026/04/409896.html",
-        "published_date": "Tue, 28 Apr 2026 06:15:00 GMT",
-        "first_seen": "2026-04-28T07:34:01.002567"
-      },
       "777ecb085bcd6f48f15a9a9f7a9034e03e084a07d9606a84fbf95809a2fa971c": {
         "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
         "link": "https://www.qbitai.com/2026/04/410317.html",
@@ -5747,13 +5717,31 @@
         "link": "https://www.qbitai.com/2026/05/425870.html",
         "published_date": "Wed, 27 May 2026 09:01:00 GMT",
         "first_seen": "2026-05-28T00:02:50.596999"
+      },
+      "8507f3670f27f0a8bd2c886757de4eb8d668993b64f5b0b5c34e96aec401a83b": {
+        "title": "2026-05-28日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-28/",
+        "published_date": "Thu, 28 May 2026 10:56:00 GMT",
+        "first_seen": "2026-05-28T08:45:03.279573"
+      },
+      "57e34e36b389454724b22efbeac8fa84bd08ca638eb1af0c58a4af3fb8425650": {
+        "title": "「斯隆奖」得主戴亮全职加盟复旦",
+        "link": "https://www.qbitai.com/2026/05/425959.html",
+        "published_date": "Thu, 28 May 2026 04:44:00 GMT",
+        "first_seen": "2026-05-28T08:45:03.279584"
+      },
+      "4833370299b63e47bccbbac00d80009d52e7832615bcd2628a8f348407f78cdb": {
+        "title": "清华有了新老师：黄仁勋",
+        "link": "https://www.qbitai.com/2026/05/425948.html",
+        "published_date": "Thu, 28 May 2026 04:39:00 GMT",
+        "first_seen": "2026-05-28T08:45:03.279587"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-28T00:03:17.560117",
-    "Finance": "2026-05-28T00:03:31.533186",
-    "Ai": "2026-05-28T00:02:50.597002"
+    "Technology": "2026-05-28T08:45:26.303244",
+    "Finance": "2026-05-28T08:45:43.414879",
+    "Ai": "2026-05-28T08:45:03.279589"
   }
 }

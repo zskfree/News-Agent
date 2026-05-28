@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-28 00:02
+**最后更新时间**: 2026-05-28 08:45
+
+---
+
+## 🆕 最新更新 (2026-05-28 08:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran exchange fire amid increasingly strained truce](https://www.ft.com/content/de9e4ee6-a370-4934-a456-41bd10a60350)
+**发布时间**: 2026-05-28 07:58
+
+#### [AI boom outweighs Iran war pain, Korean central bank chief says](https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149)
+**发布时间**: 2026-05-28 04:52
+
+#### [Ukraine is turning the tables](https://www.ft.com/content/7beeff28-27b4-417a-b1ef-43298f736f00)
+**发布时间**: 2026-05-28 04:00
+
+#### [America’s hegemonic glory is under threat](https://www.ft.com/content/1f088eae-d116-4eca-93b8-283a4695ce71)
+**发布时间**: 2026-05-28 04:00
+
+#### [Why Europe must embrace tariffs](https://www.ft.com/content/98768d2d-d9dc-4344-971c-b6496c92a662)
+**发布时间**: 2026-05-28 04:00
+
+#### [Rouble’s strength piles pressure on Russian war economy](https://www.ft.com/content/e04025b9-f53e-4afa-9944-f787bb58125d)
+**发布时间**: 2026-05-28 04:00
+
+#### [Chip stocks race towards biggest gains since dotcom era on AI demand](https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47)
+**发布时间**: 2026-05-28 04:00
+
+#### [Kirkland & Ellis to spend $500mn building its own AI technology](https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3)
+**发布时间**: 2026-05-28 04:00
+
+#### [Nvidia chief Jensen Huang to join board at prestigious Beijing university](https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e)
+**发布时间**: 2026-05-28 00:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?](https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 04:01
+
+#### [Cancer treatment already costs hundreds of thousands of dollars — and it’s about to get even worse](https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 02:45
+
+#### [More Americans are raiding their emergency savings just to fill up their gas tanks](https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 01:47
+
+#### [Snowflake’s stock surges nearly 40% as AI acceleration drives record product-revenue growth](https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 00:30
+
+#### [Marvell’s stock falls despite ‘exceptional’ AI demand driving a stronger growth outlook](https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 00:27
+
+#### [Salesforce shares dip on soft revenue outlook as AI disruption concerns linger](https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 00:23
 
 ---
 

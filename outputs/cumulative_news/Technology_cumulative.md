@@ -1,7 +1,130 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-28 00:02
+**最后更新时间**: 2026-05-28 08:45
+
+---
+
+## 🆕 最新更新 (2026-05-28 08:45)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [京东方A百亿成交背后，拆解其AI算力材料布局](https://www.tmtpost.com/8003874.html)
+**发布时间**: 2026-05-28 16:33
+
+#### [涨价、卡审、分成下滑，AI剧拐点：有人退圈、有人坚守，不提质就出局](https://www.tmtpost.com/8004007.html)
+**发布时间**: 2026-05-28 16:25
+
+#### [在做Harness这件事上，DeepSeek更信搞量化的](https://www.tmtpost.com/8005695.html)
+**发布时间**: 2026-05-28 16:22
+
+#### [宇树其实没得选](https://www.tmtpost.com/8005800.html)
+**发布时间**: 2026-05-28 16:16
+
+#### [25年来的最强投资人阵容是谁？福布斯发布全球最佳创投人“全明星”榜](https://www.tmtpost.com/8005882.html)
+**发布时间**: 2026-05-28 16:09
+
+#### [石药集团：一季报出现波动，发生了什么？](https://www.tmtpost.com/8005801.html)
+**发布时间**: 2026-05-28 16:09
+
+#### [AI淘汰的是流程，不是SSC](https://www.tmtpost.com/8005621.html)
+**发布时间**: 2026-05-28 16:02
+
+#### [SK海力士市值突破1万亿美元，“逆天改命”终成存储之王](https://www.tmtpost.com/8005753.html)
+**发布时间**: 2026-05-28 15:55
+
+#### [消费级机器人大爆发，我在今年看到的产业新变化](https://www.tmtpost.com/8005755.html)
+**发布时间**: 2026-05-28 15:45
+
+#### [挤满商场B1层的“小漂亮饭”，能火多久？](https://www.tmtpost.com/8005784.html)
+**发布时间**: 2026-05-28 15:45
+
+#### [AI耳机卷生卷死，为何巨头都想占领你的耳朵？​](https://www.tmtpost.com/8005791.html)
+**发布时间**: 2026-05-28 15:45
+
+#### [谷雨十周年：一个成分“格物派”的逆周期生长样本](https://www.tmtpost.com/8005572.html)
+**发布时间**: 2026-05-28 14:55
+
+#### [市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司](https://www.tmtpost.com/8003852.html)
+**发布时间**: 2026-05-28 13:58
+
+#### [马维斯（Marvis）实测：他给了我一些可以独处的时间](https://www.tmtpost.com/8004885.html)
+**发布时间**: 2026-05-28 13:45
+
+#### [AI短剧，正在抢走全球游戏用户](https://www.tmtpost.com/8003850.html)
+**发布时间**: 2026-05-28 13:42
+
+#### [当年最火的“童颜针”，破产了](https://www.tmtpost.com/8005604.html)
+**发布时间**: 2026-05-28 13:39
+
+#### [从PC到AI，联想中国一场必打的仗](https://www.tmtpost.com/8004568.html)
+**发布时间**: 2026-05-28 13:34
+
+#### [字节小荷再发力，我对AI医疗的几点思考](https://www.tmtpost.com/8004599.html)
+**发布时间**: 2026-05-28 13:25
+
+#### [瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强](https://www.tmtpost.com/8005534.html)
+**发布时间**: 2026-05-28 13:19
+
+#### [香奈儿迪奥背后的中国“打工人”，年入10亿，却卡在IPO大门口](https://www.tmtpost.com/8005598.html)
+**发布时间**: 2026-05-28 13:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 能用，为什么还是不好用？](https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 15:45
+
+#### [米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？](https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 15:32
+
+#### [全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍](https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 15:27
+
+#### [深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？](https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 15:08
+
+#### [腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:46
+
+#### [Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定](https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:41
+
+#### [昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央](https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:25
+
+#### [腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:14
+
+#### [利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿](https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:08
+
+#### [Azure Logic Apps 为智能体工作流新增沙箱化代码解释器](https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 14:00
+
+#### [腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 10:37
+
+#### [小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案](https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 10:02
+
+#### [「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序](https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 09:21
+
+#### [「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能](https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 09:19
+
+#### [Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent](https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 09:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
+**发布时间**: 2026-05-28 15:00
+
+#### [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
+**发布时间**: 2026-05-28 11:11
+
+#### [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
+**发布时间**: 2026-05-28 08:30
 
 ---
 
