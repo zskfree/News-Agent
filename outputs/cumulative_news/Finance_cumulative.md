@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-28 08:45
+**最后更新时间**: 2026-05-28 10:05
+
+---
+
+## 🆕 最新更新 (2026-05-28 10:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m unsure of the best approach’: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?](https://www.marketwatch.com/story/im-unsure-of-the-best-approach-my-father-91-is-in-hospice-care-he-left-his-six-children-cds-can-we-cash-out-72006059?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 09:45
+
+#### [Oil prices rise after fresh round of strikes between U.S. and Iran, pushing peace deal into doubt](https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 09:39
+
+#### [My golf buddy dropped me when I didn’t make him my financial adviser. Be careful who you trust.](https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 09:31
+
+#### [‘Hunting Wives’ star Malin Akerman lists ‘idyllic California retreat’ in Hollywood Hills for $3 million](https://www.marketwatch.com/story/hunting-wives-star-malin-akerman-lists-idyllic-california-retreat-in-hollywood-hills-for-3-million-c5216615?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 09:03
+
+#### [Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on](https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 08:51
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 May 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 08:45:03 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 09:59:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 10:05:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-05-28日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-28/</link>
-      <description>&lt;![CDATA[2026-05-28日刊]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-28/</guid>
+      <title>ICRA 2026 | 新加坡国立大学提出FD-VLA：力蒸馏视觉语言动作模型，攻克接触丰富操作</title>
+      <link>https://www.leiphone.com/category/robot/Wl7iuuwSAZOjbwO2.html</link>
+      <description>&lt;![CDATA[ICRA 2026 | 新加坡国立大学提出FD-VLA：力蒸馏视觉语言动作模型，攻克接触丰富操作]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Wl7iuuwSAZOjbwO2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>「斯隆奖」得主戴亮全职加盟复旦</title>
-      <link>https://www.qbitai.com/2026/05/425959.html</link>
-      <description>&lt;![CDATA[「斯隆奖」得主戴亮全职加盟复旦]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 04:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425959.html</guid>
+      <title>CVPR 2026 三维视觉趋势梳理：从 RGB 感知，到真实世界建模</title>
+      <link>https://www.leiphone.com/category/ai/xHDeCJEI1hbTPC4i.html</link>
+      <description>&lt;![CDATA[CVPR 2026 三维视觉趋势梳理：从 RGB 感知，到真实世界建模]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/xHDeCJEI1hbTPC4i.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>清华有了新老师：黄仁勋</title>
-      <link>https://www.qbitai.com/2026/05/425948.html</link>
-      <description>&lt;![CDATA[清华有了新老师：黄仁勋]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 04:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/425948.html</guid>
+      <title>CVPR 2026 医学影像 AI 趋势梳理：从看懂影像，到接管科研工作流</title>
+      <link>https://www.leiphone.com/category/ai/JAUmva7bj5gy9aaC.html</link>
+      <description>&lt;![CDATA[CVPR 2026 医学影像 AI 趋势梳理：从看懂影像，到接管科研工作流]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JAUmva7bj5gy9aaC.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICRA 2026｜美团&amp;北航提出LIBERO-X：五级递进测试揭示VLA模型鲁棒性短板</title>
+      <link>https://www.leiphone.com/category/robot/P4T0UrCxD8UxGe0L.html</link>
+      <description>&lt;![CDATA[ICRA 2026｜美团&amp;北航提出LIBERO-X：五级递进测试揭示VLA模型鲁棒性短板]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/P4T0UrCxD8UxGe0L.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>单芯片RGBD，物理AI视觉的未来</title>
+      <link>https://www.leiphone.com/category/transportation/Zkm6jd8sMa88jfmx.html</link>
+      <description>&lt;![CDATA[单芯片RGBD，物理AI视觉的未来]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Zkm6jd8sMa88jfmx.html</guid>
       <category>Ai</category>
     </item>
   </channel>

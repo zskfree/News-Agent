@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 May 2026 08:45:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 08:45:26 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 10:05:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 10:05:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍</title>
-      <link>https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？</title>
-      <link>https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>SK海力士市值突破1万亿美元，“逆天改命”终成存储之王</title>
-      <link>https://www.tmtpost.com/8005753.html</link>
-      <description>&lt;![CDATA[SK海力士市值突破1万亿美元，“逆天改命”终成存储之王]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005753.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司</title>
-      <link>https://www.tmtpost.com/8003852.html</link>
-      <description>&lt;![CDATA[市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 13:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003852.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>消费级机器人大爆发，我在今年看到的产业新变化</title>
-      <link>https://www.tmtpost.com/8005755.html</link>
-      <description>&lt;![CDATA[消费级机器人大爆发，我在今年看到的产业新变化]]&gt;</description>
+      <title>Agent 能用，为什么还是不好用？</title>
+      <link>https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 能用，为什么还是不好用？]]&gt;</description>
       <pubDate>Thu, 28 May 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005755.html</guid>
+      <guid isPermaLink="true">https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？</title>
+      <link>https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央</title>
+      <link>https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>固体、煤油还是甲烷？中国商业火箭为何没有标准答案</title>
+      <link>https://www.tmtpost.com/8005988.html</link>
+      <description>&lt;![CDATA[固体、煤油还是甲烷？中国商业火箭为何没有标准答案]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8005988.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从PC到AI，联想中国一场必打的仗</title>
+      <link>https://www.tmtpost.com/8004568.html</link>
+      <description>&lt;![CDATA[从PC到AI，联想中国一场必打的仗]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 13:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8004568.html</guid>
       <category>Technology</category>
     </item>
   </channel>
