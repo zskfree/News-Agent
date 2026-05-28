@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 May 2026 09:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 10:05:42 GMT</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 10:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 10:22:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICRA 2026 | 新加坡国立大学提出FD-VLA：力蒸馏视觉语言动作模型，攻克接触丰富操作</title>
-      <link>https://www.leiphone.com/category/robot/Wl7iuuwSAZOjbwO2.html</link>
-      <description>&lt;![CDATA[ICRA 2026 | 新加坡国立大学提出FD-VLA：力蒸馏视觉语言动作模型，攻克接触丰富操作]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Wl7iuuwSAZOjbwO2.html</guid>
+      <title>ICRA 2026 | 神经衰减机制提升灵巧手精细抓握：双阶段深度预测学习TaSA框架，插入任务成功率翻倍</title>
+      <link>https://www.leiphone.com/category/robot/elUAi7zlIgwRouSk.html</link>
+      <description>&lt;![CDATA[ICRA 2026 | 神经衰减机制提升灵巧手精细抓握：双阶段深度预测学习TaSA框架，插入任务成功率翻倍]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/elUAi7zlIgwRouSk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CVPR 2026 三维视觉趋势梳理：从 RGB 感知，到真实世界建模</title>
-      <link>https://www.leiphone.com/category/ai/xHDeCJEI1hbTPC4i.html</link>
-      <description>&lt;![CDATA[CVPR 2026 三维视觉趋势梳理：从 RGB 感知，到真实世界建模]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/xHDeCJEI1hbTPC4i.html</guid>
+      <title>ICRA 2026｜同济&amp;港中文：建造者机器人拼装异构模块，退火MPPI实现即插即用控制</title>
+      <link>https://www.leiphone.com/category/robot/gebd23P5dxua61rn.html</link>
+      <description>&lt;![CDATA[ICRA 2026｜同济&amp;港中文：建造者机器人拼装异构模块，退火MPPI实现即插即用控制]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/gebd23P5dxua61rn.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CVPR 2026 医学影像 AI 趋势梳理：从看懂影像，到接管科研工作流</title>
-      <link>https://www.leiphone.com/category/ai/JAUmva7bj5gy9aaC.html</link>
-      <description>&lt;![CDATA[CVPR 2026 医学影像 AI 趋势梳理：从看懂影像，到接管科研工作流]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JAUmva7bj5gy9aaC.html</guid>
+      <title>ICRA 2026｜Depth Completion模型，低成本雷达突破野外度量深度估算</title>
+      <link>https://www.leiphone.com/category/robot/QioxDCNmbPwRJbJ7.html</link>
+      <description>&lt;![CDATA[ICRA 2026｜Depth Completion模型，低成本雷达突破野外度量深度估算]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/QioxDCNmbPwRJbJ7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICRA 2026｜美团&amp;北航提出LIBERO-X：五级递进测试揭示VLA模型鲁棒性短板</title>
-      <link>https://www.leiphone.com/category/robot/P4T0UrCxD8UxGe0L.html</link>
-      <description>&lt;![CDATA[ICRA 2026｜美团&amp;北航提出LIBERO-X：五级递进测试揭示VLA模型鲁棒性短板]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/P4T0UrCxD8UxGe0L.html</guid>
+      <title>ASR、TTS、Chat均为第一，阿里语音大模型拿下“大满贯”</title>
+      <link>https://www.leiphone.com/category/industrynews/xPfBcQv2dyfnqN37.html</link>
+      <description>&lt;![CDATA[ASR、TTS、Chat均为第一，阿里语音大模型拿下“大满贯”]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xPfBcQv2dyfnqN37.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>单芯片RGBD，物理AI视觉的未来</title>
-      <link>https://www.leiphone.com/category/transportation/Zkm6jd8sMa88jfmx.html</link>
-      <description>&lt;![CDATA[单芯片RGBD，物理AI视觉的未来]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Zkm6jd8sMa88jfmx.html</guid>
+      <title>清程极智：Token成为AI时代的 “水电煤”，中国AI产业从能用迈向好用</title>
+      <link>https://www.leiphone.com/category/ai/X01gR8Kdtxo8KiU5.html</link>
+      <description>&lt;![CDATA[清程极智：Token成为AI时代的 “水电煤”，中国AI产业从能用迈向好用]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/X01gR8Kdtxo8KiU5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>金融+AI的奇点时刻，阿里云要“点”石成“金”</title>
+      <link>https://www.leiphone.com/category/industrynews/L2U4PzqRHwnmEhyv.html</link>
+      <description>&lt;![CDATA[金融+AI的奇点时刻，阿里云要“点”石成“金”]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/L2U4PzqRHwnmEhyv.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICRA 2026倒计时4天| 佐治亚理工“天团”领衔，丰田算法引爆全网，灵巧操作赛道白热化</title>
+      <link>https://www.leiphone.com/category/robot/VOP0F7JuqsE3SIOE.html</link>
+      <description>&lt;![CDATA[ICRA 2026倒计时4天| 佐治亚理工“天团”领衔，丰田算法引爆全网，灵巧操作赛道白热化]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/VOP0F7JuqsE3SIOE.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家｜许鹏出任连尚集团首席执行官 加速AI战略纵深突破</title>
+      <link>https://www.leiphone.com/category/ai/1BLuBSDttjoOuLwx.html</link>
+      <description>&lt;![CDATA[独家｜许鹏出任连尚集团首席执行官 加速AI战略纵深突破]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/1BLuBSDttjoOuLwx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>极狐问道V9上市，卓驭首款MPV正式登场</title>
+      <link>https://www.leiphone.com/category/industrynews/ldZHEzoiA2tKrNne.html</link>
+      <description>&lt;![CDATA[极狐问道V9上市，卓驭首款MPV正式登场]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ldZHEzoiA2tKrNne.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>官宣成为世界杯持权转播商，小红书加速打造“社区的社区”</title>
+      <link>https://www.leiphone.com/category/industrynews/AhOa4hu37MBw3iUq.html</link>
+      <description>&lt;![CDATA[官宣成为世界杯持权转播商，小红书加速打造“社区的社区”]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/AhOa4hu37MBw3iUq.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-28 10:05
+**最后更新时间**: 2026-05-28 10:22
+
+---
+
+## 🆕 最新更新 (2026-05-28 10:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.](https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 10:04
 
 ---
 

@@ -6,7 +6,7 @@
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Thu, 28 May 2026 10:05:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 10:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:22:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent 能用，为什么还是不好用？</title>
-      <link>https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 能用，为什么还是不好用？]]&gt;</description>
+      <title>在做Harness这件事上，DeepSeek更信搞量化的</title>
+      <link>https://www.tmtpost.com/8005695.html</link>
+      <description>&lt;![CDATA[在做Harness这件事上，DeepSeek更信搞量化的]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8005695.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Azure Logic Apps 为智能体工作流新增沙箱化代码解释器</title>
+      <link>https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Azure Logic Apps 为智能体工作流新增沙箱化代码解释器]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e</link>
+      <description>&lt;![CDATA[推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定</title>
+      <link>https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从零手搓 AI Agent，我学到了什么？</title>
+      <link>https://sspai.com/post/110370</link>
+      <description>&lt;![CDATA[从零手搓 AI Agent，我学到了什么？]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110370</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI耳机卷生卷死，为何巨头都想占领你的耳朵？​</title>
+      <link>https://www.tmtpost.com/8005791.html</link>
+      <description>&lt;![CDATA[AI耳机卷生卷死，为何巨头都想占领你的耳朵？​]]&gt;</description>
       <pubDate>Thu, 28 May 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8005791.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？</title>
-      <link>https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强</title>
+      <link>https://www.tmtpost.com/8005534.html</link>
+      <description>&lt;![CDATA[瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8005534.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央</title>
-      <link>https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI短剧，正在抢走全球游戏用户</title>
+      <link>https://www.tmtpost.com/8003850.html</link>
+      <description>&lt;![CDATA[AI短剧，正在抢走全球游戏用户]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003850.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>固体、煤油还是甲烷？中国商业火箭为何没有标准答案</title>
-      <link>https://www.tmtpost.com/8005988.html</link>
-      <description>&lt;![CDATA[固体、煤油还是甲烷？中国商业火箭为何没有标准答案]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005988.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从PC到AI，联想中国一场必打的仗</title>
-      <link>https://www.tmtpost.com/8004568.html</link>
-      <description>&lt;![CDATA[从PC到AI，联想中国一场必打的仗]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8004568.html</guid>
+      <title>利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿</title>
+      <link>https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
