@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-28 10:22
+**最后更新时间**: 2026-05-29 00:14
+
+---
+
+## 🆕 最新更新 (2026-05-29 00:14)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Earnings season slows but these 7 stocks pack explosive ‘sawtooth’ volatility next week](https://www.marketwatch.com/story/earnings-season-slows-but-these-7-stocks-pack-explosive-sawtooth-volatility-next-week-d519d174?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 23:45
+
+#### [Costco gas demand hits records, as shoppers try to stay ahead of future price spikes](https://www.marketwatch.com/story/higher-gas-prices-are-driving-people-to-membership-retailers-and-costco-is-the-latest-to-benefit-3566c533?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 22:44
+
+#### [The Iran war costs more than you think — it boosts inflation and threatens stocks](https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:58
+
+#### [This overvalued stock market just flashed a rare buy signal](https://www.marketwatch.com/story/this-overvalued-stock-market-just-flashed-a-rare-buy-signal-05bce4b1?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:58
+
+#### [67 million kids haven’t signed up for ‘Trump accounts.’ Here’s what they could be missing out on.](https://www.marketwatch.com/story/67-million-kids-havent-signed-up-for-trump-accounts-heres-what-they-could-be-missing-out-on-ea56dff9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:46
+
+#### [Want an alternative to chip stocks? This sector with an AI angle is breaking out.](https://www.marketwatch.com/story/want-an-alternative-to-chip-stocks-this-sector-with-an-ai-angle-is-breaking-out-8a34b2a7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:39
+
+#### [The Iran war may be winding down, but the era of $60 oil could be over](https://www.marketwatch.com/story/the-iran-war-may-be-winding-down-but-the-era-of-60-oil-could-be-over-a2ea7066?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:20
+
+#### [An Iran deal could actually trigger a painful stock-market selloff, despite Wall Street’s optimism](https://www.marketwatch.com/story/an-iran-deal-could-actually-trigger-a-painful-stock-market-selloff-despite-wall-streets-optimism-82758d41?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:00
+
+#### [Okta shares rise on earnings beat and AI-agent opportunity](https://www.marketwatch.com/story/okta-shares-rise-on-earnings-beat-and-ai-agent-opportunity-60a48690?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 20:54
+
+#### [Dell stock soars toward another record high as the AI boom drives a big earnings beat](https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 20:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation](https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268)
+**发布时间**: 2026-05-28 23:36
+
+#### [Washington nearing deal to extend Iran ceasefire, US officials say](https://www.ft.com/content/89c43161-27c3-4e4d-a5f6-49d895cde3da)
+**发布时间**: 2026-05-28 22:50
+
+#### [Amazon scraps AI leaderboard to stop workers chasing usage scores](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6)
+**发布时间**: 2026-05-28 20:31
+
+#### [Netanyahu orders Israeli forces to take control of 70% of Gaza](https://www.ft.com/content/a05555e9-a6ba-4162-976c-faac6840716a)
+**发布时间**: 2026-05-28 19:48
+
+#### [Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal](https://www.ft.com/content/7df0906c-6d9b-4440-b94e-65af0a785f7b)
+**发布时间**: 2026-05-28 19:17
+
+#### [Chevron CEO warns oil prices to jump over summer as supplies dwindle](https://www.ft.com/content/7b3211f8-2bca-4429-9bb6-0fa32f410b4d)
+**发布时间**: 2026-05-28 18:49
+
+#### [And just like that, the software apocalypse was over](https://www.ft.com/content/689ffcf5-e593-4cd1-ad99-dc0595696495)
+**发布时间**: 2026-05-28 17:18
+
+#### [EU wants crisis powers to seize control of chip supplies](https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd)
+**发布时间**: 2026-05-28 16:23
 
 ---
 

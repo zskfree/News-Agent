@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 May 2026 10:05:00 GMT</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 10:22:15 GMT</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 00:14:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>在做Harness这件事上，DeepSeek更信搞量化的</title>
-      <link>https://www.tmtpost.com/8005695.html</link>
-      <description>&lt;![CDATA[在做Harness这件事上，DeepSeek更信搞量化的]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005695.html</guid>
+      <title>【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元</title>
+      <link>https://www.tmtpost.com/8006406.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006406.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk</title>
-      <link>https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>砸下105亿，宁德时代想把AI数据中心的利润也吃干抹净</title>
+      <link>https://www.tmtpost.com/8004933.html</link>
+      <description>&lt;![CDATA[砸下105亿，宁德时代想把AI数据中心的利润也吃干抹净]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8004933.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Azure Logic Apps 为智能体工作流新增沙箱化代码解释器</title>
-      <link>https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Logic Apps 为智能体工作流新增沙箱化代码解释器]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>京东方A百亿成交背后，拆解其AI算力材料布局</title>
+      <link>https://www.tmtpost.com/8003874.html</link>
+      <description>&lt;![CDATA[京东方A百亿成交背后，拆解其AI算力材料布局]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003874.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e</link>
-      <description>&lt;![CDATA[推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e</guid>
+      <title>腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定</title>
-      <link>https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从零手搓 AI Agent，我学到了什么？</title>
-      <link>https://sspai.com/post/110370</link>
-      <description>&lt;![CDATA[从零手搓 AI Agent，我学到了什么？]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110370</guid>
+      <title>全球每10台人形机器人9台出自中国，下一个电动汽车行业来了？</title>
+      <link>https://www.tmtpost.com/8003072.html</link>
+      <description>&lt;![CDATA[全球每10台人形机器人9台出自中国，下一个电动汽车行业来了？]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003072.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI耳机卷生卷死，为何巨头都想占领你的耳朵？​</title>
-      <link>https://www.tmtpost.com/8005791.html</link>
-      <description>&lt;![CDATA[AI耳机卷生卷死，为何巨头都想占领你的耳朵？​]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005791.html</guid>
+      <title>科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈</title>
+      <link>https://www.tmtpost.com/8005718.html</link>
+      <description>&lt;![CDATA[科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8005718.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强</title>
-      <link>https://www.tmtpost.com/8005534.html</link>
-      <description>&lt;![CDATA[瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005534.html</guid>
+      <title>算力正在下沉家庭</title>
+      <link>https://www.tmtpost.com/8006097.html</link>
+      <description>&lt;![CDATA[算力正在下沉家庭]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 18:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006097.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI短剧，正在抢走全球游戏用户</title>
-      <link>https://www.tmtpost.com/8003850.html</link>
-      <description>&lt;![CDATA[AI短剧，正在抢走全球游戏用户]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003850.html</guid>
+      <title>Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？</title>
+      <link>https://www.tmtpost.com/8006462.html</link>
+      <description>&lt;![CDATA[Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 22:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006462.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿</title>
-      <link>https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>我们离无人驾驶还有多远？</title>
+      <link>https://www.tmtpost.com/8006011.html</link>
+      <description>&lt;![CDATA[我们离无人驾驶还有多远？]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006011.html</guid>
       <category>Technology</category>
     </item>
   </channel>
