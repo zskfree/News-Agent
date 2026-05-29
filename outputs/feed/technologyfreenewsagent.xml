@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 29 May 2026 00:14:00 GMT</pubDate>
-    <lastBuildDate>Fri, 29 May 2026 00:14:36 GMT</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 08:44:00 GMT</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:45:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元</title>
-      <link>https://www.tmtpost.com/8006406.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006406.html</guid>
+      <title>解密“何式定律”背后，徐直军首次披露华为芯片突围始末</title>
+      <link>https://www.tmtpost.com/8006712.html</link>
+      <description>&lt;![CDATA[解密“何式定律”背后，徐直军首次披露华为芯片突围始末]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006712.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>砸下105亿，宁德时代想把AI数据中心的利润也吃干抹净</title>
-      <link>https://www.tmtpost.com/8004933.html</link>
-      <description>&lt;![CDATA[砸下105亿，宁德时代想把AI数据中心的利润也吃干抹净]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8004933.html</guid>
+      <title>把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率</title>
+      <link>https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>京东方A百亿成交背后，拆解其AI算力材料布局</title>
-      <link>https://www.tmtpost.com/8003874.html</link>
-      <description>&lt;![CDATA[京东方A百亿成交背后，拆解其AI算力材料布局]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003874.html</guid>
+      <title>Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座</title>
+      <link>https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk</title>
-      <link>https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯云 DMC 重塑人机协同：让 Agent“用得顺”更“管得住” | 腾讯云数据库 DBTalk]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/brDB9ddjTMsKZd79o9Yc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>编程 Agent 可能是软件开发史上最昂贵的错误之一</title>
+      <link>https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[编程 Agent 可能是软件开发史上最昂贵的错误之一]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk</title>
-      <link>https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯云 DBbrain 双轮驱动：极致性能洞察与 AI Skill 化转型实践 | 腾讯云数据库 DBTalk]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/1v8Y8WZ1uV0zGshrr5Gp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当“码农”成为历史：AI时代工程师的生存法则</title>
+      <link>https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当“码农”成为历史：AI时代工程师的生存法则]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球每10台人形机器人9台出自中国，下一个电动汽车行业来了？</title>
-      <link>https://www.tmtpost.com/8003072.html</link>
-      <description>&lt;![CDATA[全球每10台人形机器人9台出自中国，下一个电动汽车行业来了？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003072.html</guid>
+      <title>OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？</title>
+      <link>https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈</title>
-      <link>https://www.tmtpost.com/8005718.html</link>
-      <description>&lt;![CDATA[科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8005718.html</guid>
+      <title>超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化</title>
+      <link>https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力正在下沉家庭</title>
-      <link>https://www.tmtpost.com/8006097.html</link>
-      <description>&lt;![CDATA[算力正在下沉家庭]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006097.html</guid>
+      <title>杭州95后做灵巧手，半年融资近10亿，理想、小米都投了</title>
+      <link>https://www.tmtpost.com/8007331.html</link>
+      <description>&lt;![CDATA[杭州95后做灵巧手，半年融资近10亿，理想、小米都投了]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007331.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？</title>
-      <link>https://www.tmtpost.com/8006462.html</link>
-      <description>&lt;![CDATA[Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 22:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006462.html</guid>
+      <title>Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China</title>
+      <link>https://www.tmtpost.com/8007520.html</link>
+      <description>&lt;![CDATA[Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007520.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>我们离无人驾驶还有多远？</title>
-      <link>https://www.tmtpost.com/8006011.html</link>
-      <description>&lt;![CDATA[我们离无人驾驶还有多远？]]&gt;</description>
-      <pubDate>Thu, 28 May 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006011.html</guid>
+      <title>智能体工作站如何撑起企业Agent的“本地未来”？</title>
+      <link>https://www.tmtpost.com/8007431.html</link>
+      <description>&lt;![CDATA[智能体工作站如何撑起企业Agent的“本地未来”？]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007431.html</guid>
       <category>Technology</category>
     </item>
   </channel>

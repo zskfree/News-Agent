@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-29 00:14
+**最后更新时间**: 2026-05-29 08:44
+
+---
+
+## 🆕 最新更新 (2026-05-29 08:44)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The double 10K scenario: Wall Street veteran says the S&P 500 and gold can each reach that mark by the end of the decade](https://www.marketwatch.com/story/the-double-10k-scenario-wall-street-veteran-says-the-s-p-500-and-gold-can-each-reach-that-mark-by-the-end-of-the-decade-402103ea?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 08:28
+
+#### [I’m setting up brokerage accounts for my grandkids in my daughter’s name. Is that wise — or am I asking for trouble?](https://www.marketwatch.com/story/im-setting-up-brokerage-accounts-for-my-grandkids-in-my-daughters-name-is-that-wise-or-am-i-asking-for-trouble-6728b2b2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 01:59
+
+#### [My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?](https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 01:18
+
+#### [These 7 stocks pack explosive ‘sawtooth’ earnings volatility next week](https://www.marketwatch.com/story/earnings-season-slows-but-these-7-stocks-pack-explosive-sawtooth-volatility-next-week-d519d174?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 23:45
+
+#### [The true cost of the Iran war is billions more than the Pentagon says](https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories)
+**发布时间**: 2026-05-28 21:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia overspends on Putin’s war in Ukraine by $28bn](https://www.ft.com/content/93674b5c-06ea-4e49-a005-dc08e1091574)
+**发布时间**: 2026-05-29 08:05
+
+#### [Russian drone hits apartment building in Romania](https://www.ft.com/content/c834acfc-1c9c-4181-bb75-683cc3a9292f)
+**发布时间**: 2026-05-29 07:21
+
+#### [How China is breaking apart a people and its culture](https://www.ft.com/content/119d8c3a-e10f-4bf7-a198-90507293054b)
+**发布时间**: 2026-05-29 04:00
+
+#### [What if remote working, not AI, is to blame for weak junior hiring?](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
+**发布时间**: 2026-05-29 04:00
+
+#### [Don’t bet on Trump reining in the prediction markets](https://www.ft.com/content/e4f9ec07-5964-45f7-ad07-af48f3790f63)
+**发布时间**: 2026-05-29 04:00
+
+#### [Investors race to get exposure to SpaceX ahead of IPO](https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165)
+**发布时间**: 2026-05-29 04:00
+
+#### [Several BP shareholders found ousted chair ‘challenging’](https://www.ft.com/content/b59bfe40-f814-4790-94b6-49ce61b9d0ea)
+**发布时间**: 2026-05-29 04:00
+
+#### [KPMG Australia’s CEO resigns after whistleblower claims](https://www.ft.com/content/0787af8d-ed4f-4764-9bab-80b85dc5c614)
+**发布时间**: 2026-05-29 03:34
+
+#### [Blue Origin rocket explodes on launch pad during test](https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6)
+**发布时间**: 2026-05-29 03:29
 
 ---
 

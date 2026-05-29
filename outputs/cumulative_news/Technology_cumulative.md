@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-29 00:14
+**最后更新时间**: 2026-05-29 08:44
+
+---
+
+## 🆕 最新更新 (2026-05-29 08:44)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China](https://www.tmtpost.com/8007520.html)
+**发布时间**: 2026-05-29 16:37
+
+#### [这家聚焦农业场景的机器人公司成立3个月，估值超5亿｜AI Founder 请回答](https://www.tmtpost.com/8006686.html)
+**发布时间**: 2026-05-29 16:25
+
+#### [能源派重塑AI发展观，让电力长出智力](https://www.tmtpost.com/8006646.html)
+**发布时间**: 2026-05-29 15:53
+
+#### [智能体工作站如何撑起企业Agent的“本地未来”？](https://www.tmtpost.com/8007431.html)
+**发布时间**: 2026-05-29 15:49
+
+#### [启明创投主管合伙人周志峰荣膺福布斯2026年Midas List全球最佳创投人](https://www.tmtpost.com/8007153.html)
+**发布时间**: 2026-05-29 15:17
+
+#### [杭州95后做灵巧手，半年融资近10亿，理想、小米都投了](https://www.tmtpost.com/8007331.html)
+**发布时间**: 2026-05-29 15:17
+
+#### [倒反天罡！AI越来越强，人类开始“自证清白”](https://www.tmtpost.com/8007074.html)
+**发布时间**: 2026-05-29 15:06
+
+#### [霸王茶姬2026年Q1开门红：一个“全球顶流”的调整、进化与野心](https://www.tmtpost.com/8006838.html)
+**发布时间**: 2026-05-29 15:00
+
+#### [独家对话它石智航陈同庆：一台会做线束的机器人公司，凭什么一年融资近7亿美金？](https://www.tmtpost.com/8006913.html)
+**发布时间**: 2026-05-29 13:08
+
+#### [国晟科技现形记：冰火“光储局”与“表演式转型”拷问 |深度](https://www.tmtpost.com/8007095.html)
+**发布时间**: 2026-05-29 12:50
+
+#### [解密“何式定律”背后，徐直军首次披露华为芯片突围始末](https://www.tmtpost.com/8006712.html)
+**发布时间**: 2026-05-29 12:33
+
+#### [对话XREAL徐驰：AR眼镜创业需要运气](https://www.tmtpost.com/8007050.html)
+**发布时间**: 2026-05-29 12:20
+
+#### [告别“左宗棠鸡”，中餐出海进入连锁扩张时代](https://www.tmtpost.com/8004094.html)
+**发布时间**: 2026-05-29 12:20
+
+#### [段永平举牌！持仓超120亿港元，泡泡玛特究竟有何“魔力”？](https://www.tmtpost.com/8006719.html)
+**发布时间**: 2026-05-29 11:53
+
+#### [沈涤凡手里的牌，不够大](https://www.tmtpost.com/8006865.html)
+**发布时间**: 2026-05-29 11:53
+
+#### [追风口三十年，不如蹭华为！A股唯一“韬”，5天暴涨38%](https://www.tmtpost.com/8006890.html)
+**发布时间**: 2026-05-29 11:53
+
+#### [小鹏GX卖的越好，“宁王”心里越慌](https://www.tmtpost.com/8006897.html)
+**发布时间**: 2026-05-29 11:53
+
+#### [IPO门外，挤满重来一次的人](https://www.tmtpost.com/8006991.html)
+**发布时间**: 2026-05-29 11:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？](https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 15:40
+
+#### [半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图](https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 15:10
+
+#### [把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率](https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 11:18
+
+#### [Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座](https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 10:55
+
+#### [编程 Agent 可能是软件开发史上最昂贵的错误之一](https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 10:42
+
+#### [中国不会有 Snowflake——但这未必是坏事](https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 10:31
+
+#### [当“码农”成为历史：AI时代工程师的生存法则](https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 10:26
+
+#### [美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海](https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 10:00
+
+#### [超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化](https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 09:00
+
+#### [去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准](https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-28 21:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
+**发布时间**: 2026-05-29 15:00
+
+#### [什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
+**发布时间**: 2026-05-29 10:57
+
+#### [派早报：Sony 发布 Bravia 2026 款电视产品等](https://sspai.com/post/110425)
+**发布时间**: 2026-05-29 08:51
+
+#### [AI Agent 干中学，「造轮子」让我学会了什么？](https://sspai.com/post/110370)
+**发布时间**: 2026-05-28 15:00
 
 ---
 
