@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-30 07:44
+**最后更新时间**: 2026-05-30 10:04
+
+---
+
+## 🆕 最新更新 (2026-05-30 10:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?](https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 08:19
 
 ---
 

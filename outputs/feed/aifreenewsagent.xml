@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 May 2026 07:42:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 07:44:27 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 10:01:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 10:04:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>BEYOND Expo 2026现场：联汇科技Om AI首发的OttoBox视频创作助理，把视频粗剪从8小时拉进30分钟</title>
-      <link>https://www.leiphone.com/category/industrynews/2tSIXbDhy3ntdnzk.html</link>
-      <description>&lt;![CDATA[BEYOND Expo 2026现场：联汇科技Om AI首发的OttoBox视频创作助理，把视频粗剪从8小时拉进30分钟]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2tSIXbDhy3ntdnzk.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-05-30日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-30/</link>
-      <description>&lt;![CDATA[2026-05-30日刊]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-30/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家</title>
-      <link>https://www.qbitai.com/2026/05/426706.html</link>
-      <description>&lt;![CDATA[帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 06:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426706.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」</title>
-      <link>https://www.qbitai.com/2026/05/426662.html</link>
-      <description>&lt;![CDATA[英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 06:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426662.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代</title>
-      <link>https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html</link>
-      <description>&lt;![CDATA[思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html</guid>
+      <title>外卖大战一周年“后遗症”初显：订单骤降，骑手却暴涨到2000万</title>
+      <link>https://www.leiphone.com/category/industrynews/9Ra6A8qhyDVDZc8j.html</link>
+      <description>&lt;![CDATA[外卖大战一周年“后遗症”初显：订单骤降，骑手却暴涨到2000万]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9Ra6A8qhyDVDZc8j.html</guid>
       <category>Ai</category>
     </item>
   </channel>
