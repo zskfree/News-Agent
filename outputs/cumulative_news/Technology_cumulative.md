@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-29 08:44
+**最后更新时间**: 2026-05-30 00:13
+
+---
+
+## 🆕 最新更新 (2026-05-30 00:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [婴儿期的自变量上门保姆应该“0元购”](https://www.tmtpost.com/8007768.html)
+**发布时间**: 2026-05-30 08:08
+
+#### [量子计算迎来“晶圆厂时刻”，谁先受益？](https://www.tmtpost.com/8007749.html)
+**发布时间**: 2026-05-30 08:00
+
+#### [Edge AI Daily 早报（5月30日）](https://www.tmtpost.com/8008217.html)
+**发布时间**: 2026-05-30 07:30
+
+#### [科创新源2.45亿控股东莞兆科，盈利压力凸显加码散热谋变 | 并购一线](https://www.tmtpost.com/8007951.html)
+**发布时间**: 2026-05-29 21:04
+
+#### [China's Agricultural Robot Startup is Now Valued at over 500 Mln Yuan in Three Months After Inception](https://www.tmtpost.com/8007802.html)
+**发布时间**: 2026-05-29 18:52
+
+#### [Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months](https://www.tmtpost.com/8007775.html)
+**发布时间**: 2026-05-29 18:38
+
+#### [减持与开庭赛跑，庄园牧场IPO承诺成“空头支票”，前老板携国资血亏上演罗生门](https://www.tmtpost.com/8007609.html)
+**发布时间**: 2026-05-29 18:26
+
+#### [绿皮火车，怎么就成了3万亿的好生意？](https://www.tmtpost.com/8007345.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [尼泊尔的草，中国人的宝](https://www.tmtpost.com/8007418.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [160亿，深圳“四小龙”跑出首个IPO](https://www.tmtpost.com/8007382.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [435 万的法拉利Luce，撕掉超豪华遮羞布](https://www.tmtpost.com/8007349.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [浙江小县城“老头乐”，又要IPO了](https://www.tmtpost.com/8007294.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”](https://www.tmtpost.com/8007197.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径](https://www.tmtpost.com/8006538.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [法拉利第一台电车，绕开了保时捷和仰望](https://www.tmtpost.com/8006611.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [被AI替代的人，和没被替代的人，差在哪？](https://www.tmtpost.com/8006577.html)
+**发布时间**: 2026-05-29 18:15
+
+#### [疯狂的Anthropic](https://www.tmtpost.com/8007502.html)
+**发布时间**: 2026-05-29 18:14
+
+#### [2026世界杯，为什么小红书买了，抖音没买？](https://www.tmtpost.com/8006817.html)
+**发布时间**: 2026-05-29 18:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑](https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-30 07:00
+
+#### [对话罗剑岚：把机器人“部署”本身变成训练的一部分](https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 18:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
+**发布时间**: 2026-05-29 18:12
+
+#### [住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
+**发布时间**: 2026-05-29 17:20
 
 ---
 

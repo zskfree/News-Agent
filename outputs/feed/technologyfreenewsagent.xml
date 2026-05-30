@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 29 May 2026 08:44:00 GMT</pubDate>
-    <lastBuildDate>Fri, 29 May 2026 08:45:09 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 00:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 00:13:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>解密“何式定律”背后，徐直军首次披露华为芯片突围始末</title>
-      <link>https://www.tmtpost.com/8006712.html</link>
-      <description>&lt;![CDATA[解密“何式定律”背后，徐直军首次披露华为芯片突围始末]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006712.html</guid>
+      <title>华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径</title>
+      <link>https://www.tmtpost.com/8006538.html</link>
+      <description>&lt;![CDATA[华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006538.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率</title>
-      <link>https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>量子计算迎来“晶圆厂时刻”，谁先受益？</title>
+      <link>https://www.tmtpost.com/8007749.html</link>
+      <description>&lt;![CDATA[量子计算迎来“晶圆厂时刻”，谁先受益？]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座</title>
-      <link>https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话罗剑岚：把机器人“部署”本身变成训练的一部分</title>
+      <link>https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[对话罗剑岚：把机器人“部署”本身变成训练的一部分]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>编程 Agent 可能是软件开发史上最昂贵的错误之一</title>
-      <link>https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[编程 Agent 可能是软件开发史上最昂贵的错误之一]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独家对话它石智航陈同庆：一台会做线束的机器人公司，凭什么一年融资近7亿美金？</title>
+      <link>https://www.tmtpost.com/8006913.html</link>
+      <description>&lt;![CDATA[独家对话它石智航陈同庆：一台会做线束的机器人公司，凭什么一年融资近7亿美金？]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006913.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当“码农”成为历史：AI时代工程师的生存法则</title>
-      <link>https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当“码农”成为历史：AI时代工程师的生存法则]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？</title>
-      <link>https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑</title>
+      <link>https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化</title>
-      <link>https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国不会有 Snowflake——但这未必是坏事</title>
+      <link>https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国不会有 Snowflake——但这未必是坏事]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>杭州95后做灵巧手，半年融资近10亿，理想、小米都投了</title>
-      <link>https://www.tmtpost.com/8007331.html</link>
-      <description>&lt;![CDATA[杭州95后做灵巧手，半年融资近10亿，理想、小米都投了]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007331.html</guid>
+      <title>半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图</title>
+      <link>https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China</title>
-      <link>https://www.tmtpost.com/8007520.html</link>
-      <description>&lt;![CDATA[Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007520.html</guid>
+      <title>对话XREAL徐驰：AR眼镜创业需要运气</title>
+      <link>https://www.tmtpost.com/8007050.html</link>
+      <description>&lt;![CDATA[对话XREAL徐驰：AR眼镜创业需要运气]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007050.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体工作站如何撑起企业Agent的“本地未来”？</title>
-      <link>https://www.tmtpost.com/8007431.html</link>
-      <description>&lt;![CDATA[智能体工作站如何撑起企业Agent的“本地未来”？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007431.html</guid>
+      <title>Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”</title>
+      <link>https://www.tmtpost.com/8007197.html</link>
+      <description>&lt;![CDATA[Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007197.html</guid>
       <category>Technology</category>
     </item>
   </channel>

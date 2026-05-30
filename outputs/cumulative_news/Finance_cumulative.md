@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-29 08:44
+**最后更新时间**: 2026-05-30 00:13
+
+---
+
+## 🆕 最新更新 (2026-05-30 00:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges](https://www.ft.com/content/d29af550-05e7-43a1-b52f-8861f3d3903b)
+**发布时间**: 2026-05-29 22:55
+
+#### [EasyJet draws takeover interest from private credit firm Castlelake](https://www.ft.com/content/90b32812-a766-4195-99c3-88d3025d2f54)
+**发布时间**: 2026-05-29 20:16
+
+#### [BoE governor warns Middle East ceasefire would ‘still create uncertainty’](https://www.ft.com/content/495ee364-b774-4647-b1f6-5993ebfbf3b5)
+**发布时间**: 2026-05-29 19:26
+
+#### [Trump pledges ‘final determination’ on Iran deal to extend ceasefire](https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4)
+**发布时间**: 2026-05-29 19:03
+
+#### [Thiel moves family to Milei’s libertarian Argentina](https://www.ft.com/content/3d7ab893-1842-4c6c-a3d9-26871d79dde4)
+**发布时间**: 2026-05-29 18:51
+
+#### [US stocks post longest weekly winning streak since 2023](https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1)
+**发布时间**: 2026-05-29 17:09
+
+#### [Kazakhstan offers to take Iran’s uranium stockpile, watchdog says](https://www.ft.com/content/78931fe0-a21a-4183-baf3-4e43c526e462)
+**发布时间**: 2026-05-29 15:02
+
+#### [From ESPN to the White House?](https://www.ft.com/content/38a5f803-0e5a-4abf-8881-667240414099)
+**发布时间**: 2026-05-29 11:30
+
+#### [What are Trump’s military options in Cuba?](https://www.ft.com/content/751b36e8-63de-451e-97b1-3e83d63ba364)
+**发布时间**: 2026-05-29 04:00
+
+#### [Milei to privatise Argentina’s $10-a-night workers’ hotels](https://www.ft.com/content/2d1e8cb1-9a04-49e5-bfa3-c19f84e3fd8a)
+**发布时间**: 2026-05-29 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A mystery man tried to buy Playboy’s high-end lingerie business. It turned out to all be a scam.](https://www.marketwatch.com/story/a-mystery-man-tried-to-buy-playboys-high-end-lingerie-business-it-turned-out-to-all-be-a-scam-4d8c0ae9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 22:09
+
+#### [Gap and American Eagle shares both get crushed — and neither retailer is blaming the economy](https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 21:49
+
+#### [Oil slides, stocks climb as Trump puts off determination on Iran proposal](https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 21:35
+
+#### [ServiceNow’s stock soars to a historic month as AI fears fade across software](https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 21:24
+
+#### [Dell’s stunning 33% stock rally gave a big boost to shares of other server makers](https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 21:00
+
+#### [Here’s the real story behind the record drop in America’s oil reserves](https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 20:55
+
+#### [These S&P 500 stocks soared the most during the AI-driven May rally](https://www.marketwatch.com/story/these-s-p-500-stocks-have-soared-the-most-during-the-ai-driven-may-rally-570ad48f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 20:43
+
+#### [Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check](https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 20:28
+
+#### [One of the hottest crypto products in the world is finally coming to the U.S.](https://www.marketwatch.com/story/one-of-the-hottest-crypto-products-in-the-world-is-finally-coming-to-the-u-s-96e9dfa6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 20:18
+
+#### [Oil prices tumble nearly 20% in May — the biggest monthly drop since 2020. Here’s what’s next.](https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories)
+**发布时间**: 2026-05-29 19:52
 
 ---
 
