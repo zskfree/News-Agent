@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-30 00:13
+**最后更新时间**: 2026-05-30 07:44
+
+---
+
+## 🆕 最新更新 (2026-05-30 07:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth](https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4)
+**发布时间**: 2026-05-30 06:20
+
+#### [Hegseth says US-China ties are ‘better than in years’](https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09)
+**发布时间**: 2026-05-30 04:47
+
+#### [Should AI steal your job?](https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39)
+**发布时间**: 2026-05-30 04:00
+
+#### [The floor versus the ceiling](https://www.ft.com/content/7d3ea5eb-8b5c-4282-af95-3b305d4a25f3)
+**发布时间**: 2026-05-30 04:00
+
+#### [Ferrari’s new EV sparks Italian angst over Agnelli legacy](https://www.ft.com/content/ae70e7ee-f5d4-4d07-bd20-cadf0fb77144)
+**发布时间**: 2026-05-30 04:00
+
+#### [Germany’s Merz struggles to contain ‘chancellor swap’ talk](https://www.ft.com/content/571d3705-5146-474a-a0f5-826c77c541a4)
+**发布时间**: 2026-05-30 04:00
+
+#### [Meg O’Neill, the no-nonsense CEO steering BP through crisis](https://www.ft.com/content/211d37c6-6922-415d-a041-6a4642f271aa)
+**发布时间**: 2026-05-29 16:11
 
 ---
 

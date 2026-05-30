@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 May 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 00:13:19 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 07:42:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 07:44:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家解读｜Anthropic 估值再翻倍逼近万亿，登顶全球 AI 第一的“秘密”是什么？</title>
-      <link>https://www.leiphone.com/category/ai/3bJjZs6OI76QGKNw.html</link>
-      <description>&lt;![CDATA[独家解读｜Anthropic 估值再翻倍逼近万亿，登顶全球 AI 第一的“秘密”是什么？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3bJjZs6OI76QGKNw.html</guid>
+      <title>BEYOND Expo 2026现场：联汇科技Om AI首发的OttoBox视频创作助理，把视频粗剪从8小时拉进30分钟</title>
+      <link>https://www.leiphone.com/category/industrynews/2tSIXbDhy3ntdnzk.html</link>
+      <description>&lt;![CDATA[BEYOND Expo 2026现场：联汇科技Om AI首发的OttoBox视频创作助理，把视频粗剪从8小时拉进30分钟]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2tSIXbDhy3ntdnzk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CVPR 2026：深度学习的「标准件」，正在被逐个拆掉</title>
-      <link>https://www.leiphone.com/category/ai/nKjaz04ZsOd72e42.html</link>
-      <description>&lt;![CDATA[CVPR 2026：深度学习的「标准件」，正在被逐个拆掉]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 17:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/nKjaz04ZsOd72e42.html</guid>
+      <title>2026-05-30日刊</title>
+      <link>https://hex2077.dev/docs/2026-05/2026-05-30/</link>
+      <description>&lt;![CDATA[2026-05-30日刊]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-30/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练</title>
-      <link>https://www.leiphone.com/category/industrynews/fG2kyaKruqSDPwKA.html</link>
-      <description>&lt;![CDATA[全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fG2kyaKruqSDPwKA.html</guid>
+      <title>帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家</title>
+      <link>https://www.qbitai.com/2026/05/426706.html</link>
+      <description>&lt;![CDATA[帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 06:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426706.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」</title>
-      <link>https://www.qbitai.com/2026/05/426542.html</link>
-      <description>&lt;![CDATA[面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426542.html</guid>
+      <title>英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」</title>
+      <link>https://www.qbitai.com/2026/05/426662.html</link>
+      <description>&lt;![CDATA[英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 06:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426662.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉</title>
-      <link>https://www.qbitai.com/2026/05/426557.html</link>
-      <description>&lt;![CDATA[4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426557.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>CVPR 2026 图像编辑趋势梳理：从参考一张图，到融合整个视觉世界</title>
-      <link>https://www.leiphone.com/category/academic/DZgYVq2iLBt3lT8U.html</link>
-      <description>&lt;![CDATA[CVPR 2026 图像编辑趋势梳理：从参考一张图，到融合整个视觉世界]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/DZgYVq2iLBt3lT8U.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>雷峰网现场直击：ICRA 2026下周在维也纳开幕，中国力量站上C位</title>
-      <link>https://www.leiphone.com/category/robot/PjDYrCL4iZsZBhRc.html</link>
-      <description>&lt;![CDATA[雷峰网现场直击：ICRA 2026下周在维也纳开幕，中国力量站上C位]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/PjDYrCL4iZsZBhRc.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>高擎Mini Pi plus开源人形机器人平台 ICRA 2026全球首发，有哪些看点？</title>
-      <link>https://www.leiphone.com/category/robot/lJiZwrpqtKqDboIf.html</link>
-      <description>&lt;![CDATA[高擎Mini Pi plus开源人形机器人平台 ICRA 2026全球首发，有哪些看点？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/lJiZwrpqtKqDboIf.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/</link>
-      <description>&lt;![CDATA[Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 23:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家解读｜AI编程“三巨头”，为何走了三家车企的路？</title>
-      <link>https://www.leiphone.com/category/ai/Ofx0aNHZ8iUJlvTN.html</link>
-      <description>&lt;![CDATA[独家解读｜AI编程“三巨头”，为何走了三家车企的路？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Ofx0aNHZ8iUJlvTN.html</guid>
+      <title>思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代</title>
+      <link>https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html</link>
+      <description>&lt;![CDATA[思格新能源发布行业首个全域AI智能体，能源管理进入智能体时代]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 00:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/5q3DxRKzBzMEg7CQ.html</guid>
       <category>Ai</category>
     </item>
   </channel>

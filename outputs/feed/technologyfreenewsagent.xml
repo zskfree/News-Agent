@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 May 2026 00:13:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 00:13:20 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 07:44:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 07:44:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径</title>
-      <link>https://www.tmtpost.com/8006538.html</link>
-      <description>&lt;![CDATA[华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006538.html</guid>
+      <title>【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI</title>
+      <link>https://www.tmtpost.com/8008578.html</link>
+      <description>&lt;![CDATA[【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008578.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>量子计算迎来“晶圆厂时刻”，谁先受益？</title>
-      <link>https://www.tmtpost.com/8007749.html</link>
-      <description>&lt;![CDATA[量子计算迎来“晶圆厂时刻”，谁先受益？]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007749.html</guid>
+      <title>供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组</title>
+      <link>https://www.tmtpost.com/8008498.html</link>
+      <description>&lt;![CDATA[供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008498.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话罗剑岚：把机器人“部署”本身变成训练的一部分</title>
-      <link>https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[对话罗剑岚：把机器人“部署”本身变成训练的一部分]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 编程终于有全局视野了，3 万 Star 项目补齐最大短板</title>
+      <link>https://www.tmtpost.com/8003371.html</link>
+      <description>&lt;![CDATA[AI 编程终于有全局视野了，3 万 Star 项目补齐最大短板]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003371.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话它石智航陈同庆：一台会做线束的机器人公司，凭什么一年融资近7亿美金？</title>
-      <link>https://www.tmtpost.com/8006913.html</link>
-      <description>&lt;![CDATA[独家对话它石智航陈同庆：一台会做线束的机器人公司，凭什么一年融资近7亿美金？]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006913.html</guid>
+      <title>一手实测，Opus 4.8 Vs ChatGPT 5.5 Vs Kimi 2.6 ，谁最可用？</title>
+      <link>https://www.tmtpost.com/8008060.html</link>
+      <description>&lt;![CDATA[一手实测，Opus 4.8 Vs ChatGPT 5.5 Vs Kimi 2.6 ，谁最可用？]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 09:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008060.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海</title>
-      <link>https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式</title>
+      <link>https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑</title>
-      <link>https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Edge AI Daily 早报（5月30日）</title>
+      <link>https://www.tmtpost.com/8008217.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（5月30日）]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 07:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008217.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国不会有 Snowflake——但这未必是坏事</title>
-      <link>https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中国不会有 Snowflake——但这未必是坏事]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口</title>
+      <link>https://www.tmtpost.com/8008462.html</link>
+      <description>&lt;![CDATA[铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 13:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008462.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图</title>
-      <link>https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026上海SNEC前瞻：从“反内卷”到“反谍”，从旧范式到新生态</title>
+      <link>https://www.tmtpost.com/8008107.html</link>
+      <description>&lt;![CDATA[2026上海SNEC前瞻：从“反内卷”到“反谍”，从旧范式到新生态]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008107.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话XREAL徐驰：AR眼镜创业需要运气</title>
-      <link>https://www.tmtpost.com/8007050.html</link>
-      <description>&lt;![CDATA[对话XREAL徐驰：AR眼镜创业需要运气]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 12:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007050.html</guid>
+      <title>700亿融资赶紧到位吧，DeepSeek开始限制重生、修改次数了</title>
+      <link>https://www.tmtpost.com/8008353.html</link>
+      <description>&lt;![CDATA[700亿融资赶紧到位吧，DeepSeek开始限制重生、修改次数了]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008353.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”</title>
-      <link>https://www.tmtpost.com/8007197.html</link>
-      <description>&lt;![CDATA[Anthropic发布Claude Opus 4.8，重点是：“我不会骗你”]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007197.html</guid>
+      <title>市场不会永远低估腾讯</title>
+      <link>https://www.tmtpost.com/8007849.html</link>
+      <description>&lt;![CDATA[市场不会永远低估腾讯]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007849.html</guid>
       <category>Technology</category>
     </item>
   </channel>
