@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-31 00:05
+**最后更新时间**: 2026-05-31 08:16
+
+---
+
+## 🆕 最新更新 (2026-05-31 08:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [618暗战已开，除了低价，大家还在“卷”什么](https://www.tmtpost.com/8008989.html)
+**发布时间**: 2026-05-31 14:50
+
+#### [监管加码补贴收紧，外卖大战落幕，但消费入口争夺战才刚刚开始](https://www.tmtpost.com/8007794.html)
+**发布时间**: 2026-05-31 14:21
+
+#### [140万亿Token之后：中国正在修建“算力高铁”](https://www.tmtpost.com/8008948.html)
+**发布时间**: 2026-05-31 11:04
+
+#### [暴增3100亿！存储巨头大普微，估值泡沫已现](https://www.tmtpost.com/8008925.html)
+**发布时间**: 2026-05-31 11:02
+
+#### [一季度亏掉23亿，李想重回“苦日子”？](https://www.tmtpost.com/8008822.html)
+**发布时间**: 2026-05-31 11:02
+
+#### [盈利没保住，小鹏品控又“翻车”](https://www.tmtpost.com/8008818.html)
+**发布时间**: 2026-05-31 11:01
+
+#### [硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”](https://www.tmtpost.com/8008817.html)
+**发布时间**: 2026-05-31 11:01
+
+#### [宁德时代花了30亿，为储能建了一个“风洞”](https://www.tmtpost.com/8008786.html)
+**发布时间**: 2026-05-31 10:29
+
+#### [万科股东会只剩一个老面孔](https://www.tmtpost.com/8008768.html)
+**发布时间**: 2026-05-31 10:24
+
+#### [小米AI的"免费获客-黑箱锁死"闭环：从100T Token到Credits陷阱](https://www.tmtpost.com/8008759.html)
+**发布时间**: 2026-05-31 10:11
+
+#### [大模型的另一种活法，被MiniMax跑通了](https://www.tmtpost.com/8008738.html)
+**发布时间**: 2026-05-31 09:57
+
+#### [AI写小说的套路被扒光了： Claude爱平铺，GPT总做梦，Gemini只会“他如何如何”](https://www.tmtpost.com/8008644.html)
+**发布时间**: 2026-05-31 08:56
+
+#### [Edge AI Daily 早报（5月31日）](https://www.tmtpost.com/8008870.html)
+**发布时间**: 2026-05-31 08:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
+**发布时间**: 2026-05-31 14:36
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 4 个 Star 数不高但挺有趣的 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534207&idx=1&sn=4529f12a1aaae6e83190754989d83ff2)
+**发布时间**: 2026-05-31 13:02
+
+#### [推荐 3 个 GitHub 上刚开源但实用的项目，收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534143&idx=1&sn=e1cc70e6f83be097bd48003712e0df8e)
+**发布时间**: 2026-05-30 15:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海](https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-31 10:00
 
 ---
 

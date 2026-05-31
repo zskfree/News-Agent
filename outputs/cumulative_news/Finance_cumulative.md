@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-31 00:05
+**最后更新时间**: 2026-05-31 08:16
+
+---
+
+## 🆕 最新更新 (2026-05-31 08:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Japan’s Koizumi rejects China accusations of ‘new militarism’](https://www.ft.com/content/bc92a6f7-0490-426a-869f-69265cb819b2)
+**发布时间**: 2026-05-31 06:02
+
+#### [AI is here. What do you want from it?](https://www.ft.com/content/da80e72b-31e5-42ca-995c-5fc7d457915e)
+**发布时间**: 2026-05-31 04:00
+
+#### [There can only be one President Donald Trump, forever](https://www.ft.com/content/ca3d9345-7f22-42f6-897d-d4b3f31acff7)
+**发布时间**: 2026-05-31 04:00
+
+#### [EU frets as China builds an industrial base in Morocco](https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626)
+**发布时间**: 2026-05-31 04:00
+
+#### [Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply](https://www.ft.com/content/6b74ddb9-319b-4293-a9d7-0effb17a4485)
+**发布时间**: 2026-05-31 04:00
+
+#### [Jamming-resistant radio maker seeks $3bn-plus sale](https://www.ft.com/content/b971947c-3ff3-49aa-99e5-ec0c3c0d0705)
+**发布时间**: 2026-05-31 04:00
+
+#### [Defence group CSG still pursuing stake in Franco-German tank maker](https://www.ft.com/content/6acd5ae9-79aa-4fbc-a67d-a0cc08ed00d6)
+**发布时间**: 2026-05-31 04:00
+
+#### [Jes Staley to appear before Congress over ties to Jeffrey Epstein](https://www.ft.com/content/376237d6-64ca-4804-90c5-2f83d78ed288)
+**发布时间**: 2026-05-31 00:04
 
 ---
 
