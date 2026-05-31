@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-30 10:04
+**最后更新时间**: 2026-05-31 00:05
+
+---
+
+## 🆕 最新更新 (2026-05-31 00:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Paris Saint-Germain retain Champions League with victory over Arsenal](https://www.ft.com/content/42a9a9f3-3cb2-40dd-bab2-9c3d7f7e2554)
+**发布时间**: 2026-05-30 21:14
+
+#### [SoftBank pledges €75bn to build Europe’s biggest AI facility in France](https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463)
+**发布时间**: 2026-05-30 18:39
+
+#### [Historic cattle shortages push US beef prices to record highs](https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84)
+**发布时间**: 2026-05-30 11:00
+
+#### [Trump, Texas and the risk of a Pyrrhic victory](https://www.ft.com/content/437dae98-dc36-432e-a2f6-3eab2eb1bb84)
+**发布时间**: 2026-05-30 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?](https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 20:58
+
+#### [‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?](https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 20:55
+
+#### [As Big Tech’s power demand surges, data centers bring utilities a huge new profit center](https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 18:56
+
+#### [America is losing the AI productivity war to 3.5 million Chinese STEM graduates](https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 18:36
+
+#### [This bear market signal Wall Street ignores is putting your money at risk right now](https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 18:25
+
+#### [Your portfolio can’t afford the real bill for the Iran war](https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories)
+**发布时间**: 2026-05-30 18:18
 
 ---
 

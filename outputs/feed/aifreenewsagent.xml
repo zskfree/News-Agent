@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 May 2026 10:01:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 10:04:03 GMT</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 00:02:00 GMT</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 00:05:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>外卖大战一周年“后遗症”初显：订单骤降，骑手却暴涨到2000万</title>
-      <link>https://www.leiphone.com/category/industrynews/9Ra6A8qhyDVDZc8j.html</link>
-      <description>&lt;![CDATA[外卖大战一周年“后遗症”初显：订单骤降，骑手却暴涨到2000万]]&gt;</description>
-      <pubDate>Sat, 30 May 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9Ra6A8qhyDVDZc8j.html</guid>
+      <title>启境GX7正式公布命名，瞄准大五座SUV市场</title>
+      <link>https://www.leiphone.com/category/industrynews/X1Y9tKcCnpGMGnG7.html</link>
+      <description>&lt;![CDATA[启境GX7正式公布命名，瞄准大五座SUV市场]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 21:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/X1Y9tKcCnpGMGnG7.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>利润率仅剩2.9%，七位大佬深圳共识：中国汽车，真的不能再卷了 | 大湾区车展观察</title>
+      <link>https://www.leiphone.com/category/transportation/VjGDTXEYi622aL1A.html</link>
+      <description>&lt;![CDATA[利润率仅剩2.9%，七位大佬深圳共识：中国汽车，真的不能再卷了 | 大湾区车展观察]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/VjGDTXEYi622aL1A.html</guid>
       <category>Ai</category>
     </item>
   </channel>

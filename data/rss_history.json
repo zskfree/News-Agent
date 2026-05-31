@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1d08a8ac5d2d5fcf88ca6c59079cc2331f19aaeaeffce5217b458586908bf359": {
-        "title": "韩国股市突破6000万亿韩元，芯片股撑起半壁江山？",
-        "link": "https://www.tmtpost.com/7971047.html",
-        "published_date": "Thu, 30 Apr 2026 17:43:00 GMT",
-        "first_seen": "2026-04-30T10:11:09.717229"
-      },
-      "8d5fef667e37bbc73053ab5b8c72a2b52eebc3bcff854b3d94605051ad283e3d": {
-        "title": "欧莱雅中国提出“AI向美”战略；薇诺娜发布妆械联合解决方案；阿麦斯港交所递表；锦江酒店一季度营收净利双升｜消研所周报",
-        "link": "https://www.tmtpost.com/7973738.html",
-        "published_date": "Thu, 30 Apr 2026 16:54:00 GMT",
-        "first_seen": "2026-04-30T10:11:09.717239"
-      },
-      "843211fefce9dd622391b2797b35bcd5aa572175316ca45045c5a2fd231d56ab": {
-        "title": "从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台",
-        "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 11:36:00 GMT",
-        "first_seen": "2026-04-30T10:11:09.717241"
-      },
-      "f3e9858c9ddc3e571be005e0e611886aa807cd0b37c41ecbc629661ad0f0ee58": {
-        "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
-        "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-30T10:11:09.717243"
-      },
-      "a6fe804c0d621e0c3376970a197b1f55b26b7172fb32700e995dd36a733b3527": {
-        "title": "赛力斯Q1财报：营收增长34.46%、扣非净利润大降73.87%，钱去哪了？",
-        "link": "https://www.tmtpost.com/7972560.html",
-        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
-        "first_seen": "2026-04-30T10:11:09.717245"
-      },
-      "f7cab60512bf78668e155af3560a01b6080b2b365f03658a3a65b99c4c39e3a4": {
-        "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
-        "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 18:06:00 GMT",
-        "first_seen": "2026-04-30T23:57:16.927874"
-      },
-      "9ec4f9765e2e509c387556b1a86cf7d8b545849dcb769c2c8e04e638b2cfeef2": {
-        "title": "对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？",
-        "link": "http://www.geekpark.net/news/363649",
-        "published_date": "Thu, 30 Apr 2026 21:31:00 GMT",
-        "first_seen": "2026-04-30T23:57:16.927881"
-      },
-      "3b987d30565ce7caa0f5a57b20e668e89542c5a2cd5403001ad6d2d059d2e48c": {
-        "title": "银河通用拉着英伟达，把人形机器人最大的谎言拆穿了",
-        "link": "https://www.tmtpost.com/7973821.html",
-        "published_date": "Thu, 30 Apr 2026 16:51:00 GMT",
-        "first_seen": "2026-04-30T23:57:16.927883"
-      },
-      "0cfd8d96fbf54355d4000d72e7d938dcb2454a1f6fe9c9cd6bd69b0bf83773a7": {
-        "title": "中国电信开始卖“国产Token”了",
-        "link": "https://www.tmtpost.com/7974319.html",
-        "published_date": "Thu, 30 Apr 2026 19:13:00 GMT",
-        "first_seen": "2026-04-30T23:57:16.927885"
-      },
-      "2543f982121059be5ffe73185349ac58bced1bbe80eb4aeefdba9223e11a352d": {
-        "title": "马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权",
-        "link": "https://www.tmtpost.com/7973085.html",
-        "published_date": "Thu, 30 Apr 2026 16:55:00 GMT",
-        "first_seen": "2026-04-30T23:57:16.927887"
-      },
       "f0da940b4de1266c0e499a073951caa265e59e8b009a640fd14d1f94ba9487db": {
         "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
         "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
@@ -2581,69 +2521,39 @@
         "link": "https://www.tmtpost.com/8008076.html",
         "published_date": "Sat, 30 May 2026 10:20:00 GMT",
         "first_seen": "2026-05-30T10:04:17.072938"
+      },
+      "e7985b87e38b6f6e585811a57079c369592d1f3a0eae8184c9b6c2ad41e1c719": {
+        "title": "A股连续下跌，市值蒸发近40亿元，君实生物深陷合规漩涡？",
+        "link": "https://www.tmtpost.com/8007917.html",
+        "published_date": "Sat, 30 May 2026 18:46:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.009319"
+      },
+      "218ff7f1ef7b475644bc5cdff8487970a7b9f2df5cf5b8ad66c76b3b36d64bf7": {
+        "title": "AI 如何影响你的审美？",
+        "link": "https://sspai.com/post/110172",
+        "published_date": "Sat, 30 May 2026 17:04:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.009328"
+      },
+      "0856f240121f7a86d94859e8acc5b6137a5c74f98ed14df1070422d08fbfc37c": {
+        "title": "“既要又要”时代，雅迪摩登解锁女性出行最优解",
+        "link": "https://www.tmtpost.com/8007912.html",
+        "published_date": "Sat, 30 May 2026 13:33:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.009330"
+      },
+      "c9264d9821feeeaa25d17ec19b0ecacc56da42d965018f90d5b02da2c156ede5": {
+        "title": "一只“死鸡”，能骗走你多少钱？",
+        "link": "https://www.tmtpost.com/8008510.html",
+        "published_date": "Sat, 30 May 2026 13:25:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.009332"
+      },
+      "c43d65ba52950818787bc70fd7f2d7782f1d4630ea8b846f1e1f33bbe0448d95": {
+        "title": "段永平，又给老家捐了1万股茅台",
+        "link": "https://www.tmtpost.com/8007736.html",
+        "published_date": "Sat, 30 May 2026 10:28:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.009333"
       }
     },
     "Finance": {
-      "652428b4f0958abe7c61fe8b7727aefdcfe6fc9f71de8ba5575028009af979d8": {
-        "title": "‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?",
-        "link": "https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories",
-        "published_date": "Thu, 30 Apr 2026 09:15:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.102524"
-      },
-      "7d8716f3bc0a59e7f220c7e5a3691c137bb8bd8c49e2af5e9146ea0dde104952": {
-        "title": "Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting",
-        "link": "https://www.marketwatch.com/story/why-morgan-stanley-shifted-its-call-on-federal-reserve-rate-cuts-after-the-fomc-meeting-da657bf0?mod=mw_rss_topstories",
-        "published_date": "Thu, 30 Apr 2026 09:10:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.102536"
-      },
-      "acd4f9dcaf109fdc8983996c491c7aa89372b55c212c505cc39e3b45e375d56e": {
-        "title": "Blake Lively’s lawsuit against Justin Baldoni claims she lost $40 million over ‘mean girl’ image",
-        "link": "https://www.marketwatch.com/story/blake-livelys-lawsuit-against-justin-baldoni-claims-she-lost-40-million-over-mean-girl-image-0f892cee?mod=mw_rss_topstories",
-        "published_date": "Thu, 30 Apr 2026 09:01:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.102539"
-      },
-      "b171dfe258bd8a280f361dfde4c9cf4037c6077d315c4cac5bc05d9b500624ed": {
-        "title": "Can’t cook, won’t cook? Start by feeding yourself — Nigella Lawson",
-        "link": "https://www.ft.com/content/93114bcc-a37a-49b4-8d5e-be38707dfca9",
-        "published_date": "Thu, 30 Apr 2026 09:02:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.102541"
-      },
-      "ff92ac647c4cb5aa16f0b9ddccac9cf639d6abd64f1266ed05492e4350e4c426": {
-        "title": "The energy crisis is no excuse for bad subsidies",
-        "link": "https://www.ft.com/content/00164483-f0ad-42d6-9efc-f6500947d3f0",
-        "published_date": "Thu, 30 Apr 2026 08:50:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.102543"
-      },
-      "a0eb31c5ff77c20107669957817db7104ec7445f4e7cf831579a1fa3a293dfaf": {
-        "title": "US stocks hit record highs in Wall Street’s best month since 2020",
-        "link": "https://www.ft.com/content/63133c10-dac7-41f0-8c9f-831fc5f9ebf6",
-        "published_date": "Thu, 30 Apr 2026 20:06:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.391247"
-      },
-      "c0a8978f568f5538887bbf8daacd1204966f9416079911e883c42ebd5c39de8b": {
-        "title": "Could Powell’s decision to stay worsen relations between the Fed and the White House?",
-        "link": "https://www.marketwatch.com/story/could-powells-decision-to-stay-worsen-relations-between-the-fed-and-the-white-house-ba91a3f9?mod=mw_rss_topstories",
-        "published_date": "Thu, 30 Apr 2026 21:27:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.391257"
-      },
-      "46d2add76cde8b911e76c6e7a1bb79f93e4085b8edf3c3f37e1165fd16ace5f1": {
-        "title": "Big Tech’s AI payback might be coming into view",
-        "link": "https://www.ft.com/content/38a5eb07-f32f-4b41-9431-ec84acc47af8",
-        "published_date": "Thu, 30 Apr 2026 16:16:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.391260"
-      },
-      "056acdac92a38fe900e04c28a51f324cdd84b928ae5acea80be76c85009879e3": {
-        "title": "Blue Owl draws in $9bn as private credit market cools",
-        "link": "https://www.ft.com/content/4cb43bed-89a1-46f3-add3-2c5430ff465a",
-        "published_date": "Thu, 30 Apr 2026 20:09:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.391262"
-      },
-      "283eb38b55cf6f3f7a5955ce08552cc0c32b4c58b6382157fbf210cd2645f17c": {
-        "title": "First Brands’ creditor sues BDO over car parts maker’s collapse",
-        "link": "https://www.ft.com/content/87c0873a-cf48-4801-98f0-24cb8b53013a",
-        "published_date": "Thu, 30 Apr 2026 19:29:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.391264"
-      },
       "379d45463a99b5a4d237c93e6164d1254daebf2ea8ef2c288ccb97b89414450a": {
         "title": "Huawei’s AI chip sales surge as Nvidia stalls in China",
         "link": "https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b",
@@ -4791,45 +4701,63 @@
         "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
         "published_date": "Sat, 30 May 2026 08:19:00 GMT",
         "first_seen": "2026-05-30T10:04:17.115035"
+      },
+      "e8fffc67de945bbd9947696c3d4271f5a6652f7a09cbe557ccebffcdfa397cbc": {
+        "title": "Paris Saint-Germain retain Champions League with victory over Arsenal",
+        "link": "https://www.ft.com/content/42a9a9f3-3cb2-40dd-bab2-9c3d7f7e2554",
+        "published_date": "Sat, 30 May 2026 21:14:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059213"
+      },
+      "f62ec16d7aaf45a262df12dbb84f85dac37ff57362264115bc2b133b6ce0de6c": {
+        "title": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France",
+        "link": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+        "published_date": "Sat, 30 May 2026 18:39:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059220"
+      },
+      "cf92d45ada0a466e46703f57344e88045b86a5a10c5b5a8d0403ac62160a1e74": {
+        "title": "Historic cattle shortages push US beef prices to record highs",
+        "link": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
+        "published_date": "Sat, 30 May 2026 11:00:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059222"
+      },
+      "61e376521e55a980544fe439c65ea3e1d722a4805a5cfc227e7cd11cc2acf1f9": {
+        "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+        "link": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 20:58:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059224"
+      },
+      "3e8d820cd54a0a8bdc2ff9b9d0bde82a2f75fa443564b54047434c341a725aba": {
+        "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+        "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 20:55:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059225"
+      },
+      "e3d8e5bcf918469ea57b10eb770a711b7691ada3af5cf2c81b208dc953b1a20b": {
+        "title": "As Big Tech’s power demand surges, data centers bring utilities a huge new profit center",
+        "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 18:56:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059226"
+      },
+      "74d1bd5f1e06373b1550ede4b01d1e4977d2154811b66a0ee81cf61ffacaa5d9": {
+        "title": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
+        "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 18:36:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059228"
+      },
+      "da2951d5f05d1cafc9ff3931e72a8f17622a61b271def36dd88ce6c84b0920c9": {
+        "title": "This bear market signal Wall Street ignores is putting your money at risk right now",
+        "link": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 18:25:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059229"
+      },
+      "0665332fc8d8edfdd94b165a313ad78d3d991b5b626981a5d302b51040ceb1d6": {
+        "title": "Your portfolio can’t afford the real bill for the Iran war",
+        "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 18:18:00 GMT",
+        "first_seen": "2026-05-31T00:05:17.059230"
       }
     },
     "Ai": {
-      "459f6b6310f3983f580896bcbaccf0aa238eec29a718bb59866ae1befd171a18": {
-        "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-        "link": "https://www.qbitai.com/2026/04/412018.html",
-        "published_date": "Thu, 30 Apr 2026 09:16:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.252960"
-      },
-      "bd888fa55b59a1abd9422482e269631021f863b6a8cc8a85e708e7e8727e9456": {
-        "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-        "link": "https://www.qbitai.com/2026/04/412015.html",
-        "published_date": "Thu, 30 Apr 2026 09:08:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.252968"
-      },
-      "49c5be75771fc8ac2a5e2f0074f412dc1eb023f76a9c6c2850959a663136f5f9": {
-        "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-        "link": "https://www.qbitai.com/2026/04/411963.html",
-        "published_date": "Thu, 30 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.252971"
-      },
-      "a0b83c56197075a0838610cdd33d9a7ca053010454cd006852144f72e481704e": {
-        "title": "IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁",
-        "link": "https://www.qbitai.com/2026/04/411964.html",
-        "published_date": "Thu, 30 Apr 2026 08:23:00 GMT",
-        "first_seen": "2026-04-30T10:10:48.252972"
-      },
-      "6485dd9183341d1b0eb3d31a2892809dfedfc271ef3d0a8d31888c1a95fbc9e9": {
-        "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
-        "link": "https://www.qbitai.com/2026/04/412041.html",
-        "published_date": "Thu, 30 Apr 2026 12:04:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.543610"
-      },
-      "5253c19d856854da5511b510ac55720e47ed9c97b8ee7fa44e5384feff9c224b": {
-        "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
-        "link": "https://www.qbitai.com/2026/04/412021.html",
-        "published_date": "Thu, 30 Apr 2026 11:38:00 GMT",
-        "first_seen": "2026-04-30T23:56:56.543618"
-      },
       "2cd5f20c6e8b20109521841d2e9bc8171942a7b68e1e9350615bcaf3f3a4fd6b": {
         "title": "2026-05-01日刊",
         "link": "https://ai.hubtoday.app//2026-05/2026-05-01/",
@@ -6215,13 +6143,25 @@
         "link": "https://www.leiphone.com/category/industrynews/9Ra6A8qhyDVDZc8j.html",
         "published_date": "Sat, 30 May 2026 15:33:00 GMT",
         "first_seen": "2026-05-30T10:04:03.795222"
+      },
+      "bebe271392371eff9cd0fd5086a2339d54bd9f1ea610cc6bd21efecfc089ac6b": {
+        "title": "启境GX7正式公布命名，瞄准大五座SUV市场",
+        "link": "https://www.leiphone.com/category/industrynews/X1Y9tKcCnpGMGnG7.html",
+        "published_date": "Sat, 30 May 2026 21:17:00 GMT",
+        "first_seen": "2026-05-31T00:05:16.938450"
+      },
+      "6fa6aed498fc9c1ede9cd00eb20ee13b2636c720b1f07a7add67a76a207ae3df": {
+        "title": "利润率仅剩2.9%，七位大佬深圳共识：中国汽车，真的不能再卷了 | 大湾区车展观察",
+        "link": "https://www.leiphone.com/category/transportation/VjGDTXEYi622aL1A.html",
+        "published_date": "Sat, 30 May 2026 18:49:00 GMT",
+        "first_seen": "2026-05-31T00:05:16.938462"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-30T10:04:17.072940",
-    "Finance": "2026-05-30T10:04:17.115043",
-    "Ai": "2026-05-30T10:04:03.795232"
+    "Technology": "2026-05-31T00:05:17.009335",
+    "Finance": "2026-05-31T00:05:17.059232",
+    "Ai": "2026-05-31T00:05:16.938465"
   }
 }
