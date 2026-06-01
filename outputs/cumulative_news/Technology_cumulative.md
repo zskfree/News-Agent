@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-01 00:09
+**最后更新时间**: 2026-06-01 10:23
+
+---
+
+## 🆕 最新更新 (2026-06-01 10:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [机器人先挣钱，还是先追求AGI？具身智能路线之争摆上台面](https://www.tmtpost.com/8010404.html)
+**发布时间**: 2026-06-01 18:11
+
+#### [2026Q1调味品市场回顾](https://www.tmtpost.com/8010119.html)
+**发布时间**: 2026-06-01 18:02
+
+#### [从“卖云”到“卖Token”：运营商全面加入AI战场](https://www.tmtpost.com/8010255.html)
+**发布时间**: 2026-06-01 17:51
+
+#### [一桩多码、服务费差一倍，新能源车充电也要“开盲盒”？](https://www.tmtpost.com/8010227.html)
+**发布时间**: 2026-06-01 17:51
+
+#### [泡泡玛特，“冰火两重天”](https://www.tmtpost.com/8010210.html)
+**发布时间**: 2026-06-01 17:51
+
+#### [黄仁勋成“最强外援”，420亿，宇树给投资人送了份儿童节礼物](https://www.tmtpost.com/8010316.html)
+**发布时间**: 2026-06-01 17:51
+
+#### [汤饭，会跑出下一个米村拌饭吗？](https://www.tmtpost.com/8010157.html)
+**发布时间**: 2026-06-01 17:46
+
+#### [英伟达“重新发明”PC，雷军听到号角了吗？](https://www.tmtpost.com/8010027.html)
+**发布时间**: 2026-06-01 17:46
+
+#### [不是说电影寒冬吗，怎么IMAX赚疯了？影院想翻身，选这条路就对了](https://www.tmtpost.com/8010206.html)
+**发布时间**: 2026-06-01 17:46
+
+#### [黄仁勋对未来十年的完整判断，今天都讲明白了](https://www.tmtpost.com/8010277.html)
+**发布时间**: 2026-06-01 17:41
+
+#### [MiniMax发布新模型M3，竞争转向长上下文与Agent能力](https://www.tmtpost.com/8010291.html)
+**发布时间**: 2026-06-01 17:38
+
+#### [千元“痛包”被00后疯抢，过气老牌强势翻红，单季狂揽130亿](https://www.tmtpost.com/8009993.html)
+**发布时间**: 2026-06-01 17:03
+
+#### [AI御三家战争：革命、分裂与帝国反扑](https://www.tmtpost.com/8010059.html)
+**发布时间**: 2026-06-01 17:03
+
+#### [在全球开出2000+店后，美国网红烘焙品牌杀进上海](https://www.tmtpost.com/8010156.html)
+**发布时间**: 2026-06-01 17:02
+
+#### [英伟达 GTC 2026：智能体 AI 时代，全栈战略正式落地 ｜附演讲全文](https://www.tmtpost.com/8010173.html)
+**发布时间**: 2026-06-01 16:39
+
+#### [稚晖君不是智元机器人的全部](https://www.tmtpost.com/8009907.html)
+**发布时间**: 2026-06-01 15:56
+
+#### [康方依沃西的“0.66”](https://www.tmtpost.com/8009906.html)
+**发布时间**: 2026-06-01 15:45
+
+#### [大厂带不动AI玩具](https://www.tmtpost.com/8009861.html)
+**发布时间**: 2026-06-01 15:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场](https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 18:03
+
+#### [微软推出 MDASH，用于大规模 AI 漏洞研究](https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 18:00
+
+#### [Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报](https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 16:53
+
+#### [如何解决 Kafka 和 Flink 管道中的模式膨胀问题](https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 16:25
+
+#### [《奇遇旧金山》先导片：中国奇遇团集结，带你奔赴 Snowflake Summit 26！](https://www.infoq.cn/video/W5SQw2O1WvUDPdidGoy1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 14:26
+
+#### [OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器](https://www.infoq.cn/article/TqSNB1CfplPmRM7kojaS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 13:26
+
+#### [谷歌推出适用于 Genkit 应用程序的中间件架构](https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 11:48
+
+#### [Snowflake 换了战场：守住数据之后，要管住AI](https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 11:18
+
+#### [大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海](https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 10:00
+
+#### [Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线](https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 09:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
+**发布时间**: 2026-06-01 15:00
+
+#### [把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
+**发布时间**: 2026-06-01 11:01
+
+#### [派早报：Anthropic 估值超过 OpenAI](https://sspai.com/post/110519)
+**发布时间**: 2026-06-01 07:26
 
 ---
 

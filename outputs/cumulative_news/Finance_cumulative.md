@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-01 00:09
+**最后更新时间**: 2026-06-01 10:23
+
+---
+
+## 🆕 最新更新 (2026-06-01 10:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Another dire problem for Social Security: Trustees may be calculating the birth rate wrong](https://www.marketwatch.com/story/another-dire-problem-for-social-security-trustees-may-be-calculating-the-birth-rate-wrong-955d1930?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 10:00
+
+#### [Intel and AMD shares fall more than Nvidia rises on new PC superchip](https://www.marketwatch.com/story/intel-and-amd-shares-fall-more-than-nvidia-rises-on-new-pc-superchip-08b2411f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 09:53
+
+#### [Doctors stood up and cheered mid-presentation for this historic pancreatic cancer treatment](https://www.marketwatch.com/story/why-doctors-stood-up-and-cheered-mid-presentation-for-a-historic-pancreatic-cancer-treatment-15406029?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 09:49
+
+#### [‘I am 71 and comfortable’: Should I sell $10,000 in stock to visit my grandkids in Thailand — or dip into my $50,000 savings?](https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 09:33
+
+#### [Ted Danson and Mary Steenburgen list $9.9 million Martha’s Vineyard property where they wed 31 years ago](https://www.marketwatch.com/story/ted-danson-and-mary-steenburgen-list-9-9-million-marthas-vineyard-property-where-they-wed-31-years-ago-013b062e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 09:02
+
+#### [Dakota Johnson lists stunning midcentury modern ‘tree house’ in L.A. for $6 million](https://www.marketwatch.com/story/dakota-johnson-lists-stunning-midcentury-modern-tree-house-in-l-a-for-6-million-11f45f97?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 08:59
+
+#### [Berkshire Hathaway finds a use for 2% of its $397 billion cash pile with home-builder deal](https://www.marketwatch.com/story/berkshire-hathaway-finds-a-use-for-2-of-its-397-billion-cash-pile-with-home-builder-deal-29086e22?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 08:44
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran launch fresh strikes as peace efforts continue](https://www.ft.com/content/b425ebc9-18a9-4a0c-987d-10837df565bb)
+**发布时间**: 2026-06-01 09:47
+
+#### [SoftBank overtakes Toyota after over 20 years to become Japan’s largest company](https://www.ft.com/content/eef96fb0-5a56-4ce2-9a69-5f8eca754995)
+**发布时间**: 2026-06-01 07:14
+
+#### [AI and real GDP: how big and how fast?](https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c)
+**发布时间**: 2026-06-01 05:30
+
+#### [Nvidia unveils PC ‘superchip’ in challenge to Apple and Intel](https://www.ft.com/content/58f984fd-d90b-4e8e-95b0-987a97c4a522)
+**发布时间**: 2026-06-01 04:49
+
+#### [‘More harmful than helpful’: young people sour on AI](https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10)
+**发布时间**: 2026-06-01 04:00
+
+#### [Xi’s last frontier: China’s plan to transform its west](https://ig.ft.com/western-china/)
+**发布时间**: 2026-06-01 04:00
+
+#### [The truth about the American profit machine](https://www.ft.com/content/362ccc0a-d6e5-40df-817f-64aea4717cc8)
+**发布时间**: 2026-06-01 04:00
+
+#### [Europe is running from a phantom China threat](https://www.ft.com/content/340750b3-172d-4bcc-94bd-375c01c46dbc)
+**发布时间**: 2026-06-01 04:00
+
+#### [Iran war inflation shock set to fall short of 2022 surge](https://www.ft.com/content/668d221d-0893-48ef-a2f9-fdfe4623031b)
+**发布时间**: 2026-06-01 04:00
+
+#### [EU looks more attractive in Trump’s ‘crazy world’, says Norway](https://www.ft.com/content/5c8a871f-9a49-45f4-9ac0-543a608a5a9d)
+**发布时间**: 2026-06-01 04:00
+
+#### [Danish shipyard still servicing LNG tankers for Russia trade](https://www.ft.com/content/945c6085-e14a-4acb-8e41-3986e7486480)
+**发布时间**: 2026-06-01 04:00
+
+#### [Powell warns Fed is undergoing ‘stress test’](https://www.ft.com/content/79a84d1e-e63d-4bb4-a5e2-a483114a2c6f)
+**发布时间**: 2026-06-01 00:32
 
 ---
 

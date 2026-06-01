@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Jun 2026 00:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2026 00:09:32 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 10:21:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:23:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式</title>
-      <link>https://www.qbitai.com/2026/05/427005.html</link>
-      <description>&lt;![CDATA[别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/427005.html</guid>
+      <title>Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</link>
+      <description>&lt;![CDATA[Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品</title>
-      <link>https://www.qbitai.com/2026/05/426984.html</link>
-      <description>&lt;![CDATA[机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426984.html</guid>
+      <title>材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破</title>
+      <link>https://www.qbitai.com/2026/06/427142.html</link>
+      <description>&lt;![CDATA[材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 05:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/427142.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？</title>
-      <link>https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html</link>
-      <description>&lt;![CDATA[四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html</guid>
+      <title>OpenAI重返机器人赛道！四大核心岗位开招</title>
+      <link>https://www.qbitai.com/2026/06/427238.html</link>
+      <description>&lt;![CDATA[OpenAI重返机器人赛道！四大核心岗位开招]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/427238.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限</title>
-      <link>https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html</link>
-      <description>&lt;![CDATA[去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html</guid>
+      <title>正式开幕！大鼠外骨骼出圈，VLA路线分歧开幕日白热化，28篇论文集中亮相｜ICRA 专区日报</title>
+      <link>https://www.leiphone.com/category/robot/Ofi28P4YUbmNSemb.html</link>
+      <description>&lt;![CDATA[正式开幕！大鼠外骨骼出圈，VLA路线分歧开幕日白热化，28篇论文集中亮相｜ICRA 专区日报]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Ofi28P4YUbmNSemb.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>编程脚手架狂揽 20 万星，Agent 基础设施成 GitHub 新战场</title>
-      <link>https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html</link>
-      <description>&lt;![CDATA[编程脚手架狂揽 20 万星，Agent 基础设施成 GitHub 新战场]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html</guid>
+      <title>已登ICRA 2026，VLA实用化路线彻底杀疯了！</title>
+      <link>https://www.leiphone.com/category/robot/WNEhGhgcUGO5coEw.html</link>
+      <description>&lt;![CDATA[已登ICRA 2026，VLA实用化路线彻底杀疯了！]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/WNEhGhgcUGO5coEw.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026</title>
-      <link>https://www.qbitai.com/2026/05/426970.html</link>
-      <description>&lt;![CDATA[Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426970.html</guid>
+      <title>港中文团队提出 Skill 生命周期管理 SLIM，让大模型智能体不再盲目堆积 Skill ！</title>
+      <link>https://www.leiphone.com/category/academic/YlpyUWTgMBNTc9YK.html</link>
+      <description>&lt;![CDATA[港中文团队提出 Skill 生命周期管理 SLIM，让大模型智能体不再盲目堆积 Skill ！]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/YlpyUWTgMBNTc9YK.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达版「MacBook Pro」曝光：老黄自研了CPU！</title>
-      <link>https://www.qbitai.com/2026/05/426991.html</link>
-      <description>&lt;![CDATA[英伟达版「MacBook Pro」曝光：老黄自研了CPU！]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426991.html</guid>
+      <title>How Cosmos 3 Helps Physical AI Think Before It Acts</title>
+      <link>https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/</link>
+      <description>&lt;![CDATA[How Cosmos 3 Helps Physical AI Think Before It Acts]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 04:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DDIM之父宋佳铭，宣布离职</title>
-      <link>https://www.qbitai.com/2026/05/427104.html</link>
-      <description>&lt;![CDATA[DDIM之父宋佳铭，宣布离职]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/427104.html</guid>
+      <title>1200万片出货后，芯驰科技融资近亿美元，押注AI座舱与具身智能</title>
+      <link>https://www.leiphone.com/category/transportation/XUgeEziuQF1rKB2G.html</link>
+      <description>&lt;![CDATA[1200万片出货后，芯驰科技融资近亿美元，押注AI座舱与具身智能]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/XUgeEziuQF1rKB2G.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周</title>
-      <link>https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html</link>
-      <description>&lt;![CDATA[为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html</guid>
+      <title>蚂蚁、滴滴、德联领投，简智机器人完成数亿元多轮融资 领跑具身智能无本体数据赛道</title>
+      <link>https://www.leiphone.com/category/industrynews/QrM9kQS2werl2oJO.html</link>
+      <description>&lt;![CDATA[蚂蚁、滴滴、德联领投，简智机器人完成数亿元多轮融资 领跑具身智能无本体数据赛道]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/QrM9kQS2werl2oJO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>排名第九、国内第二，DeepSeek V4 凭什么让人又爱又恨？</title>
-      <link>https://www.leiphone.com/category/industrynews/YpMEgldEnok4fRSn.html</link>
-      <description>&lt;![CDATA[排名第九、国内第二，DeepSeek V4 凭什么让人又爱又恨？]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YpMEgldEnok4fRSn.html</guid>
+      <title>BEYOND  Expo 2026 现场观察：AI 加速落地物理世界，AI硬件集体「做专做深」</title>
+      <link>https://www.leiphone.com/category/iot/u5VaCPOrtcNboIOU.html</link>
+      <description>&lt;![CDATA[BEYOND  Expo 2026 现场观察：AI 加速落地物理世界，AI硬件集体「做专做深」]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/iot/u5VaCPOrtcNboIOU.html</guid>
       <category>Ai</category>
     </item>
   </channel>
