@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-31 08:16
+**最后更新时间**: 2026-06-01 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-01 00:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak](https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 23:27
+
+#### [The stock index you invest in isn’t always the most important decision. Here’s what matters even more.](https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 20:08
+
+#### [Government is now an active investor — and it’s why your portfolio needs ‘home-court advantage’](https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 20:02
+
+#### [It’s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course](https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 19:12
+
+#### [Here’s what’s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-june-2026-on-netflix-hulu-hbo-max-and-more-7c73c539?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 16:00
+
+#### [Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’](https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories)
+**发布时间**: 2026-05-31 14:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal](https://www.ft.com/content/ee4b5e6a-3027-4cd1-aa0f-5d9365418cbd)
+**发布时间**: 2026-05-31 22:21
+
+#### [Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat](https://www.ft.com/content/bc435fa9-05f7-4c1b-81fa-9ba9628fc629)
+**发布时间**: 2026-05-31 17:00
+
+#### [Operation Jailbreak: lessons from Ukraine on making weapons talk to each other](https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7)
+**发布时间**: 2026-05-31 16:50
+
+#### [The end of cheap](https://www.ft.com/content/2facf908-9265-47b5-9574-ee316ff3b8ee)
+**发布时间**: 2026-05-31 15:00
+
+#### [Africa’s response to Ebola must be defined by Africa itself](https://www.ft.com/content/d6b23498-c4a8-4ce4-95e6-c427f6239203)
+**发布时间**: 2026-05-31 12:21
+
+#### [Wall Street bulls bet US stocks rally will defy bubble fears](https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e)
+**发布时间**: 2026-05-31 12:00
+
+#### [Israel captures Crusader castle in Lebanon push](https://www.ft.com/content/fa98dbf6-4f5e-4f8d-aff6-a6bef9709d6c)
+**发布时间**: 2026-05-31 11:24
 
 ---
 

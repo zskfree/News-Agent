@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 31 May 2026 08:15:00 GMT</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 08:16:34 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:09:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我所知道的郎咸朋</title>
-      <link>https://www.leiphone.com/category/transportation/4iLiqAZc2eam6IDF.html</link>
-      <description>&lt;![CDATA[我所知道的郎咸朋]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/4iLiqAZc2eam6IDF.html</guid>
+      <title>别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式</title>
+      <link>https://www.qbitai.com/2026/05/427005.html</link>
+      <description>&lt;![CDATA[别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/427005.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-05-31日刊</title>
-      <link>https://hex2077.dev/docs/2026-05/2026-05-31/</link>
-      <description>&lt;![CDATA[2026-05-31日刊]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-05/2026-05-31/</guid>
+      <title>机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品</title>
+      <link>https://www.qbitai.com/2026/05/426984.html</link>
+      <description>&lt;![CDATA[机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426984.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>τ0-WM：最大规模预训练的开源具身世界模型来了</title>
-      <link>https://www.qbitai.com/2026/05/426832.html</link>
-      <description>&lt;![CDATA[τ0-WM：最大规模预训练的开源具身世界模型来了]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 07:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426832.html</guid>
+      <title>四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？</title>
+      <link>https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html</link>
+      <description>&lt;![CDATA[四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026</title>
-      <link>https://www.qbitai.com/2026/05/426819.html</link>
-      <description>&lt;![CDATA[AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 03:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426819.html</guid>
+      <title>去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限</title>
+      <link>https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html</link>
+      <description>&lt;![CDATA[去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从Token无上限到全员Agent：MiniMax的AI Native组织进化实践</title>
-      <link>https://www.qbitai.com/2026/05/426793.html</link>
-      <description>&lt;![CDATA[从Token无上限到全员Agent：MiniMax的AI Native组织进化实践]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 01:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426793.html</guid>
+      <title>编程脚手架狂揽 20 万星，Agent 基础设施成 GitHub 新战场</title>
+      <link>https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html</link>
+      <description>&lt;![CDATA[编程脚手架狂揽 20 万星，Agent 基础设施成 GitHub 新战场]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026</title>
+      <link>https://www.qbitai.com/2026/05/426970.html</link>
+      <description>&lt;![CDATA[Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426970.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>英伟达版「MacBook Pro」曝光：老黄自研了CPU！</title>
+      <link>https://www.qbitai.com/2026/05/426991.html</link>
+      <description>&lt;![CDATA[英伟达版「MacBook Pro」曝光：老黄自研了CPU！]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/426991.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DDIM之父宋佳铭，宣布离职</title>
+      <link>https://www.qbitai.com/2026/05/427104.html</link>
+      <description>&lt;![CDATA[DDIM之父宋佳铭，宣布离职]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/427104.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周</title>
+      <link>https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html</link>
+      <description>&lt;![CDATA[为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>排名第九、国内第二，DeepSeek V4 凭什么让人又爱又恨？</title>
+      <link>https://www.leiphone.com/category/industrynews/YpMEgldEnok4fRSn.html</link>
+      <description>&lt;![CDATA[排名第九、国内第二，DeepSeek V4 凭什么让人又爱又恨？]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YpMEgldEnok4fRSn.html</guid>
       <category>Ai</category>
     </item>
   </channel>
