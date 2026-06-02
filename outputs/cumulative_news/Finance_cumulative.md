@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-01 10:23
+**最后更新时间**: 2026-06-02 00:16
+
+---
+
+## 🆕 最新更新 (2026-06-02 00:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Aspiration Partners’ co-founder Joe Sanberg gets 14-year fraud sentence](https://www.ft.com/content/99dd712a-3900-46af-bd63-3f10adc6d1e4)
+**发布时间**: 2026-06-01 23:36
+
+#### [Alphabet to sell $80bn in stock to fund AI spending spree](https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257)
+**发布时间**: 2026-06-01 23:22
+
+#### [Trump drops $1.8bn ‘anti-weaponisation’ fund](https://www.ft.com/content/5a7b5d46-d37f-4e17-8367-bf76f9f287f9)
+**发布时间**: 2026-06-01 22:25
+
+#### [Trump claims Israel and Hizbollah agree ceasefire after Iran threats](https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1)
+**发布时间**: 2026-06-01 22:18
+
+#### [HPE shares soar 37% on booming demand for AI infrastructure](https://www.ft.com/content/3ddf001d-d7f6-40f1-8fe4-1cc577868da0)
+**发布时间**: 2026-06-01 21:48
+
+#### [BP backs Amanda Blanc to lead second chair search despite City unease](https://www.ft.com/content/750e8a0c-e6c0-4f32-bd6a-0e644c363a5f)
+**发布时间**: 2026-06-01 19:34
+
+#### [Anthropic files for blockbuster initial public offering](https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e)
+**发布时间**: 2026-06-01 17:34
+
+#### [Florida sues OpenAI and Altman for ‘hurting’ children](https://www.ft.com/content/7998db0a-22d1-4b80-b861-2e8b2448e97f)
+**发布时间**: 2026-06-01 16:59
+
+#### [Anthropic offers EU access to Mythos](https://www.ft.com/content/f88d62e3-5b67-4aed-ad69-6f38b62559b3)
+**发布时间**: 2026-06-01 12:11
+
+#### [Putin could pay a personal price for failure in Ukraine](https://www.ft.com/content/7b986a53-3f7b-40fc-99ef-953905963ce3)
+**发布时间**: 2026-06-01 11:33
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [As Micron’s stock blows past $1,000, Wall Street sees more gains in store](https://www.marketwatch.com/story/as-microns-stock-blows-past-1-000-wall-street-sees-more-gains-in-store-755a51f9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 23:14
+
+#### [I’m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?](https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 23:10
+
+#### [I am 71. Would it be foolish to sell $10,000 in shares to visit my grandchildren in Thailand?](https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 22:10
+
+#### [Alphabet asks shareholders to foot an $80 billion bill for AI expansion](https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 22:04
+
+#### [OpenAI’s next legal battle is against states that claim its models are dangerous](https://www.marketwatch.com/story/openais-next-legal-battle-is-against-states-who-claim-its-models-are-dangerous-04b093d7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 21:39
+
+#### [Many big oil tankers remain stuck in the Strait of Hormuz — and may not return once they escape](https://www.marketwatch.com/story/many-big-oil-tankers-remain-stuck-in-strait-of-hormuz-and-may-not-return-once-they-escape-5b344e49?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 21:27
+
+#### [Investors are piling into bullish options bets — another sign that the stock market is getting overheated](https://www.marketwatch.com/story/investors-are-piling-into-bullish-options-bets-another-sign-that-the-stock-market-is-getting-overheated-96c5fd15?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 21:00
+
+#### [The AI trade is remaking the global stock-market order](https://www.marketwatch.com/story/the-ai-trade-is-remaking-the-global-stock-market-order-a639ecc4?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 20:55
+
+#### [The federal government plans to make it harder for you to sue your employer over alternative 401(k) investment options](https://www.marketwatch.com/story/the-federal-government-plans-to-make-it-harder-for-you-to-sue-your-employer-over-alternative-401-k-investment-options-8b53b0e6?mod=mw_rss_topstories)
+**发布时间**: 2026-06-01 20:51
 
 ---
 

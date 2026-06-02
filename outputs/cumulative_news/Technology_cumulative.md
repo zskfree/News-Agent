@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-01 10:23
+**最后更新时间**: 2026-06-02 00:16
+
+---
+
+## 🆕 最新更新 (2026-06-02 00:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】《国务院关于对外投资的规定》公布，自7月1日起施行；宇树科技科创板IPO过会；英伟达发布面向Windows PC的新款处理器](https://www.tmtpost.com/8010716.html)
+**发布时间**: 2026-06-02 07:20
+
+#### [“牛散”付小铜的豪赌：23亿"蛇吞象"欲助万隆光电翻盘 | 并购一线](https://www.tmtpost.com/8010744.html)
+**发布时间**: 2026-06-01 22:05
+
+#### [75万美元成本狂揽1.5亿美元！YouTube“野路子”导演，两拳打懵好莱坞](https://www.tmtpost.com/8010633.html)
+**发布时间**: 2026-06-01 20:02
+
+#### [China Is Building a “Computing Power High-Speed Rail”](https://www.tmtpost.com/8010595.html)
+**发布时间**: 2026-06-01 18:53
+
+#### [Budget Smartphones Become Less Attractive in the Era of Artificial Intelligence](https://www.tmtpost.com/8010587.html)
+**发布时间**: 2026-06-01 18:49
+
+#### [把瑜伽垫铺到长城，lululemon让瑜伽“不止于垫上”](https://www.tmtpost.com/8009177.html)
+**发布时间**: 2026-06-01 18:47
+
+#### [快手“以退为进”，搏一个AI未来](https://www.tmtpost.com/8006940.html)
+**发布时间**: 2026-06-01 18:30
+
+#### [苏州打工人挤爆8000万豪宅](https://www.tmtpost.com/8009750.html)
+**发布时间**: 2026-06-01 18:30
+
+#### [AI能让爱奇艺重新盈利吗？](https://www.tmtpost.com/8010366.html)
+**发布时间**: 2026-06-01 18:29
+
+#### [鸡蛋现货突破5元/斤，高利润下产业为何不敢囤货？](https://www.tmtpost.com/8010392.html)
+**发布时间**: 2026-06-01 18:25
+
+#### [从被骂大骗子到全球第一，他为中国熬出又一项核心硬科技](https://www.tmtpost.com/8009761.html)
+**发布时间**: 2026-06-01 18:24
+
+#### [史上最安静的618，AI不是救命稻草](https://www.tmtpost.com/8009952.html)
+**发布时间**: 2026-06-01 18:24
+
+#### [天涯归来，AI变局之下何去何从？](https://www.tmtpost.com/8009748.html)
+**发布时间**: 2026-06-01 18:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [构建云原生 Kafka：从分层存储迈向无盘未来](https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-01 19:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/110547)
+**发布时间**: 2026-06-01 17:57
 
 ---
 
