@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 00:16
+**最后更新时间**: 2026-06-02 09:10
+
+---
+
+## 🆕 最新更新 (2026-06-02 09:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产](https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 16:57
+
+#### [黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相](https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 16:51
+
+#### [85%的企业 AI 落地卡在数据上，为什么你还在选模型？](https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 15:26
+
+#### [准确率突破 96.33%！百度文心发布PaddleOCR-VL-1.6，刷新文档解析 SOTA](https://www.infoq.cn/article/CRcTLqE135yNxrlZsN8R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 15:09
+
+#### [谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览](https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 14:00
+
+#### [Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据](https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 11:33
+
+#### [TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能](https://www.infoq.cn/article/QqE5qG38ewRaaapcJcpW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 10:51
+
+#### [上海人工智能实验室青年科学家何聪辉确认出席AICon上海站，分享面向 Agent 时代的文档解析基础设施演进与实践](https://www.infoq.cn/article/6X2S5ssDaDh0REOsfGtg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 10:00
+
+#### [平台工程实验室通过支持 Kubernetes 和原生 Helm 集成扩展了 formae](https://www.infoq.cn/article/La4b6r66tWxbYLR2VT8s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 09:47
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [天涯回来了，但那个江湖回不来了](https://www.tmtpost.com/8010755.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [1.3亿人的青春重启了，1999元买不回那个BBS时代](https://www.tmtpost.com/8010800.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [拓竹被“猎巫”，中国品牌出海进入舆论战时代](https://www.tmtpost.com/8006580.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [痛屏、痛楼：千亿二次元入侵老商场](https://www.tmtpost.com/8011416.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [连亏7年，思必驰二次冲击科创板](https://www.tmtpost.com/8010969.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [连续三年市占率第一，国产手术机器人冲刺IPO](https://www.tmtpost.com/8010935.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [一场国家级产业换道，藏在王兴兴的宇树IPO棋局里](https://www.tmtpost.com/8011022.html)
+**发布时间**: 2026-06-02 16:47
+
+#### [滴普科技赵杰辉：企业 AI 技术生态，正在被重构](https://www.tmtpost.com/8011496.html)
+**发布时间**: 2026-06-02 16:01
+
+#### [六一狂欢背后：一个小城如何“玩”出500亿产值？](https://www.tmtpost.com/8010701.html)
+**发布时间**: 2026-06-02 15:35
+
+#### [这一次，天涯能重启吗？](https://www.tmtpost.com/8010631.html)
+**发布时间**: 2026-06-02 15:35
+
+#### [智谱深夜公告，大模型双子星抢滩A股](https://www.tmtpost.com/8011306.html)
+**发布时间**: 2026-06-02 15:35
+
+#### [当比亚迪开始往更深处走](https://www.tmtpost.com/8010523.html)
+**发布时间**: 2026-06-02 12:37
+
+#### [茶饮江湖的“潜规则”，古茗的财报全交代了](https://www.tmtpost.com/8011125.html)
+**发布时间**: 2026-06-02 12:12
+
+#### [对话魏建军：长城跑环塔，赚的是看不见的声量钱](https://www.tmtpost.com/8011183.html)
+**发布时间**: 2026-06-02 11:58
+
+#### [身价13亿美元的OpenRouter，国内学不了？](https://www.tmtpost.com/8010622.html)
+**发布时间**: 2026-06-02 11:50
+
+#### [内卷之下，OLED正在悄悄换血](https://www.tmtpost.com/8011049.html)
+**发布时间**: 2026-06-02 11:43
+
+#### [黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了](https://www.tmtpost.com/8011223.html)
+**发布时间**: 2026-06-02 11:43
+
+#### [阿里要全面转入「战时状态」了？](https://www.tmtpost.com/8010614.html)
+**发布时间**: 2026-06-02 11:43
+
+#### [5月三起IVD易主，“不亏不欠”的艾德生物也要被卖了](https://www.tmtpost.com/8011218.html)
+**发布时间**: 2026-06-02 11:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
+**发布时间**: 2026-06-02 15:39
+
+#### [在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
+**发布时间**: 2026-06-02 14:57
+
+#### [从插件到 AI 辅助：Obsidian 如何成为我的主力工具](https://sspai.com/post/109850)
+**发布时间**: 2026-06-02 11:00
+
+#### [派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品](https://sspai.com/post/110592)
+**发布时间**: 2026-06-02 08:03
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最快开源模型来了！Step 3.7 Flash 和我的 GitHub 开源项目很搭啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534236&idx=1&sn=0484e5ecfb94b58525cc2024b38c20c6)
+**发布时间**: 2026-06-02 12:14
+
+#### [你的 AI Agent 每次请求都在干嘛？这个开源项目帮你扒个底朝天。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534249&idx=1&sn=e0beb79bbb790ce926ac2d7951221ff3)
+**发布时间**: 2026-06-01 23:04
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Jun 2026 00:16:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 00:16:32 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 09:10:00 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:10:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报</title>
-      <link>https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相</title>
+      <link>https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China Is Building a “Computing Power High-Speed Rail”</title>
-      <link>https://www.tmtpost.com/8010595.html</link>
-      <description>&lt;![CDATA[China Is Building a “Computing Power High-Speed Rail”]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8010595.html</guid>
+      <title>黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了</title>
+      <link>https://www.tmtpost.com/8011223.html</link>
+      <description>&lt;![CDATA[黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011223.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“卖云”到“卖Token”：运营商全面加入AI战场</title>
-      <link>https://www.tmtpost.com/8010255.html</link>
-      <description>&lt;![CDATA[从“卖云”到“卖Token”：运营商全面加入AI战场]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8010255.html</guid>
+      <title>Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据</title>
+      <link>https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达“重新发明”PC，雷军听到号角了吗？</title>
-      <link>https://www.tmtpost.com/8010027.html</link>
-      <description>&lt;![CDATA[英伟达“重新发明”PC，雷军听到号角了吗？]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8010027.html</guid>
+      <title>85%的企业 AI 落地卡在数据上，为什么你还在选模型？</title>
+      <link>https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[85%的企业 AI 落地卡在数据上，为什么你还在选模型？]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>构建云原生 Kafka：从分层存储迈向无盘未来</title>
-      <link>https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[构建云原生 Kafka：从分层存储迈向无盘未来]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 19:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>滴普科技赵杰辉：企业 AI 技术生态，正在被重构</title>
+      <link>https://www.tmtpost.com/8011496.html</link>
+      <description>&lt;![CDATA[滴普科技赵杰辉：企业 AI 技术生态，正在被重构]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011496.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake 换了战场：守住数据之后，要管住AI</title>
-      <link>https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 换了战场：守住数据之后，要管住AI]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>准确率突破 96.33%！百度文心发布PaddleOCR-VL-1.6，刷新文档解析 SOTA</title>
+      <link>https://www.infoq.cn/article/CRcTLqE135yNxrlZsN8R?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[准确率突破 96.33%！百度文心发布PaddleOCR-VL-1.6，刷新文档解析 SOTA]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CRcTLqE135yNxrlZsN8R?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出适用于 Genkit 应用程序的中间件架构</title>
-      <link>https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出适用于 Genkit 应用程序的中间件架构]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览</title>
+      <link>https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>稚晖君不是智元机器人的全部</title>
-      <link>https://www.tmtpost.com/8009907.html</link>
-      <description>&lt;![CDATA[稚晖君不是智元机器人的全部]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009907.html</guid>
+      <title>一场国家级产业换道，藏在王兴兴的宇树IPO棋局里</title>
+      <link>https://www.tmtpost.com/8011022.html</link>
+      <description>&lt;![CDATA[一场国家级产业换道，藏在王兴兴的宇树IPO棋局里]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011022.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何解决 Kafka 和 Flink 管道中的模式膨胀问题</title>
-      <link>https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何解决 Kafka 和 Flink 管道中的模式膨胀问题]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】《国务院关于对外投资的规定》公布，自7月1日起施行；宇树科技科创板IPO过会；英伟达发布面向Windows PC的新款处理器</title>
+      <link>https://www.tmtpost.com/8010716.html</link>
+      <description>&lt;![CDATA[【钛晨报】《国务院关于对外投资的规定》公布，自7月1日起施行；宇树科技科创板IPO过会；英伟达发布面向Windows PC的新款处理器]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010716.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂带不动AI玩具</title>
-      <link>https://www.tmtpost.com/8009861.html</link>
-      <description>&lt;![CDATA[大厂带不动AI玩具]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009861.html</guid>
+      <title>派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品</title>
+      <link>https://sspai.com/post/110592</link>
+      <description>&lt;![CDATA[派早报：英伟达、华硕等多个厂商在 COMPUTEX 2026 发布新品]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110592</guid>
       <category>Technology</category>
     </item>
   </channel>

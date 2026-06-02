@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 00:16
+**最后更新时间**: 2026-06-02 09:10
+
+---
+
+## 🆕 最新更新 (2026-06-02 09:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Musician Charlie Puth sells unique Studio City mansion for $2.1 million amid world tour](https://www.marketwatch.com/story/musician-charlie-puth-sells-unique-studio-city-mansion-for-2-1-million-amid-world-tour-5e8393be?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 09:05
+
+#### [Jennifer Lopez offers a poolside peek of her new $18 million L.A. mansion](https://www.marketwatch.com/story/jennifer-lopez-offers-a-poolside-peek-of-her-new-18-million-l-a-mansion-0fc6be4f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 09:04
+
+#### [Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns](https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 08:35
+
+#### [Job seekers are using ‘AI role-play’ to negotiate salary. Here’s how to do it.](https://www.marketwatch.com/story/job-seekers-are-using-ai-role-play-to-negotiate-salary-heres-how-to-do-it-149123b7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 00:38
+
+#### [HPE’s stock soars toward record gain as earnings show a networking bonanza](https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 00:21
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel’s Netanyahu faces backlash after Trump call](https://www.ft.com/content/9938fefc-2ad5-41f1-9a10-699385d5bac1)
+**发布时间**: 2026-06-02 08:52
+
+#### [Tencent moves closer to launching AI agent for China’s most-used app](https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6)
+**发布时间**: 2026-06-02 08:52
+
+#### [Gold replaces US Treasuries as world’s top reserve asset, ECB says](https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c)
+**发布时间**: 2026-06-02 08:00
+
+#### [US in talks to expand nuclear weapons deployments in Europe](https://www.ft.com/content/1a32ad0f-c8b3-4b91-a931-5dc053c6c214)
+**发布时间**: 2026-06-02 04:00
+
+#### [Deutsche Bank’s comeback](https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec)
+**发布时间**: 2026-06-02 04:00
+
+#### [How did Spain’s unemployment rate converge with Finland’s?](https://www.ft.com/content/eec2ec91-6e1f-4b6e-b59d-d5718a82a5be)
+**发布时间**: 2026-06-02 04:00
+
+#### [Will the IT consulting share price rout ever end?](https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525)
+**发布时间**: 2026-06-02 04:00
 
 ---
 
