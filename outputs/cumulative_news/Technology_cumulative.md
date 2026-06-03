@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 09:10
+**最后更新时间**: 2026-06-03 00:29
+
+---
+
+## 🆕 最新更新 (2026-06-03 00:29)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中美互联网公司的AI提效，都从裁员开始？](https://www.tmtpost.com/8011827.html)
+**发布时间**: 2026-06-03 08:12
+
+#### [拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶](https://www.tmtpost.com/8011822.html)
+**发布时间**: 2026-06-03 08:05
+
+#### [【钛晨报】国务院印发《加快农业农村现代化“十五五”规划》；老虎国际暂停境内存量账户新开仓、加仓交易；“东吴证券+东海证券”重组草案出炉](https://www.tmtpost.com/8012109.html)
+**发布时间**: 2026-06-03 07:20
+
+#### [东阳光：千亿市值下算力豪赌，310亿订单与280亿并购双线狂奔](https://www.tmtpost.com/8012107.html)
+**发布时间**: 2026-06-02 21:46
+
+#### [供应链黑天鹅突袭、减持阴云笼罩，利通电子暴涨8倍后遇重挫](https://www.tmtpost.com/8011957.html)
+**发布时间**: 2026-06-02 19:44
+
+#### [Chatbot烧钱三年，还是AI时代的“新大陆”吗？](https://www.tmtpost.com/8011510.html)
+**发布时间**: 2026-06-02 18:26
+
+#### [快手与字节，打响“二番战”](https://www.tmtpost.com/8011399.html)
+**发布时间**: 2026-06-02 17:46
+
+#### [10万亿！中国正成为AI基建狂魔](https://www.tmtpost.com/8011257.html)
+**发布时间**: 2026-06-02 17:26
+
+#### [今年618，迎来AI购物“大乱斗”](https://www.tmtpost.com/8011276.html)
+**发布时间**: 2026-06-02 17:26
+
+#### [港股“北归”：智谱和MiniMax为何急着回A？](https://www.tmtpost.com/8011340.html)
+**发布时间**: 2026-06-02 17:26
+
+#### [The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy](https://www.tmtpost.com/8011677.html)
+**发布时间**: 2026-06-02 17:23
+
+#### [对话中关村AI北纬社区任闯：OPC创业者到底需要什么？](https://www.tmtpost.com/8010096.html)
+**发布时间**: 2026-06-02 17:12
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LinkedIn 如何发现导致系统反复死机的内核锁竞争问题](https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 19:03
+
+#### [英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板](https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 18:44
+
+#### [Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？](https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 18:40
+
+#### [不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown](https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 17:09
+
+#### [Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训](https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 17:07
 
 ---
 

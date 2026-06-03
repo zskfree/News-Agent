@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 09:10
+**最后更新时间**: 2026-06-03 00:29
+
+---
+
+## 🆕 最新更新 (2026-06-03 00:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Palo Alto Networks’ earnings show AI is a friend, not a foe, to revenue outlook](https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 00:24
+
+#### [GameStop wants to buy back $2 billion of its own stock after an eBay-fueled selloff](https://www.marketwatch.com/story/gamestop-wants-to-buy-back-2-billion-of-its-own-stock-after-an-ebay-fueled-selloff-621d14fa?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 00:19
+
+#### [The 6% solution is gone: How overcrowded AI-powered trading has erased investors’ advantage](https://www.marketwatch.com/story/the-6-solution-is-gone-how-overcrowded-ai-powered-trading-has-erased-investors-advantage-635882bd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 23:44
+
+#### [Most robo-advisers will never get the keys to Wall Street’s AI-conjured stock picks](https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 23:21
+
+#### [Alphabet’s relentless AI spending is giving new shine to Broadcom’s stock](https://www.marketwatch.com/story/alphabets-relentless-ai-spending-is-giving-new-shine-to-broadcoms-stock-abfb34b5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 22:39
+
+#### [This space stock rises as Blue Origin predicts quick recovery from big explosion](https://www.marketwatch.com/story/this-space-stock-is-rising-as-blue-origin-predicts-quick-recovery-from-big-explosion-03028f75?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 22:30
+
+#### [Victoria’s Secret’s stock just had its best day ever. It came down to better bras.](https://www.marketwatch.com/story/victorias-secrets-stock-is-on-track-for-its-best-day-ever-it-came-down-to-better-bras-fb82f017?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 22:27
+
+#### [Why Lumentum, Coherent and other optical stocks rocketed to big gains Tuesday](https://www.marketwatch.com/story/why-lumentum-coherent-and-other-optical-stocks-are-rocketing-toward-big-gains-d5a2e9c7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 22:24
+
+#### [Why Virgin Galactic’s stock just had its worst day ever, after a record-smashing 7-day run](https://www.marketwatch.com/story/why-virgin-galactics-stock-is-having-its-worst-day-ever-after-a-record-smashing-7-day-run-e0df7f0f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-02 22:12
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Minister condemns riots after UK rightwing leaders call for ‘rage’ over student killing](https://www.ft.com/content/1f9cf0bb-8e11-4808-a66b-08326d09d324)
+**发布时间**: 2026-06-02 22:12
+
+#### [Cliffwater’s flagship private credit fund redemption requests hit 17%](https://www.ft.com/content/dfdfee64-d3fb-487a-9019-1926387b0ef1)
+**发布时间**: 2026-06-02 22:09
+
+#### [Trump appoints real estate heir Bill Pulte as national intelligence chief](https://www.ft.com/content/e9c93603-3793-436f-a4f1-34ecd2b3fb9b)
+**发布时间**: 2026-06-02 22:05
+
+#### [Chinese investors fear missing out on SpaceX IPO after crackdown](https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d)
+**发布时间**: 2026-06-02 21:00
+
+#### [Trump signs watered-down AI vetting order after Maga infighting](https://www.ft.com/content/e2980d15-b593-4946-8f2f-fecf2b543e1a)
+**发布时间**: 2026-06-02 19:57
+
+#### [Anthropic to expand Mythos access to more than 15 countries](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8)
+**发布时间**: 2026-06-02 18:16
+
+#### [Microsoft targets Anthropic with new model releases](https://www.ft.com/content/e8b86648-61b3-4b48-8bd4-a50f03de92d8)
+**发布时间**: 2026-06-02 18:00
+
+#### [Goldman’s David Solomon sees ‘more greed than fear’ on Wall Street](https://www.ft.com/content/09d94a90-a228-4c86-b01c-f9cb99d4e3a8)
+**发布时间**: 2026-06-02 17:50
+
+#### [Shipping tycoon prefers $200,000 fee to cross Strait of Hormuz to ‘this hassle’](https://www.ft.com/content/c8f57429-d099-44f9-bdf5-d6c0f968a927)
+**发布时间**: 2026-06-02 15:02
+
+#### [What to watch in California’s big primary elections](https://www.ft.com/content/4ebd6b00-07f6-40c6-aed1-67d3a3c93bb6)
+**发布时间**: 2026-06-02 04:00
+
+#### [US convertible bonds set for record year as issuers harness AI boom](https://www.ft.com/content/159fde75-7ad7-452f-a385-574655558da0)
+**发布时间**: 2026-06-02 04:00
 
 ---
 

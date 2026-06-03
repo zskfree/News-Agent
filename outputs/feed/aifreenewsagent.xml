@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Jun 2026 09:07:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 09:10:05 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 00:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:29:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“优化管线”决胜，“数据筛选”筑基：从ICRA 2026看世界模型的技术发展趋势</title>
-      <link>https://www.leiphone.com/category/robot/IH4SUHF1ihnMy0Ne.html</link>
-      <description>&lt;![CDATA[“优化管线”决胜，“数据筛选”筑基：从ICRA 2026看世界模型的技术发展趋势]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/IH4SUHF1ihnMy0Ne.html</guid>
+      <title>NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local</title>
+      <link>https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/</link>
+      <description>&lt;![CDATA[NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICRA 2026 收录成果：Agentic Fast-Slow Planning打通大模型推理与实时控制，让具身智能更稳、更快</title>
-      <link>https://www.leiphone.com/category/robot/uwy7axUrzoMJapQ4.html</link>
-      <description>&lt;![CDATA[ICRA 2026 收录成果：Agentic Fast-Slow Planning打通大模型推理与实时控制，让具身智能更稳、更快]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/uwy7axUrzoMJapQ4.html</guid>
+      <title>字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手</title>
+      <link>https://www.qbitai.com/2026/06/427810.html</link>
+      <description>&lt;![CDATA[字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/427810.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICRA 2026 | 首个 36 自由度双臂灵巧操作 VLA 模型，开源！</title>
-      <link>https://www.leiphone.com/category/robot/ZLhJjZVkHkws8Ski.html</link>
-      <description>&lt;![CDATA[ICRA 2026 | 首个 36 自由度双臂灵巧操作 VLA 模型，开源！]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/ZLhJjZVkHkws8Ski.html</guid>
+      <title>Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw</title>
+      <link>https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/</link>
+      <description>&lt;![CDATA[Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICRA 2026维也纳首日：VLA碾压全场，灵巧操作产业化信号爆发｜ICRA日报</title>
-      <link>https://www.leiphone.com/category/robot/U1Z9pMdNcBaY5COP.html</link>
-      <description>&lt;![CDATA[ICRA 2026维也纳首日：VLA碾压全场，灵巧操作产业化信号爆发｜ICRA日报]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/U1Z9pMdNcBaY5COP.html</guid>
+      <title>Holo3.1: Fast &amp; Local Computer Use Agents</title>
+      <link>https://huggingface.co/blog/Hcompany/holo31</link>
+      <description>&lt;![CDATA[Holo3.1: Fast &amp; Local Computer Use Agents]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo31</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑</title>
-      <link>https://www.qbitai.com/2026/06/427729.html</link>
-      <description>&lt;![CDATA[机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 03:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/427729.html</guid>
+      <title>对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」</title>
+      <link>https://www.leiphone.com/category/ai/NdytmjkC1MmPszoq.html</link>
+      <description>&lt;![CDATA[对话灵初智能王启斌：「操作才是皇冠上的明珠，移动只是入场券」]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/NdytmjkC1MmPszoq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件</title>
-      <link>https://www.leiphone.com/category/industrynews/NwSFpk8WjfjsmFpP.html</link>
-      <description>&lt;![CDATA[Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NwSFpk8WjfjsmFpP.html</guid>
+      <title>千觉机器人亮相 ICRA 2026 Workshop：面向真实世界操作，机器人需要一套“触觉底座”</title>
+      <link>https://www.leiphone.com/category/robot/Ss8tddP1aKt5qqdo.html</link>
+      <description>&lt;![CDATA[千觉机器人亮相 ICRA 2026 Workshop：面向真实世界操作，机器人需要一套“触觉底座”]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Ss8tddP1aKt5qqdo.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA</title>
-      <link>https://www.qbitai.com/2026/06/427754.html</link>
-      <description>&lt;![CDATA[百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/427754.html</guid>
+      <title>独家｜前小米崔宝秋低调创业，揭开家庭机器人的最优解</title>
+      <link>https://www.leiphone.com/category/ai/09QWfOVoTbKrJfIH.html</link>
+      <description>&lt;![CDATA[独家｜前小米崔宝秋低调创业，揭开家庭机器人的最优解]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/09QWfOVoTbKrJfIH.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Jetson Brings Agentic AI to the Physical World</title>
-      <link>https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/</link>
-      <description>&lt;![CDATA[NVIDIA Jetson Brings Agentic AI to the Physical World]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/</guid>
+      <title>MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它</title>
+      <link>https://www.qbitai.com/2026/06/428092.html</link>
+      <description>&lt;![CDATA[MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/428092.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>融资数亿元，我们和贝塔无限刘武龙聊了聊具身系统创新</title>
-      <link>https://www.leiphone.com/category/ai/BZVmvZeYhmXZawA4.html</link>
-      <description>&lt;![CDATA[融资数亿元，我们和贝塔无限刘武龙聊了聊具身系统创新]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/BZVmvZeYhmXZawA4.html</guid>
+      <title>OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授</title>
+      <link>https://www.qbitai.com/2026/06/428003.html</link>
+      <description>&lt;![CDATA[OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/428003.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence</title>
-      <link>https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/</link>
-      <description>&lt;![CDATA[Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/</guid>
+      <title>AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？</title>
+      <link>https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html</link>
+      <description>&lt;![CDATA[AI出海「血管」大堵塞，钱付不出去，卡申不下来，谁在给中国AI当输血管？]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/5vSr76eWChdbpFwY.html</guid>
       <category>Ai</category>
     </item>
   </channel>
