@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Jun 2026 00:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 00:29:23 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 09:28:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:28:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy</title>
-      <link>https://www.tmtpost.com/8011677.html</link>
-      <description>&lt;![CDATA[The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011677.html</guid>
+      <title>机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则</title>
+      <link>https://www.tmtpost.com/8013279.html</link>
+      <description>&lt;![CDATA[机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013279.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板</title>
-      <link>https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出</title>
+      <link>https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LinkedIn 如何发现导致系统反复死机的内核锁竞争问题</title>
-      <link>https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[LinkedIn 如何发现导致系统反复死机的内核锁竞争问题]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具身智能穿越产业深水区：从炫技到交付，从通用到“专精”</title>
+      <link>https://www.tmtpost.com/8013294.html</link>
+      <description>&lt;![CDATA[具身智能穿越产业深水区：从炫技到交付，从通用到“专精”]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013294.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训</title>
-      <link>https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GitHub 通过每日审计与 MCP 精简，将 Agent 工作流 Token 成本最高降低 62%</title>
+      <link>https://www.infoq.cn/article/OVsDMDL84vuoXXdTDALd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 通过每日审计与 MCP 精简，将 Agent 工作流 Token 成本最高降低 62%]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OVsDMDL84vuoXXdTDALd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown</title>
-      <link>https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜</title>
+      <link>https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶</title>
-      <link>https://www.tmtpost.com/8011822.html</link>
-      <description>&lt;![CDATA[拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 08:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011822.html</guid>
+      <title>Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业</title>
+      <link>https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>港股“北归”：智谱和MiniMax为何急着回A？</title>
-      <link>https://www.tmtpost.com/8011340.html</link>
-      <description>&lt;![CDATA[港股“北归”：智谱和MiniMax为何急着回A？]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011340.html</guid>
+      <title>Agent之战，微软把家底都押上了</title>
+      <link>https://www.tmtpost.com/8013517.html</link>
+      <description>&lt;![CDATA[Agent之战，微软把家底都押上了]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013517.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10万亿！中国正成为AI基建狂魔</title>
-      <link>https://www.tmtpost.com/8011257.html</link>
-      <description>&lt;![CDATA[10万亿！中国正成为AI基建狂魔]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011257.html</guid>
+      <title>AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？</title>
+      <link>https://www.tmtpost.com/8012894.html</link>
+      <description>&lt;![CDATA[AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8012894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chatbot烧钱三年，还是AI时代的“新大陆”吗？</title>
-      <link>https://www.tmtpost.com/8011510.html</link>
-      <description>&lt;![CDATA[Chatbot烧钱三年，还是AI时代的“新大陆”吗？]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011510.html</guid>
+      <title>高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拓竹被“猎巫”，中国品牌出海进入舆论战时代</title>
-      <link>https://www.tmtpost.com/8006580.html</link>
-      <description>&lt;![CDATA[拓竹被“猎巫”，中国品牌出海进入舆论战时代]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 16:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006580.html</guid>
+      <title>微软推出Azure Linux 4.0，首款通用服务器Linux发行版</title>
+      <link>https://www.infoq.cn/article/evJu6ijlYIP75mD2dXaJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软推出Azure Linux 4.0，首款通用服务器Linux发行版]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/evJu6ijlYIP75mD2dXaJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

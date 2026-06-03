@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-03 00:29
+**最后更新时间**: 2026-06-03 09:28
+
+---
+
+## 🆕 最新更新 (2026-06-03 09:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I want to give my brother and his kids $5,000 each. My financial adviser is reluctant. Who’s right?](https://www.marketwatch.com/story/i-want-to-give-my-brother-and-his-kids-5-000-each-my-financial-adviser-is-reluctant-whos-right-47cbb74e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 09:15
+
+#### [The hottest stock market in the world has doubled this year. Now Goldman Sachs sees another 40% gain from here.](https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-has-doubled-this-year-now-goldman-sachs-sees-another-40-gain-from-here-bb6c49c7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 09:14
+
+#### [Billionaire moves into 10th place globally as Inditex sales jump](https://www.marketwatch.com/story/billionaire-moves-into-10th-place-globally-as-inditex-sales-jump-6d248eba?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 09:09
+
+#### [What happened to celebrity selling power? Why Hollywood’s most famous struggle to unload their lavish homes.](https://www.marketwatch.com/story/what-happened-to-celebrity-selling-power-why-hollywoods-most-famous-struggle-to-unload-their-lavish-homes-38b0efe2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 09:03
+
+#### [The late Richard Simmons’ L.A. estate returns to the market with a new sales strategy—and a lower price](https://www.marketwatch.com/story/the-late-richard-simmons-l-a-estate-returns-to-the-market-with-a-new-sales-strategyand-a-lower-price-091b5e0f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 09:01
+
+#### [New Trump administration tariffs, this time on forced labor, could come into force as existing ones roll off](https://www.marketwatch.com/story/new-trump-administration-tariffs-this-time-on-forced-labor-could-come-into-force-as-existing-ones-roll-off-f930dfca?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 08:29
+
+#### [Taking care of your family shouldn’t wreck your retirement](https://www.marketwatch.com/story/taking-care-of-your-family-shouldnt-wreck-your-retirement-f50714f8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 03:03
+
+#### [The S&P 500 climbs for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning](https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 00:31
+
+#### [Palo Alto Networks’ earnings show AI brings new urgency to cybersecurity, but stock still dips](https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 00:24
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Partners Group limits withdrawals in private equity fund for wealthy individuals](https://www.ft.com/content/c41346b0-05be-4d57-9d14-e90a018f5e25)
+**发布时间**: 2026-06-03 09:11
+
+#### [US proposes tariffs of at least 10% after forced labour probe](https://www.ft.com/content/b2a48b50-7c7c-423a-b558-eee0821f3469)
+**发布时间**: 2026-06-03 08:19
+
+#### [OECD warns of ‘dark scenario’ if Gulf energy crisis drags on](https://www.ft.com/content/c79f9b4a-4793-4fe9-b031-81c56511893c)
+**发布时间**: 2026-06-03 07:00
+
+#### [Will the Middle East crisis save Jim Ratcliffe’s Ineos empire?](https://www.ft.com/content/d9a037e8-cc1d-46a8-bd32-219af741edf8)
+**发布时间**: 2026-06-03 04:00
+
+#### [Inside Alexandr Wang’s bid to revive Meta’s AI edge](https://www.ft.com/content/d26faf9d-6ef0-4480-ab80-bac6a36fe173)
+**发布时间**: 2026-06-03 04:00
+
+#### [A guide for the perplexed on AI](https://www.ft.com/content/7cbc3986-be9f-4568-a3e5-fbd3b987f2e9)
+**发布时间**: 2026-06-03 04:00
+
+#### [How Real Madrid’s boss hopes to lure ‘galáctico’ investors](https://www.ft.com/content/cf47d5ad-22a1-4a4a-8676-4d6b59a3cc70)
+**发布时间**: 2026-06-03 04:00
+
+#### [Warsh set to revamp Fed’s signals to Wall Street](https://www.ft.com/content/130d83b7-9479-4ca8-8793-c4684c732296)
+**发布时间**: 2026-06-03 04:00
+
+#### [US and Iran exchange renewed fire as tensions rise over stalled peace talks](https://www.ft.com/content/54b8e0a6-beba-47a8-82a8-28cae47275f3)
+**发布时间**: 2026-06-03 01:03
 
 ---
 
