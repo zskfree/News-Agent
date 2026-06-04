@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 04 Jun 2026 01:45:00 GMT</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2026 01:45:26 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:52:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SpaceX pitches investors $1.8tn valuation in historic IPO</title>
-      <link>https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8</link>
-      <description>&lt;![CDATA[SpaceX pitches investors $1.8tn valuation in historic IPO]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 22:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8</guid>
+      <title>Another redemption wave is spooking the $2 trillion private-credit market</title>
+      <link>https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Another redemption wave is spooking the $2 trillion private-credit market]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 08:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Broadcom loses more than $300bn in market value as revenue forecast disappoints</title>
-      <link>https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240</link>
-      <description>&lt;![CDATA[Broadcom loses more than $300bn in market value as revenue forecast disappoints]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240</guid>
+      <title>Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway</title>
+      <link>https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 02:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred</title>
-      <link>https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 00:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories</guid>
+      <title>Partners Group prepares to cap withdrawals at US fund for wealthy individuals</title>
+      <link>https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7</link>
+      <description>&lt;![CDATA[Partners Group prepares to cap withdrawals at US fund for wealthy individuals]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&amp;P 500</title>
-      <link>https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&amp;P 500]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 22:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories</guid>
+      <title>Anthropic’s relentless race to the top</title>
+      <link>https://www.ft.com/content/e17665ea-c5ca-428a-839c-be5c1eacc35c</link>
+      <description>&lt;![CDATA[Anthropic’s relentless race to the top]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e17665ea-c5ca-428a-839c-be5c1eacc35c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Europe’s tightrope walk on tech sovereignty</title>
-      <link>https://www.ft.com/content/fe3f7f31-a1e8-4645-bedc-ed45fc42e8fa</link>
-      <description>&lt;![CDATA[Europe’s tightrope walk on tech sovereignty]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fe3f7f31-a1e8-4645-bedc-ed45fc42e8fa</guid>
+      <title>Argentina invites AI to free itself</title>
+      <link>https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c</link>
+      <description>&lt;![CDATA[Argentina invites AI to free itself]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>SpaceX officially set to crush global records in targeting massive IPO haul of up to $86 billion</title>
-      <link>https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[SpaceX officially set to crush global records in targeting massive IPO haul of up to $86 billion]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 21:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories</guid>
+      <title>America’s ‘other’ economy tells a different growth story</title>
+      <link>https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795</link>
+      <description>&lt;![CDATA[America’s ‘other’ economy tells a different growth story]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The Fed can’t protect consumers from supply shocks and price gouging — but Congress can</title>
-      <link>https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The Fed can’t protect consumers from supply shocks and price gouging — but Congress can]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 22:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories</guid>
+      <title>Russia could use drone edge to threaten Baltics, warns Latvian general</title>
+      <link>https://www.ft.com/content/a8a6d038-e130-4637-a49f-49e50bf119a6</link>
+      <description>&lt;![CDATA[Russia could use drone edge to threaten Baltics, warns Latvian general]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a8a6d038-e130-4637-a49f-49e50bf119a6</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>You’re going to pay tax on RMDs — there’s no way around it. Or is there?</title>
-      <link>https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[You’re going to pay tax on RMDs — there’s no way around it. Or is there?]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 21:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>CrowdStrike’s stock falls as investors find more reason to pan cybersecurity earnings</title>
-      <link>https://www.marketwatch.com/story/crowdstrikes-stock-falls-as-investors-find-more-reason-to-pan-cybersecurity-earnings-d1b5f619?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[CrowdStrike’s stock falls as investors find more reason to pan cybersecurity earnings]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 00:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/crowdstrikes-stock-falls-as-investors-find-more-reason-to-pan-cybersecurity-earnings-d1b5f619?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Broadcom’s stock falls despite accelerating AI-chip growth</title>
-      <link>https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Broadcom’s stock falls despite accelerating AI-chip growth]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories</guid>
+      <title>President’s pledge to unleash a ‘golden age’ of US manufacturing sputters</title>
+      <link>https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f</link>
+      <description>&lt;![CDATA[President’s pledge to unleash a ‘golden age’ of US manufacturing sputters]]&gt;</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f</guid>
       <category>Finance</category>
     </item>
   </channel>

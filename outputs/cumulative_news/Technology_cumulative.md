@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-04 01:45
+**最后更新时间**: 2026-06-04 08:52
+
+---
+
+## 🆕 最新更新 (2026-06-04 08:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [A New Hand on the Scoop: Häagen-Dazs Store Network Changes Hands](https://www.tmtpost.com/8015007.html)
+**发布时间**: 2026-06-04 16:35
+
+#### [万亿预言背后，迈威尔的三道裂缝](https://www.tmtpost.com/8013947.html)
+**发布时间**: 2026-06-04 16:33
+
+#### [从看不懂到二股东，段永平重仓泡泡玛特的阳谋](https://www.tmtpost.com/8014022.html)
+**发布时间**: 2026-06-04 16:33
+
+#### [脑机接口，今年所有方向都能融到钱？](https://www.tmtpost.com/8014003.html)
+**发布时间**: 2026-06-04 16:33
+
+#### [摩尔线程不想只做一家 GPU 公司了？](https://www.tmtpost.com/8014948.html)
+**发布时间**: 2026-06-04 16:03
+
+#### [宇树过会，具身智能的新手保护期结束了](https://www.tmtpost.com/8014010.html)
+**发布时间**: 2026-06-04 16:03
+
+#### [宁德时代为何挤进了DeepSeek的大名单](https://www.tmtpost.com/8013929.html)
+**发布时间**: 2026-06-04 15:58
+
+#### [黄仁勋盖章Marvell：下一个万亿美元公司](https://www.tmtpost.com/8013901.html)
+**发布时间**: 2026-06-04 15:58
+
+#### [AI 超连接时代：AI 向 “光” 飞奔？](https://www.tmtpost.com/8013864.html)
+**发布时间**: 2026-06-04 15:23
+
+#### [恒科天亮了吗？](https://www.tmtpost.com/8013895.html)
+**发布时间**: 2026-06-04 15:23
+
+#### [李飞飞万字长文刷屏：网红文生视频只是“画皮”，真正的万亿级风口在这｜附中英全文](https://www.tmtpost.com/8014812.html)
+**发布时间**: 2026-06-04 15:15
+
+#### [Won Four Gold Mines in Brazil in 40 Days: CMOC Shoots Skyward](https://www.tmtpost.com/8014872.html)
+**发布时间**: 2026-06-04 14:58
+
+#### [交易额超164亿！千亿巨头兖矿能源拟收购两家电力公司；风电零部件龙头拟收购西安创航60%股权；【并购一线】](https://www.tmtpost.com/8014731.html)
+**发布时间**: 2026-06-04 13:51
+
+#### [思必驰再冲科创板：一份穿越周期的答卷](https://www.tmtpost.com/8006693.html)
+**发布时间**: 2026-06-04 13:31
+
+#### [One Year Into the Food Delivery Price War in China](https://www.tmtpost.com/8014784.html)
+**发布时间**: 2026-06-04 13:26
+
+#### [40天拿下巴西4座金矿：洛阳钼业，冲上云霄](https://www.tmtpost.com/8014665.html)
+**发布时间**: 2026-06-04 13:24
+
+#### [封了自家元宝，微信AI亲自下场](https://www.tmtpost.com/8014103.html)
+**发布时间**: 2026-06-04 12:58
+
+#### [全球资本挤进香港，抢夺12万个学生宿舍床位](https://www.tmtpost.com/8014664.html)
+**发布时间**: 2026-06-04 12:21
+
+#### [谷歌脱颖而出，Alphabet 技术面透露出什么？](https://www.tmtpost.com/8014703.html)
+**发布时间**: 2026-06-04 11:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具](https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 16:00
+
+#### [把数据库运维这件苦差事，交给 AI Agent](https://www.infoq.cn/article/YKeLhEsd692pgUtqBwSI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 15:10
+
+#### [运维不再需要“老师傅”，阿里云操作系统控制台重磅发布 OS 运维 Skills](https://www.infoq.cn/article/W37w3zzGlPG1UtIhLbRh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 15:07
+
+#### [谷歌云暂停 Railway 生产账号，引发全平台八小时级中断](https://www.infoq.cn/article/H66fR5iUG8AF88FFDSlJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 11:13
+
+#### [以模治模：支付宝 Agent 安全漏洞智能化检测实践｜AICon上海](https://www.infoq.cn/article/MmVSQxLc1b5BWHYRuGo4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 10:00
+
+#### [Meta 重构 PB 级高可靠数据摄取架构](https://www.infoq.cn/article/CDTK9cDzediYmswOYDze?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 09:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
+**发布时间**: 2026-06-04 15:00
+
+#### [比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
+**发布时间**: 2026-06-04 11:02
 
 ---
 

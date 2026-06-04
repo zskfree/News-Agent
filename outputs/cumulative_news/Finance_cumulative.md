@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-04 01:45
+**最后更新时间**: 2026-06-04 08:52
+
+---
+
+## 🆕 最新更新 (2026-06-04 08:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Another redemption wave is spooking the $2 trillion private-credit market](https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 08:14
+
+#### [Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway](https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 02:22
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Partners Group prepares to cap withdrawals at US fund for wealthy individuals](https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7)
+**发布时间**: 2026-06-04 07:27
+
+#### [Anthropic’s relentless race to the top](https://www.ft.com/content/e17665ea-c5ca-428a-839c-be5c1eacc35c)
+**发布时间**: 2026-06-04 04:00
+
+#### [Argentina invites AI to free itself](https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c)
+**发布时间**: 2026-06-04 04:00
+
+#### [America’s ‘other’ economy tells a different growth story](https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795)
+**发布时间**: 2026-06-04 04:00
+
+#### [Russia could use drone edge to threaten Baltics, warns Latvian general](https://www.ft.com/content/a8a6d038-e130-4637-a49f-49e50bf119a6)
+**发布时间**: 2026-06-04 04:00
+
+#### [President’s pledge to unleash a ‘golden age’ of US manufacturing sputters](https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f)
+**发布时间**: 2026-06-04 04:00
 
 ---
 

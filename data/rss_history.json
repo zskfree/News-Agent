@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "946a5b1d8fa945bf0b3953ad8d496c6d1ba05fe1ba3353cd05730db4028bd707": {
-        "title": "NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错",
-        "link": "https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 11:00:00 GMT",
-        "first_seen": "2026-05-05T07:21:13.104631"
-      },
-      "c66f63ad4cdaeb3189b94c3070f825ece3c59fbfcae14895d750ae70944eae64": {
-        "title": "绕过顶级EUV，晶圆一哥的底牌终于摊开",
-        "link": "https://www.tmtpost.com/7976370.html",
-        "published_date": "Tue, 05 May 2026 09:47:00 GMT",
-        "first_seen": "2026-05-05T07:21:13.104638"
-      },
-      "733ccaca5769f465942e3a7cc68714b13ea9ff9a1781930c67412638c9605909": {
-        "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
-        "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:55:00 GMT",
-        "first_seen": "2026-05-05T07:21:13.104640"
-      },
-      "c4cf7350adddfa7da219946b3e7dc4dcf81dd4f3719e568a8d40b03c1f536465": {
-        "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
-        "link": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:51:00 GMT",
-        "first_seen": "2026-05-05T07:21:13.104642"
-      },
-      "28799fecf5895f27a8091c1298e739fc5f273c8f6fd5a63b5f9105da9d303df7": {
-        "title": "Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5",
-        "link": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:53:00 GMT",
-        "first_seen": "2026-05-05T07:21:13.104643"
-      },
       "0e379e037fbc152e194f54a70604497577d3f6be950b1ecbaa54d2afb7b78eb3": {
         "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
         "link": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,69 @@
         "link": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 03 Jun 2026 16:33:00 GMT",
         "first_seen": "2026-06-04T01:45:23.239322"
+      },
+      "11c43db6d582ff956c7b9bd982ed2d8792beb2614418bf470ea53a6d392bc1ca": {
+        "title": "李飞飞万字长文刷屏：网红文生视频只是“画皮”，真正的万亿级风口在这｜附中英全文",
+        "link": "https://www.tmtpost.com/8014812.html",
+        "published_date": "Thu, 04 Jun 2026 15:15:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882561"
+      },
+      "5d0486a6f26d0052cc5556d1119fa5d6d544b010e45822f8add6776b2daba0cb": {
+        "title": "黄仁勋盖章Marvell：下一个万亿美元公司",
+        "link": "https://www.tmtpost.com/8013901.html",
+        "published_date": "Thu, 04 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882567"
+      },
+      "57e2f6e189b0d2b18025946f067649aa6872d31db9dd70af9403f8df66221eca": {
+        "title": "宇树过会，具身智能的新手保护期结束了",
+        "link": "https://www.tmtpost.com/8014010.html",
+        "published_date": "Thu, 04 Jun 2026 16:03:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882569"
+      },
+      "26245e579ad654054b19841e8f983fc37f1535ae7b42fe008892200de1d5f683": {
+        "title": "以模治模：支付宝 Agent 安全漏洞智能化检测实践｜AICon上海",
+        "link": "https://www.infoq.cn/article/MmVSQxLc1b5BWHYRuGo4?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 04 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882570"
+      },
+      "7c49c05e56c5b175b08f23e3d8ed40e923772eb5df0a98ee051e588f54a5db54": {
+        "title": "Meta 重构 PB 级高可靠数据摄取架构",
+        "link": "https://www.infoq.cn/article/CDTK9cDzediYmswOYDze?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 04 Jun 2026 09:49:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882572"
+      },
+      "77c1d988379e5f1044edb9d136e0942f45f75a58c048f3fc2011f53c59185556": {
+        "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
+        "link": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 04 Jun 2026 16:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882574"
+      },
+      "89f727e507241fe0736aee5feeefefa9857302647f84b4c2f9b083660b13e208": {
+        "title": "运维不再需要“老师傅”，阿里云操作系统控制台重磅发布 OS 运维 Skills",
+        "link": "https://www.infoq.cn/article/W37w3zzGlPG1UtIhLbRh?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 04 Jun 2026 15:07:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882576"
+      },
+      "c8fa8608c7951c5c59795dfc7e70a7694e7e9980c8b14f1c7c7afce062d8df49": {
+        "title": "宁德时代为何挤进了DeepSeek的大名单",
+        "link": "https://www.tmtpost.com/8013929.html",
+        "published_date": "Thu, 04 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882577"
+      },
+      "1fd51892615ce4a8545b2bd326f66d8363e16b857a58b30e47fe900e27417f95": {
+        "title": "摩尔线程不想只做一家 GPU 公司了？",
+        "link": "https://www.tmtpost.com/8014948.html",
+        "published_date": "Thu, 04 Jun 2026 16:03:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882579"
+      },
+      "9e75f6e7b09b5ef8e655467f360e158a784b7f5b87221dff16d14830739e8525": {
+        "title": "股价再创历史新高，72万散户“战胜”机构：工业富联1.6万亿市值的水位与暗涌 | 深度",
+        "link": "https://www.tmtpost.com/8014170.html",
+        "published_date": "Thu, 04 Jun 2026 08:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.882580"
       }
     },
     "Finance": {
-      "a173e728aaf4659040632f7b87c3b4e297b44c0c9ac8b754fa6d2f2195c562f0": {
-        "title": "HSBC profits hit by fraud-related case and Middle East war",
-        "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
-        "published_date": "Tue, 05 May 2026 06:43:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.845675"
-      },
-      "16d074e4b71dac1150f318717645ab952ad1005474eb37a9b432b540f92e5a73": {
-        "title": "Consumers face more pain as companies threaten price rises",
-        "link": "https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.845684"
-      },
-      "e17273ca716ecbe6ea9efcda41f1d434ead722d0ca605bd6bb87fb14b38c8b8b": {
-        "title": "Deutsche Bank denies training bankers to manipulate markets",
-        "link": "https://www.ft.com/content/c959dbe1-eb96-414d-adcf-5f17330a195b",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.845687"
-      },
-      "a5a2b3380bc29884694af1a2f840f61244402fa98cb17ce8008135b1b2ffa1f1": {
-        "title": "Arnault and LVMH go from buyer to seller as luxury’s winter drags on",
-        "link": "https://www.ft.com/content/bc50fc15-9779-4969-9f81-eb834941c625",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.845689"
-      },
-      "37ad2ba11e237699b2e30d9835a27e4d0333ab54a68930b4a1747b526d991299": {
-        "title": "US strikes Iranian boats as Hormuz crisis reignites",
-        "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
-        "published_date": "Tue, 05 May 2026 01:58:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.845691"
-      },
       "afa32fc678a65b99c19b13a4db846ae6b740b4408303ebe4e08857676645580a": {
         "title": "My husband has a modest $150,000 in his retirement fund. Should we make our kids beneficiaries?",
         "link": "https://www.marketwatch.com/story/my-husband-has-a-modest-150-000-in-his-retirement-fund-should-we-make-our-kids-beneficiaries-2ba37d68?mod=mw_rss_topstories",
@@ -5055,15 +5055,57 @@
         "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
         "published_date": "Thu, 04 Jun 2026 00:13:00 GMT",
         "first_seen": "2026-06-04T01:45:26.957217"
+      },
+      "fb0933e3587f1a3ac8206eedb8faa5bccd7c6ee67d9d496127f5015ccff9614c": {
+        "title": "Another redemption wave is spooking the $2 trillion private-credit market",
+        "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
+        "published_date": "Thu, 04 Jun 2026 08:14:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931126"
+      },
+      "cc92044740b07d9ca3cb4e55814d88df44ba0423e3e0b032d4b60d2b4d070892": {
+        "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway",
+        "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
+        "published_date": "Thu, 04 Jun 2026 02:22:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931132"
+      },
+      "a3501b9ea611328f92ba898c21c54f323e09e85babe0e4d10e9b5723cc4c1313": {
+        "title": "Partners Group prepares to cap withdrawals at US fund for wealthy individuals",
+        "link": "https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7",
+        "published_date": "Thu, 04 Jun 2026 07:27:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931134"
+      },
+      "3e4a1581c025707c5c864daf2ceac8773fe3efb18304db8626703e95e6dfd2f8": {
+        "title": "Anthropic’s relentless race to the top",
+        "link": "https://www.ft.com/content/e17665ea-c5ca-428a-839c-be5c1eacc35c",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931136"
+      },
+      "d480564e6f9e53094cfa041fa19f292a1a012d6406fc833176e9abfe70b01205": {
+        "title": "Argentina invites AI to free itself",
+        "link": "https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931137"
+      },
+      "7d65571f6586134ce3b1355d8bd78b2d2ab6bca57aa74b6db38b634d13a9af9f": {
+        "title": "America’s ‘other’ economy tells a different growth story",
+        "link": "https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931139"
+      },
+      "3e3cb12121837a5d6b5392a84e84e8e49bddc223ddf1a2558bb78b345c338e0f": {
+        "title": "Russia could use drone edge to threaten Baltics, warns Latvian general",
+        "link": "https://www.ft.com/content/a8a6d038-e130-4637-a49f-49e50bf119a6",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931140"
+      },
+      "5b53f4b169ea9cedcc1bd267bad3e0f489dd63ba9bd59a36df3d1b1ead0c32b7": {
+        "title": "President’s pledge to unleash a ‘golden age’ of US manufacturing sputters",
+        "link": "https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:52:30.931143"
       }
     },
     "Ai": {
-      "d24d09ab8b5228160734b5e8a408e16ed72b124a844c17ea34e24aedbc6418d6": {
-        "title": "2026-05-05日刊",
-        "link": "https://ai.hubtoday.app//2026-05/2026-05-05/",
-        "published_date": "Tue, 05 May 2026 10:13:00 GMT",
-        "first_seen": "2026-05-05T07:20:56.997585"
-      },
       "22539bd357e9695a1fcce2aee708d86f52a854ffd32d21ac25fb893932b68aaa": {
         "title": "2026-05-06日刊",
         "link": "https://ai.hubtoday.app//2026-05/2026-05-06/",
@@ -6803,13 +6845,73 @@
         "link": "https://www.leiphone.com/category/robot/OAl1Kvwa2rq9N4yx.html",
         "published_date": "Wed, 03 Jun 2026 17:09:00 GMT",
         "first_seen": "2026-06-04T01:45:22.170598"
+      },
+      "6f218630d63763dda006797be1080d18c802e958448b797ad796f74bc6c1f69e": {
+        "title": "港中深王方鑫团队：3D 重建的「玻璃杯难题」，终于被摆上台面丨CVPR 2026",
+        "link": "https://www.leiphone.com/category/ai/1379RWpvIZOGUt9v.html",
+        "published_date": "Thu, 04 Jun 2026 11:50:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639449"
+      },
+      "8313816fd1717242f995b9ab933963d56e4372c6e20f5cfed651b953655693d8": {
+        "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+        "link": "https://www.qbitai.com/2026/06/428791.html",
+        "published_date": "Thu, 04 Jun 2026 03:10:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639457"
+      },
+      "4ed348d860896ab24675f13b9b0416c16678b5c7f6924e7e2bddc51c90dfae6a": {
+        "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+        "link": "https://www.qbitai.com/2026/06/428778.html",
+        "published_date": "Thu, 04 Jun 2026 03:06:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639460"
+      },
+      "74dc1b9ea710ae50d4e7dbd2c7a4cad6f9bbd5670c22d109b047a521c4db95c5": {
+        "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+        "link": "https://www.qbitai.com/2026/06/428790.html",
+        "published_date": "Thu, 04 Jun 2026 03:43:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639462"
+      },
+      "b11c83da15d589ff3e6b7c356e8f31b3b98370ab05f0790fd2b54c0e9b30e74b": {
+        "title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
+        "link": "https://www.qbitai.com/2026/06/428942.html",
+        "published_date": "Thu, 04 Jun 2026 07:25:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639464"
+      },
+      "530ff49ebb0a4006bd66534cc8f78c864c6c3347b8903eca33f88ce599eec81b": {
+        "title": "CCIG 2026 在广州圆满落幕：4200 余位专家学者共绘图像图形发展新图景",
+        "link": "https://www.leiphone.com/category/ai/E90R02svL2OFPlO7.html",
+        "published_date": "Thu, 04 Jun 2026 11:52:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639466"
+      },
+      "0eb64a228df56a04360c3aa22b052c4fc8aab07f640882534678f27835973305": {
+        "title": "A股账户可以买Robotaxi了",
+        "link": "https://www.qbitai.com/2026/06/428954.html",
+        "published_date": "Thu, 04 Jun 2026 07:41:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639467"
+      },
+      "c9dd500999d8e2f237602a2055000fdbe187d008314f59cb43f959fc8bbcb6da": {
+        "title": "比亚迪与中国石化深化战略合作 共建智慧能源生态",
+        "link": "https://www.qbitai.com/2026/06/428933.html",
+        "published_date": "Thu, 04 Jun 2026 06:58:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639469"
+      },
+      "bc92f59adfa3218de0bf7097aa33706c36193e50d65bf6080c5b78b407b1d067": {
+        "title": "对话李斌&沈斐：20万的价格区间内，乐道L60是「神一样的存在」丨大湾区车展观察",
+        "link": "https://www.leiphone.com/category/transportation/Ea1NFe5aQOcLPB1W.html",
+        "published_date": "Thu, 04 Jun 2026 11:17:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639470"
+      },
+      "2d04849b8a92d49df291ccfe52e4adc9a73d661439ff618b6684b25624b36c0c": {
+        "title": "2026-06-04日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-04/",
+        "published_date": "Thu, 04 Jun 2026 10:38:00 GMT",
+        "first_seen": "2026-06-04T08:52:29.639472"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-04T01:45:23.239324",
-    "Finance": "2026-06-04T01:45:26.957219",
-    "Ai": "2026-06-04T01:45:22.170600"
+    "Technology": "2026-06-04T08:52:30.882583",
+    "Finance": "2026-06-04T08:52:30.931146",
+    "Ai": "2026-06-04T08:52:29.639474"
   }
 }
