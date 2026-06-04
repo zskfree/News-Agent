@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-03 09:28
+**最后更新时间**: 2026-06-04 01:45
+
+---
+
+## 🆕 最新更新 (2026-06-04 01:45)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred](https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 00:57
+
+#### [Broadcom’s stock falls despite accelerating AI-chip growth](https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 00:13
+
+#### [CrowdStrike’s stock falls as investors find more reason to pan cybersecurity earnings](https://www.marketwatch.com/story/crowdstrikes-stock-falls-as-investors-find-more-reason-to-pan-cybersecurity-earnings-d1b5f619?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 00:12
+
+#### [How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500](https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 22:26
+
+#### [The Fed can’t protect consumers from supply shocks and price gouging — but Congress can](https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 22:14
+
+#### [I am 71. Would it be foolish to sell $10,000 in stock to visit my grandchildren in Thailand?](https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 22:09
+
+#### [You’re going to pay tax on RMDs — there’s no way around it. Or is there?](https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 21:57
+
+#### [SpaceX officially set to crush global records in targeting massive IPO haul of up to $86 billion](https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 21:32
+
+#### [‘No one seems to wear their bling’: Is it safe to show off your expensive jewelry?](https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories)
+**发布时间**: 2026-06-03 21:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Broadcom loses more than $300bn in market value as revenue forecast disappoints](https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240)
+**发布时间**: 2026-06-04 00:13
+
+#### [Israel and Lebanon agree to implement ceasefire](https://www.ft.com/content/468ce636-1a7e-4a14-9be1-6d0f48b6b48f)
+**发布时间**: 2026-06-03 23:47
+
+#### [Republican-led House deals blow to Trump over Iran war](https://www.ft.com/content/6fbbc60c-155c-42a7-81b6-50e24e0bb706)
+**发布时间**: 2026-06-03 22:57
+
+#### [SpaceX pitches investors $1.8tn valuation in historic IPO](https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8)
+**发布时间**: 2026-06-03 22:54
+
+#### [Trump’s pick of Pulte as spy chief threatens foreign surveillance bill](https://www.ft.com/content/d293d489-741d-4de3-8c4a-6a000a0dbae5)
+**发布时间**: 2026-06-03 22:44
+
+#### [SpaceX wins tax exemption for $55bn AI chip plant despite local backlash](https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574)
+**发布时间**: 2026-06-03 21:14
+
+#### [Senior official from Germany’s AfD meets top Kremlin associates](https://www.ft.com/content/50bed197-f30b-443e-85e0-5631315e893e)
+**发布时间**: 2026-06-03 20:55
+
+#### [Europe’s tightrope walk on tech sovereignty](https://www.ft.com/content/fe3f7f31-a1e8-4645-bedc-ed45fc42e8fa)
+**发布时间**: 2026-06-03 17:21
+
+#### [Ukraine strikes St Petersburg as Putin’s forum gets under way](https://www.ft.com/content/10463041-88a8-48f9-b337-34ffb01d5e9d)
+**发布时间**: 2026-06-03 10:29
 
 ---
 

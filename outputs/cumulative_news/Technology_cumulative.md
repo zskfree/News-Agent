@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-03 09:28
+**最后更新时间**: 2026-06-04 01:45
+
+---
+
+## 🆕 最新更新 (2026-06-04 01:45)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [外卖大战一年账单：烧掉1500亿，改变了什么？](https://www.tmtpost.com/8014372.html)
+**发布时间**: 2026-06-04 09:29
+
+#### [不拼数量拼“抗噪”，微软拓扑量子芯片可靠性暴涨千倍，2029要掀算力洗牌？](https://www.tmtpost.com/8013061.html)
+**发布时间**: 2026-06-04 09:06
+
+#### [Edge AI Daily 早报（6月4日）](https://www.tmtpost.com/8014298.html)
+**发布时间**: 2026-06-04 08:29
+
+#### [股价再创历史新高，72万散户“战胜”机构：工业富联1.6万亿市值的水位与暗涌 | 深度](https://www.tmtpost.com/8014170.html)
+**发布时间**: 2026-06-04 08:00
+
+#### [【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人](https://www.tmtpost.com/8014013.html)
+**发布时间**: 2026-06-04 07:20
+
+#### [实控人遭立案后2亿加码产业基金，泰格医药的“投资依赖症”有多深？](https://www.tmtpost.com/8014098.html)
+**发布时间**: 2026-06-03 23:09
+
+#### [高德地图启动新加坡扫街榜 本地生活竞争迈向全球化](https://www.tmtpost.com/8013835.html)
+**发布时间**: 2026-06-03 22:27
+
+#### [联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资](https://www.tmtpost.com/8013979.html)
+**发布时间**: 2026-06-03 20:55
+
+#### [杰锋动力：大股东奇瑞身兼头号客户，高负债、存贷双高下仍大额分红｜IPO观察](https://www.tmtpost.com/8013304.html)
+**发布时间**: 2026-06-03 20:33
+
+#### [前次募投延期、挪用募资买理财，中谷物流手握72亿现金欲再募30亿](https://www.tmtpost.com/8013303.html)
+**发布时间**: 2026-06-03 18:53
+
+#### [199元的“AI功能机”和900亿市值，诺基亚的AI双重叙事](https://www.tmtpost.com/8011965.html)
+**发布时间**: 2026-06-03 18:20
+
+#### [怎么哈根达斯中国也要卖了？](https://www.tmtpost.com/8013714.html)
+**发布时间**: 2026-06-03 18:19
+
+#### [美团“换骨”：王兴保住外卖+到店「现实的肉」，还要重构「AI的壳」](https://www.tmtpost.com/8012008.html)
+**发布时间**: 2026-06-03 18:19
+
+#### [日销百亿的网红基亏损21亿，德邦基金权益“支柱”雷涛隐退](https://www.tmtpost.com/8012190.html)
+**发布时间**: 2026-06-03 18:17
+
+#### [中外储能争霸，谁笑到了最后](https://www.tmtpost.com/8013663.html)
+**发布时间**: 2026-06-03 18:17
+
+#### [即时零售鏖战空调：高调入局的美团，能颠覆家电渠道格局吗？](https://www.tmtpost.com/8013705.html)
+**发布时间**: 2026-06-03 18:17
+
+#### [一篇AI写的稿，凭啥卖我几万](https://www.tmtpost.com/8013645.html)
+**发布时间**: 2026-06-03 17:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [clickhousectl 赋能：轻松对比 ClickHouse 版本性能！](https://www.infoq.cn/article/LREmzrrTzb3DcpLmHmhr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 09:00
+
+#### [AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移](https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 18:00
+
+#### [Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架](https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:33
+
+#### [10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则](https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:26
+
+#### [Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告](https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等](https://sspai.com/post/110698)
+**发布时间**: 2026-06-04 08:36
+
+#### [小车车里的大世界：车模收藏入坑指南](https://sspai.com/post/110114)
+**发布时间**: 2026-06-03 17:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 2 个免费的开源 Skill 太给劲儿，直接替代 Playwright。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534240&idx=1&sn=a965b0088a0842765ccf9521eb7ed03f)
+**发布时间**: 2026-06-03 10:10
 
 ---
 
