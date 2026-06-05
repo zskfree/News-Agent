@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Jun 2026 00:11:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 00:11:45 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 08:46:00 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:46:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件</title>
-      <link>https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统</title>
+      <link>https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？</title>
-      <link>https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 18:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026智博会观察：告别参数崇拜，AI在场景里“掘金”</title>
+      <link>https://www.tmtpost.com/8016328.html</link>
+      <description>&lt;![CDATA[2026智博会观察：告别参数崇拜，AI在场景里“掘金”]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016328.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”</title>
-      <link>https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践</title>
+      <link>https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？</title>
-      <link>https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI Agent越复杂，亏损可能越稳定</title>
+      <link>https://www.tmtpost.com/8016401.html</link>
+      <description>&lt;![CDATA[AI Agent越复杂，亏损可能越稳定]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016401.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯开源了 Agent Memory，让 AI  真正记住你。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534267&amp;idx=1&amp;sn=cc92df3cbc59e8ec0b3e8affb37e222e</link>
-      <description>&lt;![CDATA[腾讯开源了 Agent Memory，让 AI  真正记住你。]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534267&amp;idx=1&amp;sn=cc92df3cbc59e8ec0b3e8affb37e222e</guid>
+      <title>超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>霍尼韦尔重注押宝，史上最大量子IPO来了</title>
-      <link>https://www.tmtpost.com/8014689.html</link>
-      <description>&lt;![CDATA[霍尼韦尔重注押宝，史上最大量子IPO来了]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8014689.html</guid>
+      <title>DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析</title>
+      <link>https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Codex与ChatGPT合并，编程工具大洗牌开始了</title>
-      <link>https://www.tmtpost.com/8014673.html</link>
-      <description>&lt;![CDATA[Codex与ChatGPT合并，编程工具大洗牌开始了]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8014673.html</guid>
+      <title>Node.js 从 27 版本开始改为每年发布一个大版本</title>
+      <link>https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Node.js 从 27 版本开始改为每年发布一个大版本]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨头开始“烧不动Token”了</title>
-      <link>https://www.tmtpost.com/8015140.html</link>
-      <description>&lt;![CDATA[巨头开始“烧不动Token”了]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8015140.html</guid>
+      <title>WWDC26 开幕在即，今年有哪些看点值得关注？</title>
+      <link>https://sspai.com/post/110669</link>
+      <description>&lt;![CDATA[WWDC26 开幕在即，今年有哪些看点值得关注？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110669</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达RTX Spark亮相：老黄重新发明PC？</title>
-      <link>https://www.tmtpost.com/8014815.html</link>
-      <description>&lt;![CDATA[英伟达RTX Spark亮相：老黄重新发明PC？]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8014815.html</guid>
+      <title>Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？</title>
+      <link>https://www.tmtpost.com/8016357.html</link>
+      <description>&lt;![CDATA[Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016357.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云暂停 Railway 生产账号，引发全平台八小时级中断</title>
-      <link>https://www.infoq.cn/article/H66fR5iUG8AF88FFDSlJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云暂停 Railway 生产账号，引发全平台八小时级中断]]&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/H66fR5iUG8AF88FFDSlJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>王兴：我选择AI作为我的解药</title>
+      <link>https://www.tmtpost.com/8016339.html</link>
+      <description>&lt;![CDATA[王兴：我选择AI作为我的解药]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016339.html</guid>
       <category>Technology</category>
     </item>
   </channel>

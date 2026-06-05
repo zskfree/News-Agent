@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-05 00:11
+**最后更新时间**: 2026-06-05 08:46
+
+---
+
+## 🆕 最新更新 (2026-06-05 08:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The stock market is at its frothiest since the global financial crisis, proclaims Citi. Why dip buyers shouldn’t bail yet.](https://www.marketwatch.com/story/the-stock-market-is-at-its-frothiest-since-the-global-financial-crisis-proclaims-citi-why-dip-buyers-shouldnt-bail-yet-bd66f5a3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 08:44
+
+#### [In ‘wild’ twist, SpaceX won’t be allowed early entry to the S&P 500 after all](https://www.marketwatch.com/story/in-wild-twist-spacex-wont-be-allowed-early-entry-to-the-s-p-500-after-all-2c1b8205?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 08:23
+
+#### [One quadrillion is the number used to describe the wealth effect of South Korea’s stock-market miracle](https://www.marketwatch.com/story/one-quadrillion-is-the-number-used-to-describe-the-wealth-effect-of-south-koreas-stock-market-miracle-8ecad9dd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 07:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Musk’s SpaceX lines up retail investors for record IPO allocation](https://www.ft.com/content/3cf5aed7-1a57-44ad-b9bc-11c779a5d2de)
+**发布时间**: 2026-06-05 04:00
+
+#### [The teenagers enlisted as agents of mayhem by Russia and Iran](https://www.ft.com/content/58dabb01-41f6-4440-8a5f-69947d8afe06)
+**发布时间**: 2026-06-05 04:00
+
+#### [How much value is AI really creating?](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
+**发布时间**: 2026-06-05 04:00
+
+#### [Governments need to learn how to talk about debt](https://www.ft.com/content/5aadaa04-c360-457b-874b-08451f6a2098)
+**发布时间**: 2026-06-05 04:00
+
+#### [PwC cuts partner payouts in China Evergrande fallout](https://www.ft.com/content/b098c3ad-b372-4ae4-ba4b-5e73031ccae8)
+**发布时间**: 2026-06-05 04:00
+
+#### [Trump lawyers refuse to reveal financial information to BBC in $10bn lawsuit](https://www.ft.com/content/d2a04386-82ca-4399-9e0d-0f263c7c7c41)
+**发布时间**: 2026-06-05 04:00
 
 ---
 

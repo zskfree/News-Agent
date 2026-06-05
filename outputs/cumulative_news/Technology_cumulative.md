@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-05 00:11
+**最后更新时间**: 2026-06-05 08:46
+
+---
+
+## 🆕 最新更新 (2026-06-05 08:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [openJiuwen 社区又上新： JiuwenSwarm 给 Harness 装上「后训练」](https://www.infoq.cn/article/lk4PwQKXhgPSlM7a8ACU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 16:27
+
+#### [从流水线到蜂巢：AI 时代企业组织如何进化](https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 14:41
+
+#### [超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势](https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 13:53
+
+#### [Node.js 从 27 版本开始改为每年发布一个大版本](https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 12:00
+
+#### [我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统](https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 10:54
+
+#### [阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践](https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 10:00
+
+#### [DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析](https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 09:35
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [撕开漂亮饭的千亿谎言](https://www.tmtpost.com/8016195.html)
+**发布时间**: 2026-06-05 16:25
+
+#### [大模型“双雄”回A记](https://www.tmtpost.com/8016280.html)
+**发布时间**: 2026-06-05 16:11
+
+#### [小红书的乌托邦，装不下商业化](https://www.tmtpost.com/8016479.html)
+**发布时间**: 2026-06-05 16:03
+
+#### [万豪在华开启非标“大收编”](https://www.tmtpost.com/8016051.html)
+**发布时间**: 2026-06-05 15:59
+
+#### [人们不需要天涯](https://www.tmtpost.com/8015953.html)
+**发布时间**: 2026-06-05 15:53
+
+#### [从单药到生态构建：解构BMS的布棋之道](https://www.tmtpost.com/8013999.html)
+**发布时间**: 2026-06-05 15:46
+
+#### [三星电子：韩国不大，又一个神话？](https://www.tmtpost.com/8015453.html)
+**发布时间**: 2026-06-05 15:46
+
+#### [AI Agent越复杂，亏损可能越稳定](https://www.tmtpost.com/8016401.html)
+**发布时间**: 2026-06-05 15:43
+
+#### [5年的极限拉扯，特斯拉在印度建厂计划为什么迟迟不落地？](https://www.tmtpost.com/8016184.html)
+**发布时间**: 2026-06-05 15:24
+
+#### [拓竹Orca风波：比做产品更难的，是话语权的争夺](https://www.tmtpost.com/8010769.html)
+**发布时间**: 2026-06-05 15:17
+
+#### [ChatGPT以梦为笔](https://www.tmtpost.com/8016359.html)
+**发布时间**: 2026-06-05 15:12
+
+#### [SNEC 2026：系统、AI、场景，光储龙头“分道赛马”的新战局，谁主沉浮？](https://www.tmtpost.com/8016297.html)
+**发布时间**: 2026-06-05 15:12
+
+#### [商场招商，败给了“八字不合”](https://www.tmtpost.com/8016288.html)
+**发布时间**: 2026-06-05 15:11
+
+#### [Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？](https://www.tmtpost.com/8016357.html)
+**发布时间**: 2026-06-05 14:55
+
+#### [王兴：我选择AI作为我的解药](https://www.tmtpost.com/8016339.html)
+**发布时间**: 2026-06-05 14:55
+
+#### [2026智博会观察：告别参数崇拜，AI在场景里“掘金”](https://www.tmtpost.com/8016328.html)
+**发布时间**: 2026-06-05 13:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [再谈响度战争：为什么你看的视频越来越「吵」了？](https://sspai.com/post/109483)
+**发布时间**: 2026-06-05 15:21
+
+#### [WWDC26 开幕在即，今年有哪些看点值得关注？](https://sspai.com/post/110669)
+**发布时间**: 2026-06-05 11:45
+
+#### [派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
+**发布时间**: 2026-06-05 08:52
 
 ---
 
