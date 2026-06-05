@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-04 08:52
+**最后更新时间**: 2026-06-05 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mountbatten-Windsor earned rent by subletting Royal Lodge properties](https://www.ft.com/content/4b52f54d-9773-401b-bb1d-fc8f56cb3d5d)
+**发布时间**: 2026-06-04 23:01
+
+#### [Burnham confirms he will seek to replace Starmer as UK prime minister](https://www.ft.com/content/40881578-9d19-4edc-a6f5-544190ccaf59)
+**发布时间**: 2026-06-04 22:21
+
+#### [US National Security Agency using Anthropic’s Mythos for cyber attacks](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815)
+**发布时间**: 2026-06-04 18:48
+
+#### [Bitcoin tumbles after Strategy sale unnerves crypto traders](https://www.ft.com/content/06bb85c7-ab3c-4cc2-bdcf-679976b6e901)
+**发布时间**: 2026-06-04 18:46
+
+#### [Tech groups find a new way to monetise AI hype: selling volatility](https://www.ft.com/content/d6c1b19e-f28d-404c-b9c3-62f43848b9c1)
+**发布时间**: 2026-06-04 17:36
+
+#### [Blackstone caps withdrawals from flagship private credit fund](https://www.ft.com/content/4eca0255-27e7-47cc-8ebf-c9cc00c62e29)
+**发布时间**: 2026-06-04 16:07
+
+#### [SpaceX IPO shows Musk’s genius is in mythmaking](https://www.ft.com/content/625ae455-3b7b-454e-82f3-b22414459cc0)
+**发布时间**: 2026-06-04 15:40
+
+#### [Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030](https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4)
+**发布时间**: 2026-06-04 14:50
+
+#### [Europe is finally flexing its innovation muscles](https://www.ft.com/content/326aa9fd-dcb3-4e3b-a775-61b28e7e12f6)
+**发布时间**: 2026-06-04 13:50
+
+#### [Americans lead AI data centre backlash, global poll finds](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852)
+**发布时间**: 2026-06-04 09:00
+
+#### [Trump’s pledge to unleash a ‘golden age’ of US manufacturing sputters](https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f)
+**发布时间**: 2026-06-04 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This investing strategy digs deeper to find hidden stocks riding the AI wave](https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:56
+
+#### [I’m 55, married and want a $1.5 million long-term care policy. Do I get a traditional or hybrid?](https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:51
+
+#### [Marvell looks poised to finally get a spot in the S&P 500 after explosive stock surge](https://www.marketwatch.com/story/marvell-looks-poised-to-finally-get-a-spot-in-the-s-p-500-after-explosive-stock-surge-02d952c6?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:50
+
+#### [South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat](https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:40
+
+#### [I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?](https://www.marketwatch.com/story/my-older-sister-and-i-co-own-a-home-where-my-son-lives-what-happens-if-she-dies-2913b928?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:30
+
+#### [Lululemon’s fight with its founder has been bad enough to hurt sales for the entire year](https://www.marketwatch.com/story/lululemon-admits-far-more-work-is-needed-for-a-turnaround-and-its-stock-sinks-e28c5618?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:30
+
+#### [Bitcoin’s sagging price has crypto bears taking a victory lap. Why it’s too soon to count it out.](https://www.marketwatch.com/story/bitcoins-sagging-price-has-crypto-bears-taking-a-victory-lap-why-its-too-soon-to-count-it-out-edf1d8d8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 22:29
+
+#### [‘This is a tricky subject’: We’re in our 70s and our only child is 40. Do we reveal that we’re leaving her everything?](https://www.marketwatch.com/story/it-makes-us-feel-uncomfortable-were-in-our-70s-and-our-only-child-is-40-do-we-tell-her-were-leaving-her-everything-28421776?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 21:49
+
+#### [Quantinuum’s buzzy IPO ends with a whimper as stock gives back early gains](https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-04 21:13
 
 ---
 

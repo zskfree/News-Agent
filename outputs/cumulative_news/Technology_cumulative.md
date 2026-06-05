@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-04 08:52
+**最后更新时间**: 2026-06-05 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】6G创新发展部省协同试点专项行动将启动；微信回应与华为小米等合作；SpaceX已启动IPO路演，预计每股价格为135美元](https://www.tmtpost.com/8015431.html)
+**发布时间**: 2026-06-05 07:20
+
+#### [罗曼股份业务重构进行时，2.93亿定增持续加码算力业务](https://www.tmtpost.com/8015174.html)
+**发布时间**: 2026-06-04 19:33
+
+#### [大厂AI的三笔糊涂账](https://www.tmtpost.com/8014637.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [当“技术极客”戴上流量的帽子](https://www.tmtpost.com/8014166.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘](https://www.tmtpost.com/8014147.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [商超大变局："卡卡西派"站上行业舞台](https://www.tmtpost.com/8014657.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [顾全全离开字节Seed，豆包收费是一条暗线](https://www.tmtpost.com/8014663.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [Codex与ChatGPT合并，编程工具大洗牌开始了](https://www.tmtpost.com/8014673.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [霍尼韦尔重注押宝，史上最大量子IPO来了](https://www.tmtpost.com/8014689.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [最贵的AI，最先赚到了钱](https://www.tmtpost.com/8014855.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [争夺AI手机入口，豆包和微信打起来了](https://www.tmtpost.com/8014776.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [英伟达RTX Spark亮相：老黄重新发明PC？](https://www.tmtpost.com/8014815.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [6300亿，创投圈最大金主换人了](https://www.tmtpost.com/8014834.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [腾讯AI，怎么胆大起来了？](https://www.tmtpost.com/8014867.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [巨头开始“烧不动Token”了](https://www.tmtpost.com/8015140.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [运营商卖Token，AI行业进入全面收割期？](https://www.tmtpost.com/8015039.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [Alibaba's Amap Brings Its Street-Level Business Rankings to Singapore](https://www.tmtpost.com/8015051.html)
+**发布时间**: 2026-06-04 16:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
+**发布时间**: 2026-06-04 19:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？](https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 18:51
+
+#### [AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”](https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 18:44
+
+#### [3 个维度说清楚，工具型产品如何成为 AI 原生产品](https://www.infoq.cn/video/Cive5P8EQzbhJqFiruWZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:57
+
+#### [别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？](https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:56
+
+#### [刚刚，这款国产模型登顶 Artificial Analysis 输出速度榜榜首](https://www.infoq.cn/article/LxqvV7TqKRi72MksLTd9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:52
+
+#### [数据库告警看不懂？DBbrain 内核级诊断，秒出根因](https://www.infoq.cn/video/LhHiqfEGRFMwlQKPHQ76?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:40
+
+#### [OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件](https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:33
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [腾讯开源了 Agent Memory，让 AI  真正记住你。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534267&idx=1&sn=cc92df3cbc59e8ec0b3e8affb37e222e)
+**发布时间**: 2026-06-04 12:07
 
 ---
 
