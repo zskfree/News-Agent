@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-05 08:46
+**最后更新时间**: 2026-06-06 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-06 00:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff](https://www.marketwatch.com/story/s-p-500-sees-1-8-trillion-wipeout-nasdaq-tallies-biggest-point-drop-on-record-heres-what-investors-need-to-know-about-fridays-selloff-4eb7b490?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 22:27
+
+#### [‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?](https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 22:07
+
+#### [We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?](https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 22:07
+
+#### [Bitcoin is suffering from an ‘attention’ deficit, as momentum traders have moved on](https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:58
+
+#### [‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?](https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:30
+
+#### [Marvell gets a spot in the S&P 500 — along with this data-center play](https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:27
+
+#### [First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.](https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:15
+
+#### [These stocks fell the most Friday as Big Tech took a dive](https://www.marketwatch.com/story/these-stocks-fell-the-most-friday-as-big-tech-took-a-dive-bf692616?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:10
+
+#### [Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years](https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-05 21:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties](https://www.ft.com/content/4d802a0e-32c2-49c3-aa57-d50afd123938)
+**发布时间**: 2026-06-05 21:54
+
+#### [SpaceX signs $30bn deal to lease computing capacity to Google](https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626)
+**发布时间**: 2026-06-05 21:21
+
+#### [Nasdaq tumbles 4% as shares in chip and memory groups sink](https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603)
+**发布时间**: 2026-06-05 20:48
+
+#### [Inside the CBS mutiny against Bari Weiss and David Ellison](https://www.ft.com/content/6b54109c-cc81-4b2c-961d-9ef91b38aa4c)
+**发布时间**: 2026-06-05 20:22
+
+#### [Trump says US may take equity stakes in AI companies](https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400)
+**发布时间**: 2026-06-05 20:22
+
+#### [Investors boost bets for Fed rate rise after bumper US jobs report](https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493)
+**发布时间**: 2026-06-05 20:07
+
+#### [Meta weighs big equity raising after blockbuster Google deal](https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd)
+**发布时间**: 2026-06-05 18:12
+
+#### [US demands tougher rules for car parts in Mexico trade talks](https://www.ft.com/content/e1a1f02e-a55d-442d-a51f-000c33173dcd)
+**发布时间**: 2026-06-05 17:37
+
+#### [Trump-run Kennedy Center took $2mn from ‘fake CIA operative’, lawsuit alleges](https://www.ft.com/content/7ab5f0e4-cd4a-4c0f-9122-b0f0f7222e90)
+**发布时间**: 2026-06-05 14:56
+
+#### [My returns have been exponential — no, seriously!](https://www.ft.com/content/127f11bc-e29a-4a2a-ba33-b729b39b838a)
+**发布时间**: 2026-06-05 09:52
 
 ---
 

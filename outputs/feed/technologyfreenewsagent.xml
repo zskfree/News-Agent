@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Jun 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 08:46:09 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 00:09:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:09:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统</title>
-      <link>https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树、智元的线下门店叙事：具身智能正迈进商业周期</title>
+      <link>https://www.tmtpost.com/8016837.html</link>
+      <description>&lt;![CDATA[宇树、智元的线下门店叙事：具身智能正迈进商业周期]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016837.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026智博会观察：告别参数崇拜，AI在场景里“掘金”</title>
-      <link>https://www.tmtpost.com/8016328.html</link>
-      <description>&lt;![CDATA[2026智博会观察：告别参数崇拜，AI在场景里“掘金”]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016328.html</guid>
+      <title>AI要自己造AI了？Anthropic最新暴论，到底有多真？</title>
+      <link>https://www.tmtpost.com/8016791.html</link>
+      <description>&lt;![CDATA[AI要自己造AI了？Anthropic最新暴论，到底有多真？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016791.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践</title>
-      <link>https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从流水线到蜂巢：AI 时代企业组织如何进化</title>
+      <link>https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从流水线到蜂巢：AI 时代企业组织如何进化]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Agent越复杂，亏损可能越稳定</title>
-      <link>https://www.tmtpost.com/8016401.html</link>
-      <description>&lt;![CDATA[AI Agent越复杂，亏损可能越稳定]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016401.html</guid>
+      <title>架构变更案例：面向演进式架构的实用方法</title>
+      <link>https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[架构变更案例：面向演进式架构的实用方法]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>±0.05mm精度的矿用机器人守得住险境，却守不住盈利</title>
+      <link>https://www.tmtpost.com/8016658.html</link>
+      <description>&lt;![CDATA[±0.05mm精度的矿用机器人守得住险境，却守不住盈利]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016658.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析</title>
-      <link>https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>5年的极限拉扯，特斯拉在印度建厂计划为什么迟迟不落地？</title>
+      <link>https://www.tmtpost.com/8016184.html</link>
+      <description>&lt;![CDATA[5年的极限拉扯，特斯拉在印度建厂计划为什么迟迟不落地？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016184.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Node.js 从 27 版本开始改为每年发布一个大版本</title>
-      <link>https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js 从 27 版本开始改为每年发布一个大版本]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拓竹Orca风波：比做产品更难的，是话语权的争夺</title>
+      <link>https://www.tmtpost.com/8010769.html</link>
+      <description>&lt;![CDATA[拓竹Orca风波：比做产品更难的，是话语权的争夺]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010769.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WWDC26 开幕在即，今年有哪些看点值得关注？</title>
-      <link>https://sspai.com/post/110669</link>
-      <description>&lt;![CDATA[WWDC26 开幕在即，今年有哪些看点值得关注？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110669</guid>
+      <title>SNEC 2026：系统、AI、场景，光储龙头“分道赛马”的新战局，谁主沉浮？</title>
+      <link>https://www.tmtpost.com/8016297.html</link>
+      <description>&lt;![CDATA[SNEC 2026：系统、AI、场景，光储龙头“分道赛马”的新战局，谁主沉浮？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016297.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？</title>
-      <link>https://www.tmtpost.com/8016357.html</link>
-      <description>&lt;![CDATA[Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016357.html</guid>
+      <title>macOS 存储管理漫谈：去重是节约空间的最好方法</title>
+      <link>https://sspai.com/prime/story/macos-storage-management-deduplication</link>
+      <description>&lt;![CDATA[macOS 存储管理漫谈：去重是节约空间的最好方法]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/prime/story/macos-storage-management-deduplication</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>王兴：我选择AI作为我的解药</title>
-      <link>https://www.tmtpost.com/8016339.html</link>
-      <description>&lt;![CDATA[王兴：我选择AI作为我的解药]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016339.html</guid>
+      <title>再谈响度战争：为什么你看的视频越来越「吵」了？</title>
+      <link>https://sspai.com/post/109483</link>
+      <description>&lt;![CDATA[再谈响度战争：为什么你看的视频越来越「吵」了？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/109483</guid>
       <category>Technology</category>
     </item>
   </channel>
