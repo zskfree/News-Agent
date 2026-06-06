@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Jun 2026 00:09:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2026 00:09:45 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 07:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:48:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宇树、智元的线下门店叙事：具身智能正迈进商业周期</title>
-      <link>https://www.tmtpost.com/8016837.html</link>
-      <description>&lt;![CDATA[宇树、智元的线下门店叙事：具身智能正迈进商业周期]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016837.html</guid>
+      <title>砍掉独立编码器：Gemma 4 12B推翻多模态&quot;拼接设计&quot;</title>
+      <link>https://www.tmtpost.com/8017427.html</link>
+      <description>&lt;![CDATA[砍掉独立编码器：Gemma 4 12B推翻多模态&quot;拼接设计&quot;]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017427.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI要自己造AI了？Anthropic最新暴论，到底有多真？</title>
-      <link>https://www.tmtpost.com/8016791.html</link>
-      <description>&lt;![CDATA[AI要自己造AI了？Anthropic最新暴论，到底有多真？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016791.html</guid>
+      <title>Agent接管流量分发权，腾讯、字节、阿里在抢什么？</title>
+      <link>https://www.tmtpost.com/8017256.html</link>
+      <description>&lt;![CDATA[Agent接管流量分发权，腾讯、字节、阿里在抢什么？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017256.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从流水线到蜂巢：AI 时代企业组织如何进化</title>
-      <link>https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从流水线到蜂巢：AI 时代企业组织如何进化]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具</title>
+      <link>https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>架构变更案例：面向演进式架构的实用方法</title>
-      <link>https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[架构变更案例：面向演进式架构的实用方法]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华为云不打Token价格战，周跃峰要给AI云换一个赢的方式</title>
+      <link>https://www.tmtpost.com/8017599.html</link>
+      <description>&lt;![CDATA[华为云不打Token价格战，周跃峰要给AI云换一个赢的方式]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017599.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>±0.05mm精度的矿用机器人守得住险境，却守不住盈利</title>
-      <link>https://www.tmtpost.com/8016658.html</link>
-      <description>&lt;![CDATA[±0.05mm精度的矿用机器人守得住险境，却守不住盈利]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016658.html</guid>
+      <title>汤道生对谈姚顺雨：腾讯AI下半场10个关键思考</title>
+      <link>https://www.tmtpost.com/8017101.html</link>
+      <description>&lt;![CDATA[汤道生对谈姚顺雨：腾讯AI下半场10个关键思考]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017101.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5年的极限拉扯，特斯拉在印度建厂计划为什么迟迟不落地？</title>
-      <link>https://www.tmtpost.com/8016184.html</link>
-      <description>&lt;![CDATA[5年的极限拉扯，特斯拉在印度建厂计划为什么迟迟不落地？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016184.html</guid>
+      <title>解禁启动，3000亿摩尔线程迎来压力测试</title>
+      <link>https://www.tmtpost.com/8017223.html</link>
+      <description>&lt;![CDATA[解禁启动，3000亿摩尔线程迎来压力测试]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017223.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拓竹Orca风波：比做产品更难的，是话语权的争夺</title>
-      <link>https://www.tmtpost.com/8010769.html</link>
-      <description>&lt;![CDATA[拓竹Orca风波：比做产品更难的，是话语权的争夺]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8010769.html</guid>
+      <title>英伟达给联想递了张「牌」</title>
+      <link>https://www.tmtpost.com/8016993.html</link>
+      <description>&lt;![CDATA[英伟达给联想递了张「牌」]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016993.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SNEC 2026：系统、AI、场景，光储龙头“分道赛马”的新战局，谁主沉浮？</title>
-      <link>https://www.tmtpost.com/8016297.html</link>
-      <description>&lt;![CDATA[SNEC 2026：系统、AI、场景，光储龙头“分道赛马”的新战局，谁主沉浮？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016297.html</guid>
+      <title>光刻版图，马上变天？</title>
+      <link>https://www.tmtpost.com/8016989.html</link>
+      <description>&lt;![CDATA[光刻版图，马上变天？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016989.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>macOS 存储管理漫谈：去重是节约空间的最好方法</title>
-      <link>https://sspai.com/prime/story/macos-storage-management-deduplication</link>
-      <description>&lt;![CDATA[macOS 存储管理漫谈：去重是节约空间的最好方法]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/prime/story/macos-storage-management-deduplication</guid>
+      <title>上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考</title>
+      <link>https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>再谈响度战争：为什么你看的视频越来越「吵」了？</title>
-      <link>https://sspai.com/post/109483</link>
-      <description>&lt;![CDATA[再谈响度战争：为什么你看的视频越来越「吵」了？]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/109483</guid>
+      <title>AIDC储能放量起势，谁已悄悄冲在了最前面？</title>
+      <link>https://www.tmtpost.com/8017585.html</link>
+      <description>&lt;![CDATA[AIDC储能放量起势，谁已悄悄冲在了最前面？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017585.html</guid>
       <category>Technology</category>
     </item>
   </channel>

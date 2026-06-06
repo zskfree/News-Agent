@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-06 00:09
+**最后更新时间**: 2026-06-06 07:48
+
+---
+
+## 🆕 最新更新 (2026-06-06 07:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The power games that paved the way for Trump’s World Cup](https://www.ft.com/content/8b74a6d7-899e-41d0-8ecd-4664dd33aa9a)
+**发布时间**: 2026-06-06 04:00
+
+#### [Wasting China’s solar panel surplus is madness](https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407)
+**发布时间**: 2026-06-06 04:00
+
+#### [Can AI save a company’s soul?](https://www.ft.com/content/bad7c845-d7b5-45eb-acb1-1299ccd9dacf)
+**发布时间**: 2026-06-06 04:00
+
+#### [US and Iran exchange strikes in new threat to shaky ceasefire](https://www.ft.com/content/ea62e338-1730-4fdd-996c-efcfe36561bf)
+**发布时间**: 2026-06-06 03:54
 
 ---
 

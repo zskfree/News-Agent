@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f22a0012b587263f771d8bbabe17ec98151c8806ca11d1be0d01b214dc1dd75a": {
-        "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
-        "link": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 15:29:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566012"
-      },
-      "17d424d14e0af36d045e44e9688fcc801c87f407ec58e7a9d39f350d21bbf97b": {
-        "title": "Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险",
-        "link": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 15:02:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566019"
-      },
-      "04cfff64b9c373629ba3b87b3fe8daa7e74dc157348f21126eb98fc80b51ecbb": {
-        "title": "英伟达入场！4亿美元融资背后，RISC-V迎来春天",
-        "link": "https://www.tmtpost.com/7978288.html",
-        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566021"
-      },
-      "3e9d80a3fd029c4222161d44d577e927a35ba25afe9071fc88bc6314dfe95965": {
-        "title": "硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！",
-        "link": "https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 07 May 2026 14:58:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566023"
-      },
-      "d89511eb2dfa1ffd2642814e243a9710f72aa21fe5c443166e7683e2e331b59c": {
-        "title": "关节突围：中国具身智能减速器“爆单”",
-        "link": "https://www.tmtpost.com/7978543.html",
-        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
-        "first_seen": "2026-05-07T07:45:07.566024"
-      },
       "b57ac7e5d22028e3e2a037acd1fdebe611042c51ac6e8eff088f5e57aa446278": {
         "title": "传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道",
         "link": "http://www.geekpark.net/news/363775",
@@ -2761,39 +2731,69 @@
         "link": "https://sspai.com/post/109483",
         "published_date": "Fri, 05 Jun 2026 15:21:00 GMT",
         "first_seen": "2026-06-06T00:09:45.799566"
+      },
+      "f771d2161cb2ba3fb0ce5d3f7c463c82d38200eab9aa457e320335d934556b1d": {
+        "title": "砍掉独立编码器：Gemma 4 12B推翻多模态\"拼接设计\"",
+        "link": "https://www.tmtpost.com/8017427.html",
+        "published_date": "Sat, 06 Jun 2026 11:22:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350412"
+      },
+      "b380efc9e5881c477eb01a331d956f0fe42726660e7069a021fa70476ab1a4b2": {
+        "title": "Agent接管流量分发权，腾讯、字节、阿里在抢什么？",
+        "link": "https://www.tmtpost.com/8017256.html",
+        "published_date": "Sat, 06 Jun 2026 11:05:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350418"
+      },
+      "a50b9dc1ff73d810359551c9961e03722c9ae0b9b25f522ff3b36290ffb4abd9": {
+        "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 06 Jun 2026 09:00:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350421"
+      },
+      "54c2f10960c79e33c6a49e858c678a94c8468564082ab8a78dd14ade8e39cafe": {
+        "title": "华为云不打Token价格战，周跃峰要给AI云换一个赢的方式",
+        "link": "https://www.tmtpost.com/8017599.html",
+        "published_date": "Sat, 06 Jun 2026 13:39:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350423"
+      },
+      "ea64a04678e1434e490a4691f9f75fd47b21bc51fb7eb000cef5994f4de88933": {
+        "title": "汤道生对谈姚顺雨：腾讯AI下半场10个关键思考",
+        "link": "https://www.tmtpost.com/8017101.html",
+        "published_date": "Sat, 06 Jun 2026 10:28:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350425"
+      },
+      "eb8629c6a2cdb1cd163c842d13fba2edc02726c4bfb7d17ca5d119841abf40e8": {
+        "title": "解禁启动，3000亿摩尔线程迎来压力测试",
+        "link": "https://www.tmtpost.com/8017223.html",
+        "published_date": "Sat, 06 Jun 2026 11:05:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350426"
+      },
+      "420f5a29bc5e2a0303699e847cf788ab9cab084a36260e59f3d36c34b9ce70e0": {
+        "title": "英伟达给联想递了张「牌」",
+        "link": "https://www.tmtpost.com/8016993.html",
+        "published_date": "Sat, 06 Jun 2026 10:37:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350428"
+      },
+      "9787da9d1f9d9268d8160f52dfe6d2acbb587a60e3b9709ec25707b38e1806b7": {
+        "title": "光刻版图，马上变天？",
+        "link": "https://www.tmtpost.com/8016989.html",
+        "published_date": "Sat, 06 Jun 2026 10:05:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350429"
+      },
+      "84f3ea857ad7625dd9610af48f28f406d23bf21c34dfd5247821900d233c4e61": {
+        "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "link": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 06 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350430"
+      },
+      "f94194ab6869f5415304b230bb1a3db64c523719534363c61d8522f2ebcf2b8a": {
+        "title": "AIDC储能放量起势，谁已悄悄冲在了最前面？",
+        "link": "https://www.tmtpost.com/8017585.html",
+        "published_date": "Sat, 06 Jun 2026 11:38:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.350432"
       }
     },
     "Finance": {
-      "2e4863c407e18e592a108f1608a8c4f9452441580ac08cd0b5748e826114afca": {
-        "title": "Global stocks rise on hopes of US-Iran deal",
-        "link": "https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e",
-        "published_date": "Thu, 07 May 2026 05:08:00 GMT",
-        "first_seen": "2026-05-07T07:44:35.043507"
-      },
-      "8f9e98aa9a9922dd1ed76ec285bd4bd4604d11518c95b9e939138107fa3a4373": {
-        "title": "Tech rally hands hedge funds biggest gains since 2020",
-        "link": "https://www.ft.com/content/df76569d-a840-42c4-8580-2d98bf1a16ce",
-        "published_date": "Thu, 07 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-07T07:44:35.043520"
-      },
-      "780a2db3c15f83f6e80e76ec7891893238787f78a7465b1bddd80ffbeffd1dbc": {
-        "title": "SoftBank shares surge as investors rush back into tech stocks",
-        "link": "https://www.ft.com/content/ecaf9ade-9838-43e8-b581-7ef0d7e7811b",
-        "published_date": "Thu, 07 May 2026 07:12:00 GMT",
-        "first_seen": "2026-05-07T07:44:35.043523"
-      },
-      "17682ccbdb0441c0c46cb0532bed939e1b109798ef8b53eb012d1db5f4989eea": {
-        "title": "Shell’s profits jump as Iran war delivers windfall",
-        "link": "https://www.ft.com/content/4240b801-e680-4359-9962-7afe295e8e3e",
-        "published_date": "Thu, 07 May 2026 07:04:00 GMT",
-        "first_seen": "2026-05-07T07:44:35.043525"
-      },
-      "b554c307ca6b7a56731b6088ab521ce9700bf22d3771e7b704834517f7c54d01": {
-        "title": "Apple, Berkshire and the virtue of patience",
-        "link": "https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6",
-        "published_date": "Thu, 07 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-07T07:44:35.043526"
-      },
       "8a11bbad4d479861cb26891a05cbace2343bfd6c9514850122e2d00a7bcbc549": {
         "title": "Two funds run by Blue Owl are cutting their dividend — and one sold half its SpaceX stake before IPO",
         "link": "https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories",
@@ -5217,39 +5217,33 @@
         "link": "https://www.ft.com/content/4d802a0e-32c2-49c3-aa57-d50afd123938",
         "published_date": "Fri, 05 Jun 2026 21:54:00 GMT",
         "first_seen": "2026-06-06T00:09:46.894066"
+      },
+      "667d3b274df69f56ec34d79d835964515885e6092d64a890a454ff76e181b660": {
+        "title": "The power games that paved the way for Trump’s World Cup",
+        "link": "https://www.ft.com/content/8b74a6d7-899e-41d0-8ecd-4664dd33aa9a",
+        "published_date": "Sat, 06 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.395382"
+      },
+      "9467865dfb2f11eed18c7ba01bcdc0da2a775616b8dc49dd665b8fe08d1b51ab": {
+        "title": "Wasting China’s solar panel surplus is madness",
+        "link": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407",
+        "published_date": "Sat, 06 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.395388"
+      },
+      "d893adfd5952faf23af000318ced35f8e16e196dcb5bb89ac0c8087bfcd78ae3": {
+        "title": "Can AI save a company’s soul?",
+        "link": "https://www.ft.com/content/bad7c845-d7b5-45eb-acb1-1299ccd9dacf",
+        "published_date": "Sat, 06 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.395390"
+      },
+      "1d6fb3447bb9176e934e0eb7c095976a82d1822fd76cc036325075494152ed6f": {
+        "title": "US and Iran exchange strikes in new threat to shaky ceasefire",
+        "link": "https://www.ft.com/content/ea62e338-1730-4fdd-996c-efcfe36561bf",
+        "published_date": "Sat, 06 Jun 2026 03:54:00 GMT",
+        "first_seen": "2026-06-06T07:48:46.395392"
       }
     },
     "Ai": {
-      "a765316395f4dee0598b4bc5fdc865362e50138c3e74de7aee22a5d559a8d8d5": {
-        "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
-        "link": "https://www.qbitai.com/2026/05/413604.html",
-        "published_date": "Thu, 07 May 2026 04:36:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.896994"
-      },
-      "95fc7fc02ae828be0b1bd81dff53146111283eaa45736e6bc406a20ee08b4180": {
-        "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
-        "link": "https://www.qbitai.com/2026/05/413569.html",
-        "published_date": "Thu, 07 May 2026 01:13:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897001"
-      },
-      "046eb186198cdfe0864bfebaad743386b3a7bf9d78d8f8e381b9e14db6e4020f": {
-        "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-        "link": "https://www.qbitai.com/2026/05/413613.html",
-        "published_date": "Thu, 07 May 2026 06:29:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897003"
-      },
-      "094875b77dc8239aa6b15ed614a883514584d31cdcc6b9e0fe44437c90d75c1f": {
-        "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-        "link": "https://www.qbitai.com/2026/05/413782.html",
-        "published_date": "Thu, 07 May 2026 06:35:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897005"
-      },
-      "7a1b93e4a9c63e253b646615282587828f3921376835092d004ebf9958c6ad31": {
-        "title": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家",
-        "link": "https://www.qbitai.com/2026/05/413591.html",
-        "published_date": "Thu, 07 May 2026 02:46:00 GMT",
-        "first_seen": "2026-05-07T07:44:45.897006"
-      },
       "f1c8e71b95f5611c46d6bf026e37e6987979fd394a37689b8da505086ec153c6": {
         "title": "2026-05-07日刊",
         "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
@@ -7151,13 +7145,25 @@
         "link": "https://www.leiphone.com/category/industrynews/qSkgFVNBfMkyDldg.html",
         "published_date": "Fri, 05 Jun 2026 16:01:00 GMT",
         "first_seen": "2026-06-06T00:09:44.739257"
+      },
+      "4279ab22e362bceae598a82f4790c5d36010c537c1f5e4d46e3a41a4722f4274": {
+        "title": "2026-06-06日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-06/",
+        "published_date": "Sat, 06 Jun 2026 10:46:00 GMT",
+        "first_seen": "2026-06-06T07:48:45.167579"
+      },
+      "145ff1c453be11e3bfec67a7a66d6539698ee2a07a2243152a9f518712e840e6": {
+        "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+        "link": "https://www.qbitai.com/2026/06/431056.html",
+        "published_date": "Sat, 06 Jun 2026 03:35:00 GMT",
+        "first_seen": "2026-06-06T07:48:45.167589"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-06T00:09:45.799569",
-    "Finance": "2026-06-06T00:09:46.894068",
-    "Ai": "2026-06-06T00:09:44.739260"
+    "Technology": "2026-06-06T07:48:46.350434",
+    "Finance": "2026-06-06T07:48:46.395396",
+    "Ai": "2026-06-06T07:48:45.167592"
   }
 }
