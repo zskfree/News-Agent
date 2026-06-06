@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Jun 2026 07:48:00 GMT</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2026 07:48:46 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 10:07:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:07:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>砍掉独立编码器：Gemma 4 12B推翻多模态&quot;拼接设计&quot;</title>
-      <link>https://www.tmtpost.com/8017427.html</link>
-      <description>&lt;![CDATA[砍掉独立编码器：Gemma 4 12B推翻多模态&quot;拼接设计&quot;]]&gt;</description>
+      <title>新势力车企，正在悄悄变成一家AI公司</title>
+      <link>https://www.tmtpost.com/8017671.html</link>
+      <description>&lt;![CDATA[新势力车企，正在悄悄变成一家AI公司]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017671.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI会梦到Anthropic吗？</title>
+      <link>https://www.tmtpost.com/8017330.html</link>
+      <description>&lt;![CDATA[OpenAI会梦到Anthropic吗？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017330.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？</title>
+      <link>https://www.tmtpost.com/8017669.html</link>
+      <description>&lt;![CDATA[一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017669.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>姚顺雨，给出腾讯AI“隆中对”</title>
+      <link>https://www.tmtpost.com/8017576.html</link>
+      <description>&lt;![CDATA[姚顺雨，给出腾讯AI“隆中对”]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017576.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>华为牵手国网辽宁干了件大事</title>
+      <link>https://www.tmtpost.com/8017504.html</link>
+      <description>&lt;![CDATA[华为牵手国网辽宁干了件大事]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017504.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处</title>
+      <link>https://sspai.com/post/110763</link>
+      <description>&lt;![CDATA[2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110763</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534341&amp;idx=1&amp;sn=6955eb57829cafee5f82c0a7b0b2d6d1</link>
+      <description>&lt;![CDATA[让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534341&amp;idx=1&amp;sn=6955eb57829cafee5f82c0a7b0b2d6d1</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>赛力斯牵手字节跳动，能复制问界吗？</title>
+      <link>https://www.tmtpost.com/8017566.html</link>
+      <description>&lt;![CDATA[赛力斯牵手字节跳动，能复制问界吗？]]&gt;</description>
+      <pubDate>Sat, 06 Jun 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017566.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从港股千元股到备战科创板，MiniMax暗藏资本“阳谋”</title>
+      <link>https://www.tmtpost.com/8017424.html</link>
+      <description>&lt;![CDATA[从港股千元股到备战科创板，MiniMax暗藏资本“阳谋”]]&gt;</description>
       <pubDate>Sat, 06 Jun 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017427.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017424.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent接管流量分发权，腾讯、字节、阿里在抢什么？</title>
-      <link>https://www.tmtpost.com/8017256.html</link>
-      <description>&lt;![CDATA[Agent接管流量分发权，腾讯、字节、阿里在抢什么？]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017256.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具</title>
-      <link>https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>华为云不打Token价格战，周跃峰要给AI云换一个赢的方式</title>
-      <link>https://www.tmtpost.com/8017599.html</link>
-      <description>&lt;![CDATA[华为云不打Token价格战，周跃峰要给AI云换一个赢的方式]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 13:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017599.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>汤道生对谈姚顺雨：腾讯AI下半场10个关键思考</title>
-      <link>https://www.tmtpost.com/8017101.html</link>
-      <description>&lt;![CDATA[汤道生对谈姚顺雨：腾讯AI下半场10个关键思考]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017101.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>解禁启动，3000亿摩尔线程迎来压力测试</title>
-      <link>https://www.tmtpost.com/8017223.html</link>
-      <description>&lt;![CDATA[解禁启动，3000亿摩尔线程迎来压力测试]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017223.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>英伟达给联想递了张「牌」</title>
-      <link>https://www.tmtpost.com/8016993.html</link>
-      <description>&lt;![CDATA[英伟达给联想递了张「牌」]]&gt;</description>
+      <title>一季度减亏之后，美团还无法彻底松口气</title>
+      <link>https://www.tmtpost.com/8016982.html</link>
+      <description>&lt;![CDATA[一季度减亏之后，美团还无法彻底松口气]]&gt;</description>
       <pubDate>Sat, 06 Jun 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016993.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>光刻版图，马上变天？</title>
-      <link>https://www.tmtpost.com/8016989.html</link>
-      <description>&lt;![CDATA[光刻版图，马上变天？]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 10:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016989.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考</title>
-      <link>https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AIDC储能放量起势，谁已悄悄冲在了最前面？</title>
-      <link>https://www.tmtpost.com/8017585.html</link>
-      <description>&lt;![CDATA[AIDC储能放量起势，谁已悄悄冲在了最前面？]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017585.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016982.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-06 07:48
+**最后更新时间**: 2026-06-06 10:07
+
+---
+
+## 🆕 最新更新 (2026-06-06 10:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新势力车企，正在悄悄变成一家AI公司](https://www.tmtpost.com/8017671.html)
+**发布时间**: 2026-06-06 17:08
+
+#### [Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型](https://www.tmtpost.com/8017665.html)
+**发布时间**: 2026-06-06 17:06
+
+#### [一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？](https://www.tmtpost.com/8017669.html)
+**发布时间**: 2026-06-06 17:06
+
+#### [哈根达斯“下嫁”柠季，千亿冰淇淋市场，迎来搅局者](https://www.tmtpost.com/8017608.html)
+**发布时间**: 2026-06-06 17:02
+
+#### [银发留学：教育的“皮”，文旅的“骨”](https://www.tmtpost.com/8017600.html)
+**发布时间**: 2026-06-06 17:02
+
+#### [哈根达斯“卖身”与阿迪达斯翻红：外资光环褪色后的生存法则](https://www.tmtpost.com/8016596.html)
+**发布时间**: 2026-06-06 16:57
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534341&idx=1&sn=6955eb57829cafee5f82c0a7b0b2d6d1)
+**发布时间**: 2026-06-06 11:32
+
+#### [推荐 5 月份 yyds 的 GitHub 开源项目，一共 17 个。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534317&idx=1&sn=a9eb02705daf438ab1aec85c93066a7c)
+**发布时间**: 2026-06-05 20:00
 
 ---
 
