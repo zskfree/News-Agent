@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-06 07:48
+**最后更新时间**: 2026-06-07 00:08
+
+---
+
+## 🆕 最新更新 (2026-06-07 00:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?](https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-06 22:49
+
+#### [A new wave of weight-loss therapies aims to be better than today’s GLP-1s](https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories)
+**发布时间**: 2026-06-06 21:10
+
+#### [Most robo-advisers will never profit from Wall Street’s AI-generated stock picks](https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories)
+**发布时间**: 2026-06-06 18:50
+
+#### [Wall Street hated these 15 stocks. Then their earnings proved the analysts wrong.](https://www.marketwatch.com/story/wall-street-hated-these-15-stocks-then-their-earnings-proved-the-analysts-wrong-fceb1c96?mod=mw_rss_topstories)
+**发布时间**: 2026-06-06 17:20
+
+#### [Don’t rule out a ‘June swoon’ — the S&P 500 is pushing its limits](https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-06 16:53
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn](https://www.ft.com/content/64686829-95e6-4af2-8568-579684606403)
+**发布时间**: 2026-06-06 22:16
+
+#### [Abu Dhabi’s Etihad to surpass pre-Iran War capacity without price cuts](https://www.ft.com/content/07b1eaa6-725a-406e-aa8b-020dbe53aaea)
+**发布时间**: 2026-06-06 21:56
+
+#### [What we know about the plan to give Americans an equity stake in AI](https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00)
+**发布时间**: 2026-06-06 21:18
+
+#### [Oil tanker owners fear market crash after Iran war drove record profits](https://www.ft.com/content/786f23d9-876d-4c56-a9e8-67ac5b78cd49)
+**发布时间**: 2026-06-06 12:28
+
+#### [Trump relaunches tariffs war after court struck down levies](https://www.ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724)
+**发布时间**: 2026-06-06 12:00
+
+#### [Allegations against Maine Senate candidate plunge Democrats into turmoil](https://www.ft.com/content/0b82963a-0225-484f-8b94-012c85c362d5)
+**发布时间**: 2026-06-06 10:00
+
+#### [Netherlands moves to soothe rich investors over tax on paper profits](https://www.ft.com/content/f64f3904-904c-4735-a555-a08ab57572bf)
+**发布时间**: 2026-06-06 10:00
+
+#### [On yer bike! Freud and middle-aged men in Lycra](https://www.ft.com/content/5f72603d-11a7-4032-a57f-a7a456737a6a)
+**发布时间**: 2026-06-06 04:00
 
 ---
 
