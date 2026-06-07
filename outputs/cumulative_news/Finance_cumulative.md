@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-07 00:08
+**最后更新时间**: 2026-06-07 08:26
+
+---
+
+## 🆕 最新更新 (2026-06-07 08:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He’s taking advantage of me’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?](https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-07 07:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI plots biggest ChatGPT overhaul since launch](https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9)
+**发布时间**: 2026-06-07 04:00
+
+#### [Will America’s evangelicals stick with Trump?](https://www.ft.com/content/875790ee-cfc7-4fd6-937d-615f7ce5ff1c)
+**发布时间**: 2026-06-07 04:00
+
+#### [We are optimising ourselves to death](https://www.ft.com/content/42e5cdaa-005f-4a3b-ba0f-db443b2bad17)
+**发布时间**: 2026-06-07 04:00
+
+#### [Trump’s outbursts rattle Gulf allies](https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372)
+**发布时间**: 2026-06-07 04:00
+
+#### [Ferrari diehards debate whether buying its first EV is test of loyalty](https://www.ft.com/content/d35e37ff-cb93-4ba1-8c04-63b9c071523e)
+**发布时间**: 2026-06-07 04:00
+
+#### [Expensive oil is making electric vehicles look positively cheap](https://www.ft.com/content/c1530777-a7fb-428e-8eb5-78d59c6908a7)
+**发布时间**: 2026-06-07 04:00
+
+#### [US weighs using Iranian assets to compensate Gulf allies for war damage](https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa)
+**发布时间**: 2026-06-07 02:50
+
+#### [Tokio Marine boss to use Berkshire deal for global growth drive](https://www.ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d)
+**发布时间**: 2026-06-07 01:08
 
 ---
 

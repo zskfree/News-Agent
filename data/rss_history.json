@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "56b5ab51953b675d0f4884a4286bff1c6749fa246edb9d4693b23fbfe9a4da00": {
-        "title": "AI有嘴了，OpenAI连发三语音模型",
-        "link": "https://www.tmtpost.com/7980476.html",
-        "published_date": "Fri, 08 May 2026 12:59:00 GMT",
-        "first_seen": "2026-05-08T06:55:28.740258"
-      },
-      "b73c326d5c3108d13b57b0262ae6caac726584cfa30ecdffad558d1758c577ff": {
-        "title": "Claude“入侵”Office，微软要放弃Copilot了吗？",
-        "link": "https://www.tmtpost.com/7980473.html",
-        "published_date": "Fri, 08 May 2026 12:26:00 GMT",
-        "first_seen": "2026-05-08T06:55:28.740265"
-      },
-      "c1de7cbe4e86dcac073511acca278830576ba3d4f778bcf6e80872208895fed5": {
-        "title": "Agent时代需要怎样的分布式基础设施",
-        "link": "https://www.infoq.cn/article/qYQfpT8BaIPEkbeSXwzu?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 08 May 2026 11:34:00 GMT",
-        "first_seen": "2026-05-08T06:55:28.740267"
-      },
-      "c07f2a848884ebf289eb9619d8e409f7768e6d782909c0561a713804664117e8": {
-        "title": "两位女证人亮相，让马斯克诉OpenAI案更抓马",
-        "link": "https://www.tmtpost.com/7980480.html",
-        "published_date": "Fri, 08 May 2026 13:21:00 GMT",
-        "first_seen": "2026-05-08T06:55:28.740269"
-      },
-      "71949fa3fb258dbb5e0416a0a588bf291543a240f17317b1950f5188360a0189": {
-        "title": "中国31家巨头狂造机器人，美国巨头为何零下场？",
-        "link": "https://www.tmtpost.com/7980470.html",
-        "published_date": "Fri, 08 May 2026 12:32:00 GMT",
-        "first_seen": "2026-05-08T06:55:28.740271"
-      },
       "b786f0fd65605334a2ae55241a7b9157dc0bda7d99136392d70850bd96f4d7b7": {
         "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
         "link": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
@@ -2851,39 +2821,69 @@
         "link": "https://www.tmtpost.com/8017196.html",
         "published_date": "Sat, 06 Jun 2026 11:05:00 GMT",
         "first_seen": "2026-06-07T00:08:10.078039"
+      },
+      "5e7473051d21c23ba496ef3d6eca2f3c52b9f08856bbbc850af1cc218a0312a3": {
+        "title": "【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元",
+        "link": "https://www.tmtpost.com/8017823.html",
+        "published_date": "Sun, 07 Jun 2026 11:12:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605950"
+      },
+      "5a819c3c77d77735a4248b72d688db2e60fffea7d20c1df82048224df433d296": {
+        "title": "大模型告别做题家时代",
+        "link": "https://www.tmtpost.com/8017811.html",
+        "published_date": "Sun, 07 Jun 2026 08:45:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605956"
+      },
+      "2874644398b831eaab40c9c1437b5cbb8c77145193c09644ad19008afde43247": {
+        "title": "扎克伯格给AI行业上了一堂公开课",
+        "link": "https://www.tmtpost.com/8017812.html",
+        "published_date": "Sun, 07 Jun 2026 08:11:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605959"
+      },
+      "6865ade24fcf36bdb44d9b52f54a3beb59ca1c5f13a18513781059e6c5ebd7ac": {
+        "title": "算力利用率50%：阿里 PAI 入 ATH，算力内耗的自救",
+        "link": "https://www.tmtpost.com/8017856.html",
+        "published_date": "Sun, 07 Jun 2026 09:02:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605961"
+      },
+      "b86794dde093d6be68adc082f33e9c8ec5a44c1efeea595198bc44f016f28f9c": {
+        "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+        "link": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 07 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605962"
+      },
+      "96a100cc42f5a2b6c88638c0efd63eb9b56847c676a2451f261e2cb433e52c7a": {
+        "title": "独家｜京东、腾讯联手，就AI Agent将达成合作",
+        "link": "https://www.tmtpost.com/8018104.html",
+        "published_date": "Sun, 07 Jun 2026 14:58:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605964"
+      },
+      "4f425c9a26ab3547077d9e4f9b21336505cdd45d285aa33388c9cf265e242526": {
+        "title": "MLCC需求暴涨，或成为“下一个存储”",
+        "link": "https://www.tmtpost.com/8018057.html",
+        "published_date": "Sun, 07 Jun 2026 13:49:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605965"
+      },
+      "00137a56d36db7e361c05d9f0eaeedb3a3e6fdb7685e1d91a32554aadbbff16b": {
+        "title": "四十年“不可成药”魔咒终被打破：一款口服药，让“癌王”死亡风险直降60%",
+        "link": "https://www.tmtpost.com/8016615.html",
+        "published_date": "Sun, 07 Jun 2026 10:42:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605967"
+      },
+      "d2e3f09c4bf93df1b8ef64eef25896afa6832e0164c6a905d1c8f56cf88bd018": {
+        "title": "AI正在悄然替代游戏编剧？",
+        "link": "https://www.tmtpost.com/8017837.html",
+        "published_date": "Sun, 07 Jun 2026 08:20:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605968"
+      },
+      "d994accc60b68b26fa965dee227abbe5bf3839e532699ad7dd5d15161eb86304": {
+        "title": "Edge AI Daily 早报（6月7日）",
+        "link": "https://www.tmtpost.com/8017873.html",
+        "published_date": "Sun, 07 Jun 2026 08:36:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.605969"
       }
     },
     "Finance": {
-      "dd2e99f5707e88f21706f176092e629bdd3b8e93bd409846950b4216f09fcb74": {
-        "title": "5 reasons stocks are rallying in the face of an oil-price shock",
-        "link": "https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories",
-        "published_date": "Fri, 08 May 2026 00:14:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.553254"
-      },
-      "5fcc76d67d548b596e09d1d76194b0974173317dbe1c58c6654c02efabc435f2": {
-        "title": "Big Tech’s $725bn AI spending spree sends free cash flow to a decade low",
-        "link": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
-        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.553265"
-      },
-      "1e2f687d7535b670f994694cd39b9f41c0decd4027fc9f1b4e3f8e475e521563": {
-        "title": "The jury is still out on AI in finance",
-        "link": "https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57",
-        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.553268"
-      },
-      "8d5767f1f48a7caa2a4173a758e8340d78feb065905229de0c44112c719709b9": {
-        "title": "Anthropic weighs deal for near $1tn valuation as revenue surges",
-        "link": "https://www.ft.com/content/a40cafcc-0fa4-4e70-9e24-90d826aea56d",
-        "published_date": "Fri, 08 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.553270"
-      },
-      "6754c8d5ff654c0de67d8f1fe8ec466354b816a80f6bfc6c48022b17bfbb2c33": {
-        "title": "Koreans flock to pay with their faces",
-        "link": "https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90",
-        "published_date": "Fri, 08 May 2026 03:00:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.553272"
-      },
       "af33a98c9420b336c3323f9d50dd73d63999fc5500c56d5b688d84b599e806a0": {
         "title": "Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.",
         "link": "https://www.marketwatch.com/story/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next-37c222bd?mod=mw_rss_topstories",
@@ -5301,39 +5301,63 @@
         "link": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
         "published_date": "Sat, 06 Jun 2026 21:10:00 GMT",
         "first_seen": "2026-06-07T00:08:11.351014"
+      },
+      "64ba4a815c701a9b748a8a23de81b65ed765e3909bc96ee2dc021a625a717613": {
+        "title": "‘He’s taking advantage of me’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+        "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+        "published_date": "Sun, 07 Jun 2026 07:40:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657728"
+      },
+      "98b410f6de8e78cf708679aab6ce5959d4396b9b13425c01bc03b7296fed118b": {
+        "title": "OpenAI plots biggest ChatGPT overhaul since launch",
+        "link": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657735"
+      },
+      "af28cffc474c5c5497d2173af8cb4e37b759f36ef2e9f8da06e9f72f39180e43": {
+        "title": "Will America’s evangelicals stick with Trump?",
+        "link": "https://www.ft.com/content/875790ee-cfc7-4fd6-937d-615f7ce5ff1c",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657737"
+      },
+      "121c4e8eba3e6c7eada9020b3598cc62d7486ad56063448f6d7dd96de06a2735": {
+        "title": "We are optimising ourselves to death",
+        "link": "https://www.ft.com/content/42e5cdaa-005f-4a3b-ba0f-db443b2bad17",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657739"
+      },
+      "8b71112356c6ec566ed440616abebbd228fb1e7ebcd63b2989c48173d49cfc8c": {
+        "title": "Trump’s outbursts rattle Gulf allies",
+        "link": "https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657740"
+      },
+      "7823c58dd88775ace0a2f81371b8d9d32dbf26052a2871230c2584d85153a29d": {
+        "title": "Ferrari diehards debate whether buying its first EV is test of loyalty",
+        "link": "https://www.ft.com/content/d35e37ff-cb93-4ba1-8c04-63b9c071523e",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657741"
+      },
+      "4082dbd4851082781e11d0a3ff7f361bd494c7859a4847a85362335afd095edb": {
+        "title": "Expensive oil is making electric vehicles look positively cheap",
+        "link": "https://www.ft.com/content/c1530777-a7fb-428e-8eb5-78d59c6908a7",
+        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657743"
+      },
+      "8b0bcf2bf2efa7c4c5073fd48d68f5d96fcfda293b17e975e73edff2e5ac85aa": {
+        "title": "US weighs using Iranian assets to compensate Gulf allies for war damage",
+        "link": "https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa",
+        "published_date": "Sun, 07 Jun 2026 02:50:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657744"
+      },
+      "fe9f626275cf31eff534796921ca3d16f469657c1163b87896e806bc26bb2b6a": {
+        "title": "Tokio Marine boss to use Berkshire deal for global growth drive",
+        "link": "https://www.ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d",
+        "published_date": "Sun, 07 Jun 2026 01:08:00 GMT",
+        "first_seen": "2026-06-07T08:26:42.657745"
       }
     },
     "Ai": {
-      "7cbd7da30fcc39e7500441a311616007f2ebe3e317618384d4ee782699c15882": {
-        "title": "2026-05-08日刊",
-        "link": "https://ai.hubtoday.app//2026-05/2026-05-08/",
-        "published_date": "Fri, 08 May 2026 10:32:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.685459"
-      },
-      "551f86440171341d5e004fe691c684548e36921c6ebb068305937e928704e629": {
-        "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
-        "link": "https://www.qbitai.com/2026/05/414194.html",
-        "published_date": "Fri, 08 May 2026 04:35:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.685466"
-      },
-      "ad00be2aee11b77f221129fcd6c5c8cb8b2c3e35e23bd1ed9bddd4d6ab9e29e9": {
-        "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
-        "link": "https://www.qbitai.com/2026/05/414156.html",
-        "published_date": "Fri, 08 May 2026 04:25:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.685467"
-      },
-      "da838a51fffe368455e5429eccd9f6501241b4254110ea3d90411e0001bc4d61": {
-        "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
-        "link": "https://www.qbitai.com/2026/05/414141.html",
-        "published_date": "Fri, 08 May 2026 04:15:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.685469"
-      },
-      "269db90887af4b4d12c4c54b76745e5745bb2fd6d9f439eb145025f818b1fef7": {
-        "title": "第一批「AI原生」本科生，要毕业了",
-        "link": "https://www.qbitai.com/2026/05/414125.html",
-        "published_date": "Fri, 08 May 2026 04:06:00 GMT",
-        "first_seen": "2026-05-08T06:55:03.685471"
-      },
       "03a3f02ecc296d2681175b31e907524cb24ed2d2c81fd7c6219248648768a39e": {
         "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
         "link": "https://www.qbitai.com/2026/05/414428.html",
@@ -7211,13 +7235,37 @@
         "link": "https://www.qbitai.com/2026/06/431371.html",
         "published_date": "Sat, 06 Jun 2026 10:14:00 GMT",
         "first_seen": "2026-06-07T00:08:10.001450"
+      },
+      "bd77964292d6cf2a68ac6b16d0787a62bf6b4b0df6319ca786f6bc936a5064d8": {
+        "title": "2026-06-07日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-07/",
+        "published_date": "Sun, 07 Jun 2026 10:45:00 GMT",
+        "first_seen": "2026-06-07T08:26:41.431352"
+      },
+      "949ace68e3cd2199fd8212959dc3ea999cfe5073b5dcc5f1755fac9252c5fc49": {
+        "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+        "link": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+        "published_date": "Sun, 07 Jun 2026 07:00:00 GMT",
+        "first_seen": "2026-06-07T08:26:41.431362"
+      },
+      "3c62dfe49c00cae87f86c324fe5c7e0ff9dca89d7ff77b3dbb4970a470cead41": {
+        "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+        "link": "https://www.qbitai.com/2026/06/431487.html",
+        "published_date": "Sun, 07 Jun 2026 03:10:00 GMT",
+        "first_seen": "2026-06-07T08:26:41.431364"
+      },
+      "be228522429050d09833dade6e270aafc8dba98700cd84bb7a88124761abf872": {
+        "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "link": "https://www.qbitai.com/2026/06/431401.html",
+        "published_date": "Sun, 07 Jun 2026 01:13:00 GMT",
+        "first_seen": "2026-06-07T08:26:41.431366"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-07T00:08:10.078041",
-    "Finance": "2026-06-07T00:08:11.351016",
-    "Ai": "2026-06-07T00:08:10.001453"
+    "Technology": "2026-06-07T08:26:42.605972",
+    "Finance": "2026-06-07T08:26:42.657748",
+    "Ai": "2026-06-07T08:26:41.431369"
   }
 }
