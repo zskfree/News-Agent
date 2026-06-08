@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Jun 2026 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 08:26:41 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 00:10:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:11:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-06-07日刊</title>
-      <link>https://hex2077.dev/docs/2026-06/2026-06-07/</link>
-      <description>&lt;![CDATA[2026-06-07日刊]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-07/</guid>
+      <title>NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
+      <description>&lt;![CDATA[NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 23:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs</title>
-      <link>https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/</link>
-      <description>&lt;![CDATA[NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/</guid>
+      <title>Amazing Digital Dentures (a failed project)</title>
+      <link>https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures</link>
+      <description>&lt;![CDATA[Amazing Digital Dentures (a failed project)]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 19:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>教你用AI一节课收17万，华尔街精英排着队付费</title>
-      <link>https://www.qbitai.com/2026/06/431487.html</link>
-      <description>&lt;![CDATA[教你用AI一节课收17万，华尔街精英排着队付费]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 03:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431487.html</guid>
+      <title>有余凯不投的地平线离职创业员工吗？</title>
+      <link>https://www.qbitai.com/2026/06/431931.html</link>
+      <description>&lt;![CDATA[有余凯不投的地平线离职创业员工吗？]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431931.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队</title>
-      <link>https://www.qbitai.com/2026/06/431401.html</link>
-      <description>&lt;![CDATA[5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 01:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431401.html</guid>
+      <title>马斯克39页SpaceX计划，人类史上最伟大的PPT</title>
+      <link>https://www.qbitai.com/2026/06/431694.html</link>
+      <description>&lt;![CDATA[马斯克39页SpaceX计划，人类史上最伟大的PPT]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431694.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenAI芯片核心叛逃Anthropic！就在量产前夜</title>
+      <link>https://www.qbitai.com/2026/06/431499.html</link>
+      <description>&lt;![CDATA[OpenAI芯片核心叛逃Anthropic！就在量产前夜]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431499.html</guid>
       <category>Ai</category>
     </item>
   </channel>

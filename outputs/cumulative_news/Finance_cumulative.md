@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-07 08:26
+**最后更新时间**: 2026-06-08 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-08 00:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran](https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 00:01
+
+#### [The Wegovy pill is still dominating the GLP-1 pill market](https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories)
+**发布时间**: 2026-06-07 23:35
+
+#### [S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.](https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories)
+**发布时间**: 2026-06-07 19:14
+
+#### [These are the market’s new hot stocks as investors flee from tech](https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-07 16:00
+
+#### [My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?](https://www.marketwatch.com/story/my-husband-and-i-are-75-we-have-1-5-million-in-stocks-and-425-000-in-savings-is-that-too-much-cash-c9385f9f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-07 13:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran launches ballistic missiles at Israel](https://www.ft.com/content/a312b725-8921-415a-a9da-c8f6836f5459)
+**发布时间**: 2026-06-07 22:23
+
+#### [Oil prices jump after Iran missiles threaten fragile ceasefire](https://www.ft.com/content/7eced198-5045-4447-885b-7aa0dfe4490d)
+**发布时间**: 2026-06-07 22:17
+
+#### [Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran](https://www.ft.com/content/a0ce59f9-fbde-49e8-9158-fba3d4079859)
+**发布时间**: 2026-06-07 22:08
+
+#### [Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger](https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51)
+**发布时间**: 2026-06-07 21:23
+
+#### [Zelenskyy used Abramovich to send message to Putin about peace talks](https://www.ft.com/content/d097aba1-fd9a-4fd4-a4ba-fb980c27487a)
+**发布时间**: 2026-06-07 18:56
+
+#### [Trump piles pressure on Warsh with call for rate cut](https://www.ft.com/content/056789c0-d316-4b02-be24-2f75208790dd)
+**发布时间**: 2026-06-07 16:03
+
+#### [Airlines face $100bn hit on jet fuel from Iran energy shock](https://www.ft.com/content/3be2f94f-1d15-4f0e-9289-06a219b044f6)
+**发布时间**: 2026-06-07 15:25
+
+#### [Are we at the start of a new investment super-cycle?](https://www.ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1)
+**发布时间**: 2026-06-07 12:00
+
+#### [Russian drone hits nuclear fuel site near Chernobyl](https://www.ft.com/content/3c109ff1-e1cd-42c9-86b2-5e5bfb4671e5)
+**发布时间**: 2026-06-07 10:37
+
+#### [Voters sour on Trump’s handling of inflation and grocery prices — FT poll](https://www.ft.com/content/e8a0a845-c812-4158-ba1b-85613719f861)
+**发布时间**: 2026-06-07 10:00
 
 ---
 

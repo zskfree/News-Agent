@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-07 08:26
+**最后更新时间**: 2026-06-08 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-08 00:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】OpenAI计划对ChatGPT进行上线以来最大规模升级；京东、腾讯联手，就AI Agent将达成合作｜独家；算力普惠再提速，全球首个“预制算力中心底座”正式投用](https://www.tmtpost.com/8018285.html)
+**发布时间**: 2026-06-08 07:20
+
+#### [10 Key Reflections on China's Tech Giant Tencent’s AI Second Half](https://www.tmtpost.com/8018365.html)
+**发布时间**: 2026-06-07 22:15
+
+#### [China‘s Top Two Large Model Firms Seeking Dual Listing in Hong Kong and Chinese Mainland](https://www.tmtpost.com/8018356.html)
+**发布时间**: 2026-06-07 21:51
+
+#### [狂砸百亿扩产，PCB巨头沪电股份，一年市值暴增2100亿](https://www.tmtpost.com/8018017.html)
+**发布时间**: 2026-06-07 19:06
+
+#### [618“静悄悄”，蕉内十年线下迷途](https://www.tmtpost.com/8017867.html)
+**发布时间**: 2026-06-07 19:02
+
+#### [董明珠“盟友”出手，一把套现超16亿](https://www.tmtpost.com/8017848.html)
+**发布时间**: 2026-06-07 19:02
+
+#### [拼多多应该有AI焦虑吗](https://www.tmtpost.com/8017809.html)
+**发布时间**: 2026-06-07 19:00
+
+#### [英特尔与英伟达互抢地盘，乱了，都乱了](https://www.tmtpost.com/8018055.html)
+**发布时间**: 2026-06-07 18:59
+
+#### [钉钉需要革命派还是改良派？](https://www.tmtpost.com/8018048.html)
+**发布时间**: 2026-06-07 18:59
+
+#### [三档恋综同期开播，2026年的观众还吃这一套吗？](https://www.tmtpost.com/8018061.html)
+**发布时间**: 2026-06-07 18:59
+
+#### [蔚来理想口水战，赛力斯引辟谣，国产新能源逼急欧洲](https://www.tmtpost.com/8018127.html)
+**发布时间**: 2026-06-07 18:56
+
+#### [Exclusive: JD.com and Tencent Partner on AI Agents](https://www.tmtpost.com/8018139.html)
+**发布时间**: 2026-06-07 16:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：乘用车越造越重，12 年增重近 400 公斤](https://sspai.com/post/110847)
+**发布时间**: 2026-06-08 06:52
+
+#### [接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
+**发布时间**: 2026-06-07 16:34
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [6 月底截止，Claude Code 免费白嫖 Qwen3.6，Token 无限量。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534361&idx=1&sn=816cfaa082f2a41f23f65eea2123ebe8)
+**发布时间**: 2026-06-07 10:43
 
 ---
 
