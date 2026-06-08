@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Jun 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 00:11:42 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 09:23:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:26:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
-      <description>&lt;![CDATA[NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 23:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</guid>
+      <title>CVPR 2026现场直击：CV与机器人的物理结界被彻底打破</title>
+      <link>https://www.leiphone.com/category/ai/dD8WSfVt3bwq1sEe.html</link>
+      <description>&lt;![CDATA[CVPR 2026现场直击：CV与机器人的物理结界被彻底打破]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/dD8WSfVt3bwq1sEe.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Amazing Digital Dentures (a failed project)</title>
-      <link>https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures</link>
-      <description>&lt;![CDATA[Amazing Digital Dentures (a failed project)]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 19:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures</guid>
+      <title>斯坦福Jeannette Bohg教授：抛弃“人手崇拜”，灵巧手要「解构物理」 | ICRA 2026</title>
+      <link>https://www.leiphone.com/category/robot/7bIdz0Vi001jq6lt.html</link>
+      <description>&lt;![CDATA[斯坦福Jeannette Bohg教授：抛弃“人手崇拜”，灵巧手要「解构物理」 | ICRA 2026]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/7bIdz0Vi001jq6lt.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>有余凯不投的地平线离职创业员工吗？</title>
-      <link>https://www.qbitai.com/2026/06/431931.html</link>
-      <description>&lt;![CDATA[有余凯不投的地平线离职创业员工吗？]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 12:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431931.html</guid>
+      <title>3D 还是 2D？哥大李昀烛：通用机器人基础模型的解药在“中间地带”  | ICRA 2026</title>
+      <link>https://www.leiphone.com/category/robot/LPcnomdfvrGTm2cO.html</link>
+      <description>&lt;![CDATA[3D 还是 2D？哥大李昀烛：通用机器人基础模型的解药在“中间地带”  | ICRA 2026]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/LPcnomdfvrGTm2cO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克39页SpaceX计划，人类史上最伟大的PPT</title>
-      <link>https://www.qbitai.com/2026/06/431694.html</link>
-      <description>&lt;![CDATA[马斯克39页SpaceX计划，人类史上最伟大的PPT]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431694.html</guid>
+      <title>让机器人行动更有依据：复旦等提出 GuidedVLA，提升 VLA 可控可解释能力</title>
+      <link>https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html</link>
+      <description>&lt;![CDATA[让机器人行动更有依据：复旦等提出 GuidedVLA，提升 VLA 可控可解释能力]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/BOuZx0Z8ALLO18p8.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI芯片核心叛逃Anthropic！就在量产前夜</title>
-      <link>https://www.qbitai.com/2026/06/431499.html</link>
-      <description>&lt;![CDATA[OpenAI芯片核心叛逃Anthropic！就在量产前夜]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/431499.html</guid>
+      <title>CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观  PS-SR让视频超分不用在速度与质量间为难</title>
+      <link>https://www.leiphone.com/category/ai/zXTiqznDMhoIzvbh.html</link>
+      <description>&lt;![CDATA[CVPR 2026 | 支撑春晚合肥 7 分钟的4K画面奇观  PS-SR让视频超分不用在速度与质量间为难]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/zXTiqznDMhoIzvbh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</link>
+      <description>&lt;![CDATA[NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies</title>
+      <link>https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</link>
+      <description>&lt;![CDATA[How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机</title>
+      <link>https://www.qbitai.com/2026/06/432062.html</link>
+      <description>&lt;![CDATA[让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 04:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432062.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>CVPR 2026 几何智能研究盘点：从看见形状，到理解运动与交互</title>
+      <link>https://www.leiphone.com/category/ai/DY9VohqHITkbu2i9.html</link>
+      <description>&lt;![CDATA[CVPR 2026 几何智能研究盘点：从看见形状，到理解运动与交互]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/DY9VohqHITkbu2i9.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>马斯克SpaceX路演PPT：60页，值1.77万亿美元</title>
+      <link>https://www.qbitai.com/2026/06/432084.html</link>
+      <description>&lt;![CDATA[马斯克SpaceX路演PPT：60页，值1.77万亿美元]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432084.html</guid>
       <category>Ai</category>
     </item>
   </channel>

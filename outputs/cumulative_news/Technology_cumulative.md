@@ -1,7 +1,150 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-08 00:11
+**最后更新时间**: 2026-06-08 09:26
+
+---
+
+## 🆕 最新更新 (2026-06-08 09:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China's First “Elderly Mobility Vehicle” Company Eyes a Hong Kong IPO](https://www.tmtpost.com/8019068.html)
+**发布时间**: 2026-06-08 17:13
+
+#### [富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注](https://www.tmtpost.com/8018862.html)
+**发布时间**: 2026-06-08 16:40
+
+#### [世界杯还是那个世界杯，中国观众怎么不买账了？](https://www.tmtpost.com/8018867.html)
+**发布时间**: 2026-06-08 16:40
+
+#### [SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了](https://www.tmtpost.com/8018883.html)
+**发布时间**: 2026-06-08 16:40
+
+#### [特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？](https://www.tmtpost.com/8018749.html)
+**发布时间**: 2026-06-08 15:38
+
+#### [智谱与MiniMax回A遭遇“七月围城”](https://www.tmtpost.com/8018777.html)
+**发布时间**: 2026-06-08 15:38
+
+#### [美的手握3200亿现金，方洪波打算做什么？](https://www.tmtpost.com/8018748.html)
+**发布时间**: 2026-06-08 15:23
+
+#### [全球最大自行车代工之王，去IPO了](https://www.tmtpost.com/8018704.html)
+**发布时间**: 2026-06-08 15:22
+
+#### [火锅、茶饮、卤味品牌扎堆卖新鲜零食，能成吗？](https://www.tmtpost.com/8018678.html)
+**发布时间**: 2026-06-08 15:22
+
+#### [机器人圈杀疯了：4天4笔融资，融资、IPO一起狂奔](https://www.tmtpost.com/8018665.html)
+**发布时间**: 2026-06-08 15:22
+
+#### [京东做的AI硬件选秀，究竟在“秀”什么？](https://www.tmtpost.com/8018537.html)
+**发布时间**: 2026-06-08 12:20
+
+#### [仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？](https://www.tmtpost.com/8018649.html)
+**发布时间**: 2026-06-08 11:58
+
+#### [中国创新药正处于“第二秩序”的初期](https://www.tmtpost.com/8018637.html)
+**发布时间**: 2026-06-08 11:58
+
+#### [黄金成全球最大储备资产，揭秘央行“购金潮”背后的逻辑](https://www.tmtpost.com/8015390.html)
+**发布时间**: 2026-06-08 11:58
+
+#### [钢铁上市公司AI透视：谁在深耕核心，谁在纸上谈兵](https://www.tmtpost.com/8018596.html)
+**发布时间**: 2026-06-08 11:58
+
+#### [米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评](https://www.tmtpost.com/8018550.html)
+**发布时间**: 2026-06-08 11:58
+
+#### [“绿电直连”的“窄门”](https://www.tmtpost.com/8018557.html)
+**发布时间**: 2026-06-08 11:57
+
+#### [汤道生明确了一件事：腾讯AI先谈产品，再谈生意](https://www.tmtpost.com/8018527.html)
+**发布时间**: 2026-06-08 11:48
+
+#### [【Fintech 周报】香港金管局：银行业界已落实最新监管要求；中国人保原副总裁于泽被“双开”；易票联支付被罚没超4800万元](https://www.tmtpost.com/8018658.html)
+**发布时间**: 2026-06-08 11:43
+
+#### [Token不经济，经济不Token](https://www.tmtpost.com/8018529.html)
+**发布时间**: 2026-06-08 11:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启](https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 17:07
+
+#### [借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍](https://www.infoq.cn/article/Z45xgVupF2eQizy3SScr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 17:00
+
+#### [云知声U2，重新计算通用大模型的商业价值](https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 16:43
+
+#### [“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里](https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 16:34
+
+#### [腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报](https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 16:20
+
+#### [Claude Code 引入动态工作流，用于并行代理协调](https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 15:56
+
+#### [在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走](https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 14:00
+
+#### [奇遇团在硅谷: 7位到50位技术领袖集结SVAI - 深度拆解 Snowflake Summit 26](https://www.infoq.cn/article/RGDB7CQSi4E0rvOXzWMC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 13:57
+
+#### [参加完硅谷华人 AI Meet-Up，我最大的感受不是技术](https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 13:55
+
+#### [测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图](https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 13:11
+
+#### [ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！](https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 11:09
+
+#### [利用尾斜杠绕过 AWS API Gateway 授权](https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 11:03
+
+#### [汤道生对谈姚顺雨：AI下半场，腾讯比什么？](https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:50
+
+#### [从“小而美”到“一体化”，腾讯云 TDSQL 如何拯救选型纠结？](https://www.infoq.cn/article/evoDZx1R4YVt5WZ0PwWi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:42
+
+#### [别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨](https://www.infoq.cn/article/xh4lHSLWQtqo1lp4oqIA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:09
+
+#### [Agent正把基础设施逼到极限！GitLab盈利大涨后裁员350人，下一代Git重构已启动](https://www.infoq.cn/article/72doWa3SERwCsQX5pOAy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:04
+
+#### [拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟](https://www.infoq.cn/article/htLxGkLT8ixjxR6bY28Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:01
+
+#### [Seal：小红书企业级 AI 个人助理的从 0 到全员覆盖｜AICon上海](https://www.infoq.cn/article/gF4722XXWC2qLhZx6Qke?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 10:00
+
+#### [沪漂五周年了：我越来越迷茫了](https://xie.infoq.cn/article/4fb28e0ddb1d7508d0f8380d9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-05 10:01
+
+#### [6月更文挑战赛 | 码农游乐园·仲夏奇梦](https://xie.infoq.cn/article/364e23268469ef85edc0206ab?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-29 16:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/110853)
+**发布时间**: 2026-06-08 16:11
+
+#### [2026 美加墨世界杯观赛指南](https://sspai.com/post/110681)
+**发布时间**: 2026-06-08 15:00
+
+#### [大语言模型正在变成大编程模型](https://sspai.com/post/110746)
+**发布时间**: 2026-06-08 10:45
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Kimi Work 来了！10 分钟用它做一个投资大师 Skill，开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534395&idx=1&sn=c9bbd39f9edce974bcb9020d78d3cfda)
+**发布时间**: 2026-06-08 11:23
 
 ---
 

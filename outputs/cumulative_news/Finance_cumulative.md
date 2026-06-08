@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-08 00:11
+**最后更新时间**: 2026-06-08 09:26
+
+---
+
+## 🆕 最新更新 (2026-06-08 09:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What nine different indicators say about market exuberance, according to Goldman Sachs](https://www.marketwatch.com/story/what-nine-different-indicators-say-about-market-exuberance-according-to-goldman-sachs-bec968f2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 09:16
+
+#### [‘I have no experience with investing’: I inherited $2,000. I’m 42 with two children. What should I do with this money?](https://www.marketwatch.com/story/i-have-no-experience-with-investing-i-inherited-2-000-im-42-with-two-children-what-should-i-do-with-this-money-7b0de230?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 09:15
+
+#### [Serena Williams is making a comeback; these are the properties that built her $35 million real estate portfolio](https://www.marketwatch.com/story/serena-williams-is-making-a-comeback-these-are-the-properties-that-built-her-35-million-real-estate-portfolio-d1dfda98?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 09:02
+
+#### [Alanis Morissette quickly sells her Bay Area estate in lucrative $9.6 million sale](https://www.marketwatch.com/story/alanis-morissette-quickly-sells-her-bay-area-estate-in-lucrative-9-6-million-sale-ded51134?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 08:58
+
+#### [Zealand Pharma loses a fifth of its value as many users gave up taking weight-loss drug during trial](https://www.marketwatch.com/story/zealand-pharma-loses-a-fifth-of-its-value-as-many-users-gave-up-taking-weight-loss-drug-during-trial-80293179?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 08:44
+
+#### [Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses](https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 07:37
+
+#### [Oil prices jump by the most in over a month as fresh attacks threaten the ceasefire with Iran](https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 07:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Explosions heard in central Tehran as Israel and Iran trade air strikes](https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0)
+**发布时间**: 2026-06-08 08:45
+
+#### [Global stocks slide led by meltdown in South Korea](https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c)
+**发布时间**: 2026-06-08 08:10
+
+#### [Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer](https://www.ft.com/content/64cdd219-a131-46a0-946b-36922bbf4767)
+**发布时间**: 2026-06-08 05:59
+
+#### [New AI espionage powers trigger Putin camera scare](https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f)
+**发布时间**: 2026-06-08 04:00
+
+#### [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
+**发布时间**: 2026-06-08 04:00
+
+#### [A ‘big bang’ reversal of Brexit is both unrealistic and unnecessary](https://www.ft.com/content/1d6953e2-2b63-4564-9b19-3f56eb8b825d)
+**发布时间**: 2026-06-08 04:00
+
+#### [Software buyout deals collapse to lowest level since pandemic after AI rout](https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387)
+**发布时间**: 2026-06-08 04:00
+
+#### [China’s Xi lands in North Korea for Kim meeting](https://www.ft.com/content/1a538fdf-a404-4ef6-97f5-92be9176ee2e)
+**发布时间**: 2026-06-08 03:26
+
+#### [Chips, ships and guns: South Korea booms on AI race and global conflict](https://www.ft.com/content/208d2ed8-78f3-471f-839a-55d69a3a8a9b)
+**发布时间**: 2026-06-08 00:03
 
 ---
 
