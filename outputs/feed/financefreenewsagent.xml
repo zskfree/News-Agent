@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 08 Jun 2026 09:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 09:26:05 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 00:09:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:10:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>What nine different indicators say about market exuberance, according to Goldman Sachs</title>
-      <link>https://www.marketwatch.com/story/what-nine-different-indicators-say-about-market-exuberance-according-to-goldman-sachs-bec968f2?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[What nine different indicators say about market exuberance, according to Goldman Sachs]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/what-nine-different-indicators-say-about-market-exuberance-according-to-goldman-sachs-bec968f2?mod=mw_rss_topstories</guid>
+      <title>Apollo and Blackstone raise $35bn in chip financing deal for Anthropic</title>
+      <link>https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f</link>
+      <description>&lt;![CDATA[Apollo and Blackstone raise $35bn in chip financing deal for Anthropic]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 23:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses</title>
-      <link>https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 07:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories</guid>
+      <title>OpenAI files confidentially for IPO — but there’s a catch</title>
+      <link>https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[OpenAI files confidentially for IPO — but there’s a catch]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Global stocks slide led by meltdown in South Korea</title>
+      <title>Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he’ll fight it.</title>
+      <link>https://www.marketwatch.com/story/inflation-could-top-4-this-week-the-bond-market-wants-fed-chair-warsh-to-prove-hell-fight-it-fbb6b04b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he’ll fight it.]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 20:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/inflation-could-top-4-this-week-the-bond-market-wants-fed-chair-warsh-to-prove-hell-fight-it-fbb6b04b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>An inflation storm is brewing in the Pacific Ocean — and your portfolio isn’t ready</title>
+      <link>https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[An inflation storm is brewing in the Pacific Ocean — and your portfolio isn’t ready]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Your tech portfolio could be on the wrong side of the AI boom</title>
+      <link>https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Your tech portfolio could be on the wrong side of the AI boom]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 21:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’</title>
+      <link>https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 20:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug</title>
+      <link>https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Wall Street rebounds as traders race back into chip stocks</title>
       <link>https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c</link>
-      <description>&lt;![CDATA[Global stocks slide led by meltdown in South Korea]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 08:10:00 GMT</pubDate>
+      <description>&lt;![CDATA[Wall Street rebounds as traders race back into chip stocks]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 20:09:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Oil prices jump by the most in over a month as fresh attacks threaten the ceasefire with Iran</title>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil prices jump by the most in over a month as fresh attacks threaten the ceasefire with Iran]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories</guid>
+      <title>OpenAI files to go public in blockbuster Wall Street listing</title>
+      <link>https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6</link>
+      <description>&lt;![CDATA[OpenAI files to go public in blockbuster Wall Street listing]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 22:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer</title>
-      <link>https://www.ft.com/content/64cdd219-a131-46a0-946b-36922bbf4767</link>
-      <description>&lt;![CDATA[Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 05:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/64cdd219-a131-46a0-946b-36922bbf4767</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Software buyout deals collapse to lowest level since pandemic after AI rout</title>
-      <link>https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387</link>
-      <description>&lt;![CDATA[Software buyout deals collapse to lowest level since pandemic after AI rout]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Zealand Pharma loses a fifth of its value as many users gave up taking weight-loss drug during trial</title>
-      <link>https://www.marketwatch.com/story/zealand-pharma-loses-a-fifth-of-its-value-as-many-users-gave-up-taking-weight-loss-drug-during-trial-80293179?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Zealand Pharma loses a fifth of its value as many users gave up taking weight-loss drug during trial]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/zealand-pharma-loses-a-fifth-of-its-value-as-many-users-gave-up-taking-weight-loss-drug-during-trial-80293179?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Explosions heard in central Tehran as Israel and Iran trade air strikes</title>
-      <link>https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0</link>
-      <description>&lt;![CDATA[Explosions heard in central Tehran as Israel and Iran trade air strikes]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A ‘big bang’ reversal of Brexit is both unrealistic and unnecessary</title>
-      <link>https://www.ft.com/content/1d6953e2-2b63-4564-9b19-3f56eb8b825d</link>
-      <description>&lt;![CDATA[A ‘big bang’ reversal of Brexit is both unrealistic and unnecessary]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1d6953e2-2b63-4564-9b19-3f56eb8b825d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>We must not grant AI agents legal personhood</title>
-      <link>https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473</link>
-      <description>&lt;![CDATA[We must not grant AI agents legal personhood]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473</guid>
+      <title>Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space</title>
+      <link>https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 22:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

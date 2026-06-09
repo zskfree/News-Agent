@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-08 09:26
+**最后更新时间**: 2026-06-09 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-09 00:09)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】金融监管总局最新部署：深入整治金融领域无序竞争；事关数据赋能AI发展，国家层面首次系统部署；阿里新设Token Foundry事业部、微信开放AI生态接入能力](https://www.tmtpost.com/8019490.html)
+**发布时间**: 2026-06-09 07:22
+
+#### [前次募资改道AI算力！明阳电路拟发12亿可转债，重仓高阶HDI板谋变](https://www.tmtpost.com/8019397.html)
+**发布时间**: 2026-06-08 21:25
+
+#### [拿“ Codex”当馅儿，豆包才值钱](https://www.tmtpost.com/8018984.html)
+**发布时间**: 2026-06-08 18:26
+
+#### [AI还能让PC组装商吃多久红利？](https://www.tmtpost.com/8019149.html)
+**发布时间**: 2026-06-08 18:26
+
+#### [智能体第一案，判了什么](https://www.tmtpost.com/8018931.html)
+**发布时间**: 2026-06-08 18:25
+
+#### [“3D视觉第一股”左右互搏！减持8亿，定增9.8亿](https://www.tmtpost.com/8018645.html)
+**发布时间**: 2026-06-08 18:24
+
+#### [苹果AI告急，库克押注谷歌Gemini救场](https://www.tmtpost.com/8019112.html)
+**发布时间**: 2026-06-08 18:21
+
+#### [AI科技巨头，正在蒸馏你的行业](https://www.tmtpost.com/8019121.html)
+**发布时间**: 2026-06-08 18:21
+
+#### [高考还没结束，AI已经在等了](https://www.tmtpost.com/8019145.html)
+**发布时间**: 2026-06-08 18:21
+
+#### [涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑](https://www.tmtpost.com/8019143.html)
+**发布时间**: 2026-06-08 18:21
+
+#### [光模块器件一道压痕，一年报废几百万，全公司数年无解](https://www.tmtpost.com/8018929.html)
+**发布时间**: 2026-06-08 17:39
+
+#### [黄仁勋给PC行业画了一张“大饼”](https://www.tmtpost.com/8019086.html)
+**发布时间**: 2026-06-08 17:38
+
+#### [超级IPO，超级财富转移](https://www.tmtpost.com/8018943.html)
+**发布时间**: 2026-06-08 17:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
+**发布时间**: 2026-06-09 06:16
+
+#### [一图流 | Apple WWDC26 开幕式回顾](https://sspai.com/post/110887)
+**发布时间**: 2026-06-09 04:56
+
+#### [Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
+**发布时间**: 2026-06-09 04:47
+
+#### [派评｜近期值得关注的 App](https://sspai.com/post/110874)
+**发布时间**: 2026-06-08 18:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准](https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 18:29
+
+#### [Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误](https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 18:00
+
+#### [不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场](https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 17:48
+
+#### [Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度](https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-08 17:35
 
 ---
 

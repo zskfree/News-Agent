@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-08 09:26
+**最后更新时间**: 2026-06-09 00:09
+
+---
+
+## 🆕 最新更新 (2026-06-09 00:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apollo and Blackstone raise $35bn in chip financing deal for Anthropic](https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f)
+**发布时间**: 2026-06-08 23:50
+
+#### [Trump’s $100,000 H-1B visa fee blocked by judge](https://www.ft.com/content/2ab284d9-eb38-4b42-b01a-2b375a08c1b0)
+**发布时间**: 2026-06-08 22:46
+
+#### [OpenAI files to go public in blockbuster Wall Street listing](https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6)
+**发布时间**: 2026-06-08 22:23
+
+#### [Apple unveils long-awaited AI Siri after years of delays](https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff)
+**发布时间**: 2026-06-08 20:19
+
+#### [Wall Street rebounds as traders race back into chip stocks](https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c)
+**发布时间**: 2026-06-08 20:09
+
+#### [The incredible shrinking influence of Putin’s Russia](https://www.ft.com/content/7d05294f-24d4-4d38-8692-b04b616d3256)
+**发布时间**: 2026-06-08 16:55
+
+#### [Israel and Iran halt counterstrikes](https://www.ft.com/content/700c27f3-6768-4c7a-86bc-ca847de9df55)
+**发布时间**: 2026-06-08 16:41
+
+#### [We need to learn how to argue with AI](https://www.ft.com/content/d2d8f531-2833-4edc-9107-7bb73d9f0c4b)
+**发布时间**: 2026-06-08 15:27
+
+#### [Lebanon’s intractable crisis pulls Israel and Iran back towards war](https://www.ft.com/content/7a96137c-63ce-4115-a362-f36fe68a1469)
+**发布时间**: 2026-06-08 15:25
+
+#### [The AI spying breakthrough that spooked the Kremlin](https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f)
+**发布时间**: 2026-06-08 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space](https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 22:59
+
+#### [Knicks ticket prices plunge more than 50% ahead of Game 3 at MSG — but not just because Trump’s going](https://www.marketwatch.com/story/knicks-ticket-prices-plunge-more-than-50-ahead-of-game-3-at-msg-but-not-just-because-trumps-going-b7944acf?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 22:33
+
+#### [OpenAI files confidentially for IPO — but there’s a catch](https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 21:55
+
+#### [My golf buddy worked as a financial adviser. Here’s how I knew his friendship was fake.](https://www.marketwatch.com/story/my-golf-buddy-worked-as-a-financial-adviser-heres-how-i-really-knew-his-friendship-was-fake-9e5695d5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 21:45
+
+#### [Your tech portfolio could be on the wrong side of the AI boom](https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 21:44
+
+#### [An inflation storm is brewing in the Pacific Ocean — and your portfolio isn’t ready](https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 21:37
+
+#### [Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug](https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 21:01
+
+#### [Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’](https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 20:55
+
+#### [Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he’ll fight it.](https://www.marketwatch.com/story/inflation-could-top-4-this-week-the-bond-market-wants-fed-chair-warsh-to-prove-hell-fight-it-fbb6b04b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-08 20:52
 
 ---
 
