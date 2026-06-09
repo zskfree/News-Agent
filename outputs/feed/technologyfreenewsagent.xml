@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Jun 2026 00:09:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 00:09:53 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:34:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾</title>
-      <link>https://sspai.com/post/110888</link>
-      <description>&lt;![CDATA[Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 04:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110888</guid>
+      <title>Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底</title>
+      <link>https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场</title>
-      <link>https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>截胡高通、痛击英特尔？英伟达AI PC野心不小</title>
+      <link>https://www.tmtpost.com/8020621.html</link>
+      <description>&lt;![CDATA[截胡高通、痛击英特尔？英伟达AI PC野心不小]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8020621.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 引入动态工作流，用于并行代理协调</title>
-      <link>https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 引入动态工作流，用于并行代理协调]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型重燃大厂“医疗梦”</title>
+      <link>https://www.tmtpost.com/8020730.html</link>
+      <description>&lt;![CDATA[大模型重燃大厂“医疗梦”]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8020730.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑</title>
-      <link>https://www.tmtpost.com/8019143.html</link>
-      <description>&lt;![CDATA[涨价的智谱 vs 降价的DeepSeek：同一轮AI竞赛，两种不同的生存逻辑]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8019143.html</guid>
+      <title>原粒半导体：Agent执行时代，像拼乐高一样造芯片</title>
+      <link>https://www.tmtpost.com/8019899.html</link>
+      <description>&lt;![CDATA[原粒半导体：Agent执行时代，像拼乐高一样造芯片]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8019899.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图</title>
-      <link>https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 13:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海</title>
+      <link>https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准</title>
-      <link>https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险</title>
+      <link>https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 09:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度</title>
-      <link>https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具</title>
+      <link>https://www.infoq.cn/article/q0ydG50JsK7e0FGVsGHV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 13:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q0ydG50JsK7e0FGVsGHV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走</title>
-      <link>https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用</title>
+      <link>https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！</title>
-      <link>https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑</title>
+      <link>https://www.infoq.cn/article/OO3wCwaJK8Zy45W2h0I9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OO3wCwaJK8Zy45W2h0I9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>汤道生明确了一件事：腾讯AI先谈产品，再谈生意</title>
-      <link>https://www.tmtpost.com/8018527.html</link>
-      <description>&lt;![CDATA[汤道生明确了一件事：腾讯AI先谈产品，再谈生意]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018527.html</guid>
+      <title>七天加满“AI朋友圈”，微信智能体还需迈过三道坎</title>
+      <link>https://www.tmtpost.com/8020815.html</link>
+      <description>&lt;![CDATA[七天加满“AI朋友圈”，微信智能体还需迈过三道坎]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8020815.html</guid>
       <category>Technology</category>
     </item>
   </channel>

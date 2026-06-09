@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-09 00:09
+**最后更新时间**: 2026-06-09 08:33
+
+---
+
+## 🆕 最新更新 (2026-06-09 08:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球芯片股一周惊魂：三重利空砸出深坑，反弹还是反转](https://www.tmtpost.com/8020971.html)
+**发布时间**: 2026-06-09 16:20
+
+#### [印度人正在涌向中国避暑，但评论区吵翻了](https://www.tmtpost.com/8019171.html)
+**发布时间**: 2026-06-09 16:19
+
+#### [老板卷入桃色风波，胜宏科技交易日蒸发超200亿元](https://www.tmtpost.com/8020573.html)
+**发布时间**: 2026-06-09 16:15
+
+#### [七天加满“AI朋友圈”，微信智能体还需迈过三道坎](https://www.tmtpost.com/8020815.html)
+**发布时间**: 2026-06-09 16:13
+
+#### [融资最多的机器人公司，一年卖出了150台](https://www.tmtpost.com/8020648.html)
+**发布时间**: 2026-06-09 16:07
+
+#### [问想要电商主导权，但淘宝不让](https://www.tmtpost.com/8020584.html)
+**发布时间**: 2026-06-09 16:07
+
+#### [一场算法幻觉引发的乌龙：SpaceX要收购诺基亚？别被AI洗稿自媒体骗了](https://www.tmtpost.com/8020371.html)
+**发布时间**: 2026-06-09 16:07
+
+#### [带飞A股，225倍海外网红“白毛女神”被国盛分析师怒喷](https://www.tmtpost.com/8020233.html)
+**发布时间**: 2026-06-09 16:06
+
+#### [Seesaw的精品咖啡梦彻底碎了](https://www.tmtpost.com/8020696.html)
+**发布时间**: 2026-06-09 16:06
+
+#### [鸡在上游称王，鸭在下游封神：同一个赛道，两种命](https://www.tmtpost.com/8020700.html)
+**发布时间**: 2026-06-09 16:00
+
+#### [大模型重燃大厂“医疗梦”](https://www.tmtpost.com/8020730.html)
+**发布时间**: 2026-06-09 15:59
+
+#### [原粒半导体：Agent执行时代，像拼乐高一样造芯片](https://www.tmtpost.com/8019899.html)
+**发布时间**: 2026-06-09 15:58
+
+#### [“老”在澳门](https://www.tmtpost.com/8020629.html)
+**发布时间**: 2026-06-09 15:52
+
+#### [截胡高通、痛击英特尔？英伟达AI PC野心不小](https://www.tmtpost.com/8020621.html)
+**发布时间**: 2026-06-09 15:41
+
+#### [股民们替苹果AI交了2300亿美元的“补考费”](https://www.tmtpost.com/8020603.html)
+**发布时间**: 2026-06-09 15:36
+
+#### [宗馥莉赌上了自己的名字](https://www.tmtpost.com/8020553.html)
+**发布时间**: 2026-06-09 15:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用](https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:00
+
+#### [IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元](https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 15:58
+
+#### [千亿市值办公软件巨头落子AI原生，WPS笔记打通从记录到复用五步闭环](https://www.infoq.cn/article/RNG5TY4vD472qtRv8rGo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 14:45
+
+#### [Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具](https://www.infoq.cn/article/q0ydG50JsK7e0FGVsGHV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 13:49
+
+#### [Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑](https://www.infoq.cn/article/OO3wCwaJK8Zy45W2h0I9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 13:33
+
+#### [Java 近期资讯： OpenJDK JEP、Hazelcast、Quarkus、Hibernate、Koog、JHipster 以及 Endive](https://www.infoq.cn/article/jc7BkJfDADvFbzKNGpDg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 11:03
+
+#### [蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海](https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 10:00
+
+#### [Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底](https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 09:33
+
+#### [BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险](https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 09:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
+**发布时间**: 2026-06-09 12:00
 
 ---
 

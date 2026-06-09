@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-09 00:09
+**最后更新时间**: 2026-06-09 08:33
+
+---
+
+## 🆕 最新更新 (2026-06-09 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Asian tech stocks rebound after Wall Street embraces AI once more](https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812)
+**发布时间**: 2026-06-09 07:51
+
+#### [We’ve died and gone to volatility heaven](https://www.ft.com/content/8b339aea-3a57-48d0-96b5-9e7da87ca253)
+**发布时间**: 2026-06-09 05:30
+
+#### [SpaceX’s $1.78tn IPO asks investors to buy Musk’s moonshots](https://www.ft.com/content/70fa49e3-1014-4412-890f-c7fe91497db9)
+**发布时间**: 2026-06-09 04:00
+
+#### [Who calls the shots? Trump and Netanyahu clash over war goals](https://www.ft.com/content/64213988-ec72-462d-b9b6-e56acebb85df)
+**发布时间**: 2026-06-09 04:00
+
+#### [Why are we still arguing about the industrial revolution?](https://www.ft.com/content/f8379b23-f029-4274-b508-5452d965ad28)
+**发布时间**: 2026-06-09 04:00
+
+#### [The film industry needs franchises like Star Wars](https://www.ft.com/content/2371b204-c37c-4471-93a0-31a48e3c361d)
+**发布时间**: 2026-06-09 04:00
+
+#### [ASML chief warns EU against directing chip supplies](https://www.ft.com/content/ae7e66f1-1174-4812-b848-d6efd4f9379d)
+**发布时间**: 2026-06-09 04:00
+
+#### [‘Picks and shovels’ companies profit from data centre scramble](https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59)
+**发布时间**: 2026-06-09 04:00
+
+#### [Apple unveils ‘Siri AI’ in challenge to rival chatbots](https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff)
+**发布时间**: 2026-06-09 00:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down](https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 07:37
+
+#### [BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.](https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 00:56
 
 ---
 
