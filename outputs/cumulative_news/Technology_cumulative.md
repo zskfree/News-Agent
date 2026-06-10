@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-09 08:33
+**最后更新时间**: 2026-06-10 00:17
+
+---
+
+## 🆕 最新更新 (2026-06-10 00:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（6月10日）](https://www.tmtpost.com/8021806.html)
+**发布时间**: 2026-06-10 07:51
+
+#### [【钛晨报】被美国列入中国军工企业名单？阿里巴巴、百度、蔚来、比亚迪等集体发声；微信AI生态开放内测，京东、美团、携程等十余家企业首批接入；OpenAI向美国证监会秘密提交IPO的S-1草案，尚未决定上市时间](https://www.tmtpost.com/8021581.html)
+**发布时间**: 2026-06-10 07:20
+
+#### [王伟东：从“东方蓝宝石”设计师到AI时代的建筑“破壁人”](https://www.tmtpost.com/8021629.html)
+**发布时间**: 2026-06-09 22:07
+
+#### [赛豆需要“第一责任人”](https://www.tmtpost.com/8020209.html)
+**发布时间**: 2026-06-09 18:22
+
+#### [超140亿营收赚不到2亿，健合的钱被谁拿走了？](https://www.tmtpost.com/8020210.html)
+**发布时间**: 2026-06-09 18:17
+
+#### [翻译一本书只要半小时，为什么出版没有爆炸？](https://www.tmtpost.com/8021017.html)
+**发布时间**: 2026-06-09 18:16
+
+#### [帕累托最优之下，美的集团人事迭代的边界与代价](https://www.tmtpost.com/8020666.html)
+**发布时间**: 2026-06-09 18:16
+
+#### [说服女王：从大航海赞助到SpaceX的史上最大IPO](https://www.tmtpost.com/8019277.html)
+**发布时间**: 2026-06-09 18:15
+
+#### [Avenir Group 下注 WasabiCard：为什么 U 卡退潮，稳定币支付反而更香了？](https://www.tmtpost.com/8020303.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [补贴退潮、格局重构：新能源重卡“规模化”闯关](https://www.tmtpost.com/8020265.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [2.8万台机器人领了“中国护照”，海外认吗？](https://www.tmtpost.com/8020033.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [林俊旸出走三个月后，阿里用Token Foundry结束了英雄时代](https://www.tmtpost.com/8020010.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [teamLab悄悄退场：一个曾经排长队的IP，怎么就开不下去了？](https://www.tmtpost.com/8021037.html)
+**发布时间**: 2026-06-09 18:11
+
+#### [张小龙10年前就预判了Agent，微信AI将改变一切？](https://www.tmtpost.com/8021166.html)
+**发布时间**: 2026-06-09 18:00
+
+#### [国产汽车如何塑造专属品牌气质](https://www.tmtpost.com/8020992.html)
+**发布时间**: 2026-06-09 18:00
+
+#### [半年估值暴涨近7倍，月之暗面再启20亿美元融资](https://www.tmtpost.com/8021100.html)
+**发布时间**: 2026-06-09 18:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误](https://www.infoq.cn/article/sElIC5qTiH6iTiFJvDEk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 18:00
+
+#### [解码热门AI应用，智能质检、3D生成与AIGC实践分享](https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:41
+
+#### [Multi-Agent+工作流如何打造更泛化的智能体应用](https://www.infoq.cn/video/mU2DUpqtlo7HvmNTxxZk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)
+**发布时间**: 2026-06-09 17:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [YouTube 一哥手搓了个 AI 工作台，一周就 5 万多 Star 。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534396&idx=1&sn=fd13b0cbb8fe850e8dac56d12649c132)
+**发布时间**: 2026-06-09 13:48
 
 ---
 

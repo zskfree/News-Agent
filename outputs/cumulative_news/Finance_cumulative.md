@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-09 08:33
+**最后更新时间**: 2026-06-10 00:17
+
+---
+
+## 🆕 最新更新 (2026-06-10 00:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Super Micro stock plunges as $7 billion equity raise overshadows booming backlog](https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 00:12
+
+#### [This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds](https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 23:17
+
+#### [Apple’s AI could usher in a historic upgrade cycle that investors are overlooking](https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 22:00
+
+#### [Micron and other memory makers are driving a ‘supercycle’ for this corner of the chip sector](https://www.marketwatch.com/story/micron-and-other-memory-makers-are-driving-a-supercycle-for-this-corner-of-the-chip-sector-398c40c5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 21:58
+
+#### [AST SpaceMobile’s stock experiences rocky trading as SpaceX plans to launch its satellites into orbit](https://www.marketwatch.com/story/ast-spacemobiles-stock-experiences-rocky-trading-as-spacex-plans-to-launch-its-satellites-into-orbit-331b3c3b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 21:55
+
+#### [GM follows Ford by making a big energy bet — this time with an unconventional approach](https://www.marketwatch.com/story/gm-follows-ford-by-making-a-big-energy-bet-but-heres-the-quirky-twist-eae9b5ee?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 21:20
+
+#### [Angst over SpaceX IPO adds to dive in tech stocks](https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 21:14
+
+#### [A powerful inflation storm is brewing — and your portfolio isn’t ready](https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 20:23
+
+#### [Adobe needs a new CEO to make bold AI moves, and its choice could be revealed on Thursday](https://www.marketwatch.com/story/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday-31269df8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-09 20:21
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches strikes on Iran after downing of American helicopter](https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09)
+**发布时间**: 2026-06-09 21:31
+
+#### [Oil slides as US official says Hormuz transits are ‘meaningfully’ climbing](https://www.ft.com/content/c7e5bbbd-65ed-4678-baee-a4b63123e0e5)
+**发布时间**: 2026-06-09 21:09
+
+#### [Apollo hunts for Japanese life insurer to boost growth](https://www.ft.com/content/7462744e-530e-459b-a89f-581a242bc0f9)
+**发布时间**: 2026-06-09 21:00
+
+#### [Taiwan’s opposition leader tells US and China not to use her country as ‘pawn’](https://www.ft.com/content/4f667f6f-efd0-4c3f-ab49-9f0d1099a8ba)
+**发布时间**: 2026-06-09 20:53
+
+#### [Nasdaq slips in volatile trading as 2026 high-flyers pull back](https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede)
+**发布时间**: 2026-06-09 20:15
+
+#### [Do black holes do more than devour matter?](https://www.ft.com/content/39af5a8f-b291-4ae7-bce9-daab1b5cc91b)
+**发布时间**: 2026-06-09 17:21
+
+#### [Brussels orders Meta to open WhatsApp to rival AI agents](https://www.ft.com/content/dda5bc48-d2ef-40ce-98f7-920bb8cf65ca)
+**发布时间**: 2026-06-09 15:22
+
+#### [Trump is becoming Jimmy Carter](https://www.ft.com/content/c6e506e0-4b95-437b-8fad-ac436a71c3de)
+**发布时间**: 2026-06-09 11:13
+
+#### [Real Madrid and the dangers of mixing fans and finance](https://www.ft.com/content/424f292c-df34-4fd1-9b2e-f88c95cdecf3)
+**发布时间**: 2026-06-09 11:00
+
+#### [Will Trump abandon Taiwan?](https://www.ft.com/content/393548bc-3302-47f1-a40f-4526fba8a755)
+**发布时间**: 2026-06-09 04:00
+
+#### [The unlikely corporate winners of AI](https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59)
+**发布时间**: 2026-06-09 04:00
+
+#### [Fifa faces empty seats as 180,000 World Cup tickets hit resale market](https://www.ft.com/content/ac26baee-691d-4e77-9fbf-756aaa463b63)
+**发布时间**: 2026-06-09 04:00
 
 ---
 

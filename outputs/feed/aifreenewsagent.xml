@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 09 Jun 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 08:34:00 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 00:15:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:17:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,75 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Agent时代的CPU军备竞赛，至强6+如何把Agentic AI变成生产力？</title>
-      <link>https://www.leiphone.com/category/chips/8QdT8eNj1uWJ7cQt.html</link>
-      <description>&lt;![CDATA[Agent时代的CPU军备竞赛，至强6+如何把Agentic AI变成生产力？]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 14:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/8QdT8eNj1uWJ7cQt.html</guid>
+      <title>从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026</title>
+      <link>https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html</link>
+      <description>&lt;![CDATA[从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“超级明星创企”昆仑行机器人正式浮出水面</title>
-      <link>https://www.leiphone.com/category/industrynews/VpFBnDCVbZ9lUbUo.html</link>
-      <description>&lt;![CDATA[“超级明星创企”昆仑行机器人正式浮出水面]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VpFBnDCVbZ9lUbUo.html</guid>
+      <title>NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</link>
+      <description>&lt;![CDATA[NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 22:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-06-09日刊</title>
-      <link>https://hex2077.dev/docs/2026-06/2026-06-09/</link>
-      <description>&lt;![CDATA[2026-06-09日刊]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-09/</guid>
+      <title>Introducing North Mini Code: Cohere’s First Model For Developers</title>
+      <link>https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</link>
+      <description>&lt;![CDATA[Introducing North Mini Code: Cohere’s First Model For Developers]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent</title>
-      <link>https://www.qbitai.com/2026/06/433508.html</link>
-      <description>&lt;![CDATA[与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 07:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433508.html</guid>
+      <title>Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/code-switching</link>
+      <description>&lt;![CDATA[Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 19:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/code-switching</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了</title>
-      <link>https://www.qbitai.com/2026/06/433478.html</link>
-      <description>&lt;![CDATA[仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433478.html</guid>
+      <title>Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 20:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>你天天刷的小红书，正在长出一个GitHub</title>
-      <link>https://www.qbitai.com/2026/06/433066.html</link>
-      <description>&lt;![CDATA[你天天刷的小红书，正在长出一个GitHub]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 04:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433066.html</guid>
+      <title>The consequences of relying on AI for accurate news</title>
+      <link>https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609</link>
+      <description>&lt;![CDATA[The consequences of relying on AI for accurate news]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产通用大模型第一梯队，来新人了？！</title>
-      <link>https://www.qbitai.com/2026/06/432747.html</link>
-      <description>&lt;![CDATA[国产通用大模型第一梯队，来新人了？！]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 02:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432747.html</guid>
+      <title>美团发布AI浏览器Tabbit 1.0，可自动执行各类任务</title>
+      <link>https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html</link>
+      <description>&lt;![CDATA[美团发布AI浏览器Tabbit 1.0，可自动执行各类任务]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 16:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek开招土木老哥：自建GW级数据中心</title>
-      <link>https://www.qbitai.com/2026/06/432735.html</link>
-      <description>&lt;![CDATA[DeepSeek开招土木老哥：自建GW级数据中心]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 02:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432735.html</guid>
+      <title>Build an agentic incident triage assistant with Amazon Quick and New Relic</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/</link>
+      <description>&lt;![CDATA[Build an agentic incident triage assistant with Amazon Quick and New Relic]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯想让企业打开AI的方式只剩一个</title>
-      <link>https://www.qbitai.com/2026/06/432631.html</link>
-      <description>&lt;![CDATA[腾讯想让企业打开AI的方式只剩一个]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 01:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432631.html</guid>
+      <title>How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces</title>
+      <link>https://huggingface.co/blog/mishig/spaces-agents-md</link>
+      <description>&lt;![CDATA[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/mishig/spaces-agents-md</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转</title>
+      <link>https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html</link>
+      <description>&lt;![CDATA[滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转]]&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html</guid>
       <category>Ai</category>
     </item>
   </channel>
