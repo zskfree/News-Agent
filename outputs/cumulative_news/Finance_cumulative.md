@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-10 00:17
+**最后更新时间**: 2026-06-10 08:52
+
+---
+
+## 🆕 最新更新 (2026-06-10 08:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The SpaceX IPO could lead to 8% of America’s current-account deficit being refinanced in a single day](https://www.marketwatch.com/story/the-spacex-ipo-could-lead-to-8-of-americas-current-account-deficit-being-refinanced-in-single-day-a013a428?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 08:07
+
+#### [Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.](https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 02:42
+
+#### [This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors](https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 01:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran exchange strikes after downing of American helicopter](https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09)
+**发布时间**: 2026-06-10 06:59
+
+#### [ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe](https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05)
+**发布时间**: 2026-06-10 04:00
+
+#### [Germany’s €100bn bid to make the trains run on time](https://www.ft.com/content/db75e347-b13b-4753-8130-6301bb55c040)
+**发布时间**: 2026-06-10 04:00
+
+#### [Why the world must agree to regulate AI](https://www.ft.com/content/8724874e-f387-4848-bfc4-2411d6f0797f)
+**发布时间**: 2026-06-10 04:00
+
+#### [Simon Kuper’s World Cup: Who will win?](https://www.ft.com/content/1e62563f-1b89-41fb-b174-5b6a5e5b16fe)
+**发布时间**: 2026-06-10 04:00
+
+#### [Ukraine builds cheap alternative to Patriot missiles](https://www.ft.com/content/c5839dd4-c4e9-4503-a605-67dcef053845)
+**发布时间**: 2026-06-10 04:00
+
+#### [Top Goldman executive opposed David Solomon’s backing of Kathy Ruemmler](https://www.ft.com/content/468f48df-c802-4f16-972c-8b2caa1d2802)
+**发布时间**: 2026-06-10 04:00
+
+#### [US stock market to stop shrinking for first time in 23 years](https://www.ft.com/content/f7dae4e1-d650-45ab-ac97-043c7a965d24)
+**发布时间**: 2026-06-10 04:00
+
+#### [How SpaceX’s IPO ambitions ride on Starship’s path to Mars](https://www.ft.com/content/03a05a0c-e581-4161-a11a-daf425fe9766)
+**发布时间**: 2026-06-10 04:00
 
 ---
 

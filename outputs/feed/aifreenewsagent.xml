@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Jun 2026 00:15:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 00:17:52 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:52:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026</title>
-      <link>https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html</link>
-      <description>&lt;![CDATA[从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html</guid>
+      <title>装车量占比仅差0.08%！国轩与中创抢滩巨鲸电池平台，谁能吃到华为生态红利？丨大湾区车展观察</title>
+      <link>https://www.leiphone.com/category/transportation/LeEfS5fv7d8fou4k.html</link>
+      <description>&lt;![CDATA[装车量占比仅差0.08%！国轩与中创抢滩巨鲸电池平台，谁能吃到华为生态红利？丨大湾区车展观察]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/LeEfS5fv7d8fou4k.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</link>
-      <description>&lt;![CDATA[NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 22:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</guid>
+      <title>猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验</title>
+      <link>https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html</link>
+      <description>&lt;![CDATA[猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing North Mini Code: Cohere’s First Model For Developers</title>
-      <link>https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</link>
-      <description>&lt;![CDATA[Introducing North Mini Code: Cohere’s First Model For Developers]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</guid>
+      <title>美团AI浏览器正式上线，聚合多个大模型、强调Agent能力</title>
+      <link>https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html</link>
+      <description>&lt;![CDATA[美团AI浏览器正式上线，聚合多个大模型、强调Agent能力]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/code-switching</link>
-      <description>&lt;![CDATA[Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 19:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/code-switching</guid>
+      <title>英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式</title>
+      <link>https://www.qbitai.com/2026/06/433798.html</link>
+      <description>&lt;![CDATA[英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 07:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433798.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/</link>
-      <description>&lt;![CDATA[Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 20:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/</guid>
+      <title>百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施</title>
+      <link>https://www.qbitai.com/2026/06/433516.html</link>
+      <description>&lt;![CDATA[百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 06:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433516.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The consequences of relying on AI for accurate news</title>
-      <link>https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609</link>
-      <description>&lt;![CDATA[The consequences of relying on AI for accurate news]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609</guid>
+      <title>GPT-5.6首批实测来了！精准狙击Mythos</title>
+      <link>https://www.qbitai.com/2026/06/433731.html</link>
+      <description>&lt;![CDATA[GPT-5.6首批实测来了！精准狙击Mythos]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 06:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433731.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团发布AI浏览器Tabbit 1.0，可自动执行各类任务</title>
-      <link>https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html</link>
-      <description>&lt;![CDATA[美团发布AI浏览器Tabbit 1.0，可自动执行各类任务]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Build an agentic incident triage assistant with Amazon Quick and New Relic</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/</link>
-      <description>&lt;![CDATA[Build an agentic incident triage assistant with Amazon Quick and New Relic]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces</title>
-      <link>https://huggingface.co/blog/mishig/spaces-agents-md</link>
-      <description>&lt;![CDATA[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/mishig/spaces-agents-md</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转</title>
-      <link>https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html</link>
-      <description>&lt;![CDATA[滴滴率先接入微信 AI 生态，一键唤起叫车服务全程不跳转]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/gb1m547vcoMiTJRR.html</guid>
+      <title>Claude Fable 5首日实测，杀疯了…</title>
+      <link>https://www.qbitai.com/2026/06/433682.html</link>
+      <description>&lt;![CDATA[Claude Fable 5首日实测，杀疯了…]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433682.html</guid>
       <category>Ai</category>
     </item>
   </channel>

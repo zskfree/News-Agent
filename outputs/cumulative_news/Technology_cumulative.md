@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-10 00:17
+**最后更新时间**: 2026-06-10 08:52
+
+---
+
+## 🆕 最新更新 (2026-06-10 08:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？](https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:33
+
+#### [零售与消费品公司如何在宏观经济波动中实现同比增长 ｜ 技术趋势](https://www.infoq.cn/article/k4K56JbfmpfPXX2eqwR5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:29
+
+#### [AI Native 的门槛，是把你的公司写下来](https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:28
+
+#### [边缘推理成为AI走向物理世界的核心战场](https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 16:19
+
+#### [精彩预告：“Token 大爆炸〞前夜，数据基础设施何以成为新的变量？](https://www.infoq.cn/video/6T4qfkUryNoFqOwZtLtV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:40
+
+#### [仅 6% 企业能完全搞定 AI 治理，SAP 力推 “自主运营企业” 新模式](https://www.infoq.cn/article/SF45FokGJ2RzGZI4c1lb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:14
+
+#### [如何通过数据驱动的对话文化支撑平台工程](https://www.infoq.cn/article/bmqoUAoTCIChMJfB98l2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 14:00
+
+#### [业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地](https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 13:59
+
+#### [亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%](https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 11:28
+
+#### [开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来](https://www.infoq.cn/article/x6kuFZ6QEGbZbotrM0YG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 10:46
+
+#### [Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海](https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 10:00
+
+#### [Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI](https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 09:44
+
+#### [深入了解谷歌全球服务体系中的 A/B 测试协调系统](https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-10 09:19
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [不做通用AI助手，先做好一个垂直Agent](https://www.tmtpost.com/8021692.html)
+**发布时间**: 2026-06-10 16:18
+
+#### [苹果的 "AI 主权裂缝"：三个相互强化的结构性约束](https://www.tmtpost.com/8021685.html)
+**发布时间**: 2026-06-10 16:18
+
+#### [美宜佳启示：连锁先扩张，后治理失效](https://www.tmtpost.com/8021604.html)
+**发布时间**: 2026-06-10 16:18
+
+#### [4年关闭1.5万家，万店神话褪色后，正新鸡排着急上市](https://www.tmtpost.com/8021454.html)
+**发布时间**: 2026-06-10 16:18
+
+#### [震撼！胰腺癌迎来历史性突破，创新药赛道沸腾了](https://www.tmtpost.com/8021920.html)
+**发布时间**: 2026-06-10 16:18
+
+#### [“不好用”还“不好买”，国产算力的希望在下一代？](https://www.tmtpost.com/8022414.html)
+**发布时间**: 2026-06-10 16:07
+
+#### [开大关小，能成为Zara的新解法吗？](https://www.tmtpost.com/8022460.html)
+**发布时间**: 2026-06-10 16:06
+
+#### [五年投入 150 亿、带来2亿游客，携程要如何搭建入境游体系？](https://www.tmtpost.com/8022452.html)
+**发布时间**: 2026-06-10 16:06
+
+#### [微信搭起Agent牌桌，京东、美团重新落座](https://www.tmtpost.com/8021450.html)
+**发布时间**: 2026-06-10 15:53
+
+#### [被Claude封号后的第五天](https://www.tmtpost.com/8021382.html)
+**发布时间**: 2026-06-10 15:53
+
+#### [Kimi预测世界杯这事，大部分人没看懂](https://www.tmtpost.com/8022165.html)
+**发布时间**: 2026-06-10 15:32
+
+#### [37000亿，史上最大AI IPO潮来了，但美股见顶信号也亮了](https://www.tmtpost.com/8021385.html)
+**发布时间**: 2026-06-10 15:28
+
+#### [苹果的一次体面认输](https://www.tmtpost.com/8021379.html)
+**发布时间**: 2026-06-10 15:28
+
+#### [库克“谢幕”，苹果AI“起航”？苹果2026WWDC](https://www.tmtpost.com/8021469.html)
+**发布时间**: 2026-06-10 15:28
+
+#### [普通人开始用不起强AI了](https://www.tmtpost.com/8022322.html)
+**发布时间**: 2026-06-10 15:28
+
+#### [平晓黎上位史：李彦宏把商业化押给了谁](https://www.tmtpost.com/8022262.html)
+**发布时间**: 2026-06-10 15:01
+
+#### [不追捷径筑长墙，燧原科技的八年突围](https://www.tmtpost.com/8022137.html)
+**发布时间**: 2026-06-10 14:59
+
+#### [A Cornered Beast: China's Ride-Hailing Giant HelloBike Spirals Out of Control](https://www.tmtpost.com/8022419.html)
+**发布时间**: 2026-06-10 14:57
+
+#### [微信AI要把豆包干不了的那件事干了](https://www.tmtpost.com/8021931.html)
+**发布时间**: 2026-06-10 12:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
+**发布时间**: 2026-06-10 15:00
+
+#### [告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
+**发布时间**: 2026-06-10 11:29
+
+#### [这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
+**发布时间**: 2026-06-10 11:00
+
+#### [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
+**发布时间**: 2026-06-10 08:14
 
 ---
 
