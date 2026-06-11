@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5c0cf6c3e736e34f0171ad1f37c896445a648034cf690131bb428119805832d7": {
-        "title": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
-        "link": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 14:23:00 GMT",
-        "first_seen": "2026-05-12T07:44:41.167148"
-      },
-      "0a06d8c9692c8282d1b9228e13bd947104411abbcc9cc8dad7c159c03d450d75": {
-        "title": "Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性",
-        "link": "https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 12:12:00 GMT",
-        "first_seen": "2026-05-12T07:44:41.167155"
-      },
-      "2bf23fee5082bc65937283c8e8e666a1247b4227a12828b58f823e52c67c8195": {
-        "title": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
-        "link": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 10:07:00 GMT",
-        "first_seen": "2026-05-12T07:44:41.167157"
-      },
-      "012107d4b713da988abf4cb51037e73e1b38fea935b4b8e702f056feeb276aa5": {
-        "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
-        "link": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 15:38:00 GMT",
-        "first_seen": "2026-05-12T07:44:41.167159"
-      },
-      "52360d80595bf1e563834291ad2e966649942827c967fe282b8ee0ebbfc5a384": {
-        "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
-        "link": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 11:40:00 GMT",
-        "first_seen": "2026-05-12T07:44:41.167160"
-      },
       "fb2db153122b54461ab6c90326897282c88d81d843caff3fd87a73653f4bec70": {
         "title": "千问重构淘宝，阿里“推翻”阿里",
         "link": "https://www.tmtpost.com/7984593.html",
@@ -3001,39 +2971,69 @@
         "link": "https://www.tmtpost.com/8021692.html",
         "published_date": "Wed, 10 Jun 2026 16:18:00 GMT",
         "first_seen": "2026-06-11T00:19:33.375921"
+      },
+      "78bd066ef98624c5b84f6ee76b9580d59e5995a53ce01a6da3983ddfed46814e": {
+        "title": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers",
+        "link": "https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 16:59:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803262"
+      },
+      "607a5d99f95ed0daf8501cd64a6de693ec3bdfae3c757d1da1a8bb597090adca": {
+        "title": "Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）",
+        "link": "https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 15:48:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803268"
+      },
+      "073cd6255f4eb498d4e7135ce76295dacac1e2928a1c170e7bc1cc5a4b8a9b1a": {
+        "title": "物理 AI 为何押注世界模型？",
+        "link": "https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 15:27:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803270"
+      },
+      "cfc345a925cee7f5041c8057514721fd80ee9c1b6eb65e1eb81bf226c61cf11c": {
+        "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "link": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 11:47:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803272"
+      },
+      "a4546458bafbf15820cabf8710dbe62cb97b2d4ad8f7b336d2dced3595676230": {
+        "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+        "link": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803274"
+      },
+      "629593a58105e68a914c75f81b7abd182e655c69d0c9b6c319155902247782ef": {
+        "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+        "link": "https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 09:23:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803275"
+      },
+      "38c8b08ae1e32dd8e29d842ae39599348aee5375aae85d27c3b913eed08d1eb5": {
+        "title": "四个月烧光全年AI预算，为啥连Uber也烧不起token了？",
+        "link": "https://www.tmtpost.com/8023530.html",
+        "published_date": "Thu, 11 Jun 2026 13:56:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803277"
+      },
+      "dfea95f18da06ddd0e4240031b5b14556973d7acdc7126012b9300c2b4d49997": {
+        "title": "赛博无间道：AI时代的网络攻防战",
+        "link": "https://www.tmtpost.com/8023974.html",
+        "published_date": "Thu, 11 Jun 2026 13:58:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803278"
+      },
+      "1ca24de0cf4268ac9faeed2d337e2e7e4ea2ac982343797f623db47f2d1b57e8": {
+        "title": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+        "link": "https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 11:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803279"
+      },
+      "858921c6a126bb734530d68fd9c611ba019a1d0abeee5a995e5ce00d6b654f48": {
+        "title": "Zero 1.0发布，Rocicorp Web同步引擎迎来首个稳定版",
+        "link": "https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 13:19:00 GMT",
+        "first_seen": "2026-06-11T09:14:55.803281"
       }
     },
     "Finance": {
-      "ed09f60117da3d3d2c9f46afb763d717fa437b1f111e59bb181c1bd32b1cbeb3": {
-        "title": "Kevin Warsh to face resurgent inflation and an impatient Trump as Fed chair",
-        "link": "https://www.ft.com/content/af3bc83f-8a3c-4280-aa80-9d16bbd0cb6d",
-        "published_date": "Tue, 12 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.467867"
-      },
-      "ade248f8e3d3182cd0db12bf5faaab9b15bd0a7b91bdeaa3f3463e6aee7d16f2": {
-        "title": "Japan says Bessent offered ‘understanding’ on yen intervention",
-        "link": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
-        "published_date": "Tue, 12 May 2026 05:27:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.467875"
-      },
-      "e19dd90e70d69c93db939df9fdacd876d5562181151b618b95da4e0df68b51c5": {
-        "title": "UK government bonds and sterling drop as pressure on Starmer grows",
-        "link": "https://www.ft.com/content/c2455a7b-8cb5-42f9-9515-6ae664341e26",
-        "published_date": "Tue, 12 May 2026 07:08:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.467878"
-      },
-      "01bbf6bfe124d79bb7c20e07f838ce7a189ca3df93f349623029e8697eb2c5b0": {
-        "title": "Hedge funds bet on biofuels to profit from Iran oil price shock",
-        "link": "https://www.ft.com/content/d6a00598-3c42-4d0d-ae6a-82ea8f086f0c",
-        "published_date": "Tue, 12 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.467880"
-      },
-      "76680363ccc44081559742839818bcd2795a50ac0e2842b3d8cdb16780a5843b": {
-        "title": "UAE gas plant hit by Iranian attacks will not be fully repaired until 2027",
-        "link": "https://www.ft.com/content/ca7434f9-28f0-4a36-a8c1-1bd2c46c8154",
-        "published_date": "Tue, 12 May 2026 07:25:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.467882"
-      },
       "b58cf9033d1142a25a9e778f12ad613dc6270cdb87baa1aae0c935eb60c5e4d6": {
         "title": "UK borrowing costs surge as Starmer leadership crisis rattles bond markets",
         "link": "https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d",
@@ -5649,27 +5649,69 @@
         "link": "https://www.marketwatch.com/story/bitcoin-bulls-are-still-around-these-charts-show-they-just-moved-on-to-hotter-markets-8e04c48c?mod=mw_rss_topstories",
         "published_date": "Wed, 10 Jun 2026 21:54:00 GMT",
         "first_seen": "2026-06-11T00:19:34.516006"
+      },
+      "c4912472c234325bd41eb3e3124e6fdacf89e5dfa194a183c9baf9ad5352e1d1": {
+        "title": "Iran war tightens ‘super-squeeze’ in metals markets",
+        "link": "https://www.ft.com/content/44d4b188-45ed-4e7e-a5eb-278da62ac601",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882338"
+      },
+      "b4bc0107514821ca9c495d354c64450afa40426f2c3a6850ab1da8a97c7079f6": {
+        "title": "Markets are pricing in a rate hike by the European Central Bank — which one top economist sees as a ‘mistake in the making’",
+        "link": "https://www.marketwatch.com/story/markets-are-pricing-in-a-rate-hike-by-the-european-central-bank-and-that-could-be-a-mistake-in-the-making-b99771ca?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 06:36:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882345"
+      },
+      "32ac9b08425ad1d30f338e7ea129960a810cc0185de9a6a13222f8df7d6b0bfb": {
+        "title": "We will need a new tax code for the wealth AI creates",
+        "link": "https://www.ft.com/content/b277360e-bf23-4366-afd7-acab940f66b7",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882347"
+      },
+      "f79ddf20f17a5133d19e0d320c071f6c02addabba38ad98900c5545d6e343c10": {
+        "title": "How SpaceX could pull millions of savers into Musk’s orbit",
+        "link": "https://ig.ft.com/spacex-ipo/",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882349"
+      },
+      "aa4d98e3d0b492f584f72ad5285f3955975f964f336c914fc73a94f5e3604764": {
+        "title": "China cancels high-level meetings with EU",
+        "link": "https://www.ft.com/content/5903318c-319b-426e-b05d-062f7620f799",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882351"
+      },
+      "def4e094e66a97fc20170f96b8e9e918d684424a7cf3da3c108e136a6cf76138": {
+        "title": "EU countries weigh ‘tearing apart’ bloc’s diplomatic service",
+        "link": "https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882352"
+      },
+      "22658c0502ffb003116df6c356bdcd0d918477922df020432ec1d50a87ae02d5": {
+        "title": "US and Iran exchange fresh wave of strikes",
+        "link": "https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae",
+        "published_date": "Thu, 11 Jun 2026 08:43:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882354"
+      },
+      "2e49e867f9497c4f52e70432937e9e201e38f4becb7c50e056b5d6f68c5a94a5": {
+        "title": "Can Europe build a new fighter jet after Germany scraps joint venture?",
+        "link": "https://www.ft.com/content/ad600574-64c9-421d-b3a3-4ea24f73e440",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882356"
+      },
+      "7a209c72a41239f12979ebde7c0a4dafe47a7131c396bf6ee9754ecc5d540b28": {
+        "title": "Kathy Ruemmler helps search for her own replacement as Goldman’s top lawyer",
+        "link": "https://www.ft.com/content/25a6b16b-5f3e-45e8-aeda-33f9f21845ed",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882358"
+      },
+      "419fb7e5316c3394c6fd18de35576b18cc9214dc4f37e194c30afeb853fd76ea": {
+        "title": "Emirates to offer insurance to tempt passengers back to Dubai",
+        "link": "https://www.ft.com/content/ff64e964-52e9-435f-8dca-bcb9f0508190",
+        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-11T09:14:56.882359"
       }
     },
     "Ai": {
-      "c68c6bf9d93522e08ec8f01f6878cebf1d7e690158ae7ffae57ddac56ac46d00": {
-        "title": "2026-05-12日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-12/",
-        "published_date": "Tue, 12 May 2026 10:13:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.619514"
-      },
-      "8d6442293f62c704fd464c02fc7eb4585683a2d32f4ff17daea1d76534ff5e77": {
-        "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-        "link": "https://www.qbitai.com/2026/05/416056.html",
-        "published_date": "Tue, 12 May 2026 06:06:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.619523"
-      },
-      "cdd52f147cc8a7d51398419ffe2beaa480e79f2a542dc38eafd2c59aa26cfbc0": {
-        "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-        "link": "https://www.qbitai.com/2026/05/416034.html",
-        "published_date": "Tue, 12 May 2026 04:02:00 GMT",
-        "first_seen": "2026-05-12T07:44:11.619525"
-      },
       "351262ea264afe72defce34a55fde48f6ecc277f7a3954e980861516e37bfcb6": {
         "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
         "link": "https://www.qbitai.com/2026/05/416582.html",
@@ -7799,13 +7841,73 @@
         "link": "https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html",
         "published_date": "Wed, 10 Jun 2026 16:35:00 GMT",
         "first_seen": "2026-06-11T00:19:31.818319"
+      },
+      "706baee305da22fc13435115036906942679b93f687129d3cbd3191f5ebf757f": {
+        "title": "CVPR 2026终极盘点：这5篇论文、1个演讲、3个展台，藏着计算机视觉下一个十年的答案",
+        "link": "https://www.leiphone.com/category/ai/dvz76xNimms03Mgz.html",
+        "published_date": "Thu, 11 Jun 2026 11:49:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843646"
+      },
+      "5a3396fe9ed2d788bdc49e5889aa42af631ff75112f92e3c9d7cd2b522d7762d": {
+        "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+        "link": "https://www.qbitai.com/2026/06/434317.html",
+        "published_date": "Thu, 11 Jun 2026 04:18:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843656"
+      },
+      "ba4e41cff6ae31684b517546123884ecf0a55dac80d27631018db95045bc1836": {
+        "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "link": "https://www.qbitai.com/2026/06/434225.html",
+        "published_date": "Thu, 11 Jun 2026 01:18:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843658"
+      },
+      "d0770b963f3fb152888eb594f63d7ca3a5910ba1bb884abd1fa896d5a4800159": {
+        "title": "How frontier teams are reinventing AI-native development",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+        "published_date": "Thu, 11 Jun 2026 00:54:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843660"
+      },
+      "e508834a7aa6dfd141594499ffbf6bc31d380c5ef21abc294115728dc0293294": {
+        "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+        "link": "https://www.qbitai.com/2026/06/434316.html",
+        "published_date": "Thu, 11 Jun 2026 04:17:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843661"
+      },
+      "63963e4e5f0c3225bfbd311e8df16bc2b12d221a2b85dc6750046df349b37ea9": {
+        "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+        "link": "https://www.qbitai.com/2026/06/434326.html",
+        "published_date": "Thu, 11 Jun 2026 04:16:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843663"
+      },
+      "7cf23a01b46fa63788749ec074e2ceebd681bbee3bac4b53fff7b754c7be3348": {
+        "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+        "link": "https://www.qbitai.com/2026/06/434571.html",
+        "published_date": "Thu, 11 Jun 2026 08:23:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843665"
+      },
+      "5438e53e82b81edddc35b8223eb7d4a598f6058f2136cbc5bfd895e50f791c36": {
+        "title": "AI短剧工具赛道，年度最大单笔融资来了",
+        "link": "https://www.qbitai.com/2026/06/434298.html",
+        "published_date": "Thu, 11 Jun 2026 04:07:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843666"
+      },
+      "76d0ee303a713cfba8ee0b56484cc7ed4bcc059a56a3f08a1c56a62cfdf0eab5": {
+        "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+        "link": "https://www.qbitai.com/2026/06/434558.html",
+        "published_date": "Thu, 11 Jun 2026 07:25:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843668"
+      },
+      "d46f617d1f527dc150bfd1ffa6d207749a5f28fe89f14019c4f87af8815d7e20": {
+        "title": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务",
+        "link": "https://www.qbitai.com/2026/06/434268.html",
+        "published_date": "Thu, 11 Jun 2026 02:08:00 GMT",
+        "first_seen": "2026-06-11T09:14:53.843670"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-11T00:19:33.375924",
-    "Finance": "2026-06-11T00:19:34.516008",
-    "Ai": "2026-06-11T00:19:31.818321"
+    "Technology": "2026-06-11T09:14:55.803284",
+    "Finance": "2026-06-11T09:14:56.882361",
+    "Ai": "2026-06-11T09:14:53.843672"
   }
 }

@@ -1,7 +1,118 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-11 00:19
+**最后更新时间**: 2026-06-11 09:14
+
+---
+
+## 🆕 最新更新 (2026-06-11 09:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“Token 大爆炸”前夜，数据基础设施正在成为新的变量](https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 17:01
+
+#### [构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers](https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 16:59
+
+#### [“Token 大爆炸”前夜，数据基础设施何以成为新的变量？](https://www.infoq.cn/video/SPpYl2LXz47cVbNwxgAa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 15:51
+
+#### [Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）](https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 15:48
+
+#### [技术采用曲线：回望二十年](https://www.infoq.cn/article/18jtsTpet9akBXV61U7y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 15:44
+
+#### [物理 AI 为何押注世界模型？](https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 15:27
+
+#### [拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技](https://www.infoq.cn/article/2x5IiWrVEdg6IAJTXF8g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 15:12
+
+#### [Zero 1.0发布，Rocicorp Web同步引擎迎来首个稳定版](https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 13:19
+
+#### [推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地](https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 11:47
+
+#### [亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端](https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 11:00
+
+#### [Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海](https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 10:00
+
+#### [Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈](https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 09:23
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [物理AI进场以后，谁来定义“干得对”？](https://www.tmtpost.com/8024220.html)
+**发布时间**: 2026-06-11 16:26
+
+#### [滴滴 8.0来了：一个入口，更多出发](https://www.tmtpost.com/8024286.html)
+**发布时间**: 2026-06-11 16:19
+
+#### [黄仁勋：流动的吉祥物](https://www.tmtpost.com/8024122.html)
+**发布时间**: 2026-06-11 16:08
+
+#### [小红书能用二创榨干世界杯IP吗？](https://www.tmtpost.com/8024113.html)
+**发布时间**: 2026-06-11 16:03
+
+#### [大厂 AI 的“包身工困境”](https://www.tmtpost.com/8024120.html)
+**发布时间**: 2026-06-11 15:58
+
+#### [资本泡沫，大多源于短利思维对长期价值的僭越](https://www.tmtpost.com/8024172.html)
+**发布时间**: 2026-06-11 15:58
+
+#### [从“肉身管理”到"数据巡厂”：一家服装制造企业的AI改造实验](https://www.tmtpost.com/8023580.html)
+**发布时间**: 2026-06-11 15:42
+
+#### [一季度暴涨200%的油气牛股，突然变成了散户“绞肉机”……](https://www.tmtpost.com/8023383.html)
+**发布时间**: 2026-06-11 14:48
+
+#### [法国总统“带货”的眼镜，破产了](https://www.tmtpost.com/8023862.html)
+**发布时间**: 2026-06-11 14:43
+
+#### [我在贵州大山里学AI](https://www.tmtpost.com/8023973.html)
+**发布时间**: 2026-06-11 14:39
+
+#### [全球已无增量市场，非洲手机消费高端化还能走多远？](https://www.tmtpost.com/8023958.html)
+**发布时间**: 2026-06-11 14:31
+
+#### [共享单车十二年：一个被资本催熟的行业样本](https://www.tmtpost.com/8023824.html)
+**发布时间**: 2026-06-11 14:15
+
+#### [实探Rokid门店，偷拍整改声明之外的灰色缝隙](https://www.tmtpost.com/8023591.html)
+**发布时间**: 2026-06-11 14:09
+
+#### [“电梯一吻”亲掉230多亿，黄仁勋“中国搭子”塌房了？](https://www.tmtpost.com/8023010.html)
+**发布时间**: 2026-06-11 14:03
+
+#### [1290万考生，命运交给AI的第一个夏天](https://www.tmtpost.com/8023126.html)
+**发布时间**: 2026-06-11 14:02
+
+#### [赛博无间道：AI时代的网络攻防战](https://www.tmtpost.com/8023974.html)
+**发布时间**: 2026-06-11 13:58
+
+#### [百亿帝国交棒时刻，浙商二代能否守住父辈的江山？](https://www.tmtpost.com/8023796.html)
+**发布时间**: 2026-06-11 13:57
+
+#### [第14家阿那亚落地厦门，新中产还够用吗？](https://www.tmtpost.com/8023547.html)
+**发布时间**: 2026-06-11 13:57
+
+#### [四个月烧光全年AI预算，为啥连Uber也烧不起token了？](https://www.tmtpost.com/8023530.html)
+**发布时间**: 2026-06-11 13:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
+**发布时间**: 2026-06-11 14:58
+
+#### [苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点](https://sspai.com/post/75419)
+**发布时间**: 2026-06-11 11:41
+
+#### [派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
+**发布时间**: 2026-06-11 08:47
 
 ---
 

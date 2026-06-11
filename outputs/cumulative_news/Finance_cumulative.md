@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-11 00:19
+**最后更新时间**: 2026-06-11 09:14
+
+---
+
+## 🆕 最新更新 (2026-06-11 09:14)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [After more than a year, ‘Superman’ star Nicholas Hoult finally sells $2.2 million L.A. home at a big loss](https://www.marketwatch.com/story/after-more-than-a-year-superman-star-nicholas-hoult-finally-sells-2-2-million-l-a-home-at-a-big-loss-0b0a2b8e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 09:01
+
+#### [Markets are pricing in a rate hike by the European Central Bank — which one top economist sees as a ‘mistake in the making’](https://www.marketwatch.com/story/markets-are-pricing-in-a-rate-hike-by-the-european-central-bank-and-that-could-be-a-mistake-in-the-making-b99771ca?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 06:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran exchange fresh wave of strikes](https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae)
+**发布时间**: 2026-06-11 08:43
+
+#### [EU countries weigh ‘tearing apart’ bloc’s diplomatic service](https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd)
+**发布时间**: 2026-06-11 04:00
+
+#### [How SpaceX could pull millions of savers into Musk’s orbit](https://ig.ft.com/spacex-ipo/)
+**发布时间**: 2026-06-11 04:00
+
+#### [We will need a new tax code for the wealth AI creates](https://www.ft.com/content/b277360e-bf23-4366-afd7-acab940f66b7)
+**发布时间**: 2026-06-11 04:00
+
+#### [Can Europe build a new fighter jet after Germany scraps joint venture?](https://www.ft.com/content/ad600574-64c9-421d-b3a3-4ea24f73e440)
+**发布时间**: 2026-06-11 04:00
+
+#### [Iran war tightens ‘super-squeeze’ in metals markets](https://www.ft.com/content/44d4b188-45ed-4e7e-a5eb-278da62ac601)
+**发布时间**: 2026-06-11 04:00
+
+#### [Kathy Ruemmler helps search for her own replacement as Goldman’s top lawyer](https://www.ft.com/content/25a6b16b-5f3e-45e8-aeda-33f9f21845ed)
+**发布时间**: 2026-06-11 04:00
+
+#### [Emirates to offer insurance to tempt passengers back to Dubai](https://www.ft.com/content/ff64e964-52e9-435f-8dca-bcb9f0508190)
+**发布时间**: 2026-06-11 04:00
+
+#### [China cancels high-level meetings with EU](https://www.ft.com/content/5903318c-319b-426e-b05d-062f7620f799)
+**发布时间**: 2026-06-11 04:00
 
 ---
 

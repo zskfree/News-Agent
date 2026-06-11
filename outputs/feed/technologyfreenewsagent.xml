@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Jun 2026 00:19:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2026 00:19:33 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 09:14:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:14:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？</title>
-      <link>https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers</title>
+      <link>https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7</title>
-      <link>https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）</title>
+      <link>https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 为 Codex 智能体打造安全的 Windows 沙盒</title>
-      <link>https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 为 Codex 智能体打造安全的 Windows 沙盒]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>物理 AI 为何押注世界模型？</title>
+      <link>https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[物理 AI 为何押注世界模型？]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病</title>
-      <link>https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地</title>
+      <link>https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI</title>
-      <link>https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海</title>
+      <link>https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“不好用”还“不好买”，国产算力的希望在下一代？</title>
-      <link>https://www.tmtpost.com/8022414.html</link>
-      <description>&lt;![CDATA[“不好用”还“不好买”，国产算力的希望在下一代？]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 16:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8022414.html</guid>
+      <title>Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈</title>
+      <link>https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 09:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vibe Coding到Vibe Working，职场人该学会指挥Agent团队了</title>
-      <link>https://www.tmtpost.com/8022563.html</link>
-      <description>&lt;![CDATA[Vibe Coding到Vibe Working，职场人该学会指挥Agent团队了]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8022563.html</guid>
+      <title>四个月烧光全年AI预算，为啥连Uber也烧不起token了？</title>
+      <link>https://www.tmtpost.com/8023530.html</link>
+      <description>&lt;![CDATA[四个月烧光全年AI预算，为啥连Uber也烧不起token了？]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8023530.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Siri补齐短板，苹果AI还需关键一跃</title>
-      <link>https://www.tmtpost.com/8021976.html</link>
-      <description>&lt;![CDATA[Siri补齐短板，苹果AI还需关键一跃]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021976.html</guid>
+      <title>赛博无间道：AI时代的网络攻防战</title>
+      <link>https://www.tmtpost.com/8023974.html</link>
+      <description>&lt;![CDATA[赛博无间道：AI时代的网络攻防战]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8023974.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不追捷径筑长墙，燧原科技的八年突围</title>
-      <link>https://www.tmtpost.com/8022137.html</link>
-      <description>&lt;![CDATA[不追捷径筑长墙，燧原科技的八年突围]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8022137.html</guid>
+      <title>亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端</title>
+      <link>https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不做通用AI助手，先做好一个垂直Agent</title>
-      <link>https://www.tmtpost.com/8021692.html</link>
-      <description>&lt;![CDATA[不做通用AI助手，先做好一个垂直Agent]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021692.html</guid>
+      <title>Zero 1.0发布，Rocicorp Web同步引擎迎来首个稳定版</title>
+      <link>https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Zero 1.0发布，Rocicorp Web同步引擎迎来首个稳定版]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 13:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
