@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Jun 2026 08:50:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 08:52:22 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 00:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:19:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>装车量占比仅差0.08%！国轩与中创抢滩巨鲸电池平台，谁能吃到华为生态红利？丨大湾区车展观察</title>
-      <link>https://www.leiphone.com/category/transportation/LeEfS5fv7d8fou4k.html</link>
-      <description>&lt;![CDATA[装车量占比仅差0.08%！国轩与中创抢滩巨鲸电池平台，谁能吃到华为生态红利？丨大湾区车展观察]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/LeEfS5fv7d8fou4k.html</guid>
+      <title>NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI</title>
+      <link>https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</link>
+      <description>&lt;![CDATA[NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验</title>
-      <link>https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html</link>
-      <description>&lt;![CDATA[猫眼娱乐成首批接入微信AI生态团队，打造智能化票务新体验]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IFUwTraq1nA2j08s.html</guid>
+      <title>Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/</link>
+      <description>&lt;![CDATA[Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团AI浏览器正式上线，聚合多个大模型、强调Agent能力</title>
-      <link>https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html</link>
-      <description>&lt;![CDATA[美团AI浏览器正式上线，聚合多个大模型、强调Agent能力]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CUaS5ZOnMSrwjs7u.html</guid>
+      <title>New framework for auditing machine unlearning</title>
+      <link>https://research.google/blog/new-framework-for-auditing-machine-unlearning/</link>
+      <description>&lt;![CDATA[New framework for auditing machine unlearning]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/new-framework-for-auditing-machine-unlearning/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式</title>
-      <link>https://www.qbitai.com/2026/06/433798.html</link>
-      <description>&lt;![CDATA[英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433798.html</guid>
+      <title>For Robotaxis, Safety Must Be Built In, Not Bolted On</title>
+      <link>https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</link>
+      <description>&lt;![CDATA[For Robotaxis, Safety Must Be Built In, Not Bolted On]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施</title>
-      <link>https://www.qbitai.com/2026/06/433516.html</link>
-      <description>&lt;![CDATA[百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 06:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433516.html</guid>
+      <title>中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达</title>
+      <link>https://www.qbitai.com/2026/06/434196.html</link>
+      <description>&lt;![CDATA[中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434196.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5.6首批实测来了！精准狙击Mythos</title>
-      <link>https://www.qbitai.com/2026/06/433731.html</link>
-      <description>&lt;![CDATA[GPT-5.6首批实测来了！精准狙击Mythos]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433731.html</guid>
+      <title>会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析</title>
+      <link>https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html</link>
+      <description>&lt;![CDATA[会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 23:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude Fable 5首日实测，杀疯了…</title>
-      <link>https://www.qbitai.com/2026/06/433682.html</link>
-      <description>&lt;![CDATA[Claude Fable 5首日实测，杀疯了…]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 05:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433682.html</guid>
+      <title>重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态</title>
+      <link>https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html</link>
+      <description>&lt;![CDATA[重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询</title>
+      <link>https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html</link>
+      <description>&lt;![CDATA[千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>东风联手九识，商用无人车也有“HI模式”了</title>
+      <link>https://www.qbitai.com/2026/06/433956.html</link>
+      <description>&lt;![CDATA[东风联手九识，商用无人车也有“HI模式”了]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 11:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/433956.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式</title>
+      <link>https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html</link>
+      <description>&lt;![CDATA[火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html</guid>
       <category>Ai</category>
     </item>
   </channel>

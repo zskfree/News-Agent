@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-10 08:52
+**最后更新时间**: 2026-06-11 00:19
+
+---
+
+## 🆕 最新更新 (2026-06-11 00:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?](https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 00:15
+
+#### [My elderly mother and I own a home together. Will Medicaid force its sale?](https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 23:48
+
+#### [When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.](https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 23:25
+
+#### [Social Security is facing a 22% cliff — 4 ways to build an income stream Washington can’t touch](https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 23:24
+
+#### [Thinking about insider trading on prediction markets? Kalshi wants to make an example of you.](https://www.marketwatch.com/story/thinking-about-insider-trading-on-prediction-markets-kalshi-wants-to-make-an-example-of-you-74d50486?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 23:22
+
+#### [Oracle’s stock slides after earnings, as the steep price of AI spooks investors](https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 23:17
+
+#### [Micron, Intel drag the tech sector into a new bearish phase. Will the correction last this time?](https://www.marketwatch.com/story/micron-intel-drag-the-tech-sector-into-a-new-bearish-phase-will-the-correction-last-this-time-9ba4f3f5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 22:58
+
+#### [Bitcoin bulls are still around. These charts show they just moved on to hotter markets.](https://www.marketwatch.com/story/bitcoin-bulls-are-still-around-these-charts-show-they-just-moved-on-to-hotter-markets-8e04c48c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 21:54
+
+#### [Why Nike saw its stock downgraded a day before the World Cup’s kickoff](https://www.marketwatch.com/story/nike-has-just-had-its-stock-downgraded-one-day-before-the-world-cup-starts-0ac8cd74?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 20:58
+
+#### [Sports betting is taking a bite out of gamblers’ grocery budgets, new research suggests](https://www.marketwatch.com/story/sports-betting-is-taking-a-bite-out-of-gamblers-grocery-budgets-new-research-suggests-be741857?mod=mw_rss_topstories)
+**发布时间**: 2026-06-10 20:29
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches fresh wave of strikes on Iran](https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae)
+**发布时间**: 2026-06-10 23:37
+
+#### [Oracle to spend $70bn on data centre build-out in coming year](https://www.ft.com/content/974b8392-3197-468c-ac6e-18d0a2efce42)
+**发布时间**: 2026-06-10 22:40
+
+#### [Lockheed Martin cannot say when US allies will get Patriot missiles](https://www.ft.com/content/b4b42e9e-925e-4e58-a55c-fc966ef269f7)
+**发布时间**: 2026-06-10 22:21
+
+#### [US tech stocks sink as volatility flares up on Wall Street](https://www.ft.com/content/bbc8c712-23fe-4cad-b2ee-39dec0e0f3ca)
+**发布时间**: 2026-06-10 20:51
+
+#### [Trump suggests he may not renew trade deal with Mexico and Canada](https://www.ft.com/content/e55a6ab9-d5dd-4a9f-bcb5-9bc0d23e08fb)
+**发布时间**: 2026-06-10 18:42
+
+#### [Trump’s pick to lead statistics agency disputes president’s faked data claims](https://www.ft.com/content/061539b5-b848-442d-bdcf-8d31f2cb2116)
+**发布时间**: 2026-06-10 17:26
+
+#### [Iran says 20,000 people left without water after US hits reservoir tanks](https://www.ft.com/content/155db8a4-f2ff-463b-9c6c-2b1a8104750c)
+**发布时间**: 2026-06-10 15:39
+
+#### [US inflation jumped to 4.2% in May amid Middle East energy shock](https://www.ft.com/content/f27a9e1b-891f-41b5-b78c-6bc729b1cfd4)
+**发布时间**: 2026-06-10 12:31
+
+#### [What happened to the great rebirth of American manufacturing?](https://www.ft.com/content/e7a3d4e0-1b83-4dd5-9988-4df3d11bc71a)
+**发布时间**: 2026-06-10 11:00
 
 ---
 

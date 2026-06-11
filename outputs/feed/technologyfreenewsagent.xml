@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Jun 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 08:52:23 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 00:19:00 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:19:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%</title>
-      <link>https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？</title>
+      <link>https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 18:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地</title>
-      <link>https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 13:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7</title>
+      <link>https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？</title>
-      <link>https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 为 Codex 智能体打造安全的 Windows 沙盒</title>
+      <link>https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 为 Codex 智能体打造安全的 Windows 沙盒]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>边缘推理成为AI走向物理世界的核心战场</title>
-      <link>https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[边缘推理成为AI走向物理世界的核心战场]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病</title>
+      <link>https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Native 的门槛，是把你的公司写下来</title>
-      <link>https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Native 的门槛，是把你的公司写下来]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI</title>
+      <link>https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果的 &quot;AI 主权裂缝&quot;：三个相互强化的结构性约束</title>
-      <link>https://www.tmtpost.com/8021685.html</link>
-      <description>&lt;![CDATA[苹果的 &quot;AI 主权裂缝&quot;：三个相互强化的结构性约束]]&gt;</description>
+      <title>“不好用”还“不好买”，国产算力的希望在下一代？</title>
+      <link>https://www.tmtpost.com/8022414.html</link>
+      <description>&lt;![CDATA[“不好用”还“不好买”，国产算力的希望在下一代？]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8022414.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Vibe Coding到Vibe Working，职场人该学会指挥Agent团队了</title>
+      <link>https://www.tmtpost.com/8022563.html</link>
+      <description>&lt;![CDATA[Vibe Coding到Vibe Working，职场人该学会指挥Agent团队了]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8022563.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Siri补齐短板，苹果AI还需关键一跃</title>
+      <link>https://www.tmtpost.com/8021976.html</link>
+      <description>&lt;![CDATA[Siri补齐短板，苹果AI还需关键一跃]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8021976.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不追捷径筑长墙，燧原科技的八年突围</title>
+      <link>https://www.tmtpost.com/8022137.html</link>
+      <description>&lt;![CDATA[不追捷径筑长墙，燧原科技的八年突围]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8022137.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不做通用AI助手，先做好一个垂直Agent</title>
+      <link>https://www.tmtpost.com/8021692.html</link>
+      <description>&lt;![CDATA[不做通用AI助手，先做好一个垂直Agent]]&gt;</description>
       <pubDate>Wed, 10 Jun 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021685.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>仅 6% 企业能完全搞定 AI 治理，SAP 力推 “自主运营企业” 新模式</title>
-      <link>https://www.infoq.cn/article/SF45FokGJ2RzGZI4c1lb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[仅 6% 企业能完全搞定 AI 治理，SAP 力推 “自主运营企业” 新模式]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SF45FokGJ2RzGZI4c1lb?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海</title>
-      <link>https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微信搭起Agent牌桌，京东、美团重新落座</title>
-      <link>https://www.tmtpost.com/8021450.html</link>
-      <description>&lt;![CDATA[微信搭起Agent牌桌，京东、美团重新落座]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021450.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】被美国列入中国军工企业名单？阿里巴巴、百度、蔚来、比亚迪等集体发声；微信AI生态开放内测，京东、美团、携程等十余家企业首批接入；OpenAI向美国证监会秘密提交IPO的S-1草案，尚未决定上市时间</title>
-      <link>https://www.tmtpost.com/8021581.html</link>
-      <description>&lt;![CDATA[【钛晨报】被美国列入中国军工企业名单？阿里巴巴、百度、蔚来、比亚迪等集体发声；微信AI生态开放内测，京东、美团、携程等十余家企业首批接入；OpenAI向美国证监会秘密提交IPO的S-1草案，尚未决定上市时间]]&gt;</description>
-      <pubDate>Wed, 10 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021581.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8021692.html</guid>
       <category>Technology</category>
     </item>
   </channel>
