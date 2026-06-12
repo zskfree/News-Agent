@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Jun 2026 09:12:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2026 09:14:53 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 00:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:22:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>CVPR 2026终极盘点：这5篇论文、1个演讲、3个展台，藏着计算机视觉下一个十年的答案</title>
-      <link>https://www.leiphone.com/category/ai/dvz76xNimms03Mgz.html</link>
-      <description>&lt;![CDATA[CVPR 2026终极盘点：这5篇论文、1个演讲、3个展台，藏着计算机视觉下一个十年的答案]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/dvz76xNimms03Mgz.html</guid>
+      <title>Evaluate AI agents systematically with Agent-EvalKit</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/</link>
+      <description>&lt;![CDATA[Evaluate AI agents systematically with Agent-EvalKit]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent</title>
-      <link>https://www.qbitai.com/2026/06/434317.html</link>
-      <description>&lt;![CDATA[3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 04:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434317.html</guid>
+      <title>Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/</link>
+      <description>&lt;![CDATA[Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付</title>
-      <link>https://www.qbitai.com/2026/06/434225.html</link>
-      <description>&lt;![CDATA[实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 01:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434225.html</guid>
+      <title>Extract Data with On-demand and Batch Pipelines Dynamically</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/</link>
+      <description>&lt;![CDATA[Extract Data with On-demand and Batch Pipelines Dynamically]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How frontier teams are reinventing AI-native development</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/</link>
-      <description>&lt;![CDATA[How frontier teams are reinventing AI-native development]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 00:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/</guid>
+      <title>Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/</link>
+      <description>&lt;![CDATA[Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mythos阴影里谷歌悄悄发模型，速度暴涨4倍</title>
-      <link>https://www.qbitai.com/2026/06/434316.html</link>
-      <description>&lt;![CDATA[Mythos阴影里谷歌悄悄发模型，速度暴涨4倍]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434316.html</guid>
+      <title>独家丨前九号机器人负责人孙春阳创业，布局AI家庭影像赛道</title>
+      <link>https://www.leiphone.com/category/weiwu/fBvk2VTXEKZHfa4X.html</link>
+      <description>&lt;![CDATA[独家丨前九号机器人负责人孙春阳创业，布局AI家庭影像赛道]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/fBvk2VTXEKZHfa4X.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱</title>
-      <link>https://www.qbitai.com/2026/06/434326.html</link>
-      <description>&lt;![CDATA[Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 04:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434326.html</guid>
+      <title>钉钉换帅 92年技术极客陈宇森接任钉钉CEO</title>
+      <link>https://www.leiphone.com/category/industrynews/EA4A0xaQ1pM3TeQM.html</link>
+      <description>&lt;![CDATA[钉钉换帅 92年技术极客陈宇森接任钉钉CEO]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/EA4A0xaQ1pM3TeQM.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜</title>
-      <link>https://www.qbitai.com/2026/06/434571.html</link>
-      <description>&lt;![CDATA[Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434571.html</guid>
+      <title>阿里合伙人委员会内网发帖：钉钉管理“不是阿里文化该有的样子&quot;</title>
+      <link>https://www.leiphone.com/category/industrynews/VrBrQcuB585dkhXq.html</link>
+      <description>&lt;![CDATA[阿里合伙人委员会内网发帖：钉钉管理“不是阿里文化该有的样子&quot;]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VrBrQcuB585dkhXq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI短剧工具赛道，年度最大单笔融资来了</title>
-      <link>https://www.qbitai.com/2026/06/434298.html</link>
-      <description>&lt;![CDATA[AI短剧工具赛道，年度最大单笔融资来了]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 04:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434298.html</guid>
+      <title>拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技</title>
+      <link>https://www.leiphone.com/category/industrynews/U8aJ9qfqvhNAFoJ2.html</link>
+      <description>&lt;![CDATA[拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U8aJ9qfqvhNAFoJ2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1290万高考生看过来！阿里出了个志愿填报Agent，免费的</title>
-      <link>https://www.qbitai.com/2026/06/434558.html</link>
-      <description>&lt;![CDATA[1290万高考生看过来！阿里出了个志愿填报Agent，免费的]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434558.html</guid>
+      <title>在红海中重做云台相机，影石看到了什么？</title>
+      <link>https://www.leiphone.com/category/weiwu/EcsjjzrPGtEFdgBn.html</link>
+      <description>&lt;![CDATA[在红海中重做云台相机，影石看到了什么？]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/EcsjjzrPGtEFdgBn.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>行业首创AI志愿填报+真人专家验真，百度全新升级高考服务</title>
-      <link>https://www.qbitai.com/2026/06/434268.html</link>
-      <description>&lt;![CDATA[行业首创AI志愿填报+真人专家验真，百度全新升级高考服务]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 02:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434268.html</guid>
+      <title>千问上线足球预测 AI 助手，大模型预测能否战胜人类？</title>
+      <link>https://www.leiphone.com/category/industrynews/rlbyFXSP1xl2Mrvo.html</link>
+      <description>&lt;![CDATA[千问上线足球预测 AI 助手，大模型预测能否战胜人类？]]&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/rlbyFXSP1xl2Mrvo.html</guid>
       <category>Ai</category>
     </item>
   </channel>

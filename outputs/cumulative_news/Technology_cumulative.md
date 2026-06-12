@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-11 09:14
+**最后更新时间**: 2026-06-12 00:22
+
+---
+
+## 🆕 最新更新 (2026-06-12 00:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国常会最新部署：营造有利于原始创新的科研生态；7家涉火车票销售第三方平台、5家电商平台被约谈；六氟化钨概念火爆，多家上市公司回应相关问题](https://www.tmtpost.com/8024919.html)
+**发布时间**: 2026-06-12 07:20
+
+#### [两大主业持续负毛利，粤芯半导体高研发难破亏损困局｜IPO观察](https://www.tmtpost.com/8023981.html)
+**发布时间**: 2026-06-11 20:07
+
+#### [核心营收一年跌去八成，毛利率转负，三孚新科连续四年亏损拐点待考](https://www.tmtpost.com/8024516.html)
+**发布时间**: 2026-06-11 19:54
+
+#### [AIVA，正在打造AI汽车产业组织新范式](https://www.tmtpost.com/8024386.html)
+**发布时间**: 2026-06-11 19:19
+
+#### [赛豆：赛力斯的出路，火山引擎的标杆](https://www.tmtpost.com/8023354.html)
+**发布时间**: 2026-06-11 19:07
+
+#### [沃什“FOMC首秀”倒计时，商品市场可能面临哪些扰动？](https://www.tmtpost.com/8022879.html)
+**发布时间**: 2026-06-11 19:06
+
+#### [AI眼镜：禁在六月高考，火在六月华强北](https://www.tmtpost.com/8022967.html)
+**发布时间**: 2026-06-11 19:05
+
+#### [AI时代的"光进铜退"：为什么光互连是算力爆炸的唯一出路？](https://www.tmtpost.com/8024211.html)
+**发布时间**: 2026-06-11 19:05
+
+#### [吴泳铭投出来的Rokid，开始正面迎战阿里](https://www.tmtpost.com/8022925.html)
+**发布时间**: 2026-06-11 19:05
+
+#### [AI写高考作文，混元给DeepSeek-V4打了满分](https://www.tmtpost.com/8024256.html)
+**发布时间**: 2026-06-11 18:59
+
+#### [5亿卖掉“下蛋鸡”，万丰奥威专注低空经济](https://www.tmtpost.com/8023556.html)
+**发布时间**: 2026-06-11 18:59
+
+#### [假烟、过期食品接连曝光，“便利店之王”为何频“踩雷”？](https://www.tmtpost.com/8023029.html)
+**发布时间**: 2026-06-11 18:57
+
+#### [成为遛娃新主场，酒店能否扛起亲子经济？](https://www.tmtpost.com/8024388.html)
+**发布时间**: 2026-06-11 18:20
+
+#### [龙虾创始人一条推文引800万人围观，全网都在吵的loop工程到底是个啥？](https://www.tmtpost.com/8024456.html)
+**发布时间**: 2026-06-11 18:20
+
+#### [连续踩中多个风口背后，谁也不服的湖北做对了什么？](https://www.tmtpost.com/8024321.html)
+**发布时间**: 2026-06-11 18:20
+
+#### [Grok选择暴力，Claude走向独裁：AI的虚拟社会有多可怕](https://www.tmtpost.com/8024434.html)
+**发布时间**: 2026-06-11 18:12
+
+#### [大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑](https://www.tmtpost.com/8024326.html)
+**发布时间**: 2026-06-11 18:12
+
+#### [75万成本卖2亿，这样“极致性价比”的电影好莱坞连出两部，YouTuber破解了创作的秘诀？](https://www.tmtpost.com/8024425.html)
+**发布时间**: 2026-06-11 18:10
+
+#### [夏天的阿莫迪，在打脸春天的阿莫迪](https://www.tmtpost.com/8024462.html)
+**发布时间**: 2026-06-11 18:10
+
+#### [只怪无招无情又无义](https://www.tmtpost.com/8024472.html)
+**发布时间**: 2026-06-11 18:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [硅谷大厂，员工人均月花5万养 AI](https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 18:59
+
+#### [OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了](https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 18:57
+
+#### [Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代](https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 18:20
+
+#### [企业级 AI Coding 进入深水区：从代码生成到组织重构](https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 18:03
+
+#### [微软 Foundry 新增生产级智能体运行时、工具链与管控能力](https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 17:34
+
+#### [打破“人月神话”，Agent 重塑风控场景产运研职能](https://www.infoq.cn/article/VbPxMjRexUufus9dbxRq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 17:32
+
+#### [空间智能初探：重建与生成的双路径实践](https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-11 17:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [家庭饮品 DIY 指南（一）：工欲善其事，必先利其器](https://sspai.com/prime/story/home-made-beverages-1)
+**发布时间**: 2026-06-11 17:31
+
+#### [618 相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)
+**发布时间**: 2026-06-11 17:30
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [在你微信里用爽 Claude Code，我的开源 Skill 又更新了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534429&idx=1&sn=c918119b30f6fd50fceeac4e1aa61423)
+**发布时间**: 2026-06-11 11:39
 
 ---
 

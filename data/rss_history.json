@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fb2db153122b54461ab6c90326897282c88d81d843caff3fd87a73653f4bec70": {
-        "title": "千问重构淘宝，阿里“推翻”阿里",
-        "link": "https://www.tmtpost.com/7984593.html",
-        "published_date": "Tue, 12 May 2026 18:22:00 GMT",
-        "first_seen": "2026-05-12T10:35:51.824276"
-      },
-      "6835c4f78e75d6c887755ba9cce8cbb92622eb91405cc6b6b6155b1fc5ef47d0": {
-        "title": "AI组织坍缩效应：中层管理者正在失去的，不是职位，是“信息税”",
-        "link": "https://www.tmtpost.com/7984827.html",
-        "published_date": "Tue, 12 May 2026 15:10:00 GMT",
-        "first_seen": "2026-05-12T10:35:51.824282"
-      },
-      "21c622fd827b17af8c8afb4669a6a212f54f53c8d6583d3c84b9be1713487722": {
-        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
-        "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 17:45:00 GMT",
-        "first_seen": "2026-05-12T10:35:51.824284"
-      },
-      "78de57e930473fd9545f4c9331fa9c80c0bf2837f67da87bcd09ecf78f37b878": {
-        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
-        "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 17:02:00 GMT",
-        "first_seen": "2026-05-12T10:35:51.824286"
-      },
-      "bcf330f76b50aa497d12e7f95913fc74196f6dd3cf0cbc265cf1319d65d3e8fa": {
-        "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
-        "link": "http://www.geekpark.net/news/364044",
-        "published_date": "Tue, 12 May 2026 18:06:00 GMT",
-        "first_seen": "2026-05-12T10:35:51.824287"
-      },
-      "1304ac4c2b368fa4d9a5f1c32252d22017e53a043b0f50824707c9cda3596f63": {
-        "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
-        "link": "http://www.geekpark.net/news/364060",
-        "published_date": "Wed, 13 May 2026 03:02:00 GMT",
-        "first_seen": "2026-05-13T00:04:03.673884"
-      },
-      "dd0fab7647f7b8ea5439c9a72f2a148d4a0e1bca5df97bd3d22b1a7f740f6b99": {
-        "title": "英伟达开始向泡沫里加肥皂水",
-        "link": "https://www.tmtpost.com/7984807.html",
-        "published_date": "Tue, 12 May 2026 15:10:00 GMT",
-        "first_seen": "2026-05-13T00:04:03.673892"
-      },
-      "3cf55a12c96970c973e27bb1526b4a2425fc1f74dab91c767a30baaaffad7e88": {
-        "title": "传可灵计划独立融资上市：300 亿美元的快手长出 200 亿美元的 AI 视频子公司",
-        "link": "http://www.geekpark.net/news/364057",
-        "published_date": "Tue, 12 May 2026 19:23:00 GMT",
-        "first_seen": "2026-05-13T00:04:03.673894"
-      },
-      "b89319000970d9d55c047cc939d6ea487173a453405be919486ac7df49dd5e3d": {
-        "title": "东方电气一季度利润涨幅近4成，GE、西门子订单排到2030年，中国燃气轮机赶上AI“电荒”的窗口期",
-        "link": "https://www.tmtpost.com/7984684.html",
-        "published_date": "Tue, 12 May 2026 14:47:00 GMT",
-        "first_seen": "2026-05-13T00:04:03.673896"
-      },
-      "9f37866cacfa25ff4c21c53565dc5955aec1bd46741e572cefc33fa23f14763a": {
-        "title": "知名开源作者呼吁对软件供应链进行验证，而非盲目信任",
-        "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 12 May 2026 19:13:00 GMT",
-        "first_seen": "2026-05-13T00:04:03.673897"
-      },
       "670efbf00656994c3d0195e7e1533a4d813bb7cef0940e5a713d274b239a51ab": {
         "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
         "link": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
@@ -3031,69 +2971,69 @@
         "link": "https://www.infoq.cn/article/QWDP7eokPwkIYEMQxhmT?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 11 Jun 2026 13:19:00 GMT",
         "first_seen": "2026-06-11T09:14:55.803281"
+      },
+      "af84226b179cb37151465dfc2d8f2f835941f9db88ef5a14e65a1e219cdccc84": {
+        "title": "OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了",
+        "link": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 18:57:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594707"
+      },
+      "3b80f94b9b34c3dadd810aba45b35aa280a9763a2823f1adfbc6307d95714f50": {
+        "title": "AI时代的\"光进铜退\"：为什么光互连是算力爆炸的唯一出路？",
+        "link": "https://www.tmtpost.com/8024211.html",
+        "published_date": "Thu, 11 Jun 2026 19:05:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594722"
+      },
+      "2028b915f0036191e64e83fbe3806ec01786a4def7e532b0711fee0043ad0f76": {
+        "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
+        "link": "https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 18:03:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594724"
+      },
+      "baddc8c6e6ae97d82e41052b4633ad9939a7b737f5e3946035450999534d8bf9": {
+        "title": "大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑",
+        "link": "https://www.tmtpost.com/8024326.html",
+        "published_date": "Thu, 11 Jun 2026 18:12:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594727"
+      },
+      "640877716b32619852c1559cc1e920aa7167649ee44570acfc88d38c8e45c15a": {
+        "title": "空间智能初探：重建与生成的双路径实践",
+        "link": "https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 17:19:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594728"
+      },
+      "264352ffe969e18662a3e81c566e597c7044187121f1aa7c8511aaa00a08a9fb": {
+        "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
+        "link": "https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 17:01:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594730"
+      },
+      "7b599ae98e298b6a3d4568257ac4cde81583646dff29fffd9235453c5f328b40": {
+        "title": "Grok选择暴力，Claude走向独裁：AI的虚拟社会有多可怕",
+        "link": "https://www.tmtpost.com/8024434.html",
+        "published_date": "Thu, 11 Jun 2026 18:12:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594732"
+      },
+      "517a97806dd57b324fe3ee2788debac4a86ca1727d1a8a69983686854c053bae": {
+        "title": "Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代",
+        "link": "https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 11 Jun 2026 18:20:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594733"
+      },
+      "63e7dab3475619bbabfadde5e6aa8f84c6ca921abd88427b784dde2ed717eb2d": {
+        "title": "从“肉身管理”到\"数据巡厂”：一家服装制造企业的AI改造实验",
+        "link": "https://www.tmtpost.com/8023580.html",
+        "published_date": "Thu, 11 Jun 2026 15:42:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594735"
+      },
+      "ac63babb908426ed07024086a011b716253100abfe05f3c8a7e78793bbafc091": {
+        "title": "物理AI进场以后，谁来定义“干得对”？",
+        "link": "https://www.tmtpost.com/8024220.html",
+        "published_date": "Thu, 11 Jun 2026 16:26:00 GMT",
+        "first_seen": "2026-06-12T00:22:18.594737"
       }
     },
     "Finance": {
-      "b58cf9033d1142a25a9e778f12ad613dc6270cdb87baa1aae0c935eb60c5e4d6": {
-        "title": "UK borrowing costs surge as Starmer leadership crisis rattles bond markets",
-        "link": "https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d",
-        "published_date": "Tue, 12 May 2026 10:04:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.576926"
-      },
-      "f93cbc58f82532ff81522d5876d1914388949ce94be6bdf76e57e00a70c04763": {
-        "title": "Japan says Bessent offered ‘understanding’ on yen policy",
-        "link": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
-        "published_date": "Tue, 12 May 2026 09:02:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.576935"
-      },
-      "e3bd00460cf9c0531ec857445869c870624ae21a44f56fca67f600bee04b3548": {
-        "title": "This dot-com survivor says AI buildout is more like 1997 than 1999 — and still urges investors to have more cash",
-        "link": "https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 09:06:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.576937"
-      },
-      "bd2b9850899c57f1d7b7ea05e4f02c76e9bcad78c3d1e3ade361acf011446fae": {
-        "title": "The hottest stock market in the world finally met its match: taxes",
-        "link": "https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-finally-met-its-match-taxes-55cf54c6?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 09:20:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.576939"
-      },
-      "f8b7c65e63dbbb597f19b67cbf7ad2c0329df08ca3968ad953da0b1960f579fe": {
-        "title": "With Keir Starmer premiership on the brink, British government debt, currency and stocks fall",
-        "link": "https://www.marketwatch.com/story/with-keir-starmer-premiership-on-the-brink-british-government-debt-tumbles-further-3a113f26?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 09:47:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.576941"
-      },
-      "557b54846fe2753f67d91b6d1b5f7ef5205de3fbd5e04674a311a16e93d9f3d0": {
-        "title": "US inflation jumps to 3.8% as Trump’s Iran war sends petrol prices soaring",
-        "link": "https://www.ft.com/content/ce609605-8f82-42d7-8364-5ca5fbfb02cb",
-        "published_date": "Tue, 12 May 2026 20:25:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.524378"
-      },
-      "dbc8d4ef0bb13f3bdbd5998cf6f81bcceeff84351ac030618d1917b5c0dd8fa2": {
-        "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
-        "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 22:02:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.524389"
-      },
-      "6d6f617f2bc03b4d61a12442b034b4582caf263cd495ee9105a9a2b77d3025de": {
-        "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
-        "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 22:37:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.524392"
-      },
-      "b8d6086c667c44a55a950af2ac0d05133bfdd6b094dda960447cd247e4b2a27e": {
-        "title": "Copper prices are now at their highest level on record. AI is only part of the story.",
-        "link": "https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories",
-        "published_date": "Tue, 12 May 2026 21:43:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.524394"
-      },
-      "e2612b75783b9c8b63a699190cb1ce164e8cee22e72ab6b544aad3e6bf4d570b": {
-        "title": "Blue Owl retail fundraising evaporates amid private credit concerns",
-        "link": "https://www.ft.com/content/d04547c7-6315-4998-928d-2708670f4e01",
-        "published_date": "Tue, 12 May 2026 17:20:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.524396"
-      },
       "4fcf01a810a50b9345ab0653ed70ec256d3375070b373628519fc09522f5111f": {
         "title": "Why global imbalances matter",
         "link": "https://www.ft.com/content/1bbd3463-1022-4c98-9840-df9b671a3d41",
@@ -5709,27 +5649,69 @@
         "link": "https://www.ft.com/content/ff64e964-52e9-435f-8dca-bcb9f0508190",
         "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-11T09:14:56.882359"
+      },
+      "00b742695a4c6aa54d0d57b47a7e335f4f913ec8a39769eab9cffab5d66d4a89": {
+        "title": "Musk’s SpaceX raises $75bn in world’s biggest IPO",
+        "link": "https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827",
+        "published_date": "Thu, 11 Jun 2026 22:39:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213496"
+      },
+      "2bdec67aa5de3afe1c886c4e8d8b5cb9796d4c2a7c7f866d008eeada3eea8b1c": {
+        "title": "Trump names former SEC head Jay Clayton as US intelligence chief",
+        "link": "https://www.ft.com/content/79b4d690-5e9f-4b7d-9054-61723b8237e1",
+        "published_date": "Thu, 11 Jun 2026 20:47:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213504"
+      },
+      "bf836a4ea6fb3401a60a6f045011034d21138c94336dd75d857213df9f5b517f": {
+        "title": "The AI public market floodgates are opening",
+        "link": "https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+        "published_date": "Thu, 11 Jun 2026 18:09:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213507"
+      },
+      "f07243fa8bf62faae026343243de306369feac7216d1b47f0135ab1c80be4422": {
+        "title": "Gold sinks to 6-month low as speculative investors exit",
+        "link": "https://www.ft.com/content/0e9b3a3c-2481-4581-90e7-6158906ff7ae",
+        "published_date": "Thu, 11 Jun 2026 15:57:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213509"
+      },
+      "c186a4089efb7378153a4c0412f7cf75d9d467c13672c963466bc13a52f616b4": {
+        "title": "Missed the rally in optical stocks? Coherent and Lumentum just got more attractive, according to J.P. Morgan.",
+        "link": "https://www.marketwatch.com/story/missed-the-rally-in-optical-stocks-coherent-and-lumentum-just-got-more-attractive-according-to-j-p-morgan-ccee9f93?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 20:48:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213511"
+      },
+      "121697d6d6541bfb6815cab0c06cca4e6405989d2f9bc75b6ba298ee45cb5aeb": {
+        "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
+        "link": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 23:46:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213512"
+      },
+      "3a3f7bd78c06b5924d20924b635b72d5354ca009e6870115e2a3e1f64fc43453": {
+        "title": "Jeff Bezos says AI will bring ‘golden ages’ not mass job losses",
+        "link": "https://www.ft.com/content/45258f4a-5fb5-4f7a-bd29-5dea92502638",
+        "published_date": "Thu, 11 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213514"
+      },
+      "60547fa4480991647317254b02a38f6bee3d1baecfb10e1b52b8bdde21bfc25a": {
+        "title": "The SpaceX IPO is drawing historic demand from foreign investors. But don’t expect a dollar-buying frenzy.",
+        "link": "https://www.marketwatch.com/story/the-spacex-ipo-is-drawing-historic-demand-from-foreign-investors-but-dont-expect-a-dollar-buying-frenzy-ce66b056?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 21:59:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213516"
+      },
+      "43eb098899907afd09662810f4eb5870a285e340f3d87b46d0eb41ca00678d30": {
+        "title": "Adobe is losing another top executive, and investors don’t like it",
+        "link": "https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 22:00:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213517"
+      },
+      "7c57f042a1ab653057c1351217d082241d64775fa2336f6e7b0100ef01bd2dc7": {
+        "title": "Foster children are getting their own version of ‘Trump accounts,’ but major questions remain",
+        "link": "https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories",
+        "published_date": "Thu, 11 Jun 2026 21:08:00 GMT",
+        "first_seen": "2026-06-12T00:22:20.213519"
       }
     },
     "Ai": {
-      "351262ea264afe72defce34a55fde48f6ecc277f7a3954e980861516e37bfcb6": {
-        "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-        "link": "https://www.qbitai.com/2026/05/416582.html",
-        "published_date": "Tue, 12 May 2026 09:35:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.726869"
-      },
-      "342bf2bce0225fe0faec346b0e883b95527113768c1d752cc60e5258266aa21e": {
-        "title": "AI第一金主黄仁勋：日均花掉20亿",
-        "link": "https://www.qbitai.com/2026/05/416540.html",
-        "published_date": "Tue, 12 May 2026 08:03:00 GMT",
-        "first_seen": "2026-05-12T10:35:31.726877"
-      },
-      "23f243982d3c6ee11e2eab3117c850b81ffe43cb318279345dbf95f38b0fbc62": {
-        "title": "原来Ilya还有70亿美元OpenAI股权",
-        "link": "https://www.qbitai.com/2026/05/416597.html",
-        "published_date": "Tue, 12 May 2026 13:55:00 GMT",
-        "first_seen": "2026-05-13T00:03:38.683483"
-      },
       "5a1d0a92ba0ebad755df6813367ee04ffbfeddd7bd027a4c9729ad5777a5c9a8": {
         "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
         "link": "https://www.qbitai.com/2026/05/416628.html",
@@ -7901,13 +7883,73 @@
         "link": "https://www.qbitai.com/2026/06/434268.html",
         "published_date": "Thu, 11 Jun 2026 02:08:00 GMT",
         "first_seen": "2026-06-11T09:14:53.843670"
+      },
+      "ca2715d9796ee025b4df7bfcd09e5db32a043f215cbb0fe28fecef06978ff8d6": {
+        "title": "Evaluate AI agents systematically with Agent-EvalKit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+        "published_date": "Thu, 11 Jun 2026 15:49:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502665"
+      },
+      "e1548232b82e475965ff503930daf58eb5e2c1f4d504884161c1ada9c7f61439": {
+        "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/",
+        "published_date": "Thu, 11 Jun 2026 15:11:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502673"
+      },
+      "d29407280e1b0a851eef34296d86dff53e76464b976bab318801721f140b3a04": {
+        "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
+        "published_date": "Thu, 11 Jun 2026 19:40:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502675"
+      },
+      "4e0c610419f1179f3c16bd9f81b4d3102465eeb2ef46d379038f4544fc6fad60": {
+        "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
+        "published_date": "Thu, 11 Jun 2026 15:36:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502676"
+      },
+      "bf0ff80d48fea3bc726053fbe350d5e2b6c6f7d429604eb0c084ec731f2f1a6d": {
+        "title": "独家丨前九号机器人负责人孙春阳创业，布局AI家庭影像赛道",
+        "link": "https://www.leiphone.com/category/weiwu/fBvk2VTXEKZHfa4X.html",
+        "published_date": "Thu, 11 Jun 2026 15:08:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502678"
+      },
+      "bab922840bf3a29d1a99568290a18d559515d12df682f9cc9f71704ab68b515f": {
+        "title": "钉钉换帅 92年技术极客陈宇森接任钉钉CEO",
+        "link": "https://www.leiphone.com/category/industrynews/EA4A0xaQ1pM3TeQM.html",
+        "published_date": "Thu, 11 Jun 2026 10:08:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502680"
+      },
+      "563722f76049ae14cd8ac931f5df4625eef1dd9510d0d357be11b0cf3e7d3f34": {
+        "title": "阿里合伙人委员会内网发帖：钉钉管理“不是阿里文化该有的样子\"",
+        "link": "https://www.leiphone.com/category/industrynews/VrBrQcuB585dkhXq.html",
+        "published_date": "Thu, 11 Jun 2026 10:07:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502681"
+      },
+      "3ca9e776638db633adac29a4d9d9cf44ff72948417a6fa2385fab2344aa2b1a6": {
+        "title": "拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技",
+        "link": "https://www.leiphone.com/category/industrynews/U8aJ9qfqvhNAFoJ2.html",
+        "published_date": "Thu, 11 Jun 2026 10:16:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502683"
+      },
+      "632bacc3d67a6b85ca8e9fa8146e3ae2ac7fe143693d7526909c02504273f92c": {
+        "title": "在红海中重做云台相机，影石看到了什么？",
+        "link": "https://www.leiphone.com/category/weiwu/EcsjjzrPGtEFdgBn.html",
+        "published_date": "Thu, 11 Jun 2026 15:04:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502685"
+      },
+      "a17bb6a29e87dab50d82c5ef9691e8d9837fd33b5f39bd9e06cbacdfb2fd3dad": {
+        "title": "千问上线足球预测 AI 助手，大模型预测能否战胜人类？",
+        "link": "https://www.leiphone.com/category/industrynews/rlbyFXSP1xl2Mrvo.html",
+        "published_date": "Thu, 11 Jun 2026 17:42:00 GMT",
+        "first_seen": "2026-06-12T00:22:21.502686"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-11T09:14:55.803284",
-    "Finance": "2026-06-11T09:14:56.882361",
-    "Ai": "2026-06-11T09:14:53.843672"
+    "Technology": "2026-06-12T00:22:18.594739",
+    "Finance": "2026-06-12T00:22:20.213521",
+    "Ai": "2026-06-12T00:22:21.502688"
   }
 }

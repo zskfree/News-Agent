@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-11 09:14
+**最后更新时间**: 2026-06-12 00:22
+
+---
+
+## 🆕 最新更新 (2026-06-12 00:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?](https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 00:00
+
+#### [I’m 60, retired with $3 million. My fiancée, 55, only has $1 million and plans to keep working. Are we compatible?](https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 23:46
+
+#### [Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden](https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 23:46
+
+#### [Adobe is losing another top executive, and investors don’t like it](https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 22:00
+
+#### [The SpaceX IPO is drawing historic demand from foreign investors. But don’t expect a dollar-buying frenzy.](https://www.marketwatch.com/story/the-spacex-ipo-is-drawing-historic-demand-from-foreign-investors-but-dont-expect-a-dollar-buying-frenzy-ce66b056?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 21:59
+
+#### [We asked AI to predict the 2026 World Cup winner. It picked a team that’s never won.](https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 21:37
+
+#### [Foster children are getting their own version of ‘Trump accounts,’ but major questions remain](https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 21:08
+
+#### [Missed the rally in optical stocks? Coherent and Lumentum just got more attractive, according to J.P. Morgan.](https://www.marketwatch.com/story/missed-the-rally-in-optical-stocks-coherent-and-lumentum-just-got-more-attractive-according-to-j-p-morgan-ccee9f93?mod=mw_rss_topstories)
+**发布时间**: 2026-06-11 20:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Musk’s SpaceX raises $75bn in world’s biggest IPO](https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827)
+**发布时间**: 2026-06-11 22:39
+
+#### [Trump names former SEC head Jay Clayton as US intelligence chief](https://www.ft.com/content/79b4d690-5e9f-4b7d-9054-61723b8237e1)
+**发布时间**: 2026-06-11 20:47
+
+#### [Trump says US close to deal with Iran and calls off strikes](https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373)
+**发布时间**: 2026-06-11 20:24
+
+#### [The AI public market floodgates are opening](https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d)
+**发布时间**: 2026-06-11 18:09
+
+#### [Gold sinks to 6-month low as speculative investors exit](https://www.ft.com/content/0e9b3a3c-2481-4581-90e7-6158906ff7ae)
+**发布时间**: 2026-06-11 15:57
+
+#### [Jeff Bezos says AI will bring ‘golden ages’ not mass job losses](https://www.ft.com/content/45258f4a-5fb5-4f7a-bd29-5dea92502638)
+**发布时间**: 2026-06-11 14:00
+
+#### [Russia ‘not looking for conflict’, says Nato’s top US commander](https://www.ft.com/content/751d4555-9e8c-42a0-a37b-80893727776c)
+**发布时间**: 2026-06-11 13:24
+
+#### [‘We’re back in the Stone Age’: Russia’s spies turn off the internet](https://www.ft.com/content/da121259-3823-4109-bf7f-f7ff21d3118f)
+**发布时间**: 2026-06-11 04:00
 
 ---
 
