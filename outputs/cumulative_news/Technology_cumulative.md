@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-12 00:22
+**最后更新时间**: 2026-06-12 09:00
+
+---
+
+## 🆕 最新更新 (2026-06-12 09:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [瑞士房地产科技企业Norm Technologies研发建筑能效管理软件，提升建筑资产能源管理效率](https://www.tmtpost.com/8025373.html)
+**发布时间**: 2026-06-12 16:31
+
+#### [不是黄仁勋要改变 PC，而是 PC 要革自己的命](https://www.tmtpost.com/8025703.html)
+**发布时间**: 2026-06-12 16:31
+
+#### [吴泳铭拿下27年“爱将”无招，换上新人陈宇森](https://www.tmtpost.com/8024874.html)
+**发布时间**: 2026-06-12 16:09
+
+#### [Without Subsidy, Can Hydrogen-Powered Buses Run?](https://www.tmtpost.com/8025698.html)
+**发布时间**: 2026-06-12 15:37
+
+#### [China's Yiwu Merchants: Not Guessing World Cup Champion, But Next Hot Commodity](https://www.tmtpost.com/8025672.html)
+**发布时间**: 2026-06-12 15:22
+
+#### [Former DingTalk CEO Wuzhao’s desk has already been cleared out—can Chen Yusen successfully take over?](https://www.tmtpost.com/8025657.html)
+**发布时间**: 2026-06-12 15:09
+
+#### [停运、骗补与逆势狂奔：氢能公交的荒诞经济学](https://www.tmtpost.com/8025379.html)
+**发布时间**: 2026-06-12 14:26
+
+#### [KTV“无人化”：去掉服务更赚钱？](https://www.tmtpost.com/8025407.html)
+**发布时间**: 2026-06-12 13:26
+
+#### [战场扩大、打法转变：阿里不想喊停，美团也不想输](https://www.tmtpost.com/8025338.html)
+**发布时间**: 2026-06-12 12:10
+
+#### [创造历史，全球最大生物科技IPO诞生](https://www.tmtpost.com/8025147.html)
+**发布时间**: 2026-06-12 11:39
+
+#### [Anthropic“狼来了”：喊停的人，跑得最快](https://www.tmtpost.com/8024591.html)
+**发布时间**: 2026-06-12 11:26
+
+#### [被抢单！ASIC市场，要变天了](https://www.tmtpost.com/8024634.html)
+**发布时间**: 2026-06-12 11:26
+
+#### [暴涨超10倍！中国造船龙头，到底有多猛？](https://www.tmtpost.com/8025271.html)
+**发布时间**: 2026-06-12 11:26
+
+#### [无招退场，钉钉步入“陈宇森时代”](https://www.tmtpost.com/8024904.html)
+**发布时间**: 2026-06-12 11:26
+
+#### [微信AI化，才是腾讯的真正赌局](https://www.tmtpost.com/8025355.html)
+**发布时间**: 2026-06-12 11:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻](https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 16:30
+
+#### [Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力](https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 16:03
+
+#### [Snowflake 迈向 Agentic Enterprise 的关键一跃](https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 15:07
+
+#### [Uber 如何通过批处理实现单账户每秒 30+ 次更新](https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 14:00
+
+#### [人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇](https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 11:41
+
+#### [打破向量检索的局限：RAG 混合检索实践](https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 10:49
+
+#### [身临其境 沉浸互动——大型赛事直播与互动实战指南](https://www.infoq.cn/minibook/wqj338Aub43YjjTYEDEx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 10:43
+
+#### [Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）](https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 10:21
+
+#### [上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化](https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
+**发布时间**: 2026-06-12 15:00
+
+#### [把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+**发布时间**: 2026-06-12 14:42
+
+#### [WWDC 26 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/110967)
+**发布时间**: 2026-06-12 11:40
+
+#### [派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等](https://sspai.com/post/110975)
+**发布时间**: 2026-06-12 08:13
 
 ---
 

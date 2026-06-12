@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-12 00:22
+**最后更新时间**: 2026-06-12 09:00
+
+---
+
+## 🆕 最新更新 (2026-06-12 09:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Did Justin Trudeau buy his $3.1 million Montreal mansion in hopes Katy Perry would move in?](https://www.marketwatch.com/story/did-justin-trudeau-buy-his-3-1-million-montreal-mansion-in-hopes-katy-perry-would-move-in-504d8cc2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 08:59
+
+#### [Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings](https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 01:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil sinks to three-month low after Trump hints at Iran war deal](https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e)
+**发布时间**: 2026-06-12 08:49
+
+#### [Musk should go more boldly with fantastical SpaceX projections](https://www.ft.com/content/a6002a52-5ab3-431a-8683-16a2f1d409c2)
+**发布时间**: 2026-06-12 04:00
+
+#### [The quantum computing revolution is closer than you think](https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2)
+**发布时间**: 2026-06-12 04:00
+
+#### [Japan’s PM: Building resilience in a turbulent world](https://www.ft.com/content/8344e590-a7f0-4908-abf7-561b626c3fd2)
+**发布时间**: 2026-06-12 04:00
+
+#### [The great bond and equity conundrum](https://www.ft.com/content/4389caaa-b87a-4d4c-82a1-db161d3265d3)
+**发布时间**: 2026-06-12 04:00
+
+#### [European defence stock rally goes into reverse on funding concerns](https://www.ft.com/content/1fa66019-c241-46f8-b9e4-7b3ac8575904)
+**发布时间**: 2026-06-12 04:00
+
+#### [Chinese investors rush to open Hong Kong accounts amid Beijing crackdown](https://www.ft.com/content/eff414c9-6c8a-4200-b490-b13c642a7821)
+**发布时间**: 2026-06-12 04:00
+
+#### [KPMG report contained AI hallucinations on benefits of . . . AI](https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f)
+**发布时间**: 2026-06-12 04:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 00:22:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 00:22:18 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 09:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:00:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了</title>
-      <link>https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 18:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻</title>
+      <link>https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI时代的&quot;光进铜退&quot;：为什么光互连是算力爆炸的唯一出路？</title>
-      <link>https://www.tmtpost.com/8024211.html</link>
-      <description>&lt;![CDATA[AI时代的&quot;光进铜退&quot;：为什么光互连是算力爆炸的唯一出路？]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 19:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024211.html</guid>
+      <title>Snowflake 迈向 Agentic Enterprise 的关键一跃</title>
+      <link>https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 迈向 Agentic Enterprise 的关键一跃]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业级 AI Coding 进入深水区：从代码生成到组织重构</title>
-      <link>https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业级 AI Coding 进入深水区：从代码生成到组织重构]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力</title>
+      <link>https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑</title>
-      <link>https://www.tmtpost.com/8024326.html</link>
-      <description>&lt;![CDATA[大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024326.html</guid>
+      <title>打破向量检索的局限：RAG 混合检索实践</title>
+      <link>https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[打破向量检索的局限：RAG 混合检索实践]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>空间智能初探：重建与生成的双路径实践</title>
-      <link>https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[空间智能初探：重建与生成的双路径实践]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Uber 如何通过批处理实现单账户每秒 30+ 次更新</title>
+      <link>https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Uber 如何通过批处理实现单账户每秒 30+ 次更新]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“Token 大爆炸”前夜，数据基础设施正在成为新的变量</title>
-      <link>https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“Token 大爆炸”前夜，数据基础设施正在成为新的变量]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&amp;utm_medium=article</guid>
+      <title>人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇</title>
+      <link>https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Grok选择暴力，Claude走向独裁：AI的虚拟社会有多可怕</title>
-      <link>https://www.tmtpost.com/8024434.html</link>
-      <description>&lt;![CDATA[Grok选择暴力，Claude走向独裁：AI的虚拟社会有多可怕]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024434.html</guid>
+      <title>Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）</title>
+      <link>https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代</title>
-      <link>https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微信AI化，才是腾讯的真正赌局</title>
+      <link>https://www.tmtpost.com/8025355.html</link>
+      <description>&lt;![CDATA[微信AI化，才是腾讯的真正赌局]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025355.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“肉身管理”到&quot;数据巡厂”：一家服装制造企业的AI改造实验</title>
-      <link>https://www.tmtpost.com/8023580.html</link>
-      <description>&lt;![CDATA[从“肉身管理”到&quot;数据巡厂”：一家服装制造企业的AI改造实验]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8023580.html</guid>
+      <title>不是黄仁勋要改变 PC，而是 PC 要革自己的命</title>
+      <link>https://www.tmtpost.com/8025703.html</link>
+      <description>&lt;![CDATA[不是黄仁勋要改变 PC，而是 PC 要革自己的命]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025703.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>物理AI进场以后，谁来定义“干得对”？</title>
-      <link>https://www.tmtpost.com/8024220.html</link>
-      <description>&lt;![CDATA[物理AI进场以后，谁来定义“干得对”？]]&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024220.html</guid>
+      <title>被抢单！ASIC市场，要变天了</title>
+      <link>https://www.tmtpost.com/8024634.html</link>
+      <description>&lt;![CDATA[被抢单！ASIC市场，要变天了]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8024634.html</guid>
       <category>Technology</category>
     </item>
   </channel>
