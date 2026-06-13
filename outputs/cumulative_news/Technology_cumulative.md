@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-12 09:00
+**最后更新时间**: 2026-06-13 00:23
+
+---
+
+## 🆕 最新更新 (2026-06-13 00:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [仁和药业二代“0元”接手实控权，守业或比创业难](https://www.tmtpost.com/8026170.html)
+**发布时间**: 2026-06-12 22:04
+
+#### [喜茶茶坊海外首店纽约开业；亚瑟士集团拆分Onitsuka Tiger业务；星巴克中国推出袋装咖啡｜消研所周报](https://www.tmtpost.com/8025607.html)
+**发布时间**: 2026-06-12 19:42
+
+#### [出让灵心巧手股权套现3000万背后，祥源新材的风口投资与主业瓶颈](https://www.tmtpost.com/8026029.html)
+**发布时间**: 2026-06-12 19:29
+
+#### [谁说文科生没用？奥特曼和阿莫迪都在狂写小作文](https://www.tmtpost.com/8025676.html)
+**发布时间**: 2026-06-12 19:26
+
+#### [700亿芯片巨头，连环爆雷](https://www.tmtpost.com/8025562.html)
+**发布时间**: 2026-06-12 18:50
+
+#### [朴朴不得不，阿里必须买](https://www.tmtpost.com/8025820.html)
+**发布时间**: 2026-06-12 18:50
+
+#### [阿里若以15亿美元买朴朴，值吗？](https://www.tmtpost.com/8025677.html)
+**发布时间**: 2026-06-12 18:50
+
+#### [阿里又一个新事业部，什么信号？](https://www.tmtpost.com/8025788.html)
+**发布时间**: 2026-06-12 18:50
+
+#### [壁仞科技，还未跨过拐点](https://www.tmtpost.com/8025679.html)
+**发布时间**: 2026-06-12 18:50
+
+#### [从流量曝光到政企联动，抖音文旅切换新打法](https://www.tmtpost.com/8025969.html)
+**发布时间**: 2026-06-12 18:24
+
+#### [贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”](https://www.tmtpost.com/8025438.html)
+**发布时间**: 2026-06-12 17:38
+
+#### [百亿补贴的算术题](https://www.tmtpost.com/8025490.html)
+**发布时间**: 2026-06-12 17:26
+
+#### [合肥：用了什么王炸操作，把自己变成了“新能源之都”？](https://www.tmtpost.com/8025337.html)
+**发布时间**: 2026-06-12 17:26
+
+#### [当AI开始规模化，如何融入企业核心业务？](https://www.tmtpost.com/8025767.html)
+**发布时间**: 2026-06-12 16:57
+
+#### [锁在互联网里的中国大模型](https://www.tmtpost.com/8025246.html)
+**发布时间**: 2026-06-12 16:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势](https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 19:52
+
+#### [5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅](https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-12 18:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
+**发布时间**: 2026-06-12 17:39
+
+#### [把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+**发布时间**: 2026-06-12 14:42
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [微软开源的 Skill 进化神器，GitHub 上斩获 5000 多 Star 了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534447&idx=1&sn=f9b46a49c2c7b41a0396575c22cd7290)
+**发布时间**: 2026-06-12 17:39
 
 ---
 

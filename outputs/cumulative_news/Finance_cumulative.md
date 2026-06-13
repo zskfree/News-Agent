@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-12 09:00
+**最后更新时间**: 2026-06-13 00:23
+
+---
+
+## 🆕 最新更新 (2026-06-13 00:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This hidden investing flaw is costing you money. Talking to political opponents fixes it.](https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 22:59
+
+#### [There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.](https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 22:58
+
+#### [‘This is not a flash in the pan’: Why value stocks are beating growth by such a wide margin](https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 22:50
+
+#### [How Elon Musk nailed the SpaceX IPO: ‘I’m not sure that this could have gone much better’](https://www.marketwatch.com/story/how-elon-musk-nailed-the-spacex-ipo-im-not-sure-that-this-could-have-gone-much-better-8149d479?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 21:57
+
+#### [FIFA World Cup prize money: What each USMNT player stands to earn](https://www.marketwatch.com/story/fifa-world-cup-prize-money-what-each-usmnt-player-stands-to-earn-332f8a96?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 21:44
+
+#### [How to decide whether a major splurge — like spending thousands on Knicks or World Cup tickets — is worth it](https://www.marketwatch.com/story/how-to-decide-whether-a-major-splurge-like-spending-thousands-on-knicks-or-world-cup-tickets-is-worth-it-8fb46c18?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 20:35
+
+#### [‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?](https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 20:30
+
+#### [Is it too late to buy SpaceX’s stock? Here’s how Tesla’s did after one day — and five years.](https://www.marketwatch.com/story/is-it-too-late-to-buy-spacexs-stock-heres-how-teslas-did-after-one-day-and-five-years-9c7564d3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 20:06
+
+#### [‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?](https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-12 19:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Paramount’s $111bn takeover of Warner Bros wins US antitrust approval](https://www.ft.com/content/fd52360a-20f7-4000-851f-2d2421e17fb7)
+**发布时间**: 2026-06-12 21:53
+
+#### [SpaceX’s surge on debut makes Musk world’s first trillionaire](https://www.ft.com/content/16387550-4d13-4d2d-b487-c4f6f4a5e9c8)
+**发布时间**: 2026-06-12 21:09
+
+#### [US-Iran peace deal text agreed, says Pakistan’s PM](https://www.ft.com/content/b91fc27b-8e50-48c1-b9e6-0c93aea19b76)
+**发布时间**: 2026-06-12 19:02
+
+#### [SpaceX’s IPO is a display of Musk’s dominance](https://www.ft.com/content/71372647-bf7f-448a-bb4c-a2d278020e33)
+**发布时间**: 2026-06-12 17:40
+
+#### [Apollo selects Austin as site of second headquarters](https://www.ft.com/content/036a838f-8209-4df7-8cbc-bb069e4e703a)
+**发布时间**: 2026-06-12 16:54
+
+#### [Oil touches three-month low after Trump says US close to Iran deal](https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e)
+**发布时间**: 2026-06-12 16:28
+
+#### [SpaceX is cheap on a price-to-cosmos ratio](https://www.ft.com/content/60fcbe6c-e074-4cd9-9816-cdae8112862f)
+**发布时间**: 2026-06-12 14:24
+
+#### [BlackRock private credit fund honours less than 40% of redemption requests](https://www.ft.com/content/65adec62-3505-4d01-8aa6-a609aa7cfdcc)
+**发布时间**: 2026-06-12 13:05
+
+#### [Whither SpaceX? Who knows](https://www.ft.com/content/4299cb27-4d46-479c-916d-1297ac291114)
+**发布时间**: 2026-06-12 09:10
+
+#### [Trading firm DRW suffered sharp loss on power market as prices gyrated](https://www.ft.com/content/58558368-a938-4194-ba0d-cb10f3a0915d)
+**发布时间**: 2026-06-12 04:00
 
 ---
 

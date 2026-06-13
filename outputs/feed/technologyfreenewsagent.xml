@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 09:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 09:00:28 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 00:23:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:23:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻</title>
-      <link>https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</guid>
+      <title>贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”</title>
+      <link>https://www.tmtpost.com/8025438.html</link>
+      <description>&lt;![CDATA[贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025438.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake 迈向 Agentic Enterprise 的关键一跃</title>
-      <link>https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 迈向 Agentic Enterprise 的关键一跃]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 15:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当AI开始规模化，如何融入企业核心业务？</title>
+      <link>https://www.tmtpost.com/8025767.html</link>
+      <description>&lt;![CDATA[当AI开始规模化，如何融入企业核心业务？]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025767.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力</title>
-      <link>https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 19:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>打破向量检索的局限：RAG 混合检索实践</title>
-      <link>https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[打破向量检索的局限：RAG 混合检索实践]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>WWDC 26 发布会上，Apple 没告诉你的那些事</title>
+      <link>https://sspai.com/post/110967</link>
+      <description>&lt;![CDATA[WWDC 26 发布会上，Apple 没告诉你的那些事]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110967</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Uber 如何通过批处理实现单账户每秒 30+ 次更新</title>
-      <link>https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Uber 如何通过批处理实现单账户每秒 30+ 次更新]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化</title>
+      <link>https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇</title>
-      <link>https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）</title>
-      <link>https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微信AI化，才是腾讯的真正赌局</title>
-      <link>https://www.tmtpost.com/8025355.html</link>
-      <description>&lt;![CDATA[微信AI化，才是腾讯的真正赌局]]&gt;</description>
+      <title>Anthropic“狼来了”：喊停的人，跑得最快</title>
+      <link>https://www.tmtpost.com/8024591.html</link>
+      <description>&lt;![CDATA[Anthropic“狼来了”：喊停的人，跑得最快]]&gt;</description>
       <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025355.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8024591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不是黄仁勋要改变 PC，而是 PC 要革自己的命</title>
-      <link>https://www.tmtpost.com/8025703.html</link>
-      <description>&lt;![CDATA[不是黄仁勋要改变 PC，而是 PC 要革自己的命]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025703.html</guid>
+      <title>锁在互联网里的中国大模型</title>
+      <link>https://www.tmtpost.com/8025246.html</link>
+      <description>&lt;![CDATA[锁在互联网里的中国大模型]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025246.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被抢单！ASIC市场，要变天了</title>
-      <link>https://www.tmtpost.com/8024634.html</link>
-      <description>&lt;![CDATA[被抢单！ASIC市场，要变天了]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024634.html</guid>
+      <title>微软开源的 Skill 进化神器，GitHub 上斩获 5000 多 Star 了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534447&amp;idx=1&amp;sn=f9b46a49c2c7b41a0396575c22cd7290</link>
+      <description>&lt;![CDATA[微软开源的 Skill 进化神器，GitHub 上斩获 5000 多 Star 了。]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534447&amp;idx=1&amp;sn=f9b46a49c2c7b41a0396575c22cd7290</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅</title>
+      <link>https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>停运、骗补与逆势狂奔：氢能公交的荒诞经济学</title>
+      <link>https://www.tmtpost.com/8025379.html</link>
+      <description>&lt;![CDATA[停运、骗补与逆势狂奔：氢能公交的荒诞经济学]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025379.html</guid>
       <category>Technology</category>
     </item>
   </channel>

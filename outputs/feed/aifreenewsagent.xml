@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 08:58:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 09:00:37 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 00:21:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:23:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nature 子刊收录！清华李勇团队用 AI 解码全球气候耦合，ENSO 预测提前期延长至 19 个月</title>
-      <link>https://www.leiphone.com/category/ai/Sgux2ZbLaFbXaZxD.html</link>
-      <description>&lt;![CDATA[Nature 子刊收录！清华李勇团队用 AI 解码全球气候耦合，ENSO 预测提前期延长至 19 个月]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Sgux2ZbLaFbXaZxD.html</guid>
+      <title>NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/</link>
+      <description>&lt;![CDATA[NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>生成预测四大权威榜单第一！开悟世界模型确立具身智能世界模型新标杆</title>
-      <link>https://www.leiphone.com/category/ai/G88m8g2T61aivI2F.html</link>
-      <description>&lt;![CDATA[生成预测四大权威榜单第一！开悟世界模型确立具身智能世界模型新标杆]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/G88m8g2T61aivI2F.html</guid>
+      <title>Building Supercharger: How Rocket Close optimized title operations with agentic AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/</link>
+      <description>&lt;![CDATA[Building Supercharger: How Rocket Close optimized title operations with agentic AI]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道</title>
-      <link>https://www.qbitai.com/2026/06/434761.html</link>
-      <description>&lt;![CDATA[BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 04:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434761.html</guid>
+      <title>From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/</link>
+      <description>&lt;![CDATA[From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“智能体最后的考试”，Fable 5竟然不敌GPT 5.5</title>
-      <link>https://www.qbitai.com/2026/06/434774.html</link>
-      <description>&lt;![CDATA[“智能体最后的考试”，Fable 5竟然不敌GPT 5.5]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 04:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/434774.html</guid>
+      <title>olmo-eval: An evaluation workbench for the model development loop</title>
+      <link>https://huggingface.co/blog/allenai/olmo-eval</link>
+      <description>&lt;![CDATA[olmo-eval: An evaluation workbench for the model development loop]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/olmo-eval</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中科大&amp;智象未来：强模型打底、轻模型精修，重塑视频超分体验丨CVPR 2026</title>
-      <link>https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html</link>
-      <description>&lt;![CDATA[中科大&amp;智象未来：强模型打底、轻模型精修，重塑视频超分体验丨CVPR 2026]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html</guid>
+      <title>Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/</link>
+      <description>&lt;![CDATA[Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CVPR 2026 模型适应性研究盘点：从保留旧知识，到适应真实世界</title>
-      <link>https://www.leiphone.com/category/ai/9x05Sw5uY0RhgEdO.html</link>
-      <description>&lt;![CDATA[CVPR 2026 模型适应性研究盘点：从保留旧知识，到适应真实世界]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/9x05Sw5uY0RhgEdO.html</guid>
+      <title>Research into how AI can help users understand skin conditions</title>
+      <link>https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/</link>
+      <description>&lt;![CDATA[Research into how AI can help users understand skin conditions]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>微软中国Azure研发团队遭「一锅端」：超200人受影响，最高补偿N+7；无招卸任钉钉CEO，92年技术极客陈宇森接任；李书福卸任极氪董事长</title>
-      <link>https://www.leiphone.com/category/zaobao/K9MpJZRxh6jNKi8k.html</link>
-      <description>&lt;![CDATA[微软中国Azure研发团队遭「一锅端」：超200人受影响，最高补偿N+7；无招卸任钉钉CEO，92年技术极客陈宇森接任；李书福卸任极氪董事长]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/K9MpJZRxh6jNKi8k.html</guid>
+      <title>A low-carbon computing platform from your retired phones</title>
+      <link>https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/</link>
+      <description>&lt;![CDATA[A low-carbon computing platform from your retired phones]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>6月15日上会！燧原科技营收三年高增，盈利拐点渐近</title>
-      <link>https://www.leiphone.com/category/chips/zhn0h84fE91cixNf.html</link>
-      <description>&lt;![CDATA[6月15日上会！燧原科技营收三年高增，盈利拐点渐近]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/zhn0h84fE91cixNf.html</guid>
+      <title>万台量产之后，机器人企业比拼什么？</title>
+      <link>https://www.leiphone.com/category/industrynews/q05jAEnENMMJiEH0.html</link>
+      <description>&lt;![CDATA[万台量产之后，机器人企业比拼什么？]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/q05jAEnENMMJiEH0.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让AI回归工具：萤石开放平台2.0如何用「双平台」破解IoT落地难题？</title>
-      <link>https://www.leiphone.com/category/smarthome/Ib0fWcObeTWu3DGM.html</link>
-      <description>&lt;![CDATA[让AI回归工具：萤石开放平台2.0如何用「双平台」破解IoT落地难题？]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/smarthome/Ib0fWcObeTWu3DGM.html</guid>
+      <title>什么样的机器人，是我们所期待的？</title>
+      <link>https://www.leiphone.com/category/industrynews/CE76ykduYdOStDkC.html</link>
+      <description>&lt;![CDATA[什么样的机器人，是我们所期待的？]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CE76ykduYdOStDkC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！</title>
-      <link>https://www.qbitai.com/2026/06/435105.html</link>
-      <description>&lt;![CDATA[2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435105.html</guid>
+      <title>腾讯云护航全球16个国家及地区世界杯直播，AI技术首次在世界杯大规模应用</title>
+      <link>https://www.leiphone.com/category/industrynews/EtblIFPRNIfRPFFO.html</link>
+      <description>&lt;![CDATA[腾讯云护航全球16个国家及地区世界杯直播，AI技术首次在世界杯大规模应用]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/EtblIFPRNIfRPFFO.html</guid>
       <category>Ai</category>
     </item>
   </channel>
