@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Jun 2026 00:23:00 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 00:23:10 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 08:23:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:23:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”</title>
-      <link>https://www.tmtpost.com/8025438.html</link>
-      <description>&lt;![CDATA[贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025438.html</guid>
+      <title>史上最大IPO正式开盘，一文看懂SpaceX的业务底牌</title>
+      <link>https://www.tmtpost.com/8026749.html</link>
+      <description>&lt;![CDATA[史上最大IPO正式开盘，一文看懂SpaceX的业务底牌]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 15:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当AI开始规模化，如何融入企业核心业务？</title>
-      <link>https://www.tmtpost.com/8025767.html</link>
-      <description>&lt;![CDATA[当AI开始规模化，如何融入企业核心业务？]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025767.html</guid>
+      <title>志愿填报Agent：腾讯克制，阿里激进</title>
+      <link>https://www.tmtpost.com/8026183.html</link>
+      <description>&lt;![CDATA[志愿填报Agent：腾讯克制，阿里激进]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026183.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI驱动的网络钓鱼：技术演变与实施方式</title>
+      <link>https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI驱动的网络钓鱼：技术演变与实施方式]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WWDC 26 发布会上，Apple 没告诉你的那些事</title>
-      <link>https://sspai.com/post/110967</link>
-      <description>&lt;![CDATA[WWDC 26 发布会上，Apple 没告诉你的那些事]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110967</guid>
+      <title>AI算力爆发，电子玻纤布正成为算力硬件的供给短板</title>
+      <link>https://www.tmtpost.com/8026629.html</link>
+      <description>&lt;![CDATA[AI算力爆发，电子玻纤布正成为算力硬件的供给短板]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026629.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化</title>
-      <link>https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能</title>
+      <link>https://sspai.com/post/110973</link>
+      <description>&lt;![CDATA[具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110973</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic“狼来了”：喊停的人，跑得最快</title>
-      <link>https://www.tmtpost.com/8024591.html</link>
-      <description>&lt;![CDATA[Anthropic“狼来了”：喊停的人，跑得最快]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024591.html</guid>
+      <title>面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察</title>
+      <link>https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>锁在互联网里的中国大模型</title>
-      <link>https://www.tmtpost.com/8025246.html</link>
-      <description>&lt;![CDATA[锁在互联网里的中国大模型]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025246.html</guid>
+      <title>分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软开源的 Skill 进化神器，GitHub 上斩获 5000 多 Star 了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534447&amp;idx=1&amp;sn=f9b46a49c2c7b41a0396575c22cd7290</link>
-      <description>&lt;![CDATA[微软开源的 Skill 进化神器，GitHub 上斩获 5000 多 Star 了。]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 17:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534447&amp;idx=1&amp;sn=f9b46a49c2c7b41a0396575c22cd7290</guid>
+      <title>降价冲销量，乐聚智能IPO的一步险棋</title>
+      <link>https://www.tmtpost.com/8026178.html</link>
+      <description>&lt;![CDATA[降价冲销量，乐聚智能IPO的一步险棋]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026178.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅</title>
-      <link>https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大疆、影石急眼了：诉讼对轰，产品全线“交火”</title>
+      <link>https://www.tmtpost.com/8026290.html</link>
+      <description>&lt;![CDATA[大疆、影石急眼了：诉讼对轰，产品全线“交火”]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026290.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>停运、骗补与逆势狂奔：氢能公交的荒诞经济学</title>
-      <link>https://www.tmtpost.com/8025379.html</link>
-      <description>&lt;![CDATA[停运、骗补与逆势狂奔：氢能公交的荒诞经济学]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025379.html</guid>
+      <title>储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢</title>
+      <link>https://www.tmtpost.com/8026719.html</link>
+      <description>&lt;![CDATA[储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8026719.html</guid>
       <category>Technology</category>
     </item>
   </channel>

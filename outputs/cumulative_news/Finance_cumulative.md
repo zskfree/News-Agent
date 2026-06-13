@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-13 00:23
+**最后更新时间**: 2026-06-13 08:23
+
+---
+
+## 🆕 最新更新 (2026-06-13 08:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How AI is disrupting investment](https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1)
+**发布时间**: 2026-06-13 04:00
+
+#### [AI is revolutionising the stock market](https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70)
+**发布时间**: 2026-06-13 04:00
+
+#### [How to tame the inflation python](https://www.ft.com/content/01c5ea35-a0fa-469f-b8bb-356d98c05fb0)
+**发布时间**: 2026-06-13 04:00
+
+#### [Forget the football — Grand Theft Auto can unite the world](https://www.ft.com/content/f89e388f-a5a4-408a-964e-0ca3d768b8be)
+**发布时间**: 2026-06-13 04:00
+
+#### [Goldman and JPMorgan ease office working rules to counter World Cup disruption](https://www.ft.com/content/d2afe6bb-9c02-4893-a246-b63d6ae724f6)
+**发布时间**: 2026-06-13 04:00
+
+#### [How to speak Fifa](https://www.ft.com/content/fd3b5ec6-a1df-451e-b84c-ef2b7f565eae)
+**发布时间**: 2026-06-13 04:00
+
+#### [France opposes ‘anglicisation’ of EU trade talks](https://www.ft.com/content/fa0545f4-3663-460b-b4ab-773bb3ce7294)
+**发布时间**: 2026-06-13 04:00
+
+#### [US kills leader of Venezuelan Tren de Aragua gang in air strike](https://www.ft.com/content/298a1431-dc3e-4cbc-aa6f-769e54541b60)
+**发布时间**: 2026-06-13 03:42
+
+#### [Anthropic suspends latest AI models after US blocks access to foreigners](https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb)
+**发布时间**: 2026-06-13 02:01
 
 ---
 
