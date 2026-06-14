@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-14 00:10
+**最后更新时间**: 2026-06-14 08:43
+
+---
+
+## 🆕 最新更新 (2026-06-14 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Israel’s ‘trampoline’ economy has adapted to war](https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd)
+**发布时间**: 2026-06-14 08:09
+
+#### [Wall Street digests record fundraising haul as AI race intensifies](https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06)
+**发布时间**: 2026-06-14 04:00
+
+#### [Trump’s many unhappy returns](https://www.ft.com/content/782532af-8fd9-43d6-b48d-713090b34b98)
+**发布时间**: 2026-06-14 04:00
+
+#### [Macron and Trump test their bruised bromance at G7 summit](https://www.ft.com/content/cd9e31af-9521-4a77-8d89-882bb1e4a23e)
+**发布时间**: 2026-06-14 04:00
+
+#### [Defence tech start-up Anduril calls for reset of US arms export controls](https://www.ft.com/content/74e29a55-8f76-47e2-a039-52fb10beaaec)
+**发布时间**: 2026-06-14 04:00
+
+#### [China tees up digital payments system to compete with dollar](https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327)
+**发布时间**: 2026-06-14 02:24
 
 ---
 

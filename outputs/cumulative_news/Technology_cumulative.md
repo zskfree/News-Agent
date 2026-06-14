@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-14 00:10
+**最后更新时间**: 2026-06-14 08:43
+
+---
+
+## 🆕 最新更新 (2026-06-14 08:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华人AI工程师也搭上了SpaceX的财富火箭](https://www.tmtpost.com/8027191.html)
+**发布时间**: 2026-06-14 16:01
+
+#### [【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型](https://www.tmtpost.com/8027129.html)
+**发布时间**: 2026-06-14 12:59
+
+#### [市值暴增790亿！PCB“卖铲人”大族激光，赚麻了](https://www.tmtpost.com/8027117.html)
+**发布时间**: 2026-06-14 11:39
+
+#### [中国新能源车的自研，终于走到“亮底牌”的时候了](https://www.tmtpost.com/8027110.html)
+**发布时间**: 2026-06-14 11:35
+
+#### [最强Claude，卡在上市前夜](https://www.tmtpost.com/8027049.html)
+**发布时间**: 2026-06-14 11:35
+
+#### [这个开源项目把 ChatGPT 搬进本地电脑，每月省下上百美元](https://www.tmtpost.com/8025236.html)
+**发布时间**: 2026-06-14 11:24
+
+#### [Luna Ultra 发布、双方互诉：大疆与影石的全面战争](https://www.tmtpost.com/8026969.html)
+**发布时间**: 2026-06-14 11:23
+
+#### [300个Agent组网，万亿参数减负：Kimi把AI从"学霸"变成"项目经理"](https://www.tmtpost.com/8026995.html)
+**发布时间**: 2026-06-14 11:23
+
+#### [《原神》《绝区零》的新版本稳住了米哈游赚钱水平](https://www.tmtpost.com/8024672.html)
+**发布时间**: 2026-06-14 11:23
+
+#### [滴滴去掉“出行”，网约车老大也要重新找入口](https://www.tmtpost.com/8027052.html)
+**发布时间**: 2026-06-14 10:06
+
+#### [高管花式退场，阿里AI不需要“一号位”](https://www.tmtpost.com/8026958.html)
+**发布时间**: 2026-06-14 09:50
+
+#### [张雪机车被冠军推上牌桌](https://www.tmtpost.com/8027053.html)
+**发布时间**: 2026-06-14 09:35
+
+#### [智源大会最清醒的一句话：大模型的下一场仗，不在屏幕里打了](https://www.tmtpost.com/8027027.html)
+**发布时间**: 2026-06-14 09:25
+
+#### [Edge AI Daily 早报（6月14日）](https://www.tmtpost.com/8027061.html)
+**发布时间**: 2026-06-14 08:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验](https://sspai.com/post/110761)
+**发布时间**: 2026-06-14 11:00
+
+#### [把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+**发布时间**: 2026-06-12 14:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海](https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-14 10:00
+
+#### [OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock](https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-14 10:00
 
 ---
 

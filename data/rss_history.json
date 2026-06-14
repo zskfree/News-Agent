@@ -3091,6 +3091,66 @@
         "link": "https://www.tmtpost.com/8026182.html",
         "published_date": "Sat, 13 Jun 2026 10:20:00 GMT",
         "first_seen": "2026-06-14T00:10:52.004473"
+      },
+      "cd6e9e8dc4d228514ac0e21a9765f2ca701078eb5c11871eb2e8a8007c43248a": {
+        "title": "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型",
+        "link": "https://www.tmtpost.com/8027129.html",
+        "published_date": "Sun, 14 Jun 2026 12:59:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390533"
+      },
+      "84a1e62efd370c4ffb33f1a1fe0fbd838511c2fcab7bf3cbecc7aeb89ba1d241": {
+        "title": "300个Agent组网，万亿参数减负：Kimi把AI从\"学霸\"变成\"项目经理\"",
+        "link": "https://www.tmtpost.com/8026995.html",
+        "published_date": "Sun, 14 Jun 2026 11:23:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390544"
+      },
+      "7646ae3ed749118ec647a6957bb7ed89aa2e5f2b1a0357f632458a50230ab655": {
+        "title": "智源大会最清醒的一句话：大模型的下一场仗，不在屏幕里打了",
+        "link": "https://www.tmtpost.com/8027027.html",
+        "published_date": "Sun, 14 Jun 2026 09:25:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390547"
+      },
+      "8420ed30da396884a5c59dae26cf8a116d4307d16c365d34c2d33e0fdd65a272": {
+        "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+        "link": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390549"
+      },
+      "793b1f4a368822f74db5aa93ed6342033a62bebac5b99a96badfa083e4316c87": {
+        "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+        "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390551"
+      },
+      "2b04c0cb361c24efac7271617b895ced70e9a9f37ccfeee8ee976c18f0635421": {
+        "title": "这个开源项目把 ChatGPT 搬进本地电脑，每月省下上百美元",
+        "link": "https://www.tmtpost.com/8025236.html",
+        "published_date": "Sun, 14 Jun 2026 11:24:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390553"
+      },
+      "b829d0f7f5d07b2fe8a2f65a4b1105d42532d2e9835e92e0ff6164431db619aa": {
+        "title": "中国新能源车的自研，终于走到“亮底牌”的时候了",
+        "link": "https://www.tmtpost.com/8027110.html",
+        "published_date": "Sun, 14 Jun 2026 11:35:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390554"
+      },
+      "53d4213ee936ad037aca4885152bdf3a2f2f1b581d5afbba146f96bb743f8c72": {
+        "title": "滴滴去掉“出行”，网约车老大也要重新找入口",
+        "link": "https://www.tmtpost.com/8027052.html",
+        "published_date": "Sun, 14 Jun 2026 10:06:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390556"
+      },
+      "6f8f92bc2ca8644289593472dfc397a71f294baef5615215db1faaf19ba34a13": {
+        "title": "高管花式退场，阿里AI不需要“一号位”",
+        "link": "https://www.tmtpost.com/8026958.html",
+        "published_date": "Sun, 14 Jun 2026 09:50:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390557"
+      },
+      "602a4c805d679d81b4d35c76e1d1f5e6534bfd3a9e6b08c98cdb40dbfa1bb14a": {
+        "title": "Luna Ultra 发布、双方互诉：大疆与影石的全面战争",
+        "link": "https://www.tmtpost.com/8026969.html",
+        "published_date": "Sun, 14 Jun 2026 11:23:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.390558"
       }
     },
     "Finance": {
@@ -5823,6 +5883,42 @@
         "link": "https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab",
         "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
         "first_seen": "2026-06-14T00:10:52.062510"
+      },
+      "9d0eafcba7554b54c47f9abf8eaf0685d980b4221d79d4eaaa31e28f0b7f4119": {
+        "title": "How Israel’s ‘trampoline’ economy has adapted to war",
+        "link": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
+        "published_date": "Sun, 14 Jun 2026 08:09:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438079"
+      },
+      "46671e348ed08543e74c6b5dc198aa9edf25bc3231982cedcb236699bfc29743": {
+        "title": "Wall Street digests record fundraising haul as AI race intensifies",
+        "link": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
+        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438088"
+      },
+      "a401c2eb8c373792136f14888a518d61049c83e1f9b8173bba99dcd72a09d1c0": {
+        "title": "Trump’s many unhappy returns",
+        "link": "https://www.ft.com/content/782532af-8fd9-43d6-b48d-713090b34b98",
+        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438090"
+      },
+      "4ae3e856924c1c069a3e4d005fda68ce775283e47f7f57a3d95f463fa2d4bb38": {
+        "title": "Macron and Trump test their bruised bromance at G7 summit",
+        "link": "https://www.ft.com/content/cd9e31af-9521-4a77-8d89-882bb1e4a23e",
+        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438092"
+      },
+      "d351d90dbd1611d565c141509550d5c61ea0f9c7c5ef881c4c81baed3df22d16": {
+        "title": "Defence tech start-up Anduril calls for reset of US arms export controls",
+        "link": "https://www.ft.com/content/74e29a55-8f76-47e2-a039-52fb10beaaec",
+        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438093"
+      },
+      "6f2a670588791e2fd77fc52d75e74f2c29c18d1348788d2217d5a3fe2812103b": {
+        "title": "China tees up digital payments system to compete with dollar",
+        "link": "https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327",
+        "published_date": "Sun, 14 Jun 2026 02:24:00 GMT",
+        "first_seen": "2026-06-14T08:43:56.438095"
       }
     },
     "Ai": {
@@ -8104,8 +8200,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-14T00:10:52.004476",
-    "Finance": "2026-06-14T00:10:52.062513",
+    "Technology": "2026-06-14T08:43:56.390561",
+    "Finance": "2026-06-14T08:43:56.438097",
     "Ai": "2026-06-14T00:10:52.186244"
   }
 }
