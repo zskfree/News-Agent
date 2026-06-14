@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Jun 2026 08:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2026 08:23:40 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:10:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026北京智源大会开幕 | 从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”</title>
-      <link>https://www.leiphone.com/category/academic/PRkJuKQSDv4Q1le5.html</link>
-      <description>&lt;![CDATA[2026北京智源大会开幕 | 从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”]]&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 08:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/PRkJuKQSDv4Q1le5.html</guid>
+      <title>湖州超级五电工厂落地，零跑奔赴百万销量制造突围</title>
+      <link>https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html</link>
+      <description>&lt;![CDATA[湖州超级五电工厂落地，零跑奔赴百万销量制造突围]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”</title>
-      <link>https://www.qbitai.com/2026/06/435394.html</link>
-      <description>&lt;![CDATA[2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”]]&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 05:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435394.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋</title>
-      <link>https://www.qbitai.com/2026/06/435339.html</link>
-      <description>&lt;![CDATA[马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋]]&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 04:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435339.html</guid>
+      <title>HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？</title>
+      <link>https://www.qbitai.com/2026/06/435483.html</link>
+      <description>&lt;![CDATA[HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？]]&gt;</description>
+      <pubDate>Sat, 13 Jun 2026 12:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435483.html</guid>
       <category>Ai</category>
     </item>
   </channel>

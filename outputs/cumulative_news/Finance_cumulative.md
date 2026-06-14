@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-13 08:23
+**最后更新时间**: 2026-06-14 00:10
+
+---
+
+## 🆕 最新更新 (2026-06-14 00:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We are comfortable financially’: My husband is in his 60s and has $500,000 life insurance. Is this a good time to cancel?](https://www.marketwatch.com/story/we-pay-100-per-month-my-husband-is-in-his-mid-60s-and-has-a-500-000-life-insurance-policy-is-it-time-to-cancel-it-4cc49ffe?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 23:23
+
+#### [Worried about a lower Social Security benefit? How to calculate the exact impact it will have on your retirement.](https://www.marketwatch.com/story/you-can-calculate-the-exact-impact-a-reduced-social-security-check-will-have-on-your-retirement-success-f0f58429?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:01
+
+#### [Social Security benefits and costs are perfectly reasonable — no case exists for massive cuts](https://www.marketwatch.com/story/social-security-benefits-and-costs-are-perfectly-reasonable-no-case-exists-for-massive-cuts-fb41f21f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:00
+
+#### [Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll](https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:00
+
+#### [The true national debt just hit $1 million per U.S. household](https://www.marketwatch.com/story/the-true-national-debt-just-hit-1-million-per-u-s-household-bd0924d1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:00
+
+#### [Social Security’s COLA could be 4.7% in 2027 as inflation hits the highest level in 3 years](https://www.marketwatch.com/story/social-securitys-cola-could-be-4-7-in-2027-as-inflation-hits-the-highest-level-in-3-years-e5a87320?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:00
+
+#### [My wife and I are 61. We have $2.2 million and expect $5,000 in Social Security benefits. Do we claim early?](https://www.marketwatch.com/story/my-wife-and-i-are-61-we-have-2-2-million-and-5-000-in-social-security-benefits-do-we-claim-early-1585baf3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-13 19:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US and Iran will sign deal on Sunday to reopen Strait](https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f)
+**发布时间**: 2026-06-13 19:31
+
+#### [How Wall Street pulled off the biggest IPO in history for SpaceX](https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b)
+**发布时间**: 2026-06-13 10:00
+
+#### [Investment firms join Donald Trump’s $100bn race for Venezuelan oil](https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab)
+**发布时间**: 2026-06-13 10:00
+
+#### [AI is disrupting investment](https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1)
+**发布时间**: 2026-06-13 04:00
+
+#### [European tech sovereignty: a doubtful goal but a good investment](https://www.ft.com/content/08f2c019-673d-4c7b-b0d5-3f973b573e80)
+**发布时间**: 2026-06-13 04:00
 
 ---
 
