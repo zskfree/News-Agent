@@ -1,7 +1,129 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-15 00:13
+**最后更新时间**: 2026-06-15 10:57
+
+---
+
+## 🆕 最新更新 (2026-06-15 10:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【Fintech 周报】大额存单个人认购起点拟降至20万元；今年以来不良贷款挂牌规模近1600亿元](https://www.tmtpost.com/8028814.html)
+**发布时间**: 2026-06-15 18:48
+
+#### [80岁斯皮尔伯格第四次拍“外星人”，本人表态：外星人此刻就在地球上](https://www.tmtpost.com/8028617.html)
+**发布时间**: 2026-06-15 18:20
+
+#### [这届年轻人，开始向AI「问路」](https://www.tmtpost.com/8025430.html)
+**发布时间**: 2026-06-15 18:20
+
+#### [电子布100%涨价背后，真正的瓶颈不是织机，是配方](https://www.tmtpost.com/8027375.html)
+**发布时间**: 2026-06-15 18:15
+
+#### [与 OpenAI 分道扬镳后，对微软股价更有利？](https://www.tmtpost.com/8028586.html)
+**发布时间**: 2026-06-15 18:14
+
+#### [对话腾讯国服制作人：海外狂卖1600万份，他们要挑战游戏行业最难的事](https://www.tmtpost.com/8028310.html)
+**发布时间**: 2026-06-15 18:14
+
+#### [中际旭创们，被华尔街玩成了AI刮刮乐](https://www.tmtpost.com/8028382.html)
+**发布时间**: 2026-06-15 18:14
+
+#### [小绿书 VS 小红书：一场生死战，不是选择题](https://www.tmtpost.com/8028640.html)
+**发布时间**: 2026-06-15 18:14
+
+#### [三星集团的罢工史](https://www.tmtpost.com/8028581.html)
+**发布时间**: 2026-06-15 18:07
+
+#### [SK海力士尝试“以钼代钨”，钼金属需求大爆发](https://www.tmtpost.com/8028655.html)
+**发布时间**: 2026-06-15 18:05
+
+#### [钉钉换帅后，我对它未来的新看法](https://www.tmtpost.com/8028579.html)
+**发布时间**: 2026-06-15 18:05
+
+#### [N年前烂尾的全机器人酒店，为什么要在深圳重做一遍？](https://www.tmtpost.com/8028632.html)
+**发布时间**: 2026-06-15 18:03
+
+#### [大厂AI资产分拆进行时：可灵为字节、阿里探路？](https://www.tmtpost.com/8028634.html)
+**发布时间**: 2026-06-15 18:00
+
+#### [诺奖得主称马斯克是庞氏骗局，投资者被迫为SpaceX买单](https://www.tmtpost.com/8028602.html)
+**发布时间**: 2026-06-15 17:57
+
+#### [啤酒：低价产品领跌，品类/产品升级正当时？](https://www.tmtpost.com/8028400.html)
+**发布时间**: 2026-06-15 17:54
+
+#### [SpaceX首日暴涨，是星辰大海，还是万亿骗局？](https://www.tmtpost.com/8028595.html)
+**发布时间**: 2026-06-15 17:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [普通人创作千万播放量爆款视频不是梦！从字节走出的产品人，做了一款AIGC视频神器](https://www.infoq.cn/article/pfJ4soZQji2VsfuX1DMm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 18:40
+
+#### [智能体加速金融创新 | TF技术前线179期报名](https://www.infoq.cn/article/Bim80Njzp6ZYQJVm8dh7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 18:39
+
+#### [Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持](https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 18:11
+
+#### [Fable 5 被禁竟因不听劝，Anthropic开启退款；阿里辟谣合伙人周靖人离职消息；智谱GLM-5.2全量开放：前沿智能不应被随时收回｜AI周报](https://www.infoq.cn/article/iuD87mUGUbkR8RGbiqNr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 16:48
+
+#### [Terraform 1.15 在动态模块源和功能弃用方面缩小了与 OpenTofu 的差距](https://www.infoq.cn/article/ScTqcQpgcS4hoKuGeMPO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 16:08
+
+#### [微软在 Build 2026 大会上推出 Logic Apps Automation 功能](https://www.infoq.cn/article/MpPRbdlVPsucjYBoNMjB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 14:10
+
+#### [Swiggy通过实时机器学习排序提升搜索自动补全效果](https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 11:00
+
+#### [写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？](https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:42
+
+#### [Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析](https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:31
+
+#### [Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子](https://www.infoq.cn/article/vLsklR5qs8h3j1D4AeqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:23
+
+#### [复杂业务场景下 RCA Agent 的探索实践](https://www.infoq.cn/article/dSexstkokyRe1TIkcBLW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:20
+
+#### [WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了](https://www.infoq.cn/article/LSwQ3hQpZ1INX40icTSE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:00
+
+#### [从个人提效到组织生产力提升：快手 AI Coding 演进实践｜AICon上海](https://www.infoq.cn/article/GyKoQjrIdwbi5KaGWzsX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 10:00
+
+#### [在AWS上为百万企业级B2B平台构建安全的MCP服务器](https://www.infoq.cn/article/YG0Qxe0YwsIz9jBToPj3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 09:47
+
+#### [董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势](https://www.infoq.cn/article/KAeOCGN7OQEwMSsz5k5S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/111068)
+**发布时间**: 2026-06-15 17:45
+
+#### [具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111003)
+**发布时间**: 2026-06-15 16:04
+
+#### [从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置](https://sspai.com/post/110984)
+**发布时间**: 2026-06-15 16:00
+
+#### [Snapseed 4.0：Google 终于想起了这款「免费修图神器」](https://sspai.com/post/110525)
+**发布时间**: 2026-06-15 14:39
+
+#### [线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令](https://sspai.com/post/110989)
+**发布时间**: 2026-06-15 11:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [在 Kimi Code 中用上最新的 Kimi K2.7 Code 模型，太爽了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534592&idx=1&sn=111ded134f8f79316d8954428e3f5c7f)
+**发布时间**: 2026-06-15 14:15
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Jun 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 00:10:52 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 10:55:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:57:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>湖州超级五电工厂落地，零跑奔赴百万销量制造突围</title>
-      <link>https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html</link>
-      <description>&lt;![CDATA[湖州超级五电工厂落地，零跑奔赴百万销量制造突围]]&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html</guid>
+      <title>从最优传输角度训练奖励模型：让 RLHF 学会「忽略错误偏好」丨ICML 2026</title>
+      <link>https://www.leiphone.com/category/robot/wRfEczgo0HmrXNVa.html</link>
+      <description>&lt;![CDATA[从最优传输角度训练奖励模型：让 RLHF 学会「忽略错误偏好」丨ICML 2026]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 15:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/wRfEczgo0HmrXNVa.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？</title>
-      <link>https://www.qbitai.com/2026/06/435483.html</link>
-      <description>&lt;![CDATA[HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？]]&gt;</description>
-      <pubDate>Sat, 13 Jun 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435483.html</guid>
+      <title>智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破</title>
+      <link>https://www.qbitai.com/2026/06/435520.html</link>
+      <description>&lt;![CDATA[智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 03:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435520.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型</title>
+      <link>https://www.qbitai.com/2026/06/435802.html</link>
+      <description>&lt;![CDATA[4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 06:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435802.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>魔法原子上交会首秀VLA K02大模型，完成具身智能从“执行”到“理解”的能力跃迁</title>
+      <link>https://www.leiphone.com/category/industrynews/id1HKgC0ahWZduWb.html</link>
+      <description>&lt;![CDATA[魔法原子上交会首秀VLA K02大模型，完成具身智能从“执行”到“理解”的能力跃迁]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/id1HKgC0ahWZduWb.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超</title>
+      <link>https://www.qbitai.com/2026/06/435558.html</link>
+      <description>&lt;![CDATA[低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 05:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435558.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Agent时代，华为云开始重新造地基了</title>
+      <link>https://www.qbitai.com/2026/06/435531.html</link>
+      <description>&lt;![CDATA[Agent时代，华为云开始重新造地基了]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 03:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435531.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线</title>
+      <link>https://www.qbitai.com/2026/06/435574.html</link>
+      <description>&lt;![CDATA[刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 06:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435574.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>97毫秒！百度 PP-OCRv6 把 OCR 带进毫秒时代</title>
+      <link>https://www.leiphone.com/category/industrynews/ZgPImCFdSTkpxCSn.html</link>
+      <description>&lt;![CDATA[97毫秒！百度 PP-OCRv6 把 OCR 带进毫秒时代]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZgPImCFdSTkpxCSn.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>首发丨家庭柔性机器人公司「SoulX」获高瓴投资，首款「拥抱机器人」年内上市</title>
+      <link>https://www.leiphone.com/category/weiwu/NmG4PGKLNQreYKmk.html</link>
+      <description>&lt;![CDATA[首发丨家庭柔性机器人公司「SoulX」获高瓴投资，首款「拥抱机器人」年内上市]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/NmG4PGKLNQreYKmk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>世航智能完成超 10 亿元 A 轮融资，创全球海洋机器人单轮融资纪录</title>
+      <link>https://www.leiphone.com/category/robot/FufjKCluRRyP0ye4.html</link>
+      <description>&lt;![CDATA[世航智能完成超 10 亿元 A 轮融资，创全球海洋机器人单轮融资纪录]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/FufjKCluRRyP0ye4.html</guid>
       <category>Ai</category>
     </item>
   </channel>

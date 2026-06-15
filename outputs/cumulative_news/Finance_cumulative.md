@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-15 00:13
+**最后更新时间**: 2026-06-15 10:57
+
+---
+
+## 🆕 最新更新 (2026-06-15 10:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s the potential stock-market reaction from new restrictions on AI models](https://www.marketwatch.com/story/heres-the-potential-stock-market-reaction-from-new-restrictions-on-ai-models-1aec4a5e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 10:44
+
+#### [‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?](https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 10:36
+
+#### [Elon Musk makes sky-high trillion-dollar forecast for SpaceX revenue](https://www.marketwatch.com/story/elon-musk-makes-sky-high-trillion-dollar-forecast-for-spacex-revenue-721db931?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 09:37
+
+#### [Oil prices slump to three-month low after U.S. and Iran agree to framework of peace deal](https://www.marketwatch.com/story/oil-prices-decline-after-u-s-iran-agree-to-framework-of-peace-deal-ae25ba9f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 09:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [A war without victors](https://www.ft.com/content/95008806-065f-40a6-a487-41824a403d94)
+**发布时间**: 2026-06-15 10:02
+
+#### [Iran deal leaves Trump fighting a war at home](https://www.ft.com/content/306284ac-0551-4c36-8299-cfd7fb7f4f52)
+**发布时间**: 2026-06-15 10:00
+
+#### [Global stocks power to record highs as deal ignites ‘risk on’ rally](https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb)
+**发布时间**: 2026-06-15 08:52
+
+#### [The Iran war in seven charts](https://www.ft.com/content/f09468d7-a3c4-4956-9a54-9584501bdda3)
+**发布时间**: 2026-06-15 08:11
+
+#### [Russia damages historic Kyiv cathedral in massive missile strike](https://www.ft.com/content/fd7bb364-f9a3-4935-805d-27c5f4648b1a)
+**发布时间**: 2026-06-15 07:03
+
+#### [Ukrainian drone campaign chokes Moscow’s lifeline to Crimea](https://www.ft.com/content/0ea7f48c-172c-443f-9896-1e77c2a8d065)
+**发布时间**: 2026-06-15 04:00
+
+#### [Legal AI start-up Legora to double headcount](https://www.ft.com/content/51b43d91-ae82-4142-9ff6-3252720e2906)
+**发布时间**: 2026-06-15 04:00
+
+#### [Trump stages show of political domination with White House UFC bout](https://www.ft.com/content/11f71770-5872-4769-9ea5-a21f12151e10)
+**发布时间**: 2026-06-15 02:53
+
+#### [Trump settles for a truce of convenience](https://www.ft.com/content/e51b0af8-40ed-4828-969d-fc8827e37551)
+**发布时间**: 2026-06-14 23:14
 
 ---
 
