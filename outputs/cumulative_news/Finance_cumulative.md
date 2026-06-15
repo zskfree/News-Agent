@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-14 08:43
+**最后更新时间**: 2026-06-15 00:13
+
+---
+
+## 🆕 最新更新 (2026-06-15 00:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran](https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories)
+**发布时间**: 2026-06-14 23:44
+
+#### [Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.](https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-14 21:00
+
+#### [Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.](https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-14 17:34
+
+#### [SpaceX shows investors still want moonshots. The Fed may test that theory this week.](https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-14 13:00
+
+#### [My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?](https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-14 12:25
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic scrambles after Trump administration freezes its top AI models](https://www.ft.com/content/f6940d59-28f4-4ae4-a569-c6fc421e52b9)
+**发布时间**: 2026-06-14 23:43
+
+#### [What is in the US-Iran deal?](https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934)
+**发布时间**: 2026-06-14 23:17
+
+#### [Trump settles for a truce of convenience with Iran](https://www.ft.com/content/e51b0af8-40ed-4828-969d-fc8827e37551)
+**发布时间**: 2026-06-14 23:14
+
+#### [Strait of Hormuz backlog could take weeks to clear after US-Iran deal](https://www.ft.com/content/c2d4e116-c49a-4f6b-9b2e-d10d37e4c2e8)
+**发布时间**: 2026-06-14 23:03
+
+#### [Iran and US agree deal to open Strait of Hormuz and extend ceasefire](https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1)
+**发布时间**: 2026-06-14 22:46
+
+#### [Swiss voters reject proposal to cap population at 10mn](https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac)
+**发布时间**: 2026-06-14 16:59
+
+#### [Trump stages show of political domination with UFC bout on White House lawn](https://www.ft.com/content/11f71770-5872-4769-9ea5-a21f12151e10)
+**发布时间**: 2026-06-14 16:38
+
+#### [‘Can a machine do this job?’ is the wrong question](https://www.ft.com/content/47f4d549-4560-4830-bf55-47774a9057bc)
+**发布时间**: 2026-06-14 12:00
+
+#### [The coach who bonded with Putin and took Curaçao to the World Cup](https://www.ft.com/content/d56df5f0-0310-4e31-b5bb-f53d335b191c)
+**发布时间**: 2026-06-14 10:00
 
 ---
 

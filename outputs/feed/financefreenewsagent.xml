@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Jun 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 08:43:56 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 00:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:14:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>How Israel’s ‘trampoline’ economy has adapted to war</title>
-      <link>https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd</link>
-      <description>&lt;![CDATA[How Israel’s ‘trampoline’ economy has adapted to war]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd</guid>
+      <title>Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.</title>
+      <link>https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Wall Street digests record fundraising haul as AI race intensifies</title>
-      <link>https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06</link>
-      <description>&lt;![CDATA[Wall Street digests record fundraising haul as AI race intensifies]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06</guid>
+      <title>Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.</title>
+      <link>https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Trump’s many unhappy returns</title>
-      <link>https://www.ft.com/content/782532af-8fd9-43d6-b48d-713090b34b98</link>
-      <description>&lt;![CDATA[Trump’s many unhappy returns]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/782532af-8fd9-43d6-b48d-713090b34b98</guid>
+      <title>Anthropic scrambles after Trump administration freezes its top AI models</title>
+      <link>https://www.ft.com/content/f6940d59-28f4-4ae4-a569-c6fc421e52b9</link>
+      <description>&lt;![CDATA[Anthropic scrambles after Trump administration freezes its top AI models]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 23:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f6940d59-28f4-4ae4-a569-c6fc421e52b9</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Macron and Trump test their bruised bromance at G7 summit</title>
-      <link>https://www.ft.com/content/cd9e31af-9521-4a77-8d89-882bb1e4a23e</link>
-      <description>&lt;![CDATA[Macron and Trump test their bruised bromance at G7 summit]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cd9e31af-9521-4a77-8d89-882bb1e4a23e</guid>
+      <title>SpaceX shows investors still want moonshots. The Fed may test that theory this week.</title>
+      <link>https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[SpaceX shows investors still want moonshots. The Fed may test that theory this week.]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Defence tech start-up Anduril calls for reset of US arms export controls</title>
-      <link>https://www.ft.com/content/74e29a55-8f76-47e2-a039-52fb10beaaec</link>
-      <description>&lt;![CDATA[Defence tech start-up Anduril calls for reset of US arms export controls]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/74e29a55-8f76-47e2-a039-52fb10beaaec</guid>
+      <title>Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran</title>
+      <link>https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 23:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>China tees up digital payments system to compete with dollar</title>
-      <link>https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327</link>
-      <description>&lt;![CDATA[China tees up digital payments system to compete with dollar]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 02:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327</guid>
+      <title>Iran and US agree deal to open Strait of Hormuz and extend ceasefire</title>
+      <link>https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1</link>
+      <description>&lt;![CDATA[Iran and US agree deal to open Strait of Hormuz and extend ceasefire]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 22:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘Can a machine do this job?’ is the wrong question</title>
+      <link>https://www.ft.com/content/47f4d549-4560-4830-bf55-47774a9057bc</link>
+      <description>&lt;![CDATA[‘Can a machine do this job?’ is the wrong question]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/47f4d549-4560-4830-bf55-47774a9057bc</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Swiss voters reject proposal to cap population at 10mn</title>
+      <link>https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac</link>
+      <description>&lt;![CDATA[Swiss voters reject proposal to cap population at 10mn]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/633980b1-06ef-4e83-8551-7b5c6d55d4ac</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Strait of Hormuz backlog could take weeks to clear after US-Iran deal</title>
+      <link>https://www.ft.com/content/c2d4e116-c49a-4f6b-9b2e-d10d37e4c2e8</link>
+      <description>&lt;![CDATA[Strait of Hormuz backlog could take weeks to clear after US-Iran deal]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c2d4e116-c49a-4f6b-9b2e-d10d37e4c2e8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What is in the US-Iran deal?</title>
+      <link>https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934</link>
+      <description>&lt;![CDATA[What is in the US-Iran deal?]]&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 23:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934</guid>
       <category>Finance</category>
     </item>
   </channel>
