@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-16 01:43
+**最后更新时间**: 2026-06-16 10:10
+
+---
+
+## 🆕 最新更新 (2026-06-16 10:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My child was given a summer cabin. Should I pay for the $10,000-a-year maintenance and taxes?](https://www.marketwatch.com/story/my-child-was-given-a-summer-cabin-should-i-pay-for-the-10-000-a-year-maintenance-and-taxes-5dc5cace?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 09:41
+
+#### [The peace deal is in the price: Goldman Sachs lowers its oil-price target to market levels](https://www.marketwatch.com/story/the-peace-deal-is-in-the-price-goldman-sachs-lowers-its-oil-price-target-to-market-levels-632cc2b1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 09:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bank of Japan raises rates to 1% for first time since 1995](https://www.ft.com/content/1e887867-8533-423b-977c-c019759f7787)
+**发布时间**: 2026-06-16 08:01
+
+#### [US-Iran deal must be ‘material’ for Strait of Hormuz to reopen, tanker giant warns](https://www.ft.com/content/9dfe2dd2-2d52-445f-a223-147d6509a76f)
+**发布时间**: 2026-06-16 04:00
+
+#### [The reclusive heirs in line for billions when Europe’s top tankmaker lists](https://www.ft.com/content/a7123e93-beda-4ede-a96c-58b584b67498)
+**发布时间**: 2026-06-16 04:00
+
+#### [The world is more dangerous. Why is risk cheaper?](https://www.ft.com/content/3cae57bd-c2d8-4ed5-87a8-644a27c86d93)
+**发布时间**: 2026-06-16 04:00
+
+#### [The human brain is not a machine](https://www.ft.com/content/37aca277-f7f4-41b8-ac8a-0850bae2e2e5)
+**发布时间**: 2026-06-16 04:00
+
+#### [JPMorgan plans Chase expansion into Europe’s largest markets](https://www.ft.com/content/8e69c8b4-accf-4a69-a1a2-60688111e29a)
+**发布时间**: 2026-06-16 04:00
+
+#### [Europe’s AI champion Mistral vulnerable to Russian disinformation, study finds](https://www.ft.com/content/9703cd44-a966-42ff-bd2e-bfd3bcbc22bb)
+**发布时间**: 2026-06-16 04:00
+
+#### [Economists bet on higher rates as Kevin Warsh takes reins at the Fed](https://www.ft.com/content/ee4e7722-5488-4c22-ae04-fce60440c28c)
+**发布时间**: 2026-06-16 04:00
+
+#### [Private equity bosses warn of AI threat to bets on law and accountancy](https://www.ft.com/content/d368d0b8-9264-408b-b0af-0f0b660e1c8f)
+**发布时间**: 2026-06-16 04:00
+
+#### [HR must manage AI bots as well as humans, says Accenture executive](https://www.ft.com/content/bbf57e46-51ef-4013-8f09-8391fb69e6f1)
+**发布时间**: 2026-06-16 04:00
+
+#### [OpenAI spending hit $34bn last year ahead of planned IPO](https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828)
+**发布时间**: 2026-06-16 03:28
 
 ---
 

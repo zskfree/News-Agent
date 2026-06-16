@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-16 01:43
+**最后更新时间**: 2026-06-16 10:10
+
+---
+
+## 🆕 最新更新 (2026-06-16 10:10)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考](https://www.tmtpost.com/8029820.html)
+**发布时间**: 2026-06-16 17:45
+
+#### [端侧智能的全球化落地：云端的"强"，解不了端侧的"痛"｜「Talk To The World」@Singapore AI Week](https://www.tmtpost.com/8029636.html)
+**发布时间**: 2026-06-16 17:35
+
+#### [Anthropic刚说免费送Agent额度，结果2小时后就反悔了](https://www.tmtpost.com/8029652.html)
+**发布时间**: 2026-06-16 17:23
+
+#### [“公司把我们当狗用！”Meta上下都在质疑扎男的AI冒进](https://www.tmtpost.com/8029681.html)
+**发布时间**: 2026-06-16 17:23
+
+#### [山姆道歉，品控管理压力不止这一家](https://www.tmtpost.com/8029720.html)
+**发布时间**: 2026-06-16 17:23
+
+#### [宇树科技补短板：合作英伟达，花20亿搞研发](https://www.tmtpost.com/8029722.html)
+**发布时间**: 2026-06-16 17:22
+
+#### [摇一摇就跳转：每年偷走用户20亿小时的“数字牛皮癣”](https://www.tmtpost.com/8029726.html)
+**发布时间**: 2026-06-16 17:22
+
+#### [超20亿B轮融资落地，硅基流动的“Token工厂”](https://www.tmtpost.com/8029944.html)
+**发布时间**: 2026-06-16 17:07
+
+#### [讽刺：Anthropic求监管，第一个被监管“反噬”](https://www.tmtpost.com/8029624.html)
+**发布时间**: 2026-06-16 16:49
+
+#### [小鹏、蔚来卷算力，理想换架构](https://www.tmtpost.com/8029549.html)
+**发布时间**: 2026-06-16 16:36
+
+#### [跑刀去非洲](https://www.tmtpost.com/8029452.html)
+**发布时间**: 2026-06-16 16:36
+
+#### [中小网约车扎堆上市，高德才是最大赢家](https://www.tmtpost.com/8029315.html)
+**发布时间**: 2026-06-16 16:03
+
+#### [“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿](https://www.tmtpost.com/8029350.html)
+**发布时间**: 2026-06-16 16:03
+
+#### [汽车行业装不下蔚小理了](https://www.tmtpost.com/8029376.html)
+**发布时间**: 2026-06-16 16:03
+
+#### [医疗创始人开始排队把公司卖给国资](https://www.tmtpost.com/8029102.html)
+**发布时间**: 2026-06-16 15:24
+
+#### [2026奇点智能产品大会首批嘉宾官宣](https://www.tmtpost.com/8027794.html)
+**发布时间**: 2026-06-16 15:05
+
+#### [耐心资本护航创新，2026SuperLink开启创投价值共生新时代](https://www.tmtpost.com/8025805.html)
+**发布时间**: 2026-06-16 15:04
+
+#### [98.8%市场被三巨头瓜分后，东南亚电商还在打什么？｜出海参考](https://www.tmtpost.com/8028944.html)
+**发布时间**: 2026-06-16 14:44
+
+#### [五分钟到清华，一座楼里的AI创业众生相](https://www.tmtpost.com/8028997.html)
+**发布时间**: 2026-06-16 12:34
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [4 个比较实用的 GitHub 开源项目，浅浅的收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534593&idx=1&sn=79c17a8cbe09be4d44d2ef5a4295b84a)
+**发布时间**: 2026-06-16 17:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理](https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 17:07
+
+#### [AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？](https://www.infoq.cn/article/5YWzfAHFxQhOWtkJmWgG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 16:16
+
+#### [超20亿元B轮融资落地，硅基流动进入产业资本密集下注阶段](https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 15:57
+
+#### [Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重](https://www.infoq.cn/article/ptleqt2rgIC96zXp5Tzu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 13:54
+
+#### [亚马逊云科技发布新一代 Amazon OpenSearch Serverless](https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 11:38
+
+#### [蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海](https://www.infoq.cn/article/5Ke1HD7F6R7aYr4jERyk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 10:00
+
+#### [Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流](https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅](https://sspai.com/post/111099)
+**发布时间**: 2026-06-16 16:45
+
+#### [独家采访 Home Assistant 创始人：离全面本土化还有多远](https://sspai.com/post/110086)
+**发布时间**: 2026-06-16 15:10
+
+#### [今年 618，这些鼠标值得一看](https://sspai.com/post/111065)
+**发布时间**: 2026-06-16 11:00
 
 ---
 

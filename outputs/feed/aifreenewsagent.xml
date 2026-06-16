@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Jun 2026 01:41:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:54 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 10:08:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:10:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>对话它石智航丁文超：具身智能，如何迈进「2.0时代」？| ICRA 2026</title>
-      <link>https://www.leiphone.com/category/robot/CphF1Mc5RZX5xaWN.html</link>
-      <description>&lt;![CDATA[对话它石智航丁文超：具身智能，如何迈进「2.0时代」？| ICRA 2026]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 21:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/CphF1Mc5RZX5xaWN.html</guid>
+      <title>独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」</title>
+      <link>https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html</link>
+      <description>&lt;![CDATA[独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026</title>
-      <link>https://www.leiphone.com/category/robot/04blpoyMgJFliCK9.html</link>
-      <description>&lt;![CDATA[对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 21:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/04blpoyMgJFliCK9.html</guid>
+      <title>三连发！阿里发布首个具身大模型Qwen-Robot系列</title>
+      <link>https://www.qbitai.com/2026/06/435873.html</link>
+      <description>&lt;![CDATA[三连发！阿里发布首个具身大模型Qwen-Robot系列]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 04:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435873.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI Agent Failure Detection and Root Cause Analysis with Strands Evals</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/</link>
-      <description>&lt;![CDATA[AI Agent Failure Detection and Root Cause Analysis with Strands Evals]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/</guid>
+      <title>国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了</title>
+      <link>https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html</link>
+      <description>&lt;![CDATA[国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build context-rich research agents with Deep Agents and Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Build context-rich research agents with Deep Agents and Bedrock AgentCore]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 13:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/</guid>
+      <title>ICML 2026 | 电子科大：树状自我博弈 TSP，面向安全代码大模型的细粒度自纠错框架</title>
+      <link>https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html</link>
+      <description>&lt;![CDATA[ICML 2026 | 电子科大：树状自我博弈 TSP，面向安全代码大模型的细粒度自纠错框架]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing Gemma 4 models on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Introducing Gemma 4 models on Amazon Bedrock]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 20:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/</guid>
+      <title>ICML 2026：从输入输出样例中自动生成程序——强化学习为大模型Programming-By-Example任务提供推理过程监督</title>
+      <link>https://www.leiphone.com/category/private/z1LrlGd5bucicch2.html</link>
+      <description>&lt;![CDATA[ICML 2026：从输入输出样例中自动生成程序——强化学习为大模型Programming-By-Example任务提供推理过程监督]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 13:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/z1LrlGd5bucicch2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球 AI “黑马神话”一夜反转，被指套壳阿里千问</title>
-      <link>https://www.leiphone.com/category/industrynews/cjoeciL965DpPQsY.html</link>
-      <description>&lt;![CDATA[全球 AI “黑马神话”一夜反转，被指套壳阿里千问]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjoeciL965DpPQsY.html</guid>
+      <title>ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解</title>
+      <link>https://www.leiphone.com/category/private/6M1mEqgs9TxaZJaO.html</link>
+      <description>&lt;![CDATA[ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/6M1mEqgs9TxaZJaO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？</title>
-      <link>https://www.leiphone.com/category/industrynews/sqyIHwGyFzai5Tcj.html</link>
-      <description>&lt;![CDATA[进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/sqyIHwGyFzai5Tcj.html</guid>
+      <title>马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头</title>
+      <link>https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html</link>
+      <description>&lt;![CDATA[马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯AI下半场，智能体加速场景落地</title>
-      <link>https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html</link>
-      <description>&lt;![CDATA[腾讯AI下半场，智能体加速场景落地]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html</guid>
+      <title>江湖已变，旧梦未改，吴甘沙的自动驾驶十年</title>
+      <link>https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html</link>
+      <description>&lt;![CDATA[江湖已变，旧梦未改，吴甘沙的自动驾驶十年]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>校企共推AI4S 上海交通大学与太初元碁签署合作协议</title>
-      <link>https://www.qbitai.com/2026/06/435848.html</link>
-      <description>&lt;![CDATA[校企共推AI4S 上海交通大学与太初元碁签署合作协议]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435848.html</guid>
+      <title>手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场</title>
+      <link>https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html</link>
+      <description>&lt;![CDATA[手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蔚来ES9正式上市，定位科技行政旗舰SUV</title>
-      <link>https://www.leiphone.com/category/transportation/KSYxJzfPdVeIgGXz.html</link>
-      <description>&lt;![CDATA[蔚来ES9正式上市，定位科技行政旗舰SUV]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/KSYxJzfPdVeIgGXz.html</guid>
+      <title>不到40元，深圳公司把大模型塞进毛绒玩具</title>
+      <link>https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html</link>
+      <description>&lt;![CDATA[不到40元，深圳公司把大模型塞进毛绒玩具]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html</guid>
       <category>Ai</category>
     </item>
   </channel>
