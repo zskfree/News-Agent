@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-15 10:57
+**最后更新时间**: 2026-06-16 01:43
+
+---
+
+## 🆕 最新更新 (2026-06-16 01:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [万丰奥威豪赌“飞天梦”：5亿甩卖现金牛，25亿加杠杆追风低空经济](https://www.tmtpost.com/8029207.html)
+**发布时间**: 2026-06-16 09:32
+
+#### [大厂AI，大战618](https://www.tmtpost.com/8029313.html)
+**发布时间**: 2026-06-16 09:24
+
+#### [支付宝的AI算盘：入口可以输，支付不能丢](https://www.tmtpost.com/8029278.html)
+**发布时间**: 2026-06-16 09:22
+
+#### [英伟达又在发债了，为什么它们永远无法取代美国国债](https://www.tmtpost.com/8029373.html)
+**发布时间**: 2026-06-16 09:22
+
+#### [Edge AI Daily 早报（6月16日）](https://www.tmtpost.com/8029252.html)
+**发布时间**: 2026-06-16 08:09
+
+#### [【钛晨报】事关重点行业节能降碳改造，国家发展改革委等部门最新部署；SpaceX通过IPO筹集了约857亿美元；伊朗：伊美谅解备忘录部分条款15日就开始执行](https://www.tmtpost.com/8029106.html)
+**发布时间**: 2026-06-16 07:20
+
+#### [With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?](https://www.tmtpost.com/8029155.html)
+**发布时间**: 2026-06-15 22:46
+
+#### [Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business](https://www.tmtpost.com/8029149.html)
+**发布时间**: 2026-06-15 22:30
+
+#### [受SpaceX和频谱出售预期提振，卫星股大涨，但窗口期已所剩无几](https://www.tmtpost.com/8029130.html)
+**发布时间**: 2026-06-15 21:53
+
+#### [伯灵顿百货势头正劲，这只股票仍值得关注](https://www.tmtpost.com/8029112.html)
+**发布时间**: 2026-06-15 21:31
+
+#### [SpaceX可能会颠覆电力股](https://www.tmtpost.com/8029074.html)
+**发布时间**: 2026-06-15 20:56
+
+#### [均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集](https://www.tmtpost.com/8029068.html)
+**发布时间**: 2026-06-15 20:55
+
+#### [IPO募资未用完，上市未满两年的拉普拉斯又抛22亿定增](https://www.tmtpost.com/8028941.html)
+**发布时间**: 2026-06-15 19:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等](https://sspai.com/post/111080)
+**发布时间**: 2026-06-16 08:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”](https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 22:31
+
+#### [腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会](https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 22:26
+
+#### [Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin](https://www.infoq.cn/article/UkvVZm81ZerzhmEsTgHD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-15 20:00
 
 ---
 

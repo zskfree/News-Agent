@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-15 10:57
+**最后更新时间**: 2026-06-16 01:43
+
+---
+
+## 🆕 最新更新 (2026-06-16 01:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The biggest risk to your retirement isn’t a market crash — it’s a crisis you probably haven’t planned for](https://www.marketwatch.com/story/the-biggest-risk-to-your-retirement-isnt-a-market-crash-its-a-crisis-you-probably-havent-planned-for-eff75a99?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 00:34
+
+#### [How to work in retirement without seeing your Social Security checks slashed](https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 00:11
+
+#### [Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.](https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 23:07
+
+#### [Roku’s sale to Fox for $22 billion raises a big question](https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 23:03
+
+#### [Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out](https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 22:31
+
+#### [Options traders are bracing for a very busy week, with June ‘triple witching’ and launch of SpaceX contracts on deck](https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 22:24
+
+#### [Why Western Digital’s stock was the S&P 500’s biggest gainer on Monday](https://www.marketwatch.com/story/why-western-digitals-stock-was-the-s-p-500s-biggest-gainer-on-monday-2aebd3e9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 21:57
+
+#### [I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?](https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories)
+**发布时间**: 2026-06-15 21:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gavin Newsom says Trump has ordered justice department to investigate him](https://www.ft.com/content/3ebc2a6f-ed8d-4848-880c-d04c5069ee5b)
+**发布时间**: 2026-06-15 21:47
+
+#### [ConocoPhillips set to sign deal with Syria to revive gas production](https://www.ft.com/content/d63c5138-bf81-4c7d-b39a-434499d09c8f)
+**发布时间**: 2026-06-15 21:09
+
+#### [Trump administration considers $300bn fund for Iran if deal is upheld](https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de)
+**发布时间**: 2026-06-15 21:03
+
+#### [SpaceX shares gain for second day after blockbuster debut](https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281)
+**发布时间**: 2026-06-15 20:39
+
+#### [Stocks surge as US-Iran deal ignites global rally](https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb)
+**发布时间**: 2026-06-15 20:22
+
+#### [Netanyahu faces domestic backlash over US-Iran agreement](https://www.ft.com/content/9a6886c8-2ab3-4341-a5e6-a6cfc1be7386)
+**发布时间**: 2026-06-15 19:39
+
+#### [Average US petrol price falls below $4 on plan to reopen Strait of Hormuz](https://www.ft.com/content/ff17e2a2-7744-4e19-9e1d-23bc5892191c)
+**发布时间**: 2026-06-15 19:30
+
+#### [How the US-Iran deal came together](https://www.ft.com/content/adb68e67-3d04-4a60-af30-dd9b1faee62b)
+**发布时间**: 2026-06-15 19:16
+
+#### [Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021](https://www.ft.com/content/c0e7cc58-e309-4f47-b466-d577c06cbeec)
+**发布时间**: 2026-06-15 18:22
+
+#### [China summons Walmart chain Sam’s Club over food safety issues](https://www.ft.com/content/d6906175-52f0-4d37-8ee4-748637fa510b)
+**发布时间**: 2026-06-15 06:48
 
 ---
 
