@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Jun 2026 10:08:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 10:10:57 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 00:18:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:20:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」</title>
-      <link>https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html</link>
-      <description>&lt;![CDATA[独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html</guid>
+      <title>Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0</title>
+      <link>https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</link>
+      <description>&lt;![CDATA[Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>三连发！阿里发布首个具身大模型Qwen-Robot系列</title>
-      <link>https://www.qbitai.com/2026/06/435873.html</link>
-      <description>&lt;![CDATA[三连发！阿里发布首个具身大模型Qwen-Robot系列]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 04:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/435873.html</guid>
+      <title>Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了</title>
-      <link>https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html</link>
-      <description>&lt;![CDATA[国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html</guid>
+      <title>一个模型控制手脚腰身！机器人终于学会全身协同干精细活了</title>
+      <link>https://www.qbitai.com/2026/06/436073.html</link>
+      <description>&lt;![CDATA[一个模型控制手脚腰身！机器人终于学会全身协同干精细活了]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436073.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026 | 电子科大：树状自我博弈 TSP，面向安全代码大模型的细粒度自纠错框架</title>
-      <link>https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html</link>
-      <description>&lt;![CDATA[ICML 2026 | 电子科大：树状自我博弈 TSP，面向安全代码大模型的细粒度自纠错框架]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/tSpPDg8Aa1pKwIHl.html</guid>
+      <title>Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
+      <description>&lt;![CDATA[Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 22:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026：从输入输出样例中自动生成程序——强化学习为大模型Programming-By-Example任务提供推理过程监督</title>
-      <link>https://www.leiphone.com/category/private/z1LrlGd5bucicch2.html</link>
-      <description>&lt;![CDATA[ICML 2026：从输入输出样例中自动生成程序——强化学习为大模型Programming-By-Example任务提供推理过程监督]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/z1LrlGd5bucicch2.html</guid>
+      <title>HPE AI Factory With NVIDIA Expands for the Era of Agents</title>
+      <link>https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</link>
+      <description>&lt;![CDATA[HPE AI Factory With NVIDIA Expands for the Era of Agents]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解</title>
-      <link>https://www.leiphone.com/category/private/6M1mEqgs9TxaZJaO.html</link>
-      <description>&lt;![CDATA[ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/6M1mEqgs9TxaZJaO.html</guid>
+      <title>Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/</link>
+      <description>&lt;![CDATA[Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 22:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头</title>
-      <link>https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html</link>
-      <description>&lt;![CDATA[马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html</guid>
+      <title>犀牛鸟前沿 | 犀牛鸟精英人才 ICML 2026 入选论文解读</title>
+      <link>https://www.leiphone.com/category/private/LoF1cZT5Q848Zliu.html</link>
+      <description>&lt;![CDATA[犀牛鸟前沿 | 犀牛鸟精英人才 ICML 2026 入选论文解读]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/LoF1cZT5Q848Zliu.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>江湖已变，旧梦未改，吴甘沙的自动驾驶十年</title>
-      <link>https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html</link>
-      <description>&lt;![CDATA[江湖已变，旧梦未改，吴甘沙的自动驾驶十年]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html</guid>
+      <title>港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收</title>
+      <link>https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html</link>
+      <description>&lt;![CDATA[港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场</title>
-      <link>https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html</link>
-      <description>&lt;![CDATA[手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html</guid>
+      <title>From pixels to planning: Earth AI for nature restoration</title>
+      <link>https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</link>
+      <description>&lt;![CDATA[From pixels to planning: Earth AI for nature restoration]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不到40元，深圳公司把大模型塞进毛绒玩具</title>
-      <link>https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html</link>
-      <description>&lt;![CDATA[不到40元，深圳公司把大模型塞进毛绒玩具]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html</guid>
+      <title>Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone</title>
+      <link>https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</link>
+      <description>&lt;![CDATA[Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 22:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Jun 2026 10:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 10:10:54 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 00:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:20:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>端侧智能的全球化落地：云端的&quot;强&quot;，解不了端侧的&quot;痛&quot;｜「Talk To The World」@Singapore AI Week</title>
-      <link>https://www.tmtpost.com/8029636.html</link>
-      <description>&lt;![CDATA[端侧智能的全球化落地：云端的&quot;强&quot;，解不了端侧的&quot;痛&quot;｜「Talk To The World」@Singapore AI Week]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029636.html</guid>
+      <title>关于「DeepSeek 完成超 500 亿元融资」的 7 个关键问题</title>
+      <link>https://www.tmtpost.com/8030099.html</link>
+      <description>&lt;![CDATA[关于「DeepSeek 完成超 500 亿元融资」的 7 个关键问题]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8030099.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流</title>
-      <link>https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>戳破Token泡沫，李彦宏为AI造“新尺”</title>
+      <link>https://www.tmtpost.com/8029553.html</link>
+      <description>&lt;![CDATA[戳破Token泡沫，李彦宏为AI造“新尺”]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029553.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海</title>
-      <link>https://www.infoq.cn/article/5Ke1HD7F6R7aYr4jERyk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5Ke1HD7F6R7aYr4jERyk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>烧不动了，Meta呼吁别再打token消耗战</title>
+      <link>https://www.tmtpost.com/8029988.html</link>
+      <description>&lt;![CDATA[烧不动了，Meta呼吁别再打token消耗战]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029988.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技发布新一代 Amazon OpenSearch Serverless</title>
-      <link>https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布新一代 Amazon OpenSearch Serverless]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微软开源用于数据库内持久执行的 PostgreSQL 扩展</title>
+      <link>https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软开源用于数据库内持久执行的 PostgreSQL 扩展]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理</title>
-      <link>https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重</title>
+      <link>https://www.infoq.cn/article/ptleqt2rgIC96zXp5Tzu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ptleqt2rgIC96zXp5Tzu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小鹏、蔚来卷算力，理想换架构</title>
-      <link>https://www.tmtpost.com/8029549.html</link>
-      <description>&lt;![CDATA[小鹏、蔚来卷算力，理想换架构]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029549.html</guid>
+      <title>独家采访 Home Assistant 创始人：离全面本土化还有多远</title>
+      <link>https://sspai.com/post/110086</link>
+      <description>&lt;![CDATA[独家采访 Home Assistant 创始人：离全面本土化还有多远]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110086</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超20亿B轮融资落地，硅基流动的“Token工厂”</title>
-      <link>https://www.tmtpost.com/8029944.html</link>
-      <description>&lt;![CDATA[超20亿B轮融资落地，硅基流动的“Token工厂”]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029944.html</guid>
+      <title>AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？</title>
+      <link>https://www.infoq.cn/article/5YWzfAHFxQhOWtkJmWgG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5YWzfAHFxQhOWtkJmWgG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>宇树科技补短板：合作英伟达，花20亿搞研发</title>
-      <link>https://www.tmtpost.com/8029722.html</link>
-      <description>&lt;![CDATA[宇树科技补短板：合作英伟达，花20亿搞研发]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029722.html</guid>
+      <title>超20亿元B轮融资落地，硅基流动进入产业资本密集下注阶段</title>
+      <link>https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超20亿元B轮融资落地，硅基流动进入产业资本密集下注阶段]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达又在发债了，为什么它们永远无法取代美国国债</title>
-      <link>https://www.tmtpost.com/8029373.html</link>
-      <description>&lt;![CDATA[英伟达又在发债了，为什么它们永远无法取代美国国债]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029373.html</guid>
+      <title>中国商业航天少了马斯克的“疯劲”</title>
+      <link>https://www.tmtpost.com/8028967.html</link>
+      <description>&lt;![CDATA[中国商业航天少了马斯克的“疯劲”]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8028967.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿</title>
-      <link>https://www.tmtpost.com/8029350.html</link>
-      <description>&lt;![CDATA[“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029350.html</guid>
+      <title>前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考</title>
+      <link>https://www.tmtpost.com/8029820.html</link>
+      <description>&lt;![CDATA[前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029820.html</guid>
       <category>Technology</category>
     </item>
   </channel>

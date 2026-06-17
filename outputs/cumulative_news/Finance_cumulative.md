@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-16 10:10
+**最后更新时间**: 2026-06-17 00:20
+
+---
+
+## 🆕 最新更新 (2026-06-17 00:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel takes a major step toward turning around a business that’s bleeding cash](https://www.marketwatch.com/story/intel-takes-a-major-step-toward-turning-around-a-business-thats-bleeding-cash-ab68cc94?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 22:49
+
+#### [Chicken tenders are taking over the world, and KFC is rushing to keep up](https://www.marketwatch.com/story/chicken-tenders-are-taking-over-the-world-and-kfc-is-rushing-to-keep-up-3b637c99?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:53
+
+#### [Wall Street can’t stop talking about ‘MANGOS’ stocks as the ‘Magnificent Seven’ becomes passé](https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:47
+
+#### [‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?](https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:45
+
+#### [SpaceX trading hits ‘bonkers’ levels as new ETFs see a massive cash influx](https://www.marketwatch.com/story/spacex-trading-hits-bonkers-levels-as-a-wave-of-new-etfs-see-a-massive-cash-influx-8f5364b0?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:20
+
+#### [Tesla booted from the ‘Magnificent Seven’ by a top fund manager. Here is the tech giant he’s crowned.](https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:19
+
+#### [The one-page pledge that forces your financial adviser to put you first](https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:17
+
+#### [A woman bought coasters at my garage sale for $2 — and emailed me that she’s reselling them for $29. Was I ripped off?](https://www.marketwatch.com/story/a-woman-bought-coasters-at-my-garage-sale-for-2-and-is-now-reselling-them-for-29-have-i-been-bamboozled-76532d73?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:15
+
+#### [This little-known AI stock has beaten Micron and Arm this year, and now it’s extending its lead](https://www.marketwatch.com/story/this-little-known-ai-stock-has-beaten-micron-and-arm-this-year-and-now-its-extending-its-lead-7ed7b273?mod=mw_rss_topstories)
+**发布时间**: 2026-06-16 21:12
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ex-Citi executive says bank sacked her after raising Trump concerns](https://www.ft.com/content/b780e03d-02b7-452f-944c-a71b8f237c7e)
+**发布时间**: 2026-06-16 22:47
+
+#### [Russian warship fires warning shots towards yacht in English Channel](https://www.ft.com/content/ddbc8071-3d83-4c44-8ab4-13ac39e46636)
+**发布时间**: 2026-06-16 22:29
+
+#### [SpaceX leapfrogs Amazon to become world’s fifth-most valuable company](https://www.ft.com/content/17153f13-b0c8-4331-8f97-32a19a5e966e)
+**发布时间**: 2026-06-16 20:26
+
+#### [Oil sinks below $80 as traders bet Strait of Hormuz flows will return](https://www.ft.com/content/45340e55-aa6a-4302-a606-a869f5cb6189)
+**发布时间**: 2026-06-16 19:58
+
+#### [Russian saboteurs hired third operative for UK attacks](https://www.ft.com/content/8fa39826-9537-4697-97d1-9d08f68639cb)
+**发布时间**: 2026-06-16 17:31
+
+#### [US and Europe discuss access to AI models after Anthropic dispute](https://www.ft.com/content/5962a34a-9b0a-4aac-bea7-60419f2c28c9)
+**发布时间**: 2026-06-16 17:23
+
+#### [Iran’s government thinks it has won the war](https://www.ft.com/content/6f4f1dc3-14aa-4189-9408-178d8d64f97b)
+**发布时间**: 2026-06-16 11:20
+
+#### [This time, Trump and Netanyahu have really fallen out](https://www.ft.com/content/e14a6abe-f6fa-43d0-bbef-22139953e7b9)
+**发布时间**: 2026-06-16 10:47
+
+#### [Central banks repatriate gold as global insecurity rises](https://www.ft.com/content/c7164737-2988-4f1c-aba4-244bda4844c7)
+**发布时间**: 2026-06-16 06:00
 
 ---
 

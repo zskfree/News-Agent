@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-16 10:10
+**最后更新时间**: 2026-06-17 00:20
+
+---
+
+## 🆕 最新更新 (2026-06-17 00:20)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（6月17日）](https://www.tmtpost.com/8030606.html)
+**发布时间**: 2026-06-17 07:34
+
+#### [【钛晨报】国家发改委召开民营企业座谈会，围绕系统推进“六张网”建设听取意见建议；SpaceX将通过合并收购美国AI软件公司Anysphere；DeepSeek首轮融资或落地，梁文锋个人出资约200亿元](https://www.tmtpost.com/8030402.html)
+**发布时间**: 2026-06-17 07:20
+
+#### [Despite “Team China” Absence From the World Cup, Chinese Firms Are Omnipresent](https://www.tmtpost.com/8030551.html)
+**发布时间**: 2026-06-17 00:46
+
+#### [Seven Questions About DeepSeek's Over 50 Billion Yuan Financing Round](https://www.tmtpost.com/8030540.html)
+**发布时间**: 2026-06-17 00:26
+
+#### [Transaction Volume on Day 1 of Thai Fruit Festival in Beijing Surpasses 100 Million Yuan](https://www.tmtpost.com/8030533.html)
+**发布时间**: 2026-06-17 00:12
+
+#### [上线首月吸引10万开发者，AnySearch 用专业数据重构AI搜索](https://www.tmtpost.com/8030083.html)
+**发布时间**: 2026-06-16 19:33
+
+#### [“2026泰国水果节”首日交易额破亿，榴莲降价背后的流通变局](https://www.tmtpost.com/8030245.html)
+**发布时间**: 2026-06-16 19:22
+
+#### [中国合伙人，集体拯救洋品牌](https://www.tmtpost.com/8030044.html)
+**发布时间**: 2026-06-16 18:39
+
+#### [国产大模型的出路在哪里？](https://www.tmtpost.com/8029887.html)
+**发布时间**: 2026-06-16 18:39
+
+#### [一把中国土，卡死日本两大巨头](https://www.tmtpost.com/8029622.html)
+**发布时间**: 2026-06-16 18:38
+
+#### [中国商业航天少了马斯克的“疯劲”](https://www.tmtpost.com/8028967.html)
+**发布时间**: 2026-06-16 18:37
+
+#### [戳破Token泡沫，李彦宏为AI造“新尺”](https://www.tmtpost.com/8029553.html)
+**发布时间**: 2026-06-16 18:35
+
+#### [SpaceX上市、马斯克成万亿富豪，他的钱到底要往哪儿花？](https://www.tmtpost.com/8030065.html)
+**发布时间**: 2026-06-16 18:20
+
+#### [烧不动了，Meta呼吁别再打token消耗战](https://www.tmtpost.com/8029988.html)
+**发布时间**: 2026-06-16 18:19
+
+#### [抢先实测AI支付宝：22年最狠瘦身，跑腿管钱两手抓](https://www.tmtpost.com/8029992.html)
+**发布时间**: 2026-06-16 18:19
+
+#### [关于「DeepSeek 完成超 500 亿元融资」的 7 个关键问题](https://www.tmtpost.com/8030099.html)
+**发布时间**: 2026-06-16 18:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软开源用于数据库内持久执行的 PostgreSQL 扩展](https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 19:00
+
+#### [DeepSeek 融资交易曝光：腾讯、宁德时代等被锁5年，且没投票权，梁文锋绝对控制](https://www.infoq.cn/article/IRLrMM9Rifv5Dmqr2fYR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-16 18:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性](https://sspai.com/post/111030)
+**发布时间**: 2026-06-16 17:30
 
 ---
 
