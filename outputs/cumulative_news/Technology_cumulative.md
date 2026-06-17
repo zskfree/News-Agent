@@ -1,7 +1,133 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-17 00:20
+**最后更新时间**: 2026-06-17 09:53
+
+---
+
+## 🆕 最新更新 (2026-06-17 09:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中科闻歌启动全球发售，交出了一份“Palantir式”中国答卷](https://www.tmtpost.com/8031530.html)
+**发布时间**: 2026-06-17 17:32
+
+#### [鸿蒙千万开发者的新考题，华为“蒸馏”自己求解](https://www.tmtpost.com/8031665.html)
+**发布时间**: 2026-06-17 17:26
+
+#### [AI“改装”支付宝](https://www.tmtpost.com/8031599.html)
+**发布时间**: 2026-06-17 17:22
+
+#### [光明乳业的黑天鹅，还不能死](https://www.tmtpost.com/8031609.html)
+**发布时间**: 2026-06-17 16:59
+
+#### [美国的美妆行业开始涌入一元店](https://www.tmtpost.com/8031288.html)
+**发布时间**: 2026-06-17 16:57
+
+#### [俞浩：“不循常规”的清华极客](https://www.tmtpost.com/8030897.html)
+**发布时间**: 2026-06-17 16:57
+
+#### [影石创新迎大考：400亿解禁洪峰，持股员工的“纸面富贵”能否守住？](https://www.tmtpost.com/8030970.html)
+**发布时间**: 2026-06-17 16:56
+
+#### [戳破假象：家用机器人至少还要等10年](https://www.tmtpost.com/8031282.html)
+**发布时间**: 2026-06-17 16:56
+
+#### [高凯技术：股权代持披露前后矛盾，资金充裕仍规划2.5亿补流后仓促删减｜IPO观察](https://www.tmtpost.com/8031329.html)
+**发布时间**: 2026-06-17 16:46
+
+#### [富士智能：低研发高毛利模式遭问询，债务承压、“存贷双高”却仍删减补流项目｜IPO观察](https://www.tmtpost.com/8031307.html)
+**发布时间**: 2026-06-17 16:44
+
+#### [5月AI剧/漫剧：新剧数二连跌，3D 漫榜单占比大幅跃升](https://www.tmtpost.com/8031436.html)
+**发布时间**: 2026-06-17 16:42
+
+#### [百胜卖掉必胜客，全球卖，中国买](https://www.tmtpost.com/8031333.html)
+**发布时间**: 2026-06-17 16:42
+
+#### [68%“专利”失效，头部美妆正抢滩四大技术高地](https://www.tmtpost.com/8031653.html)
+**发布时间**: 2026-06-17 16:38
+
+#### [AI改变的不是效率，而是饭碗](https://www.tmtpost.com/8031363.html)
+**发布时间**: 2026-06-17 16:38
+
+#### [品控失守背后：山姆狂飙扩张的商业逻辑与战略伏笔](https://www.tmtpost.com/8031628.html)
+**发布时间**: 2026-06-17 16:37
+
+#### [大疆狙击影石](https://www.tmtpost.com/8031611.html)
+**发布时间**: 2026-06-17 16:37
+
+#### [百亿社保科创基金落子陕西，长期资本“国家队”深入硬科技腹地](https://www.tmtpost.com/8031569.html)
+**发布时间**: 2026-06-17 16:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2026美图影像节开幕，RoboNeo打造“日更级AI短剧团队”](https://www.infoq.cn/article/R7xRO4KMhl8mUxHXyKDC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 17:29
+
+#### [Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主](https://www.infoq.cn/article/amwREaeNbTGi3842HS27?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 17:17
+
+#### [昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力](https://www.infoq.cn/article/OrwQcvjJ0YiRdiAorZcS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 17:13
+
+#### [Pinecone推出OneLake集成方案，让AI智能体直连企业数据](https://www.infoq.cn/article/d0xrWWKy8G2PiZ0Md0pm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 17:00
+
+#### [AI 企业 Day 0 出海，如何少走技术弯路？](https://www.infoq.cn/article/xwaUhLdpgsKrGVkVMhSO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 16:41
+
+#### [谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆](https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 15:28
+
+#### [Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了](https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 15:23
+
+#### [Fable 5被禁3天后Anthropic认怂！连夜急派员工赴华盛顿谈判：GPT 5.5有同款漏洞](https://www.infoq.cn/article/mBHRVxO514Uki3Eyikxl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 15:00
+
+#### [同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反](https://www.infoq.cn/article/hfTxUTc6pj2cHm1Hk5DD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 14:30
+
+#### [Lyft借助地图智能技术缓解封闭式小区接驾难题](https://www.infoq.cn/article/mo0XQK6h2xAcVEqafKVN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 11:53
+
+#### [全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单](https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 11:12
+
+#### [2026年中国智能体工程化人才与组织发展报告](https://www.infoq.cn/minibook/Rhz3a9NjqbRYCWNQJerz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:46
+
+#### [三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统](https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:37
+
+#### [场景泛化能力反超主流VLA模型？大晓机器人开源新世界模型，以极小代价直达家庭](https://www.infoq.cn/article/jpXp2TDdHMgvwkcA3sf1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:22
+
+#### [人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速](https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:12
+
+#### [全新世界模型悟界·Physis将开源，22岁北大本科生担任负责人｜智源大会](https://www.infoq.cn/article/DSWOGK8XvrirsxTIITdY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:09
+
+#### [AI Native人机协同重构内容安全新范式｜AICon上海](https://www.infoq.cn/article/HYuYyycPfMcAatwxNWwy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 10:00
+
+#### [利用“项目即服务”构建和扩展平台](https://www.infoq.cn/article/u7v5y362ZR206BBUrdZ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 09:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
+**发布时间**: 2026-06-17 16:30
+
+#### [具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
+**发布时间**: 2026-06-17 15:00
+
+#### [在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
+**发布时间**: 2026-06-17 11:08
+
+#### [派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
+**发布时间**: 2026-06-17 08:20
 
 ---
 

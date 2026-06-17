@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jun 2026 00:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 00:20:39 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 09:51:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:53:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0</title>
-      <link>https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</link>
-      <description>&lt;![CDATA[Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/</guid>
+      <title>DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现</title>
+      <link>https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html</link>
+      <description>&lt;![CDATA[DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 08:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/</link>
-      <description>&lt;![CDATA[Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/</guid>
+      <title>刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！</title>
+      <link>https://www.qbitai.com/2026/06/436085.html</link>
+      <description>&lt;![CDATA[刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 02:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436085.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一个模型控制手脚腰身！机器人终于学会全身协同干精细活了</title>
-      <link>https://www.qbitai.com/2026/06/436073.html</link>
-      <description>&lt;![CDATA[一个模型控制手脚腰身！机器人终于学会全身协同干精细活了]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436073.html</guid>
+      <title>GLM-5.2: Built for Long-Horizon Tasks</title>
+      <link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
+      <description>&lt;![CDATA[GLM-5.2: Built for Long-Horizon Tasks]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
-      <description>&lt;![CDATA[Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 22:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
+      <title>头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投</title>
+      <link>https://www.qbitai.com/2026/06/436148.html</link>
+      <description>&lt;![CDATA[头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 06:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436148.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>HPE AI Factory With NVIDIA Expands for the Era of Agents</title>
-      <link>https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</link>
-      <description>&lt;![CDATA[HPE AI Factory With NVIDIA Expands for the Era of Agents]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</guid>
+      <title>探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进</title>
+      <link>https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html</link>
+      <description>&lt;![CDATA[探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/</link>
-      <description>&lt;![CDATA[Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 22:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/</guid>
+      <title>许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建</title>
+      <link>https://www.qbitai.com/2026/06/436077.html</link>
+      <description>&lt;![CDATA[许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 02:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436077.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>犀牛鸟前沿 | 犀牛鸟精英人才 ICML 2026 入选论文解读</title>
-      <link>https://www.leiphone.com/category/private/LoF1cZT5Q848Zliu.html</link>
-      <description>&lt;![CDATA[犀牛鸟前沿 | 犀牛鸟精英人才 ICML 2026 入选论文解读]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/LoF1cZT5Q848Zliu.html</guid>
+      <title>刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式</title>
+      <link>https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html</link>
+      <description>&lt;![CDATA[刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收</title>
-      <link>https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html</link>
-      <description>&lt;![CDATA[港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html</guid>
+      <title>英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连</title>
+      <link>https://www.qbitai.com/2026/06/436082.html</link>
+      <description>&lt;![CDATA[英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 02:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436082.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>From pixels to planning: Earth AI for nature restoration</title>
-      <link>https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</link>
-      <description>&lt;![CDATA[From pixels to planning: Earth AI for nature restoration]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/</guid>
+      <title>Grok 4.3现已在Amazon Bedrock上正式可用</title>
+      <link>https://www.qbitai.com/2026/06/436134.html</link>
+      <description>&lt;![CDATA[Grok 4.3现已在Amazon Bedrock上正式可用]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 05:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436134.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone</title>
-      <link>https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</link>
-      <description>&lt;![CDATA[Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 22:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/coherent-texas-ai-optical/</guid>
+      <title>天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团</title>
+      <link>https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html</link>
+      <description>&lt;![CDATA[天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html</guid>
       <category>Ai</category>
     </item>
   </channel>

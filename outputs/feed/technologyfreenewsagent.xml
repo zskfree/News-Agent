@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jun 2026 00:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 00:20:28 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 09:53:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:53:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>关于「DeepSeek 完成超 500 亿元融资」的 7 个关键问题</title>
-      <link>https://www.tmtpost.com/8030099.html</link>
-      <description>&lt;![CDATA[关于「DeepSeek 完成超 500 亿元融资」的 7 个关键问题]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8030099.html</guid>
+      <title>全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单</title>
+      <link>https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>戳破Token泡沫，李彦宏为AI造“新尺”</title>
-      <link>https://www.tmtpost.com/8029553.html</link>
-      <description>&lt;![CDATA[戳破Token泡沫，李彦宏为AI造“新尺”]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029553.html</guid>
+      <title>Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了</title>
+      <link>https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>烧不动了，Meta呼吁别再打token消耗战</title>
-      <link>https://www.tmtpost.com/8029988.html</link>
-      <description>&lt;![CDATA[烧不动了，Meta呼吁别再打token消耗战]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029988.html</guid>
+      <title>人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速</title>
+      <link>https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软开源用于数据库内持久执行的 PostgreSQL 扩展</title>
-      <link>https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软开源用于数据库内持久执行的 PostgreSQL 扩展]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iC6rdCT79aKOaG5mp0Tx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主</title>
+      <link>https://www.infoq.cn/article/amwREaeNbTGi3842HS27?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/amwREaeNbTGi3842HS27?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重</title>
-      <link>https://www.infoq.cn/article/ptleqt2rgIC96zXp5Tzu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Pinterest 利用内容指纹技术，在数百万个域名中实现 URL 去重]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ptleqt2rgIC96zXp5Tzu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆</title>
+      <link>https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家采访 Home Assistant 创始人：离全面本土化还有多远</title>
-      <link>https://sspai.com/post/110086</link>
-      <description>&lt;![CDATA[独家采访 Home Assistant 创始人：离全面本土化还有多远]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110086</guid>
+      <title>场景泛化能力反超主流VLA模型？大晓机器人开源新世界模型，以极小代价直达家庭</title>
+      <link>https://www.infoq.cn/article/jpXp2TDdHMgvwkcA3sf1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[场景泛化能力反超主流VLA模型？大晓机器人开源新世界模型，以极小代价直达家庭]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jpXp2TDdHMgvwkcA3sf1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？</title>
-      <link>https://www.infoq.cn/article/5YWzfAHFxQhOWtkJmWgG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5YWzfAHFxQhOWtkJmWgG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全新世界模型悟界·Physis将开源，22岁北大本科生担任负责人｜智源大会</title>
+      <link>https://www.infoq.cn/article/DSWOGK8XvrirsxTIITdY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全新世界模型悟界·Physis将开源，22岁北大本科生担任负责人｜智源大会]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DSWOGK8XvrirsxTIITdY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超20亿元B轮融资落地，硅基流动进入产业资本密集下注阶段</title>
-      <link>https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超20亿元B轮融资落地，硅基流动进入产业资本密集下注阶段]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6plxDB37CLvi5xWT0Abb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力</title>
+      <link>https://www.infoq.cn/article/OrwQcvjJ0YiRdiAorZcS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OrwQcvjJ0YiRdiAorZcS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国商业航天少了马斯克的“疯劲”</title>
-      <link>https://www.tmtpost.com/8028967.html</link>
-      <description>&lt;![CDATA[中国商业航天少了马斯克的“疯劲”]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8028967.html</guid>
+      <title>Pinecone推出OneLake集成方案，让AI智能体直连企业数据</title>
+      <link>https://www.infoq.cn/article/d0xrWWKy8G2PiZ0Md0pm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinecone推出OneLake集成方案，让AI智能体直连企业数据]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d0xrWWKy8G2PiZ0Md0pm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考</title>
-      <link>https://www.tmtpost.com/8029820.html</link>
-      <description>&lt;![CDATA[前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029820.html</guid>
+      <title>Seven Questions About DeepSeek's Over 50 Billion Yuan Financing Round</title>
+      <link>https://www.tmtpost.com/8030540.html</link>
+      <description>&lt;![CDATA[Seven Questions About DeepSeek's Over 50 Billion Yuan Financing Round]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 00:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8030540.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "854c08266dcd96b707d4c5cd9dc81cf57fa0c65238e8f567ff99751370f2165f": {
-        "title": "世界模型的门槛，谷歌可能迈过去了",
-        "link": "https://www.tmtpost.com/7991943.html",
-        "published_date": "Mon, 18 May 2026 15:12:00 GMT",
-        "first_seen": "2026-05-18T08:47:28.789752"
-      },
-      "11acb7825c06b917e56c2f39eac84499fbaaa6b8236aa8f77b7c774a8075fe24": {
-        "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
-        "link": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 18 May 2026 16:07:00 GMT",
-        "first_seen": "2026-05-18T08:47:28.789759"
-      },
-      "fe02824c9b0a44953c841486366f81d132d41e9f60e23b93e0dcb04bb4389b7c": {
-        "title": "一个二十多年老兵的忧心：那条从Debug开始走向资深工程师的路，正在崩塌",
-        "link": "https://www.infoq.cn/article/YAp5zTKldz9fYuYkAuls?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 18 May 2026 10:48:00 GMT",
-        "first_seen": "2026-05-18T08:47:28.789761"
-      },
-      "63057b06131d7349006196be325484775608f97b2076dd6f176d37dcff9b94f0": {
-        "title": "物理AI火了，我的一些新思考",
-        "link": "https://www.tmtpost.com/7991655.html",
-        "published_date": "Mon, 18 May 2026 12:17:00 GMT",
-        "first_seen": "2026-05-18T08:47:28.789763"
-      },
-      "ef6dcbfd857d25f149e18714dbe248571be08fe0a9f09af064b046cd5e5a68ae": {
-        "title": "从第一性原理出发：那些构建 Snowflake 的理念，以及下一步走向 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/YIHbbObGsImxBNCpW1Ut?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 18 May 2026 14:24:00 GMT",
-        "first_seen": "2026-05-18T08:47:28.789764"
-      },
       "23e17d5c74f0c32cdcbac56b0baf030e119f78605cc2e912e8e8f0ac61a8c917": {
         "title": "腾讯为什么推不出豆包",
         "link": "https://www.tmtpost.com/7992804.html",
@@ -3211,39 +3181,69 @@
         "link": "https://www.tmtpost.com/8029820.html",
         "published_date": "Tue, 16 Jun 2026 17:45:00 GMT",
         "first_seen": "2026-06-17T00:20:28.868370"
+      },
+      "b18775649a4e041f0423e2011ed27f812f65b1461e006a5b32c9f23ceab926f7": {
+        "title": "全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单",
+        "link": "https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 11:12:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774127"
+      },
+      "11d48b9ea65870830ce60078fa9d041c332a07088dfa1998dd04912967e0b138": {
+        "title": "Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了",
+        "link": "https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 15:23:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774139"
+      },
+      "21dddaabf53e4be7f3e789a190f47dee4f27af6141636c9949b25307c1c2bc22": {
+        "title": "人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速",
+        "link": "https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 10:12:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774142"
+      },
+      "710774c73c17c89bee53a9071b947af42ea2a5d243ec7477a7d107b4fce84aea": {
+        "title": "Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主",
+        "link": "https://www.infoq.cn/article/amwREaeNbTGi3842HS27?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 17:17:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774145"
+      },
+      "2ddf1805d552338d066421bb253ac7efeec51aa22483a65cf0b1b1e162ff3568": {
+        "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "link": "https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 15:28:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774148"
+      },
+      "e3a39d088010c3493a4c790bd9ae1f7dd642b79c2836477a8a58f1e3722539ce": {
+        "title": "场景泛化能力反超主流VLA模型？大晓机器人开源新世界模型，以极小代价直达家庭",
+        "link": "https://www.infoq.cn/article/jpXp2TDdHMgvwkcA3sf1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 10:22:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774150"
+      },
+      "9346ace224486d6f241e582c15438aef74ee8d25599624f802132bd762f490fd": {
+        "title": "全新世界模型悟界·Physis将开源，22岁北大本科生担任负责人｜智源大会",
+        "link": "https://www.infoq.cn/article/DSWOGK8XvrirsxTIITdY?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 10:09:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774152"
+      },
+      "6040380a76de8beaf68220e00637a46da99f19f941e0f4ca91e10859104d8360": {
+        "title": "昆仑万维天工 3.1 来了：上线设计画布与多智能体工作流，强化复杂项目交付能力",
+        "link": "https://www.infoq.cn/article/OrwQcvjJ0YiRdiAorZcS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 17:13:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774154"
+      },
+      "9e5ec099b5c0c8ca832e7fd50dd6b4c0ef311b89aed20d4321333e03f7f74331": {
+        "title": "Pinecone推出OneLake集成方案，让AI智能体直连企业数据",
+        "link": "https://www.infoq.cn/article/d0xrWWKy8G2PiZ0Md0pm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 17:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774156"
+      },
+      "0a721053f2f4ab8c54fff64f63169f179a53ecbe6539212be5ae68b9042f0367": {
+        "title": "Seven Questions About DeepSeek's Over 50 Billion Yuan Financing Round",
+        "link": "https://www.tmtpost.com/8030540.html",
+        "published_date": "Wed, 17 Jun 2026 00:26:00 GMT",
+        "first_seen": "2026-06-17T09:53:48.774158"
       }
     },
     "Finance": {
-      "e19b7bbb9d003b1bb70b5abf1031837634c5a91bb3ac2fb06fbd442632808cd2": {
-        "title": "China warns of ‘severe’ global conditions as economy shows weakness",
-        "link": "https://www.ft.com/content/5b1dcd37-7567-4302-9f7a-424ec7e43ee0",
-        "published_date": "Mon, 18 May 2026 03:50:00 GMT",
-        "first_seen": "2026-05-18T08:47:01.858644"
-      },
-      "8cc6ace29be8426176c37ce72209ea0a054a81df7d09b1369d5e0e14f1227d3a": {
-        "title": "Bonds extend sell-off on inflation fears",
-        "link": "https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0",
-        "published_date": "Mon, 18 May 2026 08:29:00 GMT",
-        "first_seen": "2026-05-18T08:47:01.858652"
-      },
-      "e5d0efbaac3e900d49a544981b01697b96b1848e5c27465539eb4069920b075c": {
-        "title": "Germany goes from labour shortages to hiring freezes",
-        "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
-        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-18T08:47:01.858655"
-      },
-      "548bc1b58055a60719420da2848d99c42e6ee77fe2b6e9b4a32b9d3063d2a282": {
-        "title": "Donald Trump’s Iran war hits Americans with $40bn fuel bill",
-        "link": "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2",
-        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-18T08:47:01.858657"
-      },
-      "ca10e3cf4d9c45b470fbe5bb322569c74fd6c894272ba1cc1f05d39fa1f03cef": {
-        "title": "How China enables American domination",
-        "link": "https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7",
-        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-18T08:47:01.858659"
-      },
       "2139e7b20b19f77188fae2b8994ce8635635c94ea92e5a1f3461b171a2163c5e": {
         "title": "The US megadeal set to spark a fight over the cost of the AI boom",
         "link": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110",
@@ -6093,39 +6093,69 @@
         "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
         "published_date": "Tue, 16 Jun 2026 21:45:00 GMT",
         "first_seen": "2026-06-17T00:20:30.125701"
+      },
+      "820859b97291d93e56ae681c3be8e0922c5ac9501984fc481efc70af21282444": {
+        "title": "The moment of peak stagflation has passed. Here’s how some strategists recommend to trade it.",
+        "link": "https://www.marketwatch.com/story/the-moment-of-peak-stagflation-has-passed-heres-how-some-strategists-recommend-to-trade-it-37f3339e?mod=mw_rss_topstories",
+        "published_date": "Wed, 17 Jun 2026 09:21:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870448"
+      },
+      "d186956505761c7c0325388e89698e4e95bf39aab524e3797607cd199919879e": {
+        "title": "Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns",
+        "link": "https://www.ft.com/content/c2369546-6857-47fe-84bb-30f4290c9bb5",
+        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870456"
+      },
+      "2fcc075fe1a743a015526665853f11527586747b4324f6202306cd29515b039f": {
+        "title": "China’s tech champion tests limits of US chip controls",
+        "link": "https://www.ft.com/content/234c9aeb-33aa-469e-844d-f721e81296cf",
+        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870459"
+      },
+      "19e92f5d50a2b1d88ce5e481dff742af33f7311dce55f5cb99175d83d401bfd0": {
+        "title": "BMW issues a big profit warning it once again blames on China. The automaker is plotting a major strategy shift",
+        "link": "https://www.marketwatch.com/story/bmw-issues-a-big-profit-warning-it-once-again-blames-on-china-the-automaker-is-plotting-a-major-strategy-shift-d28e7428?mod=mw_rss_topstories",
+        "published_date": "Wed, 17 Jun 2026 08:11:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870461"
+      },
+      "6af694818057e84998edab27f485136a1b5365b161f715d883e1d2fe43c9abdd": {
+        "title": "Middle East peace deal could herald oil glut next year, IEA says",
+        "link": "https://www.ft.com/content/43a47462-3102-4f77-a2fe-d9cf1217ac2f",
+        "published_date": "Wed, 17 Jun 2026 08:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870464"
+      },
+      "4e7defa68eb081642c2fe45df69eeca71ec8bbc66e43ecdfda45678d25e40547": {
+        "title": "We have to manage the AI revolution",
+        "link": "https://www.ft.com/content/59024744-50bf-43f7-9d79-738deabc7a60",
+        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870466"
+      },
+      "e27f834d74cb1674dada4f502055ecf7b4bd4f396a9736e4301b2488802da497": {
+        "title": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
+        "link": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+        "published_date": "Wed, 17 Jun 2026 02:23:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870469"
+      },
+      "361bdd4ca65dab504a874bf0332b68508fdbbc84246c8ccb2a1ff0a963f55c75": {
+        "title": "The long way back from the Iran energy shock",
+        "link": "https://www.ft.com/content/b2294b72-94ce-4ea0-ba0e-53f4272fe894",
+        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870472"
+      },
+      "e7d0cf1960ae67ed5000ec808b6fc4e14f51de91df7cef81859390e3f4131e90": {
+        "title": "VW resorts to sealed bids to avoid conflicts in $10bn engines sale",
+        "link": "https://www.ft.com/content/915e37ce-1a6f-462c-9613-60ea9eb37c5c",
+        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870475"
+      },
+      "a6eb0890ddddd42a31b8c6213a5ad1f33e463e2dc68e1fbb0b56a39fe6c89ed4": {
+        "title": "America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.",
+        "link": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
+        "published_date": "Wed, 17 Jun 2026 01:03:00 GMT",
+        "first_seen": "2026-06-17T09:53:49.870477"
       }
     },
     "Ai": {
-      "15ec398c5dda2d78176aaea9c47d14d5e4f874103c0d09b2c7f0eb3408daf8e4": {
-        "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
-        "link": "https://www.qbitai.com/2026/05/419396.html",
-        "published_date": "Mon, 18 May 2026 06:57:00 GMT",
-        "first_seen": "2026-05-18T08:47:40.773229"
-      },
-      "3b8a2461a9e5473227773f6ea0fefe32f3a2ab87fce3dd541cb79533bcebf283": {
-        "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
-        "link": "https://www.qbitai.com/2026/05/419386.html",
-        "published_date": "Mon, 18 May 2026 06:52:00 GMT",
-        "first_seen": "2026-05-18T08:47:40.773236"
-      },
-      "4a69f57107056c1886739ab8f9e19c98635e34c39e200ceac20ff34da76cf9f4": {
-        "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
-        "link": "https://www.qbitai.com/2026/05/419373.html",
-        "published_date": "Mon, 18 May 2026 06:44:00 GMT",
-        "first_seen": "2026-05-18T08:47:40.773238"
-      },
-      "d2d4aedac45b9c43dab94f3eae01525538915622e2e1bf810c4799d7fe3e641e": {
-        "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
-        "link": "https://www.qbitai.com/2026/05/419272.html",
-        "published_date": "Mon, 18 May 2026 05:59:00 GMT",
-        "first_seen": "2026-05-18T08:47:40.773240"
-      },
-      "5ee4da99b62426488cea0525b80fc945607391e60a1ef775f26885d91d0fb9d3": {
-        "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
-        "link": "https://www.qbitai.com/2026/05/419256.html",
-        "published_date": "Mon, 18 May 2026 05:08:00 GMT",
-        "first_seen": "2026-05-18T08:47:40.773242"
-      },
       "7449e43b3e93794fa2efb71ab7ef6a1651de8c4fb461f1440711aaa4e19f7f5d": {
         "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
         "link": "https://www.qbitai.com/2026/05/419585.html",
@@ -8489,13 +8519,73 @@
         "link": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
         "published_date": "Tue, 16 Jun 2026 22:10:00 GMT",
         "first_seen": "2026-06-17T00:20:39.900592"
+      },
+      "acdf3f8c07f866f55c5d93bd8f9efe28aa0366ace89c5832be0c3ac424bce51b": {
+        "title": "DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现",
+        "link": "https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html",
+        "published_date": "Wed, 17 Jun 2026 08:28:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988207"
+      },
+      "f59bea33f34162d05cf89b3bd59b1833e2628adb2a3e910f8a2e7da15b898626": {
+        "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+        "link": "https://www.qbitai.com/2026/06/436085.html",
+        "published_date": "Wed, 17 Jun 2026 02:42:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988215"
+      },
+      "83ee1780afa6701781b26ae3545121e221cf5c5fb74809cfc4650616c1393e78": {
+        "title": "GLM-5.2: Built for Long-Horizon Tasks",
+        "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+        "published_date": "Wed, 17 Jun 2026 09:01:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988218"
+      },
+      "3b67e704bf93716a88ee9ab6d9477c448fe7e2c0102439992dc9404980bdcc91": {
+        "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+        "link": "https://www.qbitai.com/2026/06/436148.html",
+        "published_date": "Wed, 17 Jun 2026 06:22:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988221"
+      },
+      "9cab4bdbb79b4549436d2a5c5f49e35f19ae18ac3cd694aa829847182b9d396c": {
+        "title": "探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进",
+        "link": "https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html",
+        "published_date": "Wed, 17 Jun 2026 10:42:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988223"
+      },
+      "1ddbf3daf7d9625fd1a7e586c2fe08c820655229f34e935559ff50725e027b83": {
+        "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+        "link": "https://www.qbitai.com/2026/06/436077.html",
+        "published_date": "Wed, 17 Jun 2026 02:23:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988226"
+      },
+      "c755442839fac3d2bb3811f124a8ea2169f836fb6134f463bb675a88fd904d7e": {
+        "title": "刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式",
+        "link": "https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html",
+        "published_date": "Wed, 17 Jun 2026 14:30:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988228"
+      },
+      "c47d83fd63e5f34e73f9e0ebc3508158385bd131617629fcc5873a2760199513": {
+        "title": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
+        "link": "https://www.qbitai.com/2026/06/436082.html",
+        "published_date": "Wed, 17 Jun 2026 02:29:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988231"
+      },
+      "3b8f14eb4224f8346af7c9f95dd73f632d9c8df934a3f866eb49aafa8efc3956": {
+        "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
+        "link": "https://www.qbitai.com/2026/06/436134.html",
+        "published_date": "Wed, 17 Jun 2026 05:59:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988234"
+      },
+      "ea2db0d0dd6c719573301b0d8c9a64f401df97951735d7110aecdfa8700dc6b0": {
+        "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+        "link": "https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html",
+        "published_date": "Wed, 17 Jun 2026 12:18:00 GMT",
+        "first_seen": "2026-06-17T09:53:50.988237"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-17T00:20:28.868372",
-    "Finance": "2026-06-17T00:20:30.125703",
-    "Ai": "2026-06-17T00:20:39.900594"
+    "Technology": "2026-06-17T09:53:48.774161",
+    "Finance": "2026-06-17T09:53:49.870481",
+    "Ai": "2026-06-17T09:53:50.988240"
   }
 }

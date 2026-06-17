@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-17 00:20
+**最后更新时间**: 2026-06-17 09:53
+
+---
+
+## 🆕 最新更新 (2026-06-17 09:53)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The moment of peak stagflation has passed. Here’s how some strategists recommend to trade it.](https://www.marketwatch.com/story/the-moment-of-peak-stagflation-has-passed-heres-how-some-strategists-recommend-to-trade-it-37f3339e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 09:21
+
+#### [My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?](https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 09:15
+
+#### [BMW issues a big profit warning it once again blames on China. The automaker is plotting a major strategy shift](https://www.marketwatch.com/story/bmw-issues-a-big-profit-warning-it-once-again-blames-on-china-the-automaker-is-plotting-a-major-strategy-shift-d28e7428?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 08:11
+
+#### [What have the U.S. and Iran agreed to? This is what markets are focused on.](https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 02:23
+
+#### [America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.](https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 01:03
+
+#### [Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded](https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 00:46
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Middle East peace deal could herald oil glut next year, IEA says](https://www.ft.com/content/43a47462-3102-4f77-a2fe-d9cf1217ac2f)
+**发布时间**: 2026-06-17 08:00
+
+#### [JLR to target US ‘millionaires and billionaires’ with hybrid and petrol cars](https://www.ft.com/content/7577741a-7140-4340-9965-7e439b059a61)
+**发布时间**: 2026-06-17 07:45
+
+#### [Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns](https://www.ft.com/content/c2369546-6857-47fe-84bb-30f4290c9bb5)
+**发布时间**: 2026-06-17 04:00
+
+#### [China’s tech champion tests limits of US chip controls](https://www.ft.com/content/234c9aeb-33aa-469e-844d-f721e81296cf)
+**发布时间**: 2026-06-17 04:00
+
+#### [We have to manage the AI revolution](https://www.ft.com/content/59024744-50bf-43f7-9d79-738deabc7a60)
+**发布时间**: 2026-06-17 04:00
+
+#### [VW resorts to sealed bids to avoid conflicts in $10bn engines sale](https://www.ft.com/content/915e37ce-1a6f-462c-9613-60ea9eb37c5c)
+**发布时间**: 2026-06-17 04:00
+
+#### [Defence not likely to be a panacea for European carmakers](https://www.ft.com/content/0bc85809-0a9f-4110-bf8d-a3c276f12a60)
+**发布时间**: 2026-06-17 04:00
+
+#### [The long way back from the Iran energy shock](https://www.ft.com/content/b2294b72-94ce-4ea0-ba0e-53f4272fe894)
+**发布时间**: 2026-06-17 04:00
+
+#### [‘Humiliation’: Donald Trump battles claims his Iran deal is worse than Obama’s](https://www.ft.com/content/db14774f-a16e-4996-9cdd-c4d3c2e36a78)
+**发布时间**: 2026-06-17 01:04
 
 ---
 
