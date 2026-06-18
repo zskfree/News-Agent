@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Jun 2026 00:18:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 00:19:00 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 09:17:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:17:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>万亿估值前夜，OpenAI 被曝一年亏约 2600 亿</title>
-      <link>https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[万亿估值前夜，OpenAI 被曝一年亏约 2600 亿]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 00:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub</title>
+      <link>https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？</title>
-      <link>https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>用结构替代数据，因果世界模型如何重塑具身智能大脑</title>
+      <link>https://www.tmtpost.com/8033154.html</link>
+      <description>&lt;![CDATA[用结构替代数据，因果世界模型如何重塑具身智能大脑]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033154.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会</title>
-      <link>https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&amp;utm_medium=article</guid>
+      <title>机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token</title>
+      <link>https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「组织更新」正在成为大厂AI业务的核心挑战</title>
-      <link>https://www.tmtpost.com/8031830.html</link>
-      <description>&lt;![CDATA[「组织更新」正在成为大厂AI业务的核心挑战]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 18:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8031830.html</guid>
+      <title>Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力</title>
+      <link>https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统</title>
-      <link>https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/8033077.html</link>
+      <description>&lt;![CDATA[当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS 推出 CDK Mixins：让基础设施抽象支持灵活组合</title>
-      <link>https://www.infoq.cn/article/18TJbucoqyvqfRzsNjBN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS 推出 CDK Mixins：让基础设施抽象支持灵活组合]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 19:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/18TJbucoqyvqfRzsNjBN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SpaceX要让太空算力从科幻走向现实，但它划算吗？</title>
+      <link>https://www.tmtpost.com/8032956.html</link>
+      <description>&lt;![CDATA[SpaceX要让太空算力从科幻走向现实，但它划算吗？]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8032956.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反</title>
-      <link>https://www.infoq.cn/article/hfTxUTc6pj2cHm1Hk5DD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[同属 Oracle，OpenJDK 与 GraalVM 对 AI 代码贡献态度相反]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hfTxUTc6pj2cHm1Hk5DD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构</title>
+      <link>https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GLM-5.2 终于能用了：1M 上下文，Coding 继续国产第一。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534619&amp;idx=1&amp;sn=f9e484c10e467af3f42f89c176933cdb</link>
-      <description>&lt;![CDATA[GLM-5.2 终于能用了：1M 上下文，Coding 继续国产第一。]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534619&amp;idx=1&amp;sn=f9e484c10e467af3f42f89c176933cdb</guid>
+      <title>Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施</title>
+      <link>https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026年中国智能体工程化人才与组织发展报告</title>
-      <link>https://www.infoq.cn/minibook/Rhz3a9NjqbRYCWNQJerz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[2026年中国智能体工程化人才与组织发展报告]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/minibook/Rhz3a9NjqbRYCWNQJerz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>TDSQL 分布式计算引擎版本演进介绍 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/bXpetQKhD4AcfU8dRQlP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TDSQL 分布式计算引擎版本演进介绍 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/bXpetQKhD4AcfU8dRQlP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览</title>
-      <link>https://sspai.com/post/110958</link>
-      <description>&lt;![CDATA[具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110958</guid>
+      <title>具透 | visionOS 27 首个开发者测试版中值得关注的新内容</title>
+      <link>https://sspai.com/post/111198</link>
+      <description>&lt;![CDATA[具透 | visionOS 27 首个开发者测试版中值得关注的新内容]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111198</guid>
       <category>Technology</category>
     </item>
   </channel>

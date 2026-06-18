@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 00:18
+**最后更新时间**: 2026-06-18 09:17
+
+---
+
+## 🆕 最新更新 (2026-06-18 09:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel shares rally as Trump says company will build chips for Apple in the U.S.](https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 09:16
+
+#### [My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?](https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 09:15
+
+#### [Inside the push to weaken Washington’s toughest financial watchdog](https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 02:05
+
+#### [Scared to spend your retirement money? Here’s one way to get over the fear of running out.](https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 00:43
+
+#### [I inherited a $500,000 IRA. Can I reduce the tax burden by using it for my children’s education?](https://www.marketwatch.com/story/i-inherited-a-500-000-ira-can-i-reduce-the-tax-burden-by-using-it-for-my-childrens-education-53ddaa0c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 00:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Kevin Warsh’s debut](https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e)
+**发布时间**: 2026-06-18 05:30
+
+#### [Modi and Netanyahu: the making of an unlikely alliance](https://www.ft.com/content/5829cf25-42c0-4aa4-84d7-9142ab66d6d4)
+**发布时间**: 2026-06-18 04:00
+
+#### [What is the point of Berkshire Hathaway?](https://www.ft.com/content/6d48256f-dfdf-4fc0-b1ca-a38909e686eb)
+**发布时间**: 2026-06-18 04:00
+
+#### [How Brexit still divides British voters](https://www.ft.com/content/565655b0-f5bc-46a4-91fd-a560f05081f7)
+**发布时间**: 2026-06-18 04:00
+
+#### [JPMorgan Chase cuts off Anthropic access for its Hong Kong staff](https://www.ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3)
+**发布时间**: 2026-06-18 04:00
+
+#### [BA owner warns EU competition rules make easyJet bid ‘very difficult’](https://www.ft.com/content/f435414b-a07d-457e-b3e8-946b6ae7bfea)
+**发布时间**: 2026-06-18 04:00
+
+#### [Chinese universities gain ground on UK and US in global rankings](https://www.ft.com/content/c3b449ad-857c-4760-b555-4ec430bb2fa9)
+**发布时间**: 2026-06-17 23:01
+
+#### [Anthropic chief tells G7 leaders to ‘resist the temptation to splinter’ over AI](https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d)
+**发布时间**: 2026-06-17 17:11
 
 ---
 

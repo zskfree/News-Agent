@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 00:18
+**最后更新时间**: 2026-06-18 09:17
+
+---
+
+## 🆕 最新更新 (2026-06-18 09:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [该给这些股票推荐做一次“体检”了：United Parcel Services、Twilio、Vita Coco](https://www.tmtpost.com/8033358.html)
+**发布时间**: 2026-06-18 17:13
+
+#### [从9.9投毒到千元承诺包，AI的榜一大哥谁都能当？](https://www.tmtpost.com/8032219.html)
+**发布时间**: 2026-06-18 17:11
+
+#### [负债260亿后悔保守，算力租赁企业豪赌AI](https://www.tmtpost.com/8032214.html)
+**发布时间**: 2026-06-18 17:11
+
+#### [The Mochi and the Market Regulator: How Sam’s Club Captured and Confused the Chinese Mainland’s Middle Class](https://www.tmtpost.com/8033327.html)
+**发布时间**: 2026-06-18 17:02
+
+#### [倒计时30天！2026世界人工智能大会将于7月17日至20日在上海举行](https://www.tmtpost.com/8033010.html)
+**发布时间**: 2026-06-18 17:02
+
+#### [入局AI新风向，WAIC 2026全球开票！](https://www.tmtpost.com/8032918.html)
+**发布时间**: 2026-06-18 17:01
+
+#### [618 不缺 AI，缺的是一个让人想买的理由](https://www.tmtpost.com/8033067.html)
+**发布时间**: 2026-06-18 15:52
+
+#### [40亿元不是估值底线： 大模型公司的新“资格分界线”](https://www.tmtpost.com/8033053.html)
+**发布时间**: 2026-06-18 15:52
+
+#### [好奇、Babycare、碧芭宝贝同时翻车，甲酰胺藏在哪？​](https://www.tmtpost.com/8033131.html)
+**发布时间**: 2026-06-18 15:23
+
+#### [SpaceX要让太空算力从科幻走向现实，但它划算吗？](https://www.tmtpost.com/8032956.html)
+**发布时间**: 2026-06-18 15:05
+
+#### [用结构替代数据，因果世界模型如何重塑具身智能大脑](https://www.tmtpost.com/8033154.html)
+**发布时间**: 2026-06-18 14:45
+
+#### [当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察](https://www.tmtpost.com/8033077.html)
+**发布时间**: 2026-06-18 13:00
+
+#### [“新股王”联讯仪器背后的天使投资人](https://www.tmtpost.com/8032546.html)
+**发布时间**: 2026-06-18 12:46
+
+#### [执中者银联](https://www.tmtpost.com/8029838.html)
+**发布时间**: 2026-06-18 12:12
+
+#### [远景张雷：启动Mission Gobi AIDC建设计划，让全球戈壁成为下一代智能文明摇篮](https://www.tmtpost.com/8032936.html)
+**发布时间**: 2026-06-18 11:28
+
+#### [卖身巨头还是独立扩张，朴朴超市会怎么选？](https://www.tmtpost.com/8032117.html)
+**发布时间**: 2026-06-18 11:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架](https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 16:42
+
+#### [机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token](https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 16:00
+
+#### [Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施](https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 14:18
+
+#### [TDSQL 分布式计算引擎版本演进介绍 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/bXpetQKhD4AcfU8dRQlP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 14:00
+
+#### [Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub](https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 12:02
+
+#### [Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力](https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 11:35
+
+#### [Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海](https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 10:00
+
+#### [从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/Zt9VFw53woH6vsa9cBTR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 09:00
+
+#### [Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构](https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
+**发布时间**: 2026-06-18 15:00
+
+#### [具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
+**发布时间**: 2026-06-18 11:30
+
+#### [派早报：Android 17 正式推送、微软发布 Surface 新品等](https://sspai.com/post/111191)
+**发布时间**: 2026-06-18 08:38
 
 ---
 
