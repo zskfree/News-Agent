@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-17 09:53
+**最后更新时间**: 2026-06-18 00:18
+
+---
+
+## 🆕 最新更新 (2026-06-18 00:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（6月18日）](https://www.tmtpost.com/8032680.html)
+**发布时间**: 2026-06-18 07:58
+
+#### [【钛晨报】事关就业大事，国务院重磅发文；主动ETF将至，沪深交易所出台业务指引；期货业整合提速，申万期货拟合并宏源期货](https://www.tmtpost.com/8032459.html)
+**发布时间**: 2026-06-18 07:20
+
+#### [景峰医药创始人2500万股遭法拍：石药入主摘帽后，经营大考才开场](https://www.tmtpost.com/8032364.html)
+**发布时间**: 2026-06-17 21:45
+
+#### [金富科技跨界液冷再提速：3亿定增扩产，高位融资踩准节奏](https://www.tmtpost.com/8032300.html)
+**发布时间**: 2026-06-17 20:38
+
+#### [Huawei Tries to Solve It by “Distilling” Itself When It Comes to HarmonyOS](https://www.tmtpost.com/8032363.html)
+**发布时间**: 2026-06-17 20:16
+
+#### [Yum Sells Pizza Hut](https://www.tmtpost.com/8032350.html)
+**发布时间**: 2026-06-17 20:08
+
+#### [价值判断：涨停板的投资机会和风险提示（6月16日）｜证券市场观察](https://www.tmtpost.com/8032236.html)
+**发布时间**: 2026-06-17 18:40
+
+#### [套现7亿抢老东家生意，贝泰妮怒送原合伙人“吃牢饭”背后](https://www.tmtpost.com/8031129.html)
+**发布时间**: 2026-06-17 18:25
+
+#### [大厂入局，宠物托运的“草莽时代”结束了吗？](https://www.tmtpost.com/8031955.html)
+**发布时间**: 2026-06-17 18:24
+
+#### [闯关“第一股”：仙工智能雄心与市场耐心谁先让步？](https://www.tmtpost.com/8031036.html)
+**发布时间**: 2026-06-17 18:24
+
+#### [卖300元跑鞋的“小李宁”必迈，也想做凯乐石](https://www.tmtpost.com/8031912.html)
+**发布时间**: 2026-06-17 18:23
+
+#### [一瓶“特供酒”：包装比酒贵，幻觉比包装贵](https://www.tmtpost.com/8031988.html)
+**发布时间**: 2026-06-17 18:23
+
+#### [贝佐斯第三次创业，还是没躲开马斯克](https://www.tmtpost.com/8031999.html)
+**发布时间**: 2026-06-17 18:22
+
+#### [「组织更新」正在成为大厂AI业务的核心挑战](https://www.tmtpost.com/8031830.html)
+**发布时间**: 2026-06-17 18:22
+
+#### [酒店机器人的「价值拐点」，真的来了](https://www.tmtpost.com/8031951.html)
+**发布时间**: 2026-06-17 18:22
+
+#### [人民鉴AI，互联网还有没有活人了？](https://www.tmtpost.com/8031843.html)
+**发布时间**: 2026-06-17 18:20
+
+#### [广东人偷偷吃了几十年的脆鱼，突然变成全国爆款了](https://www.tmtpost.com/8031621.html)
+**发布时间**: 2026-06-17 18:20
+
+#### [机器人养老，离我们不远了？](https://www.tmtpost.com/8031378.html)
+**发布时间**: 2026-06-17 18:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表](https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 00:46
+
+#### [万亿估值前夜，OpenAI 被曝一年亏约 2600 亿](https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 00:44
+
+#### [轻装上阵，能力不减：TDSQL 基础版的“小而美”之道 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/psxhwD4phyyE27DLXPZ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 19:11
+
+#### [AWS 推出 CDK Mixins：让基础设施抽象支持灵活组合](https://www.infoq.cn/article/18TJbucoqyvqfRzsNjBN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 19:05
+
+#### [大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？](https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 18:59
+
+#### [极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响](https://www.infoq.cn/article/WTOJWohLb3Ie7uhNfceO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 18:17
+
+#### [“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会](https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 18:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app](https://sspai.com/post/111181)
+**发布时间**: 2026-06-17 18:04
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GLM-5.2 终于能用了：1M 上下文，Coding 继续国产第一。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534619&idx=1&sn=f9e484c10e467af3f42f89c176933cdb)
+**发布时间**: 2026-06-17 16:56
 
 ---
 

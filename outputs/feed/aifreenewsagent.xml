@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jun 2026 09:51:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 09:53:50 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 00:16:00 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现</title>
-      <link>https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html</link>
-      <description>&lt;![CDATA[DeepSeek完成500亿融资，采用特殊架构保梁文锋控权；被约谈后，山姆总部更换董事长；豪掷20亿元股权！理想重赏三大高管，市值1万亿元可解锁兑现]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 08:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/x7smRCp8vFcgtOEU.html</guid>
+      <title>阿里发布世界模型HappyOyster 1.0，用户可实时探索、导演并重塑 AI 世界</title>
+      <link>https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html</link>
+      <description>&lt;![CDATA[阿里发布世界模型HappyOyster 1.0，用户可实时探索、导演并重塑 AI 世界]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/1CH2JRMcIM0JbVu1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！</title>
-      <link>https://www.qbitai.com/2026/06/436085.html</link>
-      <description>&lt;![CDATA[刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436085.html</guid>
+      <title>星海图创始人高继扬：具身智能三层技术路线，没有捷径可走</title>
+      <link>https://www.qbitai.com/2026/06/436223.html</link>
+      <description>&lt;![CDATA[星海图创始人高继扬：具身智能三层技术路线，没有捷径可走]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436223.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GLM-5.2: Built for Long-Horizon Tasks</title>
-      <link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
-      <description>&lt;![CDATA[GLM-5.2: Built for Long-Horizon Tasks]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/zai-org/glm-52-blog</guid>
+      <title>刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！</title>
+      <link>https://www.qbitai.com/2026/06/436456.html</link>
+      <description>&lt;![CDATA[刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436456.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投</title>
-      <link>https://www.qbitai.com/2026/06/436148.html</link>
-      <description>&lt;![CDATA[头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 06:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436148.html</guid>
+      <title>New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/</link>
+      <description>&lt;![CDATA[New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进</title>
-      <link>https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html</link>
-      <description>&lt;![CDATA[探索Bio AI「o1时刻」：百奥几何的三年微观世界模型演进]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/jAeC3TqxHJc8bGb1.html</guid>
+      <title>理想汽车举办Livis Day软件与具身智能发布会</title>
+      <link>https://www.leiphone.com/category/transportation/iKKAYzqzrW0294JG.html</link>
+      <description>&lt;![CDATA[理想汽车举办Livis Day软件与具身智能发布会]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/iKKAYzqzrW0294JG.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建</title>
-      <link>https://www.qbitai.com/2026/06/436077.html</link>
-      <description>&lt;![CDATA[许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 02:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436077.html</guid>
+      <title>From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
+      <description>&lt;![CDATA[From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式</title>
-      <link>https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html</link>
-      <description>&lt;![CDATA[刷新权威榜单SOTA！ACE-Ego 解锁“以人为中心”的规模化具身模型训练新范式]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Dt3i3KlHCTdZGukZ.html</guid>
+      <title>算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级</title>
+      <link>https://www.qbitai.com/2026/06/436213.html</link>
+      <description>&lt;![CDATA[算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436213.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连</title>
-      <link>https://www.qbitai.com/2026/06/436082.html</link>
-      <description>&lt;![CDATA[英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 02:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436082.html</guid>
+      <title>分子之心获逾亿美元融资，多方资本押注AI生物“产业新基建”</title>
+      <link>https://www.leiphone.com/category/aihealth/NUPeBXShajKt90nJ.html</link>
+      <description>&lt;![CDATA[分子之心获逾亿美元融资，多方资本押注AI生物“产业新基建”]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/NUPeBXShajKt90nJ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Grok 4.3现已在Amazon Bedrock上正式可用</title>
-      <link>https://www.qbitai.com/2026/06/436134.html</link>
-      <description>&lt;![CDATA[Grok 4.3现已在Amazon Bedrock上正式可用]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 05:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436134.html</guid>
+      <title>AI转型最大的门槛，不是技术，是人</title>
+      <link>https://www.qbitai.com/2026/06/436435.html</link>
+      <description>&lt;![CDATA[AI转型最大的门槛，不是技术，是人]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436435.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团</title>
-      <link>https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html</link>
-      <description>&lt;![CDATA[天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 12:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/umAJxC6SnrzeF4vz.html</guid>
+      <title>九章云极发布“AI工厂”战略  定义智能规模化新基建</title>
+      <link>https://www.leiphone.com/category/industrynews/zbQdehRHS9NgQjAv.html</link>
+      <description>&lt;![CDATA[九章云极发布“AI工厂”战略  定义智能规模化新基建]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/zbQdehRHS9NgQjAv.html</guid>
       <category>Ai</category>
     </item>
   </channel>

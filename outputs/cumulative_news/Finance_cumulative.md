@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-17 09:53
+**最后更新时间**: 2026-06-18 00:18
+
+---
+
+## 🆕 最新更新 (2026-06-18 00:18)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot](https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 00:13
+
+#### [‘I’m a realist’: I’m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?](https://www.marketwatch.com/story/im-a-realist-im-50-with-6-5-million-saved-should-i-quit-my-200-000-job-and-retire-early-a89624fa?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 23:59
+
+#### [It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom](https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 23:19
+
+#### [Did Warsh and Vance just open the door to higher inflation?](https://www.marketwatch.com/story/did-warsh-and-vance-just-open-the-door-to-higher-inflation-d81396fb?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 23:00
+
+#### [Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?](https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 22:48
+
+#### [Kevin Warsh launches his push to change how the Fed operates](https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 22:44
+
+#### [Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up](https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 21:54
+
+#### [The Fed just threw investors a curveball. Here’s how stocks, bonds, gold and the dollar reacted.](https://www.marketwatch.com/story/the-fed-threw-investors-a-curve-ball-on-wednesday-heres-how-stocks-bonds-gold-and-the-dollar-reacted-d0e1e3c0?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 21:38
+
+#### [SpaceX adds a third ‘PayPal Mafia’ member to its board](https://www.marketwatch.com/story/spacex-adds-a-third-paypal-mafia-member-to-its-board-f8e4d122?mod=mw_rss_topstories)
+**发布时间**: 2026-06-17 21:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Five things to know about Kevin Warsh’s first Fed meeting as chair](https://www.ft.com/content/28aed6f3-8d01-4748-b687-8d83bd968716)
+**发布时间**: 2026-06-17 23:27
+
+#### [US and Iran sign deal as Trump vows to release frozen funds and ease sanctions](https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37)
+**发布时间**: 2026-06-17 22:41
+
+#### [Fed officials tilt towards rate rise as Kevin Warsh era begins](https://www.ft.com/content/f2463587-91e9-4da4-94b2-9cb9a270b74a)
+**发布时间**: 2026-06-17 21:12
+
+#### [Crunching the numbers on Warsh’s lil’ statement statement](https://www.ft.com/content/e22bf189-e598-43c1-a35c-596e46fd6766)
+**发布时间**: 2026-06-17 19:51
+
+#### [Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI](https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d)
+**发布时间**: 2026-06-17 17:11
+
+#### [To avoid backlash, tech giants must share their AI wealth before it’s too late](https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3)
+**发布时间**: 2026-06-17 16:54
+
+#### [Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses](https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b)
+**发布时间**: 2026-06-17 16:30
+
+#### [Trump administration to pay $765mn to scuttle offshore wind projects](https://www.ft.com/content/209c4e7d-d41a-4f1b-a5ee-6582af7af2b2)
+**发布时间**: 2026-06-17 16:00
+
+#### [Trump delays confirmation hearing of former SEC head Jay Clayton as US intelligence chief](https://www.ft.com/content/0ad5210a-3344-44b5-8344-d5a3e7493ce8)
+**发布时间**: 2026-06-17 15:27
+
+#### [Trump says US will not invest in $300bn fund for Iran](https://www.ft.com/content/c6dbc33e-f12c-4608-bdf2-c8c4b1cdc211)
+**发布时间**: 2026-06-17 14:21
+
+#### [Buying Cursor could be SpaceX’s Instagram moment](https://www.ft.com/content/16833c61-52ad-41f2-9d18-63b7298295b1)
+**发布时间**: 2026-06-17 10:25
+
+#### [What lies behind the new boom in Colombian cocaine](https://www.ft.com/content/b5c11fa7-a8b6-49ee-944f-d75638c5afa8)
+**发布时间**: 2026-06-17 04:00
 
 ---
 
