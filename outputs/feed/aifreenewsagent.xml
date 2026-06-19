@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 00:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 00:32:49 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 09:28:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:32:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Momenta港股IPO证监会备案通过，将成“物理AI第一股”</title>
-      <link>https://www.leiphone.com/category/industrynews/mOyyJ7O75GDwbwTc.html</link>
-      <description>&lt;![CDATA[Momenta港股IPO证监会备案通过，将成“物理AI第一股”]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mOyyJ7O75GDwbwTc.html</guid>
+      <title>2026-06-19日刊</title>
+      <link>https://hex2077.dev/docs/2026-06/2026-06-19/</link>
+      <description>&lt;![CDATA[2026-06-19日刊]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-19/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/</link>
-      <description>&lt;![CDATA[Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/</guid>
+      <title>GPT发AI原创新成果了</title>
+      <link>https://www.qbitai.com/2026/06/436842.html</link>
+      <description>&lt;![CDATA[GPT发AI原创新成果了]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 03:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436842.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/</link>
-      <description>&lt;![CDATA[Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 23:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关</title>
-      <link>https://www.qbitai.com/2026/06/436758.html</link>
-      <description>&lt;![CDATA[AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436758.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评</title>
-      <link>https://www.qbitai.com/2026/06/436698.html</link>
-      <description>&lt;![CDATA[ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436698.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>算电协同进入Agent时代：商汤大装置SenseSynergy获信通院能力认证</title>
-      <link>https://www.leiphone.com/category/ai/S1woPpJBb6B9xOsK.html</link>
-      <description>&lt;![CDATA[算电协同进入Agent时代：商汤大装置SenseSynergy获信通院能力认证]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/S1woPpJBb6B9xOsK.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>MosaicLeaks: Can your research agent keep a secret?</title>
-      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
-      <description>&lt;![CDATA[MosaicLeaks: Can your research agent keep a secret?]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/</link>
-      <description>&lt;![CDATA[At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability</title>
-      <link>https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</link>
-      <description>&lt;![CDATA[How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding</title>
-      <link>https://www.qbitai.com/2026/06/436674.html</link>
-      <description>&lt;![CDATA[腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436674.html</guid>
+      <title>全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化</title>
+      <link>https://www.qbitai.com/2026/06/436813.html</link>
+      <description>&lt;![CDATA[全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 03:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436813.html</guid>
       <category>Ai</category>
     </item>
   </channel>

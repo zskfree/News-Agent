@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-19 00:32
+**最后更新时间**: 2026-06-19 09:32
+
+---
+
+## 🆕 最新更新 (2026-06-19 09:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Burnham storms to by-election victory in challenge to Starmer](https://www.ft.com/content/095b3f3d-8c66-46fa-bb2a-1b8186f3f054)
+**发布时间**: 2026-06-19 09:21
+
+#### [Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say](https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613)
+**发布时间**: 2026-06-19 08:59
+
+#### [Burnham’s win should worry Farage](https://www.ft.com/content/e3f04bcf-809d-462f-9d77-180d97964b02)
+**发布时间**: 2026-06-19 05:13
+
+#### [Are insurers becoming dangerously addicted to private credit ratings?](https://www.ft.com/content/bfcb04a7-8e13-480a-aa59-a13dee53c698)
+**发布时间**: 2026-06-19 04:00
+
+#### [‘Hawkish shift’ in US rates upends global currency bets](https://www.ft.com/content/9d0f7f40-0a65-4188-9752-a69baab12176)
+**发布时间**: 2026-06-19 04:00
+
+#### [Xi wants China to boost demand. Why isn’t it working?](https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573)
+**发布时间**: 2026-06-19 03:12
+
+#### [Starmer says he would stand in a Labour leadership race](https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8)
+**发布时间**: 2026-06-19 02:26
+
+#### [EU delays trade confrontation with China](https://www.ft.com/content/e220372c-b20e-418e-9f02-29a5aa269702)
+**发布时间**: 2026-06-19 01:35
+
+#### [Vance lashes out at Israeli government over Iran deal criticism](https://www.ft.com/content/cbb2047a-91dd-4777-9051-e9c709f4388b)
+**发布时间**: 2026-06-19 01:33
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?](https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 04:01
+
+#### [Is Tesla succeeding in AI? Watch this for a clue.](https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 02:27
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 00:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 00:32:46 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 09:32:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:32:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智源王仲远：世界模型是通往物理AGI之桥</title>
-      <link>https://www.tmtpost.com/8032558.html</link>
-      <description>&lt;![CDATA[智源王仲远：世界模型是通往物理AGI之桥]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8032558.html</guid>
+      <title>Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3</title>
+      <link>https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 Token 成为商品，AI 基础设施会怎么变化？</title>
-      <link>https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 Token 成为商品，AI 基础设施会怎么变化？]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 19:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考</title>
-      <link>https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化</title>
+      <link>https://www.tmtpost.com/8034156.html</link>
+      <description>&lt;![CDATA[国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034156.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞</title>
-      <link>https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>壁仞到底“几斤几两”？</title>
+      <link>https://www.tmtpost.com/8033720.html</link>
+      <description>&lt;![CDATA[壁仞到底“几斤几两”？]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033720.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口</title>
-      <link>https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&amp;utm_medium=article</guid>
+      <title>子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多</title>
+      <link>https://www.tmtpost.com/8033754.html</link>
+      <description>&lt;![CDATA[子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033754.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google 想为 AI Agent 打造下一个 Kubernetes</title>
-      <link>https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google 想为 AI Agent 打造下一个 Kubernetes]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷最抢手的新岗位出现了</title>
+      <link>https://www.tmtpost.com/8033869.html</link>
+      <description>&lt;![CDATA[硅谷最抢手的新岗位出现了]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033869.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海</title>
-      <link>https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布</title>
+      <link>https://www.tmtpost.com/8033497.html</link>
+      <description>&lt;![CDATA[35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033497.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架</title>
-      <link>https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 让独立游戏更容易做出来，也更容易死在 Steam 里</title>
+      <link>https://www.tmtpost.com/8034209.html</link>
+      <description>&lt;![CDATA[AI 让独立游戏更容易做出来，也更容易死在 Steam 里]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034209.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Transformer之父离开谷歌，奥特曼等了他十年</title>
-      <link>https://www.tmtpost.com/8033380.html</link>
-      <description>&lt;![CDATA[Transformer之父离开谷歌，奥特曼等了他十年]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 19:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033380.html</guid>
+      <title>美国AI狂飙，亚洲抢先吃饱</title>
+      <link>https://www.tmtpost.com/8034217.html</link>
+      <description>&lt;![CDATA[美国AI狂飙，亚洲抢先吃饱]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034217.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>40亿元不是估值底线： 大模型公司的新“资格分界线”</title>
-      <link>https://www.tmtpost.com/8033053.html</link>
-      <description>&lt;![CDATA[40亿元不是估值底线： 大模型公司的新“资格分界线”]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033053.html</guid>
+      <title>Edge AI Daily 早报（6月19日）</title>
+      <link>https://www.tmtpost.com/8033793.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（6月19日）]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 08:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033793.html</guid>
       <category>Technology</category>
     </item>
   </channel>
