@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 09:17
+**最后更新时间**: 2026-06-19 00:32
+
+---
+
+## 🆕 最新更新 (2026-06-19 00:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（6月19日）](https://www.tmtpost.com/8033793.html)
+**发布时间**: 2026-06-19 08:25
+
+#### [Momenta港股IPO备案获批：自动驾驶公司从技术叙事转向资本验证](https://www.tmtpost.com/8033628.html)
+**发布时间**: 2026-06-18 20:52
+
+#### [The VC That Invested in Semight, the King of Stocks in China](https://www.tmtpost.com/8033601.html)
+**发布时间**: 2026-06-18 20:16
+
+#### [万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？](https://www.tmtpost.com/8033363.html)
+**发布时间**: 2026-06-18 19:51
+
+#### [擎仓机器人30天极速部署欧莱雅产线，轻量化VLA范式突破](https://www.tmtpost.com/8033573.html)
+**发布时间**: 2026-06-18 19:24
+
+#### [逆矩阵科技获得超亿美元种子++轮融资，经纬创投、光合创投等参投](https://www.tmtpost.com/8033411.html)
+**发布时间**: 2026-06-18 19:12
+
+#### [增收不增利，溢价收购控股股东资产，赢合科技大跌6.17%](https://www.tmtpost.com/8033520.html)
+**发布时间**: 2026-06-18 19:11
+
+#### [智源王仲远：世界模型是通往物理AGI之桥](https://www.tmtpost.com/8032558.html)
+**发布时间**: 2026-06-18 19:11
+
+#### [GLP-1的 “常山赵子龙”，英雄迟暮来得比想象快](https://www.tmtpost.com/8033215.html)
+**发布时间**: 2026-06-18 19:09
+
+#### [Transformer之父离开谷歌，奥特曼等了他十年](https://www.tmtpost.com/8033380.html)
+**发布时间**: 2026-06-18 19:09
+
+#### [618双线作战，刘强东想在海外复制一个京东](https://www.tmtpost.com/8032398.html)
+**发布时间**: 2026-06-18 18:05
+
+#### [车越卖不动，发布会开得越猛？这不是内卷，是行业的“吹哨逃命”](https://www.tmtpost.com/8032527.html)
+**发布时间**: 2026-06-18 18:05
+
+#### [72小时连换两将，山姆的“中年危机”](https://www.tmtpost.com/8033219.html)
+**发布时间**: 2026-06-18 18:05
+
+#### [SpaceX、OpenAI、Anthropic连续上市,市场真的吃得下吗?](https://www.tmtpost.com/8032584.html)
+**发布时间**: 2026-06-18 18:05
+
+#### [柠季想要的远不止哈根达斯](https://www.tmtpost.com/8032861.html)
+**发布时间**: 2026-06-18 18:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛](https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 19:27
+
+#### [当 Token 成为商品，AI 基础设施会怎么变化？](https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 19:17
+
+#### [Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？](https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 18:15
+
+#### [Anthropic 发布 Claude Fable 5 三天遭临时下架](https://www.infoq.cn/article/UXghld6fuzYxJNuU6L47?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 18:14
+
+#### [个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考](https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:58
+
+#### [自主智能体遇阻：数据库成最大挑战](https://www.infoq.cn/article/BtWV3huF3ZydPc501mAO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:54
+
+#### [JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域](https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:48
+
+#### [砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞](https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:42
+
+#### [谷歌给 Android 开发者选模型：GPT-5.5 暂时领先](https://www.infoq.cn/article/76b4Q6i80w8MFHpuFFWA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:33
+
+#### [Google 想为 AI Agent 打造下一个 Kubernetes](https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:27
+
+#### [上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口](https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-18 17:18
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
+**发布时间**: 2026-06-18 17:23
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个爆红的 GitHub 项目让 token 直接省 60–95%。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534620&idx=1&sn=fb26dc3b155501d8c39b371aaea31959)
+**发布时间**: 2026-06-18 13:54
 
 ---
 

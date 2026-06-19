@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "abfd55b2b7b3322fd481f463a6b17a38e8cf163b9b564f0db8c17dd90b62e660": {
-        "title": "中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元",
-        "link": "https://www.tmtpost.com/7992602.html",
-        "published_date": "Tue, 19 May 2026 14:37:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.391769"
-      },
-      "eb6b74df9d42f96ad53e746803c354a25b7da15b43cc22350c31872088f8a595": {
-        "title": "独家对话银河通用张直政：我们找到了VLA和世界模型的融合之路",
-        "link": "https://www.tmtpost.com/7993834.html",
-        "published_date": "Tue, 19 May 2026 19:26:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.391777"
-      },
-      "a01453491f3df5c04f1e0e34f5fcaf0de673c4ef9a9acb666e5af03c39123fca": {
-        "title": "AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场",
-        "link": "https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 16:50:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.391779"
-      },
-      "c08fe40e1f4c7457b6bb643bf9cba9bcf1aa8307e2471279a50b3d1eac635131": {
-        "title": "封测厂商“疯狂”扩产，供应链却还没准备好",
-        "link": "https://www.tmtpost.com/7992552.html",
-        "published_date": "Tue, 19 May 2026 12:42:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.391781"
-      },
-      "2ae3d1fda7d5f3d8666dcc595c398ed5594008dc56d246a0b5cfc2c30c8b262a": {
-        "title": "【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告",
-        "link": "https://www.tmtpost.com/7994015.html",
-        "published_date": "Wed, 20 May 2026 07:20:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.391782"
-      },
       "10b4857aae699d45b3325b9f56d4540230dd635a80ee78bef0a3f2bb26a2ccf9": {
         "title": "基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
         "link": "https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&utm_medium=article",
@@ -3301,39 +3271,69 @@
         "link": "https://sspai.com/post/111198",
         "published_date": "Thu, 18 Jun 2026 11:30:00 GMT",
         "first_seen": "2026-06-18T09:17:52.385648"
+      },
+      "7a7887ec8afcfeed5b7b60205487c41671c8bde141932c2efa1ae7c7f5bcef10": {
+        "title": "智源王仲远：世界模型是通往物理AGI之桥",
+        "link": "https://www.tmtpost.com/8032558.html",
+        "published_date": "Thu, 18 Jun 2026 19:11:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428725"
+      },
+      "ace19fcecd5993d26dd9c6d24a13abc0a1bfa4796d8aa933361c886f7b0e2b82": {
+        "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
+        "link": "https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 19:17:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428737"
+      },
+      "1e8bf9511b11b048831eed37285bcd4d95b449cd5eead2f848a00085c6b83854": {
+        "title": "个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考",
+        "link": "https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:58:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428740"
+      },
+      "2943c6bc55f40f227c04dfe4bb6525c9ed429eb608191c6fa7268bef085da6b9": {
+        "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+        "link": "https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:42:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428742"
+      },
+      "319bf36888383fd2f92453fbaafe865b89b8d5ec87732159f899e07bc25df86f": {
+        "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
+        "link": "https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:18:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428743"
+      },
+      "0b22a832d6e3c183a553fef02c8f63d46b901adb4c83470e9a06234a0cb46132": {
+        "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
+        "link": "https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:27:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428745"
+      },
+      "d1100c3e21278c13a09842992d463d59de8aae98598277214f2b094ceaea7c24": {
+        "title": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+        "link": "https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428746"
+      },
+      "d32f9eee3e02c83602cebac2d4ae0ff453d68ab8e30eaec6e10957534b344568": {
+        "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
+        "link": "https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 16:42:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428748"
+      },
+      "c198e0d233e0a5b7c82609a01894abd95459f5509d0166558153a4f644a73664": {
+        "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+        "link": "https://www.tmtpost.com/8033380.html",
+        "published_date": "Thu, 18 Jun 2026 19:09:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428749"
+      },
+      "cd683245b3353ed7edf673240a879aa9d9321298edefe4bfccad89941597db34": {
+        "title": "40亿元不是估值底线： 大模型公司的新“资格分界线”",
+        "link": "https://www.tmtpost.com/8033053.html",
+        "published_date": "Thu, 18 Jun 2026 15:52:00 GMT",
+        "first_seen": "2026-06-19T00:32:46.428751"
       }
     },
     "Finance": {
-      "787f002cfd598a84a2d18e3c18afc200bc2f39db6795ca09bca0a723fb30b632": {
-        "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
-        "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 23:56:00 GMT",
-        "first_seen": "2026-05-20T00:10:12.202062"
-      },
-      "da4b4448ed8dd5b1ef210044ea47df1b329231b03ddabe5c0f516a4a3ff3f7ce": {
-        "title": "These charts offer a warning: A new era of higher Treasury yields may be coming",
-        "link": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 21:46:00 GMT",
-        "first_seen": "2026-05-20T00:10:12.202075"
-      },
-      "1e2d5eb85f6d524b86d1c7bc2a9b0a3054dca3d14d351bd3bd925d3d9b37a741": {
-        "title": "Trump says he’ll let Warsh ‘do what he wants to do’ with interest rates. It’s a remark that Fed watchers have been bracing for.",
-        "link": "https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 20:18:00 GMT",
-        "first_seen": "2026-05-20T00:10:12.202078"
-      },
-      "247529977482b506bbde1e2873e73de6ba586f3c5b95ccca1be9f90e7bff724f": {
-        "title": "CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 20:41:00 GMT",
-        "first_seen": "2026-05-20T00:10:12.202080"
-      },
-      "ac14e59f30d73295417b60ea41493e5afb1c1bab1a41d84ac56bfb328a5440de": {
-        "title": "Shein’s reported purchase of Everlane shows that price trumps principles for many shoppers today",
-        "link": "https://www.marketwatch.com/story/millennial-era-retail-was-supposed-to-have-principles-but-lower-prices-have-won-out-31498633?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 20:29:00 GMT",
-        "first_seen": "2026-05-20T00:10:12.202082"
-      },
       "75a3624f93ff4c28a4e4d8f95d03ca1f752421470d5c64e0db0ed749f41ecd68": {
         "title": "Nvidia’s Huang bankrolls AI boom with $90bn deal spree",
         "link": "https://www.ft.com/content/c6b362b8-ab6b-4723-af48-28082bdfcac2",
@@ -6273,21 +6273,69 @@
         "link": "https://www.ft.com/content/565655b0-f5bc-46a4-91fd-a560f05081f7",
         "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-18T09:17:53.519421"
+      },
+      "3ab7f5c1fedab488019cc0b954da62191be12f6e843897c10672f5e4de9b9270": {
+        "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
+        "link": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 21:14:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755866"
+      },
+      "a833db72b2868717b78d3449ea0cb7fe1fcb1c42c84e6b0b209b05411340a3dc": {
+        "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
+        "link": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 21:56:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755873"
+      },
+      "7b2d9a6fbbc16830f1efefdc9a42e9c96438f8651d2a50a052c89eb1a10729a3": {
+        "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
+        "link": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 22:00:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755875"
+      },
+      "e32c158b81eba54f1ce575ccfba7632ece44f8242d1a57d6cdbce2c4af618f96": {
+        "title": "Two big reasons Accenture’s stock is sliding in the wake of earnings",
+        "link": "https://www.marketwatch.com/story/two-big-reasons-accentures-stock-is-sliding-in-the-wake-of-earnings-9353b184?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 21:58:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755877"
+      },
+      "333e7a9c75ccc826608aed6a434583c5ecf00fa1915bcb0806f20b5bbaa9365e": {
+        "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
+        "link": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 22:03:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755879"
+      },
+      "3e88512f9a15e129a8ec4a30767d04ef12387327dc29dba97fcc98e6ceda26ec": {
+        "title": "SpaceX plots $20bn bond deal after record IPO",
+        "link": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
+        "published_date": "Thu, 18 Jun 2026 22:01:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755880"
+      },
+      "f8254ce07fecd5e9d287f19f6a1f1969d3a42375d40129cbd8fe90917bd8388c": {
+        "title": "Aldi takes the fight to Walmart and Costco",
+        "link": "https://www.ft.com/content/aac77a7f-2fe4-4611-8989-85a9b702ef8a",
+        "published_date": "Thu, 18 Jun 2026 16:06:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755882"
+      },
+      "a1fbe2c4e452583fd790c75a66ace9cb0b9be3d0cc00e3b5e91a232eb6f0b05e": {
+        "title": "Iran to get access to $6bn of frozen funds to buy US goods",
+        "link": "https://www.ft.com/content/905e17e6-0659-4e28-bab8-b733ba6be990",
+        "published_date": "Thu, 18 Jun 2026 19:26:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755883"
+      },
+      "e4d62d1837232168287b51f0908506caceaac9cf3265a700da144d99c5ce69be": {
+        "title": "US-Iran accord opens way for Hormuz charges, industry warns",
+        "link": "https://www.ft.com/content/d7e0c7ca-3485-4eef-ab8c-70db0bf4b8be",
+        "published_date": "Thu, 18 Jun 2026 20:32:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755885"
+      },
+      "b6889aeb39565d1ef3e3a996054aaaeeaa33b414aaf51e8b0ee4f4dd71fee5e2": {
+        "title": "I’m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?",
+        "link": "https://www.marketwatch.com/story/im-55-and-retiring-in-6-years-should-i-be-switching-to-roth-401-k-now-71d6c468?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 23:11:00 GMT",
+        "first_seen": "2026-06-19T00:32:47.755886"
       }
     },
     "Ai": {
-      "60bfba5a2b6c4e0517212d2b7f96d985be8dc9bb3dced4808e05087ffb6bea8b": {
-        "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-        "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-        "published_date": "Tue, 19 May 2026 17:52:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.506481"
-      },
-      "9ac6471e60a0284fa2fead5f28515ea98fc3c5b52e375676ed84962adb2aac62": {
-        "title": "2026-05-19日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-19/",
-        "published_date": "Tue, 19 May 2026 10:41:00 GMT",
-        "first_seen": "2026-05-20T00:10:45.506490"
-      },
       "a416ca2184d674bebf54b43403a5e8790c932647b234b5e174422f951b985d85": {
         "title": "2026-05-20日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-20/",
@@ -8759,13 +8807,73 @@
         "link": "https://www.leiphone.com/category/industrynews/0rp35cG1uA9fwKCY.html",
         "published_date": "Thu, 18 Jun 2026 13:49:00 GMT",
         "first_seen": "2026-06-18T09:17:54.542735"
+      },
+      "7e7b86aa3450d414626dc49cce4b202eb765e02686866b01fe3fd1a2297c823b": {
+        "title": "Momenta港股IPO证监会备案通过，将成“物理AI第一股”",
+        "link": "https://www.leiphone.com/category/industrynews/mOyyJ7O75GDwbwTc.html",
+        "published_date": "Thu, 18 Jun 2026 18:04:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058546"
+      },
+      "aba0611b8ead5db7de7405af40ee3204d385c0a7b7cdde34afe8e8bc21e5ddea": {
+        "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+        "published_date": "Thu, 18 Jun 2026 17:32:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058553"
+      },
+      "47d94cf455860f5959a3c656488cf30b2af809f6e1a88d4642ae126add120b61": {
+        "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+        "published_date": "Thu, 18 Jun 2026 23:31:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058555"
+      },
+      "8554721f1d5927c6f5d9745c40db1cad8105a2dd4e7f7b080d258b583bfd4bc2": {
+        "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+        "link": "https://www.qbitai.com/2026/06/436758.html",
+        "published_date": "Thu, 18 Jun 2026 13:46:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058557"
+      },
+      "f5d8ca9bfaa12accdf0bbf23a9fa101572c82493bd7e79beb6a7ae214d60fb1a": {
+        "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+        "link": "https://www.qbitai.com/2026/06/436698.html",
+        "published_date": "Thu, 18 Jun 2026 09:39:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058559"
+      },
+      "2e1598b116b7205364184682309f816786332ffcf12db61c65200186c9261266": {
+        "title": "算电协同进入Agent时代：商汤大装置SenseSynergy获信通院能力认证",
+        "link": "https://www.leiphone.com/category/ai/S1woPpJBb6B9xOsK.html",
+        "published_date": "Thu, 18 Jun 2026 16:37:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058560"
+      },
+      "4e4bee40788a16cc865015e082700190b9b752f699170cfc149b6dd8777c7758": {
+        "title": "MosaicLeaks: Can your research agent keep a secret?",
+        "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+        "published_date": "Thu, 18 Jun 2026 18:13:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058562"
+      },
+      "e1711045c82c588bafc1d15d0af30c8ec74b6b940794de86eea4be3747258d24": {
+        "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+        "link": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+        "published_date": "Thu, 18 Jun 2026 13:00:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058564"
+      },
+      "5a773301f6a475d56ef8dc81ddbf3f31f3ca610bb71f7ea8cf7e2e69509551c8": {
+        "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+        "link": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+        "published_date": "Thu, 18 Jun 2026 20:00:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058565"
+      },
+      "68f4e257dd1dbfd6377c48447b40d749c36bc7806dda9bc0385ccb1294cee381": {
+        "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+        "link": "https://www.qbitai.com/2026/06/436674.html",
+        "published_date": "Thu, 18 Jun 2026 09:39:00 GMT",
+        "first_seen": "2026-06-19T00:32:49.058567"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-18T09:17:52.385651",
-    "Finance": "2026-06-18T09:17:53.519423",
-    "Ai": "2026-06-18T09:17:54.542737"
+    "Technology": "2026-06-19T00:32:46.428753",
+    "Finance": "2026-06-19T00:32:47.755888",
+    "Ai": "2026-06-19T00:32:49.058569"
   }
 }

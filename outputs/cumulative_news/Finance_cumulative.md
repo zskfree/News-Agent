@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-18 09:17
+**最后更新时间**: 2026-06-19 00:32
+
+---
+
+## 🆕 最新更新 (2026-06-19 00:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?](https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:22
+
+#### [I’m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?](https://www.marketwatch.com/story/im-55-and-retiring-in-6-years-should-i-be-switching-to-roth-401-k-now-71d6c468?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:11
+
+#### [Trump’s Iran agreement is a massive buy signal for stocks](https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 23:09
+
+#### [SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality](https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 22:03
+
+#### [Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small](https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 22:00
+
+#### [Two big reasons Accenture’s stock is sliding in the wake of earnings](https://www.marketwatch.com/story/two-big-reasons-accentures-stock-is-sliding-in-the-wake-of-earnings-9353b184?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:58
+
+#### [Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.](https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:56
+
+#### [SpaceX options volume explodes as trading kicks off. Here is a low-risk strategy to play the massive surge.](https://www.marketwatch.com/story/spacex-options-volume-explodes-as-trading-kicks-off-here-is-a-low-risk-strategy-to-play-the-massive-surge-425f9b51?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:36
+
+#### [These stocks are in trouble after Fed Chair Kevin Warsh removed the market’s guardrails](https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:35
+
+#### [Micron, other memory stocks are having their best year ever. Why do they still look so cheap?](https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-18 21:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX plots $20bn bond deal after record IPO](https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a)
+**发布时间**: 2026-06-18 22:01
+
+#### [SpaceX warns EU satellite plan risks undermining connectivity in Ukraine](https://www.ft.com/content/0b012610-8132-4549-afd9-14bacd9db8cb)
+**发布时间**: 2026-06-18 22:00
+
+#### [Burnham hoping to win UK by-election as Starmer’s future hangs in the balance](https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8)
+**发布时间**: 2026-06-18 21:06
+
+#### [US-Iran accord opens way for Hormuz charges, industry warns](https://www.ft.com/content/d7e0c7ca-3485-4eef-ab8c-70db0bf4b8be)
+**发布时间**: 2026-06-18 20:32
+
+#### [Iran to get access to $6bn of frozen funds to buy US goods](https://www.ft.com/content/905e17e6-0659-4e28-bab8-b733ba6be990)
+**发布时间**: 2026-06-18 19:26
+
+#### [JD Vance lashes out at Israeli government over Iran deal criticism](https://www.ft.com/content/cbb2047a-91dd-4777-9051-e9c709f4388b)
+**发布时间**: 2026-06-18 19:07
+
+#### [The world may not like Trump’s Gaza plan — but there is no alternative](https://www.ft.com/content/2472e584-758b-4a3f-83d1-9fba042a9312)
+**发布时间**: 2026-06-18 17:00
+
+#### [Aldi takes the fight to Walmart and Costco](https://www.ft.com/content/aac77a7f-2fe4-4611-8989-85a9b702ef8a)
+**发布时间**: 2026-06-18 16:06
+
+#### [Europe should speak to Putin, says Austrian chancellor](https://www.ft.com/content/954d17f9-ce29-4b7a-9317-2aa575415e35)
+**发布时间**: 2026-06-18 14:13
+
+#### [China’s tribute system and the new world order](https://www.ft.com/content/6afcd72b-7a70-44cb-971b-3ea1551bc400)
+**发布时间**: 2026-06-18 10:00
+
+#### [Ukraine hits Moscow with largest-ever drone attack](https://www.ft.com/content/c2514fd8-d5d8-4bde-ad64-1167638d188b)
+**发布时间**: 2026-06-18 09:54
+
+#### [Trump’s ‘nuclear bros’ race to deliver US atomic revival](https://www.ft.com/content/0d074795-e54a-41d7-9c97-baf2bd6deb94)
+**发布时间**: 2026-06-18 04:00
 
 ---
 
