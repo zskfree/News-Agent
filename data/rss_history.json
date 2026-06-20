@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bd98c7e2ddbeffad1a6dce8bd920f9c7eeb589368ea36492e3260cdd8d4a032b": {
-        "title": "Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533852&idx=1&sn=441378ed031a16a340915fb7c7d69cc6",
-        "published_date": "Wed, 20 May 2026 13:20:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.831963"
-      },
-      "917c9b04e646f99f7c3cce0a27bbfd4e60156262285aa193dec1b73a3a7cf711": {
-        "title": "AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍",
-        "link": "https://www.tmtpost.com/7992618.html",
-        "published_date": "Thu, 21 May 2026 07:54:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.831970"
-      },
-      "2d32f4c7a66be4aeb085708ef76bf2a629a7de24d0c5faa6d520783f26a897a1": {
-        "title": "AI进入万亿Token时代，国产芯片如何构建行业壁垒？",
-        "link": "https://www.tmtpost.com/7994949.html",
-        "published_date": "Wed, 20 May 2026 15:15:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.831972"
-      },
-      "3dd81a4a24f28e916edbcc9003e1c17620d66983608141c251c0e2c29730f73e": {
-        "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
-        "link": "https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 20 May 2026 19:06:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.831974"
-      },
-      "a562b3a601d8096ceb637e1b187817cec40c233a3acfc83d427aa7f7b278860b": {
-        "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 21 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.831976"
-      },
       "8f570e222c1928afe40946c87709d10141db2e805addaf3d1760e5e78e37fc08": {
         "title": "营收创新高、股价却下跌，英伟达面临两个历史性关口",
         "link": "https://www.tmtpost.com/7997167.html",
@@ -3361,39 +3331,69 @@
         "link": "https://www.tmtpost.com/8033793.html",
         "published_date": "Fri, 19 Jun 2026 08:25:00 GMT",
         "first_seen": "2026-06-19T09:32:54.960503"
+      },
+      "f00756b24c008bb9aa830f2cba8d4ac8ae4377939fd7ff6ab1b725e082febb6c": {
+        "title": "一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534647&idx=1&sn=b6ba158e574eb2a32d11f3cabb1fa46f",
+        "published_date": "Fri, 19 Jun 2026 13:52:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231378"
+      },
+      "a00c1132f87654eed358bd8ddd3af6f4442baa2e0df6405f7b44681464f73b78": {
+        "title": "AI成绩单背后，藏着一位华人“出题人”",
+        "link": "https://www.tmtpost.com/8034299.html",
+        "published_date": "Fri, 19 Jun 2026 17:12:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231388"
+      },
+      "9087a7e41cb15d1fc1c8d67970209c57974e8cf3b70506ade0068d8d5d2e2f13": {
+        "title": "Token成本算盘打响，Seedance开始驶向“五环外”",
+        "link": "https://www.tmtpost.com/8034155.html",
+        "published_date": "Fri, 19 Jun 2026 17:08:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231391"
+      },
+      "e24355e4a4dad3d38999e9143f72455b1d7a4b77437719c5ecf07f020b84bada": {
+        "title": "别被不靠谱服务商忽悠，GEO优化没有捷径",
+        "link": "https://www.tmtpost.com/8034154.html",
+        "published_date": "Fri, 19 Jun 2026 17:00:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231393"
+      },
+      "673e0ea39ee4e81f6d73d3e0f31fa30e2a7bbfb4c43c0f470b669f5bb8b8b6e4": {
+        "title": "Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明",
+        "link": "https://www.tmtpost.com/8033803.html",
+        "published_date": "Fri, 19 Jun 2026 18:14:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231395"
+      },
+      "7384bda002028e63d2093eb9727d7cd6ac1cb13994eb3b41d3dd3c28160a3a2f": {
+        "title": "李想年薪跳水后“重赏”三大高管，但解锁需万亿市值",
+        "link": "https://www.tmtpost.com/8033741.html",
+        "published_date": "Fri, 19 Jun 2026 17:06:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231397"
+      },
+      "6225ab34bb8004ef04707eb55474eba4ab40047b5ab539798a0cbee99e491e5b": {
+        "title": "小红书递表，世界杯是临门一脚吗？",
+        "link": "https://www.tmtpost.com/8033641.html",
+        "published_date": "Fri, 19 Jun 2026 17:04:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231398"
+      },
+      "c316d3ed17422bd67fc4fc27ab4732a6b19a1ecac49a3b1be01fc53f2a075643": {
+        "title": "电子布大考：十家公司，十种命",
+        "link": "https://www.tmtpost.com/8033498.html",
+        "published_date": "Fri, 19 Jun 2026 18:14:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231400"
+      },
+      "81d86319cd335d9c7d489f02f71fecdbdb414e6e026a42e6c7ea5ee8ee3834dc": {
+        "title": "精品仙侠在漫剧爆发，当技术成熟创作者表达再度被激发",
+        "link": "https://www.tmtpost.com/8034087.html",
+        "published_date": "Fri, 19 Jun 2026 17:06:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231401"
+      },
+      "991c4d6c3754342680c3309f5596b7af9864a6e7e8d945532d5377a1f60e12ae": {
+        "title": "是80%的工位面向海景，马岩松在腾讯“企鹅岛”上留了一片海",
+        "link": "https://www.tmtpost.com/8021678.html",
+        "published_date": "Fri, 19 Jun 2026 17:06:00 GMT",
+        "first_seen": "2026-06-20T00:12:31.231403"
       }
     },
     "Finance": {
-      "d79891752db21c131956877c73f5114819699477972bf33968fa946ed604cb24": {
-        "title": "OpenAI readies IPO filing to list as soon as September",
-        "link": "https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318",
-        "published_date": "Wed, 20 May 2026 17:21:00 GMT",
-        "first_seen": "2026-05-21T00:11:12.037077"
-      },
-      "873949c68b68b7872d02f9659fba702c876bbd4bafef61e9ce238f8858d75c0b": {
-        "title": "Elon Musk’s SpaceX sets out plans for biggest IPO in history",
-        "link": "https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75",
-        "published_date": "Wed, 20 May 2026 23:05:00 GMT",
-        "first_seen": "2026-05-21T00:11:12.037088"
-      },
-      "09ffdcbc0cb64f37535243460926b9b870439f1d31f5d20c3f2c39b34945452d": {
-        "title": "Nvidia to return more than $80bn to shareholders as it reaps rewards of AI boom",
-        "link": "https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0",
-        "published_date": "Wed, 20 May 2026 21:06:00 GMT",
-        "first_seen": "2026-05-21T00:11:12.037091"
-      },
-      "cb8c71c173b8e4a640633b9d81fb9fd2405f1da585811028c09ae8c7c584753e": {
-        "title": "An updated ‘misery index’ shows economic stress is nearing a warning zone as stocks push higher",
-        "link": "https://www.marketwatch.com/story/an-updated-misery-index-shows-economic-stress-is-nearing-a-warning-zone-as-stocks-push-higher-177959f7?mod=mw_rss_topstories",
-        "published_date": "Wed, 20 May 2026 21:07:00 GMT",
-        "first_seen": "2026-05-21T00:11:12.037093"
-      },
-      "e10c74ed86bd2cfcf92ac7a87340ca6bf21b3e0705c59f511aa7d7cb6724a228": {
-        "title": "Pentagon official’s Beijing visit in doubt over $14bn US arms package for Taiwan",
-        "link": "https://www.ft.com/content/aecf40c9-fb61-4958-ae6b-14a471cad680",
-        "published_date": "Wed, 20 May 2026 23:12:00 GMT",
-        "first_seen": "2026-05-21T00:11:12.037095"
-      },
       "b8ce2ae276a1e02eb16d29bc2f132ae038dd66485cc258a2952b8b6449ae6c22": {
         "title": "Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing",
         "link": "https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb",
@@ -6393,27 +6393,69 @@
         "link": "https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613",
         "published_date": "Fri, 19 Jun 2026 08:59:00 GMT",
         "first_seen": "2026-06-19T09:32:56.208793"
+      },
+      "634b47f76117eb34e1f458cc4b062badd8125e41a90ecf260226f8e65d05c633": {
+        "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
+        "link": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 17:25:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234516"
+      },
+      "a45233e106221506f366a1289057879e704ce6f1efd417d8c55156d7e7413be4": {
+        "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
+        "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 17:08:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234523"
+      },
+      "87f07d2acb438f896d1c04f68b8651aede490b20ba0c09effee792df280311a6": {
+        "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+        "link": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 16:59:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234525"
+      },
+      "434b1a30210a9cd8e847d04101c263c62579f642849cae22aade49a8d51bbcd3": {
+        "title": "How China’s economic comeback hit a wall",
+        "link": "https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573",
+        "published_date": "Fri, 19 Jun 2026 10:45:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234527"
+      },
+      "12419220e4e31017639324a19d81410f784fd82cf5bfbb8e05fb45c320ffd7d9": {
+        "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
+        "link": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 16:05:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234529"
+      },
+      "ef163f4431c41746eee6322a2b8db63d318588fb1261fde811dc3ad5c79955a4": {
+        "title": "Iran to seek ‘insurance fees’ for passage through Strait of Hormuz",
+        "link": "https://www.ft.com/content/e1068044-5124-47d9-81ba-c4a3efc16384",
+        "published_date": "Fri, 19 Jun 2026 11:42:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234531"
+      },
+      "dd8931a2150b9ea7628399eecf6e6e2dbb3ac9e56f841ac303bf7f32a8ccb0c0": {
+        "title": "Iran deal brings little relief for inflation-wary central banks",
+        "link": "https://www.ft.com/content/6a06bd52-3c74-43d1-a048-6e8b9790c56d",
+        "published_date": "Fri, 19 Jun 2026 13:00:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234532"
+      },
+      "bd8624bb757ca38b4d0c23f238e11efd518b3975d3a912684c8c0fc8df4767d9": {
+        "title": "Cuba passes ‘urgent’ reforms to liberalise economy under US pressure",
+        "link": "https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86",
+        "published_date": "Fri, 19 Jun 2026 20:20:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234534"
+      },
+      "05901fe0b9102246729fda290f28e29f15fa6117c4b4219bfd1bd698c1c9510d": {
+        "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+        "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 18:30:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234535"
+      },
+      "86caa142d851ab77d8342bbddc2821dbbae868587f718a68acbfceb9d9713bda": {
+        "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
+        "link": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
+        "published_date": "Fri, 19 Jun 2026 18:52:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.234537"
       }
     },
     "Ai": {
-      "ae95ffff47a5ce73204ae3835dfc7ab52f81ee75267127bbc8e23ed1154b1f13": {
-        "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
-        "link": "https://www.qbitai.com/2026/05/420753.html",
-        "published_date": "Wed, 20 May 2026 14:09:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.951000"
-      },
-      "871fe5f611750e76b652be849a18350f560a7125abc1856cf4a22b5535ddefc4": {
-        "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/420743.html",
-        "published_date": "Wed, 20 May 2026 13:08:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.951008"
-      },
-      "1074e85337bdd3ad6658b30f35afc3382e0eee1a022eaffb5afab81635e3a0da": {
-        "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
-        "link": "https://www.qbitai.com/2026/05/420703.html",
-        "published_date": "Wed, 20 May 2026 10:15:00 GMT",
-        "first_seen": "2026-05-21T00:11:38.951010"
-      },
       "b21df452eb80810ab704f1122338f15814a2c7961b83e0669b46174ddd00a126": {
         "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
         "link": "https://www.qbitai.com/2026/05/420918.html",
@@ -8915,13 +8957,31 @@
         "link": "https://www.qbitai.com/2026/06/436813.html",
         "published_date": "Fri, 19 Jun 2026 03:28:00 GMT",
         "first_seen": "2026-06-19T09:32:56.337831"
+      },
+      "9359d451f3223a402d8aeff877ea5bbad06edbd3dcdfcd6b97f789dccaaf1212": {
+        "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+        "published_date": "Fri, 19 Jun 2026 14:15:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.359398"
+      },
+      "cdee56012d9d7f4f86ae566a568714cb30b13a50df2a601e5c41ed27d5bd8ca9": {
+        "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+        "published_date": "Fri, 19 Jun 2026 14:05:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.359407"
+      },
+      "fd03b7a5fe2e471d02a5877b034af8027b2c03ebdedcc6edb62753b2253df03f": {
+        "title": "A better way to model the behavior of metal alloys",
+        "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+        "published_date": "Fri, 19 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-20T00:12:36.359409"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-19T09:32:54.960505",
-    "Finance": "2026-06-19T09:32:56.208795",
-    "Ai": "2026-06-19T09:32:56.337833"
+    "Technology": "2026-06-20T00:12:31.231405",
+    "Finance": "2026-06-20T00:12:36.234539",
+    "Ai": "2026-06-20T00:12:36.359411"
   }
 }

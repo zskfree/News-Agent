@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-19 09:32
+**最后更新时间**: 2026-06-20 00:12
+
+---
+
+## 🆕 最新更新 (2026-06-20 00:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump accepts Qatar jet as new Air Force One despite ethics concerns](https://www.ft.com/content/2bb0efd9-fe82-4943-ab5f-ac80682bee00)
+**发布时间**: 2026-06-19 21:28
+
+#### [Cuba passes ‘urgent’ reforms to liberalise economy under US pressure](https://www.ft.com/content/f3532214-5707-41fe-bde6-8235b67f9e86)
+**发布时间**: 2026-06-19 20:20
+
+#### [Israel and Hizbollah agree ceasefire](https://www.ft.com/content/ad95de96-4849-479e-b4e5-c5f15fcad581)
+**发布时间**: 2026-06-19 19:12
+
+#### [Starmer under growing pressure to quit after Burnham’s by-election victory](https://www.ft.com/content/095b3f3d-8c66-46fa-bb2a-1b8186f3f054)
+**发布时间**: 2026-06-19 18:57
+
+#### [‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war](https://www.ft.com/content/bd4c29d7-8893-4007-8fff-0c4db216d06c)
+**发布时间**: 2026-06-19 16:31
+
+#### [Iran deal brings little relief for inflation-wary central banks](https://www.ft.com/content/6a06bd52-3c74-43d1-a048-6e8b9790c56d)
+**发布时间**: 2026-06-19 13:00
+
+#### [How to lose a war in three easy steps](https://www.ft.com/content/0ba6b511-649e-4a29-bb99-f824584ec93d)
+**发布时间**: 2026-06-19 13:00
+
+#### [Meloni accuses Trump of pandering to west’s enemies](https://www.ft.com/content/f68fc9f4-ba49-472b-ac56-9b2d9236da53)
+**发布时间**: 2026-06-19 12:25
+
+#### [Iran to seek ‘insurance fees’ for passage through Strait of Hormuz](https://www.ft.com/content/e1068044-5124-47d9-81ba-c4a3efc16384)
+**发布时间**: 2026-06-19 11:42
+
+#### [How China’s economic comeback hit a wall](https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573)
+**发布时间**: 2026-06-19 10:45
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.](https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 18:52
+
+#### [‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?](https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 18:30
+
+#### [Warsh’s new task forces give the Fed wiggle room to put off changing rates until December](https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 17:25
+
+#### [Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.](https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 17:08
+
+#### [Fed watching is looking very different now. Two charts can help you in the Warsh era.](https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 16:59
+
+#### [Is the stock market closed today for Juneteenth? Will the post office deliver mail?](https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 16:41
+
+#### [Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife](https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 16:05
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 09:32:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 09:32:54 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 00:12:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:12:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3</title>
-      <link>https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534647&amp;idx=1&amp;sn=b6ba158e574eb2a32d11f3cabb1fa46f</link>
+      <description>&lt;![CDATA[一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 13:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534647&amp;idx=1&amp;sn=b6ba158e574eb2a32d11f3cabb1fa46f</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海</title>
-      <link>https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI成绩单背后，藏着一位华人“出题人”</title>
+      <link>https://www.tmtpost.com/8034299.html</link>
+      <description>&lt;![CDATA[AI成绩单背后，藏着一位华人“出题人”]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034299.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化</title>
-      <link>https://www.tmtpost.com/8034156.html</link>
-      <description>&lt;![CDATA[国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034156.html</guid>
+      <title>Token成本算盘打响，Seedance开始驶向“五环外”</title>
+      <link>https://www.tmtpost.com/8034155.html</link>
+      <description>&lt;![CDATA[Token成本算盘打响，Seedance开始驶向“五环外”]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034155.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>壁仞到底“几斤几两”？</title>
-      <link>https://www.tmtpost.com/8033720.html</link>
-      <description>&lt;![CDATA[壁仞到底“几斤几两”？]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033720.html</guid>
+      <title>别被不靠谱服务商忽悠，GEO优化没有捷径</title>
+      <link>https://www.tmtpost.com/8034154.html</link>
+      <description>&lt;![CDATA[别被不靠谱服务商忽悠，GEO优化没有捷径]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034154.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多</title>
-      <link>https://www.tmtpost.com/8033754.html</link>
-      <description>&lt;![CDATA[子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033754.html</guid>
+      <title>Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明</title>
+      <link>https://www.tmtpost.com/8033803.html</link>
+      <description>&lt;![CDATA[Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033803.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷最抢手的新岗位出现了</title>
-      <link>https://www.tmtpost.com/8033869.html</link>
-      <description>&lt;![CDATA[硅谷最抢手的新岗位出现了]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033869.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布</title>
-      <link>https://www.tmtpost.com/8033497.html</link>
-      <description>&lt;![CDATA[35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布]]&gt;</description>
+      <title>李想年薪跳水后“重赏”三大高管，但解锁需万亿市值</title>
+      <link>https://www.tmtpost.com/8033741.html</link>
+      <description>&lt;![CDATA[李想年薪跳水后“重赏”三大高管，但解锁需万亿市值]]&gt;</description>
       <pubDate>Fri, 19 Jun 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033497.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033741.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 让独立游戏更容易做出来，也更容易死在 Steam 里</title>
-      <link>https://www.tmtpost.com/8034209.html</link>
-      <description>&lt;![CDATA[AI 让独立游戏更容易做出来，也更容易死在 Steam 里]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034209.html</guid>
+      <title>小红书递表，世界杯是临门一脚吗？</title>
+      <link>https://www.tmtpost.com/8033641.html</link>
+      <description>&lt;![CDATA[小红书递表，世界杯是临门一脚吗？]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033641.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美国AI狂飙，亚洲抢先吃饱</title>
-      <link>https://www.tmtpost.com/8034217.html</link>
-      <description>&lt;![CDATA[美国AI狂飙，亚洲抢先吃饱]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034217.html</guid>
+      <title>电子布大考：十家公司，十种命</title>
+      <link>https://www.tmtpost.com/8033498.html</link>
+      <description>&lt;![CDATA[电子布大考：十家公司，十种命]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 18:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033498.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（6月19日）</title>
-      <link>https://www.tmtpost.com/8033793.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（6月19日）]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033793.html</guid>
+      <title>精品仙侠在漫剧爆发，当技术成熟创作者表达再度被激发</title>
+      <link>https://www.tmtpost.com/8034087.html</link>
+      <description>&lt;![CDATA[精品仙侠在漫剧爆发，当技术成熟创作者表达再度被激发]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034087.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>是80%的工位面向海景，马岩松在腾讯“企鹅岛”上留了一片海</title>
+      <link>https://www.tmtpost.com/8021678.html</link>
+      <description>&lt;![CDATA[是80%的工位面向海景，马岩松在腾讯“企鹅岛”上留了一片海]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8021678.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 09:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 09:32:56 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 00:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:12:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-06-19日刊</title>
-      <link>https://hex2077.dev/docs/2026-06/2026-06-19/</link>
-      <description>&lt;![CDATA[2026-06-19日刊]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-19/</guid>
+      <title>Introducing Web Search on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Introducing Web Search on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT发AI原创新成果了</title>
-      <link>https://www.qbitai.com/2026/06/436842.html</link>
-      <description>&lt;![CDATA[GPT发AI原创新成果了]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 03:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436842.html</guid>
+      <title>Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/</link>
+      <description>&lt;![CDATA[Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化</title>
-      <link>https://www.qbitai.com/2026/06/436813.html</link>
-      <description>&lt;![CDATA[全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 03:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436813.html</guid>
+      <title>A better way to model the behavior of metal alloys</title>
+      <link>https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619</link>
+      <description>&lt;![CDATA[A better way to model the behavior of metal alloys]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619</guid>
       <category>Ai</category>
     </item>
   </channel>
