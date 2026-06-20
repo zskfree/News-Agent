@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-20 00:12
+**最后更新时间**: 2026-06-20 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-20 08:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Big Tech is stoking unrest in the UK. Why?](https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c)
+**发布时间**: 2026-06-20 04:00
+
+#### [The window for peace in Ukraine won’t be open forever](https://www.ft.com/content/7b1ff72b-5a67-46b9-81c6-9e3855b99a34)
+**发布时间**: 2026-06-20 04:00
+
+#### [Why dignity is the measure that matters](https://www.ft.com/content/4b57127a-357a-46ef-a0ee-4da37a624e3a)
+**发布时间**: 2026-06-20 04:00
+
+#### [Alternative for Germany revives Nazi-era attacks on Bauhaus](https://www.ft.com/content/a9bb98e2-b39d-4f76-9708-eaa926697432)
+**发布时间**: 2026-06-20 04:00
+
+#### [Beer can boost ‘spiritual or mental’ health, says Kirin president](https://www.ft.com/content/f97a3ea9-29c5-42bb-bf4e-d4f6929b40d1)
+**发布时间**: 2026-06-20 04:00
+
+#### [Nigel Farage’s Brexit rallies were funded from the EU budget](https://www.ft.com/content/e6372589-0015-4b91-b2b6-6581c3937c5a)
+**发布时间**: 2026-06-20 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Fed is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.](https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories)
+**发布时间**: 2026-06-19 16:59
 
 ---
 
