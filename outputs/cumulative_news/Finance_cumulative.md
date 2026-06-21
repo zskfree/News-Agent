@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-20 08:24
+**最后更新时间**: 2026-06-21 00:10
+
+---
+
+## 🆕 最新更新 (2026-06-21 00:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire](https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5)
+**发布时间**: 2026-06-20 20:39
+
+#### [Zelenskyy returns Polish state medal in escalating dispute with ally](https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a)
+**发布时间**: 2026-06-20 18:33
+
+#### [Tens of thousands of Albanians join ‘Flamingo Revolution’ protest](https://www.ft.com/content/68048f2c-9f87-415f-849d-175690c72487)
+**发布时间**: 2026-06-20 18:29
+
+#### [Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal](https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058)
+**发布时间**: 2026-06-20 17:07
+
+#### [Pedro Sánchez’s wife ordered to face corruption trial and surrender passport](https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0)
+**发布时间**: 2026-06-20 14:40
+
+#### [Did Anthropic talk its way into an AI export ban?](https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb)
+**发布时间**: 2026-06-20 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away](https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 20:00
+
+#### [Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?](https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 18:36
+
+#### [We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.](https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 18:20
+
+#### [Want to splurge on travel in retirement? Here’s how to plan for it.](https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 18:17
+
+#### [I’m 73 and living 100% off dividends from my stocks. How can I create even more income?](https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 18:02
+
+#### [Three powerful forces are draining family wealth — and your estate plan is completely unprepared](https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories)
+**发布时间**: 2026-06-20 17:42
 
 ---
 

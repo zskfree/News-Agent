@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Jun 2026 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 08:24:28 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 00:10:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:10:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>千亿热钱砸不出具身智能的答案： Demo 困在展厅，工厂等不来订单</title>
-      <link>https://www.tmtpost.com/8034572.html</link>
-      <description>&lt;![CDATA[千亿热钱砸不出具身智能的答案： Demo 困在展厅，工厂等不来订单]]&gt;</description>
+      <title>造芯片的，开始造设备了</title>
+      <link>https://www.tmtpost.com/8034884.html</link>
+      <description>&lt;![CDATA[造芯片的，开始造设备了]]&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034884.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>接连两位大咖出走，谷歌到底出了什么BUG？</title>
+      <link>https://www.tmtpost.com/8034890.html</link>
+      <description>&lt;![CDATA[接连两位大咖出走，谷歌到底出了什么BUG？]]&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034890.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>燃油车，彻底没活路了？</title>
+      <link>https://www.tmtpost.com/8034885.html</link>
+      <description>&lt;![CDATA[燃油车，彻底没活路了？]]&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034885.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Momenta上市不为钱</title>
+      <link>https://www.tmtpost.com/8034852.html</link>
+      <description>&lt;![CDATA[Momenta上市不为钱]]&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034852.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>盘点 14 个本周牛哄哄的 GitHub 开源项目。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534704&amp;idx=1&amp;sn=2878190d06b1e5b9616ce86ca80d04c5</link>
+      <description>&lt;![CDATA[盘点 14 个本周牛哄哄的 GitHub 开源项目。]]&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534704&amp;idx=1&amp;sn=2878190d06b1e5b9616ce86ca80d04c5</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>国资当房东、外资做管家，中国住房租赁“谁会管谁赢”时代正式开启</title>
+      <link>https://www.tmtpost.com/8034705.html</link>
+      <description>&lt;![CDATA[国资当房东、外资做管家，中国住房租赁“谁会管谁赢”时代正式开启]]&gt;</description>
       <pubDate>Sat, 20 Jun 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034572.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034705.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？</title>
-      <link>https://www.tmtpost.com/8034755.html</link>
-      <description>&lt;![CDATA[三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 11:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034755.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Momenta冲击港股IPO，物理AI第一股要来了</title>
-      <link>https://www.tmtpost.com/8034713.html</link>
-      <description>&lt;![CDATA[Momenta冲击港股IPO，物理AI第一股要来了]]&gt;</description>
+      <title>河南制造，新质崛起</title>
+      <link>https://www.tmtpost.com/8033710.html</link>
+      <description>&lt;![CDATA[河南制造，新质崛起]]&gt;</description>
       <pubDate>Sat, 20 Jun 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034713.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>SpaceX，从航天界“蜜雪冰城”到华尔街魅魔</title>
-      <link>https://www.tmtpost.com/8034761.html</link>
-      <description>&lt;![CDATA[SpaceX，从航天界“蜜雪冰城”到华尔街魅魔]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034761.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？</title>
-      <link>https://www.tmtpost.com/8034822.html</link>
-      <description>&lt;![CDATA[年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034822.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI 大模型驱动银行信贷业务的全链路变革｜AICon上海</title>
-      <link>https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 大模型驱动银行信贷业务的全链路变革｜AICon上海]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>国家能源局牵头，四大核电集团联手建绿色核能平台，能消除公众的“恐核”吗？</title>
-      <link>https://www.tmtpost.com/8034838.html</link>
-      <description>&lt;![CDATA[国家能源局牵头，四大核电集团联手建绿色核能平台，能消除公众的“恐核”吗？]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034838.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌</title>
-      <link>https://www.tmtpost.com/8034733.html</link>
-      <description>&lt;![CDATA[手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034733.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>花钱雇AI当同事，我的生意怎么样了？</title>
-      <link>https://www.tmtpost.com/8034774.html</link>
-      <description>&lt;![CDATA[花钱雇AI当同事，我的生意怎么样了？]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034774.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Edge AI Daily 早报（6月20日）</title>
-      <link>https://www.tmtpost.com/8034758.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（6月20日）]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034758.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033710.html</guid>
       <category>Technology</category>
     </item>
   </channel>
