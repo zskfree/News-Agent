@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Jun 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 00:10:45 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 08:57:00 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:00:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达开始搞机器人自己研究机器人那套了…</title>
-      <link>https://www.qbitai.com/2026/06/437041.html</link>
-      <description>&lt;![CDATA[英伟达开始搞机器人自己研究机器人那套了…]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437041.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>陶哲轩12年前的预言，现在AI帮他兑现了</title>
-      <link>https://www.qbitai.com/2026/06/437023.html</link>
-      <description>&lt;![CDATA[陶哲轩12年前的预言，现在AI帮他兑现了]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437023.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型</title>
-      <link>https://www.qbitai.com/2026/06/436996.html</link>
-      <description>&lt;![CDATA[撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436996.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将</title>
-      <link>https://www.qbitai.com/2026/06/436980.html</link>
-      <description>&lt;![CDATA[诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436980.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶</title>
-      <link>https://www.qbitai.com/2026/06/436966.html</link>
-      <description>&lt;![CDATA[Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶]]&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436966.html</guid>
+      <title>2026年，1800个DeepSeek跟我一起守护艾泽拉斯</title>
+      <link>https://www.qbitai.com/2026/06/437141.html</link>
+      <description>&lt;![CDATA[2026年，1800个DeepSeek跟我一起守护艾泽拉斯]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 04:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437141.html</guid>
       <category>Ai</category>
     </item>
   </channel>

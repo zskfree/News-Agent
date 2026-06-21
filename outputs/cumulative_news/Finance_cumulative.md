@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-21 00:10
+**最后更新时间**: 2026-06-21 09:00
+
+---
+
+## 🆕 最新更新 (2026-06-21 09:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer could announce exit next week, some ministers believe](https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd)
+**发布时间**: 2026-06-21 08:14
+
+#### [Vance arrives in Switzerland for crunch US-Iran talks](https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49)
+**发布时间**: 2026-06-21 07:31
+
+#### [Sorry, Elon, the far right is still the far right](https://www.ft.com/content/313f78c7-8959-4188-a3d2-dc9132ef0ba3)
+**发布时间**: 2026-06-21 04:00
+
+#### [Finally, a use for corporate bullshit](https://www.ft.com/content/1795c467-761d-4cfc-8fe9-a6dbb888ba7b)
+**发布时间**: 2026-06-21 04:00
+
+#### [Putin’s war machine sputters in drone age](https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd)
+**发布时间**: 2026-06-21 04:00
+
+#### [SpaceX handed lowest possible ESG rating by MSCI](https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3)
+**发布时间**: 2026-06-21 04:00
+
+#### [How easily could Britain rejoin the EU?](https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477)
+**发布时间**: 2026-06-21 04:00
+
+#### [Holiday bookings surge in markets hit by Iran crisis](https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb)
+**发布时间**: 2026-06-21 04:00
 
 ---
 
