@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-21 09:00
+**最后更新时间**: 2026-06-22 00:14
+
+---
+
+## 🆕 最新更新 (2026-06-22 00:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran conduct tense peace talks in Switzerland](https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49)
+**发布时间**: 2026-06-21 23:48
+
+#### [Rightwing populist ‘El Tigre’ wins Colombia election](https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f)
+**发布时间**: 2026-06-21 23:47
+
+#### [Philippines fears China may move to seize full control of disputed atoll](https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93)
+**发布时间**: 2026-06-21 20:19
+
+#### [Building materials group CRH nears its biggest-ever deal to buy Arcosa](https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981)
+**发布时间**: 2026-06-21 19:31
+
+#### [Wars trigger $12bn venture capital rush into defence tech](https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe)
+**发布时间**: 2026-06-21 18:00
+
+#### [Back-stabbing myths are driving the US and Europe further apart](https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db)
+**发布时间**: 2026-06-21 15:00
+
+#### [Why Giorgia Meloni turned on Donald Trump](https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf)
+**发布时间**: 2026-06-21 12:48
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This bull market isn’t going to end because of Fed rate hikes under Warsh](https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories)
+**发布时间**: 2026-06-21 22:41
+
+#### [The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it](https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-21 21:22
+
+#### [Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%](https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories)
+**发布时间**: 2026-06-21 14:00
 
 ---
 

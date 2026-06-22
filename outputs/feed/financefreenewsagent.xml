@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Jun 2026 09:00:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 09:00:03 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:14:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Starmer could announce exit next week, some ministers believe</title>
-      <link>https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd</link>
-      <description>&lt;![CDATA[Starmer could announce exit next week, some ministers believe]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Vance arrives in Switzerland for crunch US-Iran talks</title>
+      <title>US and Iran conduct tense peace talks in Switzerland</title>
       <link>https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49</link>
-      <description>&lt;![CDATA[Vance arrives in Switzerland for crunch US-Iran talks]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 07:31:00 GMT</pubDate>
+      <description>&lt;![CDATA[US and Iran conduct tense peace talks in Switzerland]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 23:48:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Sorry, Elon, the far right is still the far right</title>
-      <link>https://www.ft.com/content/313f78c7-8959-4188-a3d2-dc9132ef0ba3</link>
-      <description>&lt;![CDATA[Sorry, Elon, the far right is still the far right]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/313f78c7-8959-4188-a3d2-dc9132ef0ba3</guid>
+      <title>Rightwing populist ‘El Tigre’ wins Colombia election</title>
+      <link>https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f</link>
+      <description>&lt;![CDATA[Rightwing populist ‘El Tigre’ wins Colombia election]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 23:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Finally, a use for corporate bullshit</title>
-      <link>https://www.ft.com/content/1795c467-761d-4cfc-8fe9-a6dbb888ba7b</link>
-      <description>&lt;![CDATA[Finally, a use for corporate bullshit]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1795c467-761d-4cfc-8fe9-a6dbb888ba7b</guid>
+      <title>Philippines fears China may move to seize full control of disputed atoll</title>
+      <link>https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93</link>
+      <description>&lt;![CDATA[Philippines fears China may move to seize full control of disputed atoll]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 20:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Putin’s war machine sputters in drone age</title>
-      <link>https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd</link>
-      <description>&lt;![CDATA[Putin’s war machine sputters in drone age]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd</guid>
+      <title>Building materials group CRH nears its biggest-ever deal to buy Arcosa</title>
+      <link>https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981</link>
+      <description>&lt;![CDATA[Building materials group CRH nears its biggest-ever deal to buy Arcosa]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>SpaceX handed lowest possible ESG rating by MSCI</title>
-      <link>https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3</link>
-      <description>&lt;![CDATA[SpaceX handed lowest possible ESG rating by MSCI]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3</guid>
+      <title>Wars trigger $12bn venture capital rush into defence tech</title>
+      <link>https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe</link>
+      <description>&lt;![CDATA[Wars trigger $12bn venture capital rush into defence tech]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>How easily could Britain rejoin the EU?</title>
-      <link>https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477</link>
-      <description>&lt;![CDATA[How easily could Britain rejoin the EU?]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477</guid>
+      <title>Back-stabbing myths are driving the US and Europe further apart</title>
+      <link>https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db</link>
+      <description>&lt;![CDATA[Back-stabbing myths are driving the US and Europe further apart]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Holiday bookings surge in markets hit by Iran crisis</title>
-      <link>https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb</link>
-      <description>&lt;![CDATA[Holiday bookings surge in markets hit by Iran crisis]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb</guid>
+      <title>Why Giorgia Meloni turned on Donald Trump</title>
+      <link>https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf</link>
+      <description>&lt;![CDATA[Why Giorgia Meloni turned on Donald Trump]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 12:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This bull market isn’t going to end because of Fed rate hikes under Warsh</title>
+      <link>https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This bull market isn’t going to end because of Fed rate hikes under Warsh]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it</title>
+      <link>https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%</title>
+      <link>https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 21 Jun 2026 08:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 09:00:03 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 00:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:14:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026年，1800个DeepSeek跟我一起守护艾泽拉斯</title>
-      <link>https://www.qbitai.com/2026/06/437141.html</link>
-      <description>&lt;![CDATA[2026年，1800个DeepSeek跟我一起守护艾泽拉斯]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 04:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437141.html</guid>
+      <title>具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角</title>
+      <link>https://www.qbitai.com/2026/06/437198.html</link>
+      <description>&lt;![CDATA[具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角]]&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 09:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437198.html</guid>
       <category>Ai</category>
     </item>
   </channel>
