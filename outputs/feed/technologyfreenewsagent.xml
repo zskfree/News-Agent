@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Jun 2026 00:14:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 00:14:50 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 10:41:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:41:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5</title>
-      <link>https://www.tmtpost.com/8035376.html</link>
-      <description>&lt;![CDATA[【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035376.html</guid>
+      <title>吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构</title>
+      <link>https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>慢慢吃掉你的 Claude Code，在终端里养一只黑洞。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534710&amp;idx=1&amp;sn=bc6942a274888a111c0b69d23f2fa1e7</link>
-      <description>&lt;![CDATA[慢慢吃掉你的 Claude Code，在终端里养一只黑洞。]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534710&amp;idx=1&amp;sn=bc6942a274888a111c0b69d23f2fa1e7</guid>
+      <title>GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空</title>
+      <link>https://www.tmtpost.com/8036277.html</link>
+      <description>&lt;![CDATA[GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8036277.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能最火这一年，她让AI赛车飙上天门山，让机器人乒乓打进奥运会</title>
-      <link>https://www.tmtpost.com/8035242.html</link>
-      <description>&lt;![CDATA[具身智能最火这一年，她让AI赛车飙上天门山，让机器人乒乓打进奥运会]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035242.html</guid>
+      <title>Prompt已死，Loop Engineering成了硅谷AI圈新顶流</title>
+      <link>https://www.tmtpost.com/8036245.html</link>
+      <description>&lt;![CDATA[Prompt已死，Loop Engineering成了硅谷AI圈新顶流]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8036245.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包收费，能赚多少钱？</title>
-      <link>https://www.tmtpost.com/8035153.html</link>
-      <description>&lt;![CDATA[豆包收费，能赚多少钱？]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035153.html</guid>
+      <title>内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选</title>
+      <link>https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微信和支付宝又在AI支付入口“打起来了”</title>
-      <link>https://www.tmtpost.com/8035258.html</link>
-      <description>&lt;![CDATA[微信和支付宝又在AI支付入口“打起来了”]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035258.html</guid>
+      <title>Discord以自动化重构数据库运维，以管理超大规模的ScyllaDB</title>
+      <link>https://www.infoq.cn/article/hsg1FAk30lT5KVpIpDf1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Discord以自动化重构数据库运维，以管理超大规模的ScyllaDB]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hsg1FAk30lT5KVpIpDf1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：英特尔将为苹果代工芯片</title>
-      <link>https://sspai.com/post/111343</link>
-      <description>&lt;![CDATA[派早报：英特尔将为苹果代工芯片]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111343</guid>
+      <title>优步通过实时信号与Listwise排序改进餐厅推荐</title>
+      <link>https://www.infoq.cn/article/yz1xWttyNqlIdBbF7GOR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[优步通过实时信号与Listwise排序改进餐厅推荐]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yz1xWttyNqlIdBbF7GOR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>能源转型的下半场：从装机狂奔到系统重构</title>
-      <link>https://www.tmtpost.com/8035156.html</link>
-      <description>&lt;![CDATA[能源转型的下半场：从装机狂奔到系统重构]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035156.html</guid>
+      <title>让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理</title>
+      <link>https://www.infoq.cn/article/qAbbFlvzvDM2OZD9ulkE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qAbbFlvzvDM2OZD9ulkE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国网南网联手拆墙，央企加速整合，五万亿投资闸门拉开</title>
-      <link>https://www.tmtpost.com/8035155.html</link>
-      <description>&lt;![CDATA[国网南网联手拆墙，央企加速整合，五万亿投资闸门拉开]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035155.html</guid>
+      <title>xAI发布Grok Skills并更新用于工具调用的Responses API</title>
+      <link>https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[xAI发布Grok Skills并更新用于工具调用的Responses API]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】加快“人工智能+消费”发展，8部门联合部署；工行、农行、中行、建行、交行集体宣布，落地离岸人民币外汇试点交易；大众汽车加速推进业务重组，将削减约5万个岗位</title>
-      <link>https://www.tmtpost.com/8035425.html</link>
-      <description>&lt;![CDATA[【钛晨报】加快“人工智能+消费”发展，8部门联合部署；工行、农行、中行、建行、交行集体宣布，落地离岸人民币外汇试点交易；大众汽车加速推进业务重组，将削减约5万个岗位]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035425.html</guid>
+      <title>这个 GitHub 开源的音频生成大模型太惊艳了，有意思。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534781&amp;idx=1&amp;sn=7e0d30b3b621dc9af8fe7491d6964898</link>
+      <description>&lt;![CDATA[这个 GitHub 开源的音频生成大模型太惊艳了，有意思。]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534781&amp;idx=1&amp;sn=7e0d30b3b621dc9af8fe7491d6964898</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>俄罗斯家电市场被亚洲企业接盘？</title>
-      <link>https://www.tmtpost.com/8035038.html</link>
-      <description>&lt;![CDATA[俄罗斯家电市场被亚洲企业接盘？]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035038.html</guid>
+      <title>谷歌AI摘要正在杀死网页？</title>
+      <link>https://www.tmtpost.com/8036201.html</link>
+      <description>&lt;![CDATA[谷歌AI摘要正在杀死网页？]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8036201.html</guid>
       <category>Technology</category>
     </item>
   </channel>

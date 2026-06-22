@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-22 00:14
+**最后更新时间**: 2026-06-22 10:41
+
+---
+
+## 🆕 最新更新 (2026-06-22 10:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [美国AI崛起，先便宜了亚洲？](https://www.tmtpost.com/8036339.html)
+**发布时间**: 2026-06-22 18:08
+
+#### [摸着安踏过河，比音勒芬太想有一个自己的始祖鸟了](https://www.tmtpost.com/8036344.html)
+**发布时间**: 2026-06-22 18:08
+
+#### [287亿BD三连击，中国创新药决定换种活法](https://www.tmtpost.com/8036333.html)
+**发布时间**: 2026-06-22 18:08
+
+#### [GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空](https://www.tmtpost.com/8036277.html)
+**发布时间**: 2026-06-22 18:03
+
+#### [中国创新药上演极限自救](https://www.tmtpost.com/8036329.html)
+**发布时间**: 2026-06-22 18:03
+
+#### [马斯克做不好AI，但马斯克已超越AI](https://www.tmtpost.com/8036241.html)
+**发布时间**: 2026-06-22 17:28
+
+#### [国药和华润开始接管辉瑞们的阵地](https://www.tmtpost.com/8036205.html)
+**发布时间**: 2026-06-22 17:23
+
+#### [75岁老人，靠一块电子布干出2300亿市值](https://www.tmtpost.com/8036212.html)
+**发布时间**: 2026-06-22 17:23
+
+#### [碧桂园杨国强好友张国荣，靠AI赚了上百亿](https://www.tmtpost.com/8036211.html)
+**发布时间**: 2026-06-22 17:23
+
+#### [Prompt已死，Loop Engineering成了硅谷AI圈新顶流](https://www.tmtpost.com/8036245.html)
+**发布时间**: 2026-06-22 17:22
+
+#### [日本足球的商业化七十年](https://www.tmtpost.com/8035931.html)
+**发布时间**: 2026-06-22 17:08
+
+#### [谷歌AI摘要正在杀死网页？](https://www.tmtpost.com/8036201.html)
+**发布时间**: 2026-06-22 17:08
+
+#### [销量激增45%，“价格屠夫”五菱在海外杀疯了](https://www.tmtpost.com/8036091.html)
+**发布时间**: 2026-06-22 16:38
+
+#### [科沃斯集团618双品牌全渠道领跑：以技术驱动霸榜，“八界”开源迈向具身智能时代](https://www.tmtpost.com/8036208.html)
+**发布时间**: 2026-06-22 16:33
+
+#### [智谱回A前夜：创始人“叫板”马斯克，市值突破万亿港元](https://www.tmtpost.com/8036191.html)
+**发布时间**: 2026-06-22 16:26
+
+#### [孙怀庆的丸美生物港股梦碎了](https://www.tmtpost.com/8036087.html)
+**发布时间**: 2026-06-22 16:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java新闻汇总：WildFly、Micronaut、Spring AI、Apache Fory、GlassFish插件和Open Liberty](https://www.infoq.cn/article/uxOetuGQdWIU0dzEG89v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 18:00
+
+#### [吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构](https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 16:55
+
+#### [xAI发布Grok Skills并更新用于工具调用的Responses API](https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 16:49
+
+#### [Discord以自动化重构数据库运维，以管理超大规模的ScyllaDB](https://www.infoq.cn/article/hsg1FAk30lT5KVpIpDf1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 14:44
+
+#### [让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理](https://www.infoq.cn/article/qAbbFlvzvDM2OZD9ulkE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 14:16
+
+#### [优步通过实时信号与Listwise排序改进餐厅推荐](https://www.infoq.cn/article/yz1xWttyNqlIdBbF7GOR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 12:00
+
+#### [传统数据架构，还够用吗？](https://www.infoq.cn/video/LwxokkXxwsf5YECuhzi9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 11:24
+
+#### [内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选](https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 10:20
+
+#### [复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践](https://www.infoq.cn/article/Lp2yijsaRsNZNzlgCRCx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-22 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透｜Android 17 正式版：大屏体验，先看 Google？](https://sspai.com/post/108899)
+**发布时间**: 2026-06-22 16:23
+
+#### [线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
+**发布时间**: 2026-06-22 14:30
+
+#### [恩施龙船调，游土随川流](https://sspai.com/post/110742)
+**发布时间**: 2026-06-22 11:07
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 GitHub 开源的音频生成大模型太惊艳了，有意思。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534781&idx=1&sn=7e0d30b3b621dc9af8fe7491d6964898)
+**发布时间**: 2026-06-22 15:00
 
 ---
 

@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-22 00:14
+**最后更新时间**: 2026-06-22 10:41
+
+---
+
+## 🆕 最新更新 (2026-06-22 10:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I gave my HomeExchange guest a 5-star review. Then I found heat marks all over my dining table. Do I call her out?](https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 10:15
+
+#### [Starmer says he’s resigning as U.K. prime minister — here’s what it means for markets](https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 10:13
+
+#### [I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Should I agree?](https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 09:15
+
+#### [Zac Efron trades Hollywood for an off-grid ‘Futurecave’ house made of hemp in Australia](https://www.marketwatch.com/story/zac-efron-trades-hollywood-for-an-off-grid-futurecave-house-made-of-hemp-in-australia-eea29a2b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 09:01
+
+#### [The late Diane Keaton’s ‘Pinterest’ house in L.A. is relisted with a big price cut](https://www.marketwatch.com/story/the-late-diane-keatons-pinterest-house-in-l-a-is-relisted-with-a-big-price-cut-40d2bf96?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Starmer was undone by caution and no clear plan](https://www.ft.com/content/d926442e-5a86-48dd-b249-87219997cb77)
+**发布时间**: 2026-06-22 08:36
+
+#### [Burnham cemented himself as Labour’s winner](https://www.ft.com/content/265449fe-dfc1-4f6f-80a1-765df19e0714)
+**发布时间**: 2026-06-22 07:21
+
+#### [Keir Starmer steps down as UK prime minister](https://www.ft.com/content/d586063a-bf52-4041-adc0-3b357354df26)
+**发布时间**: 2026-06-22 05:49
+
+#### [Burnham will have to be brave if he wants to get Britain growing again](https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0)
+**发布时间**: 2026-06-22 04:00
+
+#### [God makes a footballing comeback](https://www.ft.com/content/ab6f5b7c-3858-4ba1-a93c-543b2c7458c2)
+**发布时间**: 2026-06-22 04:00
+
+#### [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
+**发布时间**: 2026-06-22 04:00
+
+#### [Ireland says it can secure an EU capital markets deal this year](https://www.ft.com/content/022cb596-b92a-4fe3-838d-1e536cb95a7d)
+**发布时间**: 2026-06-22 04:00
+
+#### [US and Iran make ‘progress’ in talks](https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676)
+**发布时间**: 2026-06-22 03:02
+
+#### [Why sinodollars outweigh the petroyuan](https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe)
+**发布时间**: 2026-06-22 02:51
 
 ---
 

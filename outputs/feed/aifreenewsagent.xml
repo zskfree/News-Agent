@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Jun 2026 00:13:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 00:14:50 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 10:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:41:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角</title>
-      <link>https://www.qbitai.com/2026/06/437198.html</link>
-      <description>&lt;![CDATA[具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角]]&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437198.html</guid>
+      <title>入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习</title>
+      <link>https://www.qbitai.com/2026/06/437235.html</link>
+      <description>&lt;![CDATA[入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437235.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI 太烧钱！微软选择「倒戈」DeepSeek</title>
+      <link>https://www.leiphone.com/category/ai/66F6EZoPUvuBgKtF.html</link>
+      <description>&lt;![CDATA[AI 太烧钱！微软选择「倒戈」DeepSeek]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/66F6EZoPUvuBgKtF.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦</title>
+      <link>https://www.leiphone.com/category/ai/Fkjtf266Ai0l43XB.html</link>
+      <description>&lt;![CDATA[Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Fkjtf266Ai0l43XB.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段</title>
+      <link>https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html</link>
+      <description>&lt;![CDATA[LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从代码到产线：恩和发布 BPL 协议语言，定义生物制造的“工业级编译器”</title>
+      <link>https://www.leiphone.com/category/industrynews/YWWglepflccEwGzS.html</link>
+      <description>&lt;![CDATA[从代码到产线：恩和发布 BPL 协议语言，定义生物制造的“工业级编译器”]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YWWglepflccEwGzS.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines</title>
+      <link>https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</link>
+      <description>&lt;![CDATA[Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Robotaxi匍匐前进十年：烧掉千亿后，终于要赚钱了？</title>
+      <link>https://www.leiphone.com/category/transportation/pb4PRACFvXFd32lY.html</link>
+      <description>&lt;![CDATA[Robotaxi匍匐前进十年：烧掉千亿后，终于要赚钱了？]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/pb4PRACFvXFd32lY.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek缺Agent人才缺疯了！负责人各种贴广告</title>
+      <link>https://www.qbitai.com/2026/06/437249.html</link>
+      <description>&lt;![CDATA[DeepSeek缺Agent人才缺疯了！负责人各种贴广告]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 05:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437249.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级</title>
+      <link>https://www.leiphone.com/category/industrynews/dDawO7xmw3NKpAb9.html</link>
+      <description>&lt;![CDATA[阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dDawO7xmw3NKpAb9.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>把电影工业装进口袋，大疆十二年的孤独与喧嚣</title>
+      <link>https://www.leiphone.com/category/weiwu/9jq5cMWHkEgWHwUO.html</link>
+      <description>&lt;![CDATA[把电影工业装进口袋，大疆十二年的孤独与喧嚣]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/9jq5cMWHkEgWHwUO.html</guid>
       <category>Ai</category>
     </item>
   </channel>
