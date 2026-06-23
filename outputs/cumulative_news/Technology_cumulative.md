@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-23 00:10
+**最后更新时间**: 2026-06-23 08:31
+
+---
+
+## 🆕 最新更新 (2026-06-23 08:31)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码](https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 16:15
+
+#### [谷歌推出Colab CLI：面向开发者、自动化与AI智能体的命令行工具](https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 14:00
+
+#### [探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践](https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 11:46
+
+#### [谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍](https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 11:11
+
+#### [2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海](https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 10:00
+
+#### [Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台](https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 09:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](https://www.tmtpost.com/8037825.html)
+**发布时间**: 2026-06-23 16:10
+
+#### [雷诺不在中国卖车，却把中国当成了“参照物”](https://www.tmtpost.com/8036831.html)
+**发布时间**: 2026-06-23 16:07
+
+#### [终结电车“增重竞赛”，新国标下，你的车还能上路吗？](https://www.tmtpost.com/8037754.html)
+**发布时间**: 2026-06-23 16:01
+
+#### [韩国便利店正在吃掉小餐馆的生意](https://www.tmtpost.com/8037702.html)
+**发布时间**: 2026-06-23 15:58
+
+#### [AI支付不是伪需求，但也不要急着说它颠覆一切](https://www.tmtpost.com/8037677.html)
+**发布时间**: 2026-06-23 15:54
+
+#### [智谱员工，人均富豪](https://www.tmtpost.com/8037302.html)
+**发布时间**: 2026-06-23 15:49
+
+#### [2027年一季度，铜价可能迎来一只“厄尔尼诺黑天鹅”](https://www.tmtpost.com/8037823.html)
+**发布时间**: 2026-06-23 15:39
+
+#### [中国精品咖啡“祖师爷”，被瑞幸们集体砍一刀](https://www.tmtpost.com/8037822.html)
+**发布时间**: 2026-06-23 15:39
+
+#### [当AI接管618，真人直播成为最硬的骨头？](https://www.tmtpost.com/8036757.html)
+**发布时间**: 2026-06-23 15:39
+
+#### [PCB涨停23家，真做AI的不到5个](https://www.tmtpost.com/8036721.html)
+**发布时间**: 2026-06-23 15:39
+
+#### [白衣骑士弃船：莱茵生物和德福系体面分手，股价提前“关灯吃面”](https://www.tmtpost.com/8037740.html)
+**发布时间**: 2026-06-23 15:35
+
+#### [亚朵集团加码中端酒店市场发布轻居3.3；坦博尔通过港交所聆讯；巴奴2025全年营收利润双增长｜消研所周报](https://www.tmtpost.com/8037693.html)
+**发布时间**: 2026-06-23 14:58
+
+#### [单日暴跌18%，市值腰斩：埃森哲的崩盘，只是咨询行业大洗牌的开始](https://www.tmtpost.com/8037545.html)
+**发布时间**: 2026-06-23 13:20
+
+#### [盯着“世界杯”热度的商家，可能要失望了](https://www.tmtpost.com/8037516.html)
+**发布时间**: 2026-06-23 13:15
+
+#### [一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？](https://www.tmtpost.com/8037455.html)
+**发布时间**: 2026-06-23 13:07
+
+#### [元气森林迎接十周年，不再网红没有爆款](https://www.tmtpost.com/8037314.html)
+**发布时间**: 2026-06-23 13:02
+
+#### [Loop Engineering 火了：AI Agent 开始自己干活，公司准备好背锅了吗？](https://www.tmtpost.com/8036774.html)
+**发布时间**: 2026-06-23 12:55
+
+#### [顶级程序员，正在争夺代码背后的定价权](https://www.tmtpost.com/8037498.html)
+**发布时间**: 2026-06-23 12:50
+
+#### [中国首笔输电权交易落地，输电通道告别“计划时代”](https://www.tmtpost.com/8037454.html)
+**发布时间**: 2026-06-23 12:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
+**发布时间**: 2026-06-23 15:00
+
+#### [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
+**发布时间**: 2026-06-23 11:00
+
+#### [派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
+**发布时间**: 2026-06-23 08:49
 
 ---
 

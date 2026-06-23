@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ab6a645b7552b8061018074e003fbc1725b7f90bfb4686293503ee424232f7dc": {
-        "title": "宇树、云深处和乐聚：三份招股书，一条生存线",
-        "link": "https://www.tmtpost.com/8000072.html",
-        "published_date": "Sun, 24 May 2026 08:52:00 GMT",
-        "first_seen": "2026-05-24T07:52:58.896473"
-      },
-      "13a28d2faf8f310848d48360286ecfe75db954dc6f0651a7d1cd400cd2aae8f0": {
-        "title": "活过来的Codex，扛起了OpenAI上市的希望",
-        "link": "https://www.tmtpost.com/8000341.html",
-        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
-        "first_seen": "2026-05-24T07:52:58.896480"
-      },
-      "e2023793cb9b70ef89d493c140fad3b9250b675112af344be6bbcfd0b46f4577": {
-        "title": "能随意窃取数据！这款热门 AI 编程工具曝重大隐患",
-        "link": "https://www.tmtpost.com/7997541.html",
-        "published_date": "Sun, 24 May 2026 08:59:00 GMT",
-        "first_seen": "2026-05-24T07:52:58.896482"
-      },
-      "aa362cf6e63d3b4da73a0b97fa5fac0af8c2c977262a35152b2d2ff5fbdbcab1": {
-        "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
-        "link": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 24 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-24T07:52:58.896484"
-      },
-      "38cb3c83078461cc42b005f660f3bbf232f8deeff1235b41a670f5e5c0b36e28": {
-        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
-        "link": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 24 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-24T07:52:58.896486"
-      },
       "b090e4d4a4818d572f7b5079009182c5817c3881ae6089ca5c70c876e804d598": {
         "title": "宇树赌未来，云深处先挣钱：机器狗赚到了具身智能的第一桶金",
         "link": "https://www.tmtpost.com/8000008.html",
@@ -3511,39 +3481,69 @@
         "link": "https://www.tmtpost.com/8036191.html",
         "published_date": "Mon, 22 Jun 2026 16:26:00 GMT",
         "first_seen": "2026-06-23T00:10:19.101737"
+      },
+      "3b2081029808fc4bb9d13fe0bfca8102c11e7c03837d3677f45922226d3eba64": {
+        "title": "谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍",
+        "link": "https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 11:11:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021660"
+      },
+      "0fc5619c1c5c2acd4d45f451a1c29d5372f05b83c4dbbcac74c9356e0160ed31": {
+        "title": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "link": "https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 09:40:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021672"
+      },
+      "3acbe236da9a56ef8b70e08087d715831811b3f1e1e3ee268d4bd422f1d61305": {
+        "title": "一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？",
+        "link": "https://www.tmtpost.com/8037455.html",
+        "published_date": "Tue, 23 Jun 2026 13:07:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021675"
+      },
+      "7c22aa1f32630db8aadd90d0d1791fd73b032ae255f0666cd17ae16ea94e3869": {
+        "title": "Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码",
+        "link": "https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 16:15:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021676"
+      },
+      "b1635908caa9ba91c6f0f74153e6cf3940e7f458f22a781e42b8864f9ef99a10": {
+        "title": "谷歌推出Colab CLI：面向开发者、自动化与AI智能体的命令行工具",
+        "link": "https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021678"
+      },
+      "f2b2c198f2d3175eeb108726d64ab697482056d92e9145fe2ee0a4519d7e6baa": {
+        "title": "Loop Engineering 火了：AI Agent 开始自己干活，公司准备好背锅了吗？",
+        "link": "https://www.tmtpost.com/8036774.html",
+        "published_date": "Tue, 23 Jun 2026 12:55:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021680"
+      },
+      "801fba9d575168d8874d63044c81bd98220393e6ffe3b7dc4e49b145c1f83e35": {
+        "title": "单日暴跌18%，市值腰斩：埃森哲的崩盘，只是咨询行业大洗牌的开始",
+        "link": "https://www.tmtpost.com/8037545.html",
+        "published_date": "Tue, 23 Jun 2026 13:20:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021681"
+      },
+      "dd718eb41380ae6061b8571b461c5990ef26e4f5c30ca78c84e48f1f8d8eac33": {
+        "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+        "link": "https://www.tmtpost.com/8037825.html",
+        "published_date": "Tue, 23 Jun 2026 16:10:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021683"
+      },
+      "00b093c9d6b913d0fb770bd4477c83c309c664d758f565dbc94e74b5dfcf11c8": {
+        "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
+        "link": "https://sspai.com/post/111261",
+        "published_date": "Tue, 23 Jun 2026 15:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021684"
+      },
+      "61165baf5c92b781e9ebcc9fcd17652012709dedda96b168eaf131cdf0ac1bcb": {
+        "title": "探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 11:46:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.021686"
       }
     },
     "Finance": {
-      "e988a80f566e62ece62c67e7efa047d203936668a6cd764aaa8a8b7675ce06f3": {
-        "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
-        "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
-        "published_date": "Sun, 24 May 2026 01:29:00 GMT",
-        "first_seen": "2026-05-24T07:52:37.913176"
-      },
-      "c44f221a7810982629134acad4d924d36ee8b6c3aaa436029aef31ff1dfbcf50": {
-        "title": "South-east Asian economies struggle to counter energy shock",
-        "link": "https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989",
-        "published_date": "Sun, 24 May 2026 01:06:00 GMT",
-        "first_seen": "2026-05-24T07:52:37.913186"
-      },
-      "c2a8f8654a43f7de6bea765f64660ab528bac9bd9c33dc77414e1288ccedd4b0": {
-        "title": "Commerzbank rallies shareholders in fight for independence from UniCredit",
-        "link": "https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56",
-        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-24T07:52:37.913189"
-      },
-      "80555f67035b271cf4bff675a9f65c5b5b4c2983918b6c8e3bf8de4681a861ce": {
-        "title": "The power struggle in the world’s narrow seas",
-        "link": "https://ig.ft.com/maritime-chokepoints/",
-        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-24T07:52:37.913192"
-      },
-      "6ae9ccc8c6991821282fea98c2b41df58162ec06532321f385ce79770c392e47": {
-        "title": "Iran’s Guards used UAE company to buy military satellite equipment",
-        "link": "https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44",
-        "published_date": "Sun, 24 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-24T07:52:37.913194"
-      },
       "97999186da96fbaebee828ef87b47c74ee20f10d19f84767236e496999afaf45": {
         "title": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
         "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
@@ -6711,33 +6711,63 @@
         "link": "https://www.ft.com/content/e26ebf11-2288-4913-96f3-001f6065755a",
         "published_date": "Mon, 22 Jun 2026 11:36:00 GMT",
         "first_seen": "2026-06-23T00:10:20.349154"
+      },
+      "369d0ee8afd57251deba378823d5a54d062193aa779995b779fa58a3bf2160ac": {
+        "title": "Big Tech leads sell-off in global stocks",
+        "link": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
+        "published_date": "Tue, 23 Jun 2026 07:21:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070891"
+      },
+      "f019abac92f4de4cc6f8e5f514dd82257fcbeb07ef0aeb01de6a8abde5fdb2ce": {
+        "title": "Citadel: the hedge fund that became an energy giant",
+        "link": "https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070899"
+      },
+      "058b33bef107c009f19c493a1e3744943b8707d1651254facdee07255bc908eb": {
+        "title": "Warsh has a chance to enact lasting reform at the Fed",
+        "link": "https://www.ft.com/content/f0b24cda-de76-41c0-9464-ac1dba7633c3",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070901"
+      },
+      "a0bba12b03d1325659fe3a8e30516320269f23125a7d7dffb957ff38c7a035fd": {
+        "title": "Burnham might just have what it takes to see off Farage",
+        "link": "https://www.ft.com/content/0ef236f2-0f9f-429b-82d4-9bee1b812394",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070903"
+      },
+      "9eb934979266c0ed5757df5ed09a077ec558acf23472d3bfcd3431fb5a8958a0": {
+        "title": "UK ‘irritated’ by EU move to delay key summit after Starmer’s resignation",
+        "link": "https://www.ft.com/content/f0b3f918-c13f-4164-9eb2-e1aa78ca1d29",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070904"
+      },
+      "6d3e9783eaf79d5545ca6276fd787cda90c62ae789ed80d4dd6644cd46a2351d": {
+        "title": "Private equity bosses turn to carried interest loans as payouts stall",
+        "link": "https://www.ft.com/content/1fe784c5-f52c-48c0-a99e-4d1b83546c32",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070906"
+      },
+      "da879f278ab26b3c5669d2491e22deac66a42aed60b01eba9517b678122882d0": {
+        "title": "EU could open deportation centres outside bloc by next year, says Denmark PM",
+        "link": "https://www.ft.com/content/cce58433-02bf-47aa-9222-89dd4e0ba2bd",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070907"
+      },
+      "55c36e98369c428dc74195f245772a401862eaa2a5ea4fa16e00bd4a15e94d3f": {
+        "title": "‘I’m not the Godfather’, Albanian PM says",
+        "link": "https://www.ft.com/content/3cb689e3-8c00-486a-bd21-ffc9349ddbf8",
+        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070908"
+      },
+      "51b865d1a2bf4a8e8602d69d9771cfd7b76a14b550cb2b900085c77ec31f9179": {
+        "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
+        "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Jun 2026 00:23:00 GMT",
+        "first_seen": "2026-06-23T08:32:03.070910"
       }
     },
     "Ai": {
-      "7355bd81154a13c0cfd2bbb153fdad6708781c0239aaed2f7be9ba254708bf27": {
-        "title": "2026-05-24日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-24/",
-        "published_date": "Sun, 24 May 2026 10:35:00 GMT",
-        "first_seen": "2026-05-24T07:52:59.012246"
-      },
-      "efb2a2f9b34c5bae69d31d9c5561be051012bfe0b52078f59b516338cc7c7c43": {
-        "title": "谷歌CEO承认Coding落后了",
-        "link": "https://www.qbitai.com/2026/05/423390.html",
-        "published_date": "Sun, 24 May 2026 06:20:00 GMT",
-        "first_seen": "2026-05-24T07:52:59.012255"
-      },
-      "5d2bc08cc0b3e8bcc7e343d5d76a7b5d3f130edb22ba3d1523b79ee5cd68af6e": {
-        "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/423382.html",
-        "published_date": "Sun, 24 May 2026 06:14:00 GMT",
-        "first_seen": "2026-05-24T07:52:59.012257"
-      },
-      "ccea1b354971f29f834b4a563f4ab5d056cbfb7b4e472acc81e8959352cbfc5a": {
-        "title": "什么！你说胡彦斌也在苦修Vibe Coding",
-        "link": "https://www.qbitai.com/2026/05/423213.html",
-        "published_date": "Sun, 24 May 2026 04:53:00 GMT",
-        "first_seen": "2026-05-24T07:52:59.012259"
-      },
       "e90df51ae8b8067a9088b1cddeb4316d7f828c2775a64e0636f7bdc62a3d060c": {
         "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
         "link": "https://www.qbitai.com/2026/05/423421.html",
@@ -9269,13 +9299,73 @@
         "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
         "published_date": "Mon, 22 Jun 2026 13:00:00 GMT",
         "first_seen": "2026-06-23T00:10:21.517928"
+      },
+      "cc26213157d8b3249ac7012e87c163d4e6d9a6efb098ab69ef78045d0e9ce408": {
+        "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+        "link": "https://www.qbitai.com/2026/06/437382.html",
+        "published_date": "Tue, 23 Jun 2026 06:06:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281805"
+      },
+      "a00ba346b4e664741d072bdab085585c4ce2d7200d16125170b5ec730b5d1f6a": {
+        "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
+        "link": "https://www.qbitai.com/2026/06/437340.html",
+        "published_date": "Tue, 23 Jun 2026 06:02:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281812"
+      },
+      "ad68c7828048f3c2e81bfaa91f6607963f649ac47e1b9f6b62a8aac0522b6837": {
+        "title": "GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除",
+        "link": "https://www.leiphone.com/category/private/qY695YwdBe6ap14w.html",
+        "published_date": "Tue, 23 Jun 2026 10:13:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281814"
+      },
+      "5a26c3c2c995d51d4ba89bb2f5bf9919d64878b83ce959c06791f05daedceb25": {
+        "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+        "link": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+        "published_date": "Tue, 23 Jun 2026 06:00:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281816"
+      },
+      "23aa8eb3091546810129c801e6cf2554eb4bdcd732685945d99dd81e06dd4465": {
+        "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+        "link": "https://www.qbitai.com/2026/06/437425.html",
+        "published_date": "Tue, 23 Jun 2026 07:31:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281818"
+      },
+      "5623216409e33358f98035fa7749f807a0c5548602e67c074c805e681e008aa7": {
+        "title": "成立不到90天的超级创企昆仑行，刷新具身最快独角兽",
+        "link": "https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html",
+        "published_date": "Tue, 23 Jun 2026 10:36:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281820"
+      },
+      "1bc7729386c81152c3f34d020546fb6b591ced69476fa54a45e9e751939cc1cd": {
+        "title": "网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色",
+        "link": "https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html",
+        "published_date": "Tue, 23 Jun 2026 13:57:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281821"
+      },
+      "df7b6f035643ac37d60d9f322e9ff17e93d1428e5dde619d928a110158b871c8": {
+        "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+        "link": "https://www.qbitai.com/2026/06/437381.html",
+        "published_date": "Tue, 23 Jun 2026 06:10:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281823"
+      },
+      "ffe599cddee31dcc2ebc93f9130234dc2cd9d35f32a832cc82e14c8366b847b0": {
+        "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+        "link": "https://www.qbitai.com/2026/06/437330.html",
+        "published_date": "Tue, 23 Jun 2026 00:33:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281825"
+      },
+      "3d2d91d39e314bee0e9ca09f9fdbfc55329bc2eba97447651d022721e7c00caf": {
+        "title": "独家丨微软与平安CEO，曾「密谋」联手做云",
+        "link": "https://www.leiphone.com/category/industrycloud/23aEGFli48UtVkDq.html",
+        "published_date": "Tue, 23 Jun 2026 09:42:00 GMT",
+        "first_seen": "2026-06-23T08:32:04.281827"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-23T00:10:19.101738",
-    "Finance": "2026-06-23T00:10:20.349156",
-    "Ai": "2026-06-23T00:10:21.517930"
+    "Technology": "2026-06-23T08:32:03.021688",
+    "Finance": "2026-06-23T08:32:03.070912",
+    "Ai": "2026-06-23T08:32:04.281828"
   }
 }

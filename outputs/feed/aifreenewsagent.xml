@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Jun 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 00:10:21 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:32:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>超越 SONIC ！人形机器人通用小脑迎来 GPT 时刻</title>
-      <link>https://www.leiphone.com/category/ai/lzqSU7xisToFg45M.html</link>
-      <description>&lt;![CDATA[超越 SONIC ！人形机器人通用小脑迎来 GPT 时刻]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/lzqSU7xisToFg45M.html</guid>
+      <title>机器人全栈操作系统！老黄率先抛出“具身版安卓”</title>
+      <link>https://www.qbitai.com/2026/06/437382.html</link>
+      <description>&lt;![CDATA[机器人全栈操作系统！老黄率先抛出“具身版安卓”]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437382.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</title>
-      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
-      <description>&lt;![CDATA[PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
+      <title>马斯克又盯上AI基建：特斯拉要卖“算力积木”了</title>
+      <link>https://www.qbitai.com/2026/06/437340.html</link>
+      <description>&lt;![CDATA[马斯克又盯上AI基建：特斯拉要卖“算力积木”了]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437340.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</link>
-      <description>&lt;![CDATA[NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</guid>
+      <title>GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除</title>
+      <link>https://www.leiphone.com/category/private/qY695YwdBe6ap14w.html</link>
+      <description>&lt;![CDATA[GAIR Paper 103｜上海交大联合腾讯提出 Token 级别幻觉优化，实现大模型幻觉精准消除]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/qY695YwdBe6ap14w.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
-      <description>&lt;![CDATA[NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
+      <title>NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations</title>
+      <link>https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/</link>
+      <description>&lt;![CDATA[NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries</title>
-      <link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
-      <description>&lt;![CDATA[From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
+      <title>57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐</title>
+      <link>https://www.qbitai.com/2026/06/437425.html</link>
+      <description>&lt;![CDATA[57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 07:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437425.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Embed the world: Multimodal AI for searchable aerial imagery at scale</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/</link>
-      <description>&lt;![CDATA[Embed the world: Multimodal AI for searchable aerial imagery at scale]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/</guid>
+      <title>成立不到90天的超级创企昆仑行，刷新具身最快独角兽</title>
+      <link>https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html</link>
+      <description>&lt;![CDATA[成立不到90天的超级创企昆仑行，刷新具身最快独角兽]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/piPbBllVn6chKHBz.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Fable 5 刚被封杀，OpenRouter 用「多模型协作」搞出了「平替天团」</title>
-      <link>https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html</link>
-      <description>&lt;![CDATA[Fable 5 刚被封杀，OpenRouter 用「多模型协作」搞出了「平替天团」]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/9TGZvtD8CvNeaEKw.html</guid>
+      <title>网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色</title>
+      <link>https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html</link>
+      <description>&lt;![CDATA[网易有道首发14语种零口音语音克隆模型，无需参考文本即可复刻任意音色]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/30qYFuhjh76yBsIV.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/</link>
-      <description>&lt;![CDATA[Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/</guid>
+      <title>可口可乐的世界杯TVC，居然是prompt生成的</title>
+      <link>https://www.qbitai.com/2026/06/437381.html</link>
+      <description>&lt;![CDATA[可口可乐的世界杯TVC，居然是prompt生成的]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437381.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Running ComfyUI workflows on Amazon SageMaker AI processing jobs</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/</link>
-      <description>&lt;![CDATA[Running ComfyUI workflows on Amazon SageMaker AI processing jobs]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/</guid>
+      <title>小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…</title>
+      <link>https://www.qbitai.com/2026/06/437330.html</link>
+      <description>&lt;![CDATA[小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 00:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437330.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>At ISC, JUPITER Shows What Exascale Science Looks Like</title>
-      <link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
-      <description>&lt;![CDATA[At ISC, JUPITER Shows What Exascale Science Looks Like]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</guid>
+      <title>独家丨微软与平安CEO，曾「密谋」联手做云</title>
+      <link>https://www.leiphone.com/category/industrycloud/23aEGFli48UtVkDq.html</link>
+      <description>&lt;![CDATA[独家丨微软与平安CEO，曾「密谋」联手做云]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 09:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrycloud/23aEGFli48UtVkDq.html</guid>
       <category>Ai</category>
     </item>
   </channel>

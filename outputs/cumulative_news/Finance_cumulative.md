@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-23 00:10
+**最后更新时间**: 2026-06-23 08:32
+
+---
+
+## 🆕 最新更新 (2026-06-23 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Big Tech leads sell-off in global stocks](https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4)
+**发布时间**: 2026-06-23 07:21
+
+#### [Citadel: the hedge fund that became an energy giant](https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda)
+**发布时间**: 2026-06-23 04:00
+
+#### [Warsh has a chance to enact lasting reform at the Fed](https://www.ft.com/content/f0b24cda-de76-41c0-9464-ac1dba7633c3)
+**发布时间**: 2026-06-23 04:00
+
+#### [Burnham might just have what it takes to see off Farage](https://www.ft.com/content/0ef236f2-0f9f-429b-82d4-9bee1b812394)
+**发布时间**: 2026-06-23 04:00
+
+#### [UK ‘irritated’ by EU move to delay key summit after Starmer’s resignation](https://www.ft.com/content/f0b3f918-c13f-4164-9eb2-e1aa78ca1d29)
+**发布时间**: 2026-06-23 04:00
+
+#### [Private equity bosses turn to carried interest loans as payouts stall](https://www.ft.com/content/1fe784c5-f52c-48c0-a99e-4d1b83546c32)
+**发布时间**: 2026-06-23 04:00
+
+#### [EU could open deportation centres outside bloc by next year, says Denmark PM](https://www.ft.com/content/cce58433-02bf-47aa-9222-89dd4e0ba2bd)
+**发布时间**: 2026-06-23 04:00
+
+#### [‘I’m not the Godfather’, Albanian PM says](https://www.ft.com/content/3cb689e3-8c00-486a-bd21-ffc9349ddbf8)
+**发布时间**: 2026-06-23 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These 6 fast-growing stocks sit at the cutting edge of space and military technology](https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 00:23
 
 ---
 
