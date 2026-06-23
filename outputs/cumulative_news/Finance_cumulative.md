@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-22 10:41
+**最后更新时间**: 2026-06-23 00:10
+
+---
+
+## 🆕 最新更新 (2026-06-23 00:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?](https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 22:47
+
+#### [Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI](https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 22:21
+
+#### [A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.](https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 22:18
+
+#### [China’s weird new economic spark: toy elves and robocops](https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 22:14
+
+#### [Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win](https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 22:05
+
+#### [Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street](https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 21:50
+
+#### [Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership](https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 20:58
+
+#### [Micron’s stock momentum builds as the company inks a new Anthropic partnership](https://www.marketwatch.com/story/microns-stock-momentum-builds-as-the-company-inks-a-new-anthropic-partnership-484e3845?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 20:53
+
+#### [Salesforce’s stock extends record losing streak. Can the company disrupt itself?](https://www.marketwatch.com/story/salesforces-stock-extends-record-losing-streak-can-the-company-disrupt-itself-8402d62c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 20:50
+
+#### [Alphabet sees $225 billion market-cap wipeout as investors fear it’s losing the war for AI talent](https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories)
+**发布时间**: 2026-06-22 20:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX sheds $400bn in market value as debut rally hits reverse](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4)
+**发布时间**: 2026-06-22 21:28
+
+#### [Burnham poised to succeed Starmer as UK prime minister](https://www.ft.com/content/71001d5b-4567-4ac3-b4ec-355fa89efaf6)
+**发布时间**: 2026-06-22 20:58
+
+#### [Indian entrepreneur to lead WhatsApp as Zuckerberg brings in new blood](https://www.ft.com/content/075009d5-9f5e-4127-ab0c-1c87b6be1d8f)
+**发布时间**: 2026-06-22 17:23
+
+#### [How to bridge the impasse over Iran’s nuclear programme](https://www.ft.com/content/9eac6fd5-7be4-407d-a929-32a1e8bc6685)
+**发布时间**: 2026-06-22 16:55
+
+#### [AI-powered threats may succeed ‘within months’, Five Eyes warns](https://www.ft.com/content/df50c416-9308-46cc-af14-8f069bba9aa6)
+**发布时间**: 2026-06-22 15:59
+
+#### [Vance claims ‘successful foundation’ laid in US-Iran talks](https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676)
+**发布时间**: 2026-06-22 15:57
+
+#### [America’s allies look to declare independence from the US](https://www.ft.com/content/a718bd51-c56e-4d02-b23f-028c7936bab2)
+**发布时间**: 2026-06-22 13:00
+
+#### [Six British PMs in 10 years. Why?](https://www.ft.com/content/cd15556f-8f52-4b7a-8af9-578fdbbaa9c6)
+**发布时间**: 2026-06-22 12:57
+
+#### [Over 400 ships are waiting near Hormuz for the strait to reopen fully](https://www.ft.com/content/9df718a9-8ee3-4d8b-a9ff-a29263d35a88)
+**发布时间**: 2026-06-22 11:41
+
+#### [Alan Greenspan dies aged 100](https://www.ft.com/content/e26ebf11-2288-4913-96f3-001f6065755a)
+**发布时间**: 2026-06-22 11:36
 
 ---
 
