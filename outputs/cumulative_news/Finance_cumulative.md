@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-24 00:00
+**最后更新时间**: 2026-06-24 08:25
+
+---
+
+## 🆕 最新更新 (2026-06-24 08:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [World’s hottest stock market rallies after 10% plunge](https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 08:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tankmaker KNDS starts process for listing in Paris and Frankfurt](https://www.ft.com/content/40ac6d05-a5e6-48d3-ad21-451d0e884cbe)
+**发布时间**: 2026-06-24 07:04
+
+#### [Venezuela to reveal $240bn debt pile in world’s largest restructuring](https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d)
+**发布时间**: 2026-06-24 04:00
+
+#### [The decade that made Andy Burnham](https://www.ft.com/content/9949d99f-a348-4c66-805f-438653384fa6)
+**发布时间**: 2026-06-24 04:00
+
+#### [The rise and fall of US hegemony](https://www.ft.com/content/5a9fed66-57fa-4f7b-bce9-f5519bd1d84b)
+**发布时间**: 2026-06-24 04:00
+
+#### [Heatwave shows we are marinating in a crisis of our own making](https://www.ft.com/content/f059869e-294b-42b7-bf38-fe55b46ad812)
+**发布时间**: 2026-06-24 04:00
+
+#### [Qatar says US-Iran hotline essential to reopen Strait of Hormuz](https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1)
+**发布时间**: 2026-06-24 04:00
+
+#### [To cool or not to cool: French politicians draw battle lines over aircon](https://www.ft.com/content/b9abbdc4-0993-4e7b-bb68-75d02d644ecc)
+**发布时间**: 2026-06-24 04:00
+
+#### [Pete Hegseth forces out top US army officer in Europe](https://www.ft.com/content/b2936511-6549-4a93-9c9f-b6dc3cd165a0)
+**发布时间**: 2026-06-24 02:29
+
+#### [Germany set to scrap plans to build its biggest warship since second world war](https://www.ft.com/content/2ceb7472-a7bc-447e-a037-7925f037b9b5)
+**发布时间**: 2026-06-23 22:30
 
 ---
 

@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-24 00:00
+**最后更新时间**: 2026-06-24 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-24 08:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [巨头打响Context之战，重构AI护城河](https://www.tmtpost.com/8038497.html)
+**发布时间**: 2026-06-24 15:26
+
+#### [马斯克刚发完债，SpaceX就股价大跌](https://www.tmtpost.com/8038472.html)
+**发布时间**: 2026-06-24 15:26
+
+#### [字节告别大力出奇迹](https://www.tmtpost.com/8038450.html)
+**发布时间**: 2026-06-24 15:26
+
+#### [追觅造车，十月刹车](https://www.tmtpost.com/8038399.html)
+**发布时间**: 2026-06-24 15:16
+
+#### [AI掀桌之后：整合型与模块化之争中，日本产业退守的八十年与新战线](https://www.tmtpost.com/8038396.html)
+**发布时间**: 2026-06-24 15:16
+
+#### [纸尿裤陷罗生门，中国母婴的高端化还在渡劫](https://www.tmtpost.com/8038418.html)
+**发布时间**: 2026-06-24 15:15
+
+#### [AI太会写代码，人类已经审不过来了](https://www.tmtpost.com/8039261.html)
+**发布时间**: 2026-06-24 15:15
+
+#### [先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察](https://www.tmtpost.com/8037904.html)
+**发布时间**: 2026-06-24 15:12
+
+#### [具身智能芯片，先卷疯了](https://www.tmtpost.com/8038367.html)
+**发布时间**: 2026-06-24 14:36
+
+#### [美国餐饮大牌，集体姓中](https://www.tmtpost.com/8039076.html)
+**发布时间**: 2026-06-24 14:36
+
+#### [比音勒芬慌了](https://www.tmtpost.com/8039053.html)
+**发布时间**: 2026-06-24 14:36
+
+#### [豆包学会了打车，却还没学会挣钱](https://www.tmtpost.com/8038385.html)
+**发布时间**: 2026-06-24 14:36
+
+#### [被“新鲜”困住的千亿生意：体验越美，扩张越险？](https://www.tmtpost.com/8039026.html)
+**发布时间**: 2026-06-24 14:36
+
+#### [算力荒，但Token却便宜了，智算云的账该怎么算？](https://www.tmtpost.com/8037464.html)
+**发布时间**: 2026-06-24 13:07
+
+#### [东鹏特饮，困在车里](https://www.tmtpost.com/8038487.html)
+**发布时间**: 2026-06-24 11:11
+
+#### [Babycare、好奇、碧芭宝贝陷甲酰胺疑云，该信谁？](https://www.tmtpost.com/8039012.html)
+**发布时间**: 2026-06-24 11:11
+
+#### [机器人融资暴增，但没一分钱投给“普通人”](https://www.tmtpost.com/8038498.html)
+**发布时间**: 2026-06-24 11:11
+
+#### [AI电力系统演进，或将重塑算力竞争格局](https://www.tmtpost.com/8037739.html)
+**发布时间**: 2026-06-24 10:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
+**发布时间**: 2026-06-24 15:00
+
+#### [DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
+**发布时间**: 2026-06-24 10:11
+
+#### [派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等](https://sspai.com/post/111438)
+**发布时间**: 2026-06-24 07:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架](https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 14:00
+
+#### [Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布](https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 11:11
+
+#### [全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”](https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 10:16
+
+#### [蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战](https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 10:00
+
+#### [亚马逊云科技为ElastiCache for Valkey推出持久化存储选项](https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 09:40
+
+#### [一文读懂，2026中国峰会到底怎么逛？丨中国峰会](https://www.infoq.cn/article/HRRlDs5N4z8L0kDXF9w4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 09:20
 
 ---
 

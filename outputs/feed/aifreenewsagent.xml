@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Jun 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 00:00:47 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 08:22:00 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:25:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码</title>
-      <link>https://www.qbitai.com/2026/06/437503.html</link>
-      <description>&lt;![CDATA[刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437503.html</guid>
+      <title>刚刚，Claude Code大升级！卡帕西：LLM第三次变革</title>
+      <link>https://www.qbitai.com/2026/06/437734.html</link>
+      <description>&lt;![CDATA[刚刚，Claude Code大升级！卡帕西：LLM第三次变革]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 03:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437734.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GAIR Paper 104｜Agent 真的能自我进化吗？我们造了一把它骗不过去的尺子</title>
-      <link>https://www.leiphone.com/category/private/lWPaab1Q7cpgqnRI.html</link>
-      <description>&lt;![CDATA[GAIR Paper 104｜Agent 真的能自我进化吗？我们造了一把它骗不过去的尺子]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/lWPaab1Q7cpgqnRI.html</guid>
+      <title>存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12</title>
+      <link>https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html</link>
+      <description>&lt;![CDATA[存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers</title>
-      <link>https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</link>
-      <description>&lt;![CDATA[NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</guid>
+      <title>物理AI第一块万亿市场，在公路货运先跑通闭环了</title>
+      <link>https://www.qbitai.com/2026/06/437853.html</link>
+      <description>&lt;![CDATA[物理AI第一块万亿市场，在公路货运先跑通闭环了]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437853.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a protein research copilot with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Build a protein research copilot with Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 16:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/</guid>
+      <title>智能座舱之王「转身」物理AI，高通需要被重估了</title>
+      <link>https://www.qbitai.com/2026/06/432494.html</link>
+      <description>&lt;![CDATA[智能座舱之王「转身」物理AI，高通需要被重估了]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 00:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432494.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build real agentic apps using CUGA: two dozen working examples on a lightweight harness</title>
-      <link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
-      <description>&lt;![CDATA[Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/cuga-apps</guid>
+      <title>独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施</title>
+      <link>https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html</link>
+      <description>&lt;![CDATA[独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Businesses Are Building Specialized AI They Can Trust</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/</link>
-      <description>&lt;![CDATA[How Businesses Are Building Specialized AI They Can Trust]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/</guid>
+      <title>华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖</title>
+      <link>https://www.qbitai.com/2026/06/437833.html</link>
+      <description>&lt;![CDATA[华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437833.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/</guid>
+      <title>NVIDIA and AWS Collaborate to Bring AI to Production at Scale</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
+      <description>&lt;![CDATA[NVIDIA and AWS Collaborate to Bring AI to Production at Scale]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 00:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>起底大晓：四个月狂融数亿美金，国家队、车企、芯片巨头为何集体「押注」</title>
-      <link>https://www.leiphone.com/category/industrynews/SmlYKtAdXG3bGMMu.html</link>
-      <description>&lt;![CDATA[起底大晓：四个月狂融数亿美金，国家队、车企、芯片巨头为何集体「押注」]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SmlYKtAdXG3bGMMu.html</guid>
+      <title>豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景</title>
+      <link>https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html</link>
+      <description>&lt;![CDATA[豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持</title>
-      <link>https://www.qbitai.com/2026/06/437694.html</link>
-      <description>&lt;![CDATA[正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437694.html</guid>
+      <title>火山引擎下半年往哪发力？答案藏在这场Force大会里</title>
+      <link>https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html</link>
+      <description>&lt;![CDATA[火山引擎下半年往哪发力？答案藏在这场Force大会里]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 00:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>云计算一哥，让小鹏、Kimi和猎豹都爽了一把</title>
-      <link>https://www.qbitai.com/2026/06/437672.html</link>
-      <description>&lt;![CDATA[云计算一哥，让小鹏、Kimi和猎豹都爽了一把]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437672.html</guid>
+      <title>周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划</title>
+      <link>https://www.qbitai.com/2026/06/437838.html</link>
+      <description>&lt;![CDATA[周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 03:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437838.html</guid>
       <category>Ai</category>
     </item>
   </channel>

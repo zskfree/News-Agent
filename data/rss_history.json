@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "077d7830ee628d8180b1dd4da8fd48f69fa25fd89e83d45f22ff855cbdbc7fd4": {
-        "title": "Mythos的面纱，成了Anthropic撬动万亿的杠杆",
-        "link": "https://www.tmtpost.com/8000513.html",
-        "published_date": "Sun, 24 May 2026 18:02:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.205891"
-      },
-      "67ed5024eadfb8d2c0785e575e179f998270fc4bf51d8d7b165f73f12a809018": {
-        "title": "DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」",
-        "link": "https://www.tmtpost.com/7999975.html",
-        "published_date": "Sun, 24 May 2026 18:01:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.205898"
-      },
-      "4beade59d291b01a38957a6a134d5430432776d2d6e128922a935f9ad75a81cc": {
-        "title": "黄仁勋不想“认输”",
-        "link": "https://www.tmtpost.com/8000459.html",
-        "published_date": "Sun, 24 May 2026 17:57:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.205899"
-      },
-      "27ca04b0e7117b010d49dd8d076eae15fa65376feee1a301da845b84fcf45a29": {
-        "title": "日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？",
-        "link": "https://www.tmtpost.com/7999019.html",
-        "published_date": "Sun, 24 May 2026 17:52:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.205901"
-      },
-      "e3c21a2fd54455f488c9c48368324d4097ca187561acd2f71bfe135cebdf9577": {
-        "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
-        "link": "https://sspai.com/post/110130",
-        "published_date": "Mon, 25 May 2026 06:36:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.205903"
-      },
       "226f5ad98025896cbfe5f17f932267e2888d8d922811ac75a4f6ca1b3ae48962": {
         "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
         "link": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
@@ -3571,39 +3541,69 @@
         "link": "https://www.tmtpost.com/8036568.html",
         "published_date": "Tue, 23 Jun 2026 18:49:00 GMT",
         "first_seen": "2026-06-24T00:00:31.088770"
+      },
+      "94d915ce373cc08ba4099930877d4eaf3685d1503512ce1abd9b4246646ff248": {
+        "title": "巨头打响Context之战，重构AI护城河",
+        "link": "https://www.tmtpost.com/8038497.html",
+        "published_date": "Wed, 24 Jun 2026 15:26:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407430"
+      },
+      "3e8f4aa88a8792fdcf9a93556a0b7ad33155b45ca64875b7728c7f9a921e77e4": {
+        "title": "AI电力系统演进，或将重塑算力竞争格局",
+        "link": "https://www.tmtpost.com/8037739.html",
+        "published_date": "Wed, 24 Jun 2026 10:48:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407444"
+      },
+      "6755421b467425269732e5a539c97c5244c23fd90116a45f38007f726cf7ebea": {
+        "title": "具身智能芯片，先卷疯了",
+        "link": "https://www.tmtpost.com/8038367.html",
+        "published_date": "Wed, 24 Jun 2026 14:36:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407447"
+      },
+      "5af582f3d639b236117ef553b5cd795bcfde6fca1fea7967db2591677f699526": {
+        "title": "AI太会写代码，人类已经审不过来了",
+        "link": "https://www.tmtpost.com/8039261.html",
+        "published_date": "Wed, 24 Jun 2026 15:15:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407449"
+      },
+      "6ed86e3755745734d59e9de5cf661eb70c70d4ad94301c2c62b1bbb1b085ff22": {
+        "title": "AI掀桌之后：整合型与模块化之争中，日本产业退守的八十年与新战线",
+        "link": "https://www.tmtpost.com/8038396.html",
+        "published_date": "Wed, 24 Jun 2026 15:16:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407452"
+      },
+      "e22a3694f30b3b739203b0a0f177a25efa3903497af0fcd85e4936d65423c56c": {
+        "title": "算力荒，但Token却便宜了，智算云的账该怎么算？",
+        "link": "https://www.tmtpost.com/8037464.html",
+        "published_date": "Wed, 24 Jun 2026 13:07:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407454"
+      },
+      "06229552236b7aec6359a562f4a5adfd905a967bdc0e1a9f80a95bc49ad84be4": {
+        "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
+        "link": "https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Jun 2026 11:11:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407455"
+      },
+      "d9923225545403c876dac77989db2f95f3bae68a83831fc271f7bbfcb6084442": {
+        "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
+        "link": "https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407458"
+      },
+      "8af80598807c2e349b6577c25c1282c5e4b4a4a3b313d90e0417eed387a5b732": {
+        "title": "亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+        "link": "https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Jun 2026 09:40:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407459"
+      },
+      "8f7997b99aac6874780b8164108bce0c6cf2d3f73a68c60166cd9677b3e2a4aa": {
+        "title": "全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+        "link": "https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Jun 2026 10:16:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.407461"
       }
     },
     "Finance": {
-      "e98d5db96caaf2fb635e66759a65798d1964eb4715d41c2900195bbeb78c6c57": {
-        "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
-        "link": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
-        "published_date": "Sun, 24 May 2026 22:23:00 GMT",
-        "first_seen": "2026-05-25T00:02:51.051202"
-      },
-      "91379806e40e827a4e2f13d0920c1f97dcaf0d3db7a8baa9442c6b0c9edc2205": {
-        "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
-        "link": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
-        "published_date": "Sun, 24 May 2026 17:00:00 GMT",
-        "first_seen": "2026-05-25T00:02:51.051214"
-      },
-      "558cb2eb803409189a5fd9ad9bac45be7496576a7735b4b1e540c1310a00ac40": {
-        "title": "Uber weighs higher bid for Delivery Hero after €11.5bn offer rebuffed",
-        "link": "https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b",
-        "published_date": "Sun, 24 May 2026 19:29:00 GMT",
-        "first_seen": "2026-05-25T00:02:51.051217"
-      },
-      "04c650411964985f61f3c327df104d70250e646f58acacdf9b12be9cef093bc1": {
-        "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-        "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
-        "published_date": "Sun, 24 May 2026 23:07:00 GMT",
-        "first_seen": "2026-05-25T00:02:51.051219"
-      },
-      "0e71978422f0161745db77049e12eaedbeb02593fb3a31e3d0a074694f6224a1": {
-        "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
-        "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
-        "published_date": "Sun, 24 May 2026 18:09:00 GMT",
-        "first_seen": "2026-05-25T00:02:51.051221"
-      },
       "ae25c67705a80b0d35f6e3a652a854b4aeb0e5154882a23ea9bd039df897370a": {
         "title": "Singapore tells banks to speed up account openings for wealthy clients",
         "link": "https://www.ft.com/content/07be8870-e7f8-4101-9f0a-56049e5ae16f",
@@ -6849,15 +6849,63 @@
         "link": "https://www.ft.com/content/0965a607-f6e1-4553-a631-abd3533bc22b",
         "published_date": "Tue, 23 Jun 2026 19:34:00 GMT",
         "first_seen": "2026-06-24T00:00:45.266008"
+      },
+      "a061263003603ba9483dde1d594080a36b46fc553ac2e7392c16982b13096529": {
+        "title": "World’s hottest stock market rallies after 10% plunge",
+        "link": "https://www.marketwatch.com/story/worlds-hottest-stock-market-rallies-after-10-plunge-156f47fa?mod=mw_rss_topstories",
+        "published_date": "Wed, 24 Jun 2026 08:14:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462399"
+      },
+      "757445b955a1f15d45e359377edf6b17da389799e8d47157b72f8219d859b71c": {
+        "title": "Tankmaker KNDS starts process for listing in Paris and Frankfurt",
+        "link": "https://www.ft.com/content/40ac6d05-a5e6-48d3-ad21-451d0e884cbe",
+        "published_date": "Wed, 24 Jun 2026 07:04:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462409"
+      },
+      "9c92a007fd49f93f2763f003e2ad3909e33cddf189f43b84a73361082bd33142": {
+        "title": "Venezuela to reveal $240bn debt pile in world’s largest restructuring",
+        "link": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462412"
+      },
+      "55c70f57da66a5914c1872e40e41e37c9d4c62916bdc134fe1aacebaf4eebcc1": {
+        "title": "The decade that made Andy Burnham",
+        "link": "https://www.ft.com/content/9949d99f-a348-4c66-805f-438653384fa6",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462414"
+      },
+      "ec93b044a95dabde06201abcdae5f84f80862905a4683d12085f1f44efc60937": {
+        "title": "The rise and fall of US hegemony",
+        "link": "https://www.ft.com/content/5a9fed66-57fa-4f7b-bce9-f5519bd1d84b",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462415"
+      },
+      "1c45d6cf30bc44f67a3b3beeb16aeead388910a60351f89ec72001304803b797": {
+        "title": "Heatwave shows we are marinating in a crisis of our own making",
+        "link": "https://www.ft.com/content/f059869e-294b-42b7-bf38-fe55b46ad812",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462417"
+      },
+      "c11be4442c7de6d7c678839121f06a457089a442cac62a1314f8aa33ce77f5f9": {
+        "title": "Qatar says US-Iran hotline essential to reopen Strait of Hormuz",
+        "link": "https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462418"
+      },
+      "a3393b561541041d673bcc857372ba5785a1ac31f85b7a91203514b4abba13cf": {
+        "title": "To cool or not to cool: French politicians draw battle lines over aircon",
+        "link": "https://www.ft.com/content/b9abbdc4-0993-4e7b-bb68-75d02d644ecc",
+        "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462419"
+      },
+      "b89487583e7a8d913a28cf1b1449e930e56cb842ac3fb8782d88fa4fc7b6c2a9": {
+        "title": "Pete Hegseth forces out top US army officer in Europe",
+        "link": "https://www.ft.com/content/b2936511-6549-4a93-9c9f-b6dc3cd165a0",
+        "published_date": "Wed, 24 Jun 2026 02:29:00 GMT",
+        "first_seen": "2026-06-24T08:25:03.462421"
       }
     },
     "Ai": {
-      "e90df51ae8b8067a9088b1cddeb4316d7f828c2775a64e0636f7bdc62a3d060c": {
-        "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
-        "link": "https://www.qbitai.com/2026/05/423421.html",
-        "published_date": "Sun, 24 May 2026 10:50:00 GMT",
-        "first_seen": "2026-05-25T00:03:10.312357"
-      },
       "b14eb566d7b19bb15b37ababca5f9148ed71a2aee291ba84e72c0ace2a241503": {
         "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
         "link": "https://www.qbitai.com/2026/05/423455.html",
@@ -9503,13 +9551,73 @@
         "link": "https://www.qbitai.com/2026/06/437672.html",
         "published_date": "Tue, 23 Jun 2026 13:47:00 GMT",
         "first_seen": "2026-06-24T00:00:47.035657"
+      },
+      "60aa2e4e6f50ee63278bbf25be1fb6afd60ae5037fdbe478d4e737e8d26a8d43": {
+        "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
+        "link": "https://www.qbitai.com/2026/06/437734.html",
+        "published_date": "Wed, 24 Jun 2026 03:56:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728094"
+      },
+      "e4610b522b212cc368562b0f86698dd0f3529912d6dc235127b4d6a0164f7415": {
+        "title": "存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12",
+        "link": "https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html",
+        "published_date": "Wed, 24 Jun 2026 11:25:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728102"
+      },
+      "905b5b874469275a268e222d205511b116574ef294592d99c9a2bd5f8df7d4fc": {
+        "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+        "link": "https://www.qbitai.com/2026/06/437853.html",
+        "published_date": "Wed, 24 Jun 2026 06:06:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728105"
+      },
+      "f82800db261f8f47092720b15809527cce5c51e94a29442833d70b7e25312988": {
+        "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
+        "link": "https://www.qbitai.com/2026/06/432494.html",
+        "published_date": "Wed, 24 Jun 2026 00:26:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728106"
+      },
+      "b0f83ca13684015a023da8dcd77dc1b792377ebd15f9575f52557bfa4864a7e0": {
+        "title": "独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施",
+        "link": "https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html",
+        "published_date": "Wed, 24 Jun 2026 10:54:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728108"
+      },
+      "fa6b24355c4425d405d34c5ccc84863491bdeb310f4b5078325609daf59c58c5": {
+        "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+        "link": "https://www.qbitai.com/2026/06/437833.html",
+        "published_date": "Wed, 24 Jun 2026 05:30:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728109"
+      },
+      "35fb865f743511cd69018b564620355bcc4dab632521b31b45cd6d04db5a67b0": {
+        "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+        "link": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+        "published_date": "Wed, 24 Jun 2026 00:05:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728111"
+      },
+      "dff25eb10568ae8772cf59ae83b94bda34960ae107c2b2a2a00799ea5513e417": {
+        "title": "豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景",
+        "link": "https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html",
+        "published_date": "Wed, 24 Jun 2026 10:41:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728112"
+      },
+      "2853b508040e66d9996bb9a99feda1ac8fe474fb9c0b67225ff3ff6fd16c3ea0": {
+        "title": "火山引擎下半年往哪发力？答案藏在这场Force大会里",
+        "link": "https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html",
+        "published_date": "Wed, 24 Jun 2026 00:21:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728114"
+      },
+      "f0681c43a711b642925337ce386f4fc4671c6100120d83111c50ef107ba54b00": {
+        "title": "周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划",
+        "link": "https://www.qbitai.com/2026/06/437838.html",
+        "published_date": "Wed, 24 Jun 2026 03:45:00 GMT",
+        "first_seen": "2026-06-24T08:25:04.728116"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-24T00:00:31.088772",
-    "Finance": "2026-06-24T00:00:45.266010",
-    "Ai": "2026-06-24T00:00:47.035659"
+    "Technology": "2026-06-24T08:25:03.407464",
+    "Finance": "2026-06-24T08:25:03.462423",
+    "Ai": "2026-06-24T08:25:04.728117"
   }
 }
