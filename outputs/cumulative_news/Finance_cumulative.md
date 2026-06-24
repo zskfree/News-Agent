@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-23 08:32
+**最后更新时间**: 2026-06-24 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-24 00:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?](https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 23:15
+
+#### [SpaceX pulls off one of the biggest AI debt deals yet](https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 23:14
+
+#### [Alphabet’s stock is set to join the Dow, pivoting index’s industrial roots toward tech](https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 23:11
+
+#### [I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?](https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 22:47
+
+#### [Cerebras delivers its first earnings report — but it’s not enough to lift the stock](https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 21:43
+
+#### [The No. 1 NBA draft pick will make nearly $70 million as TV deals keep money flowing into the NBA](https://www.marketwatch.com/story/the-no-1-overall-nba-draft-pick-will-make-nearly-70-million-overnight-as-historic-tv-deals-keeping-money-flowing-into-nba-977513f5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 21:34
+
+#### [Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks](https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 21:23
+
+#### [SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq](https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories)
+**发布时间**: 2026-06-23 21:16
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods](https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294)
+**发布时间**: 2026-06-23 23:01
+
+#### [EU allies join US pact to break reliance on Chinese AI supply chains](https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc)
+**发布时间**: 2026-06-23 22:08
+
+#### [Senate approves war powers resolution aimed at reining in Trump on Iran war](https://www.ft.com/content/75fbdc7f-73a8-4a7a-a49d-738d75ad8d1a)
+**发布时间**: 2026-06-23 21:45
+
+#### [US chipmakers lead Wall Street slide on rate rise worries](https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4)
+**发布时间**: 2026-06-23 20:08
+
+#### [Acclaimed bankruptcy lawyer James Sprayregen set to join Paul Weiss](https://www.ft.com/content/0965a607-f6e1-4553-a631-abd3533bc22b)
+**发布时间**: 2026-06-23 19:34
+
+#### [Alibaba sues Pentagon over inclusion on Chinese military blacklist](https://www.ft.com/content/23944164-b81a-4296-8b85-7d3648f1753c)
+**发布时间**: 2026-06-23 19:16
+
+#### [SpaceX pitches investors juicy yields in $25bn bond deal](https://www.ft.com/content/7ea76b60-ea21-4e50-b0e2-bbcc842af289)
+**发布时间**: 2026-06-23 18:44
+
+#### [US manufacturing jobs fall at fastest rate since the pandemic](https://www.ft.com/content/fbee05c0-03bb-4907-9390-ef56155a4579)
+**发布时间**: 2026-06-23 16:12
+
+#### [Putin sours on Trump over his latest Ukraine shift](https://www.ft.com/content/e08ee46f-8460-456a-977f-a29cc2bda8ef)
+**发布时间**: 2026-06-23 15:45
+
+#### [Zelenskyy may have the last laugh over Trump](https://www.ft.com/content/b822bb89-a0b5-4e5f-8de3-3e53aa04c4d4)
+**发布时间**: 2026-06-23 11:26
+
+#### [How Citadel built an energy empire from Enron’s ashes](https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda)
+**发布时间**: 2026-06-23 04:00
 
 ---
 

@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-23 08:31
+**最后更新时间**: 2026-06-24 00:00
+
+---
+
+## 🆕 最新更新 (2026-06-24 00:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】这些行业迎利好！九部门发文培育壮大汽车后市场消费；性能突破2EFlops，中国超算时隔九年再度登顶全球；误发地震预警，小米电视紧急致歉](https://www.tmtpost.com/8038616.html)
+**发布时间**: 2026-06-24 07:20
+
+#### [Renault Doesn’t Sell Cars in China, Yet It Treats China as a “Benchmark”](https://www.tmtpost.com/8038712.html)
+**发布时间**: 2026-06-23 23:07
+
+#### [1.08亿控股德维嘉：无锡振华的“智能化拼图”与一场精心设计的赌局丨并购一线](https://www.tmtpost.com/8038529.html)
+**发布时间**: 2026-06-23 21:41
+
+#### [退市前夜突发公开信，恒久光电上市十年终局只剩罗生门](https://www.tmtpost.com/8038538.html)
+**发布时间**: 2026-06-23 20:34
+
+#### [科凯电子“三战”资本市场：IPO撤材料、并购告吹后3.14亿买壳飞鹿股份](https://www.tmtpost.com/8038416.html)
+**发布时间**: 2026-06-23 20:17
+
+#### [具身智能数据需求能否压缩到最小，有公司已经在探索了](https://www.tmtpost.com/8036568.html)
+**发布时间**: 2026-06-23 18:49
+
+#### [谷歌一夜蒸发15000亿，只因失去了两个人](https://www.tmtpost.com/8038237.html)
+**发布时间**: 2026-06-23 18:11
+
+#### [AI短剧，让品牌内容不再“次抛”](https://www.tmtpost.com/8038091.html)
+**发布时间**: 2026-06-23 18:11
+
+#### [从“工具人”到“悦己者”，中男消费的转折时刻](https://www.tmtpost.com/8038003.html)
+**发布时间**: 2026-06-23 18:11
+
+#### [影石解禁首周：员工疑减持，机构待时机，大风暴在后头?](https://www.tmtpost.com/8036315.html)
+**发布时间**: 2026-06-23 18:11
+
+#### [中美AI对弈之下的算力难题](https://www.tmtpost.com/8036519.html)
+**发布时间**: 2026-06-23 18:10
+
+#### [Google DeepMind CEO：AGI已走在正确路上，但还缺最后一两块拼图](https://www.tmtpost.com/8038028.html)
+**发布时间**: 2026-06-23 18:05
+
+#### [朴朴交易传闻下，即时零售的几个新动态](https://www.tmtpost.com/8038000.html)
+**发布时间**: 2026-06-23 17:58
+
+#### [63岁“果汁大王”年赚3亿，为何狂砸8亿抢芯片生意？](https://www.tmtpost.com/8038113.html)
+**发布时间**: 2026-06-23 17:57
+
+#### [一年三次递表，巴奴IPO为何受阻？](https://www.tmtpost.com/8038070.html)
+**发布时间**: 2026-06-23 17:57
+
+#### [影石还能扛多久？](https://www.tmtpost.com/8038026.html)
+**发布时间**: 2026-06-23 17:57
+
+#### [为什么中档酒店赛道只跑出了亚朵？](https://www.tmtpost.com/8036543.html)
+**发布时间**: 2026-06-23 17:56
+
+#### [2026年，“AI新贵们”集体押注世界模型](https://www.tmtpost.com/8037833.html)
+**发布时间**: 2026-06-23 17:56
+
+#### [AI大厂开抢电影节编制](https://www.tmtpost.com/8037923.html)
+**发布时间**: 2026-06-23 17:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [人人都是 Builder 的时代，企业的真正挑战是“怎么管”？](https://www.infoq.cn/article/UXZBCoYhBRFN0WRLVR5x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 21:13
+
+#### [数据库到底该怎么选？TDSQL 用一套内核给出了三个答案](https://www.infoq.cn/article/aWFuheF4r0CGI5tor4VH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 19:32
+
+#### [拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷](https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 19:09
+
+#### [Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课](https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 19:04
+
+#### [主题征文｜跟鸿蒙一起迈入 Agent 时代，大展“鸿图”！](https://www.infoq.cn/article/p0LYKZdFku7y5BkSMNQN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 18:35
+
+#### [腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线](https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 17:46
+
+#### [使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码](https://www.infoq.cn/article/2yiUMe6JxKGXK61luSIJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-23 17:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
+**发布时间**: 2026-06-23 17:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 GitHub 有意思啊，Claude Code + Obsidian = 知识库王炸。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534782&idx=1&sn=68b619e09e4e00e7b1d78a925a778d3a)
+**发布时间**: 2026-06-23 13:08
 
 ---
 
