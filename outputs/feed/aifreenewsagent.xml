@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Jun 2026 08:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 08:25:04 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:16:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，Claude Code大升级！卡帕西：LLM第三次变革</title>
-      <link>https://www.qbitai.com/2026/06/437734.html</link>
-      <description>&lt;![CDATA[刚刚，Claude Code大升级！卡帕西：LLM第三次变革]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437734.html</guid>
+      <title>Thinking to recall: How reasoning unlocks parametric knowledge in LLMs</title>
+      <link>https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</link>
+      <description>&lt;![CDATA[Thinking to recall: How reasoning unlocks parametric knowledge in LLMs]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12</title>
-      <link>https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html</link>
-      <description>&lt;![CDATA[存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html</guid>
+      <title>1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器</title>
+      <link>https://www.qbitai.com/2026/06/438166.html</link>
+      <description>&lt;![CDATA[1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438166.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>物理AI第一块万亿市场，在公路货运先跑通闭环了</title>
-      <link>https://www.qbitai.com/2026/06/437853.html</link>
-      <description>&lt;![CDATA[物理AI第一块万亿市场，在公路货运先跑通闭环了]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437853.html</guid>
+      <title>别让 AI 碰生产环境！Reddit 火爆血泪贴，痛诉 AI 如何一刀切断数据库生命线</title>
+      <link>https://www.leiphone.com/category/yanxishe/oG2mZO3y4nGNbORu.html</link>
+      <description>&lt;![CDATA[别让 AI 碰生产环境！Reddit 火爆血泪贴，痛诉 AI 如何一刀切断数据库生命线]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/oG2mZO3y4nGNbORu.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能座舱之王「转身」物理AI，高通需要被重估了</title>
-      <link>https://www.qbitai.com/2026/06/432494.html</link>
-      <description>&lt;![CDATA[智能座舱之王「转身」物理AI，高通需要被重估了]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 00:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/432494.html</guid>
+      <title>Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel</title>
+      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
+      <description>&lt;![CDATA[Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施</title>
-      <link>https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html</link>
-      <description>&lt;![CDATA[独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html</guid>
+      <title>360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力</title>
+      <link>https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html</link>
+      <description>&lt;![CDATA[360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖</title>
-      <link>https://www.qbitai.com/2026/06/437833.html</link>
-      <description>&lt;![CDATA[华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437833.html</guid>
+      <title>世界模型混战，Momenta率先冲刺IPO</title>
+      <link>https://www.qbitai.com/2026/06/438179.html</link>
+      <description>&lt;![CDATA[世界模型混战，Momenta率先冲刺IPO]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438179.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA and AWS Collaborate to Bring AI to Production at Scale</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
-      <description>&lt;![CDATA[NVIDIA and AWS Collaborate to Bring AI to Production at Scale]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 00:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
+      <title>How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/</link>
+      <description>&lt;![CDATA[How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景</title>
-      <link>https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html</link>
-      <description>&lt;![CDATA[豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html</guid>
+      <title>Build a healthcare appointment agent with Amazon Nova 2 Sonic</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/</link>
+      <description>&lt;![CDATA[Build a healthcare appointment agent with Amazon Nova 2 Sonic]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>火山引擎下半年往哪发力？答案藏在这场Force大会里</title>
-      <link>https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html</link>
-      <description>&lt;![CDATA[火山引擎下半年往哪发力？答案藏在这场Force大会里]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 00:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/ZfxxMFp9Ad0A4EWq.html</guid>
+      <title>阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折</title>
+      <link>https://www.leiphone.com/category/industrynews/fnvQGe0cc0EAX1bK.html</link>
+      <description>&lt;![CDATA[阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fnvQGe0cc0EAX1bK.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划</title>
-      <link>https://www.qbitai.com/2026/06/437838.html</link>
-      <description>&lt;![CDATA[周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 03:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437838.html</guid>
+      <title>Huntington Bank: Redacting sensitive data from 400M+ documents with AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/</link>
+      <description>&lt;![CDATA[Huntington Bank: Redacting sensitive data from 400M+ documents with AWS]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/</guid>
       <category>Ai</category>
     </item>
   </channel>

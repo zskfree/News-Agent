@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Jun 2026 08:24:00 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 08:25:03 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 00:16:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:16:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>巨头打响Context之战，重构AI护城河</title>
-      <link>https://www.tmtpost.com/8038497.html</link>
-      <description>&lt;![CDATA[巨头打响Context之战，重构AI护城河]]&gt;</description>
+      <title>为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键</title>
+      <link>https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>洞见AI液冷时代：技术破局——从风冷极限到液冷革命</title>
+      <link>https://www.tmtpost.com/8038972.html</link>
+      <description>&lt;![CDATA[洞见AI液冷时代：技术破局——从风冷极限到液冷革命]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8038972.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯不当“AI老登”，微信Agent能否炸场？</title>
+      <link>https://www.tmtpost.com/8039400.html</link>
+      <description>&lt;![CDATA[腾讯不当“AI老登”，微信Agent能否炸场？]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8039400.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Anthropic 解释了 Claude 如何构建自己的执行框架</title>
+      <link>https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 解释了 Claude 如何构建自己的执行框架]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备</title>
+      <link>https://sspai.com/post/111223</link>
+      <description>&lt;![CDATA[DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111223</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作</title>
+      <link>https://www.tmtpost.com/8039810.html</link>
+      <description>&lt;![CDATA[【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8039810.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函</title>
+      <link>https://www.tmtpost.com/8039720.html</link>
+      <description>&lt;![CDATA[恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 20:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8039720.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战</title>
+      <link>https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战]]&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>字节告别大力出奇迹</title>
+      <link>https://www.tmtpost.com/8038450.html</link>
+      <description>&lt;![CDATA[字节告别大力出奇迹]]&gt;</description>
       <pubDate>Wed, 24 Jun 2026 15:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8038497.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8038450.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI电力系统演进，或将重塑算力竞争格局</title>
-      <link>https://www.tmtpost.com/8037739.html</link>
-      <description>&lt;![CDATA[AI电力系统演进，或将重塑算力竞争格局]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8037739.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>具身智能芯片，先卷疯了</title>
-      <link>https://www.tmtpost.com/8038367.html</link>
-      <description>&lt;![CDATA[具身智能芯片，先卷疯了]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8038367.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI太会写代码，人类已经审不过来了</title>
-      <link>https://www.tmtpost.com/8039261.html</link>
-      <description>&lt;![CDATA[AI太会写代码，人类已经审不过来了]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8039261.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI掀桌之后：整合型与模块化之争中，日本产业退守的八十年与新战线</title>
-      <link>https://www.tmtpost.com/8038396.html</link>
-      <description>&lt;![CDATA[AI掀桌之后：整合型与模块化之争中，日本产业退守的八十年与新战线]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8038396.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>算力荒，但Token却便宜了，智算云的账该怎么算？</title>
-      <link>https://www.tmtpost.com/8037464.html</link>
-      <description>&lt;![CDATA[算力荒，但Token却便宜了，智算云的账该怎么算？]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8037464.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布</title>
-      <link>https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布]]&gt;</description>
+      <title>机器人融资暴增，但没一分钱投给“普通人”</title>
+      <link>https://www.tmtpost.com/8038498.html</link>
+      <description>&lt;![CDATA[机器人融资暴增，但没一分钱投给“普通人”]]&gt;</description>
       <pubDate>Wed, 24 Jun 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架</title>
-      <link>https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>亚马逊云科技为ElastiCache for Valkey推出持久化存储选项</title>
-      <link>https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技为ElastiCache for Valkey推出持久化存储选项]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”</title>
-      <link>https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8038498.html</guid>
       <category>Technology</category>
     </item>
   </channel>

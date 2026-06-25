@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-24 08:24
+**最后更新时间**: 2026-06-25 00:16
+
+---
+
+## 🆕 最新更新 (2026-06-25 00:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作](https://www.tmtpost.com/8039810.html)
+**发布时间**: 2026-06-25 07:20
+
+#### [基金市场概况与资产配置观点（06.15—06.21）](https://www.tmtpost.com/8039806.html)
+**发布时间**: 2026-06-24 21:23
+
+#### [上市公司TOP5济安评估（6月15日至6月21日）｜上市公司观察](https://www.tmtpost.com/8039772.html)
+**发布时间**: 2026-06-24 21:02
+
+#### [价值判断：跌停板的投资机会和风险提示（6月23日）｜上市公司观察](https://www.tmtpost.com/8039777.html)
+**发布时间**: 2026-06-24 21:01
+
+#### [价值判断：涨停板的投资机会和风险提示（6月23日）｜上市公司观察](https://www.tmtpost.com/8039770.html)
+**发布时间**: 2026-06-24 21:01
+
+#### [价值维护：构建市值稳定与价值回归机制](https://www.tmtpost.com/8039767.html)
+**发布时间**: 2026-06-24 21:01
+
+#### [SEER Robotics Lists on the Hong Kong Stock Exchange, Becoming the First “Robot Brain” Stock](https://www.tmtpost.com/8039741.html)
+**发布时间**: 2026-06-24 20:47
+
+#### [恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函](https://www.tmtpost.com/8039720.html)
+**发布时间**: 2026-06-24 20:37
+
+#### [腾讯不当“AI老登”，微信Agent能否炸场？](https://www.tmtpost.com/8039400.html)
+**发布时间**: 2026-06-24 18:43
+
+#### [AI 开始替乙方写 PPT 之后，甲方发现自己也不知道要什么了](https://www.tmtpost.com/8038648.html)
+**发布时间**: 2026-06-24 18:43
+
+#### [洞见AI液冷时代：技术破局——从风冷极限到液冷革命](https://www.tmtpost.com/8038972.html)
+**发布时间**: 2026-06-24 18:43
+
+#### [买不起李蓓私募的投资人有福了](https://www.tmtpost.com/8038928.html)
+**发布时间**: 2026-06-24 18:43
+
+#### [茶饮集体卖冰淇淋：一场关于“时间”的暗战](https://www.tmtpost.com/8039136.html)
+**发布时间**: 2026-06-24 18:42
+
+#### [前额叶、ADHD等医学词汇频频出圈，谁在推动全民健康认知](https://www.tmtpost.com/8039285.html)
+**发布时间**: 2026-06-24 18:42
+
+#### [实测微信AI，15年前的预言如今实现了吗？](https://www.tmtpost.com/8039252.html)
+**发布时间**: 2026-06-24 18:42
+
+#### [豆包收费，AI助手退场](https://www.tmtpost.com/8039484.html)
+**发布时间**: 2026-06-24 18:42
+
+#### [中粮、中铁、中交开始抢物业的活干](https://www.tmtpost.com/8039394.html)
+**发布时间**: 2026-06-24 18:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub](https://www.infoq.cn/article/VGQNO8bH0sq4kFDb6B7H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 17:39
+
+#### [为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键](https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 17:22
+
+#### [Anthropic 解释了 Claude 如何构建自己的执行框架](https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 16:16
+
+#### [一文读懂，2026 中国峰会到底怎么逛？丨中国峰会](https://www.infoq.cn/article/HRRlDs5N4z8L0kDXF9w4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-24 09:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验](https://sspai.com/post/111289)
+**发布时间**: 2026-06-24 17:30
 
 ---
 

@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-24 08:25
+**最后更新时间**: 2026-06-25 00:16
+
+---
+
+## 🆕 最新更新 (2026-06-25 00:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US banks would lose $700bn in economic crash, Fed stress tests find](https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17)
+**发布时间**: 2026-06-24 23:49
+
+#### [Trump demands ‘loyalty’ from Nato allies and slams lack of support in Iran war](https://www.ft.com/content/39883d15-863b-4563-8b31-7e65102301cd)
+**发布时间**: 2026-06-24 23:03
+
+#### [White House seeks $88bn from Congress as Trump clashes with Republicans](https://www.ft.com/content/79af99ab-3d87-4b21-911d-021fb8aadd41)
+**发布时间**: 2026-06-24 22:44
+
+#### [Micron posts 15-fold profit surge as AI companies clamour for chips](https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a)
+**发布时间**: 2026-06-24 22:23
+
+#### [Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude](https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c)
+**发布时间**: 2026-06-24 21:36
+
+#### [Qualcomm reveals Meta as first Big Tech customer for data centre chips](https://www.ft.com/content/e9c2ef9c-856c-48cf-a47e-48a807519a2b)
+**发布时间**: 2026-06-24 21:23
+
+#### [Bitcoin hits 20-month low as market sentiment sours](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
+**发布时间**: 2026-06-24 19:37
+
+#### [Trump scraps signing of US housing affordability bill](https://www.ft.com/content/771adcdd-03e9-4c59-9bf1-49b3a52cc2bd)
+**发布时间**: 2026-06-24 18:28
+
+#### [Credible deterrence requires a new Nato bank](https://www.ft.com/content/cef7b1a9-1ccc-40bd-9e87-cca118a528a3)
+**发布时间**: 2026-06-24 16:28
+
+#### [Putin’s system is in a state of slow implosion](https://www.ft.com/content/93d36f56-d950-46ea-a20c-02cdb1a2e672)
+**发布时间**: 2026-06-24 13:24
+
+#### [Is this teenage girl North Korea’s next dictator?](https://www.ft.com/content/7c1a4a27-2212-46e1-96d8-92dabe4a087c)
+**发布时间**: 2026-06-24 09:11
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project](https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 23:47
+
+#### [A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?](https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 23:01
+
+#### [Gas prices aren’t falling fast enough for Trump. Here’s when drivers can expect more relief.](https://www.marketwatch.com/story/gas-prices-arent-falling-fast-enough-for-trump-heres-when-drivers-can-expect-more-relief-57db7038?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 22:57
+
+#### [‘I’m scared of making a huge financial mistake’: I gave my brother half of my $1.5 million home. Can he force me to sell?](https://www.marketwatch.com/story/im-scared-of-making-a-huge-financial-mistake-i-gave-my-brother-half-of-my-1-5-million-home-can-he-force-me-to-sell-1b112b73?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 22:30
+
+#### [Qualcomm’s stock is soaring as these big numbers excite Wall Street](https://www.marketwatch.com/story/qualcomms-stock-is-soaring-as-these-big-numbers-excite-wall-street-316d41f4?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 22:06
+
+#### [Cerebras’s stock sinks below IPO price in a major blow to early investors](https://www.marketwatch.com/story/cerebrass-stock-sinks-below-ipo-price-in-a-major-blow-to-early-investors-8a55f2ff?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 22:06
+
+#### [Did the Trump White House just give Warsh the green light to hike interest rates? This analyst thinks so.](https://www.marketwatch.com/story/did-the-trump-white-house-just-give-warsh-the-green-light-to-hike-interest-rates-this-analyst-thinks-so-f03b29fd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 21:28
+
+#### [Is Wendy’s the next meme stock? Everyday traders are trying to ‘save’ the fast-food chain.](https://www.marketwatch.com/story/is-wendys-the-next-meme-stock-everyday-traders-are-trying-to-save-the-fast-food-chain-15e38af0?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 21:22
+
+#### [Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance](https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 21:19
+
+#### [This solar stock is surging on the heels of a new Tesla deal](https://www.marketwatch.com/story/this-solar-stock-is-surging-on-the-heels-of-a-new-tesla-deal-efd2747d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-24 21:15
 
 ---
 
