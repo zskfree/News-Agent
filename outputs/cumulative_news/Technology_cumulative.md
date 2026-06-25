@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-25 00:16
+**最后更新时间**: 2026-06-25 08:25
+
+---
+
+## 🆕 最新更新 (2026-06-25 08:25)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 编程代理拥有了自己的 Stack Overflow](https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 16:00
+
+#### [覆盖百所高校、万名学员，360 ADE认证纳入工信部紧缺人才培养工程](https://www.infoq.cn/article/mgdwNU3yV3XgBrcfJvGv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 15:29
+
+#### [Coinbase 事后分析报告揭示：AWS 局部故障如何导致了持续数小时的交易中断](https://www.infoq.cn/article/tNJCNG5TP8JoZcY9A3MZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 13:35
+
+#### [三家公司一周内出手，编码 Agent 进入团队基础设施时代](https://www.infoq.cn/article/w4sl1mazwewiJ6Th2XqV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 12:50
+
+#### [这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍](https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 12:43
+
+#### [AI可以用任何手段、写任何东西，但你得是个“中年老登”](https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 12:12
+
+#### [PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能](https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 11:03
+
+#### [上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给](https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 10:00
+
+#### [Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle](https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 09:08
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华恒生物突陷实控人刑拘风波：H股聆讯两日折戟，一笔沉疴旧账的迟来反噬](https://www.tmtpost.com/8041110.html)
+**发布时间**: 2026-06-25 15:08
+
+#### [投资人的新尽调，从抖音开始](https://www.tmtpost.com/8040662.html)
+**发布时间**: 2026-06-25 14:38
+
+#### [谁是小红书世界杯与500亿美金盛宴的"燃料"？](https://www.tmtpost.com/8040702.html)
+**发布时间**: 2026-06-25 14:37
+
+#### [OpenAI博通联手发芯片，黄仁勋还能保持松弛吗？](https://www.tmtpost.com/8040671.html)
+**发布时间**: 2026-06-25 14:31
+
+#### [世界杯狂热，衣食住行都是生意](https://www.tmtpost.com/8040669.html)
+**发布时间**: 2026-06-25 14:26
+
+#### [对话火山引擎张鑫：Agent平台的主战场不在开发，在“用人”](https://www.tmtpost.com/8040210.html)
+**发布时间**: 2026-06-25 14:22
+
+#### [1800000亿Token背后：豆包跨过生产级质变点](https://www.tmtpost.com/8040655.html)
+**发布时间**: 2026-06-25 14:20
+
+#### [从15岁东北“倒爷”到港交所，这对四川夫妇身价超100亿元](https://www.tmtpost.com/8040623.html)
+**发布时间**: 2026-06-25 14:16
+
+#### [郑永刚的身后事：安徽模式下，负极龙头为何归于地方国资？](https://www.tmtpost.com/8039882.html)
+**发布时间**: 2026-06-25 14:07
+
+#### [“AI脸 生理性厌恶”热搜背后：预计220亿规模的AI漫剧市场迎来行业瓶颈](https://www.tmtpost.com/8032949.html)
+**发布时间**: 2026-06-25 14:01
+
+#### [剧集暑期档没有“爆款公式”，但有了更多“解题思路”](https://www.tmtpost.com/8040073.html)
+**发布时间**: 2026-06-25 13:59
+
+#### [六天连失四将：Google到底输在哪里？](https://www.tmtpost.com/8039999.html)
+**发布时间**: 2026-06-25 13:54
+
+#### [芯片大佬7.5亿入局张小泉，百年老字号控制权仍未尘埃落定](https://www.tmtpost.com/8040009.html)
+**发布时间**: 2026-06-25 13:54
+
+#### [拆解易立竞访谈：如何托举花几亿都扶不起的向佐](https://www.tmtpost.com/8039969.html)
+**发布时间**: 2026-06-25 13:51
+
+#### [美光：牛气冲天，“凄凉周期”要变“超级成长”？](https://www.tmtpost.com/8040622.html)
+**发布时间**: 2026-06-25 13:45
+
+#### [酱油、漫森、花笙弯道超车：AI剧漫剧正在凭借公众情绪突围破圈？](https://www.tmtpost.com/8040613.html)
+**发布时间**: 2026-06-25 13:38
+
+#### [可投可不投，我们就不投：一个 VC 穿越四个周期后的九年复盘](https://www.tmtpost.com/8040590.html)
+**发布时间**: 2026-06-25 13:34
+
+#### [看到万豪博选，我为啥想到了“中档酒店版OYO”？](https://www.tmtpost.com/8040479.html)
+**发布时间**: 2026-06-25 13:30
+
+#### [韩红为冯小刚《抓特务》要面子，急坏了大麦华谊阅文](https://www.tmtpost.com/8040245.html)
+**发布时间**: 2026-06-25 13:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
+**发布时间**: 2026-06-25 14:08
+
+#### [风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
+**发布时间**: 2026-06-25 11:02
+
+#### [派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
+**发布时间**: 2026-06-25 08:51
 
 ---
 

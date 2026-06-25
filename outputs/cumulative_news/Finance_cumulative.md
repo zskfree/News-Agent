@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-25 00:16
+**最后更新时间**: 2026-06-25 08:25
+
+---
+
+## 🆕 最新更新 (2026-06-25 08:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Burnham ‘extremely liberal’](https://www.ft.com/content/458bd1a7-cbb1-40cf-b5df-7e90ec767996)
+**发布时间**: 2026-06-25 07:33
+
+#### [Venezuelan earthquakes leave ‘devastating number of deaths’](https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1)
+**发布时间**: 2026-06-25 05:32
+
+#### [They think it’s oil over](https://www.ft.com/content/410bb8e5-dc93-459d-af41-bef7eeafdfc8)
+**发布时间**: 2026-06-25 05:30
+
+#### [Micron posts 15-fold profit surge in boost for global AI stocks](https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a)
+**发布时间**: 2026-06-25 04:54
+
+#### [South Korea delays plan for new single-stock options amid record volatility](https://www.ft.com/content/b08c7e63-aeae-4980-b681-6eea05be7114)
+**发布时间**: 2026-06-25 04:09
+
+#### [The future of TV: lots of choice, lots of hassle](https://www.ft.com/content/3b4e94c4-0ce8-421f-be85-41ae51e110a9)
+**发布时间**: 2026-06-25 04:00
+
+#### [What if ideas aren’t getting harder to find, after all?](https://www.ft.com/content/72b96cb4-15f3-4bfc-a0b7-dabc31bbe1fa)
+**发布时间**: 2026-06-25 04:00
+
+#### [Rome airports warn of summer ‘disaster’ unless EU border controls suspended](https://www.ft.com/content/808143bc-74e0-4423-998f-7e2c7faeeb3c)
+**发布时间**: 2026-06-25 04:00
+
+#### [Oil price back at prewar levels as Gulf flows pick up](https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719)
+**发布时间**: 2026-06-25 03:14
+
+#### [The reason China is building most of the world’s robots](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68)
+**发布时间**: 2026-06-25 00:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all](https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 02:55
+
+#### [Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock](https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 01:09
+
+#### [These hidden PCE inflation triggers could force a Fed rate hike — and shock the market](https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 01:06
+
+#### [Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.](https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 00:47
+
+#### [My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?](https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 00:45
+
+#### [I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?](https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 00:30
 
 ---
 
