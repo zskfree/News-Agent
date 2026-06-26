@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-25 08:25
+**最后更新时间**: 2026-06-26 00:13
+
+---
+
+## 🆕 最新更新 (2026-06-26 00:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [营收暴涨 3 倍、毛利逼近 85%：深读美光财报，存储行业翻身做主人](https://www.tmtpost.com/8041938.html)
+**发布时间**: 2026-06-26 08:08
+
+#### [三星不赚“辛苦钱”](https://www.tmtpost.com/8041646.html)
+**发布时间**: 2026-06-26 07:57
+
+#### [大厂终于不再逼用户“用AI”了](https://www.tmtpost.com/8041685.html)
+**发布时间**: 2026-06-26 07:57
+
+#### [美光财报背后，藏着一个AI转向的关键信号](https://www.tmtpost.com/8041648.html)
+**发布时间**: 2026-06-26 07:57
+
+#### [阿里练操作，Momenta 开真车，英伟达搭片场：三个"世界模型"根本不是一回事](https://www.tmtpost.com/8041939.html)
+**发布时间**: 2026-06-26 07:47
+
+#### [股价一年膝斩，老铺黄金从“明星”变“老登”](https://www.tmtpost.com/8041959.html)
+**发布时间**: 2026-06-26 07:47
+
+#### [文心升级、豆包收费，AI告别“唯流量论”](https://www.tmtpost.com/8041957.html)
+**发布时间**: 2026-06-26 07:47
+
+#### [Mac和iPad全线涨价，为什么iPhone没涨？](https://www.tmtpost.com/8042009.html)
+**发布时间**: 2026-06-26 07:47
+
+#### [AI高考志愿填报横评：免费午餐背后的入口之争](https://www.tmtpost.com/8041647.html)
+**发布时间**: 2026-06-26 07:46
+
+#### [【钛晨报】"十五五"能源规划出台：2030年非化石能源将成电量主体；IBM推出全球首款亚1纳米芯片技术；上交所半年报预约披露时间出炉，中船特气拔得头筹](https://www.tmtpost.com/8041868.html)
+**发布时间**: 2026-06-26 07:20
+
+#### [“必吃榜”十周年揭晓：真实食客“吃”出来的榜单，靠人与人的信任把地方美食文化推到全国](https://www.tmtpost.com/8041766.html)
+**发布时间**: 2026-06-25 22:05
+
+#### [不做整机做“大脑”，这家公司用营收数千万验证了一条差异化路径](https://www.tmtpost.com/8039901.html)
+**发布时间**: 2026-06-25 21:10
+
+#### [三个月融两轮，清华00后团队要给机器人“装上”触觉](https://www.tmtpost.com/8039662.html)
+**发布时间**: 2026-06-25 21:10
+
+#### [科望医药四闯港股：四年零融资，八年亏32亿仍无商业化产品｜IPO观察](https://www.tmtpost.com/8037967.html)
+**发布时间**: 2026-06-25 21:09
+
+#### [连续6天，每天11小时，8台机器人"进厂"的进化史](https://www.tmtpost.com/8039889.html)
+**发布时间**: 2026-06-25 21:09
+
+#### [返利科技刚摘帽就“卖身”，参保人数为0的真空设备商成新主](https://www.tmtpost.com/8041798.html)
+**发布时间**: 2026-06-25 21:08
+
+#### [信诺维：创始股东骨折价清仓，凯莱英入股后数亿研发订单集中落地｜IPO观察](https://www.tmtpost.com/8039271.html)
+**发布时间**: 2026-06-25 21:02
+
+#### [智谱万亿市值下，藏着什么？](https://www.tmtpost.com/8041206.html)
+**发布时间**: 2026-06-25 18:16
+
+#### [2026年，人形机器人关键零部件成本降了多少？](https://www.tmtpost.com/8041415.html)
+**发布时间**: 2026-06-25 18:16
+
+#### [一口气选三名董事长，安井食品告别刘鸣鸣时代](https://www.tmtpost.com/8041416.html)
+**发布时间**: 2026-06-25 18:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流](https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 19:06
+
+#### [AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制](https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 18:00
+
+#### [最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请](https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 17:04
+
+#### [Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了](https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 16:54
+
+#### [狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题](https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 16:50
+
+#### [途虎养车基于 Apache Doris 构建统一 OLAP 数据底座，支撑用户画像与 BI 多维分析](https://www.infoq.cn/article/QULg64hlN1FKcHNmb1wJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-25 16:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
+**发布时间**: 2026-06-25 18:49
+
+#### [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421)
+**发布时间**: 2026-06-25 15:40
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近这 4 个 GitHub 开源项目讨论较多，推荐一哈。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534791&idx=1&sn=4bd76595f21d621e9680fc0738bf1c83)
+**发布时间**: 2026-06-25 16:33
+
+#### [这个 2.1 万 Star 的 AI 工作流开源项目，有一波更新。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534784&idx=1&sn=da4ec9562147de22465cdc387d3770f1)
+**发布时间**: 2026-06-24 19:22
 
 ---
 

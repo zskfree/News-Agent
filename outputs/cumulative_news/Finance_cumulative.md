@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-25 08:25
+**最后更新时间**: 2026-06-26 00:13
+
+---
+
+## 🆕 最新更新 (2026-06-26 00:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Dimon upends succession race at JPMorgan again](https://www.ft.com/content/d289abbc-c6fd-431b-9c97-85ffa88853f6)
+**发布时间**: 2026-06-25 23:46
+
+#### [Venezuelans search for survivors after devastating earthquakes](https://www.ft.com/content/2cd60e15-2b30-48dd-9af1-faa68e4758c8)
+**发布时间**: 2026-06-25 23:33
+
+#### [Attack in Strait of Hormuz halts evacuation plan for stranded ships](https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c)
+**发布时间**: 2026-06-25 22:36
+
+#### [Apple increases MacBook and iPad prices by 20%](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c)
+**发布时间**: 2026-06-25 20:36
+
+#### [Micron shares jump as blockbuster results spark Wall Street tech shake-up](https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1)
+**发布时间**: 2026-06-25 20:23
+
+#### [Competition intensifies for Anthropic and OpenAI ahead of IPOs](https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8)
+**发布时间**: 2026-06-25 16:48
+
+#### [Bayer wins crucial US Supreme Court ruling over Roundup weedkiller](https://www.ft.com/content/4f87f951-a647-497a-90a6-bc28c14fe419)
+**发布时间**: 2026-06-25 16:05
+
+#### [Trump’s Iran deal is better than ongoing war](https://www.ft.com/content/6fdf9e75-2998-4e26-8e97-92635d6b34da)
+**发布时间**: 2026-06-25 15:30
+
+#### [Dimon promotes two potential successors at JPMorgan](https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23)
+**发布时间**: 2026-06-25 14:50
+
+#### [The ever weirder world of venture capital](https://www.ft.com/content/f56b8b59-930b-40f5-b4ad-99e34144afb2)
+**发布时间**: 2026-06-25 13:08
+
+#### [SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO](https://www.ft.com/content/40b0666b-8214-4162-a82b-d74ba464eabc)
+**发布时间**: 2026-06-25 11:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SpaceX stock is a terrible buy — what that actually means for the bull market](https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 23:12
+
+#### [A world rejecting OPEC controls could usher in oil below $50 a barrel](https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 22:29
+
+#### [The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.](https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 21:33
+
+#### [After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?](https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:54
+
+#### [Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending](https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:51
+
+#### [Japanese stocks are on fire. Here’s what’s driving the hot streak.](https://www.marketwatch.com/story/japanese-stocks-are-on-fire-heres-whats-driving-the-hot-streak-526a6914?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:48
+
+#### [Apple’s MacBooks and iPads are getting more expensive as the memory crunch deepens](https://www.marketwatch.com/story/apples-macbooks-and-ipads-are-getting-more-expensive-as-the-memory-crunch-deepens-ec6ae81d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:42
+
+#### [Can Qualcomm actually compete with Nvidia? Inside its bold data-center gamble.](https://www.marketwatch.com/story/can-qualcomm-actually-compete-with-nvidia-inside-its-bold-data-center-gamble-38ac48b3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:39
+
+#### [Micron has suddenly become one of the world’s most important stocks](https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories)
+**发布时间**: 2026-06-25 20:39
 
 ---
 

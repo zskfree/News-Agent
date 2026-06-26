@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Jun 2026 08:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 08:26:05 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 00:11:00 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:13:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码</title>
-      <link>https://www.qbitai.com/2026/06/438336.html</link>
-      <description>&lt;![CDATA[不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 04:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438336.html</guid>
+      <title>GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026</title>
+      <link>https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html</link>
+      <description>&lt;![CDATA[GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克悄悄改了战场：Grok Build 0.2.60 剑指 Agent Runtime</title>
-      <link>https://www.leiphone.com/category/ai/9NVnWMuqKHrViS35.html</link>
-      <description>&lt;![CDATA[马斯克悄悄改了战场：Grok Build 0.2.60 剑指 Agent Runtime]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/9NVnWMuqKHrViS35.html</guid>
+      <title>GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026</title>
+      <link>https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html</link>
+      <description>&lt;![CDATA[GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>7 年 Google 老兵写出爆款工具被开除，转头官方发同款？OpenClaw 之父下场抢人</title>
-      <link>https://www.leiphone.com/category/yanxishe/TYljaPgp8leEjNRY.html</link>
-      <description>&lt;![CDATA[7 年 Google 老兵写出爆款工具被开除，转头官方发同款？OpenClaw 之父下场抢人]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/TYljaPgp8leEjNRY.html</guid>
+      <title>Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/</link>
+      <description>&lt;![CDATA[Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了</title>
-      <link>https://www.qbitai.com/2026/06/438365.html</link>
-      <description>&lt;![CDATA[跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 07:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438365.html</guid>
+      <title>Building agentic AI applications with a modern data mesh strategy on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/</link>
+      <description>&lt;![CDATA[Building agentic AI applications with a modern data mesh strategy on AWS]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>赛那德SENAD完成 3 亿元 C 轮融资， 加速物理 AI 物流场景规模化落地</title>
-      <link>https://www.leiphone.com/category/industrynews/0EXFJiJBlvQ7Bi9w.html</link>
-      <description>&lt;![CDATA[赛那德SENAD完成 3 亿元 C 轮融资， 加速物理 AI 物流场景规模化落地]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/0EXFJiJBlvQ7Bi9w.html</guid>
+      <title>Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/</link>
+      <description>&lt;![CDATA[Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳</title>
-      <link>https://www.qbitai.com/2026/06/438297.html</link>
-      <description>&lt;![CDATA[聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 02:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438297.html</guid>
+      <title>Run a vLLM Server on HF Jobs in One Command</title>
+      <link>https://huggingface.co/blog/vllm-jobs</link>
+      <description>&lt;![CDATA[Run a vLLM Server on HF Jobs in One Command]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/vllm-jobs</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久</title>
-      <link>https://www.qbitai.com/2026/06/438351.html</link>
-      <description>&lt;![CDATA[马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 04:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438351.html</guid>
+      <title>这次是阿里！中国的大模型团队快被 Anthropic 告完了</title>
+      <link>https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html</link>
+      <description>&lt;![CDATA[这次是阿里！中国的大模型团队快被 Anthropic 告完了]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 23:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包收费版第一天，我：充值…又得充值？我要再充值！</title>
-      <link>https://www.qbitai.com/2026/06/438204.html</link>
-      <description>&lt;![CDATA[豆包收费版第一天，我：充值…又得充值？我要再充值！]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 00:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438204.html</guid>
+      <title>被遗忘十年的LPU翻红，一门新生意成立了吗？</title>
+      <link>https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html</link>
+      <description>&lt;![CDATA[被遗忘十年的LPU翻红，一门新生意成立了吗？]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度文心网站全面升级，功能矩阵再扩容</title>
-      <link>https://www.leiphone.com/category/industrynews/dHP54vx4BZ4KfRHp.html</link>
-      <description>&lt;![CDATA[百度文心网站全面升级，功能矩阵再扩容]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dHP54vx4BZ4KfRHp.html</guid>
+      <title>商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道</title>
+      <link>https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html</link>
+      <description>&lt;![CDATA[商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>淘宝出海推出服饰电子周刊 用&quot;明星同款&quot;接住全球消费者</title>
-      <link>https://www.leiphone.com/category/industrynews/lAhton8P4tClasBP.html</link>
-      <description>&lt;![CDATA[淘宝出海推出服饰电子周刊 用&quot;明星同款&quot;接住全球消费者]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/lAhton8P4tClasBP.html</guid>
+      <title>科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程</title>
+      <link>https://www.qbitai.com/2026/06/438638.html</link>
+      <description>&lt;![CDATA[科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438638.html</guid>
       <category>Ai</category>
     </item>
   </channel>

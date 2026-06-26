@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e5ed04384508a4cde4d206127225e5cbab01f8c94c32eeb41878badf5fbb1d75": {
-        "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
-        "link": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 26 May 2026 14:03:00 GMT",
-        "first_seen": "2026-05-26T08:34:27.764279"
-      },
-      "a9184fb7cc70b5596b755841a7de3b866024299f2929159841f221482ee33416": {
-        "title": "微软将弃用Claude：太贵了还是薅明白了？",
-        "link": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 26 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:27.764285"
-      },
-      "0b1e49a85245acd2dd03cceeaed117585a3720ea4e4db1ea29f8dbf90ff775ab": {
-        "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
-        "link": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 26 May 2026 16:24:00 GMT",
-        "first_seen": "2026-05-26T08:34:27.764288"
-      },
-      "6814511f242c9126b837f7d578b901a39b977014bb6eab068dd532ecaca0ae90": {
-        "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
-        "link": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 26 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:27.764290"
-      },
-      "9fa7ed55157c825699e76298c3bbd2e2b37b3313e1e8c9e77d6c924b88df3bd7": {
-        "title": "小米、比亚迪、蔚来下场造芯：中国半导体正打响一场\"企业战争\"",
-        "link": "https://www.tmtpost.com/8002842.html",
-        "published_date": "Tue, 26 May 2026 15:49:00 GMT",
-        "first_seen": "2026-05-26T08:34:27.764293"
-      },
-      "5171e0862cdcdbf4e955cb153fdfce2c49393aba4d11b9735d652f825a8a188c": {
-        "title": "从一张午餐桌到无限宇宙，李飞飞押注AI的下一个维度",
-        "link": "https://www.tmtpost.com/8001563.html",
-        "published_date": "Wed, 27 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.384803"
-      },
-      "eae663e51d6ae0046f974247f7a31147bf0797280055880537da3d4eb39a4e43": {
-        "title": "中国AI的东西战线——从延安到中途岛",
-        "link": "https://www.tmtpost.com/8002752.html",
-        "published_date": "Tue, 26 May 2026 18:01:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.384810"
-      },
-      "4742bee0e3d32939dc8e6c431981a5788a5fb6febca04a66e5979c86c59a9396": {
-        "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
-        "link": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 26 May 2026 18:01:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.384812"
-      },
-      "e6865ee9ad0aaf20b6b2a3088184061a670352cb26f82f808d6fc60f976e8f04": {
-        "title": "宇树科技IPO，从赚钱机器到“造脑运动”的一场豪赌",
-        "link": "https://www.tmtpost.com/8003035.html",
-        "published_date": "Tue, 26 May 2026 17:34:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.384814"
-      },
-      "395f4f68010930d8c355cf2c6eed34a48b6e7a8ff23ca874665fcc272d8ffd48": {
-        "title": "“死磕”鲲鹏昇腾生态的极客们，要搞点大事情",
-        "link": "https://www.tmtpost.com/8001466.html",
-        "published_date": "Tue, 26 May 2026 12:39:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.384815"
-      },
       "b9c22aa38a7b09a7e034a715c5e92caaff82820a01b624fd8f1e86ca1acf93f3": {
         "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
         "link": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
@@ -3661,69 +3601,69 @@
         "link": "https://www.tmtpost.com/8040622.html",
         "published_date": "Thu, 25 Jun 2026 13:45:00 GMT",
         "first_seen": "2026-06-25T08:26:02.218091"
+      },
+      "37bd059524997a3695b4c97f160a523853c169506be1eb43616423be69602916": {
+        "title": "美光财报背后，藏着一个AI转向的关键信号",
+        "link": "https://www.tmtpost.com/8041648.html",
+        "published_date": "Fri, 26 Jun 2026 07:57:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966088"
+      },
+      "2125a390cafb6e6142c28f38e981aaaf703603b8fb19e63dfa6044fba868af81": {
+        "title": "阿里练操作，Momenta 开真车，英伟达搭片场：三个\"世界模型\"根本不是一回事",
+        "link": "https://www.tmtpost.com/8041939.html",
+        "published_date": "Fri, 26 Jun 2026 07:47:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966100"
+      },
+      "0b031f087d0f40ed3bfa974c03b1820b93d4ddac0d209af09c6d6be1e40a5149": {
+        "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
+        "link": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 16:54:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966103"
+      },
+      "b1a1d7c8c76b97dd1c6e57a45955e4357b8f640d2745d36d59dc9292738ff211": {
+        "title": "AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
+        "link": "https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 18:00:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966105"
+      },
+      "24305080525712a565114f2c81b859c1e373f0631ecc83501ce4e015f3637db1": {
+        "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
+        "link": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 19:06:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966107"
+      },
+      "16e04c540751f25ce4176375d04a8eb6f71a6542a3cb3c22ca0f44a58436eeee": {
+        "title": "营收暴涨 3 倍、毛利逼近 85%：深读美光财报，存储行业翻身做主人",
+        "link": "https://www.tmtpost.com/8041938.html",
+        "published_date": "Fri, 26 Jun 2026 08:08:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966109"
+      },
+      "8abeb9587f76a1851ddb7221178067752ea198e9e1fb858fe763f0fabb9c545d": {
+        "title": "2026年，人形机器人关键零部件成本降了多少？",
+        "link": "https://www.tmtpost.com/8041415.html",
+        "published_date": "Thu, 25 Jun 2026 18:16:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966111"
+      },
+      "2e8f83369dd9b3997849b9a9eed1a1e9cbeac44e400d14ea17d8a3d27c77a04f": {
+        "title": "三个月融两轮，清华00后团队要给机器人“装上”触觉",
+        "link": "https://www.tmtpost.com/8039662.html",
+        "published_date": "Thu, 25 Jun 2026 21:10:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966113"
+      },
+      "1b34e644730440a02e8c7ed81ee757983d0b9ee13844ace1b00aabae4206dd3c": {
+        "title": "狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题",
+        "link": "https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 16:50:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966114"
+      },
+      "72278b2e33c98c81df25457bdf501d36159e166cb612af780d43dd1a9be6b2cb": {
+        "title": "【钛晨报】\"十五五\"能源规划出台：2030年非化石能源将成电量主体；IBM推出全球首款亚1纳米芯片技术；上交所半年报预约披露时间出炉，中船特气拔得头筹",
+        "link": "https://www.tmtpost.com/8041868.html",
+        "published_date": "Fri, 26 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-26T00:13:27.966116"
       }
     },
     "Finance": {
-      "5c7d9322cc5af7593e1e57e27def745f24b4bf4227a97c3a629ef897209e64a2": {
-        "title": "Deregulation hands top US and UK banks $1.3tn opening",
-        "link": "https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06",
-        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:02.038865"
-      },
-      "f48e13737b01bd08b2ebfc385dd4cebec3020b5b0b6e68f7ab8b03f55c46370c": {
-        "title": "Real wages start to shrink in developed countries",
-        "link": "https://www.ft.com/content/e126f744-3db9-4305-8871-31f83ebc4ed7",
-        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:02.038873"
-      },
-      "7c019265c385d52a1c54ccf2940404491240b7a3d79cb09afb1bca4495005272": {
-        "title": "US strikes Iranian missile sites as peace talks continue",
-        "link": "https://www.ft.com/content/eec48003-35a8-4932-bac0-573cdaade0e5",
-        "published_date": "Tue, 26 May 2026 06:28:00 GMT",
-        "first_seen": "2026-05-26T08:34:02.038875"
-      },
-      "160a672e574906543e6e37f1a8ffee72fc3e17eb78b7eb976bc5e4110b600b26": {
-        "title": "Apple has an innovation gap. Will its new CEO fill it?",
-        "link": "https://www.ft.com/content/d16f3ae6-8e27-4293-8bef-6bda7a9706d2",
-        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:02.038877"
-      },
-      "baa02e37c79de129978c705d4cd9089d9a9f33db98512339b3ccf8ae4e32b8e1": {
-        "title": "SpaceX to drive a Cybertruck through corporate governance norms",
-        "link": "https://www.ft.com/content/7f34d58b-da81-4778-bca1-7aa89b08afca",
-        "published_date": "Tue, 26 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-26T08:34:02.038879"
-      },
-      "7479019a0cd5b29e3689f40f59776807c08a4d6ecbcbd6ea94e8376619eb1950": {
-        "title": "Why double-digit earnings growth won’t stop the next bear market",
-        "link": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories",
-        "published_date": "Tue, 26 May 2026 21:01:00 GMT",
-        "first_seen": "2026-05-27T00:08:48.327554"
-      },
-      "0a935d06eda7c50372bb1ba778ef132501691d3766e9815594d8cd7e2db6fc51": {
-        "title": "The bond market has been rocked by a violent selloff. Here’s how to play it.",
-        "link": "https://www.marketwatch.com/story/where-to-invest-in-bonds-right-now-after-the-markets-violent-selloff-ccad2a26?mod=mw_rss_topstories",
-        "published_date": "Tue, 26 May 2026 21:04:00 GMT",
-        "first_seen": "2026-05-27T00:08:48.327564"
-      },
-      "22ce5c1c5f91ca988657e1133f7072aca5d3d26c2f8ff8c1b045ae5940e0c138": {
-        "title": "How a stock market ‘melt-up’ could carry the S&P 500 to 8,000 or beyond",
-        "link": "https://www.marketwatch.com/story/how-a-stock-market-melt-up-could-carry-the-s-p-500-to-8-000-or-beyond-b9b85619?mod=mw_rss_topstories",
-        "published_date": "Tue, 26 May 2026 21:55:00 GMT",
-        "first_seen": "2026-05-27T00:08:48.327568"
-      },
-      "5710bc95cc6cbebe2dc6d74a4b96a2413b166b389ffaa1b48d2e9d8ad9f06711": {
-        "title": "UK imposes sanctions on crypto exchange tied to billionaire Justin Sun",
-        "link": "https://www.ft.com/content/704c7605-e0ac-4ce1-b24b-ba85359a757f",
-        "published_date": "Tue, 26 May 2026 22:41:00 GMT",
-        "first_seen": "2026-05-27T00:08:48.327569"
-      },
-      "fcd1d04d3a082d6668b249dbfc57b829954c5d575bbc468971b04be3b539c306": {
-        "title": "Gen Z demands bigger bargains — driving gains for discount retailers like Walmart and Ross",
-        "link": "https://www.marketwatch.com/story/gen-z-demands-bigger-bargains-driving-gains-for-discounters-like-walmart-and-ross-377b20fd?mod=mw_rss_topstories",
-        "published_date": "Tue, 26 May 2026 21:35:00 GMT",
-        "first_seen": "2026-05-27T00:08:48.327572"
-      },
       "d95566574171df5813d3c03680bc787ec406d3eb700a1ca6c3e618936cd1bfd0": {
         "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth",
         "link": "https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c",
@@ -7023,51 +6963,69 @@
         "link": "https://www.ft.com/content/72b96cb4-15f3-4bfc-a0b7-dabc31bbe1fa",
         "published_date": "Thu, 25 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-25T08:26:03.364782"
+      },
+      "e567eeb52b6fb578ed195a632386a12e046ddb0a0bf8445d31ae4780478a152b": {
+        "title": "Micron shares jump as blockbuster results spark Wall Street tech shake-up",
+        "link": "https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1",
+        "published_date": "Thu, 25 Jun 2026 20:23:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274721"
+      },
+      "41cb9d489ac62a01d429cd2ccd18965bd5c941757a837a3be75c4630208d670c": {
+        "title": "Micron has suddenly become one of the world’s most important stocks",
+        "link": "https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 20:39:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274727"
+      },
+      "c26e8371c51f8968633e73738a974b8f0c93e6ed17f8ec893d400309eca7b87e": {
+        "title": "Can Qualcomm actually compete with Nvidia? Inside its bold data-center gamble.",
+        "link": "https://www.marketwatch.com/story/can-qualcomm-actually-compete-with-nvidia-inside-its-bold-data-center-gamble-38ac48b3?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 20:39:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274730"
+      },
+      "ddaf45c6ecec75117469d0b320e679d081c929ceaf8b0d41b1593e2b9f1e3c86": {
+        "title": "Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending",
+        "link": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 20:51:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274732"
+      },
+      "87896822121140b6beeb9f08e96133403e35750a14cf1daf0060e3d03ff83662": {
+        "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 21:33:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274734"
+      },
+      "df1fcf1462dd87a425a95fd152964c028c6d0adc1135ffafac901f0155ce697e": {
+        "title": "Japanese stocks are on fire. Here’s what’s driving the hot streak.",
+        "link": "https://www.marketwatch.com/story/japanese-stocks-are-on-fire-heres-whats-driving-the-hot-streak-526a6914?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 20:48:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274735"
+      },
+      "1a368c256988d8cd1ac85fa59140df0f1bb03d2ef999ec689898e92e525e11b0": {
+        "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
+        "link": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 22:29:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274737"
+      },
+      "44b15be834f8e8cd8ab71c9c4ea92b0a10b5286e1a56b3920140eabacdc67e10": {
+        "title": "SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO",
+        "link": "https://www.ft.com/content/40b0666b-8214-4162-a82b-d74ba464eabc",
+        "published_date": "Thu, 25 Jun 2026 11:29:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274739"
+      },
+      "bd89340ea66ed13f2a7d0a7be552063f8fd8105bf149ea29d5b59d59d10c5948": {
+        "title": "The ever weirder world of venture capital",
+        "link": "https://www.ft.com/content/f56b8b59-930b-40f5-b4ad-99e34144afb2",
+        "published_date": "Thu, 25 Jun 2026 13:08:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274740"
+      },
+      "42264df169fb8cddf71c8edf3e8fd991fb1c09a00f3e8b2de95e0236d42abc91": {
+        "title": "Dimon promotes two potential successors at JPMorgan",
+        "link": "https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23",
+        "published_date": "Thu, 25 Jun 2026 14:50:00 GMT",
+        "first_seen": "2026-06-26T00:13:29.274742"
       }
     },
     "Ai": {
-      "5cd232be69c9ff6add296ca8b809ab14b7118eb8ed5c18b0bf1849fc5fe8de95": {
-        "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
-        "link": "https://www.qbitai.com/2026/05/425150.html",
-        "published_date": "Tue, 26 May 2026 05:32:00 GMT",
-        "first_seen": "2026-05-26T08:34:43.520500"
-      },
-      "7075fa13dfa682e08fef751eae477a43758354ce89d55a420939b8b29eb6677b": {
-        "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
-        "link": "https://www.qbitai.com/2026/05/424851.html",
-        "published_date": "Tue, 26 May 2026 04:13:00 GMT",
-        "first_seen": "2026-05-26T08:34:43.520506"
-      },
-      "fed73ab56a1065d362f114ddb3ace0d21de3ee6a591b89d7403b87b3fed32963": {
-        "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
-        "link": "https://www.qbitai.com/2026/05/425296.html",
-        "published_date": "Tue, 26 May 2026 06:52:00 GMT",
-        "first_seen": "2026-05-26T08:34:43.520509"
-      },
-      "3b4b61493eab285f476b29731d54cf0a97e113f8f60adf5d822252b3b9d9fe36": {
-        "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
-        "link": "https://www.qbitai.com/2026/05/425058.html",
-        "published_date": "Tue, 26 May 2026 05:37:00 GMT",
-        "first_seen": "2026-05-26T08:34:43.520510"
-      },
-      "4ba7c834c9637eb9836b25d296b5d09de0cd9ec3c71c21e6e1081544989a8d3e": {
-        "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
-        "link": "https://www.qbitai.com/2026/05/425155.html",
-        "published_date": "Tue, 26 May 2026 05:50:00 GMT",
-        "first_seen": "2026-05-26T08:34:43.520512"
-      },
-      "f62759575287f45b64326c5278a3ad37360a1587648045489e66969eac87e27e": {
-        "title": "刚刚，国产AI自己造了AI，全球首例！",
-        "link": "https://www.qbitai.com/2026/05/425511.html",
-        "published_date": "Tue, 26 May 2026 08:46:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.495117"
-      },
-      "81f503e8ae5c5a5b4241bffa0c0d0ae985f97d5174984618ba18205866a71324": {
-        "title": "2026-05-26日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-26/",
-        "published_date": "Tue, 26 May 2026 10:45:00 GMT",
-        "first_seen": "2026-05-27T00:09:12.495126"
-      },
       "1f2f5ddfecd60f76e77337529930a86b2c7bc3babd919fb5503c6b59c35ab708": {
         "title": "2026-05-27日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-27/",
@@ -9809,13 +9767,73 @@
         "link": "https://www.leiphone.com/category/industrynews/lAhton8P4tClasBP.html",
         "published_date": "Thu, 25 Jun 2026 11:59:00 GMT",
         "first_seen": "2026-06-25T08:26:05.070992"
+      },
+      "bae2d2ce8b4133f3d06cbbce68e49ffd452d735c1cebe7ed47783284ec99c42b": {
+        "title": "GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026",
+        "link": "https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html",
+        "published_date": "Thu, 25 Jun 2026 14:45:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707822"
+      },
+      "23f560a3a183fbdda14fdbbf714db2c1f0e75c3e780c2f708725652a0c4a4487": {
+        "title": "GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026",
+        "link": "https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html",
+        "published_date": "Thu, 25 Jun 2026 14:42:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707833"
+      },
+      "a64ca59f4ee02c9a41d0896ab82d2e76c089f096bd9202afd3820cf352304da6": {
+        "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+        "published_date": "Thu, 25 Jun 2026 17:55:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707836"
+      },
+      "90f7a8f768fb536756f7f1e274d8e538e293342d649aebb62cd4e1cbdfbcadb6": {
+        "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/",
+        "published_date": "Thu, 25 Jun 2026 16:35:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707859"
+      },
+      "24728973ae6244c5a58db570d4fa757814b1e883f000c7564707dc12f890b457": {
+        "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+        "published_date": "Thu, 25 Jun 2026 16:41:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707862"
+      },
+      "af6715b125f6d4eb16c75a24eb146705e76bf33ddddcfff39891577946b99277": {
+        "title": "Run a vLLM Server on HF Jobs in One Command",
+        "link": "https://huggingface.co/blog/vllm-jobs",
+        "published_date": "Fri, 26 Jun 2026 00:00:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707864"
+      },
+      "374c15eaab7492069ab4df737ea2e0014f45c5da5bedd016c091bbe62d3b43e0": {
+        "title": "这次是阿里！中国的大模型团队快被 Anthropic 告完了",
+        "link": "https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html",
+        "published_date": "Thu, 25 Jun 2026 23:02:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707866"
+      },
+      "8b9b3efc5716f01be79ee270188390dee98769c4c9d38296d7f22a46ee4b2c9a": {
+        "title": "被遗忘十年的LPU翻红，一门新生意成立了吗？",
+        "link": "https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html",
+        "published_date": "Thu, 25 Jun 2026 17:45:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707868"
+      },
+      "4da461d296f46046bca02fcc98e977197178f519c34fcd45ff6421bcacf6a647": {
+        "title": "商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道",
+        "link": "https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html",
+        "published_date": "Thu, 25 Jun 2026 17:40:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707869"
+      },
+      "7060ac9304d40b17971e0ba02717c9be549200ae421cfcd05798888c6b7174e3": {
+        "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
+        "link": "https://www.qbitai.com/2026/06/438638.html",
+        "published_date": "Thu, 25 Jun 2026 08:32:00 GMT",
+        "first_seen": "2026-06-26T00:13:30.707871"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-25T08:26:02.218093",
-    "Finance": "2026-06-25T08:26:03.364784",
-    "Ai": "2026-06-25T08:26:05.070994"
+    "Technology": "2026-06-26T00:13:27.966118",
+    "Finance": "2026-06-26T00:13:29.274744",
+    "Ai": "2026-06-26T00:13:30.707873"
   }
 }
