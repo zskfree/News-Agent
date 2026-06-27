@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-27 00:11
+**最后更新时间**: 2026-06-27 07:50
+
+---
+
+## 🆕 最新更新 (2026-06-27 07:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Owner of car searched by police after Beijing tower plane crash identified](https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828)
+**发布时间**: 2026-06-27 04:53
+
+#### [Trump’s power is waning. But is Trumpism here to stay?](https://www.ft.com/content/47163aeb-07e0-4314-9488-13acb28b0f6b)
+**发布时间**: 2026-06-27 04:00
+
+#### [Abelardo de la Espriella, Colombia’s new Trumpian tiger](https://www.ft.com/content/ec1f4ef3-1a8d-41f1-9071-dd8dbbd10e71)
+**发布时间**: 2026-06-27 04:00
+
+#### [Shorts-wearers of the world, unite!](https://www.ft.com/content/74644e89-5b34-4bc2-8c1b-fce08b5ba3d4)
+**发布时间**: 2026-06-27 04:00
+
+#### [UK government split over new ‘golden visa’ scheme to woo super-rich](https://www.ft.com/content/7ec350b9-ba64-4dc5-bc0c-7719cae58dcd)
+**发布时间**: 2026-06-27 04:00
+
+#### [Argentina plots ‘golden passport’ scheme to pay down debts](https://www.ft.com/content/2f32bd0f-ea86-4ff6-858a-475f3ce8f6ad)
+**发布时间**: 2026-06-27 04:00
+
+#### [Apple seeks to buy memory chips from blacklisted Chinese company](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb)
+**发布时间**: 2026-06-27 02:17
+
+#### [Trump administration allows some access to Anthropic’s Mythos](https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573)
+**发布时间**: 2026-06-27 00:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. confirms retaliatory strike on Iran, pushing oil prices higher in after-hours trading](https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 21:50
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 00:09:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 00:11:41 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 07:50:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:50:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平</title>
-      <link>https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html</link>
-      <description>&lt;![CDATA[GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html</guid>
+      <title>重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻</title>
+      <link>https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html</link>
+      <description>&lt;![CDATA[重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 11:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构</title>
-      <link>https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html</link>
-      <description>&lt;![CDATA[RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html</guid>
+      <title>打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布</title>
+      <link>https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html</link>
+      <description>&lt;![CDATA[打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题</title>
-      <link>https://www.qbitai.com/2026/06/438701.html</link>
-      <description>&lt;![CDATA[让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 03:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438701.html</guid>
+      <title>微软年度AI职场报告：员工已经准备好了，公司还没有</title>
+      <link>https://www.qbitai.com/2026/06/439032.html</link>
+      <description>&lt;![CDATA[微软年度AI职场报告：员工已经准备好了，公司还没有]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 04:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439032.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>英伟达MoE新开源：一行import，微调加速3.7倍</title>
-      <link>https://www.qbitai.com/2026/06/438703.html</link>
-      <description>&lt;![CDATA[英伟达MoE新开源：一行import，微调加速3.7倍]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438703.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Gartner发布企业级AI Coding报告，阿里云入围挑战者象限</title>
-      <link>https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html</link>
-      <description>&lt;![CDATA[Gartner发布企业级AI Coding报告，阿里云入围挑战者象限]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地</title>
-      <link>https://www.qbitai.com/2026/06/438887.html</link>
-      <description>&lt;![CDATA[两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438887.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发</title>
-      <link>https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html</link>
-      <description>&lt;![CDATA[无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！</title>
-      <link>https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html</link>
-      <description>&lt;![CDATA[ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架</title>
-      <link>https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html</link>
-      <description>&lt;![CDATA[【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Production-grade AI agents for financial compliance: Lessons from Stripe</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/</link>
-      <description>&lt;![CDATA[Production-grade AI agents for financial compliance: Lessons from Stripe]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/</guid>
+      <title>GPT-5.6突然发布！Fable5痛失最强基模王座</title>
+      <link>https://www.qbitai.com/2026/06/438895.html</link>
+      <description>&lt;![CDATA[GPT-5.6突然发布！Fable5痛失最强基模王座]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 01:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438895.html</guid>
       <category>Ai</category>
     </item>
   </channel>
