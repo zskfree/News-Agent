@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-26 00:13
+**最后更新时间**: 2026-06-27 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-27 00:11)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [像玩剧本杀一样，玩好 Agentic AI](https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 22:21
+
+#### [Athena 联盟成立：以协同防御应对开源软件安全风险](https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 19:00
+
+#### [AI确实可以用任何手段、写任何东西，但你得是个“中年老登”](https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 18:18
+
+#### [API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验](https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 18:16
+
+#### [不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24小时自主巡逻执勤](https://www.infoq.cn/article/BvOA2HoC0d1IzKMZjsdy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 17:55
+
+#### [从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout](https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 17:29
+
+#### [谷歌正经历一场漫长的失血](https://www.infoq.cn/article/AKtLb52kbIfp68SkOHuU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 17:22
+
+#### [当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”](https://www.infoq.cn/article/s6TAS5JMIW1miPSqIsk0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 17:02
+
+#### [从拍摄素材到云端：Netflix规模化媒体处理流水线](https://www.infoq.cn/article/9JyfiCCqO2IWgXEubRKw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 15:00
+
+#### [AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了](https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 14:18
+
+#### [4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程](https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 14:15
+
+#### [VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击](https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 12:44
+
+#### [Fable 5还未解禁，Anthropic一纸诉状砸向Qwen，自家CEO却被白宫嫌“怪”踢出局！](https://www.infoq.cn/article/MVDrYfoCovqj6zBNxr9e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 11:12
+
+#### [两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”](https://www.infoq.cn/article/j1XdsvKMeFio6oyHGTkK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 11:01
+
+#### [轻量级ADR与架构咨询例会如何支撑架构决策工作](https://www.infoq.cn/article/jd3VGzLzCU67Cq2yWFGy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 10:30
+
+#### [云端 AI 治理：架构师实操指南](https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-26 09:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [DeepSeek Abandons ‘Lean AI’ Strategy as Funding Round Vaults Valuation Past $50 Billion](https://www.tmtpost.com/8043250.html)
+**发布时间**: 2026-06-26 20:58
+
+#### [10岁小学生，跟AI“聊”出了一款获奖游戏](https://www.tmtpost.com/8042620.html)
+**发布时间**: 2026-06-26 19:05
+
+#### [Token经济深水区，算力产业还有无数的坑要填](https://www.tmtpost.com/8042907.html)
+**发布时间**: 2026-06-26 18:31
+
+#### [观夏联名法国时装品牌Isabel Marant；波司登2025/26财年营收净利再创新高；PELLIOT成为2026青奥会高级合作伙伴｜消研所周报](https://www.tmtpost.com/8042830.html)
+**发布时间**: 2026-06-26 18:28
+
+#### [汾酒2026年中观察：调整期的战略选择与结构性看点](https://www.tmtpost.com/8042942.html)
+**发布时间**: 2026-06-26 18:17
+
+#### [纸尿裤、纸巾接连沦陷，婴儿卫生用品迎来“生死大考”](https://www.tmtpost.com/8042844.html)
+**发布时间**: 2026-06-26 18:07
+
+#### [字节与Anthropic打响AI制药暗战](https://www.tmtpost.com/8042870.html)
+**发布时间**: 2026-06-26 18:06
+
+#### [三年亏损超90亿元，Momenta需要更多安全感](https://www.tmtpost.com/8042803.html)
+**发布时间**: 2026-06-26 18:01
+
+#### [当苹果开始交 AI 税](https://www.tmtpost.com/8042827.html)
+**发布时间**: 2026-06-26 18:01
+
+#### [独家对话李勇：从抗VEGF到NVU时代，眼科创新药下一场革命已经开始](https://www.tmtpost.com/8042626.html)
+**发布时间**: 2026-06-26 18:01
+
+#### [OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活](https://www.tmtpost.com/8042826.html)
+**发布时间**: 2026-06-26 18:01
+
+#### [金价大跌，但金店没有迎来“好日子”](https://www.tmtpost.com/8042834.html)
+**发布时间**: 2026-06-26 18:01
+
+#### [智能硬件“真智能”时代，AI母婴智能产品要怎么做？](https://www.tmtpost.com/8042487.html)
+**发布时间**: 2026-06-26 17:23
+
+#### [招行新行长首秀，向市场传递了什么信号？](https://www.tmtpost.com/8042808.html)
+**发布时间**: 2026-06-26 16:54
+
+#### [对Anthropic贴脸开大：智谱GLM-5.2凭什么杀入世界编程三强？](https://www.tmtpost.com/8042293.html)
+**发布时间**: 2026-06-26 16:52
+
+#### [既生阿宝，何必阿福](https://www.tmtpost.com/8041763.html)
+**发布时间**: 2026-06-26 16:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
+**发布时间**: 2026-06-26 18:16
+
+#### [探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
+**发布时间**: 2026-06-26 16:29
+
+#### [空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
+**发布时间**: 2026-06-26 15:02
+
+#### [林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
+**发布时间**: 2026-06-26 11:29
+
+#### [派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
+**发布时间**: 2026-06-26 08:55
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534811&idx=1&sn=586f01a6bb405581f15dc216908fdc5d)
+**发布时间**: 2026-06-26 13:08
 
 ---
 

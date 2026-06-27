@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Jun 2026 00:11:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 00:13:30 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 00:09:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:11:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026</title>
-      <link>https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html</link>
-      <description>&lt;![CDATA[GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html</guid>
+      <title>GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平</title>
+      <link>https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html</link>
+      <description>&lt;![CDATA[GAIR Paper 107｜高校联合腾讯发布 GameCraft-Bench：AI已能端到端开发游戏，Claude Opus 四成达到可玩水平]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 11:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/Youopgc5vvNteXQS.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026</title>
-      <link>https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html</link>
-      <description>&lt;![CDATA[GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html</guid>
+      <title>RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构</title>
+      <link>https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html</link>
+      <description>&lt;![CDATA[RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/</link>
-      <description>&lt;![CDATA[Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/</guid>
+      <title>让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题</title>
+      <link>https://www.qbitai.com/2026/06/438701.html</link>
+      <description>&lt;![CDATA[让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 03:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438701.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building agentic AI applications with a modern data mesh strategy on AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/</link>
-      <description>&lt;![CDATA[Building agentic AI applications with a modern data mesh strategy on AWS]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/</guid>
+      <title>英伟达MoE新开源：一行import，微调加速3.7倍</title>
+      <link>https://www.qbitai.com/2026/06/438703.html</link>
+      <description>&lt;![CDATA[英伟达MoE新开源：一行import，微调加速3.7倍]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 03:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438703.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/</link>
-      <description>&lt;![CDATA[Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/</guid>
+      <title>Gartner发布企业级AI Coding报告，阿里云入围挑战者象限</title>
+      <link>https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html</link>
+      <description>&lt;![CDATA[Gartner发布企业级AI Coding报告，阿里云入围挑战者象限]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/67SmvNKmB2QcjyW4.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Run a vLLM Server on HF Jobs in One Command</title>
-      <link>https://huggingface.co/blog/vllm-jobs</link>
-      <description>&lt;![CDATA[Run a vLLM Server on HF Jobs in One Command]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/vllm-jobs</guid>
+      <title>两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地</title>
+      <link>https://www.qbitai.com/2026/06/438887.html</link>
+      <description>&lt;![CDATA[两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438887.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>这次是阿里！中国的大模型团队快被 Anthropic 告完了</title>
-      <link>https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html</link>
-      <description>&lt;![CDATA[这次是阿里！中国的大模型团队快被 Anthropic 告完了]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 23:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html</guid>
+      <title>无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发</title>
+      <link>https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html</link>
+      <description>&lt;![CDATA[无界动力完成超2亿美元天使轮融资，加速具身通用大脑与世界模型开发]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/R0KdLxNZMHJPM7yA.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>被遗忘十年的LPU翻红，一门新生意成立了吗？</title>
-      <link>https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html</link>
-      <description>&lt;![CDATA[被遗忘十年的LPU翻红，一门新生意成立了吗？]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html</guid>
+      <title>ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！</title>
+      <link>https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html</link>
+      <description>&lt;![CDATA[ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道</title>
-      <link>https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html</link>
-      <description>&lt;![CDATA[商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html</guid>
+      <title>【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架</title>
+      <link>https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html</link>
+      <description>&lt;![CDATA[【ICML 2026】刷新高光谱图像恢复任务SOTA!DAMP：面向高光谱影像恢复的退化感知度量提示框架]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 13:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/bdbSOKMZf2Nt5pbN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程</title>
-      <link>https://www.qbitai.com/2026/06/438638.html</link>
-      <description>&lt;![CDATA[科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438638.html</guid>
+      <title>Production-grade AI agents for financial compliance: Lessons from Stripe</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/</link>
+      <description>&lt;![CDATA[Production-grade AI agents for financial compliance: Lessons from Stripe]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/</guid>
       <category>Ai</category>
     </item>
   </channel>

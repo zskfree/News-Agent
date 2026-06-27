@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-26 00:13
+**最后更新时间**: 2026-06-27 00:11
+
+---
+
+## 🆕 最新更新 (2026-06-27 00:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US derivatives watchdog probes predictions market Polymarket](https://www.ft.com/content/fc145fc0-16e6-4240-8f63-35288f61a4f6)
+**发布时间**: 2026-06-26 22:30
+
+#### [US launches strikes on Iran after Tehran’s attack on container ship](https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae)
+**发布时间**: 2026-06-26 22:19
+
+#### [‘Tit-for-tat’ trade warfare threatens global economy, says IMF chief economist](https://www.ft.com/content/8199cd6d-e513-4c9a-9beb-8a7acd2b65dc)
+**发布时间**: 2026-06-26 21:59
+
+#### [SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal](https://www.ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c)
+**发布时间**: 2026-06-26 20:50
+
+#### [S&P 500 notches longest losing streak in 10 months as chipmakers slide](https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580)
+**发布时间**: 2026-06-26 20:24
+
+#### [Trump warns of 100% tariff on countries implementing digital services tax](https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e)
+**发布时间**: 2026-06-26 19:37
+
+#### [Congress targets Leon Black as he denies knowledge of Epstein’s ‘heinous conduct’](https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2)
+**发布时间**: 2026-06-26 17:35
+
+#### [The downsides of making $13tn of profit](https://www.ft.com/content/f37904c9-be75-479d-9fab-8c93b6480ec0)
+**发布时间**: 2026-06-26 16:00
+
+#### [Blackwater founder Erik Prince: Trump was ‘badly advised’ on Iran](https://www.ft.com/content/85e95551-5e3b-4888-87f2-f9a2cfd555fa)
+**发布时间**: 2026-06-26 11:33
+
+#### [Your summer holiday is a retirement killer](https://www.ft.com/content/50d18d45-b103-4f01-aff7-02083d532aed)
+**发布时间**: 2026-06-26 11:30
+
+#### [Donald Trump Jr set for Kalshi windfall after prediction platform gave him stake](https://www.ft.com/content/f70147b1-ee77-4d75-8587-707a49ddb605)
+**发布时间**: 2026-06-26 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens](https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 22:09
+
+#### [U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading](https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 21:50
+
+#### [Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.](https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 21:16
+
+#### [Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged](https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 21:06
+
+#### [SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy](https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 20:42
+
+#### [Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.](https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 20:38
+
+#### [Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.](https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 20:27
+
+#### [Healthcare stocks have become a haven for investors ditching tech](https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 20:25
 
 ---
 

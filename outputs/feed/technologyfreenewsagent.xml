@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Jun 2026 00:13:00 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 00:13:27 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 00:11:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:11:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美光财报背后，藏着一个AI转向的关键信号</title>
-      <link>https://www.tmtpost.com/8041648.html</link>
-      <description>&lt;![CDATA[美光财报背后，藏着一个AI转向的关键信号]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8041648.html</guid>
+      <title>从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout</title>
+      <link>https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里练操作，Momenta 开真车，英伟达搭片场：三个&quot;世界模型&quot;根本不是一回事</title>
-      <link>https://www.tmtpost.com/8041939.html</link>
-      <description>&lt;![CDATA[阿里练操作，Momenta 开真车，英伟达搭片场：三个&quot;世界模型&quot;根本不是一回事]]&gt;</description>
+      <title>当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”</title>
+      <link>https://www.infoq.cn/article/s6TAS5JMIW1miPSqIsk0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 Agent 成为新的核心云用户：阿里云重新定义“用云范式”]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/s6TAS5JMIW1miPSqIsk0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验</title>
+      <link>https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了</title>
+      <link>https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 设计9个月就能媲美Blackwell？OpenAI “辣芯”绕开英伟达正面战场，但老黄的GPU大盘不稳了]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CcT6wZSLyVcIAmSLM1l0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程</title>
+      <link>https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[4.5个月迁走1200个微服务：腾讯云参与印尼运营商云转型，AI开始接管迁移全流程]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TA7VPXQqYgTsu4Yl8qLa?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活</title>
+      <link>https://www.tmtpost.com/8042826.html</link>
+      <description>&lt;![CDATA[OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8042826.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d</link>
+      <description>&lt;![CDATA[GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>云端 AI 治理：架构师实操指南</title>
+      <link>https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[云端 AI 治理：架构师实操指南]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击</title>
+      <link>https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击]]&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>文心升级、豆包收费，AI告别“唯流量论”</title>
+      <link>https://www.tmtpost.com/8041957.html</link>
+      <description>&lt;![CDATA[文心升级、豆包收费，AI告别“唯流量论”]]&gt;</description>
       <pubDate>Fri, 26 Jun 2026 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8041939.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了</title>
-      <link>https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制</title>
-      <link>https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流</title>
-      <link>https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>营收暴涨 3 倍、毛利逼近 85%：深读美光财报，存储行业翻身做主人</title>
-      <link>https://www.tmtpost.com/8041938.html</link>
-      <description>&lt;![CDATA[营收暴涨 3 倍、毛利逼近 85%：深读美光财报，存储行业翻身做主人]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 08:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8041938.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2026年，人形机器人关键零部件成本降了多少？</title>
-      <link>https://www.tmtpost.com/8041415.html</link>
-      <description>&lt;![CDATA[2026年，人形机器人关键零部件成本降了多少？]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8041415.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>三个月融两轮，清华00后团队要给机器人“装上”触觉</title>
-      <link>https://www.tmtpost.com/8039662.html</link>
-      <description>&lt;![CDATA[三个月融两轮，清华00后团队要给机器人“装上”触觉]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8039662.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题</title>
-      <link>https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】&quot;十五五&quot;能源规划出台：2030年非化石能源将成电量主体；IBM推出全球首款亚1纳米芯片技术；上交所半年报预约披露时间出炉，中船特气拔得头筹</title>
-      <link>https://www.tmtpost.com/8041868.html</link>
-      <description>&lt;![CDATA[【钛晨报】&quot;十五五&quot;能源规划出台：2030年非化石能源将成电量主体；IBM推出全球首款亚1纳米芯片技术；上交所半年报预约披露时间出炉，中船特气拔得头筹]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8041868.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8041957.html</guid>
       <category>Technology</category>
     </item>
   </channel>
