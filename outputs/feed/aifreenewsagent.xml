@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 07:50:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 07:50:56 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 10:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:12:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻</title>
-      <link>https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html</link>
-      <description>&lt;![CDATA[重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布</title>
-      <link>https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html</link>
-      <description>&lt;![CDATA[打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>微软年度AI职场报告：员工已经准备好了，公司还没有</title>
-      <link>https://www.qbitai.com/2026/06/439032.html</link>
-      <description>&lt;![CDATA[微软年度AI职场报告：员工已经准备好了，公司还没有]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439032.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-5.6突然发布！Fable5痛失最强基模王座</title>
-      <link>https://www.qbitai.com/2026/06/438895.html</link>
-      <description>&lt;![CDATA[GPT-5.6突然发布！Fable5痛失最强基模王座]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 01:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/438895.html</guid>
+      <title>独家|美团王兴正面回应股价破发，复盘五年战略节奏得失</title>
+      <link>https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html</link>
+      <description>&lt;![CDATA[独家|美团王兴正面回应股价破发，复盘五年战略节奏得失]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html</guid>
       <category>Ai</category>
     </item>
   </channel>

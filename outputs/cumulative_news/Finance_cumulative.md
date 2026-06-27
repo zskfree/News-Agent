@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-27 07:50
+**最后更新时间**: 2026-06-27 10:12
+
+---
+
+## 🆕 最新更新 (2026-06-27 10:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches strikes on Iran after Tehran attacks container ship](https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae)
+**发布时间**: 2026-06-27 08:06
 
 ---
 

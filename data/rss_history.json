@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8a5243c805a130b988de0317a5e20a50a08355d58c88c987eac73ea6104945dc": {
-        "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-        "link": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:27:00 GMT",
-        "first_seen": "2026-05-28T08:45:26.303229"
-      },
-      "153b30cc25f49cc9b583113713c1cf7d92bac95db4d1035ea997739999785cb5": {
-        "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
-        "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:08:00 GMT",
-        "first_seen": "2026-05-28T08:45:26.303236"
-      },
-      "ee672e118e5ca529640133dfb9e5523075e1a0d85af491fecfb1f100c3e34f70": {
-        "title": "SK海力士市值突破1万亿美元，“逆天改命”终成存储之王",
-        "link": "https://www.tmtpost.com/8005753.html",
-        "published_date": "Thu, 28 May 2026 15:55:00 GMT",
-        "first_seen": "2026-05-28T08:45:26.303238"
-      },
-      "04843f93ad3d3cc4600900f5a3a50c9acc95acddd45468aec14266897cd07f88": {
-        "title": "市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司",
-        "link": "https://www.tmtpost.com/8003852.html",
-        "published_date": "Thu, 28 May 2026 13:58:00 GMT",
-        "first_seen": "2026-05-28T08:45:26.303239"
-      },
-      "97ff1a16249d43157eb2576d677cf170357490e1385b65db6386a428a1ebdf67": {
-        "title": "消费级机器人大爆发，我在今年看到的产业新变化",
-        "link": "https://www.tmtpost.com/8005755.html",
-        "published_date": "Thu, 28 May 2026 15:45:00 GMT",
-        "first_seen": "2026-05-28T08:45:26.303241"
-      },
-      "c96c8457185d661d2feac77c40b6edaaaa20e603154b8939b7484eae1c01aad5": {
-        "title": "Agent 能用，为什么还是不好用？",
-        "link": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:45:00 GMT",
-        "first_seen": "2026-05-28T10:05:41.071209"
-      },
-      "25ac1a5115ca738200baac0b66bd054fee59189227cf2c6a909dab5bc5ccb0a0": {
-        "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
-        "link": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:32:00 GMT",
-        "first_seen": "2026-05-28T10:05:41.071217"
-      },
-      "17cb7621da2bdab7eecd8d58d1097e4099213bbfcdc4309668d02b4583734510": {
-        "title": "昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央",
-        "link": "https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:25:00 GMT",
-        "first_seen": "2026-05-28T10:05:41.071219"
-      },
-      "44d308dfd352f8ca71a00648556eceb532d73887267f82690f8962aa562f4cfd": {
-        "title": "固体、煤油还是甲烷？中国商业火箭为何没有标准答案",
-        "link": "https://www.tmtpost.com/8005988.html",
-        "published_date": "Thu, 28 May 2026 17:30:00 GMT",
-        "first_seen": "2026-05-28T10:05:41.071221"
-      },
-      "3bb472361de273e63283ad290ef83310da936ea3570f90c223703cc662da9843": {
-        "title": "从PC到AI，联想中国一场必打的仗",
-        "link": "https://www.tmtpost.com/8004568.html",
-        "published_date": "Thu, 28 May 2026 13:34:00 GMT",
-        "first_seen": "2026-05-28T10:05:41.071222"
-      },
       "87848c7394405fb104be2db13e48dd5b3e1f66c3f63d153e2e26153a14fb6e7c": {
         "title": "在做Harness这件事上，DeepSeek更信搞量化的",
         "link": "https://www.tmtpost.com/8005695.html",
@@ -3721,69 +3661,69 @@
         "link": "https://www.tmtpost.com/8043436.html",
         "published_date": "Sat, 27 Jun 2026 10:08:00 GMT",
         "first_seen": "2026-06-27T07:50:56.228113"
+      },
+      "e6a9f8ade742c33d6d8ed66046bf7add56094382220a151a866eeaab08d0a186": {
+        "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
+        "link": "https://www.tmtpost.com/8043821.html",
+        "published_date": "Sat, 27 Jun 2026 16:44:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444721"
+      },
+      "dd094d82604d9c185b65c701f349b3d81b6b08988cb4f694d6da84c2a2bb1e7d": {
+        "title": "民企“上桌吃饭”？国新办发布会解读“十五五”能源规划，拆解未来五年能源投资到底要往哪里投",
+        "link": "https://www.tmtpost.com/8043664.html",
+        "published_date": "Sat, 27 Jun 2026 15:47:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444729"
+      },
+      "24147270256f275a67743f879c804e55b350929d9de983c8f98021b6465fea41": {
+        "title": "当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？",
+        "link": "https://www.tmtpost.com/8043721.html",
+        "published_date": "Sat, 27 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444732"
+      },
+      "92cd9db59857f7182cc271d8bb69a1b1a6f43e7a7d13533e36205449fcecdc04": {
+        "title": "GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨",
+        "link": "https://www.tmtpost.com/8043432.html",
+        "published_date": "Sat, 27 Jun 2026 09:45:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444733"
+      },
+      "59bc422b1dddac7881848178893eab38db850db035dfd525950612cad5cf6d93": {
+        "title": "豆包收费，张一鸣帮张小龙探路",
+        "link": "https://www.tmtpost.com/8043650.html",
+        "published_date": "Sat, 27 Jun 2026 16:09:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444735"
+      },
+      "558a5b14ece788a614fe40a64a4715d98e0c5817b5dbd76c181f1d68472ba099": {
+        "title": "文心整合网页入口，但已经不重要了",
+        "link": "https://www.tmtpost.com/8043196.html",
+        "published_date": "Sat, 27 Jun 2026 09:14:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444737"
+      },
+      "17e44f178eafa6efbdb8dc8226ede6d778bc2eecf09090c3e8816da9052de4f2": {
+        "title": "探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育",
+        "link": "https://www.tmtpost.com/8043613.html",
+        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444739"
+      },
+      "4536f62fb81144e141d4fe4d5b71106c7cdcd345e87f7597c35ebbc2c09f958d": {
+        "title": "销量1600万，半年玩家流失90%，腾讯能拯救这款今年火爆全球的撤离射击游戏吗？",
+        "link": "https://www.tmtpost.com/8043387.html",
+        "published_date": "Sat, 27 Jun 2026 09:07:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444741"
+      },
+      "f0bf877a313b8d9b28d55d565b7d30b77842670ff04645ec4613ae3128c3b5d1": {
+        "title": "高端新能源正在占领市场，但老问题还在",
+        "link": "https://www.tmtpost.com/8043657.html",
+        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444743"
+      },
+      "c02e064e07f1a211c65e215cb889f6443994d5f1cd5235a9854eb2dc5499b224": {
+        "title": "10 个本周 yyds 的 GitHub 开源项目，推荐给你。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534885&idx=1&sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f",
+        "published_date": "Sat, 27 Jun 2026 15:55:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.444744"
       }
     },
     "Finance": {
-      "330500cb2291d52bfc521a7e1790fbaa2608e89529fb495aef71020ab74d77de": {
-        "title": "Chip stocks race towards biggest gains since dotcom era on AI demand",
-        "link": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
-        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-28T08:45:43.414863"
-      },
-      "d1af28594dc77d4ad959e06f41d8fe516d728f7c04c3c22bec1fd8b73f929897": {
-        "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
-        "link": "https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149",
-        "published_date": "Thu, 28 May 2026 04:52:00 GMT",
-        "first_seen": "2026-05-28T08:45:43.414871"
-      },
-      "c4d784607811206cb219515b15a6e7e851b31e53c2368cbe834da7c6a70566ee": {
-        "title": "Nvidia chief Jensen Huang to join board at prestigious Beijing university",
-        "link": "https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e",
-        "published_date": "Thu, 28 May 2026 00:15:00 GMT",
-        "first_seen": "2026-05-28T08:45:43.414873"
-      },
-      "16b457734ed9d2922e2fbc535cd10ac6acf1fa0dbb6f180606980d1d52b7634b": {
-        "title": "Why Europe must embrace tariffs",
-        "link": "https://www.ft.com/content/98768d2d-d9dc-4344-971c-b6496c92a662",
-        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-28T08:45:43.414875"
-      },
-      "17aaa8d85a457b914a7715945e33303cc00ad6495081c0260e2c812d47085859": {
-        "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
-        "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 04:01:00 GMT",
-        "first_seen": "2026-05-28T08:45:43.414877"
-      },
-      "96688347621adefc68618d72eb0b61e234a4af5be71f462489d96ef2f3a4f456": {
-        "title": "‘I’m unsure of the best approach’: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?",
-        "link": "https://www.marketwatch.com/story/im-unsure-of-the-best-approach-my-father-91-is-in-hospice-care-he-left-his-six-children-cds-can-we-cash-out-72006059?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 09:45:00 GMT",
-        "first_seen": "2026-05-28T10:05:34.387683"
-      },
-      "31390ac74913731cf0382310c443c58eac9a89014b780ce5c6f4d635a0af5c67": {
-        "title": "Oil prices rise after fresh round of strikes between U.S. and Iran, pushing peace deal into doubt",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 09:39:00 GMT",
-        "first_seen": "2026-05-28T10:05:34.387695"
-      },
-      "3d6e2cc1c4f622257422e3369537ec13e8cba0acab3d7d9c91fd711eab8bead6": {
-        "title": "My golf buddy dropped me when I didn’t make him my financial adviser. Be careful who you trust.",
-        "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 09:31:00 GMT",
-        "first_seen": "2026-05-28T10:05:34.387697"
-      },
-      "87ce4bdc6ce15b7c018a518ac7f500911bdab9a53bcd62f5681c923788eaf8b1": {
-        "title": "‘Hunting Wives’ star Malin Akerman lists ‘idyllic California retreat’ in Hollywood Hills for $3 million",
-        "link": "https://www.marketwatch.com/story/hunting-wives-star-malin-akerman-lists-idyllic-california-retreat-in-hollywood-hills-for-3-million-c5216615?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 09:03:00 GMT",
-        "first_seen": "2026-05-28T10:05:34.387699"
-      },
-      "9ed863350936eadc02b040a2799c5ae433ccd78c5b4081da229462b0ae109057": {
-        "title": "Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on",
-        "link": "https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 08:51:00 GMT",
-        "first_seen": "2026-05-28T10:05:34.387701"
-      },
       "f7b192f91fbfd8f1995b4934e2354cdb8d61735d1c2ad9396f3d54e327c07504": {
         "title": "Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation",
         "link": "https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268",
@@ -7131,57 +7071,15 @@
         "link": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573",
         "published_date": "Sat, 27 Jun 2026 00:37:00 GMT",
         "first_seen": "2026-06-27T07:50:56.280579"
+      },
+      "51b027d15a16bf5b5894c9896187a049db2bb96f3fed70261bce3d1e1834c2d5": {
+        "title": "US launches strikes on Iran after Tehran attacks container ship",
+        "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
+        "published_date": "Sat, 27 Jun 2026 08:06:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.493432"
       }
     },
     "Ai": {
-      "8507f3670f27f0a8bd2c886757de4eb8d668993b64f5b0b5c34e96aec401a83b": {
-        "title": "2026-05-28日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-28/",
-        "published_date": "Thu, 28 May 2026 10:56:00 GMT",
-        "first_seen": "2026-05-28T08:45:03.279573"
-      },
-      "57e34e36b389454724b22efbeac8fa84bd08ca638eb1af0c58a4af3fb8425650": {
-        "title": "「斯隆奖」得主戴亮全职加盟复旦",
-        "link": "https://www.qbitai.com/2026/05/425959.html",
-        "published_date": "Thu, 28 May 2026 04:44:00 GMT",
-        "first_seen": "2026-05-28T08:45:03.279584"
-      },
-      "4833370299b63e47bccbbac00d80009d52e7832615bcd2628a8f348407f78cdb": {
-        "title": "清华有了新老师：黄仁勋",
-        "link": "https://www.qbitai.com/2026/05/425948.html",
-        "published_date": "Thu, 28 May 2026 04:39:00 GMT",
-        "first_seen": "2026-05-28T08:45:03.279587"
-      },
-      "9fd67a9350190e24a55e6eccf9a5449649ac08e9bfab8aa035c537c6483cc871": {
-        "title": "ICRA 2026 | 新加坡国立大学提出FD-VLA：力蒸馏视觉语言动作模型，攻克接触丰富操作",
-        "link": "https://www.leiphone.com/category/robot/Wl7iuuwSAZOjbwO2.html",
-        "published_date": "Thu, 28 May 2026 15:56:00 GMT",
-        "first_seen": "2026-05-28T10:05:42.420764"
-      },
-      "30ad0fb4258282213f3e0e43c95fe8730b4ccba75c1ad52341bbb8d50e8a7866": {
-        "title": "CVPR 2026 三维视觉趋势梳理：从 RGB 感知，到真实世界建模",
-        "link": "https://www.leiphone.com/category/ai/xHDeCJEI1hbTPC4i.html",
-        "published_date": "Thu, 28 May 2026 11:47:00 GMT",
-        "first_seen": "2026-05-28T10:05:42.420772"
-      },
-      "3f82b8a8d97f476218079ef1428e95adbd33463d38cfa253f0749b74ced3d3ea": {
-        "title": "CVPR 2026 医学影像 AI 趋势梳理：从看懂影像，到接管科研工作流",
-        "link": "https://www.leiphone.com/category/ai/JAUmva7bj5gy9aaC.html",
-        "published_date": "Thu, 28 May 2026 11:46:00 GMT",
-        "first_seen": "2026-05-28T10:05:42.420775"
-      },
-      "51f7a2c5b8a232060a71e4112766a6c83e2b201e51b0a2f691789008e127af17": {
-        "title": "ICRA 2026｜美团&北航提出LIBERO-X：五级递进测试揭示VLA模型鲁棒性短板",
-        "link": "https://www.leiphone.com/category/robot/P4T0UrCxD8UxGe0L.html",
-        "published_date": "Thu, 28 May 2026 15:42:00 GMT",
-        "first_seen": "2026-05-28T10:05:42.420776"
-      },
-      "ed7625c65933fe6a2105bcf88c5356357a5ba8aa3ffa1d26ffc07ecd0f593387": {
-        "title": "单芯片RGBD，物理AI视觉的未来",
-        "link": "https://www.leiphone.com/category/transportation/Zkm6jd8sMa88jfmx.html",
-        "published_date": "Thu, 28 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-28T10:05:42.420777"
-      },
       "9911c180f0cdd43822900fe1c43568f89f45babd7d7afdb0302bf5e4db264df0": {
         "title": "ICRA 2026 | 神经衰减机制提升灵巧手精细抓握：双阶段深度预测学习TaSA框架，插入任务成功率翻倍",
         "link": "https://www.leiphone.com/category/robot/elUAi7zlIgwRouSk.html",
@@ -9971,13 +9869,19 @@
         "link": "https://www.qbitai.com/2026/06/438895.html",
         "published_date": "Sat, 27 Jun 2026 01:53:00 GMT",
         "first_seen": "2026-06-27T07:50:56.407836"
+      },
+      "8def608e019879b73386ba12f9cac830132db5f156bad1bf66a044d95cfc4d47": {
+        "title": "独家|美团王兴正面回应股价破发，复盘五年战略节奏得失",
+        "link": "https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html",
+        "published_date": "Sat, 27 Jun 2026 14:56:00 GMT",
+        "first_seen": "2026-06-27T10:12:41.620636"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-27T07:50:56.228114",
-    "Finance": "2026-06-27T07:50:56.280582",
-    "Ai": "2026-06-27T07:50:56.407838"
+    "Technology": "2026-06-27T10:12:41.444746",
+    "Finance": "2026-06-27T10:12:41.493438",
+    "Ai": "2026-06-27T10:12:41.620644"
   }
 }
