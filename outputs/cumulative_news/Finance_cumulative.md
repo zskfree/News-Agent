@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-27 10:12
+**最后更新时间**: 2026-06-28 00:07
+
+---
+
+## 🆕 最新更新 (2026-06-28 00:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US carries out second day of strikes against Iran](https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0)
+**发布时间**: 2026-06-27 23:48
+
+#### [Javier Milei’s top aide resigns over corruption scandal in Argentina](https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191)
+**发布时间**: 2026-06-27 22:22
+
+#### [Venezuela earthquake death toll climbs amid anger over slow response](https://www.ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1)
+**发布时间**: 2026-06-27 20:31
+
+#### [UK’s Bridgepoint nears deal to buy real estate unit in bet on US property](https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48)
+**发布时间**: 2026-06-27 20:00
+
+#### [New York’s socialist insurgency raises alarm among anxious Democrats](https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7)
+**发布时间**: 2026-06-27 11:00
+
+#### [QuidelOrtho looks to sell testing unit as PE circles healthcare companies](https://www.ft.com/content/404f832c-89cf-49f7-a546-b0e4eb965f15)
+**发布时间**: 2026-06-27 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Americans’ 401(k) balances hit record levels last year. See how you compare.](https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?](https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.](https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here’s what they need to know.](https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Germany is considering raising its retirement age to 70. Could the U.S. follow?](https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Take a cue from the rich: Do a midyear financial check-in](https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’](https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity](https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
+
+#### [Annuities are coming to more 401(k) plans. Should workers embrace them?](https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-27 19:30
 
 ---
 

@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "87848c7394405fb104be2db13e48dd5b3e1f66c3f63d153e2e26153a14fb6e7c": {
-        "title": "在做Harness这件事上，DeepSeek更信搞量化的",
-        "link": "https://www.tmtpost.com/8005695.html",
-        "published_date": "Thu, 28 May 2026 16:22:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338179"
-      },
-      "cdbdcbd7aaf5ceacc25d60e6040010b117a4d9620bd01ab6afe1abbfb3c252b7": {
-        "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:46:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338186"
-      },
-      "bdad0c868faa51f7643d216f53acde9f7e8f50fa4c1c6c16ce5307a945ce8851": {
-        "title": "Azure Logic Apps 为智能体工作流新增沙箱化代码解释器",
-        "link": "https://www.infoq.cn/article/f5Fcj4Ho2dx8ZxhezBvV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:00:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338188"
-      },
-      "e9d96dce37cf2bd2f7bf35725b0ee9bd81ddad9418e09e28d8b6c6d819b10391": {
-        "title": "推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534105&idx=1&sn=dd39c1fa41782f732bbfcd129e1d135e",
-        "published_date": "Thu, 28 May 2026 12:14:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338190"
-      },
-      "fdd6cd19bd9b954b6baa7225f886773da4d7c74762a22a6456e1dd48490c66f9": {
-        "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
-        "link": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:41:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338191"
-      },
-      "4d5041e4a2c693dcb9dcf83b6e03170176b655007a190d9b6f138159b8b435a8": {
-        "title": "从零手搓 AI Agent，我学到了什么？",
-        "link": "https://sspai.com/post/110370",
-        "published_date": "Thu, 28 May 2026 15:00:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338193"
-      },
-      "74b80555e408b9090fb6d1b33c06ee2e32c222c42b8abd6281191d2f37aac775": {
-        "title": "AI耳机卷生卷死，为何巨头都想占领你的耳朵？​",
-        "link": "https://www.tmtpost.com/8005791.html",
-        "published_date": "Thu, 28 May 2026 15:45:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338194"
-      },
-      "157c5c41d04e6210026234ca67f994239207775192781d4c81b235624618c13b": {
-        "title": "瑞士工程科技企业Algorized研发人体感知边缘AI模型，确保人机安全协作 | 瑞士创新100强",
-        "link": "https://www.tmtpost.com/8005534.html",
-        "published_date": "Thu, 28 May 2026 13:19:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338196"
-      },
-      "0b8e1b0d7c0c8f2bea96cc0b81675fcdb48b605358445f497724ce055efc5bfa": {
-        "title": "AI短剧，正在抢走全球游戏用户",
-        "link": "https://www.tmtpost.com/8003850.html",
-        "published_date": "Thu, 28 May 2026 13:42:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338197"
-      },
-      "03cd2ab36b05c8733396de7c22fb747a02b62895015892339a275f059ab57616": {
-        "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
-        "link": "https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:08:00 GMT",
-        "first_seen": "2026-05-28T10:22:15.338199"
-      },
       "4fb6b1b42e1ec827afc819b00f7eb557654026d167aadf9603ea8435955ab286": {
         "title": "【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元",
         "link": "https://www.tmtpost.com/8006406.html",
@@ -3721,6 +3661,48 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534885&idx=1&sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f",
         "published_date": "Sat, 27 Jun 2026 15:55:00 GMT",
         "first_seen": "2026-06-27T10:12:41.444744"
+      },
+      "adf0742449bcd62a2878129898542dd939dac34924b5cfd7d9c84a2a2e7c440b": {
+        "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+        "link": "https://sspai.com/post/111347",
+        "published_date": "Sat, 27 Jun 2026 19:36:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628530"
+      },
+      "3b2caed583fc15411554dd09134b6951dc89ac85f04f78aeb6ba2c85c1e6ce3c": {
+        "title": "GPT-5.6：最强的模型，最窄的门",
+        "link": "https://www.tmtpost.com/8043420.html",
+        "published_date": "Sat, 27 Jun 2026 17:41:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628539"
+      },
+      "a06cb3d0b0cfa54cbc241a2b8087ea0e9ebcae3eda0e9feaf49cbe6dc600777f": {
+        "title": "“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单",
+        "link": "https://www.tmtpost.com/8043666.html",
+        "published_date": "Sat, 27 Jun 2026 16:25:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628542"
+      },
+      "e118a917b53fa7a3faf181f3b9265def2e1d8ec5ff96ab13e9e9b6ebac720314": {
+        "title": "不靠海，不沿边，郑州靠什么造出一座汽车城？",
+        "link": "https://www.tmtpost.com/8043656.html",
+        "published_date": "Sat, 27 Jun 2026 16:01:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628544"
+      },
+      "75549f0f0cf8746e1433c5bc741627adb38604701e4184d1580d1b8e5b97587c": {
+        "title": "AI高考志愿填报避雷指南",
+        "link": "https://www.tmtpost.com/8043710.html",
+        "published_date": "Sat, 27 Jun 2026 15:54:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628545"
+      },
+      "ec39c2879f98c3a277081610266e8b0c281f87ce3604a2a19598827b219cff42": {
+        "title": "Wendy's 老家都卖不动了，进入中国还有戏吗？",
+        "link": "https://www.tmtpost.com/8043648.html",
+        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628546"
+      },
+      "da159ae26f46be005dccdf56222f866cee450976e2083158c7a737aed3a5fb91": {
+        "title": "信心、创新、根基，三维度拆解五粮液股东会传递的信心",
+        "link": "https://www.tmtpost.com/8043684.html",
+        "published_date": "Sat, 27 Jun 2026 12:29:00 GMT",
+        "first_seen": "2026-06-28T00:07:25.628548"
       }
     },
     "Finance": {
@@ -7077,69 +7059,69 @@
         "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
         "published_date": "Sat, 27 Jun 2026 08:06:00 GMT",
         "first_seen": "2026-06-27T10:12:41.493432"
+      },
+      "5c5b391f55fc7f4888e4c8801e1afe4ca37d545fd147ca696a4b6b677e059711": {
+        "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
+        "link": "https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
+        "published_date": "Sat, 27 Jun 2026 20:00:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715979"
+      },
+      "f292767c7795a275d190d10ca9f3e4833b6846055e0acbd1e8d1675a26218e15": {
+        "title": "A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’",
+        "link": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715985"
+      },
+      "972c4e1200713a88f1dd909156cfa8f8ad10032e2a32d7d193481e4b8674befe": {
+        "title": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
+        "link": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715987"
+      },
+      "4b20ad1c0ed5fd9ce3bdd35793e75553202dc09cd3040a2455b69b0a1fbaa18e": {
+        "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
+        "link": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715989"
+      },
+      "ffbbe8167066eb7e6ef53328b19ee1ce0255fc2d23e6195572f5288e3c0f071c": {
+        "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+        "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715992"
+      },
+      "dc0142e36fd3dc46b8670d197d505f8ea71dc2d1bc06c5d71ba991cdac208ea2": {
+        "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+        "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715994"
+      },
+      "c4b8a41cea66c2a062c89612f16af215f938a58aa06f10d1e3a1a8f59e35eaf2": {
+        "title": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here’s what they need to know.",
+        "link": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715996"
+      },
+      "977143ee53a0490115c694f83db17099beb74b180a84e72409c01855a2fa5bff": {
+        "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
+        "link": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715997"
+      },
+      "80578abee06abfdd633db56d0b16a9fc538308bebbc932e5a503334dfd4838a5": {
+        "title": "Take a cue from the rich: Do a midyear financial check-in",
+        "link": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.715999"
+      },
+      "4ac0e839472b7e0d8e5f9894a9ca72d653334437ae7fb8502b3b96c8fd7e64d6": {
+        "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+        "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
+        "published_date": "Sat, 27 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.716001"
       }
     },
     "Ai": {
-      "9911c180f0cdd43822900fe1c43568f89f45babd7d7afdb0302bf5e4db264df0": {
-        "title": "ICRA 2026 | 神经衰减机制提升灵巧手精细抓握：双阶段深度预测学习TaSA框架，插入任务成功率翻倍",
-        "link": "https://www.leiphone.com/category/robot/elUAi7zlIgwRouSk.html",
-        "published_date": "Thu, 28 May 2026 15:14:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102125"
-      },
-      "b5a5051b2721a69bedbc06954ec7c9952b72145d7ed898e667265ecc4b066b10": {
-        "title": "ICRA 2026｜同济&港中文：建造者机器人拼装异构模块，退火MPPI实现即插即用控制",
-        "link": "https://www.leiphone.com/category/robot/gebd23P5dxua61rn.html",
-        "published_date": "Thu, 28 May 2026 15:27:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102133"
-      },
-      "53ffebda0790a1b1a410f1cff62387b75223479b1929b73a8a957ba1dab52065": {
-        "title": "ICRA 2026｜Depth Completion模型，低成本雷达突破野外度量深度估算",
-        "link": "https://www.leiphone.com/category/robot/QioxDCNmbPwRJbJ7.html",
-        "published_date": "Thu, 28 May 2026 14:59:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102136"
-      },
-      "f69e12244b092b823e791b63ab5cc8ee2ab22744eaf0f31e4703df143cf94577": {
-        "title": "ASR、TTS、Chat均为第一，阿里语音大模型拿下“大满贯”",
-        "link": "https://www.leiphone.com/category/industrynews/xPfBcQv2dyfnqN37.html",
-        "published_date": "Thu, 28 May 2026 11:21:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102138"
-      },
-      "d6ec806803a6e18f5c8694ce5f8a8a1f19a2a126e5aba02b842c73e5dd9aa3db": {
-        "title": "清程极智：Token成为AI时代的 “水电煤”，中国AI产业从能用迈向好用",
-        "link": "https://www.leiphone.com/category/ai/X01gR8Kdtxo8KiU5.html",
-        "published_date": "Thu, 28 May 2026 11:40:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102140"
-      },
-      "fa3d8271dfc6ec6ab796de25fbccfbfe1fae7a332a3f0eb947a8f4111237700a": {
-        "title": "金融+AI的奇点时刻，阿里云要“点”石成“金”",
-        "link": "https://www.leiphone.com/category/industrynews/L2U4PzqRHwnmEhyv.html",
-        "published_date": "Thu, 28 May 2026 11:20:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102141"
-      },
-      "c23c8f77e28e153910152db0d3716d9d8fff0dcc07d2a795009bf3debcb7882a": {
-        "title": "ICRA 2026倒计时4天| 佐治亚理工“天团”领衔，丰田算法引爆全网，灵巧操作赛道白热化",
-        "link": "https://www.leiphone.com/category/robot/VOP0F7JuqsE3SIOE.html",
-        "published_date": "Thu, 28 May 2026 14:35:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102143"
-      },
-      "c9639db2ef74197a73d6ce79783a6dd406b77a0b6baa298589839fa4655257ac": {
-        "title": "独家｜许鹏出任连尚集团首席执行官 加速AI战略纵深突破",
-        "link": "https://www.leiphone.com/category/ai/1BLuBSDttjoOuLwx.html",
-        "published_date": "Thu, 28 May 2026 11:27:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102145"
-      },
-      "9396ce9d21d1b2020c9d8dedb55e7d41e93ee76446c2a23ed66603a56c2d9fce": {
-        "title": "极狐问道V9上市，卓驭首款MPV正式登场",
-        "link": "https://www.leiphone.com/category/industrynews/ldZHEzoiA2tKrNne.html",
-        "published_date": "Thu, 28 May 2026 12:02:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102146"
-      },
-      "d9334ceef366d38af6c58b7283b3ebb0561b224295f0e27ce7398ad470f02409": {
-        "title": "官宣成为世界杯持权转播商，小红书加速打造“社区的社区”",
-        "link": "https://www.leiphone.com/category/industrynews/AhOa4hu37MBw3iUq.html",
-        "published_date": "Thu, 28 May 2026 10:42:00 GMT",
-        "first_seen": "2026-05-28T10:22:14.102148"
-      },
       "b45acb833b1d5c950f0604912843db1367e921032cf6e17637bd361cb100e907": {
         "title": "ICRA 2026 | 李飞飞团队：软物体移动操作新解法，“从刚到柔”的关键一步",
         "link": "https://www.leiphone.com/category/robot/sfkY58PVaS2MHomp.html",
@@ -9875,13 +9857,43 @@
         "link": "https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html",
         "published_date": "Sat, 27 Jun 2026 14:56:00 GMT",
         "first_seen": "2026-06-27T10:12:41.620636"
+      },
+      "8776c7a89f7b8920cc29ad3978a2ef5d879f3d9586b7068f4c1ad11ac9bc3e99": {
+        "title": "安全预警系统，看不见的滴滴「基建」",
+        "link": "https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html",
+        "published_date": "Sun, 28 Jun 2026 00:54:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.840911"
+      },
+      "04643030642954d8bd7872285ebe1d9be05ec7d00e2b43264b5f934b1493ef44": {
+        "title": "vivo“再造”折叠屏",
+        "link": "https://www.leiphone.com/category/weiwu/xwKJa2OJ5xsHkTRs.html",
+        "published_date": "Sat, 27 Jun 2026 21:33:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.840919"
+      },
+      "9287eb7ef64131642992102586b3e17e5d0116de52e0ebe456502e2193e49c13": {
+        "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+        "link": "https://www.qbitai.com/2026/06/439393.html",
+        "published_date": "Sat, 27 Jun 2026 12:29:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.840921"
+      },
+      "a1b7108f3cd34b872753a9186eef52eb040719ebef3b99d81cdada4d3ec33043": {
+        "title": "第一批一人公司，现在怎么样了？",
+        "link": "https://www.qbitai.com/2026/06/439237.html",
+        "published_date": "Sat, 27 Jun 2026 12:23:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.840923"
+      },
+      "313c0688e807926655b747390d3ce48caa959a4fc5911ec042da5ce39a44da32": {
+        "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+        "link": "https://www.qbitai.com/2026/06/439236.html",
+        "published_date": "Sat, 27 Jun 2026 12:19:00 GMT",
+        "first_seen": "2026-06-28T00:07:30.840925"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-27T10:12:41.444746",
-    "Finance": "2026-06-27T10:12:41.493438",
-    "Ai": "2026-06-27T10:12:41.620644"
+    "Technology": "2026-06-28T00:07:25.628550",
+    "Finance": "2026-06-28T00:07:30.716004",
+    "Ai": "2026-06-28T00:07:30.840927"
   }
 }

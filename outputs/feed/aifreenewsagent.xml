@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 10:10:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 10:12:41 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 00:05:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:07:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家|美团王兴正面回应股价破发，复盘五年战略节奏得失</title>
-      <link>https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html</link>
-      <description>&lt;![CDATA[独家|美团王兴正面回应股价破发，复盘五年战略节奏得失]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html</guid>
+      <title>安全预警系统，看不见的滴滴「基建」</title>
+      <link>https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html</link>
+      <description>&lt;![CDATA[安全预警系统，看不见的滴滴「基建」]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 00:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>vivo“再造”折叠屏</title>
+      <link>https://www.leiphone.com/category/weiwu/xwKJa2OJ5xsHkTRs.html</link>
+      <description>&lt;![CDATA[vivo“再造”折叠屏]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 21:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/xwKJa2OJ5xsHkTRs.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力</title>
+      <link>https://www.qbitai.com/2026/06/439393.html</link>
+      <description>&lt;![CDATA[BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439393.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>第一批一人公司，现在怎么样了？</title>
+      <link>https://www.qbitai.com/2026/06/439237.html</link>
+      <description>&lt;![CDATA[第一批一人公司，现在怎么样了？]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 12:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439237.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！</title>
+      <link>https://www.qbitai.com/2026/06/439236.html</link>
+      <description>&lt;![CDATA[CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 12:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439236.html</guid>
       <category>Ai</category>
     </item>
   </channel>

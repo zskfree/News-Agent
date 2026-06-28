@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 10:12:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 10:12:41 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 00:07:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:07:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布</title>
-      <link>https://www.tmtpost.com/8043821.html</link>
-      <description>&lt;![CDATA[【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 16:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043821.html</guid>
+      <title>俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼</title>
+      <link>https://sspai.com/post/111347</link>
+      <description>&lt;![CDATA[俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111347</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>民企“上桌吃饭”？国新办发布会解读“十五五”能源规划，拆解未来五年能源投资到底要往哪里投</title>
-      <link>https://www.tmtpost.com/8043664.html</link>
-      <description>&lt;![CDATA[民企“上桌吃饭”？国新办发布会解读“十五五”能源规划，拆解未来五年能源投资到底要往哪里投]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043664.html</guid>
+      <title>GPT-5.6：最强的模型，最窄的门</title>
+      <link>https://www.tmtpost.com/8043420.html</link>
+      <description>&lt;![CDATA[GPT-5.6：最强的模型，最窄的门]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043420.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？</title>
-      <link>https://www.tmtpost.com/8043721.html</link>
-      <description>&lt;![CDATA[当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043721.html</guid>
+      <title>“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单</title>
+      <link>https://www.tmtpost.com/8043666.html</link>
+      <description>&lt;![CDATA[“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043666.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨</title>
-      <link>https://www.tmtpost.com/8043432.html</link>
-      <description>&lt;![CDATA[GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043432.html</guid>
+      <title>不靠海，不沿边，郑州靠什么造出一座汽车城？</title>
+      <link>https://www.tmtpost.com/8043656.html</link>
+      <description>&lt;![CDATA[不靠海，不沿边，郑州靠什么造出一座汽车城？]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043656.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包收费，张一鸣帮张小龙探路</title>
-      <link>https://www.tmtpost.com/8043650.html</link>
-      <description>&lt;![CDATA[豆包收费，张一鸣帮张小龙探路]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043650.html</guid>
+      <title>AI高考志愿填报避雷指南</title>
+      <link>https://www.tmtpost.com/8043710.html</link>
+      <description>&lt;![CDATA[AI高考志愿填报避雷指南]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043710.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>文心整合网页入口，但已经不重要了</title>
-      <link>https://www.tmtpost.com/8043196.html</link>
-      <description>&lt;![CDATA[文心整合网页入口，但已经不重要了]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 09:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043196.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育</title>
-      <link>https://www.tmtpost.com/8043613.html</link>
-      <description>&lt;![CDATA[探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育]]&gt;</description>
+      <title>Wendy's 老家都卖不动了，进入中国还有戏吗？</title>
+      <link>https://www.tmtpost.com/8043648.html</link>
+      <description>&lt;![CDATA[Wendy's 老家都卖不动了，进入中国还有戏吗？]]&gt;</description>
       <pubDate>Sat, 27 Jun 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043613.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043648.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>销量1600万，半年玩家流失90%，腾讯能拯救这款今年火爆全球的撤离射击游戏吗？</title>
-      <link>https://www.tmtpost.com/8043387.html</link>
-      <description>&lt;![CDATA[销量1600万，半年玩家流失90%，腾讯能拯救这款今年火爆全球的撤离射击游戏吗？]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043387.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>高端新能源正在占领市场，但老问题还在</title>
-      <link>https://www.tmtpost.com/8043657.html</link>
-      <description>&lt;![CDATA[高端新能源正在占领市场，但老问题还在]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043657.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>10 个本周 yyds 的 GitHub 开源项目，推荐给你。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534885&amp;idx=1&amp;sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f</link>
-      <description>&lt;![CDATA[10 个本周 yyds 的 GitHub 开源项目，推荐给你。]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534885&amp;idx=1&amp;sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f</guid>
+      <title>信心、创新、根基，三维度拆解五粮液股东会传递的信心</title>
+      <link>https://www.tmtpost.com/8043684.html</link>
+      <description>&lt;![CDATA[信心、创新、根基，三维度拆解五粮液股东会传递的信心]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043684.html</guid>
       <category>Technology</category>
     </item>
   </channel>
