@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-28 00:07
+**最后更新时间**: 2026-06-28 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-28 08:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran trade strikes as ceasefire falters](https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0)
+**发布时间**: 2026-06-28 07:33
+
+#### [Mines will hold back Strait of Hormuz shipping for months, CEO warns](https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45)
+**发布时间**: 2026-06-28 04:00
+
+#### [America seeks its McDonald’s model for missile making](https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51)
+**发布时间**: 2026-06-28 04:00
+
+#### [So, about that saga of Trump’s reflecting pool  . . .](https://www.ft.com/content/bd2de41e-e682-4c2f-ab3f-205a205a48a2)
+**发布时间**: 2026-06-28 04:00
+
+#### [No, we have not had enough of experts](https://www.ft.com/content/f8522f48-6ca0-49a4-b351-1a12b4b058a0)
+**发布时间**: 2026-06-28 04:00
+
+#### [Google caps Meta’s Gemini use as AI demand strains capacity](https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378)
+**发布时间**: 2026-06-28 04:00
+
+#### [Apple to fight $500mn patent bill at UK Supreme Court](https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059)
+**发布时间**: 2026-06-28 04:00
+
+#### [Bond giant Pimco flexes muscles with private placements push](https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e)
+**发布时间**: 2026-06-28 04:00
+
+#### [Chinese tech hub’s shift into robotaxis leaves drivers by the wayside](https://www.ft.com/content/b1445598-e5e3-4530-9e82-e0155c44106b)
+**发布时间**: 2026-06-28 02:53
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Jun 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 00:07:25 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 08:24:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:24:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼</title>
-      <link>https://sspai.com/post/111347</link>
-      <description>&lt;![CDATA[俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 19:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111347</guid>
+      <title>GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全</title>
+      <link>https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.6：最强的模型，最窄的门</title>
-      <link>https://www.tmtpost.com/8043420.html</link>
-      <description>&lt;![CDATA[GPT-5.6：最强的模型，最窄的门]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043420.html</guid>
+      <title>苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI</title>
+      <link>https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单</title>
-      <link>https://www.tmtpost.com/8043666.html</link>
-      <description>&lt;![CDATA[“十五五”规划 20万亿能源投资，别忘了给“科普”留预算，“AI+能源”理应让科普更简单]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043666.html</guid>
+      <title>Edge AI Daily 早报（6月28日）</title>
+      <link>https://www.tmtpost.com/8044158.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（6月28日）]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044158.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不靠海，不沿边，郑州靠什么造出一座汽车城？</title>
-      <link>https://www.tmtpost.com/8043656.html</link>
-      <description>&lt;![CDATA[不靠海，不沿边，郑州靠什么造出一座汽车城？]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043656.html</guid>
+      <title>小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”</title>
+      <link>https://www.tmtpost.com/8043954.html</link>
+      <description>&lt;![CDATA[小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043954.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI高考志愿填报避雷指南</title>
-      <link>https://www.tmtpost.com/8043710.html</link>
-      <description>&lt;![CDATA[AI高考志愿填报避雷指南]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043710.html</guid>
+      <title>Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”</title>
+      <link>https://www.tmtpost.com/8044056.html</link>
+      <description>&lt;![CDATA[Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044056.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Wendy's 老家都卖不动了，进入中国还有戏吗？</title>
-      <link>https://www.tmtpost.com/8043648.html</link>
-      <description>&lt;![CDATA[Wendy's 老家都卖不动了，进入中国还有戏吗？]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043648.html</guid>
+      <title>DeepSeek开始造富</title>
+      <link>https://www.tmtpost.com/8044065.html</link>
+      <description>&lt;![CDATA[DeepSeek开始造富]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044065.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>信心、创新、根基，三维度拆解五粮液股东会传递的信心</title>
-      <link>https://www.tmtpost.com/8043684.html</link>
-      <description>&lt;![CDATA[信心、创新、根基，三维度拆解五粮液股东会传递的信心]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 12:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043684.html</guid>
+      <title>程序员的下一代，谁来培养？</title>
+      <link>https://www.tmtpost.com/8044015.html</link>
+      <description>&lt;![CDATA[程序员的下一代，谁来培养？]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044015.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>MLCC观察报告：食堂里的六张面孔</title>
+      <link>https://www.tmtpost.com/8042774.html</link>
+      <description>&lt;![CDATA[MLCC观察报告：食堂里的六张面孔]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8042774.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全球电商集体向&quot;退货党&quot;说不，免费无限退货的时代要结束了</title>
+      <link>https://www.tmtpost.com/8044164.html</link>
+      <description>&lt;![CDATA[全球电商集体向&quot;退货党&quot;说不，免费无限退货的时代要结束了]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044164.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>茉莉奶白出海美国风波的启示：合规比扩张更重要</title>
+      <link>https://www.tmtpost.com/8042370.html</link>
+      <description>&lt;![CDATA[茉莉奶白出海美国风波的启示：合规比扩张更重要]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8042370.html</guid>
       <category>Technology</category>
     </item>
   </channel>

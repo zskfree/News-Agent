@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-28 00:07
+**最后更新时间**: 2026-06-28 08:24
+
+---
+
+## 🆕 最新更新 (2026-06-28 08:24)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
+**发布时间**: 2026-06-28 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据](https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-28 14:00
+
+#### [苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI](https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-28 11:06
+
+#### [GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全](https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-28 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中国硬件科技股，正站在反弹的十字路口](https://www.tmtpost.com/8042126.html)
+**发布时间**: 2026-06-28 12:56
+
+#### [Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”](https://www.tmtpost.com/8044056.html)
+**发布时间**: 2026-06-28 10:23
+
+#### [当下最佳收益型投资：何处寻觅5%及以上的收益率](https://www.tmtpost.com/8044269.html)
+**发布时间**: 2026-06-28 10:13
+
+#### [【济安评级】养老金产品管理人评级披露（2026年5月）](https://www.tmtpost.com/8044271.html)
+**发布时间**: 2026-06-28 10:13
+
+#### [【济安评级】养老金产品评级披露（2026年5月）](https://www.tmtpost.com/8044261.html)
+**发布时间**: 2026-06-28 10:13
+
+#### [市值蒸发超1200亿，“古法黄金第一股”的高端梦，碎了](https://www.tmtpost.com/8044193.html)
+**发布时间**: 2026-06-28 09:57
+
+#### [全球电商集体向"退货党"说不，免费无限退货的时代要结束了](https://www.tmtpost.com/8044164.html)
+**发布时间**: 2026-06-28 09:57
+
+#### [【ESG-V评级观察】A股价值体检：从责任治理走向可持续投资价值](https://www.tmtpost.com/8044242.html)
+**发布时间**: 2026-06-28 09:48
+
+#### [【ESG-V评级观察】A股信任体检：从公益叙事走向利益相关方治理](https://www.tmtpost.com/8044237.html)
+**发布时间**: 2026-06-28 09:47
+
+#### [价值判断：涨停板的投资机会和风险提示（6月26日）｜上市公司观察](https://www.tmtpost.com/8044232.html)
+**发布时间**: 2026-06-28 09:47
+
+#### [蜜雪冰城的玩法，口子窖能复制吗？](https://www.tmtpost.com/8044071.html)
+**发布时间**: 2026-06-28 09:30
+
+#### [DeepSeek开始造富](https://www.tmtpost.com/8044065.html)
+**发布时间**: 2026-06-28 09:21
+
+#### [全网都说暑期会爆单，酒店老板坐不住了](https://www.tmtpost.com/8044038.html)
+**发布时间**: 2026-06-28 09:14
+
+#### [程序员的下一代，谁来培养？](https://www.tmtpost.com/8044015.html)
+**发布时间**: 2026-06-28 09:09
+
+#### [白玉兰“神仙打架”的一年：于和伟 杨紫捧杯帝后、《太平年》成最大赢家](https://www.tmtpost.com/8044045.html)
+**发布时间**: 2026-06-28 08:58
+
+#### [小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”](https://www.tmtpost.com/8043954.html)
+**发布时间**: 2026-06-28 08:52
+
+#### [MLCC观察报告：食堂里的六张面孔](https://www.tmtpost.com/8042774.html)
+**发布时间**: 2026-06-28 08:41
+
+#### [Edge AI Daily 早报（6月28日）](https://www.tmtpost.com/8044158.html)
+**发布时间**: 2026-06-28 08:34
+
+#### [茉莉奶白出海美国风波的启示：合规比扩张更重要](https://www.tmtpost.com/8042370.html)
+**发布时间**: 2026-06-28 08:33
+
+#### [两只股票撑起的韩国股市，半年熔断 33 次](https://www.tmtpost.com/8043991.html)
+**发布时间**: 2026-06-28 08:28
 
 ---
 
