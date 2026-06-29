@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-28 08:24
+**最后更新时间**: 2026-06-29 00:12
+
+---
+
+## 🆕 最新更新 (2026-06-29 00:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Putin says Russia faces fuel shortages as Ukrainian drones strike refineries](https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2)
+**发布时间**: 2026-06-28 22:28
+
+#### [Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response](https://www.ft.com/content/ff881e75-92ed-4bcc-beb6-cd833b57fd4c)
+**发布时间**: 2026-06-28 20:15
+
+#### [Aramco helicopter crashes at Saudi port](https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6)
+**发布时间**: 2026-06-28 18:09
+
+#### [Ukraine’s vibe shift is bad news for Russia’s economy](https://www.ft.com/content/b21b4c57-b403-4748-8b4d-945f5efa9863)
+**发布时间**: 2026-06-28 12:00
+
+#### [Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8)
+**发布时间**: 2026-06-28 11:00
+
+#### [AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4)
+**发布时间**: 2026-06-28 09:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices rise, stock futures inch higher as U.S. and Iran trade more airstrikes](https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 22:18
+
+#### [Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.](https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 14:03
+
+#### [Micron is about to be more profitable than any U.S. company except Nvidia and Google](https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 14:00
+
+#### [Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong](https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 13:00
+
+#### [‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?](https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 12:00
+
+#### [‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?](https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories)
+**发布时间**: 2026-06-28 11:00
 
 ---
 
