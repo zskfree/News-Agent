@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-29 00:12
+**最后更新时间**: 2026-06-29 09:28
+
+---
+
+## 🆕 最新更新 (2026-06-29 09:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy](https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 09:13
+
+#### [Why ‘permabear’ Jeremy Grantham is steering his own cash into high-flying tech companies](https://www.marketwatch.com/story/why-permabear-jeremy-grantham-is-steering-his-own-cash-into-high-flying-tech-stocks-911cb30f?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 09:05
+
+#### [After her return to the spotlight, ‘Every Year After’ star Elisha Cuthbert relists her Hollywood Hills home for $2.1 million](https://www.marketwatch.com/story/after-her-return-to-the-spotlight-every-year-after-star-elisha-cuthbert-relists-her-hollywood-hills-home-for-2-1-million-d1c294ea?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 09:04
+
+#### [Ryan Seacrest sells 40-acre Napa Valley estate for $18.5 million](https://www.marketwatch.com/story/ryan-seacrest-sells-40-acre-napa-valley-estate-for-18-5-million-20786aa9?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 08:59
+
+#### [Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks](https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 03:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [British American Tobacco slashes 9,000 jobs](https://www.ft.com/content/f457d335-eb92-4e1e-8d33-04e5ed2fca8f)
+**发布时间**: 2026-06-29 08:51
+
+#### [US says it has agreed deal with Iran to halt strikes and resume talks](https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1)
+**发布时间**: 2026-06-29 06:32
+
+#### [AI fuels record $200bn M&A boom in US power sector](https://www.ft.com/content/6e15876d-1882-45e2-a13c-16a1327079d7)
+**发布时间**: 2026-06-29 04:00
+
+#### [Volkswagen’s brutal jobs cull sparks prospect of sale of crown jewels](https://www.ft.com/content/95650ff3-44b1-4018-8ba4-5702304177e5)
+**发布时间**: 2026-06-29 04:00
+
+#### [The new AI-based world order](https://www.ft.com/content/ce505663-9567-40a1-ab9d-91b6bdb90a17)
+**发布时间**: 2026-06-29 04:00
+
+#### [The leap of faith behind SpaceX’s mega bond deal](https://www.ft.com/content/93fc9630-c199-4350-85ba-9323fe04f24c)
+**发布时间**: 2026-06-29 04:00
+
+#### [Stray Ukraine drones worth the price of hitting Russia, says Estonian minister](https://www.ft.com/content/f487526b-9646-456b-bccb-001f31090919)
+**发布时间**: 2026-06-29 04:00
+
+#### [Freight shipping costs surge as companies race to beat new Trump tariffs](https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8)
+**发布时间**: 2026-06-29 04:00
+
+#### [Sovereign funds move from public markets to private to ride AI wave](https://www.ft.com/content/8ea5b49f-e115-4e18-8c14-c426fcac27ba)
+**发布时间**: 2026-06-28 23:01
+
+#### [Putin admits Ukrainian drones are causing ‘problems’](https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2)
+**发布时间**: 2026-06-28 22:28
 
 ---
 

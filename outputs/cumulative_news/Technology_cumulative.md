@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-29 00:12
+**最后更新时间**: 2026-06-29 09:28
+
+---
+
+## 🆕 最新更新 (2026-06-29 09:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [谁在为"夺命"开屏买单？](https://www.tmtpost.com/8045628.html)
+**发布时间**: 2026-06-29 17:19
+
+#### [机器人与芯片，开启广州经济狂飙模式](https://www.tmtpost.com/8045564.html)
+**发布时间**: 2026-06-29 17:12
+
+#### [“大疆和影石打得火热，我却在等下一轮降价”](https://www.tmtpost.com/8045508.html)
+**发布时间**: 2026-06-29 17:08
+
+#### [一杯咖啡卖28元，在医院开餐饮店成香饽饽了？](https://www.tmtpost.com/8045505.html)
+**发布时间**: 2026-06-29 17:02
+
+#### [博主综艺：好生意，还是假风口？](https://www.tmtpost.com/8045449.html)
+**发布时间**: 2026-06-29 16:57
+
+#### [对话Rokid：AI眼镜公司做头盔，新硬件长跑还没开始](https://www.tmtpost.com/8045197.html)
+**发布时间**: 2026-06-29 16:55
+
+#### [国产CGM出海暴涨超200%，靠什么突围专利围剿？](https://www.tmtpost.com/8045484.html)
+**发布时间**: 2026-06-29 16:50
+
+#### [MLCC观察报告：大考终局——真假涨价的识别器](https://www.tmtpost.com/8045512.html)
+**发布时间**: 2026-06-29 16:50
+
+#### [RA Capital：赶走中国创新药等于放弃全球定价权](https://www.tmtpost.com/8045488.html)
+**发布时间**: 2026-06-29 16:43
+
+#### [肯德基、正新鸡排都在做，这个不温不火的品类要迎来黄金时代？](https://www.tmtpost.com/8045504.html)
+**发布时间**: 2026-06-29 16:43
+
+#### [沈炜的禅意与煎熬](https://www.tmtpost.com/8045346.html)
+**发布时间**: 2026-06-29 16:38
+
+#### [美国337调查瞄准智能设备，有卖家百万库存全砸手里](https://www.tmtpost.com/8045339.html)
+**发布时间**: 2026-06-29 16:38
+
+#### [AI接过张雪峰衣钵](https://www.tmtpost.com/8045375.html)
+**发布时间**: 2026-06-29 16:34
+
+#### [AI推动组织变革，终结“权力的游戏”](https://www.tmtpost.com/8045148.html)
+**发布时间**: 2026-06-29 16:34
+
+#### [白天看海力士，晚上炒美股：全球 AI 行情的新「亚盘风向标」？](https://www.tmtpost.com/8045134.html)
+**发布时间**: 2026-06-29 16:29
+
+#### [你还在上班，但已经被公司按外包定价了](https://www.tmtpost.com/8045341.html)
+**发布时间**: 2026-06-29 16:28
+
+#### [银行开始给小微企业发Token了](https://www.tmtpost.com/8045518.html)
+**发布时间**: 2026-06-29 16:22
+
+#### [别再管豆包收费了，Seedance正在疯狂吸金](https://www.tmtpost.com/8045192.html)
+**发布时间**: 2026-06-29 13:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小](https://www.infoq.cn/article/v5D4LerUDwm4F9PYXNI9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 17:15
+
+#### [GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊](https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 16:04
+
+#### [微软升级 AKS 服务：新增裸金属、集群舰队管理及 AI 基础设施方案](https://www.infoq.cn/article/OKTycayNK8hwTMv4ApSg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 16:03
+
+#### [交易、分析不用二选一，TDSQL HTAP 能力如何支撑实时业务？](https://www.infoq.cn/video/JbrXyS32jgB3Rc9bHlhR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 15:45
+
+#### [收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？](https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 15:29
+
+#### [AI 正在重写应用开发，Vue 与 Vite，给出新的答](https://www.infoq.cn/article/8O9lMqWlC0Qkh9uLpPqk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 15:09
+
+#### [单台服务器、1C2G，也能部署数据库？](https://www.infoq.cn/video/dQHICMH3wg9NVbgluWh3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 14:50
+
+#### [AWS 推出开源框架 Blocks，面向 AI 智能体的后端开发工具](https://www.infoq.cn/article/ZdA3CGtWNFGAoalSeiu8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 14:00
+
+#### [AWS Graviton5 正式发布，具备 192 个内核和经过正式验证的虚拟机隔离功能](https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 11:50
+
+#### [ML 模型投毒的机制及检测方法](https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 10:14
+
+#### [不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？](https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 10:03
+
+#### [不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报](https://www.infoq.cn/article/6FP1sl5CrwdggVrXrwIN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 09:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
+**发布时间**: 2026-06-29 15:00
+
+#### [让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
+**发布时间**: 2026-06-29 11:14
+
+#### [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
+**发布时间**: 2026-06-29 07:13
 
 ---
 
