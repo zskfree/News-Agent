@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 29 Jun 2026 09:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 09:28:59 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 00:05:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:07:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家专访｜苏炜杰加入OpenAI：Scaling Law撞墙后为什么需要数学家出手？</title>
-      <link>https://www.leiphone.com/category/ai/OUht6XHTbsegepIk.html</link>
-      <description>&lt;![CDATA[独家专访｜苏炜杰加入OpenAI：Scaling Law撞墙后为什么需要数学家出手？]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/OUht6XHTbsegepIk.html</guid>
+      <title>全球首个：隐空间世界模型，打通长时序双向物理因果链了！</title>
+      <link>https://www.qbitai.com/2026/06/439891.html</link>
+      <description>&lt;![CDATA[全球首个：隐空间世界模型，打通长时序双向物理因果链了！]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439891.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题</title>
-      <link>https://www.leiphone.com/category/ai/3QqhbnrdnlxcrD1R.html</link>
-      <description>&lt;![CDATA[单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3QqhbnrdnlxcrD1R.html</guid>
+      <title>Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure</title>
+      <link>https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</link>
+      <description>&lt;![CDATA[Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML26 重磅成果！清华 UDS 智能筛选训练样本，大模型微调算力直接减半</title>
-      <link>https://www.leiphone.com/category/private/bOlZPie2LmGifkJo.html</link>
-      <description>&lt;![CDATA[ICML26 重磅成果！清华 UDS 智能筛选训练样本，大模型微调算力直接减半]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/bOlZPie2LmGifkJo.html</guid>
+      <title>Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron</title>
+      <link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
+      <description>&lt;![CDATA[Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026 | 当大模型开始发明自己的语言：如何让 LLM 用更少 Token 完成高强度推理</title>
-      <link>https://www.leiphone.com/category/private/Ixd3nLMA98imcSnA.html</link>
-      <description>&lt;![CDATA[ICML 2026 | 当大模型开始发明自己的语言：如何让 LLM 用更少 Token 完成高强度推理]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/Ixd3nLMA98imcSnA.html</guid>
+      <title>从 VCloud 到 Agentic VCloud：Agent 时代的范式重构</title>
+      <link>https://www.leiphone.com/category/industrynews/WqCn3r8LHkqFKmhZ.html</link>
+      <description>&lt;![CDATA[从 VCloud 到 Agentic VCloud：Agent 时代的范式重构]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WqCn3r8LHkqFKmhZ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读｜OpenAI 为什么要冒死“脱离群众”？</title>
-      <link>https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html</link>
-      <description>&lt;![CDATA[独家解读｜OpenAI 为什么要冒死“脱离群众”？]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Ql6vKtKEYLm7Tuin.html</guid>
+      <title>一线对谈丨「龙虾」过后，百度不想再卷Token了</title>
+      <link>https://www.leiphone.com/category/industrynews/AM817za4mjx5twCo.html</link>
+      <description>&lt;![CDATA[一线对谈丨「龙虾」过后，百度不想再卷Token了]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 14:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/AM817za4mjx5twCo.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>市场份额从41%掉到26%，Cursor凭什么还值600亿？</title>
-      <link>https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html</link>
-      <description>&lt;![CDATA[市场份额从41%掉到26%，Cursor凭什么还值600亿？]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html</guid>
+      <title>【ICML 2026】基于响应自举的LVLM安全微调框架 BYORn</title>
+      <link>https://www.leiphone.com/category/private/RNwzWwYNUvFU3jha.html</link>
+      <description>&lt;![CDATA[【ICML 2026】基于响应自举的LVLM安全微调框架 BYORn]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/RNwzWwYNUvFU3jha.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026｜上智院、上交大、复旦联合提出FLAG扩散框架，还原空间转录组的基因-空间双重结构</title>
-      <link>https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html</link>
-      <description>&lt;![CDATA[ICML 2026｜上智院、上交大、复旦联合提出FLAG扩散框架，还原空间转录组的基因-空间双重结构]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/xumpnjfyYU2IwseH.html</guid>
+      <title>Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点</title>
+      <link>https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html</link>
+      <description>&lt;![CDATA[Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“物理AI第一股”Momenta开启招股：14家超豪华基石护航，基石席位“一票难求”</title>
-      <link>https://www.leiphone.com/category/industrynews/cWATkKQ0a3yy8sWE.html</link>
-      <description>&lt;![CDATA[“物理AI第一股”Momenta开启招股：14家超豪华基石护航，基石席位“一票难求”]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cWATkKQ0a3yy8sWE.html</guid>
+      <title>Debugging production agents with Amazon Bedrock AgentCore Observability</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/</link>
+      <description>&lt;![CDATA[Debugging production agents with Amazon Bedrock AgentCore Observability]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“词元盗用”正在成为AI商业化面临的新风险</title>
-      <link>https://www.qbitai.com/2026/06/439746.html</link>
-      <description>&lt;![CDATA[“词元盗用”正在成为AI商业化面临的新风险]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439746.html</guid>
+      <title>Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/</link>
+      <description>&lt;![CDATA[Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 17:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美媒：腾讯参投林俊旸AI公司2000万美元</title>
-      <link>https://www.leiphone.com/category/ai/m0uu1Ameqlu1vdFe.html</link>
-      <description>&lt;![CDATA[美媒：腾讯参投林俊旸AI公司2000万美元]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/m0uu1Ameqlu1vdFe.html</guid>
+      <title>美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿</title>
+      <link>https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html</link>
+      <description>&lt;![CDATA[美媒：快手可灵拟引入泛大西洋投资，投后估值1300亿]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/awNbSNygrWrx5PLw.html</guid>
       <category>Ai</category>
     </item>
   </channel>

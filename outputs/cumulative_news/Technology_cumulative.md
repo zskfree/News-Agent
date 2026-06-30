@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-29 09:28
+**最后更新时间**: 2026-06-30 00:07
+
+---
+
+## 🆕 最新更新 (2026-06-30 00:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼](https://www.tmtpost.com/8046236.html)
+**发布时间**: 2026-06-30 07:20
+
+#### [车规物联模组龙头拟14.28亿元收购航盛电子股权，布局汽车电子产业链；细分衡器赛道“小巨人”拟1.3亿元受让南京集溢半导体15.3%股权；【并购一线】](https://www.tmtpost.com/8046346.html)
+**发布时间**: 2026-06-29 23:33
+
+#### [液冷龙头成为“减持先锋”，业绩脸朝地，飞龙股份高位套现近5亿](https://www.tmtpost.com/8046340.html)
+**发布时间**: 2026-06-29 23:32
+
+#### [不缺客户的昆仑芯，为什么上市前要求投资者“捆绑式”采购芯片？](https://www.tmtpost.com/8045729.html)
+**发布时间**: 2026-06-29 20:45
+
+#### [10万人重组计划背后，大众开始向德国本土开刀](https://www.tmtpost.com/8045924.html)
+**发布时间**: 2026-06-29 19:18
+
+#### [华为鸿蒙已经开始寻找机器人里的问界了](https://www.tmtpost.com/8045771.html)
+**发布时间**: 2026-06-29 18:37
+
+#### [8.3万次举报，94.8%不实，这届小学老师无奈“躺平”](https://www.tmtpost.com/8044975.html)
+**发布时间**: 2026-06-29 18:37
+
+#### [从兜底智驾开始，车圈“拼命”局已开](https://www.tmtpost.com/8044639.html)
+**发布时间**: 2026-06-29 18:37
+
+#### [只有一条好腿，岚图如何跳出困境？](https://www.tmtpost.com/8044962.html)
+**发布时间**: 2026-06-29 18:35
+
+#### [从AR泡沫到AI风口，Rokid迎来关键一役](https://www.tmtpost.com/8044617.html)
+**发布时间**: 2026-06-29 18:35
+
+#### [对话认知心理学家：为什么学生不喜欢上学？](https://www.tmtpost.com/8045697.html)
+**发布时间**: 2026-06-29 18:35
+
+#### [韩国人为什么这么在乎输赢？](https://www.tmtpost.com/8045702.html)
+**发布时间**: 2026-06-29 18:35
+
+#### [动力电池新规落地，三五年前的老账怎么算？](https://www.tmtpost.com/8045721.html)
+**发布时间**: 2026-06-29 18:33
+
+#### [科技赛道的硬逻辑与高波动：2026上半年回顾与下半年展望](https://www.tmtpost.com/8045741.html)
+**发布时间**: 2026-06-29 18:33
+
+#### [腾讯买了百度芯片](https://www.tmtpost.com/8045700.html)
+**发布时间**: 2026-06-29 18:32
+
+#### [马斯克：Grok 4.5接近Opus，每月发一个新模型，AI圈要变天？](https://www.tmtpost.com/8045761.html)
+**发布时间**: 2026-06-29 18:30
+
+#### [一年不到价格翻番，小鹰不能走Montbell的老路](https://www.tmtpost.com/8045791.html)
+**发布时间**: 2026-06-29 18:30
+
+#### [AI原生时代，自动驾驶到底拼什么？](https://www.tmtpost.com/8045806.html)
+**发布时间**: 2026-06-29 18:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [超越 CLEAN 和 MVP：在 Android 中构建离线优先的响应式数据层](https://www.infoq.cn/article/dPgYc639VWEXxbPzmBK1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 18:44
+
+#### [物理 AI 如何定义下一代平台革新？](https://www.infoq.cn/article/sMq6bwGfrp5vRsc22hZj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 18:29
+
+#### [分库分表后查询变慢？TDSQL 全局索引破解数据定位难题](https://www.infoq.cn/video/0Qd7LCv7PIRaoUL5MQ1m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 18:07
+
+#### [AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说](https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 18:06
+
+#### [被 AI 坑惨的福特，召回 350 名老工程师救场](https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 17:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/111697)
+**发布时间**: 2026-06-29 17:52
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一句话让 Claude Code 生成轻量动画动效，好玩好玩。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534961&idx=1&sn=94c2bc136f5bf55bcba6b171551c6957)
+**发布时间**: 2026-06-29 14:21
 
 ---
 

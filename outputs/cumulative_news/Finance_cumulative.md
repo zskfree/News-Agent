@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-29 09:28
+**最后更新时间**: 2026-06-30 00:07
+
+---
+
+## 🆕 最新更新 (2026-06-30 00:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump’s weekend Iran strikes keep sparking Monday stock rallies. Here’s what the data shows us.](https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 23:39
+
+#### [‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?](https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 22:00
+
+#### [‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?](https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 21:33
+
+#### [Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition](https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 21:30
+
+#### [Tesla’s stock rips higher after a long-awaited update to self-driving technology](https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 21:24
+
+#### [Charter may be making ‘frenemies’ with SpaceX, and its stock is soaring](https://www.marketwatch.com/story/charter-may-be-making-frenemies-with-spacex-and-its-stock-is-soaring-e300eb21?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 21:14
+
+#### [Most Americans have no idea how close we just came to financial chaos](https://www.marketwatch.com/story/most-americans-have-no-idea-how-close-we-just-came-to-financial-chaos-50c0b33c?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 21:05
+
+#### [Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.](https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 20:43
+
+#### [Bye-bye, ‘HODL’: Strategy now has a plan to sell bitcoin to raise cash and buy its stock](https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 20:41
+
+#### [My sister died and I’m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?](https://www.marketwatch.com/story/my-sister-died-and-im-leaving-new-york-to-help-raise-my-niece-in-colorado-at-33-am-i-making-a-financial-mistake-5ad41b2a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-29 20:37
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chinese exile Miles Guo given 30 years in prison for $550mn fraud](https://www.ft.com/content/daaa2d34-4c46-4ab4-971e-d183e5a0e829)
+**发布时间**: 2026-06-29 22:44
+
+#### [Maersk raises profit guidance as new US tariffs fuel demand](https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29)
+**发布时间**: 2026-06-29 20:32
+
+#### [Supermicro Taiwan offices raided in chip smuggling probe](https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23)
+**发布时间**: 2026-06-29 20:17
+
+#### [Comcast’s Hollywood break-up marks its GE moment](https://www.ft.com/content/16b80794-3898-4010-b7d8-5c8cf59dd7ef)
+**发布时间**: 2026-06-29 17:43
+
+#### [Supreme Court protects the Federal Reserve, but what about everybody else?](https://www.ft.com/content/b4c27cf9-f1f6-4709-b2b0-7c6df47531b1)
+**发布时间**: 2026-06-29 17:07
+
+#### [Supreme Court blocks Trump from sacking Fed governor Cook](https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb)
+**发布时间**: 2026-06-29 16:27
+
+#### [Donald Trump and how strongman leaders fall](https://www.ft.com/content/a1f9bae6-35a6-4875-ad5a-e5fa3c1de87d)
+**发布时间**: 2026-06-29 11:25
+
+#### [Comcast to spin off NBCUniversal and Sky](https://www.ft.com/content/a0a56613-b9ac-478d-9e38-f28dbd5097e6)
+**发布时间**: 2026-06-29 10:24
 
 ---
 
