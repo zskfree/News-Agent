@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-30 00:07
+**最后更新时间**: 2026-06-30 08:32
+
+---
+
+## 🆕 最新更新 (2026-06-30 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EY employee charged with accessing Australian prime minister’s bank details](https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a)
+**发布时间**: 2026-06-30 07:57
+
+#### [Ukrainian tycoon injured in Monaco bomb attack](https://www.ft.com/content/7455e85b-7389-49dd-b7c8-f145f79e7f0b)
+**发布时间**: 2026-06-30 07:29
+
+#### [Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory](https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d)
+**发布时间**: 2026-06-30 04:00
+
+#### [The great wealth transfer rattling Wall Street](https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9)
+**发布时间**: 2026-06-30 04:00
+
+#### [Putin ties himself to ruling party as war fatigue bites](https://www.ft.com/content/2d3ab150-1253-4dc5-9319-8bbea467ffaf)
+**发布时间**: 2026-06-30 04:00
+
+#### [Is AI an exoskeleton for the mind?](https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c)
+**发布时间**: 2026-06-30 04:00
+
+#### [Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation](https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174)
+**发布时间**: 2026-06-30 04:00
+
+#### [Yen weakens to 40-year low](https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510)
+**发布时间**: 2026-06-30 01:51
+
+#### [Foreign investors fear Japan is backsliding on reform](https://www.ft.com/content/18782c9a-27fb-4dc4-a044-f1bc38d9d494)
+**发布时间**: 2026-06-29 21:00
 
 ---
 

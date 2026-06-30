@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-30 00:07
+**最后更新时间**: 2026-06-30 08:32
+
+---
+
+## 🆕 最新更新 (2026-06-30 08:32)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [月之暗面黄震昕：Kimi不做重交付，FDE难点不在于模型厂商](https://www.tmtpost.com/8042746.html)
+**发布时间**: 2026-06-30 16:25
+
+#### [人形机器人企业高喊的量产目标，或许是个伪命题](https://www.tmtpost.com/8046475.html)
+**发布时间**: 2026-06-30 16:20
+
+#### [腾讯在出行赛道打下最后一根桩](https://www.tmtpost.com/8046523.html)
+**发布时间**: 2026-06-30 16:19
+
+#### [OpenRAN没戏了，这家公司又把赌注押到了AI上！](https://www.tmtpost.com/8046441.html)
+**发布时间**: 2026-06-30 15:45
+
+#### [腾讯重仓的医药公司，刚刚上市了](https://www.tmtpost.com/8046256.html)
+**发布时间**: 2026-06-30 15:45
+
+#### [外卖大战一年，王兴头发白了](https://www.tmtpost.com/8046472.html)
+**发布时间**: 2026-06-30 15:45
+
+#### [天丝“挥泪斩马谡”](https://www.tmtpost.com/8046121.html)
+**发布时间**: 2026-06-30 15:31
+
+#### [国货吃掉洋牌：一场没有枪声的权力交接](https://www.tmtpost.com/8046075.html)
+**发布时间**: 2026-06-30 15:23
+
+#### [读懂物理AI：AI产业的下半场，不止是概念狂欢](https://www.tmtpost.com/8046804.html)
+**发布时间**: 2026-06-30 15:17
+
+#### [中国分子，打响“减脂增肌”迭代信号枪](https://www.tmtpost.com/8046045.html)
+**发布时间**: 2026-06-30 15:14
+
+#### [Momenta开启招股，物理AI第一股要讲清盈利故事](https://www.tmtpost.com/8046366.html)
+**发布时间**: 2026-06-30 15:03
+
+#### [智能体上车，高通想守住座舱的下一张门票](https://www.tmtpost.com/8027015.html)
+**发布时间**: 2026-06-30 15:03
+
+#### [Europe’s Scorching Summer Sparks a Frenzy for Chinese Air Conditioners](https://www.tmtpost.com/8046966.html)
+**发布时间**: 2026-06-30 14:37
+
+#### [风口上的世界模型，到底是什么？](https://www.tmtpost.com/8046051.html)
+**发布时间**: 2026-06-30 14:30
+
+#### [在电商吃过的苦，沃尔玛不想在AI再吃一遍了](https://www.tmtpost.com/8046018.html)
+**发布时间**: 2026-06-30 14:30
+
+#### [ROI这口利剑，终于悬在了AI员工头顶](https://www.tmtpost.com/8046862.html)
+**发布时间**: 2026-06-30 14:30
+
+#### [青旅，被00后年轻人挤爆了](https://www.tmtpost.com/8046312.html)
+**发布时间**: 2026-06-30 12:31
+
+#### [AI终于赚钱了，全球1100亿美元的真实收入，为什么让人更不安？](https://www.tmtpost.com/8043829.html)
+**发布时间**: 2026-06-30 12:23
+
+#### [韩国发财，美国翻脸](https://www.tmtpost.com/8046673.html)
+**发布时间**: 2026-06-30 12:10
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API](https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 15:21
+
+#### [3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上](https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 15:07
+
+#### [AI 接进企业之后，API 安全开始成为新盲区](https://www.infoq.cn/article/QODhrm0I3LSV0uGhFdWt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 14:15
+
+#### [从 VCloud 到 Agentic VCloud：Agent 时代的范式重构](https://www.infoq.cn/article/4S4eBkKoq9Btx37VdTMW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 13:30
+
+#### [AWS 为 Cognito 增加多区域故障切换能力](https://www.infoq.cn/article/5GF5hkjpFZqR7EMGkSvR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 13:00
+
+#### [Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈](https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 11:02
+
+#### [Atlassian 揭秘 Forge 计费架构：如何在分布式环境下实现大规模用量计费](https://www.infoq.cn/article/5a8OTMYRHj6XZIpOTVoo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 10:50
+
+#### [非科班出身技术Geek，被DeepSeek改写人生（上集）](https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 10:22
+
+#### [AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理](https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
+**发布时间**: 2026-06-30 14:56
+
+#### [100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
+**发布时间**: 2026-06-30 11:00
+
+#### [派早报：DeepSeek V4 正式版 7 月中旬上线等](https://sspai.com/post/111707)
+**发布时间**: 2026-06-30 08:24
 
 ---
 
