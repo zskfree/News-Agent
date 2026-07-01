@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-30 08:32
+**最后更新时间**: 2026-07-01 00:08
+
+---
+
+## 🆕 最新更新 (2026-07-01 00:08)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】推动工业互联网高质量发展，八部门联合发文；中上协：5月全市场新增首发上市公司13家，首发募资总额111.1亿元；国家统计局：6月份制造业采购经理指数为50.3%，重返扩张区间](https://www.tmtpost.com/8047537.html)
+**发布时间**: 2026-07-01 07:20
+
+#### [东材科技降价套现，国风新材“咬牙接盘”：三方解套的马拉松重组终局待解](https://www.tmtpost.com/8047638.html)
+**发布时间**: 2026-06-30 23:09
+
+#### [Momenta’s IPO: The Quest for Profitability Behind the "First Physical AI Stock"](https://www.tmtpost.com/8047574.html)
+**发布时间**: 2026-06-30 21:56
+
+#### [四年IPO辅导后转身：VC材料龙头欲"嫁"亘元新材，宁德时代是二股东](https://www.tmtpost.com/8047351.html)
+**发布时间**: 2026-06-30 19:10
+
+#### [今天的海天味业，很像上世纪70年代的龟甲万](https://www.tmtpost.com/8046492.html)
+**发布时间**: 2026-06-30 19:04
+
+#### [深耕航运数字化，国航远洋（920571.BJ）手握41项软著筑牢研发实力](https://www.tmtpost.com/8047314.html)
+**发布时间**: 2026-06-30 18:54
+
+#### [“发型自由”的LABUBU，戳中了年轻人的哪根神经？](https://www.tmtpost.com/8047179.html)
+**发布时间**: 2026-06-30 18:48
+
+#### [AI算力正在把全球电网逼到极限](https://www.tmtpost.com/8047043.html)
+**发布时间**: 2026-06-30 18:45
+
+#### [地平线逼近斩登线](https://www.tmtpost.com/8047231.html)
+**发布时间**: 2026-06-30 18:45
+
+#### [字节正式打响管理变革第一枪](https://www.tmtpost.com/8047190.html)
+**发布时间**: 2026-06-30 18:45
+
+#### [Token管够的时代结束了](https://www.tmtpost.com/8047131.html)
+**发布时间**: 2026-06-30 18:45
+
+#### [四年累亏21亿后，蓝帆医疗甩卖盈利急救包资产，*ST明德接盘解保壳危局](https://www.tmtpost.com/8047078.html)
+**发布时间**: 2026-06-30 18:24
+
+#### [金山办公集中回应近期网传误解：WPS缓存清理始终免费，7月上线体验优化](https://www.tmtpost.com/8047245.html)
+**发布时间**: 2026-06-30 18:02
+
+#### [芯片和内存后，下一个暴涨的会是它？](https://www.tmtpost.com/8046987.html)
+**发布时间**: 2026-06-30 17:22
+
+#### [存储涨386%，AI正在制造一场“结构性通胀”](https://www.tmtpost.com/8047039.html)
+**发布时间**: 2026-06-30 17:22
+
+#### [一瓶氦气涨了10倍，A股投资者赚到钱了吗？](https://www.tmtpost.com/8045636.html)
+**发布时间**: 2026-06-30 17:22
+
+#### [真健康VS睿触机器人：国产穿刺机器人双雄，打响县城之战](https://www.tmtpost.com/8046864.html)
+**发布时间**: 2026-06-30 17:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？](https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 18:29
+
+#### [网易有道CEO周枫：Harness即产品](https://www.infoq.cn/article/3X8E2FVCllu24XYVoPeK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 18:23
+
+#### [Arm 计算平台加持，联想车计算推动 L4 级自动驾驶出租车规模化落地](https://www.infoq.cn/article/Ny7RygQpB3cbBUvU57GW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 18:03
+
+#### [物理 AI 演进之路：从受控环境走向现实世界](https://www.infoq.cn/article/erU6ZuSI5qowMlIGSr8i?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 17:56
+
+#### [Cursor、OpenClaw 同时出手，“口袋编程”时代来了：程序员只用“动嘴”！](https://www.infoq.cn/article/6WCaAMdgSR8r46j3OZd4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 17:46
+
+#### [Anthropic 负责人：HTML 比 MD 更利于人类跟进智能体协作流程](https://www.infoq.cn/article/i3eauD7F8KF9gVY3SD18?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机](https://sspai.com/post/111744)
+**发布时间**: 2026-06-30 17:02
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [2 万多 Star！Google 开源了这个神级 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534970&idx=1&sn=99c4cfd8efb54884104642e3d7ce3d8b)
+**发布时间**: 2026-06-30 16:39
 
 ---
 

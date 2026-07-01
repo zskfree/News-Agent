@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-30 08:32
+**最后更新时间**: 2026-07-01 00:08
+
+---
+
+## 🆕 最新更新 (2026-07-01 00:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nike earnings crushed Wall Street’s estimates — but here’s the catch](https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 23:30
+
+#### [Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto](https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 22:48
+
+#### [If LeBron James goes to the Warriors, that team’s roster will be stacked with some of the most expensive players in NBA history](https://www.marketwatch.com/story/if-lebron-james-goes-to-the-warriors-that-teams-roster-will-be-stacked-with-some-of-the-most-expensive-players-in-nba-history-3bdc8194?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 22:32
+
+#### [Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.](https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 22:12
+
+#### [Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.](https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 21:57
+
+#### [Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.](https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 21:42
+
+#### [Will the Comcast-NBCU spinoff pay off for investors? Here’s what history has to say.](https://www.marketwatch.com/story/will-the-comcast-nbcu-spinoff-pay-off-for-investors-heres-what-history-has-to-say-f40ca340?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 21:42
+
+#### [Oil posts largest quarterly price drop in 6 years as historic supply crunch eases](https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 21:28
+
+#### [The 20 best-performing stocks in the S&P 500 for the first half of 2026](https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories)
+**发布时间**: 2026-06-30 21:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump made more than $500mn from sale of family’s crypto tokens last year](https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec)
+**发布时间**: 2026-06-30 22:28
+
+#### [US Supreme Court rejects Trump’s bid to end birthright citizenship](https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa)
+**发布时间**: 2026-06-30 21:34
+
+#### [World Bank to phase out China lending](https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26)
+**发布时间**: 2026-06-30 20:47
+
+#### [Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says](https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6)
+**发布时间**: 2026-06-30 20:00
+
+#### [Anthropic launches Claude Science in push for pharma revenue](https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505)
+**发布时间**: 2026-06-30 18:49
+
+#### [Supreme Court reminds America (and Trump) what citizenship is](https://www.ft.com/content/829adc4c-f5a4-4af3-950f-78213cc74002)
+**发布时间**: 2026-06-30 16:57
+
+#### [America’s stillborn 250th birthday](https://www.ft.com/content/1278f6d8-7e56-40c2-a255-0798ba96e360)
+**发布时间**: 2026-06-30 10:31
+
+#### [Comcast’s ‘amicable divorce’ unwinds Hollywood’s corporate experiment](https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df)
+**发布时间**: 2026-06-30 10:00
+
+#### [How Elliott is becoming the hedge fund industry’s new ‘Tiger cub’ factory](https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d)
+**发布时间**: 2026-06-30 04:00
+
+#### [Heavy corporate AI spenders add staff faster than peers](https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6)
+**发布时间**: 2026-06-30 04:00
 
 ---
 

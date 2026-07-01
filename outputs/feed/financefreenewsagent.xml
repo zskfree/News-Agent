@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Jun 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 08:32:03 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:08:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>EY employee charged with accessing Australian prime minister’s bank details</title>
-      <link>https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a</link>
-      <description>&lt;![CDATA[EY employee charged with accessing Australian prime minister’s bank details]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a</guid>
+      <title>Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.</title>
+      <link>https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 22:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Ukrainian tycoon injured in Monaco bomb attack</title>
-      <link>https://www.ft.com/content/7455e85b-7389-49dd-b7c8-f145f79e7f0b</link>
-      <description>&lt;![CDATA[Ukrainian tycoon injured in Monaco bomb attack]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7455e85b-7389-49dd-b7c8-f145f79e7f0b</guid>
+      <title>The 20 best-performing stocks in the S&amp;P 500 for the first half of 2026</title>
+      <link>https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The 20 best-performing stocks in the S&amp;P 500 for the first half of 2026]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 21:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory</title>
-      <link>https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d</link>
-      <description>&lt;![CDATA[Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d</guid>
+      <title>Oil posts largest quarterly price drop in 6 years as historic supply crunch eases</title>
+      <link>https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil posts largest quarterly price drop in 6 years as historic supply crunch eases]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 21:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The great wealth transfer rattling Wall Street</title>
-      <link>https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9</link>
-      <description>&lt;![CDATA[The great wealth transfer rattling Wall Street]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9</guid>
+      <title>World Bank to phase out China lending</title>
+      <link>https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26</link>
+      <description>&lt;![CDATA[World Bank to phase out China lending]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 20:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Putin ties himself to ruling party as war fatigue bites</title>
-      <link>https://www.ft.com/content/2d3ab150-1253-4dc5-9319-8bbea467ffaf</link>
-      <description>&lt;![CDATA[Putin ties himself to ruling party as war fatigue bites]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2d3ab150-1253-4dc5-9319-8bbea467ffaf</guid>
+      <title>Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says</title>
+      <link>https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6</link>
+      <description>&lt;![CDATA[Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Is AI an exoskeleton for the mind?</title>
-      <link>https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c</link>
-      <description>&lt;![CDATA[Is AI an exoskeleton for the mind?]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c</guid>
+      <title>Anthropic launches Claude Science in push for pharma revenue</title>
+      <link>https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505</link>
+      <description>&lt;![CDATA[Anthropic launches Claude Science in push for pharma revenue]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation</title>
-      <link>https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174</link>
-      <description>&lt;![CDATA[Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174</guid>
+      <title>Comcast’s ‘amicable divorce’ unwinds Hollywood’s corporate experiment</title>
+      <link>https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df</link>
+      <description>&lt;![CDATA[Comcast’s ‘amicable divorce’ unwinds Hollywood’s corporate experiment]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Yen weakens to 40-year low</title>
-      <link>https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510</link>
-      <description>&lt;![CDATA[Yen weakens to 40-year low]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 01:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510</guid>
+      <title>Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.</title>
+      <link>https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 21:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump made more than $500mn from sale of family’s crypto tokens last year</title>
+      <link>https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec</link>
+      <description>&lt;![CDATA[Trump made more than $500mn from sale of family’s crypto tokens last year]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 22:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nike earnings crushed Wall Street’s estimates — but here’s the catch</title>
+      <link>https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nike earnings crushed Wall Street’s estimates — but here’s the catch]]&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 23:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
