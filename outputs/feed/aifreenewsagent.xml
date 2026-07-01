@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Jul 2026 00:05:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 00:08:12 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 08:50:00 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:52:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/</link>
-      <description>&lt;![CDATA[Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/</guid>
+      <title>UC Berkeley Ken Goldberg 教授：具身数据规模落后十万年，你仍然相信数据万能吗？| ICRA 2026</title>
+      <link>https://www.leiphone.com/category/industrynews/92jlrAw30yRS1lnt.html</link>
+      <description>&lt;![CDATA[UC Berkeley Ken Goldberg 教授：具身数据规模落后十万年，你仍然相信数据万能吗？| ICRA 2026]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/92jlrAw30yRS1lnt.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science</title>
-      <link>https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</link>
-      <description>&lt;![CDATA[NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</guid>
+      <title>卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单</title>
+      <link>https://www.qbitai.com/2026/07/441183.html</link>
+      <description>&lt;![CDATA[卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 07:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441183.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost</title>
-      <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
-      <description>&lt;![CDATA[How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
+      <title>Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了</title>
+      <link>https://www.qbitai.com/2026/07/441225.html</link>
+      <description>&lt;![CDATA[Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441225.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百亿估值只是起点，跨维智能的物理AGI之路</title>
-      <link>https://www.qbitai.com/2026/06/440949.html</link>
-      <description>&lt;![CDATA[百亿估值只是起点，跨维智能的物理AGI之路]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/440949.html</guid>
+      <title>大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割</title>
+      <link>https://www.qbitai.com/2026/07/441140.html</link>
+      <description>&lt;![CDATA[大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441140.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让机器人动作流畅丝滑如「连音」，千寻智能高阳团队提出Legato，入选RSS 2026</title>
-      <link>https://www.leiphone.com/category/private/aTTgIF3XdsBdOrVC.html</link>
-      <description>&lt;![CDATA[让机器人动作流畅丝滑如「连音」，千寻智能高阳团队提出Legato，入选RSS 2026]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/aTTgIF3XdsBdOrVC.html</guid>
+      <title>从WorldArena榜首到1500+模型落地：跨维智能证明世界模型不是Demo是生意</title>
+      <link>https://www.leiphone.com/category/industrynews/K3uywJRUmXoxm8YX.html</link>
+      <description>&lt;![CDATA[从WorldArena榜首到1500+模型落地：跨维智能证明世界模型不是Demo是生意]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 00:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/K3uywJRUmXoxm8YX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中国信通院牵头，首个智算运维智能体评测基准正式落地，覆盖 5 款主流国产芯片</title>
-      <link>https://www.leiphone.com/category/ai/i94gGHABXfqBbfYn.html</link>
-      <description>&lt;![CDATA[中国信通院牵头，首个智算运维智能体评测基准正式落地，覆盖 5 款主流国产芯片]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 22:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/i94gGHABXfqBbfYn.html</guid>
+      <title>MiniMax M3 实测：第一流的模型，已经对执行层动手了</title>
+      <link>https://www.leiphone.com/category/industrynews/xscKmzmDBK4aVKoE.html</link>
+      <description>&lt;![CDATA[MiniMax M3 实测：第一流的模型，已经对执行层动手了]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 10:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/xscKmzmDBK4aVKoE.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing TabFM: A zero-shot foundation model for tabular data</title>
-      <link>https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/</link>
-      <description>&lt;![CDATA[Introducing TabFM: A zero-shot foundation model for tabular data]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/</guid>
+      <title>Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型</title>
+      <link>https://www.qbitai.com/2026/07/441124.html</link>
+      <description>&lt;![CDATA[Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 03:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441124.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Q&amp;A: What is agentic AI today, and what do we want it to be?</title>
-      <link>https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630</link>
-      <description>&lt;![CDATA[Q&amp;A: What is agentic AI today, and what do we want it to be?]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630</guid>
+      <title>OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”</title>
+      <link>https://www.qbitai.com/2026/07/441240.html</link>
+      <description>&lt;![CDATA[OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 07:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441240.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？</title>
-      <link>https://www.qbitai.com/2026/06/440599.html</link>
-      <description>&lt;![CDATA[Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/440599.html</guid>
+      <title>Multi-Agent 实测：不会带团队，模型干到死</title>
+      <link>https://www.leiphone.com/category/industrynews/RTAChbLCPVfJQYm6.html</link>
+      <description>&lt;![CDATA[Multi-Agent 实测：不会带团队，模型干到死]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RTAChbLCPVfJQYm6.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉</title>
-      <link>https://www.qbitai.com/2026/06/440478.html</link>
-      <description>&lt;![CDATA[GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/440478.html</guid>
+      <title>Safely Releasing Frontier Models to Customers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/</link>
+      <description>&lt;![CDATA[Safely Releasing Frontier Models to Customers]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 03:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/</guid>
       <category>Ai</category>
     </item>
   </channel>

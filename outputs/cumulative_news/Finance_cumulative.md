@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-01 00:08
+**最后更新时间**: 2026-07-01 08:52
+
+---
+
+## 🆕 最新更新 (2026-07-01 08:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Democratic Socialist wins Colorado primary](https://www.ft.com/content/36b9c745-5934-48b0-a505-f45d196ad632)
+**发布时间**: 2026-07-01 04:32
+
+#### [Uniqlo’s plan to dominate global fashion](https://www.ft.com/content/3d9fcefd-f07f-47e2-a92e-32ee41c0443d)
+**发布时间**: 2026-07-01 04:00
+
+#### [The fragility of the world’s economic resilience](https://www.ft.com/content/7d732c78-8d3d-4e10-a3a1-4e0c79e36d36)
+**发布时间**: 2026-07-01 04:00
+
+#### [Germany woos Trump with plan to make US weapons in Europe](https://www.ft.com/content/e9b71e3f-8f99-477a-87b3-0985e5bbf081)
+**发布时间**: 2026-07-01 04:00
+
+#### [Planes leaving half full in EU border chaos, says industry](https://www.ft.com/content/54ade9a4-b89e-482b-809f-c7fec11c59a0)
+**发布时间**: 2026-07-01 04:00
+
+#### [AI and crypto wealth driving private jet boom, says Flexjet](https://www.ft.com/content/31cd2c1c-fb5e-44e8-9cc5-2367274b81dd)
+**发布时间**: 2026-07-01 04:00
+
+#### [Five things we learnt from Trump’s financial disclosure](https://www.ft.com/content/b96ab721-90bf-47bf-90a1-941fd8faabc5)
+**发布时间**: 2026-07-01 03:03
+
+#### [White House lifts ban on Anthropic models](https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b)
+**发布时间**: 2026-07-01 02:34
+
+#### [Donald Trump made more than $1bn last year in return to presidency](https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec)
+**发布时间**: 2026-07-01 00:04
+
+#### [‘Unprecedented’ plane crash tests Beijing’s sense of security](https://www.ft.com/content/b1fae3cd-5507-4aed-968a-a18ee884e1e2)
+**发布时间**: 2026-06-30 18:36
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.](https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 02:01
+
+#### [This threat to the chip rally has surged to its highest level since 2015](https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 01:57
 
 ---
 

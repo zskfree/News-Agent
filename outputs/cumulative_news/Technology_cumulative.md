@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-01 00:08
+**最后更新时间**: 2026-07-01 08:52
+
+---
+
+## 🆕 最新更新 (2026-07-01 08:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [美通社推出Amplify™智能传播平台，以行业领先的AI传播赋能力强势登陆亚太](https://www.tmtpost.com/8048743.html)
+**发布时间**: 2026-07-01 16:36
+
+#### [AI巨头强行折叠网页生态，内容创作者加速收复商业“护城河”](https://www.tmtpost.com/8048733.html)
+**发布时间**: 2026-07-01 16:01
+
+#### [SpaceX： AI 烧钱不止，"太空算力霸权" 才是终极杀](https://www.tmtpost.com/8048727.html)
+**发布时间**: 2026-07-01 15:55
+
+#### [多家货代拒收货物，美国站卖家迎来生死劫](https://www.tmtpost.com/8048581.html)
+**发布时间**: 2026-07-01 15:50
+
+#### [左手手表，右手戒指：这届科技中产的钱，到底该花在哪只手上？](https://www.tmtpost.com/8048396.html)
+**发布时间**: 2026-07-01 15:43
+
+#### [市占率全国第一，最会卖儿科药的公司冲刺IPO](https://www.tmtpost.com/8048233.html)
+**发布时间**: 2026-07-01 15:29
+
+#### [全国最大灵活用工平台，要去IPO了](https://www.tmtpost.com/8048500.html)
+**发布时间**: 2026-07-01 15:22
+
+#### [估值腰斩、IPO失效，为何资本不再为国货美妆买单？](https://www.tmtpost.com/8048456.html)
+**发布时间**: 2026-07-01 15:17
+
+#### [肿瘤基因检测：行业乱象、技术执念和未来思考](https://www.tmtpost.com/8048421.html)
+**发布时间**: 2026-07-01 15:14
+
+#### [豆包，开始学智谱](https://www.tmtpost.com/8048416.html)
+**发布时间**: 2026-07-01 15:14
+
+#### [现金流，正在把中国的酒店劈成两半](https://www.tmtpost.com/8048373.html)
+**发布时间**: 2026-07-01 15:12
+
+#### [AI越疯狂，你买电脑越贵：存储御三家的四十年战争](https://www.tmtpost.com/8048348.html)
+**发布时间**: 2026-07-01 15:09
+
+#### [叠纸游戏信任危机全复盘：《恋与深空》道歉，承诺永不推出新男主](https://www.tmtpost.com/8048304.html)
+**发布时间**: 2026-07-01 15:09
+
+#### [超智融合时代，国产算力正在重写游戏规则丨ToB产业观察](https://www.tmtpost.com/8048652.html)
+**发布时间**: 2026-07-01 14:55
+
+#### [世纪华通“数龙杯”澳门峰会落幕，锚定澳门打造中国AI出海枢纽](https://www.tmtpost.com/8047189.html)
+**发布时间**: 2026-07-01 14:34
+
+#### [拟1.3亿入股南京集溢“轻踩”半导体，海川智能高位股价急寻新故事](https://www.tmtpost.com/8048595.html)
+**发布时间**: 2026-07-01 14:34
+
+#### [Claude Code 隐写术曝光：你的 AI 编程助手，在背后标记了你](https://www.tmtpost.com/8048633.html)
+**发布时间**: 2026-07-01 14:20
+
+#### [建议嘀嗒们都去找一个自己的同程](https://www.tmtpost.com/8048212.html)
+**发布时间**: 2026-07-01 13:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [聚力 AI 硬件创新｜2026 首届 openvela AI 硬件开发者大赛火热报名中](https://www.infoq.cn/article/arkN5tbl3ttDUTMM7v5J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 16:02
+
+#### [Cloudflare 如何解决了 quiche 中的一个拥塞漏洞](https://www.infoq.cn/article/CHON5sllKKAMBg309xiZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 15:01
+
+#### [他用一条中文推文，点燃DeepSeek开源社区](https://www.infoq.cn/video/7drQWlqtxBb5euT4eUYB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 14:36
+
+#### [Agent成为数据库新用户，AI数据库为什么必须走向湖库一体？](https://www.infoq.cn/article/1f1PdxW2458qx5gPfyeg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 14:11
+
+#### [Slack 概述了构建多云 AI 服务平台的四阶段发展路径](https://www.infoq.cn/article/GMuuiabHp38rbydKJVqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 13:29
+
+#### [Cloudflare 推出支持零信任部署和迁移的代理技能](https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 11:00
+
+#### [在企业内部构建欧洲云编排平台](https://www.infoq.cn/article/WauDgmzsNkHocILNI86f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 09:40
+
+#### [Snowflake 语义模型与视图构建指南：最佳实践及避坑红黑榜 ｜ 技术实践](https://www.infoq.cn/article/OS5epqdWCWKyETZORvk2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-30 15:00
+
+#### [从 QCon 到 AICon：参加 InfoQ 技术大会的第五年](https://xie.infoq.cn/article/7810d0c988001188136144c14?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-17 14:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [\[送码\] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发](https://sspai.com/post/111640)
+**发布时间**: 2026-07-01 15:03
+
+#### [年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
+**发布时间**: 2026-07-01 10:27
+
+#### [派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
+**发布时间**: 2026-07-01 07:48
 
 ---
 
