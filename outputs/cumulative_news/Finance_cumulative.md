@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-01 08:52
+**最后更新时间**: 2026-07-02 00:11
+
+---
+
+## 🆕 最新更新 (2026-07-02 00:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.](https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 23:48
+
+#### [Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 23:11
+
+#### [‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?](https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 23:01
+
+#### [CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud](https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 22:05
+
+#### [This is the best time ‘in a generation’ to buy space and defense stocks, analysts say](https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:58
+
+#### [Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.](https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:55
+
+#### [ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says](https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:54
+
+#### [Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses](https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:51
+
+#### [I’m 53 and want to retire in 12 years. Is 5% enough to put in my 401(k)?](https://www.marketwatch.com/story/im-53-and-want-to-retire-in-12-years-is-5-enough-to-put-in-my-401-k-6f39fc6e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:37
+
+#### [Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories)
+**发布时间**: 2026-07-01 21:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [White House accelerates plans for AI model standards](https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a)
+**发布时间**: 2026-07-01 22:51
+
+#### [Trump made up to $1.4bn in stock purchases in 2025](https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5)
+**发布时间**: 2026-07-01 21:26
+
+#### [KNDS postpones IPO after investors balk at €12bn-plus valuation](https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194)
+**发布时间**: 2026-07-01 20:49
+
+#### [Mega takeovers drive record $2.8tn in dealmaking](https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f)
+**发布时间**: 2026-07-01 20:00
+
+#### [US opts not to renew Trump’s trade deal with Mexico and Canada](https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a)
+**发布时间**: 2026-07-01 18:29
+
+#### [Supreme Court checks Trump, but empowers the presidency](https://www.ft.com/content/5627d320-920b-4527-8b52-71f7d182d968)
+**发布时间**: 2026-07-01 17:40
+
+#### [This is how we can make AI safe for everyone](https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca)
+**发布时间**: 2026-07-01 16:23
+
+#### [FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM](https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5)
+**发布时间**: 2026-07-01 13:51
+
+#### [Self-drive start-up Wayve to be first big test of London’s Pisces market](https://www.ft.com/content/10c0f880-7727-4f65-96c0-a4307e450fc9)
+**发布时间**: 2026-07-01 12:51
+
+#### [Pancakes and holograms fail to draw crowds to Trump’s ‘Freedom 250’ fair](https://www.ft.com/content/fc6d20d0-f6eb-4927-8e60-2306dfde5638)
+**发布时间**: 2026-07-01 10:35
 
 ---
 

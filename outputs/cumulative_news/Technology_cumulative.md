@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-01 08:52
+**最后更新时间**: 2026-07-02 00:11
+
+---
+
+## 🆕 最新更新 (2026-07-02 00:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】新能源汽车6月交付情况速览：13家交付量超3万，5家同比增超50%；世界黄金协会：预计黄金投资将在下半年步入关键期；国内航线燃油附加费7月5日起下调](https://www.tmtpost.com/8049458.html)
+**发布时间**: 2026-07-02 07:20
+
+#### [Shipping Gridlock: New US Customs Rule Forces Freight Forwarders to Reject E-Commerce Cargo](https://www.tmtpost.com/8049419.html)
+**发布时间**: 2026-07-01 20:34
+
+#### [US Section 337 Investigation Targets Smart Devices: Cross-Border Sellers Lose Millions in Unsold Inventory](https://www.tmtpost.com/8049402.html)
+**发布时间**: 2026-07-01 20:17
+
+#### [百济神州距离MNC还有多远？](https://www.tmtpost.com/8049073.html)
+**发布时间**: 2026-07-01 19:21
+
+#### [算力之战，阿里云要打到海外去](https://www.tmtpost.com/8048934.html)
+**发布时间**: 2026-07-01 19:21
+
+#### [在天孚，增速81%的业务毛利率46%，增速32%的业务毛利率63%](https://www.tmtpost.com/8045630.html)
+**发布时间**: 2026-07-01 19:21
+
+#### [保险业的分化时刻：AI上桌，组织能力才是那盘“菜”？](https://www.tmtpost.com/8047429.html)
+**发布时间**: 2026-07-01 19:20
+
+#### [用AI检测AIGC率，靠谱吗？](https://www.tmtpost.com/8049132.html)
+**发布时间**: 2026-07-01 19:19
+
+#### [王兴回归理性，美团认真算账](https://www.tmtpost.com/8048276.html)
+**发布时间**: 2026-07-01 19:18
+
+#### [字节Seed最新论文，解决了AI改图的核心难点](https://www.tmtpost.com/8047518.html)
+**发布时间**: 2026-07-01 19:18
+
+#### [欧莱雅VivaTech十年：用AI重写美妆创新方法论](https://www.tmtpost.com/8048103.html)
+**发布时间**: 2026-07-01 18:10
+
+#### [开源鸿蒙入局机器人，M-Robots不想再各自为战](https://www.tmtpost.com/8048275.html)
+**发布时间**: 2026-07-01 18:09
+
+#### [99万的陪伴机器人，优必选不只是想单纯卖硬件](https://www.tmtpost.com/8048847.html)
+**发布时间**: 2026-07-01 18:08
+
+#### [一年原值回购，三年8折回购：自信、自救，还是自杀？](https://www.tmtpost.com/8049064.html)
+**发布时间**: 2026-07-01 17:31
+
+#### [博万尚能否逆转欧莱雅北亚业绩负增长？](https://www.tmtpost.com/8048972.html)
+**发布时间**: 2026-07-01 17:31
+
+#### [月活5亿、付费用户2.6亿，海外最大短剧集团背后是迪士尼，押注这一市场买量涨423%](https://www.tmtpost.com/8045516.html)
+**发布时间**: 2026-07-01 17:20
+
+#### [五家人形机器人公司，谁把故事写进了财报？](https://www.tmtpost.com/8047045.html)
+**发布时间**: 2026-07-01 17:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [前后端一起消失：AI Coding 正在改写大厂工程师分工](https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 17:59
+
+#### [Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全](https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 17:32
+
+#### [Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁](https://www.infoq.cn/article/S9zHYQqfFCXt8GoLlM5W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-01 17:09
+
+#### [有奖共建｜跑过数百万台服务器的AI运维系统开源了！提PR/报Bug/写体验，通通有奖](https://xie.infoq.cn/article/bc3d416caccb50b6dc6044c04?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-29 13:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
+**发布时间**: 2026-07-01 17:30
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [免费 Token 烧掉 5 万亿之后，他们出了个一站式创作平台。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534987&idx=1&sn=acb8ed7a2c788cda88f20543cad8a4bf)
+**发布时间**: 2026-07-01 11:30
 
 ---
 

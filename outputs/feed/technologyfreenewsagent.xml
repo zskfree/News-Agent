@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Jul 2026 08:52:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 08:52:42 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 00:11:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:11:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI越疯狂，你买电脑越贵：存储御三家的四十年战争</title>
-      <link>https://www.tmtpost.com/8048348.html</link>
-      <description>&lt;![CDATA[AI越疯狂，你买电脑越贵：存储御三家的四十年战争]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8048348.html</guid>
+      <title>前后端一起消失：AI Coding 正在改写大厂工程师分工</title>
+      <link>https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[前后端一起消失：AI Coding 正在改写大厂工程师分工]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI巨头强行折叠网页生态，内容创作者加速收复商业“护城河”</title>
-      <link>https://www.tmtpost.com/8048733.html</link>
-      <description>&lt;![CDATA[AI巨头强行折叠网页生态，内容创作者加速收复商业“护城河”]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8048733.html</guid>
+      <title>算力之战，阿里云要打到海外去</title>
+      <link>https://www.tmtpost.com/8048934.html</link>
+      <description>&lt;![CDATA[算力之战，阿里云要打到海外去]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8048934.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent成为数据库新用户，AI数据库为什么必须走向湖库一体？</title>
-      <link>https://www.infoq.cn/article/1f1PdxW2458qx5gPfyeg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent成为数据库新用户，AI数据库为什么必须走向湖库一体？]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1f1PdxW2458qx5gPfyeg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节Seed最新论文，解决了AI改图的核心难点</title>
+      <link>https://www.tmtpost.com/8047518.html</link>
+      <description>&lt;![CDATA[字节Seed最新论文，解决了AI改图的核心难点]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8047518.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超智融合时代，国产算力正在重写游戏规则丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8048652.html</link>
-      <description>&lt;![CDATA[超智融合时代，国产算力正在重写游戏规则丨ToB产业观察]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8048652.html</guid>
+      <title>开源鸿蒙入局机器人，M-Robots不想再各自为战</title>
+      <link>https://www.tmtpost.com/8048275.html</link>
+      <description>&lt;![CDATA[开源鸿蒙入局机器人，M-Robots不想再各自为战]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 18:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8048275.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>他用一条中文推文，点燃DeepSeek开源社区</title>
-      <link>https://www.infoq.cn/video/7drQWlqtxBb5euT4eUYB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[他用一条中文推文，点燃DeepSeek开源社区]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/7drQWlqtxBb5euT4eUYB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁</title>
+      <link>https://www.infoq.cn/article/S9zHYQqfFCXt8GoLlM5W?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/S9zHYQqfFCXt8GoLlM5W?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 隐写术曝光：你的 AI 编程助手，在背后标记了你</title>
-      <link>https://www.tmtpost.com/8048633.html</link>
-      <description>&lt;![CDATA[Claude Code 隐写术曝光：你的 AI 编程助手，在背后标记了你]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8048633.html</guid>
+      <title>五家人形机器人公司，谁把故事写进了财报？</title>
+      <link>https://www.tmtpost.com/8047045.html</link>
+      <description>&lt;![CDATA[五家人形机器人公司，谁把故事写进了财报？]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8047045.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 如何解决了 quiche 中的一个拥塞漏洞</title>
-      <link>https://www.infoq.cn/article/CHON5sllKKAMBg309xiZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 如何解决了 quiche 中的一个拥塞漏洞]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CHON5sllKKAMBg309xiZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全</title>
+      <link>https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Slack 概述了构建多云 AI 服务平台的四阶段发展路径</title>
-      <link>https://www.infoq.cn/article/GMuuiabHp38rbydKJVqW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Slack 概述了构建多云 AI 服务平台的四阶段发展路径]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GMuuiabHp38rbydKJVqW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包，开始学智谱</title>
+      <link>https://www.tmtpost.com/8048416.html</link>
+      <description>&lt;![CDATA[豆包，开始学智谱]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8048416.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 推出支持零信任部署和迁移的代理技能</title>
-      <link>https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 推出支持零信任部署和迁移的代理技能]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>用AI检测AIGC率，靠谱吗？</title>
+      <link>https://www.tmtpost.com/8049132.html</link>
+      <description>&lt;![CDATA[用AI检测AIGC率，靠谱吗？]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8049132.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在企业内部构建欧洲云编排平台</title>
-      <link>https://www.infoq.cn/article/WauDgmzsNkHocILNI86f?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在企业内部构建欧洲云编排平台]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WauDgmzsNkHocILNI86f?utm_source=rss&amp;utm_medium=article</guid>
+      <title>欧莱雅VivaTech十年：用AI重写美妆创新方法论</title>
+      <link>https://www.tmtpost.com/8048103.html</link>
+      <description>&lt;![CDATA[欧莱雅VivaTech十年：用AI重写美妆创新方法论]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8048103.html</guid>
       <category>Technology</category>
     </item>
   </channel>
