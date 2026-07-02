@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 00:11
+**最后更新时间**: 2026-07-02 08:14
+
+---
+
+## 🆕 最新更新 (2026-07-02 08:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何利用 AI Agent 实现热补丁的自动化生成](https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 16:00
+
+#### [从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践](https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 15:12
+
+#### [GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升](https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 15:00
+
+#### [让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”](https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 12:45
+
+#### [Vercel 推出开源 AI 智能体开发框架 Eve](https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 10:54
+
+#### [代码是写给未来的讯息](https://www.infoq.cn/article/UIxTYxSIfevGUg2BZ567?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 10:41
+
+#### [当设计师和PM都开始写代码，产品构建方式又要变天了？](https://www.infoq.cn/article/cbDEPCWE9llMsjy15Eo8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 10:35
+
+#### [Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j](https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 10:25
+
+#### [Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力](https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 09:29
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [旧船已漏，新陆未现 — 一个普通人在AI时代的观察与思考](https://www.tmtpost.com/8049344.html)
+**发布时间**: 2026-07-02 15:32
+
+#### [康宁“玻璃桥”，开启光互连的晶圆制造时代](https://www.tmtpost.com/8049241.html)
+**发布时间**: 2026-07-02 12:41
+
+#### [瑞士生物科技企业metaLead研发金属结合短肽技术，选择性清除体内病理性金属 | 瑞士创新100强](https://www.tmtpost.com/8049871.html)
+**发布时间**: 2026-07-02 12:20
+
+#### [两个坐过牢的人，狂砸21万亿元，改写韩国产业史？](https://www.tmtpost.com/8049151.html)
+**发布时间**: 2026-07-02 12:20
+
+#### [美的空调在欧洲被抢成“奢侈品”，格力也在努力了](https://www.tmtpost.com/8049312.html)
+**发布时间**: 2026-07-02 12:20
+
+#### [蒸馏战争全面开打：从Meta封堵Claude与Codex开始](https://www.tmtpost.com/8048728.html)
+**发布时间**: 2026-07-02 12:06
+
+#### [2026世界杯流量暗战：谁在悄悄分食“赛场之外”？](https://www.tmtpost.com/8048524.html)
+**发布时间**: 2026-07-02 11:52
+
+#### [灵光一号位转岗，蚂蚁阿福收兵](https://www.tmtpost.com/8049526.html)
+**发布时间**: 2026-07-02 11:40
+
+#### [AI营销“引擎”已就位，但企业的“燃油泵”准备好了么？](https://www.tmtpost.com/8049807.html)
+**发布时间**: 2026-07-02 11:22
+
+#### [印度坑了苹果](https://www.tmtpost.com/8049834.html)
+**发布时间**: 2026-07-02 10:47
+
+#### [精打细算的AI时代到来了](https://www.tmtpost.com/8049799.html)
+**发布时间**: 2026-07-02 10:47
+
+#### [蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？](https://www.tmtpost.com/8049822.html)
+**发布时间**: 2026-07-02 10:47
+
+#### [制冷剂三年狂飙400%：谁在闷声发大财？](https://www.tmtpost.com/8049798.html)
+**发布时间**: 2026-07-02 10:19
+
+#### [跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](https://www.tmtpost.com/8049296.html)
+**发布时间**: 2026-07-02 10:19
+
+#### [踩着物理AI的风口，Momenta冲刺IPO](https://www.tmtpost.com/8049748.html)
+**发布时间**: 2026-07-02 09:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [共创试读 | 给过去的自己一件礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
+**发布时间**: 2026-07-02 15:00
+
+#### [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
+**发布时间**: 2026-07-02 12:16
+
+#### [派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
+**发布时间**: 2026-07-02 08:34
 
 ---
 

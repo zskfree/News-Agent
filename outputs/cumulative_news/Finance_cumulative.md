@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 00:11
+**最后更新时间**: 2026-07-02 08:14
+
+---
+
+## 🆕 最新更新 (2026-07-02 08:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia unleashes huge bombardment of Kyiv](https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6)
+**发布时间**: 2026-07-02 06:49
+
+#### [OpenAI proposes handing Trump administration 5% stake](https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b)
+**发布时间**: 2026-07-02 04:00
+
+#### [Trump’s billion-dollar makeover of Washington DC](https://ig.ft.com/trump-dc/)
+**发布时间**: 2026-07-02 04:00
+
+#### [The economics of women’s weight](https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9)
+**发布时间**: 2026-07-02 04:00
+
+#### [Can Kevin Warsh tame the Fed’s $7tn balance sheet?](https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb)
+**发布时间**: 2026-07-02 04:00
+
+#### [Sony is first console giant to stop making physical games](https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420)
+**发布时间**: 2026-07-02 02:54
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop](https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 00:15
 
 ---
 

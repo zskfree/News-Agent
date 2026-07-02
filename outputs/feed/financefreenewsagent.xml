@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 00:11:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 00:11:06 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 08:14:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:14:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mega takeovers drive record $2.8tn in dealmaking</title>
-      <link>https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f</link>
-      <description>&lt;![CDATA[Mega takeovers drive record $2.8tn in dealmaking]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f</guid>
+      <title>Russia unleashes huge bombardment of Kyiv</title>
+      <link>https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6</link>
+      <description>&lt;![CDATA[Russia unleashes huge bombardment of Kyiv]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 06:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>US opts not to renew Trump’s trade deal with Mexico and Canada</title>
-      <link>https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a</link>
-      <description>&lt;![CDATA[US opts not to renew Trump’s trade deal with Mexico and Canada]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a</guid>
+      <title>OpenAI proposes handing Trump administration 5% stake</title>
+      <link>https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b</link>
+      <description>&lt;![CDATA[OpenAI proposes handing Trump administration 5% stake]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>KNDS postpones IPO after investors balk at €12bn-plus valuation</title>
-      <link>https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194</link>
-      <description>&lt;![CDATA[KNDS postpones IPO after investors balk at €12bn-plus valuation]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 20:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194</guid>
+      <title>Trump’s billion-dollar makeover of Washington DC</title>
+      <link>https://ig.ft.com/trump-dc/</link>
+      <description>&lt;![CDATA[Trump’s billion-dollar makeover of Washington DC]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ig.ft.com/trump-dc/</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM</title>
-      <link>https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5</link>
-      <description>&lt;![CDATA[FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5</guid>
+      <title>The economics of women’s weight</title>
+      <link>https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9</link>
+      <description>&lt;![CDATA[The economics of women’s weight]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>White House accelerates plans for AI model standards</title>
-      <link>https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a</link>
-      <description>&lt;![CDATA[White House accelerates plans for AI model standards]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 22:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a</guid>
+      <title>Can Kevin Warsh tame the Fed’s $7tn balance sheet?</title>
+      <link>https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb</link>
+      <description>&lt;![CDATA[Can Kevin Warsh tame the Fed’s $7tn balance sheet?]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud</title>
-      <link>https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 22:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories</guid>
+      <title>Sony is first console giant to stop making physical games</title>
+      <link>https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420</link>
+      <description>&lt;![CDATA[Sony is first console giant to stop making physical games]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 02:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Self-drive start-up Wayve to be first big test of London’s Pisces market</title>
-      <link>https://www.ft.com/content/10c0f880-7727-4f65-96c0-a4307e450fc9</link>
-      <description>&lt;![CDATA[Self-drive start-up Wayve to be first big test of London’s Pisces market]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 12:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/10c0f880-7727-4f65-96c0-a4307e450fc9</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>This is the best time ‘in a generation’ to buy space and defense stocks, analysts say</title>
-      <link>https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[This is the best time ‘in a generation’ to buy space and defense stocks, analysts say]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says</title>
-      <link>https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses</title>
-      <link>https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories</guid>
+      <title>Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop</title>
+      <link>https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 00:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
