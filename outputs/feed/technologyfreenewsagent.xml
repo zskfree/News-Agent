@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Jul 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 00:07:59 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 08:10:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:10:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推理成本砍掉一半以上，OpenAI摸着DeepSeek过河</title>
-      <link>https://www.tmtpost.com/8050492.html</link>
-      <description>&lt;![CDATA[推理成本砍掉一半以上，OpenAI摸着DeepSeek过河]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8050492.html</guid>
+      <title>真正有价值的AI Agent，必须长在业务流程里</title>
+      <link>https://www.tmtpost.com/8051777.html</link>
+      <description>&lt;![CDATA[真正有价值的AI Agent，必须长在业务流程里]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051777.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？</title>
-      <link>https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动</title>
+      <link>https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微米的黄昏——当晶圆波导撞上 FAU 的精度神话</title>
-      <link>https://www.tmtpost.com/8049851.html</link>
-      <description>&lt;![CDATA[微米的黄昏——当晶圆波导撞上 FAU 的精度神话]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8049851.html</guid>
+      <title>AI账单暴涨，实际效益难言：谁在助推“Token通胀”？</title>
+      <link>https://www.tmtpost.com/8051758.html</link>
+      <description>&lt;![CDATA[AI账单暴涨，实际效益难言：谁在助推“Token通胀”？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051758.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI大厂，正在互相设防</title>
-      <link>https://www.tmtpost.com/8050490.html</link>
-      <description>&lt;![CDATA[AI大厂，正在互相设防]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8050490.html</guid>
+      <title>投资人疯抢具身智能</title>
+      <link>https://www.tmtpost.com/8051824.html</link>
+      <description>&lt;![CDATA[投资人疯抢具身智能]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051824.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践</title>
-      <link>https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谁在卡灵巧手的脖子？</title>
+      <link>https://www.tmtpost.com/8051427.html</link>
+      <description>&lt;![CDATA[谁在卡灵巧手的脖子？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051427.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境</title>
-      <link>https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从生成到交付，音视频 Agent 要有生产级开发套件</title>
+      <link>https://www.infoq.cn/article/qA1Ucwbw3KZy5yIgCrVo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从生成到交付，音视频 Agent 要有生产级开发套件]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qA1Ucwbw3KZy5yIgCrVo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当设计师和PM都开始写代码，产品构建方式又要变天了？</title>
-      <link>https://www.infoq.cn/article/cbDEPCWE9llMsjy15Eo8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当设计师和PM都开始写代码，产品构建方式又要变天了？]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cbDEPCWE9llMsjy15Eo8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI企业画的饼，正在反噬自己</title>
+      <link>https://www.tmtpost.com/8051813.html</link>
+      <description>&lt;![CDATA[AI企业画的饼，正在反噬自己]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051813.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta都要变卖算力了，AI基建泡沫要破了吗？</title>
-      <link>https://www.tmtpost.com/8050077.html</link>
-      <description>&lt;![CDATA[Meta都要变卖算力了，AI基建泡沫要破了吗？]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8050077.html</guid>
+      <title>2026，谁在为机器“人”买单？</title>
+      <link>https://www.tmtpost.com/8051595.html</link>
+      <description>&lt;![CDATA[2026，谁在为机器“人”买单？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051595.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia</title>
-      <link>https://www.tmtpost.com/8050761.html</link>
-      <description>&lt;![CDATA[The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 20:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8050761.html</guid>
+      <title>德聚技术：横扫苹果、特斯拉供应链，究竟用了什么妙招？</title>
+      <link>https://www.tmtpost.com/8051734.html</link>
+      <description>&lt;![CDATA[德聚技术：横扫苹果、特斯拉供应链，究竟用了什么妙招？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8051734.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？</title>
-      <link>https://www.tmtpost.com/8049822.html</link>
-      <description>&lt;![CDATA[蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8049822.html</guid>
+      <title>Java 实时系统扩容：事件驱动设计的隐性权衡</title>
+      <link>https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 实时系统扩容：事件驱动设计的隐性权衡]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

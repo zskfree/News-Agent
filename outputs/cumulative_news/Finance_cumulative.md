@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-03 00:07
+**最后更新时间**: 2026-07-03 08:10
+
+---
+
+## 🆕 最新更新 (2026-07-03 08:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market open today? Here’s how Fourth of July weekend affects trading hours.](https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 04:09
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic moves to close loopholes that allow Chinese access to Claude](https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60)
+**发布时间**: 2026-07-03 04:00
+
+#### [How Jamie Dimon’s long succession race claimed another victim](https://www.ft.com/content/4ab13dd4-b71d-45cf-bc44-8b17cb0ee8e0)
+**发布时间**: 2026-07-03 04:00
+
+#### [Investing in an age of lawlessness](https://www.ft.com/content/94aa54f6-7fe0-4829-8877-d6408ffe3d0f)
+**发布时间**: 2026-07-03 04:00
+
+#### [Albania’s flamingos meet the Trump family bulldozers](https://www.ft.com/content/55fe7ae6-c973-4382-a0b5-2cbdbcdc587b)
+**发布时间**: 2026-07-03 04:00
+
+#### [Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’](https://www.ft.com/content/1d3da122-c043-4e51-bb95-ac68d41ab838)
+**发布时间**: 2026-07-03 04:00
+
+#### [World Cup goals spree by star players proves costly for gambling companies](https://www.ft.com/content/fb195a38-0717-4745-bf69-4b3cdbee31fe)
+**发布时间**: 2026-07-03 04:00
+
+#### [England-Mexico ticket prices soar to $36,000](https://www.ft.com/content/c40423b9-d469-45e0-bb1f-7a543c74f376)
+**发布时间**: 2026-07-03 04:00
+
+#### [Gymshark founder in talks to buy back stake from General Atlantic](https://www.ft.com/content/2096f4b1-7590-42d4-9a8b-a1358ad6f77b)
+**发布时间**: 2026-07-03 04:00
+
+#### [Iran readies mega-funeral for slain supreme leader](https://www.ft.com/content/e3427b24-6e5c-4ce3-9042-aa111cd7ff1f)
+**发布时间**: 2026-07-03 04:00
 
 ---
 

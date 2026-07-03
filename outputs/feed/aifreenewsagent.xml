@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Jul 2026 00:06:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 00:08:07 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 08:10:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:10:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%</title>
-      <link>https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html</link>
-      <description>&lt;![CDATA[自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html</guid>
+      <title>矿卡智驾是不是好生意？三年亏损12.4亿元，易控智驾仍未甩掉「重资产」的包袱</title>
+      <link>https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html</link>
+      <description>&lt;![CDATA[矿卡智驾是不是好生意？三年亏损12.4亿元，易控智驾仍未甩掉「重资产」的包袱]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施</title>
-      <link>https://www.qbitai.com/2026/07/442134.html</link>
-      <description>&lt;![CDATA[让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442134.html</guid>
+      <title>2026-07-03日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-03/</link>
+      <description>&lt;![CDATA[2026-07-03日刊]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-03/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化</title>
-      <link>https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html</link>
-      <description>&lt;![CDATA[Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html</guid>
+      <title>黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室</title>
+      <link>https://www.qbitai.com/2026/07/442311.html</link>
+      <description>&lt;![CDATA[黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 05:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442311.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊</title>
-      <link>https://www.qbitai.com/2026/07/442030.html</link>
-      <description>&lt;![CDATA[天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442030.html</guid>
+      <title>基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？</title>
+      <link>https://www.qbitai.com/2026/07/442167.html</link>
+      <description>&lt;![CDATA[基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442167.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货</title>
-      <link>https://www.qbitai.com/2026/07/442047.html</link>
-      <description>&lt;![CDATA[全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442047.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全球首份大语言模型安全防范能力测评报告在北京发布</title>
-      <link>https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html</link>
-      <description>&lt;![CDATA[全球首份大语言模型安全防范能力测评报告在北京发布]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How Amazon Bedrock catches AI-generated phishing</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/</link>
-      <description>&lt;![CDATA[How Amazon Bedrock catches AI-generated phishing]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Best practices for multi-turn reinforcement learning in Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/</link>
-      <description>&lt;![CDATA[Best practices for multi-turn reinforcement learning in Amazon SageMaker AI]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>从生成到交付，音视频 Agent 要有生产级开发套件</title>
-      <link>https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</link>
-      <description>&lt;![CDATA[从生成到交付，音视频 Agent 要有生产级开发套件]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>科大讯飞举办智能交互生态发布会，三大平台同步升级</title>
-      <link>https://www.qbitai.com/2026/07/442048.html</link>
-      <description>&lt;![CDATA[科大讯飞举办智能交互生态发布会，三大平台同步升级]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442048.html</guid>
+      <title>世界模型的新用途：不做选手，去当裁判</title>
+      <link>https://www.qbitai.com/2026/07/442138.html</link>
+      <description>&lt;![CDATA[世界模型的新用途：不做选手，去当裁判]]&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 01:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442138.html</guid>
       <category>Ai</category>
     </item>
   </channel>
