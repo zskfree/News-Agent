@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 08:14:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 08:14:39 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 00:07:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:07:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j</title>
-      <link>https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>推理成本砍掉一半以上，OpenAI摸着DeepSeek过河</title>
+      <link>https://www.tmtpost.com/8050492.html</link>
+      <description>&lt;![CDATA[推理成本砍掉一半以上，OpenAI摸着DeepSeek过河]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050492.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升</title>
-      <link>https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？</title>
+      <link>https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力</title>
-      <link>https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微米的黄昏——当晶圆波导撞上 FAU 的精度神话</title>
+      <link>https://www.tmtpost.com/8049851.html</link>
+      <description>&lt;![CDATA[微米的黄昏——当晶圆波导撞上 FAU 的精度神话]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8049851.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蒸馏战争全面开打：从Meta封堵Claude与Codex开始</title>
-      <link>https://www.tmtpost.com/8048728.html</link>
-      <description>&lt;![CDATA[蒸馏战争全面开打：从Meta封堵Claude与Codex开始]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8048728.html</guid>
+      <title>AI大厂，正在互相设防</title>
+      <link>https://www.tmtpost.com/8050490.html</link>
+      <description>&lt;![CDATA[AI大厂，正在互相设防]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050490.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>踩着物理AI的风口，Momenta冲刺IPO</title>
-      <link>https://www.tmtpost.com/8049748.html</link>
-      <description>&lt;![CDATA[踩着物理AI的风口，Momenta冲刺IPO]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8049748.html</guid>
+      <title>从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践</title>
+      <link>https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel 推出开源 AI 智能体开发框架 Eve</title>
-      <link>https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel 推出开源 AI 智能体开发框架 Eve]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境</title>
+      <link>https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”</title>
-      <link>https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当设计师和PM都开始写代码，产品构建方式又要变天了？</title>
+      <link>https://www.infoq.cn/article/cbDEPCWE9llMsjy15Eo8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当设计师和PM都开始写代码，产品构建方式又要变天了？]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cbDEPCWE9llMsjy15Eo8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何利用 AI Agent 实现热补丁的自动化生成</title>
-      <link>https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何利用 AI Agent 实现热补丁的自动化生成]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta都要变卖算力了，AI基建泡沫要破了吗？</title>
+      <link>https://www.tmtpost.com/8050077.html</link>
+      <description>&lt;![CDATA[Meta都要变卖算力了，AI基建泡沫要破了吗？]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>康宁“玻璃桥”，开启光互连的晶圆制造时代</title>
-      <link>https://www.tmtpost.com/8049241.html</link>
-      <description>&lt;![CDATA[康宁“玻璃桥”，开启光互连的晶圆制造时代]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8049241.html</guid>
+      <title>The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia</title>
+      <link>https://www.tmtpost.com/8050761.html</link>
+      <description>&lt;![CDATA[The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050761.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>精打细算的AI时代到来了</title>
-      <link>https://www.tmtpost.com/8049799.html</link>
-      <description>&lt;![CDATA[精打细算的AI时代到来了]]&gt;</description>
+      <title>蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？</title>
+      <link>https://www.tmtpost.com/8049822.html</link>
+      <description>&lt;![CDATA[蓝箭航天IPO：207亿一级估值，750亿二级预期——谁的定价更接近真相？]]&gt;</description>
       <pubDate>Thu, 02 Jul 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8049799.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8049822.html</guid>
       <category>Technology</category>
     </item>
   </channel>

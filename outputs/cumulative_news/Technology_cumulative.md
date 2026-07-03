@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 08:14
+**最后更新时间**: 2026-07-03 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-03 00:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国务院最新批复明确：推进“三大球”振兴发展；Meta“带崩”科技股？业内人士：算力过剩系误读；万科官宣新总裁，宇树科技IPO注册获批](https://www.tmtpost.com/8050848.html)
+**发布时间**: 2026-07-03 07:20
+
+#### [百利食品：研发投入不足1%毛利率反超同行，产能闲置仍募资翻倍扩产｜IPO观察](https://www.tmtpost.com/8049992.html)
+**发布时间**: 2026-07-02 20:17
+
+#### [The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia](https://www.tmtpost.com/8050761.html)
+**发布时间**: 2026-07-02 20:17
+
+#### [远大健科：九成收入来自海外、八成靠亚马逊，重营销轻研发，毛利率远超同行｜IPO观察](https://www.tmtpost.com/8050291.html)
+**发布时间**: 2026-07-02 20:16
+
+#### [AI大厂，正在互相设防](https://www.tmtpost.com/8050490.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [硅胶娃娃+AI，优必选就想卖宅男88万](https://www.tmtpost.com/8050479.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [推理成本砍掉一半以上，OpenAI摸着DeepSeek过河](https://www.tmtpost.com/8050492.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [微信 agent，到底能不能帮腾讯赚钱？](https://www.tmtpost.com/8050426.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [内存末日，无人幸免](https://www.tmtpost.com/8050211.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [养猪成本三年降了3块钱，这轮周期为什么不一样？](https://www.tmtpost.com/8049392.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [独家｜奔驰中国新设GTM部门，避免重蹈CLA覆辙](https://www.tmtpost.com/8050076.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [AI写的书能不能出版？图书编辑没有答案](https://www.tmtpost.com/8050086.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [Meta都要变卖算力了，AI基建泡沫要破了吗？](https://www.tmtpost.com/8050077.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [3900亿，深交所最大IPO来了](https://www.tmtpost.com/8050013.html)
+**发布时间**: 2026-07-02 17:54
+
+#### [微米的黄昏——当晶圆波导撞上 FAU 的精度神话](https://www.tmtpost.com/8049851.html)
+**发布时间**: 2026-07-02 17:54
+
+#### [我妈骨折了，用AI自我诊断后觉得命不久矣](https://www.tmtpost.com/8049913.html)
+**发布时间**: 2026-07-02 17:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一人公司创业，如何找对方法论、选准装备库？](https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 19:43
+
+#### [用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验](https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 18:36
+
+#### [被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？](https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 18:27
+
+#### [Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？](https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 17:19
+
+#### [亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境](https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 17:18
+
+#### [行业智能体时代来临：出行、货运率先破局](https://www.infoq.cn/article/k8tlXTTbFmTGOLojQVZB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 16:21
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息](https://sspai.com/post/110950)
+**发布时间**: 2026-07-02 17:35
+
+#### [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
+**发布时间**: 2026-07-02 15:00
 
 ---
 

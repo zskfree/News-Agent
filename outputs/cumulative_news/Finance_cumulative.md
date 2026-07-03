@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 08:14
+**最后更新时间**: 2026-07-03 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-03 00:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Heat dome’ over eastern US sends electricity prices soaring](https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1)
+**发布时间**: 2026-07-02 23:04
+
+#### [US economy undershoots forecasts with 57,000 jobs added in June](https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea)
+**发布时间**: 2026-07-02 20:14
+
+#### [Apollo struggles to sell Hispanic grocer after US immigration raids hit sales](https://www.ft.com/content/556a939d-b080-4fc4-a799-2807c465ea29)
+**发布时间**: 2026-07-02 17:16
+
+#### [Spotify deletes streams of chart-topping song after suspicious Kalshi bets](https://www.ft.com/content/2e10851c-9f47-410d-b46e-2a617118b05a)
+**发布时间**: 2026-07-02 16:29
+
+#### [On America’s 250th, remember your Adam Smith . . .](https://www.ft.com/content/6da17af5-56c0-4771-9671-b7976be4480c)
+**发布时间**: 2026-07-02 16:20
+
+#### [Altman’s AI safety proposal: let us win, or everybody loses](https://www.ft.com/content/5e92ffa4-c164-4fdd-8219-de08053d4076)
+**发布时间**: 2026-07-02 16:15
+
+#### [Blue Owl hit by $4.7bn of redemption requests as investor exodus persists](https://www.ft.com/content/b302a86d-f6eb-4d47-b90b-523c1c19b3fa)
+**发布时间**: 2026-07-02 12:33
+
+#### [Trump’s $1bn plan to remake America’s capital](https://ig.ft.com/trump-dc/)
+**发布时间**: 2026-07-02 04:00
+
+#### [Why Americans are about to pay so much for their July 4 hot dog](https://www.ft.com/content/30af48c1-9746-4a75-879b-0e897dd4f78f)
+**发布时间**: 2026-07-02 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?](https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 23:00
+
+#### [When does my kid get the free ‘Trump account’ money?](https://www.marketwatch.com/story/when-does-my-kid-get-the-free-trump-account-money-37c3f503?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:41
+
+#### [Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.](https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:38
+
+#### [Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates](https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:30
+
+#### [I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?](https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:27
+
+#### [5 things to know about Jersey Mike’s ahead of its IPO](https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:24
+
+#### [Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses](https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:12
+
+#### [Trump’s real-estate licensing income in foreign countries nearly doubled — and now features Qatar and Romania](https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 22:00
+
+#### [Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era](https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 21:57
 
 ---
 

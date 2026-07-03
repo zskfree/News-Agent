@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 08:12:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 08:14:40 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:08:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026</title>
-      <link>https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html</link>
-      <description>&lt;![CDATA[十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 13:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html</guid>
+      <title>自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%</title>
+      <link>https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html</link>
+      <description>&lt;![CDATA[自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡</title>
-      <link>https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html</link>
-      <description>&lt;![CDATA[ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html</guid>
+      <title>让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施</title>
+      <link>https://www.qbitai.com/2026/07/442134.html</link>
+      <description>&lt;![CDATA[让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442134.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>世界模型来了因果技术标杆！具身大脑真要长脑子了</title>
-      <link>https://www.qbitai.com/2026/07/441490.html</link>
-      <description>&lt;![CDATA[世界模型来了因果技术标杆！具身大脑真要长脑子了]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 04:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441490.html</guid>
+      <title>Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化</title>
+      <link>https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html</link>
+      <description>&lt;![CDATA[Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>训练世界模型，开始从人类的肌肉和脑子里偷师了</title>
-      <link>https://www.qbitai.com/2026/07/441725.html</link>
-      <description>&lt;![CDATA[训练世界模型，开始从人类的肌肉和脑子里偷师了]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 05:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441725.html</guid>
+      <title>天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊</title>
+      <link>https://www.qbitai.com/2026/07/442030.html</link>
+      <description>&lt;![CDATA[天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442030.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」</title>
-      <link>https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html</link>
-      <description>&lt;![CDATA[Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html</guid>
+      <title>全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货</title>
+      <link>https://www.qbitai.com/2026/07/442047.html</link>
+      <description>&lt;![CDATA[全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442047.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
-      <description>&lt;![CDATA[NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 03:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid>
+      <title>全球首份大语言模型安全防范能力测评报告在北京发布</title>
+      <link>https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html</link>
+      <description>&lt;![CDATA[全球首份大语言模型安全防范能力测评报告在北京发布]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI眼镜不再依赖手机！这次真要单飞了</title>
-      <link>https://www.qbitai.com/2026/07/441491.html</link>
-      <description>&lt;![CDATA[AI眼镜不再依赖手机！这次真要单飞了]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441491.html</guid>
+      <title>How Amazon Bedrock catches AI-generated phishing</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/</link>
+      <description>&lt;![CDATA[How Amazon Bedrock catches AI-generated phishing]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人才黑洞！UC伯克利系主任都加入A社了</title>
-      <link>https://www.qbitai.com/2026/07/441447.html</link>
-      <description>&lt;![CDATA[人才黑洞！UC伯克利系主任都加入A社了]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 03:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441447.html</guid>
+      <title>Best practices for multi-turn reinforcement learning in Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Best practices for multi-turn reinforcement learning in Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进</title>
-      <link>https://www.qbitai.com/2026/07/441786.html</link>
-      <description>&lt;![CDATA[天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 06:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441786.html</guid>
+      <title>从生成到交付，音视频 Agent 要有生产级开发套件</title>
+      <link>https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</link>
+      <description>&lt;![CDATA[从生成到交付，音视频 Agent 要有生产级开发套件]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！</title>
-      <link>https://www.qbitai.com/2026/07/441586.html</link>
-      <description>&lt;![CDATA[2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 05:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441586.html</guid>
+      <title>科大讯飞举办智能交互生态发布会，三大平台同步升级</title>
+      <link>https://www.qbitai.com/2026/07/442048.html</link>
+      <description>&lt;![CDATA[科大讯飞举办智能交互生态发布会，三大平台同步升级]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442048.html</guid>
       <category>Ai</category>
     </item>
   </channel>
