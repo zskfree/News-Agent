@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-03 08:10
+**最后更新时间**: 2026-07-04 00:06
+
+---
+
+## 🆕 最新更新 (2026-07-04 00:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场](https://www.tmtpost.com/8052433.html)
+**发布时间**: 2026-07-03 22:23
+
+#### [165 Days: Pitfalls and Profits in Latin America Cross-Border E-Commerce](https://www.tmtpost.com/8052542.html)
+**发布时间**: 2026-07-03 20:20
+
+#### [Alibaba Bans Employees From Using Claude Code](https://www.tmtpost.com/8052531.html)
+**发布时间**: 2026-07-03 20:04
+
+#### [从比亚迪出来创业9年，他们准备要去港股敲钟了](https://www.tmtpost.com/8051218.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [1块钱年薪拷问奈雪，不知道沪上阿姨的“打工皇帝”怎么看](https://www.tmtpost.com/8050640.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [阿莫迪，你比张无忌还厉害](https://www.tmtpost.com/8052229.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [LongCat-2.0：美团咋卖上开源AI期房了？](https://www.tmtpost.com/8050932.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [从字节前员工炒股暴富，看如何找到投资Alpha](https://www.tmtpost.com/8052280.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [苹果在印度成了“开源手机”，但印度AI为什么还是扶不起来？](https://www.tmtpost.com/8052295.html)
+**发布时间**: 2026-07-03 18:49
+
+#### [7家中企入围沙特12GWh项目，中东非成为储能出海新增长极](https://www.tmtpost.com/8052275.html)
+**发布时间**: 2026-07-03 18:48
+
+#### [七十岁那年，咱还要一起去跑会吗？](https://www.tmtpost.com/8052222.html)
+**发布时间**: 2026-07-03 18:48
+
+#### [6个月销量不足3万辆，颜值高、配置顶的阿维塔，为何不讨消费者喜欢？](https://www.tmtpost.com/8052243.html)
+**发布时间**: 2026-07-03 17:56
+
+#### [石药创新大涨背后，医药“下一次浪潮”正在涌来](https://www.tmtpost.com/8052230.html)
+**发布时间**: 2026-07-03 17:56
+
+#### [向碧桂园学习，佳兆业也想搞出一个“长鑫存储”](https://www.tmtpost.com/8052136.html)
+**发布时间**: 2026-07-03 17:56
+
+#### [2026上半年，内容行业进入权力真空期](https://www.tmtpost.com/8052210.html)
+**发布时间**: 2026-07-03 17:56
+
+#### [中国AI，集体向“钱”看？](https://www.tmtpost.com/8052227.html)
+**发布时间**: 2026-07-03 17:55
+
+#### [众擎冲刺港股，离第二个宇树还差什么？](https://www.tmtpost.com/8052194.html)
+**发布时间**: 2026-07-03 17:53
+
+#### [中创新航组织的“共济会”，为什么得到同行的认可？](https://www.tmtpost.com/8052176.html)
+**发布时间**: 2026-07-03 17:53
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始](https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-03 19:27
+
+#### [Agent 上岗之后，企业如何治理硅基团队？](https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-03 19:03
+
+#### [从 Coding 到 Anything，Agent 正在重写工作流](https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-03 18:40
+
+#### [拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河](https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-03 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
+**发布时间**: 2026-07-03 17:44
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
+**发布时间**: 2026-07-03 17:35
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [孵化了 10 万多 Star 开源项目的团队，在 GitHub 上搞了一个新东西。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535021&idx=1&sn=49cc9d7231f38185eac083f876c2fd26)
+**发布时间**: 2026-07-03 17:07
+
+#### [又挖到 3 个不错的 GitHub 项目，尤其是第 2 个。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535003&idx=1&sn=e73f8a0003f62a7a972188835a222c7e)
+**发布时间**: 2026-07-02 18:17
 
 ---
 

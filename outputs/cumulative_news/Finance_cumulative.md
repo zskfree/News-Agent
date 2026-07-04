@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-03 08:10
+**最后更新时间**: 2026-07-04 00:06
+
+---
+
+## 🆕 最新更新 (2026-07-04 00:06)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran begins mourning for Khamenei under tight security](https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08)
+**发布时间**: 2026-07-03 20:06
+
+#### [Romanians sentenced in London for Iran-directed attack on journalist](https://www.ft.com/content/12d30929-9e32-4344-80fd-fc53fc43ff8d)
+**发布时间**: 2026-07-03 18:20
+
+#### [An American birthday worth celebrating](https://www.ft.com/content/010b7867-1bf3-4a32-aeee-a3e6a67e4b0b)
+**发布时间**: 2026-07-03 17:12
+
+#### [Trump will oppose heavy US AI regulation, says outgoing tech adviser](https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed)
+**发布时间**: 2026-07-03 14:32
+
+#### [‘It’s whack-a-mole’: how Europe’s smart border melted down](https://www.ft.com/content/3ed70f64-7443-4241-ac0f-38eabe218913)
+**发布时间**: 2026-07-03 14:00
+
+#### [John Roberts, the US chief justice playing the long game](https://www.ft.com/content/054c4a16-e7b6-4bed-a0d0-7ee0ae3e1251)
+**发布时间**: 2026-07-03 13:51
+
+#### [How crowds become stupider](https://www.ft.com/content/927dde1c-4476-4d22-8fa0-f546506ecd6d)
+**发布时间**: 2026-07-03 12:40
+
+#### [Monaco bomb suspect is a woman from Ukraine](https://www.ft.com/content/5fdf37f2-9217-4490-beaa-7e1baab4b94c)
+**发布时间**: 2026-07-03 12:07
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?](https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 19:34
+
+#### [Want to live longer in retirement? This one money move could add years to your life.](https://www.marketwatch.com/story/want-to-live-longer-in-retirement-this-one-money-move-could-add-years-to-your-life-e8f2b4ba?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 18:42
+
+#### [Before you max out your 401(k) this year, consider a much better use for your next paycheck](https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 18:32
+
+#### [The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star](https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories)
+**发布时间**: 2026-07-03 16:24
 
 ---
 
