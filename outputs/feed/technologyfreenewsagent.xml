@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jul 2026 00:06:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2026 00:06:44 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 07:49:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:49:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河</title>
-      <link>https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果首次将私有云计算平台扩展至谷歌云</title>
+      <link>https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[苹果首次将私有云计算平台扩展至谷歌云]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始</title>
-      <link>https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 19:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Momenta上市：600 亿市值、三年营收45亿与物理AI</title>
+      <link>https://www.tmtpost.com/8052365.html</link>
+      <description>&lt;![CDATA[Momenta上市：600 亿市值、三年营收45亿与物理AI]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052365.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 Coding 到 Anything，Agent 正在重写工作流</title>
-      <link>https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Coding 到 Anything，Agent 正在重写工作流]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 正在杀死靠复杂收费的公司</title>
+      <link>https://www.tmtpost.com/8052652.html</link>
+      <description>&lt;![CDATA[AI 正在杀死靠复杂收费的公司]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052652.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 上岗之后，企业如何治理硅基团队？</title>
-      <link>https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 上岗之后，企业如何治理硅基团队？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 19:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微软、字节、福特都在高薪招人，AI又衍生了一个新岗位</title>
+      <link>https://www.tmtpost.com/8052647.html</link>
+      <description>&lt;![CDATA[微软、字节、福特都在高薪招人，AI又衍生了一个新岗位]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052647.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场</title>
-      <link>https://www.tmtpost.com/8052433.html</link>
-      <description>&lt;![CDATA[可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 22:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8052433.html</guid>
+      <title>阿里禁用Anthropic全系产品：不是保守排外，而是理性风控决策</title>
+      <link>https://www.tmtpost.com/8052766.html</link>
+      <description>&lt;![CDATA[阿里禁用Anthropic全系产品：不是保守排外，而是理性风控决策]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052766.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7家中企入围沙特12GWh项目，中东非成为储能出海新增长极</title>
-      <link>https://www.tmtpost.com/8052275.html</link>
-      <description>&lt;![CDATA[7家中企入围沙特12GWh项目，中东非成为储能出海新增长极]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8052275.html</guid>
+      <title>梁汝波亲手拆掉旧字节</title>
+      <link>https://www.tmtpost.com/8052692.html</link>
+      <description>&lt;![CDATA[梁汝波亲手拆掉旧字节]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052692.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿维塔更新招股书：月销4千辆、亏损132亿，豪华朋友圈救不了规模</title>
-      <link>https://www.tmtpost.com/8051611.html</link>
-      <description>&lt;![CDATA[阿维塔更新招股书：月销4千辆、亏损132亿，豪华朋友圈救不了规模]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8051611.html</guid>
+      <title>24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东</title>
+      <link>https://www.tmtpost.com/8052654.html</link>
+      <description>&lt;![CDATA[24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052654.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果在印度成了“开源手机”，但印度AI为什么还是扶不起来？</title>
-      <link>https://www.tmtpost.com/8052295.html</link>
-      <description>&lt;![CDATA[苹果在印度成了“开源手机”，但印度AI为什么还是扶不起来？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8052295.html</guid>
+      <title>WPS：整改之后，才是大考</title>
+      <link>https://www.tmtpost.com/8052708.html</link>
+      <description>&lt;![CDATA[WPS：整改之后，才是大考]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052708.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>众擎冲刺港股，离第二个宇树还差什么？</title>
-      <link>https://www.tmtpost.com/8052194.html</link>
-      <description>&lt;![CDATA[众擎冲刺港股，离第二个宇树还差什么？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8052194.html</guid>
+      <title>99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？</title>
+      <link>https://www.tmtpost.com/8052428.html</link>
+      <description>&lt;![CDATA[99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052428.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Rokid的野心与尴尬：30万销量撑不起生态梦</title>
-      <link>https://www.tmtpost.com/8051717.html</link>
-      <description>&lt;![CDATA[Rokid的野心与尴尬：30万销量撑不起生态梦]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8051717.html</guid>
+      <title>程一笑要带可灵AI打“对赌局”</title>
+      <link>https://www.tmtpost.com/8052804.html</link>
+      <description>&lt;![CDATA[程一笑要带可灵AI打“对赌局”]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8052804.html</guid>
       <category>Technology</category>
     </item>
   </channel>

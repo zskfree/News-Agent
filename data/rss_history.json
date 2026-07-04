@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0b791bf5c9a1e70ed41734ef56bc52817e2ca56bafa65340e052d000bace3bee": {
-        "title": "不拼数量拼“抗噪”，微软拓扑量子芯片可靠性暴涨千倍，2029要掀算力洗牌？",
-        "link": "https://www.tmtpost.com/8013061.html",
-        "published_date": "Thu, 04 Jun 2026 09:06:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239300"
-      },
-      "4444d80082c097360c5575122da3591f25a8bdf9aee079992db8a39bc6fd7931": {
-        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
-        "link": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 17:33:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239308"
-      },
-      "776a6b71e5c6f69410467d7f84ede813af310be84d6a12c9c02bf7551100a09c": {
-        "title": "Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告",
-        "link": "https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 17:17:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239311"
-      },
-      "4efba0de28398129acda5ffcaf48533add4bddf550e32eb4068154e4318fa6b3": {
-        "title": "美团“换骨”：王兴保住外卖+到店「现实的肉」，还要重构「AI的壳」",
-        "link": "https://www.tmtpost.com/8012008.html",
-        "published_date": "Wed, 03 Jun 2026 18:19:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239313"
-      },
-      "c740229a17603d5c27eb08d56011f6b3d8d5dfa376f4f7cf36d782bec089e6c0": {
-        "title": "腾讯砸下AI船票，微信能否成为“数字管家”？",
-        "link": "https://www.tmtpost.com/8013299.html",
-        "published_date": "Wed, 03 Jun 2026 16:40:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239314"
-      },
-      "6ee041717f13f4ea790ba9202bc4fc721892fc1b950d38dfaffbf48babc1fe80": {
-        "title": "看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道",
-        "link": "https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 12:01:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239315"
-      },
-      "b24065e3d87d9dd68ec1b51fa4749385b1dd2f0f876e3bca047e6d01dd775281": {
-        "title": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
-        "link": "https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 11:00:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239317"
-      },
-      "0f3d81db381c06fb1fe3edd7e7b3946468722125a99b267581ebf54dd5ca25c1": {
-        "title": "大疆“黄埔军校”，一场前员工对老东家的“反包围”",
-        "link": "https://www.tmtpost.com/8013286.html",
-        "published_date": "Wed, 03 Jun 2026 16:11:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239318"
-      },
-      "b36a66e61c233e75402224d7723540d4e0588be7db239b0d205575445a93c2b7": {
-        "title": "10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则",
-        "link": "https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 17:26:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239320"
-      },
-      "47f4b8806d587709ee1914ae9776b947e997bf403fcb089dc41efce498035974": {
-        "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
-        "link": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 16:33:00 GMT",
-        "first_seen": "2026-06-04T01:45:23.239322"
-      },
       "11c43db6d582ff956c7b9bd982ed2d8792beb2614418bf470ea53a6d392bc1ca": {
         "title": "李飞飞万字长文刷屏：网红文生视频只是“画皮”，真正的万亿级风口在这｜附中英全文",
         "link": "https://www.tmtpost.com/8014812.html",
@@ -3673,69 +3613,69 @@
         "link": "https://www.tmtpost.com/8051717.html",
         "published_date": "Fri, 03 Jul 2026 15:45:00 GMT",
         "first_seen": "2026-07-04T00:06:44.023284"
+      },
+      "964e45d56cb7def3c965acb37d2bebf0f1381b04f127f8c999fed1426d0a3f9a": {
+        "title": "苹果首次将私有云计算平台扩展至谷歌云",
+        "link": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298132"
+      },
+      "5e6afc8306cd628b63416ecc40dd4d66d37a25389539369004d4671032176076": {
+        "title": "Momenta上市：600 亿市值、三年营收45亿与物理AI",
+        "link": "https://www.tmtpost.com/8052365.html",
+        "published_date": "Sat, 04 Jul 2026 09:28:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298140"
+      },
+      "6860a8e25ef1b60fb09b5929f20d802d526c6fe97ef4eaf90ff9a98349e59437": {
+        "title": "AI 正在杀死靠复杂收费的公司",
+        "link": "https://www.tmtpost.com/8052652.html",
+        "published_date": "Sat, 04 Jul 2026 09:51:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298144"
+      },
+      "9f4067f1cc3d22091ecba687677706160f777e651b7f4f77390c72e7c94908f4": {
+        "title": "微软、字节、福特都在高薪招人，AI又衍生了一个新岗位",
+        "link": "https://www.tmtpost.com/8052647.html",
+        "published_date": "Sat, 04 Jul 2026 09:51:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298146"
+      },
+      "073b2dd0747e27e0e401ff21021d8816ffa2b72d3590d9e4440d6601929d592c": {
+        "title": "阿里禁用Anthropic全系产品：不是保守排外，而是理性风控决策",
+        "link": "https://www.tmtpost.com/8052766.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298148"
+      },
+      "4e47cb6502d6f48836552cb9e3e7d06b8244af1cf1ba29cd17f09d2e43ea5bb4": {
+        "title": "梁汝波亲手拆掉旧字节",
+        "link": "https://www.tmtpost.com/8052692.html",
+        "published_date": "Sat, 04 Jul 2026 09:51:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298149"
+      },
+      "b582b52bffadf7062af133482ff0b7c5f331fb09c7d67835f1dd998ce327e3ff": {
+        "title": "24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东",
+        "link": "https://www.tmtpost.com/8052654.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298151"
+      },
+      "cecca0542b36e2cc0345a27dd1ecfcb185147cc43ee6b922142f2ceebf49b216": {
+        "title": "WPS：整改之后，才是大考",
+        "link": "https://www.tmtpost.com/8052708.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298153"
+      },
+      "29ee76a6fb904fb4866d7f7cc3ed3b5c2972682cdbae01dd659298dd16407f93": {
+        "title": "99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？",
+        "link": "https://www.tmtpost.com/8052428.html",
+        "published_date": "Sat, 04 Jul 2026 11:55:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298154"
+      },
+      "ea0c7dc17da409629244f3c9d4955e469b23d8ff6ce814fce065054360656f97": {
+        "title": "程一笑要带可灵AI打“对赌局”",
+        "link": "https://www.tmtpost.com/8052804.html",
+        "published_date": "Sat, 04 Jul 2026 15:25:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.298155"
       }
     },
     "Finance": {
-      "53be7471d3fda7fe47eec8a310f0577160021586423e1797dbc1f89a1ae0a961": {
-        "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
-        "link": "https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8",
-        "published_date": "Wed, 03 Jun 2026 22:54:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957196"
-      },
-      "4e53f8b3e10ac84f7e15f22e09303d4ee95080a9189c8cf76cfb040408b7d628": {
-        "title": "Broadcom loses more than $300bn in market value as revenue forecast disappoints",
-        "link": "https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240",
-        "published_date": "Thu, 04 Jun 2026 00:13:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957203"
-      },
-      "c8e7283ee13dac886c0e0e695607b3f6f25b3612b6826e660deea9c16556f2b0": {
-        "title": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
-        "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Jun 2026 00:57:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957205"
-      },
-      "4fb24b97bd51adf2324e40d0974b4afc946aef73bcf226568cf0c8b66eb4be0d": {
-        "title": "How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500",
-        "link": "https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 22:26:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957207"
-      },
-      "9b9174233892d1bb5a693cefece7a1873ea3fe14b26f030085aafc380c9ec7ef": {
-        "title": "Europe’s tightrope walk on tech sovereignty",
-        "link": "https://www.ft.com/content/fe3f7f31-a1e8-4645-bedc-ed45fc42e8fa",
-        "published_date": "Wed, 03 Jun 2026 17:21:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957208"
-      },
-      "ba61b79873eabd77acb3995f48f860eeec3414de3daa9183ab7a5265f1040004": {
-        "title": "SpaceX officially set to crush global records in targeting massive IPO haul of up to $86 billion",
-        "link": "https://www.marketwatch.com/story/spacex-is-set-to-crush-global-records-by-targeting-a-massive-ipo-haul-of-up-to-86-billion-bd08f1ba?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 21:32:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957210"
-      },
-      "a2e5aba64efd97bd4accc51250d918bb814be6bc3bce4625aa633345ca36400d": {
-        "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-        "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 22:14:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957212"
-      },
-      "52fed58302599c125cc66d8c8e43b77dd46cd0f81122e3dc4cf0ba594bd0cf17": {
-        "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
-        "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 21:57:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957214"
-      },
-      "bad098bdf408728c15c39f00cb10e13212eda5aa33c031c598515bcd18815ce6": {
-        "title": "CrowdStrike’s stock falls as investors find more reason to pan cybersecurity earnings",
-        "link": "https://www.marketwatch.com/story/crowdstrikes-stock-falls-as-investors-find-more-reason-to-pan-cybersecurity-earnings-d1b5f619?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Jun 2026 00:12:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957215"
-      },
-      "737f4789f4c9c89914a3349cab0e87c4a5cb30f848d4731fbd932d9f569cb39a": {
-        "title": "Broadcom’s stock falls despite accelerating AI-chip growth",
-        "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Jun 2026 00:13:00 GMT",
-        "first_seen": "2026-06-04T01:45:26.957217"
-      },
       "fb0933e3587f1a3ac8206eedb8faa5bccd7c6ee67d9d496127f5015ccff9614c": {
         "title": "Another redemption wave is spooking the $2 trillion private-credit market",
         "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
@@ -7095,69 +7035,45 @@
         "link": "https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08",
         "published_date": "Fri, 03 Jul 2026 20:06:00 GMT",
         "first_seen": "2026-07-04T00:06:45.152225"
+      },
+      "e6fa66aedf2da91aa4db9667f541e7b84262cdfac8f150d61a2bc2df6f2b593b": {
+        "title": "Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US",
+        "link": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c",
+        "published_date": "Sat, 04 Jul 2026 04:23:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350059"
+      },
+      "30206557217aee922eb262fa493d8e9331061fb07afdd33315a5bbcff1ca311c": {
+        "title": "My fellow American: who should be remembered for the next 250 years?",
+        "link": "https://www.ft.com/content/3265b413-f8b6-4ee9-a058-5d6689df9100",
+        "published_date": "Sat, 04 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350066"
+      },
+      "00e93ef251de409a7655e394e0b753b594c89961a9502b05daedf35ffc0fe929": {
+        "title": "Stephen Breyer: Can we keep this great experiment?",
+        "link": "https://www.ft.com/content/260f93d4-c7a2-443b-8c3a-c62bf8c626d0",
+        "published_date": "Sat, 04 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350069"
+      },
+      "92bdfe31d531c57f91ae77d7916e9b3301615de8016dcb76c70cd7e1f30c52e5": {
+        "title": "Nicole Krauss: On the strangeness of pledging allegiance to the flag",
+        "link": "https://www.ft.com/content/0a7844b1-c91c-473e-a2f9-29d7c964b1cc",
+        "published_date": "Sat, 04 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350070"
+      },
+      "5fe604fffb0581fad39b510773947416fc0e3dba9f278d05b5d5ee39eab67173": {
+        "title": "Simon Schama: The founding fathers and the battle for America’s future",
+        "link": "https://www.ft.com/content/34eb59fa-fc22-4b03-b9e6-205443d19dd1",
+        "published_date": "Sat, 04 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350072"
+      },
+      "929bb9ef736bd4429549c000cbc7abd558cbc7c8f9c1913ff113ff6ab4816309": {
+        "title": "Yankee pyramids: the meaning of presidential libraries",
+        "link": "https://www.ft.com/content/b640ab8d-4273-43be-8206-be750c004665",
+        "published_date": "Sat, 04 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.350073"
       }
     },
     "Ai": {
-      "437e5eb42550b67f1c266242196cf8388c1c1e28522be6eba13ec8f2c085eec0": {
-        "title": "刚刚，李飞飞亲自下场定义世界模型",
-        "link": "https://www.qbitai.com/2026/06/428752.html",
-        "published_date": "Thu, 04 Jun 2026 00:44:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170573"
-      },
-      "c3afbcd61741b5de8a2f447f8c1d6f8804d4e12846b1c9db82e9e582bec8a3fe": {
-        "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-        "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
-        "published_date": "Wed, 03 Jun 2026 15:00:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170583"
-      },
-      "55eb7a19f0fbb2179644cbecf357e3c71120b7bfcb846109d84334a741af54ed": {
-        "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-        "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
-        "published_date": "Wed, 03 Jun 2026 15:00:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170586"
-      },
-      "6c98fdc2ab6a47b6424661225e631f3cf640ead0eca29649800672cd6f5d43c4": {
-        "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
-        "link": "https://www.qbitai.com/2026/06/428703.html",
-        "published_date": "Wed, 03 Jun 2026 12:28:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170588"
-      },
-      "102d6b6ff2183d47d96ca528e59b025f8841bf691b5e33bc1cef95ea94e4abf1": {
-        "title": "世界模型榜首易主！跨维智能登顶WorldArena",
-        "link": "https://www.qbitai.com/2026/06/428435.html",
-        "published_date": "Wed, 03 Jun 2026 09:54:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170590"
-      },
-      "1bebaaa9919a00eb9813751afed87545b2aa424635422397f1f1e877723be5cf": {
-        "title": "上海交大王贺升教授：从画地图到预测未来，传统 SLAM 正走出静态世界 | ICRA 2026",
-        "link": "https://www.leiphone.com/category/industrynews/6skT5df7T8GJJdye.html",
-        "published_date": "Wed, 03 Jun 2026 16:40:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170592"
-      },
-      "034d9c2033599d3111c416e08bceed6cc82ded6ce0967fb9a297def5260ea090": {
-        "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-        "published_date": "Wed, 03 Jun 2026 15:56:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170593"
-      },
-      "5ab198e84984dbea92c4933bdf584cdce21b96046e40c25bfffcede828bd3e01": {
-        "title": "Direct Preference Optimization Beyond Chatbots",
-        "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-        "published_date": "Wed, 03 Jun 2026 12:55:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170595"
-      },
-      "05146b924f2a8e9ae04fde9513a053e0074a09e0e2a19996cd5700911316755e": {
-        "title": "Teaching AI agents to ask better questions by playing “Battleship”",
-        "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
-        "published_date": "Wed, 03 Jun 2026 17:00:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170596"
-      },
-      "7ee3e308677666c293fa8bce4c37dcd432481b364547fe12237323621895409e": {
-        "title": "对话桥介数物尚阳星：机器人运动能力，远远没有被解决",
-        "link": "https://www.leiphone.com/category/robot/OAl1Kvwa2rq9N4yx.html",
-        "published_date": "Wed, 03 Jun 2026 17:09:00 GMT",
-        "first_seen": "2026-06-04T01:45:22.170598"
-      },
       "6f218630d63763dda006797be1080d18c802e958448b797ad796f74bc6c1f69e": {
         "title": "港中深王方鑫团队：3D 重建的「玻璃杯难题」，终于被摆上台面丨CVPR 2026",
         "link": "https://www.leiphone.com/category/ai/1379RWpvIZOGUt9v.html",
@@ -9827,13 +9743,25 @@
         "link": "https://www.qbitai.com/2026/07/442503.html",
         "published_date": "Fri, 03 Jul 2026 10:26:00 GMT",
         "first_seen": "2026-07-04T00:06:46.820684"
+      },
+      "67f19d2b116b6764f100e5eb15f682a2e089503770f51b9fce36c115fdc52748": {
+        "title": "2026-07-04日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-04/",
+        "published_date": "Sat, 04 Jul 2026 10:56:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.473263"
+      },
+      "e52f97f41682783202d48593fe1f85ac8e8ca42091a6a331932d8228af5522d8": {
+        "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+        "link": "https://www.qbitai.com/2026/07/442958.html",
+        "published_date": "Sat, 04 Jul 2026 05:52:00 GMT",
+        "first_seen": "2026-07-04T07:49:49.473272"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-04T00:06:44.023303",
-    "Finance": "2026-07-04T00:06:45.152227",
-    "Ai": "2026-07-04T00:06:46.820686"
+    "Technology": "2026-07-04T07:49:49.298157",
+    "Finance": "2026-07-04T07:49:49.350075",
+    "Ai": "2026-07-04T07:49:49.473274"
   }
 }

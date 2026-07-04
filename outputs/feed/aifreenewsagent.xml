@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jul 2026 00:05:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2026 00:06:46 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 07:47:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:49:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>算力之外的博弈：ICML 2026 透露了哪些学术硬通货？</title>
-      <link>https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html</link>
-      <description>&lt;![CDATA[算力之外的博弈：ICML 2026 透露了哪些学术硬通货？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html</guid>
+      <title>2026-07-04日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-04/</link>
+      <description>&lt;![CDATA[2026-07-04日刊]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-04/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部</title>
-      <link>https://www.qbitai.com/2026/07/442746.html</link>
-      <description>&lt;![CDATA[从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442746.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI基础设施的下一个千亿市场，为何藏在网络里？</title>
-      <link>https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html</link>
-      <description>&lt;![CDATA[AI基础设施的下一个千亿市场，为何藏在网络里？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>谷歌为什么做不好「AI 编程」？</title>
-      <link>https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html</link>
-      <description>&lt;![CDATA[谷歌为什么做不好「AI 编程」？]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 22:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代</title>
-      <link>https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html</link>
-      <description>&lt;![CDATA[生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 20:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！</title>
-      <link>https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html</link>
-      <description>&lt;![CDATA[场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户</title>
-      <link>https://www.qbitai.com/2026/07/442567.html</link>
-      <description>&lt;![CDATA[Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442567.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”</title>
-      <link>https://www.qbitai.com/2026/07/442531.html</link>
-      <description>&lt;![CDATA[奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442531.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>比亚迪6月销量超40万，年内销量记录再度刷新</title>
-      <link>https://www.qbitai.com/2026/07/442517.html</link>
-      <description>&lt;![CDATA[比亚迪6月销量超40万，年内销量记录再度刷新]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442517.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”</title>
-      <link>https://www.qbitai.com/2026/07/442503.html</link>
-      <description>&lt;![CDATA[比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442503.html</guid>
+      <title>光象科技累计完成数亿元天使轮融资，布局物理原生基座模型</title>
+      <link>https://www.qbitai.com/2026/07/442958.html</link>
+      <description>&lt;![CDATA[光象科技累计完成数亿元天使轮融资，布局物理原生基座模型]]&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442958.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 00:06
+**最后更新时间**: 2026-07-04 07:49
+
+---
+
+## 🆕 最新更新 (2026-07-04 07:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US](https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c)
+**发布时间**: 2026-07-04 04:23
+
+#### [My fellow American: who should be remembered for the next 250 years?](https://www.ft.com/content/3265b413-f8b6-4ee9-a058-5d6689df9100)
+**发布时间**: 2026-07-04 04:00
+
+#### [Stephen Breyer: Can we keep this great experiment?](https://www.ft.com/content/260f93d4-c7a2-443b-8c3a-c62bf8c626d0)
+**发布时间**: 2026-07-04 04:00
+
+#### [Nicole Krauss: On the strangeness of pledging allegiance to the flag](https://www.ft.com/content/0a7844b1-c91c-473e-a2f9-29d7c964b1cc)
+**发布时间**: 2026-07-04 04:00
+
+#### [Simon Schama: The founding fathers and the battle for America’s future](https://www.ft.com/content/34eb59fa-fc22-4b03-b9e6-205443d19dd1)
+**发布时间**: 2026-07-04 04:00
+
+#### [Yankee pyramids: the meaning of presidential libraries](https://www.ft.com/content/b640ab8d-4273-43be-8206-be750c004665)
+**发布时间**: 2026-07-04 04:00
+
+#### [What has America ever done for us?](https://www.ft.com/content/f61eb897-ff73-4943-ae5e-9d96c61ee3b8)
+**发布时间**: 2026-07-03 10:00
 
 ---
 
