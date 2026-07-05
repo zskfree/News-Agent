@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jul 2026 07:47:00 GMT</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2026 07:49:49 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 07:57:00 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:59:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-07-04日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-04/</link>
-      <description>&lt;![CDATA[2026-07-04日刊]]&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-04/</guid>
+      <title>李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱</title>
+      <link>https://www.qbitai.com/2026/07/443066.html</link>
+      <description>&lt;![CDATA[李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 06:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443066.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>光象科技累计完成数亿元天使轮融资，布局物理原生基座模型</title>
-      <link>https://www.qbitai.com/2026/07/442958.html</link>
-      <description>&lt;![CDATA[光象科技累计完成数亿元天使轮融资，布局物理原生基座模型]]&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442958.html</guid>
+      <title>刚刚，LeCun团队让世界模型学会持续学习！</title>
+      <link>https://www.qbitai.com/2026/07/442964.html</link>
+      <description>&lt;![CDATA[刚刚，LeCun团队让世界模型学会持续学习！]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 06:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442964.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 10:13
+**最后更新时间**: 2026-07-05 07:59
+
+---
+
+## 🆕 最新更新 (2026-07-05 07:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine striking Russian energy infrastructure at unprecedented rate](https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf)
+**发布时间**: 2026-07-05 07:09
+
+#### [Returning to pre-Trumpian politics won’t save America](https://www.ft.com/content/5e7ca535-90a8-4f6d-934b-0a0d9b36e62d)
+**发布时间**: 2026-07-05 04:00
+
+#### [How Bending Spoons built a $23bn tech empire from struggling brands](https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f)
+**发布时间**: 2026-07-05 04:00
+
+#### [French push to exclude UK from EU defence spending backfires](https://www.ft.com/content/9077074a-b01d-4890-a938-403befccb21c)
+**发布时间**: 2026-07-05 04:00
+
+#### [Uber stalls European food delivery push as it pursues Delivery Hero takeover](https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5)
+**发布时间**: 2026-07-05 04:00
+
+#### [Oil market opens up as retail traders pour in](https://www.ft.com/content/b64227fd-3fae-4fea-bb83-4cc463fa09ed)
+**发布时间**: 2026-07-05 04:00
+
+#### [Wall Street banks recover in China amid trading boom](https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2)
+**发布时间**: 2026-07-05 04:00
+
+#### [China cools on overseas publication of scientific research](https://www.ft.com/content/64a811f1-b132-4211-8a8c-2252cf964039)
+**发布时间**: 2026-07-05 04:00
+
+#### [Donald Trump defies storms and heatwave to deliver July 4 address](https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30)
+**发布时间**: 2026-07-05 03:41
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?](https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 20:56
+
+#### [Why a founder at age 50 is twice as likely to find success as one at age 30](https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:56
+
+#### [Why June’s jobs and inflation data are bullish for bonds](https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:37
+
+#### [Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season](https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:19
+
+#### [Jelly Roll’s ex-wife Bunnie Xo says he gave her their $6 million Tennessee estate in divorce](https://www.marketwatch.com/story/jelly-rolls-ex-wife-bunnie-xo-says-he-gave-her-their-6-million-tennessee-estate-in-divorce-97a6c910?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 17:57
 
 ---
 
