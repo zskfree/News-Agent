@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-06 00:09
+**最后更新时间**: 2026-07-06 09:02
+
+---
+
+## 🆕 最新更新 (2026-07-06 09:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI穿过世界杯，发现高光仍属于人类](https://www.tmtpost.com/8053944.html)
+**发布时间**: 2026-07-06 16:35
+
+#### [AI产业全景透视之：MLCC](https://www.tmtpost.com/8053758.html)
+**发布时间**: 2026-07-06 16:35
+
+#### [The Trouble with Touch: Why Merging Senses Has Hindered Robotic Progress—And How AI Pioneers Are Fixing It](https://www.tmtpost.com/8054022.html)
+**发布时间**: 2026-07-06 16:04
+
+#### [OpenAI限流真相：不是被打压，而是一场用合规换垄断的阳谋](https://www.tmtpost.com/8053822.html)
+**发布时间**: 2026-07-06 15:39
+
+#### [按下IPO按钮之后，火箭公司们都在忙什么](https://www.tmtpost.com/8053505.html)
+**发布时间**: 2026-07-06 15:39
+
+#### [空调卖到脱销，美的靠的不是一场热浪](https://www.tmtpost.com/8053773.html)
+**发布时间**: 2026-07-06 15:39
+
+#### [我用了三个Co-work，只有Marvis转正为“高级实习生”了](https://www.tmtpost.com/8053422.html)
+**发布时间**: 2026-07-06 15:39
+
+#### [力勤资源明日上会，募资40亿｜IPO观察](https://www.tmtpost.com/8053881.html)
+**发布时间**: 2026-07-06 15:19
+
+#### [At China's Fudan University, Students Took a Final Exam by Trying to Make AI Fail](https://www.tmtpost.com/8053914.html)
+**发布时间**: 2026-07-06 14:34
+
+#### [A New Wave of AI-Related Layoffs in China's Big Tech Firms](https://www.tmtpost.com/8053886.html)
+**发布时间**: 2026-07-06 14:01
+
+#### [豆包和千问，亲手关掉了自己吹了两年的风口](https://www.tmtpost.com/8053725.html)
+**发布时间**: 2026-07-06 11:16
+
+#### [索尼把刀递给了Steam](https://www.tmtpost.com/8053705.html)
+**发布时间**: 2026-07-06 11:14
+
+#### [新茶饮扎堆卖冰激凌，是好生意还是噱头？](https://www.tmtpost.com/8053673.html)
+**发布时间**: 2026-07-06 11:02
+
+#### [神级Biotech，拒绝借利好上市](https://www.tmtpost.com/8053658.html)
+**发布时间**: 2026-07-06 11:02
+
+#### [韩股深度剖析：两颗芯撬动一国股市](https://www.tmtpost.com/8053665.html)
+**发布时间**: 2026-07-06 10:51
+
+#### [昆仑芯的“第三条路”](https://www.tmtpost.com/8053374.html)
+**发布时间**: 2026-07-06 10:51
+
+#### [AI电源行业的人才困局：为什么十年经验不如一种思维方式](https://www.tmtpost.com/8053359.html)
+**发布时间**: 2026-07-06 10:38
+
+#### [为啥老百姓感觉酒店越来越贵，锦江们的估值却越来越低？](https://www.tmtpost.com/8053532.html)
+**发布时间**: 2026-07-06 10:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放](https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 16:22
+
+#### [亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理](https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 16:00
+
+#### [“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程](https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 15:46
+
+#### [GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？](https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 15:02
+
+#### [Java 近期新闻：Spring Tools、Helidon、Open Liberty、TomEE、JobRunr、Hibernate、Commonhaus 基金会](https://www.infoq.cn/article/7UMpxj51V9IIvtcJOSfo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 14:10
+
+#### [Anthropic：Claude 已承担 95% 的内部数据分析查询工作](https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 13:00
+
+#### [Windows平台安全与保护AI智能体的竞赛](https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 11:21
+
+#### [73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码](https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 10:27
+
+#### [豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报](https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 10:22
+
+#### [让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布](https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 10:19
+
+#### [数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线](https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 10:06
+
+#### [Azure Functions在Build 2026发布Serverless智能体运行时](https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 09:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
+**发布时间**: 2026-07-06 15:00
+
+#### [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
+**发布时间**: 2026-07-06 11:30
+
+#### [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
+**发布时间**: 2026-07-06 07:40
 
 ---
 

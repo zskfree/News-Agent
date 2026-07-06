@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Jul 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2026 00:09:19 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 09:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:02:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚</title>
-      <link>https://www.qbitai.com/2026/07/443339.html</link>
-      <description>&lt;![CDATA[Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚]]&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443339.html</guid>
+      <title>独家丨ACM戈登贝尔奖得主杨超领衔，北大系顶尖团队入局物理 AI 底层基建</title>
+      <link>https://www.leiphone.com/category/industrynews/PjJzoF1Rb0WPXHxd.html</link>
+      <description>&lt;![CDATA[独家丨ACM戈登贝尔奖得主杨超领衔，北大系顶尖团队入局物理 AI 底层基建]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PjJzoF1Rb0WPXHxd.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为更新韬定律论文！</title>
-      <link>https://www.qbitai.com/2026/07/443186.html</link>
-      <description>&lt;![CDATA[华为更新韬定律论文！]]&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 13:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443186.html</guid>
+      <title>沙利文全栈AI云服务报告：阿里云占比40.1%，超第二至第四名总和</title>
+      <link>https://www.leiphone.com/category/industrynews/NN8pPZMe5DQqTILU.html</link>
+      <description>&lt;![CDATA[沙利文全栈AI云服务报告：阿里云占比40.1%，超第二至第四名总和]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NN8pPZMe5DQqTILU.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>打造“青年安居新范式”！第三座小米青年公寓开放入住，三城累计建成12栋公寓、4214套房源</title>
+      <link>https://www.leiphone.com/category/industrynews/dpOS3DMEz2mPqLRH.html</link>
+      <description>&lt;![CDATA[打造“青年安居新范式”！第三座小米青年公寓开放入住，三城累计建成12栋公寓、4214套房源]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dpOS3DMEz2mPqLRH.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>打破末端配送壁垒，佑驾创新正式发布四轮足机器人</title>
+      <link>https://www.leiphone.com/category/industrynews/Ql20V4DpxJjluNFB.html</link>
+      <description>&lt;![CDATA[打破末端配送壁垒，佑驾创新正式发布四轮足机器人]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Ql20V4DpxJjluNFB.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>清华火神队成功卫冕RoboCup 2026世界冠军，加速进化构筑全球具身智能“通用底座”</title>
+      <link>https://www.leiphone.com/category/industrynews/npqwbPeARWQkGrpW.html</link>
+      <description>&lt;![CDATA[清华火神队成功卫冕RoboCup 2026世界冠军，加速进化构筑全球具身智能“通用底座”]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/npqwbPeARWQkGrpW.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-07-06日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-06/</link>
+      <description>&lt;![CDATA[2026-07-06日刊]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-06/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5</title>
+      <link>https://www.qbitai.com/2026/07/443559.html</link>
+      <description>&lt;![CDATA[OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 04:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443559.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？</title>
+      <link>https://www.qbitai.com/2026/07/443522.html</link>
+      <description>&lt;![CDATA[征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 01:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443522.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代</title>
+      <link>https://www.qbitai.com/2026/07/443399.html</link>
+      <description>&lt;![CDATA[征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 01:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443399.html</guid>
       <category>Ai</category>
     </item>
   </channel>
