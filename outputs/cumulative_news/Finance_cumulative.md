@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-05 07:59
+**最后更新时间**: 2026-07-06 00:09
+
+---
+
+## 🆕 最新更新 (2026-07-06 00:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend](https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 00:06
+
+#### [OPEC+ raises output levels again despite tumbling crude prices](https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 22:30
+
+#### [Hybrids are the breakout star of the U.S. car market as EV demand fades](https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 13:03
+
+#### [Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month](https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 13:00
+
+#### [‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?](https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 12:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fifa reverses suspension of star US striker after call from Trump](https://www.ft.com/content/a858d225-59b8-4a85-866d-77055e7bfd58)
+**发布时间**: 2026-07-05 21:47
+
+#### [EasyJet reaches outline agreement on £5.5bn takeover by Castlelake](https://www.ft.com/content/0c317e2c-2fda-4c6f-8620-d8e629f1aeb3)
+**发布时间**: 2026-07-05 18:39
+
+#### [Netanyahu government defies Israel’s top court over TV regulation](https://www.ft.com/content/20450f5c-757f-440d-a06e-6fa997f74754)
+**发布时间**: 2026-07-05 17:12
+
+#### [US voters say Trump’s Iran war not worth the cost — FT poll](https://www.ft.com/content/f1fe0dae-d22b-4284-b0f9-fa10f717af1c)
+**发布时间**: 2026-07-05 12:00
+
+#### [The Europeanisation of Nato is ever more important](https://www.ft.com/content/14e18591-a2a4-4011-b77d-48fa74dab7f4)
+**发布时间**: 2026-07-05 12:00
+
+#### [Rich nations must unleash land, labour, energy and capital](https://www.ft.com/content/33da8720-996b-49e3-a34a-61d33095c541)
+**发布时间**: 2026-07-05 11:00
 
 ---
 

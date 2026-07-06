@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Jul 2026 07:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2026 07:59:48 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 00:07:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:09:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱</title>
-      <link>https://www.qbitai.com/2026/07/443066.html</link>
-      <description>&lt;![CDATA[李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱]]&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 06:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443066.html</guid>
+      <title>Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚</title>
+      <link>https://www.qbitai.com/2026/07/443339.html</link>
+      <description>&lt;![CDATA[Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443339.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，LeCun团队让世界模型学会持续学习！</title>
-      <link>https://www.qbitai.com/2026/07/442964.html</link>
-      <description>&lt;![CDATA[刚刚，LeCun团队让世界模型学会持续学习！]]&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442964.html</guid>
+      <title>华为更新韬定律论文！</title>
+      <link>https://www.qbitai.com/2026/07/443186.html</link>
+      <description>&lt;![CDATA[华为更新韬定律论文！]]&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 13:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443186.html</guid>
       <category>Ai</category>
     </item>
   </channel>
