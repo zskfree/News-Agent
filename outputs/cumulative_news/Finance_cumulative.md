@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-06 09:02
+**最后更新时间**: 2026-07-07 00:11
+
+---
+
+## 🆕 最新更新 (2026-07-07 00:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top Fed official backs Kevin Warsh’s rethink of forward guidance](https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d)
+**发布时间**: 2026-07-06 23:47
+
+#### [Samsung boasts third straight quarter of record profit on AI demand](https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb)
+**发布时间**: 2026-07-06 23:34
+
+#### [Platner to ‘reflect’ on Senate campaign after sexual assault allegations](https://www.ft.com/content/c183570f-2351-46d6-8877-5c415167999b)
+**发布时间**: 2026-07-06 22:20
+
+#### [Canada chooses Germany’s TKMS for landmark submarine contract](https://www.ft.com/content/ca6a89f8-6ccb-43fd-9368-97dc5f2ac0be)
+**发布时间**: 2026-07-06 20:51
+
+#### [Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO](https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187)
+**发布时间**: 2026-07-06 18:08
+
+#### [Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch](https://www.ft.com/content/aae94a36-1d3a-435f-bfd9-e059e5789ea0)
+**发布时间**: 2026-07-06 17:38
+
+#### [Germany to borrow €800bn for rearmament in historic shift](https://www.ft.com/content/72878c3e-a4c6-4e4d-86c1-6df11593e4ac)
+**发布时间**: 2026-07-06 17:15
+
+#### [Zelenskyy says ‘battle in the sky’ will decide outcome of war with Russia](https://www.ft.com/content/6ca8de40-15e4-470e-a258-6dd2d8d9d83e)
+**发布时间**: 2026-07-06 16:37
+
+#### [Lukashenko says Belarus will not join Putin’s war in Ukraine](https://www.ft.com/content/003c581a-0d93-4fa2-a6b1-76bff5a3d9c0)
+**发布时间**: 2026-07-06 16:09
+
+#### [Nato backs Ukraine’s push to hit Russia harder, says Finnish president](https://www.ft.com/content/b5590af8-b60e-4270-90cf-862d0a5e28cd)
+**发布时间**: 2026-07-06 13:34
+
+#### [Putin is running out of options](https://www.ft.com/content/f36a2f4a-c692-46fb-afd2-504372f83caa)
+**发布时间**: 2026-07-06 11:43
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune](https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 23:27
+
+#### [The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix.](https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 22:39
+
+#### [U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy](https://www.marketwatch.com/story/u-s-belgium-match-could-draw-record-tv-audience-amid-the-trump-world-cup-controversy-52783b8f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 22:17
+
+#### [Your data built the AI boom — but Big Tech is pocketing 100% of the equity](https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 21:36
+
+#### [Your investing expectations are more than double the reality. Here is the tough truth.](https://www.marketwatch.com/story/your-investing-expectations-are-more-than-double-the-reality-here-is-the-tough-truth-dea61820?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 21:19
+
+#### [Stocks rally when Congress goes on summer break. Here’s why.](https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 21:18
+
+#### [You want a portfolio that matches your morals. Your retirement plan might disagree.](https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 21:16
+
+#### [If the stock market’s double bubble bursts, it could usher in the next crash](https://www.marketwatch.com/story/if-the-stock-markets-double-bubble-bursts-it-could-usher-in-the-next-crash-de54c1b2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 21:11
+
+#### [Your 5 biggest ‘Trump account’ questions, answered](https://www.marketwatch.com/story/your-5-biggest-questions-about-trump-accounts-answered-421d9f6f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 20:53
+
+#### [Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector](https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 20:33
 
 ---
 

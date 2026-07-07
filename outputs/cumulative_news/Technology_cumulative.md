@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-06 09:02
+**最后更新时间**: 2026-07-07 00:11
+
+---
+
+## 🆕 最新更新 (2026-07-07 00:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模](https://www.tmtpost.com/8054405.html)
+**发布时间**: 2026-07-07 07:20
+
+#### [补金片检出严重缺陷全线停产，益盛药业业绩连跌两年再遇合规大考](https://www.tmtpost.com/8054473.html)
+**发布时间**: 2026-07-06 23:00
+
+#### [跌停当晚，面板巨头拟19.16亿元收购虹阳显示33.42%股权；亏损封测厂拟贷款收购成都芯翼股权；【并购一线】](https://www.tmtpost.com/8054480.html)
+**发布时间**: 2026-07-06 22:57
+
+#### [账上仅141万却豪掷8000万跨界航天存储，凯瑞德“壳”局再起波澜](https://www.tmtpost.com/8054107.html)
+**发布时间**: 2026-07-06 22:38
+
+#### [【Fintech 周报】上半年银行业罚单总额超过10亿元；年内首家银行评级被下调](https://www.tmtpost.com/8054257.html)
+**发布时间**: 2026-07-06 19:20
+
+#### [半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布](https://www.tmtpost.com/8054215.html)
+**发布时间**: 2026-07-06 19:05
+
+#### [可灵成不了Seedance](https://www.tmtpost.com/8053660.html)
+**发布时间**: 2026-07-06 18:35
+
+#### [收菜鸟，放速卖通：蒋凡重划阿里电商版图](https://www.tmtpost.com/8053577.html)
+**发布时间**: 2026-07-06 18:34
+
+#### [日本机床，开始输给一个中国县城](https://www.tmtpost.com/8053968.html)
+**发布时间**: 2026-07-06 18:30
+
+#### [三年翻倍的“超级周期”，国产半导体设备的机会在哪里？](https://www.tmtpost.com/8054054.html)
+**发布时间**: 2026-07-06 17:37
+
+#### [AI限额200美元，马斯克不养Boris](https://www.tmtpost.com/8054125.html)
+**发布时间**: 2026-07-06 17:37
+
+#### [没人逃得过Token账单](https://www.tmtpost.com/8053894.html)
+**发布时间**: 2026-07-06 16:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法](https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 19:50
+
+#### [硬件原生FP8加持，摩尔线程完成美团LongCat-2.0 Day-0 极速适配](https://www.infoq.cn/article/vRzlWZxXMaxC6aZM7Ufw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 18:24
+
+#### [Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心](https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 18:19
+
+#### [Agentic 范式下的视频画质优化：火山引擎的新路径](https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-06 17:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
+**发布时间**: 2026-07-06 18:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [用这个 5 万 Star 的 Skill 学习 AI 新知识，真的起飞。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535162&idx=1&sn=972dd1505bdb854b3d63c908d40e89d4)
+**发布时间**: 2026-07-06 14:13
 
 ---
 
