@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-07 00:11
+**最后更新时间**: 2026-07-07 08:26
+
+---
+
+## 🆕 最新更新 (2026-07-07 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [头部商场疯抢餐饮“爆店”，背后是巨大的流量焦虑？](https://www.tmtpost.com/8055719.html)
+**发布时间**: 2026-07-07 16:21
+
+#### [50万元奖励打车到拉萨的博主，西藏文旅还赚了](https://www.tmtpost.com/8055646.html)
+**发布时间**: 2026-07-07 16:15
+
+#### [WPS被骂不冤，但也听劝了](https://www.tmtpost.com/8055611.html)
+**发布时间**: 2026-07-07 16:09
+
+#### [AI资本周期思辨——泡沫终局预判：AI崩盘恐难现，结构性出清将至](https://www.tmtpost.com/8055074.html)
+**发布时间**: 2026-07-07 16:08
+
+#### [半年达成率不足40%，AIVA能绕过“多股东死亡公式”吗？](https://www.tmtpost.com/8055505.html)
+**发布时间**: 2026-07-07 16:01
+
+#### [Claude有了“没说出口的念头”，AI意识还远吗？](https://www.tmtpost.com/8055469.html)
+**发布时间**: 2026-07-07 15:57
+
+#### [强强联合锚定部署态元年：爱仕达构筑具身智能全场景产业闭环](https://www.tmtpost.com/8055047.html)
+**发布时间**: 2026-07-07 15:54
+
+#### [快手再也回不去了](https://www.tmtpost.com/8055468.html)
+**发布时间**: 2026-07-07 15:50
+
+#### [涉案数千万，跨境卖家的L8噩梦](https://www.tmtpost.com/8055463.html)
+**发布时间**: 2026-07-07 15:46
+
+#### [60亿，一家十年CVC将永久关停](https://www.tmtpost.com/8055462.html)
+**发布时间**: 2026-07-07 15:40
+
+#### [半年2500亿元砸向文旅，投资疯狂涌向“小而美”](https://www.tmtpost.com/8055458.html)
+**发布时间**: 2026-07-07 15:35
+
+#### [硅基流动的 IPO 叙事，被严重误解了](https://www.tmtpost.com/8055443.html)
+**发布时间**: 2026-07-07 15:23
+
+#### [没有下一个Labubu，泡泡玛特还值钱吗？](https://www.tmtpost.com/8055417.html)
+**发布时间**: 2026-07-07 15:18
+
+#### [2026Q2线下零售速报](https://www.tmtpost.com/8053792.html)
+**发布时间**: 2026-07-07 15:16
+
+#### [WPS没变，是用户对“免费”的理解变了](https://www.tmtpost.com/8055254.html)
+**发布时间**: 2026-07-07 15:14
+
+#### [99万的赛博伴侣爆火，机器人厂商不想死磕工业化了？](https://www.tmtpost.com/8055394.html)
+**发布时间**: 2026-07-07 15:12
+
+#### [腾讯卖掉快手的旧故事](https://www.tmtpost.com/8055375.html)
+**发布时间**: 2026-07-07 15:12
+
+#### [宇树科技上市：用空间换时间的资本棋局](https://www.tmtpost.com/8055337.html)
+**发布时间**: 2026-07-07 15:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开源AI编程工具第一来啦：智谱GLM-5.2上线模力工场，还有专属折扣！](https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 15:04
+
+#### [Elastic 开源了基于认知科学的 Atlas Agent Memory](https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 14:00
+
+#### [Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI](https://www.infoq.cn/article/69BcusNft9EhAtSdqaYW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 12:00
+
+#### [1.5亿数据！蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，看得更懂、更准](https://www.infoq.cn/article/mqY10ihiZ874id2JDeXu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 11:01
+
+#### [亚马逊云科技发布用于成本分析和优化的 FinOps Agent 预览版](https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 10:31
+
+#### [Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性](https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 09:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
+**发布时间**: 2026-07-07 11:00
+
+#### [派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
+**发布时间**: 2026-07-07 07:29
 
 ---
 

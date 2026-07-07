@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jul 2026 00:11:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2026 00:11:24 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 08:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:26:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布</title>
-      <link>https://www.tmtpost.com/8054215.html</link>
-      <description>&lt;![CDATA[半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 19:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8054215.html</guid>
+      <title>AI资本周期思辨——泡沫终局预判：AI崩盘恐难现，结构性出清将至</title>
+      <link>https://www.tmtpost.com/8055074.html</link>
+      <description>&lt;![CDATA[AI资本周期思辨——泡沫终局预判：AI崩盘恐难现，结构性出清将至]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8055074.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心</title>
-      <link>https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Elastic 开源了基于认知科学的 Atlas Agent Memory</title>
+      <link>https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Elastic 开源了基于认知科学的 Atlas Agent Memory]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic：Claude 已承担 95% 的内部数据分析查询工作</title>
-      <link>https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic：Claude 已承担 95% 的内部数据分析查询工作]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1.5亿数据！蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，看得更懂、更准</title>
+      <link>https://www.infoq.cn/article/mqY10ihiZ874id2JDeXu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[1.5亿数据！蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，看得更懂、更准]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mqY10ihiZ874id2JDeXu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三年翻倍的“超级周期”，国产半导体设备的机会在哪里？</title>
-      <link>https://www.tmtpost.com/8054054.html</link>
-      <description>&lt;![CDATA[三年翻倍的“超级周期”，国产半导体设备的机会在哪里？]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8054054.html</guid>
+      <title>亚马逊云科技发布用于成本分析和优化的 FinOps Agent 预览版</title>
+      <link>https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技发布用于成本分析和优化的 FinOps Agent 预览版]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OtPug093U3A6NXXhxdiW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法</title>
-      <link>https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树科技上市：用空间换时间的资本棋局</title>
+      <link>https://www.tmtpost.com/8055337.html</link>
+      <description>&lt;![CDATA[宇树科技上市：用空间换时间的资本棋局]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8055337.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理</title>
-      <link>https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>99万的赛博伴侣爆火，机器人厂商不想死磕工业化了？</title>
+      <link>https://www.tmtpost.com/8055394.html</link>
+      <description>&lt;![CDATA[99万的赛博伴侣爆火，机器人厂商不想死磕工业化了？]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8055394.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Windows平台安全与保护AI智能体的竞赛</title>
-      <link>https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Windows平台安全与保护AI智能体的竞赛]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性</title>
+      <link>https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>日本机床，开始输给一个中国县城</title>
-      <link>https://www.tmtpost.com/8053968.html</link>
-      <description>&lt;![CDATA[日本机床，开始输给一个中国县城]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8053968.html</guid>
+      <title>Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI</title>
+      <link>https://www.infoq.cn/article/69BcusNft9EhAtSdqaYW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 近期新闻：Hardwood 1.0、Endive 1.0、Azul Payara、Quarkus、WildFly、LangChain4j、OSSI]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/69BcusNft9EhAtSdqaYW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>韩股深度剖析：两颗芯撬动一国股市</title>
-      <link>https://www.tmtpost.com/8053665.html</link>
-      <description>&lt;![CDATA[韩股深度剖析：两颗芯撬动一国股市]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8053665.html</guid>
+      <title>【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模</title>
+      <link>https://www.tmtpost.com/8054405.html</link>
+      <description>&lt;![CDATA[【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054405.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硬件原生FP8加持，摩尔线程完成美团LongCat-2.0 Day-0 极速适配</title>
-      <link>https://www.infoq.cn/article/vRzlWZxXMaxC6aZM7Ufw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[硬件原生FP8加持，摩尔线程完成美团LongCat-2.0 Day-0 极速适配]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vRzlWZxXMaxC6aZM7Ufw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>60亿，一家十年CVC将永久关停</title>
+      <link>https://www.tmtpost.com/8055462.html</link>
+      <description>&lt;![CDATA[60亿，一家十年CVC将永久关停]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8055462.html</guid>
       <category>Technology</category>
     </item>
   </channel>

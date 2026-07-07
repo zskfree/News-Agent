@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-07 00:11
+**最后更新时间**: 2026-07-07 08:26
+
+---
+
+## 🆕 最新更新 (2026-07-07 08:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends](https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 08:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Greek shipping companies made almost $4bn carrying Russian oil in past three years](https://www.ft.com/content/d8518934-3618-43dc-af91-63a948c9bae3)
+**发布时间**: 2026-07-07 04:00
+
+#### [How Europe would fight without America](https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece)
+**发布时间**: 2026-07-07 04:00
+
+#### [How to stop AI becoming the enemy of younger workers](https://www.ft.com/content/0b67e331-4ff0-4af6-85b7-0d7d6710d603)
+**发布时间**: 2026-07-07 04:00
+
+#### [Volkswagen needs sense-makers at the top](https://www.ft.com/content/e9a5a84b-d392-4067-ba06-47f217f9512b)
+**发布时间**: 2026-07-07 04:00
+
+#### [EU to delay pre-authorised travel system after border chaos](https://www.ft.com/content/de332c29-8270-44d8-b535-aabc42692f03)
+**发布时间**: 2026-07-07 04:00
+
+#### [HSBC pulls back from riskier private credit lending](https://www.ft.com/content/08a93f45-24fe-4ea3-9b1e-ecfb68ee309d)
+**发布时间**: 2026-07-07 04:00
+
+#### [German business leaders warn Merz more is needed to prevent ‘lost decade’](https://www.ft.com/content/92ca68d2-f0d7-45ab-9811-437ee45e8d5d)
+**发布时间**: 2026-07-07 04:00
+
+#### [US crash out of World Cup after Trump red card controversy](https://www.ft.com/content/ad3ab4ac-aea7-44d1-8b89-4fd6456f9ab1)
+**发布时间**: 2026-07-07 02:36
+
+#### [‘Battle in the sky’ will decide outcome of war with Russia, says Zelenskyy](https://www.ft.com/content/6ca8de40-15e4-470e-a258-6dd2d8d9d83e)
+**发布时间**: 2026-07-06 16:37
 
 ---
 

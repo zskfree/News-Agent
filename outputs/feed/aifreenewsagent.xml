@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jul 2026 00:09:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2026 00:11:28 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 08:24:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:26:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大道至简，阿里与清华论文揭示扩散大模型推理能力，入选 ICML 杰出论文</title>
-      <link>https://www.leiphone.com/category/industrynews/UKOyRcsQg5b36KyE.html</link>
-      <description>&lt;![CDATA[大道至简，阿里与清华论文揭示扩散大模型推理能力，入选 ICML 杰出论文]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UKOyRcsQg5b36KyE.html</guid>
+      <title>百度基础模型换将，这一次把牌交给年轻人</title>
+      <link>https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html</link>
+      <description>&lt;![CDATA[百度基础模型换将，这一次把牌交给年轻人]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 11:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>登顶多项全球 SOTA！大晓全开源首个「统一具身基模型」ACE-Brain-0.5</title>
-      <link>https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html</link>
-      <description>&lt;![CDATA[登顶多项全球 SOTA！大晓全开源首个「统一具身基模型」ACE-Brain-0.5]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/YTCPIZ2kIbjtt6CX.html</guid>
+      <title>把智驾“搬进”卧室：智梦可用AI数据闭环重塑睡眠科技</title>
+      <link>https://www.leiphone.com/category/industrynews/RQ7ZNhqXtWfLpyq8.html</link>
+      <description>&lt;![CDATA[把智驾“搬进”卧室：智梦可用AI数据闭环重塑睡眠科技]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RQ7ZNhqXtWfLpyq8.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agentic 范式下的视频画质优化：火山引擎的新路径</title>
-      <link>https://www.leiphone.com/category/industrynews/43TEV10h6Qh56ybI.html</link>
-      <description>&lt;![CDATA[Agentic 范式下的视频画质优化：火山引擎的新路径]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/43TEV10h6Qh56ybI.html</guid>
+      <title>2026-07-07日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-07/</link>
+      <description>&lt;![CDATA[2026-07-07日刊]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-07/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>LeRobot v0.6.0: Imagine, Evaluate, Improve</title>
-      <link>https://huggingface.co/blog/lerobot-release-v060</link>
-      <description>&lt;![CDATA[LeRobot v0.6.0: Imagine, Evaluate, Improve]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/lerobot-release-v060</guid>
+      <title>NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community</title>
+      <link>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</link>
+      <description>&lt;![CDATA[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Open Models Are Driving AI Research</title>
-      <link>https://blogs.nvidia.com/blog/open-models-icml-2026/</link>
-      <description>&lt;![CDATA[How Open Models Are Driving AI Research]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-models-icml-2026/</guid>
+      <title>让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni</title>
+      <link>https://www.qbitai.com/2026/07/445229.html</link>
+      <description>&lt;![CDATA[让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 05:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445229.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Nations Are Deploying AI for Strategic Priorities</title>
-      <link>https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</link>
-      <description>&lt;![CDATA[How Nations Are Deploying AI for Strategic Priorities]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</guid>
+      <title>刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了</title>
+      <link>https://www.qbitai.com/2026/07/445230.html</link>
+      <description>&lt;![CDATA[刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 04:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445230.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Teaching models to forget: Selective unlearning with Amazon Nova</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/</link>
-      <description>&lt;![CDATA[Teaching models to forget: Selective unlearning with Amazon Nova]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 22:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/</guid>
+      <title>机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布</title>
+      <link>https://www.qbitai.com/2026/07/445184.html</link>
+      <description>&lt;![CDATA[机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 03:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445184.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5</title>
-      <link>https://www.qbitai.com/2026/07/443863.html</link>
-      <description>&lt;![CDATA[OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443863.html</guid>
+      <title>征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？</title>
+      <link>https://www.qbitai.com/2026/07/445067.html</link>
+      <description>&lt;![CDATA[征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 03:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445067.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”</title>
-      <link>https://www.qbitai.com/2026/07/444733.html</link>
-      <description>&lt;![CDATA[在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/444733.html</guid>
+      <title>征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程</title>
+      <link>https://www.qbitai.com/2026/07/444859.html</link>
+      <description>&lt;![CDATA[征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/444859.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蔚来世界模型OTA，70万用户没人被留在旧版本</title>
-      <link>https://www.qbitai.com/2026/07/443868.html</link>
-      <description>&lt;![CDATA[蔚来世界模型OTA，70万用户没人被留在旧版本]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/443868.html</guid>
+      <title>Claude的脑子里，也长出了一块「意识」</title>
+      <link>https://www.qbitai.com/2026/07/444741.html</link>
+      <description>&lt;![CDATA[Claude的脑子里，也长出了一块「意识」]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 01:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/444741.html</guid>
       <category>Ai</category>
     </item>
   </channel>
