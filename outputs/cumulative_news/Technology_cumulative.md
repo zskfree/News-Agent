@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-08 07:31
+**最后更新时间**: 2026-07-08 10:22
+
+---
+
+## 🆕 最新更新 (2026-07-08 10:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [6只收益率比垃圾债更稳健的优先股ETF](https://www.tmtpost.com/8057311.html)
+**发布时间**: 2026-07-08 17:23
+
+#### [博通 AVGO：追不上英伟达，反遭 “小弟” 围猎？](https://www.tmtpost.com/8056786.html)
+**发布时间**: 2026-07-08 16:37
+
+#### [跌幅超40%！“物理AI第一股”海清智元，估值泡沫破了？](https://www.tmtpost.com/8056668.html)
+**发布时间**: 2026-07-08 16:31
+
+#### [这届大学生毕业后，可能得给AI当保姆](https://www.tmtpost.com/8057103.html)
+**发布时间**: 2026-07-08 15:58
+
+#### [国产半导体设备零部件，开始起势](https://www.tmtpost.com/8056313.html)
+**发布时间**: 2026-07-08 15:58
+
+#### [瑞为技术今日挂牌：民航AI市占率第一的“光环”下，4.43亿营收如何撑起66亿市值](https://www.tmtpost.com/8057059.html)
+**发布时间**: 2026-07-08 13:50
+
+#### [太空产业商业化落地，6只核心航天标的布局赛道红利](https://www.tmtpost.com/8057045.html)
+**发布时间**: 2026-07-08 13:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论](https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 17:15
+
+#### [Cube Sandbox正式支持Arm架构！腾讯云与Arm联手解锁Agent多架构算力](https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 16:00
+
+#### [360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐](https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 15:30
+
+#### [进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？](https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 14:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
+**发布时间**: 2026-07-08 15:14
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [吐血整理 8 个神级 GitHub 开源项目，让 AI 生成网页好看到飞起。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535192&idx=1&sn=79639befb0a59553475707272539e0a6)
+**发布时间**: 2026-07-08 12:13
 
 ---
 

@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-08 07:31
+**最后更新时间**: 2026-07-08 10:22
+
+---
+
+## 🆕 最新更新 (2026-07-08 10:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple makes $30bn Broadcom deal under Trump-backed US investment pledge](https://www.ft.com/content/1bc10dd1-2aac-472d-b3d8-b76a83fb4abf)
+**发布时间**: 2026-07-08 10:00
+
+#### [US and Iran trade strikes after attacks on tankers](https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c)
+**发布时间**: 2026-07-08 07:49
+
+#### [Singapore’s Temasek doubles down on AI and private credit](https://www.ft.com/content/39e28145-ed1d-493f-bfc3-aeaa0ea88096)
+**发布时间**: 2026-07-08 07:03
+
+#### [Trump says ceasefire with Iran is ‘over’](https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680)
+**发布时间**: 2026-07-08 06:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over](https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 09:21
+
+#### [I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?](https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 09:16
+
+#### [Dakota Johnson quickly sells $6 million midcentury modern home in L.A.](https://www.marketwatch.com/story/dakota-johnson-quickly-sells-6-million-midcentury-modern-home-in-l-a-b6fb5e00?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 09:01
+
+#### [After selling her $5 million Westchester home, Drew Barrymore shows off her RV](https://www.marketwatch.com/story/after-selling-her-5-million-westchester-home-drew-barrymore-shows-off-her-rv-1d2cccf7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 08:58
+
+#### [Alibaba just had its best day in 10 months. Is it time for China techs to catch up?](https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 08:57
+
+#### [It was the world’s hottest stock market. Now South Korea’s stock market has entered bear-market territory](https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 08:53
 
 ---
 
