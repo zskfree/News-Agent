@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 00:00:52 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 07:31:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:31:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达转向全液冷，Rubin平台开启液冷“标配”时代</title>
-      <link>https://www.tmtpost.com/8055974.html</link>
-      <description>&lt;![CDATA[英伟达转向全液冷，Rubin平台开启液冷“标配”时代]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055974.html</guid>
+      <title>DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商</title>
+      <link>https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级</title>
-      <link>https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>开源模型赢了 Token 流量，Anthropic 赚走了大部分钱</title>
+      <link>https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源模型赢了 Token 流量，Anthropic 赚走了大部分钱]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一份内部报告显示，美国财政部开始评估AI泡沫风险</title>
-      <link>https://www.tmtpost.com/8055875.html</link>
-      <description>&lt;![CDATA[一份内部报告显示，美国财政部开始评估AI泡沫风险]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055875.html</guid>
+      <title>人人都在喊的世界模型，正在成为AI最大的“概念筐”</title>
+      <link>https://www.tmtpost.com/8056875.html</link>
+      <description>&lt;![CDATA[人人都在喊的世界模型，正在成为AI最大的“概念筐”]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056875.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps</title>
-      <link>https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026</title>
+      <link>https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把世界学习拆成两条互补路径，悟界·RoboBrain Orca 成通用世界基础模型基石</title>
-      <link>https://www.infoq.cn/article/HpkpCVSwAHQXAhphZm34?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把世界学习拆成两条互补路径，悟界·RoboBrain Orca 成通用世界基础模型基石]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HpkpCVSwAHQXAhphZm34?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SFT「不完全学习」之后，研究的下一个前沿在哪？ACL 2026 腾讯混元论文未来方向展望</title>
+      <link>https://www.infoq.cn/article/R3bVEmOPR090gN4ovm1A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[SFT「不完全学习」之后，研究的下一个前沿在哪？ACL 2026 腾讯混元论文未来方向展望]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/R3bVEmOPR090gN4ovm1A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI</title>
-      <link>https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>骑手背后的美团，悄悄跑通了万亿大模型</title>
+      <link>https://www.tmtpost.com/8056486.html</link>
+      <description>&lt;![CDATA[骑手背后的美团，悄悄跑通了万亿大模型]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056486.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>李开复亮出“中国版Palantir”底牌</title>
-      <link>https://www.tmtpost.com/8056379.html</link>
-      <description>&lt;![CDATA[李开复亮出“中国版Palantir”底牌]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056379.html</guid>
+      <title>AI产业全景透视之：3D NAND，以钼代钨</title>
+      <link>https://www.tmtpost.com/8056270.html</link>
+      <description>&lt;![CDATA[AI产业全景透视之：3D NAND，以钼代钨]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056270.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从超聚变，看服务器行业的“生死局”</title>
-      <link>https://www.tmtpost.com/8056124.html</link>
-      <description>&lt;![CDATA[从超聚变，看服务器行业的“生死局”]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056124.html</guid>
+      <title>HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建</title>
+      <link>https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude有了“没说出口的念头”，AI意识还远吗？</title>
-      <link>https://www.tmtpost.com/8055469.html</link>
-      <description>&lt;![CDATA[Claude有了“没说出口的念头”，AI意识还远吗？]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055469.html</guid>
+      <title>SwiftUI 新增了文档协议，提升了性能，并进行了其他改进</title>
+      <link>https://www.infoq.cn/article/T8lVxaHlN3wfM6ubLmJv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[SwiftUI 新增了文档协议，提升了性能，并进行了其他改进]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/T8lVxaHlN3wfM6ubLmJv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>父亲手搓AI工具，让自闭症孩子说出了“我爱你”</title>
-      <link>https://www.tmtpost.com/8055867.html</link>
-      <description>&lt;![CDATA[父亲手搓AI工具，让自闭症孩子说出了“我爱你”]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055867.html</guid>
+      <title>虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变</title>
+      <link>https://www.infoq.cn/article/LhZ4t3N4yxTm3ISZvUp5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LhZ4t3N4yxTm3ISZvUp5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

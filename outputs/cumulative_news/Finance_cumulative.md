@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-08 00:00
+**最后更新时间**: 2026-07-08 07:31
+
+---
+
+## 🆕 最新更新 (2026-07-08 07:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump ‘completely committed’ to Nato despite renewed threats, Rutte says](https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680)
+**发布时间**: 2026-07-08 06:01
+
+#### [Iran projects regional power as Khamenei funeral heads to Iraq](https://www.ft.com/content/f73e4763-1a33-45ee-9e22-cca151a16e5e)
+**发布时间**: 2026-07-08 04:00
+
+#### [Palantir’s real weak spot](https://www.ft.com/content/21038b20-646e-4773-a473-110c2d62ab15)
+**发布时间**: 2026-07-08 04:00
+
+#### [The battle for the future of democratic republics](https://www.ft.com/content/2dcabc77-4502-4eef-848f-b45db14ccd87)
+**发布时间**: 2026-07-08 04:00
+
+#### [Streamers ignore omnivorous consumers at their peril](https://www.ft.com/content/13ae8962-954d-4b83-bc90-29ca32c5e578)
+**发布时间**: 2026-07-08 04:00
+
+#### [Santander axes top China banker and scraps perks in Asia overhaul](https://www.ft.com/content/2169b73c-7583-4d28-91d5-6459846ad769)
+**发布时间**: 2026-07-08 04:00
+
+#### [Indonesia’s stock market hit with second downgrade warning](https://www.ft.com/content/dfb44d58-e8da-4f87-a65f-00eb5b1fc63c)
+**发布时间**: 2026-07-08 02:28
+
+#### [Japan’s borrowing costs soar to 30-year high on debt fears](https://www.ft.com/content/851aa883-073f-4423-a43e-9b09fdbe7c86)
+**发布时间**: 2026-07-08 01:00
+
+#### [French far-right leader Le Pen says she will run for president](https://www.ft.com/content/3c0ecc58-630b-4d74-8abd-b17eb73116cf)
+**发布时间**: 2026-07-07 21:34
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Plot twist: Gen Z is buying houses after all. Here’s how they’re doing it.](https://www.marketwatch.com/story/plot-twist-gen-z-is-buying-houses-after-all-ab247e1f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 01:06
+
+#### [Rivian’s stock sale triggers worst rout for the shares in nearly two years](https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 00:35
 
 ---
 

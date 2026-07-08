@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-08 00:00
+**最后更新时间**: 2026-07-08 07:31
+
+---
+
+## 🆕 最新更新 (2026-07-08 07:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [人人都在喊的世界模型，正在成为AI最大的“概念筐”](https://www.tmtpost.com/8056875.html)
+**发布时间**: 2026-07-08 15:25
+
+#### [Turning Algorithms into IPO Billions](https://www.tmtpost.com/8057099.html)
+**发布时间**: 2026-07-08 14:36
+
+#### [字节、宇树、BAT 等 40+ 产品大咖齐聚，2026 奇点智能产品大会最新最全日程来了！](https://www.tmtpost.com/8054461.html)
+**发布时间**: 2026-07-08 14:08
+
+#### [价格战再起，组件击穿0.7元/W，光伏最寒冷的时刻来了！](https://www.tmtpost.com/8056805.html)
+**发布时间**: 2026-07-08 12:37
+
+#### [快手换船：短视频搁浅，AI抢滩](https://www.tmtpost.com/8056696.html)
+**发布时间**: 2026-07-08 12:37
+
+#### [光大“挤水分”，华信“断舍离”](https://www.tmtpost.com/8056496.html)
+**发布时间**: 2026-07-08 12:37
+
+#### [腾讯减持迟早要来，快手更该担心视频号](https://www.tmtpost.com/8056548.html)
+**发布时间**: 2026-07-08 12:37
+
+#### [骑手背后的美团，悄悄跑通了万亿大模型](https://www.tmtpost.com/8056486.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [车企会进入“去宁德时代”新周期吗？](https://www.tmtpost.com/8056392.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [万华上半年净利预增超六成，化工周期拐点来了？](https://www.tmtpost.com/8056312.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [刚刚，排名第一的全国非公立中医院集团IPO！](https://www.tmtpost.com/8056258.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [符号的黄昏：LV的千万诉讼败给人心](https://www.tmtpost.com/8056272.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [整合、降价、谋上市，阿维塔不得不急](https://www.tmtpost.com/8056883.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [协创数据80亿天价定增背后，藏着怎样一个烂摊子？](https://www.tmtpost.com/8056257.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [印度年轻人不只问ChatGPT，也问AI占星师](https://www.tmtpost.com/8056579.html)
+**发布时间**: 2026-07-08 12:26
+
+#### [AI产业全景透视之：3D NAND，以钼代钨](https://www.tmtpost.com/8056270.html)
+**发布时间**: 2026-07-08 12:25
+
+#### [字节调集数十名员工做豆包导航](https://www.tmtpost.com/8056535.html)
+**发布时间**: 2026-07-08 11:54
+
+#### [泡泡玛特“出尔反尔”](https://www.tmtpost.com/8056733.html)
+**发布时间**: 2026-07-08 11:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [开源模型赢了 Token 流量，Anthropic 赚走了大部分钱](https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 15:20
+
+#### [沙发搬到线上：火山引擎视频云如何用RTC+直播打造一场“云上陪看房”？](https://www.infoq.cn/article/PEcre9jZeRucpbk5rezX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 15:02
+
+#### [SwiftUI 新增了文档协议，提升了性能，并进行了其他改进](https://www.infoq.cn/article/T8lVxaHlN3wfM6ubLmJv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 15:00
+
+#### [《进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？》](https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 14:58
+
+#### [DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商](https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 14:56
+
+#### [SFT「不完全学习」之后，研究的下一个前沿在哪？ACL 2026 腾讯混元论文未来方向展望](https://www.infoq.cn/article/R3bVEmOPR090gN4ovm1A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 14:44
+
+#### [HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建](https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 13:33
+
+#### [Instacart 通过配置驱动的多租户平台扩展个性化营销](https://www.infoq.cn/article/j3LVKbadKyeA1FZdpDyH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 12:00
+
+#### [大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026](https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 11:19
+
+#### [虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变](https://www.infoq.cn/article/LhZ4t3N4yxTm3ISZvUp5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 10:22
+
+#### [Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率](https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-08 09:09
+
+#### [企业微信首款 AI 硬件：出门问问TicNote合作款正式发布](https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 23:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
+**发布时间**: 2026-07-08 11:00
+
+#### [派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等](https://sspai.com/post/112049)
+**发布时间**: 2026-07-08 07:48
 
 ---
 
