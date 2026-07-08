@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-07 08:26
+**最后更新时间**: 2026-07-08 00:00
+
+---
+
+## 🆕 最新更新 (2026-07-08 00:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches new wave of Iran strikes after attacks on tankers](https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c)
+**发布时间**: 2026-07-07 23:31
+
+#### [Le Pen is posing as the victim of a politicised judiciary](https://www.ft.com/content/82523acf-a51d-4e6a-bb19-60d0c7899b6d)
+**发布时间**: 2026-07-07 21:37
+
+#### [French far-right leader Marine Le Pen says she will run for president](https://www.ft.com/content/3c0ecc58-630b-4d74-8abd-b17eb73116cf)
+**发布时间**: 2026-07-07 21:34
+
+#### [US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz](https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2)
+**发布时间**: 2026-07-07 20:38
+
+#### [IMF names Silvana Tenreyro as its next chief economist](https://www.ft.com/content/41d1c09c-a2d1-41f4-82f3-f2a402f91dec)
+**发布时间**: 2026-07-07 20:28
+
+#### [Meta releases first image model since Zuckerberg’s AI overhaul](https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994)
+**发布时间**: 2026-07-07 18:26
+
+#### [Trump threatens to remove all US troops from Europe](https://www.ft.com/content/a23fcb67-9ef9-4a07-b645-e4f6d1474334)
+**发布时间**: 2026-07-07 17:17
+
+#### [Trump signals reversal of Turkey F-35 ban](https://www.ft.com/content/3994cd63-ff43-4565-af35-3431696a1127)
+**发布时间**: 2026-07-07 15:37
+
+#### [Trump and the Fifa debacle](https://www.ft.com/content/bd327807-05d1-40d1-81a6-9f05df194aaf)
+**发布时间**: 2026-07-07 11:28
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?](https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 23:00
+
+#### [Micron’s stock falls as investors wonder if the memory market is near the top](https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 22:43
+
+#### [Adobe’s stock is temptingly cheap. Should investors bite?](https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 22:35
+
+#### [AI-related debt sells off sharply as Amazon looks to borrow another $25 billion](https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 22:35
+
+#### [Tesla’s stock could rise 20% thanks to the potential for a SpaceX merger, analyst says](https://www.marketwatch.com/story/teslas-stock-could-rise-20-thanks-to-the-potential-for-a-spacex-merger-analyst-says-0d64693e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 22:34
+
+#### [Crude prices rise as U.S. launches strikes on Iran shortly after canceling its license to sell oil](https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 22:11
+
+#### [Think the U.S. stock market is too heavily exposed to AI? It’s even worse abroad.](https://www.marketwatch.com/story/think-the-u-s-stock-market-is-too-heavily-exposed-to-ai-its-even-worse-abroad-7524d770?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 21:59
+
+#### [GameStop investors clear the way for a fresh attempt at buying eBay](https://www.marketwatch.com/story/gamestop-investors-clear-the-way-for-a-fresh-attempt-at-buying-ebay-8231871d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 21:37
+
+#### [‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?](https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 21:30
+
+#### [‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?](https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories)
+**发布时间**: 2026-07-07 21:30
 
 ---
 

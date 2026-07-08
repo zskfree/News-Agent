@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jul 2026 08:24:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2026 08:26:30 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百度基础模型换将，这一次把牌交给年轻人</title>
-      <link>https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html</link>
-      <description>&lt;![CDATA[百度基础模型换将，这一次把牌交给年轻人]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/XR79bc90xongJ7dH.html</guid>
+      <title>ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖</title>
+      <link>https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html</link>
+      <description>&lt;![CDATA[ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 18:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>把智驾“搬进”卧室：智梦可用AI数据闭环重塑睡眠科技</title>
-      <link>https://www.leiphone.com/category/industrynews/RQ7ZNhqXtWfLpyq8.html</link>
-      <description>&lt;![CDATA[把智驾“搬进”卧室：智梦可用AI数据闭环重塑睡眠科技]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RQ7ZNhqXtWfLpyq8.html</guid>
+      <title>ICML 2026现场最全索引：从快手到大厂，中国企业集体出征</title>
+      <link>https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html</link>
+      <description>&lt;![CDATA[ICML 2026现场最全索引：从快手到大厂，中国企业集体出征]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-07-07日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-07/</link>
-      <description>&lt;![CDATA[2026-07-07日刊]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-07/</guid>
+      <title>大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」</title>
+      <link>https://www.leiphone.com/category/ai/bj5ObTLwpb0spdnL.html</link>
+      <description>&lt;![CDATA[大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/bj5ObTLwpb0spdnL.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community</title>
-      <link>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</link>
-      <description>&lt;![CDATA[NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</guid>
+      <title>Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％</title>
+      <link>https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html</link>
+      <description>&lt;![CDATA[Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni</title>
-      <link>https://www.qbitai.com/2026/07/445229.html</link>
-      <description>&lt;![CDATA[让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 05:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445229.html</guid>
+      <title>阿米奥机器人刘方：具身智能不是大模型，更不是智驾</title>
+      <link>https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html</link>
+      <description>&lt;![CDATA[阿米奥机器人刘方：具身智能不是大模型，更不是智驾]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了</title>
-      <link>https://www.qbitai.com/2026/07/445230.html</link>
-      <description>&lt;![CDATA[刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 04:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445230.html</guid>
+      <title>从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”</title>
+      <link>https://www.qbitai.com/2026/07/445443.html</link>
+      <description>&lt;![CDATA[从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445443.html</guid>
       <category>Ai</category>
     </item>
     <item>
       <title>机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布</title>
-      <link>https://www.qbitai.com/2026/07/445184.html</link>
+      <link>https://www.leiphone.com/category/industrynews/oLB5L8aQrrt4rega.html</link>
       <description>&lt;![CDATA[机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 03:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445184.html</guid>
+      <pubDate>Tue, 07 Jul 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/oLB5L8aQrrt4rega.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？</title>
-      <link>https://www.qbitai.com/2026/07/445067.html</link>
-      <description>&lt;![CDATA[征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 03:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445067.html</guid>
+      <title>WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆</title>
+      <link>https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html</link>
+      <description>&lt;![CDATA[WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程</title>
-      <link>https://www.qbitai.com/2026/07/444859.html</link>
-      <description>&lt;![CDATA[征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 03:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/444859.html</guid>
+      <title>DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”</title>
+      <link>https://www.qbitai.com/2026/07/445608.html</link>
+      <description>&lt;![CDATA[DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445608.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude的脑子里，也长出了一块「意识」</title>
-      <link>https://www.qbitai.com/2026/07/444741.html</link>
-      <description>&lt;![CDATA[Claude的脑子里，也长出了一块「意识」]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 01:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/444741.html</guid>
+      <title>AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
+      <description>&lt;![CDATA[AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</guid>
       <category>Ai</category>
     </item>
   </channel>

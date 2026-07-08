@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-07 08:26
+**最后更新时间**: 2026-07-08 00:00
+
+---
+
+## 🆕 最新更新 (2026-07-08 00:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】文旅部印发《旅游强国建设“十五五”规划》：2030年国内出游花费目标7.7万亿元；亚马逊重返债券市场，据悉拟分八部分发行美元债筹资至少250亿美元；中国央行连续第20个月增持黄金](https://www.tmtpost.com/8056478.html)
+**发布时间**: 2026-07-08 07:20
+
+#### [连续暴跌，彩虹股份拟19亿收购虹阳显示股权，“第二曲线”成色与隐忧待考](https://www.tmtpost.com/8056522.html)
+**发布时间**: 2026-07-07 22:49
+
+#### [联亚药业：九成营收靠前五大客户，手握十亿现金且现金分红后欲募资补流｜IPO观察](https://www.tmtpost.com/8055748.html)
+**发布时间**: 2026-07-07 21:41
+
+#### [李开复亮出“中国版Palantir”底牌](https://www.tmtpost.com/8056379.html)
+**发布时间**: 2026-07-07 21:10
+
+#### [摘帽即卖壳成新潮流？艾艾精工用4个交易日破纪录](https://www.tmtpost.com/8056354.html)
+**发布时间**: 2026-07-07 20:18
+
+#### [梁汝波相信AI还是字节人？](https://www.tmtpost.com/8054357.html)
+**发布时间**: 2026-07-07 18:06
+
+#### [从超聚变，看服务器行业的“生死局”](https://www.tmtpost.com/8056124.html)
+**发布时间**: 2026-07-07 18:06
+
+#### [创维没做成的游戏内容生态 要靠新“搭子”去实现](https://www.tmtpost.com/8056029.html)
+**发布时间**: 2026-07-07 17:54
+
+#### [一份内部报告显示，美国财政部开始评估AI泡沫风险](https://www.tmtpost.com/8055875.html)
+**发布时间**: 2026-07-07 17:54
+
+#### [混元3正式版拿了高分，腾讯全家桶可以放心用了](https://www.tmtpost.com/8054278.html)
+**发布时间**: 2026-07-07 17:54
+
+#### [上一代汽车供应商巨头，“落幕”来得猝不及防](https://www.tmtpost.com/8056053.html)
+**发布时间**: 2026-07-07 17:50
+
+#### [父亲手搓AI工具，让自闭症孩子说出了“我爱你”](https://www.tmtpost.com/8055867.html)
+**发布时间**: 2026-07-07 17:50
+
+#### [老东家做保荐，前员工管财务：云豹智能IPO陷入“熟人局”](https://www.tmtpost.com/8055899.html)
+**发布时间**: 2026-07-07 17:46
+
+#### [华致酒行，栽在最擅长的生意上](https://www.tmtpost.com/8055962.html)
+**发布时间**: 2026-07-07 17:46
+
+#### [英伟达转向全液冷，Rubin平台开启液冷“标配”时代](https://www.tmtpost.com/8055974.html)
+**发布时间**: 2026-07-07 17:44
+
+#### [中行5年期大额存单又回来了，你还会买吗？](https://www.tmtpost.com/8055997.html)
+**发布时间**: 2026-07-07 17:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级](https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 19:02
+
+#### [把世界学习拆成两条互补路径，悟界·RoboBrain Orca 成通用世界基础模型基石](https://www.infoq.cn/article/HpkpCVSwAHQXAhphZm34?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 17:41
+
+#### [微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps](https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 17:23
+
+#### [让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI](https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-07 16:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
+**发布时间**: 2026-07-07 17:22
+
+#### [社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
+**发布时间**: 2026-07-07 17:00
+
+#### [用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
+**发布时间**: 2026-07-07 16:12
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [终于有个非 AI 相关的项目登上 GitHub 热榜，高低得推荐一下。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535168&idx=1&sn=acac06567bb7157a0ca19c556a94cdf2)
+**发布时间**: 2026-07-07 13:15
 
 ---
 
