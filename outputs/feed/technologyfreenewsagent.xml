@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 10:22:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:22:33 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:14:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论</title>
-      <link>https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>亲历者讲述：Claude Code是怎样炼成的？</title>
+      <link>https://www.tmtpost.com/8057106.html</link>
+      <description>&lt;![CDATA[亲历者讲述：Claude Code是怎样炼成的？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8057106.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐</title>
-      <link>https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工</title>
+      <link>https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cube Sandbox正式支持Arm架构！腾讯云与Arm联手解锁Agent多架构算力</title>
-      <link>https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cube Sandbox正式支持Arm架构！腾讯云与Arm联手解锁Agent多架构算力]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>实测屠榜的MiniMax M3：打的是硅谷闭源巨头的脸？</title>
+      <link>https://www.tmtpost.com/8057076.html</link>
+      <description>&lt;![CDATA[实测屠榜的MiniMax M3：打的是硅谷闭源巨头的脸？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8057076.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产半导体设备零部件，开始起势</title>
-      <link>https://www.tmtpost.com/8056313.html</link>
-      <description>&lt;![CDATA[国产半导体设备零部件，开始起势]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056313.html</guid>
+      <title>没有终点的攀爬：机器人产业的价值转移，与宇树的向上之路</title>
+      <link>https://www.tmtpost.com/8056293.html</link>
+      <description>&lt;![CDATA[没有终点的攀爬：机器人产业的价值转移，与宇树的向上之路]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056293.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率</title>
-      <link>https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达“逼”出全液冷时代：A股哪些公司会受益？</title>
+      <link>https://www.tmtpost.com/8057120.html</link>
+      <description>&lt;![CDATA[英伟达“逼”出全液冷时代：A股哪些公司会受益？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8057120.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Instacart 通过配置驱动的多租户平台扩展个性化营销</title>
-      <link>https://www.infoq.cn/article/j3LVKbadKyeA1FZdpDyH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Instacart 通过配置驱动的多租户平台扩展个性化营销]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j3LVKbadKyeA1FZdpDyH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>起底东南亚AI军团：专供园区，电诈效率飙升10倍</title>
+      <link>https://www.tmtpost.com/8056877.html</link>
+      <description>&lt;![CDATA[起底东南亚AI军团：专供园区，电诈效率飙升10倍]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056877.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>车企会进入“去宁德时代”新周期吗？</title>
-      <link>https://www.tmtpost.com/8056392.html</link>
-      <description>&lt;![CDATA[车企会进入“去宁德时代”新周期吗？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056392.html</guid>
+      <title>跌幅超40%！“物理AI第一股”海清智元，估值泡沫破了？</title>
+      <link>https://www.tmtpost.com/8056668.html</link>
+      <description>&lt;![CDATA[跌幅超40%！“物理AI第一股”海清智元，估值泡沫破了？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056668.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手换船：短视频搁浅，AI抢滩</title>
-      <link>https://www.tmtpost.com/8056696.html</link>
-      <description>&lt;![CDATA[快手换船：短视频搁浅，AI抢滩]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056696.html</guid>
+      <title>瑞为技术今日挂牌：民航AI市占率第一的“光环”下，4.43亿营收如何撑起66亿市值</title>
+      <link>https://www.tmtpost.com/8057059.html</link>
+      <description>&lt;![CDATA[瑞为技术今日挂牌：民航AI市占率第一的“光环”下，4.43亿营收如何撑起66亿市值]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 13:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8057059.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节调集数十名员工做豆包导航</title>
-      <link>https://www.tmtpost.com/8056535.html</link>
-      <description>&lt;![CDATA[字节调集数十名员工做豆包导航]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056535.html</guid>
+      <title>进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？</title>
+      <link>https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>吐血整理 8 个神级 GitHub 开源项目，让 AI 生成网页好看到飞起。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535192&amp;idx=1&amp;sn=79639befb0a59553475707272539e0a6</link>
-      <description>&lt;![CDATA[吐血整理 8 个神级 GitHub 开源项目，让 AI 生成网页好看到飞起。]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535192&amp;idx=1&amp;sn=79639befb0a59553475707272539e0a6</guid>
+      <title>Turning Algorithms into IPO Billions</title>
+      <link>https://www.tmtpost.com/8057099.html</link>
+      <description>&lt;![CDATA[Turning Algorithms into IPO Billions]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8057099.html</guid>
       <category>Technology</category>
     </item>
   </channel>

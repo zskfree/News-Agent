@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-08 10:22
+**最后更新时间**: 2026-07-09 00:14
+
+---
+
+## 🆕 最新更新 (2026-07-09 00:14)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Higher gas prices aren’t the only way rising tensions with Iran will hit home](https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 00:07
+
+#### [Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’](https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 23:10
+
+#### [I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?](https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 22:48
+
+#### [Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.](https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 21:40
+
+#### [Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran](https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 21:16
+
+#### [Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.](https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 21:01
+
+#### [This chart shows stamp prices over the years as USPS hikes postage again this weekend](https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 20:35
+
+#### [The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling](https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 20:32
+
+#### [‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?](https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 20:30
+
+#### [Nvidia’s stock trades at a juicy discount, according to BofA](https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories)
+**发布时间**: 2026-07-08 19:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches second day of strikes against Iran](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439)
+**发布时间**: 2026-07-08 23:44
+
+#### [Oil prices rise after Washington steps up conflict with Tehran](https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680)
+**发布时间**: 2026-07-08 21:53
+
+#### [Trump’s surprise Ukraine shift steadies nervous Nato allies](https://www.ft.com/content/907c26d7-9c1e-4bac-8da0-28216445d860)
+**发布时间**: 2026-07-08 21:09
+
+#### [Inflation fears mount at Warsh’s first Fed meeting](https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5)
+**发布时间**: 2026-07-08 18:58
+
+#### [Warsh’s minute minutes](https://www.ft.com/content/3bce2dd4-d0fc-4f3a-80a6-730d1065d4d9)
+**发布时间**: 2026-07-08 18:22
+
+#### [Trump grants Ukraine licence to produce Patriot missiles](https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78)
+**发布时间**: 2026-07-08 15:32
+
+#### [Ukraine intensifies attacks on Russian ships in Azov Sea](https://www.ft.com/content/90700f0e-b345-41bf-8c89-85da57c66a04)
+**发布时间**: 2026-07-08 15:12
+
+#### [Why the US and Iran are stuck in a cycle of tit-for-tat strikes](https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d)
+**发布时间**: 2026-07-08 14:51
+
+#### [Alphaville LLC initiates coverage of SpaceX with Buy recommendation](https://www.ft.com/content/1344d22b-ee64-488d-bd02-170fe0c9de2b)
+**发布时间**: 2026-07-08 14:25
+
+#### [The great AI data centre cover-up](https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4)
+**发布时间**: 2026-07-08 12:00
+
+#### [Rare earths from Trump-backed US mines sold to Asia](https://www.ft.com/content/9a730895-05d9-4917-beb9-8b742bea1ab7)
+**发布时间**: 2026-07-08 04:00
 
 ---
 

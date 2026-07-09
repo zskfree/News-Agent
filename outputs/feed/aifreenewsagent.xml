@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 10:20:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:22:33 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 00:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:14:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICML 精选 Spotlight Poster 汇总：Session 3-1</title>
-      <link>https://www.leiphone.com/category/private/7KHeasyoIRgGkQF4.html</link>
-      <description>&lt;![CDATA[ICML 精选 Spotlight Poster 汇总：Session 3-1]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/7KHeasyoIRgGkQF4.html</guid>
+      <title>具身智能“高考”难疯了！人类100分，最强模型12.8</title>
+      <link>https://www.qbitai.com/2026/07/446363.html</link>
+      <description>&lt;![CDATA[具身智能“高考”难疯了！人类100分，最强模型12.8]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446363.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>说句话就能预约维修服务，啄木鸟家庭维修入驻支付宝AI生态</title>
-      <link>https://www.leiphone.com/category/industrynews/933kRjBM9ZWMznDq.html</link>
-      <description>&lt;![CDATA[说句话就能预约维修服务，啄木鸟家庭维修入驻支付宝AI生态]]&gt;</description>
+      <title>50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代</title>
+      <link>https://www.qbitai.com/2026/07/446411.html</link>
+      <description>&lt;![CDATA[50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 13:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446411.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</link>
+      <description>&lt;![CDATA[NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness]]&gt;</description>
       <pubDate>Wed, 08 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/933kRjBM9ZWMznDq.html</guid>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式</title>
-      <link>https://www.leiphone.com/category/industrynews/fN14X8iEQx4RpkfJ.html</link>
-      <description>&lt;![CDATA[阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fN14X8iEQx4RpkfJ.html</guid>
+      <title>ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才</title>
+      <link>https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html</link>
+      <description>&lt;![CDATA[ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大多数人没看懂，支付宝、微信这三个月的Agent布局</title>
-      <link>https://www.leiphone.com/category/aijuejinzhi/PkorfY0MIiENCG54.html</link>
-      <description>&lt;![CDATA[大多数人没看懂，支付宝、微信这三个月的Agent布局]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/PkorfY0MIiENCG54.html</guid>
+      <title>ICML 精选 Spotlight Poster 汇总：Session 4-1</title>
+      <link>https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html</link>
+      <description>&lt;![CDATA[ICML 精选 Spotlight Poster 汇总：Session 4-1]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化</title>
-      <link>https://www.qbitai.com/2026/07/446075.html</link>
-      <description>&lt;![CDATA[别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446075.html</guid>
+      <title>Data for Agents</title>
+      <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
+      <description>&lt;![CDATA[Data for Agents]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议</title>
-      <link>https://www.qbitai.com/2026/07/446076.html</link>
-      <description>&lt;![CDATA[翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446076.html</guid>
+      <title>Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/</link>
+      <description>&lt;![CDATA[Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座</title>
-      <link>https://www.qbitai.com/2026/07/445946.html</link>
-      <description>&lt;![CDATA[高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 07:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445946.html</guid>
+      <title>Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/</link>
+      <description>&lt;![CDATA[Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能伙伴 共创未来！WAIC 2026即将举行并首发主题片</title>
-      <link>https://www.qbitai.com/2026/07/445904.html</link>
-      <description>&lt;![CDATA[智能伙伴 共创未来！WAIC 2026即将举行并首发主题片]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 07:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/445904.html</guid>
+      <title>Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Introducing Claude apps gateway for AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</link>
+      <description>&lt;![CDATA[Introducing Claude apps gateway for AWS]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</guid>
       <category>Ai</category>
     </item>
   </channel>
