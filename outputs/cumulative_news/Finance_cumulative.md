@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-09 00:14
+**最后更新时间**: 2026-07-09 08:31
+
+---
+
+## 🆕 最新更新 (2026-07-09 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US carries out second day of strikes against Iran](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439)
+**发布时间**: 2026-07-09 07:04
+
+#### [Iran after Ali Khamenei](https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176)
+**发布时间**: 2026-07-09 04:00
+
+#### [The century-old device choking the world’s AI push](https://ig.ft.com/transformers/)
+**发布时间**: 2026-07-09 04:00
+
+#### [Who wants to tax a billionaire?](https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328)
+**发布时间**: 2026-07-09 04:00
+
+#### [Private assets could make sense for retail investors — at the right price](https://www.ft.com/content/2221f54b-1660-4adf-a574-581bd6cda601)
+**发布时间**: 2026-07-09 04:00
+
+#### [Iran war windfall puts Big Oil on collision course with Trump](https://www.ft.com/content/aa2bacf1-4a2a-447b-b7fb-6620fab03cf1)
+**发布时间**: 2026-07-09 04:00
+
+#### [EU’s border check needs complete ‘overhaul’, says Greek airports chief](https://www.ft.com/content/83ae0ca8-ccce-4253-abfb-4c204f24bbbd)
+**发布时间**: 2026-07-09 04:00
+
+#### [Graham Platner drops Senate bid after rape allegations](https://www.ft.com/content/7ea93e06-3b20-45ac-b8e6-f067866b6d4c)
+**发布时间**: 2026-07-09 01:14
 
 ---
 

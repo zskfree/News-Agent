@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Jul 2026 00:14:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2026 00:14:21 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:31:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亲历者讲述：Claude Code是怎样炼成的？</title>
-      <link>https://www.tmtpost.com/8057106.html</link>
-      <description>&lt;![CDATA[亲历者讲述：Claude Code是怎样炼成的？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057106.html</guid>
+      <title>百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工</title>
-      <link>https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？</title>
+      <link>https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>实测屠榜的MiniMax M3：打的是硅谷闭源巨头的脸？</title>
-      <link>https://www.tmtpost.com/8057076.html</link>
-      <description>&lt;![CDATA[实测屠榜的MiniMax M3：打的是硅谷闭源巨头的脸？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057076.html</guid>
+      <title>Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！</title>
+      <link>https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>没有终点的攀爬：机器人产业的价值转移，与宇树的向上之路</title>
-      <link>https://www.tmtpost.com/8056293.html</link>
-      <description>&lt;![CDATA[没有终点的攀爬：机器人产业的价值转移，与宇树的向上之路]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056293.html</guid>
+      <title>字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西</title>
+      <link>https://www.tmtpost.com/8058019.html</link>
+      <description>&lt;![CDATA[字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8058019.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达“逼”出全液冷时代：A股哪些公司会受益？</title>
-      <link>https://www.tmtpost.com/8057120.html</link>
-      <description>&lt;![CDATA[英伟达“逼”出全液冷时代：A股哪些公司会受益？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057120.html</guid>
+      <title>AI Infra 拼什么？</title>
+      <link>https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Infra 拼什么？]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>起底东南亚AI军团：专供园区，电诈效率飙升10倍</title>
-      <link>https://www.tmtpost.com/8056877.html</link>
-      <description>&lt;![CDATA[起底东南亚AI军团：专供园区，电诈效率飙升10倍]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056877.html</guid>
+      <title>Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>跌幅超40%！“物理AI第一股”海清智元，估值泡沫破了？</title>
-      <link>https://www.tmtpost.com/8056668.html</link>
-      <description>&lt;![CDATA[跌幅超40%！“物理AI第一股”海清智元，估值泡沫破了？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056668.html</guid>
+      <title>动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级</title>
+      <link>https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞为技术今日挂牌：民航AI市占率第一的“光环”下，4.43亿营收如何撑起66亿市值</title>
-      <link>https://www.tmtpost.com/8057059.html</link>
-      <description>&lt;![CDATA[瑞为技术今日挂牌：民航AI市占率第一的“光环”下，4.43亿营收如何撑起66亿市值]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057059.html</guid>
+      <title>Momenta、易控智驾同日 IPO：智驾告别“市梦率”</title>
+      <link>https://www.tmtpost.com/8058339.html</link>
+      <description>&lt;![CDATA[Momenta、易控智驾同日 IPO：智驾告别“市梦率”]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8058339.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？</title>
-      <link>https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[进球、切片、全网爆：如何打造一座跑赢热搜的赛事“AI短视频工厂”？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vBspiJudGOkY1yNG5Utx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树越火，优必选越急</title>
+      <link>https://www.tmtpost.com/8058257.html</link>
+      <description>&lt;![CDATA[宇树越火，优必选越急]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8058257.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Turning Algorithms into IPO Billions</title>
-      <link>https://www.tmtpost.com/8057099.html</link>
-      <description>&lt;![CDATA[Turning Algorithms into IPO Billions]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057099.html</guid>
+      <title>独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？</title>
+      <link>https://www.tmtpost.com/8058173.html</link>
+      <description>&lt;![CDATA[独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8058173.html</guid>
       <category>Technology</category>
     </item>
   </channel>

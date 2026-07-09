@@ -3631,6 +3631,66 @@
         "link": "https://www.tmtpost.com/8057099.html",
         "published_date": "Wed, 08 Jul 2026 14:36:00 GMT",
         "first_seen": "2026-07-09T00:14:21.261160"
+      },
+      "f2ab47958615e2e9a06ebc45f9f1bdda58ded9882278bbeb64dda1017f1e9473": {
+        "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳",
+        "link": "https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 16:15:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506238"
+      },
+      "2472b3443c20d0f6dec1d5975c0cf82ad9e8a90f5b271c11a9012e944f7e21e6": {
+        "title": "首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？",
+        "link": "https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 15:32:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506250"
+      },
+      "ca4d36bc4d1c54a6f83c559798f0e06d60b0a2ce304815398386ce94c575961d": {
+        "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！",
+        "link": "https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 13:56:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506252"
+      },
+      "0389f61b408118201121ab4bdd5a3244f8e27029ea5fe3d7f3b08af4b5742ab9": {
+        "title": "字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西",
+        "link": "https://www.tmtpost.com/8058019.html",
+        "published_date": "Thu, 09 Jul 2026 10:30:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506255"
+      },
+      "d7e91eb86336e65f2d90f7cf97b46d5f636304d24443926724a7ac5886f18df6": {
+        "title": "AI Infra 拼什么？",
+        "link": "https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 16:18:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506257"
+      },
+      "7411c4121cebbcae7b90f09f8e31f29620a6ca6cb99cdfcb30519890a0366dcd": {
+        "title": "Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 16:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506258"
+      },
+      "225dac6611a146c385d8e3ffdddfac416818de4f734f212967c4ee3d17f4c634": {
+        "title": "动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级",
+        "link": "https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506260"
+      },
+      "03d3e10d9fcafa20b674449b8861ee47e299ff8396537106afda5146d40f65cd": {
+        "title": "Momenta、易控智驾同日 IPO：智驾告别“市梦率”",
+        "link": "https://www.tmtpost.com/8058339.html",
+        "published_date": "Thu, 09 Jul 2026 13:58:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506261"
+      },
+      "173309f6dca65d21ba3fd981e8c902cf56ca09c62c6974568786842a5da47f5f": {
+        "title": "宇树越火，优必选越急",
+        "link": "https://www.tmtpost.com/8058257.html",
+        "published_date": "Thu, 09 Jul 2026 12:45:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506263"
+      },
+      "589830c6cd773dd8e844d817fd9ae53dc01d14f1c03fa01d86a7ecd81cc1b36e": {
+        "title": "独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？",
+        "link": "https://www.tmtpost.com/8058173.html",
+        "published_date": "Thu, 09 Jul 2026 12:52:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.506264"
       }
     },
     "Finance": {
@@ -7017,6 +7077,54 @@
         "link": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
         "published_date": "Wed, 08 Jul 2026 22:48:00 GMT",
         "first_seen": "2026-07-09T00:14:22.168993"
+      },
+      "83e14da8278ebb27b22cc3fad338d80183cb676c3cda524dcdc1d5236c6952b7": {
+        "title": "US carries out second day of strikes against Iran",
+        "link": "https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439",
+        "published_date": "Thu, 09 Jul 2026 07:04:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560435"
+      },
+      "8e534eec7a41b85ab386a2c0c484a1e29aa5c4f9a301d273196215c130026c76": {
+        "title": "Iran after Ali Khamenei",
+        "link": "https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560444"
+      },
+      "bbb422155c1e7a868726f3997c92872a813ba86148b764d06a68e7f6e726c471": {
+        "title": "The century-old device choking the world’s AI push",
+        "link": "https://ig.ft.com/transformers/",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560446"
+      },
+      "057904e99bf04b3b9c74a3e13cef14cb0a20e6fda63b0a8bda70334a2a3139ed": {
+        "title": "Who wants to tax a billionaire?",
+        "link": "https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560447"
+      },
+      "5386e4f790a45d11e4f6b246fd9c309ac2f1145b2d10c21169d8ba17d6c66814": {
+        "title": "Private assets could make sense for retail investors — at the right price",
+        "link": "https://www.ft.com/content/2221f54b-1660-4adf-a574-581bd6cda601",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560450"
+      },
+      "0f44c21c6ac01f81a76e5bc5e3161d64af514bb75313f96b599e6a7d1753e864": {
+        "title": "Iran war windfall puts Big Oil on collision course with Trump",
+        "link": "https://www.ft.com/content/aa2bacf1-4a2a-447b-b7fb-6620fab03cf1",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560451"
+      },
+      "8558ce7f15082e58a0bda7199649f9da00c93e779de98de50ecbc376544d1ecb": {
+        "title": "EU’s border check needs complete ‘overhaul’, says Greek airports chief",
+        "link": "https://www.ft.com/content/83ae0ca8-ccce-4253-abfb-4c204f24bbbd",
+        "published_date": "Thu, 09 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560452"
+      },
+      "ce34ec94a1168ee6ac190ff76adbdebf6edd40d7783a8d1bb4e0730802a563cd": {
+        "title": "Graham Platner drops Senate bid after rape allegations",
+        "link": "https://www.ft.com/content/7ea93e06-3b20-45ac-b8e6-f067866b6d4c",
+        "published_date": "Thu, 09 Jul 2026 01:14:00 GMT",
+        "first_seen": "2026-07-09T08:31:09.560454"
       }
     },
     "Ai": {
@@ -9683,13 +9791,73 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
         "published_date": "Wed, 08 Jul 2026 19:49:00 GMT",
         "first_seen": "2026-07-09T00:14:23.145424"
+      },
+      "e57716b2f31b14d1bc6a032d7bde914c11eb4c3e4ea1211bc118c6341f7d9989": {
+        "title": "AMI Labs 冯雁：AI 迈向现实世界，世界模型不可或缺 | ICML 2026",
+        "link": "https://www.leiphone.com/category/academic/2xndXGiVd0MVqPAD.html",
+        "published_date": "Thu, 09 Jul 2026 11:40:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774396"
+      },
+      "689d7e866ee0ec0192d02edaa284192431596fc5997258da6189e30fb2aeccbb": {
+        "title": "ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相",
+        "link": "https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html",
+        "published_date": "Thu, 09 Jul 2026 10:51:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774402"
+      },
+      "07d01a087dcbbf4c66d2feb6c5a7cac569b07db53f1c1712ff5500f3acee3fcc": {
+        "title": "人手数据，如何重塑机器人基础模型？专访 LaST-HD 一作刘家铭",
+        "link": "https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html",
+        "published_date": "Thu, 09 Jul 2026 11:57:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774405"
+      },
+      "e8e46bda5732219dfe7d76f1a40b90ec2c79fa15c74bfec3e90fe78a284bf4d4": {
+        "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+        "link": "https://www.qbitai.com/2026/07/446548.html",
+        "published_date": "Thu, 09 Jul 2026 03:39:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774407"
+      },
+      "aaf9459fb66b729455fed2ed5b8ec5c5092deedbc4209ea6a3a5e8f5bb5665f2": {
+        "title": "蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！",
+        "link": "https://www.leiphone.com/category/industrynews/6Hyio1NHDBM1d5Iw.html",
+        "published_date": "Thu, 09 Jul 2026 11:57:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774409"
+      },
+      "6064ee47a9550473993ba873c483f624fc93e672bfc1f17cdd2447f315a9f011": {
+        "title": "MiMo 基座大模型，小米最有远见的一次投入",
+        "link": "https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html",
+        "published_date": "Thu, 09 Jul 2026 09:44:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774411"
+      },
+      "78a03762b6c2e548dd420bf1ecb11038f9472ff54cb78b6b39f9a0d6becfa92a": {
+        "title": "Token账单迷雾：当每百万Token多少钱变成「比价陷阱」",
+        "link": "https://www.leiphone.com/category/chips/0LbefboyRMfPxvBe.html",
+        "published_date": "Thu, 09 Jul 2026 11:23:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774412"
+      },
+      "6890e0af48dc24b1059d44b5c553976bf3004dcf5ce26fe7bedd3716f152c1d7": {
+        "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+        "link": "https://www.qbitai.com/2026/07/446658.html",
+        "published_date": "Thu, 09 Jul 2026 06:29:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774414"
+      },
+      "f5949765569bc5314d5595384a423926b4ab8e93a7cff891af9022439f7105fc": {
+        "title": "微软裁员补偿方案曝光：最高能拿近10个月基本工资遣散费；华为车BU总裁谈「智驾泡沫」：宣传过热，真实能力差距悬殊；字节绩效规则调整",
+        "link": "https://www.leiphone.com/category/zaobao/OKkkXDJyn9iKpStq.html",
+        "published_date": "Thu, 09 Jul 2026 08:29:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774416"
+      },
+      "7bc8d580904ff8e989d109c83dc5382d4ea0e9a801f571166c32eaf19f2f8f23": {
+        "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+        "link": "https://www.qbitai.com/2026/07/436498.html",
+        "published_date": "Thu, 09 Jul 2026 05:33:00 GMT",
+        "first_seen": "2026-07-09T08:31:10.774417"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-09T00:14:21.261161",
-    "Finance": "2026-07-09T00:14:22.168995",
-    "Ai": "2026-07-09T00:14:23.145425"
+    "Technology": "2026-07-09T08:31:09.506266",
+    "Finance": "2026-07-09T08:31:09.560456",
+    "Ai": "2026-07-09T08:31:10.774419"
   }
 }

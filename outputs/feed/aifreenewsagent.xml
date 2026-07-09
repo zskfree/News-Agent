@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Jul 2026 00:12:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2026 00:14:23 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 08:28:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:31:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身智能“高考”难疯了！人类100分，最强模型12.8</title>
-      <link>https://www.qbitai.com/2026/07/446363.html</link>
-      <description>&lt;![CDATA[具身智能“高考”难疯了！人类100分，最强模型12.8]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 13:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446363.html</guid>
+      <title>AMI Labs 冯雁：AI 迈向现实世界，世界模型不可或缺 | ICML 2026</title>
+      <link>https://www.leiphone.com/category/academic/2xndXGiVd0MVqPAD.html</link>
+      <description>&lt;![CDATA[AMI Labs 冯雁：AI 迈向现实世界，世界模型不可或缺 | ICML 2026]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 11:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/2xndXGiVd0MVqPAD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代</title>
-      <link>https://www.qbitai.com/2026/07/446411.html</link>
-      <description>&lt;![CDATA[50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446411.html</guid>
+      <title>ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相</title>
+      <link>https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html</link>
+      <description>&lt;![CDATA[ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</link>
-      <description>&lt;![CDATA[NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</guid>
+      <title>人手数据，如何重塑机器人基础模型？专访 LaST-HD 一作刘家铭</title>
+      <link>https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html</link>
+      <description>&lt;![CDATA[人手数据，如何重塑机器人基础模型？专访 LaST-HD 一作刘家铭]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才</title>
-      <link>https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html</link>
-      <description>&lt;![CDATA[ICML 2026现场直击：从展台到游轮，中国大厂在顶会抢人才]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/DiVzwoGAPFZarhqd.html</guid>
+      <title>世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互</title>
+      <link>https://www.qbitai.com/2026/07/446548.html</link>
+      <description>&lt;![CDATA[世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 03:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446548.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ICML 精选 Spotlight Poster 汇总：Session 4-1</title>
-      <link>https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html</link>
-      <description>&lt;![CDATA[ICML 精选 Spotlight Poster 汇总：Session 4-1]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/G6Kz0tQWVb5CMxBY.html</guid>
+      <title>蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！</title>
+      <link>https://www.leiphone.com/category/industrynews/6Hyio1NHDBM1d5Iw.html</link>
+      <description>&lt;![CDATA[蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6Hyio1NHDBM1d5Iw.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Data for Agents</title>
-      <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
-      <description>&lt;![CDATA[Data for Agents]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
+      <title>MiMo 基座大模型，小米最有远见的一次投入</title>
+      <link>https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html</link>
+      <description>&lt;![CDATA[MiMo 基座大模型，小米最有远见的一次投入]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/9HgNwyn6oxOkZu12.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/</link>
-      <description>&lt;![CDATA[Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/</guid>
+      <title>Token账单迷雾：当每百万Token多少钱变成「比价陷阱」</title>
+      <link>https://www.leiphone.com/category/chips/0LbefboyRMfPxvBe.html</link>
+      <description>&lt;![CDATA[Token账单迷雾：当每百万Token多少钱变成「比价陷阱」]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/0LbefboyRMfPxvBe.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/</link>
-      <description>&lt;![CDATA[Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/</guid>
+      <title>刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴</title>
+      <link>https://www.qbitai.com/2026/07/446658.html</link>
+      <description>&lt;![CDATA[刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 06:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446658.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/</guid>
+      <title>微软裁员补偿方案曝光：最高能拿近10个月基本工资遣散费；华为车BU总裁谈「智驾泡沫」：宣传过热，真实能力差距悬殊；字节绩效规则调整</title>
+      <link>https://www.leiphone.com/category/zaobao/OKkkXDJyn9iKpStq.html</link>
+      <description>&lt;![CDATA[微软裁员补偿方案曝光：最高能拿近10个月基本工资遣散费；华为车BU总裁谈「智驾泡沫」：宣传过热，真实能力差距悬殊；字节绩效规则调整]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/OKkkXDJyn9iKpStq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing Claude apps gateway for AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</link>
-      <description>&lt;![CDATA[Introducing Claude apps gateway for AWS]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 19:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</guid>
+      <title>2026年世界人工智能大会，7月17-7月20上海举办</title>
+      <link>https://www.qbitai.com/2026/07/436498.html</link>
+      <description>&lt;![CDATA[2026年世界人工智能大会，7月17-7月20上海举办]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 05:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/436498.html</guid>
       <category>Ai</category>
     </item>
   </channel>

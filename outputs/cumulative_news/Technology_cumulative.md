@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-09 00:14
+**最后更新时间**: 2026-07-09 08:31
+
+---
+
+## 🆕 最新更新 (2026-07-09 08:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Meta“投降”？一场被严重误读的算力恐慌](https://www.tmtpost.com/8058430.html)
+**发布时间**: 2026-07-09 16:19
+
+#### [29.9元，迪卡侬们开始卖服务赚钱了？](https://www.tmtpost.com/8058637.html)
+**发布时间**: 2026-07-09 16:16
+
+#### [新周期的投资收益地图](https://www.tmtpost.com/8058639.html)
+**发布时间**: 2026-07-09 16:13
+
+#### [2天12个IPO，港交所要挤不下了](https://www.tmtpost.com/8058535.html)
+**发布时间**: 2026-07-09 16:11
+
+#### [CFO与CIO跨界对谈，企业数智跃迁不只是“经营重构”|「从数字化到AI」系列对话](https://www.tmtpost.com/8057225.html)
+**发布时间**: 2026-07-09 15:56
+
+#### [1480亿，东莞草根女首富刚刚IPO了](https://www.tmtpost.com/8058395.html)
+**发布时间**: 2026-07-09 13:58
+
+#### [梅罗“情怀杀”，哈姆“玩抽象”：球星营销的逻辑全变了？](https://www.tmtpost.com/8058408.html)
+**发布时间**: 2026-07-09 13:58
+
+#### [Momenta、易控智驾同日 IPO：智驾告别“市梦率”](https://www.tmtpost.com/8058339.html)
+**发布时间**: 2026-07-09 13:58
+
+#### [谁在围剿沃尔玛中国？](https://www.tmtpost.com/8058320.html)
+**发布时间**: 2026-07-09 13:58
+
+#### [澜沧古茶，出清“黑天鹅”](https://www.tmtpost.com/8058058.html)
+**发布时间**: 2026-07-09 13:58
+
+#### [给AI“降温”？河南这个小县城的钻石又有了新的就业方向](https://www.tmtpost.com/8058329.html)
+**发布时间**: 2026-07-09 12:52
+
+#### [独立投标资格放开，钠电拳打锂电、脚踢算力储能的日子要来了？](https://www.tmtpost.com/8058173.html)
+**发布时间**: 2026-07-09 12:52
+
+#### [2000个县城建大学之后，酒店投资人要不要进场？](https://www.tmtpost.com/8058247.html)
+**发布时间**: 2026-07-09 12:51
+
+#### [宇树越火，优必选越急](https://www.tmtpost.com/8058257.html)
+**发布时间**: 2026-07-09 12:45
+
+#### [梅西不可能](https://www.tmtpost.com/8058152.html)
+**发布时间**: 2026-07-09 12:45
+
+#### [储能Pre-IPO窗口打开，星辰新能近5亿元融资背后，什么样的企业更受市场青睐？](https://www.tmtpost.com/8058181.html)
+**发布时间**: 2026-07-09 12:43
+
+#### [“中医馆第二股”来了，350年的金字招牌也带不动中医馆？](https://www.tmtpost.com/8058340.html)
+**发布时间**: 2026-07-09 12:39
+
+#### [量贩零食，加速洗牌](https://www.tmtpost.com/8058044.html)
+**发布时间**: 2026-07-09 12:33
+
+#### [字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西](https://www.tmtpost.com/8058019.html)
+**发布时间**: 2026-07-09 10:30
+
+#### [寿司回暖，谁吃到了红利？](https://www.tmtpost.com/8046582.html)
+**发布时间**: 2026-07-09 10:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Infra 拼什么？](https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:18
+
+#### [百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳](https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:15
+
+#### [Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势](https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 16:00
+
+#### [首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？](https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 15:32
+
+#### [动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级](https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 15:00
+
+#### [重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势](https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 14:50
+
+#### [Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！](https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 13:56
+
+#### [MCP 推出企业统一授权功能](https://www.infoq.cn/article/NIPG4kmz1lDv8DIrsZ9O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 13:48
+
+#### [Claude 在 Foundry 上正式可用，但欧洲企业无法部署](https://www.infoq.cn/article/hOGtafDIR2GvccjYiLEc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 12:00
+
+#### [主权云争议持续，Cycle 推出欧盟专属控制平面](https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 10:43
+
+#### [将平台开发从项目转向产品](https://www.infoq.cn/article/IBeglXveqxZXVq8lhtvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-09 09:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
+**发布时间**: 2026-07-09 10:17
+
+#### [派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
+**发布时间**: 2026-07-09 08:40
 
 ---
 
