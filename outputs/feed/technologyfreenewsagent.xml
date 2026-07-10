@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Jul 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2026 00:07:58 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 08:25:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:25:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理</title>
-      <link>https://www.tmtpost.com/8059401.html</link>
-      <description>&lt;![CDATA[伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 07:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059401.html</guid>
+      <title>GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打</title>
+      <link>https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>3个月狂吸百亿，世界模型打响2026生死卡位战</title>
-      <link>https://www.tmtpost.com/8057843.html</link>
-      <description>&lt;![CDATA[3个月狂吸百亿，世界模型打响2026生死卡位战]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057843.html</guid>
+      <title>史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底</title>
+      <link>https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 进化论：从对话到协作</title>
-      <link>https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 进化论：从对话到协作]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家</title>
+      <link>https://www.tmtpost.com/8059646.html</link>
+      <description>&lt;![CDATA[独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059646.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国AI产业的三大优势（上）</title>
-      <link>https://www.tmtpost.com/8058613.html</link>
-      <description>&lt;![CDATA[中国AI产业的三大优势（上）]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8058613.html</guid>
+      <title>从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0</title>
+      <link>https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CFO与CIO跨界对谈，企业数智跃迁不只是“经营重构”|「从数字化到AI」系列对话</title>
-      <link>https://www.tmtpost.com/8057225.html</link>
-      <description>&lt;![CDATA[CFO与CIO跨界对谈，企业数智跃迁不只是“经营重构”|「从数字化到AI」系列对话]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057225.html</guid>
+      <title>vLLM 针对多模态模型的推理优化实践｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[vLLM 针对多模态模型的推理优化实践｜AICon深圳]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>HubSpot 如何将语义搜索扩展至 200 亿个向量</title>
+      <link>https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HubSpot 如何将语义搜索扩展至 200 亿个向量]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>主权云争议持续，Cycle 推出欧盟专属控制平面</title>
-      <link>https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[主权云争议持续，Cycle 推出欧盟专属控制平面]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从PostgreSQL切换到ClickHouse，提升系统性能与伸缩性</title>
+      <link>https://www.infoq.cn/article/b1jJxXGv5rNXyMXqMGJr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从PostgreSQL切换到ClickHouse，提升系统性能与伸缩性]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b1jJxXGv5rNXyMXqMGJr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MCP 推出企业统一授权功能</title>
-      <link>https://www.infoq.cn/article/NIPG4kmz1lDv8DIrsZ9O?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MCP 推出企业统一授权功能]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NIPG4kmz1lDv8DIrsZ9O?utm_source=rss&amp;utm_medium=article</guid>
+      <title>精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？</title>
+      <link>https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta“投降”？一场被严重误读的算力恐慌</title>
-      <link>https://www.tmtpost.com/8058430.html</link>
-      <description>&lt;![CDATA[Meta“投降”？一场被严重误读的算力恐慌]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8058430.html</guid>
+      <title>当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为天才少年与DeepSeek冲突背后，梁文锋的人才观是什么？</title>
-      <link>https://www.tmtpost.com/8058654.html</link>
-      <description>&lt;![CDATA[华为天才少年与DeepSeek冲突背后，梁文锋的人才观是什么？]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8058654.html</guid>
+      <title>Vibe Coding 时代，为什么降本不一定增效？</title>
+      <link>https://sspai.com/post/111975</link>
+      <description>&lt;![CDATA[Vibe Coding 时代，为什么降本不一定增效？]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111975</guid>
       <category>Technology</category>
     </item>
   </channel>

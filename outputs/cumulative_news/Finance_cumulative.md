@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-10 00:07
+**最后更新时间**: 2026-07-10 08:25
+
+---
+
+## 🆕 最新更新 (2026-07-10 08:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.](https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 07:28
+
+#### [Bidding war breaks out for easyJet as Apollo tops rival private-equity group’s bid](https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 06:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Japan finance minister urges giant pension fund to invest more at home](https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914)
+**发布时间**: 2026-07-10 04:30
+
+#### [OpenAI and Google sell AI models to blacklisted China groups](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f)
+**发布时间**: 2026-07-10 04:00
+
+#### [The man Trump wants to run the DoJ](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b)
+**发布时间**: 2026-07-10 04:00
+
+#### [The luxury square that shows London’s mansions are not selling](https://www.ft.com/content/1daad2c2-fd9e-4fc8-af16-22a1c5775fd1)
+**发布时间**: 2026-07-10 04:00
+
+#### [Why AI could be a financial ‘sludge’ buster](https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f)
+**发布时间**: 2026-07-10 04:00
+
+#### [UBS helped trigger exodus from Blue Owl private credit fund](https://www.ft.com/content/4c75ea97-8411-445d-b1fd-393b2b4222f8)
+**发布时间**: 2026-07-10 04:00
+
+#### [HSBC seeks buyers for risky Hong Kong property loans](https://www.ft.com/content/1faf3134-933f-4526-a790-b15dbc3210eb)
+**发布时间**: 2026-07-10 04:00
+
+#### [Tencent leads deal to unwind Meta’s $2bn Manus acquisition](https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480)
+**发布时间**: 2026-07-10 03:03
 
 ---
 

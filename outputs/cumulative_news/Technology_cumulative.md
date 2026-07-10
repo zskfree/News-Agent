@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-10 00:07
+**最后更新时间**: 2026-07-10 08:25
+
+---
+
+## 🆕 最新更新 (2026-07-10 08:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [牧原的信心战：旧文、高管增持与猪周期](https://www.tmtpost.com/8059919.html)
+**发布时间**: 2026-07-10 15:50
+
+#### [公司不给你报销 AI，是算过账的](https://www.tmtpost.com/8059959.html)
+**发布时间**: 2026-07-10 15:50
+
+#### [独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家](https://www.tmtpost.com/8059646.html)
+**发布时间**: 2026-07-10 15:42
+
+#### [AI购物为何哑火了？](https://www.tmtpost.com/8060036.html)
+**发布时间**: 2026-07-10 15:37
+
+#### [光模块的命门被卡住了](https://www.tmtpost.com/8059100.html)
+**发布时间**: 2026-07-10 15:23
+
+#### [The Architect of Panic Joins the Age of AI](https://www.tmtpost.com/8060033.html)
+**发布时间**: 2026-07-10 15:21
+
+#### [解禁时刻开启，但MiniMax还没到“验牌”时刻](https://www.tmtpost.com/8059101.html)
+**发布时间**: 2026-07-10 12:30
+
+#### [FBI重拳出击，揪出200万个“家庭内鬼”](https://www.tmtpost.com/8059046.html)
+**发布时间**: 2026-07-10 12:30
+
+#### [写在MiniMax解禁日，集齐了「大行、赛道、产品」三大拐点](https://www.tmtpost.com/8058960.html)
+**发布时间**: 2026-07-10 12:30
+
+#### [第一个由中国创新药挑大梁的大赛道，出现了](https://www.tmtpost.com/8058982.html)
+**发布时间**: 2026-07-10 12:30
+
+#### [Momenta“硬闯”IPO](https://www.tmtpost.com/8059695.html)
+**发布时间**: 2026-07-10 11:32
+
+#### [小米首款增程车要来了：理想和问界迎来最会打性价比的对手](https://www.tmtpost.com/8059611.html)
+**发布时间**: 2026-07-10 10:55
+
+#### [PC涨价下的变与不变：苹果继续高歌，“一人公司”逆势加仓](https://www.tmtpost.com/8059479.html)
+**发布时间**: 2026-07-10 10:24
+
+#### [基金市场概况与资产配置观点 （06.29—07.05）](https://www.tmtpost.com/8059628.html)
+**发布时间**: 2026-07-10 10:15
+
+#### [千亿宽基ETF谢幕，基民要换玩法了](https://www.tmtpost.com/8058944.html)
+**发布时间**: 2026-07-10 10:06
+
+#### [上市公司TOP5济安评估（6月29日至7月5日）｜上市公司观察](https://www.tmtpost.com/8059564.html)
+**发布时间**: 2026-07-10 09:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？](https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 15:30
+
+#### [从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0](https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 15:14
+
+#### [GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx](https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 14:10
+
+#### [从PostgreSQL切换到ClickHouse，提升系统性能与伸缩性](https://www.infoq.cn/article/b1jJxXGv5rNXyMXqMGJr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 13:29
+
+#### [史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底](https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 13:21
+
+#### [GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打](https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 13:14
+
+#### [HubSpot 如何将语义搜索扩展至 200 亿个向量](https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 12:00
+
+#### [InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展](https://www.infoq.cn/video/6GH7lb3Ptfw7Pjgrl9Cs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 11:36
+
+#### [当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势](https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 11:32
+
+#### [vLLM 针对多模态模型的推理优化实践｜AICon深圳](https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 10:00
+
+#### [亚马逊云科技推出 Amazon S3 Annotations](https://www.infoq.cn/article/RMeXD3ZlVLRPk3r0tyTx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 09:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [安达卢西亚的日与夜：格拉纳达漫游指南](https://sspai.com/post/112097)
+**发布时间**: 2026-07-10 15:00
+
+#### [Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
+**发布时间**: 2026-07-10 10:50
+
+#### [派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
+**发布时间**: 2026-07-10 08:56
 
 ---
 
