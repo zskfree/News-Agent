@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c07e36a15f6b42d21e8c77ae2477c0d57ea92031d44927ae9aa97a0a2859f2d6": {
-        "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
-        "link": "https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 09:33:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012428"
-      },
-      "0ee0db56fb4008dae754402d9c580cc7d8662843112f0ab6c182208dabd65df8": {
-        "title": "截胡高通、痛击英特尔？英伟达AI PC野心不小",
-        "link": "https://www.tmtpost.com/8020621.html",
-        "published_date": "Tue, 09 Jun 2026 15:41:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012434"
-      },
-      "e7fb7a41f564875198591cdb88061cab3a5d844c13df6935685ad4361da135d4": {
-        "title": "大模型重燃大厂“医疗梦”",
-        "link": "https://www.tmtpost.com/8020730.html",
-        "published_date": "Tue, 09 Jun 2026 15:59:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012437"
-      },
-      "f6c6d01b78ca2566f1ec83453cd95bf71ee3fb82bbba99127e49bc50ccb7ab13": {
-        "title": "原粒半导体：Agent执行时代，像拼乐高一样造芯片",
-        "link": "https://www.tmtpost.com/8019899.html",
-        "published_date": "Tue, 09 Jun 2026 15:58:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012439"
-      },
-      "a79456bdacdbdb56594f66b110cb57fbc8362fbdd10af416e1c95fcd50cf8b0c": {
-        "title": "蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海",
-        "link": "https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012440"
-      },
-      "bda78c8baa17be8dfabece93ebbd08d849d3c93ebf2eabf227848066362bfd60": {
-        "title": "BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险",
-        "link": "https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 09:16:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012442"
-      },
-      "24866b66a76aee2c7994db31691f6d643e140c3cf92fd8463f74847fb42f0c1f": {
-        "title": "Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具",
-        "link": "https://www.infoq.cn/article/q0ydG50JsK7e0FGVsGHV?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 13:49:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012444"
-      },
-      "624192641226076a3f78d51c39c2e97693523c4679243a46310d211d2a2d77de": {
-        "title": "OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用",
-        "link": "https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 16:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012445"
-      },
-      "00149fe619e28ff8180fd58284e37c6bf2bed257cd7c3dfaa03063a5e7a2d156": {
-        "title": "Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑",
-        "link": "https://www.infoq.cn/article/OO3wCwaJK8Zy45W2h0I9?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 09 Jun 2026 13:33:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012447"
-      },
-      "5d9cbeff6462cb921c140795a86d64e69eebf5e870447aaa348ede997f4166aa": {
-        "title": "七天加满“AI朋友圈”，微信智能体还需迈过三道坎",
-        "link": "https://www.tmtpost.com/8020815.html",
-        "published_date": "Tue, 09 Jun 2026 16:13:00 GMT",
-        "first_seen": "2026-06-09T08:34:05.012448"
-      },
       "cf5a23852c8f4b8b1f1a898d91654cc98078b792b54cb2badadd029a9009800b": {
         "title": "张小龙10年前就预判了Agent，微信AI将改变一切？",
         "link": "https://www.tmtpost.com/8021166.html",
@@ -3691,69 +3631,69 @@
         "link": "https://www.tmtpost.com/8058173.html",
         "published_date": "Thu, 09 Jul 2026 12:52:00 GMT",
         "first_seen": "2026-07-09T08:31:09.506264"
+      },
+      "315efe975d5a60ae81cfcc9b88fdcc7d3647f34c95f53318eb236acef4ac0395": {
+        "title": "伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理",
+        "link": "https://www.tmtpost.com/8059401.html",
+        "published_date": "Fri, 10 Jul 2026 07:48:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542416"
+      },
+      "62a791494aa33c4a522a68e8cb5b53505f3d3ace041f3d45e2f3d6cd02490b77": {
+        "title": "3个月狂吸百亿，世界模型打响2026生死卡位战",
+        "link": "https://www.tmtpost.com/8057843.html",
+        "published_date": "Thu, 09 Jul 2026 18:12:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542428"
+      },
+      "4bf9b54a2e5f3416fe226ce54276eac2078f838d3c1f7da213cd57e03e91ebc3": {
+        "title": "Agent 进化论：从对话到协作",
+        "link": "https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 17:58:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542431"
+      },
+      "16f58d53985424fe222efbc653ded421b84e51a8d17699fab444cdc18ceabf75": {
+        "title": "中国AI产业的三大优势（上）",
+        "link": "https://www.tmtpost.com/8058613.html",
+        "published_date": "Thu, 09 Jul 2026 17:38:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542434"
+      },
+      "14ac2837b5028c68ba9a900a64446ddfd7712f2fdee83bb64a9942702e3689bc": {
+        "title": "CFO与CIO跨界对谈，企业数智跃迁不只是“经营重构”|「从数字化到AI」系列对话",
+        "link": "https://www.tmtpost.com/8057225.html",
+        "published_date": "Thu, 09 Jul 2026 15:56:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542436"
+      },
+      "e9b5c88aca36b2588b337570381e92370015035abf6f659d40a973a3a6842e35": {
+        "title": "重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 14:50:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542437"
+      },
+      "2101a2f3db8d3bc7016de070041f2dd91079a36fbecb437a256ce191256cb823": {
+        "title": "主权云争议持续，Cycle 推出欧盟专属控制平面",
+        "link": "https://www.infoq.cn/article/DTwKHTqif2cUAF8Fy5aA?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 10:43:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542440"
+      },
+      "ca239f21fa8c8d37a5a3f817dade695eb4b8ad2e9a4d21bd17591746c5340194": {
+        "title": "MCP 推出企业统一授权功能",
+        "link": "https://www.infoq.cn/article/NIPG4kmz1lDv8DIrsZ9O?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 09 Jul 2026 13:48:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542441"
+      },
+      "44bd43cc6510b00ce4d60ca7dbbc87e56f0d5c02398a7313c1c7c6b96a3f8424": {
+        "title": "Meta“投降”？一场被严重误读的算力恐慌",
+        "link": "https://www.tmtpost.com/8058430.html",
+        "published_date": "Thu, 09 Jul 2026 16:19:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542443"
+      },
+      "33d5bb75b1eb69061a5791669257b2c1fb4bfa10f2a7e7af70c6e2b4d81bed56": {
+        "title": "华为天才少年与DeepSeek冲突背后，梁文锋的人才观是什么？",
+        "link": "https://www.tmtpost.com/8058654.html",
+        "published_date": "Thu, 09 Jul 2026 17:30:00 GMT",
+        "first_seen": "2026-07-10T00:07:58.542444"
       }
     },
     "Finance": {
-      "93aafa34688ae8e67a2507c95ec5b22195c39559cee8bbf320d1bce381138ace": {
-        "title": "‘Picks and shovels’ companies profit from data centre scramble",
-        "link": "https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59",
-        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310259"
-      },
-      "44e548658bb325b7cd0bfd62dc7af22dd1effa43554cf430347263d2a24ec92e": {
-        "title": "ASML chief warns EU against directing chip supplies",
-        "link": "https://www.ft.com/content/ae7e66f1-1174-4812-b848-d6efd4f9379d",
-        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310266"
-      },
-      "e68a06ad86d98a312ece2a7da848bd78be1fd9134bbcefdb82b2572722ea1436": {
-        "title": "GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down",
-        "link": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories",
-        "published_date": "Tue, 09 Jun 2026 07:37:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310268"
-      },
-      "675965a5489084c632877573281e2ce1ce78170146b99b80b88afed5b92529d1": {
-        "title": "Apple unveils ‘Siri AI’ in challenge to rival chatbots",
-        "link": "https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff",
-        "published_date": "Tue, 09 Jun 2026 00:32:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310270"
-      },
-      "91913b08800a715f75e63373f59c3ff64be45e333a14c0e24fccce03cb611259": {
-        "title": "Asian tech stocks rebound after Wall Street embraces AI once more",
-        "link": "https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812",
-        "published_date": "Tue, 09 Jun 2026 07:51:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310272"
-      },
-      "34f9c559303593af2290a9a2c91d15be93cf26cf01e0981469dd04ac581be170": {
-        "title": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
-        "link": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
-        "published_date": "Tue, 09 Jun 2026 00:56:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310274"
-      },
-      "8c998b32ffef41067b4091c533782612fe231880e231721f98ee9509b030bd1f": {
-        "title": "SpaceX’s $1.78tn IPO asks investors to buy Musk’s moonshots",
-        "link": "https://www.ft.com/content/70fa49e3-1014-4412-890f-c7fe91497db9",
-        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310275"
-      },
-      "820e7ca1d78af39edac55654f28e2a10dbd6d40b62118d379f376f5d35ed6e16": {
-        "title": "We’ve died and gone to volatility heaven",
-        "link": "https://www.ft.com/content/8b339aea-3a57-48d0-96b5-9e7da87ca253",
-        "published_date": "Tue, 09 Jun 2026 05:30:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310277"
-      },
-      "c2c19650c6c0a58d98d13ba8182f9f1515eb86e8a7dbcfecc54ac39698e5f967": {
-        "title": "Why are we still arguing about the industrial revolution?",
-        "link": "https://www.ft.com/content/f8379b23-f029-4274-b508-5452d965ad28",
-        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310278"
-      },
-      "d0b252c6b0bad69a0750fca310f737f684d052cfdbefc0b9ed7bf699b13077db": {
-        "title": "Who calls the shots? Trump and Netanyahu clash over war goals",
-        "link": "https://www.ft.com/content/64213988-ec72-462d-b9b6-e56acebb85df",
-        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-09T08:34:07.310280"
-      },
       "c3d45105673f6281950d13ba01253b24ddd978b3424be8158fb3eda2002acf1c": {
         "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
         "link": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
@@ -7125,63 +7065,69 @@
         "link": "https://www.ft.com/content/7ea93e06-3b20-45ac-b8e6-f067866b6d4c",
         "published_date": "Thu, 09 Jul 2026 01:14:00 GMT",
         "first_seen": "2026-07-09T08:31:09.560454"
+      },
+      "1d8630235996942d680f09dc6e4feb1cbd8fa2f8181c3de2cb35e23214ef7930": {
+        "title": "Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed",
+        "link": "https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705",
+        "published_date": "Thu, 09 Jul 2026 22:40:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579300"
+      },
+      "732366bcf94df71bae319c304208aa36490b8b6cd8e1ee3fdb93b378e527ae5a": {
+        "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
+        "link": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Jul 2026 20:56:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579307"
+      },
+      "91130c3a9b0b0a95e6b8cc1641b9a064df1d9bc59a2c6d496e65ed401b288b65": {
+        "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+        "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Jul 2026 21:09:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579311"
+      },
+      "a3569e90f52c01a1d2d14c7226802a692ac8fe584042d3831671ffd78eec889e": {
+        "title": "SK Hynix raises $26.5bn in US market debut",
+        "link": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
+        "published_date": "Thu, 09 Jul 2026 22:55:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579313"
+      },
+      "2ffb76f074d6072e2d1f88f45478ce2791bf0277706949d1eda0c2a75a3f850a": {
+        "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
+        "link": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Jul 2026 20:58:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579314"
+      },
+      "c912024304e5b20ba503ada05c0cfed17babc87fa031e69b7b697546a5301919": {
+        "title": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge",
+        "link": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Jul 2026 22:19:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579316"
+      },
+      "f3a1222db3f30f702d3bf66dbb6e4138c7f57fcfb6d7028fe6b5e9d578643fc8": {
+        "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+        "link": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
+        "published_date": "Thu, 09 Jul 2026 21:52:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579318"
+      },
+      "4622a954f3dd426f8630796b97684fa39b6f311a067fd66f6a3146fead3b544b": {
+        "title": "Microsoft’s early AI lead has become a test of faith",
+        "link": "https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167",
+        "published_date": "Thu, 09 Jul 2026 16:56:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579319"
+      },
+      "cf62782ab07a2ff5b592b13fed40cb21fd6dc4d5a3aa33377c146b327b83313d": {
+        "title": "World faces growing diesel supply crunch as Russia cuts off exports",
+        "link": "https://www.ft.com/content/48959ee1-ccb9-48dc-8d85-1422a63ec234",
+        "published_date": "Thu, 09 Jul 2026 15:30:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579321"
+      },
+      "dd6583600dacf5814168a4c54ef0b92ebe7d576e98685affb6cd542c7a0bbc90": {
+        "title": "Goldman Sachs limits prediction market betting for employees",
+        "link": "https://www.ft.com/content/7a2a3200-763f-4141-8372-f2f6afba521d",
+        "published_date": "Thu, 09 Jul 2026 19:55:00 GMT",
+        "first_seen": "2026-07-10T00:07:59.579323"
       }
     },
     "Ai": {
-      "35444ed4fe52c7c4c02f53001144d56c5b08ee3b47935b63d9f55c21d289f377": {
-        "title": "Agent时代的CPU军备竞赛，至强6+如何把Agentic AI变成生产力？",
-        "link": "https://www.leiphone.com/category/chips/8QdT8eNj1uWJ7cQt.html",
-        "published_date": "Tue, 09 Jun 2026 14:08:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434639"
-      },
-      "8bcfddff5c0b4c7e267703746adb91b2e53680bb0d0efc8e84486889b02137b9": {
-        "title": "“超级明星创企”昆仑行机器人正式浮出水面",
-        "link": "https://www.leiphone.com/category/industrynews/VpFBnDCVbZ9lUbUo.html",
-        "published_date": "Tue, 09 Jun 2026 10:58:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434649"
-      },
-      "1865e34586ac876e88bf759a1ef54a2d63b86dd2cc1d61ab590f5481887d7bd1": {
-        "title": "2026-06-09日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-09/",
-        "published_date": "Tue, 09 Jun 2026 10:56:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434652"
-      },
-      "41bd17a24b7190a22d760e323ad310a2a4078937e06ab33fb6e282245c40a96d": {
-        "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-        "link": "https://www.qbitai.com/2026/06/433508.html",
-        "published_date": "Tue, 09 Jun 2026 07:11:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434653"
-      },
-      "2ab29bc5663132ebb23ab5604671ffe865e78b2e78d240a83105e1c3fb39b50b": {
-        "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-        "link": "https://www.qbitai.com/2026/06/433478.html",
-        "published_date": "Tue, 09 Jun 2026 04:17:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434655"
-      },
-      "d0e4d68e000185a6b9852f9288a45ffffb499f1359254e4c74670bfbb6a58386": {
-        "title": "你天天刷的小红书，正在长出一个GitHub",
-        "link": "https://www.qbitai.com/2026/06/433066.html",
-        "published_date": "Tue, 09 Jun 2026 04:07:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434656"
-      },
-      "b57915e1073063a83b87a2f5fc4cc89c530717684ada0fd7fcdd79b4fee34fcb": {
-        "title": "国产通用大模型第一梯队，来新人了？！",
-        "link": "https://www.qbitai.com/2026/06/432747.html",
-        "published_date": "Tue, 09 Jun 2026 02:55:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434658"
-      },
-      "5757bf2250bb1ec59c93174f6c068a2db8ed4209d677116afac1734deb3f175f": {
-        "title": "DeepSeek开招土木老哥：自建GW级数据中心",
-        "link": "https://www.qbitai.com/2026/06/432735.html",
-        "published_date": "Tue, 09 Jun 2026 02:39:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434659"
-      },
-      "eb94e6bcc8c17cb4b0a7de2a2708e37e294f21839a107c9b2c68269d9af040a3": {
-        "title": "腾讯想让企业打开AI的方式只剩一个",
-        "link": "https://www.qbitai.com/2026/06/432631.html",
-        "published_date": "Tue, 09 Jun 2026 01:24:00 GMT",
-        "first_seen": "2026-06-09T08:34:00.434660"
-      },
       "d340bfb3525d51f773d0f0d18d055cb8bcc5f5fe89762fbc8e0c841dab06cfc0": {
         "title": "从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026",
         "link": "https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html",
@@ -9851,13 +9797,73 @@
         "link": "https://www.qbitai.com/2026/07/436498.html",
         "published_date": "Thu, 09 Jul 2026 05:33:00 GMT",
         "first_seen": "2026-07-09T08:31:10.774417"
+      },
+      "f371e5c5c254164591d3d0c425a696ddf80426f63c98d48afa9573ce66d9955f": {
+        "title": "官宣！蚂蚁灵波世界模型2.0来了，小时级生成+Agent驱动定义AI交互新范式",
+        "link": "https://www.leiphone.com/category/industrynews/P1RW5pSlLbX6EKfq.html",
+        "published_date": "Thu, 09 Jul 2026 11:42:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789969"
+      },
+      "8265a0cc0be6bf146e9a98a1205780d46f1dbc7ace07e6624cc7fc476c865656": {
+        "title": "蚂蚁灵波开源 LingBot-Video，全球首个面向具身的视频基模来了！",
+        "link": "https://www.leiphone.com/category/industrynews/I7tF0IFX1Q8hH4Im.html",
+        "published_date": "Thu, 09 Jul 2026 11:14:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789976"
+      },
+      "253805ba594cff659c830dd7d3f591ebb55264942a1db42938790f32789ae4d0": {
+        "title": "支付宝发布AIS开发套件：让Agent自动发现、调用、计费",
+        "link": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
+        "published_date": "Thu, 09 Jul 2026 14:30:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789978"
+      },
+      "b3a0f235e4a2514c8fa85fdf43ecbccab1fc3c62682ab0da567025386acc9d21": {
+        "title": "中国机器人大脑引爆海外，蚂蚁灵波全栈2.0模型定义具身智能“新大脑”",
+        "link": "https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html",
+        "published_date": "Thu, 09 Jul 2026 14:12:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789980"
+      },
+      "244394735231228d86b4df8aa7f0629396333dbe99a35eaacafb63e83f1c98c4": {
+        "title": "Agent 进化论：从对话到协作",
+        "link": "https://www.leiphone.com/category/industrynews/RDpPRL52VCMB19vs.html",
+        "published_date": "Thu, 09 Jul 2026 18:40:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789982"
+      },
+      "a1b44ca5c56bdd347cf6ed9bec9a0d15e88b3f5ae2f33b0c61b526fce89eea0e": {
+        "title": "MCP tool design: Practical approaches and tradeoffs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+        "published_date": "Thu, 09 Jul 2026 16:40:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789983"
+      },
+      "62c5b90af49a504d64b02ac07034e3b82cf47578988fe6c00c4011b709842a19": {
+        "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+        "link": "https://www.qbitai.com/2026/07/447508.html",
+        "published_date": "Thu, 09 Jul 2026 12:18:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789986"
+      },
+      "50dba062394ed8b96a7999c9d9729567229e9fd4c129775f682eff40c82b8acb": {
+        "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+        "link": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+        "published_date": "Thu, 09 Jul 2026 09:56:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789987"
+      },
+      "0db84b9d424f2f77f62df868ab8102dcec749dba095b36ac42cf0c6c832addac": {
+        "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+        "published_date": "Thu, 09 Jul 2026 16:38:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789989"
+      },
+      "f0c7c4222a98bd1572f7c1e45e600f1bfe4fdf8e2908bad0900c4b11872b9e9b": {
+        "title": "ICML 精选 Spotlight Poster 汇总：Session 7-2",
+        "link": "https://www.leiphone.com/category/private/CkhbgnZgFR3PMdyw.html",
+        "published_date": "Thu, 09 Jul 2026 18:34:00 GMT",
+        "first_seen": "2026-07-10T00:08:00.789991"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-09T08:31:09.506266",
-    "Finance": "2026-07-09T08:31:09.560456",
-    "Ai": "2026-07-09T08:31:10.774419"
+    "Technology": "2026-07-10T00:07:58.542447",
+    "Finance": "2026-07-10T00:07:59.579325",
+    "Ai": "2026-07-10T00:08:00.789994"
   }
 }

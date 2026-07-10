@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-09 08:31
+**最后更新时间**: 2026-07-10 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-10 00:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US strikes Iranian railway bridges on route to city of Khamenei’s burial](https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68)
+**发布时间**: 2026-07-09 23:21
+
+#### [SK Hynix raises $26.5bn in US market debut](https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500)
+**发布时间**: 2026-07-09 22:55
+
+#### [Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed](https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705)
+**发布时间**: 2026-07-09 22:40
+
+#### [Goldman Sachs limits prediction market betting for employees](https://www.ft.com/content/7a2a3200-763f-4141-8372-f2f6afba521d)
+**发布时间**: 2026-07-09 19:55
+
+#### [There is no grand plan on Iran](https://www.ft.com/content/e5df56dc-70d3-49b0-82f4-3ae3af644a8e)
+**发布时间**: 2026-07-09 17:12
+
+#### [Microsoft’s early AI lead has become a test of faith](https://www.ft.com/content/753bd818-524a-46f3-9026-e2fae74c2167)
+**发布时间**: 2026-07-09 16:56
+
+#### [World faces growing diesel supply crunch as Russia cuts off exports](https://www.ft.com/content/48959ee1-ccb9-48dc-8d85-1422a63ec234)
+**发布时间**: 2026-07-09 15:30
+
+#### [Wall Street’s boutiques bet on star bankers. Now they’re stuck with the bill](https://www.ft.com/content/bd15d747-6d9d-4d40-8215-1e74f5fe566b)
+**发布时间**: 2026-07-09 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Taco Bell is reportedly pulling produce from some stores. Here’s what to know.](https://www.marketwatch.com/story/taco-bell-is-reportedly-pulling-produce-from-some-stores-heres-what-to-know-a3569cd8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 22:30
+
+#### [Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge](https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 22:19
+
+#### [SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.](https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 22:07
+
+#### [‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?](https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 22:00
+
+#### [Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.](https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 21:52
+
+#### [A junior employee saved this company six figures using AI. Here’s how.](https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 21:29
+
+#### [The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.](https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 21:09
+
+#### [Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears](https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 20:58
+
+#### [A slower AI payoff risks tipping the economy into recession, Apollo says](https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-09 20:56
 
 ---
 
