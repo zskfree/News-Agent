@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-11 09:41
+**最后更新时间**: 2026-07-11 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-11 23:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Donald Trump clears path for $4.5bn bridge between Canada and US](https://www.ft.com/content/7c9c3e82-63c5-442f-aef5-09f6b7bb501f)
+**发布时间**: 2026-07-11 20:28
+
+#### [How AI rebrands fail to deliver a lasting share price boost](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b)
+**发布时间**: 2026-07-11 15:41
+
+#### [Democrats’ strategic misfires laid bare by Platner’s implosion in Maine](https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b)
+**发布时间**: 2026-07-11 12:00
+
+#### [Trump ups the pressure on US companies in drive to lower prices](https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2)
+**发布时间**: 2026-07-11 11:00
+
+#### [What history tells us about Trump’s self-enrichment](https://www.ft.com/content/f91f383b-1879-4b48-a9e9-735487e32895)
+**发布时间**: 2026-07-11 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?](https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-11 18:46
+
+#### [Is it better to spend my savings now so I can delay taking Social Security? How do I choose?](https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-11 16:44
+
+#### [Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?](https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-11 16:00
 
 ---
 

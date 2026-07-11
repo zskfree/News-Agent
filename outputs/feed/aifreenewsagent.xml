@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Jul 2026 07:11:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2026 07:18:55 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:58:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-07-11日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-11/</link>
-      <description>&lt;![CDATA[2026-07-11日刊]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-11/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>小红书捐赠1000万元，支援广西、湖北等地救灾</title>
-      <link>https://www.leiphone.com/category/industrynews/2lCceY9aOkbpcYuL.html</link>
-      <description>&lt;![CDATA[小红书捐赠1000万元，支援广西、湖北等地救灾]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2lCceY9aOkbpcYuL.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent</title>
-      <link>https://www.qbitai.com/2026/07/447873.html</link>
-      <description>&lt;![CDATA[GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447873.html</guid>
+      <title>中国首个十万卡集群落成！全国产算力支撑“十万卡时代”</title>
+      <link>https://www.qbitai.com/2026/07/447902.html</link>
+      <description>&lt;![CDATA[中国首个十万卡集群落成！全国产算力支撑“十万卡时代”]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447902.html</guid>
       <category>Ai</category>
     </item>
   </channel>
