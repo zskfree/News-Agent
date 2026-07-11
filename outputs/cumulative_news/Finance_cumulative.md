@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-11 07:18
+**最后更新时间**: 2026-07-11 09:41
+
+---
+
+## 🆕 最新更新 (2026-07-11 09:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World Economic Forum trustees clash over leadership reforms](https://www.ft.com/content/5159f92a-08d7-4300-9795-01e2992a721b)
+**发布时间**: 2026-07-10 16:02
 
 ---
 
