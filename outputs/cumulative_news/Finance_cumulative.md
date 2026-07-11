@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-10 08:25
+**最后更新时间**: 2026-07-11 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-11 00:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US has agreed to continue talks with Iran](https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9)
+**发布时间**: 2026-07-10 23:43
+
+#### [Apple sues OpenAI alleging theft of top-secret information](https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2)
+**发布时间**: 2026-07-10 22:50
+
+#### [US sends team to Beirut to shore up Israel-Hizbollah ceasefire](https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff)
+**发布时间**: 2026-07-10 20:36
+
+#### [US senators strike deal with White House to tighten Russia sanctions](https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23)
+**发布时间**: 2026-07-10 18:30
+
+#### [Ryanair plane makes emergency landing after window breaks](https://www.ft.com/content/8546fc0d-e556-438d-9ab1-16b467dda215)
+**发布时间**: 2026-07-10 16:47
+
+#### [Asha Sharma, the outsider handed the Xbox controls](https://www.ft.com/content/5b20b409-3f5c-4856-9769-aa3a8d78c786)
+**发布时间**: 2026-07-10 16:29
+
+#### [Investors sell longer-dated AI debt amid Big Tech borrowing spree](https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce)
+**发布时间**: 2026-07-10 16:29
+
+#### [Classicist Emily Wilson: ‘Odysseus is a different kind of conman’](https://www.ft.com/content/3edbfdf4-cb20-4393-9d5d-ffc1dd241ca4)
+**发布时间**: 2026-07-10 11:30
+
+#### [How an ex-Democrat became the face of Trump’s retribution agenda](https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b)
+**发布时间**: 2026-07-10 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 23:06
+
+#### [Meta’s stock roars back to life as it notches its best week in years](https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 22:24
+
+#### [SK Hynix’s stock sees double-digit pop in Nasdaq debut](https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 22:18
+
+#### [‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?](https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 21:12
+
+#### [My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?](https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 21:11
+
+#### [Summer travel season is here: Make this vital purchase before your next vacation](https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 19:40
+
+#### [Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?](https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 19:30
+
+#### [A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says](https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 19:04
+
+#### [Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions](https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories)
+**发布时间**: 2026-07-10 19:02
 
 ---
 

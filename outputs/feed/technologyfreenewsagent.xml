@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Jul 2026 08:25:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2026 08:25:31 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 00:01:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:01:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打</title>
-      <link>https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</guid>
+      <title>国产先进封装，能追上“韬速度”吗？</title>
+      <link>https://www.tmtpost.com/8060111.html</link>
+      <description>&lt;![CDATA[国产先进封装，能追上“韬速度”吗？]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060111.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底</title>
-      <link>https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>长鑫、SK海力士、三星与美光四大存储巨头的硬核对比</title>
+      <link>https://www.tmtpost.com/8059636.html</link>
+      <description>&lt;![CDATA[长鑫、SK海力士、三星与美光四大存储巨头的硬核对比]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059636.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家</title>
-      <link>https://www.tmtpost.com/8059646.html</link>
-      <description>&lt;![CDATA[独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059646.html</guid>
+      <title>被238MTr/mm²掩盖的真相：AI算力链的颠覆不在晶体管，在“去DSP”</title>
+      <link>https://www.tmtpost.com/8056791.html</link>
+      <description>&lt;![CDATA[被238MTr/mm²掩盖的真相：AI算力链的颠覆不在晶体管，在“去DSP”]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056791.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0</title>
-      <link>https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>光模块的命门被卡住了</title>
+      <link>https://www.tmtpost.com/8059100.html</link>
+      <description>&lt;![CDATA[光模块的命门被卡住了]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059100.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>vLLM 针对多模态模型的推理优化实践｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[vLLM 针对多模态模型的推理优化实践｜AICon深圳]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>长十乙成功回收，中国商业航天进入&quot;可重复时代&quot;</title>
+      <link>https://www.tmtpost.com/8059836.html</link>
+      <description>&lt;![CDATA[长十乙成功回收，中国商业航天进入&quot;可重复时代&quot;]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059836.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>HubSpot 如何将语义搜索扩展至 200 亿个向量</title>
-      <link>https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[HubSpot 如何将语义搜索扩展至 200 亿个向量]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eRl25z5ewrRHjReWhOUX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地</title>
+      <link>https://www.tmtpost.com/8059130.html</link>
+      <description>&lt;![CDATA[最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059130.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从PostgreSQL切换到ClickHouse，提升系统性能与伸缩性</title>
-      <link>https://www.infoq.cn/article/b1jJxXGv5rNXyMXqMGJr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从PostgreSQL切换到ClickHouse，提升系统性能与伸缩性]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/b1jJxXGv5rNXyMXqMGJr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」</title>
+      <link>https://www.tmtpost.com/8060042.html</link>
+      <description>&lt;![CDATA[被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060042.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？</title>
-      <link>https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 15:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了</title>
+      <link>https://www.tmtpost.com/8059720.html</link>
+      <description>&lt;![CDATA[腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059720.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势]]&gt;</description>
+      <title>小米首款增程车要来了：理想和问界迎来最会打性价比的对手</title>
+      <link>https://www.tmtpost.com/8059611.html</link>
+      <description>&lt;![CDATA[小米首款增程车要来了：理想和问界迎来最会打性价比的对手]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059611.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Momenta“硬闯”IPO</title>
+      <link>https://www.tmtpost.com/8059695.html</link>
+      <description>&lt;![CDATA[Momenta“硬闯”IPO]]&gt;</description>
       <pubDate>Fri, 10 Jul 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Vibe Coding 时代，为什么降本不一定增效？</title>
-      <link>https://sspai.com/post/111975</link>
-      <description>&lt;![CDATA[Vibe Coding 时代，为什么降本不一定增效？]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111975</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059695.html</guid>
       <category>Technology</category>
     </item>
   </channel>
