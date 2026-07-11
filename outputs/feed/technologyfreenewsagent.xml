@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2026 00:01:19 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 07:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:18:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产先进封装，能追上“韬速度”吗？</title>
-      <link>https://www.tmtpost.com/8060111.html</link>
-      <description>&lt;![CDATA[国产先进封装，能追上“韬速度”吗？]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8060111.html</guid>
+      <title>从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长鑫、SK海力士、三星与美光四大存储巨头的硬核对比</title>
-      <link>https://www.tmtpost.com/8059636.html</link>
-      <description>&lt;![CDATA[长鑫、SK海力士、三星与美光四大存储巨头的硬核对比]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059636.html</guid>
+      <title>Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构</title>
+      <link>https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被238MTr/mm²掩盖的真相：AI算力链的颠覆不在晶体管，在“去DSP”</title>
-      <link>https://www.tmtpost.com/8056791.html</link>
-      <description>&lt;![CDATA[被238MTr/mm²掩盖的真相：AI算力链的颠覆不在晶体管，在“去DSP”]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056791.html</guid>
+      <title>极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段</title>
+      <link>https://www.tmtpost.com/8060976.html</link>
+      <description>&lt;![CDATA[极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060976.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>光模块的命门被卡住了</title>
-      <link>https://www.tmtpost.com/8059100.html</link>
-      <description>&lt;![CDATA[光模块的命门被卡住了]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059100.html</guid>
+      <title>青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁</title>
+      <link>https://www.tmtpost.com/8060979.html</link>
+      <description>&lt;![CDATA[青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 12:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060979.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长十乙成功回收，中国商业航天进入&quot;可重复时代&quot;</title>
-      <link>https://www.tmtpost.com/8059836.html</link>
-      <description>&lt;![CDATA[长十乙成功回收，中国商业航天进入&quot;可重复时代&quot;]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059836.html</guid>
+      <title>海力士，逃离韩国</title>
+      <link>https://www.tmtpost.com/8060878.html</link>
+      <description>&lt;![CDATA[海力士，逃离韩国]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060878.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地</title>
-      <link>https://www.tmtpost.com/8059130.html</link>
-      <description>&lt;![CDATA[最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059130.html</guid>
+      <title>想避开AI交易热潮？买苹果股票</title>
+      <link>https://www.tmtpost.com/8061042.html</link>
+      <description>&lt;![CDATA[想避开AI交易热潮？买苹果股票]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061042.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」</title>
-      <link>https://www.tmtpost.com/8060042.html</link>
-      <description>&lt;![CDATA[被狂热追捧的AI 「医疗神迹」，正在复刻硅谷「坏血骗局」]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8060042.html</guid>
+      <title>中国的自有品牌，更像供应链故事，而非渠道故事</title>
+      <link>https://www.tmtpost.com/8060582.html</link>
+      <description>&lt;![CDATA[中国的自有品牌，更像供应链故事，而非渠道故事]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060582.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了</title>
-      <link>https://www.tmtpost.com/8059720.html</link>
-      <description>&lt;![CDATA[腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059720.html</guid>
+      <title>跨界储能，为何有的吃苦有的吃糖</title>
+      <link>https://www.tmtpost.com/8060488.html</link>
+      <description>&lt;![CDATA[跨界储能，为何有的吃苦有的吃糖]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 12:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060488.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米首款增程车要来了：理想和问界迎来最会打性价比的对手</title>
-      <link>https://www.tmtpost.com/8059611.html</link>
-      <description>&lt;![CDATA[小米首款增程车要来了：理想和问界迎来最会打性价比的对手]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059611.html</guid>
+      <title>两个人、两个月，卖出1500万份，独立游戏盯上了“朋友生意”</title>
+      <link>https://www.tmtpost.com/8060974.html</link>
+      <description>&lt;![CDATA[两个人、两个月，卖出1500万份，独立游戏盯上了“朋友生意”]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060974.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Momenta“硬闯”IPO</title>
-      <link>https://www.tmtpost.com/8059695.html</link>
-      <description>&lt;![CDATA[Momenta“硬闯”IPO]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059695.html</guid>
+      <title>赴美双重上市，途虎真正的考题不在华尔街</title>
+      <link>https://www.tmtpost.com/8060567.html</link>
+      <description>&lt;![CDATA[赴美双重上市，途虎真正的考题不在华尔街]]&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8060567.html</guid>
       <category>Technology</category>
     </item>
   </channel>

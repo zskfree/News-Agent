@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-11 00:01
+**最后更新时间**: 2026-07-11 07:18
+
+---
+
+## 🆕 最新更新 (2026-07-11 07:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tropical nights come to Europe](https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956)
+**发布时间**: 2026-07-11 04:00
+
+#### [Prepare for a perilous summer in markets](https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3)
+**发布时间**: 2026-07-11 04:00
+
+#### [What’s really going on with mental health?](https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8)
+**发布时间**: 2026-07-11 04:00
+
+#### [Europe’s slow electrification is a ‘major mistake’, warns IEA chief](https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6)
+**发布时间**: 2026-07-11 04:00
+
+#### [Inside the risky race through the Strait of Hormuz](https://www.ft.com/content/68d396cd-2800-4ff8-b563-1f5c95beb9ba)
+**发布时间**: 2026-07-11 04:00
+
+#### [US relaxes export controls on advanced chips and drones for UAE](https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba)
+**发布时间**: 2026-07-10 21:25
+
+#### [Bezos-backed fusion start-up to become first to go public](https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c)
+**发布时间**: 2026-07-10 19:57
 
 ---
 
