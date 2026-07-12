@@ -16,6 +16,7 @@
 
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
     <style>
         :root {
@@ -725,6 +726,15 @@
             font-weight: 700;
         }
 
+        .colophon .busuanzi-stats {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.8rem;
+            font-size: 0.68rem;
+            color: var(--ink-soft);
+            letter-spacing: 0.1em;
+        }
+
         /* ==========  RESPONSIVE  ========== */
         @media (max-width: 1100px) {
             .layout-wrapper {
@@ -1088,6 +1098,14 @@
             <footer class="colophon">
                 <div class="col-mark">News Agent &mdash; <em>Decentralized Data</em></div>
                 <div>© MMXXIV · ALL RIGHTS RESERVED</div>
+                <div class="busuanzi-stats">
+                    <span id="busuanzi_container_site_pv" style="display:none">
+                        PV: <span id="busuanzi_value_site_pv"></span>
+                    </span>
+                    <span id="busuanzi_container_site_uv" style="display:none">
+                        UV: <span id="busuanzi_value_site_uv"></span>
+                    </span>
+                </div>
                 <div><span class="col-cite">ENCRYPTION</span> · AES-256-GCM</div>
                 <div>ESTHETICS · EDITORIAL / TYPOGRAPHIC</div>
             </footer>
