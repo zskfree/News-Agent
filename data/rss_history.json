@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "27fe404bc358ae346a43f0a481b2c3ebbb5f45ff1d415e5015bfbefeaa01080b": {
-        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
-        "link": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 16:30:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886937"
-      },
-      "93e75202e5267e1a34afa72da1342cf93f4e01bd60ee0c3d148df47f8032a79f": {
-        "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
-        "link": "https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 15:07:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886948"
-      },
-      "c2125d5fae6821d97242ed30677c924ee8042bc5e1a4afd9c065d4fa80cfc4c8": {
-        "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
-        "link": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 16:03:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886951"
-      },
-      "68a6ddf22352e29288f8a53703ceff1a6d7e67483b4b90b87fe087795bcff95d": {
-        "title": "打破向量检索的局限：RAG 混合检索实践",
-        "link": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 10:49:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886953"
-      },
-      "b46250c5aa88d2e09a5d82367acddd6256ba5fb9c3217eddb733871570a5bdfa": {
-        "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
-        "link": "https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886955"
-      },
-      "709d8d9830faa50b4953531d1d3396c6545acc0e3355ab8f2c3c49731deae6a5": {
-        "title": "人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇",
-        "link": "https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 11:41:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886957"
-      },
-      "7964eb249254c652bdb6cfc335034aa3b903869bc70852a97f77def57c542575": {
-        "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
-        "link": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 10:21:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886959"
-      },
-      "5806035ddd07a47c9264adee195f64b7e17e73a8a89a82ab9d45faf404cd00ac": {
-        "title": "微信AI化，才是腾讯的真正赌局",
-        "link": "https://www.tmtpost.com/8025355.html",
-        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886960"
-      },
-      "5cde1ce4712e29783f3a56c051b0e18a124f06b3ad8b03f497381d7b3d1c9b42": {
-        "title": "不是黄仁勋要改变 PC，而是 PC 要革自己的命",
-        "link": "https://www.tmtpost.com/8025703.html",
-        "published_date": "Fri, 12 Jun 2026 16:31:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886962"
-      },
-      "b1dfd57231ffbb2bffeeeaeb4556cddf98325c598b78a7c86409730305c5030d": {
-        "title": "被抢单！ASIC市场，要变天了",
-        "link": "https://www.tmtpost.com/8024634.html",
-        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.886963"
-      },
       "1dfd84c50981f1bbc4acb8c1cddbc59a8a3ff7fed3c5354cd99740b682351670": {
         "title": "贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”",
         "link": "https://www.tmtpost.com/8025438.html",
@@ -3745,69 +3685,69 @@
         "link": "https://www.tmtpost.com/8061430.html",
         "published_date": "Sun, 12 Jul 2026 15:05:00 GMT",
         "first_seen": "2026-07-12T07:40:25.641149"
+      },
+      "c467fd78d7fb59cf7bb03cc8294dd65088d7655842ea7839ca69a8960605e7f6": {
+        "title": "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地",
+        "link": "https://www.tmtpost.com/8061627.html",
+        "published_date": "Sun, 12 Jul 2026 16:01:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883718"
+      },
+      "65d4d8f7b803e04c41803edf24e95e407fb6658e38171fdb47cfcc320a9d037b": {
+        "title": "巨浪已来，还是压力已至？智谱这封内部信，透露的不只是AGI野心",
+        "link": "https://www.tmtpost.com/8061646.html",
+        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883731"
+      },
+      "e806e37b554029024e1a192d15d0da9a18b4904d9238113dfadf3b7d51eb8923": {
+        "title": "功率半导体，沉默中爆发",
+        "link": "https://www.tmtpost.com/8061644.html",
+        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883733"
+      },
+      "e99f206799e533e6b10f5443eee9a90ceb68896128985688695de313646b5c23": {
+        "title": "中国商业航天走过十二年",
+        "link": "https://www.tmtpost.com/8061429.html",
+        "published_date": "Sun, 12 Jul 2026 15:59:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883735"
+      },
+      "1fa85cc70dfccc3da2c8d024d5e122a22e8a43b481b0da1f1f89d7854bff207a": {
+        "title": "二代豆包手机要上桌：中兴不动筷，华米OV们干看着？",
+        "link": "https://www.tmtpost.com/8061411.html",
+        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883737"
+      },
+      "b34fc2a86a69087da079a6cb34c9c829ad704e18f88ceb263289030a77a4bd34": {
+        "title": "科技板块集体“刹车”，谁在偷偷踩油门？",
+        "link": "https://www.tmtpost.com/8061635.html",
+        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883739"
+      },
+      "21f38cbf0aa856c5e7242eca927ac5f926631395debe65ca696e2c6795357c87": {
+        "title": "300 元起的心理咨询，为什么输给了 30 元的树洞",
+        "link": "https://www.tmtpost.com/8061554.html",
+        "published_date": "Sun, 12 Jul 2026 10:01:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883741"
+      },
+      "0560f3ff606142ab2736400c1b5589e5513b2ee62d1b71646546580d41851fab": {
+        "title": "A股偿债能力百强榜：谁的财务底盘更稳？",
+        "link": "https://www.tmtpost.com/8061587.html",
+        "published_date": "Sun, 12 Jul 2026 09:51:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883742"
+      },
+      "68648ff27a658c830d632a5229c140a4e569fbdab2e6e1ae579b57ede5a3070b": {
+        "title": "价值判断：跌停板的投资机会和风险提示（7月10日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8061578.html",
+        "published_date": "Sun, 12 Jul 2026 09:50:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883745"
+      },
+      "c4ecef6b8db3c6ac56db7fd0c532e8f7a4da501f7cf0d6608ab39566e4039733": {
+        "title": "被中来、爱康“套牢”的浙能集团……",
+        "link": "https://www.tmtpost.com/8061505.html",
+        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.883747"
       }
     },
     "Finance": {
-      "bf876136e4578852b92fbbc08c426559cacc2851c479d13838c65ce10d05b761": {
-        "title": "Did Justin Trudeau buy his $3.1 million Montreal mansion in hopes Katy Perry would move in?",
-        "link": "https://www.marketwatch.com/story/did-justin-trudeau-buy-his-3-1-million-montreal-mansion-in-hopes-katy-perry-would-move-in-504d8cc2?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Jun 2026 08:59:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939750"
-      },
-      "490f6023cf35204ec801253e13d96d06feff1630e613716fdcbffade6b812af9": {
-        "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
-        "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Jun 2026 01:56:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939757"
-      },
-      "2a2bb256dd022a5235de5302fee21f9d853959eb7979351a7ed5de0c6e5ca3ac": {
-        "title": "Oil sinks to three-month low after Trump hints at Iran war deal",
-        "link": "https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e",
-        "published_date": "Fri, 12 Jun 2026 08:49:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939759"
-      },
-      "4ba90f40517956d16f489aa730521e521e9363eab862b9e34dd9838ed4ddcbc0": {
-        "title": "Musk should go more boldly with fantastical SpaceX projections",
-        "link": "https://www.ft.com/content/a6002a52-5ab3-431a-8683-16a2f1d409c2",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939761"
-      },
-      "41a07c0a1ab831db1ed323c0ec3f101f6e039a23cda29d54962cecce3957f11a": {
-        "title": "The quantum computing revolution is closer than you think",
-        "link": "https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939762"
-      },
-      "e7fcd2f43c70079af533fa1e4678a1a7891c4ee2a3da4531e7078a5939ea94e9": {
-        "title": "Japan’s PM: Building resilience in a turbulent world",
-        "link": "https://www.ft.com/content/8344e590-a7f0-4908-abf7-561b626c3fd2",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939763"
-      },
-      "600b30aa65784e6e8c38db419e072fdaec41d5b44fcd580484ebc9ef06e5797b": {
-        "title": "The great bond and equity conundrum",
-        "link": "https://www.ft.com/content/4389caaa-b87a-4d4c-82a1-db161d3265d3",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939765"
-      },
-      "8db1be5b584fe9ec3890be5f7020cbbaff5e1523f5f8d6f4d19484ff44ca7fb5": {
-        "title": "European defence stock rally goes into reverse on funding concerns",
-        "link": "https://www.ft.com/content/1fa66019-c241-46f8-b9e4-7b3ac8575904",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939766"
-      },
-      "327f56cc08edf14ac222b11ac1fba18bb9e1ac4348a6d4b64f0086369ff13e67": {
-        "title": "Chinese investors rush to open Hong Kong accounts amid Beijing crackdown",
-        "link": "https://www.ft.com/content/eff414c9-6c8a-4200-b490-b13c642a7821",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939767"
-      },
-      "1c4c405be71d06dc9d30b4614abefb9fb70e0264b5c515f782451b28e170dac5": {
-        "title": "KPMG report contained AI hallucinations on benefits of . . . AI",
-        "link": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T09:00:28.939769"
-      },
       "66888210f2101387448f30c393e405ba36d305f1d88370b4854ba5ebcfed8bd6": {
         "title": "BlackRock private credit fund honours less than 40% of redemption requests",
         "link": "https://www.ft.com/content/65adec62-3505-4d01-8aa6-a609aa7cfdcc",
@@ -7125,69 +7065,15 @@
         "link": "https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e",
         "published_date": "Sun, 12 Jul 2026 02:21:00 GMT",
         "first_seen": "2026-07-12T07:40:25.681988"
+      },
+      "7cd88f788701dc87da71a3cee80a6880787f6b8b73ae074b5e9d6543128dd4f1": {
+        "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+        "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
+        "published_date": "Sun, 12 Jul 2026 09:38:00 GMT",
+        "first_seen": "2026-07-12T09:54:05.936724"
       }
     },
     "Ai": {
-      "cfbe7eeab7190c11fb5cb39f2f95aa9b60d00f87a38ed08acba839acd432a20e": {
-        "title": "Nature 子刊收录！清华李勇团队用 AI 解码全球气候耦合，ENSO 预测提前期延长至 19 个月",
-        "link": "https://www.leiphone.com/category/ai/Sgux2ZbLaFbXaZxD.html",
-        "published_date": "Fri, 12 Jun 2026 14:26:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983159"
-      },
-      "1d5718b9a2ce9d1eeb6a006bdf0aea5c3666a6baea1f27b3e55c44937f2f8f9d": {
-        "title": "生成预测四大权威榜单第一！开悟世界模型确立具身智能世界模型新标杆",
-        "link": "https://www.leiphone.com/category/ai/G88m8g2T61aivI2F.html",
-        "published_date": "Fri, 12 Jun 2026 13:27:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983166"
-      },
-      "4b8fb2d9ccfa5571b58631884bc54f75f78f6232eda904e1aa7d0247b5fa6c84": {
-        "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-        "link": "https://www.qbitai.com/2026/06/434761.html",
-        "published_date": "Fri, 12 Jun 2026 04:11:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983169"
-      },
-      "9b31d7d684c60f10bbe0f0d6518a4091894369627bd39ea8b56112faed966266": {
-        "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-        "link": "https://www.qbitai.com/2026/06/434774.html",
-        "published_date": "Fri, 12 Jun 2026 04:13:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983171"
-      },
-      "6f09b76ba5212e6158792178709fb0e95249578749bfabfcaf1364bef2b90cad": {
-        "title": "中科大&智象未来：强模型打底、轻模型精修，重塑视频超分体验丨CVPR 2026",
-        "link": "https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html",
-        "published_date": "Fri, 12 Jun 2026 14:28:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983173"
-      },
-      "8cfe0af22b89182450887736c395f4ced040c4b1c19a98dcf675da039788177b": {
-        "title": "CVPR 2026 模型适应性研究盘点：从保留旧知识，到适应真实世界",
-        "link": "https://www.leiphone.com/category/ai/9x05Sw5uY0RhgEdO.html",
-        "published_date": "Fri, 12 Jun 2026 14:25:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983174"
-      },
-      "cb495397f65aff700f17a16be94f057a4cbee13bd799de78b257aa79dcac3500": {
-        "title": "微软中国Azure研发团队遭「一锅端」：超200人受影响，最高补偿N+7；无招卸任钉钉CEO，92年技术极客陈宇森接任；李书福卸任极氪董事长",
-        "link": "https://www.leiphone.com/category/zaobao/K9MpJZRxh6jNKi8k.html",
-        "published_date": "Fri, 12 Jun 2026 08:25:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983176"
-      },
-      "7e8bf90cc7331635d12aae9acf9009b86aab4d0f8d7b725b91c95cbe2bb51a10": {
-        "title": "6月15日上会！燧原科技营收三年高增，盈利拐点渐近",
-        "link": "https://www.leiphone.com/category/chips/zhn0h84fE91cixNf.html",
-        "published_date": "Fri, 12 Jun 2026 12:01:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983177"
-      },
-      "7989b87c513ca13a3e3864bccddb60e32c7d6b2aea90ee65d6e502f90c9ab1ce": {
-        "title": "让AI回归工具：萤石开放平台2.0如何用「双平台」破解IoT落地难题？",
-        "link": "https://www.leiphone.com/category/smarthome/Ib0fWcObeTWu3DGM.html",
-        "published_date": "Fri, 12 Jun 2026 10:06:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983179"
-      },
-      "4eea64de5ce019630e532d3f04354ee9887b000495a4279b6fe9a1bb084ddba1": {
-        "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-        "link": "https://www.qbitai.com/2026/06/435105.html",
-        "published_date": "Fri, 12 Jun 2026 07:27:00 GMT",
-        "first_seen": "2026-06-12T09:00:37.983180"
-      },
       "df88b9c6a5df4c45c2bfaad1ea6a307dda1645ff05e1b1bc36b9c12f2cdec2f5": {
         "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
         "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
@@ -9737,13 +9623,19 @@
         "link": "https://www.qbitai.com/2026/07/447914.html",
         "published_date": "Sun, 12 Jul 2026 01:14:00 GMT",
         "first_seen": "2026-07-12T07:40:25.779042"
+      },
+      "269f4a2ef6431ec2be754c0141c5a83db4940245a49a4881bd8f9a31d13c95b8": {
+        "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+        "link": "https://www.qbitai.com/2026/07/448034.html",
+        "published_date": "Sun, 12 Jul 2026 08:29:00 GMT",
+        "first_seen": "2026-07-12T09:54:06.067285"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-12T07:40:25.641151",
-    "Finance": "2026-07-12T07:40:25.681990",
-    "Ai": "2026-07-12T07:40:25.779043"
+    "Technology": "2026-07-12T09:54:05.883749",
+    "Finance": "2026-07-12T09:54:05.936732",
+    "Ai": "2026-07-12T09:54:06.067294"
   }
 }

@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-12 07:40
+**最后更新时间**: 2026-07-12 09:54
+
+---
+
+## 🆕 最新更新 (2026-07-12 09:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches fresh strikes after Tehran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d)
+**发布时间**: 2026-07-12 09:38
+
+#### [US senator Lindsey Graham dies aged 71](https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb)
+**发布时间**: 2026-07-12 09:26
 
 ---
 
