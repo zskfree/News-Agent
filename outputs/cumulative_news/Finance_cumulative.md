@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-11 23:58
+**最后更新时间**: 2026-07-12 07:40
+
+---
+
+## 🆕 最新更新 (2026-07-12 07:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US Senator Lindsey Graham dies, aged 71](https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb)
+**发布时间**: 2026-07-12 07:30
+
+#### [US launches more strikes after Tehran declares Strait of Hormuz closed](https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d)
+**发布时间**: 2026-07-12 04:17
+
+#### [The EU has ways out of its budget trap](https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764)
+**发布时间**: 2026-07-12 04:00
+
+#### [It pays to kiss up and kick down](https://www.ft.com/content/719ce75b-dd30-4c98-ab48-a296188dfb8f)
+**发布时间**: 2026-07-12 04:00
+
+#### [China cracks down on top ratings for corporate bonds](https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8)
+**发布时间**: 2026-07-12 04:00
+
+#### [Big Tech to face fines for consumer protection failures, says EU official](https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35)
+**发布时间**: 2026-07-12 04:00
+
+#### [Stranded pollock prompt EU to delay fish import controls for US](https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0)
+**发布时间**: 2026-07-12 04:00
+
+#### [Airbnb lures fans from US hotels after World Cup marketing push](https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295)
+**发布时间**: 2026-07-12 04:00
+
+#### [Bellingham brace carries England past Norway into World Cup semi-final](https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e)
+**发布时间**: 2026-07-12 02:21
 
 ---
 
