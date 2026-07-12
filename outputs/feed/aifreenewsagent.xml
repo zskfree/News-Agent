@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 09:51:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 09:54:06 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 23:56:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:58:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>98年哈工大教授创业，要做人形灵巧操作世界模型</title>
-      <link>https://www.qbitai.com/2026/07/448034.html</link>
-      <description>&lt;![CDATA[98年哈工大教授创业，要做人形灵巧操作世界模型]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 08:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448034.html</guid>
+      <title>赛力斯发布2026年半年度业绩预告，利润短期承压主要系成本上涨所致</title>
+      <link>https://www.leiphone.com/category/industrynews/6s3EMXq62OqnnGfl.html</link>
+      <description>&lt;![CDATA[赛力斯发布2026年半年度业绩预告，利润短期承压主要系成本上涨所致]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6s3EMXq62OqnnGfl.html</guid>
       <category>Ai</category>
     </item>
   </channel>

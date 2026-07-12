@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-12 09:54
+**最后更新时间**: 2026-07-12 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-12 23:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran](https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 23:52
+
+#### [Why Citigroup is the one to watch when banks report earnings this week](https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 19:31
+
+#### [You don’t have to be rich to be financially independent. Here’s how to take control of your money.](https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 19:27
+
+#### [Earnings estimates have been following an unusual pattern this time around](https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 14:00
+
+#### [The No. 1 decision for aging retirees: Stay at home or move into a senior community?](https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 13:30
+
+#### [The stock-market rally now hinges more on AI than oil](https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-12 13:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches another round of strikes on Iran as ceasefire teeters](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d)
+**发布时间**: 2026-07-12 22:52
+
+#### [Oil prices jump as US and Iran step up tit-for-tat strikes](https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6)
+**发布时间**: 2026-07-12 22:41
+
+#### [Iran bets Trump will blink first](https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05)
+**发布时间**: 2026-07-12 17:57
+
+#### [Lindsey Graham, Republican senator, 1955-2026](https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575)
+**发布时间**: 2026-07-12 16:09
+
+#### [Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74](https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475)
+**发布时间**: 2026-07-12 15:37
+
+#### [Zelenskyy dismisses Ukraine’s PM in cabinet shake-up](https://www.ft.com/content/db48418a-f906-4afd-86a2-1ab08004bd13)
+**发布时间**: 2026-07-12 14:14
+
+#### [The great reinvention of Hunter Biden](https://www.ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2)
+**发布时间**: 2026-07-12 12:00
+
+#### [A three-way nuclear arms race](https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6)
+**发布时间**: 2026-07-12 12:00
+
+#### [Russia closes in on city that made the Kremlin glitter](https://www.ft.com/content/e3ca7207-fb02-44cd-9532-2c8a01667dbf)
+**发布时间**: 2026-07-12 04:00
 
 ---
 

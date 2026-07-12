@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 09:54:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 09:54:05 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:58:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US launches fresh strikes after Tehran declares Strait of Hormuz closed</title>
-      <link>https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d</link>
-      <description>&lt;![CDATA[US launches fresh strikes after Tehran declares Strait of Hormuz closed]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d</guid>
+      <title>The stock-market rally now hinges more on AI than oil</title>
+      <link>https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The stock-market rally now hinges more on AI than oil]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Earnings estimates have been following an unusual pattern this time around</title>
+      <link>https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Earnings estimates have been following an unusual pattern this time around]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Citigroup is the one to watch when banks report earnings this week</title>
+      <link>https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Citigroup is the one to watch when banks report earnings this week]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran</title>
+      <link>https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 23:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices jump as US and Iran step up tit-for-tat strikes</title>
+      <link>https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6</link>
+      <description>&lt;![CDATA[Oil prices jump as US and Iran step up tit-for-tat strikes]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A three-way nuclear arms race</title>
+      <link>https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6</link>
+      <description>&lt;![CDATA[A three-way nuclear arms race]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Zelenskyy dismisses Ukraine’s PM in cabinet shake-up</title>
+      <link>https://www.ft.com/content/db48418a-f906-4afd-86a2-1ab08004bd13</link>
+      <description>&lt;![CDATA[Zelenskyy dismisses Ukraine’s PM in cabinet shake-up]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/db48418a-f906-4afd-86a2-1ab08004bd13</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>You don’t have to be rich to be financially independent. Here’s how to take control of your money.</title>
+      <link>https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[You don’t have to be rich to be financially independent. Here’s how to take control of your money.]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 19:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The No. 1 decision for aging retirees: Stay at home or move into a senior community?</title>
+      <link>https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The No. 1 decision for aging retirees: Stay at home or move into a senior community?]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74</title>
+      <link>https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475</link>
+      <description>&lt;![CDATA[Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475</guid>
       <category>Finance</category>
     </item>
   </channel>
