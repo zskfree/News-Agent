@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 08:18
+**最后更新时间**: 2026-07-13 23:57
+
+---
+
+## 🆕 最新更新 (2026-07-13 23:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划](https://www.tmtpost.com/8063498.html)
+**发布时间**: 2026-07-14 07:20
+
+#### [前小米副总卖咖啡机器人，融资数亿](https://www.tmtpost.com/8062012.html)
+**发布时间**: 2026-07-13 18:54
+
+#### [泥沼中的长安马自达，会成为下一个斯柯达吗？](https://www.tmtpost.com/8062205.html)
+**发布时间**: 2026-07-13 18:44
+
+#### [一边亏损一边上新：昆仑万维的短剧](https://www.tmtpost.com/8058120.html)
+**发布时间**: 2026-07-13 18:44
+
+#### [中国AI产业的三大优势（中）](https://www.tmtpost.com/8059509.html)
+**发布时间**: 2026-07-13 18:44
+
+#### [程序员面试背了十年的八股文，被DeepSeek废了](https://www.tmtpost.com/8063047.html)
+**发布时间**: 2026-07-13 18:44
+
+#### [遍地开花，Token工厂集中登上资本舞台的幕后思考](https://www.tmtpost.com/8063008.html)
+**发布时间**: 2026-07-13 18:43
+
+#### [从原料到算力核按钮：稀土如何改写全球半导体利润格局？](https://www.tmtpost.com/8062719.html)
+**发布时间**: 2026-07-13 18:43
+
+#### [《功夫女足》爆了，但周星驰这次有点偷懒](https://www.tmtpost.com/8063053.html)
+**发布时间**: 2026-07-13 18:36
+
+#### [Beyond the $9.90 Race to the Bottom: How China’s New Cross-Border Innovators Are Rewriting the Rules](https://www.tmtpost.com/8063302.html)
+**发布时间**: 2026-07-13 18:36
+
+#### [机器人还没学会做家务，卖数据的已经先赚到了钱](https://www.tmtpost.com/8062934.html)
+**发布时间**: 2026-07-13 18:35
+
+#### [6个新趋势，看懂AI竞争正在发生什么](https://www.tmtpost.com/8063056.html)
+**发布时间**: 2026-07-13 18:28
+
+#### [艾力斯，红颜易逝](https://www.tmtpost.com/8063054.html)
+**发布时间**: 2026-07-13 18:28
+
+#### [长鑫上市，一批券商要跟着吃肉](https://www.tmtpost.com/8062185.html)
+**发布时间**: 2026-07-13 18:28
+
+#### [茶咖这个圈子，“致敬”IP的玩法不灵了？](https://www.tmtpost.com/8063087.html)
+**发布时间**: 2026-07-13 18:27
+
+#### [Hy3发布后，腾讯的生产力AI走向收敛](https://www.tmtpost.com/8063089.html)
+**发布时间**: 2026-07-13 18:24
+
+#### [光子接棒电子：一场即将在太空上演的算力革命](https://www.tmtpost.com/8062524.html)
+**发布时间**: 2026-07-13 18:24
+
+#### [研发不到1%，毛利率反超同行：一家年销21亿的沙拉酱公司，凭什么冲刺北交所？](https://www.tmtpost.com/8063086.html)
+**发布时间**: 2026-07-13 18:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程，从免费开源到卖“低价”模型](https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 18:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/112229)
+**发布时间**: 2026-07-13 17:55
+
+#### [具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件](https://sspai.com/prime/story/inside-release-notes-260713)
+**发布时间**: 2026-07-13 17:48
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535342&idx=1&sn=ed0bff20ca593bc05d8fa0f144998862)
+**发布时间**: 2026-07-13 15:08
 
 ---
 

@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c98fef4d0414e481c2382a8be4fb41374847469ce30fe7a45b149135601320fb": {
-        "title": "史上最大IPO正式开盘，一文看懂SpaceX的业务底牌",
-        "link": "https://www.tmtpost.com/8026749.html",
-        "published_date": "Sat, 13 Jun 2026 15:01:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063900"
-      },
-      "a1b3f395bc064cfee40357c8203b69b92bb66eb20c6871c141ba6d505f0f4ddb": {
-        "title": "志愿填报Agent：腾讯克制，阿里激进",
-        "link": "https://www.tmtpost.com/8026183.html",
-        "published_date": "Sat, 13 Jun 2026 10:30:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063910"
-      },
-      "6c24d4e2334f717f374783630792fc012c764796d3a685a98470f1ccc83c325d": {
-        "title": "AI驱动的网络钓鱼：技术演变与实施方式",
-        "link": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063913"
-      },
-      "9d24c3934d5aa4b8dafbbcb276b58fa87078fb730b6cfad64ccbcab2b39bc398": {
-        "title": "AI算力爆发，电子玻纤布正成为算力硬件的供给短板",
-        "link": "https://www.tmtpost.com/8026629.html",
-        "published_date": "Sat, 13 Jun 2026 14:36:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063915"
-      },
-      "92d3c4e5e76bac0e18b0d1f6b03f06983a6ce7850021c58a828f4567d8bb3984": {
-        "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
-        "link": "https://sspai.com/post/110973",
-        "published_date": "Sat, 13 Jun 2026 10:37:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063918"
-      },
-      "a87c96639e0887a95268ce1dc2adc78d004630e77fa1d4b4ba60f8000e98b5ba": {
-        "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
-        "link": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063919"
-      },
-      "cdfea76030be4cdf4a2f08e89f45c069d434006df5e9fffb89b77639f9f2de02": {
-        "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063921"
-      },
-      "7a3c2b4cd87eb71e7d67f049fbabc81559e526896154641653f2555f515e3f89": {
-        "title": "降价冲销量，乐聚智能IPO的一步险棋",
-        "link": "https://www.tmtpost.com/8026178.html",
-        "published_date": "Sat, 13 Jun 2026 10:15:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063922"
-      },
-      "469950f21b8978a529155443bbc3adb9bfb4b54493e473c37482bb86f4f3efdc": {
-        "title": "大疆、影石急眼了：诉讼对轰，产品全线“交火”",
-        "link": "https://www.tmtpost.com/8026290.html",
-        "published_date": "Sat, 13 Jun 2026 11:01:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063924"
-      },
-      "d7bc797da3dd97db45e99724658e128891966c6453a4a6d7e100a4aac4bf657b": {
-        "title": "储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢",
-        "link": "https://www.tmtpost.com/8026719.html",
-        "published_date": "Sat, 13 Jun 2026 14:36:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.063925"
-      },
       "10afbfb584f5b7e0081c9a71bbb0f639fcde635054d9ac15225ab28fe3d2f06e": {
         "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
         "link": "https://www.tmtpost.com/8026693.html",
@@ -3775,63 +3715,69 @@
         "link": "https://www.infoq.cn/article/icewb2lkvtBwWhIT2AgK?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 13 Jul 2026 13:00:00 GMT",
         "first_seen": "2026-07-13T08:19:02.125592"
+      },
+      "11f76ff753153b77e0a5ec7ead0c4fbd60dc215189b5f3db8570ee3ee9357e4d": {
+        "title": "程序员面试背了十年的八股文，被DeepSeek废了",
+        "link": "https://www.tmtpost.com/8063047.html",
+        "published_date": "Mon, 13 Jul 2026 18:44:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967384"
+      },
+      "a1cda4516268c9dc3d41df5b9f575a6a60862f2ccd87b3a67d76ea77d0eabbcf": {
+        "title": "小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程，从免费开源到卖“低价”模型",
+        "link": "https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Jul 2026 18:28:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967392"
+      },
+      "ce165afdcbd59c2ee90a1b9a73817f67591fdbdadde4a0a9ecb07b589c6acbbe": {
+        "title": "6个新趋势，看懂AI竞争正在发生什么",
+        "link": "https://www.tmtpost.com/8063056.html",
+        "published_date": "Mon, 13 Jul 2026 18:28:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967395"
+      },
+      "f84c4fd33370caf9df07ef74e286471300947a33217924c4b8c9d16d657fd874": {
+        "title": "从原料到算力核按钮：稀土如何改写全球半导体利润格局？",
+        "link": "https://www.tmtpost.com/8062719.html",
+        "published_date": "Mon, 13 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967397"
+      },
+      "8adc88dbff6bc06fc7ecdcc7533892e4b8737b97d3afe37d2555b0c568d508ca": {
+        "title": "光子接棒电子：一场即将在太空上演的算力革命",
+        "link": "https://www.tmtpost.com/8062524.html",
+        "published_date": "Mon, 13 Jul 2026 18:24:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967399"
+      },
+      "61b66b190c9284f0c42da14cceb7b4e3ca2f9707b607b4c74298bf34215d5b6d": {
+        "title": "1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535342&idx=1&sn=ed0bff20ca593bc05d8fa0f144998862",
+        "published_date": "Mon, 13 Jul 2026 15:08:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967400"
+      },
+      "d83014b5ffac224bd9a2da59fb220902b76e28fb5817208a5315c3f952cd31c8": {
+        "title": "从看见问题到解决问题，Agent 正重新定义可观测？",
+        "link": "https://www.infoq.cn/video/v00wiAfaypFe6jwaMOWP?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Jul 2026 12:00:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967402"
+      },
+      "9bdc5a53eaa44766e4f69d005b26700792a0393565109a6aa30704eac123c1fb": {
+        "title": "UniRL：统一多模态 RL 框架的 2.4X 端到端性能优化实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/jeAxpYI4tgewlBdvXZBJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Jul 2026 11:15:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967404"
+      },
+      "5ad6a060fa086839abce7a794dbaba82cdb20c1979c2a4b454821eb9fad4537e": {
+        "title": "Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流",
+        "link": "https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Jul 2026 11:00:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967405"
+      },
+      "65dd46f2057c036a2ae549a137f126a23fd487de3f76eb034e6192e05f1b8629": {
+        "title": "异教徒Anthropic，与全世界结仇",
+        "link": "https://www.tmtpost.com/8062734.html",
+        "published_date": "Mon, 13 Jul 2026 16:16:00 GMT",
+        "first_seen": "2026-07-13T23:57:38.967407"
       }
     },
     "Finance": {
-      "6c183c65d02bce615e48db1a8664af0dc01f6b440c4371efc873c59a403b577b": {
-        "title": "How AI is disrupting investment",
-        "link": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114539"
-      },
-      "db705a069bda4290c8816abc57c3d0ceccc831fa5add4a3508b0805570f84a63": {
-        "title": "AI is revolutionising the stock market",
-        "link": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114546"
-      },
-      "b7a9e64541abad4564d1bbf886c661cc9b2253aab7f60f73837deafd0e53ac64": {
-        "title": "How to tame the inflation python",
-        "link": "https://www.ft.com/content/01c5ea35-a0fa-469f-b8bb-356d98c05fb0",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114548"
-      },
-      "54d4fea491448d71ec16cb8c3ce83ac7cd983cde4fe4f495ddef388c23cb2cc9": {
-        "title": "Forget the football — Grand Theft Auto can unite the world",
-        "link": "https://www.ft.com/content/f89e388f-a5a4-408a-964e-0ca3d768b8be",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114550"
-      },
-      "018c58dcff48bfc813c6f5a36c100b7c7cd00da7509b7f72544e4d633f24678b": {
-        "title": "Goldman and JPMorgan ease office working rules to counter World Cup disruption",
-        "link": "https://www.ft.com/content/d2afe6bb-9c02-4893-a246-b63d6ae724f6",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114551"
-      },
-      "82ea3866f0edd783edf29c8ee255ddb0212e2f43075cc27b1c9e97de746577c8": {
-        "title": "How to speak Fifa",
-        "link": "https://www.ft.com/content/fd3b5ec6-a1df-451e-b84c-ef2b7f565eae",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114553"
-      },
-      "ace02f81919846d933177959ee6f175cfedf0af84e808d9b4022ff84eafb484e": {
-        "title": "France opposes ‘anglicisation’ of EU trade talks",
-        "link": "https://www.ft.com/content/fa0545f4-3663-460b-b4ab-773bb3ce7294",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114554"
-      },
-      "5ec092354abd51ed8832af27c1867c978b74b607b9d5e909035a7282db7b4366": {
-        "title": "US kills leader of Venezuelan Tren de Aragua gang in air strike",
-        "link": "https://www.ft.com/content/298a1431-dc3e-4cbc-aa6f-769e54541b60",
-        "published_date": "Sat, 13 Jun 2026 03:42:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114555"
-      },
-      "301fc46aca55eb20289dea2f0f70df33eed525d54e34bb095ef5536ec1781d67": {
-        "title": "Anthropic suspends latest AI models after US blocks access to foreigners",
-        "link": "https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb",
-        "published_date": "Sat, 13 Jun 2026 02:01:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.114557"
-      },
       "52dc3d31112c28eadbda63e9f8ca89e943b736a8091976b788264970f3c39e80": {
         "title": "‘We are comfortable financially’: My husband is in his 60s and has $500,000 life insurance. Is this a good time to cancel?",
         "link": "https://www.marketwatch.com/story/we-pay-100-per-month-my-husband-is-in-his-mid-60s-and-has-a-500-000-life-insurance-policy-is-it-time-to-cancel-it-4cc49ffe?mod=mw_rss_topstories",
@@ -7161,27 +7107,69 @@
         "link": "https://www.ft.com/content/4f4940cb-5ab4-4c65-bb2c-1503ed4734c1",
         "published_date": "Mon, 13 Jul 2026 04:01:00 GMT",
         "first_seen": "2026-07-13T08:19:03.565493"
+      },
+      "d7105c0b55a59831c1c08dbd0a07f99834f3c080d55ae5b7b32a2140472b734d": {
+        "title": "Top Fed official warns ‘hot’ inflation could trigger rate rise",
+        "link": "https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d",
+        "published_date": "Mon, 13 Jul 2026 17:23:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137264"
+      },
+      "3f69b13cb3254cb713551efc960ebda6389f6a6bff2e2b29a5e3c750f1b8d8fd": {
+        "title": "Why a borrowing binge by investors is a warning sign for the stock market",
+        "link": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 22:19:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137271"
+      },
+      "f36beb886d8ca323be89f86a144413f6a3a3249700ccf90b3eb2c8f0ae7ba641": {
+        "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
+        "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
+        "published_date": "Mon, 13 Jul 2026 20:41:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137273"
+      },
+      "14845806baf9640afcc61b2c7b58d6b8d091baf80e2e4aeae69401933ef9c5b8": {
+        "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 22:50:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137276"
+      },
+      "9bf546144e3e874d8129374d2a695f057b0336ae5984d223730dd56d42b091fa": {
+        "title": "Dubai plans new port to bypass Strait of Hormuz",
+        "link": "https://www.ft.com/content/1f97b548-1bd8-41c8-8380-043ec688d77a",
+        "published_date": "Mon, 13 Jul 2026 13:38:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137277"
+      },
+      "f6fc508d08c1a7e4beb2ec6bb00f8b7ae11976b5d392860835d73822ed126e0b": {
+        "title": "Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.",
+        "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 20:35:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137279"
+      },
+      "e9dd602678ae4033e577a98a0fba1b93fdd3291ce443c5b422a5b0b02ff88d15": {
+        "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+        "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 23:03:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137281"
+      },
+      "55197e33b6ad847b03c1596a5f72938fd2ccd3ecb582eb5c3611d3f0082d2d1b": {
+        "title": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 22:08:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137282"
+      },
+      "834cbd3e62a0c01fcd439dd6e1e7e87f0465a6240d02906143a0e22e66f6fc7d": {
+        "title": "Mexican food chain Chipotle takes its burritos and bowls to Mexico",
+        "link": "https://www.ft.com/content/66ad67a6-a6cd-432f-89b0-3f39ca71c277",
+        "published_date": "Mon, 13 Jul 2026 20:10:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137284"
+      },
+      "0d0ed4ea021620e73066f35daf0994b8ff86bfa9369e75adf33c41b4e4015080": {
+        "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+        "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+        "published_date": "Mon, 13 Jul 2026 22:59:00 GMT",
+        "first_seen": "2026-07-13T23:57:40.137285"
       }
     },
     "Ai": {
-      "332753eafe78d169a44455c58b973ff10b3a49ccd66ca1574ac3c49fb1b21097": {
-        "title": "2026北京智源大会开幕 | 从“悟道”到“悟界”，智源研究院推动人工智能、物理世界和生命科学“三体互动”",
-        "link": "https://www.leiphone.com/category/academic/PRkJuKQSDv4Q1le5.html",
-        "published_date": "Sat, 13 Jun 2026 08:07:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.238089"
-      },
-      "fb4bbd4d5a9cf748fb52ae552c4bbc40eb847957ca255f1d8a0a79b1a7ca26f9": {
-        "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-        "link": "https://www.qbitai.com/2026/06/435394.html",
-        "published_date": "Sat, 13 Jun 2026 05:19:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.238098"
-      },
-      "df19bf8146cc031cbbba10d8a434e8add5eeba4574151456d28b43d46d022e75": {
-        "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-        "link": "https://www.qbitai.com/2026/06/435339.html",
-        "published_date": "Sat, 13 Jun 2026 04:05:00 GMT",
-        "first_seen": "2026-06-13T08:23:40.238100"
-      },
       "f2603856f7155c0a2a4b1ad0d2b7597499608c507229bee4a9c2708eb8342804": {
         "title": "湖州超级五电工厂落地，零跑奔赴百万销量制造突围",
         "link": "https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html",
@@ -9725,13 +9713,73 @@
         "link": "https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html",
         "published_date": "Mon, 13 Jul 2026 10:27:00 GMT",
         "first_seen": "2026-07-13T08:19:04.709381"
+      },
+      "60f0d98cd1d3c0602ac13c2f308bdfec04c0ffc8edcd19c79185d0a8e2a7d1c7": {
+        "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+        "link": "https://www.qbitai.com/2026/07/449311.html",
+        "published_date": "Mon, 13 Jul 2026 11:59:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311405"
+      },
+      "e47dab99c4c6dc55cbd2636ce1acf8e28472c7343cccf720c0f99f36f8b5f38a": {
+        "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+        "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+        "published_date": "Mon, 13 Jul 2026 14:50:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311411"
+      },
+      "113caab0506dba11ad5b820c336f59fdb1a1939bd0c6257424a8370c064a2dd5": {
+        "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+        "link": "https://www.qbitai.com/2026/07/449327.html",
+        "published_date": "Mon, 13 Jul 2026 15:15:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311414"
+      },
+      "468ea9bf945d88923ee46431c96e5bfb75d4c2a0a7be8f1df823f814ad3827ad": {
+        "title": "《智能体个人信息保护自律公约》发布  31家企业共促AI生态规范",
+        "link": "https://www.leiphone.com/category/ai/v2YZAxfAruNy41cX.html",
+        "published_date": "Mon, 13 Jul 2026 18:27:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311415"
+      },
+      "d96a0558e03032dd2bdf5d560e40d21666d7c69acfbeda279925b4c9c1ab5d1a": {
+        "title": "文远知行L2++智驾业务加速出海，一段式端到端方案驶向全球",
+        "link": "https://www.leiphone.com/category/industrynews/zEN1JYcVUeuUotRS.html",
+        "published_date": "Mon, 13 Jul 2026 16:07:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311417"
+      },
+      "0ea5696a1a2992d418d727281d2e32915eb1849174815b49e681af756121c48f": {
+        "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+        "link": "https://www.qbitai.com/2026/07/449156.html",
+        "published_date": "Mon, 13 Jul 2026 09:27:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311418"
+      },
+      "845b673005a65d63473238509b7c3be2b2410c88382d857732957eae597447c0": {
+        "title": "RSS 2026 Manipulation 论文报告汇总1",
+        "link": "https://www.leiphone.com/category/private/7a8PVDUwLrXG8LgX.html",
+        "published_date": "Mon, 13 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311420"
+      },
+      "3b2d2c3393e6145f8a331ed9dc63741e6f613c52cdd505d55d5d3e92e45639c0": {
+        "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/",
+        "published_date": "Mon, 13 Jul 2026 17:34:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311422"
+      },
+      "0b6472e066c0aa3abde2e92393477e2f40956d8b4469f61c6d97a925d30129df": {
+        "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/",
+        "published_date": "Mon, 13 Jul 2026 17:27:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311423"
+      },
+      "ba8a193cb7bf25ddba97153ebda784d807e63cc189b2e2fc452195aee3a4e1ed": {
+        "title": "How MIT students are helping to prevent cyberattacks",
+        "link": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+        "published_date": "Mon, 13 Jul 2026 15:10:00 GMT",
+        "first_seen": "2026-07-13T23:57:41.311424"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-13T08:19:02.125594",
-    "Finance": "2026-07-13T08:19:03.565495",
-    "Ai": "2026-07-13T08:19:04.709383"
+    "Technology": "2026-07-13T23:57:38.967409",
+    "Finance": "2026-07-13T23:57:40.137288",
+    "Ai": "2026-07-13T23:57:41.311426"
   }
 }

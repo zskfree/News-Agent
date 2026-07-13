@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 08:18
+**最后更新时间**: 2026-07-13 23:57
+
+---
+
+## 🆕 最新更新 (2026-07-13 23:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?](https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 23:03
+
+#### [The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz](https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 22:50
+
+#### [Why a borrowing binge by investors is a warning sign for the stock market](https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 22:19
+
+#### [SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?](https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 22:08
+
+#### [Sandisk’s stock is plunging, but some analysts are getting even more bullish](https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 21:04
+
+#### [Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.](https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 20:48
+
+#### [Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.](https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 20:35
+
+#### [Billionaires are loading up on these superior stocks. Why it pays to follow their money.](https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 20:32
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US launches air strikes as Iran targets tankers with cruise missiles](https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c)
+**发布时间**: 2026-07-13 22:59
+
+#### [Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’](https://www.ft.com/content/c98f4108-7bb6-4a05-9742-8d7b56c78c4f)
+**发布时间**: 2026-07-13 22:31
+
+#### [Stocks and bonds drop as mounting US-Iran tensions spook investors](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734)
+**发布时间**: 2026-07-13 20:41
+
+#### [US court revives lawsuits linking painkiller Tylenol to autism](https://www.ft.com/content/7c000308-c23e-47d0-8127-eb7184764cc5)
+**发布时间**: 2026-07-13 20:20
+
+#### [Mexican food chain Chipotle takes its burritos and bowls to Mexico](https://www.ft.com/content/66ad67a6-a6cd-432f-89b0-3f39ca71c277)
+**发布时间**: 2026-07-13 20:10
+
+#### [Top Fed official warns ‘hot’ inflation could trigger rate rise](https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d)
+**发布时间**: 2026-07-13 17:23
+
+#### [Dubai plans new port to bypass Strait of Hormuz](https://www.ft.com/content/1f97b548-1bd8-41c8-8380-043ec688d77a)
+**发布时间**: 2026-07-13 13:38
+
+#### [Trump’s plan for Europe is falling apart](https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72)
+**发布时间**: 2026-07-13 11:30
+
+#### [Trump’s star power becomes a gamble for Republicans](https://www.ft.com/content/8e6044f6-6229-4993-9494-2e4f0feb803e)
+**发布时间**: 2026-07-13 04:00
 
 ---
 
