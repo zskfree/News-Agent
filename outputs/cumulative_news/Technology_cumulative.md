@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-12 23:58
+**最后更新时间**: 2026-07-13 08:18
+
+---
+
+## 🆕 最新更新 (2026-07-13 08:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海外品牌接连败退，这门餐饮生意却被中国玩家盘活了？](https://www.tmtpost.com/8062731.html)
+**发布时间**: 2026-07-13 16:16
+
+#### [异教徒Anthropic，与全世界结仇](https://www.tmtpost.com/8062734.html)
+**发布时间**: 2026-07-13 16:16
+
+#### [单店月入百万引喜茶入股，这家“熟成茶”品牌什么来头？](https://www.tmtpost.com/8062732.html)
+**发布时间**: 2026-07-13 16:16
+
+#### [【数智周报】外媒：DeepSeek正自研AI推理芯片； 中国部分AI大模型比美国便宜90%，抢占当地市场； 苹果起诉OpenAI窃取机密、要求其重做尚未发布的AI硬件……](https://www.tmtpost.com/8062740.html)
+**发布时间**: 2026-07-13 16:05
+
+#### [智谱AGI的背水一战](https://www.tmtpost.com/8062664.html)
+**发布时间**: 2026-07-13 16:01
+
+#### [A Lifestyle Platform’s High-Stakes Gamble on the Grassroots Game](https://www.tmtpost.com/8062782.html)
+**发布时间**: 2026-07-13 15:22
+
+#### [中国茶饮，别再道歉了](https://www.tmtpost.com/8062554.html)
+**发布时间**: 2026-07-13 13:40
+
+#### [苹果的诉讼，可能让OpenAI的硬件野心倒退多年](https://www.tmtpost.com/8062553.html)
+**发布时间**: 2026-07-13 13:36
+
+#### [两个月卖到断货：纸巾厂出海，卡在仓库不在流量](https://www.tmtpost.com/8062300.html)
+**发布时间**: 2026-07-13 13:30
+
+#### [努比亚AI智能体手机将至，中兴能否靠豆包翻身？](https://www.tmtpost.com/8062241.html)
+**发布时间**: 2026-07-13 13:24
+
+#### [腾讯AI，翻身了吗？](https://www.tmtpost.com/8062240.html)
+**发布时间**: 2026-07-13 13:20
+
+#### [新能源龙头折戟匈牙利背后：搞定政府，换不来一路绿灯](https://www.tmtpost.com/8062326.html)
+**发布时间**: 2026-07-13 13:13
+
+#### [音综毒舌二十年，风水轮流转](https://www.tmtpost.com/8062466.html)
+**发布时间**: 2026-07-13 13:13
+
+#### [北京亦庄，将跑出一个机器人独角兽IPO](https://www.tmtpost.com/8062459.html)
+**发布时间**: 2026-07-13 13:08
+
+#### [被华莱士、塔斯汀、鲍师傅“带飞”的百利食品，在中式汉堡掘金20亿](https://www.tmtpost.com/8062366.html)
+**发布时间**: 2026-07-13 13:04
+
+#### [中美创新药，究竟谁是甲方？](https://www.tmtpost.com/8062426.html)
+**发布时间**: 2026-07-13 13:04
+
+#### [中国最像Anthropic的公司，要移走“三座大山”](https://www.tmtpost.com/8062463.html)
+**发布时间**: 2026-07-13 13:04
+
+#### [具身智能投资图谱：为什么车企偏爱有“工程化经验”的创始人？](https://www.tmtpost.com/8062421.html)
+**发布时间**: 2026-07-13 12:25
+
+#### [啤酒配早餐、宠物穿球衣，世界杯消费变形记](https://www.tmtpost.com/8062399.html)
+**发布时间**: 2026-07-13 12:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst](https://www.infoq.cn/article/m2WieH9TUbmLzzxwdrCk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 15:37
+
+#### [Cloudflare 与亚马逊云科技合作在边缘端集成 x402 代理支付功能](https://www.infoq.cn/article/BTh2ixDj3uo98Q1hHYhk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 14:49
+
+#### [从看见问题到解决问题，Agent 正重新定义可观测](https://www.infoq.cn/article/ZuIv7zKERvxvy34i1P0t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 14:44
+
+#### [从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？](https://www.infoq.cn/article/qIcyYSEZfr9ITtzrSRDt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 14:41
+
+#### [火山引擎 × 央视网 打造 2026 世界杯沉浸式观赛盛宴](https://www.infoq.cn/article/QXl7IlS0WjfAwvUB1EML?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 14:27
+
+#### [AI推理成本首次算清：GPU利用率不到52%，千万别自建！](https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 14:26
+
+#### [Eliya 25 发布，为 OpenJDK 25 LTS 引入 JVM 级生产诊断配置](https://www.infoq.cn/article/icewb2lkvtBwWhIT2AgK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 13:00
+
+#### [红帽决定聚焦中国企业的“多模型、多GPU、多云”选择权](https://www.infoq.cn/article/aIP7uI00KLecpDYZBKXl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 12:07
+
+#### [MiniMax CEO称不再领取薪酬，将4%股份激励团队；吐槽DeepSeek面试的华为天才少年回应被控诈骗；宇树机器人给猪做手术登上Nature｜AI周报](https://www.infoq.cn/article/ySJsUiKHrIF1zDtKsNDj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 12:07
+
+#### [从看见问题到解决问题，Agent 正重新定义可观测？](https://www.infoq.cn/video/v00wiAfaypFe6jwaMOWP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 12:00
+
+#### [源络科技在国家级科研平台完成全球首个自主实验室落地](https://www.infoq.cn/article/SikqTtFjSUbzBDz9LhKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 11:50
+
+#### [UniRL：统一多模态 RL 框架的 2.4X 端到端性能优化实践｜AICon深圳](https://www.infoq.cn/article/jeAxpYI4tgewlBdvXZBJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 11:15
+
+#### [Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流](https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 11:00
+
+#### [TSRX：一种与框架无关的JSX替代方案](https://www.infoq.cn/article/Zd3aCWmlDJaAiwhEE4q6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-13 09:23
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [依江伴湖，树影连绵：南昌公园散步指南](https://sspai.com/post/111776)
+**发布时间**: 2026-07-13 15:00
+
+#### [你这图「保真」吗？AI 生图时代的信息防伪](https://sspai.com/post/112185)
+**发布时间**: 2026-07-13 10:52
+
+#### [派早报：苹果起诉 OpenAI 窃取商业机密](https://sspai.com/post/112215)
+**发布时间**: 2026-07-13 06:58
 
 ---
 

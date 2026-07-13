@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 23:58:19 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 08:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:19:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降</title>
-      <link>https://www.tmtpost.com/8061844.html</link>
-      <description>&lt;![CDATA[【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降]]&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8061844.html</guid>
+      <title>【数智周报】外媒：DeepSeek正自研AI推理芯片； 中国部分AI大模型比美国便宜90%，抢占当地市场； 苹果起诉OpenAI窃取机密、要求其重做尚未发布的AI硬件……</title>
+      <link>https://www.tmtpost.com/8062740.html</link>
+      <description>&lt;![CDATA[【数智周报】外媒：DeepSeek正自研AI推理芯片； 中国部分AI大模型比美国便宜90%，抢占当地市场； 苹果起诉OpenAI窃取机密、要求其重做尚未发布的AI硬件……]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8062740.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里急转向，快递大变局</title>
-      <link>https://www.tmtpost.com/8061727.html</link>
-      <description>&lt;![CDATA[阿里急转向，快递大变局]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 20:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8061727.html</guid>
+      <title>MiniMax CEO称不再领取薪酬，将4%股份激励团队；吐槽DeepSeek面试的华为天才少年回应被控诈骗；宇树机器人给猪做手术登上Nature｜AI周报</title>
+      <link>https://www.infoq.cn/article/ySJsUiKHrIF1zDtKsNDj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MiniMax CEO称不再领取薪酬，将4%股份激励团队；吐槽DeepSeek面试的华为天才少年回应被控诈骗；宇树机器人给猪做手术登上Nature｜AI周报]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ySJsUiKHrIF1zDtKsNDj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不卷9.9，这一代跨境人在创造贵20美元的新物种 ｜ 出海参考</title>
-      <link>https://www.tmtpost.com/8061768.html</link>
-      <description>&lt;![CDATA[不卷9.9，这一代跨境人在创造贵20美元的新物种 ｜ 出海参考]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8061768.html</guid>
+      <title>AI推理成本首次算清：GPU利用率不到52%，千万别自建！</title>
+      <link>https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI推理成本首次算清：GPU利用率不到52%，千万别自建！]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 上已开源，有人把《哈利·波特》中的笔记做出来了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535336&amp;idx=1&amp;sn=bf1b478056bfb8d0456da756c3e23412</link>
-      <description>&lt;![CDATA[GitHub 上已开源，有人把《哈利·波特》中的笔记做出来了。]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535336&amp;idx=1&amp;sn=bf1b478056bfb8d0456da756c3e23412</guid>
+      <title>具身智能投资图谱：为什么车企偏爱有“工程化经验”的创始人？</title>
+      <link>https://www.tmtpost.com/8062421.html</link>
+      <description>&lt;![CDATA[具身智能投资图谱：为什么车企偏爱有“工程化经验”的创始人？]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8062421.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6月音乐精选：不得不听的 17 张……没错 17 张专辑！</title>
-      <link>https://sspai.com/post/112035</link>
-      <description>&lt;![CDATA[6月音乐精选：不得不听的 17 张……没错 17 张专辑！]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112035</guid>
+      <title>从看见问题到解决问题，Agent 正重新定义可观测</title>
+      <link>https://www.infoq.cn/article/ZuIv7zKERvxvy34i1P0t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从看见问题到解决问题，Agent 正重新定义可观测]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZuIv7zKERvxvy34i1P0t?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>红帽决定聚焦中国企业的“多模型、多GPU、多云”选择权</title>
+      <link>https://www.infoq.cn/article/aIP7uI00KLecpDYZBKXl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[红帽决定聚焦中国企业的“多模型、多GPU、多云”选择权]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aIP7uI00KLecpDYZBKXl?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？</title>
+      <link>https://www.infoq.cn/article/qIcyYSEZfr9ITtzrSRDt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qIcyYSEZfr9ITtzrSRDt?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>你这图「保真」吗？AI 生图时代的信息防伪</title>
+      <link>https://sspai.com/post/112185</link>
+      <description>&lt;![CDATA[你这图「保真」吗？AI 生图时代的信息防伪]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112185</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst</title>
+      <link>https://www.infoq.cn/article/m2WieH9TUbmLzzxwdrCk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/m2WieH9TUbmLzzxwdrCk?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Eliya 25 发布，为 OpenJDK 25 LTS 引入 JVM 级生产诊断配置</title>
+      <link>https://www.infoq.cn/article/icewb2lkvtBwWhIT2AgK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Eliya 25 发布，为 OpenJDK 25 LTS 引入 JVM 级生产诊断配置]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/icewb2lkvtBwWhIT2AgK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

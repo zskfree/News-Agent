@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-12 23:58
+**最后更新时间**: 2026-07-13 08:18
+
+---
+
+## 🆕 最新更新 (2026-07-13 08:18)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [There’s good and bad news if you want to copy JPMorgan’s new AI agent that outperforms the 60/40 portfolio](https://www.marketwatch.com/story/theres-good-and-bad-news-if-you-want-to-copy-jpmorgans-new-ai-agent-that-outperforms-the-60-40-portfolio-46920f9e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 08:17
+
+#### [‘Trump accounts’ are great — if you’re already rich](https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 01:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks fall and oil prices climb](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734)
+**发布时间**: 2026-07-13 07:28
+
+#### [US launches more strikes on Iran as ceasefire teeters](https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d)
+**发布时间**: 2026-07-13 06:06
+
+#### [Dimon pressed over whether he lobbied UK government on Epstein’s advice](https://www.ft.com/content/4f4940cb-5ab4-4c65-bb2c-1503ed4734c1)
+**发布时间**: 2026-07-13 04:01
+
+#### [Jane Fraser’s ruthless remake of Citigroup](https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713)
+**发布时间**: 2026-07-13 04:00
+
+#### [AI is not enough to arrest China’s decline](https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053)
+**发布时间**: 2026-07-13 04:00
+
+#### [‘Trump accounts’ and how to spread America’s wealth](https://www.ft.com/content/f98d880c-6e7f-486c-8336-4a26186a5955)
+**发布时间**: 2026-07-13 04:00
+
+#### [Companies turn to Chinese AI models to cut costs](https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee)
+**发布时间**: 2026-07-13 04:00
+
+#### [Wall Street feasts on fees from SpaceX IPO and mega-mergers](https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c)
+**发布时间**: 2026-07-13 04:00
+
+#### [Investors cut back bets on Asian chipmakers after blistering rally](https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30)
+**发布时间**: 2026-07-13 04:00
+
+#### [EU buys record amount of gas from Russia’s flagship plant](https://www.ft.com/content/de9bbc3a-c317-4e5f-a324-6ec0dde45722)
+**发布时间**: 2026-07-13 03:00
+
+#### [Employers pushed staff to use AI more. That has backfired](https://www.ft.com/content/cc03adda-7b56-4392-8f9a-e83a71a25ea1)
+**发布时间**: 2026-07-13 03:00
 
 ---
 

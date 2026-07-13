@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 23:56:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 23:58:20 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 08:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:19:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>赛力斯发布2026年半年度业绩预告，利润短期承压主要系成本上涨所致</title>
-      <link>https://www.leiphone.com/category/industrynews/6s3EMXq62OqnnGfl.html</link>
-      <description>&lt;![CDATA[赛力斯发布2026年半年度业绩预告，利润短期承压主要系成本上涨所致]]&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 19:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/6s3EMXq62OqnnGfl.html</guid>
+      <title>Genentech研发负责人Aviv Regev：预测肿瘤突变，AI 制药开启「一人一药」时代 | ICML 2026</title>
+      <link>https://www.leiphone.com/category/private/m2WcPZmJL6inJb5i.html</link>
+      <description>&lt;![CDATA[Genentech研发负责人Aviv Regev：预测肿瘤突变，AI 制药开启「一人一药」时代 | ICML 2026]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/m2WcPZmJL6inJb5i.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>斯坦福 Susan Athey 教授：以彼之矛攻彼之盾，用 LLM 的随机性破解因果推断难题 | ICML 2026</title>
+      <link>https://www.leiphone.com/category/private/u24ghF3YNhU0xxjJ.html</link>
+      <description>&lt;![CDATA[斯坦福 Susan Athey 教授：以彼之矛攻彼之盾，用 LLM 的随机性破解因果推断难题 | ICML 2026]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/u24ghF3YNhU0xxjJ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICML 2026世界模型研究盘点：LAWM VS WAM，谁主沉浮？</title>
+      <link>https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html</link>
+      <description>&lt;![CDATA[ICML 2026世界模型研究盘点：LAWM VS WAM，谁主沉浮？]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/vfNfp926XA89UUvh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题</title>
+      <link>https://www.qbitai.com/2026/07/448239.html</link>
+      <description>&lt;![CDATA[机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 04:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448239.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Claude Code砸的坑，蚂蚁安全在尝试填上</title>
+      <link>https://www.qbitai.com/2026/07/448925.html</link>
+      <description>&lt;![CDATA[Claude Code砸的坑，蚂蚁安全在尝试填上]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448925.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证</title>
+      <link>https://www.qbitai.com/2026/07/448824.html</link>
+      <description>&lt;![CDATA[CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 06:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448824.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GPT-5.6刚发布，OpenAI安全主管就跑路了？？</title>
+      <link>https://www.qbitai.com/2026/07/448825.html</link>
+      <description>&lt;![CDATA[GPT-5.6刚发布，OpenAI安全主管就跑路了？？]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 06:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448825.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院</title>
+      <link>https://www.qbitai.com/2026/07/448139.html</link>
+      <description>&lt;![CDATA[全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 04:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448139.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>New method aims to keep kids safe from illegal AI-generated content</title>
+      <link>https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713</link>
+      <description>&lt;![CDATA[New method aims to keep kids safe from illegal AI-generated content]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系</title>
+      <link>https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html</link>
+      <description>&lt;![CDATA[海康威视首次亮相世界人工智能大会，全方位展示观澜大模型技术体系]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/L5WoKiH9S0xMGC8q.html</guid>
       <category>Ai</category>
     </item>
   </channel>
