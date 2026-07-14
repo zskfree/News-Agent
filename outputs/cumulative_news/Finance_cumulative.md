@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 10:00
+**最后更新时间**: 2026-07-14 23:56
+
+---
+
+## 🆕 最新更新 (2026-07-14 23:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This overlooked index is a better investment than the S&P 500](https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 23:32
+
+#### [Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it.](https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 22:11
+
+#### [What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’](https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 21:10
+
+#### [Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads](https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 21:09
+
+#### [Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.](https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 21:03
+
+#### [Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign](https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 20:56
+
+#### [Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis](https://www.marketwatch.com/story/skip-the-lettuce-cook-your-other-greens-and-more-advice-on-avoiding-cyclosporiasis-ec2aed46?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 20:22
+
+#### [IBM’s stock just had its worst day ever after the surprise release of an earnings miss](https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 20:21
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Manic markets show no mercy to IBM](https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b)
+**发布时间**: 2026-07-14 22:07
+
+#### [New Zealand PM warns against Ardern-era ‘sugar rush economics’](https://www.ft.com/content/40418586-2324-4ae0-8023-9378886a32b5)
+**发布时间**: 2026-07-14 21:00
+
+#### [Trump says US to abandon proposed Strait of Hormuz cargo fee](https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f)
+**发布时间**: 2026-07-14 20:19
+
+#### [IBM shares plunge 25% as customers shift spending to AI](https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95)
+**发布时间**: 2026-07-14 20:11
+
+#### [US to fund Trump-aligned Europeans building ‘civilisational bonds’](https://www.ft.com/content/e2addd88-4361-43f1-94e2-9f0a808dd6a9)
+**发布时间**: 2026-07-14 19:47
+
+#### [Buffett drops Gates Foundation from $6bn Berkshire donation](https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2)
+**发布时间**: 2026-07-14 19:03
+
+#### [Wall Street banks smash records on stock trading boom](https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2)
+**发布时间**: 2026-07-14 16:23
+
+#### [New York becomes first US state to suspend data centre development](https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea)
+**发布时间**: 2026-07-14 16:19
+
+#### [Ukraine targets Russian shipping in ‘unprecedented’ drone assault](https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9)
+**发布时间**: 2026-07-14 14:43
+
+#### [Washington and Tehran send warnings by missile](https://www.ft.com/content/42a27e37-9868-4465-9bde-8b5261088608)
+**发布时间**: 2026-07-14 12:24
+
+#### [Democrats are not in great shape](https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac)
+**发布时间**: 2026-07-14 10:55
 
 ---
 

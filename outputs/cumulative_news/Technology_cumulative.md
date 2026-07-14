@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 10:00
+**最后更新时间**: 2026-07-14 23:56
+
+---
+
+## 🆕 最新更新 (2026-07-14 23:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行出手！1.4万亿元买断式逆回购来了；长鑫科技发行价确定8.66元/股，7月16日开启申购；中金公司“三合一”重组，再迎关键进展](https://www.tmtpost.com/8064831.html)
+**发布时间**: 2026-07-15 07:20
+
+#### [大晟文化：预计2026上半年归母净利润-3,600万元至-2,300万元](https://www.tmtpost.com/8064743.html)
+**发布时间**: 2026-07-14 20:39
+
+#### [老黄的赌局](https://www.tmtpost.com/8063393.html)
+**发布时间**: 2026-07-14 19:25
+
+#### [AI进入“重工业时代”：万亿算力基建，如何赚钱？](https://www.tmtpost.com/8063974.html)
+**发布时间**: 2026-07-14 19:25
+
+#### [路线分野与终局迷雾：Rokid不想做下一个黑莓](https://www.tmtpost.com/8064197.html)
+**发布时间**: 2026-07-14 19:20
+
+#### [中国机器人，让美国人焦虑了](https://www.tmtpost.com/8064381.html)
+**发布时间**: 2026-07-14 19:20
+
+#### [AI融资489亿背后的焦虑：技术领先者，如何跨越心智鸿沟](https://www.tmtpost.com/8063785.html)
+**发布时间**: 2026-07-14 18:59
+
+#### [烟台这座老工业城市，在AI时代跑出了两只大牛股](https://www.tmtpost.com/8064246.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [“不听劝”的印奇，为什么坚持做智能体手机？ ｜ 对话阶跃星辰](https://www.tmtpost.com/8064239.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [物理AI，让自动驾驶迎来了“第二春”](https://www.tmtpost.com/8064199.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [AI大厂进军医药，但资本市场等不了十年](https://www.tmtpost.com/8064038.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [LibTV把100+AI视频魔法，封装进了这个全球最大的Skill商店里｜测评](https://www.tmtpost.com/8064076.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [佛得角迷上中国“三蹦子”](https://www.tmtpost.com/8064542.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [AI下半场，买“云”不买“芯”？](https://www.tmtpost.com/8063945.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [市值蒸发超5000亿，“酱油茅”海天怎么就不香了？](https://www.tmtpost.com/8063964.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [机器人大脑，值钱的生意还是卖炭的苦活？](https://www.tmtpost.com/8063781.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [有点推荐、良品铺子、金粒门、绝味，哪家最“新鲜”？](https://www.tmtpost.com/8063715.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [上半年又吸金千亿美元，国产创新药BD为何还能“疯狂”？](https://www.tmtpost.com/8063707.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [哈兰德想来中国，入境游接得住吗？](https://www.tmtpost.com/8064373.html)
+**发布时间**: 2026-07-14 18:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude Artifacts 一夜打通“全网公开分享+多人编辑”，AI 交付闭环彻底杀疯了](https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 22:01
+
+#### [回到第一性原理：塑造 Snowflake 的理念，以及下一步 ｜ Summit 2026](https://www.infoq.cn/video/ffZEu3m2LMOy0cPEbYXl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 19:00
+
+#### [治理 Agentic Enterprise：营销领导者当下必须知道的事 ｜ 技术趋势](https://www.infoq.cn/article/kMa4NtkHgLNFMJ02bIjJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 18:40
+
+#### [随时随地构建：CoCo 现已进入你的桌面、手机与 Slack ｜ 技术趋势](https://www.infoq.cn/article/GDIRmc9ZvzZVT7bWVPCz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 18:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
+**发布时间**: 2026-07-14 17:27
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 Skill 让 Claude Code 看懂视频，还挺实用的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535343&idx=1&sn=5c13d73a81e83427597b51786885aa1f)
+**发布时间**: 2026-07-14 14:32
 
 ---
 

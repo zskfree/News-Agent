@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Jul 2026 07:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 10:00:33 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 23:54:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:56:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-07-14日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-14/</link>
-      <description>&lt;![CDATA[2026-07-14日刊]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-14/</guid>
+      <title>Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering</title>
+      <link>https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</link>
+      <description>&lt;![CDATA[Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？</title>
-      <link>https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</link>
-      <description>&lt;![CDATA[Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</guid>
+      <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
+      <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
+      <description>&lt;![CDATA[Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元</title>
-      <link>https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</link>
-      <description>&lt;![CDATA[逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</guid>
+      <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</link>
+      <description>&lt;![CDATA[Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账</title>
-      <link>https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</link>
-      <description>&lt;![CDATA[激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</guid>
+      <title>刚刚，一个免费AI Coding选手杀入全球第一梯队</title>
+      <link>https://www.qbitai.com/2026/07/448475.html</link>
+      <description>&lt;![CDATA[刚刚，一个免费AI Coding选手杀入全球第一梯队]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448475.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建</title>
-      <link>https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</link>
-      <description>&lt;![CDATA[全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</guid>
+      <title>阶跃入局，重构智能体时代操作系统</title>
+      <link>https://www.qbitai.com/2026/07/449979.html</link>
+      <description>&lt;![CDATA[阶跃入局，重构智能体时代操作系统]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449979.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业</title>
-      <link>https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</link>
-      <description>&lt;![CDATA[深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</guid>
+      <title>独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资</title>
+      <link>https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</link>
+      <description>&lt;![CDATA[独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应</title>
-      <link>https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</link>
-      <description>&lt;![CDATA[上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</guid>
+      <title>百年德国「战车」征服欧陆，驾驶位上是中国AI司机</title>
+      <link>https://www.qbitai.com/2026/07/449850.html</link>
+      <description>&lt;![CDATA[百年德国「战车」征服欧陆，驾驶位上是中国AI司机]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449850.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了</title>
+      <link>https://www.qbitai.com/2026/07/449906.html</link>
+      <description>&lt;![CDATA[马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449906.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</link>
+      <description>&lt;![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Scaling medical content review at Flo Health with Amazon Bedrock – Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</link>
+      <description>&lt;![CDATA[Scaling medical content review at Flo Health with Amazon Bedrock – Part 2]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</guid>
       <category>Ai</category>
     </item>
   </channel>
