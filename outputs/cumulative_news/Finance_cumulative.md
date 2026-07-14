@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 23:57
+**最后更新时间**: 2026-07-14 07:11
+
+---
+
+## 🆕 最新更新 (2026-07-14 07:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SoftBank’s Son ridicules AI critics for ‘spitting upwards’](https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00)
+**发布时间**: 2026-07-14 05:09
+
+#### [China’s growth: five things to watch as economic pressure mounts](https://www.ft.com/content/c21b8869-6539-414b-8fe2-255b329b8688)
+**发布时间**: 2026-07-14 04:31
+
+#### [RIP the US state department](https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d)
+**发布时间**: 2026-07-14 04:00
+
+#### [Why the world should copy Trump for once](https://www.ft.com/content/6ff504c6-1cee-4e37-a56d-6a06c3107819)
+**发布时间**: 2026-07-14 04:00
+
+#### [AI and the new Mechanical Turk](https://www.ft.com/content/acd0ef98-b462-4800-88b9-2c78c54f2559)
+**发布时间**: 2026-07-14 04:00
+
+#### [Spain begins Gibraltar airport checks as Brexit reaches the Rock](https://www.ft.com/content/47f8712c-825b-447b-abe5-16b73717fcc3)
+**发布时间**: 2026-07-14 04:00
+
+#### [US military targeted in Iran war phone-tracking campaign](https://www.ft.com/content/44351c74-03c8-45ab-823b-5805c0daca5f)
+**发布时间**: 2026-07-14 04:00
+
+#### [China’s monthly car exports surge past 1mn for first time](https://www.ft.com/content/37324f66-7167-4083-a28e-6ffc505c4cda)
+**发布时间**: 2026-07-14 03:53
+
+#### [Nvidia halves Asia buyer list in China chip crackdown](https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421)
+**发布时间**: 2026-07-14 03:25
+
+#### [UK and Switzerland to loosen visa restrictions as part of services trade deal](https://www.ft.com/content/b4818ca6-c345-42ec-a93f-8be506fe3833)
+**发布时间**: 2026-07-13 14:00
 
 ---
 

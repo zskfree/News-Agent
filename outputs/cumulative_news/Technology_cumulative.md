@@ -1,7 +1,109 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 23:57
+**最后更新时间**: 2026-07-14 07:11
+
+---
+
+## 🆕 最新更新 (2026-07-14 07:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新拼姆会是大号版“SHEIN”吗？](https://www.tmtpost.com/8063362.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [Seed吃肉，Flow喝汤，当字节不再“All in”一个AI](https://www.tmtpost.com/8063367.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [要价400亿的灵心巧手，估值比市场规模还大](https://www.tmtpost.com/8063375.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [智驾行业的2026上半年：兜底成为新门槛，淘汰赛加速](https://www.tmtpost.com/8063386.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [紫光股份离“算力赢家”还有多远？](https://www.tmtpost.com/8063406.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [豆本豆，凭低价抢市场？](https://www.tmtpost.com/8063550.html)
+**发布时间**: 2026-07-14 15:02
+
+#### [The Last Mile of AI Adoption: Why Enterprise Data is Bottlenecking Even the Best Models](https://www.tmtpost.com/8064151.html)
+**发布时间**: 2026-07-14 14:42
+
+#### [莫森泰克：业绩持续下滑，六成营收来自奇瑞关联方，不差钱且大举分红后拟募资补流｜IPO观察](https://www.tmtpost.com/8064137.html)
+**发布时间**: 2026-07-14 14:39
+
+#### [花2元，买一张世界杯“门票”](https://www.tmtpost.com/8064077.html)
+**发布时间**: 2026-07-14 14:28
+
+#### [AI支付没有激战，大厂也带不动？](https://www.tmtpost.com/8063200.html)
+**发布时间**: 2026-07-14 14:28
+
+#### [连买两座大楼，8000亿拼多多不愿再只当“租客”](https://www.tmtpost.com/8063483.html)
+**发布时间**: 2026-07-14 14:24
+
+#### [就是这5个词，锁死了你们的供应链。华为、美的、联想、大疆……全一个样。](https://www.tmtpost.com/8063726.html)
+**发布时间**: 2026-07-14 14:24
+
+#### [瑞士企业HekeTiss研发脂肪干细胞皮肤贴片，治疗慢性溃疡 | 瑞士创新100强](https://www.tmtpost.com/8063968.html)
+**发布时间**: 2026-07-14 14:24
+
+#### [万象城们开始主动帮老铺黄金打折了](https://www.tmtpost.com/8063131.html)
+**发布时间**: 2026-07-14 14:24
+
+#### [4个月蒸发3400亿港元，创始人官宣“零薪酬”，MiniMax到底怎么了？](https://www.tmtpost.com/8063210.html)
+**发布时间**: 2026-07-14 14:24
+
+#### [申报通道开启！2026“CCF企业数字化发展案例大赛”正式启动](https://www.tmtpost.com/8063849.html)
+**发布时间**: 2026-07-14 13:57
+
+#### [买楼的拼多多就是“精明”代言词](https://www.tmtpost.com/8063495.html)
+**发布时间**: 2026-07-14 12:07
+
+#### [市值3000亿美金的巨头，被中国对手盯上了](https://www.tmtpost.com/8063946.html)
+**发布时间**: 2026-07-14 11:19
+
+#### [翰宇药业，风口的伞](https://www.tmtpost.com/8063936.html)
+**发布时间**: 2026-07-14 11:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模型广场邀请有礼，「荐」者有份！](https://www.infoq.cn/article/1iqM9w4qxPJgCfZrickm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 14:42
+
+#### [Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用](https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 14:31
+
+#### [亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证](https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:36
+
+#### [连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了](https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:08
+
+#### [Fable 5 访问权限再延一周，但Anthropic 的“黑心账本”越来越藏不住了](https://www.infoq.cn/article/eRwadJmvQIvuqaDZKBiz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:03
+
+#### [从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践](https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:30
+
+#### [可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑](https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:13
+
+#### [面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳](https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:00
+
+#### [从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地](https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 09:53
+
+#### [Block将约450个JVM仓库迁入monorepo以降低依赖漂移](https://www.infoq.cn/article/kCkoct1dbzjvDBsmjOFx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
+**发布时间**: 2026-07-14 12:07
+
+#### [派早报：全球智能手机出货量创 13 年来最低水平等](https://sspai.com/post/112286)
+**发布时间**: 2026-07-14 08:25
 
 ---
 
