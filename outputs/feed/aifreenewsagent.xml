@@ -6,7 +6,7 @@
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Tue, 14 Jul 2026 07:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 07:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:00:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？</title>
-      <link>https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html</link>
-      <description>&lt;![CDATA[刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html</guid>
+      <title>2026-07-14日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-14/</link>
+      <description>&lt;![CDATA[2026-07-14日刊]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-14/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布</title>
-      <link>https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html</link>
-      <description>&lt;![CDATA[为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/DCPWHecweBJl5y9S.html</guid>
+      <title>Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？</title>
+      <link>https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</link>
+      <description>&lt;![CDATA[Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景</title>
-      <link>https://www.qbitai.com/2026/07/449568.html</link>
-      <description>&lt;![CDATA[高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 03:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449568.html</guid>
+      <title>逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元</title>
+      <link>https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</link>
+      <description>&lt;![CDATA[逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相</title>
-      <link>https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html</link>
-      <description>&lt;![CDATA[阶跃发布大模型原生AI终端品牌STEPX及Step AOS，全球首款大模型原生智能体手机同步亮相]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3WyAbXehaodJ80aQ.html</guid>
+      <title>激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账</title>
+      <link>https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</link>
+      <description>&lt;![CDATA[激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末</title>
-      <link>https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html</link>
-      <description>&lt;![CDATA[独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html</guid>
+      <title>全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建</title>
+      <link>https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</link>
+      <description>&lt;![CDATA[全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI 商业化版图「一拆为三」，原掌舵人 Fidji Simo 突遭离职</title>
-      <link>https://www.leiphone.com/category/industrynews/AsJkNmGbxJ5mPq93.html</link>
-      <description>&lt;![CDATA[OpenAI 商业化版图「一拆为三」，原掌舵人 Fidji Simo 突遭离职]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/AsJkNmGbxJ5mPq93.html</guid>
+      <title>深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业</title>
+      <link>https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</link>
+      <description>&lt;![CDATA[深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑</title>
-      <link>https://www.qbitai.com/2026/07/449474.html</link>
-      <description>&lt;![CDATA[逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 02:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449474.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先</title>
-      <link>https://www.qbitai.com/2026/07/449842.html</link>
-      <description>&lt;![CDATA[GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 05:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449842.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段</title>
-      <link>https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资</title>
-      <link>https://www.qbitai.com/2026/07/449836.html</link>
-      <description>&lt;![CDATA[产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 04:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449836.html</guid>
+      <title>上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应</title>
+      <link>https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</link>
+      <description>&lt;![CDATA[上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 08:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html</guid>
       <category>Ai</category>
     </item>
   </channel>

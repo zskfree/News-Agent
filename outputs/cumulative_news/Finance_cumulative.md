@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 07:11
+**最后更新时间**: 2026-07-14 10:00
+
+---
+
+## 🆕 最新更新 (2026-07-14 10:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wall Street to report bumper quarter as dealmaking returns](https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e)
+**发布时间**: 2026-07-14 09:29
+
+#### [Oil hits $87 as battle for Strait of Hormuz alarms energy markets](https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498)
+**发布时间**: 2026-07-14 09:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices see largest two-day percentage gain in four months on U.S.-Iran fighting](https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 09:17
+
+#### [One of the world’s weakest currencies makes this Asian capital the world’s cheapest major city — for now](https://www.marketwatch.com/story/one-of-the-worlds-cheapest-currencies-makes-this-asian-capital-the-worlds-cheapest-major-city-for-now-84f8a9b5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 09:12
+
+#### [‘Impeccably designed’: You can rent Orlando Bloom’s former Beverly Hills estate for just $31,000 a month](https://www.marketwatch.com/story/impeccably-designed-you-can-rent-orlando-blooms-former-beverly-hills-estate-for-just-31-000-a-month-760c3a9c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 09:02
 
 ---
 

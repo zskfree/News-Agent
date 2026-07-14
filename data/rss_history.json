@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cd6e9e8dc4d228514ac0e21a9765f2ca701078eb5c11871eb2e8a8007c43248a": {
-        "title": "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型",
-        "link": "https://www.tmtpost.com/8027129.html",
-        "published_date": "Sun, 14 Jun 2026 12:59:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390533"
-      },
-      "84a1e62efd370c4ffb33f1a1fe0fbd838511c2fcab7bf3cbecc7aeb89ba1d241": {
-        "title": "300个Agent组网，万亿参数减负：Kimi把AI从\"学霸\"变成\"项目经理\"",
-        "link": "https://www.tmtpost.com/8026995.html",
-        "published_date": "Sun, 14 Jun 2026 11:23:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390544"
-      },
-      "7646ae3ed749118ec647a6957bb7ed89aa2e5f2b1a0357f632458a50230ab655": {
-        "title": "智源大会最清醒的一句话：大模型的下一场仗，不在屏幕里打了",
-        "link": "https://www.tmtpost.com/8027027.html",
-        "published_date": "Sun, 14 Jun 2026 09:25:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390547"
-      },
-      "8420ed30da396884a5c59dae26cf8a116d4307d16c365d34c2d33e0fdd65a272": {
-        "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
-        "link": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390549"
-      },
-      "793b1f4a368822f74db5aa93ed6342033a62bebac5b99a96badfa083e4316c87": {
-        "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
-        "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390551"
-      },
-      "2b04c0cb361c24efac7271617b895ced70e9a9f37ccfeee8ee976c18f0635421": {
-        "title": "这个开源项目把 ChatGPT 搬进本地电脑，每月省下上百美元",
-        "link": "https://www.tmtpost.com/8025236.html",
-        "published_date": "Sun, 14 Jun 2026 11:24:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390553"
-      },
-      "b829d0f7f5d07b2fe8a2f65a4b1105d42532d2e9835e92e0ff6164431db619aa": {
-        "title": "中国新能源车的自研，终于走到“亮底牌”的时候了",
-        "link": "https://www.tmtpost.com/8027110.html",
-        "published_date": "Sun, 14 Jun 2026 11:35:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390554"
-      },
-      "53d4213ee936ad037aca4885152bdf3a2f2f1b581d5afbba146f96bb743f8c72": {
-        "title": "滴滴去掉“出行”，网约车老大也要重新找入口",
-        "link": "https://www.tmtpost.com/8027052.html",
-        "published_date": "Sun, 14 Jun 2026 10:06:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390556"
-      },
-      "6f8f92bc2ca8644289593472dfc397a71f294baef5615215db1faaf19ba34a13": {
-        "title": "高管花式退场，阿里AI不需要“一号位”",
-        "link": "https://www.tmtpost.com/8026958.html",
-        "published_date": "Sun, 14 Jun 2026 09:50:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390557"
-      },
-      "602a4c805d679d81b4d35c76e1d1f5e6534bfd3a9e6b08c98cdb40dbfa1bb14a": {
-        "title": "Luna Ultra 发布、双方互诉：大疆与影石的全面战争",
-        "link": "https://www.tmtpost.com/8026969.html",
-        "published_date": "Sun, 14 Jun 2026 11:23:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.390558"
-      },
       "b1ab84498bfc88aced469bc20d431e6c3366f4c82230f2bff4cd1263b2294043": {
         "title": "MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀",
         "link": "https://www.tmtpost.com/8027254.html",
@@ -3775,45 +3715,69 @@
         "link": "https://www.tmtpost.com/8063726.html",
         "published_date": "Tue, 14 Jul 2026 14:24:00 GMT",
         "first_seen": "2026-07-14T07:11:12.694512"
+      },
+      "025fc87ad3ffcc434dc2a00eec51ffa9c77ff58db98a275abcc46290dc73c89e": {
+        "title": "国产算力“出息了”，国内首个全国产十万卡集群落地",
+        "link": "https://www.tmtpost.com/8064226.html",
+        "published_date": "Tue, 14 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458454"
+      },
+      "2a6b2706a509fdcfa8ba12bb44e19f135486116a80892985e6f4dab33230530b": {
+        "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
+        "link": "https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 16:25:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458462"
+      },
+      "971a4e653d1a1cc4286cb1e40fe4402ffd11e02ea41493db975fd8acc33608c1": {
+        "title": "Agentic Enterprise：Snowflake AI 如何重新定义工作 ｜ Summit 2026",
+        "link": "https://www.infoq.cn/video/7hqd5Z9AFMA6h9mtcrtA?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 16:43:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458465"
+      },
+      "542e17ebd274cc327469d1491ba7af5d066b8a41515ca7cf7dedeedda01634c0": {
+        "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "link": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 16:00:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458467"
+      },
+      "9eeb1924768e432f21244947f5bd53349efb114214c7ef6aa2761c111f157845": {
+        "title": "快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践",
+        "link": "https://www.infoq.cn/article/SEXa3rsGTsStXM7lV7al?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 16:18:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458468"
+      },
+      "9e12d04dd037dbe3d3bf1d1d90b4f9f2c49a4ddbfcddff70c4d0b5f18c5bd85f": {
+        "title": "苹果诉OpenAI：一场400人“搬家”引发的硬件主权战争",
+        "link": "https://www.tmtpost.com/8061734.html",
+        "published_date": "Tue, 14 Jul 2026 17:08:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458470"
+      },
+      "049479a7d8ddac0e34b15116da6de284ba7d5e7fc74bbf839bed153c28242527": {
+        "title": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "link": "https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 15:10:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458472"
+      },
+      "4c3365ab054597f45dad3b8f0e718537e8b289c493e135d57c7683f1f02baeb0": {
+        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑",
+        "link": "https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 10:13:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458474"
+      },
+      "b653520d7e8f0943b6b202d8673b60a0b07fe82e23c16503bb0a8cce4a9fc650": {
+        "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
+        "link": "https://www.tmtpost.com/8063498.html",
+        "published_date": "Tue, 14 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458476"
+      },
+      "c08f3af5aed67697df8718b5e95df8a8efbdf435f831ba57aac3d928a90c16da": {
+        "title": "同样解禁，智谱和MiniMax股价为何走出冰火两重天？",
+        "link": "https://www.tmtpost.com/8064017.html",
+        "published_date": "Tue, 14 Jul 2026 17:08:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.458477"
       }
     },
     "Finance": {
-      "9d0eafcba7554b54c47f9abf8eaf0685d980b4221d79d4eaaa31e28f0b7f4119": {
-        "title": "How Israel’s ‘trampoline’ economy has adapted to war",
-        "link": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
-        "published_date": "Sun, 14 Jun 2026 08:09:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438079"
-      },
-      "46671e348ed08543e74c6b5dc198aa9edf25bc3231982cedcb236699bfc29743": {
-        "title": "Wall Street digests record fundraising haul as AI race intensifies",
-        "link": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
-        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438088"
-      },
-      "a401c2eb8c373792136f14888a518d61049c83e1f9b8173bba99dcd72a09d1c0": {
-        "title": "Trump’s many unhappy returns",
-        "link": "https://www.ft.com/content/782532af-8fd9-43d6-b48d-713090b34b98",
-        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438090"
-      },
-      "4ae3e856924c1c069a3e4d005fda68ce775283e47f7f57a3d95f463fa2d4bb38": {
-        "title": "Macron and Trump test their bruised bromance at G7 summit",
-        "link": "https://www.ft.com/content/cd9e31af-9521-4a77-8d89-882bb1e4a23e",
-        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438092"
-      },
-      "d351d90dbd1611d565c141509550d5c61ea0f9c7c5ef881c4c81baed3df22d16": {
-        "title": "Defence tech start-up Anduril calls for reset of US arms export controls",
-        "link": "https://www.ft.com/content/74e29a55-8f76-47e2-a039-52fb10beaaec",
-        "published_date": "Sun, 14 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438093"
-      },
-      "6f2a670588791e2fd77fc52d75e74f2c29c18d1348788d2217d5a3fe2812103b": {
-        "title": "China tees up digital payments system to compete with dollar",
-        "link": "https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327",
-        "published_date": "Sun, 14 Jun 2026 02:24:00 GMT",
-        "first_seen": "2026-06-14T08:43:56.438095"
-      },
       "f85752698ed22399a65b9b798ed1d616b16b62aa6eac556bccd56872aa54a09d": {
         "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
         "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
@@ -7161,6 +7125,36 @@
         "link": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
         "published_date": "Tue, 14 Jul 2026 03:25:00 GMT",
         "first_seen": "2026-07-14T07:11:12.750904"
+      },
+      "8f8fe71f89ddd1beb70cf28464f432150473d38fed76fbda26dfe0fe220328ef": {
+        "title": "Wall Street to report bumper quarter as dealmaking returns",
+        "link": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
+        "published_date": "Tue, 14 Jul 2026 09:29:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.511466"
+      },
+      "d8417dedd635b2ea99d4d50d71cd3f118a4efb3b72cdd29095fd9406fb3e2dfb": {
+        "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
+        "link": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+        "published_date": "Tue, 14 Jul 2026 09:21:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.511472"
+      },
+      "62b0d57e75f3daca6107b505ead529642b21c2b3b7b0dbf36eacafe01c64c220": {
+        "title": "Oil prices see largest two-day percentage gain in four months on U.S.-Iran fighting",
+        "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 09:17:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.511474"
+      },
+      "87ed7cbec0c1cd34d7cf0270bb476c0a8cc79749d1f42721cc513fa095d44b87": {
+        "title": "One of the world’s weakest currencies makes this Asian capital the world’s cheapest major city — for now",
+        "link": "https://www.marketwatch.com/story/one-of-the-worlds-cheapest-currencies-makes-this-asian-capital-the-worlds-cheapest-major-city-for-now-84f8a9b5?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 09:12:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.511476"
+      },
+      "95bc3c89cd77036668623787020e70b898b3ea1588b715964e044f2691420acd": {
+        "title": "‘Impeccably designed’: You can rent Orlando Bloom’s former Beverly Hills estate for just $31,000 a month",
+        "link": "https://www.marketwatch.com/story/impeccably-designed-you-can-rent-orlando-blooms-former-beverly-hills-estate-for-just-31-000-a-month-760c3a9c?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Jul 2026 09:02:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.511477"
       }
     },
     "Ai": {
@@ -9815,13 +9809,55 @@
         "link": "https://www.qbitai.com/2026/07/449836.html",
         "published_date": "Tue, 14 Jul 2026 04:06:00 GMT",
         "first_seen": "2026-07-14T07:11:13.903964"
+      },
+      "83d69a389eb3d319c183185213ebbb5e1efbd7f0c598a769bb7888b2d419af70": {
+        "title": "2026-07-14日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-14/",
+        "published_date": "Tue, 14 Jul 2026 13:32:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639621"
+      },
+      "b63b34e472bda50a91816521d9dc7664910186ad4c68fe50f52bda4a1d198f0f": {
+        "title": "Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？",
+        "link": "https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html",
+        "published_date": "Tue, 14 Jul 2026 12:11:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639628"
+      },
+      "d697d556f524040d2a1823e04b021b54ee775f5dde975302f028d534239862f8": {
+        "title": "逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元",
+        "link": "https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html",
+        "published_date": "Tue, 14 Jul 2026 11:42:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639630"
+      },
+      "5e535196e5c713cbb63b0a622a23bf6556a2d017e93c709b3c63672a41f89860": {
+        "title": "激光雷达割草机器人如何盈利？我们找耐士劳总裁秦岭算了一笔账",
+        "link": "https://www.leiphone.com/category/robot/RR4IBkYWGxNiggvB.html",
+        "published_date": "Tue, 14 Jul 2026 10:36:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639633"
+      },
+      "21fea9f22198e24d075764a5ae85a5f779afb913b99e34d0fa8b86812fa8dc8a": {
+        "title": "全国首个体育古籍专题数据库上线，识典古籍联合北京体育大学共建",
+        "link": "https://www.leiphone.com/category/industrynews/UksxFvs1iGgNd0yG.html",
+        "published_date": "Tue, 14 Jul 2026 10:19:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639634"
+      },
+      "dafc4927fbdd7c060da4eb75656931ed2c4b94e7ae4fdf5a1a799391865b8a41": {
+        "title": "深耕校园场景，企鹅科技成支付宝首批“碰一下”进校企业",
+        "link": "https://www.leiphone.com/category/industrynews/dXk6ZqqmqwtAyFZD.html",
+        "published_date": "Tue, 14 Jul 2026 10:11:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639635"
+      },
+      "71bc21a0142380dd5010bd3734d9df4eb209d813a93a9c3373be97fe9bac5e9a": {
+        "title": "上市造富！长鑫近2万员工每人可分超百万，有人因工作强度离开；海南将成中国首个禁售燃油车省份；曝字节跳动入局自动驾驶领域，官方回应",
+        "link": "https://www.leiphone.com/category/zaobao/mXH74oCuoPfxSBho.html",
+        "published_date": "Tue, 14 Jul 2026 08:38:00 GMT",
+        "first_seen": "2026-07-14T10:00:33.639637"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-14T07:11:12.694515",
-    "Finance": "2026-07-14T07:11:12.750906",
-    "Ai": "2026-07-14T07:11:13.903966"
+    "Technology": "2026-07-14T10:00:33.458480",
+    "Finance": "2026-07-14T10:00:33.511479",
+    "Ai": "2026-07-14T10:00:33.639639"
   }
 }

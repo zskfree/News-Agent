@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Jul 2026 07:11:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 07:11:12 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:00:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Last Mile of AI Adoption: Why Enterprise Data is Bottlenecking Even the Best Models</title>
-      <link>https://www.tmtpost.com/8064151.html</link>
-      <description>&lt;![CDATA[The Last Mile of AI Adoption: Why Enterprise Data is Bottlenecking Even the Best Models]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8064151.html</guid>
+      <title>国产算力“出息了”，国内首个全国产十万卡集群落地</title>
+      <link>https://www.tmtpost.com/8064226.html</link>
+      <description>&lt;![CDATA[国产算力“出息了”，国内首个全国产十万卡集群落地]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8064226.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践</title>
-      <link>https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环</title>
+      <link>https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agentic Enterprise：Snowflake AI 如何重新定义工作 ｜ Summit 2026</title>
+      <link>https://www.infoq.cn/video/7hqd5Z9AFMA6h9mtcrtA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agentic Enterprise：Snowflake AI 如何重新定义工作 ｜ Summit 2026]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/7hqd5Z9AFMA6h9mtcrtA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地</title>
-      <link>https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用</title>
+      <link>https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证</title>
-      <link>https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践</title>
+      <link>https://www.infoq.cn/article/SEXa3rsGTsStXM7lV7al?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SEXa3rsGTsStXM7lV7al?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了</title>
-      <link>https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果诉OpenAI：一场400人“搬家”引发的硬件主权战争</title>
+      <link>https://www.tmtpost.com/8061734.html</link>
+      <description>&lt;![CDATA[苹果诉OpenAI：一场400人“搬家”引发的硬件主权战争]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061734.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Block将约450个JVM仓库迁入monorepo以降低依赖漂移</title>
-      <link>https://www.infoq.cn/article/kCkoct1dbzjvDBsmjOFx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Block将约450个JVM仓库迁入monorepo以降低依赖漂移]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kCkoct1dbzjvDBsmjOFx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌</title>
+      <link>https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用</title>
-      <link>https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑</title>
+      <link>https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾行业的2026上半年：兜底成为新门槛，淘汰赛加速</title>
-      <link>https://www.tmtpost.com/8063386.html</link>
-      <description>&lt;![CDATA[智驾行业的2026上半年：兜底成为新门槛，淘汰赛加速]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8063386.html</guid>
+      <title>【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划</title>
+      <link>https://www.tmtpost.com/8063498.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8063498.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>就是这5个词，锁死了你们的供应链。华为、美的、联想、大疆……全一个样。</title>
-      <link>https://www.tmtpost.com/8063726.html</link>
-      <description>&lt;![CDATA[就是这5个词，锁死了你们的供应链。华为、美的、联想、大疆……全一个样。]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8063726.html</guid>
+      <title>同样解禁，智谱和MiniMax股价为何走出冰火两重天？</title>
+      <link>https://www.tmtpost.com/8064017.html</link>
+      <description>&lt;![CDATA[同样解禁，智谱和MiniMax股价为何走出冰火两重天？]]&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8064017.html</guid>
       <category>Technology</category>
     </item>
   </channel>
