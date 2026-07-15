@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 23:56
+**最后更新时间**: 2026-07-15 07:17
+
+---
+
+## 🆕 最新更新 (2026-07-15 07:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [ASML raises forecasts as AI boom drives chipmaking demand](https://www.ft.com/content/731ec5ef-e9e1-40f5-b0bd-09e71787a938)
+**发布时间**: 2026-07-15 05:54
+
+#### [China’s economy grows at one of lowest rates in decades](https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab)
+**发布时间**: 2026-07-15 05:53
+
+#### [Chipmaker CXMT seeks $10bn in largest China IPO since 2010](https://www.ft.com/content/fcfbcbc0-181f-49ce-bda8-c4133e09695c)
+**发布时间**: 2026-07-15 04:55
+
+#### [The race to break China’s metals grip](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7)
+**发布时间**: 2026-07-15 04:00
+
+#### [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd)
+**发布时间**: 2026-07-15 04:00
+
+#### [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c)
+**发布时间**: 2026-07-15 04:00
+
+#### [Ukraine to buy Chinese drone parts with EU funds](https://www.ft.com/content/f6cf99e0-21f7-47c0-b5b1-64b77c18d204)
+**发布时间**: 2026-07-15 04:00
+
+#### [BYD can take Toyota’s crown without the US market, says top executive](https://www.ft.com/content/ee2919bc-d6f3-4e07-b823-983265b0b8f9)
+**发布时间**: 2026-07-15 04:00
+
+#### [Trump’s return to war with Iran offers no clear path to victory](https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698)
+**发布时间**: 2026-07-15 02:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump](https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 00:28
+
+#### [Your monthly Netflix bill is up 29% in just over a year. It’s time for Washington to step in.](https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 22:11
 
 ---
 

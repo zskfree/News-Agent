@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Jul 2026 23:54:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 23:56:23 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 07:14:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:17:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering</title>
-      <link>https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</link>
-      <description>&lt;![CDATA[Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714</guid>
+      <title>豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座</title>
+      <link>https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html</link>
+      <description>&lt;![CDATA[豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency</title>
-      <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
-      <description>&lt;![CDATA[Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</guid>
+      <title>百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相</title>
+      <link>https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html</link>
+      <description>&lt;![CDATA[百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</link>
-      <description>&lt;![CDATA[Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</guid>
+      <title>直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相</title>
+      <link>https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html</link>
+      <description>&lt;![CDATA[直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，一个免费AI Coding选手杀入全球第一梯队</title>
-      <link>https://www.qbitai.com/2026/07/448475.html</link>
-      <description>&lt;![CDATA[刚刚，一个免费AI Coding选手杀入全球第一梯队]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/448475.html</guid>
+      <title>登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了</title>
+      <link>https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html</link>
+      <description>&lt;![CDATA[登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阶跃入局，重构智能体时代操作系统</title>
-      <link>https://www.qbitai.com/2026/07/449979.html</link>
-      <description>&lt;![CDATA[阶跃入局，重构智能体时代操作系统]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449979.html</guid>
+      <title>又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级</title>
+      <link>https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html</link>
+      <description>&lt;![CDATA[又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资</title>
-      <link>https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</link>
-      <description>&lt;![CDATA[独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 18:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html</guid>
+      <title>佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网</title>
+      <link>https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html</link>
+      <description>&lt;![CDATA[佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百年德国「战车」征服欧陆，驾驶位上是中国AI司机</title>
-      <link>https://www.qbitai.com/2026/07/449850.html</link>
-      <description>&lt;![CDATA[百年德国「战车」征服欧陆，驾驶位上是中国AI司机]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449850.html</guid>
+      <title>2026-07-15日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-15/</link>
+      <description>&lt;![CDATA[2026-07-15日刊]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-15/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了</title>
-      <link>https://www.qbitai.com/2026/07/449906.html</link>
-      <description>&lt;![CDATA[马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449906.html</guid>
+      <title>不是吧OpenAI首款硬件吹半天就是个AI音箱？？</title>
+      <link>https://www.qbitai.com/2026/07/450385.html</link>
+      <description>&lt;![CDATA[不是吧OpenAI首款硬件吹半天就是个AI音箱？？]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 04:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450385.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</link>
-      <description>&lt;![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 2]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 16:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Scaling medical content review at Flo Health with Amazon Bedrock – Part 2</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</link>
-      <description>&lt;![CDATA[Scaling medical content review at Flo Health with Amazon Bedrock – Part 2]]&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/</guid>
+      <title>估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO</title>
+      <link>https://www.qbitai.com/2026/07/450101.html</link>
+      <description>&lt;![CDATA[估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 00:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450101.html</guid>
       <category>Ai</category>
     </item>
   </channel>

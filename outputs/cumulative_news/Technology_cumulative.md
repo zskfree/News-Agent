@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 23:56
+**最后更新时间**: 2026-07-15 07:17
+
+---
+
+## 🆕 最新更新 (2026-07-15 07:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害](https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 15:00
+
+#### [Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移](https://www.infoq.cn/article/T4BhLjLfHYBC8rNfQVxe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 13:00
+
+#### [WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件](https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 11:29
+
+#### [当数据库的两端，都不再是人](https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 10:42
+
+#### [当编码不再是瓶颈：跨越 Coding Agent 规模化后的流程与成本双困局｜AICon深圳](https://www.infoq.cn/article/1JIiNLEgyJ2UEPwS825r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 10:00
+
+#### [Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则](https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 09:43
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [DeepSeek冲刺IPO，“AI四小强”的估值都要重算了](https://www.tmtpost.com/8065869.html)
+**发布时间**: 2026-07-15 14:33
+
+#### [AI Coding的价值，正在从“谁的模型更强”悄悄转向“谁的工具链更密”](https://www.tmtpost.com/8065866.html)
+**发布时间**: 2026-07-15 14:26
+
+#### [同样面临口碑争议，《功夫女足》票房为何远强于《新喜剧之王》？](https://www.tmtpost.com/8064916.html)
+**发布时间**: 2026-07-15 14:08
+
+#### [AI玩具狂飙，风口还是裸泳？](https://www.tmtpost.com/8065146.html)
+**发布时间**: 2026-07-15 14:02
+
+#### [麦当娜，撑不起一部音乐传记片？](https://www.tmtpost.com/8064920.html)
+**发布时间**: 2026-07-15 14:02
+
+#### [《八仙》如何修得“文武双全”？](https://www.tmtpost.com/8065755.html)
+**发布时间**: 2026-07-15 13:44
+
+#### [又一个电池大厂，宣告破产](https://www.tmtpost.com/8065659.html)
+**发布时间**: 2026-07-15 13:44
+
+#### [孙洁教授：双轨制破局，商保激活创新药落地“最后一公里”](https://www.tmtpost.com/8065619.html)
+**发布时间**: 2026-07-15 13:09
+
+#### [迪哲的回旋镖](https://www.tmtpost.com/8065643.html)
+**发布时间**: 2026-07-15 13:01
+
+#### [AI 大厂集体转向，大模型迎来“杰文斯时刻”](https://www.tmtpost.com/8065636.html)
+**发布时间**: 2026-07-15 12:58
+
+#### [Open AI和阶跃星辰同时亮剑，硬刚AI硬件](https://www.tmtpost.com/8065629.html)
+**发布时间**: 2026-07-15 12:53
+
+#### [承包商场“半壁江山”，自助餐为什么越开越多？](https://www.tmtpost.com/8065623.html)
+**发布时间**: 2026-07-15 12:49
+
+#### [一家东莞小厂，被“万店巨头”捧成年入21亿的隐形冠军](https://www.tmtpost.com/8065618.html)
+**发布时间**: 2026-07-15 12:49
+
+#### [圆通、中通、申通、韵达，“三通一达”的暗战远未终结](https://www.tmtpost.com/8065596.html)
+**发布时间**: 2026-07-15 12:40
+
+#### [时间之翼：C罗的黄昏](https://www.tmtpost.com/8065608.html)
+**发布时间**: 2026-07-15 12:40
+
+#### [街头足球正在从日常生活中退出，巴西足球怎么了？](https://www.tmtpost.com/8065593.html)
+**发布时间**: 2026-07-15 12:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲](https://sspai.com/post/112243)
+**发布时间**: 2026-07-15 11:00
+
+#### [派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等](https://sspai.com/post/112334)
+**发布时间**: 2026-07-15 08:19
 
 ---
 
