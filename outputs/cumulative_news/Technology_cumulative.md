@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-15 07:17
+**最后更新时间**: 2026-07-15 10:06
+
+---
+
+## 🆕 最新更新 (2026-07-15 10:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [人人想造Codex，但Agent正在接管的不只是你的代码 | ToB产业观察](https://www.tmtpost.com/8065779.html)
+**发布时间**: 2026-07-15 17:55
+
+#### [今麦郎携5元新品“茶中贵族”，杀入无糖茶赛道](https://www.tmtpost.com/8065160.html)
+**发布时间**: 2026-07-15 16:45
+
+#### [薄巧味的史迪奇，迪士尼IP消费“招牌厨艺”](https://www.tmtpost.com/8065617.html)
+**发布时间**: 2026-07-15 16:44
+
+#### [客户的钱还在，只是绕过了IBM](https://www.tmtpost.com/8066011.html)
+**发布时间**: 2026-07-15 16:42
+
+#### [旷视科技就这么没了](https://www.tmtpost.com/8065965.html)
+**发布时间**: 2026-07-15 16:34
+
+#### [从制造焦虑到针对需求，防晒赛道终于“祛魅”了](https://www.tmtpost.com/8066033.html)
+**发布时间**: 2026-07-15 16:34
+
+#### [《哪吒 2》之后最像《哪吒》的电影出现了，很多人猜它即将大爆，我来说说为什么](https://www.tmtpost.com/8065557.html)
+**发布时间**: 2026-07-15 16:30
+
+#### [暴涨99%，安徽半导体巨头，狂砸75亿扩产](https://www.tmtpost.com/8065233.html)
+**发布时间**: 2026-07-15 16:29
+
+#### [法国如何成为欧洲最大的球员输出国？](https://www.tmtpost.com/8065961.html)
+**发布时间**: 2026-07-15 16:29
+
+#### [Anthropic为什么不做硬件？](https://www.tmtpost.com/8065992.html)
+**发布时间**: 2026-07-15 16:15
+
+#### [印奇为什么造了一部不打算卖的手机？](https://www.tmtpost.com/8066008.html)
+**发布时间**: 2026-07-15 16:14
+
+#### [DeepSeek Explores IPO and Fresh Funding Just Weeks After Landmark $7 Billion Round](https://www.tmtpost.com/8066015.html)
+**发布时间**: 2026-07-15 15:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
+**发布时间**: 2026-07-15 17:00
+
+#### [具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性](https://sspai.com/post/112338)
+**发布时间**: 2026-07-15 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WAIC 最热闹的时刻，我们帮你筛掉噪音](https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 16:00
 
 ---
 

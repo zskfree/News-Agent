@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Jul 2026 07:14:00 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 07:17:10 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 10:04:00 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:06:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,75 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座</title>
-      <link>https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html</link>
-      <description>&lt;![CDATA[豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 12:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html</guid>
+      <title>独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能</title>
+      <link>https://www.leiphone.com/category/ai/mbQ4vuafsYYdWzsj.html</link>
+      <description>&lt;![CDATA[独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/mbQ4vuafsYYdWzsj.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相</title>
-      <link>https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html</link>
-      <description>&lt;![CDATA[百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html</guid>
+      <title>中科大 Labimus：机器人化学家要上岗，先得考过这场试</title>
+      <link>https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html</link>
+      <description>&lt;![CDATA[中科大 Labimus：机器人化学家要上岗，先得考过这场试]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相</title>
-      <link>https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html</link>
-      <description>&lt;![CDATA[直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html</guid>
+      <title>人在Meta，休个病假/产假转身被AI裁了？？</title>
+      <link>https://www.qbitai.com/2026/07/450709.html</link>
+      <description>&lt;![CDATA[人在Meta，休个病假/产假转身被AI裁了？？]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450709.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了</title>
-      <link>https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html</link>
-      <description>&lt;![CDATA[登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html</guid>
+      <title>我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布</title>
+      <link>https://www.qbitai.com/2026/07/450130.html</link>
+      <description>&lt;![CDATA[我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 08:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450130.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级</title>
-      <link>https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html</link>
-      <description>&lt;![CDATA[又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网</title>
-      <link>https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html</link>
-      <description>&lt;![CDATA[佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 11:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-07-15日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-15/</link>
-      <description>&lt;![CDATA[2026-07-15日刊]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-15/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不是吧OpenAI首款硬件吹半天就是个AI音箱？？</title>
-      <link>https://www.qbitai.com/2026/07/450385.html</link>
-      <description>&lt;![CDATA[不是吧OpenAI首款硬件吹半天就是个AI音箱？？]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 04:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450385.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO</title>
-      <link>https://www.qbitai.com/2026/07/450101.html</link>
-      <description>&lt;![CDATA[估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 00:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450101.html</guid>
+      <title>马斯克也开始L4降维L2了！FSD正式进入反转时刻</title>
+      <link>https://www.qbitai.com/2026/07/450657.html</link>
+      <description>&lt;![CDATA[马斯克也开始L4降维L2了！FSD正式进入反转时刻]]&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450657.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-15 07:17
+**最后更新时间**: 2026-07-15 10:06
+
+---
+
+## 🆕 最新更新 (2026-07-15 10:06)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [It’s boom and bust in the hedge-fund world as both liquidations and new launches spike](https://www.marketwatch.com/story/its-boom-and-bust-in-the-hedge-fund-world-as-both-liquidations-and-new-launches-spike-0c99b896?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 09:49
+
+#### [Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.](https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 09:36
+
+#### [Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn’t enough.](https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 09:20
+
+#### [‘I don’t want to sound callous’: Nobody knows when they’ll die. Don’t base when you claim Social Security on that.](https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 09:15
+
+#### [ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter](https://www.marketwatch.com/story/asml-is-scrambling-to-build-more-capacity-after-blockbuster-beat-and-raise-quarter-89e2febb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 09:04
+
+#### [Still struggling to find a buyer, actress Aubrey Plaza cuts price of $5 million L.A. home](https://www.marketwatch.com/story/still-struggling-to-find-a-buyer-actress-aubrey-plaza-cuts-price-of-5-million-l-a-home-2907691c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stripe and Advent make $53bn bid for PayPal](https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e)
+**发布时间**: 2026-07-15 05:54
+
+#### [The global minerals arms race](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7)
+**发布时间**: 2026-07-15 04:00
+
+#### [China Evergrande liquidators warn PwC partners not to use divorce to shield assets](https://www.ft.com/content/89e3a153-2e87-4ba0-9174-69dcaa3bd5be)
+**发布时间**: 2026-07-15 03:14
+
+#### [Brinkmanship in the Strait of Hormuz](https://www.ft.com/content/862aa8f3-2e08-4dbc-ba7f-e85a69b25748)
+**发布时间**: 2026-07-14 17:37
 
 ---
 
