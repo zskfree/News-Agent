@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-15 10:06
+**最后更新时间**: 2026-07-16 00:00
+
+---
+
+## 🆕 最新更新 (2026-07-16 00:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt](https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 23:34
+
+#### [‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.](https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 23:00
+
+#### [Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.](https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 22:40
+
+#### [My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?](https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 22:35
+
+#### [You are missing the bond deal of the decade — and it is guaranteed to beat inflation](https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 22:21
+
+#### [Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends](https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 22:20
+
+#### [This powerful stock-market momentum trade has hit a wall after seeing biggest unwind since 2001](https://www.marketwatch.com/story/this-powerful-stock-market-momentum-trade-has-hit-a-wall-after-seeing-biggest-unwind-since-2001-52ad4151?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 22:10
+
+#### [A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry](https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 21:43
+
+#### [SpaceX’s stock breaks below its IPO price for the first time. Why it could still fall further.](https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 21:40
+
+#### [What makes this cyclospora outbreak different — and why it might not end until August](https://www.marketwatch.com/story/what-makes-this-cyclospora-outbreak-different-and-why-it-might-not-end-until-august-e54cd0b1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 21:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US hits tanker heading for Kharg Island under renewed Iran blockade](https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44)
+**发布时间**: 2026-07-15 23:34
+
+#### [Blanche grilled over loyalty to Trump in tense confirmation hearing](https://www.ft.com/content/f96ac6cc-6185-46e2-ad7f-3b145b45df27)
+**发布时间**: 2026-07-15 20:23
+
+#### [SpaceX sell-off wipes $1tn from Musk’s rocket group](https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede)
+**发布时间**: 2026-07-15 20:03
+
+#### [Oil traders warn market is close to running on empty as Hormuz shuts again](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf)
+**发布时间**: 2026-07-15 19:49
+
+#### [Dan Ives and Trump family-linked securities group launch AI bank, because why not?](https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc)
+**发布时间**: 2026-07-15 19:43
+
+#### [US troops to get testosterone treatment to make them strong](https://www.ft.com/content/c4c8b9e0-3149-4e0a-b585-5a5c8d2b878e)
+**发布时间**: 2026-07-15 19:33
+
+#### [Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model](https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf)
+**发布时间**: 2026-07-15 18:57
+
+#### [Billionaires who fled California wealth tax risk intrusive residency audit](https://www.ft.com/content/3fb5fa27-ba9e-44e6-a56a-a347b515cdb6)
+**发布时间**: 2026-07-15 04:00
 
 ---
 
