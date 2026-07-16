@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 07:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 07:27:52 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 10:09:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:11:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？</title>
-      <link>https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html</link>
-      <description>&lt;![CDATA[ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html</guid>
+      <title>国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题</title>
+      <link>https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html</link>
+      <description>&lt;![CDATA[国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？</title>
-      <link>https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html</link>
-      <description>&lt;![CDATA[给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html</guid>
+      <title>专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026</title>
+      <link>https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html</link>
+      <description>&lt;![CDATA[专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界</title>
-      <link>https://www.qbitai.com/2026/07/450896.html</link>
-      <description>&lt;![CDATA[用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450896.html</guid>
+      <title>2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局</title>
+      <link>https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html</link>
+      <description>&lt;![CDATA[2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从上海到世界：WAICA正以“AI原生”范式重写顶会规则</title>
-      <link>https://www.qbitai.com/2026/07/450917.html</link>
-      <description>&lt;![CDATA[从上海到世界：WAICA正以“AI原生”范式重写顶会规则]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 04:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450917.html</guid>
+      <title>行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放</title>
+      <link>https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html</link>
+      <description>&lt;![CDATA[行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI 一夜重置全员额度，800 万开发者集体「续命」</title>
-      <link>https://www.leiphone.com/category/yanxishe/twBDwHXZSfeUeRJf.html</link>
-      <description>&lt;![CDATA[OpenAI 一夜重置全员额度，800 万开发者集体「续命」]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/twBDwHXZSfeUeRJf.html</guid>
+      <title>不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”</title>
+      <link>https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html</link>
+      <description>&lt;![CDATA[不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>权威报告：阿里AI编程市场份额第一，超第二至第五名总和</title>
-      <link>https://www.leiphone.com/category/industrynews/NmzJRzjezIZgViCu.html</link>
-      <description>&lt;![CDATA[权威报告：阿里AI编程市场份额第一，超第二至第五名总和]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NmzJRzjezIZgViCu.html</guid>
+      <title>刚刚，逐际动力放出一段Demo，Figure：睡不着啊</title>
+      <link>https://www.qbitai.com/2026/07/451084.html</link>
+      <description>&lt;![CDATA[刚刚，逐际动力放出一段Demo，Figure：睡不着啊]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451084.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一句「哈哈」引发的苹果OpenAI窃密大战</title>
-      <link>https://www.qbitai.com/2026/07/450921.html</link>
-      <description>&lt;![CDATA[一句「哈哈」引发的苹果OpenAI窃密大战]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 04:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450921.html</guid>
+      <title>一位失忆患者，揭开了AI记忆的误区</title>
+      <link>https://www.qbitai.com/2026/07/451049.html</link>
+      <description>&lt;![CDATA[一位失忆患者，揭开了AI记忆的误区]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451049.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>告别&quot;随机抽卡&quot;，天工短剧工作台：让AI短剧制作第一次真正拥有导演思维！</title>
-      <link>https://www.leiphone.com/category/aijuejinzhi/bWfcIXnc8zsLX1GW.html</link>
-      <description>&lt;![CDATA[告别&quot;随机抽卡&quot;，天工短剧工作台：让AI短剧制作第一次真正拥有导演思维！]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/bWfcIXnc8zsLX1GW.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>穿越无人之海：斯年智驾驶出港口，奔向万里通途</title>
-      <link>https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html</link>
-      <description>&lt;![CDATA[穿越无人之海：斯年智驾驶出港口，奔向万里通途]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>一汽解放J6E大客户定制版批量交付，挚途L2++智驾系统成“快递神车”技术杀手锏</title>
-      <link>https://www.leiphone.com/category/transportation/jjTiiXkecAqmg6Sj.html</link>
-      <description>&lt;![CDATA[一汽解放J6E大客户定制版批量交付，挚途L2++智驾系统成“快递神车”技术杀手锏]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/jjTiiXkecAqmg6Sj.html</guid>
+      <title>2026-07-16日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-16/</link>
+      <description>&lt;![CDATA[2026-07-16日刊]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-16/</guid>
       <category>Ai</category>
     </item>
   </channel>

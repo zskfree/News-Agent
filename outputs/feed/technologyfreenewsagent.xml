@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 07:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 07:27:51 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 10:11:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:11:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达正在完成“五层蛋糕”闭环</title>
-      <link>https://www.tmtpost.com/8066264.html</link>
-      <description>&lt;![CDATA[英伟达正在完成“五层蛋糕”闭环]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066264.html</guid>
+      <title>台积电Q2净利暴增77%创新高：640亿不够，未来三年资本支出再上调</title>
+      <link>https://www.tmtpost.com/8067539.html</link>
+      <description>&lt;![CDATA[台积电Q2净利暴增77%创新高：640亿不够，未来三年资本支出再上调]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067539.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/8067651.html</link>
+      <description>&lt;![CDATA[AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067651.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球AI巨头集体调头：大模型的价格战结束了</title>
-      <link>https://www.tmtpost.com/8067236.html</link>
-      <description>&lt;![CDATA[全球AI巨头集体调头：大模型的价格战结束了]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067236.html</guid>
+      <title>反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away</title>
+      <link>https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力奔赴太空，航天AI开启产业新周期</title>
-      <link>https://www.tmtpost.com/8066555.html</link>
-      <description>&lt;![CDATA[算力奔赴太空，航天AI开启产业新周期]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066555.html</guid>
+      <title>谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同</title>
+      <link>https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>帮机器人“搞数据”：钱很多、泡沫很大</title>
-      <link>https://www.tmtpost.com/8066890.html</link>
-      <description>&lt;![CDATA[帮机器人“搞数据”：钱很多、泡沫很大]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066890.html</guid>
+      <title>Harness Engineering  构建可靠 Agent</title>
+      <link>https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Harness Engineering  构建可靠 Agent]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了</title>
-      <link>https://www.tmtpost.com/8066456.html</link>
-      <description>&lt;![CDATA[你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066456.html</guid>
+      <title>Edge AI Daily 早报（7月16日）</title>
+      <link>https://www.tmtpost.com/8066840.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（7月16日）]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8066840.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性</title>
-      <link>https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 09:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>上市，会改变DeepSeek吗？</title>
+      <link>https://www.tmtpost.com/8067219.html</link>
+      <description>&lt;![CDATA[上市，会改变DeepSeek吗？]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067219.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>基于 AT 协议架构构建高韧性本地优先应用</title>
-      <link>https://www.infoq.cn/article/jfLE6MAu0Bq8b4dsXG9y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基于 AT 协议架构构建高韧性本地优先应用]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jfLE6MAu0Bq8b4dsXG9y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果AI备案过关，但拿到的可能是一张旧门票</title>
+      <link>https://www.tmtpost.com/8067194.html</link>
+      <description>&lt;![CDATA[苹果AI备案过关，但拿到的可能是一张旧门票]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067194.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MONA走出爆款之后，小鹏开始回答规模问题</title>
-      <link>https://www.tmtpost.com/8066764.html</link>
-      <description>&lt;![CDATA[MONA走出爆款之后，小鹏开始回答规模问题]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066764.html</guid>
+      <title>XPeng Bets on Low-Cost AI to Scale Up Global SUV Sales</title>
+      <link>https://www.tmtpost.com/8067410.html</link>
+      <description>&lt;![CDATA[XPeng Bets on Low-Cost AI to Scale Up Global SUV Sales]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067410.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：国行版 Apple Intelligence 完成备案等</title>
-      <link>https://sspai.com/post/112373</link>
-      <description>&lt;![CDATA[派早报：国行版 Apple Intelligence 完成备案等]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112373</guid>
+      <title>125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施</title>
+      <link>https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

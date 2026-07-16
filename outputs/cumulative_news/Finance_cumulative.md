@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 07:27
+**最后更新时间**: 2026-07-16 10:11
+
+---
+
+## 🆕 最新更新 (2026-07-16 10:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [UnitedHealth’s stock rallies on improved outlook for the year](https://www.marketwatch.com/story/unitedhealths-stock-rallies-on-improved-outlook-for-the-year-ae05a63a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 10:08
+
+#### [Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue](https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 09:57
+
+#### [Hyundai Motor deal with SoftBank for Boston Dynamics stake is as wild as the robot videos](https://www.marketwatch.com/story/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos-222645e5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 09:49
+
+#### [I’m 67, own two mortgage-free homes worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?](https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 09:49
+
+#### [TSMC posts record quarter — but expectations are now ‘exceptionally high,’ says fund manager](https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 09:32
+
+#### [Alec and Hilaria Baldwin pull $19 million Hamptons home off the market—again](https://www.marketwatch.com/story/alec-and-hilaria-baldwin-pull-19-million-hamptons-home-off-the-marketagain-6505ebdd?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Thousands of Ukrainians protest against Zelenskyy’s firing of defence minister](https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0)
+**发布时间**: 2026-07-16 09:33
+
+#### [After the strongman](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6)
+**发布时间**: 2026-07-16 04:00
 
 ---
 

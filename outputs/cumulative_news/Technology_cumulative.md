@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 07:27
+**最后更新时间**: 2026-07-16 10:11
+
+---
+
+## 🆕 最新更新 (2026-07-16 10:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察](https://www.tmtpost.com/8067651.html)
+**发布时间**: 2026-07-16 18:04
+
+#### [同程的下一程](https://www.tmtpost.com/8067447.html)
+**发布时间**: 2026-07-16 17:31
+
+#### [每天增长100万用户，Codex总算扬眉吐气了](https://www.tmtpost.com/8067343.html)
+**发布时间**: 2026-07-16 16:56
+
+#### [60万亿打底！史诗级大蛋糕，来了](https://www.tmtpost.com/8067413.html)
+**发布时间**: 2026-07-16 16:56
+
+#### [今天，A股今年最大IPO打新了](https://www.tmtpost.com/8067214.html)
+**发布时间**: 2026-07-16 16:45
+
+#### [中国肿瘤发病风向“剧变”](https://www.tmtpost.com/8067026.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [操作系统，重新伟大](https://www.tmtpost.com/8067058.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [段永平“左手茅台，右手泡泡玛特”，消费股的春天来了？](https://www.tmtpost.com/8067106.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [CXO：反弹之矛](https://www.tmtpost.com/8067137.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [独家 | 小红书商业教育及到综行业群总经理纳什离职](https://www.tmtpost.com/8067134.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [苹果AI备案过关，但拿到的可能是一张旧门票](https://www.tmtpost.com/8067194.html)
+**发布时间**: 2026-07-16 16:27
+
+#### [台积电Q2净利暴增77%创新高：640亿不够，未来三年资本支出再上调](https://www.tmtpost.com/8067539.html)
+**发布时间**: 2026-07-16 16:17
+
+#### [量贩零食不需要玩规格套路](https://www.tmtpost.com/8066886.html)
+**发布时间**: 2026-07-16 16:05
+
+#### [电影寒冬里，影视公司们的副业有多野？](https://www.tmtpost.com/8066892.html)
+**发布时间**: 2026-07-16 16:04
+
+#### [安踏做不好安踏](https://www.tmtpost.com/8066922.html)
+**发布时间**: 2026-07-16 16:04
+
+#### [上市，会改变DeepSeek吗？](https://www.tmtpost.com/8067219.html)
+**发布时间**: 2026-07-16 16:04
+
+#### [没人敢豪赌赛力斯财报](https://www.tmtpost.com/8066367.html)
+**发布时间**: 2026-07-16 16:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away](https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 17:00
+
+#### [谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同](https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 16:00
+
+#### [Harness Engineering  构建可靠 Agent](https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 15:56
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
+**发布时间**: 2026-07-16 16:03
+
+#### [具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
+**发布时间**: 2026-07-16 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [终于有一个蒸馏 Apple 风格的 Skill 了，GitHub 上有 10.5K 人点赞。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535360&idx=1&sn=d694248b409b2f9430e55417e41d9205)
+**发布时间**: 2026-07-16 15:02
 
 ---
 
