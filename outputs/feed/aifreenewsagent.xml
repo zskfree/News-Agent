@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Jul 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 00:00:48 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 07:22:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:27:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI</title>
-      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
-      <description>&lt;![CDATA[NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
+      <title>ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？</title>
+      <link>https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html</link>
+      <description>&lt;![CDATA[ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Model Routing Is Simple. Until It Isn’t.</title>
-      <link>https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</link>
-      <description>&lt;![CDATA[Model Routing Is Simple. Until It Isn’t.]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</guid>
+      <title>给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？</title>
+      <link>https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html</link>
+      <description>&lt;![CDATA[给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>What building Shippy taught us about building agents</title>
-      <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
-      <description>&lt;![CDATA[What building Shippy taught us about building agents]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
+      <title>用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界</title>
+      <link>https://www.qbitai.com/2026/07/450896.html</link>
+      <description>&lt;![CDATA[用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 02:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450896.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/</link>
-      <description>&lt;![CDATA[Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/</guid>
+      <title>从上海到世界：WAICA正以“AI原生”范式重写顶会规则</title>
+      <link>https://www.qbitai.com/2026/07/450917.html</link>
+      <description>&lt;![CDATA[从上海到世界：WAICA正以“AI原生”范式重写顶会规则]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 04:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450917.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>3 Questions: Neural transparency and the future of AI design</title>
-      <link>https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715</link>
-      <description>&lt;![CDATA[3 Questions: Neural transparency and the future of AI design]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715</guid>
+      <title>OpenAI 一夜重置全员额度，800 万开发者集体「续命」</title>
+      <link>https://www.leiphone.com/category/yanxishe/twBDwHXZSfeUeRJf.html</link>
+      <description>&lt;![CDATA[OpenAI 一夜重置全员额度，800 万开发者集体「续命」]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/twBDwHXZSfeUeRJf.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Towards demystifying the creativity of diffusion models</title>
-      <link>https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/</link>
-      <description>&lt;![CDATA[Towards demystifying the creativity of diffusion models]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/</guid>
+      <title>权威报告：阿里AI编程市场份额第一，超第二至第五名总和</title>
+      <link>https://www.leiphone.com/category/industrynews/NmzJRzjezIZgViCu.html</link>
+      <description>&lt;![CDATA[权威报告：阿里AI编程市场份额第一，超第二至第五名总和]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NmzJRzjezIZgViCu.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>为什么Agentic CRM需要“真原生”架构？</title>
-      <link>https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html</link>
-      <description>&lt;![CDATA[为什么Agentic CRM需要“真原生”架构？]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html</guid>
+      <title>一句「哈哈」引发的苹果OpenAI窃密大战</title>
+      <link>https://www.qbitai.com/2026/07/450921.html</link>
+      <description>&lt;![CDATA[一句「哈哈」引发的苹果OpenAI窃密大战]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/450921.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著</title>
-      <link>https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html</link>
-      <description>&lt;![CDATA[支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html</guid>
+      <title>告别&quot;随机抽卡&quot;，天工短剧工作台：让AI短剧制作第一次真正拥有导演思维！</title>
+      <link>https://www.leiphone.com/category/aijuejinzhi/bWfcIXnc8zsLX1GW.html</link>
+      <description>&lt;![CDATA[告别&quot;随机抽卡&quot;，天工短剧工作台：让AI短剧制作第一次真正拥有导演思维！]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/bWfcIXnc8zsLX1GW.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry</title>
-      <link>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</link>
-      <description>&lt;![CDATA[NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/japan-ecosystem-2026/</guid>
+      <title>穿越无人之海：斯年智驾驶出港口，奔向万里通途</title>
+      <link>https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html</link>
+      <description>&lt;![CDATA[穿越无人之海：斯年智驾驶出港口，奔向万里通途]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/</link>
-      <description>&lt;![CDATA[Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance]]&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 18:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/</guid>
+      <title>一汽解放J6E大客户定制版批量交付，挚途L2++智驾系统成“快递神车”技术杀手锏</title>
+      <link>https://www.leiphone.com/category/transportation/jjTiiXkecAqmg6Sj.html</link>
+      <description>&lt;![CDATA[一汽解放J6E大客户定制版批量交付，挚途L2++智驾系统成“快递神车”技术杀手锏]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/jjTiiXkecAqmg6Sj.html</guid>
       <category>Ai</category>
     </item>
   </channel>

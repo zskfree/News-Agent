@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 00:00
+**最后更新时间**: 2026-07-16 07:27
+
+---
+
+## 🆕 最新更新 (2026-07-16 07:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施](https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 15:09
+
+#### [基于 AT 协议架构构建高韧性本地优先应用](https://www.infoq.cn/article/jfLE6MAu0Bq8b4dsXG9y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 11:17
+
+#### [从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳](https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 10:00
+
+#### [Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性](https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 09:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [XPeng Bets on Low-Cost AI to Scale Up Global SUV Sales](https://www.tmtpost.com/8067410.html)
+**发布时间**: 2026-07-16 14:42
+
+#### [全球AI巨头集体调头：大模型的价格战结束了](https://www.tmtpost.com/8067236.html)
+**发布时间**: 2026-07-16 12:17
+
+#### [安踏巨变](https://www.tmtpost.com/8066738.html)
+**发布时间**: 2026-07-16 12:13
+
+#### [阶跃手机的AI原生叙事，听听就好](https://www.tmtpost.com/8066662.html)
+**发布时间**: 2026-07-16 12:13
+
+#### [柠季买哈根达斯：交易锚点在哪里，未来考验有哪些｜独家](https://www.tmtpost.com/8066717.html)
+**发布时间**: 2026-07-16 12:13
+
+#### [全球销量下滑，中国市场还是宝马的“解药”吗？](https://www.tmtpost.com/8066995.html)
+**发布时间**: 2026-07-16 10:51
+
+#### [MONA走出爆款之后，小鹏开始回答规模问题](https://www.tmtpost.com/8066764.html)
+**发布时间**: 2026-07-16 10:51
+
+#### [算力奔赴太空，航天AI开启产业新周期](https://www.tmtpost.com/8066555.html)
+**发布时间**: 2026-07-16 09:23
+
+#### [特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](https://www.tmtpost.com/8066537.html)
+**发布时间**: 2026-07-16 09:23
+
+#### [帮机器人“搞数据”：钱很多、泡沫很大](https://www.tmtpost.com/8066890.html)
+**发布时间**: 2026-07-16 09:23
+
+#### [安踏的大将不够用了](https://www.tmtpost.com/8066560.html)
+**发布时间**: 2026-07-16 09:23
+
+#### [Edge AI Daily 早报（7月16日）](https://www.tmtpost.com/8066840.html)
+**发布时间**: 2026-07-16 08:29
+
+#### [英伟达正在完成“五层蛋糕”闭环](https://www.tmtpost.com/8066264.html)
+**发布时间**: 2026-07-16 08:10
+
+#### [你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了](https://www.tmtpost.com/8066456.html)
+**发布时间**: 2026-07-16 08:10
+
+#### [阶跃星辰被两面夹击](https://www.tmtpost.com/8066568.html)
+**发布时间**: 2026-07-16 08:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
+**发布时间**: 2026-07-16 10:58
+
+#### [派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
+**发布时间**: 2026-07-16 08:22
 
 ---
 

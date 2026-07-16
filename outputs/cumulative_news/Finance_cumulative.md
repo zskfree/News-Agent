@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 00:00
+**最后更新时间**: 2026-07-16 07:27
+
+---
+
+## 🆕 最新更新 (2026-07-16 07:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hungary’s regime change](https://www.ft.com/content/8a70ebb7-693d-497a-9b69-559ccbb7eee6)
+**发布时间**: 2026-07-16 04:00
+
+#### [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347)
+**发布时间**: 2026-07-16 04:00
+
+#### [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7)
+**发布时间**: 2026-07-16 04:00
+
+#### [Energy IPOs surge as investors hunt for ways to play AI boom](https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928)
+**发布时间**: 2026-07-16 04:00
+
+#### [India Inc goes on a foreign buying spree](https://www.ft.com/content/6ae0d120-0027-4351-a381-c73bb3a10808)
+**发布时间**: 2026-07-16 01:59
+
+#### [Messi punishes England to drive Argentina into World Cup final](https://www.ft.com/content/3ac2b0ff-b21d-4142-88f4-c6891abfa831)
+**发布时间**: 2026-07-16 01:25
+
+#### [US will not win Iran war from the air, Trump’s ex-defence chief warns](https://www.ft.com/content/80245363-32d8-4fe6-805f-c4e3dec6279c)
+**发布时间**: 2026-07-16 00:46
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AI is so big, it’s now impossible for investors to avoid](https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 00:59
+
+#### [United Airlines gets hit by a $6 billion added-fuel-cost headwind](https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 00:25
+
+#### [‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?](https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 00:00
 
 ---
 
