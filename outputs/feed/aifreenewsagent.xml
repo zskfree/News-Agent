@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 10:09:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 10:11:48 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:03:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题</title>
-      <link>https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html</link>
-      <description>&lt;![CDATA[国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html</guid>
+      <title>Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/</link>
+      <description>&lt;![CDATA[Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026</title>
-      <link>https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html</link>
-      <description>&lt;![CDATA[专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html</guid>
+      <title>Introducing Grok on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Introducing Grok on Amazon Bedrock]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局</title>
-      <link>https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html</link>
-      <description>&lt;![CDATA[2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html</guid>
+      <title>Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/</link>
+      <description>&lt;![CDATA[Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>挚达科技发布家庭及公共场景自动充电机器人解决方案</title>
+      <link>https://www.leiphone.com/category/transportation/lV4IbRbkPa4Urphm.html</link>
+      <description>&lt;![CDATA[挚达科技发布家庭及公共场景自动充电机器人解决方案]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 19:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/lV4IbRbkPa4Urphm.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb</link>
+      <description>&lt;![CDATA[NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Newer Models, Same Advantage</title>
+      <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
+      <description>&lt;![CDATA[Newer Models, Same Advantage]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 11:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价</title>
+      <link>https://www.qbitai.com/2026/07/451576.html</link>
+      <description>&lt;![CDATA[理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451576.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了</title>
+      <link>https://www.qbitai.com/2026/07/451403.html</link>
+      <description>&lt;![CDATA[全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451403.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
+      <description>&lt;![CDATA[Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</guid>
       <category>Ai</category>
     </item>
     <item>
       <title>行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放</title>
-      <link>https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html</link>
+      <link>https://www.leiphone.com/category/industrynews/RLQXM9HvJOa5hsu0.html</link>
       <description>&lt;![CDATA[行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 13:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”</title>
-      <link>https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html</link>
-      <description>&lt;![CDATA[不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”]]&gt;</description>
       <pubDate>Thu, 16 Jul 2026 13:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，逐际动力放出一段Demo，Figure：睡不着啊</title>
-      <link>https://www.qbitai.com/2026/07/451084.html</link>
-      <description>&lt;![CDATA[刚刚，逐际动力放出一段Demo，Figure：睡不着啊]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451084.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>一位失忆患者，揭开了AI记忆的误区</title>
-      <link>https://www.qbitai.com/2026/07/451049.html</link>
-      <description>&lt;![CDATA[一位失忆患者，揭开了AI记忆的误区]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/451049.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-07-16日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-16/</link>
-      <description>&lt;![CDATA[2026-07-16日刊]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-16/</guid>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RLQXM9HvJOa5hsu0.html</guid>
       <category>Ai</category>
     </item>
   </channel>

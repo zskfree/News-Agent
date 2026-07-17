@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 10:11:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 10:11:48 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:03:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>台积电Q2净利暴增77%创新高：640亿不够，未来三年资本支出再上调</title>
-      <link>https://www.tmtpost.com/8067539.html</link>
-      <description>&lt;![CDATA[台积电Q2净利暴增77%创新高：640亿不够，未来三年资本支出再上调]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067539.html</guid>
+      <title>【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元</title>
+      <link>https://www.tmtpost.com/8067923.html</link>
+      <description>&lt;![CDATA[【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067923.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8067651.html</link>
-      <description>&lt;![CDATA[AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067651.html</guid>
+      <title>押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇</title>
+      <link>https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 20:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away</title>
-      <link>https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>留给开源模型的时间，就剩6个月？</title>
+      <link>https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[留给开源模型的时间，就剩6个月？]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同</title>
-      <link>https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国AI编程的入口之战，Qoder先拿下半壁江山</title>
+      <link>https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国AI编程的入口之战，Qoder先拿下半壁江山]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Harness Engineering  构建可靠 Agent</title>
-      <link>https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Harness Engineering  构建可靠 Agent]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/4a2B42u4btbcGi6295ut?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Edge AI Daily 早报（7月16日）</title>
-      <link>https://www.tmtpost.com/8066840.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（7月16日）]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066840.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>上市，会改变DeepSeek吗？</title>
-      <link>https://www.tmtpost.com/8067219.html</link>
-      <description>&lt;![CDATA[上市，会改变DeepSeek吗？]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067219.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>苹果AI备案过关，但拿到的可能是一张旧门票</title>
-      <link>https://www.tmtpost.com/8067194.html</link>
-      <description>&lt;![CDATA[苹果AI备案过关，但拿到的可能是一张旧门票]]&gt;</description>
+      <title>操作系统，重新伟大</title>
+      <link>https://www.tmtpost.com/8067058.html</link>
+      <description>&lt;![CDATA[操作系统，重新伟大]]&gt;</description>
       <pubDate>Thu, 16 Jul 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067194.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067058.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>XPeng Bets on Low-Cost AI to Scale Up Global SUV Sales</title>
-      <link>https://www.tmtpost.com/8067410.html</link>
-      <description>&lt;![CDATA[XPeng Bets on Low-Cost AI to Scale Up Global SUV Sales]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067410.html</guid>
+      <title>IPO申购狂热之下，长鑫存储还要跨过两重关</title>
+      <link>https://www.tmtpost.com/8067850.html</link>
+      <description>&lt;![CDATA[IPO申购狂热之下，长鑫存储还要跨过两重关]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 20:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067850.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施</title>
-      <link>https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果智能入华，阿里百度赢麻</title>
+      <link>https://www.tmtpost.com/8067563.html</link>
+      <description>&lt;![CDATA[苹果智能入华，阿里百度赢麻]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067563.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>每天增长100万用户，Codex总算扬眉吐气了</title>
+      <link>https://www.tmtpost.com/8067343.html</link>
+      <description>&lt;![CDATA[每天增长100万用户，Codex总算扬眉吐气了]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067343.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性</title>
+      <link>https://sspai.com/post/112375</link>
+      <description>&lt;![CDATA[具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112375</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>芯片股波动，但阿斯麦永远赚钱</title>
+      <link>https://www.tmtpost.com/8067583.html</link>
+      <description>&lt;![CDATA[芯片股波动，但阿斯麦永远赚钱]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067583.html</guid>
       <category>Technology</category>
     </item>
   </channel>

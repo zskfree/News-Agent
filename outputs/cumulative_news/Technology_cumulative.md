@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 10:11
+**最后更新时间**: 2026-07-17 00:03
+
+---
+
+## 🆕 最新更新 (2026-07-17 00:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元](https://www.tmtpost.com/8067923.html)
+**发布时间**: 2026-07-17 07:20
+
+#### [微创甩包袱、天智航“蛇吞象”：一笔交易背后的各取所需与整合暗礁丨并购一线](https://www.tmtpost.com/8067890.html)
+**发布时间**: 2026-07-16 21:40
+
+#### [IPO申购狂热之下，长鑫存储还要跨过两重关](https://www.tmtpost.com/8067850.html)
+**发布时间**: 2026-07-16 20:51
+
+#### [自己吃预制菜，宠物吃小灶：鲜食狂飙](https://www.tmtpost.com/8067673.html)
+**发布时间**: 2026-07-16 18:53
+
+#### [芯片股波动，但阿斯麦永远赚钱](https://www.tmtpost.com/8067583.html)
+**发布时间**: 2026-07-16 18:53
+
+#### [2026年了，PD-1还能诞生新爆款吗？](https://www.tmtpost.com/8067638.html)
+**发布时间**: 2026-07-16 18:53
+
+#### [苹果智能入华，阿里百度赢麻](https://www.tmtpost.com/8067563.html)
+**发布时间**: 2026-07-16 18:53
+
+#### [皇冠新材：营收增速不及行业，毛利率逆势异动，不差钱仍募资补流｜IPO观察](https://www.tmtpost.com/8067321.html)
+**发布时间**: 2026-07-16 18:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇](https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 20:33
+
+#### [一件特有意思的事：「启发涌现」，邀你共建](https://www.infoq.cn/article/58aLq5Y7pHsmb0PfgU4O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 19:58
+
+#### [留给开源模型的时间，就剩6个月？](https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 18:51
+
+#### [“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”](https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 18:47
+
+#### [中国AI编程的入口之战，Qoder先拿下半壁江山](https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-16 18:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 246｜少数派的编辑们最近买了啥？](https://sspai.com/post/112400)
+**发布时间**: 2026-07-16 17:39
 
 ---
 

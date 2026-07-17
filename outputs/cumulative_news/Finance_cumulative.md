@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-16 10:11
+**最后更新时间**: 2026-07-17 00:03
+
+---
+
+## 🆕 最新更新 (2026-07-17 00:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls](https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 23:38
+
+#### [As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch](https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 23:36
+
+#### [Americans say they need $1.2 million to retire. Most are too deep in debt to get there.](https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 23:17
+
+#### [GE boosts profit outlook, but stock falls as booming order growth cools](https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 23:12
+
+#### [Netflix is getting stingier about its viewing data, and Wall Street isn’t happy](https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 22:45
+
+#### [He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now](https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 21:45
+
+#### [Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race](https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 21:32
+
+#### [‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?](https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories)
+**发布时间**: 2026-07-16 21:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US chip and memory stocks slide in fresh bout of Wall Street tumult](https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 21:14
+
+#### [Trump Media to sell high-speed access to president’s social media posts](https://www.ft.com/content/32db576f-4f53-47d2-b00c-2ad4e906952c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 20:56
+
+#### [Netflix shares slide on disappointing growth forecasts](https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 20:30
+
+#### [Zelenskyy government plunged into turmoil after defence minister fired](https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 18:32
+
+#### [Trump teleprompter operator faces scrutiny over prediction market bets](https://www.ft.com/content/7c315b15-1575-4a1b-aead-4d997a449940?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 16:54
+
+#### [Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline](https://www.ft.com/content/eb6e0b25-6682-46bc-a879-136a38d1d7d6?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 16:14
+
+#### [Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 09:51
+
+#### [A wealth tax in America? Not if Silicon Valley’s billionaires have their way](https://www.ft.com/content/d66976cd-acdf-46d3-bb34-e2419873ecdb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 04:00
+
+#### [The perks of parenting by spreadsheet](https://www.ft.com/content/8637838f-0787-4b4f-9fbf-6b1d71e65347?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 04:00
+
+#### [Conflicts of interest are back — and more blatant than ever](https://www.ft.com/content/5b63522b-485f-4213-a1d3-1c4936aa32a7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-16 04:00
 
 ---
 
