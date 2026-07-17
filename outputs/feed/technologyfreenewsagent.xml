@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 07:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 07:19:31 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:00:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂</title>
-      <link>https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 10:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>王坚：下一代基础模型，不在语言，而在科学数据</title>
+      <link>https://www.tmtpost.com/8069227.html</link>
+      <description>&lt;![CDATA[王坚：下一代基础模型，不在语言，而在科学数据]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069227.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限</title>
-      <link>https://www.tmtpost.com/8067981.html</link>
-      <description>&lt;![CDATA[Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067981.html</guid>
+      <title>OpenAI降价75%，奥特曼称是被DeepSeek逼的？</title>
+      <link>https://www.tmtpost.com/8069117.html</link>
+      <description>&lt;![CDATA[OpenAI降价75%，奥特曼称是被DeepSeek逼的？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069117.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能的真机数采，到了分水岭</title>
-      <link>https://www.tmtpost.com/8068523.html</link>
-      <description>&lt;![CDATA[具身智能的真机数采，到了分水岭]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068523.html</guid>
+      <title>5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻</title>
+      <link>https://www.tmtpost.com/8068786.html</link>
+      <description>&lt;![CDATA[5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068786.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板</title>
-      <link>https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market</title>
+      <link>https://www.tmtpost.com/8069058.html</link>
+      <description>&lt;![CDATA[Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069058.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi新模型K3刷屏，Coding得分超越Fable 5</title>
-      <link>https://www.tmtpost.com/8068444.html</link>
-      <description>&lt;![CDATA[Kimi新模型K3刷屏，Coding得分超越Fable 5]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 12:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068444.html</guid>
+      <title>亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面</title>
+      <link>https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两条AI赛道，一场消耗战：阿里与字节耐力对决</title>
-      <link>https://www.tmtpost.com/8068420.html</link>
-      <description>&lt;![CDATA[两条AI赛道，一场消耗战：阿里与字节耐力对决]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068420.html</guid>
+      <title>固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性</title>
+      <link>https://www.tmtpost.com/8069126.html</link>
+      <description>&lt;![CDATA[固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069126.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>埃森哲：Token税算不清，仅10%中国企业完成能力跃迁</title>
-      <link>https://www.tmtpost.com/8067223.html</link>
-      <description>&lt;![CDATA[埃森哲：Token税算不清，仅10%中国企业完成能力跃迁]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 13:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067223.html</guid>
+      <title>最近，投资人都在研究给机器人“喂饭”</title>
+      <link>https://www.tmtpost.com/8068658.html</link>
+      <description>&lt;![CDATA[最近，投资人都在研究给机器人“喂饭”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068658.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>未来的软件如何摆脱平台绑定？答案可能藏在数据格式里</title>
-      <link>https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[未来的软件如何摆脱平台绑定？答案可能藏在数据格式里]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打</title>
+      <link>https://www.tmtpost.com/8068435.html</link>
+      <description>&lt;![CDATA[Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068435.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？</title>
-      <link>https://www.tmtpost.com/8068297.html</link>
-      <description>&lt;![CDATA[纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068297.html</guid>
+      <title>从工具到引擎：AI重构分销增长新范式｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从工具到引擎：AI重构分销增长新范式｜AICon深圳]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化</title>
-      <link>https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Atlas关停，AI浏览器没有未来了吗？</title>
+      <link>https://www.tmtpost.com/8068694.html</link>
+      <description>&lt;![CDATA[Atlas关停，AI浏览器没有未来了吗？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068694.html</guid>
       <category>Technology</category>
     </item>
   </channel>

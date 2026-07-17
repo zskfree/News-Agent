@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 07:19
+**最后更新时间**: 2026-07-17 10:00
+
+---
+
+## 🆕 最新更新 (2026-07-17 10:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻](https://www.tmtpost.com/8068786.html)
+**发布时间**: 2026-07-17 17:53
+
+#### [加密行业，全员卷入 AI 军备竞赛](https://www.tmtpost.com/8068948.html)
+**发布时间**: 2026-07-17 17:36
+
+#### [北美AI短剧市场：大厂的游戏，中小公司纯靠赌？](https://www.tmtpost.com/8069234.html)
+**发布时间**: 2026-07-17 17:36
+
+#### [王坚：下一代基础模型，不在语言，而在科学数据](https://www.tmtpost.com/8069227.html)
+**发布时间**: 2026-07-17 17:31
+
+#### [OpenAI降价75%，奥特曼称是被DeepSeek逼的？](https://www.tmtpost.com/8069117.html)
+**发布时间**: 2026-07-17 17:20
+
+#### [从盈利到最高预亏18亿，赛力斯怎么了？](https://www.tmtpost.com/8069081.html)
+**发布时间**: 2026-07-17 17:20
+
+#### [阿里向左，字节向右](https://www.tmtpost.com/8069113.html)
+**发布时间**: 2026-07-17 17:20
+
+#### [资本抛弃阿胶，扎堆气血即食零食？](https://www.tmtpost.com/8069134.html)
+**发布时间**: 2026-07-17 17:15
+
+#### [固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性](https://www.tmtpost.com/8069126.html)
+**发布时间**: 2026-07-17 17:14
+
+#### [贴牌套路下的“AI研学”，又要催生一批网红科创城市了](https://www.tmtpost.com/8069120.html)
+**发布时间**: 2026-07-17 17:14
+
+#### [Token大厂，年亏3亿](https://www.tmtpost.com/8069114.html)
+**发布时间**: 2026-07-17 17:14
+
+#### [红果试水“AI续写”，互动内容的下一站是UGC？](https://www.tmtpost.com/8068893.html)
+**发布时间**: 2026-07-17 16:15
+
+#### [Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market](https://www.tmtpost.com/8069058.html)
+**发布时间**: 2026-07-17 16:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面](https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 17:00
+
+#### [Agent 沙箱体验计划｜点亮Cube Sandbox，在安全沙箱里释放你的Agent能力](https://xie.infoq.cn/article/615b3f8b86b0f9df5480f5d4f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 18:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
+**发布时间**: 2026-07-17 15:00
 
 ---
 

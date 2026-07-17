@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 07:19
+**最后更新时间**: 2026-07-17 10:00
+
+---
+
+## 🆕 最新更新 (2026-07-17 10:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bad week for ‘the ants’ as ripple effects of Korean crash spread out across Asia](https://www.marketwatch.com/story/bad-week-for-the-ants-as-ripple-effects-of-korean-crash-spread-out-across-asia-8a5e4a43?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 09:36
+
+#### [‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?](https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 09:30
+
+#### [Buyer snaps up Josh Duhamel’s $3 million L.A. home as actor embraces his Minnesota ‘doomsday prepper’ cabin](https://www.marketwatch.com/story/buyer-snaps-up-josh-duhamels-3-million-l-a-home-as-actor-embraces-his-minnesota-doomsday-prepper-cabin-6666879e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global tech stocks fall as AI trade goes into reverse](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 09:29
+
+#### [‘A casino for investors’: leverage brings huge swings to world’s best-performing market](https://www.ft.com/content/26ef9428-9445-4b34-8bdf-51166c7d4b3b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
+
+#### [Revolut and Spotify investor warns Europe over reliance on US tech](https://www.ft.com/content/cdc3adb4-50d3-4fea-b197-b9256fe10ed6?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
 
 ---
 
