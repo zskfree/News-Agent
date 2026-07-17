@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 00:03:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 00:03:05 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 07:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:19:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元</title>
-      <link>https://www.tmtpost.com/8067923.html</link>
-      <description>&lt;![CDATA[【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067923.html</guid>
+      <title>从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂</title>
+      <link>https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇</title>
-      <link>https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 20:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限</title>
+      <link>https://www.tmtpost.com/8067981.html</link>
+      <description>&lt;![CDATA[Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067981.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>留给开源模型的时间，就剩6个月？</title>
-      <link>https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[留给开源模型的时间，就剩6个月？]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具身智能的真机数采，到了分水岭</title>
+      <link>https://www.tmtpost.com/8068523.html</link>
+      <description>&lt;![CDATA[具身智能的真机数采，到了分水岭]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068523.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国AI编程的入口之战，Qoder先拿下半壁江山</title>
-      <link>https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中国AI编程的入口之战，Qoder先拿下半壁江山]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板</title>
+      <link>https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>操作系统，重新伟大</title>
-      <link>https://www.tmtpost.com/8067058.html</link>
-      <description>&lt;![CDATA[操作系统，重新伟大]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067058.html</guid>
+      <title>Kimi新模型K3刷屏，Coding得分超越Fable 5</title>
+      <link>https://www.tmtpost.com/8068444.html</link>
+      <description>&lt;![CDATA[Kimi新模型K3刷屏，Coding得分超越Fable 5]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068444.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IPO申购狂热之下，长鑫存储还要跨过两重关</title>
-      <link>https://www.tmtpost.com/8067850.html</link>
-      <description>&lt;![CDATA[IPO申购狂热之下，长鑫存储还要跨过两重关]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067850.html</guid>
+      <title>两条AI赛道，一场消耗战：阿里与字节耐力对决</title>
+      <link>https://www.tmtpost.com/8068420.html</link>
+      <description>&lt;![CDATA[两条AI赛道，一场消耗战：阿里与字节耐力对决]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068420.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果智能入华，阿里百度赢麻</title>
-      <link>https://www.tmtpost.com/8067563.html</link>
-      <description>&lt;![CDATA[苹果智能入华，阿里百度赢麻]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067563.html</guid>
+      <title>埃森哲：Token税算不清，仅10%中国企业完成能力跃迁</title>
+      <link>https://www.tmtpost.com/8067223.html</link>
+      <description>&lt;![CDATA[埃森哲：Token税算不清，仅10%中国企业完成能力跃迁]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067223.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>每天增长100万用户，Codex总算扬眉吐气了</title>
-      <link>https://www.tmtpost.com/8067343.html</link>
-      <description>&lt;![CDATA[每天增长100万用户，Codex总算扬眉吐气了]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067343.html</guid>
+      <title>未来的软件如何摆脱平台绑定？答案可能藏在数据格式里</title>
+      <link>https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[未来的软件如何摆脱平台绑定？答案可能藏在数据格式里]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性</title>
-      <link>https://sspai.com/post/112375</link>
-      <description>&lt;![CDATA[具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112375</guid>
+      <title>纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？</title>
+      <link>https://www.tmtpost.com/8068297.html</link>
+      <description>&lt;![CDATA[纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068297.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片股波动，但阿斯麦永远赚钱</title>
-      <link>https://www.tmtpost.com/8067583.html</link>
-      <description>&lt;![CDATA[芯片股波动，但阿斯麦永远赚钱]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067583.html</guid>
+      <title>SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化</title>
+      <link>https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

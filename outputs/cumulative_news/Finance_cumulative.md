@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 00:03
+**最后更新时间**: 2026-07-17 07:19
+
+---
+
+## 🆕 最新更新 (2026-07-17 07:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks fall as AI trade goes into reverse](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 06:52
+
+#### [AI isn’t destroying entry-level jobs. It’s changing them](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
+
+#### [Why Iran is returning to war](https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf)
+**发布时间**: 2026-07-17 04:00
+
+#### [The dangers of investor fatalism](https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
+
+#### [Hotel group Accor hired law firm to investigate conduct of CEO Bazin](https://www.ft.com/content/3bf0b475-21bb-4420-8402-57999ed91628?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
+
+#### [How far will Iran go for the Strait of Hormuz?](https://www.ft.com/content/ecf0a6cc-5de2-4a48-95aa-d0a459e5aff8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 04:00
+
+#### [Xi sets out China’s goal to be global AI leader](https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 03:59
+
+#### [Trump revives election meddling claims ahead of midterms](https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 02:54
+
+#### [Chinese AI start-up Moonshot launches model challenging Anthropic’s lead](https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 00:58
+
+#### [US escalates attacks on Iran as it expands range of targets](https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 00:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Micron has turned into ‘the most important stock in the market.’ So is it time to worry?](https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 02:11
+
+#### [10 U.S. metro areas where builders are slashing prices on new homes](https://www.marketwatch.com/story/10-u-s-metro-areas-where-builders-are-slashing-prices-on-new-homes-1eb19355?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 00:10
 
 ---
 

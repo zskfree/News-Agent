@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 00:03
+**最后更新时间**: 2026-07-17 07:19
+
+---
+
+## 🆕 最新更新 (2026-07-17 07:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [并购落空28亿定增接力，十倍牛股仕佳光子“大扩产”存误读](https://www.tmtpost.com/8068832.html)
+**发布时间**: 2026-07-17 14:59
+
+#### [追知工科完成数千万元种子轮融资，聚焦垂域工业智能体｜融资速递](https://www.tmtpost.com/8068067.html)
+**发布时间**: 2026-07-17 13:19
+
+#### [埃森哲：Token税算不清，仅10%中国企业完成能力跃迁](https://www.tmtpost.com/8067223.html)
+**发布时间**: 2026-07-17 13:17
+
+#### [Atlas关停，AI浏览器没有未来了吗？](https://www.tmtpost.com/8068694.html)
+**发布时间**: 2026-07-17 12:50
+
+#### [最近，投资人都在研究给机器人“喂饭”](https://www.tmtpost.com/8068658.html)
+**发布时间**: 2026-07-17 12:43
+
+#### [海思科的陡坡](https://www.tmtpost.com/8068605.html)
+**发布时间**: 2026-07-17 12:39
+
+#### [Kimi新模型K3刷屏，Coding得分超越Fable 5](https://www.tmtpost.com/8068444.html)
+**发布时间**: 2026-07-17 12:29
+
+#### [从盈利近5亿到持续亏损， 明阳智能“海上风电龙头”地位不再](https://www.tmtpost.com/8068591.html)
+**发布时间**: 2026-07-17 11:45
+
+#### [华住会上线旅居频道，酒店又开始抢长住旅居市场了？](https://www.tmtpost.com/8068501.html)
+**发布时间**: 2026-07-17 11:38
+
+#### [两条AI赛道，一场消耗战：阿里与字节耐力对决](https://www.tmtpost.com/8068420.html)
+**发布时间**: 2026-07-17 11:33
+
+#### [papi酱用AI制造了2026第一神曲](https://www.tmtpost.com/8068419.html)
+**发布时间**: 2026-07-17 11:29
+
+#### [“错过”独立上市后，张迪要在阿里造个可灵plus？](https://www.tmtpost.com/8068343.html)
+**发布时间**: 2026-07-17 11:23
+
+#### [京东与拼多多：互相羡慕，一起补课](https://www.tmtpost.com/8068272.html)
+**发布时间**: 2026-07-17 11:19
+
+#### [免费的早餐，这次酒店不想送了](https://www.tmtpost.com/8067969.html)
+**发布时间**: 2026-07-17 11:19
+
+#### [一年五次高管变动，安踏的品牌操盘手不够用了？](https://www.tmtpost.com/8066996.html)
+**发布时间**: 2026-07-17 11:19
+
+#### [Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限](https://www.tmtpost.com/8067981.html)
+**发布时间**: 2026-07-17 11:12
+
+#### [Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打](https://www.tmtpost.com/8068435.html)
+**发布时间**: 2026-07-17 11:09
+
+#### [净利暴增1019%，市值却缩水310亿，天赐材料怎么了？](https://www.tmtpost.com/8068116.html)
+**发布时间**: 2026-07-17 11:08
+
+#### [纯电、混动、燃料电池“夹击”下，氢内燃机还有没有“搞头”？](https://www.tmtpost.com/8068297.html)
+**发布时间**: 2026-07-17 11:08
+
+#### [具身智能的真机数采，到了分水岭](https://www.tmtpost.com/8068523.html)
+**发布时间**: 2026-07-17 11:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板](https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 14:15
+
+#### [SwiftData 迎来大升级：查询能力增强，支持第三方类型持久化](https://www.infoq.cn/article/q6ITZPjCW2ph1pEVhvOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 11:00
+
+#### [从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂](https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 10:09
+
+#### [从工具到引擎：AI重构分销增长新范式｜AICon深圳](https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 10:00
+
+#### [未来的软件如何摆脱平台绑定？答案可能藏在数据格式里](https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 09:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [UniGetUI：可能是 Windows 下最好用的应用商店](https://sspai.com/post/111128)
+**发布时间**: 2026-07-17 10:37
+
+#### [派早报：OPPO 宣布调整旗下子品牌的全球产品策略等](https://sspai.com/post/112414)
+**发布时间**: 2026-07-17 08:45
 
 ---
 
