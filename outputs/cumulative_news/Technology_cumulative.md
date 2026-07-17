@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 10:00
+**最后更新时间**: 2026-07-17 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-17 23:55)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [浙江美大拟易主，夏氏家族套现13亿，成立10天新公司接盘](https://www.tmtpost.com/8069698.html)
+**发布时间**: 2026-07-17 23:46
+
+#### [WAIC首日，无论你是否来了，都应该知道这些变化](https://www.tmtpost.com/8069485.html)
+**发布时间**: 2026-07-17 22:52
+
+#### [安踏品牌CEO徐阳离任；得物App首个AI鉴别机器人亮相WAIC；泡泡玛特王宁带队参访苹果总部；HOKA官宣品牌代言人侯明昊｜消研所周报](https://www.tmtpost.com/8069490.html)
+**发布时间**: 2026-07-17 19:26
+
+#### [The Labor of Machines: Why Capital is Valuing Unproven Robotics Companies at Billions](https://www.tmtpost.com/8069652.html)
+**发布时间**: 2026-07-17 19:26
+
+#### [Agent会干活了，却不会过日子](https://www.tmtpost.com/8068255.html)
+**发布时间**: 2026-07-17 18:37
+
+#### [30亿元分红、治理分第一，做文旅投资的人，现在都在盯这张新牌](https://www.tmtpost.com/8067666.html)
+**发布时间**: 2026-07-17 18:11
+
+#### [盒马“翻身”了，但还不能笑得太早](https://www.tmtpost.com/8068693.html)
+**发布时间**: 2026-07-17 18:11
+
+#### [半年亏损超40亿，广汽还能否迎来下一个3000万辆整车？](https://www.tmtpost.com/8069320.html)
+**发布时间**: 2026-07-17 18:01
+
+#### [「豆包二代手机」 幕后：字节和中兴「相互成全」](https://www.tmtpost.com/8067771.html)
+**发布时间**: 2026-07-17 17:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局](https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 22:08
+
+#### [搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC](https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 22:03
+
+#### [DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%](https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 21:24
+
+#### [WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系](https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 21:01
+
+#### [GOAI 世界人工智能开源大赛官网上线，全球报名正式开启](https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-17 19:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
+**发布时间**: 2026-07-17 17:57
 
 ---
 

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 10:00
+**最后更新时间**: 2026-07-17 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-17 23:55)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The World Cup–winning side will make $50 million — and the IRS gets a cut](https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 23:05
+
+#### [SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day](https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 22:55
+
+#### [Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley](https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 22:31
+
+#### [The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.](https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 21:55
+
+#### [19 (mostly) tech stocks that have fallen at least 25% in July](https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 21:45
+
+#### [How your winning stock-index fund can turn on a dime](https://www.marketwatch.com/story/how-your-winning-stock-index-fund-can-turn-on-a-dime-e2e4b44e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 21:23
+
+#### [Look on the bright side: Energy companies are booming](https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 21:08
+
+#### [Chip stocks have entered a bear market. A BofA analyst says not to panic.](https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 20:49
+
+#### [I racked up $35,000 in credit-card debt. Should I file for bankruptcy?](https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-17 20:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke](https://www.ft.com/content/fa4e24db-9324-47e2-8512-a581ca9c1aba?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 20:56
+
+#### [Trump Media pitched $100,000 monthly fee for fast feed of president’s posts](https://www.ft.com/content/e466df85-fa3b-4a7f-a4a1-ae04d66db99f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 20:24
+
+#### [US chip stocks notch up worst week in more than a year](https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 20:22
+
+#### [Apple briefly leapfrogs Nvidia as world’s most valuable company](https://www.ft.com/content/9586223a-8339-4a57-9e2f-251899ebd211?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 20:17
+
+#### [Meta and Anthropic in talks for up to $10bn data centre deal](https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 18:32
+
+#### [How long can oil markets absorb the Hormuz shock?](https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29)
+**发布时间**: 2026-07-17 17:52
+
+#### [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
+**发布时间**: 2026-07-17 17:00
+
+#### [Ukraine’s rift over battlefield strategy breaks into the open](https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 15:32
+
+#### [Trump envoy’s tour on $450mn superyacht stirs anger in Italy](https://www.ft.com/content/f5773412-4604-4078-9fc9-41b715326572?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 11:40
+
+#### [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 10:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 10:00:29 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:55:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>王坚：下一代基础模型，不在语言，而在科学数据</title>
-      <link>https://www.tmtpost.com/8069227.html</link>
-      <description>&lt;![CDATA[王坚：下一代基础模型，不在语言，而在科学数据]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069227.html</guid>
+      <title>搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC</title>
+      <link>https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI降价75%，奥特曼称是被DeepSeek逼的？</title>
-      <link>https://www.tmtpost.com/8069117.html</link>
-      <description>&lt;![CDATA[OpenAI降价75%，奥特曼称是被DeepSeek逼的？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069117.html</guid>
+      <title>AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局</title>
+      <link>https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻</title>
-      <link>https://www.tmtpost.com/8068786.html</link>
-      <description>&lt;![CDATA[5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068786.html</guid>
+      <title>WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系</title>
+      <link>https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market</title>
-      <link>https://www.tmtpost.com/8069058.html</link>
-      <description>&lt;![CDATA[Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069058.html</guid>
+      <title>DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%</title>
+      <link>https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 21:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面</title>
-      <link>https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent会干活了，却不会过日子</title>
+      <link>https://www.tmtpost.com/8068255.html</link>
+      <description>&lt;![CDATA[Agent会干活了，却不会过日子]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068255.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性</title>
-      <link>https://www.tmtpost.com/8069126.html</link>
-      <description>&lt;![CDATA[固态变压器的产业拐点：样品已出，规模部署仍卡在成本与可靠性]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069126.html</guid>
+      <title>「豆包二代手机」 幕后：字节和中兴「相互成全」</title>
+      <link>https://www.tmtpost.com/8067771.html</link>
+      <description>&lt;![CDATA[「豆包二代手机」 幕后：字节和中兴「相互成全」]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067771.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>最近，投资人都在研究给机器人“喂饭”</title>
-      <link>https://www.tmtpost.com/8068658.html</link>
-      <description>&lt;![CDATA[最近，投资人都在研究给机器人“喂饭”]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 12:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068658.html</guid>
+      <title>北美AI短剧市场：大厂的游戏，中小公司纯靠赌？</title>
+      <link>https://www.tmtpost.com/8069234.html</link>
+      <description>&lt;![CDATA[北美AI短剧市场：大厂的游戏，中小公司纯靠赌？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069234.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打</title>
-      <link>https://www.tmtpost.com/8068435.html</link>
-      <description>&lt;![CDATA[Q2手机市场：华为三星苹果吃肉，OPPO小米vivo挨打]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068435.html</guid>
+      <title>加密行业，全员卷入 AI 军备竞赛</title>
+      <link>https://www.tmtpost.com/8068948.html</link>
+      <description>&lt;![CDATA[加密行业，全员卷入 AI 军备竞赛]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068948.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从工具到引擎：AI重构分销增长新范式｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从工具到引擎：AI重构分销增长新范式｜AICon深圳]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wPNm4Qvak0PmHFSyJj9e?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“错过”独立上市后，张迪要在阿里造个可灵plus？</title>
+      <link>https://www.tmtpost.com/8068343.html</link>
+      <description>&lt;![CDATA[“错过”独立上市后，张迪要在阿里造个可灵plus？]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068343.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Atlas关停，AI浏览器没有未来了吗？</title>
-      <link>https://www.tmtpost.com/8068694.html</link>
-      <description>&lt;![CDATA[Atlas关停，AI浏览器没有未来了吗？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 12:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068694.html</guid>
+      <title>UniGetUI：可能是 Windows 下最好用的应用商店</title>
+      <link>https://sspai.com/post/111128</link>
+      <description>&lt;![CDATA[UniGetUI：可能是 Windows 下最好用的应用商店]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111128</guid>
       <category>Technology</category>
     </item>
   </channel>
