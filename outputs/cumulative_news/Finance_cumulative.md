@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-18 07:02
+**最后更新时间**: 2026-07-18 09:29
+
+---
+
+## 🆕 最新更新 (2026-07-18 09:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [German army looks to Ukraine for battlefield lessons](https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 09:00
+
+#### [Martin Wolf: the next crash — why this time might not be different](https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Your odyssey to see ‘The Odyssey’ matters](https://www.ft.com/content/4e809577-0133-4eae-b897-082b2026270c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Ukraine’s rift over military strategy breaks into the open](https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-17 15:32
 
 ---
 

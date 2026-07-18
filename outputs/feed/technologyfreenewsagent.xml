@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Jul 2026 07:02:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2026 07:03:02 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 09:29:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:29:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力定价权的转移——从&quot;你有多少张卡&quot;到&quot;Token成本多少&quot;</title>
+      <link>https://www.tmtpost.com/8070307.html</link>
+      <description>&lt;![CDATA[算力定价权的转移——从&quot;你有多少张卡&quot;到&quot;Token成本多少&quot;]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070307.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座</title>
-      <link>https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不止于 4K，火山引擎画质增强让视频从清晰走向细腻</title>
+      <link>https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不止于 4K，火山引擎画质增强让视频从清晰走向细腻]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果AI终于入华，但iPhone的“智能主权”开始松动</title>
-      <link>https://www.tmtpost.com/8070181.html</link>
-      <description>&lt;![CDATA[苹果AI终于入华，但iPhone的“智能主权”开始松动]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070181.html</guid>
+      <title>小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？</title>
+      <link>https://sspai.com/post/112398</link>
+      <description>&lt;![CDATA[小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112398</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国 AI 产业核心要素出海发展白皮书</title>
-      <link>https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中国 AI 产业核心要素出海发展白皮书]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>实测Kimi K3：强得意外，慢得着急</title>
+      <link>https://www.tmtpost.com/8069817.html</link>
+      <description>&lt;![CDATA[实测Kimi K3：强得意外，慢得着急]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069817.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实</title>
-      <link>https://www.tmtpost.com/8069767.html</link>
-      <description>&lt;![CDATA[2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069767.html</guid>
+      <title>火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」</title>
+      <link>https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC，我们看到这六个趋势</title>
-      <link>https://www.tmtpost.com/8070197.html</link>
-      <description>&lt;![CDATA[WAIC，我们看到这六个趋势]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070197.html</guid>
+      <title>Edge AI Daily 早报（7月18日）</title>
+      <link>https://www.tmtpost.com/8070162.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（7月18日）]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070162.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026 WAIC，具身首次走上神坛</title>
-      <link>https://www.tmtpost.com/8069915.html</link>
-      <description>&lt;![CDATA[2026 WAIC，具身首次走上神坛]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069915.html</guid>
+      <title>TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此</title>
+      <link>https://www.tmtpost.com/8070209.html</link>
+      <description>&lt;![CDATA[TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070209.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>复旦大学联合天空智算首发天地一体化算力智能体SatAgent</title>
-      <link>https://www.tmtpost.com/8070172.html</link>
-      <description>&lt;![CDATA[复旦大学联合天空智算首发天地一体化算力智能体SatAgent]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070172.html</guid>
+      <title>徕芬，把电机做成“芯片”</title>
+      <link>https://www.tmtpost.com/8070101.html</link>
+      <description>&lt;![CDATA[徕芬，把电机做成“芯片”]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070101.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 智能体算力消耗过快，传统账单风控跟不上速度</title>
-      <link>https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 智能体算力消耗过快，传统账单风控跟不上速度]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Uber与美团的代理人战争</title>
+      <link>https://www.tmtpost.com/8070286.html</link>
+      <description>&lt;![CDATA[Uber与美团的代理人战争]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070286.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MLCC产业通史（一）：命脉断供，英美雷达云母军工困局</title>
-      <link>https://www.tmtpost.com/8069499.html</link>
-      <description>&lt;![CDATA[MLCC产业通史（一）：命脉断供，英美雷达云母军工困局]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069499.html</guid>
+      <title>安踏CEO卸任，超级安踏错失了成为迪卡侬的机会？</title>
+      <link>https://www.tmtpost.com/8069792.html</link>
+      <description>&lt;![CDATA[安踏CEO卸任，超级安踏错失了成为迪卡侬的机会？]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069792.html</guid>
       <category>Technology</category>
     </item>
   </channel>

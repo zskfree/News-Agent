@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0bdd5961642b355e74ceeba991afa0d2a450860b8cf370ec828e2971c15015fe": {
-        "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
-        "link": "https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 12:02:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385619"
-      },
-      "d8ec1e0d5dddf7a3d831811928756152d8bf6055fde725f1e551ece436faa7d7": {
-        "title": "用结构替代数据，因果世界模型如何重塑具身智能大脑",
-        "link": "https://www.tmtpost.com/8033154.html",
-        "published_date": "Thu, 18 Jun 2026 14:45:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385633"
-      },
-      "203aca54470e887e5d916c780eaab19b71225ebf06c18873d57b17feade6e9e6": {
-        "title": "机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token",
-        "link": "https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 16:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385637"
-      },
-      "ca695824856f4a1cebf5367ac40a7779d3f555413d6af33902222510b7e3947a": {
-        "title": "Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力",
-        "link": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 11:35:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385639"
-      },
-      "c0aba9dd35caa8d56aec31b1859361cdea6862c1b10f86d49123deac2e821a31": {
-        "title": "当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/8033077.html",
-        "published_date": "Thu, 18 Jun 2026 13:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385641"
-      },
-      "f41f8e0b85d7c5d35ad81b746677987d796ff904f4161e9da856bd2e675b8992": {
-        "title": "SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-        "link": "https://www.tmtpost.com/8032956.html",
-        "published_date": "Thu, 18 Jun 2026 15:05:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385643"
-      },
-      "b4a40620049fb728c243f68401f2cad452e330b42723b3ec480d704965b98e83": {
-        "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
-        "link": "https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385644"
-      },
-      "23888d2f7507c504fc540a9fd26d3c21e065c3c4a6be0635e6e78d75a14df5ea": {
-        "title": "Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施",
-        "link": "https://www.infoq.cn/article/ftrYiDYaJmOeZcexSUMc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 14:18:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385645"
-      },
-      "b4db361230075bb1c873411d2dfa7ee191cf8289537390121550e7a5a6be61e5": {
-        "title": "TDSQL 分布式计算引擎版本演进介绍 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/bXpetQKhD4AcfU8dRQlP?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385647"
-      },
-      "c0ad787cb99648540d19c801b2aa3b500435766970538ccf17315e07bda289fc": {
-        "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
-        "link": "https://sspai.com/post/111198",
-        "published_date": "Thu, 18 Jun 2026 11:30:00 GMT",
-        "first_seen": "2026-06-18T09:17:52.385648"
-      },
       "7a7887ec8afcfeed5b7b60205487c41671c8bde141932c2efa1ae7c7f5bcef10": {
         "title": "智源王仲远：世界模型是通往物理AGI之桥",
         "link": "https://www.tmtpost.com/8032558.html",
@@ -4015,69 +3955,69 @@
         "link": "https://www.tmtpost.com/8069499.html",
         "published_date": "Sat, 18 Jul 2026 10:18:00 GMT",
         "first_seen": "2026-07-18T07:03:02.413450"
+      },
+      "7fa0c8eee345975c2d099b2c5d9f4960189c6c6a02bcc4083a03d5fac6a1ed80": {
+        "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
+        "link": "https://www.tmtpost.com/8070307.html",
+        "published_date": "Sat, 18 Jul 2026 15:32:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352081"
+      },
+      "4e5b10c723f3b7ca2671d045a986d9fff89265f0698ebc1a0b4d3d99976d1239": {
+        "title": "不止于 4K，火山引擎画质增强让视频从清晰走向细腻",
+        "link": "https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 08:43:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352089"
+      },
+      "3eab71c8750c8ab9fcd3993ea75ce493478693a3635708a675e3594a41748ee5": {
+        "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+        "link": "https://sspai.com/post/112398",
+        "published_date": "Sat, 18 Jul 2026 11:10:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352092"
+      },
+      "07222b0814ef4d099dd30509124291967256b55b91a80c004a4051f38091772c": {
+        "title": "实测Kimi K3：强得意外，慢得着急",
+        "link": "https://www.tmtpost.com/8069817.html",
+        "published_date": "Sat, 18 Jul 2026 15:24:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352093"
+      },
+      "1161a976385fd15914a1b394d7ef5956ffac4b1f387b21df5754073c757d002c": {
+        "title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
+        "link": "https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 17:14:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352095"
+      },
+      "4d7ba8eb3bd2c39585e9eeba618ca845d34e06234eb54c5c2b6b4bfe0b6b00a8": {
+        "title": "Edge AI Daily 早报（7月18日）",
+        "link": "https://www.tmtpost.com/8070162.html",
+        "published_date": "Sat, 18 Jul 2026 08:59:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352096"
+      },
+      "53359089034fff082ee5ccfcd9319b4dd96df2dc110c683e08ca844c50d58f25": {
+        "title": "TRAE Work上线 40 万字的“AI 打工说明书”！一手实测在此",
+        "link": "https://www.tmtpost.com/8070209.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352098"
+      },
+      "c902bf0c5b9bd59b455d3f99e9cd64621052d0b63aa085392e4ad47b5ed68238": {
+        "title": "徕芬，把电机做成“芯片”",
+        "link": "https://www.tmtpost.com/8070101.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352099"
+      },
+      "95530302df772665d0e8e74301e96c3a9577a2b1137cf5dd61a758f721798d66": {
+        "title": "Uber与美团的代理人战争",
+        "link": "https://www.tmtpost.com/8070286.html",
+        "published_date": "Sat, 18 Jul 2026 15:54:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352100"
+      },
+      "728f78e0daa42694f0c9446ac39388be02994bace349b6bfd03e4b2e51d9d9de": {
+        "title": "安踏CEO卸任，超级安踏错失了成为迪卡侬的机会？",
+        "link": "https://www.tmtpost.com/8069792.html",
+        "published_date": "Sat, 18 Jul 2026 10:48:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.352102"
       }
     },
     "Finance": {
-      "89a50c91f9dc35f6705d2d84e7e36afac46692c489c84a11c9c1f5558168b4f1": {
-        "title": "Intel shares rally as Trump says company will build chips for Apple in the U.S.",
-        "link": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 09:16:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519397"
-      },
-      "78a23f8c57057a4cdb8ce02cad6af232a6f748907edb46bbade9052e94e3eeec": {
-        "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff",
-        "link": "https://www.ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519406"
-      },
-      "9a1aece5a832d0e26946a03092b70b0c0ee55d6688dc5017584a12a5378f8d01": {
-        "title": "Inside the push to weaken Washington’s toughest financial watchdog",
-        "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 02:05:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519408"
-      },
-      "49d158f04d64ab4e6fc09ee01cf605b51e17298539c2c5340a88943dd06c0016": {
-        "title": "What is the point of Berkshire Hathaway?",
-        "link": "https://www.ft.com/content/6d48256f-dfdf-4fc0-b1ca-a38909e686eb",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519411"
-      },
-      "1da8c2dd438021bf76da0b60a88c3d73a07bdbbb9b47fb17876ce17326ce457e": {
-        "title": "Kevin Warsh’s debut",
-        "link": "https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e",
-        "published_date": "Thu, 18 Jun 2026 05:30:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519413"
-      },
-      "1e771fd8c3303d288166c1f2855ea98682ab88b777cb5094965d50adaa294ce3": {
-        "title": "BA owner warns EU competition rules make easyJet bid ‘very difficult’",
-        "link": "https://www.ft.com/content/f435414b-a07d-457e-b3e8-946b6ae7bfea",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519415"
-      },
-      "d8533a297438f6caef439b3c6e34beba379cce7fa088b91c4302815b885836c1": {
-        "title": "I inherited a $500,000 IRA. Can I reduce the tax burden by using it for my children’s education?",
-        "link": "https://www.marketwatch.com/story/i-inherited-a-500-000-ira-can-i-reduce-the-tax-burden-by-using-it-for-my-childrens-education-53ddaa0c?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 00:30:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519416"
-      },
-      "dbced706412cd0a84b328abbe8e904d33d1d10ec3074b7b8d5acc66eed9b1102": {
-        "title": "Scared to spend your retirement money? Here’s one way to get over the fear of running out.",
-        "link": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 00:43:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519418"
-      },
-      "1fd1991e8dcfb5ba6e74ba883446969f627969a6217fa1133a58e6aa9d72d582": {
-        "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
-        "link": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 09:15:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519419"
-      },
-      "fd9057b9009c49fd6592456440a2ad68feda1aa83e30fb27279844c16fc8527c": {
-        "title": "How Brexit still divides British voters",
-        "link": "https://www.ft.com/content/565655b0-f5bc-46a4-91fd-a560f05081f7",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:53.519421"
-      },
       "3ab7f5c1fedab488019cc0b954da62191be12f6e843897c10672f5e4de9b9270": {
         "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
         "link": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
@@ -7527,69 +7467,15 @@
         "link": "https://www.ft.com/content/58d83b39-79c6-41f0-89c8-04856483d4e1?syn-25a6b1a6=1",
         "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-18T07:03:01.285964"
+      },
+      "cd5fd09ba90a0ca889a160ce43f304c7572125a2822544b5cce5a06e5216758d": {
+        "title": "German army looks to Ukraine for battlefield lessons",
+        "link": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-18T09:29:02.248353"
       }
     },
     "Ai": {
-      "943bedbfaeffcdda18167d108258fcaa04b24ef34a8b4b2b8cf9592abefe3490": {
-        "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
-        "link": "https://www.qbitai.com/2026/06/436477.html",
-        "published_date": "Thu, 18 Jun 2026 05:12:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542708"
-      },
-      "9cce4630bd72091f34289b35b635d5137f559aaa3b260f892045e6e29abeb64a": {
-        "title": "国产算力正在进入Token标准化时代",
-        "link": "https://www.qbitai.com/2026/06/436468.html",
-        "published_date": "Thu, 18 Jun 2026 01:45:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542717"
-      },
-      "c9b2cec074deee393de3598a48fa0cdd9005b27f7f85b69d8fe77468752b2116": {
-        "title": "6家车圈大佬的共识：整车智能，不是座舱、智驾、底盘的“拼盘式”创新",
-        "link": "https://www.leiphone.com/category/transportation/6w8DWxLew4cLycEE.html",
-        "published_date": "Thu, 18 Jun 2026 09:55:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542720"
-      },
-      "859ab69d2e4c05555ddb1614922f2c93097972fc87809429bf591143aabe94e4": {
-        "title": "远景在欧洲科技峰会宣布Mission Gobi计划，用AI电力系统让全球戈壁成为下一代智能文明摇篮",
-        "link": "https://www.leiphone.com/category/industrynews/frLOH33sNcBUMfsf.html",
-        "published_date": "Thu, 18 Jun 2026 11:45:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542723"
-      },
-      "52dc1e8d4723615fa66c0ffc60c68e2aebce38708bd90e160c1b3e5f45eae4e0": {
-        "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-        "link": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-        "published_date": "Thu, 18 Jun 2026 06:00:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542726"
-      },
-      "0b6e745000031fe116bd5e5ca0c4ac2ad6344819ae42464f7e3bff33cdc3ddf6": {
-        "title": "湖畔对谈2026：华为无障碍的“八年长征”",
-        "link": "https://www.leiphone.com/category/weiwu/NFK0G1BOOsm9Pw3M.html",
-        "published_date": "Thu, 18 Jun 2026 14:56:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542729"
-      },
-      "01424b580bb6c11fc54c3c8e657edc46462a6fe498df08df86a669450cb3e5f5": {
-        "title": "星闪开源，能否打通万物互联的“最后一米”？",
-        "link": "https://www.leiphone.com/category/industrynews/v2aKtENZMX1cVTfl.html",
-        "published_date": "Thu, 18 Jun 2026 12:18:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542730"
-      },
-      "e0e6e947adf49fce281e1306a70e960261fadb14f8b074da9676d76fef98a9ee": {
-        "title": "AI定义汽车，赛豆科技发布AI汽车品牌AIVA",
-        "link": "https://www.leiphone.com/category/transportation/fztg9VvKwu7TX3mD.html",
-        "published_date": "Thu, 18 Jun 2026 11:56:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542732"
-      },
-      "cf89939c265adc82d2cce2f43c76f87ae1c1f57ebca3c13d769ed1c6c14a5fcf": {
-        "title": "独家丨无招上次「被卸任」钉钉CEO前夜",
-        "link": "https://www.leiphone.com/category/CorporateServices/p4O6pVPn2lB0mlrS.html",
-        "published_date": "Thu, 18 Jun 2026 11:54:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542734"
-      },
-      "743c34137f29d412f5cc8ae676ba78c4842829b78be395554b2394e3c7b42b11": {
-        "title": "钛动科技战略投资布局加速：以全球渠道与数据能力赋能创新企业",
-        "link": "https://www.leiphone.com/category/industrynews/0rp35cG1uA9fwKCY.html",
-        "published_date": "Thu, 18 Jun 2026 13:49:00 GMT",
-        "first_seen": "2026-06-18T09:17:54.542735"
-      },
       "7e7b86aa3450d414626dc49cce4b202eb765e02686866b01fe3fd1a2297c823b": {
         "title": "Momenta港股IPO证监会备案通过，将成“物理AI第一股”",
         "link": "https://www.leiphone.com/category/industrynews/mOyyJ7O75GDwbwTc.html",
@@ -10415,13 +10301,49 @@
         "link": "https://www.qbitai.com/2026/07/453530.html",
         "published_date": "Sat, 18 Jul 2026 03:01:00 GMT",
         "first_seen": "2026-07-18T07:03:03.545168"
+      },
+      "d395a6b709897cccd5901ff46c8341c90439a582825e150d9ea357cd4f4cb6c6": {
+        "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+        "link": "https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html",
+        "published_date": "Sat, 18 Jul 2026 15:02:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463342"
+      },
+      "e1da7a23f8352250a47263968b62d5f9ec1bd38bd394f412124c900d8895ab26": {
+        "title": "WAIC | 从能力领先到产业交付，科大讯飞如何让AI成为真实世界生产力？",
+        "link": "https://www.leiphone.com/category/industrynews/Xr6FFEeoQ7jUDXSI.html",
+        "published_date": "Sat, 18 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463349"
+      },
+      "a6ee3773422f3a829b824d6b113431a2f37cf641dad397c5aece98799a305876": {
+        "title": "从“能回答”到“能执行”，WAIC 2026 网易有道 LobsterAI 重新定义办公助手边界",
+        "link": "https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html",
+        "published_date": "Sat, 18 Jul 2026 14:43:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463350"
+      },
+      "be5acd74f117320f2d3cec650a6e422efcf3b3fb46f1c2650159ea6e0aa27c50": {
+        "title": "让智能走进产业现场，鹿明机器人亮相WAIC 2026",
+        "link": "https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html",
+        "published_date": "Sat, 18 Jul 2026 14:02:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463352"
+      },
+      "336be95e052336249a5a4a9b592ecf5712f3d6f80825a47e81c3173ea086f0e4": {
+        "title": "妙啊！无人机直连卫星传Token",
+        "link": "https://www.qbitai.com/2026/07/453789.html",
+        "published_date": "Sat, 18 Jul 2026 08:17:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463353"
+      },
+      "924566db9c88a17bdcb92dd73456a93eff52236962381cc211312af4e2867788": {
+        "title": "2026-07-18日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-18/",
+        "published_date": "Sat, 18 Jul 2026 11:44:00 GMT",
+        "first_seen": "2026-07-18T09:29:03.463355"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-18T07:03:02.413452",
-    "Finance": "2026-07-18T07:03:01.285966",
-    "Ai": "2026-07-18T07:03:03.545170"
+    "Technology": "2026-07-18T09:29:03.352104",
+    "Finance": "2026-07-18T09:29:02.248362",
+    "Ai": "2026-07-18T09:29:03.463356"
   }
 }
