@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 23:55
+**最后更新时间**: 2026-07-18 07:02
+
+---
+
+## 🆕 最新更新 (2026-07-18 07:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Asia AI bets power record equities run for Wall Street banks](https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [My journey down the rabbit hole at the Conspiracy World Cup](https://www.ft.com/content/6338b5eb-30d9-487f-978b-27af79d734b9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [The next crash: why this time might not be different](https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Why your odyssey to see ‘The Odyssey’ matters](https://www.ft.com/content/4e809577-0133-4eae-b897-082b2026270c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Washington pushes EU to announce import rules rollback](https://www.ft.com/content/580f2b36-1d00-40b8-a12a-cc7d7067a046?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Gibraltar land grab stirs age-old dispute with Spain](https://www.ft.com/content/58d83b39-79c6-41f0-89c8-04856483d4e1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
 
 ---
 

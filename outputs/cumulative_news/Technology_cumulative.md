@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-17 23:55
+**最后更新时间**: 2026-07-18 07:02
+
+---
+
+## 🆕 最新更新 (2026-07-18 07:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实](https://www.tmtpost.com/8069767.html)
+**发布时间**: 2026-07-18 12:48
+
+#### [修仙界还没征服全世界，中国动画先成了世界工厂](https://www.tmtpost.com/8069614.html)
+**发布时间**: 2026-07-18 11:23
+
+#### [业绩大爆发，券商为什么还不火？](https://www.tmtpost.com/8069620.html)
+**发布时间**: 2026-07-18 11:22
+
+#### [我在霉霉婚礼现场卖垃圾](https://www.tmtpost.com/8069593.html)
+**发布时间**: 2026-07-18 11:22
+
+#### [复旦大学联合天空智算首发天地一体化算力智能体SatAgent](https://www.tmtpost.com/8070172.html)
+**发布时间**: 2026-07-18 10:49
+
+#### [安踏CEO卸任，超级安踏错失了成为迪卡侬的机会？](https://www.tmtpost.com/8069792.html)
+**发布时间**: 2026-07-18 10:48
+
+#### [WAIC，我们看到这六个趋势](https://www.tmtpost.com/8070197.html)
+**发布时间**: 2026-07-18 10:22
+
+#### [Kimi K3：马斯克 Impressed](https://www.tmtpost.com/8069571.html)
+**发布时间**: 2026-07-18 10:20
+
+#### [苹果AI终于入华，但iPhone的“智能主权”开始松动](https://www.tmtpost.com/8070181.html)
+**发布时间**: 2026-07-18 10:18
+
+#### [MLCC产业通史（一）：命脉断供，英美雷达云母军工困局](https://www.tmtpost.com/8069499.html)
+**发布时间**: 2026-07-18 10:18
+
+#### [不能让游客“入戏”的景区，正在被淘汰](https://www.tmtpost.com/8069495.html)
+**发布时间**: 2026-07-18 10:18
+
+#### [留给父母提档的时间，真的不多了](https://www.tmtpost.com/8069373.html)
+**发布时间**: 2026-07-18 09:45
+
+#### [2026 WAIC，具身首次走上神坛](https://www.tmtpost.com/8069915.html)
+**发布时间**: 2026-07-18 09:45
+
+#### [Edge AI Daily 早报（7月18日）](https://www.tmtpost.com/8070162.html)
+**发布时间**: 2026-07-18 08:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [中国 AI 产业核心要素出海发展白皮书](https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-18 12:02
+
+#### [为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳](https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-18 10:00
+
+#### [AI 智能体算力消耗过快，传统账单风控跟不上速度](https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-18 09:00
+
+#### [豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座](https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-18 08:54
+
+#### [不止于 4K，火山引擎画质增强让视频从清晰走向细腻](https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-18 08:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
+**发布时间**: 2026-07-18 11:10
 
 ---
 

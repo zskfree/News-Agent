@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 23:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 23:55:40 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 07:02:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:03:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC</title>
-      <link>https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 22:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局</title>
-      <link>https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI从“能对话”走向“能办事”，蚂蚁集团WAIC展示三层布局]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 22:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xtEyfZsTRA3FFW4dzCah?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座</title>
+      <link>https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系</title>
-      <link>https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 21:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果AI终于入华，但iPhone的“智能主权”开始松动</title>
+      <link>https://www.tmtpost.com/8070181.html</link>
+      <description>&lt;![CDATA[苹果AI终于入华，但iPhone的“智能主权”开始松动]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070181.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%</title>
-      <link>https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DA-Nav实现机器人“偏航自纠偏”：找回路线成功率达98%]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 21:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/40zi8OZ0UkL85PJ6NrMH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国 AI 产业核心要素出海发展白皮书</title>
+      <link>https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国 AI 产业核心要素出海发展白皮书]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent会干活了，却不会过日子</title>
-      <link>https://www.tmtpost.com/8068255.html</link>
-      <description>&lt;![CDATA[Agent会干活了，却不会过日子]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068255.html</guid>
+      <title>2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实</title>
+      <link>https://www.tmtpost.com/8069767.html</link>
+      <description>&lt;![CDATA[2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 12:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069767.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「豆包二代手机」 幕后：字节和中兴「相互成全」</title>
-      <link>https://www.tmtpost.com/8067771.html</link>
-      <description>&lt;![CDATA[「豆包二代手机」 幕后：字节和中兴「相互成全」]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067771.html</guid>
+      <title>WAIC，我们看到这六个趋势</title>
+      <link>https://www.tmtpost.com/8070197.html</link>
+      <description>&lt;![CDATA[WAIC，我们看到这六个趋势]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070197.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>北美AI短剧市场：大厂的游戏，中小公司纯靠赌？</title>
-      <link>https://www.tmtpost.com/8069234.html</link>
-      <description>&lt;![CDATA[北美AI短剧市场：大厂的游戏，中小公司纯靠赌？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069234.html</guid>
+      <title>2026 WAIC，具身首次走上神坛</title>
+      <link>https://www.tmtpost.com/8069915.html</link>
+      <description>&lt;![CDATA[2026 WAIC，具身首次走上神坛]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069915.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>加密行业，全员卷入 AI 军备竞赛</title>
-      <link>https://www.tmtpost.com/8068948.html</link>
-      <description>&lt;![CDATA[加密行业，全员卷入 AI 军备竞赛]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068948.html</guid>
+      <title>复旦大学联合天空智算首发天地一体化算力智能体SatAgent</title>
+      <link>https://www.tmtpost.com/8070172.html</link>
+      <description>&lt;![CDATA[复旦大学联合天空智算首发天地一体化算力智能体SatAgent]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070172.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“错过”独立上市后，张迪要在阿里造个可灵plus？</title>
-      <link>https://www.tmtpost.com/8068343.html</link>
-      <description>&lt;![CDATA[“错过”独立上市后，张迪要在阿里造个可灵plus？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068343.html</guid>
+      <title>AI 智能体算力消耗过快，传统账单风控跟不上速度</title>
+      <link>https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 智能体算力消耗过快，传统账单风控跟不上速度]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>UniGetUI：可能是 Windows 下最好用的应用商店</title>
-      <link>https://sspai.com/post/111128</link>
-      <description>&lt;![CDATA[UniGetUI：可能是 Windows 下最好用的应用商店]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111128</guid>
+      <title>MLCC产业通史（一）：命脉断供，英美雷达云母军工困局</title>
+      <link>https://www.tmtpost.com/8069499.html</link>
+      <description>&lt;![CDATA[MLCC产业通史（一）：命脉断供，英美雷达云母军工困局]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069499.html</guid>
       <category>Technology</category>
     </item>
   </channel>
