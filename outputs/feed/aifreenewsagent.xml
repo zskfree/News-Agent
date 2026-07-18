@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Jul 2026 09:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2026 09:29:03 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:57:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新</title>
-      <link>https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html</link>
-      <description>&lt;![CDATA[后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html</guid>
+      <title>WAIC 2026 直击：云天励飞发布未来算力蓝图，三款芯片+超节点直指“百亿Token一分钱”</title>
+      <link>https://www.leiphone.com/category/chips/kkSTkmFeAdi2fl5B.html</link>
+      <description>&lt;![CDATA[WAIC 2026 直击：云天励飞发布未来算力蓝图，三款芯片+超节点直指“百亿Token一分钱”]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/kkSTkmFeAdi2fl5B.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC | 从能力领先到产业交付，科大讯飞如何让AI成为真实世界生产力？</title>
-      <link>https://www.leiphone.com/category/industrynews/Xr6FFEeoQ7jUDXSI.html</link>
-      <description>&lt;![CDATA[WAIC | 从能力领先到产业交付，科大讯飞如何让AI成为真实世界生产力？]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Xr6FFEeoQ7jUDXSI.html</guid>
+      <title>爱芯元智携完整AI生态亮相WAIC 2026，重磅揭秘“元曦”系列大算力AI推理新品</title>
+      <link>https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html</link>
+      <description>&lt;![CDATA[爱芯元智携完整AI生态亮相WAIC 2026，重磅揭秘“元曦”系列大算力AI推理新品]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从“能回答”到“能执行”，WAIC 2026 网易有道 LobsterAI 重新定义办公助手边界</title>
-      <link>https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html</link>
-      <description>&lt;![CDATA[从“能回答”到“能执行”，WAIC 2026 网易有道 LobsterAI 重新定义办公助手边界]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 14:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html</guid>
+      <title>百度秒哒发布3.5版本，市场份额位居中国AI原生无代码应用生成平台第一</title>
+      <link>https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html</link>
+      <description>&lt;![CDATA[百度秒哒发布3.5版本，市场份额位居中国AI原生无代码应用生成平台第一]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让智能走进产业现场，鹿明机器人亮相WAIC 2026</title>
-      <link>https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html</link>
-      <description>&lt;![CDATA[让智能走进产业现场，鹿明机器人亮相WAIC 2026]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html</guid>
+      <title>商汤大装置联合五家头部科研机构启动科学发现平台战略合作，探索科学智能新范式</title>
+      <link>https://www.leiphone.com/category/ai/STqP2Xt59jKRSEkT.html</link>
+      <description>&lt;![CDATA[商汤大装置联合五家头部科研机构启动科学发现平台战略合作，探索科学智能新范式]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/STqP2Xt59jKRSEkT.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>妙啊！无人机直连卫星传Token</title>
-      <link>https://www.qbitai.com/2026/07/453789.html</link>
-      <description>&lt;![CDATA[妙啊！无人机直连卫星传Token]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 08:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453789.html</guid>
+      <title>WAIC看了一圈，这家公司的机器人在认真打工</title>
+      <link>https://www.qbitai.com/2026/07/454040.html</link>
+      <description>&lt;![CDATA[WAIC看了一圈，这家公司的机器人在认真打工]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 13:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454040.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-07-18日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-18/</link>
-      <description>&lt;![CDATA[2026-07-18日刊]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-18/</guid>
+      <title>WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀</title>
+      <link>https://www.qbitai.com/2026/07/454015.html</link>
+      <description>&lt;![CDATA[WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454015.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气</title>
+      <link>https://www.qbitai.com/2026/07/454003.html</link>
+      <description>&lt;![CDATA[滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454003.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”</title>
+      <link>https://www.qbitai.com/2026/07/453897.html</link>
+      <description>&lt;![CDATA[让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453897.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50</title>
+      <link>https://www.qbitai.com/2026/07/453889.html</link>
+      <description>&lt;![CDATA[WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453889.html</guid>
       <category>Ai</category>
     </item>
   </channel>

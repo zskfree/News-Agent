@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-18 09:29
+**最后更新时间**: 2026-07-18 23:57
+
+---
+
+## 🆕 最新更新 (2026-07-18 23:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US strikes Iran after two American troops are killed in Jordan](https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 22:54
+
+#### [Trump to fund Maga-aligned projects in Europe as he reorders US aid](https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 17:22
+
+#### [Big Law braces for second fight with Trump over capitulation deals](https://www.ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 12:00
+
+#### [Traders are increasingly betting against SpaceX just weeks after IPO](https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 11:00
+
+#### [Zelenskyy considers sacking commander-in-chief as protests swell](https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 10:10
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?](https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 19:16
+
+#### [Netflix is spending big money on sports. Is the company making the right bets?](https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 18:54
+
+#### [These are the obstacles still keeping women from retirement security](https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 18:48
+
+#### [I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?](https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 18:30
+
+#### [My relative inherited money in her 80s. Will it affect her Social Security taxes or Medicare premiums?](https://www.marketwatch.com/story/my-relative-inherited-money-in-her-80s-will-it-affect-her-social-security-taxes-or-medicare-premiums-0f09a210?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 18:14
+
+#### [Running out of money is not the saddest retirement mistake you can make. This is.](https://www.marketwatch.com/story/running-out-of-money-is-not-the-saddest-retirement-mistake-you-can-make-this-is-09040acf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-18 18:00
 
 ---
 
