@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-18 23:57
+**最后更新时间**: 2026-07-19 07:28
+
+---
+
+## 🆕 最新更新 (2026-07-19 07:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】孙正义：任何关于AI领域正在形成泡沫的说法都是荒谬的；苹果智能集成阿里、百度AI能力；DeepSeek估值超3500亿元](https://www.tmtpost.com/8070816.html)
+**发布时间**: 2026-07-19 14:31
+
+#### [AI 驾校进入下半场：教练下车之后，谁来重做驾培？](https://www.tmtpost.com/8066867.html)
+**发布时间**: 2026-07-19 13:05
+
+#### [Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环](https://www.tmtpost.com/8070738.html)
+**发布时间**: 2026-07-19 13:04
+
+#### [对话云天励飞董事长陈宁：推理就是生产力，2030年将实现“百亿Token一分钱”](https://www.tmtpost.com/8070642.html)
+**发布时间**: 2026-07-19 13:03
+
+#### [半年净利预增超8倍，60后夫妇靠“养猴”赢麻了](https://www.tmtpost.com/8070530.html)
+**发布时间**: 2026-07-19 09:35
+
+#### [酒店REITs扎堆申报，谁先拿到资本市场的入场券？](https://www.tmtpost.com/8070554.html)
+**发布时间**: 2026-07-19 08:55
+
+#### [暴走35000步，用脚丈量世博三馆，WAIC 2026实地逛展全纪录](https://www.tmtpost.com/8070563.html)
+**发布时间**: 2026-07-19 08:55
+
+#### [苹果AI入华，把“灵魂”交给阿里、百度](https://www.tmtpost.com/8070495.html)
+**发布时间**: 2026-07-19 08:54
+
+#### [Edge AI Daily 早报（7月19日）](https://www.tmtpost.com/8070618.html)
+**发布时间**: 2026-07-19 08:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [寻找 AI 原生时代创业者：极客部落 OPC 入驻招募启动！](https://www.infoq.cn/article/yFAybPctMgHsNJUYMEtw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 12:34
+
+#### [边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统](https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 11:09
+
+#### [WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生](https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 10:59
+
+#### [三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图](https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 10:52
+
+#### [从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳](https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 10:00
+
+#### [腾讯云发布ADP 4.0海外版：集成Google Workspace、Jira，定位AgentOps全生命周期管理](https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 08:01
+
+#### [腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%](https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-19 07:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
+**发布时间**: 2026-07-19 11:00
 
 ---
 

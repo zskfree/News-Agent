@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Jul 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2026 23:57:13 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 07:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:28:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环</title>
-      <link>https://www.tmtpost.com/8070465.html</link>
-      <description>&lt;![CDATA[商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070465.html</guid>
+      <title>Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环</title>
+      <link>https://www.tmtpost.com/8070738.html</link>
+      <description>&lt;![CDATA[Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070738.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi K3：马斯克 Impressed</title>
-      <link>https://www.tmtpost.com/8069571.html</link>
-      <description>&lt;![CDATA[Kimi K3：马斯克 Impressed]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069571.html</guid>
+      <title>腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%</title>
+      <link>https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜</title>
-      <link>https://www.tmtpost.com/8069850.html</link>
-      <description>&lt;![CDATA[独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 20:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069850.html</guid>
+      <title>腾讯云发布ADP 4.0海外版：集成Google Workspace、Jira，定位AgentOps全生命周期管理</title>
+      <link>https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云发布ADP 4.0海外版：集成Google Workspace、Jira，定位AgentOps全生命周期管理]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/r6m3xASYYfM81h9dNBRE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”</title>
-      <link>https://www.tmtpost.com/8070543.html</link>
-      <description>&lt;![CDATA[中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 21:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070543.html</guid>
+      <title>边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统</title>
+      <link>https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家</title>
-      <link>https://www.tmtpost.com/8070478.html</link>
-      <description>&lt;![CDATA[天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 20:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070478.html</guid>
+      <title>对话云天励飞董事长陈宁：推理就是生产力，2030年将实现“百亿Token一分钱”</title>
+      <link>https://www.tmtpost.com/8070642.html</link>
+      <description>&lt;![CDATA[对话云天励飞董事长陈宁：推理就是生产力，2030年将实现“百亿Token一分钱”]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070642.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在WAIC，第一次觉得AI不必那么聪明</title>
-      <link>https://www.tmtpost.com/8070322.html</link>
-      <description>&lt;![CDATA[在WAIC，第一次觉得AI不必那么聪明]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070322.html</guid>
+      <title>三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图</title>
+      <link>https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 上 9000 收藏的 Codex 皮肤定制神器，咸鱼上卖 199。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535382&amp;idx=1&amp;sn=c85dadaf6aedd3a7f03f7d3a0d13a3b9</link>
-      <description>&lt;![CDATA[GitHub 上 9000 收藏的 Codex 皮肤定制神器，咸鱼上卖 199。]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535382&amp;idx=1&amp;sn=c85dadaf6aedd3a7f03f7d3a0d13a3b9</guid>
+      <title>从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>修仙界还没征服全世界，中国动画先成了世界工厂</title>
-      <link>https://www.tmtpost.com/8069614.html</link>
-      <description>&lt;![CDATA[修仙界还没征服全世界，中国动画先成了世界工厂]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 11:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069614.html</guid>
+      <title>苹果AI入华，把“灵魂”交给阿里、百度</title>
+      <link>https://www.tmtpost.com/8070495.html</link>
+      <description>&lt;![CDATA[苹果AI入华，把“灵魂”交给阿里、百度]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070495.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一只猴卖20万！净利润飙涨超1300%，“猴茅”昭衍新药赚翻了</title>
-      <link>https://www.tmtpost.com/8070243.html</link>
-      <description>&lt;![CDATA[一只猴卖20万！净利润飙涨超1300%，“猴茅”昭衍新药赚翻了]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070243.html</guid>
+      <title>WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生</title>
+      <link>https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[WAIC 2026现场，阡视科技发布超节点系统，专为Token工厂而生]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TjLEm0VKwkrrkLxOds61?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>不能让游客“入戏”的景区，正在被淘汰</title>
-      <link>https://www.tmtpost.com/8069495.html</link>
-      <description>&lt;![CDATA[不能让游客“入戏”的景区，正在被淘汰]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069495.html</guid>
+      <title>【数智周报】孙正义：任何关于AI领域正在形成泡沫的说法都是荒谬的；苹果智能集成阿里、百度AI能力；DeepSeek估值超3500亿元</title>
+      <link>https://www.tmtpost.com/8070816.html</link>
+      <description>&lt;![CDATA[【数智周报】孙正义：任何关于AI领域正在形成泡沫的说法都是荒谬的；苹果智能集成阿里、百度AI能力；DeepSeek估值超3500亿元]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070816.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-18 23:57
+**最后更新时间**: 2026-07-19 07:28
+
+---
+
+## 🆕 最新更新 (2026-07-19 07:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chinese leaders zero in on need for stimulus for economy](https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+#### [How Maga fell hard for the gender binary](https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+#### [Heroes, villains and clowns: Simon Kuper’s World Cup awards](https://www.ft.com/content/8005bed0-afab-4240-91f8-7567212f2b91)
+**发布时间**: 2026-07-19 04:00
+
+#### [Why ‘rightwing’ is no longer such a dirty word in Britain](https://www.ft.com/content/658e1eb4-2c33-4755-8f44-0261d24dd1b7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+#### [Luxury groups face inventory squeeze under EU destruction ban](https://www.ft.com/content/2578648c-967f-4d9d-8ec0-b22a205ece7f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+#### [Singapore weighs hedge fund tax cuts to rival Hong Kong](https://www.ft.com/content/d3221c90-c2a4-4bdd-8e0d-6e069bf0ca25?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+#### [UK seeks extradition of Andrew and Tristan Tate after arrest in Miami](https://www.ft.com/content/fee3f969-f592-4735-8d99-e7ab3049d194)
+**发布时间**: 2026-07-19 01:38
 
 ---
 
