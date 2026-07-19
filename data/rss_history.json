@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "611822ddad630c2abac1b894b569de89c56768e623fecfa0b7d8a0c414c14764": {
-        "title": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
-        "link": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960477"
-      },
-      "380c521e803e8e59f3e2d9ae26d3b54e4bf6f805c04e121b3084a0aec8dbb0a6": {
-        "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
-        "link": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 19 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960489"
-      },
-      "60fe4b9beeff7e33db39f54cae6a58783277a4397a2105364aa97aed31b4cc8c": {
-        "title": "国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化",
-        "link": "https://www.tmtpost.com/8034156.html",
-        "published_date": "Fri, 19 Jun 2026 17:11:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960492"
-      },
-      "8a9b02db482206f9bdf72264c46086d06e5f2e274f9968ed8044e2fd10f7bbe3": {
-        "title": "壁仞到底“几斤几两”？",
-        "link": "https://www.tmtpost.com/8033720.html",
-        "published_date": "Fri, 19 Jun 2026 17:04:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960494"
-      },
-      "c0fc977115c4be9047456fe56b198854b1a7eba7e7a2769c5666c97041d60cea": {
-        "title": "子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多",
-        "link": "https://www.tmtpost.com/8033754.html",
-        "published_date": "Fri, 19 Jun 2026 17:25:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960496"
-      },
-      "0cf53ce939c87189d4f286d2414172e6d035802b91b51c6d33afd910e9ad14a8": {
-        "title": "硅谷最抢手的新岗位出现了",
-        "link": "https://www.tmtpost.com/8033869.html",
-        "published_date": "Fri, 19 Jun 2026 16:57:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960497"
-      },
-      "af9091c8b98f0f67980a9fb2f13f2c8995285c9bddcf82af79e2188c94a32a5e": {
-        "title": "35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布",
-        "link": "https://www.tmtpost.com/8033497.html",
-        "published_date": "Fri, 19 Jun 2026 17:06:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960499"
-      },
-      "087b195d1f1e095b4d466facd77aea2bb86de128b05bf77000185718c48bc643": {
-        "title": "AI 让独立游戏更容易做出来，也更容易死在 Steam 里",
-        "link": "https://www.tmtpost.com/8034209.html",
-        "published_date": "Fri, 19 Jun 2026 17:11:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960500"
-      },
-      "6482aac7b3e734e457508b8be59587d9b325043274da83d6d12000856fbc59d2": {
-        "title": "美国AI狂飙，亚洲抢先吃饱",
-        "link": "https://www.tmtpost.com/8034217.html",
-        "published_date": "Fri, 19 Jun 2026 17:11:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960502"
-      },
-      "d71a2444e5a8f66174f8c5d0e286573f4237a3f14a1e51a06ca27c6d1ec17ee0": {
-        "title": "Edge AI Daily 早报（6月19日）",
-        "link": "https://www.tmtpost.com/8033793.html",
-        "published_date": "Fri, 19 Jun 2026 08:25:00 GMT",
-        "first_seen": "2026-06-19T09:32:54.960503"
-      },
       "f00756b24c008bb9aa830f2cba8d4ac8ae4377939fd7ff6ab1b725e082febb6c": {
         "title": "一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534647&idx=1&sn=b6ba158e574eb2a32d11f3cabb1fa46f",
@@ -4075,69 +4015,69 @@
         "link": "https://www.tmtpost.com/8070816.html",
         "published_date": "Sun, 19 Jul 2026 14:31:00 GMT",
         "first_seen": "2026-07-19T07:28:37.478890"
+      },
+      "769d6d191a21b98902caa78f6c1c7824bb8e385bc23177446b7242cee15c068f": {
+        "title": "八位顶尖科学家一起开公司，田渊栋首揭46.5亿美元创业内幕",
+        "link": "https://www.tmtpost.com/8070765.html",
+        "published_date": "Sun, 19 Jul 2026 16:28:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908839"
+      },
+      "59d5c5abcbfeed7ab51d4907aebc144a52f8a59cf3afc8645e642c55b881956a": {
+        "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
+        "link": "https://www.tmtpost.com/8070798.html",
+        "published_date": "Sun, 19 Jul 2026 16:26:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908847"
+      },
+      "a5600c1f2102c29bbe271032c108365b73e92a24f62ac9982a55f3045e59541c": {
+        "title": "大模型进不了内网之后，企业 AI 的生意才真正开始",
+        "link": "https://www.tmtpost.com/8070771.html",
+        "published_date": "Sun, 19 Jul 2026 16:15:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908849"
+      },
+      "20e8d56d6f0e9c4c8039dc11107eefb95e5bad653ce63b2d7e31c2cad77063c4": {
+        "title": "手机不会“消亡”，但它正在变成另一个物种 | WAIC观察",
+        "link": "https://www.tmtpost.com/8070634.html",
+        "published_date": "Sun, 19 Jul 2026 15:21:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908851"
+      },
+      "b5109dde41430e4fe985d031a7c9f5e55bb79a2d4cea882696ef9cbb024113b8": {
+        "title": "努比亚、阶跃、荣耀，谁在定义AI手机？",
+        "link": "https://www.tmtpost.com/8070760.html",
+        "published_date": "Sun, 19 Jul 2026 16:31:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908863"
+      },
+      "39ca35a9ec5a406986be8aa82aab227f2f1c4350988eae3dba3bef8432d8af52": {
+        "title": "三年跻身独角兽，智能眼镜的风向真的变了",
+        "link": "https://www.tmtpost.com/8070811.html",
+        "published_date": "Sun, 19 Jul 2026 16:31:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908865"
+      },
+      "565e51b2fccfad735ba128404ee242335ca106457855c2964295914d8882649f": {
+        "title": "AI 驾校进入下半场：教练下车之后，谁来重做驾培？",
+        "link": "https://www.tmtpost.com/8066867.html",
+        "published_date": "Sun, 19 Jul 2026 13:05:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908866"
+      },
+      "1890abce2e994cbd2e7a8e28b3d298ae0a590489e1973a40386c437edbd39267": {
+        "title": "高校花钱查 AI，学生花钱降 AI",
+        "link": "https://www.tmtpost.com/8070745.html",
+        "published_date": "Sun, 19 Jul 2026 16:31:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908867"
+      },
+      "b62709740aa8550f62f532a2c0e38e3bd9eba640278ce9edf96e91b5cc932a4f": {
+        "title": "Edge AI Daily 早报（7月19日）",
+        "link": "https://www.tmtpost.com/8070618.html",
+        "published_date": "Sun, 19 Jul 2026 08:37:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908868"
+      },
+      "c033166827c5646c5bf0429ba57bd21e82dbc6206a51ed5795b1c55b14654b33": {
+        "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+        "link": "https://sspai.com/post/112374",
+        "published_date": "Sun, 19 Jul 2026 11:00:00 GMT",
+        "first_seen": "2026-07-19T09:54:58.908869"
       }
     },
     "Finance": {
-      "b6eec7e99a005104352552518757904fc106e9c36f3d3a49e3a46f8a30ae602d": {
-        "title": "‘Hawkish shift’ in US rates upends global currency bets",
-        "link": "https://www.ft.com/content/9d0f7f40-0a65-4188-9752-a69baab12176",
-        "published_date": "Fri, 19 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208772"
-      },
-      "bfddf11fceda42f15134f8735f5e2fd036793b32549b8b87d72f2a691138ab55": {
-        "title": "Xi wants China to boost demand. Why isn’t it working?",
-        "link": "https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573",
-        "published_date": "Fri, 19 Jun 2026 03:12:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208779"
-      },
-      "99197daedfaf01deb64f0967ced44a1ba8d3de6ab1253034812b0ee6f96a5771": {
-        "title": "Are insurers becoming dangerously addicted to private credit ratings?",
-        "link": "https://www.ft.com/content/bfcb04a7-8e13-480a-aa59-a13dee53c698",
-        "published_date": "Fri, 19 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208781"
-      },
-      "07f2e76523ccd80be88e84cbb6971e00c7af1cf682f716c475dba73a5f9f0719": {
-        "title": "EU delays trade confrontation with China",
-        "link": "https://www.ft.com/content/e220372c-b20e-418e-9f02-29a5aa269702",
-        "published_date": "Fri, 19 Jun 2026 01:35:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208783"
-      },
-      "2abfaeec56627d2f8b2cc8a51c80fc058b0fa5b9f6e2443ce75d4d1d9f0cca75": {
-        "title": "Is Tesla succeeding in AI? Watch this for a clue.",
-        "link": "https://www.marketwatch.com/story/is-tesla-succeeding-in-ai-watch-this-for-a-clue-c72bc49e?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Jun 2026 02:27:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208785"
-      },
-      "4c80b8df43dc950f84944c00790c67170514d039764942c314caa5f61494450f": {
-        "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-        "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-        "published_date": "Fri, 19 Jun 2026 04:01:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208787"
-      },
-      "05a61d1e60abfe1bb740c8a8136ec114e8c9fef209a7e56e36e598f3a3fef75d": {
-        "title": "Burnham storms to by-election victory in challenge to Starmer",
-        "link": "https://www.ft.com/content/095b3f3d-8c66-46fa-bb2a-1b8186f3f054",
-        "published_date": "Fri, 19 Jun 2026 09:21:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208789"
-      },
-      "f83d92f65ca4897403f8e8eb1cb4961566ec4a5eb69712aa66ae3a68b292eacc": {
-        "title": "Burnham’s win should worry Farage",
-        "link": "https://www.ft.com/content/e3f04bcf-809d-462f-9d77-180d97964b02",
-        "published_date": "Fri, 19 Jun 2026 05:13:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208790"
-      },
-      "a234f9baffa49152ffbcd4ee99b55dcf1c2813df472f3daf37ba071110658c08": {
-        "title": "Starmer says he would stand in a Labour leadership race",
-        "link": "https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8",
-        "published_date": "Fri, 19 Jun 2026 02:26:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208792"
-      },
-      "959da65054464ab296168d6396e1e4c598a33cf3d6703e88b22b37a9242855a8": {
-        "title": "Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say",
-        "link": "https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613",
-        "published_date": "Fri, 19 Jun 2026 08:59:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.208793"
-      },
       "634b47f76117eb34e1f458cc4b062badd8125e41a90ecf260226f8e65d05c633": {
         "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
         "link": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
@@ -7575,27 +7515,15 @@
         "link": "https://www.ft.com/content/fee3f969-f592-4735-8d99-e7ab3049d194",
         "published_date": "Sun, 19 Jul 2026 01:38:00 GMT",
         "first_seen": "2026-07-19T07:28:36.273804"
+      },
+      "c4dc8285b99bf545ce400d4e1ffccddd4d5596bf6d7c1b908b550e4ee1f492e4": {
+        "title": "US strikes Iran after two American troops killed in Jordan",
+        "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+        "published_date": "Sun, 19 Jul 2026 09:13:00 GMT",
+        "first_seen": "2026-07-19T09:54:57.763246"
       }
     },
     "Ai": {
-      "a7c5a8ff7090f30217f3279f8e142732ec2c627752098d8e1fa3f27b1088529b": {
-        "title": "2026-06-19日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-19/",
-        "published_date": "Fri, 19 Jun 2026 11:06:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.337821"
-      },
-      "1ccf4784589209a5b422d26d856215587d86bc1071f914f6e03cc898d47a356f": {
-        "title": "GPT发AI原创新成果了",
-        "link": "https://www.qbitai.com/2026/06/436842.html",
-        "published_date": "Fri, 19 Jun 2026 03:34:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.337829"
-      },
-      "527cb04d4608f4990c47640b643ce716b4490708e9439ee47561ab144a1d60d3": {
-        "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-        "link": "https://www.qbitai.com/2026/06/436813.html",
-        "published_date": "Fri, 19 Jun 2026 03:28:00 GMT",
-        "first_seen": "2026-06-19T09:32:56.337831"
-      },
       "9359d451f3223a402d8aeff877ea5bbad06edbd3dcdfcd6b97f789dccaaf1212": {
         "title": "Introducing Web Search on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
@@ -10475,13 +10403,31 @@
         "link": "https://www.qbitai.com/2026/07/453802.html",
         "published_date": "Sun, 19 Jul 2026 01:01:00 GMT",
         "first_seen": "2026-07-19T07:28:37.610782"
+      },
+      "b377c682d7e59c49e88183f28697b7dba3aefea757f051291885f939415ca2d9": {
+        "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
+        "link": "https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html",
+        "published_date": "Sun, 19 Jul 2026 15:21:00 GMT",
+        "first_seen": "2026-07-19T09:54:59.018182"
+      },
+      "95c6efcf2e5defc0c506da24f5fdd34afdf8a6ecc1f1c8e1abc05d76140126e6": {
+        "title": "中科闻歌WAIC2026发布业界首个全系决策智能产品",
+        "link": "https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html",
+        "published_date": "Sun, 19 Jul 2026 14:44:00 GMT",
+        "first_seen": "2026-07-19T09:54:59.018190"
+      },
+      "c733321a4ab2ff2b34c2f7f0f5d9153d3043d450433b4325778aeae17ef7042e": {
+        "title": "苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径",
+        "link": "https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html",
+        "published_date": "Sun, 19 Jul 2026 14:15:00 GMT",
+        "first_seen": "2026-07-19T09:54:59.018192"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-19T07:28:37.478892",
-    "Finance": "2026-07-19T07:28:36.273807",
-    "Ai": "2026-07-19T07:28:37.610784"
+    "Technology": "2026-07-19T09:54:58.908871",
+    "Finance": "2026-07-19T09:54:57.763256",
+    "Ai": "2026-07-19T09:54:59.018193"
   }
 }

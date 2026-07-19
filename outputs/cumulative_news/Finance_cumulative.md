@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-19 07:28
+**最后更新时间**: 2026-07-19 09:54
+
+---
+
+## 🆕 最新更新 (2026-07-19 09:54)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US strikes Iran after two American troops killed in Jordan](https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 09:13
 
 ---
 
