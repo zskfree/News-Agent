@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 00:01
+**最后更新时间**: 2026-07-20 08:08
+
+---
+
+## 🆕 最新更新 (2026-07-20 08:08)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个](https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 15:17
+
+#### [专访孙元浩：乘坐星环号，把数据库“移民火星”的人](https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 15:07
+
+#### [一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践](https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:47
+
+#### [业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳](https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:44
+
+#### [企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳](https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:36
+
+#### [GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论](https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:30
+
+#### [AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！](https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:27
+
+#### [九章云极DataCanvas亮相WAIC 2026，以AI规模化生产体系赋能智能新底座](https://www.infoq.cn/article/tdDBIY9mFVPWbKtOqqFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:01
+
+#### [谷歌发布A2UI v0.9：可移植、框架无关的生成式UI](https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 13:02
+
+#### [企业 AI：方法论易得，交付力难求](https://www.infoq.cn/article/PVEe5yav0IC8MygcVeOM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 11:32
+
+#### [Grab构建安全的智能体AI工作负载平台](https://www.infoq.cn/article/yQb5j83sxQhXB1EDJrS1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 11:09
+
+#### [Agent 会执行，但谁来帮它记住过去？](https://www.infoq.cn/article/p0QuXLlwDxeg3Td9l67t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 10:51
+
+#### [为敏感的云系统设计连续授权](https://www.infoq.cn/article/1KqNGCc9UamMzojQYs9h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 09:22
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Kimi K3投研能力首发实测！现已搭载AlphaEngineee](https://www.tmtpost.com/8071494.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [光伏的下一程，不在组件厂，而在硅片与胶膜之间](https://www.tmtpost.com/8070768.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [超级IP周星驰又一次大获全胜](https://www.tmtpost.com/8071288.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [当AI盯上了太空的免费太阳丨WAIC见闻录①](https://www.tmtpost.com/8071292.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [WAIC上，具身智能的十宗“最”](https://www.tmtpost.com/8071756.html)
+**发布时间**: 2026-07-20 13:59
+
+#### [人机互动的进化，Soul如何重新定义实时多模态交互丨WAIC2026](https://www.tmtpost.com/8071740.html)
+**发布时间**: 2026-07-20 13:04
+
+#### [西班牙夺冠，中国赞助商赢麻了](https://www.tmtpost.com/8071599.html)
+**发布时间**: 2026-07-20 10:55
+
+#### [具身智能还在“前GPT时代” | WAIC观察](https://www.tmtpost.com/8071481.html)
+**发布时间**: 2026-07-20 10:54
+
+#### [具身智能的“ChatGPT时刻”，可能不会同一天到来](https://www.tmtpost.com/8071091.html)
+**发布时间**: 2026-07-20 10:51
+
+#### [都怪Kimi](https://www.tmtpost.com/8071406.html)
+**发布时间**: 2026-07-20 10:36
+
+#### [华尔街搬起Kimi砸自己的脚](https://www.tmtpost.com/8071531.html)
+**发布时间**: 2026-07-20 10:36
+
+#### [WAIC，机器人变了](https://www.tmtpost.com/8071436.html)
+**发布时间**: 2026-07-20 10:30
+
+#### [China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over](https://www.tmtpost.com/8071553.html)
+**发布时间**: 2026-07-20 10:23
+
+#### [太空算力：当AI竞争开始延伸到地球之外](https://www.tmtpost.com/8071099.html)
+**发布时间**: 2026-07-20 09:31
+
+#### [Edge AI Daily 早报（7月20日）](https://www.tmtpost.com/8071369.html)
+**发布时间**: 2026-07-20 08:55
+
+#### [32亿募资画饼六年后九成补流：露笑科技碳化硅"产业化"的虚与实｜ 钛媒体深度](https://www.tmtpost.com/8066646.html)
+**发布时间**: 2026-07-20 08:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫](https://sspai.com/post/112453)
+**发布时间**: 2026-07-20 15:05
+
+#### [2026 年再看 iPhone 8 Plus，它还够用吗？](https://sspai.com/post/112425)
+**发布时间**: 2026-07-20 11:00
+
+#### [派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
+**发布时间**: 2026-07-20 07:11
 
 ---
 
