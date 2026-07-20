@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 08:08:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 08:08:32 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:58:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oil prices climb as U.S. and Iran continue to fight</title>
+      <title>Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market</title>
+      <link>https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 20:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks</title>
+      <link>https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US to hit Canada with 50% tariffs on wide range of goods</title>
+      <link>https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US to hit Canada with 50% tariffs on wide range of goods]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 21:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge</title>
       <link>https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil prices climb as U.S. and Iran continue to fight]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 08:07:00 GMT</pubDate>
+      <description>&lt;![CDATA[Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 21:11:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Lockheed to build cheaper Patriot missile to counter drone threat</title>
-      <link>https://www.ft.com/content/f567af77-801a-48b2-ba59-cf033f599701?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Lockheed to build cheaper Patriot missile to counter drone threat]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 07:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f567af77-801a-48b2-ba59-cf033f599701?syn-25a6b1a6=1</guid>
+      <title>US judge pauses Paramount’s $110bn Warner Bros acquisition</title>
+      <link>https://www.ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US judge pauses Paramount’s $110bn Warner Bros acquisition]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 17:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Oil back above $90 as Iran hits tankers</title>
-      <link>https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Oil back above $90 as Iran hits tankers]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 07:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1</guid>
+      <title>Oracle could face $7bn collateral bill for Wisconsin data centre</title>
+      <link>https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Oracle could face $7bn collateral bill for Wisconsin data centre]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 23:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>China’s ‘national team’ buys shares worth $9bn to prop up market</title>
-      <link>https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[China’s ‘national team’ buys shares worth $9bn to prop up market]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 06:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1</guid>
+      <title>JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks</title>
+      <link>https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 23:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Iran’s currency tumbles as renewed conflict threatens economy</title>
-      <link>https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Iran’s currency tumbles as renewed conflict threatens economy]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1</guid>
+      <title>Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’</title>
+      <link>https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Burnham must remember the first rule of government</title>
-      <link>https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Burnham must remember the first rule of government]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1</guid>
+      <title>Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish</title>
+      <link>https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 21:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Training AI models might be the chance for a workplace power play</title>
-      <link>https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Training AI models might be the chance for a workplace power play]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Morgan Stanley becomes Wall Street’s top bank for AI debt deals</title>
-      <link>https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Morgan Stanley becomes Wall Street’s top bank for AI debt deals]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Coffee drinkers turning to whole beans as prices soar, says Lavazza</title>
-      <link>https://www.ft.com/content/99bcda06-731d-49a8-bda2-ad4335bdca37?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Coffee drinkers turning to whole beans as prices soar, says Lavazza]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/99bcda06-731d-49a8-bda2-ad4335bdca37?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Spain outplay Messi’s Argentina to reach World Cup summit</title>
-      <link>https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Spain outplay Messi’s Argentina to reach World Cup summit]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 02:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1</guid>
+      <title>We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?</title>
+      <link>https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

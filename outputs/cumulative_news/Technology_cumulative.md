@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 08:08
+**最后更新时间**: 2026-07-20 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-20 23:58)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [The Strategic Matchmaking of Apple and Qwen: Why a Marriage of Convenience Could Reshape China’s AI Market](https://www.tmtpost.com/8072827.html)
+**发布时间**: 2026-07-21 07:42
+
+#### [【钛晨报】国常会：分门别类完善服务业支持政策，系统推进“六张网”规划建设；事关资本市场，吴清发声，五大险资巨头集体表态；港交所考虑延长交易时间，取消午休？最新回应](https://www.tmtpost.com/8072626.html)
+**发布时间**: 2026-07-21 07:20
+
+#### [世界杯的终场哨，AI竞赛的发令枪](https://www.tmtpost.com/8071707.html)
+**发布时间**: 2026-07-20 19:55
+
+#### [YC掌门人最新分享：AI时代，永远不要做一次性工作](https://www.tmtpost.com/8071908.html)
+**发布时间**: 2026-07-20 18:42
+
+#### [城市牛马们破防了：一年挣的还没一只猴子多！](https://www.tmtpost.com/8072155.html)
+**发布时间**: 2026-07-20 18:41
+
+#### [台积电：赚钱逻辑变了](https://www.tmtpost.com/8072223.html)
+**发布时间**: 2026-07-20 18:41
+
+#### [这才是Agent的正确打开方式——写在“碰一下”升级之际](https://www.tmtpost.com/8072253.html)
+**发布时间**: 2026-07-20 18:20
+
+#### [肝外递送拿下百亿BD！中国争夺全球话语权](https://www.tmtpost.com/8072145.html)
+**发布时间**: 2026-07-20 18:20
+
+#### [世界杯，赢的不止西班牙](https://www.tmtpost.com/8071888.html)
+**发布时间**: 2026-07-20 17:57
+
+#### [【Fintech 周报】四大行提示“存100万元解锁5.25%利息”不实；年内支付机构被罚超3亿元](https://www.tmtpost.com/8071260.html)
+**发布时间**: 2026-07-20 17:53
+
+#### [长鑫拉下韩国存储牛](https://www.tmtpost.com/8071895.html)
+**发布时间**: 2026-07-20 17:36
+
+#### [K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅](https://www.tmtpost.com/8071690.html)
+**发布时间**: 2026-07-20 17:06
+
+#### [千问补课苹果AI：阿里有了自己的“豆包手机”](https://www.tmtpost.com/8071836.html)
+**发布时间**: 2026-07-20 17:06
+
+#### [AI硬件，开始为Agent重做｜OpenFuture](https://www.tmtpost.com/8072001.html)
+**发布时间**: 2026-07-20 17:06
+
+#### [百川最后一位联创离职，王小川是如何掉队的](https://www.tmtpost.com/8071598.html)
+**发布时间**: 2026-07-20 16:38
+
+#### [独家｜今年已有18家国产医疗机器人拿下融资，眼科、显微外科是主线](https://www.tmtpost.com/8071507.html)
+**发布时间**: 2026-07-20 16:37
+
+#### [全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望](https://www.tmtpost.com/8068237.html)
+**发布时间**: 2026-07-20 16:37
+
+#### [月之暗面的“凡尔赛”公告](https://www.tmtpost.com/8071526.html)
+**发布时间**: 2026-07-20 16:37
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端](https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 19:59
+
+#### [国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型](https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 19:51
+
+#### [开源如何促进平台构建过程中的协作](https://www.infoq.cn/article/MgFehj2q2FJFrf6XvEco?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 17:00
+
+#### [无问芯穹夏立雪：数字世界与物理世界的所有AI生产力运行，都需要 Agentic Infra](https://www.infoq.cn/article/AWhEVVgvNquuiKZdRQ0H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 16:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/112543)
+**发布时间**: 2026-07-20 18:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [替你逛了一圈本周 GitHub，带回 6 个本周热门项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535496&idx=1&sn=ff23514502bd1de2f138ed00f806fbe8)
+**发布时间**: 2026-07-20 15:42
 
 ---
 

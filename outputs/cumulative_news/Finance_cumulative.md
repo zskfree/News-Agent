@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 08:08
+**最后更新时间**: 2026-07-20 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-20 23:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oracle could face $7bn collateral bill for Wisconsin data centre](https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 23:33
+
+#### [JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks](https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 23:01
+
+#### [US to hit Canada with 50% tariffs on wide range of goods](https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 21:47
+
+#### [Andy Burnham makes more appointments for his first cabinet](https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 20:51
+
+#### [US judge pauses Paramount’s $110bn Warner Bros acquisition](https://www.ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 17:37
+
+#### [Burnham becomes UK prime minister promising ‘unity and positivity’](https://www.ft.com/content/ffbf8a50-e497-4ab6-a2d3-d94277f4a087?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 17:21
+
+#### [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 12:44
+
+#### [Trump is slipping into an Iran quagmire](https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 11:17
+
+#### [Warsh’s quiet revolution at the Fed](https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’](https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 22:55
+
+#### [I will claim Social Security early. Why do so few people talk about the elephant in the room?](https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 22:30
+
+#### [Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks](https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 22:21
+
+#### [We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?](https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 22:00
+
+#### [U.S. hits Canada with stiff new tariffs, escalating trade tensions](https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 21:53
+
+#### [Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues](https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 21:44
+
+#### [Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge](https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 21:11
+
+#### [Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish](https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 21:05
+
+#### [Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market](https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 20:55
 
 ---
 

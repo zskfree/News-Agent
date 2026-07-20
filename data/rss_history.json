@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "aaa55eb18890114844665d64c8fc149521cdd63084e9f81ab80d290a5ef13df4": {
-        "title": "千亿热钱砸不出具身智能的答案： Demo 困在展厅，工厂等不来订单",
-        "link": "https://www.tmtpost.com/8034572.html",
-        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606638"
-      },
-      "2eaef335e5e4dfe7af526d8c673778eaa5a320f6d47239d049ef7b88104563cd": {
-        "title": "三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？",
-        "link": "https://www.tmtpost.com/8034755.html",
-        "published_date": "Sat, 20 Jun 2026 11:51:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606648"
-      },
-      "ff8e65211311e15242f7d8855e1b9a37fa5cf39134547d6ef1a657c0decc6676": {
-        "title": "Momenta冲击港股IPO，物理AI第一股要来了",
-        "link": "https://www.tmtpost.com/8034713.html",
-        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606651"
-      },
-      "1ad17e8d73aaad863f431b6c6671dfb3fa7f2e272a3d5eee6f41a433e1d807b7": {
-        "title": "SpaceX，从航天界“蜜雪冰城”到华尔街魅魔",
-        "link": "https://www.tmtpost.com/8034761.html",
-        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606653"
-      },
-      "91da4196a666df7e3473a590a42e8981e8cb1ea6f4505b6a86fbe8e43dea04d9": {
-        "title": "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？",
-        "link": "https://www.tmtpost.com/8034822.html",
-        "published_date": "Sat, 20 Jun 2026 10:54:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606655"
-      },
-      "46a6199d0f8cca9bdafe527a79ca7cadbeadc2b958db384d2e31e753d7ce9458": {
-        "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-        "link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 20 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606657"
-      },
-      "7f6dbba9cb880fe433f6be0dcc9ef1336bdc1a1db37a54e2ba15b44d7fdebc5a": {
-        "title": "国家能源局牵头，四大核电集团联手建绿色核能平台，能消除公众的“恐核”吗？",
-        "link": "https://www.tmtpost.com/8034838.html",
-        "published_date": "Sat, 20 Jun 2026 16:21:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606659"
-      },
-      "e4b76061f7c406051ba5dba271233d6dcfbbd6010b6ed140cc7fbf114b15d46e": {
-        "title": "手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌",
-        "link": "https://www.tmtpost.com/8034733.html",
-        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606661"
-      },
-      "baea1b5157196d7ca2e740a6d1c20bca1b8b1950d03ef47cc8027227d49eabf4": {
-        "title": "花钱雇AI当同事，我的生意怎么样了？",
-        "link": "https://www.tmtpost.com/8034774.html",
-        "published_date": "Sat, 20 Jun 2026 15:40:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606663"
-      },
-      "f0d6c70b927900bc02d4b65a395d1454aa82d657c4aa05870fab340606c13e21": {
-        "title": "Edge AI Daily 早报（6月20日）",
-        "link": "https://www.tmtpost.com/8034758.html",
-        "published_date": "Sat, 20 Jun 2026 08:32:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.606664"
-      },
       "8d457fce5ce74f88d262d5dd1b140597d5a77184c17072845c44496b87873034": {
         "title": "造芯片的，开始造设备了",
         "link": "https://www.tmtpost.com/8034884.html",
@@ -4135,45 +4075,69 @@
         "link": "https://www.tmtpost.com/8071099.html",
         "published_date": "Mon, 20 Jul 2026 09:31:00 GMT",
         "first_seen": "2026-07-20T08:08:33.365269"
+      },
+      "aafd50edb1575ec6cc2a5d6ab471c97037117366ea5a2b0c5033b349f5fdc74a": {
+        "title": "K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅",
+        "link": "https://www.tmtpost.com/8071690.html",
+        "published_date": "Mon, 20 Jul 2026 17:06:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383434"
+      },
+      "58d8f5fbe51c8d6aeb6d17539a0d2c9071fe22b7765d5f4ab5508b3e89857869": {
+        "title": "全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望",
+        "link": "https://www.tmtpost.com/8068237.html",
+        "published_date": "Mon, 20 Jul 2026 16:37:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383491"
+      },
+      "64dbcd9b5b54536cb8bace59484e5d41fc7b2e00961a9c6ab5c8a3df1fa54923": {
+        "title": "国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型",
+        "link": "https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Jul 2026 19:51:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383494"
+      },
+      "f972f3b51c18eaa11a0b175b5b81d0da45161d863510103d5cd58a1bdef0e2b0": {
+        "title": "AI硬件，开始为Agent重做｜OpenFuture",
+        "link": "https://www.tmtpost.com/8072001.html",
+        "published_date": "Mon, 20 Jul 2026 17:06:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383495"
+      },
+      "eb75946de9ea4e4b7bba403630b51e1296c226f1fab78908a88b0d9b660601a6": {
+        "title": "台积电：赚钱逻辑变了",
+        "link": "https://www.tmtpost.com/8072223.html",
+        "published_date": "Mon, 20 Jul 2026 18:41:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383497"
+      },
+      "b2f95b83b0717b5716dd7fe4cdb9501e3bef5ccab4dcc14fe94411b0e381b1d8": {
+        "title": "长鑫拉下韩国存储牛",
+        "link": "https://www.tmtpost.com/8071895.html",
+        "published_date": "Mon, 20 Jul 2026 17:36:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383499"
+      },
+      "3ead6f83e1a8cbc34ea9ee290f46fbf1e7a80e748af1d4ccb62ef05dbdcd3de4": {
+        "title": "无问芯穹夏立雪：数字世界与物理世界的所有AI生产力运行，都需要 Agentic Infra",
+        "link": "https://www.infoq.cn/article/AWhEVVgvNquuiKZdRQ0H?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Jul 2026 16:41:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383500"
+      },
+      "0bb81193982931ee9bfe90446d7d0917b83d9c32fd17195000bbcfed72ed0586": {
+        "title": "WAIC上，具身智能的十宗“最”",
+        "link": "https://www.tmtpost.com/8071756.html",
+        "published_date": "Mon, 20 Jul 2026 13:59:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383501"
+      },
+      "fcef635cdaf624a5908b13bca6fb70defd5ec287cdc2789a715be8eafaffcc0d": {
+        "title": "China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over",
+        "link": "https://www.tmtpost.com/8071553.html",
+        "published_date": "Mon, 20 Jul 2026 10:23:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383503"
+      },
+      "35748a74cb8e4e52d3bb0eb76f6780e87841001e0248d7d3130810ccea080f25": {
+        "title": "YC掌门人最新分享：AI时代，永远不要做一次性工作",
+        "link": "https://www.tmtpost.com/8071908.html",
+        "published_date": "Mon, 20 Jul 2026 18:42:00 GMT",
+        "first_seen": "2026-07-20T23:58:54.383504"
       }
     },
     "Finance": {
-      "61354286ceb012dc80875556ae7ad033dba1fd618086ed81f87a748930a1df19": {
-        "title": "Big Tech is stoking unrest in the UK. Why?",
-        "link": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657266"
-      },
-      "64dea2daee865295080eca7b31871c0676ca76ab26e9163b176ac77c5c7953db": {
-        "title": "The window for peace in Ukraine won’t be open forever",
-        "link": "https://www.ft.com/content/7b1ff72b-5a67-46b9-81c6-9e3855b99a34",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657274"
-      },
-      "97a4fe3ce28cb351c44097a967b7dd6b1f39d5bf3d9786fab7c9f4eddd121d84": {
-        "title": "Why dignity is the measure that matters",
-        "link": "https://www.ft.com/content/4b57127a-357a-46ef-a0ee-4da37a624e3a",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657277"
-      },
-      "698feebfa0b15cc6c9f3a8986e2239432746d1dd23af1d8fd8ba6ede3207b47d": {
-        "title": "Alternative for Germany revives Nazi-era attacks on Bauhaus",
-        "link": "https://www.ft.com/content/a9bb98e2-b39d-4f76-9708-eaa926697432",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657278"
-      },
-      "247d43004de6adeccdee9c8ce628e0e84446e1d2f4e70ac12158beae21d71024": {
-        "title": "Beer can boost ‘spiritual or mental’ health, says Kirin president",
-        "link": "https://www.ft.com/content/f97a3ea9-29c5-42bb-bf4e-d4f6929b40d1",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657280"
-      },
-      "f1064e0c5e2d0a61207da57ab8d89a092ee6e46870017b1005763f32af3ca28f": {
-        "title": "Nigel Farage’s Brexit rallies were funded from the EU budget",
-        "link": "https://www.ft.com/content/e6372589-0015-4b91-b2b6-6581c3937c5a",
-        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.657281"
-      },
       "fc4c04ee6ce8a074bf4df9ebcca4db7dbbc86e57494471a95f0c8bc56edf2964": {
         "title": "Did Anthropic talk its way into an AI export ban?",
         "link": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
@@ -7641,15 +7605,69 @@
         "link": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1",
         "published_date": "Mon, 20 Jul 2026 02:10:00 GMT",
         "first_seen": "2026-07-20T08:08:32.126818"
+      },
+      "7e9ecf50f6089ef6b05216798225031630c041da0c8f246eb63e6d842c5b0ea5": {
+        "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+        "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 20:55:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232339"
+      },
+      "64128ebd870633ac882d0551c236a10453118f892a2f53be693d0df2d8bfdfa6": {
+        "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+        "link": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 22:21:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232351"
+      },
+      "ac126954fe1ed87b8248c2fa74ebbf9d8cf3c20a7b54288bf011c1cb459490ce": {
+        "title": "US to hit Canada with 50% tariffs on wide range of goods",
+        "link": "https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1",
+        "published_date": "Mon, 20 Jul 2026 21:47:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232355"
+      },
+      "9419652df4c6b390731b23c6424b23509c87c07b31db1937628cb1dba7904197": {
+        "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
+        "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 21:11:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232358"
+      },
+      "772d510512d546ced81b4e4b9d70c613a1388a0b6b87fcaa915235a3edfcb6cb": {
+        "title": "US judge pauses Paramount’s $110bn Warner Bros acquisition",
+        "link": "https://www.ft.com/content/ce24c3cb-4643-43f1-8cfd-688056a434ec?syn-25a6b1a6=1",
+        "published_date": "Mon, 20 Jul 2026 17:37:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232363"
+      },
+      "05783a4d20e8faa595605c82b192a7e4d014abc3ae6e4fce354b62395a20de69": {
+        "title": "Oracle could face $7bn collateral bill for Wisconsin data centre",
+        "link": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5?syn-25a6b1a6=1",
+        "published_date": "Mon, 20 Jul 2026 23:33:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232366"
+      },
+      "21961b8900b96953e3a633cb49ee6184382be4307e6c02592f82145d06ff57c5": {
+        "title": "JPMorgan Chase boss warns Andy Burnham of ‘consequences’ if he taxes banks",
+        "link": "https://www.ft.com/content/b41aea5a-e374-49ef-9d74-938916de7dec?syn-25a6b1a6=1",
+        "published_date": "Mon, 20 Jul 2026 23:01:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232368"
+      },
+      "e9ae28231721b7c11ab2ae95723a02436c41f558b036c42f51a4cbac2a354f98": {
+        "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+        "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 22:55:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232370"
+      },
+      "570406a1d9eb40ea837fef5ee13b9097bd909924d30c58386c59c8c3a5c2855b": {
+        "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
+        "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 21:05:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232371"
+      },
+      "81f62f8d946f3d320dcf384438639ea6f375b5372ce5c7fee3b31a8163aafcf0": {
+        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Jul 2026 22:00:00 GMT",
+        "first_seen": "2026-07-20T23:58:53.232372"
       }
     },
     "Ai": {
-      "d0d2ad431177331ffe1069e3bfdea01c209a0fb89aef3396a55f03437cf2e879": {
-        "title": "2026-06-20日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-20/",
-        "published_date": "Sat, 20 Jun 2026 09:24:00 GMT",
-        "first_seen": "2026-06-20T08:24:28.785311"
-      },
       "9161663b53bf8cac4732be80fca5b054661256c2626d37ba29c793074e277c0a": {
         "title": "英伟达开始搞机器人自己研究机器人那套了…",
         "link": "https://www.qbitai.com/2026/06/437041.html",
@@ -10637,13 +10655,73 @@
         "link": "https://www.leiphone.com/category/ai/sGKmP6Yn5e2z0bCg.html",
         "published_date": "Mon, 20 Jul 2026 12:13:00 GMT",
         "first_seen": "2026-07-20T08:08:34.962734"
+      },
+      "428a4bd9cb8aaddd9f03f256e4cc8dc45e1a5cd0e75ce9b06200e3d97faf79ad": {
+        "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+        "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+        "published_date": "Mon, 20 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723744"
+      },
+      "e8e65beaad05c4242c8794970c67ada76f61145d5ba6c5e9838fd8f0fdfff956": {
+        "title": "WAIC 观察：通用具身智能要在有生之年实现，急需「物理 AI 基建狂魔」",
+        "link": "https://www.leiphone.com/category/industrynews/0EQFNlP882jwJCi7.html",
+        "published_date": "Mon, 20 Jul 2026 22:48:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723750"
+      },
+      "cb92ab122b4952baf59907d2e972d31e4cbde3f095fd8cb8eefaccc2a44a99cb": {
+        "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+        "link": "https://www.qbitai.com/2026/07/455805.html",
+        "published_date": "Mon, 20 Jul 2026 10:33:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723752"
+      },
+      "e3f2570e796eab9e4931c28105b3a9ad592ba5ea5c4d35f7cc500afd88472966": {
+        "title": "不止 Token 工厂，无问芯穹“前店后厂一中心”Agentic Infra 战略布局重磅发布",
+        "link": "https://www.leiphone.com/category/industrynews/Bd9P3BDlfNMuYJ8V.html",
+        "published_date": "Mon, 20 Jul 2026 15:18:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723755"
+      },
+      "887dbf51190f40e457a433a89dab53e5edaa8526caeb6ac5f9c1fab0f47951e8": {
+        "title": "摩尔线程为什么提出「三大AI工厂」？｜WAIC 2026",
+        "link": "https://www.leiphone.com/category/chips/c06JLy3iGPvZEP78.html",
+        "published_date": "Mon, 20 Jul 2026 18:33:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723757"
+      },
+      "770d46b02a5a3ca97b8ea88f2c88ab5b97eba01dc7e62442e469f04036ebc052": {
+        "title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+        "link": "https://www.qbitai.com/2026/07/455517.html",
+        "published_date": "Mon, 20 Jul 2026 08:44:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723759"
+      },
+      "da4e48986881bc512f6707019fc139ec6ba8ee55c2601d2c734f7645ef7d9ffc": {
+        "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+        "link": "https://www.qbitai.com/2026/07/455658.html",
+        "published_date": "Mon, 20 Jul 2026 09:05:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723761"
+      },
+      "58a5b78278d62da2b82817e9171be949e16eeb3abda96847ab450af8a10562c4": {
+        "title": "OceanBase CTO杨传辉WAIC分享：让数据库从人类友好到Agent友好",
+        "link": "https://www.leiphone.com/category/industrynews/nyoauJTE6FqhBvIB.html",
+        "published_date": "Mon, 20 Jul 2026 17:24:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723763"
+      },
+      "a239c3b2eb01edcc3d6e67c22b6c7ee2d683acd0b770ddff07f3c1c10e561b6c": {
+        "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+        "link": "https://www.leiphone.com/category/industrynews/9MBI4d1DUSLB4uyZ.html",
+        "published_date": "Mon, 20 Jul 2026 17:15:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723764"
+      },
+      "eeb29d427bf9ebd77ecdd11b6d9a35ec08b84f6eace2f095d4335a4b0185621c": {
+        "title": "姚卯青、张正友、徐丹飞等七位大佬同席，这届 WAIC 把具身未来聊透了",
+        "link": "https://www.leiphone.com/category/academic/tpEMqz2SnlQ8fDPI.html",
+        "published_date": "Mon, 20 Jul 2026 15:33:00 GMT",
+        "first_seen": "2026-07-20T23:58:55.723766"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-20T08:08:33.365271",
-    "Finance": "2026-07-20T08:08:32.126820",
-    "Ai": "2026-07-20T08:08:34.962735"
+    "Technology": "2026-07-20T23:58:54.383506",
+    "Finance": "2026-07-20T23:58:53.232374",
+    "Ai": "2026-07-20T23:58:55.723768"
   }
 }
