@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-19 09:54
+**最后更新时间**: 2026-07-20 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-20 00:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Spain beat Argentina to win World Cup for second time](https://www.ft.com/content/424d3c10-0068-4005-ad9b-d15daa70b842?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 23:35
+
+#### [US death toll climbs as Iran war expands](https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 22:31
+
+#### [Boeing says it will be ready to fund new plane programme by 2030](https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 17:22
+
+#### [EU faces crumbling support for new Russia sanctions](https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 14:00
+
+#### [It’s time for Europe to embrace air conditioning](https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 13:58
+
+#### [US day traders flock to ‘the most dangerous product in crypto’](https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 10:10
+
+#### [The art of knowing when to step down](https://www.ft.com/content/3e1393cf-a256-40fc-b2e3-35544444474b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-19 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies](https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 23:30
+
+#### [World Cup-champion Spain just won $50 million — and the IRS gets a cut](https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 22:29
+
+#### [Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?](https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 19:06
+
+#### [Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?](https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 15:43
+
+#### [Can former employers withhold money from your 401(k) when you’re laid off?](https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 14:45
 
 ---
 

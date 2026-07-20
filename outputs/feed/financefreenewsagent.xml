@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jul 2026 09:54:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 09:54:57 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 00:01:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US strikes Iran after two American troops killed in Jordan</title>
-      <link>https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US strikes Iran after two American troops killed in Jordan]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1</guid>
+      <title>Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies</title>
+      <link>https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 23:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?</title>
+      <link>https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US day traders flock to ‘the most dangerous product in crypto’</title>
+      <link>https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US day traders flock to ‘the most dangerous product in crypto’]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Can former employers withhold money from your 401(k) when you’re laid off?</title>
+      <link>https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Can former employers withhold money from your 401(k) when you’re laid off?]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Boeing says it will be ready to fund new plane programme by 2030</title>
+      <link>https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Boeing says it will be ready to fund new plane programme by 2030]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>EU faces crumbling support for new Russia sanctions</title>
+      <link>https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[EU faces crumbling support for new Russia sanctions]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>World Cup-champion Spain just won $50 million — and the IRS gets a cut</title>
+      <link>https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[World Cup-champion Spain just won $50 million — and the IRS gets a cut]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 22:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?</title>
+      <link>https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US death toll climbs as Iran war expands</title>
+      <link>https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US death toll climbs as Iran war expands]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 22:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>It’s time for Europe to embrace air conditioning</title>
+      <link>https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[It’s time for Europe to embrace air conditioning]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cbeea953-1162-48f0-ac6d-e022c42353c6?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

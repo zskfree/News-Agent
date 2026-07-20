@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jul 2026 09:52:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 09:54:59 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新</title>
-      <link>https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html</link>
-      <description>&lt;![CDATA[高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/dX9rUFVHGEWJz4yQ.html</guid>
+      <title>对话商汤林达华：多模态是 Coding 之后的下一个战场</title>
+      <link>https://www.leiphone.com/category/yanxishe/uHHqpDWEcbFxyyvD.html</link>
+      <description>&lt;![CDATA[对话商汤林达华：多模态是 Coding 之后的下一个战场]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/uHHqpDWEcbFxyyvD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中科闻歌WAIC2026发布业界首个全系决策智能产品</title>
-      <link>https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html</link>
-      <description>&lt;![CDATA[中科闻歌WAIC2026发布业界首个全系决策智能产品]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 14:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/d6jcZEDt7SPlnwhh.html</guid>
+      <title>七年WAIC同行，燧原科技持续展示国产AI算力规模化落地成果，共筑Token经济时代算力底座</title>
+      <link>https://www.leiphone.com/category/chips/JhfBBOws6hhzIKhA.html</link>
+      <description>&lt;![CDATA[七年WAIC同行，燧原科技持续展示国产AI算力规模化落地成果，共筑Token经济时代算力底座]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/JhfBBOws6hhzIKhA.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径</title>
-      <link>https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html</link>
-      <description>&lt;![CDATA[苏度 WAIC 首秀：从1到10+技能跃迁，探索通用机器人 Scaling 路径]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/7NBqAPnPNa3p2OD4.html</guid>
+      <title>赛思极限CEO徐楠：以“通专一体”科学基础模型推动科研范式重塑</title>
+      <link>https://www.leiphone.com/category/industrynews/8RexF36ULks4rsio.html</link>
+      <description>&lt;![CDATA[赛思极限CEO徐楠：以“通专一体”科学基础模型推动科研范式重塑]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/8RexF36ULks4rsio.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>冷门的哲学，成了“治”AI的热门</title>
+      <link>https://www.qbitai.com/2026/07/455041.html</link>
+      <description>&lt;![CDATA[冷门的哲学，成了“治”AI的热门]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455041.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>围观WAIC模型「读心术」！现场火火火火火</title>
+      <link>https://www.qbitai.com/2026/07/455031.html</link>
+      <description>&lt;![CDATA[围观WAIC模型「读心术」！现场火火火火火]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455031.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半</title>
+      <link>https://www.qbitai.com/2026/07/454932.html</link>
+      <description>&lt;![CDATA[不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454932.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……</title>
+      <link>https://www.qbitai.com/2026/07/454802.html</link>
+      <description>&lt;![CDATA[逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454802.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议</title>
+      <link>https://www.qbitai.com/2026/07/454791.html</link>
+      <description>&lt;![CDATA[聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454791.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问</title>
+      <link>https://www.qbitai.com/2026/07/454774.html</link>
+      <description>&lt;![CDATA[2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454774.html</guid>
       <category>Ai</category>
     </item>
   </channel>
