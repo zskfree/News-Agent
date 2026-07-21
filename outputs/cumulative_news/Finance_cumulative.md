@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 10:28
+**最后更新时间**: 2026-07-21 23:58
+
+---
+
+## 🆕 最新更新 (2026-07-21 23:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This is the ideal retirement strategy if you want to keep your healthcare costs down](https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 23:56
+
+#### [Super Micro’s stock soars as its margins unexpectedly double](https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 22:11
+
+#### [SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch](https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:59
+
+#### [I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?](https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:30
+
+#### [Why energy stocks still look so cheap, even after their big rally this month](https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:27
+
+#### [Why Micron and other chip stocks are bouncing back so strongly](https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:12
+
+#### [Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.](https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 20:09
+
+#### [Why Paramount could win if it loses the Warner Bros. Discovery deal](https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 19:49
+
+#### [Pro stock pickers cannot beat simple math — war in the Middle East is proving it](https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 19:46
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump taps Big Tech critic as chief of DoJ antitrust division](https://www.ft.com/content/9cff12a5-db1f-4a70-b048-87428c181dbd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 23:13
+
+#### [Trump reinstates direct US flights to Lebanon after meeting its president](https://www.ft.com/content/dafd2342-4322-46bd-9837-73abff063989?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 21:57
+
+#### [Trump vows to attack Iranian nuclear facility as Middle East war escalates](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 21:41
+
+#### [Zelenskyy replaces top Ukraine general after mass protests](https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 21:16
+
+#### [US Treasury sends warning to hedge funds over ‘tax alpha’ strategies](https://www.ft.com/content/79d588f8-13fa-4a12-8326-bf9250755de9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 20:42
+
+#### [Bill Gates was warned about Epstein links by staff of his foundation](https://www.ft.com/content/aec7adf3-eef7-454c-b326-733f8748a3f5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 17:15
+
+#### [Should testosterone be in Hegseth’s build-your-own-warrior playbook?](https://www.ft.com/content/7fda64dd-4f31-42b1-bd93-1e7a7703449f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 16:45
+
+#### [Why the world trusts China more than America](https://www.ft.com/content/f3ad032f-3c06-4ed4-82e2-7c2e5e68af26?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 11:28
+
+#### [The Gulf nation that became Iran’s softest target](https://www.ft.com/content/341d3e1b-f619-486d-9fd3-79d1906d9283?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
 
 ---
 
