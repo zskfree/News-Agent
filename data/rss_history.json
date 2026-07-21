@@ -2,54 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3591aa0b945297cb405c85d930a0ecc3b460b03b4846a7829b0ffa668f170a95": {
-        "title": "Plaud软件年化收入破1亿美元，硬件明星开始软件叙事 ｜出海参考",
-        "link": "https://www.tmtpost.com/8034874.html",
-        "published_date": "Sun, 21 Jun 2026 13:22:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116416"
-      },
-      "336cab09493f6e1d7e9bd18ef2c411f3771303b0d6394396180d5aecd6548acd": {
-        "title": "GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规",
-        "link": "https://www.tmtpost.com/8035108.html",
-        "published_date": "Sun, 21 Jun 2026 12:35:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116426"
-      },
-      "b5945866b41b27879d4b4e88726c8e875eccd6b96c41800ab0796063f5d6932a": {
-        "title": "全球航空业的奇特困境：客座率史上最高，但是飞机不够用了",
-        "link": "https://www.tmtpost.com/8035046.html",
-        "published_date": "Sun, 21 Jun 2026 10:01:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116429"
-      },
-      "f120a97574da7fd0771399bb7d06ed8f649ac12fb43f7acca9cd3923dd14adeb": {
-        "title": "年接待960万人次，清明上河园仍要去港股“找钱”",
-        "link": "https://www.tmtpost.com/8035033.html",
-        "published_date": "Sun, 21 Jun 2026 10:01:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116430"
-      },
-      "7972eb226a0abb4f81c76df99fdcacb0c50445ecffd16fe7bdfa1781380b6a42": {
-        "title": "AI 知识付费“出海”：一门生意的机会、风险与转折点",
-        "link": "https://www.tmtpost.com/8035065.html",
-        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116432"
-      },
-      "227519133927bc2782b0dd934ea297042a041bccd831deb0ff954da94279af7c": {
-        "title": "Edge AI Daily 早报（6月21日）",
-        "link": "https://www.tmtpost.com/8035059.html",
-        "published_date": "Sun, 21 Jun 2026 08:56:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116433"
-      },
-      "05ed15ccab931af0951ab656309f4ee53b704afb45b9af7ce0438ae83455342e": {
-        "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
-        "link": "https://sspai.com/post/110972",
-        "published_date": "Sun, 21 Jun 2026 10:30:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116435"
-      },
-      "2b7deda88e367d3fc90299e9cfddba6601f54840e07db1d4d38902023fa99c16": {
-        "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
-        "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.116437"
-      },
       "3ba331a293fbac12d4f4e0707ae391f15e9c56cf271c7ea8a4c2e7ccc44dd50a": {
         "title": "【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5",
         "link": "https://www.tmtpost.com/8035376.html",
@@ -4153,57 +4105,69 @@
         "link": "https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 21 Jul 2026 15:22:00 GMT",
         "first_seen": "2026-07-21T07:35:46.188177"
+      },
+      "1b85bfa2d00b6c5d6a63cd327bdb29ea76369df6a42d1b6d03a45b1cc3001b78": {
+        "title": "机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+        "link": "https://www.tmtpost.com/8073956.html",
+        "published_date": "Tue, 21 Jul 2026 17:11:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159141"
+      },
+      "c6a46957be5e9aa738ce9ef1b2b666ef574cfdb6f1c0250e2bdc2d216e432aa3": {
+        "title": "具身机器人进家，只差一套“情感世界模型”",
+        "link": "https://www.tmtpost.com/8073768.html",
+        "published_date": "Tue, 21 Jul 2026 17:22:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159147"
+      },
+      "b38159fc199ba7b1547260f2c249745750548801d70ac450a02da3afa7c90a16": {
+        "title": "2026WAIC收官，看见物理AI的落地与未来",
+        "link": "https://www.tmtpost.com/8073569.html",
+        "published_date": "Tue, 21 Jul 2026 16:56:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159150"
+      },
+      "e8931cf629509aee07378f0b7e5bf3f731a792ed2594cb257ae8ff6b3a4cbc86": {
+        "title": "千问进苹果，大模型开始「隐身」",
+        "link": "https://www.tmtpost.com/8073933.html",
+        "published_date": "Tue, 21 Jul 2026 17:14:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159152"
+      },
+      "816876bba487bd50dbaee1088ecbdde1d97fc59ac6ed6aa42d6aea24beebe0c2": {
+        "title": "微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步",
+        "link": "https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 14:31:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159154"
+      },
+      "73ff768da3a6a194d6795f6d340d9238b64a9d41a229f3bca328ee26a5b26fc1": {
+        "title": "星环科技发布GPU原生数据库 试水AI Agent数据底座",
+        "link": "https://www.tmtpost.com/8073241.html",
+        "published_date": "Tue, 21 Jul 2026 12:46:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159156"
+      },
+      "782b436472f3747f339eec7120dc6b7748a79b21c9d886e98d1d8e88b25ad903": {
+        "title": "Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”",
+        "link": "https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 16:14:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159157"
+      },
+      "afdaed8e61cbe12520330bd8afd024ef5fc2b9564fcf97bd045b82deff843ceb": {
+        "title": "马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹",
+        "link": "https://www.infoq.cn/article/ob3ZAxR7XI1YiJzWwb1D?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 14:40:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159159"
+      },
+      "f8140f55cbe0af84e3cf7e7d62681f92d9b88012a98f82f32a388fcc7f5b8928": {
+        "title": "通往数据主权之路：本地优先计算面临的挑战与优先事项",
+        "link": "https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Jul 2026 17:21:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159160"
+      },
+      "ef9a1b97222c4d200941a73d4b8abc2322be16f034a6e453950454f662d66497": {
+        "title": "瑞士工程科技企业RTDT Laboratories研发无线智能传感贴片，实时监测风机叶片运行状态",
+        "link": "https://www.tmtpost.com/8073595.html",
+        "published_date": "Tue, 21 Jul 2026 13:24:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.159161"
       }
     },
     "Finance": {
-      "7bb01a96aa0b2e8c62c0d5833c569625dc1e957410d3cdcaf3629c650630afa5": {
-        "title": "Starmer could announce exit next week, some ministers believe",
-        "link": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
-        "published_date": "Sun, 21 Jun 2026 08:14:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166250"
-      },
-      "999af26771b03ef4b0a123ef17e5d690222bdd5f1971c86651c17a755f4598a1": {
-        "title": "Vance arrives in Switzerland for crunch US-Iran talks",
-        "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-        "published_date": "Sun, 21 Jun 2026 07:31:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166258"
-      },
-      "3f74ef49fbe4daf03e995d54c7c3f685e33cf79e9b8d89a4013ad627d73e3067": {
-        "title": "Sorry, Elon, the far right is still the far right",
-        "link": "https://www.ft.com/content/313f78c7-8959-4188-a3d2-dc9132ef0ba3",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166260"
-      },
-      "63adcf157cd0c448871aa5bcb99f4c8c6f92af327eb6320ea1f82118ca317fd7": {
-        "title": "Finally, a use for corporate bullshit",
-        "link": "https://www.ft.com/content/1795c467-761d-4cfc-8fe9-a6dbb888ba7b",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166262"
-      },
-      "8b5d38a97421879ad8b2c279b643a2fe8acf40e1da2f06d712f69b1ef7ec06c2": {
-        "title": "Putin’s war machine sputters in drone age",
-        "link": "https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166264"
-      },
-      "89c316fdbf90f311bb8101a88ca89cb6dea84bbe56698b8cc0b30fc26905284f": {
-        "title": "SpaceX handed lowest possible ESG rating by MSCI",
-        "link": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166265"
-      },
-      "c3f0664d7271e20742f3c0bc6105006eaf4461720bc7c99a8c005e7a619c29c0": {
-        "title": "How easily could Britain rejoin the EU?",
-        "link": "https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166267"
-      },
-      "406054fb8bf754e08f5b9fabeb17ede9d09f0aeaa8e53be7f3087069786ab67b": {
-        "title": "Holiday bookings surge in markets hit by Iran crisis",
-        "link": "https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb",
-        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.166268"
-      },
       "ae35ba7c59140518b89f1843bbc4523212eff0a108f574688efbd702635f2211": {
         "title": "US and Iran conduct tense peace talks in Switzerland",
         "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
@@ -7683,15 +7647,51 @@
         "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
         "published_date": "Tue, 21 Jul 2026 04:01:00 GMT",
         "first_seen": "2026-07-21T07:35:44.884015"
+      },
+      "8ef977a30b4dd12af320f25c4dfb787a27f77490c94c52e806bbb12b211ecd01": {
+        "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+        "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 10:15:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101071"
+      },
+      "81acd805ff4ff32df2abcc4f1a14e27b4eb968367a970c1f12e1b9a957dd34db": {
+        "title": "Another major stock exchange moves toward 24-hour trading",
+        "link": "https://www.marketwatch.com/story/another-major-stock-exchange-moves-toward-24-hour-trading-7f406dce?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 10:02:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101084"
+      },
+      "74e9ce145c1fd19012f2b768191c35e85ee61821c35f529a62a012372767cb68": {
+        "title": "China contemplates tit-for-tat  export controls against U.S. on AI technologies: report",
+        "link": "https://www.marketwatch.com/story/china-contemplates-tit-for-tat-export-controls-against-u-s-on-ai-technologies-report-e6493c74?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 09:12:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101087"
+      },
+      "8815466e040a1af2eec407868530567080a5f3f9e7621ed8074626dba568d8ce": {
+        "title": "Montana home of Kelly Clarkson’s late ex-husband Brandon Blackstock listed for $2.9 million",
+        "link": "https://www.marketwatch.com/story/montana-home-of-kelly-clarksons-late-ex-husbandbrandon-blackstock-listed-for-2-9-million-f1a5a7b4?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 09:03:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101089"
+      },
+      "a0e18eb38ba00b0c15aa40739530761a4b0b5ee284ad33fa62027628edcca71a": {
+        "title": "Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don’t ease, says Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101092"
+      },
+      "70304f6d8fbbdb081e0d9259ec17b9fb93b06330fd23839e30989470b1a3e150": {
+        "title": "Jamie Dimon says he wouldn’t buy Treasurys. ‘I don’t understand the upside.’",
+        "link": "https://www.marketwatch.com/story/jamie-dimon-says-he-wouldnt-buy-treasurys-i-dont-understand-the-upside-dfcdf012?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Jul 2026 07:51:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101093"
+      },
+      "d217b9562b91fbb668b2e3754cdb71cb3ba979b121491a4329009fbe4baff15c": {
+        "title": "Trump prepares fresh tariff barrage with 10% levies set to expire",
+        "link": "https://www.ft.com/content/c31cdab6-b2cf-4754-9c84-73c3c848bcb3?syn-25a6b1a6=1",
+        "published_date": "Tue, 21 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-21T10:28:23.101095"
       }
     },
     "Ai": {
-      "871d6c8a8da3c0d9cb455280581d442163f6dddef1db2465d2726a65090decb2": {
-        "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-        "link": "https://www.qbitai.com/2026/06/437141.html",
-        "published_date": "Sun, 21 Jun 2026 04:46:00 GMT",
-        "first_seen": "2026-06-21T09:00:03.290354"
-      },
       "3ea08b7b9927f5b9dde47c17d2e5c5962c06a6c3e37f8c3c3e4119a361a0187c": {
         "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
         "link": "https://www.qbitai.com/2026/06/437198.html",
@@ -10745,13 +10745,55 @@
         "link": "https://www.qbitai.com/2026/07/455993.html",
         "published_date": "Tue, 21 Jul 2026 06:03:00 GMT",
         "first_seen": "2026-07-21T07:35:46.318979"
+      },
+      "72db4c91bc7a1ee654a29718444b3578660113ce9c925052924c61db7a8a0186": {
+        "title": "百万辆装车之后，华为乾崑如何迈向下一代智能驾驶",
+        "link": "https://www.leiphone.com/category/transportation/p9FQYmxumukWgNIG.html",
+        "published_date": "Tue, 21 Jul 2026 16:06:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293780"
+      },
+      "4c7e606428933747d2408a7357beece0b072601165ee93818c4da7b2c5baca58": {
+        "title": "国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载",
+        "link": "https://www.leiphone.com/category/chips/iWlm9n5NckNHsVW5.html",
+        "published_date": "Tue, 21 Jul 2026 14:58:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293788"
+      },
+      "91108021ac1f76d32604cac954ec7b798b09a6657d94d3895c6824f3a40ebc5d": {
+        "title": "Momenta股价涨超10%，Robotaxi业务取得新进展",
+        "link": "https://www.leiphone.com/category/industrynews/UL3cMKpyXdpasEOo.html",
+        "published_date": "Tue, 21 Jul 2026 13:46:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293791"
+      },
+      "dfbee80531f14b363ea24a6895e42c7b06e425bd340260bf04c13b9ee3f767c7": {
+        "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
+        "link": "https://www.qbitai.com/2026/07/456052.html",
+        "published_date": "Tue, 21 Jul 2026 09:39:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293792"
+      },
+      "a2d27cba9568a0c9cb45e5844c0cf03a6af6929c476f91b08110fe61b82847a1": {
+        "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+        "link": "https://www.qbitai.com/2026/07/456026.html",
+        "published_date": "Tue, 21 Jul 2026 09:30:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293794"
+      },
+      "d537eea067a73d14e724f0d5a59ab7b88c83c787415656cd0de6041714f65ba9": {
+        "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
+        "link": "https://www.qbitai.com/2026/07/456021.html",
+        "published_date": "Tue, 21 Jul 2026 09:21:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293795"
+      },
+      "2e49aed8f97fa3bcc7e5a68455e8aafc7bf0854d03bf16ac137db4a4fe525e7c": {
+        "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
+        "link": "https://www.qbitai.com/2026/07/455998.html",
+        "published_date": "Tue, 21 Jul 2026 09:15:00 GMT",
+        "first_seen": "2026-07-21T10:28:24.293796"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-21T07:35:46.188180",
-    "Finance": "2026-07-21T07:35:44.884017",
-    "Ai": "2026-07-21T07:35:46.318981"
+    "Technology": "2026-07-21T10:28:24.159163",
+    "Finance": "2026-07-21T10:28:23.101098",
+    "Ai": "2026-07-21T10:28:24.293798"
   }
 }

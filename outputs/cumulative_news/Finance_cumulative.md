@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 07:35
+**最后更新时间**: 2026-07-21 10:28
+
+---
+
+## 🆕 最新更新 (2026-07-21 10:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?](https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 10:15
+
+#### [Another major stock exchange moves toward 24-hour trading](https://www.marketwatch.com/story/another-major-stock-exchange-moves-toward-24-hour-trading-7f406dce?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 10:02
+
+#### [China contemplates tit-for-tat  export controls against U.S. on AI technologies: report](https://www.marketwatch.com/story/china-contemplates-tit-for-tat-export-controls-against-u-s-on-ai-technologies-report-e6493c74?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 09:12
+
+#### [Montana home of Kelly Clarkson’s late ex-husband Brandon Blackstock listed for $2.9 million](https://www.marketwatch.com/story/montana-home-of-kelly-clarksons-late-ex-husbandbrandon-blackstock-listed-for-2-9-million-f1a5a7b4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 09:03
+
+#### [Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don’t ease, says Goldman Sachs](https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 09:00
+
+#### [Jamie Dimon says he wouldn’t buy Treasurys. ‘I don’t understand the upside.’](https://www.marketwatch.com/story/jamie-dimon-says-he-wouldnt-buy-treasurys-i-dont-understand-the-upside-dfcdf012?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 07:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump prepares fresh tariff barrage with 10% levies set to expire](https://www.ft.com/content/c31cdab6-b2cf-4754-9c84-73c3c848bcb3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 10:00
+
+#### [Burnham move to eliminate VAT on electricity bills sparks funding row](https://www.ft.com/content/7700d94a-d204-439a-92c8-027f67320b73)
+**发布时间**: 2026-07-21 05:43
+
+#### [Nearly 100 US troops injured in 2 weeks since Iran war resumed](https://www.ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 05:33
+
+#### [‘A wild west’: how one Swiss company aims to tame the botox boom](https://www.ft.com/content/fe63e973-b720-4c9c-bbee-8a91290f1872?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [Tom Hayes says UBS’s ‘Project Chocolate’ probe shows he was targeted from outset](https://www.ft.com/content/35bc9320-0232-4d9e-95f4-d81d2e36d6fd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
 
 ---
 
