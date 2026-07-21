@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 23:58:54 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 07:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:35:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅</title>
-      <link>https://www.tmtpost.com/8071690.html</link>
-      <description>&lt;![CDATA[K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071690.html</guid>
+      <title>沿用DeepSeek架构，美国大模型开始抄中国作业</title>
+      <link>https://www.tmtpost.com/8073623.html</link>
+      <description>&lt;![CDATA[沿用DeepSeek架构，美国大模型开始抄中国作业]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073623.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望</title>
-      <link>https://www.tmtpost.com/8068237.html</link>
-      <description>&lt;![CDATA[全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068237.html</guid>
+      <title>对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？</title>
+      <link>https://www.tmtpost.com/8071867.html</link>
+      <description>&lt;![CDATA[对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8071867.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型</title>
-      <link>https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 19:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&amp;utm_medium=article</guid>
+      <title>16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron</title>
+      <link>https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI硬件，开始为Agent重做｜OpenFuture</title>
-      <link>https://www.tmtpost.com/8072001.html</link>
-      <description>&lt;![CDATA[AI硬件，开始为Agent重做｜OpenFuture]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8072001.html</guid>
+      <title>OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞</title>
+      <link>https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>台积电：赚钱逻辑变了</title>
-      <link>https://www.tmtpost.com/8072223.html</link>
-      <description>&lt;![CDATA[台积电：赚钱逻辑变了]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8072223.html</guid>
+      <title>DoorDash 如何打造了一款不完全依赖大型语言模型（LLM）的 AI 购物助手</title>
+      <link>https://www.infoq.cn/article/QAIQh8E5yNr4i4RAYySz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DoorDash 如何打造了一款不完全依赖大型语言模型（LLM）的 AI 购物助手]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 14:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QAIQh8E5yNr4i4RAYySz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长鑫拉下韩国存储牛</title>
-      <link>https://www.tmtpost.com/8071895.html</link>
-      <description>&lt;![CDATA[长鑫拉下韩国存储牛]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071895.html</guid>
+      <title>对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”</title>
+      <link>https://www.tmtpost.com/8073606.html</link>
+      <description>&lt;![CDATA[对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073606.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无问芯穹夏立雪：数字世界与物理世界的所有AI生产力运行，都需要 Agentic Infra</title>
-      <link>https://www.infoq.cn/article/AWhEVVgvNquuiKZdRQ0H?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[无问芯穹夏立雪：数字世界与物理世界的所有AI生产力运行，都需要 Agentic Infra]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AWhEVVgvNquuiKZdRQ0H?utm_source=rss&amp;utm_medium=article</guid>
+      <title>机器人有了“世界模型”，却还缺一张“人的状态地图”</title>
+      <link>https://www.tmtpost.com/8073430.html</link>
+      <description>&lt;![CDATA[机器人有了“世界模型”，却还缺一张“人的状态地图”]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC上，具身智能的十宗“最”</title>
-      <link>https://www.tmtpost.com/8071756.html</link>
-      <description>&lt;![CDATA[WAIC上，具身智能的十宗“最”]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 13:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071756.html</guid>
+      <title>The Strategic Matchmaking of Apple and Qwen: Why a Marriage of Convenience Could Reshape China’s AI Market</title>
+      <link>https://www.tmtpost.com/8072827.html</link>
+      <description>&lt;![CDATA[The Strategic Matchmaking of Apple and Qwen: Why a Marriage of Convenience Could Reshape China’s AI Market]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 07:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8072827.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over</title>
-      <link>https://www.tmtpost.com/8071553.html</link>
-      <description>&lt;![CDATA[China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071553.html</guid>
+      <title>Robot Phone，荣耀给出了AI手机的新模式？</title>
+      <link>https://www.tmtpost.com/8072731.html</link>
+      <description>&lt;![CDATA[Robot Phone，荣耀给出了AI手机的新模式？]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 12:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8072731.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>YC掌门人最新分享：AI时代，永远不要做一次性工作</title>
-      <link>https://www.tmtpost.com/8071908.html</link>
-      <description>&lt;![CDATA[YC掌门人最新分享：AI时代，永远不要做一次性工作]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 18:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071908.html</guid>
+      <title>OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界</title>
+      <link>https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,106 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 23:58
+**最后更新时间**: 2026-07-21 07:35
+
+---
+
+## 🆕 最新更新 (2026-07-21 07:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界](https://www.infoq.cn/article/UZ1j5LXmjNgiCfu5QL0s?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 15:22
+
+#### [16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron](https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:53
+
+#### [龙虾之父一条推文，Loop 时代终结？](https://www.infoq.cn/article/58Vmogt2bAU6ciTIAuDt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:48
+
+#### [所有Harness终将长成“龙虾”，但最后活下来的只有几只](https://www.infoq.cn/article/pFXQ6Q0XyNTuIxQsr7dM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:43
+
+#### [马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹](https://www.infoq.cn/article/ob3ZAxR7XI1YiJzWwb1D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:40
+
+#### [微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步](https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:31
+
+#### [DoorDash 如何打造了一款不完全依赖大型语言模型（LLM）的 AI 购物助手](https://www.infoq.cn/article/QAIQh8E5yNr4i4RAYySz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 14:15
+
+#### [Java 近期新闻：TornadoVM 5、JHipster、Google ADK、OmniFish Build of Payara、Vidocq 发布](https://www.infoq.cn/article/pwI9ti1vx0uPcSZRg9zL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 11:00
+
+#### [OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞](https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-21 09:52
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Global Ambitions Meet Practical Challenges at WAIC 2026](https://www.tmtpost.com/8073813.html)
+**发布时间**: 2026-07-21 14:33
+
+#### [智谱保卫硅谷](https://www.tmtpost.com/8073535.html)
+**发布时间**: 2026-07-21 13:48
+
+#### [为什么总是上海？](https://www.tmtpost.com/8073683.html)
+**发布时间**: 2026-07-21 13:41
+
+#### [沿用DeepSeek架构，美国大模型开始抄中国作业](https://www.tmtpost.com/8073623.html)
+**发布时间**: 2026-07-21 13:37
+
+#### [没人读的文章，正在被写给 AI 看](https://www.tmtpost.com/8073622.html)
+**发布时间**: 2026-07-21 13:24
+
+#### [瑞士工程科技企业RTDT Laboratories研发无线智能传感贴片，实时监测风机叶片运行状态](https://www.tmtpost.com/8073595.html)
+**发布时间**: 2026-07-21 13:24
+
+#### [贵州为啥要开这么多有“酒”的酒店？](https://www.tmtpost.com/8073572.html)
+**发布时间**: 2026-07-21 13:24
+
+#### [三峡能源半年净利跌超七成，龙源电力、国投电力等发电量持续下降 ，新能源发电行业遭遇“量价双杀”](https://www.tmtpost.com/8073476.html)
+**发布时间**: 2026-07-21 13:24
+
+#### [对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”](https://www.tmtpost.com/8073606.html)
+**发布时间**: 2026-07-21 13:01
+
+#### [世界杯对小红书究竟意味着什么？](https://www.tmtpost.com/8062978.html)
+**发布时间**: 2026-07-21 12:48
+
+#### [WAIC里不只有AI丨WAIC2026](https://www.tmtpost.com/8073235.html)
+**发布时间**: 2026-07-21 12:47
+
+#### [对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？](https://www.tmtpost.com/8071867.html)
+**发布时间**: 2026-07-21 12:46
+
+#### [星环科技发布GPU原生数据库 试水AI Agent数据底座](https://www.tmtpost.com/8073241.html)
+**发布时间**: 2026-07-21 12:46
+
+#### [Robot Phone，荣耀给出了AI手机的新模式？](https://www.tmtpost.com/8072731.html)
+**发布时间**: 2026-07-21 12:09
+
+#### [华能、三峡“退出” ，雅江进，央企排名第22位的副部级央企正在接管一条江](https://www.tmtpost.com/8073474.html)
+**发布时间**: 2026-07-21 12:02
+
+#### [成立AI部，多半要凉凉](https://www.tmtpost.com/8073432.html)
+**发布时间**: 2026-07-21 11:59
+
+#### [机器人有了“世界模型”，却还缺一张“人的状态地图”](https://www.tmtpost.com/8073430.html)
+**发布时间**: 2026-07-21 11:54
+
+#### [100米开2家店，火锅鸡成今年大学城最火生意？](https://www.tmtpost.com/8073451.html)
+**发布时间**: 2026-07-21 11:48
+
+#### [BMS的留白，诺诚健华的窗口](https://www.tmtpost.com/8073467.html)
+**发布时间**: 2026-07-21 11:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1 | 把「从长视频截取片段」做到极致：Trimly](https://sspai.com/post/111569)
+**发布时间**: 2026-07-21 11:00
+
+#### [派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等](https://sspai.com/post/112565)
+**发布时间**: 2026-07-21 08:02
 
 ---
 

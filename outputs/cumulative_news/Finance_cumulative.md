@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 23:58
+**最后更新时间**: 2026-07-21 07:35
+
+---
+
+## 🆕 最新更新 (2026-07-21 07:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nearly 100 US troops injured in two weeks since Iran war resumed](https://www.ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 05:33
+
+#### [China weighs tighter export controls on AI models and chips](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [AI is becoming a geopolitical weapon, warns EU digital chief](https://www.ft.com/content/ccaf6c42-f94b-4afc-a063-7243b4fb78ed?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [The fall of America’s farm superpower](https://www.ft.com/content/8aa89209-dc0b-4678-9b6a-01029398b304?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [Why Canada isn’t listening to American whining in the wine wars](https://www.ft.com/content/23a211e3-3db7-47ac-b185-06f506d44aed)
+**发布时间**: 2026-07-21 04:00
+
+#### [Pointers for Burnham on what Britain really wants](https://www.ft.com/content/c2b74307-569b-448b-a1e6-c73b64d7c90b)
+**发布时间**: 2026-07-21 04:00
+
+#### [Biotech deals surge to record as fear of missing out grips Big Pharma](https://www.ft.com/content/3778ec84-778f-4983-8ad9-85e7dbb5698d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [Psychedelic drugs are going mainstream](https://www.ft.com/content/dd268ceb-e664-4e37-b304-e16dd5142946?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 04:00
+
+#### [Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of midterms](https://www.ft.com/content/c34f57ed-6c8e-4203-983b-6b619848cb3e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-21 01:53
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care](https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-21 04:01
 
 ---
 
