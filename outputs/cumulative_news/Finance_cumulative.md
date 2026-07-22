@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-22 07:35
+**最后更新时间**: 2026-07-22 10:28
+
+---
+
+## 🆕 最新更新 (2026-07-22 10:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I wanted to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?](https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 10:15
+
+#### [The ECB is expected to hold rates. But analysts say hawkish hints could be coming — and a hike isn’t impossible](https://www.marketwatch.com/story/the-ecb-is-expected-to-hold-rates-but-analysts-say-hawkish-hints-could-be-coming-and-a-hike-isnt-impossible-b92463bf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 10:01
+
+#### [This could be the right time to buy a momentum fund](https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 10:00
+
+#### [Goldman Sachs and Morgan Stanley had a monster quarter. Analysts say these giants could be next.](https://www.marketwatch.com/story/goldman-sachs-and-morgan-stanley-had-a-monster-quarter-analysts-say-these-giants-could-be-next-47b42e15?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 09:44
+
+#### [I have children from my first marriage. Should my second husband inherit my house if I die?](https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 09:15
+
+#### [Matt Damon’s carefully-curated property portfolio](https://www.marketwatch.com/story/matt-damons-carefully-curated-property-portfolio-162d984b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 09:02
+
+#### [There’s a mathematical formula to determining when Trump will TACO — and here’s when a pivot is expected](https://www.marketwatch.com/story/theres-a-mathematical-formula-to-determining-when-trump-will-taco-and-heres-when-a-pivot-is-expected-3d49a664?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 08:10
+
+#### [Here’s the surprising twist to the news OpenAI products went rogue and tried to steal an exam](https://www.marketwatch.com/story/heres-the-surprising-twist-to-the-news-openai-products-went-rogue-and-tried-to-steal-an-exam-660e0128?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 07:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil rises past $95 after Trump threatens further Iran escalation](https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 08:08
+
+#### [Ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek](https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [US will cut aluminium tariffs to boost defence supply chain](https://www.ft.com/content/a9bd2bbb-2d6f-4222-98d3-361c3644cf2c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 01:44
+
+#### [OpenAI admits AI ‘agent’ caused major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 00:11
 
 ---
 

@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-22 07:35
+**最后更新时间**: 2026-07-22 10:28
+
+---
+
+## 🆕 最新更新 (2026-07-22 10:28)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [旭阳新材：市占率“双料冠军”却向对手赔本供货，粗放扩张埋下多重经营隐患丨IPO观察](https://www.tmtpost.com/8074557.html)
+**发布时间**: 2026-07-22 18:09
+
+#### [暑期遭遇定档难](https://www.tmtpost.com/8074955.html)
+**发布时间**: 2026-07-22 17:42
+
+#### [一位游荡者的新疆消费观察](https://www.tmtpost.com/8074967.html)
+**发布时间**: 2026-07-22 17:41
+
+#### [刘强东的第二张物流网](https://www.tmtpost.com/8074740.html)
+**发布时间**: 2026-07-22 17:15
+
+#### [风向变了！三大运营商集体“卖铲”](https://www.tmtpost.com/8074796.html)
+**发布时间**: 2026-07-22 17:15
+
+#### [大模型正在“变小”？](https://www.tmtpost.com/8074930.html)
+**发布时间**: 2026-07-22 17:15
+
+#### [连达芬奇手术机器人都开始降本了！](https://www.tmtpost.com/8074923.html)
+**发布时间**: 2026-07-22 17:15
+
+#### [十年雅迪717，“智能痛车” 让Z世代集体“上头”](https://www.tmtpost.com/8075115.html)
+**发布时间**: 2026-07-22 16:58
+
+#### [AI竞争，为什么先比算力？](https://www.tmtpost.com/8074544.html)
+**发布时间**: 2026-07-22 16:32
+
+#### [小红书能留住男人吗？](https://www.tmtpost.com/8074728.html)
+**发布时间**: 2026-07-22 16:18
+
+#### [上海WAIC深度观察：模型隐身，Agent疯野](https://www.tmtpost.com/8074627.html)
+**发布时间**: 2026-07-22 16:18
+
+#### [智能眼镜不是一张榜单：Meta之外，中国玩家的四条路线](https://www.tmtpost.com/8074531.html)
+**发布时间**: 2026-07-22 16:01
+
+#### [AI在企业中为什么没有体现价值？丨WAIC2026](https://www.tmtpost.com/8075237.html)
+**发布时间**: 2026-07-22 15:36
+
+#### [平价雪糕归来，社区超市能撬动冷饮市场么？](https://www.tmtpost.com/8074495.html)
+**发布时间**: 2026-07-22 15:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了](https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 17:46
+
+#### [阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍](https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 17:42
+
+#### [不靠最强模型也能赢？谷歌正用一款“冷冻”芯片复制搜索时代的“全栈碾压”](https://www.infoq.cn/article/QGd73qDEWeoy1HxshQMH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 16:45
+
+#### [云原生基础设施正成为可信代理式 AI 的基础](https://www.infoq.cn/article/oM4mt43K2Ss3Qd7zdhhr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 16:25
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [滤镜背后的色彩科学：LUT 是什么？](https://sspai.com/post/111550)
+**发布时间**: 2026-07-22 15:00
 
 ---
 
