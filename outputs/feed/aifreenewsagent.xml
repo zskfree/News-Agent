@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Jul 2026 23:56:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 23:58:46 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 07:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:35:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide</title>
-      <link>https://blogs.nvidia.com/blog/vera-rubin/</link>
-      <description>&lt;![CDATA[NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/vera-rubin/</guid>
+      <title>物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣</title>
+      <link>https://www.qbitai.com/2026/07/456728.html</link>
+      <description>&lt;![CDATA[物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 03:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456728.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
-      <description>&lt;![CDATA[Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</guid>
+      <title>我在WAIC 2026看见的十大趋势</title>
+      <link>https://www.qbitai.com/2026/07/456974.html</link>
+      <description>&lt;![CDATA[我在WAIC 2026看见的十大趋势]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 03:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456974.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/</link>
-      <description>&lt;![CDATA[Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/</guid>
+      <title>从生成到行动，生数科技用通用世界模型连接「两个世界」</title>
+      <link>https://www.leiphone.com/category/industrynews/KI18cZQBZWHRPWNX.html</link>
+      <description>&lt;![CDATA[从生成到行动，生数科技用通用世界模型连接「两个世界」]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/KI18cZQBZWHRPWNX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The State of Simulation for Physical AI: An Overview</title>
-      <link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
-      <description>&lt;![CDATA[The State of Simulation for Physical AI: An Overview]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</guid>
+      <title>酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型</title>
+      <link>https://www.qbitai.com/2026/07/456178.html</link>
+      <description>&lt;![CDATA[酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 01:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456178.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems</title>
-      <link>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</link>
-      <description>&lt;![CDATA[Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 22:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</guid>
+      <title>业内首款超算+智算的大规模计算底座，在WAIC上我们找到了</title>
+      <link>https://www.qbitai.com/2026/07/457054.html</link>
+      <description>&lt;![CDATA[业内首款超算+智算的大规模计算底座，在WAIC上我们找到了]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 05:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457054.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>端侧AI不是云端AI的缩小版，安谋科技要建边端侧AI算力底座｜WAIC 2026</title>
-      <link>https://www.leiphone.com/category/chips/ove6AbsecNklNHEI.html</link>
-      <description>&lt;![CDATA[端侧AI不是云端AI的缩小版，安谋科技要建边端侧AI算力底座｜WAIC 2026]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/ove6AbsecNklNHEI.html</guid>
+      <title>AI 终端混战：谁在做加法，谁在重写规则</title>
+      <link>https://www.leiphone.com/category/ai/t0fM6SFQ2W7BojX3.html</link>
+      <description>&lt;![CDATA[AI 终端混战：谁在做加法，谁在重写规则]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/t0fM6SFQ2W7BojX3.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>火山引擎与安永达成战略合作，助力企业迈向 AI 原生架构</title>
-      <link>https://www.leiphone.com/category/industrynews/ZNTFoXwJNzRr47WD.html</link>
-      <description>&lt;![CDATA[火山引擎与安永达成战略合作，助力企业迈向 AI 原生架构]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZNTFoXwJNzRr47WD.html</guid>
+      <title>天立启鸣发布教育AGI白皮书：破解教育“不可能三角”</title>
+      <link>https://www.qbitai.com/2026/07/457040.html</link>
+      <description>&lt;![CDATA[天立启鸣发布教育AGI白皮书：破解教育“不可能三角”]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 03:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457040.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC重磅成果｜智爱赛思全面升级并发布科研专属 Token Plan</title>
-      <link>https://www.leiphone.com/category/industrynews/GkXvkOUPT9uoUFe3.html</link>
-      <description>&lt;![CDATA[WAIC重磅成果｜智爱赛思全面升级并发布科研专属 Token Plan]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 19:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GkXvkOUPT9uoUFe3.html</guid>
+      <title>AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff</title>
+      <link>https://www.qbitai.com/2026/07/456555.html</link>
+      <description>&lt;![CDATA[AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 02:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456555.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力</title>
-      <link>https://www.leiphone.com/category/industrynews/yfYUql1ioSOVYTEn.html</link>
-      <description>&lt;![CDATA[WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 19:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/yfYUql1ioSOVYTEn.html</guid>
+      <title>懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准</title>
+      <link>https://www.qbitai.com/2026/07/456910.html</link>
+      <description>&lt;![CDATA[懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 03:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456910.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨腾讯整合Workbuddy与QClaw团队</title>
-      <link>https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html</link>
-      <description>&lt;![CDATA[独家丨腾讯整合Workbuddy与QClaw团队]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 23:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html</guid>
+      <title>Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”</title>
+      <link>https://www.qbitai.com/2026/07/457049.html</link>
+      <description>&lt;![CDATA[Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 04:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457049.html</guid>
       <category>Ai</category>
     </item>
   </channel>

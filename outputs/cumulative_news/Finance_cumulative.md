@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 23:58
+**最后更新时间**: 2026-07-22 07:35
+
+---
+
+## 🆕 最新更新 (2026-07-22 07:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The US has collected about $13bn of Venezuela’s oil money. Where is it?](https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The UK’s biggest university is a private company](https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Who will win the war of neo-mercantilists?](https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [The high price of insider information](https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [Samsung in talks to invest in Mistral at €20bn valuation](https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek](https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 04:00
+
+#### [OpenAI admits an AI ‘agent’ caused a major cyber breach by itself](https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 00:11
 
 ---
 

@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-21 23:58
+**最后更新时间**: 2026-07-22 07:35
+
+---
+
+## 🆕 最新更新 (2026-07-22 07:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [王宁，站在库克和段永平中间](https://www.tmtpost.com/8075141.html)
+**发布时间**: 2026-07-22 14:53
+
+#### [大模型没有定价权，只有定价窗口](https://www.tmtpost.com/8074547.html)
+**发布时间**: 2026-07-22 14:53
+
+#### [Kimi K3爆火引发“算力荒”，“不着急上市”的杨植麒急了？](https://www.tmtpost.com/8074520.html)
+**发布时间**: 2026-07-22 14:32
+
+#### [Kimi“熔断”，杨植麟也“摸高”](https://www.tmtpost.com/8074456.html)
+**发布时间**: 2026-07-22 14:32
+
+#### [安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟](https://www.tmtpost.com/8073630.html)
+**发布时间**: 2026-07-22 12:50
+
+#### [京东押注物理 AI，打通数字到物理世界的链路](https://www.tmtpost.com/8072404.html)
+**发布时间**: 2026-07-22 12:35
+
+#### [西部数据展示百TB硬盘路线图：HAMR与ePMR双线并进，2029年冲刺100TB](https://www.tmtpost.com/8074085.html)
+**发布时间**: 2026-07-22 12:31
+
+#### [摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型](https://www.tmtpost.com/8074857.html)
+**发布时间**: 2026-07-22 12:29
+
+#### [大厂AI入口大战升级，谁是最能干活的桌面Agent？](https://www.tmtpost.com/8074357.html)
+**发布时间**: 2026-07-22 11:57
+
+#### [马斯克神话](https://www.tmtpost.com/8074387.html)
+**发布时间**: 2026-07-22 11:57
+
+#### [Anthropic正在批量制造自己的张磊徐新](https://www.tmtpost.com/8074901.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [AI落地，还差一口气](https://www.tmtpost.com/8074363.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [在下一个模型发布之前](https://www.tmtpost.com/8074346.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [这届世界杯，阿迪达斯的事业运也太好了](https://www.tmtpost.com/8074330.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [远程办公大PK：WorkBuddy vs DuMate](https://www.tmtpost.com/8074541.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [8.5亿美元首付款，“杀死”一家Biotech](https://www.tmtpost.com/8074795.html)
+**发布时间**: 2026-07-22 11:34
+
+#### [Kimi K3其实“贱卖”了](https://www.tmtpost.com/8074764.html)
+**发布时间**: 2026-07-22 10:50
+
+#### [赛力斯的“Wintel时刻”](https://www.tmtpost.com/8074310.html)
+**发布时间**: 2026-07-22 10:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [西部数据 Tim Rausch：AI不是只有GPU，数据最终还要回到存储系统](https://www.infoq.cn/article/d5wZmCfW9GSEA7FMg40C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 14:12
+
+#### [Uber 如何构建具备区域故障容错能力的 OpenSearch 集群](https://www.infoq.cn/article/o3bsr8iSF5bHNa6H4zrt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 14:00
+
+#### [智算集群基础设施运维通用技术要求](https://www.infoq.cn/minibook/YooWx1oj7EFSLmGAj1mp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 12:54
+
+#### [2025龙蜥开源社区操作系统白皮书](https://www.infoq.cn/minibook/VzOLqfq7R99d9jbZHlHh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 12:36
+
+#### [Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)](https://www.infoq.cn/article/BmyIPDkVKj11vspmB6su?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 12:10
+
+#### [Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来](https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 11:01
+
+#### [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎｜AICon深圳](https://www.infoq.cn/article/OJ0K1cGSLUNW0i07JGfL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 10:00
+
+#### [跟上 AI 的节奏：为演进式架构构建上下文存储库](https://www.infoq.cn/article/XEta3vMDDHVIeS6qQe2P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 09:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [角落新声｜我的上帝模式，一名设计师创作环境的演变](https://sspai.com/post/112109)
+**发布时间**: 2026-07-22 10:04
+
+#### [派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等](https://sspai.com/post/112597)
+**发布时间**: 2026-07-22 08:30
 
 ---
 
