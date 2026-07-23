@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Jul 2026 07:36:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 07:36:19 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 10:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:26:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>郑纬民院士：国产算力的瓶颈不在芯片，在生态</title>
-      <link>https://www.tmtpost.com/8075814.html</link>
-      <description>&lt;![CDATA[郑纬民院士：国产算力的瓶颈不在芯片，在生态]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075814.html</guid>
+      <title>梁文锋投资人闭门会实录（全）：DeepSeek的AGI之路与“克制”哲学</title>
+      <link>https://www.tmtpost.com/8076737.html</link>
+      <description>&lt;![CDATA[梁文锋投资人闭门会实录（全）：DeepSeek的AGI之路与“克制”哲学]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076737.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑</title>
-      <link>https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从能对话到能赚钱：一场关于Agent商业化的残酷坦白局｜ WAIC2026</title>
+      <link>https://www.tmtpost.com/8076659.html</link>
+      <description>&lt;![CDATA[从能对话到能赚钱：一场关于Agent商业化的残酷坦白局｜ WAIC2026]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076659.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节</title>
-      <link>https://www.tmtpost.com/8075805.html</link>
-      <description>&lt;![CDATA[一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075805.html</guid>
+      <title>自动驾驶迈入运行安全时代，李骏院士：AI开车车企全责，车辆终身纳入安全监管</title>
+      <link>https://www.tmtpost.com/8076618.html</link>
+      <description>&lt;![CDATA[自动驾驶迈入运行安全时代，李骏院士：AI开车车企全责，车辆终身纳入安全监管]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076618.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制</title>
-      <link>https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从信息撮合到决策代理：满帮Agent的工程、信任与边界</title>
+      <link>https://www.tmtpost.com/8076600.html</link>
+      <description>&lt;![CDATA[从信息撮合到决策代理：满帮Agent的工程、信任与边界]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076600.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%</title>
-      <link>https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达PhysX奠基人张立华入局物理 AI，带队自研新一代物理世界模型Fysiverse｜独家</title>
+      <link>https://www.tmtpost.com/8076733.html</link>
+      <description>&lt;![CDATA[英伟达PhysX奠基人张立华入局物理 AI，带队自研新一代物理世界模型Fysiverse｜独家]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076733.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”</title>
-      <link>https://www.tmtpost.com/8076405.html</link>
-      <description>&lt;![CDATA[48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076405.html</guid>
+      <title>PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家</title>
+      <link>https://www.tmtpost.com/8076725.html</link>
+      <description>&lt;![CDATA[PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076725.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026光模块共识全押错：被淘汰的不是模块，是DSP</title>
-      <link>https://www.tmtpost.com/8074133.html</link>
-      <description>&lt;![CDATA[2026光模块共识全押错：被淘汰的不是模块，是DSP]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074133.html</guid>
+      <title>AI行业告别“最强模型”崇拜</title>
+      <link>https://www.tmtpost.com/8076672.html</link>
+      <description>&lt;![CDATA[AI行业告别“最强模型”崇拜]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076672.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为什么决定法律 AI 成效的，是数据平台，而不是模型 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/PZ5Xe45iTQlOXtZveBKU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么决定法律 AI 成效的，是数据平台，而不是模型 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PZ5Xe45iTQlOXtZveBKU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>懂知识、能执行，滴普科技选择做更“Work”的Agent</title>
-      <link>https://www.tmtpost.com/8075680.html</link>
-      <description>&lt;![CDATA[懂知识、能执行，滴普科技选择做更“Work”的Agent]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075680.html</guid>
+      <title>腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC</title>
+      <link>https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
