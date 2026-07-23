@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 00:01:36 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 07:34:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:36:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
-      <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
-      <description>&lt;![CDATA[NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
+      <title>刚刚，智谱建了一座只用国产芯片的数据中心</title>
+      <link>https://www.leiphone.com/category/ai/eeqB5fcXqPBzGQhV.html</link>
+      <description>&lt;![CDATA[刚刚，智谱建了一座只用国产芯片的数据中心]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/eeqB5fcXqPBzGQhV.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI Teammates: how monday.com runs production AI agents on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[AI Teammates: how monday.com runs production AI agents on Amazon Bedrock]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/</guid>
+      <title>哈佛大学 Sham Kakade 硬核万字演讲：LLM 预训练，二次模型该站 C 位| ICML 2026</title>
+      <link>https://www.leiphone.com/category/private/4pCGOoCW6v2T1NOf.html</link>
+      <description>&lt;![CDATA[哈佛大学 Sham Kakade 硬核万字演讲：LLM 预训练，二次模型该站 C 位| ICML 2026]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/4pCGOoCW6v2T1NOf.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SymptomAI: Towards a conversational AI agent for everyday symptom assessment</title>
-      <link>https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/</link>
-      <description>&lt;![CDATA[SymptomAI: Towards a conversational AI agent for everyday symptom assessment]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 21:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/</guid>
+      <title>DeepMind 研究科学家 Verena Rieser： AI 正值青春期，让它「听话」不如教它「懂事」 | ICML 2026</title>
+      <link>https://www.leiphone.com/category/private/snYSQ8HJOem57FAm.html</link>
+      <description>&lt;![CDATA[DeepMind 研究科学家 Verena Rieser： AI 正值青春期，让它「听话」不如教它「懂事」 | ICML 2026]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/snYSQ8HJOem57FAm.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Token在暴增，利润为何「困」在英伟达？</title>
-      <link>https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html</link>
-      <description>&lt;![CDATA[Token在暴增，利润为何「困」在英伟达？]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html</guid>
+      <title>大模型也得「睡觉」了：Google 的这篇论文，戳中了AI 的最大软肋</title>
+      <link>https://www.leiphone.com/category/ai/tzNqBp8kFaaFFoVA.html</link>
+      <description>&lt;![CDATA[大模型也得「睡觉」了：Google 的这篇论文，戳中了AI 的最大软肋]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/tzNqBp8kFaaFFoVA.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》</title>
-      <link>https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html</link>
-      <description>&lt;![CDATA[2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html</guid>
+      <title>WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻</title>
+      <link>https://www.leiphone.com/category/aijuejinzhi/u7fivcCZqZGaCGUp.html</link>
+      <description>&lt;![CDATA[WAIC 2026 世界模型「六小龙」巅峰论坛，求解物理 AI 从「理解」到「执行」开悟时刻]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/u7fivcCZqZGaCGUp.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Towards a quantum computer that learns from its errors</title>
-      <link>https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/</link>
-      <description>&lt;![CDATA[Towards a quantum computer that learns from its errors]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 18:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/</guid>
+      <title>超越π0，中国团队用1B参数模型登顶具身智能榜单</title>
+      <link>https://www.qbitai.com/2026/07/457537.html</link>
+      <description>&lt;![CDATA[超越π0，中国团队用1B参数模型登顶具身智能榜单]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457537.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83</title>
-      <link>https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</link>
-      <description>&lt;![CDATA[Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</guid>
+      <title>芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了</title>
+      <link>https://www.qbitai.com/2026/07/457405.html</link>
+      <description>&lt;![CDATA[芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 02:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457405.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美图拿出1亿元，面向全行业寻找AI影像Builder</title>
-      <link>https://www.qbitai.com/2026/07/457223.html</link>
-      <description>&lt;![CDATA[美图拿出1亿元，面向全行业寻找AI影像Builder]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 17:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457223.html</guid>
+      <title>阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务</title>
+      <link>https://www.qbitai.com/2026/07/457694.html</link>
+      <description>&lt;![CDATA[阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457694.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读丨三箭齐发，xTool凶猛</title>
-      <link>https://www.leiphone.com/category/industrynews/MQHXfUkHTy9ZXPvX.html</link>
-      <description>&lt;![CDATA[独家解读丨三箭齐发，xTool凶猛]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MQHXfUkHTy9ZXPvX.html</guid>
+      <title>独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源</title>
+      <link>https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html</link>
+      <description>&lt;![CDATA[独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 13:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-07-22日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-22/</link>
-      <description>&lt;![CDATA[2026-07-22日刊]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-22/</guid>
+      <title>电费与Token的经济账：运营商在GPU之外盯上了TPU</title>
+      <link>https://www.leiphone.com/category/industrynews/WqpKq6gaUJAgk4RF.html</link>
+      <description>&lt;![CDATA[电费与Token的经济账：运营商在GPU之外盯上了TPU]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WqpKq6gaUJAgk4RF.html</guid>
       <category>Ai</category>
     </item>
   </channel>

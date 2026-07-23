@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 00:01:35 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 07:36:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:36:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>让马斯克紧张，Kimi K3震动华尔街</title>
-      <link>https://www.tmtpost.com/8075283.html</link>
-      <description>&lt;![CDATA[让马斯克紧张，Kimi K3震动华尔街]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075283.html</guid>
+      <title>郑纬民院士：国产算力的瓶颈不在芯片，在生态</title>
+      <link>https://www.tmtpost.com/8075814.html</link>
+      <description>&lt;![CDATA[郑纬民院士：国产算力的瓶颈不在芯片，在生态]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8075814.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型没有定价权，只有定价窗口</title>
-      <link>https://www.tmtpost.com/8074547.html</link>
-      <description>&lt;![CDATA[大模型没有定价权，只有定价窗口]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074547.html</guid>
+      <title>全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑</title>
+      <link>https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节</title>
+      <link>https://www.tmtpost.com/8075805.html</link>
+      <description>&lt;![CDATA[一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8075805.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍</title>
-      <link>https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制</title>
+      <link>https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 09:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>端侧觉醒：当AI长出&quot;身体&quot;，热闹之后拼什么？｜ WAIC2026</title>
-      <link>https://www.tmtpost.com/8074962.html</link>
-      <description>&lt;![CDATA[端侧觉醒：当AI长出&quot;身体&quot;，热闹之后拼什么？｜ WAIC2026]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 23:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074962.html</guid>
+      <title>Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%</title>
+      <link>https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 开源 Brain2Qwerty v2：非侵入式脑机接口语句解码准确率达到 61%]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>赛力斯的“Wintel时刻”</title>
-      <link>https://www.tmtpost.com/8074310.html</link>
-      <description>&lt;![CDATA[赛力斯的“Wintel时刻”]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074310.html</guid>
+      <title>48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”</title>
+      <link>https://www.tmtpost.com/8076405.html</link>
+      <description>&lt;![CDATA[48万辆交付撑不起利润：特斯拉的汽车业务，正在为AI“输血”]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076405.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI竞争，为什么先比算力？</title>
-      <link>https://www.tmtpost.com/8074544.html</link>
-      <description>&lt;![CDATA[AI竞争，为什么先比算力？]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074544.html</guid>
+      <title>2026光模块共识全押错：被淘汰的不是模块，是DSP</title>
+      <link>https://www.tmtpost.com/8074133.html</link>
+      <description>&lt;![CDATA[2026光模块共识全押错：被淘汰的不是模块，是DSP]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8074133.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>加速 AI Readiness：借助 Snowflake CoWork 从数据走向实时答案 ｜ Summit 2026</title>
-      <link>https://www.infoq.cn/video/l6UhmOLGpL7Q4bHlsRXy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[加速 AI Readiness：借助 Snowflake CoWork 从数据走向实时答案 ｜ Summit 2026]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 21:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/l6UhmOLGpL7Q4bHlsRXy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来</title>
-      <link>https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>风向变了！三大运营商集体“卖铲”</title>
-      <link>https://www.tmtpost.com/8074796.html</link>
-      <description>&lt;![CDATA[风向变了！三大运营商集体“卖铲”]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8074796.html</guid>
+      <title>懂知识、能执行，滴普科技选择做更“Work”的Agent</title>
+      <link>https://www.tmtpost.com/8075680.html</link>
+      <description>&lt;![CDATA[懂知识、能执行，滴普科技选择做更“Work”的Agent]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8075680.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 00:01
+**最后更新时间**: 2026-07-23 07:36
+
+---
+
+## 🆕 最新更新 (2026-07-23 07:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil jumps to $96 after Houthis attack two Saudi Arabian oil tankers](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 07:02
+
+#### [How to be a bull on the S&P 500](https://www.ft.com/content/b3e67789-9470-47c1-b984-a3e9c8d731a1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 05:30
+
+#### [Military briefing: can the US reopen the Strait of Hormuz by force?](https://www.ft.com/content/1cbe4fd0-6b81-42c5-bc30-070fec3cd9dd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [Japan awakes](https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [Is Trump winning the tariff wars?](https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [Trump Media fast feed for president’s posts sparks Wall Street backlash](https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [Russia forced to import fuel from India as Ukrainian strikes damage refineries](https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [US oil refineries run at breakneck speeds as wars choke fuel supplies](https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 04:00
+
+#### [Why the US is losing Chinese AI stars](https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 23:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies](https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 00:27
 
 ---
 
