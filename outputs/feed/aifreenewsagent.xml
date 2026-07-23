@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Jul 2026 10:26:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2026 10:28:25 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 00:01:00 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:01:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？</title>
-      <link>https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html</link>
-      <description>&lt;![CDATA[独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？]]&gt;</description>
+      <title>NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework</title>
+      <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
+      <description>&lt;![CDATA[NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI Teammates: how monday.com runs production AI agents on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[AI Teammates: how monday.com runs production AI agents on Amazon Bedrock]]&gt;</description>
       <pubDate>Wed, 22 Jul 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html</guid>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC深度观察：具身数据，进入「开箱即用」时代</title>
-      <link>https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html</link>
-      <description>&lt;![CDATA[WAIC深度观察：具身数据，进入「开箱即用」时代]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html</guid>
+      <title>SymptomAI: Towards a conversational AI agent for everyday symptom assessment</title>
+      <link>https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/</link>
+      <description>&lt;![CDATA[SymptomAI: Towards a conversational AI agent for everyday symptom assessment]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 21:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！</title>
-      <link>https://www.leiphone.com/category/ai/gtBK8Ln3ANuHPQaX.html</link>
-      <description>&lt;![CDATA[WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/gtBK8Ln3ANuHPQaX.html</guid>
+      <title>Token在暴增，利润为何「困」在英伟达？</title>
+      <link>https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html</link>
+      <description>&lt;![CDATA[Token在暴增，利润为何「困」在英伟达？]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？</title>
-      <link>https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html</link>
-      <description>&lt;![CDATA[独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html</guid>
+      <title>2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》</title>
+      <link>https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html</link>
+      <description>&lt;![CDATA[2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军</title>
-      <link>https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html</link>
-      <description>&lt;![CDATA[百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html</guid>
+      <title>Towards a quantum computer that learns from its errors</title>
+      <link>https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/</link>
+      <description>&lt;![CDATA[Towards a quantum computer that learns from its errors]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI的下一站，不只在工厂，也在客厅</title>
-      <link>https://www.leiphone.com/category/weiwu/AUAU8jh0ILiepQVn.html</link>
-      <description>&lt;![CDATA[AI的下一站，不只在工厂，也在客厅]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/AUAU8jh0ILiepQVn.html</guid>
+      <title>Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83</title>
+      <link>https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</link>
+      <description>&lt;![CDATA[Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家解读丨Plaud 招募基带硬件工程师，或将押注AI耳机</title>
-      <link>https://www.leiphone.com/category/weiwu/MEDXZUBjLKfrhX7s.html</link>
-      <description>&lt;![CDATA[独家解读丨Plaud 招募基带硬件工程师，或将押注AI耳机]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 09:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/MEDXZUBjLKfrhX7s.html</guid>
+      <title>美图拿出1亿元，面向全行业寻找AI影像Builder</title>
+      <link>https://www.qbitai.com/2026/07/457223.html</link>
+      <description>&lt;![CDATA[美图拿出1亿元，面向全行业寻找AI影像Builder]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457223.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI算力进入“多元协同”时代，中昊芯英携手OpenCSG加速企业级大模型落地</title>
-      <link>https://www.leiphone.com/category/industrynews/ECJFdCS344ddFUWS.html</link>
-      <description>&lt;![CDATA[AI算力进入“多元协同”时代，中昊芯英携手OpenCSG加速企业级大模型落地]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 09:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ECJFdCS344ddFUWS.html</guid>
+      <title>独家解读丨三箭齐发，xTool凶猛</title>
+      <link>https://www.leiphone.com/category/industrynews/MQHXfUkHTy9ZXPvX.html</link>
+      <description>&lt;![CDATA[独家解读丨三箭齐发，xTool凶猛]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MQHXfUkHTy9ZXPvX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝参与可信政务智能体服务平台，携手信通院等机构共建政务 AI 新基建</title>
-      <link>https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html</link>
-      <description>&lt;![CDATA[支付宝参与可信政务智能体服务平台，携手信通院等机构共建政务 AI 新基建]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bU3YMyf2KBYlNfGZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>BBA集体降价！销售：价格还能谈；月之暗面以500亿美元估值洽谈Pre-IPO融资，最快2027年初赴港上市；三星宣布将成立机器人事业部</title>
-      <link>https://www.leiphone.com/category/zaobao/3zl6HRdhLVwLseFx.html</link>
-      <description>&lt;![CDATA[BBA集体降价！销售：价格还能谈；月之暗面以500亿美元估值洽谈Pre-IPO融资，最快2027年初赴港上市；三星宣布将成立机器人事业部]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 08:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/3zl6HRdhLVwLseFx.html</guid>
+      <title>2026-07-22日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-22/</link>
+      <description>&lt;![CDATA[2026-07-22日刊]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-22/</guid>
       <category>Ai</category>
     </item>
   </channel>

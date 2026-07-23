@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-22 10:28
+**最后更新时间**: 2026-07-23 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-23 00:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】体育强国建设“十五五”规划发布，到2030年产业规模破7万亿元；OpenAI计划到2030年云支出达7500亿美元；北京国管：已统筹自有资金累计投入近百亿元布局股票市场](https://www.tmtpost.com/8075793.html)
+**发布时间**: 2026-07-23 07:20
+
+#### [端侧觉醒：当AI长出"身体"，热闹之后拼什么？｜ WAIC2026](https://www.tmtpost.com/8074962.html)
+**发布时间**: 2026-07-22 23:28
+
+#### [深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深](https://www.tmtpost.com/8075899.html)
+**发布时间**: 2026-07-22 23:17
+
+#### [上市公司TOP5济安评估 （7月13日至7月19日）｜上市公司观察](https://www.tmtpost.com/8075894.html)
+**发布时间**: 2026-07-22 23:17
+
+#### [价值判断：跌停板的投资机会和风险提示（7月21日）｜上市公司观察](https://www.tmtpost.com/8075874.html)
+**发布时间**: 2026-07-22 22:44
+
+#### [价值判断：涨停板的投资机会和风险提示（7月21日）｜上市公司观察](https://www.tmtpost.com/8075867.html)
+**发布时间**: 2026-07-22 22:44
+
+#### [五洲医疗跨界半导体：上市三年营收利润“双杀”，一份“留白”预案撬动20cm涨停丨并购一线](https://www.tmtpost.com/8075761.html)
+**发布时间**: 2026-07-22 21:47
+
+#### [Why Japan Has Become a Graveyard for China’s Bubble Tea Kings](https://www.tmtpost.com/8075658.html)
+**发布时间**: 2026-07-22 19:03
+
+#### [AI内容全球化：短剧、影视与互动内容的下一程 ｜WAIC2026](https://www.tmtpost.com/8075471.html)
+**发布时间**: 2026-07-22 18:47
+
+#### [下班后，他们去送外卖、摇奶茶、搬货：年轻人开始“带薪减肥”](https://www.tmtpost.com/8075201.html)
+**发布时间**: 2026-07-22 18:43
+
+#### [让马斯克紧张，Kimi K3震动华尔街](https://www.tmtpost.com/8075283.html)
+**发布时间**: 2026-07-22 18:43
+
+#### [小细胞肺癌的“诸神黄昏”](https://www.tmtpost.com/8075457.html)
+**发布时间**: 2026-07-22 18:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [加速 AI Readiness：借助 Snowflake CoWork 从数据走向实时答案 ｜ Summit 2026](https://www.infoq.cn/video/l6UhmOLGpL7Q4bHlsRXy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 21:49
+
+#### [驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势](https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-22 18:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545)
+**发布时间**: 2026-07-22 17:43
 
 ---
 

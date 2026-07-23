@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-22 10:28
+**最后更新时间**: 2026-07-23 00:01
+
+---
+
+## 🆕 最新更新 (2026-07-23 00:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?](https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 22:46
+
+#### [My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?](https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 22:30
+
+#### [IBM just cut its outlook, but not by as much as investors feared](https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 21:39
+
+#### [Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.](https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 21:01
+
+#### [ServiceNow’s stock rises as earnings show momentum in cybersecurity](https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 20:19
+
+#### [The Treasury market touches a worrying milestone not seen since 2007](https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 20:13
+
+#### [Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war](https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 20:10
+
+#### [‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds](https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-22 19:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Google burns through $6bn in cash as AI spending climbs again](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 22:39
+
+#### [US and Saudi Arabia agree landmark nuclear energy pact](https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 22:37
+
+#### [OpenAI hacking incident exposes mounting risks in AI arms race](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 22:15
+
+#### [Tesla profits plunge as discounts on EV models weigh on results](https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 21:29
+
+#### [Mercedes risks US sales ban under Senate China bill](https://www.ft.com/content/b7e572e2-ac26-4842-82ee-1c355ac7c848?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 20:34
+
+#### [Trump threatens to destroy Iranian bridges and power plants](https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 19:57
+
+#### [Greek tycoon’s tanker towed into Iranian waters](https://www.ft.com/content/0c0b1e83-8e5e-4c86-b9c6-179dba51fc69?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 17:38
+
+#### [European gas prices approach Iran war highs as traders fret over winter supplies](https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 16:03
+
+#### [The deed thieves targeting New York brownstones](https://www.ft.com/content/19f7b0d3-f44c-422c-9e65-6b345ce55e39?syn-25a6b1a6=1)
+**发布时间**: 2026-07-22 15:20
 
 ---
 
