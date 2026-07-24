@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Jul 2026 10:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 10:26:07 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 00:01:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:02:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026</title>
-      <link>https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html</link>
-      <description>&lt;![CDATA[专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 13:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html</guid>
+      <title>Evaluating AI Agents: A production blueprint with Strands and AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/</link>
+      <description>&lt;![CDATA[Evaluating AI Agents: A production blueprint with Strands and AgentCore]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」</title>
-      <link>https://www.qbitai.com/2026/07/457698.html</link>
-      <description>&lt;![CDATA[机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457698.html</guid>
+      <title>Agentic retrieval for Amazon Bedrock Managed Knowledge Base</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/</link>
+      <description>&lt;![CDATA[Agentic retrieval for Amazon Bedrock Managed Knowledge Base]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界</title>
-      <link>https://www.leiphone.com/category/ai/ElUplw96iXqIFTPd.html</link>
-      <description>&lt;![CDATA[世界模型迎来「中国引领时刻」，昆仑万维 Matrix-Game 3.5 要迈向真实世界]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ElUplw96iXqIFTPd.html</guid>
+      <title>Detecting silent agent failures with Amazon Bedrock AgentCore optimization</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/</link>
+      <description>&lt;![CDATA[Detecting silent agent failures with Amazon Bedrock AgentCore optimization]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RSS 2026 现场直击：首日 Oral 报告华人含量 94%，中国力量包揽学术与产业 C 位</title>
-      <link>https://www.leiphone.com/category/private/H98VxM0BZsCEIcvv.html</link>
-      <description>&lt;![CDATA[RSS 2026 现场直击：首日 Oral 报告华人含量 94%，中国力量包揽学术与产业 C 位]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/H98VxM0BZsCEIcvv.html</guid>
+      <title>Best practices for applying Amazon Bedrock Guardrails to code generation workflows</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/</link>
+      <description>&lt;![CDATA[Best practices for applying Amazon Bedrock Guardrails to code generation workflows]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」</title>
-      <link>https://www.leiphone.com/category/industrynews/EMsIH6YY1MsA0Qjo.html</link>
-      <description>&lt;![CDATA[WAIC观察：比起做「超级Agent」，大厂更着急抢占「Agent入口」]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/EMsIH6YY1MsA0Qjo.html</guid>
+      <title>Building trade assistant: How Jefferies optimized front office trading operations with AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/</link>
+      <description>&lt;![CDATA[Building trade assistant: How Jefferies optimized front office trading operations with AI]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资</title>
-      <link>https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html</link>
-      <description>&lt;![CDATA[具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html</guid>
+      <title>花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」</title>
+      <link>https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html</link>
+      <description>&lt;![CDATA[花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球</title>
-      <link>https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html</link>
-      <description>&lt;![CDATA[Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html</guid>
+      <title>智能体政策新闻相关背景和简要解读</title>
+      <link>https://www.qbitai.com/2026/07/457787.html</link>
+      <description>&lt;![CDATA[智能体政策新闻相关背景和简要解读]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457787.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务</title>
-      <link>https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html</link>
-      <description>&lt;![CDATA[阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html</guid>
+      <title>白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？</title>
+      <link>https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html</link>
+      <description>&lt;![CDATA[白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 12:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩</title>
-      <link>https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html</link>
-      <description>&lt;![CDATA[成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html</guid>
+      <title>快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费</title>
+      <link>https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</link>
+      <description>&lt;![CDATA[快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨拓竹2026年或冲刺240亿元销售目标，多个系列产品降价</title>
-      <link>https://www.leiphone.com/category/weiwu/d0zvXA2M7boZiVR0.html</link>
-      <description>&lt;![CDATA[独家丨拓竹2026年或冲刺240亿元销售目标，多个系列产品降价]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/d0zvXA2M7boZiVR0.html</guid>
+      <title>“野生测评”造谣拉踩，伤害的不只是车企</title>
+      <link>https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html</link>
+      <description>&lt;![CDATA[“野生测评”造谣拉踩，伤害的不只是车企]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html</guid>
       <category>Ai</category>
     </item>
   </channel>

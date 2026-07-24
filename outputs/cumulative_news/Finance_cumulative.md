@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 10:26
+**最后更新时间**: 2026-07-24 00:02
+
+---
+
+## 🆕 最新更新 (2026-07-24 00:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.](https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 23:43
+
+#### [The August stock-market slump is a myth — so why does Wall Street keep repeating it?](https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 22:12
+
+#### [S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft](https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 22:03
+
+#### [AMD’s rivalry with Nvidia is increasingly moving into a new realm](https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:59
+
+#### [The stock market’s calm is cracking. Here’s how to prepare for an August shock.](https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:53
+
+#### [Trump rolls out a new wave of global tariffs. Here are the latest rates.](https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:50
+
+#### [ServiceNow’s stock falls as a new AI threat overshadows earnings beat](https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:41
+
+#### [These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student](https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:15
+
+#### [Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’](https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 21:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Intel posts fastest growth in 15 years as AI data centres demand fuels sales](https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 23:16
+
+#### [Oil hits $100 for first time since May while US stocks slide](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 23:12
+
+#### [US hits 60 countries with new duties as Trump rebuilds tariff wall](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 22:59
+
+#### [FDA panel supports access to peptides over scientist objections](https://www.ft.com/content/a48eca75-6fb0-49ae-96f0-a256149a0f2e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 20:12
+
+#### [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a)
+**发布时间**: 2026-07-23 17:56
+
+#### [US justice department to streamline company merger reviews](https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 17:56
+
+#### [The US needs a new Manhattan Project for fusion energy](https://www.ft.com/content/822f5326-d93b-4b9d-b43f-58113da909b1)
+**发布时间**: 2026-07-23 17:13
+
+#### [Laura Loomer meets Zelenskyy after pro-Ukraine conversion](https://www.ft.com/content/ed9baeee-aabc-458a-a161-a607032d158d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 12:30
 
 ---
 
