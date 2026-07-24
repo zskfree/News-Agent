@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="arch-title arch-desc">
+  <title id="arch-title">News Agent Architecture Map</title>
+  <desc id="arch-desc">System architecture and data processing flow diagram for News Agent</desc>
+
+  <defs>
+    <linearGradient id="bg-card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="module-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect width="1200" height="400" rx="20" fill="url(#bg-card)" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- Title & Subtitle -->
+  <text x="50" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">⚙️ 系统架构与数据处理流程 (System Architecture &amp; Data Pipeline)</text>
+
+  <!-- Flow Grid Cards -->
+  <!-- Step 1: Input / RSS Fetching -->
+  <g transform="translate(50, 80)">
+    <rect width="240" height="270" rx="14" fill="url(#module-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="240" height="40" rx="14" fill="#1E1B4B"/>
+    <rect y="24" width="240" height="16" fill="#1E1B4B"/>
+    <text x="20" y="26" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#818CF8">01. 新源采集 (Fetch)</text>
+
+    <!-- Details inside Step 1 -->
+    <g transform="translate(16, 56)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">news_agent/rss/</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">多源 RSS Feed 协议抓取</text>
+    </g>
+    <g transform="translate(16, 110)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">config/rss_sources.json</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">分类源配置定义 (AI/科技/财经)</text>
+    </g>
+    <g transform="translate(16, 164)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">httpcore / httpx / lxml</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">高效并发网络请求处理</text>
+    </g>
+    <rect x="16" y="224" width="208" height="30" rx="6" fill="#312E81" fill-opacity="0.4"/>
+    <text x="120" y="244" font-family="sans-serif" font-size="12" font-weight="600" fill="#A5B4FC" text-anchor="middle">输出：原始新闻项列表</text>
+  </g>
+
+  <!-- Arrow 1 -> 2 -->
+  <g transform="translate(295, 205)">
+    <line x1="0" y1="0" x2="35" y2="0" stroke="#6366F1" stroke-width="3" stroke-dasharray="4 4"/>
+    <polygon points="42,0 33,-5 33,5" fill="#6366F1"/>
+  </g>
+
+  <!-- Step 2: Processing / Filter -->
+  <g transform="translate(342, 80)">
+    <rect width="240" height="270" rx="14" fill="url(#module-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="240" height="40" rx="14" fill="#311B92"/>
+    <rect y="24" width="240" height="16" fill="#311B92"/>
+    <text x="20" y="26" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#B388FF">02. 过滤与去重 (Filter)</text>
+
+    <!-- Details inside Step 2 -->
+    <g transform="translate(16, 56)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">news_agent/utils/</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">基于内容指纹的增量去重</text>
+    </g>
+    <g transform="translate(16, 110)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">news_agent/filters/</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">Gemini AI 智能评分与品质过滤</text>
+    </g>
+    <g transform="translate(16, 164)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">data/history.json</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">历史发布追踪与防重存盘</text>
+    </g>
+    <rect x="16" y="224" width="208" height="30" rx="6" fill="#4A148C" fill-opacity="0.4"/>
+    <text x="120" y="244" font-family="sans-serif" font-size="12" font-weight="600" fill="#EA80FC" text-anchor="middle">输出：高价值优质新闻</text>
+  </g>
+
+  <!-- Arrow 2 -> 3 -->
+  <g transform="translate(587, 205)">
+    <line x1="0" y1="0" x2="35" y2="0" stroke="#8E24AA" stroke-width="3" stroke-dasharray="4 4"/>
+    <polygon points="42,0 33,-5 33,5" fill="#8E24AA"/>
+  </g>
+
+  <!-- Step 3: Generation / Outputs -->
+  <g transform="translate(634, 80)">
+    <rect width="240" height="270" rx="14" fill="url(#module-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="240" height="40" rx="14" fill="#064E3B"/>
+    <rect y="24" width="240" height="16" fill="#064E3B"/>
+    <text x="20" y="26" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#6EE7B7">03. 生成订阅源 (Build)</text>
+
+    <!-- Details inside Step 3 -->
+    <g transform="translate(16, 56)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">outputs/feed/*.xml</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">符合 W3C 标准 RSS 2.0 XML</text>
+    </g>
+    <g transform="translate(16, 110)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">outputs/markdown/</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">24h 每日精选 Markdown 简报</text>
+    </g>
+    <g transform="translate(16, 164)">
+      <rect width="208" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">index.html</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">Cyber-Luxe 风格前端展示门户</text>
+    </g>
+    <rect x="16" y="224" width="208" height="30" rx="6" fill="#065F46" fill-opacity="0.4"/>
+    <text x="120" y="244" font-family="sans-serif" font-size="12" font-weight="600" fill="#A7F3D0" text-anchor="middle">输出：多端可消费产物</text>
+  </g>
+
+  <!-- Arrow 3 -> 4 -->
+  <g transform="translate(879, 205)">
+    <line x1="0" y1="0" x2="35" y2="0" stroke="#10B981" stroke-width="3" stroke-dasharray="4 4"/>
+    <polygon points="42,0 33,-5 33,5" fill="#10B981"/>
+  </g>
+
+  <!-- Step 4: Deploy / Hosting -->
+  <g transform="translate(926, 80)">
+    <rect width="224" height="270" rx="14" fill="url(#module-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="224" height="40" rx="14" fill="#0F766E"/>
+    <rect y="24" width="224" height="16" fill="#0F766E"/>
+    <text x="20" y="26" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="700" fill="#99F6E4">04. 部署与分发 (Deploy)</text>
+
+    <!-- Details inside Step 4 -->
+    <g transform="translate(16, 56)">
+      <rect width="192" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">GitHub Actions</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">Cron 定时触发 (07,12,16点)</text>
+    </g>
+    <g transform="translate(16, 110)">
+      <rect width="192" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">GitHub Pages</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B"> Serverless 免费静态托管</text>
+    </g>
+    <g transform="translate(16, 164)">
+      <rect width="192" height="44" rx="8" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+      <text x="14" y="27" font-family="'JetBrains Mono', monospace" font-size="12" fill="#E2E8F0">RSS Readers</text>
+      <text x="14" y="39" font-family="sans-serif" font-size="10" fill="#64748B">NetNewsWire / Inoreader 等</text>
+    </g>
+    <rect x="16" y="224" width="192" height="30" rx="6" fill="#115E59" fill-opacity="0.4"/>
+    <text x="112" y="244" font-family="sans-serif" font-size="12" font-weight="600" fill="#5EEAD4" text-anchor="middle">全自动化运行 🚀</text>
+  </g>
+</svg>
