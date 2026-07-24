@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2026 00:02:49 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 07:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 07:34:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Evaluating AI Agents: A production blueprint with Strands and AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/</link>
-      <description>&lt;![CDATA[Evaluating AI Agents: A production blueprint with Strands and AgentCore]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/</guid>
+      <title>新晋菲尔兹奖得主，当天宣布加入OpenAI</title>
+      <link>https://www.qbitai.com/2026/07/457792.html</link>
+      <description>&lt;![CDATA[新晋菲尔兹奖得主，当天宣布加入OpenAI]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 01:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457792.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agentic retrieval for Amazon Bedrock Managed Knowledge Base</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/</link>
-      <description>&lt;![CDATA[Agentic retrieval for Amazon Bedrock Managed Knowledge Base]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/</guid>
+      <title>RSS 2026 时间检验奖：形态即计算，具身智能的“逻辑刹车”已至</title>
+      <link>https://www.leiphone.com/category/private/rMXnmau3OSE7evhI.html</link>
+      <description>&lt;![CDATA[RSS 2026 时间检验奖：形态即计算，具身智能的“逻辑刹车”已至]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/rMXnmau3OSE7evhI.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Detecting silent agent failures with Amazon Bedrock AgentCore optimization</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/</link>
-      <description>&lt;![CDATA[Detecting silent agent failures with Amazon Bedrock AgentCore optimization]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/</guid>
+      <title>李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业</title>
+      <link>https://www.qbitai.com/2026/07/457920.html</link>
+      <description>&lt;![CDATA[李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 03:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457920.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Best practices for applying Amazon Bedrock Guardrails to code generation workflows</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/</link>
-      <description>&lt;![CDATA[Best practices for applying Amazon Bedrock Guardrails to code generation workflows]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 23:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/</guid>
+      <title>嚯！35家大型央国企实测后，因果世界模型落地了</title>
+      <link>https://www.qbitai.com/2026/07/458357.html</link>
+      <description>&lt;![CDATA[嚯！35家大型央国企实测后，因果世界模型落地了]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 04:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/458357.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building trade assistant: How Jefferies optimized front office trading operations with AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/</link>
-      <description>&lt;![CDATA[Building trade assistant: How Jefferies optimized front office trading operations with AI]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/</guid>
+      <title>独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资</title>
+      <link>https://www.leiphone.com/category/chips/AGaAOgr50XhElaxq.html</link>
+      <description>&lt;![CDATA[独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 10:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/AGaAOgr50XhElaxq.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」</title>
-      <link>https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html</link>
-      <description>&lt;![CDATA[花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html</guid>
+      <title>Claude Opus 5 被曝今晚发布，Fable 5 的水平，腰斩的价格</title>
+      <link>https://www.leiphone.com/category/yanxishe/ngOQ8jWhVY9EAqHp.html</link>
+      <description>&lt;![CDATA[Claude Opus 5 被曝今晚发布，Fable 5 的水平，腰斩的价格]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 10:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/ngOQ8jWhVY9EAqHp.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>智能体政策新闻相关背景和简要解读</title>
-      <link>https://www.qbitai.com/2026/07/457787.html</link>
-      <description>&lt;![CDATA[智能体政策新闻相关背景和简要解读]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457787.html</guid>
+      <title>10万字速记一口吞，金山办公新Agent开始直接交活了</title>
+      <link>https://www.qbitai.com/2026/07/458438.html</link>
+      <description>&lt;![CDATA[10万字速记一口吞，金山办公新Agent开始直接交活了]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 04:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/458438.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？</title>
-      <link>https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html</link>
-      <description>&lt;![CDATA[白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html</guid>
+      <title>长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字</title>
+      <link>https://www.qbitai.com/2026/07/458687.html</link>
+      <description>&lt;![CDATA[长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 05:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/458687.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费</title>
-      <link>https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</link>
-      <description>&lt;![CDATA[快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html</guid>
+      <title>At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners</title>
+      <link>https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</link>
+      <description>&lt;![CDATA[At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 04:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“野生测评”造谣拉踩，伤害的不只是车企</title>
-      <link>https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html</link>
-      <description>&lt;![CDATA[“野生测评”造谣拉踩，伤害的不只是车企]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html</guid>
+      <title>亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限</title>
+      <link>https://www.qbitai.com/2026/07/458864.html</link>
+      <description>&lt;![CDATA[亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/458864.html</guid>
       <category>Ai</category>
     </item>
   </channel>

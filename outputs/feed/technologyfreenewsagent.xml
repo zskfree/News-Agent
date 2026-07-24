@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jul 2026 00:02:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2026 00:02:47 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 07:34:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 07:34:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智源最新研究提出警报：大模型智能体可能带来生物安全风险</title>
-      <link>https://www.tmtpost.com/8077514.html</link>
-      <description>&lt;![CDATA[智源最新研究提出警报：大模型智能体可能带来生物安全风险]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8077514.html</guid>
+      <title>曦智科技沈亦晨：算力逼近物理极限，光将驱动AI基础设施变革</title>
+      <link>https://www.tmtpost.com/8078233.html</link>
+      <description>&lt;![CDATA[曦智科技沈亦晨：算力逼近物理极限，光将驱动AI基础设施变革]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8078233.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 越能干，安全越难做？</title>
-      <link>https://www.infoq.cn/video/G0R3FyRBpfeSsa2QqJIr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 越能干，安全越难做？]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/G0R3FyRBpfeSsa2QqJIr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话芯展速许玮：“内存墙”下，AI缺的是GPU的“放大器”</title>
+      <link>https://www.tmtpost.com/8078123.html</link>
+      <description>&lt;![CDATA[对话芯展速许玮：“内存墙”下，AI缺的是GPU的“放大器”]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8078123.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026 WAIC是具身智能行业的一面照妖镜</title>
-      <link>https://www.tmtpost.com/8076681.html</link>
-      <description>&lt;![CDATA[2026 WAIC是具身智能行业的一面照妖镜]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076681.html</guid>
+      <title>具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产</title>
+      <link>https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”</title>
-      <link>https://www.tmtpost.com/8077591.html</link>
-      <description>&lt;![CDATA[华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8077591.html</guid>
+      <title>圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？</title>
+      <link>https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek的底层逻辑变了吗？</title>
-      <link>https://www.tmtpost.com/8077355.html</link>
-      <description>&lt;![CDATA[DeepSeek的底层逻辑变了吗？]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 19:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8077355.html</guid>
+      <title>你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践</title>
+      <link>https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算电协同如何书写“比特”与“瓦特”的双向奔赴？</title>
-      <link>https://www.tmtpost.com/8076778.html</link>
-      <description>&lt;![CDATA[算电协同如何书写“比特”与“瓦特”的双向奔赴？]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076778.html</guid>
+      <title>Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI手机，开始革自己的命</title>
-      <link>https://www.tmtpost.com/8076567.html</link>
-      <description>&lt;![CDATA[AI手机，开始革自己的命]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076567.html</guid>
+      <title>Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据</title>
+      <link>https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界</title>
-      <link>https://www.tmtpost.com/8075832.html</link>
-      <description>&lt;![CDATA[凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075832.html</guid>
+      <title>算力短缺，巨头疯抢“超节点”</title>
+      <link>https://www.tmtpost.com/8077782.html</link>
+      <description>&lt;![CDATA[算力短缺，巨头疯抢“超节点”]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8077782.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低</title>
-      <link>https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话希捷俞康：AI规模化落地，存储正成为关键基础设施</title>
+      <link>https://www.tmtpost.com/8078367.html</link>
+      <description>&lt;![CDATA[对话希捷俞康：AI规模化落地，存储正成为关键基础设施]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8078367.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卖一辆车只赚1150元，特斯拉也顶不住了</title>
-      <link>https://www.tmtpost.com/8076744.html</link>
-      <description>&lt;![CDATA[卖一辆车只赚1150元，特斯拉也顶不住了]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076744.html</guid>
+      <title>Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio</title>
+      <link>https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

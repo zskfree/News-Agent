@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 00:02
+**最后更新时间**: 2026-07-24 07:34
+
+---
+
+## 🆕 最新更新 (2026-07-24 07:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia’s biggest online retailer becomes target in Ukraine drone war](https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 06:48
+
+#### [Oil hits $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 04:33
+
+#### [The field marshal’s gambit](https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 04:00
+
+#### [Welcome to the era of financial candyfloss](https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 04:00
+
+#### [South Korea’s cash-rich winners of AI boom go on US buying spree](https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 03:06
+
+#### [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 17:56
 
 ---
 

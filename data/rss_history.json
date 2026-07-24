@@ -4285,6 +4285,66 @@
         "link": "https://www.tmtpost.com/8076744.html",
         "published_date": "Thu, 23 Jul 2026 16:46:00 GMT",
         "first_seen": "2026-07-24T00:02:47.678032"
+      },
+      "f29338d560da420d6699f29cb6b381a085769da4c6568fc7206ffd81081c1d1b": {
+        "title": "曦智科技沈亦晨：算力逼近物理极限，光将驱动AI基础设施变革",
+        "link": "https://www.tmtpost.com/8078233.html",
+        "published_date": "Fri, 24 Jul 2026 14:23:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215624"
+      },
+      "a5f4ffe1621ffacd3836e4b21c869eaf7e82de3aef9790036e84ee24c0d9bbb9": {
+        "title": "对话芯展速许玮：“内存墙”下，AI缺的是GPU的“放大器”",
+        "link": "https://www.tmtpost.com/8078123.html",
+        "published_date": "Fri, 24 Jul 2026 12:44:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215633"
+      },
+      "ca127cd4733a47c1bb0f33515bd2cc85fe4d2df21126c9492bec5683dd054bea": {
+        "title": "具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产",
+        "link": "https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 13:41:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215635"
+      },
+      "6d10e03b73d8b6937313f44dd3c0f2a344e4922969cddad2d432e693fef73538": {
+        "title": "圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？",
+        "link": "https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 10:58:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215637"
+      },
+      "03f704a507d001dca5ce9dd14a0ff288555df9c2b857e9f6428b0ab3ffbcb80b": {
+        "title": "你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践",
+        "link": "https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215639"
+      },
+      "98ee902daca3ec2d568840d961504bc0b66ea1a1cbba9074fda39d9721c3956e": {
+        "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215640"
+      },
+      "85ede78d2a74d66877dbc6205accd6823865fba269e222808ca401eb5d9be455": {
+        "title": "Pinecone 推出 Nexus 引擎：为 AI 智能体整合业务上下文并生成结构化数据",
+        "link": "https://www.infoq.cn/article/TdXHOr9FkuJ4a1mDh5uL?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 11:41:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215642"
+      },
+      "379da7b0787b1bbcdcf46f2ccd58d0b6f397680bf419d0192259dd312c15634f": {
+        "title": "算力短缺，巨头疯抢“超节点”",
+        "link": "https://www.tmtpost.com/8077782.html",
+        "published_date": "Fri, 24 Jul 2026 14:43:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215644"
+      },
+      "ad20046905114e7b071d59d5986361a9cc7ededcb6fa7e7196dee1b164f4e13a": {
+        "title": "对话希捷俞康：AI规模化落地，存储正成为关键基础设施",
+        "link": "https://www.tmtpost.com/8078367.html",
+        "published_date": "Fri, 24 Jul 2026 15:19:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215645"
+      },
+      "6259b068ca63effdb62eec5a44b5b7a100de32b333f8a1cc62e9758e15503cd5": {
+        "title": "Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio",
+        "link": "https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 14:24:00 GMT",
+        "first_seen": "2026-07-24T07:34:04.215647"
       }
     },
     "Finance": {
@@ -7899,6 +7959,36 @@
         "link": "https://www.ft.com/content/822f5326-d93b-4b9d-b43f-58113da909b1",
         "published_date": "Thu, 23 Jul 2026 17:13:00 GMT",
         "first_seen": "2026-07-24T00:02:46.458030"
+      },
+      "49455ee6fd078869d62061e415d5ceadc12fe79dac0adce0a65483ae15fde160": {
+        "title": "Russia’s biggest online retailer becomes target in Ukraine drone war",
+        "link": "https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1",
+        "published_date": "Fri, 24 Jul 2026 06:48:00 GMT",
+        "first_seen": "2026-07-24T07:34:02.898720"
+      },
+      "32a4881a90df9dbbeec5899aa0474012cfce99e2d553a2d331ffb169e054a1a4": {
+        "title": "Oil hits $100 as Trump weighs ‘massive attack’",
+        "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
+        "published_date": "Fri, 24 Jul 2026 04:33:00 GMT",
+        "first_seen": "2026-07-24T07:34:02.898733"
+      },
+      "746c80863c2fbc4be9e4db0efe3657fb587f324a4a55e02ab0e525f12f812cce": {
+        "title": "The field marshal’s gambit",
+        "link": "https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1",
+        "published_date": "Fri, 24 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-24T07:34:02.898736"
+      },
+      "bb10594815d04ccdaa39cfb229764a3b2cba3f0526fad747131124650ca3b4b9": {
+        "title": "Welcome to the era of financial candyfloss",
+        "link": "https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1",
+        "published_date": "Fri, 24 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-24T07:34:02.898738"
+      },
+      "f836fd17ef47fd082e736ef1d5417b9c6d21fd180552ec59dbda65923af5b531": {
+        "title": "South Korea’s cash-rich winners of AI boom go on US buying spree",
+        "link": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1",
+        "published_date": "Fri, 24 Jul 2026 03:06:00 GMT",
+        "first_seen": "2026-07-24T07:34:02.898740"
       }
     },
     "Ai": {
@@ -11171,13 +11261,73 @@
         "link": "https://www.leiphone.com/category/industrynews/dWSKcV6GBItdrtB4.html",
         "published_date": "Thu, 23 Jul 2026 17:58:00 GMT",
         "first_seen": "2026-07-24T00:02:49.156492"
+      },
+      "854d536eaa95f04b72c572d01f330cd0c9266d784eb346ac1b486e1c50517e5e": {
+        "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
+        "link": "https://www.qbitai.com/2026/07/457792.html",
+        "published_date": "Fri, 24 Jul 2026 01:48:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366748"
+      },
+      "242dd44dabb240e88c482942bb240d2e5984f64ab5633e4c5a9c8f48e7a7f0ef": {
+        "title": "RSS 2026 时间检验奖：形态即计算，具身智能的“逻辑刹车”已至",
+        "link": "https://www.leiphone.com/category/private/rMXnmau3OSE7evhI.html",
+        "published_date": "Fri, 24 Jul 2026 11:46:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366757"
+      },
+      "555f17f116c929a6a58454947cdccbbcb48e04b1f69c5438d2bc93ba59538882": {
+        "title": "李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业",
+        "link": "https://www.qbitai.com/2026/07/457920.html",
+        "published_date": "Fri, 24 Jul 2026 03:27:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366758"
+      },
+      "1f5975831e4ee8605674c5298c744e788a4457c17748610df9b99d1cc6b7241b": {
+        "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+        "link": "https://www.qbitai.com/2026/07/458357.html",
+        "published_date": "Fri, 24 Jul 2026 04:21:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366760"
+      },
+      "0ba0ab235e55b451d605f115e999eee2fc4d1adc5a35d6b0633cf2f9afbfcec6": {
+        "title": "独家丨华为22年老兵从AI终局倒推LPU，元川微完成新一轮数亿元融资",
+        "link": "https://www.leiphone.com/category/chips/AGaAOgr50XhElaxq.html",
+        "published_date": "Fri, 24 Jul 2026 10:23:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366761"
+      },
+      "e5f83b2e619c359c25a2346933d423c2355d49d7c91a54b145b704d220c62546": {
+        "title": "Claude Opus 5 被曝今晚发布，Fable 5 的水平，腰斩的价格",
+        "link": "https://www.leiphone.com/category/yanxishe/ngOQ8jWhVY9EAqHp.html",
+        "published_date": "Fri, 24 Jul 2026 10:07:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366763"
+      },
+      "d5e16facae62286b725756ed6c454edb6aeb9a454faa9bf297c54a5835c69565": {
+        "title": "10万字速记一口吞，金山办公新Agent开始直接交活了",
+        "link": "https://www.qbitai.com/2026/07/458438.html",
+        "published_date": "Fri, 24 Jul 2026 04:45:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366764"
+      },
+      "e4a7780b0318cb649390bec27689dd5ffa6099b6978c965abfe997228ed05a7a": {
+        "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
+        "link": "https://www.qbitai.com/2026/07/458687.html",
+        "published_date": "Fri, 24 Jul 2026 05:41:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366766"
+      },
+      "0650237eb38d28e640243f1a35f64f7d72511e01510280a197fb0676ee0cdfc1": {
+        "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+        "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+        "published_date": "Fri, 24 Jul 2026 04:34:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366767"
+      },
+      "bcedfeabd0b79d7543edbaaca31fb5e1fcea429ced051ba992470fffb79ceb28": {
+        "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
+        "link": "https://www.qbitai.com/2026/07/458864.html",
+        "published_date": "Fri, 24 Jul 2026 05:50:00 GMT",
+        "first_seen": "2026-07-24T07:34:05.366769"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-24T00:02:47.678035",
-    "Finance": "2026-07-24T00:02:46.458032",
-    "Ai": "2026-07-24T00:02:49.156493"
+    "Technology": "2026-07-24T07:34:04.215650",
+    "Finance": "2026-07-24T07:34:02.898742",
+    "Ai": "2026-07-24T07:34:05.366770"
   }
 }
