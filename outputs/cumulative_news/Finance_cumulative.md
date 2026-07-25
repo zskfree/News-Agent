@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-25 07:20
+**最后更新时间**: 2026-07-25 09:51
+
+---
+
+## 🆕 最新更新 (2026-07-25 09:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nato military HQ intern arrested on suspicion of spying](https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 09:22
+
+#### [Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal](https://www.ft.com/content/780bc4bb-1916-4fe2-ad2b-22663c66f16e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 08:44
 
 ---
 
