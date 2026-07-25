@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-25 00:07
+**最后更新时间**: 2026-07-25 07:20
+
+---
+
+## 🆕 最新更新 (2026-07-25 07:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread](https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 06:04
+
+#### [Why this philosopher turned down Anthropic](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1)
+**发布时间**: 2026-07-25 04:00
+
+#### [Andy Burnham’s regional privilege](https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 04:00
+
+#### [India’s ‘Cockroach’ Gen Z has had enough](https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37)
+**发布时间**: 2026-07-25 04:00
+
+#### [India and South Africa lead push to amass emergency fuel stockpiles](https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 04:00
+
+#### [Trump attacks journalists at awkward White House press dinner](https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 03:54
+
+#### [Trump threatens new EU tariffs in retaliation for fines on US tech groups](https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 18:21
 
 ---
 

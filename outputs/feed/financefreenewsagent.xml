@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Jul 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Jul 2026 00:07:05 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 07:20:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:20:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The stock market is completely unprepared for a 6% yield on the 30-year Treasury</title>
-      <link>https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The stock market is completely unprepared for a 6% yield on the 30-year Treasury]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 21:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories</guid>
+      <title>France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread</title>
+      <link>https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 06:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>US tech groups cut 140,000 jobs despite AI spending boom</title>
-      <link>https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US tech groups cut 140,000 jobs despite AI spending boom]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1</guid>
+      <title>Why this philosopher turned down Anthropic</title>
+      <link>https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1</link>
+      <description>&lt;![CDATA[Why this philosopher turned down Anthropic]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare</title>
-      <link>https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1</guid>
+      <title>Andy Burnham’s regional privilege</title>
+      <link>https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Andy Burnham’s regional privilege]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Before you ask AI to invest your life savings, you need to understand its hidden biases</title>
-      <link>https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Before you ask AI to invest your life savings, you need to understand its hidden biases]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories</guid>
+      <title>India’s ‘Cockroach’ Gen Z has had enough</title>
+      <link>https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37</link>
+      <description>&lt;![CDATA[India’s ‘Cockroach’ Gen Z has had enough]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Pay raises keep shrinking. Here’s how much smaller they’ll be next year.</title>
-      <link>https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Pay raises keep shrinking. Here’s how much smaller they’ll be next year.]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 21:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories</guid>
+      <title>India and South Africa lead push to amass emergency fuel stockpiles</title>
+      <link>https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[India and South Africa lead push to amass emergency fuel stockpiles]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Yang Zhilin, the rock star founder behind China’s Moonshot AI</title>
-      <link>https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Yang Zhilin, the rock star founder behind China’s Moonshot AI]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Waymo explores split with Uber as robotaxi tensions deepen</title>
-      <link>https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Waymo explores split with Uber as robotaxi tensions deepen]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 19:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit</title>
-      <link>https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?</title>
-      <link>https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>FDA advisers say six popular peptides can be compounded. Here are the issues they considered.</title>
-      <link>https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[FDA advisers say six popular peptides can be compounded. Here are the issues they considered.]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 20:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories</guid>
+      <title>Trump attacks journalists at awkward White House press dinner</title>
+      <link>https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Trump attacks journalists at awkward White House press dinner]]&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 03:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>
