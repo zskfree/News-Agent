@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 10:23
+**最后更新时间**: 2026-07-25 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-25 00:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?](https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 22:30
+
+#### [‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?](https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 22:00
+
+#### [Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?](https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 21:48
+
+#### [The stock market is completely unprepared for a 6% yield on the 30-year Treasury](https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 21:38
+
+#### [Before you ask AI to invest your life savings, you need to understand its hidden biases](https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 21:30
+
+#### [Pay raises keep shrinking. Here’s how much smaller they’ll be next year.](https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 21:22
+
+#### [FDA advisers say six popular peptides can be compounded. Here are the issues they considered.](https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 20:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [ICC ousts chief prosecutor Karim Khan after misconduct probe](https://www.ft.com/content/b99f3302-1c83-4acb-b8e4-28a880c1339a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 21:59
+
+#### [Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit](https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 21:26
+
+#### [France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread](https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 21:05
+
+#### [US tech groups cut 140,000 jobs despite AI spending boom](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 20:00
+
+#### [Waymo explores split with Uber as robotaxi tensions deepen](https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 19:15
+
+#### [Israel prepares ‘major’ West Bank operation after violent clash](https://www.ft.com/content/bb731836-0ca6-4390-a39d-6d1a272fb4ff?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 16:07
+
+#### [Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare](https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 15:20
+
+#### [Yang Zhilin, the rock star founder behind China’s Moonshot AI](https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 15:00
 
 ---
 

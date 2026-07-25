@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jul 2026 10:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2026 10:24:01 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 00:07:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现</title>
-      <link>https://www.leiphone.com/category/industrynews/vsowsDM4mNuFGkb5.html</link>
-      <description>&lt;![CDATA[Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vsowsDM4mNuFGkb5.html</guid>
+      <title>Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/</link>
+      <description>&lt;![CDATA[Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯混元组织架构再升级，合并大语言模型和多模态团队，加速模型研发</title>
-      <link>https://www.leiphone.com/category/industrynews/LNHgLirIT5DvYfcV.html</link>
-      <description>&lt;![CDATA[腾讯混元组织架构再升级，合并大语言模型和多模态团队，加速模型研发]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/LNHgLirIT5DvYfcV.html</guid>
+      <title>Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 15:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场</title>
-      <link>https://www.qbitai.com/2026/07/459402.html</link>
-      <description>&lt;![CDATA[领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/459402.html</guid>
+      <title>国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源</title>
+      <link>https://www.qbitai.com/2026/07/460041.html</link>
+      <description>&lt;![CDATA[国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460041.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？</title>
-      <link>https://www.qbitai.com/2026/07/459262.html</link>
-      <description>&lt;![CDATA[近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/459262.html</guid>
+      <title>对话星炽动力CTO李达——PULSE架构：如何让具身智能更像人？</title>
+      <link>https://www.leiphone.com/category/industrynews/VoghxG89WgJ2E9ZI.html</link>
+      <description>&lt;![CDATA[对话星炽动力CTO李达——PULSE架构：如何让具身智能更像人？]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VoghxG89WgJ2E9ZI.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当清洁机器人爬上窗户，能否开启下一个黄金十年？</title>
-      <link>https://www.leiphone.com/category/robot/dICn6qnKyVa7JRPS.html</link>
-      <description>&lt;![CDATA[当清洁机器人爬上窗户，能否开启下一个黄金十年？]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/dICn6qnKyVa7JRPS.html</guid>
+      <title>自变量登上APEC国际舞台，代表中国具身智能分享服务民生“最佳实践”</title>
+      <link>https://www.leiphone.com/category/industrynews/wbuuGeiADHNlBBOR.html</link>
+      <description>&lt;![CDATA[自变量登上APEC国际舞台，代表中国具身智能分享服务民生“最佳实践”]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 16:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wbuuGeiADHNlBBOR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Acemate携手2026中国网球公开赛，AI网球训练机器人走进职业赛事场景</title>
-      <link>https://www.leiphone.com/category/industrynews/pjdTWH7byariX47G.html</link>
-      <description>&lt;![CDATA[Acemate携手2026中国网球公开赛，AI网球训练机器人走进职业赛事场景]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pjdTWH7byariX47G.html</guid>
+      <title>合肥又押中AI独角兽：多模态赛道，3个月融了21亿</title>
+      <link>https://www.qbitai.com/2026/07/460154.html</link>
+      <description>&lt;![CDATA[合肥又押中AI独角兽：多模态赛道，3个月融了21亿]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460154.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-07-24日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-24/</link>
-      <description>&lt;![CDATA[2026-07-24日刊]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-24/</guid>
+      <title>菲尔兹奖得主王虹，也发过NeurIPS</title>
+      <link>https://www.qbitai.com/2026/07/460042.html</link>
+      <description>&lt;![CDATA[菲尔兹奖得主王虹，也发过NeurIPS]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460042.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天立启鸣发布教育AGI白皮书：从答题响应到心智仿真，破解教育“不可能三角”</title>
+      <link>https://www.leiphone.com/category/ai/9BvD2TFs3u6gMHPr.html</link>
+      <description>&lt;![CDATA[天立启鸣发布教育AGI白皮书：从答题响应到心智仿真，破解教育“不可能三角”]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/9BvD2TFs3u6gMHPr.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行</title>
+      <link>https://www.leiphone.com/category/industrynews/urzkJ71nAWLXBAFT.html</link>
+      <description>&lt;![CDATA[直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/urzkJ71nAWLXBAFT.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>即梦联合抖音电商、艾菲奖发起 “AI 广告爆改大赛” ，共创经典广告新表达</title>
+      <link>https://www.leiphone.com/category/industrynews/vo4S5zqGS1pUhVCr.html</link>
+      <description>&lt;![CDATA[即梦联合抖音电商、艾菲奖发起 “AI 广告爆改大赛” ，共创经典广告新表达]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vo4S5zqGS1pUhVCr.html</guid>
       <category>Ai</category>
     </item>
   </channel>
