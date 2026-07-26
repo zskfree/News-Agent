@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-25 09:51
+**最后更新时间**: 2026-07-26 00:03
+
+---
+
+## 🆕 最新更新 (2026-07-26 00:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?](https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories)
+**发布时间**: 2026-07-25 22:30
+
+#### [College kids are moving into retirement communities for reasons beyond ‘cheap rent’](https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-25 18:54
+
+#### [Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.](https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories)
+**发布时间**: 2026-07-25 18:45
+
+#### [Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.](https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories)
+**发布时间**: 2026-07-25 18:34
+
+#### [Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.](https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories)
+**发布时间**: 2026-07-25 18:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran says Ukrainian attack on vessel in Caspian Sea killed sailor](https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 21:52
+
+#### [Top Democrat says Trump administration is worsening chip shortage](https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 19:33
+
+#### [Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites](https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 13:02
+
+#### [Investors increase bets on Federal Reserve rate rise after oil price surge](https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 10:00
+
+#### [Intern arrested on suspicion of spying at Nato military HQ](https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1)
+**发布时间**: 2026-07-25 09:22
+
+#### [Dropping quarterly company reports in US may not be a bad thing](https://www.ft.com/content/803b02dd-9d0d-43b9-8af9-24d81b1b6557)
+**发布时间**: 2026-07-25 04:00
 
 ---
 
