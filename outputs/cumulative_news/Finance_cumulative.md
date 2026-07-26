@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-26 00:03
+**最后更新时间**: 2026-07-26 07:38
+
+---
+
+## 🆕 最新更新 (2026-07-26 07:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [One dead and 16 injured after van drives into Berlin Pride crowd](https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 07:05
+
+#### [China pours funding into green energy deals as Iran war hits oil demand](https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
+
+#### [Maga’s creepy baby obsession won’t solve the fertility crisis](https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
+
+#### [Defence giants provide record backing for military start-ups](https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
+
+#### [Investors use crypto exchanges to avoid Chinese controls on AI stocks](https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
+
+#### [Why workers are nostalgic for life before AI](https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
 
 ---
 

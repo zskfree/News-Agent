@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 00:03:37 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 07:35:00 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:38:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奇瑞“不客气”了！风云A9打破15万级纯电“潜规则”</title>
-      <link>https://www.leiphone.com/category/transportation/JUMeihhqkG3LSj0L.html</link>
-      <description>&lt;![CDATA[奇瑞“不客气”了！风云A9打破15万级纯电“潜规则”]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/JUMeihhqkG3LSj0L.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>100%开源！吴恩达做了个个人桌面Agent</title>
-      <link>https://www.qbitai.com/2026/07/460892.html</link>
-      <description>&lt;![CDATA[100%开源！吴恩达做了个个人桌面Agent]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460892.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026</title>
-      <link>https://www.qbitai.com/2026/07/460542.html</link>
-      <description>&lt;![CDATA[美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 12:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460542.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来</title>
-      <link>https://www.qbitai.com/2026/07/460253.html</link>
-      <description>&lt;![CDATA[半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460253.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了</title>
-      <link>https://www.qbitai.com/2026/07/460234.html</link>
-      <description>&lt;![CDATA[具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460234.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡</title>
-      <link>https://www.qbitai.com/2026/07/460186.html</link>
-      <description>&lt;![CDATA[北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡]]&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460186.html</guid>
+      <title>3万小时触觉数据补齐具身智能“手感”！新智具身&amp;复旦报告三连发</title>
+      <link>https://www.qbitai.com/2026/07/460962.html</link>
+      <description>&lt;![CDATA[3万小时触觉数据补齐具身智能“手感”！新智具身&amp;复旦报告三连发]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460962.html</guid>
       <category>Ai</category>
     </item>
   </channel>
