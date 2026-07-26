@@ -4465,6 +4465,66 @@
         "link": "https://www.tmtpost.com/8079582.html",
         "published_date": "Sun, 26 Jul 2026 09:31:00 GMT",
         "first_seen": "2026-07-26T07:38:05.802117"
+      },
+      "18f7a85ee09291b22babb0f24cc738f0427b738ed14f1c1e8dc1fb80839f1f1c": {
+        "title": "【数智周报】  OpenAI证实模型测试出现失控，引发史无前例入侵；阿里千问发布 Qwen-Image-3.0；华为首次完整展示全系列计算模组产品；英特尔将在数据中心部门裁员",
+        "link": "https://www.tmtpost.com/8079812.html",
+        "published_date": "Sun, 26 Jul 2026 17:17:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070056"
+      },
+      "8c1306d671bafc25e6c31f2116f49ef1d71832cbcab8dc01fb3294f462e709c2": {
+        "title": "Edge AI Daily 早报（7月26日）",
+        "link": "https://www.tmtpost.com/8079667.html",
+        "published_date": "Sun, 26 Jul 2026 07:56:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070068"
+      },
+      "600b9b413eaa34591ef4df3306e3e3d3d544223adff80c93f87064d0057789d1": {
+        "title": "Codex也断了:OpenAI三线齐崩，Agent时代的宕机账单怎么算",
+        "link": "https://www.tmtpost.com/8079615.html",
+        "published_date": "Sun, 26 Jul 2026 15:35:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070072"
+      },
+      "49dea8f373b0668a26e8dbf77a45ec5755f03cd8f9bc943346dfc5d731c1af4c": {
+        "title": "成都、合肥、青岛等40家国资密集投资氢能！一个40%企业面临消失的赛道，正在被重新定价",
+        "link": "https://www.tmtpost.com/8079702.html",
+        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070074"
+      },
+      "45dc32c11fd17bb9f65e5ce3fc0da58a6c2964b90605e07948204a8066f8a804": {
+        "title": "9500亿是纸面繁荣：SK海力士签的不是大单，是卖身契",
+        "link": "https://www.tmtpost.com/8079637.html",
+        "published_date": "Sun, 26 Jul 2026 15:35:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070075"
+      },
+      "bade09c1c02bf7a49a38f5b48276a8bcb72a6938535d641ae01ddc37fdd6f026": {
+        "title": "AI博主不能说的秘密：\"十分钟\"炫技背后，是你买不起的Token账单",
+        "link": "https://www.tmtpost.com/8079664.html",
+        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070077"
+      },
+      "c1a1b355c03dbedd14e4eb6811b7e2fc558889f5560b54054157dd650a27915c": {
+        "title": "Kimi夜店庆功背后：AI狂飙的逻辑，和我们正在失去的“慢”",
+        "link": "https://www.tmtpost.com/8079711.html",
+        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070079"
+      },
+      "383b215258a2b29f3fb7bb6e1b71c009bde3e999ea5e631ca8d1f9f40e31ae1c": {
+        "title": "本周 TOP 17 排名的 GitHub 开源项目大盘点，第一个值得收藏。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535563&idx=1&sn=ade0f328740208eebbc7a395d1ae136b",
+        "published_date": "Sun, 26 Jul 2026 13:23:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070080"
+      },
+      "bd85bec0e8708d15a7e117f10de520173e0a7b567e5eb4b4bb3bcac2059fe546": {
+        "title": "携程罚单的真正影响，不是酒店变便宜，是平台\"抽税权\"的终结",
+        "link": "https://www.tmtpost.com/8079724.html",
+        "published_date": "Sun, 26 Jul 2026 17:16:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070082"
+      },
+      "cc0b4e3d4f433d1ce4f1cd5a8bfbd4b0d16ed9a0fd42c3a39e1d28638bfca394": {
+        "title": "“坑”了广汽，中创新航为何知错改错不认错？",
+        "link": "https://www.tmtpost.com/8079701.html",
+        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
+        "first_seen": "2026-07-26T10:05:43.070083"
       }
     },
     "Finance": {
@@ -11374,7 +11434,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-26T07:38:05.802119",
+    "Technology": "2026-07-26T10:05:43.070085",
     "Finance": "2026-07-26T07:38:05.841786",
     "Ai": "2026-07-26T07:38:04.776562"
   }

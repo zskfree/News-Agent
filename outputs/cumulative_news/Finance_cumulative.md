@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-26 07:38
+**最后更新时间**: 2026-07-26 10:05
+
+---
+
+## 🆕 最新更新 (2026-07-26 10:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [One dead and 16 injured as vehicle drives into Berlin Pride crowd](https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 07:05
 
 ---
 
