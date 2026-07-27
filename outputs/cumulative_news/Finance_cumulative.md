@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-27 00:02
+**最后更新时间**: 2026-07-27 08:33
+
+---
+
+## 🆕 最新更新 (2026-07-27 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chinese chip champion CXMT soars 466% in market debut](https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 07:29
+
+#### [Oil falls more than 7% as Iran and US pause strikes over Strait of Hormuz](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 07:18
+
+#### [Shein slumps to loss ahead of planned Hong Kong listing](https://www.ft.com/content/9ed6a6f4-c6a6-4027-9c54-19bffcd88913?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 05:26
+
+#### [China’s industrial profits grow at slowest pace this year](https://www.ft.com/content/3af40915-23c2-4e80-8bec-85ecbf0801c0?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:28
+
+#### [The new premium product: books written by people](https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:00
+
+#### [Why economic surveys have lost their relevance](https://www.ft.com/content/1c559e9c-83b8-486c-812f-cb431e6970ce?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:00
+
+#### [Beware holographic markets](https://www.ft.com/content/e76f5ce3-3bd6-4793-87d9-071ecd75f0bb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:00
+
+#### [France raises questions over UK participation in EU’s €5bn tech start-up fund](https://www.ft.com/content/c9b1bdd5-a994-4a4a-b462-89aa486c2508?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:00
+
+#### [Greek shipping carve-out on Russia sanctions prompts EU rethink](https://www.ft.com/content/33c2e340-8964-4124-b0d7-21851a5d8dcb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 04:00
 
 ---
 
