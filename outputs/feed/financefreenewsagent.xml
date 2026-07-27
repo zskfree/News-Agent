@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Jul 2026 07:38:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 07:38:05 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 00:02:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:02:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>One dead and 16 injured after van drives into Berlin Pride crowd</title>
+      <title>Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week</title>
+      <link>https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 23:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>There’s a technical ‘triple threat’ for stocks, but also places investors can hide</title>
+      <link>https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[There’s a technical ‘triple threat’ for stocks, but also places investors can hide]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The S&amp;P 500’s earnings growth has gone bonkers thanks to one company</title>
+      <link>https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The S&amp;P 500’s earnings growth has gone bonkers thanks to one company]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates</title>
+      <link>https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions</title>
+      <link>https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 23:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘Violent’ wildfires rage close to French and Spanish cities</title>
+      <link>https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[‘Violent’ wildfires rage close to French and Spanish cities]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 21:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US pauses Iran strikes as Oman pursues Hormuz transit deal</title>
+      <link>https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US pauses Iran strikes as Oman pursues Hormuz transit deal]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 19:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Police kill suspect after van-ramming attack on Berlin Pride event</title>
       <link>https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[One dead and 16 injured after van drives into Berlin Pride crowd]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 07:05:00 GMT</pubDate>
+      <description>&lt;![CDATA[Police kill suspect after van-ramming attack on Berlin Pride event]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 18:39:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>China pours funding into green energy deals as Iran war hits oil demand</title>
-      <link>https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[China pours funding into green energy deals as Iran war hits oil demand]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1</guid>
+      <title>Why wages and productivity look set to diverge further</title>
+      <link>https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Why wages and productivity look set to diverge further]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Maga’s creepy baby obsession won’t solve the fertility crisis</title>
-      <link>https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Maga’s creepy baby obsession won’t solve the fertility crisis]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Defence giants provide record backing for military start-ups</title>
-      <link>https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Defence giants provide record backing for military start-ups]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Investors use crypto exchanges to avoid Chinese controls on AI stocks</title>
-      <link>https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Investors use crypto exchanges to avoid Chinese controls on AI stocks]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Why workers are nostalgic for life before AI</title>
-      <link>https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Why workers are nostalgic for life before AI]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1</guid>
+      <title>India’s Gen Z protesters puncture Modi’s aura of invincibility</title>
+      <link>https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[India’s Gen Z protesters puncture Modi’s aura of invincibility]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 10:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Jul 2026 07:35:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 07:38:04 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:02:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>3万小时触觉数据补齐具身智能“手感”！新智具身&amp;复旦报告三连发</title>
-      <link>https://www.qbitai.com/2026/07/460962.html</link>
-      <description>&lt;![CDATA[3万小时触觉数据补齐具身智能“手感”！新智具身&amp;复旦报告三连发]]&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460962.html</guid>
+      <title>希音披露聆讯后资料集：年营收418亿美元、供应链优势强化盈利韧性</title>
+      <link>https://www.leiphone.com/category/industrynews/3cCvfc4kGO8wJkEs.html</link>
+      <description>&lt;![CDATA[希音披露聆讯后资料集：年营收418亿美元、供应链优势强化盈利韧性]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3cCvfc4kGO8wJkEs.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>数学大佬在前面拓荒，AI研究员在后面捡宝，菲尔兹奖还能拿来破AI「黑盒」？</title>
+      <link>https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html</link>
+      <description>&lt;![CDATA[数学大佬在前面拓荒，AI研究员在后面捡宝，菲尔兹奖还能拿来破AI「黑盒」？]]&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 16:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html</guid>
       <category>Ai</category>
     </item>
   </channel>

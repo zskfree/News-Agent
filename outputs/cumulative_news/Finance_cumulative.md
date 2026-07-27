@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-26 10:05
+**最后更新时间**: 2026-07-27 00:02
+
+---
+
+## 🆕 最新更新 (2026-07-27 00:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week](https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories)
+**发布时间**: 2026-07-26 23:45
+
+#### [There’s a technical ‘triple threat’ for stocks, but also places investors can hide](https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-26 19:15
+
+#### [The S&P 500’s earnings growth has gone bonkers thanks to one company](https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories)
+**发布时间**: 2026-07-26 14:00
+
+#### [The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates](https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-26 12:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions](https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 23:37
+
+#### [‘Violent’ wildfires rage close to French and Spanish cities](https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 21:38
+
+#### [US pauses Iran strikes as Oman pursues Hormuz transit deal](https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 19:33
+
+#### [Police kill suspect after van-ramming attack on Berlin Pride event](https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 18:39
+
+#### [Why wages and productivity look set to diverge further](https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 11:00
+
+#### [India’s Gen Z protesters puncture Modi’s aura of invincibility](https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 10:43
+
+#### [How China exploits EU divisions over trade](https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1)
+**发布时间**: 2026-07-26 04:00
 
 ---
 
