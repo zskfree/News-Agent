@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 07:41
+**最后更新时间**: 2026-07-28 10:38
+
+---
+
+## 🆕 最新更新 (2026-07-28 10:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Picks and shovels’ trade comes unstuck as AI hardware stocks plunge on competitive threat from China](https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 10:16
+
+#### [My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?](https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 10:15
+
+#### [‘She is on Medicaid’: My sick friend pleaded with me to be her executor. Can I decline after she dies?](https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 10:15
+
+#### [‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?](https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 09:15
+
+#### [Actor Orlando Bloom tries again to sell Malibu beach house — now for $10 million](https://www.marketwatch.com/story/actor-orlando-bloom-tries-again-to-sell-malibu-beach-house-now-for-10-million-3e9cf1c4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zelenskyy returns to Oval Office as Trump shifts towards Ukraine](https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 09:13
+
+#### [CXMT’s blockbuster IPO delivers windfall for its home province](https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 05:35
+
+#### [China needs a new growth model](https://www.ft.com/content/a6801e59-3a71-4752-8456-86691e3e163f)
+**发布时间**: 2026-07-28 04:00
+
+#### [CXMT’s roaring IPO isn’t the bubble signal it might appear](https://www.ft.com/content/4a0eeaf8-90b6-4053-a53c-b285d56f4dfe?syn-25a6b1a6=1)
+**发布时间**: 2026-07-27 18:19
 
 ---
 
