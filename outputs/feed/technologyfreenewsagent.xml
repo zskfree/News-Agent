@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Jul 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 08:33:36 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 00:05:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:05:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网</title>
-      <link>https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>维谛技术田军：电链与冷链将重构AI算力基础设施</title>
+      <link>https://www.tmtpost.com/8080820.html</link>
+      <description>&lt;![CDATA[维谛技术田军：电链与冷链将重构AI算力基础设施]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080820.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？</title>
-      <link>https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报</title>
-      <link>https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Token到任务：Agentic AI 如何改变基础设施的关注焦点</title>
+      <link>https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从Token到任务：Agentic AI 如何改变基础设施的关注焦点]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台</title>
-      <link>https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践</title>
+      <link>https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>RSPack 2.0：性能提升、更精简的依赖项和 ESM 核心</title>
-      <link>https://www.infoq.cn/article/Pl99PqDrDO6abAIlm1jp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[RSPack 2.0：性能提升、更精简的依赖项和 ESM 核心]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Pl99PqDrDO6abAIlm1jp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动</title>
+      <link>https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>JD.com’s High-Stakes AI Pivot: Transforming a Heavy Logistics Network into Physical Intelligence</title>
-      <link>https://www.tmtpost.com/8080792.html</link>
-      <description>&lt;![CDATA[JD.com’s High-Stakes AI Pivot: Transforming a Heavy Logistics Network into Physical Intelligence]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080792.html</guid>
+      <title>道通科技开放日验证空地一体巡检能力，具身智能商业化提速</title>
+      <link>https://www.tmtpost.com/8080534.html</link>
+      <description>&lt;![CDATA[道通科技开放日验证空地一体巡检能力，具身智能商业化提速]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080534.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>工业AI走向自主执行，工程师该往哪走？｜钛度图闻</title>
-      <link>https://www.tmtpost.com/8079318.html</link>
-      <description>&lt;![CDATA[工业AI走向自主执行，工程师该往哪走？｜钛度图闻]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 12:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8079318.html</guid>
+      <title>圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？</title>
+      <link>https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智元、宇树扎堆开店，抢的是机器人市场的新入口</title>
-      <link>https://www.tmtpost.com/8080382.html</link>
-      <description>&lt;![CDATA[智元、宇树扎堆开店，抢的是机器人市场的新入口]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080382.html</guid>
+      <title>GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本</title>
+      <link>https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何破解大模型的“金鱼记忆”困境</title>
-      <link>https://www.tmtpost.com/8080178.html</link>
-      <description>&lt;![CDATA[如何破解大模型的“金鱼记忆”困境]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080178.html</guid>
+      <title>GPT-6测试时“觉醒”，我们找到了测试系统的第一作者</title>
+      <link>https://www.tmtpost.com/8080536.html</link>
+      <description>&lt;![CDATA[GPT-6测试时“觉醒”，我们找到了测试系统的第一作者]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080536.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能</title>
-      <link>https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[支持版本控制的 SQL 数据库 Dolt 发布 2.0 版，新增自动存储清理和压缩功能]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大量使用AI，但没人聊AI，《功夫女足》做对了什么？</title>
+      <link>https://www.tmtpost.com/8080375.html</link>
+      <description>&lt;![CDATA[大量使用AI，但没人聊AI，《功夫女足》做对了什么？]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080375.html</guid>
       <category>Technology</category>
     </item>
   </channel>

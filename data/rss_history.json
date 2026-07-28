@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e6a9f8ade742c33d6d8ed66046bf7add56094382220a151a866eeaab08d0a186": {
-        "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
-        "link": "https://www.tmtpost.com/8043821.html",
-        "published_date": "Sat, 27 Jun 2026 16:44:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444721"
-      },
-      "dd094d82604d9c185b65c701f349b3d81b6b08988cb4f694d6da84c2a2bb1e7d": {
-        "title": "民企“上桌吃饭”？国新办发布会解读“十五五”能源规划，拆解未来五年能源投资到底要往哪里投",
-        "link": "https://www.tmtpost.com/8043664.html",
-        "published_date": "Sat, 27 Jun 2026 15:47:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444729"
-      },
-      "24147270256f275a67743f879c804e55b350929d9de983c8f98021b6465fea41": {
-        "title": "当算力变成消费券：Token 补贴热潮下，谁在受益，谁在买单？",
-        "link": "https://www.tmtpost.com/8043721.html",
-        "published_date": "Sat, 27 Jun 2026 15:58:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444732"
-      },
-      "92cd9db59857f7182cc271d8bb69a1b1a6f43e7a7d13533e36205449fcecdc04": {
-        "title": "GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨",
-        "link": "https://www.tmtpost.com/8043432.html",
-        "published_date": "Sat, 27 Jun 2026 09:45:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444733"
-      },
-      "59bc422b1dddac7881848178893eab38db850db035dfd525950612cad5cf6d93": {
-        "title": "豆包收费，张一鸣帮张小龙探路",
-        "link": "https://www.tmtpost.com/8043650.html",
-        "published_date": "Sat, 27 Jun 2026 16:09:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444735"
-      },
-      "558a5b14ece788a614fe40a64a4715d98e0c5817b5dbd76c181f1d68472ba099": {
-        "title": "文心整合网页入口，但已经不重要了",
-        "link": "https://www.tmtpost.com/8043196.html",
-        "published_date": "Sat, 27 Jun 2026 09:14:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444737"
-      },
-      "17e44f178eafa6efbdb8dc8226ede6d778bc2eecf09090c3e8816da9052de4f2": {
-        "title": "探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育",
-        "link": "https://www.tmtpost.com/8043613.html",
-        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444739"
-      },
-      "4536f62fb81144e141d4fe4d5b71106c7cdcd345e87f7597c35ebbc2c09f958d": {
-        "title": "销量1600万，半年玩家流失90%，腾讯能拯救这款今年火爆全球的撤离射击游戏吗？",
-        "link": "https://www.tmtpost.com/8043387.html",
-        "published_date": "Sat, 27 Jun 2026 09:07:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444741"
-      },
-      "f0bf877a313b8d9b28d55d565b7d30b77842670ff04645ec4613ae3128c3b5d1": {
-        "title": "高端新能源正在占领市场，但老问题还在",
-        "link": "https://www.tmtpost.com/8043657.html",
-        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444743"
-      },
-      "c02e064e07f1a211c65e215cb889f6443994d5f1cd5235a9854eb2dc5499b224": {
-        "title": "10 个本周 yyds 的 GitHub 开源项目，推荐给你。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534885&idx=1&sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f",
-        "published_date": "Sat, 27 Jun 2026 15:55:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.444744"
-      },
       "adf0742449bcd62a2878129898542dd939dac34924b5cfd7d9c84a2a2e7c440b": {
         "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
         "link": "https://sspai.com/post/111347",
@@ -4525,15 +4465,69 @@
         "link": "https://www.infoq.cn/article/NiKzwp2aEJFJvJqR5ybt?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 27 Jul 2026 11:08:00 GMT",
         "first_seen": "2026-07-27T08:33:36.460159"
+      },
+      "08e2e60ae5c340317cc51538c6ec371bc85ab80bd232e9fa6c43c8e88e2e7a15": {
+        "title": "维谛技术田军：电链与冷链将重构AI算力基础设施",
+        "link": "https://www.tmtpost.com/8080820.html",
+        "published_date": "Mon, 27 Jul 2026 18:19:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847945"
+      },
+      "71cea1765e395b6e882c958ff441f0de44b24a90aa5f1ea6896c4da592609628": {
+        "title": "从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳",
+        "link": "https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 17:05:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847953"
+      },
+      "e06c86d306cf43cc1033828f0f148c2649847ec4b8ba4694584b0e6517409df9": {
+        "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
+        "link": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 16:51:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847956"
+      },
+      "875b454a5c66f499055758734f35f06dc12682ce29af3e4e31e38e112f48d911": {
+        "title": "快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践",
+        "link": "https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 16:55:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847957"
+      },
+      "b5885c6835327490873d030bf5f843bd1f54a89c9b1002eeeba876e28d62e259": {
+        "title": "昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动",
+        "link": "https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 11:43:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847959"
+      },
+      "0a8f8197b4bf217cea6196c8c21028fbbb120a117df1f93c9fc2efafeabb7077": {
+        "title": "道通科技开放日验证空地一体巡检能力，具身智能商业化提速",
+        "link": "https://www.tmtpost.com/8080534.html",
+        "published_date": "Mon, 27 Jul 2026 15:29:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847961"
+      },
+      "c598b7bf7dfe7987fc8e93e5f606ba0122478714225e60007e4c11f0fbe8cb08": {
+        "title": "圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？",
+        "link": "https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 18:03:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847963"
+      },
+      "9661b447d0e651b4935dce718e66cd2f857f5be5e3cdefe1b11db98af97a5dd2": {
+        "title": "GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本",
+        "link": "https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 17:14:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847965"
+      },
+      "8232cf70764d56fca4a9799cb57944762d4a13dafc6a131034f63988a94a860a": {
+        "title": "GPT-6测试时“觉醒”，我们找到了测试系统的第一作者",
+        "link": "https://www.tmtpost.com/8080536.html",
+        "published_date": "Mon, 27 Jul 2026 13:48:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847967"
+      },
+      "5c3c19614fa3db8ea82d79e5bf936f40fde46328fb44a5ad27224bdfe43cbdbd": {
+        "title": "大量使用AI，但没人聊AI，《功夫女足》做对了什么？",
+        "link": "https://www.tmtpost.com/8080375.html",
+        "published_date": "Mon, 27 Jul 2026 11:32:00 GMT",
+        "first_seen": "2026-07-28T00:05:42.847968"
       }
     },
     "Finance": {
-      "51b027d15a16bf5b5894c9896187a049db2bb96f3fed70261bce3d1e1834c2d5": {
-        "title": "US launches strikes on Iran after Tehran attacks container ship",
-        "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
-        "published_date": "Sat, 27 Jun 2026 08:06:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.493432"
-      },
       "5c5b391f55fc7f4888e4c8801e1afe4ca37d545fd147ca696a4b6b677e059711": {
         "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
         "link": "https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
@@ -8187,15 +8181,69 @@
         "link": "https://www.ft.com/content/33c2e340-8964-4124-b0d7-21851a5d8dcb?syn-25a6b1a6=1",
         "published_date": "Mon, 27 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-27T08:33:36.519476"
+      },
+      "fece81c989fede8cb381b83a94bb1f8adcecec1efeadec18e166f2e2cded2569": {
+        "title": "Big Tech credit risks rise sharply as AI spending soars",
+        "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 20:55:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891651"
+      },
+      "fe368a3fd316be15f543840311b49981e377e3f81d14854972650d37466757f4": {
+        "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+        "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:35:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891660"
+      },
+      "f1bbd0f23d9b96fa52867e2a47a4ea0f863066ec669d3dc7fe22e361802a2d10": {
+        "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+        "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:46:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891662"
+      },
+      "fa6d15b89ea388d5229b54c157871b126e34c0274a1a1863f8877411c66e7f68": {
+        "title": "Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
+        "link": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 17:20:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891665"
+      },
+      "009a268cc566cf3e4a8a06c7ca925b656161772ed9fb59f469875057499fcae1": {
+        "title": "Ares Management has held talks to buy Leonard Green & Partners",
+        "link": "https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 17:23:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891666"
+      },
+      "ad88dc0a90c0de510f6d90128f12f0e95efa3ab21aea4515dbe2ea668fd29609": {
+        "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
+        "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 20:52:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891668"
+      },
+      "d8d1afdc206b177e5bed7629a2b2728087af4c625c0d4d81a3658ee42251a65b": {
+        "title": "Donald Trump rebuilds his tariff wall",
+        "link": "https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 16:57:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891670"
+      },
+      "ddfeccaae2f9b2ea9bdcda92a2489126188a85134981ee451d9717b14f606390": {
+        "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+        "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:02:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891672"
+      },
+      "5421703ad2eb71119adbea889b7e572d93b7266bdbf376bcb7d8880c62ce768d": {
+        "title": "Dior rebound helps LVMH’s fashion business return to growth",
+        "link": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 15:50:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891675"
+      },
+      "d9e1b21d15f801371006eb8015f1a69626c0c7ea6354da1ec07c0173506a9e2e": {
+        "title": "OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns",
+        "link": "https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1",
+        "published_date": "Mon, 27 Jul 2026 20:44:00 GMT",
+        "first_seen": "2026-07-28T00:05:43.891678"
       }
     },
     "Ai": {
-      "8def608e019879b73386ba12f9cac830132db5f156bad1bf66a044d95cfc4d47": {
-        "title": "独家|美团王兴正面回应股价破发，复盘五年战略节奏得失",
-        "link": "https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html",
-        "published_date": "Sat, 27 Jun 2026 14:56:00 GMT",
-        "first_seen": "2026-06-27T10:12:41.620636"
-      },
       "8776c7a89f7b8920cc29ad3978a2ef5d879f3d9586b7068f4c1ad11ac9bc3e99": {
         "title": "安全预警系统，看不见的滴滴「基建」",
         "link": "https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html",
@@ -11423,13 +11471,73 @@
         "link": "https://www.qbitai.com/2026/07/461153.html",
         "published_date": "Mon, 27 Jul 2026 03:55:00 GMT",
         "first_seen": "2026-07-27T08:33:35.098695"
+      },
+      "ea58c65e72e805276ad66dc9b3b2770f9f089368f536266060eab0764fe49d7e": {
+        "title": "8位AI Infra高管复盘WAIC：当堆砌「暴力美学」触顶，AI Infra如何求变？",
+        "link": "https://www.leiphone.com/category/chips/WK0j5a76yc5rHeSK.html",
+        "published_date": "Mon, 27 Jul 2026 15:52:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852174"
+      },
+      "c58071e694907ef412c2472e913de123b4b392613af4978d7dbab02bd40ff54c": {
+        "title": "12位AI芯片高管复盘WAIC：云端抢做超节点，端侧还在等爆款",
+        "link": "https://www.leiphone.com/category/chips/XB7cWxmP9oLjiP2D.html",
+        "published_date": "Mon, 27 Jul 2026 14:56:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852186"
+      },
+      "4c3d5ad739f3c014725792da7541b5f45a393bc65bdcc356365db97886e29d60": {
+        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "published_date": "Mon, 27 Jul 2026 09:32:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852189"
+      },
+      "ed7da19b3966272dc8a14609c892a756507c0a7d17d281dd73cffcb1af6a35ca": {
+        "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+        "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+        "published_date": "Mon, 27 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852192"
+      },
+      "b34d4853177e1ae8c060a5fc7c83d477c916c8366a2669e6d44653bfcab9ce7c": {
+        "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+        "published_date": "Mon, 27 Jul 2026 16:11:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852194"
+      },
+      "ab55ba67706dbe44be46a484500fff8e4b12452e54f679f0a8b6af791a0d2ea1": {
+        "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+        "published_date": "Mon, 27 Jul 2026 16:05:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852196"
+      },
+      "12414ba65f84bf9d7b528df06aa445adcc72a4f8a622f322dd216a344a848419": {
+        "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+        "link": "https://www.qbitai.com/2026/07/461398.html",
+        "published_date": "Mon, 27 Jul 2026 09:05:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852199"
+      },
+      "020db3b01c65834031b411f36b199c724774f052d1cd95fd8b12c128b52e68b6": {
+        "title": "Reddit 为何「叫板」Google？",
+        "link": "https://www.leiphone.com/category/ai/04XawISL9c51HVxB.html",
+        "published_date": "Mon, 27 Jul 2026 19:18:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852200"
+      },
+      "f863fd2ce5849c5d37b75cdf473dbbefbc95f90a19a0c548b38e485afe813c7c": {
+        "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+        "link": "https://www.leiphone.com/category/ai/xnczmPtqg4kZNirW.html",
+        "published_date": "Mon, 27 Jul 2026 19:15:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852202"
+      },
+      "1cd9eb3512777ce7d94a5b191c28a7947765c57652a388107dee64a944aa7ddc": {
+        "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+        "published_date": "Mon, 27 Jul 2026 16:07:00 GMT",
+        "first_seen": "2026-07-28T00:05:41.852204"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-27T08:33:36.460162",
-    "Finance": "2026-07-27T08:33:36.519478",
-    "Ai": "2026-07-27T08:33:35.098698"
+    "Technology": "2026-07-28T00:05:42.847971",
+    "Finance": "2026-07-28T00:05:43.891679",
+    "Ai": "2026-07-28T00:05:41.852206"
   }
 }
