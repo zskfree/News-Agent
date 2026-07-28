@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 00:05
+**最后更新时间**: 2026-07-28 07:41
+
+---
+
+## 🆕 最新更新 (2026-07-28 07:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI stock sell-off deepens as investors dump chipmakers](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 07:24
+
+#### [The unexpected winners from China’s blockbuster chip IPO](https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 05:35
+
+#### [The UAE’s bold gambit on Iran](https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [How Iran adapted its missile war with Trump](https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [TotalEnergies benefits from EU sanctions reprieve on Russian gas](https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [EU hesitates to target Irish plant accused of supplying Russia’s war industry](https://www.ft.com/content/ef7ff634-b738-4975-91b5-2edffc51da68?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
+
+#### [Nvidia behind $50bn lease on Texas data centre that will use its chips](https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 04:00
 
 ---
 

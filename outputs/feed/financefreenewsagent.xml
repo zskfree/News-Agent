@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Jul 2026 00:05:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 00:05:43 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:41:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Big Tech credit risks rise sharply as AI spending soars</title>
-      <link>https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Big Tech credit risks rise sharply as AI spending soars]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 20:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1</guid>
+      <title>AI stock sell-off deepens as investors dump chipmakers</title>
+      <link>https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AI stock sell-off deepens as investors dump chipmakers]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom</title>
-      <link>https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 21:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories</guid>
+      <title>The unexpected winners from China’s blockbuster chip IPO</title>
+      <link>https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The unexpected winners from China’s blockbuster chip IPO]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 05:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns</title>
-      <link>https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 21:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories</guid>
+      <title>The UAE’s bold gambit on Iran</title>
+      <link>https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The UAE’s bold gambit on Iran]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough</title>
-      <link>https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1</guid>
+      <title>How Iran adapted its missile war with Trump</title>
+      <link>https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[How Iran adapted its missile war with Trump]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Ares Management has held talks to buy Leonard Green &amp; Partners</title>
-      <link>https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Ares Management has held talks to buy Leonard Green &amp; Partners]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9f446812-5dc9-4d25-9a4b-ac5162e62d81?syn-25a6b1a6=1</guid>
+      <title>TotalEnergies benefits from EU sanctions reprieve on Russian gas</title>
+      <link>https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[TotalEnergies benefits from EU sanctions reprieve on Russian gas]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>For 44 years, this investor held aces in the long-bond game. He just folded.</title>
-      <link>https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[For 44 years, this investor held aces in the long-bond game. He just folded.]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories</guid>
+      <title>EU hesitates to target Irish plant accused of supplying Russia’s war industry</title>
+      <link>https://www.ft.com/content/ef7ff634-b738-4975-91b5-2edffc51da68?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[EU hesitates to target Irish plant accused of supplying Russia’s war industry]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ef7ff634-b738-4975-91b5-2edffc51da68?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Donald Trump rebuilds his tariff wall</title>
-      <link>https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Donald Trump rebuilds his tariff wall]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/426d49ae-1d07-45f4-b784-e65756a4f5ac?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money</title>
-      <link>https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 21:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Dior rebound helps LVMH’s fashion business return to growth</title>
-      <link>https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Dior rebound helps LVMH’s fashion business return to growth]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns</title>
-      <link>https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 20:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1</guid>
+      <title>Nvidia behind $50bn lease on Texas data centre that will use its chips</title>
+      <link>https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Nvidia behind $50bn lease on Texas data centre that will use its chips]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

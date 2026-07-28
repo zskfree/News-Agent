@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Jul 2026 00:05:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 00:05:42 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:41:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>维谛技术田军：电链与冷链将重构AI算力基础设施</title>
-      <link>https://www.tmtpost.com/8080820.html</link>
-      <description>&lt;![CDATA[维谛技术田军：电链与冷链将重构AI算力基础设施]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080820.html</guid>
+      <title>英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流</title>
+      <link>https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenTelemetry晋升为CNCF的最高成熟度项目</title>
+      <link>https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenTelemetry晋升为CNCF的最高成熟度项目]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从Token到任务：Agentic AI 如何改变基础设施的关注焦点</title>
-      <link>https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从Token到任务：Agentic AI 如何改变基础设施的关注焦点]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>月耗万亿Token：金山办公为什么不自己训练大模型</title>
+      <link>https://www.tmtpost.com/8081855.html</link>
+      <description>&lt;![CDATA[月耗万亿Token：金山办公为什么不自己训练大模型]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081855.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践</title>
-      <link>https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Token到Action：北京走进物理AI时刻</title>
+      <link>https://www.tmtpost.com/8081728.html</link>
+      <description>&lt;![CDATA[从Token到Action：北京走进物理AI时刻]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081728.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动</title>
-      <link>https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AMD，撬动AI芯片的旧格局？</title>
+      <link>https://www.tmtpost.com/8076049.html</link>
+      <description>&lt;![CDATA[AMD，撬动AI芯片的旧格局？]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076049.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>道通科技开放日验证空地一体巡检能力，具身智能商业化提速</title>
-      <link>https://www.tmtpost.com/8080534.html</link>
-      <description>&lt;![CDATA[道通科技开放日验证空地一体巡检能力，具身智能商业化提速]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 15:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080534.html</guid>
+      <title>长鑫赶上的是AI风口，还是DRAM又一个周期顶点？</title>
+      <link>https://www.tmtpost.com/8081521.html</link>
+      <description>&lt;![CDATA[长鑫赶上的是AI风口，还是DRAM又一个周期顶点？]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081521.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？</title>
-      <link>https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考</title>
+      <link>https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/Cpw9ye57OyQNHSKpem7T?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本</title>
-      <link>https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&amp;utm_medium=article</guid>
+      <title>武汉也在憋大招，8000亿的国产海力士要来了</title>
+      <link>https://www.tmtpost.com/8081171.html</link>
+      <description>&lt;![CDATA[武汉也在憋大招，8000亿的国产海力士要来了]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081171.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-6测试时“觉醒”，我们找到了测试系统的第一作者</title>
-      <link>https://www.tmtpost.com/8080536.html</link>
-      <description>&lt;![CDATA[GPT-6测试时“觉醒”，我们找到了测试系统的第一作者]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080536.html</guid>
+      <title>AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？</title>
+      <link>https://www.tmtpost.com/8081053.html</link>
+      <description>&lt;![CDATA[AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081053.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大量使用AI，但没人聊AI，《功夫女足》做对了什么？</title>
-      <link>https://www.tmtpost.com/8080375.html</link>
-      <description>&lt;![CDATA[大量使用AI，但没人聊AI，《功夫女足》做对了什么？]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080375.html</guid>
+      <title>派早报：月之暗面开源 Kimi K3 模型等</title>
+      <link>https://sspai.com/post/112805</link>
+      <description>&lt;![CDATA[派早报：月之暗面开源 Kimi K3 模型等]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 08:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112805</guid>
       <category>Technology</category>
     </item>
   </channel>
