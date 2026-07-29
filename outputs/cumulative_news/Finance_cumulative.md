@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-29 07:46
+**最后更新时间**: 2026-07-29 10:42
+
+---
+
+## 🆕 最新更新 (2026-07-29 10:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SK Hynix shares sent sprawling once more as earnings miss steepens decline](https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 10:23
+
+#### [‘We already have wills’: We’re in our 60s with $1.5 million. How do we prevent family drama among our heirs?](https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 09:15
+
+#### [Actress Elisha Cuthbert sells her West Hollywood home for $1.9 million after price cut](https://www.marketwatch.com/story/actress-elisha-cuthbert-sells-her-west-hollywood-home-for-1-9-million-after-price-cut-dc6bca46?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Lessons on rent control from New York, Berlin and Scotland](https://www.ft.com/content/975da0db-e251-4082-a637-90a6495557be?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 04:00
+
+#### [Fifa hit by growing opposition to commercial stake sale plan](https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 20:52
 
 ---
 
