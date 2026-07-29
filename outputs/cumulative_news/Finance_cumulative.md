@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 23:59
+**最后更新时间**: 2026-07-29 07:46
+
+---
+
+## 🆕 最新更新 (2026-07-29 07:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech rout roils markets after SK Hynix profits disappoint](https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 06:56
+
+#### [Ukraine adapts strikes on Russian energy industry to hit critical components](https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 04:00
+
+#### [If you think your profession is dying, it could soon be gone](https://www.ft.com/content/e888b187-75c0-4233-9588-d1b9948b1b0a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 04:00
+
+#### [Can rent controls ever work?](https://www.ft.com/content/975da0db-e251-4082-a637-90a6495557be?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 04:00
+
+#### [Bank of England probes Asian equity risk at prime brokers](https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 04:00
+
+#### [Mark Zuckerberg says US should not ban Chinese AI](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 02:15
+
+#### [US poised to impose new Russia sanctions package](https://www.ft.com/content/612c3693-6b2e-483d-a0f4-ac649ab7d191?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 00:40
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Saudi Arabia has a new, and pricier, workaround to export its oil](https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 01:28
+
+#### [Ford matches GM in one crucial way, and the stock jumps](https://www.marketwatch.com/story/ford-matches-gm-in-one-crucial-way-and-the-stock-jumps-bf2f708c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 00:18
 
 ---
 
