@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-28 10:38
+**最后更新时间**: 2026-07-28 23:59
+
+---
+
+## 🆕 最新更新 (2026-07-28 23:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hedge funds face demands to stump up collateral as AI stocks tumble](https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 23:18
+
+#### [US says it intercepted ‘surprise’ Iranian missile attack](https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 22:49
+
+#### [World’s biggest EV battery maker pivots to AI, grids and ships](https://www.ft.com/content/13351971-76dd-4284-a81e-3ffd8ec4e351?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 21:00
+
+#### [Fifa faces fierce backlash over plans for $20bn commercial stake sale](https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 20:52
+
+#### [Chip stocks tumble as AI sell-off deepens](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 20:15
+
+#### [Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine](https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 19:17
+
+#### [Ebay pays couple $56mn for its role in cockroach harassment campaign](https://www.ft.com/content/1ed4aee0-cbb4-4c98-a2aa-34971ded2583)
+**发布时间**: 2026-07-28 17:24
+
+#### [Trump’s waning sway over the world](https://www.ft.com/content/3441b5aa-9d58-4829-bd2e-b2c0ce0198f1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-28 11:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Seagate’s earnings are welcome news for the battered AI trade](https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 22:17
+
+#### [Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.](https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 22:06
+
+#### [Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate](https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 21:56
+
+#### [Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology](https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 21:17
+
+#### [Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens](https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 21:08
+
+#### [The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.](https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 20:54
+
+#### [Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?](https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 20:52
+
+#### [Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating](https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 20:46
+
+#### [Space stocks are falling hard — but SpaceX doesn’t deserve all of the blame](https://www.marketwatch.com/story/space-stocks-are-falling-hard-but-spacex-doesnt-deserve-all-of-the-blame-e5c1c8d0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 20:43
+
+#### [Microsoft is making a $190 billion AI gamble — and investors will soon see if it’s paying off](https://www.marketwatch.com/story/microsoft-is-making-a-190-billion-ai-gamble-and-investors-will-soon-see-if-its-paying-off-b53bd89a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-28 20:33
 
 ---
 
