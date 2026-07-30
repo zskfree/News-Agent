@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 07:36
+**最后更新时间**: 2026-07-30 10:27
+
+---
+
+## 🆕 最新更新 (2026-07-30 10:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security’s biggest problem isn’t a design flaw. It’s a missing trust fund.](https://www.marketwatch.com/story/social-securitys-biggest-problem-isnt-a-design-flaw-its-a-missing-trust-fund-75cd1351?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 10:00
+
+#### [The World Cup winners wore Adidas shirts. But the company’s investors are still crying foul.](https://www.marketwatch.com/story/the-world-cup-winners-wore-adidas-shirts-but-the-companys-investors-are-still-crying-foul-2224d39a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 09:29
+
+#### [My friend and her husband own extensive real estate. How can her children from a previous marriage get their fair share?](https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 09:15
+
+#### [‘The View’ Host Joy Behar finally finds a buyer for $7 million Hamptons home after 2 years](https://www.marketwatch.com/story/the-view-host-joy-behar-finally-finds-a-buyer-for-7-million-hamptons-home-after-2-years-17c0652a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 09:02
+
+#### [Samsung delivers record-setting profits, but the shares still can’t catch a break from investors.](https://www.marketwatch.com/story/samsung-delivers-record-setting-profits-but-the-shares-still-cant-catch-a-break-from-investors-daefa19a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 08:39
+
+#### [Investors are overlooking healthcare stocks and should consider these top picks, says JPMorgan](https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 07:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BoE expected to ‘talk tough’ but leave rates on hold](https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 09:06
+
+#### [DR Congo’s cobalt boom carries an unwanted cargo: uranium](https://www.ft.com/content/77815def-6f50-4adf-8ba3-3643de7bf8ab?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 09:00
+
+#### [Winner of US-China AI rivalry falls 2% in Hong Kong debut](https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 08:28
+
+#### [ByteDance’s big bet on AI](https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 04:00
 
 ---
 

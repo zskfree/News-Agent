@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Jul 2026 07:36:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2026 07:36:34 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 10:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:27:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>兆易创新跌倒，长鑫科技吃饱</title>
-      <link>https://www.tmtpost.com/8084279.html</link>
-      <description>&lt;![CDATA[兆易创新跌倒，长鑫科技吃饱]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084279.html</guid>
+      <title>从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”</title>
+      <link>https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10倍牛股急速腰斩，宏和科技的“时差”泡沫与800倍PE算术陷阱 | 钛媒体研究</title>
-      <link>https://www.tmtpost.com/8084847.html</link>
-      <description>&lt;![CDATA[10倍牛股急速腰斩，宏和科技的“时差”泡沫与800倍PE算术陷阱 | 钛媒体研究]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 13:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084847.html</guid>
+      <title>智能落地：把数据智能转化为业务成果 ｜Snowflake Discover AI 技术实战周</title>
+      <link>https://www.infoq.cn/video/8T9HbaCS6bVcwFZI69ug?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能落地：把数据智能转化为业务成果 ｜Snowflake Discover AI 技术实战周]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/8T9HbaCS6bVcwFZI69ug?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>飞渡科技：一家空间智能“隐形冠军”的显性时刻</title>
-      <link>https://www.tmtpost.com/8084554.html</link>
-      <description>&lt;![CDATA[飞渡科技：一家空间智能“隐形冠军”的显性时刻]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084554.html</guid>
+      <title>合规不是枷锁：平台团队如何让开发者主动拥抱治理</title>
+      <link>https://www.infoq.cn/article/ZvMZl92BBuD4dDNDaJbW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[合规不是枷锁：平台团队如何让开发者主动拥抱治理]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZvMZl92BBuD4dDNDaJbW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Agent 不是唯一答案，Expedia 用确定性工作流打造 AI 运维平台</title>
-      <link>https://www.infoq.cn/article/msL3K1DAsj3XIwLmd4tN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Agent 不是唯一答案，Expedia 用确定性工作流打造 AI 运维平台]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/msL3K1DAsj3XIwLmd4tN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>在流媒体时代，搭建一个专属于自己的「音乐探索系统」</title>
+      <link>https://sspai.com/post/112656</link>
+      <description>&lt;![CDATA[在流媒体时代，搭建一个专属于自己的「音乐探索系统」]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112656</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>首个突破90%成功率的桌面操作智能体！从堆模型到拼工程，实在Agent登顶OSWorld双冠</title>
-      <link>https://www.infoq.cn/article/4hUcQzeCeKm0wqkc4Zdc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[首个突破90%成功率的桌面操作智能体！从堆模型到拼工程，实在Agent登顶OSWorld双冠]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4hUcQzeCeKm0wqkc4Zdc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI大厂开始借钱烧算力</title>
+      <link>https://www.tmtpost.com/8084949.html</link>
+      <description>&lt;![CDATA[AI大厂开始借钱烧算力]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8084949.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>情报虾：跨平台情报信息全掌握！用skills一键扫荡小红书+微博+B站</title>
-      <link>https://www.infoq.cn/video/v1VMBH1RxmXyHvD6vo2d?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[情报虾：跨平台情报信息全掌握！用skills一键扫荡小红书+微博+B站]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 10:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/v1VMBH1RxmXyHvD6vo2d?utm_source=rss&amp;utm_medium=article</guid>
+      <title>财报后Meta大跌10％，扎男还要为汪滔买单多久？</title>
+      <link>https://www.tmtpost.com/8085006.html</link>
+      <description>&lt;![CDATA[财报后Meta大跌10％，扎男还要为汪滔买单多久？]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 18:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8085006.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨头AI资本支出增速放缓初现端倪，Meta和微软同日释放新信号</title>
-      <link>https://www.tmtpost.com/8085091.html</link>
-      <description>&lt;![CDATA[巨头AI资本支出增速放缓初现端倪，Meta和微软同日释放新信号]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8085091.html</guid>
+      <title>康宁喊&quot;10倍光纤&quot;，股价却暴跌18%——账算错了</title>
+      <link>https://www.tmtpost.com/8084880.html</link>
+      <description>&lt;![CDATA[康宁喊&quot;10倍光纤&quot;，股价却暴跌18%——账算错了]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8084880.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当汽车拥有智能“大脑”，车企开始争夺“身体控制权”</title>
-      <link>https://www.tmtpost.com/8084927.html</link>
-      <description>&lt;![CDATA[当汽车拥有智能“大脑”，车企开始争夺“身体控制权”]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 14:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084927.html</guid>
+      <title>SK海力士崩了，苹果却冲上5万亿美元，AI投资逻辑变了？</title>
+      <link>https://www.tmtpost.com/8084827.html</link>
+      <description>&lt;![CDATA[SK海力士崩了，苹果却冲上5万亿美元，AI投资逻辑变了？]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8084827.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>X9在高温中“趴窝”，小鹏的高端路还怎么走？</title>
-      <link>https://www.tmtpost.com/8084178.html</link>
-      <description>&lt;![CDATA[X9在高温中“趴窝”，小鹏的高端路还怎么走？]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084178.html</guid>
+      <title>ADC的矿源耗竭了吗？</title>
+      <link>https://www.tmtpost.com/8084857.html</link>
+      <description>&lt;![CDATA[ADC的矿源耗竭了吗？]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8084857.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>携程认了51亿罚单，但杀熟的算法还在替你定价</title>
-      <link>https://www.tmtpost.com/8084483.html</link>
-      <description>&lt;![CDATA[携程认了51亿罚单，但杀熟的算法还在替你定价]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084483.html</guid>
+      <title>中国销量下滑近三成，大众靠欧洲和降本守住1581亿欧元收入</title>
+      <link>https://www.tmtpost.com/8085277.html</link>
+      <description>&lt;![CDATA[中国销量下滑近三成，大众靠欧洲和降本守住1581亿欧元收入]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8085277.html</guid>
       <category>Technology</category>
     </item>
   </channel>
