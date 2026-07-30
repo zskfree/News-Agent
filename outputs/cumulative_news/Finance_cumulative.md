@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-29 10:42
+**最后更新时间**: 2026-07-30 00:02
+
+---
+
+## 🆕 最新更新 (2026-07-30 00:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Digital avatar of Jair Bolsonaro tests Brazil’s AI election rules](https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 23:26
+
+#### [Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market](https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 22:20
+
+#### [Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’](https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 22:04
+
+#### [Microsoft’s cloud business boosts sales as capex climbs to $41bn](https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 21:31
+
+#### [Infantino defends $20bn Fifa commercial venture after mounting backlash](https://www.ft.com/content/b97720c3-b6d7-455e-84ca-1e4339003644?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 21:25
+
+#### [US borrowing costs hit 19-year high as Fed defies inflation fears](https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 21:01
+
+#### [Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack](https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 20:05
+
+#### [Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19](https://www.ft.com/content/35811ce1-84a7-4a59-aa91-15c6bdd24392?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 17:59
+
+#### [US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply](https://www.ft.com/content/86f37415-cc80-4ea6-bc03-87c96cb831f4?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 17:03
+
+#### [Fed’s favourite inflation gauge to be lowered by stats agency change](https://www.ft.com/content/bf4c32f3-735d-4742-a5b6-65b404f70cc7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-29 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the USO oil ETF is a better buy than crude futures as the Iran war rages](https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 22:44
+
+#### [‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?](https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 22:30
+
+#### [Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic](https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 22:22
+
+#### [My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?](https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 22:01
+
+#### [Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates](https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 21:56
+
+#### [Bond market is calling Warsh’s bluff on inflation fight as yields surge](https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 21:43
+
+#### [Rising Medicare Part D premiums could drive more people into Medicare Advantage plans](https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 21:43
+
+#### [Starbucks is becoming cool again. Here’s how it pulled off its turnaround.](https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 21:09
+
+#### [Qualcomm’s stock falls as memory woes weigh on earnings](https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories)
+**发布时间**: 2026-07-29 21:07
 
 ---
 

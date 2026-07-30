@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Jul 2026 10:40:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 10:42:39 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:03:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>隼瞻创始人曾轶：AI推倒芯片设计壁垒，我们要做半导体行业的「Copilot」</title>
-      <link>https://www.leiphone.com/category/chips/6Ce1BxLj2chEdoJD.html</link>
-      <description>&lt;![CDATA[隼瞻创始人曾轶：AI推倒芯片设计壁垒，我们要做半导体行业的「Copilot」]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/6Ce1BxLj2chEdoJD.html</guid>
+      <title>能干能信能打的瓴羊AI员工全面上岗，帮企业问AI要增长</title>
+      <link>https://www.leiphone.com/category/industrynews/P0iMC7Qonsem1Q0u.html</link>
+      <description>&lt;![CDATA[能干能信能打的瓴羊AI员工全面上岗，帮企业问AI要增长]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/P0iMC7Qonsem1Q0u.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>端侧智能体不再只缺算力，个人AI还差什么？</title>
-      <link>https://www.leiphone.com/category/chips/h6gLPiJ3peF32xG5.html</link>
-      <description>&lt;![CDATA[端侧智能体不再只缺算力，个人AI还差什么？]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/h6gLPiJ3peF32xG5.html</guid>
+      <title>Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/</link>
+      <description>&lt;![CDATA[Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>前安克CMO王时远创业一周年：App迭代超50次，首款AI记忆手环量产在即</title>
-      <link>https://www.leiphone.com/category/weiwu/lBpI3PHh8yeNj6uN.html</link>
-      <description>&lt;![CDATA[前安克CMO王时远创业一周年：App迭代超50次，首款AI记忆手环量产在即]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/lBpI3PHh8yeNj6uN.html</guid>
+      <title>Generate Autonomous Business Insights with AI Agent and MCP Servers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/</link>
+      <description>&lt;![CDATA[Generate Autonomous Business Insights with AI Agent and MCP Servers]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一</title>
-      <link>https://www.qbitai.com/2026/07/462447.html</link>
-      <description>&lt;![CDATA[超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 08:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462447.html</guid>
+      <title>Automating customer retention workflows in Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/</link>
+      <description>&lt;![CDATA[Automating customer retention workflows in Amazon Quick]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Opus 5游戏提示词爆火！24小时复刻3A巨作</title>
-      <link>https://www.qbitai.com/2026/07/462384.html</link>
-      <description>&lt;![CDATA[Opus 5游戏提示词爆火！24小时复刻3A巨作]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462384.html</guid>
+      <title>中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径</title>
+      <link>https://www.qbitai.com/2026/07/462943.html</link>
+      <description>&lt;![CDATA[中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462943.html</guid>
       <category>Ai</category>
     </item>
   </channel>
