@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 00:02
+**最后更新时间**: 2026-07-30 07:36
+
+---
+
+## 🆕 最新更新 (2026-07-30 07:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan](https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 07:11
+
+#### [Ford’s big-truck bet is paying off — and Wall Street is taking notice](https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 01:02
+
+#### [Why SoFi’s stock drops, even after its earnings beat expectations](https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 01:01
+
+#### [Robinhood puts up record revenue as volatility drives a trading bonanza](https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 00:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Kevin Warsh is confusing markets](https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 05:30
+
+#### [Chinese stocks on track for worst month in decade](https://www.ft.com/content/5052b22e-aeca-4043-88af-dd7da3661a49?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 05:28
+
+#### [Winner of US-China AI rivalry falls 10% in Hong Kong debut](https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 05:08
+
+#### [ByteDance’s plan to dominate AI](https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 04:00
+
+#### [Saudi Arabia is still doomed to dependence on America](https://www.ft.com/content/4625a552-9e45-463c-aca8-63a6ca1da09b)
+**发布时间**: 2026-07-30 04:00
+
+#### [Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout](https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 03:28
+
+#### [‘My life’s screwed’: Korean investors stress out after AI bubble bursts](https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 03:13
+
+#### [US launches strikes on Iran after Trump vows to deliver ‘beating’](https://www.ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 01:46
+
+#### [Microsoft signs $130bn in data centre leases as it races to meet AI demand](https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 01:05
 
 ---
 
