@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 07:53
+**最后更新时间**: 2026-07-31 10:42
+
+---
+
+## 🆕 最新更新 (2026-07-31 10:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Top Infantino adviser quits over Fifa plan to sell stake in $20bn commercial arm](https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 10:28
+
+#### [Spain says 49,000 migrants entered Ceuta enclave in one day](https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 09:59
+
+#### [Eurozone inflation rises to 2.9% in July](https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 09:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too aggressive?](https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 10:00
+
+#### [South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.](https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 09:48
+
+#### [If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.](https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 09:35
+
+#### [Diane Keaton’s stunning $23 million dream home in L.A. finally finds a buyer](https://www.marketwatch.com/story/diane-keatons-stunning-23-million-dream-home-in-l-a-finally-finds-a-buyer-52f1373e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 08:59
 
 ---
 
