@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 00:05
+**最后更新时间**: 2026-07-31 07:53
+
+---
+
+## 🆕 最新更新 (2026-07-31 07:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fifa opens door to amending controversial stake sale plan](https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 07:21
+
+#### [South Korean stock market soars 18% as investors pile back into AI](https://www.ft.com/content/23eb1fd4-8301-4c0e-89b3-2647389e6226?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 07:10
+
+#### [Trump says Hamas has agreed to disarm over time](https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 06:13
+
+#### [Russia targets hundreds of Ukrainian petrol stations](https://www.ft.com/content/066066cf-d45b-436c-9170-b42097a4b141?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 04:00
+
+#### [We’ve moved from income world to wealth world](https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 04:00
+
+#### [China is smarter about subsidies than everybody else](https://www.ft.com/content/871976c7-8c4f-405e-803e-d86cf22bcf0f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 04:00
+
+#### [JPMorgan walks into another football firestorm](https://www.ft.com/content/c81dd7e8-9f4b-415f-aa08-eb2b3b1f3680?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 04:00
+
+#### [How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low](https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 00:57
+
+#### [Anthropic’s Claude AI models hack into 3 outside groups during testing](https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 00:55
+
+#### [Saudi Arabia announces maritime defence coalition as Houthi attacks threaten Red Sea route](https://www.ft.com/content/926bad8a-55e0-4d1d-8612-7ebd0aaef4ee?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 20:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Corporate insiders are sending warning signals about the stock market](https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 00:31
+
+#### [‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?](https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 00:24
+
+#### [My friend and her husband own real estate. How can her children from a previous marriage get their fair share?](https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 00:16
 
 ---
 
