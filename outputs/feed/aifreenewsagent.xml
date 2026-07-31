@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Jul 2026 10:25:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2026 10:27:47 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 00:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:05:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程</title>
-      <link>https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html</link>
-      <description>&lt;![CDATA[腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html</guid>
+      <title>晶泰科技发布AI4S原生操作系统 XtalPi Science ，以多智能体矩阵开启自主科学发现新范式</title>
+      <link>https://www.leiphone.com/category/aihealth/qZUov9NEbsp48psi.html</link>
+      <description>&lt;![CDATA[晶泰科技发布AI4S原生操作系统 XtalPi Science ，以多智能体矩阵开启自主科学发现新范式]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 00:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/qZUov9NEbsp48psi.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Claude Code之父：Harness保质期只有半年，解开缰绳吧</title>
-      <link>https://www.qbitai.com/2026/07/463433.html</link>
-      <description>&lt;![CDATA[Claude Code之父：Harness保质期只有半年，解开缰绳吧]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463433.html</guid>
+      <title>GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节</title>
+      <link>https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html</link>
+      <description>&lt;![CDATA[GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>终端市场的下一个增长点，高通押在了“个人AI”上</title>
-      <link>https://www.qbitai.com/2026/07/463204.html</link>
-      <description>&lt;![CDATA[终端市场的下一个增长点，高通押在了“个人AI”上]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463204.html</guid>
+      <title>Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence</title>
+      <link>https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</link>
+      <description>&lt;![CDATA[Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 20:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现</title>
-      <link>https://www.qbitai.com/2026/07/463297.html</link>
-      <description>&lt;![CDATA[GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 07:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463297.html</guid>
+      <title>Deploying Kimi K3 on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/</link>
+      <description>&lt;![CDATA[Deploying Kimi K3 on AWS]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>李飞飞的世界模型，终于开始训练机器人了</title>
-      <link>https://www.qbitai.com/2026/07/463217.html</link>
-      <description>&lt;![CDATA[李飞飞的世界模型，终于开始训练机器人了]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/463217.html</guid>
+      <title>How Yahoo enhances search retargeting using Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How Yahoo enhances search retargeting using Amazon Bedrock]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/</link>
+      <description>&lt;![CDATA[Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Migrate your prompts to new models and optimize them on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Migrate your prompts to new models and optimize them on Amazon Bedrock]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Daniela Rus receives Bavarian Minister-President's High-Tech Prize</title>
+      <link>https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730</link>
+      <description>&lt;![CDATA[Daniela Rus receives Bavarian Minister-President's High-Tech Prize]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Connecting research to policy on Capitol Hill</title>
+      <link>https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730</link>
+      <description>&lt;![CDATA[Connecting research to policy on Capitol Hill]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730</guid>
       <category>Ai</category>
     </item>
   </channel>

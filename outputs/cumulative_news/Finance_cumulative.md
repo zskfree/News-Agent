@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-30 10:27
+**最后更新时间**: 2026-07-31 00:05
+
+---
+
+## 🆕 最新更新 (2026-07-31 00:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump ‘not sure’ he will let Ukraine build Patriot missiles](https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 23:30
+
+#### [Apple forecasts slower growth as AI build-out strains tech supply chains](https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 23:17
+
+#### [Amazon increases AI infrastructure spending to $220bn this year](https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 22:52
+
+#### [Spain’s migrant crisis triggers Italian call for EU travel restrictions](https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 21:50
+
+#### [Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott](https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 20:02
+
+#### [Mark Zuckerberg is becoming the king of the ‘side quest’](https://www.ft.com/content/6d206b85-bc50-4c89-973b-f18cd84e2a15?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 18:16
+
+#### [Citadel buys Situational Awareness equity holdings after steep AI losses](https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 18:16
+
+#### [Kevin Warsh’s concerning communication style](https://www.ft.com/content/3cbee183-fd1f-4afc-8376-2115e66dda6c)
+**发布时间**: 2026-07-30 17:35
+
+#### [Are investors really getting cold feet about the AI boom?](https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 17:15
+
+#### [Warsh’s stripped-back Fed communication ‘already backfiring’, say investors](https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1)
+**发布时间**: 2026-07-30 16:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.](https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 23:01
+
+#### [Jersey Mike’s spent almost ‘zero dollars’ on digital marketing. That’s now changing.](https://www.marketwatch.com/story/jersey-mikes-spent-almost-zero-dollars-on-digital-marketing-thats-now-changing-9738485d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 22:24
+
+#### [Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade](https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 22:09
+
+#### [Get ready to buy the dip in tech stocks. Why the recent selling won’t break the bull market.](https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 21:45
+
+#### [Can credit cards survive AI shopping? Why Mastercard’s CEO says they’ll ‘prevail’ in this new era.](https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 21:45
+
+#### [Software stocks are fading — but these 4 could shine through the rest of the year](https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 21:24
+
+#### [Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.](https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 20:31
+
+#### [Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings](https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 20:26
+
+#### [Why Microsoft’s stock soared to a historic gain after earnings](https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 20:21
+
+#### [Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve](https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories)
+**发布时间**: 2026-07-30 19:02
 
 ---
 
