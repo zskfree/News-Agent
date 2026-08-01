@@ -6,7 +6,7 @@
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
     <pubDate>Sat, 01 Aug 2026 10:02:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 10:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:59:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？</title>
-      <link>https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI大厂，打起了“Token奶茶大战”</title>
-      <link>https://www.tmtpost.com/8088011.html</link>
-      <description>&lt;![CDATA[AI大厂，打起了“Token奶茶大战”]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088011.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>数百万本书，被Claude“阅后即焚”</title>
-      <link>https://www.tmtpost.com/8088012.html</link>
-      <description>&lt;![CDATA[数百万本书，被Claude“阅后即焚”]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088012.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>字节为什么一定要拆飞书？</title>
-      <link>https://www.tmtpost.com/8088001.html</link>
-      <description>&lt;![CDATA[字节为什么一定要拆飞书？]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088001.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>蔡崇信这场离婚，没瓜可吃才是最该看懂的事</title>
-      <link>https://www.tmtpost.com/8088043.html</link>
-      <description>&lt;![CDATA[蔡崇信这场离婚，没瓜可吃才是最该看懂的事]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088043.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>一群富豪的牛津梦，标价108万</title>
-      <link>https://www.tmtpost.com/8087957.html</link>
-      <description>&lt;![CDATA[一群富豪的牛津梦，标价108万]]&gt;</description>
+      <title>Qwen还是看到了开源的好</title>
+      <link>https://www.tmtpost.com/8087652.html</link>
+      <description>&lt;![CDATA[Qwen还是看到了开源的好]]&gt;</description>
       <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8087957.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087652.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“榨”出硅的极限：怎么让GPU不“闲着”？</title>
-      <link>https://www.tmtpost.com/8088046.html</link>
-      <description>&lt;![CDATA[“榨”出硅的极限：怎么让GPU不“闲着”？]]&gt;</description>
+      <title>重组ToB业务，字节在赌什么？</title>
+      <link>https://www.tmtpost.com/8087590.html</link>
+      <description>&lt;![CDATA[重组ToB业务，字节在赌什么？]]&gt;</description>
       <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088046.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087590.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自研大模型的马斯克，把豆包装进了特斯拉</title>
-      <link>https://www.tmtpost.com/8087804.html</link>
-      <description>&lt;![CDATA[自研大模型的马斯克，把豆包装进了特斯拉]]&gt;</description>
+      <title>“非洲之王”传音控股：“V型”反弹之后，市场在犹豫什么？</title>
+      <link>https://www.tmtpost.com/8087203.html</link>
+      <description>&lt;![CDATA[“非洲之王”传音控股：“V型”反弹之后，市场在犹豫什么？]]&gt;</description>
       <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8087804.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087203.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>车型越多，死得越快？全球车企正在抛弃车海战术</title>
-      <link>https://www.tmtpost.com/8087383.html</link>
-      <description>&lt;![CDATA[车型越多，死得越快？全球车企正在抛弃车海战术]]&gt;</description>
+      <title>苹果的5万亿美元时刻：最强财报，最弱AI</title>
+      <link>https://www.tmtpost.com/8087556.html</link>
+      <description>&lt;![CDATA[苹果的5万亿美元时刻：最强财报，最弱AI]]&gt;</description>
       <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8087383.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087556.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>撤档、提档、空降、点映，什么制造了史上最激烈的暑期档</title>
-      <link>https://www.tmtpost.com/8087665.html</link>
-      <description>&lt;![CDATA[撤档、提档、空降、点映，什么制造了史上最激烈的暑期档]]&gt;</description>
+      <title>独家|行深智能创始人退出公司管理，C轮资方全面接管</title>
+      <link>https://www.tmtpost.com/8087401.html</link>
+      <description>&lt;![CDATA[独家|行深智能创始人退出公司管理，C轮资方全面接管]]&gt;</description>
       <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8087665.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087401.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>存储巨头赚翻了，下游扛不住了</title>
+      <link>https://www.tmtpost.com/8087502.html</link>
+      <description>&lt;![CDATA[存储巨头赚翻了，下游扛不住了]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087502.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>3 个最近在 GitHub 上非常火火火的项目，最后一个有创意。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535657&amp;idx=1&amp;sn=8d2c507794ca4e7133a1e15aeac20eee</link>
+      <description>&lt;![CDATA[3 个最近在 GitHub 上非常火火火的项目，最后一个有创意。]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535657&amp;idx=1&amp;sn=8d2c507794ca4e7133a1e15aeac20eee</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>知名搜索框架 Firecrawl 开源的 Web Agent。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535657&amp;idx=2&amp;sn=b1bdc5b6ee5442e783e2dbeb226bab68</link>
+      <description>&lt;![CDATA[知名搜索框架 Firecrawl 开源的 Web Agent。]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535657&amp;idx=2&amp;sn=b1bdc5b6ee5442e783e2dbeb226bab68</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了</title>
+      <link>https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账</title>
+      <link>https://sspai.com/post/112701</link>
+      <description>&lt;![CDATA[「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 12:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/112701</guid>
       <category>Technology</category>
     </item>
   </channel>

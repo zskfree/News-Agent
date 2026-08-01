@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 10:02
+**最后更新时间**: 2026-08-01 23:59
+
+---
+
+## 🆕 最新更新 (2026-08-01 23:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Spain pushes migrants home as Ceuta vents over ‘invasion’](https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 22:43
+
+#### [EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism](https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 15:39
+
+#### [Infantino’s U-turn fuels doubts about his future at Fifa](https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 15:32
+
+#### [Massive US tungsten discovery could run into Nasa roadblock](https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 12:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?](https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 21:00
+
+#### [Let’s elect candidates who will make the wealthy pay taxes](https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 18:30
+
+#### [Americans are living longer than our retirement system can handle — and many of us are unprepared](https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 17:32
+
+#### [My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?](https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 17:15
+
+#### [I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?](https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 16:41
 
 ---
 
