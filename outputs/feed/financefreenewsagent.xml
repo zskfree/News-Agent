@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Aug 2026 07:30:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 07:30:23 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 10:02:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:03:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,51 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The war dividend</title>
-      <link>https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[The war dividend]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Humbling times for markets</title>
-      <link>https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Humbling times for markets]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Situational Awareness got the future right but misread the past</title>
-      <link>https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Situational Awareness got the future right but misread the past]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>AI’s ‘cookie banner’ moment: EU labels come for the bots</title>
-      <link>https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[AI’s ‘cookie banner’ moment: EU labels come for the bots]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Fifa abandons $20bn stake-sale plan after global backlash</title>
+      <title>Fifa abandons $20bn investment plan after global backlash</title>
       <link>https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Fifa abandons $20bn stake-sale plan after global backlash]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 01:57:00 GMT</pubDate>
+      <description>&lt;![CDATA[Fifa abandons $20bn investment plan after global backlash]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 08:44:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?</title>
-      <link>https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

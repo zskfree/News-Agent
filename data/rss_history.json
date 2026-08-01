@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "db9cabb6ce85362bbc116db3dfda641fd0b4fb3e7caa300cecde35fe4cc2b182": {
-        "title": "Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j",
-        "link": "https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 10:25:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047309"
-      },
-      "d8c1a3658516a7f773b2ac243f0e48ea9376d9430935c03b5c069f079c8d7bf3": {
-        "title": "GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升",
-        "link": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 15:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047320"
-      },
-      "bca099ddfef62ba13b68b407be12bf771bcd79604c4f507ef0dfbaad8c1bcf6f": {
-        "title": "Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力",
-        "link": "https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 09:29:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047322"
-      },
-      "34327cf27a79dca684e9e153c788fc017e202697495b3b76dbe2ad081bb59acc": {
-        "title": "蒸馏战争全面开打：从Meta封堵Claude与Codex开始",
-        "link": "https://www.tmtpost.com/8048728.html",
-        "published_date": "Thu, 02 Jul 2026 12:06:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047324"
-      },
-      "ec184d62cfaf9848a690acca4f0d713d35c11b79976f5b7af1b619c7811a287f": {
-        "title": "踩着物理AI的风口，Momenta冲刺IPO",
-        "link": "https://www.tmtpost.com/8049748.html",
-        "published_date": "Thu, 02 Jul 2026 09:54:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047326"
-      },
-      "b83d4d85c03957ae27d443d7f0fbbc3ba5e73f28c7bdc0a4d582c39102a72200": {
-        "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
-        "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 10:54:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047327"
-      },
-      "22e51be94c0fd99916e1776a629c938ab786b37490888698f83fedb8fa1eccc5": {
-        "title": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
-        "link": "https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 12:45:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047329"
-      },
-      "3a2b5c49dbaa935b3778b845b4ee7b0c84f6e3f528f44a1b8e1b13dc0d2b77b4": {
-        "title": "如何利用 AI Agent 实现热补丁的自动化生成",
-        "link": "https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 16:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047331"
-      },
-      "48659a77aa7b5bdb805ebb3f14138933f40472f4eb1d9df53b23b93efa3426b5": {
-        "title": "康宁“玻璃桥”，开启光互连的晶圆制造时代",
-        "link": "https://www.tmtpost.com/8049241.html",
-        "published_date": "Thu, 02 Jul 2026 12:41:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047333"
-      },
-      "91d63ab6bc467dd2c2397b9b2aa40fb67a173b3ce5d3c1bf8419d1a930951f5f": {
-        "title": "精打细算的AI时代到来了",
-        "link": "https://www.tmtpost.com/8049799.html",
-        "published_date": "Thu, 02 Jul 2026 10:47:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.047334"
-      },
       "552ec5a51c5b997d36b8af9eecafcb45a1bb747ac536ceb640095366777e7f0e": {
         "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
         "link": "https://www.tmtpost.com/8050492.html",
@@ -4783,51 +4723,69 @@
         "link": "https://www.tmtpost.com/8087840.html",
         "published_date": "Sat, 01 Aug 2026 09:46:00 GMT",
         "first_seen": "2026-08-01T07:30:23.714139"
+      },
+      "9b7ce981a45750d0289035576cff8feec9b40c772da8971faa2156d2c8a105e8": {
+        "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+        "link": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 01 Aug 2026 17:20:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018277"
+      },
+      "3be7b0cd663d9280100af619a73bbc0a1ed6ab7bbb32d4b9ded153ba67867205": {
+        "title": "AI大厂，打起了“Token奶茶大战”",
+        "link": "https://www.tmtpost.com/8088011.html",
+        "published_date": "Sat, 01 Aug 2026 17:06:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018286"
+      },
+      "d217d8e779811a6c3e7345985e30419deb02288536c6b108c91bae04845f81e8": {
+        "title": "数百万本书，被Claude“阅后即焚”",
+        "link": "https://www.tmtpost.com/8088012.html",
+        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018288"
+      },
+      "1dcdb69e91ee622053ef6c512bb9261918008f488c3e119cf9d366d56b3eeee8": {
+        "title": "字节为什么一定要拆飞书？",
+        "link": "https://www.tmtpost.com/8088001.html",
+        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018291"
+      },
+      "2d0f21154185c86509aba7677b6e607cf60d4f58e02324ec20254e8d53f6c34f": {
+        "title": "蔡崇信这场离婚，没瓜可吃才是最该看懂的事",
+        "link": "https://www.tmtpost.com/8088043.html",
+        "published_date": "Sat, 01 Aug 2026 16:33:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018292"
+      },
+      "cf8c25a1251c9ca7027da33baed5993c30ad1eb1292e4c298895b94f0010ca74": {
+        "title": "一群富豪的牛津梦，标价108万",
+        "link": "https://www.tmtpost.com/8087957.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018294"
+      },
+      "bae5b94824386876263372de0638845776d30a1c0a377c6fde315e25056afc2d": {
+        "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
+        "link": "https://www.tmtpost.com/8088046.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018295"
+      },
+      "6c1fe37f188a58ce6a89714b358f0b9690e43c0353fda9606557c6f6e52f4767": {
+        "title": "自研大模型的马斯克，把豆包装进了特斯拉",
+        "link": "https://www.tmtpost.com/8087804.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018297"
+      },
+      "75a453681ea42b597c0143aee5e4123b93b94d02812eb84ec13e61bb685d1c67": {
+        "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
+        "link": "https://www.tmtpost.com/8087383.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018298"
+      },
+      "06d31a023f6ad06f049852413bc790884f00800cad57f793563662c4fc32674b": {
+        "title": "撤档、提档、空降、点映，什么制造了史上最激烈的暑期档",
+        "link": "https://www.tmtpost.com/8087665.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.018299"
       }
     },
     "Finance": {
-      "ad6ca3fe90e7771b31094bae13462592ef1eb472880c76028761c4541a3b4885": {
-        "title": "Russia unleashes huge bombardment of Kyiv",
-        "link": "https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6",
-        "published_date": "Thu, 02 Jul 2026 06:49:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100124"
-      },
-      "556dc4a879087c8add2c36d462a58365c33adf05eb3d79f7525bb2eec874fabc": {
-        "title": "OpenAI proposes handing Trump administration 5% stake",
-        "link": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100133"
-      },
-      "159587f451b22fcd93c9f1df4335d82d7a33917d903d06f4b9b373740402afb9": {
-        "title": "Trump’s billion-dollar makeover of Washington DC",
-        "link": "https://ig.ft.com/trump-dc/",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100135"
-      },
-      "febdbd29895442a5bc3ea8b39139213f46f7efc909e6c6da8f67207ebfa73ab7": {
-        "title": "The economics of women’s weight",
-        "link": "https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100138"
-      },
-      "d97e9ad7523b52b7e9deb553703f6a94bb4847684a698d84d7dcd7454d7e8704": {
-        "title": "Can Kevin Warsh tame the Fed’s $7tn balance sheet?",
-        "link": "https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100139"
-      },
-      "2714e1ff3333d5e4ea215356cc0db918c9e3d4c2ce613375d3b56076e7cdcbb3": {
-        "title": "Sony is first console giant to stop making physical games",
-        "link": "https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420",
-        "published_date": "Thu, 02 Jul 2026 02:54:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100140"
-      },
-      "776f0635466b09f59fb3a53b9ed7b49882370c23c7d52407c4c6e5497b536ea5": {
-        "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-        "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Jul 2026 00:15:00 GMT",
-        "first_seen": "2026-07-02T08:14:39.100142"
-      },
       "cc00833474155098a616a2895a1f1923984fb5fee6e12b164fe438eb017f2b98": {
         "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
         "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
@@ -8619,69 +8577,15 @@
         "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
         "published_date": "Sat, 01 Aug 2026 00:45:00 GMT",
         "first_seen": "2026-08-01T07:30:23.770079"
+      },
+      "1b7ca8ee1ceb618a69d1aeac71e8aec07c358cd1aa2cfa6284abccb035cdc789": {
+        "title": "Fifa abandons $20bn investment plan after global backlash",
+        "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
+        "published_date": "Sat, 01 Aug 2026 08:44:00 GMT",
+        "first_seen": "2026-08-01T10:03:03.070987"
       }
     },
     "Ai": {
-      "eec2b607541930994717d3f87bc1bcccfd681766846b58295bfe8b721af5b382": {
-        "title": "十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026",
-        "link": "https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html",
-        "published_date": "Thu, 02 Jul 2026 13:36:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583380"
-      },
-      "741baf775745cea29e52d2dfa93a9c87b4532629dbf3a05700a73e4269624103": {
-        "title": "ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡",
-        "link": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
-        "published_date": "Thu, 02 Jul 2026 09:48:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583387"
-      },
-      "69f018bcbdebcfbdcbcfaef5fbaae3fd18c3f3212fd0b1cf2a99bd7f3d656c0b": {
-        "title": "世界模型来了因果技术标杆！具身大脑真要长脑子了",
-        "link": "https://www.qbitai.com/2026/07/441490.html",
-        "published_date": "Thu, 02 Jul 2026 04:36:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583389"
-      },
-      "bf002ae148cde5348d72bfa83439f84134fb5830a8911e95505661889fc18005": {
-        "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
-        "link": "https://www.qbitai.com/2026/07/441725.html",
-        "published_date": "Thu, 02 Jul 2026 05:44:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583390"
-      },
-      "3a5a0909618f0cfe668028a820195a945870baddd836ad440bbc4159ce4b2a22": {
-        "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
-        "link": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
-        "published_date": "Thu, 02 Jul 2026 10:11:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583392"
-      },
-      "db24113967eba8bac437778d06c355c8318f7f22e8079560dc9ed6303c1a9421": {
-        "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
-        "link": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-        "published_date": "Thu, 02 Jul 2026 03:34:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583393"
-      },
-      "160051c17a0bee471549fa2595a7df3ca9aff7304885de4e0b540b37e4984d1c": {
-        "title": "AI眼镜不再依赖手机！这次真要单飞了",
-        "link": "https://www.qbitai.com/2026/07/441491.html",
-        "published_date": "Thu, 02 Jul 2026 04:20:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583395"
-      },
-      "cf87adf3c947660138f98c0774786e1cc13303a6c635b2ab86149c24330a359d": {
-        "title": "人才黑洞！UC伯克利系主任都加入A社了",
-        "link": "https://www.qbitai.com/2026/07/441447.html",
-        "published_date": "Thu, 02 Jul 2026 03:49:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583397"
-      },
-      "f58d396ce13f52bbd60f45f37201af1c4833cdab1365026f5fa9d2d50216c26c": {
-        "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
-        "link": "https://www.qbitai.com/2026/07/441786.html",
-        "published_date": "Thu, 02 Jul 2026 06:23:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583398"
-      },
-      "192ed1608e3e46c631c546b71437e4c00674bb1adf4cfcd53bff5d9c14d10fbf": {
-        "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
-        "link": "https://www.qbitai.com/2026/07/441586.html",
-        "published_date": "Thu, 02 Jul 2026 05:33:00 GMT",
-        "first_seen": "2026-07-02T08:14:40.583400"
-      },
       "aed7eb91ceec8dac6d201c99d38bd504ae3f60ed84e872ee4c92e017383d0685": {
         "title": "自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%",
         "link": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
@@ -12124,8 +12028,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-01T07:30:23.714142",
-    "Finance": "2026-08-01T07:30:23.770081",
+    "Technology": "2026-08-01T10:03:03.018301",
+    "Finance": "2026-08-01T10:03:03.070994",
     "Ai": "2026-08-01T07:30:14.127737"
   }
 }
