@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 00:07
+**最后更新时间**: 2026-08-01 07:30
+
+---
+
+## 🆕 最新更新 (2026-08-01 07:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The war dividend](https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Humbling times for markets](https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Situational Awareness got the future right but misread the past](https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [AI’s ‘cookie banner’ moment: EU labels come for the bots](https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 04:00
+
+#### [Fifa abandons $20bn stake-sale plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 01:57
+
+#### [Google Earth AI tool pulled after spate of fake satellite images](https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 20:03
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?](https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories)
+**发布时间**: 2026-08-01 00:45
 
 ---
 

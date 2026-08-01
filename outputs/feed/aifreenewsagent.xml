@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Aug 2026 00:02:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 00:07:37 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 07:28:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:30:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？</title>
-      <link>https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html</link>
-      <description>&lt;![CDATA[比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html</guid>
+      <title>2026-08-01日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-01/</link>
+      <description>&lt;![CDATA[2026-08-01日刊]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-01/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球</title>
-      <link>https://www.leiphone.com/category/ai/mER69AfKN23gn4Yt.html</link>
-      <description>&lt;![CDATA[Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/mER69AfKN23gn4Yt.html</guid>
+      <title>OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！</title>
+      <link>https://www.qbitai.com/2026/08/464693.html</link>
+      <description>&lt;![CDATA[OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 05:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464693.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？</title>
-      <link>https://www.leiphone.com/category/ai/Q24LRPqt1A6EUYiv.html</link>
-      <description>&lt;![CDATA[卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Q24LRPqt1A6EUYiv.html</guid>
+      <title>李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”</title>
+      <link>https://www.qbitai.com/2026/08/464532.html</link>
+      <description>&lt;![CDATA[李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464532.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点</title>
-      <link>https://www.leiphone.com/category/industrynews/3QgMEdc9pkFxrmt4.html</link>
-      <description>&lt;![CDATA[美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3QgMEdc9pkFxrmt4.html</guid>
+      <title>黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来</title>
+      <link>https://www.qbitai.com/2026/08/464452.html</link>
+      <description>&lt;![CDATA[黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 03:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464452.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到</title>
-      <link>https://www.leiphone.com/category/ai/JpGvdH7oYOZjU3lS.html</link>
-      <description>&lt;![CDATA[一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/JpGvdH7oYOZjU3lS.html</guid>
+      <title>Anthropic模型，也失控了。。。</title>
+      <link>https://www.qbitai.com/2026/08/464412.html</link>
+      <description>&lt;![CDATA[Anthropic模型，也失控了。。。]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 03:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464412.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案</title>
-      <link>https://www.leiphone.com/category/ai/3UBe8gjtw8tFTQvJ.html</link>
-      <description>&lt;![CDATA[谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/3UBe8gjtw8tFTQvJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AI 正在变成一门制造业 | WAIC 2026 Agent 产品观察</title>
-      <link>https://www.leiphone.com/category/yanxishe/uSlPIJ79kvvSAf9r.html</link>
-      <description>&lt;![CDATA[AI 正在变成一门制造业 | WAIC 2026 Agent 产品观察]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/uSlPIJ79kvvSAf9r.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>首家国产自研GPU厂商登陆ChinaJoy，砺算LX 7G100消费显卡零售版全面开售</title>
-      <link>https://www.leiphone.com/category/industrynews/dtHMAsbab0PVgnhU.html</link>
-      <description>&lt;![CDATA[首家国产自研GPU厂商登陆ChinaJoy，砺算LX 7G100消费显卡零售版全面开售]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dtHMAsbab0PVgnhU.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>1/8 参数，跑赢 80B 大模型：Boogu-Image 是黑马还是鸡肋？</title>
-      <link>https://www.leiphone.com/category/industrynews/mjR1R5Z1wgosxBg7.html</link>
-      <description>&lt;![CDATA[1/8 参数，跑赢 80B 大模型：Boogu-Image 是黑马还是鸡肋？]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mjR1R5Z1wgosxBg7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek V4 系列更新，架构没变，Agent 能力为何大涨</title>
-      <link>https://www.leiphone.com/category/ai/EBSerg3DFtWmMap4.html</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek V4 系列更新，架构没变，Agent 能力为何大涨]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/EBSerg3DFtWmMap4.html</guid>
+      <title>AI顶会现场，见到了一家美妆巨头</title>
+      <link>https://www.qbitai.com/2026/08/464364.html</link>
+      <description>&lt;![CDATA[AI顶会现场，见到了一家美妆巨头]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 02:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464364.html</guid>
       <category>Ai</category>
     </item>
   </channel>

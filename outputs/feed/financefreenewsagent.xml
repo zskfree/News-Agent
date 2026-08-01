@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Aug 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 00:07:56 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 07:30:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:30:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Fifa backs down from controversial $20bn investment plan</title>
+      <title>The war dividend</title>
+      <link>https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The war dividend]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Humbling times for markets</title>
+      <link>https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Humbling times for markets]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Situational Awareness got the future right but misread the past</title>
+      <link>https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Situational Awareness got the future right but misread the past]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI’s ‘cookie banner’ moment: EU labels come for the bots</title>
+      <link>https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AI’s ‘cookie banner’ moment: EU labels come for the bots]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Fifa abandons $20bn stake-sale plan after global backlash</title>
       <link>https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Fifa backs down from controversial $20bn investment plan]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 23:45:00 GMT</pubDate>
+      <description>&lt;![CDATA[Fifa abandons $20bn stake-sale plan after global backlash]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 01:57:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Bond sell-off sent warning on Fed’s credibility, says top central bank official</title>
-      <link>https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Bond sell-off sent warning on Fed’s credibility, says top central bank official]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 23:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US Treasury undertakes historic intervention in yen market</title>
-      <link>https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US Treasury undertakes historic intervention in yen market]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 23:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout</title>
-      <link>https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 21:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Amazon completes $50bn investment in OpenAI</title>
-      <link>https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Amazon completes $50bn investment in OpenAI]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 21:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How 60,000 people swam to Spanish territory</title>
-      <link>https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[How 60,000 people swam to Spanish territory]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 20:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July</title>
-      <link>https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The week that shook football</title>
-      <link>https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[The week that shook football]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>I helped bring in US bank stress tests. Now it is time to drop them</title>
-      <link>https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3</link>
-      <description>&lt;![CDATA[I helped bring in US bank stress tests. Now it is time to drop them]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Fed dissenters warn of challenges in taming inflation</title>
-      <link>https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Fed dissenters warn of challenges in taming inflation]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1</guid>
+      <title>My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?</title>
+      <link>https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 00:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
