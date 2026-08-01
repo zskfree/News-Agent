@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 10:42
+**最后更新时间**: 2026-08-01 00:07
+
+---
+
+## 🆕 最新更新 (2026-08-01 00:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fifa backs down from controversial $20bn investment plan](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 23:45
+
+#### [Bond sell-off sent warning on Fed’s credibility, says top central bank official](https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 23:10
+
+#### [US Treasury undertakes historic intervention in yen market](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 23:03
+
+#### [Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout](https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 21:46
+
+#### [Amazon completes $50bn investment in OpenAI](https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 21:29
+
+#### [How 60,000 people swam to Spanish territory](https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 20:02
+
+#### [Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July](https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 18:00
+
+#### [The week that shook football](https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 16:30
+
+#### [I helped bring in US bank stress tests. Now it is time to drop them](https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3)
+**发布时间**: 2026-07-31 16:00
+
+#### [Fed dissenters warn of challenges in taming inflation](https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 14:01
+
+#### [Markets are getting AI right](https://www.ft.com/content/c167fb1b-69c3-4df0-9126-1e0af678f924?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 13:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000](https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 22:21
+
+#### [Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison](https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 22:09
+
+#### [The S&P 500 is making a change by adding this little-known industrial stock](https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 21:53
+
+#### [Health savings accounts can be a great retirement tool – if you’re healthy or wealthy](https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 21:28
+
+#### [S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.](https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 21:10
+
+#### [Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.](https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 20:23
+
+#### [Job seekers can now spend thousands on AI certificates. Is it worth it?](https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 20:20
+
+#### [We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?](https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 19:16
+
+#### [It’s getting easier for terminally ill people to end their own lives. What to know as laws change.](https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories)
+**发布时间**: 2026-07-31 19:04
 
 ---
 
