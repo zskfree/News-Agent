@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 07:34
+**最后更新时间**: 2026-08-02 09:59
+
+---
+
+## 🆕 最新更新 (2026-08-02 09:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says he cancelled Iran strikes after Middle East allies’ request](https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 08:45
 
 ---
 

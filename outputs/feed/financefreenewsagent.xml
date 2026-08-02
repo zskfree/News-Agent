@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Aug 2026 07:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2026 07:34:33 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 09:59:00 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 09:59:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,51 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trump cancels new strikes on Iran after Middle East allies’ request</title>
-      <link>https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4</link>
-      <description>&lt;![CDATA[Trump cancels new strikes on Iran after Middle East allies’ request]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 06:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran sets the pace in war with Trump</title>
-      <link>https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Iran sets the pace in war with Trump]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 05:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Don’t pretend jokes can’t lead to political violence</title>
-      <link>https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Don’t pretend jokes can’t lead to political violence]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Apple struggles to keep pace with AI ‘bug’ hunters</title>
-      <link>https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Apple struggles to keep pace with AI ‘bug’ hunters]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>German carmakers flood jobs market with managers after wielding axe</title>
-      <link>https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[German carmakers flood jobs market with managers after wielding axe]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Chinese VC firms rush to raise funds after 3-year drought</title>
-      <link>https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Chinese VC firms rush to raise funds after 3-year drought]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1</guid>
+      <title>Trump says he cancelled Iran strikes after Middle East allies’ request</title>
+      <link>https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Trump says he cancelled Iran strikes after Middle East allies’ request]]&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>
