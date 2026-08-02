@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Aug 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 23:59:30 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 07:32:00 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:34:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能</title>
-      <link>https://www.qbitai.com/2026/08/464781.html</link>
-      <description>&lt;![CDATA[「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464781.html</guid>
+      <title>从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级</title>
+      <link>https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html</link>
+      <description>&lt;![CDATA[从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级]]&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>获奖之后，王虹最想感谢的人</title>
-      <link>https://www.qbitai.com/2026/08/464761.html</link>
-      <description>&lt;![CDATA[获奖之后，王虹最想感谢的人]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464761.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了</title>
-      <link>https://www.qbitai.com/2026/08/464713.html</link>
-      <description>&lt;![CDATA[奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了]]&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/464713.html</guid>
+      <title>2026-08-02日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-02/</link>
+      <description>&lt;![CDATA[2026-08-02日刊]]&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-02/</guid>
       <category>Ai</category>
     </item>
   </channel>

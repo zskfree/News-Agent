@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 23:59
+**最后更新时间**: 2026-08-02 07:34
+
+---
+
+## 🆕 最新更新 (2026-08-02 07:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump cancels new strikes on Iran after Middle East allies’ request](https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4)
+**发布时间**: 2026-08-02 06:46
+
+#### [Iran sets the pace in war with Trump](https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 05:37
+
+#### [Don’t pretend jokes can’t lead to political violence](https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 04:00
+
+#### [Apple struggles to keep pace with AI ‘bug’ hunters](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 04:00
+
+#### [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 04:00
+
+#### [Chinese VC firms rush to raise funds after 3-year drought](https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 02:00
 
 ---
 
