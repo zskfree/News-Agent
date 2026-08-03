@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 09:59
+**最后更新时间**: 2026-08-03 00:01
+
+---
+
+## 🆕 最新更新 (2026-08-03 00:01)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Iran talks to resume after US called off major attack](https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 22:46
+
+#### [Uefa threatens legal action over Infantino’s failed Fifa commercialisation](https://www.ft.com/content/ddb7c0d4-c156-48a0-b30f-d03f605a1a9c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 22:01
+
+#### [AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up](https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 20:52
+
+#### [Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse](https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 17:32
+
+#### [America’s biggest companies report ‘rock solid’ profits as consumers face higher costs](https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 16:00
+
+#### [Morocco counts its dead and missing after mass swim to Ceuta](https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 15:21
+
+#### [‘Crush this lady’: how eBay harassment campaign led to $56mn payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 12:00
+
+#### [Morgan Stanley’s IPO after-party: a wealth management bonanza](https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-02 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 15:19
+
+#### [S&P 500 profit growth is getting even wilder as Amazon makes its mark](https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 14:00
+
+#### [How Apple’s cheap MacBook Neo sparked a war in budget laptops](https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 13:00
+
+#### [Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.](https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
+
+#### [Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.](https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories)
+**发布时间**: 2026-08-02 12:00
 
 ---
 
