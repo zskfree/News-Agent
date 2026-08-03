@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Aug 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 00:01:46 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:34:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】事关货币政策、债券市场，央行明确下半年重点；亚马逊完成对OpenAI总计500亿美元全额投资；“欧佩克+”主要产油国宣布9月继续增产</title>
-      <link>https://www.tmtpost.com/8088550.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关货币政策、债券市场，央行明确下半年重点；亚马逊完成对OpenAI总计500亿美元全额投资；“欧佩克+”主要产油国宣布9月继续增产]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088550.html</guid>
+      <title>AWS 计费系统故障：用户收到数万亿美元账单预估，自家成本告警却未能阻止问题扩大</title>
+      <link>https://www.infoq.cn/article/ogvAbgp1eFp6ddoommVh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS 计费系统故障：用户收到数万亿美元账单预估，自家成本告警却未能阻止问题扩大]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ogvAbgp1eFp6ddoommVh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>贝索斯用AI寻找下一块硅</title>
-      <link>https://www.tmtpost.com/8088394.html</link>
-      <description>&lt;![CDATA[贝索斯用AI寻找下一块硅]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088394.html</guid>
+      <title>阿里Qwen3.8正式发布：2.4T规模，自主编程16天搓出一个Hermes Agent</title>
+      <link>https://www.infoq.cn/article/XG7GeBthC6eKO5Rejf02?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里Qwen3.8正式发布：2.4T规模，自主编程16天搓出一个Hermes Agent]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XG7GeBthC6eKO5Rejf02?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>商业航天运力的“罗生门”</title>
-      <link>https://www.tmtpost.com/8088371.html</link>
-      <description>&lt;![CDATA[商业航天运力的“罗生门”]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088371.html</guid>
+      <title>Cloudflare详解统一数据平台：计费工作负载占查询的53%</title>
+      <link>https://www.infoq.cn/article/LplzGjI7YFsYiz5hqfl8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare详解统一数据平台：计费工作负载占查询的53%]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LplzGjI7YFsYiz5hqfl8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这个年入18亿的男装品牌，“战术”开辟了男装新赛道</title>
-      <link>https://www.tmtpost.com/8088175.html</link>
-      <description>&lt;![CDATA[这个年入18亿的男装品牌，“战术”开辟了男装新赛道]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088175.html</guid>
+      <title>量贩零食真的更贵吗？我们去三个渠道买了30款产品算了算</title>
+      <link>https://www.tmtpost.com/8088595.html</link>
+      <description>&lt;![CDATA[量贩零食真的更贵吗？我们去三个渠道买了30款产品算了算]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8088595.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Loop才火了六周，AI Coding为什么又开始谈Graph？</title>
-      <link>https://www.tmtpost.com/8088190.html</link>
-      <description>&lt;![CDATA[Loop才火了六周，AI Coding为什么又开始谈Graph？]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8088190.html</guid>
+      <title>Amazon EKS 新增升级后 7 天内回滚 Kubernetes 版本的功能</title>
+      <link>https://www.infoq.cn/article/5si5hgXIKQjbwFwyJ5aC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Amazon EKS 新增升级后 7 天内回滚 Kubernetes 版本的功能]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5si5hgXIKQjbwFwyJ5aC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：DeepSeek V4 Flash 正式版发布</title>
-      <link>https://sspai.com/post/113014</link>
-      <description>&lt;![CDATA[派早报：DeepSeek V4 Flash 正式版发布]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 06:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113014</guid>
+      <title>软件从现实开始：知识驱动计算（KDC）的Reality First主张</title>
+      <link>https://www.infoq.cn/article/JWP8LYvuoD0tmFelLRq4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[软件从现实开始：知识驱动计算（KDC）的Reality First主张]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JWP8LYvuoD0tmFelLRq4?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为</title>
+      <link>https://www.infoq.cn/article/0j39GYLo41A3VMv9BoOi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0j39GYLo41A3VMv9BoOi?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报</title>
+      <link>https://www.infoq.cn/article/pR6wfSjXI1X0VwZmWAjg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 12:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pR6wfSjXI1X0VwZmWAjg?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型</title>
+      <link>https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程</title>
+      <link>https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

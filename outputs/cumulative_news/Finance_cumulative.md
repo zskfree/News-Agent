@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-03 00:01
+**最后更新时间**: 2026-08-03 08:33
+
+---
+
+## 🆕 最新更新 (2026-08-03 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote](https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 07:47
+
+#### [Japan vows to intervene again with US over yen if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 07:40
+
+#### [Team America: Yen police](https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 05:30
+
+#### [Wall Street learns to love blockchain](https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 04:00
+
+#### [Whatever happened to prudence?](https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 04:00
+
+#### [A digital iron curtain is threatening the global economy](https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23)
+**发布时间**: 2026-08-03 04:00
 
 ---
 

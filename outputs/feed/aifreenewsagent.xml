@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Aug 2026 07:32:00 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2026 07:34:24 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 08:31:00 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:33:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级</title>
-      <link>https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html</link>
-      <description>&lt;![CDATA[从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html</guid>
+      <title>独家解读丨「余粮」只剩 7 亿，Meta 为何成了最失意的 AI 巨头？</title>
+      <link>https://www.leiphone.com/category/industrynews/7Diei8PsqC81LWzx.html</link>
+      <description>&lt;![CDATA[独家解读丨「余粮」只剩 7 亿，Meta 为何成了最失意的 AI 巨头？]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 13:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7Diei8PsqC81LWzx.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-08-02日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-02/</link>
-      <description>&lt;![CDATA[2026-08-02日刊]]&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-02/</guid>
+      <title>小米8月服务周升级为&quot;小米服务月&quot;：101款电池服务8折，Xiaomi 13系列电池升级服务全系参与</title>
+      <link>https://www.leiphone.com/category/industrynews/dQ7OhnbL6TzSjjne.html</link>
+      <description>&lt;![CDATA[小米8月服务周升级为&quot;小米服务月&quot;：101款电池服务8折，Xiaomi 13系列电池升级服务全系参与]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 12:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dQ7OhnbL6TzSjjne.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>我们用 Kimi K3 搓了一颗火影螺旋丸，只花129元就顶一个前端团队？</title>
+      <link>https://www.leiphone.com/category/yanxishe/AOe4ZF41ZUAzREV5.html</link>
+      <description>&lt;![CDATA[我们用 Kimi K3 搓了一颗火影螺旋丸，只花129元就顶一个前端团队？]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/AOe4ZF41ZUAzREV5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>我们让 vivago R1 拍了一部土耳其山寨「星战」，结果出乎意料</title>
+      <link>https://www.leiphone.com/category/industrynews/ioD5Es7RrtPpeM7P.html</link>
+      <description>&lt;![CDATA[我们让 vivago R1 拍了一部土耳其山寨「星战」，结果出乎意料]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ioD5Es7RrtPpeM7P.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里“千问办公”开启公测</title>
+      <link>https://www.leiphone.com/category/industrynews/keVMfihBTyvo7FGk.html</link>
+      <description>&lt;![CDATA[阿里“千问办公”开启公测]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/keVMfihBTyvo7FGk.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定</title>
+      <link>https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html</link>
+      <description>&lt;![CDATA[阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/M2J5PdYX80CwYSvX.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家丨璨辰科技完成数千万天使系列融资，AI 虚拟器官仿真平台加速落地</title>
+      <link>https://www.leiphone.com/category/aihealth/EFjXKXuEFXgXkrIo.html</link>
+      <description>&lt;![CDATA[独家丨璨辰科技完成数千万天使系列融资，AI 虚拟器官仿真平台加速落地]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/EFjXKXuEFXgXkrIo.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Google 牺牲了图片分辨率、编辑能力和准确性换取了 「它」 的极致性价比！</title>
+      <link>https://www.leiphone.com/category/yanxishe/4P9pcrQQVIvqpJJd.html</link>
+      <description>&lt;![CDATA[Google 牺牲了图片分辨率、编辑能力和准确性换取了 「它」 的极致性价比！]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/4P9pcrQQVIvqpJJd.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>因使用Kimi模型写代码，美国最大外卖平台遭调查；员工临下班对嘴喷奶油！瑞幸回应：涉及物料已废弃；小米多款手机正式涨价300元起</title>
+      <link>https://www.leiphone.com/category/zaobao/sJsXwQ2i70NZsIDQ.html</link>
+      <description>&lt;![CDATA[因使用Kimi模型写代码，美国最大外卖平台遭调查；员工临下班对嘴喷奶油！瑞幸回应：涉及物料已废弃；小米多款手机正式涨价300元起]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 08:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/sJsXwQ2i70NZsIDQ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-08-03日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-03/</link>
+      <description>&lt;![CDATA[2026-08-03日刊]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-03/</guid>
       <category>Ai</category>
     </item>
   </channel>
