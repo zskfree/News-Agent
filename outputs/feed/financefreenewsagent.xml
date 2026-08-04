@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 00:12:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 00:12:36 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 07:46:00 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:46:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Palantir forecasts greater demand from US groups for its AI software</title>
-      <link>https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Palantir forecasts greater demand from US groups for its AI software]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 23:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1</guid>
+      <title>BP to sell $4bn US biogas business as profits more than double</title>
+      <link>https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[BP to sell $4bn US biogas business as profits more than double]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 07:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>US states accuse Trump administration of ‘sham’ tariff probe</title>
-      <link>https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US states accuse Trump administration of ‘sham’ tariff probe]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 21:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1</guid>
+      <title>HSBC resumes share buybacks as quarterly profit soars to $10.1bn</title>
+      <link>https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[HSBC resumes share buybacks as quarterly profit soars to $10.1bn]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>AstraZeneca investors raise concerns over mega-merger talks</title>
-      <link>https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[AstraZeneca investors raise concerns over mega-merger talks]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1</guid>
+      <title>Inside Google’s $200bn Wall Street finance machine for Anthropic</title>
+      <link>https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Inside Google’s $200bn Wall Street finance machine for Anthropic]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Israel’s defence minister triggers row after sacking general on TV</title>
-      <link>https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c</link>
-      <description>&lt;![CDATA[Israel’s defence minister triggers row after sacking general on TV]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c</guid>
+      <title>The UAE’s imperial push into Africa</title>
+      <link>https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The UAE’s imperial push into Africa]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Apple launches legal challenge to UK attempt to access encrypted user data</title>
-      <link>https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Apple launches legal challenge to UK attempt to access encrypted user data]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1</guid>
+      <title>Infantino is not the problem</title>
+      <link>https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec</link>
+      <description>&lt;![CDATA[Infantino is not the problem]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>How big was the American JPY intervention?</title>
-      <link>https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9</link>
-      <description>&lt;![CDATA[How big was the American JPY intervention?]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9</guid>
+      <title>Russia expands shadow LNG fleet to beat EU crackdown</title>
+      <link>https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Russia expands shadow LNG fleet to beat EU crackdown]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough</title>
-      <link>https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1</guid>
+      <title>Revolut chief Nik Storonsky sued by broker over €350mn superyacht</title>
+      <link>https://www.ft.com/content/7dd21b1e-3b3d-48a6-a3fe-6a0e4a14944b?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Revolut chief Nik Storonsky sued by broker over €350mn superyacht]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7dd21b1e-3b3d-48a6-a3fe-6a0e4a14944b?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Japan vows further yen intervention with US if needed</title>
-      <link>https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Japan vows further yen intervention with US if needed]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Football has given Europe a rare geopolitical victory</title>
-      <link>https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Football has given Europe a rare geopolitical victory]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?</title>
-      <link>https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 23:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories</guid>
+      <title>Bessent’s yen intervention signals new era of US ‘currency activism’</title>
+      <link>https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Bessent’s yen intervention signals new era of US ‘currency activism’]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 03:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

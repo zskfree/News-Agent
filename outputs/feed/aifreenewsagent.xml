@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 00:12:17 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 07:45:00 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:46:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,75 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化</title>
-      <link>https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html</link>
-      <description>&lt;![CDATA[原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 19:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html</guid>
+      <title>奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？</title>
+      <link>https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html</link>
+      <description>&lt;![CDATA[奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>B300半年涨三倍；大厂集体绕开算力中转站；Infra公司多名核心高管离职；Token成本击穿圈人再变现丨算力情报局Vol.13</title>
-      <link>https://www.leiphone.com/category/chips/VSDxFDJBROODRhhk.html</link>
-      <description>&lt;![CDATA[B300半年涨三倍；大厂集体绕开算力中转站；Infra公司多名核心高管离职；Token成本击穿圈人再变现丨算力情报局Vol.13]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/VSDxFDJBROODRhhk.html</guid>
+      <title>内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」</title>
+      <link>https://www.leiphone.com/category/CorporateServices/KnATpl3oAEndk3cP.html</link>
+      <description>&lt;![CDATA[内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 10:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/KnATpl3oAEndk3cP.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026</title>
-      <link>https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html</link>
-      <description>&lt;![CDATA[RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html</guid>
+      <title>三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查</title>
+      <link>https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html</link>
+      <description>&lt;![CDATA[三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 08:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>横扫五大手游电竞赛事，骁龙的下一个游戏技术「突破口」在AI？</title>
-      <link>https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html</link>
-      <description>&lt;![CDATA[横扫五大手游电竞赛事，骁龙的下一个游戏技术「突破口」在AI？]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/</link>
-      <description>&lt;![CDATA[From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Automated Reasoning policy refinement in Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Automated Reasoning policy refinement in Amazon Bedrock]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Alexander Rakhlin named director of  the MIT Statistics and Data Science Center</title>
-      <link>https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803</link>
-      <description>&lt;![CDATA[Alexander Rakhlin named director of  the MIT Statistics and Data Science Center]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>这个新生图模型有点夯：4K直出的，国产的，开源的！</title>
-      <link>https://www.qbitai.com/2026/08/465673.html</link>
-      <description>&lt;![CDATA[这个新生图模型有点夯：4K直出的，国产的，开源的！]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465673.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>阿里“千问办公”开启公测</title>
-      <link>https://www.leiphone.com/category/industrynews/RRdMRyI267uY6noU.html</link>
-      <description>&lt;![CDATA[阿里“千问办公”开启公测]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RRdMRyI267uY6noU.html</guid>
+      <title>2026-08-04日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-04/</link>
+      <description>&lt;![CDATA[2026-08-04日刊]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-04/</guid>
       <category>Ai</category>
     </item>
   </channel>

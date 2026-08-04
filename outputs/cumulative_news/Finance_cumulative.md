@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 00:12
+**最后更新时间**: 2026-08-04 07:46
+
+---
+
+## 🆕 最新更新 (2026-08-04 07:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP to sell $4bn US biogas business as profits more than double](https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 07:24
+
+#### [HSBC resumes share buybacks as quarterly profit soars to $10.1bn](https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 05:39
+
+#### [Inside Google’s $200bn Wall Street finance machine for Anthropic](https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+#### [The UAE’s imperial push into Africa](https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+#### [Infantino is not the problem](https://www.ft.com/content/76d27b15-f73c-4408-9455-a85831eb2fec)
+**发布时间**: 2026-08-04 04:00
+
+#### [Russia expands shadow LNG fleet to beat EU crackdown](https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+#### [Revolut chief Nik Storonsky sued by broker over €350mn superyacht](https://www.ft.com/content/7dd21b1e-3b3d-48a6-a3fe-6a0e4a14944b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+#### [Bessent’s yen intervention signals new era of US ‘currency activism’](https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 03:35
 
 ---
 
