@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2b958f8347009ab2a2e02a4a76168b6563eaa0619f4b6d90f2bf07d95cb12546": {
-        "title": "Deepseek调价居然和电有关？AI开收“高峰电费”，算电协同到底是怎么个“协同”？",
-        "link": "https://www.tmtpost.com/8052737.html",
-        "published_date": "Sat, 04 Jul 2026 15:55:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678019"
-      },
-      "1c1ceeb007bd13fd2c2c3f2977d4797f8b08e76e98e38bf490e84ce3cb38c734": {
-        "title": "从ARD协议说起，Agent行业的拐点到了",
-        "link": "https://www.tmtpost.com/8052499.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678028"
-      },
-      "d6b140626c6694689ed80474c2f63b6013887ad0b53b9f346ec96917dd7aa608": {
-        "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
-        "link": "https://www.tmtpost.com/8052511.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678031"
-      },
-      "e8ba02f9b807fd47525d92c047c1cd973043db113186f4d54dfcbc0bdf8bbd24": {
-        "title": "芯片冷却，涌现大量“黑科技”",
-        "link": "https://www.tmtpost.com/8052444.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678033"
-      },
-      "9b2c1db688916f661fbdc71d1b54a31199661b0538615c6ddbe51162184c99f0": {
-        "title": "Edge AI Daily 早报（7月4日）",
-        "link": "https://www.tmtpost.com/8052685.html",
-        "published_date": "Sat, 04 Jul 2026 08:08:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678035"
-      },
-      "83db25e98d1983d6f1876045620c19e1cac4c59a9ff6ae7881f2b0eca954ed08": {
-        "title": "OpenAI要怎么卖广告",
-        "link": "https://www.tmtpost.com/8052577.html",
-        "published_date": "Sat, 04 Jul 2026 15:56:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678036"
-      },
-      "14a339023d7d596a810f5e09ce22bd2d4d17a0897c9e80d91995bad1da92c509": {
-        "title": "盘点 17 个 6 月份牛牛牛的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535071&idx=1&sn=0da3535ca936aedd3ac618e4179aa756",
-        "published_date": "Sat, 04 Jul 2026 10:13:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678038"
-      },
-      "16746baaa85b2f9b31d504f306ba5c976d3c8881e2e30f6d49d66e252c28f09e": {
-        "title": "阿维塔二次递表，有三个价值锚点被低估了",
-        "link": "https://www.tmtpost.com/8052616.html",
-        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678040"
-      },
-      "a3055eab4583c5e46ae527c23456f25eb0aa9c08fb71bfd6fa7281267bb64c76": {
-        "title": "15年首次调整车船税，新能源车的“免税滤镜”正在慢慢消失",
-        "link": "https://www.tmtpost.com/8052855.html",
-        "published_date": "Sat, 04 Jul 2026 15:42:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678041"
-      },
-      "34cbb34e994fd0bae65f7a4ba063f7222422640841275f7d6fb29ffcf2f6d28d": {
-        "title": "海归博士回国创业，一年狂飙4倍，拿下3000亿元市值",
-        "link": "https://www.tmtpost.com/8052643.html",
-        "published_date": "Sat, 04 Jul 2026 15:55:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.678043"
-      },
       "c251ba79378f9bcb77bc31bfd941537e369672c9d91f22c71345a19ca4e6e7f1": {
         "title": "华为43%，寒武11%：2026年国产AI芯片的产能饥饿游戏",
         "link": "https://www.tmtpost.com/8051488.html",
@@ -4807,15 +4747,69 @@
         "link": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 03 Aug 2026 10:00:00 GMT",
         "first_seen": "2026-08-03T08:34:01.426828"
+      },
+      "66e721238621116d94b3074b6d249f96cb38617ac68e472480fc90d8a169c474": {
+        "title": "传新 iPhone 最高涨价 1350 元；阿里发 Qwen3.8，2.4 万亿参数；DuckDuckGo 推「反科技」太阳镜",
+        "link": "http://www.geekpark.net/news/368341",
+        "published_date": "Tue, 04 Aug 2026 08:08:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239034"
+      },
+      "f2c4017c5c4c84842ee2ef63ad8156181c0d64ec82a5c09ff441607f6ce58463": {
+        "title": "老股东高价套现离场，新东家用并购贷接盘：欣天科技控制权易主背后的\"冰与火\"",
+        "link": "https://www.tmtpost.com/8089630.html",
+        "published_date": "Mon, 03 Aug 2026 20:19:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239042"
+      },
+      "3d60645fa6c565d082dd97f11baf4ee544780a8d79f7bb7c93150ff75998a265": {
+        "title": "奔图科技切入清扫机器人赛道，打通“制造+安全”双引擎，开启第二增长曲线",
+        "link": "https://www.tmtpost.com/8089565.html",
+        "published_date": "Mon, 03 Aug 2026 19:33:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239045"
+      },
+      "828b06a1592fc148599a39fff47aea6c3c06791828c63f95ef8a606bc49e21b6": {
+        "title": "Edge AI Daily 早报（8月4日）",
+        "link": "https://www.tmtpost.com/8089843.html",
+        "published_date": "Tue, 04 Aug 2026 07:51:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239047"
+      },
+      "f08e38bba8b2493abe85ed617c8efa2508155b2dd400c6a435b97facd8b89080": {
+        "title": "【钛晨报】李强签署国务院令，公布修订后的《集成电路布图设计保护条例》；针对跨境、跨币种业务新增流动性管理要求，券商流动性管理迎新规；月之暗面回应港股IPO传闻：消息不实",
+        "link": "https://www.tmtpost.com/8089688.html",
+        "published_date": "Tue, 04 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239049"
+      },
+      "a81ffae3560e026fc9ccd399ce1b7c80d5fd67a9ddb6268660db106b8c111389": {
+        "title": "对话博登智能赵捷：十亿订单在手，具身智能最缺的仍是高质量数据",
+        "link": "https://www.tmtpost.com/8085920.html",
+        "published_date": "Mon, 03 Aug 2026 19:48:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239051"
+      },
+      "0670a7642a93de327d013f7c87b16c305b1fe985cd252dda980e2e9288403f02": {
+        "title": "第三方线上号卡渠道全面关停：行业洗牌之后呢？",
+        "link": "https://www.tmtpost.com/8088251.html",
+        "published_date": "Mon, 03 Aug 2026 19:47:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239053"
+      },
+      "d7dda172da652b5e6d8ccd67cefe48914cb31b907ab2cb7aa076434c4926ce1b": {
+        "title": "AI科研范式革命：花200美元即可攻克一道数学世纪难题",
+        "link": "https://www.tmtpost.com/8089368.html",
+        "published_date": "Mon, 03 Aug 2026 19:13:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239054"
+      },
+      "22289d1f5b77e98e974154dd2daf2c48de7540c86876277f0c68681df0b0a110": {
+        "title": "SpaceX解禁前72小时",
+        "link": "https://www.tmtpost.com/8089331.html",
+        "published_date": "Mon, 03 Aug 2026 18:42:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239056"
+      },
+      "110ae3480dfea6867e41d9a56c7cd5d3851191adde404d887c32249f970c65f2": {
+        "title": "怎么看待AI大回调，大摩120页研报深度解读",
+        "link": "https://www.tmtpost.com/8089205.html",
+        "published_date": "Mon, 03 Aug 2026 18:40:00 GMT",
+        "first_seen": "2026-08-04T00:12:27.239057"
       }
     },
     "Finance": {
-      "8c5040d306e38a6033ce4d18868c4b7fa779449f3e6b33465975a7a6064abf5b": {
-        "title": "Iran mourners demand revenge at ayatollah’s funeral",
-        "link": "https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc",
-        "published_date": "Sat, 04 Jul 2026 10:04:00 GMT",
-        "first_seen": "2026-07-04T10:13:22.727704"
-      },
       "c81b8a6b39edf1173f1882e29861e4974c9e4d6998cfdaa4df96c7164c25ecda": {
         "title": "Why June’s jobs and inflation data are bullish for bonds",
         "link": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
@@ -8583,6 +8577,66 @@
         "link": "https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23",
         "published_date": "Mon, 03 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-03T08:34:01.482389"
+      },
+      "cf56da2c1fbcf68472b2e796278b2361ca3df7a9d4e8ab56eb8be393d1f84b4b": {
+        "title": "Palantir forecasts greater demand from US groups for its AI software",
+        "link": "https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 23:35:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672614"
+      },
+      "39f0ca9d8e029ad1a6a5565f62d005d111c6308b7ef7b9bb993fff395001abc6": {
+        "title": "US states accuse Trump administration of ‘sham’ tariff probe",
+        "link": "https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 21:35:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672623"
+      },
+      "c00d4b54788da470477cfef72ddbab52e95c9f7cbe47a85b048025ad222faf2a": {
+        "title": "AstraZeneca investors raise concerns over mega-merger talks",
+        "link": "https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 21:26:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672626"
+      },
+      "7edc9cff587651effa49fd05837ca1613c5847690509ffd657432fca86c3dd46": {
+        "title": "Israel’s defence minister triggers row after sacking general on TV",
+        "link": "https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c",
+        "published_date": "Mon, 03 Aug 2026 18:51:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672628"
+      },
+      "f698509436012918cce049a7ef26657394f0612012b2555226dcaea65f98cc61": {
+        "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+        "link": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 18:10:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672629"
+      },
+      "aa6663d385f42a76d2ab09210c031b219a24b6110550dcd1d2b084844bab3a35": {
+        "title": "How big was the American JPY intervention?",
+        "link": "https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9",
+        "published_date": "Mon, 03 Aug 2026 17:14:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672631"
+      },
+      "8ec39e3459568da20284d23e73d8334eade845eb93b25caba4071cedbaf84d2e": {
+        "title": "AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough",
+        "link": "https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 16:33:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672632"
+      },
+      "acd04019ade6254c289136cc664ad3f6572d5f29cb587439ea0ce70fa42838af": {
+        "title": "Japan vows further yen intervention with US if needed",
+        "link": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 15:09:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672636"
+      },
+      "66bbf10605b4eb446874826d2f4f1df0bedc229d46f289241e9699f65692d96c": {
+        "title": "Football has given Europe a rare geopolitical victory",
+        "link": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 11:54:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672639"
+      },
+      "62c8b1a9c0123690f40a6698f26f1a02712ae507ae7397af52424e0b27a01dc1": {
+        "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+        "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+        "published_date": "Mon, 03 Aug 2026 23:15:00 GMT",
+        "first_seen": "2026-08-04T00:12:36.672642"
       }
     },
     "Ai": {
@@ -11951,13 +12005,67 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-03/",
         "published_date": "Mon, 03 Aug 2026 10:56:00 GMT",
         "first_seen": "2026-08-03T08:33:51.940659"
+      },
+      "adacc3c87255a630f5a20a3012cd590aa5fe751b09c9de4745c8a876de44cb8b": {
+        "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+        "link": "https://www.leiphone.com/category/industrynews/qqTUnzcUVPuJaEeA.html",
+        "published_date": "Mon, 03 Aug 2026 19:27:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675011"
+      },
+      "c62328ba02bc05a91634b2e7910ed5dd61f4e5f73abe3cae800e3c800132e2c5": {
+        "title": "B300半年涨三倍；大厂集体绕开算力中转站；Infra公司多名核心高管离职；Token成本击穿圈人再变现丨算力情报局Vol.13",
+        "link": "https://www.leiphone.com/category/chips/VSDxFDJBROODRhhk.html",
+        "published_date": "Mon, 03 Aug 2026 18:15:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675022"
+      },
+      "7ca08bac63164c7effecc2555e31588b3f0700179855c0ea36873b907ca63d37": {
+        "title": "RSS-2026 | 港科大（广州）开源首个无需训练的开放词汇3D占据地图构建系统｜RRS 2026",
+        "link": "https://www.leiphone.com/category/private/OuSOPivjok83Q3nb.html",
+        "published_date": "Mon, 03 Aug 2026 16:30:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675024"
+      },
+      "fedcaba3ce02fdcdcd51c8907a5585daed7b8fffda955f43993a8cd7f0049b85": {
+        "title": "横扫五大手游电竞赛事，骁龙的下一个游戏技术「突破口」在AI？",
+        "link": "https://www.leiphone.com/category/chips/3VeAr0iNJfCrIF40.html",
+        "published_date": "Mon, 03 Aug 2026 15:13:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675026"
+      },
+      "81e462646dd450055b1148b9678afaa422e413b9aab9e9fb89f6ad2a01860f3c": {
+        "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+        "published_date": "Mon, 03 Aug 2026 17:24:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675028"
+      },
+      "ef2e076a562e74cb8a4b6f89512720b6e9c379796bdc2d264a253793cbcbec96": {
+        "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+        "published_date": "Mon, 03 Aug 2026 16:30:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675030"
+      },
+      "40da2392f4d4e4d6b4be0de89c9bbe0c4846334ddccbb98f6daa093e8f11f358": {
+        "title": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
+        "link": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+        "published_date": "Mon, 03 Aug 2026 15:50:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675031"
+      },
+      "3cedef2160905f55a076d110781957c2a6e93361c1e4e445c655f8ac7cd54823": {
+        "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+        "link": "https://www.qbitai.com/2026/08/465673.html",
+        "published_date": "Mon, 03 Aug 2026 11:59:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675033"
+      },
+      "b7cbe1b0674e71a9cbc110c9971406bdd40d59f8b70697bdf11b8e1efe133fff": {
+        "title": "阿里“千问办公”开启公测",
+        "link": "https://www.leiphone.com/category/industrynews/RRdMRyI267uY6noU.html",
+        "published_date": "Mon, 03 Aug 2026 11:01:00 GMT",
+        "first_seen": "2026-08-04T00:12:17.675035"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-03T08:34:01.426830",
-    "Finance": "2026-08-03T08:34:01.482391",
-    "Ai": "2026-08-03T08:33:51.940661"
+    "Technology": "2026-08-04T00:12:27.239060",
+    "Finance": "2026-08-04T00:12:36.672644",
+    "Ai": "2026-08-04T00:12:17.675037"
   }
 }

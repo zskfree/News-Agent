@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-03 08:33
+**最后更新时间**: 2026-08-04 00:12
+
+---
+
+## 🆕 最新更新 (2026-08-04 00:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Palantir forecasts greater demand from US groups for its AI software](https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 23:35
+
+#### [US states accuse Trump administration of ‘sham’ tariff probe](https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 21:35
+
+#### [AstraZeneca investors raise concerns over mega-merger talks](https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 21:26
+
+#### [Israel’s defence minister triggers row after sacking general on TV](https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c)
+**发布时间**: 2026-08-03 18:51
+
+#### [Apple launches legal challenge to UK attempt to access encrypted user data](https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 18:10
+
+#### [How big was the American JPY intervention?](https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9)
+**发布时间**: 2026-08-03 17:14
+
+#### [AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough](https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 16:33
+
+#### [Japan vows further yen intervention with US if needed](https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 15:09
+
+#### [Football has given Europe a rare geopolitical victory](https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 11:54
+
+#### [How US drinkers fell out of love with Bud Light](https://www.ft.com/content/2ba4f93d-f258-49cf-9e1e-c3c79e06461d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-03 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?](https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 23:15
+
+#### [‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?](https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 22:45
+
+#### [Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses](https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 22:44
+
+#### [Should wealthier Americans forgo their Social Security benefits as a charitable gesture?](https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 22:30
+
+#### [If I buy a house for $1 million in cash at 70, will I run out of money by 90?](https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 22:15
+
+#### [Palantir’s stock climbs after earnings, as AI drives turbocharged growth](https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 21:59
+
+#### [As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?](https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 21:33
+
+#### [An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’](https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 20:59
+
+#### [This indicator is giving the bull market another lease on life](https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories)
+**发布时间**: 2026-08-03 20:44
 
 ---
 

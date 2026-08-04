@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Aug 2026 08:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 08:34:01 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 00:12:00 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:12:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote</title>
-      <link>https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1</guid>
+      <title>Palantir forecasts greater demand from US groups for its AI software</title>
+      <link>https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Palantir forecasts greater demand from US groups for its AI software]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 23:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3240e7c4-ba29-4ff3-83e5-cf2b3a5ff0ca?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Japan vows to intervene again with US over yen if needed</title>
+      <title>US states accuse Trump administration of ‘sham’ tariff probe</title>
+      <link>https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US states accuse Trump administration of ‘sham’ tariff probe]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AstraZeneca investors raise concerns over mega-merger talks</title>
+      <link>https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AstraZeneca investors raise concerns over mega-merger talks]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Israel’s defence minister triggers row after sacking general on TV</title>
+      <link>https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c</link>
+      <description>&lt;![CDATA[Israel’s defence minister triggers row after sacking general on TV]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Apple launches legal challenge to UK attempt to access encrypted user data</title>
+      <link>https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Apple launches legal challenge to UK attempt to access encrypted user data]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>How big was the American JPY intervention?</title>
+      <link>https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9</link>
+      <description>&lt;![CDATA[How big was the American JPY intervention?]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough</title>
+      <link>https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Japan vows further yen intervention with US if needed</title>
       <link>https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Japan vows to intervene again with US over yen if needed]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 07:40:00 GMT</pubDate>
+      <description>&lt;![CDATA[Japan vows further yen intervention with US if needed]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:09:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Team America: Yen police</title>
-      <link>https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Team America: Yen police]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 05:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1</guid>
+      <title>Football has given Europe a rare geopolitical victory</title>
+      <link>https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Football has given Europe a rare geopolitical victory]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Wall Street learns to love blockchain</title>
-      <link>https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Wall Street learns to love blockchain]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Whatever happened to prudence?</title>
-      <link>https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Whatever happened to prudence?]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>A digital iron curtain is threatening the global economy</title>
-      <link>https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23</link>
-      <description>&lt;![CDATA[A digital iron curtain is threatening the global economy]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23</guid>
+      <title>‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?</title>
+      <link>https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?]]&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 23:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
