@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 07:45:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 07:46:36 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 10:40:00 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:42:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？</title>
-      <link>https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html</link>
-      <description>&lt;![CDATA[奇瑞长安东风集体入局，无人配送是「真风口」还是「新泡沫」？]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/p0Xe4IQIySizkKC0.html</guid>
+      <title>全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移</title>
+      <link>https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html</link>
+      <description>&lt;![CDATA[全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」</title>
-      <link>https://www.leiphone.com/category/CorporateServices/KnATpl3oAEndk3cP.html</link>
-      <description>&lt;![CDATA[内容创作者不会搭 AI 工作流？TRAE Work 做了本40万字「入门宝典」]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/KnATpl3oAEndk3cP.html</guid>
+      <title>数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”</title>
+      <link>https://www.qbitai.com/2026/08/465792.html</link>
+      <description>&lt;![CDATA[数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465792.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查</title>
-      <link>https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html</link>
-      <description>&lt;![CDATA[三星被曝收缩中国手机布局：月销不足30万元的门店，将逐步清退；宗馥莉的「同父异母兄弟」成立新公司；约120万辆特斯拉汽车遭调查]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/5hrzL5QHORl8yoVf.html</guid>
+      <title>开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟</title>
+      <link>https://www.qbitai.com/2026/08/466262.html</link>
+      <description>&lt;![CDATA[开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 09:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466262.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-08-04日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-04/</link>
-      <description>&lt;![CDATA[2026-08-04日刊]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-04/</guid>
+      <title>OpenAI天价网红公关活动，捅马蜂窝了</title>
+      <link>https://www.qbitai.com/2026/08/466032.html</link>
+      <description>&lt;![CDATA[OpenAI天价网红公关活动，捅马蜂窝了]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 09:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466032.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文</title>
+      <link>https://www.qbitai.com/2026/08/465973.html</link>
+      <description>&lt;![CDATA[腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 08:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465973.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash</title>
+      <link>https://www.qbitai.com/2026/08/465814.html</link>
+      <description>&lt;![CDATA[DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465814.html</guid>
       <category>Ai</category>
     </item>
   </channel>
