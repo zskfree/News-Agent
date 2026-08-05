@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 00:04
+**最后更新时间**: 2026-08-05 07:42
+
+---
+
+## 🆕 最新更新 (2026-08-05 07:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russian bombardment kills 17 in Kyiv](https://www.ft.com/content/c2eb9800-b8df-41f6-aad9-e25c2ebe43d6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 06:52
+
+#### [China launches global tax hunt going back decades](https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [The real message in the yen intervention](https://www.ft.com/content/86dbf0c1-d127-4255-85af-602afc30228e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [The ethical perils of gene therapy](https://www.ft.com/content/c1e34575-9d72-4699-90a8-3052ca648282?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [Banks to offload $15bn of debt for Anthropic data centre backed by Google](https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [Nik Storonsky in talks over new share award if Revolut hits $500bn valuation](https://www.ft.com/content/7a284485-f648-45da-9f0b-a8b19bbdb99b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [Trump trapped between escalation and an Iran deal on Tehran’s terms](https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 00:50
+
+#### [Musk’s SpaceX unnerves investors with lavish AI spending plans](https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 23:24
 
 ---
 
