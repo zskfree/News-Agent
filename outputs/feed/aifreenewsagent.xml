@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 10:40:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 10:42:38 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:04:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移</title>
-      <link>https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html</link>
-      <description>&lt;![CDATA[全球唯一易三方新手漂移模式：腾势Z9S让新手也能玩漂移]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/MRwheN7BxhpW4TX4.html</guid>
+      <title>超400万人在灵光App“手搓”AI应用，加速AI原生创作者生态形成</title>
+      <link>https://www.leiphone.com/category/industrynews/dyX3xfFAHdLseQIF.html</link>
+      <description>&lt;![CDATA[超400万人在灵光App“手搓”AI应用，加速AI原生创作者生态形成]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dyX3xfFAHdLseQIF.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”</title>
-      <link>https://www.qbitai.com/2026/08/465792.html</link>
-      <description>&lt;![CDATA[数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465792.html</guid>
+      <title>算力筑基 智云赋能 | 仪电智算全力护航全国青少年人工智能大赛决赛</title>
+      <link>https://www.leiphone.com/category/industrynews/375yKWm6UC8cJpE0.html</link>
+      <description>&lt;![CDATA[算力筑基 智云赋能 | 仪电智算全力护航全国青少年人工智能大赛决赛]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/375yKWm6UC8cJpE0.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟</title>
-      <link>https://www.qbitai.com/2026/08/466262.html</link>
-      <description>&lt;![CDATA[开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 09:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466262.html</guid>
+      <title>参数内卷的尽头，泳池机器人在等待一次范式转移</title>
+      <link>https://www.leiphone.com/category/robot/7Caqen8YIzrPTVj1.html</link>
+      <description>&lt;![CDATA[参数内卷的尽头，泳池机器人在等待一次范式转移]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/7Caqen8YIzrPTVj1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI天价网红公关活动，捅马蜂窝了</title>
-      <link>https://www.qbitai.com/2026/08/466032.html</link>
-      <description>&lt;![CDATA[OpenAI天价网红公关活动，捅马蜂窝了]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/466032.html</guid>
+      <title>发布当日，海外主流AI平台纷纷接入阿里Qwen3.8</title>
+      <link>https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html</link>
+      <description>&lt;![CDATA[发布当日，海外主流AI平台纷纷接入阿里Qwen3.8]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 17:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Ufuyq9sSvBlkp2Ix.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文</title>
-      <link>https://www.qbitai.com/2026/08/465973.html</link>
-      <description>&lt;![CDATA[腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465973.html</guid>
+      <title>Introducing Web Search on Amazon Bedrock for foundation model grounding</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/</link>
+      <description>&lt;![CDATA[Introducing Web Search on Amazon Bedrock for foundation model grounding]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash</title>
-      <link>https://www.qbitai.com/2026/08/465814.html</link>
-      <description>&lt;![CDATA[DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash]]&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465814.html</guid>
+      <title>Automated web insight extraction with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Automated web insight extraction with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>As AI Increases Demands on Memory, Storage Steps Up</title>
+      <link>https://blogs.nvidia.com/blog/ai-storage-fms/</link>
+      <description>&lt;![CDATA[As AI Increases Demands on Memory, Storage Steps Up]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-storage-fms/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency</title>
+      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</link>
+      <description>&lt;![CDATA[AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Solving the solvent problem</title>
+      <link>https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804</link>
+      <description>&lt;![CDATA[Solving the solvent problem]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 14:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
+      <description>&lt;![CDATA[Deploy local agents everywhere with LFM2.5-2.6B]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 13:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</guid>
       <category>Ai</category>
     </item>
   </channel>

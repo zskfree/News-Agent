@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 10:42
+**最后更新时间**: 2026-08-05 00:04
+
+---
+
+## 🆕 最新更新 (2026-08-05 00:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says](https://www.ft.com/content/480c18a3-e661-4c7c-aaa0-1763887144a2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 23:27
+
+#### [Musk’s SpaceX unnerves investors with lavish spending plans](https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 23:24
+
+#### [Trump administration refunds $100bn in ‘liberation day’ tariffs](https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 21:07
+
+#### [US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO](https://www.ft.com/content/4bc98c31-d430-4e84-9353-6b9a6154d4d6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 20:10
+
+#### [US stocks jump after Bessent says deal to reopen Hormuz is imminent](https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 20:06
+
+#### [The Democrats’ civil war over Israel is getting worse](https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 10:30
+
+#### [Toyota plans $6.3bn buyback as weak yen boosts outlook](https://www.ft.com/content/8a703d1e-99d4-4a04-a08a-761489d33da3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 09:04
+
+#### [Can Democrats seize Congress from Trump?](https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+#### [The king who outfoxed Pedro Sánchez](https://www.ft.com/content/b2440aa5-be3e-40ae-ad2d-ad5893de79d3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.](https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 22:40
+
+#### [Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher](https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 22:22
+
+#### [Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.](https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 21:54
+
+#### [Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.](https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 21:25
+
+#### [McDonald’s says its value meals have become too complicated](https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 21:13
+
+#### [Traders are using options to chase a runaway rebound in stocks, pushing the market even higher](https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 21:00
+
+#### [So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.](https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 20:26
 
 ---
 
