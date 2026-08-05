@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 07:42
+**最后更新时间**: 2026-08-05 10:36
+
+---
+
+## 🆕 最新更新 (2026-08-05 10:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Where are they now? The ex-Trump lawyers in plum US government posts](https://www.ft.com/content/71e1a474-4e57-4cbf-a35e-d612476f5aaa?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 10:00
+
+#### [Russian bombardment kills 17 in Kyiv as Ukraine runs low on interceptors](https://www.ft.com/content/c2eb9800-b8df-41f6-aad9-e25c2ebe43d6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 06:52
+
+#### [SpaceX bolsters the case against quarterly earnings](https://www.ft.com/content/6b91e575-9d43-4339-9ad5-eea81aef67e0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+#### [European carmakers turn to Chinese rivals to fill factory floors](https://www.ft.com/content/9a59bb55-d060-4002-bc4f-4563aa598b02?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk addresses memory-chip stock concerns with one simple observation](https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 09:45
+
+#### [‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?](https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 09:15
+
+#### [This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home](https://www.marketwatch.com/story/this-is-the-whopping-amount-joe-rogan-earns-from-the-podcast-he-airs-at-his-14-4-million-austin-home-0fccf407?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 09:02
 
 ---
 
