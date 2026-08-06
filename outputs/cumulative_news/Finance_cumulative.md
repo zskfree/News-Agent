@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 00:03
+**最后更新时间**: 2026-08-06 07:42
+
+---
+
+## 🆕 最新更新 (2026-08-06 07:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving](https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 06:09
+
+#### [Biggest US law firms explore selling stakes to private equity](https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [Inside Intel: how America’s chip champion came back from the brink](https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [Who needs consultants in the age of AI?](https://www.ft.com/content/0d600619-6521-4de2-963e-c6f44f6e5468?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [Ares scales back blockbuster private credit vehicle after valuation pushback](https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’](https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 00:07
 
 ---
 
