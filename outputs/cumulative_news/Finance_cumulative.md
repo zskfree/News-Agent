@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 10:36
+**最后更新时间**: 2026-08-06 00:03
+
+---
+
+## 🆕 最新更新 (2026-08-06 00:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gianni Infantino admits ‘mistakes’ over failed $20bn Fifa investment plan](https://www.ft.com/content/733848fd-fd69-4764-b5a3-5f8fa14019f8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 22:39
+
+#### [Iran says it has reached agreement with Oman on Hormuz shipping route](https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 19:56
+
+#### [Big US hedge funds targeted by wave of cyber attacks](https://www.ft.com/content/1fcca000-d9ac-4b3b-9d31-2fef0d1f55f3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 19:47
+
+#### [JPMorgan poaches M&A banker Amy Lissauer from Bank of America](https://www.ft.com/content/62b70b3a-88c9-4d6c-bc0c-b840586af91a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 19:10
+
+#### [Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab](https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 18:24
+
+#### [Israel launches strikes on Lebanon in new flare-up](https://www.ft.com/content/45df9a1f-7400-4ef8-85e5-aa519a627e66?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 16:58
+
+#### [Progressive Democrat wins in Michigan in rebuke to party establishment](https://www.ft.com/content/65633475-0a89-4522-9c2c-5cbd22fd9aac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 14:23
+
+#### [Europe and the eternal north-south rift](https://www.ft.com/content/a47aa815-ba40-4ab6-8631-d0c6c11011ed?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 11:46
+
+#### [Citadel’s flagship fund surges 6% after Situational Awareness swoop](https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-05 11:05
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations](https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 22:25
+
+#### [Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off](https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 22:19
+
+#### [Figma’s stock falls as the company’s AI push requires steep investments](https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 22:12
+
+#### [Why AT&T, Verizon and T-Mobile shares are down after SpaceX’s earnings](https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:28
+
+#### [SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending](https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:26
+
+#### [Nvidia’s stock is basking in the glow of a high-profile endorsement](https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:22
+
+#### [Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall](https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:22
+
+#### [Alphabet’s stock drops as Google loses another key AI executive](https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:20
+
+#### [Retail investors are buying the dip on SpaceX’s stock before more shares flood the market](https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 21:17
+
+#### [Aggressive options trading helped drive the S&P 500’s latest rally. What that means for investors.](https://www.marketwatch.com/story/aggressive-options-trading-helped-drive-the-s-p-500s-latest-rally-what-that-means-for-investors-623fe41c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-05 20:51
 
 ---
 
