@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 07:42
+**最后更新时间**: 2026-08-06 10:42
+
+---
+
+## 🆕 最新更新 (2026-08-06 10:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done](https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 10:08
+
+#### [Sandisk is falling after earnings. Here’s what Wall Street says.](https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 09:56
+
+#### [Investors are misreading this major economy — and creating a rare opportunity in government bonds](https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 09:40
+
+#### [‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?](https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 09:15
+
+#### [SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity](https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 09:00
+
+#### [Bill Cosby takes $6 million New York City home off the market](https://www.marketwatch.com/story/bill-cosby-takes-6-million-new-york-city-home-off-the-market-11ba015f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The deal that saved Intel](https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [Ares scales back €1bn private credit fund after investors balk at loan valuations](https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
 
 ---
 
