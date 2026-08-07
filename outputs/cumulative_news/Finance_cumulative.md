@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-06 10:42
+**最后更新时间**: 2026-08-07 01:46
+
+---
+
+## 🆕 最新更新 (2026-08-07 01:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US euro sale to prop up yen blindsided European Central Bank](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 00:36
+
+#### [Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 21:40
+
+#### [Jane Street in talks to shift its $11bn in debt to investors including Pimco](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 20:10
+
+#### [Uefa doubles down on World Cup boycott in effort to oust Infantino](https://www.ft.com/content/a71ca216-2e96-4c43-b269-11c8210e9a31?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 18:37
+
+#### [AI creates first synthetic viruses](https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 18:00
+
+#### [Google seeks a sharper focus in AI after Hassabis move](https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 16:55
+
+#### [Kevin Warsh to stick with lean Fed messaging despite market backlash](https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 13:40
+
+#### [‘People are going to kill me’: how Haitians got caught in Donald Trump’s crosshairs](https://www.ft.com/content/dee0188b-54b5-4bfe-b9cf-9c4893d9c7f2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+#### [Do you talk to your chatbot?](https://www.ft.com/content/b7d917d4-9304-4dfe-99bd-db19fafd5238?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.](https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 00:31
+
+#### [As Alphabet burns through cash on AI, it’s turning back to the bond market](https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 23:14
+
+#### [Trade Desk shares tumble on earnings miss and weak outlook](https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 22:59
+
+#### [Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales](https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 22:58
+
+#### [Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?](https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 20:57
+
+#### [How to wish Social Security a happy 91st birthday](https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 20:56
+
+#### [Honeywell Aerospace lands in Wall Street’s ‘penalty box’ after gloomy guidance triggers 23% stock selloff](https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 20:41
+
+#### [How to use options to trade stocks around an earnings announcement](https://www.marketwatch.com/story/how-to-use-options-to-trade-stocks-around-an-earnings-announcement-e1ba7920?mod=mw_rss_topstories)
+**发布时间**: 2026-08-06 20:37
 
 ---
 
