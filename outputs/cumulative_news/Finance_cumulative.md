@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 01:46
+**最后更新时间**: 2026-08-07 06:11
+
+---
+
+## 🆕 最新更新 (2026-08-07 06:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [ByteDance targets mega AI model nearing Anthropic’s Mythos](https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:36
+
+#### [‘It’s now or never.’ Is the EU serious about letting in new members?](https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [Warsh is being misread](https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [Parents haggle with private schools over fees as VAT pushes up costs](https://www.ft.com/content/30fe8c0a-5022-46d4-be53-101c4af0185e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 04:00
+
+#### [US court tells Meta to pay nearly $1bn penalty over social media harm to children](https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 02:57
+
+#### [US euro sale to prop up yen blindsided ECB](https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 01:50
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Micron’s stock falls but is spared the worst of the memory-chip selloff](https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 02:35
+
+#### [‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?](https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 02:00
 
 ---
 

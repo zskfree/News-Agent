@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Aug 2026 01:46:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 01:47:08 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:11:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:12:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US euro sale to prop up yen blindsided European Central Bank</title>
+      <title>ByteDance targets mega AI model nearing Anthropic’s Mythos</title>
+      <link>https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[ByteDance targets mega AI model nearing Anthropic’s Mythos]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 04:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘It’s now or never.’ Is the EU serious about letting in new members?</title>
+      <link>https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[‘It’s now or never.’ Is the EU serious about letting in new members?]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Warsh is being misread</title>
+      <link>https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Warsh is being misread]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/aea25d0e-f7f8-484c-b186-57775e635aa7?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Parents haggle with private schools over fees as VAT pushes up costs</title>
+      <link>https://www.ft.com/content/30fe8c0a-5022-46d4-be53-101c4af0185e?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Parents haggle with private schools over fees as VAT pushes up costs]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/30fe8c0a-5022-46d4-be53-101c4af0185e?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US court tells Meta to pay nearly $1bn penalty over social media harm to children</title>
+      <link>https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US court tells Meta to pay nearly $1bn penalty over social media harm to children]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 02:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US euro sale to prop up yen blindsided ECB</title>
       <link>https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US euro sale to prop up yen blindsided European Central Bank]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 00:36:00 GMT</pubDate>
+      <description>&lt;![CDATA[US euro sale to prop up yen blindsided ECB]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 01:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside</title>
-      <link>https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 21:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1</guid>
+      <title>Micron’s stock falls but is spared the worst of the memory-chip selloff</title>
+      <link>https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Micron’s stock falls but is spared the worst of the memory-chip selloff]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 02:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Jane Street in talks to shift its $11bn in debt to investors including Pimco</title>
-      <link>https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Jane Street in talks to shift its $11bn in debt to investors including Pimco]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 20:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Uefa doubles down on World Cup boycott in effort to oust Infantino</title>
-      <link>https://www.ft.com/content/a71ca216-2e96-4c43-b269-11c8210e9a31?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Uefa doubles down on World Cup boycott in effort to oust Infantino]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 18:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a71ca216-2e96-4c43-b269-11c8210e9a31?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>AI creates first synthetic viruses</title>
-      <link>https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[AI creates first synthetic viruses]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Google seeks a sharper focus in AI after Hassabis move</title>
-      <link>https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Google seeks a sharper focus in AI after Hassabis move]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Kevin Warsh to stick with lean Fed messaging despite market backlash</title>
-      <link>https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Kevin Warsh to stick with lean Fed messaging despite market backlash]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 13:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.</title>
-      <link>https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 00:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>As Alphabet burns through cash on AI, it’s turning back to the bond market</title>
-      <link>https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[As Alphabet burns through cash on AI, it’s turning back to the bond market]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 23:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trade Desk shares tumble on earnings miss and weak outlook</title>
-      <link>https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Trade Desk shares tumble on earnings miss and weak outlook]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 22:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories</guid>
+      <title>‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?</title>
+      <link>https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
