@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 06:11
+**最后更新时间**: 2026-08-07 09:02
+
+---
+
+## 🆕 最新更新 (2026-08-07 09:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The curious case of the Japanese government bond yields](https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6)
+**发布时间**: 2026-08-07 05:00
+
+#### [Meta told to pay nearly $1bn penalty over social media harm to children](https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 02:57
+
+#### [Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-06 21:40
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Aug 2026 06:11:00 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 06:12:07 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 09:02:00 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:02:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>荣耀 YOYO 智能体的产品化实践｜AICon深圳</title>
+      <title>从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳</title>
       <link>https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[荣耀 YOYO 智能体的产品化实践｜AICon深圳]]&gt;</description>
+      <description>&lt;![CDATA[从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳]]&gt;</description>
       <pubDate>Fri, 07 Aug 2026 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：Bose 发布新款 QuietComfort 头戴式耳机等</title>
-      <link>https://sspai.com/post/113162</link>
-      <description>&lt;![CDATA[派早报：Bose 发布新款 QuietComfort 头戴式耳机等]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/113162</guid>
+      <title>从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索</title>
+      <link>https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>维信诺的边界实验：当OLED大厂决定走进ChinaJoy</title>
-      <link>https://www.tmtpost.com/8095080.html</link>
-      <description>&lt;![CDATA[维信诺的边界实验：当OLED大厂决定走进ChinaJoy]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 13:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8095080.html</guid>
+      <title>Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力</title>
+      <link>https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>3.6万家瑞幸，正在“围剿”瑞幸</title>
-      <link>https://www.tmtpost.com/8094431.html</link>
-      <description>&lt;![CDATA[3.6万家瑞幸，正在“围剿”瑞幸]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094431.html</guid>
+      <title>黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设</title>
+      <link>https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果压价，被长鑫拒绝了</title>
-      <link>https://www.tmtpost.com/8094412.html</link>
-      <description>&lt;![CDATA[苹果压价，被长鑫拒绝了]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094412.html</guid>
+      <title>最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案</title>
+      <link>https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>忙着搞钱的智元，把罗剑岚弄丢了</title>
-      <link>https://www.tmtpost.com/8094310.html</link>
-      <description>&lt;![CDATA[忙着搞钱的智元，把罗剑岚弄丢了]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 11:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094310.html</guid>
+      <title>DeepSeek预告API涨价，AI低价红利落幕</title>
+      <link>https://www.tmtpost.com/8094414.html</link>
+      <description>&lt;![CDATA[DeepSeek预告API涨价，AI低价红利落幕]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8094414.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>实测腾讯WorkBuddy：能力及格，但生态真香</title>
-      <link>https://www.tmtpost.com/8094441.html</link>
-      <description>&lt;![CDATA[实测腾讯WorkBuddy：能力及格，但生态真香]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094441.html</guid>
+      <title>锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差</title>
+      <link>https://www.tmtpost.com/8095185.html</link>
+      <description>&lt;![CDATA[锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8095185.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Startup X2 Robotics Files for a HK IPO, Third-Generation Robot Will Hit the Market in Q4</title>
-      <link>https://www.tmtpost.com/8094916.html</link>
-      <description>&lt;![CDATA[China's Startup X2 Robotics Files for a HK IPO, Third-Generation Robot Will Hit the Market in Q4]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094916.html</guid>
+      <title>DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税</title>
+      <link>https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>第一批做FDE的人，离高薪差远了</title>
-      <link>https://www.tmtpost.com/8094851.html</link>
-      <description>&lt;![CDATA[第一批做FDE的人，离高薪差远了]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094851.html</guid>
+      <title>HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复</title>
+      <link>https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek V4 Flash低价斩杀线背后：当梁文锋也卷不动算力账单（含实测）</title>
-      <link>https://www.tmtpost.com/8094216.html</link>
-      <description>&lt;![CDATA[DeepSeek V4 Flash低价斩杀线背后：当梁文锋也卷不动算力账单（含实测）]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 09:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8094216.html</guid>
+      <title>HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验</title>
+      <link>https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验]]&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

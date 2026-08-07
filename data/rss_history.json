@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2782bb872030ca943547f2281cbe456d3107dc76d227b2eaf49ea3d80752de16": {
-        "title": "DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商",
-        "link": "https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 14:56:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253018"
-      },
-      "088e01e4ac98a6ebc6b88f473b5751774e5ab956abc686cbcedfc23ec7345974": {
-        "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
-        "link": "https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 15:20:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253026"
-      },
-      "27fc548864d176c41b0df8e0e6b85bc832337f962b200603a8ad8a721bf1ce64": {
-        "title": "人人都在喊的世界模型，正在成为AI最大的“概念筐”",
-        "link": "https://www.tmtpost.com/8056875.html",
-        "published_date": "Wed, 08 Jul 2026 15:25:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253029"
-      },
-      "0b13e30be28f4ad8d5902c50f1d7cdf5ea6dc94f51aa011bc83fa3da3fa2a2bb": {
-        "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
-        "link": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253031"
-      },
-      "c67614985f3e41fcc12cc9ab22dd9985527fc46ae673d8fdc78c561f6b183da9": {
-        "title": "SFT「不完全学习」之后，研究的下一个前沿在哪？ACL 2026 腾讯混元论文未来方向展望",
-        "link": "https://www.infoq.cn/article/R3bVEmOPR090gN4ovm1A?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 14:44:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253033"
-      },
-      "b3ea17b4d4d583c09baecb982e50ba5adceda42d6e8f067c4604b5cb92f2e7cc": {
-        "title": "骑手背后的美团，悄悄跑通了万亿大模型",
-        "link": "https://www.tmtpost.com/8056486.html",
-        "published_date": "Wed, 08 Jul 2026 12:26:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253035"
-      },
-      "d197fa03e8b3aa10787727bf642164b3133b36925fff6152f83ac8fb3bcd868e": {
-        "title": "AI产业全景透视之：3D NAND，以钼代钨",
-        "link": "https://www.tmtpost.com/8056270.html",
-        "published_date": "Wed, 08 Jul 2026 12:25:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253036"
-      },
-      "389e8d80ce3d1531e92ebb448e058e01bd1a5b5cea54265159a1fcd7ddc98c5d": {
-        "title": "HeroUI v3 正式发布，针对 React 和 React Native 从头进行了重写，并基于 Tailwind CSS v4 构建",
-        "link": "https://www.infoq.cn/article/S1JW65FuETJSyzr703t6?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 13:33:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253038"
-      },
-      "2f27b976e075b6b340fa22cc9089cb8b525819ded07b186abc972d74da26d8f6": {
-        "title": "SwiftUI 新增了文档协议，提升了性能，并进行了其他改进",
-        "link": "https://www.infoq.cn/article/T8lVxaHlN3wfM6ubLmJv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 15:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253039"
-      },
-      "369a71cdecf86b9aa12a3f941c9ca81ca528384c12e751a7c76ec8eaba35bc7c": {
-        "title": "虚拟座谈会：机器时代的安全——专家解读 AI 威胁的演变",
-        "link": "https://www.infoq.cn/article/LhZ4t3N4yxTm3ISZvUp5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 10:22:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.253040"
-      },
       "80680891d39b3d6ee0637512ef4ca7431197adb82bbb6af29a267bd83e691395": {
         "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
         "link": "https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article",
@@ -5029,69 +4969,69 @@
         "link": "https://www.tmtpost.com/8094216.html",
         "published_date": "Fri, 07 Aug 2026 09:32:00 GMT",
         "first_seen": "2026-08-07T06:12:07.628095"
+      },
+      "9a65e6681f45b72c715dadf7c0769e121e7e5c7a0e545dff05bc50569b86992d": {
+        "title": "从App容器到Agent调度中心：荣耀YOYO智能体平台的架构演进与技术实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478630"
+      },
+      "1d68289b9287e3f3f8930b56d1dc6bb7849c5ea479701bc84bbe3fc98d361ce7": {
+        "title": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "link": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 16:12:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478639"
+      },
+      "6e6d4156700eaec688bcba50126543bd3abc8ed9f3d30a28f608efffa1166030": {
+        "title": "Demo 能跑，项目却落不了地：企业真正缺的是 FDE 能力",
+        "link": "https://www.infoq.cn/article/ZvwSZ2U61Q8uBMerbYD9?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 16:25:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478642"
+      },
+      "cc52ea3740e34381381b71962dc77ff5dd9b89e544abcbfa957aa1582dad91f7": {
+        "title": "黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设",
+        "link": "https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 15:18:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478644"
+      },
+      "a4092335aeb13a94992d35e401c60c04113b6fa6b162bf376794907b2b110b1f": {
+        "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "link": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 15:00:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478646"
+      },
+      "ad38eec995f3b928b7bb21adc40c31d3854fbda467fbfd2c4dbca74c319e06b9": {
+        "title": "DeepSeek预告API涨价，AI低价红利落幕",
+        "link": "https://www.tmtpost.com/8094414.html",
+        "published_date": "Fri, 07 Aug 2026 16:16:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478647"
+      },
+      "e7a944ab0fcd943a64895e1d98493b27506ac6d952f3b170e071ad7f7b6acd04": {
+        "title": "锴威特16.5亿收购大客户：“小吞大”背后的股权接力与对赌反差",
+        "link": "https://www.tmtpost.com/8095185.html",
+        "published_date": "Fri, 07 Aug 2026 15:03:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478649"
+      },
+      "e8fa836e7d0572fddba7247d39c7de08552e867d295e97e8828e2b7d929df323": {
+        "title": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "link": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 13:33:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478651"
+      },
+      "e31223fea1904aa00b05ccd9d7c93e5f3a509cab9176d96f9574ae554577cb6b": {
+        "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "link": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 11:53:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478653"
+      },
+      "fe1063318cbd4b0b0530f075cfd29f11e096b6b68a6e2df3935a2c2a98946841": {
+        "title": "HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验",
+        "link": "https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 11:53:00 GMT",
+        "first_seen": "2026-08-07T09:02:52.478654"
       }
     },
     "Finance": {
-      "172c67b618f1d1c8209aafc6ec6cd8f24794fc4d3f817e2d0c1d4b2baf80c166": {
-        "title": "Trump ‘completely committed’ to Nato despite renewed threats, Rutte says",
-        "link": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
-        "published_date": "Wed, 08 Jul 2026 06:01:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309937"
-      },
-      "53a42b77c27fd9148d00a6a5212a44c09fffc14c4940ecb0545f80bed11f01b6": {
-        "title": "Iran projects regional power as Khamenei funeral heads to Iraq",
-        "link": "https://www.ft.com/content/f73e4763-1a33-45ee-9e22-cca151a16e5e",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309943"
-      },
-      "96fbc4f5bdb68f45d228c8c8e5cb83d55981fbd2335a47dfbf19bb494f7c5543": {
-        "title": "Palantir’s real weak spot",
-        "link": "https://www.ft.com/content/21038b20-646e-4773-a473-110c2d62ab15",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309945"
-      },
-      "7ee10dba77a76124ad21d5fbc2822a1e645b5832be077b1d13d5d8790b2cffab": {
-        "title": "The battle for the future of democratic republics",
-        "link": "https://www.ft.com/content/2dcabc77-4502-4eef-848f-b45db14ccd87",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309947"
-      },
-      "85f267bcf9bc2e202c077727feef3a4bb354b8316b3f7399c5bfb05b03634726": {
-        "title": "Streamers ignore omnivorous consumers at their peril",
-        "link": "https://www.ft.com/content/13ae8962-954d-4b83-bc90-29ca32c5e578",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309948"
-      },
-      "0170b78cb35f7c4a4622ea8a418c3d76e5fb0e44a158d55c4503568117b3ac76": {
-        "title": "Santander axes top China banker and scraps perks in Asia overhaul",
-        "link": "https://www.ft.com/content/2169b73c-7583-4d28-91d5-6459846ad769",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309950"
-      },
-      "d920ff5d8d85b91b3ce388d1272f2832814cf1ebcf821abc24cd66f2891c4b0f": {
-        "title": "Indonesia’s stock market hit with second downgrade warning",
-        "link": "https://www.ft.com/content/dfb44d58-e8da-4f87-a65f-00eb5b1fc63c",
-        "published_date": "Wed, 08 Jul 2026 02:28:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309951"
-      },
-      "2ffc288d3d692211fb8a323574de31d095112cdce300201541dd903c4ac2d221": {
-        "title": "Japan’s borrowing costs soar to 30-year high on debt fears",
-        "link": "https://www.ft.com/content/851aa883-073f-4423-a43e-9b09fdbe7c86",
-        "published_date": "Wed, 08 Jul 2026 01:00:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309952"
-      },
-      "ef7097cd436c882dd6e8e69a42f151cb489e6ed2574f0239f6de248e047751a0": {
-        "title": "Plot twist: Gen Z is buying houses after all. Here’s how they’re doing it.",
-        "link": "https://www.marketwatch.com/story/plot-twist-gen-z-is-buying-houses-after-all-ab247e1f?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 01:06:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309954"
-      },
-      "bd78271677f58f8c4790504a47d8a31f3face6aa578ba9d188fcaa147aafd429": {
-        "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
-        "link": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 00:35:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.309955"
-      },
       "06c2ab7f696bae9a6bad143b13afe2c685fe616fc60740caa515b062253b9a7e": {
         "title": "Apple makes $30bn Broadcom deal under Trump-backed US investment pledge",
         "link": "https://www.ft.com/content/1bc10dd1-2aac-472d-b3d8-b76a83fb4abf",
@@ -8964,60 +8904,6 @@
       }
     },
     "Ai": {
-      "67b4dd0641458816c190a945e47d576ae2fb47e28a29bf9bc202cabe6dc74054": {
-        "title": "突破具身智能泛化瓶颈！支持20多种机器人构型，蚂蚁灵波开源具身基座模型LingBot-VLA 2.0",
-        "link": "https://www.leiphone.com/category/industrynews/4583hFHXszrX7fky.html",
-        "published_date": "Wed, 08 Jul 2026 12:40:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446759"
-      },
-      "adcc87a18c09a5b6d75053f96f34ed27b324ffa7b0d505334bea42be85bd01ff": {
-        "title": "智源悟界·RoboBrain Orca：AI进入Next State Prediction时代",
-        "link": "https://www.leiphone.com/category/industrynews/5fcKE7y4a3UClY9r.html",
-        "published_date": "Wed, 08 Jul 2026 11:35:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446767"
-      },
-      "807abcabf7510b4a497d6b3fc6d8ed84bbfc1907037a1501d5fef4ed64db633d": {
-        "title": "MiniMax 解禁在即，获三大国际金融机构“买入”评级",
-        "link": "https://www.leiphone.com/category/industrynews/OBCvpZEILgcOn3Wg.html",
-        "published_date": "Wed, 08 Jul 2026 10:05:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446769"
-      },
-      "d725340d99597bd4945f8bd854ff3211c1b3c8ee9e56b996cecb0f6d243183c4": {
-        "title": "曝DeepSeek正在自研AI芯片：面向推理场景；姚顺雨前同事田永龙加盟腾讯；苹果首款折叠屏iPhone已在量产阶段；智谱：撤回A股辅导备案失实",
-        "link": "https://www.leiphone.com/category/zaobao/aNM6BTV8leU0Umws.html",
-        "published_date": "Wed, 08 Jul 2026 08:39:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446771"
-      },
-      "700ee01a194ea3764d8bbb18b39309fce6975a36c9a768faac82f2f8ae25de79": {
-        "title": "2026-07-08日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-08/",
-        "published_date": "Wed, 08 Jul 2026 10:55:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446772"
-      },
-      "e0982555c8d04f4807ec069fe9cae6cfd5307dfe14ba146105ee651e7f5f9291": {
-        "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
-        "link": "https://www.qbitai.com/2026/07/445883.html",
-        "published_date": "Wed, 08 Jul 2026 04:47:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446774"
-      },
-      "2d4bab61f5a122378eaf810be8b23621845b1264381ce1dbe8d00db60edff48b": {
-        "title": "60000小时炼出新开源VLA！20多种机器人都能用",
-        "link": "https://www.qbitai.com/2026/07/445678.html",
-        "published_date": "Wed, 08 Jul 2026 03:54:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446775"
-      },
-      "70afbd98e3f5639eac2fe94ec02a1bef2f6d00b505e9040c3fc5d9ad4f02cdce": {
-        "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
-        "link": "https://www.qbitai.com/2026/07/445668.html",
-        "published_date": "Wed, 08 Jul 2026 03:04:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446777"
-      },
-      "9246d4e35d9dec94b2e6157f6320553ecd29205c90117370184f8984509cc07e": {
-        "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
-        "link": "https://www.qbitai.com/2026/07/445531.html",
-        "published_date": "Wed, 08 Jul 2026 00:44:00 GMT",
-        "first_seen": "2026-07-08T07:31:57.446779"
-      },
       "91e1cff3f5bf008da51a8bfab99c1d6fd67fa12267450b0908ee03f627129ccb": {
         "title": "ICML 精选 Spotlight Poster 汇总：Session 3-1",
         "link": "https://www.leiphone.com/category/private/7KHeasyoIRgGkQF4.html",
@@ -12635,13 +12521,43 @@
         "link": "https://www.qbitai.com/2026/08/467840.html",
         "published_date": "Fri, 07 Aug 2026 02:56:00 GMT",
         "first_seen": "2026-08-07T06:11:57.943132"
+      },
+      "c1ab61966760d867602e5414605504131cdffa5becc95e216f6395a6aeb49d69": {
+        "title": "延长20年！上汽集团与通用汽车签署合资续约协议",
+        "link": "https://www.leiphone.com/category/industrynews/n8L9ojfqMPqsvH2u.html",
+        "published_date": "Fri, 07 Aug 2026 14:48:00 GMT",
+        "first_seen": "2026-08-07T09:02:42.739626"
+      },
+      "1ad2c5002b3afc643b3a51b4de36a193f0549800095a04e41481eb5733df5a6f": {
+        "title": "IJCAI 2026 专访：机器人想学会人类动作，还差一座桥 | GAIR Paper 118",
+        "link": "https://www.leiphone.com/category/private/V2FQ6puH0pDdAKeI.html",
+        "published_date": "Fri, 07 Aug 2026 14:09:00 GMT",
+        "first_seen": "2026-08-07T09:02:42.739638"
+      },
+      "2f4a1dea1a07416e2fb3b15b7c1bac257b92ecc2cb2c8da5a26bd7295548f4df": {
+        "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+        "link": "https://www.qbitai.com/2026/08/468324.html",
+        "published_date": "Fri, 07 Aug 2026 07:43:00 GMT",
+        "first_seen": "2026-08-07T09:02:42.739642"
+      },
+      "52e4ebfcbf1a4d404979474c8c93c65199012134367ea0a7074aa7e780bf1cb3": {
+        "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+        "link": "https://www.qbitai.com/2026/08/466738.html",
+        "published_date": "Fri, 07 Aug 2026 06:21:00 GMT",
+        "first_seen": "2026-08-07T09:02:42.739644"
+      },
+      "427f7329fad2ce7a18fff0fdb6c233c41a6e65538ca8994a38ecde3addefacfc": {
+        "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+        "link": "https://www.qbitai.com/2026/08/468305.html",
+        "published_date": "Fri, 07 Aug 2026 06:18:00 GMT",
+        "first_seen": "2026-08-07T09:02:42.739646"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-07T06:12:07.628097",
+    "Technology": "2026-08-07T09:02:52.478657",
     "Finance": "2026-08-07T06:12:07.688977",
-    "Ai": "2026-08-07T06:11:57.943134"
+    "Ai": "2026-08-07T09:02:42.739649"
   }
 }
