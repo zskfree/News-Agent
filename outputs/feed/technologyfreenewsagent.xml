@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Sep 2026 23:39:00 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Sep 2026 23:39:12 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 00:48:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:48:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从精密技术到行业与机器人，爱普生正在重新给技术“定价”</title>
-      <link>https://www.tmtpost.com/8129869.html</link>
-      <description>&lt;![CDATA[从精密技术到行业与机器人，爱普生正在重新给技术“定价”]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129869.html</guid>
+      <title>石头科技开辟新战场，从「室内」走入「水下与庭院」 | IFA 2026</title>
+      <link>https://www.tmtpost.com/8130032.html</link>
+      <description>&lt;![CDATA[石头科技开辟新战场，从「室内」走入「水下与庭院」 | IFA 2026]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130032.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI时代，最稀缺的不是知识，而是系统思维</title>
-      <link>https://www.tmtpost.com/8082672.html</link>
-      <description>&lt;![CDATA[AI时代，最稀缺的不是知识，而是系统思维]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8082672.html</guid>
+      <title>8000万养宠人，见证“它经济”从狂热到崩塌</title>
+      <link>https://www.tmtpost.com/8130247.html</link>
+      <description>&lt;![CDATA[8000万养宠人，见证“它经济”从狂热到崩塌]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130247.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Uber GitFarm：面向大规模单体代码库的 Git 即服务平台</title>
-      <link>https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Uber GitFarm：面向大规模单体代码库的 Git 即服务平台]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Meta 拓展自研芯片战略：从计算领域延伸至网络领域</title>
-      <link>https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 拓展自研芯片战略：从计算领域延伸至网络领域]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>鸿蒙 AI Coding 的研发新范式与工程实践</title>
-      <link>https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[鸿蒙 AI Coding 的研发新范式与工程实践]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 22:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>谷歌云发布 AI 智能体，简化数据库生命周期管理</title>
-      <link>https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云发布 AI 智能体，简化数据库生命周期管理]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等</title>
-      <link>https://sspai.com/post/114164</link>
-      <description>&lt;![CDATA[派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 08:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114164</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”</title>
-      <link>https://www.tmtpost.com/8130184.html</link>
-      <description>&lt;![CDATA[【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130184.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区</title>
-      <link>https://www.tmtpost.com/8130213.html</link>
-      <description>&lt;![CDATA[Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 20:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130213.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>美团守城，快手攻擂：港股互联网盈利韧性大考</title>
-      <link>https://www.tmtpost.com/8130102.html</link>
-      <description>&lt;![CDATA[美团守城，快手攻擂：港股互联网盈利韧性大考]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130102.html</guid>
+      <title>Edge AI Daily 早报（9月7日）</title>
+      <link>https://www.tmtpost.com/8130271.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（9月7日）]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130271.html</guid>
       <category>Technology</category>
     </item>
   </channel>

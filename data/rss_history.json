@@ -61,6 +61,24 @@
         "link": "https://www.tmtpost.com/8130102.html",
         "published_date": "Sun, 06 Sep 2026 17:30:00 GMT",
         "first_seen": "2026-09-06T23:39:12.505093"
+      },
+      "e606cb2127e266159440d8e8867b5d4e779067866af7b9f97c7d94bd9e2f991e": {
+        "title": "石头科技开辟新战场，从「室内」走入「水下与庭院」 | IFA 2026",
+        "link": "https://www.tmtpost.com/8130032.html",
+        "published_date": "Mon, 07 Sep 2026 08:30:00 GMT",
+        "first_seen": "2026-09-07T00:48:56.879535"
+      },
+      "8b6dace388fd346ae508e5772f56fead17c6d62baec1868331b9011d9727f7dc": {
+        "title": "8000万养宠人，见证“它经济”从狂热到崩塌",
+        "link": "https://www.tmtpost.com/8130247.html",
+        "published_date": "Mon, 07 Sep 2026 08:20:00 GMT",
+        "first_seen": "2026-09-07T00:48:56.879550"
+      },
+      "7431646b5d586c3ce78e47fc7792d3ed8f5ce1cf1b102377b66e5ee7465735a5": {
+        "title": "Edge AI Daily 早报（9月7日）",
+        "link": "https://www.tmtpost.com/8130271.html",
+        "published_date": "Mon, 07 Sep 2026 08:02:00 GMT",
+        "first_seen": "2026-09-07T00:48:56.879553"
       }
     },
     "Finance": {
@@ -190,7 +208,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-06T23:39:12.505095",
+    "Technology": "2026-09-07T00:48:56.879555",
     "Finance": "2026-09-06T23:39:31.664043",
     "Ai": "2026-09-06T23:39:22.128376"
   }
