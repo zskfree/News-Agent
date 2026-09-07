@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-06 23:36
+**最后更新时间**: 2026-09-07 10:01
+
+---
+
+## 🆕 最新更新 (2026-09-07 10:01)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [创想三维亮相IFA 2026，SPARKX i8全球首秀、旗舰K3获两项荣誉！](https://www.leiphone.com/category/industrynews/vAtQUjcohTzgRhHG.html)
+**发布时间**: 2026-09-07 14:17
+
+#### [起步即搭载L3架构，阔五座开创者启境GX7正式预售24.99-31.19万](https://www.leiphone.com/category/industrynews/DEylZOEEZ448IHK3.html)
+**发布时间**: 2026-09-07 14:10
+
+#### [独家丨微软云亚太「一拆为二」，侯阳接掌东南亚、印度与大中华区](https://www.leiphone.com/category/industrycloud/UUg7N19pHCCMjnMD.html)
+**发布时间**: 2026-09-07 14:07
+
+#### [AI人才3次大迁徙：百度先行、六小虎分化、腾讯「腾笼换鸟」](https://www.leiphone.com/category/industrynews/IfTsnhdqbaxeTEu6.html)
+**发布时间**: 2026-09-07 14:04
+
+#### [0.4mm弯折半径、96%量产良率：伯恩光学UTG的应力重构与工艺路径](https://www.leiphone.com/category/industrynews/7NDbKTW4jo1GR7dJ.html)
+**发布时间**: 2026-09-07 13:42
+
+#### [业内首个！“千问办公”推出“多人工作台”](https://www.leiphone.com/category/industrynews/bv6uP9homPcjjRHl.html)
+**发布时间**: 2026-09-07 12:48
+
+#### [IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径](https://www.leiphone.com/category/industrynews/m9VdZr4bvHYmlA7s.html)
+**发布时间**: 2026-09-07 11:24
+
+#### [IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径](https://www.leiphone.com/category/industrynews/PRGqE4BoCtPwrzAf.html)
+**发布时间**: 2026-09-07 11:22
+
+#### [王兴兴上市后首次公开演讲：机器人真正爆发要等两个「80%时刻」丨WRC 2026](https://www.leiphone.com/category/robot/qtdF8IhMqe2oNmH0.html)
+**发布时间**: 2026-09-07 10:55
+
+#### [看见与被看见：AFAC2026总决赛的AI金融群像](https://www.leiphone.com/category/industrynews/zby4Nbb3zEvFldyT.html)
+**发布时间**: 2026-09-07 09:59
+
+#### [芯思杰400Gbps PIN PD支撑全球AI算力光互联向3.2T光收发模块迭代](https://www.leiphone.com/category/industrynews/uTYlVwazKU12Bj95.html)
+**发布时间**: 2026-09-07 09:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
+**发布时间**: 2026-09-07 09:34
+
+#### [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
+**发布时间**: 2026-09-07 09:04
+
+#### [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
+**发布时间**: 2026-09-07 08:51
+
+#### [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
+**发布时间**: 2026-09-07 08:36
+
+#### [国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%](https://www.qbitai.com/2026/09/485064.html)
+**发布时间**: 2026-09-07 06:53
+
+#### [原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied](https://www.qbitai.com/2026/09/485056.html)
+**发布时间**: 2026-09-07 06:03
+
+#### [业内首个！“千问办公”推出“多人工作台”](https://www.qbitai.com/2026/09/485046.html)
+**发布时间**: 2026-09-07 05:04
+
+#### [产业龙头领投！中科类脑完成数亿元B+轮战略融资](https://www.qbitai.com/2026/09/485039.html)
+**发布时间**: 2026-09-07 04:01
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-07日刊](https://hex2077.dev/docs/2026-09/2026-09-07/)
+**发布时间**: 2026-09-07 02:46
 
 ---
 

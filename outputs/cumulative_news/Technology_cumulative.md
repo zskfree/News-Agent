@@ -1,7 +1,119 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-07 00:48
+**最后更新时间**: 2026-09-07 10:04
+
+---
+
+## 🆕 最新更新 (2026-09-07 10:04)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上](https://www.tmtpost.com/8130806.html)
+**发布时间**: 2026-09-07 17:57
+
+#### [442款创新医疗器械产品，有多少销售额能过亿？](https://www.tmtpost.com/8130919.html)
+**发布时间**: 2026-09-07 17:57
+
+#### [机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争](https://www.tmtpost.com/8131169.html)
+**发布时间**: 2026-09-07 17:52
+
+#### [A股有常山，却无赵子龙](https://www.tmtpost.com/8131205.html)
+**发布时间**: 2026-09-07 17:51
+
+#### [四份文件锁死产能，谁在为高煤价买单？](https://www.tmtpost.com/8131200.html)
+**发布时间**: 2026-09-07 17:51
+
+#### [模型负责上天，三个“野心家”负责把AI落地](https://www.tmtpost.com/8130980.html)
+**发布时间**: 2026-09-07 17:36
+
+#### [DeepSeek千兆瓦雄心，遭遇电力现实](https://www.tmtpost.com/8131016.html)
+**发布时间**: 2026-09-07 17:36
+
+#### [最赚钱的5家上市械企，一家靠投资，一家卖手套](https://www.tmtpost.com/8130921.html)
+**发布时间**: 2026-09-07 17:28
+
+#### [三款新火箭都还没入轨，欧洲为什么先签下5.4亿欧元合同？](https://www.tmtpost.com/8130803.html)
+**发布时间**: 2026-09-07 17:28
+
+#### [不做人形做“马”，消费机器人盯上富人户外市场？](https://www.tmtpost.com/8130976.html)
+**发布时间**: 2026-09-07 17:28
+
+#### [超越AI，医疗板块成对冲基金最大持仓](https://www.tmtpost.com/8130922.html)
+**发布时间**: 2026-09-07 17:07
+
+#### [股价暴跌95%、两位CEO下台，这家5000亿巨头在10年后“活过来”了](https://www.tmtpost.com/8130862.html)
+**发布时间**: 2026-09-07 17:05
+
+#### [折叠赛道写满“标准答案”，但迟到的苹果却不想抄作业](https://www.tmtpost.com/8130888.html)
+**发布时间**: 2026-09-07 17:05
+
+#### [方便食品大会：2026Q2方便食品市场趋势洞察](https://www.tmtpost.com/8130865.html)
+**发布时间**: 2026-09-07 17:05
+
+#### [生成速度跑赢播放速度，AI内容为何死磕“实时”门槛？](https://www.tmtpost.com/8130944.html)
+**发布时间**: 2026-09-07 17:05
+
+#### [GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？](https://www.tmtpost.com/8130901.html)
+**发布时间**: 2026-09-07 16:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据](https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 17:34
+
+#### [AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来](https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 16:32
+
+#### [TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统](https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 16:18
+
+#### [“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness](https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 16:10
+
+#### [9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约](https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 15:48
+
+#### [成立 12 年，快看漫画重做 AI 时代的内容产品](https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 15:08
+
+#### [Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者](https://www.infoq.cn/article/5dtlrdsBbSIZfWUUF6JD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 14:07
+
+#### [阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报](https://www.infoq.cn/article/boiE7qfjxSQjHKUtevvp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 14:05
+
+#### [微软将人工智能治理从政策层面转向运行时执行](https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 12:35
+
+#### [传统企业 AI 转型的最短路径，藏在研发部门](https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 12:04
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「AI Native 」不是魔法，「创业者」这三个字依旧厚重](http://www.geekpark.net/news/369955)
+**发布时间**: 2026-09-07 17:29
+
+#### [麒麟 9050 Pro 现身、余承东秀英文，华为新三折叠太有活了](http://www.geekpark.net/news/369954)
+**发布时间**: 2026-09-07 17:13
+
+#### [雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道](http://www.geekpark.net/news/369884)
+**发布时间**: 2026-09-07 08:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+**发布时间**: 2026-09-07 15:00
+
+#### [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
+**发布时间**: 2026-09-07 11:10
+
+#### [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
+**发布时间**: 2026-09-07 08:20
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近火出圈的 GPT-6 Astra + 3D 玩法，很多都基于这个神级开源 MCP。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536724&idx=1&sn=f31a6e255ca663a00167fba0e83dd64a)
+**发布时间**: 2026-09-07 12:05
 
 ---
 

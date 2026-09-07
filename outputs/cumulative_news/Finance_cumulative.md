@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-06 23:39
+**最后更新时间**: 2026-09-07 10:04
+
+---
+
+## 🆕 最新更新 (2026-09-07 10:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China pumps $54bn into banks and insurers](https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 09:26
+
+#### [Iran to raise petrol prices as US war triggers shortages](https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 08:34
+
+#### [Far-right AfD surges to victory in German state election](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 06:28
+
+#### [Sweden’s fightback against the gangs](https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 04:00
+
+#### [Why America’s debt binge is starting to matter](https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 04:00
+
+#### [Bonds have become bonds again](https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 04:00
+
+#### [EssilorLuxottica overhauls management after rift with founder’s son](https://www.ft.com/content/c94548ff-615d-49b5-87e6-1d5cd61f1537?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 04:00
+
+#### [Merz on the ropes after far right delivers devastating blow](https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 21:53
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Travis Kelce bought a $5.35 million estate on Lake Erie months before marrying Taylor Swift](https://www.marketwatch.com/story/travis-kelce-bought-a-5-35-million-estate-on-lake-erie-months-before-marrying-taylor-swift-4ce6761f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 09:03
+
+#### [Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz](https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 08:52
 
 ---
 
