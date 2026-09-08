@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-07 10:04
+**最后更新时间**: 2026-09-08 01:03
+
+---
+
+## 🆕 最新更新 (2026-09-08 01:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels](https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 00:23
+
+#### [‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?](https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 22:00
+
+#### [Chip stock investors beware — these charts could warn of further weakness ahead](https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 16:00
+
+#### [‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything](https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 13:00
+
+#### [Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade](https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 11:36
+
+#### [Is the stock market open today for Labor Day? What about bond trading and mail delivery?](https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories)
+**发布时间**: 2026-09-07 11:16
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump calls for US boycott of Canada’s Bombardier jets](https://www.ft.com/content/a7011878-b0b7-4e7f-8f5a-e7d9d662fd47?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 22:46
+
+#### [UK set to announce trade ban on Israeli settlements in the West Bank](https://www.ft.com/content/1f71d2d0-d2e2-46da-a96f-99d20936223e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 22:19
+
+#### [Merz in ‘shock’ as far-right AfD celebrates ‘dream result’](https://www.ft.com/content/ec1396b9-185e-4a55-86d6-36a560b549fb?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 19:47
+
+#### [What next for Alternative for Germany after its victory in Saxony-Anhalt?](https://www.ft.com/content/4275e189-997c-43f0-b702-d3447c9e81ec?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 15:35
+
+#### [Republicans fear Trump has turned toxic on the campaign trail](https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 15:30
+
+#### [‘Chimerica’ is now a chimera — and global stability is the victim](https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9)
+**发布时间**: 2026-09-07 13:00
+
+#### [A German election result heard around the world](https://www.ft.com/content/06f51592-d259-4f53-b74c-31279414674d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 12:03
+
+#### [Canada is fated to try to do deals with Trump](https://www.ft.com/content/d7139a47-2882-4e4c-8c8d-78e3a9a17c03?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 11:31
+
+#### [US voters reel as fuel prices hit Labor Day record high](https://www.ft.com/content/da937483-cda9-4417-9257-540c680696c3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 10:00
+
+#### [Big US university endowments outperform S&P 500 index](https://www.ft.com/content/9aa8805c-8b6a-4dfc-9e61-f5181ce07fc8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-07 04:00
 
 ---
 

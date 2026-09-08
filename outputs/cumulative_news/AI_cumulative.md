@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-07 10:01
+**最后更新时间**: 2026-09-08 01:00
+
+---
+
+## 🆕 最新更新 (2026-09-08 01:00)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [燧原科技发行结果出炉！募资61.19亿元，国产AI芯片龙头即将登陆科创板](https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html)
+**发布时间**: 2026-09-07 20:43
+
+#### [高端智能手表怎么选，华为WATCH Ultimate 2 非凡探索雪域白、迪桑特联名款发布](https://www.leiphone.com/category/industrynews/j0Vn5Zjbs3tKiA2k.html)
+**发布时间**: 2026-09-07 17:11
+
+#### [俞敏洪：我这几年特别不安分，弄得名声比较大；传DeepSeek将采购16万颗华为AI芯片；特斯拉无人驾驶出租车，将24小时全天候运营丨雷峰早报](https://www.leiphone.com/category/zaobao/Ah6u3x7hPpOKsqIc.html)
+**发布时间**: 2026-09-07 08:35
 
 ---
 
