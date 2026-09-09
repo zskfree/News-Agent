@@ -1,7 +1,134 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-08 01:03
+**最后更新时间**: 2026-09-09 01:09
+
+---
+
+## 🆕 最新更新 (2026-09-09 01:09)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [折叠屏 iPhone 初期产量受限，每日仅数百部；环比增长 379%，腾讯 HY4 登顶全球大模型调用榜；特斯拉时隔 19 个月再降价｜极客早知道](http://www.geekpark.net/news/370026)
+**发布时间**: 2026-09-09 08:37
+
+#### [IFA 2026 现场：下一代穿戴设备的本质，是把录音笔和摄像头戴在身上](http://www.geekpark.net/news/370007)
+**发布时间**: 2026-09-08 15:29
+
+#### [单人一月烧掉 19 万，硅谷开始倒查员工 AI 账单](http://www.geekpark.net/news/370006)
+**发布时间**: 2026-09-08 15:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+**发布时间**: 2026-09-09 08:00
+
+#### [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+**发布时间**: 2026-09-08 18:14
+
+#### [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+**发布时间**: 2026-09-08 17:00
+
+#### [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+**发布时间**: 2026-09-08 15:00
+
+#### [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+**发布时间**: 2026-09-08 11:06
+
+#### [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+**发布时间**: 2026-09-08 08:07
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [长胶陷阱：为什么优秀的AI系统必须懂得“不优化”什么](https://www.tmtpost.com/8133417.html)
+**发布时间**: 2026-09-09 07:53
+
+#### [Runway ARR 突破 2 亿美元：视频热潮转向世界模型押注](https://www.tmtpost.com/8133572.html)
+**发布时间**: 2026-09-09 07:46
+
+#### [【钛晨报】前8个月中国外贸数据重点速览：进出口总值同比增长17.6%，出口汽车增长47.1%；市场监管总局全面启动“放心消费”培育工作；苹果与铠侠签署NAND长期供应协议，或不设价格上限](https://www.tmtpost.com/8133415.html)
+**发布时间**: 2026-09-09 07:20
+
+#### [Edge AI Daily 早报（9月9日）](https://www.tmtpost.com/8133549.html)
+**发布时间**: 2026-09-09 07:19
+
+#### [杰华特董事长携新设平台8.9亿入局，*ST沐邦迎来储能新猜想](https://www.tmtpost.com/8133409.html)
+**发布时间**: 2026-09-08 22:20
+
+#### [神剑股份又有高管遭立案背后：元老吴德清学历成谜，国资入主难挽颓势](https://www.tmtpost.com/8133374.html)
+**发布时间**: 2026-09-08 21:45
+
+#### [17亿占用落定，*ST利达易主：罚单是终点还是跳板？](https://www.tmtpost.com/8133239.html)
+**发布时间**: 2026-09-08 21:43
+
+#### [永和大王母公司冲刺港股IPO，餐饮品牌如何面对破发潮？](https://www.tmtpost.com/8133007.html)
+**发布时间**: 2026-09-08 19:40
+
+#### [市值五年蒸发近八成 耐克被移出标普100](https://www.tmtpost.com/8131619.html)
+**发布时间**: 2026-09-08 19:40
+
+#### [直播拆卡：一张几毛钱的纸，怎么把博彩体验做成合法生意](https://www.tmtpost.com/8133104.html)
+**发布时间**: 2026-09-08 18:44
+
+#### [确定的智谱，不确定的MiniMax](https://www.tmtpost.com/8131557.html)
+**发布时间**: 2026-09-08 18:02
+
+#### [大模型的Token生意，终究没绕过天猫](https://www.tmtpost.com/8132584.html)
+**发布时间**: 2026-09-08 18:02
+
+#### [端侧 AI“小时代”](https://www.tmtpost.com/8132618.html)
+**发布时间**: 2026-09-08 18:02
+
+#### [从AI PC到个人AI，联想敲定新赛道｜IFA 2026](https://www.tmtpost.com/8132045.html)
+**发布时间**: 2026-09-08 17:58
+
+#### [代工了半个宠粮圈，福贝宠物自己先垮了](https://www.tmtpost.com/8132140.html)
+**发布时间**: 2026-09-08 17:48
+
+#### [理想拿回电池定义权，还要过规模这一关](https://www.tmtpost.com/8132954.html)
+**发布时间**: 2026-09-08 17:48
+
+#### [1075亿，江西双胞胎姐弟IPO了](https://www.tmtpost.com/8132971.html)
+**发布时间**: 2026-09-08 17:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从告警风暴到一句话诊断：HCF 全息编码框架科普](https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 20:59
+
+#### [Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求](https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 20:35
+
+#### [Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息](https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 17:06
+
+#### [Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度](https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 16:31
+
+#### [华为乾崑，守护200万份信任](https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 15:39
+
+#### [Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测](https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 15:06
+
+#### [OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来](https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 13:55
+
+#### [OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互](https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 13:32
+
+#### [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海](https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 11:10
+
+#### [Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限](https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 11:05
+
+#### [OpenClaw 2.0 发布：简化配置，支持智能体协作](https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-08 09:11
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把最新开源的 2B 端侧模型接入 DeepSeek Harness，有点子神奇。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536728&idx=1&sn=da0f244952a905b6e1e6c2985564c58a)
+**发布时间**: 2026-09-08 12:11
 
 ---
 

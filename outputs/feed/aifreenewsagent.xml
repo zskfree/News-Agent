@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Sep 2026 01:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 01:03:33 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 01:06:00 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:09:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>燧原科技发行结果出炉！募资61.19亿元，国产AI芯片龙头即将登陆科创板</title>
-      <link>https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html</link>
-      <description>&lt;![CDATA[燧原科技发行结果出炉！募资61.19亿元，国产AI芯片龙头即将登陆科创板]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 20:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html</guid>
+      <title>Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高端智能手表怎么选，华为WATCH Ultimate 2 非凡探索雪域白、迪桑特联名款发布</title>
-      <link>https://www.leiphone.com/category/industrynews/j0Vn5Zjbs3tKiA2k.html</link>
-      <description>&lt;![CDATA[高端智能手表怎么选，华为WATCH Ultimate 2 非凡探索雪域白、迪桑特联名款发布]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/j0Vn5Zjbs3tKiA2k.html</guid>
+      <title>Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/</link>
+      <description>&lt;![CDATA[Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径</title>
-      <link>https://www.leiphone.com/category/industrynews/PRGqE4BoCtPwrzAf.html</link>
-      <description>&lt;![CDATA[IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PRGqE4BoCtPwrzAf.html</guid>
+      <title>Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/</link>
+      <description>&lt;![CDATA[Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/</link>
+      <description>&lt;![CDATA[Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/</link>
+      <description>&lt;![CDATA[Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/</link>
+      <description>&lt;![CDATA[Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How DiDi built intelligent contact center QA with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How DiDi built intelligent contact center QA with Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注</title>
+      <link>https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html</link>
+      <description>&lt;![CDATA[AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华为Mate XT 2 非凡大师发布：刘德华现身发布会再叙非凡精神</title>
+      <link>https://www.leiphone.com/category/industrynews/Sx5FX3SdH4cZd0nk.html</link>
+      <description>&lt;![CDATA[华为Mate XT 2 非凡大师发布：刘德华现身发布会再叙非凡精神]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Sx5FX3SdH4cZd0nk.html</guid>
       <category>Ai</category>
     </item>
   </channel>

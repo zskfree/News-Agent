@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-08 01:00
+**最后更新时间**: 2026-09-09 01:06
+
+---
+
+## 🆕 最新更新 (2026-09-09 01:06)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/)
+**发布时间**: 2026-09-08 22:06
+
+#### [Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-09-08 19:12
+
+#### [Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/)
+**发布时间**: 2026-09-08 18:29
+
+#### [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/)
+**发布时间**: 2026-09-08 17:03
+
+#### [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/)
+**发布时间**: 2026-09-08 17:03
+
+#### [Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions](https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/)
+**发布时间**: 2026-09-08 16:23
+
+#### [Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6](https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/)
+**发布时间**: 2026-09-08 16:21
+
+#### [How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/)
+**发布时间**: 2026-09-08 16:15
+
+#### [How DiDi built intelligent contact center QA with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/)
+**发布时间**: 2026-09-08 16:11
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注](https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html)
+**发布时间**: 2026-09-08 22:00
+
+#### [华为Mate XT 2 非凡大师发布：刘德华现身发布会再叙非凡精神](https://www.leiphone.com/category/industrynews/Sx5FX3SdH4cZd0nk.html)
+**发布时间**: 2026-09-08 18:22
+
+#### [中国品牌出海的「清洁机器人答案」](https://www.leiphone.com/category/weiwu/n2l3zx3Xv4mZK2Cr.html)
+**发布时间**: 2026-09-08 18:10
+
+#### [CPU加速AI普及，GPU首次加AI，Arm为何把NPU留给伙伴？](https://www.leiphone.com/category/chipdesign/E3ZbypZiS817Q2G8.html)
+**发布时间**: 2026-09-08 18:04
+
+#### [百度搭子全面接入小度硬件，百度智能体进驻家庭空间](https://www.leiphone.com/category/industrynews/pCuoyLeIaqbo1J0L.html)
+**发布时间**: 2026-09-08 16:44
+
+#### [“ONE FOR ALL”背后，帕西尼正在构建怎样的物理AI闭环？](https://www.leiphone.com/category/industrynews/PxJP8yUXOgv9VMnb.html)
+**发布时间**: 2026-09-08 14:49
+
+#### [基元律动发布模型NeoHorse，探索Harness驱动的RSI路径](https://www.leiphone.com/category/industrynews/E7j0Qq5zBynzWv64.html)
+**发布时间**: 2026-09-08 14:31
+
+#### [硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent](https://www.leiphone.com/category/industrynews/1fUYK0dGQLzXssbl.html)
+**发布时间**: 2026-09-08 13:59
+
+#### [IFA观察：智能IoT进入「精耕」时代，萤石的技术储备开始兑现](https://www.leiphone.com/category/smarthome/lFpY44Qc1OIof1I6.html)
+**发布时间**: 2026-09-08 09:53
+
+#### [在IFA重新认识安克：从技术底座到场景贯通](https://www.leiphone.com/category/weiwu/cz6jZP7DUUYFEcSl.html)
+**发布时间**: 2026-09-08 09:47
+
+#### [套现百亿？曝闻泰科技创始人张学政跑路海外，公司回应；星宇股份：总经理周晓萍扣薪1年，人力资源总监免职；华为时隔六年再发高性能芯片](https://www.leiphone.com/category/zaobao/e43ASUgZh0Gr71YK.html)
+**发布时间**: 2026-09-08 08:43
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom)
+**发布时间**: 2026-09-08 14:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+**发布时间**: 2026-09-08 06:05
+
+#### [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+**发布时间**: 2026-09-08 05:05
+
+#### [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+**发布时间**: 2026-09-08 03:22
+
+#### [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+**发布时间**: 2026-09-08 02:42
+
+#### [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
+**发布时间**: 2026-09-08 02:14
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-08日刊](https://hex2077.dev/docs/2026-09/2026-09-08/)
+**发布时间**: 2026-09-08 03:16
 
 ---
 

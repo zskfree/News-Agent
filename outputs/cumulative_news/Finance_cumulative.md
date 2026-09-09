@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-08 01:03
+**最后更新时间**: 2026-09-09 01:09
+
+---
+
+## 🆕 最新更新 (2026-09-09 01:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US bans Canadian dairy, motorcycles and most alcoholic beverages](https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 00:53
+
+#### [OpenAI faces competing claims around maths breakthrough](https://www.ft.com/content/4d6d28a0-4b12-438e-8850-4b3d49fc57f5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 23:53
+
+#### [Oil nears $100 as US launches new strikes on Iranian tankers](https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 23:46
+
+#### [CVC hires Todd Sisitsky with plans to name him co-chief](https://www.ft.com/content/2b171670-c0ce-442f-85a0-2d475369ffa3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 23:05
+
+#### [LIV Golf files for bankruptcy with at least $500mn in liabilities](https://www.ft.com/content/08da69fa-ee6e-4667-b039-8d9c2d1538a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 21:37
+
+#### [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO](https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 21:04
+
+#### [Meta unveils AI personal assistant linked to WhatsApp and Instagram](https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 20:44
+
+#### [Tung Chee-hwa, Hong Kong’s first chief executive, 1937-2026](https://www.ft.com/content/a943b766-c4f1-4417-8578-2c9f60ec6c11?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 19:14
+
+#### [Young Americans have never witnessed a functioning foreign policy](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc)
+**发布时间**: 2026-09-08 14:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.](https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 00:17
+
+#### [How to invest in a booming stock market that’s way cheaper than the S&P 500](https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 22:50
+
+#### [Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.](https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:51
+
+#### [Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor](https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:38
+
+#### [Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news](https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:32
+
+#### [Intel’s stock is rising as the company looks primed to boost prices even more](https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:30
+
+#### [Expecting an inheritance? Don’t count on it.](https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:28
+
+#### [Walmart’s advertising empire is booming. Here’s what it could target next.](https://www.marketwatch.com/story/walmarts-advertising-empire-is-booming-heres-what-it-could-target-next-7e30fb74?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 21:23
 
 ---
 
