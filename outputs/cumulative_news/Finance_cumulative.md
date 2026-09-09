@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-09 01:09
+**最后更新时间**: 2026-09-09 09:30
+
+---
+
+## 🆕 最新更新 (2026-09-09 09:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?](https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 09:15
+
+#### [How fashion designer Marc Jacobs renovated a $9 million Frank Lloyd Wright house](https://www.marketwatch.com/story/how-fashion-designer-marc-jacobs-renovated-a-9-million-frank-lloyd-wright-house-3fae7d9c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 09:01
+
+#### [‘The View’ host Joy Behar finally sells Hamptons house for about half the original asking price](https://www.marketwatch.com/story/the-view-host-joy-behar-finally-sells-hamptons-house-for-about-half-the-original-asking-price-6e991e03?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 08:58
+
+#### [Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.](https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 08:31
+
+#### [Brent crude reaches $100 as war in Iran intensifies](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 08:27
+
+#### [The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.](https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 07:42
+
+#### [How to create a ‘forever paycheck’ without paying for an annuity](https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 02:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil hits $100 for first time since July](https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 08:49
+
+#### [‘I am the house now’: Bessent warns currency traders not to bet against yen](https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 08:26
+
+#### [Iran turns to crypto to get around sanctions](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [The holes in Trump’s Golden Dome](https://ig.ft.com/golden-dome/?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [How Greece is wooing hedge funds](https://www.ft.com/content/a60fe9fe-3905-44c0-ad32-07762cf44786?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [Warsh might yet be a good Fed chair](https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [Anthropic withheld latest AI model from UK testing agency](https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [EU resists Mario Draghi’s competitiveness cures](https://www.ft.com/content/4dde2b92-eadb-41e3-9fad-c9bf0636010a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 04:00
+
+#### [Investors pay steep fees for access to DeepSeek fundraising](https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 01:55
 
 ---
 

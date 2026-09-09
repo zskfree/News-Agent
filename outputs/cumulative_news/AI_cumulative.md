@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-09 01:06
+**最后更新时间**: 2026-09-09 09:28
+
+---
+
+## 🆕 最新更新 (2026-09-09 09:28)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [去掉「AI」滤镜，IFA 2026还有哪些真亮点？](https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html)
+**发布时间**: 2026-09-09 15:11
+
+#### [2026外滩大会：具身智能开始拼大脑，蚂蚁灵波把机器人送进真实场景](https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html)
+**发布时间**: 2026-09-09 14:07
+
+#### [物理 AI 奔赴广域，追觅户外庭院 IFA 2026交出从核心硬件到商用落地完整答卷](https://www.leiphone.com/category/industrynews/kf4KPltXt4hPhjpt.html)
+**发布时间**: 2026-09-09 11:44
+
+#### [云鲸2026秋季双新品齐发：扫地机器人JX Ultra与洗地机S3 Steam正式亮相](https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html)
+**发布时间**: 2026-09-09 10:53
+
+#### [ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D 空间感知与度量推理重塑机器人轨迹追踪](https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html)
+**发布时间**: 2026-09-09 10:32
+
+#### [7 篇 ECCV 论文！极佳视界联合顶尖高校，打通空间智能从「看得稳」到「摸得准」再到「决策灵」的落地瓶颈](https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html)
+**发布时间**: 2026-09-09 10:30
+
+#### [群核科技联手英伟达、英特尔、浙大，三篇 ECCV 论文给物理 AI 造基础设施](https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html)
+**发布时间**: 2026-09-09 10:28
+
+#### [腾讯混元、清华、南洋理工联手，「以小博大」破解空间智能算力与记忆断裂难题 | ECCV 2026](https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html)
+**发布时间**: 2026-09-09 10:26
+
+#### [大华股份亮相IFA 2026，以智慧物联焕新生活体验](https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html)
+**发布时间**: 2026-09-09 10:17
+
+#### [规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应](https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html)
+**发布时间**: 2026-09-09 08:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
+**发布时间**: 2026-09-09 05:02
+
+#### [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
+**发布时间**: 2026-09-09 04:52
+
+#### [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
+**发布时间**: 2026-09-09 03:39
+
+#### [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
+**发布时间**: 2026-09-09 02:15
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-09日刊](https://hex2077.dev/docs/2026-09/2026-09-09/)
+**发布时间**: 2026-09-09 03:03
 
 ---
 

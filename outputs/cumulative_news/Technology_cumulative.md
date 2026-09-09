@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-09 01:09
+**最后更新时间**: 2026-09-09 09:30
+
+---
+
+## 🆕 最新更新 (2026-09-09 09:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元](https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 16:30
+
+#### [百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”](https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 15:44
+
+#### [“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团](https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 15:38
+
+#### [火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式](https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 15:27
+
+#### [pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度](https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 15:23
+
+#### [ApsaraMQ × IBM Confluent 实时数据沙龙](https://www.infoq.cn/video/4Bm4yEmkFQiB8hEcmMmW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 14:31
+
+#### [70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”](https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 14:27
+
+#### [如何在人工智能时代开展严谨且可持续的人工审核](https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 14:01
+
+#### [招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%](https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 12:07
+
+#### [Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海](https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 10:00
+
+#### [Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！](https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [DeepSeek Tests Whether Its Cheaper Flash Model Can Displace Pro](https://www.tmtpost.com/8134068.html)
+**发布时间**: 2026-09-09 15:56
+
+#### [从本土化到全球化，中国创新药的进化史](https://www.tmtpost.com/8133645.html)
+**发布时间**: 2026-09-09 15:15
+
+#### [资本不认铜师傅的潮玩故事，但《凡人》粉丝肯买单](https://www.tmtpost.com/8133705.html)
+**发布时间**: 2026-09-09 15:15
+
+#### [DeepSeek开始追求极致的“智能密度”](https://www.tmtpost.com/8133525.html)
+**发布时间**: 2026-09-09 15:15
+
+#### [算力之后，存储成为AI应用落地的“胜负手”](https://www.tmtpost.com/8133976.html)
+**发布时间**: 2026-09-09 14:42
+
+#### [对话杉数科技：大模型跑完上半场，决策式AI接棒落地](https://www.tmtpost.com/8132305.html)
+**发布时间**: 2026-09-09 14:10
+
+#### [小米向上，澎程向下](https://www.tmtpost.com/8133359.html)
+**发布时间**: 2026-09-09 13:45
+
+#### [好想来赵一鸣“缺斤短两”背后](https://www.tmtpost.com/8133398.html)
+**发布时间**: 2026-09-09 13:44
+
+#### [一边英国裁员降本，一边中国造新车：捷豹路虎把未来押在哪？](https://www.tmtpost.com/8133528.html)
+**发布时间**: 2026-09-09 12:19
+
+#### [IFA喧嚣过后的冷思考：刷脸容易，但欧洲人的钱没那么好赚](https://www.tmtpost.com/8133835.html)
+**发布时间**: 2026-09-09 12:18
+
+#### [老百姓心里有杆秤](https://www.tmtpost.com/8133701.html)
+**发布时间**: 2026-09-09 12:09
+
+#### [锅圈食汇万店困局：没有新的故事，只有新的地雷](https://www.tmtpost.com/8133405.html)
+**发布时间**: 2026-09-09 12:09
+
+#### [AI Companions Remain Emotionally Thin While Japanese Users Pay Deeply for Scripted Intimacy](https://www.tmtpost.com/8133822.html)
+**发布时间**: 2026-09-09 11:25
+
+#### [阿里健康不能一直“等风来”](https://www.tmtpost.com/8133088.html)
+**发布时间**: 2026-09-09 11:00
+
+#### [V4.1 Flash内测，梁文锋又当回了梁圣](https://www.tmtpost.com/8133350.html)
+**发布时间**: 2026-09-09 10:59
+
+#### [百迈科登陆北交所，一家“隐形冠军”的国产替代二十年](https://www.tmtpost.com/8133737.html)
+**发布时间**: 2026-09-09 10:48
+
+#### [朝阳的仓库与城堡——万千气象看北京](https://www.tmtpost.com/8133688.html)
+**发布时间**: 2026-09-09 10:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [千问办公发布多人工作台，重写企业软件的最后一公里](http://www.geekpark.net/news/370061)
+**发布时间**: 2026-09-09 15:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+**发布时间**: 2026-09-09 15:03
+
+#### [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+**发布时间**: 2026-09-09 11:00
 
 ---
 
