@@ -379,6 +379,66 @@
         "link": "https://www.tmtpost.com/8133380.html",
         "published_date": "Wed, 09 Sep 2026 18:59:00 GMT",
         "first_seen": "2026-09-10T00:57:57.697159"
+      },
+      "45322a14661a6695fcb7152c4839e4f0f1bc79861604a786d85ad4b074bd6c65": {
+        "title": "Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？",
+        "link": "https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 16:06:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218535"
+      },
+      "9555e332798210cb9e536e18ce109b2dcc6fa3db4bd37e60c7f965ee156fda8b": {
+        "title": "苹果发布史上最贵iPhone，特努斯时代还没来",
+        "link": "https://www.tmtpost.com/8134765.html",
+        "published_date": "Thu, 10 Sep 2026 11:13:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218551"
+      },
+      "f6f336fbb6abdebd003acf55125ba2f5d43c9ad44853a5d0442308252d4d6fc3": {
+        "title": "PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "link": "https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:16:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218554"
+      },
+      "d38bb62fd2018261b4580f0bee88c73c914a52ebbf638db6bc28dd64f651bd6b": {
+        "title": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "link": "https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:15:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218556"
+      },
+      "5f27fc5c15d48561f2359c56f5b51b4bd692bc3efda7282a137fbd0c8663c401": {
+        "title": "把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？",
+        "link": "https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:10:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218558"
+      },
+      "e8c7d6ab4d3d5d6e2d27c83c2dac9fec70d583433809fd65c02dba061c96b58c": {
+        "title": "参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache",
+        "link": "https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:06:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218560"
+      },
+      "be9e021b1c696bf472e635e8f4c593d1e6d2dbe35e4776f8cdfc14d3e92174fa": {
+        "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
+        "link": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 14:21:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218561"
+      },
+      "38ac6210cb366c176f8073cef880ba60b8fbbc313f0f157034212d890fa3323f": {
+        "title": "14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
+        "link": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 12:46:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218563"
+      },
+      "b4c59c58991410bcbbfa83e810294dde6da423f2fc692df7115c6ede4df4eacc": {
+        "title": "Airbnb 采用服务端驱动架构，身份验证代码量减少 60%",
+        "link": "https://www.infoq.cn/article/CKpxx7ZtuZ7wLJ1CqF0i?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 12:46:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218564"
+      },
+      "c29ac819cc4d8bdd3956db5cd4d37d79f75f7f05c8fd60788cc7eca8d3726817": {
+        "title": "诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+        "link": "https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 11:27:00 GMT",
+        "first_seen": "2026-09-10T09:28:55.218566"
       }
     },
     "Finance": {
@@ -735,6 +795,66 @@
         "link": "https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1",
         "published_date": "Wed, 09 Sep 2026 11:35:00 GMT",
         "first_seen": "2026-09-10T00:58:16.513925"
+      },
+      "4a420103ac6f27984ee2f00923be4b1fe41cda779d7526fb2c3b1ccd6c090d60": {
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 07:29:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042010"
+      },
+      "1ef13c3aaf27c1f5a8a87c58e3c8c1aeaa0d8de2a5ba2c392f41ffcd04d63b52": {
+        "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+        "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 02:04:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042019"
+      },
+      "b69aff42b864f36ed3642bfea48fb9d0e0dc2c6cc946f90c2d66dab4a035e611": {
+        "title": "Must high bond yields crack stocks?",
+        "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 05:30:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042021"
+      },
+      "b148f56922d2e02f451096dc5fe2c4f3514a448fa648b5192501b0b137aeaae1": {
+        "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms",
+        "link": "https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:21:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042023"
+      },
+      "c63f81a2a8c223e5c2f8035275ca9f71d16192b4c6f70579f72ca2d182f112b1": {
+        "title": "Japan must raise rates, central banker says",
+        "link": "https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:07:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042025"
+      },
+      "ee282ea79e1011d328064c40c3aa4828de485e470477498ef9d5a82a6115404c": {
+        "title": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
+        "link": "https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042026"
+      },
+      "55335db72f678bea4586baac61f2c3d94c796d5b6c4de53483522aac34e2550a": {
+        "title": "Silicon Valley bets on the impossible again",
+        "link": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042028"
+      },
+      "7e08eebf29b07c31094d8686756941dc196ee256c7f299abee568e2df4572d2d": {
+        "title": "The end of the ‘win-win’ era",
+        "link": "https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042029"
+      },
+      "d0d22f9e5ed4c64761bca3edd8370fc041eb99797bb332157a35b9b78e16e215": {
+        "title": "How Ukraine’s anti-graft bureau became a ‘Sword of Damocles’",
+        "link": "https://www.ft.com/content/da5e731b-3f93-45f2-a566-1d9db0e1aa5f?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042031"
+      },
+      "617eba949238c959d20e1b9eaff9ac359b8d2ca06746eb824a613875b1de9132": {
+        "title": "Dorchester to sell Qatari sheikh’s car over unpaid £460,000 bill",
+        "link": "https://www.ft.com/content/031b8b28-8a95-499f-b3f4-216d3b3b70df?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:14.042032"
       }
     },
     "Ai": {
@@ -1055,13 +1175,73 @@
         "link": "https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html",
         "published_date": "Wed, 09 Sep 2026 18:22:00 GMT",
         "first_seen": "2026-09-10T00:58:07.182356"
+      },
+      "0ef0236b73b3663c0d0b293703dc03f55a31b281fb77c98c71ddfd698bd0a132": {
+        "title": "具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问",
+        "link": "https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html",
+        "published_date": "Thu, 10 Sep 2026 15:15:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684008"
+      },
+      "22cbb8214a3ca3fc9c7f3380006f61bd90a8c830fc220466e7e7b42a4b488805": {
+        "title": "OpenAI 攻克千禧难题？深度拆解 1 万个 Agent 如何造出流体奇点",
+        "link": "https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html",
+        "published_date": "Thu, 10 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684017"
+      },
+      "5f323756fe3782700f6a9bcadb0fb61d704f2b2235f51bd4cf8e03bcf05c0ede": {
+        "title": "Astra 非机器人验证 48 关全通，再见 reCAPTCHA！",
+        "link": "https://www.leiphone.com/category/ai/Gtp7w5jKvxsYNt2J.html",
+        "published_date": "Thu, 10 Sep 2026 14:53:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684019"
+      },
+      "0b290785cb23c53ed3a6e99e707db406d81b59bebe4f9db4420c457fe4fd2597": {
+        "title": "AI办公生态合作，离真正的「双赢」还有多远？",
+        "link": "https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html",
+        "published_date": "Thu, 10 Sep 2026 13:56:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684021"
+      },
+      "7011a36a80c43a549da1e09e902c99f5910c1fdf8b9c9062e0b009590aaaf31e": {
+        "title": "支付宝牵手飞猪，跟\"阿宝\"聊天就能订机票、买门票",
+        "link": "https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html",
+        "published_date": "Thu, 10 Sep 2026 13:51:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684022"
+      },
+      "b9235863c3c551d3d3a2dd565130de21fb95a0552ee5c84558e52ce012d20f0e": {
+        "title": "量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应",
+        "link": "https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html",
+        "published_date": "Thu, 10 Sep 2026 13:50:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684024"
+      },
+      "f6d64f0db611d3915c9948c59bc807e52d13c88ffdfb59b3850fc50c629514ae": {
+        "title": "两项智能体安全团体标准启动，共筑智能体规模化应用安全基线",
+        "link": "https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html",
+        "published_date": "Thu, 10 Sep 2026 12:38:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684025"
+      },
+      "f7aca59821d04cb328772bbd11c2be84465f4e147d8a3966efd1163335561f30": {
+        "title": "普林斯顿王梦迪外滩大会提醒：Ai实现自主发现，并非只需模型更大",
+        "link": "https://www.leiphone.com/category/industrynews/YgfaggooTO5uLodT.html",
+        "published_date": "Thu, 10 Sep 2026 12:33:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684026"
+      },
+      "2a351c359afe42c42b003c22f279cf90df8d4208c9c295a1bc6af3c159e09a60": {
+        "title": "新石器无人车落地韩国济州岛，在旅游业率先投入运营",
+        "link": "https://www.leiphone.com/category/industrynews/ZeqG40AkPzDYdNWb.html",
+        "published_date": "Thu, 10 Sep 2026 12:20:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684028"
+      },
+      "4e622ea75573edb61f9f763423098787719ae80ea7c73fc6cfb31ac29d78cdc9": {
+        "title": "亚太唯一！阿里云首次进入 Gartner 战略云平台“领导者”象限",
+        "link": "https://www.leiphone.com/category/industrynews/TW83tl3MtFeT972q.html",
+        "published_date": "Thu, 10 Sep 2026 12:05:00 GMT",
+        "first_seen": "2026-09-10T09:29:04.684029"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-10T00:57:57.697160",
-    "Finance": "2026-09-10T00:58:16.513927",
-    "Ai": "2026-09-10T00:58:07.182358"
+    "Technology": "2026-09-10T09:28:55.218568",
+    "Finance": "2026-09-10T09:29:14.042034",
+    "Ai": "2026-09-10T09:29:04.684031"
   }
 }

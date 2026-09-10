@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-10 00:57
+**最后更新时间**: 2026-09-10 09:28
+
+---
+
+## 🆕 最新更新 (2026-09-10 09:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties](https://www.marketwatch.com/story/this-is-the-advice-comedian-tiffany-haddish-got-that-helped-her-build-a-real-estate-portfolio-of-17-properties-0d981f1e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 09:04
+
+#### [Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances](https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 08:47
+
+#### [With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term](https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 07:29
+
+#### [Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.](https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 03:00
+
+#### [Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 02:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Must high bond yields crack stocks?](https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 05:30
+
+#### [Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms](https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:21
+
+#### [Japan must raise rates, central banker says](https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:07
+
+#### [IMF ditched top candidate for chief economist job over Trump tariff remarks](https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [Silicon Valley bets on the impossible again](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [The end of the ‘win-win’ era](https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [How Ukraine’s anti-graft bureau became a ‘Sword of Damocles’](https://www.ft.com/content/da5e731b-3f93-45f2-a566-1d9db0e1aa5f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [Dorchester to sell Qatari sheikh’s car over unpaid £460,000 bill](https://www.ft.com/content/031b8b28-8a95-499f-b3f4-216d3b3b70df?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [US-China borrowing costs diverge to widest level ever](https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 03:54
 
 ---
 

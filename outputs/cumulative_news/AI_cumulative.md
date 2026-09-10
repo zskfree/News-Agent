@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-10 00:55
+**最后更新时间**: 2026-09-10 09:27
+
+---
+
+## 🆕 最新更新 (2026-09-10 09:27)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问](https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html)
+**发布时间**: 2026-09-10 15:15
+
+#### [OpenAI 攻克千禧难题？深度拆解 1 万个 Agent 如何造出流体奇点](https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html)
+**发布时间**: 2026-09-10 15:00
+
+#### [Astra 非机器人验证 48 关全通，再见 reCAPTCHA！](https://www.leiphone.com/category/ai/Gtp7w5jKvxsYNt2J.html)
+**发布时间**: 2026-09-10 14:53
+
+#### [AI办公生态合作，离真正的「双赢」还有多远？](https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html)
+**发布时间**: 2026-09-10 13:56
+
+#### [支付宝牵手飞猪，跟"阿宝"聊天就能订机票、买门票](https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html)
+**发布时间**: 2026-09-10 13:51
+
+#### [量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应](https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html)
+**发布时间**: 2026-09-10 13:50
+
+#### [两项智能体安全团体标准启动，共筑智能体规模化应用安全基线](https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html)
+**发布时间**: 2026-09-10 12:38
+
+#### [普林斯顿王梦迪外滩大会提醒：Ai实现自主发现，并非只需模型更大](https://www.leiphone.com/category/industrynews/YgfaggooTO5uLodT.html)
+**发布时间**: 2026-09-10 12:33
+
+#### [新石器无人车落地韩国济州岛，在旅游业率先投入运营](https://www.leiphone.com/category/industrynews/ZeqG40AkPzDYdNWb.html)
+**发布时间**: 2026-09-10 12:20
+
+#### [亚太唯一！阿里云首次进入 Gartner 战略云平台“领导者”象限](https://www.leiphone.com/category/industrynews/TW83tl3MtFeT972q.html)
+**发布时间**: 2026-09-10 12:05
+
+#### [15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶](https://www.leiphone.com/category/industrynews/5VPkJnqmy14BdymX.html)
+**发布时间**: 2026-09-10 10:27
+
+#### [15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶](https://www.leiphone.com/category/industrynews/ylOQp1pLexaxs32B.html)
+**发布时间**: 2026-09-10 10:24
+
+#### [百度营销擎舵3.0与智能投放重磅发布，双擎驱动AI营销增长新范式](https://www.leiphone.com/category/industrynews/yUOwpaiKQhm2TIFI.html)
+**发布时间**: 2026-09-10 10:08
+
+#### [营销科技巨头蓝色光标与全球达人营销 AI 平台 AhaCreator 达成深度合作，让品牌更高效连接全球 500 万创作者](https://www.leiphone.com/category/industrynews/SryBDMCG0EzBrvqk.html)
+**发布时间**: 2026-09-10 09:55
+
+#### [国内首个"产品级"技术实力评价服务上线](https://www.leiphone.com/category/industrynews/jjKrlqNpJ3OPIlQk.html)
+**发布时间**: 2026-09-10 09:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+**发布时间**: 2026-09-10 08:17
+
+#### [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
+**发布时间**: 2026-09-10 07:57
+
+#### [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
+**发布时间**: 2026-09-10 07:44
+
+#### [AGI时代的第一个生图模型，ChatGPT Images 2.5上线](https://www.qbitai.com/2026/09/486684.html)
+**发布时间**: 2026-09-10 07:25
+
+#### [营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者](https://www.qbitai.com/2026/09/486651.html)
+**发布时间**: 2026-09-10 06:25
+
+#### [一周连发6个模型！这家公司把具身智能的闭环跑通了](https://www.qbitai.com/2026/09/486625.html)
+**发布时间**: 2026-09-10 04:55
+
+#### [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
+**发布时间**: 2026-09-10 01:39
+
+#### [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
+**发布时间**: 2026-09-10 00:42
 
 ---
 
