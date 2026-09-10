@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-09 09:28
+**最后更新时间**: 2026-09-10 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-10 00:55)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM](https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/)
+**发布时间**: 2026-09-09 22:26
+
+#### [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/)
+**发布时间**: 2026-09-09 20:01
+
+#### [How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-09 18:11
+
+#### [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/)
+**发布时间**: 2026-09-09 15:51
+
+#### [Automate user-level custom permissions for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/)
+**发布时间**: 2026-09-09 15:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
+**发布时间**: 2026-09-09 19:24
+
+#### [实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug](https://www.qbitai.com/2026/09/486374.html)
+**发布时间**: 2026-09-09 10:02
+
+#### [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+**发布时间**: 2026-09-09 09:57
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”](https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html)
+**发布时间**: 2026-09-09 19:20
+
+#### [全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉](https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html)
+**发布时间**: 2026-09-09 18:22
+
+#### [阿里国际站9月采购节首周开门红：买驱GMV同比增长近20%](https://www.leiphone.com/category/industrynews/mMUTuLmEVPxWmBVW.html)
+**发布时间**: 2026-09-09 17:48
+
+#### [300余城Apple授权店将在美团闪购首发iPhone新品：现货最快30分钟送达](https://www.leiphone.com/category/industrynews/3cjNjz7w9CoMvz8I.html)
+**发布时间**: 2026-09-09 17:33
+
+#### [萨金特谈AI新经济：AI仍处于“开普勒阶段”，面对未知最需要保持谦逊](https://www.leiphone.com/category/industrynews/M2UgtoHJVKUZw57n.html)
+**发布时间**: 2026-09-09 16:04
+
+#### [蚂蚁阿福与河北肿瘤医院在癌症领域取得研究突破：用AI提前预测胃癌术后风险](https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html)
+**发布时间**: 2026-09-09 15:49
+
+#### [从Demo到1000万次真实作业，万勋发布NOVA2.0柔性具身大脑](https://www.leiphone.com/category/robot/tEzDlRIgiHsXV8B0.html)
+**发布时间**: 2026-09-09 15:32
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines](https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909)
+**发布时间**: 2026-09-09 16:40
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC](https://blogs.nvidia.com/blog/ibc-news-2026/)
+**发布时间**: 2026-09-09 16:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series)
+**发布时间**: 2026-09-09 15:36
 
 ---
 

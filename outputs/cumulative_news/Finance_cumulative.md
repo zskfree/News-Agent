@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-09 09:30
+**最后更新时间**: 2026-09-10 00:57
+
+---
+
+## 🆕 最新更新 (2026-09-10 00:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China warns bankers not to flood IPO market with ‘low-quality’ companies](https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 00:45
+
+#### [Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices](https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 22:51
+
+#### [Drone almost struck Zelenskyy’s plane, says Ukraine](https://www.ft.com/content/4fc1dc2e-f0d7-433c-8e96-bc1e8923dcbc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 22:09
+
+#### [Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’](https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 20:47
+
+#### [Hunter Biden’s $LAPTOP memecoin crashes shortly after launch](https://www.ft.com/content/5f8a49b5-cded-4c6c-ba26-e33213b40ee2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 20:06
+
+#### [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 18:22
+
+#### [US spy chief prepares for greater role in Russia-Ukraine talks](https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 18:05
+
+#### [‘I am the house now’: Bessent warns traders not to bet against yen](https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 15:48
+
+#### [The curse of supporting the NFL’s worst team](https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 15:09
+
+#### [Kushner and Witkoff’s blind amateurism](https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 11:35
+
+#### [Anthropic researcher quits over AI labs ‘gambling with our lives’](https://www.ft.com/content/20c07191-8da6-440f-b04b-8ea0ebdd9153?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 09:31
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.](https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:51
+
+#### [I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:30
+
+#### [Home-insurance premiums just hit a record high. Here’s where they spiked the most.](https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:21
+
+#### [Hunter Biden’s memecoin flops, falling 95% just hours after launch](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:02
+
+#### [The bull market’s biggest enemy right now could be Bessent’s interventions](https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 21:17
+
+#### [Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 20:36
+
+#### [You should always have energy stocks in your 401(k). Yes, even when oil is at $100.](https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 20:27
+
+#### [Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.](https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 19:40
 
 ---
 

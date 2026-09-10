@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Sep 2026 09:28:00 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 09:31:05 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 00:55:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:58:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>去掉「AI」滤镜，IFA 2026还有哪些真亮点？</title>
-      <link>https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html</link>
-      <description>&lt;![CDATA[去掉「AI」滤镜，IFA 2026还有哪些真亮点？]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html</guid>
+      <title>Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/</link>
+      <description>&lt;![CDATA[Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 22:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026外滩大会：具身智能开始拼大脑，蚂蚁灵波把机器人送进真实场景</title>
-      <link>https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html</link>
-      <description>&lt;![CDATA[2026外滩大会：具身智能开始拼大脑，蚂蚁灵波把机器人送进真实场景]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html</guid>
+      <title>ICYMI: What landed for AI builders in August 2026</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/</link>
+      <description>&lt;![CDATA[ICYMI: What landed for AI builders in August 2026]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>物理 AI 奔赴广域，追觅户外庭院 IFA 2026交出从核心硬件到商用落地完整答卷</title>
-      <link>https://www.leiphone.com/category/industrynews/kf4KPltXt4hPhjpt.html</link>
-      <description>&lt;![CDATA[物理 AI 奔赴广域，追觅户外庭院 IFA 2026交出从核心硬件到商用落地完整答卷]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/kf4KPltXt4hPhjpt.html</guid>
+      <title>How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>云鲸2026秋季双新品齐发：扫地机器人JX Ultra与洗地机S3 Steam正式亮相</title>
-      <link>https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html</link>
-      <description>&lt;![CDATA[云鲸2026秋季双新品齐发：扫地机器人JX Ultra与洗地机S3 Steam正式亮相]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html</guid>
+      <title>Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/</link>
+      <description>&lt;![CDATA[Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D 空间感知与度量推理重塑机器人轨迹追踪</title>
-      <link>https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html</link>
-      <description>&lt;![CDATA[ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D 空间感知与度量推理重塑机器人轨迹追踪]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html</guid>
+      <title>Automate user-level custom permissions for Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/</link>
+      <description>&lt;![CDATA[Automate user-level custom permissions for Amazon Quick]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>7 篇 ECCV 论文！极佳视界联合顶尖高校，打通空间智能从「看得稳」到「摸得准」再到「决策灵」的落地瓶颈</title>
-      <link>https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html</link>
-      <description>&lt;![CDATA[7 篇 ECCV 论文！极佳视界联合顶尖高校，打通空间智能从「看得稳」到「摸得准」再到「决策灵」的落地瓶颈]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html</guid>
+      <title>刚刚，苹果首款折叠屏发布！15999元起，AI参与设计</title>
+      <link>https://www.qbitai.com/2026/09/486450.html</link>
+      <description>&lt;![CDATA[刚刚，苹果首款折叠屏发布！15999元起，AI参与设计]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486450.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>群核科技联手英伟达、英特尔、浙大，三篇 ECCV 论文给物理 AI 造基础设施</title>
-      <link>https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html</link>
-      <description>&lt;![CDATA[群核科技联手英伟达、英特尔、浙大，三篇 ECCV 论文给物理 AI 造基础设施]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html</guid>
+      <title>实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug</title>
+      <link>https://www.qbitai.com/2026/09/486374.html</link>
+      <description>&lt;![CDATA[实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486374.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>腾讯混元、清华、南洋理工联手，「以小博大」破解空间智能算力与记忆断裂难题 | ECCV 2026</title>
-      <link>https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html</link>
-      <description>&lt;![CDATA[腾讯混元、清华、南洋理工联手，「以小博大」破解空间智能算力与记忆断裂难题 | ECCV 2026]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html</guid>
+      <title>国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力</title>
+      <link>https://www.qbitai.com/2026/09/486370.html</link>
+      <description>&lt;![CDATA[国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/486370.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大华股份亮相IFA 2026，以智慧物联焕新生活体验</title>
-      <link>https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html</link>
-      <description>&lt;![CDATA[大华股份亮相IFA 2026，以智慧物联焕新生活体验]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html</guid>
+      <title>11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”</title>
+      <link>https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html</link>
+      <description>&lt;![CDATA[11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应</title>
-      <link>https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html</link>
-      <description>&lt;![CDATA[规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html</guid>
+      <title>全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉</title>
+      <link>https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html</link>
+      <description>&lt;![CDATA[全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html</guid>
       <category>Ai</category>
     </item>
   </channel>

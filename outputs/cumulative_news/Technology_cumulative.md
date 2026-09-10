@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-09 09:30
+**最后更新时间**: 2026-09-10 00:57
+
+---
+
+## 🆕 最新更新 (2026-09-10 00:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月10日）](https://www.tmtpost.com/8134718.html)
+**发布时间**: 2026-09-10 08:20
+
+#### [【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市](https://www.tmtpost.com/8134558.html)
+**发布时间**: 2026-09-10 07:20
+
+#### [创始人出局、前妻接掌控制权，我武生物“天价分手费”后市场悬念未止](https://www.tmtpost.com/8134619.html)
+**发布时间**: 2026-09-09 22:47
+
+#### [慕思股份实控人1.58亿受让华脉科技股权，跨界交易照见两公司冷暖](https://www.tmtpost.com/8134556.html)
+**发布时间**: 2026-09-09 21:48
+
+#### [AGI 怎样才算真的来了？](https://www.tmtpost.com/8133380.html)
+**发布时间**: 2026-09-09 18:59
+
+#### [比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困](https://www.tmtpost.com/8133506.html)
+**发布时间**: 2026-09-09 18:59
+
+#### [GPT Image 2.5来了，OpenAI开始抄Banana的作业](https://www.tmtpost.com/8133662.html)
+**发布时间**: 2026-09-09 18:59
+
+#### [俞敏洪找到了“最强打工人”](https://www.tmtpost.com/8133925.html)
+**发布时间**: 2026-09-09 18:50
+
+#### [影石与大疆苦战一年：从千亿市值，到利润归零](https://www.tmtpost.com/8133983.html)
+**发布时间**: 2026-09-09 18:50
+
+#### [二手电脑更好卖，年轻人不想为顶配笔记本买单了](https://www.tmtpost.com/8134098.html)
+**发布时间**: 2026-09-09 18:50
+
+#### [小米造车，雷军卖房？](https://www.tmtpost.com/8134155.html)
+**发布时间**: 2026-09-09 18:50
+
+#### [份额战之后，东南亚电商开始拼闭环 ｜出海参考](https://www.tmtpost.com/8134189.html)
+**发布时间**: 2026-09-09 18:08
+
+#### [拆解几多全：两个月狂开87家，商场盯上了它的流量和承租能力](https://www.tmtpost.com/8133806.html)
+**发布时间**: 2026-09-09 17:58
+
+#### [A股人形机器人中报：估值打到哪一年了？](https://www.tmtpost.com/8133803.html)
+**发布时间**: 2026-09-09 17:58
+
+#### [一天蒸发488亿，摩尔线程跌停之谜](https://www.tmtpost.com/8133783.html)
+**发布时间**: 2026-09-09 17:58
+
+#### [150亿，无锡收获一个机器人IPO](https://www.tmtpost.com/8133805.html)
+**发布时间**: 2026-09-09 17:58
+
+#### [麦趣尔闯不过“致命拐点”](https://www.tmtpost.com/8133633.html)
+**发布时间**: 2026-09-09 17:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
+**发布时间**: 2026-09-10 06:38
+
+#### [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
+**发布时间**: 2026-09-10 05:30
+
+#### [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
+**发布时间**: 2026-09-10 05:21
+
+#### [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
+**发布时间**: 2026-09-09 17:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果第一台折叠 iPhone，15999 元起](http://www.geekpark.net/news/370088)
+**发布时间**: 2026-09-10 03:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Harness 到 Loop 的持续进化](https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 01:04
+
+#### [技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 18:39
+
+#### [Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式](https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 18:34
+
+#### [当 Agent 开始写应用，数据库也得换一套打法](https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 18:27
+
+#### [面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 18:17
+
+#### [jQuery 二十年：一个小小的库如何重塑了 Web 开发](https://www.infoq.cn/article/qqfyJFd6mGXvErcfmyYI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 17:37
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [清华开源的 Agent 交互学习神器，又登上 GitHub 热榜了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536751&idx=1&sn=e3541241f8bd5cf8f3a3883dad32ce69)
+**发布时间**: 2026-09-09 11:01
 
 ---
 
