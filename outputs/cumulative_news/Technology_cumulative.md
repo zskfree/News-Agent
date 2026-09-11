@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-11 00:56
+**最后更新时间**: 2026-09-11 09:31
+
+---
+
+## 🆕 最新更新 (2026-09-11 09:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [抖音即将“上架”AI应用，大厂抢滩下一代分发入口](https://www.tmtpost.com/8136749.html)
+**发布时间**: 2026-09-11 17:10
+
+#### [人形机器人是噱头？国产已完成手术](https://www.tmtpost.com/8136870.html)
+**发布时间**: 2026-09-11 17:10
+
+#### [88小时vs90年，当AI暴力给出答案，人类研究是否还有意义？](https://www.tmtpost.com/8136959.html)
+**发布时间**: 2026-09-11 17:10
+
+#### [成功率只有千分之一，AI短剧几乎全员亏损](https://www.tmtpost.com/8136816.html)
+**发布时间**: 2026-09-11 17:10
+
+#### [医疗AI投资人，正在香港抢博士](https://www.tmtpost.com/8136878.html)
+**发布时间**: 2026-09-11 17:09
+
+#### [有人吃肉，有人挨饿，休闲食品2026年半年报里的生死局](https://www.tmtpost.com/8136872.html)
+**发布时间**: 2026-09-11 16:59
+
+#### [东亚教育的“卷”，正在被AI重新出口](https://www.tmtpost.com/8136839.html)
+**发布时间**: 2026-09-11 16:55
+
+#### [一批脑机创业者带着几十亿融资“西进”](https://www.tmtpost.com/8136876.html)
+**发布时间**: 2026-09-11 16:55
+
+#### [再涨价，CPU又变天了？](https://www.tmtpost.com/8136929.html)
+**发布时间**: 2026-09-11 16:55
+
+#### [一头猪、一只鸡，能被“吃干榨净”到什么程度？](https://www.tmtpost.com/8135262.html)
+**发布时间**: 2026-09-11 14:32
+
+#### [一台人形机器人，到底要工作多久才能回本？](https://www.tmtpost.com/8136661.html)
+**发布时间**: 2026-09-11 14:32
+
+#### [江淮汽车：估值回到“尊界”原点](https://www.tmtpost.com/8136363.html)
+**发布时间**: 2026-09-11 14:11
+
+#### [31家民营医疗服务公司中报大解读：医院越开越多，钱却越来越难赚](https://www.tmtpost.com/8136424.html)
+**发布时间**: 2026-09-11 14:03
+
+#### [超强厄尔尼诺影响产能，铝产业链的两极分化正在加剧](https://www.tmtpost.com/8136309.html)
+**发布时间**: 2026-09-11 13:58
+
+#### [九月开学，我老板的拼豆店彻底凉了](https://www.tmtpost.com/8136564.html)
+**发布时间**: 2026-09-11 13:58
+
+#### [AI找到一种肺药，吃4周“年轻”3岁](https://www.tmtpost.com/8136514.html)
+**发布时间**: 2026-09-11 13:58
+
+#### [诺华一日蒸发近300亿美元：原研药的"时间权"正在贬值](https://www.tmtpost.com/8136592.html)
+**发布时间**: 2026-09-11 13:57
+
+#### [苹果折叠苹果](https://www.tmtpost.com/8136335.html)
+**发布时间**: 2026-09-11 12:49
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验](https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 17:00
+
+#### [当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察](https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 16:10
+
+#### [Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业](https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 14:40
+
+#### [AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化](https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 13:36
+
+#### [vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护](https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 13:05
+
+#### [刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话](https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 13:00
+
+#### [一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量](https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 12:41
+
+#### [AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同](https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 12:30
+
+#### [Azure API Management Standard v2 支持区域冗余](https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 11:17
+
+#### [端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海](https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 10:00
+
+#### [从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？](https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 10:00
+
+#### [1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站](https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 09:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
+**发布时间**: 2026-09-11 16:30
+
+#### [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
+**发布时间**: 2026-09-11 14:50
+
+#### [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
+**发布时间**: 2026-09-11 12:00
 
 ---
 

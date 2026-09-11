@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Sep 2026 00:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 00:56:18 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 09:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:31:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道</title>
-      <link>http://www.geekpark.net/news/370157</link>
-      <description>&lt;![CDATA[DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370157</guid>
+      <title>HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验</title>
+      <link>https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[HashiCorp Packer 1.16 发布，支持机器镜像 SLSA 来源证明生成与核验]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/v3VX3eqmROVDJ38rQOh0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元</title>
-      <link>https://www.tmtpost.com/8135740.html</link>
-      <description>&lt;![CDATA[【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135740.html</guid>
+      <title>AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化</title>
+      <link>https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 13:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI无限拉低创作门槛，内容平台怎么讲新故事</title>
-      <link>https://www.tmtpost.com/8135602.html</link>
-      <description>&lt;![CDATA[AI无限拉低创作门槛，内容平台怎么讲新故事]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 21:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135602.html</guid>
+      <title>vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护</title>
+      <link>https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 13:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代</title>
-      <link>https://www.tmtpost.com/8135640.html</link>
-      <description>&lt;![CDATA[九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 21:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135640.html</guid>
+      <title>AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同</title>
+      <link>https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这位国际基金经理正重仓押注银行和能源，但不看好科技股</title>
-      <link>https://www.tmtpost.com/8135613.html</link>
-      <description>&lt;![CDATA[这位国际基金经理正重仓押注银行和能源，但不看好科技股]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135613.html</guid>
+      <title>iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事</title>
+      <link>https://sspai.com/post/114449</link>
+      <description>&lt;![CDATA[iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114449</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来</title>
-      <link>https://www.tmtpost.com/8135077.html</link>
-      <description>&lt;![CDATA[GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135077.html</guid>
+      <title>抖音即将“上架”AI应用，大厂抢滩下一代分发入口</title>
+      <link>https://www.tmtpost.com/8136749.html</link>
+      <description>&lt;![CDATA[抖音即将“上架”AI应用，大厂抢滩下一代分发入口]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8136749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026 腾讯云大数据年度精选技术实践指南</title>
-      <link>https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[2026 腾讯云大数据年度精选技术实践指南]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 20:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>人形机器人是噱头？国产已完成手术</title>
+      <link>https://www.tmtpost.com/8136870.html</link>
+      <description>&lt;![CDATA[人形机器人是噱头？国产已完成手术]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8136870.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>走出聊天框，Agent 开始进入现实世界</title>
-      <link>http://www.geekpark.net/news/370064</link>
-      <description>&lt;![CDATA[走出聊天框，Agent 开始进入现实世界]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 21:39:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370064</guid>
+      <title>88小时vs90年，当AI暴力给出答案，人类研究是否还有意义？</title>
+      <link>https://www.tmtpost.com/8136959.html</link>
+      <description>&lt;![CDATA[88小时vs90年，当AI暴力给出答案，人类研究是否还有意义？]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8136959.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微信，悄悄迈出 AI 社交的第一步</title>
-      <link>http://www.geekpark.net/news/370155</link>
-      <description>&lt;![CDATA[微信，悄悄迈出 AI 社交的第一步]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 21:36:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370155</guid>
+      <title>成功率只有千分之一，AI短剧几乎全员亏损</title>
+      <link>https://www.tmtpost.com/8136816.html</link>
+      <description>&lt;![CDATA[成功率只有千分之一，AI短剧几乎全员亏损]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8136816.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑</title>
-      <link>http://www.geekpark.net/news/370150</link>
-      <description>&lt;![CDATA[对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370150</guid>
+      <title>医疗AI投资人，正在香港抢博士</title>
+      <link>https://www.tmtpost.com/8136878.html</link>
+      <description>&lt;![CDATA[医疗AI投资人，正在香港抢博士]]&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8136878.html</guid>
       <category>Technology</category>
     </item>
   </channel>

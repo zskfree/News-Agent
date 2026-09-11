@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-11 00:53
+**最后更新时间**: 2026-09-11 09:25
+
+---
+
+## 🆕 最新更新 (2026-09-11 09:25)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [豆包工作新增本地Office编辑、浏览器录制与回放等功能](https://www.leiphone.com/category/industrynews/yxQfJirnLSi8BOoA.html)
+**发布时间**: 2026-09-11 15:21
+
+#### [支付宝“碰一下”三年三连跳：从支付、连接到经营](https://www.leiphone.com/category/industrynews/5OJHmXu4zqpsYkk3.html)
+**发布时间**: 2026-09-11 14:45
+
+#### [新石器L4级无人车开展日本首测](https://www.leiphone.com/category/industrynews/iYgTdJzoP107I4qa.html)
+**发布时间**: 2026-09-11 14:34
+
+#### [碳硅道统：五级梯队的智能分级与十维标尺的对应](https://www.leiphone.com/category/industrynews/GnvSuKkQXe3JRPJE.html)
+**发布时间**: 2026-09-11 14:02
+
+#### [碳硅道统：100质询的反证力量与觉知链的完整闭环](https://www.leiphone.com/category/industrynews/FQFJwTQvuiRQbu2q.html)
+**发布时间**: 2026-09-11 13:59
+
+#### [碳硅道统：紫微几何的三圈层拓扑与90公律的推导链](https://www.leiphone.com/category/industrynews/h7SYqtL9IVveHAuO.html)
+**发布时间**: 2026-09-11 13:56
+
+#### [Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”](https://www.leiphone.com/category/industrynews/wH6gNreENqAYh0EW.html)
+**发布时间**: 2026-09-11 12:42
+
+#### [联手格致论道！外滩大会创新者舞台向未知科技发起“试探”](https://www.leiphone.com/category/industrynews/qrSDtCBP43g8VOim.html)
+**发布时间**: 2026-09-11 12:34
+
+#### [阿里云Token Plan个人版升级：加量不加价，新增12类Agent Harness工具](https://www.leiphone.com/category/industrynews/IbRxUXgE35rsi98b.html)
+**发布时间**: 2026-09-11 12:28
+
+#### [30万件iPhone Duo新配件已在速卖通上架，全球开售](https://www.leiphone.com/category/industrynews/6cjon1S5ot52wWrc.html)
+**发布时间**: 2026-09-11 12:08
+
+#### [文旅行业加速迈入智能服务时代，黄山、万岁山等景区接入支付宝"阿宝"](https://www.leiphone.com/category/industrynews/DQPAnyOUCjOHfOfb.html)
+**发布时间**: 2026-09-11 11:02
+
+#### [申报量较首届增长近4倍，2026蚂蚁InTech奖在外滩大会揭晓](https://www.leiphone.com/category/industrynews/udT6VNcjzp53ZOxl.html)
+**发布时间**: 2026-09-11 09:47
+
+#### [碳硅道统：十维标尺的模型度量](https://www.leiphone.com/category/industrynews/axZgHIEEb5Xpoh4A.html)
+**发布时间**: 2026-09-11 09:44
+
+#### [碳硅道统：归零稳态的系统边界 |  边界先行确立，架构随之收敛](https://www.leiphone.com/category/industrynews/ZHU0W8KYCimHlbZh.html)
+**发布时间**: 2026-09-11 09:42
+
+#### [世界模型如何走向物理世界？看看这些专家怎么说](https://www.leiphone.com/category/industrynews/ep5FMJuV8lEiAJgr.html)
+**发布时间**: 2026-09-11 09:39
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济](https://www.qbitai.com/2026/09/487273.html)
+**发布时间**: 2026-09-11 06:19
+
+#### [量子位「MEET2027智能未来大会」启动！年度榜单征集进行中](https://www.qbitai.com/2026/09/487176.html)
+**发布时间**: 2026-09-11 03:57
+
+#### [3万台无人车之后，这家公司盯上了城市级物理AI](https://www.qbitai.com/2026/09/487163.html)
+**发布时间**: 2026-09-11 02:50
+
+#### [OpenAI这是拿千禧年难题当Benchmark刷啊。。。](https://www.qbitai.com/2026/09/487092.html)
+**发布时间**: 2026-09-11 01:46
+
+#### [吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞](https://www.qbitai.com/2026/09/487055.html)
+**发布时间**: 2026-09-11 00:55
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-11日刊](https://hex2077.dev/docs/2026-09/2026-09-11/)
+**发布时间**: 2026-09-11 03:06
 
 ---
 
