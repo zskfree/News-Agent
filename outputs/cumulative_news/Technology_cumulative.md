@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-10 09:28
+**最后更新时间**: 2026-09-11 00:56
+
+---
+
+## 🆕 最新更新 (2026-09-11 00:56)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道](http://www.geekpark.net/news/370157)
+**发布时间**: 2026-09-11 08:31
+
+#### [走出聊天框，Agent 开始进入现实世界](http://www.geekpark.net/news/370064)
+**发布时间**: 2026-09-10 21:39
+
+#### [微信，悄悄迈出 AI 社交的第一步](http://www.geekpark.net/news/370155)
+**发布时间**: 2026-09-10 21:36
+
+#### [对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑](http://www.geekpark.net/news/370150)
+**发布时间**: 2026-09-10 19:41
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月11日）](https://www.tmtpost.com/8135907.html)
+**发布时间**: 2026-09-11 08:20
+
+#### [【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元](https://www.tmtpost.com/8135740.html)
+**发布时间**: 2026-09-11 07:20
+
+#### [沃尔玛的低迷让这只股票成为值得买入的选择](https://www.tmtpost.com/8135753.html)
+**发布时间**: 2026-09-10 21:44
+
+#### [AI无限拉低创作门槛，内容平台怎么讲新故事](https://www.tmtpost.com/8135602.html)
+**发布时间**: 2026-09-10 21:19
+
+#### [九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代](https://www.tmtpost.com/8135640.html)
+**发布时间**: 2026-09-10 21:14
+
+#### [Xiaomi Presses Huawei and Apple in China’s Crowded Premium Phone Market](https://www.tmtpost.com/8135693.html)
+**发布时间**: 2026-09-10 20:30
+
+#### [重温此前的股票推荐：Vita Coco、Idacorp、斯巴鲁](https://www.tmtpost.com/8135620.html)
+**发布时间**: 2026-09-10 18:57
+
+#### [欧洲天然气价格飙升至四年来新高，带动这些能源股上涨](https://www.tmtpost.com/8135615.html)
+**发布时间**: 2026-09-10 18:56
+
+#### [这位国际基金经理正重仓押注银行和能源，但不看好科技股](https://www.tmtpost.com/8135613.html)
+**发布时间**: 2026-09-10 18:56
+
+#### [无人车拐点：中国供应链降维打击](https://www.tmtpost.com/8135479.html)
+**发布时间**: 2026-09-10 18:50
+
+#### [智谱“既要又要”](https://www.tmtpost.com/8134990.html)
+**发布时间**: 2026-09-10 18:50
+
+#### [新Siri终于开始理解用户“个人上下文”了](https://www.tmtpost.com/8134782.html)
+**发布时间**: 2026-09-10 18:30
+
+#### [当iPhone终于“折”起来，谁能抢到下一代手机定义权？](https://www.tmtpost.com/8135480.html)
+**发布时间**: 2026-09-10 18:30
+
+#### [GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来](https://www.tmtpost.com/8135077.html)
+**发布时间**: 2026-09-10 18:30
+
+#### [GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移](https://www.tmtpost.com/8134523.html)
+**发布时间**: 2026-09-10 18:12
+
+#### [一支笔、一只狗、一套能力：京东的AI硬件爆款方法论](https://www.tmtpost.com/8135125.html)
+**发布时间**: 2026-09-10 17:56
+
+#### [那只旅行的青蛙，揭开了游戏IP生意最残酷的一面](https://www.tmtpost.com/8134315.html)
+**发布时间**: 2026-09-10 17:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
+**发布时间**: 2026-09-11 06:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [2026 腾讯云大数据年度精选技术实践指南](https://www.infoq.cn/minibook/W2lxNULd8rJGsXWjEgMX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 20:26
+
+#### [Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文](https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 19:57
+
+#### [破除人形崇拜！京东用“狼族”军团重做物理AI](https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 19:28
+
+#### [14岁上清华、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲](https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 12:46
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 又一个 3D 人体可视化项目，AI 能力提升催生新场景。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536791&idx=1&sn=9394a23f73183c0c5cd9ecaa9ea3d581)
+**发布时间**: 2026-09-10 14:39
 
 ---
 

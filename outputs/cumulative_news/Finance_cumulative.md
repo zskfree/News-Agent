@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-10 09:28
+**最后更新时间**: 2026-09-11 00:56
+
+---
+
+## 🆕 最新更新 (2026-09-11 00:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast](https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 00:19
+
+#### [Adobe’s latest earnings leave Wall Street wanting more](https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 00:17
+
+#### [All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping](https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:54
+
+#### [Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.](https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:25
+
+#### [SpaceX is inching closer to this lofty $100 billion milestone](https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:19
+
+#### [Here are the stocks to favor in the fourth quarter — and those you should avoid](https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:02
+
+#### [Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones](https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:40
+
+#### [The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.](https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:39
+
+#### [Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year](https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:26
+
+#### [Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market](https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:24
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oracle’s data centre revenue surges as AI strategy accelerates](https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 22:47
+
+#### [Anthropic says it stopped scientists potentially developing bioweapons with AI](https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 22:27
+
+#### [Global bond sell-off reignites as oil jumps to $109](https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 22:05
+
+#### [How would Trump’s $5,000 voting payout work?](https://www.ft.com/content/a79892a3-c6c2-4c0b-8c3a-a37e9a32cf4f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 18:26
+
+#### [Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields](https://www.ft.com/content/7410c56e-5350-48f8-a5e6-24f37c1581e9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 17:21
+
+#### [Vantage Data Centers seeks $2bn in loans from Pimco and PGIM](https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 16:04
+
+#### [Houthis capture Red Sea port in blow to Saudis](https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 14:31
+
+#### [Hugging Face co-founder: What we learnt from OpenAI’s hack](https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 12:25
+
+#### [Saudi Arabia cuts oil output to lowest this year on Houthi threats](https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 12:06
+
+#### [Starbucks bets $1bn on coffee house antidote to lonely digital lives](https://www.ft.com/content/8d387f65-cdd2-4c6d-8897-ff0db5211cc3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
 
 ---
 

@@ -1,7 +1,115 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-10 09:27
+**最后更新时间**: 2026-09-11 00:53
+
+---
+
+## 🆕 最新更新 (2026-09-11 00:53)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [ToolGrad: Efficient tool-use dataset generation with textual "gradients"](https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/)
+**发布时间**: 2026-09-10 22:50
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference](https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/)
+**发布时间**: 2026-09-10 21:58
+
+#### [Reduce inference cold starts on Amazon SageMaker HyperPod with model caching](https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/)
+**发布时间**: 2026-09-10 21:37
+
+#### [Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0](https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/)
+**发布时间**: 2026-09-10 21:15
+
+#### [Amazon Quick is now generally available on desktop](https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/)
+**发布时间**: 2026-09-10 18:16
+
+#### [Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/)
+**发布时间**: 2026-09-10 16:08
+
+#### [Model-agnostic PII detection with LLMs](https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/)
+**发布时间**: 2026-09-10 16:02
+
+#### [Agent Evaluation Metric for multi-turn conversations](https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/)
+**发布时间**: 2026-09-10 15:55
+
+#### [How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/)
+**发布时间**: 2026-09-10 15:53
+
+#### [Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-09-08 19:12
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手](https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html)
+**发布时间**: 2026-09-10 19:00
+
+#### [蚂蚁数科推出 Agentar 金融版 助力金融机构打造智能体超级工厂](https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html)
+**发布时间**: 2026-09-10 18:49
+
+#### [蚂蚁陈亮：能力决定AI能做什么，可信决定社会敢把什么交给AI](https://www.leiphone.com/category/industrynews/X2TDF0nWzEIkJnmf.html)
+**发布时间**: 2026-09-10 18:47
+
+#### [智象未来 vivago R1 全球上线，国内版本「够搭」全新升级发布：从 15 秒到5 分钟，AI 视频创作进入单反级交付时代](https://www.leiphone.com/category/industrynews/7VtjXHgiuTlhpNkU.html)
+**发布时间**: 2026-09-10 18:43
+
+#### [中国公司牵头ECCV Workshop！多模态AI大牛轮番登台，全球64支团队组团解题](https://www.leiphone.com/category/industrynews/leQr2T2GhOFUoUUP.html)
+**发布时间**: 2026-09-10 18:13
+
+#### [AI业务三位数增长，蚂蚁数科完成AI时代转型](https://www.leiphone.com/category/industrynews/JETaRBG8A3qfkFl4.html)
+**发布时间**: 2026-09-10 17:41
+
+#### [AI 开始学习「想象未来」：ECCV 2026背后，中国学者如何卡位世界模型](https://www.leiphone.com/category/private/N4B8vPY6fPQvqU4Z.html)
+**发布时间**: 2026-09-10 17:32
+
+#### [3D 重建下半场开幕，ECCV 首场14篇Spotlight 把高斯泼溅推到了哪儿](https://www.leiphone.com/category/private/Y0NwlrmFJ8cwjqPE.html)
+**发布时间**: 2026-09-10 17:31
+
+#### [浙大 × 字节 × 港中深最新研究：告别高斯堆砌，终结 3D 冗余｜ECCV 2026](https://www.leiphone.com/category/private/uLL6oyfE4zYMEHyX.html)
+**发布时间**: 2026-09-10 17:30
+
+#### [文远知行获西班牙首张L4级自动驾驶乘用车运营牌照，Robotaxi商业化服务年内上线](https://www.leiphone.com/category/industrynews/E2FB0s9aOU9G6saz.html)
+**发布时间**: 2026-09-10 17:26
+
+#### [碳硅道统：中层拟合域的现实回响 |  标尺不动，事件自行抵达](https://www.leiphone.com/category/industrynews/qSK5aXslh1eHd6A3.html)
+**发布时间**: 2026-09-10 17:23
+
+#### [IDC预测AI数据基础设施迈向万亿级市场，国产数据库迎来新增长空间](https://www.leiphone.com/category/industrynews/xLySQumz46Sec01d.html)
+**发布时间**: 2026-09-10 16:57
+
+#### [中科融合亮相CIOE 2026：以MEMS智能光学连接空间显示与具身智能](https://www.leiphone.com/category/industrynews/AS2iCsOjP7xGiT00.html)
+**发布时间**: 2026-09-10 16:49
+
+#### [成都市武侯区与蚂蚁数科达成合作，共建医疗健康智能应用产业基地](https://www.leiphone.com/category/industrynews/oJM2jBXFBNYGSBtL.html)
+**发布时间**: 2026-09-10 16:26
+
+#### [首个生活场景智能体大奖：支付宝每年1000万激励开发者](https://www.leiphone.com/category/industrynews/osi55rJJYCUZuY7h.html)
+**发布时间**: 2026-09-10 16:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)
+**发布时间**: 2026-09-10 16:30
+
+#### [Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies](https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/)
+**发布时间**: 2026-09-10 16:00
+
+#### [d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment](https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/)
+**发布时间**: 2026-09-10 13:00
+
+#### [Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/)
+**发布时间**: 2026-09-10 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
+**发布时间**: 2026-09-10 10:17
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111)
+**发布时间**: 2026-09-10 00:00
 
 ---
 

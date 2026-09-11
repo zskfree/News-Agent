@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Sep 2026 09:27:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 09:29:04 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 00:53:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:56:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问</title>
-      <link>https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html</link>
-      <description>&lt;![CDATA[具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html</guid>
+      <title>ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;</title>
+      <link>https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</link>
+      <description>&lt;![CDATA[ToolGrad: Efficient tool-use dataset generation with textual &quot;gradients&quot;]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 22:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI 攻克千禧难题？深度拆解 1 万个 Agent 如何造出流体奇点</title>
-      <link>https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html</link>
-      <description>&lt;![CDATA[OpenAI 攻克千禧难题？深度拆解 1 万个 Agent 如何造出流体奇点]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html</guid>
+      <title>Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/</link>
+      <description>&lt;![CDATA[Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 21:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Astra 非机器人验证 48 关全通，再见 reCAPTCHA！</title>
-      <link>https://www.leiphone.com/category/ai/Gtp7w5jKvxsYNt2J.html</link>
-      <description>&lt;![CDATA[Astra 非机器人验证 48 关全通，再见 reCAPTCHA！]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/Gtp7w5jKvxsYNt2J.html</guid>
+      <title>Reduce inference cold starts on Amazon SageMaker HyperPod with model caching</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/</link>
+      <description>&lt;![CDATA[Reduce inference cold starts on Amazon SageMaker HyperPod with model caching]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 21:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI办公生态合作，离真正的「双赢」还有多远？</title>
-      <link>https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html</link>
-      <description>&lt;![CDATA[AI办公生态合作，离真正的「双赢」还有多远？]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 13:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html</guid>
+      <title>Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/</link>
+      <description>&lt;![CDATA[Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 21:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>支付宝牵手飞猪，跟&quot;阿宝&quot;聊天就能订机票、买门票</title>
-      <link>https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html</link>
-      <description>&lt;![CDATA[支付宝牵手飞猪，跟&quot;阿宝&quot;聊天就能订机票、买门票]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 13:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html</guid>
+      <title>Amazon Quick is now generally available on desktop</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/</link>
+      <description>&lt;![CDATA[Amazon Quick is now generally available on desktop]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应</title>
-      <link>https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html</link>
-      <description>&lt;![CDATA[量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html</guid>
+      <title>Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/</link>
+      <description>&lt;![CDATA[Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>两项智能体安全团体标准启动，共筑智能体规模化应用安全基线</title>
-      <link>https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html</link>
-      <description>&lt;![CDATA[两项智能体安全团体标准启动，共筑智能体规模化应用安全基线]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html</guid>
+      <title>Model-agnostic PII detection with LLMs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/</link>
+      <description>&lt;![CDATA[Model-agnostic PII detection with LLMs]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>普林斯顿王梦迪外滩大会提醒：Ai实现自主发现，并非只需模型更大</title>
-      <link>https://www.leiphone.com/category/industrynews/YgfaggooTO5uLodT.html</link>
-      <description>&lt;![CDATA[普林斯顿王梦迪外滩大会提醒：Ai实现自主发现，并非只需模型更大]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YgfaggooTO5uLodT.html</guid>
+      <title>Agent Evaluation Metric for multi-turn conversations</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/</link>
+      <description>&lt;![CDATA[Agent Evaluation Metric for multi-turn conversations]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 15:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>新石器无人车落地韩国济州岛，在旅游业率先投入运营</title>
-      <link>https://www.leiphone.com/category/industrynews/ZeqG40AkPzDYdNWb.html</link>
-      <description>&lt;![CDATA[新石器无人车落地韩国济州岛，在旅游业率先投入运营]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ZeqG40AkPzDYdNWb.html</guid>
+      <title>How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/</link>
+      <description>&lt;![CDATA[How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>亚太唯一！阿里云首次进入 Gartner 战略云平台“领导者”象限</title>
-      <link>https://www.leiphone.com/category/industrynews/TW83tl3MtFeT972q.html</link>
-      <description>&lt;![CDATA[亚太唯一！阿里云首次进入 Gartner 战略云平台“领导者”象限]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TW83tl3MtFeT972q.html</guid>
+      <title>深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手</title>
+      <link>https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html</link>
+      <description>&lt;![CDATA[深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html</guid>
       <category>Ai</category>
     </item>
   </channel>
