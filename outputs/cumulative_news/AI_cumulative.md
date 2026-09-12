@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-12 00:59
+**最后更新时间**: 2026-09-12 09:05
+
+---
+
+## 🆕 最新更新 (2026-09-12 09:05)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI重塑支付：从工具到生态，一场关于价值重估的产业对话](https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html)
+**发布时间**: 2026-09-12 14:43
+
+#### [外滩大会三问具身智能： 模型、数据、生态如何突围？](https://www.leiphone.com/category/industrynews/7lsrguW2f4twY8wp.html)
+**发布时间**: 2026-09-12 14:10
+
+#### [从加油到高速服务，动口不动手：蚂蚁阿宝三大车载AI能力亮相2026外滩大会](https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html)
+**发布时间**: 2026-09-12 13:56
+
+#### [支付宝携手多方共建“一碰通行”生态联盟，推动智慧出行体验全面升级](https://www.leiphone.com/category/industrynews/ybhEq0EjaXTkYCGM.html)
+**发布时间**: 2026-09-12 13:50
+
+#### [外滩大会观察：AI进入产业，数据正在成为新动能](https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html)
+**发布时间**: 2026-09-12 11:06
+
+#### [AI能否自主做研究？听听这些专家怎么说](https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html)
+**发布时间**: 2026-09-12 09:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4](https://www.qbitai.com/2026/09/487701.html)
+**发布时间**: 2026-09-12 07:33
+
+#### [Kimi突发K2.8：性能逼近K3，百万上下文全员开放](https://www.qbitai.com/2026/09/487688.html)
+**发布时间**: 2026-09-12 05:58
+
+#### [陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神](https://www.qbitai.com/2026/09/487653.html)
+**发布时间**: 2026-09-12 04:53
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-12日刊](https://hex2077.dev/docs/2026-09/2026-09-12/)
+**发布时间**: 2026-09-12 03:26
 
 ---
 

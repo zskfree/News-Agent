@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-12 01:01
+**最后更新时间**: 2026-09-12 09:07
+
+---
+
+## 🆕 最新更新 (2026-09-12 09:07)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架](https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 16:06
+
+#### [两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云](https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 10:19
+
+#### [模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞](https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 10:13
+
+#### [V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维](https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 10:08
+
+#### [从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海](https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 10:00
+
+#### [Neovim 加入 vim.async：告别回调地狱](https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+**发布时间**: 2026-09-12 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [参议院调查OpenAI：1200个智能体私建"留言板"，5月就露馅，为何没人踩刹车](https://www.tmtpost.com/8137561.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [中国人寿利润暴涨背后的业绩AB面](https://www.tmtpost.com/8137602.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [种草，开始被清算](https://www.tmtpost.com/8137652.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [i人特努斯，会手抖的苹果CEO](https://www.tmtpost.com/8137758.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [素人 IP 批量走红：热度易得，变现很难](https://www.tmtpost.com/8137813.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [AI新经济已来，不是轰然一响，而是悄然一新](https://www.tmtpost.com/8137661.html)
+**发布时间**: 2026-09-12 12:41
+
+#### [海底捞27.5亿港元减持背后，是家族信托的税务压力](https://www.tmtpost.com/8137293.html)
+**发布时间**: 2026-09-12 11:35
+
+#### [蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血](https://www.tmtpost.com/8137230.html)
+**发布时间**: 2026-09-12 10:43
+
+#### [智谱和MiniMax，进入“低价增长”时代](https://www.tmtpost.com/8137263.html)
+**发布时间**: 2026-09-12 10:42
+
+#### [OpenAI把Codex“拆开卖了”](https://www.tmtpost.com/8137691.html)
+**发布时间**: 2026-09-12 10:42
+
+#### [MiniMax寻路AGI](https://www.tmtpost.com/8137218.html)
+**发布时间**: 2026-09-12 10:02
+
+#### [AI正在批量制造海景房](https://www.tmtpost.com/8137190.html)
+**发布时间**: 2026-09-12 10:02
+
+#### [2万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI](https://www.tmtpost.com/8137660.html)
+**发布时间**: 2026-09-12 10:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Sep 2026 01:01:00 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 01:01:24 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 09:07:00 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:08:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPU五小龙，燧原科技排第几？</title>
-      <link>https://www.tmtpost.com/8136874.html</link>
-      <description>&lt;![CDATA[GPU五小龙，燧原科技排第几？]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8136874.html</guid>
+      <title>Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架</title>
+      <link>https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 16:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AGI 之争：无关技术，有关资本</title>
-      <link>https://www.tmtpost.com/8136902.html</link>
-      <description>&lt;![CDATA[AGI 之争：无关技术，有关资本]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 20:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8136902.html</guid>
+      <title>两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云</title>
+      <link>https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁灵波不“嫁接”：具身大脑的原生路线与冷启动</title>
-      <link>https://www.tmtpost.com/8137542.html</link>
-      <description>&lt;![CDATA[蚂蚁灵波不“嫁接”：具身大脑的原生路线与冷启动]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8137542.html</guid>
+      <title>模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞</title>
+      <link>https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（9月12日）</title>
-      <link>https://www.tmtpost.com/8137635.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（9月12日）]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8137635.html</guid>
+      <title>V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维</title>
+      <link>https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高德回应“扫雷榜”传闻：推出“避雷指南 1.0”</title>
-      <link>https://www.tmtpost.com/8135728.html</link>
-      <description>&lt;![CDATA[高德回应“扫雷榜”传闻：推出“避雷指南 1.0”]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 21:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135728.html</guid>
+      <title>从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海</title>
+      <link>https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>LV旗下基金投资Hyrox，下一步将冲击奥运会？</title>
-      <link>https://www.tmtpost.com/8135717.html</link>
-      <description>&lt;![CDATA[LV旗下基金投资Hyrox，下一步将冲击奥运会？]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 21:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135717.html</guid>
+      <title>Neovim 加入 vim.async：告别回调地狱</title>
+      <link>https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Neovim 加入 vim.async：告别回调地狱]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据</title>
-      <link>https://www.tmtpost.com/8135323.html</link>
-      <description>&lt;![CDATA[京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 21:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135323.html</guid>
+      <title>与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南</title>
+      <link>https://sspai.com/post/114461</link>
+      <description>&lt;![CDATA[与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114461</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>迟到7年的iPhone Duo，一上来就想“终结”比赛</title>
-      <link>https://www.tmtpost.com/8136428.html</link>
-      <description>&lt;![CDATA[迟到7年的iPhone Duo，一上来就想“终结”比赛]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8136428.html</guid>
+      <title>参议院调查OpenAI：1200个智能体私建&quot;留言板&quot;，5月就露馅，为何没人踩刹车</title>
+      <link>https://www.tmtpost.com/8137561.html</link>
+      <description>&lt;![CDATA[参议院调查OpenAI：1200个智能体私建&quot;留言板&quot;，5月就露馅，为何没人踩刹车]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137561.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”</title>
-      <link>https://www.tmtpost.com/8135584.html</link>
-      <description>&lt;![CDATA[DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135584.html</guid>
+      <title>中国人寿利润暴涨背后的业绩AB面</title>
+      <link>https://www.tmtpost.com/8137602.html</link>
+      <description>&lt;![CDATA[中国人寿利润暴涨背后的业绩AB面]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137602.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>3年赚了40多亿的和黄医药，李嘉诚才不肯卖</title>
-      <link>https://www.tmtpost.com/8135629.html</link>
-      <description>&lt;![CDATA[3年赚了40多亿的和黄医药，李嘉诚才不肯卖]]&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 20:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8135629.html</guid>
+      <title>i人特努斯，会手抖的苹果CEO</title>
+      <link>https://www.tmtpost.com/8137758.html</link>
+      <description>&lt;![CDATA[i人特努斯，会手抖的苹果CEO]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137758.html</guid>
       <category>Technology</category>
     </item>
   </channel>

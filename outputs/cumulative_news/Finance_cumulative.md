@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-12 01:01
+**最后更新时间**: 2026-09-12 09:07
+
+---
+
+## 🆕 最新更新 (2026-09-12 09:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US limits air defence time slots for tankers sailing through Hormuz](https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 04:00
+
+#### [We are setting up a generation to fail at school](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 04:00
+
+#### [EU races to Le Pen-proof its agenda](https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 04:00
+
+#### [Booming Brics payments systems seek more cross-border links](https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 04:00
+
+#### [How both sides lost after 9/11](https://www.ft.com/content/d7f197dd-a39a-43dc-a2f9-6204c5876e76?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 15:34
 
 ---
 
