@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-11 09:31
+**最后更新时间**: 2026-09-12 01:01
+
+---
+
+## 🆕 最新更新 (2026-09-12 01:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.](https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 23:54
+
+#### [This investment is safe from both Trump and the Democrats — and it pays 4.7%](https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 22:06
+
+#### [Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity](https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 21:16
+
+#### [Tesla could transform the trucking business — and capitalize on high diesel prices](https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 20:49
+
+#### [Oracle shook off fears about AI spending, but its stock still loses ground](https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 20:45
+
+#### [Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.](https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 20:44
+
+#### [Why Dell and HPE were the S&P 500’s top-performing stocks today](https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 20:30
+
+#### [Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.](https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 20:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Larry Ellison to sell up to $7.5bn worth of Oracle stock](https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 23:48
+
+#### [Early SpaceX investor Atreides hires co-CIO of Lone Pine](https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 22:55
+
+#### [Houthis seize Red Sea islands in lightning offensive](https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 20:56
+
+#### [JPMorgan cut off Situational Awareness lending after AI losses](https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 20:51
+
+#### [Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks](https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 20:21
+
+#### [Is Bessent winning the wrong battle in markets?](https://www.ft.com/content/c3740cd0-3c4c-44d0-b3e8-4ccb1bac65b0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 17:00
+
+#### [Why the AI race has its creators fearing human extinction](https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 16:11
+
+#### [The day that blew America and the world off course](https://www.ft.com/content/b9a48a1b-5896-46fb-91a1-d7beb18a64b7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 10:00
+
+#### [Houthis used Anthropic AI to try to build ballistic missiles](https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 09:02
 
 ---
 

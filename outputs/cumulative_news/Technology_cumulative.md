@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-11 09:31
+**最后更新时间**: 2026-09-12 01:01
+
+---
+
+## 🆕 最新更新 (2026-09-12 01:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [蚂蚁灵波不“嫁接”：具身大脑的原生路线与冷启动](https://www.tmtpost.com/8137542.html)
+**发布时间**: 2026-09-12 08:40
+
+#### [Edge AI Daily 早报（9月12日）](https://www.tmtpost.com/8137635.html)
+**发布时间**: 2026-09-12 08:38
+
+#### [高德回应“扫雷榜”传闻：推出“避雷指南 1.0”](https://www.tmtpost.com/8135728.html)
+**发布时间**: 2026-09-11 21:16
+
+#### [LV旗下基金投资Hyrox，下一步将冲击奥运会？](https://www.tmtpost.com/8135717.html)
+**发布时间**: 2026-09-11 21:16
+
+#### [京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据](https://www.tmtpost.com/8135323.html)
+**发布时间**: 2026-09-11 21:15
+
+#### [GPU五小龙，燧原科技排第几？](https://www.tmtpost.com/8136874.html)
+**发布时间**: 2026-09-11 20:59
+
+#### [迟到7年的iPhone Duo，一上来就想“终结”比赛](https://www.tmtpost.com/8136428.html)
+**发布时间**: 2026-09-11 20:58
+
+#### [DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”](https://www.tmtpost.com/8135584.html)
+**发布时间**: 2026-09-11 20:58
+
+#### [3年赚了40多亿的和黄医药，李嘉诚才不肯卖](https://www.tmtpost.com/8135629.html)
+**发布时间**: 2026-09-11 20:48
+
+#### [摩尔线程解禁即跌停，一场国产GPU的“反厄尔尼诺”现象？](https://www.tmtpost.com/8135737.html)
+**发布时间**: 2026-09-11 20:43
+
+#### [收割“癌王”的人](https://www.tmtpost.com/8136434.html)
+**发布时间**: 2026-09-11 20:42
+
+#### [一文读懂“开票经济”退潮：2026年大宗商品的“隐性供给侧改革”](https://www.tmtpost.com/8136838.html)
+**发布时间**: 2026-09-11 20:42
+
+#### [久量股份2.75亿押注储能：LED主业收缩困局下，新管理层跨界首棋｜并购一线](https://www.tmtpost.com/8137302.html)
+**发布时间**: 2026-09-11 20:37
+
+#### [“无折痕”热搜刷屏，72小时神仙打架，手机厂商在争什么？](https://www.tmtpost.com/8136740.html)
+**发布时间**: 2026-09-11 20:34
+
+#### [法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注](https://www.tmtpost.com/8136831.html)
+**发布时间**: 2026-09-11 20:33
+
+#### [“不可能盈利”的前置仓，又火起来了？](https://www.tmtpost.com/8136977.html)
+**发布时间**: 2026-09-11 20:27
+
+#### [AGI 之争：无关技术，有关资本](https://www.tmtpost.com/8136902.html)
+**发布时间**: 2026-09-11 20:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践](https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 21:06
+
+#### [怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮](https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 21:00
+
+#### [“我们在拿生命做赌注”：造AI的人为何开始密集预警？](https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 19:08
+
+#### [AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践](https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 18:15
+
+#### [“数据比模型重要”成了共识，接下来拼什么？](https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-11 17:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
+**发布时间**: 2026-09-11 18:02
 
 ---
 

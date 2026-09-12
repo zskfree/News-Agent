@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-11 09:25
+**最后更新时间**: 2026-09-12 00:59
+
+---
+
+## 🆕 最新更新 (2026-09-12 00:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从一台车出发到三百城，九识成为城市治理的「运力底座」](https://www.leiphone.com/category/transportation/JXhS5Joxp68qFEmE.html)
+**发布时间**: 2026-09-11 18:54
+
+#### [突破舱驾融合瓶颈，德赛西威给出「双优」新解法](https://www.leiphone.com/category/transportation/cgxm7O53FRlftYwO.html)
+**发布时间**: 2026-09-11 18:46
+
+#### [半世纪前的AI画作到AI歌手线下开唱，2026外滩大会AI艺术节勾勒人机共创新图景](https://www.leiphone.com/category/industrynews/9kc5LWEjsnYINmQO.html)
+**发布时间**: 2026-09-11 17:59
+
+#### [不堆 Transformer，斯坦福吴佳俊如何用物理重新定义多模态融合？｜ECCV 2026](https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html)
+**发布时间**: 2026-09-11 17:39
+
+#### [闲鱼反诈重拳出击：联手警方抓获涉诈人员40余人](https://www.leiphone.com/category/industrynews/JOCrsWfvSRLatm7i.html)
+**发布时间**: 2026-09-11 17:32
+
+#### [AI新经济走向真实商业，蚂蚁APASS构建Agent信任基础设施](https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html)
+**发布时间**: 2026-09-11 17:21
+
+#### [让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0](https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html)
+**发布时间**: 2026-09-11 15:32
+
+#### [金融领域首个智能体安全标准发布](https://www.leiphone.com/category/industrynews/tyenZtjsxcp3OzDb.html)
+**发布时间**: 2026-09-11 15:31
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/)
+**发布时间**: 2026-09-11 18:26
+
+#### [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/)
+**发布时间**: 2026-09-11 18:24
+
+#### [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-11 18:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭](https://www.qbitai.com/2026/09/487631.html)
+**发布时间**: 2026-09-11 18:02
+
+#### [啊？Anthropic最高320万招销售，只为服务Meta](https://www.qbitai.com/2026/09/487573.html)
+**发布时间**: 2026-09-11 14:05
+
+#### [百度秒哒再升级！让最懂业务的人，亲手造自己的系统](https://www.qbitai.com/2026/09/487415.html)
+**发布时间**: 2026-09-11 13:59
+
+#### [不简单，“吃货快乐榜”也全面AI化了](https://www.qbitai.com/2026/09/487282.html)
+**发布时间**: 2026-09-11 08:59
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award](https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911)
+**发布时间**: 2026-09-11 09:45
 
 ---
 
