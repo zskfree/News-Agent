@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-12 09:05
+**最后更新时间**: 2026-09-13 00:41
+
+---
+
+## 🆕 最新更新 (2026-09-13 00:41)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026外滩大会闭幕：50余项科技成果首发首展， 80多个产业合作达成意向](https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html)
+**发布时间**: 2026-09-12 20:14
+
+#### [0团队、1台电脑、全球70国用户，外滩大会见证个人造风者登场](https://www.leiphone.com/category/industrynews/Elgap4KyV9VEWLce.html)
+**发布时间**: 2026-09-12 19:57
+
+#### [从“GPASS”到“灵影”，蚂蚁为AI终端铺设Agent基础设施](https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html)
+**发布时间**: 2026-09-12 17:13
+
+#### [师生激辩外滩大会：云谷学校论坛给出一份“教育AI使用说明书”](https://www.leiphone.com/category/industrynews/0i0LRe3Ohg0FXYk1.html)
+**发布时间**: 2026-09-12 17:01
+
+#### [从完成任务到自主发现，Agent后训练寻找下一个Scaling Law](https://www.leiphone.com/category/industrynews/e7IcZ05CQ6HtNZZ2.html)
+**发布时间**: 2026-09-12 16:40
+
+#### [外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才](https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html)
+**发布时间**: 2026-09-12 15:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选](https://www.qbitai.com/2026/09/487860.html)
+**发布时间**: 2026-09-12 11:38
+
+#### [A社承认Claude安全对齐存在缺陷，但“尚无解决方案”](https://www.qbitai.com/2026/09/487796.html)
+**发布时间**: 2026-09-12 08:49
+
+#### [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/487752.html)
+**发布时间**: 2026-09-12 08:15
 
 ---
 

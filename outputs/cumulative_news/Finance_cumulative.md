@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-12 09:07
+**最后更新时间**: 2026-09-13 00:43
+
+---
+
+## 🆕 最新更新 (2026-09-13 00:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year](https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-12 21:50
+
+#### [Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet](https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories)
+**发布时间**: 2026-09-12 17:20
+
+#### [‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories)
+**发布时间**: 2026-09-12 16:01
+
+#### [My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?](https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories)
+**发布时间**: 2026-09-12 14:01
+
+#### [I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?](https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-12 13:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown](https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 18:14
+
+#### [Larry Ellison cancels $7.5bn Oracle share sale](https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 17:18
+
+#### [India’s central bank tells Tata Sons to take conglomerate public](https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 16:20
+
+#### [Trump says united Ireland ‘inevitable’ and ‘a very cool thing’](https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1)
+**发布时间**: 2026-09-12 12:56
 
 ---
 

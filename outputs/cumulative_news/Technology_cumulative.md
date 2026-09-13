@@ -1,7 +1,43 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-12 09:07
+**最后更新时间**: 2026-09-13 00:43
+
+---
+
+## 🆕 最新更新 (2026-09-13 00:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月13日）](https://www.tmtpost.com/8138092.html)
+**发布时间**: 2026-09-13 08:28
+
+#### [iPhone Duo炒到9万，黄牛贷款百万欲囤货](https://www.tmtpost.com/8137843.html)
+**发布时间**: 2026-09-12 18:53
+
+#### [25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界](https://www.tmtpost.com/8137883.html)
+**发布时间**: 2026-09-12 18:53
+
+#### [中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？](https://www.tmtpost.com/8137851.html)
+**发布时间**: 2026-09-12 18:53
+
+#### [潮宏基，落子豫园](https://www.tmtpost.com/8137853.html)
+**发布时间**: 2026-09-12 18:53
+
+#### [日薪千元的AI实习生，在焦虑什么？](https://www.tmtpost.com/8137900.html)
+**发布时间**: 2026-09-12 18:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话](http://www.geekpark.net/news/370228)
+**发布时间**: 2026-09-13 08:22
+
+#### [AI 时代的「4399」，可把我玩嗨了｜AI 上新](http://www.geekpark.net/news/370227)
+**发布时间**: 2026-09-12 21:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI的新用法，被这群 Builder 带到了外滩大会开发者日](https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-12 20:35
 
 ---
 

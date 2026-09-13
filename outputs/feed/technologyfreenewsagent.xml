@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Sep 2026 09:07:00 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 09:08:03 GMT</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2026 00:43:00 GMT</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:43:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架</title>
-      <link>https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 16:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Edge AI Daily 早报（9月13日）</title>
+      <link>https://www.tmtpost.com/8138092.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（9月13日）]]&gt;</description>
+      <pubDate>Sun, 13 Sep 2026 08:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138092.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云</title>
-      <link>https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>iPhone Duo炒到9万，黄牛贷款百万欲囤货</title>
+      <link>https://www.tmtpost.com/8137843.html</link>
+      <description>&lt;![CDATA[iPhone Duo炒到9万，黄牛贷款百万欲囤货]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137843.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞</title>
-      <link>https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界</title>
+      <link>https://www.tmtpost.com/8137883.html</link>
+      <description>&lt;![CDATA[25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137883.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维</title>
-      <link>https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？</title>
+      <link>https://www.tmtpost.com/8137851.html</link>
+      <description>&lt;![CDATA[中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137851.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海</title>
-      <link>https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>日薪千元的AI实习生，在焦虑什么？</title>
+      <link>https://www.tmtpost.com/8137900.html</link>
+      <description>&lt;![CDATA[日薪千元的AI实习生，在焦虑什么？]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137900.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Neovim 加入 vim.async：告别回调地狱</title>
-      <link>https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Neovim 加入 vim.async：告别回调地狱]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 时代的「4399」，可把我玩嗨了｜AI 上新</title>
+      <link>http://www.geekpark.net/news/370227</link>
+      <description>&lt;![CDATA[AI 时代的「4399」，可把我玩嗨了｜AI 上新]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370227</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南</title>
-      <link>https://sspai.com/post/114461</link>
-      <description>&lt;![CDATA[与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114461</guid>
+      <title>AI的新用法，被这群 Builder 带到了外滩大会开发者日</title>
+      <link>https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI的新用法，被这群 Builder 带到了外滩大会开发者日]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>参议院调查OpenAI：1200个智能体私建&quot;留言板&quot;，5月就露馅，为何没人踩刹车</title>
-      <link>https://www.tmtpost.com/8137561.html</link>
-      <description>&lt;![CDATA[参议院调查OpenAI：1200个智能体私建&quot;留言板&quot;，5月就露馅，为何没人踩刹车]]&gt;</description>
+      <title>素人 IP 批量走红：热度易得，变现很难</title>
+      <link>https://www.tmtpost.com/8137813.html</link>
+      <description>&lt;![CDATA[素人 IP 批量走红：热度易得，变现很难]]&gt;</description>
       <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8137561.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137813.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国人寿利润暴涨背后的业绩AB面</title>
-      <link>https://www.tmtpost.com/8137602.html</link>
-      <description>&lt;![CDATA[中国人寿利润暴涨背后的业绩AB面]]&gt;</description>
+      <title>AI新经济已来，不是轰然一响，而是悄然一新</title>
+      <link>https://www.tmtpost.com/8137661.html</link>
+      <description>&lt;![CDATA[AI新经济已来，不是轰然一响，而是悄然一新]]&gt;</description>
       <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8137602.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137661.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>i人特努斯，会手抖的苹果CEO</title>
-      <link>https://www.tmtpost.com/8137758.html</link>
-      <description>&lt;![CDATA[i人特努斯，会手抖的苹果CEO]]&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8137758.html</guid>
+      <title>海底捞27.5亿港元减持背后，是家族信托的税务压力</title>
+      <link>https://www.tmtpost.com/8137293.html</link>
+      <description>&lt;![CDATA[海底捞27.5亿港元减持背后，是家族信托的税务压力]]&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8137293.html</guid>
       <category>Technology</category>
     </item>
   </channel>
