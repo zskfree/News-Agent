@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-13 00:43
+**最后更新时间**: 2026-09-13 10:05
+
+---
+
+## 🆕 最新更新 (2026-09-13 10:05)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [第二届联合国“一带一路”峰会在新加坡成功举办](https://www.tmtpost.com/8138384.html)
+**发布时间**: 2026-09-13 16:57
+
+#### [大厂卷AI，打工人买单](https://www.tmtpost.com/8138287.html)
+**发布时间**: 2026-09-13 15:36
+
+#### [科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同](https://www.tmtpost.com/8138286.html)
+**发布时间**: 2026-09-13 15:34
+
+#### [已傍上SK海力士的大腿？光伏主业负债93%，华民股份选择烧钱押注半导体当第二增长曲线，靠谱么？](https://www.tmtpost.com/8138241.html)
+**发布时间**: 2026-09-13 15:34
+
+#### [服务超100万家企业后，滴滴企业版发布商旅全程保障“超级省”](https://www.tmtpost.com/8138408.html)
+**发布时间**: 2026-09-13 14:05
+
+#### [独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了](https://www.tmtpost.com/8138191.html)
+**发布时间**: 2026-09-13 13:15
+
+#### [储能行业涨价潮起，阳光电源年内二度提价，行业不要价格战，逻辑回归价值兑现](https://www.tmtpost.com/8138239.html)
+**发布时间**: 2026-09-13 12:55
+
+#### [电视都不好卖了，面板厂怎么还敢涨价？](https://www.tmtpost.com/8138229.html)
+**发布时间**: 2026-09-13 12:55
+
+#### [iPhone18 Pro首发货秒光：官网崩了、加价上千，真正的疯狂还没来](https://www.tmtpost.com/8138182.html)
+**发布时间**: 2026-09-13 12:23
+
+#### [2026年上半年基金换手率分析](https://www.tmtpost.com/8138219.html)
+**发布时间**: 2026-09-13 11:08
+
+#### [福建上市公司价值重估：民营科技龙头抬升上限，制造与消费多点支撑](https://www.tmtpost.com/8138214.html)
+**发布时间**: 2026-09-13 11:08
+
+#### [价值判断：涨停板的投资机会和风险提示（9月11日）｜上市公司观察](https://www.tmtpost.com/8138207.html)
+**发布时间**: 2026-09-13 11:07
+
+#### [股价高估、低估时，上市公司分别该做什么](https://www.tmtpost.com/8138199.html)
+**发布时间**: 2026-09-13 11:07
+
+#### [Dario自曝RSI已成真，奥特曼同日光速跟进](https://www.tmtpost.com/8138094.html)
+**发布时间**: 2026-09-13 10:59
+
+#### [乌兰察布：一个北方小城如何成为“Token之都”？](https://www.tmtpost.com/8137132.html)
+**发布时间**: 2026-09-13 10:28
+
+#### [大众拥有的第一个机器人，可能是只“鸭子”](https://www.tmtpost.com/8138116.html)
+**发布时间**: 2026-09-13 10:15
+
+#### [耐克的数字化转型为什么“失败”了？](https://www.tmtpost.com/8138036.html)
+**发布时间**: 2026-09-13 10:08
+
+#### [传奇IP终于“过户”给盛趣和恺英了](https://www.tmtpost.com/8138107.html)
+**发布时间**: 2026-09-13 09:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌](https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-13 16:00
+
+#### [Figma 如何利用 AI 代理提升安全性](https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-13 10:00
+
+#### [Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海](https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-13 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+**发布时间**: 2026-09-13 15:51
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [发现 GitHub 上两个教 Agent 做 3D 游戏的 Skills，收藏起来。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536792&idx=1&sn=3bede56b586fdb91b2039089f48ae20c)
+**发布时间**: 2026-09-12 10:45
 
 ---
 

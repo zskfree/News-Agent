@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-13 00:43
+**最后更新时间**: 2026-09-13 10:05
+
+---
+
+## 🆕 最新更新 (2026-09-13 10:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [PwC shakes up Indian operations as AI threat looms over consulting sector](https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 05:40
+
+#### [The anti-AI portfolio: fountain pens, Warhammer and film cameras](https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 04:00
+
+#### [As Europe’s memory fades, radicalism is returning](https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58)
+**发布时间**: 2026-09-13 04:00
+
+#### [The perils of headphones in the office](https://www.ft.com/content/abd98f82-7be0-4d84-b41c-4837cf5167a8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 04:00
+
+#### [Boom-era PE funds will fall short on promises, executives warn](https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 04:00
+
+#### [Musk’s secretive backer builds $40bn SpaceX stake](https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 04:00
+
+#### [How Russia’s new drones are changing the air war](https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 04:00
 
 ---
 
