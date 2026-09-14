@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-13 10:04
+**最后更新时间**: 2026-09-14 00:50
+
+---
+
+## 🆕 最新更新 (2026-09-14 00:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型](https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html)
+**发布时间**: 2026-09-13 18:30
+
+#### [让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态](https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html)
+**发布时间**: 2026-09-13 17:16
+
+#### [蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业](https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html)
+**发布时间**: 2026-09-13 17:13
+
+#### [大模型牌桌上，蚂蚁如何出牌？](https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html)
+**发布时间**: 2026-09-13 16:22
 
 ---
 

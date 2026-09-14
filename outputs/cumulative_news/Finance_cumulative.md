@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-13 10:05
+**最后更新时间**: 2026-09-14 00:52
+
+---
+
+## 🆕 最新更新 (2026-09-14 00:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gulf states postpone talks with Iran over Hormuz impasse](https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 22:37
+
+#### [Anthropic tells investors it will be profitable for second straight quarter](https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 22:29
+
+#### [Michael Dell’s family office nears deal to take $4.1bn insurance broker private](https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 22:14
+
+#### [Swedish election on a knife-edge](https://www.ft.com/content/00e3c084-06e3-47b4-8230-185760216e60?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 21:52
+
+#### [Trump rejects calls from tech bosses for AI slowdown](https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 21:34
+
+#### [Trump scraps tariffs on Irish whiskey during visit to country](https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 20:47
+
+#### [Trump calls on Ukraine to stop striking Russian oil refineries](https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 19:08
+
+#### [Russia strikes Ukraine train line moments after foreign dignitaries pass](https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 16:11
+
+#### [Le Pen vows to put French citizens first in campaign launch](https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 15:49
+
+#### [The calculated desperation of Trump-a-palooza](https://www.ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 12:00
+
+#### [Why teenagers are doing worse at school](https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-13 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These are the 10 biggest retirement fears — and what you can do about them](https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 21:10
+
+#### [I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?](https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 20:59
+
+#### [Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.](https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 20:40
+
+#### [This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.](https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 20:30
+
+#### [How to trade a well-paying job for more work-life balance — without going broke](https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 20:17
+
+#### [The future of retirement? Work until you die.](https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 19:56
+
+#### [Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.](https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-13 19:00
 
 ---
 
