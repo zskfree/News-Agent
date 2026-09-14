@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-14 00:50
+**最后更新时间**: 2026-09-14 10:24
+
+---
+
+## 🆕 最新更新 (2026-09-14 10:24)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent](https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html)
+**发布时间**: 2026-09-14 15:27
+
+#### [豆包手机助手发布消费者版本 首款新机将于9月16日正式开售](https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html)
+**发布时间**: 2026-09-14 10:55
+
+#### [NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026](https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html)
+**发布时间**: 2026-09-14 10:50
+
+#### [TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026](https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html)
+**发布时间**: 2026-09-14 10:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [首届蚂蚁灵波具身大模型挑战赛正式启动](https://www.qbitai.com/2026/09/489105.html)
+**发布时间**: 2026-09-14 09:47
+
+#### [全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证](https://www.qbitai.com/2026/09/489106.html)
+**发布时间**: 2026-09-14 09:46
+
+#### [探索RSI，生数新世界模型让机器人开始自我进化](https://www.qbitai.com/2026/09/489037.html)
+**发布时间**: 2026-09-14 09:36
+
+#### [分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”](https://www.qbitai.com/2026/09/489023.html)
+**发布时间**: 2026-09-14 08:17
+
+#### [端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装](https://www.qbitai.com/2026/09/488933.html)
+**发布时间**: 2026-09-14 08:08
+
+#### [一年连融三轮，这家金融AI公司又拿下超3亿B轮](https://www.qbitai.com/2026/09/488912.html)
+**发布时间**: 2026-09-14 07:55
+
+#### [2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会](https://www.qbitai.com/2026/09/488875.html)
+**发布时间**: 2026-09-14 06:20
+
+#### [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html)
+**发布时间**: 2026-09-14 03:45
+
+#### [中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱](https://www.qbitai.com/2026/09/488725.html)
+**发布时间**: 2026-09-14 03:18
+
+#### [奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX](https://www.qbitai.com/2026/09/488699.html)
+**发布时间**: 2026-09-14 02:56
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-14日刊](https://hex2077.dev/docs/2026-09/2026-09-14/)
+**发布时间**: 2026-09-14 02:21
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New method enables AI for safety-critical situations](https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914)
+**发布时间**: 2026-09-14 00:00
+
+#### [MIT spinout turns plastic waste into resilient building materials](https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914)
+**发布时间**: 2026-09-14 00:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
+**发布时间**: 2026-09-10 00:00
 
 ---
 

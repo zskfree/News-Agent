@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-14 00:52
+**最后更新时间**: 2026-09-14 10:25
+
+---
+
+## 🆕 最新更新 (2026-09-14 10:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?](https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 09:45
+
+#### [How investors are reacting to the AI pause calls from Anthropic and other frontier labs](https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 09:29
+
+#### [The very big caveat to the report that Anthropic is profitable for a second straight quarter](https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 09:04
+
+#### [Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion](https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 09:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech stocks fall after big AI groups call for slowdown](https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 09:10
+
+#### [Beijing launches drone buyback in crackdown after Citic Tower crash](https://www.ft.com/content/8ec31da9-9922-44e2-98c2-3225c9eb0e21?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 08:52
+
+#### [Oil hits $108 after Saudi Arabia closes vital export pipeline](https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 07:31
+
+#### [Can AI’s leaders really put aside rivalry for the common good?](https://www.ft.com/content/b3d01493-f0f5-491b-bcf8-2d414539fbe7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 06:12
+
+#### [Hostile forces using AI for ‘cognitive warfare’ against China, spy agency warns](https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 05:15
+
+#### [Warsh and Trump on collision course](https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 04:00
+
+#### [Automation is coming for the gig economy](https://www.ft.com/content/a2c33eed-7aef-4e68-9252-3a1dddf61b5a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 04:00
+
+#### [A ‘lucky’ chancellor must also be a resolute one](https://www.ft.com/content/0008bdb5-ac6c-4d72-b71f-e53a94a10f77?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 04:00
+
+#### [European capitals barter over Christine Lagarde’s successor at ECB](https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 04:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Sep 2026 00:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 00:52:57 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 10:24:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:25:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型</title>
-      <link>https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html</link>
-      <description>&lt;![CDATA[斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html</guid>
+      <title>蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent</title>
+      <link>https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html</link>
+      <description>&lt;![CDATA[蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态</title>
-      <link>https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html</link>
-      <description>&lt;![CDATA[让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html</guid>
+      <title>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</title>
+      <link>https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html</link>
+      <description>&lt;![CDATA[豆包手机助手发布消费者版本 首款新机将于9月16日正式开售]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业</title>
-      <link>https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html</link>
-      <description>&lt;![CDATA[蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html</guid>
+      <title>NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026</title>
+      <link>https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html</link>
+      <description>&lt;![CDATA[NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大模型牌桌上，蚂蚁如何出牌？</title>
-      <link>https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html</link>
-      <description>&lt;![CDATA[大模型牌桌上，蚂蚁如何出牌？]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html</guid>
+      <title>TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026</title>
+      <link>https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html</link>
+      <description>&lt;![CDATA[TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>首届蚂蚁灵波具身大模型挑战赛正式启动</title>
+      <link>https://www.qbitai.com/2026/09/489105.html</link>
+      <description>&lt;![CDATA[首届蚂蚁灵波具身大模型挑战赛正式启动]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489105.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证</title>
+      <link>https://www.qbitai.com/2026/09/489106.html</link>
+      <description>&lt;![CDATA[全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489106.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>探索RSI，生数新世界模型让机器人开始自我进化</title>
+      <link>https://www.qbitai.com/2026/09/489037.html</link>
+      <description>&lt;![CDATA[探索RSI，生数新世界模型让机器人开始自我进化]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489037.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”</title>
+      <link>https://www.qbitai.com/2026/09/489023.html</link>
+      <description>&lt;![CDATA[分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 08:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489023.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装</title>
+      <link>https://www.qbitai.com/2026/09/488933.html</link>
+      <description>&lt;![CDATA[端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 08:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488933.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>一年连融三轮，这家金融AI公司又拿下超3亿B轮</title>
+      <link>https://www.qbitai.com/2026/09/488912.html</link>
+      <description>&lt;![CDATA[一年连融三轮，这家金融AI公司又拿下超3亿B轮]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 07:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488912.html</guid>
       <category>Ai</category>
     </item>
   </channel>
