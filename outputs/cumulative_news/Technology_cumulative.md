@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-14 10:25
+**最后更新时间**: 2026-09-15 01:18
+
+---
+
+## 🆕 最新更新 (2026-09-15 01:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训](https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 09:04
+
+#### [AI 负责创造，人来干脏活，这事儿能否停一下？](https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 00:08
+
+#### [Token账单异常，可能不只是成本失控](https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 21:58
+
+#### [发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来](https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 21:54
+
+#### [Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”](https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-14 21:50
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [火币创始人李林：17亿卖伦敦豪宅，背靠隐秘资本版图](https://www.tmtpost.com/8139430.html)
+**发布时间**: 2026-09-15 09:02
+
+#### [AI风口之下，明星们又想“挤上”牌桌了](https://www.tmtpost.com/8139387.html)
+**发布时间**: 2026-09-15 08:57
+
+#### [试水跨境电商，小红书 Redshop 如何在“夹缝”中生存](https://www.tmtpost.com/8139456.html)
+**发布时间**: 2026-09-15 08:54
+
+#### [出30亿救哪吒的“太乙”，幕后受益人被限制高消费](https://www.tmtpost.com/8139604.html)
+**发布时间**: 2026-09-15 08:53
+
+#### [脑机公司，拔苗助长](https://www.tmtpost.com/8139656.html)
+**发布时间**: 2026-09-15 08:43
+
+#### [离开金山徐奕成二度创业：他要在你的电脑里养一个有性格的 Agent | 独家](https://www.tmtpost.com/8139631.html)
+**发布时间**: 2026-09-15 08:40
+
+#### [Edge AI Daily 早报（9月15日）](https://www.tmtpost.com/8139745.html)
+**发布时间**: 2026-09-15 07:55
+
+#### [【钛晨报】央行8月重要金融数据出炉，M2同比增长7.5%；美光、闪迪在韩争抢芯片人才，三星加薪并扩大股票奖励；比亚迪高管称燃油车没有未来](https://www.tmtpost.com/8139577.html)
+**发布时间**: 2026-09-15 07:20
+
+#### [扣非亏损1.28亿的光韵达，“小步”跨界半导体赛道 | 并购一线](https://www.tmtpost.com/8139557.html)
+**发布时间**: 2026-09-14 21:20
+
+#### [轮到宁德时代管理市值了](https://www.tmtpost.com/8139286.html)
+**发布时间**: 2026-09-14 19:25
+
+#### [DeepSeek“推倒重来”](https://www.tmtpost.com/8139302.html)
+**发布时间**: 2026-09-14 19:13
+
+#### [豆包手机选择了弹幕最多的打法](https://www.tmtpost.com/8139300.html)
+**发布时间**: 2026-09-14 19:06
+
+#### [《旅行青蛙》寄来的最后一张明信片](https://www.tmtpost.com/8139305.html)
+**发布时间**: 2026-09-14 18:56
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束](http://www.geekpark.net/news/370306)
+**发布时间**: 2026-09-15 08:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等](https://sspai.com/post/114593)
+**发布时间**: 2026-09-15 08:06
 
 ---
 

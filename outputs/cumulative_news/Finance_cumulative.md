@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-14 10:25
+**最后更新时间**: 2026-09-15 01:18
+
+---
+
+## 🆕 最新更新 (2026-09-15 01:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Supreme Court rejects Trump’s mail-in ballot restrictions for midterms](https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 00:44
+
+#### [China tightens control of overseas travel in sweeping new law](https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 00:28
+
+#### [US military reveals it has weapons in space](https://www.ft.com/content/09d62f21-8697-4518-bca0-3699b4dd866c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 23:04
+
+#### [Carney urges EU to cement trade deal as Ottawa seeks pivot from US](https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 20:19
+
+#### [US tech stocks fall after big AI groups call for slowdown](https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 20:10
+
+#### [Ten-year Treasury yield hits 5% for first time since 2023](https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 20:08
+
+#### [France in ‘astonishing’ push to lift EU sanctions on Russian oligarch](https://www.ft.com/content/b01682ae-1d49-46bb-b23a-d6212574214d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 16:19
+
+#### [Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 15:41
+
+#### [Zelenskyy imposes sanctions on former aide turned critic](https://www.ft.com/content/f395dab5-29cd-401b-bbaa-a546da9908e3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 12:26
+
+#### [A spreading war threatens Trump and MBS](https://www.ft.com/content/f2a472e6-352a-4067-b9e5-56596a8ba215?syn-25a6b1a6=1)
+**发布时间**: 2026-09-14 11:48
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?](https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 00:01
+
+#### [AI doomsday fears are arriving at the worst possible time for the stock market](https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 23:19
+
+#### [The murky AI milestone that has some of the industry’s leading voices increasingly on edge](https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:57
+
+#### [The oil market is sending an increasingly loud warning about gas prices at the pump](https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:31
+
+#### [CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat](https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:11
+
+#### [Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.](https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:11
+
+#### [I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?](https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 21:00
+
+#### [Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.](https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 20:56
+
+#### [10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms](https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories)
+**发布时间**: 2026-09-14 20:47
 
 ---
 

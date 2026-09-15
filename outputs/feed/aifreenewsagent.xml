@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Sep 2026 10:24:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 10:25:51 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 01:16:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:18:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent</title>
-      <link>https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html</link>
-      <description>&lt;![CDATA[蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html</guid>
+      <title>Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/</link>
+      <description>&lt;![CDATA[Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</title>
-      <link>https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html</link>
-      <description>&lt;![CDATA[豆包手机助手发布消费者版本 首款新机将于9月16日正式开售]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html</guid>
+      <title>Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026</title>
-      <link>https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html</link>
-      <description>&lt;![CDATA[NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html</guid>
+      <title>How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026</title>
-      <link>https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html</link>
-      <description>&lt;![CDATA[TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 10:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html</guid>
+      <title>The generative AI customization spectrum: From prompt engineering to custom models on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/</link>
+      <description>&lt;![CDATA[The generative AI customization spectrum: From prompt engineering to custom models on AWS]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>首届蚂蚁灵波具身大模型挑战赛正式启动</title>
-      <link>https://www.qbitai.com/2026/09/489105.html</link>
-      <description>&lt;![CDATA[首届蚂蚁灵波具身大模型挑战赛正式启动]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489105.html</guid>
+      <title>Automate replenishment with MMF, Databricks Genie, and Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/</link>
+      <description>&lt;![CDATA[Automate replenishment with MMF, Databricks Genie, and Amazon Quick]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证</title>
-      <link>https://www.qbitai.com/2026/09/489106.html</link>
-      <description>&lt;![CDATA[全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489106.html</guid>
+      <title>蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险</title>
+      <link>https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html</link>
+      <description>&lt;![CDATA[蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 21:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>探索RSI，生数新世界模型让机器人开始自我进化</title>
-      <link>https://www.qbitai.com/2026/09/489037.html</link>
-      <description>&lt;![CDATA[探索RSI，生数新世界模型让机器人开始自我进化]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489037.html</guid>
+      <title>全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关</title>
+      <link>https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html</link>
+      <description>&lt;![CDATA[全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 19:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”</title>
-      <link>https://www.qbitai.com/2026/09/489023.html</link>
-      <description>&lt;![CDATA[分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 08:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/489023.html</guid>
+      <title>具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0</title>
+      <link>https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html</link>
+      <description>&lt;![CDATA[具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 17:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装</title>
-      <link>https://www.qbitai.com/2026/09/488933.html</link>
-      <description>&lt;![CDATA[端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 08:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488933.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>一年连融三轮，这家金融AI公司又拿下超3亿B轮</title>
-      <link>https://www.qbitai.com/2026/09/488912.html</link>
-      <description>&lt;![CDATA[一年连融三轮，这家金融AI公司又拿下超3亿B轮]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/488912.html</guid>
+      <title>Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</link>
+      <description>&lt;![CDATA[Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</guid>
       <category>Ai</category>
     </item>
   </channel>

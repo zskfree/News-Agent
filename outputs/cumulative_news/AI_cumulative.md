@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-14 10:24
+**最后更新时间**: 2026-09-15 01:16
+
+---
+
+## 🆕 最新更新 (2026-09-15 01:16)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/)
+**发布时间**: 2026-09-14 21:22
+
+#### [Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-14 20:35
+
+#### [How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/)
+**发布时间**: 2026-09-14 15:58
+
+#### [The generative AI customization spectrum: From prompt engineering to custom models on AWS](https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/)
+**发布时间**: 2026-09-14 15:47
+
+#### [Automate replenishment with MMF, Databricks Genie, and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/)
+**发布时间**: 2026-09-14 15:42
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险](https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html)
+**发布时间**: 2026-09-14 21:22
+
+#### [全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关](https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html)
+**发布时间**: 2026-09-14 19:43
+
+#### [具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0](https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html)
+**发布时间**: 2026-09-14 17:36
+
+#### [整玄学？太乙圣莲拟花30亿元复活哪吒汽车！网友：救哪吒还得靠太乙真人；某机器人老板轰行业虚假收入，银河通用回怼；OpenAI今年不会上市](https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html)
+**发布时间**: 2026-09-14 08:28
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX](https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/)
+**发布时间**: 2026-09-14 15:00
 
 ---
 
