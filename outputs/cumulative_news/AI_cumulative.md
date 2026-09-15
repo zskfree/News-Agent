@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-15 01:16
+**最后更新时间**: 2026-09-15 09:50
+
+---
+
+## 🆕 最新更新 (2026-09-15 09:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [数亿元！前京东副总裁“消失”4年：不造会跑的天工，他在仓库里给人形机器人“占工位”](https://www.leiphone.com/category/industrynews/QDqnLfFb5wiTdPyd.html)
+**发布时间**: 2026-09-15 15:14
+
+#### [超级智能体“迪迪虾”上车，比亚迪携手阿里云推进智能座舱升级](https://www.leiphone.com/category/industrynews/8XZ8Ji8sV6zGMGu0.html)
+**发布时间**: 2026-09-15 11:58
+
+#### [字节跳动CEO梁汝波：豆包、飞书与火山引擎整合后 将加大企业市场投入](https://www.leiphone.com/category/industrynews/hqrTSByQ6EWsZTDA.html)
+**发布时间**: 2026-09-15 11:45
+
+#### [工作流可以自我进化了，英伟达开源 SoL-Pi，每小时省13.5刀！](https://www.leiphone.com/category/yanxishe/N5vgkP1Vl7gHCjYr.html)
+**发布时间**: 2026-09-15 11:02
+
+#### [横扫四榜，DM0.5 凭什么面面俱到？](https://www.leiphone.com/category/ai/jIrGoPOXjx7WNljl.html)
+**发布时间**: 2026-09-15 10:22
+
+#### [强化学习大本营新作：如何破解「学新忘旧」困局](https://www.leiphone.com/category/ai/ThVhOdBYKbsqZo8f.html)
+**发布时间**: 2026-09-15 10:18
+
+#### [不止一颗CPU？智能体经济时代，Arm对算力平台有了新理解](https://www.leiphone.com/category/chipdesign/9c9xucIBDVwB5OYz.html)
+**发布时间**: 2026-09-15 09:58
+
+#### [担心代码被拿去训练！英伟达：限制员工使用 Claude；一汽将成广汽第二大股东！南北丰田拟合并；苹果回应「iPhone 18 Pro破发」](https://www.leiphone.com/category/zaobao/SrmCbu60oiAwTvkH.html)
+**发布时间**: 2026-09-15 08:23
+
+#### [国产智驾芯片新纪录，被产业伙伴联合书写的里程碑](https://www.leiphone.com/category/transportation/DMdDed44liSYTSBx.html)
+**发布时间**: 2026-09-14 18:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care](https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/)
+**发布时间**: 2026-09-15 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489371.html)
+**发布时间**: 2026-09-15 07:58
+
+#### [Hacked by CoupDeGrace](https://www.qbitai.com/2026/09/489365.html)
+**发布时间**: 2026-09-15 07:33
+
+#### [Meta新研究：字节模型蒸馏后，天花板破了](https://www.qbitai.com/2026/09/489337.html)
+**发布时间**: 2026-09-15 06:37
+
+#### [前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了](https://www.qbitai.com/2026/09/489288.html)
+**发布时间**: 2026-09-15 05:39
+
+#### [9月21日，深圳前海！聊聊工业AI与生态共创的下一步](https://www.qbitai.com/2026/09/489277.html)
+**发布时间**: 2026-09-15 05:20
+
+#### [7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开](https://www.qbitai.com/2026/09/489227.html)
+**发布时间**: 2026-09-15 02:17
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-15日刊](https://hex2077.dev/docs/2026-09/2026-09-15/)
+**发布时间**: 2026-09-15 02:46
 
 ---
 

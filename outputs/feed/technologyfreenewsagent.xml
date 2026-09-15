@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Sep 2026 01:18:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 01:18:33 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 09:53:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:53:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训</title>
-      <link>https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>QQ 飞车 Agentic 研发转型过程中的Loop Engineering</title>
+      <link>https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[QQ 飞车 Agentic 研发转型过程中的Loop Engineering]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”</title>
-      <link>https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 21:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra</title>
+      <link>https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】央行8月重要金融数据出炉，M2同比增长7.5%；美光、闪迪在韩争抢芯片人才，三星加薪并扩大股票奖励；比亚迪高管称燃油车没有未来</title>
-      <link>https://www.tmtpost.com/8139577.html</link>
-      <description>&lt;![CDATA[【钛晨报】央行8月重要金融数据出炉，M2同比增长7.5%；美光、闪迪在韩争抢芯片人才，三星加薪并扩大股票奖励；比亚迪高管称燃油车没有未来]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139577.html</guid>
+      <title>OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust</title>
+      <link>https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束</title>
-      <link>http://www.geekpark.net/news/370306</link>
-      <description>&lt;![CDATA[iOS 27、MacOS 27 正式发布；豆包手机助手消费者版亮相；李想：「大车」趋势一定会结束]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 08:17:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370306</guid>
+      <title>Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台</title>
+      <link>https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等</title>
+      <title>派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等</title>
       <link>https://sspai.com/post/114593</link>
-      <description>&lt;![CDATA[派早报：豆包发布手机助手消费者版，绿联发布首款雷电 5 显卡坞等]]&gt;</description>
+      <description>&lt;![CDATA[派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等]]&gt;</description>
       <pubDate>Tue, 15 Sep 2026 08:06:00 GMT</pubDate>
       <guid isPermaLink="true">https://sspai.com/post/114593</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 负责创造，人来干脏活，这事儿能否停一下？</title>
-      <link>https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 负责创造，人来干脏活，这事儿能否停一下？]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 00:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CKzbmAxb1lLuu4geZuHy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>iPhone Duo外观“跟随”战略，正让苹果丧失奢侈品光环</title>
+      <link>https://www.tmtpost.com/8140083.html</link>
+      <description>&lt;![CDATA[iPhone Duo外观“跟随”战略，正让苹果丧失奢侈品光环]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140083.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token账单异常，可能不只是成本失控</title>
-      <link>https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Token账单异常，可能不只是成本失控]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 21:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AcvXqsA1IGC3ACxJSgP6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>豆包手机一代的坑，二代准备怎么填？</title>
+      <link>https://www.tmtpost.com/8140215.html</link>
+      <description>&lt;![CDATA[豆包手机一代的坑，二代准备怎么填？]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140215.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来</title>
-      <link>https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>甲酰胺风波去，Babycare上市起？</title>
+      <link>https://www.tmtpost.com/8140222.html</link>
+      <description>&lt;![CDATA[甲酰胺风波去，Babycare上市起？]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140222.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>火币创始人李林：17亿卖伦敦豪宅，背靠隐秘资本版图</title>
-      <link>https://www.tmtpost.com/8139430.html</link>
-      <description>&lt;![CDATA[火币创始人李林：17亿卖伦敦豪宅，背靠隐秘资本版图]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139430.html</guid>
+      <title>要毁灭人类的不是AI，是人——拆开2026年9月这轮&quot;末日叙事&quot;</title>
+      <link>https://www.tmtpost.com/8140359.html</link>
+      <description>&lt;![CDATA[要毁灭人类的不是AI，是人——拆开2026年9月这轮&quot;末日叙事&quot;]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140359.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI风口之下，明星们又想“挤上”牌桌了</title>
-      <link>https://www.tmtpost.com/8139387.html</link>
-      <description>&lt;![CDATA[AI风口之下，明星们又想“挤上”牌桌了]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139387.html</guid>
+      <title>Tongcheng Buys Control of Dida Chuxing to Close the Last-Mile Gap</title>
+      <link>https://www.tmtpost.com/8140707.html</link>
+      <description>&lt;![CDATA[Tongcheng Buys Control of Dida Chuxing to Close the Last-Mile Gap]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140707.html</guid>
       <category>Technology</category>
     </item>
   </channel>

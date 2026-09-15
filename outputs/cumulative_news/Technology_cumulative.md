@@ -1,7 +1,128 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-15 01:18
+**最后更新时间**: 2026-09-15 09:53
+
+---
+
+## 🆕 最新更新 (2026-09-15 09:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [iPhone Duo外观“跟随”战略，正让苹果丧失奢侈品光环](https://www.tmtpost.com/8140083.html)
+**发布时间**: 2026-09-15 17:47
+
+#### [豆包手机一代的坑，二代准备怎么填？](https://www.tmtpost.com/8140215.html)
+**发布时间**: 2026-09-15 17:47
+
+#### [甲酰胺风波去，Babycare上市起？](https://www.tmtpost.com/8140222.html)
+**发布时间**: 2026-09-15 17:47
+
+#### [要毁灭人类的不是AI，是人——拆开2026年9月这轮"末日叙事"](https://www.tmtpost.com/8140359.html)
+**发布时间**: 2026-09-15 17:47
+
+#### [Tongcheng Buys Control of Dida Chuxing to Close the Last-Mile Gap](https://www.tmtpost.com/8140707.html)
+**发布时间**: 2026-09-15 17:41
+
+#### [前Coatue高管蒋恺（Kai Jiang），出任字节跳动财务投资团队负责人](https://www.tmtpost.com/8140598.html)
+**发布时间**: 2026-09-15 17:12
+
+#### [AI没有杀死软件，但“套壳”AI首先被淘汰](https://www.tmtpost.com/8130396.html)
+**发布时间**: 2026-09-15 17:11
+
+#### [AI消费硬件退烧了？冷的不是AI，是造品类 ｜ 出海参考](https://www.tmtpost.com/8137333.html)
+**发布时间**: 2026-09-15 17:10
+
+#### [热联集团：千亿贸易生意毛利率不足1%，多品类负毛利销售，大额分红后再募资补流｜IPO观察](https://www.tmtpost.com/8136857.html)
+**发布时间**: 2026-09-15 16:09
+
+#### [欧税通：超额分红后拟募资补流｜IPO观察](https://www.tmtpost.com/8139057.html)
+**发布时间**: 2026-09-15 16:08
+
+#### [当一群AI占领了人类互联网的无人区](https://www.tmtpost.com/8140432.html)
+**发布时间**: 2026-09-15 16:01
+
+#### [China’s Auto Makers Turn Outward as Domestic Market Cools](https://www.tmtpost.com/8140540.html)
+**发布时间**: 2026-09-15 15:56
+
+#### [手机都开始直连卫星了，为什么还要建“太空铁塔”？](https://www.tmtpost.com/8140420.html)
+**发布时间**: 2026-09-15 15:55
+
+#### [豆包手机：我将报以刀枪剑戟斧钺钩叉](https://www.tmtpost.com/8140412.html)
+**发布时间**: 2026-09-15 15:50
+
+#### [129亿美元，英伟达史上最大一笔收购即将落地](https://www.tmtpost.com/8140294.html)
+**发布时间**: 2026-09-15 15:42
+
+#### [钢管厂每多做一块钱营收，曾留下三毛，现在只剩七厘](https://www.tmtpost.com/8138887.html)
+**发布时间**: 2026-09-15 15:38
+
+#### [三巨头罕见停战，人类距离AI失控还有多远](https://www.tmtpost.com/8140330.html)
+**发布时间**: 2026-09-15 15:38
+
+#### [海外营收纷纷过半，中国汽车驶入大航海时代](https://www.tmtpost.com/8140399.html)
+**发布时间**: 2026-09-15 15:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [QQ 飞车 Agentic 研发转型过程中的Loop Engineering](https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 17:24
+
+#### [OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra](https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 16:52
+
+#### [京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent](https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 16:42
+
+#### [OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust](https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 16:09
+
+#### [月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报](https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 16:07
+
+#### [Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生](https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 16:01
+
+#### [什么样的数据库底座，能加速 Agent 从 Demo 走向生产？](https://www.infoq.cn/video/CNlXsz2yMZpLvdwMlhXY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 14:39
+
+#### [Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台](https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 14:34
+
+#### [HTTP 新增 QUERY 方法：有人叫好，也有人质疑“这不就是 GET？”](https://www.infoq.cn/article/BmJh0DzGPYBEl1zlyO0C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 13:00
+
+#### [Meta 打造“组织第二大脑”智能体的设计思路](https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 11:21
+
+#### [从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海](https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 10:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场](http://www.geekpark.net/news/370345)
+**发布时间**: 2026-09-15 15:10
+
+#### [给 AI 发外设，戴森派摄像头进嘴、绿联给充电宝开了扇窗](http://www.geekpark.net/news/370328)
+**发布时间**: 2026-09-15 14:01
+
+#### [造物 100 #06｜自动驾驶上轮椅了，口袋相机学会飞行，AI 教练上了雪场](http://www.geekpark.net/news/370325)
+**发布时间**: 2026-09-15 13:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
+**发布时间**: 2026-09-15 15:00
+
+#### [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
+**发布时间**: 2026-09-15 11:10
+
+#### [派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等](https://sspai.com/post/114593)
+**发布时间**: 2026-09-15 08:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [8 个上周 GitHub 上贼火火的开源项目，又是质量很高的一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536991&idx=1&sn=afbaed9e5a7bf6026f973f49a41fbedf)
+**发布时间**: 2026-09-15 11:33
 
 ---
 
