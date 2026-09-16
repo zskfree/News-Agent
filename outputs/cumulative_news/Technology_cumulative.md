@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-16 01:15
+**最后更新时间**: 2026-09-16 09:47
+
+---
+
+## 🆕 最新更新 (2026-09-16 09:47)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [在飞书的上下文底座上，豆包开工了](http://www.geekpark.net/news/370460)
+**发布时间**: 2026-09-16 17:36
+
+#### [Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案](http://www.geekpark.net/news/370453)
+**发布时间**: 2026-09-16 16:34
+
+#### [助听器躺赚三十年暴利，被 AI 打破了](http://www.geekpark.net/news/370445)
+**发布时间**: 2026-09-16 16:06
+
+#### [当智能体开始替人花钱，如何证明「它是谁」？](http://www.geekpark.net/news/370440)
+**发布时间**: 2026-09-16 15:45
+
+#### [腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变](http://www.geekpark.net/news/370431)
+**发布时间**: 2026-09-16 14:39
+
+#### [没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了](http://www.geekpark.net/news/370425)
+**发布时间**: 2026-09-16 14:30
+
+#### [4 款车、3 颗芯片、15999 的折叠屏手机，小米的「疯狂一夜」](http://www.geekpark.net/news/370423)
+**发布时间**: 2026-09-16 14:27
+
+#### [特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线](http://www.geekpark.net/news/370421)
+**发布时间**: 2026-09-16 14:16
+
+#### [我坐进特斯拉 Cybercab，吃下马斯克 Robotaxi 的「新饼」](http://www.geekpark.net/news/370412)
+**发布时间**: 2026-09-16 13:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [借助会话追踪与成本控制排查 AI 智能体故障](https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 17:12
+
+#### [Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信](https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 15:32
+
+#### [模型再强，为什么 Demo 还是进不了生产？](https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 14:45
+
+#### [自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品](https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 13:23
+
+#### [Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j](https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 11:06
+
+#### [从接住告警到自我进化：快手智能运维助手实践｜QCon上海](https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 10:00
+
+#### [Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台](https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 09:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Huawei Scales Back Full Support for AITO as Seres Takes the Lead](https://www.tmtpost.com/8141991.html)
+**发布时间**: 2026-09-16 17:02
+
+#### [物理 AI 的大结果何时到来？](https://www.tmtpost.com/8141849.html)
+**发布时间**: 2026-09-16 16:53
+
+#### [飞书开门，千问、WorkBuddy能抢到活吗](https://www.tmtpost.com/8141837.html)
+**发布时间**: 2026-09-16 16:53
+
+#### [微软CEO纳德拉：企业必须掌握AI主权，避免过度依赖单一大模型](https://www.tmtpost.com/8141825.html)
+**发布时间**: 2026-09-16 16:53
+
+#### [日租3万跌到1元，机器人租赁90%玩家血亏离场](https://www.tmtpost.com/8141790.html)
+**发布时间**: 2026-09-16 16:53
+
+#### [AI Hardware Revival Stalls as Consumers Resist Paying for Features They Barely Use](https://www.tmtpost.com/8141903.html)
+**发布时间**: 2026-09-16 15:52
+
+#### [他们曾经以为，可以在诺基亚干到退休](https://www.tmtpost.com/8141733.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [英伟达 1050 亿担保的真正底牌：赌地电壳，不赌 OpenAI](https://www.tmtpost.com/8141805.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [豆包手机再进App，权限不能只分允许和拒绝](https://www.tmtpost.com/8141789.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [“我希望革我自己命的人是我自己”，DeepSeek工程师拥抱AI加速恐惧](https://www.tmtpost.com/8141725.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [APP广告，别欺负老年人](https://www.tmtpost.com/8141614.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [30万亿之后，中国电子产业未来五年准备把钱花在哪里？](https://www.tmtpost.com/8141506.html)
+**发布时间**: 2026-09-16 15:44
+
+#### [华为给赛力斯“断奶”？](https://www.tmtpost.com/8141396.html)
+**发布时间**: 2026-09-16 15:43
+
+#### [四个月市值蒸发超7000亿！宁德时代，护城河“裂痕”隐现](https://www.tmtpost.com/8141386.html)
+**发布时间**: 2026-09-16 15:43
+
+#### [特努斯时代，苹果不会那么“燃”](https://www.tmtpost.com/8141274.html)
+**发布时间**: 2026-09-16 15:43
+
+#### [今年国庆，酒店价格涨不动了](https://www.tmtpost.com/8141201.html)
+**发布时间**: 2026-09-16 15:43
+
+#### [刚刚，黄仁勋播客现场突然接到特朗普电话，怒斥AI末日论纯属瞎编](https://www.tmtpost.com/8141161.html)
+**发布时间**: 2026-09-16 15:43
+
+#### [钛媒体旗下AI词元服务平台TiToken，发布算力优化产品BackBy](https://www.tmtpost.com/8141806.html)
+**发布时间**: 2026-09-16 14:33
+
+#### [市场监管总局“高质量发展中国行·质量强县看担当”网评引导活动在义乌启动](https://www.tmtpost.com/8141582.html)
+**发布时间**: 2026-09-16 13:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
+**发布时间**: 2026-09-16 15:00
+
+#### [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+**发布时间**: 2026-09-16 10:38
+
+#### [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+**发布时间**: 2026-09-16 08:39
 
 ---
 

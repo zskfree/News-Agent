@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-16 01:13
+**最后更新时间**: 2026-09-16 09:46
+
+---
+
+## 🆕 最新更新 (2026-09-16 09:46)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能](https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html)
+**发布时间**: 2026-09-16 15:20
+
+#### [Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与](https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html)
+**发布时间**: 2026-09-16 14:28
+
+#### [豆包 2.1 Pro模型更新，已接入豆包工作](https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html)
+**发布时间**: 2026-09-16 14:01
+
+#### [奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉](https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html)
+**发布时间**: 2026-09-16 10:36
+
+#### [王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir](https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html)
+**发布时间**: 2026-09-16 10:13
+
+#### [510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导](https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html)
+**发布时间**: 2026-09-16 08:31
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
+**发布时间**: 2026-09-16 08:18
+
+#### [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
+**发布时间**: 2026-09-16 08:09
+
+#### [协同办公进入Agent时代，飞书+豆包工作跑在了最前面](https://www.qbitai.com/2026/09/490686.html)
+**发布时间**: 2026-09-16 07:46
+
+#### [西门子不造机器人，为什么机器人进厂的故事里总有它？](https://www.qbitai.com/2026/09/490416.html)
+**发布时间**: 2026-09-16 07:38
+
+#### [清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单](https://www.qbitai.com/2026/09/490400.html)
+**发布时间**: 2026-09-16 06:32
+
+#### [B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首](https://www.qbitai.com/2026/09/490396.html)
+**发布时间**: 2026-09-16 06:23
+
+#### [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
+**发布时间**: 2026-09-16 04:16
+
+#### [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
+**发布时间**: 2026-09-16 03:40
+
+#### [把记忆交给CPU，大模型会变快](https://www.qbitai.com/2026/09/489724.html)
+**发布时间**: 2026-09-16 03:07
+
+#### [实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招](https://www.qbitai.com/2026/09/490109.html)
+**发布时间**: 2026-09-16 02:58
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/)
+**发布时间**: 2026-09-16 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-16日刊](https://hex2077.dev/docs/2026-09/2026-09-16/)
+**发布时间**: 2026-09-16 03:26
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Measure by measure, studying society accurately](https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916)
+**发布时间**: 2026-09-16 00:00
 
 ---
 

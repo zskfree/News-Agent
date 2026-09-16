@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-16 01:15
+**最后更新时间**: 2026-09-16 09:47
+
+---
+
+## 🆕 最新更新 (2026-09-16 09:47)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.](https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 09:34
+
+#### [‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?](https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 09:15
+
+#### [What history says about longer-term bond yields after the first Fed hike](https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 09:11
+
+#### [What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate](https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 08:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Von der Leyen backs Canada’s ‘associate membership’ bid](https://www.ft.com/content/8fed428e-7bcc-435c-9487-cb4e6a795328?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 08:38
+
+#### [EU to restrict social media and chatbots for children under 15](https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 08:27
+
+#### [World’s best-performing sovereign wealth fund expects equities pullback](https://www.ft.com/content/6b6a27bd-2725-4591-be8a-fda643c2ac5c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:55
+
+#### [US billionaires line up to bankroll Republicans’ election push](https://www.ft.com/content/2285c111-b103-4b04-96c7-fe26a3c04c3e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+#### [With AI, ‘I told you so’ will be too late](https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+#### [How Switzerland turned tax competition into a national sport](https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+#### [Fed should defy Trump with rate rise, top economists say](https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+#### [Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown](https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 01:55
+
+#### [Why the US and China are at odds on AI threats](https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 01:18
 
 ---
 
