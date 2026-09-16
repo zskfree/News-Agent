@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-15 09:50
+**最后更新时间**: 2026-09-16 01:13
+
+---
+
+## 🆕 最新更新 (2026-09-16 01:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品](https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html)
+**发布时间**: 2026-09-15 23:07
+
+#### [旗舰SoC进入融合计算时代，天玑9600 Pro首创AI原生架构！](https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html)
+**发布时间**: 2026-09-15 21:01
+
+#### [阶跃发布 StepAudio 3 ，多款语音模型登顶 Artificial Analysis 全球榜单](https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html)
+**发布时间**: 2026-09-15 17:50
+
+#### [英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？](https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html)
+**发布时间**: 2026-09-15 17:38
+
+#### [亚太唯一！腾讯云首次入选IDC MarketScape 全球托管边缘服务领导者类别](https://www.leiphone.com/category/industrynews/pxm3hT4tSVTrgyIS.html)
+**发布时间**: 2026-09-15 17:24
+
+#### [“阿宝”交新朋友：携手比亚迪“迪迪虾”，实现车机端一句话办事](https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html)
+**发布时间**: 2026-09-15 16:45
+
+#### [Xspark AI 丁文伯：触觉替代不了视觉，但机器人需要一套自己的“脊髓” ｜物理AI 50人](https://www.leiphone.com/category/robot/RMYKt5OCvHa4yodm.html)
+**发布时间**: 2026-09-15 15:52
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/)
+**发布时间**: 2026-09-15 22:24
+
+#### [From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production](https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/)
+**发布时间**: 2026-09-15 16:55
+
+#### [AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories](https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/)
+**发布时间**: 2026-09-15 16:55
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/)
+**发布时间**: 2026-09-15 20:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Optimizing cost and latency with Amazon Bedrock prompt caching](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/)
+**发布时间**: 2026-09-15 16:18
+
+#### [Build an AI-powered product tagging system with Amazon SageMaker serverless model customization](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)
+**发布时间**: 2026-09-15 16:11
+
+#### [Announcing instance preference lists for Amazon SageMaker AI training jobs](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)
+**发布时间**: 2026-09-15 16:01
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
+**发布时间**: 2026-09-15 16:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [梁文锋CFO到位！投过智谱MiniMax](https://www.qbitai.com/2026/09/489707.html)
+**发布时间**: 2026-09-15 13:53
+
+#### [地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出](https://www.qbitai.com/2026/09/489698.html)
+**发布时间**: 2026-09-15 13:32
+
+#### [手机替我跑了一整套流程！我就说了一句话，AI执行了100步](https://www.qbitai.com/2026/09/489466.html)
+**发布时间**: 2026-09-15 12:47
+
+#### [无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA](https://www.qbitai.com/2026/09/489460.html)
+**发布时间**: 2026-09-15 10:43
+
+#### [全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型](https://www.qbitai.com/2026/09/489389.html)
+**发布时间**: 2026-09-15 10:41
+
+#### [一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影](https://www.qbitai.com/2026/09/489381.html)
+**发布时间**: 2026-09-15 09:58
+
+#### [首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编](https://www.qbitai.com/2026/09/489260.html)
+**发布时间**: 2026-09-15 07:48
 
 ---
 

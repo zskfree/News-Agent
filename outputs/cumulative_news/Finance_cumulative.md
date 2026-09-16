@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-15 09:53
+**最后更新时间**: 2026-09-16 01:15
+
+---
+
+## 🆕 最新更新 (2026-09-16 01:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’](https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 23:09
+
+#### [These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity](https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 21:40
+
+#### [How the Iran war is transforming the relationship between stocks, bonds and oil](https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 21:34
+
+#### [AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.](https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 21:15
+
+#### [Inflation killed the penny. Now it’s coming for your dollar.](https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 21:00
+
+#### [Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money](https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 20:47
+
+#### [Top Senate Republican floats a diesel export ban as prices soar. It might not work.](https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 20:36
+
+#### [Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce](https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories)
+**发布时间**: 2026-09-15 20:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bessent to meet He Lifeng in New York ahead of Trump-Xi summit](https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 22:32
+
+#### [OpenAI weighs funding round at $1.2tn valuation before IPO](https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 21:54
+
+#### [US House panel votes to hold Leon Black in contempt over Epstein subpoena](https://www.ft.com/content/5dd27cf5-61e1-4bb1-bb02-5fd14b82cd35?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 21:54
+
+#### [Landmark US crypto bill fails as Senate splits over Trump ethics concerns](https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 21:31
+
+#### [Jensen Huang says battle over AI innovation and safety is ‘false choice’](https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 20:55
+
+#### [US manufacturers hit by fresh burst of supply chain cost inflation](https://www.ft.com/content/e14542d9-2bc5-49c8-8e7e-c9656b0a2d36?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 15:26
+
+#### [Scott Bessent’s wobbly house](https://www.ft.com/content/608a9f4e-0beb-4840-a37c-831a5265d7da?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 10:59
+
+#### [The ex-JPMorgan banker facing Wall Street’s toughest turnaround job](https://www.ft.com/content/43729997-e516-45a9-893b-de7bd729bc2f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-15 10:00
 
 ---
 

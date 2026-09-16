@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-15 09:53
+**最后更新时间**: 2026-09-16 01:15
+
+---
+
+## 🆕 最新更新 (2026-09-16 01:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [华为向赛力斯分权？](https://www.tmtpost.com/8140424.html)
+**发布时间**: 2026-09-16 09:08
+
+#### [一汽入股广汽：汽车国企“大重组”真的开始了吗？](https://www.tmtpost.com/8141306.html)
+**发布时间**: 2026-09-16 08:49
+
+#### [黄仁勋当众接起总统的电话：AI减速之争进入第三个交易日](https://www.tmtpost.com/8140304.html)
+**发布时间**: 2026-09-16 08:36
+
+#### [OpenAI 考虑 1.2 万亿美元融资，拟将首次公开募股推迟至 2027 年](https://www.tmtpost.com/8141318.html)
+**发布时间**: 2026-09-16 08:20
+
+#### [Edge AI Daily 早报（9月16日）](https://www.tmtpost.com/8141323.html)
+**发布时间**: 2026-09-16 08:03
+
+#### [【钛晨报】两部门要求美团、携程等平台，防范化解“全网最低价”等竞争风险；平台月付将退出支付选项？支付宝、京东等多方回应；华为与赛力斯合作模式官宣调整](https://www.tmtpost.com/8141167.html)
+**发布时间**: 2026-09-16 07:20
+
+#### [募投项目终止后改道并购：播恩集团1.125亿接盘希杰资产，主业造血困局待解丨并购一线](https://www.tmtpost.com/8140634.html)
+**发布时间**: 2026-09-15 21:32
+
+#### [香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌 | 并购一线](https://www.tmtpost.com/8141095.html)
+**发布时间**: 2026-09-15 20:12
+
+#### [当Agent进入组织 飞书重新设计了一遍协同办公](https://www.tmtpost.com/8141020.html)
+**发布时间**: 2026-09-15 19:27
+
+#### [在北京的西北角新开了一家科技馆——万千气象看北京](https://www.tmtpost.com/8140653.html)
+**发布时间**: 2026-09-15 18:55
+
+#### [群核上市不到半年，“六小龙”的光环已经罩不住了](https://www.tmtpost.com/8140774.html)
+**发布时间**: 2026-09-15 18:08
+
+#### [Atlas用3D重建开路，世界模型进入可测量的新阶段](https://www.tmtpost.com/8140715.html)
+**发布时间**: 2026-09-15 18:07
+
+#### [华为退后一步，赛力斯能否站到台前](https://www.tmtpost.com/8140406.html)
+**发布时间**: 2026-09-15 18:07
+
+#### [虹膜支付，何时才能跳出AI眼镜的演示噱头？](https://www.tmtpost.com/8140677.html)
+**发布时间**: 2026-09-15 17:59
+
+#### [AI 让智能硬件卖得更贵，但增长消失了](https://www.tmtpost.com/8140671.html)
+**发布时间**: 2026-09-15 17:59
+
+#### [外滩大会复盘观察：AI新经济真正的考题是供给狂飙之后需求去哪里](https://www.tmtpost.com/8140585.html)
+**发布时间**: 2026-09-15 17:58
+
+#### [把运营权交还赛力斯，华为抽身之后，问界能走多远？](https://www.tmtpost.com/8140538.html)
+**发布时间**: 2026-09-15 17:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器](http://www.geekpark.net/news/370375)
+**发布时间**: 2026-09-16 08:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [129亿美元卖身英伟达之后，是时候重新理解Hugging Face了](https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-16 08:00
+
+#### [缓存不该困在一台服务器里](https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 23:00
+
+#### [Agent开始调用基础设施，Kubernetes准备好了吗？](https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 20:38
+
+#### [飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT](https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 18:37
+
+#### [支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎](https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-15 18:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
+**发布时间**: 2026-09-15 17:00
 
 ---
 
