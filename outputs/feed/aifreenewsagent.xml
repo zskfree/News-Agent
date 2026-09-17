@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Sep 2026 09:46:00 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 09:48:03 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 01:09:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:11:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能</title>
-      <link>https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html</link>
-      <description>&lt;![CDATA[AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html</guid>
+      <title>Improving HCLS AI reasoning with open-source agent skills</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/</link>
+      <description>&lt;![CDATA[Improving HCLS AI reasoning with open-source agent skills]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与</title>
-      <link>https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html</link>
-      <description>&lt;![CDATA[Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html</guid>
+      <title>Fault tolerant distributed training on Amazon EKS using NVRx</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/</link>
+      <description>&lt;![CDATA[Fault tolerant distributed training on Amazon EKS using NVRx]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>豆包 2.1 Pro模型更新，已接入豆包工作</title>
-      <link>https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html</link>
-      <description>&lt;![CDATA[豆包 2.1 Pro模型更新，已接入豆包工作]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 14:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html</guid>
+      <title>Optimizing agent system prompts with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Optimizing agent system prompts with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉</title>
-      <link>https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html</link>
-      <description>&lt;![CDATA[奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html</guid>
+      <title>Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/</link>
+      <description>&lt;![CDATA[Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir</title>
-      <link>https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html</link>
-      <description>&lt;![CDATA[王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html</guid>
+      <title>芯片从业者拆解OpenAI造芯，还能再快3个月？</title>
+      <link>https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html</link>
+      <description>&lt;![CDATA[芯片从业者拆解OpenAI造芯，还能再快3个月？]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导</title>
-      <link>https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html</link>
-      <description>&lt;![CDATA[510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html</guid>
+      <title>被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大</title>
+      <link>https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html</link>
+      <description>&lt;![CDATA[被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代</title>
-      <link>https://www.qbitai.com/2026/09/490756.html</link>
-      <description>&lt;![CDATA[高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490756.html</guid>
+      <title>2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」</title>
+      <link>https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html</link>
+      <description>&lt;![CDATA[2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点</title>
+      <link>https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html</link>
+      <description>&lt;![CDATA[华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆</title>
+      <link>https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html</link>
+      <description>&lt;![CDATA[碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 16:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html</guid>
       <category>Ai</category>
     </item>
     <item>
       <title>基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用</title>
-      <link>https://www.qbitai.com/2026/09/490750.html</link>
+      <link>https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html</link>
       <description>&lt;![CDATA[基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490750.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>协同办公进入Agent时代，飞书+豆包工作跑在了最前面</title>
-      <link>https://www.qbitai.com/2026/09/490686.html</link>
-      <description>&lt;![CDATA[协同办公进入Agent时代，飞书+豆包工作跑在了最前面]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 07:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490686.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>西门子不造机器人，为什么机器人进厂的故事里总有它？</title>
-      <link>https://www.qbitai.com/2026/09/490416.html</link>
-      <description>&lt;![CDATA[西门子不造机器人，为什么机器人进厂的故事里总有它？]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 07:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/490416.html</guid>
+      <pubDate>Wed, 16 Sep 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html</guid>
       <category>Ai</category>
     </item>
   </channel>

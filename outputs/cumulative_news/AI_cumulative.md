@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-16 09:46
+**最后更新时间**: 2026-09-17 01:09
+
+---
+
+## 🆕 最新更新 (2026-09-17 01:09)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/)
+**发布时间**: 2026-09-16 19:00
+
+#### [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/)
+**发布时间**: 2026-09-16 18:59
+
+#### [Optimizing agent system prompts with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-16 15:47
+
+#### [Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/)
+**发布时间**: 2026-09-16 15:17
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [芯片从业者拆解OpenAI造芯，还能再快3个月？](https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html)
+**发布时间**: 2026-09-16 18:38
+
+#### [被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大](https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html)
+**发布时间**: 2026-09-16 18:33
+
+#### [2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」](https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html)
+**发布时间**: 2026-09-16 18:02
+
+#### [华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点](https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html)
+**发布时间**: 2026-09-16 17:27
+
+#### [碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆](https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html)
+**发布时间**: 2026-09-16 16:48
+
+#### [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html)
+**发布时间**: 2026-09-16 16:20
+
+#### [清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单](https://www.leiphone.com/category/industrynews/HQ8yti3MYREtevrN.html)
+**发布时间**: 2026-09-16 16:05
+
+#### [大促GMV猛涨500%：激光雕刻设备靠"创意落地"出海东南亚](https://www.leiphone.com/category/industrynews/wGbfydEJOj5JiHMR.html)
+**发布时间**: 2026-09-16 15:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut](https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/)
+**发布时间**: 2026-09-16 15:00
+
+#### [Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers](https://blogs.nvidia.com/blog/ai-energy-management-alliance/)
+**发布时间**: 2026-09-16 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
+**发布时间**: 2026-09-16 13:08
+
+#### [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+**发布时间**: 2026-09-16 08:51
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New AI technique could make minimally invasive surgeries safer and more precise](https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916)
+**发布时间**: 2026-09-16 11:00
 
 ---
 

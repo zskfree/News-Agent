@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-16 09:47
+**最后更新时间**: 2026-09-17 01:11
+
+---
+
+## 🆕 最新更新 (2026-09-17 01:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump suggests EU-Canada associate member deal would be ‘hostile act’](https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 00:30
+
+#### [Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says](https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 23:22
+
+#### [Fed defies Trump with first rate rise since 2023](https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 23:18
+
+#### [Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn](https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 22:32
+
+#### [Bach choir is a rare symbol of unity in a swing state](https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 16:03
+
+#### [AI must not outrun safety controls, DeepMind co-founder warns](https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 14:59
+
+#### [AI bosses’ safety push sparks rift inside OpenAI and Anthropic](https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 12:00
+
+#### [Iran’s hidden leader stirs unease at home](https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+#### [Nuclear fusion’s moment of truth](https://www.ft.com/content/ef511d46-a689-4868-9654-15b96a71586d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-16 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround](https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 23:51
+
+#### [As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases](https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 22:25
+
+#### [My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?](https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 22:16
+
+#### [Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player](https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 21:56
+
+#### [Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.](https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 21:40
+
+#### [Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers](https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 20:52
+
+#### [Here’s a sneaky way to play the Fed’s rate increase](https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 20:38
+
+#### [I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?](https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 19:15
+
+#### [Google is playing a different AI game than everyone else, and Wall Street may be missing the point](https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-16 18:57
 
 ---
 
