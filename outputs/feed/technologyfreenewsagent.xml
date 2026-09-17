@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Sep 2026 01:11:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 01:11:45 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 09:56:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:56:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>IPO前夜，中国医疗器械公司爆款产品被索赔近千万</title>
-      <link>https://www.tmtpost.com/8142366.html</link>
-      <description>&lt;![CDATA[IPO前夜，中国医疗器械公司爆款产品被索赔近千万]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142366.html</guid>
+      <title>让仿真走到设计前端，第叁范式发布国内首款 GPU 原生跨尺度系统级电磁仿真软件</title>
+      <link>https://www.infoq.cn/article/UZM5vKcN4CbNkPUS6Aid?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让仿真走到设计前端，第叁范式发布国内首款 GPU 原生跨尺度系统级电磁仿真软件]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UZM5vKcN4CbNkPUS6Aid?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金融理财产品不能“种草”了，流量和交易开始分家</title>
-      <link>https://www.tmtpost.com/8142207.html</link>
-      <description>&lt;![CDATA[金融理财产品不能“种草”了，流量和交易开始分家]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142207.html</guid>
+      <title>阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作</title>
+      <link>https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注</title>
-      <link>https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 19:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5PVJPjNlo2g1XKl90u1F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相</title>
+      <link>https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>HYROX失禁风波引争议，王健林拿近20亿提前“退场”？</title>
-      <link>https://www.tmtpost.com/8142409.html</link>
-      <description>&lt;![CDATA[HYROX失禁风波引争议，王健林拿近20亿提前“退场”？]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142409.html</guid>
+      <title>亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”</title>
+      <link>https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>电池江湖暗涌，二线电池厂疯涨</title>
-      <link>https://www.tmtpost.com/8142365.html</link>
-      <description>&lt;![CDATA[电池江湖暗涌，二线电池厂疯涨]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142365.html</guid>
+      <title>如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海</title>
+      <link>https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>免费音乐，卷土重来？</title>
-      <link>https://www.tmtpost.com/8142177.html</link>
-      <description>&lt;![CDATA[免费音乐，卷土重来？]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142177.html</guid>
+      <title>AI赢得了芯片，输不起一次停电</title>
+      <link>https://www.tmtpost.com/8143474.html</link>
+      <description>&lt;![CDATA[AI赢得了芯片，输不起一次停电]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143474.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包手机，开始“敲门”</title>
-      <link>https://www.tmtpost.com/8142170.html</link>
-      <description>&lt;![CDATA[豆包手机，开始“敲门”]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142170.html</guid>
+      <title>追觅四大赛道 IFA 首秀：一套技术，四个出口</title>
+      <link>http://www.geekpark.net/news/370506</link>
+      <description>&lt;![CDATA[追觅四大赛道 IFA 首秀：一套技术，四个出口]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370506</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IRON走下产线，小鹏开始为智能寻找第二个身体</title>
-      <link>https://www.tmtpost.com/8142178.html</link>
-      <description>&lt;![CDATA[IRON走下产线，小鹏开始为智能寻找第二个身体]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142178.html</guid>
+      <title>派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等</title>
+      <link>https://sspai.com/post/114658</link>
+      <description>&lt;![CDATA[派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 08:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114658</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>罗永浩两次站台之后：钟薛高开打“复活加时赛”</title>
-      <link>https://www.tmtpost.com/8142213.html</link>
-      <description>&lt;![CDATA[罗永浩两次站台之后：钟薛高开打“复活加时赛”]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142213.html</guid>
+      <title>硬件调试进入 Web 时代：浏览器成了新的工程师工作台</title>
+      <link>https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[硬件调试进入 Web 时代：浏览器成了新的工程师工作台]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（9月17日）</title>
-      <link>https://www.tmtpost.com/8142519.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（9月17日）]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142519.html</guid>
+      <title>9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？</title>
+      <link>https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

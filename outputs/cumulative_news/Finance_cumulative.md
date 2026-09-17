@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-17 01:11
+**最后更新时间**: 2026-09-17 09:56
+
+---
+
+## 🆕 最新更新 (2026-09-17 09:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist](https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 09:16
+
+#### [‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?](https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 09:15
+
+#### [Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed](https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 07:50
+
+#### [‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.](https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 07:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China cuts US Treasury holdings to lowest level since 2008](https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 07:43
+
+#### [OpenAI discloses new ‘concerning’ model behaviour](https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 07:42
+
+#### [Getting to know Mr Warsh](https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 05:30
+
+#### [HSBC axes $38,000 school fee perk for new Hong Kong bankers](https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 05:15
+
+#### [Trump fails to bend the Fed to his will](https://www.ft.com/content/fb8e1037-8c48-49d2-809e-950472bcbae5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+#### [The era of AI warfare has arrived](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+#### [Apple’s most valuable product isn’t the iPhone](https://www.ft.com/content/f5325951-7049-4d3a-97e4-cbe34f9058d8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+#### [Who was right on job creation — Adam Smith or Schumpeter?](https://www.ft.com/content/9edd3f8c-c28b-4532-b5c1-fa55ad71e432?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+#### [EU asks China to voluntarily limit hybrid car exports](https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+#### [Thousands of Barclays staff revolt against three-day office mandate](https://www.ft.com/content/ca551e46-8ced-4e63-ace1-bdf20caedce7)
+**发布时间**: 2026-09-17 04:00
+
+#### [DeepMind offshoot nears $4bn valuation just a month after founding](https://www.ft.com/content/0b83cb60-0d07-49a7-a46a-654077a75b39?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
 
 ---
 

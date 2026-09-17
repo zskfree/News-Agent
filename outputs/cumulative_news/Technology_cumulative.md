@@ -1,7 +1,126 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-17 01:11
+**最后更新时间**: 2026-09-17 09:56
+
+---
+
+## 🆕 最新更新 (2026-09-17 09:56)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [硬件调试进入 Web 时代：浏览器成了新的工程师工作台](https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 17:21
+
+#### [9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？](https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 16:00
+
+#### [阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作](https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:50
+
+#### [让仿真走到设计前端，第叁范式发布国内首款 GPU 原生跨尺度系统级电磁仿真软件](https://www.infoq.cn/article/UZM5vKcN4CbNkPUS6Aid?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:43
+
+#### [边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻](https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:33
+
+#### [汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段](https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:23
+
+#### [Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源](https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:23
+
+#### [.NET 11 Preview 7为MAUI添加了Passkeys、增量XAML热重载和Shell路由模板](https://www.infoq.cn/article/UI8Js3eFwYNOGTIszfe8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 15:06
+
+#### [ESLint 最坚固的护城河，正被 Rust 和 Go 联手攻破](https://www.infoq.cn/article/ymjJ9iJxHIU8iYpkPglp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 13:00
+
+#### [vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相](https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 12:37
+
+#### [亚马逊云科技服务越做越多，Terraform Provider 正在变成关键“翻译层”](https://www.infoq.cn/article/W9wJHIvu52BTYVHZZim3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 11:10
+
+#### [如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海](https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 10:00
+
+#### [Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体](https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 10:00
+
+#### [在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？](https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 09:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [厨房掀起“钛革命”：风口之下，谁来给钛材定规矩？](https://www.tmtpost.com/8143130.html)
+**发布时间**: 2026-09-17 16:44
+
+#### [智谱融资背后：一场没有枪声的卡位战](https://www.tmtpost.com/8143610.html)
+**发布时间**: 2026-09-17 16:28
+
+#### [Altman 对话 Benioff：开源模型会不会失控](https://www.tmtpost.com/8143199.html)
+**发布时间**: 2026-09-17 16:21
+
+#### [取消“全网最低价”后，酒店为什么反而更便宜？](https://www.tmtpost.com/8143566.html)
+**发布时间**: 2026-09-17 16:14
+
+#### [铜箔告急，锂价重挫：2027年一季度的供需变局，正在倒计时](https://www.tmtpost.com/8143528.html)
+**发布时间**: 2026-09-17 16:09
+
+#### [从130亿美元到1050亿美元，张一鸣的钱为什么越来越多](https://www.tmtpost.com/8143493.html)
+**发布时间**: 2026-09-17 16:02
+
+#### [世界模型入口战：字节向左，京东向右](https://www.tmtpost.com/8143284.html)
+**发布时间**: 2026-09-17 15:54
+
+#### [候选人被截胡、岗位长期空缺：AI制药挖不来的大牛，长什么样？](https://www.tmtpost.com/8143345.html)
+**发布时间**: 2026-09-17 15:54
+
+#### [AI赢得了芯片，输不起一次停电](https://www.tmtpost.com/8143474.html)
+**发布时间**: 2026-09-17 15:51
+
+#### [聊天即干活，Claude不用再切换入口了](https://www.tmtpost.com/8143418.html)
+**发布时间**: 2026-09-17 15:48
+
+#### [20亿首轮，字节分拆AI制药拿下巨额融资](https://www.tmtpost.com/8143340.html)
+**发布时间**: 2026-09-17 15:48
+
+#### [Astra的走红，证明OpenAI放弃Sora是一个英明决策](https://www.tmtpost.com/8143405.html)
+**发布时间**: 2026-09-17 15:43
+
+#### [谷歌给RSI找到了一条捷径：做梦](https://www.tmtpost.com/8143390.html)
+**发布时间**: 2026-09-17 15:40
+
+#### [开源中国马越：Token 要管起来，AI 投入需要一本明白账](https://www.tmtpost.com/8143305.html)
+**发布时间**: 2026-09-17 13:35
+
+#### [易鑫解码“Human-Centric Long Horizon Agent”：企业级Agent最难的不是完成任务，是理解人](https://www.tmtpost.com/8143309.html)
+**发布时间**: 2026-09-17 13:34
+
+#### [华为放手，问界会好吗？](https://www.tmtpost.com/8143235.html)
+**发布时间**: 2026-09-17 13:09
+
+#### [迟到七年的苹果，撞上了一个它定不了价的市场](https://www.tmtpost.com/8143171.html)
+**发布时间**: 2026-09-17 12:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [京东押注物理 AI，冲在前面的是一群 95 后](http://www.geekpark.net/news/370519)
+**发布时间**: 2026-09-17 15:51
+
+#### [追觅四大赛道 IFA 首秀：一套技术，四个出口](http://www.geekpark.net/news/370506)
+**发布时间**: 2026-09-17 12:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
+**发布时间**: 2026-09-17 15:00
+
+#### [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
+**发布时间**: 2026-09-17 11:11
+
+#### [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
+**发布时间**: 2026-09-17 08:25
 
 ---
 

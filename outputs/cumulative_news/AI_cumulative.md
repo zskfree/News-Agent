@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-17 01:09
+**最后更新时间**: 2026-09-17 09:54
+
+---
+
+## 🆕 最新更新 (2026-09-17 09:54)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [豆包座舱助手发布，首款合作车型即将开启预售](https://www.leiphone.com/category/industrynews/4zVPQ7JUQYXHp2wh.html)
+**发布时间**: 2026-09-17 15:03
+
+#### [蚂蚁集团成为上海第48届世界技能大赛国家战略合作伙伴](https://www.leiphone.com/category/industrynews/85VHkGZ7UcQiHnEs.html)
+**发布时间**: 2026-09-17 13:43
+
+#### [几何的「反攻」！港科大谭平：从局部先验到全局一致，3D 几何如何增强视觉大模型 | ECCV 2026](https://www.leiphone.com/category/private/tHpZwtHv9PrtUrXu.html)
+**发布时间**: 2026-09-17 11:20
+
+#### [独家解读丨国产GPU四份半年报出炉，赚钱后才发现二级市场「难哄」](https://www.leiphone.com/category/chips/71GoaJ1VfyRyIh90.html)
+**发布时间**: 2026-09-17 10:12
+
+#### [从百美元到数千美元，AI互联为什么越卖越贵？](https://www.leiphone.com/category/chips/xAePCGn6qmz5BxmS.html)
+**发布时间**: 2026-09-17 10:03
+
+#### [折叠屏还在比大小，努比亚已经在抢另一个入口](https://www.leiphone.com/category/industrynews/x3BzRX7YdnnxEOzL.html)
+**发布时间**: 2026-09-17 09:50
+
+#### [专访零跑周洪涛：2026年冲刺智驾头部，零跑的进度条比想象中快](https://www.leiphone.com/category/transportation/84JBShT5UwbEiYza.html)
+**发布时间**: 2026-09-17 08:38
+
+#### [周鸿祎：不会再投资新能源汽车，已经吃过一次亏；OpenAI洽谈新融资，估值或超1.2万亿美元；花呗、抖音月付等将退出支付选项？多平台回应](https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html)
+**发布时间**: 2026-09-17 08:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [马斯克睡进工地！为AI基建拼了](https://www.qbitai.com/2026/09/491280.html)
+**发布时间**: 2026-09-17 04:37
+
+#### [首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利](https://www.qbitai.com/2026/09/491147.html)
+**发布时间**: 2026-09-17 03:39
+
+#### [国产RSI模型交卷！Flash模型靠它反打旗舰](https://www.qbitai.com/2026/09/491091.html)
+**发布时间**: 2026-09-17 03:26
+
+#### [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
+**发布时间**: 2026-09-17 02:01
+
+#### [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
+**发布时间**: 2026-09-17 01:55
+
+#### [罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元](https://www.qbitai.com/2026/09/490950.html)
+**发布时间**: 2026-09-17 01:09
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-17日刊](https://hex2077.dev/docs/2026-09/2026-09-17/)
+**发布时间**: 2026-09-17 02:49
 
 ---
 
