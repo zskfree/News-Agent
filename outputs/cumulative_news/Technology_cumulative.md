@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-17 09:56
+**最后更新时间**: 2026-09-18 01:07
+
+---
+
+## 🆕 最新更新 (2026-09-18 01:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月18日）](https://www.tmtpost.com/8144183.html)
+**发布时间**: 2026-09-18 08:30
+
+#### [一位CIO的自我革命：AI三年，从内部重构到外部生长](https://www.tmtpost.com/8141973.html)
+**发布时间**: 2026-09-18 08:00
+
+#### [Agent手机爆发前夜，vivo把答案押在"个人化智能"](https://www.tmtpost.com/8143272.html)
+**发布时间**: 2026-09-18 07:28
+
+#### [【钛晨报】金融产品网络营销新规落地在即，上海证监局叫停“大V”合作营销；三大交易所发布中秋、国庆休市安排；宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能](https://www.tmtpost.com/8144053.html)
+**发布时间**: 2026-09-18 07:20
+
+#### [从过山车到机器人：金马游乐5.61亿定增的战略转向与风险](https://www.tmtpost.com/8143448.html)
+**发布时间**: 2026-09-17 23:41
+
+#### [重资产举债入局，又一老牌药企签下十亿级算力大单丨行业风向标](https://www.tmtpost.com/8144031.html)
+**发布时间**: 2026-09-17 23:27
+
+#### [万亿市场背后，AI数据基础设施的竞赛已经开始](https://www.tmtpost.com/8143760.html)
+**发布时间**: 2026-09-17 19:36
+
+#### [机器人企业还没拿到“大结果”](https://www.tmtpost.com/8143738.html)
+**发布时间**: 2026-09-17 19:36
+
+#### [“外卖大战”后：第三方配送全面洗牌](https://www.tmtpost.com/8143727.html)
+**发布时间**: 2026-09-17 19:36
+
+#### [8.36亿抄底，华谊兄弟易主，沪圈影视大佬接盘](https://www.tmtpost.com/8143692.html)
+**发布时间**: 2026-09-17 19:36
+
+#### [机器人开始制造机器人了？万台产能背后残酷大考才刚开始](https://www.tmtpost.com/8143691.html)
+**发布时间**: 2026-09-17 19:34
+
+#### [广汽的这张逆天王牌，才是一汽最想要的](https://www.tmtpost.com/8142151.html)
+**发布时间**: 2026-09-17 19:34
+
+#### [端侧AI之战正式打响](https://www.tmtpost.com/8143618.html)
+**发布时间**: 2026-09-17 19:34
+
+#### [当AI开始算账：一家算力企业的“智企”实践样本丨2026 ITValue Summit 数字价值年会](https://www.tmtpost.com/8143846.html)
+**发布时间**: 2026-09-17 18:41
+
+#### [宠物AI硬件，最天然的“钉子”，最难验证的答案](https://www.tmtpost.com/8143737.html)
+**发布时间**: 2026-09-17 18:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍](http://www.geekpark.net/news/370539)
+**发布时间**: 2026-09-18 08:17
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra](https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 21:00
+
+#### [百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮](https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-17 19:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
+**发布时间**: 2026-09-17 17:47
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [我近期看到的最有创意的 GitHub 开源项目，太惊艳了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537028&idx=1&sn=ff6795bdfefff71abf5a3284eff7fb80)
+**发布时间**: 2026-09-17 11:10
 
 ---
 

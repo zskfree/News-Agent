@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-17 09:54
+**最后更新时间**: 2026-09-18 01:05
+
+---
+
+## 🆕 最新更新 (2026-09-18 01:05)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [华为开创AI时代计算架构：让百万处理器成为一台计算机](https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html)
+**发布时间**: 2026-09-17 22:25
+
+#### [360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径](https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html)
+**发布时间**: 2026-09-17 20:31
+
+#### [九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式](https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html)
+**发布时间**: 2026-09-17 18:14
+
+#### [安芯启程｜安芯724北京基地正式投产](https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html)
+**发布时间**: 2026-09-17 17:44
+
+#### [蚂蚁集团全员接入千问办公，打造大型企业办公标杆](https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html)
+**发布时间**: 2026-09-17 16:25
+
+#### [AI办公之外，百度智能云为何盯上「产业智能体操作系统」？](https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html)
+**发布时间**: 2026-09-17 16:15
+
+#### [独家丨BAT 天价挖 Gemini 大牛，可惜都挖错了](https://www.leiphone.com/category/industrynews/dXtXNwFL1snjR35X.html)
+**发布时间**: 2026-09-17 16:02
+
+#### [独家丨前腾讯混元预训练负责人姚星丞，加入Thinking Machines Lab](https://www.leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html)
+**发布时间**: 2026-09-17 15:52
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/)
+**发布时间**: 2026-09-17 20:45
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent](https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/)
+**发布时间**: 2026-09-17 17:55
+
+#### [Selecting a vector store for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/)
+**发布时间**: 2026-09-17 15:53
+
+#### [A serverless, data-driven Git metrics dashboard using Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/)
+**发布时间**: 2026-09-17 15:42
+
+#### [A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-17 15:41
+
+#### [How MRH Trowe enabled secure self-service AI agents in financial services](https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/)
+**发布时间**: 2026-09-17 15:36
+
+#### [Implementing defense-in-depth authorization for MCP tools on Amazon Quick](https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/)
+**发布时间**: 2026-09-17 15:30
+
+#### [Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-09-17 15:28
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/)
+**发布时间**: 2026-09-17 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从“会回答”到“会办事”，vivo如何解AI手机这道题？](https://www.qbitai.com/2026/09/491649.html)
+**发布时间**: 2026-09-17 12:03
+
+#### [Claude Code团队讲究啊，这都往外说](https://www.qbitai.com/2026/09/491596.html)
+**发布时间**: 2026-09-17 11:56
+
+#### [图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家](https://www.qbitai.com/2026/09/491522.html)
+**发布时间**: 2026-09-17 09:42
+
+#### [央企做了个通用Agent，直接杀进IDC实测前三！](https://www.qbitai.com/2026/09/491454.html)
+**发布时间**: 2026-09-17 09:39
+
+#### [Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了](https://www.qbitai.com/2026/09/491391.html)
+**发布时间**: 2026-09-17 09:07
+
+#### [刚刚，唐杰发布智谱RSI首个成果](https://www.qbitai.com/2026/09/491357.html)
+**发布时间**: 2026-09-17 08:28
 
 ---
 

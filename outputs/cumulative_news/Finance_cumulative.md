@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-17 09:56
+**最后更新时间**: 2026-09-18 01:07
+
+---
+
+## 🆕 最新更新 (2026-09-18 01:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump administration approves $24bn sale of F-35 jets to Saudi Arabia](https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 22:22
+
+#### [Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home](https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 17:24
+
+#### [Hispanic voters feel ‘betrayed’ by Trump, top Republican says](https://www.ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 17:10
+
+#### [Has AI broken the old VC model?](https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 16:46
+
+#### [Turkish authorities rush to stem fallout from stock market scandal](https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 11:59
+
+#### [China’s AI labs must accelerate development, says Huawei chair](https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 10:50
+
+#### [Wall Street warns trading boom is losing steam](https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 10:00
+
+#### [The rebel offensive that shook Saudi Arabia](https://www.ft.com/content/d63eb228-87a6-4cce-99fb-777532cd4012?syn-25a6b1a6=1)
+**发布时间**: 2026-09-17 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.](https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 21:22
+
+#### [Micron, Intel and other chip stocks are furthering their strong comebacks](https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 21:22
+
+#### [Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?](https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 21:09
+
+#### [Tesla’s upcoming product frenzy could leave investors disappointed](https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 20:23
+
+#### [Pet insurance or savings account: What’s the best way to plan for a big vet bill?](https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 20:19
+
+#### [Pokémon has turned 30, and Target is set to cash in on the anniversary craze](https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 20:13
+
+#### [Saudi Arabia is now pushing to export more oil through the Strait of Hormuz](https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 19:52
+
+#### [My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?](https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 19:07
+
+#### [This is the only cybersecurity stock that can post big gains, according to one analyst](https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 18:46
+
+#### [Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery](https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories)
+**发布时间**: 2026-09-17 17:42
 
 ---
 
