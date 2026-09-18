@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-18 01:07
+**最后更新时间**: 2026-09-18 09:27
+
+---
+
+## 🆕 最新更新 (2026-09-18 09:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 09:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Yen sinks after BoJ raises rates to highest since 1995](https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 08:32
+
+#### [Medical AI has a proof problem](https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 04:00
+
+#### [Liechtenstein royals threaten lawsuit over dynasty reforms](https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 04:00
+
+#### [Venezuela nears deal to tap disputed $4bn gold reserve](https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 04:00
+
+#### [Democrats vow to pursue ‘Trump crime family’ after midterm elections](https://www.ft.com/content/0e64746c-d531-4ceb-a700-e5e47289bfb3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 04:00
+
+#### [Iran switches from ships to trucks to evade US blockade](https://www.ft.com/content/f69943f7-b173-444c-a79e-c9396a0380bd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 04:00
+
+#### [OpenAI breached by researchers using Anthropic models](https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 03:31
+
+#### [OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO](https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 03:04
 
 ---
 

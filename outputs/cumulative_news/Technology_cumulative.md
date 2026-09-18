@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-18 01:07
+**最后更新时间**: 2026-09-18 09:27
+
+---
+
+## 🆕 最新更新 (2026-09-18 09:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化](https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 17:00
+
+#### [唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”](https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 16:48
+
+#### [ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS](https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 15:53
+
+#### [微软借助 AI 单月修补超千个安全漏洞](https://www.infoq.cn/article/eluArohETBhwjjYZRoMG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 14:48
+
+#### [亚马逊云科技开放 AL2027 预览，开发者最关心的却是：能原地升级吗？](https://www.infoq.cn/article/tbUQhEqo7etbjfyuyNK0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 14:00
+
+#### [被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索](https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 12:35
+
+#### [6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能](https://www.infoq.cn/article/da8jMox7ikdNmD2vYyTm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 12:00
+
+#### [Agoda 用 DragonflyDB 替换 SQL Server：真正难的不是性能，而是平稳切换](https://www.infoq.cn/article/2kGlAwpJrK9I5kdDHLGz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 11:20
+
+#### [让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海](https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 10:00
+
+#### [700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件](https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 09:04
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [联想集团股价再创新高，CFO曾称完全被市场低估](https://www.tmtpost.com/8144761.html)
+**发布时间**: 2026-09-18 16:25
+
+#### [硅谷也开启AI办公大战了](https://www.tmtpost.com/8144624.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [23 岁，10 万用户，估值 100 亿美元：硅谷 VC 正在批量生产“纸面独角兽”](https://www.tmtpost.com/8143708.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [豆包手机想得美](https://www.tmtpost.com/8144534.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [从谷歌到字节，每个大厂，终将拥有一家药厂](https://www.tmtpost.com/8144446.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [Anthropic之恶](https://www.tmtpost.com/8144519.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [固态电池未来3年的剧本大抵是这样的](https://www.tmtpost.com/8144404.html)
+**发布时间**: 2026-09-18 16:05
+
+#### [零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床](https://www.tmtpost.com/8144641.html)
+**发布时间**: 2026-09-18 15:08
+
+#### [主营天花板板材的阿姆斯特朗世界工业，股票并不平淡](https://www.tmtpost.com/8144615.html)
+**发布时间**: 2026-09-18 13:50
+
+#### [对话超维动力喻杰：具身智能，没有弯道超车｜独家](https://www.tmtpost.com/8144542.html)
+**发布时间**: 2026-09-18 13:14
+
+#### [iPhone的生态位，被豆包手机抢了吗？](https://www.tmtpost.com/8144026.html)
+**发布时间**: 2026-09-18 11:24
+
+#### [地瓜机器人C轮融资4亿美元：资本不再为Demo买单，只为量产续费](https://www.tmtpost.com/8144105.html)
+**发布时间**: 2026-09-18 11:24
+
+#### [AI制药独角兽Anew单飞，字节推了一把“最烧钱的慢生意”](https://www.tmtpost.com/8144119.html)
+**发布时间**: 2026-09-18 11:24
+
+#### [拆解HYROX的生意经：商业狂飙，规则难做](https://www.tmtpost.com/8144189.html)
+**发布时间**: 2026-09-18 11:24
+
+#### [AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”](https://www.tmtpost.com/8144468.html)
+**发布时间**: 2026-09-18 11:23
+
+#### [AI狂飙撞上绿色转型，大厂算力迎来绿电考验](https://www.tmtpost.com/8144361.html)
+**发布时间**: 2026-09-18 10:48
+
+#### [半导体TOP10，又洗牌了](https://www.tmtpost.com/8143849.html)
+**发布时间**: 2026-09-18 10:46
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
+**发布时间**: 2026-09-18 14:55
+
+#### [具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
+**发布时间**: 2026-09-18 11:30
+
+#### [让 Agent 读懂你的身体：数据获取篇](https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis)
+**发布时间**: 2026-09-18 11:19
+
+#### [派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
+**发布时间**: 2026-09-18 08:17
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 4 个夯夯夯夯的 GitHub 开源项目，特别是第 2 个。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537034&idx=1&sn=a81b159785dac2887c1145f48825dd72)
+**发布时间**: 2026-09-18 10:57
 
 ---
 

@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-18 01:05
+**最后更新时间**: 2026-09-18 09:25
+
+---
+
+## 🆕 最新更新 (2026-09-18 09:25)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家解读丨行业首创之后，极壳Halo的账能算平吗？](https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html)
+**发布时间**: 2026-09-18 15:12
+
+#### [独家丨皓翊星辰融资千万级美金，厚雪孵化，绿洲、砺思投了](https://www.leiphone.com/category/weiwu/SvTVpNCuYHpbNAxA.html)
+**发布时间**: 2026-09-18 15:00
+
+#### [深度解读：智谱为什么要在 Infra 层搞 RSI？](https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html)
+**发布时间**: 2026-09-18 14:48
+
+#### [在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」](https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html)
+**发布时间**: 2026-09-18 14:28
+
+#### [仅用3天！千问办公协助国家天文台科研团队打造科研级望远镜仿真系统](https://www.leiphone.com/category/industrynews/HlXq3tJy48q1NubA.html)
+**发布时间**: 2026-09-18 14:24
+
+#### [独家丨OpenAI的一款无屏硬件，正在深圳试制](https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html)
+**发布时间**: 2026-09-18 14:23
+
+#### [OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」](https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html)
+**发布时间**: 2026-09-18 14:06
+
+#### [英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？](https://www.leiphone.com/category/ai/XpCc8XUGypadWNGt.html)
+**发布时间**: 2026-09-18 14:02
+
+#### [福田汽车汉诺威亮牌，中国商用车出海不再只卖车](https://www.leiphone.com/category/industrynews/QbZL0Bl37gVKghWM.html)
+**发布时间**: 2026-09-18 13:56
+
+#### [关于问界专属专营的问答](https://www.leiphone.com/category/industrynews/DwlZE0y6dWlAWtZq.html)
+**发布时间**: 2026-09-18 13:51
+
+#### [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.leiphone.com/category/CorporateServices/1lPprbjrYIkKy5vq.html)
+**发布时间**: 2026-09-18 12:26
+
+#### [影视飓风Tim称「iPhoneDuo烫到握不住，可以煎鸡蛋」；罗福莉直播小米大模型训练，每小时烧掉超20万元；曝玛莎拉蒂与华为合作两款新车](https://www.leiphone.com/category/zaobao/MJprK3aEw1xPngou.html)
+**发布时间**: 2026-09-18 08:19
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-18日刊](https://hex2077.dev/docs/2026-09/2026-09-18/)
+**发布时间**: 2026-09-18 13:25
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线](https://www.qbitai.com/2026/09/491875.html)
+**发布时间**: 2026-09-18 06:11
+
+#### [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
+**发布时间**: 2026-09-18 00:37
+
+#### [刚刚，Claude Code大重构！内部3万Agent管理技术免费开放](https://www.qbitai.com/2026/09/491711.html)
+**发布时间**: 2026-09-18 00:34
 
 ---
 
