@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-18 09:27
+**最后更新时间**: 2026-09-19 01:04
+
+---
+
+## 🆕 最新更新 (2026-09-19 01:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic brings in Accenture for AI safety testing](https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 23:38
+
+#### [Trump says US has deal with Denmark for ‘control’ of Greenland’s security](https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 22:48
+
+#### [OpenAI expects to burn $280bn by 2030](https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 22:33
+
+#### [Trump bans major US news outlets from White House](https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 22:00
+
+#### [Trump says son paid back Russian businessman for wedding weekend gift](https://www.ft.com/content/863ca377-cbc2-4ca1-bb3d-c2478571359e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 21:45
+
+#### [Oracle’s $18bn data centre debt under strain amid local pushback](https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 20:48
+
+#### [Ex-Apollo executive admits to improperly using company documents](https://www.ft.com/content/c57e73d1-547d-4f69-addb-6516845fbe6d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 19:18
+
+#### [Anthropic and the golden rules of business](https://www.ft.com/content/e2d2b86f-4f22-477f-9578-75c72683f1e9)
+**发布时间**: 2026-09-18 15:40
+
+#### [Former Wells Fargo asset manager Allspring explores $4bn sale](https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 14:12
+
+#### [Xi’s edge over Trump on AI](https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-18 13:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 23:30
+
+#### [Why investors shouldn’t be spooked by fears of an October stock-market crash](https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 22:41
+
+#### [It’s almost impossible to sell a condo unit these days: ‘I feel trapped’](https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 21:16
+
+#### [Amazon, Palantir and 12 more top tech stock picks from UBS analysts](https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 21:14
+
+#### [Stocks are failing the ‘breadth’ test, but options traders still see reason to buy](https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 20:48
+
+#### [Most of what you know about data centers is wrong](https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-18 20:15
 
 ---
 

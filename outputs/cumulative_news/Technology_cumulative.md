@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-18 09:27
+**最后更新时间**: 2026-09-19 01:03
+
+---
+
+## 🆕 最新更新 (2026-09-19 01:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月19日）](https://www.tmtpost.com/8145335.html)
+**发布时间**: 2026-09-19 08:30
+
+#### [外卖“御三家”：狂热开始，理性收敛](https://www.tmtpost.com/8144061.html)
+**发布时间**: 2026-09-18 18:24
+
+#### [罗福莉压力有多大？都给小米模型训练整上直播了](https://www.tmtpost.com/8144556.html)
+**发布时间**: 2026-09-18 18:23
+
+#### [月之暗面递表之后，Kimi 的成色要被验算三遍](https://www.tmtpost.com/8144610.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [东方Gelato，野人先生真正的护城河](https://www.tmtpost.com/8144654.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [赛力斯的真正考验，来了](https://www.tmtpost.com/8144771.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [办公Agent之战，才刚刚找到战场](https://www.tmtpost.com/8144821.html)
+**发布时间**: 2026-09-18 18:16
+
+#### [珀莱雅投资毕生之研；ALO官宣中国市场七城八店零售布局；星巴克中国新一代旗舰店亮相北京SKP；NikeSKIMS品牌正式进入中国｜消研所周报](https://www.tmtpost.com/8144867.html)
+**发布时间**: 2026-09-18 18:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道](http://www.geekpark.net/news/370608)
+**发布时间**: 2026-09-19 08:01
+
+#### [AI 硬件创业者，疯狂涌入手机的背面](http://www.geekpark.net/news/370610)
+**发布时间**: 2026-09-18 22:07
+
+#### [那个教 ChatGPT 说话的人，做了一个「哑巴」模型](http://www.geekpark.net/news/370603)
+**发布时间**: 2026-09-18 17:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署](https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-18 18:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
+**发布时间**: 2026-09-18 17:58
 
 ---
 
