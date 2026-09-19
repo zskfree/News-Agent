@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-19 01:03
+**最后更新时间**: 2026-09-19 09:16
+
+---
+
+## 🆕 最新更新 (2026-09-19 09:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务](https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 17:02
+
+#### [Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里](https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 13:00
+
+#### [单个机柜到底能跑多少个 Agent？答案不在 GPU 身上](https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 10:55
+
+#### [Docker推出完全重构的虚拟化层以提升性能并改善开发体验](https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 10:00
+
+#### [从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海](https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [姚星丞之后，AI人才的中间层开始掉价](https://www.tmtpost.com/8145649.html)
+**发布时间**: 2026-09-19 16:28
+
+#### [AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位](https://www.tmtpost.com/8145624.html)
+**发布时间**: 2026-09-19 16:28
+
+#### [从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围](https://www.tmtpost.com/8145660.html)
+**发布时间**: 2026-09-19 16:27
+
+#### [精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？](https://www.tmtpost.com/8145663.html)
+**发布时间**: 2026-09-19 15:13
+
+#### [Gemini 4 Pro疑似泄露，“AI减速”又成空话](https://www.tmtpost.com/8145550.html)
+**发布时间**: 2026-09-19 10:54
+
+#### [是谁在买300倍PE利润的“神股”？](https://www.tmtpost.com/8145422.html)
+**发布时间**: 2026-09-19 10:33
+
+#### [关于豆包手机二代，我最关心这10个问题](https://www.tmtpost.com/8145343.html)
+**发布时间**: 2026-09-19 10:25
+
+#### [美联储重启加息：AI 企业融资难度急剧攀升](https://www.tmtpost.com/8145311.html)
+**发布时间**: 2026-09-19 10:18
+
+#### [理想告别，吉利合体，宁王还是那个宁王](https://www.tmtpost.com/8145046.html)
+**发布时间**: 2026-09-19 10:13
+
+#### [德邦基金太“魔幻”：单只基金亏损22亿，管理费涨了55倍](https://www.tmtpost.com/8145304.html)
+**发布时间**: 2026-09-19 10:06
+
+#### [几多全不想当金粒门平替，但越来越贵了](https://www.tmtpost.com/8145051.html)
+**发布时间**: 2026-09-19 10:06
+
+#### [AI办公，自费上班打工人的第一笔“首付”](https://www.tmtpost.com/8145186.html)
+**发布时间**: 2026-09-19 10:00
+
+#### [华为放手之后，赛力斯能接住问界吗？](https://www.tmtpost.com/8144991.html)
+**发布时间**: 2026-09-19 10:00
+
+#### [5 万亿美元的账面富贵：VC 也需要一份尽调](https://www.tmtpost.com/8144989.html)
+**发布时间**: 2026-09-19 09:57
+
+#### [锌的“托克时代”：LME库存低位背后，可交割的锌在谁手里？](https://www.tmtpost.com/8144985.html)
+**发布时间**: 2026-09-19 09:57
+
+#### [何小鹏，哄好了王凤英](https://www.tmtpost.com/8144913.html)
+**发布时间**: 2026-09-19 09:54
+
+#### [沉默的28元：罗永浩开炮，野人先生为什么不接招？](https://www.tmtpost.com/8145038.html)
+**发布时间**: 2026-09-19 09:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
+**发布时间**: 2026-09-19 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对拿下一轮投资最有效的沟通，是「思想履约」](http://www.geekpark.net/news/370611)
+**发布时间**: 2026-09-19 12:10
 
 ---
 

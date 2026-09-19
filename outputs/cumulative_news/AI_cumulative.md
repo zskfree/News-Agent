@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-19 01:00
+**最后更新时间**: 2026-09-19 09:13
+
+---
+
+## 🆕 最新更新 (2026-09-19 09:13)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速](https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html)
+**发布时间**: 2026-09-19 09:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”](https://www.qbitai.com/2026/09/492467.html)
+**发布时间**: 2026-09-19 06:44
+
+#### [AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水](https://www.qbitai.com/2026/09/492429.html)
+**发布时间**: 2026-09-19 06:39
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-19日刊](https://hex2077.dev/docs/2026-09/2026-09-19/)
+**发布时间**: 2026-09-19 06:09
 
 ---
 

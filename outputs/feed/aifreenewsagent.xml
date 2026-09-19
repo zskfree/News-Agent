@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 01:04:20 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 09:13:00 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:16:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amazon SageMaker Inference: 2026 year-to-date launches in review</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/</link>
-      <description>&lt;![CDATA[Amazon SageMaker Inference: 2026 year-to-date launches in review]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/</guid>
+      <title>华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速</title>
+      <link>https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html</link>
+      <description>&lt;![CDATA[华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing Kimi K3 on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Introducing Kimi K3 on Amazon Bedrock]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/</guid>
+      <title>陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”</title>
+      <link>https://www.qbitai.com/2026/09/492467.html</link>
+      <description>&lt;![CDATA[陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492467.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/</link>
-      <description>&lt;![CDATA[Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/</guid>
+      <title>AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水</title>
+      <link>https://www.qbitai.com/2026/09/492429.html</link>
+      <description>&lt;![CDATA[AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492429.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The new AgentCore runtime: Elastic, optimized, and consistently fast starts</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/</link>
-      <description>&lt;![CDATA[The new AgentCore runtime: Elastic, optimized, and consistently fast starts]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Deploy Hugging Face models on Amazon SageMaker AI with coding agents</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/</link>
-      <description>&lt;![CDATA[Deploy Hugging Face models on Amazon SageMaker AI with coding agents]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Introducing Amazon SageMaker HyperPod Inference Gateway</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/</link>
-      <description>&lt;![CDATA[Introducing Amazon SageMaker HyperPod Inference Gateway]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>MilleMiglia: A realistic instance generator for middle-mile logistics</title>
-      <link>https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</link>
-      <description>&lt;![CDATA[MilleMiglia: A realistic instance generator for middle-mile logistics]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 17:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>BAT的「AI云销售」，困在MaaS内卷战中</title>
-      <link>https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html</link>
-      <description>&lt;![CDATA[BAT的「AI云销售」，困在MaaS内卷战中]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>IDC中国智能企业内容与知识平台市场份额：360亿方智能私有化市场第二，增速第一</title>
-      <link>https://www.leiphone.com/category/industrynews/Jaf7iAiksJuqQ16a.html</link>
-      <description>&lt;![CDATA[IDC中国智能企业内容与知识平台市场份额：360亿方智能私有化市场第二，增速第一]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Jaf7iAiksJuqQ16a.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向</title>
-      <link>https://www.qbitai.com/2026/09/492426.html</link>
-      <description>&lt;![CDATA[无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 15:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492426.html</guid>
+      <title>2026-09-19日刊</title>
+      <link>https://hex2077.dev/docs/2026-09/2026-09-19/</link>
+      <description>&lt;![CDATA[2026-09-19日刊]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-19/</guid>
       <category>Ai</category>
     </item>
   </channel>

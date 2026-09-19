@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-19 01:04
+**最后更新时间**: 2026-09-19 09:16
+
+---
+
+## 🆕 最新更新 (2026-09-19 09:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI chatbots give wrong answers to financial queries ‘most of the time’](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+**发布时间**: 2026-09-19 04:49
+
+#### [Investors warn Anthropic could struggle to sustain revenues post-IPO](https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [How should investors position for the robot apocalypse?](https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [I’ve covered wine for 50 years. Here are 50 ways it changed](https://www.ft.com/content/b4317f3f-ba01-4547-bf69-98628d7ebe7b)
+**发布时间**: 2026-09-19 04:00
+
+#### [Unpacking the real fiscal costs of immigration](https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [The Anglo-French moment](https://www.ft.com/content/b6c4501e-76fe-4559-a3c3-6ad7aa07eaa5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [US state department under pressure to disclose Venezuelan oil takings](https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [Australia has a secret weapon in the race for AI compute](https://www.ft.com/content/9cd59652-3e31-4ad0-942f-3eb744ec7893?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 04:00
+
+#### [Google’s Gemini hacked three companies in new AI safety incident](https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 01:29
 
 ---
 

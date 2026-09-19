@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 19 Sep 2026 01:03:00 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 01:04:11 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:16:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Edge AI Daily 早报（9月19日）</title>
-      <link>https://www.tmtpost.com/8145335.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（9月19日）]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145335.html</guid>
+      <title>从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务</title>
+      <link>https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>外卖“御三家”：狂热开始，理性收敛</title>
-      <link>https://www.tmtpost.com/8144061.html</link>
-      <description>&lt;![CDATA[外卖“御三家”：狂热开始，理性收敛]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144061.html</guid>
+      <title>Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里</title>
+      <link>https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>罗福莉压力有多大？都给小米模型训练整上直播了</title>
-      <link>https://www.tmtpost.com/8144556.html</link>
-      <description>&lt;![CDATA[罗福莉压力有多大？都给小米模型训练整上直播了]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144556.html</guid>
+      <title>单个机柜到底能跑多少个 Agent？答案不在 GPU 身上</title>
+      <link>https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[单个机柜到底能跑多少个 Agent？答案不在 GPU 身上]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月之暗面递表之后，Kimi 的成色要被验算三遍</title>
-      <link>https://www.tmtpost.com/8144610.html</link>
-      <description>&lt;![CDATA[月之暗面递表之后，Kimi 的成色要被验算三遍]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144610.html</guid>
+      <title>Docker推出完全重构的虚拟化层以提升性能并改善开发体验</title>
+      <link>https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Docker推出完全重构的虚拟化层以提升性能并改善开发体验]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>东方Gelato，野人先生真正的护城河</title>
-      <link>https://www.tmtpost.com/8144654.html</link>
-      <description>&lt;![CDATA[东方Gelato，野人先生真正的护城河]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144654.html</guid>
+      <title>从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海</title>
+      <link>https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>赛力斯的真正考验，来了</title>
-      <link>https://www.tmtpost.com/8144771.html</link>
-      <description>&lt;![CDATA[赛力斯的真正考验，来了]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144771.html</guid>
+      <title>姚星丞之后，AI人才的中间层开始掉价</title>
+      <link>https://www.tmtpost.com/8145649.html</link>
+      <description>&lt;![CDATA[姚星丞之后，AI人才的中间层开始掉价]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145649.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>办公Agent之战，才刚刚找到战场</title>
-      <link>https://www.tmtpost.com/8144821.html</link>
-      <description>&lt;![CDATA[办公Agent之战，才刚刚找到战场]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144821.html</guid>
+      <title>AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位</title>
+      <link>https://www.tmtpost.com/8145624.html</link>
+      <description>&lt;![CDATA[AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145624.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>珀莱雅投资毕生之研；ALO官宣中国市场七城八店零售布局；星巴克中国新一代旗舰店亮相北京SKP；NikeSKIMS品牌正式进入中国｜消研所周报</title>
-      <link>https://www.tmtpost.com/8144867.html</link>
-      <description>&lt;![CDATA[珀莱雅投资毕生之研；ALO官宣中国市场七城八店零售布局；星巴克中国新一代旗舰店亮相北京SKP；NikeSKIMS品牌正式进入中国｜消研所周报]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 18:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8144867.html</guid>
+      <title>从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围</title>
+      <link>https://www.tmtpost.com/8145660.html</link>
+      <description>&lt;![CDATA[从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145660.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道</title>
-      <link>http://www.geekpark.net/news/370608</link>
-      <description>&lt;![CDATA[传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 08:01:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370608</guid>
+      <title>精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？</title>
+      <link>https://www.tmtpost.com/8145663.html</link>
+      <description>&lt;![CDATA[精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145663.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 硬件创业者，疯狂涌入手机的背面</title>
-      <link>http://www.geekpark.net/news/370610</link>
-      <description>&lt;![CDATA[AI 硬件创业者，疯狂涌入手机的背面]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370610</guid>
+      <title>Gemini 4 Pro疑似泄露，“AI减速”又成空话</title>
+      <link>https://www.tmtpost.com/8145550.html</link>
+      <description>&lt;![CDATA[Gemini 4 Pro疑似泄露，“AI减速”又成空话]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 10:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145550.html</guid>
       <category>Technology</category>
     </item>
   </channel>
