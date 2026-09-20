@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-19 09:16
+**最后更新时间**: 2026-09-20 00:47
+
+---
+
+## 🆕 最新更新 (2026-09-20 00:47)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与](http://www.geekpark.net/news/370615)
+**发布时间**: 2026-09-20 08:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（9月20日）](https://www.tmtpost.com/8145986.html)
+**发布时间**: 2026-09-20 08:01
+
+#### [【钛晨报】文化产业发展“十五五”规划发布，明确七方面任务；沃伦·巴菲特卸任伯克希尔·哈撒韦董事长，其子霍华德·巴菲特将接任；SpaceX：计划最早于9月28日进行星舰第14次试飞](https://www.tmtpost.com/8145918.html)
+**发布时间**: 2026-09-20 07:20
+
+#### [自变量机器人，还没证明自己](https://www.tmtpost.com/8145140.html)
+**发布时间**: 2026-09-19 18:33
+
+#### [重金请“顶流”王一博代言，扬子江药业的增长焦虑藏不住？](https://www.tmtpost.com/8145193.html)
+**发布时间**: 2026-09-19 18:33
+
+#### [半年卖了118亿美元，TikTok正在美国再造“抖音电商”](https://www.tmtpost.com/8145553.html)
+**发布时间**: 2026-09-19 18:32
+
+#### [宇树上市满月，终于止跌了](https://www.tmtpost.com/8145787.html)
+**发布时间**: 2026-09-19 18:27
+
+#### [下一个赛道，AI手机？](https://www.tmtpost.com/8145785.html)
+**发布时间**: 2026-09-19 17:35
+
+#### [AI入侵危机的安全深思](https://www.tmtpost.com/8145786.html)
+**发布时间**: 2026-09-19 17:35
+
+#### [【数智周报】智谱AI道歉；Anthropic被曝选定纳斯达克上市，目标10月IPO；OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元](https://www.tmtpost.com/8145775.html)
+**发布时间**: 2026-09-19 17:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？](https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-19 17:20
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [外网 3500 万人围观的 Jev 模型，有这 10 个神奇玩法。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537093&idx=1&sn=0ba72a96c3a0b831ed78229391f90131)
+**发布时间**: 2026-09-19 11:48
 
 ---
 

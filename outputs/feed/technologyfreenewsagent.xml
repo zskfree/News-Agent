@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 09:16:17 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 00:47:00 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:47:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务</title>
-      <link>https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】文化产业发展“十五五”规划发布，明确七方面任务；沃伦·巴菲特卸任伯克希尔·哈撒韦董事长，其子霍华德·巴菲特将接任；SpaceX：计划最早于9月28日进行星舰第14次试飞</title>
+      <link>https://www.tmtpost.com/8145918.html</link>
+      <description>&lt;![CDATA[【钛晨报】文化产业发展“十五五”规划发布，明确七方面任务；沃伦·巴菲特卸任伯克希尔·哈撒韦董事长，其子霍华德·巴菲特将接任；SpaceX：计划最早于9月28日进行星舰第14次试飞]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145918.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里</title>
-      <link>https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？</title>
+      <link>https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 17:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>单个机柜到底能跑多少个 Agent？答案不在 GPU 身上</title>
-      <link>https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[单个机柜到底能跑多少个 Agent？答案不在 GPU 身上]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与</title>
+      <link>http://www.geekpark.net/news/370615</link>
+      <description>&lt;![CDATA[Meta 个人助手登顶美国 App Store；张雪机车发 5 款新车，最贵 13.8 万；淘宝闪购「制服」获法国设计最高奖，马云深度参与]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370615</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker推出完全重构的虚拟化层以提升性能并改善开发体验</title>
-      <link>https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker推出完全重构的虚拟化层以提升性能并改善开发体验]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Edge AI Daily 早报（9月20日）</title>
+      <link>https://www.tmtpost.com/8145986.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（9月20日）]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145986.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海</title>
-      <link>https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>自变量机器人，还没证明自己</title>
+      <link>https://www.tmtpost.com/8145140.html</link>
+      <description>&lt;![CDATA[自变量机器人，还没证明自己]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145140.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>姚星丞之后，AI人才的中间层开始掉价</title>
-      <link>https://www.tmtpost.com/8145649.html</link>
-      <description>&lt;![CDATA[姚星丞之后，AI人才的中间层开始掉价]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145649.html</guid>
+      <title>重金请“顶流”王一博代言，扬子江药业的增长焦虑藏不住？</title>
+      <link>https://www.tmtpost.com/8145193.html</link>
+      <description>&lt;![CDATA[重金请“顶流”王一博代言，扬子江药业的增长焦虑藏不住？]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145193.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位</title>
-      <link>https://www.tmtpost.com/8145624.html</link>
-      <description>&lt;![CDATA[AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145624.html</guid>
+      <title>半年卖了118亿美元，TikTok正在美国再造“抖音电商”</title>
+      <link>https://www.tmtpost.com/8145553.html</link>
+      <description>&lt;![CDATA[半年卖了118亿美元，TikTok正在美国再造“抖音电商”]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145553.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围</title>
-      <link>https://www.tmtpost.com/8145660.html</link>
-      <description>&lt;![CDATA[从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145660.html</guid>
+      <title>宇树上市满月，终于止跌了</title>
+      <link>https://www.tmtpost.com/8145787.html</link>
+      <description>&lt;![CDATA[宇树上市满月，终于止跌了]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145787.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？</title>
-      <link>https://www.tmtpost.com/8145663.html</link>
-      <description>&lt;![CDATA[精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 15:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145663.html</guid>
+      <title>下一个赛道，AI手机？</title>
+      <link>https://www.tmtpost.com/8145785.html</link>
+      <description>&lt;![CDATA[下一个赛道，AI手机？]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145785.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gemini 4 Pro疑似泄露，“AI减速”又成空话</title>
-      <link>https://www.tmtpost.com/8145550.html</link>
-      <description>&lt;![CDATA[Gemini 4 Pro疑似泄露，“AI减速”又成空话]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8145550.html</guid>
+      <title>AI入侵危机的安全深思</title>
+      <link>https://www.tmtpost.com/8145786.html</link>
+      <description>&lt;![CDATA[AI入侵危机的安全深思]]&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145786.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-19 09:16
+**最后更新时间**: 2026-09-20 00:47
+
+---
+
+## 🆕 最新更新 (2026-09-20 00:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump announces ‘AI Force’ as alarm grows over technology’s advance](https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 19:49
+
+#### [Nobel economists throw support behind California billionaire tax](https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 11:00
+
+#### [Paramount in talks to settle antitrust lawsuit blocking WBD deal](https://www.ft.com/content/e0e384b8-aa4c-4948-b4ee-7bdff414641b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-19 01:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [90% of retirees are making this miscalculation with their savings](https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories)
+**发布时间**: 2026-09-19 18:40
+
+#### [Many young investors can’t afford to invest without their parents’ help](https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories)
+**发布时间**: 2026-09-19 18:22
+
+#### [What happens if you never buy a house? What renters are gaining — and giving up.](https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-19 16:45
+
+#### [It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.](https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-19 16:19
+
+#### [Like Costco, Walmart will sell Medicare Advantage plans](https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-19 15:57
 
 ---
 
