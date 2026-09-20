@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-20 00:45
+**最后更新时间**: 2026-09-20 09:37
+
+---
+
+## 🆕 最新更新 (2026-09-20 09:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [剪映发布全新AI能力，推进多端智能提效，支持一站式创作](https://www.leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html)
+**发布时间**: 2026-09-20 15:07
+
+#### [沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一](https://www.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html)
+**发布时间**: 2026-09-20 12:14
+
+#### [智用开物管震：工业互联网被误读十年后，Agent才让它开始干活](https://www.leiphone.com/category/IndustrialInternet/og8hnQkB5Ur9a0BF.html)
+**发布时间**: 2026-09-20 11:57
+
+#### [在南方医院，临床医生开始「造」AI工具](https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html)
+**发布时间**: 2026-09-20 11:54
+
+#### [齐向东：智能体重构软件，安全是必答题](https://www.leiphone.com/category/industrynews/7Upw9N5muJIAalUC.html)
+**发布时间**: 2026-09-20 11:46
+
+#### [考拉悠然无界再登WorldArena 2.0全球前列，两项核心指标全球第一](https://www.leiphone.com/category/robot/Byhr8nY5EMvruVC5.html)
+**发布时间**: 2026-09-20 11:05
+
+#### [阶跃新旗舰 Step 5  Preview 发布，跻身 AA 榜单全球开源前三](https://www.leiphone.com/category/industrynews/yU1FPmKgLcs3SWmO.html)
+**发布时间**: 2026-09-20 10:20
+
+#### [淘宝闪购城市骑士制服荣获法国设计奖最高奖](https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html)
+**发布时间**: 2026-09-20 10:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策](https://www.qbitai.com/2026/09/492939.html)
+**发布时间**: 2026-09-20 08:30
+
+#### [谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！](https://www.qbitai.com/2026/09/492912.html)
+**发布时间**: 2026-09-20 08:01
+
+#### [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.qbitai.com/2026/09/492873.html)
+**发布时间**: 2026-09-20 07:51
+
+#### [《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上](https://www.qbitai.com/2026/09/492849.html)
+**发布时间**: 2026-09-20 02:48
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-20日刊](https://hex2077.dev/docs/2026-09/2026-09-20/)
+**发布时间**: 2026-09-20 03:04
 
 ---
 

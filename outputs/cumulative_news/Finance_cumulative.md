@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-20 00:47
+**最后更新时间**: 2026-09-20 09:40
+
+---
+
+## 🆕 最新更新 (2026-09-20 09:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Big Tech uses guarantees to keep $300bn AI exposure off balance sheets](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 07:00
+
+#### [Billionaire Tata scion faces battle of his life to avert listing](https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 06:26
+
+#### [The Gulf cargo trade that vanished](https://www.ft.com/content/c9d13509-7a93-40a9-b2d4-c3292028813a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 04:00
+
+#### [Freedom in adulthood isn’t what you think](https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 04:00
+
+#### [Saudi Arabia quits China-led cross-border currency platform](https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 04:00
+
+#### [Russia’s new air campaign seeks to destroy Ukrainian economy](https://www.ft.com/content/0ecc81ad-2119-4763-90fb-ba5d399d913d)
+**发布时间**: 2026-09-20 04:00
+
+#### [Israel’s settler economy braces for European sanctions](https://www.ft.com/content/f780b2a4-13ff-44ec-8225-cf38d4f0c966?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 04:00
+
+#### [Novo investors call for dealmaking and new drugs](https://www.ft.com/content/e560fd8c-5cc2-4743-90eb-eab71b899ce6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 04:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Sep 2026 00:45:00 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 00:47:28 GMT</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 09:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 09:40:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>鹿明机器人剧场《机器人和 TA 的朋友们》全球首演，探索“机器人+演艺”新场景</title>
-      <link>https://www.leiphone.com/category/industrynews/KQYlP3qCFGorz4hm.html</link>
-      <description>&lt;![CDATA[鹿明机器人剧场《机器人和 TA 的朋友们》全球首演，探索“机器人+演艺”新场景]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 23:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/KQYlP3qCFGorz4hm.html</guid>
+      <title>剪映发布全新AI能力，推进多端智能提效，支持一站式创作</title>
+      <link>https://www.leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html</link>
+      <description>&lt;![CDATA[剪映发布全新AI能力，推进多端智能提效，支持一站式创作]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 15:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/57VaKsFFtr52ic0r.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>溪砾科技助阵首个全国 CMT 关爱日，在研管线 RTX-117 临床前数据积极，I 期试验进行中</title>
-      <link>https://www.leiphone.com/category/industrynews/8wlffTzwOMxSOsLY.html</link>
-      <description>&lt;![CDATA[溪砾科技助阵首个全国 CMT 关爱日，在研管线 RTX-117 临床前数据积极，I 期试验进行中]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/8wlffTzwOMxSOsLY.html</guid>
+      <title>沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一</title>
+      <link>https://www.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html</link>
+      <description>&lt;![CDATA[沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“留给人类阻止AI的时间不多了”</title>
-      <link>https://www.qbitai.com/2026/09/492755.html</link>
-      <description>&lt;![CDATA[“留给人类阻止AI的时间不多了”]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492755.html</guid>
+      <title>智用开物管震：工业互联网被误读十年后，Agent才让它开始干活</title>
+      <link>https://www.leiphone.com/category/IndustrialInternet/og8hnQkB5Ur9a0BF.html</link>
+      <description>&lt;![CDATA[智用开物管震：工业互联网被误读十年后，Agent才让它开始干活]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/IndustrialInternet/og8hnQkB5Ur9a0BF.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>马斯克批量收购破产公司ing…世界首富脑子是不一样</title>
-      <link>https://www.qbitai.com/2026/09/492661.html</link>
-      <description>&lt;![CDATA[马斯克批量收购破产公司ing…世界首富脑子是不一样]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492661.html</guid>
+      <title>在南方医院，临床医生开始「造」AI工具</title>
+      <link>https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html</link>
+      <description>&lt;![CDATA[在南方医院，临床医生开始「造」AI工具]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 11:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/G2sfB8fGnc0AwfEw.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>27B模型分分钟交付网页，Qwen 3.8还是太能了</title>
-      <link>https://www.qbitai.com/2026/09/492573.html</link>
-      <description>&lt;![CDATA[27B模型分分钟交付网页，Qwen 3.8还是太能了]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492573.html</guid>
+      <title>齐向东：智能体重构软件，安全是必答题</title>
+      <link>https://www.leiphone.com/category/industrynews/7Upw9N5muJIAalUC.html</link>
+      <description>&lt;![CDATA[齐向东：智能体重构软件，安全是必答题]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7Upw9N5muJIAalUC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子</title>
-      <link>https://www.qbitai.com/2026/09/492550.html</link>
-      <description>&lt;![CDATA[Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子]]&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 11:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492550.html</guid>
+      <title>考拉悠然无界再登WorldArena 2.0全球前列，两项核心指标全球第一</title>
+      <link>https://www.leiphone.com/category/robot/Byhr8nY5EMvruVC5.html</link>
+      <description>&lt;![CDATA[考拉悠然无界再登WorldArena 2.0全球前列，两项核心指标全球第一]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Byhr8nY5EMvruVC5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阶跃新旗舰 Step 5  Preview 发布，跻身 AA 榜单全球开源前三</title>
+      <link>https://www.leiphone.com/category/industrynews/yU1FPmKgLcs3SWmO.html</link>
+      <description>&lt;![CDATA[阶跃新旗舰 Step 5  Preview 发布，跻身 AA 榜单全球开源前三]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/yU1FPmKgLcs3SWmO.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>淘宝闪购城市骑士制服荣获法国设计奖最高奖</title>
+      <link>https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html</link>
+      <description>&lt;![CDATA[淘宝闪购城市骑士制服荣获法国设计奖最高奖]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策</title>
+      <link>https://www.qbitai.com/2026/09/492939.html</link>
+      <description>&lt;![CDATA[APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492939.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！</title>
+      <link>https://www.qbitai.com/2026/09/492912.html</link>
+      <description>&lt;![CDATA[谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492912.html</guid>
       <category>Ai</category>
     </item>
   </channel>

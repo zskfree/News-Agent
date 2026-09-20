@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-20 00:47
+**最后更新时间**: 2026-09-20 09:40
+
+---
+
+## 🆕 最新更新 (2026-09-20 09:40)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [The Work the Machines Are Still Not Trusted With](https://www.tmtpost.com/8146331.html)
+**发布时间**: 2026-09-20 17:22
+
+#### [对话徐直军：被低估的灵衢，重新理解AI算力](https://www.tmtpost.com/8146244.html)
+**发布时间**: 2026-09-20 16:37
+
+#### [China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield](https://www.tmtpost.com/8146181.html)
+**发布时间**: 2026-09-20 13:47
+
+#### [从“包箭”到“拼箭”，商业航天的服务模式正在多元化](https://www.tmtpost.com/8146006.html)
+**发布时间**: 2026-09-20 13:24
+
+#### [厚积三十余载，三生制药把“初心”走成“全球领先”](https://www.tmtpost.com/8144878.html)
+**发布时间**: 2026-09-20 11:45
+
+#### [对话阿里云王朝阳：中国不缺电，AI卡在电与算力的协同](https://www.tmtpost.com/8146043.html)
+**发布时间**: 2026-09-20 11:10
+
+#### [AI制药一级热](https://www.tmtpost.com/8146048.html)
+**发布时间**: 2026-09-20 11:10
+
+#### [教别人用AI，我赚翻了](https://www.tmtpost.com/8146058.html)
+**发布时间**: 2026-09-20 11:09
+
+#### [中国面积最大的县，藏着一场沙漠里的产业革命](https://www.tmtpost.com/8146027.html)
+**发布时间**: 2026-09-20 11:00
+
+#### [一亿元买下1500家医院商保直付网络：蚂蚁健康这笔“零头”收购，切入了谁的腹地？](https://www.tmtpost.com/8146035.html)
+**发布时间**: 2026-09-20 11:00
+
+#### [电池战争的下半场，从宁德时代只卖电芯开始](https://www.tmtpost.com/8145929.html)
+**发布时间**: 2026-09-20 10:08
+
+#### [AI办公给互联网巨头出了道难题](https://www.tmtpost.com/8145935.html)
+**发布时间**: 2026-09-20 10:08
+
+#### [马云，还在设计淘宝](https://www.tmtpost.com/8145999.html)
+**发布时间**: 2026-09-20 10:08
+
+#### [我在哈萨克斯坦看中企大出海](https://www.tmtpost.com/8145909.html)
+**发布时间**: 2026-09-20 09:32
+
+#### [宁德时代，没有理想](https://www.tmtpost.com/8145862.html)
+**发布时间**: 2026-09-20 09:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软开源 TauGrid，简化 Kubernetes AI 工作负载管理](https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 15:46
+
+#### [最新桌面 Agent，AI 工作流解码办公效率提升](https://www.infoq.cn/article/EBIZhgc8pLujPiIum6Yt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 15:00
+
+#### [Dropbox 分享如何通过提升现有基础设施能效为 AI 腾出算力余量](https://www.infoq.cn/article/zVZhvQIW9BvrWd3SU7st?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 14:06
+
+#### [“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂](https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 11:51
+
+#### [React Native 的黄金时代，在 AI 手里结束了](https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 11:37
+
+#### [Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化](https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 10:39
+
+#### [AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海](https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 10:00
+
+#### [九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”](https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 09:59
+
+#### [.NET 11 RC1 来了：C# 15 转正，联合类型却引发争议](https://www.infoq.cn/article/mNChcSsgdSLLckYGTuSG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [三体还没降临，是因为叶文洁没用上千问办公吗？](http://www.geekpark.net/news/370667)
+**发布时间**: 2026-09-20 15:27
+
+#### [机器人如何自进化，乐享科技走了一条新路](http://www.geekpark.net/news/370665)
+**发布时间**: 2026-09-20 15:15
+
+#### [不可逆的人类衰老，快被 AI 破解了](http://www.geekpark.net/news/370664)
+**发布时间**: 2026-09-20 15:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记](https://sspai.com/post/114495)
+**发布时间**: 2026-09-20 15:00
+
+#### [给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
+**发布时间**: 2026-09-20 11:01
 
 ---
 
