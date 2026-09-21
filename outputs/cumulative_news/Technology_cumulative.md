@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-20 09:40
+**最后更新时间**: 2026-09-21 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-21 00:55)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名](https://www.tmtpost.com/8146342.html)
+**发布时间**: 2026-09-21 08:35
+
+#### [“中国默多克”拟花8亿，再认一个影视圈“兄弟”](https://www.tmtpost.com/8146553.html)
+**发布时间**: 2026-09-21 08:26
+
+#### [中国新能源汽车“过剩”了？他们可能算错了三本账](https://www.tmtpost.com/8146497.html)
+**发布时间**: 2026-09-21 08:26
+
+#### [Edge AI Daily 早报（9月21日）](https://www.tmtpost.com/8146619.html)
+**发布时间**: 2026-09-21 08:26
+
+#### [赛力斯长痛不如短痛](https://www.tmtpost.com/8146467.html)
+**发布时间**: 2026-09-21 08:25
+
+#### [用AI“复活”家人，似乎不是个好生意](https://www.tmtpost.com/8146329.html)
+**发布时间**: 2026-09-21 08:19
+
+#### [粉笔把账本摊开，同行睡不着了](https://www.tmtpost.com/8146252.html)
+**发布时间**: 2026-09-21 08:19
+
+#### [蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究](https://www.tmtpost.com/8146274.html)
+**发布时间**: 2026-09-21 08:00
+
+#### [【钛晨报】分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产](https://www.tmtpost.com/8146468.html)
+**发布时间**: 2026-09-21 07:20
+
+#### [低毛利PC承压，亿道信息7.15亿收购成为信息谋升级](https://www.tmtpost.com/8146525.html)
+**发布时间**: 2026-09-20 21:02
+
+#### [“蓝芩”只是注册商标，蓝芩喉糖到底是不是虚假宣传？](https://www.tmtpost.com/8144554.html)
+**发布时间**: 2026-09-20 18:39
+
+#### [新鲜零食，狂飙背后](https://www.tmtpost.com/8146440.html)
+**发布时间**: 2026-09-20 18:38
+
+#### [Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩](https://www.tmtpost.com/8145908.html)
+**发布时间**: 2026-09-20 18:25
+
+#### [AI巨头集体踩“刹车”，但距离真正的RSI还很遥远](https://www.tmtpost.com/8146082.html)
+**发布时间**: 2026-09-20 17:58
+
+#### [最近上天的卫星，为什么越来越“聪明”了？](https://www.tmtpost.com/8146192.html)
+**发布时间**: 2026-09-20 17:58
+
+#### [铬铁扩产困局：成本倒挂下，丰镇矿热炉为何停不下来？](https://www.tmtpost.com/8146323.html)
+**发布时间**: 2026-09-20 17:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃](https://sspai.com/post/114788)
+**发布时间**: 2026-09-21 06:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三](https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 19:52
+
+#### [比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责](https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 19:46
+
+#### [从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除](https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 19:23
+
+#### [70强会师杭州，世界人工智能开源大赛（GOAI）总决赛即将启幕](https://www.infoq.cn/article/MaOcETZFPCvAuFRQJps2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 18:47
+
+#### [全球AI Builders，9月杭州见｜GOAI开源周即将启幕](https://www.infoq.cn/article/r8605s0h2Lv8OwmyW9s1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 18:28
+
+#### [世界人工智能开源大赛（GOAI）总决赛70强名单公布](https://www.infoq.cn/article/7zz2HLNXEl0guawQCyJj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 18:15
+
+#### [Java 27 来了：后量子密码学先落地，值类还要再等等](https://www.infoq.cn/article/0U1ZEhoNPAP8pGMktGiy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 18:05
+
+#### [硅基流动完成B+轮二期及C轮融资，年内累计融资近29亿元](https://www.infoq.cn/article/oP7tDkoaamphFBkDY8uW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-20 17:42
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上狂揽 7500 星的 DeepSeek Harness 桌面端，推出企业版了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537234&idx=1&sn=0b1ee7e348aad6899433bc14520638d2)
+**发布时间**: 2026-09-20 12:18
 
 ---
 

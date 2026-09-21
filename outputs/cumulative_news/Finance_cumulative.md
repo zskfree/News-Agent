@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-20 09:40
+**最后更新时间**: 2026-09-21 00:55
+
+---
+
+## 🆕 最新更新 (2026-09-21 00:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [German chancellor Merz vows to stay on despite ‘disaster’ in regional elections](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 21:47
+
+#### [Germany’s Merz stands his ground but for how long?](https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 20:58
+
+#### [Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity](https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2)
+**发布时间**: 2026-09-20 17:00
+
+#### [Trump says 250ft arch will be ‘military complex’ with drones and snipers](https://www.ft.com/content/33b317b4-cd7b-486a-8707-4d65db837c6d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 15:43
+
+#### [Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb](https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 15:00
+
+#### [Ukraine hits Moscow with ‘largest ever’ drone attack](https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 11:32
+
+#### [Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition](https://www.ft.com/content/90714056-d364-43d9-9411-9bde92f966b3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 10:00
+
+#### [Trump’s regulatory rollback puts $400mn in US audit fees at risk](https://www.ft.com/content/b455ab48-76ef-4fd4-9137-1f666344ab45?syn-25a6b1a6=1)
+**发布时间**: 2026-09-20 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?](https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-20 16:30
+
+#### [Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay](https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-20 14:08
+
+#### [China is chasing SpaceX and setting its sights on the global space economy](https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories)
+**发布时间**: 2026-09-20 13:53
+
+#### [Record diesel prices are exposing pain points in the stock market and economy](https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories)
+**发布时间**: 2026-09-20 13:00
+
+#### [Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.](https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-20 12:31
 
 ---
 
