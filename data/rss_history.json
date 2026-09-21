@@ -1699,6 +1699,66 @@
         "link": "https://www.tmtpost.com/8146525.html",
         "published_date": "Sun, 20 Sep 2026 21:02:00 GMT",
         "first_seen": "2026-09-21T00:55:42.476069"
+      },
+      "44c6b2330ca4c48dfbeea3057c78bebd73334c2264f3e780d181c263f76da666": {
+        "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 17:07:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664885"
+      },
+      "88fcab8bae8d1014f8e7fcb5639497b27c5b46c45052365daf4a2526ab5b13e8": {
+        "title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
+        "link": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 14:10:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664897"
+      },
+      "8ccfdc965d7480889260b3e5709bc7b8f79c02f4aca187651c33f582fcb3f5b7": {
+        "title": "AI4S走出实验室：材料研发开始跨越“中试鸿沟”",
+        "link": "https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 10:22:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664900"
+      },
+      "0392968c1ba8a35981b4c40827823dbb89df76cc9b65ac0cc5c0f924f6b6480f": {
+        "title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664901"
+      },
+      "9a67e15391353aaa8058f7dbf0c931fe9f19b6050601691affdfc75016bb069b": {
+        "title": "【Fintech 周报】微信支付、支付宝将金融产品与支付工具区隔；汇丰香港大砍福利",
+        "link": "https://www.tmtpost.com/8147454.html",
+        "published_date": "Mon, 21 Sep 2026 18:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664903"
+      },
+      "8c06ac462f08107047521fa5c100c6ae6232203af4a1766bc7a7e65d926587e5": {
+        "title": "内存涨价，厂商扎堆2nm芯片",
+        "link": "https://www.tmtpost.com/8147419.html",
+        "published_date": "Mon, 21 Sep 2026 17:28:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664904"
+      },
+      "c744171a182fc1a02a13cf4eb23e70029dfa7d9dd4006c8444c454d7e04c4a24": {
+        "title": "卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道",
+        "link": "http://www.geekpark.net/news/370681",
+        "published_date": "Mon, 21 Sep 2026 09:01:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664906"
+      },
+      "f21fc98356060e5c7c62cdd27bfcd28449d2b297ad3a060985a058d1a3dd1830": {
+        "title": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "link": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:21:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664908"
+      },
+      "ee73bb17a103427f676c5e0897f7a84f50d32fa59842c137d5bd8a783915bdf0": {
+        "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "link": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:18:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664909"
+      },
+      "59da8be799d03b84f5da00e938749aeed447daeac47cca24c6762aa857c1c8ae": {
+        "title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+        "link": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:15:00 GMT",
+        "first_seen": "2026-09-21T10:29:31.664911"
       }
     },
     "Finance": {
@@ -3273,6 +3333,66 @@
         "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
         "published_date": "Sun, 20 Sep 2026 13:53:00 GMT",
         "first_seen": "2026-09-21T00:55:52.005607"
+      },
+      "3774bed11d51fc1e3543a7a163ca2a26c114e92e94c567d448aba5d200584740": {
+        "title": "Trafigura to float supertanker arm in first IPO of a business",
+        "link": "https://www.ft.com/content/a1c9d298-8af9-4cf4-9c47-e2eb50cd03d9?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 06:30:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561847"
+      },
+      "b7402ddccaef063928da4b3d5ed4e1f862b56e05788139203267b1693b601f59": {
+        "title": "Lex in depth: the challenging maths of Anthropic’s IPO",
+        "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561856"
+      },
+      "b669f89e4475feeda7a07dd641f394963b5c485aaae5b96b3ef0c2953e2ccf88": {
+        "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 09:15:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561858"
+      },
+      "e3f154b94ab5fb97bdde4ba5b3e6c465b7cfdb0b06574725a88110d0f2a1aa68": {
+        "title": "Kylie Jenner sells California mansion for $5 million below asking",
+        "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 09:05:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561860"
+      },
+      "17826927b95b98acb22078332c9f5a5ef9db0d3b8dd1656cb38cced02a33bafd": {
+        "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
+        "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 09:03:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561862"
+      },
+      "cdafd505e10426b2da82084a167b53394259e76d4cd0af19d0e0c277e557ea23": {
+        "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 08:58:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561863"
+      },
+      "a4c30f557d94dc27da070407cdffe8992e8499c08baac914eadbeb34a0e589f1": {
+        "title": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit",
+        "link": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 07:45:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561865"
+      },
+      "a4d07fddd91fabcb067b4ae03dbd449253d19974df2139c78ff4ae8430f19258": {
+        "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
+        "link": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:11:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561867"
+      },
+      "f0bc8f2d0b195c91311734812bd0aef1c2ce43eeb05e9f825d23fa217e11bc73": {
+        "title": "Why the world’s hottest stock market is a national liability",
+        "link": "https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561868"
+      },
+      "f6122b936983cde86830f679386aadfa4baa91715e8ae1b7716b65d10dbba335": {
+        "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+        "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:50.561869"
       }
     },
     "Ai": {
@@ -4733,13 +4853,73 @@
         "link": "https://www.qbitai.com/2026/09/492946.html",
         "published_date": "Sun, 20 Sep 2026 12:22:00 GMT",
         "first_seen": "2026-09-21T00:55:42.626432"
+      },
+      "47eadc86a81c88db9e1148acfe80f900bed45ffd98b6e75024c37834a27d9c77": {
+        "title": "登顶国际Data Agent榜单登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "link": "https://www.leiphone.com/category/industrynews/ug9HpmoWVwNMZZTH.html",
+        "published_date": "Mon, 21 Sep 2026 15:20:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160166"
+      },
+      "cfcc0681db5a3009af37aa1383a5508b1f18dc3d93f926b7079cf6ce47dd7cad": {
+        "title": "问界推进专属专营 赛力斯股价“三连涨”",
+        "link": "https://www.leiphone.com/category/industrynews/D4xYJnydNP1XK2Fb.html",
+        "published_date": "Mon, 21 Sep 2026 13:34:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160174"
+      },
+      "b41673ee41c1134c04cbfb554a58ab3d92185a717589410801b20e0712389962": {
+        "title": "淘宝双11加码出海：四地0门槛包邮，大件商品直邮海外",
+        "link": "https://www.leiphone.com/category/industrynews/mYHcEmI2tS8gkb9E.html",
+        "published_date": "Mon, 21 Sep 2026 11:11:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160176"
+      },
+      "505e2e6eb748836c9b748079a426ed8bfc307609dd19eac81bb5d141ff5f9cdf": {
+        "title": "具身智能模型公司方奇科技完成千万级天使轮融资",
+        "link": "https://www.leiphone.com/category/industrynews/YREhdZ1XsK1D5Rfi.html",
+        "published_date": "Mon, 21 Sep 2026 10:27:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160178"
+      },
+      "c5bd33a83067b02127642ba99bf742437b38ae9e3d38210f2d0b787a7c1732dd": {
+        "title": "一份投入、两盘生意：淘宝双11为商家开拓海外增量",
+        "link": "https://www.leiphone.com/category/industrynews/0UqBmeAkAX8jQsgc.html",
+        "published_date": "Mon, 21 Sep 2026 10:26:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160179"
+      },
+      "903a24d96acd3994f403859cb45e3cb62b530f34d5f4d36004c166d2f2d337e9": {
+        "title": "逆势大涨！阿里速卖通流量增速领跑澳洲电商平台",
+        "link": "https://www.leiphone.com/category/industrynews/KGyHVhywEeaZ4Vqy.html",
+        "published_date": "Mon, 21 Sep 2026 10:13:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160181"
+      },
+      "7b0c30cda669fbe7dbe590082c7ad3bbce7f0f248b437bc618ef40e0a6a4a30b": {
+        "title": "传化集团40周年全面拥抱AI时代：开放全域产业场景，共创新40年",
+        "link": "https://www.leiphone.com/category/industrynews/E1dBuYT43K9cd1LQ.html",
+        "published_date": "Mon, 21 Sep 2026 09:59:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160182"
+      },
+      "9d2e72d47b2dc7c3d5802cf2ec124d418690009cee696db70987bd87f3bd34fb": {
+        "title": "上市遇故障！iPhone 18 Pro曝出死机问题，苹果启动调查；国产突围！长鑫科技宣布第五代技术平台正式量产；特斯拉Roadster开启预定",
+        "link": "https://www.leiphone.com/category/zaobao/W5fLfeynETtTWpTt.html",
+        "published_date": "Mon, 21 Sep 2026 08:33:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160184"
+      },
+      "c361453724a463e98524054a67dcc631daa438a2aaf7dc4fdf63c6d1dd4b1d19": {
+        "title": "深度解读：关于 Jev 的几大疑问",
+        "link": "https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html",
+        "published_date": "Mon, 21 Sep 2026 07:47:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160185"
+      },
+      "b5307360cde1cbc339416c63bc4c9022e9c518a051c15c16d391544b67436dae": {
+        "title": "5 Companies Using NVIDIA AI for Clean Energy",
+        "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+        "published_date": "Mon, 21 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-21T10:29:41.160186"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-21T00:55:42.476071",
-    "Finance": "2026-09-21T00:55:52.005609",
-    "Ai": "2026-09-21T00:55:42.626434"
+    "Technology": "2026-09-21T10:29:31.664913",
+    "Finance": "2026-09-21T10:29:50.561871",
+    "Ai": "2026-09-21T10:29:41.160189"
   }
 }

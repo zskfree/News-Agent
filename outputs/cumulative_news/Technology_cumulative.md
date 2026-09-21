@@ -1,7 +1,146 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-21 00:55
+**最后更新时间**: 2026-09-21 10:29
+
+---
+
+## 🆕 最新更新 (2026-09-21 10:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么](https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 18:21
+
+#### [70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”](https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 18:18
+
+#### [70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”](https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 18:15
+
+#### [Lambda SnapStart 现已支持容器镜像](https://www.infoq.cn/article/CIMVueKAjDLqU6zy54Os?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 17:37
+
+#### [《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%](https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 17:07
+
+#### [祥峰再次出手，超维动力获超 5 亿融资，我们拆解了这家公司的全栈路线](https://www.infoq.cn/article/rIpDfDZXDoN9L7akct7e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 16:45
+
+#### [黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责](https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 15:45
+
+#### [智能效能进阶：丰富模型选择，实现智能路由](https://www.infoq.cn/article/at5IL3FiObSQ4y9gBv0a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 15:24
+
+#### [开源项目为 Apple Silicon 带来了完整的 iOS 27 虚拟化功能](https://www.infoq.cn/article/VqzNwHg56aUUjh9PvVCW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 15:04
+
+#### [开箱即上岗！璇玑动力首发Hypertron-SW01中型四足机器人](https://www.infoq.cn/article/IhCGKqeVbMIbdhVLbavr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 14:36
+
+#### [纯 LLM 做 NL2SQL 总不准？金融场景为什么必须做本体工程](https://www.infoq.cn/article/TcTrU2Ap9VsxxHVestfw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 14:20
+
+#### [IDC评估中国 AI算力管理平台：范式综合评分位列第一](https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 14:10
+
+#### [不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜](https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 13:58
+
+#### [GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能](https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 13:16
+
+#### [什么时候值得采用规范驱动开发](https://www.infoq.cn/article/bpmpPWNjXSljJI69kaN0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 11:12
+
+#### [AI4S走出实验室：材料研发开始跨越“中试鸿沟”](https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 10:22
+
+#### [Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海](https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 10:00
+
+#### [人工智能时代的代码正在变为只写且可丢弃的](https://www.infoq.cn/article/Z3RA77AHmLro8zmY7Sl3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 09:06
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenAI自曝6起事故：AI安全的第一份"审计报告"由谁签字？](https://www.tmtpost.com/8147676.html)
+**发布时间**: 2026-09-21 18:11
+
+#### [消费降温，为什么香氛却升温了？](https://www.tmtpost.com/8147678.html)
+**发布时间**: 2026-09-21 18:08
+
+#### [捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务](https://www.tmtpost.com/8147667.html)
+**发布时间**: 2026-09-21 18:08
+
+#### [猪周期：在低谷中熬垮对手](https://www.tmtpost.com/8146565.html)
+**发布时间**: 2026-09-21 18:08
+
+#### [RoboX的“有用”之年](https://www.tmtpost.com/8147585.html)
+**发布时间**: 2026-09-21 18:03
+
+#### [七天，AI制药迎来新时代](https://www.tmtpost.com/8147588.html)
+**发布时间**: 2026-09-21 18:03
+
+#### [重返小康股份，赛力斯距离富裕还有多远](https://www.tmtpost.com/8147475.html)
+**发布时间**: 2026-09-21 18:02
+
+#### [Gemini"越狱"入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里](https://www.tmtpost.com/8147131.html)
+**发布时间**: 2026-09-21 18:02
+
+#### [【Fintech 周报】微信支付、支付宝将金融产品与支付工具区隔；汇丰香港大砍福利](https://www.tmtpost.com/8147454.html)
+**发布时间**: 2026-09-21 18:00
+
+#### [Anew labs，“蒸馏”的行家](https://www.tmtpost.com/8147635.html)
+**发布时间**: 2026-09-21 18:00
+
+#### [GLP-1下半场，被价格战掩盖的变量](https://www.tmtpost.com/8147532.html)
+**发布时间**: 2026-09-21 17:36
+
+#### [电解钴从46万到28万，配额制为什么没撑住价格？](https://www.tmtpost.com/8147501.html)
+**发布时间**: 2026-09-21 17:36
+
+#### [快递涨一毛五，能走出价格战吗](https://www.tmtpost.com/8147238.html)
+**发布时间**: 2026-09-21 17:34
+
+#### [把大海搬到工厂门口，运河改写中国制造](https://www.tmtpost.com/8147218.html)
+**发布时间**: 2026-09-21 17:34
+
+#### [跳出黑电后，TCL与海信的两种活法](https://www.tmtpost.com/8146700.html)
+**发布时间**: 2026-09-21 17:34
+
+#### [黄仁勋访谈火力全开：“AI十年内灭绝人类”完全错了](https://www.tmtpost.com/8147431.html)
+**发布时间**: 2026-09-21 17:29
+
+#### [内存涨价，厂商扎堆2nm芯片](https://www.tmtpost.com/8147419.html)
+**发布时间**: 2026-09-21 17:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [以人为本还是脱离实际？GNOME 桌面环境的演进及争议](https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de)
+**发布时间**: 2026-09-21 17:02
+
+#### [体验过华为 Pura X View 后，他们最想留下的「阔体验」是……](https://sspai.com/post/114734)
+**发布时间**: 2026-09-21 13:26
+
+#### [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519)
+**发布时间**: 2026-09-21 11:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [用了一整天 Step 5 Preview， 我觉得它杀回 AI 模型第一梯队了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537278&idx=1&sn=83bf2b85e97b614d9b4885567f1aef46)
+**发布时间**: 2026-09-21 12:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [对话桥介数物：机器人运动的下一步是让任何机器人半小时内学会跳特定的舞](http://www.geekpark.net/news/370717)
+**发布时间**: 2026-09-21 12:01
+
+#### [Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化](http://www.geekpark.net/news/370607)
+**发布时间**: 2026-09-21 11:57
+
+#### [卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道](http://www.geekpark.net/news/370681)
+**发布时间**: 2026-09-21 09:01
 
 ---
 

@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-21 00:55
+**最后更新时间**: 2026-09-21 10:29
+
+---
+
+## 🆕 最新更新 (2026-09-21 10:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.](https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 10:16
+
+#### [Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.](https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 10:13
+
+#### [My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?](https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 09:15
+
+#### [Kylie Jenner sells California mansion for $5 million below asking](https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 09:05
+
+#### [Steven Spielberg lists longtime L.A. equestrian ranch for $30 million](https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 09:03
+
+#### [Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals](https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chinese rare earth shipments to US drop ahead of Trump-Xi summit](https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 07:45
+
+#### [Trafigura to float supertanker arm in first IPO of a business](https://www.ft.com/content/a1c9d298-8af9-4cf4-9c47-e2eb50cd03d9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 06:30
+
+#### [Bessent hails US-China AI dialogue ahead of Trump-Xi meeting](https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:11
+
+#### [Why the world’s hottest stock market is a national liability](https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+#### [Lex in depth: the challenging maths of Anthropic’s IPO](https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+#### [Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss](https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+#### [VW ejected from European blue-chip index in blow to crisis-hit carmaker](https://www.ft.com/content/188611f3-2536-4bed-a2c0-bbc074e6f783?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+#### [Western companies lag China in sodium battery race](https://www.ft.com/content/0e4814df-e102-4874-97d6-f2b0ffaeda6a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+#### [Nik Storonsky’s plan for Revolut: a global bank with ‘effectively zero risk’](https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 03:00
 
 ---
 

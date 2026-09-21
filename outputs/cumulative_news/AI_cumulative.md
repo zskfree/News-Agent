@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-21 00:53
+**最后更新时间**: 2026-09-21 10:26
+
+---
+
+## 🆕 最新更新 (2026-09-21 10:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [登顶国际Data Agent榜单登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案](https://www.leiphone.com/category/industrynews/ug9HpmoWVwNMZZTH.html)
+**发布时间**: 2026-09-21 15:20
+
+#### [问界推进专属专营 赛力斯股价“三连涨”](https://www.leiphone.com/category/industrynews/D4xYJnydNP1XK2Fb.html)
+**发布时间**: 2026-09-21 13:34
+
+#### [淘宝双11加码出海：四地0门槛包邮，大件商品直邮海外](https://www.leiphone.com/category/industrynews/mYHcEmI2tS8gkb9E.html)
+**发布时间**: 2026-09-21 11:11
+
+#### [具身智能模型公司方奇科技完成千万级天使轮融资](https://www.leiphone.com/category/industrynews/YREhdZ1XsK1D5Rfi.html)
+**发布时间**: 2026-09-21 10:27
+
+#### [一份投入、两盘生意：淘宝双11为商家开拓海外增量](https://www.leiphone.com/category/industrynews/0UqBmeAkAX8jQsgc.html)
+**发布时间**: 2026-09-21 10:26
+
+#### [逆势大涨！阿里速卖通流量增速领跑澳洲电商平台](https://www.leiphone.com/category/industrynews/KGyHVhywEeaZ4Vqy.html)
+**发布时间**: 2026-09-21 10:13
+
+#### [传化集团40周年全面拥抱AI时代：开放全域产业场景，共创新40年](https://www.leiphone.com/category/industrynews/E1dBuYT43K9cd1LQ.html)
+**发布时间**: 2026-09-21 09:59
+
+#### [上市遇故障！iPhone 18 Pro曝出死机问题，苹果启动调查；国产突围！长鑫科技宣布第五代技术平台正式量产；特斯拉Roadster开启预定](https://www.leiphone.com/category/zaobao/W5fLfeynETtTWpTt.html)
+**发布时间**: 2026-09-21 08:33
+
+#### [深度解读：关于 Jev 的几大疑问](https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html)
+**发布时间**: 2026-09-21 07:47
+
+#### [曝长鑫准备进入闪存市场，将与三星海力士美光正面竞争；曝京东北京园区行政岗被要求佩戴采集器记录动作数据；传Kimi或入局具身智能领域](https://www.leiphone.com/category/zaobao/VgsycjqvNfz75zmN.html)
+**发布时间**: 2026-09-20 09:10
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [5 Companies Using NVIDIA AI for Clean Energy](https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/)
+**发布时间**: 2026-09-21 10:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！](https://www.qbitai.com/2026/09/493268.html)
+**发布时间**: 2026-09-21 08:25
+
+#### [啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了](https://www.qbitai.com/2026/09/493241.html)
+**发布时间**: 2026-09-21 08:21
+
+#### [长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案](https://www.qbitai.com/2026/09/493235.html)
+**发布时间**: 2026-09-21 07:52
+
+#### [国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单](https://www.qbitai.com/2026/09/493231.html)
+**发布时间**: 2026-09-21 07:31
+
+#### [GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent](https://www.qbitai.com/2026/09/493218.html)
+**发布时间**: 2026-09-21 06:22
+
+#### [开源Top2！实测阶跃Step 5 Preview，真有点猛啊…](https://www.qbitai.com/2026/09/493179.html)
+**发布时间**: 2026-09-21 03:46
+
+#### [中国Neocloud市场第一！商汤大装置全面领跑](https://www.qbitai.com/2026/09/493175.html)
+**发布时间**: 2026-09-21 03:32
+
+#### [百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布](https://www.qbitai.com/2026/09/493114.html)
+**发布时间**: 2026-09-21 02:28
+
+#### [IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一](https://www.qbitai.com/2026/09/493109.html)
+**发布时间**: 2026-09-21 02:17
+
+#### [汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA](https://www.qbitai.com/2026/09/493091.html)
+**发布时间**: 2026-09-21 01:48
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-21日刊](https://hex2077.dev/docs/2026-09/2026-09-21/)
+**发布时间**: 2026-09-21 02:44
 
 ---
 
