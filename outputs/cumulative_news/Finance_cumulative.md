@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-22 01:30
+**最后更新时间**: 2026-09-22 09:42
+
+---
+
+## 🆕 最新更新 (2026-09-22 09:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury](https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 09:23
+
+#### [‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?](https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 09:15
+
+#### [Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million](https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 09:02
+
+#### [Singer Charlie Puth sells $18.5 million SoCal mansion where he married Brook Sansone](https://www.marketwatch.com/story/singer-charlie-puth-sells-18-5-million-socal-mansion-where-he-married-brook-sansone-4447dc2c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 08:59
+
+#### [Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.](https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 04:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US satellite maker Planet Labs opens Berlin factory as military demand booms](https://www.ft.com/content/dbbfd35f-8f1c-4de8-82a8-4ec19dcdf841?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 09:00
+
+#### [How the cost of Japan’s money shapes the world](https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [What Xi wants from his summit with Trump](https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [Are we developing a distaste for effort?](https://www.ft.com/content/b30eb538-b5a3-4fb2-bae2-785273bfda1c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [Merz’s woes cast doubt over EU’s €2tn budget deal](https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [Germany’s economic recovery is under way if politics doesn’t spoil it](https://www.ft.com/content/b891fa54-b901-45fe-a78d-1161424c0da9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [AI staff complain of mental toll over fears of threat to society](https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [Putin’s ‘war heroes’ form new political elite in Russian parliament](https://www.ft.com/content/db043fc4-c810-4834-bd6b-878d5960c630?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 04:00
+
+#### [OpenAI sued by Canadian province over role in mass shooting](https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 01:28
 
 ---
 

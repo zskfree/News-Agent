@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-22 01:30
+**最后更新时间**: 2026-09-22 09:42
+
+---
+
+## 🆕 最新更新 (2026-09-22 09:42)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API](https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 17:31
+
+#### [Meta 开源 Astryx：面向 Agent 的 React 设计系统](https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 15:12
+
+#### [从 AI 工具到经营智能体：快手分销增长 Agent 实践](https://www.infoq.cn/article/7suOC8BJWYA4yx6dvZXa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 14:32
+
+#### [AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？](https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 14:17
+
+#### [Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流](https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 13:00
+
+#### [华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程](https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 11:22
+
+#### [阿里吴泳铭：千问将训练5-10万亿参数规模的新模型](https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 10:48
+
+#### [NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上](https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 10:44
+
+#### [复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海](https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2026年中报基金盈利投资者数量占比分析](https://www.tmtpost.com/8148978.html)
+**发布时间**: 2026-09-22 17:23
+
+#### [上市公司TOP5济安评估（9月14日至9月20日）](https://www.tmtpost.com/8148976.html)
+**发布时间**: 2026-09-22 17:23
+
+#### [AI概念越来越宽，行业分类为什么反而需要更细？](https://www.tmtpost.com/8148965.html)
+**发布时间**: 2026-09-22 17:22
+
+#### [价值判断：跌停板的投资机会和风险提示（9月21日）｜上市公司观察](https://www.tmtpost.com/8148962.html)
+**发布时间**: 2026-09-22 17:22
+
+#### [AI导购“百团大战”开打：电商十年逻辑正在被改写](https://www.tmtpost.com/8143622.html)
+**发布时间**: 2026-09-22 17:04
+
+#### [成为AI原生的超级组织：让每一次工作，都成为下一次的积累｜2026 ITValue Summit数字价值年会](https://www.tmtpost.com/8148769.html)
+**发布时间**: 2026-09-22 16:25
+
+#### [300亿！一个中部县城靠“听”出了个国家级产业集群](https://www.tmtpost.com/8148300.html)
+**发布时间**: 2026-09-22 15:57
+
+#### [企业爆买AI Box](https://www.tmtpost.com/8147846.html)
+**发布时间**: 2026-09-22 15:53
+
+#### [自动驾驶巴士迈入“黄金年代”](https://www.tmtpost.com/8138057.html)
+**发布时间**: 2026-09-22 15:47
+
+#### [造一万台机器人，要补多少汽车工业的课？](https://www.tmtpost.com/8148599.html)
+**发布时间**: 2026-09-22 15:47
+
+#### [吴敏芝接掌新支付宝：蚂蚁的赛马实验结束了](https://www.tmtpost.com/8148812.html)
+**发布时间**: 2026-09-22 15:47
+
+#### [15999元折叠屏重分供应链价值：中国精密制造迎来“升舱"时刻](https://www.tmtpost.com/8148399.html)
+**发布时间**: 2026-09-22 15:23
+
+#### [西贝被逼到了墙角：4成门店关闭，超6亿亏损](https://www.tmtpost.com/8148041.html)
+**发布时间**: 2026-09-22 14:59
+
+#### [十年试错，西贝的最后一根稻草](https://www.tmtpost.com/8148209.html)
+**发布时间**: 2026-09-22 14:59
+
+#### [车企兜底+技术平权：一场以消费者利益为驱动的动力电池产业重构正在发生](https://www.tmtpost.com/8148365.html)
+**发布时间**: 2026-09-22 13:51
+
+#### [工业AI正在走向产线，但规模化仍有卡点丨ToB产业观察](https://www.tmtpost.com/8148663.html)
+**发布时间**: 2026-09-22 13:51
+
+#### [移动影像的“三选二”焦虑，被vivo搞定了](https://www.tmtpost.com/8148176.html)
+**发布时间**: 2026-09-22 13:51
+
+#### [510万元一张的太空船票，被卖“爆”了](https://www.tmtpost.com/8146132.html)
+**发布时间**: 2026-09-22 13:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
+**发布时间**: 2026-09-22 16:11
+
+#### [App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+**发布时间**: 2026-09-22 14:39
+
+#### [少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
+**发布时间**: 2026-09-22 10:44
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了](http://www.geekpark.net/news/370797)
+**发布时间**: 2026-09-22 12:01
 
 ---
 

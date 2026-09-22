@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Sep 2026 01:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 01:31:08 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 09:42:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:42:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/370768</link>
-      <description>&lt;![CDATA[黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370768</guid>
+      <title>Meta 开源 Astryx：面向 Agent 的 React 设计系统</title>
+      <link>https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 开源 Astryx：面向 Agent 的 React 设计系统]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等</title>
-      <link>https://sspai.com/post/114840</link>
-      <description>&lt;![CDATA[派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114840</guid>
+      <title>车企兜底+技术平权：一场以消费者利益为驱动的动力电池产业重构正在发生</title>
+      <link>https://www.tmtpost.com/8148365.html</link>
+      <description>&lt;![CDATA[车企兜底+技术平权：一场以消费者利益为驱动的动力电池产业重构正在发生]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8148365.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Muse登顶，Meta靠agent扳回一局</title>
-      <link>https://www.tmtpost.com/8148240.html</link>
-      <description>&lt;![CDATA[Muse登顶，Meta靠agent扳回一局]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 09:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8148240.html</guid>
+      <title>Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API</title>
+      <link>https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声</title>
-      <link>https://www.tmtpost.com/8148014.html</link>
-      <description>&lt;![CDATA[【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8148014.html</guid>
+      <title>从 AI 工具到经营智能体：快手分销增长 Agent 实践</title>
+      <link>https://www.infoq.cn/article/7suOC8BJWYA4yx6dvZXa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 AI 工具到经营智能体：快手分销增长 Agent 实践]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7suOC8BJWYA4yx6dvZXa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线</title>
-      <link>https://www.tmtpost.com/8147943.html</link>
-      <description>&lt;![CDATA[安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 20:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147943.html</guid>
+      <title>AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？</title>
+      <link>https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话芯展速李蓁：内存墙下，存储不再是算力的附属品</title>
-      <link>https://www.tmtpost.com/8147817.html</link>
-      <description>&lt;![CDATA[对话芯展速李蓁：内存墙下，存储不再是算力的附属品]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 20:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147817.html</guid>
+      <title>Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流</title>
+      <link>https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Rustls 十周年：发展历程、基准测试与未来路线图</title>
-      <link>https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Rustls 十周年：发展历程、基准测试与未来路线图]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程</title>
+      <link>https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MiniMax H3 开源后，本地 AIGC 走到了哪里？</title>
-      <link>https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MiniMax H3 开源后，本地 AIGC 走到了哪里？]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 21:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里吴泳铭：千问将训练5-10万亿参数规模的新模型</title>
+      <link>https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里吴泳铭：千问将训练5-10万亿参数规模的新模型]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作</title>
-      <link>https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上</title>
+      <link>https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>零跑的新目标：从「小米」成为「苹果」</title>
-      <link>http://www.geekpark.net/news/370765</link>
-      <description>&lt;![CDATA[零跑的新目标：从「小米」成为「苹果」]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 23:11:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370765</guid>
+      <title>复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海</title>
+      <link>https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

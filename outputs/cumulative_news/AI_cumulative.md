@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-22 01:28
+**最后更新时间**: 2026-09-22 09:40
+
+---
+
+## 🆕 最新更新 (2026-09-22 09:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [全球首款 799g 14 英寸 x86 Laptop，来自深圳](https://www.leiphone.com/category/industrynews/PKaT8QSsjl49j8JL.html)
+**发布时间**: 2026-09-22 15:13
+
+#### [WorkRally 首发接入Hy Image3.5 preview，为专业影视创作开放两周免费体验](https://www.leiphone.com/category/industrynews/hbyvT21PED8pXEkO.html)
+**发布时间**: 2026-09-22 14:05
+
+#### [vivo WATCH 6正式发布：外表有型、内在专业，树立轻户外智能腕表新标杆](https://www.leiphone.com/category/industrynews/21yxpwxuI68n5Or4.html)
+**发布时间**: 2026-09-22 12:38
+
+#### [vivo首款耳夹耳机正式发布，vivo Buds Clip点亮耳畔“微光小C环”](https://www.leiphone.com/category/industrynews/v4u9ez41xgbtr9f6.html)
+**发布时间**: 2026-09-22 12:35
+
+#### [影像表现全面进阶 vivo X500系列影像旗舰新品正式发布](https://www.leiphone.com/category/industrynews/C3VZZW0uvu7pezVt.html)
+**发布时间**: 2026-09-22 12:31
+
+#### [千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售](https://www.leiphone.com/category/industrynews/sUhCMujTu7xyY00e.html)
+**发布时间**: 2026-09-22 12:25
+
+#### [千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售](https://www.leiphone.com/category/industrynews/g7G10jWPPDoguXVu.html)
+**发布时间**: 2026-09-22 12:24
+
+#### [人工智能促进健康全球倡议2026年会召开，讯飞医疗以数智实践助力全球医疗AI治理体系共建](https://www.leiphone.com/category/industrynews/R83KNSoMSQgd8F4P.html)
+**发布时间**: 2026-09-22 11:12
+
+#### [在中国，别指望FDE能搞定AI落地](https://www.leiphone.com/category/industrynews/30ZiAiG8Mq6ZYJ7g.html)
+**发布时间**: 2026-09-22 11:01
+
+#### [Intel 平台 + 双 PCIe：智锐通 EMA-7132 让医疗影像采集与推理同板并行](https://www.leiphone.com/category/healthai/TJtpoGbd4KH8lBtK.html)
+**发布时间**: 2026-09-22 10:37
+
+#### [一颗“AI球”刷屏后，随身AI录音的序幕才刚刚开启](https://www.leiphone.com/category/industrynews/jaNIhOplEbRqBAAw.html)
+**发布时间**: 2026-09-22 10:00
+
+#### [红杉、云启领投，华超神控完成2亿元Pre-A轮融资，押注「非侵入式AI脑机接口」](https://www.leiphone.com/category/aihealth/cZ1cYOXpoBGSfj45.html)
+**发布时间**: 2026-09-22 09:54
+
+#### [黄仁勋回应或缴税540亿：我不怕缴税，只怕变穷；马斯克深夜放大招，新模型Grok 4.7上线；特斯拉机器人团队在长三角审厂，多家企业获订单](https://www.leiphone.com/category/zaobao/5mlqTB9MeU1qAtoe.html)
+**发布时间**: 2026-09-22 08:28
+
+#### [把电影感装进口袋，vivo的移动影像长跑](https://www.leiphone.com/category/weiwu/EFyrd0uIRXcWp5ns.html)
+**发布时间**: 2026-09-22 00:07
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-22日刊](https://hex2077.dev/docs/2026-09/2026-09-22/)
+**发布时间**: 2026-09-22 03:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阿里研究员透露Qwen4.5后模型将扩展至5-10T参数](https://www.qbitai.com/2026/09/493629.html)
+**发布时间**: 2026-09-22 03:48
+
+#### [阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中](https://www.qbitai.com/2026/09/493625.html)
+**发布时间**: 2026-09-22 03:42
+
+#### [2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远](https://www.qbitai.com/2026/09/493510.html)
+**发布时间**: 2026-09-22 03:13
+
+#### [阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石](https://www.qbitai.com/2026/09/493502.html)
+**发布时间**: 2026-09-22 02:59
+
+#### [阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上](https://www.qbitai.com/2026/09/493485.html)
+**发布时间**: 2026-09-22 02:52
+
+#### [AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」](https://www.qbitai.com/2026/09/493363.html)
+**发布时间**: 2026-09-22 02:22
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx)
+**发布时间**: 2026-09-22 00:00
 
 ---
 
