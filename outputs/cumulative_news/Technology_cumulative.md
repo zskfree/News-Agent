@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-21 10:29
+**最后更新时间**: 2026-09-22 01:30
+
+---
+
+## 🆕 最新更新 (2026-09-22 01:30)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Muse登顶，Meta靠agent扳回一局](https://www.tmtpost.com/8148240.html)
+**发布时间**: 2026-09-22 09:25
+
+#### [【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声](https://www.tmtpost.com/8148014.html)
+**发布时间**: 2026-09-22 07:20
+
+#### [安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线](https://www.tmtpost.com/8147943.html)
+**发布时间**: 2026-09-21 20:31
+
+#### [对话芯展速李蓁：内存墙下，存储不再是算力的附属品](https://www.tmtpost.com/8147817.html)
+**发布时间**: 2026-09-21 20:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Rustls 十周年：发展历程、基准测试与未来路线图](https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-22 09:06
+
+#### [MiniMax H3 开源后，本地 AIGC 走到了哪里？](https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 21:31
+
+#### [70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作](https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-21 18:23
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道](http://www.geekpark.net/news/370768)
+**发布时间**: 2026-09-22 08:42
+
+#### [零跑的新目标：从「小米」成为「苹果」](http://www.geekpark.net/news/370765)
+**发布时间**: 2026-09-21 23:11
+
+#### [Jev，让全球程序员玩疯了](http://www.geekpark.net/news/370758)
+**发布时间**: 2026-09-21 19:02
+
+#### [把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年](http://www.geekpark.net/news/370759)
+**发布时间**: 2026-09-21 19:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等](https://sspai.com/post/114840)
+**发布时间**: 2026-09-22 08:09
+
+#### [一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
+**发布时间**: 2026-09-21 21:02
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/114815)
+**发布时间**: 2026-09-21 17:57
 
 ---
 

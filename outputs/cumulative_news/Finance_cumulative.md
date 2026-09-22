@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-21 10:29
+**最后更新时间**: 2026-09-22 01:30
+
+---
+
+## 🆕 最新更新 (2026-09-22 01:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SoftBank’s $50bn data centre group slows IPO](https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 23:51
+
+#### [Trump and Mamdani strike friendly tone in New York City housing talks](https://www.ft.com/content/68d4f774-fbcb-48b3-9cd2-00b281d1beb6)
+**发布时间**: 2026-09-21 23:45
+
+#### [‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports](https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 23:28
+
+#### [Gulf states urge reset with Iran as conflict drags on](https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 21:15
+
+#### [Meta leads tech rally as oil prices fall](https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 20:43
+
+#### [Kremlin-backed forgery scheme moved $6.9bn through global banks](https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 20:00
+
+#### [OpenAI joins call for US-led global AI standards](https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 17:24
+
+#### [Trump and Xi are the wrong men at the wrong time](https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 11:59
+
+#### [The cartel civil war tearing apart a Mexican state](https://www.ft.com/content/f2dca0b0-6387-4022-8dba-dc8015823dfe?syn-25a6b1a6=1)
+**发布时间**: 2026-09-21 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant](https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 22:01
+
+#### [AT&T’s stock looks like the smartest bet in the wireless sector, analyst says](https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 21:57
+
+#### [Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 21:47
+
+#### [My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?](https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 21:30
+
+#### [As the S&P 500 nears a new record high, there are signs of weakness below the surface](https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 21:17
+
+#### [These beaten-down stocks could bounce back in January, if history is any guide](https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 21:06
+
+#### [Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy](https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 20:23
+
+#### [Amazon and Shopify make starkly different moves in the brewing battle over AI shopping](https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 20:22
+
+#### [AMD hits a major milestone as AI stocks blaze higher](https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories)
+**发布时间**: 2026-09-21 20:19
 
 ---
 

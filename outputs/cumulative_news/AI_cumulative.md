@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-21 10:26
+**最后更新时间**: 2026-09-22 01:28
+
+---
+
+## 🆕 最新更新 (2026-09-22 01:28)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [百度200万美元重奖2支技术团队，李彦宏：认可技术价值，是百度真正的竞争力](https://www.leiphone.com/category/industrynews/7frcIluWLrkbs5p9.html)
+**发布时间**: 2026-09-21 19:58
+
+#### [AI4S青年志① | 摇瓶子的手与调参数的脑：两个95后和一场物质科学的化学反应](https://www.leiphone.com/category/academic/vY1gBvHhcA2frpx4.html)
+**发布时间**: 2026-09-21 17:51
+
+#### [GaLaBau 2026观察：MOVA园林工具深化Dealer渠道，专业园林加速迈向AI智能时代](https://www.leiphone.com/category/weiwu/2HKv7GzxuykgEomF.html)
+**发布时间**: 2026-09-21 17:18
+
+#### [华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级](https://www.leiphone.com/category/industrynews/B5ahgA6nibk33DRO.html)
+**发布时间**: 2026-09-21 17:03
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/)
+**发布时间**: 2026-09-21 18:30
+
+#### [How BMW Group detects cost anomalies across 14,000 cloud accounts](https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/)
+**发布时间**: 2026-09-21 16:36
+
+#### [Run Positron on Amazon SageMaker AI for data science workflows](https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/)
+**发布时间**: 2026-09-21 16:34
+
+#### [How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-21 16:27
+
+#### [Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution](https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/)
+**发布时间**: 2026-09-21 16:24
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/)
+**发布时间**: 2026-09-21 18:00
+
+#### [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/)
+**发布时间**: 2026-09-21 16:00
+
+#### [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/)
+**发布时间**: 2026-09-21 16:00
+
+#### [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](https://blogs.nvidia.com/blog/ai-security-agent-stack/)
+**发布时间**: 2026-09-21 14:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)
+**发布时间**: 2026-09-21 13:44
+
+#### [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1)
+**发布时间**: 2026-09-21 00:00
 
 ---
 

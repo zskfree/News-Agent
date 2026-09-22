@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 21 Sep 2026 10:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 10:29:31 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 01:30:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:31:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%</title>
-      <link>https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article</guid>
+      <title>黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/370768</link>
+      <description>&lt;![CDATA[黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 08:42:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370768</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IDC评估中国 AI算力管理平台：范式综合评分位列第一</title>
-      <link>https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[IDC评估中国 AI算力管理平台：范式综合评分位列第一]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等</title>
+      <link>https://sspai.com/post/114840</link>
+      <description>&lt;![CDATA[派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 08:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114840</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI4S走出实验室：材料研发开始跨越“中试鸿沟”</title>
-      <link>https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI4S走出实验室：材料研发开始跨越“中试鸿沟”]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Muse登顶，Meta靠agent扳回一局</title>
+      <link>https://www.tmtpost.com/8148240.html</link>
+      <description>&lt;![CDATA[Muse登顶，Meta靠agent扳回一局]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8148240.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海</title>
-      <link>https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声</title>
+      <link>https://www.tmtpost.com/8148014.html</link>
+      <description>&lt;![CDATA[【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8148014.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【Fintech 周报】微信支付、支付宝将金融产品与支付工具区隔；汇丰香港大砍福利</title>
-      <link>https://www.tmtpost.com/8147454.html</link>
-      <description>&lt;![CDATA[【Fintech 周报】微信支付、支付宝将金融产品与支付工具区隔；汇丰香港大砍福利]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147454.html</guid>
+      <title>安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线</title>
+      <link>https://www.tmtpost.com/8147943.html</link>
+      <description>&lt;![CDATA[安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 20:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8147943.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>内存涨价，厂商扎堆2nm芯片</title>
-      <link>https://www.tmtpost.com/8147419.html</link>
-      <description>&lt;![CDATA[内存涨价，厂商扎堆2nm芯片]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147419.html</guid>
+      <title>对话芯展速李蓁：内存墙下，存储不再是算力的附属品</title>
+      <link>https://www.tmtpost.com/8147817.html</link>
+      <description>&lt;![CDATA[对话芯展速李蓁：内存墙下，存储不再是算力的附属品]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 20:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8147817.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道</title>
-      <link>http://www.geekpark.net/news/370681</link>
-      <description>&lt;![CDATA[卢伟冰谈小米18 Pro涨价：大家会觉得合理；剪映发布 Hub 及 AI 助手「小映」；苹果或 10 月推出智能家居设备｜极客早知道]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370681</guid>
+      <title>Rustls 十周年：发展历程、基准测试与未来路线图</title>
+      <link>https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Rustls 十周年：发展历程、基准测试与未来路线图]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么</title>
-      <link>https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MiniMax H3 开源后，本地 AIGC 走到了哪里？</title>
+      <link>https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MiniMax H3 开源后，本地 AIGC 走到了哪里？]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 21:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”</title>
-      <link>https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作</title>
+      <link>https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”</title>
-      <link>https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&amp;utm_medium=article</guid>
+      <title>零跑的新目标：从「小米」成为「苹果」</title>
+      <link>http://www.geekpark.net/news/370765</link>
+      <description>&lt;![CDATA[零跑的新目标：从「小米」成为「苹果」]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 23:11:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370765</guid>
       <category>Technology</category>
     </item>
   </channel>
