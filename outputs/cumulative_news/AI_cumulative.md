@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-22 09:40
+**最后更新时间**: 2026-09-23 01:18
+
+---
+
+## 🆕 最新更新 (2026-09-23 01:18)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [一张硬件卡片，一场上下文之争：千问办公押注企业Agent](https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html)
+**发布时间**: 2026-09-22 22:42
+
+#### [极氪9X正式出海，中国旗舰直面对决保时捷、劳斯莱斯](https://www.leiphone.com/category/industrynews/2B9sF0r43RzljsqT.html)
+**发布时间**: 2026-09-22 22:38
+
+#### [《AGI市场观察》发布：四款国产模型周用量破10万亿tokens，DeepSeek与混元占比近半](https://www.leiphone.com/category/industrynews/IRBkL55eFXZRCHiy.html)
+**发布时间**: 2026-09-22 19:25
+
+#### [阿里云加速构建Agentic Cloud：推出AgentCore、新一代CPFS等重磅新品](https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html)
+**发布时间**: 2026-09-22 17:38
+
+#### [做每个人的专属AI助理，千问加速打造Personal Agent](https://www.leiphone.com/category/industrynews/4V3AYUarwL4RCE5O.html)
+**发布时间**: 2026-09-22 16:40
+
+#### [做每个人的专属AI助理，千问加速打造Personal Agent](https://www.leiphone.com/category/industrynews/l4HSONbqE9vSaA4z.html)
+**发布时间**: 2026-09-22 16:38
+
+#### [对话 COBRA-Skills 一作卢平琛：仅用 50 个样本，重构 Agent 技能降本路线](https://www.leiphone.com/category/private/AaUgNDfg84ayCKbE.html)
+**发布时间**: 2026-09-22 15:55
+
+#### [2026 中国民营企业500强发布，华为、腾讯研发投入前二](https://www.leiphone.com/category/industrynews/Y8vaE5uoJd4Okj3T.html)
+**发布时间**: 2026-09-22 15:47
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/)
+**发布时间**: 2026-09-22 18:10
+
+#### [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/)
+**发布时间**: 2026-09-22 17:28
+
+#### [Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-22 17:18
+
+#### [How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-22 15:46
+
+#### [Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-09-22 15:35
+
+#### [How Trane gets building insights 60x faster with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-22 15:30
+
+#### [How Tata Elxsi detects industrial safety risks in seconds on AWS](https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/)
+**发布时间**: 2026-09-22 15:19
+
+#### [Extending public sector intelligence with Agentforce and AWS](https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/)
+**发布时间**: 2026-09-22 15:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产](https://www.qbitai.com/2026/09/494429.html)
+**发布时间**: 2026-09-22 15:59
+
+#### [Agent时代，CPU的价值该重估了](https://www.qbitai.com/2026/09/494430.html)
+**发布时间**: 2026-09-22 15:46
+
+#### [直播预告：未来两三年，哪些工业AI场景会率先爆发？](https://www.qbitai.com/2026/09/494420.html)
+**发布时间**: 2026-09-22 14:28
+
+#### [讲真，我没看出这图是AI做的，更没想到是国产AI做的](https://www.qbitai.com/2026/09/494263.html)
+**发布时间**: 2026-09-22 13:57
+
+#### [WebArena作者Shuyan Zhou入职Meta超级智能实验室](https://www.qbitai.com/2026/09/493653.html)
+**发布时间**: 2026-09-22 11:58
+
+#### [6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官](https://www.qbitai.com/2026/09/494179.html)
+**发布时间**: 2026-09-22 11:50
+
+#### [基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化](https://www.qbitai.com/2026/09/494120.html)
+**发布时间**: 2026-09-22 10:06
+
+#### [别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检](https://www.qbitai.com/2026/09/494043.html)
+**发布时间**: 2026-09-22 10:01
+
+#### [虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建](https://www.qbitai.com/2026/09/493865.html)
+**发布时间**: 2026-09-22 08:49
+
+#### [首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求](https://www.qbitai.com/2026/09/493819.html)
+**发布时间**: 2026-09-22 08:35
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research](https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922)
+**发布时间**: 2026-09-22 15:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)
+**发布时间**: 2026-09-22 12:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi)
+**发布时间**: 2026-09-22 00:00
+
+#### [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
+**发布时间**: 2026-09-22 00:00
 
 ---
 

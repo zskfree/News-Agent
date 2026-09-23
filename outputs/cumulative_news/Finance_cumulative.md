@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-22 09:42
+**最后更新时间**: 2026-09-23 01:20
+
+---
+
+## 🆕 最新更新 (2026-09-23 01:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump rejects ‘globalist scheme’ to control AI in blow to Burnham](https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 23:42
+
+#### [Qantas pushes ahead with new ultra-long flights despite high fuel prices](https://www.ft.com/content/276f5264-c3e1-418b-8acc-cd3d4f1ed31b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 23:18
+
+#### [US and Iran hold first talks since June as Trump threatens ‘annihilation’](https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 21:26
+
+#### [Anthropic and OpenAI release cheaper models as price war intensifies](https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 20:31
+
+#### [Nasdaq 100 rises to new high as ‘AI Fomo’ returns](https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 20:28
+
+#### [US government and Gulf billionaires back Todd Boehly bid for Lukoil assets](https://www.ft.com/content/152aa77b-977f-4607-8a09-77291f85d2a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 20:00
+
+#### [Top UK graft prosecutors joined Trump’s Venezuela oil baron during Swiss probe](https://www.ft.com/content/f2f37449-f9c7-4556-9f97-4cca735980e4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 20:00
+
+#### [Burnham says world must ‘rise to the moment’ on AI](https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7)
+**发布时间**: 2026-09-22 19:27
+
+#### [‘MBS will not forget’: Trump’s reluctance to fight Houthis rattles Saudi Arabia](https://www.ft.com/content/99457bcb-d98f-4719-a203-688daefcc3f7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 11:00
+
+#### [Trump is checking out of his presidency](https://www.ft.com/content/571df338-895b-4c9b-9be3-c1d2b755221b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-22 10:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy](https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 21:44
+
+#### [Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights](https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 21:30
+
+#### [Want to bet on risky, high-beta stocks? Why you should wait for mid-October.](https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 21:27
+
+#### [Could Meta’s viral Muse app be the company’s ChatGPT moment?](https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 21:26
+
+#### [Why Apple could soon join Nvidia in the exclusive $5 trillion club](https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 20:54
+
+#### [Want to retire with more money? Leave the U.S. early in your career — and then come back.](https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 20:46
+
+#### [This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month](https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 20:27
+
+#### [Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies](https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 19:59
+
+#### [Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.](https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-22 19:48
 
 ---
 
