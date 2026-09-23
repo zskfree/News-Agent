@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-23 01:18
+**最后更新时间**: 2026-09-23 09:47
+
+---
+
+## 🆕 最新更新 (2026-09-23 09:47)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从设备到场景，影像产业正在打开怎样的新边界？](https://www.leiphone.com/category/industrynews/K21m19f4RE96h2ex.html)
+**发布时间**: 2026-09-23 14:05
+
+#### [零跑汽车携手腾讯WorkBuddy，40+核心业务场景AI提效90%](https://www.leiphone.com/category/industrynews/VxBamkZOAJ7KLTic.html)
+**发布时间**: 2026-09-23 13:44
+
+#### [启仔远仔，想成为第一个被你带回家的硅基伙伴](https://www.leiphone.com/category/ai/egX12nldi7K2aLbu.html)
+**发布时间**: 2026-09-23 12:59
+
+#### [Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？](https://www.leiphone.com/category/ai/CC2fOX5Nj0OQ06t1.html)
+**发布时间**: 2026-09-23 12:10
+
+#### [深度拆解 MiMo-V2.6：1M 上下文只是表面，2.5 万条轨迹才是底牌](https://www.leiphone.com/category/ai/f8vJztYMmCQ3ENED.html)
+**发布时间**: 2026-09-23 12:07
+
+#### [豆包工作功能更新，新增“目标模式”与“计划模式”](https://www.leiphone.com/category/industrynews/jmNv5Ekjl1OJHgA5.html)
+**发布时间**: 2026-09-23 11:22
+
+#### [美团闪购：即时零售跨入商品时代，将投入300亿联合行业共建“30分钟商品圈”](https://www.leiphone.com/category/industrynews/hDehi6a26BOh32O6.html)
+**发布时间**: 2026-09-23 11:21
+
+#### [千问办公将接入阿里云上的Salesforce](https://www.leiphone.com/category/industrynews/3LY3BH2AS6lQKJ7H.html)
+**发布时间**: 2026-09-23 10:53
+
+#### [全国工商联民营企业500强榜单公布 滴滴位列第31位](https://www.leiphone.com/category/industrynews/66kZQmRACVsNRTEH.html)
+**发布时间**: 2026-09-23 10:49
+
+#### [ECCV 2026 开幕：李飞飞团队获时间检验奖，7000人挤爆马尔默](https://www.leiphone.com/category/academic/btha4kkfzuaJc41w.html)
+**发布时间**: 2026-09-23 09:51
+
+#### [Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026](https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html)
+**发布时间**: 2026-09-23 09:49
+
+#### [乐享以太大模型，让中国具身智能坐上定义席](https://www.leiphone.com/category/academic/Ti3obLMNSuHn5OpR.html)
+**发布时间**: 2026-09-23 09:46
+
+#### [近亿元A轮融资，海外收入增长450%：ExploMar擎波探索引领千亿水上动力市场电动化](https://www.leiphone.com/category/industrynews/lOa3qN8SeAsvE4tw.html)
+**发布时间**: 2026-09-23 09:41
+
+#### [苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你；高德地图成「职场版大众点评」？回应来了；Muse大火，扎克伯格身价暴涨1700亿](https://www.leiphone.com/category/zaobao/ZIo4XgkwIFbsS0ui.html)
+**发布时间**: 2026-09-23 08:35
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段](https://www.qbitai.com/2026/09/496481.html)
+**发布时间**: 2026-09-23 08:54
+
+#### [斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”](https://www.qbitai.com/2026/09/496471.html)
+**发布时间**: 2026-09-23 08:45
+
+#### [DeepSeek新论文公开Agent训练！梁文锋署名](https://www.qbitai.com/2026/09/496393.html)
+**发布时间**: 2026-09-23 07:29
+
+#### [Qwen一号位定了！刘大一恒接棒](https://www.qbitai.com/2026/09/496384.html)
+**发布时间**: 2026-09-23 07:27
+
+#### [Jev vs Decitron：同为决策AI，为什么不是一回事？](https://www.qbitai.com/2026/09/496352.html)
+**发布时间**: 2026-09-23 06:38
+
+#### [实时世界模型进入“全科生”阶段，PixVerse R2先交卷！](https://www.qbitai.com/2026/09/496329.html)
+**发布时间**: 2026-09-23 06:08
+
+#### [稚晖君把机器人卖到2万元一台，可人可狗可开发！](https://www.qbitai.com/2026/09/496304.html)
+**发布时间**: 2026-09-23 05:16
+
+#### [阿里千问AI平台全面升级模型服务、Agent服务、AI应用](https://www.qbitai.com/2026/09/496301.html)
+**发布时间**: 2026-09-23 05:13
+
+#### [GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了](https://www.qbitai.com/2026/09/496170.html)
+**发布时间**: 2026-09-23 05:01
+
+#### [Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折](https://www.qbitai.com/2026/09/496221.html)
+**发布时间**: 2026-09-23 04:59
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](https://blogs.nvidia.com/blog/ai-day-singapore/)
+**发布时间**: 2026-09-23 02:30
 
 ---
 

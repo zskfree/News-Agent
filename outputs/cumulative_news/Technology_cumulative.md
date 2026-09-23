@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-23 01:20
+**最后更新时间**: 2026-09-23 09:57
+
+---
+
+## 🆕 最新更新 (2026-09-23 09:57)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [2027，零售将进入自营化元年](https://www.tmtpost.com/8150812.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [为什么突然之间，全是大环肽？](https://www.tmtpost.com/8150795.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [AI制药的火，烧到了“产业中游”](https://www.tmtpost.com/8150777.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导](https://www.tmtpost.com/8149902.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [交付缩水八成，优必选给具身智能泼了一盆冷水](https://www.tmtpost.com/8150766.html)
+**发布时间**: 2026-09-23 17:44
+
+#### [从战略抉择到价值重塑——阿里巴巴财务AI转型的路径与启示](https://www.tmtpost.com/8149420.html)
+**发布时间**: 2026-09-23 17:25
+
+#### [为什么源网荷储是AIDC必备条件，华为给出答案](https://www.tmtpost.com/8149187.html)
+**发布时间**: 2026-09-23 17:25
+
+#### [估值近1000亿，王虹手上的AI戒指，要上市了](https://www.tmtpost.com/8150650.html)
+**发布时间**: 2026-09-23 17:05
+
+#### [顶尖风投办大学：黄仁勋、奥特曼、纳德拉坐镇“史上最豪华导师天团”](https://www.tmtpost.com/8150637.html)
+**发布时间**: 2026-09-23 17:05
+
+#### [最难调的负荷，才是算电协同的钥匙](https://www.tmtpost.com/8150360.html)
+**发布时间**: 2026-09-23 17:05
+
+#### [消费电子基本盘承压，富信科技2.7亿定增加码MicroTEC](https://www.tmtpost.com/8150512.html)
+**发布时间**: 2026-09-23 16:46
+
+#### [从大同到南京，透过完美国风大赏进化看完美公司的品牌叙事](https://www.tmtpost.com/8150434.html)
+**发布时间**: 2026-09-23 16:45
+
+#### [最先跑通具身智能RSI的，未必是模型最强的公司](https://www.tmtpost.com/8150447.html)
+**发布时间**: 2026-09-23 16:33
+
+#### [别急着找“中国版Muse”，先看看股价的脸色](https://www.tmtpost.com/8150376.html)
+**发布时间**: 2026-09-23 16:33
+
+#### [五芳斋用粽子利润，给饭团交了一笔赎金](https://www.tmtpost.com/8150328.html)
+**发布时间**: 2026-09-23 16:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin](https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 17:00
+
+#### [Dropbox 升级 Riviera 平台，支持 AI 工作负载](https://www.infoq.cn/article/jJAcfJO5e0ElPhIxwwxo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 15:47
+
+#### [智谱把 ZCode 开源了，然后呢？](https://www.infoq.cn/article/qEHi6k5ycwXUiasvfNKH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 14:43
+
+#### [大语言模型：下一代 DSL 编写者](https://www.infoq.cn/article/fZRdzxQYpaTS2sQSqpVk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 13:22
+
+#### [Redis之父质疑Jev狂热！绝大多数开发者其实不需要它](https://www.infoq.cn/article/POjWf9P5wCYjQaB39jD6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 12:08
+
+#### [Agents成新一代造王者，开发者正在快速失去技术决定权](https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 12:03
+
+#### [数百亿向量怎么搜？Pinterest 抛弃“内存大户”HNSW，转向量化 SPANN](https://www.infoq.cn/article/rB0WGcG9iLIRH3xZojY5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 11:22
+
+#### [阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践](https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 10:05
+
+#### [飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海](https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 10:00
+
+#### [Cloudflare 测试通过缓存转码来减少存储需求](https://www.infoq.cn/article/izptFj6mjkyfd03qFHk9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 09:26
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [剪映，杀入 AI 互动影游](http://www.geekpark.net/news/370883)
+**发布时间**: 2026-09-23 15:32
+
+#### [拆解下阿里的 AI 经济学，与它的下注](http://www.geekpark.net/news/370865)
+**发布时间**: 2026-09-23 14:02
+
+#### [从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局](http://www.geekpark.net/news/370864)
+**发布时间**: 2026-09-23 13:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
+**发布时间**: 2026-09-23 15:30
+
+#### [Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
+**发布时间**: 2026-09-23 10:19
+
+#### [Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+**发布时间**: 2026-09-22 14:39
 
 ---
 

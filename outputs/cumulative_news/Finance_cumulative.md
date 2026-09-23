@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-23 01:20
+**最后更新时间**: 2026-09-23 09:57
+
+---
+
+## 🆕 最新更新 (2026-09-23 09:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why analysts say a diesel export ban could backfire](https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 09:29
+
+#### [Here are the hidden flaws in Warsh’s new way of tracking inflation](https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 09:28
+
+#### [My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?](https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 09:15
+
+#### [The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress](https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 09:01
+
+#### [TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million](https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 08:58
+
+#### [Softbank’s mega junk-bond deal shows capital for the AI race is getting more expensive](https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 08:56
+
+#### [This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.](https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 08:24
+
+#### [‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?](https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 02:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Has Trump caged his China hawks?](https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:10
+
+#### [The battle between the Fed and Trump](https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
+
+#### [How private equity ended up in limbo](https://www.ft.com/content/2b307c1e-cd98-4666-91d5-000b1dc7bbd1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
+
+#### [Nscale left its biggest customer unnamed in $35bn IPO filing: ByteDance](https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
+
+#### [Global banks warn UK windfall tax will trigger shift away from London](https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
+
+#### [Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping](https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
+
+#### [Diesel surge costs European drivers €203mn per day](https://www.ft.com/content/76b51a19-0387-4eed-a343-980b1135de2c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 04:00
 
 ---
 
