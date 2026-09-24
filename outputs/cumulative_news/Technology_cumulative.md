@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-23 09:57
+**最后更新时间**: 2026-09-24 01:12
+
+---
+
+## 🆕 最新更新 (2026-09-24 01:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用 AI 搭建内部开发者平台](https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 09:05
+
+#### [从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限](https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:51
+
+#### [Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%](https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:41
+
+#### [人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷](https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:09
+
+#### [4096 张卡如何成为“一台计算机”？读懂华为的超节点布局](https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 21:57
+
+#### [2026 年的云栖，阿里给 AI 行业递了一把新尺子](https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 19:51
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点](https://www.tmtpost.com/8149015.html)
+**发布时间**: 2026-09-24 08:14
+
+#### [【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek](https://www.tmtpost.com/8151174.html)
+**发布时间**: 2026-09-24 07:20
+
+#### [联发科“串场”，OPPO、vivo旗舰机换芯](https://www.tmtpost.com/8151065.html)
+**发布时间**: 2026-09-23 20:04
+
+#### [杀猪盘最贵的一道工序，AI 接手了](https://www.tmtpost.com/8151037.html)
+**发布时间**: 2026-09-23 19:45
+
+#### [1300万辆之后，福田汽车如何在欧洲扎根？](https://www.tmtpost.com/8150846.html)
+**发布时间**: 2026-09-23 19:35
+
+#### [企业数据太多，AI知道得太少：千问办公的上下文生意](https://www.tmtpost.com/8151019.html)
+**发布时间**: 2026-09-23 19:34
+
+#### [江淮汽车，成了资本眼中的新“太子”？](https://www.tmtpost.com/8150848.html)
+**发布时间**: 2026-09-23 18:38
+
+#### [9.9元的冷冻烘焙，正在重走“网红店”的老路？](https://www.tmtpost.com/8150764.html)
+**发布时间**: 2026-09-23 18:37
+
+#### [具身智能的转机和出清，哪个先来？](https://www.tmtpost.com/8149233.html)
+**发布时间**: 2026-09-23 18:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
+**发布时间**: 2026-09-23 17:02
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [闲鱼卖到 100 元的 AI 复刻爆款视频神器，在 GitHub 上是开源的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537296&idx=1&sn=ede9fbcd7b585e64367911f0b637d86d)
+**发布时间**: 2026-09-23 10:57
 
 ---
 

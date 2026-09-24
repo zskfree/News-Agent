@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-23 09:47
+**最后更新时间**: 2026-09-24 01:10
+
+---
+
+## 🆕 最新更新 (2026-09-24 01:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [水星家纺：入驻美团官旗闪电仓后销售额增长530%](https://www.leiphone.com/category/industrynews/qjefPQLGZ631NPFP.html)
+**发布时间**: 2026-09-23 22:21
+
+#### [影像场景行业正在换赛道：定义影像设备的权利，正在交给千行百业的真实场景](https://www.leiphone.com/category/weiwu/9E7usYwuoOSNziXL.html)
+**发布时间**: 2026-09-23 20:57
+
+#### [GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移](https://www.leiphone.com/category/yanxishe/gnzWAPK52Igo0DSk.html)
+**发布时间**: 2026-09-23 20:47
+
+#### [星驿付与慧徕店亮相2026云栖大会，AI生成数字商业无限可能](https://www.leiphone.com/category/industrynews/ZzpzZcKEcWjfW1ez.html)
+**发布时间**: 2026-09-23 18:09
+
+#### [蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测](https://www.leiphone.com/category/industrynews/vcFXR69YQUTL9k43.html)
+**发布时间**: 2026-09-23 17:23
+
+#### [中秋国庆自驾迎高峰，“阿宝”上新租赁车违法处理等多项交管服务](https://www.leiphone.com/category/industrynews/EHjqgShcgcxrXo31.html)
+**发布时间**: 2026-09-23 16:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp)
+**发布时间**: 2026-09-23 18:41
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/)
+**发布时间**: 2026-09-23 18:41
+
+#### [Agentic conversational video intelligence built on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/)
+**发布时间**: 2026-09-23 18:21
+
+#### [Use open weight models as your AI coding agent with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/)
+**发布时间**: 2026-09-23 18:17
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale](https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/)
+**发布时间**: 2026-09-23 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow](https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923)
+**发布时间**: 2026-09-23 11:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧](https://www.qbitai.com/2026/09/496609.html)
+**发布时间**: 2026-09-23 10:35
+
+#### [让Token生产更高效：异构混推的关键技术演进与创新实践](https://www.qbitai.com/2026/09/496578.html)
+**发布时间**: 2026-09-23 09:56
+
+#### [汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”](https://www.qbitai.com/2026/09/496493.html)
+**发布时间**: 2026-09-23 09:50
+
+#### [达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”](https://www.qbitai.com/2026/09/496494.html)
+**发布时间**: 2026-09-23 09:46
 
 ---
 

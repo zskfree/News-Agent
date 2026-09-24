@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 23 Sep 2026 09:57:00 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 09:57:12 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 01:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:12:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>消费电子基本盘承压，富信科技2.7亿定增加码MicroTEC</title>
-      <link>https://www.tmtpost.com/8150512.html</link>
-      <description>&lt;![CDATA[消费电子基本盘承压，富信科技2.7亿定增加码MicroTEC]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8150512.html</guid>
+      <title>利用 AI 搭建内部开发者平台</title>
+      <link>https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[利用 AI 搭建内部开发者平台]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin</title>
-      <link>https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%</title>
+      <link>https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 22:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dropbox 升级 Riviera 平台，支持 AI 工作负载</title>
-      <link>https://www.infoq.cn/article/jJAcfJO5e0ElPhIxwwxo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Dropbox 升级 Riviera 平台，支持 AI 工作负载]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jJAcfJO5e0ElPhIxwwxo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品</title>
+      <link>https://sspai.com/post/114904</link>
+      <description>&lt;![CDATA[社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114904</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agents成新一代造王者，开发者正在快速失去技术决定权</title>
-      <link>https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agents成新一代造王者，开发者正在快速失去技术决定权]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限</title>
+      <link>https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 22:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2027，零售将进入自营化元年</title>
-      <link>https://www.tmtpost.com/8150812.html</link>
-      <description>&lt;![CDATA[2027，零售将进入自营化元年]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8150812.html</guid>
+      <title>人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷</title>
+      <link>https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 22:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么突然之间，全是大环肽？</title>
-      <link>https://www.tmtpost.com/8150795.html</link>
-      <description>&lt;![CDATA[为什么突然之间，全是大环肽？]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8150795.html</guid>
+      <title>4096 张卡如何成为“一台计算机”？读懂华为的超节点布局</title>
+      <link>https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[4096 张卡如何成为“一台计算机”？读懂华为的超节点布局]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 21:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI制药的火，烧到了“产业中游”</title>
-      <link>https://www.tmtpost.com/8150777.html</link>
-      <description>&lt;![CDATA[AI制药的火，烧到了“产业中游”]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8150777.html</guid>
+      <title>2026 年的云栖，阿里给 AI 行业递了一把新尺子</title>
+      <link>https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026 年的云栖，阿里给 AI 行业递了一把新尺子]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导</title>
-      <link>https://www.tmtpost.com/8149902.html</link>
-      <description>&lt;![CDATA[扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8149902.html</guid>
+      <title>未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点</title>
+      <link>https://www.tmtpost.com/8149015.html</link>
+      <description>&lt;![CDATA[未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 08:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8149015.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>交付缩水八成，优必选给具身智能泼了一盆冷水</title>
-      <link>https://www.tmtpost.com/8150766.html</link>
-      <description>&lt;![CDATA[交付缩水八成，优必选给具身智能泼了一盆冷水]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8150766.html</guid>
+      <title>【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek</title>
+      <link>https://www.tmtpost.com/8151174.html</link>
+      <description>&lt;![CDATA[【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8151174.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从战略抉择到价值重塑——阿里巴巴财务AI转型的路径与启示</title>
-      <link>https://www.tmtpost.com/8149420.html</link>
-      <description>&lt;![CDATA[从战略抉择到价值重塑——阿里巴巴财务AI转型的路径与启示]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8149420.html</guid>
+      <title>联发科“串场”，OPPO、vivo旗舰机换芯</title>
+      <link>https://www.tmtpost.com/8151065.html</link>
+      <description>&lt;![CDATA[联发科“串场”，OPPO、vivo旗舰机换芯]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8151065.html</guid>
       <category>Technology</category>
     </item>
   </channel>

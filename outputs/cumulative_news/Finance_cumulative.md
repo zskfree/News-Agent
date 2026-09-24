@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-23 09:57
+**最后更新时间**: 2026-09-24 01:12
+
+---
+
+## 🆕 最新更新 (2026-09-24 01:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zuckerberg unveils AI ‘charm’ device that can fit on a keychain](https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 00:24
+
+#### [US oil industry pushes back against proposed diesel export ban](https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 23:44
+
+#### [OpenAI ‘agent’ hacked an Australian health service website](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 23:04
+
+#### [Xi arrives for high-stakes summit with Trump as leaders extend trade truce](https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 23:04
+
+#### [HSBC moves board meeting from Dubai to London amid safety concerns](https://www.ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 23:01
+
+#### [US Treasury yields soar most since ‘liberation day’ tariffs shook markets](https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 20:32
+
+#### [Rosneft billions fed Kremlin-backed money laundering network](https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 20:00
+
+#### [UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements](https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3)
+**发布时间**: 2026-09-23 19:57
+
+#### [European diesel prices climb over prospect of US export ban](https://www.ft.com/content/a8614065-b38b-426d-b176-192c6cd75f56?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 16:15
+
+#### [What to do when your Waymo holds up a Secret Service motorcade](https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 13:08
+
+#### [OECD sounds alarm on surging government bond yields](https://www.ft.com/content/6c13ada9-f325-428b-b91e-bffcf92eddad?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 08:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?](https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 22:15
+
+#### [‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?](https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 22:00
+
+#### [This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval](https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:59
+
+#### [Micron’s stock has become a ‘battleground’ as the AI narrative shifts](https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:51
+
+#### [Is gridlock in Washington actually good for stocks? Here’s what historical market data says.](https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:44
+
+#### [OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl](https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:27
+
+#### [Inflation could cost Republicans the Senate — this chart shows how](https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:13
+
+#### [Palantir’s stock sees its highest close of the year, sealing a dramatic comeback](https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 21:08
+
+#### [Fewer stocks are carrying the market than at any time since the dot-com peak](https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-23 20:45
 
 ---
 
