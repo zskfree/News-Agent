@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Sep 2026 01:12:00 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 01:12:41 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 09:46:00 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:47:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>利用 AI 搭建内部开发者平台</title>
-      <link>https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[利用 AI 搭建内部开发者平台]]&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-5.6-Cyber 代理多次突破虚拟机限制，证明虚拟机和操作系统需要更好的维护</title>
+      <link>https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5.6-Cyber 代理多次突破虚拟机限制，证明虚拟机和操作系统需要更好的维护]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 13:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%</title>
-      <link>https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</guid>
+      <title>WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题</title>
+      <link>https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品</title>
-      <link>https://sspai.com/post/114904</link>
-      <description>&lt;![CDATA[社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114904</guid>
+      <title>老乡鸡全国门店突破2000家；江南布衣携手高端鞋履品牌Marsèll开启大中华区战略合作；迈胜完成A+轮融资；PANE获黑蚁资本投资｜消研所周报</title>
+      <link>https://www.tmtpost.com/8151668.html</link>
+      <description>&lt;![CDATA[老乡鸡全国门店突破2000家；江南布衣携手高端鞋履品牌Marsèll开启大中华区战略合作；迈胜完成A+轮融资；PANE获黑蚁资本投资｜消研所周报]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8151668.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限</title>
-      <link>https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等</title>
+      <link>https://sspai.com/post/114913</link>
+      <description>&lt;![CDATA[派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114913</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷</title>
-      <link>https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？</title>
+      <link>https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>4096 张卡如何成为“一台计算机”？读懂华为的超节点布局</title>
-      <link>https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[4096 张卡如何成为“一台计算机”？读懂华为的超节点布局]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 21:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型</title>
+      <link>https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026 年的云栖，阿里给 AI 行业递了一把新尺子</title>
-      <link>https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[2026 年的云栖，阿里给 AI 行业递了一把新尺子]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 19:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>代码不再稀缺之后，软件工程还剩下什么？</title>
+      <link>https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[代码不再稀缺之后，软件工程还剩下什么？]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点</title>
-      <link>https://www.tmtpost.com/8149015.html</link>
-      <description>&lt;![CDATA[未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点]]&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8149015.html</guid>
+      <title>GPU负责算，CPU负责干活：英特尔开始重新出牌</title>
+      <link>https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPU负责算，CPU负责干活：英特尔开始重新出牌]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek</title>
-      <link>https://www.tmtpost.com/8151174.html</link>
-      <description>&lt;![CDATA[【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek]]&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8151174.html</guid>
+      <title>GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价</title>
+      <link>https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 13:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>联发科“串场”，OPPO、vivo旗舰机换芯</title>
-      <link>https://www.tmtpost.com/8151065.html</link>
-      <description>&lt;![CDATA[联发科“串场”，OPPO、vivo旗舰机换芯]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 20:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8151065.html</guid>
+      <title>显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法</title>
+      <link>https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

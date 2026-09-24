@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-24 01:10
+**最后更新时间**: 2026-09-24 09:44
+
+---
+
+## 🆕 最新更新 (2026-09-24 09:44)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [这次云栖，斑马智能亮出了从汽车到具身智能的入场券](https://www.leiphone.com/category/ai/c5xfhIwWHqSfnGrS.html)
+**发布时间**: 2026-09-24 15:38
+
+#### [Accio与数贸会联合上线“数贸会agent”：超2000家展商轻松逛](https://www.leiphone.com/category/industrynews/VPJv7JgYFoAP8NJ3.html)
+**发布时间**: 2026-09-24 15:00
+
+#### [豆包再送30天订阅权益，所有用户可免费领取](https://www.leiphone.com/category/industrynews/LRRckuCGRzyeiCtP.html)
+**发布时间**: 2026-09-24 11:23
+
+#### [BAT 集体重做「AI 预训练」，补「脏数据」的坑](https://www.leiphone.com/category/industrynews/W5SkVkK9QJ1FDapI.html)
+**发布时间**: 2026-09-24 09:43
+
+#### [为了智能体AI，高通「新造」了第六代骁龙8超级至尊版](https://www.leiphone.com/category/chips/DWpfJx2HNekZmlQK.html)
+**发布时间**: 2026-09-24 07:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案](https://www.qbitai.com/2026/09/496816.html)
+**发布时间**: 2026-09-24 08:20
+
+#### [Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长](https://www.qbitai.com/2026/09/496779.html)
+**发布时间**: 2026-09-24 05:46
+
+#### [教机器人干活，光“刷课时”可不够！灵初这次较真数据质量](https://www.qbitai.com/2026/09/496778.html)
+**发布时间**: 2026-09-24 05:45
+
+#### [5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark](https://www.qbitai.com/2026/09/496767.html)
+**发布时间**: 2026-09-24 05:19
+
+#### [海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶](https://www.qbitai.com/2026/09/496658.html)
+**发布时间**: 2026-09-24 02:51
+
+#### [Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT](https://www.qbitai.com/2026/09/496647.html)
+**发布时间**: 2026-09-24 02:23
+
+#### [成立九年，中科类脑把积累装进Token工厂](https://www.qbitai.com/2026/09/496615.html)
+**发布时间**: 2026-09-24 00:48
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-24日刊](https://hex2077.dev/docs/2026-09/2026-09-24/)
+**发布时间**: 2026-09-24 02:00
+
+#### [2026-09-23日刊](https://hex2077.dev/docs/2026-09/2026-09-23/)
+**发布时间**: 2026-09-23 15:49
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The promise and peril of using visual AI to study cities](https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924)
+**发布时间**: 2026-09-24 00:00
 
 ---
 

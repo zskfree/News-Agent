@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-24 01:12
+**最后更新时间**: 2026-09-24 09:46
+
+---
+
+## 🆕 最新更新 (2026-09-24 09:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global bond sell-off deepens as oil climbs back to $105](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 09:24
+
+#### [Judge orders White House to restore banned media’s access](https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 06:57
+
+#### [Emerging markets sell foreign currency bonds at record rate](https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 04:00
+
+#### [Hasan Piker: the Republican Party’s bogeyman](https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 04:00
+
+#### [How to think about the end of the world](https://www.ft.com/content/9d1192a9-abb7-4a91-9638-4ffa855afbb8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 04:00
+
+#### [Trump lays a new trap for Takaichi](https://www.ft.com/content/8dfae006-c1ac-4713-8497-0e0e59e419f6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-23 15:39
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money](https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 09:15
+
+#### [Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT](https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 09:12
+
+#### [8 grassroots porchfests for experiencing free live music and neighborhood culture](https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 09:02
+
+#### [Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million](https://www.marketwatch.com/story/selena-gomez-sells-her-encino-mansion-once-owned-by-tom-petty-for-5-4-million-47a87d65?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 08:59
+
+#### [The market is pricing in too many Fed hikes, says the former Dallas Fed chief](https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 08:42
 
 ---
 

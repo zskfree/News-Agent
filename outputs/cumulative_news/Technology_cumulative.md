@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-24 01:12
+**最后更新时间**: 2026-09-24 09:46
+
+---
+
+## 🆕 最新更新 (2026-09-24 09:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题](https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 17:25
+
+#### [数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？](https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 16:34
+
+#### [29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型](https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 16:00
+
+#### [代码不再稀缺之后，软件工程还剩下什么？](https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 15:30
+
+#### [GPU负责算，CPU负责干活：英特尔开始重新出牌](https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 14:52
+
+#### [GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价](https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 13:44
+
+#### [GPT-5.6-Cyber 代理多次突破虚拟机限制，证明虚拟机和操作系统需要更好的维护](https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 13:42
+
+#### [显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法](https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 13:40
+
+#### [OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题](https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 11:00
+
+#### [60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海](https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [老乡鸡全国门店突破2000家；江南布衣携手高端鞋履品牌Marsèll开启大中华区战略合作；迈胜完成A+轮融资；PANE获黑蚁资本投资｜消研所周报](https://www.tmtpost.com/8151668.html)
+**发布时间**: 2026-09-24 17:03
+
+#### [2000亿游戏巨头，又抓到两名“蛀虫”](https://www.tmtpost.com/8151169.html)
+**发布时间**: 2026-09-24 16:43
+
+#### [OpenAI、Anthropic同日模型大战，“是兄弟就砍一刀”](https://www.tmtpost.com/8151026.html)
+**发布时间**: 2026-09-24 16:43
+
+#### [10万闪电仓布局将提前完成，美团将目标转向商品供给](https://www.tmtpost.com/8151631.html)
+**发布时间**: 2026-09-24 16:43
+
+#### [Muse火了，然后呢？](https://www.tmtpost.com/8151004.html)
+**发布时间**: 2026-09-24 16:31
+
+#### [宁王的护城河与围城](https://www.tmtpost.com/8151683.html)
+**发布时间**: 2026-09-24 16:31
+
+#### [AI给蚂蚁发了一张新名片](https://www.tmtpost.com/8151204.html)
+**发布时间**: 2026-09-24 16:31
+
+#### [百度阿里“撞题”：当沈抖和吴泳铭讲到了同一个比喻](https://www.tmtpost.com/8151361.html)
+**发布时间**: 2026-09-24 16:31
+
+#### [二十年，再问增长：长江商学院CEO项目20周年论坛在京举行](https://www.tmtpost.com/8150144.html)
+**发布时间**: 2026-09-24 16:26
+
+#### [走过速成的路，宁王劝别人慢点](https://www.tmtpost.com/8150994.html)
+**发布时间**: 2026-09-24 15:21
+
+#### [把1千万台相机卖到全世界，一共分几步？](https://www.tmtpost.com/8151618.html)
+**发布时间**: 2026-09-24 15:21
+
+#### [从“世界小商品之都”到“数字经济第一区”，质量正在成为浙江的底色](https://www.tmtpost.com/8151569.html)
+**发布时间**: 2026-09-24 15:16
+
+#### [孙正义捧红的AI金融独角兽，100亿卖身东南亚巨头](https://www.tmtpost.com/8150868.html)
+**发布时间**: 2026-09-24 14:42
+
+#### [爆火的Muse，居然让真人代AI打电话？](https://www.tmtpost.com/8150441.html)
+**发布时间**: 2026-09-24 14:42
+
+#### [2027年锂电：市场高估了过剩](https://www.tmtpost.com/8150844.html)
+**发布时间**: 2026-09-24 14:42
+
+#### [QClaw停运、用户被迁往WorkBuddy：腾讯的龙虾赛马，第一个出局的出现了](https://www.tmtpost.com/8151538.html)
+**发布时间**: 2026-09-24 12:35
+
+#### [四个信号同时亮起，中国汽车工业站在新一轮出清前夜](https://www.tmtpost.com/8151424.html)
+**发布时间**: 2026-09-24 12:35
+
+#### [造车的人，造手机的人，和造机器人的人](https://www.tmtpost.com/8151470.html)
+**发布时间**: 2026-09-24 12:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
+**发布时间**: 2026-09-24 16:20
+
+#### [微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
+**发布时间**: 2026-09-24 15:06
+
+#### [古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
+**发布时间**: 2026-09-24 12:15
+
+#### [派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
+**发布时间**: 2026-09-24 08:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从数人头到数智能体：一场正在发生的企业生产力换血](http://www.geekpark.net/news/371011)
+**发布时间**: 2026-09-24 16:13
+
+#### [OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运](http://www.geekpark.net/news/370917)
+**发布时间**: 2026-09-24 09:13
 
 ---
 
