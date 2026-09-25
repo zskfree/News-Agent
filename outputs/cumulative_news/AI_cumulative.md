@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-24 09:44
+**最后更新时间**: 2026-09-25 01:11
+
+---
+
+## 🆕 最新更新 (2026-09-25 01:11)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)
+**发布时间**: 2026-09-24 19:40
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从105mm人像到400mm远方 Telesin发布iPhone 18大师影像套装](https://www.leiphone.com/category/weiwu/11usdeSVZPN0BJs0.html)
+**发布时间**: 2026-09-24 19:40
+
+#### [现在不买带线控底盘的车，三年后注定会后悔](https://www.leiphone.com/category/transportation/htudSUNPncuLmMfb.html)
+**发布时间**: 2026-09-24 18:42
+
+#### [腾势Z9S正式上市：纯电续航1100km，25.58万元起](https://www.leiphone.com/category/transportation/nBAYRoWBOZSuBT5D.html)
+**发布时间**: 2026-09-24 18:30
+
+#### [聚焦院外管理提质增效｜《急性冠状动脉综合征患者院外长期随访管理共识》更新研讨，胸痛中心智慧全程管理行动项目正式启动](https://www.leiphone.com/category/industrynews/5c353eBnBL6ShdzV.html)
+**发布时间**: 2026-09-24 18:03
+
+#### [SeeAct AI穆尧：具身智能终局，一定是从“被训练”走向“自我进化”｜物理AI50人](https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html)
+**发布时间**: 2026-09-24 17:19
+
+#### [坐稳RGB-Mini LED电视龙头！海信双7旗舰新品登场，原生真彩再进化](https://www.leiphone.com/category/smarthome/Htdf6ElXF7ZKzces.html)
+**发布时间**: 2026-09-24 17:09
+
+#### [独家丨AWS、微软中国迎来「Claude封号潮」](https://www.leiphone.com/category/industrynews/YiaSUnx4DXphNl93.html)
+**发布时间**: 2026-09-24 16:52
+
+#### [百度搭子与英特尔推进端云协同，本地Skill专区正式上线](https://www.leiphone.com/category/industrynews/BKGiXySS7fLi7SaE.html)
+**发布时间**: 2026-09-24 16:37
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Estimating suicide risk from text](https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924)
+**发布时间**: 2026-09-24 17:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Speaker-labeled transcription with WhisperX on SageMaker AI](https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/)
+**发布时间**: 2026-09-24 16:20
+
+#### [Build a multi-account AI agent with AgentCore Gateway and MCP](https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/)
+**发布时间**: 2026-09-24 16:12
+
+#### [Aderant builds intelligent ticket triage with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/)
+**发布时间**: 2026-09-24 16:06
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496961.html)
+**发布时间**: 2026-09-24 14:20
+
+#### [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍](https://www.qbitai.com/2026/09/496925.html)
+**发布时间**: 2026-09-24 14:17
+
+#### [时隔十年，AI大牛署名新论文](https://www.qbitai.com/2026/09/496834.html)
+**发布时间**: 2026-09-24 12:58
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
+**发布时间**: 2026-09-24 14:08
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How Open Science Can Help Researchers Prepare for the Next Pandemic](https://blogs.nvidia.com/blog/open-protein-dataset/)
+**发布时间**: 2026-09-24 14:00
+
+#### [Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/)
+**发布时间**: 2026-09-24 13:00
 
 ---
 

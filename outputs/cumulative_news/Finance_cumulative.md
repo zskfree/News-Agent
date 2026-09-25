@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-24 09:46
+**最后更新时间**: 2026-09-25 01:14
+
+---
+
+## 🆕 最新更新 (2026-09-25 01:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Xi says US and China must ‘coexist in peace’ in historic White House visit](https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 01:01
+
+#### [Iran offers US new ‘7-day’ ceasefire proposal](https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 00:08
+
+#### [Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 23:47
+
+#### [OpenAI breach of Australian government linked to wider AI hacking campaign](https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 21:06
+
+#### [US long-term borrowing costs touch highest level since 2004](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 20:32
+
+#### [Goldman reaped more than $200mn in fees from hedge fund Situational Awareness](https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 18:00
+
+#### [The AI agent revolution has moved a big step closer](https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 17:33
+
+#### [US mortgage rates breach 7% as affordability pressures mount](https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 16:12
+
+#### [UAE halts Iranian flights over US sanctions](https://www.ft.com/content/0c5da9f2-f6aa-4514-910d-5337207e1233?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 15:41
+
+#### [Private equity could revolutionise US lawyer pay, law firm bosses say](https://www.ft.com/content/030dbb32-f615-4969-becf-ca236027ae89?syn-25a6b1a6=1)
+**发布时间**: 2026-09-24 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [3 things Micron investors need to watch as the stakes get higher](https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 23:28
+
+#### [The S&P 500’s newest tech stock is now its best performer](https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 23:26
+
+#### [Costco’s results beat expectations. Here’s why investors are still cautious.](https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 23:23
+
+#### [I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?](https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 23:16
+
+#### [8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges](https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 22:03
+
+#### [Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market](https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 21:23
+
+#### [Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley](https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 20:50
+
+#### [Stop trying to beat the market: Even the richest Americans can’t do it consistently](https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories)
+**发布时间**: 2026-09-24 20:20
 
 ---
 
