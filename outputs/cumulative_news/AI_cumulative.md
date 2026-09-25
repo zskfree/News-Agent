@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-25 01:11
+**最后更新时间**: 2026-09-25 10:02
+
+---
+
+## 🆕 最新更新 (2026-09-25 10:02)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动](https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html)
+**发布时间**: 2026-09-25 10:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill](https://www.qbitai.com/2026/09/497075.html)
+**发布时间**: 2026-09-25 06:20
+
+#### [华为大模型双子星联手创业，要找物理世界的Scaling Law](https://www.qbitai.com/2026/09/497070.html)
+**发布时间**: 2026-09-25 06:14
+
+#### [呃…小扎「自研Manus」刚成Meta太子，就塌房了](https://www.qbitai.com/2026/09/497060.html)
+**发布时间**: 2026-09-25 06:11
+
+#### [给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了](https://www.qbitai.com/2026/09/497012.html)
+**发布时间**: 2026-09-25 05:52
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-25日刊](https://hex2077.dev/docs/2026-09/2026-09-25/)
+**发布时间**: 2026-09-25 04:02
 
 ---
 

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-25 01:14
+**最后更新时间**: 2026-09-25 10:04
+
+---
+
+## 🆕 最新更新 (2026-09-25 10:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring](https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 09:11
+
+#### [The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega](https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 09:01
+
+#### [Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.](https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 08:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers](https://www.ft.com/content/218f8e15-8c1e-4ed4-9d51-7879faca8e73?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 09:03
+
+#### [EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers](https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [How can we tackle AI’s financial risks?](https://www.ft.com/content/065dd0d6-804d-4609-8964-e0af05a4603e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [Can quantum turn ‘magic’ into money?](https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [The cheap new AI model taking aim at OpenAI and Anthropic](https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [No product, no problem: investors place big bets on AI neolabs](https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [Wall Street boutiques balk at Saudi Arabia’s HQ rules](https://www.ft.com/content/8b1b398d-da7d-4dda-aa64-b7a42c59fd7e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [Pomp prevails over substance as Trump hosts Xi](https://www.ft.com/content/cdff194b-8106-4f71-b5b8-d0dbaf2c4d79?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 03:03
+
+#### [Iran offers US new seven-day ceasefire proposal](https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 02:17
 
 ---
 
