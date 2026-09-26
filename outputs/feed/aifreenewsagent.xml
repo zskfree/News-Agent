@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Sep 2026 10:02:00 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 10:04:47 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 01:14:00 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:15:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动</title>
-      <link>https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html</link>
-      <description>&lt;![CDATA[抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html</guid>
+      <title>智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。</title>
+      <link>https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html</link>
+      <description>&lt;![CDATA[智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 00:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill</title>
-      <link>https://www.qbitai.com/2026/09/497075.html</link>
-      <description>&lt;![CDATA[别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497075.html</guid>
+      <title>梁文锋狙击战：深扒那些梁文锋署名的论文有多牛</title>
+      <link>https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html</link>
+      <description>&lt;![CDATA[梁文锋狙击战：深扒那些梁文锋署名的论文有多牛]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>华为大模型双子星联手创业，要找物理世界的Scaling Law</title>
-      <link>https://www.qbitai.com/2026/09/497070.html</link>
-      <description>&lt;![CDATA[华为大模型双子星联手创业，要找物理世界的Scaling Law]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497070.html</guid>
+      <title>Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/</link>
+      <description>&lt;![CDATA[Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>呃…小扎「自研Manus」刚成Meta太子，就塌房了</title>
-      <link>https://www.qbitai.com/2026/09/497060.html</link>
-      <description>&lt;![CDATA[呃…小扎「自研Manus」刚成Meta太子，就塌房了]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497060.html</guid>
+      <title>Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/</link>
+      <description>&lt;![CDATA[Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了</title>
-      <link>https://www.qbitai.com/2026/09/497012.html</link>
-      <description>&lt;![CDATA[给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497012.html</guid>
+      <title>NarrateAI: production-ready LLM quality assurance on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[NarrateAI: production-ready LLM quality assurance on Amazon Bedrock]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-09-25日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-25/</link>
-      <description>&lt;![CDATA[2026-09-25日刊]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 04:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-25/</guid>
+      <title>Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>How Datacor built self-service rental analytics with Amazon Quick Sight</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/</link>
+      <description>&lt;![CDATA[How Datacor built self-service rental analytics with Amazon Quick Sight]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Multi-Region training with Amazon SageMaker HyperPod and Qumulo</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/</link>
+      <description>&lt;![CDATA[Multi-Region training with Amazon SageMaker HyperPod and Qumulo]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma</title>
+      <link>https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925</link>
+      <description>&lt;![CDATA[MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”</title>
+      <link>https://www.qbitai.com/2026/09/497278.html</link>
+      <description>&lt;![CDATA[“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 13:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/497278.html</guid>
       <category>Ai</category>
     </item>
   </channel>

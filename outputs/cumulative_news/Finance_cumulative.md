@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-25 10:04
+**最后更新时间**: 2026-09-26 01:15
+
+---
+
+## 🆕 最新更新 (2026-09-26 01:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?](https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 00:00
+
+#### [My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?](https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 23:30
+
+#### [A ‘death cross’ is coming for the dollar. Why Trump will be happy.](https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 21:57
+
+#### [Microsoft’s stock has roared back to life, closing at its highest level of the year](https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 21:04
+
+#### [Apple’s expensive new iPhones could be a double-edged sword for the company](https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 20:37
+
+#### [Micron investors should get ready for a seesaw ride, analyst says](https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 20:36
+
+#### [Tesla’s stock falls as launch of Semi truck fails to excite investors](https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 20:34
+
+#### [A 10% risk-free yield? For some, yes.](https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-25 20:32
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI says governments among ‘dozens’ of organisations hacked by its agents](https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 22:18
+
+#### [Walmart chief rules out personalised pricing as AI transforms retail](https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 21:16
+
+#### [US bond sell-off pushes long-term yields to highest since 2004](https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 20:24
+
+#### [Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say](https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 20:00
+
+#### [Bond ructions point to new danger zone in markets](https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 17:00
+
+#### [What an AI maths breakthrough means for human discovery](https://www.ft.com/content/f9d5e0af-0106-4909-a854-7bd69cbb74ab?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 16:48
+
+#### [US Supreme Court lets Trump vet voters’ immigration status](https://www.ft.com/content/469c3f85-ee58-41ed-8289-33866a72549a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 16:22
+
+#### [Manchester City found guilty of breaching Premier League rules](https://www.ft.com/content/2f820ff9-28c2-4e53-9948-6be009a8a23c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 16:02
+
+#### [Maga base recoils as Trump goes all-in on AI](https://www.ft.com/content/e8a815e6-a105-42ea-938e-352b8c8d5c3b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
+
+#### [David Beckham takes $51mn dividend as World Cup deals lift earnings](https://www.ft.com/content/7273f2f9-e630-479d-a1b7-ba29cbb96b5e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-25 04:00
 
 ---
 

@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-25 10:02
+**最后更新时间**: 2026-09-26 01:14
+
+---
+
+## 🆕 最新更新 (2026-09-26 01:14)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。](https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html)
+**发布时间**: 2026-09-26 00:33
+
+#### [梁文锋狙击战：深扒那些梁文锋署名的论文有多牛](https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html)
+**发布时间**: 2026-09-25 18:48
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/)
+**发布时间**: 2026-09-25 16:29
+
+#### [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-09-25 16:18
+
+#### [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/)
+**发布时间**: 2026-09-25 16:15
+
+#### [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-09-25 16:09
+
+#### [How Datacor built self-service rental analytics with Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/)
+**发布时间**: 2026-09-25 15:54
+
+#### [Multi-Region training with Amazon SageMaker HyperPod and Qumulo](https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/)
+**发布时间**: 2026-09-25 15:49
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma](https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925)
+**发布时间**: 2026-09-25 16:15
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”](https://www.qbitai.com/2026/09/497278.html)
+**发布时间**: 2026-09-25 13:24
+
+#### [OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉](https://www.qbitai.com/2026/09/497177.html)
+**发布时间**: 2026-09-25 13:15
+
+#### [亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源](https://www.qbitai.com/2026/09/497108.html)
+**发布时间**: 2026-09-25 10:00
 
 ---
 
