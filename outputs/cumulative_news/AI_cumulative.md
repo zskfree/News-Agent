@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-26 01:14
+**最后更新时间**: 2026-09-26 09:44
+
+---
+
+## 🆕 最新更新 (2026-09-26 09:44)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo](https://www.qbitai.com/2026/09/498271.html)
+**发布时间**: 2026-09-26 09:07
+
+#### [笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub](https://www.qbitai.com/2026/09/497624.html)
+**发布时间**: 2026-09-26 09:01
+
+#### [在云栖大会，我终于看懂了米哈游千亿AI野心](https://www.qbitai.com/2026/09/497613.html)
+**发布时间**: 2026-09-26 07:18
+
+#### [谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架](https://www.qbitai.com/2026/09/497425.html)
+**发布时间**: 2026-09-26 07:12
+
+#### [OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光](https://www.qbitai.com/2026/09/497382.html)
+**发布时间**: 2026-09-26 07:04
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-26日刊](https://hex2077.dev/docs/2026-09/2026-09-26/)
+**发布时间**: 2026-09-26 02:47
 
 ---
 

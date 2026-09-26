@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-26 01:15
+**最后更新时间**: 2026-09-26 09:46
+
+---
+
+## 🆕 最新更新 (2026-09-26 09:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview](https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-26 17:00
+
+#### [AI 时代，技术人靠什么赢？｜QCon上海](https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-26 10:00
+
+#### [DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag](https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-26 09:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
+**发布时间**: 2026-09-26 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫](https://www.tmtpost.com/8153052.html)
+**发布时间**: 2026-09-26 12:46
+
+#### [从买东西到买体验：为什么4个周末替代不了一个8天长假？](https://www.tmtpost.com/8153043.html)
+**发布时间**: 2026-09-26 12:34
+
+#### [山姆没有捷径，中国零售平台集体追赶30%自营率](https://www.tmtpost.com/8152993.html)
+**发布时间**: 2026-09-26 12:31
+
+#### [0元购机，卒于2026](https://www.tmtpost.com/8152955.html)
+**发布时间**: 2026-09-26 12:14
+
+#### [羽绒服品牌集体抢人过冬](https://www.tmtpost.com/8152944.html)
+**发布时间**: 2026-09-26 12:14
+
+#### [阿里的蒸汽机时代](https://www.tmtpost.com/8152987.html)
+**发布时间**: 2026-09-26 11:35
 
 ---
 

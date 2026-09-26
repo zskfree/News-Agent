@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Sep 2026 01:15:00 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 01:15:32 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 09:46:00 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:46:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元</title>
-      <link>http://www.geekpark.net/news/371038</link>
-      <description>&lt;![CDATA[Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371038</guid>
+      <title>阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview</title>
+      <link>https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>京东，具身智能大玩家？</title>
-      <link>https://www.tmtpost.com/8152876.html</link>
-      <description>&lt;![CDATA[京东，具身智能大玩家？]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152876.html</guid>
+      <title>AI 时代，技术人靠什么赢？｜QCon上海</title>
+      <link>https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 时代，技术人靠什么赢？｜QCon上海]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>悬而未决的港股聆讯，与“非洲之王”传音的利润幻象</title>
-      <link>https://www.tmtpost.com/8152889.html</link>
-      <description>&lt;![CDATA[悬而未决的港股聆讯，与“非洲之王”传音的利润幻象]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152889.html</guid>
+      <title>DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag</title>
+      <link>https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 09:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲</title>
-      <link>https://www.tmtpost.com/8152829.html</link>
-      <description>&lt;![CDATA[小度想坐稳AI办公时代的牌座，李莹需要成为下一个景鲲]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152829.html</guid>
+      <title>宜家 Matter 智能家居终于要来了？在中国市场它将如何破局</title>
+      <link>https://sspai.com/post/114958</link>
+      <description>&lt;![CDATA[宜家 Matter 智能家居终于要来了？在中国市场它将如何破局]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114958</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？</title>
-      <link>https://www.tmtpost.com/8152798.html</link>
-      <description>&lt;![CDATA[华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 08:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152798.html</guid>
+      <title>【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫</title>
+      <link>https://www.tmtpost.com/8153052.html</link>
+      <description>&lt;![CDATA[【数智周报】   千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS；Anthropic诉特朗普政府受挫]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8153052.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（9月26日）</title>
-      <link>https://www.tmtpost.com/8152902.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（9月26日）]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152902.html</guid>
+      <title>从买东西到买体验：为什么4个周末替代不了一个8天长假？</title>
+      <link>https://www.tmtpost.com/8153043.html</link>
+      <description>&lt;![CDATA[从买东西到买体验：为什么4个周末替代不了一个8天长假？]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8153043.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 已经想清楚 Muse 靠什么赚钱</title>
-      <link>https://www.tmtpost.com/8152912.html</link>
-      <description>&lt;![CDATA[Meta 已经想清楚 Muse 靠什么赚钱]]&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 07:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152912.html</guid>
+      <title>山姆没有捷径，中国零售平台集体追赶30%自营率</title>
+      <link>https://www.tmtpost.com/8152993.html</link>
+      <description>&lt;![CDATA[山姆没有捷径，中国零售平台集体追赶30%自营率]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152993.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>灵巧手不是等AGI才用：一份被误读的物理AI落地地图</title>
-      <link>https://www.tmtpost.com/8152613.html</link>
-      <description>&lt;![CDATA[灵巧手不是等AGI才用：一份被误读的物理AI落地地图]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 21:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152613.html</guid>
+      <title>0元购机，卒于2026</title>
+      <link>https://www.tmtpost.com/8152955.html</link>
+      <description>&lt;![CDATA[0元购机，卒于2026]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152955.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CTA集体回撤：传统基本面研究，碰到极端行情就容易失灵？</title>
-      <link>https://www.tmtpost.com/8151562.html</link>
-      <description>&lt;![CDATA[CTA集体回撤：传统基本面研究，碰到极端行情就容易失灵？]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 21:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8151562.html</guid>
+      <title>羽绒服品牌集体抢人过冬</title>
+      <link>https://www.tmtpost.com/8152944.html</link>
+      <description>&lt;![CDATA[羽绒服品牌集体抢人过冬]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152944.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>本周看什么 | 最近值得一看的 6 部作品</title>
-      <link>https://sspai.com/post/114957</link>
-      <description>&lt;![CDATA[本周看什么 | 最近值得一看的 6 部作品]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114957</guid>
+      <title>阿里的蒸汽机时代</title>
+      <link>https://www.tmtpost.com/8152987.html</link>
+      <description>&lt;![CDATA[阿里的蒸汽机时代]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152987.html</guid>
       <category>Technology</category>
     </item>
   </channel>

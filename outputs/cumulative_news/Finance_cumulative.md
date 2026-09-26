@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-26 01:15
+**最后更新时间**: 2026-09-26 09:46
+
+---
+
+## 🆕 最新更新 (2026-09-26 09:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The great tourist tax boom](https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 04:00
+
+#### [A tribute to great wrong ideas](https://www.ft.com/content/d877455c-ee9a-4753-87e2-6e31522e3862?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 04:00
+
+#### [The climate doom-mongers now dread sovereign debt blowouts](https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 04:00
+
+#### [Cyber security stocks are pumped up on P(doom)](https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 04:00
+
+#### [Tennis should embrace social media influencers, says Roger Federer](https://www.ft.com/content/a172727e-225c-4da4-b589-4b91cc4fb71d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 04:00
 
 ---
 
