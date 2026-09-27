@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-27 01:09
+**最后更新时间**: 2026-09-27 10:25
+
+---
+
+## 🆕 最新更新 (2026-09-27 10:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US housing crunch puts private equity in midterm campaign crosshairs](https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
+
+#### [De Beers bets on a taste for the real to restore diamonds’ sparkle](https://www.ft.com/content/40ec5413-3990-40b8-8066-6d6c215626f7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
+
+#### [The executives going ‘fractional’, not freelance](https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27)
+**发布时间**: 2026-09-27 04:00
+
+#### [Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land](https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
+
+#### [Big companies warn lack of ‘AI openness’ could hit investment in Europe](https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
+
+#### [South Korea bets big on AI for all](https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e)
+**发布时间**: 2026-09-27 04:00
+
+#### [Armani to kick off stake sale talks with LVMH and L’Oréal](https://www.ft.com/content/8dd0d877-5254-48d5-ae33-c181bf9d3c64?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
+
+#### [Swiss voters to decide fate of centuries-old neutrality policy](https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
 
 ---
 

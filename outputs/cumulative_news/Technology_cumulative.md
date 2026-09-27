@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-27 01:09
+**最后更新时间**: 2026-09-27 10:25
+
+---
+
+## 🆕 最新更新 (2026-09-27 10:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [国产旗舰手机又被苹果搅局？](https://www.tmtpost.com/8153270.html)
+**发布时间**: 2026-09-27 17:52
+
+#### [55亿大单五年零交付、12家光伏玻璃企业仅1家微赚，二线割肉、龙头冷修，拐点还是涨价幻觉？](https://www.tmtpost.com/8153344.html)
+**发布时间**: 2026-09-27 17:48
+
+#### [苹果或重返服务器，互联市场开始“群雄逐鹿”](https://www.tmtpost.com/8153405.html)
+**发布时间**: 2026-09-27 17:48
+
+#### [茶咖品牌猛打新空间战](https://www.tmtpost.com/8153388.html)
+**发布时间**: 2026-09-27 17:48
+
+#### [净利刚翻正，亿纬锂能就11.5亿急卖湖北恩捷，恩捷股份溢价57%接盘，谁在赌拐点？](https://www.tmtpost.com/8153342.html)
+**发布时间**: 2026-09-27 17:48
+
+#### [不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？](https://www.tmtpost.com/8153325.html)
+**发布时间**: 2026-09-27 13:47
+
+#### [豆包上车之后，AI原生汽车真的来了吗？](https://www.tmtpost.com/8153291.html)
+**发布时间**: 2026-09-27 13:45
+
+#### [京东101HOME落地静安寺：线下家居卖场，该换个活法了](https://www.tmtpost.com/8152919.html)
+**发布时间**: 2026-09-27 12:09
+
+#### [星舰第14飞，为什么准备绕地球六圈？](https://www.tmtpost.com/8153306.html)
+**发布时间**: 2026-09-27 09:57
+
+#### [三大运营商下架0元分期购机，已签约怎么办？记者走访](https://www.tmtpost.com/8153483.html)
+**发布时间**: 2026-09-27 07:53
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [阿里整合 AI 办公力量后，千问办公怎么打这场大战？](http://www.geekpark.net/news/371040)
+**发布时间**: 2026-09-27 16:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 8 个最近火火火火的开源项目，登上 GitHub 今日热榜。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537385&idx=1&sn=6f57abbd0554d6288c4aa1b3566ef704)
+**发布时间**: 2026-09-27 12:50
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI](https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-27 10:00
+
+#### [可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海](https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-27 10:00
 
 ---
 

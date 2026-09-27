@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-27 01:07
+**最后更新时间**: 2026-09-27 10:23
+
+---
+
+## 🆕 最新更新 (2026-09-27 10:23)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会](https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html)
+**发布时间**: 2026-09-27 09:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [啥题啊能干崩OpenAI最强模型训练…](https://www.qbitai.com/2026/09/498546.html)
+**发布时间**: 2026-09-27 09:44
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-27日刊](https://hex2077.dev/docs/2026-09/2026-09-27/)
+**发布时间**: 2026-09-27 02:59
 
 ---
 
