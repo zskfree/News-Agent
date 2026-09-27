@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-26 09:46
+**最后更新时间**: 2026-09-27 01:09
+
+---
+
+## 🆕 最新更新 (2026-09-27 01:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Appeals court overturns ban on contentious Northern Ireland parade](https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 00:13
+
+#### [German and Russian foreign ministers meet for first time in over four years](https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 19:01
+
+#### [Trump and Xi to meet twice more after summit fails to resolve tensions](https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 18:42
+
+#### [Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz](https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 17:01
+
+#### [Foreign capital flows into US stocks hit record as appetite for debt fades](https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 10:00
+
+#### [Medicines run short in Iran under US sanctions](https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-26 07:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?](https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 19:00
+
+#### [From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years](https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 17:54
+
+#### [Social Security checks are projected to be cut by $540 a month in just six years](https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 17:15
+
+#### [Choosing these AI-exposed college majors could dent your job prospects — and lower your pay](https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 16:22
+
+#### [Tax-free bond yields are in a sweet spot. Get in before it’s too late.](https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 15:48
+
+#### [Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.](https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 15:30
+
+#### [Do this one thing to help prevent your parents from being scammed](https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-26 15:04
 
 ---
 

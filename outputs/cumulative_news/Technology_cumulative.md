@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-26 09:46
+**最后更新时间**: 2026-09-27 01:09
+
+---
+
+## 🆕 最新更新 (2026-09-27 01:09)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲](http://www.geekpark.net/news/371039)
+**发布时间**: 2026-09-27 08:38
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [特斯拉，是Robotaxi的救星吗？](https://www.tmtpost.com/8153223.html)
+**发布时间**: 2026-09-27 08:24
+
+#### [从“价格战”到“品质战”，餐饮品牌下半场拼什么？](https://www.tmtpost.com/8152641.html)
+**发布时间**: 2026-09-27 08:23
+
+#### [Edge AI Daily 早报（9月27日）](https://www.tmtpost.com/8153235.html)
+**发布时间**: 2026-09-27 07:58
+
+#### [外国人来华科技游，看见了什么？](https://www.tmtpost.com/8153087.html)
+**发布时间**: 2026-09-26 17:55
+
+#### [谷歌，准备升空](https://www.tmtpost.com/8153088.html)
+**发布时间**: 2026-09-26 17:55
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一周就收割 2 万 Star，这个 GitHub 项目把近期爆火的 Jev 模型开源了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537349&idx=1&sn=bfedd504e5736caa5c5e3ce449cc15b7)
+**发布时间**: 2026-09-26 11:18
 
 ---
 
