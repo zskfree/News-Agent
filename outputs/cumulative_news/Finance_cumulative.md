@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-28 01:29
+**最后更新时间**: 2026-09-28 11:32
+
+---
+
+## 🆕 最新更新 (2026-09-28 11:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The history of this market’s bad-breadth signal points to risks ahead](https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 11:26
+
+#### [Nvidia makes a statement with historic $150 billion buyback announcement](https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 11:21
+
+#### [A pullback is brewing, say these strategists who have examined every drawdown since 1956](https://www.marketwatch.com/story/a-pullback-is-brewing-say-these-strategists-who-have-examined-every-drawdown-since-1956-69e39d5f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 11:02
+
+#### [How Muse and other AI agents  could spark a bank run, according to an economist](https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 10:47
+
+#### [How a U.S. diesel export ban would play out, according to Goldman Sachs](https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 09:32
+
+#### [‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?](https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 09:15
+
+#### [Simone Biles and Jonathan Owens list  a $1.2 million Texas home near Houston](https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 09:02
+
+#### [‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million](https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bond sell-off deepens as oil rises above $108](https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 09:56
+
+#### [Investigators focus on Iran link to arrests near UK air base](https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 08:42
+
+#### [‘Xi got face’: China relishes equal treatment from Trump](https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 05:55
+
+#### [US and China agree $60bn low tariff regime for goods from foie gras to camels](https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 04:04
+
+#### [EU countries consider Nato-style joint responses to Russian hybrid attacks](https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 04:00
+
+#### [AI hyperscalers are transforming debt](https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 04:00
+
+#### [The post-Enron auditor reforms are being rolled back](https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 04:00
+
+#### [For once, the Fed has put Main Street before Wall Street](https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4)
+**发布时间**: 2026-09-28 04:00
+
+#### [Rich turn to borrowing against private equity holdings as payouts slow](https://www.ft.com/content/4838f5d1-44e4-414e-a092-c738db47d7b9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 04:00
 
 ---
 

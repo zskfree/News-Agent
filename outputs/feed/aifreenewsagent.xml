@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Sep 2026 01:26:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 01:29:17 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 11:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:32:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</title>
-      <link>https://www.qbitai.com/2026/09/498633.html</link>
-      <description>&lt;![CDATA[量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498633.html</guid>
+      <title>“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录</title>
+      <link>https://www.leiphone.com/category/industrynews/swRASiuHGdPbjWEY.html</link>
+      <description>&lt;![CDATA[“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/swRASiuHGdPbjWEY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门</title>
-      <link>https://www.qbitai.com/2026/09/498605.html</link>
-      <description>&lt;![CDATA[量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 13:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498605.html</guid>
+      <title>本田重申Momenta合作，中国智驾全球布局提速</title>
+      <link>https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html</link>
+      <description>&lt;![CDATA[本田重申Momenta合作，中国智驾全球布局提速]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录</title>
-      <link>https://www.qbitai.com/2026/09/498584.html</link>
-      <description>&lt;![CDATA[又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 13:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498584.html</guid>
+      <title>三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限</title>
+      <link>https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html</link>
+      <description>&lt;![CDATA[三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米澎程国庆将在19城办展</title>
+      <link>https://www.leiphone.com/category/industrynews/aUsTBsDCo1UDRepn.html</link>
+      <description>&lt;![CDATA[小米澎程国庆将在19城办展]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/aUsTBsDCo1UDRepn.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图</title>
+      <link>https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html</link>
+      <description>&lt;![CDATA[从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 13:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>海光1000系列发布，端侧市场为何需要另一颗CPU？</title>
+      <link>https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html</link>
+      <description>&lt;![CDATA[海光1000系列发布，端侧市场为何需要另一颗CPU？]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智己汽车CTO项娇：智己LS6的线控底盘历时8年研发</title>
+      <link>https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html</link>
+      <description>&lt;![CDATA[智己汽车CTO项娇：智己LS6的线控底盘历时8年研发]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>7天两场演讲，中国两大AI云撞了同一个爱迪生</title>
+      <link>https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html</link>
+      <description>&lt;![CDATA[7天两场演讲，中国两大AI云撞了同一个爱迪生]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线</title>
+      <link>https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html</link>
+      <description>&lt;![CDATA[碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 10:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍</title>
+      <link>https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html</link>
+      <description>&lt;![CDATA[Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html</guid>
       <category>Ai</category>
     </item>
   </channel>

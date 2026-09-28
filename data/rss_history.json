@@ -2521,6 +2521,66 @@
         "link": "https://sspai.com/post/115056",
         "published_date": "Sun, 27 Sep 2026 17:50:00 GMT",
         "first_seen": "2026-09-28T01:29:17.534088"
+      },
+      "c584809dbaafae7e45c0895bec8403402df81fd9318ef80338d90f0b100032fb": {
+        "title": "从端侧推理到物理AI，芯片行业正面临新考题",
+        "link": "https://www.tmtpost.com/8153747.html",
+        "published_date": "Mon, 28 Sep 2026 10:54:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051423"
+      },
+      "a8ef883bd30c4c61e0887c60f2549933095a75bd9f8fcc62808ccd011c9dd1e0": {
+        "title": "Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布",
+        "link": "https://www.infoq.cn/article/WG5UVlDS5e3K2iMTcUYj?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Sep 2026 19:19:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051433"
+      },
+      "ddfc0bcf0e24af9765ab2561fbe775df3625d284af9b26753adc653daf791879": {
+        "title": "Swift 6.4 正式发布：内置 Subprocess 1.0、增强跨语言互操作、Wasm 性能大幅提升及更多更新",
+        "link": "https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Sep 2026 18:24:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051436"
+      },
+      "e2689ac7ef8b977c9cfff981c8386f9233bb991ea1f4cfebae20b56716265df1": {
+        "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
+        "link": "https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Sep 2026 18:23:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051439"
+      },
+      "4bbdb4675bbe2553242d3e6ac8c5d28ec13107b5848121d54b59a09d7a104a09": {
+        "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+        "link": "http://www.geekpark.net/news/371113",
+        "published_date": "Mon, 28 Sep 2026 17:15:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051441"
+      },
+      "3c8c4da743445a7a615a701bdbb3a82ea29904bbd57d5f98c319bd36b278353b": {
+        "title": "鱼你在一起泰国六店同开；老铺黄金最大门店落户上海恒隆；喜茶泰国首店开业；FILA全国第二家TOPIA壹号店落地沈阳｜消研所周报",
+        "link": "https://www.tmtpost.com/8154446.html",
+        "published_date": "Mon, 28 Sep 2026 19:25:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051445"
+      },
+      "da36913bbadc50999dbef8b44d117dfdb11cd11a826995a8449befad4aa8d6f5": {
+        "title": "【Fintech 周报】互联网保险拟设“十不得”划定负面清单；微信支付推出一款APP",
+        "link": "https://www.tmtpost.com/8154273.html",
+        "published_date": "Mon, 28 Sep 2026 18:00:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051448"
+      },
+      "fb4919ad8a699da973864d0ff0b06ce1002838fc3f356eaa5450255031055ef5": {
+        "title": "刘欢走了，他唱过我们怎样的生活",
+        "link": "https://www.tmtpost.com/8153718.html",
+        "published_date": "Mon, 28 Sep 2026 17:38:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051451"
+      },
+      "89f507447168def7b8add2045e281232f76a41d0e6108546e7a4ededb6f2db96": {
+        "title": "月饼卖不动？茂名凭什么把一块饼做成50亿产业",
+        "link": "https://www.tmtpost.com/8153801.html",
+        "published_date": "Mon, 28 Sep 2026 17:38:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051453"
+      },
+      "d8226fa47cc5aab27a33bada290c4a66bf3890f30229d20e4455275f7c6e825a": {
+        "title": "一代人的两种歌声：公共华章与私人青春",
+        "link": "https://www.tmtpost.com/8153626.html",
+        "published_date": "Mon, 28 Sep 2026 16:27:00 GMT",
+        "first_seen": "2026-09-28T11:32:40.051454"
       }
     },
     "Finance": {
@@ -4887,6 +4947,66 @@
         "link": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
         "published_date": "Sun, 27 Sep 2026 11:00:00 GMT",
         "first_seen": "2026-09-28T01:29:17.592373"
+      },
+      "394b73df3129e6c2c9f6596c3d52cbf80d0f8a5e5ed5c37e463916bc5a5c469a": {
+        "title": "The history of this market’s bad-breadth signal points to risks ahead",
+        "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 11:26:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449146"
+      },
+      "f6039e4463fc26ac698bf18694c050f13f3c1345156fa3d1ae329c7d2bc4af9b": {
+        "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+        "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 11:21:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449154"
+      },
+      "28b1eb578e5b3148e1a80e1321431a317c625ed6933b1183c44779870baf92bd": {
+        "title": "A pullback is brewing, say these strategists who have examined every drawdown since 1956",
+        "link": "https://www.marketwatch.com/story/a-pullback-is-brewing-say-these-strategists-who-have-examined-every-drawdown-since-1956-69e39d5f?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 11:02:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449156"
+      },
+      "c3ae3abb84a01813040430b75aa1dee21b09adde97641a10c4d86244150de312": {
+        "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
+        "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 10:47:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449158"
+      },
+      "abd22df1a861ed20eecd22371e9f2579ba8e0a4d82767959af6b8c34935cd733": {
+        "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 09:32:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449160"
+      },
+      "48721a731f692f23434faa97a5732db30a7185b2845bf5f9b0c29d903297f755": {
+        "title": "Simone Biles and Jonathan Owens list  a $1.2 million Texas home near Houston",
+        "link": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 09:02:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449161"
+      },
+      "f57f702628358d291be852dd50c692237de9045c640241ca3e61fcdf638c73e0": {
+        "title": "Bond sell-off deepens as oil rises above $108",
+        "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 09:56:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449163"
+      },
+      "16ff9e26c265fd60a807813c7b10a8de996d79046ce0f65ec0fad055ce2ecf24": {
+        "title": "Investigators focus on Iran link to arrests near UK air base",
+        "link": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 08:42:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449164"
+      },
+      "26f8659f5753d239d5d895a4d501a525055311fb93a5a79a8939512d943862e7": {
+        "title": "‘Xi got face’: China relishes equal treatment from Trump",
+        "link": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 05:55:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449166"
+      },
+      "075c76ffdbe1f8d9fc528815dfa9b489c8af486644e2cb286153573031132ba6": {
+        "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+        "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 04:04:00 GMT",
+        "first_seen": "2026-09-28T11:32:49.449167"
       }
     },
     "Ai": {
@@ -7001,13 +7121,73 @@
         "link": "https://www.qbitai.com/2026/09/498584.html",
         "published_date": "Sun, 27 Sep 2026 13:40:00 GMT",
         "first_seen": "2026-09-28T01:29:17.747101"
+      },
+      "2bd64a73c27477e28a8bc8063f4fe5fbf801d092814a374ff7dd6dc859450375": {
+        "title": "“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录",
+        "link": "https://www.leiphone.com/category/industrynews/swRASiuHGdPbjWEY.html",
+        "published_date": "Mon, 28 Sep 2026 17:01:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897553"
+      },
+      "e1e5600fa9d7f5d8f67d56b5c7189cd557d8683b55eac94821923c74f9010214": {
+        "title": "本田重申Momenta合作，中国智驾全球布局提速",
+        "link": "https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html",
+        "published_date": "Mon, 28 Sep 2026 15:34:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897561"
+      },
+      "11ab5be77f174b8f772969cbc3b16e7e0494cf7cfc13a4632f409116ed9e767d": {
+        "title": "三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限",
+        "link": "https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html",
+        "published_date": "Mon, 28 Sep 2026 14:42:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897563"
+      },
+      "19f9b89d6039080ee46672c45692bb883eea0b7d897b9c0463df15c2b2f3f1b6": {
+        "title": "小米澎程国庆将在19城办展",
+        "link": "https://www.leiphone.com/category/industrynews/aUsTBsDCo1UDRepn.html",
+        "published_date": "Mon, 28 Sep 2026 14:00:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897565"
+      },
+      "10177f01ad42c9812ce12b9f06512410675f36251058a0281212dd6ffcfb03b4": {
+        "title": "从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图",
+        "link": "https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html",
+        "published_date": "Mon, 28 Sep 2026 13:51:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897566"
+      },
+      "71cff214409c8c43258ba0bf3382b1af89b02a3909dc0a031ef113d8359b1e79": {
+        "title": "海光1000系列发布，端侧市场为何需要另一颗CPU？",
+        "link": "https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html",
+        "published_date": "Mon, 28 Sep 2026 12:20:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897568"
+      },
+      "1a87650c91810019c8926aab6e85b93ac183af29b6f4f37ecb2f377693a37f64": {
+        "title": "智己汽车CTO项娇：智己LS6的线控底盘历时8年研发",
+        "link": "https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html",
+        "published_date": "Mon, 28 Sep 2026 12:18:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897570"
+      },
+      "4e32c0ff9d794cd867f207ec5c3f03ea16e23bcdf87bc54f431a41b4fd5d01ab": {
+        "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生",
+        "link": "https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html",
+        "published_date": "Mon, 28 Sep 2026 11:30:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897571"
+      },
+      "59ac426958152e2248b47ff79c90c7972352fb74888edc33f0ea879a01d312c1": {
+        "title": "碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线",
+        "link": "https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html",
+        "published_date": "Mon, 28 Sep 2026 10:25:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897573"
+      },
+      "6dbfaa2aae159fd26ebeacd91c291ff71a1ab2bf3c2ad8f96d7f21f3bb2aca84": {
+        "title": "Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍",
+        "link": "https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html",
+        "published_date": "Mon, 28 Sep 2026 09:21:00 GMT",
+        "first_seen": "2026-09-28T11:32:58.897574"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-28T01:29:17.534090",
-    "Finance": "2026-09-28T01:29:17.592376",
-    "Ai": "2026-09-28T01:29:17.747103"
+    "Technology": "2026-09-28T11:32:40.051457",
+    "Finance": "2026-09-28T11:32:49.449171",
+    "Ai": "2026-09-28T11:32:58.897576"
   }
 }

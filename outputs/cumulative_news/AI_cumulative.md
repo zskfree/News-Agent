@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-28 01:26
+**最后更新时间**: 2026-09-28 11:30
+
+---
+
+## 🆕 最新更新 (2026-09-28 11:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录](https://www.leiphone.com/category/industrynews/swRASiuHGdPbjWEY.html)
+**发布时间**: 2026-09-28 17:01
+
+#### [本田重申Momenta合作，中国智驾全球布局提速](https://www.leiphone.com/category/industrynews/uBfs2Eq8httYmMN0.html)
+**发布时间**: 2026-09-28 15:34
+
+#### [三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限](https://www.leiphone.com/category/robot/PD6wmXBcwh6pLqU5.html)
+**发布时间**: 2026-09-28 14:42
+
+#### [小米澎程国庆将在19城办展](https://www.leiphone.com/category/industrynews/aUsTBsDCo1UDRepn.html)
+**发布时间**: 2026-09-28 14:00
+
+#### [从「算得快」到「干得了活」：AI推理时代，CPU如何重塑算力版图](https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html)
+**发布时间**: 2026-09-28 13:51
+
+#### [海光1000系列发布，端侧市场为何需要另一颗CPU？](https://www.leiphone.com/category/chips/Vg21PfMOVphziqqK.html)
+**发布时间**: 2026-09-28 12:20
+
+#### [智己汽车CTO项娇：智己LS6的线控底盘历时8年研发](https://www.leiphone.com/category/transportation/3USAaLZCbr8AyvEz.html)
+**发布时间**: 2026-09-28 12:18
+
+#### [7天两场演讲，中国两大AI云撞了同一个爱迪生](https://www.leiphone.com/category/industrynews/YfX6iaJilpBgdPcu.html)
+**发布时间**: 2026-09-28 11:30
+
+#### [碳硅道统050.5公理母本定稿 构建人机碳硅共生可溯源研究基线](https://www.leiphone.com/category/industrynews/q5L3rs7dyTggYhLB.html)
+**发布时间**: 2026-09-28 10:25
+
+#### [Imagination E系列性能首秀：用AI把分辨率翻倍仅需2.3毫秒，Prefill性能提升4.7倍](https://www.leiphone.com/category/chips/GZHLOpS28auhtU2f.html)
+**发布时间**: 2026-09-28 09:21
+
+#### [「我们不是冤种！」特斯拉一个月降价两次惹怒新车主：集体讨要补偿；OpenAI暂停最新一代模型训练；传华为或于今年11月推出星耀子品牌](https://www.leiphone.com/category/zaobao/ImrWTOq9a6UDaEXr.html)
+**发布时间**: 2026-09-28 08:26
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
+**发布时间**: 2026-09-28 09:44
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New formulation helps RNA vaccines withstand high temperatures](https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928)
+**发布时间**: 2026-09-28 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-28日刊](https://hex2077.dev/docs/2026-09/2026-09-28/)
+**发布时间**: 2026-09-28 02:28
 
 ---
 
