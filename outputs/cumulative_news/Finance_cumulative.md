@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-27 10:25
+**最后更新时间**: 2026-09-28 01:29
+
+---
+
+## 🆕 最新更新 (2026-09-28 01:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?](https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories)
+**发布时间**: 2026-09-27 22:00
+
+#### [Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth](https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories)
+**发布时间**: 2026-09-27 14:00
+
+#### [Look closer, and Wall Street’s rally is showing cracks](https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories)
+**发布时间**: 2026-09-27 13:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World’s worst-performing market slashes minimum price for stocks](https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 21:00
+
+#### [Trump asked Xi if China wanted to buy American weapons, US envoy says](https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 20:31
+
+#### [Terrorism arrests made in ‘major incident’ near US air base in UK](https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 17:24
+
+#### [Corporate America embraces cheaper ‘open’ AI models](https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 17:00
+
+#### [Pay to play in the age of corporate migration](https://www.ft.com/content/267379ff-8491-478b-a10f-ad19a67df37c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 15:00
+
+#### [The India shock: exporting workers to the world](https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 11:00
+
+#### [Private credit turmoil eases as investor withdrawals slow](https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1)
+**发布时间**: 2026-09-27 04:00
 
 ---
 

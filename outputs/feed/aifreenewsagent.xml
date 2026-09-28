@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Sep 2026 10:23:00 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 10:26:03 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 01:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:29:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会</title>
-      <link>https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html</link>
-      <description>&lt;![CDATA[遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html</guid>
+      <title>量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</title>
+      <link>https://www.qbitai.com/2026/09/498633.html</link>
+      <description>&lt;![CDATA[量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层]]&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498633.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>啥题啊能干崩OpenAI最强模型训练…</title>
-      <link>https://www.qbitai.com/2026/09/498546.html</link>
-      <description>&lt;![CDATA[啥题啊能干崩OpenAI最强模型训练…]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498546.html</guid>
+      <title>量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门</title>
+      <link>https://www.qbitai.com/2026/09/498605.html</link>
+      <description>&lt;![CDATA[量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门]]&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498605.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-09-27日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-27/</link>
-      <description>&lt;![CDATA[2026-09-27日刊]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 02:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-27/</guid>
+      <title>又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录</title>
+      <link>https://www.qbitai.com/2026/09/498584.html</link>
+      <description>&lt;![CDATA[又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录]]&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 13:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498584.html</guid>
       <category>Ai</category>
     </item>
   </channel>
