@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-29 02:33
+**最后更新时间**: 2026-09-29 11:12
+
+---
+
+## 🆕 最新更新 (2026-09-29 11:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs](https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 11:03
+
+#### [Two stock picks from a money manager who expects small-caps to roar in 2027](https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 11:02
+
+#### [Novo Nordisk strikes second licensing deal since frosty capital-markets day](https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 09:45
+
+#### [Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub](https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 09:26
+
+#### [‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?](https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 09:16
+
+#### [Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm](https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 09:12
+
+#### [Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home](https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 09:00
+
+#### [Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’](https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 08:58
+
+#### [A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.](https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 08:56
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia turns to insurers to spread the risk of AI build-out](https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:04
+
+#### [Can ‘brutal’ De Meo transform Gucci owner Kering?](https://www.ft.com/content/78bfdad6-cf74-44c0-a3ec-dd2825563b99?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [How gun violence became a cost of doing business](https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [Will desk workers be doomed by AI?](https://www.ft.com/content/4aad6056-761f-42df-ab65-683a15cf40dc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [Bond investors become oil traders as Iran war drives yields](https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [Germany issues EU budget ultimatum](https://www.ft.com/content/3b829a46-3eae-4c20-94db-a79c38d0be4c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [Trump’s ambassador to Greece causes stir in Romania](https://www.ft.com/content/7af7b31e-5006-467a-96d9-672905f7b45b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 04:00
+
+#### [Rubio says UK air base incident involved ‘foreign actor’](https://www.ft.com/content/262f5234-3d66-4187-a844-b52c29cb0e9b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 03:08
 
 ---
 

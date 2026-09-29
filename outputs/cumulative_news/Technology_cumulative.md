@@ -1,7 +1,164 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-29 02:33
+**最后更新时间**: 2026-09-29 11:12
+
+---
+
+## 🆕 最新更新 (2026-09-29 11:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技无法恢复仅存储在受损的中东可用区的数据](https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 18:41
+
+#### [Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？](https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 18:36
+
+#### [Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？](https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 18:07
+
+#### [上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势](https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 18:00
+
+#### [Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏](https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 17:37
+
+#### [金句抢先看 | 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？](https://www.infoq.cn/video/HsaJfo3DKR9XC0LeeV30?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 17:06
+
+#### [MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性](https://www.infoq.cn/article/vWO5oOkToq5WYFE18WiB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 16:48
+
+#### [大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？](https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 15:49
+
+#### [SolidStart 2：以 Vite 8 取代 Vinxi，进入维护模式后逐步完成历史使命](https://www.infoq.cn/article/v0NAyDPc0bZ2T8HMWfv2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 15:42
+
+#### [设计安全、可扩展的人脸验证系统](https://www.infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 14:34
+
+#### [从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案](https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 14:29
+
+#### [释放隐藏的商业价值：行业领袖如何将庞杂数据转化为即时行动 ｜ 技术趋势](https://www.infoq.cn/article/imwpHlbHtUjoHmzjah8Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 14:00
+
+#### [82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报](https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 13:00
+
+#### [AI 数据平台，要补的恰恰是“模型不知道的事”](https://www.infoq.cn/article/uwfvFTWwH5Qupo2lBxF6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 11:24
+
+#### [研发投入增长 40%，拼多多的增长逻辑变了](https://www.infoq.cn/article/dxTImF8q7TADGd4TZp6m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 11:20
+
+#### [自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势](https://www.infoq.cn/article/AmYfVbwTlVyApFszqKx3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-29 10:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [9个月时间，从参股到到控股：连亏4年半的园林股份，拿华澜微赌翻身](https://www.tmtpost.com/8156072.html)
+**发布时间**: 2026-09-29 18:25
+
+#### [风险篇幅接近业务两倍，Anthropic招股书在测试什么](https://www.tmtpost.com/8156087.html)
+**发布时间**: 2026-09-29 18:12
+
+#### [消失的网页，膨胀的APP](https://www.tmtpost.com/8155983.html)
+**发布时间**: 2026-09-29 18:12
+
+#### [Manus 要做AI时代的“全家桶”](https://www.tmtpost.com/8155978.html)
+**发布时间**: 2026-09-29 18:12
+
+#### [卖碳收入超10亿？小鹏不只靠卖车赚钱了](https://www.tmtpost.com/8155908.html)
+**发布时间**: 2026-09-29 18:12
+
+#### [82亿美元，硅谷上演顶级版“Girls help girls”](https://www.tmtpost.com/8155853.html)
+**发布时间**: 2026-09-29 18:12
+
+#### [信达生物跟辉瑞的关系，这下要更铁了](https://www.tmtpost.com/8155840.html)
+**发布时间**: 2026-09-29 18:03
+
+#### [Agent扎堆金融：一场真正的AI大考开始了](https://www.tmtpost.com/8155852.html)
+**发布时间**: 2026-09-29 18:03
+
+#### [十年蜕变之作，荣耀Magic9系列写下越级答案](https://www.tmtpost.com/8155188.html)
+**发布时间**: 2026-09-29 18:02
+
+#### [Agent进入企业核心业务，模型之外还有多少难题？](https://www.tmtpost.com/8155430.html)
+**发布时间**: 2026-09-29 18:01
+
+#### [三峡新材并购珠海赛纬：玻璃巨头的跨界赌局与电解液玩家的两度IPO碎梦｜并购一线](https://www.tmtpost.com/8155917.html)
+**发布时间**: 2026-09-29 17:58
+
+#### [海目星抛22.6亿定增计划，激光设备商跨界押注AI与固态电池](https://www.tmtpost.com/8155935.html)
+**发布时间**: 2026-09-29 17:57
+
+#### [湖南裕能：接力融资押扩产，“铁锂一哥”和他身后的周期赌局 | 深度](https://www.tmtpost.com/8155901.html)
+**发布时间**: 2026-09-29 17:48
+
+#### [一台机床、一辆汽车、一架飞机......5 万亿融资租赁行业的“能力竞赛”](https://www.tmtpost.com/8154650.html)
+**发布时间**: 2026-09-29 17:44
+
+#### [Muse企服版刚成立，百亿美金上市企业CEO就跳槽加入](https://www.tmtpost.com/8155944.html)
+**发布时间**: 2026-09-29 17:44
+
+#### [豆包盯上了出行酒旅等生意](https://www.tmtpost.com/8155968.html)
+**发布时间**: 2026-09-29 17:43
+
+#### [金银比逼近70，银价为何比金价更脆弱？](https://www.tmtpost.com/8155947.html)
+**发布时间**: 2026-09-29 17:41
+
+#### [这下真不用A8才敢进薛记炒货店了](https://www.tmtpost.com/8155938.html)
+**发布时间**: 2026-09-29 17:41
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Anthropic 招股书里，最耐人寻味的 7 个细节](http://www.geekpark.net/news/371994)
+**发布时间**: 2026-09-29 17:12
+
+#### [三个月，5000 人：拼多多在这里搭起一座新业务基地](http://www.geekpark.net/news/371850)
+**发布时间**: 2026-09-29 14:53
+
+#### [Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶](http://www.geekpark.net/news/371493)
+**发布时间**: 2026-09-29 13:27
+
+#### [AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道](http://www.geekpark.net/news/371359)
+**发布时间**: 2026-09-29 08:07
+
+#### [中国智能汽车的后台，越来越像阿里云的主场](http://www.geekpark.net/news/371357)
+**发布时间**: 2026-09-28 22:54
+
+#### [蔚来换电，终于等来了「别人家的车」](http://www.geekpark.net/news/371233)
+**发布时间**: 2026-09-28 20:40
+
+#### [不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了](http://www.geekpark.net/news/371126)
+**发布时间**: 2026-09-28 17:50
+
+#### [OpenAI，经历了最漫长的一天](http://www.geekpark.net/news/371123)
+**发布时间**: 2026-09-28 17:45
+
+#### [从超级个体到超级组织，究竟还有多远？](http://www.geekpark.net/news/371104)
+**发布时间**: 2026-09-28 16:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
+**发布时间**: 2026-09-29 17:03
+
+#### [更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
+**发布时间**: 2026-09-29 15:44
+
+#### [可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
+**发布时间**: 2026-09-29 11:28
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 3.1 万 Star！开源堡垒机 JumpServer 正式进入 V5 时代。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537439&idx=1&sn=b9a163563c14af097e993f47703ba2a7)
+**发布时间**: 2026-09-29 11:11
+
+#### [狠狠收藏这个 2 万 Star 的 GitHub 项目，](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537432&idx=1&sn=794eb2b853f03da31bed546a9d8e15e0)
+**发布时间**: 2026-09-28 22:10
 
 ---
 

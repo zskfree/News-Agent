@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-29 02:30
+**最后更新时间**: 2026-09-29 11:10
+
+---
+
+## 🆕 最新更新 (2026-09-29 11:10)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [比预售再降2万，第二代家庭旗舰奕境X9正式上市，限时优惠价27.98万元起](https://www.leiphone.com/category/industrynews/qkE0oirHeUJTchON.html)
+**发布时间**: 2026-09-29 16:31
+
+#### [靳玉志：华为乾崑智驾研发从180亿上调到190多亿](https://www.leiphone.com/category/industrynews/ppM6ntb0VaApQsN7.html)
+**发布时间**: 2026-09-29 16:10
+
+#### [动易科技刘晨澔：人形机器人羽毛球对拉 40 拍背后的分层革命 | IROS 2026](https://www.leiphone.com/category/private/zoJ7chGiDi7IPHvN.html)
+**发布时间**: 2026-09-29 15:49
+
+#### [希音上市后的第一份财报，回答了两个关键问题](https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html)
+**发布时间**: 2026-09-29 11:45
+
+#### [华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”](https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html)
+**发布时间**: 2026-09-29 11:16
+
+#### [从创意落地到创业起步，嘉立创延长AI硬件创新支持链条](https://www.leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html)
+**发布时间**: 2026-09-29 10:19
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展](https://www.qbitai.com/2026/09/499239.html)
+**发布时间**: 2026-09-29 10:56
+
+#### [精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！](https://www.qbitai.com/2026/09/499188.html)
+**发布时间**: 2026-09-29 07:59
+
+#### [OpenAI因新模型太强叫停发布](https://www.qbitai.com/2026/09/499140.html)
+**发布时间**: 2026-09-29 07:49
+
+#### [成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元](https://www.qbitai.com/2026/09/499135.html)
+**发布时间**: 2026-09-29 07:10
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-29日刊](https://hex2077.dev/docs/2026-09/2026-09-29/)
+**发布时间**: 2026-09-29 08:20
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [The effects of an “algorithmic monoculture” depend on the details](https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929)
+**发布时间**: 2026-09-29 00:00
+
+#### [Who we become when we talk to machines](https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929)
+**发布时间**: 2026-09-29 00:00
 
 ---
 
