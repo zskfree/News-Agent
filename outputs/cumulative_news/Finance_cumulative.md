@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-28 11:32
+**最后更新时间**: 2026-09-29 02:33
+
+---
+
+## 🆕 最新更新 (2026-09-29 02:33)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic’s potential $2 trillion IPO comes with the following fine print](https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 01:31
+
+#### [AMD makes a big bet on the next era of AI with World Labs acquisition](https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 00:03
+
+#### [‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 22:35
+
+#### [SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say](https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 22:03
+
+#### [MongoDB’s stock is down nearly 20% as CEO decamps to Meta](https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 21:23
+
+#### [This AI startup has only 14 employees — and a fresh $10 billion valuation](https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 21:19
+
+#### [‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?](https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-28 21:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic warns of ‘existential risks to humanity’ in IPO prospectus](https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 01:06
+
+#### [OpenAI axes next model citing safety issues](https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 00:48
+
+#### [Singapore’s bet on chipmaking](https://www.ft.com/content/f1c7da54-a762-4c62-bb4c-0ce4fe536900?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 00:43
+
+#### [Pope Leo criticises Nvidia’s Jensen Huang over AI safety](https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 23:51
+
+#### [AMD to buy Fei-Fei Li’s AI start-up for $8bn](https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 21:53
+
+#### [Bond sell-off deepens and oil rises as Iran-US deal hopes fade](https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 21:38
+
+#### [HSBC moves to bolster Hang Seng by cleaning up balance sheet](https://www.ft.com/content/ffa65213-3178-454c-9d7d-c8ae8d64124f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 21:00
+
+#### [Netanyahu under pressure over reports he was warned about October 7](https://www.ft.com/content/f261c9cd-7169-4d16-97fc-9859099ce0f8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 20:37
+
+#### [Why Europe’s centre will hold](https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1)
+**发布时间**: 2026-09-28 11:01
 
 ---
 

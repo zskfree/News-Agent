@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-28 11:30
+**最后更新时间**: 2026-09-29 02:30
+
+---
+
+## 🆕 最新更新 (2026-09-29 02:30)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
+**发布时间**: 2026-09-29 00:49
+
+#### [工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路](https://www.qbitai.com/2026/09/498877.html)
+**发布时间**: 2026-09-28 12:43
+
+#### [HC归来，华为正重新定义AIDC基础设施](https://www.qbitai.com/2026/09/498787.html)
+**发布时间**: 2026-09-28 11:18
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/)
+**发布时间**: 2026-09-28 22:13
+
+#### [Introducing Claude Sonnet 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/)
+**发布时间**: 2026-09-28 18:57
+
+#### [Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1](https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/)
+**发布时间**: 2026-09-28 16:15
+
+#### [Generate images and video with vLLM-Omni on SageMaker AI – Part 2](https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/)
+**发布时间**: 2026-09-28 16:15
+
+#### [Implementing synthetic monitoring using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/)
+**发布时间**: 2026-09-28 15:56
+
+#### [Automating Amazon Textract adapter lifecycle management across accounts](https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/)
+**发布时间**: 2026-09-28 15:49
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨上汽集团高层换防：俞经民升职，尚界一把手换人](https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html)
+**发布时间**: 2026-09-28 21:12
+
+#### [解读丨吉利入股蔚来能源，李斌的换电生意有了新算法](https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html)
+**发布时间**: 2026-09-28 21:08
+
+#### [中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场](https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html)
+**发布时间**: 2026-09-28 20:54
+
+#### [海尔洗空气空调AI科技将巴马好空气搬回家](https://www.leiphone.com/category/industrynews/q7QGrV66x125kB8m.html)
+**发布时间**: 2026-09-28 19:54
+
+#### [“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录](https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html)
+**发布时间**: 2026-09-28 19:46
+
+#### [售价25.98万-38.98万元，智界RX正式上市，为驾驶而生，为价值而造](https://www.leiphone.com/category/industrynews/mBZRTV2kKjzdqqJZ.html)
+**发布时间**: 2026-09-28 18:38
+
+#### [阿里Qwen-Audio-3.1-TTS拿下权威语音榜全球冠军](https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html)
+**发布时间**: 2026-09-28 18:38
+
+#### [枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建](https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html)
+**发布时间**: 2026-09-28 18:36
+
+#### [全新一代智己LS6上市，起售价19.79万元](https://www.leiphone.com/category/transportation/ZnEoArCRJDVa3yzO.html)
+**发布时间**: 2026-09-28 18:12
 
 ---
 
