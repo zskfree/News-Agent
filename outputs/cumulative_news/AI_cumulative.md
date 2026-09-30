@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-30 01:52
+**最后更新时间**: 2026-09-30 10:57
+
+---
+
+## 🆕 最新更新 (2026-09-30 10:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口](https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html)
+**发布时间**: 2026-09-30 16:35
+
+#### [2000座高速闪充站落成，比亚迪如何扛住国庆车流？](https://www.leiphone.com/category/transportation/GE7BYDthsIqb4nA8.html)
+**发布时间**: 2026-09-30 16:31
+
+#### [实测 Qwen-3.8 与 GLM-5.3 的 Flash 版：谁能让我提前下班半小时？](https://www.leiphone.com/category/yanxishe/Dp2FW4Pb6iLUvdhf.html)
+**发布时间**: 2026-09-30 16:28
+
+#### [从 Codex Harness 开源，看 AI 公司的护城河是什么？](https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html)
+**发布时间**: 2026-09-30 16:24
+
+#### [全网最硬核 OpenClaw 2.0 实测：从 ToC 到 ToB 的试探，Agent 网关能重塑工作流边界吗？](https://www.leiphone.com/category/yanxishe/7bPyLlZDfncTOw5B.html)
+**发布时间**: 2026-09-30 16:22
+
+#### [5500颗光引擎如何撑起4096卡超节点？华为NPO的故事还没讲完](https://www.leiphone.com/category/chips/kgknicdWxIIoulL9.html)
+**发布时间**: 2026-09-30 16:19
+
+#### [对比 Codex，免费的 AgnesCode 也能在底层算子优化任务中打得有来有回](https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html)
+**发布时间**: 2026-09-30 16:13
+
+#### [从海拉鲁到现实世界：视频模型如何理解「变化」](https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html)
+**发布时间**: 2026-09-30 16:09
+
+#### [在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻](https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html)
+**发布时间**: 2026-09-30 15:57
+
+#### [全球开源前二，阶跃终于回来了](https://www.leiphone.com/category/yanxishe/LjT1ojuhnJ3pBvu4.html)
+**发布时间**: 2026-09-30 15:55
+
+#### [世界制造业大会丨国轩高科重磅发布低空飞行高功率电池等三大创新成果](https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html)
+**发布时间**: 2026-09-30 15:53
+
+#### [越大越强，不再是 LLM 的专利：PixVerse R2 攻克实时世界模型 Scaling 难题](https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html)
+**发布时间**: 2026-09-30 15:53
+
+#### [GPT-6 Astra 上手体验：花了一周，它真在电脑里建了座曼哈顿！](https://www.leiphone.com/category/yanxishe/dlrewTdG7xNo2gFo.html)
+**发布时间**: 2026-09-30 15:50
+
+#### [Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？](https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html)
+**发布时间**: 2026-09-30 15:45
+
+#### [我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？](https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html)
+**发布时间**: 2026-09-30 15:38
+
+#### [拆解 WorkBuddy、千问办公和豆包工作，它们其实不是同一种产品](https://www.leiphone.com/category/yanxishe/d4mykzxmMYWWwHNk.html)
+**发布时间**: 2026-09-30 15:37
+
+#### [实测 Seedance 2.5 vs 可灵 3.0，谁能让我们无痛当上视频导演？](https://www.leiphone.com/category/academic/Fsil8u9HyNOPW4Du.html)
+**发布时间**: 2026-09-30 15:35
+
+#### [从 Dreamore 到 CreaXene：AI 生成工具正在走向创作工作流](https://www.leiphone.com/category/industrynews/b7WL9zxqi4D4icMv.html)
+**发布时间**: 2026-09-30 14:56
+
+#### [具身智能不只在地上跑：给无人机装上机械臂，它们要去天上「拧螺栓」了 | IROS 2026](https://www.leiphone.com/category/academic/XSVcStujND4eWLFZ.html)
+**发布时间**: 2026-09-30 14:29
+
+#### [从三维视觉到世界模型：空间智能为何成为 AI 走向物理世界的共同主线？| ECCV 2026复盘](https://www.leiphone.com/category/academic/hxpVB01n8UMq6NDS.html)
+**发布时间**: 2026-09-30 14:24
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活](https://www.qbitai.com/2026/09/499592.html)
+**发布时间**: 2026-09-30 07:58
+
+#### [刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！](https://www.qbitai.com/2026/09/499493.html)
+**发布时间**: 2026-09-30 07:54
+
+#### [DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec](https://www.qbitai.com/2026/09/499308.html)
+**发布时间**: 2026-09-30 05:18
+
+#### [36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了](https://www.qbitai.com/2026/09/499280.html)
+**发布时间**: 2026-09-30 04:42
+
+#### [DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态](https://www.qbitai.com/2026/09/499263.html)
+**发布时间**: 2026-09-30 02:53
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-30日刊](https://hex2077.dev/docs/2026-09/2026-09-30/)
+**发布时间**: 2026-09-30 02:45
 
 ---
 

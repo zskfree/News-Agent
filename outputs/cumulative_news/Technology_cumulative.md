@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-30 01:54
+**最后更新时间**: 2026-09-30 10:59
+
+---
+
+## 🆕 最新更新 (2026-09-30 10:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [砸200亿搞换电后，蔚来为何与吉利“联姻”？](https://www.tmtpost.com/8156496.html)
+**发布时间**: 2026-09-30 18:43
+
+#### [大厂们正在集体抢滩“AI个人助理”](https://www.tmtpost.com/8157250.html)
+**发布时间**: 2026-09-30 18:43
+
+#### [抄底蔚来换电网络，吉利做的一手好买卖](https://www.tmtpost.com/8156442.html)
+**发布时间**: 2026-09-30 17:52
+
+#### [国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？](https://www.tmtpost.com/8156755.html)
+**发布时间**: 2026-09-30 17:52
+
+#### [国庆机票价格“跳水”，各大航司正在下一盘大棋](https://www.tmtpost.com/8157217.html)
+**发布时间**: 2026-09-30 17:52
+
+#### [从9.15亿卖医疗到5亿买液冷，科森科技资产腾挪收两封监管函 | 并购一线](https://www.tmtpost.com/8157193.html)
+**发布时间**: 2026-09-30 17:23
+
+#### [出海迪拜进入“第三阶段”：决策权再分配｜出海参考](https://www.tmtpost.com/8157087.html)
+**发布时间**: 2026-09-30 16:50
+
+#### [一间项目室里长出的Qoder：阿里如何用一支AI Native团队，押注Agent时代的入口](https://www.tmtpost.com/8156900.html)
+**发布时间**: 2026-09-30 16:12
+
+#### [Muse爆火，大厂急了](https://www.tmtpost.com/8157056.html)
+**发布时间**: 2026-09-30 16:10
+
+#### [AI时代，我们需要什么样的技能人才？](https://www.tmtpost.com/8156428.html)
+**发布时间**: 2026-09-30 16:10
+
+#### [李飞飞上岸，具身创业者慌了](https://www.tmtpost.com/8156492.html)
+**发布时间**: 2026-09-30 15:41
+
+#### [OpenAI刹车，Meta狂飙，AI竞赛的“胜负手”变了](https://www.tmtpost.com/8156309.html)
+**发布时间**: 2026-09-30 15:41
+
+#### [湖南零食圈，胜在不内卷](https://www.tmtpost.com/8156727.html)
+**发布时间**: 2026-09-30 15:41
+
+#### [AI 进展观察 | 个人 Agent 与企业 Agent：定位分化、全球格局与演进路径](https://www.tmtpost.com/8157089.html)
+**发布时间**: 2026-09-30 15:19
+
+#### [AI长剧进入剧场化时代，芒果TV野心不止《后西游记》](https://www.tmtpost.com/8157048.html)
+**发布时间**: 2026-09-30 15:18
+
+#### [一边拿下10万套订单，一边把数据上架：机器人“皮肤”生意开始分叉](https://www.tmtpost.com/8156886.html)
+**发布时间**: 2026-09-30 12:45
+
+#### [董明珠，正在“交出”格力](https://www.tmtpost.com/8156235.html)
+**发布时间**: 2026-09-30 12:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本](https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 17:37
+
+#### [意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践](https://www.infoq.cn/article/ZBXXP1BuZMIGusWyQZvB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 15:42
+
+#### [Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%](https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 15:25
+
+#### [从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践](https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 15:12
+
+#### [一个忘关的开关，与企业Agent的全栈技术账单](https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 12:10
+
+#### [首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和](https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 11:52
+
+#### [Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja](https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 10:45
+
+#### [AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海](https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [经典任务管理软件的现代重构： 新版 2Do 详解](https://sspai.com/post/115166)
+**发布时间**: 2026-09-30 15:00
+
+#### [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
+**发布时间**: 2026-09-30 11:02
 
 ---
 

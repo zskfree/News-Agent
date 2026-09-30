@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-30 01:54
+**最后更新时间**: 2026-09-30 10:59
+
+---
+
+## 🆕 最新更新 (2026-09-30 10:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.](https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 10:38
+
+#### [Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro](https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 10:15
+
+#### [He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish](https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 09:32
+
+#### [One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.](https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 09:20
+
+#### [There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal](https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 09:16
+
+#### [I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?](https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 09:15
+
+#### [Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka](https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 09:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Vanguard warns France is ‘degrading credit’ as borrowing costs surge](https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 08:42
+
+#### [Ken Griffin donates $3bn to Carnegie Mellon as university plots Miami campus](https://www.ft.com/content/3b5b46d7-2dcf-40f0-82f3-65ab6e4be76b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 08:30
+
+#### [Burnham says rejoining EU an option for the UK](https://www.ft.com/content/d740f13d-38bc-4460-bcd5-2922472fc209?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 07:17
+
+#### [White House holds crunch talks on diesel export ban as midterms near](https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 04:00
+
+#### [HSBC turns east](https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 04:00
+
+#### [Is the world really drowning in debt?](https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 04:00
+
+#### [Luxury watches must win back wrist space](https://www.ft.com/content/838a6480-9888-4f4a-9d2f-8e02cb3889c9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 04:00
+
+#### [The crucial things Anthropic’s jumbo ‘risk factors’ won’t tell you](https://www.ft.com/content/ef6c9b07-0a02-4cb2-aa91-e486846e6ce0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 04:00
+
+#### [UK bosses left in dark by Burnham and Healey’s emphasis on ‘cost of business’](https://www.ft.com/content/bd830daa-e4fe-4cd6-a145-40502652c0b2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 20:38
 
 ---
 
