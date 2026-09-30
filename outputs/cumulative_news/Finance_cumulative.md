@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-29 11:12
+**最后更新时间**: 2026-09-30 01:54
+
+---
+
+## 🆕 最新更新 (2026-09-30 01:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?](https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 01:00
+
+#### [Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout](https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 21:56
+
+#### [Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.](https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 21:53
+
+#### [The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think](https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 21:52
+
+#### [Target’s price cuts are a sign of strength, some analysts say. Investors disagree.](https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories)
+**发布时间**: 2026-09-29 21:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Pentagon awards Boeing $20bn contract for Navy stealth fighter jet](https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 00:31
+
+#### [Trump praises tech bosses’ ‘tremendous self-regulation’ of AI](https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 23:13
+
+#### [Altman says OpenAI will delay its IPO until it overcomes safety concerns](https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 21:56
+
+#### [Australia battles black market for cigarettes after decade of tax rises](https://www.ft.com/content/d2916f8b-c53b-4c64-a9f8-37807bf5383f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 21:00
+
+#### [Hegseth to slash top US military officer roles by 20%](https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 20:56
+
+#### [Suspect in RAF Fairford incident called 999 shortly before arrest](https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 20:19
+
+#### [US 30-year Treasury yield hits highest since 2002](https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 20:13
+
+#### [China unveils mortgage subsidies to boost economy](https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 14:08
+
+#### [A Republican midterm defeat will not be an earthquake](https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1)
+**发布时间**: 2026-09-29 11:16
 
 ---
 

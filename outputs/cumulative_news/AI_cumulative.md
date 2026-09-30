@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-29 11:10
+**最后更新时间**: 2026-09-30 01:52
+
+---
+
+## 🆕 最新更新 (2026-09-30 01:52)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/)
+**发布时间**: 2026-09-30 01:13
+
+#### [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/)
+**发布时间**: 2026-09-30 01:13
+
+#### [Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/)
+**发布时间**: 2026-09-29 19:34
+
+#### [Prompt engineering fundamentals for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/)
+**发布时间**: 2026-09-29 16:27
+
+#### [Prompt engineering by Quick component: Patterns and pitfalls](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/)
+**发布时间**: 2026-09-29 16:27
+
+#### [Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-09-29 16:14
+
+#### [How Condé Nast built multimodal video discovery with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/)
+**发布时间**: 2026-09-29 15:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了](https://www.qbitai.com/2026/09/499246.html)
+**发布时间**: 2026-09-29 23:01
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [1000台售罄后又被做成"韩立同款"，元点机器人如何把具身智能做进家庭？](https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html)
+**发布时间**: 2026-09-29 19:22
+
+#### [重新定义一款FPS的上限](https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html)
+**发布时间**: 2026-09-29 18:36
+
+#### [北京现代新车上市，限时售价9.99万元起](https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html)
+**发布时间**: 2026-09-29 18:27
+
+#### [从 App 到服务，腾讯 Marvis 为什么认准「管家」](https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html)
+**发布时间**: 2026-09-29 18:27
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How Diffusion Controller unifies and simplifies AI image generation](https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/)
+**发布时间**: 2026-09-29 18:38
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular)
+**发布时间**: 2026-09-29 15:30
+
+#### [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
+**发布时间**: 2026-09-29 13:07
 
 ---
 
