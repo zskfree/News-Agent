@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-01 01:52
+**最后更新时间**: 2026-10-01 11:27
+
+---
+
+## 🆕 最新更新 (2026-10-01 11:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The stock market is a hollow tree that could be about to snap, warns bond king Gundlach](https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 11:13
+
+#### [Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.](https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 10:10
+
+#### [France’s bond market is stumbling. Should Americans care?](https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 09:39
+
+#### [Retail investors are aggressively piling into this bold contrarian bet through one ETF.](https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 09:23
+
+#### [My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?](https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 09:15
+
+#### [Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million](https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 09:04
+
+#### [Cars have become unaffordable for many Americans. Here’s what the numbers show.](https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 02:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global bond sell-off pushes 10-year Treasury yield to highest since 2002](https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 11:12
+
+#### [An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
+**发布时间**: 2026-10-01 10:53
+
+#### [Starbucks opens first cafés in China’s troubled Xinjiang](https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 09:55
+
+#### [Four potential positives from higher bond yields](https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 08:37
+
+#### [UAE investigates if Flydubai attack was ‘terrorist activity’](https://www.ft.com/content/8ead762e-88a0-4227-80b5-7aa605caf6ea?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 08:06
+
+#### [An optimist’s guide to the bond market](https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 05:30
+
+#### [Indian Flydubai pilot praised after disaster averted](https://www.ft.com/content/1e6d2a9b-dc37-4b19-91e3-0a76fd01b673?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 05:01
+
+#### [How Europe can stall Russia’s hybrid war](https://www.ft.com/content/cd2e89d3-2606-4116-b523-309450462d2b)
+**发布时间**: 2026-10-01 04:00
+
+#### [Manchester City chair shielded by diplomatic immunity](https://www.ft.com/content/125675ee-0d2c-4ffc-b7c5-814dd6b82612?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 04:00
+
+#### [OpenAI’s agents obscured hacking activity in government site breaches](https://www.ft.com/content/11502a49-5319-4df5-95ea-2d76669c31a6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 04:00
+
+#### [Tencent leases 100,000 chips from Oracle to accelerate AI push](https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 02:57
+
+#### [Top Man City sponsor threatens legal action against Premier League](https://www.ft.com/content/188752a3-c43c-4bad-a59b-19d76074b1e0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 21:36
+
+#### [18,000 feet in 90 seconds: inside Flydubai’s near-catastrophe](https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 19:23
 
 ---
 

@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-01 01:52
+**最后更新时间**: 2026-10-01 11:27
+
+---
+
+## 🆕 最新更新 (2026-10-01 11:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三大主业同时失速，《欢迎来龙餐馆》票房爆火能救中国儒意吗？](https://www.tmtpost.com/8157613.html)
+**发布时间**: 2026-10-01 18:22
+
+#### [阶跃星辰“第一梯队”，是“自嗨”吗？](https://www.tmtpost.com/8157775.html)
+**发布时间**: 2026-10-01 18:22
+
+#### [不在一起，造好车](https://www.tmtpost.com/8157271.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [宠物进餐厅的账，还没有算清](https://www.tmtpost.com/8157211.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [悬在Muse头上的剑](https://www.tmtpost.com/8157000.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思](https://www.tmtpost.com/8157785.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [陈思诚、小沈阳、小猪佩奇，谁能撑起国庆档？](https://www.tmtpost.com/8157788.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？](https://www.tmtpost.com/8157828.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [传音手机利润腰斩，储能营收却两年暴涨825%，非洲手机之王转战储能，靠渠道能跑赢技术壁垒吗？](https://www.tmtpost.com/8157851.html)
+**发布时间**: 2026-10-01 16:16
+
+#### [48天签约又解约，7亿的合同有8亿风险，晨丰科技选择不玩了](https://www.tmtpost.com/8157846.html)
+**发布时间**: 2026-10-01 16:05
+
+#### [江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节](https://www.tmtpost.com/8157844.html)
+**发布时间**: 2026-10-01 16:05
+
+#### [豪掷82亿美元，芯片巨头押注的世界模型究竟是什么](https://www.tmtpost.com/8157833.html)
+**发布时间**: 2026-10-01 16:04
+
+#### [BBNJ协定生效后，公海保护如何走出纸面？](https://www.tmtpost.com/8157862.html)
+**发布时间**: 2026-10-01 14:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算](https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-01 14:00
+
+#### [刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移](https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-01 11:00
+
+#### [Elastic Beanstalk 跑上 EKS，开发者质疑：为什么不把 ECS 做好？](https://www.infoq.cn/article/AYXLumiEmzcCrKrRuq9B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-01 10:00
+
+#### [生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海](https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-01 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [从数据到智能，再到进化：Agent正在重写AI基础设施](http://www.geekpark.net/news/372065)
+**发布时间**: 2026-10-01 11:21
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [用 Claude Opus 5.5 做视频堪称一绝，外网已经玩疯了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537493&idx=1&sn=01e8487dc31156f4756ca85b0f573688)
+**发布时间**: 2026-10-01 11:07
 
 ---
 
