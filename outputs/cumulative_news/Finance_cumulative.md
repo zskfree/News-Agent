@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-30 10:59
+**最后更新时间**: 2026-10-01 01:52
+
+---
+
+## 🆕 最新更新 (2026-10-01 01:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Google shows it’s not out of the AI race just yet](https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 22:51
+
+#### [The 15 worst-performing S&P 500 stocks during a dismal September](https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 21:22
+
+#### [Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer](https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 21:16
+
+#### [How the ‘AI put’ has become the only thing that matters for stocks](https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 20:59
+
+#### [A brutal September for bonds points to an even darker October](https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 20:56
+
+#### [U.S. bond yields post biggest jump in a generation as global rout rattles investors](https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 20:32
+
+#### [Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America](https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-30 19:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says South Korea will invest $200bn in US energy projects](https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 22:41
+
+#### [Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal](https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 22:28
+
+#### [Hegseth extols overhaul of US military in ‘state of the force’ speech](https://www.ft.com/content/b5b79e91-37d6-45c1-9907-cd3ea957cb5d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 22:28
+
+#### [US competition watchdog expands investigation of Anthropic and OpenAI](https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 21:39
+
+#### [Paramount stumps up high borrowing costs to fund Warner Bros deal](https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 21:37
+
+#### [US government debt rout triggers ‘vicious loop’ of selling](https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 21:32
+
+#### [Google releases most advanced Gemini AI model](https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 21:21
+
+#### [Trump says Powell should resign after Fed watchdog clears ex-chair of misconduct](https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 20:56
+
+#### [18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe](https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 19:23
+
+#### [How the UAE became a destination for Israelis](https://www.ft.com/content/08109881-f33c-43e0-9dc6-fc3a00d4e35b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 18:30
+
+#### [What we know about the  Flydubai flight to Israel](https://www.ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-30 17:15
+
+#### [Don’t own bonds and be cautious with stocks](https://www.ft.com/content/c05f3ba5-e24e-4c88-86ed-04f4b229cd15)
+**发布时间**: 2026-09-30 15:53
 
 ---
 

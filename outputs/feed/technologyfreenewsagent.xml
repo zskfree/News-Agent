@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Sep 2026 10:59:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 10:59:56 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 01:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:52:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从9.15亿卖医疗到5亿买液冷，科森科技资产腾挪收两封监管函 | 并购一线</title>
-      <link>https://www.tmtpost.com/8157193.html</link>
-      <description>&lt;![CDATA[从9.15亿卖医疗到5亿买液冷，科森科技资产腾挪收两封监管函 | 并购一线]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157193.html</guid>
+      <title>007的忧思：人类永远恐惧科技之恶</title>
+      <link>https://www.tmtpost.com/8157557.html</link>
+      <description>&lt;![CDATA[007的忧思：人类永远恐惧科技之恶]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157557.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/ZBXXP1BuZMIGusWyQZvB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZBXXP1BuZMIGusWyQZvB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来</title>
+      <link>https://www.tmtpost.com/8157219.html</link>
+      <description>&lt;![CDATA[Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 20:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157219.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%</title>
-      <link>https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库</title>
+      <link>https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 19:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一个忘关的开关，与企业Agent的全栈技术账单</title>
-      <link>https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一个忘关的开关，与企业Agent的全栈技术账单]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 12:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“宁王”座下，车企的三次大撤退</title>
+      <link>https://www.tmtpost.com/8157559.html</link>
+      <description>&lt;![CDATA[“宁王”座下，车企的三次大撤退]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157559.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海</title>
-      <link>https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从宁夏到新疆，中国葡萄酒好起来了？</title>
+      <link>https://www.tmtpost.com/8157627.html</link>
+      <description>&lt;![CDATA[从宁夏到新疆，中国葡萄酒好起来了？]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157627.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MCN大佬王傲延资本玩法复刻，“白兔系”入局龙大美食重整</title>
+      <link>https://www.tmtpost.com/8157558.html</link>
+      <description>&lt;![CDATA[MCN大佬王傲延资本玩法复刻，“白兔系”入局龙大美食重整]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157558.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>砸200亿搞换电后，蔚来为何与吉利“联姻”？</title>
-      <link>https://www.tmtpost.com/8156496.html</link>
-      <description>&lt;![CDATA[砸200亿搞换电后，蔚来为何与吉利“联姻”？]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156496.html</guid>
+      <title>5年亏超700亿后，“环京地产一哥”等来“白衣骑士”</title>
+      <link>https://www.tmtpost.com/8157462.html</link>
+      <description>&lt;![CDATA[5年亏超700亿后，“环京地产一哥”等来“白衣骑士”]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157462.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂们正在集体抢滩“AI个人助理”</title>
-      <link>https://www.tmtpost.com/8157250.html</link>
-      <description>&lt;![CDATA[大厂们正在集体抢滩“AI个人助理”]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157250.html</guid>
+      <title>销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？</title>
+      <link>https://www.tmtpost.com/8157612.html</link>
+      <description>&lt;![CDATA[销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157612.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>抄底蔚来换电网络，吉利做的一手好买卖</title>
-      <link>https://www.tmtpost.com/8156442.html</link>
-      <description>&lt;![CDATA[抄底蔚来换电网络，吉利做的一手好买卖]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156442.html</guid>
+      <title>实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体</title>
+      <link>https://www.tmtpost.com/8157453.html</link>
+      <description>&lt;![CDATA[实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157453.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？</title>
-      <link>https://www.tmtpost.com/8156755.html</link>
-      <description>&lt;![CDATA[国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156755.html</guid>
+      <title>8200个项目在排队，AI基建卡在了最后一道关口</title>
+      <link>https://www.tmtpost.com/8157619.html</link>
+      <description>&lt;![CDATA[8200个项目在排队，AI基建卡在了最后一道关口]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157619.html</guid>
       <category>Technology</category>
     </item>
   </channel>

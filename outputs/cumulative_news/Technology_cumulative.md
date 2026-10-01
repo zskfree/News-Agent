@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-30 10:59
+**最后更新时间**: 2026-10-01 01:52
+
+---
+
+## 🆕 最新更新 (2026-10-01 01:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“宁王”座下，车企的三次大撤退](https://www.tmtpost.com/8157559.html)
+**发布时间**: 2026-10-01 09:22
+
+#### [从宁夏到新疆，中国葡萄酒好起来了？](https://www.tmtpost.com/8157627.html)
+**发布时间**: 2026-10-01 09:21
+
+#### [MCN大佬王傲延资本玩法复刻，“白兔系”入局龙大美食重整](https://www.tmtpost.com/8157558.html)
+**发布时间**: 2026-10-01 09:15
+
+#### [007的忧思：人类永远恐惧科技之恶](https://www.tmtpost.com/8157557.html)
+**发布时间**: 2026-10-01 09:09
+
+#### [影视业迎来AI大考](https://www.tmtpost.com/8157488.html)
+**发布时间**: 2026-10-01 09:03
+
+#### [5年亏超700亿后，“环京地产一哥”等来“白衣骑士”](https://www.tmtpost.com/8157462.html)
+**发布时间**: 2026-10-01 08:53
+
+#### [销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？](https://www.tmtpost.com/8157612.html)
+**发布时间**: 2026-10-01 08:46
+
+#### [实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体](https://www.tmtpost.com/8157453.html)
+**发布时间**: 2026-10-01 08:46
+
+#### [8200个项目在排队，AI基建卡在了最后一道关口](https://www.tmtpost.com/8157619.html)
+**发布时间**: 2026-10-01 08:43
+
+#### [流量生花的云包场，已经卷不动了](https://www.tmtpost.com/8157269.html)
+**发布时间**: 2026-10-01 08:42
+
+#### [千亿“镍王”归来，上市首日大涨206%，面临三重考验](https://www.tmtpost.com/8157262.html)
+**发布时间**: 2026-10-01 08:38
+
+#### [OpenAI、Meta、Manus同时下注，智能体 2.0 来了](https://www.tmtpost.com/8157335.html)
+**发布时间**: 2026-10-01 08:38
+
+#### [百亿私募大佬邱国鹭，8000万投资存储龙头](https://www.tmtpost.com/8157364.html)
+**发布时间**: 2026-10-01 08:08
+
+#### [解禁在前、收购在后：华之杰4亿并购是转型还是托市](https://www.tmtpost.com/8157486.html)
+**发布时间**: 2026-09-30 21:33
+
+#### [Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来](https://www.tmtpost.com/8157219.html)
+**发布时间**: 2026-09-30 20:50
+
+#### [2026金融街论坛年会将于10月19日在京开幕](https://www.tmtpost.com/8157454.html)
+**发布时间**: 2026-09-30 20:50
+
+#### [先陪伴还是先干活？家庭机器人的商业分岔路口 ｜出海参考](https://www.tmtpost.com/8157194.html)
+**发布时间**: 2026-09-30 20:17
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%](http://www.geekpark.net/news/372064)
+**发布时间**: 2026-10-01 08:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
+**发布时间**: 2026-09-30 22:32
+
+#### [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
+**发布时间**: 2026-09-30 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX](https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 20:40
+
+#### [GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项](https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 20:37
+
+#### [DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库](https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 19:40
+
+#### [像改文字一样改语音：火山引擎全新语音内容编辑模型](https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-30 19:39
 
 ---
 

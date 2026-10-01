@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-09-30 10:57
+**最后更新时间**: 2026-10-01 01:50
+
+---
+
+## 🆕 最新更新 (2026-10-01 01:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定](https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html)
+**发布时间**: 2026-09-30 22:00
+
+#### [AI办公进入「上下文战争」，百度如何出牌？](https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html)
+**发布时间**: 2026-09-30 19:50
+
+#### [DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！](https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html)
+**发布时间**: 2026-09-30 18:58
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000](https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/)
+**发布时间**: 2026-09-30 17:00
+
+#### [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/)
+**发布时间**: 2026-09-30 15:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Query claims in natural language with Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/)
+**发布时间**: 2026-09-30 15:37
+
+#### [Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances](https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/)
+**发布时间**: 2026-09-30 15:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜](https://www.qbitai.com/2026/09/499654.html)
+**发布时间**: 2026-09-30 14:03
+
+#### [直播回顾：工业AI的下一个机会在哪？](https://www.qbitai.com/2026/09/499605.html)
+**发布时间**: 2026-09-30 12:11
+
+#### [Anthropic，你是来给智谱打广告的吧！](https://www.qbitai.com/2026/09/499597.html)
+**发布时间**: 2026-09-30 10:04
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT Transit Lab to develop an AI platform for public transit agencies](https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930)
+**发布时间**: 2026-09-30 11:15
+
+#### [This game-playing AI is the new champ at Stratego](https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930)
+**发布时间**: 2026-09-30 11:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard)
+**发布时间**: 2026-09-30 00:00
 
 ---
 
