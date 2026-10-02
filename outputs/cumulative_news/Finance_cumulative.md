@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-01 11:27
+**最后更新时间**: 2026-10-02 02:07
+
+---
+
+## 🆕 最新更新 (2026-10-02 02:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s who’s joining the S&P 500 in the index’s latest shakeup](https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 00:14
+
+#### [This could be the worst year ever for Nike’s stock, with sales set to fall further](https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 00:13
+
+#### [The hidden silver lining of high interest rates: safer, cheaper retirement income](https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 21:27
+
+#### [The stock market is anything but normal right now — and these charts show it](https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 21:01
+
+#### [Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging](https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 20:58
+
+#### [Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?](https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 20:58
+
+#### [Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market](https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-01 20:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nike to cut jobs as it forecasts revenue decline in the coming year](https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 22:07
+
+#### [US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran](https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 21:20
+
+#### [US deploys thousands of troops to Middle East as Trump weighs strikes on Iran](https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 21:05
+
+#### [Top Fed official signals central bank will keep rates on hold in October](https://www.ft.com/content/e3a53272-385d-40a8-ac77-408f4c136f6f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 20:49
+
+#### [Accenture shares surge as consultancy confounds AI fears](https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 20:09
+
+#### [KPMG general counsel retires after Australia whistleblower scandal](https://www.ft.com/content/a559761c-ba97-451f-b97c-4379dfbc5878?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 20:05
+
+#### [Europe braces for ‘severe hybrid attacks’ from Russia, says Merz](https://www.ft.com/content/04992c30-21da-46f3-8b95-ca82b2791521?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 19:42
+
+#### [US mortgage rates jump the most in four years in blow to housing market](https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 19:41
+
+#### [Flydubai scare revives Israel’s hijacking trauma](https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 10:00
 
 ---
 

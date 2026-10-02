@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 01 Oct 2026 01:50:00 GMT</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 01:53:12 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:08:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定</title>
-      <link>https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html</link>
-      <description>&lt;![CDATA[昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 22:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html</guid>
+      <title>连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？</title>
+      <link>https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html</link>
+      <description>&lt;![CDATA[连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 09:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI办公进入「上下文战争」，百度如何出牌？</title>
-      <link>https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html</link>
-      <description>&lt;![CDATA[AI办公进入「上下文战争」，百度如何出牌？]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html</guid>
+      <title>How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast</title>
+      <link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</link>
+      <description>&lt;![CDATA[How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 23:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！</title>
-      <link>https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html</link>
-      <description>&lt;![CDATA[DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html</guid>
+      <title>Fall Into 25 New Games on GeForce NOW This October</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/</link>
+      <description>&lt;![CDATA[Fall Into 25 New Games on GeForce NOW This October]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000</title>
-      <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</link>
-      <description>&lt;![CDATA[NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</guid>
+      <title>Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment</title>
+      <link>https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</link>
+      <description>&lt;![CDATA[Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
-      <description>&lt;![CDATA[From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</guid>
+      <title>Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Query claims in natural language with Amazon Bedrock Knowledge Bases</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/</link>
-      <description>&lt;![CDATA[Query claims in natural language with Amazon Bedrock Knowledge Bases]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/</guid>
+      <title>Serve live, governed data in AI-built apps with Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/</link>
+      <description>&lt;![CDATA[Serve live, governed data in AI-built apps with Amazon Quick]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 19:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/</link>
-      <description>&lt;![CDATA[Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/</guid>
+      <title>Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/</link>
+      <description>&lt;![CDATA[Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜</title>
-      <link>https://www.qbitai.com/2026/09/499654.html</link>
-      <description>&lt;![CDATA[OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499654.html</guid>
+      <title>Implementing Multi-Environment Access for Claude Platform on AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/</link>
+      <description>&lt;![CDATA[Implementing Multi-Environment Access for Claude Platform on AWS]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>直播回顾：工业AI的下一个机会在哪？</title>
-      <link>https://www.qbitai.com/2026/09/499605.html</link>
-      <description>&lt;![CDATA[直播回顾：工业AI的下一个机会在哪？]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499605.html</guid>
+      <title>Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/</link>
+      <description>&lt;![CDATA[Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>MIT Transit Lab to develop an AI platform for public transit agencies</title>
-      <link>https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930</link>
-      <description>&lt;![CDATA[MIT Transit Lab to develop an AI platform for public transit agencies]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930</guid>
+      <title>How uniopen customized Amazon Nova to their retail moderation policies for production deployment</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/</link>
+      <description>&lt;![CDATA[How uniopen customized Amazon Nova to their retail moderation policies for production deployment]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/</guid>
       <category>Ai</category>
     </item>
   </channel>
