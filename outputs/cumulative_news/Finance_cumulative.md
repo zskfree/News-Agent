@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-02 02:07
+**最后更新时间**: 2026-10-02 10:56
+
+---
+
+## 🆕 最新更新 (2026-10-02 10:56)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now](https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 10:48
+
+#### [Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate](https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 10:25
+
+#### [Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager](https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 10:22
+
+#### [Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.](https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 09:25
+
+#### [‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?](https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 09:15
+
+#### [Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet](https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 09:07
+
+#### [Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million](https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump](https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 10:13
+
+#### [Goldman bought Shein shares worth $220mn after dismal IPO](https://www.ft.com/content/3f5483d1-31d7-4756-95a0-ce4a2c600519?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 08:32
+
+#### [Putin has told military leaders to abandon rules of war, Zelenskyy says](https://www.ft.com/content/c2ad4cd1-a08a-4f55-8d57-fa83dbfa98af?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 06:58
+
+#### [AI got smarter. The bills got harder to control](https://ig.ft.com/ai-tokens/?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:00
+
+#### [Trump’s short-sighted diesel gamble](https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:00
+
+#### [No, AI is not similar to the Manhattan Project](https://www.ft.com/content/7b8336a1-6ac4-4f55-a987-b5f7cf6f4983)
+**发布时间**: 2026-10-02 04:00
+
+#### [Quant hedge funds reap big gains from global bond sell-off](https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:00
+
+#### [Amazon seeks to offload $8bn of Nvidia chips to investors](https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:00
+
+#### [Europe should take Trump’s diesel ban seriously, if not literally](https://www.ft.com/content/a357ac2d-fead-4df2-a5cf-cf1aa94cf7a9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-01 17:25
 
 ---
 

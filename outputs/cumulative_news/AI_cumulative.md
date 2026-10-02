@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-02 02:05
+**最后更新时间**: 2026-10-02 10:55
+
+---
+
+## 🆕 最新更新 (2026-10-02 10:55)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗](https://www.qbitai.com/2026/10/500098.html)
+**发布时间**: 2026-10-02 07:34
+
+#### [丘成桐新论文致谢了GPT和Claude](https://www.qbitai.com/2026/10/499991.html)
+**发布时间**: 2026-10-02 07:27
+
+#### [arXiv最严新规！每人每月最多提交2篇，拒稿不退额度](https://www.qbitai.com/2026/10/499958.html)
+**发布时间**: 2026-10-02 06:46
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
+**发布时间**: 2026-10-02 04:01
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [3 Questions: A new resource to empower young entrepreneurs](https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002)
+**发布时间**: 2026-10-02 00:00
 
 ---
 

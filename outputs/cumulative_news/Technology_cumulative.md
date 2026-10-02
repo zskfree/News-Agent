@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-02 02:07
+**最后更新时间**: 2026-10-02 10:56
+
+---
+
+## 🆕 最新更新 (2026-10-02 10:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [大宗商品的权力博弈：谁在影响全球铜、石油和粮食价格？](https://www.tmtpost.com/8148614.html)
+**发布时间**: 2026-10-02 17:38
+
+#### [新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落](https://www.tmtpost.com/8158341.html)
+**发布时间**: 2026-10-02 17:38
+
+#### [11部电影扎堆国庆，黎叔、王长田争锋，谁在闷声发大财？](https://www.tmtpost.com/8155421.html)
+**发布时间**: 2026-10-02 17:38
+
+#### [Muse狂飙，龙虾退潮](https://www.tmtpost.com/8158280.html)
+**发布时间**: 2026-10-02 17:10
+
+#### [万万没想到！中国科幻，122岁啦](https://www.tmtpost.com/8158310.html)
+**发布时间**: 2026-10-02 17:10
+
+#### [AI杀不死咨询公司](https://www.tmtpost.com/8158278.html)
+**发布时间**: 2026-10-02 16:50
+
+#### [9月车市冷热分化：大盘承压，头部车企继续走强](https://www.tmtpost.com/8158147.html)
+**发布时间**: 2026-10-02 13:16
+
+#### [OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿](https://www.tmtpost.com/8158249.html)
+**发布时间**: 2026-10-02 10:32
+
+#### [曾获5亿美元估值！芳拓生物再闯港股，能否承受“基因治疗之重”？](https://www.tmtpost.com/8158178.html)
+**发布时间**: 2026-10-02 10:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
+**发布时间**: 2026-10-02 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出](https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-02 13:00
+
+#### [Graphify：整合代码库上下文，优化基于代理的软件工程](https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-02 10:00
+
+#### [别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海](https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-02 10:00
 
 ---
 
