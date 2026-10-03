@@ -3061,6 +3061,24 @@
         "link": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 02 Oct 2026 13:00:00 GMT",
         "first_seen": "2026-10-02T10:56:27.290782"
+      },
+      "4cb3f1587c26e48d8023f6fd332f622d58b4d7d6999ca6f9137449709db34ec0": {
+        "title": "Edge AI Daily 早报（10月3日）",
+        "link": "https://www.tmtpost.com/8158562.html",
+        "published_date": "Sat, 03 Oct 2026 09:30:00 GMT",
+        "first_seen": "2026-10-03T01:48:52.071387"
+      },
+      "67b346b3d22e3eb9f3dd05cc10891fe70e9c9d553793c7139f7bf929273ca006": {
+        "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文",
+        "link": "http://www.geekpark.net/news/372070",
+        "published_date": "Sat, 03 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-03T01:48:52.071400"
+      },
+      "b4980e3c3416bae84a54918f0eb7972fe8b8e16bc4393dc48cdd10248eff115a": {
+        "title": "AI杀不死咨询公司",
+        "link": "https://www.tmtpost.com/8158278.html",
+        "published_date": "Fri, 02 Oct 2026 16:50:00 GMT",
+        "first_seen": "2026-10-03T01:48:52.071403"
       }
     },
     "Finance": {
@@ -5967,6 +5985,66 @@
         "link": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
         "published_date": "Fri, 02 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-02T10:56:36.705069"
+      },
+      "ef81aecb8b43d2dcee173c8f23afbc405fa7a21c0cf3f293d9c0c101a3e336b0": {
+        "title": "Why does Anthropic’s IPO feel so weird?",
+        "link": "https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1",
+        "published_date": "Fri, 02 Oct 2026 15:21:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681906"
+      },
+      "861f05aead62055bff7cb20850813002802254543b76399a6474a64ef7fb396c": {
+        "title": "Why Western Digital and Seagate are seeing big stock drops today",
+        "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 22:42:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681915"
+      },
+      "8cbbd591b1cba8e416a11a74c6c64192d8a912fa160ca2138d31aadaea4c12c0": {
+        "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+        "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 22:29:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681917"
+      },
+      "9ec88033b7d54178e1d24b44507bb98d5ee1f49bd86c68b3af3a9f25c84d057e": {
+        "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+        "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 21:54:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681920"
+      },
+      "9cebaca92f46dd9b58fb50288745ad32fe710b938f29222afa0f12d6388e9eba": {
+        "title": "Why mixing politics with your stock portfolio might be costing you money",
+        "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 20:43:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681921"
+      },
+      "dcf1f49cc5af993de419b00f6ee685d2c9729153cf1b15f9364773e8a44f9285": {
+        "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+        "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 20:40:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681922"
+      },
+      "d69f8ff25258ba6f9b4f81d0c6d7c7fab753676f8e9ee8d0e968622e9a2cda63": {
+        "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+        "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 20:26:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681924"
+      },
+      "7a323550fe2fd39ed4d00661d6960214c3b59479bdf06c9ebd2305d9ef313571": {
+        "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+        "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 20:26:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681925"
+      },
+      "d4fa0af276e4e328d6e2842b2ca8890710c3a22376a930d197b0907eeb3f94ba": {
+        "title": "Saving your retirement could come down to this simple writing exercise",
+        "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 20:24:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681927"
+      },
+      "9a89648797dc6d04ff8a70ffe9fd43bc846ac46d5f378114eaadbf09d541ed24": {
+        "title": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
+        "link": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
+        "published_date": "Fri, 02 Oct 2026 21:03:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.681929"
       }
     },
     "Ai": {
@@ -8525,13 +8603,61 @@
         "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
         "published_date": "Fri, 02 Oct 2026 04:01:00 GMT",
         "first_seen": "2026-10-02T10:56:36.867816"
+      },
+      "c9562cc5f8ffc2e22a60e028a80d3d44e21eabbea19ca7f228875e6ea93d455c": {
+        "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+        "published_date": "Fri, 02 Oct 2026 15:48:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842790"
+      },
+      "a19650670ad19d2b60c0b7fe2f1b4afb6a42ec830ee6441e444ebf4f1254af94": {
+        "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+        "published_date": "Fri, 02 Oct 2026 15:46:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842816"
+      },
+      "977275f9254235033427e5ab68e3c11039bb33e44ca1a4a0b62c5c4baa2e6c70": {
+        "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+        "published_date": "Fri, 02 Oct 2026 15:44:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842818"
+      },
+      "b742ecd6ce34449d1f0d246319ba23581916337d9109dd0c16a153b81d430f08": {
+        "title": "Computational tools for society’s most complex challenges",
+        "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+        "published_date": "Fri, 02 Oct 2026 15:30:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842820"
+      },
+      "eb06120f7fad52205ad6dabddbb7e4cbb6fb13a6d58546a46a7438b14461387c": {
+        "title": "Documenting the tech worker movement",
+        "link": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+        "published_date": "Fri, 02 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842821"
+      },
+      "2c5426592a06aa74c6b1ee47113df401713559edf86a03511733faf382f3c112": {
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "link": "https://huggingface.co/blog/allenai/astabrief",
+        "published_date": "Fri, 02 Oct 2026 15:19:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842823"
+      },
+      "497118f433a187bd80dc51355ab9703e190e4c10aa1ebc19f4272ad1dc4ee150": {
+        "title": "Toward provably private learning from federated data",
+        "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+        "published_date": "Fri, 02 Oct 2026 14:57:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842824"
+      },
+      "dd29dcbbb9f90f79bdd7548169466557283854c9574a78bfa05c0e80d1aee1fb": {
+        "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+        "published_date": "Fri, 02 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-03T01:49:01.842825"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-02T10:56:27.290784",
-    "Finance": "2026-10-02T10:56:36.705071",
-    "Ai": "2026-10-02T10:56:36.867817"
+    "Technology": "2026-10-03T01:48:52.071406",
+    "Finance": "2026-10-03T01:49:01.681931",
+    "Ai": "2026-10-03T01:49:01.842827"
   }
 }

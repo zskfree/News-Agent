@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-02 10:55
+**最后更新时间**: 2026-10-03 01:46
+
+---
+
+## 🆕 最新更新 (2026-10-03 01:46)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/)
+**发布时间**: 2026-10-02 15:48
+
+#### [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-02 15:46
+
+#### [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-10-02 15:44
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Computational tools for society’s most complex challenges](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002)
+**发布时间**: 2026-10-02 15:30
+
+#### [Documenting the tech worker movement](https://news.mit.edu/2026/documenting-tech-worker-movement-0918)
+**发布时间**: 2026-10-02 13:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief)
+**发布时间**: 2026-10-02 15:19
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/)
+**发布时间**: 2026-10-02 14:57
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/)
+**发布时间**: 2026-10-02 13:00
 
 ---
 

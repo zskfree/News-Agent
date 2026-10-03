@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Oct 2026 10:55:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 10:56:36 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 01:46:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:49:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗</title>
-      <link>https://www.qbitai.com/2026/10/500098.html</link>
-      <description>&lt;![CDATA[openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗]]&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 07:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/500098.html</guid>
+      <title>Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/</link>
+      <description>&lt;![CDATA[Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 15:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>丘成桐新论文致谢了GPT和Claude</title>
-      <link>https://www.qbitai.com/2026/10/499991.html</link>
-      <description>&lt;![CDATA[丘成桐新论文致谢了GPT和Claude]]&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 07:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499991.html</guid>
+      <title>Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>arXiv最严新规！每人每月最多提交2篇，拒稿不退额度</title>
-      <link>https://www.qbitai.com/2026/10/499958.html</link>
-      <description>&lt;![CDATA[arXiv最严新规！每人每月最多提交2篇，拒稿不退额度]]&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 06:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/499958.html</guid>
+      <title>Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 15:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-      <description>&lt;![CDATA[AutoSynthData: Generating Training Data for Enterprise Agents]]&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+      <title>Computational tools for society’s most complex challenges</title>
+      <link>https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002</link>
+      <description>&lt;![CDATA[Computational tools for society’s most complex challenges]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Documenting the tech worker movement</title>
+      <link>https://news.mit.edu/2026/documenting-tech-worker-movement-0918</link>
+      <description>&lt;![CDATA[Documenting the tech worker movement]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/documenting-tech-worker-movement-0918</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+      <link>https://huggingface.co/blog/allenai/astabrief</link>
+      <description>&lt;![CDATA[Open-sourcing AstaBrief, the fast report-generation model in Asta]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/allenai/astabrief</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Toward provably private learning from federated data</title>
+      <link>https://research.google/blog/toward-provably-private-learning-from-federated-data/</link>
+      <description>&lt;![CDATA[Toward provably private learning from federated data]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/toward-provably-private-learning-from-federated-data/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
+      <description>&lt;![CDATA[NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</guid>
       <category>Ai</category>
     </item>
   </channel>

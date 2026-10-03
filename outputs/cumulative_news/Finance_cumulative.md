@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-02 10:56
+**最后更新时间**: 2026-10-03 01:48
+
+---
+
+## 🆕 最新更新 (2026-10-03 01:48)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Western Digital and Seagate are seeing big stock drops today](https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 22:42
+
+#### [Tesla sold a lot more EVs than Wall Street expected, and the stock is surging](https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 22:29
+
+#### [Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s](https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 21:54
+
+#### [Why mixing politics with your stock portfolio might be costing you money](https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 20:43
+
+#### [Does AI have a soul? Pope Leo and Anthropic clash.](https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 20:40
+
+#### [Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms](https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 20:26
+
+#### [This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers](https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 20:26
+
+#### [Saving your retirement could come down to this simple writing exercise](https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-02 20:24
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US justice department will not reopen criminal probe of Fed’s Jay Powell](https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 21:03
+
+#### [US backs down from fuel export ban threat as G7 agrees to release 100mn barrels](https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 20:31
+
+#### [US economy adds just 29,000 jobs in September as hiring slows sharply](https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 20:05
+
+#### [Arctic sea routes boom as Gulf war and global warming divert shipping](https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 20:00
+
+#### [Low-profile hedge fund smashes record for New York office rent](https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 18:31
+
+#### [Eurozone inflation hits three-year high of 3.8%](https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 15:45
+
+#### [Why does Anthropic’s IPO feel so weird?](https://www.ft.com/content/69d2d0ec-c0d4-444f-84c5-4ca4f64b7899?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 15:21
+
+#### [My mortgage is a problem for the Fed, and for America](https://www.ft.com/content/9f960533-9cd7-4475-aed0-17f09fdc28fd?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 11:09
+
+#### [Black voters rally against redrawn electoral maps](https://www.ft.com/content/83e9a7cb-95b4-48a8-9cdc-88d3fa8f03c0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:15
+
+#### [US refiners reap windfall profits as wars push up fuel prices for consumers](https://www.ft.com/content/118785e7-8637-46ad-a60c-286e51370848?syn-25a6b1a6=1)
+**发布时间**: 2026-10-02 04:00
 
 ---
 
