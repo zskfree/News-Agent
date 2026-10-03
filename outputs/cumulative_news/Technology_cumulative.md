@@ -1,7 +1,45 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-03 01:48
+**最后更新时间**: 2026-10-03 10:16
+
+---
+
+## 🆕 最新更新 (2026-10-03 10:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI正在造AI](https://www.tmtpost.com/8158706.html)
+**发布时间**: 2026-10-03 17:33
+
+#### [华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼](https://www.tmtpost.com/8158693.html)
+**发布时间**: 2026-10-03 17:33
+
+#### [国庆出游用AI，第一批人已经被坑惨了](https://www.tmtpost.com/8158647.html)
+**发布时间**: 2026-10-03 15:19
+
+#### [国庆开电车，车主们集体兼职“调度员”](https://www.tmtpost.com/8158629.html)
+**发布时间**: 2026-10-03 13:47
+
+#### [苏姿丰抬头，李飞飞低头](https://www.tmtpost.com/8158564.html)
+**发布时间**: 2026-10-03 09:42
+
+#### [大模型一体机，开始缩水了](https://www.tmtpost.com/8158443.html)
+**发布时间**: 2026-10-03 09:38
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
+**发布时间**: 2026-10-03 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 定律：今天有个 xxx 刷屏，明天就有个 Openxxx 登上开源热榜。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537495&idx=1&sn=803c312533d9b69a993cfa4e89cc5ee2)
+**发布时间**: 2026-10-03 10:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海](https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-03 10:00
 
 ---
 

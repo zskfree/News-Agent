@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-03 01:48
+**最后更新时间**: 2026-10-03 10:16
+
+---
+
+## 🆕 最新更新 (2026-10-03 10:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China launches anti-dumping probe into European chemical exports](https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 09:26
+
+#### [How airlines try to weed out rogue pilots](https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 08:05
+
+#### [Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight](https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 08:01
+
+#### [China, America and the new Great Game](https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 04:00
+
+#### [A Londoner’s guide to hating London](https://www.ft.com/content/c8407fb6-6134-4b2c-a428-d3a998873383)
+**发布时间**: 2026-10-03 04:00
+
+#### [The right and wrong lessons to learn from Spain’s housing crisis](https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 04:00
+
+#### [Zelenskyy asked Trump to block Russia and China’s Starlink rival](https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 04:00
+
+#### [SkyNet satellite battle tests UK pledge to ‘buy British’](https://www.ft.com/content/cc8ac63c-9b03-4efc-b9e5-b90f513ba565?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 04:00
 
 ---
 
