@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-03 10:16
+**最后更新时间**: 2026-10-04 02:29
+
+---
+
+## 🆕 最新更新 (2026-10-04 02:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.](https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories)
+**发布时间**: 2026-10-04 00:02
+
+#### [These bond strategies can help you get a safe 5% return on your cash](https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-03 18:49
+
+#### [A tough job market is pushing more young Americans to make a big bet: on themselves](https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories)
+**发布时间**: 2026-10-03 17:24
+
+#### [Switching jobs to get higher pay works best in these industries](https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-03 16:42
+
+#### [The No. 1 mistake beginners make with travel cards, according to The Points Guy](https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories)
+**发布时间**: 2026-10-03 15:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Temu’s UK sales more than double to $171mn](https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 13:54
+
+#### [The town where 94% voted for Lula — and some now waver](https://www.ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1)
+**发布时间**: 2026-10-03 11:00
 
 ---
 

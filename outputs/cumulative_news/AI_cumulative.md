@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-03 10:15
+**最后更新时间**: 2026-10-04 02:27
+
+---
+
+## 🆕 最新更新 (2026-10-04 02:27)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元](https://www.qbitai.com/2026/10/501451.html)
+**发布时间**: 2026-10-04 00:53
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
+**发布时间**: 2026-10-03 22:56
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学](https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html)
+**发布时间**: 2026-10-03 19:39
+
+#### [再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万](https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html)
+**发布时间**: 2026-10-03 18:12
 
 ---
 

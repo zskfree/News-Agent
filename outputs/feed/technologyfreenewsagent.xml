@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Oct 2026 10:16:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 10:16:26 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 02:29:00 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:29:13 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,75 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI正在造AI</title>
-      <link>https://www.tmtpost.com/8158706.html</link>
-      <description>&lt;![CDATA[AI正在造AI]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158706.html</guid>
+      <title>Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海</title>
+      <link>https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼</title>
-      <link>https://www.tmtpost.com/8158693.html</link>
-      <description>&lt;![CDATA[华尔街量化新王：人均年薪1800万，豪掷18.3亿香港租楼]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158693.html</guid>
+      <title>李飞飞不等了</title>
+      <link>https://www.tmtpost.com/8158797.html</link>
+      <description>&lt;![CDATA[李飞飞不等了]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 08:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158797.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国庆出游用AI，第一批人已经被坑惨了</title>
-      <link>https://www.tmtpost.com/8158647.html</link>
-      <description>&lt;![CDATA[国庆出游用AI，第一批人已经被坑惨了]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158647.html</guid>
+      <title>Edge AI Daily 早报（10月4日）</title>
+      <link>https://www.tmtpost.com/8158829.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（10月4日）]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158829.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国庆开电车，车主们集体兼职“调度员”</title>
-      <link>https://www.tmtpost.com/8158629.html</link>
-      <description>&lt;![CDATA[国庆开电车，车主们集体兼职“调度员”]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158629.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>苏姿丰抬头，李飞飞低头</title>
-      <link>https://www.tmtpost.com/8158564.html</link>
-      <description>&lt;![CDATA[苏姿丰抬头，李飞飞低头]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158564.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大模型一体机，开始缩水了</title>
-      <link>https://www.tmtpost.com/8158443.html</link>
-      <description>&lt;![CDATA[大模型一体机，开始缩水了]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158443.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验</title>
-      <link>https://sspai.com/post/114922</link>
-      <description>&lt;![CDATA[TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114922</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GitHub 定律：今天有个 xxx 刷屏，明天就有个 Openxxx 登上开源热榜。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537495&amp;idx=1&amp;sn=803c312533d9b69a993cfa4e89cc5ee2</link>
-      <description>&lt;![CDATA[GitHub 定律：今天有个 xxx 刷屏，明天就有个 Openxxx 登上开源热榜。]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537495&amp;idx=1&amp;sn=803c312533d9b69a993cfa4e89cc5ee2</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海</title>
-      <link>https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372073</link>
+      <description>&lt;![CDATA[苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372073</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-03 10:16
+**最后更新时间**: 2026-10-04 02:29
+
+---
+
+## 🆕 最新更新 (2026-10-04 02:29)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海](https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-04 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [李飞飞不等了](https://www.tmtpost.com/8158797.html)
+**发布时间**: 2026-10-04 08:38
+
+#### [Edge AI Daily 早报（10月4日）](https://www.tmtpost.com/8158829.html)
+**发布时间**: 2026-10-04 07:50
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道](http://www.geekpark.net/news/372073)
+**发布时间**: 2026-10-04 08:33
 
 ---
 
