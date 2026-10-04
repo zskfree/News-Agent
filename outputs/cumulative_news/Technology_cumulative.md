@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-04 02:29
+**最后更新时间**: 2026-10-04 11:02
+
+---
+
+## 🆕 最新更新 (2026-10-04 11:02)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin](https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-04 18:39
+
+#### [Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere](https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-04 17:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
+**发布时间**: 2026-10-04 15:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」](http://www.geekpark.net/news/372075)
+**发布时间**: 2026-10-04 13:27
+
+#### [Claude Code 的「乐高」模式，让程序员彻底玩「上头」了](http://www.geekpark.net/news/372074)
+**发布时间**: 2026-10-04 13:16
 
 ---
 

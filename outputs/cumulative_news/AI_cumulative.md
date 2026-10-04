@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-04 02:27
+**最后更新时间**: 2026-10-04 10:57
+
+---
+
+## 🆕 最新更新 (2026-10-04 10:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！](https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html)
+**发布时间**: 2026-10-04 13:48
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy](https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/)
+**发布时间**: 2026-10-04 07:29
+
+#### [Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters](https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/)
+**发布时间**: 2026-10-04 07:01
+
+#### [DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness](https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/)
+**发布时间**: 2026-10-04 04:49
+
+#### [Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine](https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/)
+**发布时间**: 2026-10-04 00:19
+
+#### [Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?](https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/)
+**发布时间**: 2026-10-03 07:05
+
+#### [IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code](https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/)
+**发布时间**: 2026-10-03 06:55
+
+#### [Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models](https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/)
+**发布时间**: 2026-10-03 05:37
+
+#### [Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis](https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/)
+**发布时间**: 2026-10-03 05:09
+
+#### [Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors](https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/)
+**发布时间**: 2026-10-03 03:31
+
+#### [NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference](https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/)
+**发布时间**: 2026-10-02 18:04
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI算力硬合作，马斯克还是更相信中国制造](https://www.qbitai.com/2026/10/501605.html)
+**发布时间**: 2026-10-04 06:12
+
+#### [最火AI岗位FDE：月薪5万，都干这些…](https://www.qbitai.com/2026/10/501506.html)
+**发布时间**: 2026-10-04 06:05
 
 ---
 

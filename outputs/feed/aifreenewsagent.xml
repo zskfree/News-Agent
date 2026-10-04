@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 04 Oct 2026 02:27:00 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 02:29:14 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:02:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元</title>
-      <link>https://www.qbitai.com/2026/10/501451.html</link>
-      <description>&lt;![CDATA[GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 00:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501451.html</guid>
+      <title>《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！</title>
+      <link>https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html</link>
+      <description>&lt;![CDATA[《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <description>&lt;![CDATA[The Agent Said It Was Done. The Database Disagreed.]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 22:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox</guid>
+      <title>Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy</title>
+      <link>https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/</link>
+      <description>&lt;![CDATA[Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 07:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学</title>
-      <link>https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html</link>
-      <description>&lt;![CDATA[《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 19:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html</guid>
+      <title>Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters</title>
+      <link>https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/</link>
+      <description>&lt;![CDATA[Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 07:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万</title>
-      <link>https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html</link>
-      <description>&lt;![CDATA[再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万]]&gt;</description>
-      <pubDate>Sat, 03 Oct 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html</guid>
+      <title>DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness</title>
+      <link>https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/</link>
+      <description>&lt;![CDATA[DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 04:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI算力硬合作，马斯克还是更相信中国制造</title>
+      <link>https://www.qbitai.com/2026/10/501605.html</link>
+      <description>&lt;![CDATA[AI算力硬合作，马斯克还是更相信中国制造]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 06:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501605.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>最火AI岗位FDE：月薪5万，都干这些…</title>
+      <link>https://www.qbitai.com/2026/10/501506.html</link>
+      <description>&lt;![CDATA[最火AI岗位FDE：月薪5万，都干这些…]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 06:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501506.html</guid>
       <category>Ai</category>
     </item>
   </channel>

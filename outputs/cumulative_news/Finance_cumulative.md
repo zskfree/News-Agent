@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-04 02:29
+**最后更新时间**: 2026-10-04 11:02
+
+---
+
+## 🆕 最新更新 (2026-10-04 11:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Why the IPO market is booming and busting](https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62)
+**发布时间**: 2026-10-04 09:29
+
+#### [Australian authorities probe Flydubai attacker’s links to the country](https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329)
+**发布时间**: 2026-10-04 09:25
+
+#### [Wall Street’s IPO fervour cools on tepid demand and valuation worries](https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 04:01
+
+#### [Dear all: how bosses should talk to the troops](https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 04:00
+
+#### [Today’s youth would like to give back modernity, thank you very much](https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 04:00
+
+#### [How 60,000 Polish number plates exposed Italy’s tax allergy](https://www.ft.com/content/74e70f0c-3788-4343-93d7-9c8740ee28b6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 04:00
+
+#### [Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet](https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 04:00
+
+#### [China closes hundreds of banks to bolster financial system](https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 02:00
 
 ---
 

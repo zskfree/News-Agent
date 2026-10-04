@@ -3157,6 +3157,36 @@
         "link": "http://www.geekpark.net/news/372073",
         "published_date": "Sun, 04 Oct 2026 08:33:00 GMT",
         "first_seen": "2026-10-04T02:29:13.883725"
+      },
+      "cdb7fa8eb4b6e0545ec23348b26544133926a6275f59531348929db0b7c8c207": {
+        "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
+        "link": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Oct 2026 18:39:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.286147"
+      },
+      "79092767a0f2b8054551e77bb5c37bcb57c91f3a3ec1a20a3337eb6e07761095": {
+        "title": "Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere",
+        "link": "https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Oct 2026 17:33:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.286157"
+      },
+      "c5461e567303f50d6a3705b0ac505f57eab6e9fcb313bcabe3c68ba41f684b9a": {
+        "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+        "link": "https://sspai.com/post/115308",
+        "published_date": "Sun, 04 Oct 2026 15:58:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.286159"
+      },
+      "51711a8bf6d0c0fd51a3b702e5741bc7c790532a0d05356c6e9cee58b962cf4d": {
+        "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+        "link": "http://www.geekpark.net/news/372075",
+        "published_date": "Sun, 04 Oct 2026 13:27:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.286161"
+      },
+      "5df0175f1c5263a2a936d743626e41daefbca0f0671dddc531739372d481f8f1": {
+        "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
+        "link": "http://www.geekpark.net/news/372074",
+        "published_date": "Sun, 04 Oct 2026 13:16:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.286162"
       }
     },
     "Finance": {
@@ -6213,6 +6243,48 @@
         "link": "https://www.ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1",
         "published_date": "Sat, 03 Oct 2026 11:00:00 GMT",
         "first_seen": "2026-10-04T02:29:13.938449"
+      },
+      "a949b9d8b1e39b2e729349e140b91b8797999d66f09256b958bd5c147452d143": {
+        "title": "Why the IPO market is booming and busting",
+        "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+        "published_date": "Sun, 04 Oct 2026 09:29:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330446"
+      },
+      "308e431f191504f3cc4eeecf878cd2add95ff68c581e61f5d72b89b1b1bb8fe6": {
+        "title": "Australian authorities probe Flydubai attacker’s links to the country",
+        "link": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+        "published_date": "Sun, 04 Oct 2026 09:25:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330452"
+      },
+      "d1e1da1e607da6d951de3aae6cd9e7c8c8aef769a744ac25ad98eca56e163bfb": {
+        "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
+        "link": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 04:01:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330454"
+      },
+      "fd192cb29d4a4c09a7fdd2843daa1d59a4a47efc6a4788485f338e3e31e1abe2": {
+        "title": "Dear all: how bosses should talk to the troops",
+        "link": "https://www.ft.com/content/de27e183-c8ab-4098-946b-7c1faf5a3d8a?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330455"
+      },
+      "1cc3c35f9c01864518ca75bb327ff57930bde2aad55a857dd8ea3ee69dc46d55": {
+        "title": "Today’s youth would like to give back modernity, thank you very much",
+        "link": "https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330456"
+      },
+      "eaa80d668fed0453ba25de6ca2f2f68163a992280ee66e138a8c0bd9e8e4def3": {
+        "title": "How 60,000 Polish number plates exposed Italy’s tax allergy",
+        "link": "https://www.ft.com/content/74e70f0c-3788-4343-93d7-9c8740ee28b6?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330458"
+      },
+      "a9f61cd9c54185ab31b51aaafa78ac074bc0fe7fd8abca39e4050e95ff4aa2ce": {
+        "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+        "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.330459"
       }
     },
     "Ai": {
@@ -8861,13 +8933,49 @@
         "link": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
         "published_date": "Sat, 03 Oct 2026 18:12:00 GMT",
         "first_seen": "2026-10-04T02:29:14.087574"
+      },
+      "7e8fd8b54b3caf45337639951b6ca509ee828d3a286993b86f2304cd793e5ec9": {
+        "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
+        "link": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
+        "published_date": "Sun, 04 Oct 2026 13:48:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450621"
+      },
+      "b4be8735aabdb2297a080d801fa1cbccd2fb7c48c71d593a450708004b0aeb7b": {
+        "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+        "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+        "published_date": "Sun, 04 Oct 2026 07:29:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450628"
+      },
+      "aeaf88aeb09c5aa788c3e69c6d38240b03401c6dfb385c147e66dd11057476e5": {
+        "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+        "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+        "published_date": "Sun, 04 Oct 2026 07:01:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450629"
+      },
+      "ef256cf3ec53036e42c500e627e4212a0a0fd206bc73a43205362c9ec6dc9b6a": {
+        "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+        "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+        "published_date": "Sun, 04 Oct 2026 04:49:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450630"
+      },
+      "7fa046c286b0313f94da5f39d1efbb6727b6ed5f0a5f4de2df1466454864aaad": {
+        "title": "AI算力硬合作，马斯克还是更相信中国制造",
+        "link": "https://www.qbitai.com/2026/10/501605.html",
+        "published_date": "Sun, 04 Oct 2026 06:12:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450631"
+      },
+      "2dc8f0c5d544b3d7d89f83bbf5a6f85d8e40908050deeb9290c1e722f9bc44c0": {
+        "title": "最火AI岗位FDE：月薪5万，都干这些…",
+        "link": "https://www.qbitai.com/2026/10/501506.html",
+        "published_date": "Sun, 04 Oct 2026 06:05:00 GMT",
+        "first_seen": "2026-10-04T11:02:20.450632"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-04T02:29:13.883727",
-    "Finance": "2026-10-04T02:29:13.938452",
-    "Ai": "2026-10-04T02:29:14.087577"
+    "Technology": "2026-10-04T11:02:20.286164",
+    "Finance": "2026-10-04T11:02:20.330460",
+    "Ai": "2026-10-04T11:02:20.450633"
   }
 }
