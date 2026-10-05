@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-05 01:43
+**最后更新时间**: 2026-10-05 12:07
+
+---
+
+## 🆕 最新更新 (2026-10-05 12:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这个国庆，第一批机器人员工已经上岗](https://www.tmtpost.com/8159586.html)
+**发布时间**: 2026-10-05 18:08
+
+#### [纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资](https://www.tmtpost.com/8159517.html)
+**发布时间**: 2026-10-05 17:36
+
+#### [快手的视频Agent，会不会来晚了？](https://www.tmtpost.com/8159522.html)
+**发布时间**: 2026-10-05 17:36
+
+#### [AI面试官，放过打工人吧](https://www.tmtpost.com/8159479.html)
+**发布时间**: 2026-10-05 15:53
+
+#### [机房紧缺，资本反而开始“挑剔”数据中心？](https://www.tmtpost.com/8159481.html)
+**发布时间**: 2026-10-05 15:43
+
+#### [马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI](https://www.tmtpost.com/8159476.html)
+**发布时间**: 2026-10-05 15:38
+
+#### [AI耳机蓄势，芯片厂商待发](https://www.tmtpost.com/8159480.html)
+**发布时间**: 2026-10-05 15:32
+
+#### [硅谷AI，正在开源](https://www.tmtpost.com/8159477.html)
+**发布时间**: 2026-10-05 15:32
+
+#### [全球IPO市场透视：融资盛宴与破发寒流并存的第三季](https://www.tmtpost.com/8159361.html)
+**发布时间**: 2026-10-05 14:27
+
+#### [黄酒到底要上主桌，还是进冰箱？](https://www.tmtpost.com/8159420.html)
+**发布时间**: 2026-10-05 14:27
+
+#### [假期人格图鉴：年轻人成了「排表人」](https://www.tmtpost.com/8159398.html)
+**发布时间**: 2026-10-05 14:27
+
+#### [在低迷的行业里暴富：公狗剧场靠“男色经济”，一年狂卖1个亿](https://www.tmtpost.com/8150262.html)
+**发布时间**: 2026-10-05 12:08
+
+#### [定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？](https://www.tmtpost.com/8150494.html)
+**发布时间**: 2026-10-05 12:08
+
+#### [董宇辉已成往事，俞敏洪和陈行甲渐入佳境](https://www.tmtpost.com/8159123.html)
+**发布时间**: 2026-10-05 12:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI，为什么总在画美女？](http://www.geekpark.net/news/372084)
+**发布时间**: 2026-10-05 17:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云](https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-05 14:00
+
+#### [Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB](https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-05 10:00
+
+#### [DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海](https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-05 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
+**发布时间**: 2026-10-05 10:59
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 20 个 9 月份 GitHub 上顶顶顶的开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537550&idx=1&sn=29715a80ebde4036ab57651905d6bc3f)
+**发布时间**: 2026-10-05 10:13
 
 ---
 

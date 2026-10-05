@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Oct 2026 01:41:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 01:43:48 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 12:05:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:07:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job</title>
-      <link>https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/</link>
-      <description>&lt;![CDATA[GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 20:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/</guid>
+      <title>Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade</title>
+      <link>https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/</link>
+      <description>&lt;![CDATA[Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 08:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T</title>
+      <link>https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</link>
+      <description>&lt;![CDATA[The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 04:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks</title>
+      <link>https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</link>
+      <description>&lt;![CDATA[Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 01:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，Hinton发了首篇RSI论文</title>
+      <link>https://www.qbitai.com/2026/10/501705.html</link>
+      <description>&lt;![CDATA[刚刚，Hinton发了首篇RSI论文]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 04:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501705.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus</title>
+      <link>https://www.qbitai.com/2026/10/501700.html</link>
+      <description>&lt;![CDATA[限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 02:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501700.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-05日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-05/</link>
+      <description>&lt;![CDATA[2026-10-05日刊]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 03:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-05/</guid>
       <category>Ai</category>
     </item>
   </channel>

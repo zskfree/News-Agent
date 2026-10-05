@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-05 01:43
+**最后更新时间**: 2026-10-05 12:07
+
+---
+
+## 🆕 最新更新 (2026-10-05 12:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.](https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 11:40
+
+#### [Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit](https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 11:27
+
+#### [An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.](https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 11:19
+
+#### [Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?](https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 10:46
+
+#### [What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark](https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 10:39
+
+#### [The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.](https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 10:33
+
+#### [Micron’s historic cash bonanza is set to rain down on investors](https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 10:30
+
+#### [This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser](https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 09:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Putin’s nuclear threats no longer work](https://www.ft.com/content/b49f5459-92fc-4b91-92c4-d8f2a6f87893?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 11:38
+
+#### [Bond turbulence means it’s time for the ECB to put QT on hold](https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c)
+**发布时间**: 2026-10-05 10:22
+
+#### [Spanish prime minister Pedro Sánchez calls snap election](https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 09:00
+
+#### [Brazil’s Bolsonaro dynasty closes in on stunning comeback](https://www.ft.com/content/1ab64d24-0f32-4dc8-86b5-20d06e3b3588?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 08:49
+
+#### [Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’](https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 08:21
+
+#### [Flávio Bolsonaro takes commanding lead in Brazil election](https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 08:05
+
+#### [Euro slides to 17-month low against dollar](https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 07:43
+
+#### [Russia’s new drive to crush Ukraine](https://www.ft.com/content/cc96ac01-7929-4954-97a3-7b30e00ef324?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 04:00
+
+#### [Why a booming economy is not helping Trump](https://www.ft.com/content/8f4525eb-ce7c-4323-9dda-698aa1e8521a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 04:00
+
+#### [Estonia shifts troops closer to Russia in ‘active defence’ push](https://www.ft.com/content/0293497e-e4b5-473e-be49-67d1fc005fae?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 04:00
 
 ---
 

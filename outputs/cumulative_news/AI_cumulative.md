@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-05 01:41
+**最后更新时间**: 2026-10-05 12:05
+
+---
+
+## 🆕 最新更新 (2026-10-05 12:05)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade](https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/)
+**发布时间**: 2026-10-05 08:10
+
+#### [The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T](https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/)
+**发布时间**: 2026-10-05 04:10
+
+#### [Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks](https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/)
+**发布时间**: 2026-10-05 01:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，Hinton发了首篇RSI论文](https://www.qbitai.com/2026/10/501705.html)
+**发布时间**: 2026-10-05 04:42
+
+#### [限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus](https://www.qbitai.com/2026/10/501700.html)
+**发布时间**: 2026-10-05 02:50
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-05日刊](https://hex2077.dev/docs/2026-10/2026-10-05/)
+**发布时间**: 2026-10-05 03:22
 
 ---
 
