@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-04 11:02
+**最后更新时间**: 2026-10-05 01:43
+
+---
+
+## 🆕 最新更新 (2026-10-05 01:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Flávio Bolsonaro takes lead in first round of Brazil election](https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 00:22
+
+#### [US recalls B-1 bombers from UK air base following alleged terror plot](https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 22:24
+
+#### [Schneider Electric nears deal to buy software group PTC for $20bn](https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 21:51
+
+#### [Bull run for Japan stocks at risk, warns boss of biggest trading house](https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 21:00
+
+#### [Dealmaking slowdown threatens early end to M&A boom](https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 20:00
+
+#### [The US is looking more like Italy](https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 12:00
+
+#### [Legal risks pile up for Altman as OpenAI uncovers dozens of hacks](https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-04 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Corporate America has never been this upbeat about future profits](https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-04 14:00
+
+#### [October can be a scary month for stocks. Here’s what investors need to watch this year.](https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories)
+**发布时间**: 2026-10-04 13:00
+
+#### [Fed minutes coming this week could give markets important clues about future rate hikes](https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-04 12:00
 
 ---
 
