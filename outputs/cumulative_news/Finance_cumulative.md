@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-06 02:46
+**最后更新时间**: 2026-10-06 11:52
+
+---
+
+## 🆕 最新更新 (2026-10-06 11:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I got a $499 body scan to see if I have cancer. Here’s what I learned.](https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 11:21
+
+#### [Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.](https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 11:15
+
+#### [Should I put my nest egg in a 30-year Treasury bond?](https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 10:00
+
+#### [Elon Musk’s wealth surpasses $1 trillion — making it higher than these countries’ GDPs](https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 09:56
+
+#### [Michael Burry says he’s sold out of his top holding — for now](https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 09:42
+
+#### [The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.](https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 09:20
+
+#### [My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?](https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 09:16
+
+#### [Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash](https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 09:06
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [California’s oligarch tax would change America](https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 11:01
+
+#### [Former German spy chief arrested for treason](https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 10:34
+
+#### [Palmer Luckey’s Erebor surges to more than $7bn in deposits since launch](https://www.ft.com/content/42b6fa88-f730-4f8a-a194-8f53d0759aaf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 10:00
+
+#### [Flydubai attacker received flight training in New Zealand](https://www.ft.com/content/04cac391-0379-4a97-a7fd-354b613f661f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 07:16
+
+#### [Surge in borrowing costs hits corporate America](https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 04:00
+
+#### [The bond market turns on France](https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 04:00
+
+#### [Sleep has always been a class issue](https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 04:00
+
+#### [German far right set to secure first-ever regional parliament president](https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 04:00
+
+#### [India’s bullet train tangle leaves Japan fuming](https://www.ft.com/content/daa3eb19-b6e8-455c-8ec0-9abc8e66751a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 01:42
 
 ---
 

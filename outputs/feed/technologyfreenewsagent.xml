@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Oct 2026 02:46:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 02:46:27 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 11:52:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:52:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件</title>
-      <link>https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>火箭发动机的“技术鄙视链”</title>
+      <link>https://www.tmtpost.com/8159826.html</link>
+      <description>&lt;![CDATA[火箭发动机的“技术鄙视链”]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159826.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海</title>
-      <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从依赖专家到开发者自助：一家银行的平台文化转型</title>
+      <link>https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从依赖专家到开发者自助：一家银行的平台文化转型]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7300亿美元押注之后，市场开始追问AI的回报</title>
-      <link>https://www.tmtpost.com/8159557.html</link>
-      <description>&lt;![CDATA[7300亿美元押注之后，市场开始追问AI的回报]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159557.html</guid>
+      <title>论AI从沙盒中逃逸的必然性</title>
+      <link>https://www.tmtpost.com/8159807.html</link>
+      <description>&lt;![CDATA[论AI从沙盒中逃逸的必然性]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159807.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>品牌资产贬值后，钟薛高、统一、香飘飘给出了三种答案</title>
-      <link>https://www.tmtpost.com/8159704.html</link>
-      <description>&lt;![CDATA[品牌资产贬值后，钟薛高、统一、香飘飘给出了三种答案]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159704.html</guid>
+      <title>国内大厂的印度“逃亡囧途”</title>
+      <link>https://www.tmtpost.com/8159927.html</link>
+      <description>&lt;![CDATA[国内大厂的印度“逃亡囧途”]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159927.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>磁流变悬架大规模上车，15万级车型也掀起底盘军备赛</title>
-      <link>https://www.tmtpost.com/8159675.html</link>
-      <description>&lt;![CDATA[磁流变悬架大规模上车，15万级车型也掀起底盘军备赛]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159675.html</guid>
+      <title>全球AI消费调查：仅有1%超级玩家在养活AI圈</title>
+      <link>https://www.tmtpost.com/8159928.html</link>
+      <description>&lt;![CDATA[全球AI消费调查：仅有1%超级玩家在养活AI圈]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159928.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>35小时工作制火遍全网：人人羡慕胖东来，可老板们为何学不会？</title>
-      <link>https://www.tmtpost.com/8159687.html</link>
-      <description>&lt;![CDATA[35小时工作制火遍全网：人人羡慕胖东来，可老板们为何学不会？]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159687.html</guid>
+      <title>世界模型赛道：谁在收编，谁在突围？</title>
+      <link>https://www.tmtpost.com/8159876.html</link>
+      <description>&lt;![CDATA[世界模型赛道：谁在收编，谁在突围？]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159876.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（10月6日）</title>
-      <link>https://www.tmtpost.com/8159773.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（10月6日）]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159773.html</guid>
+      <title>重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争</title>
+      <link>https://www.tmtpost.com/8159881.html</link>
+      <description>&lt;![CDATA[重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159881.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>半导体板块反弹，布局美光与意法半导体的逻辑</title>
-      <link>https://www.tmtpost.com/8159781.html</link>
-      <description>&lt;![CDATA[半导体板块反弹，布局美光与意法半导体的逻辑]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159781.html</guid>
+      <title>AI 越来越强，公司为什么还是做不快？</title>
+      <link>https://www.tmtpost.com/8159894.html</link>
+      <description>&lt;![CDATA[AI 越来越强，公司为什么还是做不快？]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」</title>
-      <link>http://www.geekpark.net/news/372086</link>
-      <description>&lt;![CDATA[OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372086</guid>
+      <title>想改造工厂的机器人，先被工厂改造了</title>
+      <link>https://www.tmtpost.com/8159783.html</link>
+      <description>&lt;![CDATA[想改造工厂的机器人，先被工厂改造了]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159783.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>交付 19 天，小米澎程破万台，雷军又赢了。</title>
-      <link>http://www.geekpark.net/news/372087</link>
-      <description>&lt;![CDATA[交付 19 天，小米澎程破万台，雷军又赢了。]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372087</guid>
+      <title>10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？</title>
+      <link>https://www.tmtpost.com/8159745.html</link>
+      <description>&lt;![CDATA[10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 11:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159745.html</guid>
       <category>Technology</category>
     </item>
   </channel>

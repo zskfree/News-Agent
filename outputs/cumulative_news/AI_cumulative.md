@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-06 02:44
+**最后更新时间**: 2026-10-06 11:50
+
+---
+
+## 🆕 最新更新 (2026-10-06 11:50)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不er，咋陶哲轩也成AI减速派了？？](https://www.qbitai.com/2026/10/501736.html)
+**发布时间**: 2026-10-06 07:59
+
+#### [OpenAI「疯狂28天」首日，这都发了些啥啊…](https://www.qbitai.com/2026/10/501726.html)
+**发布时间**: 2026-10-06 06:45
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One](https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/)
+**发布时间**: 2026-10-06 06:45
+
+#### [Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields](https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/)
+**发布时间**: 2026-10-06 05:12
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
+**发布时间**: 2026-10-06 06:44
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-06日刊](https://hex2077.dev/docs/2026-10/2026-10-06/)
+**发布时间**: 2026-10-06 02:20
 
 ---
 
