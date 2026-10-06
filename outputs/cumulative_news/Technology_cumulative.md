@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-05 12:07
+**最后更新时间**: 2026-10-06 02:46
+
+---
+
+## 🆕 最新更新 (2026-10-06 02:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海](https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-06 10:00
+
+#### [一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件](https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-06 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [7300亿美元押注之后，市场开始追问AI的回报](https://www.tmtpost.com/8159557.html)
+**发布时间**: 2026-10-06 09:31
+
+#### [品牌资产贬值后，钟薛高、统一、香飘飘给出了三种答案](https://www.tmtpost.com/8159704.html)
+**发布时间**: 2026-10-06 09:12
+
+#### [磁流变悬架大规模上车，15万级车型也掀起底盘军备赛](https://www.tmtpost.com/8159675.html)
+**发布时间**: 2026-10-06 09:05
+
+#### [35小时工作制火遍全网：人人羡慕胖东来，可老板们为何学不会？](https://www.tmtpost.com/8159687.html)
+**发布时间**: 2026-10-06 09:05
+
+#### [Edge AI Daily 早报（10月6日）](https://www.tmtpost.com/8159773.html)
+**发布时间**: 2026-10-06 08:30
+
+#### [半导体板块反弹，布局美光与意法半导体的逻辑](https://www.tmtpost.com/8159781.html)
+**发布时间**: 2026-10-06 08:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」](http://www.geekpark.net/news/372086)
+**发布时间**: 2026-10-06 09:16
+
+#### [交付 19 天，小米澎程破万台，雷军又赢了。](http://www.geekpark.net/news/372087)
+**发布时间**: 2026-10-06 09:15
 
 ---
 

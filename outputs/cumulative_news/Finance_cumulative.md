@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-05 12:07
+**最后更新时间**: 2026-10-06 02:46
+
+---
+
+## 🆕 最新更新 (2026-10-06 02:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hong Kong quizzes HSBC over Singapore AI hub decision](https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 01:32
+
+#### [Trump says Maga Inc will pay for ads instead of taxpayers after backlash](https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 00:54
+
+#### [Trump eases red diesel limits in attempt to quell fuel inflation](https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 00:46
+
+#### [Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic](https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 20:58
+
+#### [TotalEnergies boss hails ‘opportunities’ created by global market turmoil](https://www.ft.com/content/ae67bb6f-f227-4679-949f-2e79e2dc33e2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 17:33
+
+#### [French central bank head warns country at risk of being ‘strangled by interest rates’](https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 16:56
+
+#### [Citi to speed up promotion path for junior bankers as hiring war heats up](https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 15:49
+
+#### [How the booming US healthcare economy is penalising patients](https://www.ft.com/content/7dea96bb-12ca-44fd-81c1-395fb8060395?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 10:00
+
+#### [Trump rages as Supreme Court appointees fail to do his bidding](https://www.ft.com/content/858173c2-1869-4d77-9ecf-2b3b37a0d74d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-05 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?](https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 23:00
+
+#### [The case for Nvidia’s stock to march even higher after clinching its first record high in months](https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 21:52
+
+#### [This new AI model could help America close a technological gap with China](https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 21:43
+
+#### [Microsoft’s blazing stock comeback isn’t even close to being over, analyst says](https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 21:27
+
+#### [Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat](https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 21:25
+
+#### [This rare stock-market divide means an elevated chance of a big surge — or a deep plunge](https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 21:12
+
+#### [Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.](https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 20:39
+
+#### [Intel’s stock drops after Musk hints at an additional partner for big chip venture](https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 20:30
+
+#### [Investors see big opportunity in ferocious 2026 bond-market rout](https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-05 20:14
 
 ---
 

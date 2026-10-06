@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Oct 2026 12:05:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 12:07:59 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 02:44:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:46:46 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade</title>
-      <link>https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/</link>
-      <description>&lt;![CDATA[Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/</guid>
+      <title>Introducing GLM 5.3 on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Introducing GLM 5.3 on Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 23:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T</title>
-      <link>https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</link>
-      <description>&lt;![CDATA[The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 04:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</guid>
+      <title>Supercharge regulated workloads with Claude Code and Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Supercharge regulated workloads with Claude Code and Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks</title>
-      <link>https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</link>
-      <description>&lt;![CDATA[Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 01:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/</guid>
+      <title>New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</link>
+      <description>&lt;![CDATA[New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>刚刚，Hinton发了首篇RSI论文</title>
-      <link>https://www.qbitai.com/2026/10/501705.html</link>
-      <description>&lt;![CDATA[刚刚，Hinton发了首篇RSI论文]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 04:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501705.html</guid>
+      <title>Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/</link>
+      <description>&lt;![CDATA[Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus</title>
-      <link>https://www.qbitai.com/2026/10/501700.html</link>
-      <description>&lt;![CDATA[限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 02:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501700.html</guid>
+      <title>Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/</link>
+      <description>&lt;![CDATA[Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-05日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-05/</link>
-      <description>&lt;![CDATA[2026-10-05日刊]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 03:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-05/</guid>
+      <title>Downgrading user roles in Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/</link>
+      <description>&lt;![CDATA[Downgrading user roles in Amazon Quick]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID</title>
+      <link>https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/</link>
+      <description>&lt;![CDATA[Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 21:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle</title>
+      <link>https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</link>
+      <description>&lt;![CDATA[Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps</title>
+      <link>https://blogs.nvidia.com/blog/ai-breast-cancer-startups/</link>
+      <description>&lt;![CDATA[From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-breast-cancer-startups/</guid>
       <category>Ai</category>
     </item>
   </channel>

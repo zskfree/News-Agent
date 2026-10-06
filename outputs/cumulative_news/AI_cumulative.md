@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-05 12:05
+**最后更新时间**: 2026-10-06 02:44
+
+---
+
+## 🆕 最新更新 (2026-10-06 02:44)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/)
+**发布时间**: 2026-10-05 23:25
+
+#### [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/)
+**发布时间**: 2026-10-05 17:25
+
+#### [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/)
+**发布时间**: 2026-10-05 17:23
+
+#### [Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion](https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/)
+**发布时间**: 2026-10-05 15:56
+
+#### [Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/)
+**发布时间**: 2026-10-05 15:53
+
+#### [Downgrading user roles in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/)
+**发布时间**: 2026-10-05 15:51
+
+#### [Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-05 15:50
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode](https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/)
+**发布时间**: 2026-10-05 22:51
+
+#### [Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID](https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/)
+**发布时间**: 2026-10-05 21:41
+
+#### [Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads](https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/)
+**发布时间**: 2026-10-05 21:04
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle](https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/)
+**发布时间**: 2026-10-05 21:08
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](https://blogs.nvidia.com/blog/ai-breast-cancer-startups/)
+**发布时间**: 2026-10-05 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [刚刚，诺贝尔奖颁给光遗传学！](https://www.qbitai.com/2026/10/501720.html)
+**发布时间**: 2026-10-05 10:37
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Welcome RL Environments to the hub](https://huggingface.co/blog/rl-environments)
+**发布时间**: 2026-09-28 00:00
 
 ---
 
