@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-07 02:09
+**最后更新时间**: 2026-10-07 11:35
+
+---
+
+## 🆕 最新更新 (2026-10-07 11:35)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [美团：南京、成都、西安位列2026国庆假期热门目的地](https://www.leiphone.com/category/industrynews/2zA5A1rzJebHBpvM.html)
+**发布时间**: 2026-10-07 15:42
+
+#### [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司](https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html)
+**发布时间**: 2026-10-07 12:19
+
+#### [蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤](https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html)
+**发布时间**: 2026-10-07 12:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [晕…这年头还有说人话的AI不](https://www.qbitai.com/2026/10/501796.html)
+**发布时间**: 2026-10-07 08:41
+
+#### [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司](https://www.qbitai.com/2026/10/501791.html)
+**发布时间**: 2026-10-07 06:39
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day](https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/)
+**发布时间**: 2026-10-07 06:29
+
+#### [A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration](https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/)
+**发布时间**: 2026-10-07 00:53
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-07日刊](https://hex2077.dev/docs/2026-10/2026-10-07/)
+**发布时间**: 2026-10-07 04:29
 
 ---
 

@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-07 02:11
+**最后更新时间**: 2026-10-07 11:37
+
+---
+
+## 🆕 最新更新 (2026-10-07 11:37)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These two hard-hit stocks are poised for a comeback, says fund manager](https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 11:21
+
+#### [Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent](https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 11:18
+
+#### [SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips](https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 11:11
+
+#### [Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.](https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 10:24
+
+#### [AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints](https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 09:37
+
+#### [Longtime tech bull Dan Ives says these are his top tech plays going into 2027](https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 09:33
+
+#### [‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.](https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 09:15
+
+#### [Josh Brolin sells Atlanta-area mansion for $4 million after slashing price](https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 09:05
+
+#### [A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million](https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [AI agents could cost banks $500bn — by winning savers better rates](https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 08:51
+
+#### [Robust AI spending sets investors up for another bumper US earnings season](https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 04:00
+
+#### [How much longer can the world absorb the Iran shock?](https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 04:00
+
+#### [Brussels looks to capture Big Tech through tax on large corporations](https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 04:00
+
+#### [Blue Owl to launch ‘big push’ into insurance](https://www.ft.com/content/47c82e53-aa63-4b0d-95fd-ecc04d81e6ab?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 04:00
+
+#### [The taxman comes for China’s offshore riches](https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 02:27
+
+#### [SpaceX looks to raise $40bn to buy Nvidia chips](https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 22:28
 
 ---
 

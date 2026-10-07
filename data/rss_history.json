@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5c0a467c05c77c982a3056bf13fef2d448eb3b2222128db5e76a993f4ff1f710": {
-        "title": "442款创新医疗器械产品，有多少销售额能过亿？",
-        "link": "https://www.tmtpost.com/8130919.html",
-        "published_date": "Mon, 07 Sep 2026 17:57:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539746"
-      },
-      "094299f9bada11c9d570399a834015aa834fcd3079fbaab65c7e765ac0571a4b": {
-        "title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
-        "link": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 07 Sep 2026 16:18:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539758"
-      },
-      "7ada908d8b11ac722fb4a7de56d85001477289243adffe62968be6b225a51b3b": {
-        "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争",
-        "link": "https://www.tmtpost.com/8131169.html",
-        "published_date": "Mon, 07 Sep 2026 17:52:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539761"
-      },
-      "30b9090fd3549a7632021c4454fd6eea16f3fa7f8c946c5d6684b0c6f62bd5b8": {
-        "title": "GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？",
-        "link": "https://www.tmtpost.com/8130901.html",
-        "published_date": "Mon, 07 Sep 2026 16:54:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539763"
-      },
-      "55c56bd899b63399a79d2dc0444c08f8868e07b9c96dfd6fbc38f4d74458107e": {
-        "title": "成立 12 年，快看漫画重做 AI 时代的内容产品",
-        "link": "https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 07 Sep 2026 15:08:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539765"
-      },
-      "705ca030f9656d764bc2c35fbf8a2863ac8fb6dd50a9d7934999c0b8e178c322": {
-        "title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
-        "link": "https://www.infoq.cn/article/boiE7qfjxSQjHKUtevvp?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 07 Sep 2026 14:05:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539766"
-      },
-      "a4573fecff2c02952c8d83aae3109fa7392ca4d3d882dc217c8c692e0c7be82e": {
-        "title": "传统企业 AI 转型的最短路径，藏在研发部门",
-        "link": "https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 07 Sep 2026 12:04:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539768"
-      },
-      "6a47601cd6a21de0a5d2124cf6b631c9af8b7dc3c3f8e98ebaecc07b7f6d7a67": {
-        "title": "雷军：小米汽车销量突破 80 万；苹果元老辞职，传不满激进 AppStore 增收方案；韩国推出首档人机 AI 恋综 | 极客早知道",
-        "link": "http://www.geekpark.net/news/369884",
-        "published_date": "Mon, 07 Sep 2026 08:55:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539769"
-      },
-      "2af15755831e5f6ecc8403d990d104965a3220811573edee35b2a80f691e12de": {
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
-        "link": "https://sspai.com/post/114103",
-        "published_date": "Mon, 07 Sep 2026 11:10:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539770"
-      },
-      "70ff7e255b034d28c4f6e85560d4efb862c46fa05dcffb2a369d79b5a2285e23": {
-        "title": "AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上",
-        "link": "https://www.tmtpost.com/8130806.html",
-        "published_date": "Mon, 07 Sep 2026 17:57:00 GMT",
-        "first_seen": "2026-09-07T10:04:11.539773"
-      },
       "ffed1af46b418ecf822def3a4016ff6671e3fcb04a7a005eab761741816bcd91": {
         "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
         "link": "http://www.geekpark.net/news/369965",
@@ -3391,63 +3331,69 @@
         "link": "https://sspai.com/post/115416",
         "published_date": "Tue, 06 Oct 2026 18:00:00 GMT",
         "first_seen": "2026-10-07T02:11:40.541817"
+      },
+      "9814cc9176bd4e5e2eb07adedfa9cda9ee496a3ecc0d4b23ff75c2dc80bea87f": {
+        "title": "黑莓键盘机又火了？昔日 830 亿美元机皇，如今靠卖系统“翻红”",
+        "link": "https://www.tmtpost.com/8154176.html",
+        "published_date": "Wed, 07 Oct 2026 15:12:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188573"
+      },
+      "3d9cdb92c3a0f939700cb4997168a7fdc63fddf81b5d96b84e6b3b0117be9297": {
+        "title": "好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型",
+        "link": "https://www.tmtpost.com/8160164.html",
+        "published_date": "Wed, 07 Oct 2026 10:54:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188584"
+      },
+      "b6b5573739094f078e1daeb56a2f951bdbd97bbc5fcfa978626153287f38c06f": {
+        "title": "可灵上市，快手如何自洽",
+        "link": "https://www.tmtpost.com/8160242.html",
+        "published_date": "Wed, 07 Oct 2026 17:42:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188587"
+      },
+      "f27b406db95b1f4617e0f31ad8e9fd862158cb4d54119a471d50d6c693aefabb": {
+        "title": "谁在捧杀Utopai X？",
+        "link": "https://www.tmtpost.com/8160338.html",
+        "published_date": "Wed, 07 Oct 2026 17:42:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188588"
+      },
+      "8a3a88958220dbb6e977678fb7e1b3dde599db52cd0f42f61139d2629cf1d41f": {
+        "title": "溢价400%、一秒抢光，中国玩家全球“扫货”，带火一门套利生意",
+        "link": "https://www.tmtpost.com/8160286.html",
+        "published_date": "Wed, 07 Oct 2026 16:08:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188590"
+      },
+      "68e33c0b1bba152eb401e51bc80b5fcc53b91c23f06d49a70533c25f5edd5ddd": {
+        "title": "为什么每个APP都想追着借钱给你？",
+        "link": "https://www.tmtpost.com/8160287.html",
+        "published_date": "Wed, 07 Oct 2026 16:08:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188591"
+      },
+      "837639f99f270fcbfd40c481ef3765b21eb5c8f15342dae97e8f1c8c0eb602b1": {
+        "title": "6万元起家，韩国游客疯狂打卡，上海“排队王”冲刺IPO？",
+        "link": "https://www.tmtpost.com/8160302.html",
+        "published_date": "Wed, 07 Oct 2026 16:08:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188592"
+      },
+      "52c540d841e2738107602af6f55a91958eed405d63b08940253d9da75904da97": {
+        "title": "这届商家，为什么总要消费者补修阅读理解？",
+        "link": "https://www.tmtpost.com/8160195.html",
+        "published_date": "Wed, 07 Oct 2026 15:12:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188594"
+      },
+      "160ca4137703d75eaa9bbf1628c8513c7ea470935ffa192862fe9c70dea5f267": {
+        "title": "半年净利暴增96%，重回中国台湾首富宝座，郭台铭靠AI赚翻了",
+        "link": "https://www.tmtpost.com/8148632.html",
+        "published_date": "Wed, 07 Oct 2026 12:36:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188595"
+      },
+      "4a448585fde3f9233c46d90b07bf0352a049b4ca4c9381d7834c66c2abfa8813": {
+        "title": "储量全球第一，中国钨产量为何还在下降？",
+        "link": "https://www.tmtpost.com/8152246.html",
+        "published_date": "Wed, 07 Oct 2026 12:36:00 GMT",
+        "first_seen": "2026-10-07T11:37:39.188596"
       }
     },
     "Finance": {
-      "e3e7f6682b323bca13b1d9156bc5d9f6009db89440aca33abef6907e21551278": {
-        "title": "China pumps $54bn into banks and insurers",
-        "link": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 09:26:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085873"
-      },
-      "39d1e3d634ba92eddb159726dd6706e48f9a73ab02f234555e596d417efb7695": {
-        "title": "Iran to raise petrol prices as US war triggers shortages",
-        "link": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 08:34:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085881"
-      },
-      "10d876b3ebed16a92c3c091f23e65002e01e4ab05d9c52ba4c435074715e77ec": {
-        "title": "Far-right AfD surges to victory in German state election",
-        "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 06:28:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085883"
-      },
-      "fab7b57a4f11eb06f8d9ab1456ac8ffbbdc5e3b74ff3c9d37ffbcb879b8b7769": {
-        "title": "Sweden’s fightback against the gangs",
-        "link": "https://www.ft.com/content/b2d744cf-de2c-4ef1-84ca-41e897463484?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085885"
-      },
-      "2f8230b49df1d3df08bea00b38246160b26fbdccdf88c5a3dbba4de90264e3ff": {
-        "title": "Why America’s debt binge is starting to matter",
-        "link": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085886"
-      },
-      "ee22d6a91bb61622f50daa82aa22ceb5ce49f12de49a724491d1be089810a092": {
-        "title": "Bonds have become bonds again",
-        "link": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085887"
-      },
-      "b273f54799caaf7e1493b8eeb88adb966d0434228d9a6a1b779667784fb1eba2": {
-        "title": "EssilorLuxottica overhauls management after rift with founder’s son",
-        "link": "https://www.ft.com/content/c94548ff-615d-49b5-87e6-1d5cd61f1537?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085889"
-      },
-      "ed85cb2e0313e09b788845d944a3c1d0030437866843be40f7fd7c16aa8a3a23": {
-        "title": "Travis Kelce bought a $5.35 million estate on Lake Erie months before marrying Taylor Swift",
-        "link": "https://www.marketwatch.com/story/travis-kelce-bought-a-5-35-million-estate-on-lake-erie-months-before-marrying-taylor-swift-4ce6761f?mod=mw_rss_topstories",
-        "published_date": "Mon, 07 Sep 2026 09:03:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085890"
-      },
-      "6f89437b4464c196817957327b801185775d0c1ccc42c2c7a9a9af29e624edec": {
-        "title": "Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz",
-        "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-        "published_date": "Mon, 07 Sep 2026 08:52:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.085891"
-      },
       "ab80809aea88485f01e691802442fca93014f0c6e9991efe8bb586b5021602e1": {
         "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
         "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
@@ -6723,69 +6669,69 @@
         "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
         "published_date": "Tue, 06 Oct 2026 20:24:00 GMT",
         "first_seen": "2026-10-07T02:11:50.098547"
+      },
+      "5bc21714179d5bb5cb6fcdc7c543b8f748dad2cbc59b2ce1f1a404247b428433": {
+        "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+        "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 11:21:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690165"
+      },
+      "1a9f935d5bcd4d42948ee675b366ef4f43de879c00f5f3f7e095821bd999a4a2": {
+        "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+        "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 11:18:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690176"
+      },
+      "e7029cbf5e1bbe495dd1fc95bc234e728101f512a77638444b3099c785c09e5d": {
+        "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
+        "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 09:33:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690178"
+      },
+      "eac6a3729305ce7084632df78a40e371b1a0dc10d7a758b92d2df18d8e8a04f9": {
+        "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
+        "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 09:05:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690180"
+      },
+      "1f33d098ca3299716cf17cced1ac74a206e0da65c91d6a188bcc65257fe74476": {
+        "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
+        "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 09:01:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690182"
+      },
+      "cdc569972bde0c7ee264183846a01145dc8e6f5de75ead3848748e6f9ed0b61d": {
+        "title": "AI agents could cost banks $500bn — by winning savers better rates",
+        "link": "https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 08:51:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690183"
+      },
+      "b596277782e2d3ca1996cf5a6a4bd4b80e5b6c1a6bb45e8b032d67834d71ecdc": {
+        "title": "Robust AI spending sets investors up for another bumper US earnings season",
+        "link": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690184"
+      },
+      "7ef263467d80bce93924d3f36dd883e4e5c492bae813ce99638edb6e57cd6d69": {
+        "title": "How much longer can the world absorb the Iran shock?",
+        "link": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690185"
+      },
+      "3b22ef2503deeb82473a40cab123e108070a696f95cdd4f54aaff596314e2aa9": {
+        "title": "Brussels looks to capture Big Tech through tax on large corporations",
+        "link": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690187"
+      },
+      "b9273505a83e31422c0959a6f89312bf2382da6e9a2d302050a02d04c777e41e": {
+        "title": "Blue Owl to launch ‘big push’ into insurance",
+        "link": "https://www.ft.com/content/47c82e53-aa63-4b0d-95fd-ecc04d81e6ab?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.690188"
       }
     },
     "Ai": {
-      "a150533a2da4630d89518bf751e3169844f310ee38d89557d0ee217764bf591e": {
-        "title": "创想三维亮相IFA 2026，SPARKX i8全球首秀、旗舰K3获两项荣誉！",
-        "link": "https://www.leiphone.com/category/industrynews/vAtQUjcohTzgRhHG.html",
-        "published_date": "Mon, 07 Sep 2026 14:17:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035456"
-      },
-      "c9ff3e7b1d0e948d7eac4f6d977a86468efd3fc31c13b251cf8709551c59943b": {
-        "title": "起步即搭载L3架构，阔五座开创者启境GX7正式预售24.99-31.19万",
-        "link": "https://www.leiphone.com/category/industrynews/DEylZOEEZ448IHK3.html",
-        "published_date": "Mon, 07 Sep 2026 14:10:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035466"
-      },
-      "4c72f31837408f2be42640c9945ea9add1306d6fc95d6ad27c0b2e2afd6b12f7": {
-        "title": "独家丨微软云亚太「一拆为二」，侯阳接掌东南亚、印度与大中华区",
-        "link": "https://www.leiphone.com/category/industrycloud/UUg7N19pHCCMjnMD.html",
-        "published_date": "Mon, 07 Sep 2026 14:07:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035468"
-      },
-      "bf4eca815a7f451b2e4f370a82a0205a6a6732b9b2eea73e1e1127edca3757ac": {
-        "title": "AI人才3次大迁徙：百度先行、六小虎分化、腾讯「腾笼换鸟」",
-        "link": "https://www.leiphone.com/category/industrynews/IfTsnhdqbaxeTEu6.html",
-        "published_date": "Mon, 07 Sep 2026 14:04:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035470"
-      },
-      "ca0d73ab4e6ba9618e1d41134bcefc493c3a400f555374303399ab35fbf29859": {
-        "title": "0.4mm弯折半径、96%量产良率：伯恩光学UTG的应力重构与工艺路径",
-        "link": "https://www.leiphone.com/category/industrynews/7NDbKTW4jo1GR7dJ.html",
-        "published_date": "Mon, 07 Sep 2026 13:42:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035471"
-      },
-      "cca87317b06c0bf70ca3f0d224a44994b7843e41b37b837b51e08c9646f9a445": {
-        "title": "业内首个！“千问办公”推出“多人工作台”",
-        "link": "https://www.leiphone.com/category/industrynews/bv6uP9homPcjjRHl.html",
-        "published_date": "Mon, 07 Sep 2026 12:48:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035473"
-      },
-      "a1b5463087fdb2af9c2a75dad7cc97df7c72e9a3df81e3b23d47873009174698": {
-        "title": "IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径",
-        "link": "https://www.leiphone.com/category/industrynews/m9VdZr4bvHYmlA7s.html",
-        "published_date": "Mon, 07 Sep 2026 11:24:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035474"
-      },
-      "bb4b35e1d27b5b451222dea583fe4c3edfadfe4d98a86d435f46c571a905572f": {
-        "title": "王兴兴上市后首次公开演讲：机器人真正爆发要等两个「80%时刻」丨WRC 2026",
-        "link": "https://www.leiphone.com/category/robot/qtdF8IhMqe2oNmH0.html",
-        "published_date": "Mon, 07 Sep 2026 10:55:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035476"
-      },
-      "8255f3204361dedd135bb139d9633a70836062beef5a65625f2d659e7adc8f69": {
-        "title": "看见与被看见：AFAC2026总决赛的AI金融群像",
-        "link": "https://www.leiphone.com/category/industrynews/zby4Nbb3zEvFldyT.html",
-        "published_date": "Mon, 07 Sep 2026 09:59:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035477"
-      },
-      "2651d1ec2e5cd5d61b9d6e12a75d32e924fabd3f787bf794109722cb8f9758c5": {
-        "title": "芯思杰400Gbps PIN PD支撑全球AI算力光互联向3.2T光收发模块迭代",
-        "link": "https://www.leiphone.com/category/industrynews/uTYlVwazKU12Bj95.html",
-        "published_date": "Mon, 07 Sep 2026 09:36:00 GMT",
-        "first_seen": "2026-09-07T10:04:21.035478"
-      },
       "f5a0c930c49b7f9034b8562f8874b0429d6e48f14fd639107981c349f156ee2b": {
         "title": "燧原科技发行结果出炉！募资61.19亿元，国产AI芯片龙头即将登陆科创板",
         "link": "https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html",
@@ -9539,13 +9485,49 @@
         "link": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
         "published_date": "Tue, 06 Oct 2026 13:00:00 GMT",
         "first_seen": "2026-10-07T02:11:59.584113"
+      },
+      "b79e1ccda7ca7ab5d213686821a0f531da7da29c41b11bbb7bde29584c1ce582": {
+        "title": "美团：南京、成都、西安位列2026国庆假期热门目的地",
+        "link": "https://www.leiphone.com/category/industrynews/2zA5A1rzJebHBpvM.html",
+        "published_date": "Wed, 07 Oct 2026 15:42:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817272"
+      },
+      "93387abf1a4552321efc29c3f9eb908fed8ee5a2d1620b81724423e226a9899b": {
+        "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+        "link": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
+        "published_date": "Wed, 07 Oct 2026 12:19:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817301"
+      },
+      "f9122ebae52a39d2302fc875ebc50b2fb786996ac64e26bbd781ee2708b2f3d5": {
+        "title": "蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤",
+        "link": "https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html",
+        "published_date": "Wed, 07 Oct 2026 12:17:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817303"
+      },
+      "6a376327718b3c42ef36bc4fc54741575e21af0df4f11f3a171fd5e6eb5c762f": {
+        "title": "晕…这年头还有说人话的AI不",
+        "link": "https://www.qbitai.com/2026/10/501796.html",
+        "published_date": "Wed, 07 Oct 2026 08:41:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817304"
+      },
+      "e33bd0ef2228fbe1e85e9bb6e098ff6a8e0e94673ded2541af0c1afceae2afdc": {
+        "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+        "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+        "published_date": "Wed, 07 Oct 2026 06:29:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817305"
+      },
+      "0d19394c832903f50724ed13eda2a8f0cb0d1798663c11ed4babb81225d29e69": {
+        "title": "2026-10-07日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-07/",
+        "published_date": "Wed, 07 Oct 2026 04:29:00 GMT",
+        "first_seen": "2026-10-07T11:37:48.817306"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-07T02:11:40.541819",
-    "Finance": "2026-10-07T02:11:50.098550",
-    "Ai": "2026-10-07T02:11:59.584115"
+    "Technology": "2026-10-07T11:37:39.188597",
+    "Finance": "2026-10-07T11:37:48.690190",
+    "Ai": "2026-10-07T11:37:48.817307"
   }
 }
