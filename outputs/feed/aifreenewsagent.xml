@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Oct 2026 11:50:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 11:52:43 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 02:09:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:11:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>不er，咋陶哲轩也成AI减速派了？？</title>
-      <link>https://www.qbitai.com/2026/10/501736.html</link>
-      <description>&lt;![CDATA[不er，咋陶哲轩也成AI减速派了？？]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501736.html</guid>
+      <title>OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来</title>
+      <link>https://www.qbitai.com/2026/10/501749.html</link>
+      <description>&lt;![CDATA[OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 01:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501749.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI「疯狂28天」首日，这都发了些啥啊…</title>
-      <link>https://www.qbitai.com/2026/10/501726.html</link>
-      <description>&lt;![CDATA[OpenAI「疯狂28天」首日，这都发了些啥啊…]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/501726.html</guid>
+      <title>Building a context-aware AI assistant on AgentCore and OpenClaw</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/</link>
+      <description>&lt;![CDATA[Building a context-aware AI assistant on AgentCore and OpenClaw]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One</title>
-      <link>https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/</link>
-      <description>&lt;![CDATA[Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 06:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/</guid>
+      <title>Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/</link>
+      <description>&lt;![CDATA[Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields</title>
-      <link>https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/</link>
-      <description>&lt;![CDATA[Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 05:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/</guid>
+      <title>Best practices for Amazon SageMaker HyperPod administration and governance</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/</link>
+      <description>&lt;![CDATA[Best practices for Amazon SageMaker HyperPod administration and governance]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
-      <description>&lt;![CDATA[Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 06:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+      <title>Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/</link>
+      <description>&lt;![CDATA[Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/</link>
+      <description>&lt;![CDATA[Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4</title>
+      <link>https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/</link>
+      <description>&lt;![CDATA[Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model</title>
+      <link>https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/</link>
+      <description>&lt;![CDATA[Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Supercomputing researchers document evolution of AI hardware</title>
+      <link>https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006</link>
+      <description>&lt;![CDATA[Supercomputing researchers document evolution of AI hardware]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries</title>
+      <link>https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006</link>
+      <description>&lt;![CDATA[Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006</guid>
       <category>Ai</category>
     </item>
   </channel>

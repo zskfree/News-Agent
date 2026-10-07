@@ -2,84 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e94ec8fca09b812ac0090d5f3e4652e1ce206abef2644b35fcf31f6e92766a12": {
-        "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
-        "link": "https://www.tmtpost.com/8129869.html",
-        "published_date": "Sun, 06 Sep 2026 18:50:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505071"
-      },
-      "ac44c0702ca1d4adb81980578f7ef6b32108324dd148c518a3790d80afcdffa5": {
-        "title": "AI时代，最稀缺的不是知识，而是系统思维",
-        "link": "https://www.tmtpost.com/8082672.html",
-        "published_date": "Sun, 06 Sep 2026 10:41:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505080"
-      },
-      "9cd18f35c0b5e7ee43fa692389dc1189d3633bac7d48b555da5f628981fe0d11": {
-        "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
-        "link": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 05 Sep 2026 11:17:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505083"
-      },
-      "c59d59a6b44726c22c73d9df036a4d606b8214d229860c10e0d967d9cbede63d": {
-        "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
-        "link": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 05 Sep 2026 09:56:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505085"
-      },
-      "14a9b945bd07afb83012e0d2f45fd6f591dca1b96492ab8185774f6fdd43bb9a": {
-        "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-        "link": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 04 Sep 2026 22:18:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505086"
-      },
-      "67a89e42799637869b55564666018c15078d28ebcd782bfed0bfbcedce3bcda0": {
-        "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
-        "link": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 04 Sep 2026 09:21:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505088"
-      },
-      "378c10c36873d1b63871bba5667af1ddcc9ee31f0ec8c4e6d2a2fafcfbad414d": {
-        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
-        "link": "https://sspai.com/post/114164",
-        "published_date": "Fri, 04 Sep 2026 08:47:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505089"
-      },
-      "f248fcda9f7df1fe67b238b838731455bc1013883fefdd03de070b68d30beb50": {
-        "title": "【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”",
-        "link": "https://www.tmtpost.com/8130184.html",
-        "published_date": "Mon, 07 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505090"
-      },
-      "72c36d44f832f3364b27d50bb52550e65d5315dc11142e21564455a8a74e22e8": {
-        "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
-        "link": "https://www.tmtpost.com/8130213.html",
-        "published_date": "Sun, 06 Sep 2026 20:46:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505092"
-      },
-      "1e09c4076230ecebad09d93e0591f932951f576be7180c17be11b8e6badce4b4": {
-        "title": "美团守城，快手攻擂：港股互联网盈利韧性大考",
-        "link": "https://www.tmtpost.com/8130102.html",
-        "published_date": "Sun, 06 Sep 2026 17:30:00 GMT",
-        "first_seen": "2026-09-06T23:39:12.505093"
-      },
-      "e606cb2127e266159440d8e8867b5d4e779067866af7b9f97c7d94bd9e2f991e": {
-        "title": "石头科技开辟新战场，从「室内」走入「水下与庭院」 | IFA 2026",
-        "link": "https://www.tmtpost.com/8130032.html",
-        "published_date": "Mon, 07 Sep 2026 08:30:00 GMT",
-        "first_seen": "2026-09-07T00:48:56.879535"
-      },
-      "8b6dace388fd346ae508e5772f56fead17c6d62baec1868331b9011d9727f7dc": {
-        "title": "8000万养宠人，见证“它经济”从狂热到崩塌",
-        "link": "https://www.tmtpost.com/8130247.html",
-        "published_date": "Mon, 07 Sep 2026 08:20:00 GMT",
-        "first_seen": "2026-09-07T00:48:56.879550"
-      },
-      "7431646b5d586c3ce78e47fc7792d3ed8f5ce1cf1b102377b66e5ee7465735a5": {
-        "title": "Edge AI Daily 早报（9月7日）",
-        "link": "https://www.tmtpost.com/8130271.html",
-        "published_date": "Mon, 07 Sep 2026 08:02:00 GMT",
-        "first_seen": "2026-09-07T00:48:56.879553"
-      },
       "5c0a467c05c77c982a3056bf13fef2d448eb3b2222128db5e76a993f4ff1f710": {
         "title": "442款创新医疗器械产品，有多少销售额能过亿？",
         "link": "https://www.tmtpost.com/8130919.html",
@@ -3427,69 +3349,51 @@
         "link": "https://www.tmtpost.com/8159745.html",
         "published_date": "Tue, 06 Oct 2026 11:56:00 GMT",
         "first_seen": "2026-10-06T11:52:34.434634"
+      },
+      "3d16c748c08f65e40d766c8616ea988a192d3d6ba660cc24a91900e182eaed92": {
+        "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "link": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541794"
+      },
+      "89b5698af83e502c4b9fb8a41c22fda78ac1fdc045a7fafe2bb4a91d18e0bab4": {
+        "title": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "link": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541807"
+      },
+      "8a407849600bfbeba2e033c23577b9d0f4b02fa47a21bfdf292636cde9a2ae38": {
+        "title": "默沙东重注背后：G12D凭什么成为下一个爆款靶点？",
+        "link": "https://www.tmtpost.com/8160057.html",
+        "published_date": "Wed, 07 Oct 2026 08:56:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541809"
+      },
+      "84751956b227c69cc88c5d1728c1152cad36dccd4af30dbe9fcd1bb2cba3397f": {
+        "title": "Edge AI Daily 早报（10月7日）",
+        "link": "https://www.tmtpost.com/8160096.html",
+        "published_date": "Wed, 07 Oct 2026 08:48:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541811"
+      },
+      "7992c8ef58b2c26a5c1ccc5ef28992a5c9e4a7b196c7c2afa72b5b324a649000": {
+        "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+        "link": "https://www.tmtpost.com/8159961.html",
+        "published_date": "Tue, 06 Oct 2026 21:10:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541813"
+      },
+      "e25f9ab07e174a5c85b3f9bd9266757a00bd5eb2f6ae0e616c9cea566ff04c19": {
+        "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+        "link": "http://www.geekpark.net/news/372089",
+        "published_date": "Wed, 07 Oct 2026 08:39:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541815"
+      },
+      "656d85bfeb4b3062d91002cf5cd103469d147819543c049fedaedcd53921bbc4": {
+        "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+        "link": "https://sspai.com/post/115416",
+        "published_date": "Tue, 06 Oct 2026 18:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:40.541817"
       }
     },
     "Finance": {
-      "79d07628b729ee317aadd2809dbd71fbd452568821f1d3300de223a2091ca071": {
-        "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-        "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 23:05:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664021"
-      },
-      "29d5af106cb9f60a974be18863239e6d8d15d9d8c12f5f3f83d6e05af55fe524": {
-        "title": "Far-right AfD surges to first place in German state elections",
-        "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 22:06:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664029"
-      },
-      "a1e4b7873bae5fa3e78904ada66bb33341df840bda8154ae75ee156f6b336617": {
-        "title": "Germany’s Merz on the ropes after far right delivers devastating blow",
-        "link": "https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 21:53:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664031"
-      },
-      "f0d02a0e916dcf922c1ca07baa69e53f9a3f6e100c2a96aca3652973e5421b78": {
-        "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
-        "link": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 20:00:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664033"
-      },
-      "9133eac63013090e03c20a3bed4a7477a8d4e6e9cdc7ac3a610c6ce1ce1dac39": {
-        "title": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
-        "link": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 17:46:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664034"
-      },
-      "514fc1e3fec98cf875c71e86e5e2f359a95893a79e210096de2a8e247959a03f": {
-        "title": "Starting gun fired on autumn election campaign season",
-        "link": "https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 17:15:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664035"
-      },
-      "20b007ff86ded14ed621251dbf882b3a95d54644067a83afa9f8d3d22ef4117c": {
-        "title": "Pete Hegseth’s Pentagon purge",
-        "link": "https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52",
-        "published_date": "Sun, 06 Sep 2026 13:35:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664037"
-      },
-      "4bd2e1950c993e2db346aaff8013bedeb6e7a8e0c31b1000ad6dd82f638461f8": {
-        "title": "European SpaceX rival launches rocket into orbit",
-        "link": "https://www.ft.com/content/fb5be0ff-5a5c-4006-98c5-2ddcfa3c1175?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 11:03:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664038"
-      },
-      "ef6a3731511a99f50f6a0d17824c67ae6a9d08299e79767f82a417d0fb9c4fc6": {
-        "title": "Trump’s approval rating falls to lowest yet in FT poll",
-        "link": "https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:01:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664040"
-      },
-      "4955d6293afd8159068dec6e87fa7c6cc5d9646f2dec0f9c27e2402e8402d0e8": {
-        "title": "Iceland’s ‘no’ exposes EU complacency",
-        "link": "https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T23:39:31.664041"
-      },
       "e3e7f6682b323bca13b1d9156bc5d9f6009db89440aca33abef6907e21551278": {
         "title": "China pumps $54bn into banks and insurers",
         "link": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
@@ -6759,69 +6663,69 @@
         "link": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
         "published_date": "Tue, 06 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-06T11:52:43.820964"
+      },
+      "c03758d030721f6265c7586289d8b9c9b1d29b704c7a4b60ae2fc056b66c9dda": {
+        "title": "Trump says he will speak with Putin about pneumonic plague",
+        "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 23:18:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098516"
+      },
+      "e858b237ed3e612811641643a1697dfc5fa575d15d0b17d949bbecf3dcca4452": {
+        "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+        "link": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 22:28:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098529"
+      },
+      "51a229ca4bfd2501bacc8baf6bd6cf6dbffbb3ec8d753ab8ee07beab47647156": {
+        "title": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
+        "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:29:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098531"
+      },
+      "52ffc9db04587d91b484f5ca975ab6479e54a457422890d1fd2caebbfb47b563": {
+        "title": "Trump says he is considering suspending federal petrol tax",
+        "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:09:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098534"
+      },
+      "7206d981e5f56eda978152c7ad5427d051f16af00ca7a2d6db01f8241839d199": {
+        "title": "‘Most dangerous product in crypto’ vexes Singapore",
+        "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098536"
+      },
+      "7d2daec92f894f88b8a41a6d21cc016278b4948b162b9ba60514b6dc75dfe8e7": {
+        "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+        "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098539"
+      },
+      "c93ab9d83d5c6aac04128b62097dbf4d08c18c347ce5dc0a90888dd834de96db": {
+        "title": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+        "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 20:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098541"
+      },
+      "5756b02bb72bd73b39b18b60d6ff454d4a4090d6d00f645291046e5b51040447": {
+        "title": "Goldman Sachs and Man Group exposed in EY data breach",
+        "link": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 19:24:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098543"
+      },
+      "9bb2210b619ed3cbec5f56864f9ed3085f0a29079a4a2b462048c7849da77c0d": {
+        "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 21:52:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098545"
+      },
+      "0d0ecffa83694e80552a59f6e18725dc4b47398ac45814b2163f093e597ce174": {
+        "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+        "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 20:24:00 GMT",
+        "first_seen": "2026-10-07T02:11:50.098547"
       }
     },
     "Ai": {
-      "2cc901badc4037d6d73b145f6513bd47cfa8a1d8ea5584b8f72e7afdf697c4f4": {
-        "title": "3000万用户、过半是企业，千问办公靠什么拿下B端？",
-        "link": "https://www.leiphone.com/category/industrynews/kaQUKRRyiIqho1m2.html",
-        "published_date": "Sun, 06 Sep 2026 21:10:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128354"
-      },
-      "d5d1366833c44d779e1bdb3e20ef7e8b863c43b8b712113ecf48169d3e4b47b4": {
-        "title": "首驱启动首批2000台核心车型排产，优先保障重点门店补货",
-        "link": "https://www.leiphone.com/category/industrynews/eiGJgVh8lKALishI.html",
-        "published_date": "Sat, 05 Sep 2026 16:56:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128362"
-      },
-      "6b53721da197eef5cb9ab2fc57815a4d024bc31b54976638e13e8f4a6079ad97": {
-        "title": "首驱科技启动核心车型滚动交付，渠道经营转向质量提升",
-        "link": "https://www.leiphone.com/category/industrynews/x53v3PlEDPcUKF3V.html",
-        "published_date": "Sat, 05 Sep 2026 16:53:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128364"
-      },
-      "326aacf9bcdc094fc35654f2aeff712e6e287db24178ec32e9a3c44cc02602e9": {
-        "title": "追觅百余款产品亮相IFA：覆盖16个品类，6款产品获国际奖项",
-        "link": "https://www.leiphone.com/category/industrynews/XNJJff9rFB30oDEH.html",
-        "published_date": "Sat, 05 Sep 2026 10:35:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128366"
-      },
-      "8d37bedb41c1650f900a4df43a088cf9499935ab0a0c92b5656a8c0d7f1b799d": {
-        "title": "理想汽车26.5亿元增资欣旺达动力，电池自研战略再落一子",
-        "link": "https://www.leiphone.com/category/industrynews/j6pAp3LhwmFqVvUW.html",
-        "published_date": "Fri, 04 Sep 2026 21:50:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128367"
-      },
-      "5762fa571b85268935f8a27983e15d699ac9c9090b257e8ae1025bca11c84247": {
-        "title": "打穿 AI 智商测试！GPT-6 Astra 的符号世界模型，是突破还是钞能力刷分？",
-        "link": "https://www.leiphone.com/category/yanxishe/FQUliuw9lt15UH54.html",
-        "published_date": "Fri, 04 Sep 2026 19:07:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128369"
-      },
-      "572f97656a9ce38ba54e3873f0464788b131f34072d26b5683934d24ac5e22dd": {
-        "title": "谁在为人形机器人铺「全开源生态」？",
-        "link": "https://www.leiphone.com/category/academic/P00P7aQceC56Vz5r.html",
-        "published_date": "Fri, 04 Sep 2026 18:32:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128370"
-      },
-      "fafcb025a307a39c9b28fc7f3cb77af51b182513b56c9664f1bd7ca7feb1a487": {
-        "title": "全生态物理 AI 落地，小米的主场攻防战",
-        "link": "https://www.leiphone.com/category/robot/e96zyiLA9MYshHvY.html",
-        "published_date": "Fri, 04 Sep 2026 17:57:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128372"
-      },
-      "db07733b608a88e2c9cb17a732ed182d3b1d660e62a75930e0777f260b8b5bf1": {
-        "title": "完成4000万美金融资，ACE成为AI音乐赛道融资额最高的华人团队",
-        "link": "https://www.leiphone.com/category/industrynews/iaMeof0D4sd0DFB2.html",
-        "published_date": "Fri, 04 Sep 2026 15:50:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128373"
-      },
-      "568c602a59b291341c7645873fe50f15065df7438d0d1986236e75517f798e29": {
-        "title": "云鲸2026秋季全球品牌发布会：以用户为原点，探索智能清洁的下一个十年",
-        "link": "https://www.leiphone.com/category/industrynews/eIDGppU09hMWW0Nm.html",
-        "published_date": "Fri, 04 Sep 2026 15:31:00 GMT",
-        "first_seen": "2026-09-06T23:39:22.128374"
-      },
       "a150533a2da4630d89518bf751e3169844f310ee38d89557d0ee217764bf591e": {
         "title": "创想三维亮相IFA 2026，SPARKX i8全球首秀、旗舰K3获两项荣誉！",
         "link": "https://www.leiphone.com/category/industrynews/vAtQUjcohTzgRhHG.html",
@@ -9575,13 +9479,73 @@
         "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
         "published_date": "Tue, 06 Oct 2026 06:44:00 GMT",
         "first_seen": "2026-10-06T11:52:43.928510"
+      },
+      "c22f7491aa2d499f9f2ca227de5cc395a1a73e46aaca240cc2d3a94a9e303edf": {
+        "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "link": "https://www.qbitai.com/2026/10/501749.html",
+        "published_date": "Wed, 07 Oct 2026 01:05:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584083"
+      },
+      "54631af0cd750b53d68af49d4719ee0482abf12849fea84e381734202ea67228": {
+        "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+        "published_date": "Tue, 06 Oct 2026 19:19:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584095"
+      },
+      "c8c298ed8807f507ac062d42dd8d6f3ca3019ef3b9e3cc78715c28a3f786d0d8": {
+        "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+        "published_date": "Tue, 06 Oct 2026 15:53:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584097"
+      },
+      "7cffd751875633e420f5eebeeacad267ab70f5790f85fd5a08b07a346d551f35": {
+        "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
+        "published_date": "Tue, 06 Oct 2026 15:50:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584099"
+      },
+      "a9350aa79759de6022a6c4f713b34f254e8f17539b6bae60f57251985000c0b2": {
+        "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
+        "published_date": "Tue, 06 Oct 2026 15:47:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584102"
+      },
+      "4351189070b43c42d00828df9a795ac8319b391be8b8a919f49e2d2110fec54e": {
+        "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
+        "published_date": "Tue, 06 Oct 2026 15:45:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584104"
+      },
+      "ee4f5650f00e868df69bcbfcd61df27fa13441a73d78813320fa296af71d9e22": {
+        "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+        "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+        "published_date": "Tue, 06 Oct 2026 18:36:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584106"
+      },
+      "3cd761eeac8ab124e829f31b507686f4a23da350693692f765441e8372996fa8": {
+        "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+        "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+        "published_date": "Tue, 06 Oct 2026 17:30:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584108"
+      },
+      "d33e661bf8239f65e445e9803f3d0ecc019439f06cdbf35300cf31882773a67c": {
+        "title": "Supercomputing researchers document evolution of AI hardware",
+        "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+        "published_date": "Tue, 06 Oct 2026 16:55:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584110"
+      },
+      "0ad0e5945fdf64c7878ad22cdaa8df4f668bd63da8f450ff7c537368b4321219": {
+        "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+        "link": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
+        "published_date": "Tue, 06 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-07T02:11:59.584113"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-06T11:52:34.434636",
-    "Finance": "2026-10-06T11:52:43.820966",
-    "Ai": "2026-10-06T11:52:43.928512"
+    "Technology": "2026-10-07T02:11:40.541819",
+    "Finance": "2026-10-07T02:11:50.098550",
+    "Ai": "2026-10-07T02:11:59.584115"
   }
 }

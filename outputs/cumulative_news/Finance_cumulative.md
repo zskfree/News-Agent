@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-06 11:52
+**最后更新时间**: 2026-10-07 02:11
+
+---
+
+## 🆕 最新更新 (2026-10-07 02:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says he will speak with Putin about pneumonic plague](https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 23:18
+
+#### [SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo](https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 22:28
+
+#### [Jim Clyburn urges Black voters not to be ‘fooled’ by Trump](https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 21:29
+
+#### [Trump says he is considering suspending federal petrol tax](https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 21:09
+
+#### [‘Most dangerous product in crypto’ vexes Singapore](https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 21:00
+
+#### [S&P 500 hits record high as AI stocks shrug off bond market slump](https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 20:58
+
+#### [Ships’ captains paid $100,000 a month to transit Strait of Hormuz](https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 20:00
+
+#### [Goldman Sachs and Man Group exposed in EY data breach](https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1)
+**发布时间**: 2026-10-06 19:24
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?](https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 22:54
+
+#### [The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue](https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 21:52
+
+#### [Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.](https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 20:37
+
+#### [Google makes a fresh bet on nuclear power as the AI energy crunch intensifies](https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 20:24
+
+#### [Marvell just impressed Wall Street with ‘good numbers plus a better story’](https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 20:21
+
+#### [‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.](https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 20:15
+
+#### [Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.](https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 19:58
+
+#### [Trump waives rules on red-dyed diesel, but local tax and other concerns remain](https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 19:14
+
+#### [‘Trump accounts’ could force MAGA children to own New York Times stock](https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories)
+**发布时间**: 2026-10-06 18:39
 
 ---
 

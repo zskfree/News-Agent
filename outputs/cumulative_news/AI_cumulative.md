@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-06 11:50
+**最后更新时间**: 2026-10-07 02:09
+
+---
+
+## 🆕 最新更新 (2026-10-07 02:09)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来](https://www.qbitai.com/2026/10/501749.html)
+**发布时间**: 2026-10-07 01:05
+
+#### [刚刚，诺贝尔物理奖一人独揽！](https://www.qbitai.com/2026/10/501746.html)
+**发布时间**: 2026-10-06 10:44
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building a context-aware AI assistant on AgentCore and OpenClaw](https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/)
+**发布时间**: 2026-10-06 19:19
+
+#### [Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/)
+**发布时间**: 2026-10-06 15:53
+
+#### [Best practices for Amazon SageMaker HyperPod administration and governance](https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/)
+**发布时间**: 2026-10-06 15:50
+
+#### [Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/)
+**发布时间**: 2026-10-06 15:47
+
+#### [Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/)
+**发布时间**: 2026-10-06 15:45
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4](https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/)
+**发布时间**: 2026-10-06 18:36
+
+#### [Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model](https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/)
+**发布时间**: 2026-10-06 17:30
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Supercomputing researchers document evolution of AI hardware](https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006)
+**发布时间**: 2026-10-06 16:55
+
+#### [Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries](https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006)
+**发布时间**: 2026-10-06 13:00
+
+#### [MIT announces the MIT for America initiative, to strengthen STEM education across the country](https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006)
+**发布时间**: 2026-10-06 11:00
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/)
+**发布时间**: 2026-10-06 15:05
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Why Telecom Operators Are Building Their AI Strategy on Open Models](https://blogs.nvidia.com/blog/telecom-operators-open-models/)
+**发布时间**: 2026-10-06 13:00
 
 ---
 

@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-06 11:52
+**最后更新时间**: 2026-10-07 02:11
+
+---
+
+## 🆕 最新更新 (2026-10-07 02:11)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用](https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-07 10:00
+
+#### [用 Harness 工程打造 SRE 可控的生产环境｜QCon上海](https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-07 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [默沙东重注背后：G12D凭什么成为下一个爆款靶点？](https://www.tmtpost.com/8160057.html)
+**发布时间**: 2026-10-07 08:56
+
+#### [Edge AI Daily 早报（10月7日）](https://www.tmtpost.com/8160096.html)
+**发布时间**: 2026-10-07 08:48
+
+#### [DeepSeek被爆最新融资800亿，正为冲击IPO做准备](https://www.tmtpost.com/8159961.html)
+**发布时间**: 2026-10-06 21:10
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude](http://www.geekpark.net/news/372089)
+**发布时间**: 2026-10-07 08:39
 
 ---
 

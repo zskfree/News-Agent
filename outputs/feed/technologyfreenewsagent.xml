@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Oct 2026 11:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 11:52:34 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 02:11:00 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:11:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>火箭发动机的“技术鄙视链”</title>
-      <link>https://www.tmtpost.com/8159826.html</link>
-      <description>&lt;![CDATA[火箭发动机的“技术鄙视链”]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 12:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159826.html</guid>
+      <title>MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用</title>
+      <link>https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从依赖专家到开发者自助：一家银行的平台文化转型</title>
-      <link>https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从依赖专家到开发者自助：一家银行的平台文化转型]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>用 Harness 工程打造 SRE 可控的生产环境｜QCon上海</title>
+      <link>https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[用 Harness 工程打造 SRE 可控的生产环境｜QCon上海]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>论AI从沙盒中逃逸的必然性</title>
-      <link>https://www.tmtpost.com/8159807.html</link>
-      <description>&lt;![CDATA[论AI从沙盒中逃逸的必然性]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159807.html</guid>
+      <title>默沙东重注背后：G12D凭什么成为下一个爆款靶点？</title>
+      <link>https://www.tmtpost.com/8160057.html</link>
+      <description>&lt;![CDATA[默沙东重注背后：G12D凭什么成为下一个爆款靶点？]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 08:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8160057.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国内大厂的印度“逃亡囧途”</title>
-      <link>https://www.tmtpost.com/8159927.html</link>
-      <description>&lt;![CDATA[国内大厂的印度“逃亡囧途”]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159927.html</guid>
+      <title>Edge AI Daily 早报（10月7日）</title>
+      <link>https://www.tmtpost.com/8160096.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（10月7日）]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 08:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8160096.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球AI消费调查：仅有1%超级玩家在养活AI圈</title>
-      <link>https://www.tmtpost.com/8159928.html</link>
-      <description>&lt;![CDATA[全球AI消费调查：仅有1%超级玩家在养活AI圈]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159928.html</guid>
+      <title>DeepSeek被爆最新融资800亿，正为冲击IPO做准备</title>
+      <link>https://www.tmtpost.com/8159961.html</link>
+      <description>&lt;![CDATA[DeepSeek被爆最新融资800亿，正为冲击IPO做准备]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 21:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159961.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界模型赛道：谁在收编，谁在突围？</title>
-      <link>https://www.tmtpost.com/8159876.html</link>
-      <description>&lt;![CDATA[世界模型赛道：谁在收编，谁在突围？]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159876.html</guid>
+      <title>派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude</title>
+      <link>http://www.geekpark.net/news/372089</link>
+      <description>&lt;![CDATA[派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372089</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争</title>
-      <link>https://www.tmtpost.com/8159881.html</link>
-      <description>&lt;![CDATA[重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159881.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI 越来越强，公司为什么还是做不快？</title>
-      <link>https://www.tmtpost.com/8159894.html</link>
-      <description>&lt;![CDATA[AI 越来越强，公司为什么还是做不快？]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159894.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>想改造工厂的机器人，先被工厂改造了</title>
-      <link>https://www.tmtpost.com/8159783.html</link>
-      <description>&lt;![CDATA[想改造工厂的机器人，先被工厂改造了]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159783.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？</title>
-      <link>https://www.tmtpost.com/8159745.html</link>
-      <description>&lt;![CDATA[10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159745.html</guid>
+      <title>基于 Vaultwarden 和 Keyguard 的自托管密码管理实践</title>
+      <link>https://sspai.com/post/115416</link>
+      <description>&lt;![CDATA[基于 Vaultwarden 和 Keyguard 的自托管密码管理实践]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/115416</guid>
       <category>Technology</category>
     </item>
   </channel>
