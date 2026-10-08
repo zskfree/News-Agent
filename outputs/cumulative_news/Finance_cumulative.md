@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-07 11:37
+**最后更新时间**: 2026-10-08 02:37
+
+---
+
+## 🆕 最新更新 (2026-10-08 02:37)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Samsung profit surges ninefold to $80bn on AI chip demand](https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 01:50
+
+#### [China races to build AI data centres across energy-rich hinterland](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 00:15
+
+#### [Trump considers ‘terminating’ campaign advisers after Balkans trip](https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 21:24
+
+#### [US government bonds steady after strong 10-year Treasury auction](https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 19:58
+
+#### [The online life of the Flydubai attacker](https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 18:18
+
+#### [SpaceX credit risk jumps on worries over its borrowing spree](https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 18:05
+
+#### [China slaps down EU request for voluntary curbs on hybrid car exports](https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-07 16:56
+
+#### [How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields](https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c)
+**发布时间**: 2026-10-07 10:20
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?](https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 01:45
+
+#### [Rising yields are quietly crashing the stock market’s earlier winners of 2026](https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 22:32
+
+#### [Higher yields are taking their toll on all areas of the stock market, except the one that matters](https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 20:58
+
+#### [Options traders are betting on a dramatic drop in interest rates](https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 20:36
+
+#### [Fed’s minutes show no appetite for a series of interest-rate hikes](https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 19:35
+
+#### [Microsoft and Nvidia are teaming up on a supercharged AI laptop](https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 19:12
+
+#### [Stocks are increasingly their own best hedge. This chart shows why.](https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 18:31
+
+#### [SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips](https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 18:22
+
+#### [Washington and Wall Street chose to delay paying their bills — and to put them on your tab](https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories)
+**发布时间**: 2026-10-07 17:36
 
 ---
 

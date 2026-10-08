@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-07 11:37
+**最后更新时间**: 2026-10-08 02:37
+
+---
+
+## 🆕 最新更新 (2026-10-08 02:37)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [只有148家门店的“很久以前”要IPO了](https://www.tmtpost.com/8160675.html)
+**发布时间**: 2026-10-08 10:21
+
+#### [Meta的14GW野心和黑石放弃的22个月](https://www.tmtpost.com/8160365.html)
+**发布时间**: 2026-10-08 10:21
+
+#### [GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停](https://www.tmtpost.com/8160689.html)
+**发布时间**: 2026-10-08 09:51
+
+#### [国庆每天3亿人出游，旅行社却撑不住了](https://www.tmtpost.com/8160517.html)
+**发布时间**: 2026-10-08 09:40
+
+#### [Haiku 5.5发布，Anthropic开始撒钱](https://www.tmtpost.com/8160574.html)
+**发布时间**: 2026-10-08 09:29
+
+#### [Edge AI Daily 早报（10月8日）](https://www.tmtpost.com/8160561.html)
+**发布时间**: 2026-10-08 08:34
+
+#### [【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金](https://www.tmtpost.com/8160058.html)
+**发布时间**: 2026-10-08 07:20
+
+#### [腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？](https://www.tmtpost.com/8160336.html)
+**发布时间**: 2026-10-07 20:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海](https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 10:00
+
+#### [两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造](https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 10:00
+
+#### [代码交给AI，心流却回来了：Codex负责人不再怀念手写时代](https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 09:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙](http://www.geekpark.net/news/372099)
+**发布时间**: 2026-10-08 09:40
+
+#### [ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道](http://www.geekpark.net/news/372090)
+**发布时间**: 2026-10-08 08:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
+**发布时间**: 2026-10-08 08:16
 
 ---
 

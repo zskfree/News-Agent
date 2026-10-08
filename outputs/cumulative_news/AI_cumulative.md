@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-07 11:35
+**最后更新时间**: 2026-10-08 02:35
+
+---
+
+## 🆕 最新更新 (2026-10-08 02:35)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
+**发布时间**: 2026-10-08 02:15
+
+#### [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/501913.html)
+**发布时间**: 2026-10-08 02:04
+
+#### [GPT-6今起免费用！拒答变少，话变多了](https://www.qbitai.com/2026/10/501834.html)
+**发布时间**: 2026-10-08 01:07
+
+#### [Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊](https://www.qbitai.com/2026/10/501832.html)
+**发布时间**: 2026-10-08 01:04
+
+#### [迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦](https://www.qbitai.com/2026/10/501825.html)
+**发布时间**: 2026-10-07 14:10
+
+#### [《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！](https://www.qbitai.com/2026/10/501803.html)
+**发布时间**: 2026-10-07 11:34
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs](https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/)
+**发布时间**: 2026-10-08 01:49
+
+#### [Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens](https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/)
+**发布时间**: 2026-10-07 20:38
+
+#### [Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens](https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/)
+**发布时间**: 2026-10-07 18:23
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)
+**发布时间**: 2026-10-07 20:19
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [《碳硅道统·跨域迁移治理法典》188集 总纲摘要](https://www.leiphone.com/category/industrynews/NWhDqDo0wpZbKRgp.html)
+**发布时间**: 2026-10-07 19:37
+
+#### [碳硅道统·跨域迁移治理法典](https://www.leiphone.com/category/industrynews/XNaGx6kCv9dNhtKY.html)
+**发布时间**: 2026-10-07 19:31
+
+#### [碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷](https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html)
+**发布时间**: 2026-10-07 19:26
+
+#### [碳硅道统《AI安全与文明治理法典》188集 · 七层体系目录](https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html)
+**发布时间**: 2026-10-07 19:19
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/)
+**发布时间**: 2026-10-07 18:52
+
+#### [Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/)
+**发布时间**: 2026-10-07 18:34
+
+#### [Beyond hours saved: Building the business case for agentic automation](https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/)
+**发布时间**: 2026-10-07 15:50
+
+#### [How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/)
+**发布时间**: 2026-10-07 15:48
+
+#### [Automate remediation post AWS DevOps Agent investigation](https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/)
+**发布时间**: 2026-10-07 15:46
+
+#### [Building AI builders: Playbook for closing the AI knowledge-capability gap](https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/)
+**发布时间**: 2026-10-07 15:44
+
+#### [How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/)
+**发布时间**: 2026-10-07 15:38
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
+**发布时间**: 2026-10-07 18:45
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1)
+**发布时间**: 2026-10-07 16:54
+
+#### [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026)
+**发布时间**: 2026-10-07 12:45
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Discovering the value of humanistic inquiry](https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007)
+**发布时间**: 2026-10-07 16:10
 
 ---
 
