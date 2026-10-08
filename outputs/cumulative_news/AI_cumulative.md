@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-08 02:35
+**最后更新时间**: 2026-10-08 11:50
+
+---
+
+## 🆕 最新更新 (2026-10-08 11:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [电子驾驶证来啦！“交管12123”支付宝小程序上线三项新功能](https://www.leiphone.com/category/industrynews/ANI0Ssulycx3Ca39.html)
+**发布时间**: 2026-10-08 17:42
+
+#### [全行业迁移治理层｜产业落地的风控基线校准](https://www.leiphone.com/category/industrynews/yXoEADuBlQVbLjXU.html)
+**发布时间**: 2026-10-08 16:02
+
+#### [迁移权责确权层｜跨域行为的权属与越界判定](https://www.leiphone.com/category/industrynews/maJeT3wG8PATohRQ.html)
+**发布时间**: 2026-10-08 16:00
+
+#### [迁移技术机理层｜负迁移发生的底层诱因](https://www.leiphone.com/category/industrynews/ZiR18N0bk5jxaFJO.html)
+**发布时间**: 2026-10-08 15:58
+
+#### [迁移事故解剖层｜事故熵增的归因边界](https://www.leiphone.com/category/industrynews/JYrJOwTptVzwomFq.html)
+**发布时间**: 2026-10-08 15:56
+
+#### [《碳硅道统·跨域迁移治理法典》七层体系目录](https://www.leiphone.com/category/industrynews/qCQ6peI7fBvGB3bC.html)
+**发布时间**: 2026-10-08 15:54
+
+#### [独家丨前腾讯混元技术骨干胡瀚创业新进展：目标估值数亿美金](https://www.leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html)
+**发布时间**: 2026-10-08 15:26
+
+#### [云栖大会观察：阿里怎么打下一阶段模型战?](https://www.leiphone.com/category/industrynews/SqijXlMpyTf0xSst.html)
+**发布时间**: 2026-10-08 15:20
+
+#### [北醒李远：给机器造眼睛，与「自讨苦吃」的十一年|物理 AI 50人](https://www.leiphone.com/category/robot/xhfZWtXZLLsnbNKt.html)
+**发布时间**: 2026-10-08 15:16
+
+#### [七年第一，三项蝉联！赛迪报告：奇安信持续领跑中国网安市场](https://www.leiphone.com/category/industrynews/OnnIljx0ffMOHsQr.html)
+**发布时间**: 2026-10-08 14:45
+
+#### [独家 | 清华 AIR 首届博士李健雄创立本溯智能：五源资本领投，押注动作原生具身模型](https://www.leiphone.com/category/ai/WbD0Tf6P1oA2WDdq.html)
+**发布时间**: 2026-10-08 14:39
+
+#### [至简动力冯宗宝：在间隙仅 0.5 毫米的真实场景下，实现机器人造机器人 | IROS 2026](https://www.leiphone.com/category/private/xCu836z16KSzx2Co.html)
+**发布时间**: 2026-10-08 14:37
+
+#### [从「小而专」切入，3C 卖家如何在东南亚做深配件生意](https://www.leiphone.com/category/industrynews/JFIZ91nd5mP5Dl3N.html)
+**发布时间**: 2026-10-08 14:07
+
+#### [我所知道的张磊：一场MSRA赛马与半个中国AI江湖](https://www.leiphone.com/category/industrynews/GpWlfJRtQo3YoQnc.html)
+**发布时间**: 2026-10-08 13:53
+
+#### [7个月融4亿美刀背后，站着代季峰8人团](https://www.leiphone.com/category/industrynews/f0nfLFiAdLXtig24.html)
+**发布时间**: 2026-10-08 13:49
+
+#### [华为已为KV Cache单独做存储，专用SSD规格却还没定下来](https://www.leiphone.com/category/chips/JidbQuKCNUBEEV6Z.html)
+**发布时间**: 2026-10-08 11:55
+
+#### [从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床](https://www.leiphone.com/category/aihealth/93E68V91AW9aHtDb.html)
+**发布时间**: 2026-10-08 11:18
+
+#### [IROS 2026大奖揭晓：长期记忆拿下最佳论文，人形机器人打网球、端托盘双双获奖](https://www.leiphone.com/category/private/VYRZFCnadDOcPDeX.html)
+**发布时间**: 2026-10-08 10:57
+
+#### [研究了1933篇 IROS 论文，我们看到了机器人学的六项新变化](https://www.leiphone.com/category/private/wEpCJ4T8v9cJFgCn.html)
+**发布时间**: 2026-10-08 10:46
+
+#### [银河通用&清华 LATENT：用「不完美人类数据」让机器人学会网球对打 | IROS 2026](https://www.leiphone.com/category/private/HkC1hSwn255e7hL9.html)
+**发布时间**: 2026-10-08 10:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界](https://www.qbitai.com/2026/10/502020.html)
+**发布时间**: 2026-10-08 10:23
+
+#### [浪子回头！Manus重启北京办公室大举招聘](https://www.qbitai.com/2026/10/502009.html)
+**发布时间**: 2026-10-08 09:30
+
+#### [ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？](https://www.qbitai.com/2026/10/501995.html)
+**发布时间**: 2026-10-08 09:28
+
+#### [吉利智充技术正式发布，重塑全球补能新标杆](https://www.qbitai.com/2026/10/501956.html)
+**发布时间**: 2026-10-08 09:10
+
+#### [打不过就投降，保时捷裁员9000人，回归燃油车主线](https://www.qbitai.com/2026/10/501930.html)
+**发布时间**: 2026-10-08 07:10
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference](https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/)
+**发布时间**: 2026-10-08 08:53
+
+#### [NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes](https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/)
+**发布时间**: 2026-10-08 08:40
+
+#### [Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA](https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/)
+**发布时间**: 2026-10-08 05:39
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-08日刊](https://hex2077.dev/docs/2026-10/2026-10-08/)
+**发布时间**: 2026-10-08 02:42
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Using AI to mitigate the growing environmental threat of data centers](https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008)
+**发布时间**: 2026-10-08 00:00
 
 ---
 

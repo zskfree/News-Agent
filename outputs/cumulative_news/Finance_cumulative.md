@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-08 02:37
+**最后更新时间**: 2026-10-08 11:52
+
+---
+
+## 🆕 最新更新 (2026-10-08 11:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tesla’s big AI gamble puts its EV business under a microscope](https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 11:33
+
+#### [A strategist who called the Asian financial crisis sees parallels with the AI boom](https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 11:32
+
+#### [After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.](https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 11:31
+
+#### [A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners](https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 10:30
+
+#### [Samsung just did something no tech company has ever done, but investors still aren’t satisfied](https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 09:50
+
+#### [Oil prices are jumping again. Here’s how the S&P 500 has performed on days when crude has seen big gains may be surprising.](https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 09:33
+
+#### [French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain](https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 09:32
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil prices jump on tanker attack and slowing flows through Strait of Hormuz](https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 11:20
+
+#### [Houthi attacks on Saudi airports kill three people](https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 09:44
+
+#### [Germany’s ex-spymaster admits holding files but denies treason](https://www.ft.com/content/572b899b-0e36-4a90-aadc-776818e339c3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 08:56
+
+#### [How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow](https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 04:00
+
+#### [Real men don’t do climate change](https://www.ft.com/content/61118fd6-b5d2-4ce1-9a78-4535a0ef3ead?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 04:00
+
+#### [French bond sell-off prompts ‘bottom fishing’ across Europe](https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 04:00
+
+#### [China races to build data centres in bid for AI supremacy](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 00:15
 
 ---
 

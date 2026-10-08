@@ -1,7 +1,122 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-08 02:37
+**最后更新时间**: 2026-10-08 11:52
+
+---
+
+## 🆕 最新更新 (2026-10-08 11:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“山姆平替”扎堆开首店，现场排队百米，年轻人捧红“新物种”](https://www.tmtpost.com/8161052.html)
+**发布时间**: 2026-10-08 19:39
+
+#### [3000万招聘NPC、最高年薪千万，景区疯抢“打工人”](https://www.tmtpost.com/8161049.html)
+**发布时间**: 2026-10-08 19:38
+
+#### [比肩存储，造船超级周期还能走多远？](https://www.tmtpost.com/8160992.html)
+**发布时间**: 2026-10-08 19:36
+
+#### [小县城能接住双节的泼天流量吗？](https://www.tmtpost.com/8160423.html)
+**发布时间**: 2026-10-08 19:16
+
+#### [数据中心装不下AI的全部野心了](https://www.tmtpost.com/8161196.html)
+**发布时间**: 2026-10-08 19:13
+
+#### [从家电龙头到“人形机器人第一股”：质量，成为广东产业链的公共底座](https://www.tmtpost.com/8161267.html)
+**发布时间**: 2026-10-08 18:46
+
+#### [被叫停的收购，为什么让Manus更贵了](https://www.tmtpost.com/8161264.html)
+**发布时间**: 2026-10-08 18:13
+
+#### [The Growth That Could Not Be Taken Home](https://www.tmtpost.com/8161223.html)
+**发布时间**: 2026-10-08 17:14
+
+#### [这个国庆节，中国人更能飞了](https://www.tmtpost.com/8160761.html)
+**发布时间**: 2026-10-08 16:39
+
+#### [金价从1001跌到886，央行却连买23个月](https://www.tmtpost.com/8160940.html)
+**发布时间**: 2026-10-08 16:15
+
+#### [Kling’s Path to a Separate Listing Leaves Kuaishou Shareholders With a Harder Choice](https://www.tmtpost.com/8160989.html)
+**发布时间**: 2026-10-08 14:02
+
+#### [一次同意，二十一次缺席](https://www.tmtpost.com/8160632.html)
+**发布时间**: 2026-10-08 12:17
+
+#### [都在等罗永浩翻车](https://www.tmtpost.com/8160670.html)
+**发布时间**: 2026-10-08 12:17
+
+#### [数据中心，正在拆掉Token时代的旧围墙](https://www.tmtpost.com/8160868.html)
+**发布时间**: 2026-10-08 12:17
+
+#### [零食加速向「新鲜」进化，但真正的门槛不是开店](https://www.tmtpost.com/8160876.html)
+**发布时间**: 2026-10-08 12:17
+
+#### [保时捷接受低销量时代，盈亏线降至20万辆以下](https://www.tmtpost.com/8160722.html)
+**发布时间**: 2026-10-08 11:54
+
+#### [谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](https://www.tmtpost.com/8160841.html)
+**发布时间**: 2026-10-08 11:24
+
+#### [从Siri到Muse，我们如何一步步把生活交给AI](https://www.tmtpost.com/8160467.html)
+**发布时间**: 2026-10-08 11:17
+
+#### [造车新势力，集体走向电池深水区](https://www.tmtpost.com/8160469.html)
+**发布时间**: 2026-10-08 11:17
+
+#### [化疗组超常发挥，重创了艾力斯的全球野心](https://www.tmtpost.com/8160511.html)
+**发布时间**: 2026-10-08 11:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
+**发布时间**: 2026-10-08 17:28
+
+#### [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
+**发布时间**: 2026-10-08 16:10
+
+#### [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
+**发布时间**: 2026-10-08 14:42
+
+#### [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
+**发布时间**: 2026-10-08 09:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust](https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 17:12
+
+#### [Cloudflare 详解从 WordPress 迁移至 EmDash 的过程](https://www.infoq.cn/article/hGCTSjQKOsqqz0lVUgfx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 15:00
+
+#### [OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%](https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 14:11
+
+#### [2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停](https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 14:10
+
+#### [TypeScript 终于能编译成原生程序了？启动快 12 倍，运行却慢 7.5 倍](https://www.infoq.cn/article/BchL2TVhSF2dwyrCogVO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 13:22
+
+#### [苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过](https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 11:43
+
+#### [AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人](https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 11:08
+
+#### [海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌](https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-08 10:35
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [3 个最近爆火的 Personal Agent ，在 GitHub 上有开源平替了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537624&idx=1&sn=10eccfc7b58a97b27b2144654b7ddd35)
+**发布时间**: 2026-10-08 15:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [9499 元起售的华为 Mate 90 Pro Max，最值的还是相机](http://www.geekpark.net/news/372088)
+**发布时间**: 2026-10-06 16:33
 
 ---
 
