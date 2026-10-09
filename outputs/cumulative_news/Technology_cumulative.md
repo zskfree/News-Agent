@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-08 11:52
+**最后更新时间**: 2026-10-09 02:51
+
+---
+
+## 🆕 最新更新 (2026-10-09 02:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [数亿融资的AI乙游，正在失守它的阵地](https://www.tmtpost.com/8161802.html)
+**发布时间**: 2026-10-09 10:35
+
+#### [手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流](https://www.tmtpost.com/8161706.html)
+**发布时间**: 2026-10-09 10:31
+
+#### [2026国庆人山人海的另一面：总量回暖、结构分化](https://www.tmtpost.com/8161662.html)
+**发布时间**: 2026-10-09 10:28
+
+#### [《生化危机》重启，从大女主到大自嬷时代](https://www.tmtpost.com/8161613.html)
+**发布时间**: 2026-10-09 10:21
+
+#### [70 亿只花了 14%，壁仞为什么急着再募 40 亿](https://www.tmtpost.com/8161238.html)
+**发布时间**: 2026-10-09 10:21
+
+#### [影视公司站在AI牌桌前：谁在梭哈，谁在观望，谁在裸泳](https://www.tmtpost.com/8161608.html)
+**发布时间**: 2026-10-09 10:16
+
+#### [超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](https://www.tmtpost.com/8161533.html)
+**发布时间**: 2026-10-09 10:05
+
+#### [“东方香”撕开440亿的增长口，国货香水的机会点在哪？](https://www.tmtpost.com/8161530.html)
+**发布时间**: 2026-10-09 10:05
+
+#### [人形机器人抢入口，工业机器人抢利润](https://www.tmtpost.com/8161596.html)
+**发布时间**: 2026-10-09 09:52
+
+#### [聚光灯之外：传统行业拥抱AI的速度，远比想象中快](https://www.tmtpost.com/8161575.html)
+**发布时间**: 2026-10-09 09:41
+
+#### [亚马逊一年裁掉3万人，省下的钱全砸进了AI](https://www.tmtpost.com/8161599.html)
+**发布时间**: 2026-10-09 09:39
+
+#### [OpenAI和Anthropic，开启“模型之战”](https://www.tmtpost.com/8161593.html)
+**发布时间**: 2026-10-09 09:34
+
+#### [当 AI 扑进剪辑软件：视频创作的“专业权”正在被重新分配](https://www.tmtpost.com/8161544.html)
+**发布时间**: 2026-10-09 09:28
+
+#### [7-ELEVEn关闭印度全部门店](https://www.tmtpost.com/8161277.html)
+**发布时间**: 2026-10-09 09:23
+
+#### [新式文旅营销，正掏空年轻人钱包](https://www.tmtpost.com/8161410.html)
+**发布时间**: 2026-10-09 09:20
+
+#### [9天，1.2亿归零，他写下《锥心之痛》](https://www.tmtpost.com/8161407.html)
+**发布时间**: 2026-10-09 09:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kimi 现代高速开源治理的 AI Native 实践｜QCon上海](https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 10:00
+
+#### [在生产环境中保护MCP：超越网关的纵深防御](https://www.infoq.cn/article/HZIW4QjEfV66I9CGr52R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 09:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
+**发布时间**: 2026-10-09 08:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序](http://www.geekpark.net/news/372143)
+**发布时间**: 2026-10-09 08:35
 
 ---
 

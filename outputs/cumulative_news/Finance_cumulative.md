@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-08 11:52
+**最后更新时间**: 2026-10-09 02:51
+
+---
+
+## 🆕 最新更新 (2026-10-09 02:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares](https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 00:52
+
+#### [How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’](https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 00:03
+
+#### [Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.](https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 23:14
+
+#### [Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’](https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 22:08
+
+#### [My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?](https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 22:00
+
+#### [Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy](https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 21:56
+
+#### [PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out](https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 21:43
+
+#### [I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?](https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-08 21:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US to publicly execute former soldier by firing squad](https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 22:28
+
+#### [US justice department orders playbook refresh for frauds on government](https://www.ft.com/content/dbcc35ba-db23-4be3-b2c0-4a0d8ecb7375?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 20:35
+
+#### [OpenAI annualised revenues $20bn less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 20:15
+
+#### [Trump says US ‘will not be attacking Iran’ before midterm elections](https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 20:08
+
+#### [Microsoft and Indian IT groups banned from sponsoring workers for US residency](https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 19:45
+
+#### [Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska](https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 15:17
+
+#### [Repeated US Treasury interventions risk an erosion of credibility](https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 14:30
+
+#### [Is Trump losing the rust belt?](https://www.ft.com/content/e86d2bf9-100f-4722-b845-c3b46d94866b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 04:00
 
 ---
 

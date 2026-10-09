@@ -1,7 +1,66 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-08 11:50
+**最后更新时间**: 2026-10-09 02:49
+
+---
+
+## 🆕 最新更新 (2026-10-09 02:49)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化](https://www.qbitai.com/2026/10/502096.html)
+**发布时间**: 2026-10-09 02:03
+
+#### [陶哲轩带头宣战！人类数学家联合抵制OpenAI](https://www.qbitai.com/2026/10/502089.html)
+**发布时间**: 2026-10-09 00:35
+
+#### [不等Gemini 4了！谷歌发布办公Agent，支持调用Claude](https://www.qbitai.com/2026/10/502083.html)
+**发布时间**: 2026-10-09 00:16
+
+#### [真香！做这个邪恶老奶版「GTA 6」，我只花了5元！](https://www.qbitai.com/2026/10/502049.html)
+**发布时间**: 2026-10-08 13:28
+
+#### [正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案](https://www.qbitai.com/2026/10/502035.html)
+**发布时间**: 2026-10-08 12:43
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [Claude Haiku 5.5 降本背后：操作能力暴涨，复杂编程为何仍差一截？](https://www.leiphone.com/category/ai/n2GjuJRnM4utgaun.html)
+**发布时间**: 2026-10-08 23:37
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
+**发布时间**: 2026-10-08 21:06
+
+#### [Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/)
+**发布时间**: 2026-10-08 13:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-10-08 18:33
+
+#### [Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-10-08 16:20
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [3 Questions: What is the best path forward for AI in academia?](https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925)
+**发布时间**: 2026-10-08 17:25
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents](https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/)
+**发布时间**: 2026-10-08 16:17
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern)
+**发布时间**: 2026-10-08 00:00
+
+#### [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr)
+**发布时间**: 2026-10-07 13:21
 
 ---
 
