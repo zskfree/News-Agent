@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-09 02:51
+**最后更新时间**: 2026-10-09 11:44
+
+---
+
+## 🆕 最新更新 (2026-10-09 11:44)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报](https://www.tmtpost.com/8163045.html)
+**发布时间**: 2026-10-09 19:04
+
+#### [Robotaxi Races Shift From Tech Specs to Partnerships](https://www.tmtpost.com/8163126.html)
+**发布时间**: 2026-10-09 18:28
+
+#### [特斯拉供应商们，正在悄悄“造人”](https://www.tmtpost.com/8162947.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [AI家电，攻占黄金周](https://www.tmtpost.com/8162948.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧](https://www.tmtpost.com/8162833.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [印尼出口新低，印度库存告急，全球煤市最危险的窗口期正在倒计时](https://www.tmtpost.com/8162956.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [最大半导体IPO来了，英特尔“弃子”，逆袭成万亿新贵](https://www.tmtpost.com/8162942.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [AI平均3小时完成一个数学证明，科研进入大通胀时代？](https://www.tmtpost.com/8162938.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [34集拿下63.4%市占率，中剧让长剧的牌桌变了？](https://www.tmtpost.com/8162846.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [高通向华为付钱那天，两种中国芯的分岔口](https://www.tmtpost.com/8161607.html)
+**发布时间**: 2026-10-09 18:18
+
+#### [15亿欧元拿下彪马近三成股权，安踏能否助其结束低谷？](https://www.tmtpost.com/8161627.html)
+**发布时间**: 2026-10-09 18:09
+
+#### [暴跌20%、苹果也崩盘，AI越火PC日子越难过](https://www.tmtpost.com/8162940.html)
+**发布时间**: 2026-10-09 18:08
+
+#### [英伟达没能捧出澳洲的AI估值神话](https://www.tmtpost.com/8162777.html)
+**发布时间**: 2026-10-09 17:41
+
+#### [AI猫狗演短剧，谁在背后数钱？](https://www.tmtpost.com/8162778.html)
+**发布时间**: 2026-10-09 17:41
+
+#### [真人对战机器人，一票难求的格斗赛被叫停](https://www.tmtpost.com/8162701.html)
+**发布时间**: 2026-10-09 17:32
+
+#### [江淮汽车，应该谢谢懂车帝把自己测到跌停](https://www.tmtpost.com/8161431.html)
+**发布时间**: 2026-10-09 17:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
+**发布时间**: 2026-10-09 18:04
+
+#### [vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
+**发布时间**: 2026-10-09 14:43
+
+#### [App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts](https://sspai.com/post/114869)
+**发布时间**: 2026-10-09 10:08
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”](https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 17:53
+
+#### [Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧](https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 17:39
+
+#### [OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的](https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 17:24
+
+#### [@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude](https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 17:15
+
+#### [Modal 破解 Kubernetes 限制，在几秒内扩展 100 万个并发沙箱](https://www.infoq.cn/article/tor9ik2Xesfgf1x3CadO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 17:10
+
+#### [AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启](https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 16:59
+
+#### [乱序 HTML 流技术从 JavaScript 框架转移到浏览器中](https://www.infoq.cn/article/BEgaPOXCCtDaPGJiCtSi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 15:30
+
+#### [全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界](https://www.infoq.cn/article/ZxZMY50COGlUNHLSAEUo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 14:03
+
+#### [Cloudflare 通过测量源站 TLS 偏好将握手重试率从 52% 降至 3.7%](https://www.infoq.cn/article/Hbsjy8lpjsASU3lxzYAC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 13:11
+
+#### [从 Demo 到生产：AI Agent 缺的到底是什么？](https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 11:13
+
+#### [全球扩散语言模型最大融资诞生：经纬、顺为、君联数亿元押注扩散智能DiffuSpace](https://www.infoq.cn/article/kjPiCQV1cOO6AzaOjioR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-09 11:07
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [我使用国产「个人 AI 助手」的十天｜AI 上新](http://www.geekpark.net/news/372163)
+**发布时间**: 2026-10-09 12:34
+
+#### [攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」](http://www.geekpark.net/news/372148)
+**发布时间**: 2026-10-09 12:28
 
 ---
 

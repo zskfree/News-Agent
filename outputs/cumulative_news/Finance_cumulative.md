@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-09 02:51
+**最后更新时间**: 2026-10-09 11:44
+
+---
+
+## 🆕 最新更新 (2026-10-09 11:44)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Aging bull: Why this 4-year-old stock-market rally still packs a punch](https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 11:41
+
+#### [Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders](https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 10:04
+
+#### [‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 09:15
+
+#### [Why the price of this one ETF has gone exponential](https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 09:12
+
+#### [Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce](https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 08:58
+
+#### [Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks](https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 08:49
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nobel Peace Prize awarded to human rights pioneer Navi Pillay](https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 10:09
+
+#### [SoftBank seeks $100bn from Gulf investors to expand AI bet](https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:30
+
+#### [Nobel laureate Machado says Venezuela is ‘ready’ for new elections](https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:23
+
+#### [Manchester City: too big to fail?](https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [Some much-needed American optimism on Europe](https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [Five ways to tell if market trouble lies ahead](https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says](https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [Why bank stocks are falling despite surging interest rates](https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [Famous Italian winery loses 30,000 bottles worth €5mn in heist](https://www.ft.com/content/1b614d60-a5d3-4b9f-b3e8-63f51bdfd599?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 04:00
+
+#### [Pentagon to livestream execution of former soldier by firing squad](https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-08 22:28
 
 ---
 

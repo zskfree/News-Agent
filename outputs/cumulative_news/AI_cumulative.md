@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-09 02:49
+**最后更新时间**: 2026-10-09 11:42
+
+---
+
+## 🆕 最新更新 (2026-10-09 11:42)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [做了八年DSP，Credo怎么突然开始做光芯片了？](https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html)
+**发布时间**: 2026-10-09 17:14
+
+#### [再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6](https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html)
+**发布时间**: 2026-10-09 13:45
+
+#### [法典终局锁档层｜体系自洽与范式边界的闭环校验](https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html)
+**发布时间**: 2026-10-09 12:30
+
+#### [文明级迁移风控层｜长周期不可逆的文明扰动识别](https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html)
+**发布时间**: 2026-10-09 12:28
+
+#### [跨域顶层监管层｜监管者自身的跨域审计规则](https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html)
+**发布时间**: 2026-10-09 12:27
+
+#### [近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会](https://www.leiphone.com/category/industrynews/B15TR4XzQCYG9u7a.html)
+**发布时间**: 2026-10-09 12:09
+
+#### [Wayfair与雨果跨境达成战略合作，助推供应商高质量出海](https://www.leiphone.com/category/industrynews/O3pNuPCwkHAjAiUM.html)
+**发布时间**: 2026-10-09 11:47
+
+#### [TRAE全面升级：双端融合，打造全链路开发平台](https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html)
+**发布时间**: 2026-10-09 11:40
+
+#### [豆包工作新增画布功能，并接入豆包2.1 Lite模型](https://www.leiphone.com/category/industrynews/J8Nj09CidhwiTl90.html)
+**发布时间**: 2026-10-09 11:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
+**发布时间**: 2026-10-09 09:19
+
+#### [联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一](https://www.qbitai.com/2026/10/502422.html)
+**发布时间**: 2026-10-09 08:53
+
+#### [0.2秒急停、秒级重规划！因果智能走进真实世界](https://www.qbitai.com/2026/10/502411.html)
+**发布时间**: 2026-10-09 08:47
+
+#### [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
+**发布时间**: 2026-10-09 07:11
+
+#### [《柳叶刀》研究表明：AI 有望改善医患关系](https://www.qbitai.com/2026/10/502359.html)
+**发布时间**: 2026-10-09 06:28
+
+#### [灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」](https://www.qbitai.com/2026/10/502330.html)
+**发布时间**: 2026-10-09 04:15
+
+#### [清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据](https://www.qbitai.com/2026/10/502125.html)
+**发布时间**: 2026-10-09 03:52
+
+#### [尊界深夜回应“刹车踏板断裂”，懂车帝再发声](https://www.qbitai.com/2026/10/502114.html)
+**发布时间**: 2026-10-09 02:51
+
+#### [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
+**发布时间**: 2026-10-09 02:37
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling](https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/)
+**发布时间**: 2026-10-09 07:23
+
+#### [Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work](https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/)
+**发布时间**: 2026-10-09 06:47
+
+#### [Google Research RRSI Guide: Mastering Self-Improving AI Agents](https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/)
+**发布时间**: 2026-10-09 05:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-09日刊](https://hex2077.dev/docs/2026-10/2026-10-09/)
+**发布时间**: 2026-10-09 03:29
 
 ---
 
