@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-10 02:11
+**最后更新时间**: 2026-10-10 11:02
+
+---
+
+## 🆕 最新更新 (2026-10-10 11:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index](https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 11:00
+
+#### [‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 10:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Police arrest leader of India’s ‘Cockroach’ movement before mass protest](https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 09:19
+
+#### [The world of one trade — AI](https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 06:36
+
+#### [Saudi flagship summits under pressure after deadly airport attacks](https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 06:36
+
+#### [Napa Valley’s hangover](https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b)
+**发布时间**: 2026-10-10 04:00
+
+#### [The danger of pessimism fatigue](https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 04:00
+
+#### [Russia targets Ukraine’s bridges as Vladimir Putin expands air war](https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 04:00
+
+#### [Airlines sound the alarm as bleak winter looms](https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 20:00
+
+#### [Ukraine strikes Russian tech giant’s data centres](https://www.ft.com/content/b90417e7-4d32-48cc-a508-5d405e7cd2ee?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 11:55
 
 ---
 

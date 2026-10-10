@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-10 02:09
+**最后更新时间**: 2026-10-10 10:59
+
+---
+
+## 🆕 最新更新 (2026-10-10 10:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [解读丨全系上自研电池，理想要干什么？](https://www.leiphone.com/category/transportation/glDqTmPAjocSjhzo.html)
+**发布时间**: 2026-10-10 16:28
+
+#### [45分钟小定8000台，智己LS6这次成了？](https://www.leiphone.com/category/transportation/ZbUAuIZ3oSpuD906.html)
+**发布时间**: 2026-10-10 16:26
+
+#### [买理想，还要不要认电池品牌？理想总裁马东辉的回应来了](https://www.leiphone.com/category/transportation/KdptMsXu5w9oiUOo.html)
+**发布时间**: 2026-10-10 16:24
+
+#### [新智驾独家丨奇瑞高层人事调整：智能化中心负责人谢保军疑似离职](https://www.leiphone.com/category/transportation/oiSyYkdJBNF6AfVW.html)
+**发布时间**: 2026-10-10 16:22
+
+#### [零跑朱江明放话第二品牌要做iPhone式产品革命，哪来的自信？](https://www.leiphone.com/category/transportation/2mlyhW6adiiiwwoy.html)
+**发布时间**: 2026-10-10 16:20
+
+#### [对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万](https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html)
+**发布时间**: 2026-10-10 16:15
+
+#### [对话赵长江：智界RX要成为华为的「Pura X」](https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html)
+**发布时间**: 2026-10-10 15:52
+
+#### [独家丨蔚来李斌最新内部讲话：明年将有重量级新车，未来3年的核心是三个聚焦](https://www.leiphone.com/category/transportation/aPoeP4p5SiG0Rian.html)
+**发布时间**: 2026-10-10 15:49
+
+#### [独家丨阿维塔酝酿高层调整：董事长王辉已开始负责长安海外业务](https://www.leiphone.com/category/transportation/K2A5u6HhCSr6HH9d.html)
+**发布时间**: 2026-10-10 15:47
+
+#### [独家丨舒酉星创立新公司「星能远行」，此前是比亚迪欧洲总裁](https://www.leiphone.com/category/transportation/Mq2kLln4ozKgC9Kv.html)
+**发布时间**: 2026-10-10 15:45
+
+#### [独家丨华为云销售组织大调整，将实行大区制](https://www.leiphone.com/category/industrynews/iO7umgMktTT2WmGw.html)
+**发布时间**: 2026-10-10 15:25
+
+#### [JEPA、空间智能路线正面交锋：WorldArena 2.0 挑战赛开考「能不能被机器人真正用起来」| IROS 2026](https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html)
+**发布时间**: 2026-10-10 13:30
+
+#### [里程碑时刻！比亚迪第15万台新能源商用车下线](https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html)
+**发布时间**: 2026-10-10 12:08
+
+#### [这届 IROS 2026 上，具身学术与产业边界正在消融](https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html)
+**发布时间**: 2026-10-10 11:40
+
+#### [阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！](https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html)
+**发布时间**: 2026-10-10 11:37
+
+#### [数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026](https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html)
+**发布时间**: 2026-10-10 11:28
+
+#### [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html)
+**发布时间**: 2026-10-10 11:25
+
+#### [2026中国国际社会公共安全产品博览会暨第三届智能与安全产业发展大会将于11月3日在北京开幕](https://www.leiphone.com/category/industrynews/aRKXkAwc34s4SwGT.html)
+**发布时间**: 2026-10-10 11:08
+
+#### [赛力斯9月产销快报 全新一代问界M9系列16周累计交付破4万](https://www.leiphone.com/category/industrynews/flB9MNXXd1jcRTtZ.html)
+**发布时间**: 2026-10-10 11:04
+
+#### [GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工](https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html)
+**发布时间**: 2026-10-10 09:38
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [特斯拉FSD，在欧洲被打回原形](https://www.qbitai.com/2026/10/502467.html)
+**发布时间**: 2026-10-10 06:59
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model](https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/)
+**发布时间**: 2026-10-10 06:03
+
+#### [Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text](https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/)
+**发布时间**: 2026-10-10 04:51
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-10日刊](https://hex2077.dev/docs/2026-10/2026-10-10/)
+**发布时间**: 2026-10-10 02:19
 
 ---
 

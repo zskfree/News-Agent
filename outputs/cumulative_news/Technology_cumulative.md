@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-10 02:11
+**最后更新时间**: 2026-10-10 11:02
+
+---
+
+## 🆕 最新更新 (2026-10-10 11:02)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX](https://www.infoq.cn/article/YLOUT8CrDm0NPWgHL8LG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 18:09
+
+#### [单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线](https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 17:24
+
+#### [模型开放之后，AI能力为什么仍难以复用？](https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 17:10
+
+#### [Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven](https://www.infoq.cn/article/8s5fm3AAfw7ya1qdWl5Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 17:00
+
+#### [GKE Pod 快照可缩短模型加载时间](https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 15:31
+
+#### [Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲](https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 15:24
+
+#### [CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用](https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 15:18
+
+#### [OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？](https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 15:11
+
+#### [金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行](https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 14:27
+
+#### [10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？](https://www.infoq.cn/article/8g9tlaqJFUPrb4oGO00A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 14:24
+
+#### [Pallas 内核怎么调优？Google 给出的答案是“少信模型，多看寄存器”](https://www.infoq.cn/article/kVJUKEcbqhpL2qwpp2Eq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 14:22
+
+#### [从 Coding 到 Running：AI Native SRE Agent 的工程实践](https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 14:13
+
+#### [比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”](https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 13:15
+
+#### [企业AI 走向生产环境，如何避免新一轮技术锁定](https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-10 13:08
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元](https://www.tmtpost.com/8163752.html)
+**发布时间**: 2026-10-10 17:57
+
+#### [AI落地遭遇账单焦虑，大厂开始对Token成本“下手”](https://www.tmtpost.com/8163627.html)
+**发布时间**: 2026-10-10 17:57
+
+#### [“请3休13”的黄金周，AI旅游攻略把我练成了特种兵](https://www.tmtpost.com/8163230.html)
+**发布时间**: 2026-10-10 17:40
+
+#### [张雪的老东家要去IPO了](https://www.tmtpost.com/8163619.html)
+**发布时间**: 2026-10-10 17:38
+
+#### [21亿人次，平台接管人们的国庆假期](https://www.tmtpost.com/8163700.html)
+**发布时间**: 2026-10-10 17:24
+
+#### [一边造AI，一边挖地堡，硅谷精英们在怕什么](https://www.tmtpost.com/8163367.html)
+**发布时间**: 2026-10-10 17:18
+
+#### [AI Labels Multiply on Appliances as Overall Demand Stays Soft](https://www.tmtpost.com/8163749.html)
+**发布时间**: 2026-10-10 16:10
+
+#### [AI出行大时代的东风渐起](https://www.tmtpost.com/8163314.html)
+**发布时间**: 2026-10-10 16:00
+
+#### [天津，一座被低估的AI基建重镇](https://www.tmtpost.com/8163595.html)
+**发布时间**: 2026-10-10 12:06
+
+#### [盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力](https://www.tmtpost.com/8155165.html)
+**发布时间**: 2026-10-10 10:11
+
+#### [China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power](https://www.tmtpost.com/8163541.html)
+**发布时间**: 2026-10-10 10:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [好产品就是与时代和生活共振｜2026 年度极客最爱好物启动](http://www.geekpark.net/news/372196)
+**发布时间**: 2026-10-10 14:07
+
+#### [记录生生不息的创新力量｜2026 年度「InnoForce 50」启动](http://www.geekpark.net/news/372195)
+**发布时间**: 2026-10-10 13:58
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
+**发布时间**: 2026-10-10 10:19
 
 ---
 
