@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-09 11:44
+**最后更新时间**: 2026-10-10 02:11
+
+---
+
+## 🆕 最新更新 (2026-10-10 02:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.](https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 00:15
+
+#### [‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 00:00
+
+#### [How to provide guaranteed retirement income while paying no commissions](https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 22:41
+
+#### [Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.](https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 22:00
+
+#### [Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.](https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 21:30
+
+#### [AI chip stocks wobble even as investors get clarity on a key OpenAI issue](https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 21:27
+
+#### [Microsoft is nearing a big milestone that solidifies its revival](https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 21:24
+
+#### [As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat](https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-09 21:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [JD Vance says he will not watch Pentagon’s livestreamed execution](https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 22:18
+
+#### [Trump agrees deal with Putin for Russia to release diesel](https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 22:06
+
+#### [Why OpenAI’s revenue numbers really matter](https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 21:48
+
+#### [The hazy OpenAI growth metric driving Wall Street](https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 20:57
+
+#### [Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 18:38
+
+#### [Bessent to miss IMF annual meetings in Bangkok](https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 18:22
+
+#### [Trump pressures Mexico for energy deals in crunch trade talks](https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 17:29
+
+#### [Trump launches committee to investigate Fed governor Lisa Cook](https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 17:26
+
+#### [Trump and Hegseth’s execution-type deal](https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 16:18
+
+#### [EU to explore windfall tax on energy companies](https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 16:05
+
+#### [Computer scientist David Silver: ‘Where are we going without AI?’](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1)
+**发布时间**: 2026-10-09 11:30
 
 ---
 

@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7f082d71a39f29df784ccf0b542351549a93742e140106c8e985a34bec10b186": {
-        "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
-        "link": "https://www.tmtpost.com/8134558.html",
-        "published_date": "Thu, 10 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697137"
-      },
-      "2f50c6879602119dea51603d609ea0959da1cd8a1ce70b02b97da0cd91f3c6c0": {
-        "title": "慕思股份实控人1.58亿受让华脉科技股权，跨界交易照见两公司冷暖",
-        "link": "https://www.tmtpost.com/8134556.html",
-        "published_date": "Wed, 09 Sep 2026 21:48:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697147"
-      },
-      "39a92b5a6ef52228e9514cd903bf13502f82f13e467cf399215aa7ba36e71c10": {
-        "title": "比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困",
-        "link": "https://www.tmtpost.com/8133506.html",
-        "published_date": "Wed, 09 Sep 2026 18:59:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697150"
-      },
-      "29e6d2233faa25652937f3adfeaf122a6f2c6daaef813c517a38aabbf844a8f2": {
-        "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
-        "link": "https://sspai.com/post/114394",
-        "published_date": "Thu, 10 Sep 2026 06:38:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697152"
-      },
-      "6451927a358efd815faf8f734c12be7a9f5384a175bf134b280c44c67f22d698": {
-        "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-        "link": "https://sspai.com/post/114393",
-        "published_date": "Thu, 10 Sep 2026 05:30:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697153"
-      },
-      "58d14ed97d0e3e3c984c70f3e7d6101f8e48862730aab20a40f5d96e55754371": {
-        "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-        "link": "https://sspai.com/post/114392",
-        "published_date": "Thu, 10 Sep 2026 05:21:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697155"
-      },
-      "96e4408203d325c73504a1b770da61372134e5c5081aecf10f6183e0b827667e": {
-        "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
-        "link": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 09 Sep 2026 18:39:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697156"
-      },
-      "1ad5935989c360dcfb8253f2e1db64c5eaa9ba5773836e87b350c5ed8ca46195": {
-        "title": "Edge AI Daily 早报（9月10日）",
-        "link": "https://www.tmtpost.com/8134718.html",
-        "published_date": "Thu, 10 Sep 2026 08:20:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697157"
-      },
-      "743604bcd303bb60c19ebdc094400ba563d701a3a54cd01fef8536598f3a2256": {
-        "title": "创始人出局、前妻接掌控制权，我武生物“天价分手费”后市场悬念未止",
-        "link": "https://www.tmtpost.com/8134619.html",
-        "published_date": "Wed, 09 Sep 2026 22:47:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697158"
-      },
-      "1d0f65719275975c87785d4198f0c3a06467c11da9af475f071c00ce0340003e": {
-        "title": "AGI 怎样才算真的来了？",
-        "link": "https://www.tmtpost.com/8133380.html",
-        "published_date": "Wed, 09 Sep 2026 18:59:00 GMT",
-        "first_seen": "2026-09-10T00:57:57.697159"
-      },
       "45322a14661a6695fcb7152c4839e4f0f1bc79861604a786d85ad4b074bd6c65": {
         "title": "Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？",
         "link": "https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article",
@@ -3451,69 +3391,69 @@
         "link": "https://www.tmtpost.com/8162846.html",
         "published_date": "Fri, 09 Oct 2026 18:18:00 GMT",
         "first_seen": "2026-10-09T11:44:26.468015"
+      },
+      "6ea0d4f6a7f78ce7ed0c93d8a2d1eab9bb425e25cbbbb2277b8a6ff81bee53a9": {
+        "title": "Muse发布一个月，Personal Agent让新 BAT 集体上头",
+        "link": "https://www.tmtpost.com/8163156.html",
+        "published_date": "Sat, 10 Oct 2026 09:08:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875242"
+      },
+      "ce7dd4312a3d07aebd990f1749dc0eec8814526525f4b8ef4f4a109406ebcffe": {
+        "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "link": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875253"
+      },
+      "daaa681cc1bb7aa9d73b75aac516ba4e122d42cf9d88f605bf081ebd5398680d": {
+        "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
+        "link": "http://www.geekpark.net/news/372184",
+        "published_date": "Sat, 10 Oct 2026 09:27:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875258"
+      },
+      "05a8775bfa222a604476e892a47a6a4853cba0d331c21421b3197cfd7fcca740": {
+        "title": "00后“戒断”AI短剧：一个月卸载了5次",
+        "link": "https://www.tmtpost.com/8163363.html",
+        "published_date": "Sat, 10 Oct 2026 09:13:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875260"
+      },
+      "573aec4b8e4aaa85440b294978d9b3e7da34a89ca6cb21a44a33fca99a9e1216": {
+        "title": "还是别太期待国产Muse了",
+        "link": "https://www.tmtpost.com/8162951.html",
+        "published_date": "Sat, 10 Oct 2026 09:11:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875262"
+      },
+      "adab9c7de1d6f844c2206eef154214ff9d79c681aa058746b6b4ea6cd3027431": {
+        "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+        "link": "https://www.tmtpost.com/8163462.html",
+        "published_date": "Sat, 10 Oct 2026 09:10:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875263"
+      },
+      "8baa40cdc90046ca1db02b6bdfe7eddff92b81d1c52938f81dd51a7bf11b65ea": {
+        "title": "Manus，没能逃出巨头的游戏",
+        "link": "https://www.tmtpost.com/8163447.html",
+        "published_date": "Sat, 10 Oct 2026 09:09:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875265"
+      },
+      "55e846606ed59e718f64442cae4bc44812bb05b09ecd42186b21673e5331e17f": {
+        "title": "千亿美元PE巨头，今年靠投资航空赚翻了",
+        "link": "https://www.tmtpost.com/8163118.html",
+        "published_date": "Sat, 10 Oct 2026 09:08:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875266"
+      },
+      "a9cf764b620dd4e1245ee7d9b856b299374660446950f7f0ddf3b2f5a8e0b2cc": {
+        "title": "获腾讯投资！AI存储商星辰天合的一体机毛利率连降，创始人面临对赌危机",
+        "link": "https://www.tmtpost.com/8163422.html",
+        "published_date": "Sat, 10 Oct 2026 09:06:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875268"
+      },
+      "461fdf8274bc5babb85f74c41cc298e000d2e2bdd04ceca8cc9d50ab991e41ed": {
+        "title": "调休这笔账，为什么怎么算都觉得亏？",
+        "link": "https://www.tmtpost.com/8163466.html",
+        "published_date": "Sat, 10 Oct 2026 08:59:00 GMT",
+        "first_seen": "2026-10-10T02:11:50.875269"
       }
     },
     "Finance": {
-      "f1fb10f6a6846939170f4e66050df1826113c160188f1ea765b684ebe3d4d157": {
-        "title": "China warns bankers not to flood IPO market with ‘low-quality’ companies",
-        "link": "https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 00:45:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513908"
-      },
-      "a49c90bfc2766519941f0ce75a2ffca0110a31f40fa9aef3e44a862afac71562": {
-        "title": "Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices",
-        "link": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 22:51:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513916"
-      },
-      "678a374cfd27089d10d24486576fa71279f5552caeffc2ef16bf65ca4ecacbf2": {
-        "title": "Drone almost struck Zelenskyy’s plane, says Ukraine",
-        "link": "https://www.ft.com/content/4fc1dc2e-f0d7-433c-8e96-bc1e8923dcbc?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 22:09:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513917"
-      },
-      "37ba515330195f9ad4761a3f5f59e0a2cd27f5a5c4017a727c5cde837d0bcb3e": {
-        "title": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’",
-        "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 20:47:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513919"
-      },
-      "ad480e381430bda14d9d7de2470eefc39ac1a3a0a65dbf037272095bad8bc6a4": {
-        "title": "Hunter Biden’s $LAPTOP memecoin crashes shortly after launch",
-        "link": "https://www.ft.com/content/5f8a49b5-cded-4c6c-ba26-e33213b40ee2?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 20:06:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513920"
-      },
-      "b4299ee3394e8d374a86b0bf25cc1055a4bf49a70249f34d3e936ac7dcf36791": {
-        "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
-        "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 18:22:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513921"
-      },
-      "a9c6b62a4742404e4a6d2205cbb513d3f75784fc5953a4ffbbe567bcfa9a0b7f": {
-        "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
-        "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 18:05:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513922"
-      },
-      "dc8c7532397a694004d5e54f4c7649b2016dec038f75a218c87e004120a7a29e": {
-        "title": "‘I am the house now’: Bessent warns traders not to bet against yen",
-        "link": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 15:48:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513923"
-      },
-      "7603b940cbff0d68aa0d9857c164af98aabf05b5781a0e011c6a590ada688ca7": {
-        "title": "The curse of supporting the NFL’s worst team",
-        "link": "https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 15:09:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513924"
-      },
-      "250caa54b8368c48b1c15de578411bdc2e16d1736563887ab5d3c0b4697a2a0c": {
-        "title": "Kushner and Witkoff’s blind amateurism",
-        "link": "https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 11:35:00 GMT",
-        "first_seen": "2026-09-10T00:58:16.513925"
-      },
       "4a420103ac6f27984ee2f00923be4b1fe41cda779d7526fb2c3b1ccd6c090d60": {
         "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
         "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
@@ -6849,69 +6789,69 @@
         "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
         "published_date": "Fri, 09 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-09T11:44:35.983620"
+      },
+      "a0898588a24142b2ca29e59bb7828917ffe39627595634b5d3b388b158f73fc2": {
+        "title": "How to provide guaranteed retirement income while paying no commissions",
+        "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Oct 2026 22:41:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271631"
+      },
+      "5b9b534ed055e432d42f7bcb3bc7651867e1880569ad8c43e2d66bfeb3806f53": {
+        "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+        "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Oct 2026 21:27:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271640"
+      },
+      "55f77cf25fbe64af838326a27bdc46b6d5a15e4a419e8e9ac18123aadec5a59c": {
+        "title": "Microsoft is nearing a big milestone that solidifies its revival",
+        "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Oct 2026 21:24:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271642"
+      },
+      "951ae636bf51f6511f5d32ee969b25077bdae241ed6fcf4fc4985296274d0f4d": {
+        "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+        "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Oct 2026 21:07:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271644"
+      },
+      "d8a67dd30c8dc0d6680e16d211e93e9e66ca59d09c67b08a6d7599c5e96ec46f": {
+        "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
+        "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 22:18:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271646"
+      },
+      "25c10e617a407d7537ecbe01e513fd41227400b7576dd5c85f99d08f1b463ecd": {
+        "title": "Trump agrees deal with Putin for Russia to release diesel",
+        "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 22:06:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271647"
+      },
+      "7035f3f2f30433de65810e02e323033dfb83bda7a3f6523610e8ec1f1e025454": {
+        "title": "Why OpenAI’s revenue numbers really matter",
+        "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 21:48:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271649"
+      },
+      "24fa63030daf69b50d2cada0d859b8411553ed857e56ced9c0737c47cb0262e3": {
+        "title": "The hazy OpenAI growth metric driving Wall Street",
+        "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 20:57:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271651"
+      },
+      "9ae729f0818dbd05689962c526aa320d1ab2526e575d57727ab645cfe21279a4": {
+        "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+        "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 18:38:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271653"
+      },
+      "29208b529fa52dc5b93f0d804757033a6c4fed39dc21754aa70c6f78f167c1d3": {
+        "title": "Bessent to miss IMF annual meetings in Bangkok",
+        "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 18:22:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.271654"
       }
     },
     "Ai": {
-      "192d443c01b59bf47033a1deeb65029785c8423ad5aa77313df8e2b3c13de2f4": {
-        "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-        "published_date": "Wed, 09 Sep 2026 22:26:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182338"
-      },
-      "c7175ecf9f0ebb064ebc2ae4087e8fc88b9e0e7d300b230114d1e2fe31947e7b": {
-        "title": "ICYMI: What landed for AI builders in August 2026",
-        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
-        "published_date": "Wed, 09 Sep 2026 20:01:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182346"
-      },
-      "360447cddd5b01715a3dc76d04e4a26e7f30abf413013fff8e47593b19f52b81": {
-        "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
-        "published_date": "Wed, 09 Sep 2026 18:11:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182348"
-      },
-      "81f3e2fcb3a4fd4d11112349b7df95552116bf80aa83ec6e4d3dd01f6e35d67d": {
-        "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
-        "published_date": "Wed, 09 Sep 2026 15:51:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182349"
-      },
-      "fa01d209f9bf8d4ded3ab2ab9a5c6e1dfa7ec4f776f02d0c0980c7bc94f5699e": {
-        "title": "Automate user-level custom permissions for Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
-        "published_date": "Wed, 09 Sep 2026 15:45:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182350"
-      },
-      "50b92774fd1531a2518d4e4ee0a7647dc65c81bbd3a15f8a08e25eff5e3cebd9": {
-        "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-        "link": "https://www.qbitai.com/2026/09/486450.html",
-        "published_date": "Wed, 09 Sep 2026 19:24:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182351"
-      },
-      "5d91da4033e038f7a310d107073dbfd035391fee23595fcedc242dbb50c50606": {
-        "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-        "link": "https://www.qbitai.com/2026/09/486374.html",
-        "published_date": "Wed, 09 Sep 2026 10:02:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182352"
-      },
-      "334428478b18b65da27072a2431379231a136ed3ce581f34d7a094094939140f": {
-        "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-        "link": "https://www.qbitai.com/2026/09/486370.html",
-        "published_date": "Wed, 09 Sep 2026 09:57:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182353"
-      },
-      "4534a012ca7331b5661578d0220e7821bbe22c7759cef21ed20b6a8334c800dc": {
-        "title": "11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”",
-        "link": "https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html",
-        "published_date": "Wed, 09 Sep 2026 19:20:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182355"
-      },
-      "6d7b721dc4fec3ea387dd8b2ca5beb57296552535d4bea3a36530714b62b8642": {
-        "title": "全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉",
-        "link": "https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html",
-        "published_date": "Wed, 09 Sep 2026 18:22:00 GMT",
-        "first_seen": "2026-09-10T00:58:07.182356"
-      },
       "0ef0236b73b3663c0d0b293703dc03f55a31b281fb77c98c71ddfd698bd0a132": {
         "title": "具身智能还有哪些硬门槛？外滩大会主论坛圆桌回应“降维打击”之问",
         "link": "https://www.leiphone.com/category/industrynews/NU9IbgdQ5DU8JzPE.html",
@@ -9743,13 +9683,49 @@
         "link": "https://www.qbitai.com/2026/10/502426.html",
         "published_date": "Fri, 09 Oct 2026 09:19:00 GMT",
         "first_seen": "2026-10-09T11:44:45.585987"
+      },
+      "5704a1ed881ffcf3bdc81a305bcc39bbebb6c22657f06b67b0a255a65196388c": {
+        "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+        "link": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+        "published_date": "Fri, 09 Oct 2026 20:33:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437198"
+      },
+      "7472b45c4b6670457f95b5e934bffb09076944e47cef4dd69883660a4adf66ca": {
+        "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+        "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+        "published_date": "Fri, 09 Oct 2026 20:05:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437206"
+      },
+      "dfd54ed290ccd7a8640914c38f158567acf470ea8c13467e7ba97297960d4cd8": {
+        "title": "当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型",
+        "link": "https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html",
+        "published_date": "Fri, 09 Oct 2026 18:34:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437209"
+      },
+      "372c900d1f0819a3f4eef9c5e27b47da65486a1026f7217b3d5877b51b4430f6": {
+        "title": "ICYMI: What landed for AI builders in September 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+        "published_date": "Fri, 09 Oct 2026 15:38:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437210"
+      },
+      "15ec02c65a0b8cb17b03d92cdbfc4762fbf620e14250c050494c000e977da540": {
+        "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+        "published_date": "Fri, 09 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437212"
+      },
+      "c9319b89a3ae27414357c21e6c9ead3da54830b10001545f8442a02a28cdb77f": {
+        "title": "Impactful scheduling for GPU clusters",
+        "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+        "published_date": "Fri, 09 Oct 2026 15:20:00 GMT",
+        "first_seen": "2026-10-10T02:12:00.437213"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-09T11:44:26.468017",
-    "Finance": "2026-10-09T11:44:35.983622",
-    "Ai": "2026-10-09T11:44:45.585990"
+    "Technology": "2026-10-10T02:11:50.875271",
+    "Finance": "2026-10-10T02:12:00.271656",
+    "Ai": "2026-10-10T02:12:00.437215"
   }
 }

@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-09 11:42
+**最后更新时间**: 2026-10-10 02:09
+
+---
+
+## 🆕 最新更新 (2026-10-10 02:09)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model](https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/)
+**发布时间**: 2026-10-09 20:33
+
+#### [OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers](https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/)
+**发布时间**: 2026-10-09 20:05
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型](https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html)
+**发布时间**: 2026-10-09 18:34
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/)
+**发布时间**: 2026-10-09 15:38
+
+#### [How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/)
+**发布时间**: 2026-10-09 15:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
+**发布时间**: 2026-10-09 15:20
 
 ---
 
