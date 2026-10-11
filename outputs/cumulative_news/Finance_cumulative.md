@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-10 11:02
+**最后更新时间**: 2026-10-11 01:38
+
+---
+
+## 🆕 最新更新 (2026-10-11 01:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Missile strike on Riyadh airport kills 12 and injures hundreds](https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 22:18
+
+#### [Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets](https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 18:37
+
+#### [Nvidia in talks to acquire US ‘open’ model start-up Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 18:14
+
+#### [US warns Kyiv that strikes on Russia jeopardise intelligence-sharing](https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 17:42
+
+#### [India’s central bank tries to shore up rupee as it nears record lows](https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 11:57
+
+#### [AI borrowing slows as investors grow wary of debt binge](https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 11:00
+
+#### [Nixonmaxxing: the strange revival of America’s disgraced president](https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 10:00
+
+#### [EU joint budget proposal slashed in race to find end-year agreement](https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 09:28
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably](https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 19:44
+
+#### [Rising interest rates: The good, the bad and the ugly for retirees](https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 19:44
+
+#### [Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.](https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 19:44
+
+#### [Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.](https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 19:44
+
+#### [Millions of Americans will have fewer options during Medicare open enrollment this year](https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 19:44
+
+#### [‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 18:31
+
+#### [Elon Musk is now richer than any American ever — and it’s not even close](https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories)
+**发布时间**: 2026-10-10 16:50
 
 ---
 

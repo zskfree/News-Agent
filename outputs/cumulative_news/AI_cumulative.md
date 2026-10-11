@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-10 10:59
+**最后更新时间**: 2026-10-11 01:36
+
+---
+
+## 🆕 最新更新 (2026-10-11 01:36)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors](https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/)
+**发布时间**: 2026-10-10 22:02
+
+#### [When the Safety Test Became the Threat: The Machine That Found Its Own Way Out](https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/)
+**发布时间**: 2026-10-10 21:30
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车](https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html)
+**发布时间**: 2026-10-10 19:40
 
 ---
 

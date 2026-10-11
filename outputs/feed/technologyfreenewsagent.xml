@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Oct 2026 11:02:00 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 11:02:13 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 01:38:00 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:38:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>企业AI 走向生产环境，如何避免新一轮技术锁定</title>
-      <link>https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业AI 走向生产环境，如何避免新一轮技术锁定]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kPhRafpM3Wr6umvUBPQV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
+      <link>http://www.geekpark.net/news/372216</link>
+      <description>&lt;![CDATA[马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372216</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>21亿人次，平台接管人们的国庆假期</title>
-      <link>https://www.tmtpost.com/8163700.html</link>
-      <description>&lt;![CDATA[21亿人次，平台接管人们的国庆假期]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163700.html</guid>
+      <title>亚马逊云科技在 Aurora DSQL 中引入外键约束</title>
+      <link>https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技在 Aurora DSQL 中引入外键约束]]&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>好产品就是与时代和生活共振｜2026 年度极客最爱好物启动</title>
-      <link>http://www.geekpark.net/news/372196</link>
-      <description>&lt;![CDATA[好产品就是与时代和生活共振｜2026 年度极客最爱好物启动]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 14:07:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372196</guid>
+      <title>停车费告别“不足1小时按1小时”，一场关于几毛钱的治理考试</title>
+      <link>https://www.tmtpost.com/8163971.html</link>
+      <description>&lt;![CDATA[停车费告别“不足1小时按1小时”，一场关于几毛钱的治理考试]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163971.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>记录生生不息的创新力量｜2026 年度「InnoForce 50」启动</title>
-      <link>http://www.geekpark.net/news/372195</link>
-      <description>&lt;![CDATA[记录生生不息的创新力量｜2026 年度「InnoForce 50」启动]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 13:58:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372195</guid>
+      <title>1港元甩卖内地影院，周星驰布局15年“止血”收场</title>
+      <link>https://www.tmtpost.com/8163949.html</link>
+      <description>&lt;![CDATA[1港元甩卖内地影院，周星驰布局15年“止血”收场]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163949.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX</title>
-      <link>https://www.infoq.cn/article/YLOUT8CrDm0NPWgHL8LG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linear 通过 1000 多次 PR 从 styled-components 迁移到 Meta 的 StyleX]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YLOUT8CrDm0NPWgHL8LG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>至真资本推出“AI 资本超市”，以AI助力成长型企业与资本精准高效匹配</title>
+      <link>https://www.tmtpost.com/8164202.html</link>
+      <description>&lt;![CDATA[至真资本推出“AI 资本超市”，以AI助力成长型企业与资本精准高效匹配]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8164202.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线</title>
-      <link>https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI翻译赛道挤满老玩家，腾讯凭什么再开一桌？</title>
+      <link>https://www.tmtpost.com/8163943.html</link>
+      <description>&lt;![CDATA[AI翻译赛道挤满老玩家，腾讯凭什么再开一桌？]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163943.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>模型开放之后，AI能力为什么仍难以复用？</title>
-      <link>https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[模型开放之后，AI能力为什么仍难以复用？]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>要求偿还101亿，“重庆李嘉诚”追债许家印，昔日老友为何反目？</title>
+      <link>https://www.tmtpost.com/8163934.html</link>
+      <description>&lt;![CDATA[要求偿还101亿，“重庆李嘉诚”追债许家印，昔日老友为何反目？]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163934.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven</title>
-      <link>https://www.infoq.cn/article/8s5fm3AAfw7ya1qdWl5Q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8s5fm3AAfw7ya1qdWl5Q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>单项目激励百万，字节又盯上电影了</title>
+      <link>https://www.tmtpost.com/8163931.html</link>
+      <description>&lt;![CDATA[单项目激励百万，字节又盯上电影了]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163931.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GKE Pod 快照可缩短模型加载时间</title>
-      <link>https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GKE Pod 快照可缩短模型加载时间]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 15:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>护工不是人：机器人给我们养老还有多远？</title>
+      <link>https://www.tmtpost.com/8163930.html</link>
+      <description>&lt;![CDATA[护工不是人：机器人给我们养老还有多远？]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163930.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲</title>
-      <link>https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 15:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>390亿美元，全球具身智能顶流Figure的三重泡沫</title>
+      <link>https://www.tmtpost.com/8163913.html</link>
+      <description>&lt;![CDATA[390亿美元，全球具身智能顶流Figure的三重泡沫]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163913.html</guid>
       <category>Technology</category>
     </item>
   </channel>
