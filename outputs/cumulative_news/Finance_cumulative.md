@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-11 01:38
+**最后更新时间**: 2026-10-11 11:18
+
+---
+
+## 🆕 最新更新 (2026-10-11 11:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [India’s ‘Cockroach’ leaders released as movement calls for more protests](https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 07:03
+
+#### [US hits commercial tanker in Gulf of Oman as tensions flare](https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 05:26
+
+#### [US justice department probes TV networks over Trump pool coverage](https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 04:28
+
+#### [The fall of Germany’s ex-spymaster](https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 04:00
+
+#### [The problem with your AI therapist](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 04:00
+
+#### [Why are our children not flourishing at school?](https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4)
+**发布时间**: 2026-10-11 04:00
+
+#### [Russia steps up bid to kill European defence chiefs, spy agencies warn](https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 04:00
+
+#### [Trump is failing to arrest decline in popularity, FT poll shows](https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a)
+**发布时间**: 2026-10-11 04:00
+
+#### [China’s growing debt burden limits space for economic stimulus](https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 04:00
+
+#### [Trump tells Ukraine to ‘get a new leader’ as US threatens to cut off intelligence-sharing](https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-10 17:42
 
 ---
 

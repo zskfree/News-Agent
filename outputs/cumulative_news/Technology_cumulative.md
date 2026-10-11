@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-11 01:38
+**最后更新时间**: 2026-10-11 11:18
+
+---
+
+## 🆕 最新更新 (2026-10-11 11:18)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近逛 GitHub ，挖到 3 个给力的开源项目，第一个比较硬核。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537705&idx=1&sn=33d14b64d048e4941f677c6800ea90f3)
+**发布时间**: 2026-10-11 16:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦](https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-11 15:00
+
+#### [利用 AI 代码智能体优化软件架构的五种方法](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-11 10:04
+
+#### [AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海](https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-11 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
+**发布时间**: 2026-10-11 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准](http://www.geekpark.net/news/372213)
+**发布时间**: 2026-10-11 13:52
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI创造的新工作，可能根本轮不到你](https://www.tmtpost.com/8164296.html)
+**发布时间**: 2026-10-11 13:08
+
+#### [李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么](https://www.tmtpost.com/8164290.html)
+**发布时间**: 2026-10-11 13:01
+
+#### [李诞代言汉堡王“丑”翻车，笑点为什么没能变成食欲？](https://www.tmtpost.com/8164281.html)
+**发布时间**: 2026-10-11 12:54
+
+#### [请来Claude老祖，谷歌能借Agent翻身吗？](https://www.tmtpost.com/8164268.html)
+**发布时间**: 2026-10-11 12:50
+
+#### [抱歉，AI眼镜目前仍是个“鸡肋”](https://www.tmtpost.com/8164235.html)
+**发布时间**: 2026-10-11 12:44
+
+#### [Manus被AI大厂重新定价](https://www.tmtpost.com/8164195.html)
+**发布时间**: 2026-10-11 12:38
+
+#### [美图公司大起大落](https://www.tmtpost.com/8164230.html)
+**发布时间**: 2026-10-11 12:33
+
+#### [3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本](https://www.tmtpost.com/8163821.html)
+**发布时间**: 2026-10-11 12:27
+
+#### [西西弗书店是怎么赚钱的？](https://www.tmtpost.com/8164243.html)
+**发布时间**: 2026-10-11 12:26
+
+#### [利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸](https://www.tmtpost.com/8164289.html)
+**发布时间**: 2026-10-11 12:22
+
+#### [鼠疫概念股集体澄清，A股“沾边即涨”套路仍在收割，短线舆情题材的投资陷阱如何规避？](https://www.tmtpost.com/8164285.html)
+**发布时间**: 2026-10-11 12:22
+
+#### [中国AI，开始为算力算账](https://www.tmtpost.com/8164264.html)
+**发布时间**: 2026-10-11 12:21
+
+#### [订单破万、上市直降5万元，北汽泰钽没有越野“新手保护期”](https://www.tmtpost.com/8164047.html)
+**发布时间**: 2026-10-11 09:55
+
+#### [远海国际，走不出“欧洲游”？](https://www.tmtpost.com/8164048.html)
+**发布时间**: 2026-10-11 09:46
+
+#### [连续举牌，新华保险沉寂一年半后又出手了](https://www.tmtpost.com/8164031.html)
+**发布时间**: 2026-10-11 09:41
+
+#### [十一黄金周OTA分野：同程、飞猪们卖库存，豆包、千问们卖答案](https://www.tmtpost.com/8163976.html)
+**发布时间**: 2026-10-11 09:36
+
+#### [尊界：踏板升级方案预计于10月底确认，11月起陆续启动升级](https://www.tmtpost.com/8164492.html)
+**发布时间**: 2026-10-11 09:34
+
+#### [回应美国337调查，工业富联、立讯精密发声](https://www.tmtpost.com/8164496.html)
+**发布时间**: 2026-10-11 09:28
+
+#### [“别把消费者当小白鼠”，四部门划定汽车创新设计红线，专家解读——](https://www.tmtpost.com/8164498.html)
+**发布时间**: 2026-10-11 09:27
 
 ---
 

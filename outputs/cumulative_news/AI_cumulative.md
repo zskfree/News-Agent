@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-11 01:36
+**最后更新时间**: 2026-10-11 11:16
+
+---
+
+## 🆕 最新更新 (2026-10-11 11:16)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针](https://www.qbitai.com/2026/10/502644.html)
+**发布时间**: 2026-10-11 09:04
+
+#### [何恺明团队发布多模态Harness框架](https://www.qbitai.com/2026/10/502628.html)
+**发布时间**: 2026-10-11 08:59
+
+#### [陶哲轩：数学2.0时代已至！](https://www.qbitai.com/2026/10/502594.html)
+**发布时间**: 2026-10-11 07:52
+
+#### [王的猜想，刚刚扩展到四维](https://www.qbitai.com/2026/10/502584.html)
+**发布时间**: 2026-10-11 05:23
+
+#### [硅谷AI现状：谁有算力谁是爹](https://www.qbitai.com/2026/10/502585.html)
+**发布时间**: 2026-10-11 05:22
+
+#### [下架8个月，GPT-4o的拯救行动居然还在继续](https://www.qbitai.com/2026/10/502550.html)
+**发布时间**: 2026-10-11 05:18
+
+#### [DeepSeek Bot来了！民间版，DSH装个插件就能用](https://www.qbitai.com/2026/10/502544.html)
+**发布时间**: 2026-10-11 03:27
+
+#### [西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地](https://www.qbitai.com/2026/10/502541.html)
+**发布时间**: 2026-10-10 10:30
+
+#### [超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起](https://www.qbitai.com/2026/10/502496.html)
+**发布时间**: 2026-10-10 09:07
+
+#### [24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧](https://www.qbitai.com/2026/10/502492.html)
+**发布时间**: 2026-10-10 08:54
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context](https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/)
+**发布时间**: 2026-10-11 06:20
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-11日刊](https://hex2077.dev/docs/2026-10/2026-10-11/)
+**发布时间**: 2026-10-11 04:11
 
 ---
 

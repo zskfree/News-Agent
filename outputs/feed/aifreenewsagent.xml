@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 01:36:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 01:39:10 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 11:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:18:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors</title>
-      <link>https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/</link>
-      <description>&lt;![CDATA[Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 22:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/</guid>
+      <title>用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针</title>
+      <link>https://www.qbitai.com/2026/10/502644.html</link>
+      <description>&lt;![CDATA[用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502644.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
-      <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
-      <description>&lt;![CDATA[When the Safety Test Became the Threat: The Machine That Found Its Own Way Out]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 21:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</guid>
+      <title>何恺明团队发布多模态Harness框架</title>
+      <link>https://www.qbitai.com/2026/10/502628.html</link>
+      <description>&lt;![CDATA[何恺明团队发布多模态Harness框架]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502628.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车</title>
-      <link>https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html</link>
-      <description>&lt;![CDATA[字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 19:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html</guid>
+      <title>陶哲轩：数学2.0时代已至！</title>
+      <link>https://www.qbitai.com/2026/10/502594.html</link>
+      <description>&lt;![CDATA[陶哲轩：数学2.0时代已至！]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 07:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502594.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨华为云销售组织大调整，将实行大区制</title>
-      <link>https://www.leiphone.com/category/industrynews/iO7umgMktTT2WmGw.html</link>
-      <description>&lt;![CDATA[独家丨华为云销售组织大调整，将实行大区制]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 15:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iO7umgMktTT2WmGw.html</guid>
+      <title>王的猜想，刚刚扩展到四维</title>
+      <link>https://www.qbitai.com/2026/10/502584.html</link>
+      <description>&lt;![CDATA[王的猜想，刚刚扩展到四维]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502584.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>JEPA、空间智能路线正面交锋：WorldArena 2.0 挑战赛开考「能不能被机器人真正用起来」| IROS 2026</title>
-      <link>https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html</link>
-      <description>&lt;![CDATA[JEPA、空间智能路线正面交锋：WorldArena 2.0 挑战赛开考「能不能被机器人真正用起来」| IROS 2026]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/A0uKolgD2esWoUfT.html</guid>
+      <title>硅谷AI现状：谁有算力谁是爹</title>
+      <link>https://www.qbitai.com/2026/10/502585.html</link>
+      <description>&lt;![CDATA[硅谷AI现状：谁有算力谁是爹]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502585.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>里程碑时刻！比亚迪第15万台新能源商用车下线</title>
-      <link>https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html</link>
-      <description>&lt;![CDATA[里程碑时刻！比亚迪第15万台新能源商用车下线]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 12:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/9nmGLAnpJOtHxXbm.html</guid>
+      <title>下架8个月，GPT-4o的拯救行动居然还在继续</title>
+      <link>https://www.qbitai.com/2026/10/502550.html</link>
+      <description>&lt;![CDATA[下架8个月，GPT-4o的拯救行动居然还在继续]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502550.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>这届 IROS 2026 上，具身学术与产业边界正在消融</title>
-      <link>https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html</link>
-      <description>&lt;![CDATA[这届 IROS 2026 上，具身学术与产业边界正在消融]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/4I8YKksz9V10Ih1R.html</guid>
+      <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
+      <link>https://www.qbitai.com/2026/10/502544.html</link>
+      <description>&lt;![CDATA[DeepSeek Bot来了！民间版，DSH装个插件就能用]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 03:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502544.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！</title>
-      <link>https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html</link>
-      <description>&lt;![CDATA[阶跃 Step 5 Preview 登上 OpenRouter 全球第一，10月15日开源！]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html</guid>
+      <title>OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context</title>
+      <link>https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</link>
+      <description>&lt;![CDATA[OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026</title>
-      <link>https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html</link>
-      <description>&lt;![CDATA[数据越多≠决策越好：从无人机滑翔到多机器人通信，重新审视数据与信息的关系 | IROS 2026]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/1evshSdPUrUacuRC.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026</title>
-      <link>https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html</link>
-      <description>&lt;![CDATA[让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html</guid>
+      <title>2026-10-11日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-11/</link>
+      <description>&lt;![CDATA[2026-10-11日刊]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 04:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-11/</guid>
       <category>Ai</category>
     </item>
   </channel>
