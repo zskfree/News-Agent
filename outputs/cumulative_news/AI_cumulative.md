@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-12 02:08
+**最后更新时间**: 2026-10-12 12:49
+
+---
+
+## 🆕 最新更新 (2026-10-12 12:49)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [苹果交出第一份折叠作业，华为已经把答案写了八年](https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html)
+**发布时间**: 2026-10-12 17:58
+
+#### [安踏×火山引擎：下单缩至10分钟、月均建单1000+，Agent跑进全球电商业务](https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html)
+**发布时间**: 2026-10-12 17:48
+
+#### [百度世界2026将于11月12日在北京举办，主题为「下一幕，智能组织」](https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html)
+**发布时间**: 2026-10-12 15:42
+
+#### [独家丨奥比中光砍掉割草机器人ODM业务，千台级出货难撑整机梦](https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html)
+**发布时间**: 2026-10-12 15:21
+
+#### [吉利银河战舰700上市：限时焕新价16.98万元起，押注电混与智能越野](https://www.leiphone.com/category/transportation/3ybm9fbHLDY2qSFw.html)
+**发布时间**: 2026-10-12 15:00
+
+#### [长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车；华为被曝将推出子品牌「星芒」；Claude半年封杀1140万个账号，申诉后仅4.2万翻案](https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html)
+**发布时间**: 2026-10-12 14:20
+
+#### [阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！](https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html)
+**发布时间**: 2026-10-12 14:16
+
+#### [微软用阿里Qwen打造决策模型，或将推广至所有领域](https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html)
+**发布时间**: 2026-10-12 13:36
+
+#### [一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee](https://www.leiphone.com/category/industrynews/BLiBzNReTUzIjQ9E.html)
+**发布时间**: 2026-10-12 10:56
+
+#### [费莫一刘念邱：智驾无图的经验，也能迁移到机器人 | 物理AI 50人](https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html)
+**发布时间**: 2026-10-12 10:51
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing](https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/)
+**发布时间**: 2026-10-12 08:20
+
+#### [TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER](https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/)
+**发布时间**: 2026-10-12 03:16
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [华为AI靠RSI通关25款游戏！操作次数比人类少56%](https://www.qbitai.com/2026/10/502654.html)
+**发布时间**: 2026-10-12 05:48
+
+#### [智谱新模型，490 tokens/s！](https://www.qbitai.com/2026/10/502649.html)
+**发布时间**: 2026-10-12 02:37
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-12日刊](https://hex2077.dev/docs/2026-10/2026-10-12/)
+**发布时间**: 2026-10-12 02:33
 
 ---
 

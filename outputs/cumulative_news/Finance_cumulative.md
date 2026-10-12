@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-12 02:10
+**最后更新时间**: 2026-10-12 12:51
+
+---
+
+## 🆕 最新更新 (2026-10-12 12:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?](https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 12:15
+
+#### [This five-star money manager shares three stock picks, including one betting on dying American malls](https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 11:34
+
+#### [Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data](https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 11:30
+
+#### [Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?](https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 11:00
+
+#### [‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 10:15
+
+#### [The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist](https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 09:23
+
+#### [Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year](https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 09:14
+
+#### [Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons](https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 09:05
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 11:27
+
+#### [Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says](https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 11:22
+
+#### [Nobel Prize for economics awarded to Hall and Woodford](https://www.ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 09:09
+
+#### [Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia](https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 08:45
+
+#### [Trump’s midterm peril](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 04:00
+
+#### [There is a smarter way to tax the rich](https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe)
+**发布时间**: 2026-10-12 04:00
+
+#### [The huge lurking leverage of AI hyperscalers](https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 04:00
+
+#### [Wall Street’s record-breaking trading streak set to cool](https://www.ft.com/content/50bb9758-abf7-43a4-bd8b-0c1e5895b4c2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 04:00
+
+#### [‘Worrying omens’ stalk global economy despite resilient growth](https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 04:00
+
+#### [Nato should prepare for deadly Russian ‘hybrid’ attack, says Poland](https://www.ft.com/content/0c5a10f4-5aca-456e-9c3a-4c4dc8132a63?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 04:00
+
+#### [Not just ‘guys in flip-flops’: Houthis show reach with deadly strikes on Riyadh](https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 13:04
 
 ---
 

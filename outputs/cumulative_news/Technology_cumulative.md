@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-12 02:10
+**最后更新时间**: 2026-10-12 12:51
+
+---
+
+## 🆕 最新更新 (2026-10-12 12:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [14亿坏账压顶，华仁药业向中民信投、国药药材追讨3亿逾期债](https://www.tmtpost.com/8157821.html)
+**发布时间**: 2026-10-12 20:46
+
+#### [TikTok Shop墨西哥日均GMV一年增长133倍；Q3中国储能企业海外订单占比已达93% ; 拉美快消电商超80亿美元｜一周出海参考](https://www.tmtpost.com/8165390.html)
+**发布时间**: 2026-10-12 20:45
+
+#### [AI 办公大战，盯上了企业的人力预算](https://www.tmtpost.com/8165026.html)
+**发布时间**: 2026-10-12 17:45
+
+#### [东百集团拟3.16亿控股快灵光电，业绩承诺集中看2029](https://www.tmtpost.com/8165286.html)
+**发布时间**: 2026-10-12 17:43
+
+#### [李小龙的功夫哲学，藏着长三角的经济密码](https://www.tmtpost.com/8165049.html)
+**发布时间**: 2026-10-12 17:35
+
+#### [一位55岁应届生，带着AI进入秋招季](https://www.tmtpost.com/8164982.html)
+**发布时间**: 2026-10-12 17:35
+
+#### [王鹏伟：当下的世界模型都只学到了片面的世界](https://www.tmtpost.com/8041489.html)
+**发布时间**: 2026-10-12 17:34
+
+#### [独董全案否决换届议案，城市传媒换届争议收函](https://www.tmtpost.com/8165308.html)
+**发布时间**: 2026-10-12 17:04
+
+#### [人形机器人出货暴增4倍，钱被谁赚走了？](https://www.tmtpost.com/8164863.html)
+**发布时间**: 2026-10-12 16:46
+
+#### [新鲜零食，同质化血拼](https://www.tmtpost.com/8164797.html)
+**发布时间**: 2026-10-12 16:46
+
+#### [【Fintech 周报】浙商大佬仇建平3.25亿元入股网商银行；46岁数学博士AI炒股登上富豪榜](https://www.tmtpost.com/8165230.html)
+**发布时间**: 2026-10-12 16:27
+
+#### [卸任7年，69岁"京东方之父"又敲一次钟，这次填的是中国芯片最后一块短板](https://www.tmtpost.com/8164678.html)
+**发布时间**: 2026-10-12 16:13
+
+#### [反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事](https://www.tmtpost.com/8165030.html)
+**发布时间**: 2026-10-12 16:13
+
+#### [China’s AI Boom Moves From Model Prices to Power Bills and Depreciation](https://www.tmtpost.com/8165235.html)
+**发布时间**: 2026-10-12 16:09
+
+#### [华人“接管”全球AI核心圈，已到了什么程度？](https://www.tmtpost.com/8164740.html)
+**发布时间**: 2026-10-12 15:35
+
+#### [公关暗战全记录：2000万流量绞杀，4天反转必输局](https://www.tmtpost.com/8164978.html)
+**发布时间**: 2026-10-12 15:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一周 10 万星，AI「逆向一切」，但大家不要过于兴奋](http://www.geekpark.net/news/372263)
+**发布时间**: 2026-10-12 20:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/115934)
+**发布时间**: 2026-10-12 17:30
+
+#### [iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
+**发布时间**: 2026-10-12 15:00
+
+#### [怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
+**发布时间**: 2026-10-12 11:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕](https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-12 17:19
+
+#### [AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？](https://www.infoq.cn/article/Qk7CzmLpDCvfYpAiU6Tf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-12 16:00
+
+#### [SvelteKit 3 进入 RC：svelte.config.js 没了，$lib 也要退休](https://www.infoq.cn/article/Hs5X7EdO6PNHk367zZv3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-12 14:36
+
+#### [Meta ZGateway 在每秒处理超过 10 亿次操作的同时，将 ZippyDB 的连接数减少了 19 倍](https://www.infoq.cn/article/d5x9BkQ9AoIZq5mf6LN0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-12 13:00
+
+#### [Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞](https://www.infoq.cn/article/h86bNjSBdJRBYwxP4Xgt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-12 10:15
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [5 个 GitHub 上开源的稀奇古怪小玩意儿，这一届网友真天才。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537707&idx=1&sn=1331f4af944d2e655349efed37bab588)
+**发布时间**: 2026-10-12 12:42
 
 ---
 

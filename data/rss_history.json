@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1655a4be2308910a6b87fd2d5c6d61160ccd46f7d7b010da8aaf7cf1a0a16e94": {
-        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-        "link": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 16:06:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079258"
-      },
-      "23d99a7a14d7969c52f3a59252dab77df7b7de89908873ebfa84f48c73bb964e": {
-        "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-        "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:19:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079269"
-      },
-      "5e7cc853c8ced131897a2af30942589c04a60a2a72aa30c9221650e23e0a5a9d": {
-        "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-        "link": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:13:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079272"
-      },
-      "1dcd54098dd5ef69d1d63c44cbb1286e06c94c48e623ab1ba6e9d392a334d5de": {
-        "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-        "link": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:08:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079274"
-      },
-      "50b15327d5d147edc25db77bc0125fe309330c4908a6ab3c18af8aa1b647bea0": {
-        "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
-        "link": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079276"
-      },
-      "1e1460b883e7ad4ba952cd52a8c094255c11674c8e90573bb013bbe7d4f048a4": {
-        "title": "Neovim 加入 vim.async：告别回调地狱",
-        "link": "https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079277"
-      },
-      "4cefcb8530621dbe255c02feec0f1092a0783a02c668a6ba906728033f2d03ce": {
-        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
-        "link": "https://sspai.com/post/114461",
-        "published_date": "Sat, 12 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079278"
-      },
-      "1497b54a506b636bcb3b2dfd1cdd3bdc801eccc4d149665384f5686765a6eaf5": {
-        "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
-        "link": "https://www.tmtpost.com/8137561.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079280"
-      },
-      "45ec4114321d7dfa6ff48c51341d8c82d6a576acf7f35b5bdd03864f239a7571": {
-        "title": "中国人寿利润暴涨背后的业绩AB面",
-        "link": "https://www.tmtpost.com/8137602.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079281"
-      },
-      "314b5ac317c61c9fe9cf64e9989641d5cf75317afe46eb34656ab7fae89ddfe4": {
-        "title": "i人特努斯，会手抖的苹果CEO",
-        "link": "https://www.tmtpost.com/8137758.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.079283"
-      },
       "4ff924f9672d0a10e2b715c169a2c17a4f4d0d4ef943dc51336fc8ed9ac0d76d": {
         "title": "Edge AI Daily 早报（9月13日）",
         "link": "https://www.tmtpost.com/8138092.html",
@@ -3451,33 +3391,69 @@
         "link": "https://www.tmtpost.com/8164825.html",
         "published_date": "Mon, 12 Oct 2026 09:30:00 GMT",
         "first_seen": "2026-10-12T02:10:48.997756"
+      },
+      "242090ae7f8267262fbba36c3da2262dd98547ab8c89580c605ed73d19b84afb": {
+        "title": "卸任7年，69岁\"京东方之父\"又敲一次钟，这次填的是中国芯片最后一块短板",
+        "link": "https://www.tmtpost.com/8164678.html",
+        "published_date": "Mon, 12 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405858"
+      },
+      "2b3b1f295dbd03fc1fc0a4a456d9f0e84403ce464f455e0c0ea2b1fad51b8056": {
+        "title": "14亿坏账压顶，华仁药业向中民信投、国药药材追讨3亿逾期债",
+        "link": "https://www.tmtpost.com/8157821.html",
+        "published_date": "Mon, 12 Oct 2026 20:46:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405870"
+      },
+      "0479a3058625f8a28c35292aaa7f8c43df48e011eadb62f3b92ef963bbe69862": {
+        "title": "TikTok Shop墨西哥日均GMV一年增长133倍；Q3中国储能企业海外订单占比已达93% ; 拉美快消电商超80亿美元｜一周出海参考",
+        "link": "https://www.tmtpost.com/8165390.html",
+        "published_date": "Mon, 12 Oct 2026 20:45:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405872"
+      },
+      "7275a50e70855dba7f1027cc45f957f5aacb39f9341ae014eaf7575aadf52d39": {
+        "title": "AI 办公大战，盯上了企业的人力预算",
+        "link": "https://www.tmtpost.com/8165026.html",
+        "published_date": "Mon, 12 Oct 2026 17:45:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405875"
+      },
+      "b5fd8314198154801061f2e2e8ec3061d6ca9c5dc7dffef2ab18e626d1a09bb9": {
+        "title": "东百集团拟3.16亿控股快灵光电，业绩承诺集中看2029",
+        "link": "https://www.tmtpost.com/8165286.html",
+        "published_date": "Mon, 12 Oct 2026 17:43:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405876"
+      },
+      "59f12eac90d750117a94bc4f8f85aa031330ce3af565a63e251f6b1431f6f332": {
+        "title": "李小龙的功夫哲学，藏着长三角的经济密码",
+        "link": "https://www.tmtpost.com/8165049.html",
+        "published_date": "Mon, 12 Oct 2026 17:35:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405878"
+      },
+      "33e2b6ad8f081b40911e7d2d04a0f75d45ffc7bc205c4340988aaf8259ac50b1": {
+        "title": "一位55岁应届生，带着AI进入秋招季",
+        "link": "https://www.tmtpost.com/8164982.html",
+        "published_date": "Mon, 12 Oct 2026 17:35:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405880"
+      },
+      "33276114a204c07a81e6f023549df06e510c1ee284e0eaca196ceebd8f028bb7": {
+        "title": "王鹏伟：当下的世界模型都只学到了片面的世界",
+        "link": "https://www.tmtpost.com/8041489.html",
+        "published_date": "Mon, 12 Oct 2026 17:34:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405881"
+      },
+      "c120439f355e3bf427608969592f09ddc8a579fb544ea15c2c980fd536bb9cfb": {
+        "title": "独董全案否决换届议案，城市传媒换届争议收函",
+        "link": "https://www.tmtpost.com/8165308.html",
+        "published_date": "Mon, 12 Oct 2026 17:04:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405883"
+      },
+      "554acaf2ee4777d9c5fefd6bfb68f1206fcbbdf02491f2198ec67d070ffaa430": {
+        "title": "人形机器人出货暴增4倍，钱被谁赚走了？",
+        "link": "https://www.tmtpost.com/8164863.html",
+        "published_date": "Mon, 12 Oct 2026 16:46:00 GMT",
+        "first_seen": "2026-10-12T12:51:45.405884"
       }
     },
     "Finance": {
-      "2c679dc0bf2de0f0edd137f0b65c20cbf0480640d8f3e60a95f9edf3a22ad010": {
-        "title": "US limits air defence time slots for tankers sailing through Hormuz",
-        "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.362309"
-      },
-      "199bbf1a07b126ea64a6fef2290e19778278efa0ed2d583119865f7568c7feb0": {
-        "title": "We are setting up a generation to fail at school",
-        "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.362317"
-      },
-      "5df7cd0bfd078d19f24284a35da446bc76591409cceca9449c24d563a4555987": {
-        "title": "EU races to Le Pen-proof its agenda",
-        "link": "https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.362319"
-      },
-      "b5dac6363123aa97651f8cadb5541afe515943669c171bd44e060d0134bec3f8": {
-        "title": "Booming Brics payments systems seek more cross-border links",
-        "link": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.362321"
-      },
       "e574470440050cc4119df09fe11e6c34bc96473a23079f85e952f6bd02b8595b": {
         "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
         "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
@@ -6831,69 +6807,69 @@
         "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
         "published_date": "Sun, 11 Oct 2026 14:00:00 GMT",
         "first_seen": "2026-10-12T02:10:58.351350"
+      },
+      "c2e79d40f9900e239ff692a70ee3d2402c637783fbe1c8c70d52efc820239945": {
+        "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
+        "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 12:15:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888882"
+      },
+      "d77b01080ee5dc679d79eeec09c244c9d566bdc7ff2d12a641aeb1788a9a938f": {
+        "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
+        "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 11:34:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888890"
+      },
+      "b7cd97da200f36f347ec75f308b5e1f0d70678472132956c416fead4b885a9c7": {
+        "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
+        "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888892"
+      },
+      "b2b6c5b9ac74426749f3a0ceb9e0d2d5cc7d05fe0812378df6b1f613dc44289e": {
+        "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
+        "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 09:14:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888894"
+      },
+      "c523ac5adde112b1cc5cdeb348b074df3598f3bd745a7b8ffe63386f71bf61e4": {
+        "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
+        "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 09:05:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888895"
+      },
+      "e2a71772242e2444a58f0dc90103f51ea8ec95c368d70de7faeacfaee6bb1a9e": {
+        "title": "Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war",
+        "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 11:27:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888897"
+      },
+      "fc5992f53e09523b9e69cac31aeb4b395ce32b3ed173d146cd41f2198c3ba76c": {
+        "title": "Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says",
+        "link": "https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 11:22:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888898"
+      },
+      "b4c6ae94ac6b8c8a38395e1aacff1839f4e34f09f67b7fb69d64ac5696b3fb78": {
+        "title": "Nobel Prize for economics awarded to Hall and Woodford",
+        "link": "https://www.ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 09:09:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888900"
+      },
+      "40951b8f9ebef398b281e82141be281a4de9a0ce1f606e3558561f8ab00c2320": {
+        "title": "Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia",
+        "link": "https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 08:45:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888901"
+      },
+      "a984ffa61723e3a5f474976f5a4e86d938c1930028827c2285e2557b43969d4d": {
+        "title": "Trump’s midterm peril",
+        "link": "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-12T12:51:54.888902"
       }
     },
     "Ai": {
-      "9038377ad16f4d4d1668695a6e5c4522f93e71cc0fbe79d5b3f6e3c0743ce40c": {
-        "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
-        "link": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
-        "published_date": "Sat, 12 Sep 2026 14:43:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293877"
-      },
-      "ff44de75a4f201b242c1ed68b1d4c5ed69a8a199c93ba838258127d22c0da3d2": {
-        "title": "外滩大会三问具身智能： 模型、数据、生态如何突围？",
-        "link": "https://www.leiphone.com/category/industrynews/7lsrguW2f4twY8wp.html",
-        "published_date": "Sat, 12 Sep 2026 14:10:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293885"
-      },
-      "0ea447caf71b94e35d9e336c60e2d3af2f1ced7ec27e117b9701d42eda0bfee4": {
-        "title": "从加油到高速服务，动口不动手：蚂蚁阿宝三大车载AI能力亮相2026外滩大会",
-        "link": "https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html",
-        "published_date": "Sat, 12 Sep 2026 13:56:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293887"
-      },
-      "e29e1a390da673da119787e0aab760291d02a3813f069c7501b54f2661d16895": {
-        "title": "支付宝携手多方共建“一碰通行”生态联盟，推动智慧出行体验全面升级",
-        "link": "https://www.leiphone.com/category/industrynews/ybhEq0EjaXTkYCGM.html",
-        "published_date": "Sat, 12 Sep 2026 13:50:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293888"
-      },
-      "a3148ec23d31db6ffc6493eeb715dd9ded902e94aaedabdb25cdfbab088061a0": {
-        "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
-        "link": "https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html",
-        "published_date": "Sat, 12 Sep 2026 11:06:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293890"
-      },
-      "b50553b60037e9596cc5448b11fad95bb8887ea3dc085895d9fa403d6a2eff46": {
-        "title": "AI能否自主做研究？听听这些专家怎么说",
-        "link": "https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html",
-        "published_date": "Sat, 12 Sep 2026 09:59:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293891"
-      },
-      "b45c638f8e0244d0bc9935c53be5bbddbfca1210d016925c279b15d21d9a3cbd": {
-        "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-        "link": "https://www.qbitai.com/2026/09/487701.html",
-        "published_date": "Sat, 12 Sep 2026 07:33:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293892"
-      },
-      "9f25b0ae9a5373a454be4113a38cc0c029e6e905b9d37b9a6f63554a9d06f877": {
-        "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-        "link": "https://www.qbitai.com/2026/09/487688.html",
-        "published_date": "Sat, 12 Sep 2026 05:58:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293894"
-      },
-      "1ea25ecfc1374648d067c1d2919efc70376d44d8b4c9d43f89d92d416975d6e6": {
-        "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-        "link": "https://www.qbitai.com/2026/09/487653.html",
-        "published_date": "Sat, 12 Sep 2026 04:53:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293895"
-      },
-      "62566121b1fd1e97edcd63639a7e1dea6d395e028085ea76cdea9a4ac58ff8d8": {
-        "title": "2026-09-12日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-12/",
-        "published_date": "Sat, 12 Sep 2026 03:26:00 GMT",
-        "first_seen": "2026-09-12T09:08:03.293896"
-      },
       "ed9d55bf6f9698255d669a3747f955964e23fc9d49e902b079f4f36042fc4468": {
         "title": "2026外滩大会闭幕：50余项科技成果首发首展， 80多个产业合作达成意向",
         "link": "https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html",
@@ -9647,13 +9623,73 @@
         "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
         "published_date": "Sun, 11 Oct 2026 21:43:00 GMT",
         "first_seen": "2026-10-12T02:10:58.477577"
+      },
+      "bce32ed294bc27f23992992471c550311bae1b1cb454b013d815b6d07a75869b": {
+        "title": "苹果交出第一份折叠作业，华为已经把答案写了八年",
+        "link": "https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html",
+        "published_date": "Mon, 12 Oct 2026 17:58:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476577"
+      },
+      "ad6536e0c6db7dca8ae5835773f75219ea005907b8b365bb89d4f006679729c6": {
+        "title": "安踏×火山引擎：下单缩至10分钟、月均建单1000+，Agent跑进全球电商业务",
+        "link": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
+        "published_date": "Mon, 12 Oct 2026 17:48:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476584"
+      },
+      "0d1e18de760ed70d7dc4ad5d456806b3c7eb4984ee230fc2635ca5a194b7c789": {
+        "title": "百度世界2026将于11月12日在北京举办，主题为「下一幕，智能组织」",
+        "link": "https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html",
+        "published_date": "Mon, 12 Oct 2026 15:42:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476586"
+      },
+      "4cb66ea2259b5a556f16ad56e1939e1a107de47a46231112d16984368c777d98": {
+        "title": "独家丨奥比中光砍掉割草机器人ODM业务，千台级出货难撑整机梦",
+        "link": "https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html",
+        "published_date": "Mon, 12 Oct 2026 15:21:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476588"
+      },
+      "22e0dfc89919c226e868621565526af540ab821b8e397c875ccff297ef3e7b6b": {
+        "title": "吉利银河战舰700上市：限时焕新价16.98万元起，押注电混与智能越野",
+        "link": "https://www.leiphone.com/category/transportation/3ybm9fbHLDY2qSFw.html",
+        "published_date": "Mon, 12 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476589"
+      },
+      "e13d57374fb500613c51d2da062bd1e4d550e9430934e3a346dbc9d102afe901": {
+        "title": "长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车；华为被曝将推出子品牌「星芒」；Claude半年封杀1140万个账号，申诉后仅4.2万翻案",
+        "link": "https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html",
+        "published_date": "Mon, 12 Oct 2026 14:20:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476590"
+      },
+      "171e50c0f959c49572bd55c65a6283c91995d1582600da5e29e4534db3608f42": {
+        "title": "阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！",
+        "link": "https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html",
+        "published_date": "Mon, 12 Oct 2026 14:16:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476593"
+      },
+      "44d7f6f1437fc5a70a2b3ca3beb558e988f72971372246913d2def23a4268a1c": {
+        "title": "一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee",
+        "link": "https://www.leiphone.com/category/industrynews/BLiBzNReTUzIjQ9E.html",
+        "published_date": "Mon, 12 Oct 2026 10:56:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476594"
+      },
+      "101a31dfdf41e1499c4367544131c1d591647df36af8ab8dde7f7c6ab41817bd": {
+        "title": "费莫一刘念邱：智驾无图的经验，也能迁移到机器人 | 物理AI 50人",
+        "link": "https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html",
+        "published_date": "Mon, 12 Oct 2026 10:51:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476595"
+      },
+      "86c6f66283f562bb07234d0f1632eeedfb70b1fe21c0c5d1d57165462fdde79f": {
+        "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+        "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+        "published_date": "Mon, 12 Oct 2026 08:20:00 GMT",
+        "first_seen": "2026-10-12T12:52:04.476597"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-12T02:10:48.997758",
-    "Finance": "2026-10-12T02:10:58.351352",
-    "Ai": "2026-10-12T02:10:58.477578"
+    "Technology": "2026-10-12T12:51:45.405886",
+    "Finance": "2026-10-12T12:51:54.888905",
+    "Ai": "2026-10-12T12:52:04.476599"
   }
 }
