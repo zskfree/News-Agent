@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 11:16:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 11:18:39 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 02:08:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:10:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,75 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针</title>
-      <link>https://www.qbitai.com/2026/10/502644.html</link>
-      <description>&lt;![CDATA[用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502644.html</guid>
+      <title>Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text</title>
+      <link>https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/</link>
+      <description>&lt;![CDATA[Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 23:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>何恺明团队发布多模态Harness框架</title>
-      <link>https://www.qbitai.com/2026/10/502628.html</link>
-      <description>&lt;![CDATA[何恺明团队发布多模态Harness框架]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502628.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>陶哲轩：数学2.0时代已至！</title>
-      <link>https://www.qbitai.com/2026/10/502594.html</link>
-      <description>&lt;![CDATA[陶哲轩：数学2.0时代已至！]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 07:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502594.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>王的猜想，刚刚扩展到四维</title>
-      <link>https://www.qbitai.com/2026/10/502584.html</link>
-      <description>&lt;![CDATA[王的猜想，刚刚扩展到四维]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 05:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502584.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>硅谷AI现状：谁有算力谁是爹</title>
-      <link>https://www.qbitai.com/2026/10/502585.html</link>
-      <description>&lt;![CDATA[硅谷AI现状：谁有算力谁是爹]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 05:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502585.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>下架8个月，GPT-4o的拯救行动居然还在继续</title>
-      <link>https://www.qbitai.com/2026/10/502550.html</link>
-      <description>&lt;![CDATA[下架8个月，GPT-4o的拯救行动居然还在继续]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 05:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502550.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
-      <link>https://www.qbitai.com/2026/10/502544.html</link>
-      <description>&lt;![CDATA[DeepSeek Bot来了！民间版，DSH装个插件就能用]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 03:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/502544.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context</title>
-      <link>https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</link>
-      <description>&lt;![CDATA[OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 06:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-10-11日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-11/</link>
-      <description>&lt;![CDATA[2026-10-11日刊]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 04:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-11/</guid>
+      <title>What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models</title>
+      <link>https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/</link>
+      <description>&lt;![CDATA[What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 21:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/</guid>
       <category>Ai</category>
     </item>
   </channel>

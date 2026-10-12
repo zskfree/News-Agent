@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-11 11:16
+**最后更新时间**: 2026-10-12 02:08
+
+---
+
+## 🆕 最新更新 (2026-10-12 02:08)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text](https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/)
+**发布时间**: 2026-10-11 23:15
+
+#### [What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models](https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/)
+**发布时间**: 2026-10-11 21:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Nano Banana终于2.1了！4K直出，中文进步太明显](https://www.qbitai.com/2026/10/502484.html)
+**发布时间**: 2026-10-10 08:52
 
 ---
 

@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-11 11:18
+**最后更新时间**: 2026-10-12 02:10
+
+---
+
+## 🆕 最新更新 (2026-10-12 02:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump faces Republican opposition to his diesel deal with Russia’s Putin](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 21:17
+
+#### [EU ‘safeguards’ hybrid car sector from Chinese imports under new deal](https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 20:00
+
+#### [US threatens to block arms for Ukraine over attacks on Russian refineries](https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 18:40
+
+#### [VW chief calls for France and Germany to co-operate on China car fightback](https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 18:09
+
+#### [Can Russia meet Trump’s diesel demands?](https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 17:13
+
+#### [Oil chiefs pull out of Riyadh energy congress after airport missile strike](https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 16:56
+
+#### [Democrats need a foreign policy](https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 15:13
+
+#### [India’s ‘Cockroach’ movement plans more protests after release of leaders](https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 13:07
+
+#### [Houthis show military reach with deadly missile strikes on Riyadh](https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-11 13:04
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We’re about to get a huge read on whether earnings can keep propping up the stock market](https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-11 14:00
+
+#### [The bull market is turning 4 years old — but yields could crash the party](https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-11 13:00
+
+#### [Bank earnings to shed the first light on how higher yields are affecting the economy](https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories)
+**发布时间**: 2026-10-11 12:00
 
 ---
 
