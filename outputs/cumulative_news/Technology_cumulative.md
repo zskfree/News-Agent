@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-12 12:51
+**最后更新时间**: 2026-10-13 03:25
+
+---
+
+## 🆕 最新更新 (2026-10-13 03:25)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [年薪百万，湖南这次赴沪揽才的诚意有多大？](https://www.tmtpost.com/8166468.html)
+**发布时间**: 2026-10-13 11:12
+
+#### [赵一鸣的秤能校，加盟商的账难平](https://www.tmtpost.com/8166464.html)
+**发布时间**: 2026-10-13 11:08
+
+#### [TikTok’s Chief Sees AI Unlocking Science Within Three Years](https://www.tmtpost.com/8166635.html)
+**发布时间**: 2026-10-13 11:07
+
+#### [全球纯油车份额跌破50%，油车时代真的要终结了？](https://www.tmtpost.com/8166446.html)
+**发布时间**: 2026-10-13 11:02
+
+#### [黄金，四季度有机会么？](https://www.tmtpost.com/8166412.html)
+**发布时间**: 2026-10-13 10:57
+
+#### [“1 亿游客”挤爆洛阳，当地酒店为啥留不住人？](https://www.tmtpost.com/8166423.html)
+**发布时间**: 2026-10-13 10:51
+
+#### [KRAS G12D资产价值大重估？](https://www.tmtpost.com/8166419.html)
+**发布时间**: 2026-10-13 10:46
+
+#### [“大模型时代的谷歌，可能永远不会出现”](https://www.tmtpost.com/8166394.html)
+**发布时间**: 2026-10-13 10:42
+
+#### [中国创新药，穿越死亡谷](https://www.tmtpost.com/8166379.html)
+**发布时间**: 2026-10-13 10:39
+
+#### [数字员工“AI大机遇”的另一面](https://www.tmtpost.com/8166174.html)
+**发布时间**: 2026-10-13 10:34
+
+#### [王兴兴低估了AI，梁文锋开始重估机器人](https://www.tmtpost.com/8166052.html)
+**发布时间**: 2026-10-13 10:26
+
+#### [王兴兴最新预判：具身智能的转折点，一到两年内就会来](https://www.tmtpost.com/8166189.html)
+**发布时间**: 2026-10-13 10:22
+
+#### [Muse Wonder肘击Astra，Meta杀回模型前沿](https://www.tmtpost.com/8166180.html)
+**发布时间**: 2026-10-13 10:12
+
+#### [人均代码产出提升 14.6%，亚信科技万人 AI Coding 跃迁之路](https://www.tmtpost.com/8164914.html)
+**发布时间**: 2026-10-13 10:10
+
+#### [电网设备掀涨停潮，金冠电气20cm涨停只是前菜，5万亿投资落地，真正的金矿在海外](https://www.tmtpost.com/8166021.html)
+**发布时间**: 2026-10-13 10:07
+
+#### [哈药转型突遇不测，临危受命老将遭调查](https://www.tmtpost.com/8166034.html)
+**发布时间**: 2026-10-13 10:02
+
+#### [当潮水退去之后，谁是中国真正的“价值领军”？](https://www.tmtpost.com/8166426.html)
+**发布时间**: 2026-10-13 09:59
+
+#### [钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望](https://www.tmtpost.com/8166022.html)
+**发布时间**: 2026-10-13 09:58
+
+#### [赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查](https://www.tmtpost.com/8166020.html)
+**发布时间**: 2026-10-13 09:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [星尘智能完成新一轮融资，公司估值达150亿元](https://www.infoq.cn/article/z9ORbE470QJDHDiBCC8S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 11:06
+
+#### [高可用不等于弹性：云系统为何在关键时刻失效](https://www.infoq.cn/article/CNMCVLwkvFb120huYzr9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 11:03
+
+#### [小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移](https://www.infoq.cn/article/ZodVZ212r6LtMTycWw7w?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 10:00
+
+#### [Cursor 使用基于 S3 的 WAL，将 Git 存储扩展到每秒 300 多次 Push](https://www.infoq.cn/article/QPf1GXbpDxhcCHHP4xfo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 09:15
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道](http://www.geekpark.net/news/372264)
+**发布时间**: 2026-10-13 08:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
+**发布时间**: 2026-10-13 08:01
 
 ---
 

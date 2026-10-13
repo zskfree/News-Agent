@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-12 12:51
+**最后更新时间**: 2026-10-13 03:25
+
+---
+
+## 🆕 最新更新 (2026-10-13 03:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Chip stocks slide as fears mount over scale of AI investment](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 02:58
+
+#### [Pakistan’s hard choice on Saudi Arabia’s war in Yemen](https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 02:02
+
+#### [Top economies heading for biggest budget deficits since Covid, IMF warns](https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 02:00
+
+#### [China resorts to Nvidia gaming chips in search for AI firepower](https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 00:15
+
+#### [Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct](https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 00:12
+
+#### [Houthi assault on Saudi airports strikes at MBS’s economic vision](https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 18:32
+
+#### [Musk injects $275mn into Republicans’ fight to retain Congress](https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 18:04
+
+#### [The diesel crisis is testing the limits of globalisation](https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307)
+**发布时间**: 2026-10-12 17:14
+
+#### [Zuckerberg says Meta has reached AI ‘frontier’](https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-12 17:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.](https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 02:00
+
+#### [The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions](https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 00:18
+
+#### [‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?](https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 23:31
+
+#### [Investors worry the bull market is getting old. But history shows it can continue to age gracefully.](https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 22:27
+
+#### [Brazilian stocks are breaking out as investors look for opportunities beyond tech](https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 22:00
+
+#### [Nvidia and AMD shares fall as new AI announcements fail to re-energize investors](https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 21:19
+
+#### [Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday](https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 20:46
+
+#### [Microsoft hits a big milestone that solidifies its revival](https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-12 20:40
 
 ---
 
