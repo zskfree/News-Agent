@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0ed4c251f551c603a7521ac83d22c4457fe55571e80855b0da9a5773703c4f87": {
-        "title": "科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同",
-        "link": "https://www.tmtpost.com/8138286.html",
-        "published_date": "Sun, 13 Sep 2026 15:34:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416231"
-      },
-      "8308bb195fdf41a5e052c101f303047ef69f6645a88ad088fa0c2f4b80038c5e": {
-        "title": "服务超100万家企业后，滴滴企业版发布商旅全程保障“超级省”",
-        "link": "https://www.tmtpost.com/8138408.html",
-        "published_date": "Sun, 13 Sep 2026 14:05:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416242"
-      },
-      "807086f2302dc347955d0dd646b4a9f677e0acf748eb390aaabf98135867e62a": {
-        "title": "福建上市公司价值重估：民营科技龙头抬升上限，制造与消费多点支撑",
-        "link": "https://www.tmtpost.com/8138214.html",
-        "published_date": "Sun, 13 Sep 2026 11:08:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416244"
-      },
-      "2b70c4594010abb7b02eb88381d859bc6a92f15413b3e4356bfcd90af993b33c": {
-        "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
-        "link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Sep 2026 16:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416246"
-      },
-      "ca374ff1341bc6fe23af5fb6e5ab5405b56be449892a8d36a142cb98870fece9": {
-        "title": "第二届联合国“一带一路”峰会在新加坡成功举办",
-        "link": "https://www.tmtpost.com/8138384.html",
-        "published_date": "Sun, 13 Sep 2026 16:57:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416248"
-      },
-      "f4b6710f780460b5b1337a78318cbbdb749e4adba4303563c242df2a030c331b": {
-        "title": "大厂卷AI，打工人买单",
-        "link": "https://www.tmtpost.com/8138287.html",
-        "published_date": "Sun, 13 Sep 2026 15:36:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416249"
-      },
-      "0b70139815c3f7fb42db1189e0af356468d3a0b537702bbf494c7484b332e904": {
-        "title": "已傍上SK海力士的大腿？光伏主业负债93%，华民股份选择烧钱押注半导体当第二增长曲线，靠谱么？",
-        "link": "https://www.tmtpost.com/8138241.html",
-        "published_date": "Sun, 13 Sep 2026 15:34:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416250"
-      },
-      "9b5a0cedf4e4dad487378a0ca59560d64d432999f4171eae762112d1d0939713": {
-        "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-        "link": "https://www.tmtpost.com/8138191.html",
-        "published_date": "Sun, 13 Sep 2026 13:15:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416251"
-      },
-      "44d81ba6bc12b4d9647addbaf768cf5d38374327cdcad646df97951382515288": {
-        "title": "储能行业涨价潮起，阳光电源年内二度提价，行业不要价格战，逻辑回归价值兑现",
-        "link": "https://www.tmtpost.com/8138239.html",
-        "published_date": "Sun, 13 Sep 2026 12:55:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416252"
-      },
-      "5b403e6186fc49699174d89842410c14d3a4b48b4bf57d6b60130dba3e64cc82": {
-        "title": "电视都不好卖了，面板厂怎么还敢涨价？",
-        "link": "https://www.tmtpost.com/8138229.html",
-        "published_date": "Sun, 13 Sep 2026 12:55:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.416253"
-      },
       "288098dcc02113e7041d951e40356835ccd4bce43c821b5a2b7480ff120bd0fa": {
         "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
         "link": "https://www.tmtpost.com/8138350.html",
@@ -3451,51 +3391,69 @@
         "link": "https://www.tmtpost.com/8166446.html",
         "published_date": "Tue, 13 Oct 2026 11:02:00 GMT",
         "first_seen": "2026-10-13T03:25:28.522193"
+      },
+      "51b37e37f43b1b15b33c4c7deba192c900bed4831ab98dac13462806e0861c62": {
+        "title": "马斯克炮轰印度首富，惊动印政府：星链要进印度的门，不仅要交技术开关，还得交过路费",
+        "link": "https://www.tmtpost.com/8165993.html",
+        "published_date": "Tue, 13 Oct 2026 18:43:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987262"
+      },
+      "f6308441f7b372a0d1b155b79cd72c63fffcb947bd5a36ff283297c1e82092e5": {
+        "title": "险资砸盘科技股？百亿私募冠军开炮了",
+        "link": "https://www.tmtpost.com/8166413.html",
+        "published_date": "Tue, 13 Oct 2026 18:23:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987273"
+      },
+      "35083211b59dc953a8ea231c030e7a0af17188cafd8c5ab0356a2658ec38b6f1": {
+        "title": "说个事：极客公园创新大会 2027！",
+        "link": "http://www.geekpark.net/news/372300",
+        "published_date": "Tue, 13 Oct 2026 19:33:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987277"
+      },
+      "899b6b438f21557a9673e42ce98eaa1a766ea0cbd6b00d105b800f224697f7bb": {
+        "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "link": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 11:56:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987279"
+      },
+      "450eaf425a35276fea7826835bbe4c7b76c771f4c636adc98b3d31ff5be37ef2": {
+        "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
+        "link": "https://www.tmtpost.com/8167551.html",
+        "published_date": "Tue, 13 Oct 2026 20:03:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987281"
+      },
+      "4ee43240c11b61b8c73b9fb32f17e109b2465be77cc2b4914e4991c4734428bb": {
+        "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标",
+        "link": "https://www.tmtpost.com/8167507.html",
+        "published_date": "Tue, 13 Oct 2026 19:25:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987283"
+      },
+      "320fa3f419d1b0df11416fea382464873cad367d827e7ab75710d39f187e54de": {
+        "title": "奔驰被测翻车后的12周",
+        "link": "https://www.tmtpost.com/8166656.html",
+        "published_date": "Tue, 13 Oct 2026 18:43:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987285"
+      },
+      "da733585ae990bea42b75a5f4db92b942b9e079c39a762151a86984bb4259f10": {
+        "title": "千问借钉钉进场，靠什么留下？",
+        "link": "https://www.tmtpost.com/8165804.html",
+        "published_date": "Tue, 13 Oct 2026 18:43:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987286"
+      },
+      "810f18bde27687040309a84703be4e93ae96f8ceecfe4fdb42b0d6ca1f92198d": {
+        "title": "胖东来真的不靠超市赚钱？",
+        "link": "https://www.tmtpost.com/8165973.html",
+        "published_date": "Tue, 13 Oct 2026 18:38:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987288"
+      },
+      "aea6aacb08f61739d05e876aa358e1e2dae4ec19b2b866c56441923e4ec18f83": {
+        "title": "超长蛋挞退潮，谁是幕后推手？",
+        "link": "https://www.tmtpost.com/8166275.html",
+        "published_date": "Tue, 13 Oct 2026 18:38:00 GMT",
+        "first_seen": "2026-10-13T12:31:40.987289"
       }
     },
     "Finance": {
-      "7c4203e01584ba45e02d29a9c6faecf91ddedafc3a341ab103a40fd17eb99228": {
-        "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
-        "link": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 05:40:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563847"
-      },
-      "8ea0f18245d654b2e1e36d21487f9f5796b69e5184d70146d2f8d85097ad9c5b": {
-        "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
-        "link": "https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563852"
-      },
-      "82068cca3d2125a72c5ee7cccf448f445932cf25d97e952ad3e91f9828919802": {
-        "title": "As Europe’s memory fades, radicalism is returning",
-        "link": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563854"
-      },
-      "10742609469569565cad23c4f08f78043c4dcd499c6c79e84d52c96fad951112": {
-        "title": "The perils of headphones in the office",
-        "link": "https://www.ft.com/content/abd98f82-7be0-4d84-b41c-4837cf5167a8?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563855"
-      },
-      "73b5dcd4ede6e466583eab8444a1f2c245eb84034beab673a6e9a6b1e4c5f9a5": {
-        "title": "Boom-era PE funds will fall short on promises, executives warn",
-        "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563856"
-      },
-      "3583271079e3b3a14afa9e892a9453326d4f2fbd355e91ccc663bcb6d46eaeea": {
-        "title": "Musk’s secretive backer builds $40bn SpaceX stake",
-        "link": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563857"
-      },
-      "901dade82e6de870a8dc7e9428fb69ca3c90bd8d900eedc020fe42872a62bd51": {
-        "title": "How Russia’s new drones are changing the air war",
-        "link": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.563857"
-      },
       "85a15e005f90d920a93ab4bca88ebe23048e29dd0d67f099561506826810b641": {
         "title": "Gulf states postpone talks with Iran over Hormuz impasse",
         "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
@@ -6873,45 +6831,69 @@
         "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
         "published_date": "Tue, 13 Oct 2026 00:18:00 GMT",
         "first_seen": "2026-10-13T03:25:38.036336"
+      },
+      "3a31450593a9ff3435af8418211bbaef01020fabe68c4074e587b1b6e02a86d3": {
+        "title": "Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack",
+        "link": "https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 12:06:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473420"
+      },
+      "04a4ec6d982bb40730a7d7bd423e60a1f937cc271f9520453d4f6b45ca07e64a": {
+        "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+        "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 11:50:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473428"
+      },
+      "78163f303560bb259fa96cb9d8b345db40c80adc21a2817567bc71dc0db728dd": {
+        "title": "Cyber attack on French supermarket fridges raises alarm over food security",
+        "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 11:50:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473430"
+      },
+      "46e959b5020a99b51b68d6394b555190f0a3789ec2829ab29fdca6d6f03e1a18": {
+        "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices",
+        "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 10:11:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473432"
+      },
+      "a3b715ee79a750f0f85e743c7566591f75e4d90183b8ce3e6b8cca3a68732789": {
+        "title": "Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes",
+        "link": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
+        "published_date": "Tue, 13 Oct 2026 09:42:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473433"
+      },
+      "a623084da7fa44122b6c8aea7d10b08f0d3f0101fb3a954e6e2477bc47f5f4f4": {
+        "title": "The elections that could remake Europe",
+        "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473435"
+      },
+      "e5e1bbbd0bd41c5b40e315959ce80e475a3c4779d72676196be435bc041e41f0": {
+        "title": "Why Trump is going for Zelenskyy’s jugular",
+        "link": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473436"
+      },
+      "81fb9b2214f8c6ae23d1b9d45d9f49e1025e831323e5dce8ba8561371eac0cb1": {
+        "title": "HR doesn’t need to be the CIA",
+        "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473438"
+      },
+      "c2e2b142fbda8b9d20baf51b06feac2dbb7d1273e63d975e15b6ff7237672ac3": {
+        "title": "Investors brave US Treasury rout to lock in highest yields in decades",
+        "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473439"
+      },
+      "1bacb88f53e6108a51f211607aacf56bb7effcd6f7bcbb6fb87f19959468f21a": {
+        "title": "The South Korean stock market is in free fall, and these are the reasons",
+        "link": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 11:44:00 GMT",
+        "first_seen": "2026-10-13T12:31:50.473441"
       }
     },
     "Ai": {
-      "43cb34d4ed241d4c918608878aa010c5dee7089d579212a196cbcad020796873": {
-        "title": "2026服贸会期间 七国政要议员体验萝卜快跑 “取经”中国绿色出行新质生产力",
-        "link": "https://www.leiphone.com/category/industrynews/Xp2MImq51mcwHJlL.html",
-        "published_date": "Sun, 13 Sep 2026 09:57:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530736"
-      },
-      "a893cc82e9e43aaac169b7357a0dad973c96948b344f3e5f5626483653733cc7": {
-        "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-        "link": "https://www.qbitai.com/2026/09/488672.html",
-        "published_date": "Sun, 13 Sep 2026 07:38:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530741"
-      },
-      "222328b29a3056d3ee408b11817c4365e907f4293582c0d1176d13c788ae1015": {
-        "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-        "link": "https://www.qbitai.com/2026/09/488519.html",
-        "published_date": "Sun, 13 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530742"
-      },
-      "3c5522919f6a06a343363fb15fe8a24320de104c1b2de2f995b0dd44525ddfb0": {
-        "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-        "link": "https://www.qbitai.com/2026/09/488447.html",
-        "published_date": "Sun, 13 Sep 2026 06:40:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530743"
-      },
-      "900cf357f995534faee22990e4856e66711a75a31402c2a56dc1575ae52912ab": {
-        "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-        "link": "https://www.qbitai.com/2026/09/488380.html",
-        "published_date": "Sun, 13 Sep 2026 03:13:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530744"
-      },
-      "cb7a6825a9dc5d36841bd777393bac7f53381554ddcb88785f3d62bf1957d1f5": {
-        "title": "2026-09-13日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-13/",
-        "published_date": "Sun, 13 Sep 2026 02:13:00 GMT",
-        "first_seen": "2026-09-13T10:05:54.530746"
-      },
       "06289177cb41ac58f3f5fc9d25924c4ec30b3dbb40cef7c9801234c0979c3f28": {
         "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
         "link": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
@@ -9701,13 +9683,73 @@
         "link": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
         "published_date": "Mon, 12 Oct 2026 13:36:00 GMT",
         "first_seen": "2026-10-13T03:25:38.197912"
+      },
+      "0971c341f2d048fa0acc9be5e24dc2a7a01d8d27f10f0c6778517ec989b13687": {
+        "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",
+        "link": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
+        "published_date": "Tue, 13 Oct 2026 17:20:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012434"
+      },
+      "f7480151cea5cdb38ee75ed6e6a0f03d6521348ecf5e5266890418cea29b6516": {
+        "title": "中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额",
+        "link": "https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html",
+        "published_date": "Tue, 13 Oct 2026 15:40:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012442"
+      },
+      "e414e947ec70a9000a4c97c6b4103e43db9e7ff0ef6a38e90588a465c089c4b5": {
+        "title": "其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”",
+        "link": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
+        "published_date": "Tue, 13 Oct 2026 13:50:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012444"
+      },
+      "f31e0b63da66c0c16a72deabfe5ff546d3094bfbaa45aeb65fbfcf9575a8999b": {
+        "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+        "link": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+        "published_date": "Tue, 13 Oct 2026 13:43:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012446"
+      },
+      "a138218cabd70d7f4ca1abcbf1ffef99d6bcb592d63b488e2abb9a4a2fc0c2d8": {
+        "title": "拓竹官宣首款3D扫描仪，进军个人制造全品类",
+        "link": "https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html",
+        "published_date": "Tue, 13 Oct 2026 13:38:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012448"
+      },
+      "6fe1a21a1c3ab6901ad17b8f9eee6f38fbb2921685cecef29609e7c9654dd84b": {
+        "title": "海尔官宣孙颖莎成为全球品牌代言人",
+        "link": "https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html",
+        "published_date": "Tue, 13 Oct 2026 13:33:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012449"
+      },
+      "e2cc647c4c5797235eae0c3c5deffab6c26381f18007061318e4d163e56c5fcb": {
+        "title": "千问确认将推出「千问Go!」，已开放体验申请",
+        "link": "https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html",
+        "published_date": "Tue, 13 Oct 2026 12:11:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012451"
+      },
+      "0d81c05e0995c8c3b4abec5159276ac10d933677b0c29b20739999ca41900da2": {
+        "title": "1688全面接入AI电商工作台Accio",
+        "link": "https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html",
+        "published_date": "Tue, 13 Oct 2026 10:44:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012452"
+      },
+      "3e7a8bb6d06984cddbfae7a60def45c3dcf667600b515a7b0dff481f8c6e4970": {
+        "title": "「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款",
+        "link": "https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html",
+        "published_date": "Tue, 13 Oct 2026 10:19:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012453"
+      },
+      "b6aa7d4512a0f454ed79f0405163a1ae525a16deb9466ddb65cb1f540b1cccd6": {
+        "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+        "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+        "published_date": "Tue, 13 Oct 2026 12:00:00 GMT",
+        "first_seen": "2026-10-13T12:32:00.012455"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-13T03:25:28.522195",
-    "Finance": "2026-10-13T03:25:38.036339",
-    "Ai": "2026-10-13T03:25:38.197914"
+    "Technology": "2026-10-13T12:31:40.987291",
+    "Finance": "2026-10-13T12:31:50.473443",
+    "Ai": "2026-10-13T12:32:00.012456"
   }
 }

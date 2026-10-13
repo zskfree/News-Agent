@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-13 03:25
+**最后更新时间**: 2026-10-13 12:31
+
+---
+
+## 🆕 最新更新 (2026-10-13 12:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack](https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 12:06
+
+#### [Chip stocks slide in wake of ‘casino’ comment by Broadcom boss](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 11:50
+
+#### [Cyber attack on French supermarket fridges raises alarm over food security](https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 11:50
+
+#### [Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices](https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 10:11
+
+#### [Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes](https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091)
+**发布时间**: 2026-10-13 09:42
+
+#### [The elections that could remake Europe](https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 04:00
+
+#### [Why Trump is going for Zelenskyy’s jugular](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 04:00
+
+#### [HR doesn’t need to be the CIA](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 04:00
+
+#### [Investors brave US Treasury rout to lock in highest yields in decades](https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years](https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 12:04
+
+#### [The South Korean stock market is in free fall, and these are the reasons](https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 11:44
+
+#### [Six Flags’ stock slumps near 52-week lows after fatal accident](https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 11:31
+
+#### [U.S. wealth has shifted to stocks from homes. There are big reasons to worry.](https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 11:30
+
+#### [A SpaceX launch shortage is fueling a $100 billion investing spree](https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 11:06
+
+#### [Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.](https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 11:00
+
+#### [UnitedHealth keeps medical costs under control — and raises its outlook again](https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 10:45
+
+#### [What to expect from Europe’s most valuable company before it kicks off tech earnings](https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 09:33
 
 ---
 

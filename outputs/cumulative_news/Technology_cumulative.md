@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-13 03:25
+**最后更新时间**: 2026-10-13 12:31
+
+---
+
+## 🆕 最新更新 (2026-10-13 12:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线](https://www.tmtpost.com/8167551.html)
+**发布时间**: 2026-10-13 20:03
+
+#### [提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标](https://www.tmtpost.com/8167507.html)
+**发布时间**: 2026-10-13 19:25
+
+#### [奔驰被测翻车后的12周](https://www.tmtpost.com/8166656.html)
+**发布时间**: 2026-10-13 18:43
+
+#### [马斯克炮轰印度首富，惊动印政府：星链要进印度的门，不仅要交技术开关，还得交过路费](https://www.tmtpost.com/8165993.html)
+**发布时间**: 2026-10-13 18:43
+
+#### [千问借钉钉进场，靠什么留下？](https://www.tmtpost.com/8165804.html)
+**发布时间**: 2026-10-13 18:43
+
+#### [胖东来真的不靠超市赚钱？](https://www.tmtpost.com/8165973.html)
+**发布时间**: 2026-10-13 18:38
+
+#### [超长蛋挞退潮，谁是幕后推手？](https://www.tmtpost.com/8166275.html)
+**发布时间**: 2026-10-13 18:38
+
+#### [全球星座，地面生意](https://www.tmtpost.com/8166229.html)
+**发布时间**: 2026-10-13 18:38
+
+#### [线上力推、线下退场，三生花接得住百雀羚的洗护牌吗？](https://www.tmtpost.com/8166038.html)
+**发布时间**: 2026-10-13 18:38
+
+#### [郑钦文夺冠后，霸王茶姬和奥迪买一送一，谁赢谁输？](https://www.tmtpost.com/8167260.html)
+**发布时间**: 2026-10-13 18:26
+
+#### [高磷血症，中国药物正在追回“失去的十年”](https://www.tmtpost.com/8167248.html)
+**发布时间**: 2026-10-13 18:26
+
+#### [足力健二次创业为何败北？](https://www.tmtpost.com/8166281.html)
+**发布时间**: 2026-10-13 18:26
+
+#### [AI闯入好莱坞：一家公司如何改写百年规则](https://www.tmtpost.com/8166842.html)
+**发布时间**: 2026-10-13 18:25
+
+#### [云深处IPO：不表演的机器人，靠什么放量？](https://www.tmtpost.com/8167181.html)
+**发布时间**: 2026-10-13 18:23
+
+#### [月之暗面，挤进决赛圈](https://www.tmtpost.com/8166559.html)
+**发布时间**: 2026-10-13 18:23
+
+#### [险资砸盘科技股？百亿私募冠军开炮了](https://www.tmtpost.com/8166413.html)
+**发布时间**: 2026-10-13 18:23
+
+#### [Tencent Scraps Early Desktop Agent as Platforms Narrow the Field](https://www.tmtpost.com/8167231.html)
+**发布时间**: 2026-10-13 17:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [说个事：极客公园创新大会 2027！](http://www.geekpark.net/news/372300)
+**发布时间**: 2026-10-13 19:33
+
+#### [上线九个月下载破亿，字节在海外再造「红果」](http://www.geekpark.net/news/372284)
+**发布时间**: 2026-10-13 13:19
+
+#### [复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界](http://www.geekpark.net/news/372278)
+**发布时间**: 2026-10-13 11:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕](https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 18:32
+
+#### [刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？](https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 17:57
+
+#### [Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构](https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 17:41
+
+#### [修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程](https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 17:25
+
+#### [千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机](https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 16:24
+
+#### [从可复用到可再生：重新思考共享 UI 组件库](https://www.infoq.cn/article/Fvuq0C19vAAYpSBN3US2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 15:21
+
+#### [高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游](https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 13:25
+
+#### [20年技术品牌建设都成浮云：编程智能体如何选择其首选工具](https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 11:56
+
+#### [Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里](https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 11:45
+
+#### [GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？](https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 11:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议](https://sspai.com/post/116068)
+**发布时间**: 2026-10-13 17:00
+
+#### [App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App](https://sspai.com/post/115400)
+**发布时间**: 2026-10-13 15:00
+
+#### [迈上生态新台阶，首期 Apple 应用孵化器顺利收官](https://sspai.com/post/116028)
+**发布时间**: 2026-10-13 11:30
+
+#### [高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
+**发布时间**: 2026-10-13 11:09
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 6 本 GitHub 上的开源 AI 宝典，那是相当有真东西。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537712&idx=1&sn=0a65b2d17e6b825013c0a4630baa3bc2)
+**发布时间**: 2026-10-13 14:45
 
 ---
 

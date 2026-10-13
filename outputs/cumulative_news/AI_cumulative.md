@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-13 03:23
+**最后更新时间**: 2026-10-13 12:30
+
+---
+
+## 🆕 最新更新 (2026-10-13 12:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司](https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html)
+**发布时间**: 2026-10-13 17:20
+
+#### [中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额](https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html)
+**发布时间**: 2026-10-13 15:40
+
+#### [其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”](https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html)
+**发布时间**: 2026-10-13 13:50
+
+#### [字节跳动 Seed 单独设立大模型安全与对齐部门](https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html)
+**发布时间**: 2026-10-13 13:43
+
+#### [拓竹官宣首款3D扫描仪，进军个人制造全品类](https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html)
+**发布时间**: 2026-10-13 13:38
+
+#### [海尔官宣孙颖莎成为全球品牌代言人](https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html)
+**发布时间**: 2026-10-13 13:33
+
+#### [千问确认将推出「千问Go!」，已开放体验申请](https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html)
+**发布时间**: 2026-10-13 12:11
+
+#### [1688全面接入AI电商工作台Accio](https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html)
+**发布时间**: 2026-10-13 10:44
+
+#### [1688全面接入AI电商工作台Accio](https://www.leiphone.com/category/industrynews/rsj1mgq45ea7h9mt.html)
+**发布时间**: 2026-10-13 10:43
+
+#### [「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款](https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html)
+**发布时间**: 2026-10-13 10:19
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
+**发布时间**: 2026-10-13 12:00
+
+#### [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/)
+**发布时间**: 2026-10-13 05:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [魔法原子具身Agent框架拿下MolmoSpaces全球第一](https://www.qbitai.com/2026/10/503107.html)
+**发布时间**: 2026-10-13 11:05
+
+#### [梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑](https://www.qbitai.com/2026/10/503093.html)
+**发布时间**: 2026-10-13 09:33
+
+#### [中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战](https://www.qbitai.com/2026/10/502992.html)
+**发布时间**: 2026-10-13 07:20
+
+#### [华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁](https://www.qbitai.com/2026/10/502954.html)
+**发布时间**: 2026-10-13 07:19
+
+#### [Claude团队又搞事：实测AI全自主复制进智能家电](https://www.qbitai.com/2026/10/502920.html)
+**发布时间**: 2026-10-13 06:19
+
+#### [“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档](https://www.qbitai.com/2026/10/502907.html)
+**发布时间**: 2026-10-13 06:00
+
+#### [9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题](https://www.qbitai.com/2026/10/502784.html)
+**发布时间**: 2026-10-13 04:07
+
+#### [退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管](https://www.qbitai.com/2026/10/502849.html)
+**发布时间**: 2026-10-13 04:04
+
+#### [单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录](https://www.qbitai.com/2026/10/502767.html)
+**发布时间**: 2026-10-13 04:01
+
+#### [优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一](https://www.qbitai.com/2026/10/502770.html)
+**发布时间**: 2026-10-13 02:01
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB](https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/)
+**发布时间**: 2026-10-13 08:19
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: Building accountability behind our words — and AI’s — in civic conversations](https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013)
+**发布时间**: 2026-10-13 00:00
 
 ---
 
